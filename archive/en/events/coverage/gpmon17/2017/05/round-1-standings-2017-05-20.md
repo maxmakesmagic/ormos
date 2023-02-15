@@ -1,0 +1,903 @@
+
+---
+[Link to Wayback Machine](https://web.archive.org/web/20200527225746/https://magic.wizards.com/en/events/coverage/gpmon17/round-1-standings-2017-05-20)
+
+[_metadata_:author]:- "Wizards of the Coast"
+[_metadata_:description]:- "Rank Player Points OMW% 1 Brazeau, Mathieu [CA] 3 0.3333 2 Caya, Steve [CA] 3 0.3333 3 Moore, James [CA] 3 0.3333 4 Dunn, Ryan [US] 3 0.3333 5"
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1156451"
+[_metadata_:publish_date]:- "2017-05-20"
+[_metadata_:source]:- "div-main-content"
+[_metadata_:title]:- "ROUND 1 STANDINGS"
+[_metadata_:wayback_capture_timestamp]:- "2020-05-27 22:57:46"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200527225746id_/https://magic.wizards.com/en/events/coverage/gpmon17/round-1-standings-2017-05-20"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/events/coverage/gpmon17/round-1-standings-2017-05-20"
+---
+
+
+ROUND 1 STANDINGS
+=================
+
+
+
+ Posted in **Event Coverage**
+ on May 20, 2017 
+
+
+
+
+
+
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
+By Wizards of the Coast
+
+
+
+
+
+
+
+
+
+
+
+
+
+| **Rank** | **Player** | **Points** | **OMW%** |
+| --- | --- | --- | --- |
+| 1 | Brazeau, Mathieu [CA] | 3 | 0.3333 |
+| 2 | Caya, Steve [CA] | 3 | 0.3333 |
+| 3 | Moore, James [CA] | 3 | 0.3333 |
+| 4 | Dunn, Ryan [US] | 3 | 0.3333 |
+| 5 | Bilodeau, Antoine [CA] | 3 | 0.3333 |
+| 6 | Jolin, David [CA] | 3 | 0.3333 |
+| 7 | Bellemare, Benoit [CA] | 3 | 0.3333 |
+| 8 | Carolan, Edward [CA] | 3 | 0.3333 |
+| 9 | Ste Marie, Christopher [CA] | 3 | 0.3333 |
+| 10 | Bondy, Jonathan [CA] | 3 | 0.3333 |
+| 11 | White, Sam [CA] | 3 | 0.3333 |
+| 12 | Ferrera, Joseph [US] | 3 | 0.3333 |
+| 13 | Potvin, Guillaume [CA] | 3 | 0.3333 |
+| 14 | Stannard, Christopher [US] | 3 | 0.3333 |
+| 15 | LaVigna, Stephen [US] | 3 | 0.3333 |
+| 16 | Wagenhoffer, Malcolm [CA] | 3 | 0.3333 |
+| 17 | Comeau, Samantha [CA] | 3 | 0.3333 |
+| 18 | Mayen, Steven [CA] | 3 | 0.3333 |
+| 19 | Gobeil, Charles-Keven [CA] | 3 | 0.3333 |
+| 20 | Contenta, Luca [CA] | 3 | 0.3333 |
+| 21 | Laporte, Gregory [CA] | 3 | 0.3333 |
+| 22 | Francoeur, Richard [CA] | 3 | 0.3333 |
+| 23 | Thorpe, Luke [CA] | 3 | 0.3333 |
+| 24 | Charron, Matthew [CA] | 3 | 0.3333 |
+| 25 | Leonidou, Alexandra [CA] | 3 | 0.3333 |
+| 26 | Monaghan, Thomas [CA] | 3 | 0.3333 |
+| 27 | Stan, Robert [CA] | 3 | 0.3333 |
+| 28 | Hodges, Chad [CA] | 3 | 0.3333 |
+| 29 | Freedman, Kevin [CA] | 3 | 0.3333 |
+| 30 | Leduc, Samuel [CA] | 3 | 0.3333 |
+| 31 | Carey, Max [CA] | 3 | 0.3333 |
+| 32 | Irons, Bill [CA] | 3 | 0.3333 |
+| 33 | Marshall, Colin [CA] | 3 | 0.3333 |
+| 34 | Aitchison, Evan [CA] | 3 | 0.3333 |
+| 35 | Drysdale, Asher [CA] | 3 | 0.3333 |
+| 36 | Little, Keegan [CA] | 3 | 0.3333 |
+| 37 | Pineault, Mark [CA] | 3 | 0.3333 |
+| 38 | Villeneuve, Gabriel [US] | 3 | 0.3333 |
+| 39 | Cayouette, Serge-Olivier [CA] | 3 | 0.3333 |
+| 40 | Berlinrut, Gregory [US] | 3 | 0.3333 |
+| 41 | Raymer, Bryan [US] | 3 | 0.3333 |
+| 42 | Pepin, Alain [US] | 3 | 0.3333 |
+| 43 | Torrey, Dylan [US] | 3 | 0.3333 |
+| 44 | Quevillon, Jonathan [CA] | 3 | 0.3333 |
+| 45 | Lacasse, Sylvain [CA] | 3 | 0.3333 |
+| 46 | Sterry, Benjamin [US] | 3 | 0.3333 |
+| 47 | Ducharme, Kyle [US] | 3 | 0.3333 |
+| 48 | Herdzik, Eric [US] | 3 | 0.3333 |
+| 49 | Gravelle, Cody [CA] | 3 | 0.3333 |
+| 50 | Law, Conor [US] | 3 | 0.3333 |
+| 51 | McMeekin, Scott [CA] | 3 | 0.3333 |
+| 52 | Hill, David [CA] | 3 | 0.3333 |
+| 53 | Kingsley, Maxime [CA] | 3 | 0.3333 |
+| 54 | Lu, Jiekun [CA] | 3 | 0.3333 |
+| 55 | Mallard, Jared [CA] | 3 | 0.3333 |
+| 56 | Maw, Alexander [GB] | 3 | 0.3333 |
+| 57 | Bernier, Francis [CA] | 3 | 0.3333 |
+| 58 | Young, Bradley [CA] | 3 | 0.3333 |
+| 59 | Kershaw, Matthew [CA] | 3 | 0.3333 |
+| 60 | Buck, Robert [US] | 3 | 0.3333 |
+| 61 | Boucher, Yannick [CA] | 3 | 0.3333 |
+| 62 | Severin, John [CA] | 3 | 0.3333 |
+| 63 | Ngo, Alan [CA] | 3 | 0.3333 |
+| 64 | Greir, Simon [DK] | 3 | 0.3333 |
+| 65 | Otsubo, Paul [CA] | 3 | 0.3333 |
+| 66 | Callahan-Cormier, Devin [US] | 3 | 0.3333 |
+| 67 | Nilsson, Daniel [CA] | 3 | 0.3333 |
+| 68 | Magyar, Dan [CA] | 3 | 0.3333 |
+| 69 | Conrad, Cory [CA] | 3 | 0.3333 |
+| 70 | Davis, Charles [CA] | 3 | 0.3333 |
+| 71 | Gaspari, Philip-Gianni [CA] | 3 | 0.3333 |
+| 72 | Robert, Mathieu [CA] | 3 | 0.3333 |
+| 73 | McDuff, Michael [CA] | 3 | 0.3333 |
+| 74 | Lariviere, Frederic [CA] | 3 | 0.3333 |
+| 75 | Honkonen, Charles [US] | 3 | 0.3333 |
+| 76 | Wagenhoffer, Thomas [CA] | 3 | 0.3333 |
+| 77 | Ain, Jackson [CA] | 3 | 0.3333 |
+| 78 | Gagnon, Gabriel [CA] | 3 | 0.3333 |
+| 79 | Moran, Kyle [US] | 3 | 0.3333 |
+| 80 | Hu, Lance [CA] | 3 | 0.3333 |
+| 81 | Le Gendre, Randy [CA] | 3 | 0.3333 |
+| 82 | Fello, Bobby [US] | 3 | 0.3333 |
+| 83 | Rivard, Alexandre [CA] | 3 | 0.3333 |
+| 84 | Orr, Matthew [CA] | 3 | 0.3333 |
+| 85 | Ferrulli, Leonardo [CA] | 3 | 0.3333 |
+| 86 | Murphy, Joshua [CA] | 3 | 0.3333 |
+| 87 | Paller, Andrew [CA] | 3 | 0.3333 |
+| 88 | Keefe, William [US] | 3 | 0.3333 |
+| 89 | Danielson, Stephen [CA] | 3 | 0.3333 |
+| 90 | Tran, Thomas [CA] | 3 | 0.3333 |
+| 91 | Emond, Raphael [CA] | 3 | 0.3333 |
+| 92 | Phung, Stephen [CA] | 3 | 0.3333 |
+| 93 | Boland, Cole [CA] | 3 | 0.3333 |
+| 94 | Briand, Wayne [CA] | 3 | 0.3333 |
+| 95 | Cyrenne, Mathieu [CA] | 3 | 0.3333 |
+| 96 | Stewart, Ryan [CA] | 3 | 0.3333 |
+| 97 | Lee-Genest, Sacha [CA] | 3 | 0.3333 |
+| 98 | Cendagorta, Anthony [US] | 3 | 0.3333 |
+| 99 | Julien, Abenhaim [CA] | 3 | 0.3333 |
+| 100 | Dunnet, Steven [CA] | 3 | 0.3333 |
+| 101 | Bonneville, Martin [CA] | 3 | 0.3333 |
+| 102 | Ponton, Sebastien [CA] | 3 | 0.3333 |
+| 103 | Perantinos, Matthew [CA] | 3 | 0.3333 |
+| 104 | Lou, Shen [CA] | 3 | 0.3333 |
+| 105 | Tsang-Hi, Victor [CA] | 3 | 0.3333 |
+| 106 | Canfield, Delray [US] | 3 | 0.3333 |
+| 107 | Dougherty, Aaron [US] | 3 | 0.3333 |
+| 108 | Gonzales, German [CA] | 3 | 0.3333 |
+| 109 | Diego, Nicholas [US] | 3 | 0.3333 |
+| 110 | DArduini, Daniel [CA] | 3 | 0.3333 |
+| 111 | Kevorkian, Adis [CA] | 3 | 0.3333 |
+| 112 | DeCoste, Michael [US] | 3 | 0.3333 |
+| 113 | Samson, Louis-Alexandre [CA] | 3 | 0.3333 |
+| 114 | Ciccarelli, Emilio [CA] | 3 | 0.3333 |
+| 115 | Clarke, Davies [CA] | 3 | 0.3333 |
+| 116 | Laudy, Philippe [CA] | 3 | 0.3333 |
+| 117 | Curran, Trevor [CA] | 3 | 0.3333 |
+| 118 | Holmes, Christopher [US] | 3 | 0.3333 |
+| 119 | Prosperi, Jonathan [US] | 3 | 0.3333 |
+| 120 | Drummond, Bryn [CA] | 3 | 0.3333 |
+| 121 | Bergerac, Michael [US] | 3 | 0.3333 |
+| 122 | Bergeron, Julien [CA] | 3 | 0.3333 |
+| 123 | Bibeau, Guillaume [CA] | 3 | 0.3333 |
+| 124 | Faure, Stephane [CA] | 3 | 0.3333 |
+| 125 | Rioux-Richard, Adrien [CA] | 3 | 0.3333 |
+| 126 | Benedict, Matthew [US] | 3 | 0.3333 |
+| 127 | Barrier, Adam [CA] | 3 | 0.3333 |
+| 128 | Regimbald, Jean-Francois [CA] | 3 | 0.3333 |
+| 129 | Armstrong, James [CA] | 3 | 0.3333 |
+| 130 | Kazak, Dzmitry [BY] | 3 | 0.3333 |
+| 131 | Morrill, Adam [CA] | 3 | 0.3333 |
+| 132 | Labelle, Alexandre [CA] | 3 | 0.3333 |
+| 133 | Baldvinsson, Einar Agust [IS] | 3 | 0.3333 |
+| 134 | Chalkley, Robert [CA] | 3 | 0.3333 |
+| 135 | Mazur, Spencer [CA] | 3 | 0.3333 |
+| 136 | Lavoie, Laurie-Eve [CA] | 3 | 0.3333 |
+| 137 | Milewicz, Christopher [CA] | 3 | 0.3333 |
+| 138 | Audet, Marc [CA] | 3 | 0.3333 |
+| 139 | Lupica, Matthew [US] | 3 | 0.3333 |
+| 140 | Klenk, Branden [CA] | 3 | 0.3333 |
+| 141 | Little, Adrian [CA] | 3 | 0.3333 |
+| 142 | Carlino, Steffen [CA] | 3 | 0.3333 |
+| 143 | Axtell, Matthew [US] | 3 | 0.3333 |
+| 144 | Picard, Vincent [CA] | 3 | 0.3333 |
+| 145 | Madill, Jamie [CA] | 3 | 0.3333 |
+| 146 | Jacques, Zachary [US] | 3 | 0.3333 |
+| 147 | Brule, Alexandre [FR] | 3 | 0.3333 |
+| 148 | Albert, Levi [CA] | 3 | 0.3333 |
+| 149 | Niskala, Trevor [US] | 3 | 0.3333 |
+| 150 | Dion, Marc-Antoine [CA] | 3 | 0.3333 |
+| 151 | Schmidt, Steven [US] | 3 | 0.3333 |
+| 152 | Century, Noah [CA] | 3 | 0.3333 |
+| 153 | Cote, David [CA] | 3 | 0.3333 |
+| 154 | Tran, Binh Khoi [CA] | 3 | 0.3333 |
+| 155 | Goltz, Avery [CA] | 3 | 0.3333 |
+| 156 | Baryluk, Kyle [CA] | 3 | 0.3333 |
+| 157 | Quinn, Patrick [CA] | 3 | 0.3333 |
+| 158 | Courval, Frederick [CA] | 3 | 0.3333 |
+| 159 | Dumont, Jocelyn [CA] | 3 | 0.3333 |
+| 160 | Cadieux, Alexandre [CA] | 3 | 0.3333 |
+| 161 | Bailey, Alex [CA] | 3 | 0.3333 |
+| 162 | Jukic, Drago [US] | 3 | 0.3333 |
+| 163 | MacDonald, Nicholas [CA] | 3 | 0.3333 |
+| 164 | Holness, Devaghat [CA] | 3 | 0.3333 |
+| 165 | Duguay, Pierre-Marc [CA] | 3 | 0.3333 |
+| 166 | Murphy, Matthew [CA] | 3 | 0.3333 |
+| 167 | Hill, Michael [CA] | 3 | 0.3333 |
+| 168 | Huot, Simon [CA] | 3 | 0.3333 |
+| 169 | Boileau, Jean Christian [CA] | 3 | 0.3333 |
+| 170 | Fequet, Louis [CA] | 3 | 0.3333 |
+| 171 | Pare, Stephane [CA] | 3 | 0.3333 |
+| 172 | Keck, Frederick [AU] | 3 | 0.3333 |
+| 173 | McKerricher, Ryan [CA] | 3 | 0.3333 |
+| 174 | Cadorette, Simon [CA] | 3 | 0.3333 |
+| 175 | Daley, Sean [US] | 3 | 0.3333 |
+| 176 | Lainesse, Jonathan [CA] | 3 | 0.3333 |
+| 177 | Boucher, Patrick [CA] | 3 | 0.3333 |
+| 178 | Bourque, Jonathan [CA] | 3 | 0.3333 |
+| 179 | Graham, Jeffrey [CA] | 3 | 0.3333 |
+| 180 | Simard, Alexandre [CA] | 3 | 0.3333 |
+| 181 | LaMonica, Ron [CA] | 3 | 0.3333 |
+| 182 | Raymore, T. J. [CA] | 3 | 0.3333 |
+| 183 | Reynolds, Keegan [CA] | 3 | 0.3333 |
+| 184 | Neale, Riley [CA] | 3 | 0.3333 |
+| 185 | Joyal, Martin [CA] | 3 | 0.3333 |
+| 186 | Kiser, Nicholas [CA] | 3 | 0.3333 |
+| 187 | Crave, Kevin [US] | 3 | 0.3333 |
+| 188 | Ludington, Kirk [CA] | 3 | 0.3333 |
+| 189 | Hovington Caron, Gabriel [CA] | 3 | 0.3333 |
+| 190 | Dojcsak, Mike [CA] | 3 | 0.3333 |
+| 191 | Scott, Morgan [CA] | 3 | 0.3333 |
+| 192 | Phillips, Cassandra [CA] | 3 | 0.3333 |
+| 193 | Huot, Michael [CA] | 3 | 0.3333 |
+| 194 | Conger, Zachary [US] | 3 | 0.3333 |
+| 195 | Sajour, Jose Antonio [DO] | 3 | 0.3333 |
+| 196 | Carter, Ariel [US] | 3 | 0.3333 |
+| 197 | Labelle, Chris [CA] | 3 | 0.3333 |
+| 198 | Casselman, Christopher [CA] | 3 | 0.3333 |
+| 199 | Friedman, Gene [US] | 3 | 0.0000 |
+| 200 | Smith, Robert [CA] | 3 | 0.0000 |
+| 201 | Morin, Jean-Christophe [CA] | 3 | 0.0000 |
+| 202 | Ascott, Ryan [CA] | 3 | 0.0000 |
+| 203 | Barber, Ian [US] | 3 | 0.0000 |
+| 204 | Perez, Raymond [US] | 3 | 0.0000 |
+| 205 | Parke, Jamie [US] | 3 | 0.0000 |
+| 206 | Monico, Riccardo [US] | 3 | 0.0000 |
+| 207 | Yu, Ben [US] | 3 | 0.0000 |
+| 208 | Chin, Ricky [CA] | 3 | 0.0000 |
+| 209 | Cruz Marquez, Jovanny [MX] | 3 | 0.0000 |
+| 210 | Chen, Gary [US] | 3 | 0.0000 |
+| 211 | Melanson, Cory [CA] | 3 | 0.0000 |
+| 212 | Huang, Ray [US] | 3 | 0.0000 |
+| 213 | Martone, Michael [CA] | 3 | 0.0000 |
+| 214 | Mitchell, Raymond [CA] | 3 | 0.0000 |
+| 215 | Botelho, Chris [US] | 3 | 0.0000 |
+| 216 | Couture, Jean-Philippe [CA] | 3 | 0.0000 |
+| 217 | Van Vaals, Michael [CA] | 3 | 0.0000 |
+| 218 | Simmons, Keith [CA] | 3 | 0.0000 |
+| 219 | Walker, Nathaniel [US] | 3 | 0.0000 |
+| 220 | To, Julian [AU] | 3 | 0.0000 |
+| 221 | LaManna, Stephen [US] | 3 | 0.0000 |
+| 222 | Gorham, Andrew [CA] | 3 | 0.0000 |
+| 223 | Watt, Alex [CA] | 3 | 0.0000 |
+| 224 | Mercier, Etienne [CA] | 3 | 0.0000 |
+| 225 | Tarenta, Mark [CA] | 3 | 0.0000 |
+| 226 | Villeneuve, Raphael [CA] | 3 | 0.0000 |
+| 227 | Vuong, Richie [CA] | 3 | 0.0000 |
+| 228 | Mines, David [AU] | 3 | 0.0000 |
+| 229 | Cormier, Brandon [CA] | 3 | 0.0000 |
+| 230 | Hemsley, Matt [CA] | 3 | 0.0000 |
+| 231 | West, Matthew [US] | 3 | 0.0000 |
+| 232 | Moazen-Sayad, Pedram [CA] | 3 | 0.0000 |
+| 233 | Kavanagh, Carolyn [CA] | 3 | 0.0000 |
+| 234 | Soorani, Shaheen [US] | 3 | 0.0000 |
+| 235 | Rubinoff, Jeremy [CA] | 3 | 0.0000 |
+| 236 | Neufeldt, Alexander [CA] | 3 | 0.0000 |
+| 237 | Lerman, Luke [CA] | 3 | 0.0000 |
+| 238 | Gonzalez, Alejandro [MX] | 3 | 0.0000 |
+| 239 | Durney, Ryan [US] | 3 | 0.0000 |
+| 240 | Blondon, William [CA] | 3 | 0.0000 |
+| 241 | Ogier, James [US] | 3 | 0.0000 |
+| 242 | Dubyk, Dilon [CA] | 3 | 0.0000 |
+| 243 | (24) Braun-Duin, Brian [US] | 3 | 0.0000 |
+| 244 | Reuschel, Carl [US] | 3 | 0.0000 |
+| 245 | Swaluk, Jeff [CA] | 3 | 0.0000 |
+| 246 | Bianchi, Alex [US] | 3 | 0.0000 |
+| 247 | Tharmaratnam, Samuel [CA] | 3 | 0.0000 |
+| 248 | Fridriksson, Marteinn [CA] | 3 | 0.0000 |
+| 249 | Demers, Hugo [CA] | 3 | 0.0000 |
+| 250 | Cox, Patrick [US] | 3 | 0.0000 |
+| 251 | Snook, Adam [US] | 3 | 0.0000 |
+| 252 | Gordillo, Massimo [CA] | 3 | 0.0000 |
+| 253 | Gagnon, Jean-Philleppe [CA] | 3 | 0.0000 |
+| 254 | Marmorato, Matthew [US] | 3 | 0.0000 |
+| 255 | Redhead, Sean [CA] | 3 | 0.0000 |
+| 256 | Chin, Steve [CA] | 3 | 0.0000 |
+| 257 | Takata, Mutsumu [JP] | 3 | 0.0000 |
+| 258 | Mascioli, Chris [US] | 3 | 0.0000 |
+| 259 | Tomajko, Oliver [US] | 3 | 0.0000 |
+| 260 | Medeiros, Max [US] | 3 | 0.0000 |
+| 261 | Pite, Derek [CA] | 3 | 0.0000 |
+| 262 | Hagelberg, Maximilian [SE] | 3 | 0.0000 |
+| 263 | Thompson, Kale [CA] | 3 | 0.0000 |
+| 264 | Burrows-Johnson, Andrew [CA] | 3 | 0.0000 |
+| 265 | Girardi, Nicholas [US] | 3 | 0.0000 |
+| 266 | Hartman, Reed [US] | 3 | 0.0000 |
+| 267 | Hare, Ryan [US] | 3 | 0.0000 |
+| 268 | Morawski, Jonathan [US] | 3 | 0.0000 |
+| 269 | Zhang, Boyang [US] | 3 | 0.0000 |
+| 270 | Laurin, Jeansebastien [CA] | 3 | 0.0000 |
+| 271 | Estephan, Jessica [AU] | 3 | 0.0000 |
+| 272 | Ferry, Sergio [CA] | 3 | 0.0000 |
+| 273 | Fontes, Carlos [US] | 3 | 0.0000 |
+| 274 | Leclerc, Hugo [CA] | 3 | 0.0000 |
+| 275 | Martinez II, Eddie [US] | 3 | 0.0000 |
+| 276 | Whitsitt, Ryan [CA] | 3 | 0.0000 |
+| 277 | Renaud, Domynique [CA] | 3 | 0.0000 |
+| 278 | Tremblay, Sebastien [CA] | 3 | 0.0000 |
+| 279 | England, Sarah [CA] | 3 | 0.0000 |
+| 280 | Wildes, Julian [US] | 3 | 0.0000 |
+| 281 | Calce, Christopher [CA] | 3 | 0.0000 |
+| 282 | Kmieciak, Chris [CA] | 3 | 0.0000 |
+| 283 | Lopez Yapor, Caupolican [DO] | 3 | 0.0000 |
+| 284 | Reynolds, Patrick [US] | 3 | 0.0000 |
+| 285 | Tafoya, Michael [US] | 3 | 0.0000 |
+| 286 | Taimla, Christopher [CA] | 3 | 0.0000 |
+| 287 | Roberson, Rameal [CA] | 3 | 0.0000 |
+| 288 | Dunleavey, Michael [US] | 3 | 0.0000 |
+| 289 | Stoyles, Chris [CA] | 3 | 0.0000 |
+| 290 | Feingersh, Ben [US] | 3 | 0.0000 |
+| 291 | Benedict, Justin [CA] | 3 | 0.0000 |
+| 292 | Johnson, Courtney [CA] | 3 | 0.0000 |
+| 293 | Bedell, Rodney [US] | 3 | 0.0000 |
+| 294 | Reed, Chris [US] | 3 | 0.0000 |
+| 295 | Tort, Felix [CA] | 3 | 0.0000 |
+| 296 | Lyrette, Styve [CA] | 3 | 0.0000 |
+| 297 | Hicks, Steven [US] | 3 | 0.0000 |
+| 298 | Fry, Donald [CA] | 3 | 0.0000 |
+| 299 | Gouthro, Michael [CA] | 3 | 0.0000 |
+| 300 | Fay, Timothy [US] | 3 | 0.0000 |
+| 301 | Thurman, Matt [CA] | 3 | 0.0000 |
+| 302 | (12) Rubin, Steve [US] | 3 | 0.0000 |
+| 303 | Roxburgh, Micheal [CA] | 3 | 0.0000 |
+| 304 | (4) Duke, Reid [US] | 3 | 0.0000 |
+| 305 | Wagenhoffer, Robert [CA] | 3 | 0.0000 |
+| 306 | Spano, Gregg [US] | 3 | 0.0000 |
+| 307 | St Laurent, Jerome [CA] | 3 | 0.0000 |
+| 308 | Morrison, Kyle [US] | 3 | 0.0000 |
+| 309 | Esposito, Evan [US] | 3 | 0.0000 |
+| 310 | Schnayer, David [CA] | 3 | 0.0000 |
+| 311 | O'Brien, Chris [US] | 3 | 0.0000 |
+| 312 | Tierney, Greg [CA] | 3 | 0.0000 |
+| 313 | McIsaac, Neil [US] | 3 | 0.0000 |
+| 314 | Babin, Jayson [CA] | 3 | 0.0000 |
+| 315 | Crotts, Jennifer [CA] | 3 | 0.0000 |
+| 316 | Gao, Sean [US] | 3 | 0.0000 |
+| 317 | Neveu, Pierre Antoine [CA] | 3 | 0.0000 |
+| 318 | Bouchard, Jason [US] | 3 | 0.0000 |
+| 319 | Mowry, Matthew [US] | 3 | 0.0000 |
+| 320 | Demars, Brian [US] | 3 | 0.0000 |
+| 321 | Lewis, Michael [CA] | 3 | 0.0000 |
+| 322 | Miller, Kyle [US] | 3 | 0.0000 |
+| 323 | Morun, Bogdan [CA] | 3 | 0.0000 |
+| 324 | Nguyen, Thien [US] | 3 | 0.0000 |
+| 325 | Dejoy, Joseph [US] | 3 | 0.0000 |
+| 326 | Mcvety, Max [US] | 3 | 0.0000 |
+| 327 | Steffe, Sebastian [CA] | 3 | 0.0000 |
+| 328 | Meah, Josh [US] | 3 | 0.0000 |
+| 329 | Bresett, John [US] | 3 | 0.0000 |
+| 330 | Patella, Keith [US] | 3 | 0.0000 |
+| 331 | Gareau, Philippe [CA] | 3 | 0.0000 |
+| 332 | Abela, Andrew [CA] | 3 | 0.0000 |
+| 333 | Hill, Tyler [US] | 3 | 0.0000 |
+| 334 | Buitenhuis, Josh [CA] | 3 | 0.0000 |
+| 335 | Enriquez Mayoral, Jesus Edgar [MX] | 3 | 0.0000 |
+| 336 | Murphy, Steven [US] | 3 | 0.0000 |
+| 337 | Rosum, Jonathan [US] | 3 | 0.0000 |
+| 338 | Miller, Brad [CA] | 3 | 0.0000 |
+| 339 | Martinez, Mario [US] | 3 | 0.0000 |
+| 340 | Delanoix, Emmanuel [CA] | 3 | 0.0000 |
+| 341 | Russell, Griffin [US] | 3 | 0.0000 |
+| 342 | Tran, Kevin [CA] | 3 | 0.0000 |
+| 343 | Sacks, Neal [US] | 3 | 0.0000 |
+| 344 | Liu, Tong [CA] | 3 | 0.0000 |
+| 345 | Dowling, Michael [CA] | 3 | 0.0000 |
+| 346 | Cornett, Thomas [US] | 3 | 0.0000 |
+| 347 | He, Daniel [CA] | 3 | 0.0000 |
+| 348 | (15) Sajgalik, Eduardo [CA] | 3 | 0.0000 |
+| 349 | Mason, Sky [US] | 3 | 0.0000 |
+| 350 | Bishop, Alyssa [US] | 3 | 0.0000 |
+| 351 | Ward, Daniel [US] | 3 | 0.0000 |
+| 352 | Begin, Jason [US] | 3 | 0.0000 |
+| 353 | Oh, Inn [CA] | 3 | 0.0000 |
+| 354 | Topping, Greg [CA] | 3 | 0.0000 |
+| 355 | Magalhaes, Edgar [CA] | 3 | 0.0000 |
+| 356 | Ruston, Richard [CA] | 3 | 0.0000 |
+| 357 | Anderson, Robert [CA] | 3 | 0.0000 |
+| 358 | Delano, Jonathan [US] | 3 | 0.0000 |
+| 359 | Shivji, Qail [CA] | 3 | 0.0000 |
+| 360 | Buchholz, Evan [US] | 3 | 0.0000 |
+| 361 | Chidiac, William [CA] | 3 | 0.0000 |
+| 362 | Tom, Kar Yung [CA] | 3 | 0.0000 |
+| 363 | Giles, Devon [CA] | 3 | 0.0000 |
+| 364 | Shane, Kyle [US] | 3 | 0.0000 |
+| 365 | Laporte, Gabryel [CA] | 3 | 0.0000 |
+| 366 | Joyall, Vincent [CA] | 3 | 0.0000 |
+| 367 | Houle, Simon [CA] | 3 | 0.0000 |
+| 368 | Bain, Scott [US] | 3 | 0.0000 |
+| 369 | Koch, Florian [DE] | 3 | 0.0000 |
+| 370 | Coulombe, Trevor [US] | 3 | 0.0000 |
+| 371 | Buchanan, Nathan [CA] | 3 | 0.0000 |
+| 372 | Fortier, Michael [CA] | 3 | 0.0000 |
+| 373 | Tardif, Joe [CA] | 3 | 0.0000 |
+| 374 | Wielinga, William [CA] | 3 | 0.0000 |
+| 375 | Heleen, Nikolas [US] | 3 | 0.0000 |
+| 376 | Nadeau, Branden [CA] | 3 | 0.0000 |
+| 377 | Rashid, Taimur [CA] | 3 | 0.0000 |
+| 378 | Whitsitt, Steven [CA] | 3 | 0.0000 |
+| 379 | Fournier, Daniel [CA] | 3 | 0.0000 |
+| 380 | Mullin, Geoffrey [US] | 3 | 0.0000 |
+| 381 | Maynard, Pascal [CA] | 3 | 0.0000 |
+| 382 | Latendresse, Michel [CA] | 3 | 0.0000 |
+| 383 | Lacombe, Mathieu [CA] | 3 | 0.0000 |
+| 384 | Jota Costa, Ricardo Jorge [CA] | 3 | 0.0000 |
+| 385 | Morrill, Ethan [CA] | 3 | 0.0000 |
+| 386 | Francis-Pranger, Timothy [CA] | 3 | 0.0000 |
+| 387 | Clarke, Cole [CA] | 3 | 0.0000 |
+| 388 | Misner, Chris [CA] | 3 | 0.0000 |
+| 389 | Fusco, Roman [US] | 3 | 0.0000 |
+| 390 | Bergeron, Scott [CA] | 3 | 0.0000 |
+| 391 | Bishop, Jesse [US] | 3 | 0.0000 |
+| 392 | Laskar, David [CA] | 3 | 0.0000 |
+| 393 | Victor, Adam [CA] | 3 | 0.0000 |
+| 394 | Buchanan, Jessica [CA] | 3 | 0.0000 |
+| 395 | Barge, Spencer [CA] | 3 | 0.0000 |
+| 396 | McLaughlin, Morgan [CA] | 3 | 0.0000 |
+| 397 | Li, Eric [CA] | 3 | 0.0000 |
+| 398 | Auger, Maxime [CA] | 3 | 0.0000 |
+| 399 | Kaiser, Joe [CA] | 3 | 0.0000 |
+| 400 | Pangman, Rob [CA] | 3 | 0.0000 |
+| 401 | Naylor, Andrew [CA] | 3 | 0.0000 |
+| 402 | McKinney, Micheal [US] | 3 | 0.0000 |
+| 403 | Hawton, Mathew [CA] | 3 | 0.0000 |
+| 404 | Dhaliwal, Shawn [CA] | 3 | 0.0000 |
+| 405 | Brian, Thomas [CA] | 3 | 0.0000 |
+| 406 | Chenard, Francois [CA] | 3 | 0.0000 |
+| 407 | Nguyen, Lan [CA] | 3 | 0.0000 |
+| 408 | Cullerton, Evan [US] | 3 | 0.0000 |
+| 409 | McLaren, Shaun [CA] | 3 | 0.0000 |
+| 410 | Murchison, Adrian [CA] | 3 | 0.0000 |
+| 411 | Calcano, Christian [US] | 3 | 0.0000 |
+| 412 | Schilha, Eric [CA] | 3 | 0.0000 |
+| 413 | Long, Matthew [US] | 3 | 0.0000 |
+| 414 | Pauloff, Nick [CA] | 3 | 0.0000 |
+| 415 | Lampron, Benjamin [CA] | 3 | 0.0000 |
+| 416 | Chabot, David [CA] | 3 | 0.0000 |
+| 417 | Rapien, Taylor [CA] | 3 | 0.0000 |
+| 418 | Nikolich, Benjamin [US] | 3 | 0.0000 |
+| 419 | Desaulniers, Charles [CA] | 3 | 0.0000 |
+| 420 | Leon Valencia, Francisco [CA] | 3 | 0.0000 |
+| 421 | Bentley, Johnathan [CA] | 3 | 0.0000 |
+| 422 | Schlom, Christoph [US] | 3 | 0.0000 |
+| 423 | Diego, Tucker [US] | 3 | 0.0000 |
+| 424 | Blanchette, Jamie [CA] | 3 | 0.0000 |
+| 425 | Sullano, Andrew [US] | 3 | 0.0000 |
+| 426 | Eichelberger, Gregory [CA] | 3 | 0.0000 |
+| 427 | Smith, Brenda [US] | 3 | 0.0000 |
+| 428 | Maheu, Jake [US] | 3 | 0.0000 |
+| 429 | (9) Nelson, Brad [US] | 3 | 0.0000 |
+| 430 | Lanthier, Dan [CA] | 3 | 0.0000 |
+| 431 | Seguin, Shawn [CA] | 3 | 0.0000 |
+| 432 | Juliano, Christopher [US] | 3 | 0.0000 |
+| 433 | Bickle, Phillip [CA] | 3 | 0.0000 |
+| 434 | Wang, Jacky [US] | 3 | 0.0000 |
+| 435 | Rocco, Craig [US] | 3 | 0.0000 |
+| 436 | Woolridge, Nicholas [CA] | 3 | 0.0000 |
+| 437 | Biron, Xavier [CA] | 3 | 0.0000 |
+| 438 | Flink, Chris [CA] | 3 | 0.0000 |
+| 439 | Bugalter, Ben [US] | 3 | 0.0000 |
+| 440 | Wolbers, Andrew [US] | 3 | 0.0000 |
+| 441 | Mermet, Olivier [CA] | 3 | 0.0000 |
+| 442 | Moir, Ben [CA] | 3 | 0.0000 |
+| 443 | Capstick, Keith [CA] | 3 | 0.0000 |
+| 444 | Cailloux, Jacob [CA] | 3 | 0.0000 |
+| 445 | Rabethge, Derrick [CA] | 3 | 0.0000 |
+| 446 | Levesque, Guillaume [CA] | 3 | 0.0000 |
+| 447 | Pascal, Brandon [US] | 3 | 0.0000 |
+| 448 | Tetley, Brett [CA] | 3 | 0.0000 |
+| 449 | Rubin, Benjamin [US] | 3 | 0.0000 |
+| 450 | Pham, Hoang Ha [CA] | 3 | 0.0000 |
+| 451 | Fang, Kevin [CA] | 3 | 0.0000 |
+| 452 | Su, Bo [CA] | 3 | 0.0000 |
+| 453 | Collins, Nicholas [CA] | 3 | 0.0000 |
+| 454 | Traikov, Erik [CA] | 3 | 0.0000 |
+| 455 | (6) Manfield, Seth [US] | 3 | 0.0000 |
+| 456 | (21) Hayne, Alexander [CA] | 3 | 0.0000 |
+| 457 | Fryer, Tom [CA] | 3 | 0.0000 |
+| 458 | Wasson, John [CA] | 3 | 0.0000 |
+| 459 | Hoffmann, Matthew [US] | 3 | 0.0000 |
+| 460 | Pierce, Stephen [US] | 3 | 0.0000 |
+| 461 | Qian, Jason [CA] | 3 | 0.0000 |
+| 462 | Jameus, Colin [CA] | 3 | 0.0000 |
+| 463 | Fried, Norman [CA] | 3 | 0.0000 |
+| 464 | Rosman-Simionescu, Tobias [CA] | 3 | 0.0000 |
+| 465 | Tubello, Simon [CA] | 3 | 0.0000 |
+| 466 | Wight, Lawrence [US] | 3 | 0.0000 |
+| 467 | Laberge, Vincent [CA] | 3 | 0.0000 |
+| 468 | Cabana, Justin [CA] | 3 | 0.0000 |
+| 469 | Potter, Kodey [CA] | 3 | 0.0000 |
+| 470 | DiMaio, Jt [US] | 3 | 0.0000 |
+| 471 | Rapp, Michael [US] | 3 | 0.0000 |
+| 472 | Birrell, Ian [US] | 3 | 0.0000 |
+| 473 | Gauthier, Martin-Eric [CA] | 3 | 0.0000 |
+| 474 | Morgado, Leroy [CA] | 3 | 0.0000 |
+| 475 | Desbiens, Philippe [CA] | 3 | 0.0000 |
+| 476 | Martin, Bob [US] | 3 | 0.0000 |
+| 477 | Walker, Noah [US] | 3 | 0.0000 |
+| 478 | Little, Dustin [CA] | 3 | 0.0000 |
+| 479 | Normandin, Katharine [US] | 3 | 0.0000 |
+| 480 | Trudel, Christian [CA] | 3 | 0.0000 |
+| 481 | Couillard-Tremblay, Francis [CA] | 3 | 0.0000 |
+| 482 | Larter, Brian [CA] | 3 | 0.0000 |
+| 483 | Kong, Ling Zhuo [CA] | 3 | 0.0000 |
+| 484 | Trottier, Charles [CA] | 3 | 0.0000 |
+| 485 | Cheng, Ian [CA] | 3 | 0.0000 |
+| 486 | McGowen, Ryan [US] | 3 | 0.0000 |
+| 487 | Cormier, Marc-Alexandre [CA] | 3 | 0.0000 |
+| 488 | Lagace, Jean-Samuel [CA] | 3 | 0.0000 |
+| 489 | Tibirna, Alexandru [CA] | 3 | 0.0000 |
+| 490 | Maeba, Hideaki [US] | 3 | 0.0000 |
+| 491 | Velasquez, Gabriel [CA] | 3 | 0.0000 |
+| 492 | McGrath, Steven [CA] | 3 | 0.0000 |
+| 493 | Asselin, Eric [CA] | 3 | 0.0000 |
+| 494 | Berube, Andre [CA] | 3 | 0.0000 |
+| 495 | Mulloy, Joshua [CA] | 3 | 0.0000 |
+| 496 | Jette, Francis [CA] | 3 | 0.0000 |
+| 497 | Lebeau, Jonathan [CA] | 3 | 0.0000 |
+| 498 | Benedict, Travis [CA] | 3 | 0.0000 |
+| 499 | Delcourt, Zachary [US] | 3 | 0.0000 |
+| 500 | Trapp, Zack [CA] | 3 | 0.0000 |
+| 501 | Perez, Dan [CA] | 3 | 0.0000 |
+| 502 | Dilks, Matthew [CA] | 3 | 0.0000 |
+| 503 | Barlow, David [US] | 3 | 0.0000 |
+| 504 | Fortais, Adam [CA] | 3 | 0.0000 |
+| 505 | Carignan, Roland [US] | 3 | 0.0000 |
+| 506 | Ragsdale, Adam [CA] | 3 | 0.0000 |
+| 507 | Joyce, Adam [CA] | 3 | 0.0000 |
+| 508 | Laplante, Ryan [CA] | 3 | 0.0000 |
+| 509 | Stern, Jon [CA] | 3 | 0.0000 |
+| 510 | Pileggi, Riccardo [CA] | 3 | 0.0000 |
+| 511 | Goodine, Tim [CA] | 3 | 0.0000 |
+| 512 | Polyakov, Alexander [US] | 3 | 0.0000 |
+| 513 | Berry, Craig [US] | 3 | 0.0000 |
+| 514 | Murphy, Justin [CA] | 3 | 0.0000 |
+| 515 | Mitchell, Zane [CA] | 3 | 0.0000 |
+| 516 | Villeneuve, Sebastian [CA] | 3 | 0.0000 |
+| 517 | Bekmesian, Chris [CA] | 3 | 0.0000 |
+| 518 | Cochran, Michael [US] | 3 | 0.0000 |
+| 519 | Bilodeau, Sebastian [CA] | 3 | 0.0000 |
+| 520 | Burningham, Kris [CA] | 3 | 0.0000 |
+| 521 | Margaritis, Logan [CA] | 3 | 0.0000 |
+| 522 | Proano, Gina [CA] | 3 | 0.0000 |
+| 523 | Garcia, Sergio [ES] | 3 | 0.0000 |
+| 524 | Tumavitch, Matt [US] | 3 | 0.0000 |
+| 525 | Joseph-Pare, Bertrand [CA] | 3 | 0.0000 |
+| 526 | Loebel, Daniel [US] | 3 | 0.0000 |
+| 527 | Lombardi, Robert [CA] | 3 | 0.0000 |
+| 528 | Delcourt, Cassidy [US] | 3 | 0.0000 |
+| 529 | Robdrup, Andy [CA] | 3 | 0.0000 |
+| 530 | Brierley, Michael [CA] | 3 | 0.0000 |
+| 531 | Peragine, Joshua [US] | 3 | 0.0000 |
+| 532 | Colligan, Aidan [US] | 3 | 0.0000 |
+| 533 | Pagan, Alberto [US] | 3 | 0.0000 |
+| 534 | Floch, Ivan [SK] | 3 | 0.0000 |
+| 535 | Hart, Matt [US] | 3 | 0.0000 |
+| 536 | Haversat, Jacob [US] | 3 | 0.0000 |
+| 537 | Aubin, Maxime [CA] | 3 | 0.0000 |
+| 538 | Gardner-Durbin, Brook [US] | 3 | 0.0000 |
+| 539 | Burke, Sean [CA] | 3 | 0.0000 |
+| 540 | Stoloff, Matthew [US] | 3 | 0.0000 |
+| 541 | Lee, Jeffrey [CA] | 3 | 0.0000 |
+| 542 | Naide, Kazutaka [JP] | 3 | 0.0000 |
+| 543 | D'Ambrose, Nicolas [US] | 3 | 0.0000 |
+| 544 | Boutin, Nathaniel [CA] | 3 | 0.0000 |
+| 545 | Farrar, Jake [US] | 3 | 0.0000 |
+| 546 | Kane Meilleur, Liam [CA] | 3 | 0.0000 |
+| 547 | Laflamme, Sebastien [CA] | 3 | 0.0000 |
+| 548 | Dore, Maxime [CA] | 3 | 0.0000 |
+| 549 | Daye, Michael [CA] | 3 | 0.0000 |
+| 550 | Ganz, Andreas [CH] | 3 | 0.0000 |
+| 551 | Pawelzik, Gery [US] | 3 | 0.0000 |
+| 552 | Tiu, Oliver [US] | 3 | 0.0000 |
+| 553 | Stein, Mathew [CA] | 3 | 0.0000 |
+| 554 | Ramsis, Shady [CA] | 3 | 0.0000 |
+| 555 | Polak-Rottmann, Oliver [AT] | 3 | 0.0000 |
+| 556 | Normandin, Ryan [US] | 3 | 0.0000 |
+| 557 | Janssen, Scott [CA] | 3 | 0.0000 |
+| 558 | Zastrow, Martin [US] | 3 | 0.0000 |
+| 559 | Watkins, Tim [CA] | 3 | 0.0000 |
+| 560 | Beaulieu, Keven [CA] | 3 | 0.0000 |
+| 561 | Barber, Randall [CA] | 3 | 0.0000 |
+| 562 | Joness, Cody [US] | 3 | 0.0000 |
+| 563 | Neilson, Chris [CA] | 3 | 0.0000 |
+| 564 | Dunkelman, Steven [CA] | 3 | 0.0000 |
+| 565 | League, Charles [US] | 3 | 0.0000 |
+| 566 | Guan, Thomas Zhennan [US] | 3 | 0.0000 |
+| 567 | Richard, Francois [CA] | 3 | 0.0000 |
+| 568 | Leech, Carey [US] | 3 | 0.0000 |
+| 569 | Istfan, Raeef [US] | 3 | 0.0000 |
+| 570 | Teigesser, Jon [CA] | 3 | 0.0000 |
+| 571 | Schambier, Simon [CA] | 3 | 0.0000 |
+| 572 | Rightmyer, Rory [US] | 3 | 0.0000 |
+| 573 | Lou, William [AU] | 3 | 0.0000 |
+| 574 | Gaieski, Ethan [US] | 3 | 0.0000 |
+| 575 | Wright, Christopher [US] | 3 | 0.0000 |
+| 576 | Belanger, Maxim [CA] | 3 | 0.0000 |
+| 577 | Seguin, Paul [CA] | 3 | 0.0000 |
+| 578 | Orr, Michael [CA] | 3 | 0.0000 |
+| 579 | Stein, Abraham [US] | 3 | 0.0000 |
+| 580 | Dunn, Payne [CA] | 3 | 0.0000 |
+| 581 | Dean, Paul [CA] | 3 | 0.0000 |
+| 582 | Butterfield, Nathaniel [US] | 3 | 0.0000 |
+| 583 | Keeffe, Stephen [CA] | 3 | 0.0000 |
+| 584 | Mackl, Valentin [AT] | 3 | 0.0000 |
+| 585 | Snow, Liam [CA] | 3 | 0.0000 |
+| 586 | Cheng, Nicholas [CA] | 3 | 0.0000 |
+| 587 | Hennick, Michael [CA] | 3 | 0.0000 |
+| 588 | Beland, Nicolas [CA] | 3 | 0.0000 |
+| 589 | Thibeault, Vincent [CA] | 3 | 0.0000 |
+| 590 | LaCroix, Brent [CA] | 3 | 0.0000 |
+| 591 | Noworaj, Andrew [CA] | 3 | 0.0000 |
+| 592 | Gago, Daniel [US] | 3 | 0.0000 |
+| 593 | Campo, Terrence [US] | 3 | 0.0000 |
+| 594 | Lancaster, Casey [US] | 3 | 0.0000 |
+| 595 | Cusson, Marc-Olivier [CA] | 3 | 0.0000 |
+| 596 | Hirmiz, Fadi [CA] | 3 | 0.0000 |
+| 597 | Guay-Provost, Philippe [CA] | 3 | 0.0000 |
+| 598 | Schulz, Brendan [CA] | 3 | 0.0000 |
+| 599 | Nessim, Aaron [US] | 3 | 0.0000 |
+| 600 | Rowe, Jonathan [CA] | 3 | 0.0000 |
+| 601 | Lemay, Jason [US] | 3 | 0.0000 |
+| 602 | Dery, Jonathan [CA] | 3 | 0.0000 |
+| 603 | Blanchet, Eric [US] | 3 | 0.0000 |
+| 604 | Whitehouse, Ivan [CA] | 3 | 0.0000 |
+| 605 | Schweizer, Michael [CH] | 3 | 0.0000 |
+| 606 | Asselin, Frederic [CA] | 3 | 0.0000 |
+| 607 | McCowell, Cody [CA] | 3 | 0.0000 |
+| 608 | Echevarria, Tyler [US] | 3 | 0.0000 |
+| 609 | Smith, Donald [US] | 3 | 0.0000 |
+| 610 | Fazio, Michael [US] | 3 | 0.0000 |
+| 611 | Holbrook, Paul [US] | 3 | 0.0000 |
+| 612 | Klopchic, Luke [US] | 3 | 0.0000 |
+| 613 | Guilbert, Nelson [CA] | 3 | 0.0000 |
+| 614 | Fabiano, Gerard [US] | 3 | 0.0000 |
+| 615 | Leblanc, Samuel [CA] | 3 | 0.0000 |
+| 616 | Gendron, Marc-Olivier [CA] | 3 | 0.0000 |
+| 617 | Khare, Anand [US] | 3 | 0.0000 |
+| 618 | Wong, Matthew [US] | 3 | 0.0000 |
+| 619 | Bowden, Steve [US] | 3 | 0.0000 |
+| 620 | Tse, Felix [CA] | 3 | 0.0000 |
+| 621 | Johnson, Brendon [US] | 3 | 0.0000 |
+| 622 | Larratta, Leonard [US] | 3 | 0.0000 |
+| 623 | Maguire, Doug [CA] | 3 | 0.0000 |
+| 624 | Plamondon, Brandon [CA] | 3 | 0.0000 |
+| 625 | Holt, Andrew [US] | 3 | 0.0000 |
+| 626 | Tonelli, Tim [US] | 3 | 0.0000 |
+| 627 | Achorn, Stephen [US] | 3 | 0.0000 |
+| 628 | Tran, Simon [CA] | 3 | 0.0000 |
+| 629 | Periot, Maigan [CA] | 3 | 0.0000 |
+| 630 | LeBlanc, Cody [CA] | 3 | 0.0000 |
+| 631 | Llodra, Juan Pablo [US] | 3 | 0.0000 |
+| 632 | Kiihne, Zachary [US] | 3 | 0.0000 |
+| 633 | Carey, Bryan [US] | 3 | 0.0000 |
+| 634 | McClenaghan, David [CA] | 3 | 0.0000 |
+| 635 | Fortier, Elliot [CA] | 3 | 0.0000 |
+| 636 | Allegrucci, Xavier [CA] | 3 | 0.0000 |
+| 637 | Egolf, Michael [US] | 3 | 0.0000 |
+| 638 | Claudel, Slater [US] | 3 | 0.0000 |
+| 639 | Burnham, Ross [US] | 3 | 0.0000 |
+| 640 | Ma, Kent [CA] | 3 | 0.0000 |
+| 641 | Beldon, Omar [CA] | 3 | 0.0000 |
+| 642 | Tyson, Cory [CA] | 1 | 0.3333 |
+| 643 | Michaud, Frederic [CA] | 1 | 0.3333 |
+| 644 | Cordingley, Trevor [CA] | 1 | 0.3333 |
+| 645 | Edwards, Amanda [CA] | 1 | 0.3333 |
+| 646 | Bailey, Fabian [CA] | 1 | 0.3333 |
+| 647 | Crittenden, Xavier [CA] | 1 | 0.3333 |
+| 648 | Shayne, Jake [US] | 1 | 0.3333 |
+| 649 | Jobin, Jean-Philippe [CA] | 1 | 0.3333 |
+| 650 | Westman, Mason [CA] | 1 | 0.3333 |
+| 651 | Solda, Benjamin [CA] | 1 | 0.3333 |
+| 652 | Bourque, Adrien [CA] | 0 | 1.0000 |
+| 653 | Sinclair, Jordan [CA] | 0 | 1.0000 |
+| 654 | Vannavong, Sai [CA] | 0 | 1.0000 |
+| 655 | Villeneuve, Christian [CA] | 0 | 1.0000 |
+| 656 | Vasil, Jeremy [CA] | 0 | 1.0000 |
+| 657 | Davis, Joshua [CA] | 0 | 1.0000 |
+| 658 | Riddell, Barry [CA] | 0 | 1.0000 |
+| 659 | Gray, Chris [CA] | 0 | 1.0000 |
+| 660 | Blais, Richard [CA] | 0 | 1.0000 |
+| 661 | Emond, Maxime [CA] | 0 | 1.0000 |
+| 662 | Francis, Jesse [CA] | 0 | 1.0000 |
+| 663 | Corea Mayorga, Juan Carlos [CA] | 0 | 1.0000 |
+| 664 | Robinson, Bradley [US] | 0 | 1.0000 |
+| 665 | Nellis, Mark [CA] | 0 | 1.0000 |
+| 666 | Hogan, Daniel [CA] | 0 | 1.0000 |
+| 667 | Parsons, Jabez [US] | 0 | 1.0000 |
+| 668 | Hamasoor, Delan [CA] | 0 | 1.0000 |
+| 669 | Armony, Alex [CA] | 0 | 1.0000 |
+| 670 | Duperre, Jonathan [CA] | 0 | 1.0000 |
+| 671 | Lavoie, Philippe [CA] | 0 | 1.0000 |
+| 672 | Soucie, Ryan [CA] | 0 | 1.0000 |
+| 673 | Bauman, Michael [CA] | 0 | 1.0000 |
+| 674 | Vasii, Erik [CA] | 0 | 1.0000 |
+| 675 | Ayotte, Vincent [CA] | 0 | 1.0000 |
+| 676 | Moniz, George [CA] | 0 | 1.0000 |
+| 677 | Heezen, Lee [CA] | 0 | 1.0000 |
+| 678 | Xiong, David [CA] | 0 | 1.0000 |
+| 679 | Bocock, David [CA] | 0 | 1.0000 |
+| 680 | Neary, Nicholas [CA] | 0 | 1.0000 |
+| 681 | Lawrence, Jesse [US] | 0 | 1.0000 |
+| 682 | Smith, Cali [CA] | 0 | 1.0000 |
+| 683 | Jeromkin, Nikolas [CA] | 0 | 1.0000 |
+| 684 | Blouin, Frederic [CA] | 0 | 1.0000 |
+| 685 | Leighton, Joseph [US] | 0 | 1.0000 |
+| 686 | Roberts, Stephen [CA] | 0 | 1.0000 |
+| 687 | Burning, Frank [US] | 0 | 1.0000 |
+| 688 | Racine, Jeremy [CA] | 0 | 1.0000 |
+| 689 | Self, David [US] | 0 | 1.0000 |
+| 690 | Waskalik, Malachi [CA] | 0 | 1.0000 |
+| 691 | Remillard, Olivier [CA] | 0 | 1.0000 |
+| 692 | LaCroix, Matt [CA] | 0 | 1.0000 |
+| 693 | Des Marais, Nick [US] | 0 | 1.0000 |
+| 694 | Matteau, Jean-Philippe [CA] | 0 | 1.0000 |
+| 695 | Lach, Sigismond [CA] | 0 | 1.0000 |
+| 696 | Starkey, Gordon [CA] | 0 | 1.0000 |
+| 697 | Dube, Jean-Francois [CA] | 0 | 1.0000 |
+| 698 | Cayouette, Philippe [CA] | 0 | 1.0000 |
+| 699 | Jackson, Thomas [CA] | 0 | 1.0000 |
+| 700 | Flagg, Troy [US] | 0 | 1.0000 |
+| 701 | Girard, Jean-Francois [CA] | 0 | 1.0000 |
+| 702 | Gardiner, Howard [CA] | 0 | 1.0000 |
+| 703 | Moquin-Carle, Benjamin [CA] | 0 | 1.0000 |
+| 704 | Santacruz, Juan [US] | 0 | 1.0000 |
+| 705 | Harrisson, Kevin [CA] | 0 | 1.0000 |
+| 706 | Leydet, Cedric [FR] | 0 | 1.0000 |
+| 707 | Marquis, Guillaume [CA] | 0 | 1.0000 |
+| 708 | Briand, Philippe [CA] | 0 | 1.0000 |
+| 709 | Gonzales, Raphael [CA] | 0 | 1.0000 |
+| 710 | Hoffer, Joey [CA] | 0 | 1.0000 |
+| 711 | Dymowski, Conrad [CA] | 0 | 1.0000 |
+| 712 | Karges, Alexander [CA] | 0 | 1.0000 |
+| 713 | Goyette-Michaud, Marco [CA] | 0 | 1.0000 |
+| 714 | Marchand, Alexandre [CA] | 0 | 1.0000 |
+| 715 | White, Christopher [CA] | 0 | 1.0000 |
+| 716 | Jarvis, Kasey [US] | 0 | 1.0000 |
+| 717 | Cousineau, Nicholas [CA] | 0 | 1.0000 |
+| 718 | Tam, Wai [US] | 0 | 1.0000 |
+| 719 | Blanchard, Samuel [CA] | 0 | 1.0000 |
+| 720 | Sumpter, Niki [CA] | 0 | 1.0000 |
+| 721 | Monsigneur, Alyssa [CA] | 0 | 1.0000 |
+| 722 | Pless, Iain [US] | 0 | 1.0000 |
+| 723 | Simard, Vincent [CA] | 0 | 1.0000 |
+| 724 | Harasowsky, Andrew [CA] | 0 | 1.0000 |
+| 725 | Marquez, Daniel [CA] | 0 | 1.0000 |
+| 726 | Hyde, Malcolm [US] | 0 | 1.0000 |
+| 727 | Malott, Jaden [CA] | 0 | 1.0000 |
+| 728 | Angers Ruest, Marc [CA] | 0 | 1.0000 |
+| 729 | Parsons, Derek [US] | 0 | 1.0000 |
+| 730 | Moran, Anthony [US] | 0 | 1.0000 |
+| 731 | Desrosiers, Rafael [CA] | 0 | 1.0000 |
+| 732 | Larsen, Jessiah [CA] | 0 | 1.0000 |
+| 733 | Fulger, Joshua [US] | 0 | 1.0000 |
+| 734 | Audet, Carson [CA] | 0 | 1.0000 |
+| 735 | Guitard, Sean [CA] | 0 | 1.0000 |
+| 736 | Ioannou, Peter [CA] | 0 | 1.0000 |
+| 737 | Traviss, Matt [CA] | 0 | 1.0000 |
+| 738 | Garand, Kevin [CA] | 0 | 1.0000 |
+| 739 | Holland, Ryan [CA] | 0 | 1.0000 |
+| 740 | Zylberszac, Max [CA] | 0 | 1.0000 |
+| 741 | Cobierski, Jeremy [CA] | 0 | 1.0000 |
+| 742 | Sutton, Timothy [US] | 0 | 1.0000 |
+| 743 | Leblanc, Rene [CA] | 0 | 1.0000 |
+| 744 | Cote, Francois [CA] | 0 | 1.0000 |
+| 745 | Lariviere, Marc [CA] | 0 | 1.0000 |
+| 746 | Reeson, Jason [CA] | 0 | 1.0000 |
+| 747 | Menard, Hugo [CA] | 0 | 1.0000 |
+| 748 | Voellmer, Andreas [US] | 0 | 1.0000 |
+| 749 | Crete, Gaston [CA] | 0 | 1.0000 |
+| 750 | Drouin, Jacob [CA] | 0 | 1.0000 |
+| 751 | Fitzsimmons, Thomas [US] | 0 | 1.0000 |
+| 752 | Gauthier, Eric [CA] | 0 | 1.0000 |
+| 753 | Snider, Daniel [CA] | 0 | 1.0000 |
+| 754 | Colgan, Eric [CA] | 0 | 1.0000 |
+| 755 | Dubois, Ronan [CA] | 0 | 1.0000 |
+| 756 | Turnnir, Cor [CA] | 0 | 1.0000 |
+| 757 | Croteau, Jean-Pierre [CA] | 0 | 1.0000 |
+| 758 | Liebel, Tomas [US] | 0 | 1.0000 |
+| 759 | Elarar, Jasar [CA] | 0 | 1.0000 |
+| 760 | Gervais, Pierre Luc [CA] | 0 | 1.0000 |
+| 761 | Yanow, Sophia [CA] | 0 | 1.0000 |
+| 762 | Sulla-Heffinger, Anthony [US] | 0 | 1.0000 |
+| 763 | Severson, Dylan [US] | 0 | 1.0000 |
+| 764 | Lee, Ryan [CA] | 0 | 1.0000 |
+| 765 | Cutillo, Salvatore [CA] | 0 | 1.0000 |
+| 766 | Lemay, William [CA] | 0 | 1.0000 |
+| 767 | McDonald, Nolan [CA] | 0 | 1.0000 |
+| 768 | Valdez, Angel [CA] | 0 | 1.0000 |
+| 769 | Bernachi, Nicholas [CA] | 0 | 1.0000 |
+| 770 | Sinclair, Brendan [CA] | 0 | 1.0000 |
+| 771 | Savage, Mathieu [CA] | 0 | 1.0000 |
+| 772 | Bath, Reed [CA] | 0 | 1.0000 |
+| 773 | Fortin, Olivier [CA] | 0 | 1.0000 |
+| 774 | Moreau, Charles [CA] | 0 | 1.0000 |
+| 775 | Stearns, Scott [US] | 0 | 1.0000 |
+| 776 | Helm, Mitch [CA] | 0 | 1.0000 |
+| 777 | Bergeron, John [US] | 0 | 1.0000 |
+| 778 | Lachaine, Roch-Antoine [CA] | 0 | 1.0000 |
+| 779 | Alcock, Brian [CA] | 0 | 1.0000 |
+| 780 | Vermette, Thomas [CA] | 0 | 1.0000 |
+| 781 | Boudreau, David [CA] | 0 | 1.0000 |
+| 782 | LeClair, Anderson [US] | 0 | 1.0000 |
+| 783 | Wilson, Quentin [CA] | 0 | 1.0000 |
+| 784 | Vandermuren, Adam [CA] | 0 | 1.0000 |
+| 785 | Cote, Marc-Andre [CA] | 0 | 1.0000 |
+| 786 | Persram, Matthew [CA] | 0 | 1.0000 |
+| 787 | Corriveau, Julien [CA] | 0 | 1.0000 |
+| 788 | Brunet, Hugo [CA] | 0 | 1.0000 |
+| 789 | Lynch, Sean [CA] | 0 | 1.0000 |
+| 790 | Gudmundsen, Kathleen [US] | 0 | 1.0000 |
+| 791 | Hanlon, Grant [US] | 0 | 1.0000 |
+| 792 | Harrington, Justin [CA] | 0 | 1.0000 |
+| 793 | Benford, Philip [CA] | 0 | 1.0000 |
+| 794 | Lieu, Kevin [CA] | 0 | 1.0000 |
+| 795 | Cooper, Travis [CA] | 0 | 1.0000 |
+| 796 | Cook, Benjamin [US] | 0 | 1.0000 |
+| 797 | Quintin, Patrice [CA] | 0 | 1.0000 |
+| 798 | Dowling, Edward [CA] | 0 | 1.0000 |
+| 799 | Giroux, Tim [CA] | 0 | 1.0000 |
+| 800 | Moran, Sylas [US] | 0 | 1.0000 |
+| 801 | Bach, Gregory [CA] | 0 | 1.0000 |
+| 802 | Monette-Roy, Sebastien [CA] | 0 | 1.0000 |
+| 803 | Pelekankis, George [CA] | 0 | 1.0000 |
+| 804 | St-Gelais, Mathieu [CA] | 0 | 1.0000 |
+| 805 | Audet, Nicolas [CA] | 0 | 1.0000 |
+| 806 | Correia, Gabriel [CA] | 0 | 1.0000 |
+| 807 | Chasse, David [CA] | 0 | 1.0000 |
+| 808 | Hudson, Paul [CA] | 0 | 1.0000 |
+| 809 | Jensen, Peter [CA] | 0 | 1.0000 |
+| 810 | Gerhard, Matt [CA] | 0 | 1.0000 |
+| 811 | Hong, Sammy [CA] | 0 | 1.0000 |
+| 812 | Rousseau, Vincent [CA] | 0 | 1.0000 |
+| 813 | Kevin, Houde [CA] | 0 | 1.0000 |
+| 814 | Roy, Simon [CA] | 0 | 1.0000 |
+| 815 | Spencer, Lewis [CA] | 0 | 1.0000 |
+| 816 | Browning, Richard [CA] | 0 | 1.0000 |
+| 817 | Regimbald, Francis [CA] | 0 | 1.0000 |
+| 818 | Berube, Gabriel [CA] | 0 | 1.0000 |
+| 819 | Ward, Brian [US] | 0 | 1.0000 |
+| 820 | Galperin, David [US] | 0 | 1.0000 |
+| 821 | Rumble, Mike [CA] | 0 | 1.0000 |
+| 822 | Cote, Frederic [CA] | 0 | 1.0000 |
+| 823 | Lebouthillier, Eric [CA] | 0 | 1.0000 |
+| 824 | Drysdale, Mike [CA] | 0 | 1.0000 |
+| 825 | Underwood, Samuel [CA] | 0 | 1.0000 |
+| 826 | McEwen, Chris [CA] | 0 | 1.0000 |
+| 827 | Jones, Kevin [US] | 0 | 1.0000 |
+| 828 | Maltais, Marc-Andre [CA] | 0 | 1.0000 |
+| 829 | Campbell, Corey [CA] | 0 | 1.0000 |
+| 830 | Bourdeau, Jean-Sebastien [CA] | 0 | 1.0000 |
+| 831 | Ayotte-Sauve, Etienne [CA] | 0 | 1.0000 |
+| 832 | Hoshkiw, Drew [CA] | 0 | 1.0000 |
+| 833 | Petitclerc, Laurent [CA] | 0 | 1.0000 |
+| 834 | Vachon, Gregoire [CA] | 0 | 1.0000 |
+| 835 | Sveinsson, Hjalti Rafn [IS] | 0 | 1.0000 |
+| 836 | Roth, Marcus [US] | 0 | 1.0000 |
+| 837 | Boisjoly, Dominic [CA] | 0 | 1.0000 |
+| 838 | Herbs, Nicholas [US] | 0 | 1.0000 |
+| 839 | Daly, Liam [US] | 0 | 1.0000 |
+| 840 | Tolls, Daniel [CA] | 0 | 1.0000 |
+| 841 | Weinstein, Zack [US] | 0 | 1.0000 |
+| 842 | Oquinn, Patrick [CA] | 0 | 1.0000 |
+| 843 | Masson, Alexandre [CA] | 0 | 1.0000 |
+| 844 | Miles, Rick [CA] | 0 | 1.0000 |
+| 845 | Brown, Jordan [CA] | 0 | 1.0000 |
+| 846 | Tremblay, Jean-Philippe [CA] | 0 | 1.0000 |
+| 847 | Alfonso, Rylan [CA] | 0 | 1.0000 |
+| 848 | Faucher, Danny [CA] | 0 | 1.0000 |
+| 849 | Martin, Chris [CA] | 0 | 1.0000 |
+
+
+
+
+
+
+

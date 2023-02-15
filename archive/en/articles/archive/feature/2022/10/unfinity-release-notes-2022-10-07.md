@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20221007202908/https://magic.wizards.com/en/articles/archive/feature/unfinity-release-notes-2022-10-07?itshere)
+[Link to Wayback Machine](https://web.archive.org/web/20221007162931/https://magic.wizards.com/en/articles/archive/feature/unfinity-release-notes-2022-10-07?s)
 
 [_metadata_:author]:- "Mark Rosewater and Jess Dunks"
 [_metadata_:description]:- "The Release Notes include info about the release of a new set, as well as clarifications and rulings involving that set's cards."
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2022-10-07"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Unfinity Release Notes"
-[_metadata_:wayback_capture_timestamp]:- "2022-10-07 20:29:08"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20221007202908id_/https://magic.wizards.com/en/articles/archive/feature/unfinity-release-notes-2022-10-07?itshere"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/unfinity-release-notes-2022-10-07?itshere"
+[_metadata_:wayback_capture_timestamp]:- "2022-10-07 16:29:31"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20221007162931id_/https://magic.wizards.com/en/articles/archive/feature/unfinity-release-notes-2022-10-07?s"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/unfinity-release-notes-2022-10-07?s"
 ---
 
 

@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210126102020/https://magic.wizards.com/en/articles/archive/feature/announcing-2012-07-16)
+[Link to Wayback Machine](https://web.archive.org/web/20170807195235/http://magic.wizards.com/en/articles/archive/feature/announcing-2012-07-16)
 
 [_metadata_:author]:- "Monty Ashley"
 [_metadata_:description]:- "If you were at the Magic panel at San Diego Comic Con this weekend, you already know this. But if you weren't, you may be interested to know that Magic's February 2013 set, code-named `Line,` is called Gatecrash. Fight For Your Guild"
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2012-07-16"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Announcing"
-[_metadata_:wayback_capture_timestamp]:- "2021-01-26 10:20:20"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210126102020id_/https://magic.wizards.com/en/articles/archive/feature/announcing-2012-07-16"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/announcing-2012-07-16"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-07 19:52:35"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170807195235id_/http://magic.wizards.com/en/articles/archive/feature/announcing-2012-07-16"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/announcing-2012-07-16"
 ---
 
 
@@ -28,7 +28,7 @@ Announcing
 
 
 
-![](https://web.archive.org/web/20211024110319im_/https://magic.wizards.com/sites/all/themes/wiz_mtg/images/global/generic-avatar-150.png)
+![](https://web.archive.org/web/20170709072651im_/http://magic.wizards.com/sites/all/themes/wiz_mtg/images/global/generic-avatar-150.png)
 By Monty Ashley
 
 

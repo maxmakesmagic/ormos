@@ -6,6 +6,7 @@
 [_metadata_:description]:- "Matt explains the new and returning mechanics in Hour of Devastation."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "1163721"
+[_metadata_:path_date]:- "2017-06-16"
 [_metadata_:publish_date]:- "2017-06-17"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Hour of Devastation Mechanics"

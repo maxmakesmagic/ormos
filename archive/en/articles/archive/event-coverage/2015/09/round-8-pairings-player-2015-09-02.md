@@ -1,0 +1,712 @@
+
+---
+[Link to Wayback Machine](https://web.archive.org/web/20171031051836/https://magic.wizards.com/en/articles/archive/event-coverage/round-8-pairings-player-2015-09-02)
+
+[_metadata_:author]:- "Wizards of the Coast"
+[_metadata_:description]:- "PlayerPoints OpponentPointsAbe, Ryo 15vs.Maruyama, Tomohiro 15Adachi, Ryosuke 12vs.Nakamura, Takahiro 12Adachi, Takatsugu 18vs.Fukata, Takamasa 18Adachi, Yuichi 9vs.Ito, Shuhei 9Akahori, Hiroaki 15vs.Kurobane, Kyuya"
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "591456"
+[_metadata_:publish_date]:- "2015-09-02"
+[_metadata_:source]:- "div-main-content"
+[_metadata_:title]:- "Round 8 Pairings (by Player)"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-31 05:18:36"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171031051836id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-8-pairings-player-2015-09-02"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/event-coverage/round-8-pairings-player-2015-09-02"
+---
+
+
+Round 8 Pairings (by Player)
+============================
+
+
+
+ Posted in **Event Coverage**
+ on September 2, 2015 
+
+
+
+
+
+
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
+By Wizards of the Coast
+
+
+
+
+
+
+
+
+
+
+
+
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| **Player** | **Points** |  | **Opponent** | **Points** |
+| Abe, Ryo |  15 | vs. | Maruyama, Tomohiro |  15 |
+| Adachi, Ryosuke |  12 | vs. | Nakamura, Takahiro |  12 |
+| Adachi, Takatsugu |  18 | vs. | Fukata, Takamasa |  18 |
+| Adachi, Yuichi |  9 | vs. | Ito, Shuhei |  9 |
+| Akahori, Hiroaki |  15 | vs. | Kurobane, Kyuya |  15 |
+| Akahoshi, Toru |  12 | vs. | Yamada, Akira |  12 |
+| Akemitsu, Hiroaki |  18 | vs. | Mochiduki, Masashi |  18 |
+| Anan, Go |  15 | vs. | Nozaki, Taiki |  15 |
+| Ando, Hideki |  15 | vs. | Okuno, Noriaki |  15 |
+| Ando, Reiji |  16 | vs. | Aoki, Kazuya |  16 |
+| Aoki, Kazuya |  16 | vs. | Ando, Reiji |  16 |
+| Aoki, Takamasa |  13 | vs. | Yamada, Yuki |  13 |
+| Arahori, Kazuaki |  15 | vs. | Kobayashi, Norihiro |  15 |
+| Arakane, Keisuke |  15 | vs. | Wachi, Shinya |  15 |
+| Arita, Ryuichi |  18 | vs. | Masuda, Masakazu |  18 |
+| Asahara, Akira |  15 | vs. | Osawa, Takuya |  15 |
+| Asari, Kozo |  16 | vs. | Kitahara, Hiroyuki |  16 |
+| Aya, Keisuke |  12 | vs. | Ueno, Motohiro |  12 |
+| Baba, Yasunori |  15 | vs. | Kaneko, Kentaro |  15 |
+| Bing, Chin |  12 | vs. | Kuroda, Ryohei |  12 |
+| Biwaki, Toshiaki |  15 | vs. | Someya, Yu |  15 |
+| Bun, Takutoshi |  6 | vs. | Maeda, Ryuichi |  6 |
+| Chao, Peter |  15 | vs. | Yamahara, Toshihisa |  15 |
+| Chee, Wang Ming |  12 | vs. | Kikugawa, Kazumi |  12 |
+| Chijimi, Keiichi |  12 | vs. | Miyazaki, Kensuke |  12 |
+| Chiwata, Ryo |  12 | vs. | Sakamoto, Kikutaro |  12 |
+| Cho, Shinichiro |  18 | vs. | Nakauchi, Kazumi |  18 |
+| Date, Tsutomu |  17 | vs. | Mizutani, Hiroya |  18 |
+| Doiuchi, Yasuhiro |  21 | vs. | Suzuki, Kei |  21 |
+| Dono, Takashi |  12 | vs. | Maruyama, Satoshi |  12 |
+| Doyama, Tsuyoshi |  18 | vs. | Tatsumi, Yasukazu |  18 |
+| Eda, Takeshi |  15 | vs. | Haneda, Daisuke |  15 |
+| Enoki, Kiyoyuki |  9 | vs. | Sumino, Hironori |  9 |
+| Enomoto, Takatoshi |  12 | vs. | Oiwa, Tadashi |  12 |
+| Eto, Shinichiro |  9 | vs. | Miura, Masaru |  9 |
+| Fiedembach, Clément |  16 | vs. | Yamamoto, Akimasa |  16 |
+| Fujii, Hajime |  10 | vs. | Nakamoto, Hiroyuki |  10 |
+| Fujii, Takahiro |  15 | vs. | Matsui, Kengaku |  15 |
+| Fujii, Tomo |  12 | vs. | Takahira, Nobumasa |  12 |
+| Fujimoto, Tomoya |  18 | vs. | Ura, Tsuyoshi |  18 |
+| Fujino, Kimihiro |  15 | vs. | Hayashi, Shinsuke |  15 |
+| Fujioka, Taishi |  18 | vs. | Nonishi, Keiichiro |  18 |
+| Fujisawa, Go |  15 | vs. | Ishida, Makoto |  15 |
+| Fujishiro, Takashi |  15 | vs. | Matsumoto, Yoshitaka |  15 |
+| Fujita, Gensho |  12 | vs. | Kitamura, Tomohiro |  12 |
+| Fujita, Kazuki |  10 | vs. | Nishikawa, Hiroki |  10 |
+| Fujita, Kenichi |  18 | vs. | Ikeuchi, Kauzhiro |  18 |
+| Fujita, Osamu |  16 | vs. | Horie, Takashi |  16 |
+| Fujita, Sho |  15 | vs. | Seto, Hisashi |  15 |
+| Fujita, Takehiro |  9 | vs. | Okada, Takashi |  9 |
+| Fujita, Tsuyoshi |  15 | vs. | Wong, Nicholas Jonathan |  15 |
+| Fujitsuka, Shogo |  16 | vs. | Taniguchi, Tomoya |  16 |
+| Fujiwara, Kenichi |  10 | vs. | Oki, Chikara |  10 |
+| Fujiwara, Yuji |  16 | vs. | Saito, Tsutomu |  16 |
+| Fujiwara, Yusuke |  16 | vs. | Shiozu, Ryoma |  16 |
+| Fukata, Takamasa |  18 | vs. | Adachi, Takatsugu |  18 |
+| Fukuba, Shintaro |  15 | vs. | Okamoto, Hiroki |  15 |
+| Fukuchi, Takahiro |  15 | vs. | Sasakawa, Tomohide |  15 |
+| Fukuda, Hideo |  9 | vs. | Nakatsuka, Naoki |  9 |
+| Fukumoto, Keisuke |  10 | vs. | Ichida, Mitsuhiro |  10 |
+| Furuichi, Takenori |  18 | vs. | Hojo, Naomasa |  18 |
+| Furukawa, Takamasa |  18 | vs. | Mukuno, Yuji |  18 |
+| Furuta, Rikimaru |  3 | vs. | Togano, Koichi |  3 |
+| Furuta, Shinichi |  15 | vs. | Sonoda, Naohiro |  15 |
+| Furuyabu, Hiroaki |  15 | vs. | Yokoe, Tetsuo |  15 |
+| Goto, Hiroaki |  10 | vs. | Maeda, Hideki |  10 |
+| Goto, Takashi |  15 | vs. | Okazaki, Yuya |  15 |
+| Hada, Mikio |  15 | vs. | Yoshida, Akira |  15 |
+| Hamada, Shinichi |  4 | vs. | Yoshida, Tomohiro |  4 |
+| Hamasaki, Masamitsu |  15 | vs. | Tanioka, Yukinobu |  15 |
+| Hamawaki, Yusaku |  15 | vs. | Watanabe, Shinji(Okayama) |  15 |
+| Haneda, Daisuke |  15 | vs. | Eda, Takeshi |  15 |
+| Hara, Yasuharu |  12 | vs. | Minami, Masashi |  12 |
+| Harada, Hiroaki |  15 | vs. | Shiki, Kazumasa |  15 |
+| Harada, Hiroshi |  18 | vs. | Imai, Kimio |  18 |
+| Harino, Takuichi |  15 | vs. | Shvartsman, Alex |  15 |
+| Hasegawa, Takumi |  18 | vs. | Ito, Kenshiro |  18 |
+| Hasegawa, Taro |  12 | vs. | Kato, Yukisato |  12 |
+| Hasegawa, Tatsuya |  15 | vs. | Tsuchiya, Heinrich |  15 |
+| Hashimoto, Souichirou |  9 | vs. | Imai, Daisuke |  9 |
+| Hassaku, Jinpei |  18 | vs. | Kuroda, Masashiro |  18 |
+| Hayashi, Hirofumi |  9 | vs. | Tanigawa, Ikuyo |  9 |
+| Hayashi, Hiroki |  13 | vs. | Kato, Ryuji |  13 |
+| Hayashi, Hyoma |  15 | vs. | Mitsuya, Kazuhiko |  15 |
+| Hayashi, Shinsuke |  15 | vs. | Fujino, Kimihiro |  15 |
+| Hidaka, Ayumi |  11 | vs. | Sunada, Yoshimasa |  11 |
+| Higaki, Takao |  15 | vs. | Sekizuka, Yasuyoshi |  15 |
+| Higashimura, Genki |  13 | vs. | Niwa, Makoto |  13 |
+| Higashimura, Kazuya |  3 | vs. | Yoshida, Yosuke |  3 |
+| Higashino, Masayuki |  18 | vs. | Nagura, Hiroto |  18 |
+| Higono, Naoki |  15 | vs. | Iwamoto, Shota |  15 |
+| Hirabayashi, Ryuta |  12 | vs. | Hotta, Yasuhiro |  12 |
+| Hirai, Kenta |  12 | vs. | Horie, Manabu |  12 |
+| Hiraishi, Takashi |  6 | vs. | Yamaguchi, Toru |  6 |
+| Hiraishi, Tomohide |  15 | vs. | Suzuki, Akihisa |  15 |
+| Hirao, Takaaki |  12 | vs. | Ito, Kenta |  12 |
+| Hiraoka, Toshiaki |  18 | vs. | Morita, Yuki |  18 |
+| Hirata, Jun |  15 | vs. | Terasawa, Kazuya |  15 |
+| Hirata, Naoya |  15 | vs. | Morikami, Akira |  15 |
+| Hirata, Shinya |  21 | vs. | Izumi, Junya |  21 |
+| Hirayama, Shigetaka |  6 | vs. | Nagae, Hiroyuki |  6 |
+| Hiroi, Yuta |  9 | vs. | Matsunami, Masanori |  9 |
+| Hisaki, Yu |  12 | vs. | Kawamura, Kazushi |  12 |
+| Hojo, Naomasa |  18 | vs. | Furuichi, Takenori |  18 |
+| Honjo, Kotaro |  12 | vs. | Takahama, Norimasa |  12 |
+| Horaguchi, Shinji |  18 | vs. | Shibata, Yuki |  18 |
+| Horie, Manabu |  12 | vs. | Hirai, Kenta |  12 |
+| Horie, Takashi |  16 | vs. | Fujita, Osamu |  16 |
+| Horii, Tokutaro |  12 | vs. | Watanabe, Masanari |  12 |
+| Horiuchi, Kohei |  15 | vs. | Mantani, Keiji |  15 |
+| Hoshino, Hiroaki |  21 | vs. | Ogawa, Shunsuke |  21 |
+| Hotta, Yasuhiro |  12 | vs. | Hirabayashi, Ryuta |  12 |
+| Ichida, Mitsuhiro |  10 | vs. | Fukumoto, Keisuke |  10 |
+| Ida, Soichiro |  12 | vs. | Suzuki, Hiroki |  12 |
+| Ide, Katsuhiro |  18 | vs. | Ijuin, Keisuke |  18 |
+| Ietsune, Dai |  13 | vs. | Odaira, Shinichiro |  13 |
+| Iezaki, Dai |  12 | vs. | Takeyama, Shigemichi |  12 |
+| Iino, Ryuji |  9 | vs. | Yoshioka, Tetsuya |  9 |
+| Iioka, Kenta |  12 | vs. | Komatsu, Toshiaki |  12 |
+| Ijuin, Keisuke |  18 | vs. | Ide, Katsuhiro |  18 |
+| Ikeda, Kei |  18 | vs. | Yuba, Hirohumi |  18 |
+| Ikeda, Naoto |  12 | vs. | Kobara, Shohei |  12 |
+| Ikeda, Takashi |  15 | vs. | Tsukamoto, Toshiki |  15 |
+| Ikeda, Tomokazu |  9 | vs. | Katsu, Masahiro |  9 |
+| Ikeda, Tsuyoshi |  15 | vs. | Kiuchi, Masataka |  15 |
+| Ikematsu, Tsuyoshi |  15 | vs. | Ozaki, Hiroki |  15 |
+| Ikeuchi, Kauzhiro |  18 | vs. | Fujita, Kenichi |  18 |
+| Ikuta, Tatsuya |  15 | vs. | Sakashita, Hiroyuki |  15 |
+| Imai, Daisuke |  9 | vs. | Hashimoto, Souichirou |  9 |
+| Imai, Kimio |  18 | vs. | Harada, Hiroshi |  18 |
+| Imaizumi, Hirofumi |  12 | vs. | Yoshioka, Yasuyuki |  12 |
+| Imajuku, Katsuji |  9 | vs. | Izumi, Masaru |  9 |
+| Imamichi, Takashi |  15 | vs. | Uchida, Takuya |  15 |
+| Imura, Kazuo |  15 | vs. | Komiya, Mitsuhiro |  15 |
+| Inoue, Daisuke |  10 | vs. | Okamoto, Yoshihiko |  10 |
+| Inoue, Takeshi |  12 | vs. | Ueno, Shinichi |  12 |
+| Ishibashi, Yoichiro |  15 | vs. | Shirakura, Tsuyoshi |  15 |
+| Ishida, Itaru |  18 | vs. | Kageyama, Kiyotomo |  18 |
+| Ishida, Makoto |  15 | vs. | Fujisawa, Go |  15 |
+| Ishida, Masahiro |  9 | vs. | Watanabe, Shinji |  9 |
+| Ishida, Yoshinobu |  18 | vs. | Kurisu, Takashi |  18 |
+| Ishige, Tatsuya |  12 | vs. | Kitagawa, Hiroyuki |  12 |
+| Ishihara, Jun |  16 | vs. | Wada, Takaaki |  16 |
+| Ishii, Keisuke |  18 | vs. | Shimada, Masatake |  18 |
+| Ishikawa, Atsushi |  9 | vs. | Miyazaki, Kazuyuki |  10 |
+| Ishikawa, Ren |  19 | vs. | Yasutomi, Hiroto |  21 |
+| Ishikawa, Ryota |  9 | vs. | Sawada, Naoya |  9 |
+| Ishimaru, Ken |  16 | vs. | Maki, Koichiro |  16 |
+| Ishizuka, Hiroichi |  10 | vs. | Kawashima, Kazuya |  10 |
+| Isobe, Teruhiko |  15 | vs. | Sugimoto, Takahiko |  15 |
+| Isomoto, Hirofumi |  15 | vs. | Mihara, Makihito |  15 |
+| Ito, Akitsugu |  15 | vs. | Yamazaki, Satoru |  15 |
+| Ito, Hitoshi |  13 | vs. | Kushida, Yasumasa |  13 |
+| Ito, Kenshiro |  18 | vs. | Hasegawa, Takumi |  18 |
+| Ito, Kenta |  12 | vs. | Hirao, Takaaki |  12 |
+| Ito, Manabu |  13 | vs. | Kaji, Tetsuya |  13 |
+| Ito, Masaki |  12 | vs. | Ohnishi, Koji |  12 |
+| Ito, Shuhei |  9 | vs. | Adachi, Yuichi |  9 |
+| Ito, Tomoya |  9 | vs. | Yoshida, Satoshi |  9 |
+| Iwai, Tsuyoshi |  19 | vs. | Muroga, Hideo |  19 |
+| Iwamoto, Shota |  15 | vs. | Higono, Naoki |  15 |
+| Iwasaki, Yoshitaka |  11 | vs. | Nagano, Shinichi |  11 |
+| Iwata, Hiroshi |  15 | vs. | Takano, Yoshinori |  15 |
+| Izumi, Junya |  21 | vs. | Hirata, Shinya |  21 |
+| Izumi, Masaru |  9 | vs. | Imajuku, Katsuji |  9 |
+| Jumonji, Taro |  13 | vs. | Lee, Sung-Bum |  13 |
+| Kadono, Satoru |  12 | vs. | Yamashita, Ryusuke |  12 |
+| Kaga, Ayumu |  12 | vs. | Koyama, Masashi |  12 |
+| Kagami, Gen |  15 | vs. | Nakagawa, Kazuaki |  15 |
+| Kageyama, Kiyotomo |  18 | vs. | Ishida, Itaru |  18 |
+| Kaji, Tetsuya |  13 | vs. | Ito, Manabu |  13 |
+| Kakigi, Makoto |  6 | vs. | Yamashita, Koji |  6 |
+| Kamei, Kazuhiko |  12 | vs. | Yamazaki, Kishun |  12 |
+| Kamimoto, Hiroshi |  12 | vs. | Watanabe, Keita |  12 |
+| Kamio, Satoshi |  12 | vs. | Kondo, Yusuke |  12 |
+| Kamizono, Ryuta |  7 | vs. | Kanenari, Tadayuki |  7 |
+| Kanagawa, Hiroyuki |  3 | vs. | Maekawa, Keita |  0 |
+| Kanayama, Daisuke |  15 | vs. | Taniyama, Shunsuke |  15 |
+| Kanazawa, Takashi |  15 | vs. | Sato, So |  15 |
+| Kaneda, Yoshiyuki |  16 | vs. | Mori, Masaya |  16 |
+| Kaneko, Kentaro |  15 | vs. | Baba, Yasunori |  15 |
+| Kanenari, Tadayuki |  7 | vs. | Kamizono, Ryuta |  7 |
+| Kaneshige, Kozo |  15 | vs. | Namegata, Satoru |  15 |
+| Kasai, Takashi |  12 | vs. | Nishikido, Yuji |  12 |
+| Kashima, Akihiro |  18 | vs. | Kurasawa, Kanto |  18 |
+| Kashiwagi, Tetsuya |  16 | vs. | Sasaki, Takeshi |  16 |
+| Kataoka, Daisuke |  9 | vs. | Suzuki, Fumio |  9 |
+| Kataoka, Kazuyuki |  15 | vs. | Yanagisawa, Tadahiro |  15 |
+| Katayama, Hidenori |  9 | vs. | Saito, Takanobu |  9 |
+| Kato, Hiroyuki |  13 | vs. | Nakamura, Shigeo |  13 |
+| Kato, Kazuki |  15 | vs. | Shikatake, Naoki |  15 |
+| Kato, Kenichi |  6 | vs. | Taniura, Shunsuke |  6 |
+| Kato, Ryuji |  13 | vs. | Hayashi, Hiroki |  13 |
+| Kato, Yukisato |  12 | vs. | Hasegawa, Taro |  12 |
+| Katsu, Masahiro |  9 | vs. | Ikeda, Tomokazu |  9 |
+| Kawabata, Yuriko |  9 | vs. | Matsui, Yuta |  9 |
+| Kawahara, Ryotaro |  6 | vs. | Komatsu, Hidekazu |  6 |
+| Kawai, Daisuke |  6 | vs. | Takahashi, Masaki |  6 |
+| Kawai, Kenta |  18 | vs. | Tsuji, Naoki |  18 |
+| Kawamura, Kazushi |  12 | vs. | Hisaki, Yu |  12 |
+| Kawasaki, Daisuke |  13 | vs. | Matsuzaki, Shin |  13 |
+| Kawasaki, Hiroshi |  21 | vs. | Kim, Min-Su(Jpn) |  21 |
+| Kawashima, Kazuya |  10 | vs. | Ishizuka, Hiroichi |  10 |
+| Kawashima, Keisuke (Aichi) |  12 | vs. | Murabayashi, Naoto |  12 |
+| Kawashima, Keisuke (Kumamoto) |  16 | vs. | Nishida, Koji |  16 |
+| Kawashima, Yoshiyuki |  18 | vs. | Suzuki, Yoshihiro |  18 |
+| Kihara, Shinichi |  12 | vs. | Ueno, Takamasa |  12 |
+| Kikuchi, Yuji |  15 | vs. | Nakano, Fumiki |  15 |
+| Kikugawa, Kazumi |  12 | vs. | Chee, Wang Ming |  12 |
+| Kim, Min-Su(Jpn) |  21 | vs. | Kawasaki, Hiroshi |  21 |
+| Kim, Min-Su(Kor) |  12 | vs. | Muranaka, Nobutoshi |  12 |
+| Kim, Yong-Ok |  16 | vs. | Tani, Hiroaki |  16 |
+| Kinoshita, Junichi |  15 | vs. | Yamashita, Yui |  15 |
+| Kisaka, Yusuke |  10 | vs. | Tanioka, Yasuo |  10 |
+| Kise, Masato |  21 | vs. | Kodani, Ryosuke |  21 |
+| Kita, Meguto |  4 | vs. | Sakai, Nobuaki |  4 |
+| Kitagawa, Hiroyuki |  12 | vs. | Ishige, Tatsuya |  12 |
+| Kitagawa, Yutaka |  9 | vs. | Kurita, Yasuyuki |  9 |
+| Kitahara, Hiroyuki |  16 | vs. | Asari, Kozo |  16 |
+| Kitamura, Katsuaki |  15 | vs. | Yamagishi, Yuichi |  15 |
+| Kitamura, Tomohiro |  12 | vs. | Fujita, Gensho |  12 |
+| Kiuchi, Masataka |  15 | vs. | Ikeda, Tsuyoshi |  15 |
+| Kiwaki, Toshiyuki |  15 | vs. | Onoda, Takashi |  15 |
+| Kobara, Shohei |  12 | vs. | Ikeda, Naoto |  12 |
+| Kobata, Tetsuro |  15 | vs. | Kuroda, Toshiyuki |  15 |
+| Kobayashi, Hideki |  15 | vs. | Naito, Kazuma |  15 |
+| Kobayashi, Masanori |  13 | vs. | Nakachi, Yusuke |  13 |
+| Kobayashi, Norihiro |  15 | vs. | Arahori, Kazuaki |  15 |
+| Kobayashi, Ryosuke |  14 | vs. | Watanabe, Hiroshi(Tokyo) |  14 |
+| Kochi, Takashi |  19 | vs. | Nagayasu, Ryota |  19 |
+| Kodani, Ryosuke |  21 | vs. | Kise, Masato |  21 |
+| Kodera, Tetsuo |  9 | vs. | Yoshimura, Motoki |  9 |
+| Komatsu, Hidekazu |  6 | vs. | Kawahara, Ryotaro |  6 |
+| Komatsu, Toshiaki |  12 | vs. | Iioka, Kenta |  12 |
+| Komiya, Mitsuhiro |  15 | vs. | Imura, Kazuo |  15 |
+| Komiya, Tadayosi |  15 | vs. | Tajimi, Yuki |  15 |
+| Kondo, Mitsuhiro |  12 | vs. | Wakasa, Naoki |  12 |
+| Kondo, Yusuke |  12 | vs. | Kamio, Satoshi |  12 |
+| Kono, Takashi |  15 | vs. | Sanno, Naoki |  15 |
+| Kora, Masahiro |  15 | vs. | Nishibata, Shunsuke |  15 |
+| Koyama, Kenta |  15 | vs. | Takahashi, Satoshi |  15 |
+| Koyama, Masashi |  12 | vs. | Kaga, Ayumu |  12 |
+| Kozakai, Yukio |  12 | vs. | Yoshikuni, Mitsuyuki |  12 |
+| Kozeni, Shogo |  12 | vs. | Takeiri, Go |  12 |
+| Kubouchi, Naoki |  16 | vs. | Sumita, Masanobu |  16 |
+| Kunikawa, Kotaro |  12 | vs. | Nagaoka, Kazunori |  12 |
+| Kurasawa, Kanto |  18 | vs. | Kashima, Akihiro |  18 |
+| Kurihara, Tomo |  18 | vs. | Takenaka, Tsuyoshi |  18 |
+| Kurisu, Takashi |  18 | vs. | Ishida, Yoshinobu |  18 |
+| Kurita, Yasuyuki |  9 | vs. | Kitagawa, Yutaka |  9 |
+| Kurobane, Kyuya |  15 | vs. | Akahori, Hiroaki |  15 |
+| Kuroda, Masashiro |  18 | vs. | Hassaku, Jinpei |  18 |
+| Kuroda, Ryohei |  12 | vs. | Bing, Chin |  12 |
+| Kuroda, Toshiyuki |  15 | vs. | Kobata, Tetsuro |  15 |
+| Kurokawa, Naoya |  15 | vs. | Yoshitani, Atsuki |  15 |
+| Kurushima, Koji |  15 | vs. | Ogiyama, Shuji |  15 |
+| Kusaka, Tadateru |  18 | vs. | Watanabe, Hiroto |  18 |
+| Kusanagi, Kazuki |  18 | vs. | Nishimura, Yuuya |  18 |
+| Kusano, Masayuki |  16 | vs. | Shimizu, Akihiro |  16 |
+| Kushibe, Toshiki |  15 | vs. | Sumitomo, Hiroyuki |  15 |
+| Kushida, Yasumasa |  13 | vs. | Ito, Hitoshi |  13 |
+| Kyoi, Yoshiaki |  6 | vs. | Mochizuki, Kazuhiro |  6 |
+| Lee, Kil-Ho |  12 | vs. | Nishimura, Norihito |  12 |
+| Lee, Sang-Ryul |  12 | vs. | Matsumura, Takuya |  12 |
+| Lee, Sung-Bum |  13 | vs. | Jumonji, Taro |  13 |
+| Maeda, Hideki |  10 | vs. | Goto, Hiroaki |  10 |
+| Maeda, Kunihiko |  12 | vs. | Takubo, Yasuhiro |  12 |
+| Maeda, Nobuyuki |  9 | vs. | Nishida, Shinsuke |  9 |
+| Maeda, Ryuichi |  6 | vs. | Bun, Takutoshi |  6 |
+| Maekawa, Keita |  0 | vs. | Kanagawa, Hiroyuki |  3 |
+| Maekawa, Takuya |  6 | vs. | Tozawa, Toshikatsu |  6 |
+| Maki, Koichiro |  16 | vs. | Ishimaru, Ken |  16 |
+| Makihara, Takuya |  12 | vs. | Yamasaki, Mitsunori |  12 |
+| Mantani, Keiji |  15 | vs. | Horiuchi, Kohei |  15 |
+| Maruyama, Satoshi |  12 | vs. | Dono, Takashi |  12 |
+| Maruyama, Tomohiro |  15 | vs. | Abe, Ryo |  15 |
+| Masuda, Masakazu |  18 | vs. | Arita, Ryuichi |  18 |
+| Matoba, Takashi |  18 | vs. | Ogura, Ryo |  18 |
+| Matsuda, Hiromi |  12 | vs. | Yanagi, Yasuhiko |  12 |
+| Matsuda, Issui |  14 | vs. | Niwa, Takashi |  14 |
+| Matsui, Kengaku |  15 | vs. | Fujii, Takahiro |  15 |
+| Matsui, Yuta |  9 | vs. | Kawabata, Yuriko |  9 |
+| Matsumoto, Kenji |  9 | vs. | Shibuya, Koichi |  9 |
+| Matsumoto, Okimasa |  9 | vs. | Shimura, Yasuhiko |  9 |
+| Matsumoto, Takafumi(Tokushim |  12 | vs. | Miura, Takanori |  12 |
+| Matsumoto, Yoshitaka |  15 | vs. | Fujishiro, Takashi |  15 |
+| Matsumura, Takehiko |  9 | vs. | Nishioka, Daisuke |  9 |
+| Matsumura, Takuya |  12 | vs. | Lee, Sang-Ryul |  12 |
+| Matsunami, Masanori |  9 | vs. | Hiroi, Yuta |  9 |
+| Matsuno, Sogen |  6 | vs. | Saeki, Norifumi |  6 |
+| Matsuo, Koichiro |  18 | vs. | Taniguchi, Takuro |  18 |
+| Matsuoka, Tomohide |  15 | vs. | Morita, Masahiko |  15 |
+| Matsuzaki, Shin |  13 | vs. | Kawasaki, Daisuke |  13 |
+| Mihara, Makihito |  15 | vs. | Isomoto, Hirofumi |  15 |
+| Minami, Masashi |  12 | vs. | Hara, Yasuharu |  12 |
+| Mitsuya, Kazuhiko |  15 | vs. | Hayashi, Hyoma |  15 |
+| Miura, Masaru |  9 | vs. | Eto, Shinichiro |  9 |
+| Miura, Takanori |  12 | vs. | Matsumoto, Takafumi(Tokushim |  12 |
+| Miyake, Tetsuya |  15 | vs. | Sano, Takaya |  15 |
+| Miyanishi, Yohei |  15 | vs. | Nakajima, Hisatomo |  15 |
+| Miyazaki, Kazuyuki |  10 | vs. | Ishikawa, Atsushi |  9 |
+| Miyazaki, Kensuke |  12 | vs. | Chijimi, Keiichi |  12 |
+| Miyazaki, Rintaro |  10 | vs. | Saiba, Hajime |  10 |
+| Mizuta, Kazuo |  9 | vs. | Yamauchi, Takahiro |  9 |
+| Mizutani, Hiroya |  18 | vs. | Date, Tsutomu |  17 |
+| Mizutani, Naoki |  12 | vs. | Yanagawa, Masaru |  12 |
+| Mochiduki, Masashi |  18 | vs. | Akemitsu, Hiroaki |  18 |
+| Mochizuki, Hiroyuki |  15 | vs. | Ueno, Hiroaki |  15 |
+| Mochizuki, Kazuhiro |  6 | vs. | Kyoi, Yoshiaki |  6 |
+| Mochizuki, Yuki |  13 | vs. | Yamazaki, Hiroki |  13 |
+| Mori, Katsuhiro |  15 | vs. | Moriyama, Dai |  15 |
+| Mori, Masaya |  16 | vs. | Kaneda, Yoshiyuki |  16 |
+| Mori, Mitsuhiro |  6 | vs. | Otsuka, Tomomi |  5 |
+| Mori, Yukihiro |  9 | vs. | Okamura, Masashi |  9 |
+| Mori, Yukinari |  12 | vs. | Tanimoto, Naoya |  12 |
+| Morikami, Akira |  15 | vs. | Hirata, Naoya |  15 |
+| Morisaki, Nobuki |  12 | vs. | Siagian, Yohannes P |  12 |
+| Morita, Masahiko |  15 | vs. | Matsuoka, Tomohide |  15 |
+| Morita, Yuki |  18 | vs. | Hiraoka, Toshiaki |  18 |
+| Moriyama, Dai |  15 | vs. | Mori, Katsuhiro |  15 |
+| Morokuji, Takuma |  18 | vs. | Nakamura, Kazuhito |  18 |
+| Mukuno, Yuji |  18 | vs. | Furukawa, Takamasa |  18 |
+| Murabayashi, Naoto |  12 | vs. | Kawashima, Keisuke (Aichi) |  12 |
+| Muranaka, Nobutoshi |  12 | vs. | Kim, Min-Su(Kor) |  12 |
+| Murao, Hirohiko |  9 | vs. | Okazaki, Shinya |  9 |
+| Murase, Hiroshi |  16 | vs. | Taguchi, Yuichi |  16 |
+| Muroga, Hideo |  19 | vs. | Iwai, Tsuyoshi |  19 |
+| Muroi, Kazuaki |  18 | vs. | Yamada, Tsutomu |  18 |
+| Nada, Satoshi |  18 | vs. | Nihama, Tatsuo |  18 |
+| Nagae, Hiroyuki |  6 | vs. | Hirayama, Shigetaka |  6 |
+| Nagamune, Masaki |  12 | vs. | Okabayashi, Shun |  12 |
+| Nagano, Shinichi |  11 | vs. | Iwasaki, Yoshitaka |  11 |
+| Nagaoka, Kazunori |  12 | vs. | Kunikawa, Kotaro |  12 |
+| Nagaoka, Takayuki |  21 | vs. | Nakamura, Shuhei |  21 |
+| Nagayasu, Ryota |  19 | vs. | Kochi, Takashi |  19 |
+| Nagayasu, Yoshinori |  13 | vs. | Okazaki, Hideki |  13 |
+| Nagura, Hiroto |  18 | vs. | Higashino, Masayuki |  18 |
+| Naito, Kazuma |  15 | vs. | Kobayashi, Hideki |  15 |
+| Nakachi, Yusuke |  13 | vs. | Kobayashi, Masanori |  13 |
+| Nakagawa, Kazuaki |  15 | vs. | Kagami, Gen |  15 |
+| Nakai, Ryoji |  15 | vs. | Yoshikawa, Yusuke |  15 |
+| Nakajima, Chikara |  9 | vs. | Nishikawa, Fuyuki |  9 |
+| Nakajima, Hisatomo |  15 | vs. | Miyanishi, Yohei |  15 |
+| Nakamoto, Hiroyuki |  10 | vs. | Fujii, Hajime |  10 |
+| Nakamura, Kazuhito |  18 | vs. | Morokuji, Takuma |  18 |
+| Nakamura, Satoshi |  15 | vs. | Ogawa, Hidetoshi |  15 |
+| Nakamura, Shigeo |  13 | vs. | Kato, Hiroyuki |  13 |
+| Nakamura, Shuhei |  21 | vs. | Nagaoka, Takayuki |  21 |
+| Nakamura, Takahiro |  12 | vs. | Adachi, Ryosuke |  12 |
+| Nakamura, Tomoya |  18 | vs. | Onoda, Michihisa |  18 |
+| Nakamura, Toshihiro |  6 | vs. | Tanabe, Kazuya |  6 |
+| Nakamura, Yusuke |  15 | vs. | Noguchi, Masami |  15 |
+| Nakanishi, Hiroyuki |  18 | vs. | Yun, Suhan |  18 |
+| Nakanishi, Kazuo |  9 | vs. | Tokonami, Hiromichi |  9 |
+| Nakano, Fumiki |  15 | vs. | Kikuchi, Yuji |  15 |
+| Nakano, Yoshitsuka |  15 | vs. | Sando, Masao |  15 |
+| Nakatsuka, Naoki |  9 | vs. | Fukuda, Hideo |  9 |
+| Nakauchi, Kazumi |  18 | vs. | Cho, Shinichiro |  18 |
+| Nakauchi, Mayumi |  12 | vs. | Sakamoto, Kazuya |  12 |
+| Nakazawa, Kazuhiro |  12 | vs. | Nishimura, Masaaki |  12 |
+| Namegata, Satoru |  15 | vs. | Kaneshige, Kozo |  15 |
+| Narumiya, Ryuma |  9 | vs. | Sakemoto, Dai |  9 |
+| Nihama, Tatsuo |  18 | vs. | Nada, Satoshi |  18 |
+| Nishibata, Shunsuke |  15 | vs. | Kora, Masahiro |  15 |
+| Nishida, Koji |  16 | vs. | Kawashima, Keisuke (Kumamoto) |  16 |
+| Nishida, Shinsuke |  9 | vs. | Maeda, Nobuyuki |  9 |
+| Nishijima, Yuichi |  9 | vs. | Oizaki, Takahiro |  9 |
+| Nishikawa, Fuyuki |  9 | vs. | Nakajima, Chikara |  9 |
+| Nishikawa, Hiroki |  10 | vs. | Fujita, Kazuki |  10 |
+| Nishikawa, Takahito |  11 | vs. | Sakai, Naoko |  10 |
+| Nishikido, Yuji |  12 | vs. | Kasai, Takashi |  12 |
+| Nishimura, Masaaki |  12 | vs. | Nakazawa, Kazuhiro |  12 |
+| Nishimura, Norihito |  12 | vs. | Lee, Kil-Ho |  12 |
+| Nishimura, Yuuya |  18 | vs. | Kusanagi, Kazuki |  18 |
+| Nishino, Kenta |  15 | vs. | Sugimoto, Takashi |  15 |
+| Nishioka, Daisuke |  9 | vs. | Matsumura, Takehiko |  9 |
+| Nishioka, Kazuya |  15 | vs. | Yamaguchi, Shoji |  15 |
+| Niwa, Makoto |  13 | vs. | Higashimura, Genki |  13 |
+| Niwa, Takashi |  14 | vs. | Matsuda, Issui |  14 |
+| Niwa, Toshiharu |  15 | vs. | Okugawa, Shoji |  15 |
+| Nobushita, Jun |  18 | vs. | Sawahata, Atsushi |  18 |
+| Noda, Koji |  15 | vs. | Tatsumi, Tomohiro |  15 |
+| Noguchi, Masami |  15 | vs. | Nakamura, Yusuke |  15 |
+| Noguchi, Sakae |  3 | vs. | Tabuchi, Koji |  3 |
+| Noguchi, Takuo |  12 | vs. | Shimizu, Hiroyoshi |  12 |
+| Nomura, Eiji |  18 | vs. | Shikamoto, Hideki |  18 |
+| Nonishi, Keiichiro |  18 | vs. | Fujioka, Taishi |  18 |
+| Nozaki, Taiki |  15 | vs. | Anan, Go |  15 |
+| Odaira, Shinichiro |  13 | vs. | Ietsune, Dai |  13 |
+| Ogata, Kosaku |  12 | vs. | Ohara, Akihiro |  12 |
+| Ogawa, Hidetoshi |  15 | vs. | Nakamura, Satoshi |  15 |
+| Ogawa, Shunsuke |  21 | vs. | Hoshino, Hiroaki |  21 |
+| Ogiyama, Shuji |  15 | vs. | Kurushima, Koji |  15 |
+| Ogura, Ryo |  18 | vs. | Matoba, Takashi |  18 |
+| Oguri, Fumiaki |  15 | vs. | Okita, Yuji |  15 |
+| Ohara, Akihiro |  12 | vs. | Ogata, Kosaku |  12 |
+| Ohishi, Masahiro |  14 | vs. | Sato, Shinichi |  14 |
+| Ohnishi, Koji |  12 | vs. | Ito, Masaki |  12 |
+| Ohno, Hokuto |  15 | vs. | Ueta, Hiroki |  15 |
+| Ohshiro, Hideto |  15 | vs. | Saito, Kazuto |  15 |
+| Ohtsuka, Kotaro |  15 | vs. | Yoshizawa, Ryouji |  15 |
+| Oie, Ryuya |  12 | vs. | Ozaki, Yoichiro |  12 |
+| Oiwa, Tadashi |  12 | vs. | Enomoto, Takatoshi |  12 |
+| Oizaki, Takahiro |  9 | vs. | Nishijima, Yuichi |  9 |
+| Okabayashi, Shun |  12 | vs. | Nagamune, Masaki |  12 |
+| Okabe, Takahiro |  15 | vs. | Usami, Yukihiro |  15 |
+| Okada, Takashi |  9 | vs. | Fujita, Takehiro |  9 |
+| Okajima, Keisuke |  13 | vs. | Sakamoto, Keita |  13 |
+| Okamoto, Hiroki |  15 | vs. | Fukuba, Shintaro |  15 |
+| Okamoto, Jin |  15 | vs. | Taru, Genki |  15 |
+| Okamoto, Yoshihiko |  10 | vs. | Inoue, Daisuke |  10 |
+| Okamura, Masashi |  9 | vs. | Mori, Yukihiro |  9 |
+| Okazaki, Hideki |  13 | vs. | Nagayasu, Yoshinori |  13 |
+| Okazaki, Shinya |  9 | vs. | Murao, Hirohiko |  9 |
+| Okazaki, Yuya |  15 | vs. | Goto, Takashi |  15 |
+| Oki, Chikara |  10 | vs. | Fujiwara, Kenichi |  10 |
+| Okita, Yoichi |  12 | vs. | Tanaka, Fusatoshi |  12 |
+| Okita, Yuji |  15 | vs. | Oguri, Fumiaki |  15 |
+| Okuda, Yuki |  13 | vs. | Zhin, Chang C. |  13 |
+| Okugawa, Shoji |  15 | vs. | Niwa, Toshiharu |  15 |
+| Okumura, Atsushi |  15 | vs. | Tsujimura, Tsuyoshi |  15 |
+| Okuno, Noriaki |  15 | vs. | Ando, Hideki |  15 |
+| Omichi, Nobuhito |  15 | vs. | Yoshida, Masakazu |  15 |
+| Omori, Kazuki |  16 | vs. | Seo, Taiki |  16 |
+| Onoda, Michihisa |  18 | vs. | Nakamura, Tomoya |  18 |
+| Onoda, Takashi |  15 | vs. | Kiwaki, Toshiyuki |  15 |
+| Osawa, Masahiro |  15 | vs. | Sakashita, Yuichi |  15 |
+| Osawa, Takuya |  15 | vs. | Asahara, Akira |  15 |
+| Otsuka, Tomomi |  5 | vs. | Mori, Mitsuhiro |  6 |
+| Ozaki, Hiroki |  15 | vs. | Ikematsu, Tsuyoshi |  15 |
+| Ozaki, Yoichiro |  12 | vs. | Oie, Ryuya |  12 |
+| Rikuno, Keito |  12 | vs. | Yanase, Ikuhito |  12 |
+| Saeki, Norifumi |  6 | vs. | Matsuno, Sogen |  6 |
+| Saiba, Hajime |  10 | vs. | Miyazaki, Rintaro |  10 |
+| Saito, Kazuto |  15 | vs. | Ohshiro, Hideto |  15 |
+| Saito, Noritoshi |  12 | vs. | Shibasaki, Yoshihiro |  12 |
+| Saito, Takanobu |  9 | vs. | Katayama, Hidenori |  9 |
+| Saito, Tsutomu |  16 | vs. | Fujiwara, Yuji |  16 |
+| Sakaguchi, Takuya |  15 | vs. | Yamanaka, Shigeharu |  15 |
+| Sakai, Hideyuki |  16 | vs. | Yamazaki, Yudai |  16 |
+| Sakai, Naoko |  10 | vs. | Nishikawa, Takahito |  11 |
+| Sakai, Nobuaki |  4 | vs. | Kita, Meguto |  4 |
+| Sakamoto, Kazuya |  12 | vs. | Nakauchi, Mayumi |  12 |
+| Sakamoto, Keita |  13 | vs. | Okajima, Keisuke |  13 |
+| Sakamoto, Kikutaro |  12 | vs. | Chiwata, Ryo |  12 |
+| Sakanaga, Isamu |  12 | vs. | Uchimura, Takahiko |  12 |
+| Sakashita, Hiroyuki |  15 | vs. | Ikuta, Tatsuya |  15 |
+| Sakashita, Yuichi |  15 | vs. | Osawa, Masahiro |  15 |
+| Sakemoto, Dai |  9 | vs. | Narumiya, Ryuma |  9 |
+| Sando, Masao |  15 | vs. | Nakano, Yoshitsuka |  15 |
+| Sanno, Katsuya |  12 | vs. | Shirosaki, Masao |  12 |
+| Sanno, Naoki |  15 | vs. | Kono, Takashi |  15 |
+| Sano, Takaya |  15 | vs. | Miyake, Tetsuya |  15 |
+| Sasakawa, Tomohide |  15 | vs. | Fukuchi, Takahiro |  15 |
+| Sasaki, Sho |  15 | vs. | Yamatsu, Yuki |  15 |
+| Sasaki, Takeshi |  16 | vs. | Kashiwagi, Tetsuya |  16 |
+| Sato, Daisuke (Tokyo) |  15 | vs. | Yamauchi, Hiroyuki |  15 |
+| Sato, Kimihiko |  18 | vs. | Yamagami, Yudai |  18 |
+| Sato, Mitsunori |  12 | vs. | Shimada, Kazuhiro |  12 |
+| Sato, Shinichi |  14 | vs. | Ohishi, Masahiro |  14 |
+| Sato, So |  15 | vs. | Kanazawa, Takashi |  15 |
+| Sawada, Naoya |  9 | vs. | Ishikawa, Ryota |  9 |
+| Sawahata, Atsushi |  18 | vs. | Nobushita, Jun |  18 |
+| Sawashita, Ryota |  12 | vs. | Tomihara, Shinsuke |  12 |
+| Sekine, Takeshi |  21 | vs. | Yuasa, Kentaro |  21 |
+| Sekizuka, Yasuyoshi |  15 | vs. | Higaki, Takao |  15 |
+| Seko, Masataka |  6 | vs. | Yoshida, Shinsuke |  6 |
+| Seo, Taiki |  16 | vs. | Omori, Kazuki |  16 |
+| Seto, Hisashi |  15 | vs. | Fujita, Sho |  15 |
+| Shibasaki, Yoshihiro |  12 | vs. | Saito, Noritoshi |  12 |
+| Shibata, Yuki |  18 | vs. | Horaguchi, Shinji |  18 |
+| Shibuya, Koichi |  9 | vs. | Matsumoto, Kenji |  9 |
+| Shibuya, Tsutomu |  15 | vs. | Yokoyama, Shigehisa |  15 |
+| Shikamoto, Hideki |  18 | vs. | Nomura, Eiji |  18 |
+| Shikatake, Naoki |  15 | vs. | Kato, Kazuki |  15 |
+| Shiki, Kazumasa |  15 | vs. | Harada, Hiroaki |  15 |
+| Shimada, Kazuhiro |  12 | vs. | Sato, Mitsunori |  12 |
+| Shimada, Masatake |  18 | vs. | Ishii, Keisuke |  18 |
+| Shimizu, Akihiro |  16 | vs. | Kusano, Masayuki |  16 |
+| Shimizu, Hiroyoshi |  12 | vs. | Noguchi, Takuo |  12 |
+| Shimura, Yasuhiko |  9 | vs. | Matsumoto, Okimasa |  9 |
+| Shinozaki, Yu |  15 | vs. | Tsuchiya, Nobuhiro |  15 |
+| Shiozu, Ryoma |  16 | vs. | Fujiwara, Yusuke |  16 |
+| Shiraki, Yusuke |  13 | vs. | Tajima, Chihiro |  13 |
+| Shirakura, Tsuyoshi |  15 | vs. | Ishibashi, Yoichiro |  15 |
+| Shirosaki, Masao |  12 | vs. | Sanno, Katsuya |  12 |
+| Shishido, Tadanori |  6 | vs. | Utaka, Ryosuke |  6 |
+| Shvartsman, Alex |  15 | vs. | Harino, Takuichi |  15 |
+| Siagian, Yohannes P |  12 | vs. | Morisaki, Nobuki |  12 |
+| Someya, Yu |  15 | vs. | Biwaki, Toshiaki |  15 |
+| Sonoda, Naohiro |  15 | vs. | Furuta, Shinichi |  15 |
+| Sueda, Takeshi |  15 | vs. | Yamaguchi, Hiroshi |  15 |
+| Sueyoshi, Eisaku |  15 | vs. | Takagi, Takeshi |  15 |
+| Suga, Takeichi |  12 | vs. | Yamazaki, Sadaharu |  12 |
+| Sugama, Hideichi |  9 | vs. | Yamada, Yasuyuki |  9 |
+| Sugimoto, Takahiko |  15 | vs. | Isobe, Teruhiko |  15 |
+| Sugimoto, Takashi |  15 | vs. | Nishino, Kenta |  15 |
+| Sumii, Hiroyuki |  15 | vs. | Yamasaki, Rintaro |  15 |
+| Sumino, Hironori |  9 | vs. | Enoki, Kiyoyuki |  9 |
+| Sumita, Masanobu |  16 | vs. | Kubouchi, Naoki |  16 |
+| Sumitomo, Hiroyuki |  15 | vs. | Kushibe, Toshiki |  15 |
+| Sunada, Yoshimasa |  11 | vs. | Hidaka, Ayumi |  11 |
+| Suzuki, Akihisa |  15 | vs. | Hiraishi, Tomohide |  15 |
+| Suzuki, Fumio |  9 | vs. | Kataoka, Daisuke |  9 |
+| Suzuki, Hiro |  12 | vs. | Utsumi, Teruyuki |  12 |
+| Suzuki, Hirofumi |  10 | vs. | Tsukimoto, Kazuhiro |  10 |
+| Suzuki, Hiroki |  12 | vs. | Ida, Soichiro |  12 |
+| Suzuki, Kei |  21 | vs. | Doiuchi, Yasuhiro |  21 |
+| Suzuki, Sosuke |  7 | vs. | Watanabe, Tomonari |  7 |
+| Suzuki, Takaaki |  15 | vs. | Yamakawa, Yoichiro |  15 |
+| Suzuki, Yoshihiro |  18 | vs. | Kawashima, Yoshiyuki |  18 |
+| Tabuchi, Koji |  3 | vs. | Noguchi, Sakae |  3 |
+| Taguchi, Yuichi |  16 | vs. | Murase, Hiroshi |  16 |
+| Tajima, Chihiro |  13 | vs. | Shiraki, Yusuke |  13 |
+| Tajimi, Yuki |  15 | vs. | Komiya, Tadayosi |  15 |
+| Takagi, Takeshi |  15 | vs. | Sueyoshi, Eisaku |  15 |
+| Takahama, Norimasa |  12 | vs. | Honjo, Kotaro |  12 |
+| Takahara, Hitoki |  7 | vs. | Tanaka, Fumito |  7 |
+| Takahashi, Makoto |  13 | vs. | Yoshida, Ikuru |  13 |
+| Takahashi, Masaki |  6 | vs. | Kawai, Daisuke |  6 |
+| Takahashi, Satoshi |  15 | vs. | Koyama, Kenta |  15 |
+| Takahira, Nobumasa |  12 | vs. | Fujii, Tomo |  12 |
+| Takano, Yoshinori |  15 | vs. | Iwata, Hiroshi |  15 |
+| Takeda, Hiroki |  12 | vs. | Yoshizawa, Toshio |  12 |
+| Takeda, Hiroya |  9 | vs. | Tsuno, Takahiro |  9 |
+| Takeiri, Go |  12 | vs. | Kozeni, Shogo |  12 |
+| Takenaka, Tsuyoshi |  18 | vs. | Kurihara, Tomo |  18 |
+| Takeuchi, Hijiri |  9 | vs. | Tochika, Takayuki |  9 |
+| Takeyama, Shigemichi |  12 | vs. | Iezaki, Dai |  12 |
+| Takubo, Yasuhiro |  12 | vs. | Maeda, Kunihiko |  12 |
+| Tamura, Kenichi |  15 | vs. | Tatsumi, Koji |  15 |
+| Tanabe, Kazuya |  6 | vs. | Nakamura, Toshihiro |  6 |
+| Tanaka, Atsushi |  15 | vs. | Tanaka, Hisaya |  15 |
+| Tanaka, Fumito |  7 | vs. | Takahara, Hitoki |  7 |
+| Tanaka, Fusatoshi |  12 | vs. | Okita, Yoichi |  12 |
+| Tanaka, Hideki |  13 | vs. | Yamamoto, Toshihiko |  13 |
+| Tanaka, Hiroshi |  14 | vs. | Yamazaki, Takahiro |  14 |
+| Tanaka, Hisaya |  15 | vs. | Tanaka, Atsushi |  15 |
+| Tani, Hiroaki |  16 | vs. | Kim, Yong-Ok |  16 |
+| Tanigawa, Ikuyo |  9 | vs. | Hayashi, Hirofumi |  9 |
+| Taniguchi, Takuro |  18 | vs. | Matsuo, Koichiro |  18 |
+| Taniguchi, Tomoya |  16 | vs. | Fujitsuka, Shogo |  16 |
+| Tanimoto, Naoya |  12 | vs. | Mori, Yukinari |  12 |
+| Tanimoto, Naoyasu |  9 | vs. | Wada, Yuta |  9 |
+| Tanioka, Yasuo |  10 | vs. | Kisaka, Yusuke |  10 |
+| Tanioka, Yukinobu |  15 | vs. | Hamasaki, Masamitsu |  15 |
+| Taniura, Shunsuke |  6 | vs. | Kato, Kenichi |  6 |
+| Taniyama, Shunsuke |  15 | vs. | Kanayama, Daisuke |  15 |
+| Taru, Genki |  15 | vs. | Okamoto, Jin |  15 |
+| Tatsumi, Koji |  15 | vs. | Tamura, Kenichi |  15 |
+| Tatsumi, Tomohiro |  15 | vs. | Noda, Koji |  15 |
+| Tatsumi, Yasukazu |  18 | vs. | Doyama, Tsuyoshi |  18 |
+| Teramura, Yu |  9 | vs. | Toyama, Kenichi |  9 |
+| Terasawa, Kazuya |  15 | vs. | Hirata, Jun |  15 |
+| Terauchi, Masanori |  0 |  | \* BYE \* |  |
+| Tochika, Takayuki |  9 | vs. | Takeuchi, Hijiri |  9 |
+| Togano, Koichi |  3 | vs. | Furuta, Rikimaru |  3 |
+| Tokonami, Hiromichi |  9 | vs. | Nakanishi, Kazuo |  9 |
+| Tomihara, Shinsuke |  12 | vs. | Sawashita, Ryota |  12 |
+| Toyama, Kenichi |  9 | vs. | Teramura, Yu |  9 |
+| Tozawa, Toshikatsu |  6 | vs. | Maekawa, Takuya |  6 |
+| Tsuchiya, Heinrich |  15 | vs. | Hasegawa, Tatsuya |  15 |
+| Tsuchiya, Nobuhiro |  15 | vs. | Shinozaki, Yu |  15 |
+| Tsuji, Naoki |  18 | vs. | Kawai, Kenta |  18 |
+| Tsujimura, Tsuyoshi |  15 | vs. | Okumura, Atsushi |  15 |
+| Tsukamoto, Toshiki |  15 | vs. | Ikeda, Takashi |  15 |
+| Tsukimoto, Kazuhiro |  10 | vs. | Suzuki, Hirofumi |  10 |
+| Tsunashima, Kotaro |  10 | vs. | Yanagisawa, Kazutoyo |  10 |
+| Tsuno, Takahiro |  9 | vs. | Takeda, Hiroya |  9 |
+| Uchida, Takuya |  15 | vs. | Imamichi, Takashi |  15 |
+| Uchimura, Takahiko |  12 | vs. | Sakanaga, Isamu |  12 |
+| Ueno, Hiroaki |  15 | vs. | Mochizuki, Hiroyuki |  15 |
+| Ueno, Motohiro |  12 | vs. | Aya, Keisuke |  12 |
+| Ueno, Shinichi |  12 | vs. | Inoue, Takeshi |  12 |
+| Ueno, Takamasa |  12 | vs. | Kihara, Shinichi |  12 |
+| Ueta, Hiroki |  15 | vs. | Ohno, Hokuto |  15 |
+| Umeno, Yoshihiro |  18 | vs. | Yokoi, Takayuki |  18 |
+| Ura, Tsuyoshi |  18 | vs. | Fujimoto, Tomoya |  18 |
+| Uragami, Takayuki |  15 | vs. | Yagi, Hiroyuki |  15 |
+| Usami, Yukihiro |  15 | vs. | Okabe, Takahiro |  15 |
+| Ushie, Yuta |  9 | vs. | Yasukawa, Kazuhide |  9 |
+| Utaka, Ryosuke |  6 | vs. | Shishido, Tadanori |  6 |
+| Utsumi, Teruyuki |  12 | vs. | Suzuki, Hiro |  12 |
+| Wachi, Shinya |  15 | vs. | Arakane, Keisuke |  15 |
+| Wada, Takaaki |  16 | vs. | Ishihara, Jun |  16 |
+| Wada, Yuta |  9 | vs. | Tanimoto, Naoyasu |  9 |
+| Wakasa, Naoki |  12 | vs. | Kondo, Mitsuhiro |  12 |
+| Wakisaka, Yusuke |  18 | vs. | Yokoyama, Tadashi |  18 |
+| Watanabe, Hiroshi(Tokyo) |  14 | vs. | Kobayashi, Ryosuke |  14 |
+| Watanabe, Hiroto |  18 | vs. | Kusaka, Tadateru |  18 |
+| Watanabe, Keita |  12 | vs. | Kamimoto, Hiroshi |  12 |
+| Watanabe, Masanari |  12 | vs. | Horii, Tokutaro |  12 |
+| Watanabe, Shinji |  9 | vs. | Ishida, Masahiro |  9 |
+| Watanabe, Shinji(Okayama) |  15 | vs. | Hamawaki, Yusaku |  15 |
+| Watanabe, Tomonari |  7 | vs. | Suzuki, Sosuke |  7 |
+| Wong, Nicholas Jonathan |  15 | vs. | Fujita, Tsuyoshi |  15 |
+| Yagi, Hiroyuki |  15 | vs. | Uragami, Takayuki |  15 |
+| Yamabe, Hiroya |  12 | vs. | Yasui, Koichi |  12 |
+| Yamada, Akira |  12 | vs. | Akahoshi, Toru |  12 |
+| Yamada, Tsutomu |  18 | vs. | Muroi, Kazuaki |  18 |
+| Yamada, Yasuyuki |  9 | vs. | Sugama, Hideichi |  9 |
+| Yamada, Yuki |  13 | vs. | Aoki, Takamasa |  13 |
+| Yamagami, Yudai |  18 | vs. | Sato, Kimihiko |  18 |
+| Yamagishi, Yuichi |  15 | vs. | Kitamura, Katsuaki |  15 |
+| Yamaguchi, Hiroshi |  15 | vs. | Sueda, Takeshi |  15 |
+| Yamaguchi, Shoji |  15 | vs. | Nishioka, Kazuya |  15 |
+| Yamaguchi, Toru |  6 | vs. | Hiraishi, Takashi |  6 |
+| Yamahara, Toshihisa |  15 | vs. | Chao, Peter |  15 |
+| Yamakawa, Yoichiro |  15 | vs. | Suzuki, Takaaki |  15 |
+| Yamamoto, Akimasa |  16 | vs. | Fiedembach, Clément |  16 |
+| Yamamoto, Toshihiko |  13 | vs. | Tanaka, Hideki |  13 |
+| Yamanaka, Shigeharu |  15 | vs. | Sakaguchi, Takuya |  15 |
+| Yamasaki, Mitsunori |  12 | vs. | Makihara, Takuya |  12 |
+| Yamasaki, Rintaro |  15 | vs. | Sumii, Hiroyuki |  15 |
+| Yamashita, Koji |  6 | vs. | Kakigi, Makoto |  6 |
+| Yamashita, Ryusuke |  12 | vs. | Kadono, Satoru |  12 |
+| Yamashita, Yui |  15 | vs. | Kinoshita, Junichi |  15 |
+| Yamatsu, Yuki |  15 | vs. | Sasaki, Sho |  15 |
+| Yamauchi, Hiroyuki |  15 | vs. | Sato, Daisuke (Tokyo) |  15 |
+| Yamauchi, Takahiro |  9 | vs. | Mizuta, Kazuo |  9 |
+| Yamazaki, Hiroki |  13 | vs. | Mochizuki, Yuki |  13 |
+| Yamazaki, Kishun |  12 | vs. | Kamei, Kazuhiko |  12 |
+| Yamazaki, Sadaharu |  12 | vs. | Suga, Takeichi |  12 |
+| Yamazaki, Satoru |  15 | vs. | Ito, Akitsugu |  15 |
+| Yamazaki, Takahiro |  14 | vs. | Tanaka, Hiroshi |  14 |
+| Yamazaki, Yudai |  16 | vs. | Sakai, Hideyuki |  16 |
+| Yanagawa, Masaru |  12 | vs. | Mizutani, Naoki |  12 |
+| Yanagi, Yasuhiko |  12 | vs. | Matsuda, Hiromi |  12 |
+| Yanagisawa, Kazutoyo |  10 | vs. | Tsunashima, Kotaro |  10 |
+| Yanagisawa, Tadahiro |  15 | vs. | Kataoka, Kazuyuki |  15 |
+| Yanase, Ikuhito |  12 | vs. | Rikuno, Keito |  12 |
+| Yasui, Koichi |  12 | vs. | Yamabe, Hiroya |  12 |
+| Yasukawa, Kazuhide |  9 | vs. | Ushie, Yuta |  9 |
+| Yasutomi, Hiroto |  21 | vs. | Ishikawa, Ren |  19 |
+| Yokoe, Tetsuo |  15 | vs. | Furuyabu, Hiroaki |  15 |
+| Yokoi, Takayuki |  18 | vs. | Umeno, Yoshihiro |  18 |
+| Yokoyama, Shigehisa |  15 | vs. | Shibuya, Tsutomu |  15 |
+| Yokoyama, Tadashi |  18 | vs. | Wakisaka, Yusuke |  18 |
+| Yoshida, Akira |  15 | vs. | Hada, Mikio |  15 |
+| Yoshida, Ikuru |  13 | vs. | Takahashi, Makoto |  13 |
+| Yoshida, Masakazu |  15 | vs. | Omichi, Nobuhito |  15 |
+| Yoshida, Satoshi |  9 | vs. | Ito, Tomoya |  9 |
+| Yoshida, Shinsuke |  6 | vs. | Seko, Masataka |  6 |
+| Yoshida, Tomohiro |  4 | vs. | Hamada, Shinichi |  4 |
+| Yoshida, Yosuke |  3 | vs. | Higashimura, Kazuya |  3 |
+| Yoshikawa, Yusuke |  15 | vs. | Nakai, Ryoji |  15 |
+| Yoshikuni, Mitsuyuki |  12 | vs. | Kozakai, Yukio |  12 |
+| Yoshimura, Motoki |  9 | vs. | Kodera, Tetsuo |  9 |
+| Yoshioka, Tetsuya |  9 | vs. | Iino, Ryuji |  9 |
+| Yoshioka, Yasuyuki |  12 | vs. | Imaizumi, Hirofumi |  12 |
+| Yoshitani, Atsuki |  15 | vs. | Kurokawa, Naoya |  15 |
+| Yoshizawa, Ryouji |  15 | vs. | Ohtsuka, Kotaro |  15 |
+| Yoshizawa, Toshio |  12 | vs. | Takeda, Hiroki |  12 |
+| Yuasa, Kentaro |  21 | vs. | Sekine, Takeshi |  21 |
+| Yuba, Hirohumi |  18 | vs. | Ikeda, Kei |  18 |
+| Yun, Suhan |  18 | vs. | Nakanishi, Hiroyuki |  18 |
+| Zhin, Chang C. |  13 | vs. | Okuda, Yuki |  13 |
+
+
+
+
+
+
+

@@ -1,17 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20220704222415/https://magic.wizards.com/en/articles/archive/feature/ari-laxs-origin-story-2015-08-04)
+[Link to Wayback Machine](https://web.archive.org/web/20150822201156/http://magic.wizards.com/en/articles/archive/feature/ari-laxs-origin-story-2015-08-04)
 
 [_metadata_:author]:- "Mike Rosenberg"
-[_metadata_:description]:- "Learn more about 2015 Magic World Championship competitor Ari Lax's Magic and Pro Tour origins!"
+[_metadata_:description]:- "Learn more about 2015 Magic World Championship competitor Ari Lax's Magic and Pro Tour origins!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "440906"
 [_metadata_:publish_date]:- "2015-08-04"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Ari Lax's Origin Story"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-04 22:24:15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220704222415id_/https://magic.wizards.com/en/articles/archive/feature/ari-laxs-origin-story-2015-08-04"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ari-laxs-origin-story-2015-08-04"
+[_metadata_:wayback_capture_timestamp]:- "2015-08-22 20:11:56"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150822201156id_/http://magic.wizards.com/en/articles/archive/feature/ari-laxs-origin-story-2015-08-04"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/ari-laxs-origin-story-2015-08-04"
 ---
 
 
@@ -40,7 +40,6 @@ By Mike Rosenberg
 
 
 
-
 For 25-year-old Ari Lax, showing up to a Pro Tour on a Sunday to play in the feature match area was a long time coming. The Detroit native, who now lives in Boston and works as an engineer by day, has been moonlighting as a content provider for StarCityGames.com and as a weekend warrior professional *Magic* player for years. Despite having competed at the top levels for years, a Pro Tour Top 8 had always eluded him.
 
 
@@ -60,7 +59,7 @@ At least it had, until Pro Tour *Khans of Tarkir*, where he made his Sunday appe
 
 
 ![](https://media.wizards.com/2015/events/ptori/ari_lax_article.jpg)  
-*2015 World Championship Competitor Ari Lax*
+
 
 
  
@@ -78,7 +77,7 @@ The Pro Tour victory had been a long time coming for Lax, who began playing the 
  
 
 
-"I went straight from kitchen table play with 300-card piles to showing up to [Arena](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Arena) League with 10-Land Stomp and local Extended events with Draw-Go Mono-Blue. A friend of mine told me about the Junior Super Series [a scholarship tournament series that took place in the early 2000s for younger players] a couple of years later around *[Onslaught](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Onslaught)*. We spent a ton of time playtesting gauntlet matches in his basement before showing up to the event with [Astral Slide](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Astral+Slide) and Blue-Green Madness, and I've been playing competitive *Magic* ever since."
+"I went straight from kitchen table play with 300-card piles to showing up to [Arena](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Arena) League with 10-Land Stomp and local Extended events with Draw-Go Mono-Blue. A friend of mine told me about the Junior Super Series [a scholarship tournament series that took place in the early 2000s for younger players] a couple of years later around *[Onslaught](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Onslaught)*. We spent a ton of time playtesting gauntlet matches in his basement before showing up to the event with [Astral Slide](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Astral+Slide) and Blue-Green Madness, and I've been playing competitive *Magic* ever since."
 
 
  
@@ -102,13 +101,13 @@ His initial Pro Tour Qualifier experiences were lackluster, but by the time his 
  
 
 
-"Kyoto was Standard from *Lorwyn* block through *Shards of Alara* and *[Conflux](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Conflux)*. I had been playing [Spectral Procession](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spectral+Procession) decks at basically everything from Block Constructed forward and was pretty set on playing one at the Pro Tour. A week before the Pro Tour I showed up at RIW Hobbies [a game store near his hometown in Michigan] to test and was smashed by Patrick Chapin and Kyle Boggemes playing [Cryptic Command](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cryptic+Command) decks."
+"Kyoto was Standard from *Lorwyn* block through *Shards of Alara* and *[Conflux](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Conflux)*. I had been playing [Spectral Procession](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spectral+Procession) decks at basically everything from Block Constructed forward and was pretty set on playing one at the Pro Tour. A week before the Pro Tour I showed up at RIW Hobbies [a game store near his hometown in Michigan] to test and was smashed by Patrick Chapin and Kyle Boggemes playing [Cryptic Command](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cryptic+Command) decks."
 
 
  
 
 
-"Having my initial choice completely upset, I spent a couple of days testing with Jed Dolbeer and we settled on a Faeries list with a ton of Vendillion Cliques for Standard and on forcing a crazy Red-Black Aggro strategy he worked out in Draft. I do mean crazy on that draft plan; [Onyx Goblet](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Onyx+Goblet) and [Goblin Mountaineer](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Mountaineer) were archetype staples."
+"Having my initial choice completely upset, I spent a couple of days testing with Jed Dolbeer and we settled on a Faeries list with a ton of Vendillion Cliques for Standard and on forcing a crazy Red-Black Aggro strategy he worked out in Draft. I do mean crazy on that draft plan; [Onyx Goblet](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Onyx+Goblet) and [Goblin Mountaineer](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Mountaineer) were archetype staples."
 
 
  
@@ -120,7 +119,7 @@ It was at the Pro Tour that he discovered a true appreciation for Faeries, and i
  
 
 
-"I distinctly remember the first game I played at the event," he recollected. "Having never played Faeries before, I won the die roll and played [Thoughtseize](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Thoughtseize) on turn one. I took my opponent's second Kithkin for their [Goldmeadow](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goldmeadow) Stalwart, played [Bitterblossom](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bitterblossom) on two when they had no turn one play, killed their next two plays with one [Agony Warp](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Agony+Warp), then tapped down their lands with [Mistbind Clique](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mistbind+Clique) two turns in a row. At that moment I had this realization: That's what I could have been doing? Why wasn't I playing this deck the entire past year?”
+"I distinctly remember the first game I played at the event," he recollected. "Having never played Faeries before, I won the die roll and played [Thoughtseize](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Thoughtseize) on turn one. I took my opponent's second Kithkin for their [Goldmeadow](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goldmeadow) Stalwart, played [Bitterblossom](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bitterblossom) on two when they had no turn one play, killed their next two plays with one [Agony Warp](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Agony+Warp), then tapped down their lands with [Mistbind Clique](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mistbind+Clique) two turns in a row. At that moment I had this realization: That's what I could have been doing? Why wasn't I playing this deck the entire past year?”
 
 
  

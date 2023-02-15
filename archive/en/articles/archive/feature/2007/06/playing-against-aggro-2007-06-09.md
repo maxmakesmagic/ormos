@@ -6,6 +6,7 @@
 [_metadata_:description]:- "Strategies for taking down aggro decks."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "341121"
+[_metadata_:path_date]:- "2007-06-09"
 [_metadata_:publish_date]:- "2012-01-01"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Playing Against Aggro"

@@ -77,7 +77,7 @@ Then came [ChannelFireball](http://store.channelfireball.com/landing), based aro
 **Team Revolution:** The simple version is that this is the team for everyone with a French passport, plus Melissa DeTora, who presumably got an honorary French visa. What is undeniable is that Revolution did the business last time around in Dublin at [Pro Tour *Theros*](http://archive.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/ptths13/welcome), where teammates Jérémy Dezani and Pierre Dagen contested the final.
 
 
-![](https://web.archive.org/web/20141219222941im_/http://archive.wizards.com/mtg/images/daily/events/ptths13/finals_dagen_dezani.jpg)
+![](https://media.wizards.com/legacy/mtg/images/daily/events/ptths13/finals_dagen_dezani.jpg)
 *Pierre Dagen, left, and Jeremy Dezani battled in the finals of Pro Tour* Theros.
 
 **TCG Player:** Another team with sponsorship, the headliners among this U.S. group are Ari Lax, who finally seems to be ascending to true world class, [PT *Dragon's Maze*](http://archive.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/ptdgm13/welcome) Champion Craig Wescoe, and former CFB rogue deck builder Conley Woods, a "free agent signing" that the team is hoping will help it attack the Modern format.
@@ -101,7 +101,7 @@ Then came [ChannelFireball](http://store.channelfireball.com/landing), based aro
 **Austro-German Alliance:** I made that team name up myself, since I'm not sure it's bothered to give itself one yet. Essentially, it's a union of European Grand Prix circuit "good stuff"—think GP champions like Wenzel Krautmann and Patrick Dickmann, former Platinum Pro Thomas Holzinger, former team World Champion Nico Bohny, and current standout Valentin Mackl, together with half a dozen more from EU top tables.
 
 
-![](https://web.archive.org/web/20150912142144im_/http://archive.wizards.com/mtg/images/daily/events/gpval13/r13_mackl.jpg)
+![](https://media.wizards.com/legacy/mtg/images/daily/events/gpval13/r13_mackl.jpg)
 *Valentin Mackl*
 
 **Team Japan:** Arguably the most exciting of the lot, with Tomoharu Saito a prime organizer in pulling together the disparate Japanese qualifiers into a meaningful force. For the best part of five years (2005–2009) the Japanese were the dominant force on the Pro Tour, and with a "big five" that includes Saito, Yuuya Watanabe, Katsuhiro Mori, Yuuta Takahashi, and Makihito Mihara, this could be a big week for the Japanese.

@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20220612204857/https://magic.wizards.com/en/articles/archive/feature/behind-scenes-streets-new-capennas-stylish-booster-fun-2022-04-07)
+[Link to Wayback Machine](https://web.archive.org/web/20220408094738/https://magic.wizards.com/en/articles/archive/feature/behind-scenes-streets-new-capennas-stylish-booster-fun-2022-04-07?utm_source=dlvr.it&utm_medium=twitter)
 
 [_metadata_:author]:- "Clayton Kroh"
 [_metadata_:description]:- "History, style, fashion, and research come together to create the amazing Booster Fun cards in Streets of New Capenna."
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2022-04-07"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Behind the Scenes of Streets of New Capenna's Stylish Booster Fun"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-12 20:48:57"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220612204857id_/https://magic.wizards.com/en/articles/archive/feature/behind-scenes-streets-new-capennas-stylish-booster-fun-2022-04-07"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/behind-scenes-streets-new-capennas-stylish-booster-fun-2022-04-07"
+[_metadata_:wayback_capture_timestamp]:- "2022-04-08 09:47:38"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220408094738id_/https://magic.wizards.com/en/articles/archive/feature/behind-scenes-streets-new-capennas-stylish-booster-fun-2022-04-07?utm_source=dlvr.it&utm_medium=twitter"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/behind-scenes-streets-new-capennas-stylish-booster-fun-2022-04-07?utm_source=dlvr.it&utm_medium=twitter"
 ---
 
 

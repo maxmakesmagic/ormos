@@ -1,17 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20161230202913/http://magic.wizards.com/en/articles/archive/feature/art-gatecrash-2013-01-23)
+[Link to Wayback Machine](https://web.archive.org/web/20220626113414/https://magic.wizards.com/en/articles/archive/feature/art-gatecrash-2013-01-23)
 
 [_metadata_:author]:- "Jeremy Jarvis"
-[_metadata_:description]:- "The last five guilds."
+[_metadata_:description]:- "The last five guilds. We had a lot of ready-to-go assets from the concept push as well as from the original Ravnica block. Aleksi, Wayne, Pete, Sam, and Richard had nailed down many great ideas and several final drawings for the Gatecrash guilds during the concept push, but, admittedly, those guilds were lower priority. While we wanted to accomplish as much as possible for all"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "353376"
 [_metadata_:publish_date]:- "2013-01-23"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Art of Gatecrash"
-[_metadata_:wayback_capture_timestamp]:- "2016-12-30 20:29:13"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161230202913id_/http://magic.wizards.com/en/articles/archive/feature/art-gatecrash-2013-01-23"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/art-gatecrash-2013-01-23"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-26 11:34:14"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220626113414id_/https://magic.wizards.com/en/articles/archive/feature/art-gatecrash-2013-01-23"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/art-gatecrash-2013-01-23"
 ---
 
 

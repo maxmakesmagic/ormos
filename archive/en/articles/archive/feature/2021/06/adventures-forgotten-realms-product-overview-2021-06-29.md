@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20220517220349/https://magic.wizards.com/en/articles/archive/feature/adventures-forgotten-realms-product-overview-2021-06-29?utm_source=MTGNexus&utm_medium=SetPreviews)
+[Link to Wayback Machine](https://web.archive.org/web/20220419094856/https://magic.wizards.com/en/articles/archive/feature/adventures-forgotten-realms-product-overview-2021-06-29)
 
 [_metadata_:author]:- "Max McCall"
 [_metadata_:description]:- "Adventures in the Forgotten Realms has something for every Magic player's journey. Here's everything you can find to level up."
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2021-06-29"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Adventures in the Forgotten Realms Product Overview"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-17 22:03:49"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517220349id_/https://magic.wizards.com/en/articles/archive/feature/adventures-forgotten-realms-product-overview-2021-06-29?utm_source=MTGNexus&utm_medium=SetPreviews"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/adventures-forgotten-realms-product-overview-2021-06-29?utm_source=MTGNexus&utm_medium=SetPreviews"
+[_metadata_:wayback_capture_timestamp]:- "2022-04-19 09:48:56"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220419094856id_/https://magic.wizards.com/en/articles/archive/feature/adventures-forgotten-realms-product-overview-2021-06-29"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/adventures-forgotten-realms-product-overview-2021-06-29"
 ---
 
 

@@ -59,7 +59,7 @@ Day Two of the World *Magic* Cup is just starting up, and so we wanted to take t
 
 
 
-![](https://web.archive.org/web/20161113202831im_/http://archive.wizards.com/mtg/images/daily/events/wmc12/UnitedStates.jpg)
+![](https://media.wizards.com/legacy/mtg/images/daily/events/wmc12/unitedstates.jpg)
 
 
 *3rd: United States (Alex Binek, Joe Pennachio, Brian Kibler, Luis Scott-Vargas)* 

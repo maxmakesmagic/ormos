@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210418215749/https://magic.wizards.com/en/articles/archive/feature/battle-zendikar-prerelease-primer-2015-09-21)
+[Link to Wayback Machine](https://web.archive.org/web/20151011063748/http://magic.wizards.com/en/articles/archive/feature/battle-zendikar-prerelease-primer-2015-09-21)
 
 [_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "How will you choose to defend Zendikar at the Battle for Zendikar Prerelease?"
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2015-09-21"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Battle for Zendikar Prerelease Primer"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-18 21:57:49"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210418215749id_/https://magic.wizards.com/en/articles/archive/feature/battle-zendikar-prerelease-primer-2015-09-21"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/battle-zendikar-prerelease-primer-2015-09-21"
+[_metadata_:wayback_capture_timestamp]:- "2015-10-11 06:37:48"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151011063748id_/http://magic.wizards.com/en/articles/archive/feature/battle-zendikar-prerelease-primer-2015-09-21"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/battle-zendikar-prerelease-primer-2015-09-21"
 ---
 
 
@@ -35,7 +35,6 @@ By Gavin Verhey
 
 
  When Gavin Verhey was eleven, he dreamt of a job making Magic cards—and now as a Magic designer, he's living his dream! Gavin has been writing about Magic since 2005. 
-
 
 
 
@@ -147,7 +146,7 @@ Ideally, the colors you pick will have all four of those criteria, but if two or
 ![](https://media.wizards.com/2015/images/daily/c4rd4rt_CsowW8oCu1.jpg)
 
 
-Art by [Eric Deschamps](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=+%5B%22Eric+Deschamps%22%5D)
+Art by [Eric Deschamps](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=+[%22Eric+Deschamps%22])
 
 
 Whatever your method, you're going to need to narrow down what you're playing. If you get stuck at the Prerelease, take a look at the insert provided inside the Prerelease box for some inspiration, or feel free to ask the players around you for help. (You are allowed to do this at a Prerelease—it's about fun and learning, after all!)

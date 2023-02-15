@@ -1,0 +1,562 @@
+
+---
+[Link to Wayback Machine](https://web.archive.org/web/20211018163435/https://magic.wizards.com/en/articles/archive/latest-developments/mail-stack-2005-04-08)
+
+[_metadata_:author]:- "Aaron Forsythe"
+[_metadata_:description]:- "Ah, the no-theme week. I can write whatever I want! (Actually, with Scott Johns out of the office due to the birth of his second child—congrats!—I could probably write whatever I wanted anyhow.) This week, I'll be tackling that ever-growing monster of an Inbox that stares back at me from the screen every morning. That's right, it's mail bag week. First, a sanity check on last"
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "289241"
+[_metadata_:publish_date]:- "2005-04-08"
+[_metadata_:source]:- "div-main-content"
+[_metadata_:title]:- "Mail on the Stack"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-18 16:34:35"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018163435id_/https://magic.wizards.com/en/articles/archive/latest-developments/mail-stack-2005-04-08"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/latest-developments/mail-stack-2005-04-08"
+---
+
+
+Mail on the Stack
+=================
+
+
+
+ Posted in **Latest Developments**
+ on April 8, 2005 
+
+
+
+
+
+
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/authorpic_aaronforsythe.jpg)
+By Aaron Forsythe
+
+
+
+
+
+
+
+
+
+
+
+Ah, the no-theme week. I can write whatever I want! (Actually, with Scott Johns out of the office due to the birth of his second child—congrats!—I could probably write whatever I wanted anyhow.) This week, I'll be tackling that ever-growing monster of an Inbox that stares back at me from the screen every morning. That's right, it's mail bag week.
+
+
+First, a sanity check on last week's shenanigans:
+
+
+[Regarding "[Out of Control](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/af60)":]
+
+
+
+> 
+> WOW, this was one of the most uninspired articles I've ever read! Do you really get paid for putting up two decklists and adding some lines of SPAM to go with them?
+> 
+> 
+> I'd rather not read any article than waste my time with one as vacant of information as this one.
+> 
+> 
+> Yours sincerely,  
+> 
+> Andreas
+> 
+> 
+> 
+
+
+To the point—it was part of an April Fools' joke. I hoped everyone understood that, but there are people reading this site for whom English isn't their first language, and who don't live in countries where April Fools' Day means anything. So I'll explain it plainly. My "non-premium" article last week was meant to be as devoid of content as possible. The ["premium" article](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/af60b) was a bunch of made up stuff, mostly half-truths, allowing me to have some fun at the expense of my readers and my coworkers. I promise that my non-joke columns will (usually) be heavier on the content.
+
+
+[Regarding "[Winston Draft](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/af59)":]
+
+
+
+> 
+> Dear Aaron,
+> 
+> 
+> ![](https://media.wizards.com/legacy/global/images/mtgcom_daily_af59_pic1_en.jpg)First, I am so sorry to hear about your leg injury. Last year I had some surgery on my ankle (that involved screws!), so I'm no stranger to that sort of awful radiating pain where you can't walk. My deepest condolences go out to you, and I'm glad to hear your doing better.
+> 
+> 
+> But I digress. I wanted to write to thank you for your article on Winston Drafting. Not having very many other *Magic* players around me, combined with work and college, makes it awfully difficult to get drafts going, so this is the perfect way for me to get my drafting in. I just finished playing a few games with my brother via Winston Draft, and I must say, we both had a GREAT time, and I will definitely be recommending this to everyone.
+> 
+> 
+> Once again, thank you so much for bringing this format into the light.
+> 
+> 
+> Sincerely,  
+> 
+> Andy Dominguez
+> 
+> 
+> 
+
+
+Thanks, Andy. I'm doing fine now (thanks to all the well-wishers out there!). I'm actually an old hand at winding up in the hospital, as I'm a bit accident-prone. My wife prays for my daughter's sake that it isn't hereditary.
+
+
+Glad you like Winston Draft. Hopefully it'll catch on, as I feel it addresses all the shortcomings of other one-on-one draft formats.
+
+
+
+> 
+> I got confused about the piles... When you choose to draft a pile, do you take the whole thing (as you mentioned in your example: 8 cards), or do you just pick 1 out of the pile? It seems like the game can become unfair (with one player holding many more cards than the other at the end of the draft) if multiple cards are selected at once... Please clarify... Thanks!
+> 
+> 
+> --Dan Harrow
+> 
+> 
+> 
+
+
+When you take a pile, Dan, you take the whole thing. While it's true that one player can have many more cards than the other, it's usually because he has so many more sub-par cards. If you just draft good cards, it doesn't matter how many cards you have total, just how many of them are good enough to have an impact on the match. I've never seen anyone end up with so few cards that it wasn't possible to build a reasonable deck.
+
+
+
+> 
+> Hey Aaron,
+> 
+> 
+> Kewl article, I'm a big fan of drafting and new formats are always good to try out. I'm wondering why the format you previewed is called Winston draft, however. I'm currently reading the legendary *1984* and as you probably know the main character's name is Winston. But if that's where the draft got its name from then how did Richard tie Winston Smith up to the drafting format?
+> 
+> 
+> I could only guess that much like Winston in the story, things are getting bigger and bigger as you continue to not want them. You keep pushing things away, much like Winston and his inevitable meeting with someone under Big Brother's command, and when you finally get something good it's actually quite a small item of ripeness among an entire earth-sized ocean of horror.
+> 
+> 
+> However this wouldn't of course match the quality of cards you draft, but you get the idea. And you may not understand how I mean that if you haven't read *1984*, and I do, if so, suggest that you do.
+> 
+> 
+> Fox Murdoch
+> 
+> 
+> 
+
+
+Fox, I read *1984* years ago in high school. Great story. My favorite piece on "negative Utopia," however, is a short story by Kurt Vonnegut called "Harrison Bergeron." Check it out.
+
+
+Sadly, Richard Garfield's name for Winston Draft isn't quite as profound as you might guess. Quite the opposite, actually. That draft mechanic was originally designed by Richard for a game using a regular 52-card deck of playing cards. He tested that particular game with guys around the office here using a deck of cards with the "Winston" cigarette logo on the back. So when the draft was adapted to *Magic* cards, the name "Winston" came with it. No kidding.
+
+
+
+
+![Imperial Seal](http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Imperial%20Seal&options=)
+
+[Regarding "[More About March 1st](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/af57)":]
+
+
+
+
+> 
+> Do you have any plans of including the [*Portal*] tutors, particularly [Imperial Seal](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Imperial+Seal), in future *Magic* expansions? I feel that Wizards should do this because these cards are hard to find (they're non-existent here in the Philippines) and their prices are so high, almost rivaling those of the Power 9 cards. I think this will help many *Magic* players."  
+> 
+> –zoi
+> 
+> 
+> 
+
+
+An interesting solution to a strange problem, zoi. While we'd never disclose plans to reprint any particular card or group of cards -— so please read nothing into this answer —- anything is fair game that isn't on the Reserved List, including cards from all three *Portal* sets.
+
+
+
+> 
+> Now that the Horsemanship ability is "real," do you think it will be used in any sets in the future? Particularly sets that are involved in T2 [Standard] at any point.  
+> 
+> --Kyle Williams
+> 
+> 
+> 
+
+
+Kyle, Horsemanship is not a very well-designed mechanic in the big picture of the game. Sure, it had its place in the P3K set from a mechanical and flavor standpoint (the set needed an evasion mechanic, and the source material didn't contain very many flying creatures).
+
+
+Flying works well in *Magic* because of its own history—there are plenty of flying creatures available to deckbuilders to stop other people's flying attackers. Horsemanship would be like starting a new plane of battle. We tried that with Shadow in *Tempest*, and that was quite problematic (the creatures were essentially unblockable all the time). Granted, we may try starting another field of battle in the future, but with something a little more imaginative than a direct copy of the flying ability. In short, most likely not.
+
+
+Vintage player I@n DeGraff sent me a message regarding some *Portal* cards the DCI should be cautious of, but then continued with some comments on the [Trinisphere](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Trinisphere) banning (and a postscript on [Sway of the Stars](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sway+of+the+Stars), of all things).
+
+
+
+> 
+> 
+> 
+> ![Trinisphere](http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Trinisphere&options=)
+> 
+> [...]As for [Trinisphere](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Trinisphere) being gone, the vast amount of players in this area are happy; the players with the most play skill aren't happy. They view the restricting as unnecessary and if anything most believe it [[Trinisphere](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Trinisphere)] made Vintage healthier. In the end though, I believe it will be a good thing, as [Trinisphere](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Trinisphere) was lowering the turnout for our Type 1 events. Thanks for continuing to support Type 1.
+> 
+> 
+> Keep up the good work; I know it's rough working for the best game ever made.  
+> 
+> --I@n DeGraff
+> 
+> 
+> PS: I found the article that explained development of [Sway of the Stars](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sway+of+the+Stars) highly troubling, considering you originally costed it at four mana. At four mana [Diminishing Returns](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Diminishing+Returns) has seen some play in Vintage, yet the proposed card was Time Twister + Upheaval + 13 Point Bolt for 4 mana! This card is more powerful then Mind's Desire in vintage. This article frustrated some Vintage players as they viewed it as a sign that Vintage players aren't thought of in the development process.
+> 
+> 
+> 
+
+
+I@n's comments on [Trinisphere](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Trinisphere) are telling—his experience with the card's effect on his local community is a mirror of what we saw happening in Standard with Ravager Affinity. Experienced players could process the card for what it was, but that doesn't mean it wasn't ruining the experiences of other players. A balanced environment means nothing if there's no one to play in it.
+
+
+As for [Sway of the Stars](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sway+of+the+Stars), tell your friends not to fear. Many designers submit cards without fully comprehending their power level, and we like it that way. They come up with crazy ideas, and it is up to the development team to run the cards through the wringer and come up with final costing and wording. The fact that Sway cost four mana coming out of design is about as important as its playtest name being "Plan B"; there was no way the card was going to get printed like that. Design may not foresee their creations' impact on constructed *Magic*, but they don't really need to. That's what development is for. And yes, Vintage players are thought of. (Ever wonder why [Rith's Grove](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rith%27s+Grove) has the phrase "non-Lair land" in its rules text? Vintage.)
+
+
+Now some bad beats for development:
+
+
+[Regarding "[Eight Plus One](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/af56)":]
+
+
+
+> 
+> 
+> 
+> ![Skullclamp](http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Skullclamp&options=)
+> 
+> I forget who (it was a while ago) exactly wrote on this site that the problem [with Affinity in Standard] was the artifact lands. The problem was lousy development. Raffinity could have been made a reasonable deck if the development team had taken a good look at the deck. Barring the [Skullclamp](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skullclamp) debacle, any number of cards should have been whacked hard before printing. If Ravager had "1, sac an artifact:.." and disciple didn't cause loss of life, and Cranial [Plating]'s equip cost was reasonable, the whole deck moves towards good, but not broken.
+> 
+> 
+> My point here is that someone in R&D needs to own up publicly that *Mirrodin* was a gross example of development falling flat on its collective face.
+> 
+> 
+> I agree with the creative necessity of having the artifact lands, but you need to do real development about it. Just acknowledge that you guys screwed up.
+> 
+> 
+> Thanks,  
+> 
+> Bryan
+> 
+> 
+> BTW CHK looks really good, thanks.
+> 
+> 
+> 
+
+
+We screwed up! Haven't I been saying that all along? If cards are getting banned in Standard or Block Constructed, we did something wrong. I have no problem admitting that, and have done so previously. I was not trying in any way to somehow first anthropomorphize and then *blame* artifact lands for anything that R&D did wrong. I was merely implying that if we had to go back and develop the block over again, artifact lands probably wouldn't have been there, or would have been seriously powered down (by being Legendary or via some other change). Either they would have to go or lots of other cards would have to get weaker, and I think the least-safe part of the equation was the lands, as they must be taken into account every single time you make a card that cares about how many artifacts you have in play.
+
+
+I am glad to hear, however, that you like *Kamigawa* block.
+
+
+Good words from the front lines:
+
+
+
+> 
+> I would like to make some comments on the banning in Standard and the future metagame. First, I would like to mention that I am one of the few players who have played since Beta. Not that this matters, but it reflects my experience with the game and with past blocks and formats. When *Mirrodin* block was first released I was very excited. I was the first set in a while that seemed to have some powerful cards that would not only be useful in standard but in other formats as well (in hindsight this is an understatement). I was one of the MTG forum members to piece together KCI. But more recently I had put away all my cards having to do with Standard. I was tired of always having to play the same 2-3 decks, and having to pack artifact hate in with any new deck idea. IT WAS BOORING.
+> 
+> 
+> Now, post ban, I am enjoying the environment so much more. I have just recently posted a KCI-Life deck on the MTG KCI forum. Even without the artifact lands it is very competitive. But, more importantly, I have been playing new decks almost constantly. Each person I meet has new ideas, and all seem competitive. The format is brimming with ideas, and players trying them. It is a very exciting time in Standard. I know that you have been getting dumped on for your decision, but let me tell you that it was the right one and I for one applaud you for your decisive action.
+> 
+> 
+> Thank you,  
+> 
+> Dylan Petter
+> 
+> 
+> 
+
+
+I greatly enjoy getting this kind of email—the ones that say that decisions we have made have improved a player's experience with the game. That's what it's all about. Another:
+
+
+
+> 
+> After reading your article, several things are making more sense. You mentioned that *Magic* player turnout at events was down, and I'd just like to add that ever since *Darksteel*, our local Friday Night *Magic* attendance has dropped from about 28 players to a wretched 8 or 9 die-hards. There were many Friday nights when only six people showed up, and we decided to play the tournament as "round robin" instead of "Swiss pairings"
+> 
+> 
+> Grumblings from the players were all to the tune of "Affinity," and we have high hopes of attracting back our wayward players now. More than a few local players were calling for our shop owner to simply ban the entire *Mirrodin* block from tournaments held in the store - replacing it in Standard with *Onslaught* block.
+> 
+> 
+> Thank you for your explanation, and thank you for the bannings. Standard just got more interesting.
+> 
+> 
+> Andy Roberts,  
+> 
+> Portsmouth, OH
+> 
+> 
+> 
+
+
+Fantastic stuff. The only emails I like more than these are the ones that tell me how awesome I am personally. I should have my wife send me more of those.
+
+
+Moving on...
+
+
+[Regarding "[The Tale of Two Formats](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/af53)":]
+
+
+
+> 
+> 
+> 
+> ![Shuko](http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Shuko&options=)
+> 
+> I'm surprised by your statement, *"These weird cases are why R&D doesn't tend to make targeted activated abilities with a cost of 0 any more."*
+> 
+> There are three Equipments available that have an activation cost of 0 mana. Two of them can target the same creature as many times as possible. The most recent one [[Shuko](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shuko)] only costs 1 mana to play (comparable with [Nomads en-Kor](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nomads+en-Kor)).
+> 
+> 
+> The only drawback is the speed. Equipping is played like a sorcery while the en-Kor damage redirection is played as an instant. This can be overcome but then you have a proper three-card combo of course!
+> 
+> 
+> The main lesson is that infinite life will not disappear when the en-Kor creatures cycle out of Extended.
+> 
+> 
+> Best regards,  
+> 
+> Wilmar de Lange
+> 
+> 
+> 
+
+
+Right you are, Wilmar. I was too hasty in saying we don't make 0-mana abilities that can be used multiple times, because we obviously do. Personally, they make me slightly nervous, but the development teams for the sets that include those cards found little reason to worry.
+
+
+The "Life" deck can still exist post-rotation with [Shuko](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shuko), [Daru Spiritualist](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Daru+Spiritualist), and [Starlit Sanctum](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Starlit+Sanctum) (there are other ways as well), but I don't expect it to be as fast or resilient in the new Extended as it is in the current.
+
+
+
+> 
+> Given that Extended now appears to be one of the best formats the game has ever seen in terms of diversity of the field, are you considering rolling back the plans to rotate out the Rath, Urza and MM blocks this fall? Looking at the results of the Philadelphia PTQ's, it's almost a different deck winning each tournament. Seems like it would be sad to see it go (in addition to watching [Energy Flux](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Energy+Flux) rotate out and have Affinity rear its ugly head again). What are your thoughts?
+> 
+> 
+> --Greg Ullmann
+> 
+> 
+> 
+
+
+The format is definitely at a tipping point, Greg. The card pool is sufficiently large that, while lots of different decks are viable, they all have so many tools at their disposal that they can win (or set up an inevitable win) by turn three, and disrupting some of them is very difficult. If we keep adding sets to a format like that, something is going to break. The bigger a format, the faster it tends to be. We came up with this rotation plan years ago, and it still makes sense to implement. Here's an email that sees the format in a different light:
+
+
+
+> 
+> Aaron,
+> 
+> 
+> You may like the current Extended. I, on the other hand, do not. The problem I have with Extended is that the number of sets involved greatly lends itself towards degenerate combo decks. When you have 5 blocks in play at any given time, card interactions are bound to surface that circumvent the usual deckbuilding rules. While I do not see a reasonable solution to the problem (unless you want to ban cards like [Daru Spiritualist](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Daru+Spiritualist) and [Aluren](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aluren)), I also think Extended as a format is fundamentally flawed when you are forced to play discard, combo, or an aggro deck that is so fast that it is able to out-goldfish the combo decks. I know this is not an easy situation to manage but I hope that you guys are at least giving it some thought, that future sets are developed with some thought towards not only their impact on Standard but also on Extended as well.  
+> 
+> --Mark Schick
+> 
+> 
+> 
+
+
+Extended is already considered in development, but we can't really manage the format unless its size is kept, well, manageable. Rotation helps us in that way as well.
+
+
+One interesting complaint I get from entrenched PTQ players is that an overly-diverse format is frustrating to compete in, since you feel that you have to practice against twenty different decks and choose how to use your sideboard slots somewhat haphazardly. This phenomenon won't prevent us from trying to make our formats more wide open, but it is interesting to see the other side of the coin.
+
+
+And now on to some slightly less heavy material...
+
+
+[Regarding "[The Creative Side of Kamigawa](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/af54)":]
+
+
+
+> 
+> I don't usually find the names hard to pronounce, but often they are hard to remember. My friends and I often refer to cards but their 'title' like "Lady of Scrolls," and "The Clouded Mirror" rather than remember their 'first names.'
+> 
+> 
+> But on the whole, I think the names are good.  
+> 
+> --Stephen L.
+> 
+> 
+> 
+
+
+That's not a bad thing, Stephen. Part of the reason for putting "attributions" on Legends is to quickly give you a sense of what the character is about, and the other is to give you an alternate way of referring to them. We'd much rather have you call Meloku "The Clouded Mirror" than the super-generic "that five-mana 2/4 Moonfolk guy."
+
+
+[Regarding "[You Should Have Blocked](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/af52)":]
+
+
+
+> 
+> You said [Durkwood Boars](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Durkwood+Boars) but the picture was [Argothian Swine](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Argothian+Swine). Just wanted to point out this error. Thanks for your time and keep up the good writing.
+> 
+> 
+> --Mike
+> 
+> 
+> 
+
+
+![](https://web.archive.org/web/20210430012319im_/https://media.wizards.com/legacy/global/images/mtgcom_daily_af52_picmain_en.jpg)Hey, I don't make the pictures (anymore). I believe what happened was that the graphic designer wanted to use [Durkwood Boars](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Durkwood+Boars) in that illustration but their "pose" didn't mesh with the art from [Ninja of the Deep Hours](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ninja+of+the+Deep+Hours). [Argothian Swine](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Argothian+Swine), on the other hand, had art that worked well with the Ninja to create that hilarious collage.
+
+
+
+> 
+> I think it is unfortunate we didn't get a ninja with a mill ability simply due to space. Any chance that the ability could be keyworded something like "Mill: 1"? I think most people refer to such effects as "milling," due to the good old reliable, yet oddly controversial [Millstone](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Millstone). (Remember the old debates about how good random milling is?) Oh well, just a random thought. We've got plenty of good mill effect right now with [Dampen Thought](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dampen+Thought) among other things.  
+> 
+> --Lewis Himelhoch
+> 
+> 
+> 
+
+
+There's a good amount of back-and-forth here between design, development, and editing about where we can condense text into shorthand and where we can convert well-known abilities into keywords (like Vigilance). Milling wasn't high on our list of priorities, but it does seem to be a reasonable candidate, as it takes a lot of words to describe a relatively simple well-understood game action.
+
+
+And yes, I remember taking part in some debates on random milling back when I was writing for StarCity, and I still maintain that it isn't very good. If you're going to mill someone, you should be doing so with an intent to win the game that way, not just to deny them a few random cards from their library.
+
+
+[Regarding "[True, False, Tidbits, and Tricks](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/af51)":]
+
+
+
+> 
+> A shuriken is a throwing star. Why does the picture have throwing spears on it??? Didn't the artist know what they looked like? "Out of touch" might be an understatement.
+> 
+> 
+> J. Kelly
+> 
+> 
+> 
+
+
+Hey now, [Matt Cavotta](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/authorarchive) is not "out of touch!" The man is as "in touch" as they come. [Shuriken](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shuriken) are not necessarily stars. The Bukinjan Cambridge Dojo website defines shuriken as "Throwing weapons, in either star or spike shapes." While stars are the most well known type of shuriken, the spikes are just as legit. Trust me, if the art didn't show what it was supposed to, out art director wouldn't have allowed it to see print.
+
+
+
+> 
+> I just wanted to let you know that the Sniper can handle two Dragons on its own, not just one... did it at the prerelease.
+> 
+> 
+> Greetings,  
+> 
+> Michiel
+> 
+> 
+> 
+
+
+That was a screw-up on my part. [Matsu-Tribe Sniper](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Matsu-Tribe+Sniper) has the normal Snake "stun" text that taps whatever it damages. So that little 1/1 can keep two fliers tied up by pinging them on alternating turns.
+
+
+Here's on I've been getting a lot recently —- concerns over [Umezawa's Jitte](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Umezawa%27s+Jitte):
+
+
+
+> 
+> 
+> 
+> ![Umezawa's Jitte](http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Umezawa%27s%20Jitte&options=)
+> 
+> I would definitely keep an eye on this card in block. If you've been following the CHK block tournaments on *Magic Online*, you'll start to notice things like 5 out of 8 in top 8 people running at least 3 Jittes, and 3 out of the top 4 in another. Not [Skullclamp](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skullclamp) numbers, but high. It's a creature combat intensive block - don't let this card ruin the upcoming season.
+> 
+> 
+> Just thought I'd add my voice,
+> 
+> 
+> -Eric
+> 
+> 
+> 
+
+
+The card is definitely a centerpiece of the block environment, giving creature decks are really potent weapon, and you definitely have to build decks with it in mind. We felt we could make powerful Legendary cards like the Jitte once we settled on the new rules change; now the card is both threat and answer all in one.
+
+
+From what we've been hearing from players preparing for the Pro Tour, the Jitte is not actually a part of all the top strategies, just a few of them. The Pro Tour will show us all just how good the card will be in the upcoming Pro Tour Qualifier season, but I don't expect to have to take any action against it (or any card in the block for that matter).
+
+
+A few words on an old topic:
+
+
+[Regarding "[Classifying Samite Healer](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/af23)":]
+
+
+
+> 
+> I was going through the Latest Developments archives just to see them and their teasers with new eyes. I came across your "Classifying Samite Healer" article, and I just have to tell you something you may have heard already.
+> 
+> 
+> Simply errata the cards being reprinted. Nothing more. There is no need to even wonder about cards that are functionally identical to [Samite Healer](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Samite+Healer). They are not being reprinted, the Healer is; don't even mention the starkly irrelevant others.
+> 
+> 
+> [...]
+> 
+> 
+> Thank you for your time and your great work,
+> 
+> 
+> Reuben Barrientes,  
+> 
+> San Marcos, CA
+> 
+> 
+> 
+
+
+Your plan matches the one we settled on for *Ninth Edition*, Reuben. We will be errataing the cards we're reprinting —- [Samite Healer](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Samite+Healer) will be Human -— but we're leaving everything else alone. I'm not going to go over the pluses and minuses of that decision, as I've talked it to death in several articles now, but suffice to say we felt that plan give us and you the most benefit.
+
+
+And lastly, a Legacy concern:
+
+
+
+> 
+> You've given us a new format, and you've given us a name. However you need to do more. The format is languishing in the limbo that was Vintage like two years ago. There aren't any good prizes, tournaments or players. All the constructed style players aren't going to give up their Grand Prix and high profile tournaments for Legacy, and the Vintage players won't give up their power and tournaments like the SCG P9 style tournaments. What we need is a big push from Wizards. Come on! Give us the official notice. Make a Legacy PTQ or GP. Do something to help the competitive players have a competitive, tournament format!  
+> 
+> --Kevin Binswanger
+> 
+> 
+> 
+
+
+Good stuff will be happening, Kevin. Stay tuned to magicthegathering.com to find out exactly what we have planned, but trust me when I say that we'll be supporting Legacy as a format.
+
+
+Well, that's enough for one week, folks. Keep sending the mail; it's always nice to know that someone is paying attention out there.
+
+
+### Last Week's Polls:
+
+
+
+
+|  |
+| --- |
+| **The next large expansion was codenamed “Control.”
+ Do you think there will be control cards in it?** |
+| Yes | 5853 | 100.0% |
+| **Total** | **5853** | **100.0%** |
+
+
+
+
+|  |
+| --- |
+| **How do you like them apples?** |
+| Mace Windu | 1971 | 24.1% |
+| Grilled | 1681 | 20.6% |
+| Arcbound Ravager | 1011 | 12.4% |
+| Land destruction | 697 | 8.5% |
+| Jay Moldenhauer-Salazar | 675 | 8.3% |
+| A-J suited | 527 | 6.5% |
+| Sliced | 417 | 5.1% |
+| Baked | 335 | 4.1% |
+| Yes | 325 | 4.0% |
+| I don't like apples | 305 | 3.7% |
+| No | 223 | 2.7% |
+| **Total** | **8167** | **100.0%** |
+
+
+
+
+
+
+

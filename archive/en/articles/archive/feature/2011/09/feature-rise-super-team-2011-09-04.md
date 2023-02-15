@@ -49,7 +49,7 @@ Depending on who you ask, the group of super players came together as long ago a
 
 
 
-![](https://web.archive.org/web/20141216032158id_/http://archive.wizards.com/mtg/images/daily/events/ptphi11/st_lsv.jpg)
+![](https://media.wizards.com/legacy/mtg/images/daily/events/ptphi11/st_lsv.jpg)
 
 *Unofficial Team ChannelFireball leader Luis Scott-Vargas*
 
@@ -64,7 +64,7 @@ The first question I wanted to know was how the group had come together in the f
 
 
 
-![](https://web.archive.org/web/20141216024901id_/http://archive.wizards.com/mtg/images/daily/events/ptphi11/st_watanabe.jpg)
+![](https://media.wizards.com/legacy/mtg/images/daily/events/ptphi11/st_watanabe.jpg)
 
 *Japanese ringer Yuuya Watanabe*
 
@@ -93,7 +93,7 @@ As to the question of whether they have plans of changing how they prepare in th
 
 
 
-![](https://web.archive.org/web/20141216033718id_/http://archive.wizards.com/mtg/images/daily/events/ptphi11/teamcfb.jpg)
+![](https://media.wizards.com/legacy/mtg/images/daily/events/ptphi11/teamcfb.jpg)
 
 *From left: Brian Kibler, Lucas Blohon, Owen Turtenwald, Brad Nelson, Conley Woods, Josh Utter-Leyton, Matt Nass, Luis Scott-Vargas, Shuhei Nakamura, and Yuuya Watanabe, just part of the considerable talent that Team ChannelFireball brings to bear.*
 

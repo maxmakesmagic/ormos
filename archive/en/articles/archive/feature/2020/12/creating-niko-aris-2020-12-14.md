@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20201214192528/https://magic.wizards.com/en/articles/archive/feature/creating-niko-aris-2020-12-14?fbclid=IwAR3rUQPqf5kXbm-m6K3uiexubAugyOZGdP2nNhFy2qsvJQUhTNwILWtvxD8)
+[Link to Wayback Machine](https://web.archive.org/web/20201214205731/https://magic.wizards.com/en/articles/archive/feature/creating-niko-aris-2020-12-14?fbclid=IwAR1l3Y8ltxyXX2SimFIa9Q-4GckfV97cygacPID0qAMWjvSLJmfcunC0et4)
 
 [_metadata_:author]:- "Gerritt Turner"
 [_metadata_:description]:- "Members of the Creative team introduce Niko Aris, one of two new Planeswalkers debuting in Kaldheim."
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2020-12-14"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Creating Niko Aris"
-[_metadata_:wayback_capture_timestamp]:- "2020-12-14 19:25:28"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201214192528id_/https://magic.wizards.com/en/articles/archive/feature/creating-niko-aris-2020-12-14?fbclid=IwAR3rUQPqf5kXbm-m6K3uiexubAugyOZGdP2nNhFy2qsvJQUhTNwILWtvxD8"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/creating-niko-aris-2020-12-14?fbclid=IwAR3rUQPqf5kXbm-m6K3uiexubAugyOZGdP2nNhFy2qsvJQUhTNwILWtvxD8"
+[_metadata_:wayback_capture_timestamp]:- "2020-12-14 20:57:31"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201214205731id_/https://magic.wizards.com/en/articles/archive/feature/creating-niko-aris-2020-12-14?fbclid=IwAR1l3Y8ltxyXX2SimFIa9Q-4GckfV97cygacPID0qAMWjvSLJmfcunC0et4"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/creating-niko-aris-2020-12-14?fbclid=IwAR1l3Y8ltxyXX2SimFIa9Q-4GckfV97cygacPID0qAMWjvSLJmfcunC0et4"
 ---
 
 

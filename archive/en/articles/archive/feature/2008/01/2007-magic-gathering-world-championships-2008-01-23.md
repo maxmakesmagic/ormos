@@ -1,17 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20170623021851/http://magic.wizards.com/en/articles/archive/feature/2007-magic-gathering-world-championships-2008-01-23)
+[Link to Wayback Machine](https://web.archive.org/web/20210429125125/https://magic.wizards.com/en/articles/archive/feature/2007-magic-gathering-world-championships-2008-01-23)
 
 [_metadata_:author]:- "Wizards of the Coast"
-[_metadata_:description]:- "Complete coverage of the 2007 Magic World ChampionshipsNew York City becomes the hub of the Magic: The Gathering universe in December as the city hosts the 2007 Magic World Championships. Home to the first Pro Tour back in 1996 and many other events, New York City is as rich in Magic history as any place on the globe."
+[_metadata_:description]:- "Complete coverage of the 2007 Magic World ChampionshipsNew York City becomes the hub of the Magic: The Gathering universe in December as the city hosts the 2007 Magic World Championships. Home to the first Pro Tour back in 1996 and many other events, New York City is as rich in Magic history as any place on the globe. Public Events 2007 Toyota FJ Cruiser, shown with removable"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "732416"
 [_metadata_:publish_date]:- "2008-01-23"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2007 Magic: The Gathering World Championships"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-23 02:18:51"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170623021851id_/http://magic.wizards.com/en/articles/archive/feature/2007-magic-gathering-world-championships-2008-01-23"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/2007-magic-gathering-world-championships-2008-01-23"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 12:51:25"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429125125id_/https://magic.wizards.com/en/articles/archive/feature/2007-magic-gathering-world-championships-2008-01-23"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2007-magic-gathering-world-championships-2008-01-23"
 ---
 
 
@@ -28,7 +28,7 @@
 
 
 
-![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
 By Wizards of the Coast
 
 

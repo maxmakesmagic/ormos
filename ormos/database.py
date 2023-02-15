@@ -34,3 +34,10 @@ class ImageUrl(db.Entity):
     input_url = orm.Required(str, unique=True, max_len=384)
     output_url = orm.Required(str, max_len=384)
     strategy = orm.Required(str)
+
+
+class ImageUrl2(db.Entity):
+    hash_input_url = orm.PrimaryKey(str)
+    input_url = orm.Required(orm.LongUnicode, lazy=False)
+    output_url = orm.Required(orm.LongUnicode, lazy=False)
+    strategy = orm.Required(str)

@@ -1,18 +1,23 @@
 #!/usr/bin/env python3
 
 import argparse
+import cProfile
 from datetime import datetime
 import json
 import logging
+import multiprocessing
 import os
 from pathlib import Path
 import re
 import sys
-from typing import Generator, List, Optional
+from typing import Generator, List, Optional, Tuple
 from urllib.parse import urlparse, unquote
 
 from bs4 import BeautifulSoup, Tag
 from markdownify import MarkdownConverter
+from tqdm import tqdm
+
+from tqdm.contrib.logging import logging_redirect_tqdm
 
 from ormos.database import DistinctPage, db, Scraped, orm
 from ormos.imagecache import ImageCache
@@ -20,32 +25,63 @@ from ormos.imagecache import ImageCache
 log = logging.getLogger(__name__)
 
 
+DATE_MATCHER = re.compile(r"^(.*?)([^/]+-(\d{4})-(\d{2})-(\d{2})(:?-\d+)?)$")
+
+
 class MagicWizardsConverterSingle:
     def __init__(
         self,
-        scraped: Scraped,
-        identifier: str,
+        hash_url: str,
+        identifier: str = "",
+        distinct_url: str = "",
         image_cache: Optional[ImageCache] = None,
     ):
-        self.scraped = scraped
         self.identifier = identifier
+        self.url_path = None
+        self.path_date = None
+        self.parts = None
+        self.noleading = None
+
+        # This is a speedy cutout to not do work if it isn't necessary
+        if distinct_url:
+            url_path = self.generate_url_path(distinct_url)
+            if url_path and url_path.exists():
+                log.debug(
+                    "[%s] Skipping %s as path exists", self.identifier, distinct_url
+                )
+                return
+
+        # Try with the database if no distinct URL given
+        with orm.db_session:
+            distinct = DistinctPage[hash_url]
+
+            self.url_path = self.generate_url_path(distinct.url)
+            if self.url_path and self.url_path.exists():
+                log.debug(
+                    "[%s] Skipping %s as path exists", self.identifier, distinct.url
+                )
+                return
+
+            scraped = distinct.scraped
+            self.url = scraped.url
+            self.raw_url = scraped.raw_url
+            self.view_url = scraped.view_url
+
+            # Read in the HTML file
+            self.soup = BeautifulSoup(scraped.html_content, "html.parser")
+            scrape_time = scraped.time
+
+        # Actual work to do!
         self.cache = {}
         self.image_cache = image_cache if image_cache else ImageCache()
         self.date = None
         self.title = None
 
-        self.url = self.scraped.url
-        self.raw_url = self.scraped.raw_url
-        self.view_url = self.scraped.view_url
-
-        # Read in the HTML file
-        self.soup = BeautifulSoup(self.scraped.html_content, "html.parser")
-
         # Start a metadata dictionary, which can be added to.
         self.metadata = {
             "wayback_url": self.url,
             "wayback_raw_url": self.raw_url,
-            "wayback_capture_timestamp": str(self.scraped.time),
+            "wayback_capture_timestamp": str(scrape_time),
         }
 
         # Calculate the wayback prefix for images
@@ -55,6 +91,28 @@ class MagicWizardsConverterSingle:
             log.debug("[%s] Wayback prefix is %s", self.identifier, self.image_prefix)
         else:
             self.image_prefix = None
+        self.process()
+
+    def generate_url_path(self, url: str) -> Optional[Path]:
+        # Attempt to generate the path from the URL
+        self.parts = urlparse(url)
+        log.debug("[%s] URL parts: %s", self.identifier, self.parts)
+
+        # URL-unquote the path, and remove any slashes from the
+        # front or end.
+        self.noleading = unquote(self.parts.path.strip("/"))
+
+        # Try and calculate the article path at this point
+        m = DATE_MATCHER.match(self.noleading)
+        if m:
+            # "Normal" article URL!
+            path = Path(
+                "archive", m.group(1), m.group(3), m.group(4), f"{m.group(2)}.md"
+            )
+            self.path_date = f"{m.group(3)}-{m.group(4)}-{m.group(5)}"
+            return path
+
+        return None
 
     def _main_content(self) -> Optional[Tag]:
         log.debug("[%s] Processing HTML", self.identifier)
@@ -80,7 +138,7 @@ class MagicWizardsConverterSingle:
         for tag in self.soup.find_all("link"):
             rel = tag.get("rel", None)
             href = tag.get("href", None)
-            if "shortlink" in rel and href:
+            if rel and "shortlink" in rel and href:
                 if "node" in href:
                     self.metadata["node"] = href.rsplit("/", 1)[1]
 
@@ -219,12 +277,13 @@ class MagicWizardsConverterSingle:
         # Verify that any images exist; and if they don't, then
         # try and replace them with a Wayback URL.
         for img in main_content.find_all("img"):
-            if "src" in img.attrs:
+            if "src" in img.attrs and img.attrs["src"]:
                 new_src = self.image_cache.verified_image(
                     img.attrs["src"], self.identifier, self.image_prefix
                 )
                 img.attrs["src"] = new_src
             else:
+                log.warning("[%s] Removing weird image: %s", self.identifier, img)
                 # Image is weird. One example seen: <img style="magic">
                 img.decompose()
 
@@ -236,21 +295,10 @@ class MagicWizardsConverterSingle:
 
     # Generates a path for this content in the archive
     def generate_path(self, url: str) -> Path:
-        parts = urlparse(url)
-        log.debug("[%s] URL parts: %s", self.identifier, parts)
-
-        # URL-unquote the path, and remove any slashes from the
-        # front or end.
-        noleading = unquote(parts.path.strip("/"))
-
-        # Try and calculate the article path at this point
-        m = re.match(r"^(.*?)([^/]+-(\d{4})-(\d{2})-(\d{2})(:?-\d+)?)$", noleading)
-        if m:
+        if self.url_path:
             # "Normal" article URL!
-            path = Path(
-                "archive", m.group(1), m.group(3), m.group(4), f"{m.group(2)}.md"
-            )
-            date = f"{m.group(3)}-{m.group(4)}-{m.group(5)}"
+            path = self.url_path
+            date = self.path_date
             if self.date is None:
                 self.date = date
             elif self.date != date:
@@ -260,12 +308,13 @@ class MagicWizardsConverterSingle:
                     self.date,
                     date,
                 )
+                self.metadata["path_date"] = date
         elif self.date is not None:
             # Not a normal URL - there's no date in the URL, but there is one in the body
             # Add the article date into the URL
-            m = re.match(r"^(.*?)([^/]+)$", noleading)
+            m = re.match(r"^(.*?)([^/]+)$", self.noleading)
             if not m:
-                raise Exception(f"URL wrong: {noleading}")
+                raise Exception(f"URL wrong: {self.noleading}")
 
             n = re.match(r"(\d{4})-(\d{2})-(\d{2})", self.date)
             if not n:
@@ -276,7 +325,7 @@ class MagicWizardsConverterSingle:
             )
         else:
             # There's no date in the body nor in the URL!
-            path = Path("archive", f"{noleading}.md")
+            path = Path("archive", f"{self.noleading}.md")
 
         if self.date is not None:
             self.metadata["publish_date"] = self.date
@@ -295,22 +344,22 @@ class MagicWizardsConverterSingle:
 
             # Check to see if the path already exists
             if archive_path.exists():
-                log.warning(
-                    "[%s] Path already exists: %s", self.identifier, archive_path
-                )
+                log.debug("[%s] Path already exists: %s", self.identifier, archive_path)
+            else:
+                log.info("[%s] Writing %s", self.identifier, archive_path)
 
-            # Write out the Markdown.
-            with open(archive_path, "w", encoding="utf-8") as f:
-                f.write("\n---\n")
-                # Write the link to the Wayback page
-                f.write(f"[Link to Wayback Machine]({self.view_url})\n\n")
+                # Write out the Markdown.
+                with open(archive_path, "w", encoding="utf-8") as f:
+                    f.write("\n---\n")
+                    # Write the link to the Wayback page
+                    f.write(f"[Link to Wayback Machine]({self.view_url})\n\n")
 
-                # Add the metadata as Markdown metadata at the start of the file
-                for key in sorted(self.metadata):
-                    escvalue = self.metadata[key].replace('"', "`")
-                    f.write(f'[_metadata_:{key}]:- "{escvalue}"\n')
-                f.write("---\n")
-                f.write(markdown)
+                    # Add the metadata as Markdown metadata at the start of the file
+                    for key in sorted(self.metadata):
+                        escvalue = self.metadata[key].replace('"', "`")
+                        f.write(f'[_metadata_:{key}]:- "{escvalue}"\n')
+                    f.write("---\n")
+                    f.write(markdown)
 
 
 class MagicWizardsConverterMany:
@@ -320,30 +369,77 @@ class MagicWizardsConverterMany:
         self.search_term = search_term if search_term else self.SEARCH_TERM_BASE
         self.image_cache = ImageCache()
 
-    def process(self):
         with orm.db_session:
             if self.search_term:
                 items = orm.select(
-                    s for s in DistinctPage if self.search_term in s.url
-                )  # type: Generator[DistinctPage]
+                    (s.hash_url, s.url)
+                    for s in DistinctPage
+                    if self.search_term in s.url
+                )  # type: Generator[Tuple[str, str]]
             else:
                 items = orm.select(
-                    s for s in DistinctPage
-                )  # type: Generator[DistinctPage]
-            total = items.count()
+                    (s.hash_url, s.url) for s in DistinctPage
+                )  # type: Generator[Tuple[str, str]]
+            self.total = items.count()
+            self.items = list(items)
 
-            log.info("Processing %d entries", total)
-            for index, distinctpage in enumerate(items):
-                log.info("[%d/%d] Processing %s", index + 1, total, distinctpage)
-                try:
-                    single = MagicWizardsConverterSingle(
-                        distinctpage.scraped,
-                        f"{index+1}/{total}",
-                        image_cache=self.image_cache,
-                    )
-                    single.process()
-                except Exception as e:
-                    log.exception("Failed processing")
+    def process(self):
+        log.info("Processing %d entries", self.total)
+
+        # with tqdm(total=self.total) as pbar:
+        #     with ThreadPoolExecutor(max_workers=2) as ex:
+        #         futures = [
+        #             ex.submit(
+        #                 MagicWizardsConverterSingle,
+        #                 distincthash,
+        #                 f"{index+1}/{self.total}",
+        #                 distincturl,
+        #             )
+        #             for index, (distincthash, distincturl) in enumerate(self.items)
+        #         ]
+        #         for future in as_completed(futures):
+        #             try:
+        #                 result = future.result()
+        #             except Exception as e:
+        #                 log.exception("Failed processing")
+        #             pbar.update(1)
+
+        # for index, (distincthash, distincturl) in enumerate(tqdm(self.items)):
+        #     log.debug("[%d/%d] Processing %s", index + 1, self.total, distincturl)
+        #     try:
+        #         MagicWizardsConverterSingle(
+        #             distincthash,
+        #             f"{index+1}/{self.total}",
+        #             image_cache=self.image_cache,
+        #             distinct_url=distincturl,
+        #         )
+        #     except Exception as e:
+        #         log.exception("Failed processing")
+
+        p = multiprocessing.Pool(initializer=image_initializer)
+        for i in tqdm(p.imap(singler, enumerate(self.items)), total=self.total):
+            pass
+
+
+global_image_cache = None
+
+
+def image_initializer(*args):
+    global global_image_cache
+    global_image_cache = ImageCache()
+
+
+def singler(item):
+    index, (distincthash, distincturl) = item
+    try:
+        MagicWizardsConverterSingle(
+            distincthash,
+            f"{index+1}",
+            image_cache=global_image_cache,
+            distinct_url=distincturl,
+        )
+    except Exception as e:
+        log.exception("Failed processing")
 
 
 if __name__ == "__main__":
@@ -362,11 +458,12 @@ if __name__ == "__main__":
     errorhandler.setFormatter(
         logging.Formatter("%(asctime)s %(levelname)-5.5s %(message)s")
     )
+
     root_logger = logging.getLogger()
-    root_logger.addHandler(streamhandler)
+    # root_logger.addHandler(streamhandler)
     root_logger.addHandler(filehandler)
     root_logger.addHandler(errorhandler)
-    root_logger.setLevel(logging.DEBUG)
+    root_logger.setLevel(logging.INFO)
 
     logging.getLogger("requests").setLevel(logging.WARNING)
     logging.getLogger("urllib3").setLevel(logging.WARNING)

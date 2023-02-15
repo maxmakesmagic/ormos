@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20201218025645/https://magic.wizards.com/en/articles/archive/feature/collecting-kaldheim-2020-12-17?utm_source=dlvr.it&utm_medium=twitter)
+[Link to Wayback Machine](https://web.archive.org/web/20201218080152/https://magic.wizards.com/en/articles/archive/feature/collecting-kaldheim-2020-12-17)
 
 [_metadata_:author]:- "Mike Turian"
 [_metadata_:description]:- "Here's an early look at what you need to know about the truly epic card treatments available in the upcoming Kaldheim set."
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2020-12-17"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Collecting Kaldheim"
-[_metadata_:wayback_capture_timestamp]:- "2020-12-18 02:56:45"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201218025645id_/https://magic.wizards.com/en/articles/archive/feature/collecting-kaldheim-2020-12-17?utm_source=dlvr.it&utm_medium=twitter"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/collecting-kaldheim-2020-12-17?utm_source=dlvr.it&utm_medium=twitter"
+[_metadata_:wayback_capture_timestamp]:- "2020-12-18 08:01:52"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201218080152id_/https://magic.wizards.com/en/articles/archive/feature/collecting-kaldheim-2020-12-17"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/collecting-kaldheim-2020-12-17"
 ---
 
 

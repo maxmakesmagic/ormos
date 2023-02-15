@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210429044430/https://magic.wizards.com/en/articles/archive/feature/amonkhet-prerelease-primer-2017-04-17)
+[Link to Wayback Machine](https://web.archive.org/web/20170806200049/http://magic.wizards.com/en/articles/archive/feature/amonkhet-prerelease-primer-2017-04-17)
 
 [_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "Gavin has all the info you need to make the most of your Amonkhet Prerelease!"
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2017-04-17"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Amonkhet Prerelease Primer"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 04:44:30"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429044430id_/https://magic.wizards.com/en/articles/archive/feature/amonkhet-prerelease-primer-2017-04-17"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/amonkhet-prerelease-primer-2017-04-17"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-06 20:00:49"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170806200049id_/http://magic.wizards.com/en/articles/archive/feature/amonkhet-prerelease-primer-2017-04-17"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/amonkhet-prerelease-primer-2017-04-17"
 ---
 
 

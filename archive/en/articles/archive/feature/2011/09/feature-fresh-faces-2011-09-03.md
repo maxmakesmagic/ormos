@@ -6,6 +6,7 @@
 [_metadata_:description]:- "Amidst the bright lights of returning stars to the Pro Tour, including a heavy helping of classic Hall of Famers like Jon Finkel, Olle Rade, and the newly elected Steve O'Mahoney-Schwartz, there are a host of newer faces here in Philadelphia too. Magic Weekend is their event as much as the veterans', and I caught up with a few of them to discuss their performances this weekend and what it's been like transitioning to the Pro Tour."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "315392"
+[_metadata_:path_date]:- "2011-09-03"
 [_metadata_:publish_date]:- "2011-09-02"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Feature Fresh Faces"

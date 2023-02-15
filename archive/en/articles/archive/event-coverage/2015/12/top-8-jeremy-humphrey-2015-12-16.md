@@ -1,0 +1,129 @@
+
+---
+[Link to Wayback Machine](https://web.archive.org/web/20171030014228/https://magic.wizards.com/en/articles/archive/event-coverage/top-8-jeremy-humphrey-2015-12-16)
+
+[_metadata_:author]:- "Wizards of the Coast"
+[_metadata_:description]:- "by Omeed Dariani Sideboard (S): Where are you from? Meade Co., Ky. S: How long have you been playing? Three-four years. S: How long have you been playing competitively? This is my first sanctioned tournament. S: What are your best tournament accomplishments? Today. S: What are you playing and why?"
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "947271"
+[_metadata_:publish_date]:- "2015-12-16"
+[_metadata_:source]:- "div-main-content"
+[_metadata_:title]:- "Top 8: Jeremy Humphrey"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-30 01:42:28"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030014228id_/https://magic.wizards.com/en/articles/archive/event-coverage/top-8-jeremy-humphrey-2015-12-16"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/event-coverage/top-8-jeremy-humphrey-2015-12-16"
+---
+
+
+Top 8: Jeremy Humphrey
+======================
+
+
+
+ Posted in **Event Coverage**
+ on December 16, 2015 
+
+
+
+
+
+
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
+By Wizards of the Coast
+
+
+
+
+
+
+
+
+
+
+
+*by Omeed Dariani*
+
+
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/AMCHAMP00/Images/b27.JPG)Sideboard (S): Where are you from?
+
+
+Meade Co., Ky.
+
+
+S: How long have you been playing?
+
+
+Three-four years. 
+
+
+S: How long have you been playing competitively?
+
+
+This is my first sanctioned tournament.
+
+
+S: What are your best tournament accomplishments?
+
+
+Today.
+
+
+S: What are you playing and why?
+
+
+Replenish. Very comfortable with it. Angry Hermit was my second choice, but I'm better with Replenish.
+
+
+S: How does it stack up against the field?
+
+
+Worst matchups are blue with lots of counters. Angry Hermit is also tough sometimes. 
+
+
+S: How do you feel about your chances in the Top 8? 
+
+
+It would be great to win the prize, but it can go any way. If I get paired up with Angry Hermit, it's bad.
+
+
+S: What's your favorite card?
+
+
+Parallax Wave
+
+
+S: What's your favorite format? 
+
+
+Type II
+
+
+S: What's your favorite card mechanic?
+
+
+Buyback
+
+
+S: What's your favorite movie?
+
+
+Sniper
+
+
+S: What's your favorite TV show?
+
+
+I don't have one.
+
+
+S: What's your favorite food?
+
+
+Pizza.
+
+
+
+
+
+
+

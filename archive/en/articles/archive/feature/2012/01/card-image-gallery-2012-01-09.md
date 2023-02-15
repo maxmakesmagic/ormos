@@ -1,17 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20161023033757/http://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2012-01-09)
+[Link to Wayback Machine](https://web.archive.org/web/20211127160549/https://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2012-01-09)
 
 [_metadata_:author]:- "Wizards of the Coast"
-[_metadata_:description]:- "&#13; */ &#13; &#13;"
+[_metadata_:description]:- "Welcome to the Card Image Gallery for Dark Ascension. This is a constantly updated archive of every preview card for Dark Ascension, so check back often for updates! Monday, January 23: Entire Set Posted! Monday, January 9: 15 Cards Added!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "653791"
 [_metadata_:publish_date]:- "2012-01-09"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Card Image Gallery"
-[_metadata_:wayback_capture_timestamp]:- "2016-10-23 03:37:57"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161023033757id_/http://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2012-01-09"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2012-01-09"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-27 16:05:49"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211127160549id_/https://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2012-01-09"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2012-01-09"
 ---
 
 
@@ -28,7 +28,7 @@
 
 
 
-![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
 By Wizards of the Coast
 
 

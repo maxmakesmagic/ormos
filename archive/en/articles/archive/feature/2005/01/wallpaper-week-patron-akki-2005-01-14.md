@@ -47,7 +47,7 @@ This week's desktop wallpaper is Jim Nelson's **[Patron of the Akki](https://gat
 
 
 
-![](https://web.archive.org/web/20161101230621im_/http://archive.wizards.com/global/images/mtgcom_arcana_735_pic1_en.jpg)[1280x960 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_PatronOfTheAkki_1280x960.jpg)  
+![](https://media.wizards.com/legacy/global/images/mtgcom_arcana_735_pic1_en.jpg)[1280x960 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_PatronOfTheAkki_1280x960.jpg)  
 [1024x768 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_PatronOfTheAkki_1024x768.jpg)  
 [800x600 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_PatronOfTheAkki_800x600.jpg)
 

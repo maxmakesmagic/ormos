@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20211024193804/https://magic.wizards.com/en/articles/archive/feature/be-friday-night-magic-modern-master-2015-05-22)
+[Link to Wayback Machine](https://web.archive.org/web/20150720074718/http://magic.wizards.com/en/articles/archive/feature/be-friday-night-magic-modern-master-2015-05-22)
 
 [_metadata_:author]:- "Mike Rosenberg"
 [_metadata_:description]:- "Begin (or continue) your mastery of Modern this Friday night, and help make Magic history!"
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2015-05-22"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Be a Friday Night Magic Modern Master"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-24 19:38:04"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024193804id_/https://magic.wizards.com/en/articles/archive/feature/be-friday-night-magic-modern-master-2015-05-22"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/be-friday-night-magic-modern-master-2015-05-22"
+[_metadata_:wayback_capture_timestamp]:- "2015-07-20 07:47:18"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150720074718id_/http://magic.wizards.com/en/articles/archive/feature/be-friday-night-magic-modern-master-2015-05-22"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/be-friday-night-magic-modern-master-2015-05-22"
 ---
 
 
@@ -50,7 +50,7 @@ And on top of that, all next weekend, you will have the chance to make *Magic* h
 ![](https://media.wizards.com/2015/images/daily/cardart_EtchedChampion.png)
 
 
-[Etched Champion](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Etched+Champion) | Art by [Igor Kieryluk](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Igor+Kieryluk%22%5D)
+[Etched Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Etched+Champion) | Art by [Igor Kieryluk](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Igor+Kieryluk%22%5D)
 
 
 

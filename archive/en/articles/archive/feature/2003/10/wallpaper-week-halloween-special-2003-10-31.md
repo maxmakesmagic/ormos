@@ -49,11 +49,11 @@ To celebrate Halloween, this week we have three spooky desktop wallpapers. Alan 
 [800x600 pixels](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=magic/images/mtgcom/arcana300/Wallpaper_UrborgSkeleton_800x600.jpg)
 
 
-![](https://web.archive.org/web/20150923084958im_/http://archive.wizards.com/global/images/mtgcom_arcana_443_pic2_en.jpg)[1024x768 pixels](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=magic/images/mtgcom/arcana300/Wallpaper_ChildhoodHorror_1024x768.jpg)  
+![](https://media.wizards.com/legacy/global/images/mtgcom_arcana_443_pic2_en.jpg)[1024x768 pixels](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=magic/images/mtgcom/arcana300/Wallpaper_ChildhoodHorror_1024x768.jpg)  
 [800x600 pixels](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=magic/images/mtgcom/arcana300/Wallpaper_ChildhoodHorror_800x600.jpg)
 
 
-![](https://web.archive.org/web/20150923093053im_/http://archive.wizards.com/global/images/mtgcom_arcana_443_pic3_en.jpg)[1024x768 pixels](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=magic/images/mtgcom/arcana300/Wallpaper_NightmareLash_1024x768.jpg)  
+![](https://media.wizards.com/legacy/global/images/mtgcom_arcana_443_pic3_en.jpg)[1024x768 pixels](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=magic/images/mtgcom/arcana300/Wallpaper_NightmareLash_1024x768.jpg)  
 [800x600 pixels](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=magic/images/mtgcom/arcana300/Wallpaper_NightmareLash_800x600.jpg)
 
 

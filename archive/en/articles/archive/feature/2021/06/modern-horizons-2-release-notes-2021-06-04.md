@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210604143212/https://magic.wizards.com/en/articles/archive/feature/modern-horizons-2-release-notes-2021-06-04)
+[Link to Wayback Machine](https://web.archive.org/web/20210605105316/https://magic.wizards.com/en/articles/archive/feature/modern-horizons-2-release-notes-2021-06-04?utm_source=dlvr.it&utm_medium=twitter)
 
 [_metadata_:author]:- "Jess Dunks"
 [_metadata_:description]:- "The Release Notes include info about the release of a new set, as well as clarifications and rulings involving that set's cards."
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2021-06-04"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Modern Horizons 2 Release Notes"
-[_metadata_:wayback_capture_timestamp]:- "2021-06-04 14:32:12"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210604143212id_/https://magic.wizards.com/en/articles/archive/feature/modern-horizons-2-release-notes-2021-06-04"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/modern-horizons-2-release-notes-2021-06-04"
+[_metadata_:wayback_capture_timestamp]:- "2021-06-05 10:53:16"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210605105316id_/https://magic.wizards.com/en/articles/archive/feature/modern-horizons-2-release-notes-2021-06-04?utm_source=dlvr.it&utm_medium=twitter"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/modern-horizons-2-release-notes-2021-06-04?utm_source=dlvr.it&utm_medium=twitter"
 ---
 
 
@@ -49,7 +49,7 @@ Document last modified June 2, 2021.
 
 **DOC Download Links:**  
 [English](http://media.wizards.com/2021/downloads/MH2_Release_Notes/EN_MTGMH2_FAQ_06022021.pdf) | [中國話,漢語;中文](http://media.wizards.com/2021/downloads/MH2_Release_Notes/CT_MTGMH2_FAQ_06022021.pdf) | [中国话,汉语;中文](http://media.wizards.com/2021/downloads/MH2_Release_Notes/CS_MTGMH2_FAQ_06022021.pdf) | [Français](http://media.wizards.com/2021/downloads/MH2_Release_Notes/FR_MTGMH2_FAQ_06022021.pdf) | [Deutsch](http://media.wizards.com/2021/downloads/MH2_Release_Notes/DE_MTGMH2_FAQ_06022021.pdf)  
-[Italiano](http://media.wizards.com/2021/downloads/MH2_Release_Notes/IT_MTGMH2_FAQ_06022021.pdf) | [日本語](http://media.wizards.com/2021/downloads/MH2_Release_Notes/JP_MTGMH2_FAQ_06022021.pdf) | [한글](http://media.wizards.com/2021/downloads/MH2_Release_Notes/KR_MTGMH2_FAQ_06022021.pdf) | [Português](http://media.wizards.com/2021/downloads/MH2_Release_Notes/PT_MTGMH2_FAQ_06022021.pdf) | [русский язык](http://media.wizards.com/2021/downloads/MH2_Release_Notes/RU_MTGMH2_FAQ_06022021.pdf) | [Español](http://media.wizards.com/2021/downloads/MH2_Release_Notes/SP_MTGMH2_FAQ_06022021.pdf)
+[Italiano](http://media.wizards.com/2021/downloads/MH2_Release_Notes/IT_MTGMH2_FAQ_06022021.pdf) | [한글](http://media.wizards.com/2021/downloads/MH2_Release_Notes/KR_MTGMH2_FAQ_06022021.pdf) | [Português](http://media.wizards.com/2021/downloads/MH2_Release_Notes/PT_MTGMH2_FAQ_06022021.pdf) | [русский язык](http://media.wizards.com/2021/downloads/MH2_Release_Notes/RU_MTGMH2_FAQ_06022021.pdf) | [Español](http://media.wizards.com/2021/downloads/MH2_Release_Notes/SP_MTGMH2_FAQ_06022021.pdf) | [日本語](http://media.wizards.com/2021/downloads/MH2_Release_Notes/JP_MTGMH2_FAQ_06052021.pdf)
 
 
 The Release Notes include information concerning the release of a new *Magic: The Gathering* set, as well as a collection of clarifications and rulings involving that set's cards. It's intended to make playing with the new cards more fun by clearing up the common misconceptions and confusion inevitably caused by new mechanics and interactions. As future sets are released, updates to the *Magic* rules may cause some of this information to become outdated. Go to [Magic.Wizards.com/Rules](http://magic.wizards.com/rules) to find the most up-to-date rules.

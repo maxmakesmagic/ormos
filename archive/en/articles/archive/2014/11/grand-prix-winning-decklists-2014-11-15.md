@@ -1,0 +1,230 @@
+
+---
+[Link to Wayback Machine](https://web.archive.org/web/20141117184528/http://magic.wizards.com/en/articles/archive/grand-prix-winning-decklists-2014-11-15)
+
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:publish_date]:- "2014-11-15"
+[_metadata_:source]:- "div-main"
+[_metadata_:title]:- "Article Archives"
+[_metadata_:wayback_capture_timestamp]:- "2014-11-17 18:45:28"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20141117184528id_/http://magic.wizards.com/en/articles/archive/grand-prix-winning-decklists-2014-11-15"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/grand-prix-winning-decklists-2014-11-15"
+---
+
+
+
+
+
+Article Archives
+================
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Refine
+
+
+From
+
+
+
+
+
+To
+
+
+
+
+
+Filter by
+
+
+
+* All Articles
+* Featured
+* Authors
+
+
+
+
+
+And by
+
+
+
+* ALL
+* Aaron Forsythe
+* Aaron Forsythe and Mark L. Gottlieb
+* Abe Sargent
+* Adam Lee
+* Adam Prosak
+* Adam Styborski
+* Ari Levitch
+* Ben Swartz
+* Bill Stark
+* Billy Moreno
+* Blake Rasmussen
+* Bonnie Bruenderman
+* Brady Dommermuth
+* Brandon Isleib
+* Brian David-Marshall
+* Bruce Richard
+* By James Wyatt
+* Cdxjkki ll knz Axtzj
+* Chapman Sim
+* Chris Kiritz
+* Chris Millar
+* Clayton Kroh
+* Colin Kawakami
+* Corbin Hosler
+* Craig Gibson and Mike Rosenberg
+* Dan Barrett
+* Daryl Bockett
+* Dave Guskin
+* Dave Humpherys
+* David Humpherys
+* Devin Low
+* Doug Beyer
+* Erik Lauer
+* Event Coverage Staff
+* Gavin Verhey
+* Gerry Thompson
+* Greg Collins
+* Gregory Marques
+* Helene Bergeot
+* Howlin' Mad Stybs
+* Hunter R. Slaton
+* Jacob Van Lunen
+* James Sooy
+* Jeff Grubb
+* Jenna Helland
+* Jennifer Clarke Wilkes
+* Jennifer Robles
+* Jeremiah Isgur
+* John Wade
+* Jon Hickey
+* Jon Loucks
+* Josh Bennett
+* Justin Vizaro
+* Kelly Digges
+* Ken Nagle
+* Laura Casperson
+* Lauren Beauregard
+* Lee Sharpe
+* LoadingReadyRun
+* Luis Scott-Vargas
+* Magic Creative Team
+* magicthegathering.com
+* magicthegathering.com Staff
+* Marc Calderaro
+* Mark Globus
+* Mark Gottlieb
+* Mark Purvis
+* Mark Rosewater
+* Marshall Sutcliffe
+* Matt Knicl
+* Matt Place
+* Matt Tabak
+* Max McCall
+* Mike Cannon
+* Mike Elliott
+* Mike Flores
+* Mike McArtor
+* Mike Rosenberg
+* Mike Rosenberg and Nate Price
+* Mike Turian
+* Monty Ashley
+* Naoaki Umesaki
+* Nate Price
+* Nathan Holt and Shawn Kornhauser
+* Nik Davidson
+* Noel deCordova
+* Paul Jordan
+* Paul Sottosanti
+* Randy Buehler
+* Raphael Levy
+* Reid Duke
+* Reuben Bresler
+* Rich Hagon
+* Rich Hagon and Brian David-Marshall
+* Richard Whitters
+* Ryan Miller
+* Ryan Spain
+* Sam Black
+* Sam Stoddard
+* Scott Johns
+* Sean Gibbons
+* Senior Judges
+* Shawn Main
+* Shuhei Nakamura
+* Simon Goertzen
+* Steve Sadin
+* Ted Knutson
+* The Ferrett
+* The Magic Creative Team
+* Tim Aten
+* Tim Willoughby
+* Tobi Henke
+* Toby Wachter
+* Tom LaPille
+* Tom Reeve
+* Trick Jarrett
+* Wizards of the Coast
+* Worth Wollpert
+* Zac Hill
+* Zvi Mowshowitz
+
+
+
+
+
+Sort by
+
+
+Relevance
+* Newest
+* Oldest
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+ no result found 
+
+ 
+
+  
+
+
+
+
+
+
+

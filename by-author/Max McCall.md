@@ -1,8 +1,14 @@
 # Articles by Max McCall
 
+* [Duels of the Planeswalkers 2013](/archive/en/articles/archive/2014/02/duels-planeswalkers-2013-2014-02-13.md) - 2012-06-11
 * [Duels of the Planeswalkers 2013](/archive/en/articles/archive/feature/2012/06/duels-planeswalkers-2013-2012-06-11.md) - 2012-06-11
+* [Duels on iPad](/archive/en/articles/archive/2014/02/duels-ipad-2014-02-13.md) - 2012-06-18
 * [Duels on iPad](/archive/en/articles/archive/feature/2012/06/duels-ipad-2012-06-18.md) - 2012-06-18
 * [Power, Cubed](/archive/en/articles/archive/feature/2012/11/power-cubed-2012-11-27.md) - 2012-11-27
+* [Power, Cubed](/archive/en/articles/archive/making-magic/2012/11/power-cubed-2012-11-27.md) - 2012-11-27
+* [Merry WUBRG and Happy New Cube](/archive/en/articles/archive/2013/12/merry-wubrg-and-happy-new-cube-2013-12-18.md) - 2013-12-18
+* [Merry WUBRG and Happy New Cube](/archive/en/articles/archive/daily-deck/2013/12/merry-wubrg-and-happy-new-cube-2013-12-17.md) - 2013-12-18
+* [Merry WUBRG and Happy New Cube](/archive/en/articles/archive/making-magic/2013/12/merry-wubrg-and-happy-new-cube-2013-12-18.md) - 2013-12-18
 * [Adventures in the Forgotten Realms Product Overview](/archive/en/articles/archive/feature/2021/06/adventures-forgotten-realms-product-overview-2021-06-29.md) - 2021-06-29
 * [Collecting Adventures in the Forgotten Realms](/archive/en/articles/archive/feature/2021/06/collecting-adventures-forgotten-realms-2021-06-29.md) - 2021-06-29
 * [Collecting Kamigawa: Neon Dynasty](/archive/en/articles/archive/feature/2022/01/collecting-kamigawa-neon-dynasty-2022-01-27.md) - 2022-01-27

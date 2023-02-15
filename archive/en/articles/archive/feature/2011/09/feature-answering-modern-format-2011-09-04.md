@@ -6,6 +6,7 @@
 [_metadata_:description]:- "Answering the Modern Format by Frank Karsten The Modern card pool is huge and the amount of viable decks is staggering. How does one approach such a brand new, completely open, diverse format, and how does one answer the various pillars of the format? If you're interested in learning about playtesting approaches for this Pro Tour and a detailed overview of powerful and surprising answers to the top decks seen here in Philadelphia, then read on!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "315563"
+[_metadata_:path_date]:- "2011-09-04"
 [_metadata_:publish_date]:- "2011-09-03"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Feature: Answering the Modern Format"

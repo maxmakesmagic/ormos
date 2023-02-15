@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210116183228/https://magic.wizards.com/en/articles/archive/feature/sneak-peek-commander-legends-2020-08-22?utm_source=ICO+Partners+Media+Contacts&utm_campaign=2357daee1d-EMAIL_CAMPAIGN_2020_11_19_09_51_COPY_01&utm_medium=email&utm_term=0_3cc7159252-2357daee1d-412591569&mc_cid=2357daee1d&mc_eid=3f52673df1)
+[Link to Wayback Machine](https://web.archive.org/web/20200921134350/https://magic.wizards.com/en/articles/archive/feature/sneak-peek-commander-legends-2020-08-22?fbclid=IwAR2-hKFMkpR5vGK6YZCuu3WxZTOyV8opAZpDdk6atOZu5SpZRedGuKhKPoM)
 
 [_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "Gavin shows off some cards from the upcoming Commander Legends and shares info on how to get in on all the Commander excitement."
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2020-08-22"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "A Sneak Peek at Commander Legends"
-[_metadata_:wayback_capture_timestamp]:- "2021-01-16 18:32:28"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210116183228id_/https://magic.wizards.com/en/articles/archive/feature/sneak-peek-commander-legends-2020-08-22?utm_source=ICO+Partners+Media+Contacts&utm_campaign=2357daee1d-EMAIL_CAMPAIGN_2020_11_19_09_51_COPY_01&utm_medium=email&utm_term=0_3cc7159252-2357daee1d-412591569&mc_cid=2357daee1d&mc_eid=3f52673df1"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sneak-peek-commander-legends-2020-08-22?utm_source=ICO+Partners+Media+Contacts&utm_campaign=2357daee1d-EMAIL_CAMPAIGN_2020_11_19_09_51_COPY_01&utm_medium=email&utm_term=0_3cc7159252-2357daee1d-412591569&mc_cid=2357daee1d&mc_eid=3f52673df1"
+[_metadata_:wayback_capture_timestamp]:- "2020-09-21 13:43:50"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200921134350id_/https://magic.wizards.com/en/articles/archive/feature/sneak-peek-commander-legends-2020-08-22?fbclid=IwAR2-hKFMkpR5vGK6YZCuu3WxZTOyV8opAZpDdk6atOZu5SpZRedGuKhKPoM"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sneak-peek-commander-legends-2020-08-22?fbclid=IwAR2-hKFMkpR5vGK6YZCuu3WxZTOyV8opAZpDdk6atOZu5SpZRedGuKhKPoM"
 ---
 
 

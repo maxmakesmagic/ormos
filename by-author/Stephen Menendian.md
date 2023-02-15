@@ -1,6 +1,8 @@
 # Articles by Stephen Menendian
 
+* [Limited Infinity](/archive/en/articles/archive/2004/03/limited-infinity-2004-03-01.md) - 2004-03-01
 * [A Player’s Guide to Type 1](/archive/en/articles/archive/feature/2004/08/player’s-guide-type-1-2004-08-09.md) - 2004-08-09
+* [A Vintage Year in Review](/archive/en/articles/archive/2005/01/vintage-year-review-2005-01-04.md) - 2005-01-04
 * [Forward Thinking](/archive/en/articles/archive/feature/2005/10/forward-thinking-2005-10-31.md) - 2005-10-31
 * [Ascending the Vintage Learning Curve: An Introduction to Vintage Magic](/archive/en/articles/archive/feature/2006/11/ascending-vintage-learning-curve-introduction-vintage-magic-2006-11-20.md) - 2006-11-20
 * [The 2007 Vintage Year in Review](/archive/en/articles/archive/feature/2007/12/2007-vintage-year-review-2007-12-10.md) - 2007-12-10

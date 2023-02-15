@@ -1,17 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20161115194112/http://magic.wizards.com/en/articles/archive/feature/casual-formats-2008-08-11)
+[Link to Wayback Machine](https://web.archive.org/web/20190418130510/https://magic.wizards.com/en/articles/archive/feature/casual-formats-2008-08-11)
 
 [_metadata_:author]:- "Wizards of the Coast"
-[_metadata_:description]:- "&#13; There are many more ways to play Magic games than the sanctioned formats detailed here. From single-pack showdowns to massive multiplayer battles, Magic is a game ready to be enjoyed in many ways by as many of your friends as possible."
+[_metadata_:description]:- "There are many more ways to play Magic games than the sanctioned formats detailed here. From single-pack showdowns to massive multiplayer battles, Magic is a game ready to be enjoyed in many ways by as many of your friends as possible."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "704516"
 [_metadata_:publish_date]:- "2008-08-11"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Casual Formats"
-[_metadata_:wayback_capture_timestamp]:- "2016-11-15 19:41:12"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161115194112id_/http://magic.wizards.com/en/articles/archive/feature/casual-formats-2008-08-11"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/casual-formats-2008-08-11"
+[_metadata_:wayback_capture_timestamp]:- "2019-04-18 13:05:10"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190418130510id_/https://magic.wizards.com/en/articles/archive/feature/casual-formats-2008-08-11"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/casual-formats-2008-08-11"
 ---
 
 

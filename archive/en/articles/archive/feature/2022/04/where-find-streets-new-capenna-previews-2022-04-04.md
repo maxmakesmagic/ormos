@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20220405093636/https://magic.wizards.com/en/articles/archive/feature/where-find-streets-new-capenna-previews-2022-04-04?utm_source=dlvr.it&utm_medium=twitter)
+[Link to Wayback Machine](https://web.archive.org/web/20220404162100/https://magic.wizards.com/en/articles/archive/feature/where-find-streets-new-capenna-previews-2022-04-04)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "What's been previewed, what's going to be previewed, and where you can find all of it for Streets of New Capenna, right here!"
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2022-04-04"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Where to Find Streets of New Capenna Previews"
-[_metadata_:wayback_capture_timestamp]:- "2022-04-05 09:36:36"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220405093636id_/https://magic.wizards.com/en/articles/archive/feature/where-find-streets-new-capenna-previews-2022-04-04?utm_source=dlvr.it&utm_medium=twitter"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/where-find-streets-new-capenna-previews-2022-04-04?utm_source=dlvr.it&utm_medium=twitter"
+[_metadata_:wayback_capture_timestamp]:- "2022-04-04 16:21:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220404162100id_/https://magic.wizards.com/en/articles/archive/feature/where-find-streets-new-capenna-previews-2022-04-04"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/where-find-streets-new-capenna-previews-2022-04-04"
 ---
 
 
@@ -244,7 +244,7 @@ For the most up-to-date listings, bookmark this page and check back regularly fo
 * [Dot Esports](https://dotesports.com/)
 * [Dragons Lair Hobbies and Gaming](https://dragons-lair.com.au/)
 * [Fizzy Hobby Store](https://www.fizzyhobbystore.com/)
-* [Giulia Nakayama](https://www.instagram.com/luminovinha/)
+* Giulia Nakayama
 * [Good Morning *Magic*](https://www.youtube.com/channel/UCvE8Mza7uRuiYlwiSDyJi9A)
 * [La Caverne du jeu](https://www.facebook.com/Lacavernedujeu/)
 * [LadyLavinias](https://twitter.com/LadyLavinias)

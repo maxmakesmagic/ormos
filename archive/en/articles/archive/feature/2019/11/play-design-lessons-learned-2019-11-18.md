@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20201112042144/https://magic.wizards.com/en/articles/archive/feature/play-design-lessons-learned-2019-11-18?utm_source=share)
+[Link to Wayback Machine](https://web.archive.org/web/20191118160242/https://magic.wizards.com/en/articles/archive/feature/play-design-lessons-learned-2019-11-18)
 
 [_metadata_:author]:- "Bryan Hawley"
 [_metadata_:description]:- "Bryan Hawley looks at Play Design's past, present, and future, and what they've learned along the way."
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2019-11-18"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Play Design Lessons Learned"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 04:21:44"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112042144id_/https://magic.wizards.com/en/articles/archive/feature/play-design-lessons-learned-2019-11-18?utm_source=share"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/play-design-lessons-learned-2019-11-18?utm_source=share"
+[_metadata_:wayback_capture_timestamp]:- "2019-11-18 16:02:42"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20191118160242id_/https://magic.wizards.com/en/articles/archive/feature/play-design-lessons-learned-2019-11-18"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/play-design-lessons-learned-2019-11-18"
 ---
 
 
@@ -41,14 +41,14 @@ By Bryan Hawley
 
 
 
-Hey everyone, my name is Bryan Hawley, and I lead the Play Design team for *Magic*. Today, we announced some Standard bans that you can read about [here](https://magic.wizards.com/en/articles/archive/news/november-18-2019-banned-and-restricted-announcement). Additionally, this past year has had a lot going on, so on behalf of Play Design, I'd like to take a bit of time to walk through where we are, how we got here, what we've learned, and where we're going next.
+Hey everyone, my name is Brian Hawley, and I lead the Play Design team for *Magic*. Today, we announced some Standard bans that you can read about [here](https://magic.wizards.com/en/articles/archive/news/november-18-2019-banned-and-restricted-announcement). Additionally, this past year has had a lot going on, so on behalf of Play Design, I'd like to take a bit of time to walk through where we are, how we got here, what we've learned, and where we're going next.
 
 
 Where We Started
 ================
 
 
-For the period starting in *Battle for Zendikar* and going through *Core Set 2019*, we—what was then called R&D—made a conscious effort to gradually power down our marquee sets and, by extension, the Standard format. Our primary goal with that direction was to open up design space, mostly in higher-cost cards and in effects typically not impactful enough for competitive play.
+For the period starting in *Battle for Zendikar* and going through *Core Set 2019*, we—what was then called R&D—made a conscious effort to gradu0ally power down our marquee sets and, by extension, the Standard format. Our primary goal with that direction was to open up design space, mostly in higher-cost cards and in effects typically not impactful enough for competitive play.
 
 
 We succeeded in those goals, but there were costs that outweighed the benefits. Our main booster sets should be for everyone, and at that lower power level, if you didn't play Standard, we weren't really making cards for you. On top of that, within Standard, the lower power level meant the format was more sensitive to cards that missed on power level; a lot of those Standard formats were badly warped by that fact. Cards like [Smuggler's Copter](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Smuggler%27s+Copter) and [Gideon, Ally of Zendikar](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gideon%2C+Ally+of+Zendikar) were dominant in ways they wouldn't be if the rest of the format met a higher bar.

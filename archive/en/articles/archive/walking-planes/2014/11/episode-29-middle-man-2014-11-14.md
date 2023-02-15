@@ -1,0 +1,70 @@
+
+---
+[Link to Wayback Machine](https://web.archive.org/web/20141117004138/http://magic.wizards.com/en/articles/archive/walking-planes/episode-29-middle-man-2014-11-14)
+
+[_metadata_:description]:- "If you're `the man in the middle,` the pressure's on you to lead the charge!"
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "312151"
+[_metadata_:publish_date]:- "2014-11-14"
+[_metadata_:source]:- "div-main"
+[_metadata_:title]:- "Episode #29: `Middle Man`"
+[_metadata_:wayback_capture_timestamp]:- "2014-11-17 00:41:38"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20141117004138id_/http://magic.wizards.com/en/articles/archive/walking-planes/episode-29-middle-man-2014-11-14"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/walking-planes/episode-29-middle-man-2014-11-14"
+---
+
+
+
+
+
+### WALKING THE PLANES
+
+
+Episode #29: "Middle Man"
+=========================
+
+
+
+![](https://web.archive.org/web/20170709072651im_/http://magic.wizards.com/sites/all/themes/wiz_mtg/images/global/generic-avatar-150.png)
+
+Nathan Holt and Shawn Kornhauser
+
+
+
+
+November 14, 2014
+ 
+
+
+
+
+
+
+
+
+
+
+Who do you turn to for advice on *Magic* strategy? Which friends point you in the right direction? If you know who your A team is, bringing them to a Team Grand Prix is an experience unlike anything else in gaming. As opposed to a normal *Magic* tournament, where discussing strategy with onlookers is strictly forbidden, at Team Grand Prix your teammates are indispensable collaborators for executing the game plan in three simultaneous matches. If you're "the man in the middle," the pressure's on you to lead the charge!
+
+
+<//www.youtube.com/embed/Cc0ZVLcugF8>
+[Walking the Planes](/en/section/walking-planes)[Daily MTG](/en/tags/daily-mtg)[Walking the Planes](/en/tags/walking-planes)[Feature](/en/tags/feature)
+
+
+
+
+
+ 
+ 
+
+
+
+
+  
+
+
+
+
+
+
+

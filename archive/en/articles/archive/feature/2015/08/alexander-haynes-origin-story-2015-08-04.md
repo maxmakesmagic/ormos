@@ -1,17 +1,18 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20220704212125/https://magic.wizards.com/en/articles/archive/feature/alexander-haynes-origin-story-2015-08-04)
+[Link to Wayback Machine](https://web.archive.org/web/20160324223636/http://magic.wizards.com/en/articles/archive/feature/alexander-haynes-origin-story-2015-08-04)
 
 [_metadata_:author]:- "Mike Rosenberg"
 [_metadata_:description]:- "Learn more about 2015 Magic World Championship competitor Alexander Hayne's Magic and Pro Tour origins!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "447026"
+[_metadata_:path_date]:- "2015-08-04"
 [_metadata_:publish_date]:- "2015-08-05"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Alexander Hayne's Origin Story"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-04 21:21:25"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220704212125id_/https://magic.wizards.com/en/articles/archive/feature/alexander-haynes-origin-story-2015-08-04"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/alexander-haynes-origin-story-2015-08-04"
+[_metadata_:wayback_capture_timestamp]:- "2016-03-24 22:36:36"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160324223636id_/http://magic.wizards.com/en/articles/archive/feature/alexander-haynes-origin-story-2015-08-04"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/alexander-haynes-origin-story-2015-08-04"
 ---
 
 
@@ -102,7 +103,7 @@ While Hayne first discovered *Magic* at a young age, and began playing years lat
  
 
 
-"For the event, I tested with a bunch of friends who had also qualified, most notably Pascal Maynard," he continued. "We ended up deciding to play [Splinter Twin](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Splinter+Twin), as it was the combo deck that could fight other combo decks. I went 3-2 in the Constructed portion, then lost the first round of the draft and was paired against Raphaël Lévy at 3-3, where I beat him and convinced him not to drop since, back then Top 200 got three pro points and 200+ only got two. I then lost my final round of Day One, putting me at 4-4, a record that nowadays would make Day Two, but didn't back then (you needed a 5-3)."
+"For the event, I tested with a bunch of friends who had also qualified, most notably Pascal Maynard," he continued. "We ended up deciding to play [Splinter Twin](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Splinter+Twin), as it was the combo deck that could fight other combo decks. I went 3-2 in the Constructed portion, then lost the first round of the draft and was paired against Raphaël Lévy at 3-3, where I beat him and convinced him not to drop since, back then Top 200 got three pro points and 200+ only got two. I then lost my final round of Day One, putting me at 4-4, a record that nowadays would make Day Two, but didn't back then (you needed a 5-3)."
 
 
  

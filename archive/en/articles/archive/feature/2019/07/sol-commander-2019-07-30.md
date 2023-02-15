@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20190731162405/https://magic.wizards.com/en/articles/archive/feature/sol-commander-2019-07-30)
+[Link to Wayback Machine](https://web.archive.org/web/20201112003129/https://magic.wizards.com/en/articles/archive/feature/sol-commander-2019-07-30?utm_source=share)
 
 [_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "Celebrate Commander with events at Gen Con, MagicFest Las Vegas, and around the world, and you can receive a very special promo!"
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2019-07-30"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Sol of Commander"
-[_metadata_:wayback_capture_timestamp]:- "2019-07-31 16:24:05"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190731162405id_/https://magic.wizards.com/en/articles/archive/feature/sol-commander-2019-07-30"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sol-commander-2019-07-30"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-12 00:31:29"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112003129id_/https://magic.wizards.com/en/articles/archive/feature/sol-commander-2019-07-30?utm_source=share"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sol-commander-2019-07-30?utm_source=share"
 ---
 
 

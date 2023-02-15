@@ -54,7 +54,7 @@ Most of the citizens of Ravnica live their lives oblivious to the network of sew
 In flavor terms, it's literally a creature made of mind-sucking leeches. Behold:
 
 
-![](https://web.archive.org/web/20160509045155im_/http://archive.wizards.com/global/images/mtgcom_arcana_914_pic1_en.jpg)*[Mindleech Mass](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mindleech+Mass) art by Kev Walker*
+![](https://media.wizards.com/legacy/global/images/mtgcom_arcana_914_pic1_en.jpg)*[Mindleech Mass](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mindleech+Mass) art by Kev Walker*
 
 
 See him reaching up to the tunnel ceiling to drain some intelligence from the surface-dwellers above? See how he's one big, animated glob of slimy leeches? Ughhh.

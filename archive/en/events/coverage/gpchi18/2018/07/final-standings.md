@@ -1,0 +1,2526 @@
+
+---
+[Link to Wayback Machine](https://web.archive.org/web/20211202074213/https://magic.wizards.com/en/events/coverage/gpchi18/final-standings)
+
+[_metadata_:author]:- "Wizards of the Coast"
+[_metadata_:description]:- "Rank Player Points Pro Points Prize Money 1 Salvador Arnal, Guillem [ES] 39 8 $10,000 2 Kawasaki, Keita [JP] 39 6 $5,000 3 Zhi, Yimin [CN] 40 5 $2,500 4 Kobayashi, Ryohei [JP] 39 5 $2,500 5 Nanba, Naoya [JP] 40 4 $1,500 6 Yang, Chen [CN] 40 4 $1,500 7 Yashiro, Kazuki [JP] 40 4 $1,500 8 Hagiwara, Genta [JP] 39 4 $1,500 9 Shi Tian, Lee [HK] 39 4 $1,000 10 Mukai, Hiroaki [JP] 39"
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1317941"
+[_metadata_:publish_date]:- "2018-07-23"
+[_metadata_:source]:- "div-main-content"
+[_metadata_:title]:- "Final Standings"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-02 07:42:13"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211202074213id_/https://magic.wizards.com/en/events/coverage/gpchi18/final-standings"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/events/coverage/gpchi18/final-standings"
+---
+
+
+Final Standings
+===============
+
+
+
+ Posted in **Event Coverage**
+ on July 23, 2018 
+
+
+
+
+
+
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
+By Wizards of the Coast
+
+
+
+
+
+
+
+
+
+
+
+
+
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Rank | Player | Points | Pro Points | Prize Money |
+| 1 | Salvador Arnal, Guillem [ES] | 39 | 8 | $10,000 |
+| 2 | Kawasaki, Keita [JP] | 39 | 6 | $5,000 |
+| 3 | Zhi, Yimin [CN] | 40 | 5 | $2,500 |
+| 4 | Kobayashi, Ryohei [JP] | 39 | 5 | $2,500 |
+| 5 | Nanba, Naoya [JP] | 40 | 4 | $1,500 |
+| 6 | Yang, Chen [CN] | 40 | 4 | $1,500 |
+| 7 | Yashiro, Kazuki [JP] | 40 | 4 | $1,500 |
+| 8 | Hagiwara, Genta [JP] | 39 | 4 | $1,500 |
+| 9 | Shi Tian, Lee [HK] | 39 | 4 | $1,000 |
+| 10 | Mukai, Hiroaki [JP] | 39 | 4 | $1,000 |
+| 11 | Sochurek, Petr [CZ] | 39 | 4 | $1,000 |
+| 12 | Fukuoka, So [JP] | 39 | 4 | $1,000 |
+| 13 | Ishikawa, Masahide [JP] | 39 | 4 | $1,000 |
+| 14 | Takeda, Harunobu [JP] | 37 | 3 | $1,000 |
+| 15 | (13) Yasooka, Shota [JP] | 36 | 3 | $1,000 |
+| 16 | Takimura, Kazuyuki [JP] | 36 | 3 | $1,000 |
+| 17 | Takahashi, Yuta [JP] | 36 | 3 | $500 |
+| 18 | Watanabe, Yuya [JP] | 36 | 3 | $500 |
+| 19 | Hagiwara, Noriyuki [JP] | 36 | 3 | $500 |
+| 20 | Tamada, Ryoichi [JP] | 36 | 3 | $500 |
+| 21 | Saeki, Katsuhisa [JP] | 36 | 3 | $500 |
+| 22 | He, Yue [CN] | 36 | 3 | $500 |
+| 23 | Segou, Kenji [JP] | 36 | 3 | $500 |
+| 24 | Ozawa, Takeshi [JP] | 36 | 3 | $500 |
+| 25 | Hibino, Yasutaka [JP] | 36 | 3 | $500 |
+| 26 | Sato, Yusei [JP] | 36 | 3 | $500 |
+| 27 | Sekine, Naoto [JP] | 36 | 3 | $500 |
+| 28 | Yoshida, Yuuji [JP] | 36 | 3 | $500 |
+| 29 | Terai, Tadayuki [JP] | 36 | 3 | $500 |
+| 30 | Gan, Yan [CN] | 36 | 3 | $500 |
+| 31 | Shiodu, Ryoma [JP] | 36 | 3 | $500 |
+| 32 | Kamizono, Naoki [JP] | 36 | 3 | $500 |
+| 33 | Takeuchi, Ataru [JP] | 36 | 3 | $250 |
+| 34 | Kaneko, Masayuki [JP] | 36 | 3 | $250 |
+| 35 | Ogawa, Takumi [JP] | 36 | 3 | $250 |
+| 36 | Saito, Shinya [JP] | 36 | 3 | $250 |
+| 37 | Nakao, Munenari [JP] | 36 | 3 | $250 |
+| 38 | Nakano, Tatsuhito [JP] | 36 | 3 | $250 |
+| 39 | Nakamura, Hajime [JP] | 36 | 3 | $250 |
+| 40 | Nakashima, Toshihiko [JP] | 36 | 3 | $250 |
+| 41 | Saida, Toshihiro [JP] | 36 | 3 | $250 |
+| 42 | Kawaguchi, Tetsu [JP] | 36 | 3 | $250 |
+| 43 | Sekimoto, Kandai [JP] | 36 | 3 | $250 |
+| 44 | Karasawa, Ryuichi [JP] | 36 | 3 | $250 |
+| 45 | Takano, Hayato [JP] | 36 | 3 | $250 |
+| 46 | Tezuka, Yuuki [JP] | 36 | 3 | $250 |
+| 47 | Haitao, Peng [CN] | 36 | 3 | $250 |
+| 48 | Takahashi, Eiji [JP] | 36 | 3 | $250 |
+| 49 | Yamaguchi, Shota [JP] | 36 | 3 | $250 |
+| 50 | Satou, Marin [JP] | 36 | 3 | $250 |
+| 51 | Sato, Takatoshi [JP] | 36 | 3 | $250 |
+| 52 | Yoshida, Kazushi [JP] | 36 | 3 | $250 |
+| 53 | Senba, Koutarou [JP] | 36 | 3 | $250 |
+| 54 | Shinkai, Yasuhiro [JP] | 34 | 2 | $250 |
+| 55 | Honda, Rintarou [JP] | 34 | 2 | $250 |
+| 56 | Haneda, Daisuke [JP] | 34 | 2 | $250 |
+| 57 | Mine, Ryunosuke [JP] | 34 | 2 | $250 |
+| 58 | Hirabayashi, Kazuya [JP] | 34 | 2 | $250 |
+| 59 | Leong, Sio Chi [MO] | 34 | 2 | $250 |
+| 60 | Sasaki, Yuusuke 6248 [JP] | 34 | 2 | $250 |
+| 61 | Shimamura, Kazushige [JP] | 33 | 2 | $250 |
+| 62 | Oomori, Yasutomo [JP] | 33 | 2 | $250 |
+| 63 | DEZANI, Jeremy [FR] | 33 | 2 | $250 |
+| 64 | Ryota, Ogawa [JP] | 33 | 2 | $250 |
+| 65 | Tonouchi, Keita [JP] | 33 | 2 |  |
+| 66 | Masukado, Kenta [JP] | 33 | 2 |  |
+| 67 | Tsubouchi, Tomoya [JP] | 33 | 2 |  |
+| 68 | Mori, Hiroyuki [JP] | 33 | 2 |  |
+| 69 | Shirakihara, Ryuuichi [JP] | 33 | 2 |  |
+| 70 | Takao, Shota [JP] | 33 | 2 |  |
+| 71 | Yamada, Yosuke 0291 [JP] | 33 | 2 |  |
+| 72 | Morofuji, Takuma [JP] | 33 | 2 |  |
+| 73 | Zhidong, Zhang [CN] | 33 | 2 |  |
+| 74 | Kumagai, Riku [JP] | 33 | 2 |  |
+| 75 | Haokang, Wang [CN] | 33 | 2 |  |
+| 76 | Utsunomiya, Takumi [JP] | 33 | 2 |  |
+| 77 | Notake, Shozaburo [JP] | 33 | 2 |  |
+| 78 | Takahashi, Jun [JP] | 33 | 2 |  |
+| 79 | Fukudome, Yuu [JP] | 33 | 2 |  |
+| 80 | Saito, Tomoharu [JP] | 33 | 2 |  |
+| 81 | Watanabe, Yuta 8061 [JP] | 33 | 2 |  |
+| 82 | Matsubara, Yuusuke [JP] | 33 | 2 |  |
+| 83 | Kojima, Kazuaki [JP] | 33 | 2 |  |
+| 84 | Shimizu, Ryouta [JP] | 33 | 2 |  |
+| 85 | Chen, Yiwen [CN] | 33 | 2 |  |
+| 86 | Furuya, Yohei [JP] | 33 | 2 |  |
+| 87 | Inoue, Hiroyuki 0875 [JP] | 33 | 2 |  |
+| 88 | Kimura, Kazuki [JP] | 33 | 2 |  |
+| 89 | Deng, Yunan [CN] | 33 | 2 |  |
+| 90 | Ohashi, Keisuke [JP] | 33 | 2 |  |
+| 91 | Hayashi, Shinsuke [JP] | 33 | 2 |  |
+| 92 | Higuchi, Akashi [JP] | 33 | 2 |  |
+| 93 | Saitou, Ryuga [JP] | 33 | 2 |  |
+| 94 | Murakami, Yuki [JP] | 33 | 2 |  |
+| 95 | Ishikawa, Fumiaki [JP] | 33 | 2 |  |
+| 96 | Ishii, Taisuke [JP] | 33 | 2 |  |
+| 97 | Liu, Xuan [CN] | 33 | 2 |  |
+| 98 | Sugiyama, Yuya [JP] | 33 | 2 |  |
+| 99 | Naraya, Takaaki [JP] | 33 | 2 |  |
+| 100 | Takagi, Takayuki [JP] | 33 | 2 |  |
+| 101 | Miyabe, Kouichi [JP] | 33 | 2 |  |
+| 102 | Saitou, Hirotsugu [JP] | 33 | 2 |  |
+| 103 | Kitagawa, Hiroyuki [JP] | 33 | 2 |  |
+| 104 | Mori, Shuichi [JP] | 33 | 2 |  |
+| 105 | Kyo, Ifu [JP] | 33 | 2 |  |
+| 106 | Qi, Wentao [CN] | 33 | 2 |  |
+| 107 | Tang, Tao [CN] | 33 | 2 |  |
+| 108 | Fujimura, Kazuaki [JP] | 33 | 2 |  |
+| 109 | Xu, Siying [CN] | 33 | 2 |  |
+| 110 | Yu, Hanyang [CN] | 33 | 2 |  |
+| 111 | Hashimoto, Satoshi 6288 [JP] | 33 | 2 |  |
+| 112 | Kato, Jun [JP] | 33 | 2 |  |
+| 113 | Umi, Hirokazu [JP] | 33 | 2 |  |
+| 114 | Makino, Hiroyuki [JP] | 33 | 2 |  |
+| 115 | Hada, Nobuto [JP] | 33 | 2 |  |
+| 116 | Matuda, Yukio [JP] | 33 | 2 |  |
+| 117 | Iwanaga, Koki [JP] | 33 | 2 |  |
+| 118 | Okamoto, Yuuya [JP] | 33 | 2 |  |
+| 119 | Okumura, Noriaki [JP] | 33 | 2 |  |
+| 120 | Oikawa, Hakudo [JP] | 33 | 2 |  |
+| 121 | Kimura, Ryou [JP] | 33 | 2 |  |
+| 122 | Ichikawa, Shoichi [JP] | 33 | 2 |  |
+| 123 | Zhao, Tianyu [CN] | 33 | 2 |  |
+| 124 | Sasaki, Kensuke [JP] | 33 | 2 |  |
+| 125 | Saito, Daichi [JP] | 33 | 2 |  |
+| 126 | Shiwaku, Tsuyoshi [JP] | 33 | 2 |  |
+| 127 | Kobayasi, Tatsuumi [JP] | 33 | 2 |  |
+| 128 | Tanimoto, Yusaku [JP] | 33 | 2 |  |
+| 129 | Morita, Akira [JP] | 33 | 2 |  |
+| 130 | Richard, Fu [CN] | 33 | 2 |  |
+| 131 | Horikoshi, Takayuki [JP] | 33 | 2 |  |
+| 132 | Takeuti, Shuji [JP] | 33 | 2 |  |
+| 133 | Yamashiro, Mitsuru [JP] | 33 | 2 |  |
+| 134 | Soga, Junya [JP] | 33 | 2 |  |
+| 135 | Mak, Wai Hou [MO] | 33 | 2 |  |
+| 136 | Kusakabe, Syuichi [JP] | 33 | 2 |  |
+| 137 | Mizutani, Yousuke [JP] | 33 | 2 |  |
+| 138 | Kuwashiro, Yoshiyuki [JP] | 31 | 1 |  |
+| 139 | Iwaki, Tetsuya [JP] | 31 | 1 |  |
+| 140 | Fukuki, Akito [JP] | 31 | 1 |  |
+| 141 | Miyagishi, Kohei [JP] | 31 | 1 |  |
+| 142 | Shingo, Tanaka [JP] | 31 | 1 |  |
+| 143 | Yamamura, Yuma [JP] | 31 | 1 |  |
+| 144 | Nakamura, Shuhei [JP] | 30 | 1 |  |
+| 145 | Sasaki, Yusuke 4501 [JP] | 30 | 1 |  |
+| 146 | Matsuda, Yuki [JP] | 30 | 1 |  |
+| 147 | Tanji, Kensuke [JP] | 30 | 1 |  |
+| 148 | Mashima, Mitsuharu [JP] | 30 | 1 |  |
+| 149 | Oota, Yusuke [JP] | 30 | 1 |  |
+| 150 | Mimidou, Ryuji [JP] | 30 | 1 |  |
+| 151 | Mochizuki, Masaki [JP] | 30 | 1 |  |
+| 152 | Miura, Ryuji [JP] | 30 | 1 |  |
+| 153 | Jhang, Jheng-Yu [TW] | 30 | 1 |  |
+| 154 | Watanabe, Yusuke 3633 [JP] | 30 | 1 |  |
+| 155 | Ikeda, Masahito [JP] | 30 | 1 |  |
+| 156 | (9) Yukuhiro, Ken [JP] | 30 | 1 |  |
+| 157 | Fan, Yiduo [CN] | 30 | 1 |  |
+| 158 | Suzuike, Fumiyasu [JP] | 30 | 1 |  |
+| 159 | Asaumi, Hiroki [JP] | 30 | 1 |  |
+| 160 | Kamachi, Naoki [JP] | 30 | 1 |  |
+| 161 | Ishimura, Shintaro [JP] | 30 | 1 |  |
+| 162 | Usui, Mitsuru [JP] | 30 | 1 |  |
+| 163 | Wu, Xuan [CN] | 30 | 1 |  |
+| 164 | Ogasawara, Tomoaki [JP] | 30 | 1 |  |
+| 165 | Matsushita, Junnya [JP] | 30 | 1 |  |
+| 166 | Sano, Keisuke [JP] | 30 | 1 |  |
+| 167 | Takano, Kodai [JP] | 30 | 1 |  |
+| 168 | Suematsu, Takaaki [JP] | 30 | 1 |  |
+| 169 | Tsutsui, Yuki [JP] | 30 | 1 |  |
+| 170 | Moriya, Erika [JP] | 30 | 1 |  |
+| 171 | Nakamoto, Kosuke [JP] | 30 | 1 |  |
+| 172 | Fujita, Toshihide [JP] | 30 | 1 |  |
+| 173 | Sakai, Tatsuya [JP] | 30 | 1 |  |
+| 174 | Huang, Hao-shan [TW] | 30 | 1 |  |
+| 175 | Kuroiwa, Satoshi [JP] | 30 | 1 |  |
+| 176 | Umeda, Takuya [JP] | 30 | 1 |  |
+| 177 | Sekikawa, Daichi [JP] | 30 | 1 |  |
+| 178 | Morotome, Ken [JP] | 30 | 1 |  |
+| 179 | Washimi, Kazuo [JP] | 30 | 1 |  |
+| 180 | Horiuchi, Makoto [JP] | 30 | 1 |  |
+| 181 | Ishihara, Koji [JP] | 30 | 1 |  |
+| 182 | Chiba, Takato [JP] | 30 | 1 |  |
+| 183 | Maki, Kazunori [JP] | 30 | 1 |  |
+| 184 | Yazu, Yasuhiro [JP] | 30 | 1 |  |
+| 185 | Nuruki, Hiroaki [JP] | 30 | 1 |  |
+| 186 | Futamata, Yojiro [JP] | 30 | 1 |  |
+| 187 | Sugisawa, Tsuyoshi [JP] | 30 | 1 |  |
+| 188 | Kuo, Tzu Ching [TW] | 30 | 1 |  |
+| 189 | Tsuruoka, Shouta [JP] | 30 | 1 |  |
+| 190 | Hieda, Ryu [JP] | 30 | 1 |  |
+| 191 | Hattori, Taiki [JP] | 30 | 1 |  |
+| 192 | Takahari, Hiroyuki [JP] | 30 | 1 |  |
+| 193 | Ooshima, Yuuki [JP] | 30 | 1 |  |
+| 194 | Liu, Yuchen [CN] | 30 | 1 |  |
+| 195 | Ishii, Shinji [JP] | 30 | 1 |  |
+| 196 | Hagiwara, Satoshi [JP] | 30 | 1 |  |
+| 197 | Nanjo, Masashi [JP] | 30 | 1 |  |
+| 198 | Takimoto, Yusuke [JP] | 30 | 1 |  |
+| 199 | Hirayama, Shigetaka [JP] | 30 | 1 |  |
+| 200 | Nagasaki, Ryou [JP] | 30 | 1 |  |
+| 201 | Matsumoto, Tomohiro [JP] | 30 | 1 |  |
+| 202 | Yasui, Shigeto [JP] | 30 | 1 |  |
+| 203 | Minagawa, Sho [JP] | 30 | 1 |  |
+| 204 | Hozuki, Atsushi [JP] | 30 | 1 |  |
+| 205 | Takase, Yusuke [JP] | 30 | 1 |  |
+| 206 | Baba, Yukihiro [JP] | 30 | 1 |  |
+| 207 | Hirase, Gun [JP] | 30 | 1 |  |
+| 208 | Nishida, Makoto [JP] | 30 | 1 |  |
+| 209 | Takahashi, Ryo 8120 [JP] | 30 | 1 |  |
+| 210 | Kubota, Muneaki [JP] | 30 | 1 |  |
+| 211 | Xie, Zhan [CN] | 30 | 1 |  |
+| 212 | Han, Chin Yao [TW] | 30 | 1 |  |
+| 213 | Karatsu, Yoshifumi [JP] | 30 | 1 |  |
+| 214 | Oono, Seita [JP] | 30 | 1 |  |
+| 215 | Sun, Guolong [CN] | 30 | 1 |  |
+| 216 | Akaike, Yo [JP] | 30 | 1 |  |
+| 217 | Wang, Kunrui [CN] | 30 | 1 |  |
+| 218 | Furusawa, Shu [JP] | 30 | 1 |  |
+| 219 | Fujioka, Kazato [JP] | 30 | 1 |  |
+| 220 | Maki, Ryosuke [JP] | 30 | 1 |  |
+| 221 | Ohori, Akihito [JP] | 30 | 1 |  |
+| 222 | Maruno, Takaaki [JP] | 30 | 1 |  |
+| 223 | Chan, Tek Sang [MO] | 30 | 1 |  |
+| 224 | Oonishi, Takahisa [JP] | 30 | 1 |  |
+| 225 | Kusunoki, Yuuki [JP] | 30 | 1 |  |
+| 226 | Ushikubo, Ken-Ichi [JP] | 30 | 1 |  |
+| 227 | Satou, Fumihiko [JP] | 30 | 1 |  |
+| 228 | Ikawa, Yoshihiko [JP] | 30 | 1 |  |
+| 229 | Okuno, Ryohei [JP] | 30 | 1 |  |
+| 230 | Fujikura, Akinori [JP] | 30 | 1 |  |
+| 231 | Pan, Minxing [CN] | 30 | 1 |  |
+| 232 | Fukushima, Hiromoto [JP] | 30 | 1 |  |
+| 233 | Lu, Pengjie [CN] | 30 | 1 |  |
+| 234 | Henmi, Ryuji [JP] | 30 | 1 |  |
+| 235 | Shibata, Toru [JP] | 30 | 1 |  |
+| 236 | Sashida, Tomoro [JP] | 30 | 1 |  |
+| 237 | Honda, Soma [JP] | 30 | 1 |  |
+| 238 | Tobari, Masato [JP] | 30 | 1 |  |
+| 239 | Kondo, Fumiya [JP] | 30 | 1 |  |
+| 240 | Takahira, Syunnsuke [JP] | 30 | 1 |  |
+| 241 | Kubo, Hirotaka [JP] | 30 | 1 |  |
+| 242 | Tsujikawa, Taiga [JP] | 30 | 1 |  |
+| 243 | Ogata, Nobuhiko [JP] | 30 | 1 |  |
+| 244 | Tobisawa, Takenori [JP] | 30 | 1 |  |
+| 245 | Sasao, Yusuke [JP] | 30 | 1 |  |
+| 246 | Kitahara, Junya [JP] | 30 | 1 |  |
+| 247 | Kase, Koichi [JP] | 30 | 1 |  |
+| 248 | Komatsu, Isamu [JP] | 30 | 1 |  |
+| 249 | Okada, Takuya 2317 [JP] | 30 | 1 |  |
+| 250 | Tanaka, Akira [JP] | 30 | 1 |  |
+| 251 | Maruyama, Nobuhiro [JP] | 30 | 1 |  |
+| 252 | Ishii, Masashi [JP] | 30 | 1 |  |
+| 253 | Ishizeki, Masaki [JP] | 30 | 1 |  |
+| 254 | Wada, Yasutaka [JP] | 30 | 1 |  |
+| 255 | Ishizaki, Yoshiki [JP] | 30 | 1 |  |
+| 256 | Mori, Hisayuki [JP] | 30 | 1 |  |
+| 257 | Negishi, Haruki [JP] | 30 | 1 |  |
+| 258 | Kumada, Keiichiro [JP] | 30 | 1 |  |
+| 259 | Yajima, Hiromichi [JP] | 28 |  |  |
+| 260 | Wang, Arthur [AU] | 28 |  |  |
+| 261 | Arai, Yusuke [JP] | 27 |  |  |
+| 262 | Hayakawa, Naoki [JP] | 27 |  |  |
+| 263 | Muto, Shogo [JP] | 27 |  |  |
+| 264 | Oikawa, Hiroaki [JP] | 27 |  |  |
+| 265 | Honda, Atsuo [JP] | 27 |  |  |
+| 266 | Taniguchi, Hiroaki [JP] | 27 |  |  |
+| 267 | Pacis, Jack Nicholle [PH] | 27 |  |  |
+| 268 | Saito, Yuki [JP] | 27 |  |  |
+| 269 | Murakami, Kazuya [JP] | 27 |  |  |
+| 270 | Fukui, Shunshuke [JP] | 27 |  |  |
+| 271 | Anan, Kazuyoshi [JP] | 27 |  |  |
+| 272 | Kamo, Keisuke [JP] | 27 |  |  |
+| 273 | Kashima, Yuuki [JP] | 27 |  |  |
+| 274 | Murakami, Akinori [JP] | 27 |  |  |
+| 275 | Komiyama, Kouhei [JP] | 27 |  |  |
+| 276 | Kobayashi, Tomoya [JP] | 27 |  |  |
+| 277 | Tomomura, Hitoshi [JP] | 27 |  |  |
+| 278 | Tanaka, Tomoya [JP] | 27 |  |  |
+| 279 | Sugimoto, Takashi [JP] | 27 |  |  |
+| 280 | Hattori, Takesi [JP] | 27 |  |  |
+| 281 | Takeda, Hiroki [JP] | 27 |  |  |
+| 282 | Chan, Pok Man [HK] | 27 |  |  |
+| 283 | Kamo, Riki [JP] | 27 |  |  |
+| 284 | Yoshida, Kenichiro [JP] | 27 |  |  |
+| 285 | Miyoshi, Tomohito [JP] | 27 |  |  |
+| 286 | Arai, Kenichirou [JP] | 27 |  |  |
+| 287 | Tanaka, Hayato [JP] | 27 |  |  |
+| 288 | Saito, Seiya [JP] | 27 |  |  |
+| 289 | Hasegawa, Kazunari [JP] | 27 |  |  |
+| 290 | Ishikawa, Sho [JP] | 27 |  |  |
+| 291 | Mihara, Makihito [JP] | 27 |  |  |
+| 292 | Okai, Toshiki [JP] | 27 |  |  |
+| 293 | Ookawa, Yusuke [JP] | 27 |  |  |
+| 294 | Kawahama, Yoshikazu [JP] | 27 |  |  |
+| 295 | Peng, Jianjia [CN] | 27 |  |  |
+| 296 | Matsumoto, Shota [JP] | 27 |  |  |
+| 297 | Araki, Tatsunori [JP] | 27 |  |  |
+| 298 | Ji, Zihao [CN] | 27 |  |  |
+| 299 | Hiromasa, Ryusuke [JP] | 27 |  |  |
+| 300 | Sajikiyo, Hiroyuki [JP] | 27 |  |  |
+| 301 | Yamamoto, Tetuji [JP] | 27 |  |  |
+| 302 | Hamada, Yuusai [JP] | 27 |  |  |
+| 303 | Koyanagi, Takuya [JP] | 27 |  |  |
+| 304 | Kuze, Shota [JP] | 27 |  |  |
+| 305 | Kitazawa, Kentarou [JP] | 27 |  |  |
+| 306 | Kaizheng, Song [CN] | 27 |  |  |
+| 307 | Yoshida, Kenji [JP] | 27 |  |  |
+| 308 | Sasaki, Shimon [JP] | 27 |  |  |
+| 309 | Ueki, Junichi [JP] | 27 |  |  |
+| 310 | Saito, Yuji [JP] | 27 |  |  |
+| 311 | Tazawa, Masayuki [JP] | 27 |  |  |
+| 312 | Obitsu, Youtarou [JP] | 27 |  |  |
+| 313 | Wada, Tsubasa [JP] | 27 |  |  |
+| 314 | Deguchi, Keizo [JP] | 27 |  |  |
+| 315 | Usui, Haruki [JP] | 27 |  |  |
+| 316 | Washida, Hiroshi [JP] | 27 |  |  |
+| 317 | Je, Sungeun [KR] | 27 |  |  |
+| 318 | Nishimura, Takashi [JP] | 27 |  |  |
+| 319 | Oliver, Connolly [JP] | 27 |  |  |
+| 320 | Ide, Syun [JP] | 27 |  |  |
+| 321 | Shibata, Kouji [JP] | 27 |  |  |
+| 322 | Iwasawa, Fumiya [JP] | 27 |  |  |
+| 323 | Nakamura, Satoshi 0186 [JP] | 27 |  |  |
+| 324 | Iino, Ryuji [JP] | 27 |  |  |
+| 325 | Tanaka, Rizumu [JP] | 27 |  |  |
+| 326 | Yokoyama, Takaya [JP] | 27 |  |  |
+| 327 | Hu, Eric [CN] | 27 |  |  |
+| 328 | Funahashi, Shun [JP] | 27 |  |  |
+| 329 | Ebihara, Hirotaka [JP] | 27 |  |  |
+| 330 | Yanagawa, Yuuki [JP] | 27 |  |  |
+| 331 | Miyajima, Jun'Ichi [JP] | 27 |  |  |
+| 332 | Shimada, Yuya [JP] | 27 |  |  |
+| 333 | Hattori, Kazuki [JP] | 27 |  |  |
+| 334 | Yutaka, Ryohei [JP] | 27 |  |  |
+| 335 | Makino, Takashi [JP] | 27 |  |  |
+| 336 | Jinno, Kaname [JP] | 27 |  |  |
+| 337 | Shimoyama, Masatoshi [JP] | 27 |  |  |
+| 338 | Sawai, Hiroshi [JP] | 27 |  |  |
+| 339 | Sato, Motohiko [JP] | 27 |  |  |
+| 340 | Fukuhara, Asumu [JP] | 27 |  |  |
+| 341 | Otahara, Sho [JP] | 27 |  |  |
+| 342 | Kidera, Seita [JP] | 27 |  |  |
+| 343 | Kaneko, Yoshiyuki [JP] | 27 |  |  |
+| 344 | Nomura, Tsuyoshi [JP] | 27 |  |  |
+| 345 | Kataoka, Hiroaki [JP] | 27 |  |  |
+| 346 | Terasawa, Yu [JP] | 27 |  |  |
+| 347 | Kato, Susumu [JP] | 27 |  |  |
+| 348 | Shoji, Tatsuro [JP] | 26 |  |  |
+| 349 | Sasaki, Tsuyoshi [JP] | 25 |  |  |
+| 350 | Nagaoka, Takayuki [JP] | 25 |  |  |
+| 351 | Kimura, Kenta [JP] | 24 |  |  |
+| 352 | Watanabe, Yuta 9087 [JP] | 24 |  |  |
+| 353 | Yamada, Yuhki [JP] | 24 |  |  |
+| 354 | Maki, Hidekazu [JP] | 24 |  |  |
+| 355 | Kawakami, Hiroshi [JP] | 24 |  |  |
+| 356 | Miyake, Kyohei [JP] | 24 |  |  |
+| 357 | Mastubara, Tohru [JP] | 24 |  |  |
+| 358 | Kuramoto, Hiroki [JP] | 24 |  |  |
+| 359 | Motomura, Shigeru [JP] | 24 |  |  |
+| 360 | Yamada, Hiroki [JP] | 24 |  |  |
+| 361 | Suzuki, Junpei [JP] | 24 |  |  |
+| 362 | Nakamura, Satoshi 2634 [JP] | 24 |  |  |
+| 363 | Matsuyama, Satoshi [JP] | 24 |  |  |
+| 364 | Tukagoshi, Tadaki [JP] | 24 |  |  |
+| 365 | Kobayashi, Yuuki 0719 [JP] | 24 |  |  |
+| 366 | Xiyuan, Liu [CN] | 24 |  |  |
+| 367 | Machida, Takahiro [JP] | 24 |  |  |
+| 368 | Ito, Takayuki [JP] | 24 |  |  |
+| 369 | Kondo, Kazuya [JP] | 24 |  |  |
+| 370 | Hagiwara, Masakatsu [JP] | 24 |  |  |
+| 371 | Oiso, Kenji [JP] | 24 |  |  |
+| 372 | Yagawa, Masataka [JP] | 24 |  |  |
+| 373 | Itoh, Akira [JP] | 24 |  |  |
+| 374 | Tomita, Kouki [JP] | 24 |  |  |
+| 375 | Nakamura, Yuya [JP] | 24 |  |  |
+| 376 | Morita, Yuhki [JP] | 24 |  |  |
+| 377 | Kawai, Yusuke 7495 [JP] | 24 |  |  |
+| 378 | Namikawa, Katsuya [JP] | 24 |  |  |
+| 379 | Motegi, Ryouta [JP] | 24 |  |  |
+| 380 | Izumi, Hikaru [JP] | 24 |  |  |
+| 381 | Shibata, Yuuki [JP] | 24 |  |  |
+| 382 | Okumura, Yuji [JP] | 24 |  |  |
+| 383 | Iijima, Shin [JP] | 24 |  |  |
+| 384 | Kokubun, Takeshi [JP] | 24 |  |  |
+| 385 | Harasima, Kenichi [JP] | 24 |  |  |
+| 386 | Takeshita, Yuuki [JP] | 24 |  |  |
+| 387 | Haritani, Ryosuke [JP] | 24 |  |  |
+| 388 | Minami, Masashi [JP] | 24 |  |  |
+| 389 | Haraguchi, Fernando [JP] | 24 |  |  |
+| 390 | Boku, Takashi [JP] | 24 |  |  |
+| 391 | Yamazaki, Hiroyuki [JP] | 24 |  |  |
+| 392 | Kanno, Atsushi [JP] | 24 |  |  |
+| 393 | Hinohara, Toyokazu [JP] | 24 |  |  |
+| 394 | Nakai, Tomoki [JP] | 24 |  |  |
+| 395 | Takahashi, Ryo 4679 [JP] | 24 |  |  |
+| 396 | Iwasaki, Masayuki [JP] | 24 |  |  |
+| 397 | Taira, Kentaro [JP] | 24 |  |  |
+| 398 | Wada, Yusuke [JP] | 24 |  |  |
+| 399 | Matsuoka, Akira [JP] | 24 |  |  |
+| 400 | Shibata, Takeshi [JP] | 24 |  |  |
+| 401 | Zhang, Yicheng [FR] | 24 |  |  |
+| 402 | Onoda, Kenji [JP] | 24 |  |  |
+| 403 | Ikeda, Takahiro [JP] | 24 |  |  |
+| 404 | Satou, Takahisa [JP] | 24 |  |  |
+| 405 | Masuyama, Takahiro [JP] | 24 |  |  |
+| 406 | Matsuyama, Ryousuke [JP] | 22 |  |  |
+| 407 | Omi, Tatsuya [JP] | 22 |  |  |
+| 408 | Yamaguchi, Tomoyuki [JP] | 22 |  |  |
+| 409 | Tamoto, Akihiro [JP] | 22 |  |  |
+| 410 | Hashimoto, Satoshi 9278 [JP] | 22 |  |  |
+| 411 | Higaki, Motohide [JP] | 21 |  |  |
+| 412 | Uchida, Tomoya [JP] | 21 |  |  |
+| 413 | Moriyama, Yuu [JP] | 21 |  |  |
+| 414 | Kobayashi, Kazutaka [JP] | 21 |  |  |
+| 415 | Hasebe, Shunichi [JP] | 21 |  |  |
+| 416 | Tay, Jun Hao [SG] | 21 |  |  |
+| 417 | Matsumoto, Yuki 2978 [JP] | 21 |  |  |
+| 418 | Esaki, Keisuke [JP] | 21 |  |  |
+| 419 | Iwasaki, Daisuke [JP] | 21 |  |  |
+| 420 | Kobayashi, Jotaro [JP] | 21 |  |  |
+| 421 | Ogata, Kai [JP] | 21 |  |  |
+| 422 | Taki, Masaya [JP] | 21 |  |  |
+| 423 | Watanabe, Yuuki [JP] | 21 |  |  |
+| 424 | Yoneyama, Syougo [JP] | 21 |  |  |
+| 425 | Shiraishi, Makoto [JP] | 21 |  |  |
+| 426 | Matsuzaki, Akio [JP] | 21 |  |  |
+| 427 | Nobukiyo, Yasuaki [JP] | 21 |  |  |
+| 428 | Shibata, Hirotaka [JP] | 21 |  |  |
+| 429 | Higurashi, Yukinao [JP] | 21 |  |  |
+| 430 | Ueyama, Yuji [JP] | 21 |  |  |
+| 431 | Fujii, Kento [JP] | 21 |  |  |
+| 432 | Fujimoto, Shun [JP] | 21 |  |  |
+| 433 | Nomura, Hidehiro [JP] | 21 |  |  |
+| 434 | Koide, Yukua [JP] | 21 |  |  |
+| 435 | Umeyama, Yuichi [JP] | 21 |  |  |
+| 436 | Natsume, Takuya [JP] | 21 |  |  |
+| 437 | Oono, Takahiro [JP] | 21 |  |  |
+| 438 | Uzawa, Yuya [JP] | 21 |  |  |
+| 439 | Kamo, Kyouei [JP] | 21 |  |  |
+| 440 | Sugimori, Daisuke [JP] | 21 |  |  |
+| 441 | Watanabe, Yusuke 1612 [JP] | 21 |  |  |
+| 442 | Fujihira, Keizo [JP] | 21 |  |  |
+| 443 | Nakai, Yutaka [JP] | 21 |  |  |
+| 444 | Soma, Kensuke [JP] | 21 |  |  |
+| 445 | Nakata, Tomoya [JP] | 21 |  |  |
+| 446 | Kimura, Yuito [JP] | 21 |  |  |
+| 447 | Takamatu, Masahiro [JP] | 21 |  |  |
+| 448 | Nishiyama, Naoki [JP] | 21 |  |  |
+| 449 | Shindo, Yuto [JP] | 21 |  |  |
+| 450 | Tsukamoto, Mitsuru [JP] | 21 |  |  |
+| 451 | Iriki, Takumi [JP] | 21 |  |  |
+| 452 | Miwa, Kazuki [JP] | 21 |  |  |
+| 453 | (7) Thompson, Gerry [US] | 18 |  |  |
+| 454 | Harane, Kenta [JP] | 18 |  |  |
+| 455 | Mizui, Tomoyuki [JP] | 18 |  |  |
+| 456 | Morikawa, Taichi [JP] | 18 |  |  |
+| 457 | Maekawa, Kazumi [JP] | 18 |  |  |
+| 458 | Shimizu, Toshiki [JP] | 18 |  |  |
+| 459 | Hasegawa, Shunya [JP] | 18 |  |  |
+| 460 | Hangyo, Tatsuya [JP] | 18 |  |  |
+| 461 | Miwa, Ryou [JP] | 18 |  |  |
+| 462 | Hibino, Hayato [JP] | 18 |  |  |
+| 463 | Yasuda, Hisashi [JP] | 18 |  |  |
+| 464 | Yoshida, Akinobu [JP] | 18 |  |  |
+| 465 | Arita, Kento [JP] | 18 |  |  |
+| 466 | Agemura, Shota [JP] | 18 |  |  |
+| 467 | Tokita, Toshimi [JP] | 18 |  |  |
+| 468 | Nagai, Mamoru [JP] | 17 |  |  |
+| 469 | Aahlstroem, Christian [SE] | 16 |  |  |
+| 470 | Tamura, Satoshi [JP] | 16 |  |  |
+| 471 | Fukuda, Kazuki8347 [JP] | 16 |  |  |
+| 472 | Goto, Hiroaki [JP] | 16 |  |  |
+| 473 | Funabiki, Rintaro [JP] | 16 |  |  |
+| 474 | Tsuzaki, Akira [JP] | 16 |  |  |
+| 475 | Ohno, Junki [JP] | 16 |  |  |
+| 476 | Loi, Bennet [MO] | 16 |  |  |
+| 477 | Endo, Ryota [JP] | 16 |  |  |
+| 478 | Miyasaka, Sho [JP] | 16 |  |  |
+| 479 | Kabashima, Takuya [JP] | 16 |  |  |
+| 480 | Itagaki, Yota [JP] | 16 |  |  |
+| 481 | Saito, Shosuke [JP] | 16 |  |  |
+| 482 | Matsui, Yasuo [JP] | 15 |  |  |
+| 483 | Moriyama, Masahide [JP] | 15 |  |  |
+| 484 | Sakata, Naoya [JP] | 15 |  |  |
+| 485 | Yamauchi, Takashi [JP] | 15 |  |  |
+| 486 | Ichikawa, Yuuki [JP] | 15 |  |  |
+| 487 | Kiyonaga, Sho [JP] | 15 |  |  |
+| 488 | Yamamoto, Kentaro [JP] | 15 |  |  |
+| 489 | Takaya, Shouichi [JP] | 15 |  |  |
+| 490 | Tanaka, Hironao [JP] | 15 |  |  |
+| 491 | Suzuki, Fumito [JP] | 15 |  |  |
+| 492 | Sasabe, Yuusuke [JP] | 15 |  |  |
+| 493 | Yamasaki, Takumi [JP] | 15 |  |  |
+| 494 | Miyaguni, Musashi [JP] | 15 |  |  |
+| 495 | Kato, Kensuke [JP] | 15 |  |  |
+| 496 | Baba, Yasunori [JP] | 15 |  |  |
+| 497 | Nagao, Yasutaka [JP] | 15 |  |  |
+| 498 | Zheng, Peiyuan [CN] | 15 |  |  |
+| 499 | Sekine, Yoshinori [JP] | 15 |  |  |
+| 500 | Kanayama, Haruki [JP] | 15 |  |  |
+| 501 | Mishima, Wataru [JP] | 15 |  |  |
+| 502 | Nishio, Tomoyasu [JP] | 15 |  |  |
+| 503 | Takahashi, Tetsuhiro [JP] | 15 |  |  |
+| 504 | Ishikami, Naotaka [JP] | 15 |  |  |
+| 505 | Ohnishi, Jyunpei [JP] | 15 |  |  |
+| 506 | Iwata, Sou [JP] | 15 |  |  |
+| 507 | Inoue, Toru [JP] | 15 |  |  |
+| 508 | Shimizu, Yuji [JP] | 15 |  |  |
+| 509 | Aizawa, Tamotsu [JP] | 15 |  |  |
+| 510 | Arakane, Daisuke [JP] | 15 |  |  |
+| 511 | Fujii, Akira [JP] | 15 |  |  |
+| 512 | Yoshikawa, Hidenobu [JP] | 15 |  |  |
+| 513 | Kasahara, Koichi [JP] | 15 |  |  |
+| 514 | Amemiya, Kouhei [JP] | 15 |  |  |
+| 515 | Moriya, Ryo [JP] | 15 |  |  |
+| 516 | Sun, Chuan [CN] | 15 |  |  |
+| 517 | Terauchi, Tatsuya [JP] | 15 |  |  |
+| 518 | Shinomiya, Yusuke [JP] | 15 |  |  |
+| 519 | Mita, Ryoichi [JP] | 15 |  |  |
+| 520 | Hosokawa, Yuya [JP] | 15 |  |  |
+| 521 | Wachigai, Hirotaka [JP] | 15 |  |  |
+| 522 | Wen, Yi [CN] | 15 |  |  |
+| 523 | Sakuta, Akira [JP] | 15 |  |  |
+| 524 | Shoji, Hayato [JP] | 15 |  |  |
+| 525 | Saito, Keisuke [JP] | 15 |  |  |
+| 526 | Mizumoto, Hirotaka [JP] | 15 |  |  |
+| 527 | Sasaki, Tsutomu [JP] | 15 |  |  |
+| 528 | Kawaguchi, Takashi [JP] | 15 |  |  |
+| 529 | Kitaoka, Takaaki [JP] | 15 |  |  |
+| 530 | Hirosawa, Yuuta [JP] | 15 |  |  |
+| 531 | Kiyono, Shoya [JP] | 15 |  |  |
+| 532 | Yamamoto, Kohei 2453 [JP] | 15 |  |  |
+| 533 | Oyaizu, Keigo [JP] | 15 |  |  |
+| 534 | Mikami, Yoshirou [JP] | 15 |  |  |
+| 535 | Hiroi, Genki [JP] | 15 |  |  |
+| 536 | Nakamura, Yusuke [JP] | 15 |  |  |
+| 537 | Kawasaki, Kentaro [JP] | 15 |  |  |
+| 538 | Iyanaga, Junya [JP] | 15 |  |  |
+| 539 | Kagami, Hajime [JP] | 15 |  |  |
+| 540 | Asai, Ikuya [JP] | 15 |  |  |
+| 541 | Hisano, Mikita [JP] | 15 |  |  |
+| 542 | Hitomi, Masaaki [JP] | 15 |  |  |
+| 543 | Mimura, Haruki [JP] | 15 |  |  |
+| 544 | Kukino, Yudai [JP] | 15 |  |  |
+| 545 | Lai, Pak Yin [HK] | 15 |  |  |
+| 546 | Kawamoto, Naoya [JP] | 15 |  |  |
+| 547 | Kurata, Shintaro [JP] | 15 |  |  |
+| 548 | Yoshino, Kohei [JP] | 15 |  |  |
+| 549 | Miyawaki, Takeshi [JP] | 15 |  |  |
+| 550 | Hirata, Tomoki [JP] | 15 |  |  |
+| 551 | Ma, No Ah [KR] | 15 |  |  |
+| 552 | Zhengrui, Qian [CN] | 15 |  |  |
+| 553 | Nakashima, Shunichi [JP] | 15 |  |  |
+| 554 | Takada, Naoki [JP] | 15 |  |  |
+| 555 | Kozakai, Yukio [JP] | 15 |  |  |
+| 556 | Nakajima, Chikara [JP] | 15 |  |  |
+| 557 | Uetsu, Masashi [JP] | 15 |  |  |
+| 558 | Yanase, Kaname [JP] | 15 |  |  |
+| 559 | Kawata, Kazuki [JP] | 15 |  |  |
+| 560 | Zhang, Yi [CN] | 15 |  |  |
+| 561 | Yasutomi, Hiroto [JP] | 15 |  |  |
+| 562 | Shinozawa, Tomohiro [JP] | 15 |  |  |
+| 563 | Aranami, Naoto [JP] | 15 |  |  |
+| 564 | Ozawa, Tomohiko [JP] | 15 |  |  |
+| 565 | Kamata, Kazuhiro [JP] | 15 |  |  |
+| 566 | Oshikawa, Akira [JP] | 15 |  |  |
+| 567 | Yu, Yin [CN] | 15 |  |  |
+| 568 | Tanahashi, Masayasu [JP] | 15 |  |  |
+| 569 | Gotou, Hiroyuki [JP] | 15 |  |  |
+| 570 | Fukuda, Tatsuya [JP] | 15 |  |  |
+| 571 | Okamoto, Yasutaka [JP] | 15 |  |  |
+| 572 | Sakamoto, Masaaki [JP] | 15 |  |  |
+| 573 | Ito, Kouei [JP] | 15 |  |  |
+| 574 | Tamano, Yuuki [JP] | 15 |  |  |
+| 575 | Hiyama, Syunsuke [JP] | 15 |  |  |
+| 576 | Nakanishi, Kota [JP] | 15 |  |  |
+| 577 | Iwasaki, Koichi [JP] | 15 |  |  |
+| 578 | Nishiura, Ryosuke [JP] | 15 |  |  |
+| 579 | Shirakawa, Ryoichi [JP] | 15 |  |  |
+| 580 | Yoon, Sang-Woong [KR] | 15 |  |  |
+| 581 | Furusawa, Reona [JP] | 15 |  |  |
+| 582 | Takeda, Yoshihide [JP] | 15 |  |  |
+| 583 | Noto, Jun [JP] | 15 |  |  |
+| 584 | Nose, Shunsuke [JP] | 15 |  |  |
+| 585 | Yamada, Nobuhiro [JP] | 15 |  |  |
+| 586 | Kobayashi, Tetsurou [JP] | 15 |  |  |
+| 587 | Imai, Ayato [JP] | 15 |  |  |
+| 588 | Sasaki, Yusuke 1421 [JP] | 15 |  |  |
+| 589 | Mizuno, Masahito [JP] | 15 |  |  |
+| 590 | Kuribara, Shuta [JP] | 15 |  |  |
+| 591 | Suzuki, Katsumasa [JP] | 15 |  |  |
+| 592 | Yasukawa, Akira [JP] | 15 |  |  |
+| 593 | Katumata, Siniti [JP] | 15 |  |  |
+| 594 | Matsumoto, Kazuma [JP] | 15 |  |  |
+| 595 | Tasugi, Keigo [JP] | 15 |  |  |
+| 596 | Takahashi, Masamichi [JP] | 15 |  |  |
+| 597 | Kudou, Takunori [JP] | 15 |  |  |
+| 598 | Kondo, Hirotsugu [JP] | 15 |  |  |
+| 599 | Hariu, Daichi [JP] | 15 |  |  |
+| 600 | Miyajima, Kenichi [JP] | 15 |  |  |
+| 601 | Endo, Natsumi [JP] | 15 |  |  |
+| 602 | Watanabe, Takafumi [JP] | 15 |  |  |
+| 603 | Takubo, Masayuki [JP] | 15 |  |  |
+| 604 | Osaka, Yusuke [JP] | 15 |  |  |
+| 605 | Nakaso, Kouji [JP] | 15 |  |  |
+| 606 | Aoki, Taro [JP] | 15 |  |  |
+| 607 | Kimura, Yusuke [JP] | 15 |  |  |
+| 608 | Takeishi, Koji [JP] | 15 |  |  |
+| 609 | Tanigawa, Futa [JP] | 15 |  |  |
+| 610 | Kato, Masaya [JP] | 15 |  |  |
+| 611 | Naoya, Fujioka [JP] | 15 |  |  |
+| 612 | Sakaguchi, Hiroshi [JP] | 15 |  |  |
+| 613 | Yamasaki, Yudai [JP] | 15 |  |  |
+| 614 | Yasuhiro, Ookura [JP] | 15 |  |  |
+| 615 | Hase, Shun [JP] | 15 |  |  |
+| 616 | Fukumoto, Nobuhiro [JP] | 15 |  |  |
+| 617 | Tsuchiya, Yoshihiro [JP] | 15 |  |  |
+| 618 | Furuichi, Takenori [JP] | 15 |  |  |
+| 619 | Moriya, Daisuke [JP] | 15 |  |  |
+| 620 | Tanaka, Yuuichi [JP] | 15 |  |  |
+| 621 | Suzuki, Shoya [JP] | 15 |  |  |
+| 622 | Nagoya, Ryouta [JP] | 15 |  |  |
+| 623 | Yasuda, Kazuki [JP] | 15 |  |  |
+| 624 | Sato, Motomichi [JP] | 15 |  |  |
+| 625 | Okamoto, Masahiro4209 [JP] | 15 |  |  |
+| 626 | Nakaigawa, Takeshi [JP] | 15 |  |  |
+| 627 | Ueno, Hiroshi [JP] | 15 |  |  |
+| 628 | Komiya, Yuki [JP] | 15 |  |  |
+| 629 | Nose, Kota [JP] | 15 |  |  |
+| 630 | Kimura, Shigeki [JP] | 15 |  |  |
+| 631 | Toriuchi, Daizo [JP] | 15 |  |  |
+| 632 | Narita, Chisato [JP] | 15 |  |  |
+| 633 | Rodriguez, Luis [US] | 15 |  |  |
+| 634 | Sakane, Kota [JP] | 15 |  |  |
+| 635 | Hatakeyama, Atsushi [JP] | 15 |  |  |
+| 636 | Kawakami, Kazuto [JP] | 15 |  |  |
+| 637 | Hoshide, Naonari [JP] | 15 |  |  |
+| 638 | Son, Ki [CN] | 15 |  |  |
+| 639 | Ieda, Toma [JP] | 15 |  |  |
+| 640 | Kondo, Go [JP] | 15 |  |  |
+| 641 | Suzuki, Shin [JP] | 15 |  |  |
+| 642 | Yamamoto, Takahiro [JP] | 15 |  |  |
+| 643 | Yamada, Junki [JP] | 15 |  |  |
+| 644 | Abe, Michio [JP] | 15 |  |  |
+| 645 | Itotagawa, Godai [JP] | 15 |  |  |
+| 646 | Takeda, Hiroshi [JP] | 15 |  |  |
+| 647 | Takeuchi, Ryota [JP] | 15 |  |  |
+| 648 | Arai, Ryou [JP] | 15 |  |  |
+| 649 | Sezume, Akihiro [JP] | 15 |  |  |
+| 650 | Miyashita, Shota [JP] | 15 |  |  |
+| 651 | Sugaya, Hironobu [JP] | 15 |  |  |
+| 652 | Hasegawa, Kay [JP] | 15 |  |  |
+| 653 | Kawakami, Takehito [JP] | 15 |  |  |
+| 654 | Yoshida, Koki [JP] | 15 |  |  |
+| 655 | Lee, Jaejeong [KR] | 15 |  |  |
+| 656 | Tokunaga, Takayuki [JP] | 15 |  |  |
+| 657 | Hiroi, Yuta [JP] | 15 |  |  |
+| 658 | Chou, Takayuki [JP] | 15 |  |  |
+| 659 | Yamamoto, Kento8269 [JP] | 15 |  |  |
+| 660 | Matsuzaki, Ryuta [JP] | 15 |  |  |
+| 661 | Aida, Yasuki [JP] | 15 |  |  |
+| 662 | Yamagishi, Yuki [JP] | 15 |  |  |
+| 663 | Nohara, Hiromitsu [JP] | 15 |  |  |
+| 664 | Jinbo, Takashi [JP] | 15 |  |  |
+| 665 | Xiao, Han [CN] | 15 |  |  |
+| 666 | Azuma, Nobuaki [JP] | 15 |  |  |
+| 667 | Saito, Tomoya [JP] | 15 |  |  |
+| 668 | Seo, Kenta [JP] | 15 |  |  |
+| 669 | Fukaya, Yuta [JP] | 15 |  |  |
+| 670 | Masui, Norioki [JP] | 15 |  |  |
+| 671 | Kataoka, Shun [JP] | 15 |  |  |
+| 672 | Maruyama, Shouta [JP] | 15 |  |  |
+| 673 | Shiroma, Hiroshi [JP] | 15 |  |  |
+| 674 | Iwata, Hiromichi [JP] | 15 |  |  |
+| 675 | Wakizaka, Hironari [JP] | 15 |  |  |
+| 676 | Naoi, Shingo [JP] | 15 |  |  |
+| 677 | Edward, Chen [CN] | 15 |  |  |
+| 678 | Shibasaki, Jun [JP] | 15 |  |  |
+| 679 | Sakai, Hironori [JP] | 15 |  |  |
+| 680 | Kamiya, Kazuhiro [JP] | 15 |  |  |
+| 681 | Imai, Tomoyuki [JP] | 15 |  |  |
+| 682 | Yano, Tomiyuki [JP] | 15 |  |  |
+| 683 | Yoshikawa, Yuuki [JP] | 15 |  |  |
+| 684 | Kojima, Yoshihumi [JP] | 15 |  |  |
+| 685 | Fukuda, Yu [JP] | 15 |  |  |
+| 686 | Yohara, Tosho [JP] | 15 |  |  |
+| 687 | Saito, Shigeru [JP] | 15 |  |  |
+| 688 | Nakashima, Atsushi [JP] | 15 |  |  |
+| 689 | Yamada, Takuya [JP] | 15 |  |  |
+| 690 | Watanabe, Takayuki [JP] | 15 |  |  |
+| 691 | Minobe, Yoshihiro [JP] | 15 |  |  |
+| 692 | Komatsu, Yuuhei [JP] | 15 |  |  |
+| 693 | Sugaya, Takeshi [JP] | 15 |  |  |
+| 694 | Yasuda, Masayuki [JP] | 15 |  |  |
+| 695 | Koziol, Eric [JP] | 15 |  |  |
+| 696 | Tazawa, Kazuho [JP] | 15 |  |  |
+| 697 | Christian, Conti [CH] | 15 |  |  |
+| 698 | Mitsuya, Teppei [JP] | 15 |  |  |
+| 699 | Ogawa, Shota [JP] | 15 |  |  |
+| 700 | Sakakibara, Hisashi [JP] | 15 |  |  |
+| 701 | Kobayashi, Atsumu [JP] | 15 |  |  |
+| 702 | Kawano, Junichi [JP] | 15 |  |  |
+| 703 | Yamada, Ryo [JP] | 15 |  |  |
+| 704 | Wakita, Daiki [JP] | 15 |  |  |
+| 705 | Oohashi, Toshiyuki [JP] | 15 |  |  |
+| 706 | Tanaka, Kento [JP] | 15 |  |  |
+| 707 | Igarashi, Takuma [JP] | 15 |  |  |
+| 708 | Sugahara, Takuya [JP] | 15 |  |  |
+| 709 | Yoshimoto, Masanobu [JP] | 15 |  |  |
+| 710 | Obata, Ken [JP] | 15 |  |  |
+| 711 | Kawasaki, Takeshi [JP] | 15 |  |  |
+| 712 | Iwasaki, Yohei [JP] | 15 |  |  |
+| 713 | Iwaide, Yoshitaka [JP] | 15 |  |  |
+| 714 | Hashidate, Itaru [JP] | 15 |  |  |
+| 715 | Fujimura, Akinori [JP] | 15 |  |  |
+| 716 | Matsubara, Itirou [JP] | 15 |  |  |
+| 717 | Ikarashi, Satoru [JP] | 15 |  |  |
+| 718 | Mitsui, Hideo [JP] | 15 |  |  |
+| 719 | Ishii, Kenta [JP] | 15 |  |  |
+| 720 | Uchida, Kensuke [JP] | 15 |  |  |
+| 721 | Takenaka, Takumi [JP] | 15 |  |  |
+| 722 | Tsukada, Hiroshi [JP] | 15 |  |  |
+| 723 | Watanabe, Takefumi [JP] | 15 |  |  |
+| 724 | Tobo, Hayato [JP] | 15 |  |  |
+| 725 | Matsushita, Takayuki [JP] | 15 |  |  |
+| 726 | Nakahashi, Yoshihiro [JP] | 15 |  |  |
+| 727 | Sugizaki, Shunsuke [JP] | 15 |  |  |
+| 728 | Shimizu, Takeo [JP] | 15 |  |  |
+| 729 | Sano, Takumi [JP] | 15 |  |  |
+| 730 | Ishijima, Kazuya [JP] | 15 |  |  |
+| 731 | Yoshimura, Akira [JP] | 15 |  |  |
+| 732 | Aoki, Syougo [JP] | 15 |  |  |
+| 733 | Nakagawa, Yuki [JP] | 15 |  |  |
+| 734 | Iwatsuki, Takanori [JP] | 15 |  |  |
+| 735 | Tomioka, Teppei [JP] | 15 |  |  |
+| 736 | Kawarada, Wataru [JP] | 15 |  |  |
+| 737 | Ishimaru, Ken [JP] | 15 |  |  |
+| 738 | Otuka, Ryutaro [JP] | 15 |  |  |
+| 739 | Tokuyama, Yutaro [JP] | 15 |  |  |
+| 740 | Hasegawa, Tsuyoshi [JP] | 15 |  |  |
+| 741 | Ohira, Takashi [JP] | 15 |  |  |
+| 742 | Hirayama, Hideyuki [JP] | 15 |  |  |
+| 743 | Ino, Keita [JP] | 15 |  |  |
+| 744 | Hirose, Yuki [JP] | 15 |  |  |
+| 745 | Omiya, Takahiro [JP] | 15 |  |  |
+| 746 | Fusegi, Takanori [JP] | 15 |  |  |
+| 747 | Terasawa, Kazuya [JP] | 15 |  |  |
+| 748 | Kosaka, Ryohei [JP] | 15 |  |  |
+| 749 | Fujimoto, Yosuke [JP] | 15 |  |  |
+| 750 | Nagano, Masahiro [JP] | 15 |  |  |
+| 751 | Adachi, Yoshiya [JP] | 15 |  |  |
+| 752 | Hachiya, Kota [JP] | 15 |  |  |
+| 753 | Doumoto, Satoru [JP] | 15 |  |  |
+| 754 | Yamagishi, Terutaka [JP] | 15 |  |  |
+| 755 | Omori, Ken'Ichirou [JP] | 15 |  |  |
+| 756 | Nozaki, Taiki [JP] | 15 |  |  |
+| 757 | Lee, Hung [TW] | 15 |  |  |
+| 758 | Hanyuu, Kento [JP] | 15 |  |  |
+| 759 | Nakano, Fumiki [JP] | 15 |  |  |
+| 760 | Mayaguchi, Masaru [JP] | 15 |  |  |
+| 761 | Tokutake, Masayuki [JP] | 15 |  |  |
+| 762 | Kang, Jian [CN] | 15 |  |  |
+| 763 | Nagata, Kouki [JP] | 15 |  |  |
+| 764 | Nakayama, Satoshi [JP] | 15 |  |  |
+| 765 | Leong, Pou Man [MO] | 15 |  |  |
+| 766 | Nitta, Ryo [JP] | 15 |  |  |
+| 767 | Yanagihara, Hiroki [JP] | 15 |  |  |
+| 768 | Shang, Cheng Yan [CN] | 15 |  |  |
+| 769 | Hirokawa, Tatsuya 2023 [JP] | 15 |  |  |
+| 770 | Li, Youchen [CN] | 15 |  |  |
+| 771 | Kozaki, Yosuke [JP] | 15 |  |  |
+| 772 | Watanabe, Shouichi [JP] | 15 |  |  |
+| 773 | Tani, Syuto [JP] | 15 |  |  |
+| 774 | Ito, Takahiro [JP] | 15 |  |  |
+| 775 | Aoyagi, Shinnosuke [JP] | 15 |  |  |
+| 776 | Yamagata, Hiroki [JP] | 15 |  |  |
+| 777 | Aoki, Yositugu [JP] | 15 |  |  |
+| 778 | Nakajima, Yuusuke [JP] | 15 |  |  |
+| 779 | Toyama, Keiichi [JP] | 15 |  |  |
+| 780 | Yamano, Tatsuto [JP] | 15 |  |  |
+| 781 | Ideguchi, Yasuhiro [JP] | 15 |  |  |
+| 782 | Muroya, Ryusei [JP] | 15 |  |  |
+| 783 | Harada, Masato [JP] | 15 |  |  |
+| 784 | Matsumoto, Yuki 1423 [JP] | 15 |  |  |
+| 785 | Shigemasa, Gaku [JP] | 15 |  |  |
+| 786 | Iitsuka, Yuuki [JP] | 15 |  |  |
+| 787 | Kamoi, Ryo [JP] | 15 |  |  |
+| 788 | Takeyama, Maya [JP] | 15 |  |  |
+| 789 | Adati, Naohiko [JP] | 15 |  |  |
+| 790 | Tanaka, Yu [JP] | 15 |  |  |
+| 791 | Muramatsu, Yasuhiro [JP] | 15 |  |  |
+| 792 | Nakanishi, Yutaka [JP] | 15 |  |  |
+| 793 | Mori, Daisuke [JP] | 15 |  |  |
+| 794 | Kubo, Yuta [JP] | 15 |  |  |
+| 795 | Ueda, Tadahiko [JP] | 15 |  |  |
+| 796 | Katakawa, Souta [JP] | 15 |  |  |
+| 797 | Miyake, Keigo [JP] | 15 |  |  |
+| 798 | U, Kashin [JP] | 15 |  |  |
+| 799 | Kazami, Hayato [JP] | 15 |  |  |
+| 800 | Kondo, Masahiro [JP] | 15 |  |  |
+| 801 | Uzawa, Yuichi [JP] | 15 |  |  |
+| 802 | Takami, Yuta [JP] | 15 |  |  |
+| 803 | Nakamura, Yuki8131 [JP] | 15 |  |  |
+| 804 | Izaki, Yuji [JP] | 15 |  |  |
+| 805 | Inami, Yuuki [JP] | 15 |  |  |
+| 806 | Irimura, Daisuke [JP] | 15 |  |  |
+| 807 | Hosoda, Masamitsu [JP] | 15 |  |  |
+| 808 | Tsuchihashi, Takuya [JP] | 15 |  |  |
+| 809 | Okamura, Takumi [JP] | 15 |  |  |
+| 810 | Mikami, Akihiro [JP] | 15 |  |  |
+| 811 | Yoshimura, Genki [JP] | 15 |  |  |
+| 812 | Hirokawa, Tatsuya 1725 [JP] | 15 |  |  |
+| 813 | Takeda, Yuki 3088 [JP] | 15 |  |  |
+| 814 | Nakamatu, Hirohumi [JP] | 15 |  |  |
+| 815 | Hannya, Yamato [JP] | 15 |  |  |
+| 816 | Ishizaka, Akira [JP] | 15 |  |  |
+| 817 | Gohara, Akira [JP] | 15 |  |  |
+| 818 | Rama, Harry [PH] | 15 |  |  |
+| 819 | Miyagai, Kyosuke [JP] | 15 |  |  |
+| 820 | Takawashi, Shun'Ichi [JP] | 15 |  |  |
+| 821 | Saito, Kazuya [JP] | 15 |  |  |
+| 822 | Okamoto, Jin [JP] | 15 |  |  |
+| 823 | Nakamura, Tamon [JP] | 15 |  |  |
+| 824 | Nisi, Ryota [JP] | 15 |  |  |
+| 825 | Sasaki, Sho [JP] | 15 |  |  |
+| 826 | Motouchi, Atsushi [JP] | 15 |  |  |
+| 827 | Jiang, Chenghan [CN] | 15 |  |  |
+| 828 | Nakamura, Keisuke [JP] | 15 |  |  |
+| 829 | Bo, Gao [CN] | 15 |  |  |
+| 830 | Adachi, Takaaki [JP] | 15 |  |  |
+| 831 | Kitamura, Ryo [JP] | 15 |  |  |
+| 832 | Sano, Futoshi [JP] | 15 |  |  |
+| 833 | Saito, Takeo [JP] | 15 |  |  |
+| 834 | Akama, Takaharu [JP] | 15 |  |  |
+| 835 | Samejima, Ippei [JP] | 15 |  |  |
+| 836 | Fujimori, Masayoshi [JP] | 15 |  |  |
+| 837 | Xu, Chenghao [CN] | 15 |  |  |
+| 838 | Kamimura, Fumihiro [JP] | 15 |  |  |
+| 839 | Miyagi, Moto [JP] | 15 |  |  |
+| 840 | Kashima, Akihiro [JP] | 15 |  |  |
+| 841 | Miyamoto, Yohei [JP] | 15 |  |  |
+| 842 | Toyoda, Ryosuke [JP] | 15 |  |  |
+| 843 | Shiota, Fumihiko [JP] | 15 |  |  |
+| 844 | Konno, Tomoyuki [JP] | 15 |  |  |
+| 845 | Ishino, Katsunori [JP] | 15 |  |  |
+| 846 | Hashimoto, Nobuyuki [JP] | 15 |  |  |
+| 847 | Sugimura, Daichi [JP] | 15 |  |  |
+| 848 | Takao, Naoki [JP] | 15 |  |  |
+| 849 | Sugimura, Yoshiyasu [JP] | 15 |  |  |
+| 850 | Yamakita, Yuya [JP] | 15 |  |  |
+| 851 | Itou, Takanori [JP] | 15 |  |  |
+| 852 | Nakayama, Ian [JP] | 15 |  |  |
+| 853 | Kenji, Tashima [JP] | 15 |  |  |
+| 854 | Odagiri, Mato [JP] | 15 |  |  |
+| 855 | Motoya, Toru [JP] | 15 |  |  |
+| 856 | Wachi, Shinya [JP] | 15 |  |  |
+| 857 | Hosoi, Ippei [JP] | 15 |  |  |
+| 858 | Natsukawa, Makoto [CN] | 15 |  |  |
+| 859 | Yokotsuka, Yu [JP] | 15 |  |  |
+| 860 | Murakami, Mikihisa [JP] | 15 |  |  |
+| 861 | Usami, Tarou [JP] | 15 |  |  |
+| 862 | Okazawa, Tatsuya [JP] | 15 |  |  |
+| 863 | Nakada, Ryo [JP] | 13 |  |  |
+| 864 | Maruyama, Satoshi [JP] | 13 |  |  |
+| 865 | Maruyama, Masaaki [JP] | 13 |  |  |
+| 866 | Ohtsuka, Fukuo [JP] | 13 |  |  |
+| 867 | Yashiki, Kouichi [JP] | 13 |  |  |
+| 868 | Yamamoto, Naoto [JP] | 13 |  |  |
+| 869 | Oohashi, Toshiya [JP] | 13 |  |  |
+| 870 | Saiga, Noriaki [JP] | 13 |  |  |
+| 871 | Shang, Shi Jie [CN] | 13 |  |  |
+| 872 | Suzuki, Towa [JP] | 13 |  |  |
+| 873 | Gojo, Toshiya [JP] | 13 |  |  |
+| 874 | Tanaka, Nobuaki [JP] | 13 |  |  |
+| 875 | Ninohira, Yuuya [JP] | 13 |  |  |
+| 876 | Sato, Rei [JP] | 12 |  |  |
+| 877 | Matsuda, Taku [JP] | 12 |  |  |
+| 878 | Nakano, Akinori [JP] | 12 |  |  |
+| 879 | Hasegawa, Takahiro [JP] | 12 |  |  |
+| 880 | Yokomizo, Gouki [JP] | 12 |  |  |
+| 881 | Takao, Akinao [JP] | 12 |  |  |
+| 882 | Ishiguro, Satoshi 6674 [JP] | 12 |  |  |
+| 883 | Kawatsu, Shunsuke [JP] | 12 |  |  |
+| 884 | Kasuya, Takeshi [JP] | 12 |  |  |
+| 885 | Takagi, Takeshi [JP] | 12 |  |  |
+| 886 | Kawai, Yuusuke 4514 [JP] | 12 |  |  |
+| 887 | Michibata, Tatsuya [JP] | 12 |  |  |
+| 888 | Sawada, Ryo [JP] | 12 |  |  |
+| 889 | Nam, Sung Wook [KR] | 12 |  |  |
+| 890 | Urasawa, Taiji [JP] | 12 |  |  |
+| 891 | Yoshida, Yutarou [JP] | 12 |  |  |
+| 892 | Matsuura, Takumi [JP] | 12 |  |  |
+| 893 | Miyazono, Takeshi [JP] | 12 |  |  |
+| 894 | Matsui, Hisataka [JP] | 12 |  |  |
+| 895 | Nakamichi, Daisuke [JP] | 12 |  |  |
+| 896 | Cheng, Theo [HK] | 12 |  |  |
+| 897 | Baba, Takashi [JP] | 12 |  |  |
+| 898 | Watanabe, Takanori [JP] | 12 |  |  |
+| 899 | Asano, Tatsuro [JP] | 12 |  |  |
+| 900 | Oshima, Shimpei [JP] | 12 |  |  |
+| 901 | Hirashima, Yutaro [JP] | 12 |  |  |
+| 902 | Noine, Kazuhiro [JP] | 12 |  |  |
+| 903 | Takano, Shota [JP] | 12 |  |  |
+| 904 | Ito, Motoaki [JP] | 12 |  |  |
+| 905 | Goto, Yoshimasa [JP] | 12 |  |  |
+| 906 | Tujii, Shoichi [JP] | 12 |  |  |
+| 907 | Maeda, Hiroki [JP] | 12 |  |  |
+| 908 | Kakinoki, Junichi [JP] | 12 |  |  |
+| 909 | Ohmori, Yoshitsugu [JP] | 12 |  |  |
+| 910 | Inoue, Takuto [JP] | 12 |  |  |
+| 911 | Miyamoto, Hiroya [JP] | 12 |  |  |
+| 912 | Kakumae, Teruya [JP] | 12 |  |  |
+| 913 | Aka, Shunsuke [JP] | 12 |  |  |
+| 914 | Kakimoto, Yuki [JP] | 12 |  |  |
+| 915 | Ichikawa, Norikazu [JP] | 12 |  |  |
+| 916 | Morinaka, Fuyuki [JP] | 12 |  |  |
+| 917 | Matumoto, Yoshitaka [JP] | 12 |  |  |
+| 918 | Cho, Jeongwoo [KR] | 12 |  |  |
+| 919 | Kanegawa, Toshiya [JP] | 12 |  |  |
+| 920 | Hoyou, Syunnki [JP] | 12 |  |  |
+| 921 | Takahashi, Kei [JP] | 12 |  |  |
+| 922 | Tachibana, Korechika [JP] | 12 |  |  |
+| 923 | Oda, Ryutaro [JP] | 12 |  |  |
+| 924 | Matsumoto, Fumiya [JP] | 12 |  |  |
+| 925 | Kitahara, Hiroaki [JP] | 12 |  |  |
+| 926 | Tezuka, Takatomo [JP] | 12 |  |  |
+| 927 | Iwazaki, Yuta [JP] | 12 |  |  |
+| 928 | Hasegawa, Shinpei [JP] | 12 |  |  |
+| 929 | Suzuki, Ryo [JP] | 12 |  |  |
+| 930 | Matsuura, Syuhei [JP] | 12 |  |  |
+| 931 | Nishiyama, Shinosuke [JP] | 12 |  |  |
+| 932 | Takeshita, Toru [JP] | 12 |  |  |
+| 933 | Tomizawa, Shin [JP] | 12 |  |  |
+| 934 | Mouri, Yusuke [JP] | 12 |  |  |
+| 935 | Onishi, Akira [JP] | 12 |  |  |
+| 936 | Takeda, Noriaki [JP] | 12 |  |  |
+| 937 | Yamada, Yosuke 9422 [JP] | 12 |  |  |
+| 938 | Furujyou, Takashi [JP] | 12 |  |  |
+| 939 | Yokota, Takuma [JP] | 12 |  |  |
+| 940 | Kounosu, Hiroaki [JP] | 12 |  |  |
+| 941 | Nagayama, Sou [JP] | 12 |  |  |
+| 942 | Henmi, Naoki [JP] | 12 |  |  |
+| 943 | Sato, Tsubasa [JP] | 12 |  |  |
+| 944 | Takahashi, Yuto [JP] | 12 |  |  |
+| 945 | Yamamoto, Ryouichi [JP] | 12 |  |  |
+| 946 | Isaac, Du [CN] | 12 |  |  |
+| 947 | Tokuyama, Yoshihiko [JP] | 12 |  |  |
+| 948 | Hayashi, Hisaaki [JP] | 12 |  |  |
+| 949 | Matsushika, Kohei [JP] | 12 |  |  |
+| 950 | Gondo, Kosuke [JP] | 12 |  |  |
+| 951 | Kuroda, Yoshiro [JP] | 12 |  |  |
+| 952 | Matsukawa, Kentarou [JP] | 12 |  |  |
+| 953 | Isomura, Takuya [JP] | 12 |  |  |
+| 954 | Hayakawa, Naoto [JP] | 12 |  |  |
+| 955 | Yokota, Kazuya [JP] | 12 |  |  |
+| 956 | Okamoto, Ryo [JP] | 12 |  |  |
+| 957 | Orimo, Yuto [JP] | 12 |  |  |
+| 958 | Nakatani, Hiroki [JP] | 12 |  |  |
+| 959 | Ito, Masahiro [JP] | 12 |  |  |
+| 960 | Tada, Mitsuhiro [JP] | 12 |  |  |
+| 961 | Guo, Cheng [CN] | 12 |  |  |
+| 962 | Imazawa, Junpei [JP] | 12 |  |  |
+| 963 | Uechi, Shintarou [JP] | 12 |  |  |
+| 964 | Naide, Kazutaka [JP] | 12 |  |  |
+| 965 | Mori, Yuta [JP] | 12 |  |  |
+| 966 | Oikawa, Ryusuke [JP] | 12 |  |  |
+| 967 | Shimura, Takeshi [JP] | 12 |  |  |
+| 968 | Akamine, Yuta [JP] | 12 |  |  |
+| 969 | Okubo, Hiroshi [JP] | 12 |  |  |
+| 970 | Ikebata, Ryo [JP] | 12 |  |  |
+| 971 | George, Chew [MY] | 12 |  |  |
+| 972 | Shinagawa, Kazunari [JP] | 12 |  |  |
+| 973 | Nishimura, Shinji [JP] | 12 |  |  |
+| 974 | Tamiya, Hiroki [JP] | 12 |  |  |
+| 975 | Xia, Yan [CN] | 12 |  |  |
+| 976 | Guo, Kaian [CN] | 12 |  |  |
+| 977 | Shiyang, Shen [CN] | 12 |  |  |
+| 978 | Hasegawa, Takuya [JP] | 12 |  |  |
+| 979 | Takano, Natsuki [JP] | 12 |  |  |
+| 980 | Takaki, Kazunari [JP] | 12 |  |  |
+| 981 | Adelman, David Shanghai [US] | 12 |  |  |
+| 982 | Kobayashi, Jumpei [JP] | 12 |  |  |
+| 983 | Omura, Hajime [JP] | 12 |  |  |
+| 984 | Kasahara, Takuya [JP] | 12 |  |  |
+| 985 | Ookura, Takahiro [JP] | 12 |  |  |
+| 986 | Ooi, Masaki [JP] | 12 |  |  |
+| 987 | Nishimoto, Sosuke [JP] | 12 |  |  |
+| 988 | Kagawa, Hajime [JP] | 12 |  |  |
+| 989 | Yanagidate, Ikumi [JP] | 12 |  |  |
+| 990 | Kudo, Koichi [JP] | 12 |  |  |
+| 991 | Sarusawa, Yuichi [JP] | 12 |  |  |
+| 992 | Shiraishi, Masaharu [JP] | 12 |  |  |
+| 993 | Fukuda, Tetsuya [JP] | 12 |  |  |
+| 994 | Wu, Yanfei [CN] | 12 |  |  |
+| 995 | Nakamura, Souta [JP] | 12 |  |  |
+| 996 | Osako, Sho [JP] | 12 |  |  |
+| 997 | Wada, Hiroya [JP] | 12 |  |  |
+| 998 | Chin Heng, Tan [SG] | 12 |  |  |
+| 999 | Ainai, Taku [JP] | 12 |  |  |
+| 1000 | Kiyotaki, Azusa [JP] | 12 |  |  |
+| 1001 | Kitagawa, Tomohiro [JP] | 12 |  |  |
+| 1002 | Seiwada, Koyo [JP] | 12 |  |  |
+| 1003 | Sugiyama, Kouichi [JP] | 12 |  |  |
+| 1004 | Dongil, Son [KR] | 12 |  |  |
+| 1005 | Kamishiro, Issey [JP] | 12 |  |  |
+| 1006 | Noguchi, Takeshi [JP] | 12 |  |  |
+| 1007 | Sugiyama, Syun [JP] | 12 |  |  |
+| 1008 | Ogawa, Masafumi [JP] | 12 |  |  |
+| 1009 | Yamada, Ryusuke [JP] | 12 |  |  |
+| 1010 | Yasumoto, Naoki [JP] | 12 |  |  |
+| 1011 | Kawamura, Naoki [JP] | 12 |  |  |
+| 1012 | Okuno, Ryota [JP] | 12 |  |  |
+| 1013 | Yasufuku, Akihiro [JP] | 12 |  |  |
+| 1014 | Kamioka, Masayuki [JP] | 12 |  |  |
+| 1015 | Urasaki, Takayuki [JP] | 12 |  |  |
+| 1016 | Ting Fang, Chen [TW] | 12 |  |  |
+| 1017 | Yoshiki, Shimazu [JP] | 12 |  |  |
+| 1018 | Nakata, Yuusaku [JP] | 12 |  |  |
+| 1019 | Ono, Kotaro [JP] | 12 |  |  |
+| 1020 | Ajitomi, Takeshi [JP] | 12 |  |  |
+| 1021 | Ooba, Hideto [JP] | 12 |  |  |
+| 1022 | Ding, Yi [CN] | 12 |  |  |
+| 1023 | Matsuda, Issui [JP] | 12 |  |  |
+| 1024 | Hashizume, Tomohiro [JP] | 12 |  |  |
+| 1025 | Sako, Wataru [JP] | 12 |  |  |
+| 1026 | Suzuki, Takahito [JP] | 12 |  |  |
+| 1027 | Itou, Daiki [JP] | 12 |  |  |
+| 1028 | Mitsuyasu, Yuki [JP] | 12 |  |  |
+| 1029 | Seki, Keita [JP] | 12 |  |  |
+| 1030 | Kimura, Tatsuhiro [JP] | 12 |  |  |
+| 1031 | Ichimura, Naoya [JP] | 12 |  |  |
+| 1032 | Tanaka, Syunya [JP] | 12 |  |  |
+| 1033 | Nagami, Yoichi [JP] | 12 |  |  |
+| 1034 | Yaocheng, Mark [SG] | 12 |  |  |
+| 1035 | Nukita, Yosuke [JP] | 12 |  |  |
+| 1036 | Kawada, Chihiro [JP] | 12 |  |  |
+| 1037 | Yanagihara, Tomoki [JP] | 12 |  |  |
+| 1038 | Nakajima, Syuro [JP] | 12 |  |  |
+| 1039 | Komizo, Isao [JP] | 12 |  |  |
+| 1040 | Komada, Shun [JP] | 12 |  |  |
+| 1041 | Tamaki, Junnosuke [JP] | 12 |  |  |
+| 1042 | Masuda, Masahito [JP] | 12 |  |  |
+| 1043 | Joshua, Tan [SG] | 12 |  |  |
+| 1044 | Sonoda, Shouhei [JP] | 12 |  |  |
+| 1045 | Kamikawa, Takuya [JP] | 12 |  |  |
+| 1046 | Inui, Takashi [JP] | 12 |  |  |
+| 1047 | Inuzuka, Satoshi [JP] | 12 |  |  |
+| 1048 | Kojima, Terumasa [JP] | 12 |  |  |
+| 1049 | Boss, Matt [TW] | 12 |  |  |
+| 1050 | Aoki, Hiroshi [JP] | 12 |  |  |
+| 1051 | Kanda, Nobuaki [JP] | 12 |  |  |
+| 1052 | Sakurai, Ryota [JP] | 12 |  |  |
+| 1053 | Miyagawa, Takahiro [JP] | 12 |  |  |
+| 1054 | Fukazawa, Yuuki [JP] | 12 |  |  |
+| 1055 | Nobe, Hiroyuki [JP] | 12 |  |  |
+| 1056 | Choi, Kiho [KR] | 12 |  |  |
+| 1057 | Tanaka, Shinichi [JP] | 12 |  |  |
+| 1058 | Nomura, Masahiro [JP] | 12 |  |  |
+| 1059 | Takeda, Takashi [JP] | 12 |  |  |
+| 1060 | Kinugasa, Satoshi [JP] | 12 |  |  |
+| 1061 | Oda, Bumpei [JP] | 12 |  |  |
+| 1062 | Kawano, Naoto [JP] | 12 |  |  |
+| 1063 | Ohba, Hiroshi [JP] | 12 |  |  |
+| 1064 | Onishi, Kouhei [JP] | 12 |  |  |
+| 1065 | Sakai, Daichi [JP] | 12 |  |  |
+| 1066 | Sugimoto, Hiroaki [JP] | 12 |  |  |
+| 1067 | Murata, Atsushi [JP] | 12 |  |  |
+| 1068 | Kato, Hiromu [JP] | 12 |  |  |
+| 1069 | Maeda, Dai [JP] | 12 |  |  |
+| 1070 | Kanehira, Haruki [JP] | 12 |  |  |
+| 1071 | Masumoto, Kazuhiro [JP] | 12 |  |  |
+| 1072 | Yokoo, Kanta [JP] | 12 |  |  |
+| 1073 | Iwasaki, Mitsumasa [JP] | 12 |  |  |
+| 1074 | Tsuda, Mineyuki [JP] | 12 |  |  |
+| 1075 | Arai, Yuta [JP] | 12 |  |  |
+| 1076 | Wada, Shusaku [JP] | 12 |  |  |
+| 1077 | Tsutazawa, Hiroshi [JP] | 12 |  |  |
+| 1078 | Ichikawa, Tatsuya [JP] | 12 |  |  |
+| 1079 | Murakami, Ryo [JP] | 12 |  |  |
+| 1080 | Ebitani, Keisuke [JP] | 12 |  |  |
+| 1081 | Fukuda, Gou [JP] | 12 |  |  |
+| 1082 | Okayama, Hironori [JP] | 12 |  |  |
+| 1083 | Yamamoto, Akimasa [JP] | 12 |  |  |
+| 1084 | Ito, Tsukasa [JP] | 12 |  |  |
+| 1085 | Tanaka, Mami [JP] | 12 |  |  |
+| 1086 | Tsuchiya, Mihoko [JP] | 12 |  |  |
+| 1087 | Yokoyama, Kenichi [JP] | 12 |  |  |
+| 1088 | Nakashima, Yuuya [JP] | 12 |  |  |
+| 1089 | Fujiwara, Tsukasa [JP] | 12 |  |  |
+| 1090 | Yanagawa, Tomoyuki [JP] | 12 |  |  |
+| 1091 | Koyama, Yuji [JP] | 12 |  |  |
+| 1092 | Doi, Kazuhiro [JP] | 12 |  |  |
+| 1093 | Oku, Daisaku [JP] | 12 |  |  |
+| 1094 | Hirata, Koutatsu [JP] | 12 |  |  |
+| 1095 | Aoi, Masashi [JP] | 12 |  |  |
+| 1096 | Kasuga, Ryosuka [JP] | 12 |  |  |
+| 1097 | Akazaki, Daigo [JP] | 12 |  |  |
+| 1098 | Yoshimura, Wataru [JP] | 12 |  |  |
+| 1099 | Tani, Emi [JP] | 12 |  |  |
+| 1100 | Yokoi, Takuya [JP] | 12 |  |  |
+| 1101 | Nakamoto, Takahiro [JP] | 12 |  |  |
+| 1102 | Uchiyama, Kouichi [JP] | 12 |  |  |
+| 1103 | Nagata, Satoshi [JP] | 12 |  |  |
+| 1104 | Min Young, Park [KR] | 12 |  |  |
+| 1105 | Umezawa, Shinobu [JP] | 12 |  |  |
+| 1106 | Kodama, Kentaro [JP] | 12 |  |  |
+| 1107 | Saitou, Daisuke [JP] | 12 |  |  |
+| 1108 | Fukushi, Kyohei [JP] | 12 |  |  |
+| 1109 | Hagihara, Shota [JP] | 12 |  |  |
+| 1110 | Murata, Yutaka [JP] | 12 |  |  |
+| 1111 | Kogure, Takamasa [JP] | 12 |  |  |
+| 1112 | Matsushima, Kyousuke [JP] | 12 |  |  |
+| 1113 | Yamaura, Tatsuya [JP] | 12 |  |  |
+| 1114 | Fujii, Tomoya [JP] | 12 |  |  |
+| 1115 | Tamai, Yuno [JP] | 12 |  |  |
+| 1116 | Asai, Mampei [JP] | 12 |  |  |
+| 1117 | Andou, Ryou [JP] | 12 |  |  |
+| 1118 | Tsurifune, Takashi [JP] | 12 |  |  |
+| 1119 | Tomioka, Takahiro [JP] | 12 |  |  |
+| 1120 | Tsuchiya, Ryuichi [JP] | 12 |  |  |
+| 1121 | Ueda, Ryo [JP] | 12 |  |  |
+| 1122 | Okada, Kou [JP] | 12 |  |  |
+| 1123 | Ishikawa, Kenji [JP] | 12 |  |  |
+| 1124 | Ishikawa, Takuma 3754 [JP] | 12 |  |  |
+| 1125 | Kaido, Yoshiaki [JP] | 12 |  |  |
+| 1126 | Kusakawa, Naoto [JP] | 12 |  |  |
+| 1127 | Yoshida, Akihiko [JP] | 12 |  |  |
+| 1128 | Eikichi, Sotodate [JP] | 12 |  |  |
+| 1129 | Ishimoto, Yuki [JP] | 12 |  |  |
+| 1130 | Kobayashi, Kenta [JP] | 12 |  |  |
+| 1131 | Nishi, Hyuma [JP] | 12 |  |  |
+| 1132 | Kawase, Yoshihiko [JP] | 12 |  |  |
+| 1133 | Nishikawa, Haruyoshi [JP] | 12 |  |  |
+| 1134 | Zhang, Hongqiang [CN] | 12 |  |  |
+| 1135 | Suzuki, Toru [JP] | 12 |  |  |
+| 1136 | Suzuki, Yuga [JP] | 12 |  |  |
+| 1137 | Koyama, Yu [JP] | 12 |  |  |
+| 1138 | Goshima, Akito [JP] | 12 |  |  |
+| 1139 | Irie, Masafumi [JP] | 12 |  |  |
+| 1140 | Senoo, Takuto [JP] | 12 |  |  |
+| 1141 | Makuta, Eiji [JP] | 12 |  |  |
+| 1142 | Imazawa, Shun [JP] | 12 |  |  |
+| 1143 | Yoshida, Masahiro [JP] | 12 |  |  |
+| 1144 | Hando, Shinnosuke [JP] | 12 |  |  |
+| 1145 | Matsumura, Shinya [JP] | 12 |  |  |
+| 1146 | Kimura, Shoji [JP] | 12 |  |  |
+| 1147 | Matsushita, Masakazu [JP] | 12 |  |  |
+| 1148 | Hodumi, Baku [JP] | 12 |  |  |
+| 1149 | Kanagawa, Takuya [JP] | 12 |  |  |
+| 1150 | Masaki, Arata [JP] | 12 |  |  |
+| 1151 | Suzuki, Kazushige [JP] | 12 |  |  |
+| 1152 | Iwamoto, Yuuki [JP] | 12 |  |  |
+| 1153 | Atsuji, Kohei [JP] | 12 |  |  |
+| 1154 | Asakura, Yoshitomo [JP] | 12 |  |  |
+| 1155 | Fukumoto, Hiroaki [JP] | 12 |  |  |
+| 1156 | Takahashi, Osamu [JP] | 12 |  |  |
+| 1157 | Sakurai, Kouta [JP] | 12 |  |  |
+| 1158 | Hongo, Masato [JP] | 12 |  |  |
+| 1159 | Miyake, Daisuke [JP] | 12 |  |  |
+| 1160 | Fujikura, Iori [JP] | 12 |  |  |
+| 1161 | Sasaki, Yuuki [JP] | 12 |  |  |
+| 1162 | Yu Ta, Wu [TW] | 12 |  |  |
+| 1163 | Watanabe, Yoshifumi [JP] | 12 |  |  |
+| 1164 | Suzuki, Yuhei [JP] | 12 |  |  |
+| 1165 | Inoue, Hiroyuki 8845 [JP] | 12 |  |  |
+| 1166 | Endoh, Hiroki [JP] | 12 |  |  |
+| 1167 | Ozawa, Takahiro [JP] | 12 |  |  |
+| 1168 | Sorada, Shohei [JP] | 12 |  |  |
+| 1169 | Matsuda, Kenji [JP] | 12 |  |  |
+| 1170 | Tabei, Hirotomo [JP] | 12 |  |  |
+| 1171 | Suzuki, Akira [JP] | 12 |  |  |
+| 1172 | Hasegawa, Koki [JP] | 12 |  |  |
+| 1173 | Suzuki, Shota [JP] | 12 |  |  |
+| 1174 | Hasegawa, Kazuhiko [JP] | 12 |  |  |
+| 1175 | Kashi, Touru [JP] | 12 |  |  |
+| 1176 | Hirami, Tomonori [JP] | 12 |  |  |
+| 1177 | Sakai, Shigeto [JP] | 12 |  |  |
+| 1178 | Yoshiyuki, Muramatsu [JP] | 12 |  |  |
+| 1179 | Shimokobe, Yukihiro [JP] | 12 |  |  |
+| 1180 | Asizawa, Yosisato [JP] | 12 |  |  |
+| 1181 | Nakajou, Naoto [JP] | 12 |  |  |
+| 1182 | Umehara, Kei [JP] | 12 |  |  |
+| 1183 | Yufu, Seizi [JP] | 12 |  |  |
+| 1184 | Yamazaki, Hiroaki [JP] | 12 |  |  |
+| 1185 | Yajima, Tatsuaki [JP] | 12 |  |  |
+| 1186 | Kajiwara, Tomoki [JP] | 12 |  |  |
+| 1187 | Takahashi, Yu [JP] | 12 |  |  |
+| 1188 | Hagiwara, Tomoaki [JP] | 12 |  |  |
+| 1189 | Ohkura, Ryota [JP] | 12 |  |  |
+| 1190 | Komaki, Shota [JP] | 12 |  |  |
+| 1191 | Tamamura, Hideya [JP] | 12 |  |  |
+| 1192 | Kimbara, Shohei [JP] | 12 |  |  |
+| 1193 | Shibayama, Hayato [JP] | 12 |  |  |
+| 1194 | Kato, Yoshiaki [JP] | 12 |  |  |
+| 1195 | Tsutsumi, Ryuta [JP] | 12 |  |  |
+| 1196 | Harada, Dampei [JP] | 12 |  |  |
+| 1197 | Kono, Jun [JP] | 12 |  |  |
+| 1198 | Asao, Kazuki [JP] | 12 |  |  |
+| 1199 | Nagafuchi, Takayuki [JP] | 12 |  |  |
+| 1200 | Watanabe, Shogo [JP] | 12 |  |  |
+| 1201 | Nakamura, Naoki [JP] | 12 |  |  |
+| 1202 | Furukawa, Ryouichi [JP] | 12 |  |  |
+| 1203 | Enatsu, Hiroaki [JP] | 12 |  |  |
+| 1204 | Poh, LiangChoong [MY] | 12 |  |  |
+| 1205 | Toyama, Takashi [JP] | 12 |  |  |
+| 1206 | Fujita, Shunsuke [JP] | 12 |  |  |
+| 1207 | Takashima, Daisuke [JP] | 12 |  |  |
+| 1208 | Bai, Ming [CN] | 12 |  |  |
+| 1209 | Takahashi, Satoshi [JP] | 12 |  |  |
+| 1210 | Sasaki, Yuusuke 3592 [JP] | 12 |  |  |
+| 1211 | Junjie, Ma [CN] | 12 |  |  |
+| 1212 | Ootani, Yousuke [JP] | 12 |  |  |
+| 1213 | Yamagata, Yutaro [JP] | 12 |  |  |
+| 1214 | Fujita, Kenshiro [JP] | 12 |  |  |
+| 1215 | Nakayama, Satomi [JP] | 12 |  |  |
+| 1216 | Yamazaki, Yuusuke [JP] | 12 |  |  |
+| 1217 | Murata, Shunsuke [JP] | 12 |  |  |
+| 1218 | Maruyama, Hiroki [JP] | 12 |  |  |
+| 1219 | Koike, Yuta [JP] | 12 |  |  |
+| 1220 | Tanigaki, Toshiyuki [JP] | 12 |  |  |
+| 1221 | Hirosawa, Takahiro [JP] | 12 |  |  |
+| 1222 | Tomioka, Shota [JP] | 12 |  |  |
+| 1223 | Iwamura, Ryouichi [JP] | 12 |  |  |
+| 1224 | Shiota, Akihiko [JP] | 12 |  |  |
+| 1225 | Shiohata, Ryosuke [JP] | 12 |  |  |
+| 1226 | Oku, Yusuke [JP] | 12 |  |  |
+| 1227 | Mizuno, Shiori [JP] | 12 |  |  |
+| 1228 | Ito, Kenta [JP] | 12 |  |  |
+| 1229 | Endo, Akiteru [JP] | 12 |  |  |
+| 1230 | Inotsume, Ayumu [JP] | 12 |  |  |
+| 1231 | Yamanaka, Shouki [JP] | 12 |  |  |
+| 1232 | Terauchi, Takayuki [JP] | 12 |  |  |
+| 1233 | Hirasawa, Daisuke [JP] | 12 |  |  |
+| 1234 | Kurano, Yasuhiro [JP] | 12 |  |  |
+| 1235 | Ozeki, Shunichi [JP] | 12 |  |  |
+| 1236 | Yamaguchi, Tatsuhiko [JP] | 12 |  |  |
+| 1237 | Fujii, Takehiro [JP] | 12 |  |  |
+| 1238 | Higashi, Yuusuke [JP] | 12 |  |  |
+| 1239 | Kashiwa, Tomohiro [JP] | 12 |  |  |
+| 1240 | Tanaka, Fumihiro [JP] | 12 |  |  |
+| 1241 | Mori, Takahiro [JP] | 12 |  |  |
+| 1242 | Kabeya, Atsushi [JP] | 12 |  |  |
+| 1243 | Shibata, Shusaku [JP] | 12 |  |  |
+| 1244 | Yoshida, Masafumi [JP] | 12 |  |  |
+| 1245 | Kowata, Kyohei [JP] | 12 |  |  |
+| 1246 | Furukawa, Jun [JP] | 12 |  |  |
+| 1247 | Kosaka, Yuki [JP] | 12 |  |  |
+| 1248 | Suzuki, Yuuhei [JP] | 12 |  |  |
+| 1249 | Hasegawa, Shouichi [JP] | 12 |  |  |
+| 1250 | Hamano, Kouhei [JP] | 12 |  |  |
+| 1251 | Ueki, Kota [JP] | 12 |  |  |
+| 1252 | Shiraishi, Hiroaki [JP] | 12 |  |  |
+| 1253 | Ootsuka, Tomohito [JP] | 12 |  |  |
+| 1254 | Yako, Ryuichi [JP] | 12 |  |  |
+| 1255 | Lu, Tung-Ken [TW] | 12 |  |  |
+| 1256 | Kitagawa, Yusuke [JP] | 12 |  |  |
+| 1257 | Sakai, Toshinori [JP] | 12 |  |  |
+| 1258 | Urabe, Ryosuke [JP] | 12 |  |  |
+| 1259 | Kasagawa, Yosuke [JP] | 12 |  |  |
+| 1260 | Takayama, Kiichiro [JP] | 12 |  |  |
+| 1261 | Yamamoto, Koki [JP] | 12 |  |  |
+| 1262 | Sakata, Shinnosuke [JP] | 12 |  |  |
+| 1263 | Takaki, Kengo [JP] | 12 |  |  |
+| 1264 | Matsui, Kouhei [JP] | 12 |  |  |
+| 1265 | Sugiyama, Nobukatsu [JP] | 12 |  |  |
+| 1266 | Numaguchi, Yumeto [JP] | 12 |  |  |
+| 1267 | Shimazaki, Hirokazu [JP] | 12 |  |  |
+| 1268 | Takatsuka, Yuuki [JP] | 12 |  |  |
+| 1269 | Yoshii, Akimi [JP] | 12 |  |  |
+| 1270 | Harada, Yugo [JP] | 12 |  |  |
+| 1271 | Takeuchi, Masato [JP] | 12 |  |  |
+| 1272 | Nagafuchi, Ei [JP] | 12 |  |  |
+| 1273 | Harada, Sosuke [JP] | 12 |  |  |
+| 1274 | Sakamoto, Satoshi [JP] | 12 |  |  |
+| 1275 | Ichikawa, Hiroshi [JP] | 12 |  |  |
+| 1276 | Andou, Masahito [JP] | 12 |  |  |
+| 1277 | Iwata, Ryoji [JP] | 12 |  |  |
+| 1278 | Hamada, Akira [JP] | 12 |  |  |
+| 1279 | Kakuuchi, Mayako [JP] | 12 |  |  |
+| 1280 | Hayashi, Katsuji [JP] | 12 |  |  |
+| 1281 | Jinno, Kohei [JP] | 12 |  |  |
+| 1282 | Mochizuki, Yasuhiro [JP] | 12 |  |  |
+| 1283 | Kai, Zhuang [CN] | 10 |  |  |
+| 1284 | Otsubo, Hajime [JP] | 10 |  |  |
+| 1285 | Tachibana, Kenntarou [JP] | 10 |  |  |
+| 1286 | Hao, Yin [CN] | 10 |  |  |
+| 1287 | Fujii, Kohei [JP] | 10 |  |  |
+| 1288 | Taniwaki, Hikaru [JP] | 10 |  |  |
+| 1289 | Kobayashi, Yuki 9104 [JP] | 10 |  |  |
+| 1290 | Chiun-Chine, Cheo [TW] | 10 |  |  |
+| 1291 | Soma, Kosuke [JP] | 10 |  |  |
+| 1292 | Wu, Yang Lin [TW] | 10 |  |  |
+| 1293 | Matsumura, Toshikazu [JP] | 9 |  |  |
+| 1294 | Nakamura, Atsushi [JP] | 9 |  |  |
+| 1295 | Fujita, Tsuyoshi [JP] | 9 |  |  |
+| 1296 | Trachoo, Chatchapol [TH] | 9 |  |  |
+| 1297 | Fujimoto, Takehiro [JP] | 9 |  |  |
+| 1298 | Kojima, Tatsuya [JP] | 9 |  |  |
+| 1299 | Shinohara, Takahiro [JP] | 9 |  |  |
+| 1300 | Arahori, Kazuaki [JP] | 9 |  |  |
+| 1301 | Takahashi, Masato [JP] | 9 |  |  |
+| 1302 | Miyamoto, Yutaro [JP] | 9 |  |  |
+| 1303 | Tanaka, Mizuki [JP] | 9 |  |  |
+| 1304 | Shike, Kentarou [JP] | 9 |  |  |
+| 1305 | Yokokawa, Yuta [JP] | 9 |  |  |
+| 1306 | Ota, Sho [JP] | 9 |  |  |
+| 1307 | Iizuka, Hirohumi [JP] | 9 |  |  |
+| 1308 | Yeh, Ruey-Jer [TW] | 9 |  |  |
+| 1309 | Nakamura, Junya [JP] | 9 |  |  |
+| 1310 | Kaku, Tomohiro [JP] | 9 |  |  |
+| 1311 | Arai, Makoto [JP] | 9 |  |  |
+| 1312 | Inagaki, Yukihiro [JP] | 9 |  |  |
+| 1313 | Ishida, Shoichi [JP] | 9 |  |  |
+| 1314 | Hayashi, Tetsuo [JP] | 9 |  |  |
+| 1315 | Kurihara, Satoshi [JP] | 9 |  |  |
+| 1316 | Murase, Hiroshi [JP] | 9 |  |  |
+| 1317 | Ohkawa, Yusuke [JP] | 9 |  |  |
+| 1318 | Furusato, Hiroshi [JP] | 9 |  |  |
+| 1319 | Watanabe, Kouhei 8114 [JP] | 9 |  |  |
+| 1320 | Maruyama, Yuichiro [JP] | 9 |  |  |
+| 1321 | Hamada, Kouji [JP] | 9 |  |  |
+| 1322 | Kokubu, Yusuke [JP] | 9 |  |  |
+| 1323 | Yao, Zile [CN] | 9 |  |  |
+| 1324 | Yamada, Yoshiaki [JP] | 9 |  |  |
+| 1325 | Tomita, Ryutaro [JP] | 9 |  |  |
+| 1326 | Okamoto, Ichiro [JP] | 9 |  |  |
+| 1327 | Imai, Kenta [JP] | 9 |  |  |
+| 1328 | Ooura, Masaki [JP] | 9 |  |  |
+| 1329 | Maeda, Kouki [JP] | 9 |  |  |
+| 1330 | Hongrui, Yin [CN] | 9 |  |  |
+| 1331 | Takahashi, Taro [JP] | 9 |  |  |
+| 1332 | Hori, Masayuki [JP] | 9 |  |  |
+| 1333 | Ookawa, Takurou [JP] | 9 |  |  |
+| 1334 | Suzuki, Ryuuichi [JP] | 9 |  |  |
+| 1335 | Hayashi, Masayori [JP] | 9 |  |  |
+| 1336 | Shiina, Kento [JP] | 9 |  |  |
+| 1337 | Inoue, Hiromichi [JP] | 9 |  |  |
+| 1338 | Yasu, Ryotaro [JP] | 9 |  |  |
+| 1339 | Kurosawa, Yuuki [JP] | 9 |  |  |
+| 1340 | Okada, Naoya [JP] | 9 |  |  |
+| 1341 | Iso, Toshiharu [JP] | 9 |  |  |
+| 1342 | Maeda, Takashi [JP] | 9 |  |  |
+| 1343 | Nakamura, Kouki 3727 [JP] | 9 |  |  |
+| 1344 | Guan, Thomas Zhennan [US] | 9 |  |  |
+| 1345 | Oomori, Shouhei [JP] | 9 |  |  |
+| 1346 | Kubota, Sin [JP] | 9 |  |  |
+| 1347 | Shinoda, Akito [JP] | 9 |  |  |
+| 1348 | Lyu, Yan De [TW] | 9 |  |  |
+| 1349 | Ohashi, Ryo [JP] | 9 |  |  |
+| 1350 | Kaneko, Hiroki [JP] | 9 |  |  |
+| 1351 | Ando, Akira [JP] | 9 |  |  |
+| 1352 | Takaizumi, Yousuke [JP] | 9 |  |  |
+| 1353 | Takaoka, Yusuke [JP] | 9 |  |  |
+| 1354 | Tsuchiya, Hideaki [JP] | 9 |  |  |
+| 1355 | Katabira, Shoji [JP] | 9 |  |  |
+| 1356 | Huang, Jinghao [CN] | 9 |  |  |
+| 1357 | Nakamoto, Naoki [JP] | 9 |  |  |
+| 1358 | Funamoto, Yuki [JP] | 9 |  |  |
+| 1359 | Iwaki, Ryota [JP] | 9 |  |  |
+| 1360 | Takamura, Morihiko [JP] | 9 |  |  |
+| 1361 | Koizumi, Yuma [JP] | 9 |  |  |
+| 1362 | Wada, Takahide [JP] | 9 |  |  |
+| 1363 | Umehara, Masashi [JP] | 9 |  |  |
+| 1364 | Makino, Yuuhei [JP] | 9 |  |  |
+| 1365 | Kokura, Hironori [JP] | 9 |  |  |
+| 1366 | Kojima, Yukitaka [JP] | 9 |  |  |
+| 1367 | Hagiwara, Yuichi [JP] | 9 |  |  |
+| 1368 | Sakaino, Yuta [JP] | 9 |  |  |
+| 1369 | Taniguchi, Reo [JP] | 9 |  |  |
+| 1370 | Furusawa, Tsukasa [JP] | 9 |  |  |
+| 1371 | Noge, Hayata [JP] | 9 |  |  |
+| 1372 | Jason, Chew [MY] | 9 |  |  |
+| 1373 | Kanayama, Ryo [JP] | 9 |  |  |
+| 1374 | Kajiwara, Shou [JP] | 9 |  |  |
+| 1375 | Kondou, Masaki [JP] | 9 |  |  |
+| 1376 | Sato, Takamasa [JP] | 9 |  |  |
+| 1377 | Oda, Keigo [JP] | 9 |  |  |
+| 1378 | Tomita, Kei [JP] | 9 |  |  |
+| 1379 | Ohota, Nobuyuki [JP] | 9 |  |  |
+| 1380 | Fujimaki, Satoshi [JP] | 9 |  |  |
+| 1381 | Hiyoshi, Daisuke [JP] | 9 |  |  |
+| 1382 | Hosaka, Yoshiteru [JP] | 9 |  |  |
+| 1383 | Kusanagi, Tatsuya [JP] | 9 |  |  |
+| 1384 | Sakurabayashi, Gaku [JP] | 9 |  |  |
+| 1385 | Morishita, Mizuki [JP] | 9 |  |  |
+| 1386 | Fujii, Yusaku [JP] | 9 |  |  |
+| 1387 | Urano, Shota [JP] | 9 |  |  |
+| 1388 | Takahashi, Sohei [JP] | 9 |  |  |
+| 1389 | Ishizaki, Ryousuke [JP] | 9 |  |  |
+| 1390 | Mizoguchi, Yuya [JP] | 9 |  |  |
+| 1391 | Igarashi, Ryosuke [JP] | 9 |  |  |
+| 1392 | Songwei, Wu [US] | 9 |  |  |
+| 1393 | Orihara, Jun [JP] | 9 |  |  |
+| 1394 | Tudsuki, Makoto [JP] | 9 |  |  |
+| 1395 | Togawa, Syuuichi [JP] | 9 |  |  |
+| 1396 | Onizuka, Hiroshi [JP] | 9 |  |  |
+| 1397 | Watanabe, Ryuji [JP] | 9 |  |  |
+| 1398 | Hamasaki, Masayuki [JP] | 9 |  |  |
+| 1399 | Katou, Shin'Ya [JP] | 9 |  |  |
+| 1400 | Ii, Tatsuya [JP] | 9 |  |  |
+| 1401 | Oomura, Takashi [JP] | 9 |  |  |
+| 1402 | Yoshimura, Naoto [JP] | 9 |  |  |
+| 1403 | Miyoshi, Hiroki [JP] | 9 |  |  |
+| 1404 | Muraoka, Hideaki [JP] | 9 |  |  |
+| 1405 | Morita, Yo [JP] | 9 |  |  |
+| 1406 | Konishi, Akio [JP] | 9 |  |  |
+| 1407 | Hato, Ryo [JP] | 9 |  |  |
+| 1408 | Yamauchi, Toru [JP] | 9 |  |  |
+| 1409 | Ishikawa, Naoki [JP] | 9 |  |  |
+| 1410 | Shimizu, Yusuke7300 [JP] | 9 |  |  |
+| 1411 | Toyota, Kazuhisa [JP] | 9 |  |  |
+| 1412 | Ibuki, Teruya [JP] | 9 |  |  |
+| 1413 | Ogawa, Takashi [JP] | 9 |  |  |
+| 1414 | Kondou, Masaru [JP] | 9 |  |  |
+| 1415 | Koga, Ryuji [JP] | 9 |  |  |
+| 1416 | Yonemura, Tomomi [JP] | 9 |  |  |
+| 1417 | Kawano, Toshifumi [JP] | 9 |  |  |
+| 1418 | Yamada, Masato [JP] | 9 |  |  |
+| 1419 | Higashida, Tetsuaki [JP] | 9 |  |  |
+| 1420 | Hoshi, Masaru [JP] | 9 |  |  |
+| 1421 | Matsuo, Shuto [JP] | 9 |  |  |
+| 1422 | Suzuki, Nobuya [JP] | 9 |  |  |
+| 1423 | Goto, Atsushi [JP] | 9 |  |  |
+| 1424 | Choi, Jaekyoo [ZA] | 9 |  |  |
+| 1425 | Hishida, Akinori [JP] | 9 |  |  |
+| 1426 | Arakaki, Yuuichi [JP] | 9 |  |  |
+| 1427 | Yoshida, Kei [JP] | 9 |  |  |
+| 1428 | Ehara, Makoto [JP] | 9 |  |  |
+| 1429 | Mitsunaga, Yuuki [JP] | 9 |  |  |
+| 1430 | Sizuku, Tomoya [JP] | 9 |  |  |
+| 1431 | Matubayashi, Kazunori [JP] | 9 |  |  |
+| 1432 | Sekiya, Haruki [JP] | 9 |  |  |
+| 1433 | Hoshino, Yohei [JP] | 9 |  |  |
+| 1434 | Watanabe, Masao [JP] | 9 |  |  |
+| 1435 | Arimatsu, Naoto [JP] | 9 |  |  |
+| 1436 | Hamasaki, Yuzuru [JP] | 9 |  |  |
+| 1437 | Matsumura, Takehiko [JP] | 9 |  |  |
+| 1438 | Ueno, Hideto [JP] | 9 |  |  |
+| 1439 | Ishikawa, Takuma 0419 [JP] | 9 |  |  |
+| 1440 | Sano, Satoki [JP] | 9 |  |  |
+| 1441 | Soda, Toshiyuki [JP] | 9 |  |  |
+| 1442 | Miyawaki, Wataru [JP] | 9 |  |  |
+| 1443 | Sakuma, Toshimitsu [JP] | 9 |  |  |
+| 1444 | Sakai, Takashi [JP] | 9 |  |  |
+| 1445 | Yuda, Yukihiro [JP] | 9 |  |  |
+| 1446 | Yajima, Yasunori [JP] | 9 |  |  |
+| 1447 | Ichikawa, Takayoshi [JP] | 9 |  |  |
+| 1448 | Yamaguchi, Hiroshi 2043 [JP] | 9 |  |  |
+| 1449 | Chao, Weiju [TW] | 9 |  |  |
+| 1450 | Kanehira, Yuma [JP] | 9 |  |  |
+| 1451 | Ogino, Genki [JP] | 9 |  |  |
+| 1452 | Iwahashi, Hiroki [JP] | 9 |  |  |
+| 1453 | Nishimaki, Hiroki [JP] | 9 |  |  |
+| 1454 | Ogyu, Yoshiyuki [JP] | 9 |  |  |
+| 1455 | Taniguchi, Hironobu [JP] | 9 |  |  |
+| 1456 | Kitsunezuka, Masanori [JP] | 9 |  |  |
+| 1457 | Hara, Yusuke 8993 [JP] | 9 |  |  |
+| 1458 | Yoshizawa, Kaoru [JP] | 9 |  |  |
+| 1459 | Hiraoka, Shigenori [JP] | 9 |  |  |
+| 1460 | Seki, Takashi [JP] | 9 |  |  |
+| 1461 | Okada, Takuya 8592 [JP] | 9 |  |  |
+| 1462 | Kozai, Tomonori [JP] | 9 |  |  |
+| 1463 | Oikawa, Takaaki [JP] | 9 |  |  |
+| 1464 | Ueda, Kazuki [JP] | 9 |  |  |
+| 1465 | Ito, Sho [JP] | 9 |  |  |
+| 1466 | Okada, Wataru [JP] | 9 |  |  |
+| 1467 | Takahashi, Toshiro [JP] | 9 |  |  |
+| 1468 | Sato, Sho [JP] | 9 |  |  |
+| 1469 | Arakawa, Yasuaki [JP] | 9 |  |  |
+| 1470 | Kondo, Shogo [JP] | 9 |  |  |
+| 1471 | Katsuragi, Atsushi [JP] | 9 |  |  |
+| 1472 | Hirasawa, Tatsuya [JP] | 9 |  |  |
+| 1473 | Oshimi, Akira [JP] | 9 |  |  |
+| 1474 | Kimura, Tomonori [JP] | 9 |  |  |
+| 1475 | Itoyanagi, Junji [JP] | 9 |  |  |
+| 1476 | Iimura, Yuta [JP] | 9 |  |  |
+| 1477 | Tanaka, Makoto 3204 [JP] | 9 |  |  |
+| 1478 | Tanaka, Makoto 1460 [JP] | 9 |  |  |
+| 1479 | Takiguchi, Yuuta [JP] | 9 |  |  |
+| 1480 | Ishida, Ryuichiro [JP] | 9 |  |  |
+| 1481 | Jitsukawa, Naofumi [JP] | 9 |  |  |
+| 1482 | Saito, Eisuke [JP] | 9 |  |  |
+| 1483 | Ota, Masahito [JP] | 9 |  |  |
+| 1484 | Chiba, Tatsuya [JP] | 9 |  |  |
+| 1485 | Ikeyama, Kei [JP] | 9 |  |  |
+| 1486 | Ishigami, Nobuhide [JP] | 9 |  |  |
+| 1487 | Suezawa, Takumi [JP] | 9 |  |  |
+| 1488 | Kikuchi, Yuuji [JP] | 9 |  |  |
+| 1489 | Asaki, Yuta [JP] | 9 |  |  |
+| 1490 | Nishimoto, Takuya [JP] | 9 |  |  |
+| 1491 | Tajitsu, Yoshiyuki [JP] | 9 |  |  |
+| 1492 | Nakamura, Kosuke [JP] | 9 |  |  |
+| 1493 | Poyu, Chuang [TW] | 9 |  |  |
+| 1494 | Mikami, Noriaki [JP] | 9 |  |  |
+| 1495 | Watanabe, Kouhei 7696 [JP] | 9 |  |  |
+| 1496 | Katada, Masato [JP] | 9 |  |  |
+| 1497 | Fujimoto, Takashi [JP] | 9 |  |  |
+| 1498 | Hamaguchi, Shoji [JP] | 9 |  |  |
+| 1499 | Demura, Mitsuhiro [JP] | 9 |  |  |
+| 1500 | Ohki, Tatsuhiko [JP] | 9 |  |  |
+| 1501 | Shimazaki, Taichi [JP] | 9 |  |  |
+| 1502 | Matsuda, Takuya [JP] | 9 |  |  |
+| 1503 | Sasaki, Osamu [JP] | 9 |  |  |
+| 1504 | Tinen, Kousuke [JP] | 9 |  |  |
+| 1505 | Okamura, Marei [JP] | 9 |  |  |
+| 1506 | Ishiwata, Kouichi [JP] | 9 |  |  |
+| 1507 | Oda, Katsumi [JP] | 9 |  |  |
+| 1508 | Suzuki, Kazuhiro [JP] | 9 |  |  |
+| 1509 | Okajima, Masahiro [JP] | 9 |  |  |
+| 1510 | Moriya, Taiki [JP] | 9 |  |  |
+| 1511 | Iwabuchi, So [JP] | 9 |  |  |
+| 1512 | Ishii, Asuha [JP] | 9 |  |  |
+| 1513 | Akai, Yusuke [JP] | 9 |  |  |
+| 1514 | Chiba, Yuki [JP] | 9 |  |  |
+| 1515 | Suganuma, Katuhiro [JP] | 9 |  |  |
+| 1516 | Soma, Hiroyuki [JP] | 9 |  |  |
+| 1517 | Masuda, Iori [JP] | 9 |  |  |
+| 1518 | Satonaka, Kentarou [JP] | 9 |  |  |
+| 1519 | Muto, Takeshi [JP] | 9 |  |  |
+| 1520 | Takeshi, Sugawara [JP] | 9 |  |  |
+| 1521 | Uemura, Akira [JP] | 9 |  |  |
+| 1522 | Miyazaki, Ryunosuke [JP] | 9 |  |  |
+| 1523 | Nakamura, Akira [JP] | 9 |  |  |
+| 1524 | Nakajima, Shunichi [JP] | 9 |  |  |
+| 1525 | Itakura, Kenichi [JP] | 9 |  |  |
+| 1526 | Hori, Masataka [JP] | 9 |  |  |
+| 1527 | Mizoguchi, Satoru [JP] | 9 |  |  |
+| 1528 | Yabata, Kenichi [JP] | 9 |  |  |
+| 1529 | Sakai, Yasumasa [JP] | 9 |  |  |
+| 1530 | Yasunaka, Shinichi [JP] | 9 |  |  |
+| 1531 | Katagiri, Shinichi [JP] | 9 |  |  |
+| 1532 | Yokumiti, Jun [JP] | 9 |  |  |
+| 1533 | Shimono, Tetsuro [JP] | 9 |  |  |
+| 1534 | Nishina, Akihiko [JP] | 9 |  |  |
+| 1535 | Kawase, Takeshi [JP] | 9 |  |  |
+| 1536 | Suzuki, Takuya [JP] | 9 |  |  |
+| 1537 | Otsuka, Yohei [JP] | 9 |  |  |
+| 1538 | Yamanaka, Kousuke [JP] | 9 |  |  |
+| 1539 | Fuka, Sawai [JP] | 9 |  |  |
+| 1540 | Kisanuki, Akira [JP] | 9 |  |  |
+| 1541 | Tamaki, Akira [JP] | 9 |  |  |
+| 1542 | Yoshimoto, Takashi [JP] | 9 |  |  |
+| 1543 | Atsuji, Makoto [JP] | 9 |  |  |
+| 1544 | Hirano, Mikita [JP] | 9 |  |  |
+| 1545 | Sonezaki, Tsutomu [JP] | 9 |  |  |
+| 1546 | Tazawa, Takatoshi [JP] | 9 |  |  |
+| 1547 | Shiina, Daisuke [JP] | 9 |  |  |
+| 1548 | Kozu, Yu [JP] | 9 |  |  |
+| 1549 | Shimura, Yasuhiko [JP] | 9 |  |  |
+| 1550 | Hatanaka, Natsuki [JP] | 9 |  |  |
+| 1551 | Matsuzaki, Akira [JP] | 9 |  |  |
+| 1552 | Sasahara, Takuya [JP] | 9 |  |  |
+| 1553 | Urase, Ryosuke [JP] | 9 |  |  |
+| 1554 | Wakabayashi, Makoto [JP] | 9 |  |  |
+| 1555 | Oshima, Keisuke [JP] | 9 |  |  |
+| 1556 | Fukutani, Mitumasa [JP] | 9 |  |  |
+| 1557 | Yamamoto, Takayuki [JP] | 9 |  |  |
+| 1558 | Kanai, Makoto [JP] | 9 |  |  |
+| 1559 | Kudo, Amiru [JP] | 9 |  |  |
+| 1560 | Takasugi, Tomoki [JP] | 9 |  |  |
+| 1561 | Iijima, Satoshi [JP] | 9 |  |  |
+| 1562 | Akimoto, Daichi [JP] | 9 |  |  |
+| 1563 | Usuzawa, Yuuki [JP] | 9 |  |  |
+| 1564 | Takada, Kazuaki [JP] | 9 |  |  |
+| 1565 | Ooneda, Yoshihiro [JP] | 9 |  |  |
+| 1566 | Itazu, Boram [JP] | 9 |  |  |
+| 1567 | Yoon, Soohan [JP] | 9 |  |  |
+| 1568 | Kawano, Takahiro [JP] | 9 |  |  |
+| 1569 | Narumi, Masaru [JP] | 9 |  |  |
+| 1570 | Yamanouchi, Takanori [JP] | 9 |  |  |
+| 1571 | Isoda, Tetsutaro [JP] | 9 |  |  |
+| 1572 | Josefine, Goebel [DE] | 9 |  |  |
+| 1573 | Tsuchida, Masahiro [JP] | 9 |  |  |
+| 1574 | Matsui, Hideyuki [JP] | 9 |  |  |
+| 1575 | Yonezawa, Takuya [JP] | 9 |  |  |
+| 1576 | Nakamichi, Yuko [JP] | 9 |  |  |
+| 1577 | Shimizu, Yousuke [JP] | 9 |  |  |
+| 1578 | Miyashita, Hiroaki [JP] | 9 |  |  |
+| 1579 | Seo, Noboru [JP] | 9 |  |  |
+| 1580 | Danjo, Hiroyuki [JP] | 9 |  |  |
+| 1581 | Sugiyama, Taichiro [JP] | 9 |  |  |
+| 1582 | Tanaka, Tomonori [JP] | 9 |  |  |
+| 1583 | Noguchi, Masahiko [JP] | 9 |  |  |
+| 1584 | Ishii, Hayato [JP] | 9 |  |  |
+| 1585 | Yoshida, Kazutaka [JP] | 9 |  |  |
+| 1586 | Ono, Katuya [JP] | 9 |  |  |
+| 1587 | Ichisugi, Shingo [JP] | 9 |  |  |
+| 1588 | Ito, Keijiro [JP] | 9 |  |  |
+| 1589 | Takata, Mutsumu [JP] | 9 |  |  |
+| 1590 | Tanaka, Hiroto [JP] | 9 |  |  |
+| 1591 | Aoki, Takuyuki [JP] | 9 |  |  |
+| 1592 | Hirayama, Atsushi [JP] | 9 |  |  |
+| 1593 | Saijo, Yuichi [JP] | 9 |  |  |
+| 1594 | Tedori, Kota [JP] | 9 |  |  |
+| 1595 | Nakajima, Masato [JP] | 9 |  |  |
+| 1596 | Kiguchi, Tokiko [JP] | 9 |  |  |
+| 1597 | Nishiguchi, Yoshinori [JP] | 9 |  |  |
+| 1598 | Murahata, Hiroyuki [JP] | 9 |  |  |
+| 1599 | Hasebe, Sho [JP] | 9 |  |  |
+| 1600 | Takeuchi, Kento [JP] | 9 |  |  |
+| 1601 | Miyamoto, Naoki [JP] | 9 |  |  |
+| 1602 | Suguro, Takuya [JP] | 9 |  |  |
+| 1603 | Matsuya, Takahiro [JP] | 9 |  |  |
+| 1604 | Yoshikawa, Takuma [JP] | 9 |  |  |
+| 1605 | Masuno, Ryousuke [JP] | 9 |  |  |
+| 1606 | Shiosaki, Tatsuya [JP] | 9 |  |  |
+| 1607 | Akase, Kousuke [JP] | 9 |  |  |
+| 1608 | Iwabuchi, Tomohiro [JP] | 9 |  |  |
+| 1609 | Huang, Mu Kai [TW] | 9 |  |  |
+| 1610 | Suzuki, Kento [JP] | 9 |  |  |
+| 1611 | Kikuchi, Takashi0625 [JP] | 9 |  |  |
+| 1612 | Sato, Yuki [JP] | 9 |  |  |
+| 1613 | Morishita, Yoshihisa [JP] | 9 |  |  |
+| 1614 | Shimada, Kento [JP] | 9 |  |  |
+| 1615 | Suzuki, Masahiro [JP] | 9 |  |  |
+| 1616 | Komine, Syunsuke [JP] | 9 |  |  |
+| 1617 | Hiroya, Sekine [JP] | 9 |  |  |
+| 1618 | Sato, Keisuke [JP] | 9 |  |  |
+| 1619 | Kobayashi, Hirotaka [JP] | 9 |  |  |
+| 1620 | Matsushima, Tsutomu [JP] | 9 |  |  |
+| 1621 | Koike, Tomoyuki [JP] | 9 |  |  |
+| 1622 | Hara, Katsuaki [JP] | 9 |  |  |
+| 1623 | Suzuki, Takahiro [JP] | 9 |  |  |
+| 1624 | Nomura, Hiroshi [JP] | 9 |  |  |
+| 1625 | Mimura, Yukihiro [JP] | 9 |  |  |
+| 1626 | Yamaguchi, Yuuichi [JP] | 9 |  |  |
+| 1627 | Suzuki, Yusuke [JP] | 9 |  |  |
+| 1628 | Monzen, Hidetake [JP] | 9 |  |  |
+| 1629 | Kiriake, Sho [JP] | 9 |  |  |
+| 1630 | Toyohara, Eisuke [JP] | 9 |  |  |
+| 1631 | Suzuki, Yuta [JP] | 9 |  |  |
+| 1632 | Iwamura, Yusuke [JP] | 9 |  |  |
+| 1633 | Soyama, Tomohiro [JP] | 9 |  |  |
+| 1634 | Arai, Ikki [JP] | 9 |  |  |
+| 1635 | Seki, Hirotaka [JP] | 9 |  |  |
+| 1636 | Hozumi, Yuji [JP] | 9 |  |  |
+| 1637 | Matsumoto, Akihiro [JP] | 9 |  |  |
+| 1638 | Kitajima, Hiroyasu [JP] | 9 |  |  |
+| 1639 | Kazuki, Rika [JP] | 9 |  |  |
+| 1640 | Hoshi, Kazumi [JP] | 9 |  |  |
+| 1641 | Kubo, Sachiko [JP] | 9 |  |  |
+| 1642 | Furuya, Satoshi [JP] | 9 |  |  |
+| 1643 | Kubota, Kenta [JP] | 9 |  |  |
+| 1644 | Takahashi, Koji [JP] | 9 |  |  |
+| 1645 | Shiraishi, Shinji [JP] | 9 |  |  |
+| 1646 | Homma, Akira [JP] | 9 |  |  |
+| 1647 | Naoshima, Jun [JP] | 9 |  |  |
+| 1648 | Takahashi, Akira [JP] | 9 |  |  |
+| 1649 | Tatebe, Takayuki [JP] | 9 |  |  |
+| 1650 | Yamamoto, Yuya [JP] | 9 |  |  |
+| 1651 | Odachi, Takuhei [JP] | 9 |  |  |
+| 1652 | Nitan, Naohiro [JP] | 9 |  |  |
+| 1653 | Takenaka, Susumu [JP] | 9 |  |  |
+| 1654 | Guan Wen, Wang [TW] | 9 |  |  |
+| 1655 | Saito, Ryo [JP] | 9 |  |  |
+| 1656 | Nitta, Yuuki [JP] | 9 |  |  |
+| 1657 | Sano, Seita [JP] | 9 |  |  |
+| 1658 | Miura, Kazuki [JP] | 9 |  |  |
+| 1659 | Tomiyama, Shin [JP] | 9 |  |  |
+| 1660 | Kagoi, Yuki [JP] | 9 |  |  |
+| 1661 | Hata, Tomonori [JP] | 9 |  |  |
+| 1662 | Kawamura, Eiki [JP] | 9 |  |  |
+| 1663 | Okita, Akito [JP] | 9 |  |  |
+| 1664 | Eto, Junpei [JP] | 9 |  |  |
+| 1665 | Yoshihara, Shinji [JP] | 7 |  |  |
+| 1666 | Izushi, Kazuya [JP] | 7 |  |  |
+| 1667 | Tsukamoto, Takahiro [JP] | 7 |  |  |
+| 1668 | Tanaka, Kenichiro [JP] | 7 |  |  |
+| 1669 | Suzuki, Takehiro [JP] | 7 |  |  |
+| 1670 | Ma, Yiyuan [CN] | 6 |  |  |
+| 1671 | Iwasaki, Shun [JP] | 6 |  |  |
+| 1672 | Shirakawa, Hiroaki [JP] | 6 |  |  |
+| 1673 | Handa, Takuya [JP] | 6 |  |  |
+| 1674 | Yada, Kazuki [JP] | 6 |  |  |
+| 1675 | Syed, Zan [US] | 6 |  |  |
+| 1676 | Yamada, Masaki [JP] | 6 |  |  |
+| 1677 | Adachi, Ryousuke [JP] | 6 |  |  |
+| 1678 | Takahashi, Kazuya [JP] | 6 |  |  |
+| 1679 | Maseguchi, Masashi [JP] | 6 |  |  |
+| 1680 | Nishizawa, Taichi [JP] | 6 |  |  |
+| 1681 | Hirayama, Rei [JP] | 6 |  |  |
+| 1682 | Yamada, Ryotaro [JP] | 6 |  |  |
+| 1683 | Li, Ang 4241 [CN] | 6 |  |  |
+| 1684 | Sato, Tatsuo [JP] | 6 |  |  |
+| 1685 | Sakai, Ryou [JP] | 6 |  |  |
+| 1686 | Banno, Kunihiko [JP] | 6 |  |  |
+| 1687 | Yamagishi, Hideaki [JP] | 6 |  |  |
+| 1688 | Mori, Fuminori [JP] | 6 |  |  |
+| 1689 | Ueda, Takao [JP] | 6 |  |  |
+| 1690 | Tanaka, Fumiya [JP] | 6 |  |  |
+| 1691 | Zhiyang, Zhang [CN] | 6 |  |  |
+| 1692 | Hayashi, Shouta [JP] | 6 |  |  |
+| 1693 | Higuchi, Jun [JP] | 6 |  |  |
+| 1694 | Maeda, Takayuki [JP] | 6 |  |  |
+| 1695 | Oguri, Kohei [JP] | 6 |  |  |
+| 1696 | Matsumoto, Keiichirou [JP] | 6 |  |  |
+| 1697 | Wada, Yuusaku [JP] | 6 |  |  |
+| 1698 | Kihara, Atsuki [JP] | 6 |  |  |
+| 1699 | Kosho, Tomoya [JP] | 6 |  |  |
+| 1700 | Kawai, Yoshihiro [JP] | 6 |  |  |
+| 1701 | Mori, Mizuki [JP] | 6 |  |  |
+| 1702 | Okuda, Masateru [JP] | 6 |  |  |
+| 1703 | Nose, Kouji [JP] | 6 |  |  |
+| 1704 | Kobayashi, Junya [JP] | 6 |  |  |
+| 1705 | Nishimura, Masaaki [JP] | 6 |  |  |
+| 1706 | Yucheng, Zhang [CN] | 6 |  |  |
+| 1707 | Endo, Hiroshi [JP] | 6 |  |  |
+| 1708 | Kawamorita, Yoshiyuki [JP] | 6 |  |  |
+| 1709 | Shinbo, Soutarou [JP] | 6 |  |  |
+| 1710 | Takakura, Shinichirou [JP] | 6 |  |  |
+| 1711 | Yoshimori, Sho [JP] | 6 |  |  |
+| 1712 | Davis, Theodore [CH] | 6 |  |  |
+| 1713 | Taniguchi, Yuusuke [JP] | 6 |  |  |
+| 1714 | Watarai, Kohei [JP] | 6 |  |  |
+| 1715 | Meguro, Masahiko [JP] | 6 |  |  |
+| 1716 | Okada, Tomofumi [JP] | 6 |  |  |
+| 1717 | Kawa, Hirokazu [JP] | 6 |  |  |
+| 1718 | Taru, Genki [JP] | 6 |  |  |
+| 1719 | Takashima, Ryouhei [JP] | 6 |  |  |
+| 1720 | Funami, Syun [JP] | 6 |  |  |
+| 1721 | Jiang, Yida [CN] | 6 |  |  |
+| 1722 | Sato, Naoki [JP] | 6 |  |  |
+| 1723 | Kawasaki, Hirotaka [JP] | 6 |  |  |
+| 1724 | Kouno, Toru [JP] | 6 |  |  |
+| 1725 | Noumi, Tomoaki [JP] | 6 |  |  |
+| 1726 | Takesue, Chikara [JP] | 6 |  |  |
+| 1727 | Kawamata, Daisuke [JP] | 6 |  |  |
+| 1728 | Hashizume, Yuuya [JP] | 6 |  |  |
+| 1729 | Okuyama, Sanshirou [JP] | 6 |  |  |
+| 1730 | Yamamoto, Masafumi [JP] | 6 |  |  |
+| 1731 | Tong, Xinyao [CN] | 6 |  |  |
+| 1732 | Okada, Koji [JP] | 6 |  |  |
+| 1733 | Niwa, Toshiharu [JP] | 6 |  |  |
+| 1734 | Travis, Compton [KR] | 6 |  |  |
+| 1735 | Yoneyama, Hiroshi [JP] | 6 |  |  |
+| 1736 | Sato, Kimihiko [JP] | 6 |  |  |
+| 1737 | Saijo, Hayato [JP] | 6 |  |  |
+| 1738 | Yoshizawa, Kohei [JP] | 6 |  |  |
+| 1739 | Fujita, Toshitake [JP] | 6 |  |  |
+| 1740 | Sugiyama, Takashi [JP] | 6 |  |  |
+| 1741 | Kurihara, Mitsuaki [JP] | 6 |  |  |
+| 1742 | Akase, Daisuke [JP] | 6 |  |  |
+| 1743 | Yamaguchi, Hiroshi 9054 [JP] | 6 |  |  |
+| 1744 | Kawasaki, Yuta [JP] | 6 |  |  |
+| 1745 | Okada, Masakazu [JP] | 6 |  |  |
+| 1746 | Nomiya, Yohei [JP] | 6 |  |  |
+| 1747 | Murakami, Souta [JP] | 6 |  |  |
+| 1748 | Tamura, Youhei [JP] | 6 |  |  |
+| 1749 | Hasegawa, Yuto [JP] | 6 |  |  |
+| 1750 | Terada, Syuuhei [JP] | 6 |  |  |
+| 1751 | Sano, Kimiaki [JP] | 6 |  |  |
+| 1752 | Yamamoto, Takuto [JP] | 6 |  |  |
+| 1753 | Yamada, Sintarou [JP] | 6 |  |  |
+| 1754 | Hirano, Satohiro [JP] | 6 |  |  |
+| 1755 | Nishimura, Koichi [JP] | 6 |  |  |
+| 1756 | Nakao, Motohiko [JP] | 6 |  |  |
+| 1757 | Yamada, Mitsuhiro [JP] | 6 |  |  |
+| 1758 | Sakamoto, Junichi [JP] | 6 |  |  |
+| 1759 | Kohagura, Masataka [JP] | 6 |  |  |
+| 1760 | Fujimura, Kyuta [JP] | 6 |  |  |
+| 1761 | Kobayashi, Daisuke [JP] | 6 |  |  |
+| 1762 | Tanano, Takayuki [JP] | 6 |  |  |
+| 1763 | Yokoide, Yuuta [JP] | 6 |  |  |
+| 1764 | Sakaguchi, Taiti [JP] | 6 |  |  |
+| 1765 | Takahashi, Shunsuke [JP] | 6 |  |  |
+| 1766 | Nitta, Nobuhiro [JP] | 6 |  |  |
+| 1767 | Miyahara, Shun [JP] | 6 |  |  |
+| 1768 | Ishikawa, Shigeru [JP] | 6 |  |  |
+| 1769 | Chao, Xiang [CN] | 6 |  |  |
+| 1770 | Kumada, Hiroki [JP] | 6 |  |  |
+| 1771 | Liao, Po-Tao [TW] | 6 |  |  |
+| 1772 | Mikami, Takaya [JP] | 6 |  |  |
+| 1773 | Nakayama, Yasuaki [JP] | 6 |  |  |
+| 1774 | Satou, Naoki7909 [JP] | 6 |  |  |
+| 1775 | Anzai, Sachio [JP] | 6 |  |  |
+| 1776 | Tani, Chiharu [JP] | 6 |  |  |
+| 1777 | Sasaki, Shin [JP] | 6 |  |  |
+| 1778 | Kai, Masatoshi [JP] | 6 |  |  |
+| 1779 | Tanaka, Jun'Ichi [JP] | 6 |  |  |
+| 1780 | Masuda, Sho [JP] | 6 |  |  |
+| 1781 | Ootake, Masanori [JP] | 6 |  |  |
+| 1782 | Yoshii, Takayuki [JP] | 6 |  |  |
+| 1783 | Inoue, Ojiro [JP] | 6 |  |  |
+| 1784 | Tsutsumi, Yukihiro [JP] | 6 |  |  |
+| 1785 | Fukuda, Yuuki [JP] | 6 |  |  |
+| 1786 | Ito, Tomoya [JP] | 6 |  |  |
+| 1787 | Ichikawa, Makoto [JP] | 6 |  |  |
+| 1788 | Satou, Kouichirou [JP] | 6 |  |  |
+| 1789 | Hayata, Akira [JP] | 6 |  |  |
+| 1790 | Tanaka, Hironori [JP] | 6 |  |  |
+| 1791 | Uchida, Satoru [JP] | 6 |  |  |
+| 1792 | Tanaka, Keita [JP] | 6 |  |  |
+| 1793 | Tanaka, Shun [JP] | 6 |  |  |
+| 1794 | Yamamoto, Keiichi [JP] | 6 |  |  |
+| 1795 | Okumura, Takaaki [JP] | 6 |  |  |
+| 1796 | Hayato, Yunoki [JP] | 6 |  |  |
+| 1797 | Oikawa, Toshinori [JP] | 6 |  |  |
+| 1798 | Yamazaki, Masaomi [JP] | 6 |  |  |
+| 1799 | Mikami, Wataru [JP] | 6 |  |  |
+| 1800 | Onoue, Masanobu [JP] | 6 |  |  |
+| 1801 | Makino, Takahito [JP] | 6 |  |  |
+| 1802 | Kurusu, Kazuki [JP] | 6 |  |  |
+| 1803 | Ogino, Hiroki [JP] | 6 |  |  |
+| 1804 | Uchino, Jun [JP] | 6 |  |  |
+| 1805 | Aizawa, Katsuyuki [JP] | 6 |  |  |
+| 1806 | Miura, Daichi [JP] | 6 |  |  |
+| 1807 | Nishikawa, Rion [JP] | 6 |  |  |
+| 1808 | Kimura, Kosuke [JP] | 6 |  |  |
+| 1809 | Shinohara, Gen [JP] | 6 |  |  |
+| 1810 | Fukuyama, Tamotsu [JP] | 6 |  |  |
+| 1811 | Ito, Shintaro [JP] | 6 |  |  |
+| 1812 | Kojima, Yuki [JP] | 6 |  |  |
+| 1813 | Nishiyama, Takashi [JP] | 6 |  |  |
+| 1814 | Kodera, Yasunori [JP] | 6 |  |  |
+| 1815 | Jindalertudomdee, Jira [TH] | 6 |  |  |
+| 1816 | Takeichi, Kengo [JP] | 6 |  |  |
+| 1817 | Furihara, Kazuki [JP] | 6 |  |  |
+| 1818 | Nakaizumi, Kazuya [JP] | 6 |  |  |
+| 1819 | Nakamura, Kota [JP] | 6 |  |  |
+| 1820 | Hirata, Keisuke [JP] | 6 |  |  |
+| 1821 | Kadota, Shinichi [JP] | 6 |  |  |
+| 1822 | Sakai, Arata [JP] | 6 |  |  |
+| 1823 | Partanen, Leo [FI] | 6 |  |  |
+| 1824 | Shimizu, Hajime [JP] | 6 |  |  |
+| 1825 | Imaoka, Shouichi [JP] | 6 |  |  |
+| 1826 | Okada, Keita [JP] | 6 |  |  |
+| 1827 | Sakamoto, Ikki [JP] | 6 |  |  |
+| 1828 | Ichihara, Daisuke [JP] | 6 |  |  |
+| 1829 | Senbokuya, Hikaru [JP] | 6 |  |  |
+| 1830 | Miyaguchi, Hiroki [JP] | 6 |  |  |
+| 1831 | Ozawa, Kei [JP] | 6 |  |  |
+| 1832 | Takano, Masahiro [JP] | 6 |  |  |
+| 1833 | Kobayashi, Masahiro [JP] | 6 |  |  |
+| 1834 | Sasahara, Yuta [JP] | 6 |  |  |
+| 1835 | Nishihara, Masataka [JP] | 6 |  |  |
+| 1836 | Takakuwa, Akihiro [JP] | 6 |  |  |
+| 1837 | Anzai, Shintaro [JP] | 6 |  |  |
+| 1838 | Nagase, Yoshinobu [JP] | 6 |  |  |
+| 1839 | Koshiba, Norihiko [JP] | 6 |  |  |
+| 1840 | Okuda, Isao [JP] | 6 |  |  |
+| 1841 | Ohkuma, Naoki [JP] | 6 |  |  |
+| 1842 | Izumisawa, Ryo [JP] | 6 |  |  |
+| 1843 | Suzuki, Issei [JP] | 6 |  |  |
+| 1844 | Eric, Tee [MY] | 6 |  |  |
+| 1845 | Usuki, Goichi [JP] | 6 |  |  |
+| 1846 | Hamada, Junji [JP] | 6 |  |  |
+| 1847 | Qian, Liu [AU] | 6 |  |  |
+| 1848 | Satou, Naota [JP] | 6 |  |  |
+| 1849 | Ichimura, Yuji [JP] | 6 |  |  |
+| 1850 | Tsunoda, Satoshi [JP] | 6 |  |  |
+| 1851 | Ishikawa, Akihumi [JP] | 6 |  |  |
+| 1852 | Okuhara, Azumi [JP] | 6 |  |  |
+| 1853 | Fujita, Osamu [JP] | 6 |  |  |
+| 1854 | Yu, Sun [CN] | 6 |  |  |
+| 1855 | Hasegawa, Tatsuya [JP] | 6 |  |  |
+| 1856 | Kayano, Youhei [JP] | 6 |  |  |
+| 1857 | Kusakabe, Yu [JP] | 6 |  |  |
+| 1858 | Kawabata, Sho [JP] | 6 |  |  |
+| 1859 | Ito, Wataru [JP] | 6 |  |  |
+| 1860 | Gertjan, Lucas [JP] | 6 |  |  |
+| 1861 | Kazuyoshi, Nakade [JP] | 6 |  |  |
+| 1862 | Katayama, Satoru [JP] | 6 |  |  |
+| 1863 | Watanabe, Akira [JP] | 6 |  |  |
+| 1864 | Kawada, Hiroyuki [JP] | 6 |  |  |
+| 1865 | Odagiri, Yousuke [JP] | 6 |  |  |
+| 1866 | Aida, Tomomu [JP] | 6 |  |  |
+| 1867 | Takagi, Hiroki [JP] | 6 |  |  |
+| 1868 | Musashi, Yutaka [JP] | 6 |  |  |
+| 1869 | Aota, Hidekazu [JP] | 6 |  |  |
+| 1870 | Yamada, Syuusuke [JP] | 6 |  |  |
+| 1871 | Nitsu, Shunsuke [JP] | 6 |  |  |
+| 1872 | Yokoshima, Tomoki [JP] | 6 |  |  |
+| 1873 | Matsumura, Hideaki [JP] | 6 |  |  |
+| 1874 | Tokeshi, Hiroki [JP] | 6 |  |  |
+| 1875 | Hasegawa, Tsuneyuki [JP] | 6 |  |  |
+| 1876 | Okamura, Kazuyoshi [JP] | 6 |  |  |
+| 1877 | Kan, Kensei [JP] | 6 |  |  |
+| 1878 | Kitamura, Kazuki [JP] | 6 |  |  |
+| 1879 | Aoki, Toshihito [JP] | 6 |  |  |
+| 1880 | Olaf, Makowski [DE] | 6 |  |  |
+| 1881 | Fujiya, Takahiro [JP] | 6 |  |  |
+| 1882 | Kitajima, Ryoko [JP] | 6 |  |  |
+| 1883 | Yamamoto, Keita [JP] | 6 |  |  |
+| 1884 | Konta, Takumi [JP] | 6 |  |  |
+| 1885 | Tanaka, Takuya [JP] | 6 |  |  |
+| 1886 | Narushima, Akira [JP] | 6 |  |  |
+| 1887 | Hirosawa, Yuuichirou [JP] | 6 |  |  |
+| 1888 | Akira, Shinkai [JP] | 6 |  |  |
+| 1889 | Rikiya, Daikai [JP] | 6 |  |  |
+| 1890 | Sayama, Tomonori [JP] | 6 |  |  |
+| 1891 | Oba, Akihiro [JP] | 6 |  |  |
+| 1892 | Kuriyama, Takuya [JP] | 6 |  |  |
+| 1893 | Yoshizawa, Masaru [JP] | 6 |  |  |
+| 1894 | Sonoda, Kenichi [JP] | 6 |  |  |
+| 1895 | Hayakawa, Sho [JP] | 6 |  |  |
+| 1896 | Nakano, Yukito [JP] | 6 |  |  |
+| 1897 | Yoza, Shinichiro [JP] | 6 |  |  |
+| 1898 | Kato, Wataru [JP] | 6 |  |  |
+| 1899 | Yamamoto, Yusuke [JP] | 6 |  |  |
+| 1900 | Shimura, Seiji [JP] | 6 |  |  |
+| 1901 | Hatashita, Hiroaki [JP] | 6 |  |  |
+| 1902 | Sakai, Tatsuhiro [JP] | 6 |  |  |
+| 1903 | Narushima, Yuusuke [JP] | 6 |  |  |
+| 1904 | Fujita, Tatsuya [JP] | 6 |  |  |
+| 1905 | Katou, Takeru [JP] | 6 |  |  |
+| 1906 | Okada, Hajime [JP] | 6 |  |  |
+| 1907 | Tingfei, Li [CN] | 6 |  |  |
+| 1908 | Uchida, Yuki [JP] | 6 |  |  |
+| 1909 | Sogo, Eiji [JP] | 6 |  |  |
+| 1910 | Miyabe, Teruya [JP] | 6 |  |  |
+| 1911 | Yanagawa, Tomohiro [JP] | 6 |  |  |
+| 1912 | Hara, Yusuke 0054 [JP] | 6 |  |  |
+| 1913 | Yoshihito, Inoue [JP] | 6 |  |  |
+| 1914 | Numata, Kou [JP] | 6 |  |  |
+| 1915 | Hirano, Kousaku [JP] | 6 |  |  |
+| 1916 | Masamoto, Hiromichi [JP] | 6 |  |  |
+| 1917 | Asahina, Takuya [JP] | 6 |  |  |
+| 1918 | Murayama, Kyohei [JP] | 6 |  |  |
+| 1919 | Taniguti, Yuu [JP] | 6 |  |  |
+| 1920 | Miura, Haku [JP] | 6 |  |  |
+| 1921 | Kosuge, Shogo [JP] | 6 |  |  |
+| 1922 | Suematsu, Ryo [JP] | 6 |  |  |
+| 1923 | Tomono, Naotake [JP] | 6 |  |  |
+| 1924 | Sugiyama, Wataru [JP] | 6 |  |  |
+| 1925 | Eda, Taichirou [JP] | 6 |  |  |
+| 1926 | Watanabe, Yuya0114 [JP] | 6 |  |  |
+| 1927 | Kondo, Yuki [JP] | 6 |  |  |
+| 1928 | Tanaka, Yuusaku [JP] | 6 |  |  |
+| 1929 | Konagai, Ryota [JP] | 6 |  |  |
+| 1930 | Ohashi, Gaku [JP] | 6 |  |  |
+| 1931 | Ogi, Hiroshi [JP] | 6 |  |  |
+| 1932 | Masuda, Tomohito [JP] | 6 |  |  |
+| 1933 | Maeda, Ryo [JP] | 6 |  |  |
+| 1934 | Hidaka, Takuya [JP] | 6 |  |  |
+| 1935 | Wakita, Tatsuki [JP] | 6 |  |  |
+| 1936 | Kurokawa, Yuuki [JP] | 6 |  |  |
+| 1937 | Kawajiri, Saho [JP] | 6 |  |  |
+| 1938 | Nagumo, Kazuya [JP] | 6 |  |  |
+| 1939 | Nakano, Satoshi [JP] | 6 |  |  |
+| 1940 | Takanohashi, Tatsuya [JP] | 6 |  |  |
+| 1941 | Doyama, Hayate [JP] | 6 |  |  |
+| 1942 | Noritake, Hiroto [JP] | 6 |  |  |
+| 1943 | Furuuchi, Yusuke [JP] | 6 |  |  |
+| 1944 | Mogaki, Masaharu [JP] | 6 |  |  |
+| 1945 | Takamura, Ryoma [JP] | 6 |  |  |
+| 1946 | Tanaka, Yuki [JP] | 6 |  |  |
+| 1947 | Takagi, Tubasa [JP] | 6 |  |  |
+| 1948 | Niikawa, Shouhei [JP] | 6 |  |  |
+| 1949 | Sano, Masayo [JP] | 6 |  |  |
+| 1950 | Nishi, Kohei [JP] | 6 |  |  |
+| 1951 | Nishimura, Hitoshi [JP] | 6 |  |  |
+| 1952 | Kokubun, Hiroshi [JP] | 6 |  |  |
+| 1953 | Shiiba, Yusei [JP] | 6 |  |  |
+| 1954 | Komori, Yuuya [JP] | 6 |  |  |
+| 1955 | Onishi, Yuya [JP] | 6 |  |  |
+| 1956 | Ohta, Shun [JP] | 6 |  |  |
+| 1957 | Nagao, Kengo [JP] | 6 |  |  |
+| 1958 | Iwata, Seiya [JP] | 6 |  |  |
+| 1959 | Ooi, Adrian [SG] | 6 |  |  |
+| 1960 | Okano, Toshiya [JP] | 6 |  |  |
+| 1961 | Murata, Shunya [JP] | 6 |  |  |
+| 1962 | Tanaka, Kimitaka [JP] | 6 |  |  |
+| 1963 | Takiguchi, Itsuki [JP] | 6 |  |  |
+| 1964 | Honda, Masaki [JP] | 6 |  |  |
+| 1965 | Takawashi, Kenji [JP] | 6 |  |  |
+| 1966 | Saeki, Tomoya [JP] | 6 |  |  |
+| 1967 | Katoh, Wataru [JP] | 6 |  |  |
+| 1968 | Ohara, Wataru [JP] | 6 |  |  |
+| 1969 | Sawachi, Shun [JP] | 6 |  |  |
+| 1970 | Yamakawa, Hiroaki [JP] | 6 |  |  |
+| 1971 | Uotsu, Atsushi [JP] | 6 |  |  |
+| 1972 | Satou, Kengo [JP] | 6 |  |  |
+| 1973 | Shimamura, Jumpei [JP] | 6 |  |  |
+| 1974 | Liu, Yi-Hsien [TW] | 6 |  |  |
+| 1975 | Iriki, Ryou [JP] | 6 |  |  |
+| 1976 | Sugiyama, Tomochika [JP] | 6 |  |  |
+| 1977 | Uchida, Tomoaki [JP] | 6 |  |  |
+| 1978 | Nagano, Keita [JP] | 6 |  |  |
+| 1979 | John, Colobong [US] | 6 |  |  |
+| 1980 | Nakano, Kengo [JP] | 6 |  |  |
+| 1981 | Matsuo, Yoshiyuki [JP] | 6 |  |  |
+| 1982 | Kamegawa, Kenta [JP] | 6 |  |  |
+| 1983 | Ozaki, Kei [JP] | 6 |  |  |
+| 1984 | Ishiguro, Satoshi 0631 [JP] | 6 |  |  |
+| 1985 | Harada, Toshiya [JP] | 6 |  |  |
+| 1986 | Nakamura, Ryouta [JP] | 6 |  |  |
+| 1987 | Tsunoda, Youtarou [JP] | 6 |  |  |
+| 1988 | Tamoto, Kei [JP] | 6 |  |  |
+| 1989 | Kamezawa, Yoshifumi [JP] | 6 |  |  |
+| 1990 | Saito, Tomoe [JP] | 6 |  |  |
+| 1991 | Kikuchi, Masashi [JP] | 6 |  |  |
+| 1992 | Seki, Manabu [JP] | 6 |  |  |
+| 1993 | Kanamura, Hiroyuki [JP] | 6 |  |  |
+| 1994 | Honjo, Kiyotaka [JP] | 6 |  |  |
+| 1995 | Tahara, Ippei [JP] | 6 |  |  |
+| 1996 | Muramatsu, Kunihiro [JP] | 6 |  |  |
+| 1997 | Mutou, Yoshinosuke [JP] | 6 |  |  |
+| 1998 | Fukushima, Yuuhei [JP] | 6 |  |  |
+| 1999 | Tanaka, Hidekazu [JP] | 6 |  |  |
+| 2000 | Endo, Takuya7968 [JP] | 6 |  |  |
+| 2001 | Nakamura, Kouki 9697 [JP] | 6 |  |  |
+| 2002 | Aoki, Masatugu [JP] | 6 |  |  |
+| 2003 | Hisasaka, Yuta [JP] | 6 |  |  |
+| 2004 | Yamazaki, Motohiro [JP] | 6 |  |  |
+| 2005 | Mori, Fumiya [JP] | 6 |  |  |
+| 2006 | Sato, Ryuji [JP] | 6 |  |  |
+| 2007 | Takeuchi, Hiroto [JP] | 6 |  |  |
+| 2008 | Mitsuyasu, Hidetoshi [JP] | 6 |  |  |
+| 2009 | Seki, Kentarou [JP] | 6 |  |  |
+| 2010 | Wang, Haotian [CN] | 6 |  |  |
+| 2011 | Van Cleef, David [JP] | 6 |  |  |
+| 2012 | Asai, Shin [JP] | 6 |  |  |
+| 2013 | Satou, Kenichi [JP] | 6 |  |  |
+| 2014 | Ogura, Sigeru [JP] | 6 |  |  |
+| 2015 | Ojima, Toshiaki [JP] | 6 |  |  |
+| 2016 | Otsubo, Yuma [JP] | 6 |  |  |
+| 2017 | Kageyama, Taiki [JP] | 6 |  |  |
+| 2018 | Shimadu, Naofumi [JP] | 6 |  |  |
+| 2019 | Noguchi, Masanao [JP] | 6 |  |  |
+| 2020 | Tuboi, Takuto [JP] | 6 |  |  |
+| 2021 | Oshimi, Takeshi [JP] | 6 |  |  |
+| 2022 | Ogsawara, Akira [JP] | 6 |  |  |
+| 2023 | Sasaki, Shun [JP] | 6 |  |  |
+| 2024 | Kitayama, Masaya [JP] | 6 |  |  |
+| 2025 | Itou, Ryouta [JP] | 6 |  |  |
+| 2026 | Mishina, Ryota [JP] | 6 |  |  |
+| 2027 | Matsumoto, Ryousuke [JP] | 6 |  |  |
+| 2028 | Sasaki, Ken [JP] | 6 |  |  |
+| 2029 | Utida, Koudai [JP] | 6 |  |  |
+| 2030 | Ogawa, Satoshi [JP] | 6 |  |  |
+| 2031 | Teshima, Hisanori [JP] | 6 |  |  |
+| 2032 | Tutui, Rintaro [JP] | 6 |  |  |
+| 2033 | Fujii, Mikiya [JP] | 6 |  |  |
+| 2034 | Shimizu, Hiroaki [JP] | 4 |  |  |
+| 2035 | Tanabe, Yuji [JP] | 4 |  |  |
+| 2036 | Hashiguchi, Ryushiro [JP] | 4 |  |  |
+| 2037 | Touma, Takahiro [JP] | 4 |  |  |
+| 2038 | Jiahao, Fang [CN] | 4 |  |  |
+| 2039 | Ichijo, Kazuto [JP] | 4 |  |  |
+| 2040 | Takeda, Teruhisa [JP] | 4 |  |  |
+| 2041 | Soejima, Yuuichi [JP] | 3 |  |  |
+| 2042 | Takeda, Yuuki 4979 [JP] | 3 |  |  |
+| 2043 | Osuga, Hiroaki [JP] | 3 |  |  |
+| 2044 | Ito, Fumitaka [JP] | 3 |  |  |
+| 2045 | Yamasaki, Yuuta [JP] | 3 |  |  |
+| 2046 | Hogaku, Shingo [JP] | 3 |  |  |
+| 2047 | Nakada, Hayato [JP] | 3 |  |  |
+| 2048 | Shibata, Yuya [JP] | 3 |  |  |
+| 2049 | Kamiya, Takuro [JP] | 3 |  |  |
+| 2050 | Yamaji, Shunichi [JP] | 3 |  |  |
+| 2051 | Takeshita, Yuto [JP] | 3 |  |  |
+| 2052 | Abe, Yuuta [JP] | 3 |  |  |
+| 2053 | Igeta, Hirofumi [JP] | 3 |  |  |
+| 2054 | Nakanomori, Toshikatsu [JP] | 3 |  |  |
+| 2055 | Hasegawa, Eita [JP] | 3 |  |  |
+| 2056 | Kawabata, Yuji [JP] | 3 |  |  |
+| 2057 | Asano, Jun Ya [JP] | 3 |  |  |
+| 2058 | Yin, Zhang [LU] | 3 |  |  |
+| 2059 | Nakazawa, Yusuke [JP] | 3 |  |  |
+| 2060 | Kawata, Yoshiaki [JP] | 3 |  |  |
+| 2061 | Bang, Sangmun [KR] | 3 |  |  |
+| 2062 | Nakamura, Taro [JP] | 3 |  |  |
+| 2063 | Yoshida, Shunsuke [JP] | 3 |  |  |
+| 2064 | Kahata, Issei [JP] | 3 |  |  |
+| 2065 | Ogawa, Yusuke [JP] | 3 |  |  |
+| 2066 | Sawada, Tetsushi [JP] | 3 |  |  |
+| 2067 | Tokuma, Hikaru [JP] | 3 |  |  |
+| 2068 | Yamato, Tsuguyoshi [JP] | 3 |  |  |
+| 2069 | Takagi, Hayato [JP] | 3 |  |  |
+| 2070 | Kirito, Keisuke [JP] | 3 |  |  |
+| 2071 | Tanaka, Yoshiyuki [JP] | 3 |  |  |
+| 2072 | Nishikawa, Ryota [JP] | 3 |  |  |
+| 2073 | Momiki, Hayami [JP] | 3 |  |  |
+| 2074 | Morokuma, Daisuke [JP] | 3 |  |  |
+| 2075 | Chiba, Toshiki [JP] | 3 |  |  |
+| 2076 | Tobe, Masato [JP] | 3 |  |  |
+| 2077 | Kambe, Kouichi [JP] | 3 |  |  |
+| 2078 | Hatta, Tetsuya [JP] | 3 |  |  |
+| 2079 | Moriya, Toshihiko [JP] | 3 |  |  |
+| 2080 | Miura, Shuta [JP] | 3 |  |  |
+| 2081 | Komatsu, Takashi [JP] | 3 |  |  |
+| 2082 | Saito, Shunsuke [JP] | 3 |  |  |
+| 2083 | Baba, Fumitaka [JP] | 3 |  |  |
+| 2084 | Nagasawa, Kensuke [JP] | 3 |  |  |
+| 2085 | Iwabuchi, Daisuke [JP] | 3 |  |  |
+| 2086 | Wataya, Yosuke [JP] | 3 |  |  |
+| 2087 | Takashima, Ryuuichi [JP] | 3 |  |  |
+| 2088 | Nagami, Takahiro [JP] | 3 |  |  |
+| 2089 | Mukai, Kuniteru [JP] | 3 |  |  |
+| 2090 | Bando, Junichiro [JP] | 3 |  |  |
+| 2091 | Araki, Ryusuke [JP] | 3 |  |  |
+| 2092 | Shishikura, Masahiro [JP] | 3 |  |  |
+| 2093 | Tamaki, Ryuta [JP] | 3 |  |  |
+| 2094 | Wakita, Tomoyuki [JP] | 3 |  |  |
+| 2095 | Kawahara, Naoki [JP] | 3 |  |  |
+| 2096 | Kobayashi, Takeru [JP] | 3 |  |  |
+| 2097 | Mizuno, Akimitsu [JP] | 3 |  |  |
+| 2098 | Yamashita, Kohei [JP] | 3 |  |  |
+| 2099 | Fukuta, Shingo [JP] | 3 |  |  |
+| 2100 | Hanawa, Atsushi [JP] | 3 |  |  |
+| 2101 | Miyasaka, Masato [JP] | 3 |  |  |
+| 2102 | Yamashiro, Wataru [JP] | 3 |  |  |
+| 2103 | Ooi, Yuichi [JP] | 3 |  |  |
+| 2104 | Muramatsu, Shota [JP] | 3 |  |  |
+| 2105 | Ishifuro, Yuichi [JP] | 3 |  |  |
+| 2106 | Tabe, Kenshiro [JP] | 3 |  |  |
+| 2107 | Kondou, Shin [JP] | 3 |  |  |
+| 2108 | Kisuke, Tanaka [JP] | 3 |  |  |
+| 2109 | Ehara, Kouta [JP] | 3 |  |  |
+| 2110 | Ishikawa, Kenya [JP] | 3 |  |  |
+| 2111 | Murakami, Hiroaki [JP] | 3 |  |  |
+| 2112 | Furukawa, Syun [JP] | 3 |  |  |
+| 2113 | Yonaha, Hirokazu [JP] | 3 |  |  |
+| 2114 | Mizutani, Yuuki [JP] | 3 |  |  |
+| 2115 | Katagiri, Keisuke [JP] | 3 |  |  |
+| 2116 | Torigoe, Yoshihisa [JP] | 3 |  |  |
+| 2117 | Saito, Naruto [JP] | 3 |  |  |
+| 2118 | Suzuki, Taiki [JP] | 3 |  |  |
+| 2119 | Andreas, Porten [DE] | 3 |  |  |
+| 2120 | Nashimoto, Masahiro [JP] | 3 |  |  |
+| 2121 | Zhang, Yao [JP] | 3 |  |  |
+| 2122 | Yucheng, Gai [JP] | 3 |  |  |
+| 2123 | Kanda, Shigeru [JP] | 3 |  |  |
+| 2124 | Kumazawa, Takanori [JP] | 3 |  |  |
+| 2125 | Saegusa, Nobuyuki [JP] | 3 |  |  |
+| 2126 | Shimauchi, Yoshihito [JP] | 3 |  |  |
+| 2127 | Okura, Takuya [JP] | 3 |  |  |
+| 2128 | Kushida, Takafumi [JP] | 3 |  |  |
+| 2129 | Kawabata, Hajime [JP] | 3 |  |  |
+| 2130 | Jinba, Daisuke [JP] | 3 |  |  |
+| 2131 | Tanaka, Syoutarou [JP] | 3 |  |  |
+| 2132 | Kokubun, Taiki [JP] | 3 |  |  |
+| 2133 | Itou, Makoto [JP] | 3 |  |  |
+| 2134 | Ehara, Kazuya [JP] | 3 |  |  |
+| 2135 | Kawazoe, Haruyoshi [JP] | 3 |  |  |
+| 2136 | Kinoshita, Kazuya [JP] | 3 |  |  |
+| 2137 | Kihara, Yasuyuki [JP] | 3 |  |  |
+| 2138 | Taketuzi, Hitoshi [JP] | 3 |  |  |
+| 2139 | Maeda, Yoshitaka [JP] | 3 |  |  |
+| 2140 | Kawamura, Shintaro [JP] | 3 |  |  |
+| 2141 | Sugiura, Hiroki [JP] | 3 |  |  |
+| 2142 | Hirose, Yutaka [JP] | 3 |  |  |
+| 2143 | Takuya, Andou [JP] | 3 |  |  |
+| 2144 | Noguchi, Shunnsuke [JP] | 3 |  |  |
+| 2145 | Fukuchi, Yutaka [JP] | 3 |  |  |
+| 2146 | Noto, Yoshinari [JP] | 3 |  |  |
+| 2147 | Uesugi, Shunta [JP] | 3 |  |  |
+| 2148 | Yamaguchi, Takumi [JP] | 3 |  |  |
+| 2149 | Tsuruta, Tatsunori [JP] | 3 |  |  |
+| 2150 | Tanaka, Takahiro [JP] | 3 |  |  |
+| 2151 | Sekiya, Hiroshi [JP] | 3 |  |  |
+| 2152 | Naito, Yuuki [JP] | 3 |  |  |
+| 2153 | Kim, Minsu [JP] | 3 |  |  |
+| 2154 | Chiba, Takashi [JP] | 3 |  |  |
+| 2155 | Hosokawa, Takahiro [JP] | 3 |  |  |
+| 2156 | Takahashi, Tatsuya [JP] | 3 |  |  |
+| 2157 | Kokawa, Tsunao [JP] | 3 |  |  |
+| 2158 | Hatanaka, Masaki [JP] | 3 |  |  |
+| 2159 | Takei, Tomoyuki [JP] | 3 |  |  |
+| 2160 | Li, Zhexi [CN] | 3 |  |  |
+| 2161 | Omori, Wataru [JP] | 3 |  |  |
+| 2162 | Saito, Takaya [JP] | 3 |  |  |
+| 2163 | Yamamoto, Kohei 0859 [JP] | 3 |  |  |
+| 2164 | Hakoda, Ryo [JP] | 3 |  |  |
+| 2165 | Yamashiro, Junji [JP] | 3 |  |  |
+| 2166 | Wakatabi, Kazuhiko [JP] | 3 |  |  |
+| 2167 | Kasuga, Koki [JP] | 3 |  |  |
+| 2168 | Komuro, Kazutoshi [JP] | 3 |  |  |
+| 2169 | Murayama, Kazuhiro [JP] | 3 |  |  |
+| 2170 | Shimada, Tubasa [JP] | 3 |  |  |
+| 2171 | Tamura, Kenji [JP] | 3 |  |  |
+| 2172 | Ozawa, Akihito [JP] | 3 |  |  |
+| 2173 | Ariga, Takayuki [JP] | 3 |  |  |
+| 2174 | Murata, Hiroaki [JP] | 3 |  |  |
+| 2175 | Hisashi, Yamanouchi [JP] | 3 |  |  |
+| 2176 | Hamamoto, Shota [JP] | 3 |  |  |
+| 2177 | Omuta, Shoya [JP] | 3 |  |  |
+| 2178 | Ootake, Takafumi [JP] | 3 |  |  |
+| 2179 | Takagi, Yui [JP] | 3 |  |  |
+| 2180 | Akagami, Tomofumi [JP] | 3 |  |  |
+| 2181 | Nodu, Keigo [JP] | 3 |  |  |
+| 2182 | Zhi Han, Xuan [AU] | 3 |  |  |
+| 2183 | Sasagawa, Hitoshi [JP] | 3 |  |  |
+| 2184 | Shinhama, Takahiko [JP] | 3 |  |  |
+| 2185 | Kondo, Hiroshi [JP] | 3 |  |  |
+| 2186 | Kanaya, Akihiro [JP] | 3 |  |  |
+| 2187 | Nakano, Masaya [JP] | 3 |  |  |
+| 2188 | Ishigaki, Shogo [JP] | 3 |  |  |
+| 2189 | Ito, Keita [JP] | 3 |  |  |
+| 2190 | Morimoto, Yuya [JP] | 3 |  |  |
+| 2191 | Kato, Hiroki [JP] | 3 |  |  |
+| 2192 | Endo, Yusuke [JP] | 3 |  |  |
+| 2193 | Jinba, Yusuke [JP] | 3 |  |  |
+| 2194 | Sotomura, Yoshihiro [JP] | 3 |  |  |
+| 2195 | Kinoshita, Mika [JP] | 3 |  |  |
+| 2196 | Murase, Takahiro [JP] | 3 |  |  |
+| 2197 | Yagishita, Takuya [JP] | 3 |  |  |
+| 2198 | Inoue, Masashi [JP] | 3 |  |  |
+| 2199 | Konuma, Mizuki [JP] | 3 |  |  |
+| 2200 | Honjou, Daiki [JP] | 3 |  |  |
+| 2201 | Mine, Masahiro [JP] | 3 |  |  |
+| 2202 | Toshida, Shin'Ichi [JP] | 3 |  |  |
+| 2203 | Yoshida, Goh [JP] | 3 |  |  |
+| 2204 | Igarasi, Yousuke [JP] | 3 |  |  |
+| 2205 | Uehara, Daisuke [JP] | 3 |  |  |
+| 2206 | Hashimoto, Koki [JP] | 3 |  |  |
+| 2207 | Fukuoka, Soichiro [JP] | 3 |  |  |
+| 2208 | Tokairin, Taishi [JP] | 3 |  |  |
+| 2209 | Shikama, Taku [JP] | 3 |  |  |
+| 2210 | Toriumi, Takashi [JP] | 3 |  |  |
+| 2211 | Samitsu, Yousuke [JP] | 3 |  |  |
+| 2212 | Takeuchi, Yosuke9456 [JP] | 3 |  |  |
+| 2213 | Takenaka, Shunsuke [JP] | 3 |  |  |
+| 2214 | Maeda, Yasuyuki [JP] | 3 |  |  |
+| 2215 | Umehara, Noriyoshi [JP] | 3 |  |  |
+| 2216 | Kanda, Takuya [JP] | 3 |  |  |
+| 2217 | Kumagai, Yohei [JP] | 3 |  |  |
+| 2218 | Sato, Shogo [JP] | 3 |  |  |
+| 2219 | Nakayama, Kenichi [JP] | 3 |  |  |
+| 2220 | Kimura, Yuu [JP] | 3 |  |  |
+| 2221 | Kaneko, Hiroto [JP] | 3 |  |  |
+| 2222 | Zenno, Kotaro [JP] | 3 |  |  |
+| 2223 | Hiwatashi, Yasuro [JP] | 3 |  |  |
+| 2224 | Yoshihara, Shouta [JP] | 3 |  |  |
+| 2225 | Ohshiba, Atsushi [JP] | 3 |  |  |
+| 2226 | Sugimoto, Ryosuke [JP] | 3 |  |  |
+| 2227 | Welty, Jaramiah [JP] | 3 |  |  |
+| 2228 | Hirosawa, Yuki [JP] | 3 |  |  |
+| 2229 | Fukushima, Takayuki [JP] | 3 |  |  |
+| 2230 | Yamamoto, Syohei [JP] | 3 |  |  |
+| 2231 | Iwama, Gaku [JP] | 3 |  |  |
+| 2232 | Ishiwada, Hiroyuki [JP] | 3 |  |  |
+| 2233 | Ookawa, Yuya [JP] | 3 |  |  |
+| 2234 | Arimura, Norihiko [JP] | 3 |  |  |
+| 2235 | Saito, Takanori [JP] | 3 |  |  |
+| 2236 | Akase, Yosuke [JP] | 3 |  |  |
+| 2237 | Nishimura, Masateru [JP] | 3 |  |  |
+| 2238 | Takeshita, Masato [JP] | 3 |  |  |
+| 2239 | Saito, Shinnosuke [JP] | 3 |  |  |
+| 2240 | Kuno, Takashi [JP] | 3 |  |  |
+| 2241 | Aihara, Shogaku [JP] | 3 |  |  |
+| 2242 | Tanabe, Kyohei [JP] | 3 |  |  |
+| 2243 | Yamada, Tsutomu [JP] | 3 |  |  |
+| 2244 | Wanibuchi, Koji [JP] | 3 |  |  |
+| 2245 | Beppu, Yoshihiro [JP] | 3 |  |  |
+| 2246 | Arakawa, Tomohiro [JP] | 3 |  |  |
+| 2247 | Hirose, Naoki [JP] | 3 |  |  |
+| 2248 | Yutaro, Shirato [JP] | 3 |  |  |
+| 2249 | Miki, Takatoshi [JP] | 3 |  |  |
+| 2250 | Matsumoto, Takashi [JP] | 3 |  |  |
+| 2251 | Shimojo, Koji [JP] | 3 |  |  |
+| 2252 | Shimizu, Hidenori [JP] | 3 |  |  |
+| 2253 | Aoki, Ryoya [JP] | 3 |  |  |
+| 2254 | Takase, Junpei [JP] | 3 |  |  |
+| 2255 | Sawayama, Tadashi [JP] | 3 |  |  |
+| 2256 | Hamada, Takayuki [JP] | 3 |  |  |
+| 2257 | Nakamura, Syuuhei [JP] | 3 |  |  |
+| 2258 | Yoshida, Seigo [JP] | 3 |  |  |
+| 2259 | Phromthongg, Jirunn [TH] | 3 |  |  |
+| 2260 | Hakozaki, Yuta [JP] | 3 |  |  |
+| 2261 | Mori, Yuki [JP] | 3 |  |  |
+| 2262 | Tanaka, Yoshihiro [JP] | 3 |  |  |
+| 2263 | Takeda, Masatomo [JP] | 3 |  |  |
+| 2264 | Nagashima, Yuusuke [JP] | 3 |  |  |
+| 2265 | Yashiro, Hitoshi [JP] | 3 |  |  |
+| 2266 | Kaneko, Mitsutaka [JP] | 3 |  |  |
+| 2267 | Wachi, Hiroki [JP] | 3 |  |  |
+| 2268 | Yasugi, Haruaki [JP] | 3 |  |  |
+| 2269 | Takayama, Ryo [JP] | 3 |  |  |
+| 2270 | Tomita, Mitsuhiro [JP] | 3 |  |  |
+| 2271 | Luis, Hishiyama [VE] | 3 |  |  |
+| 2272 | Yoshimoto, Ryuya [JP] | 3 |  |  |
+| 2273 | Urano, Shohei [JP] | 3 |  |  |
+| 2274 | Yatabe, Shigeto [JP] | 3 |  |  |
+| 2275 | Ishikawa, Reiji [JP] | 3 |  |  |
+| 2276 | Watanabe, Kazumasa [JP] | 3 |  |  |
+| 2277 | Ishii, Atsuhito [JP] | 3 |  |  |
+| 2278 | Tateyama, Masato [JP] | 3 |  |  |
+| 2279 | Tamura, Shunpei [JP] | 3 |  |  |
+| 2280 | Kobayashi, Hironori [JP] | 3 |  |  |
+| 2281 | Tomita, Hiroki [JP] | 3 |  |  |
+| 2282 | Ookawai, Yuu [JP] | 3 |  |  |
+| 2283 | Aoki, Ryosuke [JP] | 3 |  |  |
+| 2284 | Taki, Yoshikazu [JP] | 3 |  |  |
+| 2285 | Kuribayashi, Takayuki [JP] | 3 |  |  |
+| 2286 | Imamura, Daisuke [JP] | 3 |  |  |
+| 2287 | Aizawa, Takahiro [JP] | 3 |  |  |
+| 2288 | Ida, Yuuji [JP] | 3 |  |  |
+| 2289 | Kobayashi, Makoto [JP] | 3 |  |  |
+| 2290 | Hieda, Yosuke [JP] | 3 |  |  |
+| 2291 | Kuroda, Yu [JP] | 3 |  |  |
+| 2292 | Koyanagi, Takashi [JP] | 3 |  |  |
+| 2293 | Hirai, Kazuki [JP] | 3 |  |  |
+| 2294 | Aoyama, Mizuki [JP] | 3 |  |  |
+| 2295 | Kawamae, Toshiyuki [JP] | 3 |  |  |
+| 2296 | Suzuki, Takahisa [JP] | 3 |  |  |
+| 2297 | Motoyama, Souichirou [JP] | 3 |  |  |
+| 2298 | Fukuda, Junpei [JP] | 3 |  |  |
+| 2299 | Junmo, Yang [JP] | 3 |  |  |
+| 2300 | Okuyama, Kouhei [JP] | 3 |  |  |
+| 2301 | Ono, Ikumi [JP] | 3 |  |  |
+| 2302 | Maruyama, Muneyuki [JP] | 3 |  |  |
+| 2303 | Kawaguchi, Hitoshi [JP] | 1 |  |  |
+| 2304 | Watabe, Tetsuro [JP] | 0 |  |  |
+| 2305 | Kimura, Ryosuke [JP] | 0 |  |  |
+| 2306 | Yoshida, Issei [JP] | 0 |  |  |
+| 2307 | Hatakeyama, Tomoki [JP] | 0 |  |  |
+| 2308 | Ueno, Takamasa [JP] | 0 |  |  |
+| 2309 | Wakayama, Shiro [JP] | 0 |  |  |
+| 2310 | Okada, Yuki [JP] | 0 |  |  |
+| 2311 | Abe, Yuji3038 [JP] | 0 |  |  |
+| 2312 | Saitou, Masashi [JP] | 0 |  |  |
+| 2313 | Bu, Zhao [JP] | 0 |  |  |
+| 2314 | Nishihara, Hideyuki [JP] | 0 |  |  |
+| 2315 | Shimoyama, Kazuma [JP] | 0 |  |  |
+| 2316 | Hironori, Tanaka [JP] | 0 |  |  |
+| 2317 | Inomata, Chihiro [JP] | 0 |  |  |
+| 2318 | Imai, Satoshi [JP] | 0 |  |  |
+| 2319 | Asakawa, Tomokazu [JP] | 0 |  |  |
+| 2320 | Aida, Kazuki [JP] | 0 |  |  |
+| 2321 | Kobayashi, Hideki [JP] | 0 |  |  |
+| 2322 | Ishii, Taiyo [JP] | 0 |  |  |
+| 2323 | Nakazawa, Yosuke [JP] | 0 |  |  |
+| 2324 | Manaka, Akihiro [JP] | 0 |  |  |
+| 2325 | Kanazawa, Yuusuke [JP] | 0 |  |  |
+| 2326 | Kimonji, Hiroki [JP] | 0 |  |  |
+| 2327 | Tateoka, Tomoki [JP] | 0 |  |  |
+| 2328 | Kubo, Ryotaro [JP] | 0 |  |  |
+| 2329 | Iwase, Hirokazu [JP] | 0 |  |  |
+| 2330 | Jinno, Tatsuya [JP] | 0 |  |  |
+| 2331 | Takeichi, Yugo [JP] | 0 |  |  |
+| 2332 | Matsuo, Hirokazu [JP] | 0 |  |  |
+| 2333 | Kishida, Hiroaki [JP] | 0 |  |  |
+| 2334 | Saito, Masamitsu [JP] | 0 |  |  |
+| 2335 | Abe, Takashi [JP] | 0 |  |  |
+| 2336 | Yamada, Toshihiro [JP] | 0 |  |  |
+| 2337 | Satou, Takashi [JP] | 0 |  |  |
+| 2338 | Kijima, Takashi [JP] | 0 |  |  |
+| 2339 | Yoshimura, Syuuichi [JP] | 0 |  |  |
+| 2340 | Shibata, Yasumasa [JP] | 0 |  |  |
+| 2341 | Arita, Koichi [JP] | 0 |  |  |
+| 2342 | Mita, Hiroki [JP] | 0 |  |  |
+| 2343 | Sagara, Takahiro [JP] | 0 |  |  |
+| 2344 | Kosuga, Shuhei [JP] | 0 |  |  |
+| 2345 | Takekiyo, Koji [JP] | 0 |  |  |
+| 2346 | Kamiyama, Yuji [JP] | 0 |  |  |
+| 2347 | Kaneko, Junpei [JP] | 0 |  |  |
+| 2348 | Tokunaga, Masayuki [JP] | 0 |  |  |
+| 2349 | Ejima, Kazuki [JP] | 0 |  |  |
+| 2350 | Tsunoda, Masaki [JP] | 0 |  |  |
+| 2351 | Koike, Junya [JP] | 0 |  |  |
+| 2352 | Eguchi, Yukio [JP] | 0 |  |  |
+| 2353 | Nakamura, Sara [JP] | 0 |  |  |
+| 2354 | Nishino, Ryo [JP] | 0 |  |  |
+| 2355 | Kashiwase, Kazuya [JP] | 0 |  |  |
+| 2356 | Shibue, Takahiro [JP] | 0 |  |  |
+| 2357 | Shikama, Hideyasu [JP] | 0 |  |  |
+| 2358 | Hayakawa, Ryo [JP] | 0 |  |  |
+| 2359 | Miyazaki, Shinya [JP] | 0 |  |  |
+| 2360 | Saito, Yasushi [JP] | 0 |  |  |
+| 2361 | Seki, Toshio [JP] | 0 |  |  |
+| 2362 | Wada, Kazunori [JP] | 0 |  |  |
+| 2363 | Yoshida, Tsubasa [JP] | 0 |  |  |
+| 2364 | Miyaji, Kenji [JP] | 0 |  |  |
+| 2365 | Nishio, Masato [JP] | 0 |  |  |
+| 2366 | Ishiyama, Kenichi [JP] | 0 |  |  |
+| 2367 | Hayasi, Humiya [JP] | 0 |  |  |
+| 2368 | Nakasato, Hiroki [JP] | 0 |  |  |
+| 2369 | Li, Ang 7880 [CN] | 0 |  |  |
+| 2370 | Isayama, Yusuke [JP] | 0 |  |  |
+| 2371 | Mizuno, Tomoya [JP] | 0 |  |  |
+| 2372 | Sato, Yoshihito [JP] | 0 |  |  |
+| 2373 | Yoshino, Naoki [JP] | 0 |  |  |
+| 2374 | Kawahara, Masanobu [JP] | 0 |  |  |
+| 2375 | Shiozawa, Tsuyoshi [JP] | 0 |  |  |
+| 2376 | Seko, Kazuki [JP] | 0 |  |  |
+| 2377 | Sano, Yuki [JP] | 0 |  |  |
+| 2378 | Takahashi, Kotaro [JP] | 0 |  |  |
+| 2379 | Izu, Yuuya [JP] | 0 |  |  |
+| 2380 | Sasaki, Kazuo [JP] | 0 |  |  |
+| 2381 | Matsuzawa, Ryo [JP] | 0 |  |  |
+| 2382 | Takano, Masaki [JP] | 0 |  |  |
+| 2383 | Ueda, Wataru [JP] | 0 |  |  |
+| 2384 | Hasegawa, Gaku [JP] | 0 |  |  |
+| 2385 | Nihei, Shogo [JP] | 0 |  |  |
+| 2386 | Nakano, Makoto [JP] | 0 |  |  |
+| 2387 | Masuda, Junta [JP] | 0 |  |  |
+| 2388 | Nanba, Yoshinori [JP] | 0 |  |  |
+| 2389 | Masuda, Kohei [JP] | 0 |  |  |
+| 2390 | Maki, Yoshihito [JP] | 0 |  |  |
+| 2391 | Okutomi, Yusuke [JP] | 0 |  |  |
+| 2392 | Mizutani, Wataru [JP] | 0 |  |  |
+| 2393 | Niwa, Yuta [JP] | 0 |  |  |
+| 2394 | Shimada, Toma [JP] | 0 |  |  |
+| 2395 | Kaihara, Shunsuke [JP] | 0 |  |  |
+| 2396 | Sakuma, Masatoshi [JP] | 0 |  |  |
+| 2397 | Utsunomiya, Hiroshi [JP] | 0 |  |  |
+| 2398 | Ono, Tsubasa [JP] | 0 |  |  |
+| 2399 | Horiyama, Hiroki [JP] | 0 |  |  |
+| 2400 | Banzui, Daisuke [JP] | 0 |  |  |
+| 2401 | Mizukoshi, Hideyuki [JP] | 0 |  |  |
+| 2402 | Hara, Yasuhiro [JP] | 0 |  |  |
+| 2403 | Nagase, Hirofumi [JP] | 0 |  |  |
+| 2404 | Zafran, Chai [MY] | 0 |  |  |
+| 2405 | Fukuda, Tatsuhiro [JP] | 0 |  |  |
+| 2406 | Fujiwara, Ryoji [JP] | 0 |  |  |
+| 2407 | Inoue, Masayuki [JP] | 0 |  |  |
+| 2408 | Tanaka, Kouki [JP] | 0 |  |  |
+| 2409 | Usami, Koji [JP] | 0 |  |  |
+| 2410 | Koiwa, Daijiro [JP] | 0 |  |  |
+| 2411 | Komada, Taira [JP] | 0 |  |  |
+| 2412 | Ikeda, Kohei [JP] | 0 |  |  |
+| 2413 | Kuribayashi, Takamasa [JP] | 0 |  |  |
+| 2414 | Namikawa, Hiroaki [JP] | 0 |  |  |
+| 2415 | Sato, Gaku [JP] | 0 |  |  |
+| 2416 | Matsumoto, Ryohei [JP] | 0 |  |  |
+| 2417 | Ishida, Ryohei [JP] | 0 |  |  |
+| 2418 | Shishibori, Kohei [JP] | 0 |  |  |
+| 2419 | Mizuno, Tatsurou [JP] | 0 |  |  |
+| 2420 | Tsuboyama, Shuta [JP] | 0 |  |  |
+| 2421 | Jinguu, Keiji [JP] | 0 |  |  |
+| 2422 | Takuwa, Kazuya [JP] | 0 |  |  |
+| 2423 | Arakawa, Ryusei [JP] | 0 |  |  |
+| 2424 | Mukai, Shinichi [JP] | 0 |  |  |
+| 2425 | Kaminaga, Tatsuru [JP] | 0 |  |  |
+| 2426 | Okuhara, Yuuki [JP] | 0 |  |  |
+| 2427 | Takasou, Kazuki [JP] | 0 |  |  |
+| 2428 | Takano, Kantaro [JP] | 0 |  |  |
+| 2429 | Kamata, Toshihiko [JP] | 0 |  |  |
+| 2430 | Ueda, Shigeki [JP] | 0 |  |  |
+| 2431 | Zhu, Rui [CN] | 0 |  |  |
+| 2432 | Iwasawa, Shun [JP] | 0 |  |  |
+| 2433 | Ogura, Asato [JP] | 0 |  |  |
+| 2434 | Shoji, Kenta [JP] | 0 |  |  |
+| 2435 | Shinya, Takeshi [JP] | 0 |  |  |
+| 2436 | Kimoto, Keiya [JP] | 0 |  |  |
+| 2437 | Suenaga, Hirohisa [JP] | 0 |  |  |
+| 2438 | Kamimura, Yohei [JP] | 0 |  |  |
+| 2439 | Yoshida, Mitsutaka [JP] | 0 |  |  |
+| 2440 | Itaya, Tomohisa [JP] | 0 |  |  |
+| 2441 | Morita, Yuta [JP] | 0 |  |  |
+| 2442 | Kawasaki, Ryousuke [JP] | 0 |  |  |
+| 2443 | Honda, Hiroki [JP] | 0 |  |  |
+| 2444 | Nagai, Takayuki [JP] | 0 |  |  |
+| 2445 | Kato, Daiki [JP] | 0 |  |  |
+| 2446 | Yamashita, Kohji [JP] | 0 |  |  |
+| 2447 | Kobayashi, Akio [JP] | 0 |  |  |
+| 2448 | Ou, Kaito [JP] | 0 |  |  |
+| 2449 | Murata, Koji [JP] | 0 |  |  |
+| 2450 | Fujii, Naoto [JP] | 0 |  |  |
+| 2451 | Suzuki, Tatsuya [JP] | 0 |  |  |
+| 2452 | Pai Fu, Tzu [TW] | 0 |  |  |
+| 2453 | Itou, Kuninosuke [JP] | 0 |  |  |
+| 2454 | Aizawa, Taku [JP] | 0 |  |  |
+| 2455 | Imura, Satoshi [JP] | 0 |  |  |
+| 2456 | Ushijima, Syun [JP] | 0 |  |  |
+| 2457 | Kunisada, Shogo [JP] | 0 |  |  |
+| 2458 | Kabe, Naoyuki [JP] | 0 |  |  |
+| 2459 | Miyata, Tomoaki [JP] | 0 |  |  |
+| 2460 | Unnno, Tomohiro [JP] | 0 |  |  |
+| 2461 | Wakayama, Hayata [JP] | 0 |  |  |
+| 2462 | Murakami, Yutaro [JP] | 0 |  |  |
+| 2463 | Goodo, Toshiyuki [JP] | 0 |  |  |
+| 2464 | Kato, Yusuke [JP] | 0 |  |  |
+| 2465 | Hirayama, Kou [JP] | 0 |  |  |
+| 2466 | Ogata, Masanori [JP] | 0 |  |  |
+| 2467 | Kitagawa, Hiroaki [JP] | 0 |  |  |
+| 2468 | Fujisawa, Hirotada [JP] | 0 |  |  |
+| 2469 | Yoshinaga, Yuki [JP] | 0 |  |  |
+| 2470 | Ai, Bingye [CN] | 0 |  |  |
+| 2471 | Kawamura, Masayoshi [JP] | 0 |  |  |
+
+
+
+
+
+
+

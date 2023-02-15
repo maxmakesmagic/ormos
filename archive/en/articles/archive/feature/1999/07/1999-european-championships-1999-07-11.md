@@ -1,19 +1,20 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20160504014028/http://magic.wizards.com/en/articles/archive/feature/1999-european-championships-1999-07-11)
+[Link to Wayback Machine](https://web.archive.org/web/20220119171129/https://magic.wizards.com/en/articles/archive/feature/1999-european-championships-1999-07-11)
 
 [_metadata_:author]:- "
 		European Sideboard Staff
 	
 	"
+[_metadata_:description]:- "Sturla Bingen will be pleased to know that his European Champions title of last year remains in Norway as Nicolai Herzog emerged as the winner today in Berlin after some exciting final matches. Nicolai is fairly unknown outside of Norway, although he competed in several tournaments abroad. His newly won trophee won't lack company though as he became the 1999 National Champion"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "595646"
 [_metadata_:publish_date]:- "1999-07-11"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "1999 European Championships"
-[_metadata_:wayback_capture_timestamp]:- "2016-05-04 01:40:28"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160504014028id_/http://magic.wizards.com/en/articles/archive/feature/1999-european-championships-1999-07-11"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/1999-european-championships-1999-07-11"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-19 17:11:29"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220119171129id_/https://magic.wizards.com/en/articles/archive/feature/1999-european-championships-1999-07-11"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/1999-european-championships-1999-07-11"
 ---
 
 

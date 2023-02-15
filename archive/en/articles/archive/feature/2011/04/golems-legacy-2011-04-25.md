@@ -146,7 +146,7 @@ Karn's middle ability is the attention-grabber, the dream-wrecker, the wallop up
 Karn's ultimate ability represents the true power of this planeswalker who once traveled through time. It costs a monstrous 14 loyalty to achieve, but it does something we've never seen before in the history of **Magic**. Only the [Richard Garfieldian](http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/feature/78) [Shahrazad](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shahrazad) comes close to what this ability accomplishes, and thanks to Karn's other abilities, Karn can be much, much more.
 
 
-![](https://web.archive.org/web/20170414072916im_/http://archive.wizards.com/mtg/images/daily/features/feature140_ability3.png)
+![](https://media.wizards.com/legacy/mtg/images/daily/features/feature140_ability3.png)
  
 
 Karn wipes the slate of history clean. The game *starts over*. You pack up the game, shuffle up, draw seven, and start the game again—*except* there's a twist. Everything Karn "sent through time" for you with his other abilities enters the new game right there in front of you. Karn *alters time* for you, in a way going back to a time when your opponent could be defeated, bringing along with him a few choice permanents that he banished from your previous time-stream-I-mean-game.

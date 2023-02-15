@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210126210324/https://magic.wizards.com/en/articles/archive/feature/kaldheim-prerelease-primer-2021-01-26)
+[Link to Wayback Machine](https://web.archive.org/web/20210127123358/https://magic.wizards.com/en/articles/archive/feature/kaldheim-prerelease-primer-2021-01-26?utm_source=dlvr.it&utm_medium=twitter)
 
 [_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "Gavin has all your need-to-know info for the upcoming Kaldheim Prerelease right here."
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2021-01-26"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Kaldheim Prerelease Primer"
-[_metadata_:wayback_capture_timestamp]:- "2021-01-26 21:03:24"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210126210324id_/https://magic.wizards.com/en/articles/archive/feature/kaldheim-prerelease-primer-2021-01-26"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/kaldheim-prerelease-primer-2021-01-26"
+[_metadata_:wayback_capture_timestamp]:- "2021-01-27 12:33:58"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210127123358id_/https://magic.wizards.com/en/articles/archive/feature/kaldheim-prerelease-primer-2021-01-26?utm_source=dlvr.it&utm_medium=twitter"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/kaldheim-prerelease-primer-2021-01-26?utm_source=dlvr.it&utm_medium=twitter"
 ---
 
 

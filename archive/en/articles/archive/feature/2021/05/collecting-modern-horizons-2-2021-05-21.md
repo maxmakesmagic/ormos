@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210522095539/https://magic.wizards.com/en/articles/archive/feature/collecting-modern-horizons-2-2021-05-21?utm_source=dlvr.it&utm_medium=twitter)
+[Link to Wayback Machine](https://web.archive.org/web/20210928172746/https://magic.wizards.com/en/articles/archive/feature/collecting-modern-horizons-2-2021-05-21)
 
 [_metadata_:author]:- "Mike Turian"
 [_metadata_:description]:- "Amazing new card frames, shiny foil treatments, plus art cards, tokens, and more: here's what you need to know about collecting your favorites in Modern Horizons 2."
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2021-05-21"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Collecting Modern Horizons 2"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-22 09:55:39"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210522095539id_/https://magic.wizards.com/en/articles/archive/feature/collecting-modern-horizons-2-2021-05-21?utm_source=dlvr.it&utm_medium=twitter"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/collecting-modern-horizons-2-2021-05-21?utm_source=dlvr.it&utm_medium=twitter"
+[_metadata_:wayback_capture_timestamp]:- "2021-09-28 17:27:46"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210928172746id_/https://magic.wizards.com/en/articles/archive/feature/collecting-modern-horizons-2-2021-05-21"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/collecting-modern-horizons-2-2021-05-21"
 ---
 
 
@@ -63,7 +63,8 @@ Set Boosters
 Here is a complete look at the contents of a Set Booster.
 
 
-* 1 Art card – There are 81 total possible borderless art cards. 95% of those opened will be regular and 5% will be foil stamped with an artist signature or Planeswalker symbol.1 Basic land – There are 10 total possible basic lands. 85% of those opened will be regular and 15% will be traditional foil.
+* 1 Art card – There are 81 total possible borderless art cards. 95% of those opened will be regular and 5% will be foil stamped with an artist signature or Planeswalker symbol.
+* 1 Basic land – There are 10 total possible basic lands. 85% of those opened will be regular and 15% will be traditional foil.
 * 6 Common or uncommon cards, of which at least one is uncommon (in any combination of regular cards) – Common cards will tell a story and be thematically connected to other commons. Uncommon cards will be connected to other uncommons.
 * 1 Wildcard – This could be an additional regular common or uncommon. 30% of the time in *Modern Horizons 2* Set Boosters, you will instead get a rare or mythic rare—maybe even with a showcase sketch treatment, showcase retro frame, or borderless treatment.
 * 1 Rare or mythic rare, including possible showcase sketch or retro frame rares or mythic rares and borderless mythic rares – You can get either regular enemy fetch lands or retro frame enemy fetch lands in this slot and the wildcard slot, too.
@@ -124,7 +125,15 @@ The *Modern Horizons 2* Collector Booster features three foil-etched cards (one 
 There are ten basic lands with unique art (two of each) available in the foil-etched treatment. There are thirteen foil-etched retro frame commons from the main set of *Modern Horizons 2*, ten foil-etched retro frame uncommons from the main set of *Modern Horizons 2*, 20 foil-etched new-to-Modern uncommons from *Modern Horizons 2*, and 23 foil-etched retro frame uncommons from the original *Modern Horizons* set.
 
 
-For the rares and mythic rares, there are 31 foil-etched retro frame rares and seven mythic rares from the main set of *Modern Horizons 2*. There are eighteen foil-etched new-to-Modern rares and four mythic rares from *Modern Horizons 2*. We have included twelve rares and five mythic rares from the original *Modern Horizons* set and given them a foil-etched retro frame treatment. By giving a selection of the first *Modern Horizons* cards a foil-etched treatment, we were able to bring back fan favorites (such as [Force of Negation](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Force+of+Negation) and [Giver of Runes](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Giver+of+Runes)) with both a retro frame and the foil-etched treatment!
+
+> 
+> And now a look at the Foil Etched version of Rishadan Dockhand in its Retro frame! Regular and Traditional Foil versions of Retro Frame MH2 cards can be found in all boosters, but this Foil Etched treatment is exclusive to Collector Boosters. [pic.twitter.com/OtCR2IrQ3u](https://t.co/OtCR2IrQ3u)
+> 
+> 
+> — Magic: The Gathering (@wizards\_magic) [May 24, 2021](https://twitter.com/wizards_magic/status/1396923884889202690?ref_src=twsrc%5Etfw)
+
+
+For the rares and mythic rares, there are 31 foil-etched retro frame rares and seven mythic rares from the main set of *Modern Horizons 2*. There are eighteen foil-etched new-to-Modern rares and four mythic rares from *Modern Horizons 2*. We have included twelve rares and five mythic rares from the original *Modern Horizons* set and given them a foil-etched retro frame treatment. By giving a selection of the first *Modern Horizons* cards a foil-etched treatment, we were able to bring back fan favorites (such as [Force of Negation](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Force+of+Negation) and [Giver of Runes](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Giver+of+Runes)) with both a retro frame and the foil-etched treatment!
 
 
 ![Extended-art Profane Tutor](https://media.wizards.com/2021/mh2/en_FEVIIqxikS.png)
@@ -164,7 +173,7 @@ A big piece of *Modern Horizons 2* is how it taps into the nostalgia of *Magic* 
 ![Sanctum Prelate BAB](https://media.wizards.com/2021/mh2/en_tDNobaj0Yi.png)
 
 
-While supplies last, participating stores will have a traditional foil retro frame [Sanctum Prelate](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sanctum+Prelate) as the promo card for the Buy-a-Box program. The new artwork by Michael C. Hayes in this retro frame treatment belies that [Sanctum Prelate](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sanctum+Prelate) was introduced to *Magic* in *Conspiracy: Take the Crown* just five years ago. Now, with the release of *Modern Horizons 2*, you can add [Sanctum Prelate](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sanctum+Prelate) to your Modern decks.
+While supplies last, participating stores will have a traditional foil retro frame [Sanctum Prelate](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sanctum+Prelate) as the promo card for the Buy-a-Box program. The new artwork by Michael C. Hayes in this retro frame treatment belies that [Sanctum Prelate](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sanctum+Prelate) was introduced to *Magic* in *Conspiracy: Take the Crown* just five years ago. Now, with the release of *Modern Horizons 2*, you can add [Sanctum Prelate](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sanctum+Prelate) to your Modern decks.
 
 
 Alternate-Art Borderless Cards
@@ -181,6 +190,19 @@ In *Modern Horizons 2*, there are four borderless rares and nineteen borderless 
 
 
 You can find these alternate-art borderless cards in Set, Draft, and Collector Boosters, in both traditional foil and non-foil versions. For all these special treatments, the Set, Draft, and Collector Booster breakout section of the article above talks about which slots you can find these cool treatments in the respective booster product.
+
+
+Here's a recap for where to find all these treatments:
+
+
+
+
+
+[![](https://media.magic.wizards.com/mh2-where-to-find_1_v4.jpg)](https://media.magic.wizards.com/mh2-where-to-find_1_v4.jpg)
+[![](https://media.magic.wizards.com/mh2-where-to-find_2_v3.jpg)](https://media.magic.wizards.com/mh2-where-to-find_2_v3.jpg)
+[![](https://media.magic.wizards.com/mh2-where-to-find_3_v4.jpg)](https://media.magic.wizards.com/mh2-where-to-find_3_v4.jpg)
+
+[![](https://media.magic.wizards.com/mh2-where-to-find_1_v4.jpg)](#)  [![](https://media.magic.wizards.com/mh2-where-to-find_2_v3.jpg)](#)  [![](https://media.magic.wizards.com/mh2-where-to-find_3_v4.jpg)](#)
 
 
 

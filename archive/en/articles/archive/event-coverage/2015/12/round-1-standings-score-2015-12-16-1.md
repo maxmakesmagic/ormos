@@ -1,0 +1,636 @@
+
+---
+[Link to Wayback Machine](https://web.archive.org/web/20171028234820/https://magic.wizards.com/en/articles/archive/event-coverage/round-1-standings-score-2015-12-16-1)
+
+[_metadata_:author]:- "Wizards of the Coast"
+[_metadata_:description]:- "RankPlayerPointsOp.Win% 1 Adriano, *Sottile 3 33,33 2 Alessandro, *Bonari 3 33,33 3 Alessandro, *Columbano 3 33,33 4 Alessandro, *Privitera 3 33,33 5 Alessia Mery Luz, Naccarato 3 33,33 6 Alexandre, Belin 3 33,33"
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "941996"
+[_metadata_:publish_date]:- "2015-12-16"
+[_metadata_:source]:- "div-main-content"
+[_metadata_:title]:- "Round 1 Standings (by Score)"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-28 23:48:20"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171028234820id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-1-standings-score-2015-12-16-1"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/event-coverage/round-1-standings-score-2015-12-16-1"
+---
+
+
+Round 1 Standings (by Score)
+============================
+
+
+
+ Posted in **Event Coverage**
+ on December 16, 2015 
+
+
+
+
+
+
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
+By Wizards of the Coast
+
+
+
+
+
+
+
+
+
+
+
+
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| **Rank** | **Player** | **Points** | **Op.Win%** |
+|  1  | Adriano, \*Sottile |  3 |  33,33 |
+|  2  | Alessandro, \*Bonari |  3 |  33,33 |
+|  3  | Alessandro, \*Columbano |  3 |  33,33 |
+|  4  | Alessandro, \*Privitera |  3 |  33,33 |
+|  5  | Alessia Mery Luz, Naccarato |  3 |  33,33 |
+|  6  | Alexandre, Belin |  3 |  33,33 |
+|  7  | Andrea, 
+\*Corsi |  3 |  33,33 |
+|  8  | Andrea, \*Cappuzzi |  3 |  33,33 |
+|  9  | Andrea, \*Bartalucci |  3 |  33,33 |
+|  10  | Andrea Claudio, \*Caroni |  3 |  33,33 |
+|  11  | Aljaz, \*Ivancic |  3 |  33,33 |
+|  12  | Alessandro, \*Pompizzi |  3 |  33,33 |
+|  13  | Alessandro, \*Sardi |  3 |  33,33 |
+|  14  | Alessandro, \*Vegna |  3 |  33,33 |
+|  15  | Andrea, \*De Archangelis |  3 |  33,33 |
+|  16  | Andrea, \*Gentile |  3 |  33,33 |
+|  17  | Andrea, \*Panebianco |  3 |  33,33 |
+|  18  | Andrea, PASELLI |  3 |  33,33 |
+|  19  | Andrea, Castro |  3 |  33,33 |
+|  20  | Andreas, Enzenhofer |  3 |  33,33 |
+|  21  | Anthony, Martin |  3 |  33,33 |
+|  22  | Anze, Avsec |  3 |  33,33 |
+|  23  | Blagoj, \*Jakimov |  3 |  33,33 |
+|  24  | Brad, Taylor |  3 |  33,33 |
+|  25  | Carlo, Braccesi |  3 |  33,33 |
+|  26  | Christian, \*Favale |  3 |  33,33 |
+|  27  | Christian, \*Pernstich |  3 |  33,33 |
+|  28  | Clement, \*Feudenbach |  3 |  33,33 |
+|  29  | Claudio, \*Rossi |  3 |  33,33 |
+|  30  | Chris, Bryan |  3 |  33,33 |
+|  31  | Daniel, \*Bernini |  3 |  33,33 |
+|  32  | Daniele, \*Vecchioni |  3 |  33,33 |
+|  33  | Daniele, \*Floris |  3 |  33,33 |
+|  34  | Dario, \*Minieri |  3 |  33,33 |
+|  35  | Fabio, \*Castagna |  3 |  33,33 |
+|  36  | Davide, \*LA MURAGLIA |  3 |  33,33 |
+|  37  | Diego, Romani |  3 |  33,33 |
+|  38  | Bogoy, \*Hafner |  3 |  33,33 |
+|  39  | Edward, \*Morrisey |  3 |  33,33 |
+|  40  | Luca, \*Cardone |  3 |  33,33 |
+|  41  | Luca, \*Zanon |  3 |  33,33 |
+|  42  | Manuel, \*Anton Santiago |  3 |  33,33 |
+|  43  | Luigi, \*Sbrozzi |  3 |  33,33 |
+|  44  | Marco, \*Santopadre |  3 |  33,33 |
+|  45  | Marco, Mazzei |  3 |  33,33 |
+|  46  | Martin, \*Scheuchenstuhl |  3 |  33,33 |
+|  47  | Martin, \*Polak |  3 |  33,33 |
+|  48  | Matteo, \*Di Tomaso |  3 |  33,33 |
+|  49  | Matteo, Tassinari |  3 |  33,33 |
+|  50  | Maurizio, \*Sparita |  3 |  33,33 |
+|  51  | Michael, Debard |  3 |  33,33 |
+|  52  | Michele, \*Cossutta |  3 |  33,33 |
+|  53  | Nicola, \*Rebagliati |  3 |  33,33 |
+|  54  | Nicola, \*Nicosanti |  3 |  33,33 |
+|  55  | Nicola, \*Della Bartola |  3 |  33,33 |
+|  56  | Paolo, \*Lombardi |  3 |  33,33 |
+|  57  | Michele, \*Correrini |  3 |  33,33 |
+|  58  | Pietro, Malferrari |  3 |  33,33 |
+|  59  | Renato, \*Fillinich |  3 |  33,33 |
+|  60  | Riccardo, \*Zammarchi |  3 |  33,33 |
+|  61  | Roger, \*Maurer |  3 |  33,33 |
+|  62  | Samuele, \*Mazzucco |  3 |  33,33 |
+|  63  | Sebastien, \*Gyger |  3 |  33,33 |
+|  64  | Simone, \*Luciani |  3 |  33,33 |
+|  65  | Stefan, \*Altrichter |  3 |  33,33 |
+|  66  | Stefano, \*Fiori |  3 |  33,33 |
+|  67  | Stephane, Gentric |  3 |  33,33 |
+|  68  | Thomas, \*Chambouvet |  3 |  33,33 |
+|  69  | Uli, \*Hoenle |  3 |  33,33 |
+|  70  | Voltolina, \*Marco |  3 |  33,33 |
+|  71  | Yoan, \*Germond |  3 |  33,33 |
+|  72  | Stefano, Pagliai |  3 |  33,33 |
+|  73  | lorenzo, Bocchio |  3 |  33,33 |
+|  74  | Gianluca, Torti |  3 |  33,33 |
+|  75  | Manuel, Alvisi |  3 |  33,33 |
+|  76  | Francesco, \*De Giuli |  3 |  33,33 |
+|  77  | Yann, \*Blumer |  3 |  33,33 |
+|  78  | Vittorio A., \*Zaffrani |  3 |  33,33 |
+|  79  | Simone, Pisano |  3 |  33,33 |
+|  80  | Simone, \*Zuccagni |  3 |  33,33 |
+|  81  | Simona, \*Grossi |  3 |  33,33 |
+|  82  | Samir, \*Suweis |  3 |  33,33 |
+|  83  | Ryan, \*Hoffman |  3 |  33,33 |
+|  84  | Rüdiger, Klings |  3 |  33,33 |
+|  85  | Roberto, \*Paletti |  3 |  33,33 |
+|  86  | Roberto, \*Manzini |  3 |  33,33 |
+|  87  | Rafael, \*Garcia |  3 |  33,33 |
+|  88  | Quang-Dong, Nguyen |  3 |  33,33 |
+|  89  | Pietro Paolo, \*Fenia |  3 |  33,33 |
+|  90  | Pierre, Vandercamere |  3 |  33,33 |
+|  91  | Pierpaolo, \*Giovannozzi |  3 |  33,33 |
+|  92  | Maximilien, \*Catsiyannis |  3 |  33,33 |
+|  93  | Maurizio, \*Puviani |  3 |  33,33 |
+|  94  | Maurizio, \*Angelini |  3 |  33,33 |
+|  95  | Matteo, \*Zappaterra |  3 |  33,33 |
+|  96  | Massimo, Castelli |  3 |  33,33 |
+|  97  | Martin, \*Dudik |  3 |  33,33 |
+|  98  | Luca, \*Sghedoni |  3 |  33,33 |
+|  99  | Emiliano, \*Tarquini |  3 |  33,33 |
+| 100  | Enrico, \*VIGATO |  3 |  33,33 |
+| 101  | Ettore, \*Scian |  3 |  33,33 |
+| 102  | Eric, \*Buge |  3 |  33,33 |
+| 103  | Fausto, \*Bolognini |  3 |  33,33 |
+| 104  | Fabio, Boero |  3 |  33,33 |
+| 105  | Filippo, \*Arnetoli |  3 |  33,33 |
+| 106  | Fabio, \*Panarello |  3 |  33,33 |
+| 107  | Emanuele, Branchi |  3 |  33,33 |
+| 108  | Francesco, Barberi |  3 |  33,33 |
+| 109  | Emanuele, \*Fascì |  3 |  33,33 |
+| 110  | Benoit, \*Beguin |  3 |  33,33 |
+| 111  | Gabriele, \*Giorgeschi |  3 |  33,33 |
+| 112  | Giacomo, \*Comparini |  3 |  33,33 |
+| 113  | Gaspar, \*Attila |  3 |  33,33 |
+| 114  | Andrea, \*Nucci |  3 |  33,33 |
+| 115  | Gianmaria, \*Furlan |  3 |  33,33 |
+| 116  | Gigi, \*Carretta |  3 |  33,33 |
+| 117  | Giorgio, \*Bortolussi |  3 |  33,33 |
+| 118  | Giovanni, \*Agostini |  3 |  33,33 |
+| 119  | Andrea, \*Fratini |  3 |  33,33 |
+| 120  | Gonçalo, \*Nunes |  3 |  33,33 |
+| 121  | Guido, \*Graziani |  3 |  33,33 |
+| 122  | Günther, \*Rezniczek |  3 |  33,33 |
+| 123  | Horst, \*Winkelmann |  3 |  33,33 |
+| 124  | Igor, \*Banic |  3 |  33,33 |
+| 125  | Iris, \*Brandstetter |  3 |  33,33 |
+| 126  | Ileno, \*Verga |  3 |  33,33 |
+| 127  | Gromko, \*Radoslaw |  3 |  33,33 |
+| 128  | Jakob, \*Tomse |  3 |  33,33 |
+| 129  | Johannes, \*Groth |  3 |  33,33 |
+| 130  | Julien, \*Forbat |  3 |  33,33 |
+| 131  | Kevin, Gameiro |  3 |  33,33 |
+| 132  | Laszlo, \*Szabadka |  3 |  33,33 |
+| 133  | Krzysztof, \*Arabski |  3 |  33,33 |
+| 134  | Leonardo, Morelli |  3 |  33,33 |
+| 135  | Leonardo, \*Grazini |  3 |  33,33 |
+| 136  | Jens, Holtz |  3 |  33,33 |
+| 137  | Manuel, \*Rodriguez |  3 |  33,33 |
+| 138  | Manuel, Bressan |  3 |  33,33 |
+| 139  | Marcin, \*Cieslikowski |  3 |  33,33 |
+| 140  | Ales, \*Borek |  3 |  33,33 |
+| 141  | Nicolas, \*Meylan |  3 |  33,33 |
+| 142  | Stefan, \*Lauchenauer |  3 |  33,33 |
+| 143  | Stefano, \*Ferdani |  3 |  33,33 |
+| 144  | Teodoro, \*Martinazzi |  3 |  33,33 |
+| 145  | Stefano, Montanari |  3 |  33,33 |
+| 146  | Franco, Martinengo |  3 |  33,33 |
+| 147  | Massimilinao, Maino |  3 |  33,33 |
+| 148  | Zeljko, \*Vasic |  3 |  33,33 |
+| 149  | Zdenek, \*Sury |  3 |  33,33 |
+| 150  | Tommaso, \*Spinetti |  3 |  33,33 |
+| 151  | Fabien, Spengler |  3 |  33,33 |
+| 152  | Nikolaus, Eigner |  3 |  33,33 |
+| 153  | Serge, \*Gariglio |  3 |  33,33 |
+| 154  | Silvano, 
+\*Poletti |  3 |  33,33 |
+| 155  | Nicolò, \*Valentini |  3 |  33,33 |
+| 156  | Paolo, Filice |  3 |  33,33 |
+| 157  | Ruben, \*Figueiredo |  3 |  33,33 |
+| 158  | Riccardo, Pizzirani |  3 |  33,33 |
+| 159  | Riccardo, \*Cavallaro |  3 |  33,33 |
+| 160  | Riccardo, \*Grossi |  3 |  33,33 |
+| 161  | Negrini, \*Iari |  3 |  33,33 |
+| 162  | Peter, \*Norris |  3 |  33,33 |
+| 163  | Pierre, \*Canaci |  3 |  33,33 |
+| 164  | Piergiulio, Nardulli |  3 |  33,33 |
+| 165  | Mitja, \*Lustrek |  3 |  33,33 |
+| 166  | Massimiliano, \*Tili |  3 |  33,33 |
+| 167  | Michel, \*Aubert |  3 |  33,33 |
+| 168  | Matteo, \*Gatti |  3 |  33,33 |
+| 169  | Mattia, \*Longo |  3 |  33,33 |
+| 170  | Massimo, \*Brunello |  3 |  33,33 |
+| 171  | Marco, \*Mealli |  3 |  33,33 |
+| 172  | Luca, \*Salvaneschi |  3 |  33,33 |
+| 173  | Luca, \*Ricci Picciloni |  3 |  33,33 |
+| 174  | Andrea, \*Allegri |  3 |  33,33 |
+| 175  | Alex, Rizzatto |  3 |  33,33 |
+| 176  | Alexandre, \*De Macedo Braga |  3 |  33,33 |
+| 177  | Andrea, \*Fontanelli |  3 |  33,33 |
+| 178  | Andrea, \*Panichi |  3 |  33,33 |
+| 179  | Andrea, Passaro |  3 |  33,33 |
+| 180  | Claudio, \*Redaelli |  3 |  33,33 |
+| 181  | Cristiano, \*Gargano |  3 |  33,33 |
+| 182  | Daniele, \*Rosso |  3 |  33,33 |
+| 183  | Daniele, \*Fioretti |  3 |  33,33 |
+| 184  | Dario, \*Cuomo |  3 |  33,33 |
+| 185  | David, \*Beduzzi |  3 |  33,33 |
+| 186  | Dilauro, Sonia |  3 |  33,33 |
+| 187  | Enrico, Russo |  3 |  33,33 |
+| 188  | Fabio, \*Madrignani |  3 |  33,33 |
+| 189  | Domenico, \*Torrielli |  3 |  33,33 |
+| 190  | Florian, Oberauer |  3 |  33,33 |
+| 191  | Florian, \*Sereinig |  3 |  33,33 |
+| 192  | Francesco, \*Sabbatini |  3 |  33,33 |
+| 193  | Franco, \*Giacomelli |  3 |  33,33 |
+| 194  | Fréderic, \*Ley |  3 |  33,33 |
+| 195  | Giacomo, \*Di Maria |  3 |  33,33 |
+| 196  | Giacomo, \*Guidotti |  3 |  33,33 |
+| 197  | Giacomo, \*Tarsi |  3 |  33,33 |
+| 198  | Gian Paolo, \*Lodi |  3 |  33,33 |
+| 199  | Giorgio, \*Cambini |  3 |  33,33 |
+| 200  | Gianluca, \*Gianferrari |  3 |  33,33 |
+| 201  | Gabriele, \*Cattaneo |  3 |  33,33 |
+| 202  | Gregor, \*Strubelj |  3 |  33,33 |
+| 203  | Herbert, Engleitner |  3 |  33,33 |
+| 204  | Ivan, \*Mesic |  3 |  33,33 |
+| 205  | Hrvoje, \*Lorkovic |  3 |  33,33 |
+| 206  | Jean Charles, \*Salvin |  3 |  33,33 |
+| 207  | Hoang-Hai, \*Nguyen |  3 |  33,33 |
+| 208  | Guiseppe, \*Romeo |  3 |  33,33 |
+| 209  | Franz, San |  3 |  33,33 |
+| 210  | Lorenzo, \*Semprini |  3 |  33,33 |
+| 211  | Gloria, \*Zanotti |  3 |  33,33 |
+| 212  | Marc, Dambrine |  3 |  33,33 |
+| 213  | Marco, \*Dolazza - Italy |  3 |  33,33 |
+| 214  | Marc, \*Guverinzzi |  3 |  33,33 |
+| 215  | Francesco, \*RICCIO |  3 |  33,33 |
+| 216  | Emiliano, Galli |  3 |  33,33 |
+| 217  | Dieter, Gottwald |  3 |  33,33 |
+| 218  | David, Salvi |  3 |  33,33 |
+| 219  | Cristiano, \*Grazioli |  3 |  33,33 |
+| 220  | Cristiano, \*FRAULINI |  3 |  33,33 |
+| 221  | Alessandro, \*Cappelli |  3 |  33,33 |
+| 222  | Alessandro, \*Bonelli |  3 |  33,33 |
+| 223  | Andrea, \*Marinacci |  3 |  33,33 |
+| 224  | Alessandro, Betti |  3 |  0,00 |
+| 225  | Alexis, Dumay |  3 |  0,00 |
+| 226  | Alessio, \*Angeli |  3 |  0,00 |
+| 227  | Alessio, Biondi |  3 |  0,00 |
+| 228  | Andrea, Rosi |  3 |  0,00 |
+| 229  | Andrea, Santin |  3 |  0,00 |
+| 230  | Andrej, Renko |  3 |  0,00 |
+| 231  | Antoine, Ruel |  3 |  0,00 |
+| 232  | Christian, Piottoli |  3 |  0,00 |
+| 233  | Daniele, Canavesi |  3 |  0,00 |
+| 234  | Craig, Jones |  3 |  0,00 |
+| 235  | Dominik, Hothow |  3 |  0,00 |
+| 236  | Emanuele, Canavesi |  3 |  0,00 |
+| 237  | Federico, Dato |  3 |  0,00 |
+| 238  | Frederic, Courtois |  3 |  0,00 |
+| 239  | Giammaria, Muratori |  3 |  0,00 |
+| 240  | Gianluca, Stucchi |  3 |  0,00 |
+| 241  | Ivan, Curina |  3 |  0,00 |
+| 242  | Ivan, La ragione |  3 |  0,00 |
+| 243  | Ivan, Stanoev |  3 |  0,00 |
+| 244  | Joao, Duarte |  3 |  0,00 |
+| 245  | Jacques, Seeberger |  3 |  0,00 |
+| 246  | Kai, Budde |  3 |  0,00 |
+| 247  | Lauren, \*Passmore |  3 |  0,00 |
+| 248  | Lionel, Benezech |  3 |  0,00 |
+| 249  | Long, Wang |  3 |  0,00 |
+| 250  | Libor, Marek |  3 |  0,00 |
+| 251  | Justin, Gary |  3 |  0,00 |
+| 252  | Louis, Ballivet |  3 |  0,00 |
+| 253  | Luca, \*Asquini |  3 |  0,00 |
+| 254  | Luca, Cristino |  3 |  0,00 |
+| 255  | Marcell, \*Kardos |  3 |  0,00 |
+| 256  | Luis, \*Sousa |  3 |  0,00 |
+| 257  | Marco, Fariello |  3 |  0,00 |
+| 258  | Marco, Palamà |  3 |  0,00 |
+| 259  | Mario, De Lucis |  3 |  0,00 |
+| 260  | Mario, Pascoli |  3 |  0,00 |
+| 261  | Massimiliano, Baldi |  3 |  0,00 |
+| 262  | Massimo, Crotta |  3 |  0,00 |
+| 263  | Matteo, \*Magnani |  3 |  0,00 |
+| 264  | Massimo, De Matteo |  3 |  0,00 |
+| 265  | Matteo, Bianchi |  3 |  0,00 |
+| 266  | Mattias, Jorstedt |  3 |  0,00 |
+| 267  | Nicola, Taruffi |  3 |  0,00 |
+| 268  | Nicolas, Bertos |  3 |  0,00 |
+| 269  | Olivier, Ruel |  3 |  0,00 |
+| 270  | Olle, Råde |  3 |  0,00 |
+| 271  | Nuno, \*Costa |  3 |  0,00 |
+| 272  | Niklaus, Hugi |  3 |  0,00 |
+| 273  | Patrice, Choffat |  3 |  0,00 |
+| 274  | Patrick, Mello |  3 |  0,00 |
+| 275  | Raffaeil, Gennari |  3 |  0,00 |
+| 276  | Roberto, Fabrizi |  3 |  0,00 |
+| 277  | Ryan, Fuller |  3 |  0,00 |
+| 278  | Scott, Wills |  3 |  0,00 |
+| 279  | Roberto, Focherini |  3 |  0,00 |
+| 280  | Riccardo, Rolla |  3 |  0,00 |
+| 281  | Stefano, Fiore |  3 |  0,00 |
+| 282  | Tiago, Chan |  3 |  0,00 |
+| 283  | Thomas, Preyer |  3 |  0,00 |
+| 284  | Raffaele, Lo Moro |  3 |  0,00 |
+| 285  | Tony, Dobson |  3 |  0,00 |
+| 286  | Trey, Van Cleave |  3 |  0,00 |
+| 287  | William, Cavaglieri |  3 |  0,00 |
+| 288  | Ziga, \*Fritz |  3 |  0,00 |
+| 289  | Zsolt, \*Tokoli |  3 |  0,00 |
+| 290  | Xavier, Petit |  3 |  0,00 |
+| 291  | Yannick, Bouloc |  3 |  0,00 |
+| 292  | Xavier, \*González |  3 |  0,00 |
+| 293  | Veron, \*Mathias |  3 |  0,00 |
+| 294  | Tommaso, Natale |  3 |  0,00 |
+| 295  | Ricardo, Duarte |  3 |  0,00 |
+| 296  | Renato, Graça |  3 |  0,00 |
+| 297  | Rafael, \*Brito |  3 |  0,00 |
+| 298  | Pietro, Tanasini |  3 |  0,00 |
+| 299  | Pierre-Alain, Laur |  3 |  0,00 |
+| 300  | Philippe, Jean |  3 |  0,00 |
+| 301  | Philippe, Mongauze |  3 |  0,00 |
+| 302  | Nicolai, Herzog |  3 |  0,00 |
+| 303  | Michal, Marsik |  3 |  0,00 |
+| 304  | Michael, \*Durham |  3 |  0,00 |
+| 305  | Mauro, Rossetti |  3 |  0,00 |
+| 306  | Mauro, Corti |  3 |  0,00 |
+| 307  | Martin, Zuercher |  3 |  0,00 |
+| 308  | Markus, Jöbstl |  3 |  0,00 |
+| 309  | Marco, Ruggiero |  3 |  0,00 |
+| 310  | Marco, Makuz |  3 |  0,00 |
+| 311  | Marco, Lazzarini |  3 |  0,00 |
+| 312  | Marco, Benifei |  3 |  0,00 |
+| 313  | Luka, Gasparac |  3 |  0,00 |
+| 314  | Luca, Chiera |  3 |  0,00 |
+| 315  | Gabor, Papp |  3 |  0,00 |
+| 316  | Hadrien, Marobin |  3 |  0,00 |
+| 317  | Helmut, Summersberger |  3 |  0,00 |
+| 318  | Guillermo, Barro Calvo |  3 |  0,00 |
+| 319  | Guido, Pacifici |  3 |  0,00 |
+| 320  | Giovanni, Bissolino |  3 |  0,00 |
+| 321  | Giulio, Petri |  3 |  0,00 |
+| 322  | Gardos, \*Gergely |  3 |  0,00 |
+| 323  | Francesco, Cielo |  3 |  0,00 |
+| 324  | Francesco, Berti |  3 |  0,00 |
+| 325  | Edward, Ross |  3 |  0,00 |
+| 326  | Edward, Fear |  3 |  0,00 |
+| 327  | David, Price |  3 |  0,00 |
+| 328  | David, Kearney |  3 |  0,00 |
+| 329  | Claudio, Negrini |  3 |  0,00 |
+| 330  | Christoph, Lippert |  3 |  0,00 |
+| 331  | Bram, Snepvangers |  3 |  0,00 |
+| 332  | Carlo, Gadaleta Caldarola |  3 |  0,00 |
+| 333  | Andrea, Cerasari |  3 |  0,00 |
+| 334  | Benedikt, Klauser |  3 |  0,00 |
+| 335  | Ben, Ronaldson |  3 |  0,00 |
+| 336  | Andrea, Dato |  3 |  0,00 |
+| 337  | Alessandro, \*Melis |  1 |  33,33 |
+| 338  | Sergio, \*Perez |  1 |  33,33 |
+| 339  | Stefano "Fudo", Simoncini |  1 |  33,33 |
+| 340  | Sebastien, \*Zapata |  1 |  33,33 |
+| 341  | Stefano, \*Fedriga |  1 |  33,33 |
+| 342  | Enrico, \*RAGAZZINI |  1 |  33,33 |
+| 343  | Filippo, \*Ragionieri |  1 |  33,33 |
+| 344  | Alessandro, Arcuri |  1 |  33,33 |
+| 345  | Tommaso, \*Donzellini |  1 |  33,33 |
+| 346  | Josip, \*Gudic |  1 |  33,33 |
+| 347  | Paolo, \*Frosini |  1 |  33,33 |
+| 348  | Pasquale, \*Aricò |  1 |  33,33 |
+| 349  | Lorenzo, \*Carli Maltinti |  1 |  33,33 |
+| 350  | Samuele, Estratti |  1 |  33,33 |
+| 351  | Lorenzo, \*MENGALI |  1 |  33,33 |
+| 352  | Lovro, \*Gasparac |  1 |  33,33 |
+| 353  | Ilex, \*Tesi |  1 |  33,33 |
+| 354  | Cristian, \*Veroli |  1 |  33,33 |
+| 355  | Lorenzo, \*Marinucci |  1 |  33,33 |
+| 356  | Rodolfo, Bozzo |  1 |  33,33 |
+| 357  | Alberto, \*Pace |  0 |  100,00 |
+| 358  | Andrea, \*Bassanetti |  0 |  100,00 |
+| 359  | Andrea, \*Brozzi |  0 |  100,00 |
+| 360  | Daniele, \*Villa |  0 |  100,00 |
+| 361  | Ivan, MRANKOV |  0 |  100,00 |
+| 362  | Lorenzo, \*Zammarchi |  0 |  100,00 |
+| 363  | Marc, \*Duciel |  0 |  100,00 |
+| 364  | Marco, \*Salemi |  0 |  100,00 |
+| 365  | Marco, \*Ibba |  0 |  100,00 |
+| 366  | Luca, \*Fusi |  0 |  100,00 |
+| 367  | Luigi, \*Bonacina |  0 |  100,00 |
+| 368  | Luca, \*Favilla |  0 |  100,00 |
+| 369  | Federico, \*Ferruzzi |  0 |  100,00 |
+| 370  | Lorenzo, \*Angelino |  0 |  100,00 |
+| 371  | Laurent, Pagorek |  0 |  100,00 |
+| 372  | Leonardo, \*CIOFFO |  0 |  100,00 |
+| 373  | Lázár, \*Szabó |  0 |  100,00 |
+| 374  | Kristijan, \*Delac |  0 |  100,00 |
+| 375  | Jonathan, \*Bordalampe |  0 |  100,00 |
+| 376  | Javier, Perez Fresnedo |  0 |  100,00 |
+| 377  | Jacopo, Spandri |  0 |  100,00 |
+| 378  | Giacomo, \*Luchetta |  0 |  100,00 |
+| 379  | Gianni, \*Lorenzoni |  0 |  100,00 |
+| 380  | Giorgio, \*Tavagna |  0 |  100,00 |
+| 381  | Giuseppe, \*Levante |  0 |  100,00 |
+| 382  | Giovanni, \*Tommasini |  0 |  100,00 |
+| 383  | Giuliano, \*Fiaschi |  0 |  100,00 |
+| 384  | Giacomo, \*Nencioni |  0 |  100,00 |
+| 385  | Gabriele, \*Politi |  0 |  100,00 |
+| 386  | Federico, \*Piermaria |  0 |  100,00 |
+| 387  | Francesco, \*Bardi |  0 |  100,00 |
+| 388  | Filippo, \*Sintoni |  0 |  100,00 |
+| 389  | Filippo, \*SEMBOLONI |  0 |  100,00 |
+| 390  | Federico, Marinato |  0 |  100,00 |
+| 391  | Federico, \*Insardi |  0 |  100,00 |
+| 392  | Fabrice, \*Bartezaghi |  0 |  100,00 |
+| 393  | Alfonso, Lopez Andreu |  0 |  100,00 |
+| 394  | Dino, \*Reic |  0 |  100,00 |
+| 395  | Duccio, \*Rutigliano |  0 |  100,00 |
+| 396  | Davide, \*Piovaccari |  0 |  100,00 |
+| 397  | Alfredo, \*Vallorani |  0 |  100,00 |
+| 398  | Alessio, \*Cavani |  0 |  100,00 |
+| 399  | Andres, \*Navarro |  0 |  100,00 |
+| 400  | Alessandro, \*Torresan - Ital |  0 |  100,00 |
+| 401  | Alessandro, Marvaldi |  0 |  100,00 |
+| 402  | Alessandro, \*Pagano |  0 |  100,00 |
+| 403  | Alessandro, \*Perugini |  0 |  100,00 |
+| 404  | Alessandro, \*Morganti |  0 |  100,00 |
+| 405  | Alessandro, \*Lippi |  0 |  100,00 |
+| 406  | Marco, \*Bacaloni |  0 |  100,00 |
+| 407  | Massimo, \*Chiarandini |  0 |  100,00 |
+| 408  | Matteo, \*Morselli |  0 |  100,00 |
+| 409  | Matteo, \*Paparella |  0 |  100,00 |
+| 410  | Massimo, Pistolesi |  0 |  100,00 |
+| 411  | Matteo, \*Versari |  0 |  100,00 |
+| 412  | Massimo, \*Guarino |  0 |  100,00 |
+| 413  | Markus, \*Kunz |  0 |  100,00 |
+| 414  | Marco, BANI |  0 |  100,00 |
+| 415  | Oscar, \*Buj |  0 |  100,00 |
+| 416  | Ottavio, \*Daniele |  0 |  100,00 |
+| 417  | Paolo, \*Capriotti |  0 |  100,00 |
+| 418  | Patrick, Jansen |  0 |  100,00 |
+| 419  | Raffaele, \*Visciano |  0 |  100,00 |
+| 420  | Simon, Kennerley |  0 |  100,00 |
+| 421  | Simone, \*CAUSSER |  0 |  100,00 |
+| 422  | Michele, \*Squillante |  0 |  100,00 |
+| 423  | Stefano, \*Poletti |  0 |  100,00 |
+| 424  | Stefano, \*Raffaele |  0 |  100,00 |
+| 425  | Simone, \*Sassoli |  0 |  100,00 |
+| 426  | Ralf, Holzweiss |  0 |  100,00 |
+| 427  | Steve, Queroub |  0 |  100,00 |
+| 428  | Peter, \*Betschart |  0 |  100,00 |
+| 429  | Urs, NOTTER |  0 |  100,00 |
+| 430  | Yacine, \*Younes |  0 |  100,00 |
+| 431  | Bernnardo, Foschi |  0 |  100,00 |
+| 432  | Tommaso, \*Gistri |  0 |  100,00 |
+| 433  | Mattia, Robbiano |  0 |  100,00 |
+| 434  | Davide, Canuti |  0 |  100,00 |
+| 435  | Andrea, Cabella |  0 |  100,00 |
+| 436  | Antonio, Cardenas Alonso |  0 |  100,00 |
+| 437  | Tommaso, \*ARNETOLI |  0 |  100,00 |
+| 438  | Paolo, \*MARGIOTTA |  0 |  100,00 |
+| 439  | Nicola, \*Lippi |  0 |  100,00 |
+| 440  | Daniel, \*Oppliger |  0 |  100,00 |
+| 441  | Alessandro, \*Casetto |  0 |  100,00 |
+| 442  | Luca, \*Rinaldi |  0 |  100,00 |
+| 443  | Andrea, Zoffoli |  0 |  100,00 |
+| 444  | Julien, Le Loeuff |  0 |  100,00 |
+| 445  | Lapo, Bontempi |  0 |  100,00 |
+| 446  | Kaku, \*Yoshihisa |  0 |  100,00 |
+| 447  | Andreas, \*Wohlmuth |  0 |  100,00 |
+| 448  | Jochen, Schönemann |  0 |  100,00 |
+| 449  | Jan, \*Nava |  0 |  100,00 |
+| 450  | Jacopo, \*Romei |  0 |  100,00 |
+| 451  | Hugo, \*Romero - Spain |  0 |  100,00 |
+| 452  | Igor, \*Livakovic |  0 |  100,00 |
+| 453  | Iacopo, \*Adda |  0 |  100,00 |
+| 454  | Gianluca, \*Bevere |  0 |  100,00 |
+| 455  | Gianni, \*Bertelli |  0 |  100,00 |
+| 456  | Giorgio, \*Tibaldi |  0 |  100,00 |
+| 457  | Giuseppe, \*COPPOLA |  0 |  100,00 |
+| 458  | Giulio, \*Milone |  0 |  100,00 |
+| 459  | Giovanni, \*Gullace |  0 |  100,00 |
+| 460  | Giorgio, \*CASES |  0 |  100,00 |
+| 461  | Gianni, Moretti |  0 |  100,00 |
+| 462  | Gianluca, \*CAUSSER |  0 |  100,00 |
+| 463  | Giacomo, Ferruzzi |  0 |  100,00 |
+| 464  | Antonio, \*Frederico Costa |  0 |  100,00 |
+| 465  | Gabriele, \*Santoro |  0 |  100,00 |
+| 466  | Gabriele, \*Rabbini |  0 |  100,00 |
+| 467  | Furio, \*Solrini |  0 |  100,00 |
+| 468  | Francisco, Carmona |  0 |  100,00 |
+| 469  | Francesco, \*Tino |  0 |  100,00 |
+| 470  | Francesco, \*NUCCI |  0 |  100,00 |
+| 471  | Eric, \*Duvoisin |  0 |  100,00 |
+| 472  | Ezio, Valenti |  0 |  100,00 |
+| 473  | Federico, \*Gallazzo |  0 |  100,00 |
+| 474  | Fabian, \*Niermann |  0 |  100,00 |
+| 475  | Fabio, \*Balzanetti |  0 |  100,00 |
+| 476  | Ermanno, \*Battocchi |  0 |  100,00 |
+| 477  | Daniele, \*Zanello |  0 |  100,00 |
+| 478  | Dario, \*Chelli |  0 |  100,00 |
+| 479  | Lorenzo, BELLI |  0 |  100,00 |
+| 480  | Luca, \*Bagnoli |  0 |  100,00 |
+| 481  | Manuel, \*Rossi |  0 |  100,00 |
+| 482  | Martin, \*Seper |  0 |  100,00 |
+| 483  | Matteo, \*Rattotti |  0 |  100,00 |
+| 484  | Matteo, Vianello |  0 |  100,00 |
+| 485  | Matthias, \*Schwartz |  0 |  100,00 |
+| 486  | Maurizio, Vergendo |  0 |  100,00 |
+| 487  | Mauro, \*Di Marco |  0 |  100,00 |
+| 488  | Mirco, \*Villani |  0 |  100,00 |
+| 489  | Morello, Helaman |  0 |  100,00 |
+| 490  | Niccolò, \*Brussa |  0 |  100,00 |
+| 491  | Nicola, \*Guzzo |  0 |  100,00 |
+| 492  | Paul, \*Grasser |  0 |  100,00 |
+| 493  | Peter, \*Borstnar |  0 |  100,00 |
+| 494  | Roman, \*Stalder |  0 |  100,00 |
+| 495  | Ruggero, \*Inglese |  0 |  100,00 |
+| 496  | Sarah, \*Maciej |  0 |  100,00 |
+| 497  | Simon, \*Zoltán |  0 |  100,00 |
+| 498  | Stefano, \*Bolognini |  0 |  100,00 |
+| 499  | Stefano, \*Solina |  0 |  100,00 |
+| 500  | Stefano, Lenzi |  0 |  100,00 |
+| 501  | Stephan, \*Genser |  0 |  100,00 |
+| 502  | Thomas, \*Jaki |  0 |  100,00 |
+| 503  | Timur, Dogan |  0 |  100,00 |
+| 504  | Vincenzo, \*PALOPOLI |  0 |  100,00 |
+| 505  | Ziga, \*Skrbec |  0 |  100,00 |
+| 506  | Zvonimir, \*Mozer |  0 |  100,00 |
+| 507  | Davide, Bonati |  0 |  100,00 |
+| 508  | Tommaso, Gatta |  0 |  100,00 |
+| 509  | Andrea, Monti |  0 |  100,00 |
+| 510  | Mattia, \*Baroni |  0 |  100,00 |
+| 511  | Yuri, \*BARTOLINI |  0 |  100,00 |
+| 512  | Vincenzo, \*Schiano di Scioar |  0 |  100,00 |
+| 513  | Urs, \*Schlatter |  0 |  100,00 |
+| 514  | Tobias, \*Gruber |  0 |  100,00 |
+| 515  | Stéphane, \*Guerrier |  0 |  100,00 |
+| 516  | Stefano, \*Luppi |  0 |  100,00 |
+| 517  | Simone, \*Sarracino |  0 |  100,00 |
+| 518  | Simone, \*Benedetti |  0 |  100,00 |
+| 519  | Sebastjan-Bostjan, \*Plevnik |  0 |  100,00 |
+| 520  | Salvatore, \*Di Casola |  0 |  100,00 |
+| 521  | Roberto, \*Salvidio |  0 |  100,00 |
+| 522  | Riccardo, \*Briganti |  0 |  100,00 |
+| 523  | Porfirio, \*Scotto D' Aniello |  0 |  100,00 |
+| 524  | Piero, \*Lombardi |  0 |  100,00 |
+| 525  | Pierluigi, \*Sanna |  0 |  100,00 |
+| 526  | Nicolas, Lecointe |  0 |  100,00 |
+| 527  | Paolo, \*Dal Cin |  0 |  100,00 |
+| 528  | Nicolo, Capuzzo |  0 |  100,00 |
+| 529  | Nicola, Rota |  0 |  100,00 |
+| 530  | Moys, \*Christopher |  0 |  100,00 |
+| 531  | Mauro, \*Tasimato |  0 |  100,00 |
+| 532  | Mattia, \*Macrì |  0 |  100,00 |
+| 533  | Matteo, \*Rubini |  0 |  100,00 |
+| 534  | Massimo, \*Machella |  0 |  100,00 |
+| 535  | Martin, \*Zeljeznjak |  0 |  100,00 |
+| 536  | Marko, \*Stokelj |  0 |  100,00 |
+| 537  | Marco, \*Bianchi |  0 |  100,00 |
+| 538  | Marco, \*Lombardi |  0 |  100,00 |
+| 539  | Marcin, \*Kumorek |  0 |  100,00 |
+| 540  | Luca, Lenzotti |  0 |  100,00 |
+| 541  | Luca, \*Mazzei |  0 |  100,00 |
+| 542  | Luca, \*Cenisi |  0 |  100,00 |
+| 543  | Dario, \*Villa |  0 |  100,00 |
+| 544  | Domenico, Dedato |  0 |  100,00 |
+| 545  | Diego, \*Rotasperti |  0 |  100,00 |
+| 546  | Davide, \*Guandalini |  0 |  100,00 |
+| 547  | David, \*Vicenzutto |  0 |  100,00 |
+| 548  | Dario, \*DE PALMA |  0 |  100,00 |
+| 549  | Daniele, Monterisi |  0 |  100,00 |
+| 550  | Dania, \*Villa |  0 |  100,00 |
+| 551  | Daniel, \*Hunziker |  0 |  100,00 |
+| 552  | Cristiano, \*Carlotti |  0 |  100,00 |
+| 553  | Cristian, Giubertoni |  0 |  100,00 |
+| 554  | Carmelo, \*Nici |  0 |  100,00 |
+| 555  | Christoph, \*Sereinig |  0 |  100,00 |
+| 556  | Caterina, \*Serafini |  0 |  100,00 |
+| 557  | Carlo, \*Tognini |  0 |  100,00 |
+| 558  | Bojan, \*Bajsic |  0 |  100,00 |
+| 559  | Antonio, \*Giglio |  0 |  100,00 |
+| 560  | Antonio, \*Sottosanti |  0 |  100,00 |
+| 561  | Andrès Carlos, \*Martinez |  0 |  100,00 |
+| 562  | Andreas, Schlagin |  0 |  100,00 |
+| 563  | Alessandro, \*VIZIN |  0 |  100,00 |
+| 564  | Alessio, \*Romano |  0 |  100,00 |
+| 565  | Andrea, \*Giovacchini |  0 |  100,00 |
+| 566  | Andrea, \*Brancato |  0 |  100,00 |
+| 567  | Andrea, \*Curti |  0 |  100,00 |
+| 568  | Alfonso, \*MONTAGNI |  0 |  100,00 |
+| 569  | Alioscia, \*Barsiola |  0 |  100,00 |
+| 570  | Alfonso, Spisto |  0 |  100,00 |
+| 571  | Alexandre, \*Beguin |  0 |  100,00 |
+| 572  | Alex, \*Tomasi |  0 |  100,00 |
+| 573  | Alessandro, Gariup |  0 |  100,00 |
+| 574  | Alessandro, Asquini |  0 |  100,00 |
+| 575  | Alessandro, \*Scala |  0 |  100,00 |
+| 576  | Alessandro, \*Luchetti |  0 |  100,00 |
+| 577  | Alessandro, \*MAGRINI |  0 |  100,00 |
+| 578  | Alessandro, \*Ferri |  0 |  100,00 |
+| 579  | Alessandro, \*CORSONI |  0 |  100,00 |
+
+
+
+
+
+
+

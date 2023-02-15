@@ -106,7 +106,7 @@ Let's look at three representative cards before we dive into the details in subs
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/z9WIdzFdqD1_EN_LR.jpg)Heliod, God of the Sun  
-![3 Mana](https://web.archive.org/web/20170413165507im_/http://archive.wizards.com/images/Symbols/Symbol_3_mana.gif)![White Mana](https://web.archive.org/web/20160519004405im_/http://archive.wizards.com/images/Symbols/white_mana.gif)  
+![3 Mana](https://media.wizards.com/legacy/images/symbols/symbol_3_mana.gif)![White Mana](https://web.archive.org/web/20160519004405im_/http://archive.wizards.com/images/Symbols/white_mana.gif)  
 
 Legendary Enchantment Creature — God  
 
@@ -117,7 +117,7 @@ Indestructible
 As long as your devotion to white is less than five, Heliod isn't a creature.  *(Each ![White Mana](https://web.archive.org/web/20160519004405im_/http://archive.wizards.com/images/Symbols/white_mana.gif) in the mana costs of permanents you control counts toward your devotion to white.)*   
 
 Other creatures you control have vigilance.  
-![2 Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/Symbol_2_mana.gif)![White Mana](https://web.archive.org/web/20160519004405im_/http://archive.wizards.com/images/Symbols/white_mana.gif)![White Mana](https://web.archive.org/web/20160519004405im_/http://archive.wizards.com/images/Symbols/white_mana.gif): Put a 2/1 white Cleric enchantment creature token onto the battlefield.
+![2 Mana](https://media.wizards.com/legacy/images/symbols/symbol_2_mana.gif)![White Mana](https://web.archive.org/web/20160519004405im_/http://archive.wizards.com/images/Symbols/white_mana.gif)![White Mana](https://web.archive.org/web/20160519004405im_/http://archive.wizards.com/images/Symbols/white_mana.gif): Put a 2/1 white Cleric enchantment creature token onto the battlefield.
 
 
 
@@ -130,7 +130,7 @@ Heliod, God of the Sun is part of a cycle of five legendary enchantment creature
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/zul7zr9qalB_EN_LR.jpg)Heliod's Emissary  
-![3 Mana](https://web.archive.org/web/20170413165507im_/http://archive.wizards.com/images/Symbols/Symbol_3_mana.gif)![White Mana](https://web.archive.org/web/20160519004405im_/http://archive.wizards.com/images/Symbols/white_mana.gif)  
+![3 Mana](https://media.wizards.com/legacy/images/symbols/symbol_3_mana.gif)![White Mana](https://web.archive.org/web/20160519004405im_/http://archive.wizards.com/images/Symbols/white_mana.gif)  
 
 Enchantment Creature — Elk  
 
@@ -158,7 +158,7 @@ Heliod's Emissary is one of the fifteen other enchantment creatures in the set. 
 Legendary Enchantment Artifact  
 
 Creatures you control get +1/+1.  
-![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif)![White Mana](https://web.archive.org/web/20160519004405im_/http://archive.wizards.com/images/Symbols/white_mana.gif)![White Mana](https://web.archive.org/web/20160519004405im_/http://archive.wizards.com/images/Symbols/white_mana.gif), ![Tap](https://web.archive.org/web/20170413165513im_/http://archive.wizards.com/images/Symbols/tap.gif): Destroy target creature that dealt damage to you this turn.
+![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif)![White Mana](https://web.archive.org/web/20160519004405im_/http://archive.wizards.com/images/Symbols/white_mana.gif)![White Mana](https://web.archive.org/web/20160519004405im_/http://archive.wizards.com/images/Symbols/white_mana.gif), ![Tap](https://media.wizards.com/legacy/images/symbols/tap.gif): Destroy target creature that dealt damage to you this turn.
 
 
 
@@ -192,13 +192,13 @@ Bestow is a new keyword that represents the ability of some enchantment creature
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/zobf5t7Q9Vu_EN_LR.jpg)Nimbus Naiad  
-![2 Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/Symbol_2_mana.gif)![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif)  
+![2 Mana](https://media.wizards.com/legacy/images/symbols/symbol_2_mana.gif)![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif)  
 
 Enchantment Creature — Nymph  
 
 2/2  
 
-Bestow ![4 Mana](https://web.archive.org/web/20150525105735im_/http://archive.wizards.com/images/Symbols/Symbol_4_mana.gif)![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif)*(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)*  
+Bestow ![4 Mana](https://web.archive.org/web/20150525105735im_/http://archive.wizards.com/images/Symbols/Symbol_4_mana.gif)![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif)*(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)*  
 
 Flying  
 
@@ -231,7 +231,7 @@ The official rules for bestow are as follows:
   
 * Unlike other Aura spells, an Aura spell with bestow isn't countered if its target is illegal as it begins to resolve. Rather, the effect making it an Aura spell ends, it loses enchant creature, it returns to being an enchantment creature spell, and it resolves and enters the battlefield as an enchantment creature.
   
-* Unlike other Auras, an Aura with bestow isn't put into its owner's graveyard if it becomes unattached. Rather, the effect making it an Aura ends, it loses enchant creature, and it remains on the battlefield as an enchantment creature. It can attack (and its ![Tap](https://web.archive.org/web/20170413165513im_/http://archive.wizards.com/images/Symbols/tap.gif) abilities can be activated, if it has any) on the turn it becomes unattached if it's been under your control continuously, even as an Aura, since your most recent turn began.
+* Unlike other Auras, an Aura with bestow isn't put into its owner's graveyard if it becomes unattached. Rather, the effect making it an Aura ends, it loses enchant creature, and it remains on the battlefield as an enchantment creature. It can attack (and its ![Tap](https://media.wizards.com/legacy/images/symbols/tap.gif) abilities can be activated, if it has any) on the turn it becomes unattached if it's been under your control continuously, even as an Aura, since your most recent turn began.
   
 * If a permanent with bestow enters the battlefield by any method other than being cast, it will be an enchantment creature. You can't choose to pay the bestow cost and have it become an Aura.
   
@@ -297,14 +297,14 @@ Monsters of myth prowl the landscape of Theros, striking fear into the stoutest 
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/E3kT7i42COQ_EN_LR.jpg)Keepsake Gorgon  
-![3 Mana](https://web.archive.org/web/20170413165507im_/http://archive.wizards.com/images/Symbols/Symbol_3_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif)  
+![3 Mana](https://media.wizards.com/legacy/images/symbols/symbol_3_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif)  
 
 Creature — Gorgon  
 
 2/5  
 
 Deathtouch  
-![5 Mana](https://web.archive.org/web/20150331031459im_/http://archive.wizards.com/images/Symbols/Symbol_5_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif): Monstrosity 1. *(If this creature isn't monstrous, put a +1/+1 counter on it and it becomes monstrous.)*  
+![5 Mana](https://media.wizards.com/legacy/images/symbols/symbol_5_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif): Monstrosity 1. *(If this creature isn't monstrous, put a +1/+1 counter on it and it becomes monstrous.)*  
 
 When Keepsake Gorgon becomes monstrous, destroy target non-Gorgon creature an opponent controls.
 
@@ -354,13 +354,13 @@ The pantheon of gods rewards the allegiance of mortals with magnificent wonders.
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/re0D4PapnZY_EN_LR.jpg)Nylea's Disciple  
-![2 Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/Symbol_2_mana.gif)![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif)![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif)  
+![2 Mana](https://media.wizards.com/legacy/images/symbols/symbol_2_mana.gif)![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif)![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif)  
 
 Creature — Centaur Archer  
 
 3/3  
 
-When Nylea's Disciple enters the battlefield, you gain life equal to your devotion to green.  *(Each ![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif) in the mana costs of permanents you control counts toward your devotion to green.)* 
+When Nylea's Disciple enters the battlefield, you gain life equal to your devotion to green.  *(Each ![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif) in the mana costs of permanents you control counts toward your devotion to green.)* 
 
 
 
@@ -371,7 +371,7 @@ The official rule for devotion is as follows:
 
 
 
-* Numeric mana symbols (![0 Mana](https://web.archive.org/web/20151201051705im_/http://archive.wizards.com/images/Symbols/Symbol_0_mana.gif), ![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif), and so on) in mana costs of permanents you control don't count toward your devotion to any color.
+* Numeric mana symbols (![0 Mana](https://media.wizards.com/legacy/images/symbols/symbol_0_mana.gif), ![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif), and so on) in mana costs of permanents you control don't count toward your devotion to any color.
   
 * Mana symbols in the text boxes of permanents you control don't count toward your devotion to any color.
   
@@ -391,7 +391,7 @@ Scry is a returning keyword action that lets you get a glimpse of your future an
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/npY78banq1t_EN_LR.jpg)Spark Jolt  
-![Red Mana](https://web.archive.org/web/20150518222449im_/http://archive.wizards.com/images/Symbols/red_mana.gif)  
+![Red Mana](https://media.wizards.com/legacy/images/symbols/red_mana.gif)  
 
 Instant  
 
@@ -432,7 +432,7 @@ The gods of Theros are ethereal beings who live among the stars. If mortals' bel
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/fd5rGDtVqKE_EN_LR.jpg)Nylea, God of the Hunt  
-![3 Mana](https://web.archive.org/web/20170413165507im_/http://archive.wizards.com/images/Symbols/Symbol_3_mana.gif)![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif)  
+![3 Mana](https://media.wizards.com/legacy/images/symbols/symbol_3_mana.gif)![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif)  
 
 Legendary Enchantment Creature — God  
 
@@ -440,10 +440,10 @@ Legendary Enchantment Creature — God
 
 Indestructible  
 
-As long as your devotion to green is less than five, Nylea isn't a creature.  *(Each ![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif) in the mana costs of permanents you control counts toward your devotion to green.)*   
+As long as your devotion to green is less than five, Nylea isn't a creature.  *(Each ![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif) in the mana costs of permanents you control counts toward your devotion to green.)*   
 
 Other creatures you control have trample.  
-![3 Mana](https://web.archive.org/web/20170413165507im_/http://archive.wizards.com/images/Symbols/Symbol_3_mana.gif)![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif): Target creature gets +2/+2 until end of turn.
+![3 Mana](https://media.wizards.com/legacy/images/symbols/symbol_3_mana.gif)![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif): Target creature gets +2/+2 until end of turn.
 
 
 
@@ -561,7 +561,7 @@ Under the previous rules, if there were two or more legendary permanents with th
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/QJeazbnbFUG_EN_LR.jpg)Abhorrent Overlord  
-![5 Mana](https://web.archive.org/web/20150331031459im_/http://archive.wizards.com/images/Symbols/Symbol_5_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif)  
+![5 Mana](https://media.wizards.com/legacy/images/symbols/symbol_5_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif)  
 
 Creature — Demon  
 
@@ -596,12 +596,12 @@ At the beginning of your upkeep, sacrifice a creature.
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/urrK6gXNJ77_EN_LR.jpg)Agent of Horizons  
-![2 Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/Symbol_2_mana.gif)![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif)  
+![2 Mana](https://media.wizards.com/legacy/images/symbols/symbol_2_mana.gif)![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif)  
 
 Creature — Human Rogue  
 
 3/2  
-![2 Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/Symbol_2_mana.gif)![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif): Agent of Horizons can't be blocked this turn.
+![2 Mana](https://media.wizards.com/legacy/images/symbols/symbol_2_mana.gif)![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif): Agent of Horizons can't be blocked this turn.
 
 
 
@@ -620,7 +620,7 @@ Creature — Human Rogue
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/WpiGDReZ51p_EN_LR.jpg)Akroan Hoplite  
-![Red Mana](https://web.archive.org/web/20150518222449im_/http://archive.wizards.com/images/Symbols/red_mana.gif)![White Mana](https://web.archive.org/web/20160519004405im_/http://archive.wizards.com/images/Symbols/white_mana.gif)  
+![Red Mana](https://media.wizards.com/legacy/images/symbols/red_mana.gif)![White Mana](https://web.archive.org/web/20160519004405im_/http://archive.wizards.com/images/Symbols/white_mana.gif)  
 
 Creature — Human Soldier  
 
@@ -686,7 +686,7 @@ At the beginning of your upkeep, each opponent puts a 1/1 white Soldier creature
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/uqAdqR8OPId_EN_LR.jpg)Anax and Cymede  
-![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif)![Red Mana](https://web.archive.org/web/20150518222449im_/http://archive.wizards.com/images/Symbols/red_mana.gif)![White Mana](https://web.archive.org/web/20160519004405im_/http://archive.wizards.com/images/Symbols/white_mana.gif)  
+![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif)![Red Mana](https://media.wizards.com/legacy/images/symbols/red_mana.gif)![White Mana](https://web.archive.org/web/20160519004405im_/http://archive.wizards.com/images/Symbols/white_mana.gif)  
 
 Legendary Creature — Human Soldier  
 
@@ -714,7 +714,7 @@ First strike, vigilance
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/7dN5tUyPHN1_EN_LR.jpg)Anger of the Gods  
-![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif)![Red Mana](https://web.archive.org/web/20150518222449im_/http://archive.wizards.com/images/Symbols/red_mana.gif)![Red Mana](https://web.archive.org/web/20150518222449im_/http://archive.wizards.com/images/Symbols/red_mana.gif)  
+![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif)![Red Mana](https://media.wizards.com/legacy/images/symbols/red_mana.gif)![Red Mana](https://media.wizards.com/legacy/images/symbols/red_mana.gif)  
 
 Sorcery  
 
@@ -739,7 +739,7 @@ Anger of the Gods deals 3 damage to each creature. If a creature dealt damage th
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/hmtKl5Od0lz_EN_LR.jpg)Anthousa, Setessan Hero  
-![3 Mana](https://web.archive.org/web/20170413165507im_/http://archive.wizards.com/images/Symbols/Symbol_3_mana.gif)![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif)![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif)  
+![3 Mana](https://media.wizards.com/legacy/images/symbols/symbol_3_mana.gif)![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif)![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif)  
 
 Legendary Creature — Human Warrior  
 
@@ -749,7 +749,7 @@ Legendary Creature — Human Warrior
 
 
 
-* If a land that hasn't been under your control continuously since your last turn began becomes a creature, it can't attack and its activated abilities that include ![Tap](https://web.archive.org/web/20170413165513im_/http://archive.wizards.com/images/Symbols/tap.gif) can't be activated. Notably, it can't be tapped for mana that turn.
+* If a land that hasn't been under your control continuously since your last turn began becomes a creature, it can't attack and its activated abilities that include ![Tap](https://media.wizards.com/legacy/images/symbols/tap.gif) can't be activated. Notably, it can't be tapped for mana that turn.
 
   
   
@@ -763,7 +763,7 @@ Legendary Creature — Human Warrior
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/OX5cCE8cqEQ_EN_LR.jpg)Arena Athlete  
-![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif)![Red Mana](https://web.archive.org/web/20150518222449im_/http://archive.wizards.com/images/Symbols/red_mana.gif)  
+![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif)![Red Mana](https://media.wizards.com/legacy/images/symbols/red_mana.gif)  
 
 Creature — Human  
 
@@ -787,7 +787,7 @@ Creature — Human
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/zU1xFW3pW1s_EN_LR.jpg)Artisan of Forms  
-![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif)![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif)  
+![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif)![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif)  
 
 Creature — Human Wizard  
 
@@ -825,7 +825,7 @@ Creature — Human Wizard
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/QbglAaRUjAK_EN_LR.jpg)Artisan's Sorrow  
-![3 Mana](https://web.archive.org/web/20170413165507im_/http://archive.wizards.com/images/Symbols/Symbol_3_mana.gif)![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif)  
+![3 Mana](https://media.wizards.com/legacy/images/symbols/symbol_3_mana.gif)![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif)  
 
 Instant  
 
@@ -848,7 +848,7 @@ Destroy target artifact or enchantment. Scry 2. *(Look at the top two cards of y
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/WKUKaH6Fkuj_EN_LR.jpg)Ashiok, Nightmare Weaver  
-![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif)![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif)  
+![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif)![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif)  
 
 Planeswalker — Ashiok  
 
@@ -885,12 +885,12 @@ Planeswalker — Ashiok
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/cLpHSpJ8TCG_EN_LR.jpg)Bident of Thassa  
-![2 Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/Symbol_2_mana.gif)![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif)![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif)  
+![2 Mana](https://media.wizards.com/legacy/images/symbols/symbol_2_mana.gif)![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif)![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif)  
 
 Legendary Enchantment Artifact  
 
 Whenever a creature you control deals combat damage to a player, you may draw a card.  
-![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif)![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif), ![Tap](https://web.archive.org/web/20170413165513im_/http://archive.wizards.com/images/Symbols/tap.gif): Creatures your opponents control attack this turn if able.
+![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif)![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif), ![Tap](https://media.wizards.com/legacy/images/symbols/tap.gif): Creatures your opponents control attack this turn if able.
 
 
 
@@ -934,7 +934,7 @@ Target creature gets +2/+0 until end of turn. Regenerate it. You lose 2 life.
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/24CmalENTYR_EN_LR.jpg)Boulderfall  
-![6 Mana](https://web.archive.org/web/20150603004743im_/http://archive.wizards.com/images/Symbols/Symbol_6_mana.gif)![Red Mana](https://web.archive.org/web/20150518222449im_/http://archive.wizards.com/images/Symbols/red_mana.gif)![Red Mana](https://web.archive.org/web/20150518222449im_/http://archive.wizards.com/images/Symbols/red_mana.gif)  
+![6 Mana](https://web.archive.org/web/20150603004743im_/http://archive.wizards.com/images/Symbols/Symbol_6_mana.gif)![Red Mana](https://media.wizards.com/legacy/images/symbols/red_mana.gif)![Red Mana](https://media.wizards.com/legacy/images/symbols/red_mana.gif)  
 
 Instant  
 
@@ -965,12 +965,12 @@ Boulderfall deals 5 damage divided as you choose among any number of target crea
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/WQusG26RYxS_EN_LR.jpg)Bow of Nylea  
-![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif)![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif)![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif)  
+![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif)![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif)![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif)  
 
 Legendary Enchantment Artifact  
 
 Attacking creatures you control have deathtouch.  
-![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif)![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif), ![Tap](https://web.archive.org/web/20170413165513im_/http://archive.wizards.com/images/Symbols/tap.gif): Choose one — Put a +1/+1 counter on target creature; or Bow of Nylea deals 2 damage to target creature with flying; or you gain 3 life; or put up to four target cards from your graveyard on the bottom of your library in any order.
+![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif)![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif), ![Tap](https://media.wizards.com/legacy/images/symbols/tap.gif): Choose one — Put a +1/+1 counter on target creature; or Bow of Nylea deals 2 damage to target creature with flying; or you gain 3 life; or put up to four target cards from your graveyard on the bottom of your library in any order.
 
 
 
@@ -1059,7 +1059,7 @@ When Chained to the Rocks enters the battlefield, exile target creature an oppon
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/pqmawAfXypy_EN_LR.jpg)Chronicler of Heroes  
-![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif)![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif)![White Mana](https://web.archive.org/web/20160519004405im_/http://archive.wizards.com/images/Symbols/white_mana.gif)  
+![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif)![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif)![White Mana](https://web.archive.org/web/20160519004405im_/http://archive.wizards.com/images/Symbols/white_mana.gif)  
 
 Creature — Centaur Wizard  
 
@@ -1084,7 +1084,7 @@ When Chronicler of Heroes enters the battlefield, draw a card if you control a c
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/6LOOexs22mp_EN_LR.jpg)Coastline Chimera  
-![3 Mana](https://web.archive.org/web/20170413165507im_/http://archive.wizards.com/images/Symbols/Symbol_3_mana.gif)![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif)  
+![3 Mana](https://media.wizards.com/legacy/images/symbols/symbol_3_mana.gif)![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif)  
 
 Creature — Chimera  
 
@@ -1110,7 +1110,7 @@ Flying
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/IbdPuI4eb7O_EN_LR.jpg)Colossus of Akros  
-![8 Mana](https://web.archive.org/web/20150907235148im_/http://archive.wizards.com/images/Symbols/Symbol_8_mana.gif)  
+![8 Mana](https://media.wizards.com/legacy/images/symbols/symbol_8_mana.gif)  
 
 Artifact Creature — Golem  
 
@@ -1140,7 +1140,7 @@ As long as Colossus of Akros is monstrous, it has trample and can attack as thou
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/cJYRmUzeacB_EN_LR.jpg)Curse of the Swine  
-![X Mana](https://web.archive.org/web/20150421062918im_/http://archive.wizards.com/images/Symbols/X_mana.gif)![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif)![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif)  
+![X Mana](https://web.archive.org/web/20150421062918im_/http://archive.wizards.com/images/Symbols/X_mana.gif)![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif)![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif)  
 
 Sorcery  
 
@@ -1165,7 +1165,7 @@ Exile X target creatures. For each creature exiled this way, its controller puts
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/tVI4bJ9j94Z_EN_LR.jpg)Daxos of Meletis  
-![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif)![White Mana](https://web.archive.org/web/20160519004405im_/http://archive.wizards.com/images/Symbols/white_mana.gif)![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif)  
+![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif)![White Mana](https://web.archive.org/web/20160519004405im_/http://archive.wizards.com/images/Symbols/white_mana.gif)![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif)  
 
 Legendary Creature — Human Soldier  
 
@@ -1198,14 +1198,14 @@ Whenever Daxos of Meletis deals combat damage to a player, exile the top card of
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/kvaQgwNhd0K_EN_LR.jpg)Deathbellow Raider  
-![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif)![Red Mana](https://web.archive.org/web/20150518222449im_/http://archive.wizards.com/images/Symbols/red_mana.gif)  
+![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif)![Red Mana](https://media.wizards.com/legacy/images/symbols/red_mana.gif)  
 
 Creature — Minotaur Berserker  
 
 2/3  
 
 Deathbellow Raider attacks each turn if able.  
-![2 Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/Symbol_2_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif): Regenerate Deathbellow Raider.
+![2 Mana](https://media.wizards.com/legacy/images/symbols/symbol_2_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif): Regenerate Deathbellow Raider.
 
 
 
@@ -1226,7 +1226,7 @@ Deathbellow Raider attacks each turn if able.
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/vY2WvplHIRz_EN_LR.jpg)Destructive Revelry  
-![Red Mana](https://web.archive.org/web/20150518222449im_/http://archive.wizards.com/images/Symbols/red_mana.gif)![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif)  
+![Red Mana](https://media.wizards.com/legacy/images/symbols/red_mana.gif)![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif)  
 
 Instant  
 
@@ -1249,7 +1249,7 @@ Destroy target artifact or enchantment. Destructive Revelry deals 2 damage to th
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/fzfBRzqqtIU_EN_LR.jpg)Disciple of Phenax  
-![2 Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/Symbol_2_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif)  
+![2 Mana](https://media.wizards.com/legacy/images/symbols/symbol_2_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif)  
 
 Creature — Human Cleric  
 
@@ -1274,12 +1274,12 @@ When Disciple of Phenax enters the battlefield, target player reveals a number o
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/pnTym03jcC4_EN_LR.jpg)Ember Swallower  
-![2 Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/Symbol_2_mana.gif)![Red Mana](https://web.archive.org/web/20150518222449im_/http://archive.wizards.com/images/Symbols/red_mana.gif)![Red Mana](https://web.archive.org/web/20150518222449im_/http://archive.wizards.com/images/Symbols/red_mana.gif)  
+![2 Mana](https://media.wizards.com/legacy/images/symbols/symbol_2_mana.gif)![Red Mana](https://media.wizards.com/legacy/images/symbols/red_mana.gif)![Red Mana](https://media.wizards.com/legacy/images/symbols/red_mana.gif)  
 
 Creature — Elemental  
 
 4/5  
-![5 Mana](https://web.archive.org/web/20150331031459im_/http://archive.wizards.com/images/Symbols/Symbol_5_mana.gif)![Red Mana](https://web.archive.org/web/20150518222449im_/http://archive.wizards.com/images/Symbols/red_mana.gif)![Red Mana](https://web.archive.org/web/20150518222449im_/http://archive.wizards.com/images/Symbols/red_mana.gif): Monstrosity 3. *(If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)*  
+![5 Mana](https://media.wizards.com/legacy/images/symbols/symbol_5_mana.gif)![Red Mana](https://media.wizards.com/legacy/images/symbols/red_mana.gif)![Red Mana](https://media.wizards.com/legacy/images/symbols/red_mana.gif): Monstrosity 3. *(If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)*  
 
 When Ember Swallower becomes monstrous, each player sacrifices three lands.
 
@@ -1300,14 +1300,14 @@ When Ember Swallower becomes monstrous, each player sacrifices three lands.
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/wsPh2xuLfTB_EN_LR.jpg)Firedrinker Satyr  
-![Red Mana](https://web.archive.org/web/20150518222449im_/http://archive.wizards.com/images/Symbols/red_mana.gif)  
+![Red Mana](https://media.wizards.com/legacy/images/symbols/red_mana.gif)  
 
 Creature — Satyr Shaman  
 
 2/1  
 
 Whenever Firedrinker Satyr is dealt damage, it deals that much damage to you.  
-![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif)![Red Mana](https://web.archive.org/web/20150518222449im_/http://archive.wizards.com/images/Symbols/red_mana.gif): Firedrinker Satyr gets +1/+0 until end of turn and deals 1 damage to you.
+![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif)![Red Mana](https://media.wizards.com/legacy/images/symbols/red_mana.gif): Firedrinker Satyr gets +1/+0 until end of turn and deals 1 damage to you.
 
 
 
@@ -1332,7 +1332,7 @@ Whenever Firedrinker Satyr is dealt damage, it deals that much damage to you.
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/1ZyVQoyF9Mg_EN_LR.jpg)Flamespeaker Adept  
-![2 Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/Symbol_2_mana.gif)![Red Mana](https://web.archive.org/web/20150518222449im_/http://archive.wizards.com/images/Symbols/red_mana.gif)  
+![2 Mana](https://media.wizards.com/legacy/images/symbols/symbol_2_mana.gif)![Red Mana](https://media.wizards.com/legacy/images/symbols/red_mana.gif)  
 
 Creature — Human Shaman  
 
@@ -1357,7 +1357,7 @@ Whenever you scry, Flamespeaker Adept gets +2/+0 and gains first strike until en
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/CIfEWMrZ1MJ_EN_LR.jpg)Gift of Immortality  
-![2 Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/Symbol_2_mana.gif)![White Mana](https://web.archive.org/web/20160519004405im_/http://archive.wizards.com/images/Symbols/white_mana.gif)  
+![2 Mana](https://media.wizards.com/legacy/images/symbols/symbol_2_mana.gif)![White Mana](https://web.archive.org/web/20160519004405im_/http://archive.wizards.com/images/Symbols/white_mana.gif)  
 
 Enchantment — Aura  
 
@@ -1405,7 +1405,7 @@ Target creature you control gains protection from the color of your choice until
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/UJAhOjb9LWP_EN_LR.jpg)Horizon Chimera  
-![2 Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/Symbol_2_mana.gif)![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif)![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif)  
+![2 Mana](https://media.wizards.com/legacy/images/symbols/symbol_2_mana.gif)![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif)![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif)  
 
 Creature — Chimera  
 
@@ -1434,7 +1434,7 @@ Whenever you draw a card, you gain 1 life.
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/d3naE21OYab_EN_LR.jpg)Hunt the Hunter  
-![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif)  
+![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif)  
 
 Sorcery  
 
@@ -1459,12 +1459,12 @@ Target green creature you control gets +2/+2 until end of turn. It fights target
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/FA2PDmavtf8_EN_LR.jpg)Karametra's Acolyte  
-![3 Mana](https://web.archive.org/web/20170413165507im_/http://archive.wizards.com/images/Symbols/Symbol_3_mana.gif)![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif)  
+![3 Mana](https://media.wizards.com/legacy/images/symbols/symbol_3_mana.gif)![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif)  
 
 Creature — Human Druid  
 
 1/4  
-![Tap](https://web.archive.org/web/20170413165513im_/http://archive.wizards.com/images/Symbols/tap.gif): Add an amount of ![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif) to your mana pool equal to your devotion to green.  *(Each ![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif) in the mana costs of permanents you control counts toward your devotion to green.)* 
+![Tap](https://media.wizards.com/legacy/images/symbols/tap.gif): Add an amount of ![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif) to your mana pool equal to your devotion to green.  *(Each ![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif) in the mana costs of permanents you control counts toward your devotion to green.)* 
 
 
 
@@ -1483,7 +1483,7 @@ Creature — Human Druid
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/6iodRnpzrwC_EN_LR.jpg)Lagonna-Band Elder  
-![2 Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/Symbol_2_mana.gif)![White Mana](https://web.archive.org/web/20160519004405im_/http://archive.wizards.com/images/Symbols/white_mana.gif)  
+![2 Mana](https://media.wizards.com/legacy/images/symbols/symbol_2_mana.gif)![White Mana](https://web.archive.org/web/20160519004405im_/http://archive.wizards.com/images/Symbols/white_mana.gif)  
 
 Creature — Centaur Advisor  
 
@@ -1535,12 +1535,12 @@ Exile target creature with power 2 or less. Its controller gains 4 life.
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/qb4vJKKKBml_EN_LR.jpg)Loathsome Catoblepas  
-![5 Mana](https://web.archive.org/web/20150331031459im_/http://archive.wizards.com/images/Symbols/Symbol_5_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif)  
+![5 Mana](https://media.wizards.com/legacy/images/symbols/symbol_5_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif)  
 
 Creature — Beast  
 
 3/3  
-![2 Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/Symbol_2_mana.gif)![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif): Loathsome Catoblepas must be blocked this turn if able.  
+![2 Mana](https://media.wizards.com/legacy/images/symbols/symbol_2_mana.gif)![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif): Loathsome Catoblepas must be blocked this turn if able.  
 
 When Loathsome Catoblepas dies, target creature an opponent controls gets -3/-3 until end of turn.
 
@@ -1565,7 +1565,7 @@ When Loathsome Catoblepas dies, target creature an opponent controls gets -3/-3 
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/dGRjRy6DYpV_EN_LR.jpg)Master of Waves  
-![3 Mana](https://web.archive.org/web/20170413165507im_/http://archive.wizards.com/images/Symbols/Symbol_3_mana.gif)![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif)  
+![3 Mana](https://media.wizards.com/legacy/images/symbols/symbol_3_mana.gif)![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif)  
 
 Creature — Merfolk Wizard  
 
@@ -1575,7 +1575,7 @@ Protection from red
 
 Elemental creatures you control get +1/+1.  
 
-When Master of Waves enters the battlefield, put a number of 1/0 blue Elemental creature tokens onto the battlefield equal to your devotion to blue.  *(Each ![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif) in the mana costs of permanents you control counts toward your devotion to blue.)* 
+When Master of Waves enters the battlefield, put a number of 1/0 blue Elemental creature tokens onto the battlefield equal to your devotion to blue.  *(Each ![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif) in the mana costs of permanents you control counts toward your devotion to blue.)* 
 
 
 
@@ -1600,7 +1600,7 @@ When Master of Waves enters the battlefield, put a number of 1/0 blue Elemental 
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/8x2vHVs5J2Y_EN_LR.jpg)Medomai the Ageless  
-![4 Mana](https://web.archive.org/web/20150525105735im_/http://archive.wizards.com/images/Symbols/Symbol_4_mana.gif)![White Mana](https://web.archive.org/web/20160519004405im_/http://archive.wizards.com/images/Symbols/white_mana.gif)![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif)  
+![4 Mana](https://web.archive.org/web/20150525105735im_/http://archive.wizards.com/images/Symbols/Symbol_4_mana.gif)![White Mana](https://web.archive.org/web/20160519004405im_/http://archive.wizards.com/images/Symbols/white_mana.gif)![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif)  
 
 Legendary Creature — Sphinx  
 
@@ -1631,12 +1631,12 @@ Medomai the Ageless can't attack during extra turns.
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/PLrgF5cAizA_EN_LR.jpg)Meletis Charlatan  
-![2 Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/Symbol_2_mana.gif)![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif)  
+![2 Mana](https://media.wizards.com/legacy/images/symbols/symbol_2_mana.gif)![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif)  
 
 Creature — Human Wizard  
 
 2/3  
-![2 Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/Symbol_2_mana.gif)![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif), ![Tap](https://web.archive.org/web/20170413165513im_/http://archive.wizards.com/images/Symbols/tap.gif): The controller of target instant or sorcery spell copies it. That player may choose new targets for the copy.
+![2 Mana](https://media.wizards.com/legacy/images/symbols/symbol_2_mana.gif)![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif), ![Tap](https://media.wizards.com/legacy/images/symbols/tap.gif): The controller of target instant or sorcery spell copies it. That player may choose new targets for the copy.
 
 
 
@@ -1667,7 +1667,7 @@ Creature — Human Wizard
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/skFwXBb1VvA_EN_LR.jpg)Mistcutter Hydra  
-![X Mana](https://web.archive.org/web/20150421062918im_/http://archive.wizards.com/images/Symbols/X_mana.gif)![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif)  
+![X Mana](https://web.archive.org/web/20150421062918im_/http://archive.wizards.com/images/Symbols/X_mana.gif)![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif)  
 
 Creature — Hydra  
 
@@ -1698,7 +1698,7 @@ Mistcutter Hydra enters the battlefield with X +1/+1 counters on it.
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/3OgI5jrUwtT_EN_LR.jpg)Mogis's Marauder  
-![2 Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/Symbol_2_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif)  
+![2 Mana](https://media.wizards.com/legacy/images/symbols/symbol_2_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif)  
 
 Creature — Human Berserker  
 
@@ -1727,14 +1727,14 @@ When Mogis's Marauder enters the battlefield, up to X target creatures each gain
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/oddxyGBrSwL_EN_LR.jpg)Nemesis of Mortals  
-![4 Mana](https://web.archive.org/web/20150525105735im_/http://archive.wizards.com/images/Symbols/Symbol_4_mana.gif)![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif)![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif)  
+![4 Mana](https://web.archive.org/web/20150525105735im_/http://archive.wizards.com/images/Symbols/Symbol_4_mana.gif)![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif)![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif)  
 
 Creature — Snake  
 
 5/5  
 
 Nemesis of Mortals costs ![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif) less to cast for each creature card in your graveyard.  
-![7 Mana](https://web.archive.org/web/20150409015159im_/http://archive.wizards.com/images/Symbols/Symbol_7_mana.gif)![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif)![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif): Monstrosity 5. This ability costs ![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif) less to activate for each creature card in your graveyard. *(If this creature isn't monstrous, put five +1/+1 counters on it and it becomes monstrous.)*
+![7 Mana](https://web.archive.org/web/20150409015159im_/http://archive.wizards.com/images/Symbols/Symbol_7_mana.gif)![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif)![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif): Monstrosity 5. This ability costs ![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif) less to activate for each creature card in your graveyard. *(If this creature isn't monstrous, put five +1/+1 counters on it and it becomes monstrous.)*
 
 
 
@@ -1765,7 +1765,7 @@ Enchantment Creature — Horror
 
 0/0  
 
-Bestow ![2 Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/Symbol_2_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif)*(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)*  
+Bestow ![2 Mana](https://media.wizards.com/legacy/images/symbols/symbol_2_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif)*(If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)*  
 
 Nighthowler and enchanted creature each get +X/+X, where X is the number of creature cards in all graveyards.
 
@@ -1792,8 +1792,8 @@ Nighthowler and enchanted creature each get +X/+X, where X is the number of crea
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/MhZtozVOOQq_EN_LR.jpg)Nykthos, Shrine to Nyx  
 
 Legendary Land  
-![Tap](https://web.archive.org/web/20170413165513im_/http://archive.wizards.com/images/Symbols/tap.gif): Add ![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif) to your mana pool.  
-![2 Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/Symbol_2_mana.gif), ![Tap](https://web.archive.org/web/20170413165513im_/http://archive.wizards.com/images/Symbols/tap.gif): Choose a color. Add to your mana pool an amount of mana of that color equal to your devotion to that color. *(Your devotion to a color is the number of mana symbols of that color in the mana costs of permanents you control.)*
+![Tap](https://media.wizards.com/legacy/images/symbols/tap.gif): Add ![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif) to your mana pool.  
+![2 Mana](https://media.wizards.com/legacy/images/symbols/symbol_2_mana.gif), ![Tap](https://media.wizards.com/legacy/images/symbols/tap.gif): Choose a color. Add to your mana pool an amount of mana of that color equal to your devotion to that color. *(Your devotion to a color is the number of mana symbols of that color in the mana costs of permanents you control.)*
 
 
 
@@ -1812,7 +1812,7 @@ Legendary Land
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/62Xo4mb9cMm_EN_LR.jpg)Nylea's Presence  
-![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif)![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif)  
+![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif)![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif)  
 
 Enchantment — Aura  
 
@@ -1825,7 +1825,7 @@ Enchanted land is every basic land type in addition to its other types.
 
 
 
-* The enchanted land will have the land types Plains, Island, Swamp, Mountain, and Forest. It will also have the mana ability of each basic land type (for example, Forests can tap to produce ![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif)). It still has its other subtypes and abilities.
+* The enchanted land will have the land types Plains, Island, Swamp, Mountain, and Forest. It will also have the mana ability of each basic land type (for example, Forests can tap to produce ![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif)). It still has its other subtypes and abilities.
   
 * Giving a land extra basic land types doesn't change its name or whether it's legendary or basic.
   
@@ -1845,7 +1845,7 @@ Enchanted land is every basic land type in addition to its other types.
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/lT6DM7tsYKm_EN_LR.jpg)Peak Eruption  
-![2 Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/Symbol_2_mana.gif)![Red Mana](https://web.archive.org/web/20150518222449im_/http://archive.wizards.com/images/Symbols/red_mana.gif)  
+![2 Mana](https://media.wizards.com/legacy/images/symbols/symbol_2_mana.gif)![Red Mana](https://media.wizards.com/legacy/images/symbols/red_mana.gif)  
 
 Sorcery  
 
@@ -1854,7 +1854,7 @@ Destroy target Mountain. Peak Eruption deals 3 damage to that land's controller.
 
 
 
-* Peak Eruption can target any land with the subtype Mountain, not just those named Mountain. It can't target a land that doesn't have that subtype, even if the land can tap for ![Red Mana](https://web.archive.org/web/20150518222449im_/http://archive.wizards.com/images/Symbols/red_mana.gif).
+* Peak Eruption can target any land with the subtype Mountain, not just those named Mountain. It can't target a land that doesn't have that subtype, even if the land can tap for ![Red Mana](https://media.wizards.com/legacy/images/symbols/red_mana.gif).
   
 * If the target Mountain is an illegal target when Peak Eruption tries to resolve, it will be countered and none of its effects will happen. No damage will be dealt. However, if Peak Eruption resolves and the Mountain isn't destroyed (perhaps because it has indestructible), damage will be dealt.
   
@@ -1899,14 +1899,14 @@ Pharika's Cure deals 2 damage to target creature and you gain 2 life.
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/F0mLgfOpcp4_EN_LR.jpg)Polis Crusher  
-![2 Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/Symbol_2_mana.gif)![Red Mana](https://web.archive.org/web/20150518222449im_/http://archive.wizards.com/images/Symbols/red_mana.gif)![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif)  
+![2 Mana](https://media.wizards.com/legacy/images/symbols/symbol_2_mana.gif)![Red Mana](https://media.wizards.com/legacy/images/symbols/red_mana.gif)![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif)  
 
 Creature — Cyclops  
 
 4/4  
 
 Trample, protection from enchantments  
-![4 Mana](https://web.archive.org/web/20150525105735im_/http://archive.wizards.com/images/Symbols/Symbol_4_mana.gif)![Red Mana](https://web.archive.org/web/20150518222449im_/http://archive.wizards.com/images/Symbols/red_mana.gif)![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif): Monstrosity 3. *(If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)*  
+![4 Mana](https://web.archive.org/web/20150525105735im_/http://archive.wizards.com/images/Symbols/Symbol_4_mana.gif)![Red Mana](https://media.wizards.com/legacy/images/symbols/red_mana.gif)![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif): Monstrosity 3. *(If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)*  
 
 Whenever Polis Crusher deals combat damage to a player, if Polis Crusher is monstrous, destroy target enchantment that player controls.
 
@@ -1933,12 +1933,12 @@ Whenever Polis Crusher deals combat damage to a player, if Polis Crusher is mons
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/OdWuAp6USnm_EN_LR.jpg)Polukranos, World Eater  
-![2 Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/Symbol_2_mana.gif)![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif)![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif)  
+![2 Mana](https://media.wizards.com/legacy/images/symbols/symbol_2_mana.gif)![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif)![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif)  
 
 Legendary Creature — Hydra  
 
 5/5  
-![X Mana](https://web.archive.org/web/20150421062918im_/http://archive.wizards.com/images/Symbols/X_mana.gif)![X Mana](https://web.archive.org/web/20150421062918im_/http://archive.wizards.com/images/Symbols/X_mana.gif)![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif): Monstrosity X. *(If this creature isn't monstrous, put X +1/+1 counters on it and it becomes monstrous.)*  
+![X Mana](https://web.archive.org/web/20150421062918im_/http://archive.wizards.com/images/Symbols/X_mana.gif)![X Mana](https://web.archive.org/web/20150421062918im_/http://archive.wizards.com/images/Symbols/X_mana.gif)![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif): Monstrosity X. *(If this creature isn't monstrous, put X +1/+1 counters on it and it becomes monstrous.)*  
 
 When Polukranos, World Eater becomes monstrous, it deals X damage divided as you choose among any number of target creatures your opponents control. Each of those creatures deals damage equal to its power to Polukranos.
 
@@ -1969,7 +1969,7 @@ When Polukranos, World Eater becomes monstrous, it deals X damage divided as you
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/UfpQ4qVjGKI_EN_LR.jpg)Portent of Betrayal  
-![3 Mana](https://web.archive.org/web/20170413165507im_/http://archive.wizards.com/images/Symbols/Symbol_3_mana.gif)![Red Mana](https://web.archive.org/web/20150518222449im_/http://archive.wizards.com/images/Symbols/red_mana.gif)  
+![3 Mana](https://media.wizards.com/legacy/images/symbols/symbol_3_mana.gif)![Red Mana](https://media.wizards.com/legacy/images/symbols/red_mana.gif)  
 
 Sorcery  
 
@@ -1998,7 +1998,7 @@ Gain control of target creature until end of turn. Untap that creature. It gains
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/GyoWLdEoqKg_EN_LR.jpg)Prescient Chimera  
-![3 Mana](https://web.archive.org/web/20170413165507im_/http://archive.wizards.com/images/Symbols/Symbol_3_mana.gif)![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif)![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif)  
+![3 Mana](https://media.wizards.com/legacy/images/symbols/symbol_3_mana.gif)![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif)![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif)  
 
 Creature — Chimera  
 
@@ -2029,7 +2029,7 @@ Whenever you cast an instant or sorcery spell, scry 1. *(Look at the top card of
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/XexO2A16LtN_EN_LR.jpg)Prognostic Sphinx  
-![3 Mana](https://web.archive.org/web/20170413165507im_/http://archive.wizards.com/images/Symbols/Symbol_3_mana.gif)![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif)![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif)  
+![3 Mana](https://media.wizards.com/legacy/images/symbols/symbol_3_mana.gif)![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif)![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif)  
 
 Creature — Sphinx  
 
@@ -2060,7 +2060,7 @@ Whenever Prognostic Sphinx attacks, scry 3. *(Look at the top three cards of you
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/uzPv2ZfoQ8I_EN_LR.jpg)Prophet of Kruphix  
-![3 Mana](https://web.archive.org/web/20170413165507im_/http://archive.wizards.com/images/Symbols/Symbol_3_mana.gif)![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif)![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif)  
+![3 Mana](https://media.wizards.com/legacy/images/symbols/symbol_3_mana.gif)![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif)![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif)  
 
 Creature — Human Wizard  
 
@@ -2100,8 +2100,8 @@ You may cast creature cards as though they had flash.
 ![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif)  
 
 Artifact  
-![Tap](https://web.archive.org/web/20170413165513im_/http://archive.wizards.com/images/Symbols/tap.gif): Each player exiles the top card of his or her library face down.  
-![7 Mana](https://web.archive.org/web/20150409015159im_/http://archive.wizards.com/images/Symbols/Symbol_7_mana.gif), ![Tap](https://web.archive.org/web/20170413165513im_/http://archive.wizards.com/images/Symbols/tap.gif), Sacrifice Pyxis of Pandemonium: Each player turns face up all cards he or she owns exiled with Pyxis of Pandemonium, then puts all permanent cards among them onto the battlefield.
+![Tap](https://media.wizards.com/legacy/images/symbols/tap.gif): Each player exiles the top card of his or her library face down.  
+![7 Mana](https://web.archive.org/web/20150409015159im_/http://archive.wizards.com/images/Symbols/Symbol_7_mana.gif), ![Tap](https://media.wizards.com/legacy/images/symbols/tap.gif), Sacrifice Pyxis of Pandemonium: Each player turns face up all cards he or she owns exiled with Pyxis of Pandemonium, then puts all permanent cards among them onto the battlefield.
 
 
 
@@ -2124,7 +2124,7 @@ Artifact
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/576pbi58PjK_EN_LR.jpg)Rage of Purphoros  
-![4 Mana](https://web.archive.org/web/20150525105735im_/http://archive.wizards.com/images/Symbols/Symbol_4_mana.gif)![Red Mana](https://web.archive.org/web/20150518222449im_/http://archive.wizards.com/images/Symbols/red_mana.gif)  
+![4 Mana](https://web.archive.org/web/20150525105735im_/http://archive.wizards.com/images/Symbols/Symbol_4_mana.gif)![Red Mana](https://media.wizards.com/legacy/images/symbols/red_mana.gif)  
 
 Sorcery  
 
@@ -2149,7 +2149,7 @@ Rage of Purphoros deals 4 damage to target creature. It can't be regenerated thi
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/07R2ZrhYeeq_EN_LR.jpg)Read the Bones  
-![2 Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/Symbol_2_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif)  
+![2 Mana](https://media.wizards.com/legacy/images/symbols/symbol_2_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif)  
 
 Sorcery  
 
@@ -2176,7 +2176,7 @@ Scry 2, then draw two cards. You lose 2 life. *(To scry 2, look at the top two c
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/yiFgpGD0tnh_EN_LR.jpg)Reaper of the Wilds  
-![2 Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/Symbol_2_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif)![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif)  
+![2 Mana](https://media.wizards.com/legacy/images/symbols/symbol_2_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif)![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif)  
 
 Creature — Gorgon  
 
@@ -2184,7 +2184,7 @@ Creature — Gorgon
 
 Whenever another creature dies, scry 1. *(Look at the top card of your library. You may put that card on the bottom of your library.)*  
 ![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif): Reaper of the Wilds gains deathtouch until end of turn.  
-![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif)![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif): Reaper of the Wilds gains hexproof until end of turn.
+![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif)![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif): Reaper of the Wilds gains hexproof until end of turn.
 
 
 
@@ -2246,12 +2246,12 @@ Choose target creature card in your graveyard. Return that card and the sacrific
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/oWi0aNwfG4J_EN_LR.jpg)Satyr Hedonist  
-![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif)![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif)  
+![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif)![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif)  
 
 Creature — Satyr  
 
 2/1  
-![Red Mana](https://web.archive.org/web/20150518222449im_/http://archive.wizards.com/images/Symbols/red_mana.gif), Sacrifice Satyr Hedonist: Add ![Red Mana](https://web.archive.org/web/20150518222449im_/http://archive.wizards.com/images/Symbols/red_mana.gif)![Red Mana](https://web.archive.org/web/20150518222449im_/http://archive.wizards.com/images/Symbols/red_mana.gif)![Red Mana](https://web.archive.org/web/20150518222449im_/http://archive.wizards.com/images/Symbols/red_mana.gif) to your mana pool.
+![Red Mana](https://media.wizards.com/legacy/images/symbols/red_mana.gif), Sacrifice Satyr Hedonist: Add ![Red Mana](https://media.wizards.com/legacy/images/symbols/red_mana.gif)![Red Mana](https://media.wizards.com/legacy/images/symbols/red_mana.gif)![Red Mana](https://media.wizards.com/legacy/images/symbols/red_mana.gif) to your mana pool.
 
 
 
@@ -2272,12 +2272,12 @@ Creature — Satyr
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/pp5fM7TQgDB_EN_LR.jpg)Satyr Piper  
-![2 Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/Symbol_2_mana.gif)![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif)  
+![2 Mana](https://media.wizards.com/legacy/images/symbols/symbol_2_mana.gif)![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif)  
 
 Creature — Satyr Rogue  
 
 2/1  
-![3 Mana](https://web.archive.org/web/20170413165507im_/http://archive.wizards.com/images/Symbols/Symbol_3_mana.gif)![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif): Target creature must be blocked this turn if able.
+![3 Mana](https://media.wizards.com/legacy/images/symbols/symbol_3_mana.gif)![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif): Target creature must be blocked this turn if able.
 
 
 
@@ -2302,7 +2302,7 @@ Creature — Satyr Rogue
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/aYSrbzDTrl5_EN_LR.jpg)Savage Surge  
-![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif)![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif)  
+![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif)![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif)  
 
 Instant  
 
@@ -2329,7 +2329,7 @@ Target creature gets +2/+2 until end of turn. Untap that creature.
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/yRkdTEfgivv_EN_LR.jpg)Sea God's Revenge  
-![5 Mana](https://web.archive.org/web/20150331031459im_/http://archive.wizards.com/images/Symbols/Symbol_5_mana.gif)![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif)  
+![5 Mana](https://media.wizards.com/legacy/images/symbols/symbol_5_mana.gif)![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif)  
 
 Sorcery  
 
@@ -2356,21 +2356,21 @@ Return up to three target creatures your opponents control to their owners' hand
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/x603jG2Eo66_EN_LR.jpg)Sealock Monster  
-![3 Mana](https://web.archive.org/web/20170413165507im_/http://archive.wizards.com/images/Symbols/Symbol_3_mana.gif)![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif)![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif)  
+![3 Mana](https://media.wizards.com/legacy/images/symbols/symbol_3_mana.gif)![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif)![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif)  
 
 Creature — Octopus  
 
 5/5  
 
 Sealock Monster can't attack unless defending player controls an Island.  
-![5 Mana](https://web.archive.org/web/20150331031459im_/http://archive.wizards.com/images/Symbols/Symbol_5_mana.gif)![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif)![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif): Monstrosity 3. *(If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)*  
+![5 Mana](https://media.wizards.com/legacy/images/symbols/symbol_5_mana.gif)![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif)![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif): Monstrosity 3. *(If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)*  
 
 When Sealock Monster becomes monstrous, target land becomes an Island in addition to its other types.
 
 
 
 
-* The effect making the land an Island doesn't have a duration and will last indefinitely. The land retains any land types and abilities it already had. An Island has the ability "![Tap](https://web.archive.org/web/20170413165513im_/http://archive.wizards.com/images/Symbols/tap.gif): Add ![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif) to your mana pool."
+* The effect making the land an Island doesn't have a duration and will last indefinitely. The land retains any land types and abilities it already had. An Island has the ability "![Tap](https://media.wizards.com/legacy/images/symbols/tap.gif): Add ![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif) to your mana pool."
   
 * 
 
@@ -2393,7 +2393,7 @@ Creature — Griffin
 3/2  
 
 Flying  
-![2 Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/Symbol_2_mana.gif)![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif)![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif): Setessan Griffin gets +2/+2 until end of turn. Activate this ability only once each turn.
+![2 Mana](https://media.wizards.com/legacy/images/symbols/symbol_2_mana.gif)![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif)![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif): Setessan Griffin gets +2/+2 until end of turn. Activate this ability only once each turn.
 
 
 
@@ -2412,12 +2412,12 @@ Flying
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/zbrLIPaDFxl_EN_LR.jpg)Shipbreaker Kraken  
-![4 Mana](https://web.archive.org/web/20150525105735im_/http://archive.wizards.com/images/Symbols/Symbol_4_mana.gif)![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif)![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif)  
+![4 Mana](https://web.archive.org/web/20150525105735im_/http://archive.wizards.com/images/Symbols/Symbol_4_mana.gif)![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif)![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif)  
 
 Creature — Kraken  
 
 6/6  
-![6 Mana](https://web.archive.org/web/20150603004743im_/http://archive.wizards.com/images/Symbols/Symbol_6_mana.gif)![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif)![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif): Monstrosity 4. *(If this creature isn't monstrous, put four +1/+1 counters on it and it becomes monstrous.)*  
+![6 Mana](https://web.archive.org/web/20150603004743im_/http://archive.wizards.com/images/Symbols/Symbol_6_mana.gif)![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif)![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif): Monstrosity 4. *(If this creature isn't monstrous, put four +1/+1 counters on it and it becomes monstrous.)*  
 
 When Shipbreaker Kraken becomes monstrous, tap up to four target creatures. Those creatures don't untap during their controllers' untap steps for as long as you control Shipbreaker Kraken.
 
@@ -2446,15 +2446,15 @@ When Shipbreaker Kraken becomes monstrous, tap up to four target creatures. Thos
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/SGcSJMb0Zxg_EN_LR.jpg)Shipwreck Singer  
-![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif)  
+![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif)  
 
 Creature — Siren  
 
 1/2  
 
 Flying  
-![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif)![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif): Target creature an opponent controls attacks this turn if able.  
-![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif), ![Tap](https://web.archive.org/web/20170413165513im_/http://archive.wizards.com/images/Symbols/tap.gif): Attacking creatures get -1/-1 until end of turn.
+![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif)![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif): Target creature an opponent controls attacks this turn if able.  
+![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif), ![Tap](https://media.wizards.com/legacy/images/symbols/tap.gif): Attacking creatures get -1/-1 until end of turn.
 
 
 
@@ -2529,7 +2529,7 @@ Whenever an opponent casts a multicolored spell, you gain 1 life.
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/htjFDl5LyMk_EN_LR.jpg)Spellheart Chimera  
-![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif)![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif)![Red Mana](https://web.archive.org/web/20150518222449im_/http://archive.wizards.com/images/Symbols/red_mana.gif)  
+![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif)![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif)![Red Mana](https://media.wizards.com/legacy/images/symbols/red_mana.gif)  
 
 Creature — Chimera  
 
@@ -2556,7 +2556,7 @@ Spellheart Chimera's power is equal to the number of instant and sorcery cards i
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/xQuFy2iqZGx_EN_LR.jpg)Steam Augury  
-![2 Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/Symbol_2_mana.gif)![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif)![Red Mana](https://web.archive.org/web/20150518222449im_/http://archive.wizards.com/images/Symbols/red_mana.gif)  
+![2 Mana](https://media.wizards.com/legacy/images/symbols/symbol_2_mana.gif)![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif)![Red Mana](https://media.wizards.com/legacy/images/symbols/red_mana.gif)  
 
 Instant  
 
@@ -2583,12 +2583,12 @@ Reveal the top five cards of your library and separate them into two piles. An o
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/bhbtYYylJtt_EN_LR.jpg)Stoneshock Giant  
-![3 Mana](https://web.archive.org/web/20170413165507im_/http://archive.wizards.com/images/Symbols/Symbol_3_mana.gif)![Red Mana](https://web.archive.org/web/20150518222449im_/http://archive.wizards.com/images/Symbols/red_mana.gif)![Red Mana](https://web.archive.org/web/20150518222449im_/http://archive.wizards.com/images/Symbols/red_mana.gif)  
+![3 Mana](https://media.wizards.com/legacy/images/symbols/symbol_3_mana.gif)![Red Mana](https://media.wizards.com/legacy/images/symbols/red_mana.gif)![Red Mana](https://media.wizards.com/legacy/images/symbols/red_mana.gif)  
 
 Creature — Giant  
 
 5/4  
-![6 Mana](https://web.archive.org/web/20150603004743im_/http://archive.wizards.com/images/Symbols/Symbol_6_mana.gif)![Red Mana](https://web.archive.org/web/20150518222449im_/http://archive.wizards.com/images/Symbols/red_mana.gif)![Red Mana](https://web.archive.org/web/20150518222449im_/http://archive.wizards.com/images/Symbols/red_mana.gif): Monstrosity 3. *(If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)*  
+![6 Mana](https://web.archive.org/web/20150603004743im_/http://archive.wizards.com/images/Symbols/Symbol_6_mana.gif)![Red Mana](https://media.wizards.com/legacy/images/symbols/red_mana.gif)![Red Mana](https://media.wizards.com/legacy/images/symbols/red_mana.gif): Monstrosity 3. *(If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)*  
 
 When Stoneshock Giant becomes monstrous, creatures without flying your opponents control can't block this turn.
 
@@ -2613,14 +2613,14 @@ When Stoneshock Giant becomes monstrous, creatures without flying your opponents
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/Owi4Zh3cJnx_EN_LR.jpg)Stormbreath Dragon  
-![3 Mana](https://web.archive.org/web/20170413165507im_/http://archive.wizards.com/images/Symbols/Symbol_3_mana.gif)![Red Mana](https://web.archive.org/web/20150518222449im_/http://archive.wizards.com/images/Symbols/red_mana.gif)![Red Mana](https://web.archive.org/web/20150518222449im_/http://archive.wizards.com/images/Symbols/red_mana.gif)  
+![3 Mana](https://media.wizards.com/legacy/images/symbols/symbol_3_mana.gif)![Red Mana](https://media.wizards.com/legacy/images/symbols/red_mana.gif)![Red Mana](https://media.wizards.com/legacy/images/symbols/red_mana.gif)  
 
 Creature — Dragon  
 
 4/4  
 
 Flying, haste, protection from white  
-![5 Mana](https://web.archive.org/web/20150331031459im_/http://archive.wizards.com/images/Symbols/Symbol_5_mana.gif)![Red Mana](https://web.archive.org/web/20150518222449im_/http://archive.wizards.com/images/Symbols/red_mana.gif)![Red Mana](https://web.archive.org/web/20150518222449im_/http://archive.wizards.com/images/Symbols/red_mana.gif): Monstrosity 3. *(If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)*  
+![5 Mana](https://media.wizards.com/legacy/images/symbols/symbol_5_mana.gif)![Red Mana](https://media.wizards.com/legacy/images/symbols/red_mana.gif)![Red Mana](https://media.wizards.com/legacy/images/symbols/red_mana.gif): Monstrosity 3. *(If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)*  
 
 When Stormbreath Dragon becomes monstrous, it deals damage to each opponent equal to the number of cards in that player's hand.
 
@@ -2641,7 +2641,7 @@ When Stormbreath Dragon becomes monstrous, it deals damage to each opponent equa
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/ctRF8HC1EaC_EN_LR.jpg)Stymied Hopes  
-![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif)![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif)  
+![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif)![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif)  
 
 Instant  
 
@@ -2664,7 +2664,7 @@ Counter target spell unless its controller pays ![1 Mana](https://web.archive.or
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/SoB2nZAwOL4_EN_LR.jpg)Swan Song  
-![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif)  
+![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif)  
 
 Instant  
 
@@ -2689,7 +2689,7 @@ Counter target enchantment, instant, or sorcery spell. Its controller puts a 2/2
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/aruxily7ACF_EN_LR.jpg)Thassa, God of the Sea  
-![2 Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/Symbol_2_mana.gif)![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif)  
+![2 Mana](https://media.wizards.com/legacy/images/symbols/symbol_2_mana.gif)![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif)  
 
 Legendary Enchantment Creature — God  
 
@@ -2697,10 +2697,10 @@ Legendary Enchantment Creature — God
 
 Indestructible  
 
-As long as your devotion to blue is less than five, Thassa isn't a creature.  *(Each ![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif) in the mana costs of permanents you control counts toward your devotion to blue.)*   
+As long as your devotion to blue is less than five, Thassa isn't a creature.  *(Each ![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif) in the mana costs of permanents you control counts toward your devotion to blue.)*   
 
 At the beginning of your upkeep, scry 1.  
-![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif)![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif): Target creature you control can't be blocked this turn.
+![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif)![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif): Target creature you control can't be blocked this turn.
 
 
 
@@ -2719,7 +2719,7 @@ At the beginning of your upkeep, scry 1.
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/I70ITnYQIXD_EN_LR.jpg)Thassa's Bounty  
-![5 Mana](https://web.archive.org/web/20150331031459im_/http://archive.wizards.com/images/Symbols/Symbol_5_mana.gif)![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif)  
+![5 Mana](https://media.wizards.com/legacy/images/symbols/symbol_5_mana.gif)![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif)  
 
 Sorcery  
 
@@ -2771,7 +2771,7 @@ Target player reveals his or her hand. You choose a nonland card from it. That p
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/xL2sTN3Wdkt_EN_LR.jpg)Time to Feed  
-![2 Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/Symbol_2_mana.gif)![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif)  
+![2 Mana](https://media.wizards.com/legacy/images/symbols/symbol_2_mana.gif)![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif)  
 
 Sorcery  
 
@@ -2800,14 +2800,14 @@ Choose target creature an opponent controls. When that creature dies this turn, 
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/iBiaW6Yymwd_EN_LR.jpg)Triad of Fates  
-![2 Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/Symbol_2_mana.gif)![White Mana](https://web.archive.org/web/20160519004405im_/http://archive.wizards.com/images/Symbols/white_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif)  
+![2 Mana](https://media.wizards.com/legacy/images/symbols/symbol_2_mana.gif)![White Mana](https://web.archive.org/web/20160519004405im_/http://archive.wizards.com/images/Symbols/white_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif)  
 
 Legendary Creature — Human Wizard  
 
 3/3  
-![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif), ![Tap](https://web.archive.org/web/20170413165513im_/http://archive.wizards.com/images/Symbols/tap.gif): Put a fate counter on another target creature.  
-![White Mana](https://web.archive.org/web/20160519004405im_/http://archive.wizards.com/images/Symbols/white_mana.gif), ![Tap](https://web.archive.org/web/20170413165513im_/http://archive.wizards.com/images/Symbols/tap.gif): Exile target creature that has a fate counter on it, then return it to the battlefield under its owner's control.  
-![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif), ![Tap](https://web.archive.org/web/20170413165513im_/http://archive.wizards.com/images/Symbols/tap.gif): Exile target creature that has a fate counter on it. Its controller draws two cards.
+![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif), ![Tap](https://media.wizards.com/legacy/images/symbols/tap.gif): Put a fate counter on another target creature.  
+![White Mana](https://web.archive.org/web/20160519004405im_/http://archive.wizards.com/images/Symbols/white_mana.gif), ![Tap](https://media.wizards.com/legacy/images/symbols/tap.gif): Exile target creature that has a fate counter on it, then return it to the battlefield under its owner's control.  
+![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif), ![Tap](https://media.wizards.com/legacy/images/symbols/tap.gif): Exile target creature that has a fate counter on it. Its controller draws two cards.
 
 
 
@@ -2826,12 +2826,12 @@ Legendary Creature — Human Wizard
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/IHLxeqqk1jl_EN_LR.jpg)Tymaret, the Murder King  
-![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif)![Red Mana](https://web.archive.org/web/20150518222449im_/http://archive.wizards.com/images/Symbols/red_mana.gif)  
+![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif)![Red Mana](https://media.wizards.com/legacy/images/symbols/red_mana.gif)  
 
 Legendary Creature — Zombie Warrior  
 
 2/2  
-![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif)![Red Mana](https://web.archive.org/web/20150518222449im_/http://archive.wizards.com/images/Symbols/red_mana.gif), Sacrifice another creature: Tymaret, the Murder King deals 2 damage to target player.  
+![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif)![Red Mana](https://media.wizards.com/legacy/images/symbols/red_mana.gif), Sacrifice another creature: Tymaret, the Murder King deals 2 damage to target player.  
 ![1 Mana](https://web.archive.org/web/20170413165508im_/http://archive.wizards.com/images/Symbols/Symbol_1_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif), Sacrifice a creature: Return Tymaret from your graveyard to your hand.
 
 
@@ -2853,7 +2853,7 @@ Legendary Creature — Zombie Warrior
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/xmGJ1dWI3Zz_EN_LR.jpg)Underworld Cerberus  
-![3 Mana](https://web.archive.org/web/20170413165507im_/http://archive.wizards.com/images/Symbols/Symbol_3_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif)![Red Mana](https://web.archive.org/web/20150518222449im_/http://archive.wizards.com/images/Symbols/red_mana.gif)  
+![3 Mana](https://media.wizards.com/legacy/images/symbols/symbol_3_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif)![Red Mana](https://media.wizards.com/legacy/images/symbols/red_mana.gif)  
 
 Creature — Hound  
 
@@ -2884,7 +2884,7 @@ When Underworld Cerberus dies, exile it and each player returns all creature car
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/KcAJm06CYsp_EN_LR.jpg)Wavecrash Triton  
-![2 Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/Symbol_2_mana.gif)![Blue Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/blue_mana.gif)  
+![2 Mana](https://media.wizards.com/legacy/images/symbols/symbol_2_mana.gif)![Blue Mana](https://media.wizards.com/legacy/images/symbols/blue_mana.gif)  
 
 Creature — Merfolk Wizard  
 
@@ -2912,12 +2912,12 @@ Creature — Merfolk Wizard
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/xNQzZUPSlCc_EN_LR.jpg)Whip of Erebos  
-![2 Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/Symbol_2_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif)  
+![2 Mana](https://media.wizards.com/legacy/images/symbols/symbol_2_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif)  
 
 Legendary Enchantment Artifact  
 
 Creatures you control have lifelink.  
-![2 Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/Symbol_2_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif), ![Tap](https://web.archive.org/web/20170413165513im_/http://archive.wizards.com/images/Symbols/tap.gif): Return target creature card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step. If it would leave the battlefield, exile it instead of putting it anywhere else. Activate this ability only any time you could cast a sorcery.
+![2 Mana](https://media.wizards.com/legacy/images/symbols/symbol_2_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif)![Black Mana](https://web.archive.org/web/20150528034551im_/http://archive.wizards.com/images/Symbols/black_mana.gif), ![Tap](https://media.wizards.com/legacy/images/symbols/tap.gif): Return target creature card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step. If it would leave the battlefield, exile it instead of putting it anywhere else. Activate this ability only any time you could cast a sorcery.
 
 
 
@@ -2944,11 +2944,11 @@ Creatures you control have lifelink.
 
 
 ![](https://media.wizards.com/images/magic/tcg/products/ths/obasdfkjw8324lz/ELJsJYK7L18_EN_LR.jpg)Xenagos, the Reveler  
-![2 Mana](https://web.archive.org/web/20150519185605im_/http://archive.wizards.com/images/Symbols/Symbol_2_mana.gif)![Red Mana](https://web.archive.org/web/20150518222449im_/http://archive.wizards.com/images/Symbols/red_mana.gif)![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif)  
+![2 Mana](https://media.wizards.com/legacy/images/symbols/symbol_2_mana.gif)![Red Mana](https://media.wizards.com/legacy/images/symbols/red_mana.gif)![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif)  
 
 Planeswalker — Xenagos  
 
-+1: Add X mana in any combination of ![Red Mana](https://web.archive.org/web/20150518222449im_/http://archive.wizards.com/images/Symbols/red_mana.gif) and/or ![Green Mana](https://web.archive.org/web/20150515165945im_/http://archive.wizards.com/images/Symbols/green_mana.gif) to your mana pool, where X is the number of creatures you control.  
++1: Add X mana in any combination of ![Red Mana](https://media.wizards.com/legacy/images/symbols/red_mana.gif) and/or ![Green Mana](https://media.wizards.com/legacy/images/symbols/green_mana.gif) to your mana pool, where X is the number of creatures you control.  
 
 0: Put a 2/2 red and green Satyr creature token with haste onto the battlefield.  
 

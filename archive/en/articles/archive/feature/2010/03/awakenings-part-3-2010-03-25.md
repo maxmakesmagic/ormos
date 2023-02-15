@@ -1,16 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20211129130405/https://magic.wizards.com/en/articles/archive/feature/awakenings-part-3-2010-03-25)
+[Link to Wayback Machine](https://web.archive.org/web/20170211191641/http://magic.wizards.com/en/articles/archive/feature/awakenings-part-3-2010-03-25)
 
 [_metadata_:author]:- "Wizards of the Coast"
+[_metadata_:description]:- "&#13; &#13; &#13;  &#13; &#13; &#13; &#13; &#13; &#13; &#13;  &#13; &#13; &#13; &#13; &#13; &#13;"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "629436"
 [_metadata_:publish_date]:- "2010-03-25"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Awakenings, Part 3"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-29 13:04:05"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211129130405id_/https://magic.wizards.com/en/articles/archive/feature/awakenings-part-3-2010-03-25"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/awakenings-part-3-2010-03-25"
+[_metadata_:wayback_capture_timestamp]:- "2017-02-11 19:16:41"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170211191641id_/http://magic.wizards.com/en/articles/archive/feature/awakenings-part-3-2010-03-25"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/awakenings-part-3-2010-03-25"
 ---
 
 
@@ -27,7 +28,7 @@ Awakenings, Part 3
 
 
 
-![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
 By Wizards of the Coast
 
 

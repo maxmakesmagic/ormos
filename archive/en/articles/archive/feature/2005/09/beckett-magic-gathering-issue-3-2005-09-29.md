@@ -1,17 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20220128205031/https://magic.wizards.com/en/articles/archive/feature/beckett-magic-gathering-issue-3-2005-09-29)
+[Link to Wayback Machine](https://web.archive.org/web/20160908191052/http://magic.wizards.com/en/articles/archive/feature/beckett-magic-gathering-issue-3-2005-09-29)
 
 [_metadata_:author]:- "Wizards of the Coast"
-[_metadata_:description]:- "Are you a Magic information junkie? Want some deck construction tips from the likes of Osyp Lebedowicz, Darwin Kastle, and Jonathan Becker? Enjoy getting that shiny, glossy, magaziney feel that you just don't get from your web browser? Beckett Magic: The Gathering Issue #3 Then check out Beckett Magic: The Gathering, the top all-Magic magazine in the world. Issue #3 goes on"
+[_metadata_:description]:- "&#13; Are you a Magic information junkie? Want some deck construction tips from the likes of Osyp Lebedowicz, Darwin Kastle, and Jonathan Becker? Enjoy getting that shiny, glossy, magaziney feel that you just don't get from your web browser?&#13; &#13; Beckett Magic: The Gathering&#13; Issue #3&#13; &#13; &#13; Then check out Beckett Magic: The Gathering, the top all-Magic magazine in the world."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "597951"
 [_metadata_:publish_date]:- "2005-09-29"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Beckett Magic: The Gathering Issue 3"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-28 20:50:31"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220128205031id_/https://magic.wizards.com/en/articles/archive/feature/beckett-magic-gathering-issue-3-2005-09-29"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/beckett-magic-gathering-issue-3-2005-09-29"
+[_metadata_:wayback_capture_timestamp]:- "2016-09-08 19:10:52"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160908191052id_/http://magic.wizards.com/en/articles/archive/feature/beckett-magic-gathering-issue-3-2005-09-29"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/beckett-magic-gathering-issue-3-2005-09-29"
 ---
 
 
@@ -28,7 +28,7 @@
 
 
 
-![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
 By Wizards of the Coast
 
 

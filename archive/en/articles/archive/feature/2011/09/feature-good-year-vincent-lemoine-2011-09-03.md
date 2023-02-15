@@ -6,6 +6,7 @@
 [_metadata_:description]:- "Vincent Lemoine is having a good year. We are used to seeing Vincent around the European Grand Prix circuit, where the Belgian pro has been a regular for many years, but 2011 has been different. It all kicked off with a Semi Final appearance at Pro Tour Paris, and then Vincent claimed the Belgium National Championship in the summer, repeating his 2004 achievement. Those two results have put Vincent on the fringes of the Player of the Year race, and his growing reputation was being added to further in Philadelphia, where he fell just short of making Top 8."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "315382"
+[_metadata_:path_date]:- "2011-09-03"
 [_metadata_:publish_date]:- "2011-09-02"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Feature: A Good Year with Vincent Lemoine"

@@ -1,0 +1,52 @@
+
+---
+[Link to Wayback Machine](https://web.archive.org/web/20211021063705/https://magic.wizards.com/en/articles/archive/event-coverage/video-preview-players-watch-2012-05-11)
+
+[_metadata_:author]:- "Rich Hagon and Brian David-Marshall"
+[_metadata_:description]:- "Rich Hagon and Brian David-Marshall break down the names to watch here in Barcelona for Pro Tour Avacyn Restored."
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "314238"
+[_metadata_:publish_date]:- "2012-05-11"
+[_metadata_:source]:- "div-main-content"
+[_metadata_:title]:- "Video Preview: Players to Watch"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-21 06:37:05"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021063705id_/https://magic.wizards.com/en/articles/archive/event-coverage/video-preview-players-watch-2012-05-11"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/event-coverage/video-preview-players-watch-2012-05-11"
+---
+
+
+Video Preview: Players to Watch
+===============================
+
+
+
+ Posted in **Event Coverage**
+ on May 11, 2012 
+
+
+
+
+
+
+![](https://media.magic.wizards.com/styles/auth_small/public/images/hero/wizardslogo_thumb.jpg)
+By Rich Hagon and Brian David-Marshall
+
+
+
+
+
+
+
+
+
+
+
+Rich Hagon and Brian David-Marshall break down the names to watch here in Barcelona for Pro Tour *Avacyn Restored*.
+
+
+<//www.youtube.com/embed/UMoimY73-dw>
+
+
+
+
+

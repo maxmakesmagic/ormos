@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20170816074146/http://magic.wizards.com/en/articles/archive/feature/archenemy-trample-civilization-underfoot-2010-06-08)
+[Link to Wayback Machine](https://web.archive.org/web/20210917163829/https://magic.wizards.com/en/articles/archive/feature/archenemy-trample-civilization-underfoot-2010-06-08)
 
 [_metadata_:author]:- "Monty Ashley"
 [_metadata_:description]:- "You've seen the Archenemy deck `Assemble the Doomsday Machine.` You've seen `Bring About the Undead Apocalypse.` But are you ready for another deck? Are you prepared to Trample Civilization Underfoot? If you're not, you'd better get prepared, because ... well, you can probably guess where this is going."
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2010-06-08"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Archenemy: Trample Civilization Underfoot"
-[_metadata_:wayback_capture_timestamp]:- "2017-08-16 07:41:46"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170816074146id_/http://magic.wizards.com/en/articles/archive/feature/archenemy-trample-civilization-underfoot-2010-06-08"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/archenemy-trample-civilization-underfoot-2010-06-08"
+[_metadata_:wayback_capture_timestamp]:- "2021-09-17 16:38:29"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210917163829id_/https://magic.wizards.com/en/articles/archive/feature/archenemy-trample-civilization-underfoot-2010-06-08"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/archenemy-trample-civilization-underfoot-2010-06-08"
 ---
 
 
@@ -28,7 +28,7 @@
 
 
 
-![](https://web.archive.org/web/20170709072651im_/http://magic.wizards.com/sites/all/themes/wiz_mtg/images/global/generic-avatar-150.png)
+![](https://web.archive.org/web/20211024110319im_/https://magic.wizards.com/sites/all/themes/wiz_mtg/images/global/generic-avatar-150.png)
 By Monty Ashley
 
 
@@ -83,6 +83,7 @@ You've seen the *Archenemy* deck "[Assemble the Doomsday Machine](/en/articles/a
 
 
 
+
 #### Trample Civilization Underfoot
 
 
@@ -93,7 +94,9 @@ You've seen the *Archenemy* deck "[Assemble the Doomsday Machine](/en/articles/a
 
 
 
+![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
 ![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
 
 
 
@@ -118,75 +121,75 @@ OverviewColorCostRarity
 
 
 1
-[Leaf Gilder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeaf%5D+%5BGilder%5D)
+[Leaf Gilder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeaf%5D+%5BGilder%5D)
 
 
 2
-[Sakura-Tribe Elder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSakura-Tribe%5D+%5BElder%5D)
+[Sakura-Tribe Elder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSakura-Tribe%5D+%5BElder%5D)
 
 
 1
-[Shinen of Life's Roar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShinen%5D+%5Bof%5D+%5BLife%5D+%5BRoar%5D)
+[Shinen of Life's Roar](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShinen%5D+%5Bof%5D+%5BLife%5D+%5BRoar%5D)
 
 
 2
-[Wall of Roots](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWall%5D+%5Bof%5D+%5BRoots%5D)
+[Wall of Roots](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWall%5D+%5Bof%5D+%5BRoots%5D)
 
 
 1
-[Watchwolf](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWatchwolf%5D)
+[Watchwolf](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWatchwolf%5D)
 
 
 1
-[Selesnya Guildmage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelesnya%5D+%5BGuildmage%5D)
+[Selesnya Guildmage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelesnya%5D+%5BGuildmage%5D)
 
 
 2
-[Fertilid](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFertilid%5D)
+[Fertilid](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFertilid%5D)
 
 
 1
-[Hunting Moa](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHunting%5D+%5BMoa%5D)
+[Hunting Moa](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHunting%5D+%5BMoa%5D)
 
 
 2
-[Yavimaya Dryad](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYavimaya%5D+%5BDryad%5D)
+[Yavimaya Dryad](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYavimaya%5D+%5BDryad%5D)
 
 
 1
-[Forgotten Ancient](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForgotten%5D+%5BAncient%5D)
+[Forgotten Ancient](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForgotten%5D+%5BAncient%5D)
 
 
 1
-[Thelonite Hermit](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThelonite%5D+%5BHermit%5D)
+[Thelonite Hermit](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThelonite%5D+%5BHermit%5D)
 
 
 2
-[Wickerbough Elder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWickerbough%5D+%5BElder%5D)
+[Wickerbough Elder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWickerbough%5D+%5BElder%5D)
 
 
 1
-[Kamahl, Fist of Krosa](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKamahl,%5D+%5BFist%5D+%5Bof%5D+%5BKrosa%5D)
+[Kamahl, Fist of Krosa](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKamahl,%5D+%5BFist%5D+%5Bof%5D+%5BKrosa%5D)
 
 
 1
-[Verdeloth the Ancient](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVerdeloth%5D+%5Bthe%5D+%5BAncient%5D)
+[Verdeloth the Ancient](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVerdeloth%5D+%5Bthe%5D+%5BAncient%5D)
 
 
 1
-[Pale Recluse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPale%5D+%5BRecluse%5D)
+[Pale Recluse](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPale%5D+%5BRecluse%5D)
 
 
 1
-[Krosan Tusker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BTusker%5D)
+[Krosan Tusker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BTusker%5D)
 
 
 1
-[Molimo, Maro-Sorcerer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMolimo,%5D+%5BMaro-Sorcerer%5D)
+[Molimo, Maro-Sorcerer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMolimo,%5D+%5BMaro-Sorcerer%5D)
 
 
 1
-[Feral Hydra](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFeral%5D+%5BHydra%5D)
+[Feral Hydra](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFeral%5D+%5BHydra%5D)
 
 
 
@@ -195,15 +198,15 @@ OverviewColorCostRarity
 
 
 1
-[Gleeful Sabotage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGleeful%5D+%5BSabotage%5D)
+[Gleeful Sabotage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGleeful%5D+%5BSabotage%5D)
 
 
 1
-[Harmonize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHarmonize%5D)
+[Harmonize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHarmonize%5D)
 
 
 1
-[Primal Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPrimal%5D+%5BCommand%5D)
+[Primal Command](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPrimal%5D+%5BCommand%5D)
 
 
 
@@ -212,19 +215,19 @@ OverviewColorCostRarity
 
 
 1
-[Fog](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFog%5D)
+[Fog](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFog%5D)
 
 
 1
-[Path to Exile](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPath%5D+%5Bto%5D+%5BExile%5D)
+[Path to Exile](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPath%5D+%5Bto%5D+%5BExile%5D)
 
 
 1
-[Plummet](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlummet%5D)
+[Plummet](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlummet%5D)
 
 
 1
-[Heroes' Reunion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHeroes'%5D+%5BReunion%5D)
+[Heroes' Reunion](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHeroes'%5D+%5BReunion%5D)
 
 
 
@@ -233,19 +236,19 @@ OverviewColorCostRarity
 
 
 1
-[Rancor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRancor%5D)
+[Rancor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRancor%5D)
 
 
 1
-[Spider Umbra](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpider%5D+%5BUmbra%5D)
+[Spider Umbra](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpider%5D+%5BUmbra%5D)
 
 
 2
-[Oblivion Ring](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOblivion%5D+%5BRing%5D)
+[Oblivion Ring](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOblivion%5D+%5BRing%5D)
 
 
 1
-[Armadillo Cloak](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArmadillo%5D+%5BCloak%5D)
+[Armadillo Cloak](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArmadillo%5D+%5BCloak%5D)
 
 
 
@@ -254,47 +257,47 @@ OverviewColorCostRarity
 
 
 10
-[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
 
 
 5
-[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+[Plains](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
 
 
 1
-[Graypelt Refuge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGraypelt%5D+%5BRefuge%5D)
+[Graypelt Refuge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGraypelt%5D+%5BRefuge%5D)
 
 
 1
-[Khalni Garden](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKhalni%5D+%5BGarden%5D)
+[Khalni Garden](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKhalni%5D+%5BGarden%5D)
 
 
 1
-[Krosan Verge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BVerge%5D)
+[Krosan Verge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BVerge%5D)
 
 
 1
-[Llanowar Reborn](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BReborn%5D)
+[Llanowar Reborn](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BReborn%5D)
 
 
 1
-[Mosswort Bridge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMosswort%5D+%5BBridge%5D)
+[Mosswort Bridge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMosswort%5D+%5BBridge%5D)
 
 
 1
-[Nantuko Monastery](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNantuko%5D+%5BMonastery%5D)
+[Nantuko Monastery](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNantuko%5D+%5BMonastery%5D)
 
 
 1
-[Secluded Steppe](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSecluded%5D+%5BSteppe%5D)
+[Secluded Steppe](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSecluded%5D+%5BSteppe%5D)
 
 
 1
-[Tranquil Thicket](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTranquil%5D+%5BThicket%5D)
+[Tranquil Thicket](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTranquil%5D+%5BThicket%5D)
 
 
 1
-[Vitu-Ghazi, the City-Tree](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVitu-Ghazi,%5D+%5Bthe%5D+%5BCity-Tree%5D)
+[Vitu-Ghazi, the City-Tree](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVitu-Ghazi,%5D+%5Bthe%5D+%5BCity-Tree%5D)
 
 
 
@@ -315,11 +318,11 @@ Wax/Wane /
 
 
 1
-[Path to Exile](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPath%5D+%5Bto%5D+%5BExile%5D)
+[Path to Exile](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPath%5D+%5Bto%5D+%5BExile%5D)
 
 
 2
-[Oblivion Ring](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOblivion%5D+%5BRing%5D)
+[Oblivion Ring](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOblivion%5D+%5BRing%5D)
 
 
 
@@ -328,91 +331,91 @@ Wax/Wane /
 
 
 1
-[Leaf Gilder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeaf%5D+%5BGilder%5D)
+[Leaf Gilder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeaf%5D+%5BGilder%5D)
 
 
 2
-[Sakura-Tribe Elder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSakura-Tribe%5D+%5BElder%5D)
+[Sakura-Tribe Elder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSakura-Tribe%5D+%5BElder%5D)
 
 
 1
-[Shinen of Life's Roar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShinen%5D+%5Bof%5D+%5BLife%5D+%5BRoar%5D)
+[Shinen of Life's Roar](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShinen%5D+%5Bof%5D+%5BLife%5D+%5BRoar%5D)
 
 
 2
-[Wall of Roots](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWall%5D+%5Bof%5D+%5BRoots%5D)
+[Wall of Roots](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWall%5D+%5Bof%5D+%5BRoots%5D)
 
 
 2
-[Fertilid](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFertilid%5D)
+[Fertilid](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFertilid%5D)
 
 
 1
-[Hunting Moa](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHunting%5D+%5BMoa%5D)
+[Hunting Moa](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHunting%5D+%5BMoa%5D)
 
 
 2
-[Yavimaya Dryad](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYavimaya%5D+%5BDryad%5D)
+[Yavimaya Dryad](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYavimaya%5D+%5BDryad%5D)
 
 
 1
-[Forgotten Ancient](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForgotten%5D+%5BAncient%5D)
+[Forgotten Ancient](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForgotten%5D+%5BAncient%5D)
 
 
 1
-[Thelonite Hermit](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThelonite%5D+%5BHermit%5D)
+[Thelonite Hermit](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThelonite%5D+%5BHermit%5D)
 
 
 2
-[Wickerbough Elder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWickerbough%5D+%5BElder%5D)
+[Wickerbough Elder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWickerbough%5D+%5BElder%5D)
 
 
 1
-[Kamahl, Fist of Krosa](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKamahl,%5D+%5BFist%5D+%5Bof%5D+%5BKrosa%5D)
+[Kamahl, Fist of Krosa](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKamahl,%5D+%5BFist%5D+%5Bof%5D+%5BKrosa%5D)
 
 
 1
-[Verdeloth the Ancient](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVerdeloth%5D+%5Bthe%5D+%5BAncient%5D)
+[Verdeloth the Ancient](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVerdeloth%5D+%5Bthe%5D+%5BAncient%5D)
 
 
 1
-[Krosan Tusker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BTusker%5D)
+[Krosan Tusker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BTusker%5D)
 
 
 1
-[Molimo, Maro-Sorcerer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMolimo,%5D+%5BMaro-Sorcerer%5D)
+[Molimo, Maro-Sorcerer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMolimo,%5D+%5BMaro-Sorcerer%5D)
 
 
 1
-[Feral Hydra](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFeral%5D+%5BHydra%5D)
+[Feral Hydra](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFeral%5D+%5BHydra%5D)
 
 
 1
-[Fog](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFog%5D)
+[Fog](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFog%5D)
 
 
 1
-[Rancor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRancor%5D)
+[Rancor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRancor%5D)
 
 
 1
-[Spider Umbra](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpider%5D+%5BUmbra%5D)
+[Spider Umbra](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpider%5D+%5BUmbra%5D)
 
 
 1
-[Gleeful Sabotage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGleeful%5D+%5BSabotage%5D)
+[Gleeful Sabotage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGleeful%5D+%5BSabotage%5D)
 
 
 1
-[Plummet](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlummet%5D)
+[Plummet](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlummet%5D)
 
 
 1
-[Harmonize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHarmonize%5D)
+[Harmonize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHarmonize%5D)
 
 
 1
-[Primal Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPrimal%5D+%5BCommand%5D)
+[Primal Command](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPrimal%5D+%5BCommand%5D)
 
 
 
@@ -421,23 +424,23 @@ Wax/Wane /
 
 
 1
-[Watchwolf](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWatchwolf%5D)
+[Watchwolf](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWatchwolf%5D)
 
 
 1
-[Selesnya Guildmage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelesnya%5D+%5BGuildmage%5D)
+[Selesnya Guildmage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelesnya%5D+%5BGuildmage%5D)
 
 
 1
-[Pale Recluse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPale%5D+%5BRecluse%5D)
+[Pale Recluse](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPale%5D+%5BRecluse%5D)
 
 
 1
-[Heroes' Reunion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHeroes'%5D+%5BReunion%5D)
+[Heroes' Reunion](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHeroes'%5D+%5BReunion%5D)
 
 
 1
-[Armadillo Cloak](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArmadillo%5D+%5BCloak%5D)
+[Armadillo Cloak](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArmadillo%5D+%5BCloak%5D)
 
 
 
@@ -450,47 +453,47 @@ Wax/Wane /
 
 
 10
-[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
 
 
 5
-[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+[Plains](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
 
 
 1
-[Graypelt Refuge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGraypelt%5D+%5BRefuge%5D)
+[Graypelt Refuge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGraypelt%5D+%5BRefuge%5D)
 
 
 1
-[Khalni Garden](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKhalni%5D+%5BGarden%5D)
+[Khalni Garden](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKhalni%5D+%5BGarden%5D)
 
 
 1
-[Krosan Verge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BVerge%5D)
+[Krosan Verge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BVerge%5D)
 
 
 1
-[Llanowar Reborn](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BReborn%5D)
+[Llanowar Reborn](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BReborn%5D)
 
 
 1
-[Mosswort Bridge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMosswort%5D+%5BBridge%5D)
+[Mosswort Bridge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMosswort%5D+%5BBridge%5D)
 
 
 1
-[Nantuko Monastery](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNantuko%5D+%5BMonastery%5D)
+[Nantuko Monastery](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNantuko%5D+%5BMonastery%5D)
 
 
 1
-[Secluded Steppe](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSecluded%5D+%5BSteppe%5D)
+[Secluded Steppe](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSecluded%5D+%5BSteppe%5D)
 
 
 1
-[Tranquil Thicket](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTranquil%5D+%5BThicket%5D)
+[Tranquil Thicket](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTranquil%5D+%5BThicket%5D)
 
 
 1
-[Vitu-Ghazi, the City-Tree](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVitu-Ghazi,%5D+%5Bthe%5D+%5BCity-Tree%5D)
+[Vitu-Ghazi, the City-Tree](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVitu-Ghazi,%5D+%5Bthe%5D+%5BCity-Tree%5D)
 
 
 60 Cards 
@@ -502,23 +505,23 @@ Wax/Wane /
 
 
 1
-[Feral Hydra](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFeral%5D+%5BHydra%5D)
+[Feral Hydra](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFeral%5D+%5BHydra%5D)
 
 
 1
-[Fog](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFog%5D)
+[Fog](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFog%5D)
 
 
 1
-[Rancor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRancor%5D)
+[Rancor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRancor%5D)
 
 
 1
-[Spider Umbra](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpider%5D+%5BUmbra%5D)
+[Spider Umbra](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpider%5D+%5BUmbra%5D)
 
 
 1
-[Path to Exile](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPath%5D+%5Bto%5D+%5BExile%5D)
+[Path to Exile](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPath%5D+%5Bto%5D+%5BExile%5D)
 
 
 
@@ -527,39 +530,39 @@ Wax/Wane /
 
 
 1
-[Leaf Gilder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeaf%5D+%5BGilder%5D)
+[Leaf Gilder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeaf%5D+%5BGilder%5D)
 
 
 2
-[Sakura-Tribe Elder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSakura-Tribe%5D+%5BElder%5D)
+[Sakura-Tribe Elder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSakura-Tribe%5D+%5BElder%5D)
 
 
 1
-[Shinen of Life's Roar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShinen%5D+%5Bof%5D+%5BLife%5D+%5BRoar%5D)
+[Shinen of Life's Roar](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShinen%5D+%5Bof%5D+%5BLife%5D+%5BRoar%5D)
 
 
 2
-[Wall of Roots](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWall%5D+%5Bof%5D+%5BRoots%5D)
+[Wall of Roots](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWall%5D+%5Bof%5D+%5BRoots%5D)
 
 
 1
-[Watchwolf](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWatchwolf%5D)
+[Watchwolf](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWatchwolf%5D)
 
 
 1
-[Selesnya Guildmage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelesnya%5D+%5BGuildmage%5D)
+[Selesnya Guildmage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelesnya%5D+%5BGuildmage%5D)
 
 
 1
-[Gleeful Sabotage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGleeful%5D+%5BSabotage%5D)
+[Gleeful Sabotage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGleeful%5D+%5BSabotage%5D)
 
 
 1
-[Plummet](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlummet%5D)
+[Plummet](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlummet%5D)
 
 
 1
-[Heroes' Reunion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHeroes'%5D+%5BReunion%5D)
+[Heroes' Reunion](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHeroes'%5D+%5BReunion%5D)
 
 
 
@@ -568,23 +571,23 @@ Wax/Wane /
 
 
 2
-[Fertilid](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFertilid%5D)
+[Fertilid](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFertilid%5D)
 
 
 1
-[Hunting Moa](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHunting%5D+%5BMoa%5D)
+[Hunting Moa](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHunting%5D+%5BMoa%5D)
 
 
 2
-[Yavimaya Dryad](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYavimaya%5D+%5BDryad%5D)
+[Yavimaya Dryad](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYavimaya%5D+%5BDryad%5D)
 
 
 2
-[Oblivion Ring](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOblivion%5D+%5BRing%5D)
+[Oblivion Ring](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOblivion%5D+%5BRing%5D)
 
 
 1
-[Armadillo Cloak](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArmadillo%5D+%5BCloak%5D)
+[Armadillo Cloak](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArmadillo%5D+%5BCloak%5D)
 
 
 
@@ -593,19 +596,19 @@ Wax/Wane /
 
 
 1
-[Forgotten Ancient](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForgotten%5D+%5BAncient%5D)
+[Forgotten Ancient](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForgotten%5D+%5BAncient%5D)
 
 
 1
-[Thelonite Hermit](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThelonite%5D+%5BHermit%5D)
+[Thelonite Hermit](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThelonite%5D+%5BHermit%5D)
 
 
 2
-[Wickerbough Elder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWickerbough%5D+%5BElder%5D)
+[Wickerbough Elder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWickerbough%5D+%5BElder%5D)
 
 
 1
-[Harmonize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHarmonize%5D)
+[Harmonize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHarmonize%5D)
 
 
 
@@ -614,7 +617,7 @@ Wax/Wane /
 
 
 1
-[Primal Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPrimal%5D+%5BCommand%5D)
+[Primal Command](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPrimal%5D+%5BCommand%5D)
 
 
 
@@ -623,15 +626,15 @@ Wax/Wane /
 
 
 1
-[Kamahl, Fist of Krosa](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKamahl,%5D+%5BFist%5D+%5Bof%5D+%5BKrosa%5D)
+[Kamahl, Fist of Krosa](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKamahl,%5D+%5BFist%5D+%5Bof%5D+%5BKrosa%5D)
 
 
 1
-[Verdeloth the Ancient](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVerdeloth%5D+%5Bthe%5D+%5BAncient%5D)
+[Verdeloth the Ancient](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVerdeloth%5D+%5Bthe%5D+%5BAncient%5D)
 
 
 1
-[Pale Recluse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPale%5D+%5BRecluse%5D)
+[Pale Recluse](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPale%5D+%5BRecluse%5D)
 
 
 
@@ -640,71 +643,71 @@ Wax/Wane /
 
 
 1
-[Krosan Tusker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BTusker%5D)
+[Krosan Tusker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BTusker%5D)
 
 
 1
-[Molimo, Maro-Sorcerer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMolimo,%5D+%5BMaro-Sorcerer%5D)
+[Molimo, Maro-Sorcerer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMolimo,%5D+%5BMaro-Sorcerer%5D)
 
 
 35 Cards 
 
 
 
-##### Common (36)
+##### Common (35)
 
 
 
 1
-[Leaf Gilder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeaf%5D+%5BGilder%5D)
+[Leaf Gilder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeaf%5D+%5BGilder%5D)
 
 
 2
-[Sakura-Tribe Elder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSakura-Tribe%5D+%5BElder%5D)
+[Sakura-Tribe Elder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSakura-Tribe%5D+%5BElder%5D)
 
 
 1
-[Shinen of Life's Roar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShinen%5D+%5Bof%5D+%5BLife%5D+%5BRoar%5D)
+[Shinen of Life's Roar](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShinen%5D+%5Bof%5D+%5BLife%5D+%5BRoar%5D)
 
 
 2
-[Wall of Roots](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWall%5D+%5Bof%5D+%5BRoots%5D)
+[Wall of Roots](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWall%5D+%5Bof%5D+%5BRoots%5D)
 
 
 2
-[Fertilid](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFertilid%5D)
+[Fertilid](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFertilid%5D)
 
 
 2
-[Wickerbough Elder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWickerbough%5D+%5BElder%5D)
+[Wickerbough Elder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWickerbough%5D+%5BElder%5D)
 
 
 1
-[Pale Recluse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPale%5D+%5BRecluse%5D)
+[Pale Recluse](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPale%5D+%5BRecluse%5D)
 
 
 1
-[Krosan Tusker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BTusker%5D)
+[Krosan Tusker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BTusker%5D)
 
 
 1
-[Fog](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFog%5D)
+[Fog](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFog%5D)
 
 
 1
-[Rancor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRancor%5D)
+[Spider Umbra](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpider%5D+%5BUmbra%5D)
 
 
 1
-[Spider Umbra](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpider%5D+%5BUmbra%5D)
+[Path to Exile](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPath%5D+%5Bto%5D+%5BExile%5D)
 
 
 1
-[Gleeful Sabotage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGleeful%5D+%5BSabotage%5D)
+[Gleeful Sabotage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGleeful%5D+%5BSabotage%5D)
 
 
 1
-[Plummet](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlummet%5D)
+[Plummet](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlummet%5D)
 
 
 1
@@ -712,121 +715,126 @@ Wax/Wane /
 
 
 10
-[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
 
 
 5
-[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+[Plains](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
 
 
 1
-[Khalni Garden](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKhalni%5D+%5BGarden%5D)
+[Khalni Garden](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKhalni%5D+%5BGarden%5D)
 
 
 1
-[Secluded Steppe](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSecluded%5D+%5BSteppe%5D)
-
-
-1
-[Tranquil Thicket](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTranquil%5D+%5BThicket%5D)
+[Tranquil Thicket](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTranquil%5D+%5BThicket%5D)
 
 
 
-##### Uncommon (16)
+##### Uncommon (17)
 
 
 
 1
-[Watchwolf](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWatchwolf%5D)
+[Watchwolf](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWatchwolf%5D)
 
 
 1
-[Selesnya Guildmage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelesnya%5D+%5BGuildmage%5D)
+[Selesnya Guildmage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelesnya%5D+%5BGuildmage%5D)
 
 
 1
-[Hunting Moa](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHunting%5D+%5BMoa%5D)
+[Hunting Moa](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHunting%5D+%5BMoa%5D)
 
 
 2
-[Yavimaya Dryad](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYavimaya%5D+%5BDryad%5D)
+[Yavimaya Dryad](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYavimaya%5D+%5BDryad%5D)
 
 
 1
-[Path to Exile](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPath%5D+%5Bto%5D+%5BExile%5D)
+[Feral Hydra](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFeral%5D+%5BHydra%5D)
 
 
 1
-[Heroes' Reunion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHeroes'%5D+%5BReunion%5D)
+[Rancor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRancor%5D)
+
+
+1
+[Heroes' Reunion](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHeroes'%5D+%5BReunion%5D)
 
 
 2
-[Oblivion Ring](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOblivion%5D+%5BRing%5D)
+[Oblivion Ring](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOblivion%5D+%5BRing%5D)
 
 
 1
-[Armadillo Cloak](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArmadillo%5D+%5BCloak%5D)
+[Armadillo Cloak](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArmadillo%5D+%5BCloak%5D)
 
 
 1
-[Harmonize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHarmonize%5D)
+[Graypelt Refuge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGraypelt%5D+%5BRefuge%5D)
 
 
 1
-[Graypelt Refuge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGraypelt%5D+%5BRefuge%5D)
+[Krosan Verge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BVerge%5D)
 
 
 1
-[Krosan Verge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BVerge%5D)
+[Llanowar Reborn](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BReborn%5D)
 
 
 1
-[Llanowar Reborn](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BReborn%5D)
+[Nantuko Monastery](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNantuko%5D+%5BMonastery%5D)
 
 
 1
-[Nantuko Monastery](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNantuko%5D+%5BMonastery%5D)
+[Secluded Steppe](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSecluded%5D+%5BSteppe%5D)
 
 
 1
-[Vitu-Ghazi, the City-Tree](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVitu-Ghazi,%5D+%5Bthe%5D+%5BCity-Tree%5D)
+[Vitu-Ghazi, the City-Tree](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVitu-Ghazi,%5D+%5Bthe%5D+%5BCity-Tree%5D)
 
 
 
-##### Rare (8)
+##### Rare (7)
 
 
 
 1
-[Forgotten Ancient](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForgotten%5D+%5BAncient%5D)
+[Forgotten Ancient](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForgotten%5D+%5BAncient%5D)
 
 
 1
-[Thelonite Hermit](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThelonite%5D+%5BHermit%5D)
+[Thelonite Hermit](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThelonite%5D+%5BHermit%5D)
 
 
 1
-[Kamahl, Fist of Krosa](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKamahl,%5D+%5BFist%5D+%5Bof%5D+%5BKrosa%5D)
+[Kamahl, Fist of Krosa](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKamahl,%5D+%5BFist%5D+%5Bof%5D+%5BKrosa%5D)
 
 
 1
-[Verdeloth the Ancient](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVerdeloth%5D+%5Bthe%5D+%5BAncient%5D)
+[Verdeloth the Ancient](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVerdeloth%5D+%5Bthe%5D+%5BAncient%5D)
 
 
 1
-[Molimo, Maro-Sorcerer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMolimo,%5D+%5BMaro-Sorcerer%5D)
+[Molimo, Maro-Sorcerer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMolimo,%5D+%5BMaro-Sorcerer%5D)
 
 
 1
-[Feral Hydra](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFeral%5D+%5BHydra%5D)
+[Harmonize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHarmonize%5D)
 
 
 1
-[Primal Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPrimal%5D+%5BCommand%5D)
+[Mosswort Bridge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMosswort%5D+%5BBridge%5D)
+
+
+
+##### Mythic (1)
+
 
 
 1
-[Mosswort Bridge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMosswort%5D+%5BBridge%5D)
+[Primal Command](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPrimal%5D+%5BCommand%5D)
 
 
 60 Cards 
@@ -834,7 +842,7 @@ Wax/Wane /
 
 
 
-![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Leaf+Gilder)
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Leaf+Gilder)
 
 
 

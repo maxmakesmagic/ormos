@@ -1,0 +1,2094 @@
+
+---
+[Link to Wayback Machine](https://web.archive.org/web/20220528082126/https://magic.wizards.com/en/articles/archive/mtgo-standings/pauper-event-2014-06-10)
+
+[_metadata_:description]:- "Decklists Standings Draft viewer See the draft viewer for this event here!"
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "216476"
+[_metadata_:publish_date]:- "2014-06-10"
+[_metadata_:source]:- "div-main-content"
+[_metadata_:title]:- "Pauper Event"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-28 08:21:26"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220528082126id_/https://magic.wizards.com/en/articles/archive/mtgo-standings/pauper-event-2014-06-10"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/mtgo-standings/pauper-event-2014-06-10"
+---
+
+
+Pauper Event
+============
+
+
+
+ Posted in **MTGO Standings**
+ on June 10, 2014 
+
+
+
+
+
+
+
+
+
+
+* [Decklists](#decklists)
+* [Standings](#standings)
+Draft viewer
+------------
+
+
+See the draft viewer for this event [here](/en/%0A)!
+
+
+
+Decklists
+---------
+
+
+
+
+
+
+
+
+#### cruxd (1st Place)
+
+
+##### 
+ Pauper Event #7183520 on 06/09/2014
+
+
+
+
+
+
+![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
+![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Creature (24)
+
+
+
+4
+[Cloud of Faeries](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCloud%5D+%5Bof%5D+%5BFaeries%5D)
+
+
+4
+[Delver of Secrets](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDelver%5D+%5Bof%5D+%5BSecrets%5D)
+
+
+4
+[Mulldrifter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMulldrifter%5D)
+
+
+4
+[Ninja of the Deep Hours](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNinja%5D+%5Bof%5D+%5Bthe%5D+%5BDeep%5D+%5BHours%5D)
+
+
+4
+[Spellstutter Sprite](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpellstutter%5D+%5BSprite%5D)
+
+
+4
+[Spire Golem](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpire%5D+%5BGolem%5D)
+
+
+
+##### Sorcery (8)
+
+
+
+4
+[Ponder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPonder%5D)
+
+
+4
+[Preordain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPreordain%5D)
+
+
+
+##### Instant (10)
+
+
+
+4
+[Counterspell](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCounterspell%5D)
+
+
+4
+[Snap](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSnap%5D)
+
+
+2
+[Vapor Snag](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVapor%5D+%5BSnag%5D)
+
+
+
+##### Land (18)
+
+
+
+18
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+4
+[Coral Net](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCoral%5D+%5BNet%5D)
+
+
+3
+[Frostburn Weird](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFrostburn%5D+%5BWeird%5D)
+
+
+3
+[Hydroblast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHydroblast%5D)
+
+
+3
+[Serrated Arrows](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSerrated%5D+%5BArrows%5D)
+
+
+2
+[Stormbound Geist](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStormbound%5D+%5BGeist%5D)
+
+
+
+
+##### Blue (47)
+
+
+
+4
+[Cloud of Faeries](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCloud%5D+%5Bof%5D+%5BFaeries%5D)
+
+
+4
+[Delver of Secrets](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDelver%5D+%5Bof%5D+%5BSecrets%5D)
+
+
+4
+[Mulldrifter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMulldrifter%5D)
+
+
+4
+[Ninja of the Deep Hours](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNinja%5D+%5Bof%5D+%5Bthe%5D+%5BDeep%5D+%5BHours%5D)
+
+
+4
+[Spellstutter Sprite](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpellstutter%5D+%5BSprite%5D)
+
+
+4
+[Counterspell](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCounterspell%5D)
+
+
+4
+[Ponder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPonder%5D)
+
+
+4
+[Preordain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPreordain%5D)
+
+
+4
+[Snap](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSnap%5D)
+
+
+2
+[Vapor Snag](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVapor%5D+%5BSnag%5D)
+
+
+4
+[Coral Net](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCoral%5D+%5BNet%5D)
+
+
+3
+[Hydroblast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHydroblast%5D)
+
+
+2
+[Stormbound Geist](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStormbound%5D+%5BGeist%5D)
+
+
+
+##### Multi colored (3)
+
+
+
+3
+[Frostburn Weird](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFrostburn%5D+%5BWeird%5D)
+
+
+
+##### Colorless (25)
+
+
+
+18
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+4
+[Spire Golem](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpire%5D+%5BGolem%5D)
+
+
+3
+[Serrated Arrows](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSerrated%5D+%5BArrows%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (21)
+
+
+
+4
+[Delver of Secrets](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDelver%5D+%5Bof%5D+%5BSecrets%5D)
+
+
+4
+[Ponder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPonder%5D)
+
+
+4
+[Preordain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPreordain%5D)
+
+
+2
+[Vapor Snag](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVapor%5D+%5BSnag%5D)
+
+
+4
+[Coral Net](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCoral%5D+%5BNet%5D)
+
+
+3
+[Hydroblast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHydroblast%5D)
+
+
+
+##### 2 (19)
+
+
+
+4
+[Cloud of Faeries](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCloud%5D+%5Bof%5D+%5BFaeries%5D)
+
+
+4
+[Spellstutter Sprite](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpellstutter%5D+%5BSprite%5D)
+
+
+4
+[Counterspell](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCounterspell%5D)
+
+
+4
+[Snap](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSnap%5D)
+
+
+3
+[Frostburn Weird](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFrostburn%5D+%5BWeird%5D)
+
+
+
+##### 3 (2)
+
+
+
+2
+[Stormbound Geist](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStormbound%5D+%5BGeist%5D)
+
+
+
+##### 4 (7)
+
+
+
+4
+[Ninja of the Deep Hours](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNinja%5D+%5Bof%5D+%5Bthe%5D+%5BDeep%5D+%5BHours%5D)
+
+
+3
+[Serrated Arrows](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSerrated%5D+%5BArrows%5D)
+
+
+
+##### 5 (4)
+
+
+
+4
+[Mulldrifter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMulldrifter%5D)
+
+
+
+##### 6 (4)
+
+
+
+4
+[Spire Golem](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpire%5D+%5BGolem%5D)
+
+
+57 Cards 
+
+
+
+##### Common (55)
+
+
+
+18
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+4
+[Ninja of the Deep Hours](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNinja%5D+%5Bof%5D+%5Bthe%5D+%5BDeep%5D+%5BHours%5D)
+
+
+4
+[Spire Golem](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpire%5D+%5BGolem%5D)
+
+
+4
+[Ponder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPonder%5D)
+
+
+4
+[Preordain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPreordain%5D)
+
+
+4
+[Snap](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSnap%5D)
+
+
+2
+[Vapor Snag](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVapor%5D+%5BSnag%5D)
+
+
+4
+[Coral Net](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCoral%5D+%5BNet%5D)
+
+
+3
+[Frostburn Weird](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFrostburn%5D+%5BWeird%5D)
+
+
+3
+[Hydroblast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHydroblast%5D)
+
+
+3
+[Serrated Arrows](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSerrated%5D+%5BArrows%5D)
+
+
+2
+[Stormbound Geist](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStormbound%5D+%5BGeist%5D)
+
+
+
+##### Uncommon (16)
+
+
+
+4
+[Cloud of Faeries](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCloud%5D+%5Bof%5D+%5BFaeries%5D)
+
+
+4
+[Delver of Secrets](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDelver%5D+%5Bof%5D+%5BSecrets%5D)
+
+
+4
+[Mulldrifter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMulldrifter%5D)
+
+
+4
+[Counterspell](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCounterspell%5D)
+
+
+
+##### Rare (4)
+
+
+
+4
+[Spellstutter Sprite](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpellstutter%5D+%5BSprite%5D)
+
+
+75 Cards 
+
+
+
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Island)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### moothecow (2nd Place)
+
+
+##### 
+ Pauper Event #7183520 on 06/09/2014
+
+
+
+
+
+
+![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
+![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Creature (22)
+
+
+
+4
+[Atog](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAtog%5D)
+
+
+4
+[Carapace Forger](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCarapace%5D+%5BForger%5D)
+
+
+4
+[Disciple of the Vault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisciple%5D+%5Bof%5D+%5Bthe%5D+%5BVault%5D)
+
+
+4
+[Frogmite](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFrogmite%5D)
+
+
+4
+[Myr Enforcer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMyr%5D+%5BEnforcer%5D)
+
+
+2
+[Somber Hoverguard](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSomber%5D+%5BHoverguard%5D)
+
+
+
+##### Sorcery (4)
+
+
+
+4
+[Thoughtcast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtcast%5D)
+
+
+
+##### Instant (6)
+
+
+
+2
+[Fling](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFling%5D)
+
+
+4
+[Galvanic Blast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGalvanic%5D+%5BBlast%5D)
+
+
+
+##### Artifact (10)
+
+
+
+4
+[Chromatic Star](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChromatic%5D+%5BStar%5D)
+
+
+4
+[Springleaf Drum](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpringleaf%5D+%5BDrum%5D)
+
+
+2
+[Terrarion](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTerrarion%5D)
+
+
+
+##### Land (18)
+
+
+
+2
+[Darksteel Citadel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarksteel%5D+%5BCitadel%5D)
+
+
+4
+[Great Furnace](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGreat%5D+%5BFurnace%5D)
+
+
+4
+[Seat of the Synod](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeat%5D+%5Bof%5D+%5Bthe%5D+%5BSynod%5D)
+
+
+4
+[Tree of Tales](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTree%5D+%5Bof%5D+%5BTales%5D)
+
+
+4
+[Vault of Whispers](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVault%5D+%5Bof%5D+%5BWhispers%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+3
+[Ancient Grudge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BGrudge%5D)
+
+
+3
+[Doom Blade](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDoom%5D+%5BBlade%5D)
+
+
+2
+[Duress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+3
+[Electrickery](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElectrickery%5D)
+
+
+2
+[Krark-Clan Shaman](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrark-Clan%5D+%5BShaman%5D)
+
+
+2
+[Pyroblast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroblast%5D)
+
+
+
+
+##### Blue (6)
+
+
+
+2
+[Somber Hoverguard](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSomber%5D+%5BHoverguard%5D)
+
+
+4
+[Thoughtcast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtcast%5D)
+
+
+
+##### Black (9)
+
+
+
+4
+[Disciple of the Vault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisciple%5D+%5Bof%5D+%5Bthe%5D+%5BVault%5D)
+
+
+3
+[Doom Blade](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDoom%5D+%5BBlade%5D)
+
+
+2
+[Duress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+
+##### Red (20)
+
+
+
+4
+[Atog](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAtog%5D)
+
+
+2
+[Fling](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFling%5D)
+
+
+4
+[Galvanic Blast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGalvanic%5D+%5BBlast%5D)
+
+
+3
+[Ancient Grudge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BGrudge%5D)
+
+
+3
+[Electrickery](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElectrickery%5D)
+
+
+2
+[Krark-Clan Shaman](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrark-Clan%5D+%5BShaman%5D)
+
+
+2
+[Pyroblast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroblast%5D)
+
+
+
+##### Green (4)
+
+
+
+4
+[Carapace Forger](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCarapace%5D+%5BForger%5D)
+
+
+
+##### Colorless (36)
+
+
+
+2
+[Darksteel Citadel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarksteel%5D+%5BCitadel%5D)
+
+
+4
+[Great Furnace](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGreat%5D+%5BFurnace%5D)
+
+
+4
+[Seat of the Synod](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeat%5D+%5Bof%5D+%5Bthe%5D+%5BSynod%5D)
+
+
+4
+[Tree of Tales](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTree%5D+%5Bof%5D+%5BTales%5D)
+
+
+4
+[Vault of Whispers](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVault%5D+%5Bof%5D+%5BWhispers%5D)
+
+
+4
+[Frogmite](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFrogmite%5D)
+
+
+4
+[Myr Enforcer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMyr%5D+%5BEnforcer%5D)
+
+
+4
+[Chromatic Star](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChromatic%5D+%5BStar%5D)
+
+
+4
+[Springleaf Drum](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpringleaf%5D+%5BDrum%5D)
+
+
+2
+[Terrarion](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTerrarion%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (27)
+
+
+
+4
+[Disciple of the Vault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisciple%5D+%5Bof%5D+%5Bthe%5D+%5BVault%5D)
+
+
+4
+[Chromatic Star](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChromatic%5D+%5BStar%5D)
+
+
+4
+[Galvanic Blast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGalvanic%5D+%5BBlast%5D)
+
+
+4
+[Springleaf Drum](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpringleaf%5D+%5BDrum%5D)
+
+
+2
+[Terrarion](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTerrarion%5D)
+
+
+2
+[Duress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+3
+[Electrickery](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElectrickery%5D)
+
+
+2
+[Krark-Clan Shaman](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrark-Clan%5D+%5BShaman%5D)
+
+
+2
+[Pyroblast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroblast%5D)
+
+
+
+##### 2 (16)
+
+
+
+4
+[Atog](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAtog%5D)
+
+
+4
+[Carapace Forger](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCarapace%5D+%5BForger%5D)
+
+
+2
+[Fling](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFling%5D)
+
+
+3
+[Ancient Grudge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BGrudge%5D)
+
+
+3
+[Doom Blade](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDoom%5D+%5BBlade%5D)
+
+
+
+##### 4 (4)
+
+
+
+4
+[Frogmite](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFrogmite%5D)
+
+
+
+##### 5 (4)
+
+
+
+4
+[Thoughtcast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtcast%5D)
+
+
+
+##### 6 (2)
+
+
+
+2
+[Somber Hoverguard](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSomber%5D+%5BHoverguard%5D)
+
+
+
+##### 7 (4)
+
+
+
+4
+[Myr Enforcer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMyr%5D+%5BEnforcer%5D)
+
+
+57 Cards 
+
+
+
+##### Common (66)
+
+
+
+4
+[Great Furnace](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGreat%5D+%5BFurnace%5D)
+
+
+4
+[Seat of the Synod](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeat%5D+%5Bof%5D+%5Bthe%5D+%5BSynod%5D)
+
+
+4
+[Tree of Tales](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTree%5D+%5Bof%5D+%5BTales%5D)
+
+
+4
+[Vault of Whispers](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVault%5D+%5Bof%5D+%5BWhispers%5D)
+
+
+4
+[Atog](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAtog%5D)
+
+
+4
+[Carapace Forger](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCarapace%5D+%5BForger%5D)
+
+
+4
+[Disciple of the Vault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisciple%5D+%5Bof%5D+%5Bthe%5D+%5BVault%5D)
+
+
+4
+[Frogmite](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFrogmite%5D)
+
+
+4
+[Myr Enforcer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMyr%5D+%5BEnforcer%5D)
+
+
+2
+[Somber Hoverguard](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSomber%5D+%5BHoverguard%5D)
+
+
+4
+[Chromatic Star](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChromatic%5D+%5BStar%5D)
+
+
+2
+[Fling](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFling%5D)
+
+
+4
+[Galvanic Blast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGalvanic%5D+%5BBlast%5D)
+
+
+2
+[Terrarion](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTerrarion%5D)
+
+
+4
+[Thoughtcast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtcast%5D)
+
+
+3
+[Ancient Grudge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BGrudge%5D)
+
+
+2
+[Duress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+3
+[Electrickery](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElectrickery%5D)
+
+
+2
+[Krark-Clan Shaman](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrark-Clan%5D+%5BShaman%5D)
+
+
+2
+[Pyroblast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroblast%5D)
+
+
+
+##### Uncommon (6)
+
+
+
+2
+[Darksteel Citadel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarksteel%5D+%5BCitadel%5D)
+
+
+4
+[Springleaf Drum](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpringleaf%5D+%5BDrum%5D)
+
+
+
+##### Rare (3)
+
+
+
+3
+[Doom Blade](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDoom%5D+%5BBlade%5D)
+
+
+75 Cards 
+
+
+
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Darksteel+Citadel)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Bye\_ (3rd Place)
+
+
+##### 
+ Pauper Event #7183520 on 06/09/2014
+
+
+
+
+
+
+![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
+![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Creature (22)
+
+
+
+4
+[Cloud of Faeries](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCloud%5D+%5Bof%5D+%5BFaeries%5D)
+
+
+4
+[Delver of Secrets](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDelver%5D+%5Bof%5D+%5BSecrets%5D)
+
+
+2
+[Frostburn Weird](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFrostburn%5D+%5BWeird%5D)
+
+
+4
+[Ninja of the Deep Hours](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNinja%5D+%5Bof%5D+%5Bthe%5D+%5BDeep%5D+%5BHours%5D)
+
+
+4
+[Spellstutter Sprite](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpellstutter%5D+%5BSprite%5D)
+
+
+4
+[Spire Golem](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpire%5D+%5BGolem%5D)
+
+
+
+##### Sorcery (7)
+
+
+
+4
+[Ponder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPonder%5D)
+
+
+3
+[Preordain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPreordain%5D)
+
+
+
+##### Instant (14)
+
+
+
+4
+[Counterspell](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCounterspell%5D)
+
+
+2
+[Daze](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDaze%5D)
+
+
+1
+[Deprive](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeprive%5D)
+
+
+2
+[Gush](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGush%5D)
+
+
+1
+[Logic Knot](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLogic%5D+%5BKnot%5D)
+
+
+1
+[Mutagenic Growth](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMutagenic%5D+%5BGrowth%5D)
+
+
+3
+[Snap](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSnap%5D)
+
+
+
+##### Artifact (1)
+
+
+
+1
+[Bonesplitter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBonesplitter%5D)
+
+
+
+##### Land (16)
+
+
+
+16
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+3
+[Curse of Chains](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCurse%5D+%5Bof%5D+%5BChains%5D)
+
+
+2
+[Dispel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDispel%5D)
+
+
+2
+[Exclude](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExclude%5D)
+
+
+3
+[Hydroblast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHydroblast%5D)
+
+
+1
+[Nullify](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNullify%5D)
+
+
+1
+[Quicksand](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BQuicksand%5D)
+
+
+3
+[Serrated Arrows](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSerrated%5D+%5BArrows%5D)
+
+
+
+
+##### Blue (44)
+
+
+
+4
+[Cloud of Faeries](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCloud%5D+%5Bof%5D+%5BFaeries%5D)
+
+
+4
+[Delver of Secrets](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDelver%5D+%5Bof%5D+%5BSecrets%5D)
+
+
+4
+[Ninja of the Deep Hours](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNinja%5D+%5Bof%5D+%5Bthe%5D+%5BDeep%5D+%5BHours%5D)
+
+
+4
+[Spellstutter Sprite](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpellstutter%5D+%5BSprite%5D)
+
+
+4
+[Counterspell](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCounterspell%5D)
+
+
+2
+[Daze](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDaze%5D)
+
+
+1
+[Deprive](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeprive%5D)
+
+
+2
+[Gush](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGush%5D)
+
+
+1
+[Logic Knot](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLogic%5D+%5BKnot%5D)
+
+
+4
+[Ponder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPonder%5D)
+
+
+3
+[Preordain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPreordain%5D)
+
+
+3
+[Snap](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSnap%5D)
+
+
+2
+[Dispel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDispel%5D)
+
+
+2
+[Exclude](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExclude%5D)
+
+
+3
+[Hydroblast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHydroblast%5D)
+
+
+1
+[Nullify](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNullify%5D)
+
+
+
+##### Green (1)
+
+
+
+1
+[Mutagenic Growth](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMutagenic%5D+%5BGrowth%5D)
+
+
+
+##### Multi colored (5)
+
+
+
+2
+[Frostburn Weird](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFrostburn%5D+%5BWeird%5D)
+
+
+3
+[Curse of Chains](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCurse%5D+%5Bof%5D+%5BChains%5D)
+
+
+
+##### Colorless (25)
+
+
+
+16
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+4
+[Spire Golem](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpire%5D+%5BGolem%5D)
+
+
+1
+[Bonesplitter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBonesplitter%5D)
+
+
+1
+[Quicksand](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BQuicksand%5D)
+
+
+3
+[Serrated Arrows](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSerrated%5D+%5BArrows%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (18)
+
+
+
+4
+[Delver of Secrets](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDelver%5D+%5Bof%5D+%5BSecrets%5D)
+
+
+1
+[Bonesplitter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBonesplitter%5D)
+
+
+1
+[Mutagenic Growth](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMutagenic%5D+%5BGrowth%5D)
+
+
+4
+[Ponder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPonder%5D)
+
+
+3
+[Preordain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPreordain%5D)
+
+
+2
+[Dispel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDispel%5D)
+
+
+3
+[Hydroblast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHydroblast%5D)
+
+
+
+##### 2 (25)
+
+
+
+4
+[Cloud of Faeries](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCloud%5D+%5Bof%5D+%5BFaeries%5D)
+
+
+2
+[Frostburn Weird](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFrostburn%5D+%5BWeird%5D)
+
+
+4
+[Spellstutter Sprite](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpellstutter%5D+%5BSprite%5D)
+
+
+4
+[Counterspell](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCounterspell%5D)
+
+
+2
+[Daze](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDaze%5D)
+
+
+1
+[Deprive](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeprive%5D)
+
+
+1
+[Logic Knot](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLogic%5D+%5BKnot%5D)
+
+
+3
+[Snap](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSnap%5D)
+
+
+3
+[Curse of Chains](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCurse%5D+%5Bof%5D+%5BChains%5D)
+
+
+1
+[Nullify](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNullify%5D)
+
+
+
+##### 3 (2)
+
+
+
+2
+[Exclude](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExclude%5D)
+
+
+
+##### 4 (7)
+
+
+
+4
+[Ninja of the Deep Hours](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNinja%5D+%5Bof%5D+%5Bthe%5D+%5BDeep%5D+%5BHours%5D)
+
+
+3
+[Serrated Arrows](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSerrated%5D+%5BArrows%5D)
+
+
+
+##### 5 (2)
+
+
+
+2
+[Gush](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGush%5D)
+
+
+
+##### 6 (4)
+
+
+
+4
+[Spire Golem](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpire%5D+%5BGolem%5D)
+
+
+58 Cards 
+
+
+
+##### Common (53)
+
+
+
+16
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+2
+[Frostburn Weird](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFrostburn%5D+%5BWeird%5D)
+
+
+4
+[Ninja of the Deep Hours](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNinja%5D+%5Bof%5D+%5Bthe%5D+%5BDeep%5D+%5BHours%5D)
+
+
+4
+[Spire Golem](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpire%5D+%5BGolem%5D)
+
+
+1
+[Bonesplitter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBonesplitter%5D)
+
+
+2
+[Daze](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDaze%5D)
+
+
+1
+[Deprive](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeprive%5D)
+
+
+1
+[Logic Knot](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLogic%5D+%5BKnot%5D)
+
+
+4
+[Ponder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPonder%5D)
+
+
+3
+[Preordain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPreordain%5D)
+
+
+3
+[Snap](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSnap%5D)
+
+
+3
+[Curse of Chains](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCurse%5D+%5Bof%5D+%5BChains%5D)
+
+
+2
+[Dispel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDispel%5D)
+
+
+3
+[Hydroblast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHydroblast%5D)
+
+
+1
+[Nullify](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNullify%5D)
+
+
+3
+[Serrated Arrows](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSerrated%5D+%5BArrows%5D)
+
+
+
+##### Uncommon (18)
+
+
+
+4
+[Cloud of Faeries](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCloud%5D+%5Bof%5D+%5BFaeries%5D)
+
+
+4
+[Delver of Secrets](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDelver%5D+%5Bof%5D+%5BSecrets%5D)
+
+
+4
+[Counterspell](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCounterspell%5D)
+
+
+2
+[Gush](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGush%5D)
+
+
+1
+[Mutagenic Growth](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMutagenic%5D+%5BGrowth%5D)
+
+
+2
+[Exclude](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExclude%5D)
+
+
+1
+[Quicksand](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BQuicksand%5D)
+
+
+
+##### Rare (4)
+
+
+
+4
+[Spellstutter Sprite](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpellstutter%5D+%5BSprite%5D)
+
+
+75 Cards 
+
+
+
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Island)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### The\_zzz (4th Place)
+
+
+##### 
+ Pauper Event #7183520 on 06/09/2014
+
+
+
+
+
+
+![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
+![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Creature (13)
+
+
+
+4
+[Cloud of Faeries](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCloud%5D+%5Bof%5D+%5BFaeries%5D)
+
+
+2
+[Mnemonic Wall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMnemonic%5D+%5BWall%5D)
+
+
+4
+[Mulldrifter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMulldrifter%5D)
+
+
+3
+[Sea Gate Oracle](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSea%5D+%5BGate%5D+%5BOracle%5D)
+
+
+
+##### Sorcery (11)
+
+
+
+4
+[Compulsive Research](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCompulsive%5D+%5BResearch%5D)
+
+
+1
+[Deep Analysis](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeep%5D+%5BAnalysis%5D)
+
+
+4
+[Firebolt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFirebolt%5D)
+
+
+1
+[Foresee](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForesee%5D)
+
+
+1
+[Kaervek's Torch](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKaervek%5D+%5BTorch%5D)
+
+
+
+##### Instant (3)
+
+
+
+3
+[Ghostly Flicker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhostly%5D+%5BFlicker%5D)
+
+
+
+##### Artifact (12)
+
+
+
+4
+[Chromatic Star](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChromatic%5D+%5BStar%5D)
+
+
+4
+[Expedition Map](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExpedition%5D+%5BMap%5D)
+
+
+4
+[Prophetic Prism](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BProphetic%5D+%5BPrism%5D)
+
+
+
+##### Land (21)
+
+
+
+4
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+1
+[Izzet Boilerworks](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIzzet%5D+%5BBoilerworks%5D)
+
+
+2
+[Remote Isle](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRemote%5D+%5BIsle%5D)
+
+
+1
+[Shimmering Grotto](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShimmering%5D+%5BGrotto%5D)
+
+
+1
+[Simic Growth Chamber](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSimic%5D+%5BGrowth%5D+%5BChamber%5D)
+
+
+4
+[Urza's Mine](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BMine%5D)
+
+
+4
+[Urza's Power Plant](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BPower%5D+%5BPlant%5D)
+
+
+4
+[Urza's Tower](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BTower%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+2
+[Dispel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDispel%5D)
+
+
+3
+[Gorilla Shaman](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGorilla%5D+%5BShaman%5D)
+
+
+3
+[Hydroblast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHydroblast%5D)
+
+
+3
+[Moment's Peace](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMoment%5D+%5BPeace%5D)
+
+
+4
+[Pyroblast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroblast%5D)
+
+
+
+
+##### Blue (27)
+
+
+
+4
+[Cloud of Faeries](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCloud%5D+%5Bof%5D+%5BFaeries%5D)
+
+
+2
+[Mnemonic Wall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMnemonic%5D+%5BWall%5D)
+
+
+4
+[Mulldrifter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMulldrifter%5D)
+
+
+3
+[Sea Gate Oracle](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSea%5D+%5BGate%5D+%5BOracle%5D)
+
+
+4
+[Compulsive Research](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCompulsive%5D+%5BResearch%5D)
+
+
+1
+[Deep Analysis](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeep%5D+%5BAnalysis%5D)
+
+
+1
+[Foresee](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForesee%5D)
+
+
+3
+[Ghostly Flicker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhostly%5D+%5BFlicker%5D)
+
+
+2
+[Dispel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDispel%5D)
+
+
+3
+[Hydroblast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHydroblast%5D)
+
+
+
+##### Red (12)
+
+
+
+4
+[Firebolt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFirebolt%5D)
+
+
+1
+[Kaervek's Torch](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKaervek%5D+%5BTorch%5D)
+
+
+3
+[Gorilla Shaman](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGorilla%5D+%5BShaman%5D)
+
+
+4
+[Pyroblast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroblast%5D)
+
+
+
+##### Green (3)
+
+
+
+3
+[Moment's Peace](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMoment%5D+%5BPeace%5D)
+
+
+
+##### Colorless (33)
+
+
+
+4
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+1
+[Izzet Boilerworks](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIzzet%5D+%5BBoilerworks%5D)
+
+
+2
+[Remote Isle](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRemote%5D+%5BIsle%5D)
+
+
+1
+[Shimmering Grotto](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShimmering%5D+%5BGrotto%5D)
+
+
+1
+[Simic Growth Chamber](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSimic%5D+%5BGrowth%5D+%5BChamber%5D)
+
+
+4
+[Urza's Mine](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BMine%5D)
+
+
+4
+[Urza's Power Plant](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BPower%5D+%5BPlant%5D)
+
+
+4
+[Urza's Tower](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BTower%5D)
+
+
+4
+[Chromatic Star](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChromatic%5D+%5BStar%5D)
+
+
+4
+[Expedition Map](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExpedition%5D+%5BMap%5D)
+
+
+4
+[Prophetic Prism](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BProphetic%5D+%5BPrism%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (25)
+
+
+
+4
+[Chromatic Star](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChromatic%5D+%5BStar%5D)
+
+
+4
+[Expedition Map](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExpedition%5D+%5BMap%5D)
+
+
+4
+[Firebolt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFirebolt%5D)
+
+
+1
+[Kaervek's Torch](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKaervek%5D+%5BTorch%5D)
+
+
+2
+[Dispel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDispel%5D)
+
+
+3
+[Gorilla Shaman](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGorilla%5D+%5BShaman%5D)
+
+
+3
+[Hydroblast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHydroblast%5D)
+
+
+4
+[Pyroblast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroblast%5D)
+
+
+
+##### 2 (11)
+
+
+
+4
+[Cloud of Faeries](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCloud%5D+%5Bof%5D+%5BFaeries%5D)
+
+
+4
+[Prophetic Prism](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BProphetic%5D+%5BPrism%5D)
+
+
+3
+[Moment's Peace](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMoment%5D+%5BPeace%5D)
+
+
+
+##### 3 (10)
+
+
+
+3
+[Sea Gate Oracle](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSea%5D+%5BGate%5D+%5BOracle%5D)
+
+
+4
+[Compulsive Research](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCompulsive%5D+%5BResearch%5D)
+
+
+3
+[Ghostly Flicker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhostly%5D+%5BFlicker%5D)
+
+
+
+##### 4 (2)
+
+
+
+1
+[Deep Analysis](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeep%5D+%5BAnalysis%5D)
+
+
+1
+[Foresee](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForesee%5D)
+
+
+
+##### 5 (6)
+
+
+
+2
+[Mnemonic Wall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMnemonic%5D+%5BWall%5D)
+
+
+4
+[Mulldrifter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMulldrifter%5D)
+
+
+54 Cards 
+
+
+
+##### Common (49)
+
+
+
+4
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+2
+[Remote Isle](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRemote%5D+%5BIsle%5D)
+
+
+1
+[Shimmering Grotto](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShimmering%5D+%5BGrotto%5D)
+
+
+4
+[Urza's Mine](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BMine%5D)
+
+
+4
+[Urza's Power Plant](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BPower%5D+%5BPlant%5D)
+
+
+4
+[Urza's Tower](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BTower%5D)
+
+
+2
+[Mnemonic Wall](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMnemonic%5D+%5BWall%5D)
+
+
+3
+[Sea Gate Oracle](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSea%5D+%5BGate%5D+%5BOracle%5D)
+
+
+4
+[Chromatic Star](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChromatic%5D+%5BStar%5D)
+
+
+1
+[Deep Analysis](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeep%5D+%5BAnalysis%5D)
+
+
+1
+[Foresee](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForesee%5D)
+
+
+3
+[Ghostly Flicker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhostly%5D+%5BFlicker%5D)
+
+
+4
+[Prophetic Prism](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BProphetic%5D+%5BPrism%5D)
+
+
+2
+[Dispel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDispel%5D)
+
+
+3
+[Hydroblast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHydroblast%5D)
+
+
+3
+[Moment's Peace](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMoment%5D+%5BPeace%5D)
+
+
+4
+[Pyroblast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroblast%5D)
+
+
+
+##### Uncommon (22)
+
+
+
+1
+[Izzet Boilerworks](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIzzet%5D+%5BBoilerworks%5D)
+
+
+1
+[Simic Growth Chamber](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSimic%5D+%5BGrowth%5D+%5BChamber%5D)
+
+
+4
+[Cloud of Faeries](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCloud%5D+%5Bof%5D+%5BFaeries%5D)
+
+
+4
+[Mulldrifter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMulldrifter%5D)
+
+
+4
+[Expedition Map](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExpedition%5D+%5BMap%5D)
+
+
+4
+[Firebolt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFirebolt%5D)
+
+
+1
+[Kaervek's Torch](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKaervek%5D+%5BTorch%5D)
+
+
+3
+[Gorilla Shaman](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGorilla%5D+%5BShaman%5D)
+
+
+
+##### Rare (4)
+
+
+
+4
+[Compulsive Research](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCompulsive%5D+%5BResearch%5D)
+
+
+75 Cards 
+
+
+
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Island)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Standings
+---------
+
+
+
+
+| Rank | Name | Points | OMWP | GWP | OGWP |
+| --- | --- | --- | --- | --- | --- |
+| 1 | cruxd | 0 | 0.0000 | 0.0000 | 0.0000 |
+| 2 | moothecow | 0 | 0.0000 | 0.0000 | 0.0000 |
+| 3 | Bye\_ | 0 | 0.0000 | 0.0000 | 0.0000 |
+| 4 | The\_zzz | 0 | 0.0000 | 0.0000 | 0.0000 |
+
+
+
+
+
+
+

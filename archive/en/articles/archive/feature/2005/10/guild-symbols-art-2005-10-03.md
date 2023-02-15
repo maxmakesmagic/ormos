@@ -53,13 +53,13 @@ The guild symbols also show up, sometimes subtly, in the art of *Ravnica: City o
 ![Ravnica guild symbols](https://media.magic.wizards.com/image_legacy_migration/magic/images/mtgcom/arcana300/guildsymbols_Ravnica.jpg)
 
 
-[![Conclave Equenaut](https://web.archive.org/web/20121110173347im_/http://www.wizards.com/magic/images/mtgcom/arcana300/guildsymbols_ConclaveEquenaut.jpg)](http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Conclave%2BEquenaut)
+[![Conclave Equenaut](https://media.wizards.com/legacy/magic/images/mtgcom/arcana300/guildsymbols_conclaveequenaut.jpg)](http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Conclave%2BEquenaut)
 
 
-[![Mortipede](https://web.archive.org/web/20121110173345im_/http://www.wizards.com/magic/images/mtgcom/arcana300/guildsymbols_Mortipede.jpg)](http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Mortipede)
+[![Mortipede](https://media.wizards.com/legacy/magic/images/mtgcom/arcana300/guildsymbols_mortipede.jpg)](http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Mortipede)
 
 
-[![Wojek Embermage](https://web.archive.org/web/20121110173341im_/http://www.wizards.com/magic/images/mtgcom/arcana300/guildsymbols_WojekEmbermage.jpg)](http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Wojek%2BEmbermage)
+[![Wojek Embermage](https://media.wizards.com/legacy/magic/images/mtgcom/arcana300/guildsymbols_wojekembermage.jpg)](http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Wojek%2BEmbermage)
 
 
 

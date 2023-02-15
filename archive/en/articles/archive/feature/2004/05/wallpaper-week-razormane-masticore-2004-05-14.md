@@ -51,7 +51,7 @@ this needs to be commented in after 5DN prerelease
 
 
 
-![](https://web.archive.org/web/20150922150756im_/http://archive.wizards.com/global/images/mtgcom_arcana_565_pic1_en.jpg)[1280x960 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_RMasticore_1280x960.jpg)  
+![](https://media.wizards.com/legacy/global/images/mtgcom_arcana_565_pic1_en.jpg)[1280x960 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_RMasticore_1280x960.jpg)  
 [1024x768 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_RMasticore_1024x768.jpg)  
 [800x600 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_RMasticore_800x600.jpg)
 

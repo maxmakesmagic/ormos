@@ -1,0 +1,672 @@
+
+---
+[Link to Wayback Machine](https://web.archive.org/web/20211208233936/https://magic.wizards.com/en/articles/archive/event-coverage/round-4-standings-player-2000-01-01-20)
+
+[_metadata_:author]:- "Wizards of the Coast"
+[_metadata_:description]:- "RankPlayerPointsOp.Win%111Abed, Arasch 9 64,58259Aleksander, Hajnisz 6 75,00238Altrichter, Stefan 7 47,91 67András, Süveges 10 39,58151Ankudinov, Lev 9 56,25183Anton Santiago, Manuel 9 50,00556Anweiler, Stanislaw 3 41,66138Appel, René 9 58,33349Arabski, Krzysztof 6 54,16353Arcimovic, Martin 6 54,16231Attila, Gaspar 7 52,08247Bachmann, Andreas 7 43,75533Baierhofer, Horst 3"
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "809496"
+[_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
+[_metadata_:title]:- "Round 4 Standings (by Player)"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-08 23:39:36"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208233936id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-4-standings-player-2000-01-01-20"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/event-coverage/round-4-standings-player-2000-01-01-20"
+---
+
+
+Round 4 Standings (by Player)
+=============================
+
+
+
+ Posted in **Event Coverage**
+
+
+
+
+
+
+
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
+By Wizards of the Coast
+
+
+
+
+
+
+
+
+
+
+
+
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| **Rank** | **Player** | **Points** | **Op.Win%** |
+| 111 | Abed, Arasch |  9 |  64,58 |
+| 259 | Aleksander, Hajnisz |  6 |  75,00 |
+| 238 | Altrichter, Stefan |  7 |  47,91 |
+|  67 | András, Süveges |  10 |  39,58 |
+| 151 | Ankudinov, Lev |  9 |  56,25 |
+| 183 | Anton Santiago, Manuel |  9 |  50,00 |
+| 556 | Anweiler, Stanislaw |  3 |  41,66 |
+| 138 | Appel, René |  9 |  58,33 |
+| 349 | Arabski, Krzysztof |  6 |  54,16 |
+| 353 | Arcimovic, Martin |  6 |  54,16 |
+| 231 | Attila, Gaspar |  7 |  52,08 |
+| 247 | Bachmann, Andreas |  7 |  43,75 |
+| 533 | Baierhofer, Horst |  3 |  47,91 |
+| 410 | Balars, Vasady |  6 |  43,75 |
+| 251 | Balogh, Péter |  7 |  37,50 |
+| 548 | Barthold, Michael |  3 |  43,75 |
+| 127 | Baudys, Ondrej |  9 |  61,11 |
+| 366 | Bauer, Tomas |  6 |  52,77 |
+| 486 | Becvar, Pavel |  3 |  58,33 |
+| 497 | Bednar, Vojtech |  3 |  55,55 |
+| 547 | Bek, Tomas |  3 |  45,83 |
+| 522 | Beletskaya, Katerina |  3 |  50,00 |
+| 612 | Beliankin, Serguei |  0 |  41,66 |
+| 374 | Benda, Pavel |  6 |  52,08 |
+| 515 | Benda, Petr |  3 |  52,08 |
+| 485 | Bendl, Petr |  3 |  58,33 |
+| 439 | Berka, Martin |  4 |  52,08 |
+|  3 | Bero, Peter |  12 |  75,00 |
+| 519 | Blaha, Antonin |  3 |  52,08 |
+| 541 | Blazej, Tomas |  3 |  45,83 |
+| 106 | Blech, Reinhard |  9 |  64,58 |
+|  34 | Blery, Gilles |  12 |  61,11 |
+|  80 | Bliek, Justin |  9 |  83,33 |
+|  29 | Blumke, Alexandre |  12 |  62,50 |
+|  13 | Boeken, Noah |  12 |  75,00 |
+|  72 | Borek, Ales |  9 | 100.00 |
+| 294 | Bortevsky, Pavel |  6 |  62,50 |
+| 534 | Borys, Grzegorz |  3 |  47,91 |
+|  43 | Brackmann, Aaron |  12 |  58,33 |
+|  49 | Braun, Florian |  12 |  47,91 |
+|  20 | Breit, Bernhard |  12 |  68,75 |
+| 126 | Brenner, Günther |  9 |  62,50 |
+| 145 | Brodzak, Jan |  9 |  58,33 |
+| 523 | Broek, Jan |  3 |  50,00 |
+| 296 | Brucker, David |  6 |  61,11 |
+| 208 | Brüderl, Andreas |  9 |  41,66 |
+| 350 | Brzegowy, Adrian |  6 |  54,16 |
+| 493 | Bubak, Adam |  3 |  56,25 |
+| 406 | Bucková, Sona |  6 |  45,83 |
+| 314 | Budac, Martin |  6 |  60,41 |
+| 447 | Bugaenko, Igor |  4 |  50,00 |
+| 264 | Bujarek, Kamil |  6 |  70,83 |
+|  59 | Busch, Thorsten |  10 |  58,33 |
+| 239 | Bydzan, Valery |  7 |  47,91 |
+| 304 | Capek, Tomas |  6 |  60,41 |
+| 108 | Cech, Vit |  9 |  64,58 |
+| 192 | Cernahoshi, Alex |  9 |  47,91 |
+| 487 | Cernohous, Jan |  3 |  58,33 |
+| 403 | Cerny, Jiri |  6 |  47,91 |
+| 471 | Cerych, Ondrej |  3 |  64,58 |
+| 345 | Ceska, Pavel |  6 |  54,16 |
+| 302 | Cetl, Erwin |  6 |  61,11 |
+|  37 | Cetl, Philipp |  12 |  58,33 |
+| 244 | Cevela, Pavel |  7 |  45,83 |
+| 490 | Chavva’t, Pavel |  3 |  58,33 |
+| 214 | Cibej, Andrej |  7 |  64,58 |
+| 165 | Cieslikowski, Marcin |  9 |  52,08 |
+| 130 | Cikac, Tadej |  9 |  61,11 |
+| 586 | Ciprovska, Jana |  1 |  33,33 |
+| 220 | Ciprovsky, Tomas |  7 |  58,33 |
+| 277 | Ciszek, Adrian |  6 |  66,66 |
+| 423 | Civrny, Petr |  6 |  37,50 |
+| 226 | Coka, Petr |  7 |  54,16 |
+| 513 | Conka, Stefan |  3 |  52,08 |
+|  94 | Costea, Bogdan |  9 |  75,00 |
+| 576 | Czoch, Andra’s |  2 |  60,41 |
+| 604 | da Silva Crisovao, Ben |  0 |  47,91 |
+| 432 | Danek, Jiri |  4 |  64,58 |
+| 262 | Daniel, Dlouhý |  6 |  70,83 |
+| 588 | Danter, Gearoid |  0 |  75,00 |
+| 421 | David, Mecl |  6 |  37,50 |
+| 589 | Davidovic, Tomas |  0 |  58,33 |
+| 437 | Dedek, Michal |  4 |  56,25 |
+|  79 | Delere, André |  9 |  83,33 |
+| 512 | Depta, Bartlomiej |  3 |  52,08 |
+| 121 | Diaz-Matos, Andrew |  9 |  62,50 |
+| 253 | Dietze, Daniel |  7 |  37,50 |
+| 257 | Diezel, Michael |  6 |  81,25 |
+| 194 | Dio, Michal |  9 |  47,91 |
+| 135 | Doliwa, Marcin |  9 |  60,41 |
+| 299 | Dols, Roel |  6 |  61,11 |
+|  52 | Dolstra, Menno |  10 |  83,33 |
+| 436 | Douda, Ondrej |  4 |  56,25 |
+| 339 | Dra’pela, Pavel |  6 |  54,16 |
+| 147 | Drahokoupil, Michal |  9 |  58,33 |
+| 101 | Dubsky, Ivo |  9 |  68,75 |
+| 549 | Dubsky, Michael |  3 |  43,75 |
+|  44 | Durham, Michael |  12 |  58,33 |
+| 479 | Dvorak, Lukas |  3 |  60,41 |
+| 236 | Dvorak, Radoslav |  7 |  50,00 |
+| 517 | Ebel, Tomasz |  3 |  52,08 |
+| 452 | Eigner, Nikolaus |  4 |  47,91 |
+| 128 | Engleitner, Herbert |  9 |  61,11 |
+| 110 | Enzenhofer, Andreas |  9 |  64,58 |
+| 204 | Evzen, Boura |  9 |  41,66 |
+| 369 | Fajkus, Adam |  6 |  52,08 |
+| 453 | Feher, Daniel |  4 |  47,91 |
+| 365 | Filip, David |  6 |  54,16 |
+| 195 | Filip, Dvorák |  9 |  47,91 |
+| 538 | Findejs, Jan |  3 |  45,83 |
+|  12 | Firsov, Konstantin |  12 |  75,00 |
+| 461 | Fiser, Vít |  4 |  41,66 |
+| 246 | Flicker, Andreas |  7 |  43,75 |
+| 351 | Fostik, Pavel |  6 |  54,16 |
+| 416 | Francsics, Gabor |  6 |  41,66 |
+|  21 | Fries, Stefan |  12 |  66,66 |
+| 181 | Fritz, Ziga |  9 |  50,00 |
+| 305 | Frost, Holger |  6 |  60,41 |
+|  14 | Fuller, Ryan |  12 |  75,00 |
+|  90 | Gabor, Papp 1 |  9 |  75,00 |
+| 527 | Galusik, Marcin |  3 |  47,91 |
+| 287 | Gasparac, Lovro |  6 |  64,58 |
+| 232 | Gasparac, Luka |  7 |  52,08 |
+| 577 | Gazdik, Ivan |  2 |  50,00 |
+| 170 | Geiser, Michael |  9 |  52,08 |
+|  97 | Genders, Bart |  9 |  69,44 |
+| 464 | Gheorghiu, Vlad |  4 |  37,50 |
+| 202 | Gieron, Lukasz |  9 |  45,83 |
+| 558 | Gobel, Jindrich |  3 |  41,66 |
+| 258 | Goldbaum, Nils-Uwe |  6 |  75,00 |
+| 227 | Gorniak, Mariusz |  7 |  52,08 |
+| 265 | Graczek, Krzysztof |  6 |  70,83 |
+| 476 | Gregorczyk, Jakub |  3 |  62,50 |
+| 592 | Grim, Lubos |  0 |  55,55 |
+| 120 | Grimm, Martin |  9 |  62,50 |
+|  86 | Gromko, Radoslaw |  9 |  75,00 |
+| 167 | Grond, Sebastian |  9 |  52,08 |
+| 398 | Gruber, Tobias |  6 |  47,91 |
+| 100 | Gudic, Josip |  9 |  68,75 |
+| 102 | Gulyas, Daniel |  9 |  66,66 |
+| 376 | Güttner, Jan |  6 |  52,08 |
+| 380 | Hajdukiewicz, Pawel |  6 |  50,00 |
+| 372 | Hajek, Piotr |  6 |  52,08 |
+| 494 | Hajny, Petr |  3 |  56,25 |
+| 392 | Hanton, Oldrich |  6 |  47,91 |
+|  61 | Hapala, Michal |  10 |  56,25 |
+| 286 | Hauk, Peter |  6 |  64,58 |
+| 544 | Havel, Martin |  3 |  45,83 |
+| 401 | Heger, Vladislav |  6 |  47,91 |
+| 193 | Hegyi, Gabor |  9 |  47,91 |
+| 594 | Henel, Krzysztof |  0 |  52,08 |
+|  66 | Henel, Tomasz |  10 |  41,66 |
+| 465 | Hering, Peter |  4 |  33,33 |
+|  17 | Herold, Jim |  12 |  75,00 |
+| 199 | Heumann, Stefan |  9 |  45,83 |
+| 341 | Hirschmüller, Hans |  6 |  54,16 |
+| 484 | Hlavaty, David |  3 |  58,33 |
+| 518 | Hlavka, Petr |  3 |  52,08 |
+| 532 | Hoenle, Uli |  3 |  47,91 |
+| 554 | Hoffmann, Krzysztof |  3 |  41,66 |
+| 256 | Holland, Jan |  6 |  83,33 |
+|  65 | Holtz, Jens |  10 |  47,91 |
+|  47 | Hölzel, Reinhard |  12 |  56,25 |
+|  57 | Hölzl, Johannes |  10 |  62,50 |
+| 384 | Holzweiss, Ralf |  6 |  47,91 |
+| 590 | Honc, Ondrej |  0 |  58,33 |
+|  46 | Horak, Lukas |  12 |  58,33 |
+| 420 | Horak, Slavoj |  6 |  39,58 |
+| 133 | Horecki, Marcin Goral |  9 |  61,11 |
+| 261 | Horecki, Tomek Goral |  6 |  75,00 |
+| 582 | Horecky, Stepan |  1 |  37,50 |
+| 442 | Hortvik, Tomas |  4 |  52,08 |
+| 116 | Hothow, Dominik |  9 |  62,50 |
+| 561 | Hrazm, LukaOs |  3 |  41,66 |
+| 293 | Hrncar, Michal |  6 |  62,50 |
+| 356 | Hron, Michal |  6 |  54,16 |
+| 390 | Hrudka, Stanislav |  6 |  47,91 |
+| 537 | Hülle, Tomás |  3 |  45,83 |
+| 601 | Hussar, Jakub |  0 |  47,91 |
+| 363 | Ivanov, Pavel |  6 |  54,16 |
+| 587 | Ivcec, Ivan |  0 | 100.00 |
+| 530 | Jacek, Zinszczol |  3 |  47,91 |
+| 375 | Jacko, Robert |  6 |  52,08 |
+|  54 | Jaki, Thomas |  10 |  69,44 |
+| 431 | Jan, Bartos |  5 |  37,50 |
+| 540 | Jan, Benes |  3 |  45,83 |
+| 570 | Jan, Hlad |  3 |  37,50 |
+| 573 | Jan, Kazil |  3 |  37,50 |
+| 430 | Jan, Posta |  5 |  47,91 |
+| 499 | Jan, Schneider |  3 |  54,16 |
+| 237 | Jan, Sluka |  7 |  47,91 |
+| 596 | Jan, Vajsetl |  0 |  50,00 |
+| 568 | Jan, Zikes |  3 |  39,58 |
+| 381 | Janecek, Michal |  6 |  50,00 |
+| 429 | Jankowski, Szymon |  5 |  50,00 |
+| 400 | Janousek, Pavel |  6 |  47,91 |
+| 210 | Jansen, Patrick |  7 |  83,33 |
+| 521 | Janu, Petr |  3 |  50,00 |
+| 433 | Jarolim, Petr |  4 |  62,50 |
+|  50 | Jaroslav, Sita |  10 |  83,33 |
+| 605 | Jaroslavs, Ligos |  0 |  47,91 |
+| 323 | Jastrzebski, VicK |  6 |  58,33 |
+| 373 | Jedlicka, Niki |  6 |  52,08 |
+| 123 | Jedlicka, Stefan |  9 |  62,50 |
+| 309 | Jerabek, Petr |  6 |  60,41 |
+| 475 | Jindra, Jan |  3 |  62,50 |
+| 565 | Jirí, Chocholous |  3 |  41,66 |
+| 290 | Jirí, Sevcík |  6 |  64,58 |
+|  85 | Jöbstl, Markus |  9 |  75,00 |
+| 196 | Johan, Nilsson |  9 |  45,83 |
+| 385 | Jonsson, Robert |  6 |  47,91 |
+|  7 | Jorstedt, Mattias |  12 |  75,00 |
+| 580 | Josef, Melka |  1 |  43,75 |
+| 362 | Josek, Rostislav |  6 |  54,16 |
+| 559 | Joska, Tomas |  3 |  41,66 |
+| 357 | Jung, Pavel |  6 |  54,16 |
+| 320 | Jurkovic, Robert |  6 |  58,33 |
+| 399 | Kadavy, Petr |  6 |  47,91 |
+| 158 | Kajdas, Oskar |  9 |  54,16 |
+| 417 | Kalis, Martin |  6 |  41,66 |
+|  81 | Kalliomaki, Kalle |  9 |  83,33 |
+| 492 | Kamenz, Stefan |  3 |  58,33 |
+| 273 | Kaminek, Petr |  6 |  68,75 |
+| 235 | Kamkin, Filip |  7 |  50,00 |
+| 301 | Kaplan, Hannes |  6 |  61,11 |
+| 368 | Karabin, Marcel |  6 |  52,08 |
+| 460 | Karaszewski, Pawel |  4 |  41,66 |
+| 438 | Karbowski, Jaroslaw |  4 |  54,16 |
+| 275 | Karc, Robert |  6 |  66,66 |
+| 260 | Kardos, Marcell |  6 |  75,00 |
+| 161 | Karlsson, Mats |  9 |  54,16 |
+|  9 | Karlsson, Morgan |  12 |  75,00 |
+| 412 | Kärrman, Per |  6 |  43,75 |
+|  27 | Karsten, Frank |  12 |  62,50 |
+| 600 | Kemola, Konrad |  0 |  50,00 |
+| 606 | Keprt, David |  0 |  47,91 |
+|  11 | Kettil, Mattias |  12 |  75,00 |
+| 198 | Kiraly, Zsolt |  9 |  45,83 |
+| 187 | Klaudy, Jiri |  9 |  47,91 |
+|  68 | Klauser, Benedikt |  9 | 100.00 |
+| 516 | Klimecki, Adam |  3 |  52,08 |
+| 292 | Klimes, Tomas |  6 |  62,50 |
+|  95 | Klinda, Roderik |  9 |  70,83 |
+|  28 | Kockott, Kristian |  12 |  62,50 |
+| 608 | Kohout, Ondr\_j |  0 |  45,83 |
+| 427 | Kolvara, Ladislav |  5 |  54,16 |
+|  92 | Komanicky, Vladimir |  9 |  75,00 |
+| 240 | Konieczny, Piotr |  7 |  45,83 |
+| 455 | Korbel, Pavel |  4 |  45,83 |
+| 614 | Kordovan, Daniel |  0 |  37,50 |
+| 104 | Koretsky, Nik |  9 |  66,66 |
+| 329 | Kórósi, David |  6 |  58,33 |
+| 119 | Kos, Tomas 1 |  9 |  62,50 |
+| 386 | Kos, Tomás 2 |  6 |  47,91 |
+| 364 | KosaOk, Petr |  6 |  54,16 |
+|  53 | Kosicka, Tomás |  10 |  77,77 |
+| 109 | Kosik, Karol |  9 |  64,58 |
+| 186 | Kotas, Frantisek |  9 |  47,91 |
+| 371 | Kotesovec, Karel |  6 |  52,08 |
+| 543 | Kotrba, Pavel |  3 |  45,83 |
+| 444 | Koukal, Jifi |  4 |  52,08 |
+| 509 | Kovarik, Josef |  3 |  52,08 |
+| 525 | Kraft, Lukas |  3 |  48,14 |
+|  24 | Kraft, René |  12 |  66,66 |
+| 505 | Krejci, Radek |  3 |  52,08 |
+| 506 | Krejsa, Tomas |  3 |  52,08 |
+| 229 | Krejza, Marek |  7 |  52,08 |
+| 422 | Kritochuil, Ivo |  6 |  37,50 |
+| 591 | Krivanec, Ales |  0 |  55,55 |
+| 572 | Krizan, Petr |  3 |  37,50 |
+| 450 | Krizek, Tomas |  4 |  50,00 |
+| 478 | Krüger, Sebastian |  3 |  62,50 |
+| 142 | Krupicki, Krzysztof |  9 |  58,33 |
+| 153 | Kruschel, Andreas |  9 |  56,25 |
+| 164 | Kuben, Petr |  9 |  52,08 |
+| 282 | kubera, roman |  6 |  64,58 |
+| 564 | Kubicek, Martin |  3 |  41,66 |
+| 567 | Kucera, Michal |  3 |  39,58 |
+|  99 | Kumorek, Marcin |  9 |  68,75 |
+| 342 | Kunze, Martin |  6 |  54,16 |
+| 593 | Kurzymski, Norbert |  0 |  54,16 |
+| 255 | Ladra, Lukas |  6 |  83,33 |
+| 613 | Lahovsky, Petr |  0 |  41,66 |
+| 222 | Lambacher, Mario |  7 |  56,25 |
+|  70 | Lamper, Jan |  9 | 100.00 |
+|  89 | Lamr, Martin |  9 |  75,00 |
+|  91 | Lange, Holger |  9 |  75,00 |
+| 551 | Lauth, Sandra |  3 |  41,66 |
+|  41 | Laznovsky, Martin |  12 |  58,33 |
+|  30 | Leander, Erik |  12 |  62,50 |
+|  40 | Lee, Sok-Yong |  12 |  58,33 |
+| 185 | Lehmann, Jens |  9 |  47,91 |
+| 322 | Leichtfried, Peter |  6 |  58,33 |
+| 495 | Leitgeb, Vladimir |  3 |  56,25 |
+|  48 | Leonov, Max |  12 |  52,08 |
+| 536 | Leonowicz, Michal |  3 |  47,91 |
+| 148 | Leu, Roger |  9 |  58,33 |
+| 498 | Levy, Petr |  3 |  54,16 |
+| 266 | Lezovic, Stefan |  6 |  70,83 |
+| 474 | Libersky, Miroslav |  3 |  64,58 |
+| 178 | Lichniak, Marcin |  9 |  52,08 |
+| 514 | Lipinski, Aleksander |  3 |  52,08 |
+| 315 | Lipkowski, Pawel |  6 |  60,41 |
+|  69 | Lippert, Christoph |  9 | 100.00 |
+| 443 | Logger, Oscar |  4 |  52,08 |
+| 507 | Loos, Sebastian |  3 |  52,08 |
+| 358 | Lorkovic, Hrvoje |  6 |  54,16 |
+| 617 | Loschel, Christian |  0 |  33,33 |
+| 324 | Machala, Peter |  6 |  58,33 |
+|  98 | Maier, Gero |  9 |  69,44 |
+| 338 | Marak, Filip |  6 |  56,25 |
+| 404 | Marczak, Marcin |  6 |  47,91 |
+| 597 | Marek, Janca |  0 |  50,00 |
+| 578 | Marek, Jaroslav |  1 |  52,08 |
+|  83 | Marek, Libor |  9 |  75,00 |
+|  2 | Mariani, Rui |  12 |  75,00 |
+| 139 | Markin, Yuri |  9 |  58,33 |
+| 149 | Marko, Peter |  9 |  58,33 |
+| 321 | Marsik, Michal |  6 |  58,33 |
+| 150 | Martin, Kis |  9 |  58,33 |
+| 211 | Matousek, Pavel |  7 |  77,77 |
+| 327 | Mattes, Sven |  6 |  58,33 |
+| 263 | Matuszewski, Hubert |  6 |  70,83 |
+| 283 | Mazanec, Roman |  6 |  64,58 |
+| 131 | Mazierski, Igor |  9 |  61,11 |
+| 434 | Mazierski, Pawel |  4 |  58,33 |
+| 252 | Mazurova, Yulia |  7 |  37,50 |
+| 520 | Mechura, Jan |  3 |  50,00 |
+| 241 | Melzer, James |  7 |  45,83 |
+|  10 | Merten, David |  12 |  75,00 |
+| 616 | Meszaros, Gabor |  0 |  37,50 |
+| 182 | Meulders, Fried |  9 |  50,00 |
+| 491 | Meyer, Rudi |  3 |  58,33 |
+| 136 | Meyer, Stephan |  9 |  60,41 |
+| 489 | Michal, Solich |  3 |  58,33 |
+| 207 | Michali’k, Petr |  9 |  41,66 |
+| 328 | Mikes, Jan |  6 |  58,33 |
+| 602 | Mikulik, Tomas |  0 |  47,91 |
+| 129 | Miller, Martin |  9 |  61,11 |
+| 288 | Milota, Martin |  6 |  64,58 |
+| 189 | Milota, Tomas |  9 |  47,91 |
+| 488 | Miltenburg, Alexander |  3 |  58,33 |
+| 132 | Minton, Patrick |  9 |  61,11 |
+| 234 | Mokrusch, Kai |  7 |  50,00 |
+| 395 | Morarescu, Dan |  6 |  47,91 |
+| 581 | Mos, Michal |  1 |  43,75 |
+| 156 | Mossberg, Kenneth |  9 |  56,25 |
+| 313 | Moudry, Petr |  6 |  60,41 |
+| 377 | Mrakes, Michal |  6 |  52,08 |
+| 249 | Mrázek, Jirí |  7 |  39,58 |
+| 157 | Mrkva, Peter |  9 |  54,16 |
+|  58 | Mroz, Mateusz |  10 |  60,41 |
+|  55 | Müller, André |  10 |  69,44 |
+| 424 | Muller, Andreas |  6 |  37,50 |
+| 378 | Muniowski, Marcin |  6 |  52,08 |
+| 337 | Nagy, Zoltan |  6 |  56,25 |
+| 114 | Nagy, Zsolt |  9 |  64,58 |
+| 206 | Nahodil, Petr |  9 |  41,66 |
+| 408 | Németh, Tibor |  6 |  43,75 |
+|  64 | Nepozitek, Bohumir |  10 |  50,00 |
+| 441 | Netrefa, Jiri |  4 |  52,08 |
+| 171 | Neumaier, Michael |  9 |  52,08 |
+| 279 | Neumaier, Thomas |  6 |  66,66 |
+| 269 | Nguyen, Quang-Dong |  6 |  68,75 |
+| 388 | Nova’k, Radek |  6 |  47,91 |
+| 415 | NovaOk, Daniel |  6 |  41,66 |
+|  60 | Nunes, Gonçalo |  10 |  56,25 |
+|  74 | Nyvlt, Mirko |  9 | 100.00 |
+|  56 | Oberauer, Florian |  10 |  63,88 |
+| 502 | Olah, Patrik |  3 |  54,16 |
+| 205 | Oldrich, Hájek |  9 |  41,66 |
+| 105 | Omelyanyuk, Vladimir |  9 |  66,66 |
+| 177 | Ondrej, Bahník |  9 |  52,08 |
+| 248 | Oralek, Matej |  7 |  39,58 |
+|  15 | Österberg, Richard |  12 |  75,00 |
+| 267 | Ozsvald, Richard |  6 |  69,44 |
+| 144 | Packan, Tomas |  9 |  58,33 |
+| 334 | Padziunas, Pawel |  6 |  56,25 |
+| 289 | Papak, Tomas |  6 |  64,58 |
+| 117 | Papp, Gabor |  9 |  62,50 |
+| 595 | Pastucha, Martin |  0 |  52,08 |
+| 242 | Paszkiewicz, Jarek |  7 |  45,83 |
+| 414 | Pavlicek, Miroslav |  6 |  41,66 |
+| 483 | Pavlik, Ondrej |  3 |  58,33 |
+| 168 | Peca, Kamel |  9 |  52,08 |
+| 571 | Peconka, Petr |  3 |  37,50 |
+| 552 | Pekarek, Martin |  3 |  41,66 |
+| 243 | Pelech, Wojciech |  7 |  45,83 |
+| 425 | Penszko, Lukasz |  6 |  37,50 |
+| 272 | Perinka, Pavel |  6 |  68,75 |
+| 300 | Petersen, Jens |  6 |  61,11 |
+| 303 | Petit, Xavier |  6 |  61,11 |
+|  63 | Petrov, Alexander |  10 |  52,08 |
+| 159 | Petrov, Maxim |  9 |  54,16 |
+| 419 | Piatkowski, Lukasz |  6 |  41,66 |
+| 175 | Pikos, Tomasz |  9 |  52,08 |
+| 524 | Piotrowski, Krzysztof |  3 |  50,00 |
+| 316 | Pirisi, István |  6 |  60,41 |
+| 333 | Piroutek, Stanislav |  6 |  56,94 |
+|  32 | Pischner, Andreas |  12 |  62,50 |
+| 477 | Plachy, Robert |  3 |  62,50 |
+| 112 | Platzer, Lubos |  9 |  64,58 |
+| 599 | Plaumann, Rainer |  0 |  50,00 |
+| 233 | Pleskot, Vojtech |  7 |  52,08 |
+| 331 | Pobis, Jakub |  6 |  58,33 |
+| 611 | Podlana, Martin |  0 |  43,75 |
+| 359 | Pogoda, Adam |  6 |  54,16 |
+| 379 | Pokorny, Ondrej |  6 |  50,00 |
+| 458 | Polak, Martin |  4 |  43,75 |
+| 574 | Ponomarenko, Igor |  3 |  37,50 |
+| 382 | Popelka, Petr |  6 |  50,00 |
+| 218 | Posolda, Petr |  7 |  58,33 |
+| 348 | Poszichal, Lubomiz |  6 |  54,16 |
+| 598 | Premek, Prazsky |  0 |  50,00 |
+|  88 | Preyer, Thomas |  9 |  75,00 |
+| 297 | Prochazka, Milos |  6 |  61,11 |
+| 562 | Procházka, Tomás |  3 |  41,66 |
+| 113 | Prochazka, Tomas |  9 |  64,58 |
+| 459 | Prochazka, Vit |  4 |  43,75 |
+| 542 | Pudil, Richard |  3 |  45,83 |
+| 451 | Pulpan, Milan |  4 |  48,14 |
+| 445 | Radek, Syka |  4 |  52,08 |
+| 221 | Radslaw, Walczau |  7 |  58,33 |
+| 607 | Rajsl, Jakub |  0 |  47,91 |
+| 274 | Rakogon, Alexey |  6 |  68,75 |
+|  73 | Refsdal, Gunnar |  9 | 100.00 |
+|  77 | Reha, Rostislav |  9 | 100.00 |
+| 463 | Rehorek, Martin |  4 |  37,50 |
+| 184 | Reich, Philip |  9 |  50,00 |
+| 141 | Reinhardt, Fabio |  9 |  58,33 |
+| 367 | Reinstein, Michal |  6 |  52,08 |
+| 482 | Reiter, Dominik |  3 |  58,33 |
+| 391 | Reith, Matthias |  6 |  47,91 |
+| 407 | Rendl, Martin |  6 |  45,83 |
+| 230 | René, Hájek |  7 |  52,08 |
+| 503 | René, Korbicka |  3 |  52,08 |
+| 122 | Renko, Andrej |  9 |  62,50 |
+| 610 | Renko, Martin |  0 |  45,83 |
+| 224 | Rezek, Martin |  7 |  54,16 |
+| 325 | Reznikov, Dmitry |  6 |  58,33 |
+| 310 | Richard, Vojta |  6 |  60,41 |
+| 103 | Richter, Sebastian |  9 |  66,66 |
+| 332 | Richter, Stefan |  6 |  58,33 |
+| 319 | Riedl, Alexander |  6 |  58,33 |
+|  23 | Rimkus, Henning |  12 |  66,66 |
+| 470 | Robledo, Julian |  3 |  66,66 |
+| 553 | Rogowska, Dorota |  3 |  41,66 |
+| 557 | Roman, Pilísek |  3 |  41,66 |
+| 115 | Roubal, Zdenek |  9 |  64,58 |
+|  4 | Ruel, Antoine |  12 |  75,00 |
+|  8 | Ruel, Olivier |  12 |  75,00 |
+|  62 | Ruzizka, Ernst |  10 |  52,08 |
+| 268 | Rybalchenko, Andrey |  6 |  69,44 |
+| 336 | Rychtar, Ondrej |  6 |  56,25 |
+| 473 | Rys, Zdenek |  3 |  64,58 |
+|  87 | Sadeghpour, Johan |  9 |  75,00 |
+| 228 | Sagner, Andreas |  7 |  52,08 |
+| 270 | Salamon, Michal |  6 |  68,75 |
+| 276 | Samosvatov, Nick |  6 |  66,66 |
+| 312 | Sandner, Ian |  6 |  60,41 |
+| 203 | Sandorf, Jan |  9 |  44,44 |
+| 280 | Savchuk, Rostislav |  6 |  64,58 |
+| 155 | Savchuk, Yura |  9 |  56,25 |
+| 216 | Schenk, Michael |  7 |  60,41 |
+| 201 | Scheuchenstuhl, Martin |  9 |  45,83 |
+| 307 | Schinko, Georg |  6 |  60,41 |
+| 213 | Schlagin, Andreas |  7 |  70,83 |
+| 468 | Schlatter, Urs |  3 |  66,66 |
+|  76 | Schleif, Filip |  9 | 100.00 |
+| 295 | Schraut, Andreas |  6 |  61,11 |
+| 254 | Schurger, Oliver |  7 |  35,41 |
+| 152 | Sedenla, Jaroslav |  9 |  56,25 |
+| 124 | Setvin, Martin |  9 |  62,50 |
+| 340 | Shavlovskaya, Elena |  6 |  54,16 |
+| 318 | Shavlovsky, Dmitriy |  6 |  58,33 |
+| 449 | Shavlovsky, Vladimir |  4 |  50,00 |
+| 281 | Showers, Chris |  6 |  64,58 |
+| 511 | Sieber, Jan |  3 |  52,08 |
+| 191 | Sierocinski, Adam |  9 |  47,91 |
+| 200 | Sierocinski, Pawel |  9 |  45,83 |
+| 454 | Simersky, Anton'n |  4 |  46,52 |
+| 174 | Sistek, Martin |  9 |  52,08 |
+| 526 | Skalicky, Petr |  3 |  47,91 |
+| 428 | Skoba, Hynek |  5 |  50,00 |
+| 550 | Skoda, Jan |  3 |  41,66 |
+| 393 | Skrbec, Ziga |  6 |  47,91 |
+| 405 | Skultety, Roman |  6 |  45,83 |
+|  19 | Slemr, Jakub |  12 |  75,00 |
+| 585 | Slunecko, Ondrej |  1 |  33,33 |
+| 160 | Smajcl, Jan |  9 |  54,16 |
+| 344 | Smetana, Michal |  6 |  54,16 |
+| 223 | Smirnov, Alexey |  7 |  55,55 |
+| 212 | Smrek, Juraj |  7 |  70,83 |
+| 528 | Snajdr, Marek |  3 |  47,91 |
+|  51 | Snepvangers, Bram |  10 |  83,33 |
+| 361 | Snydr, Ondrej |  6 |  54,16 |
+| 360 | Sochor, Tomas |  6 |  54,16 |
+|  25 | Sohler, Christian |  12 |  64,58 |
+| 609 | Sosinski, Arkadiusz |  0 |  45,83 |
+| 387 | Spacek, Pavel |  6 |  47,91 |
+| 446 | Speransky, Konstantin |  4 |  50,00 |
+| 510 | Spritzey, Philipp |  3 |  52,08 |
+| 284 | Sprojcar, Jiri |  6 |  64,58 |
+| 125 | Stankovic, Erik |  9 |  62,50 |
+|  33 | Stanoev, Ivan |  12 |  62,50 |
+| 225 | Staufcik, Viteslav |  7 |  54,16 |
+| 566 | Stefan, Jan |  3 |  41,66 |
+|  26 | Steht, Lee |  12 |  62,50 |
+|  22 | Steinsdörfer, Daniel |  12 |  66,66 |
+| 343 | Steker, Pavel |  6 |  54,16 |
+| 352 | Stepán, Bahník |  6 |  54,16 |
+| 539 | Stetina, Josef |  3 |  45,83 |
+| 472 | Stezekal, Jindisch |  3 |  64,58 |
+| 215 | Stibinger, Ales |  7 |  60,41 |
+|  16 | Strakhov, Alexander |  12 |  75,00 |
+| 584 | Stranak, Martin |  1 |  33,33 |
+| 306 | Stranak, Rastislav |  6 |  60,41 |
+| 579 | Strilka, Martin |  1 |  45,83 |
+| 169 | Strubelj, Gregor |  9 |  52,08 |
+| 394 | Strzelecki, Adam |  6 |  47,91 |
+| 389 | Suda, David |  6 |  47,91 |
+|  96 | Suda, Jan |  9 |  70,83 |
+|  78 | Summersberger, Helmut |  9 |  87,50 |
+|  36 | Svoboda, Cenek |  12 |  58,33 |
+| 575 | Svoboda, Ladislav |  3 |  37,50 |
+| 409 | Swierk, Pawel |  6 |  43,75 |
+| 173 | Sykora, Martin |  9 |  52,08 |
+| 311 | Syrovatka, Tomas |  6 |  60,41 |
+| 146 | Szakos, Roland |  9 |  58,33 |
+| 435 | Szegho, Dalibor |  4 |  58,33 |
+| 583 | Szymkowiak, Anna |  1 |  37,50 |
+| 298 | Tan, Iwan |  6 |  61,11 |
+| 383 | Tatar, Stefan |  6 |  47,91 |
+|  84 | Tejnsky, Petr |  9 |  75,00 |
+| 466 | Tesselaar, Han |  3 | 100.00 |
+| 134 | Thille, Carl |  9 |  61,11 |
+|  6 | Thoren, Jens |  12 |  75,00 |
+| 413 | Tichy, Robert |  6 |  41,66 |
+| 271 | Tokoli, Zsolt |  6 |  68,75 |
+| 467 | Tomás, Skotnica |  3 |  68,75 |
+|  5 | Tomcani, Jan |  12 |  75,00 |
+| 396 | Tomecek, Tomás |  6 |  47,91 |
+| 190 | Tran, K.Teng |  9 |  47,91 |
+| 480 | Trapl, Tomas |  3 |  60,41 |
+| 346 | Trucza, István |  6 |  54,16 |
+| 555 | Tuma, Frantisek |  3 |  41,66 |
+| 118 | Turant, Marcin |  9 |  62,50 |
+| 107 | Twiefel, Torben |  9 |  64,58 |
+| 457 | Urbanec, Jan |  4 |  43,75 |
+|  93 | Ustokal, Petr |  9 |  75,00 |
+| 326 | Vajgl, Lukqs |  6 |  58,33 |
+|  75 | Van Cleave, Trey |  9 | 100.00 |
+| 217 | Van de Hanenberg, Frank |  7 |  58,33 |
+| 179 | van der Velden, Stan |  9 |  50,00 |
+| 508 | Vana, Miroslav |  3 |  52,08 |
+| 176 | Vanek, Ondrej |  9 |  52,08 |
+| 462 | Varak, Petr |  4 |  39,58 |
+| 188 | Vasic, Zeljko |  9 |  47,91 |
+| 166 | Vasicek, David |  9 |  52,08 |
+| 354 | Vasicek, Martin |  6 |  54,16 |
+| 154 | Vavra, Jan |  9 |  56,25 |
+|  71 | Vd Steenhoven, Rob |  9 | 100.00 |
+| 163 | Vesely, Josef |  9 |  52,08 |
+| 448 | Viseroiu, Radu |  4 |  50,00 |
+| 162 | Vitkovsky, Michal |  9 |  52,77 |
+| 560 | Vlasak, Michal |  3 |  41,66 |
+| 500 | Vlastimil, Musil |  3 |  54,16 |
+| 143 | Vodicka, Petr |  9 |  58,33 |
+| 456 | Vogl, Milan |  4 |  43,75 |
+| 317 | Vogler, Sebastian |  6 |  60,41 |
+| 535 | Vorovatov, Anton |  3 |  47,91 |
+| 501 | Vychodil, David |  3 |  54,16 |
+| 278 | Walter, Björn |  6 |  66,66 |
+| 469 | Wang, Long |  3 |  66,66 |
+| 180 | Warmenhoven, Ruud |  9 |  50,00 |
+| 308 | Wata, Mateusz |  6 |  60,41 |
+| 531 | Weber, Antonin |  3 |  47,91 |
+|  39 | Westra, Remco |  12 |  58,33 |
+| 137 | Wetzl, Roland |  9 |  58,33 |
+|  42 | Widuch, Piotr |  12 |  58,33 |
+| 291 | Wilk, Arkadiusz |  6 |  64,58 |
+| 603 | Wimmersberger, Andreas |  0 |  47,91 |
+|  18 | Winkelmann, Horst |  12 |  75,00 |
+| 245 | Winkelmann, Norbert |  7 |  43,75 |
+|  45 | Winter, Joost |  12 |  58,33 |
+|  82 | Witt, Alexander |  9 |  75,00 |
+| 481 | Wohlmuth, Andreas |  3 |  58,33 |
+| 347 | Wojciechowski, Dawid |  6 |  54,16 |
+| 504 | Wolowiec, Przemek |  3 |  52,08 |
+| 330 | Wong, Douglas |  6 |  58,33 |
+| 411 | Wysoczanski, Krzysztof |  6 |  43,75 |
+| 546 | Zajac, Daniel |  3 |  45,83 |
+| 355 | Zajitek, Martin |  6 |  54,16 |
+| 529 | Zak, Krzystof |  3 |  47,91 |
+| 496 | Zalejski, Michal |  3 |  55,55 |
+| 250 | Zamostny, Vaclav |  7 |  39,58 |
+| 335 | Zatlkaj, Matej |  6 |  56,25 |
+|  31 | Zawadzki, Konrad |  12 |  62,50 |
+| 545 | Zbynek, Berecka |  3 |  45,83 |
+| 370 | Zbynek, Jurik |  6 |  52,08 |
+| 569 | Zdenek, Hrdlicka |  3 |  39,58 |
+| 418 | Zdenek, Lysak |  6 |  41,66 |
+| 219 | Zdenek, Plachy |  7 |  58,33 |
+| 440 | Zdenek, Sury |  4 |  52,08 |
+| 209 | Zdobnicky, Martin |  8 |  52,08 |
+|  38 | Zemke, Mario |  12 |  58,33 |
+| 285 | Zgodzaj, Christoph |  6 |  64,58 |
+| 426 | Zhubrzhitsky, Victor |  6 |  37,50 |
+|  1 | Zidek, Arnost |  12 |  75,00 |
+| 397 | Zielinski, Lukasz |  6 |  47,91 |
+| 615 | Zika, Peter |  0 |  37,50 |
+|  35 | Zlotoiabko, Boris |  12 |  58,33 |
+| 172 | Zokbal, Frantisek |  9 |  52,08 |
+| 402 | Zoltán, Simon |  6 |  47,91 |
+| 563 | Zsolt, ValyiNagy |  3 |  41,66 |
+| 140 | Zupancic, Ladislav |  9 |  58,33 |
+| 197 | Zwettler, Andreas |  9 |  45,83 |
+
+
+
+
+
+
+

@@ -1,0 +1,129 @@
+
+---
+[Link to Wayback Machine](https://web.archive.org/web/20220521164104/https://magic.wizards.com/en/articles/archive/event-coverage/semifinals-gabor-papp-vs-stephan-meyer-2000-01-01)
+
+[_metadata_:author]:- "Mark Wraith"
+[_metadata_:description]:- "Gabor PappGame 1 Stephan goes first and Gabor has to mulligan a hand containing Bog Wreckage as it's only land. Stephan's hand only has Forests but he elects to keep it. Papp plays a Werebear which he attacks with on his third turn, before playing a Crypt Creeper. He misses his land drop at this point, giving the colour-hosed Meyer the chance to play a Springing Tiger on his"
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "743576"
+[_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
+[_metadata_:title]:- "Semifinals: Gabor Papp vs. Stephan Meyer"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-21 16:41:04"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521164104id_/https://magic.wizards.com/en/articles/archive/event-coverage/semifinals-gabor-papp-vs-stephan-meyer-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/event-coverage/semifinals-gabor-papp-vs-stephan-meyer-2000-01-01"
+---
+
+
+Semifinals: Gabor Papp vs. Stephan Meyer
+========================================
+
+
+
+ Posted in **Event Coverage**
+
+
+
+
+
+
+
+![](https://media.magic.wizards.com/styles/auth_small/public/generic-avatar-150_92.png)
+By Mark Wraith
+
+
+
+
+
+
+
+
+
+
+
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVIE01/864.jpg)*Gabor Papp*### Game 1
+
+
+Stephan goes first and Gabor has to mulligan a hand containing Bog Wreckage as it's only land. Stephan's hand only has Forests but he elects to keep it. Papp plays a Werebear which he attacks with on his third turn, before playing a Crypt Creeper. He misses his land drop at this point, giving the colour-hosed Meyer the chance to play a Springing Tiger on his fourth turn.
+
+
+Papp finds a third land and puts Squirrel Nest on his Forest. Even with only one colour of mana Stephan can play most of his hand, and he follows up with a Nantuko Disciple. At this point Gabor gets out the 'combo' in his deck, playing Braids, Cabal Minion, which goes quite well with the Nest.
+
+
+Meyer has to sacrifice a Forest, and he draws his first Mountain. The removal spell in his hand is Thermal Blast, which he doesn't have the mana to cast. He uses it to play a Minotaur Explorer instead. This caused him to discard the Blast, the only removal spell in his hand.
+
+
+All Gabor does is sacrifice a Squirrel token to the Minion and passes the turn. When Stephan attacks again, Papp uses a token and the Crypt Creeper to double-block the Springing Tiger, and then casts Sylvan Might when Meyer uses the Disciple. Meyer has a Muscle Burst to keep his Tiger alive though, and the Explorer gets through as well to put Gabor on nine. Even with his little combo Gabor is under serious pressure at this point, with two 3/3s and a Disciple for his opponent.
+
+
+Papp lapses into a long thought and the judge reminds him that even in the top eight one must still maintain a reasonable pace of play. Finally he decides to play a Krosan Archer, and passes the turn. Now Papp has to block with Braids, the Archer, and a Squirrel token just to kill a Springing Tiger. As Meyer played a Wild Mongrel as well here Papp's predicament was worsening.
+
+
+Once again Gabor thinks for a very long time, before sacrificing his Bog Wreckage - which gives the Werebear Threshold, and then casting Zombify to put Braids, Cabal Minion back into play. This time Meyer attacks with the Mongrel and the Explorer, and Gabor has to spend a long time deciding how to block. He double-blocks the Explorer with a Squirrel and the Werebear and the Mongrel with his Braids.
+
+
+Stephan uses the Disciple and discards a card to clear all of Gabor's blockers and keep his Mongrel alive. Gabor concedes next turn as he has no way of stopping the Mongrel. Papp might have put the Squirrel Nest on the wrong land since he had to keep tapping the Forest it enchanted for mana.
+
+
+Stephan Meyer 1 - Gabor Papp 0
+
+
+### Game 2
+
+
+Despite the supreme beatdown Meyer showed in game one, Gabor still allows him to go first, and it pays off as the German has to take a mulligan. His six-card hand seems to be fine though.
+
+
+The Mongrel gets busted out turn two again, and Gabor plays a Crypt Creeper. Mayer only has two lands but at least he draws a Diligent Farmhand for his third turn. The players trade blows and Gabor summons a Werebear.
+
+
+He then puts Seton's Desire on his Crypt Creeper and swings across for five, leaving Stephan on 13. Meyer's retaliation with the Wild Mongrel evens the score at 13 each. He casts Springing Tiger as a potential blocker, although it's not too likely he would risk a block while he was tapped out.
+
+
+Indeed he doesn't choose to block, instead going down to nine, and he attacks again. The Werebeart gets regenerated by Refresh as it blocks the Springing Tiger, and Meyer removes the Creeper with an Acceptable Losses. Papp now had enough cards in his graveyard to use Ghastly Demise on the Springing Tiger, and plays a second Werebear - he has five cards in his graveyard.
+
+
+Meyer attacks with the Mongrel, which Papp blocks with his Werebear and uses a Sylvan Might. Although Meyer keeps his Mongrel alive with Muscle Burst the two extra cards in Papp's graveyard give his second Werebear Threshold, attacks for four, cast Zombify on his second Werebear, and replays it. Faced with two 4/4 creatures Stephan has to concede, as he is only on five life and Papp can use the Flashback of the Sylvan Might.
+
+
+Gabor Papp 1 - Stephan Meyer 1
+
+
+### Game 3
+
+
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/GPVIE01/857.jpg)*Stephan Meyer*Of course Meyer wants to play first in game three, and he decides to keep a hand without Forests. He draws one before any real damage is done and puts Krosan Avenger into play on turn three.
+
+
+Papp's hand is full of more expensive cards and he has to both take three damage and watch Meyer summon a Springing Tiger before he is able to play a Dirty Wererat. This isn't really enough at this point, he can't block the creatures because of fears of a combat trick, and he goes down to eleven. After combat Stephan plays a Nantuko Disciple and a Diligent Farmhand.
+
+
+Faced with a huge amount of damage Gabor has little choice but to hold back the Wererat and he plays a Cartographer as well for another blocker. Stephan has a nasty surprise for him - he plays Dwarven Strike Force, discards a card to give it Haste and First Strike, and attacks with everything but the Nantuko Disciple.
+
+
+Gabor blocks the Avenger with his Wererat and the Farmhand on his Cartographer, killing the Avenger by playing Sylvan Might. The attack drops him down to four though, and he only has a Cartographer, while Meyer still has a Disciple, Tiger, and Strike Force.
+
+
+To prolong the game Gabor casts Zombify putting the Wererat back into play. He has to both chump-block with the Cartographer and discard a card to the Rat just to stay alive, and Meyer does nothing else. Now Gabor puts Squirrel Nest on one of his lands. He has to discard a card to regenerate the Wererat each time, and at that moment there were six cards in his graveyard. He plays a Werebear, making the situation interesting, as he would be able to regenerate the Rat after he blocks to make it and the Wererat bigger.
+
+
+Meyer only attacks with his Dwarven Strike Force. The Hungarian thinks for a little while before just blocking on a Nest token. Meyer has only land in hand so he does nothing else. Another turn passes in the same way and then Stephan plays a Lithatog, and attacks with everything on the turn after that. It takes Gabor at least five minutes to decide how to block ,and the judge reminds him again to play faster.
+
+
+Eventually he blocks Lithatog with Dirty Wererat, Springing Tiger with a Gravedigger, and Dwarven Strike Force with a token. This kills the latter two blockers, and he regenerates the Wererat once again.
+
+
+When Gabor uses Ghastly Demise on the Nantuko Disciple this puts seven cards in his graveyard so that the Dirty Wererat can no longer block, but there is a Sylvan Might in there that he can remove from the game.
+
+
+Meyer, of course, attacks all-out again, and Gabor uses the Might. This lets him kill Springing Tiger but he still can't deal with Lithatog, and after regenerating the Wererat he can no longer block with it in subsequent turns, and this ends the game as the Lithatog and Strike Force crash through.
+
+
+**Final Result:** Stephan Meyer 2 - Gabor Papp 1
+
+
+
+
+
+
+

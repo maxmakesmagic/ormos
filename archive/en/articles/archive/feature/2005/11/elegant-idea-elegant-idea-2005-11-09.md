@@ -51,7 +51,7 @@ Other elegant mechanics, submitted via You Make the Card and the **Magic** Invit
 For example, the *Ravnica* card [Spectral Searchlight](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spectral+Searchlight) is based on a mechanic sent in during [You Make the Card 2](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/feature/160).
 
 
-[![Spectral Searchlight](https://web.archive.org/web/20120908004332im_/http://www.wizards.com/magic/images/mtgcom/arcana300/searchlight.jpg)](http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Spectral%2BSearchlight)
+[![Spectral Searchlight](https://media.wizards.com/legacy/magic/images/mtgcom/arcana300/searchlight.jpg)](http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Spectral%2BSearchlight)
 
 
 Although the original submitted mechanic had the artifact tap to grant one *colorless* mana, the printed version grants one mana of the targeted player's choice. That way it can act either as a *Ravnica*-friendly mana fixer, a la [Darksteel Ingot](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Darksteel+Ingot), a flexible mana-granter for a teammate, a la the [Two-Headed-Giant](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/events/2hg)-friendly [Fertile Ground](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fertile+Ground), or a tricky way to "ping" your opponent for damage, a la [Granite Shard](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Granite+Shard) (or [Rod of Spanking](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rod+of+Spanking)). Nice mechanic!

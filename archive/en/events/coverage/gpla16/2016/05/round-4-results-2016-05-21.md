@@ -1,0 +1,1124 @@
+
+---
+[Link to Wayback Machine](https://web.archive.org/web/20170415131544/http://magic.wizards.com/en/events/coverage/gpla16/round-4-results-2016-05-21)
+
+[_metadata_:author]:- "Wizards of the Coast"
+[_metadata_:description]:- "Table&#13; Player&#13;  &#13; Result&#13;  &#13; Opponent&#13;  &#13; 1&#13; Carpenter, John&#13; [US]&#13; Lost 0-2&#13; vs.&#13; Boyd, Nathan&#13; [US]&#13; 2&#13; Matthews, Bo&#13; [US]&#13; Won 2-0&#13; vs.&#13; Wanlass, Brady&#13;"
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1023521"
+[_metadata_:publish_date]:- "2016-05-21"
+[_metadata_:source]:- "div-main-content"
+[_metadata_:title]:- "ROUND 4 RESULTS"
+[_metadata_:wayback_capture_timestamp]:- "2017-04-15 13:15:44"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170415131544id_/http://magic.wizards.com/en/events/coverage/gpla16/round-4-results-2016-05-21"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/events/coverage/gpla16/round-4-results-2016-05-21"
+---
+
+
+ROUND 4 RESULTS
+===============
+
+
+
+ Posted in **Event Coverage**
+ on May 21, 2016 
+
+
+
+
+
+
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
+By Wizards of the Coast
+
+
+
+
+
+
+
+
+
+
+
+
+
+| **Table** | **Player** |  | **Result** |  | **Opponent** |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | Carpenter, John | [US] | Lost 0-2 | vs. | Boyd, Nathan | [US] |
+| 2 | Matthews, Bo | [US] | Won 2-0 | vs. | Wanlass, Brady | [US] |
+| 3 | Wong, Alan | [US] | Won 2-1 | vs. | Putnam, Tyler | [US] |
+| 4 | Petersen, Andreas | [DE] | Won 2-0 | vs. | Lundquist, Ben | [US] |
+| 5 | Kerwitz, Eugene | [US] | Lost 1-2 | vs. | Cruz, Francis | [US] |
+| 6 | Kim, John | [US] | Won 2-0 | vs. | Jacobson, Mark | [US] |
+| 7 | Shackleford, Nickalos | [US] | Won 2-0 | vs. | (20) Saporito, Thiago | [BR] |
+| 8 | Hennessey, Evan | [US] | Won 2-1 | vs. | Moes, Brandon | [CA] |
+| 9 | Fung, Jeff | [US] | Won 2-0 | vs. | Rodriguez, Francisco | [US] |
+| 10 | Rand, Kevin | [US] | Lost 1-2 | vs. | Castro, Christian | [US] |
+| 11 | Cellona, Francis | [US] | Won 2-0 | vs. | Kho, Kamal | [US] |
+| 12 | Beckfield, Peter | [US] | Won 2-1 | vs. | Alter, Scott | [US] |
+| 13 | Wiitanen, Josh | [US] | Draw 1-1 | vs. | Lossett, Joe | [US] |
+| 14 | Burkhart, Corey | [US] | Lost 1-2 | vs. | Nonenmacher, Travis | [US] |
+| 15 | Samuels, Alexander | [US] | Lost 0-2 | vs. | Huang, Hao-Shan | [TW] |
+| 16 | Brooks, Dane | [US] | Won 2-1 | vs. | Smith, Randy | [US] |
+| 17 | Thuemler, Joseph | [US] | Lost 1-2 | vs. | Sim, Chapman | [SG] |
+| 18 | Mellem, David | [US] | Lost 0-2 | vs. | Dominguez, Javier | [ES] |
+| 19 | Arensburger, Alex | [US] | Lost 1-2 | vs. | Bale, Brandon | [US] |
+| 20 | Clark, Matthew | [US] | Won 2-1 | vs. | Wolff, Neil | [US] |
+| 21 | Peluso, Vincent | [US] | Lost 1-2 | vs. | Maynard, Pascal | [CA] |
+| 22 | Sullano, Andrew | [US] | Won 2-1 | vs. | Phillips, Joshua | [US] |
+| 23 | Martinez, Michael | [US] | Lost 0-2 | vs. | Wilson, Chase | [US] |
+| 24 | Littles, Charles | [US] | Won 2-1 | vs. | Poncelet, Kevin | [US] |
+| 25 | Medina, Emmanuel | [US] | Lost 0-2 | vs. | Wilkerson, Joseph | [US] |
+| 26 | Sperling, Matthew | [US] | Lost 1-2 | vs. | Xie, Tony | [US] |
+| 27 | Beardsley, Jake | [US] | Lost 1-2 | vs. | Delliskave, Nick | [US] |
+| 28 | Holiday, Nathan | [US] | Won 2-0 | vs. | McAtee, Brian | [US] |
+| 29 | Cheng, Zhuoxu | [CN] | Won 2-0 | vs. | Anadio, Joseph | [US] |
+| 30 | Phillips, Kevin | [US] | Lost 1-2 | vs. | Slutsky, Simon | [US] |
+| 31 | Salts, Matt | [US] | Lost 0-2 | vs. | To, Alex | [US] |
+| 32 | Cerone, Anthony | [US] | Lost 0-2 | vs. | Pappas, Lee | [US] |
+| 33 | Coleman, Victorious | [US] | Lost 0-2 | vs. | Ferber, Christopher | [US] |
+| 34 | Heller, Blake | [US] | Lost 0-2 | vs. | Dorf, Alan | [US] |
+| 35 | Barnhard, Aaron | [US] | Won 2-1 | vs. | Albar, Francis | [US] |
+| 36 | Gerhardt, Scott | [US] | Lost 0-2 | vs. | Laursen, Mike | [US] |
+| 37 | Tierney, Patrick | [US] | Won 2-0 | vs. | Hare, Ryan | [US] |
+| 38 | Wimpenny, Edward | [US] | Won 2-0 | vs. | Ivezaj, Mark | [US] |
+| 39 | Williams, Stephen | [US] | Lost 0-2 | vs. | (17) Strasky, Ondrej | [CZ] |
+| 40 | Suh, Steven | [US] | Won 2-0 | vs. | Grint, Richard | [XE] |
+| 41 | Macurda, Arthur | [US] | Won 2-0 | vs. | Cooper, Travis | [US] |
+| 42 | Phelps, John | [US] | Won 2-0 | vs. | Paguio, Thomas | [US] |
+| 43 | Poblacion, Miles | [US] | Won 2-1 | vs. | Tan, Richmond | [PH] |
+| 44 | Guzman, Eusebio | [US] | Lost 0-2 | vs. | Esparza, James | [US] |
+| 45 | Brown, Adam | [US] | Won 2-0 | vs. | Kestner, Steven | [US] |
+| 46 | Sumulong, Miguel | [US] | Won 2-1 | vs. | Cristos, Dustin | [US] |
+| 47 | Moore, Nathan | [US] | Lost 1-2 | vs. | Li, Jinlin | [CN] |
+| 48 | Franks, Steve | [US] | Won 2-0 | vs. | Remmer, Aaron | [US] |
+| 49 | Ward, Nathan | [US] | Won 2-1 | vs. | McMartin-Rosenquist, Lars Jay Robert | [SE] |
+| 50 | Sears, Isaac | [US] | Lost 1-2 | vs. | Miller, Adam | [US] |
+| 51 | Fileccia, Matthew | [US] | Lost 1-2 | vs. | Yoo, Eric | [US] |
+| 52 | Fiffles, Adam | [US] | Lost 1-2 | vs. | Ichikawa, Yuuki | [JP] |
+| 53 | Kreps, Oren | [US] | Lost 1-2 | vs. | Bach, Austin | [US] |
+| 54 | Wilmoth, Jonas | [US] | Won 2-0 | vs. | Wong, Gary | [US] |
+| 55 | Nelson, Evan | [US] | Won 2-0 | vs. | Janasiewicz, Jason | [US] |
+| 56 | Yaman, Robert | [US] | Won 2-0 | vs. | Newbom, Aaron | [US] |
+| 57 | Wu, Allen | [US] | Won 2-0 | vs. | Jianu, Michael | [US] |
+| 58 | Williams, Spencer | [US] | Lost 0-2 | vs. | Briggs, Samuel | [US] |
+| 59 | Liu, Richard | [US] | Won 2-1 | vs. | Pontius, Jacob | [US] |
+| 60 | Kincey, Lauphiette | [US] | Won 2-0 | vs. | Wilkins, Crossman | [US] |
+| 61 | Besterman, Daniel | [US] | Lost 1-2 | vs. | Casale, James | [US] |
+| 62 | Charland, Nicholas | [US] | Won 2-1 | vs. | Festini, Mark | [US] |
+| 63 | De La Torre, Bryan | [US] | Won 2-1 | vs. | Hopkins, Tyler | [US] |
+| 64 | Kuehnert, Paul | [US] | Won 2-0 | vs. | Yorihiro, Mak | [US] |
+| 65 | Aggarwal, Luke | [US] | Lost 1-2 | vs. | Estrella, Dominic | [US] |
+| 66 | Ochoa, David | [US] | Won 2-1 | vs. | Lamberson, Terry | [US] |
+| 67 | Perez, Robert | [US] | Won 2-1 | vs. | Chung, Mathew | [US] |
+| 68 | Ramirez, Alexander | [US] | Won 2-1 | vs. | Wilson, Jacob | [CA] |
+| 69 | Martell, Tom | [US] | Lost 1-2 | vs. | Drury, Dustin | [US] |
+| 70 | Espinoza, Daniel | [US] | Lost 1-2 | vs. | Herberholz, Mark | [US] |
+| 71 | Eakins, Loren | [US] | Lost 1-2 | vs. | Noorlander, Niels | [NL] |
+| 72 | Gil, Nick | [US] | Won 2-0 | vs. | Roa, Michael | [US] |
+| 73 | Landes, Jack | [US] | Lost 1-2 | vs. | Tang, Jeffrey | [US] |
+| 74 | Akiyama, Justin | [US] | Lost 1-2 | vs. | Rasmuson, Ian | [US] |
+| 75 | Phan, Tuan | [US] | Won 2-1 | vs. | Khan, Alec | [US] |
+| 76 | Eliot, Dominic | [US] | Won 2-1 | vs. | Peng, Jianjia | [CN] |
+| 77 | Greeson, Kevin | [US] | Won 2-1 | vs. | Barnett, Stephen | [CA] |
+| 78 | Egashira, Kenji | [US] | Won 2-0 | vs. | Romero, Michael | [US] |
+| 79 | Laverty, Jesse | [US] | Lost 0-2 | vs. | Turney, Christopher | [US] |
+| 80 | Hatchel, Tyler | [US] | Won 2-0 | vs. | Chamberlain, Ben | [US] |
+| 81 | Fields, Frank | [US] | Lost 1-2 | vs. | Davidson, Matthew | [US] |
+| 82 | Spradlin, Donald | [US] | Won 2-1 | vs. | Cooke, Adam | [US] |
+| 83 | Levin, Eugene | [US] | Lost 0-2 | vs. | (22) Tamada, Ryoichi | [JP] |
+| 84 | Chapin, Patrick | [US] | Won 2-0 | vs. | Chatfield, Lawrence | [US] |
+| 85 | Rivera, Timothy | [US] | Lost 0-2 | vs. | Pearce, Seth | [US] |
+| 86 | Hinderaker, Michael | [US] | Lost 1-2 | vs. | Lopez, Joshua | [US] |
+| 87 | Brunson, Dayman | [US] | Won 2-0 | vs. | Osborn, Sean | [US] |
+| 88 | Sellers, Michael | [US] | Won 2-0 | vs. | Eubank, Cory | [US] |
+| 89 | Post, Evan | [US] | Won 2-1 | vs. | Nakamura, Shuhei | [US] |
+| 90 | Barlog, David | [US] | Lost 0-2 | vs. | Hwa, Ti Yung | [US] |
+| 91 | Prince, Nicholas | [US] | Draw 1-1 | vs. | Goldsmith, Chris | [US] |
+| 92 | Martinez, Anthony | [US] | Won 2-0 | vs. | Hansen, Garrett | [US] |
+| 93 | Mandelblatt, Zach | [US] | Won 2-1 | vs. | Weil, Alan | [US] |
+| 94 | Gibbons, Aaron | [US] | Lost 0-2 | vs. | Trafecanty, Matt | [US] |
+| 95 | Waxer, Nathan | [US] | Won 2-0 | vs. | Beltran, Matthew | [US] |
+| 96 | Koo, Eugene | [US] | Won 2-1 | vs. | Perez, Gaston | [US] |
+| 97 | Donati, Chris | [US] | Won 2-1 | vs. | (3) Rubin, Steve | [US] |
+| 98 | He, Yang | [US] | Lost 1-2 | vs. | Crawford, Matthew | [US] |
+| 99 | Nguyen, James | [US] | Won 2-1 | vs. | Pan, Phimus | [US] |
+| 100 | Thibeau, Markus | [CA] | Lost 0-2 | vs. | Nix, Robert | [US] |
+| 101 | Belmontez, Luis | [US] | Lost 1-2 | vs. | Crow, Ian | [US] |
+| 102 | Fillinger, Brett | [US] | Won 2-0 | vs. | Taylor, Daynin | [US] |
+| 103 | Russell, Travis | [US] | Won 2-1 | vs. | Sorensen, Matt | [US] |
+| 104 | Brouillet, Daniel | [US] | Lost 0-2 | vs. | Madruga, Daniel | [US] |
+| 105 | Bonabian, Keegan | [US] | Draw 1-1 | vs. | Hampton, Jesse | [US] |
+| 106 | Tien, Quang | [US] | Won 2-1 | vs. | Kendall, Zachary | [US] |
+| 107 | Thompson, Bradley | [US] | Won 2-1 | vs. | Gainer, Matt | [US] |
+| 108 | Vega, Brian | [US] | Lost 1-2 | vs. | Yam, Wing Chun | [HK] |
+| 109 | Pardee, Samuel | [US] | Won 2-1 | vs. | Edel, Willy | [US] |
+| 110 | Stout, Casey | [US] | Lost 1-2 | vs. | Iaali, Chris | [US] |
+| 111 | Burch, Jacob | [US] | Lost 0-2 | vs. | Soma, Nishant | [US] |
+| 112 | Bott, Jonathan | [US] | Lost 1-2 | vs. | Adams, Laurence | [US] |
+| 113 | Irwin, Sean | [US] | Won 2-1 | vs. | Klainman, Ophir | [US] |
+| 114 | Phillips, Steven | [US] | Won 2-1 | vs. | Tafoya, Michael | [US] |
+| 115 | Connor, Laura | [US] | Won 2-0 | vs. | Wong, Brian | [US] |
+| 116 | Vanderhoof, Brent | [US] | Won 2-1 | vs. | Skippen, Will | [CA] |
+| 117 | Fearon, Tim | [US] | Lost 1-2 | vs. | Lingelbach, Cody | [US] |
+| 118 | Kotow, Todd | [US] | Lost 0-2 | vs. | Maglunog, Raymond | [US] |
+| 119 | Alberg, Robin | [US] | Lost 1-2 | vs. | Righettini, David | [US] |
+| 120 | Zafiropoulos, Alexander | [US] | Lost 1-2 | vs. | Tao, Jiachen | [US] |
+| 121 | Martinez, Phillip | [US] | Lost 1-2 | vs. | Lee, Valerian | [US] |
+| 122 | Raugstad, Oddvar | [NO] | Lost 0-2 | vs. | Atwater, Jaeden | [US] |
+| 123 | Rasmussen, Brad | [US] | Lost 0-2 | vs. | Nokes, Joseph | [US] |
+| 124 | Miller, Kyle | [US] | Won 2-0 | vs. | Saitou, Ryuuga | [US] |
+| 125 | Benavides, Armando | [US] | Lost 1-2 | vs. | Nass, Matthew | [US] |
+| 126 | Jensen, William | [US] | Lost 0-2 | vs. | Roldan, Danny | [US] |
+| 127 | Ramirez, Enrique | [US] | Lost 1-2 | vs. | Clark, Tyler | [US] |
+| 128 | Wiper, Charles | [US] | Won 2-1 | vs. | Grimes, Sean | [US] |
+| 129 | Frady, Keane | [US] | Won 2-0 | vs. | Lopez Ortega, Juan Manuel | [MX] |
+| 130 | DePiazza, Michael | [US] | Won 2-0 | vs. | Reibman, Calvin | [US] |
+| 131 | Cotera, Steven | [US] | Lost 1-2 | vs. | Severson, Eric | [US] |
+| 132 | Eng, Edward | [US] | Lost 1-2 | vs. | Murch, Andrew | [US] |
+| 133 | Weitz, Benjamin | [US] | Lost 1-2 | vs. | Ferry, Sergio | [CA] |
+| 134 | Neal, Chris | [US] | Won 2-0 | vs. | Tirado, Julio | [US] |
+| 135 | Oakes, Connor | [US] | Won 2-0 | vs. | Young, Benjamin | [US] |
+| 136 | Clark, Daniel | [US] | Won 2-1 | vs. | Young, Andrew | [US] |
+| 137 | Flannery, Shane | [US] | Won 2-0 | vs. | Aguilar, Fernando | [US] |
+| 138 | Mayes, Logan | [US] | Won 2-1 | vs. | Silva, Jay | [US] |
+| 139 | Armstrong, Sean | [US] | Won 2-0 | vs. | Rodriguez, Rafael | [MX] |
+| 140 | Tabrizi, Shawn | [US] | Won 2-0 | vs. | Magdaleno, Joseph | [US] |
+| 141 | Lopez, Estevan | [US] | Won 2-0 | vs. | Kim, Austin | [US] |
+| 142 | Cuevas, Alex | [US] | Won 2-0 | vs. | Purpura, Gregory | [US] |
+| 143 | Morphis, James | [US] | Won 2-0 | vs. | Lafleur, Thayer | [US] |
+| 144 | Kalbus, Wes | [US] | Lost 0-2 | vs. | Bonacini, Michael | [US] |
+| 145 | Fox, Adam | [US] | Won 2-0 | vs. | Hernandez, Manuel | [US] |
+| 146 | Manansala, Bayani | [US] | Won 2-1 | vs. | Roberts, Kurtis | [US] |
+| 147 | Tomomizu, Takuya | [JP] | Won 2-1 | vs. | Botis, Juan Carlos | [MX] |
+| 148 | Parise, Brett | [US] | Won 2-0 | vs. | Loke, Samuel | [US] |
+| 149 | Li, Charley | [US] | Won 2-0 | vs. | Farley, Patrick | [US] |
+| 150 | Carranza, Jaime | [US] | Won 2-0 | vs. | Martinez Cruz, Samuel Humberto | [MX] |
+| 151 | Dorsey, Nathan | [US] | Won 2-1 | vs. | O'Reilly-Hahn, Cassady | [US] |
+| 152 | Pugh, Kyle | [US] | Won 2-0 | vs. | Cortez, Prince | [US] |
+| 153 | Levinson, Jamie | [US] | Won 2-0 | vs. | Fischer, Brandon | [US] |
+| 154 | Krantz, Benjamin | [US] | Won 1-0 | vs. | Alison, Peter | [US] |
+| 155 | Sellers, Josh | [US] | Lost 1-2 | vs. | Ogami, Kenneth | [US] |
+| 156 | Pina-Lira, Esteban | [US] | Lost 1-2 | vs. | Miller, Sean | [US] |
+| 157 | Salvador, Guillem | [ES] | Lost 1-2 | vs. | Schlom, Christoph | [US] |
+| 158 | Slaven, Russell | [US] | Lost 1-2 | vs. | Yam, Philip | [US] |
+| 159 | Aguilera, Ryder | [US] | Lost 1-2 | vs. | Johnson, Blaine | [US] |
+| 160 | Ramos, Michael | [US] | Won 2-1 | vs. | Keffer, Jason | [US] |
+| 161 | Kemp, Taylor | [US] | Lost 1-2 | vs. | Mahler, Chris | [US] |
+| 162 | Lincoln, Zachary | [US] | Won 2-1 | vs. | Stittsworth, Dylan | [US] |
+| 163 | Conn, Alex | [US] | Lost 1-2 | vs. | Cua, Paolo | [US] |
+| 164 | Gu, Xin | [US] | Lost 1-2 | vs. | Hiteshew, Nicholas | [US] |
+| 165 | Ellis, Jarrod | [US] | Won 2-1 | vs. | Bruggman, Beaux | [US] |
+| 166 | Winkelpleck, Chad | [US] | Won 2-1 | vs. | Brown, Alex | [US] |
+| 167 | Stafford, Matthew | [US] | Lost 0-2 | vs. | Kim, Jeremy | [US] |
+| 168 | Ong, Wendell | [US] | Won 2-0 | vs. | Staley, Derek | [US] |
+| 169 | Garcia, Roy | [US] | Lost 0-2 | vs. | Davila, Gilbert | [US] |
+| 170 | Smith, Trevor | [US] | Won 2-0 | vs. | Lindsay, Andrew | [US] |
+| 171 | Schlesinger, Gal | [US] | Won 2-0 | vs. | Kong, Peter | [US] |
+| 172 | Solis, Carlos | [US] | Lost 1-2 | vs. | Goetschel, Daniel | [US] |
+| 173 | Goslar, Matthew | [US] | Won 2-0 | vs. | Sampson, Joshua | [US] |
+| 174 | Ahmad, Camran | [US] | Won 2-0 | vs. | Baker, Nathan | [US] |
+| 175 | Simon, Michael | [US] | Won 2-0 | vs. | Kerwitz, Dominich | [US] |
+| 176 | Jacob, Conor | [US] | Lost 0-2 | vs. | Aoki, Chikara | [JP] |
+| 177 | Olvera, Bryan | [US] | Lost 0-2 | vs. | Kikes, Sam | [US] |
+| 178 | Smith, Nathaniel | [US] | Lost 0-1 | vs. | Rodrigues, Thiago | [FR] |
+| 179 | Escobar, Alfonzo | [US] | Won 2-0 | vs. | Jen, Ivan | [US] |
+| 180 | Nguyen, Minh | [US] | Lost 0-2 | vs. | Guiang, Mark | [US] |
+| 181 | Blood, Zane | [US] | Lost 1-2 | vs. | McClain, Josh | [US] |
+| 182 | Donelson, Erik | [US] | Won 2-0 | vs. | Johns, Ethan | [US] |
+| 183 | Ma, Yousi | [US] | Lost 0-2 | vs. | Berríos, Adolfo | [PA] |
+| 184 | Romero, Kelly | [US] | Lost 1-2 | vs. | Ng, Carey | [US] |
+| 185 | Ha, Raymond | [US] | Won 2-1 | vs. | Clark, Austin | [US] |
+| 186 | Froehlich, Eric | [US] | Lost 0-2 | vs. | Burns, Richard | [US] |
+| 187 | Cheon, Paul | [US] | Lost 1-2 | vs. | Vancini, Maurice | [US] |
+| 188 | Wiznitzer, Aryeh | [US] | Lost 0-2 | vs. | Black, Joe | [US] |
+| 189 | Guimaraes, Victor | [US] | Lost 0-2 | vs. | Daniel, Johnny | [US] |
+| 190 | Scott, Alex | [US] | Won 2-0 | vs. | Gardner, Josh | [US] |
+| 191 | Pearson, Eric | [US] | Lost 0-2 | vs. | Vasudevan, Kaushik | [US] |
+| 192 | Robinson, Brayden | [US] | Won 2-0 | vs. | Brito, Devon | [US] |
+| 193 | Jones, Anders | [US] | Won 2-0 | vs. | Schmalzel, Brock | [US] |
+| 194 | Arcuni, Philip | [US] | Lost 1-2 | vs. | Tabaldo, Brandon | [US] |
+| 195 | Engle, Woodrow | [US] | Won 2-0 | vs. | Uyehara, Kelsey | [US] |
+| 196 | Bennison, Andrew | [US] | Lost 0-2 | vs. | Sittner, Alex | [US] |
+| 197 | Iwamoto, Ryan | [US] | Won 2-0 | vs. | Klemic, Michael | [US] |
+| 198 | Freeman, Zackery | [US] | Won 2-0 | vs. | Neal, Richard | [US] |
+| 199 | Shipley, Harry | [US] | Won 2-0 | vs. | Ip, Chun Hang | [US] |
+| 200 | Nunez, Leonardo | [US] | Won 2-1 | vs. | Elsik, Zac | [US] |
+| 201 | Yuen, William | [US] | Won 2-0 | vs. | Christensen, Drew | [CA] |
+| 202 | Wong, Daniel | [US] | Lost 0-2 | vs. | Keeth, Christian | [US] |
+| 203 | Carson, Erik | [US] | Won 2-1 | vs. | Reed, Sam | [US] |
+| 204 | Gonzalez, Jaime | [US] | Lost 0-2 | vs. | Mitchell, Michael | [US] |
+| 205 | Montoya, Thomas | [US] | Lost 0-2 | vs. | Rolan, Matthew | [US] |
+| 206 | Hunter, Sean | [CA] | Won 2-1 | vs. | Saiz Jr, Gilbert | [US] |
+| 207 | Thompson, Gage | [US] | Won 2-1 | vs. | Hildebrandt, Will | [US] |
+| 208 | Kamo, Riki | [JP] | Won 2-0 | vs. | Bernardes, Nick | [US] |
+| 209 | Inoue, Toru | [JP] | Draw 1-1 | vs. | Lee, Nicholas | [US] |
+| 210 | Bucher, Erich | [US] | Lost 0-2 | vs. | Sacher, Aj | [US] |
+| 211 | Stark, Ben | [US] | Won 2-0 | vs. | Flaczinski, Jake | [US] |
+| 212 | Molina, Cody | [US] | Lost 1-2 | vs. | Logsdon, Jim | [US] |
+| 213 | Brown, Grant | [US] | Lost 0-2 | vs. | (2) Turtenwald, Owen | [US] |
+| 214 | Doberne, David | [US] | Won 2-1 | vs. | Barajas, Ricardo | [US] |
+| 215 | Cooper, Russell | [US] | Lost 1-2 | vs. | Saito, Tomoharu | [JP] |
+| 216 | Cortez, Sal | [US] | Won 2-1 | vs. | Peters, Stephen | [US] |
+| 217 | Farenzena, Alisa | [IT] | Won 2-0 | vs. | Beley, Jeffrey | [US] |
+| 218 | Calcano, Christian | [US] | Lost 1-2 | vs. | Laughlin, Pierson | [US] |
+| 219 | Dietrich, Jonathan | [US] | Won 2-1 | vs. | Smith, Ulysses | [US] |
+| 220 | Haro, Alejandro | [US] | Lost 0-2 | vs. | Son, Steven | [US] |
+| 221 | (7) Rietzl, Paul | [US] | Lost 0-2 | vs. | Hwang, Eugene | [US] |
+| 222 | Falk, Coleman | [US] | Lost 1-2 | vs. | (13) Hayne, Alexander | [CA] |
+| 223 | Cortez, Salvador | [US] | Lost 0-2 | vs. | Riecken, Steven | [CA] |
+| 224 | Ma, Kouming | [US] | Lost 1-2 | vs. | Freeman, Marcelino | [MX] |
+| 225 | Simms, Jason | [US] | Won 2-0 | vs. | Redfern, Benjamin | [CA] |
+| 226 | Adams, Evan | [US] | Won 2-0 | vs. | Clark, Gregory | [US] |
+| 227 | Kanegawa, Toshiya | [JP] | Won 2-1 | vs. | Brown, Ethan | [US] |
+| 228 | Boday, Steven | [US] | Lost 1-2 | vs. | Bui, Alex | [US] |
+| 229 | Nguyen, Dylan | [US] | Won 2-1 | vs. | Belisle, Mitchell | [US] |
+| 230 | Nunes Jr, Greg | [US] | Won 2-1 | vs. | Mahaffey, Robert | [US] |
+| 231 | Baeckstrom, Andrew | [US] | Won 2-0 | vs. | Kastner, Dj | [US] |
+| 232 | Bolding, Hunter | [US] | Lost 1-2 | vs. | Hein, Christopher | [US] |
+| 233 | Saunders, Peter | [US] | Lost 0-2 | vs. | Cummings, Ricky | [US] |
+| 234 | O'Neill, Chris | [US] | Won 2-1 | vs. | Fernandes, Edward | [US] |
+| 235 | Baker, Grayden | [US] | Lost 0-2 | vs. | Caudill, Eddie | [US] |
+| 236 | Davila, David | [US] | Won 2-1 | vs. | DiMaggio, Matt | [US] |
+| 237 | Lewis, Michael | [US] | Lost 0-2 | vs. | Wijaya, Vidianto | [US] |
+| 238 | Berozofsky, Seth | [US] | Won 2-1 | vs. | Moon, Kevin | [US] |
+| 239 | Rodriguez, Michael | [US] | Lost 0-2 | vs. | Nagro, Jacob | [US] |
+| 240 | Cabanero, Erik | [US] | Won 2-0 | vs. | Chernov, Eugene | [US] |
+| 241 | Zambrano, Enrique | [US] | Won 2-0 | vs. | Lee, Michelle | [CA] |
+| 242 | Boggemes, Kyle | [US] | Lost 0-2 | vs. | Brown, Andrew | [US] |
+| 243 | (10) Yasooka, Shota | [JP] | Won 2-0 | vs. | Chapman, Peter | [US] |
+| 244 | Herold, Jim | [US] | Won 2-1 | vs. | Baker, Brandon | [US] |
+| 245 | Salveson, Eric G | [US] | Lost 1-2 | vs. | Whaley, Jerry | [US] |
+| 246 | Gilbert, Samuel | [US] | Lost 0-2 | vs. | Higbee, Wesley | [US] |
+| 247 | Nghiem, Keane | [US] | Won 2-0 | vs. | Chan, Norman | [US] |
+| 248 | Drake, Darryl | [US] | Won 2-1 | vs. | Loveman, Eli | [US] |
+| 249 | Gordon, Ray | [US] | Won 2-1 | vs. | Singh, Navdeep | [US] |
+| 250 | Brumby, Gene | [US] | Won 2-1 | vs. | Bugarin, William | [US] |
+| 251 | Taran, Nicole | [US] | Won 2-0 | vs. | Cook, Cy | [US] |
+| 252 | Cozzoli, Kevin | [US] | Lost 1-2 | vs. | Fromme, Christoph | [US] |
+| 253 | Lopez, Carlos | [US] | Won 2-0 | vs. | Lopez, Damien | [US] |
+| 254 | Monge, Jose | [US] | Won 1-0 | vs. | Iiams, Brandon | [US] |
+| 255 | Maleky, Nima | [US] | Lost 0-2 | vs. | Abong, Jeffrey | [US] |
+| 256 | Castro Saa, Eduardo | [CL] | Won 2-0 | vs. | Leon Jr, Luciano | [US] |
+| 257 | Seo, Duk | [US] | Draw 1-1 | vs. | Bustos, Miguel | [US] |
+| 258 | Liu, Su | [US] | Lost 0-2 | vs. | Mei, Michael | [US] |
+| 259 | Garraffa, Alfred | [US] | Draw 1-1 | vs. | Young, Kelvin | [US] |
+| 260 | Puno, Cyril | [US] | Won 2-1 | vs. | Merrill, Shane | [US] |
+| 261 | Probizansky, Henry | [US] | Won 2-1 | vs. | Pang, Ray | [US] |
+| 262 | Betts, Jonathan | [US] | Draw 1-1 | vs. | Donovan, Tate | [US] |
+| 263 | Garam, Anthony | [US] | Won 2-0 | vs. | Balsiger, Jake | [US] |
+| 264 | Nelson, Derek | [US] | Won 2-1 | vs. | Zacharski, Juan Jose | [AR] |
+| 265 | Ruiz, Leonardo | [US] | Lost 0-2 | vs. | Tukeman, Sammy | [US] |
+| 266 | Thomas, Jacob | [US] | Lost 1-2 | vs. | Assumma, Mike | [US] |
+| 267 | Rogers, Tj | [US] | Lost 1-2 | vs. | Scheid, Daniel | [US] |
+| 268 | Nord, Cody | [US] | Won 2-1 | vs. | Wong, Erik | [US] |
+| 269 | Bono, Jeffrey | [US] | Lost 1-2 | vs. | Maes, Robert | [US] |
+| 270 | Thomas, Cary | [US] | Won 2-0 | vs. | Daykin, Tyler | [US] |
+| 271 | Frey, David | [US] | Won 2-1 | vs. | Crocker, Robert | [US] |
+| 272 | Balagot, Stefan | [US] | Lost 1-2 | vs. | Ruiz, Steven | [US] |
+| 273 | Anderson, Matthew | [US] | Lost 0-2 | vs. | Salem, Jonathan | [US] |
+| 274 | Withers, Matthew | [US] | Lost 0-2 | vs. | Walters, Noah | [US] |
+| 275 | Liu, Ray | [US] | Lost 1-2 | vs. | Chu, Derrek | [US] |
+| 276 | Garcia, Vincenzo | [US] | Won 2-1 | vs. | Ta, David | [US] |
+| 277 | Tierney, Seth | [US] | Won 2-1 | vs. | Everman, Connor | [US] |
+| 278 | Weiner, Yonatan | [US] | Won 2-0 | vs. | Smith, Eric | [US] |
+| 279 | Johnson, Tyler | [US] | Won 2-0 | vs. | Salazar, David | [US] |
+| 280 | Falakfarsa, Galan | [US] | Won 2-1 | vs. | Goulart, Andrew | [US] |
+| 281 | Channels, Johnny | [US] | Lost 0-2 | vs. | King, Thomas | [US] |
+| 284 | Tang, Brady | [US] | Lost 0-2 | vs. | Yost, Austin | [US] |
+| - | Bailey, Amie | [US] | BYE | vs. | - |  |
+| 282 | Echols, Nick | [US] | Won 2-0 | vs. | Onate, Christopher | [US] |
+| 283 | Wang, Jiuyang | [US] | Won 2-1 | vs. | Crehaw, Austin | [US] |
+| 285 | Hughes, Shaun | [US] | Won 2-0 | vs. | Mourssali, Riad | [US] |
+| 286 | Hernandez, Jerry | [US] | Lost 1-2 | vs. | Dorn, Victoria | [US] |
+| 287 | Johnston, Christopher | [US] | Lost 1-2 | vs. | Galdamez, Brian | [US] |
+| 288 | Velarde, Rudy | [US] | Won 2-1 | vs. | Gurule, Kyle | [US] |
+| 289 | Hixson, Jeremy | [US] | Won 2-1 | vs. | Jerome, Alec | [US] |
+| 290 | Fang, Percy | [US] | Won 2-1 | vs. | Forrester, Loren | [US] |
+| 291 | Dean, Tyler | [US] | Won 2-1 | vs. | Velez Jo, Gil | [US] |
+| 292 | Nguyen, Thomas | [US] | Lost 0-2 | vs. | Luna, Joey | [US] |
+| 293 | Maddison, Corey | [US] | Won 2-0 | vs. | Hourani, Joseph | [US] |
+| 294 | Matsuba, Sean | [US] | Won 2-1 | vs. | Chavez, Rafael | [US] |
+| 295 | Vanzant, Jason | [US] | Won 2-1 | vs. | Jordan, Daniel | [US] |
+| 296 | Wilson, Waymon | [US] | Draw 1-1 | vs. | Melendrez, Aysha | [US] |
+| 297 | Davila, Anthony | [US] | Lost 0-2 | vs. | Stednitz, David | [US] |
+| 298 | Opferman, Anthony | [US] | Won 2-0 | vs. | Patel, Amit | [US] |
+| 299 | Sanson, Albert | [US] | Lost 1-2 | vs. | Fagan, Christian | [US] |
+| 300 | Russell, Tyler | [US] | Won 2-1 | vs. | Evans, Eli | [US] |
+| 301 | Ready, Anna | [US] | Lost 0-2 | vs. | Lalague, Marc | [US] |
+| 302 | Zubay, Joseph | [US] | Lost 1-2 | vs. | Van Scyoc, Lenny | [US] |
+| 303 | Utley, Andrew | [US] | Lost 0-2 | vs. | Shaath, Zuhair | [US] |
+| 304 | Blake, Paul | [US] | Lost 1-2 | vs. | Ariano Gaio, Otavio | [BR] |
+| 305 | Harris, Franklin | [US] | Lost 0-2 | vs. | Van Brocklin, Hunter | [US] |
+| 306 | Smith, Dean | [US] | Won 2-1 | vs. | Austria, Aries | [US] |
+| 307 | Bauer, John | [US] | Won 2-0 | vs. | Abraham, Duke | [US] |
+| 308 | Espey, Paul | [US] | Won 2-0 | vs. | Grine, Gary | [US] |
+| 309 | Hoffman, Kris | [US] | Won 2-1 | vs. | Calvin, Nathan | [US] |
+| 310 | Ulanov, Denis | [US] | Won 2-0 | vs. | Meadors, Dan | [US] |
+| 311 | Liang, Warren | [US] | Lost 1-2 | vs. | Hernandez, Sidney | [US] |
+| 312 | Bogner, Ryan | [US] | Lost 1-2 | vs. | Linke, Ian | [US] |
+| 313 | Sciesinski, Marcin | [US] | Won 2-1 | vs. | Atienza, Edgar | [US] |
+| 314 | Jacobson, Jeremy | [US] | Won 2-1 | vs. | Knorr, Jackson | [US] |
+| 315 | Killeen, Tristan | [US] | Won 2-1 | vs. | Ciccarelli, Jonathan | [US] |
+| 316 | Chen, Michael | [US] | Won 2-0 | vs. | Markwardt, Jerad | [US] |
+| 317 | Do, Mimi | [US] | Won 2-1 | vs. | Kostas, Steven | [CA] |
+| 318 | Leeper, Ryan | [US] | Won 2-0 | vs. | Rand, Christopher | [US] |
+| 319 | Jiang, Zhihao | [US] | Lost 1-2 | vs. | Oien, Matt | [US] |
+| 320 | Marentes, Oscar | [US] | Lost 1-2 | vs. | Moyer, Eric | [US] |
+| 321 | Wu, Donald | [US] | Lost 0-2 | vs. | Cotter, Jamie | [US] |
+| 322 | Mariscal, Carlos | [US] | Lost 0-2 | vs. | Han, Seung | [US] |
+| 323 | Baca, James | [US] | Lost 0-2 | vs. | Gille, Randolph | [US] |
+| 324 | Tartaglio, Paul | [US] | Draw 1-1 | vs. | Gonzalez, Giovanny | [US] |
+| 325 | Boese, Travis | [US] | Lost 1-2 | vs. | Santana, Robert | [US] |
+| 326 | Robeck, Peter | [US] | Lost 0-2 | vs. | Calderon, David | [US] |
+| 327 | Han, Sirus | [US] | Won 2-0 | vs. | Zieba, Kuba | [US] |
+| 328 | Adan, James | [US] | Lost 1-2 | vs. | Thorlakson, Neil | [US] |
+| 329 | Bernstein, Andrew | [US] | Lost 0-2 | vs. | Czyzewski, Shane | [US] |
+| 330 | Avalos, MIchael | [US] | Won 2-1 | vs. | Salvatto, Luis | [AR] |
+| 331 | Paul, Gregory | [US] | Lost 1-2 | vs. | Mammarella, Blaze | [US] |
+| 332 | Shimada, Aron | [US] | Lost 1-2 | vs. | Martin, Russ | [US] |
+| 333 | Wright, Christopher | [US] | Lost 1-2 | vs. | Wolloch, Sam | [US] |
+| 334 | Harris, Jacob | [US] | Won 2-1 | vs. | Shota, Takao | [JP] |
+| 335 | Pacheco, Jacob | [US] | Lost 1-2 | vs. | Jacobo, Israel | [US] |
+| 336 | Drews, Ken | [US] | Won 2-0 | vs. | Ballez, Danny | [US] |
+| 337 | Cords, Joshua | [US] | Won 2-1 | vs. | Weller-Gordon, Brian | [US] |
+| 338 | Paguio, Mark | [US] | Lost 0-2 | vs. | Hernandez, Tony | [US] |
+| 339 | Goddard, Maxwell | [US] | Won 2-0 | vs. | Navarrete, Michael | [US] |
+| 340 | Gates, Cody | [US] | Lost 1-2 | vs. | Knaff, Ariel | [US] |
+| 341 | Combest, Anthony | [US] | Won 2-0 | vs. | Tajonar, Ivan | [US] |
+| 342 | Koenig, Jake | [US] | Won 2-0 | vs. | Wellbrock, Caleb | [US] |
+| 343 | Quach, Peter | [US] | Won 2-1 | vs. | Silver, Jeffrey | [US] |
+| 344 | Morton, Evan | [US] | Won 2-0 | vs. | Lerer, Josef | [US] |
+| 345 | Nabi, Basil | [US] | Lost 0-2 | vs. | Zavala, Marcus | [US] |
+| 346 | Pride, Michael | [US] | Won 2-1 | vs. | Stevens, Preston | [US] |
+| 347 | Mickelson, Ethan | [US] | Won 2-0 | vs. | Hresc, Tomas | [US] |
+| 348 | Lee, Daniel | [US] | Won 2-0 | vs. | Mellor, Brendan | [US] |
+| 349 | Patel, Ashish | [US] | Lost 0-2 | vs. | Smith, Derek | [US] |
+| 350 | Carte, Ted | [US] | Lost 1-2 | vs. | Slone, Ryan | [US] |
+| 351 | Nasri, Ubaydah | [US] | Lost 1-2 | vs. | Hughes, Ryan | [US] |
+| 352 | Bianga, Ryan | [US] | Lost 0-2 | vs. | Newhard, Brian | [US] |
+| 353 | Young, Edwin | [US] | Won 2-1 | vs. | Nelson, Zachery | [US] |
+| 354 | Espinoza, Jose Alfonzo | [MX] | Won 2-0 | vs. | Rosen, Adam | [US] |
+| 355 | Robins, Cyrus | [US] | Lost 0-2 | vs. | Flores, Gator | [US] |
+| 356 | Gregory, William | [US] | Lost 0-2 | vs. | Yoo, Bradley | [US] |
+| 357 | Weber, Winston | [US] | Lost 1-2 | vs. | Rovero, Anthony | [US] |
+| 358 | Barnes, Thomas | [US] | Won 2-1 | vs. | Nelson, Colleen | [US] |
+| 359 | Arboleda, Jonar | [US] | Won 2-1 | vs. | Vandermeyden, Michael | [US] |
+| 360 | McAlpine, Daniel | [US] | Won 2-0 | vs. | Mohd Shuhaimi, Nik | [US] |
+| 361 | Cummings, James | [US] | Lost 1-2 | vs. | Nonaka, Keenan | [US] |
+| 362 | Smith, Zach | [US] | Lost 1-2 | vs. | Cummings, Forrest | [US] |
+| 363 | Duvall, James | [US] | Won 2-0 | vs. | Jones, Oscar | [US] |
+| 364 | Sonderland, Drew | [US] | Lost 1-2 | vs. | Loster, Joseph | [US] |
+| 365 | Juan, William | [US] | Lost 1-2 | vs. | Reyes, Nicholas | [US] |
+| 366 | Biaggi, Andrea | [US] | Won 2-1 | vs. | Brock, Michael | [US] |
+| 367 | Lunceford, Frank | [US] | Won 2-1 | vs. | Ryan, Kenzie | [US] |
+| 368 | Vogel, James | [US] | Lost 0-2 | vs. | Manders, Mitchell | [US] |
+| 369 | Nguyen, Daniel | [US] | Won 2-1 | vs. | Spartz, Emerson | [US] |
+| 370 | Espinosa, Ivan | [US] | Won 2-0 | vs. | Curry, Mack | [US] |
+| 371 | Ho, Lan | [US] | Lost 1-2 | vs. | Van Vleet, Matthew | [US] |
+| 372 | Hall, Kenneth | [US] | Lost 1-2 | vs. | Feil, Derek | [US] |
+| 373 | Lee, Kane | [US] | Won 2-1 | vs. | Zoumot, Nathan | [US] |
+| 374 | McCollough, Sean | [US] | Draw 1-1 | vs. | North, Sam | [US] |
+| 375 | Undercoffer, Bryan | [US] | Won 2-0 | vs. | Sharer, Miles | [US] |
+| 376 | Donelson, Bryce | [US] | Won 2-1 | vs. | Korzunov, Semen | [US] |
+| 377 | Biedenbach, Chris | [US] | Lost 1-2 | vs. | Acosta, Fortunato | [US] |
+| 378 | Prothro, Joseph | [US] | Lost 1-2 | vs. | Kahovec, Nate | [US] |
+| 379 | Zunter, Brian | [US] | Won 2-0 | vs. | Hill, Morgan | [US] |
+| 380 | Chen, Cliff | [US] | Won 2-1 | vs. | Merz, Clayton | [US] |
+| 381 | Kim, Calvin | [US] | Won 2-1 | vs. | Creshaw, Cory | [US] |
+| 382 | Sundholm, Peter | [US] | Lost 1-2 | vs. | Hemstedt, Daniel | [US] |
+| 383 | Anderson, Cody | [US] | Lost 1-2 | vs. | Stroven, Rye | [US] |
+| 384 | Johnson, Eric | [US] | Won 2-1 | vs. | Ani, Fares | [US] |
+| 385 | Kelly, John | [US] | Lost 1-2 | vs. | Martinez, Mario | [US] |
+| 386 | Neri, David | [US] | Lost 1-2 | vs. | Hurley, Julia | [US] |
+| 387 | OBrien, James | [US] | Won 2-0 | vs. | Weinstein, Zachary | [US] |
+| 388 | Black, Daniel | [US] | Won 2-0 | vs. | Brown, Steven | [US] |
+| 389 | Sendaydiego, Curt | [US] | Won 2-1 | vs. | Cardenas, Osvaldo | [US] |
+| 390 | Pashby, Gregrey | [US] | Lost 0-2 | vs. | Wang, Changran | [CN] |
+| 391 | Palombi, John | [US] | Won 2-0 | vs. | Moreno, Eduardo | [US] |
+| 392 | In, Andrew | [US] | Lost 1-2 | vs. | Headley, Matthew | [US] |
+| 393 | Herdman, William | [US] | Lost 1-2 | vs. | Posada Jr., Fernando | [US] |
+| 394 | Hyun, Ryan | [US] | Won 2-1 | vs. | Goda, Chayse | [US] |
+| 395 | Hatch, Gregory | [US] | Lost 0-2 | vs. | Evanko, Tom | [US] |
+| 396 | Larsson, Chris | [CA] | Won 2-1 | vs. | Ray, Casey | [US] |
+| 397 | Khan, Zeeshan | [US] | Lost 0-2 | vs. | Wagner, Travis | [US] |
+| 398 | Hibbard, Dalton | [US] | Won 2-0 | vs. | Firek, Matthew | [US] |
+| 399 | Wang, Haoyang | [US] | Lost 1-2 | vs. | Moore, Scott | [US] |
+| 400 | DeBardelaben, Kyle | [US] | Lost 0-2 | vs. | Azzam, Alexander | [US] |
+| 401 | Kazemier, Jarid | [US] | Won 2-1 | vs. | Sun, Qiushi | [US] |
+| 402 | Simpson, Jeffrey | [US] | Won 2-0 | vs. | Cavin, Gabriel | [US] |
+| 403 | May, Taylor | [US] | Won 2-0 | vs. | Kramer, Jordan | [US] |
+| 404 | Louke, Mary | [US] | Won 2-0 | vs. | Madarang, Carl | [US] |
+| 405 | David, Joshua | [US] | Lost 1-2 | vs. | Ballardo, David | [US] |
+| 406 | Wilkinson, Seth | [US] | Lost 1-2 | vs. | Eagle, Matthew | [US] |
+| 407 | Micuch, Edward | [US] | Won 2-0 | vs. | Hu, Shengling | [US] |
+| 408 | Wu, Steven | [US] | Won 2-0 | vs. | Velazquez, Daniel | [US] |
+| 409 | Johson, James | [US] | Lost 1-2 | vs. | Mcreynolds, Aj | [US] |
+| 410 | Angulo, Enrique | [CA] | Lost 0-2 | vs. | Price, Andrew | [US] |
+| 411 | May, Daniel | [US] | Lost 1-2 | vs. | Barajas, Jose | [US] |
+| 412 | Jacobson, Jed | [US] | Draw 1-1 | vs. | Pierce, Stephen | [US] |
+| 413 | Younger, Alejandro | [US] | Lost 0-2 | vs. | Freedman, Henry | [US] |
+| 414 | Ashton, Creighton | [US] | Lost 1-2 | vs. | Mondello, Jake | [US] |
+| 415 | Hardin, Jeff | [US] | Lost 1-2 | vs. | Rovegno, Kevin | [US] |
+| 416 | Liu, Bruce | [US] | Won 2-0 | vs. | Gross, Aubrey | [US] |
+| 417 | L'Estrange, Michael | [US] | Lost 0-2 | vs. | Manos, Zech | [US] |
+| 418 | Robles, Jesse | [US] | Won 2-1 | vs. | Dinneny, Natalie | [US] |
+| 419 | Horlacher, Travis | [CL] | Won 2-1 | vs. | Romero, Jose | [US] |
+| 420 | Dvorshak, Darik | [US] | Lost 1-2 | vs. | McIntosh, Cameron | [US] |
+| 421 | McCarthy, Chris | [US] | Lost 1-2 | vs. | Dygert, Bobby | [US] |
+| 422 | Landes, Eric | [US] | Lost 0-2 | vs. | Paguio, Francis | [US] |
+| 423 | Flint, Joey | [US] | Lost 0-2 | vs. | Brinkman, Garrett | [US] |
+| 424 | Johnson, Cailean | [US] | Lost 0-2 | vs. | DiGiacomo, Daniel | [US] |
+| 425 | Viernes, Glen | [US] | Won 2-1 | vs. | Mitchell, Zane | [US] |
+| 426 | Ohanessian, Patrick | [US] | Lost 0-2 | vs. | Sinclair, Brett | [US] |
+| 427 | Replogle, Zachariah | [US] | Lost 1-2 | vs. | Lindauer, Jake | [US] |
+| 428 | Schalich, Kyle | [US] | Won 2-1 | vs. | Chrisman, Corey | [US] |
+| 429 | Ebon, Edwin | [US] | Lost 1-2 | vs. | Centanni, Richard | [US] |
+| 430 | Phillips, Johnathan | [US] | Lost 0-2 | vs. | Gibson, Jack | [US] |
+| 431 | Ma, Jonathan | [US] | Won 2-0 | vs. | Emannshucart, Ian | [US] |
+| 432 | Lai, Kevin | [US] | Won 2-1 | vs. | Zamora, Jairo | [MX] |
+| 433 | Chan, Eric | [CA] | Won 2-0 | vs. | Nguyen, Paul | [US] |
+| 434 | Bender, Johnnie | [US] | Draw 1-1 | vs. | Cook, Elliott | [US] |
+| 435 | Trimble, Josh | [US] | Won 2-0 | vs. | Belknap, Randy | [US] |
+| 436 | Hantz, Michael | [US] | Won 2-0 | vs. | Macasinag, Remle | [US] |
+| 437 | Ryan, Austin | [US] | Lost 1-2 | vs. | Mathis, Austin | [US] |
+| 438 | Zelick, Aaron | [US] | Won 2-0 | vs. | Esquivel, David | [US] |
+| 439 | Lee, William | [US] | Lost 0-2 | vs. | Musgrave, Joe | [US] |
+| 440 | Jacobs, Jeffery | [US] | Lost 0-2 | vs. | Trojan, Jay | [US] |
+| 441 | Nguyen, David T | [US] | Won 2-1 | vs. | Harvey, Kyle | [US] |
+| 442 | Bernot, Anthony | [US] | Lost 0-2 | vs. | Shelton, Shannon | [US] |
+| 443 | Tracy, Shane | [US] | Won 2-0 | vs. | Shumaker, Luke | [US] |
+| 444 | Casasola, Oscar | [US] | Won 2-0 | vs. | Womack, Julius | [US] |
+| 445 | Adeli, Babak | [US] | Won 2-1 | vs. | Schwartz, James | [US] |
+| 446 | Leigh, Alina | [CA] | Lost 0-2 | vs. | Cardenasgarcia, Jordan | [US] |
+| 447 | Huang, Jiawei | [US] | Lost 1-2 | vs. | Scales, Zach | [US] |
+| 448 | Steuer, Nathan | [US] | Won 2-0 | vs. | Lohouse, Justin | [CA] |
+| 449 | Chen, John | [US] | Won 2-0 | vs. | Owen, Joshua | [US] |
+| 450 | Takenaka, Harry | [US] | Won 2-0 | vs. | Schultz, Kriz | [US] |
+| 451 | Hughes, John | [US] | Won 2-1 | vs. | Gallagher, Richard | [US] |
+| 452 | Wise, Steve | [US] | Lost 1-2 | vs. | Watkins, Steve | [US] |
+| 453 | Knab, Mikey | [US] | Lost 0-2 | vs. | Pordes, Casey | [US] |
+| 454 | OConnor, Michael | [US] | Won 2-0 | vs. | Arechiga, Evan | [US] |
+| 455 | Tu, Nicholas | [US] | Won 2-0 | vs. | Li, Jack | [US] |
+| 456 | Zamora, Eddie | [US] | Lost 0-2 | vs. | Hatamian, Emin | [US] |
+| 457 | Burgers, Brandon | [US] | Lost 1-2 | vs. | Navarro, Andrew | [US] |
+| 458 | Sadowski, Mark | [US] | Won 2-1 | vs. | Morris, Robert | [US] |
+| 459 | Pu, Sherwin | [US] | Won 2-0 | vs. | Booker, Mike | [US] |
+| 460 | Snyder, Wolfgang | [US] | Lost 1-2 | vs. | Deatherage, Chris | [US] |
+| 461 | Folsom, Kyer | [US] | Lost 1-2 | vs. | Skallerup, Josiah | [US] |
+| 462 | Maros, Leonardo | [US] | Won 2-1 | vs. | Job, Jonathan | [US] |
+| 463 | Kavanagh, Carolyn | [CA] | Lost 0-2 | vs. | Keating, Michael | [US] |
+| 464 | Teran, Cory | [US] | Won 2-0 | vs. | Topham, Carruth | [US] |
+| 465 | Hinahon, Reimill | [US] | Lost 1-2 | vs. | Garcia, Kevin | [US] |
+| 466 | Galicia, Matthew | [US] | Lost 0-2 | vs. | Alvarez, Moises | [US] |
+| 467 | Farfante, Stephen | [US] | Lost 0-2 | vs. | Groff, Timothy | [US] |
+| 468 | Tolbert, Brian | [US] | Won 2-1 | vs. | Lin, Yuming | [US] |
+| 469 | Hulvey, Chris | [US] | Lost 0-2 | vs. | Nguyen, Jason | [US] |
+| 470 | Hoyt, Bryan | [US] | Won 2-0 | vs. | Dickup, Anthony | [US] |
+| 471 | Hitt, Brandon | [US] | Won 2-0 | vs. | Glen, Ernest | [US] |
+| 472 | Pisano, Rob | [US] | Won 2-1 | vs. | Center, Michael | [US] |
+| 473 | Derenzis, Gregory | [US] | Lost 1-2 | vs. | Lawson, John | [US] |
+| 474 | Rennie, Evan | [US] | Lost 0-2 | vs. | Lee, Robert | [US] |
+| 475 | Jayne, Brett | [US] | Won 2-0 | vs. | Gallegos, Kelsey | [US] |
+| 476 | Villa, Manuel | [US] | Lost 1-2 | vs. | Llanes, Julius | [US] |
+| 477 | Fitzgerald, Devin | [US] | Won 2-1 | vs. | Nguyen, Cuong | [US] |
+| 478 | Chu, Taotao | [US] | Lost 1-2 | vs. | Henbest, Jeffrey | [US] |
+| 479 | Thompson, Brad | [US] | Won 2-0 | vs. | Miller, Daryl | [US] |
+| 480 | Kunz, Jesse | [US] | Lost 1-2 | vs. | Guerrero, Leopoldo | [US] |
+| 481 | Dearing, Geoff | [US] | Lost 0-2 | vs. | Bates, Harrison | [US] |
+| 482 | Roberts, Nathan | [US] | Won 2-0 | vs. | Alspach, Matthew | [US] |
+| 483 | Fleurant, Jason | [CA] | Won 2-0 | vs. | Herniter, Ira | [US] |
+| 484 | McShea, Kevin | [US] | Won 2-1 | vs. | Brewer, Erik | [US] |
+| 485 | Alexander, Kevin | [US] | Lost 1-2 | vs. | Nguyen, Michael | [US] |
+| 486 | Sumiguin, Vincent | [US] | Won 2-1 | vs. | Abramowitz, Sam | [US] |
+| 487 | Parks, Daniel | [US] | Won 2-1 | vs. | Pang, Jonathan | [US] |
+| 488 | Baier, Alex | [US] | Lost 0-2 | vs. | Boone, Dylan | [US] |
+| 489 | Weathers, Jesse | [US] | Won 2-0 | vs. | Peel, Henry | [US] |
+| 490 | Bauman, Mike | [US] | Won 2-0 | vs. | Robles, Danny | [US] |
+| 491 | Montes De Oca, Rodrigo | [US] | Lost 0-2 | vs. | Hopkins, Kristopher | [US] |
+| 492 | Bush, Jonathan | [US] | Won 2-1 | vs. | Fajardo, Paul | [US] |
+| 493 | Shroff, Marcus | [US] | Lost 0-2 | vs. | Chang, Robin | [US] |
+| 494 | Solis, Oscar | [US] | Lost 0-2 | vs. | Li, Yue | [US] |
+| 495 | Hunter, Tyler | [US] | Lost 1-2 | vs. | Li, Chen | [US] |
+| 496 | Ahrens, Jonathan | [US] | Won 2-0 | vs. | Travis, Timothy | [US] |
+| 497 | Stott, Ian | [US] | Lost 1-2 | vs. | Olier, Juan | [US] |
+| 498 | Cruz, Rene | [US] | Lost 0-2 | vs. | Putzier, Jesse | [US] |
+| 499 | Corvese, Harry | [US] | Won 2-0 | vs. | Fugh, Jason | [US] |
+| 500 | Ferguson, Bryan | [US] | Lost 1-2 | vs. | Roell, Matthew | [US] |
+| 501 | Reynoso, Alex | [US] | Won 2-0 | vs. | Wei, Bob | [US] |
+| 502 | Rubia, Shane | [US] | Lost 1-2 | vs. | Reed, Jason | [US] |
+| 503 | Sakamaki, Tatsuya | [JP] | Lost 0-2 | vs. | Centeno, David | [US] |
+| 504 | Boncher, Andrew | [US] | Lost 1-2 | vs. | Kame, Justin | [US] |
+| 505 | Burgess, Levi | [US] | Lost 1-2 | vs. | Kinney, Ryan | [US] |
+| 506 | Dyer, Mason | [US] | Won 2-0 | vs. | Tuan, Peter | [US] |
+| 507 | Oshie, Brian | [US] | Lost 0-2 | vs. | Condemarin, Steven | [US] |
+| 508 | Rosario, Joel | [US] | Won 2-0 | vs. | James, Eric | [US] |
+| 509 | Cirelli, Marco | [IT] | Won 2-0 | vs. | Martinez, Austin | [US] |
+| 510 | Strout-Villa, Matthew | [US] | Won 2-1 | vs. | Wilson, Marcus | [US] |
+| 511 | Ongaro, Michael | [US] | Won 2-1 | vs. | Cruz, Ryan | [US] |
+| 512 | Bakkeli, Oyvind | [NO] | Won 2-1 | vs. | McGowen, Alexander | [US] |
+| 513 | Maguire, Sean | [US] | Lost 1-2 | vs. | Pham, Matthew | [US] |
+| 514 | Liu, Patrick | [US] | Lost 1-2 | vs. | Allen, Kyle | [US] |
+| 515 | North, Robert | [US] | Lost 1-2 | vs. | Badger, Tim | [US] |
+| 516 | Liu, Zhe | [US] | Lost 1-2 | vs. | Zhang, Chuck | [US] |
+| 517 | Chan, Ryan | [US] | Lost 0-2 | vs. | Alikhani, Farid | [US] |
+| 518 | Peltz, Brian | [US] | Lost 1-2 | vs. | Hocguin, Jose | [US] |
+| 519 | Garcia, Angel | [US] | Lost 1-2 | vs. | Young, Alasdair | [US] |
+| 520 | Hurdle, Blake | [US] | Won 1-0 | vs. | Wiley, Seth | [US] |
+| 521 | Cook, Myles | [US] | Won 2-1 | vs. | Howa, Levi | [US] |
+| 522 | Whaley, Connor | [US] | Won 2-1 | vs. | Nguyen, Philip | [US] |
+| 523 | Alonso, Jeovani | [US] | Lost 0-2 | vs. | Kacalek, Sean | [US] |
+| 524 | Eusebio, Jon | [US] | Won 2-1 | vs. | Lopez, Ricardo | [US] |
+| 525 | Zuniga, Michael | [US] | Lost 0-2 | vs. | Guillen, Richard | [US] |
+| 526 | Cemo, Adam | [US] | Lost 0-2 | vs. | Martinez, Emmanuel | [US] |
+| 527 | Ashby, Raymond | [US] | Lost 1-2 | vs. | Colmenero, Clifton | [US] |
+| 528 | Teves, Justin | [US] | Won 2-0 | vs. | Nguyen, Dennis | [US] |
+| 529 | Swanson, Matthew | [US] | Lost 1-2 | vs. | Wellbrock, Samuel | [US] |
+| 530 | Chen, Kuang | [US] | Won 2-0 | vs. | Gilison, Daniel | [US] |
+| 531 | Nelson, Adam | [US] | Won 2-1 | vs. | Eugenio, Brian | [US] |
+| 532 | Estrada Morales, Mauricio | [MX] | Won 2-1 | vs. | Andersen, Joseph | [US] |
+| 533 | Gonzalez, Juan Pablo | [US] | Won 2-1 | vs. | Rose, Joshua | [US] |
+| 534 | Eriksson, Kjell | [US] | Won 2-1 | vs. | Crosby, Brandon | [US] |
+| 535 | Hughes, Michael | [US] | Lost 0-2 | vs. | Hamernick, Burt | [US] |
+| 536 | Ciccolo, Peter | [US] | Lost 0-2 | vs. | Welch, Michael | [US] |
+| 537 | Pannell, Thomas | [US] | Won 2-1 | vs. | Pinto, Victor | [US] |
+| 538 | Stemmer, Arno | [US] | Won 2-0 | vs. | Palmer, James | [US] |
+| 539 | Jackson, Ian | [US] | Won 2-1 | vs. | Yeem, Soohwang | [US] |
+| 540 | Paige, Cody | [US] | Lost 1-2 | vs. | Berni, Roberto | [US] |
+| 541 | Garcia, Anthony | [US] | Lost 0-2 | vs. | Loring, Thomas | [US] |
+| 542 | Petre, Evan | [US] | Lost 0-2 | vs. | ReCasino, Matthew | [US] |
+| 543 | Milton, Rhianna | [AU] | Won 2-0 | vs. | Gottstein, Jeff | [US] |
+| 544 | Oliver, Neal | [US] | Won 2-1 | vs. | Ozga, Brian | [US] |
+| 545 | O'Connell, Gerald | [US] | Lost 1-2 | vs. | Laird, Stephen | [US] |
+| 546 | Wiediger, Ronald | [US] | Won 2-0 | vs. | Roybal, Dane | [US] |
+| 547 | Bradvica, Nicholas | [US] | Lost 1-2 | vs. | Tran, Quang | [US] |
+| 548 | Genova, Daniel | [US] | Lost 1-2 | vs. | Yu, Jun | [US] |
+| 549 | Gill, Billy | [US] | Lost 0-2 | vs. | Tapia, Robert | [US] |
+| 550 | Spencer, Nick | [US] | Lost 0-2 | vs. | McCamey, Bobby | [US] |
+| 551 | Biala, Lito | [US] | Won 2-1 | vs. | Harrison, Jeff | [US] |
+| 552 | Smith, David | [US] | Lost 1-2 | vs. | Logsdon, Tai | [US] |
+| 553 | Luong, Marcus | [US] | Lost 1-2 | vs. | Slade, Matthew | [US] |
+| 554 | Elasky, Ethan | [US] | Won 2-1 | vs. | Pinedo, Jessie | [US] |
+| 555 | Castillo, Ryen | [US] | Won 2-1 | vs. | Woods, Ashley | [US] |
+| 556 | Barbagelata, Diego | [IT] | Lost 0-2 | vs. | DeTora, Melissa | [US] |
+| 557 | Weeks, Kevin | [US] | Lost 1-2 | vs. | Eads, Sidney | [US] |
+| 558 | Jew, Jeffrey | [US] | Won 2-0 | vs. | Nebgen, Ben | [US] |
+| 559 | Toru, Takisaka | [JP] | Won 2-1 | vs. | Betschart, Brad | [US] |
+| 560 | Bassouni, Ahmad | [US] | Won 2-0 | vs. | Kinkade, Max | [US] |
+| 561 | Staver, Alex | [US] | Won 2-0 | vs. | Marquez, Walter | [US] |
+| 562 | Olgado, Joseph Lester | [US] | Won 2-1 | vs. | Blair, Christopher | [US] |
+| 563 | Nutt, Tyler | [US] | Won 2-0 | vs. | Pait, Robert | [US] |
+| 564 | Lok, Geoffrey | [US] | Won 2-0 | vs. | Heybl, Jacob | [US] |
+| 565 | MacDonald, Joseph | [US] | Lost 1-2 | vs. | Rodriguez, Brian | [US] |
+| 566 | Luna-Victoria, Diego | [PE] | Won 2-1 | vs. | Chen, Kolya | [US] |
+| 567 | Keith, Andrew | [US] | Lost 1-2 | vs. | Schopf, Nickolas | [US] |
+| 568 | Sommer, Zachary | [US] | Won 2-1 | vs. | Obejas, Ammi | [US] |
+| 569 | Yang, Weiye | [US] | Lost 1-2 | vs. | Marklyn, Tyler | [US] |
+| 570 | Herg, Cornell | [US] | Lost 1-2 | vs. | Cummings, Brandon | [US] |
+| 571 | Lai, Jimmy | [FR] | Won 2-0 | vs. | Green, Marcell | [US] |
+| 572 | Rizzonelli, Nicholas | [US] | Lost 1-2 | vs. | Cipriano, Jose | [US] |
+| 573 | Garcia, Joe | [US] | Lost 1-2 | vs. | Gonzalez, Chris | [US] |
+| 574 | Niazi, Xander | [US] | Won 2-0 | vs. | Gay, Nathan | [US] |
+| 575 | Desangles, Anthony | [US] | Lost 1-2 | vs. | Horwitz, Lucas | [US] |
+| 576 | Aguilera, Agustin | [US] | Lost 1-2 | vs. | Palacios, Herbert | [US] |
+| 577 | Flores, Walter | [US] | Lost 1-2 | vs. | Galloway, Troy | [US] |
+| 578 | Enriquez, Mark | [US] | Lost 1-2 | vs. | Gidanian, Samuel | [US] |
+| 579 | Maldonado, Giovani | [US] | Lost 0-2 | vs. | Dayton, Billy | [US] |
+| 580 | Shishido, Kevin | [US] | Won 2-0 | vs. | Williams, David | [US] |
+| 581 | Houck, Allen | [US] | Lost 1-2 | vs. | Lichtblau, Daniel | [US] |
+| 582 | Sibley, Keith | [US] | Won 2-1 | vs. | Russell, Marco | [US] |
+| 583 | Stoltz, Jordan | [US] | Won 2-1 | vs. | Stewart, Brad | [US] |
+| 584 | Yocca, Nicholas | [US] | Lost 0-2 | vs. | Pauley, Eric | [US] |
+| 585 | Riley, Neil | [US] | Lost 0-2 | vs. | Figueroa, Daniel | [US] |
+| 586 | Warnell, Omar | [US] | Lost 0-2 | vs. | Halol, Zal | [US] |
+| 587 | Duncan, Frederick | [US] | Won 2-1 | vs. | Hunter, James | [US] |
+| 588 | Delucchi, Brian | [US] | Lost 0-2 | vs. | Lipp, Scott | [US] |
+| 589 | Allen, Jacob | [US] | Won 2-1 | vs. | Browne, Joshua | [US] |
+| 590 | Dziuba, Kyle | [US] | Lost 1-2 | vs. | Ody, Alexander | [US] |
+| 591 | Wollin, Nathan | [US] | Lost 1-2 | vs. | Gomez, Manuel | [US] |
+| 592 | Allison, Chad | [US] | Won 2-1 | vs. | Fong, Alvin | [US] |
+| 593 | Siderman, Jacob | [US] | Won 2-0 | vs. | Bai, Miao | [US] |
+| 594 | Faber, Manuel | [DE] | Lost 0-2 | vs. | Jenkins, Mark | [US] |
+| 595 | Porchas, Justin | [US] | Lost 0-2 | vs. | Black, Travis | [CA] |
+| 596 | Romero, Francisco | [US] | Lost 1-2 | vs. | Sun, Aaron | [US] |
+| 597 | Vasi, Mark | [US] | Lost 0-2 | vs. | Dudek, James | [US] |
+| 598 | Hudson, Mike | [US] | Won 2-1 | vs. | Wanlass, Brendan | [US] |
+| 599 | Thatcher, Tyson | [US] | Draw 1-1 | vs. | Roberts, Jesse | [US] |
+| 600 | Donnell, Dennis | [US] | Lost 0-2 | vs. | Daley, Keith | [US] |
+| 601 | Rho, Justin | [US] | Won 2-0 | vs. | Serface, Zack | [US] |
+| 602 | Deal, Justin | [US] | Won 2-0 | vs. | Razo, Miguel | [US] |
+| 603 | Kessler, Alex | [US] | Lost 0-2 | vs. | Spansel, Kris | [US] |
+| 604 | Burkett, Joseph | [US] | Lost 1-2 | vs. | Sloan, Shawn | [US] |
+| 605 | Kinon, Marc | [US] | Won 2-0 | vs. | Slone, Steven | [US] |
+| 606 | Re, Joe | [US] | Lost 1-2 | vs. | Rodriguez, Armando | [US] |
+| 607 | Keo, Vatheanak | [US] | Lost 0-2 | vs. | Kling, Matt | [US] |
+| 608 | Cox, Steven | [US] | Won 2-1 | vs. | Grugal, Michael | [US] |
+| 609 | Chang, Stephen | [US] | Lost 0-2 | vs. | Dinh, Khai | [US] |
+| 610 | Moreno, Anthony | [US] | Won 2-1 | vs. | Truong, Richard | [US] |
+| 611 | Engle, Sean | [US] | Lost 0-2 | vs. | Harrington, Jaret | [US] |
+| 612 | Nguyen, Joe | [US] | Won 2-0 | vs. | Koessel, Noah | [US] |
+| 613 | Smith, Rj | [US] | Won 2-1 | vs. | Subasi, Omer | [TK] |
+| 614 | Chen, Jeffrey | [US] | Lost 1-2 | vs. | Lee, Nick J | [US] |
+| 615 | Jones, Carl | [US] | Won 2-1 | vs. | Zang, Shaochen | [US] |
+| 616 | Rockenbach, Bryan | [US] | Won 2-1 | vs. | Nguyen, Henry | [US] |
+| 617 | Adair, Timothy | [US] | Won 2-0 | vs. | Epstein, Cal | [US] |
+| 618 | Turner-Lynch, Samuel | [US] | Lost 0-2 | vs. | Ferraro, Casey | [US] |
+| 619 | Ridlen, Chris | [US] | Lost 1-2 | vs. | Ellis, Bennett | [US] |
+| 620 | Trauthen, Spencer | [US] | Won 2-1 | vs. | Tooby, Ryan | [CA] |
+| 621 | Carlstrom, Erik | [US] | Won 2-0 | vs. | Freeman, Daniel | [US] |
+| 622 | Glenn, Brian | [US] | Won 2-0 | vs. | Hsu, Charlie | [US] |
+| 623 | Solberg, Joshua | [US] | Won 2-1 | vs. | Miller, Ryan | [US] |
+| 624 | Clark, Jeffrey | [US] | Lost 1-2 | vs. | Jackson, Ron | [US] |
+| 625 | Henderson, Craig | [US] | Won 2-0 | vs. | Barna, Donald | [US] |
+| 626 | Pedersen, Curtis | [US] | Lost 1-2 | vs. | Peternell, Nick | [US] |
+| 627 | Batinich, Andrew | [US] | Lost 0-2 | vs. | Carewicz, Cameron | [US] |
+| 628 | Stevenson, James | [CA] | Lost 1-2 | vs. | Leland, Aaron | [US] |
+| 629 | Hoff, Fred | [US] | Won 2-1 | vs. | Do, Preston | [US] |
+| 630 | Luna, Jonathan | [US] | Lost 1-2 | vs. | Tillman, Christopher | [US] |
+| 631 | Perosky, Scotty | [US] | Lost 0-2 | vs. | Garcia, Scott | [US] |
+| 632 | Williams, Benjamin | [US] | Won 2-0 | vs. | Henriksen, Matt | [US] |
+| 633 | Lambert-Cobb, Craig | [US] | Won 2-1 | vs. | Smith, Brandon | [US] |
+| 634 | Murillo, Jesse | [US] | Won 2-0 | vs. | Valle, Christopher | [US] |
+| 635 | Orr, Michael | [CA] | Won 2-0 | vs. | Wittrock, Matthew | [US] |
+| 636 | Yandrofski, Seth | [US] | Won 2-0 | vs. | Olivieri, Daniel | [US] |
+| 637 | Molina, David | [US] | Lost 0-2 | vs. | Oyer, Taylor | [US] |
+| 638 | Efigenio, Christopher | [US] | Lost 0-2 | vs. | Gonzales, Anthony | [US] |
+| 639 | Dennison, Michael | [US] | Lost 0-2 | vs. | Suanico, Hernando | [US] |
+| 640 | Kennedy, Quinn | [US] | Lost 0-2 | vs. | Eckhoff, Trevor | [US] |
+| 641 | Lee, Jeffrey | [US] | Lost 1-2 | vs. | Escofet Martin, David | [US] |
+| 642 | Ruger, Zackary | [US] | Lost 0-2 | vs. | Kaplan, Chad | [US] |
+| 643 | Bez, Ryan | [US] | Won 2-1 | vs. | Freeland, Will | [US] |
+| 644 | Beaty, Jj | [US] | Lost 1-2 | vs. | Dunn, Lucas | [US] |
+| 645 | Woodruff, John | [US] | Lost 0-2 | vs. | Caballero, John Paul | [US] |
+| 646 | White, Charlie | [US] | Won 2-1 | vs. | Davis, Ian | [US] |
+| 647 | Galarza, Andre | [US] | Lost 1-2 | vs. | Shellman, Tim | [US] |
+| 648 | Tashjian, Karl | [US] | Won 2-0 | vs. | Dreher, Gregory | [US] |
+| 649 | Mann, Elliot | [US] | Lost 0-2 | vs. | Wagenfuhr, Michael | [US] |
+| 650 | Odorizzi, Christopher | [US] | Won 2-0 | vs. | Tish, Bradley | [US] |
+| 651 | Park, Anthony | [US] | Won 2-1 | vs. | Parker, Jason | [US] |
+| 652 | Staib, Rich | [US] | Lost 0-2 | vs. | Johnson, Marcus | [US] |
+| 653 | Dela Cruz, Jimmy | [US] | Won 2-0 | vs. | Shanahan, Kevin | [US] |
+| 654 | Babb, Tommy | [US] | Lost 1-2 | vs. | Mostarac, Demetre | [CA] |
+| 655 | Loukopoulos, Christopher | [US] | Lost 1-2 | vs. | Perez, Alex | [US] |
+| 656 | Swiney, Bruce | [US] | Lost 1-2 | vs. | Ly, Jonathan | [US] |
+| 657 | Kim, Moses | [US] | Won 2-1 | vs. | Jimenez Vazquez, Jose | [US] |
+| 658 | Babaian, Christopher | [US] | Won 2-0 | vs. | Overcash, Garrett | [US] |
+| 659 | Gillespie, Andrew | [US] | Lost 0-2 | vs. | Yu, Kevin | [US] |
+| 660 | Avila, Matt | [US] | Won 2-1 | vs. | Kelly, Connor | [US] |
+| 661 | Lau, LIng | [US] | Lost 0-2 | vs. | Szylman, Dariusz | [US] |
+| 662 | Johnson, Nicolas | [US] | Lost 1-2 | vs. | McNamara, Brendan | [US] |
+| 663 | Scholar, Curtis | [US] | Won 2-0 | vs. | Stone, Tim | [US] |
+| 664 | Sinclair, Eowyn | [US] | Lost 0-2 | vs. | Crosthwaite, Rodolfo | [US] |
+| 665 | Inglis, David | [US] | Won 2-1 | vs. | Hendrix, Carl | [US] |
+| 666 | Chavez, Anthony | [US] | Lost 1-2 | vs. | Brooks, Jacob | [US] |
+| 667 | Lux, Sir | [US] | Lost 1-2 | vs. | Reardon, Thomas | [US] |
+| 668 | Orrmons, Kale | [US] | Won 2-1 | vs. | Stone, Jeffrey | [US] |
+| 669 | Lieberstein, Joshua | [US] | Won 2-0 | vs. | Perkins, Evan | [US] |
+| 670 | Velasco, Oscar | [US] | Won 2-0 | vs. | Cuaresma, Jeff | [US] |
+| 671 | Havens, Caleb | [US] | Won 2-0 | vs. | Wendel, Nathan | [US] |
+| 672 | Zafra, Marcel | [CA] | Won 2-1 | vs. | Cahalan, Liam | [US] |
+| 673 | Wallace, Christopher | [US] | Won 2-1 | vs. | Williams, Luke | [US] |
+| 674 | Bravo, Allan | [PH] | Lost 1-2 | vs. | Poglodzinski, John | [US] |
+| 675 | Reiber, William | [US] | Won 2-0 | vs. | Bridges, Ryan | [US] |
+| 676 | Son, Andrew | [US] | Won 2-0 | vs. | Rowan, Richard | [US] |
+| 677 | McKeown, Charles | [US] | Won 2-1 | vs. | Horspool, Tyler | [US] |
+| 678 | Rosenthal, Eli | [US] | Won 2-1 | vs. | Lee, David | [US] |
+| 679 | Cuillier, Paul | [US] | Won 2-0 | vs. | Ruttle, Wesley | [US] |
+| 680 | Delgado, Irving | [US] | Lost 1-2 | vs. | Van Druten, John | [US] |
+| 681 | Jensen, Jeramie | [US] | Lost 1-2 | vs. | Sands, Justin | [US] |
+| 682 | Perry, Michael | [US] | Lost 0-2 | vs. | Svilich, Erik | [US] |
+| 683 | Nguyen, Joey | [US] | Won 2-0 | vs. | Guo, Michelle | [US] |
+| 684 | Gomez, John | [US] | Lost 0-2 | vs. | Gutierrez Saldate, Luis Fernando | [MX] |
+| 685 | Pfefferle, Noah | [US] | Won 2-0 | vs. | Loy, Connor | [US] |
+| 686 | Rhodes, Isaiah | [US] | Draw 1-1 | vs. | Holloway, Dan | [US] |
+| 687 | Stocker, Graeme | [US] | Won 2-0 | vs. | Lauren, Ty | [US] |
+| 688 | Manabat, Philip | [US] | Lost 1-2 | vs. | Jafari, Keyan | [US] |
+| 689 | Thomas, Kenny | [US] | Lost 1-2 | vs. | Nguyen, Kenny | [US] |
+| 690 | Gonzalez, Gerardo | [US] | Lost 0-2 | vs. | Chavarria, George | [US] |
+| 691 | Straub, Devon | [US] | Won 2-1 | vs. | Dhondup, Yeshi | [US] |
+| 692 | Duggan, Matthew | [US] | Won 2-1 | vs. | Koger, Eric | [US] |
+| 693 | Mathews, Andrew | [US] | Won 2-0 | vs. | Cooper, Cody | [US] |
+| 694 | Hancock, David | [US] | Lost 0-2 | vs. | Dalisa, Conner | [US] |
+| 695 | Ku, David | [US] | Won 2-0 | vs. | Hu, Jonathan | [US] |
+| 696 | Stockdale, Claire | [US] | Lost 0-2 | vs. | Chen, Kevin | [US] |
+| 697 | Yamaguchi, Yoshiki | [JP] | Won 2-0 | vs. | Nollen, Dyan | [US] |
+| 698 | Aust, Michael | [US] | Won 2-1 | vs. | Beg, Zaiem | [US] |
+| 699 | Gates, James | [US] | Lost 0-2 | vs. | Thomason, Joshua | [US] |
+| 700 | Alvarado, Sergio | [US] | Lost 1-2 | vs. | Hosseini, Adrian | [US] |
+| 701 | Feeman, Dylan | [US] | Lost 0-2 | vs. | Abong, Jason | [US] |
+| 702 | Lee, Jonathan | [US] | Lost 1-2 | vs. | Coleman, Philip | [US] |
+| 703 | Lopez, Mason | [US] | Lost 0-2 | vs. | Hampton, Patrick | [US] |
+| 704 | Cohu, Cliff | [US] | Lost 0-2 | vs. | Huteson, Tom | [US] |
+| 705 | Solorio, Erick | [US] | Draw 1-1 | vs. | Cart, Aleczander | [US] |
+| 706 | Gonzales, Will | [US] | Won 2-1 | vs. | Humphries, David | [US] |
+| 707 | Tovar Triano, Cesar Daniel | [MX] | Draw 1-1 | vs. | Tabor, Matthew | [US] |
+| 708 | Garcia, Eduardo | [US] | Won 2-0 | vs. | Griffin, Christian | [US] |
+| 709 | Steiner, Casey | [US] | Won 2-1 | vs. | Watson, Robert | [US] |
+| 710 | Sievert, Nicholas | [US] | Lost 0-2 | vs. | Kovacs, Matthew | [US] |
+| 711 | Sterbenz, Ryan | [US] | Won 2-0 | vs. | Smolev, Siji | [US] |
+| 712 | Brown, Andrew J | [US] | Won 2-0 | vs. | Jackman, Travis | [US] |
+| 713 | Hubbard, John | [US] | Won 2-0 | vs. | Coronel, Ariel | [MX] |
+| 714 | Hoppmeyer, Todd | [US] | Lost 0-2 | vs. | Smadi, Omar | [US] |
+| 715 | Huang, Ryan | [US] | Won 2-1 | vs. | Rosbrugh, Nicholas | [US] |
+| 716 | Gomez, Omar | [US] | Won 2-0 | vs. | Whalen, Matthew | [US] |
+| 717 | Carranza, Nathan | [US] | Lost 0-2 | vs. | Courtney, Tyler | [US] |
+| 718 | Lopez, Andres | [US] | Lost 0-2 | vs. | Hutcherson, Scott | [US] |
+| 719 | Smith, Jared | [US] | Lost 1-2 | vs. | Macias Sarabia, Diego Eduardo | [MX] |
+| 720 | Mason, Alexander | [US] | Lost 1-2 | vs. | Ho, Chad | [US] |
+| 721 | Slawinski, Albert | [US] | Draw 1-1 | vs. | Brock, Joshua | [US] |
+| 722 | Shonk, Chad | [US] | Won 2-1 | vs. | Tolmachoff, Dean | [US] |
+| 723 | Chapman, Mark | [US] | Draw 1-1 | vs. | Zou, Stephen | [US] |
+| 724 | Berardinelli, Andrew | [US] | Won 2-1 | vs. | Eck, Jasmine | [US] |
+| 725 | Fazli, Arman | [US] | Lost 1-2 | vs. | Raxter, Tim | [US] |
+| 726 | Fishman, Wyatt | [US] | Won 2-1 | vs. | Mixon, Eric | [US] |
+| 727 | Gomez, Henry | [US] | Won 2-1 | vs. | Foodym, David | [US] |
+| 728 | Dorn, Weston | [US] | Won 2-1 | vs. | McGee, Mark | [US] |
+| 729 | Evans, Michael | [US] | Lost 0-2 | vs. | Garnica, Nathan | [US] |
+| 730 | Bustios, Anthony | [US] | Won 2-0 | vs. | Martinez, Omar | [US] |
+| 731 | McMullen, Matthew | [US] | Lost 1-2 | vs. | Sohn, Michael | [US] |
+| 732 | McClain, Jon | [US] | Lost 1-2 | vs. | Baumgartner, Wolfgang | [US] |
+| 733 | Ragone, David | [US] | Lost 1-2 | vs. | Duhon, Joshua | [US] |
+| 734 | Gauthier, Taylor | [US] | Won 2-1 | vs. | Trendall, Tim | [US] |
+| 735 | Salama, Joseph | [US] | Lost 1-2 | vs. | Hettrick, Darragh | [US] |
+| 736 | Miller, Simon | [US] | Won 2-0 | vs. | Martinez, Jesse | [US] |
+| 737 | Allen, Philip | [US] | Lost 1-2 | vs. | Johnson, Derek | [US] |
+| 738 | Bitter, Victor | [US] | Won 2-0 | vs. | Anderson, Julian | [US] |
+| 739 | Kunzi, Eric | [US] | Lost 0-2 | vs. | Paul, Rick | [US] |
+| 740 | Calambro, Jezryl | [US] | Lost 0-2 | vs. | Zhao, Steve | [US] |
+| 741 | Delgado-Braun, Nicolas | [US] | Won 2-1 | vs. | McCallum, Daniel | [US] |
+| 742 | Harvey, Spencer | [US] | Lost 1-2 | vs. | Alcala, Sergio | [US] |
+| 743 | Porter, David | [US] | Lost 0-2 | vs. | Freytag, Eric | [US] |
+| 744 | Hsu, Allen | [US] | Lost 0-2 | vs. | Montebello, Nicholas | [US] |
+| 745 | Fountain, Dominic | [US] | Won 2-0 | vs. | Galan, Alexei | [US] |
+| 746 | Clarke, Azolan | [US] | Won 2-1 | vs. | Sands, Ryan | [US] |
+| 747 | Reyes, Josue | [US] | Lost 0-2 | vs. | Staffel, Jon4braves | [US] |
+| 748 | Chadwick, James | [US] | Won 2-0 | vs. | Akers, Christopher | [US] |
+| 749 | Jager, Cody | [US] | Lost 1-2 | vs. | Miller, Brady | [US] |
+| 750 | Fondren, Roger | [US] | Lost 0-2 | vs. | Astorga, Efrain | [MX] |
+| 751 | Pitcher, Brandon | [US] | Won 2-0 | vs. | Stiegler, William | [US] |
+| 752 | Rivera, Robert | [US] | Won 2-0 | vs. | Rocha, Juan-Manuel | [US] |
+| 753 | Samson, Jacob | [US] | Won 2-0 | vs. | Coffelt, Matthew | [US] |
+| 754 | Henderson, Steven | [CA] | Lost 1-2 | vs. | Carlson, Michael | [US] |
+| 755 | Solem, Thomas | [US] | Lost 0-2 | vs. | Dhillon, Jee | [US] |
+| 756 | Young, Kaleb | [US] | Lost 0-2 | vs. | Elliott, Kevin | [US] |
+| 757 | Teniente, Alex | [US] | Lost 0-2 | vs. | Klunpaitoon, Benjamin | [US] |
+| 758 | Dentith, Peter | [US] | Won 2-0 | vs. | Winther, Austin | [US] |
+| 759 | Loukides, Matthew | [US] | Lost 0-2 | vs. | Lindbeck, Danny | [US] |
+| 760 | Abraham, Cassius | [US] | Lost 0-2 | vs. | Wilson, Lee | [US] |
+| 761 | Ehlinger, Reese | [US] | Won 2-1 | vs. | Evanko, Jason | [US] |
+| 762 | Mendoza, Ryan | [US] | Lost 1-2 | vs. | Loskill, Carl | [US] |
+| 763 | Becker, Brett | [US] | Won 2-0 | vs. | Castle, Anthony | [US] |
+| 764 | Argueta, Isaac | [US] | Lost 1-2 | vs. | Calvi, Jack | [US] |
+| 765 | Horwitz, Adam | [US] | Lost 1-2 | vs. | Marchetti, Anthony | [US] |
+| 766 | Gulevich, Aaron | [US] | Won 2-1 | vs. | Hansen, Tanner | [US] |
+| 767 | Tolson, Robert | [US] | Lost 1-2 | vs. | Mousseau, Tyler | [US] |
+| 768 | Bond, Nick | [US] | Lost 1-2 | vs. | Harmon, Matt | [US] |
+| 769 | Lewis, Auston | [US] | Lost 1-2 | vs. | Moreland, William | [US] |
+| 770 | Mahan, Daniel | [US] | Lost 1-2 | vs. | Di Maggio, Matthew | [US] |
+| 771 | Wilson, Robert | [US] | Lost 0-2 | vs. | Leavitt, Evan | [CA] |
+| 772 | Coffey, Oliver | [US] | Won 2-0 | vs. | Gripkey, Christopher | [US] |
+| 773 | Hickey, Bryan | [US] | Won 2-1 | vs. | Dominguez, Caleb | [US] |
+| 774 | Castro, Rick | [US] | Lost 0-2 | vs. | Merejil, Robert | [US] |
+| 775 | Larson, William | [US] | Lost 1-2 | vs. | Conklin, Ryan | [US] |
+| 776 | Lance, John | [US] | Lost 1-2 | vs. | Beyermann, Dylan | [US] |
+| 777 | Norona, Nikolai | [US] | Draw 1-1 | vs. | Nichols, Travis | [US] |
+| 778 | Romo, Marlon | [US] | Won 2-1 | vs. | Clifford, Ben | [US] |
+| 779 | Woods, Jonine | [US] | Lost 1-2 | vs. | Walker, Nicholas | [US] |
+| 780 | Hernandez, Francisco | [MX] | Lost 0-2 | vs. | Black, Theo | [US] |
+| 781 | Kraemer, Geoffrey | [US] | Lost 0-2 | vs. | Burnett, Jonathan | [US] |
+| 782 | Nguyen, Ben | [US] | Lost 0-2 | vs. | Shapiro, Michael | [US] |
+| 783 | Stabiner, Alex | [US] | Lost 1-2 | vs. | Scharlin-Pettee, Hannah | [US] |
+| 784 | Leigh, James | [CA] | Won 2-1 | vs. | DeBoisblanc, Nick | [US] |
+| 785 | Deptola, Travis | [US] | Lost 0-2 | vs. | Aldape Vasquez, Aristoteles Omar | [MX] |
+| 786 | Sonnemaker, Andrew | [US] | Won 2-0 | vs. | Vidrio, Rachel | [US] |
+| 787 | Taracen, Giovanni | [US] | Won 2-1 | vs. | Harris, Donavan | [US] |
+| 788 | Whitson, Tyler | [US] | Won 2-1 | vs. | Brady, Shawn | [US] |
+| 789 | Abraham, George | [US] | Lost 0-2 | vs. | Brophy, Shawn | [US] |
+| 790 | Worthington, Kyle | [US] | Lost 0-2 | vs. | Naff-Rhymer, Charlie | [US] |
+| 791 | Shen, Victor | [US] | Won 2-0 | vs. | Sianez, Angel | [US] |
+| 792 | Vaneyll, Erin | [US] | Lost 1-2 | vs. | Peng, Tianjian | [CN] |
+| 793 | Stephenson, Christopher | [US] | Lost 1-2 | vs. | Smith, Brendan | [CA] |
+| 794 | Keene, Andrew | [US] | Lost 1-2 | vs. | Reardon, Jacob | [US] |
+| 795 | Stabiner, Ben | [US] | Lost 0-2 | vs. | Magdaleno, Mike | [US] |
+| 796 | Chu, Melody | [US] | Lost 1-2 | vs. | Atwell, Hale | [US] |
+| 797 | Cortez, Ralph | [US] | Won 2-1 | vs. | Hirsch, Jason | [US] |
+| 798 | Huey, Athena | [US] | Won 2-1 | vs. | Sherrill, Sean | [US] |
+| 799 | Delaney, Nick | [US] | Lost 0-2 | vs. | Martin-Moore, Nicholas | [US] |
+| 800 | Ahlquist, Chris | [US] | Lost 1-2 | vs. | Sanchez, Rudy | [US] |
+| 801 | Torres, Bruce | [US] | Draw 1-1 | vs. | Jones, Lassen | [US] |
+| 802 | Magana, Edgar | [US] | Won 2-0 | vs. | Beyer, Benjamin | [US] |
+| 803 | Archuleta, Josh | [US] | Won 2-0 | vs. | Reed, Ja | [US] |
+| 804 | Cain, Skyler | [US] | Won 2-1 | vs. | Butler, Torin | [US] |
+| 805 | Wang, Haobo | [US] | Won 2-0 | vs. | Barragan, Miguel | [US] |
+| 806 | Jewett, Dylan | [US] | Won 2-1 | vs. | Renner, Richard | [US] |
+| 807 | Harder, Gideon | [US] | Won 2-0 | vs. | Foster, Tim | [US] |
+| 808 | Henry, Joshua | [US] | Lost 0-2 | vs. | Barton, Cory | [US] |
+| 809 | Nelson, Joshua | [US] | Won 2-0 | vs. | Banaszek, Rory | [US] |
+| 810 | Deichler, Philip | [US] | Lost 1-2 | vs. | Mok, Jason | [US] |
+| 811 | Duke, Mark | [US] | Won 2-1 | vs. | Vargas, Jonathan | [US] |
+| 812 | Moline, Dave | [US] | Lost 0-2 | vs. | Doble, Kyle | [US] |
+| 813 | Udani, Gavin | [US] | Won 2-0 | vs. | Eichenberg, Alan | [US] |
+| 814 | Preston, Zach | [US] | Lost 1-2 | vs. | Martinez, Steven | [US] |
+| 815 | Suzuki, Towa | [JP] | Won 2-1 | vs. | Tharratt, Kevin | [US] |
+| 816 | Herz, Alex | [US] | Lost 1-2 | vs. | Lee, Christopher | [US] |
+| 817 | Juneja, Alexander | [US] | Won 2-1 | vs. | Satterfield, Robbie | [US] |
+| 818 | Heckman, Michael | [US] | Lost 1-2 | vs. | Chow, Harold | [US] |
+| 819 | McGowen, Patrick | [US] | Won 2-1 | vs. | Driscoll, David | [US] |
+| 820 | Lindnder, Dylan | [US] | Lost 1-2 | vs. | Hernandez, Luis | [US] |
+| 821 | Hsu, Aaron | [US] | Lost 0-2 | vs. | Miller, Bryce | [CA] |
+| 822 | Nesterov, Sergei | [US] | Lost 1-2 | vs. | Oesterling, Alex | [US] |
+| 823 | Meng, Alan | [US] | Lost 1-2 | vs. | Curtiss, Peter | [US] |
+| 824 | Lopez, Jeffrey | [US] | Won 2-1 | vs. | Johnson, Matthew | [US] |
+| 825 | Solis Mancilla, Oscar | [US] | Lost 0-2 | vs. | Redfern, Paul Adam | [CA] |
+| 826 | McCartney, Ewan | [US] | Won 2-1 | vs. | Knudsen, Tyrel | [US] |
+| 827 | Douglas, Easton | [US] | Won 2-1 | vs. | Fisher, Jason | [US] |
+| 828 | Wallace, David | [US] | Lost 0-2 | vs. | Palacios, Jesus | [US] |
+| 829 | Evans, Brandon | [US] | Won 2-1 | vs. | Falcis, Carlo | [US] |
+| 830 | Cuellar, Byron | [US] | Won 2-0 | vs. | Price, John | [US] |
+| 831 | Necci, Lucca | [US] | Lost 1-2 | vs. | Salaz, Brandon | [US] |
+| 832 | Tan, Franche | [US] | Won 2-1 | vs. | Crawford, Wilson | [US] |
+| 833 | Shurman, Mason | [US] | Lost 0-2 | vs. | Ghouth, Yusef | [US] |
+| 834 | Cortez Murillo, Benjamin | [US] | Won 2-0 | vs. | Mejia, Antonio | [US] |
+| 835 | Escalante, Fernando | [US] | Lost 0-2 | vs. | Marling, Alan | [US] |
+| 836 | Taute, Keanan | [US] | Won 2-0 | vs. | Himelberg, Robert | [US] |
+| 837 | Muldoon, Jesse | [US] | Lost 0-2 | vs. | Demby, Terrence | [US] |
+| 838 | Zuniga, Geoff | [US] | Won 2-0 | vs. | Smith, Tyler | [US] |
+| 839 | Galvez, David | [US] | Lost 1-2 | vs. | Kutcher, Aidan | [US] |
+| 840 | Monroe, Josh | [US] | Won 2-0 | vs. | Zoukas, Phillip | [US] |
+| 841 | Darby, Kevin | [US] | Lost 1-2 | vs. | Altamirano, Nick | [US] |
+| 842 | Fisher, Wilson | [US] | Won 2-0 | vs. | Skonnord, Ryan | [US] |
+| 843 | Han, Chang | [US] | Lost 0-2 | vs. | Aragon, Joseph | [US] |
+| 844 | Busbee, Brandon | [US] | Won 2-0 | vs. | Montville, Kenneth | [US] |
+| 845 | Navarro, Michael | [US] | Lost 0-2 | vs. | Burtle, Robert | [US] |
+| 846 | Roen, Travis | [US] | Lost 0-2 | vs. | Frias, Danny | [US] |
+| 847 | Vuittonet, Rene | [US] | Draw 1-1 | vs. | Frazier, Gene | [US] |
+| 848 | Leboki, Taylor | [US] | Won 2-0 | vs. | Ford, Spencer | [US] |
+| 849 | Nguyen, Patrick | [US] | Won 2-0 | vs. | Hittle, Tyler | [US] |
+| 850 | DelPizzo, Paul | [US] | Lost 0-2 | vs. | Nichols, Walter | [US] |
+| 851 | Depue, Christopher | [US] | Won 2-0 | vs. | Pounds, Willie | [US] |
+| 852 | Lopez Aranda, Manuel | [US] | Won 2-1 | vs. | Scholz, Mark | [US] |
+| 853 | King, Sean | [CA] | Lost 0-2 | vs. | Horn, Lee | [US] |
+| 854 | Morales, Shane | [US] | Lost 0-2 | vs. | Raney, Tom | [US] |
+| 855 | Abel, Gary | [US] | Won 2-1 | vs. | Dinnis, Nik | [US] |
+| 856 | Tucker, Colter | [US] | Lost 0-2 | vs. | Pressas, William | [US] |
+| 857 | Bowles, Nicholas | [US] | Won 2-1 | vs. | Wong, Tiffany | [US] |
+| 858 | Copeland, Michael | [US] | Lost 0-2 | vs. | Hesse, Timothy | [US] |
+| 859 | Beam, Matthew | [US] | Lost 1-2 | vs. | Gaccetta, Domonic | [US] |
+| 860 | Johnson, Dylan | [US] | Lost 0-2 | vs. | Haker, Steven | [US] |
+| 861 | Bosarreyes, Jason | [US] | Lost 1-2 | vs. | Rudiger, Andrew | [US] |
+| 862 | Rose, Krystal | [US] | Won 2-1 | vs. | Sandoval, Wagner | [US] |
+| 863 | Rudiger, Courtney | [US] | Lost 1-2 | vs. | Lonergan, Kevin | [US] |
+| 864 | Gibbons, Jonas | [US] | Lost 1-2 | vs. | Pfannkuch, Chris | [US] |
+| 865 | Williams, Joshua | [US] | Won 2-1 | vs. | Murphy, Joshua | [US] |
+| 866 | Milway, Brendan | [US] | Lost 0-2 | vs. | Smiley, Durand | [US] |
+| 867 | Williams, Jacob | [US] | Lost 0-2 | vs. | Wolk, Zachary | [US] |
+| 868 | Abad, Justin | [US] | Lost 0-2 | vs. | Mushkatin, Konstantin | [US] |
+| 869 | Sterling Jr, Christopher | [US] | Won 2-0 | vs. | Johnson, Richard | [US] |
+| 870 | Alfano-Smith, Max | [US] | Lost 0-2 | vs. | Romero, Joseph | [US] |
+| 871 | Lane, Stephen | [US] | Won 2-1 | vs. | Collins, Jarod | [US] |
+| 872 | Cruz, Jorge | [US] | Lost 1-2 | vs. | Brewe, Garth | [US] |
+| 873 | Martinez, Josh | [US] | Lost 1-2 | vs. | Kutcher, Ben | [US] |
+| 874 | Valencia, Omar | [US] | Won 2-1 | vs. | McCarthy, Niall | [US] |
+| 875 | Quesada, Victor | [US] | Lost 0-2 | vs. | Riley, Jacob | [US] |
+| 876 | Jackson, Khalib | [US] | Lost 0-2 | vs. | Comella, Terrence | [US] |
+| 877 | Ratliff, Graham | [US] | Lost 1-2 | vs. | Diehl, Lauren | [US] |
+| 878 | Nguyen, Tiffany | [US] | Lost 1-2 | vs. | Moon, Tevon | [US] |
+| 879 | Girard, Vincent | [US] | Won 2-1 | vs. | Hughes, Robert | [US] |
+| 880 | Covington, Kyle | [US] | Won 2-1 | vs. | Burrows, Lee | [US] |
+| 881 | Murphy, Ryan | [US] | Won 2-0 | vs. | Penney, Joseph | [US] |
+| 882 | Aoigan, Arthur | [US] | Lost 0-2 | vs. | Halvorson, Sven | [US] |
+| 883 | Ayala, Albert | [US] | Won 2-0 | vs. | Liang, Zhi | [US] |
+| 884 | Vergilio, Adam | [US] | Lost 0-2 | vs. | Zickler, Andrew | [US] |
+| 885 | Escalante, Art | [US] | Lost 0-2 | vs. | Ezroj, Aaron | [US] |
+| 886 | Macdonald, Quinton | [US] | Lost 0-2 | vs. | Lamb, Michael | [US] |
+| 887 | Lizama, Carlos | [CL] | Won 2-1 | vs. | Werner, Jesse | [US] |
+| 888 | Carpenter, Clint | [US] | Won 2-1 | vs. | Summerlin, Aubrey | [US] |
+| 889 | Crowle, Tomas | [US] | Won 2-0 | vs. | Wagner, Clayton | [US] |
+| 890 | Donovan, William | [US] | Won 2-1 | vs. | Zhang, Jiasong | [US] |
+| 891 | Berry, Josh | [US] | Lost 0-2 | vs. | Carroll, Brandon | [US] |
+| 892 | Kalbus, Kurt | [US] | Lost 1-2 | vs. | Taylor, Christopher | [US] |
+| 893 | Bennett, Stephen | [US] | Won 2-0 | vs. | Penrod, Shaun | [US] |
+| 894 | Rizzonelli, Garrett | [US] | Lost 0-2 | vs. | Chu, Michael | [US] |
+| 895 | Lehrhoff, Andrew | [US] | Lost 1-2 | vs. | Salveson, Eric | [US] |
+| 896 | Everly, Jaden | [US] | Lost 0-2 | vs. | Greaves, Kristofer | [CA] |
+| 897 | Beechko, Alexander | [US] | Won 2-0 | vs. | Tran, Sheryl | [US] |
+| 898 | Peterson, Thomas | [US] | Lost 0-2 | vs. | Ball, Cody | [US] |
+| 899 | Thomas, Caden | [US] | Won 2-0 | vs. | Alonzo, Fabian | [US] |
+| 900 | Sundoen, Tomas | [US] | Lost 0-2 | vs. | Dillon, Rax | [US] |
+| 901 | Burke, William | [US] | Lost 1-2 | vs. | Loudermilk, Garner | [US] |
+| 902 | Henry, Patrick | [US] | Won 2-0 | vs. | Recinto, Mark | [US] |
+| 903 | Grey, Douglas | [US] | Lost 1-2 | vs. | Sonderland, Daniel | [US] |
+| 904 | Lerdal, Henry | [US] | Lost 1-2 | vs. | Doi, Derek | [US] |
+| 905 | Olsen, Tyler | [US] | Lost 0-2 | vs. | Morales, Andrew | [US] |
+| 906 | Barrera, Ricardo | [US] | Lost 1-2 | vs. | Niren, Gary | [US] |
+| 907 | Blessum, Jonathan | [US] | Won 2-1 | vs. | Bent, Tom | [US] |
+| 908 | Kersten-Hellikson, Roy | [US] | Lost 1-2 | vs. | Ryberg, Kevin | [US] |
+| 909 | Samuels, Matt | [US] | Lost 0-2 | vs. | Conley, Garrett | [US] |
+| 910 | Hornberg, John | [US] | Won 2-1 | vs. | Ng, Denix | [US] |
+| 911 | Flor Flores, Jaime | [EC] | Won 2-0 | vs. | Davies, Michael | [US] |
+| 912 | Bryant, Cristopher | [US] | Lost 0-2 | vs. | Ostwalt, Levi | [US] |
+| 913 | Anaya, Matthew | [US] | Won 2-0 | vs. | Batangan, Melcher | [US] |
+| 914 | Yu, Puyan | [US] | Won 2-1 | vs. | Deremer, Andrew | [US] |
+| 915 | Ketterling, Austin | [US] | Lost 0-2 | vs. | Watson, Nephi | [US] |
+| 916 | Gonzales, Gilbert | [US] | Won 2-1 | vs. | Lee, Andrew | [US] |
+| 917 | Truong, Kevin | [US] | Lost 0-2 | vs. | Felger, Scott | [US] |
+| 918 | Dougherty, Daniel | [US] | Won 1-0 | vs. | Rodriguez, Amanda | [US] |
+| 919 | Ignizio, Richard | [US] | Won 2-0 | vs. | Norman, Evan | [US] |
+| 920 | Kim, Joshua | [US] | Draw 1-1 | vs. | Garcia-Mason, Gregory | [US] |
+| 921 | Yamasaki, Youki | [US] | Lost 0-2 | vs. | Lynes, Michael | [US] |
+| 922 | Parco, Justin | [US] | Won 1-0 | vs. | Ige, Andrew | [US] |
+| 923 | Walsh, Devin | [US] | Lost 0-2 | vs. | Chhauy, Chamrong | [US] |
+| 924 | Alcantara, Charles | [US] | Lost 1-2 | vs. | Tai, Ben | [US] |
+| 925 | Mellor, Charlie | [US] | Won 2-0 | vs. | Clarey, Mike | [US] |
+| 926 | Lopez, Ben | [US] | Lost 0-2 | vs. | Vanderwege, Travis | [US] |
+| 927 | Galvez-Arango, Cardy | [US] | Lost 0-2 | vs. | McMillan, Shelly | [US] |
+| 928 | Becker, Eric | [US] | Won 2-0 | vs. | Ovsepyan, Garen | [US] |
+| 929 | Farnsworth, Paul | [US] | Lost 1-2 | vs. | Ambrose, Joshua | [US] |
+| 930 | Bougie, Scott | [US] | Lost 1-2 | vs. | Najam, Imran | [US] |
+| 931 | Salyers, Christopher | [US] | Won 2-1 | vs. | Risser, Ethan | [US] |
+| 932 | Villalobos, Benjamin | [US] | Lost 1-2 | vs. | Moore, Josh | [US] |
+| 933 | Ross, Benjamin | [US] | Won 2-1 | vs. | Carreon Rodriguez, Leopoldo Adrian | [US] |
+| 934 | Bahrke, Cody | [US] | Lost 1-2 | vs. | Delgado, Christopher | [US] |
+| 935 | Vannaken, Rene | [US] | Won 2-0 | vs. | Wickman, Roman | [US] |
+| 936 | Thorolfsson, Thorlindur | [US] | Won 2-0 | vs. | Zhang, Bryan | [US] |
+| 937 | Lee, Derrick | [US] | Lost 0-2 | vs. | Ford, Alexander | [US] |
+| 938 | McClain, Johnathan | [US] | Lost 1-2 | vs. | Harduvel, John | [US] |
+| 939 | Chen, Allen | [US] | Draw 1-1 | vs. | Bardelline, Jonathan | [US] |
+| 940 | Torres, Luis | [US] | Won 2-1 | vs. | Chelf, Ben | [US] |
+| 941 | Longhi, Fabricio | [AR] | Lost 1-2 | vs. | Wolf, Howard | [US] |
+| 942 | Conti, Scott | [US] | Won 2-0 | vs. | Von Visger, Jesse | [US] |
+| 943 | Fan, Jitao | [US] | Lost 0-2 | vs. | Heckman, Christopher | [US] |
+| 944 | Casanova, Hector | [CL] | Lost 1-2 | vs. | Spicer, Richard | [US] |
+| 945 | Nguyen, David | [US] | Won 2-0 | vs. | Miller, Nicholas | [US] |
+| 946 | Cooc, Sol | [US] | Lost 1-2 | vs. | Young, Christopher | [US] |
+| 947 | Quiroz, Gabriel | [US] | Lost 0-2 | vs. | Ball, Justin | [US] |
+| 948 | Portillo, Erik | [US] | Won 2-1 | vs. | Rodriguez, Sergio | [US] |
+| 949 | Pangelinan, Robert | [US] | Won 2-1 | vs. | Wood, Alex | [US] |
+| 950 | Van Hecke, Jeremy | [US] | Lost 0-2 | vs. | Shotts, Kevin | [US] |
+| 951 | Pomerico, Daniel | [US] | Won 2-0 | vs. | Sawhill, Eric | [US] |
+| 952 | Oleinik, Timothy | [US] | Won 2-0 | vs. | Hirshowitz, Leo | [US] |
+| 953 | Arcilla, Kevin | [US] | Lost 1-2 | vs. | Yang, Jay | [US] |
+| 954 | Fontaine, Andrew | [US] | Lost 0-2 | vs. | Obermeyer, Kevin | [US] |
+| 955 | Fuentes, Joshua | [US] | Lost 0-2 | vs. | Kirchberg, Matt | [US] |
+| 956 | Ready, Troy | [US] | Won 2-1 | vs. | Dooley, Kevin | [US] |
+| 957 | Burrows, Lance | [US] | Lost 1-2 | vs. | Hennessey, Jeremy | [US] |
+| 958 | Laughton, Don | [US] | Won 2-0 | vs. | Chambers, Christopher | [US] |
+| 959 | Grimes, Kyle | [US] | Lost 1-2 | vs. | Marin, Isaac | [US] |
+| 960 | Torres, Angelo | [US] | Won 2-0 | vs. | Menzies, Jason | [US] |
+| 961 | Beck, Josh | [US] | Won 2-1 | vs. | Cota, Valerie | [US] |
+| 962 | Tran, Sydney | [US] | Lost 1-2 | vs. | McIntosh, Justin | [US] |
+| 963 | Euribe, Julio | [US] | Won 2-1 | vs. | Jaco, Steven | [US] |
+| 964 | Bachicha, Lane | [US] | Lost 0-2 | vs. | Rowe, John | [US] |
+| 965 | Junk, Benedikt | [DE] | Won 2-1 | vs. | Soriano, John | [US] |
+| 966 | Candelario, Derek | [US] | Lost 0-2 | vs. | Uy, Seyhak | [US] |
+| 967 | Cook, Glenn | [US] | Won 2-1 | vs. | Kobel, Brian | [US] |
+| 968 | Beyea, Sam | [US] | Won 2-1 | vs. | Wiberg, Roger | [US] |
+| 969 | Meckel, Kenneth | [US] | Lost 1-2 | vs. | Chang, Michael | [US] |
+| 970 | Placio, Jonnel | [US] | Lost 0-2 | vs. | Lopez, Andres J | [US] |
+| 971 | Amezcua, Alfredo | [US] | Lost 0-2 | vs. | Chau, Timothy | [US] |
+| 972 | Walsh, Casey | [US] | Won 2-1 | vs. | Pepo, Michael | [US] |
+| 973 | Felix, Elijah | [US] | Lost 1-2 | vs. | Ramirez, Alexander | [US] |
+| 974 | Hoffman, Larry | [US] | Lost 1-2 | vs. | Barnum, Christopher | [US] |
+| 975 | Thorpe, David | [US] | Won 2-1 | vs. | Bird, Jonathan | [US] |
+| 976 | Carlson, Drew | [US] | Won 2-1 | vs. | Li, Scott | [US] |
+| 977 | Hawkinson, Ernie | [US] | Won 2-0 | vs. | Jacobsmeyer, Jimmy | [US] |
+| 978 | Warden, Michael | [US] | Lost 0-2 | vs. | Schoennauer, Elijah | [US] |
+| 979 | Smith, Jamie | [US] | Lost 1-2 | vs. | Crooks, Louis | [US] |
+| 980 | Liu, Liming | [US] | Won 2-1 | vs. | Fourmyle, Reggie | [US] |
+| 981 | Paquette, Joshua | [CA] | Won 2-0 | vs. | Wang, Hang | [US] |
+| 982 | Herbosa, Luis | [US] | Won 2-1 | vs. | Bannan, James | [US] |
+| 983 | Eggleston, Brian | [US] | Won 2-0 | vs. | Djiguerian, Aram | [US] |
+| 984 | Walterman, Austin | [US] | Won 2-0 | vs. | Aguilar, Vanessa | [US] |
+| 985 | Lehman, Brian | [US] | Lost 1-2 | vs. | Hammond, Timothy | [US] |
+| 986 | Smalling, Elisha | [US] | Lost 1-2 | vs. | Manzo, Joseph | [US] |
+| 987 | Barash, Michael | [US] | Lost 1-2 | vs. | Hildebrandt, Shannon | [US] |
+| 988 | Mitchell, Sarah | [US] | Won 2-1 | vs. | Lindenbaum, Alex | [US] |
+| 989 | Mohr, Benjamin | [US] | Won 2-1 | vs. | Barrera, Thor | [US] |
+| 990 | Murphy, Austin | [US] | Won 2-1 | vs. | Maurus, Zach | [US] |
+| 991 | Shubin, Max | [US] | Won 2-1 | vs. | Reilly, Madison | [US] |
+| 992 | Smith, Brian | [US] | Lost 0-2 | vs. | McKinney, Mathew | [US] |
+| 993 | Ayler, Mitchell | [US] | Lost 0-2 | vs. | Adderson, Russell | [US] |
+| 994 | Petronzio, Nicolas | [CA] | Won 2-0 | vs. | Harris, Kylie | [US] |
+| 995 | White, Roxanna | [US] | Lost 0-2 | vs. | Kenney, Jon-Luke | [US] |
+| 996 | Anderson, Craig | [US] | Won 2-0 | vs. | Karchut, James | [US] |
+| 997 | Wittrock, Nolan | [US] | Won 1-0 | vs. | Hayes, Roy | [US] |
+| 998 | Gonzalez, Gabriel | [US] | Won 2-1 | vs. | O'Donnell, Kolbe | [US] |
+| 999 | Righettini, Tim | [US] | Lost 0-2 | vs. | Chadwick, Richard | [US] |
+| 1000 | Chan, Wayland | [US] | Won 2-1 | vs. | Bui, Michael | [US] |
+| 1001 | Dickinson, Sean | [US] | Lost 0-2 | vs. | Vittorio, Frank | [US] |
+| 1002 | Baier, Connor | [US] | Lost 0-2 | vs. | Mendoza, Gerardo | [US] |
+| 1003 | Araneta, Paolo | [US] | Lost 1-2 | vs. | Irvin, Michael | [US] |
+| 1004 | Podschweit, Jason | [US] | Won 2-0 | vs. | Dewey, William | [US] |
+| 1005 | King, Kevin | [US] | Won 2-1 | vs. | Stahl, Jason | [US] |
+| 1006 | Nelson, Eric | [US] | Won 2-1 | vs. | Martinez, Adrian | [US] |
+| 1007 | Slonsky, Peter | [US] | Draw 1-1 | vs. | Wright, Daniel | [US] |
+| 1008 | Ruloph, Jerelle | [US] | Draw 1-1 | vs. | Nguyen, Peter | [US] |
+| 1009 | Whitcomb, James | [US] | Lost 0-2 | vs. | Kilgore, Jensen | [US] |
+| 1010 | Guerra, Matthew | [US] | Won 2-1 | vs. | Perez, Alan | [US] |
+| 1011 | Ballaris, Edward | [US] | Won 2-1 | vs. | Guadagnolo, Carlie | [US] |
+| 1012 | Sharfman, Roman | [US] | Lost 0-2 | vs. | Kyotani, Jason | [US] |
+| 1013 | Thurn, Derek | [US] | Won 2-0 | vs. | Tzorfas, Justin | [US] |
+| 1014 | Edwards, Matthew | [US] | Draw 1-1 | vs. | Regidor, Jose | [US] |
+| 1015 | Beardsley, Sean | [US] | Lost 1-2 | vs. | Alexander, Glen | [US] |
+| 1016 | Cutlip, Austin | [US] | Lost 1-2 | vs. | Lung, Eddie | [US] |
+| 1017 | Nicely, Cody | [US] | Won 2-0 | vs. | Carson, Colton | [US] |
+| 1018 | Miller, Erik | [US] | Lost 0-2 | vs. | Nelson, Christian | [US] |
+| 1019 | Pepper, Lindsay | [US] | Won 2-0 | vs. | Whitaker, Chad | [US] |
+| 1020 | Allen, James | [US] | Lost 0-2 | vs. | Gray, David | [US] |
+| 1021 | Lindauer, Will | [US] | Won 2-0 | vs. | Barnett, Walker | [US] |
+| 1022 | Lee, Tyler | [US] | Won 2-1 | vs. | Thrasher, Winston | [US] |
+| 1023 | Jones, Brock | [US] | Won 2-1 | vs. | Botelho, David | [US] |
+| 1024 | Cicconi, Michael | [US] | Lost 0-2 | vs. | Yue, Jen | [US] |
+| 1025 | Lopez, Erik | [US] | Lost 1-2 | vs. | Oguma, Rory | [US] |
+| 1026 | Putney, Allen | [US] | Lost 0-2 | vs. | Keller, Alexander | [US] |
+| 1027 | Cameron, Joshua | [US] | Lost 0-2 | vs. | Galindo, Anthony | [US] |
+| 1028 | Matsuzaki, Todd | [US] | Lost 0-2 | vs. | McCulley, Lance | [US] |
+| 1029 | Newman, Chelsea | [US] | Won 2-0 | vs. | Simon, Gregory | [US] |
+| 1030 | Garsten, Niall | [US] | Won 2-1 | vs. | Bullick, Kathleen | [US] |
+| 1031 | Flath, Nathaniel | [US] | Won 2-0 | vs. | Adelstein, Matthew | [US] |
+| 1032 | Perser, Sean | [US] | Lost 1-2 | vs. | Frederick, Ian | [US] |
+| 1033 | Lav, Marvin | [US] | Draw 1-1 | vs. | Eusebio, Armin | [US] |
+| 1034 | Alarcon, Carlos | [US] | Won 2-0 | vs. | Amezcua, Emily | [US] |
+| 1035 | Custodio, Anthony | [US] | Lost 0-2 | vs. | Stormoen, Steve | [US] |
+| 1036 | Russell, Brandon | [US] | Lost 1-2 | vs. | Edwards, Mark | [US] |
+| 1037 | Hilbert, Jeffrey | [US] | Lost 0-2 | vs. | Marohl, Nate | [US] |
+| 1038 | Richmond, Ryan | [US] | Won 2-0 | vs. | Fisher, Matthew | [US] |
+| 1039 | Latimer, Steven | [US] | Won 2-0 | vs. | Mertan, Brian | [US] |
+| 1040 | Warudkar, Samir | [US] | Won 2-0 | vs. | Galarza, Christian | [US] |
+| 1041 | Nelson, Benjamin | [US] | Won 2-0 | vs. | Berumen, Adolfo | [US] |
+| 1042 | Lawrance, Timothy | [ZA] | Lost 1-2 | vs. | Baker, Robert | [US] |
+| 1043 | Sallume, Devon | [US] | Lost 1-2 | vs. | Macdonald, Kyle | [US] |
+| 1044 | Moreno, Martin | [US] | Won 2-0 | vs. | Soria, Jorge | [US] |
+| 1045 | Shah-Jones, Hugo | [US] | Won 2-0 | vs. | Dingman, Scott | [US] |
+| 1046 | Nguyen, Rowan | [US] | Lost 0-2 | vs. | Rosales, Ernesto | [US] |
+| 1047 | Aker, Zachery | [US] | Lost 0-2 | vs. | Frederick, Nathan | [US] |
+| 1048 | Tadeo, Carlos | [US] | Lost 1-2 | vs. | Sherwood, Craig | [US] |
+| 1049 | Neumann, Spencer | [US] | Won 2-0 | vs. | Braid, Travia | [US] |
+| 1050 | Nguyen, Andy | [US] | Lost 0-2 | vs. | Betts, Jeremy | [US] |
+| 1051 | Taylor, Andrew | [US] | Won 2-1 | vs. | Beardsley, Ted | [US] |
+| 1052 | Oesterling, Scott | [US] | Lost 1-2 | vs. | Buquid, Raymund | [US] |
+| 1053 | Prado, Bladimir | [US] | Won 2-0 | vs. | Stump, Justin | [US] |
+| 1054 | Ocampo, Jesse | [US] | Won 2-0 | vs. | Price, Steven | [US] |
+| 1055 | Bardeen, Owen | [US] | Lost 1-2 | vs. | Savinelli, K. J. | [US] |
+| 1056 | Price, Jeffrey | [US] | Won 2-0 | vs. | Moranville, Timothy | [US] |
+| 1057 | Challacomb, Keenan | [US] | Lost 0-2 | vs. | Neumann, Thomas | [US] |
+| 1058 | Jacques, Michael | [US] | Lost 0-2 | vs. | Wright, Thomas | [US] |
+| 1059 | Diaz, Reubhen | [US] | Lost 0-2 | vs. | Tan, Rowena | [PH] |
+| 1060 | Edwards, Mason | [US] | Lost 1-2 | vs. | Lee, John | [US] |
+| 1061 | Cameron, Colby | [US] | Won 2-0 | vs. | Wallace, Paul | [US] |
+| 1062 | Moranville, Alicia | [US] | Lost 1-2 | vs. | Cornwell, River | [US] |
+| 1063 | Rolon, Joshua | [US] | Lost 1-2 | vs. | Chadwick, Dennis | [US] |
+| 1064 | Elison, Kelly | [US] | Lost 0-2 | vs. | Bailey, Michael | [US] |
+| 1065 | Le, Steven | [US] | Won 2-0 | vs. | Turner, Max | [US] |
+| 1066 | Nguyen, Chris | [US] | Won 2-0 | vs. | Smith, Richard | [US] |
+| 1067 | Palmer, Charles | [US] | Lost 1-2 | vs. | Gee, Steven | [US] |
+| 1068 | Farnsworth, Adam | [US] | Lost 0-2 | vs. | Hibbetts, Dylan | [US] |
+| 1069 | Pierce, Charles | [US] | Won 2-0 | vs. | Ramirios, Johnny | [US] |
+
+
+
+
+
+
+

@@ -1,16 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210429092600/https://magic.wizards.com/en/articles/archive/feature/biggest-deck-tournament-2000-01-01)
+[Link to Wayback Machine](https://web.archive.org/web/20170615175348/http://magic.wizards.com/en/articles/archive/feature/biggest-deck-tournament-2000-01-01)
 
-[_metadata_:description]:- "Rui Oliveira The deck, and player, that are the talk of the tournament The last thing you expect from a player who earned his three byes through ranking is to bring a wacky deck to an Extended tournament. Well, Paulo Rosa did just that. When he approached the Head Judge to find out how he could register a deck with more than two hundred cards in the tiny registration sheet the"
+[_metadata_:description]:- "Rui Oliveira"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "959246"
 [_metadata_:publish_date]:- "2000-01-01"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Biggest Deck in the Tournament"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 09:26:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429092600id_/https://magic.wizards.com/en/articles/archive/feature/biggest-deck-tournament-2000-01-01"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/biggest-deck-tournament-2000-01-01"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-15 17:53:48"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170615175348id_/http://magic.wizards.com/en/articles/archive/feature/biggest-deck-tournament-2000-01-01"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/biggest-deck-tournament-2000-01-01"
 ---
 
 
@@ -48,7 +48,6 @@ Here is the deck list (and yes, I can't believe I typed this in either):
 
 
 
-
 #### Paulo Rosa
 
 
@@ -60,9 +59,7 @@ Here is the deck list (and yes, I can't believe I typed this in either):
 
 
 
-![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
 ![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
-
 
 
 
@@ -933,7 +930,7 @@ COP: Green
 
 
 
-##### Common (121)
+##### Common (120)
 
 
 
@@ -966,11 +963,19 @@ Grassland
 
 
 4
+[Opt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOpt%5D)
+
+
+4
 [Accumulated Knowledge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAccumulated%5D+%5BKnowledge%5D)
 
 
 4
 Heroes Reunion
+
+
+4
+[Merchant Scroll](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMerchant%5D+%5BScroll%5D)
 
 
 4
@@ -986,15 +991,11 @@ COP: Red
 
 
 4
-[Forbid](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForbid%5D)
-
-
-4
 [Brainstorm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrainstorm%5D)
 
 
-4
-[Wrath of God](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWrath%5D+%5Bof%5D+%5BGod%5D)
+3
+[Dismantling Blow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDismantling%5D+%5BBlow%5D)
 
 
 4
@@ -1003,10 +1004,6 @@ COP: Red
 
 4
 [Sleight of Hand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSleight%5D+%5Bof%5D+%5BHand%5D)
-
-
-4
-[Force of Will](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BWill%5D)
 
 
 4
@@ -1034,7 +1031,7 @@ COP: Green
 
 
 
-##### Uncommon (51)
+##### Uncommon (48)
 
 
 
@@ -1051,15 +1048,11 @@ COP: Green
 
 
 4
-[Opt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOpt%5D)
+[Swords to Plowshares](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwords%5D+%5Bto%5D+%5BPlowshares%5D)
 
 
 4
 [Enlightened Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnlightened%5D+%5BTutor%5D)
-
-
-4
-[Merchant Scroll](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMerchant%5D+%5BScroll%5D)
 
 
 3
@@ -1075,11 +1068,11 @@ COP: Green
 
 
 4
+[Counterspell](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCounterspell%5D)
+
+
+4
 [Fact or Fiction](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D)
-
-
-3
-[Dismantling Blow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDismantling%5D+%5BBlow%5D)
 
 
 4
@@ -1151,10 +1144,6 @@ COP: Green
 [Academy Rector](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAcademy%5D+%5BRector%5D)
 
 
-4
-[Swords to Plowshares](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwords%5D+%5Bto%5D+%5BPlowshares%5D)
-
-
 1
 [Sacred Ground](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSacred%5D+%5BGround%5D)
 
@@ -1172,11 +1161,11 @@ COP: Green
 
 
 4
-[Tithe](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTithe%5D)
+[Forbid](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForbid%5D)
 
 
 4
-[Counterspell](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCounterspell%5D)
+[Tithe](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTithe%5D)
 
 
 4
@@ -1204,6 +1193,10 @@ COP: Green
 
 
 4
+[Force of Will](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BWill%5D)
+
+
+4
 [Abeyance](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbeyance%5D)
 
 
@@ -1216,12 +1209,16 @@ COP: Green
 
 
 
-##### Mythic (5)
+##### Mythic (9)
 
 
 
 1
 [Morphling](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMorphling%5D)
+
+
+4
+[Wrath of God](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWrath%5D+%5Bof%5D+%5BGod%5D)
 
 
 4

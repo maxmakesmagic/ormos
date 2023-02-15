@@ -62,17 +62,17 @@ Resoundingly.
 The call for heroes has gone out. Will you join Elspeth and travel to Nyx? Will you, this weekend, Forge a Godslayer to kill a god?
 
 
-[![](https://web.archive.org/web/20150920005428im_/http://archive.wizards.com/mtg/images/JOU_Menu-Button-Static.jpg)](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/feature/296#experience)
+[![](https://media.wizards.com/legacy/mtg/images/jou_menu-button-static.jpg)](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/feature/296#experience)
 ### [The Prerelease Experience](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/feature/296#experience)
 
 
 
-[![](https://web.archive.org/web/20150920005428im_/http://archive.wizards.com/mtg/images/JOU_Menu-Button-Static.jpg)](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/feature/296#path)
+[![](https://media.wizards.com/legacy/mtg/images/jou_menu-button-static.jpg)](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/feature/296#path)
 ### [The Hero's Path](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/feature/296#path)
 
 
 
-[![](https://web.archive.org/web/20150920005428im_/http://archive.wizards.com/mtg/images/JOU_Menu-Button-Static.jpg)](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/feature/296#mechanics)
+[![](https://media.wizards.com/legacy/mtg/images/jou_menu-button-static.jpg)](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/feature/296#mechanics)
 ### [*Journey into Nyx* Mechanics](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/feature/296#mechanics)
 
 

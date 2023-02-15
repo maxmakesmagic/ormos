@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20201108125834/https://magic.wizards.com/en/articles/archive/feature/announcing-drive-work-box-set-2015-04-01)
+[Link to Wayback Machine](https://web.archive.org/web/20160329203206/http://magic.wizards.com/en/articles/archive/feature/announcing-drive-work-box-set-2015-04-01)
 
 [_metadata_:author]:- "Marcus Rosewaterus"
 [_metadata_:description]:- "Over 100 hours of Rosewater! Including a Special Bonus created exclusively for The Box Set!"
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2015-04-01"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Announcing Drive to Work: The Box Set"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-08 12:58:34"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201108125834id_/https://magic.wizards.com/en/articles/archive/feature/announcing-drive-work-box-set-2015-04-01"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/announcing-drive-work-box-set-2015-04-01"
+[_metadata_:wayback_capture_timestamp]:- "2016-03-29 20:32:06"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160329203206id_/http://magic.wizards.com/en/articles/archive/feature/announcing-drive-work-box-set-2015-04-01"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/announcing-drive-work-box-set-2015-04-01"
 ---
 
 

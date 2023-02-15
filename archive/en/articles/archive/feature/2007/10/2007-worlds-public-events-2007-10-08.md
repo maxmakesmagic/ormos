@@ -1,17 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20211026223715/https://magic.wizards.com/en/articles/archive/feature/2007-worlds-public-events-2007-10-08)
+[Link to Wayback Machine](https://web.archive.org/web/20170812044213/http://magic.wizards.com/en/articles/archive/feature/2007-worlds-public-events-2007-10-08)
 
 [_metadata_:author]:- "Wizards of the Coast"
-[_metadata_:description]:- "Daily Events (Thursday – Sunday) Photo courtesy Toyota of ManhattanWin a Car!!All events marked with the word Vroom! are qualifying events for the `Win a Car` tournament held on Sunday Morning at 9am. Individual events qualify the top 2 players, 2HG events qualify the top 2 teams (4 players each total)."
+[_metadata_:description]:- "Daily Events (Thursday – Sunday) Photo courtesy Toyota of ManhattanWin a Car!!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "732256"
 [_metadata_:publish_date]:- "2007-10-08"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2007 Worlds Public Events"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-26 22:37:15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026223715id_/https://magic.wizards.com/en/articles/archive/feature/2007-worlds-public-events-2007-10-08"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2007-worlds-public-events-2007-10-08"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-12 04:42:13"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170812044213id_/http://magic.wizards.com/en/articles/archive/feature/2007-worlds-public-events-2007-10-08"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/2007-worlds-public-events-2007-10-08"
 ---
 
 
@@ -28,7 +28,7 @@
 
 
 
-![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
 By Wizards of the Coast
 
 
@@ -103,7 +103,7 @@ Registration opens 1 hour before the scheduled start time and closes 15 minutes 
 | 9:00am | $10 | **"Generic" Grand Prix Trial – Standard Constructed**Swiss +1 Tournament. No Single Elimination finals. Prizes based on final standings after Swiss + 1 Rounds.Winner receives a 3-round bye at any future Grand Prix prior to July 1, 2008, winner also receives 2 boxes of current product, 2nd receives 1 box, remaining prizes are current set boosters. |
 | 11:00am | $40 | **Zune 2HG – 2HG Lorwyn Sealed – *Vroom!***1 *Lorwyn* Tournament Pack, 4 *Lorwyn* Boosters.Swiss +1 Tournament. No Single Elimination finals. Prizes based on final standings after Swiss + 1 Rounds.Winning team members each receive a 30gb Zune, remaining prizes are current set boosters. |
 | 1:00pm | $10 | **iPod Legacy – Legacy Constructed – *Vroom!***Sponsored by **Strike Zone**Swiss +1 Tournament. No Single Elimination finals. Prizes based on final standings after Swiss + 1 Rounds.The winning player receives an 160gb iPod, 2nd = 80g, 3rd and 4th each receive iPod Shuffle, remaining prizes are current set boosters. |
-| 3:00pm | $22 | ***Magic* Art Sealed – Lorwyn Sealed – *Vroom!***Limited to 64 players1 *Lorwyn* Tournament Pack, 2 *Lorwyn* Boosters.Swiss +1 Tournament. No Single Elimination finals. Prizes based on final standings after Swiss + 1 Rounds.The winner receives the original art piece for the Lorwyn Magic card "[Vigor](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vigor)". Rest of the Top 32 players receive signed glossy art prints of "[Vigor](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vigor)". Top players (determined by total entries) will receive current set boosters. |
+| 3:00pm | $22 | ***Magic* Art Sealed – Lorwyn Sealed – *Vroom!***Limited to 64 players1 *Lorwyn* Tournament Pack, 2 *Lorwyn* Boosters.Swiss +1 Tournament. No Single Elimination finals. Prizes based on final standings after Swiss + 1 Rounds.The winner receives the original art piece for the Lorwyn Magic card "[Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vigor)". Rest of the Top 32 players receive signed glossy art prints of "[Vigor](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vigor)". Top players (determined by total entries) will receive current set boosters. |
 | 5:00pm | $10 | **"Old Box" Constructed – Standard Constructed**Limited to 32 playersSwiss +1 Tournament. No Single Elimination finals. Prizes based on final standings after Swiss + 1 Rounds.Winning player receives choice of non-English *Exodus* or non-English *Urza's Destiny* displays, 2nd place gets the other, remaining prizes are current set Boosters |
 
 ### Friday

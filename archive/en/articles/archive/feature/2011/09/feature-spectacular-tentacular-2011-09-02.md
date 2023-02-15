@@ -5,6 +5,7 @@
 [_metadata_:author]:- "David Sutcliffe"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "315246"
+[_metadata_:path_date]:- "2011-09-02"
 [_metadata_:publish_date]:- "2011-09-01"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Feature: Spectacular Tentacular"

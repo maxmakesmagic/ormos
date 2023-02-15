@@ -45,7 +45,7 @@ By Wizards of the Coast
 Welcome to a *Halloween Special* edition of [Sketches](http://archive.wizards.com/default.asp?x=mtgcom/fullarchive&tablefilter=sketches:)! Today we take a look behind the scenes of one of Ravnica's creepiest moonlit denizens, the **[Keening Banshee](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Keening+Banshee)**. This wailing, soul-draining spirit haunts opponents as well as Ravnica's rooftops. But first, some background on the artist, Robert Bliss.
 
 
-[![Skulking Ghost](https://web.archive.org/web/20210430005340im_/http://archive.wizards.com/global/images/mtgcom_arcana_938_pic1_en.jpg)](http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Skulking%2BGhost)
+[![Skulking Ghost](https://media.wizards.com/legacy/global/images/mtgcom_arcana_938_pic1_en.jpg)](http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Skulking%2BGhost)
 
 
 ### Artist Portfolio

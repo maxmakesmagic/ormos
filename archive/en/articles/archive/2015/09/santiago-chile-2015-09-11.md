@@ -1,0 +1,3141 @@
+
+---
+[Link to Wayback Machine](https://web.archive.org/web/20150914230526/http://magic.wizards.com/en/articles/archive/santiago-chile-2015-09-11)
+
+[_metadata_:author]:- "Wizards of the Coast"
+[_metadata_:description]:- "Top 8 Decklists from the 2015 World Magic Cup Qualifiers of September 5-6 Thanks to Magicsur for organizing this World Magic Cup Qualifier!"
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "659981"
+[_metadata_:publish_date]:- "2015-09-11"
+[_metadata_:source]:- "div-main-content"
+[_metadata_:title]:- "Santiago, Chile"
+[_metadata_:wayback_capture_timestamp]:- "2015-09-14 23:05:26"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150914230526id_/http://magic.wizards.com/en/articles/archive/santiago-chile-2015-09-11"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/santiago-chile-2015-09-11"
+---
+
+
+Santiago, Chile
+===============
+
+
+
+ Posted in [ARTICLES](/en/articles)
+ on September 11, 2015 
+
+
+
+
+
+
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
+By Wizards of the Coast
+
+
+
+
+
+
+
+
+
+
+[Top 8 Decklists from the 2015 World *Magic* Cup Qualifiers of September 5-6](http://magic.wizards.com/en/articles/archive/organized-play/modern-times-2015-09-11) 
+
+
+Thanks to [Magicsur](http://magicsur.cl/) for organizing this World *Magic* Cup Qualifier!
+
+
+
+
+
+
+
+#### Gonzalo Puentes - 1st Place - Santiago, Chile
+
+
+##### 
+
+
+
+
+[![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)](/en/decklist/deck-list-b38c11bd582b2df21801f4d4002ea5db?n=Gonzalo%20Puentes%20-%201st%20Place%20-%20Santiago%2C%20Chile)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+
+Overview
+Color
+Cost
+Rarity
+
+
+
+
+
+
+##### Creature (13)
+
+
+
+2
+[Spellskite](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Spellskite])
+
+
+4
+[Snapcaster Mage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Snapcaster]+[Mage])
+
+
+2
+[Pestermite](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Pestermite])
+
+
+4
+[Deceiver Exarch](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Deceiver]+[Exarch])
+
+
+1
+[Vendilion Clique](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Vendilion]+[Clique])
+
+
+
+##### Sorcery (6)
+
+
+
+4
+[Serum Visions](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Serum]+[Visions])
+
+
+1
+[Roast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Roast])
+
+
+1
+[Anger of the Gods](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Anger]+[of]+[the]+[Gods])
+
+
+
+##### Instant (14)
+
+
+
+4
+[Lightning Bolt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Lightning]+[Bolt])
+
+
+1
+[Peek](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Peek])
+
+
+1
+[Spell Snare](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Spell]+[Snare])
+
+
+2
+[Dispel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Dispel])
+
+
+4
+[Remand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Remand])
+
+
+2
+[Cryptic Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Cryptic]+[Command])
+
+
+
+##### Enchantment (4)
+
+
+
+4
+[Splinter Twin](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Splinter]+[Twin])
+
+
+
+##### Land (23)
+
+
+
+4
+[Scalding Tarn](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Scalding]+[Tarn])
+
+
+3
+[Flooded Strand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Flooded]+[Strand])
+
+
+3
+[Steam Vents](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Steam]+[Vents])
+
+
+4
+[Sulfur Falls](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Sulfur]+[Falls])
+
+
+1
+[Breeding Pool](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Breeding]+[Pool])
+
+
+1
+[Desolate Lighthouse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Desolate]+[Lighthouse])
+
+
+1
+[Cavern of Souls](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Cavern]+[of]+[Souls])
+
+
+5
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Island])
+
+
+1
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Mountain])
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+1
+[Roast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Roast])
+
+
+1
+[Anger of the Gods](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Anger]+[of]+[the]+[Gods])
+
+
+1
+[Rending Volley](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Rending]+[Volley])
+
+
+1
+[Sower of Temptation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Sower]+[of]+[Temptation])
+
+
+1
+[Batterskull](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Batterskull])
+
+
+2
+[Keranos, God of Storms](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Keranos,]+[God]+[of]+[Storms])
+
+
+1
+[Jace, Architect of Thought](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Jace,]+[Architect]+[of]+[Thought])
+
+
+1
+[Engineered Explosives](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Engineered]+[Explosives])
+
+
+2
+[Ancient Grudge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Ancient]+[Grudge])
+
+
+2
+[Blood Moon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Blood]+[Moon])
+
+
+2
+[Negate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Negate])
+
+
+
+
+##### Blue (29)
+
+
+
+4
+[Snapcaster Mage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Snapcaster]+[Mage])
+
+
+2
+[Pestermite](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Pestermite])
+
+
+4
+[Deceiver Exarch](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Deceiver]+[Exarch])
+
+
+1
+[Vendilion Clique](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Vendilion]+[Clique])
+
+
+4
+[Serum Visions](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Serum]+[Visions])
+
+
+1
+[Peek](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Peek])
+
+
+1
+[Spell Snare](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Spell]+[Snare])
+
+
+2
+[Dispel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Dispel])
+
+
+4
+[Remand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Remand])
+
+
+2
+[Cryptic Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Cryptic]+[Command])
+
+
+1
+[Sower of Temptation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Sower]+[of]+[Temptation])
+
+
+1
+[Jace, Architect of Thought](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Jace,]+[Architect]+[of]+[Thought])
+
+
+2
+[Negate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Negate])
+
+
+
+##### Red (17)
+
+
+
+2
+[Roast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Roast])
+
+
+2
+[Anger of the Gods](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Anger]+[of]+[the]+[Gods])
+
+
+4
+[Lightning Bolt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Lightning]+[Bolt])
+
+
+4
+[Splinter Twin](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Splinter]+[Twin])
+
+
+1
+[Rending Volley](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Rending]+[Volley])
+
+
+2
+[Ancient Grudge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Ancient]+[Grudge])
+
+
+2
+[Blood Moon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Blood]+[Moon])
+
+
+
+##### Multi colored (2)
+
+
+
+2
+[Keranos, God of Storms](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Keranos,]+[God]+[of]+[Storms])
+
+
+
+##### Colorless (27)
+
+
+
+4
+[Scalding Tarn](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Scalding]+[Tarn])
+
+
+3
+[Flooded Strand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Flooded]+[Strand])
+
+
+3
+[Steam Vents](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Steam]+[Vents])
+
+
+4
+[Sulfur Falls](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Sulfur]+[Falls])
+
+
+1
+[Breeding Pool](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Breeding]+[Pool])
+
+
+1
+[Desolate Lighthouse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Desolate]+[Lighthouse])
+
+
+1
+[Cavern of Souls](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Cavern]+[of]+[Souls])
+
+
+5
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Island])
+
+
+1
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Mountain])
+
+
+2
+[Spellskite](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Spellskite])
+
+
+1
+[Batterskull](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Batterskull])
+
+
+1
+[Engineered Explosives](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Engineered]+[Explosives])
+
+
+75 Cards 
+
+
+
+##### 1 (13)
+
+
+
+4
+[Serum Visions](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Serum]+[Visions])
+
+
+4
+[Lightning Bolt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Lightning]+[Bolt])
+
+
+1
+[Peek](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Peek])
+
+
+1
+[Spell Snare](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Spell]+[Snare])
+
+
+2
+[Dispel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Dispel])
+
+
+1
+[Rending Volley](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Rending]+[Volley])
+
+
+
+##### 2 (16)
+
+
+
+2
+[Spellskite](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Spellskite])
+
+
+4
+[Snapcaster Mage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Snapcaster]+[Mage])
+
+
+2
+[Roast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Roast])
+
+
+4
+[Remand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Remand])
+
+
+2
+[Ancient Grudge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Ancient]+[Grudge])
+
+
+2
+[Negate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Negate])
+
+
+
+##### 3 (11)
+
+
+
+2
+[Pestermite](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Pestermite])
+
+
+4
+[Deceiver Exarch](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Deceiver]+[Exarch])
+
+
+1
+[Vendilion Clique](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Vendilion]+[Clique])
+
+
+2
+[Anger of the Gods](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Anger]+[of]+[the]+[Gods])
+
+
+2
+[Blood Moon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Blood]+[Moon])
+
+
+
+##### 4 (8)
+
+
+
+2
+[Cryptic Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Cryptic]+[Command])
+
+
+4
+[Splinter Twin](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Splinter]+[Twin])
+
+
+1
+[Sower of Temptation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Sower]+[of]+[Temptation])
+
+
+1
+[Jace, Architect of Thought](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Jace,]+[Architect]+[of]+[Thought])
+
+
+
+##### 5 (3)
+
+
+
+1
+[Batterskull](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Batterskull])
+
+
+2
+[Keranos, God of Storms](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Keranos,]+[God]+[of]+[Storms])
+
+
+51 Cards 
+
+
+
+##### Common (19)
+
+
+
+5
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Island])
+
+
+1
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Mountain])
+
+
+2
+[Pestermite](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Pestermite])
+
+
+4
+[Serum Visions](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Serum]+[Visions])
+
+
+1
+[Peek](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Peek])
+
+
+2
+[Dispel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Dispel])
+
+
+2
+[Ancient Grudge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Ancient]+[Grudge])
+
+
+2
+[Negate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Negate])
+
+
+
+##### Uncommon (16)
+
+
+
+4
+[Deceiver Exarch](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Deceiver]+[Exarch])
+
+
+2
+[Roast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Roast])
+
+
+4
+[Lightning Bolt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Lightning]+[Bolt])
+
+
+1
+[Spell Snare](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Spell]+[Snare])
+
+
+4
+[Remand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Remand])
+
+
+1
+[Rending Volley](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Rending]+[Volley])
+
+
+
+##### Rare (35)
+
+
+
+4
+[Scalding Tarn](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Scalding]+[Tarn])
+
+
+3
+[Flooded Strand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Flooded]+[Strand])
+
+
+3
+[Steam Vents](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Steam]+[Vents])
+
+
+4
+[Sulfur Falls](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Sulfur]+[Falls])
+
+
+1
+[Breeding Pool](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Breeding]+[Pool])
+
+
+1
+[Desolate Lighthouse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Desolate]+[Lighthouse])
+
+
+1
+[Cavern of Souls](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Cavern]+[of]+[Souls])
+
+
+2
+[Spellskite](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Spellskite])
+
+
+4
+[Snapcaster Mage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Snapcaster]+[Mage])
+
+
+2
+[Anger of the Gods](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Anger]+[of]+[the]+[Gods])
+
+
+2
+[Cryptic Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Cryptic]+[Command])
+
+
+4
+[Splinter Twin](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Splinter]+[Twin])
+
+
+1
+[Sower of Temptation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Sower]+[of]+[Temptation])
+
+
+1
+[Engineered Explosives](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Engineered]+[Explosives])
+
+
+2
+[Blood Moon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Blood]+[Moon])
+
+
+
+##### Mythic (5)
+
+
+
+1
+[Vendilion Clique](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Vendilion]+[Clique])
+
+
+1
+[Batterskull](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Batterskull])
+
+
+2
+[Keranos, God of Storms](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Keranos,]+[God]+[of]+[Storms])
+
+
+1
+[Jace, Architect of Thought](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Jace,]+[Architect]+[of]+[Thought])
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Scalding+Tarn)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+#### Diego Mediano - 5th Place - Santiago, Chile
+
+
+##### 
+
+
+
+
+[![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)](/en/decklist/deck-list-8c4ac7383c8b0244f20f3a7260ba0988?n=Diego%20Mediano%20-%205th%20Place%20-%20Santiago%2C%20Chile)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+
+Overview
+Color
+Cost
+Rarity
+
+
+
+
+
+
+##### Creature (26)
+
+
+
+2
+[Kira, Great Glass-Spinner](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Kira,]+[Great]+[Glass-Spinner])
+
+
+4
+[Lord of Atlantis](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Lord]+[of]+[Atlantis])
+
+
+4
+[Master of the Pearl Trident](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Master]+[of]+[the]+[Pearl]+[Trident])
+
+
+4
+[Cursecatcher](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Cursecatcher])
+
+
+4
+[Silvergill Adept](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Silvergill]+[Adept])
+
+
+4
+[Master of Waves](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Master]+[of]+[Waves])
+
+
+2
+[Tidebinder Mage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Tidebinder]+[Mage])
+
+
+2
+[Merrow Reejerey](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Merrow]+[Reejerey])
+
+
+
+##### Instant (4)
+
+
+
+3
+[Dismember](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Dismember])
+
+
+1
+[Vapor Snag](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Vapor]+[Snag])
+
+
+
+##### Artifact (6)
+
+
+
+2
+[Relic of Progenitus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Relic]+[of]+[Progenitus])
+
+
+4
+[Æther Vial](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Æther]+[Vial])
+
+
+
+##### Enchantment (4)
+
+
+
+4
+[Spreading Seas](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Spreading]+[Seas])
+
+
+
+##### Land (20)
+
+
+
+1
+[Minamo, School at Water's Edge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Minamo,]+[School]+[at]+[Water]+[Edge])
+
+
+2
+[Cavern of Souls](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Cavern]+[of]+[Souls])
+
+
+3
+[Wanderwine Hub](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Wanderwine]+[Hub])
+
+
+4
+[Mutavault](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Mutavault])
+
+
+10
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Island])
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+1
+[Tidebinder Mage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Tidebinder]+[Mage])
+
+
+1
+[Spellskite](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Spellskite])
+
+
+2
+[Unified Will](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Unified]+[Will])
+
+
+1
+[Remand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Remand])
+
+
+1
+[Hibernation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Hibernation])
+
+
+2
+[Dispel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Dispel])
+
+
+3
+[Spell Pierce](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Spell]+[Pierce])
+
+
+4
+[Tectonic Edge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Tectonic]+[Edge])
+
+
+
+
+##### Blue (41)
+
+
+
+2
+[Kira, Great Glass-Spinner](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Kira,]+[Great]+[Glass-Spinner])
+
+
+4
+[Lord of Atlantis](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Lord]+[of]+[Atlantis])
+
+
+4
+[Master of the Pearl Trident](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Master]+[of]+[the]+[Pearl]+[Trident])
+
+
+4
+[Cursecatcher](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Cursecatcher])
+
+
+4
+[Silvergill Adept](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Silvergill]+[Adept])
+
+
+4
+[Master of Waves](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Master]+[of]+[Waves])
+
+
+3
+[Tidebinder Mage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Tidebinder]+[Mage])
+
+
+2
+[Merrow Reejerey](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Merrow]+[Reejerey])
+
+
+4
+[Spreading Seas](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Spreading]+[Seas])
+
+
+1
+[Vapor Snag](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Vapor]+[Snag])
+
+
+2
+[Unified Will](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Unified]+[Will])
+
+
+1
+[Remand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Remand])
+
+
+1
+[Hibernation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Hibernation])
+
+
+2
+[Dispel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Dispel])
+
+
+3
+[Spell Pierce](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Spell]+[Pierce])
+
+
+
+##### Black (3)
+
+
+
+3
+[Dismember](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Dismember])
+
+
+
+##### Colorless (31)
+
+
+
+1
+[Minamo, School at Water's Edge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Minamo,]+[School]+[at]+[Water]+[Edge])
+
+
+2
+[Cavern of Souls](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Cavern]+[of]+[Souls])
+
+
+3
+[Wanderwine Hub](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Wanderwine]+[Hub])
+
+
+4
+[Mutavault](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Mutavault])
+
+
+10
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Island])
+
+
+2
+[Relic of Progenitus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Relic]+[of]+[Progenitus])
+
+
+4
+[Æther Vial](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Æther]+[Vial])
+
+
+1
+[Spellskite](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Spellskite])
+
+
+4
+[Tectonic Edge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Tectonic]+[Edge])
+
+
+75 Cards 
+
+
+
+##### 1 (16)
+
+
+
+4
+[Cursecatcher](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Cursecatcher])
+
+
+2
+[Relic of Progenitus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Relic]+[of]+[Progenitus])
+
+
+4
+[Æther Vial](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Æther]+[Vial])
+
+
+1
+[Vapor Snag](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Vapor]+[Snag])
+
+
+2
+[Dispel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Dispel])
+
+
+3
+[Spell Pierce](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Spell]+[Pierce])
+
+
+
+##### 2 (23)
+
+
+
+4
+[Lord of Atlantis](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Lord]+[of]+[Atlantis])
+
+
+4
+[Master of the Pearl Trident](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Master]+[of]+[the]+[Pearl]+[Trident])
+
+
+4
+[Silvergill Adept](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Silvergill]+[Adept])
+
+
+3
+[Tidebinder Mage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Tidebinder]+[Mage])
+
+
+4
+[Spreading Seas](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Spreading]+[Seas])
+
+
+1
+[Spellskite](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Spellskite])
+
+
+2
+[Unified Will](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Unified]+[Will])
+
+
+1
+[Remand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Remand])
+
+
+
+##### 3 (8)
+
+
+
+2
+[Kira, Great Glass-Spinner](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Kira,]+[Great]+[Glass-Spinner])
+
+
+2
+[Merrow Reejerey](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Merrow]+[Reejerey])
+
+
+3
+[Dismember](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Dismember])
+
+
+1
+[Hibernation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Hibernation])
+
+
+
+##### 4 (4)
+
+
+
+4
+[Master of Waves](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Master]+[of]+[Waves])
+
+
+51 Cards 
+
+
+
+##### Common (24)
+
+
+
+10
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Island])
+
+
+4
+[Lord of Atlantis](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Lord]+[of]+[Atlantis])
+
+
+4
+[Spreading Seas](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Spreading]+[Seas])
+
+
+1
+[Vapor Snag](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Vapor]+[Snag])
+
+
+2
+[Dispel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Dispel])
+
+
+3
+[Spell Pierce](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Spell]+[Pierce])
+
+
+
+##### Uncommon (23)
+
+
+
+4
+[Cursecatcher](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Cursecatcher])
+
+
+4
+[Silvergill Adept](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Silvergill]+[Adept])
+
+
+2
+[Merrow Reejerey](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Merrow]+[Reejerey])
+
+
+2
+[Relic of Progenitus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Relic]+[of]+[Progenitus])
+
+
+3
+[Dismember](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Dismember])
+
+
+2
+[Unified Will](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Unified]+[Will])
+
+
+1
+[Remand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Remand])
+
+
+1
+[Hibernation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Hibernation])
+
+
+4
+[Tectonic Edge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Tectonic]+[Edge])
+
+
+
+##### Rare (20)
+
+
+
+1
+[Minamo, School at Water's Edge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Minamo,]+[School]+[at]+[Water]+[Edge])
+
+
+2
+[Cavern of Souls](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Cavern]+[of]+[Souls])
+
+
+3
+[Wanderwine Hub](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Wanderwine]+[Hub])
+
+
+4
+[Mutavault](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Mutavault])
+
+
+2
+[Kira, Great Glass-Spinner](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Kira,]+[Great]+[Glass-Spinner])
+
+
+4
+[Master of the Pearl Trident](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Master]+[of]+[the]+[Pearl]+[Trident])
+
+
+3
+[Tidebinder Mage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Tidebinder]+[Mage])
+
+
+1
+[Spellskite](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Spellskite])
+
+
+
+##### Mythic (8)
+
+
+
+4
+[Master of Waves](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Master]+[of]+[Waves])
+
+
+4
+[Æther Vial](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Æther]+[Vial])
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Minamo%2C+School+at+Water%27s+Edge)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+#### Jorge Carballo - 6th Place - Santiago, Chile
+
+
+##### 
+
+
+
+
+[![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)](/en/decklist/deck-list-c9c6965087428eace7bc73c3f6b2a3df?n=Jorge%20Carballo%20-%206th%20Place%20-%20Santiago%2C%20Chile)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+
+Overview
+Color
+Cost
+Rarity
+
+
+
+
+
+
+##### Creature (12)
+
+
+
+4
+[Snapcaster Mage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Snapcaster]+[Mage])
+
+
+4
+[Deceiver Exarch](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Deceiver]+[Exarch])
+
+
+2
+[Pestermite](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Pestermite])
+
+
+2
+[Vendilion Clique](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Vendilion]+[Clique])
+
+
+
+##### Sorcery (4)
+
+
+
+4
+[Serum Visions](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Serum]+[Visions])
+
+
+
+##### Instant (17)
+
+
+
+4
+[Lightning Bolt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Lightning]+[Bolt])
+
+
+4
+[Remand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Remand])
+
+
+2
+[Spell Snare](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Spell]+[Snare])
+
+
+2
+[Terminate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Terminate])
+
+
+2
+[Cryptic Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Cryptic]+[Command])
+
+
+2
+[Dispel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Dispel])
+
+
+1
+[Kolaghan's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Kolaghan]+[Command])
+
+
+
+##### Enchantment (4)
+
+
+
+4
+[Splinter Twin](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Splinter]+[Twin])
+
+
+
+##### Land (23)
+
+
+
+4
+[Polluted Delta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Polluted]+[Delta])
+
+
+4
+[Scalding Tarn](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Scalding]+[Tarn])
+
+
+1
+[Bloodstained Mire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Bloodstained]+[Mire])
+
+
+4
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Island])
+
+
+2
+[Steam Vents](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Steam]+[Vents])
+
+
+2
+[Sulfur Falls](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Sulfur]+[Falls])
+
+
+1
+[Watery Grave](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Watery]+[Grave])
+
+
+1
+[Blood Crypt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Blood]+[Crypt])
+
+
+1
+[Cascade Bluffs](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Cascade]+[Bluffs])
+
+
+1
+[Desolate Lighthouse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Desolate]+[Lighthouse])
+
+
+1
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Swamp])
+
+
+1
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Mountain])
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+1
+[Dispel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Dispel])
+
+
+1
+[Kolaghan's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Kolaghan]+[Command])
+
+
+2
+[Blood Moon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Blood]+[Moon])
+
+
+2
+[Keranos, God of Storms](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Keranos,]+[God]+[of]+[Storms])
+
+
+2
+[Tasigur, the Golden Fang](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Tasigur,]+[the]+[Golden]+[Fang])
+
+
+2
+[Pyroclasm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Pyroclasm])
+
+
+1
+[Engineered Explosives](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Engineered]+[Explosives])
+
+
+2
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Thoughtseize])
+
+
+2
+[Spellskite](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Spellskite])
+
+
+
+
+##### Blue (27)
+
+
+
+4
+[Snapcaster Mage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Snapcaster]+[Mage])
+
+
+4
+[Deceiver Exarch](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Deceiver]+[Exarch])
+
+
+2
+[Pestermite](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Pestermite])
+
+
+2
+[Vendilion Clique](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Vendilion]+[Clique])
+
+
+4
+[Serum Visions](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Serum]+[Visions])
+
+
+4
+[Remand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Remand])
+
+
+2
+[Spell Snare](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Spell]+[Snare])
+
+
+2
+[Cryptic Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Cryptic]+[Command])
+
+
+3
+[Dispel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Dispel])
+
+
+
+##### Black (4)
+
+
+
+2
+[Tasigur, the Golden Fang](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Tasigur,]+[the]+[Golden]+[Fang])
+
+
+2
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Thoughtseize])
+
+
+
+##### Red (12)
+
+
+
+4
+[Lightning Bolt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Lightning]+[Bolt])
+
+
+4
+[Splinter Twin](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Splinter]+[Twin])
+
+
+2
+[Blood Moon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Blood]+[Moon])
+
+
+2
+[Pyroclasm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Pyroclasm])
+
+
+
+##### Multi colored (6)
+
+
+
+2
+[Terminate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Terminate])
+
+
+2
+[Kolaghan's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Kolaghan]+[Command])
+
+
+2
+[Keranos, God of Storms](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Keranos,]+[God]+[of]+[Storms])
+
+
+
+##### Colorless (26)
+
+
+
+4
+[Polluted Delta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Polluted]+[Delta])
+
+
+4
+[Scalding Tarn](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Scalding]+[Tarn])
+
+
+1
+[Bloodstained Mire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Bloodstained]+[Mire])
+
+
+4
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Island])
+
+
+2
+[Steam Vents](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Steam]+[Vents])
+
+
+2
+[Sulfur Falls](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Sulfur]+[Falls])
+
+
+1
+[Watery Grave](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Watery]+[Grave])
+
+
+1
+[Blood Crypt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Blood]+[Crypt])
+
+
+1
+[Cascade Bluffs](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Cascade]+[Bluffs])
+
+
+1
+[Desolate Lighthouse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Desolate]+[Lighthouse])
+
+
+1
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Swamp])
+
+
+1
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Mountain])
+
+
+1
+[Engineered Explosives](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Engineered]+[Explosives])
+
+
+2
+[Spellskite](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Spellskite])
+
+
+75 Cards 
+
+
+
+##### 1 (15)
+
+
+
+4
+[Lightning Bolt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Lightning]+[Bolt])
+
+
+4
+[Serum Visions](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Serum]+[Visions])
+
+
+2
+[Spell Snare](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Spell]+[Snare])
+
+
+3
+[Dispel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Dispel])
+
+
+2
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Thoughtseize])
+
+
+
+##### 2 (14)
+
+
+
+4
+[Snapcaster Mage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Snapcaster]+[Mage])
+
+
+4
+[Remand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Remand])
+
+
+2
+[Terminate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Terminate])
+
+
+2
+[Pyroclasm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Pyroclasm])
+
+
+2
+[Spellskite](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Spellskite])
+
+
+
+##### 3 (12)
+
+
+
+4
+[Deceiver Exarch](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Deceiver]+[Exarch])
+
+
+2
+[Pestermite](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Pestermite])
+
+
+2
+[Vendilion Clique](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Vendilion]+[Clique])
+
+
+2
+[Kolaghan's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Kolaghan]+[Command])
+
+
+2
+[Blood Moon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Blood]+[Moon])
+
+
+
+##### 4 (6)
+
+
+
+4
+[Splinter Twin](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Splinter]+[Twin])
+
+
+2
+[Cryptic Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Cryptic]+[Command])
+
+
+
+##### 5 (2)
+
+
+
+2
+[Keranos, God of Storms](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Keranos,]+[God]+[of]+[Storms])
+
+
+
+##### 6 (2)
+
+
+
+2
+[Tasigur, the Golden Fang](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Tasigur,]+[the]+[Golden]+[Fang])
+
+
+51 Cards 
+
+
+
+##### Common (17)
+
+
+
+4
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Island])
+
+
+1
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Swamp])
+
+
+1
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Mountain])
+
+
+2
+[Pestermite](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Pestermite])
+
+
+4
+[Serum Visions](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Serum]+[Visions])
+
+
+2
+[Terminate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Terminate])
+
+
+3
+[Dispel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Dispel])
+
+
+
+##### Uncommon (16)
+
+
+
+4
+[Deceiver Exarch](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Deceiver]+[Exarch])
+
+
+4
+[Lightning Bolt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Lightning]+[Bolt])
+
+
+4
+[Remand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Remand])
+
+
+2
+[Spell Snare](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Spell]+[Snare])
+
+
+2
+[Pyroclasm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Pyroclasm])
+
+
+
+##### Rare (38)
+
+
+
+4
+[Polluted Delta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Polluted]+[Delta])
+
+
+4
+[Scalding Tarn](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Scalding]+[Tarn])
+
+
+1
+[Bloodstained Mire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Bloodstained]+[Mire])
+
+
+2
+[Steam Vents](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Steam]+[Vents])
+
+
+2
+[Sulfur Falls](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Sulfur]+[Falls])
+
+
+1
+[Watery Grave](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Watery]+[Grave])
+
+
+1
+[Blood Crypt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Blood]+[Crypt])
+
+
+1
+[Cascade Bluffs](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Cascade]+[Bluffs])
+
+
+1
+[Desolate Lighthouse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Desolate]+[Lighthouse])
+
+
+4
+[Snapcaster Mage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Snapcaster]+[Mage])
+
+
+4
+[Splinter Twin](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Splinter]+[Twin])
+
+
+2
+[Cryptic Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Cryptic]+[Command])
+
+
+2
+[Kolaghan's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Kolaghan]+[Command])
+
+
+2
+[Blood Moon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Blood]+[Moon])
+
+
+2
+[Tasigur, the Golden Fang](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Tasigur,]+[the]+[Golden]+[Fang])
+
+
+1
+[Engineered Explosives](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Engineered]+[Explosives])
+
+
+2
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Thoughtseize])
+
+
+2
+[Spellskite](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Spellskite])
+
+
+
+##### Mythic (4)
+
+
+
+2
+[Vendilion Clique](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Vendilion]+[Clique])
+
+
+2
+[Keranos, God of Storms](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Keranos,]+[God]+[of]+[Storms])
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Polluted+Delta)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+#### Pablo Alarcon - 7th Place - Santiago, Chile
+
+
+##### 
+
+
+
+
+[![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)](/en/decklist/deck-list-756423a4a38e56086ddde99f0ccf5c68?n=Pablo%20Alarcon%20-%207th%20Place%20-%20Santiago%2C%20Chile)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+
+Overview
+Color
+Cost
+Rarity
+
+
+
+
+
+
+##### Creature (26)
+
+
+
+4
+[Cursecatcher](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Cursecatcher])
+
+
+4
+[Silvergill Adept](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Silvergill]+[Adept])
+
+
+4
+[Harbinger of the Tides](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Harbinger]+[of]+[the]+[Tides])
+
+
+4
+[Lord of Atlantis](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Lord]+[of]+[Atlantis])
+
+
+4
+[Master of the Pearl Trident](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Master]+[of]+[the]+[Pearl]+[Trident])
+
+
+2
+[Merrow Reejerey](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Merrow]+[Reejerey])
+
+
+4
+[Master of Waves](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Master]+[of]+[Waves])
+
+
+
+##### Instant (5)
+
+
+
+3
+[Dismember](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Dismember])
+
+
+2
+[Spell Pierce](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Spell]+[Pierce])
+
+
+
+##### Artifact (6)
+
+
+
+4
+[Æther Vial](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Æther]+[Vial])
+
+
+2
+[Relic of Progenitus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Relic]+[of]+[Progenitus])
+
+
+
+##### Enchantment (4)
+
+
+
+4
+[Spreading Seas](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Spreading]+[Seas])
+
+
+
+##### Land (19)
+
+
+
+4
+[Mutavault](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Mutavault])
+
+
+2
+[Wanderwine Hub](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Wanderwine]+[Hub])
+
+
+1
+[Cavern of Souls](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Cavern]+[of]+[Souls])
+
+
+1
+[Minamo, School at Water's Edge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Minamo,]+[School]+[at]+[Water]+[Edge])
+
+
+1
+[Oboro, Palace in the Clouds](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Oboro,]+[Palace]+[in]+[the]+[Clouds])
+
+
+10
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Island])
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+1
+[Dismember](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Dismember])
+
+
+1
+[Spell Pierce](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Spell]+[Pierce])
+
+
+3
+[Sea's Claim](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Sea]+[Claim])
+
+
+1
+[Hibernation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Hibernation])
+
+
+2
+[Tidebinder Mage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Tidebinder]+[Mage])
+
+
+2
+[Kira, Great Glass-Spinner](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Kira,]+[Great]+[Glass-Spinner])
+
+
+3
+[Chalice of the Void](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Chalice]+[of]+[the]+[Void])
+
+
+2
+[Negate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Negate])
+
+
+
+
+##### Blue (43)
+
+
+
+4
+[Cursecatcher](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Cursecatcher])
+
+
+4
+[Silvergill Adept](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Silvergill]+[Adept])
+
+
+4
+[Harbinger of the Tides](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Harbinger]+[of]+[the]+[Tides])
+
+
+4
+[Lord of Atlantis](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Lord]+[of]+[Atlantis])
+
+
+4
+[Master of the Pearl Trident](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Master]+[of]+[the]+[Pearl]+[Trident])
+
+
+2
+[Merrow Reejerey](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Merrow]+[Reejerey])
+
+
+4
+[Master of Waves](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Master]+[of]+[Waves])
+
+
+4
+[Spreading Seas](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Spreading]+[Seas])
+
+
+3
+[Spell Pierce](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Spell]+[Pierce])
+
+
+3
+[Sea's Claim](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Sea]+[Claim])
+
+
+1
+[Hibernation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Hibernation])
+
+
+2
+[Tidebinder Mage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Tidebinder]+[Mage])
+
+
+2
+[Kira, Great Glass-Spinner](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Kira,]+[Great]+[Glass-Spinner])
+
+
+2
+[Negate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Negate])
+
+
+
+##### Black (4)
+
+
+
+4
+[Dismember](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Dismember])
+
+
+
+##### Colorless (28)
+
+
+
+4
+[Mutavault](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Mutavault])
+
+
+2
+[Wanderwine Hub](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Wanderwine]+[Hub])
+
+
+1
+[Cavern of Souls](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Cavern]+[of]+[Souls])
+
+
+1
+[Minamo, School at Water's Edge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Minamo,]+[School]+[at]+[Water]+[Edge])
+
+
+1
+[Oboro, Palace in the Clouds](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Oboro,]+[Palace]+[in]+[the]+[Clouds])
+
+
+10
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Island])
+
+
+4
+[Æther Vial](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Æther]+[Vial])
+
+
+2
+[Relic of Progenitus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Relic]+[of]+[Progenitus])
+
+
+3
+[Chalice of the Void](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Chalice]+[of]+[the]+[Void])
+
+
+75 Cards 
+
+
+
+##### 1 (16)
+
+
+
+4
+[Cursecatcher](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Cursecatcher])
+
+
+4
+[Æther Vial](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Æther]+[Vial])
+
+
+3
+[Spell Pierce](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Spell]+[Pierce])
+
+
+2
+[Relic of Progenitus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Relic]+[of]+[Progenitus])
+
+
+3
+[Sea's Claim](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Sea]+[Claim])
+
+
+
+##### 2 (24)
+
+
+
+4
+[Silvergill Adept](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Silvergill]+[Adept])
+
+
+4
+[Harbinger of the Tides](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Harbinger]+[of]+[the]+[Tides])
+
+
+4
+[Lord of Atlantis](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Lord]+[of]+[Atlantis])
+
+
+4
+[Master of the Pearl Trident](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Master]+[of]+[the]+[Pearl]+[Trident])
+
+
+4
+[Spreading Seas](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Spreading]+[Seas])
+
+
+2
+[Tidebinder Mage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Tidebinder]+[Mage])
+
+
+2
+[Negate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Negate])
+
+
+
+##### 3 (9)
+
+
+
+2
+[Merrow Reejerey](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Merrow]+[Reejerey])
+
+
+4
+[Dismember](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Dismember])
+
+
+1
+[Hibernation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Hibernation])
+
+
+2
+[Kira, Great Glass-Spinner](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Kira,]+[Great]+[Glass-Spinner])
+
+
+
+##### 4 (4)
+
+
+
+4
+[Master of Waves](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Master]+[of]+[Waves])
+
+
+53 Cards 
+
+
+
+##### Common (26)
+
+
+
+10
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Island])
+
+
+4
+[Lord of Atlantis](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Lord]+[of]+[Atlantis])
+
+
+4
+[Spreading Seas](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Spreading]+[Seas])
+
+
+3
+[Spell Pierce](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Spell]+[Pierce])
+
+
+3
+[Sea's Claim](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Sea]+[Claim])
+
+
+2
+[Negate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Negate])
+
+
+
+##### Uncommon (17)
+
+
+
+4
+[Cursecatcher](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Cursecatcher])
+
+
+4
+[Silvergill Adept](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Silvergill]+[Adept])
+
+
+2
+[Merrow Reejerey](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Merrow]+[Reejerey])
+
+
+4
+[Dismember](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Dismember])
+
+
+2
+[Relic of Progenitus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Relic]+[of]+[Progenitus])
+
+
+1
+[Hibernation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Hibernation])
+
+
+
+##### Rare (24)
+
+
+
+4
+[Mutavault](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Mutavault])
+
+
+2
+[Wanderwine Hub](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Wanderwine]+[Hub])
+
+
+1
+[Cavern of Souls](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Cavern]+[of]+[Souls])
+
+
+1
+[Minamo, School at Water's Edge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Minamo,]+[School]+[at]+[Water]+[Edge])
+
+
+1
+[Oboro, Palace in the Clouds](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Oboro,]+[Palace]+[in]+[the]+[Clouds])
+
+
+4
+[Harbinger of the Tides](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Harbinger]+[of]+[the]+[Tides])
+
+
+4
+[Master of the Pearl Trident](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Master]+[of]+[the]+[Pearl]+[Trident])
+
+
+2
+[Tidebinder Mage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Tidebinder]+[Mage])
+
+
+2
+[Kira, Great Glass-Spinner](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Kira,]+[Great]+[Glass-Spinner])
+
+
+3
+[Chalice of the Void](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Chalice]+[of]+[the]+[Void])
+
+
+
+##### Mythic (8)
+
+
+
+4
+[Master of Waves](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Master]+[of]+[Waves])
+
+
+4
+[Æther Vial](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Æther]+[Vial])
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Mutavault)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+#### Conrado Valderrama - 8th Place - Santiago, Chile
+
+
+##### 
+
+
+
+
+[![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)](/en/decklist/deck-list-8f5e546b6c5722aba89aa6357953e5e7?n=Conrado%20Valderrama%20-%208th%20Place%20-%20Santiago%2C%20Chile)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+
+Overview
+Color
+Cost
+Rarity
+
+
+
+
+
+
+##### Creature (12)
+
+
+
+2
+[Pestermite](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Pestermite])
+
+
+4
+[Deceiver Exarch](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Deceiver]+[Exarch])
+
+
+2
+[Vendilion Clique](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Vendilion]+[Clique])
+
+
+4
+[Snapcaster Mage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Snapcaster]+[Mage])
+
+
+
+##### Sorcery (4)
+
+
+
+4
+[Serum Visions](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Serum]+[Visions])
+
+
+
+##### Instant (17)
+
+
+
+4
+[Lightning Bolt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Lightning]+[Bolt])
+
+
+2
+[Kolaghan's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Kolaghan]+[Command])
+
+
+2
+[Terminate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Terminate])
+
+
+1
+[Dispel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Dispel])
+
+
+2
+[Cryptic Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Cryptic]+[Command])
+
+
+3
+[Remand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Remand])
+
+
+2
+[Spell Snare](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Spell]+[Snare])
+
+
+1
+[Electrolyze](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Electrolyze])
+
+
+
+##### Enchantment (4)
+
+
+
+4
+[Splinter Twin](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Splinter]+[Twin])
+
+
+
+##### Land (23)
+
+
+
+1
+[Creeping Tar Pit](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Creeping]+[Tar]+[Pit])
+
+
+4
+[Scalding Tarn](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Scalding]+[Tarn])
+
+
+4
+[Polluted Delta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Polluted]+[Delta])
+
+
+1
+[Desolate Lighthouse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Desolate]+[Lighthouse])
+
+
+3
+[Sulfur Falls](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Sulfur]+[Falls])
+
+
+1
+[Blood Crypt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Blood]+[Crypt])
+
+
+4
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Island])
+
+
+1
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Swamp])
+
+
+1
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Mountain])
+
+
+2
+[Steam Vents](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Steam]+[Vents])
+
+
+1
+[Watery Grave](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Watery]+[Grave])
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+1
+[Dispel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Dispel])
+
+
+2
+[Inquisition of Kozilek](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Inquisition]+[of]+[Kozilek])
+
+
+2
+[Tasigur, the Golden Fang](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Tasigur,]+[the]+[Golden]+[Fang])
+
+
+2
+[Spellskite](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Spellskite])
+
+
+2
+[Anger of the Gods](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Anger]+[of]+[the]+[Gods])
+
+
+1
+[Vampiric Link](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Vampiric]+[Link])
+
+
+1
+[Sowing Salt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Sowing]+[Salt])
+
+
+1
+[Keranos, God of Storms](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Keranos,]+[God]+[of]+[Storms])
+
+
+1
+[Rakdos Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Rakdos]+[Charm])
+
+
+1
+[Blood Moon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Blood]+[Moon])
+
+
+1
+[Jace, Architect of Thought](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Jace,]+[Architect]+[of]+[Thought])
+
+
+
+
+##### Blue (26)
+
+
+
+2
+[Pestermite](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Pestermite])
+
+
+4
+[Deceiver Exarch](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Deceiver]+[Exarch])
+
+
+2
+[Vendilion Clique](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Vendilion]+[Clique])
+
+
+4
+[Snapcaster Mage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Snapcaster]+[Mage])
+
+
+2
+[Dispel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Dispel])
+
+
+2
+[Cryptic Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Cryptic]+[Command])
+
+
+3
+[Remand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Remand])
+
+
+2
+[Spell Snare](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Spell]+[Snare])
+
+
+4
+[Serum Visions](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Serum]+[Visions])
+
+
+1
+[Jace, Architect of Thought](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Jace,]+[Architect]+[of]+[Thought])
+
+
+
+##### Black (5)
+
+
+
+2
+[Inquisition of Kozilek](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Inquisition]+[of]+[Kozilek])
+
+
+2
+[Tasigur, the Golden Fang](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Tasigur,]+[the]+[Golden]+[Fang])
+
+
+1
+[Vampiric Link](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Vampiric]+[Link])
+
+
+
+##### Red (12)
+
+
+
+4
+[Lightning Bolt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Lightning]+[Bolt])
+
+
+4
+[Splinter Twin](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Splinter]+[Twin])
+
+
+2
+[Anger of the Gods](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Anger]+[of]+[the]+[Gods])
+
+
+1
+[Sowing Salt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Sowing]+[Salt])
+
+
+1
+[Blood Moon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Blood]+[Moon])
+
+
+
+##### Multi colored (7)
+
+
+
+2
+[Kolaghan's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Kolaghan]+[Command])
+
+
+2
+[Terminate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Terminate])
+
+
+1
+[Electrolyze](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Electrolyze])
+
+
+1
+[Keranos, God of Storms](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Keranos,]+[God]+[of]+[Storms])
+
+
+1
+[Rakdos Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Rakdos]+[Charm])
+
+
+
+##### Colorless (25)
+
+
+
+1
+[Creeping Tar Pit](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Creeping]+[Tar]+[Pit])
+
+
+4
+[Scalding Tarn](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Scalding]+[Tarn])
+
+
+4
+[Polluted Delta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Polluted]+[Delta])
+
+
+1
+[Desolate Lighthouse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Desolate]+[Lighthouse])
+
+
+3
+[Sulfur Falls](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Sulfur]+[Falls])
+
+
+1
+[Blood Crypt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Blood]+[Crypt])
+
+
+4
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Island])
+
+
+1
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Swamp])
+
+
+1
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Mountain])
+
+
+2
+[Steam Vents](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Steam]+[Vents])
+
+
+1
+[Watery Grave](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Watery]+[Grave])
+
+
+2
+[Spellskite](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Spellskite])
+
+
+75 Cards 
+
+
+
+##### 1 (15)
+
+
+
+4
+[Lightning Bolt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Lightning]+[Bolt])
+
+
+2
+[Dispel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Dispel])
+
+
+2
+[Spell Snare](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Spell]+[Snare])
+
+
+4
+[Serum Visions](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Serum]+[Visions])
+
+
+2
+[Inquisition of Kozilek](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Inquisition]+[of]+[Kozilek])
+
+
+1
+[Vampiric Link](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Vampiric]+[Link])
+
+
+
+##### 2 (12)
+
+
+
+4
+[Snapcaster Mage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Snapcaster]+[Mage])
+
+
+2
+[Terminate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Terminate])
+
+
+3
+[Remand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Remand])
+
+
+2
+[Spellskite](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Spellskite])
+
+
+1
+[Rakdos Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Rakdos]+[Charm])
+
+
+
+##### 3 (14)
+
+
+
+2
+[Pestermite](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Pestermite])
+
+
+4
+[Deceiver Exarch](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Deceiver]+[Exarch])
+
+
+2
+[Vendilion Clique](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Vendilion]+[Clique])
+
+
+2
+[Kolaghan's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Kolaghan]+[Command])
+
+
+1
+[Electrolyze](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Electrolyze])
+
+
+2
+[Anger of the Gods](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Anger]+[of]+[the]+[Gods])
+
+
+1
+[Blood Moon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Blood]+[Moon])
+
+
+
+##### 4 (8)
+
+
+
+4
+[Splinter Twin](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Splinter]+[Twin])
+
+
+2
+[Cryptic Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Cryptic]+[Command])
+
+
+1
+[Sowing Salt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Sowing]+[Salt])
+
+
+1
+[Jace, Architect of Thought](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Jace,]+[Architect]+[of]+[Thought])
+
+
+
+##### 5 (1)
+
+
+
+1
+[Keranos, God of Storms](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Keranos,]+[God]+[of]+[Storms])
+
+
+
+##### 6 (2)
+
+
+
+2
+[Tasigur, the Golden Fang](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Tasigur,]+[the]+[Golden]+[Fang])
+
+
+52 Cards 
+
+
+
+##### Common (17)
+
+
+
+4
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Island])
+
+
+1
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Swamp])
+
+
+1
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Mountain])
+
+
+2
+[Pestermite](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Pestermite])
+
+
+2
+[Terminate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Terminate])
+
+
+2
+[Dispel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Dispel])
+
+
+4
+[Serum Visions](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Serum]+[Visions])
+
+
+1
+[Vampiric Link](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Vampiric]+[Link])
+
+
+
+##### Uncommon (18)
+
+
+
+4
+[Deceiver Exarch](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Deceiver]+[Exarch])
+
+
+4
+[Lightning Bolt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Lightning]+[Bolt])
+
+
+3
+[Remand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Remand])
+
+
+2
+[Spell Snare](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Spell]+[Snare])
+
+
+1
+[Electrolyze](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Electrolyze])
+
+
+2
+[Inquisition of Kozilek](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Inquisition]+[of]+[Kozilek])
+
+
+1
+[Sowing Salt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Sowing]+[Salt])
+
+
+1
+[Rakdos Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Rakdos]+[Charm])
+
+
+
+##### Rare (36)
+
+
+
+1
+[Creeping Tar Pit](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Creeping]+[Tar]+[Pit])
+
+
+4
+[Scalding Tarn](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Scalding]+[Tarn])
+
+
+4
+[Polluted Delta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Polluted]+[Delta])
+
+
+1
+[Desolate Lighthouse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Desolate]+[Lighthouse])
+
+
+3
+[Sulfur Falls](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Sulfur]+[Falls])
+
+
+1
+[Blood Crypt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Blood]+[Crypt])
+
+
+2
+[Steam Vents](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Steam]+[Vents])
+
+
+1
+[Watery Grave](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Watery]+[Grave])
+
+
+4
+[Snapcaster Mage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Snapcaster]+[Mage])
+
+
+4
+[Splinter Twin](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Splinter]+[Twin])
+
+
+2
+[Kolaghan's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Kolaghan]+[Command])
+
+
+2
+[Cryptic Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Cryptic]+[Command])
+
+
+2
+[Tasigur, the Golden Fang](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Tasigur,]+[the]+[Golden]+[Fang])
+
+
+2
+[Spellskite](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Spellskite])
+
+
+2
+[Anger of the Gods](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Anger]+[of]+[the]+[Gods])
+
+
+1
+[Blood Moon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Blood]+[Moon])
+
+
+
+##### Mythic (4)
+
+
+
+2
+[Vendilion Clique](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Vendilion]+[Clique])
+
+
+1
+[Keranos, God of Storms](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Keranos,]+[God]+[of]+[Storms])
+
+
+1
+[Jace, Architect of Thought](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+[Jace,]+[Architect]+[of]+[Thought])
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Creeping+Tar+Pit)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

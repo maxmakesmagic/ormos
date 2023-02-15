@@ -50,7 +50,7 @@ As a bonus, we bring you a wallpaper of **Crown of Convergence**, a *Ravnica* ca
 
 
 
-![](https://web.archive.org/web/20150923034524im_/http://archive.wizards.com/global/images/mtgcom_arcana_902_pic1_en.jpg)[1280x960 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_AgrusKos_1280x960.jpg)  
+![](https://media.wizards.com/legacy/global/images/mtgcom_arcana_902_pic1_en.jpg)[1280x960 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_AgrusKos_1280x960.jpg)  
 [1024x768 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_AgrusKos_1024x768.jpg)  
 [800x600 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_AgrusKos_800x600.jpg)
 
@@ -61,7 +61,7 @@ As a bonus, we bring you a wallpaper of **Crown of Convergence**, a *Ravnica* ca
 
 
 
-![](https://web.archive.org/web/20150922225137im_/http://archive.wizards.com/global/images/mtgcom_arcana_902_pic2_en.jpg)[1280x960 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_CrownofConvergence_1280x960.jpg)  
+![](https://media.wizards.com/legacy/global/images/mtgcom_arcana_902_pic2_en.jpg)[1280x960 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_CrownofConvergence_1280x960.jpg)  
 [1024x768 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_CrownofConvergence_1024x768.jpg)  
 [800x600 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_CrownofConvergence_800x600.jpg)
 

@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20200505192953/https://magic.wizards.com/en/articles/archive/feature/where-find-historic-anthology-iii-previews-2020-05-05?as)
+[Link to Wayback Machine](https://web.archive.org/web/20200507120627/https://magic.wizards.com/en/articles/archive/feature/where-find-historic-anthology-iii-previews-2020-05-05)
 
 [_metadata_:author]:- "Blake Rasmussen"
 [_metadata_:description]:- "On May 8, we're previewing every card in MTG Arena's upcoming Historic Anthology III. Get the scoop on where to find all the latest reveals right here."
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2020-05-05"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Where to Find Historic Anthology III Previews"
-[_metadata_:wayback_capture_timestamp]:- "2020-05-05 19:29:53"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200505192953id_/https://magic.wizards.com/en/articles/archive/feature/where-find-historic-anthology-iii-previews-2020-05-05?as"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/where-find-historic-anthology-iii-previews-2020-05-05?as"
+[_metadata_:wayback_capture_timestamp]:- "2020-05-07 12:06:27"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200507120627id_/https://magic.wizards.com/en/articles/archive/feature/where-find-historic-anthology-iii-previews-2020-05-05"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/where-find-historic-anthology-iii-previews-2020-05-05"
 ---
 
 

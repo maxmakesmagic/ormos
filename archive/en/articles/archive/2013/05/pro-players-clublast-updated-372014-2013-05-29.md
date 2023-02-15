@@ -1,0 +1,186 @@
+
+---
+[Link to Wayback Machine](https://web.archive.org/web/20211023075218/https://magic.wizards.com/en/articles/archive/pro-players-clublast-updated-372014-2013-05-29)
+
+[_metadata_:description]:- "First NameLast NameNationalityPro Club LevelJuan CarlosAdebo DiazSpainSilverAliAintraziUnited StatesSilverAnssiAlkioFinlandSilverRasmusBjörklundSwedenSilverSveinungBjørnerudNorwaySilverSamuelBlackUnited StatesGoldRichardBlandEnglandSilverJaredBoettcherUnited StatesSilverNicoBohnySwitzerlandSilverKaiBuddeGermanySilverChristianCalcanoUnited"
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "198851"
+[_metadata_:publish_date]:- "2013-05-29"
+[_metadata_:source]:- "div-main-content"
+[_metadata_:title]:- "Pro Players ClubLast Updated: 3/7/2014"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-23 07:52:18"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023075218id_/https://magic.wizards.com/en/articles/archive/pro-players-clublast-updated-372014-2013-05-29"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/pro-players-clublast-updated-372014-2013-05-29"
+---
+
+
+Pro Players ClubLast Updated: 3/7/2014
+======================================
+
+
+
+ Posted in [NEWS](/en/articles)
+ on May 29, 2013 
+
+
+
+
+
+
+
+
+
+
+
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| **First Name** | **Last Name** | **Nationality** | **Pro Club Level** |
+| Juan Carlos | Adebo Diaz | Spain | Silver |
+| Ali | Aintrazi | United States | Silver |
+| Anssi | Alkio | Finland | Silver |
+| Rasmus | Björklund | Sweden | Silver |
+| Sveinung | Bjørnerud | Norway | Silver |
+| Samuel | Black | United States | Gold |
+| Richard | Bland | England | Silver |
+| Jared | Boettcher | United States | Silver |
+| Nico | Bohny | Switzerland | Silver |
+| Kai | Budde | Germany | Silver |
+| Christian | Calcano | United States | Gold |
+| Andrew | Cantillana | Philippines | Silver |
+| Pedro | Carvalho | Brazil | Silver |
+| Rob | Castellon | United States | Silver |
+| Patrick | Chapin | United States | Silver |
+| Justin | Cheung | Australia | Silver |
+| Kelvin | Chew | Singapore | Gold |
+| Stanislav | Cifka | Czech Republic | Platinum |
+| Kamiel | Cornelissen | Netherlands | Silver |
+| Harry | Corvese | United States | Silver |
+| Matthew | Costa | United States | Gold |
+| Patrick | Cox | United States | Gold |
+| Nicolas | Cuenca | United States | Silver |
+| Andrew | Cuneo | United States | Silver |
+| Pierre | Dagen | France | Silver |
+| Paulo Vitor | Damo da Rosa | Brazil | Silver |
+| Louis | Deltour | France | Silver |
+| Brian | Demars | United States | Silver |
+| Joe | Demestrio | United States | Silver |
+| Sebastian | Denno | Canada | Silver |
+| Melissa | DeTora | United States | Gold |
+| Jeremy | Dezani | France | Platinum |
+| Patrick | Dickmann | Germany | Silver |
+| Robin | Dolar | Slovenia | Silver |
+| Reid | Duke | United States | Platinum |
+| Willy | Edel | Brazil | Platinum |
+| Thomas | Enevoldsen | Denmark | Silver |
+| samuele | Estratti | Italy | Gold |
+| Gerard | Fabiano | United States | Silver |
+| Chris | Fennell | United States | Gold |
+| Jon | Finkel | United States | Silver |
+| Ivan | Floch | Slovakia | Gold |
+| Ben | Friedman | United States | Silver |
+| Eric | Froehlich | United States | Platinum |
+| Andreas | Ganz | Switzerland | Silver |
+| Miguel | Gatica | Costa Rica | Silver |
+| Roberto | Gonzales | United States | Silver |
+| Maksym | Gryn | Canada | Silver |
+| Yann | Guthmann | France | Silver |
+| Jesse | Hampton | United States | Silver |
+| Alexander | Hayne | Canada | Gold |
+| Thomas | Holzinger | Austria | Silver |
+| Hao-Shan | Huang | Taiwan, Province of China | Silver |
+| Matthias | Hunt | United States | Silver |
+| Lukas | Jaklovsky | Czech Republic | Gold |
+| William | Jensen | United States | Gold |
+| Dan | Jordan | United States | Gold |
+| robert | Jurkovic | Slovakia | Silver |
+| Martin | Juza | Czech Republic | Platinum |
+| Brian | Kibler | United States | Platinum |
+| Jonas | Koestler | Germany | Silver |
+| Mike | Krasnitski | Ukraine | Silver |
+| Wenzel | Krautmann | Germany | Silver |
+| Tzu-Ching | Kuo | Taiwan, Province of China | Gold |
+| Marc | Lalague | United States | Silver |
+| Joel | Larsson | Sweden | Gold |
+| Ari | Lax | United States | Gold |
+| Shi Tian | Lee | Hong Kong | Gold |
+| Raphael | Levy | France | Gold |
+| Bo | Li | China | Silver |
+| Tyler | Lytle | United States | Silver |
+| Valentin | Mackl | Austria | Silver |
+| Alex | Majlaton | United States | Silver |
+| Michael | Majors | United States | Silver |
+| Seth | Manfield | United States | Silver |
+| Stephen | Mann | United States | Gold |
+| Tom | Martell | United States | Platinum |
+| Josh | McClain | United States | Gold |
+| Shaun | McLaren | Canada | Platinum |
+| Makihito | Mihara | Japan | Platinum |
+| Zvi | Mowshowitz | United States | Silver |
+| Tamas | Nagy | Hungary | Silver |
+| Shuhei | Nakamura | Japan | Platinum |
+| Matthew | Nass | United States | Silver |
+| Gabriel | Nassif | France | Gold |
+| Brad | Nelson | United States | Silver |
+| Andreas | Nordahl | Norway | Silver |
+| Kenny | Oberg | Sweden | Silver |
+| David | Ochoa | United States | Platinum |
+| Dusty | Ochoa | United States | Silver |
+| Neal | Oliver | United States | Silver |
+| Samuel | Pardee | United States | Silver |
+| Brock | Parker | United States | Silver |
+| Tomek | Pedrakowski | Poland | Silver |
+| Raymond | Perez Jr. | United States | Silver |
+| Alessandro | Portaro | Italy | Silver |
+| Andrejs | Prost | Latvia | Gold |
+| Denniz | Rachid | Sweden | Gold |
+| Paul | Rietzl | United States | Gold |
+| Tim | Rivera | United States | Silver |
+| daniel | Royde | England | Silver |
+| Tomoharu | Saito | Japan | Silver |
+| Eduardo | Sajgalik | England | Silver |
+| Luis | Scott-Vargas | United States | Platinum |
+| Christian | Seibold | Germany | Silver |
+| David | Sharfman | United States | Gold |
+| Shahar | Shenhar | Israel | Platinum |
+| Dave | Shiels | United States | Gold |
+| Andrew | Shrout | United States | Silver |
+| José Francisco | Silva | Brazil | Silver |
+| Chapman | Sim | Singapore | Silver |
+| Timothée | Simonot | France | Silver |
+| Lucas | Siow | Canada | Silver |
+| Max | Sjoblom | Finland | Silver |
+| Frank | Skarren | United States | Silver |
+| Matthew | Sperling | United States | Silver |
+| Ben | Stark | United States | Platinum |
+| Jon | Stern | Canada | Gold |
+| Emanuel | Sutor | Germany | Silver |
+| Lukas | Tajak | Germany | Silver |
+| Raymond | Tan | Malaysia | Silver |
+| richmond | Tan | Philippines | Silver |
+| Felipe | Tapia Becerra | Chile | Silver |
+| Gerry | Thompson | United States | Gold |
+| Owen | Turtenwald | United States | Platinum |
+| Josh | Utter-Leyton | United States | Platinum |
+| Matteo | Versari | Italy | Silver |
+| Gaudenis | Vidugiris | Lithuania | Gold |
+| Guillaume | WAFO-TAPA | France | Silver |
+| Yuuya | Watanabe | Japan | Platinum |
+| Elias | Watsfeldt | Sweden | Silver |
+| Craig | Wescoe | United States | Platinum |
+| Vidianto | Wijaya | United States | Silver |
+| Jacob | Wilson | Canada | Gold |
+| Conley | Woods | United States | Gold |
+| Satoshi | Yamaguchi | Japan | Silver |
+| Kentaro | Yamamoto | Japan | Gold |
+| Shota | Yasooka | Japan | Gold |
+| Ken | Yukuhiro | Japan | Gold |
+| Matej | Zatlkaj | Slovakia | Silver |
+| Jingwei | Zheng | New Zealand | Silver |
+
+
+
+
+
+
+

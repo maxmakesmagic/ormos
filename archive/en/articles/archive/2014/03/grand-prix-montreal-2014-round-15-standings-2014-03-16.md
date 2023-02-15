@@ -1,0 +1,1659 @@
+
+---
+[Link to Wayback Machine](https://web.archive.org/web/20210618020518/https://magic.wizards.com/en/articles/archive/grand-prix-montreal-2014-round-15-standings-2014-03-16)
+
+[_metadata_:author]:- "Wizards of the Coast"
+[_metadata_:description]:- "Rank Player Points OMW% 1 Fournier, Daniel [CAN] 41 73.1410% 2 Fabiano, Gerard [USA] 40 73.0525% 3 Shiels, Dave [USA] 39 68.8889% 4 Chang, Morgan M [USA] 39 68.7546% 5 Alt, Judah [USA] 39 64.5265% 6 Gomes, Benjamin [USA] 39 62.6740% 7 Robertson, Ian [CAN] 38 63.4392% 8 Parker, Brock [USA] 37 71.7949% 9 Risi, Geoff [CAN] 37 67.0423% 10 Ochoa, David [USA] 36 74.7002% 11 Gagnon,"
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "161601"
+[_metadata_:publish_date]:- "2014-03-16"
+[_metadata_:source]:- "div-main-content"
+[_metadata_:title]:- "GRAND PRIX MONTREAL 2014 ROUND 15 STANDINGS"
+[_metadata_:wayback_capture_timestamp]:- "2021-06-18 02:05:18"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210618020518id_/https://magic.wizards.com/en/articles/archive/grand-prix-montreal-2014-round-15-standings-2014-03-16"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/grand-prix-montreal-2014-round-15-standings-2014-03-16"
+---
+
+
+GRAND PRIX MONTREAL 2014 ROUND 15 STANDINGS
+===========================================
+
+
+
+ Posted in [NEWS](/en/articles?source=MX_Nav2020)
+ on March 16, 2014 
+
+
+
+
+
+
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
+By Wizards of the Coast
+
+
+
+
+
+
+
+
+
+
+
+
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| [**Rank**](http://staging.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gpmon14/stand15&tablesort=1) | [**Player**](http://staging.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gpmon14/stand15&tablesort=2) | [**Points**](http://staging.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gpmon14/stand15&tablesort=3) | [**OMW%**](http://staging.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gpmon14/stand15&tablesort=4) |
+| 1 | Fournier, Daniel [CAN] | 41 | 73.1410% |
+| 2 | Fabiano, Gerard [USA] | 40 | 73.0525% |
+| 3 | Shiels, Dave [USA] | 39 | 68.8889% |
+| 4 | Chang, Morgan M [USA] | 39 | 68.7546% |
+| 5 | Alt, Judah [USA] | 39 | 64.5265% |
+| 6 | Gomes, Benjamin [USA] | 39 | 62.6740% |
+| 7 | Robertson, Ian [CAN] | 38 | 63.4392% |
+| 8 | Parker, Brock [USA] | 37 | 71.7949% |
+| 9 | Risi, Geoff [CAN] | 37 | 67.0423% |
+| 10 | Ochoa, David [USA] | 36 | 74.7002% |
+| 11 | Gagnon, Jacob [USA] | 36 | 70.8913% |
+| 12 | Tom, Kar Yung [CAN] | 36 | 69.2308% |
+| 13 | Corvese, Harry [CAN] | 36 | 68.5185% |
+| 14 | Jordan, Daniel [USA] | 36 | 67.6951% |
+| 15 | Gushattey, Jared M [CAN] | 36 | 66.3553% |
+| 16 | Seto, Galone [CAN] | 36 | 66.0608% |
+| 17 | Tucker, Jeff W [CAN] | 36 | 65.9341% |
+| 18 | Dore, Maxime [CAN] | 36 | 65.8413% |
+| 19 | Egashira, Kenji T [USA] | 36 | 65.7646% |
+| 20 | Moulton, Jesse [CAN] | 36 | 65.0000% |
+| 21 | Simon, Michael [USA] | 36 | 64.6032% |
+| 22 | Tse, Felix [CAN] | 36 | 64.1799% |
+| 23 | Mancuso, Adam [USA] | 36 | 64.1138% |
+| 24 | Schnayer, Tobias [CAN] | 36 | 63.9444% |
+| 25 | Yu, Fred [CAN] | 36 | 62.8031% |
+| 26 | Daigle, Carl-Francis [CAN] | 36 | 61.6984% |
+| 27 | Danilkow, Alex [CAN] | 36 | 60.2126% |
+| 28 | Wicks, Robert [USA] | 36 | 60.0317% |
+| 29 | Boucher-Frappier, Andr [CAN] | 36 | 59.4577% |
+| 30 | Benn, Adam [CAN] | 34 | 70.7051% |
+| 31 | Alarie, Sebastien [CAN] | 34 | 68.2906% |
+| 32 | Blondon, William [CAN] | 34 | 65.3590% |
+| 33 | Ogreenc, Greg [USA] | 33 | 70.9796% |
+| 34 | Majlaton, Alex [CAN] | 33 | 70.9402% |
+| 35 | Demestrio, Joe [USA] | 33 | 69.6164% |
+| 36 | Burnett, Kai [USA] | 33 | 68.6691% |
+| 37 | Hill, Zac [USA] | 33 | 68.0556% |
+| 38 | Dufour, Terrence [CAN] | 33 | 67.9021% |
+| 39 | Smith, Robert [CAN] | 33 | 67.6435% |
+| 40 | Friedman, Ben [USA] | 33 | 67.5496% |
+| 41 | Li, Chen [USA] | 33 | 66.5503% |
+| 42 | Reiber, Zachary [CAN] | 33 | 66.4683% |
+| 43 | Savoie, Alexandre [CAN] | 33 | 66.3042% |
+| 44 | Dettelis, Philip [USA] | 33 | 66.2407% |
+| 45 | Toussaint, Francis [CAN] | 33 | 65.5556% |
+| 46 | Tharmaratnam, Samuel [CAN] | 33 | 65.5203% |
+| 47 | Mihajlovic-Gendron, Ni [CAN] | 33 | 65.2169% |
+| 48 | McNamara, Brendan [USA] | 33 | 65.1134% |
+| 49 | (11) Hayne, Alexander [CAN] | 33 | 64.7090% |
+| 50 | (7) Shenhar, Shahar [USA] | 33 | 64.7090% |
+| 51 | Angers, Marc [CAN] | 33 | 63.4392% |
+| 52 | Dufour, Jimmy [CAN] | 33 | 63.1614% |
+| 53 | Mariani, Johnny [CAN] | 33 | 62.9029% |
+| 54 | Cuneo, Andrew [USA] | 33 | 62.8571% |
+| 55 | Be, Ronald [CAN] | 33 | 62.5582% |
+| 56 | Lozinski, Daniel [CAN] | 33 | 62.1799% |
+| 57 | Rowe, Jonathan [CAN] | 33 | 62.1376% |
+| 58 | Luk, Andrew [CAN] | 33 | 61.9597% |
+| 59 | Lafenetre, Gael [FRA] | 33 | 60.0741% |
+| 60 | Liu, Brian Jason [CAN] | 33 | 59.7672% |
+| 61 | Labuda, Lucas [USA] | 33 | 59.6058% |
+| 62 | Johnson, Courtney [CAN] | 33 | 59.5999% |
+| 63 | Levstein, Alexander [CAN] | 33 | 59.1808% |
+| 64 | Kerr, David [CAN] | 33 | 59.0873% |
+| 65 | Maini, Quentin [CAN] | 33 | 54.3084% |
+| 66 | Ando, Michael [USA] | 32 | 73.1005% |
+| 67 | Sachlas, Peter [CAN] | 31 | 66.4286% |
+| 68 | Spinner, Seth [USA] | 31 | 65.4701% |
+| 69 | DiMaggio, Matthew [USA] | 31 | 65.3968% |
+| 70 | Bakker, Les [CAN] | 31 | 65.2169% |
+| 71 | Woods, Conley [USA] | 31 | 64.3915% |
+| 72 | Skarren, Frank [USA] | 31 | 64.2125% |
+| 73 | O'Brien, Matt [USA] | 31 | 64.1808% |
+| 74 | Blanchette, Jamie [CAN] | 31 | 64.0926% |
+| 75 | Manfield, Seth [USA] | 31 | 63.3433% |
+| 76 | Wallerstein, Robert [USA] | 31 | 63.1958% |
+| 77 | Robdrup, Andrew [CAN] | 31 | 62.8205% |
+| 78 | Leahy, Nicholas [CAN] | 31 | 62.7523% |
+| 79 | Thibeault, Vincent [CAN] | 31 | 62.7169% |
+| 80 | Santa, Richard [CAN] | 31 | 62.4586% |
+| 81 | Jette, Jonathan [CAN] | 31 | 62.3333% |
+| 82 | Smiley, Thomas [USA] | 31 | 61.9992% |
+| 83 | Patelakis, Steve [CAN] | 31 | 61.2354% |
+| 84 | Wong, Marcus [CAN] | 31 | 61.0688% |
+| 85 | Garant-Rousseau, Guill [CAN] | 31 | 60.9733% |
+| 86 | Parker, Gregory [USA] | 31 | 60.0847% |
+| 87 | Heal, Nicholas [USA] | 30 | 72.6374% |
+| 88 | Kambourakis, Joseph [USA] | 30 | 69.6581% |
+| 89 | O'Donnell, Devon [USA] | 30 | 67.5000% |
+| 90 | Pienaar, Ivan [CAN] | 30 | 67.4939% |
+| 91 | Joseph-Pare, Bertrand [CAN] | 30 | 67.1995% |
+| 92 | Bradley, Morgan [CAN] | 30 | 66.8742% |
+| 93 | Costa, Matthew [USA] | 30 | 66.7989% |
+| 94 | Boettcher, Jared A [USA] | 30 | 66.5311% |
+| 95 | Nguyen, Lan [CAN] | 30 | 66.3114% |
+| 96 | Pangman, Robert [CAN] | 30 | 66.2973% |
+| 97 | Allan, Dane [CAN] | 30 | 66.0998% |
+| 98 | St-Martin-Alard, Jonat [CAN] | 30 | 66.0043% |
+| 99 | Mackl, Valentin [AUT] | 30 | 65.9788% |
+| 100 | Baumiller, Ronald [CAN] | 30 | 65.5556% |
+| 101 | Traikov, Erik [CAN] | 30 | 64.9101% |
+| 102 | Mann-Hielscher, Eric [USA] | 30 | 64.8352% |
+| 103 | Zeman, Tyson [CAN] | 30 | 64.7589% |
+| 104 | Pinsky, Matt [CAN] | 30 | 64.7477% |
+| 105 | Vasovski, Mike [USA] | 30 | 64.4147% |
+| 106 | Beauregard, Benoit [CAN] | 30 | 63.8105% |
+| 107 | Wiles, Jason [CAN] | 30 | 63.4656% |
+| 108 | Wong, David [CAN] | 30 | 62.9392% |
+| 109 | Frankel, Josh [CAN] | 30 | 62.8022% |
+| 110 | Stapleton, Joshua [CAN] | 30 | 62.3779% |
+| 111 | Lewis, Aaron [USA] | 30 | 62.3168% |
+| 112 | Leon Valencia, Francis [CAN] | 30 | 61.7366% |
+| 113 | Deslauriers, Marc [CAN] | 30 | 61.5873% |
+| 114 | Miller, Matthew [USA] | 30 | 61.2910% |
+| 115 | Trudel, Christian [CAN] | 30 | 61.0856% |
+| 116 | Tremblay, Martin [ECU] | 30 | 60.6744% |
+| 117 | Krasnozon, Jefferey [CAN] | 30 | 60.5045% |
+| 118 | Kelahan, Seamus [USA] | 30 | 59.5918% |
+| 119 | Wasson, John [CAN] | 30 | 59.3197% |
+| 120 | Omar-bujak, Hakim [CAN] | 30 | 59.3182% |
+| 121 | Sun, Blake [CAN] | 30 | 58.4212% |
+| 122 | Moynihan, Christopher [USA] | 30 | 58.2285% |
+| 123 | Gian, David [CAN] | 30 | 58.0644% |
+| 124 | Drouin, Simon [CAN] | 30 | 56.0261% |
+| 125 | Joyce, Adam [CAN] | 28 | 63.7075% |
+| 126 | Kraupa, Richard [CAN] | 27 | 69.5073% |
+| 127 | Veil, Bryan [AFG] | 27 | 68.1777% |
+| 128 | Culligan, Michael J [CAN] | 27 | 68.1136% |
+| 129 | Shunamon, Jonathan [MAR] | 27 | 66.7262% |
+| 130 | Snook, Adam [USA] | 27 | 65.5311% |
+| 131 | Gagne, Vincent [CAN] | 27 | 65.3724% |
+| 132 | Parke, Jamie [USA] | 27 | 65.2778% |
+| 133 | Pite, Derek [CAN] | 27 | 65.1374% |
+| 134 | Boyling, Adam [CAN] | 27 | 64.5688% |
+| 135 | Bertorelli, Philip [USA] | 27 | 64.2104% |
+| 136 | O'Neil, Will [USA] | 27 | 64.0023% |
+| 137 | Sciesinski, Marcin [IRL] | 27 | 63.6166% |
+| 138 | Dubreuil, Patrice [CAN] | 27 | 63.0450% |
+| 139 | Danylyshen, Nicholas [CAN] | 27 | 62.9067% |
+| 140 | Durney, Ryan [USA] | 27 | 62.7438% |
+| 141 | Paquin, Sebastien [CAN] | 27 | 62.0434% |
+| 142 | Mitchell, Kyle [CAN] | 27 | 61.6911% |
+| 143 | Walker, Noah [USA] | 27 | 61.5873% |
+| 144 | Giles, Michael [CAN] | 27 | 61.4621% |
+| 145 | Lalonde, Chris [CAN] | 27 | 61.4484% |
+| 146 | Priemer, Tyler [CAN] | 27 | 60.5213% |
+| 147 | Leger, Philippe [CAN] | 27 | 60.4274% |
+| 148 | Bastien, Christian [CAN] | 27 | 60.0539% |
+| 149 | Matthews, Mark [CAN] | 27 | 59.9998% |
+| 150 | St-Denis, Francis [CAN] | 27 | 59.8753% |
+| 151 | Leverone, Ryan [USA] | 27 | 59.8611% |
+| 152 | Cournoyer-Michel, Maël [CAN] | 27 | 59.1323% |
+| 153 | Marino, Mauro [CAN] | 27 | 58.6706% |
+| 154 | Mostarac, Demetre [CAN] | 24 | 66.3462% |
+| 155 | Bold Wark, Lewis [CAN] | 24 | 65.7596% |
+| 156 | Davoudi, Mani [CAN] | 24 | 65.3175% |
+| 157 | Dwinell-Yardley, Sayer [USA] | 24 | 65.2612% |
+| 158 | Couture, Jean-Philippe [CAN] | 24 | 65.1951% |
+| 159 | Hooper, Kyle [CAN] | 24 | 63.8889% |
+| 160 | Leavens, Penuel [USA] | 24 | 63.7840% |
+| 161 | Tankus, Nathan [USA] | 24 | 62.6804% |
+| 162 | Mermet, Olivier [CAN] | 24 | 62.0238% |
+| 163 | Dufour, Marc [CAN] | 24 | 59.0049% |
+| 164 | Mailloux, Emmanuel [CAN] | 24 | 55.9310% |
+| 165 | Mirehouse, Clayton [CAN] | 22 | 67.3942% |
+| 166 | Brown, Ethan [USA] | 21 | 65.2350% |
+| 167 | Beaulieu, Marc [CAN] | 21 | 60.7401% |
+| 168 | Gago, Daniel [USA] | 21 | 59.6752% |
+| 169 | Xing, Paul [CAN] | 21 | 58.2024% |
+| 170 | Blum, Tyler [CAN] | 19 | 69.4444% |
+| 171 | ONeill, Johnathan [CAN] | 19 | 69.1204% |
+| 172 | Desrosiers, Rafael [CAN] | 19 | 61.5285% |
+| 173 | Wang, Austin [CAN] | 19 | 56.4668% |
+| 174 | Thiara, Devinder [CAN] | 19 | 55.6966% |
+| 175 | Fortin1531, Alexandre [CAN] | 19 | 54.3945% |
+| 176 | Mercier, Mathew [CAN] | 18 | 77.7778% |
+| 177 | Calcano, Christian [USA] | 18 | 76.1905% |
+| 178 | Sokol, Greg [USA] | 18 | 74.0079% |
+| 179 | Ha, Chris C [CAN] | 18 | 73.2639% |
+| 180 | Maynard, Pascal [CAN] | 18 | 73.0159% |
+| 181 | Lanthier, Dan [CAN] | 18 | 72.9497% |
+| 182 | Anctil, Kevin [CAN] | 18 | 72.9167% |
+| 183 | Brown, Max [USA] | 18 | 72.0899% |
+| 184 | Herman, Jason [CAN] | 18 | 71.6553% |
+| 185 | Beauchamp, Mark [CAN] | 18 | 71.1420% |
+| 186 | Gade, Brandon [USA] | 18 | 71.0204% |
+| 187 | Desjardins, Ivan [CAN] | 18 | 70.6349% |
+| 188 | Schumacher, Ryan [USA] | 18 | 70.6349% |
+| 189 | Bertoncini, alex s [USA] | 18 | 70.6019% |
+| 190 | Van Driel, Boaz [NLD] | 18 | 70.3373% |
+| 191 | Canieso, Robert [USA] | 18 | 69.1358% |
+| 192 | Roy, Mageael [CAN] | 18 | 69.1270% |
+| 193 | Thompson, Connor [USA] | 18 | 67.5595% |
+| 194 | Anderson, Robert [CAN] | 18 | 66.8651% |
+| 195 | Hayman, Tim [CAN] | 18 | 66.6887% |
+| 196 | Genna, Peter [USA] | 18 | 66.3801% |
+| 197 | D'Agostino, Vince [CAN] | 18 | 66.2982% |
+| 198 | Blackborow, Josh [USA] | 18 | 65.7099% |
+| 199 | Akow, Sacha [CAN] | 18 | 65.5045% |
+| 200 | Trottier, Charles [CAN] | 18 | 65.5045% |
+| 201 | Blanchet, Andrew [USA] | 18 | 65.3125% |
+| 202 | (21) Fennell, Chris [USA] | 18 | 65.3108% |
+| 203 | Amar, Selim [CAN] | 18 | 65.1455% |
+| 204 | Magalhaes, Edgar [CAN] | 18 | 64.7392% |
+| 205 | Dickmann, Patrick [DEU] | 18 | 64.7109% |
+| 206 | Norton, Chris [USA] | 18 | 64.6712% |
+| 207 | Siow, Lucas [CAN] | 18 | 64.2857% |
+| 208 | Kaplow, Robert [CAN] | 18 | 64.1461% |
+| 209 | Volclair, Cyrille [FRA] | 18 | 63.9109% |
+| 210 | Dearing, David [CAN] | 18 | 63.7649% |
+| 211 | Rosman-Simionescu, Tob [CAN] | 18 | 63.5802% |
+| 212 | (2) Duke, Reid [USA] | 18 | 63.4590% |
+| 213 | Stewart, Kevin [CAN] | 18 | 63.4480% |
+| 214 | Sebbag, Cedric [CAN] | 18 | 63.3220% |
+| 215 | Mercier, Maxime [CAN] | 18 | 63.1614% |
+| 216 | Pincus, Max [USA] | 18 | 63.0864% |
+| 217 | Moskal, Greg [CAN] | 18 | 63.0456% |
+| 218 | Morawski, Jonathan [USA] | 18 | 62.2619% |
+| 219 | White, Jeff [CAN] | 18 | 62.2222% |
+| 220 | Haak, Bryan [USA] | 18 | 62.1995% |
+| 221 | Vieira, Pedro [CAN] | 18 | 62.1776% |
+| 222 | Doré, Félix [CAN] | 18 | 62.0282% |
+| 223 | Asselin, Philippe [CAN] | 18 | 61.7609% |
+| 224 | Lewis, Mike [CAN] | 18 | 61.6667% |
+| 225 | Huot, Simon [CAN] | 18 | 61.3889% |
+| 226 | Herr, Joshua [USA] | 18 | 61.3580% |
+| 227 | Johnson-Epstein, Jaspe [USA] | 18 | 61.3426% |
+| 228 | Lalague, Marc [USA] | 18 | 61.3426% |
+| 229 | Searles, James [USA] | 18 | 61.2847% |
+| 230 | Abela, Andrew [CAN] | 18 | 61.1111% |
+| 231 | Monh, Christopher [CAN] | 18 | 60.8466% |
+| 232 | Imery, Jesus [CAN] | 18 | 60.7937% |
+| 233 | Slykhuis, Dan [CAN] | 18 | 60.6702% |
+| 234 | Bonov, Alexander [BGR] | 18 | 60.6702% |
+| 235 | De Pinho, Jonathan [CAN] | 18 | 60.5247% |
+| 236 | Tsigounis, Thomas [CAN] | 18 | 60.5071% |
+| 237 | Kwolek, Dymitri [CAN] | 18 | 60.4663% |
+| 238 | Maguire, Doug [CAN] | 18 | 60.4630% |
+| 239 | Schwab, Jason [USA] | 18 | 60.3307% |
+| 240 | Buchanan, Jessica [CAN] | 18 | 60.2778% |
+| 241 | Storey, Derek [CAN] | 18 | 60.2072% |
+| 242 | Rambarran, Ricardo [CAN] | 18 | 60.1764% |
+| 243 | Merriam, Ross [USA] | 18 | 60.1361% |
+| 244 | Yang, Daniel [CAN] | 18 | 60.0942% |
+| 245 | Hattwick, Nicholas [USA] | 18 | 60.0595% |
+| 246 | Belanger, Guillaume [CAN] | 18 | 60.0529% |
+| 247 | Tanner, Chas [USA] | 18 | 59.7884% |
+| 248 | Dean, Paul [CAN] | 18 | 59.5387% |
+| 249 | Casselman, Jeffrey [CAN] | 18 | 59.4356% |
+| 250 | Renaud, Jonathan [CAN] | 18 | 59.4356% |
+| 251 | Chin Fee, Brendan [CAN] | 18 | 59.2593% |
+| 252 | Gryn, Maksym [CAN] | 18 | 59.1553% |
+| 253 | Khare, Anand [USA] | 18 | 59.0873% |
+| 254 | Fink, Erik [USA] | 18 | 59.0179% |
+| 255 | Larsson, Chris [CAN] | 18 | 58.9683% |
+| 256 | Martineau, Robert [CAN] | 18 | 58.8183% |
+| 257 | Preda, Ciprian [CAN] | 18 | 58.6210% |
+| 258 | Duffield, Ryan [CAN] | 18 | 58.6126% |
+| 259 | Lane, Mikael [CAN] | 18 | 58.3025% |
+| 260 | Sutliff, Casey [USA] | 18 | 58.3025% |
+| 261 | Titizian, Sam [CAN] | 18 | 57.8924% |
+| 262 | Liorti, Andrew [CAN] | 18 | 57.8086% |
+| 263 | Yamasaki, Shogo [CAN] | 18 | 57.6389% |
+| 264 | Minick, Mark [USA] | 18 | 57.6146% |
+| 265 | Hopkins, Michael [USA] | 18 | 57.5838% |
+| 266 | Remillard, Michel [CAN] | 18 | 57.4912% |
+| 267 | Staszewski Hodgins, Jo [CAN] | 18 | 57.3677% |
+| 268 | Bu-Mansour, Chad [CAN] | 18 | 57.2917% |
+| 269 | Kim, Isaac H [USA] | 18 | 57.2443% |
+| 270 | Barber, William [USA] | 18 | 57.2310% |
+| 271 | Carino, Joseph [CAN] | 18 | 57.1181% |
+| 272 | Alvarez De Araya, Vice [CAN] | 18 | 56.9161% |
+| 273 | Thibault, Gregoire [CAN] | 18 | 56.8430% |
+| 274 | Parks, Ian [USA] | 18 | 56.8034% |
+| 275 | Giustino, Anthony [USA] | 18 | 56.4506% |
+| 276 | Tan, Marcus [CAN] | 18 | 56.4506% |
+| 277 | Mayville, Luke [USA] | 18 | 56.3272% |
+| 278 | Yoshida, Brian [CAN] | 18 | 55.7202% |
+| 279 | Lambert-Desjarlais, Pa [CAN] | 18 | 55.6790% |
+| 280 | Bouchard, Maximilien [CAN] | 18 | 55.6276% |
+| 281 | Deer, Kenyon [CAN] | 18 | 55.5556% |
+| 282 | Greenidge, Jamal [USA] | 18 | 55.5308% |
+| 283 | Belanger, Maxim [CAN] | 18 | 55.5159% |
+| 284 | Lapierre, Samuel [CAN] | 18 | 55.4277% |
+| 285 | Chareux, Francois [CAN] | 18 | 55.2910% |
+| 286 | Brush, Emery [USA] | 18 | 55.2690% |
+| 287 | Murray, Adam [CAN] | 18 | 55.1736% |
+| 288 | Vance, James [CAN] | 18 | 55.1474% |
+| 289 | Ho, Eric (Ting) [CAN] | 18 | 55.0632% |
+| 290 | Sacks, Neal [USA] | 18 | 55.0595% |
+| 291 | Bishop, Eric [CAN] | 18 | 54.8611% |
+| 292 | Tremblay, Sébastien [CAN] | 18 | 54.6296% |
+| 293 | PERRIN, NICHOLAS [CAN] | 18 | 54.4974% |
+| 294 | Repta, Joel [CAN] | 18 | 54.1071% |
+| 295 | De Azevedo Piovezan, F [BRA] | 18 | 54.1064% |
+| 296 | Laufer, Ben [USA] | 18 | 53.8801% |
+| 297 | Rollins, Nicholas [USA] | 18 | 53.8719% |
+| 298 | Pirro, Jacob [CAN] | 18 | 53.5406% |
+| 299 | Longo, Andrew [USA] | 18 | 53.4722% |
+| 300 | Ratajczak, Matthew [USA] | 18 | 53.4722% |
+| 301 | Arthur, Patrick [CAN] | 18 | 53.4450% |
+| 302 | Mascioli, Chris [USA] | 18 | 53.1805% |
+| 303 | Ho, Eugene [CAN] | 18 | 53.0644% |
+| 304 | Cousins, Adam [CAN] | 18 | 52.9167% |
+| 305 | Wu, Dalton [USA] | 18 | 52.6455% |
+| 306 | Poirier, Eric [CAN] | 18 | 52.4691% |
+| 307 | Wong, Luan [CAN] | 18 | 52.4250% |
+| 308 | Pigeon, Justin [CAN] | 18 | 51.8122% |
+| 309 | Kukla, Nicholas [USA] | 18 | 51.6887% |
+| 310 | De Vries, Peter [CAN] | 18 | 51.2500% |
+| 311 | Deslandes, Nicolas [CAN] | 18 | 51.2037% |
+| 312 | Song, John [CAN] | 18 | 50.6944% |
+| 313 | Mercier, Etienne [CAN] | 18 | 50.5129% |
+| 314 | Nunes, James [USA] | 18 | 50.4630% |
+| 315 | Bolduc, Maxime [CAN] | 18 | 50.1543% |
+| 316 | Matteau, Jean-Philippe [CAN] | 18 | 49.9471% |
+| 317 | Do, Thanh Quang [CAN] | 18 | 49.0432% |
+| 318 | Miniati, Francis [CAN] | 18 | 48.9418% |
+| 319 | Leblanc, Samuel [CAN] | 18 | 48.5714% |
+| 320 | Courtemanche, Matt [CAN] | 18 | 48.5714% |
+| 321 | Arends, Randolph [USA] | 18 | 48.2716% |
+| 322 | Janovsky, James [CAN] | 18 | 48.0952% |
+| 323 | Villeneuve, Sebastien [CAN] | 18 | 47.3611% |
+| 324 | Siembor, Michael [USA] | 18 | 47.3369% |
+| 325 | Couture, Dan [CAN] | 18 | 46.2963% |
+| 326 | Saucier, David [CAN] | 18 | 45.6261% |
+| 327 | Dreher, Gregory [USA] | 18 | 45.2778% |
+| 328 | DeJong, David [CAN] | 18 | 41.7166% |
+| 329 | Bresett, John W [USA] | 16 | 67.5737% |
+| 330 | Jividen, Jonathan [USA] | 16 | 55.7445% |
+| 331 | Helguero, Marcos [CAN] | 16 | 52.5044% |
+| 332 | Anisman, Jeffrey [CAN] | 16 | 50.0992% |
+| 333 | Gomelyuk, Andre [CAN] | 16 | 49.7942% |
+| 334 | Faulkner, Derick [CAN] | 16 | 48.5597% |
+| 335 | Boyko, Ivan [CAN] | 16 | 47.4177% |
+| 336 | Brown, Steven [CAN] | 16 | 41.5535% |
+| 337 | Proulx, Simon [CAN] | 15 | 73.5119% |
+| 338 | Aeschbacher, David [USA] | 15 | 72.9167% |
+| 339 | Morison, Kyle [USA] | 15 | 71.7857% |
+| 340 | Oliver, Neal [USA] | 15 | 70.3571% |
+| 341 | Gagnon, Marc-André [CAN] | 15 | 70.0680% |
+| 342 | Usman, Nicholas [USA] | 15 | 68.9484% |
+| 343 | Laterreur, Etienne [CAN] | 15 | 68.4354% |
+| 344 | Hilson, Ian [CAN] | 15 | 67.3611% |
+| 345 | Sigrist, Mike R [USA] | 15 | 67.2123% |
+| 346 | Tran, Simon [CAN] | 15 | 67.1296% |
+| 347 | Butterfield, Nathaniel [USA] | 15 | 66.6667% |
+| 348 | Wohns, Dan [CAN] | 15 | 66.0714% |
+| 349 | Stern, Jon [CAN] | 15 | 66.0053% |
+| 350 | Hertz, Michael [USA] | 15 | 65.7407% |
+| 351 | Johnstone, Ian [CAN] | 15 | 65.1042% |
+| 352 | Proano, Gina [CAN] | 15 | 64.9554% |
+| 353 | McVean, Daniel [CAN] | 15 | 64.8065% |
+| 354 | Griffith, Michael [USA] | 15 | 64.7917% |
+| 355 | Muller, Paul [USA] | 15 | 64.5833% |
+| 356 | Kandziolka, James R [USA] | 15 | 64.4345% |
+| 357 | Bianchi, Alex [USA] | 15 | 64.2857% |
+| 358 | Gagne, Timothy [USA] | 15 | 63.9137% |
+| 359 | Sawyer, Dave [CAN] | 15 | 63.8542% |
+| 360 | Tucker, Cory [CAN] | 15 | 63.7188% |
+| 361 | Hum, Barry [CAN] | 15 | 63.6905% |
+| 362 | King, Kevin [USA] | 15 | 63.5665% |
+| 363 | Schooley, Patrick [USA] | 15 | 63.4921% |
+| 364 | Giuliani, Lucas [CAN] | 15 | 63.0879% |
+| 365 | Elliott, Garth [USA] | 15 | 63.0208% |
+| 366 | Seigman, Daniel [USA] | 15 | 63.0208% |
+| 367 | Galves, Victor [CAN] | 15 | 62.9630% |
+| 368 | Znoj, Tyler [CAN] | 15 | 62.1429% |
+| 369 | Huot, Michael [CAN] | 15 | 62.0062% |
+| 370 | Messaoudi, Nizar [CAN] | 15 | 61.9048% |
+| 371 | Perreault, Elliot [CAN] | 15 | 61.6220% |
+| 372 | Lacroix, Francis [CAN] | 15 | 61.4583% |
+| 373 | Wong, Stats [CAN] | 15 | 61.4418% |
+| 374 | Vazquez, John-Philip [CAN] | 15 | 61.4137% |
+| 375 | Liquidano, Jairo [CAN] | 15 | 61.3988% |
+| 376 | Morelli, Mike [CAN] | 15 | 61.2500% |
+| 377 | Vuong, Richie [CAN] | 15 | 61.0565% |
+| 378 | Graham, Lawrence [CAN] | 15 | 60.9375% |
+| 379 | Hsieh, Ken [CAN] | 15 | 60.6173% |
+| 380 | Flavell, Steven [CAN] | 15 | 60.5804% |
+| 381 | Gagnon, Jean-Nicolas [CAN] | 15 | 60.4541% |
+| 382 | Woyiwada, Tyler [CAN] | 15 | 60.4167% |
+| 383 | Wells, Venu [CAN] | 15 | 60.0595% |
+| 384 | Diamant Boustead, Andr [CAN] | 15 | 59.7470% |
+| 385 | Vaillant, Nicolas [FRA] | 15 | 59.7470% |
+| 386 | Mainville, Olivier [CAN] | 15 | 59.7470% |
+| 387 | Fung, Kenny [CAN] | 15 | 59.7222% |
+| 388 | Murray, Aaron [CAN] | 15 | 59.5679% |
+| 389 | Gao, Jeffrey [CAN] | 15 | 59.3304% |
+| 390 | Beamish, Malcolm [CAN] | 15 | 59.2262% |
+| 391 | Pitsikoulis, John [CAN] | 15 | 59.0774% |
+| 392 | Labelle, Olivier [CAN] | 15 | 58.8542% |
+| 393 | Paquet, Alex Steve [CAN] | 15 | 58.8542% |
+| 394 | Morin, Bruno-Pier [CAN] | 15 | 58.8183% |
+| 395 | Guenther, Nolan [CAN] | 15 | 58.6806% |
+| 396 | Meyers, Stephen [USA] | 15 | 58.6458% |
+| 397 | Shaker, Jacob [USA] | 15 | 58.5597% |
+| 398 | Shliselberg, Michael [USA] | 15 | 58.4970% |
+| 399 | Thatcher, Kevin [USA] | 15 | 58.4788% |
+| 400 | Dutson, Corey [CAN] | 15 | 58.3774% |
+| 401 | Gerard, Stephane [CAN] | 15 | 58.1349% |
+| 402 | Lee, Jackie [USA] | 15 | 57.9762% |
+| 403 | Young, Matthew [CAN] | 15 | 57.9018% |
+| 404 | Worrall, Ryan [CAN] | 15 | 57.8836% |
+| 405 | Darlow, Ari [USA] | 15 | 57.8125% |
+| 406 | Kaspar, Kendall [USA] | 15 | 57.7551% |
+| 407 | Moir, Ben [CAN] | 15 | 57.6389% |
+| 408 | Blackwell, Jeremy [CAN] | 15 | 57.6042% |
+| 409 | Druschel, Kevin [USA] | 15 | 57.5617% |
+| 410 | Monast, David [CAN] | 15 | 57.5149% |
+| 411 | Chirnside, Adam [CAN] | 15 | 57.2917% |
+| 412 | Darmouni, Olivier [USA] | 15 | 57.2222% |
+| 413 | Damien, Francois [CAN] | 15 | 56.9665% |
+| 414 | Matheson, Craig [CAN] | 15 | 56.9345% |
+| 415 | Goldfarb, David [CAN] | 15 | 56.7901% |
+| 416 | Fairley, John [CAN] | 15 | 56.7113% |
+| 417 | Allard, Jocelyn [CAN] | 15 | 56.7019% |
+| 418 | Abalos, Sam [USA] | 15 | 56.6270% |
+| 419 | Chan, Philip [CAN] | 15 | 56.3776% |
+| 420 | Chong, Jack [CAN] | 15 | 56.2257% |
+| 421 | Parlato, Richie [USA] | 15 | 56.2054% |
+| 422 | Pham Le, John David [CAN] | 15 | 56.2054% |
+| 423 | O'Connor, Aaron [CAN] | 15 | 56.0847% |
+| 424 | Robert, Mathieu [CAN] | 15 | 55.7731% |
+| 425 | Pineault, Mark [CAN] | 15 | 55.5864% |
+| 426 | Stella, Daniel [USA] | 15 | 55.5776% |
+| 427 | Badrudin, Karim [CAN] | 15 | 55.4167% |
+| 428 | Hamel, Julien [CAN] | 15 | 55.3720% |
+| 429 | Sanderson, Scott [USA] | 15 | 55.3720% |
+| 430 | Johnson, Derek [CAN] | 15 | 55.3288% |
+| 431 | Montgomery-Wilson, Bri [CAN] | 15 | 55.2910% |
+| 432 | Parker, Cole [CAN] | 15 | 55.2083% |
+| 433 | Schnayer, David [CAN] | 15 | 54.7685% |
+| 434 | Pigeon, Jeffrey [CAN] | 15 | 54.6208% |
+| 435 | Lang, Christopher [CAN] | 15 | 54.5536% |
+| 436 | Choy, Charles [CAN] | 15 | 54.3304% |
+| 437 | Boutin, Jon [CAN] | 15 | 53.9815% |
+| 438 | Poncelet, Kevin [USA] | 15 | 53.9683% |
+| 439 | Gauthier, Samuel [CAN] | 15 | 53.9583% |
+| 440 | Viens, Marc-Alexandre [CAN] | 15 | 53.8690% |
+| 441 | Santos, Diego [CAN] | 15 | 53.6458% |
+| 442 | Allen, Travis [USA] | 15 | 53.6458% |
+| 443 | Morin, Olivier [CAN] | 15 | 53.5494% |
+| 444 | Vaillancourt, Samuel [CAN] | 15 | 53.2099% |
+| 445 | So, Kaspar [CAN] | 15 | 53.1066% |
+| 446 | Duguay, Maxime [CAN] | 15 | 53.0908% |
+| 447 | Poupart, Olvier [CAN] | 15 | 53.0864% |
+| 448 | Mackenzie, Ronald [CAN] | 15 | 52.9167% |
+| 449 | Fournier, Michel [CAN] | 15 | 52.9167% |
+| 450 | LeBlanc, Nicholas [CAN] | 15 | 52.6940% |
+| 451 | Laplante, Ryan [CAN] | 15 | 52.6637% |
+| 452 | Aiken, Simone [USA] | 15 | 52.2399% |
+| 453 | Braun, Benjamin [MAR] | 15 | 52.1296% |
+| 454 | Carroll, Maya [CAN] | 15 | 52.0282% |
+| 455 | MacFarlane, Kate [CAN] | 15 | 51.9345% |
+| 456 | Poulin, Anthony [CAN] | 15 | 51.7113% |
+| 457 | Gauthier, Martin Eric [CAN] | 15 | 51.5123% |
+| 458 | De Sandro, Timothée [CAN] | 15 | 51.5030% |
+| 459 | Bedard, Raphael [CAN] | 15 | 51.4109% |
+| 460 | Meszaros, Jake [CAN] | 15 | 51.3066% |
+| 461 | Grourke, Vincent [USA] | 15 | 51.2346% |
+| 462 | Berube, Philippe [CAN] | 15 | 50.9970% |
+| 463 | Gray, Andrew [CAN] | 15 | 50.7407% |
+| 464 | Ferneyhough, Michael [CAN] | 15 | 50.4762% |
+| 465 | Dubuc, Jonathan [CAN] | 15 | 49.7917% |
+| 466 | Richard, Francois [CAN] | 15 | 49.5465% |
+| 467 | Schilha, Eric [CAN] | 15 | 49.5062% |
+| 468 | Dykes, Cristina [USA] | 15 | 49.4940% |
+| 469 | Ting-A-Kee, Andrew [CAN] | 15 | 49.2708% |
+| 470 | Chan, Samuel [CAN] | 15 | 49.2708% |
+| 471 | Herr, Elijah [USA] | 15 | 49.0653% |
+| 472 | Hebert, Justin [CAN] | 15 | 48.2716% |
+| 473 | Huddlestone, Simon [CAN] | 15 | 48.2292% |
+| 474 | Faynvits, Daniel [USA] | 15 | 48.1966% |
+| 475 | Dupuis-Gervais, Philip [CAN] | 15 | 48.1261% |
+| 476 | Gagnon Girard, Zachary [CAN] | 15 | 47.8720% |
+| 477 | Lachance, Marc-Antoine [CAN] | 15 | 47.8307% |
+| 478 | Giraldeau, Renaud [CAN] | 15 | 47.6190% |
+| 479 | Hince, Abram [USA] | 15 | 47.2222% |
+| 480 | Wilcock, Chris [USA] | 15 | 46.7372% |
+| 481 | Painchaud, Guillaume [CAN] | 15 | 46.5741% |
+| 482 | Cyrenne, Mathieu [CAN] | 15 | 46.5432% |
+| 483 | Banho, Paulo [CAN] | 15 | 46.3683% |
+| 484 | Bain, Scott [USA] | 15 | 46.2434% |
+| 485 | Cullerton, Evan [USA] | 15 | 46.0317% |
+| 486 | Lau, Toby [CAN] | 15 | 45.9722% |
+| 487 | Slaton, Hunter [USA] | 15 | 45.7804% |
+| 488 | Annino, Louis [USA] | 15 | 43.7978% |
+| 489 | Chabot, Christian [CAN] | 15 | 41.5123% |
+| 490 | Miniati, Christian [CAN] | 15 | 39.4753% |
+| 491 | Potvin, Guillaume [CAN] | 14 | 52.5942% |
+| 492 | Chu, Stephen [CAN] | 14 | 49.0741% |
+| 493 | Tolvanen, Juha [FIN] | 14 | 40.3219% |
+| 494 | Payne, Daniel M [CAN] | 13 | 64.2857% |
+| 495 | Fazekas, Matt [USA] | 13 | 59.4921% |
+| 496 | Shrestha, Bishwa [CAN] | 13 | 57.1429% |
+| 497 | Ngo, Alan [CAN] | 13 | 54.8571% |
+| 498 | Tremblay, John [CAN] | 13 | 53.7528% |
+| 499 | Vincent Ardea, FÃ©lix [CAN] | 13 | 51.7007% |
+| 500 | Knauer, David [CAN] | 13 | 51.6799% |
+| 501 | Darlow, Kyle [USA] | 13 | 51.1161% |
+| 502 | Rowell, Tanner [USA] | 13 | 50.4336% |
+| 503 | Pasch, Korey [CAN] | 13 | 50.1014% |
+| 504 | Millspaugh, Justin [USA] | 13 | 49.0930% |
+| 505 | Bernier, Cyril [CAN] | 13 | 45.7202% |
+| 506 | Moreau, Hubert [CAN] | 13 | 44.5400% |
+| 507 | Lavergne, Marc-Andre [CAN] | 13 | 44.3563% |
+| 508 | Biron, Xavier [CAN] | 12 | 80.0000% |
+| 509 | Dery, Jonathan [CAN] | 12 | 77.1429% |
+| 510 | Couture, Mathieu [CAN] | 12 | 73.4127% |
+| 511 | Cox, Patrick [USA] | 12 | 73.2143% |
+| 512 | Ellis, Jason [USA] | 12 | 71.4286% |
+| 513 | Diminie, Josh [CAN] | 12 | 70.0000% |
+| 514 | Ledvinka, David [CAN] | 12 | 70.0000% |
+| 515 | Findlay, Shaun [CAN] | 12 | 69.4286% |
+| 516 | Chapman, Kacey [CAN] | 12 | 68.7500% |
+| 517 | Metzger, Jonathan [USA] | 12 | 68.5714% |
+| 518 | Ivany, Roger [CAN] | 12 | 68.3673% |
+| 519 | Courtney, Daniel [USA] | 12 | 68.2143% |
+| 520 | Allegrucci, Xavier [CAN] | 12 | 67.7143% |
+| 521 | Wetlaufer, Roscoe [USA] | 12 | 67.1429% |
+| 522 | Breau, Josh [CAN] | 12 | 67.1429% |
+| 523 | Orabona, Scott [USA] | 12 | 67.1429% |
+| 524 | Ingram, Peter L [USA] | 12 | 66.6667% |
+| 525 | Drouin-Bourque, Ariel [CAN] | 12 | 66.6667% |
+| 526 | Ross-Latour, Jeremie [CAN] | 12 | 66.6667% |
+| 527 | Blevins, John [USA] | 12 | 66.3265% |
+| 528 | (23) Vidugiris, Gaudenis [USA] | 12 | 66.0714% |
+| 529 | Asselin, Erick [CAN] | 12 | 65.9864% |
+| 530 | Tran, Mykael [CAN] | 12 | 65.9184% |
+| 531 | Harabas, Christopher [CAN] | 12 | 65.5782% |
+| 532 | Rochette, Alex [CAN] | 12 | 65.4762% |
+| 533 | Clarke, Brendan [CAN] | 12 | 65.3061% |
+| 534 | Ouellet, Ã‰tienne [CAN] | 12 | 65.2381% |
+| 535 | Beaudry Auger, Nicolas [CAN] | 12 | 64.9660% |
+| 536 | Lax, Ari [USA] | 12 | 64.2857% |
+| 537 | Lam, Steven [CAN] | 12 | 64.0136% |
+| 538 | SenÃ©cal, Philip [CAN] | 12 | 63.9456% |
+| 539 | Finn, Robert [CAN] | 12 | 63.9456% |
+| 540 | Herron, Nic [CAN] | 12 | 63.7143% |
+| 541 | Derksen, Geoff [CAN] | 12 | 63.6905% |
+| 542 | Job, Scott [CAN] | 12 | 63.4694% |
+| 543 | Cormier, Mario [CAN] | 12 | 62.9252% |
+| 544 | Chin, Ricky [CAN] | 12 | 62.8571% |
+| 545 | Finch, Matthew [CAN] | 12 | 62.6190% |
+| 546 | Wojceshonek, Brad [USA] | 12 | 62.5850% |
+| 547 | Gervais, Simon [CAN] | 12 | 62.5000% |
+| 548 | Holness, Devaghat [CAN] | 12 | 62.3016% |
+| 549 | Gagne, Sebastien [CAN] | 12 | 61.8367% |
+| 550 | Nyström, Per [SWE] | 12 | 61.5646% |
+| 551 | Sly, John [CAN] | 12 | 61.4966% |
+| 552 | Guay-Provost, Philippe [CAN] | 12 | 61.2245% |
+| 553 | Lemery, Jason [USA] | 12 | 61.2245% |
+| 554 | Madden, Gregory [CAN] | 12 | 61.0714% |
+| 555 | McDonough, Adam [CAN] | 12 | 60.8844% |
+| 556 | Lacelle5636, Olivier [CAN] | 12 | 60.8844% |
+| 557 | Luk, Christopher [CAN] | 12 | 60.8844% |
+| 558 | Bergeron, Julien [CAN] | 12 | 60.8163% |
+| 559 | Champagne, Michael [CAN] | 12 | 60.8163% |
+| 560 | Shiels, Brian [USA] | 12 | 60.4762% |
+| 561 | Simard, Marc [CAN] | 12 | 60.4762% |
+| 562 | Kroll, Steven [CAN] | 12 | 60.4167% |
+| 563 | Grayson, Shane [USA] | 12 | 60.2721% |
+| 564 | Simard, Yves [CAN] | 12 | 60.2381% |
+| 565 | Yeung, Stephan [CAN] | 12 | 60.0595% |
+| 566 | Kovac, Chase [USA] | 12 | 59.9206% |
+| 567 | Woolridge, Nicholas [CAN] | 12 | 59.8810% |
+| 568 | Belhumeur, Scott [CAN] | 12 | 59.7959% |
+| 569 | LePine, Jacob M [USA] | 12 | 59.7959% |
+| 570 | Burrows, Matthew [CAN] | 12 | 59.6875% |
+| 571 | Shvachkin, Gabriel [USA] | 12 | 59.6875% |
+| 572 | Santiago, Jeffery [CAN] | 12 | 59.5238% |
+| 573 | Parent, Mathieu [CAN] | 12 | 59.1837% |
+| 574 | Carrier, Samuel [CAN] | 12 | 59.1270% |
+| 575 | Kenyon, Thomas [USA] | 12 | 58.9569% |
+| 576 | Seagram, Jason [CAN] | 12 | 58.8542% |
+| 577 | Crowley, Kevin [USA] | 12 | 58.8435% |
+| 578 | LeRoux, Colette [USA] | 12 | 58.7946% |
+| 579 | Monette, Hugo-Olivier [CAN] | 12 | 58.7037% |
+| 580 | Ritchie, Scott [CAN] | 12 | 58.5714% |
+| 581 | Page, Stephane [CAN] | 12 | 58.4354% |
+| 582 | Dumais Allain, Hugo [CAN] | 12 | 58.2738% |
+| 583 | Cecchetti, Daniel [USA] | 12 | 58.1633% |
+| 584 | Wilson, Karen [CAN] | 12 | 57.9938% |
+| 585 | Lavoie, Alex [CAN] | 12 | 57.9252% |
+| 586 | Giancoulas, Donald [CAN] | 12 | 57.6042% |
+| 587 | Black, Seth [CAN] | 12 | 57.4830% |
+| 588 | Campbell, Seamus [USA] | 12 | 57.4830% |
+| 589 | Neuteboom, Chris [USA] | 12 | 57.4830% |
+| 590 | Baszto, Michael [USA] | 12 | 57.2917% |
+| 591 | Vincent, Dominic [CAN] | 12 | 57.1882% |
+| 592 | Pepin, Alain [USA] | 12 | 56.9345% |
+| 593 | Pedersen, Chris [CAN] | 12 | 56.7460% |
+| 594 | Chenard, Julien [CAN] | 12 | 56.4626% |
+| 595 | O'Neill, Alexander [USA] | 12 | 56.4626% |
+| 596 | Jette, Fabien [CAN] | 12 | 56.3988% |
+| 597 | Arnold, Andrew M [CAN] | 12 | 56.2500% |
+| 598 | Cousins, Charles [CAN] | 12 | 55.7823% |
+| 599 | Navid, Pedram [CAN] | 12 | 55.7143% |
+| 600 | Marien, Jean-Francois [CAN] | 12 | 55.5556% |
+| 601 | Tang, Jacky [CAN] | 12 | 55.5556% |
+| 602 | Lawfer, Max [USA] | 12 | 55.4762% |
+| 603 | Fleurant, Julien [CAN] | 12 | 55.2381% |
+| 604 | Pileggi, Riccardo [CAN] | 12 | 55.0595% |
+| 605 | Mekallach, Ahmed [CAN] | 12 | 55.0000% |
+| 606 | Gagnon, Louis [CAN] | 12 | 54.7619% |
+| 607 | Czaja, Brandon [USA] | 12 | 54.6875% |
+| 608 | West, Alan [CAN] | 12 | 53.7415% |
+| 609 | Cook, Nick [USA] | 12 | 53.7143% |
+| 610 | Bisson, Steeve [CAN] | 12 | 53.5317% |
+| 611 | Bartsch, Alexander [CAN] | 12 | 53.3333% |
+| 612 | Oneill, Thomas [CAN] | 12 | 53.3333% |
+| 613 | Luneau, Anthony [USA] | 12 | 53.3333% |
+| 614 | Jarrell, Amanda [CAN] | 12 | 53.3333% |
+| 615 | Fortin, Christian [CAN] | 12 | 52.9932% |
+| 616 | Robert, Pierre Olivier [CAN] | 12 | 52.9252% |
+| 617 | Reardon, Justin [CAN] | 12 | 52.9167% |
+| 618 | Lapierre, Eric [CAN] | 12 | 52.8571% |
+| 619 | Zarichny, Brandon [USA] | 12 | 52.6042% |
+| 620 | Langevin, Marjorie [CAN] | 12 | 52.3810% |
+| 621 | Tremblay, JÃ©rome [CAN] | 12 | 52.3810% |
+| 622 | Dumais, Dominic [CAN] | 12 | 52.3129% |
+| 623 | Cossette-pacheco, Alex [CAN] | 12 | 52.3129% |
+| 624 | Roth, Philippe [CAN] | 12 | 52.2470% |
+| 625 | Guermazi, Sarah [CAN] | 12 | 52.2321% |
+| 626 | Cosic, Refik [CAN] | 12 | 52.2222% |
+| 627 | Lourie, Nathan [USA] | 12 | 52.0833% |
+| 628 | Findlay, Andrew [CAN] | 12 | 51.9728% |
+| 629 | Bernier, Alain [CAN] | 12 | 51.9728% |
+| 630 | Lach, Sigismond [CAN] | 12 | 51.9048% |
+| 631 | Turpin, Jacques [CAN] | 12 | 51.9048% |
+| 632 | Xu, Gang [CAN] | 12 | 51.7262% |
+| 633 | Green, Kevin [CAN] | 12 | 51.5079% |
+| 634 | Ouellet, Jonathan [CAN] | 12 | 51.2925% |
+| 635 | Morizet, Matthieu [FRA] | 12 | 51.2925% |
+| 636 | Gaudreau, Jean-David [CAN] | 12 | 51.1111% |
+| 637 | Eadie, Tyler [CAN] | 12 | 51.0891% |
+| 638 | Jeffrey, Scott [CAN] | 12 | 51.0204% |
+| 639 | Foot, Derek [CAN] | 12 | 51.0204% |
+| 640 | Van, Quoc Vinh [CAN] | 12 | 50.7187% |
+| 641 | Lavalliere, Michael [CAN] | 12 | 50.6393% |
+| 642 | Vannelli, Lucas [CAN] | 12 | 50.6173% |
+| 643 | Demaine, Cory [CAN] | 12 | 50.6122% |
+| 644 | Cameron, Shaun [CAN] | 12 | 50.4850% |
+| 645 | Martin, Philippe [CAN] | 12 | 50.3401% |
+| 646 | Hoel, Jeremy [CAN] | 12 | 50.3401% |
+| 647 | Faludi, Michael [CAN] | 12 | 50.2721% |
+| 648 | Fang, Stephen [USA] | 12 | 49.9780% |
+| 649 | Wu, Gavin [USA] | 12 | 49.9603% |
+| 650 | Guedj, Colin [USA] | 12 | 49.9320% |
+| 651 | Duclos, Alexandre [CAN] | 12 | 49.8639% |
+| 652 | Leblanc, Hugo [CAN] | 12 | 49.7768% |
+| 653 | Iriyama, Daiki [CAN] | 12 | 49.3827% |
+| 654 | Duguay, Mathieu [CAN] | 12 | 49.3607% |
+| 655 | St-Laurent, Jerome [CAN] | 12 | 49.2708% |
+| 656 | Girolamo, Joseph [USA] | 12 | 49.0432% |
+| 657 | Fazio, Andrew [CAN] | 12 | 48.9796% |
+| 658 | Noworaj, Andrew [CAN] | 12 | 48.9137% |
+| 659 | Bilodeau, David [CAN] | 12 | 48.8988% |
+| 660 | Bentley, Johnathan [CAN] | 12 | 48.8435% |
+| 661 | Plouffe, Jeremi [CAN] | 12 | 48.7654% |
+| 662 | Baillargeon, Pierre [CAN] | 12 | 48.3333% |
+| 663 | Cheung, Tom [CAN] | 12 | 48.3333% |
+| 664 | Godsoe, Keith [CAN] | 12 | 48.2993% |
+| 665 | Moreau, Simon [CAN] | 12 | 48.1173% |
+| 666 | Machan, Steven [CAN] | 12 | 47.9762% |
+| 667 | Guérette, Simon [CAN] | 12 | 47.8912% |
+| 668 | Meyers, Ian Albert [CAN] | 12 | 47.8912% |
+| 669 | Caltabiano, Giancarlo [CAN] | 12 | 47.7324% |
+| 670 | Loblaw, Ian [CAN] | 12 | 47.6852% |
+| 671 | LalumiÃ¨re, Abel [CAN] | 12 | 46.5021% |
+| 672 | Hamel, Nicolas [CAN] | 12 | 46.1458% |
+| 673 | Darmouni, Guillaume [CAN] | 12 | 45.9480% |
+| 674 | Mens, Devin [CAN] | 12 | 45.8333% |
+| 675 | Lefrancois, Mercedes [CAN] | 12 | 45.3189% |
+| 676 | Detmer, Jameson [USA] | 12 | 45.2160% |
+| 677 | Ayotte, Charles [CAN] | 12 | 44.9074% |
+| 678 | Simmons, Keith [CAN] | 12 | 44.8854% |
+| 679 | Savard, Jp [CAN] | 12 | 44.8339% |
+| 680 | Van Os, Martin [CAN] | 12 | 44.7002% |
+| 681 | Boulet, Felix [CAN] | 12 | 44.6340% |
+| 682 | Samuel-thomassin, Fran [CAN] | 12 | 44.6208% |
+| 683 | Tremblay, Etienne [CAN] | 12 | 44.5578% |
+| 684 | D'Aquila, Alex [CAN] | 12 | 43.7743% |
+| 685 | Maltais, Pierre-Louis [CAN] | 12 | 42.3868% |
+| 686 | Alcock, Brian [CAN] | 12 | 41.1458% |
+| 687 | Stocker, Karl [USA] | 10 | 67.5926% |
+| 688 | Mercier, Frederic [CAN] | 10 | 65.3333% |
+| 689 | Lapierre, Matt [CAN] | 10 | 59.3333% |
+| 690 | C. Larocque, Olivier [CAN] | 10 | 56.7347% |
+| 691 | Morardet, Franck [CAN] | 10 | 53.2880% |
+| 692 | Fournier, David [CAN] | 10 | 53.0612% |
+| 693 | Archambault, Julien [CAN] | 10 | 50.5622% |
+| 694 | Quinones, Tomas [USA] | 10 | 50.4167% |
+| 695 | McMeekin, Scott [CAN] | 10 | 44.6914% |
+| 696 | Musser, Daniel [USA] | 9 | 100.0000% |
+| 697 | Van Cleave, Trey [USA] | 9 | 100.0000% |
+| 698 | Lu, Garry [CAN] | 9 | 80.0000% |
+| 699 | Dejoy, Joe [USA] | 9 | 79.1667% |
+| 700 | Giannopoulos, Steve [CAN] | 9 | 79.1667% |
+| 701 | Gareau, Philippe [CAN] | 9 | 76.6667% |
+| 702 | White, David [CAN] | 9 | 75.5556% |
+| 703 | Fox, Christopher [CAN] | 9 | 75.0000% |
+| 704 | Bouzane, Alexander [CAN] | 9 | 75.0000% |
+| 705 | Hennick, Michael [CAN] | 9 | 75.0000% |
+| 706 | Dauteuil, Miguel [CAN] | 9 | 75.0000% |
+| 707 | Beland, Nicolas [CAN] | 9 | 75.0000% |
+| 708 | Roxburgh, Mike [CAN] | 9 | 72.5000% |
+| 709 | (8) Utter-Leyton, Joshsh [USA] | 9 | 72.2222% |
+| 710 | Denault, Jean-Francois [CAN] | 9 | 72.0000% |
+| 711 | Bastos, Russell [CAN] | 9 | 71.4286% |
+| 712 | Moody, Mitchell [USA] | 9 | 70.8333% |
+| 713 | Lloyd, Alex [USA] | 9 | 70.8333% |
+| 714 | Fontaine-Asselin, Fred [CAN] | 9 | 70.0000% |
+| 715 | Beland-Daigle, Alexand [CAN] | 9 | 70.0000% |
+| 716 | Vairamuthu, Jason [CAN] | 9 | 69.4444% |
+| 717 | Achilles, Brian [USA] | 9 | 69.4444% |
+| 718 | Tatian, John [USA] | 9 | 68.3333% |
+| 719 | Baker, Ryan [CAN] | 9 | 67.7778% |
+| 720 | Simpson, Andrew [USA] | 9 | 66.6667% |
+| 721 | Spencer, Dale [USA] | 9 | 66.6667% |
+| 722 | Vaccaro, John [CAN] | 9 | 66.6667% |
+| 723 | Victory, Robert [USA] | 9 | 66.6667% |
+| 724 | Abcede, Ryan [CAN] | 9 | 66.6667% |
+| 725 | Jacques, Francois [CAN] | 9 | 66.0000% |
+| 726 | Wright, Philip [CAN] | 9 | 65.0000% |
+| 727 | Shao, Xiran [CAN] | 9 | 65.0000% |
+| 728 | Liu, Ying-Di [CAN] | 9 | 65.0000% |
+| 729 | Franzini, Giancarlo E [CAN] | 9 | 64.6667% |
+| 730 | Olders, Andrew [CAN] | 9 | 64.5833% |
+| 731 | Fallarme, Mark [CAN] | 9 | 64.2857% |
+| 732 | Ramasami, Anthony [USA] | 9 | 64.0000% |
+| 733 | Sivaneswaran, Jeremy [CAN] | 9 | 63.9456% |
+| 734 | Nguyen, Rob [USA] | 9 | 63.8889% |
+| 735 | Arteau, Gabriel [CAN] | 9 | 63.8889% |
+| 736 | Watters, Ryan [CAN] | 9 | 63.8889% |
+| 737 | Kraft, Vincent [CAN] | 9 | 63.5374% |
+| 738 | Hancock, Willy [CAN] | 9 | 63.3333% |
+| 739 | LYRETTE, STYVE [CAN] | 9 | 63.3333% |
+| 740 | Payot, Mathieu [CAN] | 9 | 63.1973% |
+| 741 | Scott, Kenny [CAN] | 9 | 63.1481% |
+| 742 | boisjoly, maxime [CAN] | 9 | 63.1481% |
+| 743 | Sauve, Sebastien [CAN] | 9 | 62.6667% |
+| 744 | Renton, Stephen [CAN] | 9 | 62.2449% |
+| 745 | Lai, Conan [CAN] | 9 | 62.2222% |
+| 746 | Dumont, Xavier [CAN] | 9 | 62.0000% |
+| 747 | Feeley, Sam [USA] | 9 | 61.8367% |
+| 748 | Ngo, Jackson [CAN] | 9 | 61.1111% |
+| 749 | Schulz, Brendan [CAN] | 9 | 61.1111% |
+| 750 | Jones, Nathan [CAN] | 9 | 61.1111% |
+| 751 | Arella, Alex [CAN] | 9 | 61.1111% |
+| 752 | Racine Leblanc, Samuel [CAN] | 9 | 60.9524% |
+| 753 | Aw, Roland [CAN] | 9 | 60.5442% |
+| 754 | Samms, Phil [CAN] | 9 | 60.2381% |
+| 755 | Hatch, Benjamin [USA] | 9 | 60.0000% |
+| 756 | Hirt, Douglas [USA] | 9 | 60.0000% |
+| 757 | Chapman, Ben [USA] | 9 | 60.0000% |
+| 758 | Allard, FranÃ§ois [CAN] | 9 | 60.0000% |
+| 759 | Dunkelman, Steven [CAN] | 9 | 59.5238% |
+| 760 | Marchand, Simon [CAN] | 9 | 59.4444% |
+| 761 | Podtburg, Adam [USA] | 9 | 59.4444% |
+| 762 | Roussie, Shane [CAN] | 9 | 59.4444% |
+| 763 | Kunkel, Jeremy [CAN] | 9 | 59.4444% |
+| 764 | Hazra, Samir [CAN] | 9 | 59.4444% |
+| 765 | Bilodeau, Sebastian [CAN] | 9 | 59.1837% |
+| 766 | Beaudet-racine, Marc-a [CAN] | 9 | 59.0000% |
+| 767 | Nixon, Jon R [CAN] | 9 | 58.6667% |
+| 768 | Millette, Eric [CAN] | 9 | 58.3333% |
+| 769 | Pelletier, Martin [CAN] | 9 | 58.3333% |
+| 770 | Hui, Brian [CAN] | 9 | 58.3333% |
+| 771 | Vossen, Alex [CAN] | 9 | 58.3333% |
+| 772 | Polyakov, Alex [USA] | 9 | 58.3333% |
+| 773 | Douglass, Andrew [USA] | 9 | 58.0000% |
+| 774 | Heittola, Carl [CAN] | 9 | 58.0000% |
+| 775 | Sigrist, Christian [USA] | 9 | 56.6667% |
+| 776 | Aelion, Ori [CAN] | 9 | 56.6667% |
+| 777 | Morency, Antoine [CAN] | 9 | 56.6667% |
+| 778 | Davis, Angus W [CAN] | 9 | 56.6667% |
+| 779 | Wan, Jeffrey [CAN] | 9 | 56.6667% |
+| 780 | Bennett, Haydn [CAN] | 9 | 56.6667% |
+| 781 | McClellan, Mason [CAN] | 9 | 56.6667% |
+| 782 | Gendron, Marc-Olivier [CAN] | 9 | 56.6667% |
+| 783 | Cunningham, Joshua [USA] | 9 | 56.4815% |
+| 784 | Prado, Adrian [CAN] | 9 | 56.4815% |
+| 785 | Patel, Hemant [USA] | 9 | 56.3946% |
+| 786 | Richard, Pascal J [CAN] | 9 | 55.9259% |
+| 787 | Fortin, Jimmy [CAN] | 9 | 55.7823% |
+| 788 | Large, George [CAN] | 9 | 55.5556% |
+| 789 | Mai, Gary [CAN] | 9 | 55.5556% |
+| 790 | Kendal, Adam [CAN] | 9 | 55.5556% |
+| 791 | Bernier, Francis [CAN] | 9 | 55.5556% |
+| 792 | Laferriere, Eric [CAN] | 9 | 55.5556% |
+| 793 | Petronzio, Nicolas [CAN] | 9 | 55.5556% |
+| 794 | Poulin, Guillaume [CAN] | 9 | 55.5556% |
+| 795 | Richards, John [USA] | 9 | 55.5556% |
+| 796 | Desbiens, Alex [CAN] | 9 | 55.4422% |
+| 797 | Lazaro, Andrew [USA] | 9 | 55.0000% |
+| 798 | Ribeiro, David Antonio [CAN] | 9 | 55.0000% |
+| 799 | Leblanc Falardeau, Céd [CAN] | 9 | 55.0000% |
+| 800 | Pinault, Jonathan [CAN] | 9 | 54.8148% |
+| 801 | Bernier, Yann [CAN] | 9 | 54.4218% |
+| 802 | Normand, Jean-FranÃ§oi [CAN] | 9 | 54.0136% |
+| 803 | Ma, Will [CAN] | 9 | 53.8889% |
+| 804 | Artzy, Noa Q [CAN] | 9 | 53.8889% |
+| 805 | Joyall, Vince [CAN] | 9 | 53.8889% |
+| 806 | Trites, Ceilidh [CAN] | 9 | 53.8889% |
+| 807 | Boudreau, David [CAN] | 9 | 53.8889% |
+| 808 | Switzer, Wesley [CAN] | 9 | 53.8889% |
+| 809 | Palamar, Max [CAN] | 9 | 53.8889% |
+| 810 | Comber, Jonathon [CAN] | 9 | 53.7415% |
+| 811 | Gagnon, Gabriel [CAN] | 9 | 53.7415% |
+| 812 | Benoit, David [CAN] | 9 | 53.3333% |
+| 813 | Wakeman, Tommy John [USA] | 9 | 53.3333% |
+| 814 | Newby, Andrew [CAN] | 9 | 52.9252% |
+| 815 | Merrill, Patrick [USA] | 9 | 52.7778% |
+| 816 | Jean Leblanc, André-Ph [CAN] | 9 | 52.7778% |
+| 817 | Choi, Jerome [CAN] | 9 | 52.7778% |
+| 818 | Tibbetts, Fraser [CAN] | 9 | 52.7778% |
+| 819 | Dugal, Andrew [CAN] | 9 | 52.7778% |
+| 820 | Cavanagh-Trudel, Ariel [CAN] | 9 | 52.7778% |
+| 821 | Renaud, Domynique [CAN] | 9 | 52.7778% |
+| 822 | McLean, Louis [CAN] | 9 | 52.7211% |
+| 823 | Samson, Louis-Alex [CAN] | 9 | 52.3958% |
+| 824 | Dao, Bruce [CAN] | 9 | 52.2222% |
+| 825 | Louie, Shawn [USA] | 9 | 52.2222% |
+| 826 | Wolfman, Steven [CAN] | 9 | 52.2222% |
+| 827 | Picard5625, Maxime [CAN] | 9 | 52.2222% |
+| 828 | Terrasse, Nicolas [CAN] | 9 | 51.9841% |
+| 829 | Seguin, Alexandre [CAN] | 9 | 51.3889% |
+| 830 | Beaudoin, Patrice [CAN] | 9 | 51.1111% |
+| 831 | Chasan, Zev Y [USA] | 9 | 51.1111% |
+| 832 | Leonard, Christopher [CAN] | 9 | 51.1111% |
+| 833 | Bouvrette, Guillaume [CAN] | 9 | 51.1111% |
+| 834 | Lister, Daniel [CAN] | 9 | 51.1111% |
+| 835 | De Carolis, Paul [CAN] | 9 | 51.1111% |
+| 836 | Turcotte, Owen [CAN] | 9 | 51.1111% |
+| 837 | Hancock, Lewis [CAN] | 9 | 51.1111% |
+| 838 | Sarmiento, Louis [CAN] | 9 | 51.1111% |
+| 839 | Marshall, Samuel [CAN] | 9 | 51.1111% |
+| 840 | Fortin5167, Alexandre [CAN] | 9 | 50.9259% |
+| 841 | Littman, Fai [CAN] | 9 | 50.8929% |
+| 842 | Hier, David [CAN] | 9 | 50.6803% |
+| 843 | Boudias, Axel [CAN] | 9 | 50.6667% |
+| 844 | Lourie, Jared [USA] | 9 | 50.6250% |
+| 845 | Kwan, Richard [CAN] | 9 | 50.5556% |
+| 846 | Da Silva, Edgar [CAN] | 9 | 50.4233% |
+| 847 | Couture, Felix [CAN] | 9 | 50.3401% |
+| 848 | Marin, Alan [USA] | 9 | 50.3401% |
+| 849 | Taimla, Christopher [CAN] | 9 | 50.2721% |
+| 850 | Sauvé, Frédéric [CAN] | 9 | 50.1637% |
+| 851 | Bradbury, Wayne [CAN] | 9 | 50.0000% |
+| 852 | Berry, Evan [CAN] | 9 | 50.0000% |
+| 853 | Nguyen, Patrick [CAN] | 9 | 50.0000% |
+| 854 | Marcotte, Guillaume [CAN] | 9 | 50.0000% |
+| 855 | Amoroso, Marc [USA] | 9 | 50.0000% |
+| 856 | Schapurga, Mike [CAN] | 9 | 50.0000% |
+| 857 | Le Gendre, Randy [CAN] | 9 | 50.0000% |
+| 858 | Hung, Sam [CAN] | 9 | 50.0000% |
+| 859 | Kashmar, Ali [CAN] | 9 | 49.4444% |
+| 860 | Cheng, Ian [CAN] | 9 | 49.4444% |
+| 861 | Lavigne, Mario [CAN] | 9 | 49.4444% |
+| 862 | Robert, Francis [CAN] | 9 | 49.4444% |
+| 863 | Ponton, Sebastien [CAN] | 9 | 49.4444% |
+| 864 | Marion, Daniel [CAN] | 9 | 49.4444% |
+| 865 | Tiger, Daniel [CAN] | 9 | 49.3333% |
+| 866 | Li, Terrence [CAN] | 9 | 48.3333% |
+| 867 | Boivin, Eric [CAN] | 9 | 48.3333% |
+| 868 | Neale, Alexander [CAN] | 9 | 48.3333% |
+| 869 | Noworaj, Anna [CAN] | 9 | 48.3333% |
+| 870 | Disterheft, Julian [CAN] | 9 | 48.3333% |
+| 871 | Brumsey, Peter [CAN] | 9 | 48.3333% |
+| 872 | Bergeron, Mathieu [CAN] | 9 | 48.1702% |
+| 873 | Kohos, James [CAN] | 9 | 47.8231% |
+| 874 | Tedeschi, Joey [CAN] | 9 | 47.5510% |
+| 875 | Robison, Billy [USA] | 9 | 47.4830% |
+| 876 | Parish-Cusson, Liam [CAN] | 9 | 47.2222% |
+| 877 | Taylor, Joshua [USA] | 9 | 47.2222% |
+| 878 | Jutras, Michel [CAN] | 9 | 47.2222% |
+| 879 | Laflamme, Yanic [CAN] | 9 | 47.2222% |
+| 880 | Frebrowski, Daniel [CAN] | 9 | 47.2222% |
+| 881 | Doré, Stéphane [CAN] | 9 | 46.9388% |
+| 882 | Girouard Lavoie, Franc [CAN] | 9 | 46.8707% |
+| 883 | Garand, Kevin [CAN] | 9 | 46.7262% |
+| 884 | Linton, Richard [CAN] | 9 | 46.6667% |
+| 885 | Leclair, Jonathan [CAN] | 9 | 46.6667% |
+| 886 | Provost, Jonathan [CAN] | 9 | 46.6667% |
+| 887 | Hung, Richard [CAN] | 9 | 46.6667% |
+| 888 | Romano, Enzo [CAN] | 9 | 46.5306% |
+| 889 | Bates, Christopher [CAN] | 9 | 46.4815% |
+| 890 | Colbert Regan, Barker [USA] | 9 | 46.3542% |
+| 891 | Laurin-Fortier, Thierr [CAN] | 9 | 46.3095% |
+| 892 | Dezeeuw, Tyler [CAN] | 9 | 45.8503% |
+| 893 | Lussier, Maxime [CAN] | 9 | 45.6250% |
+| 894 | Dupuis, Mireille [CAN] | 9 | 45.5967% |
+| 895 | Robidoux, Marc-André [CAN] | 9 | 45.5556% |
+| 896 | Quevillon, Jonathan [CAN] | 9 | 45.5556% |
+| 897 | Tardif, Patrick [CAN] | 9 | 45.5556% |
+| 898 | Keays, Jason [CAN] | 9 | 45.5556% |
+| 899 | Allegrucci, Thierry [CAN] | 9 | 45.5556% |
+| 900 | Martoni, Tim [CAN] | 9 | 45.5556% |
+| 901 | Corbeil, Louis-Philipp [CAN] | 9 | 45.5556% |
+| 902 | Lepock, Michael [CAN] | 9 | 45.5556% |
+| 903 | Lussier-Cullen, Alexan [CAN] | 9 | 45.3333% |
+| 904 | Verreault, Jules [CAN] | 9 | 45.3333% |
+| 905 | MacPherson, Colin [CAN] | 9 | 44.4444% |
+| 906 | Cooper, John [USA] | 9 | 44.4444% |
+| 907 | Mallette-Vanier, Guill [CAN] | 9 | 44.4444% |
+| 908 | Dupuis, Etienne [CAN] | 9 | 44.4444% |
+| 909 | Hirmiz, Fadi [CAN] | 9 | 44.2708% |
+| 910 | Gauthier, Pascal [CAN] | 9 | 42.8571% |
+| 911 | Jacks, Eric [USA] | 9 | 42.7778% |
+| 912 | Brossard, Taylor [CAN] | 9 | 42.4490% |
+| 913 | Calce, Christopher [CAN] | 9 | 41.6667% |
+| 914 | Babin, Francis [CAN] | 9 | 41.6667% |
+| 915 | Lachaine, Roch-Antoine [CAN] | 9 | 41.4966% |
+| 916 | Belanger Noel, Amélie [CAN] | 9 | 41.4286% |
+| 917 | Lallier, Oscar [CAN] | 9 | 41.4286% |
+| 918 | Lambert, Alyssa [USA] | 9 | 40.0000% |
+| 919 | Varin, Sonia [CAN] | 9 | 39.1887% |
+| 920 | Henry, Mike [CAN] | 9 | 39.0476% |
+| 921 | Cantin, Maxime [CAN] | 9 | 38.8889% |
+| 922 | Ayotte, Vincent [CAN] | 9 | 38.6905% |
+| 923 | Sweeney, Kalvin [CAN] | 9 | 37.4653% |
+| 924 | Wybo, Alexander [CAN] | 8 | 44.0329% |
+| 925 | Gnann, Daryl [CAN] | 8 | 42.8571% |
+| 926 | Tolls, Daniel [CAN] | 7 | 58.7037% |
+| 927 | Brunelle, Moise [CAN] | 7 | 56.0000% |
+| 928 | Dubuc, Eric [CAN] | 7 | 54.6667% |
+| 929 | Pelletier, Jared [CAN] | 7 | 53.7037% |
+| 930 | Davis, Brandon J [CAN] | 7 | 53.3333% |
+| 931 | Cuellar, Christopher [USA] | 7 | 53.0000% |
+| 932 | Giordano, Patrick [USA] | 7 | 52.0833% |
+| 933 | Corrigan, Griffin [USA] | 7 | 52.0000% |
+| 934 | Rousseau, Pierre-Antoi [CAN] | 7 | 52.0000% |
+| 935 | Fleury, Ike [CAN] | 7 | 50.9259% |
+| 936 | Hotman, Jacob [USA] | 7 | 50.3704% |
+| 937 | Tavernier, John [USA] | 7 | 46.8750% |
+| 938 | Lauzon, Justin [CAN] | 7 | 44.6502% |
+| 939 | Camano Alonso, Alex [CAN] | 7 | 43.3673% |
+| 940 | Blais, Jean-Philippe [CAN] | 7 | 42.5926% |
+| 941 | McFarland, Michael [USA] | 7 | 42.2619% |
+| 942 | Cooper, Simon W [USA] | 7 | 40.6667% |
+| 943 | Murray, Justin [CAN] | 6 | 100.0000% |
+| 944 | Nance, Hunter [USA] | 6 | 100.0000% |
+| 945 | Fisher, Aaron [CAN] | 6 | 100.0000% |
+| 946 | Tan, Al Andy [CAN] | 6 | 87.5000% |
+| 947 | Dryden, Mike [CAN] | 6 | 87.5000% |
+| 948 | Bouthot, François [CAN] | 6 | 75.0000% |
+| 949 | Miller, Andrew [USA] | 6 | 75.0000% |
+| 950 | Roy, Marc-Andre [CAN] | 6 | 75.0000% |
+| 951 | Mercier, Antoine [CAN] | 6 | 73.3333% |
+| 952 | Miller, Christopher [CAN] | 6 | 73.3333% |
+| 953 | Calvez, Pierre [CAN] | 6 | 70.8333% |
+| 954 | Ouellet, Benjamin [CAN] | 6 | 69.4444% |
+| 955 | Nadeau, Jerome [CAN] | 6 | 68.7500% |
+| 956 | Schmidt, Mark [CAN] | 6 | 68.0000% |
+| 957 | Tremblay, David [CAN] | 6 | 66.6667% |
+| 958 | Roy, Vincent [CAN] | 6 | 66.6667% |
+| 959 | Prell, Andrew [USA] | 6 | 66.6667% |
+| 960 | Bérubé, André [CAN] | 6 | 66.6667% |
+| 961 | Feingersh, Ben [USA] | 6 | 66.6667% |
+| 962 | Betit, Jean-Francois [CAN] | 6 | 66.6667% |
+| 963 | Boyd, Sam [CAN] | 6 | 65.3333% |
+| 964 | Thompson, Kale [CAN] | 6 | 65.0000% |
+| 965 | Zhang, Peter [CAN] | 6 | 65.0000% |
+| 966 | Wong, Matthew [USA] | 6 | 65.0000% |
+| 967 | Dion, Gabriel [CAN] | 6 | 65.0000% |
+| 968 | Allen, Thomas [CAN] | 6 | 64.6667% |
+| 969 | Paske, Logan [CAN] | 6 | 64.5833% |
+| 970 | Cochrane, Olivier [CAN] | 6 | 64.5833% |
+| 971 | Davids, Jonathan [CAN] | 6 | 64.5833% |
+| 972 | Brule, Simon [CAN] | 6 | 64.5833% |
+| 973 | MacNaughton, Lucas [CAN] | 6 | 64.5833% |
+| 974 | Smith, Jeffrey [CAN] | 6 | 64.5833% |
+| 975 | Wiper, Charles [USA] | 6 | 64.5833% |
+| 976 | Yang, Guang [CAN] | 6 | 64.0000% |
+| 977 | Janjanian, Armen [CAN] | 6 | 64.0000% |
+| 978 | Werbalowsky, Sam [USA] | 6 | 64.0000% |
+| 979 | Mitchell, Christian [CAN] | 6 | 64.0000% |
+| 980 | Tardif, Danny [CAN] | 6 | 64.0000% |
+| 981 | Filiatrault, Benoit [CAN] | 6 | 64.0000% |
+| 982 | Brennan, Gerald [USA] | 6 | 64.0000% |
+| 983 | Beckemeyer, Dustin [USA] | 6 | 63.3333% |
+| 984 | Kimmell, Dylan [CAN] | 6 | 63.3333% |
+| 985 | Kramer, Daniel [CAN] | 6 | 62.6667% |
+| 986 | Pluim, Adam [CAN] | 6 | 62.6667% |
+| 987 | Cantin, Lawrence [CAN] | 6 | 62.6667% |
+| 988 | Lesage, Robert [CAN] | 6 | 62.5000% |
+| 989 | Savic, Mark [CAN] | 6 | 62.5000% |
+| 990 | Rioux, Marc-Antoine [CAN] | 6 | 61.3333% |
+| 991 | McIelwain, Glenn [CAN] | 6 | 61.1111% |
+| 992 | Simms, Matthew [CAN] | 6 | 60.4167% |
+| 993 | MacLean, Stuart [CAN] | 6 | 60.0000% |
+| 994 | Buduroi, Nicolas [CAN] | 6 | 60.0000% |
+| 995 | Engelen, Jessica [USA] | 6 | 60.0000% |
+| 996 | McEachern, Robert [CAN] | 6 | 60.0000% |
+| 997 | Szeto, Thomas [CAN] | 6 | 60.0000% |
+| 998 | Yang, Charles [USA] | 6 | 60.0000% |
+| 999 | Watson, Chris [CAN] | 6 | 60.0000% |
+| 1000 | Maisonneuve, FranÃ§ois [CAN] | 6 | 60.0000% |
+| 1001 | Johnson, Connor [CAN] | 6 | 59.4444% |
+| 1002 | Duthoit, Xavier [CAN] | 6 | 58.8435% |
+| 1003 | Quesada, Ericka [USA] | 6 | 58.6667% |
+| 1004 | Bourque, Bobby [CAN] | 6 | 58.6667% |
+| 1005 | Reed Verville, Patrick [CAN] | 6 | 58.6667% |
+| 1006 | Rollet-boutin, Simon-c [CAN] | 6 | 58.6667% |
+| 1007 | Bouchard, Yoan [CAN] | 6 | 58.6667% |
+| 1008 | Kasunich, Rodney [CAN] | 6 | 58.6667% |
+| 1009 | Dunn, Payne [CAN] | 6 | 58.6667% |
+| 1010 | Prevost, Francois [CAN] | 6 | 58.6667% |
+| 1011 | Tang, Daniel [CAN] | 6 | 58.6667% |
+| 1012 | Kelly, Patrick [CAN] | 6 | 58.6667% |
+| 1013 | Chabot, Nicolas [CAN] | 6 | 58.6667% |
+| 1014 | Chau, Raymond [CAN] | 6 | 58.6667% |
+| 1015 | Rudyak, Rada [USA] | 6 | 58.6667% |
+| 1016 | Ernst, Phillip [USA] | 6 | 58.6667% |
+| 1017 | He, Daniel [CAN] | 6 | 58.6667% |
+| 1018 | Loiselle, Maurice [CAN] | 6 | 58.6667% |
+| 1019 | Merowsky, Nick [USA] | 6 | 58.6667% |
+| 1020 | Boucher, Robert [CAN] | 6 | 58.6667% |
+| 1021 | Bremner, John [CAN] | 6 | 58.6667% |
+| 1022 | Shannon, Brodie [CAN] | 6 | 58.6667% |
+| 1023 | Goorts, Christopher [CAN] | 6 | 58.3333% |
+| 1024 | Dunham, Nathan [CAN] | 6 | 58.3333% |
+| 1025 | Wong, Hok Lai [CAN] | 6 | 58.3333% |
+| 1026 | Guerette Trottier, Kar [CAN] | 6 | 58.3333% |
+| 1027 | Gascon, Jean Francois [CAN] | 6 | 58.3333% |
+| 1028 | Ostiguy, Kevin [CAN] | 6 | 58.3333% |
+| 1029 | COUILLARD, FRANCIS [CAN] | 6 | 58.3333% |
+| 1030 | Rousseau, Hugo [CAN] | 6 | 58.3333% |
+| 1031 | Birrell, Taylor [CAN] | 6 | 58.3333% |
+| 1032 | Kotok, Malcolm [USA] | 6 | 58.3333% |
+| 1033 | Evans, Lyra [CAN] | 6 | 58.3333% |
+| 1034 | Capalongan, Ronald [USA] | 6 | 58.0000% |
+| 1035 | Vegh, Michael [CAN] | 6 | 57.3333% |
+| 1036 | MacDonald, Dan J [CAN] | 6 | 57.3333% |
+| 1037 | Smith, Adam [CAN] | 6 | 57.3333% |
+| 1038 | Grenier, Julien [CAN] | 6 | 57.3333% |
+| 1039 | Metri, Ramsay [CAN] | 6 | 57.3333% |
+| 1040 | Desjardins, Nicolas [CAN] | 6 | 56.6667% |
+| 1041 | Brandon, Alan [CAN] | 6 | 56.0000% |
+| 1042 | Forget, François [CAN] | 6 | 56.0000% |
+| 1043 | Ciappetta, Fred [USA] | 6 | 55.5556% |
+| 1044 | O'Reilly, Patrick [CAN] | 6 | 55.5556% |
+| 1045 | Landry, Ulric [CAN] | 6 | 55.3704% |
+| 1046 | Goldenthal, Joshua [CAN] | 6 | 55.2083% |
+| 1047 | Demers, Hugo [CAN] | 6 | 55.0000% |
+| 1048 | St-Denis, Simon [CAN] | 6 | 54.6667% |
+| 1049 | Lepine, Tomy [CAN] | 6 | 54.6667% |
+| 1050 | Janes, Brian [CAN] | 6 | 54.6667% |
+| 1051 | Lebel, Maxime [CAN] | 6 | 54.6667% |
+| 1052 | Simmonds, Nicholas J [CAN] | 6 | 54.6667% |
+| 1053 | Monahan, Justin [CAN] | 6 | 54.6667% |
+| 1054 | Lessard, Etienne [CAN] | 6 | 54.6667% |
+| 1055 | Labelle, Olivier Alexa [CAN] | 6 | 54.6667% |
+| 1056 | Liang, Christopher [USA] | 6 | 54.1667% |
+| 1057 | Topping, Greg [CAN] | 6 | 54.1667% |
+| 1058 | Prémont, Antoine [CAN] | 6 | 54.1667% |
+| 1059 | Freedman, Kevin [CAN] | 6 | 53.3333% |
+| 1060 | Naidu, Akash [USA] | 6 | 53.3333% |
+| 1061 | Cole, James [CAN] | 6 | 53.3333% |
+| 1062 | Houde, Louis [CAN] | 6 | 53.3333% |
+| 1063 | Ghadiri, Misha [CAN] | 6 | 53.3333% |
+| 1064 | Saint-pierre, Alexandr [CAN] | 6 | 53.3333% |
+| 1065 | Fournier, Kevin [CAN] | 6 | 53.3333% |
+| 1066 | Simard, Philippe [CAN] | 6 | 53.3333% |
+| 1067 | Dubé, Jean-sebastien [CAN] | 6 | 53.3333% |
+| 1068 | Evangelho, Ricardo [CAN] | 6 | 53.3333% |
+| 1069 | Sargent, Joe [CAN] | 6 | 53.3333% |
+| 1070 | Francoeur, Maxime [CAN] | 6 | 53.3333% |
+| 1071 | Stein, Mathew [CAN] | 6 | 53.3333% |
+| 1072 | Schapurga, Kyle [CAN] | 6 | 53.3333% |
+| 1073 | Treherne, Andrew [CAN] | 6 | 53.3333% |
+| 1074 | Kalbfleisch, Robert [CAN] | 6 | 52.7778% |
+| 1075 | Cadieux, Alexandre [CAN] | 6 | 52.7778% |
+| 1076 | Terry St-Jacques, Kevi [CAN] | 6 | 52.7778% |
+| 1077 | Mathers, Kyle [CAN] | 6 | 52.7778% |
+| 1078 | Grondin, Alexandre [CAN] | 6 | 52.7778% |
+| 1079 | Fortier, Michaël [CAN] | 6 | 52.7778% |
+| 1080 | Jung, Leo [USA] | 6 | 52.7778% |
+| 1081 | Haidaraly, Nayaz [CAN] | 6 | 52.7778% |
+| 1082 | Marcotte, Adrien [CAN] | 6 | 52.6667% |
+| 1083 | McLeod, David [CAN] | 6 | 52.6667% |
+| 1084 | Freve, Stephane [CAN] | 6 | 52.3333% |
+| 1085 | Russell, Thomas [USA] | 6 | 52.0833% |
+| 1086 | Bell, Steve [CAN] | 6 | 52.0000% |
+| 1087 | Townley, Robert [USA] | 6 | 51.3605% |
+| 1088 | Sandrin, Ryan [CAN] | 6 | 51.3333% |
+| 1089 | Fraser, Sean [CAN] | 6 | 51.3333% |
+| 1090 | Lemelin, Laurent [CAN] | 6 | 50.6667% |
+| 1091 | Boulanger, Vincent [CAN] | 6 | 50.6667% |
+| 1092 | Gelinas-proulx, Adam [CAN] | 6 | 50.6667% |
+| 1093 | Tampold, Mik [CAN] | 6 | 50.6667% |
+| 1094 | Melanson, Ben [CAN] | 6 | 50.6667% |
+| 1095 | Crete, Gaston [CAN] | 6 | 50.6667% |
+| 1096 | Guillerm, Steve [USA] | 6 | 50.6667% |
+| 1097 | Moran, Nate [USA] | 6 | 50.5556% |
+| 1098 | Brisson, Jonathan [CAN] | 6 | 50.3401% |
+| 1099 | Wang, Linda [USA] | 6 | 50.2721% |
+| 1100 | Briss, Boris [CAN] | 6 | 50.0000% |
+| 1101 | Bouchard-Marcotte, Gab [CAN] | 6 | 50.0000% |
+| 1102 | Blaquiere, Julien [CAN] | 6 | 50.0000% |
+| 1103 | Brian, Thomas [CAN] | 6 | 50.0000% |
+| 1104 | Braun, William [CAN] | 6 | 49.5536% |
+| 1105 | Nowak, Richard [CAN] | 6 | 49.3333% |
+| 1106 | Harrigan, Daniel [USA] | 6 | 49.3333% |
+| 1107 | Pine, Mike R [CAN] | 6 | 49.3333% |
+| 1108 | Hallett, Robbie [USA] | 6 | 49.3333% |
+| 1109 | Cogdill, Jeremy [USA] | 6 | 49.3333% |
+| 1110 | Hall, Mathew [CAN] | 6 | 49.3333% |
+| 1111 | Murphy, Melissa [CAN] | 6 | 49.3333% |
+| 1112 | Zangrando, Matt [CAN] | 6 | 49.3333% |
+| 1113 | Hurst, Christopher [CAN] | 6 | 49.3333% |
+| 1114 | duford, dan [USA] | 6 | 49.3333% |
+| 1115 | Browning, Richard [CAN] | 6 | 49.3333% |
+| 1116 | Sadler, Shawn [CAN] | 6 | 49.3333% |
+| 1117 | Drolet, Vincent [CAN] | 6 | 49.3333% |
+| 1118 | Pedneault, Alexandre [CAN] | 6 | 49.3333% |
+| 1119 | Gravel, Gabriel [CAN] | 6 | 48.8889% |
+| 1120 | Lynch, Sean [CAN] | 6 | 48.3333% |
+| 1121 | Colapelle, Alex [CAN] | 6 | 48.3333% |
+| 1122 | Bonneville, Martin [CAN] | 6 | 48.0000% |
+| 1123 | Sauve, Jacques Olivier [CAN] | 6 | 48.0000% |
+| 1124 | Balle, Sam [USA] | 6 | 47.9167% |
+| 1125 | Laplante, Christian [CAN] | 6 | 47.9167% |
+| 1126 | Sauvé, David [CAN] | 6 | 47.9167% |
+| 1127 | Stein, Jesse [CAN] | 6 | 47.9167% |
+| 1128 | Burgess, Stephen [CAN] | 6 | 47.9167% |
+| 1129 | Tarantini, Anthony [CAN] | 6 | 47.9167% |
+| 1130 | Kiverago, Nicholas [CAN] | 6 | 47.9167% |
+| 1131 | Desaulniers, Charles [CAN] | 6 | 47.3333% |
+| 1132 | Quinnell, Steve r [CAN] | 6 | 47.2222% |
+| 1133 | Gao, David [CAN] | 6 | 47.2222% |
+| 1134 | Tansey, Stephen [USA] | 6 | 47.2222% |
+| 1135 | Sedore, Norman [CAN] | 6 | 47.2222% |
+| 1136 | Chong, Ernest [CAN] | 6 | 46.6667% |
+| 1137 | Sagermann, Christian [CAN] | 6 | 46.6667% |
+| 1138 | Longo, Tyler [CAN] | 6 | 46.6667% |
+| 1139 | Lai, Tom [CAN] | 6 | 46.6667% |
+| 1140 | Carter, Harrison [CAN] | 6 | 46.6667% |
+| 1141 | Lee, Jeffrey [CAN] | 6 | 46.6667% |
+| 1142 | Davis, Joshua [USA] | 6 | 46.2963% |
+| 1143 | Gagné, Étienne [CAN] | 6 | 45.8503% |
+| 1144 | Hernandez, Marcos [CAN] | 6 | 45.5556% |
+| 1145 | Villeneuve, Vincent [CAN] | 6 | 45.5556% |
+| 1146 | Bucaro, Nicolas [FRA] | 6 | 45.5556% |
+| 1147 | Saint-Jacques, Mark [CAN] | 6 | 45.5556% |
+| 1148 | Bellefeuille, Philipe [CAN] | 6 | 45.3333% |
+| 1149 | Campbell, Samuel [CAN] | 6 | 45.3333% |
+| 1150 | Jetté, Francis [CAN] | 6 | 45.3333% |
+| 1151 | Gallagher, Robert [CAN] | 6 | 45.3333% |
+| 1152 | Boyd, Alex [CAN] | 6 | 45.3333% |
+| 1153 | King, Brogan [USA] | 6 | 45.3333% |
+| 1154 | Kershaw, Matthew A [CAN] | 6 | 45.3333% |
+| 1155 | Malo, Benoit [CAN] | 6 | 45.3333% |
+| 1156 | Pilon-Boucher, Renaud [CAN] | 6 | 45.3333% |
+| 1157 | Farand, Herve [CAN] | 6 | 44.4444% |
+| 1158 | Chew, Stephan [CAN] | 6 | 44.4444% |
+| 1159 | Wetlaufer, Marcus [USA] | 6 | 44.0000% |
+| 1160 | Allard Dos Santos, Ale [CAN] | 6 | 44.0000% |
+| 1161 | Goldfarb, Mathew [CAN] | 6 | 44.0000% |
+| 1162 | Adams, James [USA] | 6 | 44.0000% |
+| 1163 | McManus, Tomas [CAN] | 6 | 43.8889% |
+| 1164 | Martin, Cory [CAN] | 6 | 43.7500% |
+| 1165 | Cayer, Marc-André [CAN] | 6 | 43.7500% |
+| 1166 | Coyle, Lauren [CAN] | 6 | 43.5185% |
+| 1167 | Chong, King [CAN] | 6 | 42.8571% |
+| 1168 | Bourbeau-pelletier, Ph [CAN] | 6 | 42.7778% |
+| 1169 | Ray, Alexander [USA] | 6 | 42.7778% |
+| 1170 | McAlpin, John-Francis [CAN] | 6 | 42.6667% |
+| 1171 | Le Roy, Stephane [CAN] | 6 | 42.2222% |
+| 1172 | Cormier, Frank [CAN] | 6 | 41.8367% |
+| 1173 | Pettigrew, Raphael [CAN] | 6 | 41.8367% |
+| 1174 | Tyndall, Nate [CAN] | 6 | 41.6667% |
+| 1175 | Ross, Tom [CAN] | 6 | 41.6667% |
+| 1176 | Pringle, Shawn [CAN] | 6 | 41.3333% |
+| 1177 | Madon, Stewart [CAN] | 6 | 41.3333% |
+| 1178 | Gignac, Claude [CAN] | 6 | 40.6803% |
+| 1179 | Morissette, Philippe [CAN] | 6 | 40.4762% |
+| 1180 | Roesler, Michael [CAN] | 6 | 40.0000% |
+| 1181 | Martin, Riley [CAN] | 6 | 38.8889% |
+| 1182 | Robert, Marie-Eve [CAN] | 6 | 38.6667% |
+| 1183 | Nadeau, Simon [CAN] | 6 | 33.3333% |
+| 1184 | Wilson, Chris [CAN] | 5 | 54.1667% |
+| 1185 | Sherwood, Melissa [CAN] | 5 | 45.8333% |
+| 1186 | Decarie, Tanya [CAN] | 5 | 42.6667% |
+| 1187 | Lau, Alvi [CAN] | 4 | 55.5556% |
+| 1188 | McNaughton, Cole [CAN] | 4 | 53.3333% |
+| 1189 | Garceau, Veronique [CAN] | 4 | 52.0000% |
+| 1190 | Reiber, Lawrence [CAN] | 4 | 50.6667% |
+| 1191 | Bliss, Travis [CAN] | 4 | 48.3333% |
+| 1192 | Seltzer, Eric J [CAN] | 4 | 47.5595% |
+| 1193 | Boyer, Patrick [CAN] | 4 | 45.0000% |
+| 1194 | Gervais, Pierre-Luc [CAN] | 4 | 43.7500% |
+| 1195 | Kozuch, Mallory [USA] | 4 | 41.6667% |
+| 1196 | Conacher, Robert [CAN] | 4 | 41.3333% |
+| 1197 | Simard, Jean-Philippe [CAN] | 4 | 41.0431% |
+| 1198 | Laforest, Mark [CAN] | 3 | 100.0000% |
+| 1199 | Strause, Brandon [USA] | 3 | 100.0000% |
+| 1200 | Kastelein, John [USA] | 3 | 100.0000% |
+| 1201 | Butler, Christopher [CAN] | 3 | 100.0000% |
+| 1202 | Mcallister, Carl [CAN] | 3 | 77.7778% |
+| 1203 | Gurevych, William Jame [CAN] | 3 | 75.0000% |
+| 1204 | Rochon, Jeremy [CAN] | 3 | 75.0000% |
+| 1205 | Dang, Viet [CAN] | 3 | 75.0000% |
+| 1206 | Adam, Wilson [CAN] | 3 | 75.0000% |
+| 1207 | Mullahoo, Steven [USA] | 3 | 72.2222% |
+| 1208 | Blais Bourget, Gabriel [CAN] | 3 | 68.7500% |
+| 1209 | Guitard, Sean [CAN] | 3 | 68.7500% |
+| 1210 | Brezinski, Mark [USA] | 3 | 68.7500% |
+| 1211 | Tsang-Hi, Victor [CAN] | 3 | 68.7500% |
+| 1212 | McMahon, David [CAN] | 3 | 66.6667% |
+| 1213 | De Blois-Richer, Chris [CAN] | 3 | 66.6667% |
+| 1214 | Stevens, Chris [CAN] | 3 | 66.6667% |
+| 1215 | Le, Thi Xuan Thu [CAN] | 3 | 66.6667% |
+| 1216 | Rivard, Maxime [CAN] | 3 | 66.6667% |
+| 1217 | Cuillerier, Maxime [CAN] | 3 | 66.6667% |
+| 1218 | Cocchio, Simon [CAN] | 3 | 66.6667% |
+| 1219 | Jutras, Fred [CAN] | 3 | 66.6667% |
+| 1220 | Moskal, Erik [CAN] | 3 | 66.6667% |
+| 1221 | Lemish, Josh E [CAN] | 3 | 66.6667% |
+| 1222 | Veillette, Chris [USA] | 3 | 66.6667% |
+| 1223 | Belley, Eric [CAN] | 3 | 66.6667% |
+| 1224 | Poirier, Maxime [CAN] | 3 | 66.6667% |
+| 1225 | Dizon, Mark [CAN] | 3 | 66.6667% |
+| 1226 | Cohen, Zach [CAN] | 3 | 66.6667% |
+| 1227 | Murphy, Joshua [CAN] | 3 | 66.6667% |
+| 1228 | Crump, Eric [USA] | 3 | 66.6667% |
+| 1229 | Wilhelmy, Francois [CAN] | 3 | 66.6667% |
+| 1230 | Bautista, Gino [USA] | 3 | 66.6667% |
+| 1231 | Xiao, Liu [CHN] | 3 | 66.6667% |
+| 1232 | Piazza, Jon [CAN] | 3 | 66.6667% |
+| 1233 | Kirwan, John [CAN] | 3 | 66.6667% |
+| 1234 | De Sousa, Justin [CAN] | 3 | 66.6667% |
+| 1235 | tsitiridis, peter W [CAN] | 3 | 66.6667% |
+| 1236 | Johnston, Vincent [CAN] | 3 | 66.6667% |
+| 1237 | Cosic, Enes [CAN] | 3 | 64.5833% |
+| 1238 | Belanger, Patrick [CAN] | 3 | 64.5833% |
+| 1239 | Hince, Jenny [USA] | 3 | 64.5833% |
+| 1240 | Smith, Mathew [CAN] | 3 | 64.5833% |
+| 1241 | MacLellan, Gary [CAN] | 3 | 64.0000% |
+| 1242 | Edmunds, chris j [CAN] | 3 | 62.5000% |
+| 1243 | Egna, Mike [USA] | 3 | 62.5000% |
+| 1244 | Rourke, Justin [CAN] | 3 | 62.5000% |
+| 1245 | Lussier, Alexandre [CAN] | 3 | 62.5000% |
+| 1246 | Carr, Mary-Kate [USA] | 3 | 62.5000% |
+| 1247 | MacInnis, Alex [CAN] | 3 | 62.5000% |
+| 1248 | Wise, Kevin [CAN] | 3 | 62.5000% |
+| 1249 | Yee, Jonathan [CAN] | 3 | 62.5000% |
+| 1250 | Herrera, Ricardo [CAN] | 3 | 62.5000% |
+| 1251 | Bathurst, Scott [CAN] | 3 | 60.4167% |
+| 1252 | Leggett, Jonathan [CAN] | 3 | 59.2593% |
+| 1253 | Frey, Liam [USA] | 3 | 58.6667% |
+| 1254 | Demers, Blake [USA] | 3 | 58.3333% |
+| 1255 | Westbrook, Matthew [USA] | 3 | 58.3333% |
+| 1256 | Vega, William [CAN] | 3 | 58.3333% |
+| 1257 | Girard, Maxime [CAN] | 3 | 58.3333% |
+| 1258 | Jung, Theodore [USA] | 3 | 58.3333% |
+| 1259 | André-Lespérance, Alex [CAN] | 3 | 58.3333% |
+| 1260 | French, Coleman [CAN] | 3 | 58.3333% |
+| 1261 | Malchman, Noah [USA] | 3 | 58.3333% |
+| 1262 | Labranche, Frederic [CAN] | 3 | 58.3333% |
+| 1263 | Smiley, Alyssa [USA] | 3 | 58.3333% |
+| 1264 | Desmarais, Curtis [CAN] | 3 | 58.3333% |
+| 1265 | Canham, Derek [CAN] | 3 | 58.3333% |
+| 1266 | Simpson, Ian [CAN] | 3 | 58.3333% |
+| 1267 | Keung, Doria [CAN] | 3 | 58.3333% |
+| 1268 | Poterlot, Charles [CAN] | 3 | 58.3333% |
+| 1269 | Adams, Kevin [CAN] | 3 | 58.3333% |
+| 1270 | Beaulieu, Christian [CAN] | 3 | 58.3333% |
+| 1271 | Putnam, Zackary [USA] | 3 | 58.3333% |
+| 1272 | Chatel, Cedric [CAN] | 3 | 58.3333% |
+| 1273 | Pirat, Guillaume [CAN] | 3 | 58.3333% |
+| 1274 | Kuipery, Zack [CAN] | 3 | 58.3333% |
+| 1275 | Gonzalez, Oliver [CAN] | 3 | 58.3333% |
+| 1276 | Rodrigue, Charles [CAN] | 3 | 58.3333% |
+| 1277 | Bellotti, Michael [USA] | 3 | 57.3333% |
+| 1278 | Fritz, James A [CAN] | 3 | 56.2500% |
+| 1279 | Morozov, Kirill [CAN] | 3 | 56.2500% |
+| 1280 | Chapman, Kevin [CAN] | 3 | 56.2500% |
+| 1281 | Christiansen, Nico [USA] | 3 | 56.2500% |
+| 1282 | Roy, Gabriel [CAN] | 3 | 56.2500% |
+| 1283 | Lewis, Jonathan [USA] | 3 | 56.2500% |
+| 1284 | Lens, Sacha [CAN] | 3 | 56.2500% |
+| 1285 | Raymore, Tj [CAN] | 3 | 56.2500% |
+| 1286 | Boismenu, Mathieu [CAN] | 3 | 56.2500% |
+| 1287 | Power, Chris [CAN] | 3 | 55.5556% |
+| 1288 | Benoit, Felix [CAN] | 3 | 55.5556% |
+| 1289 | Rafih, Joddat [CAN] | 3 | 55.5556% |
+| 1290 | Wong, Colin [CAN] | 3 | 55.5556% |
+| 1291 | Tondreau, Jasmin [CAN] | 3 | 55.5556% |
+| 1292 | Marsh, Jordan [CAN] | 3 | 55.5556% |
+| 1293 | Farkavec, Andrian [CAN] | 3 | 55.5556% |
+| 1294 | Koltsov, Igor [CAN] | 3 | 55.5556% |
+| 1295 | Lopez, Mike [USA] | 3 | 55.5556% |
+| 1296 | Gelinas, Mathieu [CAN] | 3 | 55.5556% |
+| 1297 | Huard, Yan [CAN] | 3 | 55.5556% |
+| 1298 | Dore, Alexandre [CAN] | 3 | 55.5556% |
+| 1299 | Johnston, Chad [CAN] | 3 | 55.5556% |
+| 1300 | Song, Kathryn [CAN] | 3 | 55.5556% |
+| 1301 | Goldie, Christian [CAN] | 3 | 55.5556% |
+| 1302 | Hang, Hasan [CAN] | 3 | 55.5556% |
+| 1303 | Daigle, Christopher [CAN] | 3 | 55.5556% |
+| 1304 | Macpherson, Stewart [CAN] | 3 | 55.5556% |
+| 1305 | Rainville, Benoit [CAN] | 3 | 55.5556% |
+| 1306 | Olivier, Ryan [CAN] | 3 | 55.5556% |
+| 1307 | Bujold, Mathieu [CAN] | 3 | 55.5556% |
+| 1308 | Rose, Jean-Pierre [CAN] | 3 | 55.5556% |
+| 1309 | Maedler, Marcus [CAN] | 3 | 55.5556% |
+| 1310 | St-Hilaire, Gabriel [CAN] | 3 | 55.5556% |
+| 1311 | Michaud, Frederic [CAN] | 3 | 55.5556% |
+| 1312 | Pelletier-Grenier, Pat [CAN] | 3 | 55.5556% |
+| 1313 | Leblanc, René [CAN] | 3 | 55.5556% |
+| 1314 | Chabot, Stephane [CAN] | 3 | 55.5556% |
+| 1315 | Smith, Chris [CAN] | 3 | 55.5556% |
+| 1316 | Jaramillo, Blaven [CAN] | 3 | 55.5556% |
+| 1317 | Caplan, David [CAN] | 3 | 55.5556% |
+| 1318 | Goupil, Jonathan [CAN] | 3 | 55.5556% |
+| 1319 | Hamiltom, Ryan [CAN] | 3 | 55.5556% |
+| 1320 | Nadon, Alexandre [CAN] | 3 | 55.5556% |
+| 1321 | Bertone, Christopher [USA] | 3 | 55.0000% |
+| 1322 | Kelly, Keenan [USA] | 3 | 54.6667% |
+| 1323 | Funchion, John [CAN] | 3 | 54.6667% |
+| 1324 | Perami, Keivan [CAN] | 3 | 54.6667% |
+| 1325 | Reed, Matthew [CAN] | 3 | 54.6667% |
+| 1326 | O'Dell, Luke [USA] | 3 | 54.1667% |
+| 1327 | Moles, Tommy [CAN] | 3 | 54.1667% |
+| 1328 | Byck, Jacob [CAN] | 3 | 52.7778% |
+| 1329 | Della Vecchia, Antony [CAN] | 3 | 52.7778% |
+| 1330 | Capriolo-Morris, Primo [CAN] | 3 | 52.0833% |
+| 1331 | Gingras-Lafleur, Gabri [CAN] | 3 | 52.0833% |
+| 1332 | Labelle, Philippe [CAN] | 3 | 52.0833% |
+| 1333 | Blum, Michael [USA] | 3 | 52.0833% |
+| 1334 | Cleal, Brent [CAN] | 3 | 52.0833% |
+| 1335 | Godin-Monat, Maxime [CAN] | 3 | 52.0833% |
+| 1336 | Larocque, Vincent [CAN] | 3 | 52.0833% |
+| 1337 | Montes, Guillermo [CAN] | 3 | 52.0833% |
+| 1338 | Battistelli, Alex [CAN] | 3 | 52.0833% |
+| 1339 | Wylie, Kevin [CAN] | 3 | 52.0833% |
+| 1340 | Vaillancourt, Sebastia [CAN] | 3 | 52.0833% |
+| 1341 | Dowsett, Barry [CAN] | 3 | 52.0833% |
+| 1342 | Wilson, Fred [CAN] | 3 | 52.0833% |
+| 1343 | Roy, Jean-philippe [CAN] | 3 | 52.0833% |
+| 1344 | Milligan, Joshua [CAN] | 3 | 52.0833% |
+| 1345 | Destrempes, Marc-André [CAN] | 3 | 52.0833% |
+| 1346 | Hurej, John [CAN] | 3 | 52.0833% |
+| 1347 | Dallaire, David [CAN] | 3 | 52.0833% |
+| 1348 | Bruce, Andrea [CAN] | 3 | 52.0833% |
+| 1349 | Shaw, Adam N [USA] | 3 | 52.0833% |
+| 1350 | Hamdi, Samuel [CAN] | 3 | 52.0833% |
+| 1351 | Lianopoulos, Dimitrios [CAN] | 3 | 52.0000% |
+| 1352 | Zimmermann, Eric [CAN] | 3 | 52.0000% |
+| 1353 | Beauregard, Mathieu [CAN] | 3 | 50.6667% |
+| 1354 | Catanzariti, Frankie [CAN] | 3 | 50.6667% |
+| 1355 | Pissardo, Jean-FranÃ§o [CAN] | 3 | 50.6667% |
+| 1356 | St-Onge, Jean-Sébastie [CAN] | 3 | 50.0000% |
+| 1357 | Yung, Richard [CAN] | 3 | 50.0000% |
+| 1358 | Legris, Stephane [CAN] | 3 | 50.0000% |
+| 1359 | Gerber, Adam [CAN] | 3 | 50.0000% |
+| 1360 | Richards, Phil [CAN] | 3 | 50.0000% |
+| 1361 | Delisle-grenier, Anne- [CAN] | 3 | 50.0000% |
+| 1362 | Perami, Kian [CAN] | 3 | 50.0000% |
+| 1363 | Tremblay, Eric [CAN] | 3 | 49.3333% |
+| 1364 | Lavoie, Marc-Antoine [CAN] | 3 | 49.3333% |
+| 1365 | Major, Jordan [CAN] | 3 | 48.6667% |
+| 1366 | Ng, Coleman [CAN] | 3 | 48.0000% |
+| 1367 | Hirt, Kelly [USA] | 3 | 48.0000% |
+| 1368 | Reiber, Jason [CAN] | 3 | 47.9167% |
+| 1369 | Phillips, Nakeem [CAN] | 3 | 47.9167% |
+| 1370 | Cayo, Robin F [CAN] | 3 | 47.9167% |
+| 1371 | Curry, Alexander [CAN] | 3 | 47.9167% |
+| 1372 | Nesrallah, Moses [CAN] | 3 | 47.9167% |
+| 1373 | Manios, Timothy [CAN] | 3 | 47.9167% |
+| 1374 | Archambault, Eric [CAN] | 3 | 47.9167% |
+| 1375 | Dicaire, Dan [CAN] | 3 | 47.9167% |
+| 1376 | Gendron, Pierre-Marc [CAN] | 3 | 47.9167% |
+| 1377 | Ashley, Romario [CAN] | 3 | 47.9167% |
+| 1378 | Bouchard, Gabriel [CAN] | 3 | 47.9167% |
+| 1379 | Hensels, Cody [CAN] | 3 | 46.9388% |
+| 1380 | Audet, Frederick [CAN] | 3 | 46.6667% |
+| 1381 | Gagné, Pierre-Alexandr [CAN] | 3 | 46.6667% |
+| 1382 | Bouthot, Olivier [CAN] | 3 | 46.6667% |
+| 1383 | Cousins, Nick [CAN] | 3 | 46.6667% |
+| 1384 | Lavigne, SÃƒÂ©bastien [CAN] | 3 | 46.6667% |
+| 1385 | LeBlanc, Bobby [CAN] | 3 | 45.8333% |
+| 1386 | Anning, Devon [CAN] | 3 | 45.8333% |
+| 1387 | Elder, Dylan [CAN] | 3 | 45.8333% |
+| 1388 | Bellefeuille, Yan [CAN] | 3 | 45.8333% |
+| 1389 | Saunders, Jordan [CAN] | 3 | 45.8333% |
+| 1390 | Lessard, John [CAN] | 3 | 45.8333% |
+| 1391 | Fried, Norman [CAN] | 3 | 45.8333% |
+| 1392 | Yu, William [CAN] | 3 | 45.8333% |
+| 1393 | Daigle, Stephane [CAN] | 3 | 45.8333% |
+| 1394 | Goodman, Logan [USA] | 3 | 45.8333% |
+| 1395 | Herberman, Erin [CAN] | 3 | 45.3333% |
+| 1396 | Huxel, Mathew [USA] | 3 | 45.3333% |
+| 1397 | Simard, Raphael [CAN] | 3 | 45.3333% |
+| 1398 | Nevarko, Serguei [CAN] | 3 | 45.0000% |
+| 1399 | Vigneault, Lois [CAN] | 3 | 44.4444% |
+| 1400 | Khelou, Anton [CAN] | 3 | 44.4444% |
+| 1401 | Mullin, Samuel [CAN] | 3 | 44.4444% |
+| 1402 | Carama Duchesne, Patri [CAN] | 3 | 44.4444% |
+| 1403 | Chamberland, Colin [CAN] | 3 | 44.4444% |
+| 1404 | Switzer, William [CAN] | 3 | 44.0000% |
+| 1405 | Leroux, FranÃ§ois [CAN] | 3 | 43.7500% |
+| 1406 | Richardson, Matthew [USA] | 3 | 43.7037% |
+| 1407 | Guindon, Guillaume [CAN] | 3 | 42.7778% |
+| 1408 | Duffy, Jacob [CAN] | 3 | 42.6667% |
+| 1409 | Sadler, Patrick [CAN] | 3 | 42.6667% |
+| 1410 | Morrison, Matthew [CAN] | 3 | 41.6667% |
+| 1411 | Banville Baillargeon, [CAN] | 3 | 41.6667% |
+| 1412 | Bisson, Stephane [CAN] | 3 | 41.6667% |
+| 1413 | Madore, Blair [USA] | 3 | 41.6667% |
+| 1414 | Cannons, Matthew [CAN] | 3 | 41.6667% |
+| 1415 | Laberge, Vincent [CAN] | 3 | 41.6667% |
+| 1416 | Madore, Eric [CAN] | 3 | 41.6667% |
+| 1417 | Bourque, Nicolas [CAN] | 3 | 41.6667% |
+| 1418 | Leger, Francis [CAN] | 3 | 41.6667% |
+| 1419 | Brecknock, Colin [CAN] | 3 | 41.6667% |
+| 1420 | Ritz, Benjamin [USA] | 3 | 41.6667% |
+| 1421 | Gurette-Villeneuve, Fé [CAN] | 3 | 41.6667% |
+| 1422 | Briand, Wayne [CAN] | 3 | 41.3333% |
+| 1423 | Lariviere, Daniel [CAN] | 3 | 41.3333% |
+| 1424 | Conrad, Cory [CAN] | 3 | 41.3333% |
+| 1425 | Young, Mal [CAN] | 3 | 40.6667% |
+| 1426 | Sullivan, Stephen [USA] | 3 | 40.0000% |
+| 1427 | Deragon, Marc-antoine [CAN] | 3 | 39.2593% |
+| 1428 | Laroche, Samuel [CAN] | 3 | 37.5000% |
+| 1429 | Iglesias, Angel [CAN] | 3 | 37.3333% |
+| 1430 | Beltran Franco, Mauric [CAN] | 3 | 34.4444% |
+| 1431 | Chapman, Paul [USA] | 2 | 35.4167% |
+| 1432 | Pham, Hoang Ha [CAN] | 1 | 66.6667% |
+| 1433 | Bickle, Phillip [CAN] | 1 | 59.2593% |
+| 1434 | Cooney, Steven [CAN] | 1 | 55.5556% |
+| 1435 | Paquet, Tom [USA] | 1 | 55.5556% |
+| 1436 | Fadden, Collen [USA] | 1 | 52.0833% |
+| 1437 | Goodman, Benjamin [USA] | 1 | 50.0000% |
+| 1438 | Morin, Pierre-Luc [CAN] | 1 | 50.0000% |
+| 1439 | Rudolph, Joshua [CAN] | 1 | 50.0000% |
+| 1440 | Roussy, Guy [CAN] | 1 | 48.0000% |
+| 1441 | Zabatta, Matthew [USA] | 1 | 44.4444% |
+| 1442 | Roy, Sébastien [CAN] | 1 | 43.7500% |
+| 1443 | Murillo-Rivard, Oscar- [CAN] | 1 | 37.0370% |
+| 1444 | Rodgers, Owen [CAN] | 1 | 33.3333% |
+| 1445 | Blais, Christian [CAN] | 0 | 100.0000% |
+| 1446 | Lachance, David [CAN] | 0 | 100.0000% |
+| 1447 | Szelzki, Jeffrey [CAN] | 0 | 100.0000% |
+| 1448 | Hill, Shawn [CAN] | 0 | 100.0000% |
+| 1449 | Harvey, Jean-Philippe [CAN] | 0 | 100.0000% |
+| 1450 | Gruber, Matthew [CAN] | 0 | 100.0000% |
+| 1451 | Picard, Maxime [CAN] | 0 | 100.0000% |
+| 1452 | Poirier-Potvin, Pierre [CAN] | 0 | 100.0000% |
+| 1453 | Doan, Jason [CAN] | 0 | 100.0000% |
+| 1454 | Ho, Alvin [CAN] | 0 | 100.0000% |
+| 1455 | Higgs, Daniel [CAN] | 0 | 100.0000% |
+| 1456 | Cunningham, Amanda [CAN] | 0 | 100.0000% |
+| 1457 | Tsyganok, Vlad [CAN] | 0 | 100.0000% |
+| 1458 | Smith, Ceilidh [CAN] | 0 | 100.0000% |
+| 1459 | Estey, Austin [CAN] | 0 | 100.0000% |
+| 1460 | Brander, Kimberly [CAN] | 0 | 100.0000% |
+| 1461 | Contenta, Luca [CAN] | 0 | 100.0000% |
+| 1462 | Cortese, Giuseppe [CAN] | 0 | 100.0000% |
+| 1463 | Emond, Louis-Gabriel [CAN] | 0 | 100.0000% |
+| 1464 | Filipe, Alex [CAN] | 0 | 100.0000% |
+| 1465 | Chappell, Simon [CAN] | 0 | 100.0000% |
+| 1466 | Falldien, David [CAN] | 0 | 100.0000% |
+| 1467 | Madore, Cole [USA] | 0 | 100.0000% |
+| 1468 | Maher, John [CAN] | 0 | 100.0000% |
+| 1469 | Min, Jian [CHN] | 0 | 100.0000% |
+| 1470 | Christensen, Jordan [CAN] | 0 | 100.0000% |
+| 1471 | Robertson, Justin [CAN] | 0 | 100.0000% |
+| 1472 | Hoaen, Richard [CAN] | 0 | 100.0000% |
+| 1473 | Archdekin, Jamie [CAN] | 0 | 100.0000% |
+| 1474 | Paquin, Charles [CAN] | 0 | 100.0000% |
+| 1475 | Bussiere, Jason [CAN] | 0 | 100.0000% |
+| 1476 | Brousseau, Olivier [CAN] | 0 | 100.0000% |
+| 1477 | Jentis, Sean [USA] | 0 | 100.0000% |
+| 1478 | MacMullin, Matthew [CAN] | 0 | 100.0000% |
+| 1479 | McCluskie, Ted [CAN] | 0 | 100.0000% |
+| 1480 | Cohen, Julien [CAN] | 0 | 100.0000% |
+| 1481 | Boudreau, Frederic [CAN] | 0 | 100.0000% |
+| 1482 | Monard, Pierre [CAN] | 0 | 100.0000% |
+| 1483 | Martone, Michael [CAN] | 0 | 100.0000% |
+| 1484 | BOUTIN, NATHANIEL [CAN] | 0 | 100.0000% |
+| 1485 | White, Marcel [USA] | 0 | 100.0000% |
+| 1486 | Goulet-joannic, Alexan [CAN] | 0 | 100.0000% |
+| 1487 | Duong, Dap T [CAN] | 0 | 100.0000% |
+| 1488 | Marion, Pascal [CAN] | 0 | 100.0000% |
+| 1489 | Noel Trottier, Miguel [CAN] | 0 | 100.0000% |
+| 1490 | Davies, Shawn [CAN] | 0 | 75.0000% |
+| 1491 | Lachance, Jonathan [CAN] | 0 | 75.0000% |
+| 1492 | Perreault, Normand [CAN] | 0 | 75.0000% |
+| 1493 | Chabot, Karl [CAN] | 0 | 75.0000% |
+| 1494 | Marshall, Craig [CAN] | 0 | 75.0000% |
+| 1495 | Philipps, Sacha [CAN] | 0 | 75.0000% |
+| 1496 | Ball, Chris [CAN] | 0 | 75.0000% |
+| 1497 | Shaffer, Adrien [CAN] | 0 | 75.0000% |
+| 1498 | Lachance-Poitras, Davi [CAN] | 0 | 75.0000% |
+| 1499 | Duhaime, Christophe [CAN] | 0 | 75.0000% |
+| 1500 | Gravel, Kevin [CAN] | 0 | 75.0000% |
+| 1501 | Sarrazin, Nicolas [CAN] | 0 | 75.0000% |
+| 1502 | Beaulieu, Jean Paul [CAN] | 0 | 75.0000% |
+| 1503 | Birku, Samson [CAN] | 0 | 75.0000% |
+| 1504 | Clement, Frederic [CAN] | 0 | 75.0000% |
+| 1505 | Le Goff, Alexandre [CAN] | 0 | 75.0000% |
+| 1506 | Levesque, Christian [CAN] | 0 | 75.0000% |
+| 1507 | Gaspari, Philip-Gianni [CAN] | 0 | 75.0000% |
+| 1508 | Armenti, Mario [CAN] | 0 | 75.0000% |
+| 1509 | Laforce, Mathieu [CAN] | 0 | 75.0000% |
+| 1510 | Roberge, Mathieu [CAN] | 0 | 75.0000% |
+| 1511 | Ilie, Alex [CAN] | 0 | 66.6667% |
+| 1512 | Millard, Quin [CAN] | 0 | 66.6667% |
+| 1513 | Naylor, Jamie [CAN] | 0 | 66.6667% |
+| 1514 | Luo, Jacqueline [CAN] | 0 | 66.6667% |
+| 1515 | Small, Brad M [CAN] | 0 | 66.6667% |
+| 1516 | Fuentes, Didier [CAN] | 0 | 66.6667% |
+| 1517 | Leonard, Kate [USA] | 0 | 58.3333% |
+| 1518 | Douglas, Mike [CAN] | 0 | 56.2500% |
+| 1519 | Brassard, Pierre-Luc [CAN] | 0 | 55.5556% |
+| 1520 | Kaiser, Sarah [USA] | 0 | 55.5556% |
+| 1521 | Wells, Todd [CAN] | 0 | 55.5556% |
+| 1522 | Drolet, Jerome [CAN] | 0 | 55.5556% |
+| 1523 | Leduc-Blanc, Alexis [CAN] | 0 | 55.5556% |
+| 1524 | Swart, Jake [CAN] | 0 | 55.5556% |
+| 1525 | Brisson, Simon [CAN] | 0 | 55.5556% |
+| 1526 | Cohen, Matthew [USA] | 0 | 55.5556% |
+| 1527 | Deragon, Alexandre [CAN] | 0 | 55.5556% |
+| 1528 | Pineault, William [CAN] | 0 | 55.5556% |
+| 1529 | Niro, Andrew [CAN] | 0 | 55.5556% |
+| 1530 | Canieso, Christopher [USA] | 0 | 55.5556% |
+| 1531 | Lapointe, Larry [CAN] | 0 | 55.5556% |
+| 1532 | Berube Picard, Jeremi [CAN] | 0 | 55.5556% |
+| 1533 | Soucy, Tristan [CAN] | 0 | 55.5556% |
+| 1534 | Elzeisa, Daniel [CAN] | 0 | 55.5556% |
+| 1535 | Plourde, Nicolas [CAN] | 0 | 55.5556% |
+| 1536 | Oake, Evalyn [CAN] | 0 | 52.0833% |
+| 1537 | Pearson, Dennis [CAN] | 0 | 50.0000% |
+| 1538 | Clark, Tony [CAN] | 0 | 50.0000% |
+| 1539 | Gravel, Marc-André [CAN] | 0 | 50.0000% |
+| 1540 | Boulden, William [USA] | 0 | 50.0000% |
+| 1541 | JODOIN, FRANCIS [CAN] | 0 | 50.0000% |
+| 1542 | Custodio, Kevin [CAN] | 0 | 50.0000% |
+| 1543 | Mustard, James [CAN] | 0 | 50.0000% |
+| 1544 | Beauregard, Charles [CAN] | 0 | 50.0000% |
+| 1545 | Randev, Rajiv [CAN] | 0 | 50.0000% |
+| 1546 | Zeeman, Michael [CAN] | 0 | 50.0000% |
+| 1547 | Kulisz, Chris [CAN] | 0 | 50.0000% |
+| 1548 | Snow, Jonathan [USA] | 0 | 50.0000% |
+| 1549 | Elarar, Jasar S [CAN] | 0 | 50.0000% |
+| 1550 | Simard, Gabriel [CAN] | 0 | 50.0000% |
+| 1551 | Leduc-Levesque, Guilla [CAN] | 0 | 50.0000% |
+| 1552 | McInnis, Myles [CAN] | 0 | 50.0000% |
+| 1553 | Ripley, Nathan [CAN] | 0 | 50.0000% |
+| 1554 | Irwin, Scott [CAN] | 0 | 50.0000% |
+| 1555 | Stewart, David [CAN] | 0 | 50.0000% |
+| 1556 | Sekieta, Matthew [CAN] | 0 | 50.0000% |
+| 1557 | Depratto, Marc [CAN] | 0 | 50.0000% |
+| 1558 | Zuo, Zhou [CAN] | 0 | 50.0000% |
+| 1559 | Speight, Kevin [CAN] | 0 | 50.0000% |
+| 1560 | Navarra, Brian [USA] | 0 | 50.0000% |
+| 1561 | Drouin, Adam [CAN] | 0 | 50.0000% |
+| 1562 | Paolitto, Antonio [CAN] | 0 | 50.0000% |
+| 1563 | Szymanski, Paul [CAN] | 0 | 50.0000% |
+| 1564 | Curie, Jeremy [USA] | 0 | 50.0000% |
+| 1565 | Farago, Yansce [CAN] | 0 | 50.0000% |
+| 1566 | Bonnauron, Patrice [CAN] | 0 | 47.9167% |
+| 1567 | Cormier, Réjean [CAN] | 0 | 47.9167% |
+| 1568 | Ieropoli, Nick [CAN] | 0 | 47.9167% |
+| 1569 | Viau, Laurent [CAN] | 0 | 47.9167% |
+| 1570 | Ducharme, Rebecca [CAN] | 0 | 47.9167% |
+| 1571 | Gagné, Catherine [CAN] | 0 | 47.9167% |
+| 1572 | Vazquez, Julien [CAN] | 0 | 45.8333% |
+| 1573 | Villeneuve, Christian [CAN] | 0 | 44.4444% |
+| 1574 | Legault, Antonin [CAN] | 0 | 44.4444% |
+| 1575 | DeJesus, Josh [CAN] | 0 | 44.4444% |
+| 1576 | Langdon, Jeff [CAN] | 0 | 44.4444% |
+| 1577 | Lienhard, Paul [USA] | 0 | 44.4444% |
+| 1578 | Hübel, Sebastian [DEU] | 0 | 44.4444% |
+| 1579 | Commanda, David [CAN] | 0 | 44.4444% |
+| 1580 | Dutton, Mathew [CAN] | 0 | 44.4444% |
+| 1581 | Dziambor, William [CAN] | 0 | 44.4444% |
+| 1582 | Pye, Benjamin T [USA] | 0 | 44.4444% |
+| 1583 | Sun, Raymond [CAN] | 0 | 44.4444% |
+| 1584 | Maodus, Marcus [CAN] | 0 | 44.4444% |
+| 1585 | Dewan, Kanwaljeet [CAN] | 0 | 44.4444% |
+| 1586 | Dalling, Ed [CAN] | 0 | 44.4444% |
+| 1587 | Turnnir, Cor [CAN] | 0 | 44.4444% |
+| 1588 | Grenier, Melissa [CAN] | 0 | 44.4444% |
+| 1589 | Dejean, Alan [CAN] | 0 | 44.4444% |
+| 1590 | Cooney, Peter [CAN] | 0 | 44.4444% |
+| 1591 | Maltopol, Alexandre [CAN] | 0 | 44.4444% |
+| 1592 | Menard, Pierre [CAN] | 0 | 44.4444% |
+| 1593 | Kilravey, Matthew [CAN] | 0 | 44.4444% |
+| 1594 | Sacino, Joey [CAN] | 0 | 43.7500% |
+| 1595 | Gratton, Alexandre [CAN] | 0 | 41.6667% |
+| 1596 | Wilson, Bradford [CAN] | 0 | 41.6667% |
+| 1597 | Pelletier-Grenier, Fre [CAN] | 0 | 41.6667% |
+| 1598 | Mann, Tyler [CAN] | 0 | 41.6667% |
+| 1599 | Meilleur, Jonathan [CAN] | 0 | 40.0000% |
+| 1600 | Pissardo, Benoit [CAN] | 0 | 40.0000% |
+| 1601 | Cook, Tyler [USA] | 0 | 40.0000% |
+| 1602 | Ouellet, Adam [CAN] | 0 | 37.5000% |
+| 1603 | Brandon, Charles [CAN] | 0 | 37.5000% |
+| 1604 | Belange |
+
+
+
+
+
+
+

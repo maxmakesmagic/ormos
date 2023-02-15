@@ -1,17 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20211202055751/https://magic.wizards.com/en/articles/archive/feature/attack-captain-obvious-2004-10-07)
+[Link to Wayback Machine](https://web.archive.org/web/20160502184951/http://magic.wizards.com/en/articles/archive/feature/attack-captain-obvious-2004-10-07)
 
 [_metadata_:author]:- "Mark Gottlieb"
-[_metadata_:description]:- "My secret's out, I suppose. I'm a supervillain.I thought I was careful. I cultivated an alter ego. I never attempted heinously convoluted world-domination schemes without my costume. I avoided overtly taunting superheroes like some of my more reckless brethren. But it all started to fall apart.My first clue was when unsolicited junk mail for Supervillain Monthly magazine and"
+[_metadata_:description]:- "My secret's out, I suppose. I'm a supervillain.I thought I was careful. I cultivated an alter ego. I never attempted heinously convoluted world-domination schemes without my costume. I avoided overtly taunting superheroes like some of my more reckless brethren. But it all started to fall apart."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "612926"
 [_metadata_:publish_date]:- "2004-10-07"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Attack of Captain Obvious"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-02 05:57:51"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211202055751id_/https://magic.wizards.com/en/articles/archive/feature/attack-captain-obvious-2004-10-07"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/attack-captain-obvious-2004-10-07"
+[_metadata_:wayback_capture_timestamp]:- "2016-05-02 18:49:51"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160502184951id_/http://magic.wizards.com/en/articles/archive/feature/attack-captain-obvious-2004-10-07"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/attack-captain-obvious-2004-10-07"
 ---
 
 
@@ -51,8 +51,7 @@ I combat your typical range of buttinsky do-gooders. I typically get one or two 
 
 ### This Hiss
 
-![Shisato, Whispering Hunter](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Shisato%2C+Whispering+Hunter)My battles against Captain Obvious are neverending. That jerk wants everything to be as nonconvoluted as possible. Doesn't he know that violates the supervillain code? I could get kicked out of the League of Evil for that! One of his recent projects was a *Champions of Kamigawa* Snake deck. His way is to toss Sashi, Sosuke, and Seshiro together, along with a bunch of other sibilant slitherers, and be done with it. My way is to start with the “unplayable” Snake—[Shisato, Whispering Hunter](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shisato%2C+Whispering+Hunter)—and break it. Add in a [Whispersilk Cloak](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Whispersilk+Cloak) so that it can't be targeted or blocked and you've just Stasisified your opponent. (Doesn't [Stasis](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stasis) *sound* like it belongs in here?) [Orochi Eggwatcher](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Orochi+Eggwatcher) and [Orochi Hatchery](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Orochi+Hatchery) can pump out Snake tokens for it to (rather cannibalistically) eat, and you can keep Shisato's energy up all day. Captain Obvious and I were locked in a death-defying battle on a tightrope strung between two hot-air balloons (long story), but then the episode ended with that cliffhanger and, what with presidential debates and baseball playoffs, the conclusion hasn't aired yet. I don't know who wins, so I'll have to compromise.I still like playing with Shisato, but it's not the focus of this deck anymore. ([Whispersilk Cloak](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Whispersilk+Cloak), although it paired oh-so-thematically with the Whispering Hunter, was largely useless otherwise, so I cut it.) The new fun thing is to see how big you can get your Snake tokens. They get +1/+0 from Sosuke, +0/+1 from Sachi, +2/+2 from Seshiro, +2/+2 from [Konda's Banner](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Konda%27s+Banner), and +who knows how much/+that same amount again from [Coat of Arms](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Coat+of+Arms). The [Blasting Station](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Blasting+Station)-[Beacon of Creation](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Beacon+of+Creation) trick works just as well with [Orochi Hatchery](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Orochi+Hatchery), so here it is again. 
-
+![Shisato, Whispering Hunter](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Shisato%2C+Whispering+Hunter)My battles against Captain Obvious are neverending. That jerk wants everything to be as nonconvoluted as possible. Doesn't he know that violates the supervillain code? I could get kicked out of the League of Evil for that! One of his recent projects was a *Champions of Kamigawa* Snake deck. His way is to toss Sashi, Sosuke, and Seshiro together, along with a bunch of other sibilant slitherers, and be done with it. My way is to start with the “unplayable” Snake—[Shisato, Whispering Hunter](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shisato%2C+Whispering+Hunter)—and break it. Add in a [Whispersilk Cloak](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Whispersilk+Cloak) so that it can't be targeted or blocked and you've just Stasisified your opponent. (Doesn't [Stasis](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stasis) *sound* like it belongs in here?) [Orochi Eggwatcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Orochi+Eggwatcher) and [Orochi Hatchery](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Orochi+Hatchery) can pump out Snake tokens for it to (rather cannibalistically) eat, and you can keep Shisato's energy up all day. Captain Obvious and I were locked in a death-defying battle on a tightrope strung between two hot-air balloons (long story), but then the episode ended with that cliffhanger and, what with presidential debates and baseball playoffs, the conclusion hasn't aired yet. I don't know who wins, so I'll have to compromise.I still like playing with Shisato, but it's not the focus of this deck anymore. ([Whispersilk Cloak](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Whispersilk+Cloak), although it paired oh-so-thematically with the Whispering Hunter, was largely useless otherwise, so I cut it.) The new fun thing is to see how big you can get your Snake tokens. They get +1/+0 from Sosuke, +0/+1 from Sachi, +2/+2 from Seshiro, +2/+2 from [Konda's Banner](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Konda%27s+Banner), and +who knows how much/+that same amount again from [Coat of Arms](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Coat+of+Arms). The [Blasting Station](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Blasting+Station)-[Beacon of Creation](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Beacon+of+Creation) trick works just as well with [Orochi Hatchery](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Orochi+Hatchery), so here it is again. 
 
 
 
@@ -69,9 +68,7 @@ I combat your typical range of buttinsky do-gooders. I typically get one or two 
 
 
 
-![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
 ![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
-
 
 
 
@@ -96,35 +93,35 @@ OverviewColorCostRarity
 
 
 2
-[Matsu-Tribe Decoy](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMatsu-Tribe%5D+%5BDecoy%5D)
+[Matsu-Tribe Decoy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMatsu-Tribe%5D+%5BDecoy%5D)
 
 
 4
-[Orochi Eggwatcher](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrochi%5D+%5BEggwatcher%5D)
+[Orochi Eggwatcher](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrochi%5D+%5BEggwatcher%5D)
 
 
 4
-[Orochi Sustainer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrochi%5D+%5BSustainer%5D)
+[Orochi Sustainer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrochi%5D+%5BSustainer%5D)
 
 
 3
-[Sachi, Daughter of Seshiro](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSachi,%5D+%5BDaughter%5D+%5Bof%5D+%5BSeshiro%5D)
+[Sachi, Daughter of Seshiro](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSachi,%5D+%5BDaughter%5D+%5Bof%5D+%5BSeshiro%5D)
 
 
 4
-[Sakura-Tribe Elder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSakura-Tribe%5D+%5BElder%5D)
+[Sakura-Tribe Elder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSakura-Tribe%5D+%5BElder%5D)
 
 
 2
-[Seshiro the Anointed](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeshiro%5D+%5Bthe%5D+%5BAnointed%5D)
+[Seshiro the Anointed](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeshiro%5D+%5Bthe%5D+%5BAnointed%5D)
 
 
 2
-[Shisato, Whispering Hunter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShisato,%5D+%5BWhispering%5D+%5BHunter%5D)
+[Shisato, Whispering Hunter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShisato,%5D+%5BWhispering%5D+%5BHunter%5D)
 
 
 2
-[Sosuke, Son of Seshiro](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSosuke,%5D+%5BSon%5D+%5Bof%5D+%5BSeshiro%5D)
+[Sosuke, Son of Seshiro](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSosuke,%5D+%5BSon%5D+%5Bof%5D+%5BSeshiro%5D)
 
 
 
@@ -133,11 +130,11 @@ OverviewColorCostRarity
 
 
 2
-[Collective Unconscious](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCollective%5D+%5BUnconscious%5D)
+[Collective Unconscious](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCollective%5D+%5BUnconscious%5D)
 
 
 3
-[Time of Need](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5Bof%5D+%5BNeed%5D)
+[Time of Need](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5Bof%5D+%5BNeed%5D)
 
 
 
@@ -146,19 +143,19 @@ OverviewColorCostRarity
 
 
 1
-[Blasting Station](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlasting%5D+%5BStation%5D)
+[Blasting Station](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlasting%5D+%5BStation%5D)
 
 
 1
-[Coat of Arms](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCoat%5D+%5Bof%5D+%5BArms%5D)
+[Coat of Arms](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCoat%5D+%5Bof%5D+%5BArms%5D)
 
 
 3
-[Konda's Banner](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKonda%5D+%5BBanner%5D)
+[Konda's Banner](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKonda%5D+%5BBanner%5D)
 
 
 4
-[Orochi Hatchery](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrochi%5D+%5BHatchery%5D)
+[Orochi Hatchery](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrochi%5D+%5BHatchery%5D)
 
 
 
@@ -167,11 +164,11 @@ OverviewColorCostRarity
 
 
 22
-[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
 
 
 1
-[Okina, Temple to the Grandfathers](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOkina,%5D+%5BTemple%5D+%5Bto%5D+%5Bthe%5D+%5BGrandfathers%5D)
+[Okina, Temple to the Grandfathers](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOkina,%5D+%5BTemple%5D+%5Bto%5D+%5Bthe%5D+%5BGrandfathers%5D)
 
 
 60 Cards 
@@ -183,43 +180,43 @@ OverviewColorCostRarity
 
 
 2
-[Matsu-Tribe Decoy](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMatsu-Tribe%5D+%5BDecoy%5D)
+[Matsu-Tribe Decoy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMatsu-Tribe%5D+%5BDecoy%5D)
 
 
 4
-[Orochi Eggwatcher](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrochi%5D+%5BEggwatcher%5D)
+[Orochi Eggwatcher](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrochi%5D+%5BEggwatcher%5D)
 
 
 4
-[Orochi Sustainer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrochi%5D+%5BSustainer%5D)
+[Orochi Sustainer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrochi%5D+%5BSustainer%5D)
 
 
 3
-[Sachi, Daughter of Seshiro](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSachi,%5D+%5BDaughter%5D+%5Bof%5D+%5BSeshiro%5D)
+[Sachi, Daughter of Seshiro](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSachi,%5D+%5BDaughter%5D+%5Bof%5D+%5BSeshiro%5D)
 
 
 4
-[Sakura-Tribe Elder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSakura-Tribe%5D+%5BElder%5D)
+[Sakura-Tribe Elder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSakura-Tribe%5D+%5BElder%5D)
 
 
 2
-[Seshiro the Anointed](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeshiro%5D+%5Bthe%5D+%5BAnointed%5D)
+[Seshiro the Anointed](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeshiro%5D+%5Bthe%5D+%5BAnointed%5D)
 
 
 2
-[Shisato, Whispering Hunter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShisato,%5D+%5BWhispering%5D+%5BHunter%5D)
+[Shisato, Whispering Hunter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShisato,%5D+%5BWhispering%5D+%5BHunter%5D)
 
 
 2
-[Sosuke, Son of Seshiro](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSosuke,%5D+%5BSon%5D+%5Bof%5D+%5BSeshiro%5D)
+[Sosuke, Son of Seshiro](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSosuke,%5D+%5BSon%5D+%5Bof%5D+%5BSeshiro%5D)
 
 
 2
-[Collective Unconscious](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCollective%5D+%5BUnconscious%5D)
+[Collective Unconscious](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCollective%5D+%5BUnconscious%5D)
 
 
 3
-[Time of Need](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5Bof%5D+%5BNeed%5D)
+[Time of Need](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5Bof%5D+%5BNeed%5D)
 
 
 
@@ -228,27 +225,27 @@ OverviewColorCostRarity
 
 
 22
-[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
 
 
 1
-[Okina, Temple to the Grandfathers](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOkina,%5D+%5BTemple%5D+%5Bto%5D+%5Bthe%5D+%5BGrandfathers%5D)
+[Okina, Temple to the Grandfathers](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOkina,%5D+%5BTemple%5D+%5Bto%5D+%5Bthe%5D+%5BGrandfathers%5D)
 
 
 1
-[Blasting Station](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlasting%5D+%5BStation%5D)
+[Blasting Station](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlasting%5D+%5BStation%5D)
 
 
 1
-[Coat of Arms](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCoat%5D+%5Bof%5D+%5BArms%5D)
+[Coat of Arms](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCoat%5D+%5Bof%5D+%5BArms%5D)
 
 
 3
-[Konda's Banner](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKonda%5D+%5BBanner%5D)
+[Konda's Banner](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKonda%5D+%5BBanner%5D)
 
 
 4
-[Orochi Hatchery](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrochi%5D+%5BHatchery%5D)
+[Orochi Hatchery](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrochi%5D+%5BHatchery%5D)
 
 
 60 Cards 
@@ -260,19 +257,19 @@ OverviewColorCostRarity
 
 
 4
-[Orochi Sustainer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrochi%5D+%5BSustainer%5D)
+[Orochi Sustainer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrochi%5D+%5BSustainer%5D)
 
 
 4
-[Sakura-Tribe Elder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSakura-Tribe%5D+%5BElder%5D)
+[Sakura-Tribe Elder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSakura-Tribe%5D+%5BElder%5D)
 
 
 3
-[Konda's Banner](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKonda%5D+%5BBanner%5D)
+[Konda's Banner](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKonda%5D+%5BBanner%5D)
 
 
 3
-[Time of Need](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5Bof%5D+%5BNeed%5D)
+[Time of Need](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5Bof%5D+%5BNeed%5D)
 
 
 
@@ -281,15 +278,15 @@ OverviewColorCostRarity
 
 
 2
-[Matsu-Tribe Decoy](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMatsu-Tribe%5D+%5BDecoy%5D)
+[Matsu-Tribe Decoy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMatsu-Tribe%5D+%5BDecoy%5D)
 
 
 4
-[Orochi Eggwatcher](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrochi%5D+%5BEggwatcher%5D)
+[Orochi Eggwatcher](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrochi%5D+%5BEggwatcher%5D)
 
 
 1
-[Blasting Station](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlasting%5D+%5BStation%5D)
+[Blasting Station](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlasting%5D+%5BStation%5D)
 
 
 
@@ -298,15 +295,15 @@ OverviewColorCostRarity
 
 
 3
-[Sachi, Daughter of Seshiro](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSachi,%5D+%5BDaughter%5D+%5Bof%5D+%5BSeshiro%5D)
+[Sachi, Daughter of Seshiro](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSachi,%5D+%5BDaughter%5D+%5Bof%5D+%5BSeshiro%5D)
 
 
 2
-[Shisato, Whispering Hunter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShisato,%5D+%5BWhispering%5D+%5BHunter%5D)
+[Shisato, Whispering Hunter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShisato,%5D+%5BWhispering%5D+%5BHunter%5D)
 
 
 2
-[Sosuke, Son of Seshiro](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSosuke,%5D+%5BSon%5D+%5Bof%5D+%5BSeshiro%5D)
+[Sosuke, Son of Seshiro](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSosuke,%5D+%5BSon%5D+%5Bof%5D+%5BSeshiro%5D)
 
 
 
@@ -315,7 +312,7 @@ OverviewColorCostRarity
 
 
 1
-[Coat of Arms](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCoat%5D+%5Bof%5D+%5BArms%5D)
+[Coat of Arms](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCoat%5D+%5Bof%5D+%5BArms%5D)
 
 
 
@@ -324,60 +321,60 @@ OverviewColorCostRarity
 
 
 2
-[Seshiro the Anointed](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeshiro%5D+%5Bthe%5D+%5BAnointed%5D)
+[Seshiro the Anointed](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeshiro%5D+%5Bthe%5D+%5BAnointed%5D)
 
 
 2
-[Collective Unconscious](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCollective%5D+%5BUnconscious%5D)
+[Collective Unconscious](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCollective%5D+%5BUnconscious%5D)
 
 
 33 Cards 
 
 
 
-##### Common (35)
+##### Common (32)
 
 
 
 22
-[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
 
 
 2
-[Matsu-Tribe Decoy](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMatsu-Tribe%5D+%5BDecoy%5D)
+[Matsu-Tribe Decoy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMatsu-Tribe%5D+%5BDecoy%5D)
 
 
 4
-[Orochi Sustainer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrochi%5D+%5BSustainer%5D)
+[Orochi Sustainer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrochi%5D+%5BSustainer%5D)
 
 
 4
-[Sakura-Tribe Elder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSakura-Tribe%5D+%5BElder%5D)
+[Sakura-Tribe Elder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSakura-Tribe%5D+%5BElder%5D)
+
+
+
+##### Uncommon (13)
+
+
+
+4
+[Orochi Eggwatcher](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrochi%5D+%5BEggwatcher%5D)
 
 
 3
-[Time of Need](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5Bof%5D+%5BNeed%5D)
-
-
-
-##### Uncommon (10)
-
-
-
-4
-[Orochi Eggwatcher](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrochi%5D+%5BEggwatcher%5D)
-
-
-3
-[Sachi, Daughter of Seshiro](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSachi,%5D+%5BDaughter%5D+%5Bof%5D+%5BSeshiro%5D)
+[Sachi, Daughter of Seshiro](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSachi,%5D+%5BDaughter%5D+%5Bof%5D+%5BSeshiro%5D)
 
 
 2
-[Sosuke, Son of Seshiro](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSosuke,%5D+%5BSon%5D+%5Bof%5D+%5BSeshiro%5D)
+[Sosuke, Son of Seshiro](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSosuke,%5D+%5BSon%5D+%5Bof%5D+%5BSeshiro%5D)
 
 
 1
-[Blasting Station](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlasting%5D+%5BStation%5D)
+[Blasting Station](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlasting%5D+%5BStation%5D)
+
+
+3
+[Time of Need](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5Bof%5D+%5BNeed%5D)
 
 
 
@@ -386,31 +383,31 @@ OverviewColorCostRarity
 
 
 1
-[Okina, Temple to the Grandfathers](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOkina,%5D+%5BTemple%5D+%5Bto%5D+%5Bthe%5D+%5BGrandfathers%5D)
+[Okina, Temple to the Grandfathers](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOkina,%5D+%5BTemple%5D+%5Bto%5D+%5Bthe%5D+%5BGrandfathers%5D)
 
 
 2
-[Seshiro the Anointed](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeshiro%5D+%5Bthe%5D+%5BAnointed%5D)
+[Seshiro the Anointed](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeshiro%5D+%5Bthe%5D+%5BAnointed%5D)
 
 
 2
-[Shisato, Whispering Hunter](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShisato,%5D+%5BWhispering%5D+%5BHunter%5D)
+[Shisato, Whispering Hunter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShisato,%5D+%5BWhispering%5D+%5BHunter%5D)
 
 
 1
-[Coat of Arms](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCoat%5D+%5Bof%5D+%5BArms%5D)
+[Coat of Arms](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCoat%5D+%5Bof%5D+%5BArms%5D)
 
 
 2
-[Collective Unconscious](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCollective%5D+%5BUnconscious%5D)
+[Collective Unconscious](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCollective%5D+%5BUnconscious%5D)
 
 
 3
-[Konda's Banner](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKonda%5D+%5BBanner%5D)
+[Konda's Banner](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKonda%5D+%5BBanner%5D)
 
 
 4
-[Orochi Hatchery](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrochi%5D+%5BHatchery%5D)
+[Orochi Hatchery](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrochi%5D+%5BHatchery%5D)
 
 
 60 Cards 
@@ -418,7 +415,7 @@ OverviewColorCostRarity
 
 
 
-![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Forest)
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Forest)
 
 
 
@@ -435,8 +432,7 @@ OverviewColorCostRarity
 
 
 
-
-Hmmm, that was reasonably obvious, wasn't it? Some fun things within the deck: Sachi turns a number of your Snakes into ![](https://web.archive.org/web/20220123123600im_/https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/green.gif)![](https://web.archive.org/web/20220123123600im_/https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/green.gif) producers to help power out a giant Hatchery. The Hatchery can help your Eggwatcher flip. And Shisato turns your Decoys into mini-assassins as they have extra power, a Basilisk ability, and a moderate form of [Lure](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lure). It's better creature removal than green normally gets!
+Hmmm, that was reasonably obvious, wasn't it? Some fun things within the deck: Sachi turns a number of your Snakes into ![](https://web.archive.org/web/20220123123600im_/https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/green.gif)![](https://web.archive.org/web/20220123123600im_/https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/green.gif) producers to help power out a giant Hatchery. The Hatchery can help your Eggwatcher flip. And Shisato turns your Decoys into mini-assassins as they have extra power, a Basilisk ability, and a moderate form of [Lure](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lure). It's better creature removal than green normally gets!
 
 ### Equip Quip
 
@@ -444,10 +440,9 @@ Hmmm, that was reasonably obvious, wasn't it? Some fun things within the deck: S
 
 So, let's make the Kaldra deck, shall we? This has been one of my most frequently requested subjects since *Fifth Dawn* was released. And sure, while the combo of putting the three legendary Equipment together is spelled out pretty plainly in the card file, it's what you do with it afterwards that sets it apart.
 
-Josh C. sees Kaldra as an infinite mana generator. Pay 1 mana to make a Kaldra token. Sacrifice it to [Ashnod's Altar](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ashnod%27s+Altar) to get 2 mana. Pay 1 mana to make a Kaldra token. Repeat. Stephen Coleman and Fox Murdoch (a superspy name if I ever heard one) figure that as long as you're searching up equipment, and as long as your Kaldra combo is indestructible, you might as well fetch a [Worldslayer](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Worldslayer) too. Matt Weir likes the idea of repeatedly creating legendary Kaldra tokens (which legendarily off each other) while you have a [Grave Pact](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grave+Pact) in play. (Before I get the standard 15 emails that I always receive when I write about this topic, *yes, token creatures do go to the graveyard before they cease to exist.*) Other (now obsolete) ideas involved doing crazy creature type-changing effects so that, for example, [Helm of Kaldra](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Helm+of+Kaldra) produced zillions of 4/4 Avatar Cats instead of Avatar Legends so they wouldn't be subject to the legend rule. These types of ideas don't work anymore because now the Helm produces legendary Avatar creature tokens and it's impossible to make the tokens be non-legendary. Ah, crushing people's dreams: It's one of the things that attracted me to supervillainy in the first place.
+Josh C. sees Kaldra as an infinite mana generator. Pay 1 mana to make a Kaldra token. Sacrifice it to [Ashnod's Altar](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ashnod%27s+Altar) to get 2 mana. Pay 1 mana to make a Kaldra token. Repeat. Stephen Coleman and Fox Murdoch (a superspy name if I ever heard one) figure that as long as you're searching up equipment, and as long as your Kaldra combo is indestructible, you might as well fetch a [Worldslayer](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Worldslayer) too. Matt Weir likes the idea of repeatedly creating legendary Kaldra tokens (which legendarily off each other) while you have a [Grave Pact](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grave+Pact) in play. (Before I get the standard 15 emails that I always receive when I write about this topic, *yes, token creatures do go to the graveyard before they cease to exist.*) Other (now obsolete) ideas involved doing crazy creature type-changing effects so that, for example, [Helm of Kaldra](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Helm+of+Kaldra) produced zillions of 4/4 Avatar Cats instead of Avatar Legends so they wouldn't be subject to the legend rule. These types of ideas don't work anymore because now the Helm produces legendary Avatar creature tokens and it's impossible to make the tokens be non-legendary. Ah, crushing people's dreams: It's one of the things that attracted me to supervillainy in the first place.
 
-What am I going to do with my Kaldra tokens? Nothing too exciting. Remember, I'm in the clutches of Captain Obvious. My main plan (just in case a 9/9 indestructible, first striking, trampling, hasty creature isn't good enough) is [Blasting Station](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Blasting+Station). For each ![](https://web.archive.org/web/20211201201921im_/https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/colorless1.gif) I spend, I create a new Kaldra, untap [Blasting Station](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Blasting+Station), tap [Blasting Station](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Blasting+Station) and sacrifice Kaldra, and deal 1 damage. Tap a land to deal 1 damage? Congratulations, I just reinvented [Hecatomb](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hecatomb). The exciting thing that *Champions of Kamigawa* adds to the mix is Equipment tutors #9-12 (following [Steelshaper's Gift](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Steelshaper%27s+Gift) and [Fabricate](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fabricate); [Reshape](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Reshape) didn't make the cut) in the form of [Godo, Bandit Warlord](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Godo%2C+Bandit+Warlord). Godo doesn't just search for [Tenza, Godo's Maul](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tenza%2C+Godo%27s+Maul), you know.
-
+What am I going to do with my Kaldra tokens? Nothing too exciting. Remember, I'm in the clutches of Captain Obvious. My main plan (just in case a 9/9 indestructible, first striking, trampling, hasty creature isn't good enough) is [Blasting Station](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Blasting+Station). For each ![](https://web.archive.org/web/20211201201921im_/https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/colorless1.gif) I spend, I create a new Kaldra, untap [Blasting Station](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Blasting+Station), tap [Blasting Station](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Blasting+Station) and sacrifice Kaldra, and deal 1 damage. Tap a land to deal 1 damage? Congratulations, I just reinvented [Hecatomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hecatomb). The exciting thing that *Champions of Kamigawa* adds to the mix is Equipment tutors #9-12 (following [Steelshaper's Gift](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Steelshaper%27s+Gift) and [Fabricate](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fabricate); [Reshape](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Reshape) didn't make the cut) in the form of [Godo, Bandit Warlord](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Godo%2C+Bandit+Warlord). Godo doesn't just search for [Tenza, Godo's Maul](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tenza%2C+Godo%27s+Maul), you know.
 
 
 
@@ -464,9 +459,7 @@ What am I going to do with my Kaldra tokens? Nothing too exciting. Remember, I'm
 
 
 
-![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
 ![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
-
 
 
 
@@ -491,19 +484,19 @@ OverviewColorCostRarity
 
 
 1
-[Auriok Steelshaper](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAuriok%5D+%5BSteelshaper%5D)
+[Auriok Steelshaper](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAuriok%5D+%5BSteelshaper%5D)
 
 
 1
-[Auriok Windwalker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAuriok%5D+%5BWindwalker%5D)
+[Auriok Windwalker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAuriok%5D+%5BWindwalker%5D)
 
 
 4
-[Godo, Bandit Warlord](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGodo,%5D+%5BBandit%5D+%5BWarlord%5D)
+[Godo, Bandit Warlord](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGodo,%5D+%5BBandit%5D+%5BWarlord%5D)
 
 
 1
-[Steelshaper Apprentice](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteelshaper%5D+%5BApprentice%5D)
+[Steelshaper Apprentice](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteelshaper%5D+%5BApprentice%5D)
 
 
 
@@ -512,11 +505,11 @@ OverviewColorCostRarity
 
 
 4
-[Fabricate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFabricate%5D)
+[Fabricate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFabricate%5D)
 
 
 4
-[Steelshaper's Gift](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteelshaper%5D+%5BGift%5D)
+[Steelshaper's Gift](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteelshaper%5D+%5BGift%5D)
 
 
 
@@ -525,31 +518,31 @@ OverviewColorCostRarity
 
 
 3
-[Blasting Station](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlasting%5D+%5BStation%5D)
+[Blasting Station](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlasting%5D+%5BStation%5D)
 
 
 4
-[Helm of Kaldra](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHelm%5D+%5Bof%5D+%5BKaldra%5D)
+[Helm of Kaldra](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHelm%5D+%5Bof%5D+%5BKaldra%5D)
 
 
 1
-[Lightning Greaves](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BGreaves%5D)
+[Lightning Greaves](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BGreaves%5D)
 
 
 1
-[Loxodon Warhammer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLoxodon%5D+%5BWarhammer%5D)
+[Loxodon Warhammer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLoxodon%5D+%5BWarhammer%5D)
 
 
 4
-[Shield of Kaldra](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShield%5D+%5Bof%5D+%5BKaldra%5D)
+[Shield of Kaldra](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShield%5D+%5Bof%5D+%5BKaldra%5D)
 
 
 4
-[Sword of Kaldra](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSword%5D+%5Bof%5D+%5BKaldra%5D)
+[Sword of Kaldra](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSword%5D+%5Bof%5D+%5BKaldra%5D)
 
 
 4
-[Talisman of Progress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTalisman%5D+%5Bof%5D+%5BProgress%5D)
+[Talisman of Progress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTalisman%5D+%5Bof%5D+%5BProgress%5D)
 
 
 
@@ -558,31 +551,31 @@ OverviewColorCostRarity
 
 
 7
-[Plains](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
 
 
 2
-[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
 
 
 5
-[Mountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
 
 
 2
-[Cloudcrest Lake](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCloudcrest%5D+%5BLake%5D)
+[Cloudcrest Lake](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCloudcrest%5D+%5BLake%5D)
 
 
 4
-[Cloudpost](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCloudpost%5D)
+[Cloudpost](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCloudpost%5D)
 
 
 4
-[Mirrodin's Core](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMirrodin%5D+%5BCore%5D)
+[Mirrodin's Core](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMirrodin%5D+%5BCore%5D)
 
 
 1
-[Untaidake, the Cloud Keeper](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUntaidake,%5D+%5Bthe%5D+%5BCloud%5D+%5BKeeper%5D)
+[Untaidake, the Cloud Keeper](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUntaidake,%5D+%5Bthe%5D+%5BCloud%5D+%5BKeeper%5D)
 
 
 61 Cards 
@@ -594,19 +587,19 @@ OverviewColorCostRarity
 
 
 1
-[Auriok Steelshaper](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAuriok%5D+%5BSteelshaper%5D)
+[Auriok Steelshaper](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAuriok%5D+%5BSteelshaper%5D)
 
 
 1
-[Auriok Windwalker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAuriok%5D+%5BWindwalker%5D)
+[Auriok Windwalker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAuriok%5D+%5BWindwalker%5D)
 
 
 1
-[Steelshaper Apprentice](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteelshaper%5D+%5BApprentice%5D)
+[Steelshaper Apprentice](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteelshaper%5D+%5BApprentice%5D)
 
 
 4
-[Steelshaper's Gift](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteelshaper%5D+%5BGift%5D)
+[Steelshaper's Gift](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteelshaper%5D+%5BGift%5D)
 
 
 
@@ -615,7 +608,7 @@ OverviewColorCostRarity
 
 
 4
-[Fabricate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFabricate%5D)
+[Fabricate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFabricate%5D)
 
 
 
@@ -624,7 +617,7 @@ OverviewColorCostRarity
 
 
 4
-[Godo, Bandit Warlord](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGodo,%5D+%5BBandit%5D+%5BWarlord%5D)
+[Godo, Bandit Warlord](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGodo,%5D+%5BBandit%5D+%5BWarlord%5D)
 
 
 
@@ -633,59 +626,59 @@ OverviewColorCostRarity
 
 
 7
-[Plains](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
 
 
 2
-[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
 
 
 5
-[Mountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
 
 
 2
-[Cloudcrest Lake](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCloudcrest%5D+%5BLake%5D)
+[Cloudcrest Lake](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCloudcrest%5D+%5BLake%5D)
 
 
 4
-[Cloudpost](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCloudpost%5D)
+[Cloudpost](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCloudpost%5D)
 
 
 4
-[Mirrodin's Core](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMirrodin%5D+%5BCore%5D)
+[Mirrodin's Core](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMirrodin%5D+%5BCore%5D)
 
 
 1
-[Untaidake, the Cloud Keeper](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUntaidake,%5D+%5Bthe%5D+%5BCloud%5D+%5BKeeper%5D)
+[Untaidake, the Cloud Keeper](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUntaidake,%5D+%5Bthe%5D+%5BCloud%5D+%5BKeeper%5D)
 
 
 3
-[Blasting Station](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlasting%5D+%5BStation%5D)
+[Blasting Station](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlasting%5D+%5BStation%5D)
 
 
 4
-[Helm of Kaldra](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHelm%5D+%5Bof%5D+%5BKaldra%5D)
+[Helm of Kaldra](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHelm%5D+%5Bof%5D+%5BKaldra%5D)
 
 
 1
-[Lightning Greaves](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BGreaves%5D)
+[Lightning Greaves](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BGreaves%5D)
 
 
 1
-[Loxodon Warhammer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLoxodon%5D+%5BWarhammer%5D)
+[Loxodon Warhammer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLoxodon%5D+%5BWarhammer%5D)
 
 
 4
-[Shield of Kaldra](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShield%5D+%5Bof%5D+%5BKaldra%5D)
+[Shield of Kaldra](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShield%5D+%5Bof%5D+%5BKaldra%5D)
 
 
 4
-[Sword of Kaldra](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSword%5D+%5Bof%5D+%5BKaldra%5D)
+[Sword of Kaldra](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSword%5D+%5Bof%5D+%5BKaldra%5D)
 
 
 4
-[Talisman of Progress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTalisman%5D+%5Bof%5D+%5BProgress%5D)
+[Talisman of Progress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTalisman%5D+%5Bof%5D+%5BProgress%5D)
 
 
 61 Cards 
@@ -697,7 +690,7 @@ OverviewColorCostRarity
 
 
 4
-[Steelshaper's Gift](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteelshaper%5D+%5BGift%5D)
+[Steelshaper's Gift](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteelshaper%5D+%5BGift%5D)
 
 
 
@@ -706,15 +699,15 @@ OverviewColorCostRarity
 
 
 1
-[Auriok Steelshaper](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAuriok%5D+%5BSteelshaper%5D)
+[Auriok Steelshaper](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAuriok%5D+%5BSteelshaper%5D)
 
 
 1
-[Lightning Greaves](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BGreaves%5D)
+[Lightning Greaves](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BGreaves%5D)
 
 
 4
-[Talisman of Progress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTalisman%5D+%5Bof%5D+%5BProgress%5D)
+[Talisman of Progress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTalisman%5D+%5Bof%5D+%5BProgress%5D)
 
 
 
@@ -723,19 +716,19 @@ OverviewColorCostRarity
 
 
 3
-[Blasting Station](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlasting%5D+%5BStation%5D)
+[Blasting Station](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlasting%5D+%5BStation%5D)
 
 
 4
-[Fabricate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFabricate%5D)
+[Fabricate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFabricate%5D)
 
 
 4
-[Helm of Kaldra](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHelm%5D+%5Bof%5D+%5BKaldra%5D)
+[Helm of Kaldra](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHelm%5D+%5Bof%5D+%5BKaldra%5D)
 
 
 1
-[Loxodon Warhammer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLoxodon%5D+%5BWarhammer%5D)
+[Loxodon Warhammer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLoxodon%5D+%5BWarhammer%5D)
 
 
 
@@ -744,19 +737,19 @@ OverviewColorCostRarity
 
 
 1
-[Auriok Windwalker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAuriok%5D+%5BWindwalker%5D)
+[Auriok Windwalker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAuriok%5D+%5BWindwalker%5D)
 
 
 1
-[Steelshaper Apprentice](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteelshaper%5D+%5BApprentice%5D)
+[Steelshaper Apprentice](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteelshaper%5D+%5BApprentice%5D)
 
 
 4
-[Shield of Kaldra](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShield%5D+%5Bof%5D+%5BKaldra%5D)
+[Shield of Kaldra](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShield%5D+%5Bof%5D+%5BKaldra%5D)
 
 
 4
-[Sword of Kaldra](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSword%5D+%5Bof%5D+%5BKaldra%5D)
+[Sword of Kaldra](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSword%5D+%5Bof%5D+%5BKaldra%5D)
 
 
 
@@ -765,35 +758,31 @@ OverviewColorCostRarity
 
 
 4
-[Godo, Bandit Warlord](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGodo,%5D+%5BBandit%5D+%5BWarlord%5D)
+[Godo, Bandit Warlord](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGodo,%5D+%5BBandit%5D+%5BWarlord%5D)
 
 
 36 Cards 
 
 
 
-##### Common (22)
+##### Common (18)
 
 
 
 7
-[Plains](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
 
 
 2
-[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
 
 
 5
-[Mountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
 
 
 4
-[Cloudpost](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCloudpost%5D)
-
-
-4
-[Shield of Kaldra](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShield%5D+%5Bof%5D+%5BKaldra%5D)
+[Cloudpost](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCloudpost%5D)
 
 
 
@@ -802,68 +791,72 @@ OverviewColorCostRarity
 
 
 2
-[Cloudcrest Lake](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCloudcrest%5D+%5BLake%5D)
+[Cloudcrest Lake](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCloudcrest%5D+%5BLake%5D)
 
 
 4
-[Mirrodin's Core](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMirrodin%5D+%5BCore%5D)
+[Mirrodin's Core](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMirrodin%5D+%5BCore%5D)
 
 
 3
-[Blasting Station](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlasting%5D+%5BStation%5D)
+[Blasting Station](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlasting%5D+%5BStation%5D)
 
 
 4
-[Fabricate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFabricate%5D)
+[Fabricate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFabricate%5D)
 
 
 1
-[Lightning Greaves](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BGreaves%5D)
+[Lightning Greaves](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BGreaves%5D)
 
 
 4
-[Steelshaper's Gift](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteelshaper%5D+%5BGift%5D)
+[Steelshaper's Gift](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteelshaper%5D+%5BGift%5D)
 
 
 4
-[Talisman of Progress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTalisman%5D+%5Bof%5D+%5BProgress%5D)
+[Talisman of Progress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTalisman%5D+%5Bof%5D+%5BProgress%5D)
 
 
 
-##### Rare (17)
+##### Rare (21)
 
 
 
 1
-[Untaidake, the Cloud Keeper](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUntaidake,%5D+%5Bthe%5D+%5BCloud%5D+%5BKeeper%5D)
+[Untaidake, the Cloud Keeper](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUntaidake,%5D+%5Bthe%5D+%5BCloud%5D+%5BKeeper%5D)
 
 
 1
-[Auriok Steelshaper](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAuriok%5D+%5BSteelshaper%5D)
+[Auriok Steelshaper](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAuriok%5D+%5BSteelshaper%5D)
 
 
 1
-[Auriok Windwalker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAuriok%5D+%5BWindwalker%5D)
+[Auriok Windwalker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAuriok%5D+%5BWindwalker%5D)
 
 
 4
-[Godo, Bandit Warlord](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGodo,%5D+%5BBandit%5D+%5BWarlord%5D)
+[Godo, Bandit Warlord](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGodo,%5D+%5BBandit%5D+%5BWarlord%5D)
 
 
 1
-[Steelshaper Apprentice](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteelshaper%5D+%5BApprentice%5D)
+[Steelshaper Apprentice](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteelshaper%5D+%5BApprentice%5D)
 
 
 4
-[Helm of Kaldra](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHelm%5D+%5Bof%5D+%5BKaldra%5D)
+[Helm of Kaldra](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHelm%5D+%5Bof%5D+%5BKaldra%5D)
 
 
 1
-[Loxodon Warhammer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLoxodon%5D+%5BWarhammer%5D)
+[Loxodon Warhammer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLoxodon%5D+%5BWarhammer%5D)
 
 
 4
-[Sword of Kaldra](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSword%5D+%5Bof%5D+%5BKaldra%5D)
+[Shield of Kaldra](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShield%5D+%5Bof%5D+%5BKaldra%5D)
+
+
+4
+[Sword of Kaldra](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSword%5D+%5Bof%5D+%5BKaldra%5D)
 
 
 61 Cards 
@@ -871,8 +864,7 @@ OverviewColorCostRarity
 
 
 
-![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Plains)
-
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Plains)
 
 
 
@@ -893,10 +885,9 @@ OverviewColorCostRarity
 
 Dang. Captain Obvious, in a move I really should have seen coming, trapped me in his Think-Inside-the-Box Box. I have a sudden urge to make a Samurai deck. Oh, it's so easy. Three colors to choose from, with a varied selection of costs, speeds, rarities, and support cards. So straightforward. So tempting…
 
-But no! While there are a few variations on the straight-up Samurai deck to explore, I won't be the one exploring them. I'm drawn to the combo of [Sensei Golden-Tail](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sensei+Golden-Tail) and [Takeno, Samurai General](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Takeno%2C+Samurai+General). Takeno is nutty in his own right, but the two of them together let Golden-Tail tap to add what are essentially +1/+1 counters that each grow to +2/+2 during combat. It's unfortunate that his ability only works at sorcery speed. On the other hand, it's good that even if Golden-Tail leaves play, the trained creatures are still Samurai and still have bushido. (Heck, even if the counters are knocked off by [Aether Snap](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aether+Snap) or [Power Conduit](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Power+Conduit), the trained creatures are still Samurai and still have bushido.)
+But no! While there are a few variations on the straight-up Samurai deck to explore, I won't be the one exploring them. I'm drawn to the combo of [Sensei Golden-Tail](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sensei+Golden-Tail) and [Takeno, Samurai General](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Takeno%2C+Samurai+General). Takeno is nutty in his own right, but the two of them together let Golden-Tail tap to add what are essentially +1/+1 counters that each grow to +2/+2 during combat. It's unfortunate that his ability only works at sorcery speed. On the other hand, it's good that even if Golden-Tail leaves play, the trained creatures are still Samurai and still have bushido. (Heck, even if the counters are knocked off by [Aether Snap](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aether+Snap) or [Power Conduit](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Power+Conduit), the trained creatures are still Samurai and still have bushido.)
 
-When I finished my first attempt at this deck, I stepped back, I looked at it… and I realized I had still built an all-Samurai deck. Since bushido is cumulative, and Takeno and [Nagao, Bound by Honor](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nagao%2C+Bound+by+Honor) (the poor guy: someone TP'ed him, and he's too bound by honor to even acknowledge it) are happiest if you start out with Samurai in the first place, that's the natural place for the deck to go. But in order to break free of the non-diabolical clutches of Captain Obvious, I punched a hole in his box to add three creatures to the deck that aren't Samurai until *after* Golden-Tail gets his paws on them: [Taunting Elf](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Taunting+Elf), [Deftblade Elite](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Deftblade+Elite), and [Krosan Vorine](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Krosan+Vorine). Lure and provoke can be good when your creatures get gigantic in combat. Toss [Oathkeeper](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Oathkeeper), [Takeno's Daisho](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Takeno%27s+Daisho) to one of these Samuraiified critters and you have a reusable heat-seeking missile.
-
+When I finished my first attempt at this deck, I stepped back, I looked at it… and I realized I had still built an all-Samurai deck. Since bushido is cumulative, and Takeno and [Nagao, Bound by Honor](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nagao%2C+Bound+by+Honor) (the poor guy: someone TP'ed him, and he's too bound by honor to even acknowledge it) are happiest if you start out with Samurai in the first place, that's the natural place for the deck to go. But in order to break free of the non-diabolical clutches of Captain Obvious, I punched a hole in his box to add three creatures to the deck that aren't Samurai until *after* Golden-Tail gets his paws on them: [Taunting Elf](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Taunting+Elf), [Deftblade Elite](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Deftblade+Elite), and [Krosan Vorine](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Krosan+Vorine). Lure and provoke can be good when your creatures get gigantic in combat. Toss [Oathkeeper](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Oathkeeper), [Takeno's Daisho](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Takeno%27s+Daisho) to one of these Samuraiified critters and you have a reusable heat-seeking missile.
 
 
 
@@ -913,9 +904,7 @@ When I finished my first attempt at this deck, I stepped back, I looked at it…
 
 
 
-![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
 ![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
-
 
 
 
@@ -940,35 +929,35 @@ OverviewColorCostRarity
 
 
 4
-[Deftblade Elite](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeftblade%5D+%5BElite%5D)
+[Deftblade Elite](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeftblade%5D+%5BElite%5D)
 
 
 4
-[Kitsune Blademaster](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKitsune%5D+%5BBlademaster%5D)
+[Kitsune Blademaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKitsune%5D+%5BBlademaster%5D)
 
 
 4
-[Konda's Hatamoto](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKonda%5D+%5BHatamoto%5D)
+[Konda's Hatamoto](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKonda%5D+%5BHatamoto%5D)
 
 
 3
-[Krosan Vorine](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BVorine%5D)
+[Krosan Vorine](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BVorine%5D)
 
 
 3
-[Nagao, Bound by Honor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNagao,%5D+%5BBound%5D+%5Bby%5D+%5BHonor%5D)
+[Nagao, Bound by Honor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNagao,%5D+%5BBound%5D+%5Bby%5D+%5BHonor%5D)
 
 
 4
-[Sensei Golden-Tail](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSensei%5D+%5BGolden-Tail%5D)
+[Sensei Golden-Tail](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSensei%5D+%5BGolden-Tail%5D)
 
 
 4
-[Takeno, Samurai General](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTakeno,%5D+%5BSamurai%5D+%5BGeneral%5D)
+[Takeno, Samurai General](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTakeno,%5D+%5BSamurai%5D+%5BGeneral%5D)
 
 
 4
-[Taunting Elf](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTaunting%5D+%5BElf%5D)
+[Taunting Elf](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTaunting%5D+%5BElf%5D)
 
 
 
@@ -977,7 +966,7 @@ OverviewColorCostRarity
 
 
 2
-[Time of Need](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5Bof%5D+%5BNeed%5D)
+[Time of Need](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5Bof%5D+%5BNeed%5D)
 
 
 
@@ -986,7 +975,7 @@ OverviewColorCostRarity
 
 
 2
-[Call to Glory](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCall%5D+%5Bto%5D+%5BGlory%5D)
+[Call to Glory](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCall%5D+%5Bto%5D+%5BGlory%5D)
 
 
 
@@ -995,7 +984,7 @@ OverviewColorCostRarity
 
 
 2
-[Oathkeeper, Takeno's Daisho](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOathkeeper,%5D+%5BTakeno%5D+%5BDaisho%5D)
+[Oathkeeper, Takeno's Daisho](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOathkeeper,%5D+%5BTakeno%5D+%5BDaisho%5D)
 
 
 
@@ -1004,31 +993,31 @@ OverviewColorCostRarity
 
 
 11
-[Plains](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
 
 
 4
-[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
 
 
 2
-[Brushland](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrushland%5D)
+[Brushland](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrushland%5D)
 
 
 1
-[Eiganjo Castle](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEiganjo%5D+%5BCastle%5D)
+[Eiganjo Castle](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEiganjo%5D+%5BCastle%5D)
 
 
 4
-[Krosan Verge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BVerge%5D)
+[Krosan Verge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BVerge%5D)
 
 
 1
-[Okina, Temple to the Grandfathers](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOkina,%5D+%5BTemple%5D+%5Bto%5D+%5Bthe%5D+%5BGrandfathers%5D)
+[Okina, Temple to the Grandfathers](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOkina,%5D+%5BTemple%5D+%5Bto%5D+%5Bthe%5D+%5BGrandfathers%5D)
 
 
 1
-[Windswept Heath](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
 
 
 60 Cards 
@@ -1040,31 +1029,31 @@ OverviewColorCostRarity
 
 
 4
-[Deftblade Elite](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeftblade%5D+%5BElite%5D)
+[Deftblade Elite](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeftblade%5D+%5BElite%5D)
 
 
 4
-[Kitsune Blademaster](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKitsune%5D+%5BBlademaster%5D)
+[Kitsune Blademaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKitsune%5D+%5BBlademaster%5D)
 
 
 4
-[Konda's Hatamoto](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKonda%5D+%5BHatamoto%5D)
+[Konda's Hatamoto](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKonda%5D+%5BHatamoto%5D)
 
 
 3
-[Nagao, Bound by Honor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNagao,%5D+%5BBound%5D+%5Bby%5D+%5BHonor%5D)
+[Nagao, Bound by Honor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNagao,%5D+%5BBound%5D+%5Bby%5D+%5BHonor%5D)
 
 
 4
-[Sensei Golden-Tail](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSensei%5D+%5BGolden-Tail%5D)
+[Sensei Golden-Tail](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSensei%5D+%5BGolden-Tail%5D)
 
 
 4
-[Takeno, Samurai General](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTakeno,%5D+%5BSamurai%5D+%5BGeneral%5D)
+[Takeno, Samurai General](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTakeno,%5D+%5BSamurai%5D+%5BGeneral%5D)
 
 
 2
-[Call to Glory](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCall%5D+%5Bto%5D+%5BGlory%5D)
+[Call to Glory](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCall%5D+%5Bto%5D+%5BGlory%5D)
 
 
 
@@ -1073,15 +1062,15 @@ OverviewColorCostRarity
 
 
 3
-[Krosan Vorine](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BVorine%5D)
+[Krosan Vorine](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BVorine%5D)
 
 
 4
-[Taunting Elf](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTaunting%5D+%5BElf%5D)
+[Taunting Elf](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTaunting%5D+%5BElf%5D)
 
 
 2
-[Time of Need](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5Bof%5D+%5BNeed%5D)
+[Time of Need](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5Bof%5D+%5BNeed%5D)
 
 
 
@@ -1090,35 +1079,35 @@ OverviewColorCostRarity
 
 
 11
-[Plains](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
 
 
 4
-[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
 
 
 2
-[Brushland](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrushland%5D)
+[Brushland](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrushland%5D)
 
 
 1
-[Eiganjo Castle](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEiganjo%5D+%5BCastle%5D)
+[Eiganjo Castle](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEiganjo%5D+%5BCastle%5D)
 
 
 4
-[Krosan Verge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BVerge%5D)
+[Krosan Verge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BVerge%5D)
 
 
 1
-[Okina, Temple to the Grandfathers](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOkina,%5D+%5BTemple%5D+%5Bto%5D+%5Bthe%5D+%5BGrandfathers%5D)
+[Okina, Temple to the Grandfathers](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOkina,%5D+%5BTemple%5D+%5Bto%5D+%5Bthe%5D+%5BGrandfathers%5D)
 
 
 1
-[Windswept Heath](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
 
 
 2
-[Oathkeeper, Takeno's Daisho](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOathkeeper,%5D+%5BTakeno%5D+%5BDaisho%5D)
+[Oathkeeper, Takeno's Daisho](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOathkeeper,%5D+%5BTakeno%5D+%5BDaisho%5D)
 
 
 60 Cards 
@@ -1130,11 +1119,11 @@ OverviewColorCostRarity
 
 
 4
-[Deftblade Elite](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeftblade%5D+%5BElite%5D)
+[Deftblade Elite](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeftblade%5D+%5BElite%5D)
 
 
 4
-[Taunting Elf](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTaunting%5D+%5BElf%5D)
+[Taunting Elf](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTaunting%5D+%5BElf%5D)
 
 
 
@@ -1143,19 +1132,19 @@ OverviewColorCostRarity
 
 
 4
-[Konda's Hatamoto](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKonda%5D+%5BHatamoto%5D)
+[Konda's Hatamoto](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKonda%5D+%5BHatamoto%5D)
 
 
 4
-[Sensei Golden-Tail](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSensei%5D+%5BGolden-Tail%5D)
+[Sensei Golden-Tail](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSensei%5D+%5BGolden-Tail%5D)
 
 
 2
-[Call to Glory](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCall%5D+%5Bto%5D+%5BGlory%5D)
+[Call to Glory](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCall%5D+%5Bto%5D+%5BGlory%5D)
 
 
 2
-[Time of Need](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5Bof%5D+%5BNeed%5D)
+[Time of Need](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5Bof%5D+%5BNeed%5D)
 
 
 
@@ -1164,11 +1153,11 @@ OverviewColorCostRarity
 
 
 4
-[Kitsune Blademaster](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKitsune%5D+%5BBlademaster%5D)
+[Kitsune Blademaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKitsune%5D+%5BBlademaster%5D)
 
 
 2
-[Oathkeeper, Takeno's Daisho](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOathkeeper,%5D+%5BTakeno%5D+%5BDaisho%5D)
+[Oathkeeper, Takeno's Daisho](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOathkeeper,%5D+%5BTakeno%5D+%5BDaisho%5D)
 
 
 
@@ -1177,11 +1166,11 @@ OverviewColorCostRarity
 
 
 3
-[Krosan Vorine](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BVorine%5D)
+[Krosan Vorine](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BVorine%5D)
 
 
 3
-[Nagao, Bound by Honor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNagao,%5D+%5BBound%5D+%5Bby%5D+%5BHonor%5D)
+[Nagao, Bound by Honor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNagao,%5D+%5BBound%5D+%5Bby%5D+%5BHonor%5D)
 
 
 
@@ -1190,64 +1179,64 @@ OverviewColorCostRarity
 
 
 4
-[Takeno, Samurai General](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTakeno,%5D+%5BSamurai%5D+%5BGeneral%5D)
+[Takeno, Samurai General](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTakeno,%5D+%5BSamurai%5D+%5BGeneral%5D)
 
 
 36 Cards 
 
 
 
-##### Common (34)
+##### Common (32)
 
 
 
 11
-[Plains](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
 
 
 4
-[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
 
 
 4
-[Deftblade Elite](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeftblade%5D+%5BElite%5D)
+[Deftblade Elite](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeftblade%5D+%5BElite%5D)
 
 
 4
-[Kitsune Blademaster](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKitsune%5D+%5BBlademaster%5D)
+[Kitsune Blademaster](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKitsune%5D+%5BBlademaster%5D)
 
 
 3
-[Krosan Vorine](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BVorine%5D)
+[Krosan Vorine](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BVorine%5D)
 
 
 4
-[Taunting Elf](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTaunting%5D+%5BElf%5D)
+[Taunting Elf](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTaunting%5D+%5BElf%5D)
 
 
 2
-[Call to Glory](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCall%5D+%5Bto%5D+%5BGlory%5D)
-
-
-2
-[Time of Need](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5Bof%5D+%5BNeed%5D)
+[Call to Glory](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCall%5D+%5Bto%5D+%5BGlory%5D)
 
 
 
-##### Uncommon (11)
+##### Uncommon (13)
 
 
 
 4
-[Krosan Verge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BVerge%5D)
+[Krosan Verge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BVerge%5D)
 
 
 4
-[Konda's Hatamoto](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKonda%5D+%5BHatamoto%5D)
+[Konda's Hatamoto](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKonda%5D+%5BHatamoto%5D)
 
 
 3
-[Nagao, Bound by Honor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNagao,%5D+%5BBound%5D+%5Bby%5D+%5BHonor%5D)
+[Nagao, Bound by Honor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNagao,%5D+%5BBound%5D+%5Bby%5D+%5BHonor%5D)
+
+
+2
+[Time of Need](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTime%5D+%5Bof%5D+%5BNeed%5D)
 
 
 
@@ -1256,27 +1245,27 @@ OverviewColorCostRarity
 
 
 2
-[Brushland](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrushland%5D)
+[Brushland](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrushland%5D)
 
 
 1
-[Eiganjo Castle](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEiganjo%5D+%5BCastle%5D)
+[Eiganjo Castle](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEiganjo%5D+%5BCastle%5D)
 
 
 1
-[Okina, Temple to the Grandfathers](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOkina,%5D+%5BTemple%5D+%5Bto%5D+%5Bthe%5D+%5BGrandfathers%5D)
+[Okina, Temple to the Grandfathers](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOkina,%5D+%5BTemple%5D+%5Bto%5D+%5Bthe%5D+%5BGrandfathers%5D)
 
 
 4
-[Sensei Golden-Tail](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSensei%5D+%5BGolden-Tail%5D)
+[Sensei Golden-Tail](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSensei%5D+%5BGolden-Tail%5D)
 
 
 4
-[Takeno, Samurai General](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTakeno,%5D+%5BSamurai%5D+%5BGeneral%5D)
+[Takeno, Samurai General](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTakeno,%5D+%5BSamurai%5D+%5BGeneral%5D)
 
 
 2
-[Oathkeeper, Takeno's Daisho](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOathkeeper,%5D+%5BTakeno%5D+%5BDaisho%5D)
+[Oathkeeper, Takeno's Daisho](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOathkeeper,%5D+%5BTakeno%5D+%5BDaisho%5D)
 
 
 
@@ -1285,7 +1274,7 @@ OverviewColorCostRarity
 
 
 1
-[Windswept Heath](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
 
 
 60 Cards 
@@ -1293,8 +1282,7 @@ OverviewColorCostRarity
 
 
 
-![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Plains)
-
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Plains)
 
 
 

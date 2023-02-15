@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20160811183718/http://magic.wizards.com/en/articles/archive/feature/conspiracy-take-crown-packaging-2016-08-10)
+[Link to Wayback Machine](https://web.archive.org/web/20160815022210/http://magic.wizards.com/en/articles/archive/feature/conspiracy-take-crown-packaging-2016-08-10?tags=Daily%20MTG&lang=en)
 
 [_metadata_:author]:- "Blake Rasmussen"
 [_metadata_:description]:- "Blake shows off the packaging for Conspiracy: Take the Crown."
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2016-08-10"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Conspiracy: Take the Crown Packaging"
-[_metadata_:wayback_capture_timestamp]:- "2016-08-11 18:37:18"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160811183718id_/http://magic.wizards.com/en/articles/archive/feature/conspiracy-take-crown-packaging-2016-08-10"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/conspiracy-take-crown-packaging-2016-08-10"
+[_metadata_:wayback_capture_timestamp]:- "2016-08-15 02:22:10"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160815022210id_/http://magic.wizards.com/en/articles/archive/feature/conspiracy-take-crown-packaging-2016-08-10?tags=Daily%20MTG&lang=en"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/conspiracy-take-crown-packaging-2016-08-10?tags=Daily%20MTG&lang=en"
 ---
 
 

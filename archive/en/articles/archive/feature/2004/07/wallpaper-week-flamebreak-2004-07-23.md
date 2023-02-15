@@ -47,7 +47,7 @@ This week's desktop wallpaper is Trevor Hairsine's **[Flamebreak](https://gather
 
 
 
-![](https://web.archive.org/web/20150922162906im_/http://archive.wizards.com/global/images/mtgcom_arcana_613_pic1_en.jpg)[1280x960 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_Flamebreak_1280x960.jpg)  
+![](https://media.wizards.com/legacy/global/images/mtgcom_arcana_613_pic1_en.jpg)[1280x960 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_Flamebreak_1280x960.jpg)  
 [1024x768 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_Flamebreak_1024x768.jpg)  
 [800x600 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_Flamebreak_800x600.jpg)
 

@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20220803134527/https://magic.wizards.com/en/articles/archive/feature/collecting-streets-of-new-capenna-2022-04-07)
+[Link to Wayback Machine](https://web.archive.org/web/20220408004218/https://magic.wizards.com/en/articles/archive/feature/collecting-streets-of-new-capenna-2022-04-07?utm_campaign=New-Capenna&utm_source=TWITTER&utm_medium=social&utm_content=6728771152)
 
 [_metadata_:author]:- "Max McCall"
 [_metadata_:description]:- "Here's all the collectible art deco style and beyond found in Streets of New Capenna."
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2022-04-07"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Collecting Streets of New Capenna"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-03 13:45:27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220803134527id_/https://magic.wizards.com/en/articles/archive/feature/collecting-streets-of-new-capenna-2022-04-07"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/collecting-streets-of-new-capenna-2022-04-07"
+[_metadata_:wayback_capture_timestamp]:- "2022-04-08 00:42:18"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220408004218id_/https://magic.wizards.com/en/articles/archive/feature/collecting-streets-of-new-capenna-2022-04-07?utm_campaign=New-Capenna&utm_source=TWITTER&utm_medium=social&utm_content=6728771152"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/collecting-streets-of-new-capenna-2022-04-07?utm_campaign=New-Capenna&utm_source=TWITTER&utm_medium=social&utm_content=6728771152"
 ---
 
 

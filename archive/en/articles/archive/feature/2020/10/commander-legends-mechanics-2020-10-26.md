@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20201101094227/https://magic.wizards.com/en/articles/archive/feature/commander-legends-mechanics-2020-10-26?utm_source=dlvr.it&utm_medium=twitter)
+[Link to Wayback Machine](https://web.archive.org/web/20201029141253/https://magic.wizards.com/en/articles/archive/feature/commander-legends-mechanics-2020-10-26)
 
 [_metadata_:author]:- "Matt Tabak"
 [_metadata_:description]:- "Check out the new mechanic from the upcoming Commander Legends."
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2020-10-26"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Commander Legends Mechanics"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-01 09:42:27"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201101094227id_/https://magic.wizards.com/en/articles/archive/feature/commander-legends-mechanics-2020-10-26?utm_source=dlvr.it&utm_medium=twitter"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/commander-legends-mechanics-2020-10-26?utm_source=dlvr.it&utm_medium=twitter"
+[_metadata_:wayback_capture_timestamp]:- "2020-10-29 14:12:53"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201029141253id_/https://magic.wizards.com/en/articles/archive/feature/commander-legends-mechanics-2020-10-26"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/commander-legends-mechanics-2020-10-26"
 ---
 
 

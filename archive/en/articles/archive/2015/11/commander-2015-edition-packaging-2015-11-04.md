@@ -1,0 +1,87 @@
+
+---
+[Link to Wayback Machine](https://web.archive.org/web/20151109074332/http://magic.wizards.com/en/articles/archive/commander-2015-edition-packaging-2015-11-04)
+
+[_metadata_:author]:- "Blake Rasmussen"
+[_metadata_:description]:- "Take a look at the packaging for the new Commander (2015 Edition) decks!"
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "822811"
+[_metadata_:publish_date]:- "2015-11-04"
+[_metadata_:source]:- "div-main-content"
+[_metadata_:title]:- "Commander (2015 Edition) Packaging"
+[_metadata_:wayback_capture_timestamp]:- "2015-11-09 07:43:32"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151109074332id_/http://magic.wizards.com/en/articles/archive/commander-2015-edition-packaging-2015-11-04"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/commander-2015-edition-packaging-2015-11-04"
+---
+
+
+Commander (2015 Edition) Packaging
+==================================
+
+
+
+ Posted in [ARTICLES](/en/articles)
+ on November 4, 2015 
+
+
+
+
+
+
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/authorpic_BlakeRasmussen.jpg)
+By Blake Rasmussen
+
+
+
+
+Blake is the content manager for DailyMTG.com, making him the one you should email if you have thoughts on the website, good or less good (or not good). He's a longtime coverage reporter and hasn't turned down a game of Magic in any format ever. 
+
+
+
+
+
+
+As of today, all of the face cards for the *Commander (2015 Edition)* decks have been shown off, with Meren of Clan Nel Toth filling in the final hole in today's [Uncharted Realms](http://magic.wizards.com/en/articles/archive/uncharted-realms/all-cairns-jund-2015-11-04). Given that, I think it's high time we show off the packaging!
+
+
+Let's start with Ms. Meren and work our way through the other four.
+
+
+**Plunder the Graves**
+
+
+![](https://media.wizards.com/2015/images/daily/gXIDc4SJMY_EN.png)
+
+
+**Call the Spirits**
+
+
+![](https://media.wizards.com/2015/images/daily/PZt1kwkhWE_EN.png)
+
+
+**Wade into Battle**
+
+
+![](https://media.wizards.com/2015/images/daily/SgeLh6dJLy_EN.png)
+
+
+**Seize Control**
+
+
+![](https://media.wizards.com/2015/images/daily/ocsRuEOemF_EN.png)
+
+
+**Swell the Host**
+
+
+![](https://media.wizards.com/2015/images/daily/0qBxhtRF47_EN.png)
+
+
+You can get all five of these decks in stores all over starting next week, as *Commander (2015 Edition)* releases November 13!
+
+
+
+
+
+
+

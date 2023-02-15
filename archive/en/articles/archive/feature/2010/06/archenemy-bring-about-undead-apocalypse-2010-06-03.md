@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210416155440/https://magic.wizards.com/en/articles/archive/feature/archenemy-bring-about-undead-apocalypse-2010-06-03)
+[Link to Wayback Machine](https://web.archive.org/web/20170614170952/http://magic.wizards.com/en/articles/archive/feature/archenemy-bring-about-undead-apocalypse-2010-06-03)
 
 [_metadata_:author]:- "Monty Ashley"
 [_metadata_:description]:- "You saw the Archenemy deck `Assemble the Doomsday Machine` last Turesday. So naturally you've been on pins and needles wondering when you'd get to see the next one. The answer is: right now!"
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2010-06-03"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Archenemy: Bring About the Undead Apocalypse"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-16 15:54:40"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210416155440id_/https://magic.wizards.com/en/articles/archive/feature/archenemy-bring-about-undead-apocalypse-2010-06-03"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/archenemy-bring-about-undead-apocalypse-2010-06-03"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-14 17:09:52"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170614170952id_/http://magic.wizards.com/en/articles/archive/feature/archenemy-bring-about-undead-apocalypse-2010-06-03"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/archenemy-bring-about-undead-apocalypse-2010-06-03"
 ---
 
 
@@ -28,7 +28,7 @@
 
 
 
-![](https://web.archive.org/web/20211024110319im_/https://magic.wizards.com/sites/all/themes/wiz_mtg/images/global/generic-avatar-150.png)
+![](https://web.archive.org/web/20170709072651im_/http://magic.wizards.com/sites/all/themes/wiz_mtg/images/global/generic-avatar-150.png)
 By Monty Ashley
 
 
@@ -83,7 +83,6 @@ You saw the *Archenemy* deck "[Assemble the Doomsday Machine](/en/articles/archi
 
 
 
-
 #### Bring About the Undead Apocalypse
 
 
@@ -94,9 +93,7 @@ You saw the *Archenemy* deck "[Assemble the Doomsday Machine](/en/articles/archi
 
 
 
-![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
 ![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
-
 
 
 
@@ -624,7 +621,7 @@ OverviewColorCostRarity
 
 
 
-##### Common (32)
+##### Common (36)
 
 
 
@@ -648,16 +645,20 @@ OverviewColorCostRarity
 [Infectious Horror](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInfectious%5D+%5BHorror%5D)
 
 
-1
-[Shriekmaw](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShriekmaw%5D)
-
-
 2
 [Twisted Abomination](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTwisted%5D+%5BAbomination%5D)
 
 
-1
-[Avatar of Woe](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAvatar%5D+%5Bof%5D+%5BWoe%5D)
+2
+[Rakdos Signet](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRakdos%5D+%5BSignet%5D)
+
+
+2
+[Sign in Blood](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSign%5D+%5Bin%5D+%5BBlood%5D)
+
+
+2
+[Terminate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTerminate%5D)
 
 
 13
@@ -669,11 +670,11 @@ OverviewColorCostRarity
 
 
 2
-[Rakdos Carnarium](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRakdos%5D+%5BCarnarium%5D)
+[Barren Moor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBarren%5D+%5BMoor%5D)
 
 
 
-##### Uncommon (18)
+##### Uncommon (16)
 
 
 
@@ -690,19 +691,19 @@ OverviewColorCostRarity
 
 
 1
+[Shriekmaw](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShriekmaw%5D)
+
+
+1
 [Artisan of Kozilek](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArtisan%5D+%5Bof%5D+%5BKozilek%5D)
 
 
-2
-[Rakdos Signet](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRakdos%5D+%5BSignet%5D)
+1
+[Reanimate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReanimate%5D)
 
 
 1
 [Zombie Infestation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZombie%5D+%5BInfestation%5D)
-
-
-2
-[Terminate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTerminate%5D)
 
 
 1
@@ -734,11 +735,11 @@ OverviewColorCostRarity
 
 
 2
-[Barren Moor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBarren%5D+%5BMoor%5D)
+[Rakdos Carnarium](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRakdos%5D+%5BCarnarium%5D)
 
 
 
-##### Rare (10)
+##### Rare (7)
 
 
 
@@ -767,15 +768,16 @@ OverviewColorCostRarity
 
 
 1
-[Reanimate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReanimate%5D)
+[Beacon of Unrest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBeacon%5D+%5Bof%5D+%5BUnrest%5D)
 
 
-2
-[Sign in Blood](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSign%5D+%5Bin%5D+%5BBlood%5D)
+
+##### Mythic (1)
+
 
 
 1
-[Beacon of Unrest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBeacon%5D+%5Bof%5D+%5BUnrest%5D)
+[Avatar of Woe](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAvatar%5D+%5Bof%5D+%5BWoe%5D)
 
 
 60 Cards 

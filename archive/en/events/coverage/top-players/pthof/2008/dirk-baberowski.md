@@ -1,0 +1,2423 @@
+
+---
+[Link to Wayback Machine](https://web.archive.org/web/20160430155933/http://magic.wizards.com/en/events/coverage/top-players/pthof/2008/dirk-baberowski)
+
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "216626"
+[_metadata_:source]:- "div-block-system-main"
+[_metadata_:title]:- "DIRK BABEROWSKI - HALL OF FAME - TOP PLAYERS"
+[_metadata_:wayback_capture_timestamp]:- "2016-04-30 15:59:33"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160430155933id_/http://magic.wizards.com/en/events/coverage/top-players/pthof/2008/dirk-baberowski"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/events/coverage/top-players/pthof/2008/dirk-baberowski"
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### DIRK BABEROWSKI
+
+
+
+
+Class of: 2008  
+
+Hometown: Salzgitter, Germany  
+
+Debut: Pro Tour-Chicago 1998-99  
+
+Lifetime Pro Points: 217  
+  
+
+Won his Pro Tour debut (Chicago '98-99) ... Teamed with Kai Budde and Marco Blume to form the most dominant team in Magic history, Phoenix Foundation ... Won two team Pro Tour titles and a Masters team title ... Rookie of the Year in 1998-99 ... One of only three players to win three or more Pro Tours.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DIRK BABEROWSKIPROFILE
+----------------------
+
+
+One question that always comes up with a new Hall of Fame class is who would go in as the lead vote-getter. The past three classes have been led by Jon Finkel, Bob Maher, Jr., and Kai Budde. For the fourth class of the Hall the leading vote getter was Dirk Baberowski of Germany.
+
+
+
+Baberowski has five Pro Tour Top 8s on his resume and three wins tying him with Finkel for the second most wins behind his Hall of Fame teammate and countryman Budde. Baberowski, as a member of Phoenix Foundation, reached the semifinals of one Masters Series and won it all in the Osaka Master Series. He also played in three different Grand Prix Top 8s, but it was a finish outside of a Top 8 at a Grand Prix that helped launch his illustrious career more than a decade ago with a win at Pro Tour–Chicago 1998.
+
+
+
+“It was a really strange event in retrospect,” said Baberowski, who had received a pass-down invite at a Grand Prix to qualify, when asked about his first Pro Tour experience. “I was so confident at the time despite not even winning a PTQ. I was there with Kai and we thought if we didn't make Top 32 it would be a real disappointment—and of course one of us had to make the Top 8.”
+
+
+If you have ever talked to the extraordinarily self-deprecating Dirk Baberowski about Magic, you would understand how out of character that confidence sounds. Still, he did follow in the footsteps of the previous season’s Chicago winner Randy Buehler to be the last man standing when he defeated Casey McCarrel in the finals of his Pro Tour debut.
+
+
+That finish cemented him as a fixture on the Pro Tour and he would return to the Top 8 with a sixth-place finish when the Pro Tour returned to the Windy City the following season. That was his last individual Top 8 finish but from there he would join forces with Kai Budde and Marco Blume to form the most dominating team in the history of Magic, Phoenix Foundation. Phoenix Foundation went on to win back-to-back Team Rochester Pro Tours and make the Top 4 of another, along with three Top 8 Masters finishes including one win.
+
+
+It is an impressive career that is rivaled only by Jon Finkel and Kai Budde in terms of lifetime Pro Tour wins and yet Dirk was initially not confident that he would be among those making the trip to Memphis this year.
+
+
+“I was personally not convinced I would make it but everyone told me I was a lock so toward the end I pretty much did think I would,” he said when asked about his expectation for this year’s ballot.
+
+
+As to how he felt when he finally heard for sure he said he was relieved but added that he was, “A little sad that Marco (Blume) and (William Jensen) did not get in. I think I wanted Huey to get in more than I wanted to get in.”
+
+
+He will be attending the ceremony and plans on playing in the World Championship in Memphis.
+
+
+“I am really excited to see Graceland. I am even going to test. I have a crew to play cards with,” said the former Chicago champion. “I even updated Magic Online last week. I am not going to do well. I just hope not to embarrass myself.”
+
+
+But will the automatic invite to all Pro Tours be used regularly by Baberowski?
+
+
+“It sort of depends on my job,” said Baberowski. “Right now it is pretty inconvenient on weekends. I might play one. I would play more if the weekends weren't so rough. I would like to go to Hawaii. I will probably go to Rome.”
+
+
+Will he be able to add to his total of five Sunday appearances when he does resume playing?
+
+
+“I mean I have a chance,” said Baberowski. “I am definitely a big dog—big longshot. You really need to have your head in the game. At Pro Tour–San Diego years ago I finished 10th and I was reading cards—it was my Prerelease but I had played a load of Magic at that point and really had my head in the game.”
+
+
+“It makes sense that such an honor exists but I did not expect me to be one of those people,” he answered when asked if he could have foreseen a Hall of Fame induction when his career began a decade ago. “I guess I would have expected Mark Justice or Mark Chalice to be that player. Not me.”
+
+
+As for him being the top vote-getter in his class, he was torn. “That seems wrong,” he said. “I feel a little confused by that. I never considered myself to be in the Kai, Jon, or Bob category and I still don't. I thought I had a nice shot of getting into the Hall of Fame but there are only a handful of players who I think are in that class.”
+
+
+When looking back at his career, Dirk was able to isolate one moment as his best memory—one that everyone who has ever played Magic aspires to.
+
+
+“I feel like I played one near perfect match of Magic,” he recalled. “It was the Team Masters finals in Japan—against [Itaru] Ishida I think. I got a really great read on him. I played a really great match of Magic. I have played maybe five really good matches of Magic but that was the best one. It was all downhill from there.”
+
+
+
+
+|  |
+| --- |
+| **THE POWER OF DIRK**
+**Pro Tour**:
+ Boston 03: 3rd (Teams)
+ Boston 02: 1st (Teams)
+ New York 01: 1st (Teams)
+ Chicago 00: 6th (Extended)
+ Chicago 98: 1st (Rochester Draft)
+Rookie of the Year in 1998-99
+
+**Grand Prix**:
+ Copenhagen 02-03: 5th (Rochester Draft)
+ Antwerp 01-02: 8th (Booster Draft)
+ Amsterdam 98-99: 2nd (Nov 96 Type II)
+
+**Masters**:
+ Venice 03: Top 8 (Teams)
+ Osaka 02: Winner (Teams)
+ New York 00: Top 8 (Extended) |
+
+
+
+
+
+
+
+DIRK BABEROWSKIDECKLISTS
+------------------------
+
+
+
+Select a Deck
+
+Dirk Baberowski - Oath of DruidsDirk Baberowski - Pro Tour Chicago 1998-99Dirk Baberowski - European Championship 1999Dirk Baberowski - Big Red
+
+
+
+
+#### Dirk Baberowski - Oath of Druids
+
+
+##### 
+
+
+
+
+
+
+![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Creature (3)
+
+
+
+1
+[Morphling](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMorphling%5D)
+
+
+1
+[Spike Feeder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpike%5D+%5BFeeder%5D)
+
+
+1
+[Spike Weaver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpike%5D+%5BWeaver%5D)
+
+
+
+##### Sorcery (3)
+
+
+
+3
+[Gaea's Blessing](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGaea%5D+%5BBlessing%5D)
+
+
+
+##### Instant (20)
+
+
+
+4
+[Brainstorm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrainstorm%5D)
+
+
+4
+[Counterspell](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCounterspell%5D)
+
+
+1
+[Dissipate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDissipate%5D)
+
+
+2
+[Forbid](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForbid%5D)
+
+
+4
+[Force of Will](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BWill%5D)
+
+
+4
+[Impulse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BImpulse%5D)
+
+
+1
+[Mana Leak](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BLeak%5D)
+
+
+
+##### Artifact (4)
+
+
+
+4
+[Powder Keg](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPowder%5D+%5BKeg%5D)
+
+
+
+##### Enchantment (4)
+
+
+
+4
+[Oath of Druids](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOath%5D+%5Bof%5D+%5BDruids%5D)
+
+
+
+##### Land (26)
+
+
+
+3
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+8
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+4
+[Thawing Glaciers](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThawing%5D+%5BGlaciers%5D)
+
+
+3
+[Treetop Village](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTreetop%5D+%5BVillage%5D)
+
+
+4
+[Tropical Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTropical%5D+%5BIsland%5D)
+
+
+4
+[Wasteland](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWasteland%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+1
+[Spike Feeder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpike%5D+%5BFeeder%5D)
+
+
+3
+[Annul](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnnul%5D)
+
+
+1
+[Compost](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCompost%5D)
+
+
+2
+[Disrupt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisrupt%5D)
+
+
+1
+[Emerald Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEmerald%5D+%5BCharm%5D)
+
+
+2
+[Hydroblast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHydroblast%5D)
+
+
+2
+[Phyrexian Furnace](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPhyrexian%5D+%5BFurnace%5D)
+
+
+3
+[Propaganda](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPropaganda%5D)
+
+
+
+
+##### Blue (31)
+
+
+
+1
+[Morphling](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMorphling%5D)
+
+
+4
+[Brainstorm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrainstorm%5D)
+
+
+4
+[Counterspell](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCounterspell%5D)
+
+
+1
+[Dissipate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDissipate%5D)
+
+
+2
+[Forbid](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForbid%5D)
+
+
+4
+[Force of Will](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BWill%5D)
+
+
+4
+[Impulse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BImpulse%5D)
+
+
+1
+[Mana Leak](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BLeak%5D)
+
+
+3
+[Annul](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnnul%5D)
+
+
+2
+[Disrupt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisrupt%5D)
+
+
+2
+[Hydroblast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHydroblast%5D)
+
+
+3
+[Propaganda](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPropaganda%5D)
+
+
+
+##### Green (12)
+
+
+
+2
+[Spike Feeder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpike%5D+%5BFeeder%5D)
+
+
+1
+[Spike Weaver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpike%5D+%5BWeaver%5D)
+
+
+3
+[Gaea's Blessing](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGaea%5D+%5BBlessing%5D)
+
+
+4
+[Oath of Druids](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOath%5D+%5Bof%5D+%5BDruids%5D)
+
+
+1
+[Compost](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCompost%5D)
+
+
+1
+[Emerald Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEmerald%5D+%5BCharm%5D)
+
+
+
+##### Colorless (32)
+
+
+
+3
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+8
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+4
+[Thawing Glaciers](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThawing%5D+%5BGlaciers%5D)
+
+
+3
+[Treetop Village](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTreetop%5D+%5BVillage%5D)
+
+
+4
+[Tropical Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTropical%5D+%5BIsland%5D)
+
+
+4
+[Wasteland](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWasteland%5D)
+
+
+4
+[Powder Keg](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPowder%5D+%5BKeg%5D)
+
+
+2
+[Phyrexian Furnace](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPhyrexian%5D+%5BFurnace%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (14)
+
+
+
+4
+[Brainstorm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrainstorm%5D)
+
+
+3
+[Annul](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnnul%5D)
+
+
+2
+[Disrupt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisrupt%5D)
+
+
+1
+[Emerald Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEmerald%5D+%5BCharm%5D)
+
+
+2
+[Hydroblast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHydroblast%5D)
+
+
+2
+[Phyrexian Furnace](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPhyrexian%5D+%5BFurnace%5D)
+
+
+
+##### 2 (21)
+
+
+
+4
+[Counterspell](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCounterspell%5D)
+
+
+3
+[Gaea's Blessing](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGaea%5D+%5BBlessing%5D)
+
+
+4
+[Impulse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BImpulse%5D)
+
+
+1
+[Mana Leak](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BLeak%5D)
+
+
+4
+[Oath of Druids](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOath%5D+%5Bof%5D+%5BDruids%5D)
+
+
+4
+[Powder Keg](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPowder%5D+%5BKeg%5D)
+
+
+1
+[Compost](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCompost%5D)
+
+
+
+##### 3 (8)
+
+
+
+2
+[Spike Feeder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpike%5D+%5BFeeder%5D)
+
+
+1
+[Dissipate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDissipate%5D)
+
+
+2
+[Forbid](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForbid%5D)
+
+
+3
+[Propaganda](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPropaganda%5D)
+
+
+
+##### 4 (1)
+
+
+
+1
+[Spike Weaver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpike%5D+%5BWeaver%5D)
+
+
+
+##### 5 (5)
+
+
+
+1
+[Morphling](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMorphling%5D)
+
+
+4
+[Force of Will](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BWill%5D)
+
+
+49 Cards 
+
+
+
+##### Common (29)
+
+
+
+3
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+8
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+4
+[Brainstorm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrainstorm%5D)
+
+
+4
+[Counterspell](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCounterspell%5D)
+
+
+3
+[Gaea's Blessing](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGaea%5D+%5BBlessing%5D)
+
+
+1
+[Mana Leak](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BLeak%5D)
+
+
+3
+[Annul](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnnul%5D)
+
+
+1
+[Emerald Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEmerald%5D+%5BCharm%5D)
+
+
+2
+[Hydroblast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHydroblast%5D)
+
+
+
+##### Uncommon (20)
+
+
+
+3
+[Treetop Village](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTreetop%5D+%5BVillage%5D)
+
+
+4
+[Wasteland](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWasteland%5D)
+
+
+2
+[Spike Feeder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpike%5D+%5BFeeder%5D)
+
+
+1
+[Dissipate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDissipate%5D)
+
+
+2
+[Forbid](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForbid%5D)
+
+
+1
+[Compost](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCompost%5D)
+
+
+2
+[Disrupt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisrupt%5D)
+
+
+2
+[Phyrexian Furnace](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPhyrexian%5D+%5BFurnace%5D)
+
+
+3
+[Propaganda](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPropaganda%5D)
+
+
+
+##### Rare (22)
+
+
+
+4
+[Thawing Glaciers](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThawing%5D+%5BGlaciers%5D)
+
+
+4
+[Tropical Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTropical%5D+%5BIsland%5D)
+
+
+1
+[Morphling](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMorphling%5D)
+
+
+1
+[Spike Weaver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpike%5D+%5BWeaver%5D)
+
+
+4
+[Force of Will](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BWill%5D)
+
+
+4
+[Oath of Druids](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOath%5D+%5Bof%5D+%5BDruids%5D)
+
+
+4
+[Powder Keg](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPowder%5D+%5BKeg%5D)
+
+
+
+##### Mythic (4)
+
+
+
+4
+[Impulse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BImpulse%5D)
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Forest)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Dirk Baberowski - Pro Tour Chicago 1998-99
+
+
+##### 
+
+
+
+
+
+
+![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Creature (20)
+
+
+
+1
+[Bayou Dragonfly](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBayou%5D+%5BDragonfly%5D)
+
+
+1
+[Master Decoy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMaster%5D+%5BDecoy%5D)
+
+
+1
+[Pygmy Troll](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPygmy%5D+%5BTroll%5D)
+
+
+1
+[Rabid Wolverines](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRabid%5D+%5BWolverines%5D)
+
+
+1
+[Rootwalla](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRootwalla%5D)
+
+
+1
+[Rootwater Alligator](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRootwater%5D+%5BAlligator%5D)
+
+
+1
+[Shaman en-Kor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShaman%5D+%5Ben-Kor%5D)
+
+
+1
+[Skyshroud Archer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkyshroud%5D+%5BArcher%5D)
+
+
+1
+[Skyshroud Elf](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkyshroud%5D+%5BElf%5D)
+
+
+1
+[Skyshroud Troll](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkyshroud%5D+%5BTroll%5D)
+
+
+1
+[Skyshroud Troopers](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkyshroud%5D+%5BTroopers%5D)
+
+
+1
+[Soltari Lancer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoltari%5D+%5BLancer%5D)
+
+
+2
+[Soul Warden](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoul%5D+%5BWarden%5D)
+
+
+2
+[Spike Worker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpike%5D+%5BWorker%5D)
+
+
+1
+[Spined Wurm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpined%5D+%5BWurm%5D)
+
+
+1
+[Standing Troops](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStanding%5D+%5BTroops%5D)
+
+
+1
+[Wall of Blossoms](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWall%5D+%5Bof%5D+%5BBlossoms%5D)
+
+
+1
+[Wood Elves](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWood%5D+%5BElves%5D)
+
+
+
+##### Enchantment (3)
+
+
+
+2
+[Conviction](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BConviction%5D)
+
+
+1
+[Safeguard](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSafeguard%5D)
+
+
+
+##### Land (17)
+
+
+
+9
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+8
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+40 Cards 
+
+
+
+##### White (9)
+
+
+
+1
+[Master Decoy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMaster%5D+%5BDecoy%5D)
+
+
+1
+[Shaman en-Kor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShaman%5D+%5Ben-Kor%5D)
+
+
+1
+[Soltari Lancer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoltari%5D+%5BLancer%5D)
+
+
+2
+[Soul Warden](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoul%5D+%5BWarden%5D)
+
+
+1
+[Standing Troops](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStanding%5D+%5BTroops%5D)
+
+
+2
+[Conviction](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BConviction%5D)
+
+
+1
+[Safeguard](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSafeguard%5D)
+
+
+
+##### Green (14)
+
+
+
+1
+[Bayou Dragonfly](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBayou%5D+%5BDragonfly%5D)
+
+
+1
+[Pygmy Troll](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPygmy%5D+%5BTroll%5D)
+
+
+1
+[Rabid Wolverines](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRabid%5D+%5BWolverines%5D)
+
+
+1
+[Rootwalla](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRootwalla%5D)
+
+
+1
+[Rootwater Alligator](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRootwater%5D+%5BAlligator%5D)
+
+
+1
+[Skyshroud Archer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkyshroud%5D+%5BArcher%5D)
+
+
+1
+[Skyshroud Elf](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkyshroud%5D+%5BElf%5D)
+
+
+1
+[Skyshroud Troll](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkyshroud%5D+%5BTroll%5D)
+
+
+1
+[Skyshroud Troopers](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkyshroud%5D+%5BTroopers%5D)
+
+
+2
+[Spike Worker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpike%5D+%5BWorker%5D)
+
+
+1
+[Spined Wurm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpined%5D+%5BWurm%5D)
+
+
+1
+[Wall of Blossoms](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWall%5D+%5Bof%5D+%5BBlossoms%5D)
+
+
+1
+[Wood Elves](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWood%5D+%5BElves%5D)
+
+
+
+##### Colorless (17)
+
+
+
+9
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+8
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+40 Cards 
+
+
+
+##### 1 (3)
+
+
+
+1
+[Skyshroud Archer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkyshroud%5D+%5BArcher%5D)
+
+
+2
+[Soul Warden](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoul%5D+%5BWarden%5D)
+
+
+
+##### 2 (8)
+
+
+
+1
+[Bayou Dragonfly](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBayou%5D+%5BDragonfly%5D)
+
+
+1
+[Master Decoy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMaster%5D+%5BDecoy%5D)
+
+
+1
+[Pygmy Troll](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPygmy%5D+%5BTroll%5D)
+
+
+1
+[Shaman en-Kor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShaman%5D+%5Ben-Kor%5D)
+
+
+1
+[Skyshroud Elf](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkyshroud%5D+%5BElf%5D)
+
+
+1
+[Wall of Blossoms](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWall%5D+%5Bof%5D+%5BBlossoms%5D)
+
+
+2
+[Conviction](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BConviction%5D)
+
+
+
+##### 3 (6)
+
+
+
+1
+[Rootwalla](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRootwalla%5D)
+
+
+1
+[Soltari Lancer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoltari%5D+%5BLancer%5D)
+
+
+2
+[Spike Worker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpike%5D+%5BWorker%5D)
+
+
+1
+[Standing Troops](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStanding%5D+%5BTroops%5D)
+
+
+1
+[Wood Elves](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWood%5D+%5BElves%5D)
+
+
+
+##### 4 (3)
+
+
+
+1
+[Rootwater Alligator](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRootwater%5D+%5BAlligator%5D)
+
+
+1
+[Skyshroud Troll](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkyshroud%5D+%5BTroll%5D)
+
+
+1
+[Skyshroud Troopers](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkyshroud%5D+%5BTroopers%5D)
+
+
+
+##### 5 (3)
+
+
+
+1
+[Rabid Wolverines](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRabid%5D+%5BWolverines%5D)
+
+
+1
+[Spined Wurm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpined%5D+%5BWurm%5D)
+
+
+1
+[Safeguard](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSafeguard%5D)
+
+
+23 Cards 
+
+
+
+##### Common (37)
+
+
+
+9
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+8
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+1
+[Bayou Dragonfly](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBayou%5D+%5BDragonfly%5D)
+
+
+1
+[Master Decoy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMaster%5D+%5BDecoy%5D)
+
+
+1
+[Pygmy Troll](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPygmy%5D+%5BTroll%5D)
+
+
+1
+[Rabid Wolverines](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRabid%5D+%5BWolverines%5D)
+
+
+1
+[Rootwalla](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRootwalla%5D)
+
+
+1
+[Rootwater Alligator](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRootwater%5D+%5BAlligator%5D)
+
+
+1
+[Skyshroud Archer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkyshroud%5D+%5BArcher%5D)
+
+
+1
+[Skyshroud Elf](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkyshroud%5D+%5BElf%5D)
+
+
+1
+[Skyshroud Troll](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkyshroud%5D+%5BTroll%5D)
+
+
+1
+[Skyshroud Troopers](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkyshroud%5D+%5BTroopers%5D)
+
+
+1
+[Soltari Lancer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoltari%5D+%5BLancer%5D)
+
+
+2
+[Soul Warden](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoul%5D+%5BWarden%5D)
+
+
+2
+[Spike Worker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpike%5D+%5BWorker%5D)
+
+
+1
+[Spined Wurm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpined%5D+%5BWurm%5D)
+
+
+1
+[Standing Troops](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStanding%5D+%5BTroops%5D)
+
+
+1
+[Wood Elves](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWood%5D+%5BElves%5D)
+
+
+2
+[Conviction](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BConviction%5D)
+
+
+
+##### Rare (2)
+
+
+
+1
+[Shaman en-Kor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShaman%5D+%5Ben-Kor%5D)
+
+
+1
+[Safeguard](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSafeguard%5D)
+
+
+
+##### Mythic (1)
+
+
+
+1
+[Wall of Blossoms](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWall%5D+%5Bof%5D+%5BBlossoms%5D)
+
+
+40 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Forest)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Dirk Baberowski - European Championship 1999
+
+
+##### 
+
+
+
+
+
+
+![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Creature (5)
+
+
+
+4
+[Gamekeeper](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGamekeeper%5D)
+
+
+1
+[Iridescent Drake](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIridescent%5D+%5BDrake%5D)
+
+
+
+##### Sorcery (4)
+
+
+
+4
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+
+##### Instant (12)
+
+
+
+4
+[Intuition](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIntuition%5D)
+
+
+1
+[Mana Leak](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BLeak%5D)
+
+
+1
+[Memory Lapse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMemory%5D+%5BLapse%5D)
+
+
+1
+[Power Sink](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPower%5D+%5BSink%5D)
+
+
+1
+[Rescind](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRescind%5D)
+
+
+4
+[Vampiric Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVampiric%5D+%5BTutor%5D)
+
+
+
+##### Artifact (11)
+
+
+
+4
+[Altar Of Dementia](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAltar%5D+%5BOf%5D+%5BDementia%5D)
+
+
+4
+[Mox Diamond](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BDiamond%5D)
+
+
+3
+[Scroll Rack](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScroll%5D+%5BRack%5D)
+
+
+
+##### Enchantment (4)
+
+
+
+4
+[Abduction](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbduction%5D)
+
+
+
+##### Land (24)
+
+
+
+4
+[Ancient Tomb](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BTomb%5D)
+
+
+4
+[City of Brass](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCity%5D+%5Bof%5D+%5BBrass%5D)
+
+
+4
+[City of Traitors](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCity%5D+%5Bof%5D+%5BTraitors%5D)
+
+
+3
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+2
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+3
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+4
+[Underground River](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BRiver%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+1
+[Arcane Laboratory](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArcane%5D+%5BLaboratory%5D)
+
+
+1
+[Boil](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBoil%5D)
+
+
+2
+[Defense Grid](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDefense%5D+%5BGrid%5D)
+
+
+2
+[Disenchant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisenchant%5D)
+
+
+2
+[Dread of Night](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDread%5D+%5Bof%5D+%5BNight%5D)
+
+
+1
+[Light of Day](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLight%5D+%5Bof%5D+%5BDay%5D)
+
+
+2
+[Lobotomy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLobotomy%5D)
+
+
+1
+[Perish](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPerish%5D)
+
+
+2
+[Rapid Decay](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRapid%5D+%5BDecay%5D)
+
+
+1
+[Verdant Force](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVerdant%5D+%5BForce%5D)
+
+
+
+
+##### White (3)
+
+
+
+2
+[Disenchant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisenchant%5D)
+
+
+1
+[Light of Day](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLight%5D+%5Bof%5D+%5BDay%5D)
+
+
+
+##### Blue (14)
+
+
+
+1
+[Iridescent Drake](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIridescent%5D+%5BDrake%5D)
+
+
+4
+[Abduction](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbduction%5D)
+
+
+4
+[Intuition](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIntuition%5D)
+
+
+1
+[Mana Leak](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BLeak%5D)
+
+
+1
+[Memory Lapse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMemory%5D+%5BLapse%5D)
+
+
+1
+[Power Sink](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPower%5D+%5BSink%5D)
+
+
+1
+[Rescind](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRescind%5D)
+
+
+1
+[Arcane Laboratory](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArcane%5D+%5BLaboratory%5D)
+
+
+
+##### Black (13)
+
+
+
+4
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+4
+[Vampiric Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVampiric%5D+%5BTutor%5D)
+
+
+2
+[Dread of Night](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDread%5D+%5Bof%5D+%5BNight%5D)
+
+
+1
+[Perish](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPerish%5D)
+
+
+2
+[Rapid Decay](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRapid%5D+%5BDecay%5D)
+
+
+
+##### Red (1)
+
+
+
+1
+[Boil](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBoil%5D)
+
+
+
+##### Green (5)
+
+
+
+4
+[Gamekeeper](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGamekeeper%5D)
+
+
+1
+[Verdant Force](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVerdant%5D+%5BForce%5D)
+
+
+
+##### Multi colored (2)
+
+
+
+2
+[Lobotomy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLobotomy%5D)
+
+
+
+##### Colorless (37)
+
+
+
+4
+[Ancient Tomb](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BTomb%5D)
+
+
+4
+[City of Brass](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCity%5D+%5Bof%5D+%5BBrass%5D)
+
+
+4
+[City of Traitors](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCity%5D+%5Bof%5D+%5BTraitors%5D)
+
+
+3
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+2
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+3
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+4
+[Underground River](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BRiver%5D)
+
+
+4
+[Altar Of Dementia](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAltar%5D+%5BOf%5D+%5BDementia%5D)
+
+
+4
+[Mox Diamond](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BDiamond%5D)
+
+
+3
+[Scroll Rack](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScroll%5D+%5BRack%5D)
+
+
+2
+[Defense Grid](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDefense%5D+%5BGrid%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (11)
+
+
+
+4
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+1
+[Power Sink](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPower%5D+%5BSink%5D)
+
+
+4
+[Vampiric Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVampiric%5D+%5BTutor%5D)
+
+
+2
+[Dread of Night](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDread%5D+%5Bof%5D+%5BNight%5D)
+
+
+
+##### 2 (15)
+
+
+
+4
+[Altar Of Dementia](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAltar%5D+%5BOf%5D+%5BDementia%5D)
+
+
+1
+[Mana Leak](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BLeak%5D)
+
+
+1
+[Memory Lapse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMemory%5D+%5BLapse%5D)
+
+
+3
+[Scroll Rack](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScroll%5D+%5BRack%5D)
+
+
+2
+[Defense Grid](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDefense%5D+%5BGrid%5D)
+
+
+2
+[Disenchant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisenchant%5D)
+
+
+2
+[Rapid Decay](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRapid%5D+%5BDecay%5D)
+
+
+
+##### 3 (7)
+
+
+
+4
+[Intuition](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIntuition%5D)
+
+
+1
+[Rescind](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRescind%5D)
+
+
+1
+[Arcane Laboratory](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArcane%5D+%5BLaboratory%5D)
+
+
+1
+[Perish](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPerish%5D)
+
+
+
+##### 4 (13)
+
+
+
+4
+[Gamekeeper](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGamekeeper%5D)
+
+
+1
+[Iridescent Drake](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIridescent%5D+%5BDrake%5D)
+
+
+4
+[Abduction](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbduction%5D)
+
+
+1
+[Boil](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBoil%5D)
+
+
+1
+[Light of Day](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLight%5D+%5Bof%5D+%5BDay%5D)
+
+
+2
+[Lobotomy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLobotomy%5D)
+
+
+
+##### 8 (1)
+
+
+
+1
+[Verdant Force](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVerdant%5D+%5BForce%5D)
+
+
+47 Cards 
+
+
+
+##### Common (18)
+
+
+
+3
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+2
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+
+
+3
+[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+
+
+4
+[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+
+
+1
+[Mana Leak](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BLeak%5D)
+
+
+1
+[Memory Lapse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMemory%5D+%5BLapse%5D)
+
+
+1
+[Power Sink](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPower%5D+%5BSink%5D)
+
+
+1
+[Rescind](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRescind%5D)
+
+
+2
+[Disenchant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisenchant%5D)
+
+
+
+##### Uncommon (17)
+
+
+
+4
+[Gamekeeper](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGamekeeper%5D)
+
+
+1
+[Iridescent Drake](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIridescent%5D+%5BDrake%5D)
+
+
+4
+[Abduction](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbduction%5D)
+
+
+1
+[Arcane Laboratory](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArcane%5D+%5BLaboratory%5D)
+
+
+1
+[Boil](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBoil%5D)
+
+
+2
+[Dread of Night](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDread%5D+%5Bof%5D+%5BNight%5D)
+
+
+1
+[Light of Day](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLight%5D+%5Bof%5D+%5BDay%5D)
+
+
+2
+[Lobotomy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLobotomy%5D)
+
+
+1
+[Perish](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPerish%5D)
+
+
+
+##### Rare (32)
+
+
+
+4
+[City of Brass](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCity%5D+%5Bof%5D+%5BBrass%5D)
+
+
+4
+[City of Traitors](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCity%5D+%5Bof%5D+%5BTraitors%5D)
+
+
+4
+[Underground River](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BRiver%5D)
+
+
+4
+[Altar Of Dementia](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAltar%5D+%5BOf%5D+%5BDementia%5D)
+
+
+4
+[Intuition](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIntuition%5D)
+
+
+3
+[Scroll Rack](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScroll%5D+%5BRack%5D)
+
+
+4
+[Vampiric Tutor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVampiric%5D+%5BTutor%5D)
+
+
+2
+[Defense Grid](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDefense%5D+%5BGrid%5D)
+
+
+2
+[Rapid Decay](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRapid%5D+%5BDecay%5D)
+
+
+1
+[Verdant Force](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVerdant%5D+%5BForce%5D)
+
+
+
+##### Mythic (8)
+
+
+
+4
+[Ancient Tomb](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BTomb%5D)
+
+
+4
+[Mox Diamond](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BDiamond%5D)
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Ancient+Tomb)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Dirk Baberowski - Big Red
+
+
+##### 
+
+
+
+
+
+
+![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Creature (12)
+
+
+
+4
+[Arc-Slogger](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArc-Slogger%5D)
+
+
+4
+[Furnace Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFurnace%5D+%5BDragon%5D)
+
+
+4
+[Solemn Simulacrum](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSolemn%5D+%5BSimulacrum%5D)
+
+
+
+##### Sorcery (6)
+
+
+
+4
+[Fireball](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFireball%5D)
+
+
+2
+[Flamebreak](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlamebreak%5D)
+
+
+
+##### Instant (6)
+
+
+
+3
+[Electrostatic Bolt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElectrostatic%5D+%5BBolt%5D)
+
+
+3
+[Shatter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShatter%5D)
+
+
+
+##### Artifact (17)
+
+
+
+4
+[Great Furnace](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGreat%5D+%5BFurnace%5D)
+
+
+4
+[Chromatic Sphere](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChromatic%5D+%5BSphere%5D)
+
+
+3
+[Pyrite Spellbomb](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyrite%5D+%5BSpellbomb%5D)
+
+
+3
+[Talisman of Impulse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTalisman%5D+%5Bof%5D+%5BImpulse%5D)
+
+
+3
+[Talisman of Indulgence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTalisman%5D+%5Bof%5D+%5BIndulgence%5D)
+
+
+
+##### Land (19)
+
+
+
+4
+[Blinkmoth Nexus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlinkmoth%5D+%5BNexus%5D)
+
+
+4
+[Cloudpost](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCloudpost%5D)
+
+
+11
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+2
+[Flamebreak](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlamebreak%5D)
+
+
+1
+[Shatter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShatter%5D)
+
+
+4
+[Detonate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDetonate%5D)
+
+
+4
+[Duplicant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuplicant%5D)
+
+
+2
+[Mindslaver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMindslaver%5D)
+
+
+2
+[Thought Prison](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThought%5D+%5BPrison%5D)
+
+
+
+
+##### Red (27)
+
+
+
+4
+[Arc-Slogger](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArc-Slogger%5D)
+
+
+4
+[Furnace Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFurnace%5D+%5BDragon%5D)
+
+
+3
+[Electrostatic Bolt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElectrostatic%5D+%5BBolt%5D)
+
+
+4
+[Fireball](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFireball%5D)
+
+
+4
+[Flamebreak](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlamebreak%5D)
+
+
+4
+[Shatter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShatter%5D)
+
+
+4
+[Detonate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDetonate%5D)
+
+
+
+##### Colorless (48)
+
+
+
+4
+[Blinkmoth Nexus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlinkmoth%5D+%5BNexus%5D)
+
+
+4
+[Cloudpost](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCloudpost%5D)
+
+
+4
+[Great Furnace](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGreat%5D+%5BFurnace%5D)
+
+
+11
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+4
+[Solemn Simulacrum](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSolemn%5D+%5BSimulacrum%5D)
+
+
+4
+[Chromatic Sphere](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChromatic%5D+%5BSphere%5D)
+
+
+3
+[Pyrite Spellbomb](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyrite%5D+%5BSpellbomb%5D)
+
+
+3
+[Talisman of Impulse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTalisman%5D+%5Bof%5D+%5BImpulse%5D)
+
+
+3
+[Talisman of Indulgence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTalisman%5D+%5Bof%5D+%5BIndulgence%5D)
+
+
+4
+[Duplicant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuplicant%5D)
+
+
+2
+[Mindslaver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMindslaver%5D)
+
+
+2
+[Thought Prison](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThought%5D+%5BPrison%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (18)
+
+
+
+4
+[Chromatic Sphere](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChromatic%5D+%5BSphere%5D)
+
+
+3
+[Electrostatic Bolt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElectrostatic%5D+%5BBolt%5D)
+
+
+4
+[Fireball](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFireball%5D)
+
+
+3
+[Pyrite Spellbomb](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyrite%5D+%5BSpellbomb%5D)
+
+
+4
+[Detonate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDetonate%5D)
+
+
+
+##### 2 (10)
+
+
+
+4
+[Shatter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShatter%5D)
+
+
+3
+[Talisman of Impulse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTalisman%5D+%5Bof%5D+%5BImpulse%5D)
+
+
+3
+[Talisman of Indulgence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTalisman%5D+%5Bof%5D+%5BIndulgence%5D)
+
+
+
+##### 3 (4)
+
+
+
+4
+[Flamebreak](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlamebreak%5D)
+
+
+
+##### 4 (4)
+
+
+
+4
+[Solemn Simulacrum](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSolemn%5D+%5BSimulacrum%5D)
+
+
+
+##### 5 (6)
+
+
+
+4
+[Arc-Slogger](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArc-Slogger%5D)
+
+
+2
+[Thought Prison](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThought%5D+%5BPrison%5D)
+
+
+
+##### 6 (6)
+
+
+
+4
+[Duplicant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuplicant%5D)
+
+
+2
+[Mindslaver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMindslaver%5D)
+
+
+
+##### 9 (4)
+
+
+
+4
+[Furnace Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFurnace%5D+%5BDragon%5D)
+
+
+52 Cards 
+
+
+
+##### Common (33)
+
+
+
+4
+[Cloudpost](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCloudpost%5D)
+
+
+4
+[Great Furnace](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGreat%5D+%5BFurnace%5D)
+
+
+11
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+
+
+4
+[Chromatic Sphere](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChromatic%5D+%5BSphere%5D)
+
+
+3
+[Electrostatic Bolt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElectrostatic%5D+%5BBolt%5D)
+
+
+3
+[Pyrite Spellbomb](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyrite%5D+%5BSpellbomb%5D)
+
+
+4
+[Shatter](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShatter%5D)
+
+
+
+##### Uncommon (16)
+
+
+
+4
+[Fireball](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFireball%5D)
+
+
+3
+[Talisman of Impulse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTalisman%5D+%5Bof%5D+%5BImpulse%5D)
+
+
+3
+[Talisman of Indulgence](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTalisman%5D+%5Bof%5D+%5BIndulgence%5D)
+
+
+4
+[Detonate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDetonate%5D)
+
+
+2
+[Thought Prison](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThought%5D+%5BPrison%5D)
+
+
+
+##### Rare (24)
+
+
+
+4
+[Blinkmoth Nexus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlinkmoth%5D+%5BNexus%5D)
+
+
+4
+[Arc-Slogger](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArc-Slogger%5D)
+
+
+4
+[Furnace Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFurnace%5D+%5BDragon%5D)
+
+
+4
+[Solemn Simulacrum](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSolemn%5D+%5BSimulacrum%5D)
+
+
+4
+[Flamebreak](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlamebreak%5D)
+
+
+4
+[Duplicant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuplicant%5D)
+
+
+
+##### Mythic (2)
+
+
+
+2
+[Mindslaver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMindslaver%5D)
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Blinkmoth+Nexus)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DIRK BABEROWSKIVIDEO PLAYLIST
+-----------------------------
+
+
+
+
+
+
+![2008 Pro Tour Hall of Fame: Dirk Baberowski](https://web.archive.org/web/20220216050541im_/https://magic.wizards.com/sites/all/themes/wiz_mtg/img/interface/video-place-holder.png)
+#### 2008 Pro Tour Hall of Fame: Dirk Baberowski
+
+
+
+
+
+
+
+[![2008 Pro Tour Hall of Fame: Dirk Baberowski](http://magic.wizards.com/)2008 Pro Tour Hall of Fame: Dirk Baberowski](#)
+
+
+
+
+
+
+
+DIRK BABEROWSKIGALLERY
+----------------------
+
+
+
+
+
+
+[![](https://media.magic.wizards.com/images/featured/baberowski_1_0.jpg)](http://magic.wizards.com/sites/mtg/files/images/featured/baberowski_1_0.jpg)
+
+
+[![](https://media.magic.wizards.com/images/featured/baberowski_2.jpg)](http://magic.wizards.com/sites/mtg/files/images/featured/baberowski_2.jpg)
+
+
+[![](https://media.magic.wizards.com/images/featured/baberowski_3.jpg)](http://magic.wizards.com/sites/mtg/files/images/featured/baberowski_3.jpg)
+
+
+[![](https://media.magic.wizards.com/images/featured/baberowski_4.jpg)](http://magic.wizards.com/sites/mtg/files/images/featured/baberowski_4.jpg)
+
+
+[![](https://media.magic.wizards.com/images/featured/baberowski_5.jpg)](http://magic.wizards.com/sites/mtg/files/images/featured/baberowski_5.jpg)
+
+
+
+[![](http://magic.wizards.com/)](#)
+[![](http://magic.wizards.com/)](#)
+[![](http://magic.wizards.com/)](#)
+[![](http://magic.wizards.com/)](#)
+[![](http://magic.wizards.com/)](#)
+
+
+
+
+
+
+
+
+DIRK BABEROWSKICAREER STATISTICS
+--------------------------------
+
+
+### BY FORMAT
+
+
+
+
+|  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| **Format** | **W** | **L** | **D** | **BYE** | **Matches** | **Win %** |
+|  |
+| Limited | 196 | 112 | 20 | 43 | 371 | 59.76% |
+| Constructed | 146 | 110 | 12 | 19 | 287 | 54.48% |
+|  |
+| Total | 342 | 222 | 32 | 62 | 658 | 57.36% |
+|  |
+
+
+### BY EVENT TYPE
+
+
+
+
+|  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| **Event** | **W** | **L** | **D** | **BYE** | **Matches** | **Win %** |
+|  |
+| Worlds | 37 | 31 | 1 | 0 | 69 | 53.62% |
+| Pro Tour | 114 | 76 | 10 | 1 | 201 | 57.00% |
+| Nationals | 31 | 15 | 1 | 0 | 47 | 65.96% |
+| Continental Championship | 26 | 16 | 3 | 0 | 45 | 57.78% |
+| Masters | 3 | 4 | 0 | 0 | 7 | 42.86% |
+| Grand Prix | 131 | 79 | 17 | 61 | 288 | 57.71% |
+|  |
+| Total | 342 | 222 | 32 | 62 | 658 | 57.36% |
+|  |
+
+
+
+
+
+
+
+DIRK BABEROWSKICAREER HIGHLIGHTS
+--------------------------------
+
+
+* Stormed onto the pro scene by winning his debut at Pro Tour–Chicago 1998 which featured the challenging Rochester Draft format.
+* He went on to win the Rookie of the Year title that season.
+* Reached the Top 8 Pro Tour–Chicago the following year playing Oath of Druids. He would rack up five Pro Tour Top 8s in his career.
+* Reached the finals of the 1999 European Championships playing an [Altar of Dementia](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Altar+of+Dementia) deck with [Iridescent Drake](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Iridescent+Drake) and [Abduction](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Abduction).
+* Would win three Pro Tours in his career and is one of only three players to win more than two Pro Tours.
+* Joined forces with Kai Budde and Marco Blume to form Phoenix Foundation, the single most dominating team in Magic history.
+* Phoenix Foundation won two Pro Tours and one Masters Series.
+* Dirk won his team’s pivotal match against Itaru Ishida in the finals of the Osaka Masters Series, which he has called the best game of Magic he ever played.
+* His 217 lifetime Pro Points are second most of any German player in history.
+* Played a pivotal role in the development of the European Magic community by arranging travel to foreign PTs through his travel agency.
+
+
+
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| **RECORD VS. HALL OF FAME** | **W** | **L** | **D** |
+| Jon Finkel | 2 | 1 | 0 |
+| Darwin Kastle | 0 | 1 | 0 |
+| Tommi Hovi | 2 | 2 | 0 |
+| Alan Comer | 1 | 0 | 0 |
+| Olle Råde | 1 | 1 | 0 |
+| Bob Maher | 0 | 2 | 0 |
+| Dave Humpherys | 0 | 1 | 0 |
+| Raphaël Lévy | 2 | 3 | 0 |
+| Gary Wise | 2 | 3 | 0 |
+| Rob Dougherty | 2 | 0 | 0 |
+| Kai Budde | 2 | 4 | 0 |
+| Zvi Mowshowitz | 0 | 1 | 0 |
+| Tsuyoshi Fujita | 0 | 0 | 0 |
+| Nicolai Herzog | 0 | 5 | 0 |
+| Randy Buehler | 0 | 0 | 0 |
+| Mike Turian | 0 | 0 | 0 |
+| Jelger Wiegersma | 0 | 1 | 0 |
+| Olivier Ruel | 2 | 0 | 0 |
+| Ben Rubin | 1 | 0 | 0 |
+|  |
+| **Career Total** | **17** | **25** | **0** |
+
+
+
+
+
+
+
+
+
+

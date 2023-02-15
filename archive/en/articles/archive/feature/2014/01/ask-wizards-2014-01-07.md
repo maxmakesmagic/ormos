@@ -1,17 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20160626062330/http://magic.wizards.com/en/articles/archive/feature/ask-wizards-2014-01-07)
+[Link to Wayback Machine](https://web.archive.org/web/20210514164925/https://magic.wizards.com/en/articles/archive/feature/ask-wizards-2014-01-07)
 
 [_metadata_:author]:- "Wizards of the Coast"
-[_metadata_:description]:- "&#13; Ask Wizards is a weekly feature that allows you to ask us questions! If you'd like to submit your question please email it to AskWizards@wizards.com. We aren't able to answer every question we receive but if your question is good then it might show up in the coming weeks!"
+[_metadata_:description]:- "Ask Wizards is a weekly feature that allows you to ask us questions! If you'd like to submit your question please email it to AskWizards@wizards.com. We aren't able to answer every question we receive but if your question is good then it might show up in the coming weeks! Q: : I was checking out the art on the Moxes for Magic Online and noticed they are all placed in different"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "598586"
 [_metadata_:publish_date]:- "2014-01-07"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Ask Wizards"
-[_metadata_:wayback_capture_timestamp]:- "2016-06-26 06:23:30"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160626062330id_/http://magic.wizards.com/en/articles/archive/feature/ask-wizards-2014-01-07"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/ask-wizards-2014-01-07"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-14 16:49:25"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210514164925id_/https://magic.wizards.com/en/articles/archive/feature/ask-wizards-2014-01-07"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ask-wizards-2014-01-07"
 ---
 
 
@@ -28,7 +28,7 @@ Ask Wizards
 
 
 
-![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
 By Wizards of the Coast
 
 

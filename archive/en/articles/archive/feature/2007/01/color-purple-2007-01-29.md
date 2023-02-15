@@ -6,6 +6,7 @@
 [_metadata_:description]:- "&#13; &#13; &#13;"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "292451"
+[_metadata_:path_date]:- "2007-01-29"
 [_metadata_:publish_date]:- "2007-01-30"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Color Purple"

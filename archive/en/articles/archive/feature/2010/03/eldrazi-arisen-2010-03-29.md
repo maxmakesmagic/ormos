@@ -59,7 +59,7 @@ Long ago, the Eldrazi, world-predating entities native to the Blind Eternities, 
 Three planeswalkers took action to try to destroy the Eldrazi. Ugin, the spirit dragon, fought the Eldrazi with his breath of invisible flame, using his knowledge of colorless magic to match the Eldrazi's colorless nature. The vampire planeswalker [Sorin Markov](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sorin+Markov) brought his familiarity with magic that leeched life energies. Once those two confronted the Eldrazi, a third planeswalker, a stone-shaping lithomancer, planned to force them into physical form and then destroy them utterly, ridding the Multiverse of the monstrosities.
 
 
-![](https://web.archive.org/web/20150928222925im_/http://archive.wizards.com/mtg/images/daily/features/feature_f5.jpg)
+![](https://media.wizards.com/legacy/mtg/images/daily/features/feature_f5.jpg)
 But their plan failed. The Eldrazi were too immense, too aberrant, and too powerful to destroy directly, and the planeswalkers were forced to consider a desperate course of action. Although they couldn't kill the Eldrazi, they could imprison the astral abominations on a single world and throw away the key, cutting them off from the Blind Eternities and preserving the rest of the Multiverse. The world they chose would be in danger of utter destruction by the ravening, thoughtless Eldrazi, but the planeswalkers decided that the sacrifice would be worth the salvation of all other planes.
 
 
@@ -78,7 +78,7 @@ The three planeswalkers went to work to trap the Eldrazi monstrosities Emrakul, 
 The planeswalkers concentrated the power of their imprisonment spell in a secret location deep inside Zendikar's mountains of Akoum: a subterranean chamber called the [Eye of Ugin](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Eye+of+Ugin). To make sure that the imprisonment would not be broken, the three planeswalkers sealed the chamber with a kind of mystical lock: the [Eye of Ugin](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Eye+of+Ugin) could only be reactivated by the presence of three planeswalker sparks—*and* the colorless, invisible breath of Ugin, the spirit dragon himself.
 
 
-![](https://web.archive.org/web/20150928230328im_/http://archive.wizards.com/mtg/images/daily/features/feature_f1.jpg)
+![](https://media.wizards.com/legacy/mtg/images/daily/features/feature_f1.jpg)
 The planeswalkers' trap worked. Emrakul, Ulamog, and Kozilek manifested in physical form on Zendikar, became confined by the magic of the network of hedrons, and thanks to the magic of the imprisonment spell, sank into harmless dormancy. Their mission complete, the planeswalkers disbanded and left the plane.
 
 
@@ -91,11 +91,11 @@ But even in dormancy, the Eldrazi's hunger grew, and the prison's hold proved te
 The Eldrazi legions devastated Zendikar. The greater Eldrazi emanated a radius of destruction wherever they went, annihilating all life and mana in their path, absorbing the lifeforce of the lush natural world of Zendikar. The lesser Eldrazi tore through Zendikar's civilizations, reducing them to ruins with terrible speed.
 
 
-![](https://web.archive.org/web/20150929044352im_/http://archive.wizards.com/mtg/images/daily/features/feature_f6.jpg)
+![](https://media.wizards.com/legacy/mtg/images/daily/features/feature_f6.jpg)
 Sensing an affinity for the blood-draining vampires of the plane, the Eldrazi took the plane's proud vampires as a race of servants, adapting their very anatomy for servitude. Hooklike horns grew from the vampires' shoulders, convenient handles for the Eldrazi to dominate their slave race and, for millennia afterward, carnal symbols of the vampires' heritage of persecution. The vampires, forced to conspire in the campaign of destruction against their own homeworld, had their identity and tribal memory scarred forever.
 
 
-![](https://web.archive.org/web/20150928224642im_/http://archive.wizards.com/mtg/images/daily/features/feature_f7.jpg)
+![](https://media.wizards.com/legacy/mtg/images/daily/features/feature_f7.jpg)
 The Eldrazi, their brood lineages, and their vampire slaves ravaged Zendikar, nearly reducing it to a lifeless wasteland. But the magic of the [Eye of Ugin](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Eye+of+Ugin) held, restraining the Eldrazi colossi from reverting to their ætheric forms and leaving the plane. The three planeswalkers returned briefly to reinforce their spell, returning the Eldrazi colossi to torpor once again. They disbanded again once they were sure there was no danger the three Eldrazi would escape the planar prison. But the brood lineages—the swarms of lesser Eldrazi—remained, and fed.
 
 
@@ -105,7 +105,7 @@ The Eldrazi, their brood lineages, and their vampire slaves ravaged Zendikar, ne
 Left to its own devices, the plane reacted. As thousands of sentient beings perished, the land of Zendikar itself fought back, stirring to life like a gigantic immune system to fend off the Eldrazi menace. Foreshadowing the much more dramatic Worldwake that would come thousands of years later, the land developed measures to protect itself from the Eldrazi: natural traps, ferocious creatures, land elementals, and the dynamic force of the Roil.
 
 
-![](https://web.archive.org/web/20150929044355im_/http://archive.wizards.com/mtg/images/daily/features/feature_f9.jpg)
+![](https://media.wizards.com/legacy/mtg/images/daily/features/feature_f9.jpg)
 Thwarted by Zendikar's instinctive backlash, the Eldrazi brood lineages died off, leaving the three Eldrazi leaders to their slumber. Life on Zendikar slowly recovered, and the destruction wrought by the Eldrazi passed into the fog of memory.
 
 
@@ -127,7 +127,7 @@ During all that time, the Eldrazi grew in power, waiting for the day that they w
 Then a certain elder dragon planeswalker took an interest in Zendikar. For reasons of his own, the ancient dragon [Nicol Bolas](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nicol+Bolas) looked in on the plane, observed the [Eye of Ugin](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Eye+of+Ugin), noted the abeyance of the Eldrazi, and disappeared again.
 
 
-![](https://web.archive.org/web/20090601223208id_/https://www.wizards.com/mtg/images/daily/stf/stf29_nicolBolasPlaneswalker.jpg)
+![](https://media.wizards.com/legacy/mtg/images/daily/stf/stf29_nicolbolasplaneswalker.jpg)
 Some time later, [Nicol Bolas](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nicol+Bolas) sent one of his minions on a special mission to Zendikar, to attend to the [Eye of Ugin](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Eye+of+Ugin). This brings us to a small but crucial puzzle piece in this story: the planeswalker [Sarkhan Vol](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sarkhan+Vol).
 
 
@@ -143,7 +143,7 @@ That decision will weigh on Sarkhan's destiny forever.
 For his own mysterious reasons, Bolas sent Sarkhan to Zendikar, a world Sarkhan had never visited, to find and guard the [Eye of Ugin](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Eye+of+Ugin), a strange chamber Sarkhan had never heard of. Sarkhan found the place and stayed there, and fended off a few odd explorers here and there—but spent most of his time alone, surrounded only by ancient hedrons and the apparitions of Zendikar's past. Sarkhan has fallen into a pit of his tormented thoughts, his mind [slowly detaching from reality](http://www.wizards.com/Magic/Multiverse/Article.aspx?x=mtgcom/feature2/57b).
 
 
-![](https://web.archive.org/web/20150928224658im_/http://archive.wizards.com/mtg/images/daily/features/feature_f3.JPG)
+![](https://media.wizards.com/legacy/mtg/images/daily/features/feature_f3.jpg)
 How many days or weeks has it been here in the [Eye of Ugin](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Eye+of+Ugin) chamber, he wonders? Is he hearing voices echoing from the hedron-encrusted walls, or is it just the reproving echoes in his mind? What is he to make of these visions—has he solved some deep mystery of this draconic catacomb, or is he prettifying his own descent into psychosis? What could his master's purpose in sending him possibly be, and what inscrutable force does the magic here hold at bay? How could he have agreed to come to this place, to guard an empty tomb from clueless wanderers? How could he ever have consented to *serve that* *dragon*, that flameless tyrant who peers straight through his skull?
 
 
@@ -151,7 +151,7 @@ These are the questions that plague the dragon-shaman as he spirals into madness
 
 
 
-![](https://web.archive.org/web/20150929043426im_/http://archive.wizards.com/mtg/images/daily/features/fems8wsmbz.jpg)
+![](https://media.wizards.com/legacy/mtg/images/daily/features/fems8wsmbz.jpg)
 3BR
 
 

@@ -47,7 +47,7 @@ This week you get two for the price of one! Today's desktop wallpapers are Justi
 
 
 
-![](https://web.archive.org/web/20161101230739im_/http://archive.wizards.com/global/images/mtgcom_arcana_661_pic1_en.jpg)[1280x960 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_InameLifeAspect_1280x960.jpg)  
+![](https://media.wizards.com/legacy/global/images/mtgcom_arcana_661_pic1_en.jpg)[1280x960 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_InameLifeAspect_1280x960.jpg)  
 [1024x768 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_InameLifeAspect_1024x768.jpg)  
 [800x600 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_InameLifeAspect_800x600.jpg)
 
@@ -58,7 +58,7 @@ This week you get two for the price of one! Today's desktop wallpapers are Justi
 
 
 
-![](https://web.archive.org/web/20161101230733im_/http://archive.wizards.com/global/images/mtgcom_arcana_661_pic2_en.jpg)[1280x960 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_InameDeathAspect_1280x960.jpg)  
+![](https://media.wizards.com/legacy/global/images/mtgcom_arcana_661_pic2_en.jpg)[1280x960 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_InameDeathAspect_1280x960.jpg)  
 [1024x768 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_InameDeathAspect_1024x768.jpg)  
 [800x600 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_InameDeathAspect_800x600.jpg)
 

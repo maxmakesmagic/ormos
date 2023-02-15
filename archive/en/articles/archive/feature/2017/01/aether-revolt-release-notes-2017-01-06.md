@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20170816042508/http://magic.wizards.com/en/articles/archive/feature/aether-revolt-release-notes-2017-01-06)
+[Link to Wayback Machine](https://web.archive.org/web/20220128033534/https://magic.wizards.com/en/articles/archive/feature/aether-revolt-release-notes-2017-01-06)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Release Notes include info about the release of a new set, as well as clarifications and rulings involving that set's cards."
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2017-01-06"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Aether Revolt Release Notes"
-[_metadata_:wayback_capture_timestamp]:- "2017-08-16 04:25:08"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170816042508id_/http://magic.wizards.com/en/articles/archive/feature/aether-revolt-release-notes-2017-01-06"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/aether-revolt-release-notes-2017-01-06"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-28 03:35:34"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220128033534id_/https://magic.wizards.com/en/articles/archive/feature/aether-revolt-release-notes-2017-01-06"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/aether-revolt-release-notes-2017-01-06"
 ---
 
 
@@ -28,7 +28,7 @@ Aether Revolt Release Notes
 
 
 
-![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
 By Wizards of the Coast
 
 

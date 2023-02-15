@@ -47,7 +47,7 @@ This week's desktop wallpaper features *Saviors of Kamigawa* art by Carl Critchl
 
 
 
-![](https://web.archive.org/web/20161101230537im_/http://archive.wizards.com/global/images/mtgcom_arcana_825_pic1_en.jpg)[1280x960 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_InfernalKirin_1280x960.jpg)  
+![](https://media.wizards.com/legacy/global/images/mtgcom_arcana_825_pic1_en.jpg)[1280x960 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_InfernalKirin_1280x960.jpg)  
 [1024x768 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_InfernalKirin_1024x768.jpg)  
 [800x600 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_InfernalKirin_800x600.jpg)
 

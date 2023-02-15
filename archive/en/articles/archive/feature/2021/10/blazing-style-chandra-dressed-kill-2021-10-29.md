@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20211029150349/https://magic.wizards.com/en/articles/archive/feature/blazing-style-chandra-dressed-kill-2021-10-29)
+[Link to Wayback Machine](https://web.archive.org/web/20211030102138/https://magic.wizards.com/en/articles/archive/feature/blazing-style-chandra-dressed-kill-2021-10-29?utm_source=dlvr.it&utm_medium=twitter)
 
 [_metadata_:author]:- "Clayton Kroh"
 [_metadata_:description]:- "She's not on the guest list, but Chandra knows how to crash a wedding in style."
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2021-10-29"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Blazing Style of Chandra, Dressed to Kill"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-29 15:03:49"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211029150349id_/https://magic.wizards.com/en/articles/archive/feature/blazing-style-chandra-dressed-kill-2021-10-29"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/blazing-style-chandra-dressed-kill-2021-10-29"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-30 10:21:38"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211030102138id_/https://magic.wizards.com/en/articles/archive/feature/blazing-style-chandra-dressed-kill-2021-10-29?utm_source=dlvr.it&utm_medium=twitter"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/blazing-style-chandra-dressed-kill-2021-10-29?utm_source=dlvr.it&utm_medium=twitter"
 ---
 
 

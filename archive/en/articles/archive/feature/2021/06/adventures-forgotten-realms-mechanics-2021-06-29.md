@@ -1,17 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210628222319/https://magic.wizards.com/en/articles/archive/feature/adventures-forgotten-realms-mechanics-2021-06-29)
+[Link to Wayback Machine](https://web.archive.org/web/20210630120218/https://magic.wizards.com/en/articles/archive/feature/adventures-forgotten-realms-mechanics-2021-06-29?utm_source=dlvr.it&utm_medium=twitter)
 
 [_metadata_:author]:- "Matt Tabak"
 [_metadata_:description]:- "Hail, adventurer! Before you set out for Adventures in the Forgotten Realms, take a moment to learn about how this world works."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "1547554"
-[_metadata_:publish_date]:- "2021-06-24"
+[_metadata_:publish_date]:- "2021-06-29"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Adventures in the Forgotten Realms Mechanics"
-[_metadata_:wayback_capture_timestamp]:- "2021-06-28 22:23:19"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210628222319id_/https://magic.wizards.com/en/articles/archive/feature/adventures-forgotten-realms-mechanics-2021-06-29"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/adventures-forgotten-realms-mechanics-2021-06-29"
+[_metadata_:wayback_capture_timestamp]:- "2021-06-30 12:02:18"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210630120218id_/https://magic.wizards.com/en/articles/archive/feature/adventures-forgotten-realms-mechanics-2021-06-29?utm_source=dlvr.it&utm_medium=twitter"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/adventures-forgotten-realms-mechanics-2021-06-29?utm_source=dlvr.it&utm_medium=twitter"
 ---
 
 
@@ -21,7 +21,7 @@ Adventures in the Forgotten Realms Mechanics
 
 
  Posted in **Feature**
- on June 24, 2021 
+ on June 29, 2021 
 
 
 
@@ -106,6 +106,22 @@ Ampersands
 
 
 No. Stop.
+
+
+Flavor Words
+============
+
+
+Each part of a *Magic* card can contribute to the story it tells. Names and creative text obviously pitch in, but rules text is often quite flavorful. But what if we did even more? Many abilities found in this set are preceded by flavor words—italicized terms that help tell the story of what's going on. In many cases, they identify a particular skill or feat a creature from the Forgotten Realms could have. A few modal cards in the set use flavor words to better illustrate your choices.
+
+
+![Circle of Dreams Druid](https://media.wizards.com/2021/afr/en_PXGSZcaUuS.png)![Variant Circle of Dreams Druid](https://media.wizards.com/2021/afr/en_Ms5NG9iZzI.png)
+
+
+![Plundering Barbarian](https://media.wizards.com/2021/afr/en_UvNYcpaIq0.png)![You See a Guard Approach](https://media.wizards.com/2021/afr/en_tpaZGkjgNl.png)
+
+
+Flavor words look just like ability words, which is cool because neither has any rules meaning. Speaking of ability words . . .
 
 
 More Adventures Await

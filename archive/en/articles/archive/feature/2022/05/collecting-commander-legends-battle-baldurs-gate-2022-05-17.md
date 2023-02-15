@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20220612205640/https://magic.wizards.com/en/articles/archive/feature/collecting-commander-legends-battle-baldurs-gate-2022-05-17)
+[Link to Wayback Machine](https://web.archive.org/web/20220518093329/https://magic.wizards.com//en/articles/archive/feature/collecting-commander-legends-battle-baldurs-gate-2022-05-17)
 
 [_metadata_:author]:- "Max McCall"
 [_metadata_:description]:- "A fan-favorite foil-etched look returns with Commander Legends: Battle for Baldur's Gate!"
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2022-05-17"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Collecting Commander Legends: Battle for Baldur's Gate"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-12 20:56:40"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220612205640id_/https://magic.wizards.com/en/articles/archive/feature/collecting-commander-legends-battle-baldurs-gate-2022-05-17"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/collecting-commander-legends-battle-baldurs-gate-2022-05-17"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-18 09:33:29"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518093329id_/https://magic.wizards.com//en/articles/archive/feature/collecting-commander-legends-battle-baldurs-gate-2022-05-17"
+[_metadata_:wayback_url]:- "https://magic.wizards.com//en/articles/archive/feature/collecting-commander-legends-battle-baldurs-gate-2022-05-17"
 ---
 
 
@@ -39,9 +39,6 @@ By Max McCall
 
 
 
-
-
-***Editor's Note**: We wanted to provide a clarification that the card Faceless One does not come in the foil-etched or traditional foil treatments.*
 
 
 [*Commander Legends: Battle for Baldur's Gate*](https://magic.wizards.com/en/products/commander-legends-battle-baldurs-gate) is the crossroads of the Forgotten Realms—a place where you can find all manner of exotic goods, including the fanciest *Magic* cards.

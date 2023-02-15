@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20201112004231/https://magic.wizards.com/en/articles/archive/feature/where-find-throne-eldraine-previews-2019-09-05?fbclid=IwAR3Az-FNzKYVBuJCEtF3I8VS9WcS)
+[Link to Wayback Machine](https://web.archive.org/web/20191226213219/https://magic.wizards.com/en/articles/archive/feature/where-find-throne-eldraine-previews-2019-09-05)
 
 [_metadata_:author]:- "Blake Rasmussen"
 [_metadata_:description]:- "What's been previewed, what's going to be previewed, and where you can find all of it for Throne of Eldraine, right here!"
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2019-09-05"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Where to Find Throne of Eldraine Previews"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 00:42:31"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112004231id_/https://magic.wizards.com/en/articles/archive/feature/where-find-throne-eldraine-previews-2019-09-05?fbclid=IwAR3Az-FNzKYVBuJCEtF3I8VS9WcS"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/where-find-throne-eldraine-previews-2019-09-05?fbclid=IwAR3Az-FNzKYVBuJCEtF3I8VS9WcS"
+[_metadata_:wayback_capture_timestamp]:- "2019-12-26 21:32:19"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20191226213219id_/https://magic.wizards.com/en/articles/archive/feature/where-find-throne-eldraine-previews-2019-09-05"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/where-find-throne-eldraine-previews-2019-09-05"
 ---
 
 

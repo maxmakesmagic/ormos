@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20200402151455/https://magic.wizards.com/en/articles/archive/feature/ikoria-lair-behemoths-mechanics-2020-04-02?sd)
+[Link to Wayback Machine](https://web.archive.org/web/20210207172827/https://magic.wizards.com/en/articles/archive/feature/ikoria-lair-behemoths-mechanics-2020-04-02?a)
 
 [_metadata_:author]:- "Matt Tabak"
 [_metadata_:description]:- "See what new strategies await in the world of Ikoria with this mechanics overview of the upcoming Ikoria: Lair of Behemoths."
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2020-04-02"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Ikoria: Lair of Behemoths Mechanics"
-[_metadata_:wayback_capture_timestamp]:- "2020-04-02 15:14:55"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200402151455id_/https://magic.wizards.com/en/articles/archive/feature/ikoria-lair-behemoths-mechanics-2020-04-02?sd"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ikoria-lair-behemoths-mechanics-2020-04-02?sd"
+[_metadata_:wayback_capture_timestamp]:- "2021-02-07 17:28:27"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210207172827id_/https://magic.wizards.com/en/articles/archive/feature/ikoria-lair-behemoths-mechanics-2020-04-02?a"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ikoria-lair-behemoths-mechanics-2020-04-02?a"
 ---
 
 
@@ -80,7 +80,7 @@ For your convenience, we've made punch-out counters to easily track which creatu
 ![Keyword counters](https://media.wizards.com/2020/images/daily/3me4gK9Z89.png)
 
 
-For this group of counters, having more than one of the same counter provides no additional benefit. Note that if these counters end up on a noncreature permanent, it won't necessarily apply right away, but it will if the permanent becomes a creature. (The exceptions here are deathtouch and lifelink, which work even if they end up on a noncreature permanent, provided that noncreature permanent can deal damage somehow.)
+For this group of counters, having more than one of the same counter provides no additional benefit. Note that if one of these counters ends up on a noncreature permanent, it won't necessarily apply right away, but it will if the permanent becomes a creature. Hexproof counters will be effective even if on a noncreature permanent, as will deathtouch and lifelink counters, provided that noncreature permanent can deal damage somehow.
 
 
 Mutate
@@ -126,7 +126,10 @@ One reason is those "Whenever this creature mutates" triggered abilities. When a
 ![Bristling Boar](https://media.wizards.com/2020/iko/en_orpz6LNul3.png)
 
 
-Some creatures, like Bristling Boar above, have abilities that refer to themselves by name. Remember that from a rules perspective, a card using its own name in an ability really just means "me." For example, if Cloudpiercer ends up on top of Bristling Boar, that ability will work on the resulting creature.
+Some creatures, like Bristling Boar above, have abilities that refer to themselves by name. Remember that from a rules perspective, a card using its own name in an ability really just means "me." For example, if Cloudpiercer ends up on top of Bristling Boar, that ability will work on the resulting creature.
+
+
+If all goes well, the mutated behemoth you've created will go on to pulverize your opponent and you'll win the game. But I suppose they might get lucky and find a way to get your creature off the battlefield. What then? If a mutated creature leaves the battlefield, all of its components go to the appropriate zone. So if it dies, each card ends up in the graveyard. Any ability that triggers "whenever a creature you control dies" or similar will trigger only once. Same with exile, your hand, or your library. If it's put into a specific position in your library, such as on the bottom or third from the top, you choose the relative order of the cards.
 
 
 We've covered what happens when a mutating creature spell resolves. But what if it doesn't? While it's on the stack, a mutating creature spell is still a spell, so it can be countered. If one is countered, it heads to the graveyard as you'd expect. But here's something you may not expect: if a mutating creature spell tries to resolve but can't because its target is illegal or has gone missing, the mutating creature spell will simply resolve and enter the battlefield. So, it's not quite an "all Dinosaur eggs in one basket" kind of risk. One note though: although the spell resolves and the creature enters the battlefield, any "Whenever this creature mutates" abilities it has won't trigger.
@@ -142,22 +145,19 @@ Companion
 =========
 
 
-<https://www.youtube.com/embed/pCzJjon6a1g>
-
-
 There are ten companions in *Ikoria*, each one a legendary creature whose companion ability lists a deck-building rule. If your starting deck follows that rule, then the legendary creature can serve as your chosen companion. For example, if our majestic friend Keruga is going to be your chosen companion, then your starting deck can't include any cards with converted mana cost 1 or 2.
 
 
 ![Keruga, the Macrosage](https://media.wizards.com/2020/iko/en_lYEdfAe8YT.png)
 
 
-You can have up to one chosen companion for each game. That chosen companion doesn't start in your main deck. Rather, it's a card in your sideboard. (If you're playing casually without sideboards, it's just in your collection outside the game. All the same rules apply to it.) This means it doesn't count as a card toward meeting the minimum deck size in the format you're playing, but in Constructed formats, it is one of your fifteen sideboard cards. Just before the game begins, reveal your chosen companion to all players. Once during the game, you may cast your chosen companion from your sideboard. Doing so follows all the normal rules for casting a creature spell, so do so only during your main phase.
+You can have up to one chosen companion for each game. That chosen companion doesn't start in your main deck. Rather, it's a card in your sideboard. (If you're playing casually without sideboards, it's just in your collection outside the game. All the same rules apply to it.) This means it doesn't count as a card toward meeting the minimum deck size in the format you're playing, but in Constructed formats, it is one of your fifteen sideboard cards. Just before the game begins, reveal your chosen companion to all players. Once during the game, but only during your main phase if the stack is empty, you can pay {3} to put your chosen companion into your hand. (Note this is a change from previous rules. The printed reminder text indicating you can cast the card is no longer accurate.)
 
 
-Casting your chosen companion brings it onto the game for good. The spell will go on the stack. If it resolves, it will enter the battlefield under your control (yay!). If it's countered, it will go to your graveyard (boo!). Once it's in the game, it can be exiled, go back to your hand, be shuffled into your library, etc. It won't return to your sideboard until the game ends.
+Once you bring your chosen companion into the game, it stays in the game for good. It's in your hand, so it can be cast, discarded, and so on. If you later cast it, it goes on the stack. If it resolves, it will enter the battlefield under your control (yay!). If it's countered, it will go to your graveyard (boo!). Once it's in the game, it can be exiled, shuffled into your library, etc. It won't return to your sideboard until the game ends.
 
 
-Your companion's deckbuilding rule applies only to your starting deck, which is the deck you begin play with each game. It won't consider any cards in your sideboard, so those cards don't have to follow the deck-building rule. Additionally, you can just ignore the deck-building rule and include creature cards with companion in your main deck. This is especially relevant to formats like Booster Draft, where following the deck-building rule may not be possible. But if you can pull it off, glory awaits.
+Your companion's deck-building rule applies only to your starting deck, which is the deck you begin play with each game. It won't consider any cards in your sideboard, so those cards don't have to follow the deck-building rule. Additionally, you can just ignore the deck-building rule and include creature cards with companion in your main deck. This is especially relevant to formats like Booster Draft, where following the deck-building rule may not be possible. But if you can pull it off, glory awaits.
 
 
 So, the companions are legendary creatures who begin outside your starting deck and have great influence over the rest of your deck. Where have I heard this before? Ah yes, Commander. Commander players, even though you don't have sideboards, you can still get in on the fun. Each Commander deck may include a chosen companion. It starts outside the game and doesn't count as one of your 100 cards. Just like the rest of your deck, your commander must follow the deck-building rule if you're going to use a companion.

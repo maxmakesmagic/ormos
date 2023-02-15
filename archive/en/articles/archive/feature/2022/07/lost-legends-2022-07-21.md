@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20220721221050/https://magic.wizards.com/en/articles/archive/feature/lost-legends-2022-07-21)
+[Link to Wayback Machine](https://web.archive.org/web/20220818223812/https://magic.wizards.com/en/articles/archive/feature/lost-legends-2022-07-21?utm_source=wizards&utm_medium=email&utm_campaign=ttm&utm_content=DMU-Lost-Legends-button)
 
 [_metadata_:author]:- "Blake Rasmussen"
 [_metadata_:description]:- "Collector Boosters of Dominaria United, arriving September 9, can feature both legends and Legends!"
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2022-07-21"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Lost Legends"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-21 22:10:50"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220721221050id_/https://magic.wizards.com/en/articles/archive/feature/lost-legends-2022-07-21"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/lost-legends-2022-07-21"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-18 22:38:12"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220818223812id_/https://magic.wizards.com/en/articles/archive/feature/lost-legends-2022-07-21?utm_source=wizards&utm_medium=email&utm_campaign=ttm&utm_content=DMU-Lost-Legends-button"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/lost-legends-2022-07-21?utm_source=wizards&utm_medium=email&utm_campaign=ttm&utm_content=DMU-Lost-Legends-button"
 ---
 
 
@@ -60,7 +60,7 @@ That's right. You could open a *Dominaria United* Collector Booster and find you
 There are, of course, some details. We included cards of every rarity, so it could be anything from a common to a rare (mythic rare didn't exist back then). We only had a finite number of cards from the set, so only about 3% of Collector Boosters will have a Lost *Legends* card. Any Lost *Legends* card will replace a common foil card in the Collector Booster, and they will all be English and, of course, non-foil.
 
 
-Additionally, not all cards from the original *Legends* set will be included. Due to some weird 1994 collation print runs, we simply didn't open certain cards despite opening case after case after case. These include.
+Additionally, not all cards from the original *Legends* set will be included. Due to some weird 1994 collation print runs, we simply didn't open certain cards despite opening case after case after case. These include:
 
 
 * [Adventurers' Guildhouse](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Adventurers%27+Guildhouse)

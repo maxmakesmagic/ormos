@@ -1,0 +1,102 @@
+
+---
+[Link to Wayback Machine](https://web.archive.org/web/20220930183222/https://magic.wizards.com/en/articles/archive/top-25-rankings-july-31-2014-2014-07-31-events)
+
+[_metadata_:author]:- "Wizards of the Coast"
+[_metadata_:description]:- "While one player made a move last weekend, most Top 25 players were focused on Portland."
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "255786"
+[_metadata_:publish_date]:- "2014-07-31"
+[_metadata_:source]:- "div-main-content"
+[_metadata_:title]:- "Top 25 Rankings, July 31, 2014"
+[_metadata_:wayback_capture_timestamp]:- "2022-09-30 18:32:22"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220930183222id_/https://magic.wizards.com/en/articles/archive/top-25-rankings-july-31-2014-2014-07-31-events"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/top-25-rankings-july-31-2014-2014-07-31-events"
+---
+
+
+Top 25 Rankings, July 31, 2014
+==============================
+
+
+
+ Posted in **Top 25**
+ on July 31, 2014 
+
+
+
+
+
+
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
+By Wizards of the Coast
+
+
+
+
+
+
+
+
+
+
+
+It's time for the big one here at the *Magic* Top 25 Pro Rankings. All the Grand Prix from this mammoth season of Pro *Magic* are over. No more broken Sealed decks, no more Top 8s with no byes, no more 6–0 Day Two runs to sneak into a Top 8 that starts ten minutes after Round 15. Everything done and dusted—except for one everything-on-the-line epic in Portland this weekend, as [Pro Tour *Magic 2015*](/content/fact-sheet-pro-tour-magic-2015) rounds out the season in spectacular fashion.
+
+
+
+At the top of the rankings, it could barely be tighter, with a miniscule 0.15% separating No. 1 Reid Duke from No. 2 Jérémy Dezani. These two seem certain to be locked in battle for the [Player of the Year race](http://magic.wizards.com/en/protour/standings/poy201314), having built up such a lead over the likes of Stanislav Cifka (No. 3), Josh Utter-Leyton (No. 4), and Owen Turtenwald (No. 5), that only a combination of stellar finish and staggering meltdown can combine to steal the title away from one of the big two.
+
+
+
+As we we get ready to embark on the next season of Pro *Magic* immediately following the conclusion of Pro Tour *Magic 2015*, this Top 25 is likely to see many changes as a result of the tumultuous events in Portland. As it stands on the eve of battle, sixteen North Americans, five Europeans, and four from the Asia-Pacific region have combined to represent all that is good about the pinnacle of our global game. While the Canadian Jacob Wilson made a move last weekend from No. 19 up to No. 15, the majority of the players in our Top 25 were already turning their attention to Portland and the big finish.
+
+
+
+So who will emerge as the No. 1 once the final card is turned sideways on Sunday at Pro Tour *Magic 2015*? Join us next week, when we take our final look of the season at the *Magic* Top 25 Pro Rankings.
+
+
+
+
+
+| Rank | Name | Points | Change | Previous |
+| --- | --- | --- | --- | --- |
+| 1 | Reid Duke | 72.38 |  | 1 |
+| 2 | Jeremy Dezani | 72.23 |  | 2 |
+| 3 | Stanislav Cifka | 55.42 |  | 3 |
+| 4 | Josh Utter-Leyton | 54.52 |  | 4 |
+| 5 | Owen Turtenwald | 54.19 |  | 5 |
+| 6 | Shaun McLaren | 52.14 |  +2 | 8 |
+| 7 | Tom Martell | 52.06 |   -1 | 6 |
+| 8 | Yuuya Watanabe | 51.97 |   -1 | 7 |
+| 9 | Patrick Chapin | 49.87 |  | 9 |
+| 10 | Samuel Black | 49.60 |  | 10 |
+| 11 | Paul Rietzl | 49.55 |  | 11 |
+| 12 | Lee Shi Tian | 48.01 |  | 12 |
+| 13 | Ben Stark | 46.79 |  | 13 |
+| 14 | Jared Boettcher | 46.32 |  | 14 |
+| 15 | Jacob Wilson | 45.51 |  +4 | 19 |
+| 15 | Alexander Hayne | 45.51 |  +1 | 16 |
+| 17 | Shahar Shenhar | 45.42 |   -2 | 15 |
+| 18 | Chris Fennell | 45.37 |   -1 | 17 |
+| 19 | Josh McClain | 44.50 |   -1 | 18 |
+| 20 | William Jensen | 43.23 |  +1 | 21 |
+| 21 | Eric Froehlich | 42.97 |   -1 | 20 |
+| 22 | Kentaro Yamamoto | 42.23 |  | 22 |
+| 23 | Sung Wook Nam | 42.00 |  | 23 |
+| 24 | Raphael Levy | 41.64 |  | 24 |
+| 25 | Pierre Dagen | 41.32 |  — | NR |
+
+  
+**Dropped from rankings:** Shuhei Nakamura
+
+
+
+[Complete Top 25 archive](/node/140916)
+
+
+
+
+
+
+

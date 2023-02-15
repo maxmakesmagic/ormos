@@ -1,0 +1,339 @@
+
+---
+[Link to Wayback Machine](https://web.archive.org/web/20210429032400/https://magic.wizards.com/en/articles/archive/card-preview/conquering-design-ixalan-2017-09-05)
+
+[_metadata_:author]:- "Ken Nagle"
+[_metadata_:description]:- "Designing Ixalan took a lot of exploration, and Ken Nagle's preview card shows how the team set about conquering a new world."
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1199866"
+[_metadata_:publish_date]:- "2017-09-05"
+[_metadata_:source]:- "div-main-content"
+[_metadata_:title]:- "Conquering the Design of Ixalan"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 03:24:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429032400id_/https://magic.wizards.com/en/articles/archive/card-preview/conquering-design-ixalan-2017-09-05"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/card-preview/conquering-design-ixalan-2017-09-05"
+---
+
+
+Conquering the Design of Ixalan
+===============================
+
+
+
+ Posted in **Card Preview**
+ on September 5, 2017 
+
+
+
+
+
+
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/authorpic_KenNagle.jpg)
+By Ken Nagle
+
+
+
+
+Ken Nagle was a finalist in the first Great Designer Search and joined Wizards of the Coast as a design intern. He has since gone on to work on twelve Magic expansions, including four of which he led, as well as leading the design of Archenemy and the first Commander decks.
+ 
+
+
+
+
+
+
+Greetings, Planeswalkers. I'm Ken Nagle, co-lead designer of *Ixalan*—my first large *Magic* expansion on a new plane. The sky is blue, and the slate is clean. How did we design *Ixalan* with nothing to start with? Today I'll show you how *Ixalan* began, its transformation to what you will see in your hands, and a metamorphoric preview card.
+
+
+Seeds of Discovery
+==================
+
+
+Every creative endeavor starts from a simple premise. *Ixalan* is no different, beginning from the smallest premise I'd heard so far for a *Magic* block. For comparison, the smallest before *Ixalan* was when I was in the first ever *Zendikar* playtest—playing against Mark Rosewater—in the "Land Block" or "Land-a-palooza," where lands matter. "Lands matter" means just that—the main mechanic is caring about the land card type.
+
+
+Zendikar the plane (and the subsequent rise of the Eldrazi) obviously grew to be much greater than just the card type land through additions like Traps, Quests, and Allies. (I put in a rolling boulder via [Stone Idol Trap](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stone+Idol+Trap)!)
+
+
+Wizards holds a biennial full-day "micropitch" seminar where anyone can deliver a 5-minute presentation to our executives. One collection of these micropitches included new worlds. You should recognize many of these already:
+
+
+* "Steampunk World" became *Kaladesh* and *Aether Revolt*;
+* "Egypt World" became *Amonkhet* and *Hour of Devastation*; and
+* "Emrakul's cosmic horror on Innistrad" became *Shadows over Innistrad* and *Eldritch Moon*.
+
+Here's the one you don't recognize: Jenna Helland, manager of *Magic*'s story team, proposed a "Vampire Conquistador World" as a new *Magic* setting. Think intrepid Spanish sailors searching for spices from the New World, but instead Vampires searching for fresh blood. They discover an indigenous tribe inspired by Mayans, Incans, and Aztecs. Peace? War? Who knows—culture clashes always create conflict, and conflict is necessary for a compelling story.
+
+
+Somehow, that must translate to a large and small expansion of *Magic* cards alongside enough content for a world guide, art book, and *Magic* Story episodes. I'll give a glimpse into how.
+
+
+Exploring the Future
+====================
+
+
+*Ixalan*'s mechanical start began with what we at the time called exploratory design (now called vision design).
+
+
+* Ken Nagle and Shawn Main (co-leads)
+* James Wyatt (creative representative)
+* Jackie Lee
+* Gavin Verhey
+* Yoni Skolnik
+* James Hatta
+
+Here is one of the first pieces of concept art for *Ixalan* drawn by Senior Concept Illustrator [Sam Burley](http://gatherer.wizards.com/Pages/Search/Default.aspx?action=advanced&output=spoiler&method=visual&artist=+%5B%22Sam%20Burley%22%5D):
+
+
+![](https://media.wizards.com/2017/images/daily/gEJGU9t4GY.jpg)
+
+
+You can see many *Ixalan* themes already talking hold—explorers, a sense of distance and scale, bright sun rays illuminating like a spotlight where you want to go, a lost city, and a visible path ahead. The explorers themselves are deliberately ambiguous because at this stage we still didn't know the inhabitants. Using images like this and the "Vampire conquistadors" narrative as a jumping-off point, we explored many different mechanic iterations that could end up in the set.
+
+
+The first mechanic considered was called "the edge." [Mark Rosewater explained the story of this mechanic](http://magic.wizards.com/en/articles/archive/making-magic/just-ixalan-part-1-2017-09-04), as I took over the team after it found a new home in *Conspiracy: Take the Crown* with [Queen Marchesa](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Queen+Marchesa) (long may she reign).
+
+
+Here's what we drew on the whiteboard during an early *Ixalan* meeting:
+
+
+1. Three factions: Vampires, Pirates, and Beastmasters
+	1. Vampires are primarily black, secondarily red and white
+	2. Pirates are blue and red
+	3. Beastmasters are green and white, maybe also blue
+2. Each faction wants something from the other:
+	1. Pirates want the Vampire's treasures
+	2. Beastmasters want the Pirate's ships and technology
+	3. Vampires want the Beastmaster's blood and land
+3. The megafauna of the plane includes Dinosaurs, Leviathans, and Krakens
+4. Reprint [Voyage's End](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Voyage%27s+End)!
+
+From there, each faction got their own deep dive. Here's the whiteboard from the Pirate meeting:
+
+
+![](https://media.wizards.com/2017/images/daily/Ez6T4Uymku.jpg)
+
+
+I'll let you zoom in, but it's pretty self-explanatory. We did similar focused expressions of the Vampires and the Mesoamerican-inspired culture.
+
+
+The Number One Rule in Real Estate
+==================================
+
+
+Separate from the factions, we also iterated on a "location" mechanic that gave a sense of place. We've dabbled in this before:
+
+
+* The Planechase format has a much louder "location" vibe with Plane cards, where only one is active at a time.
+* [Trading Post](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Trading+Post) is more like a location than an artifact in spirit.
+* I vaguely remember Aaron Forsythe trying a location mechanic that your Elves or Goblins might go to in *Lorwyn* (like a [Goblin Warrens](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=202479)). These possibly ended up as the hideaway lands a la [Mosswort Bridge](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mosswort+Bridge).
+
+"Locations" conceptually in *Magic* traditionally end up on land cards due to the implied card type as well as their permanence on the battlefield. However, we don't let opponents interact with your land cards very much, so there's challenge there. Locations should be in all colors and (hopefully) all rarities. We were looking for something that could be as big as a new card type here.
+
+
+Here's an overview of a hypothetical location mechanic during early *Ixalan* design:
+
+
+![](https://media.wizards.com/2017/images/daily/pyKEOceEQ6.jpg)
+
+
+A promising "traveling" mechanic we tried was called "conquer." Here's an example:
+
+
+Buried on the Isle  
+
+1U  
+
+Enchantment – Location  
+
+When CARDNAME enters the battlefield or is conquered, draw a card.  
+
+Conquer 3 (Tap 3 power of creatures: Conquer this card then sacrifice it.)
+
+
+While this didn't make it into the set, it made it into *Magic*—becoming the crew keyword for Vehicles.
+
+
+[![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Consulate+Dreadnought)](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Consulate+Dreadnought)
+At the time, the [Future Future League](http://magic.wizards.com/en/articles/archive/play-design/designing-hour-devastation-cards-meet-ffl-goals-2017-07-07) (where we playtest upcoming *Magic* expansions) included *Kaladesh* and the new Vehicle subtype. Here crew N meant crewed by N *total* creatures. This meant that the crew 1 Vehicles required one pilot (of any size) while crew 2 Vehicles were horrible (you always had to tap two creatures). This isn't much of a development knob—crew 0 can't exist for flavor (except when I made [Peacewalker Colossus](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Peacewalker+Colossus)!), crew 1 is a real cost but doable, and crew 2 is only possible in wide token decks.
+
+
+Therefore, the FFL stole *Ixalan*'s conquer mechanic. This is after *Conspiracy: Take the Crown* stole *Ixalan*'s "edge" mechanic as "you become the monarch." (Again, you can read more about this in [Mark Rosewater's article](http://magic.wizards.com/en/articles/archive/making-magic/just-ixalan-part-1-2017-09-04).)
+
+
+We were not dissuaded. We carried on with yet more iterations of locations.
+
+
+Sunken Treasure Spot  
+
+U  
+
+Enchantment – Location  
+*(Your creatures may enter the battlefield at a location. Creatures you control have "T: Travel to a location you control. Travel only as a sorcery." Creatures leave locations when they attack, block, or travel.)*  
+
+Sacrifice CARDNAME: Draw two cards. Activate this ability only if two or more creatures are at CARDNAME.
+
+
+The above is an example of "multi-creature Aura" of sorts. Normally you attach an enchantment to a single creature, but here you can attach multiple creatures to the enchantment. This location needs two creatures to get a one-time bonus. We also tried bonuses for staying at a location:
+
+
+Paradise of the Avian  
+
+G  
+
+Enchantment – Location  
+*(Your creatures may enter the battlefield at a location. Creatures you control have "T: Travel to a location you control. Travel only as a sorcery." Creatures leave locations when they attack, block, or travel.)*  
+
+Creatures at this location have "T: Add one mana of any color to your mana pool."
+
+
+However, not much action was happening if creatures just sat around in locations and never attacked or blocked anymore. To encourage that, we tried bonuses for leaving the location when you attack:
+
+
+Growth Post  
+
+3GG  
+
+Enchantment – Location  
+*(Your creatures may enter the battlefield at a location. Creatures you control have "T: Travel to a location you control. Travel only as a sorcery." Creatures leave locations when they attack, block, or travel.)*  
+
+Whenever an attacking creature leaves CARDNAME, it gets +2/+2 and trample until end of turn.
+
+
+This played okay, but we didn't get all the way to either inventing a new card type or justifying a bizarre keyword action. They were somewhere in the vicinity of creature Auras, meaning they are difficult to make powerful. They only want to give local bonuses, so their design space is shallow. We would have to split the difference with cards like:
+
+
+Haven of the Birds of Paradise  
+
+2G  
+
+Enchantment – Location  
+
+(Your creatures may enter the battlefield at a location. Creatures you control have "T: Travel to a location you control. Travel only as a sorcery." Creatures leave locations when they attack, block, or travel.)  
+
+Creatures you control have "T: Add one mana of any color to your mana pool."  
+
+Creatures at this location have "T: Add two mana of any color to your mana pool."
+
+
+That's not very compelling for the level of rules support needed and overall gameplay clunkiness.
+
+
+The team tried even more ideas that I won't cover, up to including a new "subzone" of the battlefield that creatures could enter or leave (while still staying on the battlefield).
+
+
+There must be a better way.
+
+
+Conquering the New World
+========================
+
+
+One day I was contemplating our location exploration and came up with another expression. I tried another approach using the most resonant "discovery" trope I knew. I mocked up a card:
+
+
+Route to the Uncharted Isle  
+
+1  
+
+Artifact  
+
+Whenever a creature you control with flying attacks, you may pay 2U. If you do, draw a card and transform CARDNAME.
+
+
+//
+
+
+Brave New Isle  
+
+Land – Island  
+
+T: Add U to your mana pool.
+
+
+![](https://media.wizards.com/2017/images/daily/L3FX5a5D8P.png)
+
+
+The story is you found a treasure map, it points to a secret island in the ocean, but you must fly to get there. I showed this to Jenna, then others in creative, and everyone liked it. Jeremy Jarvis expressed concern over making ten to 20 different map illustrations ("We could burn the corners of one of them, I guess"), so we expanded the front sides to be anything that could "point the way" (a map, compass, or astrolabe[nbsp] . . .[/nbsp]). Now everyone was on board that this would be *Ixalan*'s expression of "finding new or lost places." Cynthia Sheppard, lead art director for *Ixalan*, committed to this and began searching for a frame treatment that clued the player into not simply playing the backside of the card as a normal land drop. The art budget increased accordingly.
+
+
+That's how *Ixalan* came to include transform cards. There's large design space in transform. *Innistrad* introduced them and used the mechanic for "dark transformations." *Ixalan* similarly tried to narrow the focus to "discovery." *Ixalan*'s transform cards start from something that points the way then ends at a land. This lets us design extremely powerful lands because we're giving them mana costs on the front side and a conditional trigger to transform to the backside.
+
+
+My preview card is the design team's literal top-downing of Jenna's original premise mixed with this new location mechanic. Your home world will soon be attacked by Vampire conquistadors aboard the Conqueror's Galleon:
+
+
+
+
+Click to Reveal
+---------------
+
+
+
+
+
+![](https://media.wizards.com/2017/xln/en_8wskFlvdlC.png)
+
+
+
+
+
+  
+
+I'm only going to show half of it for now. Even still, there's lots to unpack about this card:
+
+
+1. It's a Vehicle! That means *Ixalan* officially marks the return of the Vehicle subtype introduced in *Kaladesh* and continued in *Aether Revolt*, then halted in *Amonkhet* and *~Hour of Devastation*. Why? We tried to make a canoe or a barge on the Luxa River in Amonkhet, but it was lonely so we cut it. However, the Ixalan world guide was filled with boats and sailing ships, so every Ixalan Vehicle is a ship. *Ixalan* has fewer Vehicle cards than *Kaladesh*.
+2. Conqueror's Galleon is thematically a Vampire conquistador ship—it's large, hulking, and carries enough cargo to make the long journey across the ocean. Pirate ships by contrast are smaller and faster, making them better suited for raiding.
+3. It's a 2/10 because thematically we wanted it to attack ("set sail") but not die in combat.
+4. Crew 4 is a large crew cost; this is a big boat. Given that your total power goes from 4-plus down to only 2 means there's an ulterior motive for attacking with this Vehicle.
+5. It can transform! Conqueror's Galleon is the first transforming Vehicle.
+6. This particular card transforms oddly via exile because if it simply turned over ("transformed"), it would become a 0/0 land and die due to how crewed Vehicles without a printed power and toughness work in the rules.
+
+Now let's see what happens when the Conqueror's Galleon crashes ashore and transforms:
+
+
+
+
+Click to Reveal
+---------------
+
+
+
+
+
+![](https://media.wizards.com/2017/xln/en_AtEtI4P4mo.png)
+
+
+
+
+
+  
+
+This card tells the story of early conquerors sailing their ships, crashing ashore, then dismantling their ship for the lumber required to build their first settlement. There's no going back now!
+
+
+Initially, the backside was creating creature tokens of your choice to help settle the new plane, but we wanted token-making as a reward elsewhere in the set. Also, "Choose a creature type" tokens like on [Volrath's Laboratory](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397656) are difficult to illustrate. We ultimately settled on card-flow upgrades (loot, draw, regrowth) that felt like a port where fresh goods would enter. The bigger your settlement (mana base), the better the quality of goods flowing in.
+
+
+
+
+
+![](https://media.wizards.com/2017/xln/en_8wskFlvdlC.png)
+![](https://media.wizards.com/2017/xln/en_AtEtI4P4mo.png)
+
+Turn Over
+
+
+Go Forth and Discover
+=====================
+
+
+That's all I have today. If you're looking to get your hands on *Ixalan* cards as soon as possible, be sure to attend your local Prerelease September 23–24. Use the [store locator](http://locator.wizards.com/) to find one near you.
+
+
+
+
+
+
+

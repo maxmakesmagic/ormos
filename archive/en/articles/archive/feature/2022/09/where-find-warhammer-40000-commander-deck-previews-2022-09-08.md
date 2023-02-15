@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20220909200310/https://magic.wizards.com/en/articles/archive/feature/where-find-warhammer-40000-commander-deck-previews-2022-09-08?utm_campaign=MTG---40K---Magic-x-Warhammer-40%2C000&utm_source=TWITTER&utm_medium=social&utm_content=7584622795)
+[Link to Wayback Machine](https://web.archive.org/web/20220908152224/https://magic.wizards.com/en/articles/archive/feature/where-find-warhammer-40000-commander-deck-previews-2022-09-08)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "What's been previewed, what's going to be previewed, and where you can find all of it for Warhammer 40,000 Commander decks, right here!"
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2022-09-08"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Where to Find Warhammer 40,000 Commander Deck Previews"
-[_metadata_:wayback_capture_timestamp]:- "2022-09-09 20:03:10"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220909200310id_/https://magic.wizards.com/en/articles/archive/feature/where-find-warhammer-40000-commander-deck-previews-2022-09-08?utm_campaign=MTG---40K---Magic-x-Warhammer-40%2C000&utm_source=TWITTER&utm_medium=social&utm_content=7584622795"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/where-find-warhammer-40000-commander-deck-previews-2022-09-08?utm_campaign=MTG---40K---Magic-x-Warhammer-40%2C000&utm_source=TWITTER&utm_medium=social&utm_content=7584622795"
+[_metadata_:wayback_capture_timestamp]:- "2022-09-08 15:22:24"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220908152224id_/https://magic.wizards.com/en/articles/archive/feature/where-find-warhammer-40000-commander-deck-previews-2022-09-08"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/where-find-warhammer-40000-commander-deck-previews-2022-09-08"
 ---
 
 
@@ -41,7 +41,7 @@ By Wizards of the Coast
 
 
 
-It's time for [*Warhammer 40,000* Commander deck](https://magic.wizards.com/en/products/warhammer-40000-commander) previews! To help our readers and preview seekers, we've created this handy guide to preview season.
+It's time for [*Warhammer 40,000* Commander deck](https://magic.wizards.com/en/products/warhammer-40000-commander%20) previews! To help our readers and preview seekers, we've created this handy guide to preview season.
 
 
 Be sure to tune in to [the official *Magic: The Gathering* YouTube channel](https://www.youtube.com/channel/UC8ZGymAvfP97qJabgqUkz4A) or [twitch.tv/magic](https://www.twitch.tv/magic) to get your first deep dive into the cards, mechanics, and big reveals for the *Warhammer 40,000* Commander decks ahead of the global release October 7!
@@ -64,9 +64,6 @@ This page will help you follow along with everything coming by giving you the ou
 Below, you'll find a list of dates as well as any outlets previewing a card on that date. Once the previews are live, we'll update this article so that you can easily find them. If the link simply goes to the front of a website or social media site, that means they probably haven't previewed the card yet.
 
 
-**The way it will work is as such: Each deck gets its own day, and on that day we'll have some individual previews early on followed by one outlet doing a reveal of the rest of the deck. Each full deck reveal is noted below and will go up around 2 p.m. PT!**
-
-
 And if you just want to see all the cards that have been officially previewed in one place, you can always check out our Card Image Gallery, which will roll out when previews begin. Note that the gallery is updated every morning, Monday through Friday, so it contains all cards previewed the previous day (and earlier), but not the day of.
 
 
@@ -84,15 +81,14 @@ When you're ready for the grimdark future of these incredible cards, you can fin
 
 
 * [Bridging Worlds: *Magic: The Gathering x Warhammer 40,000* Video](https://www.youtube.com/c/Magicthegathering)
-* [Weekly MTG Aftershow](https://www.twitch.tv/magic)
 * [Warhammer Community](https://www.warhammer-community.com/en-us/)
 
-**September 13 - The Tyranid Swarm**
+**September 13**
 
 
-* [@mtgjp](https://twitter.com/mtgjp)
+* [@Sir\_Motor](https://twitter.com/Sir_Motor)
 * [Making *Magic*](https://magic.wizards.com/en/articles/columns/making-magic)
-* [MTGMuddstah](https://www.youtube.com/c/MTGMuddstah) (Full deck)
+* [MTGMuddstah](https://www.youtube.com/c/MTGMuddstah)
 * [Official *Magic* Discord](https://discord.gg/wZEDMaJwMY)
 * [Polygon](https://www.polygon.com/)
 * [Rahul Kohli](https://www.instagram.com/rahulkohli13)
@@ -101,24 +97,24 @@ When you're ready for the grimdark future of these incredible cards, you can fin
 * [Warhammer Community](https://www.warhammer-community.com/en-us/)
 * [ZiggyD](https://www.youtube.com/c/ziggydgaming)
 
-**September 14 - The Ruinous Powers**
+**September 14**
 
 
-* [@mtgjp](https://twitter.com/mtgjp)
 * [@Wizards\_Magic Twitter](https://twitter.com/wizards_magic)
 * [IGN](https://www.ign.com/)
 * [Jody MacGregor](https://twitter.com/jodymacgregor)
-* [LoadingReadyRun](https://www.youtube.com/user/loadingreadyrun) (Full deck)
+* [LoadingReadyRun](https://www.youtube.com/user/loadingreadyrun)
+* [*Magic: The Gathering* Japanese Facebook](https://www.facebook.com/MagicTheGathering.jp/)
 * [MWG Studios](https://www.instagram.com/miniwargaming/)
 * [Phunk Royal](https://www.youtube.com/user/phunkroyal)
 * [Warhammer Community](https://www.warhammer-community.com/en-us/)
 
-**September 15 - Necron Dynasty**
+**September 15**
 
 
 * [@mtgjp Twitter](https://twitter.com/mtgjp)
 * [Game Informer](https://www.gameinformer.com/)
-* [Game Knights](https://www.youtube.com/c/TheCommandZonePodcast) (Full deck)
+* [Game Knights](https://www.youtube.com/c/TheCommandZonePodcast)
 * [Geek Culture](https://geekculture.co/)
 * [La Voz de Horus](https://www.lavozdehorus.com/)
 * [MTG Brasil](https://www.mtgbrasil.com.br/)
@@ -127,16 +123,16 @@ When you're ready for the grimdark future of these incredible cards, you can fin
 * [PlayMTG Twitter](https://twitter.com/PlayMTG)
 * [Warhammer Community](https://www.warhammer-community.com/en-us/)
 
-**September 16 - Forces of the Imperium**
+**September 16**
 
 
-* [@mtgjp](https://twitter.com/mtgjp)
+* [@WH\_JPN](https://twitter.com/wh_jpn)
 * [@Wizards\_Magic Instagram](https://www.instagram.com/wizards_magic/?hl=en)
 * [Cam Shea](https://twitter.com/jazzebration)
 * [Crendor](https://twitter.com/crendor)
 * [PC Gamer](https://www.pcgamer.com/)
 * [Pintando Miniaturas](https://www.youtube.com/c/PintandoMiniaturas/featured)
-* [Pleasant Kenobi](https://www.youtube.com/channel/UC_b074DeDtbHukufPf2O1kw) (Full deck)
+* [Pleasant Kenobi](https://www.youtube.com/channel/UC_b074DeDtbHukufPf2O1kw)
 * [The Spiffing Brit](https://www.youtube.com/channel/UCRHXUZ0BxbkU2MYZgsuFgkQ)
 * [Warhammer Community](https://www.warhammer-community.com/en-us/)
 * [WesHammer](https://www.youtube.com/channel/UCSDj6ttwzj2sr464jDdg_pA)

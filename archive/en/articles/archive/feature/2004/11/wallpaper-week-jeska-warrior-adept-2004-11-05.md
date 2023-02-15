@@ -47,7 +47,7 @@ This week's desktop wallpaper, heading back into past sets for a bit, is rk post
 
 
 
-![](https://web.archive.org/web/20150922152845im_/http://archive.wizards.com/global/images/mtgcom_arcana_686_pic1_en.jpg)[1280x960 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_JeskaWarriorAdept_1280x960.jpg)  
+![](https://media.wizards.com/legacy/global/images/mtgcom_arcana_686_pic1_en.jpg)[1280x960 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_JeskaWarriorAdept_1280x960.jpg)  
 [1024x768 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_JeskaWarriorAdept_1024x768.jpg)  
 [800x600 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_JeskaWarriorAdept_800x600.jpg)
 

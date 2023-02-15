@@ -1,0 +1,130 @@
+
+---
+[Link to Wayback Machine](https://web.archive.org/web/20220707021651/https://magic.wizards.com/en/articles/archive/event-coverage/finals-%E2%80%93-chojibrandtvieira-vs-estevesmerjanjaudy-2014-06-01)
+
+[_metadata_:author]:- "Josh Bennett"
+[_metadata_:description]:- "The Players The finals were an all-Brazil David-versus-Goliath affair. Cezar Choji, Marcus Paulo Santiago Brandt, and Eduardo dos Santos Vieira were your underdogs. They'd fought hard to defeat a team of American ringers in the semifinals, but to get the title they'd face an even greater test. Their finals opponents would have more experience, more preparation, and perhaps"
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "317826"
+[_metadata_:publish_date]:- "2014-06-01"
+[_metadata_:source]:- "div-main-content"
+[_metadata_:title]:- "Finals – Choji/Brandt/Vieira vs. Esteves/Merjan/Jaudy"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-07 02:16:51"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220707021651id_/https://magic.wizards.com/en/articles/archive/event-coverage/finals-%E2%80%93-chojibrandtvieira-vs-estevesmerjanjaudy-2014-06-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/event-coverage/finals-%E2%80%93-chojibrandtvieira-vs-estevesmerjanjaudy-2014-06-01"
+---
+
+
+Finals – Choji/Brandt/Vieira vs. Esteves/Merjan/Jaudy
+=====================================================
+
+
+
+ Posted in **Event Coverage**
+ on June 1, 2014 
+
+
+
+
+
+
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/authorpic_joshbennett.jpg)
+By Josh Bennett
+
+
+
+
+
+
+
+
+
+
+
+### The Players
+
+
+The finals were an all-Brazil David-versus-Goliath affair. Cezar Choji, Marcus Paulo Santiago Brandt, and Eduardo dos Santos Vieira were your underdogs. They'd fought hard to defeat a team of American ringers in the semifinals, but to get the title they'd face an even greater test. Their finals opponents would have more experience, more preparation, and perhaps worst of all, the fire in the belly that drives one to greatness.
+
+
+Anyone who's played in more than a few *Magic Online* tournaments will recognize the user name "\_batutinha". He is the original End Boss. In his everyday life, he's known as Carlos Alexandre dos Santos Esteves, and he and his teammates Guilherme Merjan and Tulio Jaudy were looking for a path back to the Pro Tour. None more so than Jaudy, who'd had to sit out Pro Tour Atlanta due to visa issues. Victory was the only thing on their mind.
+
+
+Here's how their draft decks broke down:
+
+
+Vieira: Defensive Blue-White  
+
+Choji: Black-Blue Control  
+
+Brandt: Black-White Midrange
+
+
+Merjan: Blue-Red Midrange  
+
+Esteves: Blue-Green Midrange  
+
+Jaudy: Red-White Aggro
+
+
+![](https://media.wizards.com/images/magic/daily/events/2014/gpsao14/Final_Draft.jpg)
+
+### The Matches
+
+
+**B-Seat: Esteves vs. Choji**
+
+
+The two wasted no time getting down to business, and Choji got an early advantage thanks to [Pain Seer](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pain+Seer). First he cleared a path for it with [Nyx Infusion](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nyx+Infusion), and then Esteves's replacement creature was [Karametra's Acolyte](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Karametra%27s+Acolyte), unable to kill it in combat. Choji continued on the path of the slow blade with [Akroan Horse](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Akroan+Horse). Esteves summoned an [Arbiter of the Ideal](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Arbiter+of+the+Ideal) that threatened to blow the game wide open, but Choji was ready with [Silence the Believers](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Silence+the+Believers).
+
+
+![](https://media.wizards.com/images/magic/daily/events/2014/gpsao14/Final_Choji.jpg)
+
+From there, the game ground to a crawl, with Choji building up advantages. [Black Oak of Odunos](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Black+Oak+of+Odunos) meant his [Pain Seer](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pain+Seer) would keep him in cards. His options kept piling up too, so that his turns started to draw out. Esteves looked to his right and saw good news.
+
+
+**C-Seat: Jaudy vs. Brandt**
+
+
+When Estevez last looked over, it seemed like Brandt was building a solid defence of a 1/5 [Lagonna-Band Trailblazer](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lagonna-Band+Trailblazer) and [Grim Guardian](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grim+Guardian). Now Jaudy was bestowing Mogis's War Hound onto [Flamespeaker Adept](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flamespeaker+Adept) post-combat to set up the next turn's attack. Jaudy passed an empty turn and pushed his [Trailblazer](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Trailblazer) in front of the Adept. They let combat end, and Jaudy pointed [Magma Spray](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Magma+Spray) at the [Trailblazer](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Trailblazer). Worse for Brandt, he tried to save it with [Necrobite](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Necrobite), forgetting that the Spray would mean exile instead of destruction. He tried to shore things up with a [Servant of Tymaret](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Servant+of+Tymaret), but then Jaudy played his trump: [Iroas, God of Victory](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Iroas%2C+God+of+Victory).
+
+
+I don't know if you've ever had the pleasure of working with Big Ol' Iroas, but let me assure you, he is a treat. Not even [Dictate of Erebos](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dictate+of+Erebos) could slow down the tide of Jaudy's forces, and he took the first game.
+
+
+![](https://media.wizards.com/images/magic/daily/events/2014/gpsao14/Final_Iroas_Jaudy.jpg)
+
+The brutality continued into game two, where Jaudy assembled the combo of [Sigiled Skink](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sigiled+Skink) and [Flamespeaker Adept](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flamespeaker+Adept). A bestowed [Everflame Eidolon](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Everflame+Eidolon) meant that Brandt's [Grim Guardian](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grim+Guardian) couldn't even kill the Skink. Running out of options, Brandt tried an offensive tack, giving the Guardian the [Ordeal of Erebos](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ordeal+of+Erebos) and attacking, but that was only playing right into Jaudy's hands. He hit for another seven damage and summoned [Fanatic of Mogis](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fanatic+of+Mogis), leaving Brandt at just five life. The [Bolt of Keranos](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bolt+of+Keranos) in Jaudy's hand made the finish academic.
+
+
+Esteves/Merjan/Jaudy 1 - Choji/Brandt/Vieira 0
+
+
+In the B Seat, Esteves was still fighting against the closing vice grip of Choji. He turned to his left...
+
+
+**A-Seat: Merjan vs. Vieira**
+
+
+The first game had proceeded strangely. Merjan had stumbled on mana and was forced to discard after casting [Divination](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Divination). In the meantime Vieira had summoned [Silent Artisan](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Silent+Artisan) and given it a [Nyxborn Shieldmate](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nyxborn+Shieldmate). This monster attacker was bigger than the small creatures Merjan was playing out, so he soaked a fair bit of damage. Still, after resolving [Keranos, God of Storms](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Keranos%2C+God+of+Storms) it looked like he had managed to right the ship.
+
+
+He started to assemble an army. Vieira saw the game slipping away from him and went for a desperate plan. With [Hubris](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hubris) and [Sudden Storm](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sudden+Storm) he cleared a path for his attackers, dropping Merjan down to just three life. In his hand he had [Gods Willing](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gods+Willing). If Merjan couldn't field two creatures of different colors, the game would be his. However, Merjan wasn't going to fall into that trap. [Borderland Minotaur](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Borderland+Minotaur) and [Deepwater Hypnotist](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Deepwater+Hypnotist) made sure that the path was blocked, and from there a manifest Keranos made short work of Vieira.
+
+
+![](https://media.wizards.com/images/magic/daily/events/2014/gpsao14/Final_Keranos_Merjan.jpg)
+
+If Merjan had any nerves about being one win away from the Championship he didn't show it. He played the second game at a careful pace. Again Vieira had an unorthodox start, this time courtesy of [Crystalline Nautilus](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crystalline+Nautilus). Merjan had kept a slower draw and the Nautilus actually connected twice before he found a bestow creature to wipe it off the board. Vieira's other threat was Heliod, but he was stuck on four mana, while Merjan was hitting his drops. Down came another [Arbiter of the Ideal](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Arbiter+of+the+Ideal), and Vieira could only delay it with [Hubris](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hubris). Merjan decided that wasn't nearly big enough and replaced it with [Shipbreaker Kraken](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shipbreaker+Kraken). Vieira had no tools to battle this. Before long he was conceding.
+
+
+Esteves and his teammates let out a mighty cheer that was immediately echoed by the spectators ringing the match. Another cheer, and then they broke into loud applause as Esteves, Merjan and Jaudy embraced and celebrated, while their friends crashed into the Feature Match area shouting congratulations and slapping them on the back. They had done it.
+
+
+### Esteves/Merjan/Jaudy 2 - Choji/Brandt/Vieira 0
+
+
+
+
+
+
+

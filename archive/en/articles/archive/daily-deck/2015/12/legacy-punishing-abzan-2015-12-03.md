@@ -1,0 +1,784 @@
+
+---
+[Link to Wayback Machine](https://web.archive.org/web/20200812035222/https://magic.wizards.com/en/articles/archive/daily-deck/legacy-punishing-abzan-2015-12-03)
+
+[_metadata_:author]:- "Melissa DeTora"
+[_metadata_:description]:- "Daily Decks presents a list from various formats (even some you may not have heard of), perfect for competitive and casual players."
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "937276"
+[_metadata_:publish_date]:- "2015-12-03"
+[_metadata_:source]:- "div-main-content"
+[_metadata_:title]:- "Legacy Punishing Abzan"
+[_metadata_:wayback_capture_timestamp]:- "2020-08-12 03:52:22"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200812035222id_/https://magic.wizards.com/en/articles/archive/daily-deck/legacy-punishing-abzan-2015-12-03"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/daily-deck/legacy-punishing-abzan-2015-12-03"
+---
+
+
+Legacy Punishing Abzan
+======================
+
+
+
+ Posted in **Daily Deck**
+ on December 3, 2015 
+
+
+
+
+
+
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/Melissa_DeTora.jpg)
+By Melissa DeTora
+
+
+
+
+ Melissa is a former Magic pro player and strategy writer who is now working in R&D on the Play Design team. 
+
+
+
+
+
+
+If you ask enfranchised Legacy players what the strongest card in Legacy is, the majority of those players will say [Brainstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Brainstorm). [Brainstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Brainstorm) does quite a lot, and many decks are built to exploit the card's power. *Magic* is a game about drawing the right cards at the right times, and [Brainstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Brainstorm) helps reach that goal. Drawing three cards and putting back two cards that you don't need right now and then shuffling your deck with a fetch land is one of the best things you can do in this format.
+
+
+Today's deck isn't a [Brainstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Brainstorm) deck, but rather an anti-[Brainstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Brainstorm) deck. Tom Keating proved the world wrong by winning the Legacy Open last weekend with a deck that not only doesn't play [Brainstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Brainstorm), but also stops opponents from casting their own [Brainstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Brainstorm)s.
+
+
+Tom's deck is a four-color midrange deck that seeks to cast a [Chalice of the Void](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chalice+of+the+Void) for one on either turn one or two. Chalice can completely lock a player out of a game, especially if that player's deck is full of [Brainstorm](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Brainstorm)s, [Ponder](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ponder)s, and [Lightning Bolt](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lightning+Bolt)s. Once Chalice is in play, this deck looks to control the game with cards like [Liliana of the Veil](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Liliana+of+the+Veil) and [Abrupt Decay](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Abrupt+Decay) while returning [Wasteland](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wasteland)s and fetch lands to your hand with [Life from the Loam](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Life+from+the+Loam).
+
+
+[![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Chalice+of+the+Void)](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chalice+of+the+Void) [![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Brainstorm)](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Brainstorm)
+The deck is named "Punishing Abzan" because, although it's predominantly an Abzan deck, it splashes red for the powerful combo of [Punishing Fire](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Punishing+Fire) and [Grove of the Burnwillows](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grove+of+the+Burnwillows). This combo will stop any creature deck cold, and can act as a very slow win condition as well.
+
+
+Punishing Abzan's other win condition is [Knight of the Reliquary](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Knight+of+the+Reliquary). Since you are controlling the game in the early stages with [Life from the Loam](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Life+from+the+Loam) and Liliana, by the time you get a Knight into play it will be quite large. Liliana makes it very easy to play around your opponent's removal spells as you can simply wait to cast your Knight until your opponent has no cards in hand, so a single Knight will usually end the game very quickly.
+
+
+
+
+
+
+
+
+#### Tom Keating's Punishing Abzan
+
+
+##### 
+
+
+
+
+
+
+![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
+![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+
+
+
+
+
+[Decklist](#none)
+[Stats](#none)
+[Sample Hand](#none)
+
+
+
+
+
+Sort by:
+OverviewColorCostRarity
+
+
+
+
+##### Planeswalker (3)
+
+
+
+3
+[Liliana of the Veil](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLiliana%5D+%5Bof%5D+%5Bthe%5D+%5BVeil%5D)
+
+
+
+##### Creature (10)
+
+
+
+1
+[Scavenging Ooze](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScavenging%5D+%5BOoze%5D)
+
+
+4
+[Knight of the Reliquary](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKnight%5D+%5Bof%5D+%5Bthe%5D+%5BReliquary%5D)
+
+
+1
+[Gaddock Teeg](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGaddock%5D+%5BTeeg%5D)
+
+
+4
+[Dark Confidant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BConfidant%5D)
+
+
+
+##### Sorcery (4)
+
+
+
+2
+[Green Sun's Zenith](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGreen%5D+%5BSun%5D+%5BZenith%5D)
+
+
+2
+[Life from the Loam](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLife%5D+%5Bfrom%5D+%5Bthe%5D+%5BLoam%5D)
+
+
+
+##### Instant (7)
+
+
+
+4
+[Abrupt Decay](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbrupt%5D+%5BDecay%5D)
+
+
+3
+[Punishing Fire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPunishing%5D+%5BFire%5D)
+
+
+
+##### Artifact (8)
+
+
+
+4
+[Chalice of the Void](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChalice%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
+
+
+4
+[Mox Diamond](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BDiamond%5D)
+
+
+
+##### Enchantment (2)
+
+
+
+2
+[Sylvan Library](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSylvan%5D+%5BLibrary%5D)
+
+
+
+##### Land (26)
+
+
+
+4
+[Verdant Catacombs](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVerdant%5D+%5BCatacombs%5D)
+
+
+1
+[Dryad Arbor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDryad%5D+%5BArbor%5D)
+
+
+3
+[Grove of the Burnwillows](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrove%5D+%5Bof%5D+%5Bthe%5D+%5BBurnwillows%5D)
+
+
+1
+[Tranquil Thicket](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTranquil%5D+%5BThicket%5D)
+
+
+2
+[Barren Moor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBarren%5D+%5BMoor%5D)
+
+
+2
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+1
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+4
+[Wasteland](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWasteland%5D)
+
+
+1
+[Maze of Ith](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMaze%5D+%5Bof%5D+%5BIth%5D)
+
+
+1
+[Karakas](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarakas%5D)
+
+
+1
+[Savannah](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSavannah%5D)
+
+
+2
+[Bayou](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBayou%5D)
+
+
+1
+[Taiga](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTaiga%5D)
+
+
+1
+[Badlands](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBadlands%5D)
+
+
+1
+[Scrubland](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScrubland%5D)
+
+
+60 Cards 
+
+
+##### Sideboard (15)
+
+
+
+1
+[Containment Priest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BContainment%5D+%5BPriest%5D)
+
+
+1
+[Toxic Deluge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BToxic%5D+%5BDeluge%5D)
+
+
+1
+[Golgari Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGolgari%5D+%5BCharm%5D)
+
+
+2
+[Thalia, Guardian of Thraben](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThalia,%5D+%5BGuardian%5D+%5Bof%5D+%5BThraben%5D)
+
+
+1
+[Garruk Relentless](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGarruk%5D+%5BRelentless%5D)
+
+
+1
+[Maelstrom Pulse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMaelstrom%5D+%5BPulse%5D)
+
+
+1
+[Ethersworn Canonist](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEthersworn%5D+%5BCanonist%5D)
+
+
+2
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+3
+[Leyline of the Void](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
+
+
+1
+[Engineered Plague](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEngineered%5D+%5BPlague%5D)
+
+
+1
+[Reclamation Sage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReclamation%5D+%5BSage%5D)
+
+
+
+
+##### White (4)
+
+
+
+1
+[Containment Priest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BContainment%5D+%5BPriest%5D)
+
+
+2
+[Thalia, Guardian of Thraben](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThalia,%5D+%5BGuardian%5D+%5Bof%5D+%5BThraben%5D)
+
+
+1
+[Ethersworn Canonist](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEthersworn%5D+%5BCanonist%5D)
+
+
+
+##### Black (14)
+
+
+
+3
+[Liliana of the Veil](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLiliana%5D+%5Bof%5D+%5Bthe%5D+%5BVeil%5D)
+
+
+4
+[Dark Confidant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BConfidant%5D)
+
+
+1
+[Toxic Deluge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BToxic%5D+%5BDeluge%5D)
+
+
+2
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+3
+[Leyline of the Void](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
+
+
+1
+[Engineered Plague](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEngineered%5D+%5BPlague%5D)
+
+
+
+##### Red (3)
+
+
+
+3
+[Punishing Fire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPunishing%5D+%5BFire%5D)
+
+
+
+##### Green (9)
+
+
+
+1
+[Scavenging Ooze](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScavenging%5D+%5BOoze%5D)
+
+
+2
+[Green Sun's Zenith](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGreen%5D+%5BSun%5D+%5BZenith%5D)
+
+
+2
+[Life from the Loam](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLife%5D+%5Bfrom%5D+%5Bthe%5D+%5BLoam%5D)
+
+
+2
+[Sylvan Library](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSylvan%5D+%5BLibrary%5D)
+
+
+1
+[Garruk Relentless](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGarruk%5D+%5BRelentless%5D)
+
+
+1
+[Reclamation Sage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReclamation%5D+%5BSage%5D)
+
+
+
+##### Multi colored (11)
+
+
+
+4
+[Abrupt Decay](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbrupt%5D+%5BDecay%5D)
+
+
+4
+[Knight of the Reliquary](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKnight%5D+%5Bof%5D+%5Bthe%5D+%5BReliquary%5D)
+
+
+1
+[Gaddock Teeg](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGaddock%5D+%5BTeeg%5D)
+
+
+1
+[Golgari Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGolgari%5D+%5BCharm%5D)
+
+
+1
+[Maelstrom Pulse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMaelstrom%5D+%5BPulse%5D)
+
+
+
+##### Colorless (34)
+
+
+
+4
+[Chalice of the Void](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChalice%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
+
+
+4
+[Verdant Catacombs](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVerdant%5D+%5BCatacombs%5D)
+
+
+1
+[Dryad Arbor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDryad%5D+%5BArbor%5D)
+
+
+3
+[Grove of the Burnwillows](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrove%5D+%5Bof%5D+%5Bthe%5D+%5BBurnwillows%5D)
+
+
+1
+[Tranquil Thicket](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTranquil%5D+%5BThicket%5D)
+
+
+2
+[Barren Moor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBarren%5D+%5BMoor%5D)
+
+
+2
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+1
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+4
+[Mox Diamond](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BDiamond%5D)
+
+
+4
+[Wasteland](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWasteland%5D)
+
+
+1
+[Maze of Ith](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMaze%5D+%5Bof%5D+%5BIth%5D)
+
+
+1
+[Karakas](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarakas%5D)
+
+
+1
+[Savannah](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSavannah%5D)
+
+
+2
+[Bayou](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBayou%5D)
+
+
+1
+[Taiga](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTaiga%5D)
+
+
+1
+[Badlands](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBadlands%5D)
+
+
+1
+[Scrubland](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScrubland%5D)
+
+
+75 Cards 
+
+
+
+##### 1 (4)
+
+
+
+2
+[Green Sun's Zenith](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGreen%5D+%5BSun%5D+%5BZenith%5D)
+
+
+2
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+
+##### 2 (22)
+
+
+
+4
+[Abrupt Decay](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbrupt%5D+%5BDecay%5D)
+
+
+1
+[Scavenging Ooze](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScavenging%5D+%5BOoze%5D)
+
+
+3
+[Punishing Fire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPunishing%5D+%5BFire%5D)
+
+
+1
+[Gaddock Teeg](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGaddock%5D+%5BTeeg%5D)
+
+
+4
+[Dark Confidant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BConfidant%5D)
+
+
+2
+[Life from the Loam](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLife%5D+%5Bfrom%5D+%5Bthe%5D+%5BLoam%5D)
+
+
+2
+[Sylvan Library](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSylvan%5D+%5BLibrary%5D)
+
+
+1
+[Containment Priest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BContainment%5D+%5BPriest%5D)
+
+
+1
+[Golgari Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGolgari%5D+%5BCharm%5D)
+
+
+2
+[Thalia, Guardian of Thraben](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThalia,%5D+%5BGuardian%5D+%5Bof%5D+%5BThraben%5D)
+
+
+1
+[Ethersworn Canonist](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEthersworn%5D+%5BCanonist%5D)
+
+
+
+##### 3 (11)
+
+
+
+3
+[Liliana of the Veil](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLiliana%5D+%5Bof%5D+%5Bthe%5D+%5BVeil%5D)
+
+
+4
+[Knight of the Reliquary](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKnight%5D+%5Bof%5D+%5Bthe%5D+%5BReliquary%5D)
+
+
+1
+[Toxic Deluge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BToxic%5D+%5BDeluge%5D)
+
+
+1
+[Maelstrom Pulse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMaelstrom%5D+%5BPulse%5D)
+
+
+1
+[Engineered Plague](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEngineered%5D+%5BPlague%5D)
+
+
+1
+[Reclamation Sage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReclamation%5D+%5BSage%5D)
+
+
+
+##### 4 (4)
+
+
+
+1
+[Garruk Relentless](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGarruk%5D+%5BRelentless%5D)
+
+
+3
+[Leyline of the Void](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
+
+
+41 Cards 
+
+
+
+##### Common (2)
+
+
+
+1
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+
+
+1
+[Maelstrom Pulse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMaelstrom%5D+%5BPulse%5D)
+
+
+
+##### Uncommon (9)
+
+
+
+3
+[Punishing Fire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPunishing%5D+%5BFire%5D)
+
+
+1
+[Tranquil Thicket](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTranquil%5D+%5BThicket%5D)
+
+
+2
+[Barren Moor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBarren%5D+%5BMoor%5D)
+
+
+1
+[Golgari Charm](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGolgari%5D+%5BCharm%5D)
+
+
+1
+[Engineered Plague](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEngineered%5D+%5BPlague%5D)
+
+
+1
+[Reclamation Sage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReclamation%5D+%5BSage%5D)
+
+
+
+##### Rare (34)
+
+
+
+4
+[Abrupt Decay](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbrupt%5D+%5BDecay%5D)
+
+
+1
+[Scavenging Ooze](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScavenging%5D+%5BOoze%5D)
+
+
+4
+[Knight of the Reliquary](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKnight%5D+%5Bof%5D+%5Bthe%5D+%5BReliquary%5D)
+
+
+1
+[Gaddock Teeg](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGaddock%5D+%5BTeeg%5D)
+
+
+3
+[Grove of the Burnwillows](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrove%5D+%5Bof%5D+%5Bthe%5D+%5BBurnwillows%5D)
+
+
+2
+[Life from the Loam](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLife%5D+%5Bfrom%5D+%5Bthe%5D+%5BLoam%5D)
+
+
+2
+[Sylvan Library](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSylvan%5D+%5BLibrary%5D)
+
+
+1
+[Karakas](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarakas%5D)
+
+
+1
+[Savannah](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSavannah%5D)
+
+
+2
+[Bayou](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBayou%5D)
+
+
+1
+[Taiga](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTaiga%5D)
+
+
+1
+[Badlands](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBadlands%5D)
+
+
+1
+[Scrubland](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScrubland%5D)
+
+
+1
+[Containment Priest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BContainment%5D+%5BPriest%5D)
+
+
+1
+[Toxic Deluge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BToxic%5D+%5BDeluge%5D)
+
+
+2
+[Thalia, Guardian of Thraben](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThalia,%5D+%5BGuardian%5D+%5Bof%5D+%5BThraben%5D)
+
+
+1
+[Ethersworn Canonist](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEthersworn%5D+%5BCanonist%5D)
+
+
+2
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+
+3
+[Leyline of the Void](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
+
+
+
+##### Mythic (30)
+
+
+
+4
+[Chalice of the Void](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChalice%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D)
+
+
+3
+[Liliana of the Veil](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLiliana%5D+%5Bof%5D+%5Bthe%5D+%5BVeil%5D)
+
+
+2
+[Green Sun's Zenith](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGreen%5D+%5BSun%5D+%5BZenith%5D)
+
+
+4
+[Verdant Catacombs](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVerdant%5D+%5BCatacombs%5D)
+
+
+1
+[Dryad Arbor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDryad%5D+%5BArbor%5D)
+
+
+4
+[Dark Confidant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BConfidant%5D)
+
+
+2
+[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+4
+[Mox Diamond](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BDiamond%5D)
+
+
+4
+[Wasteland](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWasteland%5D)
+
+
+1
+[Maze of Ith](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMaze%5D+%5Bof%5D+%5BIth%5D)
+
+
+1
+[Garruk Relentless](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGarruk%5D+%5BRelentless%5D)
+
+
+75 Cards 
+
+
+
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Chalice+of+the+Void)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

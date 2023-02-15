@@ -46,7 +46,7 @@ This week's desktop wallpaper is the *Urza's Legacy* flyer [Weatherseed Faeries]
 
 
 
-![](https://web.archive.org/web/20150922165939im_/http://archive.wizards.com/global/images/mtgcom_arcana_414_pic1_en.jpg)[1024x768](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=magic/images/mtgcom/arcana300/Wallpaper_WeatherseedFaeries_1024x768.jpg)  
+![](https://media.wizards.com/legacy/global/images/mtgcom_arcana_414_pic1_en.jpg)[1024x768](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=magic/images/mtgcom/arcana300/Wallpaper_WeatherseedFaeries_1024x768.jpg)  
 [800x600](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=magic/images/mtgcom/arcana300/Wallpaper_WeatherseedFaeries_800x600.jpg)
 
 

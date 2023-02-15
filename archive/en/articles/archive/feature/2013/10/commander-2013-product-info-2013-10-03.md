@@ -1,16 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20160503090739/http://magic.wizards.com/en/articles/archive/feature/commander-2013-product-info-2013-10-03)
+[Link to Wayback Machine](https://web.archive.org/web/20211206191220/https://magic.wizards.com/en/articles/archive/feature/commander-2013-product-info-2013-10-03)
 
 [_metadata_:author]:- "Wizards of the Coast"
+[_metadata_:description]:- "Magic: The Gathering Commander (2013 Edition) will consist of five different 100-card singleton decks, each with a suggested retail price of $29.99. To continue the tradition of oversized cards associated with our multiplayer releases, each deck will also include three premium oversized legendary commander cards that can be used in lieu of the normal versions of the cards"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "647446"
 [_metadata_:publish_date]:- "2013-10-03"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Commander 2013 Product Info"
-[_metadata_:wayback_capture_timestamp]:- "2016-05-03 09:07:39"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160503090739id_/http://magic.wizards.com/en/articles/archive/feature/commander-2013-product-info-2013-10-03"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/commander-2013-product-info-2013-10-03"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-06 19:12:20"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211206191220id_/https://magic.wizards.com/en/articles/archive/feature/commander-2013-product-info-2013-10-03"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/commander-2013-product-info-2013-10-03"
 ---
 
 
@@ -27,7 +28,7 @@ Commander 2013 Product Info
 
 
 
-![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
 By Wizards of the Coast
 
 

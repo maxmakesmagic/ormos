@@ -1,5 +1,8 @@
 # Articles by John Carter
 
+* [Welcome Back to Saturday School](/archive/en/articles/archive/2004/08/welcome-back-saturday-school-2004-08-14.md) - 2004-08-14
+* [Math, Q&A, and Our First Field Trip](/archive/en/articles/archive/2004/08/math-qa-and-our-first-field-trip-2004-08-21.md) - 2004-08-21
+* [Rule #1: Read the Card](/archive/en/articles/archive/2004/08/rule-1-read-card-2004-08-28.md) - 2004-08-28
 * [City By the Bay](/archive/en/articles/archive/feature/2004/09/city-bay-2004-09-04.md) - 2004-09-04
 * [Worlds and Questions and Champions, Oh My!](/archive/en/articles/archive/feature/2004/09/worlds-and-questions-and-champions-oh-my-2004-09-11.md) - 2004-09-11
 * [Kamigawa Kontinued](/archive/en/articles/archive/feature/2004/09/kamigawa-kontinued-2004-09-18-0.md) - 2004-09-18
@@ -11,13 +14,19 @@
 * [Happy States Day!](/archive/en/articles/archive/feature/2004/10/happy-states-day-2004-10-23.md) - 2004-10-23
 * [All Standard, All the Time](/archive/en/articles/archive/feature/2004/10/all-standard-all-time-2004-10-30.md) - 2004-10-30
 * [Extended Week and PT Columbus Musings](/archive/en/articles/archive/feature/2004/11/extended-week-and-pt-columbus-musings-2004-11-06.md) - 2004-11-06
+* [CR and UNH Sign Historic Agreement](/archive/en/articles/archive/2004/11/cr-and-unh-sign-historic-agreement-2004-11-13.md) - 2004-11-13
 * [GP Brisbane Field Trip](/archive/en/articles/archive/feature/2004/11/gp-brisbane-field-trip-2004-11-20.md) - 2004-11-20
 * [GP Brisbane Field Trip](/archive/en/articles/archive/feature/2004/11/gp-brisbane-field-trip-2004-11-27.md) - 2004-11-27
 * [An Update on the UNH Truce, and Questions Questions Questions](/archive/en/articles/archive/feature/2004/12/update-unh-truce-and-questions-questions-questions-2004-12-04.md) - 2004-12-04
 * [School’s Almost Out!](/archive/en/articles/archive/feature/2004/12/school’s-almost-out-2004-12-11.md) - 2004-12-11
+* [Saturday School’s Final Exam 2004](/archive/en/articles/archive/2004/12/saturday-school’s-final-exam-2004-2004-12-18.md) - 2004-12-18
+* [The Original Magic Rulebook](/archive/en/articles/archive/2004/12/original-magic-rulebook-2004-12-25.md) - 2004-12-25
 * [The Original Magic Rulebook](/archive/en/articles/archive/feature/2004/12/original-magic-rulebook-2004-12-25.md) - 2004-12-25
 * [The First DCI Floor Rules](/archive/en/articles/archive/feature/2005/01/first-dci-floor-rules-2005-01-01.md) - 2005-01-01
 * [It’s a Whole New Year](/archive/en/articles/archive/feature/2005/01/it’s-whole-new-year-2005-01-08.md) - 2005-01-08
+* [Betrayal Just Around the Corner](/archive/en/articles/archive/2005/01/betrayal-just-around-corner-2005-01-15.md) - 2005-01-15
+* [Betrayal Just Around the Corner](/archive/en/articles/archive/2005/01/謀叛はすぐそこに-2005-01-15.md) - 2005-01-15
+* [Betrayed Today](/archive/en/articles/archive/2005/01/本日謀叛-2005-01-22.md) - 2005-01-22
 * [Betrayed Today](/archive/en/articles/archive/feature/2005/01/betrayed-today-2005-01-22.md) - 2005-01-22
 * [So This Is Betrayal](/archive/en/articles/archive/feature/2005/01/so-betrayal-2005-01-29.md) - 2005-01-29
 * [Betrayal on the Streets](/archive/en/articles/archive/feature/2005/02/betrayal-streets-2005-02-05.md) - 2005-02-05

@@ -47,7 +47,7 @@ This week's desktop wallpaper is Adam Rex's amazing **[Mind Stone](https://gathe
 
 
 
-![](https://web.archive.org/web/20150922150707im_/http://archive.wizards.com/global/images/mtgcom_arcana_447_pic1_en.jpg)[1024x768 pixels](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=magic/images/mtgcom/arcana300/Wallpaper_MindStone_1024x768.jpg)  
+![](https://media.wizards.com/legacy/global/images/mtgcom_arcana_447_pic1_en.jpg)[1024x768 pixels](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=magic/images/mtgcom/arcana300/Wallpaper_MindStone_1024x768.jpg)  
 [800x600 pixels](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=magic/images/mtgcom/arcana300/Wallpaper_MindStone_800x600.jpg)
 
 

@@ -1,0 +1,186 @@
+
+---
+[Link to Wayback Machine](https://web.archive.org/web/20210502031620/https://magic.wizards.com/en/articles/archive/card-preview/marwyn-nurturer-2018-04-06)
+
+[_metadata_:author]:- "Quinn Murphy"
+[_metadata_:description]:- "Quinn previews a new legend destined to lead one of Magic's most powerful tribes into battle."
+[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1266246"
+[_metadata_:publish_date]:- "2018-04-06"
+[_metadata_:source]:- "div-main-content"
+[_metadata_:title]:- "Marwyn, the Nurturer"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 03:16:20"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502031620id_/https://magic.wizards.com/en/articles/archive/card-preview/marwyn-nurturer-2018-04-06"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/card-preview/marwyn-nurturer-2018-04-06"
+---
+
+
+Marwyn, the Nurturer
+====================
+
+
+
+ Posted in **Card Preview**
+ on April 6, 2018 
+
+
+
+
+
+
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/authorpic_quinnmurphy_0.jpg)
+By Quinn Murphy
+
+
+
+
+ Quinn has been fascinated with Magic ever since Revised Edition. When he is not spending time with his lovely wife and amazing son, he's constantly brewing decks for, playing, and writing about Magic. 
+
+
+
+
+
+
+Old Tribe, New Legends
+======================
+
+
+Elves are one of the oldest tribes in *Magic*. They've had a variety of different themes over the years, but are well established as one of the most consistently explosive tribes in the game. Their main tribal power is to generate mana on a per-creature basis, with the biggest payouts coming from having many Elves on the field to generate either a massive, game-winning attack or enough mana to cast something extremely advantageous.
+
+
+But *Dominaria* isn't just about constants of *Magic: The Gathering*.
+
+
+It's about legends.
+
+
+The legend we are talking about today is one of the coolest Elf cards I have ever seen. Its lineage is in parts [Elvish Archdruid](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Elvish+Archdruid), [Priest of Titania](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Priest+of+Titania), and . . . [Champion of the Parish](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Champion+of+the+Parish).
+
+
+*Midwife to mothers and leader to all.*
+
+
+Marwyn, the Nurturer
+====================
+
+
+![](https://media.wizards.com/2018/dom/en_FLEFcdDSDK.png)
+
+
+Marwyn is a powerful reward for playing Elves. Each one you put on the battlefield increments her power and toughness—her ability to generate mana—by one. She is notably different from [Elvish Archdruid](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Elvish+Archdruid) and [Priest of Titania](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Priest+of+Titania) because their powers are affected by the number of Elves currently in play, while Marwyn only cares about what has entered the battlefield after her.
+
+
+Marwyn also only pumps herself, while [Elvish Archdruid](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Elvish+Archdruid) augments all your other Elves. Her ability to augment only herself is both a strength and a weakness. She is a lightning rod for removal, but if not removed, she can quickly become unstoppably large.
+
+
+Her legendary status also keeps her from being too crazy and out of control. Can you imagine multiples of her on a battlefield?
+
+
+Despite these limitations, I think Marwyn is crazy powerful and fun. Her ability combines well with more things than you'd think at first glance. Let's explore her many synergies in Standard.
+
+
+Midwife of All Synergies
+========================
+
+
+Even before considering what Elves *Dominaria* will give us, there are many Elves already waiting for Marwyn's guidance in Standard—21 of them, to be exact. While not all will work perfectly in a Marwyn deck, a few are notably great fits.
+
+
+* [![Rishkar, Peema Renegade](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Rishkar%2C+Peema+Renegade)](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rishkar%2C+Peema+Renegade)
+* [![Druid of the Cowl](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Druid+of+the+Cowl)](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Druid+of+the+Cowl)
+* [![Narnam Renegade](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Narnam+Renegade)](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Narnam+Renegade)
+* [![Greenwheel Liberator](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Greenwheel+Liberator)](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Greenwheel+Liberator)
+* [![Kujar Seedsculptor](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Kujar+Seedsculptor)](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kujar+Seedsculptor)
+
+This isn't enough to make an Elf deck on its own, but there is a chance that *Dominaria* will bring us enough Elves to round things out.
+
+
+Gathering Energy
+================
+
+
+Marwyn, the Nurturer might also be a part of an "Energy Elf" deck, using the many energy-creating Elves from *Kaladesh* along with the "Modules" combo to make it more explosive and consistent.
+
+
+[![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Animation+Module)](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Animation+Module) [![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Decoction+Module)](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Decoction+Module)[![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=FABRICATION+MODULE)](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fabrication+Module)
+The Modules combo, if you haven't seen it, works like this (with all the Modules on the board):
+
+
+* Play a creature, which generates an energy counter from [Decoction Module](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Decoction+Module).
+* The energy from [Decoction Module](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Decoction+Module) allows you to put a +1/+1 counter on a creature you control because of [Fabrication Module](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fabrication+Module).
+* The +1/+1 counter from [Fabrication Module](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fabrication+Module) triggers [Animation Module](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Animation+Module), which allows you to pay one mana to make a 1/1 Servo, which triggers [Decoction Module](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Decoction+Module) . . .
+
+This combo can get out of control fast, but we live in [Abrade](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Abrade)'s world and therefore need a deck that can get maximum value from the combo in parts or even when it doesn't show up at all. Coincidentally, there are cards that supplement that general utility. Many of these cards are Elves or Elf-adjacent:
+
+
+* [![Peema Aether-Seer](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Peema+Aether-Seer)](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Peema+Aether-Seer)
+* [![Servant of the Conduit](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Servant+of+the+Conduit)](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Servant+of+the+Conduit)
+* [![Sage of Shaila's Claim](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Sage+of+Shaila%27s+Claim)](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sage+of+Shaila%27s+Claim)
+* [![Walking Ballista](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Walking+Ballista)](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Walking+Ballista)
+* [![Architect of the Untamed](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Architect+of+the+Untamed)](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Architect+of+the+Untamed)
+* [![Metallic Mimic](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Metallic+Mimic)](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Metallic+Mimic)
+
+Marwyn herself maximizes each part of the Modules combo. When you cast Elves, she acts as a [Fabrication Module](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fabrication+Module), putting +1/+1 counters on herself and triggering [Animation Module](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Animation+Module). She can get large enough to tap for tons of mana and pay for many more activations of the [Animation Module](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Animation+Module) ability, growing even larger in the process.
+
+
+Supporting Cast
+===============
+
+
+* [![Panharmonicon](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Panharmonicon)](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Panharmonicon)
+* [![Vanquisher's Banner](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Vanquisher%27s+Banner)](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vanquisher%27s+Banner)
+* [![Huatli, Radiant Champion](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Huatli%2C+Radiant+Champion)](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Huatli%2C+Radiant+Champion)
+* [![Rhonas's Monument](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Rhonas%27s+Monument)](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rhonas%27s+Monument)
+
+[Panharmonicon](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Panharmonicon)'s card text is effectively "make target [enters-the-battlefield ability](http://magic.wizards.com/en/articles/archive/play-design/m-files-hour-devastation-part-1-2017-07-14#enters-the-battlefield-effects) absolutely insane." It gets no saner with Marwyn, doubling her rate of power and mana growth as you play Elves.
+
+
+[Vanquisher's Banner](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vanquisher%27s+Banner) is an artifact that offers a small bump to Marwyn's (and your other Elves') power. More importantly, it gives you "throughput" by letting you draw cards when you cast more Elves. Marwyn is the type of card that can easily generate enough mana to empty your hand, so a way to keep it replenished is helpful.
+
+
+Marwyn, the Nurturer and [Huatli, Radiant Champion](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Huatli%2C+Radiant+Champion) are a heck of a combo. Remember that Marwyn's mana ability is based on her power, not the number of counters on her! Huatli hitting the board with a sizable number of creatures can turn into a sudden explosion of mana. If you have four creatures, you can use Huatli's -1 ability to get back even more mana than the planeswalker cost. Then you can use that mana to create more Elves, pumping Marwyn and making Huatli's ability more powerful at the same time.
+
+
+[Rhonas's Monument](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rhonas%27s+Monument) deserves special attention with Marwyn. Each Elf you put into play with Marwyn and the Monument out nets you extra mana. The Elf will cost one less *and* will grant an extra counter to Marwyn, which you can also give the Monument's +2/+2 and trample, turning each Elf into a potential three-mana boost. Marwyn can use this to cast more Elves, or possibly just win the game, since it doesn't take too many iterations for the legend to become overwhelmingly large.
+
+
+Adapting
+========
+
+
+My last Standard combination with Marwyn is a *huuuge* stretch . . . but in my defense, her flavor text does say "leader to all."
+
+
+[![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Arcane+Adaptation)](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Arcane+Adaptation)
+[Arcane Adaptation](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Arcane+Adaptation) combined with Marwyn gives her even more explosive capacity at the expense of more setup.
+
+
+Marwyn and Arcane Adaption combined with cards like [Hidden Stockpile](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hidden+Stockpile), [Sram's Expertise](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sram%27s+Expertise), and [Call to the Feast](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Call+to+the+Feast) allow Marwyn to get bigger at an even faster rate. I didn't include it in the energy deck above, but Adaption with the Module combo turns your Servos from [Animation Module](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Animation+Module) into Elves, effectively doubling the combo growth rate.
+
+
+The problem here is you need a card that you can only have one playset of to create the linkage of creature types. I mention it because it is fun and because brewers have dreams, but it is unlikely to be a part of any truly competitive strategy.
+
+
+A New Legend
+============
+
+
+Marwyn, the Nurturer is an exciting card to me. The linear combos are obvious and powerful, but there are many more interactions that seem at the very least fun and interesting. We can't be sure which will be top-tier yet, but I'm interested to see what that might be!
+
+
+
+
+---
+
+
+
+
+
+[![](https://media.magic.wizards.com/VgF5xjZ0Ee_FooterAd_Desktop.jpg)![](https://media.magic.wizards.com/VgF5xjZ0Ee_FooterAd_Mobile.jpg)![](https://media.magic.wizards.com/VgF5xjZ0Ee_FooterAd_Tablet.jpg)](https://magic.wizards.com/en/products/Buy-a-Box/)
+
+
+
+
+
+
+

@@ -1,17 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20161005064258/http://magic.wizards.com/en/articles/archive/feature/2011-united-states-national-championship-2009-05-06)
+[Link to Wayback Machine](https://web.archive.org/web/20210502213050/https://magic.wizards.com/en/articles/archive/feature/2011-united-states-national-championship-2009-05-06)
 
 [_metadata_:author]:- "Wizards of the Coast"
-[_metadata_:description]:- "Date: August 5-7, 2011Event Location: GEN CON - Indianapolis Convention CenterAddress: South Capitol Ave, Indianapolis, IndianaEligibilityThe Magic: the Gathering United States National Championship is an invitation-only event, open to citizens or permanent residents of United States who have won an invitation to Nationals through DCI ratings or from qualifying events such as National Qualifiers."
+[_metadata_:description]:- "Date: August 5-7, 2011Event Location: GEN CON - Indianapolis Convention CenterAddress: South Capitol Ave, Indianapolis, IndianaEligibilityThe Magic: the Gathering United States National Championship is an invitation-only event, open to citizens or permanent residents of United States who have won an invitation to Nationals through DCI ratings or from qualifying events such as"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "727441"
 [_metadata_:publish_date]:- "2009-05-06"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2011 United States National Championship"
-[_metadata_:wayback_capture_timestamp]:- "2016-10-05 06:42:58"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161005064258id_/http://magic.wizards.com/en/articles/archive/feature/2011-united-states-national-championship-2009-05-06"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/2011-united-states-national-championship-2009-05-06"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 21:30:50"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502213050id_/https://magic.wizards.com/en/articles/archive/feature/2011-united-states-national-championship-2009-05-06"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-united-states-national-championship-2009-05-06"
 ---
 
 
@@ -28,7 +28,7 @@
 
 
 
-![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
 By Wizards of the Coast
 
 

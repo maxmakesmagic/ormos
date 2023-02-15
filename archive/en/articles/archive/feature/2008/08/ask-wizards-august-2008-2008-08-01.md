@@ -1,17 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20160821020550/http://magic.wizards.com/en/articles/archive/feature/ask-wizards-august-2008-2008-08-01)
+[Link to Wayback Machine](https://web.archive.org/web/20210923175406/https://magic.wizards.com/en/articles/archive/feature/ask-wizards-august-2008-2008-08-01)
 
 [_metadata_:author]:- "Wizards of the Coast"
-[_metadata_:description]:- "Do you have a question about Magic: The Gathering or Wizards of the Coast? Send it, along with your name and location, to us via this email form. We'll post a new question and answer each day."
+[_metadata_:description]:- "Do you have a question about Magic: The Gathering or Wizards of the Coast? Send it, along with your name and location, to us via this email form. We'll post a new question and answer each day.I've always wondered why mana abilities are always excluded on card's effects, like Stifle and Voidslime. What makes these abilities so special that they cannot be targeted like other"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
 [_metadata_:node]:- "663351"
 [_metadata_:publish_date]:- "2008-08-01"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Ask Wizards - August, 2008"
-[_metadata_:wayback_capture_timestamp]:- "2016-08-21 02:05:50"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160821020550id_/http://magic.wizards.com/en/articles/archive/feature/ask-wizards-august-2008-2008-08-01"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/ask-wizards-august-2008-2008-08-01"
+[_metadata_:wayback_capture_timestamp]:- "2021-09-23 17:54:06"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210923175406id_/https://magic.wizards.com/en/articles/archive/feature/ask-wizards-august-2008-2008-08-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ask-wizards-august-2008-2008-08-01"
 ---
 
 
@@ -28,7 +28,7 @@ Ask Wizards - August, 2008
 
 
 
-![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
 By Wizards of the Coast
 
 
@@ -45,18 +45,18 @@ By Wizards of the Coast
 
 I've always wondered why mana abilities are always excluded on card's effects, like Stifle and Voidslime. What makes these abilities so special that they cannot be targeted like other abilities?  
 RULES CORNER**August 29, 2008 – Magic Rules Corner**
-**Q:** I've always wondered why mana abilities are always excluded on card's effects, like [Stifle](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stifle) and [Voidslime](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Voidslime). What makes these abilities so special that they cannot be targeted like other abilities? On another note, what if an ability was both a mana and a non-mana ability such as: "destroy target creature, then add BBB to your mana pool". Could that ability be countered or not?  
+**Q:** I've always wondered why mana abilities are always excluded on card's effects, like [Stifle](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stifle) and [Voidslime](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Voidslime). What makes these abilities so special that they cannot be targeted like other abilities? On another note, what if an ability was both a mana and a non-mana ability such as: "destroy target creature, then add BBB to your mana pool". Could that ability be countered or not?  
  –Brendan, Southbury, CT, USA
 
 
 **A:** From the **Magic** Rules Corner:
 
 
-![Voidslime](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Voidslime)[Stifle](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stifle) and [Voidslime](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Voidslime) don't go out of their way to exclude mana abilities. They naturally exclude them, and they contain reminder text just to make sure everyone knows that mana abilities can't be targeted. [Faith's Fetters](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Faith%27s+Fetters), on the other hand, does go out of its way to exclude mana abilities from its effect. It doesn't have to. [Arrest](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Arrest) affects all activated abilities, including any that are mana abilities. Whether a card works like [Faith's Fetters](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Faith%27s+Fetters) or [Arrest](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Arrest) is a power-level decision made by R&D. So the real question here isn't about why effects exclude mana abilities—it's about why mana abilities can't be targeted. And that's a good question.
+![Voidslime](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Voidslime)[Stifle](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stifle) and [Voidslime](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Voidslime) don't go out of their way to exclude mana abilities. They naturally exclude them, and they contain reminder text just to make sure everyone knows that mana abilities can't be targeted. [Faith's Fetters](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Faith%27s+Fetters), on the other hand, does go out of its way to exclude mana abilities from its effect. It doesn't have to. [Arrest](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Arrest) affects all activated abilities, including any that are mana abilities. Whether a card works like [Faith's Fetters](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Faith%27s+Fetters) or [Arrest](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Arrest) is a power-level decision made by R&D. So the real question here isn't about why effects exclude mana abilities—it's about why mana abilities can't be targeted. And that's a good question.
  Mana abilities can't be countered because they don't use the stack. They are played (or trigger when another mana ability is played) and immediately resolve. They can't be targeted because there's no time to target them; they simply happen.
 
 
-This is because you can play activated mana abilities at times that you couldn't normally play anything. You can play a mana ability whenever you can ordinarily play a spell or ability, of course. In addition, you can play a mana ability in the middle of playing another spell or activated ability that costs mana. You can also play a mana ability any time a rule or effect asks for a mana payment, even while that spell or ability is resolving. (Think [Mana Leak](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mana+Leak), for example.)
+This is because you can play activated mana abilities at times that you couldn't normally play anything. You can play a mana ability whenever you can ordinarily play a spell or ability, of course. In addition, you can play a mana ability in the middle of playing another spell or activated ability that costs mana. You can also play a mana ability any time a rule or effect asks for a mana payment, even while that spell or ability is resolving. (Think [Mana Leak](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mana+Leak), for example.)
 
 
 Regarding your second question, an ability can't be both a mana ability and a non-mana ability; it's either a mana ability or it's not. Only two kinds of abilities are mana abilities, according to rule 406.1:
@@ -66,15 +66,15 @@ Regarding your second question, an ability can't be both a mana ability and a no
 > A mana ability is either (a) an activated ability without a target that could put mana into a player's mana pool when it resolves or (b) a triggered ability without a target that triggers from a mana ability and could produce additional mana. A mana ability can generate other effects at the same time it produces mana.
 
 
-Most mana abilities are activated abilities (a), such as those of mana-producing lands and [Llanowar Elves](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Llanowar+Elves):
+Most mana abilities are activated abilities (a), such as those of mana-producing lands and [Llanowar Elves](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Llanowar+Elves):
 
 
 ![Llanowar Elves](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Llanowar+Elves)
-Triggered mana abilities (b) are rarer. Most of them are abilities much like that of [Heartbeat of Spring](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Heartbeat+of+Spring):
+Triggered mana abilities (b) are rarer. Most of them are abilities much like that of [Heartbeat of Spring](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Heartbeat+of+Spring):
 
 
 ![Heartbeat of Spring](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Heartbeat+of+Spring)
-Activated abilities are covered under (a) even if they do something besides making mana, as long as they don't have a target. So [Chromatic Sphere](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chromatic+Sphere) has a mana ability:
+Activated abilities are covered under (a) even if they do something besides making mana, as long as they don't have a target. So [Chromatic Sphere](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chromatic+Sphere) has a mana ability:
 
 
 ![Chromatic Sphere](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Chromatic+Sphere)
@@ -86,7 +86,7 @@ Triggered abilities that produce mana but trigger on something other than mana a
 
 
 ![Cathodion](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Cathodion)
-Abilities with targets are not mana abilities, even if they produce mana.[Witch Engine](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Witch+Engine) has an activated ability that's pretty close to the one you describe. It's an activated ability, but it isn't a mana ability because it has a target. This ability uses the stack and can be responded to normally.
+Abilities with targets are not mana abilities, even if they produce mana.[Witch Engine](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Witch+Engine) has an activated ability that's pretty close to the one you describe. It's an activated ability, but it isn't a mana ability because it has a target. This ability uses the stack and can be responded to normally.
 
 
 ![Witch Engine](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Witch+Engine)
@@ -106,7 +106,7 @@ I remember a couple of years ago Sideboard magazine, I was wondering why did the
 Sideboard Magazine had a bit of topic drift over the years. It started out highly focused on tournaments (especially high-level tournaments like Pro Tours and Worlds), but when *The Duelist* changed to *TopDeck* and widened its focus to cover more non-**Magic** games, we shifted *Sideboard* to be more generally focused on **Magic**.
 
 
-As an example of this shifting focus, the cover of issue 37 (in July 2001) was a **Magic** card (the *Eighth Edition* [Mahamoti Djinn](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mahamoti+Djinn)), rather than a player. From that point on, *Sideboard* covered new sets and decks almost as much as it covered events and players. Meanwhile, **Sideboard Online** was still strictly event-focused, as **magicthegathering.com** had come into being as the general **Magic** website.
+As an example of this shifting focus, the cover of issue 37 (in July 2001) was a **Magic** card (the *Eighth Edition* [Mahamoti Djinn](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mahamoti+Djinn)), rather than a player. From that point on, *Sideboard* covered new sets and decks almost as much as it covered events and players. Meanwhile, **Sideboard Online** was still strictly event-focused, as **magicthegathering.com** had come into being as the general **Magic** website.
 
 
 Then in October 2003, Aaron Forsythe went from "editor of **magicthegathering.com**" to "person in R&D". As [this article](/en/articles/archive/future-magicthegatheringcom-2003-10-08) explained at the time, this meant we could combine **Sideboard Online** and **magicthegathering.com** into one site. But that left the magazine hanging out in limbo, and we decided to focus our efforts (and, frankly, money!) on the online efforts.
@@ -152,7 +152,7 @@ How does an artist catch my eye? Well, drawing and painting are a given. You abs
 Your portfolio has to leave an impression of what your work's about... What you're about as an illustrator. That's how you get assignments.
 
 
-It's rk Post's approach and thought process that gets [Faerie Macabre](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Faerie+Macabre) assigned to him. It's how Jim Murray thinks and solves problems on top of just how his work 'looks' that gets him [Gaea's Herald](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gaea%27s+Herald).
+It's rk Post's approach and thought process that gets [Faerie Macabre](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Faerie+Macabre) assigned to him. It's how Jim Murray thinks and solves problems on top of just how his work 'looks' that gets him [Gaea's Herald](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gaea%27s+Herald).
 
 
 Why did Adam Rex get *Shadowmoor* Packaging? Because he's Adam Rex, not just because he's a competent painter. I was so hot on the idea of having Adam and ONLY Adam on *Shadowmoor* packaging that I lined him up a YEAR in advance to make sure he could fit it in his schedule.
@@ -173,7 +173,7 @@ JJ
   
 **Magic**  seems to have a lot of recurring jokes I don't understand. Could someone PLEASE explain exactly what's up with "Gleemax" and "Ach! Hans, Run!"...?  
 **August 26, 2008**
-**Q:** **Magic**  seems to have a lot of recurring jokes I don't understand. Could someone PLEASE explain exactly what's up with "[Gleemax](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gleemax)" and ["Ach! Hans, Run!"](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=%22Ach%21+Hans%2C+Run%21%22)...?  
+**Q:** **Magic**  seems to have a lot of recurring jokes I don't understand. Could someone PLEASE explain exactly what's up with "[Gleemax](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gleemax)" and ["Ach! Hans, Run!"](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=%22Ach%21+Hans%2C+Run%21%22)...?  
  –DG, Seattle, WA, USA
 
 
@@ -188,7 +188,7 @@ No problem. Gleemax is an alien brain in a jar that runs R&D. "Ach Hans, Run!" i
 
   
 When Faceless Butcher comes into play and targets an Avatar of Woe, can the Avatar's ability be activated in response and destroy the Butcher?RULES CORNER**August 22, 2008 – Magic Rules Corner**
-**Q:** My friends and I are wondering, when [Faceless Butcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Faceless+Butcher) comes into play and targets an [Avatar of Woe](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Avatar+of+Woe), can the Avatar's ability be activated in response and destroy the [Faceless Butcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Faceless%2BButcher)  
+**Q:** My friends and I are wondering, when [Faceless Butcher](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Faceless+Butcher) comes into play and targets an [Avatar of Woe](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Avatar+of+Woe), can the Avatar's ability be activated in response and destroy the [Faceless Butcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Faceless%2BButcher)  
  –Oscar, Guatemala City, Guatemala
 
 
@@ -198,31 +198,31 @@ When Faceless Butcher comes into play and targets an Avatar of Woe, can the Avat
 Yes, it can... but it isn't going to do what you probably want.
 
 
-Let's say Player A controls an unsuspecting [Avatar of Woe](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Avatar+of+Woe) (and it's not tapped, summoning sick, [Arrest](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Arrest)ed, [Snakeform](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Snakeform)ed, etc.).
+Let's say Player A controls an unsuspecting [Avatar of Woe](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Avatar+of+Woe) (and it's not tapped, summoning sick, [Arrest](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Arrest)ed, [Snakeform](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Snakeform)ed, etc.).
 
 
 ![Avatar of Woe](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=avatar+of+woe)
-Player B plays [Faceless Butcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Faceless+Butcher), and nobody has any responses, so [Faceless Butcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Faceless+Butcher) resolves (as a creature resolves, it's put into play). Its controller puts its "comes into play" ability on the stack, choosing [Avatar of Woe](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Avatar+of+Woe) as the target.
+Player B plays [Faceless Butcher](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Faceless+Butcher), and nobody has any responses, so [Faceless Butcher](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Faceless+Butcher) resolves (as a creature resolves, it's put into play). Its controller puts its "comes into play" ability on the stack, choosing [Avatar of Woe](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Avatar+of+Woe) as the target.
 
 
 ![Faceless Butcher](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Faceless+Butcher)
-Now, each player has a chance to respond before the ability resolves. Player A decides to tap [Avatar of Woe](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Avatar+of+Woe) to play its activated ability, choosing [Faceless Butcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Faceless+Butcher) as the target. That ability goes on the stack on top of [Faceless Butcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Faceless+Butcher)'s first triggered ability, so it will resolve first.
+Now, each player has a chance to respond before the ability resolves. Player A decides to tap [Avatar of Woe](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Avatar+of+Woe) to play its activated ability, choosing [Faceless Butcher](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Faceless+Butcher) as the target. That ability goes on the stack on top of [Faceless Butcher](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Faceless+Butcher)'s first triggered ability, so it will resolve first.
 
 
-Everyone passes, so the top item of the stack—[Avatar of Woe](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Avatar+of+Woe)'s activated ability—resolves, destroying [Faceless Butcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Faceless+Butcher). This triggers the [Faceless Butcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Faceless+Butcher)'s second, "leaves play" triggered ability, so its controller puts that ability on the stack.
+Everyone passes, so the top item of the stack—[Avatar of Woe](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Avatar+of+Woe)'s activated ability—resolves, destroying [Faceless Butcher](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Faceless+Butcher). This triggers the [Faceless Butcher](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Faceless+Butcher)'s second, "leaves play" triggered ability, so its controller puts that ability on the stack.
 
 
-![Living Wish](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Living+Wish)Abilities on the stack exist independently of their sources, so even though [Faceless Butcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Faceless+Butcher) has been destroyed, its first triggered ability is still on the stack, now with its second triggered ability on top of the first.
+![Living Wish](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Living+Wish)Abilities on the stack exist independently of their sources, so even though [Faceless Butcher](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Faceless+Butcher) has been destroyed, its first triggered ability is still on the stack, now with its second triggered ability on top of the first.
  Everyone passes again, so the second triggered ability resolves and tries to "return the removed card to play." But with the first triggered ability still on the stack, there isn't any removed card, so the ability does as much as it can—which is nothing—and finishes resolving.
 
 
-The first triggered ability is *still* on the stack (seems like it's been there forever, doesn't it?), but it's finally at the front of the line. Everyone passes again, so that first trigger resolves and removes [Avatar of Woe](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Avatar+of+Woe) from the game.
+The first triggered ability is *still* on the stack (seems like it's been there forever, doesn't it?), but it's finally at the front of the line. Everyone passes again, so that first trigger resolves and removes [Avatar of Woe](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Avatar+of+Woe) from the game.
 
 
-Here's the thing, though. Because [Faceless Butcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Faceless+Butcher)'s "leaves play" ability has already resolved, that Avatar isn't coming back from the removed-from-the-game zone unless a card like [Living Wish](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Living+Wish) or [Riftsweeper](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Riftsweeper) says so.
+Here's the thing, though. Because [Faceless Butcher](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Faceless+Butcher)'s "leaves play" ability has already resolved, that Avatar isn't coming back from the removed-from-the-game zone unless a card like [Living Wish](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Living+Wish) or [Riftsweeper](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Riftsweeper) says so.
 
 
-Some decks pair [Faceless Butcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Faceless+Butcher) with sacrifice outlets to pull this trick, and there's a similar combo involving [Oblivion Ring](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Oblivion+Ring) and [Vedalken Mastermind](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vedalken+Mastermind).
+Some decks pair [Faceless Butcher](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Faceless+Butcher) with sacrifice outlets to pull this trick, and there's a similar combo involving [Oblivion Ring](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Oblivion+Ring) and [Vedalken Mastermind](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vedalken+Mastermind).
 
 
 *The **Magic** Rules Corner is a weekly feature dedicated to answering your rules questions. For more help with **Magic** rules, check out the [rules page](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=magic/rules) and the [Rules Q&A Forum](http://forums.gleemax.com/forumdisplay.php?s=&forumid=154).*
@@ -264,7 +264,7 @@ JJ
 In the spirit of "What would a 1/1 colorless Sliver be if every other Sliver were on the field?" I was wondering what would Reaper King be if it was enchanted with every two-color aura (Runes of the Deus, Clout of the Dominus) from *Shadowmoor* and *Eventide*?  
  –Tapani  
 **August20, 2008**
-**Q:** In the spirit of "What would a 1/1 colorless Sliver be if every other Sliver were on the field?" I was wondering what would [Reaper King](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Reaper+King) be if it was enchanted with every two-color aura ([Runes of the Deus](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Runes+of+the+Deus), [Clout of the Dominus](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Clout+of+the+Dominus)) from *Shadowmoor* and *Eventide*?  
+**Q:** In the spirit of "What would a 1/1 colorless Sliver be if every other Sliver were on the field?" I was wondering what would [Reaper King](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Reaper+King) be if it was enchanted with every two-color aura ([Runes of the Deus](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Runes+of+the+Deus), [Clout of the Dominus](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Clout+of+the+Dominus)) from *Shadowmoor* and *Eventide*?  
  –Tapani, Finland
 
 
@@ -274,7 +274,7 @@ In the spirit of "What would a 1/1 colorless Sliver be if every other Sliver wer
 Well, for a start, it would look like this:
 
 
-![](https://media.magic.wizards.com/image_legacy_migration/magic/images/mtgcom/arcana1000/ask08202008.jpg)And it would be a 27/27 (+2/+2 from each enchantment except [Edge of the Divinity](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Edge+of+the+Divinity), which gives +3/+3) with the following rules text:
+![](https://media.magic.wizards.com/image_legacy_migration/magic/images/mtgcom/arcana1000/ask08202008.jpg)And it would be a 27/27 (+2/+2 from each enchantment except [Edge of the Divinity](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Edge+of+the+Divinity), which gives +3/+3) with the following rules text:
 
 
 
@@ -292,7 +292,7 @@ Well, for a start, it would look like this:
 So if you attacked with it, it would get through unblocked and do 54 points of damage (because of the double strike), gaining you 108 (thanks to the double lifelink) and letting you draw two cards and making your opponent discard two. Oh, and it would stay untapped in case you were worried about having a blocker next turn.
 
 
-Incidentally, you should put [Clout of the Dominus](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Clout+of+the+Dominus) on *last*, otherwise you're going to need to use something like [Retether](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Retether) to get the other Auras on once the [Reaper King](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Reaper+King) is untargetable.
+Incidentally, you should put [Clout of the Dominus](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Clout+of+the+Dominus) on *last*, otherwise you're going to need to use something like [Retether](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Retether) to get the other Auras on once the [Reaper King](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Reaper+King) is untargetable.
 
 
   
@@ -340,7 +340,7 @@ I've noticed that Legend cards don't always "fit" into the story… Their power/
 | --- | --- |
 | Gerrard Capashen | Tsabo Tavoc |
 
-Bet you're thinking of the fact that the [Tsabo Tavoc](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tsabo+Tavoc) card could beat the [Gerrard Capashen](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gerrard+Capashen) card in combat any day, while the opposite is true in the story, right? That's probably the most stark example of the sort of discontinuity that you're talking about, but those who work in **Magic** R&D and Continuity believe that we've done a fairly good job overall in keeping the link between cards and characters.
+Bet you're thinking of the fact that the [Tsabo Tavoc](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tsabo+Tavoc) card could beat the [Gerrard Capashen](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gerrard+Capashen) card in combat any day, while the opposite is true in the story, right? That's probably the most stark example of the sort of discontinuity that you're talking about, but those who work in **Magic** R&D and Continuity believe that we've done a fairly good job overall in keeping the link between cards and characters.
 
 
 There are a few factors that come into play. The first is that R&D's involvement with (and knowledge of the finer points of) the **Magic** backstory has fluctuated over the years. This was especially true with the Urza block, when Wizards' book publishing department began contracting novelists to creat **Magic** plots and characters. So that from that point on, R&D has depended on the story writers to communicate plot points. For example, [Vhati il-Dal](http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Vhati%2Bil-Dal), a legend from *Tempest*, was reduced in power and toughness because [Commander Greven il-Vec](http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Commander%2BGreven%2Bil-Vec) kills him in the story. The aforementioned Tsabo Tavoc and Gerrard issue might have turned out differently if the outcome of the Tsabo/Gerrard battle had been communicated to the developers in time - which it wasn't, due to the very different schedules R&D and novel writers have. 
@@ -356,18 +356,18 @@ Another fairly obvious factor is that gameplay has to come first. If a story poi
 Drowner Initiate's ability says " Whenever a player plays a blue spell, you may pay ![1 mana](https://media.magic.wizards.com/image_legacy_migration/images/Symbols/Symbol_1_mana.gif). If you do, target player puts the top two cards of his or her library into his or her graveyard." Can you pay for this ability more than once per spell?  
  –Jason  
 – RULES CORNER**August 15, 2008 – Magic Rules Corner**
-**Q:** [Drowner Initiate](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Drowner+Initiate)'s ability says " Whenever a player plays a blue spell, you may pay ![](https://web.archive.org/web/20211201201921im_/https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/colorless1.gif). If you do, target player puts the top two cards of his or her library into his or her graveyard." Can you pay for this ability more than once per spell?  
+**Q:** [Drowner Initiate](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Drowner+Initiate)'s ability says " Whenever a player plays a blue spell, you may pay ![](https://web.archive.org/web/20211201201921im_/https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/colorless1.gif). If you do, target player puts the top two cards of his or her library into his or her graveyard." Can you pay for this ability more than once per spell?  
  –Jason, Moberly, MO, USA
 
 
 **A:** From the **Magic** Rules Corner:
 
 
-![Drowner Initiate](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Drowner+Initiate)The answer to your question hinges on what kind of ability this is. You have to spend mana to use [Drowner Initiate](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Drowner+Initiate)'s ability, but it's not an activated ability like that of [Foxfire Oak](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Foxfire+Oak). Activated abilities have colons in them, and you can play them as often as you can pay their cost.
- [Drowner Initiate](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Drowner+Initiate)'s ability starts with "whenever," which is one of the words—along with "when" and "at"—that lets you know it's a *triggered ability*. Triggered abilities aren't played; they trigger and are then put on the stack.
+![Drowner Initiate](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Drowner+Initiate)The answer to your question hinges on what kind of ability this is. You have to spend mana to use [Drowner Initiate](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Drowner+Initiate)'s ability, but it's not an activated ability like that of [Foxfire Oak](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Foxfire+Oak). Activated abilities have colons in them, and you can play them as often as you can pay their cost.
+ [Drowner Initiate](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Drowner+Initiate)'s ability starts with "whenever," which is one of the words—along with "when" and "at"—that lets you know it's a *triggered ability*. Triggered abilities aren't played; they trigger and are then put on the stack.
 
 
-Here's the rule about optional triggered abilities like [Drowner Initiate](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Drowner+Initiate)'s:
+Here's the rule about optional triggered abilities like [Drowner Initiate](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Drowner+Initiate)'s:
 
 
 
@@ -381,10 +381,10 @@ Since we know it's a triggered ability, this rule answers your question:
 > 410.6. An ability triggers only once each time its trigger event occurs.
 
 
-That means that if you control a [Drowner Initiate](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Drowner+Initiate) and a player plays a blue spell, [Drowner Initiate](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Drowner+Initiate)'s ability triggers, you pick a target, and its ability goes on the stack above the spell. When the ability resolves (before the spell does, in case it matters), you have two options: pay ![](https://web.archive.org/web/20211201201921im_/https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/colorless1.gif), or do nothing. If you pay ![](https://web.archive.org/web/20211201201921im_/https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/colorless1.gif), the targeted player puts the top two cards of his or her library into his or her graveyard. You get the option to pay exactly once, and you can't choose to pay more.
+That means that if you control a [Drowner Initiate](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Drowner+Initiate) and a player plays a blue spell, [Drowner Initiate](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Drowner+Initiate)'s ability triggers, you pick a target, and its ability goes on the stack above the spell. When the ability resolves (before the spell does, in case it matters), you have two options: pay ![](https://web.archive.org/web/20211201201921im_/https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/colorless1.gif), or do nothing. If you pay ![](https://web.archive.org/web/20211201201921im_/https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/colorless1.gif), the targeted player puts the top two cards of his or her library into his or her graveyard. You get the option to pay exactly once, and you can't choose to pay more.
 
 
-When you have multiple Initiates, however, they trigger separately. If you have two [Drowner Initiate](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Drowner+Initiate)s and a player plays a blue spell, both abilities trigger, you pick a target for each, and they both go on the stack (one on top of the other, and both on top of the spell, in case it matters). For each of the abilities, you have the option to either pay ![](https://web.archive.org/web/20211201201921im_/https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/colorless1.gif) or do nothing, as above.
+When you have multiple Initiates, however, they trigger separately. If you have two [Drowner Initiate](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Drowner+Initiate)s and a player plays a blue spell, both abilities trigger, you pick a target for each, and they both go on the stack (one on top of the other, and both on top of the spell, in case it matters). For each of the abilities, you have the option to either pay ![](https://web.archive.org/web/20211201201921im_/https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/colorless1.gif) or do nothing, as above.
 
 
 So while you can't pay more than once if you have a single Initiate, you can pay up to one time for each Initiate you control.
@@ -468,7 +468,7 @@ Was art for a Merit Lage token ever commissioned, in the same vein as the Kaldra
 **A:** From **Monty Ashley**, **Magic** Web Team:
 
 
-Ah, you're asking if we made a token for [Dark Depths](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dark+Depths) to create. And we did! It was given out at [*Coldsnap* Release Tournaments](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/arcana/1119) in July 2006. It looks like this:
+Ah, you're asking if we made a token for [Dark Depths](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dark+Depths) to create. And we did! It was given out at [*Coldsnap* Release Tournaments](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/arcana/1119) in July 2006. It looks like this:
 
 
 ![Marit Lage Token](https://media.magic.wizards.com/image_legacy_migration/magic/images/mtgcom/arcana1000/1119_maritlagetoken.jpg)And here's a better view of the art. Check out the tiny guy at the bottom, which gives some idea how big this thing is.
@@ -477,8 +477,8 @@ Ah, you're asking if we made a token for [Dark Depths](http://gatherer.wizards.c
 ![Marit_Lage_Token_640](https://media.magic.wizards.com/image_legacy_migration/magic/images/cardart/CSP/Marit_Lage_Token_640.jpg)  
 *Marit Lage Token art by Stephan Martiniere*
   
-I recently acquired some [Serra Angel](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Serra+Angel)s, and was wondering if you could give me some clue as to which set they are from. I shall set out the distinguishing features.... Thanks, you will be saving us much grief!  
- - Graeme and Andrew – ASK WIZARDS CLASSIC**August 11, 2008 – Ask Wizards Classic****Q:** I recently acquired some [Serra Angel](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Serra+Angel)s, and was wondering if you could give me some clue as to which set they are from. I shall set out the distinguishing features:
+I recently acquired some [Serra Angel](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Serra+Angel)s, and was wondering if you could give me some clue as to which set they are from. I shall set out the distinguishing features.... Thanks, you will be saving us much grief!  
+ - Graeme and Andrew – ASK WIZARDS CLASSIC**August 11, 2008 – Ask Wizards Classic****Q:** I recently acquired some [Serra Angel](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Serra+Angel)s, and was wondering if you could give me some clue as to which set they are from. I shall set out the distinguishing features:
 
 
 1. Illustrated by Douglas Schuler
@@ -494,7 +494,7 @@ Thanks, you will be saving us much grief!
 
 
 **A:** From **Doug Beyer**, MagicTheGathering.com web developer:  
-It sounds like the [Serra Angel](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Serra+Angel) in question is from the *Revised* set, the set that came between *Unlimited* and *Fourth Edition*. It can be tough to identify cards in that period, so here's an unofficial **[Serra Angel](http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Serra%2BAngel) IDENTIFICATION GUIDE**: 
+It sounds like the [Serra Angel](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Serra+Angel) in question is from the *Revised* set, the set that came between *Unlimited* and *Fourth Edition*. It can be tough to identify cards in that period, so here's an unofficial **[Serra Angel](http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Serra%2BAngel) IDENTIFICATION GUIDE**: 
 
 
 
@@ -504,7 +504,7 @@ It sounds like the [Serra Angel](http://gatherer.wizards.com/Pages/Card/Details.
 Here's how you might come to the conclusion that it's a *Revised* card. First of all, *Alpha* and *Beta* cards are black-bordered, so they're out. The *Unlimited* Serra has the old "Does not tap to attac"' wording, and has the *Unlimited* set's characteristic [bevel](http://archive.wizards.com/default.asp?x=mtgcom/asksearchablearchive&term=difference_between_unlimited) just inside the white border. The *Revised* Serra has a washed-out look to the print, no bevel, and the updated "Attacking does not cause Serra Angel to tap" wording. The *Fourth Edition* one has modern-style [white mana symbols](/en/articles/archive/white-mana-symbol-2003-02-06) and a richer color saturation. *Fifth Edition* cards carry no expansion symbol, so a *Fifth* card would look similar to a *Fourth Edition* one, but Serra wasn't printed in *Fifth* or *Sixth Edition*, so that's out as well. And the *Seventh* and *Eighth Edition* cards have the new Serra art.
 
 
-So there you go. Congratulations on your new *Revised* [Serra Angel](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Serra+Angel)s!
+So there you go. Congratulations on your new *Revised* [Serra Angel](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Serra+Angel)s!
 
 
 *This question first appeared on [January 30, 2004](/en/articles/archive/ask-wizards-march-2004-2004-03-01). Since then, Doug has moved from web development to **Magic** creative writing, and all the Serra Angels since then have expansion symbols, which helps a lot with identification. Ask Wizards–Classic is a weekly feature that highlights interesting questions and answers from the Ask Wizards archives, which go back to January 2002. To search the archive to see if your question has already been answered, use the "Search Ask Wizards" button near the top of the page.*
@@ -514,7 +514,7 @@ So there you go. Congratulations on your new *Revised* [Serra Angel](http://gath
 *Eventide*'s Necroskitter has the ability to take over creatures with -1/-1 counters on them from other players as soon as they are put in the graveyard. I was wondering though what would happen if in a multiplayer game more than one person owns a Necroskitter and a third person's creature dies with a -1/-1 on it?  
  –John  
 – RULES CORNER**August 8, 2008 – Magic Rules Corner**
-**Q:** *Eventide*'s [Necroskitter](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Necroskitter) has the ability to take over creatures with -1/-1 counters on them from other players as soon as they are put in the graveyard. I was wondering though what would happen if in a multiplayer game more than one person owns a [Necroskitter](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Necroskitter) and a third person's creature dies with a -1/-1 on it?  
+**Q:** *Eventide*'s [Necroskitter](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Necroskitter) has the ability to take over creatures with -1/-1 counters on them from other players as soon as they are put in the graveyard. I was wondering though what would happen if in a multiplayer game more than one person owns a [Necroskitter](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Necroskitter) and a third person's creature dies with a -1/-1 on it?  
  –John, Sydney, Australia
 
 
@@ -536,13 +536,13 @@ Ah, APNAP order! ...What was that, again?
 > 103.4. If multiple players would make choices and/or take actions at the same time, the active player (the player whose turn it is) makes any choices required, then the next player in turn order (usually the player seated to the active player's left) makes any choices required, followed by the remaining nonactive players in turn order. Then the actions happen simultaneously. This rule is often referred to as the "Active Player, Nonactive Player (APNAP) order" rule.
 
 
-That means that to figure out whose [Necroskitter](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Necroskitter) trigger goes on the stack first, you start with the player whose turn it is and go around the table in turn order until you find a [Necroskitter](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Necroskitter). That [Necroskitter](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Necroskitter)'s trigger goes on the stack first. Go all around the table this way, putting all the [Necroskitter](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Necroskitter) triggers on the stack.
+That means that to figure out whose [Necroskitter](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Necroskitter) trigger goes on the stack first, you start with the player whose turn it is and go around the table in turn order until you find a [Necroskitter](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Necroskitter). That [Necroskitter](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Necroskitter)'s trigger goes on the stack first. Go all around the table this way, putting all the [Necroskitter](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Necroskitter) triggers on the stack.
 
 
-Because the stack resolves from top to bottom, the trigger controlled by the last player in turn order will resolve first. [Necroskitter](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Necroskitter)'s ability includes the word "may," so it's optional. The player whose trigger resolves first has the option of returning the creature to play. If he or she does, any other [Necroskitter](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Necroskitter) triggers won't do anything. (This is true even if the creature dies again with the trigger still on the stack, because the game treats it as a different object when it changes zones.)
+Because the stack resolves from top to bottom, the trigger controlled by the last player in turn order will resolve first. [Necroskitter](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Necroskitter)'s ability includes the word "may," so it's optional. The player whose trigger resolves first has the option of returning the creature to play. If he or she does, any other [Necroskitter](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Necroskitter) triggers won't do anything. (This is true even if the creature dies again with the trigger still on the stack, because the game treats it as a different object when it changes zones.)
 
 
-If everyone who controls a [Necroskitter](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Necroskitter) declines to return the creature this way, it stays where it is—not a bad option when the creature is, say, [Phage the Untouchable](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Phage+the+Untouchable).
+If everyone who controls a [Necroskitter](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Necroskitter) declines to return the creature this way, it stays where it is—not a bad option when the creature is, say, [Phage the Untouchable](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Phage+the+Untouchable).
 
 
   
@@ -641,7 +641,7 @@ Well, core sets and expansion sets aren't officially correlated, but I can offer
 Looking through the deities and their respective Auras, I find weapons/armor of the deities in the art of the Aura. However, with Fists of the Demigod, the art of Demigod of revenge shows no sign having any arms, let alone fists. Am I missing something here (like, hidden fists in Demigod of Revenge's art, for example)?  
  –Kevin  
 **August 6, 2008**
-**Q:** Looking through the deities and their respective Auras, I find weapons/armor of the deities in the art of the Aura. However, with [Fists of the Demigod](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fists+of+the+Demigod), the art of [Demigod of Revenge](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Demigod+of+Revenge) shows no sign having any arms, let alone fists. Am I missing something here (like, hidden fists in [Demigod of Revenge](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Demigod+of+Revenge)'s art, for example)?  
+**Q:** Looking through the deities and their respective Auras, I find weapons/armor of the deities in the art of the Aura. However, with [Fists of the Demigod](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fists+of+the+Demigod), the art of [Demigod of Revenge](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Demigod+of+Revenge) shows no sign having any arms, let alone fists. Am I missing something here (like, hidden fists in [Demigod of Revenge](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Demigod+of+Revenge)'s art, for example)?  
  –Kevin, Pittsburgh, PA, USA
 
 
@@ -654,10 +654,10 @@ Looking through the deities and their respective Auras, I find weapons/armor of 
 | --- | --- |
 | Demigod of Revenge | Fists of the Demigod |
 
-The ten "demigod auras" represent magic that grants some of the power of their respective demigods to their worshippers, analogically illustrated as some of the weaponry or gear of that demigod. The correspondence is pretty close for most of the pairs, and [Demigod of Revenge](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Demigod+of+Revenge) was initially intended to have heavy metal gauntlets of some kind to correspond to the ghostly gauntlets in [Fists of the Demigod](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fists+of+the+Demigod). 
+The ten "demigod auras" represent magic that grants some of the power of their respective demigods to their worshippers, analogically illustrated as some of the weaponry or gear of that demigod. The correspondence is pretty close for most of the pairs, and [Demigod of Revenge](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Demigod+of+Revenge) was initially intended to have heavy metal gauntlets of some kind to correspond to the ghostly gauntlets in [Fists of the Demigod](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fists+of+the+Demigod). 
 
 
-When Jim Murray's art of [Demigod of Revenge](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Demigod+of+Revenge) came back, however, we liked it so much that we didn't want Jim to overhaul his cool piece just to insert some fists. Plus we wanted to keep the demigods unique and visually distinct from recognizable creature types such as Demon, and giving it arms in addition to those big leathery wings would have pushed it too far into Demon territory.
+When Jim Murray's art of [Demigod of Revenge](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Demigod+of+Revenge) came back, however, we liked it so much that we didn't want Jim to overhaul his cool piece just to insert some fists. Plus we wanted to keep the demigods unique and visually distinct from recognizable creature types such as Demon, and giving it arms in addition to those big leathery wings would have pushed it too far into Demon territory.
 
 
   
@@ -747,10 +747,10 @@ Once an attacking creature becomes blocked, it won't get to deal combat damage t
 | --- | --- |
 | Hill Giant | Runes of the Deus |
 
-So let's say a [Hill Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hill+Giant) enchanted with [Runes of the Deus](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Runes+of+the+Deus)—a 4/4 with double strike—is blocked by a [Grizzly Bears](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grizzly+Bears). In the first-strike combat damage step, the [Hill Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hill+Giant)'s controller assigns 4 damage to the [Grizzly Bears](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grizzly+Bears). After first-strike damage resolves, the [Grizzly Bears](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grizzly+Bears) is destroyed. 
+So let's say a [Hill Giant](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hill+Giant) enchanted with [Runes of the Deus](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Runes+of+the+Deus)—a 4/4 with double strike—is blocked by a [Grizzly Bears](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grizzly+Bears). In the first-strike combat damage step, the [Hill Giant](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hill+Giant)'s controller assigns 4 damage to the [Grizzly Bears](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grizzly+Bears). After first-strike damage resolves, the [Grizzly Bears](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grizzly+Bears) is destroyed. 
 
 
-When we get to the normal combat damage step, nothing happens. The [Grizzly Bears](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grizzly+Bears) is too dead to assign its combat damage. The [Hill Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hill+Giant) is still blocked. It doesn't matter that the blocking creature is gone—once a creature becomes blocked during combat, it stays blocked for that entire combat. The [Hill Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hill+Giant)'s only option is to assign its combat damage to the creatures blocking it, but since there aren't any left, it assigns nothing.
+When we get to the normal combat damage step, nothing happens. The [Grizzly Bears](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grizzly+Bears) is too dead to assign its combat damage. The [Hill Giant](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hill+Giant) is still blocked. It doesn't matter that the blocking creature is gone—once a creature becomes blocked during combat, it stays blocked for that entire combat. The [Hill Giant](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hill+Giant)'s only option is to assign its combat damage to the creatures blocking it, but since there aren't any left, it assigns nothing.
 
 
 
@@ -759,10 +759,10 @@ When we get to the normal combat damage step, nothing happens. The [Grizzly Bear
 | --- | --- |
 | Tattermunge Maniac | Runes of the Deus |
 
-[Runes of the Deus](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Runes+of+the+Deus), however, brings us to that big exception: trample. Let's say that instead of a [Hill Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hill+Giant), the attacking creature is a [Tattermunge Maniac](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tattermunge+Maniac), now a 4/3 with double strike and trample. During the first-strike combat damage step, the [Tattermunge Maniac](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tattermunge+Maniac)'s controller assigns 2 damage to the [Grizzly Bears](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grizzly+Bears) and 2 damage to the Bears' controller (keeping in mind that he or she could assign more of that damage to the [Grizzly Bears](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grizzly+Bears), of course). This is lethal to the [Grizzly Bears](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grizzly+Bears), so it heads to the graveyard.
+[Runes of the Deus](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Runes+of+the+Deus), however, brings us to that big exception: trample. Let's say that instead of a [Hill Giant](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hill+Giant), the attacking creature is a [Tattermunge Maniac](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tattermunge+Maniac), now a 4/3 with double strike and trample. During the first-strike combat damage step, the [Tattermunge Maniac](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tattermunge+Maniac)'s controller assigns 2 damage to the [Grizzly Bears](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grizzly+Bears) and 2 damage to the Bears' controller (keeping in mind that he or she could assign more of that damage to the [Grizzly Bears](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grizzly+Bears), of course). This is lethal to the [Grizzly Bears](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grizzly+Bears), so it heads to the graveyard.
 
 
-When we get to the normal combat damage step, the [Grizzly Bears](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grizzly+Bears) is too dead to assign its combat damage, as above, but the [Tattermunge Maniac](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tattermunge+Maniac) has trample. An attacking creature with trample can have its excess combat damage assigned to the defending player it's attacking (or the planeswalker it's attacking) as long as each creature blocking it is assigned lethal damage first. ("Lethal damage" is the amount of damage that would theoretically cause the blocking creature to be destroyed. This is equal to the creature's toughness, minus any amount of damage that's already been assigned to it or is simultaneously being assigned to it. Ignore things like protection or other damage prevention when calculating this number.) If there aren't any creatures blocking the attacking creature, "lethal damage" is considered to be 0, so all of the attacking creature's combat damage—in this case, 4—can be assigned to the defending player.
+When we get to the normal combat damage step, the [Grizzly Bears](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grizzly+Bears) is too dead to assign its combat damage, as above, but the [Tattermunge Maniac](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tattermunge+Maniac) has trample. An attacking creature with trample can have its excess combat damage assigned to the defending player it's attacking (or the planeswalker it's attacking) as long as each creature blocking it is assigned lethal damage first. ("Lethal damage" is the amount of damage that would theoretically cause the blocking creature to be destroyed. This is equal to the creature's toughness, minus any amount of damage that's already been assigned to it or is simultaneously being assigned to it. Ignore things like protection or other damage prevention when calculating this number.) If there aren't any creatures blocking the attacking creature, "lethal damage" is considered to be 0, so all of the attacking creature's combat damage—in this case, 4—can be assigned to the defending player.
 
 
 *The **Magic** Rules Corner is a weekly feature dedicated to answering your rules questions. For more help with **Magic** rules, check out the [rules page](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=magic/rules) and the [Rules Q&A Forum](http://forums.gleemax.com/forumdisplay.php?s=&forumid=154).*

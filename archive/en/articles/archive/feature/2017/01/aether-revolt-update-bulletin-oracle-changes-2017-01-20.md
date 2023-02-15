@@ -1,6 +1,6 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20200110095515/https://magic.wizards.com/en/articles/archive/feature/aether-revolt-update-bulletin-oracle-changes-2017-01-20)
+[Link to Wayback Machine](https://web.archive.org/web/20170514133604/http://magic.wizards.com/en/articles/archive/feature/aether-revolt-update-bulletin-oracle-changes-2017-01-20)
 
 [_metadata_:author]:- "Eli Shiffrin"
 [_metadata_:description]:- "A review of all the Oracle and Comprehensive Rules changes that come with a new set."
@@ -9,9 +9,9 @@
 [_metadata_:publish_date]:- "2017-01-20"
 [_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Aether Revolt Update Bulletin—Oracle Changes"
-[_metadata_:wayback_capture_timestamp]:- "2020-01-10 09:55:15"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200110095515id_/https://magic.wizards.com/en/articles/archive/feature/aether-revolt-update-bulletin-oracle-changes-2017-01-20"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/aether-revolt-update-bulletin-oracle-changes-2017-01-20"
+[_metadata_:wayback_capture_timestamp]:- "2017-05-14 13:36:04"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170514133604id_/http://magic.wizards.com/en/articles/archive/feature/aether-revolt-update-bulletin-oracle-changes-2017-01-20"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/aether-revolt-update-bulletin-oracle-changes-2017-01-20"
 ---
 
 

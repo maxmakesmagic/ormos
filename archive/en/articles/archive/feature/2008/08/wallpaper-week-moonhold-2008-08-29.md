@@ -47,7 +47,7 @@ This week's desktop wallpaper is Mike Dringenberg's **[Moonhold](http://gatherer
 
 
 
-![](https://web.archive.org/web/20150923034102im_/http://archive.wizards.com/global/images/mtgcom_arcana_1666_pic1_en.jpg)[1280x1024 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_Moonhold_1280x1024.jpg)  
+![](https://media.wizards.com/legacy/global/images/mtgcom_arcana_1666_pic1_en.jpg)[1280x1024 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_Moonhold_1280x1024.jpg)  
 [1024x768 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_Moonhold_1024x768.jpg)  
 [800x600 pixels](/sites/mtg/files/image_legacy_migration/mtg/images/daily/wallpapers/Wallpaper_Moonhold_800x600.jpg)
 

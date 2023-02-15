@@ -51,7 +51,7 @@ Each of the three colossal Eldrazi spawns its own "brood lineage." The three bro
 **Emrakul**
 
 
-![](https://web.archive.org/web/20151105201918im_/http://archive.wizards.com/mtg/images/tcg/products/riseoftheeldrazi/f3_j5wrn6ewsx.jpg)
+![](https://media.wizards.com/legacy/mtg/images/tcg/products/riseoftheeldrazi/f3_j5wrn6ewsx.jpg)
 Art by [Mark Tedin](http://gatherer.wizards.com/pages/search/default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22mark+tedin%22%5D)
 
 
@@ -64,7 +64,7 @@ The Emrakul lineage is characterized by fleshlike lattice structures, uneasy bil
 **Kozilek**
 
 
-![](https://web.archive.org/web/20151105201919im_/http://archive.wizards.com/mtg/images/tcg/products/riseoftheeldrazi/f3_ro6lamlh0c.jpg)
+![](https://media.wizards.com/legacy/mtg/images/tcg/products/riseoftheeldrazi/f3_ro6lamlh0c.jpg)
 Art by [Michael Komarck](http://gatherer.wizards.com/pages/search/default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22michael+komarck%22%5D)
 
 
@@ -77,7 +77,7 @@ Eldrazi of the Kozilek brood lineage have many eyes growing near joints or along
 **Ulamog**
 
 
-![](https://web.archive.org/web/20151105201919im_/http://archive.wizards.com/mtg/images/tcg/products/riseoftheeldrazi/f3_ensve77onn.jpg)
+![](https://media.wizards.com/legacy/mtg/images/tcg/products/riseoftheeldrazi/f3_ensve77onn.jpg)
 Art by [Aleksi Briclot](http://gatherer.wizards.com/pages/search/default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22aleksi+briclot%22%5D)
 
 

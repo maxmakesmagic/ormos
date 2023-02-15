@@ -129,7 +129,7 @@ First up, the viewing of the actual event is going to bring spectators closer to
 Every day, there are special activities to take part in, ranging from R&D discussions, the chance to spellsling against Hall of Famers, have yourself turned into a **Magic** token, or even play alongside R&D members in special VIP Drafts. And just in case you get the urge to get your **Magic** shop on, there's a fully stocked merchandise booth on site, featuring the amazingly gorgeous Pro Tour *Journey into Nyx* playmat.
 
 
-![](https://web.archive.org/web/20150920044017im_/http://archive.wizards.com/mtg/images/daily/events/ptjou14/ptjou_playmat.jpg)
+![](https://media.wizards.com/legacy/mtg/images/daily/events/ptjou14/ptjou_playmat.jpg)
 
 If you're anywhere within orbit of Atlanta this weekend, you should come join us. It's going to be a great weekend, and it's spearheaded by a Frenchman who is slicing his way through event after event...
 
@@ -140,7 +140,7 @@ If you're anywhere within orbit of Atlanta this weekend, you should come join us
 The number 63 is how many Pro Points currently in the possession of Player of the Year–race leader Jérémy Dezani of France. His lead is 13 at the time of writing, but 13 is just a number. Here's your context: He's 13 clear of *Reid Duke*. THE Reid Duke. Former Player of the Year Owen Turtenwald is 4 points further back. Hall of Famer Ben Stark is 23 points adrift. World Champion Shahar Shenhar? Down on 38. Former Players of the Year Shuhei Nakamura and Yuuya Watanabe are almost 30 points away. That's far enough that, if either of them won the Pro Tour, and Jérémy Dezani forgot to get out of bed and didn't bother coming, they'd still only be level with him. There's one caveat: This is a long season, covering fifteen months, culminating in Pro Tour **Magic** 2015 in Portland, so Pro Point numbers are going to be inflated compared to recent years. Nonetheless, Dezani has simply dazzling numbers, and many fine judges regard him as legitimately the best player in the world right now.
 
 
-![](https://web.archive.org/web/20150919093206im_/http://archive.wizards.com/mtg/images/daily/events/gpabq13/ALB1.jpg)
+![](https://media.wizards.com/legacy/mtg/images/daily/events/gpabq13/alb1.jpg)
 *Jérémy Dezani, Pro Tour *Theros* winner* 
 ### Number: 389
 
