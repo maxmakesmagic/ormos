@@ -171,6 +171,7 @@
 * [What the Pros Think of Oath of the Gatewatch Limited](/archive/en/articles/archive/how-play-limited/2016/02/what-pros-think-oath-gatewatch-limited-2016-02-03.md) - 2016-02-03
 * [Tuning Top Modern Decks for Budget Players](/archive/en/articles/archive/top-decks/2016/02/tuning-top-modern-decks-budget-players-2016-02-19.md) - 2016-02-19
 * [Khans Cube All-Stars](/archive/en/articles/archive/how-play-limited/2016/03/khans-cube-all-stars-2016-03-01.md) - 2016-03-01
+* [Legacy Cube Updates](/archive/en/MTGO/articles/archive/magic-online/2015/01/legacy-cube-updates-2015-01-04.md) - 2016-04-06
 * [How to Solve New Standard Formats](/archive/en/articles/archive/top-decks/2016/04/how-solve-new-standard-formats-2016-04-08.md) - 2016-04-08
 * [Drafting 101: Understanding Signals](/archive/en/articles/archive/how-play-limited/2016/04/drafting-101-understanding-signals-2016-04-12.md) - 2016-04-12
 * [Building Your First Cube](/archive/en/articles/archive/how-build/2016/05/building-your-first-cube-2016-05-19.md) - 2016-05-19

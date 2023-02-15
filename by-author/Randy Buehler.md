@@ -399,16 +399,52 @@
 * [Video Feature: Magic Online World Championship Update](/archive/en/articles/archive/event-coverage/2009/11/video-feature-magic-online-world-championship-update-2009-11-21.md) - 2009-11-21
 * [Video Deck Tech: Tarmo-Twin with Patrick Dickmann](/archive/en/events/coverage/ptbng/2014/02/video-deck-tech-tarmo-twin-with-patrick-dickmann-2014-02-22.md) - 2014-02-22
 * [Video Deck Tech: Jason Ellis with Mono-Black Aggro](/archive/en/events/coverage/ptjin14/2014/05/video-deck-tech-jason-ellis-mono-black-aggro-2014-05-17.md) - 2014-05-17
+* [Vintage Super League Returns for Season 2](/archive/en/MTGO/articles/archive/2015/01/vintage-super-league-returns-season-2-2015-01-21.md) - 2015-01-21
+* [Vintage Super League Episode 2](/archive/en/MTGO/articles/archive/magic-online/2015/02/vintage-super-league-episode-2-2015-02-10.md) - 2015-02-10
+* [Vintage Super League Episode 3](/archive/en/MTGO/articles/archive/magic-online/2015/02/vintage-super-league-episode-3-2015-02-17.md) - 2015-02-17
+* [Vintage Super League Episode 4](/archive/en/MTGO/articles/archive/magic-online/2015/02/vintage-super-league-episode-4-2015-02-24.md) - 2015-02-24
 * [Legacy Cube Update](/archive/en/articles/archive/magic-online/2015/03/legacy-cube-update-2015-03-02.md) - 2015-03-02
+* [Vintage Super League Episode 7](/archive/en/MTGO/articles/archive/magic-online/2015/03/vintage-super-league-episode-7-2015-03-17.md) - 2015-03-17
+* [Vintage Super League Episode 8](/archive/en/MTGO/articles/archive/magic-online/2015/03/vintage-super-league-episode-8-2015-03-24.md) - 2015-03-24
+* [Vintage Super League Episode 9](/archive/en/MTGO/articles/archive/magic-online/2015/03/vintage-super-league-episode-9-2015-03-31.md) - 2015-03-31
+* [Vintage Super League Episode 10](/archive/en/MTGO/articles/archive/magic-online/2015/04/vintage-super-league-episode-10-2015-04-07.md) - 2015-04-07
+* [Vintage Super League Episode 11](/archive/en/MTGO/articles/archive/magic-online/2015/04/vintage-super-league-episode-11-2015-04-14.md) - 2015-04-14
+* [Vintage Super League Episode 12](/archive/en/MTGO/articles/archive/magic-online/2015/04/vintage-super-league-episode-12-2015-04-21.md) - 2015-04-21
+* [Vintage Super League Year-End Recap](/archive/en/MTGO/articles/archive/magic-online/2015/04/vintage-super-league-year-end-recap-2015-04-29.md) - 2015-04-29
+* [Standard Super League Episode 1 Recap](/archive/en/MTGO/articles/archive/magic-online/2015/05/standard-super-league-episode-1-2015-05-05.md) - 2015-05-05
+* [Standard Super League Episode 2 Recap](/archive/en/MTGO/articles/archive/magic-online/2015/05/standard-super-league-episode-2-recap-2015-05-12.md) - 2015-05-12
+* [Standard Super League Episode 3 Recap](/archive/en/MTGO/articles/archive/magic-online/2015/05/standard-super-league-episode-3-recap-2015-05-19.md) - 2015-05-19
+* [Standard Super League Episode 4 Recap](/archive/en/MTGO/articles/archive/magic-online/2015/05/standard-super-league-episode-4-recap-2015-05-26.md) - 2015-05-26
+* [Standard Super League Episode 5 Recap](/archive/en/MTGO/articles/archive/magic-online/2015/06/standard-super-league-episode-5-recap-2015-06-02.md) - 2015-06-02
+* [Standard Super League Episode 6 Recap](/archive/en/MTGO/articles/archive/magic-online/2015/06/standard-super-league-episode-6-recap-2015-06-09.md) - 2015-06-09
+* [Standard Super League Episode 7 Recap](/archive/en/MTGO/articles/archive/magic-online/2015/06/standard-super-league-episode-7-recap-2015-06-16.md) - 2015-06-16
+* [Holiday Cube Updates](/archive/en/MTGO/articles/archive/magic-online/2015/06/holiday-cube-updates-2015-06-22.md) - 2015-06-22
+* [Standard Super League Episode 8 Recap](/archive/en/MTGO/articles/archive/magic-online/2015/06/standard-super-league-episode-8-recap-2015-06-23.md) - 2015-06-23
+* [Standard Super League Finals and the Return of Vintage](/archive/en/MTGO/articles/archive/magic-online/2015/06/standard-super-league-episode-9-recap-2015-06-30.md) - 2015-06-30
+* [Vintage Super League Episode 1 Recap](/archive/en/MTGO/articles/archive/magic-online/2015/07/vintage-super-league-episode-1-recap-2015-07-14.md) - 2015-07-14
+* [Vintage Super League Episode 2 Recap](/archive/en/MTGO/articles/archive/magic-online/2015/07/vintage-super-league-episode-2-recap-2015-07-21.md) - 2015-07-21
+* [Standard Super League Episode 1](/archive/en/MTGO/articles/archive/magic-online/2015/08/standard-super-league-episode-1-2015-08-11.md) - 2015-08-11
+* [Standard Super League Episode 2](/archive/en/MTGO/articles/archive/magic-online/2015/08/standard-super-league-episode-2-2015-08-18.md) - 2015-08-18
+* [Standard Super League Episode 3](/archive/en/MTGO/articles/archive/magic-online/2015/09/standard-super-league-episode-3-2015-09-01.md) - 2015-09-01
+* [Standard Super League Playoffs](/archive/en/MTGO/articles/archive/magic-online/2015/09/standard-super-league-playoffs-2015-09-08.md) - 2015-09-08
 * [Legacy Cube Update](/archive/en/articles/archive/magic-online/2015/09/legacy-cube-update-2015-09-14.md) - 2015-09-14
 * [Modern Super League Episode 1](/archive/en/articles/archive/magic-online/2015/09/modern-super-league-episode-1-2015-09-15.md) - 2015-09-15
+* [Modern Super League Episode 2](/archive/en/MTGO/articles/archive/magic-online/2015/09/modern-super-league-episode-2-2015-09-22.md) - 2015-09-22
+* [Modern Super League Episode 3](/archive/en/MTGO/articles/archive/magic-online/2015/09/modern-super-league-episode-3-2015-09-29.md) - 2015-09-30
 * [Super League Last Chance Qualifier](/archive/en/articles/archive/feature/2015/10/super-league-last-chance-qualifier-2015-10-06.md) - 2015-10-06
 * [Draft 1: Zvi Mowshowitz](/archive/en/articles/archive/event-coverage/2015/10/draft-1-zvi-mowshowitz-2015-10-13-0.md) - 2015-10-13
 * [Draft 2: Ryan Fuller](/archive/en/articles/archive/event-coverage/2015/10/draft-2-ryan-fuller-2015-10-13-0.md) - 2015-10-13
 * [Gateway Draft: William `Baby Huey` Jensen](/archive/en/articles/archive/event-coverage/2015/10/gateway-draft-william-baby-huey-jensen-2015-10-13-0.md) - 2015-10-13
 * [Gateway Round 5: William Jensen vs. Itaru Ishida](/archive/en/articles/archive/event-coverage/2015/10/gateway-round-5-william-jensen-vs-itaru-ishida-2015-10-13-0.md) - 2015-10-13
 * [Gateway Round 6: Itaru Ishida vs. Alexander Witt](/archive/en/articles/archive/event-coverage/2015/10/gateway-round-6-itaru-ishida-vs-alexander-witt-2015-10-13-0.md) - 2015-10-13
+* [Super League Last Chance Qualifier](/archive/en/MTGO/articles/archive/magic-online/2015/10/super-league-last-chance-qualifier-preview-2015-10-20.md) - 2015-10-20
+* [Super League Championship Episode 1](/archive/en/MTGO/articles/archive/magic-online/2015/10/super-league-championship-episode-1-2015-10-27.md) - 2015-10-27
+* [Super League Championship Episode 2](/archive/en/MTGO/articles/archive/magic-online/2015/11/super-league-championship-episode-2-2015-11-03.md) - 2015-11-03
 * [Super League Championship](/archive/en/articles/archive/feature/2015/11/super-league-championship-2015-11-10.md) - 2015-11-10
+* [Super League Championship Playoffs](/archive/en/MTGO/articles/archive/magic-online/2015/11/super-league-championship-playoffs-2015-11-17.md) - 2015-11-17
+* [Vintage Super League Play-In Tournament Episode 1](/archive/en/MTGO/articles/archive/magic-online/2015/11/vintage-super-league-play-tournament-episode-1-2015-11-24.md) - 2015-11-24
+* [Vintage Super League Play-In Tournament Episode 2](/archive/en/MTGO/articles/archive/magic-online/2015/12/vintage-super-league-play-tournament-episode-2-2015-12-01.md) - 2015-12-01
+* [Vintage Super League Play-In Tournament Episode 3](/archive/en/MTGO/articles/archive/magic-online/2015/12/vintage-super-league-play-tournament-episode-3-2015-12-08.md) - 2015-12-08
 * [Announcing Community Super League](/archive/en/articles/archive/magic-digital/2016/04/announcing-community-super-league-2016-04-20.md) - 2016-04-20
 * [Throwback Standard Gauntlet 2: Combo Winter (Urza Block)](/archive/en/articles/archive/magic-online/2017/05/throwback-standard-gauntlet-2-combo-winter-urza-block-2017-05-04.md) - 2017-05-10
 * [Throwback Standard Gauntlet 3: Early 2000s](/archive/en/articles/archive/magic-online/2017/05/throwback-standard-gauntlet-3-early-2000s.md) - 2017-05-24
