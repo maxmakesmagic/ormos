@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Doug Beyer"
 [_metadata_:description]:- "Familiar friends (and terrible horrors) return in Innistrad: Midnight Hunt!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1555785"
 [_metadata_:publish_date]:- "2021-09-17"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Returning Legends of Innistrad: Midnight Hunt"
-[_metadata_:wayback_capture_timestamp]:- "2021-09-17 14:36:43+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-09-17 14:36:43"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210917143643id_/https://magic.wizards.com/en/articles/archive/feature/returning-legends-innistrad-midnight-hunt-2021-09-17"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/returning-legends-innistrad-midnight-hunt-2021-09-17"
 ---

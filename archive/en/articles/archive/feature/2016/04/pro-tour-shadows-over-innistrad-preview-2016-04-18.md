@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Rich Hagon"
 [_metadata_:description]:- "As the Pro Tour approaches, Rich looks into all the ways Shadows over Innistrad will transform the Magic landscape."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1017281"
 [_metadata_:publish_date]:- "2016-04-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "A Pro Tour Shadows over Innistrad Preview"
-[_metadata_:wayback_capture_timestamp]:- "2016-04-20 20:28:33+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-04-20 20:28:33"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160420202833id_/http://magic.wizards.com/en/articles/archive/feature/pro-tour-shadows-over-innistrad-preview-2016-04-18"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/pro-tour-shadows-over-innistrad-preview-2016-04-18"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Date: 25-26 June 2011Event Location: ArconAddress: Sogn Skole, Oslo, Norway Eligibility The Magic: the Gathering Norway National Championship is an invitation-only event, open to citizens or permanent residents of Norway who have won an invitation to Nationals through DCI ratings or from qualifying events such as National Qualifiers. Registration times and locations"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "730286"
 [_metadata_:publish_date]:- "2009-05-04"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2011 Norway National Championship"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-19 06:43:09+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-19 06:43:09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519064309id_/https://magic.wizards.com/en/articles/archive/feature/2011-norway-national-championship-2009-05-04"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-norway-national-championship-2009-05-04"
 ---

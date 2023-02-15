@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210607011618/https://magic.wizards.com/en/articles/archive/feature/addressing-changes-2012-magic-premier-play-2011-12-23)
+[Link to Wayback Machine](https://web.archive.org/web/20211208060550/https://magic.wizards.com/en/articles/archive/feature/addressing-changes-2012-magic-premier-play-2011-12-23)
 
 [_metadata_:author]:- "Helene Bergeot"
 [_metadata_:description]:- "Hi, this is Helene Bergeot, Director of Organized Play for Wizards of the Coast."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "681221"
 [_metadata_:publish_date]:- "2011-12-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Addressing Changes to 2012 Magic Premier Play"
-[_metadata_:wayback_capture_timestamp]:- "2021-06-07 01:16:18+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210607011618id_/https://magic.wizards.com/en/articles/archive/feature/addressing-changes-2012-magic-premier-play-2011-12-23"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-08 06:05:50"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208060550id_/https://magic.wizards.com/en/articles/archive/feature/addressing-changes-2012-magic-premier-play-2011-12-23"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/addressing-changes-2012-magic-premier-play-2011-12-23"
 ---
 

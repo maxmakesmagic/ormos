@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "TeamPointsOpponentPoints52809vsSean Connery & the Cosmic Dw9$42 Ticket9vsCrystal Pepsi9A Few Good Men7vsTeam Nose Guy6A Little Too Sick9vsTwo Geeks and a Lumberjack9Antarctica9vsConan the Barbarian9Austihaibing6vsLeft Cheek Sneak6Azz Izz3vsTeam Joe3Bags12vsAlphaBetaUnlimited.com/12Breaking Waves6vsLet's Get Dirty6Bungle6vsTeam Time Capsule6Car Acrobatic Team9vsEuropean"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "805921"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 5 Pairings (by Team)"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-29 01:21:13+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-29 01:21:13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220629012113id_/https://magic.wizards.com/en/articles/archive/feature/round-5-pairings-team-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-5-pairings-team-2000-01-01"
 ---

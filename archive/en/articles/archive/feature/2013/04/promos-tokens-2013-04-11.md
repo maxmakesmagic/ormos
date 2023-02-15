@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "&#13; As with every new Magic set, it's time for a look at the special promotional cards we've created to go along with Dragon's Maze."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "648746"
 [_metadata_:publish_date]:- "2013-04-11"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Promos & Tokens"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-11 23:41:29+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-04-11 23:41:29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170411234129id_/http://magic.wizards.com/en/articles/archive/feature/promos-tokens-2013-04-11"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/promos-tokens-2013-04-11"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "InformationTournament Schedule Tournament Byes Public Events Artist Information Travel Information Contact Information Official hashtag: #gpmin Date: May 19-20, 2012Format: Standard Tournament Location Minneapolis Convention Center 1301 Second Avenue South Hall A (downstairs) Minneapolis, MN 55403 Registration: $40 Friday, May 18: 2 p.m. – 9 p.m. Saturday, May 19: 8 a.m. -"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "729036"
 [_metadata_:publish_date]:- "2012-03-13"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Minneapolis Event Information"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-03 01:40:56+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-03 01:40:56"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503014056id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-minneapolis-event-information-2012-03-13"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-minneapolis-event-information-2012-03-13"
 ---

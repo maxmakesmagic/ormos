@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "What is the bluff?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "627321"
 [_metadata_:publish_date]:- "2007-02-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Master versus Master"
-[_metadata_:wayback_capture_timestamp]:- "2017-08-18 13:45:54+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-18 13:45:54"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170818134554id_/http://magic.wizards.com/en/articles/archive/feature/master-versus-master-2007-02-15"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/master-versus-master-2007-02-15"
 ---

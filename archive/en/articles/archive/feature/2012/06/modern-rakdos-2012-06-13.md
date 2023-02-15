@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "The exciting Modern format was showcased on Magic Online this past weekend, as a premier event at half the cost brought people out to play. Anything and everything seems to be viable, from midrange to combo to control... and, of course, beatdown! _Megafone_ brought a hyper-aggressive Rakdos burn deck to the table. Sporting only nineteen lands and the best burn spells printed in the past nine years, this deck is tuned to kill you in short order!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "672536"
 [_metadata_:publish_date]:- "2012-06-13"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Modern Rakdos"
-[_metadata_:wayback_capture_timestamp]:- "2017-05-11 19:10:12+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-05-11 19:10:12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170511191012id_/http://magic.wizards.com/en/articles/archive/feature/modern-rakdos-2012-06-13"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/modern-rakdos-2012-06-13"
 ---

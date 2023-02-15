@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Matt Tabak"
 [_metadata_:description]:- "A little belatedly, here are all the latest updates and changes to Magic."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "982281"
 [_metadata_:publish_date]:- "2016-01-29"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Oath of the Gatewatch Update Bulletin"
-[_metadata_:wayback_capture_timestamp]:- "2016-01-31 10:58:19+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-01-31 10:58:19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160131105819id_/http://magic.wizards.com/en/articles/archive/feature/oath-gatewatch-update-bulletin-2016-01-29"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/oath-gatewatch-update-bulletin-2016-01-29"
 ---

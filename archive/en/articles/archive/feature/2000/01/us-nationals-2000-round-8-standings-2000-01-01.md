@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Benafel, Chris 22 57.2917 82.3529 55.8776 8/7/1/0 2 Finkel, Jon 21 66.6667 83.3333 61.9961 8/7/0/0 3 Frangiosa, Rich 21 61.9196 75.0000 58.4610 8/7/0/0 4 Comer, Alan 21 60.9375 77.7778 57.1650 8/7/0/0 5 Turian, Michael 19 63.5665 70.0000 61.8441 8/6/1/0 6 Lieberman, Alex 19 63.0208 68.4211 61.7054"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "949251"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "US Nationals 2000 Round 8 Standings"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-16 21:59:19+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-16 21:59:19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516215919id_/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-8-standings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-8-standings-2000-01-01"
 ---

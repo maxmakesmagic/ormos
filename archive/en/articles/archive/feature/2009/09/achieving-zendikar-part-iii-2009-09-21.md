@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20200805190122/https://magic.wizards.com/en/articles/archive/feature/achieving-zendikar-part-iii-2009-09-21)
+[Link to Wayback Machine](https://web.archive.org/web/20211209151741/https://magic.wizards.com/en/articles/archive/feature/achieving-zendikar-part-iii-2009-09-21)
 
 [_metadata_:author]:- "Mark Rosewater"
-[_metadata_:description]:- "If you're interested in working for Wizards of the Coast, make sure you check out the end of this article."
+[_metadata_:description]:- "If you're interested in working for Wizards of the Coast, make sure you check out the end of this article. Welcome to the third week of Zendikar previews and part III of my tale of Zendikar design. If you haven't read part I or part II, I suggest you do so as today's column assumes you have. So where were we in our tale? My design team (myself, Doug Beyer, Graeme Hopkins, Ken"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "657236"
 [_metadata_:publish_date]:- "2009-09-21"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Achieving Zendikar, Part III"
-[_metadata_:wayback_capture_timestamp]:- "2020-08-05 19:01:22+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200805190122id_/https://magic.wizards.com/en/articles/archive/feature/achieving-zendikar-part-iii-2009-09-21"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-09 15:17:41"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211209151741id_/https://magic.wizards.com/en/articles/archive/feature/achieving-zendikar-part-iii-2009-09-21"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/achieving-zendikar-part-iii-2009-09-21"
 ---
 
@@ -116,10 +118,10 @@ We already had kicker in the set at this point, so we played around with spells 
 > 
 
 
-Deadly Bog was a black kill spell that doubled as a [Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Swamp). (During early design, all the nonbasic lands that produced a color were lands of the appropriate type; this was changed during development due to power concerns) Pretty cool, huh? One small problem with it. While a more experienced player might see it for what it was—a black kill spell with the side effect of getting you out of mana screw—the less experienced players just saw it as a land. As such, when they put land in their deck they counted it as a land. We would then watch playtest after playtest where they would be mana-screwed and not play Deadly Bog. Why? Because they didn't want to waste it. Playing it as only a [Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Swamp) that enters tapped seemed like a waste.
+Deadly Bog was a black kill spell that doubled as a [Swamp](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Swamp). (During early design, all the nonbasic lands that produced a color were lands of the appropriate type; this was changed during development due to power concerns) Pretty cool, huh? One small problem with it. While a more experienced player might see it for what it was—a black kill spell with the side effect of getting you out of mana screw—the less experienced players just saw it as a land. As such, when they put land in their deck they counted it as a land. We would then watch playtest after playtest where they would be mana-screwed and not play Deadly Bog. Why? Because they didn't want to waste it. Playing it as only a [Swamp](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Swamp) that enters tapped seemed like a waste.
 
 
-Here is a valuable design tip. It doesn't matter how you meant for something to be used. It is how it is used that matters. The card as presented was causing unfun games as players were unconsciously mana-screwing themselves. And to be fair, the issue went beyond skill level. Even when I had Deadly Bog in my hand, played in my deck counting it as mostly a spell so that I was not mana screwed by it, I still felt bad when I had to play it as just a tapped [Swamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Swamp). Yes, the intellectual side of me found it silly as the land ability was merely a bonus added to the kill spell, but the emotional side of me felt bad doing it. The card created a bad feeling.
+Here is a valuable design tip. It doesn't matter how you meant for something to be used. It is how it is used that matters. The card as presented was causing unfun games as players were unconsciously mana-screwing themselves. And to be fair, the issue went beyond skill level. Even when I had Deadly Bog in my hand, played in my deck counting it as mostly a spell so that I was not mana screwed by it, I still felt bad when I had to play it as just a tapped [Swamp](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Swamp). Yes, the intellectual side of me found it silly as the land ability was merely a bonus added to the kill spell, but the emotional side of me felt bad doing it. The card created a bad feeling.
 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/mtg/images/daily/mm/mm57_NeedlebiteTrap.jpg)Valuable design tip #2: Things that force your players to do something in the game that makes them feel bad are mistakes. This isn't to say you can't have tension or occasionally force your players to make tough decisions, but if the spell routinely causes ill will when they have to play it in a certain way, it is a mistake to print. Our job is to entertain the players and help them have fun. Purposely creating ill will does not advance either agenda.
@@ -191,7 +193,7 @@ The idea behind these lands was that they grafted a spell effect on each of the 
 > 
 > Burning Volcano  
 > 
-> Land - [Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mountain)  
+> Land - [Mountain](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mountain)  
 > 
 > CARDNAME enters the battlefield tapped.  
 > 
@@ -201,7 +203,7 @@ The idea behind these lands was that they grafted a spell effect on each of the 
 > 
 
 
-Note that this version didn't care if the other lands were [Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mountain)s just if they were lands. Only [Mountain](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mountain)s, though, would trigger the effect. Some of these lands worked better than others. During development, it was decided that they wanted each land to reward playing a lot of that basic land, but those rewards would be less synced up. The red land was reduced from needing six other lands to only needing five, but they all had to be mountains. The damage was reduced down to 3 as 5 was, well, just a little too much.
+Note that this version didn't care if the other lands were [Mountain](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mountain)s just if they were lands. Only [Mountain](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mountain)s, though, would trigger the effect. Some of these lands worked better than others. During development, it was decided that they wanted each land to reward playing a lot of that basic land, but those rewards would be less synced up. The red land was reduced from needing six other lands to only needing five, but they all had to be mountains. The damage was reduced down to 3 as 5 was, well, just a little too much.
 
 
 There were a bunch of other fun things we did with land during *Zendikar* design, but part of any block design is figuring out how to pace the block. While "Prosper" isn't continuing with the "land matters" theme, *Worldwake* is, so we wanted to save a few fun things for that set. If there's something that seems obvious yet we didn't touch upon it, perhaps you need only wait a set.

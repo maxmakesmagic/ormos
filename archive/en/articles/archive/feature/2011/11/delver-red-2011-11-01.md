@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "At the StarCityGames.com Open in Kansas City this past weekend, Magic writer Caleb Durward unveiled his new deck for Standard: Delver Red! Taking a cue from Counter-Burn decks from the past, Caleb used countermagic and bounce to slow his opponents down while relying on Innistrad cards like Delver of Secrets and Brimstone Volley to quickly deal 20 to the opponent. Check out his list!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "671701"
 [_metadata_:publish_date]:- "2011-11-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Delver Red"
-[_metadata_:wayback_capture_timestamp]:- "2018-12-01 13:23:21+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2018-12-01 13:23:21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20181201132321id_/https://magic.wizards.com/en/articles/archive/feature/delver-red-2011-11-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/delver-red-2011-11-01"
 ---

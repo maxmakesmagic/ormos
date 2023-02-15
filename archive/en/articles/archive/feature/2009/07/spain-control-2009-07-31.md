@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Enric Martí's Five-Color Control Format: Standard 2 Cascade Bluffs 2 Exotic Orchard 3 Island 4 Mystic Gate 4 Reflecting Pool 2 Sunken Ruins 2 Vivid Crag 4 Vivid Creek 2 Vivid Marsh 2 Vivid Meadow 3 Bogardan Hellkite 3 Kitchen Finks 4 Mulldrifter 2 Wall of Denial 2 Ajani Vengeant 2 Cruel Ultimatum 4 Cryptic Command 4 Esper Charm 2 Hallowed Burial 1 Naya Charm"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "668606"
 [_metadata_:publish_date]:- "2009-07-31"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Spain Control"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-25 08:37:57+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-25 08:37:57"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025083757id_/https://magic.wizards.com/en/articles/archive/feature/spain-control-2009-07-31"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/spain-control-2009-07-31"
 ---

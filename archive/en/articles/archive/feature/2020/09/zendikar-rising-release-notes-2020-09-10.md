@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20200920222953/https://magic.wizards.com/en/articles/archive/feature/zendikar-rising-release-notes-2020-09-10)
+[Link to Wayback Machine](https://web.archive.org/web/20201003152725/https://magic.wizards.com/en/articles/archive/feature/zendikar-rising-release-notes-2020-09-10?ub)
 
 [_metadata_:author]:- "Eli Shiffrin"
 [_metadata_:description]:- "The Release Notes include info about the release of a new set, as well as clarifications and rulings involving that set's cards."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1509097"
 [_metadata_:publish_date]:- "2020-09-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Zendikar Rising Release Notes"
-[_metadata_:wayback_capture_timestamp]:- "2020-09-20 22:29:53+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200920222953id_/https://magic.wizards.com/en/articles/archive/feature/zendikar-rising-release-notes-2020-09-10"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/zendikar-rising-release-notes-2020-09-10"
+[_metadata_:wayback_capture_timestamp]:- "2020-10-03 15:27:25"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201003152725id_/https://magic.wizards.com/en/articles/archive/feature/zendikar-rising-release-notes-2020-09-10?ub"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/zendikar-rising-release-notes-2020-09-10?ub"
 ---
 
 

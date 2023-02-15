@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Justin Gary vs. Stephan Valkyser In the same round where Tony Dobson and Christian Luhrs took an intentional draw in order to get to 31 points, Justin Gary was trying to beat Stephan Valkyser to get there. Valkyser, who went into the round at 9-3, needed at least 4 more point sto make the top 8. Gary is one of the Your Move Games team members playing their Trix deck while"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "951061"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-Chicago 1999Round 13 Feature Match"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-24 06:58:00+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-24 06:58:00"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524065800id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-13-feature-match-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-13-feature-match-2000-01-01"
 ---

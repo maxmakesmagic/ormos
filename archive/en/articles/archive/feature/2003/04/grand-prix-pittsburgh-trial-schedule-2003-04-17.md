@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Updated 5-28-2003"
 [_metadata_:description]:- "StatusEventDateOrganizerCityTeamPlayers PROPittsburgh Trials 03-04 #124644/12/2003Jason VogtCharlotteWhat's a doughnut?August Dwight PRO What's a doughnut?Joseph Kinnaney PRO What's a doughnut?John D Eshleman I PROPittsburgh Trials 03-04 #124654/12/2003Jeff WilliamsClermontelven folkJohn Lagges PRO elven folkBilly Postlethwait PRO elven folkGeorge Flete PROPittsburgh Trials"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "735851"
 [_metadata_:publish_date]:- "2003-04-17"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix - Pittsburgh Trial Schedule"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-20 05:14:17+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-20 05:14:17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220820051417id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-pittsburgh-trial-schedule-2003-04-17"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-pittsburgh-trial-schedule-2003-04-17"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Jay Moldenhauer-Salazar"
 [_metadata_:description]:- "My favorite creature type is Lord, hands down. Lord of Atlantis, Lord of the Undead, Goblin King, Elvish Champion . . . if a Lord exists in a set, I inevitably track down four copies and build decks around them.Looks like a Zombie, looks like a Kobold, looks like an Elf... but no. What gives?Until recently, my only complaint with the Lord creature type is that if a card is a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "625981"
 [_metadata_:publish_date]:- "2002-09-26"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Share Your Devotion"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-03 19:24:55+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-03 19:24:55"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211203192455id_/https://magic.wizards.com/en/articles/archive/feature/share-your-devotion-2002-09-26"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/share-your-devotion-2002-09-26"
 ---

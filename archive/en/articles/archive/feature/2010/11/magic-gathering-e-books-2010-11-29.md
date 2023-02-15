@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Several Magic: The Gathering novels are available in e-book format, and we list those titles below."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "638816"
 [_metadata_:publish_date]:- "2010-11-29"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic: The Gathering e-books"
-[_metadata_:wayback_capture_timestamp]:- "2016-03-16 01:02:02+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-03-16 01:02:02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160316010202id_/http://magic.wizards.com/en/articles/archive/feature/magic-gathering-e-books-2010-11-29"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-gathering-e-books-2010-11-29"
 ---

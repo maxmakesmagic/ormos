@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "The scores for Challenge #1 have been tallied, which means the search has come to an end for one great designer."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1286951"
 [_metadata_:publish_date]:- "2018-05-17"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Great Designer Search 3 – Challenge #1"
-[_metadata_:wayback_capture_timestamp]:- "2018-05-17 16:46:06+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2018-05-17 16:46:06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180517164606id_/https://magic.wizards.com/en/articles/archive/feature/great-designer-search-3-challenge-1-2018-05-17"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/great-designer-search-3-challenge-1-2018-05-17"
 ---

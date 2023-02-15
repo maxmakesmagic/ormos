@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Doug Beyer"
 [_metadata_:description]:- "`A knave; a rascal; an eater of broken meats; a base, proud, shallow, beggarly, three-suited, hundred-pound, filthy, worsted-stocking knave; a lily-livered, action-taking knave, a whoreson, glass-gazing, super-serviceable finical rogue; one-trunk-inheriting slave; one that wouldst be a bawd, in way of good service, and art nothing but the composition of a knave, beggar,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "622551"
 [_metadata_:publish_date]:- "2008-02-27"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Roguish Charm"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 10:37:29+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 10:37:29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429103729id_/https://magic.wizards.com/en/articles/archive/feature/roguish-charm-2008-02-27"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/roguish-charm-2008-02-27"
 ---

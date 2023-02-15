@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Bennie Smith"
 [_metadata_:description]:- "Let me start this by saying thank goodness that the awesome Akroma won the You Decide! Legends contest and got her own theme week. That made it easy for me to do a Magic Online-oriented Akroma piece, since Akroma happens to be a Vanguard avatar, and a mighty fine one indeed! What if the awesome Top 4 competitor Reya Dawnbringer had won? I suppose I could have stretched things"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "620271"
 [_metadata_:publish_date]:- "2006-06-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Akroma Vanguard: Not Just for Beatdown Anymore?"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-18 02:27:05+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-18 02:27:05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118022705id_/https://magic.wizards.com/en/articles/archive/feature/akroma-vanguard-not-just-beatdown-anymore-2006-06-15"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/akroma-vanguard-not-just-beatdown-anymore-2006-06-15"
 ---

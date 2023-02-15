@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Ryan Miller"
 [_metadata_:description]:- "Hello everyone. I'm Ryan Miller, senior game designer here at Wizards and a good friend of Josh Brauer's.If you're not sure who I'm talking about, let me fill you in. Weeks ago, we started leaking bits of story in the form of various letters, journal entries and other in-world correspondences leading up to the release of Innistrad. Some of you may have even received a postcard in the mail with the mysterious `twitter.com/brauerjosh` URL on it."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "681121"
 [_metadata_:publish_date]:- "2011-10-24"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Re: Josh Brauer"
-[_metadata_:wayback_capture_timestamp]:- "2016-08-07 06:29:40+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-08-07 06:29:40"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160807062940id_/http://magic.wizards.com/en/articles/archive/feature/re-josh-brauer-2011-10-24"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/re-josh-brauer-2011-10-24"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "Hi folks! I hope everyone had a great time at the Zendikar Prereleases last weekend, and will have a great time at the Zendikar Launch Parties this weekend. My secret volcano lair has been showered with balloons and get well cards due to my recent bout with swine flu. Of course, most of them are from my enemies and have the inconvenient tendency to explode, but attention is attention. I'm mostly recovered except for the corkscrew tail. (It's not even fair that I got swine flu. I'm a vegetarian!)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "683971"
 [_metadata_:publish_date]:- "2009-09-30"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Late September 2009 Update Bulletin"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-10 02:23:09+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-10 02:23:09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170710022309id_/http://magic.wizards.com/en/articles/archive/feature/late-september-2009-update-bulletin-2009-09-30"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/late-september-2009-update-bulletin-2009-09-30"
 ---

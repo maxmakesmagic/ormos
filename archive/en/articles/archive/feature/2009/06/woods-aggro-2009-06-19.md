@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Conley Woods's Five Color Aggro Format: Pro Tour–Honolulu 4 Ancient Ziggurat 1 Arcane Sanctum 4 Exotic Orchard 1 Forest 1 Island 4 Jungle Shrine 1 Mountain 1 Plains 3 Savage Lands 3 Seaside Citadel 1 Swamp 4 Bloodbraid Elf 3 Broodmate Dragon 2 Jenara, Asura of War 4 Noble Hierarch 4 Putrid Leech 4 Rhox War Monk 4 Sedraxis Specter 4 Woolly Thoctar 3 Naya Charm"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "668446"
 [_metadata_:publish_date]:- "2009-06-19"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Woods Aggro"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-09 04:46:17+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-09 04:46:17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220809044617id_/https://magic.wizards.com/en/articles/archive/feature/woods-aggro-2009-06-19"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/woods-aggro-2009-06-19"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Welcome back to `On the Mirrodin Site,` where we show off highlights from the Mirrodin Site. For months, Mirran and Phyrexian characters have been providing field reports about the progress of the war. This week, we're going to share the entire story from one of the reports: Farris of the Anvil."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "643391"
 [_metadata_:publish_date]:- "2011-06-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "On the Mirrodin Site: Farris of the Anvil"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-12 08:23:09+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-12 08:23:09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170712082309id_/http://magic.wizards.com/en/articles/archive/feature/mirrodin-site-farris-anvil-2011-06-10"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mirrodin-site-farris-anvil-2011-06-10"
 ---

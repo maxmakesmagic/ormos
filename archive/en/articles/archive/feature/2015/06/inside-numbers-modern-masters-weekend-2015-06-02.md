@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "All the stats you didn’t know you wanted to know about Modern Masters Weekend."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "394406"
 [_metadata_:publish_date]:- "2015-06-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Inside the Numbers: Modern Masters Weekend"
-[_metadata_:wayback_capture_timestamp]:- "2015-07-05 15:11:17+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2015-07-05 15:11:17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150705151117id_/http://magic.wizards.com/en/articles/archive/feature/inside-numbers-modern-masters-weekend-2015-06-02"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/inside-numbers-modern-masters-weekend-2015-06-02"
 ---

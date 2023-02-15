@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "Recently, Black-Red Zombies has been on a rampage. Winning Grand Prix events as well as smaller independent tournaments in somewhat of a flurry has made people check out the undead a little more. The debate used to be between Black-Green Zombies and Black-Red Zombies, but Black-Red has grown up so much now that said debate seems to have been settled. But Golgari might have a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "665876"
 [_metadata_:publish_date]:- "2012-12-11"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Dark Side of Green"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-07 04:34:20+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-07 04:34:20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220707043420id_/https://magic.wizards.com/en/articles/archive/feature/dark-side-green-2012-12-11"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dark-side-green-2012-12-11"
 ---

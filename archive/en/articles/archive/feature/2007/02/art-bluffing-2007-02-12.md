@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Terry Soh"
 [_metadata_:description]:- "Greetings to all faithful readers of magicthegathering.com. This is the first time I've written for the official web site of the card game I have loved and played for 8 years, and trust me, I feel honored to do so. I love the people who play Magic, I love the changes these magical cards have made for me, and most importantly, I love the art of writing strategy-based articles"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "633256"
 [_metadata_:publish_date]:- "2007-02-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Art of Bluffing"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-06 18:40:49+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-06 18:40:49"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211206184049id_/https://magic.wizards.com/en/articles/archive/feature/art-bluffing-2007-02-12"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/art-bluffing-2007-02-12"
 ---

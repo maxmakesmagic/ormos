@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Date: 13-14 September 2008 Address: Gromada Address: 17 Stycznia 32 Zip: 02-148 Warszawa City: Warszawa Country: PL Contact info: dci.isa@isa.pl / 22 846 79 25 Format: Entry fee: invitation only Doors open at: 09:00 Additional info: local page with info / side events / venue infowww.isa.pl/magic"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "733301"
 [_metadata_:publish_date]:- "2006-08-29"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "National Championship Poland 2008"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-23 20:53:51+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-23 20:53:51"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023205351id_/https://magic.wizards.com/en/articles/archive/feature/national-championship-poland-2008-2006-08-29"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/national-championship-poland-2008-2006-08-29"
 ---

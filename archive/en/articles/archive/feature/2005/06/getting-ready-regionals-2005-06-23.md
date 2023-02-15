@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "Traditionally I do archetype and match-up breakdowns about this time in the season, but I feel like I've already written that column. Personally, I haven't deviated much from the decks that I suggested in Throwing Down the Gauntlet, so this year I elected instead to approach the annual Regionals ramp-up in a little bit of a different way, hopefully in a way that will help out"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "628041"
 [_metadata_:publish_date]:- "2005-06-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Getting Ready for Regionals"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-27 06:44:45+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-27 06:44:45"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211127064445id_/https://magic.wizards.com/en/articles/archive/feature/getting-ready-regionals-2005-06-23"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/getting-ready-regionals-2005-06-23"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Jon Finkel"
 [_metadata_:description]:- "Jon Finkel speaks up about a Modern Masters 2015 Edition card that is very near-and-dear to him."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "382686"
 [_metadata_:publish_date]:- "2015-05-05"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Shadowmage Himself"
-[_metadata_:wayback_capture_timestamp]:- "2015-05-05 19:33:17+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2015-05-05 19:33:17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150505193317id_/http://magic.wizards.com/en/articles/archive/feature/shadowmage-himself-2015-05-05"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/shadowmage-himself-2015-05-05"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "Ever since Cube hit Magic Online, it's been a hit. We've iterated on the card list a few times with some sweeping changes during Gatecrash and now it's coming back with just a few updates from Dragon's Maze."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "649496"
 [_metadata_:publish_date]:- "2013-07-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "More MTGO Cube"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-11 21:39:02+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-11 21:39:02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201111213902id_/https://magic.wizards.com/en/articles/archive/feature/more-mtgo-cube-2013-07-10"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/more-mtgo-cube-2013-07-10"
 ---

@@ -4,9 +4,11 @@
 
 [_metadata_:description]:- "Rui Oliveira Carlos Huarapil Game 1 Carlos played a first turn Duress revealing Feitosa's deck choice (Gennari or Malka) and discarding a Duress leaving a Pernicious Deed, two Spike Feeders, two Forests and two Wastelands. Bruno, with his hand now known, used a Wasteland to slow Carlos down but the Chilean still played a turn three Meddling Mage naming Pernicious Deed."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "958756"
 [_metadata_:publish_date]:- "2015-12-30"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 6: Bruno Feitosa vs. Carlos Huarapil"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-30 03:49:46+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-30 03:49:46"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030034946id_/https://magic.wizards.com/en/articles/archive/feature/round-6-bruno-feitosa-vs-carlos-huarapil-2015-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-6-bruno-feitosa-vs-carlos-huarapil-2015-01-01"
 ---

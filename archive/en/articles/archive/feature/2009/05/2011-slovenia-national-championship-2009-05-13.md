@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Date: 2 July 2011Location: Mladinski center Kranj, Tomsiceva 21City: KranjCountry: Slovenia The Magic: the Gathering Slovenia Championship is open to all citizens or permanent residents of Slovenia. Contact information Email: magic@irts.siTelephone: 041891509Website: www.irts.si Format Standard and Booster Draft 1 New Phyrexia, 1 Mirrodin Besieged, and 1 Scars of Mirrodin"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "730376"
 [_metadata_:publish_date]:- "2009-05-13"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2011 Slovenia National Championship"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-20 00:13:12+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-20 00:13:12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120001312id_/https://magic.wizards.com/en/articles/archive/feature/2011-slovenia-national-championship-2009-05-13"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-slovenia-national-championship-2009-05-13"
 ---

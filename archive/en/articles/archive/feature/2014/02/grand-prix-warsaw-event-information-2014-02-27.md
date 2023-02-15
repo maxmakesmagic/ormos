@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Information Grand Prix Warsaw is brought to you by Gordian Knot Games.  Live Video Stream Information  Tournament Schedule  Tournament Byes  Side Events  Artist Information  Travel Information  Contact Information  Official hashtag: #gpwarsaw Date: May 9-11, 2014 Format: Theros Block Sealed Deck/Booster Draft Tournament Location EXPO XXI Ignacego Prądzyńskiego 12/14 01-222"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "727466"
 [_metadata_:publish_date]:- "2014-02-27"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Warsaw Event Information"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-02 20:59:37+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 20:59:37"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502205937id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-warsaw-event-information-2014-02-27"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-warsaw-event-information-2014-02-27"
 ---

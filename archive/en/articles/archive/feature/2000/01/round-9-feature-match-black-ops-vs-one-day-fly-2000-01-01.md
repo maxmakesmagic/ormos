@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Rui Oliveira"
 [_metadata_:description]:- "Black Ops: Florent Jeudon Antoine Ruel Olivier RuelOne Day Fly: Tom Van De Logt Kamiel Cornelissen Jelger WiegersmaIn the make or break round One Day Fly got paired down against Black Ops. With only four teams heading into the direct elimination portion, and only nine rounds for such a large field, they couldn't draw in the last round despite only having one draw and one loss"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "806096"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 9 Feature Match: Black Ops vs. One Day Fly"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-06 00:52:54+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-06 00:52:54"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220706005254id_/https://magic.wizards.com/en/articles/archive/feature/round-9-feature-match-black-ops-vs-one-day-fly-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-9-feature-match-black-ops-vs-one-day-fly-2000-01-01"
 ---

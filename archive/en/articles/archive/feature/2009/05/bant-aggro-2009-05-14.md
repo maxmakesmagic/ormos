@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Michal Swierczynski's Bant Aggro Format: Standard 2 Adarkar Wastes 2 Ancient Ziggurat 2 Brushland 2 Flooded Grove 1 Island 4 Reflecting Pool 4 Seaside Citadel 3 Treetop Village 2 Yavimaya Coast 4 Jhessian Infiltrator 4 Kitchen Finks 4 Noble Hierarch 4 Rafiq of the Many 4 Rhox War Monk 4 Shorecrasher Mimic 4 Bant Charm 4 Cryptic Command 2 Negate 3 Snakeform 1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "668291"
 [_metadata_:publish_date]:- "2009-05-14"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Bant Aggro"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-09 11:08:50+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-09 11:08:50"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220809110850id_/https://magic.wizards.com/en/articles/archive/feature/bant-aggro-2009-05-14"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/bant-aggro-2009-05-14"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Japan Trials | Non-Japan Trials Japan TrialsCityDateLocationAddressNon-Japanese Player Contact Nagoya109/14/2003Nagoya Waterfront Center2-1-17 Irifune, Minato-ku, Nagoya-shi, Aichi-kenron.foster@wizards.com Hiroshima09/15/2003Green Arena4-1 Motomachi, Naka-ku, Hiroshima-shi, Hiroshima-kenron.foster@wizards.com Osaka10/05/2003Yodogawa Municipal Center2-1-5 Nonaka-minami,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "736131"
 [_metadata_:publish_date]:- "2003-09-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "grandprix_shizuoka03_trials"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-24 16:24:48+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-24 16:24:48"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024162448id_/https://magic.wizards.com/en/articles/archive/feature/grandprixshizuoka03trials-2003-09-03"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grandprixshizuoka03trials-2003-09-03"
 ---

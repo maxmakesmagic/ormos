@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "White-Blue | Blue-Black | Black-Red | Red-Green | Green-White Enemy-Color Pairs | Three or More Colors | Hybrid Multicolored                                                                       Tom LaPille Tom LaPille  Mike Flores Doug Beyer  Kelly Digges Steve Sadin  Mark Rosewater Tim Willoughby  Planet MTG PureMTGO TCGplayer.com MTGCast GeekDad blog on Wired.com Fl"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "641836"
 [_metadata_:publish_date]:- "2009-03-25"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Visual Spoiler"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-02 15:16:22+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 15:16:22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502151622id_/https://magic.wizards.com/en/articles/archive/feature/visual-spoiler-2009-03-25"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/visual-spoiler-2009-03-25"
 ---

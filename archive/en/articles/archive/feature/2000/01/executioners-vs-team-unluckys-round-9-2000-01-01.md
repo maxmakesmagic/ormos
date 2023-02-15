@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Team Executioners is a top Japanese team, comprised of: Satoshi Nakamura (1998 APAC Champion, 1996 Japanese National Team, regular Pro Tour player) Koichiro Maki (2000 Magic Invitational competitor, highly rated APAC player) Kenichi Fujita (Grand Prix Taipei 1998 winner, Grand Prix Tokyo winner, 1999 Japanese National Team, regarded as one of the best drafters in Japan) During"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "952266"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Executioners vs. Team Unluckys - Round 9"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-16 21:11:03+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-16 21:11:03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516211103id_/https://magic.wizards.com/en/articles/archive/feature/executioners-vs-team-unluckys-round-9-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/executioners-vs-team-unluckys-round-9-2000-01-01"
 ---

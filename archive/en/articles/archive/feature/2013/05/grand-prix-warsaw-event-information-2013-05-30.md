@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Information    Grand Prix Warsaw is brought to you by Gordian Knot Games."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "727461"
 [_metadata_:publish_date]:- "2013-05-30"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Warsaw Event Information"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-31 00:52:39+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-31 00:52:39"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171031005239id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-warsaw-event-information-2013-05-30"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-warsaw-event-information-2013-05-30"
 ---

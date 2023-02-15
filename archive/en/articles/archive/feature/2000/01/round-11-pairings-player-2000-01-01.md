@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "TeamPointsOpponentPointsAbsolute *21vsTanshoku club with 25 *22Circle Money Draft18vsNISIKI *19Dekiru-Kana?25vswww.alphabetaunlimited.com27DERAPIN22vsPotato Peach22Fire Beat24vsTeam Apprentice *22Loafing Giants22vsTeam Emon Staff *22Magic Square21vsTeam 25:1721NISIKI *19vsCircle Money Draft18P-Kies19vsYaburon20Poor Shark25vsScrambled Steak24Potato Peach22vsDERAPIN22Scrambled"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "806761"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 11 Pairings (by Player)"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-27 18:11:58+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-27 18:11:58"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220627181158id_/https://magic.wizards.com/en/articles/archive/feature/round-11-pairings-player-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-11-pairings-player-2000-01-01"
 ---

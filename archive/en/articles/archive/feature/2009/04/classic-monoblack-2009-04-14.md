@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: dunkle_stille's Classic Monoblack Format: Magic Online Classic 4 Mishra's Factory 14 Snow-Covered Swamp 1 Tomb of Urami 2 Urborg, Tomb of Yawgmoth 4 Wasteland 2 Epochrasite 2 Nantuko Shade 3 Tombstalker 2 Crucible of Worlds 2 Demonic Consultation 4 Duress 4 Hymn to Tourach 3 Innocent Blood 2 Pithing Needle 3 Pox 4 Smallpox 1 Smother 3 Thoughtseize *2 Diabolic"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "668171"
 [_metadata_:publish_date]:- "2009-04-14"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Classic Monoblack"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-16 10:20:37+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-16 10:20:37"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220116102037id_/https://magic.wizards.com/en/articles/archive/feature/classic-monoblack-2009-04-14"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/classic-monoblack-2009-04-14"
 ---

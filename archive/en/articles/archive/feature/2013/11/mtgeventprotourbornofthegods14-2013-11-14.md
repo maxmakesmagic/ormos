@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Ciudad de las Artes y las Ciencias Valencia, Spain February 21-23, 2014 The Pro Tour returns to sun-splashed Valencia for the first time since 2007. Pro Tour Born of the Gods features the debut of the new Born of the Gods set on the premier-play stage. The top players from around the world will be in Valencia to battle for fame, glory, and $250,000 in cash prizes in the Modern"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "729846"
 [_metadata_:publish_date]:- "2013-11-14"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "mtg_event_protour_bornofthegods14"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-22 23:14:31+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-22 23:14:31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022231431id_/https://magic.wizards.com/en/articles/archive/feature/mtgeventprotourbornofthegods14-2013-11-14"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mtgeventprotourbornofthegods14-2013-11-14"
 ---

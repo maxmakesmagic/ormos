@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Tamada Ryouichi's Titan Ramp Format: Standard 6 Forest 12 Mountain 3 Evolving Wilds 3 Terramorphic Expanse 4 Valakut, the Molten Pinnacle 4 Avenger of Zendikar 4 Primeval Titan 4 Siege-Gang Commander 4 Khalni Heart Expedition 4 Harrow 4 Cultivate 4 Explore 4 Rampant Growth *3 Cunning Sparkmage *4 Oracle of Mul Daya *2 Summoning Trap *2 Chandra Nalaar *4 Forked Bolt"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "669956"
 [_metadata_:publish_date]:- "2010-07-26"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Titan Ramp"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-20 16:47:32+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-20 16:47:32"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170720164732id_/http://magic.wizards.com/en/articles/archive/feature/titan-ramp-2010-07-26"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/titan-ramp-2010-07-26"
 ---

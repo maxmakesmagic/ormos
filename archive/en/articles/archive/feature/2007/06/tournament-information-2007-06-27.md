@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "8 & 9 September 2007 Format: Block Constructed Tournament Location: Firenze Fiera (Fortezza di basso) Piano Attico - Upper Floor fo Spadolini Pavilion Viale Strozzi Firenze 50123, Italy www.firenzefiera.it Celebrate 10 years of Grand Prix! Grand Prix are the most exciting events the DCI offers. They're high-energy and held around the world. The main event is all about"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "635076"
 [_metadata_:publish_date]:- "2007-06-27"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Tournament Information"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-28 11:22:45+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-28 11:22:45"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028112245id_/https://magic.wizards.com/en/articles/archive/feature/tournament-information-2007-06-27"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/tournament-information-2007-06-27"
 ---

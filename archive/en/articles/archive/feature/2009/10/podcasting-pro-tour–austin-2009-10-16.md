@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Rich Hagon"
 [_metadata_:description]:- "Let Richard Hagon be your guide through Pro Tour–Austin, the third Pro Tour of the 2009 season. If you're not a regular reader of event coverage, this is a great starting place to learn the top players and storylines that have shaped this season. With exclusive player interviews, analysis of deckbuilding strategies, explanations of formats and the PT season, and much more,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "688811"
 [_metadata_:publish_date]:- "2009-10-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Podcasting from Pro Tour–Austin"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 11:41:54+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 11:41:54"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523114154id_/https://magic.wizards.com/en/articles/archive/feature/podcasting-pro-tour%E2%80%93austin-2009-10-16"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/podcasting-pro-tour%E2%80%93austin-2009-10-16"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Brian Rogers"
 [_metadata_:description]:- "Sometimes I start to lose sight of the fact that Magic is a game. I am always thinking about what decks are out there and what will do best in the current metagame, or I am preparing to judge the next event I am going to. I don’t have nearly as much time as I would like to just play Magic.Over the last week I had a lot of time to teach some new players about my favorite game."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "638336"
 [_metadata_:publish_date]:- "2006-09-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Fun With a Capital M"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-20 03:20:51+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-20 03:20:51"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220820032051id_/https://magic.wizards.com/en/articles/archive/feature/fun-capital-m-2006-09-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/fun-capital-m-2006-09-01"
 ---

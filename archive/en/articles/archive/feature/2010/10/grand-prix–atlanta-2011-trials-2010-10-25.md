@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Grand Prix–Atlanta Trials will be run at WPN locations in the weeks leading up to the Grand Prix. Each offers at least 1 Third-Round bye to Grand Prix–Atlanta.WPN Locations in the Atlanta Area Entry Fee Entry fee varies from location to location."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "728086"
 [_metadata_:publish_date]:- "2010-10-25"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix–Atlanta 2011 Trials"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-26 01:33:05+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-26 01:33:05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526013305id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93atlanta-2011-trials-2010-10-25"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93atlanta-2011-trials-2010-10-25"
 ---

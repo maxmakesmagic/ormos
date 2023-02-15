@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "We are always looking at ways to improve the Magic Online experience for our players, especially when they are just starting out. Each year, when the Core Set launches, we update the Magic Online New Account Starter kit as part of this process. This ensures that new players get the latest Core Set booster, the newest cards, and the most recent Planeswalker Deck Pack. In addition, this year we are adding something completely new: New Player Tickets!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "598881"
 [_metadata_:publish_date]:- "2012-07-24"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "New Player Tickets and Updated Thursday Night Magic Online"
-[_metadata_:wayback_capture_timestamp]:- "2017-02-15 19:50:39+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-02-15 19:50:39"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170215195039id_/http://magic.wizards.com/en/articles/archive/feature/new-player-tickets-and-updated-thursday-night-magic-online-2012-07-24"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/new-player-tickets-and-updated-thursday-night-magic-online-2012-07-24"
 ---

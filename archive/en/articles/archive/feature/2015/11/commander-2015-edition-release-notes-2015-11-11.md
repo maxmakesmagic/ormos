@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20170414001745/http://magic.wizards.com/en/articles/archive/feature/commander-2015-edition-release-notes-2015-11-11)
+[Link to Wayback Machine](https://web.archive.org/web/20201108091209/https://magic.wizards.com/en/articles/archive/feature/commander-2015-edition-release-notes-2015-11-11)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "These notes include information concerning the release of a new Magic set, as well as clarifications and rulings involving the set's cards."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "825741"
 [_metadata_:publish_date]:- "2015-11-11"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "COMMANDER (2015 Edition) Release Notes"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-14 00:17:45+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170414001745id_/http://magic.wizards.com/en/articles/archive/feature/commander-2015-edition-release-notes-2015-11-11"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/commander-2015-edition-release-notes-2015-11-11"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-08 09:12:09"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201108091209id_/https://magic.wizards.com/en/articles/archive/feature/commander-2015-edition-release-notes-2015-11-11"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/commander-2015-edition-release-notes-2015-11-11"
 ---
 
 

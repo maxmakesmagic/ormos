@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Magic Online Championship Series awards invites to the Magic World Championships as well as a cash tournament for players who qualify through the series. The 2009 Season 5 Championship was held on August 30. The format was M10 sealed deck with a Top 8 M10 draft."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "838931"
 [_metadata_:publish_date]:- "2009-08-31"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic Online Championship Series - 2009 Season 5 Championship Coverage"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-29 07:08:42+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-29 07:08:42"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211129070842id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-championship-series-2009-season-5-championship-coverage-2009"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-championship-series-2009-season-5-championship-coverage-2009"
 ---

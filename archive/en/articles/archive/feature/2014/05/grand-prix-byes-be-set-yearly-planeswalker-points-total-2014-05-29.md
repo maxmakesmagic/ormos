@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Grand Prix bye policy has been updated to use Seasonal Award Season Planeswalker Point levels through November 30. For more details, read the full announcement on the updated policy."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "687556"
 [_metadata_:publish_date]:- "2014-05-29"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Byes to be Set by Yearly Planeswalker Points Total"
-[_metadata_:wayback_capture_timestamp]:- "2016-07-29 20:47:23+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-07-29 20:47:23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160729204723id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-byes-be-set-yearly-planeswalker-points-total-2014-05-29"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-byes-be-set-yearly-planeswalker-points-total-2014-05-29"
 ---

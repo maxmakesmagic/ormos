@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "If you're looking to take the step up to more competitive Magic tournaments, this summer offers two paths to take to the premier-play level. Not only is the next season of Pro Tour Qualifiers starting up in June, but World Magic Cup Qualifiers are coming in August. Store-run Pro Tour Qualifiers for Pro Tour `Huey` start June 7 and run until August 24. The format is Modern. The"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "658506"
 [_metadata_:publish_date]:- "2014-04-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "PTQs and WMCQs Heat up Summer Scene"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-16 18:18:23+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-16 18:18:23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220116181823id_/https://magic.wizards.com/en/articles/archive/feature/ptqs-and-wmcqs-heat-summer-scene-2014-04-23"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ptqs-and-wmcqs-heat-summer-scene-2014-04-23"
 ---

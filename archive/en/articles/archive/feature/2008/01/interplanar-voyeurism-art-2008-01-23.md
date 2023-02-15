@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Doug Beyer"
 [_metadata_:description]:- "Some people think of planes like planets—and in some cases, they're right. Mirrodin is a spherical plane orbited by five `suns` of mana energy; it's a pretty good model of a planetary system, except for its oddball geocentrism (or, perhaps, ferrocentrism—a system of mana objects with a lump of metal in the center)."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "622501"
 [_metadata_:publish_date]:- "2008-01-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Interplanar Voyeurism: The Art of"
-[_metadata_:wayback_capture_timestamp]:- "2019-03-22 23:21:20+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2019-03-22 23:21:20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190322232120id_/https://magic.wizards.com/en/articles/archive/feature/interplanar-voyeurism-art-2008-01-23"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/interplanar-voyeurism-art-2008-01-23"
 ---

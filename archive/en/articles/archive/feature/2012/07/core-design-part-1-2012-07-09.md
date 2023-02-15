@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "From time to time, I like to do mailbag columns where I answer all of your questions. For the last few years, I've been shaking up the mailbag columns by adding themes to them. As Magic 2013 just came out, I thought I'd restrict this mailbag column to questions about the design of Magic 2013. Nefarox, Overlord of Grixis | Art by Aleksi Bricolt As I've done the last two years,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "655631"
 [_metadata_:publish_date]:- "2012-07-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Core Design, Part 1"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-02 16:31:43+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 16:31:43"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502163143id_/https://magic.wizards.com/en/articles/archive/feature/core-design-part-1-2012-07-09"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/core-design-part-1-2012-07-09"
 ---

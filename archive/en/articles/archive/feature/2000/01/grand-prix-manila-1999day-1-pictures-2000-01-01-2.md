@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[ 1 - 2 - 3 - 4 ]  Players line up for preregistration for Grand Prix-Manila. Judges work diligently on setting up the Grand Prix backdrop.  Nikki Alfar helping to sort land cards. Judges Tennille Tan and Marvin Romero hand out registration sheets.  Players anxiously wait registration. A happy Grand Prix-Manila player after he received his goodie bag.  One of the younger"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "952931"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix-Manila 1999Day 1 Pictures"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-16 08:43:53+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-16 08:43:53"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516084353id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-manila-1999day-1-pictures-2000-01-01-2"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-manila-1999day-1-pictures-2000-01-01-2"
 ---

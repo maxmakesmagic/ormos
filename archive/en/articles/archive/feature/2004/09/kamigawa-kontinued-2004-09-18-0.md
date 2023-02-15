@@ -5,9 +5,11 @@
 [_metadata_:author]:- "John Carter"
 [_metadata_:description]:- "Creatures who went from “Creature—Legend” to “Legendary Creature” with no creature types."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "625306"
 [_metadata_:publish_date]:- "2004-09-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Kamigawa Kontinued"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-04 15:23:13+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-04 15:23:13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170604152313id_/http://magic.wizards.com/en/articles/archive/feature/kamigawa-kontinued-2004-09-18-0"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/kamigawa-kontinued-2004-09-18-0"
 ---

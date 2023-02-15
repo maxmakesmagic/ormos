@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Sebastian Thaler's Blue-White Merfolk Format: Standard 4 Glacial Fortress 8 Island 4 Mutavault 2 Mystic Gate 2 Plains 4 Wanderwine Hub 2 Merfolk Sovereign 4 Merrow Reejerey 4 Reveillark 4 Silvergill Adept 4 Stonybrook Banneret 4 Sygg, River Guide 4 Wake Thrasher 4 Cryptic Command 4 Path to Exile 2 Sage's Dousing *4 Burrenton Forge-Tender *2 Glen Elendra"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "668706"
 [_metadata_:publish_date]:- "2009-08-26"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "German Champ"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-18 10:27:39+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-18 10:27:39"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220818102739id_/https://magic.wizards.com/en/articles/archive/feature/german-champ-2009-08-26"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/german-champ-2009-08-26"
 ---

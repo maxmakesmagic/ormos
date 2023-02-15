@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "TeamResult OpponentA.S.K.Lost 1-2vsOrewa Fukushima DAAAAWon 2-0-1vsTeam BonkuraABCCWon 3-0vsTeam ShinadashiAbsoluteWon 2-1vsMarimo MakerAibonLost 1-2vsTeam ToDoAin't afraid to dieWon 2-1vsAll time 6000yenAir OrangeLost 1-2vsSTAkebono OyakatanhoizaLost 1-2vsTeam PPBAkko ni OmakaseWon 2-1vsDokudenpaAll time 6000yenLost 1-2vsAin't afraid to dieAncestral MemoriesWon 3-0vsCool"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "807021"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 2 Results (by Player)"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-27 23:12:58+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-27 23:12:58"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220627231258id_/https://magic.wizards.com/en/articles/archive/feature/round-2-results-player-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-2-results-player-2000-01-01"
 ---

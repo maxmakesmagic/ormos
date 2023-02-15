@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Phyrexian Deck Format: Just for Fun 1 Phyrexian Tower 1 Phyrexian Librarian 1 Phyrexian Battleflies 1 Phyrexian Bloodstock 1 Phyrexian Broodlings 1 Phyrexian Colossus 1 Phyrexian Crusader 1 Phyrexian Debaser 1 Phyrexian Defiler 1 Phyrexian Delver 1 Phyrexian Denouncer 1 Phyrexian Devourer 1 Phyrexian Digester 1 Phyrexian Dreadnought 1 Phyrexian Driver 1 Phyrexian Gargantua 1 Phyrexian Ghoul 1 Phyrexian Gremlins 1 Phyrexian Hulk"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "670901"
 [_metadata_:publish_date]:- "2011-04-08"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Phyrexian Deck"
-[_metadata_:wayback_capture_timestamp]:- "2016-07-02 16:30:01+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-07-02 16:30:01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160702163001id_/http://magic.wizards.com/en/articles/archive/feature/phyrexian-deck-2011-04-08"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/phyrexian-deck-2011-04-08"
 ---

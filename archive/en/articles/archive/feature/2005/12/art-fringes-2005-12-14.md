@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210928063417/https://magic.wizards.com/en/articles/archive/feature/art-fringes-2005-12-14)
+[Link to Wayback Machine](https://web.archive.org/web/20210429041800/https://magic.wizards.com/en/articles/archive/feature/art-fringes-2005-12-14)
 
 [_metadata_:author]:- "Matt Cavotta"
 [_metadata_:description]:- "There has been talk both inside and outside the walls of Wizards about the perceived homogenization of Magic art. I cannot speak for the opinions of others, but I can let you know what my position is on the whole thing. In my humble opinion, it's not as bad as the rabble rousers would have you think, but it is not as good as it could be. I do absolutely believe that a no-holds"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "626491"
 [_metadata_:publish_date]:- "2005-12-14"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Art on the Fringes"
-[_metadata_:wayback_capture_timestamp]:- "2021-09-28 06:34:17+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210928063417id_/https://magic.wizards.com/en/articles/archive/feature/art-fringes-2005-12-14"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 04:18:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429041800id_/https://magic.wizards.com/en/articles/archive/feature/art-fringes-2005-12-14"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/art-fringes-2005-12-14"
 ---
 
@@ -51,11 +53,11 @@ I decided the other day to do a little educational trip through the halls of rec
 ![](https://media.magic.wizards.com/image_legacy_migration/magic/images/mtgcom/fcpics/taste/mc17_elemental.jpg)The thing we need to take away from the art we are going to see is that the varied styles, tones, and levels of realism/abstraction are *all fair game*. The folks who choose to paint their **Magic** art in a more classical fantasy style are not doing it because they have to, it is because they choose to. As long as you can pull off a divergent style with the quality that is expected of a **Magic** artist, more power to ya'. Check out the image to the left- it's one of my all-time favorite **Magic** illustrations. Is this “standard” fantasy art? Absolutely not. And yet here it is, in all its complex, textured, abstracted glory. Check out how it's mostly green or neutral, except for the hints of red within the armored mass – it's like the elemental swirls with the anticipation of spilt blood. Anyhoo, I am getting off on a tangent (as I tend to do when I am appreciating great art.) The point is, this weirdness is acceptable **Magic** art.
 
 
-Equally acceptable is something on the opposite end of the spectrum. While [War Elemental](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=War+Elemental) is suggestive and complex, [Gifts Ungiven](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gifts+Ungiven) is elegant, simple, and graphic. 
+Equally acceptable is something on the opposite end of the spectrum. While [War Elemental](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=War+Elemental) is suggestive and complex, [Gifts Ungiven](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gifts+Ungiven) is elegant, simple, and graphic. 
 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/magic/images/mtgcom/fcpics/taste/mc17_gifts.jpg)  
-![](https://media.magic.wizards.com/image_legacy_migration/magic/images/mtgcom/fcpics/taste/mc17_cascade.jpg)From this point on we're just going to hop from one picture to the next. I may pop in to point out something, or I may let the art speak for itself. In this case, I'll chime in to say that [Temporal Cascade](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Temporal+Cascade) is mysteriously cool. If you're looking for some **Magic** art to stick out like a sore thumb like the ancient days, it's not going to happen. But you can definitely find some gems like this that are absolutely nothing like the sword and sorcery imagery that is the meat and potatoes of **Magic**. Come on, how is this color-rich trip to the unknown not “different” enough? 
+![](https://media.magic.wizards.com/image_legacy_migration/magic/images/mtgcom/fcpics/taste/mc17_cascade.jpg)From this point on we're just going to hop from one picture to the next. I may pop in to point out something, or I may let the art speak for itself. In this case, I'll chime in to say that [Temporal Cascade](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Temporal+Cascade) is mysteriously cool. If you're looking for some **Magic** art to stick out like a sore thumb like the ancient days, it's not going to happen. But you can definitely find some gems like this that are absolutely nothing like the sword and sorcery imagery that is the meat and potatoes of **Magic**. Come on, how is this color-rich trip to the unknown not “different” enough? 
 
 
   
@@ -63,7 +65,7 @@ Equally acceptable is something on the opposite end of the spectrum. While [War 
 
 
   
-[Gifts Ungiven](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gifts+Ungiven) is a good example of contemporary **Magic** art (contemporary meaning in the last three years) that is a pillow for the ol' peepers. So are [Talisman of Dominance](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Talisman+of+Dominance) and [Spiraling Embers](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spiraling+Embers). Each of these fits our current standards and is a brief respite from fantasy in edge-to edge detail.
+[Gifts Ungiven](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gifts+Ungiven) is a good example of contemporary **Magic** art (contemporary meaning in the last three years) that is a pillow for the ol' peepers. So are [Talisman of Dominance](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Talisman+of+Dominance) and [Spiraling Embers](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spiraling+Embers). Each of these fits our current standards and is a brief respite from fantasy in edge-to edge detail.
 
 
 
@@ -76,24 +78,24 @@ So you don't want a rest, but you don't want barbarians in full range of value a
 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/magic/images/mtgcom/fcpics/taste/mc17_island.jpg)  
-![](https://media.magic.wizards.com/image_legacy_migration/magic/images/mtgcom/fcpics/taste/mc17_doubt.jpg)This is a good example of something that has been the topic of conversation in the Creative Team for the past month or so. We're thinking about pushing spell and enchantment cards away from “scenes” and snapshots of spells being cast and more toward the symbolic or abstracted imagery like we see in [Shadow of Doubt](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shadow+of+Doubt) or [Temporal Cascade](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Temporal+Cascade) or even [Spiraling Embers](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spiraling+Embers). This will give the overall collection of art a more diverse feel and it will also help differentiate spell cards from creature cards.
+![](https://media.magic.wizards.com/image_legacy_migration/magic/images/mtgcom/fcpics/taste/mc17_doubt.jpg)This is a good example of something that has been the topic of conversation in the Creative Team for the past month or so. We're thinking about pushing spell and enchantment cards away from “scenes” and snapshots of spells being cast and more toward the symbolic or abstracted imagery like we see in [Shadow of Doubt](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shadow+of+Doubt) or [Temporal Cascade](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Temporal+Cascade) or even [Spiraling Embers](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spiraling+Embers). This will give the overall collection of art a more diverse feel and it will also help differentiate spell cards from creature cards.
 
 
   
 ![](https://media.magic.wizards.com/image_legacy_migration/magic/images/mtgcom/fcpics/taste/mc17_mulch.jpg)  
   
 ![](https://media.magic.wizards.com/image_legacy_migration/magic/images/mtgcom/fcpics/taste/mc17_mindslaver.jpg)
-[Wall of Mulch](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wall+of+Mulch) and [Mindslaver](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mindslaver) stood out to me because they are not about showing me the wall and the… whatever-it-is, they are about the feeling of the wall and the whatever-it-is. Here, texture is more important than making sure we can see how the wall looks under the lighting conditions of the noon-day jungle. This is cool, artsy, and *acceptable*. When an artist wants to get fartsy, we do not stop them. I am starting to think that many of the artists we work with may be victims of fandom. Many **Magic** artists are huge fans of other **Magic** artists. They tend to see what's in there and what works. Then they take that stuff for a spin. 
+[Wall of Mulch](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wall+of+Mulch) and [Mindslaver](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mindslaver) stood out to me because they are not about showing me the wall and the… whatever-it-is, they are about the feeling of the wall and the whatever-it-is. Here, texture is more important than making sure we can see how the wall looks under the lighting conditions of the noon-day jungle. This is cool, artsy, and *acceptable*. When an artist wants to get fartsy, we do not stop them. I am starting to think that many of the artists we work with may be victims of fandom. Many **Magic** artists are huge fans of other **Magic** artists. They tend to see what's in there and what works. Then they take that stuff for a spin. 
 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/magic/images/mtgcom/fcpics/taste/mc17_arbiter.jpg)
-I know for a fact that a whole barrelful of **Magic** artists look to Mark Zug's work for the signs of impeccable technique, wonderful color, and amazing dexterity. I would hope that they would look to [Silent Arbiter](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Silent+Arbiter) as an example of Zug wielding all that skill, but in the name of whimsical simplicity. Sometimes tone is all that needs to be different for art to read as something different. [Pain Kami](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pain+Kami) (up near the top of the page) is another example of this. Spiky octopus-mouth is a hoot. It's got all the character and attitude of a cartoon, but without the flat, unsophisticated delivery. 
+I know for a fact that a whole barrelful of **Magic** artists look to Mark Zug's work for the signs of impeccable technique, wonderful color, and amazing dexterity. I would hope that they would look to [Silent Arbiter](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Silent+Arbiter) as an example of Zug wielding all that skill, but in the name of whimsical simplicity. Sometimes tone is all that needs to be different for art to read as something different. [Pain Kami](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pain+Kami) (up near the top of the page) is another example of this. Spiky octopus-mouth is a hoot. It's got all the character and attitude of a cartoon, but without the flat, unsophisticated delivery. 
 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/magic/images/mtgcom/fcpics/taste/mc17_thresher.jpg)  
   
 ![](https://media.magic.wizards.com/image_legacy_migration/magic/images/mtgcom/fcpics/taste/mc17_sage.jpg)
-Well there's a light, fresh image. [Primordial Sage](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Primordial+Sage) just makes me happy. This may not seem to fit the bad-ass fantasy style that is called for in the style guide, but as I stated in the TTM style Guide articles, it's a GUIDE, not a slavedriver. Sure, we ask for aggressive, full-bore art so it is the overall impression **Magic** gives. But we never rule out other styles when they are appropriate. 
+Well there's a light, fresh image. [Primordial Sage](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Primordial+Sage) just makes me happy. This may not seem to fit the bad-ass fantasy style that is called for in the style guide, but as I stated in the TTM style Guide articles, it's a GUIDE, not a slavedriver. Sure, we ask for aggressive, full-bore art so it is the overall impression **Magic** gives. But we never rule out other styles when they are appropriate. 
 
 
 Art is all about opinion. Wizards has to decide what **Magic** art should be like based on the opinions of certain key folks. It is quite possible that what they decide does not exactly mesh with your own opinions. What I have found in my little art hunt is that this mater of differing art styles is not one of we used to have it and now we don't. I think these examples, when stacked up against other **Magic** art, show that there is a healthy amount of variance within accepted **Magic** styles. Your opinion may lead you to say that there is not enough variance, but I think you'd be putting a “Dingbat” sign around your neck if you continued to argue that *all* **Magic** art is the same. 

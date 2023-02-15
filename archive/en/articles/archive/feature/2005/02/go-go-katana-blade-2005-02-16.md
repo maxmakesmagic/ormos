@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "This week's PTQ Top 8 decks give us a great look at how the Extended format is continuing to evolve. Decks from the Top 8 of GP Boston that were not a part of the expected metagame -- decks like the first place Aluren deck and especially the new Temporary Solution deck -- are picking up adherents, with Ben Dempsey's creation especially taking top positions and even a slot. But"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "627921"
 [_metadata_:publish_date]:- "2005-02-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Go Go Katana Blade!"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-06 20:31:24+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-06 20:31:24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211206203124id_/https://magic.wizards.com/en/articles/archive/feature/go-go-katana-blade-2005-02-16"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/go-go-katana-blade-2005-02-16"
 ---

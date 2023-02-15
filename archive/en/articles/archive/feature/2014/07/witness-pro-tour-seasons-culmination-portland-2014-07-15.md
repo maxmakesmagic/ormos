@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mike Rosenberg"
 [_metadata_:description]:- "The culmination of a stellar season of Magic is at Pro Tour Magic 2015."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "252501"
 [_metadata_:publish_date]:- "2014-07-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Witness the Pro Tour Season's Culmination in Portland"
-[_metadata_:wayback_capture_timestamp]:- "2020-05-28 02:53:39+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-05-28 02:53:39"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200528025339id_/https://magic.wizards.com/en/articles/archive/feature/witness-pro-tour-seasons-culmination-portland-2014-07-15"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/witness-pro-tour-seasons-culmination-portland-2014-07-15"
 ---

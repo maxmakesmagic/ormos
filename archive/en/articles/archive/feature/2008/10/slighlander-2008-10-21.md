@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: TheFriendlyHippo's Sligh/RDW Format: 100 Card Singleton 1 Barbarian Ring 1 Boros Garrison 1 Forgotten Cave 1 Ghitu Encampment 1 Gruul Turf 1 Izzet Boilerworks 1 Keldon Megaliths 1 Keldon Necropolis 1 Kher Keep 1 Mikokoro, Center of the Sea 1 Mishra's Factory 1 Mountain 1 Mouth of Ronom 1 Mutavault 1 Pendelhaven 1 Rakdos Carnarium 1 Shinka, the Bloodsoaked"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "669516"
 [_metadata_:publish_date]:- "2008-10-21"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Slighlander"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-25 08:44:34+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-25 08:44:34"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025084434id_/https://magic.wizards.com/en/articles/archive/feature/slighlander-2008-10-21"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/slighlander-2008-10-21"
 ---

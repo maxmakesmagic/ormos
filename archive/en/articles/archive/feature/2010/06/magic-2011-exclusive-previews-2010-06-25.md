@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Previews for the Magic 2011 core set are in full swing! You can already find lots of cards, both new and reprinted, in the Visual Spoiler on the M11 mini-site.What's that you say? You're hungry for more? Well, good news! Tonight there's a plethora of cool new cards popping up all over the Magic web, and we're here to point you toward some of them.The previews in question will"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "601011"
 [_metadata_:publish_date]:- "2010-06-25"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic 2011 Exclusive Previews"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-20 15:11:36+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-20 15:11:36"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120151136id_/https://magic.wizards.com/en/articles/archive/feature/magic-2011-exclusive-previews-2010-06-25"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-2011-exclusive-previews-2010-06-25"
 ---

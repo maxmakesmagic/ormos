@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Grand Prix Indianapolis Trials will be run at North American WPN locations from October 13 to December 9, 2012. Each awards the winner a three-round bye to Grand Prix Indianapolis.Entry FeeEntry fee varies from location to location. Check with local organizer for specific information.FormatThe format for each Grand Prix Trial chosen by the individual store running the event."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "728601"
 [_metadata_:publish_date]:- "2012-09-25"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Indianapolis 2013 Trials"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-28 09:41:00+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-28 09:41:00"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220528094100id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-indianapolis-2013-trials-2012-09-25"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-indianapolis-2013-trials-2012-09-25"
 ---

@@ -4,9 +4,11 @@
 
 [_metadata_:description]:- "Rui Oliveira Alex Shvartsman vs. Rafael Le Saux The Magic Shirt Voodoo finally ran out on Rafael last round and he lost the match. Now he is facing the face archetype, Finkula, in the more than capable and experiment hands of Alex Shvartsman. They are both on the right way to the Top 8 and a win here will almost seal the deal for one of them."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "958716"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 10: Alex Shvartsman vs. Rafael Le Saux"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-30 07:38:03+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-30 07:38:03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030073803id_/https://magic.wizards.com/en/articles/archive/feature/round-10-alex-shvartsman-vs-rafael-le-saux-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-10-alex-shvartsman-vs-rafael-le-saux-2000-01-01"
 ---

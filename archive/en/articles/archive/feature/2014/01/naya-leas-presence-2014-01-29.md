@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Gerry Thompson"
 [_metadata_:description]:- "Brad Nelson took a Naya Midrange deck to a 1st-place finish at the end of October, but that deck essentially disappeared after that. He insisted it was a metagame deck that he'd bring back once the time was right. Perhaps JonteB feels the time is right? JonteB's deck is a little different than Brad's, as it has mana acceleration that doesn't play well with Anger of the Gods."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "667531"
 [_metadata_:publish_date]:- "2014-01-29"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Naya-lea's Presence"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-12 12:14:46+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-12 12:14:46"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220812121446id_/https://magic.wizards.com/en/articles/archive/feature/naya-leas-presence-2014-01-29"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/naya-leas-presence-2014-01-29"
 ---

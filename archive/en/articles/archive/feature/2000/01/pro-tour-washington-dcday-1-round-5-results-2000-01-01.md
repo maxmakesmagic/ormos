@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Opponent Result 770 One-Ders Lost, 1-2 Amsterdam Taz Won, 2-0 Antarctica Mana-Hattan Won, 2-0 ATM Luscious Won, 2-0 Babes of the Dingo Utrecht Lost, 1-2 Big Dogs The Tank Lost, 1-2 Billy Goats Gruff Hellfire Hannover Won, 2-1 Brown Bomber Shpadoinkle Lost, 1-2 CCC SLB Won, 2-0 Champions Les Lapins Bleus Won, 2-1 CMU Neutral Ground Detroit Won, 1-0-2 Comrades Lost in"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "951321"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour - Washington D.C.Day 1 Round 5 Results"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-17 11:01:08+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-17 11:01:08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517110108id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-5-results-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-5-results-2000-01-01"
 ---

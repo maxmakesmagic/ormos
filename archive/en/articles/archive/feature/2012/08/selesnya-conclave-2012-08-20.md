@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "*/"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "697376"
 [_metadata_:publish_date]:- "2012-08-20"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Selesnya Conclave"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-01 01:20:55+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-01 01:20:55"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170301012055id_/http://magic.wizards.com/en/articles/archive/feature/selesnya-conclave-2012-08-20"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/selesnya-conclave-2012-08-20"
 ---

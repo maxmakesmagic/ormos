@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Agents of Artifice, the first planeswalker novel, releases on January 27 and that's just one week away. In honor of the event we are pleased to present the first of three web comics featuring Tezzeret, one of the three planeswalkers you'll be able to read about in Agents of Artifice."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "682161"
 [_metadata_:publish_date]:- "2009-01-20"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Seeker's Fall, Part 1"
-[_metadata_:wayback_capture_timestamp]:- "2017-02-11 19:10:17+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-02-11 19:10:17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170211191017id_/http://magic.wizards.com/en/articles/archive/feature/seekers-fall-part-1-2009-01-20-0"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/seekers-fall-part-1-2009-01-20-0"
 ---

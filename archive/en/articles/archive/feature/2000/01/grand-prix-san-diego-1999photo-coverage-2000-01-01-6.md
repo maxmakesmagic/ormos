@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "   Igor Frayman"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "952981"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix-San Diego 1999Photo Coverage"
-[_metadata_:wayback_capture_timestamp]:- "2020-09-18 12:02:43+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-09-18 12:02:43"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200918120243id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-san-diego-1999photo-coverage-2000-01-01-6"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-san-diego-1999photo-coverage-2000-01-01-6"
 ---

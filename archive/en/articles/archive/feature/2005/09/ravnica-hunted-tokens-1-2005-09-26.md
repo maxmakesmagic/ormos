@@ -4,9 +4,11 @@
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "597936"
 [_metadata_:publish_date]:- "2005-09-26"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Ravnica Hunted Tokens 1"
-[_metadata_:wayback_capture_timestamp]:- "2016-01-31 20:37:23+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-01-31 20:37:23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160131203723id_/http://magic.wizards.com/en/articles/archive/feature/ravnica-hunted-tokens-1-2005-09-26"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/ravnica-hunted-tokens-1-2005-09-26"
 ---

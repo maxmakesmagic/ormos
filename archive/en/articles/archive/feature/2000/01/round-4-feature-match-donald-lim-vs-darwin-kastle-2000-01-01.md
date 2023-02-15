@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Adrian Sullivan Darwin Kastle, this year's leader in the Player of the Year race, needs little introduction. Kastle was playing a Black/Green/Red deck, and seemed none too happy about it. Using Mercenary search and a typical Green/Red mix of creatures and elimination. Neutral Grounder Donald Lim is well known in New York City and recently has achieved more notoriety because"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "949311"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 4 Feature Match - Donald Lim vs. Darwin Kastle"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-22 18:14:31+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-22 18:14:31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522181431id_/https://magic.wizards.com/en/articles/archive/feature/round-4-feature-match-donald-lim-vs-darwin-kastle-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-4-feature-match-donald-lim-vs-darwin-kastle-2000-01-01"
 ---

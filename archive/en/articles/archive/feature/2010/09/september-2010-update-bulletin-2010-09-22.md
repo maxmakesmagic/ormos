@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Matt Tabak"
 [_metadata_:description]:- "Welcome to my first Update Bulletin, giving you the heads-up on all the wonderful improvements to the Comprehensive Rulebook and Oracle database we've arrived at over the past few months. As Mark Gottlieb mentioned in the last Update Bulletin, he's off vacationing in developer-land for a while, and in his absence I've been tasked with managing the rules. Or ruling the managers. One of those."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "604446"
 [_metadata_:publish_date]:- "2010-09-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "September 2010 Update Bulletin"
-[_metadata_:wayback_capture_timestamp]:- "2017-08-15 10:28:41+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-15 10:28:41"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170815102841id_/http://magic.wizards.com/en/articles/archive/feature/september-2010-update-bulletin-2010-09-22"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/september-2010-update-bulletin-2010-09-22"
 ---

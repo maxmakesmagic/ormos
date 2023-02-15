@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "FirstLastInvitation SourceRegional DateRegional CityRegional Country CarlosPal2008 National Championn/an/an/a ArickDickerman2008 National Teamn/an/an/a CarlosPal2008 National Teamn/an/an/a FernandoSolorzano2008 National Teamn/an/an/a MarinoDonato Sandoval2008 Alternaten/an/an/a CarlosPalPro Club 2+n/an/an/a FernandoSolorzanoPro Club 2+n/an/an/a CarlosPalTop 20 Composite"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "730071"
 [_metadata_:publish_date]:- "2009-06-24"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2009 Campeonato Nacional Costa Rica"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-20 23:05:15+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-20 23:05:15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520230515id_/https://magic.wizards.com/en/articles/archive/feature/2009-campeonato-nacional-costa-rica-2009-06-24"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2009-campeonato-nacional-costa-rica-2009-06-24"
 ---

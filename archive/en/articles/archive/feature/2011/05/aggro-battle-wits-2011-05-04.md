@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Kenny Mayer's Aggro Battle of Wits Format: Legacy 1 Forest 1 Island 2 Mountain 2 Plains 4 Arid Mesa 4 Bloodstained Mire 4 Copperline Gorge 4 Flooded Strand 4 Horizon Canopy 4 Marsh Flats 1 Maze of Ith 4 Misty Rainforest 4 Plateau 4 Polluted Delta 4 Raging Ravine 4 Razorverge Thicket 4 Savannah 4 Scalding Tarn 4 Stirring Wildwood 4 Taiga 2 Tropical Island 3 Tundra 4 Verdant Catacombs 3 Volcanic Island"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "670996"
 [_metadata_:publish_date]:- "2011-05-04"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Aggro Battle of Wits"
-[_metadata_:wayback_capture_timestamp]:- "2021-01-25 18:25:58+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-01-25 18:25:58"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210125182558id_/https://magic.wizards.com/en/articles/archive/feature/aggro-battle-wits-2011-05-04"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/aggro-battle-wits-2011-05-04"
 ---

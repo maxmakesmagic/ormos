@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20220520184823/https://magic.wizards.com/en/articles/archive/feature/commander-legends-battle-baldurs-gate-mechanics-2022-05-18?utm_campaign=CLB---Commander-Legends%3A-Battle-for-Baldur's-Gate&utm_source=FACEBOOK&utm_medium=social&utm_content=6990310124)
+[Link to Wayback Machine](https://web.archive.org/web/20220808204745/https://magic.wizards.com/en/articles/archive/feature/commander-legends-battle-baldurs-gate-mechanics-2022-05-18?utm_source=MTGNexus&utm_medium=SetPreviews)
 
 [_metadata_:author]:- "Jess Dunks"
 [_metadata_:description]:- "How will you build your legend? Here's a look at the latest mechanics and cards coming with Commander Legends: Battle for Baldur's Gate!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1586740"
 [_metadata_:publish_date]:- "2022-05-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Commander Legends: Battle for Baldur's Gate Mechanics"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-20 18:48:23+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520184823id_/https://magic.wizards.com/en/articles/archive/feature/commander-legends-battle-baldurs-gate-mechanics-2022-05-18?utm_campaign=CLB---Commander-Legends%3A-Battle-for-Baldur's-Gate&utm_source=FACEBOOK&utm_medium=social&utm_content=6990310124"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/commander-legends-battle-baldurs-gate-mechanics-2022-05-18?utm_campaign=CLB---Commander-Legends%3A-Battle-for-Baldur's-Gate&utm_source=FACEBOOK&utm_medium=social&utm_content=6990310124"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-08 20:47:45"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220808204745id_/https://magic.wizards.com/en/articles/archive/feature/commander-legends-battle-baldurs-gate-mechanics-2022-05-18?utm_source=MTGNexus&utm_medium=SetPreviews"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/commander-legends-battle-baldurs-gate-mechanics-2022-05-18?utm_source=MTGNexus&utm_medium=SetPreviews"
 ---
 
 

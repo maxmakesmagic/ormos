@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Randy Buehler"
 [_metadata_:description]:- "Both players ran Necro-Donate decks in the Type 1 portion of the tournament, but this wasn't really a mirror match-up. Finkel's deck was more explosive, including off-color Moxes, mana Crypt, etc. while Pikula's deck tried to stick to just black and blue cards and mana. Pikula felt he was a slight favorite because he expected Jon to have to mulligan more due to bad mana."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "963291"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Finals Recap - Classic"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-29 10:52:01+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-29 10:52:01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171029105201id_/https://magic.wizards.com/en/articles/archive/feature/finals-recap-classic-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/finals-recap-classic-2000-01-01"
 ---

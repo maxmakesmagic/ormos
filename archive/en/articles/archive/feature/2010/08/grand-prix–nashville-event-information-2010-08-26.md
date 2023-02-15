@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "InformationTournament Schedule Tournament Byes Public Events Artist Information Travel Information Contact Information Date: November 20-21, 2010Format: Scars of Mirrodin Sealed Deck / Booster DraftTournament Location Gaylord Opryland Hotel and Convention Center 2800 Opryland Drive Nashville, TN 37214 Registration: $40 Friday, November 19: Registration 2 p.m. - 9 p.m."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "729141"
 [_metadata_:publish_date]:- "2010-08-26"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix–Nashville Event Information"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-17 10:31:19+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-17 10:31:19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220117103119id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93nashville-event-information-2010-08-26"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93nashville-event-information-2010-08-26"
 ---

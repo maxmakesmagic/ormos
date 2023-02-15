@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20220525231158/https://magic.wizards.com/en/articles/archive/feature/ask-wizards-november-2008-2008-11-03)
+[Link to Wayback Machine](https://web.archive.org/web/20211127172718/https://magic.wizards.com/en/articles/archive/feature/ask-wizards-november-2008-2008-11-03)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Do you have a question about Magic: The Gathering or Wizards of the Coast? Send it, along with your name and location, to us via this email form. We'll post a new question and answer each day.What's going on with Ask Wizards?November 13, 2008 Q: What's going on with Ask Wizards? Ask Wizards is becoming an occasional feature in Magic Arcana, where we'll answer several questions"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "663371"
 [_metadata_:publish_date]:- "2008-11-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Ask Wizards - November, 2008"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-25 23:11:58+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525231158id_/https://magic.wizards.com/en/articles/archive/feature/ask-wizards-november-2008-2008-11-03"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-27 17:27:18"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211127172718id_/https://magic.wizards.com/en/articles/archive/feature/ask-wizards-november-2008-2008-11-03"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ask-wizards-november-2008-2008-11-03"
 ---
 

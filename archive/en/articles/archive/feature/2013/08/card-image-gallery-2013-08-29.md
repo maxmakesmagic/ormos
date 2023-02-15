@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20160806220846/http://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2013-08-29)
+[Link to Wayback Machine](https://web.archive.org/web/20220123104319/https://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2013-08-29)
 
 [_metadata_:author]:- "Wizards of the Coast"
-[_metadata_:description]:- "&#13; Welcome to the Card Image Gallery for Theros. Here you can see every Theros card. If you're looking for a specific card, use the Gatherer card search."
+[_metadata_:description]:- "Welcome to the Card Image Gallery for Theros. Here you can see every Theros card. If you're looking for a specific card, use the Gatherer card search."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "707536"
 [_metadata_:publish_date]:- "2013-08-29"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Card Image Gallery"
-[_metadata_:wayback_capture_timestamp]:- "2016-08-06 22:08:46+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160806220846id_/http://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2013-08-29"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2013-08-29"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-23 10:43:19"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220123104319id_/https://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2013-08-29"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2013-08-29"
 ---
 
 
@@ -26,7 +28,7 @@
 
 
 
-![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
 By Wizards of the Coast
 
 

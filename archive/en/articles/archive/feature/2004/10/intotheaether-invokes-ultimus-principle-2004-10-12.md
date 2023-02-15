@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Jay Moldenhauer-Salazar"
 [_metadata_:description]:- "Mistform Ultimus, recently sighted in a field of forget-me-notsI issued a (small, admittedly) challenge, and you rose from your computer chairs to meet that challenge. Thanks to you, I played a thoroughly enjoyable week of Tribal Wars games versus a menagerie of kooky decks. I saw monoblack-Beasts, Spiders, Cephalids, Illusions, Kavu, Dwarves, and Battlemages, just to name a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "626181"
 [_metadata_:publish_date]:- "2004-10-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "IntoTheAether Invokes the Ultimus Principle"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-03 04:34:57+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-03 04:34:57"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503043457id_/https://magic.wizards.com/en/articles/archive/feature/intotheaether-invokes-ultimus-principle-2004-10-12"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/intotheaether-invokes-ultimus-principle-2004-10-12"
 ---

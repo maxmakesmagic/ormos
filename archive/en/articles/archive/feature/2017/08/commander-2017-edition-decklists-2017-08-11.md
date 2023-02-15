@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20201112023234/https://magic.wizards.com/en/articles/archive/feature/commander-2017-edition-decklists-2017-08-11)
+[Link to Wayback Machine](https://web.archive.org/web/20170901073612/http://magic.wizards.com/en/articles/archive/feature/commander-2017-edition-decklists-2017-08-11)
 
 [_metadata_:author]:- "Blake Rasmussen"
 [_metadata_:description]:- "Blake reveals the decklists for the Commander (2017 Edition) decks!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1185836"
 [_metadata_:publish_date]:- "2017-08-11"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Commander (2017 Edition) Decklists"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 02:32:34+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112023234id_/https://magic.wizards.com/en/articles/archive/feature/commander-2017-edition-decklists-2017-08-11"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/commander-2017-edition-decklists-2017-08-11"
+[_metadata_:wayback_capture_timestamp]:- "2017-09-01 07:36:12"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170901073612id_/http://magic.wizards.com/en/articles/archive/feature/commander-2017-edition-decklists-2017-08-11"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/commander-2017-edition-decklists-2017-08-11"
 ---
 
 
@@ -59,7 +61,6 @@ And if you wonder what a card is on one of these lists, keep the [full Card Imag
 
 
 
-
 #### Feline Ferocity
 
 
@@ -70,9 +71,7 @@ And if you wonder what a card is on one of these lists, keep the [full Card Imag
 
 
 
-![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
 ![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
-
 
 
 
@@ -1141,7 +1140,7 @@ COMMANDER:
 
 
 
-##### Common (24)
+##### Common (28)
 
 
 
@@ -1154,7 +1153,15 @@ COMMANDER:
 
 
 1
+[Cultivate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCultivate%5D)
+
+
+1
 [Nissa's Pilgrimage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNissa%5D+%5BPilgrimage%5D)
+
+
+1
+[Relic Crush](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5BCrush%5D)
 
 
 1
@@ -1190,6 +1197,10 @@ COMMANDER:
 
 
 1
+[Secluded Steppe](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSecluded%5D+%5BSteppe%5D)
+
+
+1
 [Selesnya Guildgate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelesnya%5D+%5BGuildgate%5D)
 
 
@@ -1197,8 +1208,12 @@ COMMANDER:
 [Terramorphic Expanse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTerramorphic%5D+%5BExpanse%5D)
 
 
+1
+[Tranquil Thicket](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTranquil%5D+%5BThicket%5D)
 
-##### Uncommon (36)
+
+
+##### Uncommon (33)
 
 
 
@@ -1240,10 +1255,6 @@ COMMANDER:
 
 1
 [Harmonize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHarmonize%5D)
-
-
-1
-[Relic Crush](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5BCrush%5D)
 
 
 1
@@ -1319,10 +1330,6 @@ COMMANDER:
 
 
 1
-[Secluded Steppe](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSecluded%5D+%5BSteppe%5D)
-
-
-1
 [Selesnya Sanctuary](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSelesnya%5D+%5BSanctuary%5D)
 
 
@@ -1335,10 +1342,6 @@ COMMANDER:
 
 
 1
-[Tranquil Thicket](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTranquil%5D+%5BThicket%5D)
-
-
-1
 [Vivid Meadow](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVivid%5D+%5BMeadow%5D)
 
 
@@ -1347,7 +1350,7 @@ COMMANDER:
 
 
 
-##### Rare (35)
+##### Rare (34)
 
 
 
@@ -1487,10 +1490,6 @@ COMMANDER:
 [Stirring Wildwood](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStirring%5D+%5BWildwood%5D)
 
 
-1
-[Cultivate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCultivate%5D)
-
-
 
 ##### Mythic (4)
 
@@ -1540,7 +1539,6 @@ COMMANDER:
 
 
 
-
 #### Vampiric Bloodlust
 
 
@@ -1551,9 +1549,7 @@ COMMANDER:
 
 
 
-![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
 ![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
-
 
 
 
@@ -2624,7 +2620,7 @@ COMMANDER:
 
 
 
-##### Common (34)
+##### Common (35)
 
 
 
@@ -2638,6 +2634,18 @@ COMMANDER:
 
 1
 [Tithe Drinker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTithe%5D+%5BDrinker%5D)
+
+
+1
+[Boros Signet](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBoros%5D+%5BSignet%5D)
+
+
+1
+[Orzhov Signet](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrzhov%5D+%5BSignet%5D)
+
+
+1
+[Rakdos Signet](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRakdos%5D+%5BSignet%5D)
 
 
 8
@@ -2669,10 +2677,6 @@ COMMANDER:
 
 
 1
-[Cinder Barrens](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCinder%5D+%5BBarrens%5D)
-
-
-1
 [Command Tower](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCommand%5D+%5BTower%5D)
 
 
@@ -2689,15 +2693,7 @@ COMMANDER:
 
 
 1
-[Orzhov Basilica](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrzhov%5D+%5BBasilica%5D)
-
-
-1
 [Orzhov Guildgate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrzhov%5D+%5BGuildgate%5D)
-
-
-1
-[Rakdos Carnarium](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRakdos%5D+%5BCarnarium%5D)
 
 
 1
@@ -2709,6 +2705,10 @@ COMMANDER:
 
 
 1
+[Stone Quarry](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStone%5D+%5BQuarry%5D)
+
+
+1
 [Terramorphic Expanse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTerramorphic%5D+%5BExpanse%5D)
 
 
@@ -2717,12 +2717,8 @@ COMMANDER:
 
 
 
-##### Uncommon (30)
+##### Uncommon (28)
 
-
-
-1
-[Sanguine Bond](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSanguine%5D+%5BBond%5D)
 
 
 1
@@ -2794,18 +2790,6 @@ COMMANDER:
 
 
 1
-[Boros Signet](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBoros%5D+%5BSignet%5D)
-
-
-1
-[Orzhov Signet](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrzhov%5D+%5BSignet%5D)
-
-
-1
-[Rakdos Signet](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRakdos%5D+%5BSignet%5D)
-
-
-1
 [Skullclamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkullclamp%5D)
 
 
@@ -2826,6 +2810,10 @@ COMMANDER:
 
 
 1
+[Cinder Barrens](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCinder%5D+%5BBarrens%5D)
+
+
+1
 [Forsaken Sanctuary](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForsaken%5D+%5BSanctuary%5D)
 
 
@@ -2834,7 +2822,11 @@ COMMANDER:
 
 
 1
-[Stone Quarry](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStone%5D+%5BQuarry%5D)
+[Orzhov Basilica](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrzhov%5D+%5BBasilica%5D)
+
+
+1
+[Rakdos Carnarium](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRakdos%5D+%5BCarnarium%5D)
 
 
 1
@@ -2903,10 +2895,6 @@ COMMANDER:
 
 
 1
-[Blood Baron of Vizkopa](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlood%5D+%5BBaron%5D+%5Bof%5D+%5BVizkopa%5D)
-
-
-1
 [Butcher of Malakir](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BButcher%5D+%5Bof%5D+%5BMalakir%5D)
 
 
@@ -2936,6 +2924,10 @@ COMMANDER:
 
 1
 [Sangromancer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSangromancer%5D)
+
+
+1
+[Sanguine Bond](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSanguine%5D+%5BBond%5D)
 
 
 1
@@ -2975,7 +2967,7 @@ COMMANDER:
 
 
 
-##### Mythic (3)
+##### Mythic (4)
 
 
 
@@ -2991,13 +2983,16 @@ COMMANDER:
 [Bloodlord of Vaasgoth](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodlord%5D+%5Bof%5D+%5BVaasgoth%5D)
 
 
+1
+[Blood Baron of Vizkopa](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlood%5D+%5BBaron%5D+%5Bof%5D+%5BVizkopa%5D)
+
+
 99 Cards 
 
 
 
 
 ![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Edgar+Markov)
-
 
 
 
@@ -3030,9 +3025,7 @@ COMMANDER:
 
 
 
-![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
 ![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
-
 
 
 
@@ -4100,8 +4093,12 @@ COMMANDER:
 
 
 
-##### Common (26)
+##### Common (27)
 
+
+
+1
+[Cultivate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCultivate%5D)
 
 
 1
@@ -4157,16 +4154,8 @@ COMMANDER:
 
 
 
-##### Uncommon (32)
+##### Uncommon (30)
 
-
-
-1
-[Dragon Tempest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragon%5D+%5BTempest%5D)
-
-
-1
-[Bladewing the Risen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBladewing%5D+%5Bthe%5D+%5BRisen%5D)
 
 
 1
@@ -4290,7 +4279,7 @@ COMMANDER:
 
 
 
-##### Rare (38)
+##### Rare (36)
 
 
 
@@ -4327,14 +4316,6 @@ COMMANDER:
 
 
 1
-[Ryusei, the Falling Star](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRyusei,%5D+%5Bthe%5D+%5BFalling%5D+%5BStar%5D)
-
-
-1
-[Scourge of Valkas](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScourge%5D+%5Bof%5D+%5BValkas%5D)
-
-
-1
 [Sunscorch Regent](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSunscorch%5D+%5BRegent%5D)
 
 
@@ -4363,6 +4344,10 @@ COMMANDER:
 
 
 1
+[Dragon Tempest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragon%5D+%5BTempest%5D)
+
+
+1
 [Earthquake](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEarthquake%5D)
 
 
@@ -4383,6 +4368,10 @@ COMMANDER:
 
 
 1
+[Bladewing the Risen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBladewing%5D+%5Bthe%5D+%5BRisen%5D)
+
+
+1
 [Broodmate Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBroodmate%5D+%5BDragon%5D)
 
 
@@ -4400,10 +4389,6 @@ COMMANDER:
 
 1
 [Kolaghan, the Storm's Fury](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKolaghan,%5D+%5Bthe%5D+%5BStorm%5D+%5BFury%5D)
-
-
-1
-[Niv-Mizzet, Dracogenius](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNiv-Mizzet,%5D+%5BDracogenius%5D)
 
 
 1
@@ -4442,12 +4427,8 @@ COMMANDER:
 [Haven of the Spirit Dragon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHaven%5D+%5Bof%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D)
 
 
-1
-[Cultivate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCultivate%5D)
 
-
-
-##### Mythic (3)
+##### Mythic (6)
 
 
 
@@ -4460,7 +4441,19 @@ COMMANDER:
 
 
 1
+[Ryusei, the Falling Star](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRyusei,%5D+%5Bthe%5D+%5BFalling%5D+%5BStar%5D)
+
+
+1
+[Scourge of Valkas](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScourge%5D+%5Bof%5D+%5BValkas%5D)
+
+
+1
 [Utvara Hellkite](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUtvara%5D+%5BHellkite%5D)
+
+
+1
+[Niv-Mizzet, Dracogenius](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNiv-Mizzet,%5D+%5BDracogenius%5D)
 
 
 99 Cards 
@@ -4469,7 +4462,6 @@ COMMANDER:
 
 
 ![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=The+Ur-Dragon)
-
 
 
 
@@ -4502,9 +4494,7 @@ COMMANDER:
 
 
 
-![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
 ![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
-
 
 
 
@@ -5561,6 +5551,10 @@ COMMANDER:
 
 
 1
+[Terminate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTerminate%5D)
+
+
+1
 [Commander's Sphere](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCommander%5D+%5BSphere%5D)
 
 
@@ -5597,10 +5591,6 @@ COMMANDER:
 
 
 1
-[Rakdos Carnarium](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRakdos%5D+%5BCarnarium%5D)
-
-
-1
 [Swiftwater Cliffs](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwiftwater%5D+%5BCliffs%5D)
 
 
@@ -5609,12 +5599,8 @@ COMMANDER:
 
 
 
-##### Uncommon (28)
+##### Uncommon (27)
 
-
-
-1
-[Shadowmage Infiltrator](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShadowmage%5D+%5BInfiltrator%5D)
 
 
 1
@@ -5670,10 +5656,6 @@ COMMANDER:
 
 
 1
-[Terminate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTerminate%5D)
-
-
-1
 [Darksteel Ingot](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarksteel%5D+%5BIngot%5D)
 
 
@@ -5707,6 +5689,10 @@ COMMANDER:
 
 1
 [Jwar Isle Refuge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJwar%5D+%5BIsle%5D+%5BRefuge%5D)
+
+
+1
+[Rakdos Carnarium](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRakdos%5D+%5BCarnarium%5D)
 
 
 1
@@ -5760,10 +5746,6 @@ COMMANDER:
 
 1
 [Taigam, Sidisi's Hand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTaigam,%5D+%5BSidisi%5D+%5BHand%5D)
-
-
-1
-[Arcanis the Omnipotent](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArcanis%5D+%5Bthe%5D+%5BOmnipotent%5D)
 
 
 1
@@ -5835,6 +5817,10 @@ COMMANDER:
 
 
 1
+[Shadowmage Infiltrator](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShadowmage%5D+%5BInfiltrator%5D)
+
+
+1
 [Silumgar's Command](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSilumgar%5D+%5BCommand%5D)
 
 
@@ -5851,7 +5837,7 @@ COMMANDER:
 
 
 
-##### Mythic (7)
+##### Mythic (8)
 
 
 
@@ -5881,6 +5867,10 @@ COMMANDER:
 
 1
 [Vela the Night-Clad](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVela%5D+%5Bthe%5D+%5BNight-Clad%5D)
+
+
+1
+[Arcanis the Omnipotent](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArcanis%5D+%5Bthe%5D+%5BOmnipotent%5D)
 
 
 99 Cards 

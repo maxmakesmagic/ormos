@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Opponent Result Abe, Kazufumi (145) Crosby, Joseph (12) 1-2 Alvarenga, Rafael (76) Azevedo, Pedro (199) 2-0 Anzorena, Pablo (15) Cornelissen, Stijn (130) 2-1 Auer, Jeffrey (104) Tee, Andrew (153) 2-0 Azevedo, Pedro (199) Alvarenga, Rafael (76) 0-2 Bachmann, David (229) Wallach, Kenneth (125) 1-1 Baehr, Kevin (155) Prawdzik, Nathaniel (273) 0-2 Benefel, Chris (163) Van"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "950451"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-Los Angeles 2000Round 4 Results"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-26 17:49:16+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-26 17:49:16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126174916id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-4-results-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-4-results-2000-01-01"
 ---

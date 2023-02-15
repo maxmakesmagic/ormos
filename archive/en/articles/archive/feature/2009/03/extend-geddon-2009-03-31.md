@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Conley Woods's Extend-a-Geddon Format: Extended 4 Flagstones of Trokair 1 Forest 2 Forgotten Cave 1 Ghost Quarter 1 Horizon Canopy 1 Mountain 1 Plains 3 Sacred Foundry 1 Secluded Steppe 1 Stomping Ground 2 Temple Garden 2 Tranquil Thicket 1 Treetop Village 2 Windswept Heath 2 Wooded Foothills 4 Kitchen Finks 4 Knight of the Reliquary 4 Tarmogoyf 4 Ajani"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "668116"
 [_metadata_:publish_date]:- "2009-03-31"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Extend-a-Geddon"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-14 04:05:48+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-14 04:05:48"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220814040548id_/https://magic.wizards.com/en/articles/archive/feature/extend-geddon-2009-03-31"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/extend-geddon-2009-03-31"
 ---

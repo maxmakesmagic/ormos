@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "If you liked the idea of tokens with Voice of Resurgence to make the Elementals big, deel on Magic Online finished 4–0 in a Standard Daily with a list you might be interested in."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "666621"
 [_metadata_:publish_date]:- "2013-06-13"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Junk Tokens"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-29 17:13:07+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-29 17:13:07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170729171307id_/http://magic.wizards.com/en/articles/archive/feature/junk-tokens-2013-06-13"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/junk-tokens-2013-06-13"
 ---

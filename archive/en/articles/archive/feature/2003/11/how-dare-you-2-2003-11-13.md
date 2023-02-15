@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "Last week I presented the first wave of Acrostic Deck Dare deck submissions. This week I will present the second (and, sadly) last wave. There were so many great decks that I could easily write another column or two just to show them off. But it's time to move on. As I've said, there were hundreds of submissions, and I thank each and every person who sent one in. Acrostics"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "613686"
 [_metadata_:publish_date]:- "2003-11-13"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "How Dare You? 2"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-28 14:44:42+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-28 14:44:42"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220528144442id_/https://magic.wizards.com/en/articles/archive/feature/how-dare-you-2-2003-11-13"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/how-dare-you-2-2003-11-13"
 ---

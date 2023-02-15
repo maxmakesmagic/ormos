@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This week's desktop wallpaper showcases Agrus Kos, Wojek Veteran from this week's Ravnica: City of Guilds previews. As a bonus, we bring you a wallpaper of Crown of Convergence, a Ravnica card we've not yet previewed, which happens to be the Magic art debut of the web team's own Jen Page. Enjoy."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "609116"
 [_metadata_:publish_date]:- "2005-09-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Wallpaper of the Week: Agrus Kos and Crown of Convergence"
-[_metadata_:wayback_capture_timestamp]:- "2016-04-14 01:24:31+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-04-14 01:24:31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160414012431id_/http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-agrus-kos-and-crown-convergence-2005-09-09"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-agrus-kos-and-crown-convergence-2005-09-09"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Gerry Thompson"
 [_metadata_:description]:- "Sometimes you take an already reasonable two-color deck and add a five-color card. Cards that require the full five colors of mana are typically powerful, and Chromanticore is no exception. As it turns out, splashing Chromanticore isn't actually all that difficult! For help, we turn to Chromatic Lantern and Axebane Guardian, both of which can get you to Chromanticore Land."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "667746"
 [_metadata_:publish_date]:- "2014-03-25"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Chrostandardcore"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-19 19:47:44+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-19 19:47:44"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220819194744id_/https://magic.wizards.com/en/articles/archive/feature/chrostandardcore-2014-03-25"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/chrostandardcore-2014-03-25"
 ---

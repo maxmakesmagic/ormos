@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Kim Eikefet"
 [_metadata_:description]:- "The Top 8"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "960121"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Players as Magic Cards"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-31 03:42:22+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-31 03:42:22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171031034222id_/https://magic.wizards.com/en/articles/archive/feature/pro-players-magic-cards-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-players-magic-cards-2000-01-01"
 ---

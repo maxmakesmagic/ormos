@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210418000146/https://magic.wizards.com/en/articles/archive/feature/amonkhet-prerelease-primer-2017-04-17)
+[Link to Wayback Machine](https://web.archive.org/web/20210429044430/https://magic.wizards.com/en/articles/archive/feature/amonkhet-prerelease-primer-2017-04-17)
 
 [_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "Gavin has all the info you need to make the most of your Amonkhet Prerelease!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1134631"
 [_metadata_:publish_date]:- "2017-04-17"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Amonkhet Prerelease Primer"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-18 00:01:46+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210418000146id_/https://magic.wizards.com/en/articles/archive/feature/amonkhet-prerelease-primer-2017-04-17"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 04:44:30"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429044430id_/https://magic.wizards.com/en/articles/archive/feature/amonkhet-prerelease-primer-2017-04-17"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/amonkhet-prerelease-primer-2017-04-17"
 ---
 

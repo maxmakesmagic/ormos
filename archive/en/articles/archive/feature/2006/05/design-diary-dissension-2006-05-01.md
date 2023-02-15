@@ -4,9 +4,11 @@
 
 [_metadata_:author]:- "Aaron Forsythe"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "292431"
 [_metadata_:publish_date]:- "2006-05-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Design Diary: Dissension"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-25 11:34:32+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-25 11:34:32"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201125113432id_/https://magic.wizards.com/en/articles/archive/feature/design-diary-dissension-2006-05-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/design-diary-dissension-2006-05-01"
 ---

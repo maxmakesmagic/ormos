@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "FirstLastInvitation Source HyunWooJeong2010 National Team Jun YoungPark2010 National Team Tae-sunYoon2010 National Team HyunWooJeong2010 National Champion Kyoung GeunNamTop 75 Country rating JoeWallerTop 75 Country rating Kil-hoLeeTop 75 Country rating Min-SooKimTop 75 Country rating hark-keunleeTop 75 Country rating Hee-jaeChoiTop 75 Country rating Ji-HoonLeeTop 75 Country"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "730391"
 [_metadata_:publish_date]:- "2009-04-27"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2011 South Korea National Championship"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-27 04:19:58+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-27 04:19:58"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527041958id_/https://magic.wizards.com/en/articles/archive/feature/2011-south-korea-national-championship-2009-04-27"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-south-korea-national-championship-2009-04-27"
 ---

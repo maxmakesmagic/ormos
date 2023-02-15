@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20201216162217/https://magic.wizards.com/en/articles/archive/feature/where-find-kaldheim-previews-2020-12-15?utm_source=dlvr.it&utm_medium=twitter)
+[Link to Wayback Machine](https://web.archive.org/web/20201215165534/https://magic.wizards.com/en/articles/archive/feature/where-find-kaldheim-previews-2020-12-15)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "What's been previewed, what's going to be previewed, and where you can find all of it for Kaldheim, right here!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1521728"
 [_metadata_:publish_date]:- "2020-12-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Where to Find Kaldheim Previews"
-[_metadata_:wayback_capture_timestamp]:- "2020-12-16 16:22:17+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201216162217id_/https://magic.wizards.com/en/articles/archive/feature/where-find-kaldheim-previews-2020-12-15?utm_source=dlvr.it&utm_medium=twitter"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/where-find-kaldheim-previews-2020-12-15?utm_source=dlvr.it&utm_medium=twitter"
+[_metadata_:wayback_capture_timestamp]:- "2020-12-15 16:55:34"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201215165534id_/https://magic.wizards.com/en/articles/archive/feature/where-find-kaldheim-previews-2020-12-15"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/where-find-kaldheim-previews-2020-12-15"
 ---
 
 
@@ -57,9 +59,7 @@ So bookmark this page and check back regularly for all the latest previews from 
 **December 15–17**
 
 
-* [Angra](https://www.instagram.com/angraofficial/)
-* [Mastadon](https://www.facebook.com/watch/?v=417794722675044)
-* [Torche](https://www.facebook.com/torcheofficial/posts/3723378717705170)
+* *[Magic's Metal Week](https://magic.wizards.com/en/articles/archive/feature/welcome-face-melting-world-kaldheim-2020-12-14)*
 
 **December 24**
 
@@ -99,12 +99,12 @@ So bookmark this page and check back regularly for all the latest previews from 
 
 
 * [Cedric Phillips](https://twitter.com/CedricAPhillips)
+* [Destripando la Historia](https://www.youtube.com/channel/UCxIBZ-nQhgZES3UaTm8eDPA)
 * [EMP.de](https://www.emp.de/)
 * [Iyingdi](https://www.iyingdi.com/)
 * [Márcio Carvalho](https://twitter.com/kbolmagic)
 * [NGA](https://bbs.nga.cn/)
 * [nl\_Kripp](https://www.twitch.tv/nl_kripp)
-* [Rodrigo Septién](https://www.instagram.com/rodrigoseptienmusic/)
 * [TappyToeClaws](https://www.twitch.tv/tappytoeclaws)
 * [The Gamer](https://www.thegamer.com/tag/magic-the-gathering/)
 * [TheManaLeek](https://www.youtube.com/user/TheManaLeek)
@@ -115,11 +115,11 @@ So bookmark this page and check back regularly for all the latest previews from 
 * [66samus](https://www.youtube.com/channel/UC3unJShm6iXtw9QgDnb9KPg)
 * [AliEldrazi](https://twitter.com/AliEldrazi)
 * [Amazonian](https://www.twitch.tv/amazonian/)
-* [Ashlizzlle](https://twitter.com/F2K_Ashlizzlle)
+* [ashlizzlle](https://twitter.com/F2K_Ashlizzlle/)
 * [Carlos Romao](https://twitter.com/jabsmtg?lang=en)
 * [Glamshatterskull](https://twitter.com/GlamShatterskll)
-* [Lacuna Coil](https://twitter.com/lacuna_coil)
 * [Levunga](https://twitter.com/levunga?lang=en)
+* [PolyHS](https://www.instagram.com/poly.hs/)
 * [Riley Knight](https://www.twitch.tv/rileyquarytower)
 * [Shiro Games](https://shirogames.com/)
 
@@ -141,8 +141,8 @@ So bookmark this page and check back regularly for all the latest previews from 
 * [MTGNerdGirl](https://twitter.com/MTGNerdGirl)
 * [mtg-jp.com](https://mtg-jp.com/)
 * [Tencent](https://passport.weibo.cn/)
-* [TheMaverickGal](https://twitter.com/TheMaverickGal)
 * [The Vorthos Cast](https://twitter.com/TheVorthosCast/)
+* [Tolarian Community College](https://www.youtube.com/channel/UC7-hR5EfgpM6oHfiGDkxfMA)
 * [Umotivo](https://www.youtube.com/channel/UCQxWq7wL4HY40mqbr3f0Z2A)
 * [Voxy](https://twitter.com/VoxyTwitch)
 
@@ -150,7 +150,7 @@ So bookmark this page and check back regularly for all the latest previews from 
 
 
 * [@MTGArenaJP](https://twitter.com/MTGArenaJP/)
-* [Anthares](https://www.youtube.com/user/canalplayingalot)
+* [Anthares](https://www.instagram.com/anthares_metal/?hl=en)
 * [Autumn Burchett](https://twitter.com/AutumnLilyMTG)
 * [Bloody](https://twitter.com/Bloody)
 * [*Magic: The Gathering* Chinese Traditional Facebook](https://www.facebook.com/MagicTheGathering.ct/)
@@ -172,12 +172,11 @@ So bookmark this page and check back regularly for all the latest previews from 
 * [AffinityArtifacts](https://twitter.com/goberthicks)
 * [After Office TTV](https://twitter.com/afterttv?lang=en)
 * [AttackOnGeek](https://attackongeek.com/)
-* [Commander Cookout](http://www.commandercookout.com/)
 * [Corey Baumeister](https://twitter.com/CoreyBaumeister)
 * [corocoro.jp](https://corocoro.jp/)
-* [Dagoba](https://twitter.com/DAGOBA1)
 * [Eduardo Sajgalik](https://twitter.com/Walaoumpa)
 * [InfiniTokens](https://www.infinitokens.com/)
+* [Le Journal du Geek](https://www.journaldugeek.com/)
 * [Matias Leveratto](https://twitter.com/levunga?lang=en)
 * [MythicMikaela](https://twitter.com/mythicmikaela)
 * [Resurrection Fest](https://www.facebook.com/resurrectionfest/)
@@ -210,6 +209,7 @@ So bookmark this page and check back regularly for all the latest previews from 
 **January 15**
 
 
+* [AllieStrasza](https://twitter.com/Alliestrasza)
 * [Christian Hauck](https://twitter.com/chrhauck)
 * [Crendor](https://twitter.com/crendor)
 * [Deathsie](https://twitter.com/Deathsie)
@@ -220,7 +220,6 @@ So bookmark this page and check back regularly for all the latest previews from 
 * [Brazil and LATAM YouTube Channel](https://www.youtube.com/channel/UCrwOIvg-wjYD_g-HzNxUTBg)
 * [Lierson](https://twitter.com/lierson)
 * [Magic.gg](https://magic.gg/)
-* [Naver Café](https://cafe.naver.com/mtgkr)
 * [Pedro](https://twitter.com/_megafone_)
 * [Rhapsody of Fire](https://twitter.com/_rhapsodyoffire)
 * [Semulin](https://twitter.com/semulin)
@@ -243,9 +242,11 @@ So bookmark this page and check back regularly for all the latest previews from 
 **January 17**
 
 
+* [Chainbrain](https://twitter.com/xchainbrain)
 * [Metalorgie](https://www.metalorgie.com/)
 * [Miguel Simões](https://twitter.com/edmvyrus_)
 * [RuuTV](https://www.twitch.tv/ruutv)
+* [ToxicxEternity](https://www.youtube.com/user/ToxicxEternity)
 
 **January 18**
 

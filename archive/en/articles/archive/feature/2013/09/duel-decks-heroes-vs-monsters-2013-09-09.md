@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Collector's Highlights Each of the cards in the two 60-card decks will be black-bordered and tournament legal. This means that these cards are legal for use in any tournaments where the original printings are still legal.  Game Features Deck Design: Chris Millar Deck Development: Kelly Digges and Sam Stoddard Twitter Hashtag: #MTGHVM Languages Available: English, Japanese"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "697486"
 [_metadata_:publish_date]:- "2013-09-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Duel Decks: Heroes vs. Monsters"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-06 12:07:15+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-06 12:07:15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211206120715id_/https://magic.wizards.com/en/articles/archive/feature/duel-decks-heroes-vs-monsters-2013-09-09"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/duel-decks-heroes-vs-monsters-2013-09-09"
 ---

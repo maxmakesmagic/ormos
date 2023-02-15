@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "#NameCostTypeP/TRules TextFlavor TextRarityArtist63Ad Nauseam3BBInstant Reveal the top card of your library and put that card into your hand. You lose life equal to its converted mana cost. You may repeat this process any number of times.When the task spilled over into undeath, he stopped calling it his life’s work.RJeremy Jarvis 153Agony WarpUBInstant Target creature gets"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "647056"
 [_metadata_:publish_date]:- "2008-09-24"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Shards of Alara Sortable Spoiler"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-27 13:55:39+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-27 13:55:39"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220627135539id_/https://magic.wizards.com/en/articles/archive/feature/shards-alara-sortable-spoiler-2008-09-24"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/shards-alara-sortable-spoiler-2008-09-24"
 ---

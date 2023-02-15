@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The List gets a big 75-card update. See what you can find in Innistrad: Midnight Hunt Set Boosters."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1555672"
 [_metadata_:publish_date]:- "2021-09-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Updating The List for Innistrad: Midnight Hunt"
-[_metadata_:wayback_capture_timestamp]:- "2021-09-09 15:33:47+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-09-09 15:33:47"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210909153347id_/https://magic.wizards.com/en/articles/archive/feature/updating-list-innistrad-midnight-hunt-2021-09-09"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/updating-list-innistrad-midnight-hunt-2021-09-09"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "I'm going to let you in on a little behind-the-scenes secret at magicthegathering.com. Theme weeks are a pain in the neck. Scott Johns sits in his ivory tower all the way up on the second floor (that's the ritzy floor) of the Wizards of the Coast suburban compound and he throws darts or rolls dice or reads entrails (hey, references to my coworkers performing mystical animal"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "612916"
 [_metadata_:publish_date]:- "2004-09-30"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Parts and Parcel"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-18 14:40:11+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-18 14:40:11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220818144011id_/https://magic.wizards.com/en/articles/archive/feature/parts-and-parcel-2004-09-30"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/parts-and-parcel-2004-09-30"
 ---

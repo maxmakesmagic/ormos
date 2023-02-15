@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This week's Sketches looks at the Judgment card Spelljack. Spelljack was illustrated by Pete Venters, who has been doing Magic cards since Antiquities. 1. Art Description These are the instructions given to the artist: `This is a blue card and should show a blue wizard catching a green spell out of the air. It trails down into his open spellbook creating some sort of diagram"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "598116"
 [_metadata_:publish_date]:- "2002-05-14"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Sketches: Spelljack"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-29 13:48:42+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-29 13:48:42"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220129134842id_/https://magic.wizards.com/en/articles/archive/feature/sketches-spelljack-2002-05-14"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sketches-spelljack-2002-05-14"
 ---

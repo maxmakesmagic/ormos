@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Return to Ravnica: The Secretist, Part OneA Planeswalker NovellaJace Beleren has the power to travel between planes of the Multiverse, but with this gift comes isolation. He is one in a million. He is a planeswalker. And he is on the edge of a mystery that could alter the face of his adopted home—a vast, world-wide city known as Ravnica—forever."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "635546"
 [_metadata_:publish_date]:- "2012-09-13"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic: The Gathering Novels"
-[_metadata_:wayback_capture_timestamp]:- "2020-08-13 19:56:39+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-08-13 19:56:39"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200813195639id_/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-novels-2012-09-13"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-gathering-novels-2012-09-13"
 ---

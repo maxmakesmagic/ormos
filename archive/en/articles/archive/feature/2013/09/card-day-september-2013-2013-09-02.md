@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mike McArtor"
 [_metadata_:description]:- "Hundred-Handed One – Theros. In Greek myth, the little-known Hekatonkheires were three powerful giants who (originally) helped the Olympians overthrow the titans. Read about how these giants made it into Theros from both Ethan Fleischer and Mark Rosewater.  Artisan's Sorrow – Theros. From the Theros Release Notes : You perform the actions stated on a card in sequence. For some"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "664676"
 [_metadata_:publish_date]:- "2013-09-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Card of the Day - September, 2013"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-26 15:48:04+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-26 15:48:04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026154804id_/https://magic.wizards.com/en/articles/archive/feature/card-day-september-2013-2013-09-02"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-day-september-2013-2013-09-02"
 ---

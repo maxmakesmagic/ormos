@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Tim Willoughby"
 [_metadata_:description]:- "The time is nearly upon us. The fractured plane of Alara is beginning to coalesce on our collective consciousness, and this Saturday we'll get the first chance to see how Shards of Alara plays at the Prerelease. I hope that you've been paying attention to the previews right here on magicthegathering.com, as those little peeks should put you in great stead for the upcoming weekend. Check out the Shards of Alara"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "683826"
 [_metadata_:publish_date]:- "2008-09-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Shards of Alara Prerelease Primer"
-[_metadata_:wayback_capture_timestamp]:- "2020-09-21 12:20:20+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-09-21 12:20:20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200921122020id_/https://magic.wizards.com/en/articles/archive/feature/shards-alara-prerelease-primer-2008-09-22"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/shards-alara-prerelease-primer-2008-09-22"
 ---

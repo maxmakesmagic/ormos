@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Frank Karsten"
 [_metadata_:description]:- "Welcome back to Online Tech! Last week, Paris became the center of the Magic universe as the city served as the host for the 2006 World Championships. Players from around the world – including yours truly – flocked to the Louvre with dreams of being crowned World Champion, and in the end Makihito Mihara went home with the title. Congratulations! I personally scrubbed out with"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "624031"
 [_metadata_:publish_date]:- "2006-12-06"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Comparing Real Life and Online Metagames"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-26 14:03:38+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-26 14:03:38"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126140338id_/https://magic.wizards.com/en/articles/archive/feature/comparing-real-life-and-online-metagames-2006-12-06"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/comparing-real-life-and-online-metagames-2006-12-06"
 ---

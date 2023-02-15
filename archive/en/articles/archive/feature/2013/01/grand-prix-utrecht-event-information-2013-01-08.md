@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Information Grand Prix Utrecht is brought to you by Dazzle Events."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "727526"
 [_metadata_:publish_date]:- "2013-01-08"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Utrecht Event Information"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-24 07:41:46+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-24 07:41:46"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024074146id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-utrecht-event-information-2013-01-08"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-utrecht-event-information-2013-01-08"
 ---

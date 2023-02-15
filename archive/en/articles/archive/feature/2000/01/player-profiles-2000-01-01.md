@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Koichiro Maki"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "952226"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Player Profiles"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-01 10:32:04+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-01 10:32:04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211201103204id_/https://magic.wizards.com/en/articles/archive/feature/player-profiles-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/player-profiles-2000-01-01"
 ---

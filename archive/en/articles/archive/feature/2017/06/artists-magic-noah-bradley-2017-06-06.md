@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20170607142144/http://magic.wizards.com/en/articles/archive/feature/artists-magic-noah-bradley-2017-06-06)
+[Link to Wayback Machine](https://web.archive.org/web/20211129124000/https://magic.wizards.com/en/articles/archive/feature/artists-magic-noah-bradley-2017-06-06)
 
 [_metadata_:author]:- "Nicholas Wolfram"
 [_metadata_:description]:- "Nicholas sits down with Noah Bradley to discuss his art, and promises not to tell that Noah has never played Commander."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1161606"
 [_metadata_:publish_date]:- "2017-06-06"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Artists of Magic: Noah Bradley"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-07 14:21:44+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170607142144id_/http://magic.wizards.com/en/articles/archive/feature/artists-magic-noah-bradley-2017-06-06"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/artists-magic-noah-bradley-2017-06-06"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-29 12:40:00"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211129124000id_/https://magic.wizards.com/en/articles/archive/feature/artists-magic-noah-bradley-2017-06-06"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/artists-magic-noah-bradley-2017-06-06"
 ---
 
 
@@ -67,11 +69,11 @@ I get to work on fun assignments with great people that end up being seen and en
 **NW: After you get the art callout for a new card, what does your creative process look like? How long does the process typically take you per card?**
 
 
-NB: I read the assignment at least three or four times. This is because of the sheer number of times I have made sketches wildly different than what the assignment asked for. In my first sketches for [Cloudstone Curio](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cloudstone+Curio), for instance, I tried to make a 20' tall stone. Not what they wanted at all.
+NB: I read the assignment at least three or four times. This is because of the sheer number of times I have made sketches wildly different than what the assignment asked for. In my first sketches for [Cloudstone Curio](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cloudstone+Curio), for instance, I tried to make a 20' tall stone. Not what they wanted at all.
 
 
 
-![Cloudstone Curio](https://media.wizards.com/2017/images/daily/20170606_Curio.jpg)[Cloudstone Curio](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cloudstone+Curio) | Art by [Noah Bradley](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5b%22Noah+Bradley%22%5d)
+![Cloudstone Curio](https://media.wizards.com/2017/images/daily/20170606_Curio.jpg)[Cloudstone Curio](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cloudstone+Curio) | Art by [Noah Bradley](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5b%22Noah+Bradley%22%5d)
 After reading the assignment several times, I move on to the thumbnailing stage. These are little pencil or pen sketches in my sketchbook that are just for me to get ideas out of my head and into reality. This stage is best done on or near a beach, ideally while lounging in a hammock. Cold beverages are also a welcome addition to the experience.
 
 
@@ -100,8 +102,8 @@ NB: Dawn is my personal favorite. I know it's nothing overly original, but I'm a
 
 
 
-![Dawn](https://media.wizards.com/2017/images/daily/20170606_Final.jpg)[Dawn](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426912) | Art by [Noah Bradley](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5b%22Noah+Bradley%22%5d)
-I actually put together a whole video on the [Dusk // Dawn](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dusk+%2F%2F+Dawn) process.
+![Dawn](https://media.wizards.com/2017/images/daily/20170606_Final.jpg)[Dawn](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=426912) | Art by [Noah Bradley](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5b%22Noah+Bradley%22%5d)
+I actually put together a whole video on the [Dusk // Dawn](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dusk+%2F%2F+Dawn) process.
 
 
 <https://www.youtube.com/embed/98xKUXep7GQ>
@@ -113,7 +115,7 @@ I actually put together a whole video on the [Dusk // Dawn](http://gatherer.wiza
 NB: My favorite is probably one of the pieces I'm finishing up this week—but obviously we can't show those yet.
 
 
-In lieu of that, I'd have to say [Moat](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Moat). Some people might not recognize it if they don't spend enough time on *Magic Online*, but I still consider it a damn good painting even after all these years.
+In lieu of that, I'd have to say [Moat](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Moat). Some people might not recognize it if they don't spend enough time on *Magic Online*, but I still consider it a damn good painting even after all these years.
 
 
 ![](https://media.wizards.com/2017/images/daily/G6Gi94GpD7.png)
@@ -131,7 +133,7 @@ The freedom of not having to think about social media has been so refreshing. I 
 The next stage is I'm going to shun the whole internet and live in a cave on a tropical island.
 
 
-[![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&multiverseid=405237)](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405237) [![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&multiverseid=383147)](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383147)
+[![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&multiverseid=405237)](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=405237) [![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&multiverseid=383147)](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=383147)
 **NW: Which commander have you been having the most fun with lately?**
 
 
@@ -141,11 +143,11 @@ NB: I'm lame and have . . . never played a game of Commander. I know, I know.
 **NW: Your Commander secret is safe with me. I swear. That said, do you have any particularly memorable Limited experiences from the last year? And do you ever try just a *little* harder to force your own cards into a Limited deck as you build it?**
 
 
-NB: Well I did, luckily enough, manage a win off of [Approach of the Second Sun](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Approach+of+the+Second+Sun) in this format.
+NB: Well I did, luckily enough, manage a win off of [Approach of the Second Sun](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Approach+of+the+Second+Sun) in this format.
 
 
 
-![Approach of the Second Sun](https://media.wizards.com/2017/images/daily/20170606_Approach.jpg)[Approach of the Second Sun](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Approach+of+the+Second+Sun) | Art by [Noah Bradley](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5b%22Noah+Bradley%22%5d)
+![Approach of the Second Sun](https://media.wizards.com/2017/images/daily/20170606_Approach.jpg)[Approach of the Second Sun](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Approach+of+the+Second+Sun) | Art by [Noah Bradley](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5b%22Noah+Bradley%22%5d)
 In general, though, I'd feel happier forcing my own cards if they printed more Limited bombs with my art on them. Fingers crossed for future sets, though!
 
 
@@ -156,7 +158,7 @@ NB: Stay awesome, y'all!
 
 
 
-![Temple of Mystery](https://media.wizards.com/2017/images/daily/20170606_Temple.jpg)[Temple of Mystery](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Temple+of+Mystery) | Art by [Noah Bradley](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5b%22Noah+Bradley%22%5d)
+![Temple of Mystery](https://media.wizards.com/2017/images/daily/20170606_Temple.jpg)[Temple of Mystery](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Temple+of+Mystery) | Art by [Noah Bradley](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5b%22Noah+Bradley%22%5d)
 
 
 ---

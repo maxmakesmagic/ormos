@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "Gavin has all the information you need to adventure into Throne of Eldraine at your local Prerelease!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1473461"
 [_metadata_:publish_date]:- "2019-09-24"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Throne of Eldraine Prerelease Primer"
-[_metadata_:wayback_capture_timestamp]:- "2019-09-25 22:37:38+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2019-09-25 22:37:38"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190925223738id_/https://magic.wizards.com/en/articles/archive/feature/throne-eldraine-prerelease-primer-2019-09-24"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/throne-eldraine-prerelease-primer-2019-09-24"
 ---

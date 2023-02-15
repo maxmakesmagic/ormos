@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20201214153451/https://magic.wizards.com/en/articles/archive/feature/creating-tyvar-kell-2020-12-14)
+[Link to Wayback Machine](https://web.archive.org/web/20201215102938/https://magic.wizards.com/en/articles/archive/feature/creating-tyvar-kell-2020-12-14?utm_source=dlvr.it&utm_medium=twitter)
 
 [_metadata_:author]:- "Gerritt Turner"
 [_metadata_:description]:- "Members of the Creative team introduce Tyvar Kell, one of two new Planeswalkers debuting in Kaldheim."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1521682"
 [_metadata_:publish_date]:- "2020-12-14"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Creating Tyvar Kell"
-[_metadata_:wayback_capture_timestamp]:- "2020-12-14 15:34:51+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201214153451id_/https://magic.wizards.com/en/articles/archive/feature/creating-tyvar-kell-2020-12-14"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/creating-tyvar-kell-2020-12-14"
+[_metadata_:wayback_capture_timestamp]:- "2020-12-15 10:29:38"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201215102938id_/https://magic.wizards.com/en/articles/archive/feature/creating-tyvar-kell-2020-12-14?utm_source=dlvr.it&utm_medium=twitter"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/creating-tyvar-kell-2020-12-14?utm_source=dlvr.it&utm_medium=twitter"
 ---
 
 

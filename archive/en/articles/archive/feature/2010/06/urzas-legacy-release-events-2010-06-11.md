@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The resistance is building! Urza continues to build a collection of artifacts that will defeat the Phyrexian invasion. With the assistance of his student Jhoira and Karn, the silver golem, Urza surveys the Thran mana rig in Shiv and uncovers its primary purpose. Urza's Legacy, the second set in the Urza's Saga block, goes on sale in the Magic Online Store on Monday, June 21 at"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "687671"
 [_metadata_:publish_date]:- "2010-06-11"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Urza's Legacy Release Events"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 17:15:43+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 17:15:43"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523171543id_/https://magic.wizards.com/en/articles/archive/feature/urzas-legacy-release-events-2010-06-11"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/urzas-legacy-release-events-2010-06-11"
 ---

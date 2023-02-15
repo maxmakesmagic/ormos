@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Bait & Switch Celestial Assault Devastation Ivory Doom (Back to Product Page) Bait & Switch The Bait and Switch deck has a lot of tricks up its sleeve. It features a wide variety of `tribal` cards (cards that work with specific creature types) and a lot of cards that allow you to change one creature's type to another. When this deck has time to develop, it can win in very cool"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "701671"
 [_metadata_:publish_date]:- "2008-08-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Onslaught Theme Decks"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-27 10:04:17+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-27 10:04:17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211127100417id_/https://magic.wizards.com/en/articles/archive/feature/onslaught-theme-decks-2008-08-18"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/onslaught-theme-decks-2008-08-18"
 ---

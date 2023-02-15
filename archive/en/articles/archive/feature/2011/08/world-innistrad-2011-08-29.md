@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Innistrad is a dangerous plane filled with powerful magic. If you can overcome—or overpower—the evil here, you'll reap the rewards, unleashing those horrors on any who stand before you. How will your decks embrace this chilling new world?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "697926"
 [_metadata_:publish_date]:- "2011-08-29"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The World of Innistrad"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-29 04:57:22+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-29 04:57:22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170629045722id_/http://magic.wizards.com/en/articles/archive/feature/world-innistrad-2011-08-29"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/world-innistrad-2011-08-29"
 ---

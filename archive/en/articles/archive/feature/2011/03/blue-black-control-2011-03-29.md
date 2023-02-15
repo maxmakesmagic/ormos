@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20170625115509/http://magic.wizards.com/en/articles/archive/feature/blue-black-control-2011-03-29)
+[Link to Wayback Machine](https://web.archive.org/web/20170526014845/http://magic.wizards.com/en/articles/archive/feature/blue-black-control-2011-03-29)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Martin Scheinin's Blue-Black Control Format: Standard – Grand Prix Barcelona 4 Creeping Tar Pit 4 Darkslick Shores 4 Drowned Catacomb 5 Island 1 Marsh Flats 1 Scalding Tarn 3 Swamp 4 Tectonic Edge 3 Grave Titan 1 Wurmcoil Engine 2 Black Sun's Zenith 2 Duress 3 Go for the Throat 3 Inquisition of Kozilek 2 Into the Roil 1 Jace Beleren 4 Jace, the Mind Sculptor 1 Liliana Vess 4 Mana Leak 4 Preordain 2 Spreading Seas"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "670856"
 [_metadata_:publish_date]:- "2011-03-29"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Blue-Black Control"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-25 11:55:09+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170625115509id_/http://magic.wizards.com/en/articles/archive/feature/blue-black-control-2011-03-29"
+[_metadata_:wayback_capture_timestamp]:- "2017-05-26 01:48:45"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170526014845id_/http://magic.wizards.com/en/articles/archive/feature/blue-black-control-2011-03-29"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/blue-black-control-2011-03-29"
 ---
 

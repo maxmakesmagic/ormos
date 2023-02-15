@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210207063036/https://magic.wizards.com/en/articles/archive/feature/announcing-magic-2015-2014-01-06)
+[Link to Wayback Machine](https://web.archive.org/web/20170816230223/http://magic.wizards.com/en/articles/archive/feature/announcing-magic-2015-2014-01-06)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Hunt Bigger Game"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "651216"
 [_metadata_:publish_date]:- "2014-01-06"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Announcing Magic 2015"
-[_metadata_:wayback_capture_timestamp]:- "2021-02-07 06:30:36+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210207063036id_/https://magic.wizards.com/en/articles/archive/feature/announcing-magic-2015-2014-01-06"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/announcing-magic-2015-2014-01-06"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-16 23:02:23"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170816230223id_/http://magic.wizards.com/en/articles/archive/feature/announcing-magic-2015-2014-01-06"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/announcing-magic-2015-2014-01-06"
 ---
 
 

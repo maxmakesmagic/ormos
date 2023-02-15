@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "Matt Sperling suggested a BGW (generally called `Junk` due to ancient history) Reanimator deck based on his success with the deck on Magic Online. I built the deck myself and was able to mimic his success. The biggest difference between this deck and other Reanimator decks in the past is the inclusion of Lotleth Troll. Lotleth Troll does several excellent things for the deck."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "666231"
 [_metadata_:publish_date]:- "2013-03-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "My GP Verona Deck"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-22 02:03:49+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-22 02:03:49"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022020349id_/https://magic.wizards.com/en/articles/archive/feature/my-gp-verona-deck-2013-03-12"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/my-gp-verona-deck-2013-03-12"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Chas Andres"
 [_metadata_:description]:- "Welcome to Ravnica, the City of Guilds! Five guilds are featured in the newest Magic set, and each has its own charm and personality."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1353721"
 [_metadata_:publish_date]:- "2018-10-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "A Flavorful Guide to the Guilds of Ravnica"
-[_metadata_:wayback_capture_timestamp]:- "2018-10-06 06:17:51+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2018-10-06 06:17:51"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20181006061751id_/https://magic.wizards.com/en/articles/archive/feature/flavorful-guide-guilds-ravnica-2018-10-03"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/flavorful-guide-guilds-ravnica-2018-10-03"
 ---

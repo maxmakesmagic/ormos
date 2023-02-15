@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "Editor's Note: I would like to thank Sam Black for writing Daily Decks for these past six months. Unfortunately, our contract is up and this will be his last Daily Deck. I've really enjoyed having his insights into decks and deckbuilding. We're bringing a new face from the Pro Tour to Daily Decks next week and it is someone who I think you all might be familiar with."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "666711"
 [_metadata_:publish_date]:- "2013-07-05"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Path of Vizkopa"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-25 07:58:05+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-25 07:58:05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525075805id_/https://magic.wizards.com/en/articles/archive/feature/path-vizkopa-2013-07-05"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/path-vizkopa-2013-07-05"
 ---

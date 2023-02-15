@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Province of Gavony Gavony is the province where humanity remains safest and strongest, nestled within the great walls of Thraben, the plane's largest city. While settlements on the outskirts are constantly under assault, Thraben and its massive Cathedral remain relatively safe. Smaller towns radiate outward from Thraben across Gavony's rocky moors. Small copses of trees"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "698026"
 [_metadata_:publish_date]:- "2011-09-07"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The World of Innistrad"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-28 18:55:59+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-28 18:55:59"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211128185559id_/https://magic.wizards.com/en/articles/archive/feature/world-innistrad-2011-09-07"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/world-innistrad-2011-09-07"
 ---

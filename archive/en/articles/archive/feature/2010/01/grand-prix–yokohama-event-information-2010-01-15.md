@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "InformationTournament Schedule Tournament Byes Public Events Travel Information Contact Information Date: March 20-21, 2010 Format: Extended Tournament Location Pacifico Yokohama 1-1-1 Minato Mirai, Nishi-ku Yokohama-shi, Kanagawa-ken Japan Web Site Registration: Friday, March 19: 16:00-20:00, ¥2500 Saturday, March 20: 08:00-09:00, ¥3000 Get your free promo card by playing in"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "729801"
 [_metadata_:publish_date]:- "2010-01-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix–Yokohama Event Information"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-19 22:30:55+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-19 22:30:55"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519223055id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93yokohama-event-information-2010-01-15"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93yokohama-event-information-2010-01-15"
 ---

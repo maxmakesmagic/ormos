@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "&#13; Darkness Ascends&#13; &#13; In Innistrad, no one ponders the existence of evil. It has always been there, and no one expects it to change. Vampires, werewolves, zombies, spirits, demons: these are part of the natural order of the world. Humans have always battled the forces of darkness and had their backs to the wall in the fight of good versus evil."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "658701"
 [_metadata_:publish_date]:- "2012-02-07"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic Online Dark Ascension Release Events"
-[_metadata_:wayback_capture_timestamp]:- "2016-07-04 08:48:54+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-07-04 08:48:54"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160704084854id_/http://magic.wizards.com/en/articles/archive/feature/magic-online-dark-ascension-release-events-2012-02-07"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-online-dark-ascension-release-events-2012-02-07"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "Quiz time! Let's look at some developer notes and try to figure out what Gatecrash card they're talking about. If you need a hint, select the text next to the word `Hint!` DH: Did the more complicated but hopefully very flavorful change to its unblockability. Spy vs Spy! TML: This is hilarious. DH: 3HH to 2HH ZH: Highly support this change. DH: 2HH 2/3 to 1HH 2/2. Hint: Dimir"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "648561"
 [_metadata_:publish_date]:- "2013-03-21"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Gatecrash R&D Notes Quiz"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-22 23:22:35+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-22 23:22:35"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022232235id_/https://magic.wizards.com/en/articles/archive/feature/gatecrash-rd-notes-quiz-2013-03-21"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gatecrash-rd-notes-quiz-2013-03-21"
 ---

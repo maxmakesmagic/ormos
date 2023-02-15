@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Patrick Chapin's Machine Red Format: Standard 19 Mountain 1 Valakut, the Molten Pinnacle 3 Necropede 2 Pilgrim's Eye 4 Contagion Clasp 4 Everflowing Chalice 3 Lux Cannon 4 Throne of Geth 3 Voltaic Key 3 Galvanic Blast 4 Mox Opal 3 Destructive Force 2 Pyroclasm 2 Chandra Nalaar 4 Koth of the Hammer [/decklist] Deckbuilders of all shapes and sizes are trying to"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "670231"
 [_metadata_:publish_date]:- "2010-10-07"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Machine Red"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-20 22:50:51+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-20 22:50:51"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020225051id_/https://magic.wizards.com/en/articles/archive/feature/machine-red-2010-10-07"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/machine-red-2010-10-07"
 ---

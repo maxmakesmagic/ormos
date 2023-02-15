@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Dave Guskin"
 [_metadata_:description]:- "The most magical part of slinging cards for me isn't usually the game, but rather the surrounding stories—everything from lucky topdecks to bad beats, and the cool plays in between. Sure, Magic is fun to play, but what keeps us coming back is the camaraderie ..."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "683811"
 [_metadata_:publish_date]:- "2009-07-20"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Let the Good Times Draft"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-22 08:13:36+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-22 08:13:36"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522081336id_/https://magic.wizards.com/en/articles/archive/feature/let-good-times-draft-2009-07-20"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/let-good-times-draft-2009-07-20"
 ---

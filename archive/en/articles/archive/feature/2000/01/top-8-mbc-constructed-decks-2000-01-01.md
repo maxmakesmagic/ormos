@@ -4,9 +4,11 @@
 
 [_metadata_:description]:- "[decklist] Title: Eduardo Simoa Texeira, 6-0 Subtitle: B/G Format: 4 Silt Crawler 4 Thrashing Wumpus 4 Blastoderm 4 Saproling Burst 2 Primeval Shambler 4 Seal of Doom 4 Snuff Out 4 Chimeric Idol 1 Haunted Crossroads 3 Vendetta 2 Vine Trellis 12 Forest 12 Swamp *4 Massacre *3 Forced March *4 Reverent Silence *4 Distorting Lens [/decklist] [decklist] Title: Brian Davis, 6-0 Subtitle: Rising Waters"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "960531"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Top 8 MBC Constructed Decks"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-30 19:08:08+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-30 19:08:08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030190808id_/https://magic.wizards.com/en/articles/archive/feature/top-8-mbc-constructed-decks-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/top-8-mbc-constructed-decks-2000-01-01"
 ---

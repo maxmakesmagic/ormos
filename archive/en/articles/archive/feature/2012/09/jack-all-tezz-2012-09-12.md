@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "Finding new and exciting lists along a stretch where there is no rotation or bannings can often be quite the chore. The first few weeks are easy, but then you begin to get a lot of repeats entering the mix. Of course, avoiding talking about those repeats is usually a good move, as people want to see new and exciting stuff. That said, just because an archetype shows up twice does not mean there is nothing to be learned, nor that the brewer did not come up with some cool technology of his or her own."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "665521"
 [_metadata_:publish_date]:- "2012-09-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Jack of all Tezz"
-[_metadata_:wayback_capture_timestamp]:- "2016-02-14 13:54:03+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-02-14 13:54:03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160214135403id_/http://magic.wizards.com/en/articles/archive/feature/jack-all-tezz-2012-09-12"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/jack-all-tezz-2012-09-12"
 ---

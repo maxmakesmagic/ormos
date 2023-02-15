@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Adam Prosak"
 [_metadata_:description]:- "The Bazaar of Moxen in Annecy, France, started as a Vintage tournament, but today, the Legacy main event has become just as important to the event. Recently, at the Bazaar of Moxen, 535 players came out to play Legacy for fabulous prizes, including a full set of the Power Nine to 1st place! When the dust had settled, Niklas Kronberger won the tournament with an innovative deck"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "667951"
 [_metadata_:publish_date]:- "2014-05-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Bazaar of Moxen Legacy Winner"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-07 22:52:58+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-07 22:52:58"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220807225258id_/https://magic.wizards.com/en/articles/archive/feature/bazaar-moxen-legacy-winner-2014-05-15"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/bazaar-moxen-legacy-winner-2014-05-15"
 ---

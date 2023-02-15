@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "&#13; Time to dive into the Dragon's Maze Intro Pack decklists!&#13;  &#13; &#13; Azorius Authority&#13; Lavinia of the Tenth has rallied a patrol of Azorius officers and lawmages, and nothing will stop them from catching lawbreakers. Rather that destroy creatures outright, the Azorius Senate prefers to lock them up in jail by using the detain mechanic."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "648861"
 [_metadata_:publish_date]:- "2013-04-24"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Dragon's Maze Intro Pack Decklists"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-11 01:33:49+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-11 01:33:49"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170311013349id_/http://magic.wizards.com/en/articles/archive/feature/dragons-maze-intro-pack-decklists-2013-04-24"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/dragons-maze-intro-pack-decklists-2013-04-24"
 ---

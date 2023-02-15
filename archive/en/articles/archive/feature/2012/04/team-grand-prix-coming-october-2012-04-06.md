@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Wizards of the Coast is excited to announce the Grand Prix held in the San Francisco Bay Area in October will be Team Limited format.This new three-person team format will feature both Sealed Deck and Booster Draft. Day One will be Team Sealed Deck, with each team receiving twelve Return to Ravnica booster packs to build three sealed decks. All cards must be assigned to a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "687281"
 [_metadata_:publish_date]:- "2012-04-06"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Team Grand Prix Coming in October"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-28 10:18:44+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-28 10:18:44"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220528101844id_/https://magic.wizards.com/en/articles/archive/feature/team-grand-prix-coming-october-2012-04-06"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/team-grand-prix-coming-october-2012-04-06"
 ---

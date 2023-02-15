@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Events Information Prerelease Events: July 12-13, 2014 Release Date: July 18, 2014 Launch Weekend: July 18-20, 2014 Magic Online Prerelease Events: July 25-27, 2014 Magic Online Release: July 28, 2014 Pro Tour Magic 2015 : August 1-3, 2014 Game Day: August 9-10, 2014 Intro Packs Price of Glory Hit the Ground Running Infernal Intervention Dragon's Hoard Will of the Masses Hunt"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "700021"
 [_metadata_:publish_date]:- "2014-05-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Core Set Product Information"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-04 16:13:10+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-04 16:13:10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211204161310id_/https://magic.wizards.com/en/articles/archive/feature/core-set-product-information-2014-05-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/core-set-product-information-2014-05-01"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Randy Buehler"
 [_metadata_:description]:- "Your Move Games vs. The Ken Ho All-StarsIt was East Coast versus West Coast in the finals of Grand Prix Columbus. It was Boston versus San Francisco. It was Old School versus New School. There hasn't been a team Grand Prix on this continent without Your Move Games in the Top 4. The didn't win either Pittsburgh or St. Louis, but they sat down across form the Ken Ho All Stars"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "805611"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Finals: Your Move Games vs. The Ken Ho All-Stars"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-01 17:24:13+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-01 17:24:13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220701172413id_/https://magic.wizards.com/en/articles/archive/feature/finals-your-move-games-vs-ken-ho-all-stars-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/finals-your-move-games-vs-ken-ho-all-stars-2000-01-01"
 ---

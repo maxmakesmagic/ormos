@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Entry Fee Entry fee varies from location to location. Check with the local organizer for specific information.FormatExtended-constructed format Deck lists are required Tournament LengthEach round in the Swiss portion of the tournament will be 50 minutes. Top 8 matches will have no time limit The number of Swiss rounds will be determined based on attendance according to the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "728656"
 [_metadata_:publish_date]:- "2009-01-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix–Kobe 2009 Trials"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-19 09:40:05+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-19 09:40:05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519094005id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93kobe-2009-trials-2009-01-23"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93kobe-2009-trials-2009-01-23"
 ---

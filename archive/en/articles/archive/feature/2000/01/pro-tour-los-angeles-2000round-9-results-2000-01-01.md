@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Opponent Result Bachmann, David (229) Pitz, Jesse (120) 2-0 Benefel, Chris (163) Yoo, John (1) 2-0 Benefield, Kevin (234) Coeckelberg, Gert (138) 1-2 Bernabeu, Jesus (143) Krugler, Chris (193) 1-2 Blackwell, Trevor (298) Ljones, Christer (277) 2-1 Boeken, Noah (129) Labarre, Nicolas (19) 1-2 Bulthaud, Sean (314) Phillips, Eric (319) 1-2 Burgner, Kurt (173) Tsang, Terry"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "950671"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-Los Angeles 2000Round 9 Results"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-26 18:39:36+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-26 18:39:36"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126183936id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-9-results-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-9-results-2000-01-01"
 ---

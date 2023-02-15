@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Team Result Opponent Hot Fungusaur Invasion 2K1 120 vs. Wretch Derf 120 vs. The Hubbsucker Proxy Team Bald Dummy 210 vs. European Alliance 5 Ways Worse than Portent 030 vs. The Tails The Grunties 020 vs. Team Clasp Team John F. Rizzo 120 vs. AlphaBetaUnlimited.com/ Shaolin Sword 120 vs. Just Concede Team $20 Dolla Billz 110 vs. Madam Fishnut Bags 300 vs. Antarctica Team Needs"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "805946"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 4 Results (by Table)"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-05 07:12:46+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-05 07:12:46"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220705071246id_/https://magic.wizards.com/en/articles/archive/feature/round-4-results-table-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-4-results-table-2000-01-01"
 ---

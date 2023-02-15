@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Sheldon Menery and Toby Elliott"
 [_metadata_:description]:- "Almost as long as there has been a tournament Magic scene, there has been a judge program. There are many, many moving parts to the program. Why those parts move the way they do, not to mention how, is driven by a few relatively straightforward philosophies. We've put our heads together to discuss for you both why we do things the way we do, and how these philosophies are"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "633836"
 [_metadata_:publish_date]:- "2007-11-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Philosophy and Practice"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 08:12:03+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 08:12:03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429081203id_/https://magic.wizards.com/en/articles/archive/feature/philosophy-and-practice-2007-11-12"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/philosophy-and-practice-2007-11-12"
 ---

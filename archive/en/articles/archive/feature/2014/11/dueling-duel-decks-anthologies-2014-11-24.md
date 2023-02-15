@@ -4,9 +4,11 @@
 
 [_metadata_:description]:- "Blake battles with random pairings from the first four Duel Decks pairs."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "315101"
 [_metadata_:publish_date]:- "2014-11-24"
+[_metadata_:source]:- "div-main"
 [_metadata_:title]:- "Dueling with Duel Decks: Anthologies"
-[_metadata_:wayback_capture_timestamp]:- "2014-11-26 17:40:22+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2014-11-26 17:40:22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20141126174022id_/http://magic.wizards.com/en/articles/archive/feature/dueling-duel-decks-anthologies-2014-11-24"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/dueling-duel-decks-anthologies-2014-11-24"
 ---

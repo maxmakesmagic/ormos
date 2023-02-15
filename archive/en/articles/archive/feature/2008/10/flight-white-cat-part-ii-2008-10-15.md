@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "&#13; &#13; &#13;  &#13; &#13; &#13;  &#13;"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "627311"
 [_metadata_:publish_date]:- "2008-10-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Flight of the White Cat Part II"
-[_metadata_:wayback_capture_timestamp]:- "2016-12-14 22:33:28+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-12-14 22:33:28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161214223328id_/http://magic.wizards.com/en/articles/archive/feature/flight-white-cat-part-ii-2008-10-15"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/flight-white-cat-part-ii-2008-10-15"
 ---

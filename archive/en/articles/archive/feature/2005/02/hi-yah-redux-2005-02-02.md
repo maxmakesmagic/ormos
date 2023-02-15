@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "This week's Swimming With Sharks asks a simple question: `which Ninja cards are viable in constructed?` As is often the case with simple questions, the answer is actually pretty complex.When we evaluate new cards for constructed, there are a couple of different roles that we look to fill. The most obvious is finding replacements for old staples when they rotate out (like Maro"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "627911"
 [_metadata_:publish_date]:- "2005-02-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Hi-Yah Redux"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-29 08:34:50+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-29 08:34:50"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211129083450id_/https://magic.wizards.com/en/articles/archive/feature/hi-yah-redux-2005-02-02"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/hi-yah-redux-2005-02-02"
 ---

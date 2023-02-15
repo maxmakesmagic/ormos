@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "*/"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "697156"
 [_metadata_:publish_date]:- "2012-08-20"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Izzet League"
-[_metadata_:wayback_capture_timestamp]:- "2017-05-12 03:11:46+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-05-12 03:11:46"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170512031146id_/http://magic.wizards.com/en/articles/archive/feature/izzet-league-2012-08-20"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/izzet-league-2012-08-20"
 ---

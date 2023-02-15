@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Jay Moldenhauer-Salazar"
 [_metadata_:description]:- "Some prerequisite reading is needed for today's article. First, check out Bennie Smith's Onslaught"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "626016"
 [_metadata_:publish_date]:- "2002-10-31"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Evolution Calling"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-25 17:55:06+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-25 17:55:06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170325175506id_/http://magic.wizards.com/en/articles/archive/feature/evolution-calling-2002-10-31"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/evolution-calling-2002-10-31"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Date: September 17-18, 2011 Event Location: Aperture25 Address: 2F.-1, Bo’ai Rd., Zhongzheng Dist., Taipei City 100, Taiwan (R.O.C.) Eligibility The Magic: the Gathering Chinese Taipei National Championship is an invitation-only event, open to citizens or permanent residents of Chinese Taipei who have won an invitation to Nationals through DCI ratings or from qualifying events"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "730421"
 [_metadata_:publish_date]:- "2009-04-27"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2011 Chinese Taipei National Championship"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-27 10:15:35+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-27 10:15:35"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220127101535id_/https://magic.wizards.com/en/articles/archive/feature/2011-chinese-taipei-national-championship-2009-04-27-0"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-chinese-taipei-national-championship-2009-04-27-0"
 ---

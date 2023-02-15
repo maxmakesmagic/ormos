@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Scott Alshansi's Abyssal Black-Red Format: Standard – PTQ in Madison, WI 3 Akoum Refuge 4 Dragonskull Summit 4 Lavaclaw Reaches 3 Mountain 1 Scalding Tarn 10 Swamp 4 Abyssal Persecutor 4 Gatekeeper of Malakir 4 Goblin Ruinblaster 3 Siege-Gang Commander 4 Vampire Hexmage 4 Blightning 2 Earthquake 4 Lightning Bolt 2 Sarkhan the Mad 4 Terminate *4 Black Knight"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "669846"
 [_metadata_:publish_date]:- "2010-06-25"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Abyssal Black-Red"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-21 23:58:58+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-21 23:58:58"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220121235858id_/https://magic.wizards.com/en/articles/archive/feature/abyssal-black-red-2010-06-25"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/abyssal-black-red-2010-06-25"
 ---

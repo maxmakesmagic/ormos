@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Adam Prosak"
 [_metadata_:description]:- "For most players at the Pro Tour, a very important goal is reaching the Top 25. Finishing in the Top 25 gives you an invitation to the next Pro Tour and a good shot at reaching the Silver, Gold, or Platinum levels in the Pro Players Club. At Pro Tour Journey into Nyx, Franck Dubus finished in 17th place, giving him an invitation to Pro Tour Magic 2015 later this year. Franck's"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "668006"
 [_metadata_:publish_date]:- "2014-05-28"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Enchantments Everywhere"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-08 23:34:23+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-08 23:34:23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220808233423id_/https://magic.wizards.com/en/articles/archive/feature/enchantments-everywhere-2014-05-28"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/enchantments-everywhere-2014-05-28"
 ---

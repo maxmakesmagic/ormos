@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "October 31-November 2, 2003: Rickard Österberg is the Pro Tour–New Orleans Champion Armed with the mighty Punisher concoction `George W. Bosh`, a Tinker deck that exploits the power of Goblin Welder, Rickard Österberg sailed over a sea of mono-blue Tinker decks, Gob-Vantage, and Severance/Charbelcher in New Orleans. In the quarters he faced Eugene Harvey, piloting the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "600146"
 [_metadata_:publish_date]:- "2009-11-06"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "This Week in Magic History: Oct 31-Nov 6"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-23 16:59:34+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-23 16:59:34"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220123165934id_/https://magic.wizards.com/en/articles/archive/feature/week-magic-history-oct-31-nov-6-2009-11-06"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/week-magic-history-oct-31-nov-6-2009-11-06"
 ---

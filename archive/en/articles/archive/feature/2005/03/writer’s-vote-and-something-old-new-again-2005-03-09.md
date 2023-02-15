@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Adrian Sullivan"
 [_metadata_:description]:- "Ah, the Writer's Vote for the 2005 Magic Invitational. The Invitational is one of the coolest events in Magic and I've always looked forward to seeing the special twists and surprises that always seem to accompany the event. To the best of my knowledge, two of my favorite formats were born from the Invitational: Block Party and Build Your Own Block. To this day, I'd still love"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "613761"
 [_metadata_:publish_date]:- "2005-03-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Writer’s Vote and Something Old is New Again"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-18 19:35:48+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-18 19:35:48"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018193548id_/https://magic.wizards.com/en/articles/archive/feature/writer%E2%80%99s-vote-and-something-old-new-again-2005-03-09"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/writer%E2%80%99s-vote-and-something-old-new-again-2005-03-09"
 ---

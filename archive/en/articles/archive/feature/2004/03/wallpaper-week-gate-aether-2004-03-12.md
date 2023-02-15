@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "&#13; This week's desktop wallpaper is Mirrodin's Gate to the Aether by Pete Venters. Enjoy."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "606561"
 [_metadata_:publish_date]:- "2004-03-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Wallpaper of the Week: Gate to the Aether"
-[_metadata_:wayback_capture_timestamp]:- "2016-10-29 21:20:19+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-10-29 21:20:19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161029212019id_/http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-gate-aether-2004-03-12"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-gate-aether-2004-03-12"
 ---

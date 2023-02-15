@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Opponent Result Aldrich, Steven (95) Meixell II, Terry (81) 1-0 Beckman, David (67) Gurwitz, Zev (23) 0-1 Benson, Mike (65) Etayo, Derek (20) 1-0 Bock, Dan (125) McCarrel, Casey (60) 0-1 Brenner, Tim (139) Hron, Mike (134) 1-0 Bryant, David (93) Hawkins, Eric (69) 1-0 Etayo, Derek (20) Benson, Mike (65) 0-1 Fears, Adam (8) Parker, Ben (120) 1-0 Gray, Andrew (14)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "949636"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "US Open 2 Round 4 Pairings"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-22 07:05:26+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-22 07:05:26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522070526id_/https://magic.wizards.com/en/articles/archive/feature/us-open-2-round-4-pairings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-open-2-round-4-pairings-2000-01-01"
 ---

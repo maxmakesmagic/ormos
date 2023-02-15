@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Ryland Foster's Mono-Blue Prison Format: Legacy – StarCityGames.com Open in Orlando, FL 21 Island 1 Academy Ruins 2 Morphling 1 Rainbow Efreet 4 Powder Keg 3 Vedalken Shackles 4 Back to Basics 4 Propaganda 4 Counterspell 4 Fact or Fiction 4 Force of Will 4 Impulse 4 Spell Snare *4 Chalice of the Void *3 Pithing Needle *3 Tormod's Crypt *3 Hydroblast *2 Jace, the Mind Sculptor"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "669511"
 [_metadata_:publish_date]:- "2010-04-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Mono-Blue Prison"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-17 11:05:00+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-17 11:05:00"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170717110500id_/http://magic.wizards.com/en/articles/archive/feature/mono-blue-prison-2010-04-01"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mono-blue-prison-2010-04-01"
 ---

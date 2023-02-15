@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Magic: The Gathering® Pro Tour™-Houston QualifierJuly 13-14, 2002The Magic: The Gathering® Grand Prix tournament series is an international circuit of large-scale Qualifier tournaments featuring cash prizes and multiple invitations to Pro Tour™ events.TOURNAMENT FORMAT AND SCHEDULE The format for Grand Prix-Taipei is Standard Constructed. All DCI™ Constructed-format rules, Magic® Floor Rules, and all subsequent updates will be enforced."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "736251"
 [_metadata_:publish_date]:- "2002-04-24"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix - Taipei"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-23 18:18:32+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-23 18:18:32"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123181832id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-taipei-2002-04-24"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-taipei-2002-04-24"
 ---

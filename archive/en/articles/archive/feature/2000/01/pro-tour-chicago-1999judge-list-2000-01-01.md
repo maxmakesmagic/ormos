@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "&#13; There are so many judges for this event that DCI Reporter manifested a bug, and wouldn't accept more than twenty."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "951151"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-Chicago 1999Judge List"
-[_metadata_:wayback_capture_timestamp]:- "2017-02-26 06:10:10+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-02-26 06:10:10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170226061010id_/http://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999judge-list-2000-01-01"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999judge-list-2000-01-01"
 ---

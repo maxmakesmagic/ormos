@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Alan Comer (Game Empire) 1999 Pro Tour Washington D.C."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "951466"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour - Washington D.C.Finals Decks"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-18 20:42:38+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-18 20:42:38"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518204238id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcfinals-decks-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcfinals-decks-2000-01-01"
 ---

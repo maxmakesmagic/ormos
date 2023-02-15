@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Brian Kibler's Doran Rock Format: Extended - 6th Place - 2010 Pro Tour–Amsterdam 3 Forest 4 Misty Rainforest 4 Murmuring Bosk 3 Reflecting Pool 1 Swamp 3 Treetop Village 1 Twilight Mire 4 Verdant Catacombs 1 Chameleon Colossus 4 Doran, the Siege Tower 4 Knight of the Reliquary 3 Loam Lion 4 Putrid Leech 4 Tarmogoyf 4 Treefolk Harbinger 3 Duress 1 Elspeth,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "670151"
 [_metadata_:publish_date]:- "2010-09-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Doran Rock"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-28 20:51:28+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-28 20:51:28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220128205128id_/https://magic.wizards.com/en/articles/archive/feature/doran-rock-2010-09-15"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/doran-rock-2010-09-15"
 ---

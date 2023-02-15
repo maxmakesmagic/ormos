@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "TeamPoints OpponentPoints Absolute Samuels12vsBologna Demolition Team12 Accellerated Vares8 Volante9vsCalvo's Legacy9 AlphaBetaUnlimited.com12vsPannaburst10 Altrove *6vsAsani *6 Babar Team *12vsTeam Clegg12 CAP games Team *10vsF3BoP10 Ci Ciapem I Dané10vsZagatounga10 Cosmopolitan12vsDo you enjoy it ?12 Fumetteria Gabriele *6vsLast minute *4 gotta catch Kai12vstrash AAA12 I 3"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "806336"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 6 Pairings (by Team)"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-04 12:52:12+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-04 12:52:12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220704125212id_/https://magic.wizards.com/en/articles/archive/feature/round-6-pairings-team-2000-01-01-0"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-6-pairings-team-2000-01-01-0"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Beth Moursund"
 [_metadata_:description]:- "Two of the top eight decks at this year's Pro Tour-Los Angeles fell into a new category that has been dubbed `Dancing Gnomes` for its use of the Corpse Dance-Bottle Gnomes combination.Dancing Gnomes` combines elements of control with a creature-based strategy and makes use of the graveyard as a resource."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "680756"
 [_metadata_:publish_date]:- "2008-11-24"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Dances with Gnomes"
-[_metadata_:wayback_capture_timestamp]:- "2017-05-16 04:20:17+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-05-16 04:20:17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170516042017id_/http://magic.wizards.com/en/articles/archive/feature/dances-gnomes-2008-11-24"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/dances-gnomes-2008-11-24"
 ---

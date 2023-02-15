@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Noel deCordova"
 [_metadata_:description]:- "Welcome back to yet another House of Cards on yet another Thursday, which is right in the middle of yet another week. I could go on with dozens of unnecessary yets, but then I'd have the Yeti family crime gang after me, something I'd like to avoid. Just the other day I caught Stalking Yeti in his famous pastime of, um, stalking. In any case, today's column will be filled with"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "620801"
 [_metadata_:publish_date]:- "2008-05-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Start the Guest-tivities!"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-23 18:45:38+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-23 18:45:38"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220123184538id_/https://magic.wizards.com/en/articles/archive/feature/start-guest-tivities-2008-05-22"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/start-guest-tivities-2008-05-22"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Joel Calafell's Cascade Swans Format: Grand Prix-Barcelona 2009 2 Battlefield Forge 2 Cascade Bluffs 4 Fire-Lit Thicket 2 Ghitu Encampment 4 Graven Cairns 1 Mountain 4 Reflecting Pool 4 Spinerock Knoll 4 Treetop Village 4 Vivid Crag 1 Vivid Creek 4 Vivid Grove 1 Vivid Marsh 4 Vivid Meadow 4 Bloodbraid Elf 4 Swans of Bryn Argoll 2 Ad Nauseam 2 Bituminous Blast"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "668361"
 [_metadata_:publish_date]:- "2009-06-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Cascade Swans"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-27 23:44:16+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-27 23:44:16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027234416id_/https://magic.wizards.com/en/articles/archive/feature/cascade-swans-2009-06-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/cascade-swans-2009-06-01"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Jay Moldenhauer-Salazar"
 [_metadata_:description]:- "Last month, Ben Bleiweiss asked me 1) when I was going to run another Deck Challenge and 2) if he could submit a deck. I replied that 1) I didn't know and 2) of course.Then it occurred to me that in many respects I hog all the deckbuilding on this site. Oh, sure, Anthony will usually toss at least one decklist into each of his articles. Brian David-Marshall and Bennie Smith"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "625961"
 [_metadata_:publish_date]:- "2002-08-29"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Writer's Challenge I"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-09 06:20:26+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-09 06:20:26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211209062026id_/https://magic.wizards.com/en/articles/archive/feature/writers-challenge-i-2002-08-29"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/writers-challenge-i-2002-08-29"
 ---

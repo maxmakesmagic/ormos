@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "Welcome to March 2014! Let's take a look ahead and see what FNM Promo you can earn if you hit your local game store this Friday, as well as a peek further into the future to see what is coming down the pike."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "651796"
 [_metadata_:publish_date]:- "2014-03-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "March Through May FNM Promo Update"
-[_metadata_:wayback_capture_timestamp]:- "2016-04-15 04:45:03+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-04-15 04:45:03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160415044503id_/http://magic.wizards.com/en/articles/archive/feature/march-through-may-fnm-promo-update-2014-03-03"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/march-through-may-fnm-promo-update-2014-03-03"
 ---

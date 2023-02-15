@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: thekid's Singleton Zoo Format: 100 Card Singleton on Magic Online 1 Battlefield Forge 1 Bloodstained Mire 1 Brushland 1 City of Brass 1 Fire-Lit Thicket 1 Flooded Strand 4 Forest 1 Gemstone Mine 1 Ghitu Encampment 1 Grasslands 1 Horizon Canopy 1 Jungle Shrine 1 Karplusan Forest 1 Keldon Megaliths 2 Mountain 1 Mountain Valley 4 Plains 1 Reflecting Pool 1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "668651"
 [_metadata_:publish_date]:- "2009-08-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Singleton Zoo"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-19 23:09:51+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-19 23:09:51"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220819230951id_/https://magic.wizards.com/en/articles/archive/feature/singleton-zoo-2009-08-12"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/singleton-zoo-2009-08-12"
 ---

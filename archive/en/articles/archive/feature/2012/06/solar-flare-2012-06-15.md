@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "Jeremy Dombek snapped Delver's mean streak at the StarCityGames.com Open Series in Massachusetts, taking the tournament down with his take on Solar Flare! The white, blue, and black control deck hasn't seen a lot of play in the past few months, but Jeremy tweaked it for this metagame and found success. Beating three Delver decks in the Top 8 en route to the trophy, could this deck be the Delver killer that everybody has been waiting for?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "672546"
 [_metadata_:publish_date]:- "2012-06-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Solar Flare"
-[_metadata_:wayback_capture_timestamp]:- "2017-02-26 00:07:36+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-02-26 00:07:36"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170226000736id_/http://magic.wizards.com/en/articles/archive/feature/solar-flare-2012-06-15"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/solar-flare-2012-06-15"
 ---

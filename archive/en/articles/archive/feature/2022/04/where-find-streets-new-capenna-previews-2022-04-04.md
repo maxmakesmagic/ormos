@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20220406154018/https://magic.wizards.com/en/articles/archive/feature/where-find-streets-new-capenna-previews-2022-04-04?utm_campaign=New-Capenna&utm_source=TWITTER&utm_medium=social&utm_content=6720061028)
+[Link to Wayback Machine](https://web.archive.org/web/20220405093636/https://magic.wizards.com/en/articles/archive/feature/where-find-streets-new-capenna-previews-2022-04-04?utm_source=dlvr.it&utm_medium=twitter)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "What's been previewed, what's going to be previewed, and where you can find all of it for Streets of New Capenna, right here!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1578486"
 [_metadata_:publish_date]:- "2022-04-04"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Where to Find Streets of New Capenna Previews"
-[_metadata_:wayback_capture_timestamp]:- "2022-04-06 15:40:18+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220406154018id_/https://magic.wizards.com/en/articles/archive/feature/where-find-streets-new-capenna-previews-2022-04-04?utm_campaign=New-Capenna&utm_source=TWITTER&utm_medium=social&utm_content=6720061028"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/where-find-streets-new-capenna-previews-2022-04-04?utm_campaign=New-Capenna&utm_source=TWITTER&utm_medium=social&utm_content=6720061028"
+[_metadata_:wayback_capture_timestamp]:- "2022-04-05 09:36:36"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220405093636id_/https://magic.wizards.com/en/articles/archive/feature/where-find-streets-new-capenna-previews-2022-04-04?utm_source=dlvr.it&utm_medium=twitter"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/where-find-streets-new-capenna-previews-2022-04-04?utm_source=dlvr.it&utm_medium=twitter"
 ---
 
 
@@ -45,7 +47,7 @@ It's time for [*Streets of New Capenna*](https://magic.wizards.com/en/products/s
 April 7 at 9 a.m. PT is when everything begins. Be sure to tune in to [the official *Magic: The Gathering* YouTube channel](https://www.youtube.com/channel/UC8ZGymAvfP97qJabgqUkz4A) or [twitch.tv/magic](https://www.twitch.tv/magic) to get your first deep dive into the cards, mechanics, and big reveals of *Streets of New Capenna* ahead of the global release April 29!
 
 
-<https://www.youtube.com/embed/VL4x6q9hXNY>
+![Video Debut Teaser Image](https://media.wizards.com/2022/images/daily/SNC_Debut-video_teaser-850.jpg)
 
 
 Then we'll show you even more to come right here on DailyMTG—and beyond—with new cards being shared across the *Magic* world.
@@ -150,9 +152,9 @@ For the most up-to-date listings, bookmark this page and check back regularly fo
 * [Making *Magic*](https://magic.wizards.com/en/articles/columns/making-magic)
 * [Malternativ](https://twitter.com/malternativ)
 * [Mox Boarding House](https://twitter.com/MoxBoarding)
-* [Neutral Grounds](https://www.facebook.com/neutralgrounds)
 * [Numerama](https://twitter.com/Numerama)
 * [PC Gamer](https://www.pcgamer.com/)
+* [Shopee Wizards](https://shopee.sg/wizardsofthecoast)
 * [TurnOneThoughtseize](https://twitter.com/T1Thoughtseize)
 * [TWHK Facebook](https://www.facebook.com/whatsupTokyo.TWHK/)
 
@@ -169,7 +171,6 @@ For the most up-to-date listings, bookmark this page and check back regularly fo
 * [DailyMTG](https://magic.wizards.com/en/articles/)
 * [Dana Fischer](https://twitter.com/danafischermtg)
 * [DiceCon](https://weibo.com/dicemag)
-* [Five Color Hub](https://twitter.com/FiveColorHub)
 * [Game Informer](https://www.gameinformer.com/)
 * [Gamez.de](https://www.gamez.de/)
 * [Garbage Andy](https://twitter.com/Garbage_Andy)
@@ -183,6 +184,7 @@ For the most up-to-date listings, bookmark this page and check back regularly fo
 * [NGA](https://bbs.nga.cn/)
 * [Official *Magic* Discord](https://discord.gg/wZEDMaJwMY)
 * [Ooyakedo shita setsuyakuka](https://www.youtube.com/channel/UC7w_X8j5Ot_KngGStLsJ3Gw)
+* [Pancha Sky](https://twitter.com/panchasky)
 * [Pokde](https://pokde.net/)
 * [Ryan Saxe](https://twitter.com/rcsaxe)
 * [Star City Games](https://starcitygames.com/)

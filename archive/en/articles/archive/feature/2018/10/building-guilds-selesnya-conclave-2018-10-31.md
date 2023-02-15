@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20220526083146/https://magic.wizards.com/en/articles/archive/feature/building-guilds-selesnya-conclave-2018-10-31)
+[Link to Wayback Machine](https://web.archive.org/web/20220816152247/https://magic.wizards.com/en/articles/archive/feature/building-guilds-selesnya-conclave-2018-10-31)
 
 [_metadata_:author]:- "Chris Gleeson"
 [_metadata_:description]:- "Each guild on Ravnica has its own style, history, and personality, all fleshed out and solidified in our internal world guide."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1357351"
 [_metadata_:publish_date]:- "2018-10-31"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Building the Guilds – Selesnya Conclave"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-26 08:31:46+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526083146id_/https://magic.wizards.com/en/articles/archive/feature/building-guilds-selesnya-conclave-2018-10-31"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-16 15:22:47"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816152247id_/https://magic.wizards.com/en/articles/archive/feature/building-guilds-selesnya-conclave-2018-10-31"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/building-guilds-selesnya-conclave-2018-10-31"
 ---
 

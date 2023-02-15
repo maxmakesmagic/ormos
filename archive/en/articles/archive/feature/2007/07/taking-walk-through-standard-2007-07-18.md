@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Frank Karsten"
 [_metadata_:description]:- "Before I start off, I'll start with an erratum to last week's article, where I covered Prismatic. Apparently, the big deck mulligans that I described only work in casual play, not in the Premier Event room. However, I also have good news for you online players. Another grand Invasion Block Sealed Deck tournament has been scheduled, and the qualifiers start ... today! Look in the Premier Event room for the IPA Qualifier Events, which will invite the Top 8 finishers to play in the IPA X Champs on Saturday July 28."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "624551"
 [_metadata_:publish_date]:- "2007-07-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Taking a Walk Through Standard"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 04:34:30+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-12 04:34:30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112043430id_/https://magic.wizards.com/en/articles/archive/feature/taking-walk-through-standard-2007-07-18"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/taking-walk-through-standard-2007-07-18"
 ---

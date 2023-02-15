@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Chris Millar"
 [_metadata_:description]:- "Since we've just passed the half-way mark of my first year here at magicthegathering.com, I thought I'd do something special. Something I've never done before. I'm going to make something up. Then I'm going to build some decks. I know. It's a little out there, a little wacky, but I know how much everyone likes curveballs and it seems like it might be fun to do."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "621066"
 [_metadata_:publish_date]:- "2006-07-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Masques of Kamigawa"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 00:19:52+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-12 00:19:52"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112001952id_/https://magic.wizards.com/en/articles/archive/feature/masques-kamigawa-2006-07-12"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/masques-kamigawa-2006-07-12"
 ---

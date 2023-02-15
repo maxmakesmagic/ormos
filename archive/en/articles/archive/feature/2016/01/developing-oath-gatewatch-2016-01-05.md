@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Ian Duke"
 [_metadata_:description]:- "Ian's team overcame many challenges while developing Oath of the Gatewatch, and he's here to share a few cards that adversity inspired."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "961621"
 [_metadata_:publish_date]:- "2016-01-05"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Developing Oath of the Gatewatch"
-[_metadata_:wayback_capture_timestamp]:- "2016-01-08 20:23:32+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-01-08 20:23:32"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160108202332id_/http://magic.wizards.com/en/articles/archive/feature/developing-oath-gatewatch-2016-01-05"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/developing-oath-gatewatch-2016-01-05"
 ---

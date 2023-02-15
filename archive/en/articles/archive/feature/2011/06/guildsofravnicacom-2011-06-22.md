@@ -4,9 +4,11 @@
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "640366"
 [_metadata_:publish_date]:- "2011-06-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "GuildsofRavnica.com"
-[_metadata_:wayback_capture_timestamp]:- "2016-06-21 18:39:01+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-06-21 18:39:01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160621183901id_/http://magic.wizards.com/en/articles/archive/feature/guildsofravnicacom-2011-06-22"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/guildsofravnicacom-2011-06-22"
 ---

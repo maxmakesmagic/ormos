@@ -4,9 +4,11 @@
 
 [_metadata_:description]:- "Table Player Result   Opponent 1 Saux, Rafaël A Le Lost 0-2 vs. Cabrera, Adham Amc 2 Gabrenja, Matias Drew 1-1 vs. Ruel, Antoine 3 Svaldi, Guilherme Dei Won 2-0 vs. Vieira - ama, Leandro mib"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "959726"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 9 Results"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-30 04:34:50+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-30 04:34:50"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030043450id_/https://magic.wizards.com/en/articles/archive/feature/round-9-results-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-9-results-2000-01-01"
 ---

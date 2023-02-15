@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Points Table Opponent Points Antarctica (42) 12 10 Sugar Bus (13) 12 ATM (64) 13 5 Shop Adept (6) 13 Brown Bomber (69) 10 13 Pat Chapin and Dinosaurs, (76) 10 CCC (60) 12 11 ECA (57) 12 CMU (56) 15 2 Your Move Games (73) 15 ECA (57) 12 11 CCC (60) 12 Fifth Again (28) 12 8 Neutral Ground Detroit (29) 12 Fu-Ku-Ra-Mi (7) 12 9 THL (78) 12 Game Empire (77) 18 1 Marc's"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "951396"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour - Washington D.C.Day 2 Round 7 Pairings"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-24 02:59:11+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-24 02:59:11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524025911id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-2-round-7-pairings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-2-round-7-pairings-2000-01-01"
 ---

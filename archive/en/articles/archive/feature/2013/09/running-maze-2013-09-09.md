@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:description]:- "I had an opponent try to reach the end of the maze at Pro Tour Dragon's Maze earlier this year, but unfortunately for him, I was able to slay him before that happened. He wasn't the only one trying to run the maze at that Pro Tour, but since then the deck has mostly disappeared. That all changed last week, when I got an email from one Brian Griggs. He made Top 8 at a TCGPlayer"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "666966"
 [_metadata_:publish_date]:- "2013-09-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Running the Maze"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-19 18:32:37+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-19 18:32:37"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211019183237id_/https://magic.wizards.com/en/articles/archive/feature/running-maze-2013-09-09"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/running-maze-2013-09-09"
 ---

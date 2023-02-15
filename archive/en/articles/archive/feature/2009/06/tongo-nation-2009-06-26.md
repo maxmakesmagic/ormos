@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: David Mills's Tongo Nation Format: Pro Tour-Chicago 1997 2 Flood Plain 2 Island 3 Kjeldoran Outpost 4 Mishra's Factory 1 Plains 4 Plateau 4 Tundra 4 Volcanic Island 4 Frenetic Efreet 1 Suq'Ata Firewalker 2 Wildfire Emissary 2 Control Magic 4 Counterspell 1 Desertion 2 Disenchant 1 Disrupt 1 Earthquake 2 Fireball 2 Force of Will 4 Impulse 4 Lightning Bolt 1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "668476"
 [_metadata_:publish_date]:- "2009-06-26"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Tongo Nation"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-01 10:28:03+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-01 10:28:03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210501102803id_/https://magic.wizards.com/en/articles/archive/feature/tongo-nation-2009-06-26"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/tongo-nation-2009-06-26"
 ---

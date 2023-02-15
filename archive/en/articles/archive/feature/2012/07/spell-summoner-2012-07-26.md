@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "Delver of Secrets is hardly a secret these days, as it has dominated Standard for months and made its presence felt in every format. So with that knowledge, it makes sense that when Delver gets involved in things, we tend to mask any potential excitement, knowing that the bad guy got another weapon. That said, when Delver finally gets some new tricks, and develops a new"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "665336"
 [_metadata_:publish_date]:- "2012-07-26"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Spell Summoner"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-27 17:25:14+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-27 17:25:14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220627172514id_/https://magic.wizards.com/en/articles/archive/feature/spell-summoner-2012-07-26"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/spell-summoner-2012-07-26"
 ---

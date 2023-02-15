@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Randy Buehler One hundred two players, each with at least 6 Pro Tour points, converged on Neutral Ground New York for the first-ever Gateway tournament. The Gateway was a single-elimination `Meatgrinder` with the top two players advancing to this weekend's Masters series event. The Masters is a 32-person Extended-format tournament with a total prize purse of $150,000, including 25 grand for first place and a guaranteed two thousand dollars just for showing up."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "805581"
 [_metadata_:publish_date]:- "2015-10-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The First Gateway Tournament"
-[_metadata_:wayback_capture_timestamp]:- "2016-07-07 13:57:33+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-07-07 13:57:33"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160707135733id_/http://magic.wizards.com/en/articles/archive/feature/first-gateway-tournament-2015-10-15"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/first-gateway-tournament-2015-10-15"
 ---

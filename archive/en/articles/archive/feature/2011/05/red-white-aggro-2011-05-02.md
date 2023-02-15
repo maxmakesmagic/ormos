@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: qj_wong's Red-White Aggro Format: Scars of Mirrodin Block Constructed 14 Mountain 12 Plains 4 Hero of Bladehold 4 Hero of Oxid Ridge 4 Kuldotha Phoenix 3 Wurmcoil Engine 3 Divine Offering 4 Galvanic Blast 4 Koth of the Hammer 4 Red Sun's Zenith 4 Sphere of the Suns *4 Dispense Justice *1 Divine Offering *2 Mirran Crusader *4 Revoke Existence *4 Slagstorm"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "670986"
 [_metadata_:publish_date]:- "2011-05-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Red-White Aggro"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-28 07:38:28+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-28 07:38:28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028073828id_/https://magic.wizards.com/en/articles/archive/feature/red-white-aggro-2011-05-02"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/red-white-aggro-2011-05-02"
 ---

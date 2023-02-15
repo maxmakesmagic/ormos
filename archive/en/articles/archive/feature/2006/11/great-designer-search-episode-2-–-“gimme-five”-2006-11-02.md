@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "Welcome to our second episode where we get to see our applicants tackle their first design challenge and get to see all the judges (save myself) review their work. I will give my two cents on each finalist's work at the beginning of next week's episode when I eliminate three of them."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "624956"
 [_metadata_:publish_date]:- "2006-11-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Great Designer Search Episode 2 – “Gimme Five”"
-[_metadata_:wayback_capture_timestamp]:- "2017-12-09 05:10:56+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-12-09 05:10:56"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171209051056id_/https://magic.wizards.com/en/articles/archive/feature/great-designer-search-episode-2-%E2%80%93-%E2%80%9Cgimme-five%E2%80%9D-2006-11-02"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/great-designer-search-episode-2-%E2%80%93-%E2%80%9Cgimme-five%E2%80%9D-2006-11-02"
 ---

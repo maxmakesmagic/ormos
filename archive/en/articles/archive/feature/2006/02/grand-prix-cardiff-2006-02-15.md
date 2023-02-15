@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "DateLocationOrganier3rd Round ByesContact TelEmailWebsite25/02/2006BelfastMagicmonOne-----EmailWebsite18/02/2006BradfordNick SephtonOne07974 310551EmailWebsite05/03/2006CardiffCardiff Games One02920 343818-----Website25/02/2005DublinJim BrophyOne00 353 86 262 3952Email-----11/03/2006DundeeHighlander GamesOne01382 666 315Email-----12/02/2006High WycombeThe Place for Games"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "734621"
 [_metadata_:publish_date]:- "2006-02-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix - Cardiff"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-28 18:38:55+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-28 18:38:55"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028183855id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-cardiff-2006-02-15"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-cardiff-2006-02-15"
 ---

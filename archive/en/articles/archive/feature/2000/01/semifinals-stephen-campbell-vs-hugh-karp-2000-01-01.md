@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Michael Doecke Stephen, the most innovative deck builder in Australia, is playing an original and interesting blue/white deck he has nicknamed `Boojum` utilizing Monk Idealist and Parallax Wave for a lock, which is crippling to most creature based decks. Hugh Karp, a new player to the Australian tournament scene is playing a standard mono green trinity deck. Game 1 The game"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "948556"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Semifinals - Stephen Campbell vs. Hugh Karp"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-05 15:42:37+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-05 15:42:37"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211205154237id_/https://magic.wizards.com/en/articles/archive/feature/semifinals-stephen-campbell-vs-hugh-karp-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/semifinals-stephen-campbell-vs-hugh-karp-2000-01-01"
 ---

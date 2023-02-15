@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20170816024408/http://magic.wizards.com/en/articles/archive/feature/casey-mccarrel-part-2-2000-01-01)
+[Link to Wayback Machine](https://web.archive.org/web/20220520012426/https://magic.wizards.com/en/articles/archive/feature/casey-mccarrel-part-2-2000-01-01)
 
 [_metadata_:author]:- "Wizards of the Coast"
-[_metadata_:description]:- "In the second act of what may become an epic story in the annals of Magic history, Casey McCarrel, continuing his comeback from suspension, qualified for US nationals in the evening's waning hours."
+[_metadata_:description]:- "In the second act of what may become an epic story in the annals of Magic history, Casey McCarrel, continuing his comeback from suspension, qualified for US nationals in the evening's waning hours. McCarrel, coming off an impressive first turn win off a double mulligan in the first round of this open, was playing Neutral Ground New York regular Zev Gurwitz in a match for a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "949441"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Casey McCarrel, Part 2"
-[_metadata_:wayback_capture_timestamp]:- "2017-08-16 02:44:08+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170816024408id_/http://magic.wizards.com/en/articles/archive/feature/casey-mccarrel-part-2-2000-01-01"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/casey-mccarrel-part-2-2000-01-01"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-20 01:24:26"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520012426id_/https://magic.wizards.com/en/articles/archive/feature/casey-mccarrel-part-2-2000-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/casey-mccarrel-part-2-2000-01-01"
 ---
 
 
@@ -26,7 +28,7 @@ Casey McCarrel, Part 2
 
 
 
-![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
 By Wizards of the Coast
 
 

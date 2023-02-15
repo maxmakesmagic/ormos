@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "January 25-28: Prerelease Bonanza This has been a good week for Prereleases in Magic history, with four Prereleases all falling between January 24 and January 30. If you gain access to a time machine, and that time machine turns out to have a faulty `year` display (as they so often seem to), feel free to print out this handy chart: January 24-25, 2004: Darksteel prerelease."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "596766"
 [_metadata_:publish_date]:- "2009-01-30"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "This Week in Magic History: January 24-30"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-22 01:46:37+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-22 01:46:37"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220122014637id_/https://magic.wizards.com/en/articles/archive/feature/week-magic-history-january-24-30-2009-01-30"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/week-magic-history-january-24-30-2009-01-30"
 ---

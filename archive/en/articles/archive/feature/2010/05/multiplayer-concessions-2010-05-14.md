@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "What do you do when you're playing a multiplayer game and someone concedes? No, seriously, we're asking. Or rather, capitan_estaban is asking in the Multiplayer forum of the Wizards Community. He provides a few examples of situations where problems can occur, such as `Lifelink? You didn't do any damage.`"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "600846"
 [_metadata_:publish_date]:- "2010-05-14"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Multiplayer Concessions"
-[_metadata_:wayback_capture_timestamp]:- "2016-04-14 01:27:07+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-04-14 01:27:07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160414012707id_/http://magic.wizards.com/en/articles/archive/feature/multiplayer-concessions-2010-05-14"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/multiplayer-concessions-2010-05-14"
 ---

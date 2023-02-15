@@ -4,9 +4,11 @@
 
 [_metadata_:description]:- "Match Team Opponent Result 1 United States Canada Lost 1-3 2 Germany France Won 2-1-1 3 Sweden Czech Republic Lost 1-2-1 4 Belgium Netherlands Lost 1-3 5"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "961016"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Teams: Round Four Results Sorted By Team"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-31 06:55:46+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-31 06:55:46"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171031065546id_/https://magic.wizards.com/en/articles/archive/feature/teams-round-four-results-sorted-team-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/teams-round-four-results-sorted-team-2000-01-01"
 ---

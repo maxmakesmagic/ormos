@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Blake Rasmussen and Alison Luhrs"
 [_metadata_:description]:- "This week, Blake and Alison talk about the most temperamental tribe in Commander (2017 Edition)—Cats!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1198081"
 [_metadata_:publish_date]:- "2017-08-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic Story Podcast: Cats"
-[_metadata_:wayback_capture_timestamp]:- "2017-08-24 16:26:40+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-24 16:26:40"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170824162640id_/http://magic.wizards.com/en/articles/archive/feature/magic-story-podcast-cats-2017-08-23"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-story-podcast-cats-2017-08-23"
 ---

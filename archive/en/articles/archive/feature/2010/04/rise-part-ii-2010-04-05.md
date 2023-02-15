@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "Previously on Making Magic:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "657391"
 [_metadata_:publish_date]:- "2010-04-05"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "On the Rise, Part II"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-03 08:01:48+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-03 08:01:48"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170603080148id_/http://magic.wizards.com/en/articles/archive/feature/rise-part-ii-2010-04-05"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/rise-part-ii-2010-04-05"
 ---

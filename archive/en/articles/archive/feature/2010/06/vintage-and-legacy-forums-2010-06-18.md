@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "We sometimes feel bad that we don't talk enough about Vintage and Legacy. We really do care about them, but we don't get enough opportunities to bring them up. So let's say you love the Eternal formats. Where do you go to get your daily fix? Who will talk to you about the latest news and decks? Well, may we introduce you to a couple of good forums? Yes, we may! There are two"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "600981"
 [_metadata_:publish_date]:- "2010-06-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Vintage and Legacy Forums"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-26 06:08:08+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-26 06:08:08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126060808id_/https://magic.wizards.com/en/articles/archive/feature/vintage-and-legacy-forums-2010-06-18"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/vintage-and-legacy-forums-2010-06-18"
 ---

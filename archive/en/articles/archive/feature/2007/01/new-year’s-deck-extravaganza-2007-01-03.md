@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Frank Karsten"
 [_metadata_:description]:- "Happy 2007! Magicthegathering.com went on a short holiday break the last two weeks, but the online tournaments went on regardless. So today I will try to play catch-up and cover the new decks and metagame swings of the last three weeks of December. In order to start the new year with a bang, I have put a ton of decklists in today's column!Standard: Mystical Teachings Is the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "624086"
 [_metadata_:publish_date]:- "2007-01-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "New Year’s Deck Extravaganza"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-12 09:57:27+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-12 09:57:27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220812095727id_/https://magic.wizards.com/en/articles/archive/feature/new-year%E2%80%99s-deck-extravaganza-2007-01-03"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/new-year%E2%80%99s-deck-extravaganza-2007-01-03"
 ---

@@ -4,9 +4,11 @@
 
 [_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "666886"
 [_metadata_:publish_date]:- "2013-08-19"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Jund Zombies"
-[_metadata_:wayback_capture_timestamp]:- "2016-10-29 20:40:16+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-10-29 20:40:16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161029204016id_/http://magic.wizards.com/en/articles/archive/feature/jund-zombies-2013-08-19"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/jund-zombies-2013-08-19"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Koth is a planeswalker who wields red magic. His specialty is geomancy, spells that move mountains, shatter stone and melt iron. His earth magic has a special strength in it that allows him to purify metal, which reflects Koth’s own inner desire to bring peace and harmony to his people."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "637271"
 [_metadata_:publish_date]:- "2010-09-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Koth of the Hammer"
-[_metadata_:wayback_capture_timestamp]:- "2016-02-21 04:43:12+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-02-21 04:43:12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160221044312id_/http://magic.wizards.com/en/articles/archive/feature/koth-hammer-2010-09-10"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/koth-hammer-2010-09-10"
 ---

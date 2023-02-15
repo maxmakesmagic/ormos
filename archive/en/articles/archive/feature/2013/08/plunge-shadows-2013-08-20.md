@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:description]:- "There's a lot going on in this deck, so let's just plunge right in. This deck has a number of combos, all of which revolve on your life total (or lack thereof). Life total is normally thought of as a resource, but rarely to this degree. Here, the combination of spells that let you pay life and creatures that reward you for being at a low life total lets you cheat on casting costs and even set up a few instant wins."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "666891"
 [_metadata_:publish_date]:- "2013-08-20"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Plunge into Shadows"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-05 22:44:42+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-04-05 22:44:42"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170405224442id_/http://magic.wizards.com/en/articles/archive/feature/plunge-shadows-2013-08-20"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/plunge-shadows-2013-08-20"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mike Rosenberg"
 [_metadata_:description]:- "Check out some highlights from Modern Masters Weekend!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "401141"
 [_metadata_:publish_date]:- "2015-06-08"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Making of Magic History"
-[_metadata_:wayback_capture_timestamp]:- "2015-06-09 23:26:11+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2015-06-09 23:26:11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150609232611id_/http://magic.wizards.com/en/articles/archive/feature/making-magic-history-2015-06-08"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/making-magic-history-2015-06-08"
 ---

@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20220128033512/https://magic.wizards.com/en/articles/archive/feature/card-face-redesign-faq-2003-01-20)
+[Link to Wayback Machine](https://web.archive.org/web/20170716195353/http://magic.wizards.com/en/articles/archive/feature/card-face-redesign-faq-2003-01-20)
 
 [_metadata_:author]:- "magicthegathering.com Staff"
-[_metadata_:description]:- "The new card face design was unveiled at Pro Tour - Chicago this weekend.Why is Wizards changing the design of the Magic cards? With Magic’s 10th anniversary, we felt there was an opportunity to refresh the look of Magic cards and enhance, if we could, the design from the standpoint of both aesthetics and the functionality of the cards.What is the extent of the changes? We’re"
+[_metadata_:description]:- "The new card face design was unveiled at Pro Tour - Chicago this weekend.Why is Wizards changing the design of the Magic cards? With Magic’s 10th anniversary, we felt there was an opportunity to refresh the look of Magic cards and enhance, if we could, the design from the standpoint of both"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "630096"
 [_metadata_:publish_date]:- "2003-01-20"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Card Face Redesign FAQ"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-28 03:35:12+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220128033512id_/https://magic.wizards.com/en/articles/archive/feature/card-face-redesign-faq-2003-01-20"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-face-redesign-faq-2003-01-20"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-16 19:53:53"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170716195353id_/http://magic.wizards.com/en/articles/archive/feature/card-face-redesign-faq-2003-01-20"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/card-face-redesign-faq-2003-01-20"
 ---
 
 
@@ -26,7 +28,7 @@ Card Face Redesign FAQ
 
 
 
-![](https://web.archive.org/web/20211024110319im_/https://magic.wizards.com/sites/all/themes/wiz_mtg/images/global/generic-avatar-150.png)
+![](https://web.archive.org/web/20170709072651im_/http://magic.wizards.com/sites/all/themes/wiz_mtg/images/global/generic-avatar-150.png)
 By magicthegathering.com Staff
 
 
@@ -73,9 +75,9 @@ By magicthegathering.com Staff
  Yes. We updated the color and texture just like we did with the single colored cards and it is still gold.
 
 **Why “Basic Land – Forest?”**  
- We added “Basic” in order to help new players understand the difference between basic and nonbasic lands. By explaining this distinction on the type line, we did not feel the need to add reminder text to cards like [Blood Moon](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Blood+Moon) that reference “nonbasic lands.”
+ We added “Basic” in order to help new players understand the difference between basic and nonbasic lands. By explaining this distinction on the type line, we did not feel the need to add reminder text to cards like [Blood Moon](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Blood+Moon) that reference “nonbasic lands.”
 
-We added “Forest” to the forests for two reasons. It allows us to make cards like the [Dromar's Cavern](http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Dromar%2527s%2BCavern) from *Planeshift* be “Land – Lair,” and then they need one fewer sentence in their text boxes. This also opens up design space for future cards. In addition, this change allows us to clean up an obscure rule that most of you won’t care about. (For the technically minded: the current rules say that every land has a subtype equal to its name. We needed that rule so that cards like [Wood Elves](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wood+Elves) don’t have to say “card named Forest,” but that rule has prevented us from making some cards we wanted to make, plus it’s kind of a silly rule to have anyway – if the cards have subtypes, we should just print them on the cards instead of having them be invisible subtypes. Then we can get rid of that rule because all lands will just have whatever subtypes are printed on them.)
+We added “Forest” to the forests for two reasons. It allows us to make cards like the [Dromar's Cavern](http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Dromar%2527s%2BCavern) from *Planeshift* be “Land – Lair,” and then they need one fewer sentence in their text boxes. This also opens up design space for future cards. In addition, this change allows us to clean up an obscure rule that most of you won’t care about. (For the technically minded: the current rules say that every land has a subtype equal to its name. We needed that rule so that cards like [Wood Elves](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wood+Elves) don’t have to say “card named Forest,” but that rule has prevented us from making some cards we wanted to make, plus it’s kind of a silly rule to have anyway – if the cards have subtypes, we should just print them on the cards instead of having them be invisible subtypes. Then we can get rid of that rule because all lands will just have whatever subtypes are printed on them.)
 
 
 
@@ -84,7 +86,7 @@ We added “Forest” to the forests for two reasons. It allows us to make cards
 | *Lands receive subtypes as part of the new design.* |
 
 **Will nonbasic lands have “Nonbasic Land” on their type lines?**  
- No. Most nonbasic lands, like [City of Brass](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=City+of+Brass), will have just the single word “Land” on their type line. The ones with subtypes will say, for example, “Land – Lair.” 
+ No. Most nonbasic lands, like [City of Brass](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=City+of+Brass), will have just the single word “Land” on their type line. The ones with subtypes will say, for example, “Land – Lair.” 
 
 **Will the *Magic* Player Rewards program token frames also be updated for the 10th anniversary?**  
  Yes, we’re giving the token frames an updated look, but we’re not ready to release them yet.

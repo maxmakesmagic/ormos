@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This week's desktop wallpaper features Jim Murray's Phyrexian Negator and Urza's Rage from Duel Decks: Phyrexia vs. the Coalition, which coincidentally comes out today. Enjoy."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "655201"
 [_metadata_:publish_date]:- "2010-03-19"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Wallpaper of the Week: Phyrexia vs. the Coalition"
-[_metadata_:wayback_capture_timestamp]:- "2017-05-28 17:20:35+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-05-28 17:20:35"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170528172035id_/http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-phyrexia-vs-coalition-2010-03-19"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-phyrexia-vs-coalition-2010-03-19"
 ---

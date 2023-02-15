@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20160401063855/http://magic.wizards.com/en/articles/archive/feature/2002-pro-tour%E2%80%93houston-2002-07-30)
+[Link to Wayback Machine](https://web.archive.org/web/20171029065954/https://magic.wizards.com/en/articles/archive/feature/2002-pro-tour%E2%80%93houston-2002-07-30)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Come join Wizards of the Coast for our next Pro Tour stop in Houston, Texas! This information will help you to prepare now to attend in November. Pro Tour-Houston will be held November 8-10, 2002."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "733666"
 [_metadata_:publish_date]:- "2002-07-30"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2002 Pro Tour–Houston"
-[_metadata_:wayback_capture_timestamp]:- "2016-04-01 06:38:55+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160401063855id_/http://magic.wizards.com/en/articles/archive/feature/2002-pro-tour%E2%80%93houston-2002-07-30"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/2002-pro-tour%E2%80%93houston-2002-07-30"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-29 06:59:54"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171029065954id_/https://magic.wizards.com/en/articles/archive/feature/2002-pro-tour%E2%80%93houston-2002-07-30"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2002-pro-tour%E2%80%93houston-2002-07-30"
 ---
 
 

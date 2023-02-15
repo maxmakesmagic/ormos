@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Aaron Forsythe"
 [_metadata_:description]:- "Set out, cards firmly in hand, message boards a-twitter. Check. It is finally—finally—reality. You see, I was the lead designer of the set called Lorwyn—a job that darned near killed me. It was, without a doubt, the most difficult and humbling thing I have ever had to do as an employee of Wizards of the Coast."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "633791"
 [_metadata_:publish_date]:- "2007-10-08"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Working for Peanuts"
-[_metadata_:wayback_capture_timestamp]:- "2016-12-12 22:36:48+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-12-12 22:36:48"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161212223648id_/http://magic.wizards.com/en/articles/archive/feature/working-peanuts-2007-10-08"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/working-peanuts-2007-10-08"
 ---

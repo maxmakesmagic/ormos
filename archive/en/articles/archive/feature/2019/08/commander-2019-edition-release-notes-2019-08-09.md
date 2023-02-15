@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210623215436/https://magic.wizards.com/en/articles/archive/feature/commander-2019-edition-release-notes-2019-08-09)
+[Link to Wayback Machine](https://web.archive.org/web/20201021225449/https://magic.wizards.com/en/articles/archive/feature/commander-2019-edition-release-notes-2019-08-09)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Release Notes include info about the release of a new set, as well as clarifications and rulings involving that set's cards."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1458841"
 [_metadata_:publish_date]:- "2019-08-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Commander (2019 Edition) Release Notes"
-[_metadata_:wayback_capture_timestamp]:- "2021-06-23 21:54:36+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210623215436id_/https://magic.wizards.com/en/articles/archive/feature/commander-2019-edition-release-notes-2019-08-09"
+[_metadata_:wayback_capture_timestamp]:- "2020-10-21 22:54:49"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201021225449id_/https://magic.wizards.com/en/articles/archive/feature/commander-2019-edition-release-notes-2019-08-09"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/commander-2019-edition-release-notes-2019-08-09"
 ---
 
@@ -26,7 +28,7 @@ Commander (2019 Edition) Release Notes
 
 
 
-![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
 By Wizards of the Coast
 
 

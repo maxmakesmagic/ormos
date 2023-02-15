@@ -5,8 +5,10 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Pack #1 - Jon Finkel Divides   Jon Finkel Chris Pikula Giant Tortoise Icatian Phalanx Meteor Shower Repentance Abduction Fissure Ball Lightning Anaba Shaman Pack #2 - Chris Pikula Divides   Jon Finkel Chris Pikula Barbed Sextant Rhox Curiosity Blue Elemental Blast Shaman en-Kor Bounty Hunter Spitting Earth Havoc Pack #3 - Jon Finkel Divides   Jon Finkel Chris Pikula Hired"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "949921"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic: The Gathering Invitational 2000Round 8 Solomon SelectionsJon Finkel vs. Chris Pikula"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-26 12:40:29+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-26 12:40:29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526124029id_/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-8-solomon-selectionsjon-finkel-vs"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-8-solomon-selectionsjon-finkel-vs"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Magic: The Gathering Grand Prix tournament series is an international circuit of large-scale Qualifier tournaments featuring cash prizes and multiple invitations to Pro Tour events.Grand Prix—New Jersey is presented by Gray Matter Conventions."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "735581"
 [_metadata_:publish_date]:- "2004-02-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix - New Jersey"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-29 08:31:11+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-29 08:31:11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171029083111id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-new-jersey-2004-02-23"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-new-jersey-2004-02-23"
 ---

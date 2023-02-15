@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20220127204034/https://magic.wizards.com/en/articles/archive/feature/campionato-nazionale-italiano-2011-2009-06-23)
+[Link to Wayback Machine](https://web.archive.org/web/20171029161549/https://magic.wizards.com/en/articles/archive/feature/campionato-nazionale-italiano-2011-2009-06-23)
 
 [_metadata_:author]:- "Wizards of the Coast"
-[_metadata_:description]:- "Campionato Nazionale Italiano 2011Data: 29-31 Luglio 2011Luogo: Convention Bureau della riviera di RiminiIndirizzo: Via della Fiera 52, RiminiCriteri di partecipazioneIl Campionato Nazionale di Magic: the Gathering è un evento ad invito, rivolto a cittadini di nazionalità Italiani o permanentemente residenti in Italia che hanno vinto un invito al Campionato Nazionale"
+[_metadata_:description]:- "Campionato Nazionale Italiano 2011Data: 29-31 Luglio 2011Luogo: Convention Bureau della riviera di RiminiIndirizzo: Via della Fiera 52, Rimini"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "727591"
 [_metadata_:publish_date]:- "2009-06-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Campionato Nazionale Italiano 2011"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-27 20:40:34+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220127204034id_/https://magic.wizards.com/en/articles/archive/feature/campionato-nazionale-italiano-2011-2009-06-23"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-29 16:15:49"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171029161549id_/https://magic.wizards.com/en/articles/archive/feature/campionato-nazionale-italiano-2011-2009-06-23"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/campionato-nazionale-italiano-2011-2009-06-23"
 ---
 
@@ -26,7 +28,7 @@ Campionato Nazionale Italiano 2011
 
 
 
-![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
 By Wizards of the Coast
 
 

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Blake Rasmussen"
 [_metadata_:description]:- "Download Magic Online It's very nearly time for Time Walk, because Black Lotus is back, as is Ancestral Recall. Soon, you'll get to make the most of the Moxes. The anticipation is killing even us, so to kick off Vintage Masters Week, we're already looking ahead to the Prerelease, which begins this Friday, June 13, at 10 a.m., and continues on through Monday, June 16. The"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "652746"
 [_metadata_:publish_date]:- "2014-06-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Vintage Masters Prerelease and Release Events"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 12:46:28+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 12:46:28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429124628id_/https://magic.wizards.com/en/articles/archive/feature/vintage-masters-prerelease-and-release-events-2014-06-09"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/vintage-masters-prerelease-and-release-events-2014-06-09"
 ---

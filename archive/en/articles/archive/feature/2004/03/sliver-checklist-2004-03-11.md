@@ -4,9 +4,11 @@
 
 [_metadata_:description]:- "Are you building the ultimate Sliver deck -- or are you just a mad Sliver collector? Do need to know all the stats of all the Sliver cards, or just curious which is the biggest one? Do you want a guide to where you can find each Sliver card printed so far? If so, you're in luck. Here's a complete list of all cards Slivericious."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "353991"
 [_metadata_:publish_date]:- "2004-03-11"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Sliver Checklist"
-[_metadata_:wayback_capture_timestamp]:- "2016-01-20 01:34:01+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-01-20 01:34:01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160120013401id_/http://magic.wizards.com/en/articles/archive/feature/sliver-checklist-2004-03-11"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/sliver-checklist-2004-03-11"
 ---

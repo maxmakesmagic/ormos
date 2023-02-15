@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Brian David-Marshall and Rich Hagon are back with another edition of Friday Night Countdown!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "451616"
 [_metadata_:publish_date]:- "2015-08-07"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Friday Night Countdown: Pro Tour Magic Origins Edition"
-[_metadata_:wayback_capture_timestamp]:- "2015-08-09 00:39:21+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2015-08-09 00:39:21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150809003921id_/http://magic.wizards.com/en/articles/archive/feature/friday-night-countdown-pro-tour-magic-origins-edition-2015-08-07"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/friday-night-countdown-pro-tour-magic-origins-edition-2015-08-07"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "InformationTournament Schedule Tournament Byes Public Events Travel Information Contact Information Date: May 30-31, 2009 Format: Standard Tournament Location The Greater Tacoma Convention and Trade Center 1500 Broadway Tacoma, WA 98402 For Hotel Reservations call (253) 591-9100 and ask for the Grand Prix–Seattle/Tacoma rate. Registration: $30 Friday, May 29: 2 p.m. – 10 p.m."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "636006"
 [_metadata_:publish_date]:- "2009-04-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix–Seattle/Tacoma Event Information"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-02 15:17:39+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 15:17:39"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502151739id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93seattletacoma-event-information-2009-04-16"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93seattletacoma-event-information-2009-04-16"
 ---

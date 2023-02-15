@@ -5,9 +5,11 @@
 [_metadata_:author]:- "WotC Europe Marketing Team"
 [_metadata_:description]:- "Welcome to this new page, dedicated to you, the Magic community in Europe! Why is it called Olivier’s corner? It’s probably not necessary to introduce Olivier Ruel, a well known Pro Player you might have bumped into as he seems to be everywhere Magic is being played. On this page, Olivier will share with you impressions, thoughts, strategies from a variety of players – it’ll"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "609951"
 [_metadata_:publish_date]:- "2006-03-07"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Introducing Olivier's Corner"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-18 08:41:39+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-18 08:41:39"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018084139id_/https://magic.wizards.com/en/articles/archive/feature/introducing-oliviers-corner-2006-03-07"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/introducing-oliviers-corner-2006-03-07"
 ---

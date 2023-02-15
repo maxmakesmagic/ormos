@@ -5,8 +5,10 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Pack #1 - Jakub Slemr Divides   Jakub Slemr Darwin Kastle Ivory Mask Coastal Piracy Forbid Red Elemental Blast Time Elemental Deranged Hermit Maggot Therapy Bull Hippo Pack #2 - Darwin Kastle Divides   Jakub Slemr Darwin Kastle Flare Sanctum Custodian Wild Aesthir Jungle Wurm Lawbringer Gerrard's Wisdom Suq'Ata Firewalker Mind Harness Pack #3 - Jakub Slemr Divides   Jakub"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "949891"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic: The Gathering Invitational 2000Round 7 Solomon SelectionsJakub Slemr vs. Darwin Kastle"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-17 18:04:14+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-17 18:04:14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517180414id_/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-7-solomon-selectionsjakub-slemr-vs"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-7-solomon-selectionsjakub-slemr-vs"
 ---

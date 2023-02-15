@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Jay Schneider's Worldwake Sligh Format: Standard with Worldwake 5 Mountain 1 Forest 3 Arid Mesa 4 Rootbound Crag 4 Terramorphic Expanse 4 Raging Ravine 4 Smoldering Spires 4 Warren Instigator 4 Goblin Chieftain 4 Goblin Artillery 4 Goblin Ruinblaster 4 Bloodbraid Elf 4 Siege-Gang Commander 4 Dragonmaster Outcast 4 Lightning Bolt 4 Searing Blaze [/decklist] From FFL playtester Jay Schneider:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "669271"
 [_metadata_:publish_date]:- "2010-02-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Worldwake Sligh"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-21 02:37:28+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-21 02:37:28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170321023728id_/http://magic.wizards.com/en/articles/archive/feature/worldwake-sligh-2010-02-01"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/worldwake-sligh-2010-02-01"
 ---

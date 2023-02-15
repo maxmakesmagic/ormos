@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "Last week, I wrote about a deck I played in Grand Prix San Antonio that was a solid four colors. At the time, I thought I was pushing the boundaries on what mana bases in Standard could look like. Even at four colors, with one being a splash, I found myself running into occasional mana issues. You can imagine, then, what it would take to get a five-color mana base working! Ali"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "665851"
 [_metadata_:publish_date]:- "2012-12-05"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Technicolor"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-29 16:23:09+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-29 16:23:09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220629162309id_/https://magic.wizards.com/en/articles/archive/feature/technicolor-2012-12-05"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/technicolor-2012-12-05"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "magicthegathering.com Staff"
 [_metadata_:description]:- "TZendikar Prerelease on September 26-27 is only a week and a half away, which means that the Product Section has updated! There's a new puzzle, a new wallpaper, and a new setting preview: The Secrets of Zendikar! You like secrets, don't you? And the Visual Spoiler, an archive of all preview cards that have been officially released. Watch the Visual Spoiler and the Product"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "683936"
 [_metadata_:publish_date]:- "2009-09-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Zendikar Product Section"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-28 12:39:25+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-28 12:39:25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220128123925id_/https://magic.wizards.com/en/articles/archive/feature/zendikar-product-section-2009-09-16"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/zendikar-product-section-2009-09-16"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Sam Stoddard"
 [_metadata_:description]:- "Jund is a Standard deck that saw a big boon from Gatecrash, and not just because it received its third shockland in Stomping Ground. Tyler Lindsey also found room for both the Ghor-Clan Rampager and Experiment One. The experiment may look somewhat unassuming, but when followed up by a Strangleroot Geist, then a Flinthoof Boar or Dreg Mangler, he is suddenly a 3/3 with the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "666111"
 [_metadata_:publish_date]:- "2013-02-08"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Experiment Jund"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-21 18:57:49+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-21 18:57:49"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521185749id_/https://magic.wizards.com/en/articles/archive/feature/experiment-jund-2013-02-08"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/experiment-jund-2013-02-08"
 ---

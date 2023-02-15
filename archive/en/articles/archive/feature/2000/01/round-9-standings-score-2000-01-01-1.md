@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "RankTeamPointsOp.Win% 1 www.alphabetaunlimited.com 27 72.35% 2 Susiyan 24 64.07% 3 Potato Peach 22 69.34% 4 Dekiru-Kana? 22 66.03% 5 Loafing Giants 22 64.35% 6 Voice of Soul 22 62.35% 7 Poor Shark"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "806806"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 9 Standings (by Score)"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-23 08:38:10+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-23 08:38:10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123083810id_/https://magic.wizards.com/en/articles/archive/feature/round-9-standings-score-2000-01-01-1"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-9-standings-score-2000-01-01-1"
 ---

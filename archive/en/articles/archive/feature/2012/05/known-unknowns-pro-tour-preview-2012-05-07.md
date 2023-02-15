@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Rich Hagon"
 [_metadata_:description]:- "Let's start things off gently with a little metaphysical icebreaker in the company of one Benjamin Sisko, commander of Star Trek: Deep Space Nine, as he attempts to utilize the fine sport of baseball in order to explain the nature of linear existence to a puzzled alien. Let's be honest here—nothing says `GOOD MORNING!` quite like a conversation about the nature of linear existence (except possibly an extra strong cup of coffee)..."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "681486"
 [_metadata_:publish_date]:- "2012-05-07"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Known Unknowns: An Pro Tour Preview"
-[_metadata_:wayback_capture_timestamp]:- "2017-05-18 01:25:51+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-05-18 01:25:51"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170518012551id_/http://magic.wizards.com/en/articles/archive/feature/known-unknowns-pro-tour-preview-2012-05-07"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/known-unknowns-pro-tour-preview-2012-05-07"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Episode 19 - PAX, Theros and the Hero's Path - Oh My! - (28:34) (9.81 MB) Trick and Tifa talk to R&D's Dave Guskin about the Hero's Path, as well as some of what lies ahead in Theros. We also talk about what went down at PAX, like our Theros party, the massive puzzles, and the Theros Worldbuilding panel! The DailyMTG Podcast is on iTunes! You can visit its page right here. Or,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "598191"
 [_metadata_:publish_date]:- "2013-09-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "DailyMTG.com Podcast #19"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-28 21:57:19+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-28 21:57:19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220128215719id_/https://magic.wizards.com/en/articles/archive/feature/dailymtgcom-podcast-19-2013-09-10"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dailymtgcom-podcast-19-2013-09-10"
 ---

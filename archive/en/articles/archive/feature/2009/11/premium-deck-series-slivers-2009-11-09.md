@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Ken Nagle"
 [_metadata_:description]:- "Salutations and welcome to unofficial Sliver Week! Or, at least, my Premium Deck Series: Slivers article. I've been asked to share with you a behind-the-scenes account of the Magic R&D process that went into creating the Premium Deck Series: Slivers product."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "684016"
 [_metadata_:publish_date]:- "2009-11-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Premium Deck Series: Slivers"
-[_metadata_:wayback_capture_timestamp]:- "2020-09-23 01:54:27+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-09-23 01:54:27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200923015427id_/https://magic.wizards.com/en/articles/archive/feature/premium-deck-series-slivers-2009-11-09"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/premium-deck-series-slivers-2009-11-09"
 ---

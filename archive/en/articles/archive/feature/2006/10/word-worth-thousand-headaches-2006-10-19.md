@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Matt Cavotta"
 [_metadata_:description]:- "Magic is a game of words. The art is gravy and the numbers always mean the same thing. It's in the words that we find the sweet, sweet juice that makes the game fun and, time and time again, fresh and new. This puts a lot of weight and responsibility in the hands of the gangs of random letters we call words. Until I started working at Wizards as a creative writer I never had a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "626836"
 [_metadata_:publish_date]:- "2006-10-19"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "A Word Is Worth A Thousand Headaches"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 13:25:06+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 13:25:06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429132506id_/https://magic.wizards.com/en/articles/archive/feature/word-worth-thousand-headaches-2006-10-19"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/word-worth-thousand-headaches-2006-10-19"
 ---

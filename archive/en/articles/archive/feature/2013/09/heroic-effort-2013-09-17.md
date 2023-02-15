@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:description]:- "We are deep into preview season, and as such, I've decided to take advantage of that by building a deck for the new Standard. I may not have a reputation as a beatdown player, but my greatest tournament finishes have just about all been with attacking decks, so I've attacked for 2 often enough to take a stab at making a sweet Boros deck. The heroic part of the deck comes from"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "667001"
 [_metadata_:publish_date]:- "2013-09-17"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "A Heroic Effort"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-13 11:25:48+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-13 11:25:48"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220813112548id_/https://magic.wizards.com/en/articles/archive/feature/heroic-effort-2013-09-17"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/heroic-effort-2013-09-17"
 ---

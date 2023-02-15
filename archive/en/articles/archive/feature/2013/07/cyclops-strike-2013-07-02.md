@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "A few weeks ago, I wrote about a Pauper deck I called Izzet Smash. At the time, I didn't take it seriously as a deck that could be ported to Standard, but as we've seen many times in this column, the deck managed to make the transition from one format to another thanks in part to contributions from AJ Sacher; Greg Hatch; and, most publicly, Travis Woo. Bryan Holthouser took"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "666691"
 [_metadata_:publish_date]:- "2013-07-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Cyclops Strike"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-19 08:03:47+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-19 08:03:47"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211019080347id_/https://magic.wizards.com/en/articles/archive/feature/cyclops-strike-2013-07-02"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/cyclops-strike-2013-07-02"
 ---

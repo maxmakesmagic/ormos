@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210506190736/https://magic.wizards.com/en/articles/archive/feature/aggro-loam-2011-11-08)
+[Link to Wayback Machine](https://web.archive.org/web/20170512215206/http://magic.wizards.com/en/articles/archive/feature/aggro-loam-2011-11-08)
 
 [_metadata_:author]:- "Wizards of the Coast"
-[_metadata_:description]:- "Last weekend's StarCityGames.com Open in Las Vegas saw some old favorites appear in the Top 8… like Aggro Loam! This powerful midrange deck has a deceptively strong land-based engine revolving around Life from the Loam. The Ravnica sorcery combines with cycling lands like Forgotten Cave to help Countryside Crusher get big quickly and let you kill out of nowhere with the"
+[_metadata_:description]:- "Last weekend's StarCityGames.com Open in Las Vegas saw some old favorites appear in the Top 8… like Aggro Loam! This powerful midrange deck has a deceptively strong land-based engine revolving around Life from the Loam. The Ravnica sorcery combines with cycling lands like Forgotten Cave to help Countryside Crusher get big quickly and let you kill out of nowhere with the one-two punch of Seismic Assault."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "671726"
 [_metadata_:publish_date]:- "2011-11-08"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Aggro Loam"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-06 19:07:36+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210506190736id_/https://magic.wizards.com/en/articles/archive/feature/aggro-loam-2011-11-08"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/aggro-loam-2011-11-08"
+[_metadata_:wayback_capture_timestamp]:- "2017-05-12 21:52:06"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170512215206id_/http://magic.wizards.com/en/articles/archive/feature/aggro-loam-2011-11-08"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/aggro-loam-2011-11-08"
 ---
 
 
@@ -26,7 +28,7 @@ Aggro Loam
 
 
 
-![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
 By Wizards of the Coast
 
 
@@ -46,7 +48,6 @@ Last weekend's StarCityGames.com Open in Las Vegas saw some old favorites appear
 
 
 
-
 #### Tony DeVeyra's Aggro Loam
 
 
@@ -57,9 +58,7 @@ Last weekend's StarCityGames.com Open in Las Vegas saw some old favorites appear
 
 
 
-![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
 ![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
-
 
 
 
@@ -447,7 +446,7 @@ OverviewColorCostRarity
 
 
 
-##### Common (19)
+##### Common (14)
 
 
 
@@ -467,21 +466,17 @@ OverviewColorCostRarity
 [Tranquil Thicket](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTranquil%5D+%5BThicket%5D)
 
 
-2
-[Maelstrom Pulse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMaelstrom%5D+%5BPulse%5D)
-
-
 4
 [Pyroblast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroblast%5D)
 
 
-3
-[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
+
+##### Uncommon (8)
 
 
 
-##### Uncommon (4)
-
+4
+[Lightning Bolt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBolt%5D)
 
 
 2
@@ -493,7 +488,7 @@ OverviewColorCostRarity
 
 
 
-##### Rare (29)
+##### Rare (30)
 
 
 
@@ -530,15 +525,19 @@ OverviewColorCostRarity
 
 
 4
-[Lightning Bolt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBolt%5D)
-
-
-4
 [Life from the Loam](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLife%5D+%5Bfrom%5D+%5Bthe%5D+%5BLoam%5D)
+
+
+2
+[Maelstrom Pulse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMaelstrom%5D+%5BPulse%5D)
 
 
 3
 [Surgical Extraction](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSurgical%5D+%5BExtraction%5D)
+
+
+3
+[Thoughtseize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D)
 
 
 

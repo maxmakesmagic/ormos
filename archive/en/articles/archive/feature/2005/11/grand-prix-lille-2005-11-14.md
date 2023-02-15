@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Grand Prix are easily the biggest open events the DCI offers. They're high-energy and held around the world. Plus, no invitation is necessary -- anyone can attend.Even if you don’t want to attend the main event, there are still plenty of reasons to come. A Grand Prix is not just a regular Magic tournament… Grand Prix’s in Europe are true Magic events."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "735141"
 [_metadata_:publish_date]:- "2005-11-14"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix - Lille"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-23 21:42:12+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-23 21:42:12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023214212id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-lille-2005-11-14"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-lille-2005-11-14"
 ---

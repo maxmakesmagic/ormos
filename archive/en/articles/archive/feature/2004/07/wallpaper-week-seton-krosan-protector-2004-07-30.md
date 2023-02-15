@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This week's desktop wallpaper is Greg Staples's Seton, Krosan Protector from the Odyssey set. Enjoy! 1280x960 pixels 1024x768 pixels 800x600 pixels"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "607256"
 [_metadata_:publish_date]:- "2004-07-30"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Wallpaper of the Week: Seton, Krosan Protector"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-20 16:51:36+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-20 16:51:36"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020165136id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-seton-krosan-protector-2004-07-30"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-seton-krosan-protector-2004-07-30"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Matt Cavotta"
 [_metadata_:description]:- "Momir Vig, the Simic guildmaster, wished to fulfill his guild's ancient purpose - to preserve the health of all Ravnican life-forms. Of course, he was not exactly satisfied with such a mundane goal, so he expanded it out to improving the biological construction of all Ravnican beings. Do not be fooled. This is more scary than benevolent."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "626641"
 [_metadata_:publish_date]:- "2006-04-19"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Cytoplasts, the Other Blue/Green Meat"
-[_metadata_:wayback_capture_timestamp]:- "2016-12-31 18:58:32+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-12-31 18:58:32"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161231185832id_/http://magic.wizards.com/en/articles/archive/feature/cytoplasts-other-bluegreen-meat-2006-04-19"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/cytoplasts-other-bluegreen-meat-2006-04-19"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "#NameCostTypeP/TRules TextFlavor TextRarityArtist1Ajani Goldmane2WWPlaneswalker — Ajani4+1: You gain 2 life.-1: Put a +1/+1 counter on each creature you control. Those creatures gain vigilance until end of turn.-6: Put a white Avatar creature token onto the battlefield. It has “This creature's power and toughness are each equal to your life total.” MAleksi Briclot 2Ajani's"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "646996"
 [_metadata_:publish_date]:- "2010-07-08"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic 2011 Sortable Spoiler"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-04 22:26:40+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-04 22:26:40"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220704222640id_/https://magic.wizards.com/en/articles/archive/feature/magic-2011-sortable-spoiler-2010-07-08"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-2011-sortable-spoiler-2010-07-08"
 ---

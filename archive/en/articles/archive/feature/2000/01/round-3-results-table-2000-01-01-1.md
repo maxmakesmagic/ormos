@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "TeamResult OpponentBenefactor210vs.LemegetonDEFENCER Minor300vs.Wis Type IngMagic Square300vs.Ain't afraid to dieTeam Rune Factory120vs.Team ShinjoNISIKI210vs.Team Food ChainAncestral Memories120vs.InoreIori120vs.Go RengerTeam Emon Staff111vs.RegnevaChiban Dragon120vs.Triple MulliganSut030vs.Tiimumei MiketteiFire Beat210vs.Meruhen WorldReckless Triskelion030vs.Team"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "806996"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 3 Results (by Table)"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-02 08:47:03+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-02 08:47:03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220702084703id_/https://magic.wizards.com/en/articles/archive/feature/round-3-results-table-2000-01-01-1"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-3-results-table-2000-01-01-1"
 ---

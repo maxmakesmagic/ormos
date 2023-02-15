@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Opponent Result Baker Justin Fiore Stefano Won, 2-1 Blackwell Trevor Devenport David Won, 1-0 Bregoli Mike Linde Matt Won, 2-1 Brower Jeremy Tsang Gabe Won, 2-1 Budde Kai Hirabayashi Kazuya Lost, 0-2 Bui Lucien Postema Bas Won, 2-0 Chapin Patrick Finkel Jon Lost, 0-2 Comer Alan Jensen William Won, 2-0 Coppage Thomas Severa Matt Won, 2-0 Cornelissen Kamiel Hunka John"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "950126"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-New York 2000 Round 10 Results"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-18 17:01:19+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-18 17:01:19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518170119id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-10-results-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-10-results-2000-01-01"
 ---

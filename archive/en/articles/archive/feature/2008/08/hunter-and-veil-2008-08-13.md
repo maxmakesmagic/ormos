@@ -4,9 +4,11 @@
 
 [_metadata_:author]:- "Doug Beyer"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "326106"
 [_metadata_:publish_date]:- "2008-08-13"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Hunter and the Veil"
-[_metadata_:wayback_capture_timestamp]:- "2015-01-29 09:16:35+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2015-01-29 09:16:35"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150129091635id_/http://magic.wizards.com/en/articles/archive/feature/hunter-and-veil-2008-08-13"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/hunter-and-veil-2008-08-13"
 ---

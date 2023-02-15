@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Information Grand Prix Boston-Worcester is brought to you by TJcollect.com.  Live Video Stream Information  Tournament Schedule  Tournament Byes  Side Events  Artist Information  Travel Information  Contact Information  Official hashtag: #gpboston Date: July 25-27, 2014 Format: Modern Tournament Location DCU Convention Center 50 Foster St Worcester, MA 01608 Click here for a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "728246"
 [_metadata_:publish_date]:- "2014-04-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Boston-Worcester 2014 Event Information"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-18 17:38:58+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-18 17:38:58"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118173858id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-boston-worcester-2014-event-information-2014-04-22"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-boston-worcester-2014-event-information-2014-04-22"
 ---

@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20220524041818/https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-12-results-2000-01-01)
+[Link to Wayback Machine](https://web.archive.org/web/20171124084158/https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-12-results-2000-01-01)
 
 [_metadata_:author]:- "Wizards of the Coast"
-[_metadata_:description]:- "Table No. Player Res No. Player 63 Tyers, Steven *** BYE *** 1 8 West, Justin 0-0-3 69 Campbell, Stephen 2 29 Corney, Andrew 0-0-3 56 Seck, T."
+[_metadata_:description]:- "Table No. Player Res No. Player   63 Tyers, Steven     *** BYE *** 1 8 West, Justin 0-0-3 69 Campbell, Stephen 2 29 Corney, Andrew 0-0-3 56 Seck, T. Ben"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "948606"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Australian Nationals Round 12 Results"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-24 04:18:18+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524041818id_/https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-12-results-2000-01-01"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-24 08:41:58"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171124084158id_/https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-12-results-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-12-results-2000-01-01"
 ---
 
@@ -26,7 +28,7 @@ Australian Nationals Round 12 Results
 
 
 
-![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
 By Wizards of the Coast
 
 

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This shapes up to be one of the most diverse Pro Tours of all time. I talked to 75-100 of the 300+ competitors last night and no one felt that this Pro Tour has a defining deck. Yesterday morning I said that I expected no single deck to compose as much as 20% of the field. After talking to the players, I now think it's possible that no one deck will make up even 10% of the field. More than one person told me they were playing each of the following:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "951136"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-Chicago 1999Day 1 Preview"
-[_metadata_:wayback_capture_timestamp]:- "2020-08-15 11:08:32+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-08-15 11:08:32"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200815110832id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-1-preview-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-1-preview-2000-01-01"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Rui Oliveira"
 [_metadata_:description]:- "Amsterdam Horst Baierhofer Herbert Engleitner Kung-Chieh Wangwww.revised4th5th.com Dan O'Mahoney-Schwartz David Williams Steve O'Mahoney-SchwartzIn the final round of this first day a Pro Tour team meets against a team who managed to get to 5-0 result with no byes. Both teams do have one thing in common: a curious name. The OMS brothers and David Williams took their name in"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "806146"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 6 Feature Match: Amsterdam vs. www.revised4th5th.com"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-24 21:00:01+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-24 21:00:01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524210001id_/https://magic.wizards.com/en/articles/archive/feature/round-6-feature-match-amsterdam-vs-wwwrevised4th5thcom-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-6-feature-match-amsterdam-vs-wwwrevised4th5thcom-2000-01-01"
 ---

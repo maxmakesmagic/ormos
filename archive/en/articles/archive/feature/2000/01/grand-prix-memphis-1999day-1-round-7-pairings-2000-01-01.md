@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Points Opponent Points Adkins, Johnny (1) 9 Larsen, Michael (158) 9 Anderson, Rhonda (5) 6 Daniels, Shauna (53) 6 Armstrong, Michael (9) 9 Rodamilans, Enric (261) 9 Arnold, David (10) 9 Hunt, Aaron (121) 9 Baxter, James (14) 13 Schmidt, Andrew (273) 13 Boyd, David (20) 12 Dittmer, Adam (57) 12 Brackett, Derek (21) 16 Pippin, Russell (236) 15 Bradley, James G."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "953086"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix-Memphis 1999Day 1 Round 7 Pairings"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-17 08:49:56+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-17 08:49:56"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517084956id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-1-round-7-pairings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-memphis-1999day-1-round-7-pairings-2000-01-01"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Adrian Sullivan"
 [_metadata_:description]:- "Last week I learned an important lesson. I challenged my readers to send me their deck ideas using Sundering Titan. In a way, I almost wonder if I underestimated the amount that people would send in when I sent out my challenge. The few responses I've gotten from my fellow writers about it were amusing. For the most part, everyone else seemed to know what I was in for.Wow. You"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "613681"
 [_metadata_:publish_date]:- "2004-03-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Sundering Titan Challenge"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-27 05:39:33+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-27 05:39:33"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527053933id_/https://magic.wizards.com/en/articles/archive/feature/sundering-titan-challenge-2004-03-10"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sundering-titan-challenge-2004-03-10"
 ---

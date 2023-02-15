@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mike Rosenberg"
 [_metadata_:description]:- "Learn more about 2015 Magic World Championship competitor Eric Froelich's Magic and Pro Tour origins!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "451626"
 [_metadata_:publish_date]:- "2015-08-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Eric Froehlich's Origin Story"
-[_metadata_:wayback_capture_timestamp]:- "2015-08-14 12:08:10+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2015-08-14 12:08:10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150814120810id_/http://magic.wizards.com/en/articles/archive/feature/eric-froehlichs-origin-story-2015-08-12"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/eric-froehlichs-origin-story-2015-08-12"
 ---

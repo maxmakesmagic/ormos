@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20211110160156/https://magic.wizards.com/en/articles/archive/feature/innistrad-crimson-vow-release-notes-2021-11-10)
+[Link to Wayback Machine](https://web.archive.org/web/20211111111836/https://magic.wizards.com/en/articles/archive/feature/innistrad-crimson-vow-release-notes-2021-11-10?utm_source=dlvr.it&utm_medium=twitter)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Release Notes include info about the release of a new set, as well as clarifications and rulings involving that set's cards."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1568983"
 [_metadata_:publish_date]:- "2021-11-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Innistrad: Crimson Vow Release Notes"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-10 16:01:56+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211110160156id_/https://magic.wizards.com/en/articles/archive/feature/innistrad-crimson-vow-release-notes-2021-11-10"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/innistrad-crimson-vow-release-notes-2021-11-10"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-11 11:18:36"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211111111836id_/https://magic.wizards.com/en/articles/archive/feature/innistrad-crimson-vow-release-notes-2021-11-10?utm_source=dlvr.it&utm_medium=twitter"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/innistrad-crimson-vow-release-notes-2021-11-10?utm_source=dlvr.it&utm_medium=twitter"
 ---
 
 
@@ -46,8 +48,8 @@ Document last modified October 21, 2021
 
 
 **PDF Download Links:**  
-[English](http://media.wizards.com/2021/downloads/VOW_Release_Notes/EN_MTGVOW_ReleaseNotes_20211021.pdf) | [中國話,漢語;中文](http://media.wizards.com/2021/downloads/VOW_Release_Notes/CT_MTGVOW_ReleaseNotes_20210923.pdf) | [中国话,汉语;中文](http://media.wizards.com/2021/downloads/VOW_Release_Notes/CS_MTGVOW_ReleaseNotes_20210923.pdf) | [Français](http://media.wizards.com/2021/downloads/VOW_Release_Notes/FR_MTGVOW_ReleaseNotes_20210923.pdf) | [Deutsch](http://media.wizards.com/2021/downloads/VOW_Release_Notes/DE_MTGVOW_ReleaseNotes_20210923.pdf)  
-[Italiano](http://media.wizards.com/2021/downloads/VOW_Release_Notes/IT_MTGVOW_ReleaseNotes_20210923.pdf) | [한글](http://media.wizards.com/2021/downloads/VOW_Release_Notes/KR_MTGVOW_ReleaseNotes_20210923.pdf) | [Português](http://media.wizards.com/2021/downloads/VOW_Release_Notes/PT_MTGVOW_ReleaseNotes_20210923.pdf) | [русский язык](http://media.wizards.com/2021/downloads/VOW_Release_Notes/RU_MTGVOW_ReleaseNotes_20210923.pdf) | [Español](http://media.wizards.com/2021/downloads/VOW_Release_Notes/SP_MTGVOW_ReleaseNotes_20211105.pdf) | [日本語](http://media.wizards.com/2021/downloads/VOW_Release_Notes/JP_MTGVOW_ReleaseNotes_20211105.pdf)
+[English](http://media.wizards.com/2021/downloads/VOW_Release_Notes/EN_MTGVOW_ReleaseNotes_20211021.pdf) | [中國話,漢語;中文](http://media.wizards.com/2021/downloads/VOW_Release_Notes/CT_MTGVOW_ReleaseNotes_20211106.pdf) | [中国话,汉语;中文](http://media.wizards.com/2021/downloads/VOW_Release_Notes/CS_MTGVOW_ReleaseNotes_20211106.pdf) | [Français](http://media.wizards.com/2021/downloads/VOW_Release_Notes/FR_MTGVOW_ReleaseNotes_20210923.pdf) | [Deutsch](http://media.wizards.com/2021/downloads/VOW_Release_Notes/DE_MTGVOW_ReleaseNotes_20210923.pdf)  
+[Italiano](http://media.wizards.com/2021/downloads/VOW_Release_Notes/IT_MTGVOW_ReleaseNotes_20210923.pdf) | [한글](http://media.wizards.com/2021/downloads/VOW_Release_Notes/KR_MTGVOW_ReleaseNotes_20210923.pdf) | [Português](http://media.wizards.com/2021/downloads/VOW_Release_Notes/PT_MTGVOW_ReleaseNotes_20210923.pdf) | [русский язык](http://media.wizards.com/2021/downloads/VOW_Release_Notes/RU_MTGVOW_ReleaseNotes_20210923.pdf) | [Español](http://media.wizards.com/2021/downloads/VOW_Release_Notes/SP_MTGVOW_ReleaseNotes_20211105.pdf) | [日本語](http://media.wizards.com/2021/downloads/VOW_Release_Notes/JP_MTGVOW_ReleaseNotes_20211110.pdf)
 
 
 The Release Notes include information concerning the release of a new *Magic: The Gathering* set, as well as a collection of clarifications and rulings involving that set's cards. It's intended to make playing with the new cards more fun by clearing up the common misconceptions and confusion inevitably caused by new mechanics and interactions. As future sets are released, updates to the *Magic* rules may cause some of this information to become outdated. Go to [Magic.Wizards.com/Rules](http://magic.wizards.com/rules) to find the most up-to-date rules.

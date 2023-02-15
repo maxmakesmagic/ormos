@@ -4,9 +4,11 @@
 
 [_metadata_:description]:- "Match Points Team   Points Team 1 172 United States vs. 152 Germany 2 154 Netherlands vs. 151 Sweden 3 148 Spain vs. 146 Czech Republic"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "960736"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Teams Round Three Team Pairings"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-31 05:51:03+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-31 05:51:03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171031055103id_/https://magic.wizards.com/en/articles/archive/feature/teams-round-three-team-pairings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/teams-round-three-team-pairings-2000-01-01"
 ---

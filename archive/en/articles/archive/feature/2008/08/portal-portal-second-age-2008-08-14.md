@@ -4,9 +4,11 @@
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "702376"
 [_metadata_:publish_date]:- "2008-08-14"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Portal &amp; Portal Second Age"
-[_metadata_:wayback_capture_timestamp]:- "2016-01-20 08:13:41+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-01-20 08:13:41"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160120081341id_/http://magic.wizards.com/en/articles/archive/feature/portal-portal-second-age-2008-08-14"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/portal-portal-second-age-2008-08-14"
 ---

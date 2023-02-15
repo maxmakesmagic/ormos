@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Doug Beyer"
 [_metadata_:description]:- "Since we discussed several months back that things were changing at magicthegathering.com, we thought we'd readdress the changes now that you're staring at them. I'm Doug Beyer, web developer here at magicthegathering.com and part of the team effort to redesign the site as you see it before you. We know this site is important to you, and so we know you have questions and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "630906"
 [_metadata_:publish_date]:- "2004-02-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The New Magic The Gathering.com"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 03:07:12+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 03:07:12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429030712id_/https://magic.wizards.com/en/articles/archive/feature/new-magic-gatheringcom-2004-02-09"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/new-magic-gatheringcom-2004-02-09"
 ---

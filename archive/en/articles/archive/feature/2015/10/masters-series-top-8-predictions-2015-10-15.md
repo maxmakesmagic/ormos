@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Sideboard Staff Jason Zila (U/W Control) vs. Ben Rubin (Survival/Tradewind)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "805481"
 [_metadata_:publish_date]:- "2015-10-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Masters Series Top 8 Predictions"
-[_metadata_:wayback_capture_timestamp]:- "2016-07-07 14:06:51+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-07-07 14:06:51"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160707140651id_/http://magic.wizards.com/en/articles/archive/feature/masters-series-top-8-predictions-2015-10-15"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/masters-series-top-8-predictions-2015-10-15"
 ---

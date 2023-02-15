@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Adrian Sullivan"
 [_metadata_:description]:- "Two weeks ago, I sent out my second Single Card Strategies challenge to all of the readers. The first challenge was a smashing success, and hundreds upon hundreds of submissions got sent in."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "613231"
 [_metadata_:publish_date]:- "2004-04-14"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Forgotten Ancient Challenge"
-[_metadata_:wayback_capture_timestamp]:- "2017-05-12 03:15:38+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-05-12 03:15:38"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170512031538id_/http://magic.wizards.com/en/articles/archive/feature/forgotten-ancient-challenge-2004-04-14"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/forgotten-ancient-challenge-2004-04-14"
 ---

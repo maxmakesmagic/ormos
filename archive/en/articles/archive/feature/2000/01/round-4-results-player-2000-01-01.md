@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "TeamResult OpponentA.S.K.Won 2-1vsIkeike Family FightersAAALost 1-2vsSusiyanABCCWon 3-0vsMatano Beat The BandoAbsoluteWon 3-0vsSouls of RugernaAibonWon 2-1vsAncestral MemoriesAin't afraid to dieLost 1-2vsCircle Money DraftAir OrangeWon 2-1vsSuper DrawAkebono OyakatanhoizaLost 0-3vsRakeruAkko ni OmakaseLost 1-2vsTeam Emon StaffAll time 6000yenWon 2-1vsUemuraAncestral"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "806961"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 4 Results (by Player)"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-02 07:55:48+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-02 07:55:48"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220702075548id_/https://magic.wizards.com/en/articles/archive/feature/round-4-results-player-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-4-results-player-2000-01-01"
 ---

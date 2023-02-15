@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "I explained in my first Great Designer Search 2 article that this GDS is going to have a few changes. One of the biggest changes has to do with how the challenges (and in this case the design test) will be presented."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "604761"
 [_metadata_:publish_date]:- "2010-10-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Design Test"
-[_metadata_:wayback_capture_timestamp]:- "2017-08-11 07:32:39+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-11 07:32:39"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170811073239id_/http://magic.wizards.com/en/articles/archive/feature/design-test-2010-10-15"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/design-test-2010-10-15"
 ---

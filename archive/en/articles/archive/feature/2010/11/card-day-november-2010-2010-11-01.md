@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Teferi's Imp – Mirage rare. Cards that phase out do not go to the exile zone. Instead, the game treats them as though they do not exist. They can’t affect or be affected by anything else in the game except for rules and effects that specifically mention phased-out permanents. Urza's Blueprints – Urza's Legacy rare. The blueprints in Urza's Blueprints are for the creation of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "664721"
 [_metadata_:publish_date]:- "2010-11-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Card of the Day - November, 2010"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-30 23:08:31+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-30 23:08:31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220630230831id_/https://magic.wizards.com/en/articles/archive/feature/card-day-november-2010-2010-11-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-day-november-2010-2010-11-01"
 ---

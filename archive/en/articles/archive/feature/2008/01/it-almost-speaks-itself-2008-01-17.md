@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "What can you say?This card looks awesome.So awesome, it almost speaks for itself.The ObviousCountryside Crusher is a 3/3 Giant Warrior (they tell me these bits, especially the second one, matter nowadays) for three mana. Is it playable? I'll say! The 3/3 for three mana has been a staple of Block Constructed (for instance) for years, from Silt Crawler to Chimeric Idol (kind"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "627651"
 [_metadata_:publish_date]:- "2008-01-17"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "It Almost Speaks for Itself"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-05 18:07:11+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-05 18:07:11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211205180711id_/https://magic.wizards.com/en/articles/archive/feature/it-almost-speaks-itself-2008-01-17"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/it-almost-speaks-itself-2008-01-17"
 ---

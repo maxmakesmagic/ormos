@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Magic is truly a global phenomenon, and with the Magic 2011 Core Set our favorite game will be printed in ten different languages! Over its 17-year existence, Magic has been printed in English, Italian, German, French, Spanish, Portuguese, Japanese, Traditional Chinese, Simplified Chinese, Russian, and Korean (from 1996-1998). Traditional Chinese took a hiatus in 2003, but we"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "687656"
 [_metadata_:publish_date]:- "2010-06-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic 2011 in Traditional Chinese"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 08:12:56+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 08:12:56"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429081256id_/https://magic.wizards.com/en/articles/archive/feature/magic-2011-traditional-chinese-2010-06-09"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-2011-traditional-chinese-2010-06-09"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Welcome back to `On the Mirrodin Site,` where we show off some of the recent highlights from the Mirrodin Site.Because this is the final installment this year, we're going to do things a little differently. And by that we mean that we're not going to give you individual highlights at all. Because the Mirrodin Site is stuffed to bursting with updates! Field Reports from both"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "601726"
 [_metadata_:publish_date]:- "2010-12-17"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "On the Mirrodin Site: December 11-17"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-28 00:23:48+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-28 00:23:48"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220128002348id_/https://magic.wizards.com/en/articles/archive/feature/mirrodin-site-december-11-17-2010-12-17"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mirrodin-site-december-11-17-2010-12-17"
 ---

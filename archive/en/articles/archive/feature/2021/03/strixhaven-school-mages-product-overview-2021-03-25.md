@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Ari Zirulnik"
 [_metadata_:description]:- "Learn all about the booster packs, Commander decks, and more coming with Strixhaven: School of Mages."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1532729"
 [_metadata_:publish_date]:- "2021-03-25"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Strixhaven: School of Mages Product Overview"
-[_metadata_:wayback_capture_timestamp]:- "2021-03-25 16:53:18+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-03-25 16:53:18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210325165318id_/https://magic.wizards.com/en/articles/archive/feature/strixhaven-school-mages-product-overview-2021-03-25"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/strixhaven-school-mages-product-overview-2021-03-25"
 ---

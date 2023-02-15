@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Randy Buehler It was standing room only at Neutral Ground New York for the first two rounds of the Extended constructed Masters event. Things felt tense during the Gateway as 103 players fought for the last two invitations into the exclusive field, but the heat turned up dramatically as arguably the best 32 players in the world sat down to start dividing up $150,000. Everyone in the field was guaranteed at least $2,000 and a first win would up the guarantee to $4,000."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "805486"
 [_metadata_:publish_date]:- "2015-10-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Notes on the first two rounds of play"
-[_metadata_:wayback_capture_timestamp]:- "2016-07-07 14:11:39+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-07-07 14:11:39"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160707141139id_/http://magic.wizards.com/en/articles/archive/feature/notes-first-two-rounds-play-2015-10-15"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/notes-first-two-rounds-play-2015-10-15"
 ---

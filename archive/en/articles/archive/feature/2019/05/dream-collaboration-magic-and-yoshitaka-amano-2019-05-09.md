@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Yoshitaka Amano created a breathtaking alternate version of Liliana, Dreadhorde General, and he graciously shared insight into his process."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1419901"
 [_metadata_:publish_date]:- "2019-05-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "A Dream Collaboration: Magic and Yoshitaka Amano"
-[_metadata_:wayback_capture_timestamp]:- "2019-05-13 06:26:00+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2019-05-13 06:26:00"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190513062600id_/https://magic.wizards.com/en/articles/archive/feature/dream-collaboration-magic-and-yoshitaka-amano-2019-05-09"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dream-collaboration-magic-and-yoshitaka-amano-2019-05-09"
 ---

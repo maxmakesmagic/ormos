@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Grand Prix Mexico City Trials will be run at WPN locations in the weeks leading up to the Grand Prix. Each offers the winner a three-round bye to Grand Prix Mexico City.WPN Locations in the Mexico City Area Entry Fee Entry fee varies from location to location. Check with local organizer for specific information.Format The format for each Grand Prix Trial chosen by the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "728976"
 [_metadata_:publish_date]:- "2011-12-08"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Mexico City 2012 Trials"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-17 10:08:47+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-17 10:08:47"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211017100847id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-mexico-city-2012-trials-2011-12-08"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-mexico-city-2012-trials-2011-12-08"
 ---

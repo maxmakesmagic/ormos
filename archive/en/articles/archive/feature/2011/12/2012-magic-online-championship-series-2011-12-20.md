@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Think you have the skill to be one of the best Magic Online players around and earn your share of a $100,000 USD prize pool? Find out by earning your chance to go head-to-head against the defending 2011 Magic Online champion, Reid Duke, and fifteen other competitors in the 2012 Magic Online Championship Series. Increased to a field of sixteen finalists for 2012, the Magic"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "688671"
 [_metadata_:publish_date]:- "2011-12-20"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2012 Magic Online Championship Series"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-29 22:31:32+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-29 22:31:32"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220629223132id_/https://magic.wizards.com/en/articles/archive/feature/2012-magic-online-championship-series-2011-12-20"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2012-magic-online-championship-series-2011-12-20"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Andreas Müller's Reanimator Format: Legacy – Grand Prix–Madrid 2 Bloodstained Mire 2 Island 4 Polluted Delta 2 Swamp 4 Underground Sea 2 Verdant Catacombs 1 Blazing Archon 1 Empyrial Archangel 2 Inkwell Leviathan 2 Iona, Shield of Emeria 1 Sphinx of the Steel Wind 4 Brainstorm 4 Careful Study 1 Dark Ritual 4 Daze 1 Echoing Truth 4 Entomb 4 Exhume 4 Force of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "669416"
 [_metadata_:publish_date]:- "2010-03-08"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Legacy Reanimator"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-06 18:03:34+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-06 18:03:34"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210506180334id_/https://magic.wizards.com/en/articles/archive/feature/legacy-reanimator-2010-03-08"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/legacy-reanimator-2010-03-08"
 ---

@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20220521122415/https://magic.wizards.com/en/articles/archive/feature/agents-artifice-animated-trailer-2009-05-04)
+[Link to Wayback Machine](https://web.archive.org/web/20211201135439/https://magic.wizards.com/en/articles/archive/feature/agents-artifice-animated-trailer-2009-05-04)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- ".More Information on Agents of Artifice by Ari Marmell"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "687421"
 [_metadata_:publish_date]:- "2009-05-04"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Agents of Artifice Animated Trailer"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-21 12:24:15+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521122415id_/https://magic.wizards.com/en/articles/archive/feature/agents-artifice-animated-trailer-2009-05-04"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-01 13:54:39"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211201135439id_/https://magic.wizards.com/en/articles/archive/feature/agents-artifice-animated-trailer-2009-05-04"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/agents-artifice-animated-trailer-2009-05-04"
 ---
 

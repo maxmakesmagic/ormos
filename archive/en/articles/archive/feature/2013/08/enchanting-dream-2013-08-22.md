@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:description]:- "I recently received a very cool reader submission for Pauper, thanks to a gentleman named Sebastian. He suggested taking a look at an innovative White-Blue Enchantment list that has done well in a couple Daily Events, and I liked what I saw. In a sea of monocolored aggro decks, this deck is doing something very different."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "666901"
 [_metadata_:publish_date]:- "2013-08-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "An Enchanting Dream"
-[_metadata_:wayback_capture_timestamp]:- "2018-11-23 23:23:55+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2018-11-23 23:23:55"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20181123232355id_/https://magic.wizards.com/en/articles/archive/feature/enchanting-dream-2013-08-22"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/enchanting-dream-2013-08-22"
 ---

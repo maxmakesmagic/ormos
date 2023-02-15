@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "15th & 16th March 2008 Format: Extended Tournament Location: Austria Centre Vienna AUSTRIA CENTER VIENNA (ACV) - Hall XL 1220 Vienna (Wien) Austria website Get on the battlefield - Open to all !! Grand Prix are the most exciting events the DCI offers. They're high-energy and held around the world. The main event is all about competition, but there are also plenty of other"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "636581"
 [_metadata_:publish_date]:- "2007-12-04"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Vienna 2008"
-[_metadata_:wayback_capture_timestamp]:- "2022-09-30 23:47:02+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-09-30 23:47:02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220930234702id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-vienna-2008-2007-12-04"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-vienna-2008-2007-12-04"
 ---

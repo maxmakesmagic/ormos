@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20200815114916/https://magic.wizards.com/en/articles/archive/feature/big-boros-brew-2013-09-02)
+[Link to Wayback Machine](https://web.archive.org/web/20170508063332/http://magic.wizards.com/en/articles/archive/feature/big-boros-brew-2013-09-02)
 
 [_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:description]:- "The newest incarnation of Chandra, Pyromaster is apparently a force to be reckoned with, at least according to Chris VanMeter's article on Big Boros. As promised, the deck is a higher-curve take on an aggressive archetype, and lands squarely in midrange territory."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "666941"
 [_metadata_:publish_date]:- "2013-09-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Big Boros Brew"
-[_metadata_:wayback_capture_timestamp]:- "2020-08-15 11:49:16+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200815114916id_/https://magic.wizards.com/en/articles/archive/feature/big-boros-brew-2013-09-02"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/big-boros-brew-2013-09-02"
+[_metadata_:wayback_capture_timestamp]:- "2017-05-08 06:33:32"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170508063332id_/http://magic.wizards.com/en/articles/archive/feature/big-boros-brew-2013-09-02"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/big-boros-brew-2013-09-02"
 ---
 
 
@@ -58,7 +60,6 @@ The newest incarnation of [Chandra, Pyromaster](http://gatherer.wizards.com/Page
 
 
 
-
 #### Chris VanMeter's Big Boros
 
 
@@ -69,9 +70,7 @@ The newest incarnation of [Chandra, Pyromaster](http://gatherer.wizards.com/Page
 
 
 
-![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
 ![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
-
 
 
 
@@ -449,7 +448,7 @@ OverviewColorCostRarity
 
 
 
-##### Rare (33)
+##### Rare (29)
 
 
 
@@ -459,10 +458,6 @@ OverviewColorCostRarity
 
 4
 [Mutavault](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMutavault%5D)
-
-
-4
-[Sacred Foundry](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSacred%5D+%5BFoundry%5D)
 
 
 4
@@ -494,8 +489,12 @@ OverviewColorCostRarity
 
 
 
-##### Mythic (12)
+##### Mythic (16)
 
+
+
+4
+[Sacred Foundry](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSacred%5D+%5BFoundry%5D)
 
 
 4

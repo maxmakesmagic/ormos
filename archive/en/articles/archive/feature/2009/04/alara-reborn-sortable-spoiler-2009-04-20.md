@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "#NameCostTypeP/TRules TextFlavor TextRarityArtist1Ardent Plea1WUEnchantment Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)Cascade (When you play this spell, remove cards from the top of your library from the game until you remove a nonland card that costs less. You may play it without paying its mana cost. Put the removed"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "646956"
 [_metadata_:publish_date]:- "2009-04-20"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Alara Reborn Sortable Spoiler"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-18 11:51:55+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-18 11:51:55"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220818115155id_/https://magic.wizards.com/en/articles/archive/feature/alara-reborn-sortable-spoiler-2009-04-20"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/alara-reborn-sortable-spoiler-2009-04-20"
 ---

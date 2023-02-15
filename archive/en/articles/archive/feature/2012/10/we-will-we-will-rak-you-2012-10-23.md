@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "Today we continue our trip around North America as we have been looking into various deck lists from the 2012's. Rakdos might be a guild in Ravnica, but Red/Black aggro decks have always existed in one form or another. Prior to Return to Ravnica, the deck took the form of a Zombie tribal deck that could finish with Brimstone Volley or Falkenrath Aristocrat. Because of that, as"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "665676"
 [_metadata_:publish_date]:- "2012-10-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "We Will, We Will, Rak You"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-28 18:30:20+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-28 18:30:20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220628183020id_/https://magic.wizards.com/en/articles/archive/feature/we-will-we-will-rak-you-2012-10-23"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/we-will-we-will-rak-you-2012-10-23"
 ---

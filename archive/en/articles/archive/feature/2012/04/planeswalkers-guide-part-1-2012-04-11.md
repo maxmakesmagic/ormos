@@ -4,9 +4,11 @@
 
 [_metadata_:description]:- "During Avacyn's absence, the angels suffered. Without their leader, the flights became disorganized and ineffectual. Many retreated from view, lost without the power that created them. Avacyn's disappearance took a toll on the Lofts, the holy site above the Thraben Cathedral where Avacyn dwelled with her hosts of angels. From the outside, the Lofts appear to be a long attic"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "681436"
 [_metadata_:publish_date]:- "2012-04-11"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Planeswalker's Guide to : Part 1"
-[_metadata_:wayback_capture_timestamp]:- "2021-03-08 05:55:17+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-03-08 05:55:17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210308055517id_/https://magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-part-1-2012-04-11"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-part-1-2012-04-11"
 ---

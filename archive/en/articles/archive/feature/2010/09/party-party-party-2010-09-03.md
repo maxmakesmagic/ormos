@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "It's a weekend for parties! If you're anywhere near Seattle, you should try to make it to PAX Prime. And if you're anywhere near Amsterdam, you should try to make it to Pro Tour–Amsterdam. Both events are going to have puzzle hunts, followed by big, Magic-themed parties, in which the mysteries of Scars of Mirrodin will start to be revealed. Of course, we've mentioned this"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "601311"
 [_metadata_:publish_date]:- "2010-09-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Party! Party! Party!"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-20 02:22:50+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-20 02:22:50"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120022250id_/https://magic.wizards.com/en/articles/archive/feature/party-party-party-2010-09-03"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/party-party-party-2010-09-03"
 ---

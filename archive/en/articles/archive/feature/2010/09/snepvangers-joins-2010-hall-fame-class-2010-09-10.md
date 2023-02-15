@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "LLegendary Dutch Magic player Bram Snepvangers will join Gabriel Nassif, Brian Kibler, and Tomoharu Saito in the Magic Pro Tour Hall of Fame Class of 2010.An inconsistency between Wizards of the Coast's published rules and the mathematical formula used to count votes was discovered after announcing the 2010 inductees last weekend at Pro Tour–Amsterdam."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "688116"
 [_metadata_:publish_date]:- "2010-09-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Snepvangers Joins 2010 Hall of Fame Class"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-18 01:27:41+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-18 01:27:41"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518012741id_/https://magic.wizards.com/en/articles/archive/feature/snepvangers-joins-2010-hall-fame-class-2010-09-10"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/snepvangers-joins-2010-hall-fame-class-2010-09-10"
 ---

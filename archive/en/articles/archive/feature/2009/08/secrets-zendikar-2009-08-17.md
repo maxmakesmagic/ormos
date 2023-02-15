@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Secrets of Zendikar Ruins of a Lost Civilization Ancient, rune-carved monoliths called hedrons are strewn across Zendikar, the largest up to ten miles long. Some of these stones drift in the sky; others are buried in the ground, some whole, some broken. They're remnants of lost civilization, but their original purpose is unknown. This ancient empire wielded unimaginable"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "708371"
 [_metadata_:publish_date]:- "2009-08-17"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Secrets of Zendikar"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 02:20:58+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 02:20:58"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429022058id_/https://magic.wizards.com/en/articles/archive/feature/secrets-zendikar-2009-08-17"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/secrets-zendikar-2009-08-17"
 ---

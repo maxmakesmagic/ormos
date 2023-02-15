@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Matt Cavotta"
 [_metadata_:description]:- "So I was walking through the arid salt plains near old Trokair when I was knocked to the hard, gritty ground by a sudden burst of wind. Then, through the cloud of dust and salt, right before me, I could see a bluish swirling vortex silently whirling and opening wider. As it grew I could start to make out a tumultuous scene within it."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "626856"
 [_metadata_:publish_date]:- "2006-11-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Milk and Cookies with Drew Tucker"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-03 08:09:49+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-03 08:09:49"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170603080949id_/http://magic.wizards.com/en/articles/archive/feature/milk-and-cookies-drew-tucker-2006-11-09"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/milk-and-cookies-drew-tucker-2006-11-09"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Frank Karsten"
 [_metadata_:description]:- "The Constructed Premier events started again last week after their break during the Planar Chaos release tournaments. Today I will go over what Planar Chaos has brought to the online Standard metagame. In the following table I have listed the 20 most popular Standard decks as seen in the Magic Online Premier Event last week. From Monday March 12 to Sunday March 18, that's a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "624281"
 [_metadata_:publish_date]:- "2007-03-21"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The First Standard Results Are In!"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-09 08:25:51+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-09 08:25:51"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220809082551id_/https://magic.wizards.com/en/articles/archive/feature/first-standard-results-are-2007-03-21"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/first-standard-results-are-2007-03-21"
 ---

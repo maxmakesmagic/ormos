@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Liam Coltman After last year's draft, Russell Barlow was leading day one as the Australian Draft champion, he later played living death in Type 2 and failed to make the top 8. John Brugman, or `The Gas Man` as he is known, had two solid days to make his way into the top 8, only to be defeated in two straight matches. However, this year the two were floundering around the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "948701"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 5 Feature Match - Russel Barlow vs. John Brugman"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-17 18:19:18+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-17 18:19:18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517181918id_/https://magic.wizards.com/en/articles/archive/feature/round-5-feature-match-russel-barlow-vs-john-brugman-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-5-feature-match-russel-barlow-vs-john-brugman-2000-01-01"
 ---

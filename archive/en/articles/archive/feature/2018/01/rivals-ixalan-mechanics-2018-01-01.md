@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Matt Tabak"
 [_metadata_:description]:- "Matt explains the new mechanics coming with Rivals of Ixalan."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1236991"
 [_metadata_:publish_date]:- "2018-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Rivals of Ixalan Mechanics"
-[_metadata_:wayback_capture_timestamp]:- "2018-01-02 11:36:01+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2018-01-02 11:36:01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180102113601id_/https://magic.wizards.com/en/articles/archive/feature/rivals-ixalan-mechanics-2018-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/rivals-ixalan-mechanics-2018-01-01"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Frank Karsten"
 [_metadata_:description]:- "Hello everyone. Today I have the usual metagame breakdown for Standard and Extended, and then I'll say a few words about the Planar Chaos release events and build decks with the new avatars. Here is last week's Magic  Online Premier Event Standard recap:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "624236"
 [_metadata_:publish_date]:- "2007-02-21"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Planar Chaos Release Events and Avatars"
-[_metadata_:wayback_capture_timestamp]:- "2017-01-31 11:26:44+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-01-31 11:26:44"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170131112644id_/http://magic.wizards.com/en/articles/archive/feature/planar-chaos-release-events-and-avatars-2007-02-21"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/planar-chaos-release-events-and-avatars-2007-02-21"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "InformationTournament Schedule Tournament Byes Public Events Travel Information Contact Information Date: March 13-14, 2010 Format: Standard Tournament Location Cititel Mid Valley Mid Valley City, Lingkaran Syed Putra, 59200 Kuala Lumpur, Malaysia Location Map Registration: 60 RM Friday, March 12: 12:00 P.M. – 8:00 P.M Saturday, March 13: 9:30A.M."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "728726"
 [_metadata_:publish_date]:- "2010-01-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix–Kuala Lumpur Event Information"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-26 12:38:48+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-26 12:38:48"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026123848id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93kuala-lumpur-event-information-2010-01-15"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93kuala-lumpur-event-information-2010-01-15"
 ---

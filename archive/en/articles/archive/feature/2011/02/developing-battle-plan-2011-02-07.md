@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Zac Hill"
 [_metadata_:description]:- "Mirrodin Besieged was my first development team. Big step up from the old Brainburst.com `Fantasy Card` forums, gotta say, though if you cruise the archives for `Wumpus Jr.` I am sure you'll unearth some real gems. Big step up from spot-errata-ing Phantasmal Fiend's `effects that further alter ... ` clause on my living room floor because none of my playgroup had any idea what"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "680426"
 [_metadata_:publish_date]:- "2011-02-07"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Developing a Battle Plan"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 04:24:45+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 04:24:45"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429042445id_/https://magic.wizards.com/en/articles/archive/feature/developing-battle-plan-2011-02-07"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/developing-battle-plan-2011-02-07"
 ---

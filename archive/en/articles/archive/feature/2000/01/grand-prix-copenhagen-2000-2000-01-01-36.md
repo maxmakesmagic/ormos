@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Round 12 Pairings per table Table Player 1 Player 2 Gaudron, Stephane *** BYE *** Pod 8 Mello, Patrick *** BYE *** Pod 7 1 Myrvig, Peter Canu, Franck 2 Sanders Jensen, Niels Cedercrantz, Johan 3 Jocumsen, Bjorn Ruel, Antoine 4 Osterberg, Richard Bastos, Frederico 5 Karlsson, Morgan Levy, Raphael 6 Walter, Bjoern Kruschel, Andreas 7 Cieslikowski, Marcin Dobson, Tony 8 Yeh,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "951721"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Copenhagen 2000"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-27 19:45:48+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-27 19:45:48"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211127194548id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-36"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-36"
 ---

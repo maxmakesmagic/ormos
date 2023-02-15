@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Katie Allison"
 [_metadata_:description]:- "From The Vault: Lore is coming soon. Do you know the stories behind the cards?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1049001"
 [_metadata_:publish_date]:- "2016-08-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "From The Vault: Lore"
-[_metadata_:wayback_capture_timestamp]:- "2016-08-03 18:34:41+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-08-03 18:34:41"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160803183441id_/http://magic.wizards.com/en/articles/archive/feature/vault-lore-2016-08-01"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/vault-lore-2016-08-01"
 ---

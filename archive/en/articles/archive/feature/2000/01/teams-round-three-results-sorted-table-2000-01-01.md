@@ -4,9 +4,11 @@
 
 [_metadata_:description]:- "Match Team Opponent Result 1 United States Germany Won 3-1 2 Netherlands Sweden Lost 1-3 3 Spain Czech Republic Lost 1-3 4 Canada Austria Won 3-1 5"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "961061"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Teams: Round Three Results Sorted By Table"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-30 23:02:16+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-30 23:02:16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030230216id_/https://magic.wizards.com/en/articles/archive/feature/teams-round-three-results-sorted-table-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/teams-round-three-results-sorted-table-2000-01-01"
 ---

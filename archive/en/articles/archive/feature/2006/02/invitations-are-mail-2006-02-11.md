@@ -5,9 +5,11 @@
 [_metadata_:author]:- "John Carter"
 [_metadata_:description]:- "Send your rules questions to Level Four Judge John Carter. Can't find the answer to your question somewhere else, like the Magic Comprehensive Rules? Maybe he's already answered it! Try the Saturday School Searchable Rules Database. Last weekend saw the official release of Guildpact. If your local store was anything like mine, it was packed over the weekend with people playing"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "625361"
 [_metadata_:publish_date]:- "2006-02-11"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Invitations are in the Mail"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-07 06:24:58+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-07 06:24:58"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211207062458id_/https://magic.wizards.com/en/articles/archive/feature/invitations-are-mail-2006-02-11"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/invitations-are-mail-2006-02-11"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Branco Neirynck's Black-White Tokens Format: Belgian Nationals 4 Arcane Sanctum 4 Fetid Heath 4 Reflecting Pool 4 Windbrisk Heights 2 Mutavault 4 Caves of Koilos 2 Plains 1 Swamp 4 Murderous Redcap 4 Tidehollow Sculler 3 Cloudgoat Ranger 4 Kitchen Finks 4 Glorious Anthem 4 Bitterblossom 4 Spectral Procession 3 Zealous Persecution 3 Ajani Goldmane 2 Path to Exile *3 Burrenton Forge-Tender *2 Path to Exile *4 Thoughtseize"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "668506"
 [_metadata_:publish_date]:- "2009-07-07"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Belgium Nationals"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-09 16:34:18+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-09 16:34:18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170709163418id_/http://magic.wizards.com/en/articles/archive/feature/belgium-nationals-2009-07-07"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/belgium-nationals-2009-07-07"
 ---

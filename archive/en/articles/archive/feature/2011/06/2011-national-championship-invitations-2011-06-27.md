@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Ireland Nationals Invitation list comprises the following:The current Ireland National Champion and members of the current Ireland national team (including alternate). Players from Ireland with Pro Tour Players Club level 2 or higher. Winners of invitations through National Qualifiers (including Last Chance National Qualifiers or `Grinders`) The Top 35 DCI-ranked players in"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "730201"
 [_metadata_:publish_date]:- "2011-06-27"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2011 National Championship Invitations"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-20 17:29:36+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-20 17:29:36"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520172936id_/https://magic.wizards.com/en/articles/archive/feature/2011-national-championship-invitations-2011-06-27"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-national-championship-invitations-2011-06-27"
 ---

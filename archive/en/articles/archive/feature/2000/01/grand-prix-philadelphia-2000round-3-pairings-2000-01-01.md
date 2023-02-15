@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Opponent Abueg John (331) Napoii Phil (176) Al-Doory Aziz (206) Bongiovanni Mauro (5) Allen Chris (436) Duewel-Zahniser Eric (343) Allen Crispin (571) Kambourakis Joseph (382) Allen Tim (442) Sullivan Adrian (283) Amendolia Aaron (320) Shea Tom (131) Anders Dorian (295) Sandrock Eric (448) Anderson Alex (420) Clinger Justin (336) Anderson Dan (137) Simard Stephane (25)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "952741"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix-Philadelphia 2000Round 3 Pairings"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-27 04:26:46+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-27 04:26:46"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527042646id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-3-pairings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-3-pairings-2000-01-01"
 ---

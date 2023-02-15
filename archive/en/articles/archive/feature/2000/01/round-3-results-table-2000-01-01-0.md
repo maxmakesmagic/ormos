@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Team Result Opponent Team 25:17 210 vs. Pensaci Tu Sing Along party * 120 vs. trash AAA killers of the Coast 111 vs. Token king team Accellerated Vares8 Volante 120 vs. Team Clegg I 3 ciccioni 210 vs. La 139 * Calvo's Legacy 120 vs. one day fly library of alexandria 2 021 vs. Amsterdam Cosmopolitan 120 vs. www.revised4th5th.com Metagames/LNT 210 vs. Black-Ops The Feebles 120"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "806421"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 3 Results (by Table)"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-27 02:55:13+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-27 02:55:13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220627025513id_/https://magic.wizards.com/en/articles/archive/feature/round-3-results-table-2000-01-01-0"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-3-results-table-2000-01-01-0"
 ---

@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20170414001806/http://magic.wizards.com/en/articles/archive/feature/commander-2015-mechanics-2015-11-02)
+[Link to Wayback Machine](https://web.archive.org/web/20170108201145/http://magic.wizards.com/en/articles/archive/feature/commander-2015-mechanics-2015-11-02)
 
 [_metadata_:author]:- "Matt Tabak"
 [_metadata_:description]:- "Matt breaks down the new mechanics in Commander 2015."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "821176"
 [_metadata_:publish_date]:- "2015-11-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Commander 2015 Mechanics"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-14 00:18:06+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170414001806id_/http://magic.wizards.com/en/articles/archive/feature/commander-2015-mechanics-2015-11-02"
+[_metadata_:wayback_capture_timestamp]:- "2017-01-08 20:11:45"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170108201145id_/http://magic.wizards.com/en/articles/archive/feature/commander-2015-mechanics-2015-11-02"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/commander-2015-mechanics-2015-11-02"
 ---
 

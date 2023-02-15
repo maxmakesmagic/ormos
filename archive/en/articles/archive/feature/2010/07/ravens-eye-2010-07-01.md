@@ -4,9 +4,11 @@
 
 [_metadata_:author]:- "Jenna Helland"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "326376"
 [_metadata_:publish_date]:- "2010-07-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Raven's Eye"
-[_metadata_:wayback_capture_timestamp]:- "2015-05-24 19:31:26+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2015-05-24 19:31:26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150524193126id_/http://magic.wizards.com/en/articles/archive/feature/ravens-eye-2010-07-01"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/ravens-eye-2010-07-01"
 ---

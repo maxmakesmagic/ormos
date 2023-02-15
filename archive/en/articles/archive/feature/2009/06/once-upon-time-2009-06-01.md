@@ -4,9 +4,11 @@
 
 [_metadata_:author]:- "Mark Rosewater"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "657151"
 [_metadata_:publish_date]:- "2009-06-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Once Upon a Time"
-[_metadata_:wayback_capture_timestamp]:- "2019-11-02 08:31:07+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2019-11-02 08:31:07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20191102083107id_/https://magic.wizards.com/en/articles/archive/feature/once-upon-time-2009-06-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/once-upon-time-2009-06-01"
 ---

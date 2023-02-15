@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Antonino De Rosa"
 [_metadata_:description]:- "Team CleggTeam Clegg Peter Szigeti Brock Parker Dan Clegg Bologna Demoliton Team Alessandro Betti Noberto Giusti Andrea PaselliTeam Clegg is a pro team coming from all different spactrums of the USA, where Bologna Demolition Team is a good local team with some PT experience. A Peter Szigeti B Brock Parker C Dan Clegg D Alessandro Betti E Noberto Giusti F Andrea Paselli A B C F"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "806116"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 7 Feature Match: Team Clegg vs. Bologna Demolition Team"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-02 21:04:40+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-02 21:04:40"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220702210440id_/https://magic.wizards.com/en/articles/archive/feature/round-7-feature-match-team-clegg-vs-bologna-demolition-team-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-7-feature-match-team-clegg-vs-bologna-demolition-team-2000-01-01"
 ---

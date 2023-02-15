@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Burgner, Kurt 33 65.3628 72.7273 58.7798 14/10/3/0 2 Ekebom, Erno 33 62.6766 62.8571 59.2376 14/10/3/0 3 Cowley, Bruce 33 56.5646 69.6970 55.0937 14/11/0/0 4 Blackwell, Trevor 32 62.5850 64.5161 59.9324 14/10/2/0 5 Nishioka, Andrew 32 61.3946 67.6471 57.2333 14/10/2/0 6 Long, Mike 32 59.1837 66.6667"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "950631"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-Los Angeles 2000Round 14 Standings"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-26 18:46:53+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-26 18:46:53"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126184653id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-14-standings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-14-standings-2000-01-01"
 ---

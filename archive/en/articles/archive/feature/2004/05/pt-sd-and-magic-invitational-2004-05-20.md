@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Alex Shvartsman"
 [_metadata_:description]:- "Pro Tour: San DiegoThis Pro Tour began with the ending of an era. Up until recently, there were several players who competed in every single Pro Tour since the inception of this tournament series. As of Pro Tour: Kobe, this impressive accomplishment belonged only to a single competitor – Darwin Kastle. Unfortunately though, Kastle was not qualified for San Diego. Nevertheless,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "614136"
 [_metadata_:publish_date]:- "2004-05-20"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "PT SD and the Magic Invitational"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-27 04:35:11+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-27 04:35:11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527043511id_/https://magic.wizards.com/en/articles/archive/feature/pt-sd-and-magic-invitational-2004-05-20"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pt-sd-and-magic-invitational-2004-05-20"
 ---

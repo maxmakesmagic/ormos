@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20170326055053/http://magic.wizards.com/en/articles/archive/feature/closer-look-next-three-fnm-promos-2017-03-24)
+[Link to Wayback Machine](https://web.archive.org/web/20171123173122/https://magic.wizards.com/en/articles/archive/feature/closer-look-next-three-fnm-promos-2017-03-24)
 
 [_metadata_:author]:- "Nicholas Wolfram"
 [_metadata_:description]:- "Take a closer look at the art for the upcoming Friday Night Magic promos."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1131216"
 [_metadata_:publish_date]:- "2017-03-24"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "A Closer Look at the Next Three FNM Promos"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-26 05:50:53+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170326055053id_/http://magic.wizards.com/en/articles/archive/feature/closer-look-next-three-fnm-promos-2017-03-24"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/closer-look-next-three-fnm-promos-2017-03-24"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-23 17:31:22"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123173122id_/https://magic.wizards.com/en/articles/archive/feature/closer-look-next-three-fnm-promos-2017-03-24"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/closer-look-next-three-fnm-promos-2017-03-24"
 ---
 
 

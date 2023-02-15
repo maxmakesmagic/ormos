@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20211207091403/https://magic.wizards.com/en/articles/archive/feature/all-star-studded-2004-05-10)
+[Link to Wayback Machine](https://web.archive.org/web/20210503071913/https://magic.wizards.com/en/articles/archive/feature/all-star-studded-2004-05-10)
 
 [_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "The Magic Invitational is going on right now! You can watch the action live in Magic Online, or read our coverage as it happens. This week (from Tuesday, May 11th through Saturday, May 15th) we will be holding the Eighth Annual Magic Invitational. As this tournament is near and dear to my heart, I asked if I could write an article about the tournament explaining what is it,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "631061"
 [_metadata_:publish_date]:- "2004-05-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "All-Star Studded"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-07 09:14:03+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211207091403id_/https://magic.wizards.com/en/articles/archive/feature/all-star-studded-2004-05-10"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-03 07:19:13"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503071913id_/https://magic.wizards.com/en/articles/archive/feature/all-star-studded-2004-05-10"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/all-star-studded-2004-05-10"
 ---
 
@@ -163,7 +165,7 @@ Mike turned in the following card:
 ![](https://web.archive.org/web/20211201201921im_/https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/colorless1.gif)![](https://web.archive.org/web/20161115194122im_/http://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/blue.gif)  
  Creature - Merfolk   
  1/2  
-![](https://web.archive.org/web/20161115194122im_/http://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/blue.gif): Long's Merfolk gains flying until end of turn.The card was tweaked to become [Rootwater Thief](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rootwater+Thief).
+![](https://web.archive.org/web/20161115194122im_/http://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/blue.gif): Long's Merfolk gains flying until end of turn.The card was tweaked to become [Rootwater Thief](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rootwater+Thief).
 
 As a quick piece of trivia, this was the first Invitational where I designed special cards for the event. [Click here to see the cards](http://www.magiclibrary.net/rarities-magic-invitational.html).
 
@@ -199,7 +201,7 @@ Upon winning the event, Pikula turned in the following card:
  Creature - Wizards of the Coast  
  2/3  
  As The Meddler comes into play, name a card.  
- Sacrifice The Meddler: Counter named card.R&D fiddled with the card turning it into a multi-color card (to fit the theme of *Planeshift*) and upgrading the card power. The end result was [Meddling Mage](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Meddling+Mage). 
+ Sacrifice The Meddler: Counter named card.R&D fiddled with the card turning it into a multi-color card (to fit the theme of *Planeshift*) and upgrading the card power. The end result was [Meddling Mage](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Meddling+Mage). 
 
 In addition, here is the [on-line coverage of the event](http://www.wizards.com/sideboard/article.asp?x=INVITATIONAL9900/welcome).
 
@@ -235,7 +237,7 @@ Finkel ended up turning in the following card:
  Sorcery  
  Destroy all creatures. They can't be regenerated. Untap up to four lands.
 
-Having been burned by the “free mechanic”, R&D asked Finkel for a new card. He turned in a card called Shadowmage of LekniF that with very little tweaking became [Shadowmage Infiltrator](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shadowmage+Infiltrator).
+Having been burned by the “free mechanic”, R&D asked Finkel for a new card. He turned in a card called Shadowmage of LekniF that with very little tweaking became [Shadowmage Infiltrator](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shadowmage+Infiltrator).
 
 
 
@@ -243,7 +245,7 @@ Having been burned by the “free mechanic”, R&D asked Finkel for a new card. 
 | --- | --- |
 | Shadowmage Infiltrator | Sylvan Safekeeper |
 
-Shortly after this event, I was contacted by Olle Rade who was interested in finally collecting his prize. He wanted to know if it was too late to make a card. I informed him it wasn't too late but said that his picture in the illustration needed to match when he won (he had since been in the army and shaved off his long blonde locks). Olle's card became [Sylvan Safekeeper](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sylvan+Safekeeper) and was released in *Judgment*. 
+Shortly after this event, I was contacted by Olle Rade who was interested in finally collecting his prize. He wanted to know if it was too late to make a card. I informed him it wasn't too late but said that his picture in the illustration needed to match when he won (he had since been in the army and shaved off his long blonde locks). Olle's card became [Sylvan Safekeeper](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sylvan+Safekeeper) and was released in *Judgment*. 
 
 The reason that this Invitational took place the same year as Kuala Lumpur incidnetally was that we moved the Invitational from the end of the Pro Tour season to the beginning.
 
@@ -283,9 +285,9 @@ Here is the card Kai Budde turned in:
 ![](https://web.archive.org/web/20161115194122im_/http://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/blue.gif), Sacrifice Wisedrafter's Will: Draw a card.  
 ![](https://web.archive.org/web/20161115194122im_/http://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/blue.gif)![](https://web.archive.org/web/20161115194122im_/http://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/blue.gif), Sacrifice Wisedrafter's Will: Counter target spell.
 
-R&D fiddled with the card to try and make it more relevant to the tribal theme in *Onslaught*. The card became [Voidmage Prodigy](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Voidmage+Prodigy).
+R&D fiddled with the card to try and make it more relevant to the tribal theme in *Onslaught*. The card became [Voidmage Prodigy](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Voidmage+Prodigy).
 
-Many people have asked why Kai's card ended up so weak. The reality was that it wasn't weak. In fact, it along with [Patron Wizard](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Patron+Wizard) turned wizards into a powerhouse in R&D's FFL League (The Future Future League where we try to predict what the future will look like). The deck was such unfun to play against, that R&D nerfed almost all the other wizards to keep the deck out of constructed. To make matters even worse, the picture of Kai was felt by many to be unflattering. Wizards later made a promotional version with a new picture.
+Many people have asked why Kai's card ended up so weak. The reality was that it wasn't weak. In fact, it along with [Patron Wizard](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Patron+Wizard) turned wizards into a powerhouse in R&D's FFL League (The Future Future League where we try to predict what the future will look like). The deck was such unfun to play against, that R&D nerfed almost all the other wizards to keep the deck out of constructed. To make matters even worse, the picture of Kai was felt by many to be unflattering. Wizards later made a promotional version with a new picture.
 
 
 
@@ -325,7 +327,7 @@ The finals ended up being between two Nordic players – Tommi Walamies from Fin
  Creature - Elf Wizard  
  When Forestfolk comes into play, you may search your library for a basic land card and put it into play tapped. Then shuffle your library.  
  When Forestfolk leaves play, draw a card.  
- 2/2To fit into the artifact theme of *Mirrodin*, this card was turned into an artifact creature called [Solemn Simulacrum](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Solemn+Simulacrum).
+ 2/2To fit into the artifact theme of *Mirrodin*, this card was turned into an artifact creature called [Solemn Simulacrum](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Solemn+Simulacrum).
 
 Here is the [on-line coverage of the event](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/events/mi02).
 

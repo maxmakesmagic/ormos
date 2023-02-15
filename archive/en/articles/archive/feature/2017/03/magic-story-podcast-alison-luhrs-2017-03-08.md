@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Blake Rasmussen"
 [_metadata_:description]:- "Yahenni's creator, Alison Luhrs, joins Blake to discuss her contributions and feelings toward Magic's story."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1128171"
 [_metadata_:publish_date]:- "2017-03-08"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic Story Podcast: Alison Luhrs"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-09 04:08:17+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-09 04:08:17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170309040817id_/http://magic.wizards.com/en/articles/archive/feature/magic-story-podcast-alison-luhrs-2017-03-08"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-story-podcast-alison-luhrs-2017-03-08"
 ---

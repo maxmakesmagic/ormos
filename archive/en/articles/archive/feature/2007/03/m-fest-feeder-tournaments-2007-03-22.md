@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Updated 2007-05-31"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "731961"
 [_metadata_:publish_date]:- "2007-03-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "M-fest Feeder Tournaments"
-[_metadata_:wayback_capture_timestamp]:- "2016-03-01 03:34:33+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-03-01 03:34:33"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160301033433id_/http://magic.wizards.com/en/articles/archive/feature/m-fest-feeder-tournaments-2007-03-22"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/m-fest-feeder-tournaments-2007-03-22"
 ---

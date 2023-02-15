@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "San Diego ComicCon is fast approaching, taking place this year on July 18-21, 2013! Magic will be there doing a few things and we want to tell you about them! The Panel Saturday, July 20, 2013 - 12 p.m. - 1 p.m. - Room 25ABC"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "649471"
 [_metadata_:publish_date]:- "2013-07-05"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "San Diego ComicCon 2013"
-[_metadata_:wayback_capture_timestamp]:- "2020-05-31 08:33:23+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-05-31 08:33:23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200531083323id_/https://magic.wizards.com/en/articles/archive/feature/san-diego-comiccon-2013-2013-07-05"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/san-diego-comiccon-2013-2013-07-05"
 ---

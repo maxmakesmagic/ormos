@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Jenna Helland"
 [_metadata_:description]:- "You know things that others don't. You know something really bad is going to happen. And it's something earth-shattering, horizon-altering, dark-magic bad. You're one of the smartest creatures on the plane—maybe the smartest—and if anyone can change what's about to happen, it's you. So you ponder all the potential solutions, the various equations, and the infinite possibilities. And you reach this conclusion: You can't stop it. So what's your next best option? Beat it at its own game."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "623001"
 [_metadata_:publish_date]:- "2008-07-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Sapling of Colfenor"
-[_metadata_:wayback_capture_timestamp]:- "2016-09-14 19:09:35+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-09-14 19:09:35"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160914190935id_/http://magic.wizards.com/en/articles/archive/feature/sapling-colfenor-2008-07-02"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/sapling-colfenor-2008-07-02"
 ---

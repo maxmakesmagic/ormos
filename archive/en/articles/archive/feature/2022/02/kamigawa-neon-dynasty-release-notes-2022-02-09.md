@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Release Notes include info about the release of a new set, as well as clarifications and rulings involving that set's cards."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1570982"
 [_metadata_:publish_date]:- "2022-02-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Kamigawa: Neon Dynasty Release Notes"
-[_metadata_:wayback_capture_timestamp]:- "2022-02-10 11:14:35+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-02-10 11:14:35"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220210111435id_/https://magic.wizards.com/en/articles/archive/feature/kamigawa-neon-dynasty-release-notes-2022-02-09?utm_source=dlvr.it&utm_medium=twitter"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/kamigawa-neon-dynasty-release-notes-2022-02-09?utm_source=dlvr.it&utm_medium=twitter"
 ---

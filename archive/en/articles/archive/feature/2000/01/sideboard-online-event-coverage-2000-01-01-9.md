@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Junior Super Series Championship Round 5 Pairings - 15-17 Division Player Points Table Opponent Points Adams, Zach (58) 3 77 Quinn, Daniel (15) 3 Allen, Crispin (3) 3 73 Moats, Josh (34) 3 Baker, Justin (35) 6 62 Keller Thomas (51) 6 Brubaker, Jake (24) 3 74 Schmitz, Daniel (16) 3 Cahir, Dan (14) 4 70 Kambourakis, Joseph (33) 4 Carey, Joey (30) 3 75 Leonhardt, Ryan (45) 3"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "953381"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Sideboard Online Event Coverage"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-26 10:26:53+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-26 10:26:53"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526102653id_/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-9"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-9"
 ---

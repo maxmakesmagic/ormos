@@ -5,8 +5,10 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Pack #1 - Dave Humpherys Divides  Dave Humpherys Koichiro Maki Giant Tortoise Ication Phalanx Meteor Shower Fissure Repentance Ball Lightning Abduction Anaba Shaman Pack #2 - Koichiro Maki Divides  Dave Humpherys Koichiro Maki Rhox Shaman en-Kor Blue Elemental Blast Barbed Sextant Spitting Earth Bounty Hunter Havoc Curiosity Pack #3 - Dave Humpherys Divides  Dave Humpherys"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "949936"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic: The Gathering Invitational 2000Round 8 Solomon SelectionsDave Humpherys vs. Koichiro Maki"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-18 10:22:04+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-18 10:22:04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518102204id_/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-8-solomon-selectionsdave-humpherys"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-8-solomon-selectionsdave-humpherys"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "To start off this week, I'd like to talk about a hand I had recently playing Duels of the Planeswalkers 2013. I was playing the Goblin Gangland deck against the Into the Mine encounter. The Into the Mine encounter mostly just plays cards like [autocard]Howling Mine[/autocard] (which can just feed the offense of a leanly costed Red Deck) and [autocard]Fog Bank[/autocard]s"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "153756"
 [_metadata_:publish_date]:- "2014-02-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Strategies"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 17:08:06+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 17:08:06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523170806id_/https://magic.wizards.com/en/articles/archive/feature/strategies-2014-02-03"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/strategies-2014-02-03"
 ---

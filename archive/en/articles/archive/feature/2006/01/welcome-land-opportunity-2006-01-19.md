@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Brian Rogers"
 [_metadata_:description]:- "Wow! This really is the land of opportunity. Who would have ever thought that I would ever be here, writing articles about Magic: The Gathering for Wizards of the Coast? In a world where literally anyone has the opportunity to break out and be a star, I truly feel like I have made it, because I now have a chance to introduce all of you to another land of opportunity.This land"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "638261"
 [_metadata_:publish_date]:- "2006-01-19"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Welcome to the Land of Opportunity"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-19 16:39:25+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-19 16:39:25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211019163925id_/https://magic.wizards.com/en/articles/archive/feature/welcome-land-opportunity-2006-01-19"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/welcome-land-opportunity-2006-01-19"
 ---

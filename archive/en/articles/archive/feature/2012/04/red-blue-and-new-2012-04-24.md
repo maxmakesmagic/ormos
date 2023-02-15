@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "With the full Avacyn Restored Card Image Gallery up, the Magic world has turned into a deck-builder's paradise!The new set brings plenty to the table, while posing several new questions: How strong are miracles? Can a Primal Surge deck work? Where does Tibalt, the Fiend Blooded fit best? And will we ever be able to stop the urge to say `soulbound` instead of `soulbond?`Tibalt,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "689441"
 [_metadata_:publish_date]:- "2012-04-24"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Red, the Blue, and the New"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-22 07:54:34+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-22 07:54:34"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522075434id_/https://magic.wizards.com/en/articles/archive/feature/red-blue-and-new-2012-04-24"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/red-blue-and-new-2012-04-24"
 ---

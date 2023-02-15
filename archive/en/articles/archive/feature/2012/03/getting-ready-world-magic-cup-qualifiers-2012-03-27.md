@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Helene Bergeot"
 [_metadata_:description]:- "As announced last December, Gen Con 2012 will host the first World Magic Cup, a competition that will offer the opportunity to teams from more than seventy countries to battle for the title of top Magic nation for 2012.Starting April 14, three selected stores in participating countries will each run a World Magic Cup Qualifier. These three qualifiers will take place on"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "687221"
 [_metadata_:publish_date]:- "2012-03-27"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Getting Ready for World Magic Cup Qualifiers"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 01:41:08+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 01:41:08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523014108id_/https://magic.wizards.com/en/articles/archive/feature/getting-ready-world-magic-cup-qualifiers-2012-03-27"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/getting-ready-world-magic-cup-qualifiers-2012-03-27"
 ---

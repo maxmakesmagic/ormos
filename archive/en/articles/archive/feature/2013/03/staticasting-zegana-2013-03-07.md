@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "While testing for Pro Tour Gatecrash I tried to build a Prime Speaker Zegana deck in Standard. I put a deck together and played a game against Jund. My opponent played Olivia Voldaren on turn four and I picked up my deck, set it aside, and asked to play a different match. I never picked up the Zegana deck again. That's not a great testing habit, but it is a true story. Well,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "666216"
 [_metadata_:publish_date]:- "2013-03-07"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Staticasting Zegana"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 21:19:26+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 21:19:26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523211926id_/https://magic.wizards.com/en/articles/archive/feature/staticasting-zegana-2013-03-07"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/staticasting-zegana-2013-03-07"
 ---

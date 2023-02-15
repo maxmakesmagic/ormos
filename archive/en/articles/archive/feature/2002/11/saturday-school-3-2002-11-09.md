@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Rune Horvik"
 [_metadata_:description]:- "Rune answers more of your rules questions, including the often-asked `What creature type are lands?`GENERAL/OLDER CARD QUESTIONSQ: When a land is turned into a creature, and the card that does it doesn't specify a creature type, what is the creature type of the land? Can I name that creature type to use with cards like Endemic Plague or Engineered Plague? A: If the effect that"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "622066"
 [_metadata_:publish_date]:- "2002-11-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Saturday School #3"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-23 16:47:19+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-23 16:47:19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220123164719id_/https://magic.wizards.com/en/articles/archive/feature/saturday-school-3-2002-11-09"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/saturday-school-3-2002-11-09"
 ---

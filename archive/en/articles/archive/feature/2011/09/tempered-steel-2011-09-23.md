@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: BytorAndTheSnowdog's Tempered Steel Format: Standard 3 Contested War Zone 4 Inkmoth Nexus 12 Plains 4 Glint Hawk 4 Memnite 4 Ornithopter 3 Porcelain Legionnaire 4 Signal Pest 4 Steel Overseer 4 Vault Skirge 4 Dispatch 3 Glint Hawk Idol 3 Mox Opal 4 Tempered Steel *3 Celestial Purge *3 Kor Firewalker *2 Oblivion Ring *1 Porcelain Legionnaire *4 Refraction Trap"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "671551"
 [_metadata_:publish_date]:- "2011-09-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Tempered Steel"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-28 09:24:44+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-28 09:24:44"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028092444id_/https://magic.wizards.com/en/articles/archive/feature/tempered-steel-2011-09-23"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/tempered-steel-2011-09-23"
 ---

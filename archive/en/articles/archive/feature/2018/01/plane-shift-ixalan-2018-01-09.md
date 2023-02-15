@@ -5,9 +5,11 @@
 [_metadata_:author]:- "James Wyatt"
 [_metadata_:description]:- "James Wyatt is your guide to the lost cities, high seas, and ancient ruins of Ixalan, as you bring this world to life in your D&D campaign."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1239656"
 [_metadata_:publish_date]:- "2018-01-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Plane Shift: Ixalan"
-[_metadata_:wayback_capture_timestamp]:- "2018-01-09 16:29:35+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2018-01-09 16:29:35"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180109162935id_/https://magic.wizards.com/en/articles/archive/feature/plane-shift-ixalan-2018-01-09"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/plane-shift-ixalan-2018-01-09"
 ---

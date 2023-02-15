@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "Gavin has everything you need to know about signing up for, playing in, and completely enjoying Core Set 2019 Prelease events!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1297516"
 [_metadata_:publish_date]:- "2018-07-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Core Set 2019 Prerelease Primer"
-[_metadata_:wayback_capture_timestamp]:- "2018-07-08 23:02:11+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2018-07-08 23:02:11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180708230211id_/https://magic.wizards.com/en/articles/archive/feature/core-set-2019-prerelease-primer-2018-07-03"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/core-set-2019-prerelease-primer-2018-07-03"
 ---

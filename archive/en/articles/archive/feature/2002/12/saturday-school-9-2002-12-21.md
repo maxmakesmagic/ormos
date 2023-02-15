@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Rune Horvik"
 [_metadata_:description]:- "Rune will have the next two weeks off for the holidays, but keep sending your questions in to ask@wizards.com. He'll be back in January with more answers.Beginner QuestionsQ: I play Lightning Surge directly on my opponent, and he used a Counterspell card. But on Lightning Surge it says `that damage can not be prevented.` Is he allowed to do that? A: He's allowed to do that."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "622096"
 [_metadata_:publish_date]:- "2002-12-21"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Saturday School #9"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-24 11:39:48+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-24 11:39:48"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220124113948id_/https://magic.wizards.com/en/articles/archive/feature/saturday-school-9-2002-12-21"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/saturday-school-9-2002-12-21"
 ---

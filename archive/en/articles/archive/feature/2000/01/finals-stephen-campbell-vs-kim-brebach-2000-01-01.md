@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Luke Hancock The final was played in the most good natured spirit that any of the judges have agreed they have ever seen. Stephen Campbell had qualified through the Meatgrinders to reach the Final while Kim had done well in his semi final matchup. Game 1 Kim drew an opening hand of 6 land and a Vine Trellis and kept the hand while a confident Campbell played only land,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "948541"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Finals - Stephen Campbell vs. Kim Brebach"
-[_metadata_:wayback_capture_timestamp]:- "2021-09-23 11:25:27+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-09-23 11:25:27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210923112527id_/https://magic.wizards.com/en/articles/archive/feature/finals-stephen-campbell-vs-kim-brebach-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/finals-stephen-campbell-vs-kim-brebach-2000-01-01"
 ---

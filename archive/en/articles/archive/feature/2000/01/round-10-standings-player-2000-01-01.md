@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "RankTeamPointsOp.Win% 68A.S.K."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "806771"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 10 Standings (by Player)"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-01 10:13:06+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-01 10:13:06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220701101306id_/https://magic.wizards.com/en/articles/archive/feature/round-10-standings-player-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-10-standings-player-2000-01-01"
 ---

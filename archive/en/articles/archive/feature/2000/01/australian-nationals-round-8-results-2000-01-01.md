@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Table No. Player Res No. Player 9 Thorpe, Hamish *** BYE *** 1 82 Hong, Craig 2-0-0 33 Turner, Daniel 2 29 Corney, Andrew 0-2-0 8 West, Justin 3 60 Coltman, Dane 2-1-0 56 Seck, T."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "948666"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Australian Nationals Round 8 Results"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-22 00:45:37+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-22 00:45:37"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522004537id_/https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-8-results-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-8-results-2000-01-01"
 ---

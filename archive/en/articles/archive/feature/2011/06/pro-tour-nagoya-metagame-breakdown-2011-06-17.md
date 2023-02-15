@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Paul Jordan"
 [_metadata_:description]:- "Block Constructed has historically been a portent of things to come in Standard.The format typically doesn't get a whole lot of love in most circles, since the full block is only available for a few short months before a shiny new block with fancy new toys comes into town. The card pool is smaller than Standard, which leads to solved formats. Generally a block can be fully"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "680711"
 [_metadata_:publish_date]:- "2011-06-17"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour Nagoya Metagame Breakdown"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-03 01:36:26+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-03 01:36:26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503013626id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-nagoya-metagame-breakdown-2011-06-17"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-nagoya-metagame-breakdown-2011-06-17"
 ---

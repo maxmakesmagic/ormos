@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Monty Ashley"
 [_metadata_:description]:- "Both of these teams have female players and they're paired against each other on Table 5 on the next-to-last round of the tournament. Apprentice's Nobutoshi Yamazaki opened the first pack, taking an Urborg Emissary, giving a Shivan Emissary to teammate Takahisa Yamaguchi. Poor Shark's Masahiro Kuroda got a Benalish Heralds as the third card, suggesting a white control deck."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "806621"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Draft 2: Poor Shark vs. Apprentice"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-25 13:57:33+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-25 13:57:33"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220625135733id_/https://magic.wizards.com/en/articles/archive/feature/draft-2-poor-shark-vs-apprentice-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/draft-2-poor-shark-vs-apprentice-2000-01-01"
 ---

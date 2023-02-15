@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20220807224034/https://magic.wizards.com/en/articles/archive/feature/brief-history-worlds-2004-08-30)
+[Link to Wayback Machine](https://web.archive.org/web/20211024230530/https://magic.wizards.com/en/articles/archive/feature/brief-history-worlds-2004-08-30)
 
 [_metadata_:author]:- "Alex Shvartsman"
 [_metadata_:description]:- "Although it may be hard to wrap your mind around it, Magic is eleven years old now! We have seen countless tournaments in those years, but it is the World Championships that have a special place in the heart of most tournament players, and it is the world champions that are remembered while you may or may not know who won the latest Pro Tour.The first World Championship was"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "638411"
 [_metadata_:publish_date]:- "2004-08-30"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Brief History Of Worlds"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-07 22:40:34+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220807224034id_/https://magic.wizards.com/en/articles/archive/feature/brief-history-worlds-2004-08-30"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-24 23:05:30"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024230530id_/https://magic.wizards.com/en/articles/archive/feature/brief-history-worlds-2004-08-30"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/brief-history-worlds-2004-08-30"
 ---
 
@@ -762,7 +764,7 @@ OverviewColorCostRarity
 
 
 
-##### Common (11)
+##### Common (12)
 
 
 
@@ -804,6 +806,10 @@ OverviewColorCostRarity
 
 1
 [Timetwister](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTimetwister%5D)
+
+
+1
+[Wrath of God](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWrath%5D+%5Bof%5D+%5BGod%5D)
 
 
 
@@ -916,6 +922,10 @@ OverviewColorCostRarity
 [Kismet](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKismet%5D)
 
 
+1
+[Mana Vault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BVault%5D)
+
+
 2
 [Meekstone](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMeekstone%5D)
 
@@ -930,10 +940,6 @@ OverviewColorCostRarity
 
 1
 [Winter Orb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWinter%5D+%5BOrb%5D)
-
-
-1
-[Wrath of God](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWrath%5D+%5Bof%5D+%5BGod%5D)
 
 
 1
@@ -965,7 +971,7 @@ OverviewColorCostRarity
 
 
 
-##### Mythic (7)
+##### Mythic (6)
 
 
 
@@ -987,10 +993,6 @@ OverviewColorCostRarity
 
 1
 [Mana Drain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BDrain%5D)
-
-
-1
-[Mana Vault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BVault%5D)
 
 
 75 Cards 

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Dave Meeson This is the semi-finals for the first Master Series, and both William `Baby Huey` Jensen and Trey Van Cleave are well-known Pro Tour veterans with multiple Top 8's at the Pro level. Both competitors are expected to do well at the Masters level in the future."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "805446"
 [_metadata_:publish_date]:- "2015-10-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Masters Round 4 Feature Match: William Jensen vs. Trey Van Cleave"
-[_metadata_:wayback_capture_timestamp]:- "2016-07-07 13:58:09+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-07-07 13:58:09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160707135809id_/http://magic.wizards.com/en/articles/archive/feature/masters-round-4-feature-match-william-jensen-vs-trey-van-cleave-2015-10-15"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/masters-round-4-feature-match-william-jensen-vs-trey-van-cleave-2015-10-15"
 ---

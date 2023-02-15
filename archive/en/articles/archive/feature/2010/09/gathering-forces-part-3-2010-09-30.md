@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "There's only one part remaining in Gathering Forces. And it's right here. How convenient!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "604516"
 [_metadata_:publish_date]:- "2010-09-30"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Gathering Forces, Part 3"
-[_metadata_:wayback_capture_timestamp]:- "2020-09-23 03:46:49+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-09-23 03:46:49"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200923034649id_/https://magic.wizards.com/en/articles/archive/feature/gathering-forces-part-3-2010-09-30"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gathering-forces-part-3-2010-09-30"
 ---

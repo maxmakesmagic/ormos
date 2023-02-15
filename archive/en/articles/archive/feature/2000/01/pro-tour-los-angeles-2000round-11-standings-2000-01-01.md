@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Burgner, Kurt 28 69.3756 80.0000 61.5339 11/9/1/0 2 Ekebom, Erno 28 63.0067 69.2308 59.7186 11/9/1/0 3 Blackwell, Trevor 28 62.0228 70.8333 59.7719 11/9/1/0 4 Ljones, Christer 27 63.6298 65.5172 60.7654 11/9/0/0 5 Benefel, Chris 26 55.0177 75.0000 54.3979 11/8/2/0 6 Nishioka, Andrew 25 62.7115 66.6667"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "950571"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-Los Angeles 2000Round 11 Standings"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-18 14:20:59+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-18 14:20:59"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118142059id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-11-standings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-11-standings-2000-01-01"
 ---

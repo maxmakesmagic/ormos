@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20201112020028/https://magic.wizards.com/en/articles/archive/feature/carlos-romao-2002-world-champ-2008-10-15)
+[Link to Wayback Machine](https://web.archive.org/web/20220811203849/https://magic.wizards.com/en/articles/archive/feature/carlos-romao-2002-world-champ-2008-10-15)
 
 [_metadata_:author]:- "Wizards of the Coast"
-[_metadata_:description]:- "[decklist] Title: Carlos Romão's Blue-Black Psychatog Format: 2002 World Champion 2 Cephalid Coliseum 1 Darkwater Catacombs 10 Island 4 Salt Marsh 3 Swamp 4 Underground River 4 Nightscape Familiar 4 Psychatog 3 Chainer's Edict 3 Circular Logic 4 Counterspell 3 Cunning Wish 3 Deep Analysis 3 Fact or Fiction 3 Memory Lapse 4 Repulse 2 Upheaval *1 Coffin Purge *4 Duress *1 Fact or Fiction *1 Gainsay *3 Ghastly Demise"
+[_metadata_:description]:- "[decklist] Title: Carlos Romão's Blue-Black Psychatog Format: 2002 World Champion 2 Cephalid Coliseum 1 Darkwater Catacombs 10 Island 4 Salt Marsh 3 Swamp 4 Underground River 4 Nightscape Familiar 4 Psychatog 3 Chainer's Edict 3 Circular Logic 4 Counterspell 3 Cunning Wish 3 Deep Analysis 3 Fact or Fiction 3 Memory Lapse 4 Repulse 2 Upheaval *1 Coffin Purge *4 Duress *1 Fact"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "669291"
 [_metadata_:publish_date]:- "2008-10-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Carlos Romao, 2002 World Champ"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 02:00:28+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112020028id_/https://magic.wizards.com/en/articles/archive/feature/carlos-romao-2002-world-champ-2008-10-15"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-11 20:38:49"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220811203849id_/https://magic.wizards.com/en/articles/archive/feature/carlos-romao-2002-world-champ-2008-10-15"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/carlos-romao-2002-world-champ-2008-10-15"
 ---
 
@@ -26,7 +28,7 @@ Carlos Romao, 2002 World Champ
 
 
 
-![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
 By Wizards of the Coast
 
 
@@ -82,11 +84,11 @@ OverviewColorCostRarity
 
 
 4
-[Nightscape Familiar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNightscape%5D+%5BFamiliar%5D)
+[Nightscape Familiar](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNightscape%5D+%5BFamiliar%5D)
 
 
 4
-[Psychatog](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPsychatog%5D)
+[Psychatog](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPsychatog%5D)
 
 
 
@@ -95,15 +97,15 @@ OverviewColorCostRarity
 
 
 3
-[Chainer's Edict](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChainer%5D+%5BEdict%5D)
+[Chainer's Edict](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChainer%5D+%5BEdict%5D)
 
 
 3
-[Deep Analysis](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeep%5D+%5BAnalysis%5D)
+[Deep Analysis](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeep%5D+%5BAnalysis%5D)
 
 
 2
-[Upheaval](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUpheaval%5D)
+[Upheaval](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUpheaval%5D)
 
 
 
@@ -112,27 +114,27 @@ OverviewColorCostRarity
 
 
 3
-[Circular Logic](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCircular%5D+%5BLogic%5D)
+[Circular Logic](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCircular%5D+%5BLogic%5D)
 
 
 4
-[Counterspell](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCounterspell%5D)
+[Counterspell](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCounterspell%5D)
 
 
 3
-[Cunning Wish](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCunning%5D+%5BWish%5D)
+[Cunning Wish](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCunning%5D+%5BWish%5D)
 
 
 3
-[Fact or Fiction](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D)
+[Fact or Fiction](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D)
 
 
 3
-[Memory Lapse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMemory%5D+%5BLapse%5D)
+[Memory Lapse](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMemory%5D+%5BLapse%5D)
 
 
 4
-[Repulse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRepulse%5D)
+[Repulse](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRepulse%5D)
 
 
 
@@ -141,27 +143,27 @@ OverviewColorCostRarity
 
 
 2
-[Cephalid Coliseum](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCephalid%5D+%5BColiseum%5D)
+[Cephalid Coliseum](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCephalid%5D+%5BColiseum%5D)
 
 
 1
-[Darkwater Catacombs](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarkwater%5D+%5BCatacombs%5D)
+[Darkwater Catacombs](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarkwater%5D+%5BCatacombs%5D)
 
 
 10
-[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
 
 
 4
-[Salt Marsh](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSalt%5D+%5BMarsh%5D)
+[Salt Marsh](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSalt%5D+%5BMarsh%5D)
 
 
 3
-[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
 
 
 4
-[Underground River](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BRiver%5D)
+[Underground River](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BRiver%5D)
 
 
 60 Cards 
@@ -172,43 +174,43 @@ OverviewColorCostRarity
 
 
 1
-[Fact or Fiction](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D)
+[Fact or Fiction](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D)
 
 
 1
-[Coffin Purge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCoffin%5D+%5BPurge%5D)
+[Coffin Purge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCoffin%5D+%5BPurge%5D)
 
 
 4
-[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+[Duress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
 
 
 1
-[Gainsay](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGainsay%5D)
+[Gainsay](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGainsay%5D)
 
 
 3
-[Ghastly Demise](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhastly%5D+%5BDemise%5D)
+[Ghastly Demise](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhastly%5D+%5BDemise%5D)
 
 
 1
-[Hibernation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHibernation%5D)
+[Hibernation](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHibernation%5D)
 
 
 1
-[Mana Short](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BShort%5D)
+[Mana Short](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BShort%5D)
 
 
 1
-[Recoil](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRecoil%5D)
+[Recoil](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRecoil%5D)
 
 
 1
-[Slay](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSlay%5D)
+[Slay](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSlay%5D)
 
 
 1
-[Teferi's Response](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTeferi%5D+%5BResponse%5D)
+[Teferi's Response](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTeferi%5D+%5BResponse%5D)
 
 
 
@@ -218,51 +220,51 @@ OverviewColorCostRarity
 
 
 3
-[Circular Logic](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCircular%5D+%5BLogic%5D)
+[Circular Logic](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCircular%5D+%5BLogic%5D)
 
 
 4
-[Counterspell](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCounterspell%5D)
+[Counterspell](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCounterspell%5D)
 
 
 3
-[Cunning Wish](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCunning%5D+%5BWish%5D)
+[Cunning Wish](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCunning%5D+%5BWish%5D)
 
 
 3
-[Deep Analysis](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeep%5D+%5BAnalysis%5D)
+[Deep Analysis](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeep%5D+%5BAnalysis%5D)
 
 
 4
-[Fact or Fiction](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D)
+[Fact or Fiction](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D)
 
 
 3
-[Memory Lapse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMemory%5D+%5BLapse%5D)
+[Memory Lapse](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMemory%5D+%5BLapse%5D)
 
 
 4
-[Repulse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRepulse%5D)
+[Repulse](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRepulse%5D)
 
 
 2
-[Upheaval](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUpheaval%5D)
+[Upheaval](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUpheaval%5D)
 
 
 1
-[Gainsay](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGainsay%5D)
+[Gainsay](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGainsay%5D)
 
 
 1
-[Hibernation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHibernation%5D)
+[Hibernation](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHibernation%5D)
 
 
 1
-[Mana Short](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BShort%5D)
+[Mana Short](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BShort%5D)
 
 
 1
-[Teferi's Response](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTeferi%5D+%5BResponse%5D)
+[Teferi's Response](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTeferi%5D+%5BResponse%5D)
 
 
 
@@ -271,27 +273,27 @@ OverviewColorCostRarity
 
 
 4
-[Nightscape Familiar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNightscape%5D+%5BFamiliar%5D)
+[Nightscape Familiar](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNightscape%5D+%5BFamiliar%5D)
 
 
 3
-[Chainer's Edict](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChainer%5D+%5BEdict%5D)
+[Chainer's Edict](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChainer%5D+%5BEdict%5D)
 
 
 1
-[Coffin Purge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCoffin%5D+%5BPurge%5D)
+[Coffin Purge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCoffin%5D+%5BPurge%5D)
 
 
 4
-[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+[Duress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
 
 
 3
-[Ghastly Demise](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhastly%5D+%5BDemise%5D)
+[Ghastly Demise](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhastly%5D+%5BDemise%5D)
 
 
 1
-[Slay](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSlay%5D)
+[Slay](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSlay%5D)
 
 
 
@@ -300,11 +302,11 @@ OverviewColorCostRarity
 
 
 4
-[Psychatog](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPsychatog%5D)
+[Psychatog](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPsychatog%5D)
 
 
 1
-[Recoil](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRecoil%5D)
+[Recoil](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRecoil%5D)
 
 
 
@@ -313,27 +315,27 @@ OverviewColorCostRarity
 
 
 2
-[Cephalid Coliseum](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCephalid%5D+%5BColiseum%5D)
+[Cephalid Coliseum](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCephalid%5D+%5BColiseum%5D)
 
 
 1
-[Darkwater Catacombs](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarkwater%5D+%5BCatacombs%5D)
+[Darkwater Catacombs](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarkwater%5D+%5BCatacombs%5D)
 
 
 10
-[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
 
 
 4
-[Salt Marsh](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSalt%5D+%5BMarsh%5D)
+[Salt Marsh](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSalt%5D+%5BMarsh%5D)
 
 
 3
-[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
 
 
 4
-[Underground River](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BRiver%5D)
+[Underground River](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BRiver%5D)
 
 
 75 Cards 
@@ -345,15 +347,15 @@ OverviewColorCostRarity
 
 
 1
-[Coffin Purge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCoffin%5D+%5BPurge%5D)
+[Coffin Purge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCoffin%5D+%5BPurge%5D)
 
 
 4
-[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+[Duress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
 
 
 3
-[Ghastly Demise](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhastly%5D+%5BDemise%5D)
+[Ghastly Demise](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhastly%5D+%5BDemise%5D)
 
 
 
@@ -362,27 +364,27 @@ OverviewColorCostRarity
 
 
 4
-[Nightscape Familiar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNightscape%5D+%5BFamiliar%5D)
+[Nightscape Familiar](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNightscape%5D+%5BFamiliar%5D)
 
 
 3
-[Chainer's Edict](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChainer%5D+%5BEdict%5D)
+[Chainer's Edict](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChainer%5D+%5BEdict%5D)
 
 
 4
-[Counterspell](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCounterspell%5D)
+[Counterspell](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCounterspell%5D)
 
 
 3
-[Memory Lapse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMemory%5D+%5BLapse%5D)
+[Memory Lapse](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMemory%5D+%5BLapse%5D)
 
 
 1
-[Gainsay](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGainsay%5D)
+[Gainsay](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGainsay%5D)
 
 
 1
-[Teferi's Response](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTeferi%5D+%5BResponse%5D)
+[Teferi's Response](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTeferi%5D+%5BResponse%5D)
 
 
 
@@ -391,35 +393,35 @@ OverviewColorCostRarity
 
 
 4
-[Psychatog](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPsychatog%5D)
+[Psychatog](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPsychatog%5D)
 
 
 3
-[Circular Logic](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCircular%5D+%5BLogic%5D)
+[Circular Logic](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCircular%5D+%5BLogic%5D)
 
 
 3
-[Cunning Wish](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCunning%5D+%5BWish%5D)
+[Cunning Wish](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCunning%5D+%5BWish%5D)
 
 
 4
-[Repulse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRepulse%5D)
+[Repulse](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRepulse%5D)
 
 
 1
-[Hibernation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHibernation%5D)
+[Hibernation](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHibernation%5D)
 
 
 1
-[Mana Short](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BShort%5D)
+[Mana Short](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BShort%5D)
 
 
 1
-[Recoil](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRecoil%5D)
+[Recoil](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRecoil%5D)
 
 
 1
-[Slay](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSlay%5D)
+[Slay](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSlay%5D)
 
 
 
@@ -428,11 +430,11 @@ OverviewColorCostRarity
 
 
 3
-[Deep Analysis](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeep%5D+%5BAnalysis%5D)
+[Deep Analysis](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeep%5D+%5BAnalysis%5D)
 
 
 4
-[Fact or Fiction](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D)
+[Fact or Fiction](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D)
 
 
 
@@ -441,134 +443,134 @@ OverviewColorCostRarity
 
 
 2
-[Upheaval](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUpheaval%5D)
+[Upheaval](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUpheaval%5D)
 
 
 51 Cards 
 
 
 
-##### Common (46)
+##### Common (36)
 
 
 
 10
-[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
 
 
 3
-[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
 
 
 4
-[Nightscape Familiar](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNightscape%5D+%5BFamiliar%5D)
+[Nightscape Familiar](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNightscape%5D+%5BFamiliar%5D)
 
 
 3
-[Chainer's Edict](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChainer%5D+%5BEdict%5D)
+[Circular Logic](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCircular%5D+%5BLogic%5D)
 
 
 3
-[Circular Logic](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCircular%5D+%5BLogic%5D)
+[Deep Analysis](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeep%5D+%5BAnalysis%5D)
 
 
 4
-[Counterspell](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCounterspell%5D)
+[Repulse](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRepulse%5D)
+
+
+1
+[Coffin Purge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCoffin%5D+%5BPurge%5D)
+
+
+4
+[Duress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
 
 
 3
-[Deep Analysis](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeep%5D+%5BAnalysis%5D)
+[Ghastly Demise](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhastly%5D+%5BDemise%5D)
+
+
+1
+[Recoil](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRecoil%5D)
+
+
+
+##### Uncommon (22)
+
+
+
+4
+[Salt Marsh](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSalt%5D+%5BMarsh%5D)
+
+
+4
+[Psychatog](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPsychatog%5D)
 
 
 3
-[Memory Lapse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMemory%5D+%5BLapse%5D)
+[Chainer's Edict](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChainer%5D+%5BEdict%5D)
 
 
 4
-[Repulse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRepulse%5D)
+[Counterspell](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCounterspell%5D)
+
+
+4
+[Fact or Fiction](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D)
 
 
 1
-[Coffin Purge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCoffin%5D+%5BPurge%5D)
+[Gainsay](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGainsay%5D)
+
+
+1
+[Hibernation](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHibernation%5D)
+
+
+1
+[Slay](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSlay%5D)
+
+
+
+##### Rare (15)
+
+
+
+1
+[Darkwater Catacombs](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarkwater%5D+%5BCatacombs%5D)
 
 
 4
-[Duress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D)
+[Underground River](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BRiver%5D)
 
 
 3
-[Ghastly Demise](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhastly%5D+%5BDemise%5D)
-
-
-1
-[Recoil](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRecoil%5D)
-
-
-
-##### Uncommon (15)
-
-
-
-4
-[Salt Marsh](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSalt%5D+%5BMarsh%5D)
-
-
-4
-[Psychatog](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPsychatog%5D)
-
-
-4
-[Fact or Fiction](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D)
-
-
-1
-[Gainsay](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGainsay%5D)
-
-
-1
-[Hibernation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHibernation%5D)
-
-
-1
-[Slay](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSlay%5D)
-
-
-
-##### Rare (10)
-
-
-
-1
-[Darkwater Catacombs](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarkwater%5D+%5BCatacombs%5D)
-
-
-4
-[Underground River](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BRiver%5D)
+[Cunning Wish](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCunning%5D+%5BWish%5D)
 
 
 3
-[Cunning Wish](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCunning%5D+%5BWish%5D)
+[Memory Lapse](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMemory%5D+%5BLapse%5D)
+
+
+2
+[Upheaval](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUpheaval%5D)
 
 
 1
-[Mana Short](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BShort%5D)
+[Mana Short](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BShort%5D)
 
 
 1
-[Teferi's Response](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTeferi%5D+%5BResponse%5D)
+[Teferi's Response](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTeferi%5D+%5BResponse%5D)
 
 
 
-##### Mythic (4)
+##### Mythic (2)
 
 
 
 2
-[Cephalid Coliseum](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCephalid%5D+%5BColiseum%5D)
-
-
-2
-[Upheaval](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUpheaval%5D)
+[Cephalid Coliseum](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCephalid%5D+%5BColiseum%5D)
 
 
 75 Cards 
@@ -576,7 +578,7 @@ OverviewColorCostRarity
 
 
 
-![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Cephalid+Coliseum)
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Cephalid+Coliseum)
 
 
 

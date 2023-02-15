@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: sandydogmtg's Extended Fish Format: Magic Online Premier Event 18 Island 4 Mutavault 4 Cursecatcher 4 Lord of Atlantis 4 Merrow Reejerey 4 Silvergill Adept 3 Sower of Temptation 4 Stonybrook Banneret 4 Mana Leak 4 Ponder 4 Spell Snare 3 Umezawa's Jitte *3 Hurkyl's Recall *1 Sower of Temptation *4 Threads of Disloyalty *4 Trickbind *3 Vendilion Clique"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "666706"
 [_metadata_:publish_date]:- "2009-02-17"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Extended Fish"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-28 00:03:04+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-28 00:03:04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028000304id_/https://magic.wizards.com/en/articles/archive/feature/extended-fish-2009-02-17"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/extended-fish-2009-02-17"
 ---

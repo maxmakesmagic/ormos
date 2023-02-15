@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Gerry Thompson"
 [_metadata_:description]:- "This is one of the strangest and most delightful decks I've seen in quite some time. Your lands only produce green mana on their own, but the rest of your deck features cards from every other color. As it turns out, Snap and/or Cloud of Faeries combined with any land that makes more than one mana allows you to do a lot of crazy stuff. You just have to get a little creative."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "667526"
 [_metadata_:publish_date]:- "2014-01-28"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Mono-Green Combo"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-10 10:49:24+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-10 10:49:24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220810104924id_/https://magic.wizards.com/en/articles/archive/feature/mono-green-combo-2014-01-28"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mono-green-combo-2014-01-28"
 ---

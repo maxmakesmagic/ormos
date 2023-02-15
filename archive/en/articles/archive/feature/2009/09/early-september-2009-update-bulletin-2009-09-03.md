@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "What's that? You weren't expecting me so soon? You may notice that this article is titled the `Early September 2009 Update Bulletin.` That's right—you lucky duckies get two visits from your Uncle Evil Doctor Wombat this month!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "683911"
 [_metadata_:publish_date]:- "2009-09-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Early September 2009 Update Bulletin"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-23 23:56:06+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-23 23:56:06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123235606id_/https://magic.wizards.com/en/articles/archive/feature/early-september-2009-update-bulletin-2009-09-03"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/early-september-2009-update-bulletin-2009-09-03"
 ---

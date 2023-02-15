@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Team Name Country Name Byes WACHI-DE? Japan Wachi, Shinya 2   Japan Muroga, Hideo 2   Japan Yamaguchi, Tatsuo 2 T.F.Z. Japan Fujita, Tsuyoshi 2"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "952336"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Nagoya Player List"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-24 03:59:34+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-24 03:59:34"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171124035934id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-player-list-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-player-list-2000-01-01"
 ---

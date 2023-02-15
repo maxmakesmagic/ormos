@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Information    Grand Prix Buenos Aires is brought to you by Dominaria Comics."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "728281"
 [_metadata_:publish_date]:- "2014-01-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Buenos Aires Event Information"
-[_metadata_:wayback_capture_timestamp]:- "2016-10-02 14:55:27+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-10-02 14:55:27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161002145527id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-buenos-aires-event-information-2014-01-15"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-buenos-aires-event-information-2014-01-15"
 ---

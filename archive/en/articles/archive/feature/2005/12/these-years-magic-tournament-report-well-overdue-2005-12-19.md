@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Brian Rogers"
 [_metadata_:description]:- "This time of year, you often start getting “year in review” type stories for just about everything. Well, don’t worry, this isn’t really one of those. Instead, I would like to take you on a little trip back in time with me. Magic® was young, and everything was a little different than now. Well, not everything.My First TournamentOur story starts on a very cold, snowy morning in"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "638251"
 [_metadata_:publish_date]:- "2005-12-19"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "These Years In Magic: A Tournament Report That Is Well Overdue"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-20 21:00:04+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-20 21:00:04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020210004id_/https://magic.wizards.com/en/articles/archive/feature/these-years-magic-tournament-report-well-overdue-2005-12-19"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/these-years-magic-tournament-report-well-overdue-2005-12-19"
 ---

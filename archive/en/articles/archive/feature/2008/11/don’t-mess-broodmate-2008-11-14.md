@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Chris Poff's Five-Color Control Format: States 2008, 1st Place - Texas 1 Cascade Bluffs 2 Savage Lands 3 Sunken Ruins 2 Flooded Grove 2 Vivid Crag 2 Vivid Grove 3 Vivid Creek 1 Vivid Marsh 2 Arcane Sanctum 1 Crumbling Necropolis 4 Reflecting Pool 2 Mystic Gate 4 Kitchen Finks 4 Fulminator Mage 1 Mistmeadow Witch 1 Broodmate Dragon 1 Oona, Queen of the Fae 1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "670476"
 [_metadata_:publish_date]:- "2008-11-14"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Don’t Mess with Broodmate"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-27 22:45:37+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-27 22:45:37"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027224537id_/https://magic.wizards.com/en/articles/archive/feature/don%E2%80%99t-mess-broodmate-2008-11-14"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/don%E2%80%99t-mess-broodmate-2008-11-14"
 ---

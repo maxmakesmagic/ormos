@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Jeff Till"
 [_metadata_:description]:- "Part I: Card Art and Name The images are:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "633046"
 [_metadata_:publish_date]:- "2006-09-13"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic: the Puzzling - A Time Spiral Sneaky Preview - Solutions"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-02 13:21:04+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-02 13:21:04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170702132104id_/http://magic.wizards.com/en/articles/archive/feature/magic-puzzling-time-spiral-sneaky-preview-solutions-2006-09-13"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-puzzling-time-spiral-sneaky-preview-solutions-2006-09-13"
 ---

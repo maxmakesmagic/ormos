@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Opponent Result 770 Billy Goats Gruff Won, 2-1 Amsterdam New Wave Lost, 1-2 Antarctica ECA Won, 2-0 ATM Urban Housing Won, 2-1 Babes of the Dingo Operation Mise Lost, 1-2 Big Dogs Game Empire Lost, 1-2 Billy Goats Gruff 770 Lost, 1-2 Brown Bomber The Austin Powers Won, 2-1 CCC Three Blind Mice Lost, 1-2 Champions G'nootz Lost, 0-2 CMU Fifth Again Lost, 1-2 Comrades"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "951301"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour - Washington D.C.Day 1 Round 4 Results"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-06 20:22:36+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-06 20:22:36"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211206202236id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-4-results-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-4-results-2000-01-01"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Opponent Result Abe, Kazufumi (145) Krugler, Chris (193) 0-2 Alvarenga, Rafael (76) Kushida, Yasumasa (96) 2-1 Anzorena, Pablo (15) Witt, Alexander (128) 0-2 Auer, Jeffrey (104) Knights, Douglas (281) 2-1 Azevedo, Pedro (199) Simoncini, Stefano (290) 2-0 Bachmann, David (229) Martin, Theron (271) 1-2 Baehr, Kevin (155) Woods, Norman (46) 1-1 Benefel, Chris (163) Hustad,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "950431"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-Los Angeles 2000Round 3 Results"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-26 16:35:17+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-26 16:35:17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126163517id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-3-results-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-3-results-2000-01-01"
 ---

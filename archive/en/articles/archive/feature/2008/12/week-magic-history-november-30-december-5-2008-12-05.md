@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "December 3, 2000: 2000 Pro Tour–Chicago: Kai Budde wins again!Serving notice to the rest of the Pro Tour that his 1999 World Championship was no fluke, Kai Budde and his rebel deck took the prize on December 3, 2000."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "643491"
 [_metadata_:publish_date]:- "2008-12-05"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "This Week in Magic History: November 30-December 5"
-[_metadata_:wayback_capture_timestamp]:- "2022-10-04 00:28:07+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-10-04 00:28:07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20221004002807id_/https://magic.wizards.com/en/articles/archive/feature/week-magic-history-november-30-december-5-2008-12-05"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/week-magic-history-november-30-december-5-2008-12-05"
 ---

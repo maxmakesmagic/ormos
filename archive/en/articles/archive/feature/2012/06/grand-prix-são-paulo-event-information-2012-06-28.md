@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "InformationTournament Schedule  Tournament Byes  Public Events  Artist Information  Travel Information  Contact Information"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "729531"
 [_metadata_:publish_date]:- "2012-06-28"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix São Paulo Event Information"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-29 21:02:28+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-29 21:02:28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171029210228id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-s%C3%A3o-paulo-event-information-2012-06-28"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-s%C3%A3o-paulo-event-information-2012-06-28"
 ---

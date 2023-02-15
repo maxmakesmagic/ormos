@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "We're starting a ten-week Draft Series promotion. The prize? Two—yes, two—Standard Showdown boosters!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1225116"
 [_metadata_:publish_date]:- "2017-10-25"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Year-End Draft Series Promotion"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-25 15:59:22+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-25 15:59:22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171025155922id_/https://magic.wizards.com/en/articles/archive/feature/year-end-draft-series-promotion-2017-10-25"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/year-end-draft-series-promotion-2017-10-25"
 ---

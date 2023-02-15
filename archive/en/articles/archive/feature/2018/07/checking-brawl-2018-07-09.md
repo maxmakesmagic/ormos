@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210707085102/https://magic.wizards.com/en/articles/archive/feature/checking-brawl-2018-07-09)
+[Link to Wayback Machine](https://web.archive.org/web/20181110154426/https://magic.wizards.com/en/articles/archive/feature/checking-brawl-2018-07-09)
 
 [_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "Gavin shares tidbits from behind the curtain to show how R&D is thinking about Brawl."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1316226"
 [_metadata_:publish_date]:- "2018-07-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Checking in on Brawl"
-[_metadata_:wayback_capture_timestamp]:- "2021-07-07 08:51:02+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210707085102id_/https://magic.wizards.com/en/articles/archive/feature/checking-brawl-2018-07-09"
+[_metadata_:wayback_capture_timestamp]:- "2018-11-10 15:44:26"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20181110154426id_/https://magic.wizards.com/en/articles/archive/feature/checking-brawl-2018-07-09"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/checking-brawl-2018-07-09"
 ---
 
@@ -118,7 +120,7 @@ I don't have a ton of updates for you here otherwise, but I wanted to make sure 
 
 
 
-![](https://media.wizards.com/2018/images/daily/cardart_M19_Tezzeret-Artifice-Master.jpg)[Tezzeret, Artifice Master](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tezzeret%2C+Artifice+Master) | Art by: [Josh Hass](http://gatherer.wizards.com/Pages/Search/Default.aspx?action=advanced&output=spoiler&method=visual&artist=+%5BJosh%5D+%5BHass%5D)
+![](https://media.wizards.com/2018/images/daily/cardart_M19_Tezzeret-Artifice-Master.jpg)[Tezzeret, Artifice Master](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tezzeret%2C+Artifice+Master) | Art by: [Josh Hass](http://gatherer.wizards.com/Pages/Search/Default.aspx?action=advanced&output=spoiler&method=visual&artist=+%5BJosh%5D+%5BHass%5D)
 Updating One-on-One
 ===================
 
@@ -129,7 +131,7 @@ After the last round of updates, we said that we would be carefully monitoring t
 Multiplayer Brawl looks pretty healthy. Multiplayer games are always great at self-balancing; there are certainly plenty of strong commanders, and a great deal more are viable.
 
 
-The last changes to 1v1 Brawl, for that format, were a mixed bag. The banned list change was great, and I've happily seen you all casting plenty of innocent [Attune with Aether](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Attune+with+Aether)s and [Rampaging Ferocidon](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rampaging+Ferocidon)s. Some other changes may have swung the pendulum a little too far, however. We've heard a lot of feedback about this. Additionally, there is one other thing we've noticed and wanted to tweak as well.
+The last changes to 1v1 Brawl, for that format, were a mixed bag. The banned list change was great, and I've happily seen you all casting plenty of innocent [Attune with Aether](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Attune+with+Aether)s and [Rampaging Ferocidon](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rampaging+Ferocidon)s. Some other changes may have swung the pendulum a little too far, however. We've heard a lot of feedback about this. Additionally, there is one other thing we've noticed and wanted to tweak as well.
 
 
 Here's Ian Duke as a Play Design representative on Brawl, with Play Design's notes and some upcoming changes to Brawl that we both worked on. Take it away, Ian!
@@ -151,7 +153,7 @@ Here are two balance changes we are implementing to 1v1 Brawl. (Multiplayer rule
 In the May 10 update, we adjusted the starting life total for 1v1 Brawl to 20 (down from 30, which still remains the starting life total for multiplayer). The goal of reducing life total was to help address the dominance of blue-based control decks and to line up the rules set with one-on-one Standard play, which the card pool is balanced around.
 
 
-Since that change, we've been gathering feedback from local metagames across the world, as well as from *Magic Online* play. With the starting life total at 20, we've seen the 1v1 Brawl metagame take a large shift toward low-curve aggressive decks, especially mono-red using [Kari Zev, Skyship Raider](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kari+Zev%2C+Skyship+Raider) as a commander. Mono-red has been dominating *Magic Online* play in terms of popularity and win percentage, and we've heard similar feedback from local play groups.
+Since that change, we've been gathering feedback from local metagames across the world, as well as from *Magic Online* play. With the starting life total at 20, we've seen the 1v1 Brawl metagame take a large shift toward low-curve aggressive decks, especially mono-red using [Kari Zev, Skyship Raider](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kari+Zev%2C+Skyship+Raider) as a commander. Mono-red has been dominating *Magic Online* play in terms of popularity and win percentage, and we've heard similar feedback from local play groups.
 
 
 While Brawl shares the Standard card pool and has similar gameplay patterns to Standard, one of our balance goals is that Brawl games play out a little slower so that players can enjoy additional synergies and combos by building around their commander. To this end, we are once again adjusting the starting life total for 1v1 Brawl up to 25. This will strike a better balance between aggressive and controlling decks, allowing players to "go bigger" with synergies and higher mana cost cards when not under so much early-game pressure.
@@ -163,7 +165,7 @@ While Brawl shares the Standard card pool and has similar gameplay patterns to S
 The second change we're implementing is that each player is allowed one free mulligan in 1v1 Brawl. This means that the first time in a game that a player chooses to mulligan, they will again draw seven cards. After that, they can choose to continue to mulligan, each time drawing one fewer card. Once a player keeps their hand, if they kept six or fewer cards, they scry 1.
 
 
-There are two major reasons for this change. First, because of Brawl's (relatively) small card pool combined with singleton deck building, we've observed that it can be difficult to include the right density of certain types of effects, like early plays and creature removal. Allowing a free mulligan will help decks access needed effects with a bit more consistency, especially in the early game. This in turn should put less emphasis on using commanders that are strong in the early game (like [Baral, Chief of Compliance](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Baral%2C+Chief+of+Compliance) and [Kari Zev](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=+423754+)), opening up more choice for players.
+There are two major reasons for this change. First, because of Brawl's (relatively) small card pool combined with singleton deck building, we've observed that it can be difficult to include the right density of certain types of effects, like early plays and creature removal. Allowing a free mulligan will help decks access needed effects with a bit more consistency, especially in the early game. This in turn should put less emphasis on using commanders that are strong in the early game (like [Baral, Chief of Compliance](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Baral%2C+Chief+of+Compliance) and [Kari Zev](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=+423754+)), opening up more choice for players.
 
 
 The free mulligan should also disproportionately help synergy decks that build around their commander compared to those that simply use the strongest stand-alone cards. Looking at our metagame data, those decks will appreciate the boost. This is in keeping with the philosophy of making Brawl a little slower and more synergy based.

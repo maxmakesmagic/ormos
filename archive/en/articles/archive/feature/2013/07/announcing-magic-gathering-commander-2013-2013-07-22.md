@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20220928041243/https://magic.wizards.com/en/articles/archive/feature/announcing-magic-gathering-commander-2013-2013-07-22)
+[Link to Wayback Machine](https://web.archive.org/web/20220925172258/https://magic.wizards.com/en/articles/archive/feature/announcing-magic-gathering-commander-2013-2013-07-22)
 
 [_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "San Diego bore many fruits from our Magic: The Gathering panel this past weekend. One such exciting thing was to officially announce the follow-up to our 2011 release of Magic: The Gathering Commander with this year's Magic: The Gathering Commander (2013 Edition). There are five new one hundred-card decks in this release, each will contain fifteen new cards to Magic."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "649596"
 [_metadata_:publish_date]:- "2013-07-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Announcing Magic: The Gathering Commander 2013"
-[_metadata_:wayback_capture_timestamp]:- "2022-09-28 04:12:43+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220928041243id_/https://magic.wizards.com/en/articles/archive/feature/announcing-magic-gathering-commander-2013-2013-07-22"
+[_metadata_:wayback_capture_timestamp]:- "2022-09-25 17:22:58"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220925172258id_/https://magic.wizards.com/en/articles/archive/feature/announcing-magic-gathering-commander-2013-2013-07-22"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/announcing-magic-gathering-commander-2013-2013-07-22"
 ---
 

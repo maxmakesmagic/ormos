@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20170608191847/http://magic.wizards.com/en/articles/archive/feature/amonkhet-update-bulletin-oracle-changes-2017-04-28)
+[Link to Wayback Machine](https://web.archive.org/web/20170709121016/http://magic.wizards.com/en/articles/archive/feature/amonkhet-update-bulletin-oracle-changes-2017-04-28)
 
 [_metadata_:author]:- "Eli Shiffrin"
 [_metadata_:description]:- "Oracle Changes Jackals Everywhere (Functional) [card]Nimble-Blade Khenra[/card] [card]Trueheart Twins[/card]"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1153581"
 [_metadata_:publish_date]:- "2017-04-28"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Amonkhet Update Bulletin—Oracle Changes"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-08 19:18:47+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170608191847id_/http://magic.wizards.com/en/articles/archive/feature/amonkhet-update-bulletin-oracle-changes-2017-04-28"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-09 12:10:16"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170709121016id_/http://magic.wizards.com/en/articles/archive/feature/amonkhet-update-bulletin-oracle-changes-2017-04-28"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/amonkhet-update-bulletin-oracle-changes-2017-04-28"
 ---
 

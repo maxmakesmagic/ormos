@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "#NameCostTypeP/TRules TextFlavor TextRarityArtist1Abuna Acolyte1WCreature — Cat Cleric1/1T: Prevent the next 1 damage that would be dealt to target creature or player this turn.T: Prevent the next 2 damage that would be dealt to target artifact creature this turn.“You can break nothing I cannot mend.”UIgor Kieryluk 2Arrest2WEnchantment — Aura Enchant creatureEnchanted creature"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "647041"
 [_metadata_:publish_date]:- "2010-09-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Scars of Mirrodin Sortable Spoiler"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-29 19:16:08+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-29 19:16:08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220629191608id_/https://magic.wizards.com/en/articles/archive/feature/scars-mirrodin-sortable-spoiler-2010-09-23"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/scars-mirrodin-sortable-spoiler-2010-09-23"
 ---

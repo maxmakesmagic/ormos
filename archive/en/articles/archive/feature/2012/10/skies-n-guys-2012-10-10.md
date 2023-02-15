@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "Ravnica has returned to the Standard scene and it is already making big waves. While initial speculation had decks like Jund or Green-Blue Zombies potentially being powerful in the new metagame, thus far we have seen a little bit of every guild popping up. Last week, we checked out a Standard Selesnya deck, but what about the Azorius? With many of the key components of Delver"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "665626"
 [_metadata_:publish_date]:- "2012-10-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Skies N' Guys"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-03 00:52:59+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-03 00:52:59"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220703005259id_/https://magic.wizards.com/en/articles/archive/feature/skies-n-guys-2012-10-10"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/skies-n-guys-2012-10-10"
 ---

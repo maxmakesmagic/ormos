@@ -5,9 +5,11 @@
 [_metadata_:author]:- "The Magic Creative Team"
 [_metadata_:description]:- "Catch up on all the action that's happened on Zendikar as the Gatewatch stood against the Eldrazi titans."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "990676"
 [_metadata_:publish_date]:- "2016-03-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Oath of the Gatewatch Story Summary"
-[_metadata_:wayback_capture_timestamp]:- "2016-03-05 08:26:36+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-03-05 08:26:36"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160305082636id_/http://magic.wizards.com/en/articles/archive/feature/oath-gatewatch-story-summary-2016-03-02"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/oath-gatewatch-story-summary-2016-03-02"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: A Real BoonNoggle Format: 23 Mountain 1 Mutavault 4 Crag Puca 2 Dominus of Fealty 4 Noggle Bandit 4 Noggle Hedge-Mage 4 Riverfall Mimic 2 Cloak and Dagger 4 Clout of the Dominus 4 Flame Javelin 4 Lash Out 4 Tarfire *2 Dominus of Fealty *1 Figure of Destiny *4 Guttural Response *4 Incendiary Command *3 Inside Out *1 Wild Ricochet [/decklist]Levi Howa certainly"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "665191"
 [_metadata_:publish_date]:- "2008-08-26"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Daily Deck: A Real BoonNoggle"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-05 12:40:35+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-05 12:40:35"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220705124035id_/https://magic.wizards.com/en/articles/archive/feature/daily-deck-real-boonnoggle-2008-08-26"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/daily-deck-real-boonnoggle-2008-08-26"
 ---

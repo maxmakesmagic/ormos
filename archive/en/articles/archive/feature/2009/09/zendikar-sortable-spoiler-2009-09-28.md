@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "As is our tradition for the Monday after a new set's prerelease events, today we post the full card list for the latest set right here on the front page of magicthegathering.com. Here is the sortable spoiler list for Zendikar and the complete visual spoiler for the entire set, in each of the nine languages it was printed in! Enjoy! Launch the Zendikar card list Launch the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "683966"
 [_metadata_:publish_date]:- "2009-09-28"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Zendikar Sortable Spoiler"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-06 10:52:04+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-06 10:52:04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211006105204id_/https://magic.wizards.com/en/articles/archive/feature/zendikar-sortable-spoiler-2009-09-28"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/zendikar-sortable-spoiler-2009-09-28"
 ---

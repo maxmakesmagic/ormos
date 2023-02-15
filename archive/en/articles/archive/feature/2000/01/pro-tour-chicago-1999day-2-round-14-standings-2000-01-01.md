@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Luhrs, Christian 35 62.5850 71.4286 57.4291 14/11/2/0 2 Comer, Alan 34 59.2491 69.6970 55.6196 14/11/1/0 3 Davis, Brian 33 62.4150 69.6970 58.1857 14/11/0/0 4 Baberowski, Dirk 33 60.3741 62.1622 57.2521 14/11/0/0 5 Maher Jr., Bob 33 57.6531 68.5714 55.1909 14/10/3/0 6 Dobson, Tony 32 66.1565 63.1579"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "951091"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-Chicago 1999Day 2 Round 14 Standings"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-03 12:23:08+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-03 12:23:08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211203122308id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-2-round-14-standings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-2-round-14-standings-2000-01-01"
 ---

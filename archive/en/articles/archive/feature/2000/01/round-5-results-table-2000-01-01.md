@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Team Result Opponent The Ancient Kavus 120 vs. Team Needs a Hotel Room Family Games Center 110 vs. The Tails Team Bald Dummy 120 vs. The Hubbsucker Proxy Frog Eaters 120 vs. Ride or Die Team Clasp 210 vs. Potato Nation Bags 110 vs. AlphaBetaUnlimited.com/ Just Concede 030 vs. The Ken Ho All-Stars Wretch 020 vs. Madam Fishnut Team $20 Dolla Billz 200 vs. Black Dog Team Dueling"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "805916"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 5 Results (by Table)"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-05 01:12:04+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-05 01:12:04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220705011204id_/https://magic.wizards.com/en/articles/archive/feature/round-5-results-table-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-5-results-table-2000-01-01"
 ---

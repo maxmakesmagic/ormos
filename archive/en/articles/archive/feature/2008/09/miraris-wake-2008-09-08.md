@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Daniel Zink's Green-White Blue Mirari's Wake"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "665746"
 [_metadata_:publish_date]:- "2008-09-08"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Mirari's Wake"
-[_metadata_:wayback_capture_timestamp]:- "2016-04-14 01:27:00+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-04-14 01:27:00"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160414012700id_/http://magic.wizards.com/en/articles/archive/feature/miraris-wake-2008-09-08"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/miraris-wake-2008-09-08"
 ---

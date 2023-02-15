@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "In the US this week we're celebrating a day of Thanksgiving. So that the DailyMTG staff can spend more time with their families (and eating), we're bringing you a repeat of last week's column. Happy Thanksgiving, Everyone! —DailyMTG Team Next week is a holiday here in the States called `Thanksgiving,` which centers around gathering together with friends and family, often with"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "650916"
 [_metadata_:publish_date]:- "2013-11-29"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Quiz: Birds in Magic"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-22 16:27:28+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-22 16:27:28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022162728id_/https://magic.wizards.com/en/articles/archive/feature/quiz-birds-magic-2013-11-29"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/quiz-birds-magic-2013-11-29"
 ---

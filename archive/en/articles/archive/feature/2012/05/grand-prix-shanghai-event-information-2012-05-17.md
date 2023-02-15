@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "InformationTournament Schedule Tournament Byes Public Events Artist Information Travel Information Contact Information Official hashtag: #gpshang Date: July 28-29, 2012Format: Magic 2013 Sealed Deck / Booster Draft Tournament Location Shanghai Mart Sky Mall, 7th Floor No 2299, Yan’An Road (W), Chang Ning District Shanghai, China, 200336 www.shanghaimart.com Registration: 200"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "729601"
 [_metadata_:publish_date]:- "2012-05-17"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Shanghai Event Information"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-21 08:27:26+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-21 08:27:26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021082726id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-shanghai-event-information-2012-05-17"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-shanghai-event-information-2012-05-17"
 ---

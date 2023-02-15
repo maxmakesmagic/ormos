@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Updated 2007-07-09FirstLastInvitation SourceNQ DateNQ LocationGareth OMiddleton2006 Irish National Championn/an/aRogerGrealish2006 Irish National Teamn/an/aMarkMcGovern2006 Irish National Teamn/an/aCormacSmith2006 Irish National Teamn/an/aStewartShinkinsTop 20 DCI Ranked Playersn/an/aDavidKearneyTop 20 DCI Ranked Playersn/an/aJohnLarkinTop 20 DCI Ranked"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "733076"
 [_metadata_:publish_date]:- "2007-06-04"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2007 Irish National ChampionshipInvitation List"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-16 13:16:15+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-16 13:16:15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016131615id_/https://magic.wizards.com/en/articles/archive/feature/2007-irish-national-championshipinvitation-list-2007-06-04"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2007-irish-national-championshipinvitation-list-2007-06-04"
 ---

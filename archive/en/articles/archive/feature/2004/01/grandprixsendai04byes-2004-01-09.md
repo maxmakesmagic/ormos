@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "English | 日本語Byes are based on the following criteria:# of ByesMinimum RatingMinimum Pro Points 3195028 2185014 117507 Rating used: Limited, December 24, 2003 Pro Point Standings Used: 2003 Pro Tour New Orleans StandingTo find the number of byes you have for Grand Prix-Sendai, go to the appropriate list below (sorted by last name): A-B C-D E-G H-J K-L M-N O-R S T-V W-Z For"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "736056"
 [_metadata_:publish_date]:- "2004-01-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "grandprix_sendai04_byes"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-12 14:12:19+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-12 14:12:19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220812141219id_/https://magic.wizards.com/en/articles/archive/feature/grandprixsendai04byes-2004-01-09"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grandprixsendai04byes-2004-01-09"
 ---

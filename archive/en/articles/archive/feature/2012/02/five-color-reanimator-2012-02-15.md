@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Several players at Pro Tour Dark Ascension opted for more traditional strategies, but Magic Hall of Famer Raphael Levy brought a crazy concoction to the table: Five-Color Reanimator! Dedicated reanimator isn't a deck we have seen do well in Standard for a while, let alone one sporting all five colors! After his Top 50 performance this weekend, though, it looks like Levy has"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "672066"
 [_metadata_:publish_date]:- "2012-02-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Five-Color Reanimator"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-23 10:56:34+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-23 10:56:34"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023105634id_/https://magic.wizards.com/en/articles/archive/feature/five-color-reanimator-2012-02-15"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/five-color-reanimator-2012-02-15"
 ---

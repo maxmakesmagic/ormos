@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Ari Lax's Dinosaurs Format: Booster Draft - 2nd Place - 2010 Grand Prix–Nashville 10 Forest 5 Mountain 2 Plains 1 Alpha Tyrranax 1 Auriok Replica 2 Bellowing Tanglewurm 1 Copper Myr 1 Engulfing Slagwurm 1 Gold Myr 1 Leaden Myr 1 Lifesmith 3 Molder Beast 1 Silver Myr 1 Steel Hellkite 1 Tangle Angler 1 Vulshok Replica 1 Galvanic Blast 1 Panic Spellbomb 1 Revoke"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "670431"
 [_metadata_:publish_date]:- "2010-11-29"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Dinosaurs"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-23 06:09:27+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-23 06:09:27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023060927id_/https://magic.wizards.com/en/articles/archive/feature/dinosaurs-2010-11-29"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dinosaurs-2010-11-29"
 ---

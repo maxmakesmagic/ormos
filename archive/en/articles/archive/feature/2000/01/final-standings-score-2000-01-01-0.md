@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "RankTeamPrizePoints 1Team Clegg$4,5004 2AlphaBetaUnlimited.com$3,0003 3Angstschreeuw$2,1002 4one day fly$2,0002 5Two men and a baby !$1,5001 6www.revised4th5th.com$1,5001 7Bologna Demolition Team$1,2001 8gotta catch Kai$1,2001 9Black-Ops$9001 10Metagames/LNT$9001 11Absolute Samuels$6001 12Cosmopolitan$6001 13trash AAA   14killers of the Coast   15Team 25:17   16Stuchkaccolites"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "806201"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Final Standings (By Score)"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-26 02:40:37+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-26 02:40:37"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220626024037id_/https://magic.wizards.com/en/articles/archive/feature/final-standings-score-2000-01-01-0"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/final-standings-score-2000-01-01-0"
 ---

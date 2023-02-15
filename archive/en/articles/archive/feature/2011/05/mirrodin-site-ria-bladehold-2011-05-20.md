@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Welcome back to `On the Mirrodin Site,` where we show off highlights from the Mirrodin Site. For months, Mirran and Phyrexian characters have been providing field reports about the progress of the war. This week, we're going to share the entire story from one of the reports: Ria of Bladehold."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "643306"
 [_metadata_:publish_date]:- "2011-05-20"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "On the Mirrodin Site: Ria of Bladehold"
-[_metadata_:wayback_capture_timestamp]:- "2017-05-02 23:01:56+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-05-02 23:01:56"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170502230156id_/http://magic.wizards.com/en/articles/archive/feature/mirrodin-site-ria-bladehold-2011-05-20"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mirrodin-site-ria-bladehold-2011-05-20"
 ---

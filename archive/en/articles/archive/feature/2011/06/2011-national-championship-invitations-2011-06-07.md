@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "La liste des joueurs qualifiés est basée sur les critères suivants, et sous réserve d'éligibilité : Le Champion de France 2010 L'équipe de France 2010 Le Champion du Monde 2010 Les joueurs ayant au minimum un niveau 2 Pro Club Les joueurs ayant gagnés une invitation grâce aux Championnats régionaux 2011 Les joueurs ayant gagnés une invitation grâce aux Tournois de la Dernière"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "730136"
 [_metadata_:publish_date]:- "2011-06-07"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2011 National Championship Invitations"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-19 15:16:03+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-19 15:16:03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220119151603id_/https://magic.wizards.com/en/articles/archive/feature/2011-national-championship-invitations-2011-06-07"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-national-championship-invitations-2011-06-07"
 ---

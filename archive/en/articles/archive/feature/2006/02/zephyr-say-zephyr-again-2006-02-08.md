@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Chris Millar"
 [_metadata_:description]:- "Greetings deckbuilders, cult members, and other assorted Johnnies! I can't believe I've already been here for five weeks. I haven't been anywhere for five weeks, except for that one stint in juvie that I'd just as soon forget about. Thanks for reminding me, self. You must be getting sick of me by now, with my unnatural affection for really bad cards."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "621321"
 [_metadata_:publish_date]:- "2006-02-08"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Zephyr Say Zephyr Again"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-11 22:58:57+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-11 22:58:57"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201111225857id_/https://magic.wizards.com/en/articles/archive/feature/zephyr-say-zephyr-again-2006-02-08"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/zephyr-say-zephyr-again-2006-02-08"
 ---

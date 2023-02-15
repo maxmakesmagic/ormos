@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Jay Moldenhauer-Salazar"
 [_metadata_:description]:- "A while ago, I wrote an article focusing on a “bad” rare: Nantuko Shrine. The reader response was fairly overwhelming, and you all asked for more explorations of cards deemed less-than-stellar. You got it. Expect more “bad rare” articles from me in the future. Of course, be careful what you wish for...I present to you: Shifty Doppelganger.“Whoah!” you’re saying, “Um, I meant a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "625841"
 [_metadata_:publish_date]:- "2002-04-25"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Make-Shift Deck"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-05 18:59:39+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-05 18:59:39"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211205185939id_/https://magic.wizards.com/en/articles/archive/feature/make-shift-deck-2002-04-25"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/make-shift-deck-2002-04-25"
 ---

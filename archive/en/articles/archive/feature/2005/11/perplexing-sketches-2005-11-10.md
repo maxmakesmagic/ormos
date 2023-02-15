@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The blue-black transmute spell Perplex represents House Dimir's harsh idea of countermagic. Since Dimir guildmages are dedicated to secrecy, the choice they provide to their victims is simple: stop your activities, or lose your mind. The art for Perplex underwent quite a progression from initial sketch to final art. Follow artist Tsutomu Kawade through three artistic stages in"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "597736"
 [_metadata_:publish_date]:- "2005-11-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Perplexing Sketches"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-28 22:00:01+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-28 22:00:01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220128220001id_/https://magic.wizards.com/en/articles/archive/feature/perplexing-sketches-2005-11-10"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/perplexing-sketches-2005-11-10"
 ---

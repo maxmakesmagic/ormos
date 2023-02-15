@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Randy Buehler If the cut to the top 8 had happened before round 9, both Mike Long and Mike Turian would have made it in. With 6-1-1 records, they both just needed to go 3-1 (or possibly just 2-0-2) to hold onto their spots in the top 8. Turian was running an Aaron Forsythe designed deck called The Angry Hermit. Long was with Accelerated Blue. His version is much more"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "949196"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 9 Feature Match - Mike Long vs. Mike Turian"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-28 05:45:15+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-28 05:45:15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220528054515id_/https://magic.wizards.com/en/articles/archive/feature/round-9-feature-match-mike-long-vs-mike-turian-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-9-feature-match-mike-long-vs-mike-turian-2000-01-01"
 ---

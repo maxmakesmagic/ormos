@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Frank Karsten"
 [_metadata_:description]:- "Hi all! I'll apologize in advance if this article will turn out to be a bit shorter than usual, but unfortunately I got sick last weekend, when I had planned to write most of this piece. I might have actually chosen one of the worst days to get sick: Day 2 of Pro Tour–Yokohama. Bad timing indeed. I had to throw up all night and felt miserable in the morning, probably due to"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "624361"
 [_metadata_:publish_date]:- "2007-04-25"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Time for a Check-Up"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-18 14:18:33+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-18 14:18:33"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220818141833id_/https://magic.wizards.com/en/articles/archive/feature/time-check-2007-04-25"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/time-check-2007-04-25"
 ---

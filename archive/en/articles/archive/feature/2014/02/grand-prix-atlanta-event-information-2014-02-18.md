@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Information    Grand Prix Atlanta is brought to you by Pastimes."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "727756"
 [_metadata_:publish_date]:- "2014-02-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Atlanta Event Information"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-31 20:00:08+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-31 20:00:08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171031200008id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-atlanta-event-information-2014-02-18"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-atlanta-event-information-2014-02-18"
 ---

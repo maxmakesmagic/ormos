@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20170614193713/http://magic.wizards.com/en/articles/archive/feature/architect-2012-05-22)
+[Link to Wayback Machine](https://web.archive.org/web/20170817142358/http://magic.wizards.com/en/articles/archive/feature/architect-2012-05-22)
 
 [_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "Former player of the year Brad Nelson has had a good couple of weeks. After rattling off a 20th-place finish at Pro Tour Avacyn Restored in Barcelona, he flew back to the United States and made the finals of Grand Prix Minneapolis! Even better, he had a great time while doing it, citing the Grand Architect deck he played as an absolute blast!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "672446"
 [_metadata_:publish_date]:- "2012-05-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Architect"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-14 19:37:13+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170614193713id_/http://magic.wizards.com/en/articles/archive/feature/architect-2012-05-22"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-17 14:23:58"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170817142358id_/http://magic.wizards.com/en/articles/archive/feature/architect-2012-05-22"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/architect-2012-05-22"
 ---
 
@@ -70,23 +72,21 @@ Nelson isn't the only one who saw success with Spagnolo's deck—at the StarCity
 
 
 
-
-
-[Decklist](#none)
-[Stats](#none)
-[Sample Hand](#none)
+[Deckliste](#none)
+[Statistiken](#none)
+[Beispiel-Kartenhand](#none)
 
 
 
 
 
-Sort by:
-OverviewColorCostRarity
+Sortieren nach
+ÜbersichtFarbeKostenSeltenheit
 
 
 
 
-##### Creature (24)
+##### Kreatur (24)
 
 
 
@@ -119,7 +119,7 @@ OverviewColorCostRarity
 
 
 
-##### Sorcery (8)
+##### Hexerei (8)
 
 
 
@@ -132,7 +132,7 @@ OverviewColorCostRarity
 
 
 
-##### Instant (4)
+##### Spontanzauber (4)
 
 
 
@@ -141,7 +141,7 @@ OverviewColorCostRarity
 
 
 
-##### Artifact (1)
+##### Artefakt (1)
 
 
 
@@ -166,10 +166,11 @@ OverviewColorCostRarity
 [Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
 
 
-60 Cards 
+60 Karten 
 
 
-##### Sideboard (15)
+##### Sideboard
+(15)
 
 
 
@@ -211,7 +212,7 @@ OverviewColorCostRarity
 
 
 
-##### Blue (38)
+##### Blau (38)
 
 
 
@@ -264,7 +265,7 @@ OverviewColorCostRarity
 
 
 
-##### Black (2)
+##### Schwarz (2)
 
 
 
@@ -273,7 +274,7 @@ OverviewColorCostRarity
 
 
 
-##### Colorless (35)
+##### Farblos (35)
 
 
 
@@ -313,7 +314,7 @@ OverviewColorCostRarity
 [Ratchet Bomb](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRatchet%5D+%5BBomb%5D)
 
 
-75 Cards 
+75 Karten 
 
 
 
@@ -422,11 +423,11 @@ OverviewColorCostRarity
 [Wurmcoil Engine](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWurmcoil%5D+%5BEngine%5D)
 
 
-52 Cards 
+52 Karten 
 
 
 
-##### Common (30)
+##### Häufig (30)
 
 
 
@@ -451,7 +452,7 @@ OverviewColorCostRarity
 
 
 
-##### Uncommon (11)
+##### Nicht ganz so häufig (11)
 
 
 
@@ -472,7 +473,7 @@ OverviewColorCostRarity
 
 
 
-##### Rare (27)
+##### Selten (27)
 
 
 
@@ -517,7 +518,7 @@ OverviewColorCostRarity
 
 
 
-##### Mythic (7)
+##### Sagenhaft selten (7)
 
 
 
@@ -533,7 +534,7 @@ OverviewColorCostRarity
 [Jace, Memory Adept](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5BMemory%5D+%5BAdept%5D)
 
 
-75 Cards 
+75 Karten 
 
 
 

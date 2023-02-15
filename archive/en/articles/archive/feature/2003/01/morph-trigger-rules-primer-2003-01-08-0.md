@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Aaron Forsythe"
 [_metadata_:description]:- "The introduction of any new mechanic invariably means one thing: more rules to learn! If you are a student of the rules of Magic, the new `morph trigger` abilities in Legions should be easy enough to work through. But for the rest of us, here's a primer on how this new twist on an old ability will play out."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "630041"
 [_metadata_:publish_date]:- "2003-01-08"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Morph Trigger Rules Primer"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-11 19:54:19+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-11 19:54:19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201111195419id_/https://magic.wizards.com/en/articles/archive/feature/morph-trigger-rules-primer-2003-01-08-0"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/morph-trigger-rules-primer-2003-01-08-0"
 ---

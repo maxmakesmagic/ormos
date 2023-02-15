@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark Gottlieb"
 [_metadata_:description]:- "Today I'm here to tell you a story. A story of death and rebirth. A story of failure and redemption. The story of us all. This, my friends, is the story of Commander's Arsenal ."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "353426"
 [_metadata_:publish_date]:- "2012-10-25"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "In Command of Commander's Arsenal"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-15 20:41:59+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-15 20:41:59"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170715204159id_/http://magic.wizards.com/en/articles/archive/feature/command-commanders-arsenal-2012-10-25"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/command-commanders-arsenal-2012-10-25"
 ---

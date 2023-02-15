@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "It appears my friend Anthony Alongi had some choice words for me in his last column. He doesn't specifically mention me by name, but I was able to decode his clever clues. So let me get this straight, Anthony: Just because I completely ignored your email message and trampled all over your theme the day before your column was posted, thus making you look like an unoriginal"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "613286"
 [_metadata_:publish_date]:- "2005-06-07"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "It’s Everyone Else’s Fault"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-18 22:35:37+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-18 22:35:37"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018223537id_/https://magic.wizards.com/en/articles/archive/feature/it%E2%80%99s-everyone-else%E2%80%99s-fault-2005-06-07"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/it%E2%80%99s-everyone-else%E2%80%99s-fault-2005-06-07"
 ---

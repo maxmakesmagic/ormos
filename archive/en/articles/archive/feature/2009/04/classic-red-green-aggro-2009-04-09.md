@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20170425203947/http://magic.wizards.com/en/articles/archive/feature/classic-red-green-aggro-2009-04-09)
+[Link to Wayback Machine](https://web.archive.org/web/20211015234235/https://magic.wizards.com/en/articles/archive/feature/classic-red-green-aggro-2009-04-09)
 
 [_metadata_:author]:- "Wizards of the Coast"
-[_metadata_:description]:- "[decklist] Title: eddie112's Red-Green Aggro Format: Magic Online Classic 2 Forest 3 Mountain 1 Plains 2 Sacred Foundry 1 Savannah 3 Taiga 3 Wasteland 3 Windswept Heath 4 Wooded Foothills 3 Blood Knight 3 Burning-Tree Shaman 4 Kird Ape 3 Magus of the Moon 4 Tarmogoyf 4 Wild Nacatl 3 Fireblast 3 Incinerate 4 Lightning Bolt 4 Lightning Helix 3 Magma Jet *3 Ancient Grudge *4 Jötun Grunt *3 Pithing Needle"
+[_metadata_:description]:- "[decklist] Title: eddie112's Red-Green Aggro Format: Magic Online Classic 2 Forest 3 Mountain 1 Plains 2 Sacred Foundry 1 Savannah 3 Taiga 3 Wasteland 3 Windswept Heath 4 Wooded Foothills 3 Blood Knight 3 Burning-Tree Shaman 4 Kird Ape 3 Magus of the Moon 4 Tarmogoyf 4 Wild Nacatl 3 Fireblast 3 Incinerate 4 Lightning Bolt 4 Lightning Helix 3 Magma Jet *3 Ancient Grudge *4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "668156"
 [_metadata_:publish_date]:- "2009-04-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Classic Red-Green Aggro"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-25 20:39:47+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170425203947id_/http://magic.wizards.com/en/articles/archive/feature/classic-red-green-aggro-2009-04-09"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/classic-red-green-aggro-2009-04-09"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-15 23:42:35"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211015234235id_/https://magic.wizards.com/en/articles/archive/feature/classic-red-green-aggro-2009-04-09"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/classic-red-green-aggro-2009-04-09"
 ---
 
 
@@ -26,8 +28,9 @@ Classic Red-Green Aggro
 
 
 
-![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
 By Wizards of the Coast
+
 
 
 
@@ -54,7 +57,9 @@ By Wizards of the Coast
 
 
 
+![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
 ![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
 
 
 
@@ -79,27 +84,27 @@ OverviewColorCostRarity
 
 
 3
-[Blood Knight](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlood%5D+%5BKnight%5D)
+[Blood Knight](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlood%5D+%5BKnight%5D)
 
 
 3
-[Burning-Tree Shaman](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBurning-Tree%5D+%5BShaman%5D)
+[Burning-Tree Shaman](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBurning-Tree%5D+%5BShaman%5D)
 
 
 4
-[Kird Ape](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKird%5D+%5BApe%5D)
+[Kird Ape](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKird%5D+%5BApe%5D)
 
 
 3
-[Magus of the Moon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMagus%5D+%5Bof%5D+%5Bthe%5D+%5BMoon%5D)
+[Magus of the Moon](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMagus%5D+%5Bof%5D+%5Bthe%5D+%5BMoon%5D)
 
 
 4
-[Tarmogoyf](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTarmogoyf%5D)
+[Tarmogoyf](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTarmogoyf%5D)
 
 
 4
-[Wild Nacatl](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BNacatl%5D)
+[Wild Nacatl](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BNacatl%5D)
 
 
 
@@ -108,23 +113,23 @@ OverviewColorCostRarity
 
 
 3
-[Fireblast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFireblast%5D)
+[Fireblast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFireblast%5D)
 
 
 3
-[Incinerate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIncinerate%5D)
+[Incinerate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIncinerate%5D)
 
 
 4
-[Lightning Bolt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBolt%5D)
+[Lightning Bolt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBolt%5D)
 
 
 4
-[Lightning Helix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BHelix%5D)
+[Lightning Helix](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BHelix%5D)
 
 
 3
-[Magma Jet](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMagma%5D+%5BJet%5D)
+[Magma Jet](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMagma%5D+%5BJet%5D)
 
 
 
@@ -133,39 +138,39 @@ OverviewColorCostRarity
 
 
 2
-[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
 
 
 3
-[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+[Mountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
 
 
 1
-[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+[Plains](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
 
 
 2
-[Sacred Foundry](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSacred%5D+%5BFoundry%5D)
+[Sacred Foundry](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSacred%5D+%5BFoundry%5D)
 
 
 1
-[Savannah](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSavannah%5D)
+[Savannah](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSavannah%5D)
 
 
 3
-[Taiga](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTaiga%5D)
+[Taiga](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTaiga%5D)
 
 
 3
-[Wasteland](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWasteland%5D)
+[Wasteland](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWasteland%5D)
 
 
 3
-[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+[Windswept Heath](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
 
 
 4
-[Wooded Foothills](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D)
+[Wooded Foothills](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D)
 
 
 60 Cards 
@@ -176,23 +181,23 @@ OverviewColorCostRarity
 
 
 3
-[Ancient Grudge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BGrudge%5D)
+[Ancient Grudge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BGrudge%5D)
 
 
 4
-[Jötun Grunt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJ%C3%B6tun%5D+%5BGrunt%5D)
+[Jötun Grunt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJ%C3%B6tun%5D+%5BGrunt%5D)
 
 
 3
-[Pithing Needle](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D)
+[Pithing Needle](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D)
 
 
 2
-[Swords to Plowshares](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwords%5D+%5Bto%5D+%5BPlowshares%5D)
+[Swords to Plowshares](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwords%5D+%5Bto%5D+%5BPlowshares%5D)
 
 
 3
-[Volcanic Fallout](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVolcanic%5D+%5BFallout%5D)
+[Volcanic Fallout](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVolcanic%5D+%5BFallout%5D)
 
 
 
@@ -202,11 +207,11 @@ OverviewColorCostRarity
 
 
 4
-[Jötun Grunt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJ%C3%B6tun%5D+%5BGrunt%5D)
+[Jötun Grunt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJ%C3%B6tun%5D+%5BGrunt%5D)
 
 
 2
-[Swords to Plowshares](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwords%5D+%5Bto%5D+%5BPlowshares%5D)
+[Swords to Plowshares](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwords%5D+%5Bto%5D+%5BPlowshares%5D)
 
 
 
@@ -215,39 +220,39 @@ OverviewColorCostRarity
 
 
 3
-[Blood Knight](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlood%5D+%5BKnight%5D)
+[Blood Knight](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlood%5D+%5BKnight%5D)
 
 
 4
-[Kird Ape](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKird%5D+%5BApe%5D)
+[Kird Ape](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKird%5D+%5BApe%5D)
 
 
 3
-[Magus of the Moon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMagus%5D+%5Bof%5D+%5Bthe%5D+%5BMoon%5D)
+[Magus of the Moon](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMagus%5D+%5Bof%5D+%5Bthe%5D+%5BMoon%5D)
 
 
 3
-[Fireblast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFireblast%5D)
+[Fireblast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFireblast%5D)
 
 
 3
-[Incinerate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIncinerate%5D)
+[Incinerate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIncinerate%5D)
 
 
 4
-[Lightning Bolt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBolt%5D)
+[Lightning Bolt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBolt%5D)
 
 
 3
-[Magma Jet](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMagma%5D+%5BJet%5D)
+[Magma Jet](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMagma%5D+%5BJet%5D)
 
 
 3
-[Ancient Grudge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BGrudge%5D)
+[Ancient Grudge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BGrudge%5D)
 
 
 3
-[Volcanic Fallout](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVolcanic%5D+%5BFallout%5D)
+[Volcanic Fallout](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVolcanic%5D+%5BFallout%5D)
 
 
 
@@ -256,11 +261,11 @@ OverviewColorCostRarity
 
 
 4
-[Tarmogoyf](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTarmogoyf%5D)
+[Tarmogoyf](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTarmogoyf%5D)
 
 
 4
-[Wild Nacatl](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BNacatl%5D)
+[Wild Nacatl](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BNacatl%5D)
 
 
 
@@ -269,11 +274,11 @@ OverviewColorCostRarity
 
 
 3
-[Burning-Tree Shaman](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBurning-Tree%5D+%5BShaman%5D)
+[Burning-Tree Shaman](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBurning-Tree%5D+%5BShaman%5D)
 
 
 4
-[Lightning Helix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BHelix%5D)
+[Lightning Helix](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BHelix%5D)
 
 
 
@@ -282,43 +287,43 @@ OverviewColorCostRarity
 
 
 2
-[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
 
 
 3
-[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+[Mountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
 
 
 1
-[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+[Plains](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
 
 
 2
-[Sacred Foundry](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSacred%5D+%5BFoundry%5D)
+[Sacred Foundry](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSacred%5D+%5BFoundry%5D)
 
 
 1
-[Savannah](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSavannah%5D)
+[Savannah](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSavannah%5D)
 
 
 3
-[Taiga](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTaiga%5D)
+[Taiga](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTaiga%5D)
 
 
 3
-[Wasteland](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWasteland%5D)
+[Wasteland](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWasteland%5D)
 
 
 3
-[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+[Windswept Heath](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
 
 
 4
-[Wooded Foothills](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D)
+[Wooded Foothills](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D)
 
 
 3
-[Pithing Needle](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D)
+[Pithing Needle](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D)
 
 
 75 Cards 
@@ -330,23 +335,23 @@ OverviewColorCostRarity
 
 
 4
-[Kird Ape](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKird%5D+%5BApe%5D)
+[Kird Ape](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKird%5D+%5BApe%5D)
 
 
 4
-[Wild Nacatl](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BNacatl%5D)
+[Wild Nacatl](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BNacatl%5D)
 
 
 4
-[Lightning Bolt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBolt%5D)
+[Lightning Bolt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBolt%5D)
 
 
 3
-[Pithing Needle](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D)
+[Pithing Needle](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D)
 
 
 2
-[Swords to Plowshares](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwords%5D+%5Bto%5D+%5BPlowshares%5D)
+[Swords to Plowshares](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwords%5D+%5Bto%5D+%5BPlowshares%5D)
 
 
 
@@ -355,31 +360,31 @@ OverviewColorCostRarity
 
 
 3
-[Blood Knight](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlood%5D+%5BKnight%5D)
+[Blood Knight](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlood%5D+%5BKnight%5D)
 
 
 4
-[Tarmogoyf](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTarmogoyf%5D)
+[Tarmogoyf](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTarmogoyf%5D)
 
 
 3
-[Incinerate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIncinerate%5D)
+[Incinerate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIncinerate%5D)
 
 
 4
-[Lightning Helix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BHelix%5D)
+[Lightning Helix](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BHelix%5D)
 
 
 3
-[Magma Jet](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMagma%5D+%5BJet%5D)
+[Magma Jet](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMagma%5D+%5BJet%5D)
 
 
 3
-[Ancient Grudge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BGrudge%5D)
+[Ancient Grudge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BGrudge%5D)
 
 
 4
-[Jötun Grunt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJ%C3%B6tun%5D+%5BGrunt%5D)
+[Jötun Grunt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJ%C3%B6tun%5D+%5BGrunt%5D)
 
 
 
@@ -388,15 +393,15 @@ OverviewColorCostRarity
 
 
 3
-[Burning-Tree Shaman](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBurning-Tree%5D+%5BShaman%5D)
+[Burning-Tree Shaman](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBurning-Tree%5D+%5BShaman%5D)
 
 
 3
-[Magus of the Moon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMagus%5D+%5Bof%5D+%5Bthe%5D+%5BMoon%5D)
+[Magus of the Moon](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMagus%5D+%5Bof%5D+%5Bthe%5D+%5BMoon%5D)
 
 
 3
-[Volcanic Fallout](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVolcanic%5D+%5BFallout%5D)
+[Volcanic Fallout](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVolcanic%5D+%5BFallout%5D)
 
 
 
@@ -405,7 +410,7 @@ OverviewColorCostRarity
 
 
 3
-[Fireblast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFireblast%5D)
+[Fireblast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFireblast%5D)
 
 
 53 Cards 
@@ -417,118 +422,118 @@ OverviewColorCostRarity
 
 
 2
-[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
 
 
 3
-[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+[Mountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
 
 
 1
-[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+[Plains](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
 
 
 4
-[Wild Nacatl](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BNacatl%5D)
+[Wild Nacatl](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BNacatl%5D)
 
 
 3
-[Incinerate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIncinerate%5D)
+[Incinerate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIncinerate%5D)
 
 
 3
-[Ancient Grudge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BGrudge%5D)
+[Ancient Grudge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BGrudge%5D)
 
 
 
-##### Uncommon (30)
+##### Uncommon (22)
 
 
 
 3
-[Blood Knight](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlood%5D+%5BKnight%5D)
+[Blood Knight](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlood%5D+%5BKnight%5D)
 
 
 4
-[Kird Ape](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKird%5D+%5BApe%5D)
+[Kird Ape](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKird%5D+%5BApe%5D)
 
 
 3
-[Fireblast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFireblast%5D)
-
-
-4
-[Lightning Bolt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBolt%5D)
-
-
-4
-[Lightning Helix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BHelix%5D)
+[Fireblast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFireblast%5D)
 
 
 3
-[Magma Jet](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMagma%5D+%5BJet%5D)
+[Magma Jet](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMagma%5D+%5BJet%5D)
 
 
 4
-[Jötun Grunt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJ%C3%B6tun%5D+%5BGrunt%5D)
+[Jötun Grunt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJ%C3%B6tun%5D+%5BGrunt%5D)
 
 
 2
-[Swords to Plowshares](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwords%5D+%5Bto%5D+%5BPlowshares%5D)
+[Swords to Plowshares](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwords%5D+%5Bto%5D+%5BPlowshares%5D)
 
 
 3
-[Volcanic Fallout](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVolcanic%5D+%5BFallout%5D)
+[Volcanic Fallout](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVolcanic%5D+%5BFallout%5D)
 
 
 
-##### Rare (13)
-
-
-
-1
-[Savannah](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSavannah%5D)
-
-
-3
-[Taiga](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTaiga%5D)
-
-
-3
-[Burning-Tree Shaman](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBurning-Tree%5D+%5BShaman%5D)
-
-
-3
-[Magus of the Moon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMagus%5D+%5Bof%5D+%5Bthe%5D+%5BMoon%5D)
-
-
-3
-[Pithing Needle](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D)
-
-
-
-##### Mythic (16)
+##### Rare (23)
 
 
 
 2
-[Sacred Foundry](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSacred%5D+%5BFoundry%5D)
+[Sacred Foundry](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSacred%5D+%5BFoundry%5D)
+
+
+1
+[Savannah](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSavannah%5D)
 
 
 3
-[Wasteland](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWasteland%5D)
+[Taiga](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTaiga%5D)
 
 
 3
-[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+[Burning-Tree Shaman](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBurning-Tree%5D+%5BShaman%5D)
+
+
+3
+[Magus of the Moon](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMagus%5D+%5Bof%5D+%5Bthe%5D+%5BMoon%5D)
 
 
 4
-[Wooded Foothills](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D)
+[Lightning Bolt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBolt%5D)
 
 
 4
-[Tarmogoyf](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTarmogoyf%5D)
+[Lightning Helix](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BHelix%5D)
+
+
+3
+[Pithing Needle](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D)
+
+
+
+##### Mythic (14)
+
+
+
+3
+[Wasteland](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWasteland%5D)
+
+
+3
+[Windswept Heath](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+4
+[Wooded Foothills](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D)
+
+
+4
+[Tarmogoyf](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTarmogoyf%5D)
 
 
 75 Cards 
@@ -536,7 +541,7 @@ OverviewColorCostRarity
 
 
 
-![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Forest)
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Forest)
 
 
 

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "Every new set is accompanied by changes to the Magic Comprehensive Rules. And, for the most part, you shouldn’t care. The rules are like the sewer system: It’s really important to society and keeps everything running smoothly, but as long as it’s doing its job behind the scenes, there’s no reason for you to poke your head in there. (In this analogy, I’m the plumber.)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "633061"
 [_metadata_:publish_date]:- "2006-09-20"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Too Cool for Rules"
-[_metadata_:wayback_capture_timestamp]:- "2020-08-05 13:21:26+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-08-05 13:21:26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200805132126id_/https://magic.wizards.com/en/articles/archive/feature/too-cool-rules-2006-09-20"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/too-cool-rules-2006-09-20"
 ---

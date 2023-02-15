@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Byes are based on the following criteria:# of ByesMinimum RatingMinimum Pro Points 3195028 2185014 117507 Rating used: Constructed, June 18, 2003 Pro Point Standings Used: 2003 Pro Tour YokohamaTo find the number of byes you have for Grand Prix-Yokohama, go to the appropriate list below (sorted by last name): A-B C-D E-G H-J K-L M-N O-R S T-V W-Z For questions about this page,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "736441"
 [_metadata_:publish_date]:- "2003-06-24"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "grandprix_yokohama03_byes"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-08 17:35:53+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-08 17:35:53"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220808173553id_/https://magic.wizards.com/en/articles/archive/feature/grandprixyokohama03byes-2003-06-24"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grandprixyokohama03byes-2003-06-24"
 ---

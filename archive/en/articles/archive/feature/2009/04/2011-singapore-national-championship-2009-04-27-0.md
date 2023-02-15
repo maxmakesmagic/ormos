@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Date: June 25-26, 2011Event Location: Singapore Expo Conference Hall G-HAddress: 1 Expo Drive Singapore 486150EligibilityThe Magic: the Gathering Singapore National Championship is an invitation-only event, open to citizens or permanent residents of Singapore who have won an invitation to Nationals through DCI ratings or from qualifying events such as National"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "730366"
 [_metadata_:publish_date]:- "2009-04-27"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2011 Singapore National Championship"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-22 21:46:27+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-22 21:46:27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022214627id_/https://magic.wizards.com/en/articles/archive/feature/2011-singapore-national-championship-2009-04-27-0"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-singapore-national-championship-2009-04-27-0"
 ---

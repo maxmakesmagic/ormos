@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "&#13; This week's desktop wallpaper is Jason Chan's Mayael the Anima from the Shards of Alara set. Enjoy."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "653181"
 [_metadata_:publish_date]:- "2008-10-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Wallpaper of the Week: Mayael the Anima"
-[_metadata_:wayback_capture_timestamp]:- "2017-01-26 16:41:24+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-01-26 16:41:24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170126164124id_/http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-mayael-anima-2008-10-03"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-mayael-anima-2008-10-03"
 ---

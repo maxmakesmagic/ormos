@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Don’t miss the first Mega Grand Prix in Torino!!Grand Prix are easily the biggest open events the DCI offers. They're high-energy and held around the world. Plus, no invitation is necessary -- anyone can attend.Even if you don’t want to attend the main event, there are still plenty of reasons to come. A Grand Prix is not just a regular Magic tournament… Grand Prix’s in Europe"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "736316"
 [_metadata_:publish_date]:- "2006-04-28"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix - Torino"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-15 21:06:34+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-15 21:06:34"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211015210634id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-torino-2006-04-28"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-torino-2006-04-28"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Pts Table Opponent Pts Adams, Joel ( 15) 4 27 Liao, Wei ( 3) 6 Ansell, Robert ( 31) 12 12 Chan, Jonathan ( 54) 12 Bandas, Jim ( 80) 11 19 Poon, Andrew ( 46) 11 Bow, Frankle ( 83) 16 4 Karp, Hugh ( 51) 15 Bray, Jonathan ( 70) 14 7 Fung, Kerry ( 59) 14 Brebach, Kim ( 32) 13 8 Ou, John ( 65) 13 Brugman, John ( 41) 12 14 Haddy, Thomas ( 77) 12 Campbell, Stephen ( 69) 15 5"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "948671"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Australian Nationals Round 8 Pairings"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-22 17:54:17+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-22 17:54:17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522175417id_/https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-8-pairings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-8-pairings-2000-01-01"
 ---

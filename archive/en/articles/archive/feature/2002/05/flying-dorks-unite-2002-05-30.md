@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Jay Moldenhauer-Salazar"
 [_metadata_:description]:- "Token creatures, like creatures in general, tend to stand out when they are either huge or funny. For this reason, big 6/6 wurms, mighty 3/3 elephants, and silly 1/1 squirrels have attracted the lion's share of attention in recent sets. If you look closely, though, you may notice that Judgment has snuck another kind of token creature into the mix: The 1/1 flier. These tokens"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "625876"
 [_metadata_:publish_date]:- "2002-05-30"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Flying Dorks Unite!"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-02 05:59:53+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-02 05:59:53"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211202055953id_/https://magic.wizards.com/en/articles/archive/feature/flying-dorks-unite-2002-05-30"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/flying-dorks-unite-2002-05-30"
 ---

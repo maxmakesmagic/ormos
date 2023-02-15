@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Match Team Result Team TAROU *** BYE *** 1 Poor Shark 3-0 Team KAME-ZAOH 2 Team Fenrir 3-0 MAHODO 3 NakaQ MoQ 0-3 Shikaku Maniacs SHARP 4 Team Sightseeing 0-3 NAGOYAN 5 BIN BI BIN 3-0 Hige W O 6 Long Thinking NEO Alpha 0-3 NEW WAVE 7 I''s 3-0 Team Tanki 8 Team John Vintage 0-3 SIKI 9 WACHI-DE? 3-0 Team HIROSHI 10 Team TADASHI 0-3 Aoiro 7 11 Team WIZ (Okayama) 3-0 DAISANGEN 12"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "952371"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix-Nagoya 2000 Round 3 Results"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-20 20:05:48+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-20 20:05:48"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520200548id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-round-3-results-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-round-3-results-2000-01-01"
 ---

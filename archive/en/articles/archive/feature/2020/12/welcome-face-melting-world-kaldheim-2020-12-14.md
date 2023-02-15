@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20201214214740/https://magic.wizards.com/en/articles/archive/feature/welcome-face-melting-world-kaldheim-2020-12-14?fbclid=IwAR0gZ_6VI4B4arjD17ePuGktkxlVxn3KbVULpsrYBtNfeqlbPcLhWt1M5ZU)
+[Link to Wayback Machine](https://web.archive.org/web/20201215102814/https://magic.wizards.com/en/articles/archive/feature/welcome-face-melting-world-kaldheim-2020-12-14?utm_source=dlvr.it&utm_medium=twitter)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Smashing our way to a week of metal moments straight from Kaldheim to your brain."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1521700"
 [_metadata_:publish_date]:- "2020-12-14"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Welcome to the Face-Melting World of Kaldheim"
-[_metadata_:wayback_capture_timestamp]:- "2020-12-14 21:47:40+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201214214740id_/https://magic.wizards.com/en/articles/archive/feature/welcome-face-melting-world-kaldheim-2020-12-14?fbclid=IwAR0gZ_6VI4B4arjD17ePuGktkxlVxn3KbVULpsrYBtNfeqlbPcLhWt1M5ZU"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/welcome-face-melting-world-kaldheim-2020-12-14?fbclid=IwAR0gZ_6VI4B4arjD17ePuGktkxlVxn3KbVULpsrYBtNfeqlbPcLhWt1M5ZU"
+[_metadata_:wayback_capture_timestamp]:- "2020-12-15 10:28:14"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201215102814id_/https://magic.wizards.com/en/articles/archive/feature/welcome-face-melting-world-kaldheim-2020-12-14?utm_source=dlvr.it&utm_medium=twitter"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/welcome-face-melting-world-kaldheim-2020-12-14?utm_source=dlvr.it&utm_medium=twitter"
 ---
 
 

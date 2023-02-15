@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Blake Rasmussen"
 [_metadata_:description]:- "Amonkhet is a gorgeous plane, and it has the amazing art to match."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1156616"
 [_metadata_:publish_date]:- "2017-05-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Amonkhet Art Descriptions"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 00:28:05+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-12 00:28:05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112002805id_/https://magic.wizards.com/en/articles/archive/feature/amonkhet-art-descriptions-2017-05-16"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/amonkhet-art-descriptions-2017-05-16"
 ---

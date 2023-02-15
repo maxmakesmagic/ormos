@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark Gottlieb"
 [_metadata_:description]:- "Two weeks ago, I started to post the submissions to the Rock & Roll Deck Challenge that impressed, amused, and intrigued me. The first batch of decks contained one representative from each of the four most popular bands, as well as an example of a deck built around the lyrics to a song. This week I’m posting my favorite six decks from among all the rest of the submissions. I"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "613481"
 [_metadata_:publish_date]:- "2003-06-19"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Long Live Rock, Part 2"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-18 17:33:44+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-18 17:33:44"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220818173344id_/https://magic.wizards.com/en/articles/archive/feature/long-live-rock-part-2-2003-06-19-0"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/long-live-rock-part-2-2003-06-19-0"
 ---

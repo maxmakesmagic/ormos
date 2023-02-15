@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Hew, Jun-Wei 18 70.8333 92.3077 63.5165 4/4/0/2 2 Nobushita, Jun 18 68.5185 75.0000 65.4396 6/6/0/0 3 Hwang, Chi-Chun 18 66.6667 100.0000 60.6818 4/4/0/2 4 Thong, Scott 18 62.9630 75.0000 61.2892 6/6/0/0 5 Len, Jim 18 58.3333 85.7143 56.5629 6/6/0/0 6 Hon, Derik 16 63.8889 73.3333 63.2563 6/5/1/0 7 Lau,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "952546"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix-Kuala LumpurRound 6 Standings"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-04 05:02:53+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-04 05:02:53"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211204050253id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-6-standings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-6-standings-2000-01-01"
 ---

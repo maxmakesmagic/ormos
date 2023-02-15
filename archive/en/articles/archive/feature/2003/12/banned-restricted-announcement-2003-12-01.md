@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20200803160905/https://magic.wizards.com/en/articles/archive/feature/banned-restricted-announcement-2003-12-01)
+[Link to Wayback Machine](https://web.archive.org/web/20151227074646/http://magic.wizards.com/en/articles/archive/feature/banned-restricted-announcement-2003-12-01)
 
 [_metadata_:author]:- "magicthegathering.com Staff"
-[_metadata_:description]:- "Announcement Date: December 1, 2003 Effective Date: January 1, 2004"
+[_metadata_:description]:- "Announcement Date: December 1, 2003 Effective Date: January 1, 2004Standard"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "630851"
 [_metadata_:publish_date]:- "2003-12-01"
-[_metadata_:title]:- "Banned & Restricted Announcement"
-[_metadata_:wayback_capture_timestamp]:- "2020-08-03 16:09:05+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200803160905id_/https://magic.wizards.com/en/articles/archive/feature/banned-restricted-announcement-2003-12-01"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/banned-restricted-announcement-2003-12-01"
+[_metadata_:source]:- "div-main-content"
+[_metadata_:title]:- "Banned &amp; Restricted Announcement"
+[_metadata_:wayback_capture_timestamp]:- "2015-12-27 07:46:46"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151227074646id_/http://magic.wizards.com/en/articles/archive/feature/banned-restricted-announcement-2003-12-01"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/banned-restricted-announcement-2003-12-01"
 ---
 
 
@@ -26,7 +28,7 @@ Banned & Restricted Announcement
 
 
 
-![](https://web.archive.org/web/20211024110319im_/https://magic.wizards.com/sites/all/themes/wiz_mtg/images/global/generic-avatar-150.png)
+![](https://web.archive.org/web/20170709072651im_/http://magic.wizards.com/sites/all/themes/wiz_mtg/images/global/generic-avatar-150.png)
 By magicthegathering.com Staff
 
 
@@ -92,7 +94,7 @@ Here are explanations of the changes from **Magic** R&D:
  In our effort to make sure games last more than two or three turns, we felt we needed to get rid of [Oath of Druids](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Oath+of+Druids) in addition to fast mana and combo enabling cards. [Oath of Druids](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Oath+of+Druids) effectively ends the game on turn 2 against almost all creature decks, making it essentially impossible to have a healthy environment as long as this card is legal. 
 
 **[Tinker](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tinker)**  
-[Tinker](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tinker) is both a tutor and a mana accelerator, so we've been worried about it for years. The recent release of *Mirrodin* added many powerful artifacts to the environment and put [Tinker](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tinker) decks over the top (as evidenced by [Pro Tour New Orleans](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/events/ptno03)). 
+[Tinker](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tinker) is both a tutor and a mana accelerator, so we've been worried about it for years. The recent release of *Mirrodin* added many powerful artifacts to the environment and put [Tinker](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tinker) decks over the top (as evidenced by [Pro Tour New Orleans](/en/events/coverage/ptno03)). 
 
 ### Type 1 Restrictions
 

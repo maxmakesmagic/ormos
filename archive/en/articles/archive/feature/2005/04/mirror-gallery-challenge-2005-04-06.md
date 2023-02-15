@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Adrian Sullivan"
 [_metadata_:description]:- "Two weeks ago I asked everyone whether they would want a Reader Challenge on Mirror Gallery, and the results of that poll surprised me. No, it didn't surprise me that most people were in favor of the Challenge. It did surprise me how close the vote was."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "613801"
 [_metadata_:publish_date]:- "2005-04-06"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Mirror Gallery Challenge"
-[_metadata_:wayback_capture_timestamp]:- "2016-05-02 09:16:04+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-05-02 09:16:04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160502091604id_/http://magic.wizards.com/en/articles/archive/feature/mirror-gallery-challenge-2005-04-06"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mirror-gallery-challenge-2005-04-06"
 ---

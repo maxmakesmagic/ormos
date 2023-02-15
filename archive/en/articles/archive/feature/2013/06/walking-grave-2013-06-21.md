@@ -4,9 +4,11 @@
 
 [_metadata_:author]:- "Sam Black"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "666656"
 [_metadata_:publish_date]:- "2013-06-21"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Walking Grave"
-[_metadata_:wayback_capture_timestamp]:- "2016-03-05 15:35:39+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-03-05 15:35:39"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160305153539id_/http://magic.wizards.com/en/articles/archive/feature/walking-grave-2013-06-21"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/walking-grave-2013-06-21"
 ---

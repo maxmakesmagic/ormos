@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "Craig Wescoe was the first person who seriously suggested building an Immortal Servitude deck in Standard to me, but he was mostly interested in returning a lot of one-mana Humans with Champion of the Parish to create a huge creature. Since then, many others have suggested Immortal Servitude for two as a combo engine with Blood Artist and Cartel Aristocrat or Bloodthrone"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "666396"
 [_metadata_:publish_date]:- "2013-04-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Reader Submission: Immortal Servitude"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-26 01:46:01+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-26 01:46:01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526014601id_/https://magic.wizards.com/en/articles/archive/feature/reader-submission-immortal-servitude-2013-04-18"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/reader-submission-immortal-servitude-2013-04-18"
 ---

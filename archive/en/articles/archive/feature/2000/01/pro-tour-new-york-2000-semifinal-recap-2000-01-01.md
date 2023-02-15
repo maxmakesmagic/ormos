@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Gary Wise In a match featuring members of two of PTNY's strongest teams, The Jumble's Ben Rubin, playing in his fourth top 8, matched up with the European Alliance's Warren marsh in a match up of two very different Rebel decks. While Marsh, whose team includes Kai Budde, John Larkin, Tony Dobson and a dozen others was playing a highly metagamed mono white deck, Rubin, who"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "949981"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-New York 2000 Semifinal Recap"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-20 18:38:41+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-20 18:38:41"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120183841id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-semifinal-recap-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-semifinal-recap-2000-01-01"
 ---

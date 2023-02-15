@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Rank Name 1 Eskeland Sigurd 2 Marsh Warren 3 Rubin Ben 4 Kettil Mattias 5 Larkin John 6 Bregoli Mike 7 Turning Travis G 8 Hunka John 9"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "949956"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-New York 2000 Final Standings"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-23 08:04:20+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-23 08:04:20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123080420id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-final-standings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-final-standings-2000-01-01"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "&#13; 日本語の案内ページTrial Schedule&#13; &#13; Urgent Announcement (2004-01-06)&#13; Due to sudden illness, Dave Dorman will not be able to attend Grand Prix—Osaka as previously scheduled. In his place, the artist Nottsuo will attend."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "735736"
 [_metadata_:publish_date]:- "2004-12-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix - Osaka"
-[_metadata_:wayback_capture_timestamp]:- "2016-10-03 06:38:07+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-10-03 06:38:07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161003063807id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-osaka-2004-12-10"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-osaka-2004-12-10"
 ---

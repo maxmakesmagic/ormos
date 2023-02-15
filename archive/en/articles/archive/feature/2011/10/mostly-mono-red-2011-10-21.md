@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Stromkirk Noble and Reckless Waif kick off a parade of beaters. Check out that green splash, just for Kessig Wolf Run and..."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "671661"
 [_metadata_:publish_date]:- "2011-10-21"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Mostly Mono-Red"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-28 15:16:20+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-28 15:16:20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028151620id_/https://magic.wizards.com/en/articles/archive/feature/mostly-mono-red-2011-10-21"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mostly-mono-red-2011-10-21"
 ---

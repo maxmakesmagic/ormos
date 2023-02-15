@@ -5,8 +5,10 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Pack #1 - Kai Budde Divides  Kai Budde Jakub Slemr Icatian Phalanx Meteor Shower Giant Tortoise Repentance Abduction Anaba Shaman Fissure Ball Lightning Pack #2 - Jakub Slemr Divides  Kai Budde Jakub Slemr Rhox Barbed Sextant Shaman en-Kor Blue Elemental Blast Bounty Hunter Havoc Curiosity Spitting Earth Pack #3 - Kai Budde Divides  Kai Budde Jakub Slemr Redwood Treefolk"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "949916"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic: The Gathering Invitational 2000Round 8 Solomon SelectionsKai Budde vs. Jakub Slemr"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-30 12:51:55+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-30 12:51:55"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211130125155id_/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-8-solomon-selectionskai-budde-vs"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-8-solomon-selectionskai-budde-vs"
 ---

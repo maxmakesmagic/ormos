@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Monty Ashley"
 [_metadata_:description]:- "This is Nils Hamm's Illness in the Ranks from Gatecrash. Illness in the Ranks | Art by Nils Hamm"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "648506"
 [_metadata_:publish_date]:- "2013-03-13"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Sick Centaurs"
-[_metadata_:wayback_capture_timestamp]:- "2020-09-29 15:18:23+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-09-29 15:18:23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200929151823id_/https://magic.wizards.com/en/articles/archive/feature/sick-centaurs-2013-03-13"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sick-centaurs-2013-03-13"
 ---

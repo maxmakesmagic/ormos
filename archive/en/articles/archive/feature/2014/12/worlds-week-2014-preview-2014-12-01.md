@@ -4,9 +4,11 @@
 
 [_metadata_:description]:- "24 players, 72 countries. Five days of awesome."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "316211"
 [_metadata_:publish_date]:- "2014-12-01"
+[_metadata_:source]:- "div-main"
 [_metadata_:title]:- "Worlds Week 2014 Preview"
-[_metadata_:wayback_capture_timestamp]:- "2014-12-03 19:46:49+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2014-12-03 19:46:49"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20141203194649id_/http://magic.wizards.com/en/articles/archive/feature/worlds-week-2014-preview-2014-12-01"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/worlds-week-2014-preview-2014-12-01"
 ---

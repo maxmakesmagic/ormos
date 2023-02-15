@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Ultra•PRO makes some neat accessories for Magic players, including sleeves, deck boxes, and folders for cards. Would you care to look upon their Magic 2010 line? Sure you would!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "653961"
 [_metadata_:publish_date]:- "2009-07-08"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Ultra•PRO Accessories"
-[_metadata_:wayback_capture_timestamp]:- "2017-05-12 03:11:11+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-05-12 03:11:11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170512031111id_/http://magic.wizards.com/en/articles/archive/feature/ultra%E2%80%A2pro-accessories-2009-07-08"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/ultra%E2%80%A2pro-accessories-2009-07-08"
 ---

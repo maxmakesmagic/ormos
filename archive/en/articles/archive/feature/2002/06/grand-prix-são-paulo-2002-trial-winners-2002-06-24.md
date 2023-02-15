@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Listed winners receive 3-round byes at Grand Prix - São Paulo GP – São Paulo Trial Tournament Winners: CountryCityEvent DateLastFirst ArgentinaBuenos Aires6/1/2002CaligarisGabriel ArgentinaBuenos Aires6/8/2002OstrovichDiego ArgentinaCordoba6/2/2002AlcaldeJuan ArgentinaMar del Plata5/25/2002MorenoFrancisco ArgentinaRosario6/1/2002RosignoliBruno"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "735981"
 [_metadata_:publish_date]:- "2002-06-24"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix - São Paulo 2002 Trial Winners"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-12 15:25:17+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-12 15:25:17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220812152517id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-s%C3%A3o-paulo-2002-trial-winners-2002-06-24"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-s%C3%A3o-paulo-2002-trial-winners-2002-06-24"
 ---

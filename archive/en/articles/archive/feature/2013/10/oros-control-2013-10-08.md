@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:description]:- "Oros Control (named after none other than Oros, the Avenger, at least until the wedge version of Shards of Alara comes out) is a deck that's been floating around Standard and Block for a while now. I even talked about it in my second article for this very column and am revisiting it now that Theros is out. The list I'll be looking at today is what Sam Pardee used to play"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "667081"
 [_metadata_:publish_date]:- "2013-10-08"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Oros Control"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-14 03:52:45+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-14 03:52:45"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220814035245id_/https://magic.wizards.com/en/articles/archive/feature/oros-control-2013-10-08"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/oros-control-2013-10-08"
 ---

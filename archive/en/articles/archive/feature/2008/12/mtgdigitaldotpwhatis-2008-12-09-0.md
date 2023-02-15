@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Face a greater challenge with Duels of the Planeswalkers 2013 ! Coming this summer*, the newest version of the successful video game franchise Magic: The Gathering Duels of the Planeswalkers will bring 10 new decks, tutorial, and other exciting features. Duels of the Planeswalkers 2013 will be available on Xbox LIVE Arcade, PC/Steam, PlayStation Network and for the first time"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "632926"
 [_metadata_:publish_date]:- "2008-12-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "mtg_digital_dotp_whatis"
-[_metadata_:wayback_capture_timestamp]:- "2021-06-14 23:47:59+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-06-14 23:47:59"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210614234759id_/https://magic.wizards.com/en/articles/archive/feature/mtgdigitaldotpwhatis-2008-12-09-0"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mtgdigitaldotpwhatis-2008-12-09-0"
 ---

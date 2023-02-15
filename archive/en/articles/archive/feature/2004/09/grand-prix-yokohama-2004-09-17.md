@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "日本語の案内ページTrial Schedule The Magic: The Gathering Grand Prix tournament series is an international circuit of large-scale Qualifier tournaments featuring cash prizes and multiple invitations to Pro Tour events."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "736496"
 [_metadata_:publish_date]:- "2004-09-17"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix - Yokohama"
-[_metadata_:wayback_capture_timestamp]:- "2020-09-28 12:00:10+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-09-28 12:00:10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200928120010id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-yokohama-2004-09-17"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-yokohama-2004-09-17"
 ---

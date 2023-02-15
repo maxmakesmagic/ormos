@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "The combination of Myr Superion and Heartless Summoning has been a topic of discussion since the black enchantment released, and Magic Online player Alienware_ recently played a deck featuring this dynamic duo. Using the power of cheap acceleration alongside several colorless goodies, this deck took down a Magic Online Standard Premier Event."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "672191"
 [_metadata_:publish_date]:- "2012-03-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Superion Summoning"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-24 10:07:00+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-04-24 10:07:00"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170424100700id_/http://magic.wizards.com/en/articles/archive/feature/superion-summoning-2012-03-16"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/superion-summoning-2012-03-16"
 ---

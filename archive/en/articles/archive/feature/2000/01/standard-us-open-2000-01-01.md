@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Adrian Sullivan At the beginning of the U.S. Opens, players spend more than a fair amount of time running around to find out what they should play. In the last minutes before deck registration. every player wants to be on the edge of the `tech` curve and have the best deck with which to beat the field. In a single elimination field, competition is fierce since simply a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "949511"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Standard U.S. Open"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-29 14:21:17+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-29 14:21:17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211129142117id_/https://magic.wizards.com/en/articles/archive/feature/standard-us-open-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/standard-us-open-2000-01-01"
 ---

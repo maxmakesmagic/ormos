@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Phyrexian assault on the metallic plane of Mirrodin intensifies. The Mirran resistance rallies to survive and overcome. Both sides bring the full might of their arsenals to bear. As the fate of one world hangs in the balance, Magic players in our world get to enjoy all the wicked weapons this war has to offer."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "658736"
 [_metadata_:publish_date]:- "2011-02-08"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic Online Mirrodin Besieged Prerelease News"
-[_metadata_:wayback_capture_timestamp]:- "2020-08-09 11:49:36+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-08-09 11:49:36"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200809114936id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-mirrodin-besieged-prerelease-news-2011-02-08"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-mirrodin-besieged-prerelease-news-2011-02-08"
 ---

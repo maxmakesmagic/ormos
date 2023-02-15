@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "LocationsNorth AmericaUnited Kingdom & Ireland Asia WhenTournaments will be held Friday July 21 or Saturday July 22 or Sunday July 23. Entry Fee & Product MixCheck with your local retailer for specific entry fee information. Cost of entry will provide you, five (5) Coldsnap booster packs Tournament Structure/FormatThe structure of the Coldsnap release tournament is Modified"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "641866"
 [_metadata_:publish_date]:- "2006-07-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Release Tournament Fact Sheet"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-28 05:24:57+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-28 05:24:57"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028052457id_/https://magic.wizards.com/en/articles/archive/feature/release-tournament-fact-sheet-2006-07-10"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/release-tournament-fact-sheet-2006-07-10"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mike McArtor"
 [_metadata_:description]:- "Coming soon to a friendly local game store near you... Return to Ravnica Block, Episode III: Dragon's Maze. It is a period of guild war. The Dracogenius, Niv-Mizzet, has uncovered the Implicit Maze and has invited the ten guilds to... you know what? Just watch the video:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "682416"
 [_metadata_:publish_date]:- "2013-04-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Prerelease Primer"
-[_metadata_:wayback_capture_timestamp]:- "2016-01-24 02:16:45+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-01-24 02:16:45"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160124021645id_/http://magic.wizards.com/en/articles/archive/feature/prerelease-primer-2013-04-22"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/prerelease-primer-2013-04-22"
 ---

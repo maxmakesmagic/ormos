@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20170111171815/http://magic.wizards.com/en/articles/archive/feature/aether-revolt-prerelease-primer-2017-01-09)
+[Link to Wayback Machine](https://web.archive.org/web/20220521054445/https://magic.wizards.com/en/articles/archive/feature/aether-revolt-prerelease-primer-2017-01-09)
 
 [_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "Gavin has all the info you need to make the most of your Aether Revolt Prerelease!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1109051"
 [_metadata_:publish_date]:- "2017-01-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Aether Revolt Prerelease Primer"
-[_metadata_:wayback_capture_timestamp]:- "2017-01-11 17:18:15+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170111171815id_/http://magic.wizards.com/en/articles/archive/feature/aether-revolt-prerelease-primer-2017-01-09"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/aether-revolt-prerelease-primer-2017-01-09"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-21 05:44:45"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521054445id_/https://magic.wizards.com/en/articles/archive/feature/aether-revolt-prerelease-primer-2017-01-09"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/aether-revolt-prerelease-primer-2017-01-09"
 ---
 
 
@@ -236,7 +238,7 @@ How does this kind of multiplayer break down? It's simple: all of your creatures
 Another really fun part of Two-Headed Giant is discovering which cards work even better in 2HG! For example, take Spireside Infiltrator.
 
 
-[![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Spireside+Infiltrator)](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spireside+Infiltrator)
+[![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Spireside+Infiltrator)](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spireside+Infiltrator)
 When this creature becomes tapped—perhaps from crewing a Vehicle or attacking—it deals 1 damage to each of your opponents. That's 2 damage to their combined 30 life total! Bam!
 
 

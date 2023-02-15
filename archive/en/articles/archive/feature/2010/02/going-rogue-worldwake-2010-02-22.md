@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Tim Willoughby"
 [_metadata_:description]:- "I would say that the single thing that really pushed me over the edge and got me hooked on Magic was The Duelist magazine, way back when the game was young, and I wasn't much older. Before picking up The Duelist, I had bought some cards and played a little, but I suppose it would be fair to say that I didn't quite `get` it. The tipping point for me was turning to a page"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "684141"
 [_metadata_:publish_date]:- "2010-02-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Going Rogue with Worldwake"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-17 19:52:11+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-17 19:52:11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517195211id_/https://magic.wizards.com/en/articles/archive/feature/going-rogue-worldwake-2010-02-22"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/going-rogue-worldwake-2010-02-22"
 ---

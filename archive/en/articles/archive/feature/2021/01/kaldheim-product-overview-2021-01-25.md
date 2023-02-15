@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Ari Zirulnik"
 [_metadata_:description]:- "An info-packed guide through all the exciting products coming with the release of Kaldheim."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1521919"
 [_metadata_:publish_date]:- "2021-01-25"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Kaldheim Product Overview"
-[_metadata_:wayback_capture_timestamp]:- "2021-01-26 01:09:18+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-01-26 01:09:18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210126010918id_/https://magic.wizards.com/en/articles/archive/feature/kaldheim-product-overview-2021-01-25"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/kaldheim-product-overview-2021-01-25"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Deck Contents Boltslinger Exiler  Bringing Legacy to the Masses The Legacy format allows players to play with cards from the entirety of Magic's rich history. However, with thousands of cards to choose from, creating a deck for this incredibly deep format can be a bit overwhelming. Enter the Magic Online Deck Series. The new `Boltslinger` and `Exiler` decks give you exactly"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "700896"
 [_metadata_:publish_date]:- "2010-11-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic Online Deck Series"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-08 21:42:32+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-08 21:42:32"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208214232id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-deck-series-2010-11-03"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-deck-series-2010-11-03"
 ---

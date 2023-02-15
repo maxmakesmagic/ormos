@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20211026214757/https://magic.wizards.com/en/articles/archive/feature/ask-wizards-september-2008-2008-09-01)
+[Link to Wayback Machine](https://web.archive.org/web/20210426063526/https://magic.wizards.com/en/articles/archive/feature/ask-wizards-september-2008-2008-09-01)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Do you have a question about Magic: The Gathering or Wizards of the Coast? Send it, along with your name and location, to us via this email form. We'll post a new question and answer each day.Why didn't you translate the word `Planeswalker` on Russian Shards of Alara cards?September 30, 2008 Q: Why didn't you translate the word `Planeswalker` on Russian Shards of Alara cards?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "663356"
 [_metadata_:publish_date]:- "2008-09-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Ask Wizards - September, 2008"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-26 21:47:57+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026214757id_/https://magic.wizards.com/en/articles/archive/feature/ask-wizards-september-2008-2008-09-01"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-26 06:35:26"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210426063526id_/https://magic.wizards.com/en/articles/archive/feature/ask-wizards-september-2008-2008-09-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ask-wizards-september-2008-2008-09-01"
 ---
 
@@ -102,10 +104,10 @@ Why have most of the white Soldiers in *Legions* lost their mouths?
 
 
 ![Lowland Tracker](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Lowland+Tracker)
-Thanks for asking, Ryan. Here's the deal with all the "mutations" in the *Legions* set: Deep in the Krosan Forest, the [Mirari](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mirari) lies buried in the ground, still attached to the sword [Kamahl](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kamahl) used to slay [Ambassador Laquatus](http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Ambassador%2BLaquatus). The Mirari's twisted magic is emanating from Krosa like radiation, causing everything on Otaria to become an amplified, exaggerated version of itself. Wizards begin to liquefy, Goblins grow feral and hunched, Clerics emanate light, and Soldiers become huge, speechless battle-tanks. And the freakification isn't over; wait until you see the next step of magical evolution in the upcoming *Scourge* set.
+Thanks for asking, Ryan. Here's the deal with all the "mutations" in the *Legions* set: Deep in the Krosan Forest, the [Mirari](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mirari) lies buried in the ground, still attached to the sword [Kamahl](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kamahl) used to slay [Ambassador Laquatus](http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Ambassador%2BLaquatus). The Mirari's twisted magic is emanating from Krosa like radiation, causing everything on Otaria to become an amplified, exaggerated version of itself. Wizards begin to liquefy, Goblins grow feral and hunched, Clerics emanate light, and Soldiers become huge, speechless battle-tanks. And the freakification isn't over; wait until you see the next step of magical evolution in the upcoming *Scourge* set.
 
 
-**Q:** What are the weird swirly people on the *Scourge* cards meant to be? I've seen them on [Scornful Egotist](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Scornful+Egotist), [Grip of Chaos](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grip+of+Chaos), and [Parallel Thoughts](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Parallel+Thoughts), but I'm sure they pop up more often. I thought they might be avatars of the mana in Otaria, but if so where are the green, white and black ones?  
+**Q:** What are the weird swirly people on the *Scourge* cards meant to be? I've seen them on [Scornful Egotist](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Scornful+Egotist), [Grip of Chaos](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grip+of+Chaos), and [Parallel Thoughts](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Parallel+Thoughts), but I'm sure they pop up more often. I thought they might be avatars of the mana in Otaria, but if so where are the green, white and black ones?  
  –Hayden, Halifax, NS, Canada 
 
 
@@ -113,7 +115,7 @@ Thanks for asking, Ryan. Here's the deal with all the "mutations" in the *Legion
 
 
 ![Scornful Egotist](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Scornful+Egotist)
-In a previous Ask Wizards response, I explained how the creatures on Otaria are being twisted and evolved by the [Mirari](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mirari)'s sickly magic. The 'liquid glass' creatures you see in the *Scourge* set are the final mutation/evolution step for Otaria's wizards. Their corporeal forms are almost drifting away -- they're becoming creatures of pure thought. The one on [Grip of Chaos](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grip+of+Chaos) has been turned from bluish to red by the strange power of the enchantment.
+In a previous Ask Wizards response, I explained how the creatures on Otaria are being twisted and evolved by the [Mirari](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mirari)'s sickly magic. The 'liquid glass' creatures you see in the *Scourge* set are the final mutation/evolution step for Otaria's wizards. Their corporeal forms are almost drifting away -- they're becoming creatures of pure thought. The one on [Grip of Chaos](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grip+of+Chaos) has been turned from bluish to red by the strange power of the enchantment.
 
 
 *These questions first appeared on [February 12](/en/articles/archive/ask-wizards-february-2003-2003-02-03) and [June 17](/en/articles/archive/ask-wizards-february-2003-2003-02-03), 2003. Ask Wizards–Classic is a weekly feature that highlights interesting questions and answers from the [Ask Wizards archives](http://archive.wizards.com/Magic/Magazine/Archive.aspx?tag=askwizards&description=ask%20wizards), which go back to January 2002.*
@@ -191,22 +193,22 @@ Joel,
 16 cards remain in the core set game of "Survivor":
 
 
-[Air Elemental](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Air+Elemental)  
-[Bog Wraith](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bog+Wraith)  
-[Drudge Skeletons](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Drudge+Skeletons)  
-[Fear](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fear)  
-[Giant Growth](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Giant+Growth)  
-[Giant Spider](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Giant+Spider)  
-[Goblin King](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+King)  
-[Grizzly Bears](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grizzly+Bears)  
-[Howling Mine](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Howling+Mine)  
-[Nightmare](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nightmare)  
-[Orcish Artillery](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Orcish+Artillery)  
-[Regeneration](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Regeneration)  
-[Rod of Ruin](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rod+of+Ruin)  
-[Samite Healer](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Samite+Healer)  
-[Scathe Zombies](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Scathe+Zombies)  
-[Wrath of God](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wrath+of+God)
+[Air Elemental](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Air+Elemental)  
+[Bog Wraith](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bog+Wraith)  
+[Drudge Skeletons](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Drudge+Skeletons)  
+[Fear](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fear)  
+[Giant Growth](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Giant+Growth)  
+[Giant Spider](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Giant+Spider)  
+[Goblin King](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+King)  
+[Grizzly Bears](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grizzly+Bears)  
+[Howling Mine](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Howling+Mine)  
+[Nightmare](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nightmare)  
+[Orcish Artillery](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Orcish+Artillery)  
+[Regeneration](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Regeneration)  
+[Rod of Ruin](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rod+of+Ruin)  
+[Samite Healer](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Samite+Healer)  
+[Scathe Zombies](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Scathe+Zombies)  
+[Wrath of God](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wrath+of+God)
 
 
 (You can see my columns on the set by set eliminations [here](/en/articles/archive/making-magic/outwit-outplay-outlast-2005-07-25) and [here](/en/articles/archive/making-magic/x-files-2007-07-23).)
@@ -266,11 +268,11 @@ What was last weeks theme for Card of the Day?
 For people who don't know what the question is about, a little background information is in order. The Card of the Day usually has a secret theme each week, often involving strained puns on the names of the cards. For example, a few weeks ago, we had this cycle:
 
 
-[Blind Seer](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Blind+Seer)  
-[Horn of Deafening](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Horn+of+Deafening)  
-[Phage the Untouchable](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Phage+the+Untouchable)  
-[Scrubland](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Scrubland)  
-[Faceless Butcher](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Faceless+Butcher)
+[Blind Seer](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Blind+Seer)  
+[Horn of Deafening](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Horn+of+Deafening)  
+[Phage the Untouchable](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Phage+the+Untouchable)  
+[Scrubland](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Scrubland)  
+[Faceless Butcher](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Faceless+Butcher)
 
 
 The theme for that cycle was "cards that reference missing one of the five senses." As you can see, it starts fairly clean, with "blind" and "deaf" right there in the card names. Then Phage is "untouchable", so that's sort of like "no sense of touch." Then, for "no taste", there's Scru**bland**, which is admittedly kind of a cheat. And we couldn't find any cards at all for "no sense of smell", so we had to go with Faceless Butcher and a terrible joke about it having no nose. Hilarious!
@@ -282,11 +284,11 @@ Before getting to last week's (which wasn't really fair, since it combined a fai
 **August 5-7**
 
 
-[Rubinia Soulsinger](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rubinia+Soulsinger)  
-[Springleaf Drum](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Springleaf+Drum)  
-[Clambassadors](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Clambassadors)  
-[Hair-Strung Koto](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hair-Strung+Koto)  
-[Nightmare](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nightmare)
+[Rubinia Soulsinger](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rubinia+Soulsinger)  
+[Springleaf Drum](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Springleaf+Drum)  
+[Clambassadors](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Clambassadors)  
+[Hair-Strung Koto](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hair-Strung+Koto)  
+[Nightmare](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nightmare)
 
 
 Click here to see the theme!
@@ -298,11 +300,11 @@ Click here to see the theme!
 **July 21-28**
 
 
-[Barbary Apes](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Barbary+Apes)  
-[Echo Chamber](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Echo+Chamber)  
-[Copy Enchantment](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Copy+Enchantment)  
-[Zuo Ci, the Mocking Sage](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Zuo+Ci%2C+the+Mocking+Sage)  
-[Elvish Impersonators](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Elvish+Impersonators)
+[Barbary Apes](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Barbary+Apes)  
+[Echo Chamber](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Echo+Chamber)  
+[Copy Enchantment](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Copy+Enchantment)  
+[Zuo Ci, the Mocking Sage](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Zuo+Ci%2C+the+Mocking+Sage)  
+[Elvish Impersonators](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Elvish+Impersonators)
 
 
 Click here to see the theme!
@@ -314,50 +316,50 @@ Click here to see the theme!
 **June 24-27**
 
 
-[Street Wraith](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Street+Wraith)  
-[Castle Sengir](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Castle+Sengir)  
-[Search for Tomorrow](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Search+for+Tomorrow)  
-[Adventurers' Guildhouse](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Adventurers%27+Guildhouse)  
-[New Frontiers](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=New+Frontiers)
+[Street Wraith](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Street+Wraith)  
+[Castle Sengir](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Castle+Sengir)  
+[Search for Tomorrow](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Search+for+Tomorrow)  
+[Adventurers' Guildhouse](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Adventurers%27+Guildhouse)  
+[New Frontiers](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=New+Frontiers)
 
 
 Click here to see the theme!
 
 
-**Theme: The original five areas of Disneyland.** I was on vacation *at* Disneyland this week, so I made the cycle ahead of time. [Castle Sengir](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Castle+Sengir) is a bit of a cheat (it represents Fantasyland), but it turns out there aren't any cards with the word "Fantasy" on them anywhere.
+**Theme: The original five areas of Disneyland.** I was on vacation *at* Disneyland this week, so I made the cycle ahead of time. [Castle Sengir](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Castle+Sengir) is a bit of a cheat (it represents Fantasyland), but it turns out there aren't any cards with the word "Fantasy" on them anywhere.
 
 
 **May 5-20**
 
 
-[Rustspore Ram](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rustspore+Ram)  
-[Bull Aurochs](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bull+Aurochs)  
-[Twincast](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Twincast)  
-[Wormfang Crab](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wormfang+Crab)  
-[Jamuraan Lion](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Jamuraan+Lion)  
-[Phage the Untouchable](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Phage+the+Untouchable)  
-[Crooked Scales](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crooked+Scales)  
-[Dross Scorpion](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dross+Scorpion)  
-[Centaur Archer](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Centaur+Archer)  
-[Scapegoat](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Scapegoat)  
-[Clearwater Goblet](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Clearwater+Goblet)  
-[Island Fish Jasconius](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Island+Fish+Jasconius)
+[Rustspore Ram](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rustspore+Ram)  
+[Bull Aurochs](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bull+Aurochs)  
+[Twincast](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Twincast)  
+[Wormfang Crab](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wormfang+Crab)  
+[Jamuraan Lion](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Jamuraan+Lion)  
+[Phage the Untouchable](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Phage+the+Untouchable)  
+[Crooked Scales](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crooked+Scales)  
+[Dross Scorpion](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dross+Scorpion)  
+[Centaur Archer](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Centaur+Archer)  
+[Scapegoat](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Scapegoat)  
+[Clearwater Goblet](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Clearwater+Goblet)  
+[Island Fish Jasconius](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Island+Fish+Jasconius)
 
 
 Click here to see the theme!
 
 
-**Theme: Signs of the (western) Zodiac.** I think this might be our only cycle that went for more than a week. And we got through it without having to resort to the Zodiac creatures from *Portal Three Kingdoms*! Since this cycle ended on a Tuesday, we had to decide what to do for the rest of that week. We ended up going with [Iceberg](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Iceberg), [Cloud Pirates](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cloud+Pirates), and [Reach Through Mists](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Reach+Through+Mists) to go along with the vague water-theme suggested by [Clearwater Goblet](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Clearwater+Goblet) and [Island Fish Jasconius](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Island+Fish+Jasconius).
+**Theme: Signs of the (western) Zodiac.** I think this might be our only cycle that went for more than a week. And we got through it without having to resort to the Zodiac creatures from *Portal Three Kingdoms*! Since this cycle ended on a Tuesday, we had to decide what to do for the rest of that week. We ended up going with [Iceberg](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Iceberg), [Cloud Pirates](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cloud+Pirates), and [Reach Through Mists](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Reach+Through+Mists) to go along with the vague water-theme suggested by [Clearwater Goblet](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Clearwater+Goblet) and [Island Fish Jasconius](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Island+Fish+Jasconius).
 
 
 **April 7-11**
 
 
-[Surge of Strength](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Surge+of+Strength)  
-[Bonesplitter](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bonesplitter)  
-[Warrior's Oath](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Warrior%27s+Oath)  
-[Disrupt](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Disrupt)  
-[Glittering Wish](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Glittering+Wish)
+[Surge of Strength](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Surge+of+Strength)  
+[Bonesplitter](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bonesplitter)  
+[Warrior's Oath](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Warrior%27s+Oath)  
+[Disrupt](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Disrupt)  
+[Glittering Wish](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Glittering+Wish)
 
 
 Click here to see the theme!
@@ -366,7 +368,7 @@ Click here to see the theme!
 **Theme: Cards whose names contain their precise mana cost.**  This is one of my favorite Card of the Day themes we've ever done, and I don't think the forums guessed it. It started when I noticed Su![](https://web.archive.org/web/20161227130159im_/http://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/red.gif)![](https://web.archive.org/web/20220123123600im_/https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/green.gif)e of Strength and Wa![](https://web.archive.org/web/20161227130159im_/http://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/red.gif)![](https://web.archive.org/web/20161227130159im_/http://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/red.gif)ior's Oath. We threw in Disr![](https://web.archive.org/web/20161115194122im_/http://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/blue.gif)pt, but didn't want to do two cards like that. After we decided we didn't mind spaces, Glitterin![](https://web.archive.org/web/20220123123600im_/https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/green.gif)![](https://web.archive.org/web/20161227125855im_/http://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/white.gif)ish got added to the list. Incidentally, its initials are *also* ![](https://web.archive.org/web/20220123123600im_/https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/green.gif)![](https://web.archive.org/web/20161227125855im_/http://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/white.gif). That's kind of neat.
 
 
-But we needed one more! Finally, and this was a decision that caused a surprising amount of debate, we went with [Bonesplitter](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bonesplitter). Personally, I think that its cost of ![](https://web.archive.org/web/20211201201921im_/https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/colorless1.gif) is perfectly demonstrated with B**one**splitter, but some member of the team think that's an outrageous cheat. I tried to convince them that one in Roman Numerals is "I", so you could have Bonespl**I**tter, but they weren't crazy about that either. Then I pointed out that if you're using a typewriter, you don't normally use the "1" key. Instead, you use the lowercase "l", hence: Bonesp**l**itter.
+But we needed one more! Finally, and this was a decision that caused a surprising amount of debate, we went with [Bonesplitter](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bonesplitter). Personally, I think that its cost of ![](https://web.archive.org/web/20211201201921im_/https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/colorless1.gif) is perfectly demonstrated with B**one**splitter, but some member of the team think that's an outrageous cheat. I tried to convince them that one in Roman Numerals is "I", so you could have Bonespl**I**tter, but they weren't crazy about that either. Then I pointed out that if you're using a typewriter, you don't normally use the "1" key. Instead, you use the lowercase "l", hence: Bonesp**l**itter.
 
 
 Okay, so that's the sort of thing we're talking about. But what about last week?
@@ -375,11 +377,11 @@ Okay, so that's the sort of thing we're talking about. But what about last week?
 **September 15-19**
 
 
-[Flash](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flash)  
-[Grand Melee](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grand+Melee)  
-[Pit Scorpion](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pit+Scorpion)  
-[Krazy Kow](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Krazy+Kow)  
-[Meddling Kids](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Meddling+Kids)
+[Flash](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flash)  
+[Grand Melee](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grand+Melee)  
+[Pit Scorpion](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pit+Scorpion)  
+[Krazy Kow](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Krazy+Kow)  
+[Meddling Kids](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Meddling+Kids)
 
 
 Click here to see the theme!
@@ -388,16 +390,16 @@ Click here to see the theme!
 **Theme: Grandmaster Flash and the Furious Five.** They were an important rap group a couple of decades ago. Have you ever heard "White Lines"? No? How about "The Message"? Man, you kids today. Grandmaster Flash is the DJ on the Chris Rock show these days. You've heard of Chris Rock, right?
 
 
-Okay, so it was kind of an obscure reference, I guess. But how good a job did we do with the cards? [Flash](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flash) is Grandmaster Flash. That one's fine. And [Grand Melee](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grand+Melee) is Melle Mel. Kind of a stretch there, maybe. I went with "Grand" Melee partly because [Melee](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Melee) isn't that interesting a card, and partly because he's **Grand**master Melle Mel. Cough. Then one of the Furious Five was called "Scorpio", so you've got [Pit Scorpion](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pit+Scorpion). And for Cowboy, [Krazy Kow](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Krazy+Kow). Ditto Kid Creole (not the one that sang "Endicott"; this was a different Kid Creole) and [Meddling **Kid**s](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Meddling+Kids).
+Okay, so it was kind of an obscure reference, I guess. But how good a job did we do with the cards? [Flash](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flash) is Grandmaster Flash. That one's fine. And [Grand Melee](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grand+Melee) is Melle Mel. Kind of a stretch there, maybe. I went with "Grand" Melee partly because [Melee](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Melee) isn't that interesting a card, and partly because he's **Grand**master Melle Mel. Cough. Then one of the Furious Five was called "Scorpio", so you've got [Pit Scorpion](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pit+Scorpion). And for Cowboy, [Krazy Kow](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Krazy+Kow). Ditto Kid Creole (not the one that sang "Endicott"; this was a different Kid Creole) and [Meddling **Kid**s](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Meddling+Kids).
 
 
-Already you're thinking this was an unfair cycle. It's a tough reference to begin with, and at least two of the cards are stretches. But it's even more unfair than that. You see, it was Grandmaster Flash *and* the Furious Five. He wasn't one of the Five himself. That means that in order to shoehorn [Flash](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flash) into the cycle, I had to bump someone. Sorry, Rahiem; your name was just too hard to find a card to match.
+Already you're thinking this was an unfair cycle. It's a tough reference to begin with, and at least two of the cards are stretches. But it's even more unfair than that. You see, it was Grandmaster Flash *and* the Furious Five. He wasn't one of the Five himself. That means that in order to shoehorn [Flash](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flash) into the cycle, I had to bump someone. Sorry, Rahiem; your name was just too hard to find a card to match.
 
 
   
 What is the story behind Sword of Fire and Ice and Sword of Light and Shadow?  
  –Billy  
-– ASK WIZARDS CLASSIC**September 22, 2008 – Ask Wizards Classic****Q:** I was wondering what is the story behind [Sword of Fire and Ice](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sword+of+Fire+and+Ice) and [Sword of Light and Shadow](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sword+of+Light+and+Shadow)? Why did you leave out green? And how did you choose the abilities?  
+– ASK WIZARDS CLASSIC**September 22, 2008 – Ask Wizards Classic****Q:** I was wondering what is the story behind [Sword of Fire and Ice](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sword+of+Fire+and+Ice) and [Sword of Light and Shadow](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sword+of+Light+and+Shadow)? Why did you leave out green? And how did you choose the abilities?  
  –Eric, Winnipeg, MB, Canada 
 
 
@@ -518,7 +520,7 @@ Which is the favorite movie of the **Magic**  R&D members?
   
 How do the name and picture of Ancestral Recall tie in to the action of the spell?  
 **September 17, 2008**
-**Q:** How do the name and picture of [Ancestral Recall](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ancestral+Recall) tie in to the action of the spell?  
+**Q:** How do the name and picture of [Ancestral Recall](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ancestral+Recall) tie in to the action of the spell?  
  –Cody, Burlington, VT, USA
 
 
@@ -529,16 +531,16 @@ Hmm. An oldie, eh? Let's look at the card:
 
 
 ![Ancestral Recall](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Ancestral+Recall)
-And (since I forgot this step when I answered the [Tarmogoyf](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tarmogoyf) question last week), let's look at a larger version of the art:
+And (since I forgot this step when I answered the [Tarmogoyf](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tarmogoyf) question last week), let's look at a larger version of the art:
 
 
-![Ancestral Recall](https://media.magic.wizards.com/image_legacy_migration/mtg/images/daily/arcana/aw_091708.jpg)*[Ancestral Recall](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ancestral+Recall) full art by Mark Poole*
+![Ancestral Recall](https://media.magic.wizards.com/image_legacy_migration/mtg/images/daily/arcana/aw_091708.jpg)*[Ancestral Recall](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ancestral+Recall) full art by Mark Poole*
 
 
 Unfortunately, we don't have the art description on file, which is the sort of thing that happens with fifteen-year-old cards. However, it just so happens that I, um, "know" the answer to this question. See the slight glow around the guy on the right? That is meant to suggest that he's not physically there in the vaguely Aztec setting. He's been brought back to the time of his ancestors, and now he's remembering things that they knew.
 
 
-So that's the connection between the name and the art. Mechanically, this knowledge of his ancestors is represented by getting a few more cards. In the same way that "brain damage" frequently means "discard a card" ([Addle](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Addle), [Brainspoil](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Brainspoil), [Skull Fracture](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skull+Fracture), and so on), "learning things" translates to "draw some cards" (directly with [Careful Study](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Careful+Study) and [Stroke of Genius](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stroke+of+Genius) and indirectly with cards like [Collective Unconscious](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Collective+Unconscious)). This seems like a good time to mention [The Bake a Cake Example](/en/articles/archive/bake-cake-example-2005-11-22), which describes one way to imagine what cards in your library "mean", although that example doesn't explore the flavor difference between the hand and the graveyard.
+So that's the connection between the name and the art. Mechanically, this knowledge of his ancestors is represented by getting a few more cards. In the same way that "brain damage" frequently means "discard a card" ([Addle](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Addle), [Brainspoil](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Brainspoil), [Skull Fracture](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skull+Fracture), and so on), "learning things" translates to "draw some cards" (directly with [Careful Study](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Careful+Study) and [Stroke of Genius](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stroke+of+Genius) and indirectly with cards like [Collective Unconscious](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Collective+Unconscious)). This seems like a good time to mention [The Bake a Cake Example](/en/articles/archive/bake-cake-example-2005-11-22), which describes one way to imagine what cards in your library "mean", although that example doesn't explore the flavor difference between the hand and the graveyard.
 
 
   
@@ -630,40 +632,40 @@ RULES CORNER**September 12, 2008 – Magic Rules Corner**
 **A:** From the **Magic** Rules Corner:
 
 
-With [Lignify](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lignify), [Godhead of Awe](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Godhead+of+Awe), [Snakeform](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Snakeform), the *Eventide* Mimics, and more arriving just in the last year, variations on this question have come up a lot. Rather than answer them piecemeal, we decided to bundle them together and teach you the underlying structure that helps determine the answers. We'll give a few examples at the end.
+With [Lignify](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lignify), [Godhead of Awe](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Godhead+of+Awe), [Snakeform](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Snakeform), the *Eventide* Mimics, and more arriving just in the last year, variations on this question have come up a lot. Rather than answer them piecemeal, we decided to bundle them together and teach you the underlying structure that helps determine the answers. We'll give a few examples at the end.
 
 
 Rule 418.5 in the Comprehensive Rules covers the interaction of *continuous effects*—in other words, it tells you how to determine what characteristics a creature or other object in the game ends up with when multiple continuous effects apply to it at once. This is accomplished through a series of *layers*, which determine the order in which to apply those continuous effects to find the end result.
 
 
-The first question, then, is "What is a continuous effect?" It's an effect from a spell or ability that lasts for some actual length of time. [Giant Growth](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Giant+Growth) creates a continuous effect, because its effect lasts until the end of the turn. Each of [Figure of Destiny](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Figure+of+Destiny)'s abilities creates a continuous effect, because its effect lasts until the end of the game. [Glorious Anthem](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Glorious+Anthem)'s ability creates a continuous effect, because its effect is true for as long as [Glorious Anthem](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Glorious+Anthem) is in play. (*One-shot effects*, on the other hand, happen immediately and then have no lasting effect. "Draw three cards" is an example of a one-shot effect.)
+The first question, then, is "What is a continuous effect?" It's an effect from a spell or ability that lasts for some actual length of time. [Giant Growth](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Giant+Growth) creates a continuous effect, because its effect lasts until the end of the turn. Each of [Figure of Destiny](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Figure+of+Destiny)'s abilities creates a continuous effect, because its effect lasts until the end of the game. [Glorious Anthem](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Glorious+Anthem)'s ability creates a continuous effect, because its effect is true for as long as [Glorious Anthem](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Glorious+Anthem) is in play. (*One-shot effects*, on the other hand, happen immediately and then have no lasting effect. "Draw three cards" is an example of a one-shot effect.)
 
 
-Understanding how the game handles continuous effects can be a mind-bending concept—but the key is right there in the name, and in the difference between continuous effects and one-shot effects. A one-shot effect (from [Harmonize](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Harmonize) or [Terror](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Terror), for example) changes the game state then immediately dissipates. A continuous effect, on the other hand, hangs around. [Giant Growth](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Giant+Growth) might feel like a one-shot effect because it's an instant, but that's not how it behaves. It doesn't deposit a +3/+3 bump on a creature and go away. Rather, imagine that its effect invisibly hovers over that creature for the stated period of time. As long as it's hovering, the +3/+3 bump is there. The tricky thing is that all continuous effects hover like this. If a creature is affected by [Mirrorweave](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mirrorweave), [Mind Bend](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mind+Bend), [Lignify](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lignify), [Night of Souls' Betrayal](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Night+of+Souls%27+Betrayal), and [Giant Growth](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Giant+Growth), that creature has a lot of stuff hovering over it! The layer system determines what order those effects are applied in. Importantly, the order in which they're applied is *not* *necessarily* the order in which they showed up!
+Understanding how the game handles continuous effects can be a mind-bending concept—but the key is right there in the name, and in the difference between continuous effects and one-shot effects. A one-shot effect (from [Harmonize](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Harmonize) or [Terror](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Terror), for example) changes the game state then immediately dissipates. A continuous effect, on the other hand, hangs around. [Giant Growth](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Giant+Growth) might feel like a one-shot effect because it's an instant, but that's not how it behaves. It doesn't deposit a +3/+3 bump on a creature and go away. Rather, imagine that its effect invisibly hovers over that creature for the stated period of time. As long as it's hovering, the +3/+3 bump is there. The tricky thing is that all continuous effects hover like this. If a creature is affected by [Mirrorweave](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mirrorweave), [Mind Bend](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mind+Bend), [Lignify](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lignify), [Night of Souls' Betrayal](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Night+of+Souls%27+Betrayal), and [Giant Growth](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Giant+Growth), that creature has a lot of stuff hovering over it! The layer system determines what order those effects are applied in. Importantly, the order in which they're applied is *not* *necessarily* the order in which they showed up!
 
 
 ![Mirrorweave](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Mirrorweave)So let's take a look at the layers. There are six of them, and they're applied in order from 1 to 6. In every moment of every game, the game automatically rebuilds each permanent from the ground up. It starts with the printed wording on a card (or the original characteristics of a token), then applies all the continuous effects hovering over it in layer order, and winds up with the permanent's current characteristics. It's an eternal refresh.
  The unofficial Layer 0 is the original card or token. That's what you start with.  
-**Layer 1 is for copy effects.** ([Mirrorweave](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mirrorweave), [Clone](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Clone), and so on.) Those come first.  
-**Layer 2 is for control-change effects.** ([Threaten](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Threaten), [Confiscate](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Confiscate), and so on.)  
-**Layer 3 is for text-changing effects.** ([Glamerdye](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Glamerdye), [Artificial Evolution](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Artificial+Evolution), and so on.)  
-**Layer 4 is for type-changing effects.** ([Imagecrafter](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Imagecrafter), [Leyline of Singularity](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Leyline+of+Singularity), and so on.)  
-**Layer 5 is a catchall; it's for everything else except power and toughness-changing effects.** Generally, this means things that change a permanent's colors and abilities ([Aphotic Wisps](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aphotic+Wisps), [Canopy Claws](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Canopy+Claws), and so on.)  
+**Layer 1 is for copy effects.** ([Mirrorweave](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mirrorweave), [Clone](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Clone), and so on.) Those come first.  
+**Layer 2 is for control-change effects.** ([Threaten](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Threaten), [Confiscate](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Confiscate), and so on.)  
+**Layer 3 is for text-changing effects.** ([Glamerdye](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Glamerdye), [Artificial Evolution](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Artificial+Evolution), and so on.)  
+**Layer 4 is for type-changing effects.** ([Imagecrafter](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Imagecrafter), [Leyline of Singularity](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Leyline+of+Singularity), and so on.)  
+**Layer 5 is a catchall; it's for everything else except power and toughness-changing effects.** Generally, this means things that change a permanent's colors and abilities ([Aphotic Wisps](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aphotic+Wisps), [Canopy Claws](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Canopy+Claws), and so on.)  
 **Layer 6 is for power- and toughness-changing effects.** But there's more to this story...
 
 
-We'll get to layer 6 in a moment. First, you may have noticed that lots of spells and abilities have effects that fit into multiple layers. In those cases, the effects are split apart and each piece applies in the appropriate layer. For example, [Treetop Village](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Treetop+Village)'s effect says that it becomes a creature that's still a land (layer 4), becomes an Ape (layer 4), becomes green (layer 5), has trample (layer 5), and becomes 3/3 (layer 6)!
+We'll get to layer 6 in a moment. First, you may have noticed that lots of spells and abilities have effects that fit into multiple layers. In those cases, the effects are split apart and each piece applies in the appropriate layer. For example, [Treetop Village](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Treetop+Village)'s effect says that it becomes a creature that's still a land (layer 4), becomes an Ape (layer 4), becomes green (layer 5), has trample (layer 5), and becomes 3/3 (layer 6)!
 
 
 OK, back to layer 6. There are lots of different kinds of effects that can change a creature's power and toughness, so layer 6 has a layer system all its own. There are five sublayers, and they're applied in order from a to e.
 
 
 **Sublayer 6a is for characteristic-defining abilities (or CDAs).**  
- If a creature has a \* in its power/toughness box, it's got a CDA to define its power, toughness, or both. This comes first because it's a substitute for a number in the power/toughness box. Examples include [Overbeing of Myth](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Overbeing+of+Myth), [Coiling Woodworm](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Coiling+Woodworm), and [Tarmogoyf](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tarmogoyf).
+ If a creature has a \* in its power/toughness box, it's got a CDA to define its power, toughness, or both. This comes first because it's a substitute for a number in the power/toughness box. Examples include [Overbeing of Myth](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Overbeing+of+Myth), [Coiling Woodworm](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Coiling+Woodworm), and [Tarmogoyf](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tarmogoyf).
 
 
 **Sublayer 6b is a catchall; it's for everything not covered in sublayers 6a, 6c, 6d, or 6e.**  
- Specifically, this covers effects from resolved spells and abilities that change a creature's power or toughness (like [Giant Growth](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Giant+Growth) or [Afflict](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Afflict)), effects from resolved spells and abilities that set a creature's power or toughness to a specific value (like [Battlegate Mimic](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Battlegate+Mimic) or [Snakeform](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Snakeform)), and effects from static abilities that set a creature's power or toughness to a specific value (like [Lignify](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lignify) or [Godhead of Awe](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Godhead+of+Awe)).
+ Specifically, this covers effects from resolved spells and abilities that change a creature's power or toughness (like [Giant Growth](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Giant+Growth) or [Afflict](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Afflict)), effects from resolved spells and abilities that set a creature's power or toughness to a specific value (like [Battlegate Mimic](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Battlegate+Mimic) or [Snakeform](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Snakeform)), and effects from static abilities that set a creature's power or toughness to a specific value (like [Lignify](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lignify) or [Godhead of Awe](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Godhead+of+Awe)).
 
 
 **Sublayer 6c is for changes from counters.**  
@@ -671,11 +673,11 @@ OK, back to layer 6. There are lots of different kinds of effects that can chang
 
 
 **Sublayer 6d is for effects from static abilities that modify power or toughness but don't set them to a specific value.**  
- These are effects that, like counters, are sitting on the board giving a constant power/toughness bonus (or a constant negative). Examples include [Glorious Anthem](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Glorious+Anthem), [Night of Souls' Betrayal](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Night+of+Souls%27+Betrayal), [Blanchwood Armor](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Blanchwood+Armor), and [Vulshok Battlegear](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vulshok+Battlegear). Applying them in this sublayer means they *always* apply.
+ These are effects that, like counters, are sitting on the board giving a constant power/toughness bonus (or a constant negative). Examples include [Glorious Anthem](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Glorious+Anthem), [Night of Souls' Betrayal](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Night+of+Souls%27+Betrayal), [Blanchwood Armor](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Blanchwood+Armor), and [Vulshok Battlegear](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vulshok+Battlegear). Applying them in this sublayer means they *always* apply.
 
 
 **Sublayer 6e is for effects that switch a creature's power and toughness.**  
- These are always applied last. That makes the bookkeeping easier; you can do all of the other calculations first, then switch the resulting values. Examples include [Inside Out](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Inside+Out) and [Crag Puca](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crag+Puca).
+ These are always applied last. That makes the bookkeeping easier; you can do all of the other calculations first, then switch the resulting values. Examples include [Inside Out](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Inside+Out) and [Crag Puca](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crag+Puca).
 
 
 Effects that apply in sublayer 6c, 6d, and 6e never conflict with one another—they all apply. But effects in sublayer 6b can conflict with one another, and that's where the confusion comes in. If effects within a particular layer or sublayer overwrite one another (for example, one effect says a permanent is green then a later one says it's blue, or one effect gives a creature +3/+3 then a later one says it becomes 1/1), the effects are usually applied in *timestamp order*. This is a fancy way of saying that they're applied in the order that they first took effect, so the most recently played one wins. There are exceptions, but they're obscure enough to not worry about.
@@ -684,7 +686,7 @@ Effects that apply in sublayer 6c, 6d, and 6e never conflict with one another—
 ### Layer 6 in Action
 
 
-*Example 1:* [Shorecrasher Mimic](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shorecrasher+Mimic) (2/1) is in play. Its controller plays a spell that's green and blue. [Shorecrasher Mimic](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shorecrasher+Mimic)'s ability triggers and resolves, and it becomes 5/3 (layer 6b). Later in the turn, it's targeted by [Giant Growth](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Giant+Growth) (also layer 6b). The effects are applied in timestamp order, so [Shorecrasher Mimic](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shorecrasher+Mimic) is 8/6.
+*Example 1:* [Shorecrasher Mimic](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shorecrasher+Mimic) (2/1) is in play. Its controller plays a spell that's green and blue. [Shorecrasher Mimic](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shorecrasher+Mimic)'s ability triggers and resolves, and it becomes 5/3 (layer 6b). Later in the turn, it's targeted by [Giant Growth](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Giant+Growth) (also layer 6b). The effects are applied in timestamp order, so [Shorecrasher Mimic](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shorecrasher+Mimic) is 8/6.
 
 
 
@@ -693,10 +695,10 @@ Effects that apply in sublayer 6c, 6d, and 6e never conflict with one another—
 | --- | --- |
 | Shorecrasher Mimic | Giant Growth |
 
-*Example 2:* [Shorecrasher Mimic](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shorecrasher+Mimic) (2/1) is targeted by [Giant Growth](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Giant+Growth) (layer 6b), giving it +3/+3, making it 5/4. Later in the turn, its controller plays a spell that's green and blue. [Shorecrasher Mimic](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shorecrasher+Mimic)'s ability triggers and resolves (also layer 6b). The effects are applied in timestamp order, so [Shorecrasher Mimic](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shorecrasher+Mimic) is 5/3.
+*Example 2:* [Shorecrasher Mimic](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shorecrasher+Mimic) (2/1) is targeted by [Giant Growth](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Giant+Growth) (layer 6b), giving it +3/+3, making it 5/4. Later in the turn, its controller plays a spell that's green and blue. [Shorecrasher Mimic](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shorecrasher+Mimic)'s ability triggers and resolves (also layer 6b). The effects are applied in timestamp order, so [Shorecrasher Mimic](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shorecrasher+Mimic) is 5/3.
 
 
-*Example 3:* [Hill Giant](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hill+Giant) (3/3) is enchanted with [Moldervine Cloak](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Moldervine+Cloak) (layer 6d). It's 6/6. It's then targeted by [Snakeform](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Snakeform), setting its power and toughness to 1/1 (layer 6b). [Hill Giant](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hill+Giant) is 4/4.
+*Example 3:* [Hill Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hill+Giant) (3/3) is enchanted with [Moldervine Cloak](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Moldervine+Cloak) (layer 6d). It's 6/6. It's then targeted by [Snakeform](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Snakeform), setting its power and toughness to 1/1 (layer 6b). [Hill Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hill+Giant) is 4/4.
 
 
 
@@ -705,11 +707,11 @@ Effects that apply in sublayer 6c, 6d, and 6e never conflict with one another—
 | --- | --- |
 | Moldervine Cloak | Snakeform |
 
-*Example 4:* [Hill Giant](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hill+Giant) (3/3) has two -1/-1 counters on it (layer 6c). It's 1/1. [Godhead of Awe](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Godhead+of+Awe) comes into play, setting all creatures' power and toughness to 1/1 (layer 6b). [Hill Giant](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hill+Giant) is -1/-1. Its toughness is less than 1, so it's put into its owner's graveyard.
+*Example 4:* [Hill Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hill+Giant) (3/3) has two -1/-1 counters on it (layer 6c). It's 1/1. [Godhead of Awe](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Godhead+of+Awe) comes into play, setting all creatures' power and toughness to 1/1 (layer 6b). [Hill Giant](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hill+Giant) is -1/-1. Its toughness is less than 1, so it's put into its owner's graveyard.
 
 
 ![Godhead of Awe](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Godhead+of+Awe)
-*Example 5:* [Giant Spider](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Giant+Spider) (2/4) is targeted by [Inside Out](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Inside+Out) (layer 6e). It's 4/2. Later in the turn, it's enchanted with [Torpor Dust](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Torpor+Dust) (layer 6d). [Giant Spider](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Giant+Spider) is 4/-1. Its toughness is less than 1, so it's put into its owner's graveyard.
+*Example 5:* [Giant Spider](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Giant+Spider) (2/4) is targeted by [Inside Out](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Inside+Out) (layer 6e). It's 4/2. Later in the turn, it's enchanted with [Torpor Dust](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Torpor+Dust) (layer 6d). [Giant Spider](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Giant+Spider) is 4/-1. Its toughness is less than 1, so it's put into its owner's graveyard.
 
 
 
@@ -718,15 +720,15 @@ Effects that apply in sublayer 6c, 6d, and 6e never conflict with one another—
 | --- | --- |
 | Inside Out | Torpor Dust |
 
-*Example 6:* [Overbeing of Myth](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Overbeing+of+Myth) is in play. Its controller has five cards in hand, so it's 5/5 (layer 6a). An effect puts two +1/+1 counters on it (layer 6c), making it 7/7. It's targeted with [Giant Growth](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Giant+Growth) (layer 6b), making it 10/10. Later in the turn, it's targeted by [Snakeform](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Snakeform) (layer 6b). [Snakeform](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Snakeform) applies after the Overbeing's CDA (because of sublayer order) and after [Giant Growth](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Giant+Growth)'s effect (because of timestamp order), but before the effect from the two counters (because of sublayer order again). [Overbeing of Myth](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Overbeing+of+Myth) is 3/3.
+*Example 6:* [Overbeing of Myth](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Overbeing+of+Myth) is in play. Its controller has five cards in hand, so it's 5/5 (layer 6a). An effect puts two +1/+1 counters on it (layer 6c), making it 7/7. It's targeted with [Giant Growth](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Giant+Growth) (layer 6b), making it 10/10. Later in the turn, it's targeted by [Snakeform](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Snakeform) (layer 6b). [Snakeform](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Snakeform) applies after the Overbeing's CDA (because of sublayer order) and after [Giant Growth](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Giant+Growth)'s effect (because of timestamp order), but before the effect from the two counters (because of sublayer order again). [Overbeing of Myth](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Overbeing+of+Myth) is 3/3.
 
 
 ![Overbeing of Myth](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Overbeing+of+Myth)
 *Example 7:*
-[Giant Spider](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Giant+Spider) (2/4) is targeted by [Giant Growth](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Giant+Growth) (layer 6b). It's 5/7. [Mirrorweave](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mirrorweave) then turns it into a copy of [Wood Elves](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wood+Elves) (layer 1). It's now a 4/4 [Wood Elves](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wood+Elves).
+[Giant Spider](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Giant+Spider) (2/4) is targeted by [Giant Growth](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Giant+Growth) (layer 6b). It's 5/7. [Mirrorweave](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mirrorweave) then turns it into a copy of [Wood Elves](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wood+Elves) (layer 1). It's now a 4/4 [Wood Elves](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wood+Elves).
 
 
-So next time you play [Wings of Velis Vel](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wings+of+Velis+Vel) on an activated [Marsh Flitter](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Marsh+Flitter) with two +1/+1 counters on it, you'll know what happens!
+So next time you play [Wings of Velis Vel](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wings+of+Velis+Vel) on an activated [Marsh Flitter](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Marsh+Flitter) with two +1/+1 counters on it, you'll know what happens!
 
 
 ...Right?
@@ -792,7 +794,7 @@ If you are eligible for multiple National Championships, and you play in the Reg
   
 What was the art description for Tarmogoyf?  
 **September 10, 2008**
-**Q:** [Tarmogoyf](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tarmogoyf) is considered one of the best creatures of all time, but the art is so dark it is difficult to tell what is going on in the picture. What was the art description for Goyf?  
+**Q:** [Tarmogoyf](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tarmogoyf) is considered one of the best creatures of all time, but the art is so dark it is difficult to tell what is going on in the picture. What was the art description for Goyf?  
  –Andy, Minneapolis, MN, USA
 
 
@@ -852,7 +854,7 @@ Seriously though, movie production designers will often place props into a scene
 
 
   
-What happens to blockers when you attack with two [Nath's Elite](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nath%27s+Elite) or similar creatures? I can't even find an answer for this in the comprehensive rules.  
+What happens to blockers when you attack with two [Nath's Elite](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nath%27s+Elite) or similar creatures? I can't even find an answer for this in the comprehensive rules.  
 RULES CORNER**September 5, 2008 – Magic Rules Corner**
 **Q:** What happens to blockers when you attack with two Nath's Elite or similar creatures? I can't even find an answer for this in the comprehensive rules.  
  –Brendan, Southbury, CT, USA
@@ -874,17 +876,17 @@ That section of the Comp. Rules lays out two types of effects that can change at
 Restrictions are pretty simple to deal with: all restrictions must be obeyed. A creature with flying and shadow can't be blocked by a creature that can't block both flying creatures and shadow creatures. A creature with "This creature can't be blocked by more than one creature" and "This creature can't be blocked except by two or more creatures" can't be blocked at all; there are no circumstances in which a block obeys both restrictions.
 
 
-Requirements, however—like that of [Nath's Elite](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nath%27s+Elite)—can get a little more complicated when there's more than one of them at work. A set of attackers or blockers obeys a requirement if it (1) meets the requirement to the extent possible without violating restrictions, and (2) results in the maximum possible number of requirements being followed (which may be less than the total number of requirements).
+Requirements, however—like that of [Nath's Elite](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nath%27s+Elite)—can get a little more complicated when there's more than one of them at work. A set of attackers or blockers obeys a requirement if it (1) meets the requirement to the extent possible without violating restrictions, and (2) results in the maximum possible number of requirements being followed (which may be less than the total number of requirements).
 
 
 ![Foriysian Interceptor](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Foriysian+Interceptor)
-Let's look at what that means. Part (1) is simple: your tapped creatures, creatures with unpaid costs to block, and creatures that can't block [Nath's Elite](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nath%27s+Elite), such as [Scavenging Scarab](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Scavenging+Scarab) or [Gloomwidow](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gloomwidow), don't have to block [Nath's Elite](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nath%27s+Elite). Note that bit about "unpaid costs"—[Nath's Elite](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nath%27s+Elite) can't force a creature enchanted with [Cowed by Wisdom](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cowed+by+Wisdom) to block, because it can't force that creature's controller to pay the cost associated with blocking.
+Let's look at what that means. Part (1) is simple: your tapped creatures, creatures with unpaid costs to block, and creatures that can't block [Nath's Elite](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nath%27s+Elite), such as [Scavenging Scarab](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Scavenging+Scarab) or [Gloomwidow](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gloomwidow), don't have to block [Nath's Elite](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nath%27s+Elite). Note that bit about "unpaid costs"—[Nath's Elite](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nath%27s+Elite) can't force a creature enchanted with [Cowed by Wisdom](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cowed+by+Wisdom) to block, because it can't force that creature's controller to pay the cost associated with blocking.
 
 
-Part (2) determines what happens when two [Nath's Elite](http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Nath%2527s%2BElite) attack at once. Any set of blockers is legal if it causes the maximum number of requirements to be met. Since blocking one [Nath's Elite](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nath%27s+Elite) fulfills one requirement and blocking the other [Nath's Elite](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nath%27s+Elite) also fulfills one requirement, your creatures that can block [Nath's Elite](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nath%27s+Elite) can each legally block either one of them. Any set of creatures where each creature is blocking as many [Nath's Elite](http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Nath%2527s%2BElite) as it can block is a legal set of blockers.
+Part (2) determines what happens when two [Nath's Elite](http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Nath%2527s%2BElite) attack at once. Any set of blockers is legal if it causes the maximum number of requirements to be met. Since blocking one [Nath's Elite](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nath%27s+Elite) fulfills one requirement and blocking the other [Nath's Elite](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nath%27s+Elite) also fulfills one requirement, your creatures that can block [Nath's Elite](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nath%27s+Elite) can each legally block either one of them. Any set of creatures where each creature is blocking as many [Nath's Elite](http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Nath%2527s%2BElite) as it can block is a legal set of blockers.
 
 
-If you control creatures, such as [Foriysian Interceptor](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Foriysian+Interceptor), that can block more than one creature, each one must block both [Nath's Elite](http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Nath%2527s%2BElite), because the maximum number of requirements that can be fulfilled for those creatures is two. Creatures that can block more than two creatures, such as [Avatar of Hope](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Avatar+of+Hope), can still block other creatures, as long as they are blocking both [Nath's Elite](http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Nath%2527s%2BElite).
+If you control creatures, such as [Foriysian Interceptor](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Foriysian+Interceptor), that can block more than one creature, each one must block both [Nath's Elite](http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Nath%2527s%2BElite), because the maximum number of requirements that can be fulfilled for those creatures is two. Creatures that can block more than two creatures, such as [Avatar of Hope](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Avatar+of+Hope), can still block other creatures, as long as they are blocking both [Nath's Elite](http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Nath%2527s%2BElite).
 
 
 No matter how many restrictions and requirements are at work on a set of attackers or blockers, remember: restrictions must be obeyed, the maximum number of requirements that don't violate restrictions must be obeyed, and requirements can't force you to pay costs.

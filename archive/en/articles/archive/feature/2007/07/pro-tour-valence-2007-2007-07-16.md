@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Ciudad De Las Artes Y Las Ciencias October 12-14, 2007 PRO TOUR-VALENCIA TO RESUME SATURDAY Day One of Pro Tour-Valencia has been cancelled due to extreme rain and flooding at the event site. The Pro Tour will resume Saturday morning with an 8:45 a.m. players meeting, and round one will start at 9 a.m. There will be 10 rounds on Saturday, with a cut at 21 points. The remaining"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "641706"
 [_metadata_:publish_date]:- "2007-07-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour Valence 2007"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-03 01:52:49+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-03 01:52:49"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503015249id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-valence-2007-2007-07-16"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-valence-2007-2007-07-16"
 ---

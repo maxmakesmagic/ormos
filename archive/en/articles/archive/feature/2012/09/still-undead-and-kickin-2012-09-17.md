@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "Ever since its printing, Birthing Pod has been the subject of many brews, thought experiments, and crazy stories. The card is so unique and powerful that it has captured the hearts or minds of many Magic players. Over time, with just the printing of a single good creature at some spot along the curve, the entire make-up of Birthing Pod might change. It has been everything from"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "665541"
 [_metadata_:publish_date]:- "2012-09-17"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Still Undead and Kickin'"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-20 18:37:45+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-20 18:37:45"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020183745id_/https://magic.wizards.com/en/articles/archive/feature/still-undead-and-kickin-2012-09-17"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/still-undead-and-kickin-2012-09-17"
 ---

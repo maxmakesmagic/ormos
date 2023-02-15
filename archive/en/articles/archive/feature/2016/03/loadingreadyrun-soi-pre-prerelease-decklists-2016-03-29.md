@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Take a look at the decklists from LoadingReadyRun's Shadows over Innistrad Pre-Prerelease event!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1014146"
 [_metadata_:publish_date]:- "2016-03-29"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "LoadingReadyRun SOI Pre-Prerelease Decklists"
-[_metadata_:wayback_capture_timestamp]:- "2016-04-02 05:38:59+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-04-02 05:38:59"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160402053859id_/http://magic.wizards.com/en/articles/archive/feature/loadingreadyrun-soi-pre-prerelease-decklists-2016-03-29"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/loadingreadyrun-soi-pre-prerelease-decklists-2016-03-29"
 ---

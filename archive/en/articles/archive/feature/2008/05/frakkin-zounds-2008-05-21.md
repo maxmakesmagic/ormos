@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Doug Beyer"
 [_metadata_:description]:- "You're a hoodlum of the Gruul Clans, belching out a string of frank profanities at priggish Azorius passersby.You're a Benalish paladin uttering a surprised, sacred oath after seeing a sea of undead abominations swarming at the city gates.You're a kithkin traveler who has just slammed the door on a canker-ridden Shadowmoor tree-witch, who sums up his xenophobic relief with an"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "622851"
 [_metadata_:publish_date]:- "2008-05-21"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Frakkin' Zounds"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 20:14:45+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 20:14:45"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429201445id_/https://magic.wizards.com/en/articles/archive/feature/frakkin-zounds-2008-05-21"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/frakkin-zounds-2008-05-21"
 ---

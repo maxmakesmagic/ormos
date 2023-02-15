@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Tham Tishen vs. Tsuyoshi Ikeda The Malaysian Tham Tishen piloted a mono-black Necrodeck against the Japanese Tsuyoshi Ikeda in this harrowing semifinal match. Ikeda was playing Necro-Donate and felt that the matchup favored his deck, but the spectators hoped that Tishen would prevail. Ikeda won the coin toss and chose to play first. His opening hand was mediocre and he chose"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "952706"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix-Kuala LumpurSemifinals Recap"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-21 22:36:39+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-21 22:36:39"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521223639id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpursemifinals-recap-2000-01-01-0"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpursemifinals-recap-2000-01-01-0"
 ---

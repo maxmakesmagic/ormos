@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This year, the spirit of the holidays is a dragon."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "321776"
 [_metadata_:publish_date]:- "2014-12-24"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Holiday Spirit"
-[_metadata_:wayback_capture_timestamp]:- "2014-12-25 18:10:11+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2014-12-25 18:10:11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20141225181011id_/http://magic.wizards.com/en/articles/archive/feature/holiday-spirit-2014-12-24"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/holiday-spirit-2014-12-24"
 ---

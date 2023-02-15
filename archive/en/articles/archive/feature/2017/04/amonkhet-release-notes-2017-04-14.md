@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20170819155624/http://magic.wizards.com/en/articles/archive/feature/amonkhet-release-notes-2017-04-14)
+[Link to Wayback Machine](https://web.archive.org/web/20210429025714/https://magic.wizards.com/en/articles/archive/feature/amonkhet-release-notes-2017-04-14)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Release Notes include info about the release of a new set, as well as clarifications and rulings involving that set's cards."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1134391"
 [_metadata_:publish_date]:- "2017-04-14"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Amonkhet Release Notes"
-[_metadata_:wayback_capture_timestamp]:- "2017-08-19 15:56:24+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170819155624id_/http://magic.wizards.com/en/articles/archive/feature/amonkhet-release-notes-2017-04-14"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/amonkhet-release-notes-2017-04-14"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 02:57:14"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429025714id_/https://magic.wizards.com/en/articles/archive/feature/amonkhet-release-notes-2017-04-14"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/amonkhet-release-notes-2017-04-14"
 ---
 
 
@@ -26,7 +28,7 @@ Amonkhet Release Notes
 
 
 
-![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
 By Wizards of the Coast
 
 
@@ -47,7 +49,7 @@ Document last modified February 9, 2017
 
 **DOC Download Links:**  
 [English](http://media.wizards.com/2017/downloads/AKH_Release_Notes/EN_MTGAKH_ReleaseNotes.docx) | [中国话,汉语;中文](http://media.wizards.com/2017/downloads/AKH_Release_Notes/CS_MTGAKH_ReleaseNotes.docx) | [中國話,漢語;中文](http://media.wizards.com/2017/downloads/AKH_Release_Notes/CT_MTGAKH_ReleaseNotes.docx) | [Français](http://media.wizards.com/2017/downloads/AKH_Release_Notes/FR_MTGAKH_ReleaseNotes.docx) | [Deutsch](http://media.wizards.com/2017/downloads/AKH_Release_Notes/DE_MTGAKH_ReleaseNotes.docx)  
-[Italiano](http://media.wizards.com/2017/downloads/AKH_Release_Notes/IT_MTGAKH_ReleaseNotes.docx) | [日本語](http://media.wizards.com/2017/downloads/AKH_Release_Notes/JP_MTGAKH_ReleaseNotes.docx) | [한글](http://media.wizards.com/2017/downloads/AKH_Release_Notes/KR_MTGAKH_ReleaseNotes.docx) | [Português](http://media.wizards.com/2017/downloads/AKH_Release_Notes/PT_MTGAKH_ReleaseNotes.docx) | [русский язык](http://media.wizards.com/2017/downloads/AKH_Release_Notes/RU_MTGAKH_ReleaseNotes.docx) | [Español](http://media.wizards.com/2017/downloads/AKH_Release_Notes/SP_MTGAKH_ReleaseNotes.docx)
+[Italiano](http://media.wizards.com/2017/downloads/AKH_Release_Notes/IT_MTGAKH_ReleaseNotes.docx) | [日本語](http://media.wizards.com/2017/downloads/AKH_Release_Notes/JP_MTGAKH_ReleaseNotes.docx) | [한글](http://media.wizards.com/2017/downloads/AKH_Release_Notes/KR_MTGAKH_ReleaseNotes.docx) | [Português](http://media.wizards.com/2017/downloads/AKH_Release_Notes/MTGAKH_PT%20FAQ_091420.docx) | [русский язык](http://media.wizards.com/2017/downloads/AKH_Release_Notes/RU_MTGAKH_ReleaseNotes.docx) | [Español](http://media.wizards.com/2017/downloads/AKH_Release_Notes/SP_MTGAKH_ReleaseNotes.docx)
 
 
 The Release Notes include information concerning the release of a new *Magic: The Gathering* set, as well as a collection of clarifications and rulings involving that set's cards. It's intended to make playing with the new cards more fun by clearing up the common misconceptions and confusion inevitably caused by new mechanics and interactions. As future sets are released, updates to the *Magic* rules may cause some of this information to become outdated. If you can't find the answer you're looking for here, please contact us at [Wizards.com/CustomerService](http://www.wizards.com/CustomerService).

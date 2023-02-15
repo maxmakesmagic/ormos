@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Information    Grand Prix Verona is brought to you by Dazzle Events."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "727471"
 [_metadata_:publish_date]:- "2013-01-04"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Verona Event Information"
-[_metadata_:wayback_capture_timestamp]:- "2016-10-03 07:08:47+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-10-03 07:08:47"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161003070847id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-verona-event-information-2013-01-04"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-verona-event-information-2013-01-04"
 ---

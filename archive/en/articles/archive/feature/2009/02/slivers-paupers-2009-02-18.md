@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: petkos's Pauper Slivers Format: Magic Online Pauper 10 Forest 10 Plains 1 Secluded Steppe 1 Tranquil Thicket 4 Muscle Sliver 4 Plated Sliver 4 Sidewinder Sliver 4 Sinew Sliver 4 Spinneret Sliver 4 Virulent Sliver 1 Cenn's Enlistment 3 Holy Light 3 Prismatic Strands 4 Temporal Isolation 3 Thrill of the Hunt *2 Armadillo Cloak *4 Circle of Protection: Red *1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "666761"
 [_metadata_:publish_date]:- "2009-02-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Slivers for Paupers"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-15 11:45:27+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-15 11:45:27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210415114527id_/https://magic.wizards.com/en/articles/archive/feature/slivers-paupers-2009-02-18"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/slivers-paupers-2009-02-18"
 ---

@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20161229014713/http://magic.wizards.com/en/articles/archive/feature/alara-unbroken-2009-06-03)
+[Link to Wayback Machine](https://web.archive.org/web/20210515152855/https://magic.wizards.com/en/articles/archive/feature/alara-unbroken-2009-06-03)
 
 [_metadata_:author]:- "Doug Beyer"
-[_metadata_:description]:- "&#13; Review by David Craddock, Fantasy Book Critic&#13; &#13;"
+[_metadata_:description]:- "Review by David Craddock, Fantasy Book Critic On the surface, Alara Unbroken is a story about five worlds merging back into one, and the ramifications that ensue. However, it's rather difficult to muster emotion for large chunks of earth, water, vegetation and volcanoes. Fortunately, Doug Beyer employs a compelling cast and sharp, snappy prose with which to relate his tale."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "594756"
 [_metadata_:publish_date]:- "2009-06-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Alara Unbroken"
-[_metadata_:wayback_capture_timestamp]:- "2016-12-29 01:47:13+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161229014713id_/http://magic.wizards.com/en/articles/archive/feature/alara-unbroken-2009-06-03"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/alara-unbroken-2009-06-03"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-15 15:28:55"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210515152855id_/https://magic.wizards.com/en/articles/archive/feature/alara-unbroken-2009-06-03"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/alara-unbroken-2009-06-03"
 ---
 
 

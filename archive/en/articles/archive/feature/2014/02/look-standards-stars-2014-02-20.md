@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Gerry Thompson"
 [_metadata_:description]:- "Earlier this week, I covered Makihito Mihara's Standard deck with Born of the Gods. Today, I have Aaron Lewis's decklist, which is absolutely chocked full of Born of the Gods cards! Aaron used Hero of Iroas to bestow Eidolon of Countless Battles and Hopeful Eidolon on the cheap. Brimaz, King of Oreskos unsurprisingly makes an appearance and works pretty well with Eidolon of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "667621"
 [_metadata_:publish_date]:- "2014-02-20"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "A Look at Standard's Stars"
-[_metadata_:wayback_capture_timestamp]:- "2021-03-28 18:15:17+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-03-28 18:15:17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210328181517id_/https://magic.wizards.com/en/articles/archive/feature/look-standards-stars-2014-02-20"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/look-standards-stars-2014-02-20"
 ---

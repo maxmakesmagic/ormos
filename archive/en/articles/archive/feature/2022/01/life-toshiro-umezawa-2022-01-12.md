@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20220113123023/https://magic.wizards.com/en/articles/archive/feature/life-toshiro-umezawa-2022-01-12?utm_source=dlvr.it&utm_medium=twitter)
+[Link to Wayback Machine](https://web.archive.org/web/20220112160736/https://magic.wizards.com/en/articles/archive/feature/life-toshiro-umezawa-2022-01-12)
 
 [_metadata_:author]:- "Daniel Holt"
 [_metadata_:description]:- "Toshiro's adventures are famous across the Plane of Kamigawa. Learn how his influence has endured over a thousand years."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1570556"
 [_metadata_:publish_date]:- "2022-01-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Life of Toshiro Umezawa"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-13 12:30:23+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220113123023id_/https://magic.wizards.com/en/articles/archive/feature/life-toshiro-umezawa-2022-01-12?utm_source=dlvr.it&utm_medium=twitter"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/life-toshiro-umezawa-2022-01-12?utm_source=dlvr.it&utm_medium=twitter"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-12 16:07:36"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220112160736id_/https://magic.wizards.com/en/articles/archive/feature/life-toshiro-umezawa-2022-01-12"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/life-toshiro-umezawa-2022-01-12"
 ---
 
 
@@ -32,7 +34,7 @@ By Daniel Holt
 
 
 
- Daniel Holt is the senior UX designer for Magic: The Gathering tabletop. He designs cards and guides the creation of card icons and frames. 
+ Daniel Holt is the Senior UX Designer for Magic: The Gathering Tabletop. He designs cards and guides the creation of card icons and frames. 
 
 
 

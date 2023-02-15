@@ -5,8 +5,10 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Adrian Sullivan With thousands of dollars of scholarship money on the line, Mason and Josh had a lot in common. Both players came to the event with a Rebel White deck - a deck that utilizes the Rebel searching Engine from Masques Block, and tends towards having consistent ability to both attack and control the table. More importantly, both players had more poise in their matchup then is often seen even on the Pro Tour."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "948941"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Quarterfinals Feature Match - Mason Phelps (Conoford CO) Rebel Beatdown - Josh Wagener (Glen Burnie MD) Rebel Control"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-31 04:55:36+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-31 04:55:36"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171031045536id_/https://magic.wizards.com/en/articles/archive/feature/quarterfinals-feature-match-mason-phelps-conoford-co-rebel-beatdown-josh"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/quarterfinals-feature-match-mason-phelps-conoford-co-rebel-beatdown-josh"
 ---

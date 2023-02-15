@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20201112030124/https://magic.wizards.com/en/articles/archive/feature/announcing-magic-2014-2013-03-22)
+[Link to Wayback Machine](https://web.archive.org/web/20210210104514/https://magic.wizards.com/en/articles/archive/feature/announcing-magic-2014-2013-03-22)
 
 [_metadata_:author]:- "Trick Jarrett"
-[_metadata_:description]:- "Ignite Your Spark this year with Magic 2014 and discover a number of cool new things:"
+[_metadata_:description]:- "Ignite Your Spark this year with Magic 2014 and discover a number of cool new things: Engaging Storyline: Join the Planeswalker Chandra Nalaar in a quest to track down a manipulative and dangerous Planeswalker Foe named Ramaz. All-new Sealed Play Mode: With Magic 2014, players will be able to open booster packs and build decks to play against the AI in a Sealed Play campaign"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "648571"
 [_metadata_:publish_date]:- "2013-03-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Announcing Magic 2014"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 03:01:24+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112030124id_/https://magic.wizards.com/en/articles/archive/feature/announcing-magic-2014-2013-03-22"
+[_metadata_:wayback_capture_timestamp]:- "2021-02-10 10:45:14"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210210104514id_/https://magic.wizards.com/en/articles/archive/feature/announcing-magic-2014-2013-03-22"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/announcing-magic-2014-2013-03-22"
 ---
 

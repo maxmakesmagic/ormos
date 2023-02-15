@@ -4,9 +4,11 @@
 
 [_metadata_:description]:- "Developing the common land cycle and something for the control mirror in Khans of Tarkir."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "264931"
 [_metadata_:publish_date]:- "2014-09-08"
+[_metadata_:source]:- "div-main"
 [_metadata_:title]:- "Developing Khans"
-[_metadata_:wayback_capture_timestamp]:- "2014-09-11 03:18:17+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2014-09-11 03:18:17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20140911031817id_/http://magic.wizards.com/en/articles/archive/feature/developing-khans-2014-09-08"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/developing-khans-2014-09-08"
 ---

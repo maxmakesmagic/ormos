@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This week's desktop wallpaper is Anthony Francisco's Tezzeret the Seeker from the Shards of Alara set. Enjoy."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "646091"
 [_metadata_:publish_date]:- "2009-01-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Wallpaper of the Week: Tezzeret the Seeker"
-[_metadata_:wayback_capture_timestamp]:- "2016-05-08 14:12:38+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-05-08 14:12:38"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160508141238id_/http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-tezzeret-seeker-2009-01-09"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-tezzeret-seeker-2009-01-09"
 ---

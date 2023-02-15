@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This week's desktop wallpaper is Jaime Jones's Progenitus from the upcoming Conflux set (as seen on the Conflux Product Section). We looked at the sketches in yesterday's Arcana, and thought it would be nice to look at it even larger! Enjoy."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "647511"
 [_metadata_:publish_date]:- "2009-01-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Wallpaper of the Week: Progenitus"
-[_metadata_:wayback_capture_timestamp]:- "2016-01-11 08:16:22+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-01-11 08:16:22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160111081622id_/http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-progenitus-2009-01-23"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-progenitus-2009-01-23"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "All Universal Tournament Rules and Magic: the Gathering Floor Rules are in effect for this event unless specifically overruled by information in this Format Document Format Individual formats: Standard, Booster Draft, and Extended National Team format: 3-Person Team Constructed Only complete National teams with 3 members will compete in the Team competition Each team member"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "732441"
 [_metadata_:publish_date]:- "2008-08-07"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2008 Magic World Championships Tournament Format"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-20 14:52:18+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-20 14:52:18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020145218id_/https://magic.wizards.com/en/articles/archive/feature/2008-magic-world-championships-tournament-format-2008-08-07-0"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2008-magic-world-championships-tournament-format-2008-08-07-0"
 ---

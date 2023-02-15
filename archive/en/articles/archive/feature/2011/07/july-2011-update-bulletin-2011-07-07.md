@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Matt Tabak"
 [_metadata_:description]:- "Soon, the Magic 2012 Core Set will be upon us, bringing with it some beloved favorites from the past, some exciting new cards, and some new rules and template changes. In this installment of the Update Bulletin, we'll talk about `dies,` unveil a `new` name for a popular play variant, and solve the puzzle that is the order of Island Fish Jasconius's abilities. Read on to join in on the fun."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "680776"
 [_metadata_:publish_date]:- "2011-07-07"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "July 2011 Update Bulletin"
-[_metadata_:wayback_capture_timestamp]:- "2017-12-29 09:49:51+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-12-29 09:49:51"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171229094951id_/https://magic.wizards.com/en/articles/archive/feature/july-2011-update-bulletin-2011-07-07"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/july-2011-update-bulletin-2011-07-07"
 ---

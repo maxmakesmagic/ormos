@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20200813211931/https://magic.wizards.com/en/articles/archive/feature/build-your-own-airship-2008-10-28)
+[Link to Wayback Machine](https://web.archive.org/web/20210501040834/https://magic.wizards.com/en/articles/archive/feature/build-your-own-airship-2008-10-28)
 
 [_metadata_:author]:- "Wizards of the Coast"
-[_metadata_:description]:- "If we had to pick one question that we're asked more than any other, it would be `How can I build my own version of Predator, Flagship or Skyship Weatherlight?`"
+[_metadata_:description]:- "If we had to pick one question that we're asked more than any other, it would be `How can I build my own version of Predator, Flagship or Skyship Weatherlight?`    Well, we have good news! For the first time (we think; please don't rummage through old copies of Duelist magazine to see if we're wrong), we're going to show you the Rath Cycle Style Guide's blueprints for the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "653306"
 [_metadata_:publish_date]:- "2008-10-28"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Build Your Own Airship!"
-[_metadata_:wayback_capture_timestamp]:- "2020-08-13 21:19:31+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200813211931id_/https://magic.wizards.com/en/articles/archive/feature/build-your-own-airship-2008-10-28"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-01 04:08:34"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210501040834id_/https://magic.wizards.com/en/articles/archive/feature/build-your-own-airship-2008-10-28"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/build-your-own-airship-2008-10-28"
 ---
 
@@ -26,7 +28,7 @@ Build Your Own Airship!
 
 
 
-![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
 By Wizards of the Coast
 
 

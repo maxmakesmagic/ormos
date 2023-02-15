@@ -4,9 +4,11 @@
 
 [_metadata_:description]:- "[(*) indicates an original card] TOTAL CARDS (95) WHITE (17) Creatures (9) Amrou Kithkin Auratog Carrier Pigeons Cloudchaser Monk (*) Ignoble Soldier Pearled Unicorn Sacred Guide Trade Caravan Tragic Poet Spells (8) Circle of Protection: White Illumination Null Chamber Opalescence Rolling Stones Security Detail Too... Many... Words (*) Very Strict Tutor (*)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "963476"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Duplicate Limited"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-29 07:56:29+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-29 07:56:29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171029075629id_/https://magic.wizards.com/en/articles/archive/feature/duplicate-limited-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/duplicate-limited-2000-01-01"
 ---

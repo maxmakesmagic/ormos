@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Blake Rasmussen"
 [_metadata_:description]:- "On May 8, we're previewing every card in MTG Arena's upcoming Historic Anthology III. Get the scoop on where to find all the latest reveals right here."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1503183"
 [_metadata_:publish_date]:- "2020-05-05"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Where to Find Historic Anthology III Previews"
-[_metadata_:wayback_capture_timestamp]:- "2020-05-05 19:29:53+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-05-05 19:29:53"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200505192953id_/https://magic.wizards.com/en/articles/archive/feature/where-find-historic-anthology-iii-previews-2020-05-05?as"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/where-find-historic-anthology-iii-previews-2020-05-05?as"
 ---

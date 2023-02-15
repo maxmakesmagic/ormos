@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Gerry Thompson"
 [_metadata_:description]:- "Most people assume that Standard is `solved,` but Paul Dunn begs to differ. While he uses the most powerful cards in Mono-Black Devotion (Thoughtseize, Pack Rat, Underworld Connections, Hero's Downfall), his overall strategy is much different. And, dare I say, better. Mono-Black Devotion loses to Mono-Blue when it falls behind on board but cards like Gift of Orzhova,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "667556"
 [_metadata_:publish_date]:- "2014-02-04"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Gift of Devotion"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-10 08:45:17+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-10 08:45:17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220810084517id_/https://magic.wizards.com/en/articles/archive/feature/gift-devotion-2014-02-04"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gift-devotion-2014-02-04"
 ---

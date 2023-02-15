@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Chris Millar"
 [_metadata_:description]:- "Greetings, Johnnies and those of indeterminate orientation! Welcome to Tribal Week! For those of you keeping track of such things, this is technically the second Tribal Week we've had here at magicthegathering.com. The first one occurred nearly five years ago, during Onslaught Block. I had been calling this week Tribal Week 2: The Exhausting of the Puns, but I was rescued by the Pun Gods at the eleventh hour and given the title you see at the top of the page."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "621836"
 [_metadata_:publish_date]:- "2007-10-11"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Tribal and Error"
-[_metadata_:wayback_capture_timestamp]:- "2020-03-24 02:20:25+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-03-24 02:20:25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200324022025id_/https://magic.wizards.com/en/articles/archive/feature/tribal-and-error-2007-10-11"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/tribal-and-error-2007-10-11"
 ---

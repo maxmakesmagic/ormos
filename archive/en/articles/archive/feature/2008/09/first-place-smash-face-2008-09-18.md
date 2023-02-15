@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Adrian Saredo's White Weenie Format: 2008 Argentina Nationals, Standard 14 Snow-Covered Plains 4 Windbrisk Heights 4 Rustic Clachan 3 Mutavault 4 Wizened Cenn 4 Burrenton Forge-Tender 4 Figure of Destiny 1 Goldmeadow Stalwart 4 Knight of Meadowgrain 4 Cloudgoat Ranger 3 Kinsbaile Borderguard 4 Spectral Procession 3 Glorious Anthem 2 Oblivion Ring 2"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "668296"
 [_metadata_:publish_date]:- "2008-09-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "First Place, Smash Face"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-18 13:56:50+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-18 13:56:50"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220818135650id_/https://magic.wizards.com/en/articles/archive/feature/first-place-smash-face-2008-09-18"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/first-place-smash-face-2008-09-18"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "RankTeamPointsOp.Win%222A.S.K. 3 48.14% 26AAA 9 44.44%141ABCC 4 62.96% 89Absolute 6 55.55% 69Aibon 6 66.66% 98Ain't afraid to die 6 55.55%196Air Orange 3 55.55%16"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "806981"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 3 Standings (by Player)"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-23 19:10:34+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-23 19:10:34"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123191034id_/https://magic.wizards.com/en/articles/archive/feature/round-3-standings-player-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-3-standings-player-2000-01-01"
 ---

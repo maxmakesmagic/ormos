@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Doug Beyer"
 [_metadata_:description]:- "I'm pleased to announce the launch of Gatherer (http://gatherer.wizards.com), Wizards of the Coast's new searchable online database of Magic: The Gathering card information. The number one thing magicthegathering.com readers have asked for over the last few years is an easy way to search through Magic's 7000+ cards, so here it is. We present Gatherer today as a kind of `public"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "631291"
 [_metadata_:publish_date]:- "2004-09-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Announcing Gatherer"
-[_metadata_:wayback_capture_timestamp]:- "2022-02-11 18:21:41+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-02-11 18:21:41"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220211182141id_/https://magic.wizards.com/en/articles/archive/feature/announcing-gatherer-2004-09-23"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/announcing-gatherer-2004-09-23"
 ---

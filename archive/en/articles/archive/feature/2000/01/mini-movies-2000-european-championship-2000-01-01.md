@@ -4,9 +4,11 @@
 
 [_metadata_:description]:- "[view]Noah Boeken quickly wins game four of the final match versus Raphael Levy. (1.2MB MPEG) [view]Brian Hacker and Randy Buehler commentate on game three of the final match. (1.4MB MPEG) [view]Game two of the finals, Noah Boeken (Holland) vs. Raphael Levy (France). (1.4MB MPEG) [view]Rickard Ostererg wins the 5th game of the quarterfinal match with an unstoppable Morphling."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "962911"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Mini-Movies from 2000 European Championship"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-30 10:43:47+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-30 10:43:47"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211130104347id_/https://magic.wizards.com/en/articles/archive/feature/mini-movies-2000-european-championship-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mini-movies-2000-european-championship-2000-01-01"
 ---

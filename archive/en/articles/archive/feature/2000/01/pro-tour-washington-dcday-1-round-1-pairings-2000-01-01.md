@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Table Opponent 770 (26) 33 Operation Mise (19) Amsterdam (52) 5 Rocket (55) Antarctica (42) 25 The Spanish Inquisition (24) ATM (64) 3 Hellfire Hannover (18) Babes of the Dingo (70) 29 Urban Housing (62) Big Dogs (27) 32 Mallrats (5) Billy Goats Gruff (61) 31 CMU (56) Brown Bomber (69) 37 Fig Jam (35) CCC (60) 10 TCG (22) Champions (38) 12 Rounders, (81) CMU (56) 31"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "951241"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour - Washington D.C.Day 1 Round 1 Pairings"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-19 06:57:45+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-19 06:57:45"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519065745id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-1-pairings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-1-pairings-2000-01-01"
 ---

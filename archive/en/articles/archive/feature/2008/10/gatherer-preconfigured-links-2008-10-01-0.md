@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "POPULAR SEARCHES Khans of Tarkir Magic 2015 Conspiracy Journey into Nyx Born of the Gods Theros Conspiracies Planeswalkers"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "635101"
 [_metadata_:publish_date]:- "2008-10-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Gatherer Preconfigured Links"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-18 18:19:51+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-18 18:19:51"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018181951id_/https://magic.wizards.com/en/articles/archive/feature/gatherer-preconfigured-links-2008-10-01-0"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gatherer-preconfigured-links-2008-10-01-0"
 ---

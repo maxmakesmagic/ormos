@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Bill Rose"
 [_metadata_:description]:- "Invasion was destined to be great. Simple as that. I know it's a bold claim. The design came together near perfect. The few problems that occurred were solved leaving all happy in the end. Having worked on almost every Magic set in some capacity, I have experienced all the ups and downs of Magic. Invasion is second only to Alpha."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "632031"
 [_metadata_:publish_date]:- "2005-08-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Setting the Standard"
-[_metadata_:wayback_capture_timestamp]:- "2016-03-25 21:38:32+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-03-25 21:38:32"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160325213832id_/http://magic.wizards.com/en/articles/archive/feature/setting-standard-2005-08-09-0"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/setting-standard-2005-08-09-0"
 ---

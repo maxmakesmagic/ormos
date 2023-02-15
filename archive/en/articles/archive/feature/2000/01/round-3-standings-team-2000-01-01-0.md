@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "RankTeamPointsOp.Win% 733,141596 * 3 55.55% 9Absolute Samuels 9 66.66% 26Accellerated Vares8 Volante 6 83.33% 71Agifalw 3 59.25% 25AlphaBetaUnlimited.com 6100.00% 44Altrove * 6 55.55% 14Amsterdam 9 44.44% 12Angstschreeuw 9 55.55% 80Asani * 3 55.55% 37Babar Team * 6 55.55% 21Birds of paradise 7 51.85% 22Black-Ops 6100.00% 1Bologna Demolition Team 9 66.66% 59Budellos * 4 51.85%"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "806406"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 3 Standings (by Team)"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-05 01:04:35+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-05 01:04:35"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220705010435id_/https://magic.wizards.com/en/articles/archive/feature/round-3-standings-team-2000-01-01-0"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-3-standings-team-2000-01-01-0"
 ---

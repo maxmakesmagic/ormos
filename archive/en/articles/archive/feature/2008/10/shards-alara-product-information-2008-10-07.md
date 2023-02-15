@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "707191"
 [_metadata_:publish_date]:- "2008-10-07"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Shards of Alara Product Information"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-18 16:00:30+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-18 16:00:30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518160030id_/https://magic.wizards.com/en/articles/archive/feature/shards-alara-product-information-2008-10-07"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/shards-alara-product-information-2008-10-07"
 ---

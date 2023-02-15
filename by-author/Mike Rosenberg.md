@@ -4,6 +4,7 @@
 * [Magic Viewing Guide, August 22 and Beyond](/archive/en/articles/archive/feature/2014/08/magic-viewing-guide-august-22-and-beyondevent.md) - 2014-08-21
 * [Magic Viewing Guide, August 22 and Beyond](/archive/en/articles/archive/feature/2014/08/magic-viewing-guide-august-22-and-beyond-2014-08-22.md) - 2014-08-22
 * [2014 World Championship Competitors: Paulo Vitor Damo da Rosa](/archive/en/articles/archive/feature/2014/11/2014-world-championship-competitors-paulo-vitor-damo-da-rosa-2014-11-05.md) - 2014-11-05
+* [2014 World Championship Competitors: Jérémy Dezani](/archive/en/articles/archive/feature/2014/11/2014-world-championship-competitors-jérémy-dezani-2014-11-12.md) - 2014-11-12
 * [Be a Friday Night Magic Modern Master](/archive/en/articles/archive/feature/2015/05/be-friday-night-magic-modern-master-2015-05-22.md) - 2015-05-22
 * [The Making of Magic History](/archive/en/articles/archive/feature/2015/06/making-magic-history-2015-06-08.md) - 2015-06-08
 * [Shahar Shenhar's Origin Story](/archive/en/articles/archive/feature/2015/08/shahar-shenhars-origin-story-2015-08-03.md) - 2015-08-03

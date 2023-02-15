@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "One of the staple decks across formats at any given time is The Rock. Its name was derived from a Phyrexian Plaguelord/Deranged Hermit deck from back in the day, but these days, that title is given to any black-green midrange deck looking to out-attrition the opponent through a series of small-value plays. The deck often plays undercosted fatties, discard spells, removal, and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "665831"
 [_metadata_:publish_date]:- "2012-11-29"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Relentless Rock"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-01 01:32:15+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-01 01:32:15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220701013215id_/https://magic.wizards.com/en/articles/archive/feature/relentless-rock-2012-11-29"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/relentless-rock-2012-11-29"
 ---

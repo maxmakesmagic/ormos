@@ -4,9 +4,11 @@
 
 [_metadata_:description]:- "[decklist] Title: Andre Konstanczer Subtitle: Angry Non-Hermit Format: 11 Forest 2 Mountain 4 Karplusan Forest 4 Rishadan Port 1 Treetop Village 1 Dust Bowl 1 Gaea's Cradle 1 Crop Rotation 4 Birds of Paradise 4 Llanowar Elves 2 Rofellos, Llanowar Emissary 4 Avalanche Riders 4 Blastoderm 3 Masticore 4 Plow Under 4 Arc Lightning 3 Earthquake 3 Yavimaya Elder *1 Masticore *2 Reverent Silence"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "960461"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Standard decklists, Germany"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-31 07:14:03+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-31 07:14:03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171031071403id_/https://magic.wizards.com/en/articles/archive/feature/standard-decklists-germany-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/standard-decklists-germany-2000-01-01"
 ---

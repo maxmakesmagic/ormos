@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This week's desktop wallpaper is Kev Walker's Wrath of God from the Eighth Edition set. Enjoy!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "607096"
 [_metadata_:publish_date]:- "2004-07-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Wallpaper of the Week: Wrath of God"
-[_metadata_:wayback_capture_timestamp]:- "2016-03-15 19:57:21+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-03-15 19:57:21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160315195721id_/http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-wrath-god-2004-07-02"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-wrath-god-2004-07-02"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Nicholas Wolfram"
 [_metadata_:description]:- "Take a closer look at the process behind today's preview card—Regisaur Alpha!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1200066"
 [_metadata_:publish_date]:- "2017-09-06"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Exploring Ixalan – Regisaur Alpha"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-07 04:57:55+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-07 04:57:55"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171107045755id_/https://magic.wizards.com/en/articles/archive/feature/exploring-ixalan-regisaur-alpha-2017-09-06"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/exploring-ixalan-regisaur-alpha-2017-09-06"
 ---

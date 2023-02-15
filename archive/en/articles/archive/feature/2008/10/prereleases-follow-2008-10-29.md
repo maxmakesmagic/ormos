@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "In June we announced a number of changes that would be made to our Prerelease system. Worldwide, the resulting Shards of Alara Prerelease was our largest event ever, but we know improvements are needed. We are now evaluating how the Shards of Alara Prereleases and Launch Parties were received and what potential adjustments, if feasible, can be made to make this an even better"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "688366"
 [_metadata_:publish_date]:- "2008-10-29"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Prereleases Follow-Up"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-21 14:18:12+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-21 14:18:12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021141812id_/https://magic.wizards.com/en/articles/archive/feature/prereleases-follow-2008-10-29"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/prereleases-follow-2008-10-29"
 ---

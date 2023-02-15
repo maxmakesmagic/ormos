@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Adam Prosak"
 [_metadata_:description]:- "What better than one combo deck? Two combo decks! What's better than two combo decks? Three combo decks, of course! Magic Online user Bryang has created a truly innovative deck that combines many different combos into one similar deck."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "668066"
 [_metadata_:publish_date]:- "2014-06-11"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "So Many Combos"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-09 23:25:18+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-04-09 23:25:18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170409232518id_/http://magic.wizards.com/en/articles/archive/feature/so-many-combos-2014-06-11"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/so-many-combos-2014-06-11"
 ---

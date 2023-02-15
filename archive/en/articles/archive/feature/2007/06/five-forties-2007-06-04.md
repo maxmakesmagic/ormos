@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Noah Weil"
 [_metadata_:description]:- "Has this ever happened to you? You'll be typing at a workstation, or perhaps shuffling something, when suddenly you get The Itch. It's a small feeling, a prickle really, but very, very pervasive. Luckily for most people—you, probably—that itch is easily scratched. Send out the call, `Draft at XYZ's house tonight!` or just fire up Magic Online and run a queue there. For some people, an afflicted few, their options are a touch more restricted. I've been happy to fall into that camp."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "633601"
 [_metadata_:publish_date]:- "2007-06-04"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Five Forties"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-20 02:26:39+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-20 02:26:39"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170320022639id_/http://magic.wizards.com/en/articles/archive/feature/five-forties-2007-06-04"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/five-forties-2007-06-04"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Pro Tour Gatecrash is February 15-17, 2013, in Montreal, Quebec. Qualifiers for Pro Tour Gatecrash start August 25, 2012 and run until December 16, 2012. Check the Event Locator to find an event near you that could earn you an invitation to Pro Tour Gatecrash. Pro Tour Qualifiers offer a Planeswalker Points multiplier of 5x, making them prime opportunities to add to your"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "640486"
 [_metadata_:publish_date]:- "2012-07-19"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Qualifiers for Pro Tour"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-03 23:44:48+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-03 23:44:48"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211203234448id_/https://magic.wizards.com/en/articles/archive/feature/qualifiers-pro-tour-2012-07-19"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/qualifiers-pro-tour-2012-07-19"
 ---

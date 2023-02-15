@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "TeamPoints OpponentPoints Absolute Samuels12vstrash AAA12 AlphaBetaUnlimited.com15vszyrberus15 Amsterdam12vsTeam 25:1713 Angstschreeuw18vsone day fly18 Black-Ops15vsgotta catch Kai15 Bologna Demolition Team15vsTeam Clegg15 Ci Ciapem I Dané *13vskillers of the Coast13 Cosmopolitan15vsMetagames/LNT15 F3BoP13vsStuchkaccolites *13 gotta catch Kai15vsBlack-Ops15 killers of the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "806306"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 7 Pairings (by Team)"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-30 10:36:02+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-30 10:36:02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220630103602id_/https://magic.wizards.com/en/articles/archive/feature/round-7-pairings-team-2000-01-01-0"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-7-pairings-team-2000-01-01-0"
 ---

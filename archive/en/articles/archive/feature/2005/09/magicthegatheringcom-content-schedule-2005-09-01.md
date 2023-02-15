@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "No themeJen wallpaper turnoverJen banner turnoverRavnica Previews Week 3Jen wallpaper turnoverJen banner turnover: No themeRavnica Previews Week 2Jen wallpaper turnoverJen banner turnover: Ravnica PreviewsRavnica Previews Week 1Jen wallpaper turnoverJen banner turnover: Ravnica PreviewsNo themeJen wallpaper turnover: Ravnica Forest MartiniereJen banner turnover: Ravnica"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "609941"
 [_metadata_:publish_date]:- "2005-09-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "magicthegathering.com content schedule"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-16 19:10:36+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-16 19:10:36"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016191036id_/https://magic.wizards.com/en/articles/archive/feature/magicthegatheringcom-content-schedule-2005-09-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magicthegatheringcom-content-schedule-2005-09-01"
 ---

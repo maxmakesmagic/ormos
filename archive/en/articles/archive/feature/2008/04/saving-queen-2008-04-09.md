@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Doug Beyer"
 [_metadata_:description]:- "Shadowmoor is all about the revelation of secrets. The eternal day/eternal night changeover. The mystery behind the Aurora revealed. The bizarre new identities of all the world's races. The emergence of strange creatures and demigods from their hiding places. Today we reveal one of the most fundamental secrets of the plane—the nature of Oona, Queen of the Fae."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "622711"
 [_metadata_:publish_date]:- "2008-04-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Saving the Queen"
-[_metadata_:wayback_capture_timestamp]:- "2020-10-21 14:09:11+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-10-21 14:09:11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201021140911id_/https://magic.wizards.com/en/articles/archive/feature/saving-queen-2008-04-09"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/saving-queen-2008-04-09"
 ---

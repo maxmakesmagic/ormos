@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Brian David-Marshall"
 [_metadata_:description]:- "In the beginning, there were creature decks. Everyone was attacking with Craw Wurms, Gray Ogres, and Nightmares--all in the same decks."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "634511"
 [_metadata_:publish_date]:- "2002-09-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Deconstructing Counter-Post"
-[_metadata_:wayback_capture_timestamp]:- "2021-02-07 15:28:55+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-02-07 15:28:55"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210207152855id_/https://magic.wizards.com/en/articles/archive/feature/deconstructing-counter-post-2002-09-02"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/deconstructing-counter-post-2002-09-02"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Latin AmericaJanuary-April 2009 CountryCityEvent dateMINVLocationAddressContact phoneURL ArgentinaBuenos Aires3/14/091Salon BasalduaBelgrano 1144 Website ArgentinaMendoza2/14/091TBATBA Website ChileSantiago3/28/091Restaurant Baccara del Hotel Conde de AnsurézRepública 25 Website BrasilSao Paulo3/22/091Devir LivrariaR. Teodureto Souto, 624, Cambuci Website BrasilRio de"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "640691"
 [_metadata_:publish_date]:- "2009-01-06"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour Honolulu 2009 - Qualifiers"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-25 07:34:53+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-25 07:34:53"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220125073453id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-honolulu-2009-qualifiers-2009-01-06-0"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-honolulu-2009-qualifiers-2009-01-06-0"
 ---

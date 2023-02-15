@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: kaOz.Zeh's Tezzeret Control Format: SOM Block Constructed 4 Darkslick Shores 4 Inkmoth Nexus 7 Island 3 Phyrexia's Core 6 Swamp 4 Consecrated Sphinx 2 Treasure Mage 1 Wurmcoil Engine 3 Black Sun's Zenith 4 Dismember 4 Ichor Wellspring 1 Karn Liberated 4 Mycosynth Wellspring 3 Ratchet Bomb 1 Spine of Ish Sah 2 Steel Sabotage 4 Tezzeret, Agent of Bolas 3 Tumble"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "671216"
 [_metadata_:publish_date]:- "2011-06-29"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Tezzeret Control"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-25 08:40:34+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-25 08:40:34"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025084034id_/https://magic.wizards.com/en/articles/archive/feature/tezzeret-control-2011-06-29"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/tezzeret-control-2011-06-29"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:description]:- "I wish I got to play more Modern, partially because of decks like this. Not only does this deck have the Kavu Predator/Fiery Justice combo, an extensive Glittering Wish toolbox means that it's ready for just about anything. It's actually playing the full fifteen one-ofs in the sideboard, giving you the maximum amount of options for when you cast Wish. Just because this deck"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "666946"
 [_metadata_:publish_date]:- "2013-09-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "All That Glitters"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-11 15:28:54+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-11 15:28:54"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220811152854id_/https://magic.wizards.com/en/articles/archive/feature/all-glitters-2013-09-03"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/all-glitters-2013-09-03"
 ---

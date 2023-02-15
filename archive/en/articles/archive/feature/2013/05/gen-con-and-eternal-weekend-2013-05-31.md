@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "From August 15–18, all roads will lead to Gen Con in Indianapolis and, of course, there will be plenty of Magic on offer. With an exciting program of events running day and night, featuring formats from the mainstream to the manic, there really is something for everyone at this most wonderful of gaming weekends."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "687576"
 [_metadata_:publish_date]:- "2013-05-31"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Gen Con and Eternal Weekend"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-20 13:01:14+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-20 13:01:14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020130114id_/https://magic.wizards.com/en/articles/archive/feature/gen-con-and-eternal-weekend-2013-05-31"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gen-con-and-eternal-weekend-2013-05-31"
 ---

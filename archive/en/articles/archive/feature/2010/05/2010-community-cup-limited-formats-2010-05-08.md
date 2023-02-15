@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The 2010 Community Cup is just about a month away and we thought it was high time to share the Community Cup limited formats with everyone. For the draft format, we will polish off our artifacts and play Mirrodin block. For the sealed deck format, we will play Rise of the Eldrazi and summon some astral monstrosities to annihilate each other with, though we will incorporate a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "687461"
 [_metadata_:publish_date]:- "2010-05-08"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2010 Community Cup Limited Formats!"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-30 19:07:59+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-30 19:07:59"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211130190759id_/https://magic.wizards.com/en/articles/archive/feature/2010-community-cup-limited-formats-2010-05-08"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2010-community-cup-limited-formats-2010-05-08"
 ---

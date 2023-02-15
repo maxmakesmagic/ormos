@@ -4,9 +4,11 @@
 
 [_metadata_:author]:- "Conley Woods"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "665846"
 [_metadata_:publish_date]:- "2012-12-04"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Dead or Alive"
-[_metadata_:wayback_capture_timestamp]:- "2016-07-20 00:03:41+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-07-20 00:03:41"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160720000341id_/http://magic.wizards.com/en/articles/archive/feature/dead-or-alive-2012-12-04"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/dead-or-alive-2012-12-04"
 ---

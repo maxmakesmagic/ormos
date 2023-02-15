@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Junior Super Series Championship Quarterfinals Feature Match Rodney Burt vs. Nick Hartman From the moment the competitors sat down, Rodney Burt maintained a steady stream of chatter while Hartman sat quietly, staring at his cards. Their decks mimicked their actions in game one, as Burt started with a Duress on turn one, and a Necropotence on turn three. By contrast, Hartman's"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "953201"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Sideboard Online Event Coverage"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-28 17:31:25+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-28 17:31:25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220528173125id_/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-36"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-36"
 ---

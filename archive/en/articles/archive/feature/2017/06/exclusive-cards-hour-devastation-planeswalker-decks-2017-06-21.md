@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Blake Rasmussen"
 [_metadata_:description]:- "Take a peek at the exclusive cards available in Hour of Devastation Planeswalker Decks."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1164696"
 [_metadata_:publish_date]:- "2017-06-21"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Exclusive Cards in Hour of Devastation Planeswalker Decks"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-23 13:01:29+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-23 13:01:29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170623130129id_/http://magic.wizards.com/en/articles/archive/feature/exclusive-cards-hour-devastation-planeswalker-decks-2017-06-21"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/exclusive-cards-hour-devastation-planeswalker-decks-2017-06-21"
 ---

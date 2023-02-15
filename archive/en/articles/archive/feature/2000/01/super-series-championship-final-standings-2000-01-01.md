@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Rank Name 1 Tracy, Sean 2 Cassidy, Jonathan 3 Wagener, Joshua 4 Bryant, Justin 5 Russo, Spencer 6 Schonk, Jeff 7 Phelps, Mason 8 Chapman, Eric 9 Bonomo, Justin 10 Seitz, Jason 11 Wiegand, Jon 12 Spindel, Daniel 13 Coisson, Ryan 14 Blatnick, Bramdpm 15 Sandridge, Nicholas 16 Culpepper, Andy 17 Levine, Jeff 18 Hutchison, John-David 19 Horner, Brian 20 Zbrog, Matthew 21 Mahini,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "948911"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Super Series Championship Final Standings"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-30 09:25:45+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-30 09:25:45"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211130092545id_/https://magic.wizards.com/en/articles/archive/feature/super-series-championship-final-standings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/super-series-championship-final-standings-2000-01-01"
 ---

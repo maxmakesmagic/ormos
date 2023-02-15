@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Will McDermott"
 [_metadata_:description]:- "The Mirrodin Cycle e-booksComing April 26, 2011You can purchase The Moons of Mirrodin, The Darksteel Eye, and The Fifth Dawn as individual e-books from the following websites:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "638841"
 [_metadata_:publish_date]:- "2011-04-20"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Mirrodin Cycle"
-[_metadata_:wayback_capture_timestamp]:- "2016-03-16 00:59:45+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-03-16 00:59:45"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160316005945id_/http://magic.wizards.com/en/articles/archive/feature/mirrodin-cycle-2011-04-20-0"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mirrodin-cycle-2011-04-20-0"
 ---

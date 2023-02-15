@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Rei Nakazawa"
 [_metadata_:description]:- "Before I begin, I have just one warning for all you Magic players out there: your heads are about to explode. Seriously, R&D has really gone crazy on the Time Spiral block, both mechanically and creatively. I've been working with Magic creative for six years now, and during this memorable tenure, my jaw has dropped many times, but never like it has during these past few months."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "632971"
 [_metadata_:publish_date]:- "2006-09-04"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Time (Spiral) Is On My Side"
-[_metadata_:wayback_capture_timestamp]:- "2020-08-05 20:11:05+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-08-05 20:11:05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200805201105id_/https://magic.wizards.com/en/articles/archive/feature/time-spiral-my-side-2006-09-04"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/time-spiral-my-side-2006-09-04"
 ---

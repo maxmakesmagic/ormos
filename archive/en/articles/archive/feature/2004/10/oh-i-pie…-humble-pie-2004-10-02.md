@@ -5,9 +5,11 @@
 [_metadata_:author]:- "John Carter"
 [_metadata_:description]:- "Send your rules questions to Magic Rules Manager John Carter. Can't find the answer to your question somewhere else? Maybe he's already answered it! Try the Saturday School Searchable Rules Database.I have a t-shirt from the Colorado judges. Emblazoned across the front of it is “RTFC” (Read The Friendly Card). It's a reminder of Rule #1 here at Saturday School—Read the Card. I"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "625366"
 [_metadata_:publish_date]:- "2004-10-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Oh I Like Pie… Humble Pie"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-17 14:43:41+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-17 14:43:41"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517144341id_/https://magic.wizards.com/en/articles/archive/feature/oh-i-pie%E2%80%A6-humble-pie-2004-10-02"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/oh-i-pie%E2%80%A6-humble-pie-2004-10-02"
 ---

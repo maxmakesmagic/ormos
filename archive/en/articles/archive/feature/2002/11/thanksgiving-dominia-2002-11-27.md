@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Ben Bleiweiss"
 [_metadata_:description]:- "Ah, Thanksgiving. It’s that time of year when ye olde family gathers round the crock pot to spoon out copious quantities of Beefaroni to the young’uns. Not every family shares that rich tradition, so this week I’m going to give you all a special treat: a look at Thanksgiving in Dominia.People often write me emails. Here’s a random sample from my current inbox:“Dear Ben:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "615741"
 [_metadata_:publish_date]:- "2002-11-27"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Thanksgiving in Dominia"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-11 20:09:57+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-11 20:09:57"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201111200957id_/https://magic.wizards.com/en/articles/archive/feature/thanksgiving-dominia-2002-11-27"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/thanksgiving-dominia-2002-11-27"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: JustMeBaby's Blue-Black Pauper Format: Magic Online Pauper 2 Dimir Aqueduct 2 Grixis Panorama 3 Snow-Covered Island 13 Snow-Covered Swamp 4 Terramorphic Expanse 2 Chilling Shade 3 Crypt Rats 4 Mulldrifter 3 Consume Spirit 4 Diabolic Edict 3 Distress 2 Echoing Decay 4 Innocent Blood 2 Mistvein Borderpost 4 Probe 2 Relic of Progenitus 3 Tendrils of Corruption"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "668501"
 [_metadata_:publish_date]:- "2009-07-06"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Blue-Black Pauper"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-15 16:04:25+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-15 16:04:25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220815160425id_/https://magic.wizards.com/en/articles/archive/feature/blue-black-pauper-2009-07-06"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/blue-black-pauper-2009-07-06"
 ---

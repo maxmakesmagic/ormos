@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Any local will tell you that Denver has hidden gems around every corner. Imagine a place where you can enjoy snow and a sunny patio in the same afternoon. Where you can find spectacular hot springs, breathtaking golf courses and world-class dining all within a 30-mile radius. Whatever you choose to do, the mountains over the western horizon provide a scenic backdrop, not to"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "635006"
 [_metadata_:publish_date]:- "2008-01-31"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix–Denver"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-19 12:44:57+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-19 12:44:57"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211019124457id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93denver-2008-01-31"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93denver-2008-01-31"
 ---

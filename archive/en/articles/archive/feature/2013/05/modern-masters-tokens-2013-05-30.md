@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "&#13; With each new Magic set we get to show off a handful of new tokens that we're printing. Usually this is four or maybe five new tokens. For Modern Masters we are creating a slew of tokens to support the cards, some of which are token cards that are being made for the first time ever!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "649141"
 [_metadata_:publish_date]:- "2013-05-30"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Modern Masters Tokens"
-[_metadata_:wayback_capture_timestamp]:- "2017-02-02 22:49:13+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-02-02 22:49:13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170202224913id_/http://magic.wizards.com/en/articles/archive/feature/modern-masters-tokens-2013-05-30"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/modern-masters-tokens-2013-05-30"
 ---

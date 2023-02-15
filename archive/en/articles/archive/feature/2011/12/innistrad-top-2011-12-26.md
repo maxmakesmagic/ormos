@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Jenna Helland"
 [_metadata_:description]:- "We use the last two weeks of each year here at DailyMTG.com to rerun our favorite articles from the year while our writers and staff take a break for the holidays.Jenna Helland was heavily involved in crafting both the design and the creative expression of Innistrad—a set where the two were intertwined to an impressive degree. That gives her a unique perspective on what makes"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "681231"
 [_metadata_:publish_date]:- "2011-12-26"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Innistrad From the Top"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 04:46:52+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 04:46:52"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429044652id_/https://magic.wizards.com/en/articles/archive/feature/innistrad-top-2011-12-26"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/innistrad-top-2011-12-26"
 ---

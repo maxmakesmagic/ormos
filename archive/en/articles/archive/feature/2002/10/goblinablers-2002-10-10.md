@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Jay Moldenhauer-Salazar"
 [_metadata_:description]:- "I made up a word this week: Goblinabler. I wanted something to describe non-Goblin cards that promote Goblin decks. Cards like Reckless One, Goblin Pyromancer, and Goblin Taskmaster obviously suggest that Goblin decks are again possible in Standard. But what I find interesting are those non-Goblin cards that also promote the use of Goblins. Goblinablers of old are cards like"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "626001"
 [_metadata_:publish_date]:- "2002-10-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Goblinablers"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-07 06:09:13+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-07 06:09:13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211207060913id_/https://magic.wizards.com/en/articles/archive/feature/goblinablers-2002-10-10"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/goblinablers-2002-10-10"
 ---

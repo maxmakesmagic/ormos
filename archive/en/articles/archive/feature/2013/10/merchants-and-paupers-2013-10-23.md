@@ -4,9 +4,11 @@
 
 [_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "667141"
 [_metadata_:publish_date]:- "2013-10-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Merchants and Paupers"
-[_metadata_:wayback_capture_timestamp]:- "2016-12-19 19:08:12+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-12-19 19:08:12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161219190812id_/http://magic.wizards.com/en/articles/archive/feature/merchants-and-paupers-2013-10-23"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/merchants-and-paupers-2013-10-23"
 ---

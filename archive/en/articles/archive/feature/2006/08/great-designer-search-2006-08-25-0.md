@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Official RulesMagic: The Gathering: The Great Designer SearchBy entering Wizards of the Coast, Inc.’s (“Wizards”) The Great Designer Search (the “Search”), you (“you” or “contestant”) agree to be bound by these Official Rules and any other requirements designated by Wizards.No Purchase Necessary. The Search is subject to the eligibility requirements and terms and conditions"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "625126"
 [_metadata_:publish_date]:- "2006-08-25"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Great Designer Search"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-03 07:19:04+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-03 07:19:04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503071904id_/https://magic.wizards.com/en/articles/archive/feature/great-designer-search-2006-08-25-0"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/great-designer-search-2006-08-25-0"
 ---

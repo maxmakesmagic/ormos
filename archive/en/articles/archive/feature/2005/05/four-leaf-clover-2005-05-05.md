@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "Randy Buehler, grand poobah of things Magical, once told me that, all things considered, the better player -- the better prepared, with the better deck, making fewer mistakes -- has about a 9-to-1 advantage over all games of tournament Magic."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "628001"
 [_metadata_:publish_date]:- "2005-05-05"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Four Leaf Clover"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-03 00:36:15+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-03 00:36:15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211203003615id_/https://magic.wizards.com/en/articles/archive/feature/four-leaf-clover-2005-05-05"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/four-leaf-clover-2005-05-05"
 ---

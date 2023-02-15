@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Randy Buehler Coming into this match, Kurt led the Pro Tour as the only 7-0 player on Day 1 and Darwin was 3rd with a 6-0-1 mark. During the draft, Darwin sat to Kurt's right and thus fed him two thirds of the time. Burgner wound up with his trademark aggressive green/white deck while Darwin wound up black/white. Darwin's Cateran Brute was the first spell cast in game 1."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "950641"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-Los Angeles 2000Round 8 Feature Match"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-07 00:22:27+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-07 00:22:27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211207002227id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-8-feature-match-2000-01-01-0"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-8-feature-match-2000-01-01-0"
 ---

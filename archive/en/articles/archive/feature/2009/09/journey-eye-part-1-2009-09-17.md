@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "    "
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "629141"
 [_metadata_:publish_date]:- "2009-09-17"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Journey to the Eye, Part 1"
-[_metadata_:wayback_capture_timestamp]:- "2020-12-02 19:23:04+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-12-02 19:23:04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201202192304id_/https://magic.wizards.com/en/articles/archive/feature/journey-eye-part-1-2009-09-17"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/journey-eye-part-1-2009-09-17"
 ---

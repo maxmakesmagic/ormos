@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20201112001156/https://magic.wizards.com/en/articles/archive/feature/art-gatecrash-2013-01-23-0)
+[Link to Wayback Machine](https://web.archive.org/web/20170816063709/http://magic.wizards.com/en/articles/archive/feature/art-gatecrash-2013-01-23-0)
 
 [_metadata_:author]:- "Jeremy Jarvis"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "682181"
 [_metadata_:publish_date]:- "2013-01-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Art of Gatecrash"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 00:11:56+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112001156id_/https://magic.wizards.com/en/articles/archive/feature/art-gatecrash-2013-01-23-0"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/art-gatecrash-2013-01-23-0"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-16 06:37:09"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170816063709id_/http://magic.wizards.com/en/articles/archive/feature/art-gatecrash-2013-01-23-0"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/art-gatecrash-2013-01-23-0"
 ---
 
 

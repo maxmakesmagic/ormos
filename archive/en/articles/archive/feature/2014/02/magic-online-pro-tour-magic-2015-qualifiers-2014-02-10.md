@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mike Turian"
 [_metadata_:description]:- "Pro Tour Qualifiers return to Magic Online with Magic 2015 Pro Tour Season, beginning March 15! Compete for an invitation to Pro Tour Magic 2015 and an invitation to Pro Tour Magic 2015 Challenge. Magic Online Pro Tour Qualifiers begin with PTQ Preliminaries in which player can win an invitation to the PTQ Finals. There are two formats for PTQ events: Limited and Standard."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "658791"
 [_metadata_:publish_date]:- "2014-02-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic Online Pro Tour Magic 2015 Qualifiers"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-24 03:57:21+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-24 03:57:21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524035721id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-pro-tour-magic-2015-qualifiers-2014-02-10"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-pro-tour-magic-2015-qualifiers-2014-02-10"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Opponent Result Adam, Felix (210) Haxton, Isaac (143) 2-0 Altermara, Chase (212) Carlisle, Lance (179) 0-2 Ames, David (157) Simmons, Charles (150) 2-1 Ames, Steve (61) Folczynski, Jordon (144) 2-0 Anderson, Eddie (15) White, Evan (130) 2-0 Anderson, Will (184) Mcatee, Brian (140) 2-1 Ash, Kevin (101) Lewis, Jonathan (185) 1-2 Aune, Eirik (167) Wagener, Joshua (46) 0-2"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "948981"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Super Series Championship Round 5 Pairings"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-24 04:03:57+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-24 04:03:57"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524040357id_/https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-5-pairings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-5-pairings-2000-01-01"
 ---

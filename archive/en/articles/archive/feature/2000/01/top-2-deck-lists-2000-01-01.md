@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "www.AlphaBetaUnlimited.com [decklist] Title: Chris Benafel 1 Forest 7 Mountain 7 Swamp 1 Shivan Oasis 1 Darigaaz's Caldera 1 Ancient Kavu 1 Caldera Kavu 1 Darigaaz's Attendant 1 Duskwalker 2 Kavu Aggressor 1 Mire Kavu 1 Nightscape Apprentice 1 Pouncing Kavu 1 Rogue Kavu 1 Shivan Emissary 1 Sparkcaster 1 Thornscape Battlemage 1 Vicious Kavu 1 Agonizing Demise 1 Cursed Flesh 2"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "806531"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Top 2 Deck Lists"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-02 08:27:10+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-02 08:27:10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220702082710id_/https://magic.wizards.com/en/articles/archive/feature/top-2-deck-lists-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/top-2-deck-lists-2000-01-01"
 ---

@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20170414134243/http://magic.wizards.com/en/articles/archive/feature/2016-magic-world-championship-graphics-2016-08-30)
+[Link to Wayback Machine](https://web.archive.org/web/20171030203024/https://magic.wizards.com/en/articles/archive/feature/2016-magic-world-championship-graphics-2016-08-30)
 
 [_metadata_:author]:- "Diego Fumagalli"
 [_metadata_:description]:- "The numbers behind the players competing this week for the title of Magic: The Gathering World Championship."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1059731"
 [_metadata_:publish_date]:- "2016-08-30"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The 2016 Magic World Championship—In Graphics"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-14 13:42:43+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170414134243id_/http://magic.wizards.com/en/articles/archive/feature/2016-magic-world-championship-graphics-2016-08-30"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/2016-magic-world-championship-graphics-2016-08-30"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-30 20:30:24"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030203024id_/https://magic.wizards.com/en/articles/archive/feature/2016-magic-world-championship-graphics-2016-08-30"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2016-magic-world-championship-graphics-2016-08-30"
 ---
 
 

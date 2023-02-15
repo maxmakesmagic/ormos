@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Dwarves in Magic are known for Dwarven Blastminer, Dwarven Vigilantes and Bloodfire Dwarf, and Dwarven Recruiter. But they may be known best for their skills in war, including crafting armor and weapons to pump other creatures. Dwarves, with the exception of Dwarven Strike Force (and that famous Witch/Inquisitor, Soldier/Deserter, and Pirate/Ninja Mistform Ultimus) are"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "597786"
 [_metadata_:publish_date]:- "2005-11-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Dwarves in Battle"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 06:19:24+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 06:19:24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429061924id_/https://magic.wizards.com/en/articles/archive/feature/dwarves-battle-2005-11-23"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dwarves-battle-2005-11-23"
 ---

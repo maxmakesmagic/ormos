@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "General Information: 8-Player Single-Elimination Pick Ups Format Cost Booster Draft ¥ 1500 Extended ¥ 500 Standard ¥ 500 Sealed Deck ¥ 2200 These tournaments will be added as requested (subject to players, space and judge availability). Registration Opens: 9:00 Registration Closes: 20:00 Prizes: Finalists will win 8 boosters for 1st place, and 4 boosters for 2nd place Prizes"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "640956"
 [_metadata_:publish_date]:- "2009-01-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour–Kyoto 2009 Public Events"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-26 23:40:50+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-26 23:40:50"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220626234050id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93kyoto-2009-public-events-2009-01-12"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93kyoto-2009-public-events-2009-01-12"
 ---

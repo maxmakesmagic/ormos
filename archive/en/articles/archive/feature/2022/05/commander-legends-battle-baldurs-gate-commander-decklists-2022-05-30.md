@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Check out the full decklists for the Commander Legends: Battle for Baldur's Gate!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1586849"
 [_metadata_:publish_date]:- "2022-05-30"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Commander Legends: Battle for Baldur's Gate Commander Decklists"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-30 16:57:24+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-30 16:57:24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220530165724id_/https://magic.wizards.com/en/articles/archive/feature/commander-legends-battle-baldurs-gate-commander-decklists-2022-05-30"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/commander-legends-battle-baldurs-gate-commander-decklists-2022-05-30"
 ---

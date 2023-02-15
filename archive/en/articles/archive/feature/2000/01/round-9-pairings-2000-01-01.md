@@ -4,9 +4,11 @@
 
 [_metadata_:description]:- "Table Player Points   Opponent Points 1 Saux, Rafaël A Le 24 vs. Cabrera, Adham Amc 22 2 Gabrenja, Matias 22 vs. Ruel, Antoine 22 3 Svaldi, Guilherme Dei 22 vs."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "959436"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 9 Pairings"
-[_metadata_:wayback_capture_timestamp]:- "2019-06-05 02:25:47+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2019-06-05 02:25:47"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190605022547id_/https://magic.wizards.com/en/articles/archive/feature/round-9-pairings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-9-pairings-2000-01-01"
 ---

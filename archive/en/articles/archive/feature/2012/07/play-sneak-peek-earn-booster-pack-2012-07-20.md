@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Greetings Magic Players! The new Magic Online Sneak Peek is in full swing and we are gathering a lot of great feedback. For all players who have tried out the new Magic Online beta client, we hope you are enjoying your time during the Sneak Peek and we thank you for your participation so far. If you haven't tried the new client yet, this is your chance to become involved and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "687886"
 [_metadata_:publish_date]:- "2012-07-20"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Play in the Sneak Peek, Earn a Booster Pack"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-21 23:40:47+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-21 23:40:47"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021234047id_/https://magic.wizards.com/en/articles/archive/feature/play-sneak-peek-earn-booster-pack-2012-07-20"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/play-sneak-peek-earn-booster-pack-2012-07-20"
 ---

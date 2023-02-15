@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Balthor the Defiled – Judgment rare. Originally, Balthor the Stout was Kamahl, Pit Fighter's mentor, a leader of men (and dwarves) in the Pardic Mountains. But Balthor was killed while battling Ambassador Laquatus and was reanimated as Balthor the Defiled. Balthor's second death comes at Kamahl's hands, who goes on to slay Laquatus himself. Mirri the Cursed – Planar Chaos"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "664651"
 [_metadata_:publish_date]:- "2008-09-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Card of the Day - September, 2008"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-26 16:54:53+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-26 16:54:53"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220626165453id_/https://magic.wizards.com/en/articles/archive/feature/card-day-september-2008-2008-09-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-day-september-2008-2008-09-01"
 ---

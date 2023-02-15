@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Barrage Comeback Domain Scout (Back to Product Page) Barrage To win with the Barrage deck, pretend you're the Incredible Hulk after too much coffee: `Hulk mad! Hulk SMASH!` The idea is to deal 20 damage before your opponent knows what's going on. Barrage does this with cheap, fast creatures, and it uses Familiars to make your spells even cheaper. You must play everything in"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "702371"
 [_metadata_:publish_date]:- "2008-08-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Planeshift Theme Decks"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-03 00:44:21+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-03 00:44:21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211203004421id_/https://magic.wizards.com/en/articles/archive/feature/planeshift-theme-decks-2008-08-18"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/planeshift-theme-decks-2008-08-18"
 ---

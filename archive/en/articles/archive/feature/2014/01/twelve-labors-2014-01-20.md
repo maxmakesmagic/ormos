@@ -4,9 +4,11 @@
 
 [_metadata_:description]:- "Born of the Gods will be in your hands soon, during the Prerelease February 1–2 at a store near you. I hope you find fun, excitement, and memories waiting inside your booster packs. New cards doing new things, exploration, and discovery await. Opening my first cards from Ice Age booster packs felt like gifts from the gods. I never thought to question how or why these new cards"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "152771"
 [_metadata_:publish_date]:- "2014-01-20"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Twelve Labors"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-27 07:50:07+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-27 07:50:07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220127075007id_/https://magic.wizards.com/en/articles/archive/feature/twelve-labors-2014-01-20"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/twelve-labors-2014-01-20"
 ---

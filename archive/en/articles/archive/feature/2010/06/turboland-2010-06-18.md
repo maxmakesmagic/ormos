@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Luis Scott-Vargas Format: Standard - 2nd Place - StarCityGames.com Open–Seattle 5 Forest 4 Island 4 Halimar Depths 4 Khalni Garden 4 Misty Rainforest 1 Scalding Tarn 4 Tectonic Edge 2 Verdant Catacombs 4 Avenger of Zendikar 4 Lotus Cobra 4 Oracle of Mul Daya 4 Jace, the Mind Sculptor 4 Explore 3 Mind Spring 1 Ponder 4 Rampant Growth 4 Time Warp *3 Roil"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "669816"
 [_metadata_:publish_date]:- "2010-06-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Turboland"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-18 09:56:16+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-18 09:56:16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018095616id_/https://magic.wizards.com/en/articles/archive/feature/turboland-2010-06-18"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/turboland-2010-06-18"
 ---

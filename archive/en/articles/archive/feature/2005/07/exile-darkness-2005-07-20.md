@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Adrian Sullivan"
 [_metadata_:description]:- "Sometimes our first try at something can be a bit off. I think of my own first try at making the Kiki-Jiki, Mirror Breaker deck from this year's State Championship tournament. There were a ton of flaws that needed hashing out, and tons of inefficient card choices. I remember my Pain Kamis and my struggle to fit in Intruder Alarms. So we try again."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "613966"
 [_metadata_:publish_date]:- "2005-07-20"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Exile Into Darkness"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-17 05:17:33+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-17 05:17:33"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220117051733id_/https://magic.wizards.com/en/articles/archive/feature/exile-darkness-2005-07-20"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/exile-darkness-2005-07-20"
 ---

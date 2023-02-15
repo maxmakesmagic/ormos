@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210122131401/https://magic.wizards.com/en/articles/archive/feature/angels-outfield-2012-10-02)
+[Link to Wayback Machine](https://web.archive.org/web/20210429062317/https://magic.wizards.com/en/articles/archive/feature/angels-outfield-2012-10-02)
 
 [_metadata_:author]:- "Conley Woods"
-[_metadata_:description]:- "So, with the release of Avacyn Restored, Magic gained access to miracles. The cards came across as unique and completely different, but also very powerful. Immediately following the release of Avacyn Restored, the set's Pro Tour was won by a White-Blue Miracle deck. From there, the mechanic took a turn to Legacy, where Brainstorm allows it to be manipulated more. We have not seen all that much from miracles in Standard, though."
+[_metadata_:description]:- "So, with the release of Avacyn Restored, Magic gained access to miracles. The cards came across as unique and completely different, but also very powerful. Immediately following the release of Avacyn Restored, the set's Pro Tour was won by a White-Blue Miracle deck. From there, the mechanic took a turn to Legacy, where Brainstorm allows it to be manipulated more. We have not"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "665601"
 [_metadata_:publish_date]:- "2012-10-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Angels in the Outfield"
-[_metadata_:wayback_capture_timestamp]:- "2021-01-22 13:14:01+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210122131401id_/https://magic.wizards.com/en/articles/archive/feature/angels-outfield-2012-10-02"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 06:23:17"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429062317id_/https://magic.wizards.com/en/articles/archive/feature/angels-outfield-2012-10-02"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/angels-outfield-2012-10-02"
 ---
 
@@ -471,7 +473,7 @@ OverviewColorCostRarity
 
 
 
-##### Common (30)
+##### Common (35)
 
 
 
@@ -492,11 +494,19 @@ OverviewColorCostRarity
 
 
 3
+[Thragtusk](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThragtusk%5D)
+
+
+3
 [Feeling of Dread](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFeeling%5D+%5Bof%5D+%5BDread%5D)
 
 
 4
 [Ponder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPonder%5D)
+
+
+3
+[Pristine Talisman](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPristine%5D+%5BTalisman%5D)
 
 
 4
@@ -511,12 +521,8 @@ OverviewColorCostRarity
 [Naturalize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNaturalize%5D)
 
 
-1
-[Negate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D)
 
-
-
-##### Uncommon (8)
+##### Uncommon (6)
 
 
 
@@ -525,15 +531,15 @@ OverviewColorCostRarity
 
 
 3
-[Pristine Talisman](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPristine%5D+%5BTalisman%5D)
-
-
-3
 [Celestial Purge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCelestial%5D+%5BPurge%5D)
 
 
+1
+[Negate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D)
 
-##### Rare (21)
+
+
+##### Rare (15)
 
 
 
@@ -543,14 +549,6 @@ OverviewColorCostRarity
 
 2
 [Sunpetal Grove](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSunpetal%5D+%5BGrove%5D)
-
-
-3
-[Thragtusk](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThragtusk%5D)
-
-
-3
-[Day of Judgment](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDay%5D+%5Bof%5D+%5BJudgment%5D)
 
 
 3
@@ -566,12 +564,16 @@ OverviewColorCostRarity
 
 
 
-##### Mythic (16)
+##### Mythic (19)
 
 
 
 4
 [Seachrome Coast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeachrome%5D+%5BCoast%5D)
+
+
+3
+[Day of Judgment](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDay%5D+%5Bof%5D+%5BJudgment%5D)
 
 
 4

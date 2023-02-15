@@ -5,9 +5,11 @@
 [_metadata_:author]:- "John Carter"
 [_metadata_:description]:- "Send your rules questions to Level Four Judge John Carter. Can't find the answer to your question somewhere else, like the Magic Comprehensive Rules? Maybe he's already answered it! Try the Saturday School Searchable Rules Database.This weekend is Pro Tour Honolulu. The best players in the world are taking a break from the wintry weather (for the northern hemisphere, that is)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "625396"
 [_metadata_:publish_date]:- "2006-03-04"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Aloha to the New Standard"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-19 19:41:03+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-19 19:41:03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519194103id_/https://magic.wizards.com/en/articles/archive/feature/aloha-new-standard-2006-03-04"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/aloha-new-standard-2006-03-04"
 ---

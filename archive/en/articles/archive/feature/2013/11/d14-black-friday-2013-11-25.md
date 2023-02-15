@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "This week, we are rolling out a Black Friday/Holiday Sale/You-Are-Awesome deal! You'll be able to buy Magic 2014—Duels of the Planeswalkers for 50% off, both the main game and the expansion! Here's the run-time for this promotion based on your chosen platform:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "650866"
 [_metadata_:publish_date]:- "2013-11-25"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "D14 Black Friday"
-[_metadata_:wayback_capture_timestamp]:- "2020-05-31 08:19:49+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-05-31 08:19:49"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200531081949id_/https://magic.wizards.com/en/articles/archive/feature/d14-black-friday-2013-11-25"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/d14-black-friday-2013-11-25"
 ---

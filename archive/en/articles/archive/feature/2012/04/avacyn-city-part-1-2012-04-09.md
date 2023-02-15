@@ -1,13 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20201112013532/https://magic.wizards.com/en/articles/archive/feature/avacyn-city-part-1-2012-04-09)
+[Link to Wayback Machine](https://web.archive.org/web/20210622003651/https://magic.wizards.com/en/articles/archive/feature/avacyn-city-part-1-2012-04-09)
 
 [_metadata_:author]:- "Mark Rosewater"
+[_metadata_:description]:- "I took a writing class many years ago that asked the question, `How do you start your story?` The answer seemed to be that you start with the boldest, most exciting aspect of your story. Grab your readers by the lapels and never let them go. Today is the first week of Avacyn Restored previews, so that means during the next three weeks I'm going to be telling the design story"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "654951"
 [_metadata_:publish_date]:- "2012-04-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Avacyn City, Part 1"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 01:35:32+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112013532id_/https://magic.wizards.com/en/articles/archive/feature/avacyn-city-part-1-2012-04-09"
+[_metadata_:wayback_capture_timestamp]:- "2021-06-22 00:36:51"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210622003651id_/https://magic.wizards.com/en/articles/archive/feature/avacyn-city-part-1-2012-04-09"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/avacyn-city-part-1-2012-04-09"
 ---
 
@@ -65,7 +68,7 @@ At the end of the weekend, I had a cool idea for a new mechanic based upon Richa
 
   
 
- The day the topic first came up that I'd be willing to move to Seattle and work for Wizards of the Coast in R&D, I was told that the available slot was for a developer. I explained to the then-Vice President of R&D, Mike Davis (who [Jayemdae Tome](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Jayemdae+Tome) was named after—full name J. Michael Davis—a.k.a. J.M.D.) that I felt my skills lay in design, not development. He told me they had Richard to do design. They needed developers.
+ The day the topic first came up that I'd be willing to move to Seattle and work for Wizards of the Coast in R&D, I was told that the available slot was for a developer. I explained to the then-Vice President of R&D, Mike Davis (who [Jayemdae Tome](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Jayemdae+Tome) was named after—full name J. Michael Davis—a.k.a. J.M.D.) that I felt my skills lay in design, not development. He told me they had Richard to do design. They needed developers.
 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/mtg/images/daily/mm/mm190_Amb.jpg)I took the job as a developer but I kept looking for a chance to design. That chance came with the set *Tempest*. I had convinced Richard to be on the design team (Richard hadn't designed a **Magic** set at that time since *Arabian Nights* years before) and that was enough to convince the Powers That Be to give me a chance. The fact that it was a large fall set is kind of crazy in retrospect, but I wasn't about to be scared away from the chance to prove that I was really a designer.
@@ -157,7 +160,7 @@ During the first meeting of the design team, Brian explained that it was our job
 
   
 
- The Pandora's Box idea morphed into the [Helvault](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Helvault). Avacyn was trapped inside and something was going to release her along with a horde of demons. If we were going to capture that flavor, we needed to find a mechanic that reflected the creatures that had been released. That's when I brought up the idea for the mechanic inspired by Richard's deck at the Worlds many years before. I dubbed the mechanic "forbidden."
+ The Pandora's Box idea morphed into the [Helvault](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Helvault). Avacyn was trapped inside and something was going to release her along with a horde of demons. If we were going to capture that flavor, we needed to find a mechanic that reflected the creatures that had been released. That's when I brought up the idea for the mechanic inspired by Richard's deck at the Worlds many years before. I dubbed the mechanic "forbidden."
 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/mtg/images/daily/mm/mm190_hel.jpg)We spent months and months tweaking forbidden. It was a strange mechanic that presented all types of odd problems. Development was very skeptical about forbidden, worried that the mechanic might be inherently broken. Brian pressed on, though, as he really liked the mechanic.
@@ -193,7 +196,7 @@ If I haven't made it clear before, Brian is a stubborn man. (It seems to run thr
 
   
 
- Forbidden was dead and it left a gaping hole in the design. We needed something to replace it. We spent some time thinking of other ways to represent the creatures freed from the [Helvault](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Helvault), but after spinning our wheels for a few weeks, Brian said he wanted to try a different take on solving the problem.
+ Forbidden was dead and it left a gaping hole in the design. We needed something to replace it. We spent some time thinking of other ways to represent the creatures freed from the [Helvault](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Helvault), but after spinning our wheels for a few weeks, Brian said he wanted to try a different take on solving the problem.
 
 
 ![](https://media.magic.wizards.com/image_legacy_migration/mtg/images/daily/mm/mm190_mom.jpg)One of the coolest things about the forbidden mechanic is that it made draws very exciting. Brian had really enjoyed how, when the mechanic was doing its thing, it brought great drama to the game, something not found in all **Magic** games. Perhaps the trick to replacing forbidden wasn't replacing what it represented storywise, but what it added to the set emotionally. Was there another way to make the draw exciting?
@@ -241,12 +244,12 @@ Richard asked to see the card. In its text box it read: "Your opponent loses nex
 Richard laughed at the confusion and changed the card to read: "Take an extra turn after this one."
 
 
-The card would, of course, be called [Time Walk](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Time+Walk).
+The card would, of course, be called [Time Walk](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Time+Walk).
 
 
   
 
- The earliest version of miracles had a small optional effect when drawn that comboed with the larger effect of the card. For example, there was a [Wrath of God](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wrath+of+God)-style card that had a draw trigger to make one of your creatures indestructible for the turn. The original miracles also triggered whenever they were drawn.
+ The earliest version of miracles had a small optional effect when drawn that comboed with the larger effect of the card. For example, there was a [Wrath of God](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wrath+of+God)-style card that had a draw trigger to make one of your creatures indestructible for the turn. The original miracles also triggered whenever they were drawn.
 
 
 During "devign" (the section of time in between design and development), the design team, based on notes from the development team, tried having the miracles reduce their mana cost instead of producing an additional ability. Both versions of the miracles were handed off to development to allow them to pick which one worked better. The one other big change made during development was to limit the miracles to only working on the first draw of the turn.
@@ -254,7 +257,7 @@ During "devign" (the section of time in between design and development), the des
 
   
 
- The key to making miracles was to pick effects that players would be excited to topdeck. When their back was to the wall, players could pray for a miracle and hope something awesome happened. One effect that seemed like a shoo-in was taking an extra turn. Miracles allow players to have the dream of casting an actual [Time Walk](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Time+Walk), an extra turn, for ![](https://web.archive.org/web/20211201201921im_/https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/colorless1.gif)![](https://web.archive.org/web/20161115194122im_/http://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/blue.gif).
+ The key to making miracles was to pick effects that players would be excited to topdeck. When their back was to the wall, players could pray for a miracle and hope something awesome happened. One effect that seemed like a shoo-in was taking an extra turn. Miracles allow players to have the dream of casting an actual [Time Walk](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Time+Walk), an extra turn, for ![](https://web.archive.org/web/20211201201921im_/https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/colorless1.gif)![](https://web.archive.org/web/20161115194122im_/http://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/blue.gif).
 
 
 

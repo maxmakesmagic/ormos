@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Stephan Valkyser vs. Dirk Baberowski It was German versus German when Stephan Valkyser and Dirk Baberowski met with Top 8 on the line in the last round of Pro Tour Chicago. Baberowski was trying to become the first person ever to win the same Pro Tour twice (he won in Chicago last year) while Valkyser is at least the best German player without a Top 8. Stephan won the roll and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "951076"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-Chicago 1999Round 14 Feature Match"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-20 13:36:39+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-20 13:36:39"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520133639id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-14-feature-match-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-14-feature-match-2000-01-01"
 ---

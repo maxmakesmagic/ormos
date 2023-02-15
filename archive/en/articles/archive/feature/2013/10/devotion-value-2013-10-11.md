@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:description]:- "I'm no stranger to casting large Sphinx's Revelations, but I usually do it the old-fashioned way. No ramp, no tricks, just playing ten lands in a row until I can fire off a Rev for seven. While today's deck can do that just like any Rev deck, it's got the potential to do so much more, all thanks to Nykthos. By utilizing a variety of permanent-based solutions, it is easy to"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "667101"
 [_metadata_:publish_date]:- "2013-10-11"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Devotion to Value"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-14 02:47:37+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-14 02:47:37"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220814024737id_/https://magic.wizards.com/en/articles/archive/feature/devotion-value-2013-10-11"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/devotion-value-2013-10-11"
 ---

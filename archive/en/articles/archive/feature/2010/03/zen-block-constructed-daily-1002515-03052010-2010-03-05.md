@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: mwojcik (4-0) 1 Dread Statuary 4 Marsh Flats 13 Swamp 2 Tectonic Edge 4 Verdant Catacombs 4 Gatekeeper of Malakir 4 Malakir Bloodwitch 4 Vampire Hexmage 4 Vampire Nighthawk 4 Grim Discovery 3 Mind Sludge 3 Mire's Toll 4 Smother 2 Sorin Markov 4 Urge to Feed *4 Bloodghast *3 Bloodhusk Ritualist *2 Marsh Casualties *1 Mind Sludge *3 Quest for the Gravelord *2"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "838446"
 [_metadata_:publish_date]:- "2010-03-05"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "ZEN Block Constructed Daily #1002515 on 03/05/2010"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-01 20:54:57+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-01 20:54:57"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211201205457id_/https://magic.wizards.com/en/articles/archive/feature/zen-block-constructed-daily-1002515-03052010-2010-03-05"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/zen-block-constructed-daily-1002515-03052010-2010-03-05"
 ---

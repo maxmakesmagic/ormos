@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Donnie Noland's Noland Control Format: Standard 3 Drowned Catacomb 4 Verdant Catacombs 4 Misty Rainforest 4 Creeping Tar Pit 2 Halimar Depths 2 Swamp 3 Island 4 Forest 4 Lotus Cobra 3 Oracle of Mul Daya 3 Frost Titan 1 Avenger of Zendikar 1 Sphinx of Lost Truths 4 Mana Leak 3 Doom Blade 1 Jace's Ingenuity 4 Jace, the Mind Sculptor 2 Garruk Wildspeaker 4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "670406"
 [_metadata_:publish_date]:- "2010-11-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Noland Control"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-18 20:55:13+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-18 20:55:13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118205513id_/https://magic.wizards.com/en/articles/archive/feature/noland-control-2010-11-22"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/noland-control-2010-11-22"
 ---

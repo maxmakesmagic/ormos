@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Collector's Highlights Contents include: 60-card premium foil deck, including 6 rare cards Exclusive Spindown life counter Foil deck box Strategy insert Magic `learn to play` guide  Call Forth the Dead Legions of corpses await your sinister commands. This 60-card, all-foil deck entombs, exhumes, and reanimates some of the most powerful Magic creatures from all five colors of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "701681"
 [_metadata_:publish_date]:- "2011-10-26"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Premium Deck Series: Graveborn"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-28 08:41:47+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-28 08:41:47"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211128084147id_/https://magic.wizards.com/en/articles/archive/feature/premium-deck-series-graveborn-2011-10-26"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/premium-deck-series-graveborn-2011-10-26"
 ---

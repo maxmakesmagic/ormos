@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Doug Beyer"
 [_metadata_:description]:- "Actually, this isn't just a hybrid article. It's a hybrid column. It's one part art appreciation, one part investigation of the meanings and origins of card names and flavor text, one part backstory / storyline of the Magic multiverse, and about seventy parts `what's it like to be a planeswalker` (I'm very fond of that part)."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "622801"
 [_metadata_:publish_date]:- "2008-04-30"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Hybrid Flavor"
-[_metadata_:wayback_capture_timestamp]:- "2016-07-06 15:43:38+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-07-06 15:43:38"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160706154338id_/http://magic.wizards.com/en/articles/archive/feature/hybrid-flavor-2008-04-30"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/hybrid-flavor-2008-04-30"
 ---

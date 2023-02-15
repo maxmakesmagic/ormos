@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Frank Karsten"
 [_metadata_:description]:- "Hello and welcome back to Online Tech. Today I'll zoom in on the Magic Online Standard metagame again. As I explained last week, I am doing biweekly Standard coverage now, as opposed to weekly coverage, as I believe the larger sample size will cancel out random fluctuations and hence allow for better analysis. So this week it's time to cover Standard! In the following table I"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "624326"
 [_metadata_:publish_date]:- "2007-04-11"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Rogue Decks in a Bind"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-12 12:55:05+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-12 12:55:05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220812125505id_/https://magic.wizards.com/en/articles/archive/feature/rogue-decks-bind-2007-04-11"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/rogue-decks-bind-2007-04-11"
 ---

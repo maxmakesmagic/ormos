@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Jeremy Jarvis"
 [_metadata_:description]:- "Well over a year ago as of this writing, before any of you had even seen Innistrad, Magiccreative was full speed on the turnpike back to Ravnica. The challenges were similar to those of revisiting Mirrodin, but with a couple of differences. The first being that Scars always had an eye on where that block was going... it was as much revisiting Phyrexia as it was a rebuild of Mirrodin."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "353431"
 [_metadata_:publish_date]:- "2012-09-25"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Look of Return to Ravnica"
-[_metadata_:wayback_capture_timestamp]:- "2015-07-11 23:23:25+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2015-07-11 23:23:25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150711232325id_/http://magic.wizards.com/en/articles/archive/feature/look-return-ravnica-2012-09-25"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/look-return-ravnica-2012-09-25"
 ---

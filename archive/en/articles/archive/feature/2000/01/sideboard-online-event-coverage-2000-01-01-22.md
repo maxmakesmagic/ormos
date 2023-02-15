@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Junior Super Series Championship Round 3 Standings - 14 and under Division  Op-Match Rank Name Points Win% 1 Landers Mark 9 66.67 2 Franz Eric 9 66.67 3 Burt Rodney 9 55.56 4 Lipp Scott 9 55.56 5 Hartman Nick 9 55.56 6 Winnard Marty 9 44.44 7 Behlen Andrew 9 44.44 8 Lester Steve 6 77.78 9 Zappelli Joey 6 66.67 10 Vo Nguyen 6 66.67 11 Reidy Ryan 6 66.67 12 Stern Evan 6 66.67 13"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "953306"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Sideboard Online Event Coverage"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-29 02:09:06+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-29 02:09:06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220529020906id_/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-22"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-22"
 ---

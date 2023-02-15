@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "&#13; One of the biggest, splashiest cycles in Shards of Alara is the five-card Ultimatum cycle. Today, we look at the planeswalkers responsible for four of them."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "653296"
 [_metadata_:publish_date]:- "2008-10-27"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Whose Ultimatum?"
-[_metadata_:wayback_capture_timestamp]:- "2017-01-03 17:39:55+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-01-03 17:39:55"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170103173955id_/http://magic.wizards.com/en/articles/archive/feature/whose-ultimatum-2008-10-27"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/whose-ultimatum-2008-10-27"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Play in the Magic 2011 Prerelease Events and experience the newest Core Set before it goes on sale! All prerelease players will also earn a Sun Titan prerelease card! NOTE: Magic 2011 becomes legal in ALL constructed formats following the July 28 downtime. MAGIC 2011 PRERELEASE SWISS SEALED FLIGHTSSTART TIMES: On demand beginning Friday, July 30 at 10:00 AM PDT (17:00 UTC) and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "687841"
 [_metadata_:publish_date]:- "2010-07-14"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic Online Magic 2011 Prerelease Events"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-24 21:11:33+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-24 21:11:33"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524211133id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-magic-2011-prerelease-events-2010-07-14"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-magic-2011-prerelease-events-2010-07-14"
 ---

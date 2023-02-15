@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "For those who were not at Grand Prix Philadelphia last week, you missed the largest North American Magic event ever. Good times were had, but at the back end of the event, Hurricane Sandy had quite the say on Magic players' travels as well as the living conditions of millions. While I am technically writing this from the middle of the storm, by the time you read this, I should"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "665731"
 [_metadata_:publish_date]:- "2012-11-06"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Rising Tide"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-27 18:17:06+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-27 18:17:06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220627181706id_/https://magic.wizards.com/en/articles/archive/feature/rising-tide-2012-11-06"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/rising-tide-2012-11-06"
 ---

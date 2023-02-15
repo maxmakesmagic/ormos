@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210218231917/https://magic.wizards.com/en/articles/archive/feature/first-lesson-introduction-strixhaven-2021-02-18)
+[Link to Wayback Machine](https://web.archive.org/web/20210923021548/https://magic.wizards.com/en/articles/archive/feature/first-lesson-introduction-strixhaven-2021-02-18?&partner=CardsRealm&medium=cardsrealm&utm_source=CardsRealm&utm_medium=affiliate&utm_campaign=CardsRealm)
 
 [_metadata_:author]:- "Blake Rasmussen"
 [_metadata_:description]:- "Class is starting soon. Here's what you need to know about your enrollment at Strixhaven: School of Mages."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1528220"
 [_metadata_:publish_date]:- "2021-02-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The First Lesson: Introduction to Strixhaven"
-[_metadata_:wayback_capture_timestamp]:- "2021-02-18 23:19:17+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210218231917id_/https://magic.wizards.com/en/articles/archive/feature/first-lesson-introduction-strixhaven-2021-02-18"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/first-lesson-introduction-strixhaven-2021-02-18"
+[_metadata_:wayback_capture_timestamp]:- "2021-09-23 02:15:48"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210923021548id_/https://magic.wizards.com/en/articles/archive/feature/first-lesson-introduction-strixhaven-2021-02-18?&partner=CardsRealm&medium=cardsrealm&utm_source=CardsRealm&utm_medium=affiliate&utm_campaign=CardsRealm"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/first-lesson-introduction-strixhaven-2021-02-18?&partner=CardsRealm&medium=cardsrealm&utm_source=CardsRealm&utm_medium=affiliate&utm_campaign=CardsRealm"
 ---
 
 
@@ -55,7 +57,7 @@ The Colleges
 ============
 
 
-Each of our Colleges was founded by the elder dragon whose name each school bears. Our founders were paragons of magic and knowledge, and each school strives to match its founder's vision and magical aptitudes! We won't be meeting the founders today, but with any amount of luck, they may show up at orientation!
+Each of our Colleges was founded by the elder dragon whose name each college bears. Our founders were paragons of magic and knowledge, and each college strives to match its founder's vision and magical aptitudes! We won't be meeting the founders today, but with any amount of luck, they may show up at orientation!
 
 
 Take careful consideration of each college and start giving thought to which one you'll choose!
@@ -181,7 +183,7 @@ For those who wish to expand their learning on *Strixhaven*, here are a few more
 ==========================
 
 
-There will be five Commander decks, one for each school. *Commander (2021 Edition)* features 81 new cards. Each deck will focus on the colors and themes of its associated college!
+There will be five Commander decks, one for each college. *Commander (2021 Edition)* features 81 new cards. Each deck will focus on the colors and themes of its associated college!
 
 
 The decks are named:
@@ -203,7 +205,7 @@ What we can tell you is that you'll notice some differences with the packaging f
 ======================
 
 
-There are many ways to visit Strixhaven! From Draft Boosters and Set Boosters to Bundles and more—including enjoying the benefits the school of your choice at Prerelease events—there are options aplenty to tailor your experience. We will, of course, be sharing more details closer to your orientation.
+There are many ways to visit Strixhaven! From Draft Boosters and Set Boosters to Bundles and more—including enjoying the benefits the college of your choice at Prerelease events—there are options aplenty to tailor your experience. We will, of course, be sharing more details closer to your orientation.
 
 
 ![STX Draft Booster Display](https://media.wizards.com/2021/images/daily/en_I132zfi1gq.png)
@@ -231,10 +233,13 @@ Mystical Archive Details
 Naturally, the wonders of our Biblioplex draw the most attention, and with good reason! We have a vast library of spells from throughout space and time, and we'll be granting access to 63 of these on your first trip to Strixhaven. These spells come from across time, so their inclusion in the Mystical Archive does not affect their format legality. That means no Demonic Tutor in your Standard tournaments, but if you open one in a draft, Tutor away.
 
 
-The Mystical Archive is open to all, and you'll receive one copy in each Draft Booster and each Set Booster, and at least *three* in each Collector Booster!
+The Mystical Archive is open to all, and you'll receive one copy—from its own dedicated slot—in each Draft Booster and each Set Booster, and at least *three* in each Collector Booster!
 
 
-Later today, our Japanese team will be revealing something pretty cool. Stay tuned or watch this space for more details tomorrow!
+The [Japanese variants](https://mtg-jp.com/reading/publicity/0034793/) for Mystical Archive will be found in Japanese Draft, Set, and Collector Boosters, and at least one will come in Collector Boosters in all languages!
+
+
+Both the regular and Japanese versions of Mystical Archive cards will come in foil *and*, found only in Collector Boosters, the new foil-etched treatment. We know that those of you who maintain your own biblioplexes will want more information, and we'll have that as we arrive on *Strixhaven* later in March!
 
 
 

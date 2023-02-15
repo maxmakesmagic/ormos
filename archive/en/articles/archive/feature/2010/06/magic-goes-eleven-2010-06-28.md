@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "Welcome to the first week (of two) of Magic 2011 Previews. This week and next, I'll give you a little insight into how the latest core set was whipped into shape. And if you're extra nice, I might even throw in a preview card or two. Sound good? Well then, let's get going. Don't miss the end of today's column where I'll tell you about a job opportunity on the Magic Brand team."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "657456"
 [_metadata_:publish_date]:- "2010-06-28"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic Goes To Eleven"
-[_metadata_:wayback_capture_timestamp]:- "2020-08-05 19:24:04+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-08-05 19:24:04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200805192404id_/https://magic.wizards.com/en/articles/archive/feature/magic-goes-eleven-2010-06-28"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-goes-eleven-2010-06-28"
 ---

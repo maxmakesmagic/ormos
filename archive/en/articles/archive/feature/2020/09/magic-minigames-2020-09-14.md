@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Annie Sardelis"
 [_metadata_:description]:- "With the debut of the Set Booster comes the debut of Magic minigames, and you can find them in Zendikar Rising Set Boosters themselves!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1509117"
 [_metadata_:publish_date]:- "2020-09-14"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic Minigames"
-[_metadata_:wayback_capture_timestamp]:- "2020-09-21 10:16:23+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-09-21 10:16:23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200921101623id_/https://magic.wizards.com/en/articles/archive/feature/magic-minigames-2020-09-14"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-minigames-2020-09-14"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Blake Rasmussen"
 [_metadata_:description]:- "Sure, you're excited to see all the new cards in Oath of the Gatewatch, but don't miss the awesome art on the outside of the packs!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "957511"
 [_metadata_:publish_date]:- "2015-12-28"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Packaging of Oath of the Gatewatch"
-[_metadata_:wayback_capture_timestamp]:- "2015-12-30 21:38:54+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2015-12-30 21:38:54"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151230213854id_/http://magic.wizards.com/en/articles/archive/feature/packaging-oath-gatewatch-2015-12-28"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/packaging-oath-gatewatch-2015-12-28"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Red MonkeyRed Monkey makes unique, hand-built leather accessories embodying the spirit of rock n’ roll. Inspired by the rugged, lived-in character of vintage western wear and classic American motorcycle leathers, Red Monkey leather goods are designed to break-in and get even better with age. For Magic, they're making a range of bags, belts, and cuffs."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "635336"
 [_metadata_:publish_date]:- "2012-09-07"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic: The Gathering Merchandise"
-[_metadata_:wayback_capture_timestamp]:- "2016-07-07 07:49:33+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-07-07 07:49:33"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160707074933id_/http://magic.wizards.com/en/articles/archive/feature/magic-gathering-merchandise-2012-09-07"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-gathering-merchandise-2012-09-07"
 ---

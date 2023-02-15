@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "Welcome to Shards of Alara Previews, Week 3. During the last two weeks, I've spent a lot of time talking about what the other designers were doing during Shards design. Today it's time to talk about what I was up to. Don't worry before I'm through I'll show off a preview card, but today's card is going to wait until I set it up correctly. That said, let's get going. I have a lot to talk about."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "657196"
 [_metadata_:publish_date]:- "2008-09-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Shard Tricks"
-[_metadata_:wayback_capture_timestamp]:- "2020-08-18 20:06:21+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-08-18 20:06:21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200818200621id_/https://magic.wizards.com/en/articles/archive/feature/shard-tricks-2008-09-22"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/shard-tricks-2008-09-22"
 ---

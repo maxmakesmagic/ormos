@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Opponent Result Akbar, David Soo, Waiken Lost, 1-2 Allen, Dustin Swoyer, Mark Lost, 1-2 Aubertin, Justin Mitchell Jr., Bruce Won, 2-0 Beckmon, Jon Duvall, Jeffrey Won, 2-0 Benafel, Chris Comer, Alan Won, 2-0 Bhattacharyya, Sayan Mitchell, Alex Lost, 1-2 Blackwell, Trevor Maher Jr., Bob Lost, 1-2 Bragg, Tillman Lane, Adam Drew, 1-1 Bregoli, Mike Humpherys, David Lost,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "949241"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "US Nationals 2000 Round 9 Results"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-22 18:26:50+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-22 18:26:50"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522182650id_/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-9-results-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-9-results-2000-01-01"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "With Masters 25 previews starting next week, now is the perfect time to explain what goes into a Masters set."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1257146"
 [_metadata_:publish_date]:- "2018-02-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Future of Masters"
-[_metadata_:wayback_capture_timestamp]:- "2018-02-22 15:44:16+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2018-02-22 15:44:16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180222154416id_/https://magic.wizards.com/en/articles/archive/feature/future-masters-2018-02-22"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/future-masters-2018-02-22"
 ---

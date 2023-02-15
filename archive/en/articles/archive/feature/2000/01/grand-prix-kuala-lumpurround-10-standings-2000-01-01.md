@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Nobushita, Jun 30 71.0000 76.9231 65.9330 10/10/0/0 2 Thong, Scott 27 64.5556 69.2308 61.0158 10/9/0/0 3 Khoo, Wei Ren 25 66.8783 78.2609 63.2236 7/5/1/3 4 Yamada, Tsutomu 25 62.3457 78.2609 59.1741 9/7/1/1 5 Hew, Jun-Wei 24 71.6667 78.2609 63.5858 8/6/0/2 6 Soh, Ryan Siong Huat 24 63.4722 73.9130"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "952556"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix-Kuala LumpurRound 10 Standings"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-27 14:00:46+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-27 14:00:46"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527140046id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-10-standings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-10-standings-2000-01-01"
 ---

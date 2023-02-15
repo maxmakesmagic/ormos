@@ -5,9 +5,11 @@
 [_metadata_:author]:- "John H. Klauk"
 [_metadata_:description]:- "As I mentioned in my last Conventional Magic article, I am a HUGE fan of Magic: The Gathering® Online. With the announcement of Mirage coming out for Magic Online, I am more excited than the most excited thing you can imagine that is currently filled with excitement! Phasing….flanking……it’s all coming back to me now…… But, until the day I get to poison my way to victory again"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "638111"
 [_metadata_:publish_date]:- "2005-07-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Conventional Magic - The Best Four Days In Magic"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-14 19:55:05+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-14 19:55:05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220814195505id_/https://magic.wizards.com/en/articles/archive/feature/conventional-magic-best-four-days-magic-2005-07-22"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/conventional-magic-best-four-days-magic-2005-07-22"
 ---

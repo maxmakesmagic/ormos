@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Abe, Kazufumi (145) Alvarenga, Rafael (76) Anzorena, Pablo (15) Auer, Jeffrey (104) Azevedo, Pedro (199) Bachmann, David (229) Baehr, Kevin (155) Benefel, Chris (163) Benefield, Kevin (234) Bentley, Dennis (99) Bernabeu, Jesus (143) Berti, Francesco (203) Bethencourt, Daniel (174) Betti, Alessandro (65) Blackwell, Trevor (298) Bock, Daniel (265) Boeken, Noah (129) Boling,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "950741"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-Los Angeles 2000Player List"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-26 17:29:45+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-26 17:29:45"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126172945id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000player-list-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000player-list-2000-01-01"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "updated 3-3-05"
 [_metadata_:description]:- "FirstLastCityDateJaredPierceMadison1/15/2005Steve PortJoelMangnerSt."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "736031"
 [_metadata_:publish_date]:- "2005-02-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Seattle Trial Byes"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-19 20:10:48+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-19 20:10:48"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220819201048id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-seattle-trial-byes-2005-02-03"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-seattle-trial-byes-2005-02-03"
 ---

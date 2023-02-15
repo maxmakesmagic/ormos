@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "InformationTournament Schedule Tournament Byes Public Events Artist Information Travel Information Contact Information Date: February 13-14, 2010 Format: Extended Tournament Location Marriott-Oakland City Center 1001 Broadway, Oakland, CA 94607 (510) 451-4000 Registration: $30 Friday, February 12: 2 p.m. - 9 p.m. Saturday, February 13: 8 a.m.- 9:30 a.m. Get your free promo"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "635531"
 [_metadata_:publish_date]:- "2010-01-06"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix–Oakland Event Information"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-08 19:49:30+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-08 19:49:30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220808194930id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93oakland-event-information-2010-01-06"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93oakland-event-information-2010-01-06"
 ---

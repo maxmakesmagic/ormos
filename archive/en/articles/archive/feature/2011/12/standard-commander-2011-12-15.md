@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "TCGplayer.com Commander columnist Cassidy Silver tried out something new in his most recent article: a Standard-legal Commander deck! This budget-friendly alternative is something fun to try in your playgroup and helps open up the format to newer players. Take a look at Cassidy's first take on the format and try it for yourself!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "671866"
 [_metadata_:publish_date]:- "2011-12-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Standard Commander"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 00:27:33+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-12 00:27:33"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112002733id_/https://magic.wizards.com/en/articles/archive/feature/standard-commander-2011-12-15"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/standard-commander-2011-12-15"
 ---

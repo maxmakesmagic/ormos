@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Adrian Sullivan"
 [_metadata_:description]:- "It is just about the end of the year, and I'm sure many of you are out there preparing for the holiday season. As the calendar gets close to the end, it can often be a time to reflect not only this past year, but also the past in general. After nearly a year of writing this column and given the upcoming holiday, I thought I'd give myself a little gift and talk about my favorite card of all time, Sylvan Library."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "613626"
 [_metadata_:publish_date]:- "2004-12-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Sullivan Library"
-[_metadata_:wayback_capture_timestamp]:- "2016-07-11 11:05:55+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-07-11 11:05:55"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160711110555id_/http://magic.wizards.com/en/articles/archive/feature/sullivan-library-2004-12-15"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/sullivan-library-2004-12-15"
 ---

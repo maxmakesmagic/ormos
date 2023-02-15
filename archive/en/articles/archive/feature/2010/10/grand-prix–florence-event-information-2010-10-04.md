@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "InformationTournament Schedule  Tournament Byes  Public Events  Artist Information  Travel Information  Contact Information"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "728486"
 [_metadata_:publish_date]:- "2010-10-04"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix–Florence Event Information"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-30 22:30:12+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-30 22:30:12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030223012id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93florence-event-information-2010-10-04"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93florence-event-information-2010-10-04"
 ---

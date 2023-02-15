@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Adam Lee"
 [_metadata_:description]:- "Hello all! Today it's my pleasure to introduce creative consultant Adam Lee. Adam, Internet. Internet, Adam. Adam wrote names and flavor text for Rise of the Eldrazi (among other things), and he'll be working with the creative team over the coming months. There's a good chance you'll see his name around the site in that time. In the meantime, enjoy his musings and notes on the creative effort behind the flavor writing for Rise of the Eldrazi.Kelly Digges Daily MTG Editor, magicthegathering.com"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "684266"
 [_metadata_:publish_date]:- "2010-05-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Writing the Eldrazi"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-07 21:29:56+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-04-07 21:29:56"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170407212956id_/http://magic.wizards.com/en/articles/archive/feature/writing-eldrazi-2010-05-03"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/writing-eldrazi-2010-05-03"
 ---

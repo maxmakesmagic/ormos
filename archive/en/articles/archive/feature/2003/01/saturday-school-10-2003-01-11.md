@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Rune Horvik"
 [_metadata_:description]:- "Rune is back and rested from the holidays and ready to answer your questions. Send them to ask@wizards.com.If you don't see an answer to your question here, try our Searchable Rules Database."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "622101"
 [_metadata_:publish_date]:- "2003-01-11"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Saturday School #10"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-06 06:01:05+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-06 06:01:05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170606060105id_/http://magic.wizards.com/en/articles/archive/feature/saturday-school-10-2003-01-11"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/saturday-school-10-2003-01-11"
 ---

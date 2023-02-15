@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20220919151311/https://magic.wizards.com/en/articles/archive/feature/where-find-unfinity-previews-2022-09-19)
+[Link to Wayback Machine](https://web.archive.org/web/20220919223039/https://magic.wizards.com/en/articles/archive/feature/where-find-unfinity-previews-2022-09-19?utm_campaign=MTG---UNF---Unfinity&utm_source=TWITTER&utm_medium=social&utm_content=7651475200)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "What's been previewed, what's going to be previewed, and where you can find all of it for Unfinity, right here!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1605755"
 [_metadata_:publish_date]:- "2022-09-19"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Where to Find Unfinity Previews"
-[_metadata_:wayback_capture_timestamp]:- "2022-09-19 15:13:11+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220919151311id_/https://magic.wizards.com/en/articles/archive/feature/where-find-unfinity-previews-2022-09-19"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/where-find-unfinity-previews-2022-09-19"
+[_metadata_:wayback_capture_timestamp]:- "2022-09-19 22:30:39"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220919223039id_/https://magic.wizards.com/en/articles/archive/feature/where-find-unfinity-previews-2022-09-19?utm_campaign=MTG---UNF---Unfinity&utm_source=TWITTER&utm_medium=social&utm_content=7651475200"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/where-find-unfinity-previews-2022-09-19?utm_campaign=MTG---UNF---Unfinity&utm_source=TWITTER&utm_medium=social&utm_content=7651475200"
 ---
 
 
@@ -82,7 +84,7 @@ If you just can't wait to get your hands on these incredible cards, you can find
 * [Kyle Hill](https://twitter.com/Sci_Phile)
 * [LoadingReadyRun](https://www.youtube.com/channel/UCwjN2uVdL9A0i3gaIHKFzuA)
 * [Making *Magic*](https://magic.wizards.com/en/articles/columns/making-magic)
-* [Maria Bartholdi](https://twitter.com/GLHFMagic)
+* [Good Luck High Five](https://www.goodluckhighfive.com/)
 * [Official *Magic* Discord](https://discord.com/invite/wizards-magic)
 * [Zbexx](https://twitter.com/ZBexx)
 
@@ -176,7 +178,7 @@ If you just can't wait to get your hands on these incredible cards, you can find
 
 
 * [DouLeTCG](https://www.facebook.com/DouLeTCG)
-* [Good Luck High Five](https://www.goodluckhighfive.com/)
+* [Maria Bartholdi](https://twitter.com/MissMariapants)
 * [VeggieWagon](https://twitter.com/VeggieWagonYee)
 
 **September 26**

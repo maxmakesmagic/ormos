@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20200910194601/https://magic.wizards.com/en/articles/archive/feature/2005-pro-tour%E2%80%93columbus-2004-08-04)
+[Link to Wayback Machine](https://web.archive.org/web/20160927123336/http://magic.wizards.com/en/articles/archive/feature/2005-pro-tour%E2%80%93columbus-2004-08-04)
 
 [_metadata_:author]:- "Wizards of the Coast"
-[_metadata_:description]:- "   Brian David-Marshall's preview of Pro Tour–Columbus  Come join Wizards of the Coast for our next Pro Tour stop in Columbus. This information will help you to prepare now to attend in October. Pro Tour Columbus will be held October 29-31, 2004."
+[_metadata_:description]:- "&#13;  &#13; &#13; Brian David-Marshall's preview of&#13; Pro Tour–Columbus&#13; &#13; Come join Wizards of the Coast for our next Pro Tour stop in Columbus. This information will help you to prepare now to attend in October. Pro Tour Columbus will be held October 29-31, 2004."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "733651"
 [_metadata_:publish_date]:- "2004-08-04"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2005 Pro Tour–Columbus"
-[_metadata_:wayback_capture_timestamp]:- "2020-09-10 19:46:01+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200910194601id_/https://magic.wizards.com/en/articles/archive/feature/2005-pro-tour%E2%80%93columbus-2004-08-04"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2005-pro-tour%E2%80%93columbus-2004-08-04"
+[_metadata_:wayback_capture_timestamp]:- "2016-09-27 12:33:36"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160927123336id_/http://magic.wizards.com/en/articles/archive/feature/2005-pro-tour%E2%80%93columbus-2004-08-04"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/2005-pro-tour%E2%80%93columbus-2004-08-04"
 ---
 
 

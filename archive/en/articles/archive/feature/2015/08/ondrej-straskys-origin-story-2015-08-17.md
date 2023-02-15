@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mike Rosenberg"
 [_metadata_:description]:- "Learn more about 2015 Magic World Championship competitor Ondřej Stráský's Magic and Pro Tour origins!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "454501"
 [_metadata_:publish_date]:- "2015-08-17"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Ondřej Stráský's Origin Story"
-[_metadata_:wayback_capture_timestamp]:- "2015-08-18 15:42:11+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2015-08-18 15:42:11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150818154211id_/http://magic.wizards.com/en/articles/archive/feature/ondrej-straskys-origin-story-2015-08-17"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/ondrej-straskys-origin-story-2015-08-17"
 ---

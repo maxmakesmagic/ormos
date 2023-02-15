@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Since you're here, we can assume that you enjoy reading words written about Magic. But what about listening? Have you ever tried that? It's pretty relaxing, and it leaves your eyes free for other tasks. And one of the best ways to listen to people talking about Magic is to listen to a Magic podcast! If you want to listen to a lot of podcasts, the place to go is MTGCast, which"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "600476"
 [_metadata_:publish_date]:- "2010-02-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Community Spotlight: Podcasts"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-17 22:47:23+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-17 22:47:23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220117224723id_/https://magic.wizards.com/en/articles/archive/feature/community-spotlight-podcasts-2010-02-12"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/community-spotlight-podcasts-2010-02-12"
 ---

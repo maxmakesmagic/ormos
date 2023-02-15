@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Brian Rogers"
 [_metadata_:description]:- "It’s o.k. You’re among friends. There is nothing to be ashamed of. It happens to everyone sometimes. No matter what you do, sometimes, you are going to lose a game of Magic®. The important thing is how you face losing. The Wrath of Khan Without a doubt, the best Star Trek movie of all time, The Wrath of Khan comes to a climax with the death of Spock, Captain Kirk’s first"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "638291"
 [_metadata_:publish_date]:- "2006-03-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "I Don’t Believe in a No Win Situation - Part I"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-15 06:23:14+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-15 06:23:14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220815062314id_/https://magic.wizards.com/en/articles/archive/feature/i-don%E2%80%99t-believe-no-win-situation-part-i-2006-03-16"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/i-don%E2%80%99t-believe-no-win-situation-part-i-2006-03-16"
 ---

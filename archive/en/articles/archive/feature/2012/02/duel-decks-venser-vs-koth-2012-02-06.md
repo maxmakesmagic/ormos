@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Collector's Highlights  Each of the cards in the two 60-card decks will be black-bordered and tournament legal. This means that these cards are legal for use in any tournaments where the original printings are still legal."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "707701"
 [_metadata_:publish_date]:- "2012-02-06"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Duel Decks: Venser vs. Koth"
-[_metadata_:wayback_capture_timestamp]:- "2017-05-19 07:59:30+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-05-19 07:59:30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170519075930id_/http://magic.wizards.com/en/articles/archive/feature/duel-decks-venser-vs-koth-2012-02-06"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/duel-decks-venser-vs-koth-2012-02-06"
 ---

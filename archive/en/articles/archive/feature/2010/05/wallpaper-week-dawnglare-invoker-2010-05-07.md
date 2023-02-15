@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Monty Ashley"
 [_metadata_:description]:- "This week's wallpaper feature Steve Argyle's Dawnglare Invoker artwork from Rise of the Eldrazi. Enjoy."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "655446"
 [_metadata_:publish_date]:- "2010-05-07"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Wallpaper of the Week: Dawnglare Invoker"
-[_metadata_:wayback_capture_timestamp]:- "2017-05-11 19:27:19+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-05-11 19:27:19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170511192719id_/http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-dawnglare-invoker-2010-05-07"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-dawnglare-invoker-2010-05-07"
 ---

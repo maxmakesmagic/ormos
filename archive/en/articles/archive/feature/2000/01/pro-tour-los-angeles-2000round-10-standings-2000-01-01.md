@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Burgner, Kurt 28 67.2222 86.3636 60.4304 10/9/1/0 2 Ekebom, Erno 25 65.4286 66.6667 60.7374 10/8/1/0 3 Blackwell, Trevor 25 64.2857 69.5652 62.1105 10/8/1/0 4 Lo Moro, Raffaele 25 56.9524 72.0000 53.5284 10/8/1/0 5 Rumsey, Michael 25 55.4286 72.0000 52.9447 10/8/1/0 6 Ljones, Christer 24 64.5079 65.3846"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "950551"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-Los Angeles 2000Round 10 Standings"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-26 16:34:27+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-26 16:34:27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126163427id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-10-standings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-10-standings-2000-01-01"
 ---

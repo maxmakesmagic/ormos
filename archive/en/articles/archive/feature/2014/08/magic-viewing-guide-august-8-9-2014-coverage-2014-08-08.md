@@ -4,9 +4,11 @@
 
 [_metadata_:description]:- "A look at the Magic tournaments happening this weekend."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "257756"
 [_metadata_:publish_date]:- "2014-08-08"
+[_metadata_:source]:- "div-main"
 [_metadata_:title]:- "Magic Viewing Guide August 8-9, 2014"
-[_metadata_:wayback_capture_timestamp]:- "2014-08-11 04:36:56+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2014-08-11 04:36:56"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20140811043656id_/http://magic.wizards.com/en/articles/archive/feature/magic-viewing-guide-august-8-9-2014-coverage-2014-08-08"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-viewing-guide-august-8-9-2014-coverage-2014-08-08"
 ---

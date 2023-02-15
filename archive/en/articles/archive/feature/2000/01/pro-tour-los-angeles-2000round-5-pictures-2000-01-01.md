@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "1998 World Champion Brian Selden faces Jean Louis D'Hondt 1998 Duelist Invitational winner Darwin Kastle  Chad Ellis vs."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "950836"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-Los Angeles 2000Round 5 Pictures"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-26 18:52:23+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-26 18:52:23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126185223id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-5-pictures-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-5-pictures-2000-01-01"
 ---

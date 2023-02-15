@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Gerry Thompson"
 [_metadata_:description]:- "The Super Sunday Series Finals showcased Born of the Gods, and once the Standard rounds started, all eyes were on two people—Makihito Mihara and Aaron Lewis. I'm looking at Mihara's deck today, but Aaron's will show up later this week. Mihara, Hall of Fame hopeful and former world champion, has been doing incredible work as of late. He made Top 4 of Pro Tour Dragon's Maze with"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "667611"
 [_metadata_:publish_date]:- "2014-02-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Perfect Curve"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-11 15:31:02+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-11 15:31:02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220811153102id_/https://magic.wizards.com/en/articles/archive/feature/perfect-curve-2014-02-18"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/perfect-curve-2014-02-18"
 ---

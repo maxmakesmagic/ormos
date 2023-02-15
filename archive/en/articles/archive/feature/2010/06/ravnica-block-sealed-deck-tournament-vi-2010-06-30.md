@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Nothing ever changes in Ravnica. For countless millennia, cities have covered the entire plane. Eventually, they ran together into one vast megalopolis -- a patchwork of grand halls, decrepit slums, ancient ruins, and layer upon layer of stonework structures. Of the world's countless civic centers, one looms above all others: the City of Ravnica, a metropolis so vast that its"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "687791"
 [_metadata_:publish_date]:- "2010-06-30"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Ravnica Block Sealed Deck Tournament VI"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-28 16:45:39+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-28 16:45:39"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220528164539id_/https://magic.wizards.com/en/articles/archive/feature/ravnica-block-sealed-deck-tournament-vi-2010-06-30"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ravnica-block-sealed-deck-tournament-vi-2010-06-30"
 ---

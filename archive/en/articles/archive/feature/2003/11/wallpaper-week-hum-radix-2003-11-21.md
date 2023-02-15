@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This week's desktop wallpaper is John Avon's Hum of the Radix from Mirrodin. Enjoy. 1024x768 pixels 800x600 pixels See past Wallpapers of the Week"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "606186"
 [_metadata_:publish_date]:- "2003-11-21"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Wallpaper of the Week: Hum of the Radix"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-22 18:31:53+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-22 18:31:53"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022183153id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-hum-radix-2003-11-21"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-hum-radix-2003-11-21"
 ---

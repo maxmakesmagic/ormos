@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Open only to Silver-level Pro Tour Players Club members. Eligible players can earn an invitation to Pro Tour Return to Ravnica in Seattle and an invitation to compete in the Pro Tour Return to Ravnica in Seattle Challenge. Pro Tour Return to Ravnica in Seattle takes place October 19-21, 2012. Magic Online will host one (1) Silver-level Pro Tour Qualifier event on Saturday"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "641571"
 [_metadata_:publish_date]:- "2012-07-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour Players Club – Silver Level Magic Online Pro Tour Qualifiers: Return to Ravnica in Seattle"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-18 02:47:42+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-18 02:47:42"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018024742id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-players-club-%E2%80%93-silver-level-magic-online-pro-tour-qualifiers-2"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-players-club-%E2%80%93-silver-level-magic-online-pro-tour-qualifiers-2"
 ---

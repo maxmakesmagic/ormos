@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "No one expected this. No one. BBB, printed ages ago, powerful enough to have been restricted in Type 1, and it's back. Against all odds, the Skull is being reprinted in Eighth Edition! I'm referring, of course, to the completely separate cards of Underworld Dreams and Skull of Orm. Did you think I meant something else? Skull of Orm is the `old favorite` I picked to write about"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "613511"
 [_metadata_:publish_date]:- "2003-07-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Skull Returns"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-06 10:28:02+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-06 10:28:02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211006102802id_/https://magic.wizards.com/en/articles/archive/feature/skull-returns-2003-07-10"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/skull-returns-2003-07-10"
 ---

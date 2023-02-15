@@ -4,9 +4,11 @@
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "642231"
 [_metadata_:publish_date]:- "2005-06-21"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Tournament Center"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-16 20:15:55+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-16 20:15:55"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016201555id_/https://magic.wizards.com/en/articles/archive/feature/tournament-center-2005-06-21"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/tournament-center-2005-06-21"
 ---

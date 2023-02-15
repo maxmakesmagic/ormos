@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Deck Contents 12 Plains 12 Island12 Swamp12 Mountain12 Forest1 Avatar - Momir Vig, Simic Visionary  More Creatures, Please Unique to Magic Online, the Momir Basic Vanguard format lets players engage in fearsome creature combat without sorceries, instants, or other sneaky tricks to get in the way. You must rely on your wits and powerful creatures to defeat your opponent. Best"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "700921"
 [_metadata_:publish_date]:- "2010-11-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic Online Momir Vig Basic Event Deck"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-28 12:51:38+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-28 12:51:38"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211128125138id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-momir-vig-basic-event-deck-2010-11-18-0"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-momir-vig-basic-event-deck-2010-11-18-0"
 ---

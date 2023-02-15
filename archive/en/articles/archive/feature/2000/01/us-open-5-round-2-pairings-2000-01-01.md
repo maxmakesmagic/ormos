@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Points Table Opponent Points Ally, Arif (92) 1 38 Butz, Jeff (128) 1 Anderson, Brett (38) 1 92 McKay, Brendan (2) 1 Andrews, Steve (80) 1 54 Jones, Chad (140) 1 Antene, J. Kip (137) 1 88 Kennison, Koby (168) 1 Au, Winston (117) 1 79 Bullard, Chip (21) 1 Austin, Ty (134) 1 91 Hampton, Stuart (47) 1 Bondy, Brett (12) 1 74 Mahon, John (142) 1 Bonham, Nick (81) 1 53"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "949541"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "US Open 5 Round 2 Pairings"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-21 15:27:26+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-21 15:27:26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521152726id_/https://magic.wizards.com/en/articles/archive/feature/us-open-5-round-2-pairings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-open-5-round-2-pairings-2000-01-01"
 ---

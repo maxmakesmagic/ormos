@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "If you haven't read Part I of this week's episode, I strongly urge you to as it reveals who was eliminated from last week and tells you this week's Design Challenge."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "625031"
 [_metadata_:publish_date]:- "2006-11-17"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Great Designer Search Episode #4 `Silver & Gold`, Part II"
-[_metadata_:wayback_capture_timestamp]:- "2020-10-26 13:53:13+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-10-26 13:53:13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201026135313id_/https://magic.wizards.com/en/articles/archive/feature/great-designer-search-episode-4-silver-gold-part-ii-2006-11-17"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/great-designer-search-episode-4-silver-gold-part-ii-2006-11-17"
 ---

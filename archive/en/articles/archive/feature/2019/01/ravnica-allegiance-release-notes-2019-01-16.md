@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Release Notes include info about the release of a new set, as well as clarifications and rulings involving that set's cards."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1378741"
 [_metadata_:publish_date]:- "2019-01-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Ravnica Allegiance Release Notes"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-08 01:13:46+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-08 01:13:46"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201108011346id_/https://magic.wizards.com/en/articles/archive/feature/ravnica-allegiance-release-notes-2019-01-16?c"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ravnica-allegiance-release-notes-2019-01-16?c"
 ---

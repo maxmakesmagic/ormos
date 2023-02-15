@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Rei Nakazawa"
 [_metadata_:description]:- "Think you know the continent of Otaria? Think again! The Odyssey block storyline focused mostly on the northern half of the continent. The southern half still stretches out unexplored, and that’s where the Onslaught storyline comes in. With it comes a whole host of changes that makes this block feel entirely different from the last, despite the close geography."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "634561"
 [_metadata_:publish_date]:- "2002-09-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Preparing for the"
-[_metadata_:wayback_capture_timestamp]:- "2017-08-26 13:43:21+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-26 13:43:21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170826134321id_/http://magic.wizards.com/en/articles/archive/feature/preparing-2002-09-23"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/preparing-2002-09-23"
 ---

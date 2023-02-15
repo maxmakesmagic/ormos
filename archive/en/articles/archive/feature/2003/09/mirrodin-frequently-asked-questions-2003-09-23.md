@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Compiled by Paul Barclay, David DeLaney, and Jeff Jordan This FAQ has two sections, each of which serves a different purpose. The first section (`General Notes`) explains the new mechanics and concepts in the set. The second section (`Card-Specific Notes`) contains answers to the most important questions players might ask about a given card. Items in the `Card-Specific Notes` section include full rules text for your reference. Not all cards in the set are listed."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "634646"
 [_metadata_:publish_date]:- "2003-09-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Mirrodin Frequently Asked Questions"
-[_metadata_:wayback_capture_timestamp]:- "2020-08-05 19:07:29+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-08-05 19:07:29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200805190729id_/https://magic.wizards.com/en/articles/archive/feature/mirrodin-frequently-asked-questions-2003-09-23"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mirrodin-frequently-asked-questions-2003-09-23"
 ---

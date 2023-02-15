@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Nate Price"
 [_metadata_:description]:- "Surrounded by cheering fans, two combatants enter the pillar-lined ring. Their weapons carefully chosen and a lifetime of experience at their backs, they are prepared for only one outcome: victory. They know not what awaits them. It could be Knights and Rangers fighting for the Honor of the Pure. It could be a Noble Hierarch come to mete out the justice of their god. It could"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "684041"
 [_metadata_:publish_date]:- "2009-12-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Worlds in the Capital of the World"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 21:27:23+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 21:27:23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523212723id_/https://magic.wizards.com/en/articles/archive/feature/worlds-capital-world-2009-12-02"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/worlds-capital-world-2009-12-02"
 ---

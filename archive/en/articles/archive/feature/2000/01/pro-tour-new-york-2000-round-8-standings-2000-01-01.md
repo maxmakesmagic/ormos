@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match Rank Name Points Win% 1 Cornelissen Kamiel 22 70.8482 2 Larkin John 22 67.2619 3 Wise Gary 21 66.0714 4 Kettil Mattias 21 58.1845 5 Globus Mark 21 55.506 6 Rubin Ben 21 53.9583 7 Eskeland Sigurd 20 60.7391 8 Hirabayashi Kazuya 19 61.756 9 McCord Scott 19 58.7054 10 Budde Kai 19 58.125 11 Ruel Olivier 19 57.7629 12 Ekebom Erno 19 55.0595 13 Turning Travis G 19 52.0833"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "950151"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-New York 2000 Round 8 Standings"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-20 18:34:07+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-20 18:34:07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120183407id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-8-standings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-8-standings-2000-01-01"
 ---

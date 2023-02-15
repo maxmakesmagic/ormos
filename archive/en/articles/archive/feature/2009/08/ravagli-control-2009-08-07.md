@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Luca Ravagli's Cruel Control Format: 2009 Italian National Championships 2 Cascade Bluffs 1 Exotic Orchard 3 Island 2 Mystic Gate 4 Reflecting Pool 3 Sunken Ruins 2 Vivid Crag 4 Vivid Creek 3 Vivid Marsh 2 Vivid Meadow 1 Baneslayer Angel 1 Bogardan Hellkite 1 Broodmate Dragon 3 Mulldrifter 3 Plumeveil 2 Agony Warp 3 Broken Ambitions 3 Cruel Ultimatum 4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "668636"
 [_metadata_:publish_date]:- "2009-08-07"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Ravagli Control"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-20 03:55:32+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-20 03:55:32"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020035532id_/https://magic.wizards.com/en/articles/archive/feature/ravagli-control-2009-08-07"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ravagli-control-2009-08-07"
 ---

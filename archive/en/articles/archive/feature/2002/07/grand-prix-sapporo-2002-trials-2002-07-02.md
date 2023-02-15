@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "CountryDateCityVenueAddressPlayer Contact Japan2002/07/20TokyoDCI Tournament Center3-19-1 Shibuya, Shibuya-ku, Tokyo-toron.foster@wizards.com Japan2002/07/21OsakaMy Dome Osaka2-5 Honmachi-bashi, Chuuou-ku, Osaka-shi, Osaka-furon.foster@wizards.com Japan2002/07/23NagoyaNagoya Congress Center (Nagoya Kokusai Kaigijou)1-1 Atsuta-nishimachi, Atsuta-ku, Nagoya-shi,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "736006"
 [_metadata_:publish_date]:- "2002-07-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix - Sapporo 2002 Trials"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-13 00:14:18+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-13 00:14:18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220813001418id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-sapporo-2002-trials-2002-07-02"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-sapporo-2002-trials-2002-07-02"
 ---

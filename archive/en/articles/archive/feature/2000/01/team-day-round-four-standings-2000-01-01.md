@@ -4,9 +4,11 @@
 
 [_metadata_:description]:- "Rank Name Points Op-Match 1 United States 210 54.17% 2 Canada 179 52.08% 3 Germany 176 45.83% 4 France 174 56.25% 5 Sweden 171"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "961231"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Team Day: Round Four Standings"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-30 18:49:26+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-30 18:49:26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030184926id_/https://magic.wizards.com/en/articles/archive/feature/team-day-round-four-standings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/team-day-round-four-standings-2000-01-01"
 ---

@@ -5,8 +5,10 @@
 [_metadata_:author]:- "Gary Wise"
 [_metadata_:description]:- "Match Coverage Finals: Jon Finkel (USA) vs. Bob Maher, Jr. (USA) In a battle of Magic titans, Jon Finkel, the greatest player in the history of Magic: the Gathering , defeated Bob Maher three games to two. Playing nearly identical decks, the two friends, both of whom had previously won Pro Tours, played the maximum number of games to decide who would join Tommi Hovi as the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "962106"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Teams Round 4: Ryan Fuller vs. Ondrej Baudys Canada vs. Czech Republic"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-04 16:39:00+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-04 16:39:00"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211204163900id_/https://magic.wizards.com/en/articles/archive/feature/teams-round-4-ryan-fuller-vs-ondrej-baudys-canada-vs-czech-republic-2000-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/teams-round-4-ryan-fuller-vs-ondrej-baudys-canada-vs-czech-republic-2000-01"
 ---

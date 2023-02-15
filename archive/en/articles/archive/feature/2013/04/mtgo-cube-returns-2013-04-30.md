@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "Celebrate and rejoice! The Magic Online Cube returns after tomorrow's Magic Online downtime! We initially announced its return on the Magic Online blog, but here's a quick review."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "648911"
 [_metadata_:publish_date]:- "2013-04-30"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "MTGO Cube Returns"
-[_metadata_:wayback_capture_timestamp]:- "2020-05-31 08:40:34+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-05-31 08:40:34"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200531084034id_/https://magic.wizards.com/en/articles/archive/feature/mtgo-cube-returns-2013-04-30"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mtgo-cube-returns-2013-04-30"
 ---

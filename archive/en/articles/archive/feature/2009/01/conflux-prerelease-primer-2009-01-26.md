@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Tim Willoughby"
 [_metadata_:description]:- "Prerelease season has rolled around again, and I for one have been chomping at the bit for the next chance to play with all new cards in a fun tournament setting for some time. I view Prereleases as being the very purest example of a `limited` tournament. Not only is everyone limited to being able to play with the cards you've opened (in this case three Shards of Alara"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "682166"
 [_metadata_:publish_date]:- "2009-01-26"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Conflux Prerelease Primer"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 03:00:27+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 03:00:27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429030027id_/https://magic.wizards.com/en/articles/archive/feature/conflux-prerelease-primer-2009-01-26"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/conflux-prerelease-primer-2009-01-26"
 ---

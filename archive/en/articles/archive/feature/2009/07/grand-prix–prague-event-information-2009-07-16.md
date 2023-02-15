@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "InformationTournament Schedule Tournament Byes Public Events Travel Information Contact Information Date: September 5-6, 2009 Format: Sealed Deck / Booster Draft Day 2 Tournament Location Fair Ground Holešovice Palace of Industry, Right Wing Areál Výstaviště 67 170 90 Prague 7 Czech Republic Registration: €35 or CZK 900 Friday, September 4: 5:30 p.m. - 8 p.m. Saturday,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "635851"
 [_metadata_:publish_date]:- "2009-07-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix–Prague Event Information"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-21 01:11:32+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-21 01:11:32"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021011132id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93prague-event-information-2009-07-16"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93prague-event-information-2009-07-16"
 ---

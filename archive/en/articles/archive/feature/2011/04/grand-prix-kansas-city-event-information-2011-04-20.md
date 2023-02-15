@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "InformationTournament Schedule  Tournament Byes  Public Events  Artist Information  Travel Information  Contact Information"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "728606"
 [_metadata_:publish_date]:- "2011-04-20"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Kansas City Event Information"
-[_metadata_:wayback_capture_timestamp]:- "2016-08-09 07:26:20+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-08-09 07:26:20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160809072620id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-kansas-city-event-information-2011-04-20"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-kansas-city-event-information-2011-04-20"
 ---

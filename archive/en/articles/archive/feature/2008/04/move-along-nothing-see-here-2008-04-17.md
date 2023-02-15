@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "You ever notice how whenever you hear a police officer say `Move along, move along, nothing to see here,` in an action movie, that's exactly when there is something to see, something that every passerby wants to see? There is this terrible footprint splitting the concrete to a thousand thousand lazy toothpicks, or a gash in the countryside that could grow up—with a good"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "627736"
 [_metadata_:publish_date]:- "2008-04-17"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Move Along, Nothing to See Here..."
-[_metadata_:wayback_capture_timestamp]:- "2021-05-01 04:55:33+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-01 04:55:33"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210501045533id_/https://magic.wizards.com/en/articles/archive/feature/move-along-nothing-see-here-2008-04-17"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/move-along-nothing-see-here-2008-04-17"
 ---

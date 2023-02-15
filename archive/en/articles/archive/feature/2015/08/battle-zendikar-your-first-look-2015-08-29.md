@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20160830213359/http://magic.wizards.com/en/articles/archive/feature/battle-zendikar-your-first-look-2015-08-29)
+[Link to Wayback Machine](https://web.archive.org/web/20160530030750/http://magic.wizards.com/en/articles/archive/feature/battle-zendikar-your-first-look-2015-08-29)
 
 [_metadata_:author]:- "Dan Barrett"
 [_metadata_:description]:- "Dan recaps the most exciting reveals from this weekend's Battle for Zendikar event at PAX Prime."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
-[_metadata_:publish_date]:- "2015-08-29"
+[_metadata_:node]:- "537726"
+[_metadata_:publish_date]:- "2015-08-26"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Battle for Zendikar: Your First Look"
-[_metadata_:wayback_capture_timestamp]:- "2016-08-30 21:33:59+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160830213359id_/http://magic.wizards.com/en/articles/archive/feature/battle-zendikar-your-first-look-2015-08-29"
+[_metadata_:wayback_capture_timestamp]:- "2016-05-30 03:07:50"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160530030750id_/http://magic.wizards.com/en/articles/archive/feature/battle-zendikar-your-first-look-2015-08-29"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/battle-zendikar-your-first-look-2015-08-29"
 ---
 
@@ -19,7 +21,7 @@ Battle for Zendikar: Your First Look
 
 
  Posted in **Feature**
- on August 29, 2015 
+ on August 26, 2015 
 
 
 

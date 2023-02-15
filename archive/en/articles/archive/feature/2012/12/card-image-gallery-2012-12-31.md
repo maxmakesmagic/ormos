@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Welcome to the Card Image Gallery for Dragon's Maze. Here you can see every Dragon's Maze card. If you're looking for a specific card, use the Gatherer card search."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "696756"
 [_metadata_:publish_date]:- "2012-12-31"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Card Image Gallery"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-06 06:35:37+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-06 06:35:37"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211206063537id_/https://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2012-12-31"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2012-12-31"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Congratulations to Ryo Nakada on winning Grand Prix Shizuoka! [decklist] Title: Ryo Nakada Format: GP Shizuoka 2013 Champion 7 Plains 4 Godless Shrine 4 Mutavault 4 Temple of Silence 2 Orzhov Guildgate 1 Swamp 4 Boros Elite 4 Soldier of the Pantheon 3 Dryad Militant 4 Daring Skyjek 4 Precinct Captain 3 Imposing Sovereign 4 Banisher Priest 3 Xathrid Necromancer 4 Brave the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "667381"
 [_metadata_:publish_date]:- "2013-12-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Shizuoka 2013 Winning Decklist"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-09 04:57:21+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-09 04:57:21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220809045721id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-shizuoka-2013-winning-decklist-2013-12-23"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-shizuoka-2013-winning-decklist-2013-12-23"
 ---

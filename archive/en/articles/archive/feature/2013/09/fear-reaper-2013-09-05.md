@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:description]:- "I haven't featured a five-color Commander deck yet, mainly because I really like focused decks, and the five-color decks often end up as a mishmash of powerful cards and mana fixing. There's nothing wrong with that by any means, but I like building Commander decks around cool interactions and strong themes, so most decks with five-color commanders don't appeal to me quite as much. However, the deck I found for this week (built by hatriarch) might make me eat crow."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "666956"
 [_metadata_:publish_date]:- "2013-09-05"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Fear the Reaper"
-[_metadata_:wayback_capture_timestamp]:- "2016-12-01 04:19:10+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-12-01 04:19:10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161201041910id_/http://magic.wizards.com/en/articles/archive/feature/fear-reaper-2013-09-05"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/fear-reaper-2013-09-05"
 ---

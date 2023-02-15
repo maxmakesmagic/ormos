@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Stephen Menendian"
 [_metadata_:description]:- "Take a moment to congratulate yourself. You have taken the first step toward playing in the Type 1 Championship at Gen Con Indy. Whether you are a Pro player, a Friday Night Magic regular, a money drafter, or a casual player, you play Magic because you like it. Playing Magic without taking a dip in Vintage waters is like going to Disney World without riding Space Mountain. Sure, it's old - but it's worth it. You aren't getting the full experience unless you've tried it."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "631171"
 [_metadata_:publish_date]:- "2004-08-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "A Player’s Guide to Type 1"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-14 02:25:57+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-04-14 02:25:57"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170414022557id_/http://magic.wizards.com/en/articles/archive/feature/player%E2%80%99s-guide-type-1-2004-08-09"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/player%E2%80%99s-guide-type-1-2004-08-09"
 ---

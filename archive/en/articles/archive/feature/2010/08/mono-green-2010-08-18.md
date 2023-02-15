@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Matt Severa's Mono-Green Format: Zendikar Block Constructed - 1st Place - 2010 Block Constructed Championship 4 Khalni Garden 3 Misty Rainforest 3 Verdant Catacombs 13 Forest 1 Dread Statuary 4 Arbor Elf 4 Joraga Treespeaker 4 Kozilek's Predator 4 Lotus Cobra 4 Nest Invader 4 Vengevine 4 Wolfbriar Elemental 2 River Boa 4 Beastmaster Ascension 2 Eldrazi"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "670046"
 [_metadata_:publish_date]:- "2010-08-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Mono-Green"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-17 04:16:13+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-17 04:16:13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220117041613id_/https://magic.wizards.com/en/articles/archive/feature/mono-green-2010-08-18"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mono-green-2010-08-18"
 ---

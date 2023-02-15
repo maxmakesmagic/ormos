@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This week's desktop wallpaper is Rebecca Guay's Cloak of Feathers from Portal. Enjoy. 1280x960 pixels 1024x768 pixels 800x600 pixels See past Wallpapers of the Week"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "606646"
 [_metadata_:publish_date]:- "2004-04-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Wallpaper of the Week: Cloak of Feathers"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-29 10:17:30+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-29 10:17:30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220629101730id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-cloak-feathers-2004-04-02"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-cloak-feathers-2004-04-02"
 ---

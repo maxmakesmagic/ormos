@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "So it's Spirit Week, huh? So many cheesy jokes come to mind. Well, I'd best jump right into them…I object to the whole notion of Spirit Week. I don't think that alcohol has any place on our website… whaaaaaa? Have I misinterpreted the relevant definition of “spirit”? Oh, how silly of me.Time for a pep rally, folks! Wear your colors with pride! Go, [insert the name of your high"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "612936"
 [_metadata_:publish_date]:- "2004-10-14"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "In High Spirits"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-20 02:05:14+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-20 02:05:14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220820020514id_/https://magic.wizards.com/en/articles/archive/feature/high-spirits-2004-10-14"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/high-spirits-2004-10-14"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This week's desktop wallpaper is Justin Sweet's Arcanis the Omnipotent from Onslaught. Enjoy! 1280x960 pixels 1024x768 pixels 800x600 pixels See past Wallpapers of the Week"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "606801"
 [_metadata_:publish_date]:- "2004-05-07"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Wallpaper of the Week: Arcanis the Omnipotent"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-27 12:11:31+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-27 12:11:31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220627121131id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-arcanis-omnipotent-2004-05-07"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-arcanis-omnipotent-2004-05-07"
 ---

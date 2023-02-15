@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20171031141601/https://magic.wizards.com/en/articles/archive/feature/2010-magic-gathering-world-championships-2010-02-01)
+[Link to Wayback Machine](https://web.archive.org/web/20160927115301/http://magic.wizards.com/en/articles/archive/feature/2010-magic-gathering-world-championships-2010-02-01)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "CONTENTSPublic Events  Main Event Information  Hall Attractions  Travel Information  The Road to Worlds  World Championships History"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "732606"
 [_metadata_:publish_date]:- "2010-02-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2010 Magic: The Gathering World Championships"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-31 14:16:01+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171031141601id_/https://magic.wizards.com/en/articles/archive/feature/2010-magic-gathering-world-championships-2010-02-01"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2010-magic-gathering-world-championships-2010-02-01"
+[_metadata_:wayback_capture_timestamp]:- "2016-09-27 11:53:01"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160927115301id_/http://magic.wizards.com/en/articles/archive/feature/2010-magic-gathering-world-championships-2010-02-01"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/2010-magic-gathering-world-championships-2010-02-01"
 ---
 
 

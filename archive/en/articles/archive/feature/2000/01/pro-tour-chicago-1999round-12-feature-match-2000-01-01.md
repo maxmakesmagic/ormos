@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Christian Lührs vs. Pat Chapin  Christian Lührs came into round 12 on the verge of his second top 8 at 10-1. Pat Chapin was 9-2 and in 5th place. Chapin's Necro deck is set up well to handle creature decks what with 4 Spinning darknesses and 4 Contagions in the main deck, but Lührs is running Counter-Sliver and none of Pat's removal works if Crystalline Sliver is on the table."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "951041"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-Chicago 1999Round 12 Feature Match"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-25 09:18:56+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-25 09:18:56"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525091856id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-12-feature-match-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-12-feature-match-2000-01-01"
 ---

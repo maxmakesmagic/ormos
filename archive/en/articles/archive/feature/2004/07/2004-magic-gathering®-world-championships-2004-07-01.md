@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Wizards of the Coast and America West Airlines would like to offer our Pro Tour players the chance to get discounted airline tickets for Magic: The Gathering® Worlds San Francisco!!Here's how it works!America West Airlines is offering a discount of up to 10% on airfare, plus other travel discount options to and from the Magic: The Gathering Worlds 2004 San Francisco.5% off"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "732681"
 [_metadata_:publish_date]:- "2004-07-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2004 Magic: The Gathering® World Championships"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-22 15:56:56+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-22 15:56:56"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022155656id_/https://magic.wizards.com/en/articles/archive/feature/2004-magic-gathering%C2%AE-world-championships-2004-07-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2004-magic-gathering%C2%AE-world-championships-2004-07-01"
 ---

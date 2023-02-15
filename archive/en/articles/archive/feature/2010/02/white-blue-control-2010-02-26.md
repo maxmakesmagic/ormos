@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Patrick Chapin's White-Blue Control Format: Standard – Pro Tour–San Diego 4 Celestial Colonnade 4 Tectonic Edge 4 Halimar Depths 4 Glacial Fortress 4 Plains 3 Island 2 Arid Mesa 1 Scalding Tarn 1 Iona, Shield of Emeria 2 Mind Spring 4 Jace, the Mind Sculptor 4 Treasure Hunt 4 Cancel 2 Flashfreeze 2 Essence Scatter 1 Negate 1 Path to Exile 1 Celestial Purge 3"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "669376"
 [_metadata_:publish_date]:- "2010-02-26"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "White-Blue Control"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-16 00:38:31+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-16 00:38:31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816003831id_/https://magic.wizards.com/en/articles/archive/feature/white-blue-control-2010-02-26"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/white-blue-control-2010-02-26"
 ---

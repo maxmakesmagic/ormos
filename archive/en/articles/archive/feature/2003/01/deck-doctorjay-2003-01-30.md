@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Jay Moldenhauer-Salazar"
 [_metadata_:description]:- "Back in mid-December, I started the process of building my next Magic Online Standard deck. I brainstormed a list of 100 cards—4 of each color in Seventh Edition, Odyssey, Torment, Judgment, and Onslaught—and asked you to vote for which card you would like to see as the centerpiece of my new deck. Over the last three weeks, I have slowly (dang you, Legions previews!) unveiled"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "626096"
 [_metadata_:publish_date]:- "2003-01-30"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "A Deck for doctorjay"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-01 06:12:03+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-01 06:12:03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211201061203id_/https://magic.wizards.com/en/articles/archive/feature/deck-doctorjay-2003-01-30"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/deck-doctorjay-2003-01-30"
 ---

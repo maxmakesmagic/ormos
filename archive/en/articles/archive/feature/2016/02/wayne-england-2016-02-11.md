@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Wayne England's artwork has set the tone and the aesthetic for several games, and his memory is preserved in spells cast near and far."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "985226"
 [_metadata_:publish_date]:- "2016-02-11"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Wayne England"
-[_metadata_:wayback_capture_timestamp]:- "2016-02-12 17:58:13+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-02-12 17:58:13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160212175813id_/http://magic.wizards.com/en/articles/archive/feature/wayne-england-2016-02-11"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/wayne-england-2016-02-11"
 ---

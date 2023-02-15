@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match Rank Name Points Win% 1 Game Empire 28 59.09 2 Your Move Games 27 65.15 3 Antarctica 25 60.10 4 THL 24 52.40 5 Neutral Ground SF 23 49.82 6 Urban Housing 23 48.90 7 CMU 22 62.12 8 Operation Mise 22 59.92 9 Tongo Nation 22 55.60 10 CCC 22 54.87 11 Phenomene J 21 61.71 12 Neutral Ground Detroit 21 54.55 13 Sugar Bus 21 54.13 14 The Tank 21 51.42 15 Shop Adept 20 54.45"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "951386"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour - Washington D.C.Day 2 Round 11 Standings"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-28 05:53:02+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-28 05:53:02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220528055302id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-2-round-11-standings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-2-round-11-standings-2000-01-01"
 ---

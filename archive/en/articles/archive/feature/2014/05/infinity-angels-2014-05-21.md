@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Adam Prosak"
 [_metadata_:description]:- "You sit down to play at a Grand Prix Minneapolis, and your opponent is none other than then-reigning Pro Tour Champion Shaun McLaren. You have him pegged as playing the same deck he won the Pro Tour with, a Red-White-Blue Control deck featuring lots of removal and card drawing. An Electrolyze here, a Lightning Bolt there, a Snapcaster Mage everywhere, and you've got Shaun"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "667971"
 [_metadata_:publish_date]:- "2014-05-21"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Infinity Angels"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-08 22:54:24+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-08 22:54:24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220808225424id_/https://magic.wizards.com/en/articles/archive/feature/infinity-angels-2014-05-21"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/infinity-angels-2014-05-21"
 ---

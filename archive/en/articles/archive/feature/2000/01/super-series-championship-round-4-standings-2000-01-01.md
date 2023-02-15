@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "      Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Spindel, Daniel 12 62.5000 100.0000 56.3889 4/4/0/0 2 Wiegand, Jon 12"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "948986"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Super Series Championship Round 4 Standings"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-24 03:55:53+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-24 03:55:53"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171124035553id_/https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-4-standings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-4-standings-2000-01-01"
 ---

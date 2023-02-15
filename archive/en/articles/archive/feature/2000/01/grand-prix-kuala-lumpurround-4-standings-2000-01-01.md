@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Wong, Samson Siew Pui 12 75.0000 100.0000 66.6667 1/1/0/3 2 Khoo, Wei Ren 12 75.0000 100.0000 66.6667 1/1/0/3 3 Tan, Poy Kok 12 75.0000 100.0000 66.6667 1/1/0/3 4 Tham, Tishen 12 75.0000 88.8889 77.7778 1/1/0/3 5 Marcus, Justin 12 75.0000 88.8889 70.8333 4/4/0/0 6 Kok, Kim Yin 12 75.0000 88.8889 70.0000"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "952526"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix-Kuala LumpurRound 4 Standings"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-22 16:09:19+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-22 16:09:19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522160919id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-4-standings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-4-standings-2000-01-01"
 ---

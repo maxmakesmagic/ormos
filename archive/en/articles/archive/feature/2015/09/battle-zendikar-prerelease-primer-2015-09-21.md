@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20151224123105/http://magic.wizards.com/en/articles/archive/feature/battle-zendikar-prerelease-primer-2015-09-21)
+[Link to Wayback Machine](https://web.archive.org/web/20210418215749/https://magic.wizards.com/en/articles/archive/feature/battle-zendikar-prerelease-primer-2015-09-21)
 
 [_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "How will you choose to defend Zendikar at the Battle for Zendikar Prerelease?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "699436"
 [_metadata_:publish_date]:- "2015-09-21"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Battle for Zendikar Prerelease Primer"
-[_metadata_:wayback_capture_timestamp]:- "2015-12-24 12:31:05+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151224123105id_/http://magic.wizards.com/en/articles/archive/feature/battle-zendikar-prerelease-primer-2015-09-21"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/battle-zendikar-prerelease-primer-2015-09-21"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-18 21:57:49"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210418215749id_/https://magic.wizards.com/en/articles/archive/feature/battle-zendikar-prerelease-primer-2015-09-21"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/battle-zendikar-prerelease-primer-2015-09-21"
 ---
 
 

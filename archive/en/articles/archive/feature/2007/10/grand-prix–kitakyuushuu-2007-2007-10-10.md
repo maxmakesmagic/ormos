@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "www.thebattery.co.nz"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "635191"
 [_metadata_:publish_date]:- "2007-10-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix–Kitakyuushuu 2007"
-[_metadata_:wayback_capture_timestamp]:- "2016-02-24 17:02:22+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-02-24 17:02:22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160224170222id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93kitakyuushuu-2007-2007-10-10"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93kitakyuushuu-2007-2007-10-10"
 ---

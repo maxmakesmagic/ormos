@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Congratulations to Wenzel Krautmann, the winner of Grand Prix Warsaw 2013. Check out the complete event coverage right here.[decklist] Title: Wenzel Krautmann, Top 8 Format: Grand Prix Warsaw 2013 – Standard 9 Forest 1 Mutavault 6 Mountain 4 Rootbound Crag 4 Stomping Ground 4 Arbor Elf 2 Elvish Mystic 4 Flinthoof Boar 4 Ghor-Clan Rampager 4 Hellrider 3 Scavenging Ooze 4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "666851"
 [_metadata_:publish_date]:- "2013-08-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Warsaw 2013 Winning Decklist"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-14 03:55:48+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-14 03:55:48"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220814035548id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-warsaw-2013-winning-decklist-2013-08-12"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-warsaw-2013-winning-decklist-2013-08-12"
 ---

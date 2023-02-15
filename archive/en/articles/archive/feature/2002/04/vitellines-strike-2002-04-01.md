@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Rei Nakazawa"
 [_metadata_:description]:- "A new menace will be in town beginning with Onslaught, next year's large expansion. Perhaps the most sinister species ever to appear in the Magic backstory, the Vitellines are a force to be reckoned with. Rotten, greedy, and vicious, these egg-like creatures invade Otaria in force, overthrowing the Cabal and taking their place as Dominaria's premier criminal empire."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "632306"
 [_metadata_:publish_date]:- "2002-04-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Vitellines Strike!"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-18 07:30:06+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-18 07:30:06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018073006id_/https://magic.wizards.com/en/articles/archive/feature/vitellines-strike-2002-04-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/vitellines-strike-2002-04-01"
 ---

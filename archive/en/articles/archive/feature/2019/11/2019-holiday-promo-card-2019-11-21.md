@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20191221203633/https://magic.wizards.com/en/articles/archive/feature/2019-holiday-promo-card-2019-11-21)
+[Link to Wayback Machine](https://web.archive.org/web/20191122155335/https://magic.wizards.com/en/articles/archive/feature/2019-holiday-promo-card-2019-11-21)
 
-[_metadata_:author]:- "Kendall Pepple"
+[_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This year's Holiday Promo Card does more than decorate your collection."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1492329"
 [_metadata_:publish_date]:- "2019-11-21"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2019 Holiday Promo Card"
-[_metadata_:wayback_capture_timestamp]:- "2019-12-21 20:36:33+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20191221203633id_/https://magic.wizards.com/en/articles/archive/feature/2019-holiday-promo-card-2019-11-21"
+[_metadata_:wayback_capture_timestamp]:- "2019-11-22 15:53:35"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20191122155335id_/https://magic.wizards.com/en/articles/archive/feature/2019-holiday-promo-card-2019-11-21"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2019-holiday-promo-card-2019-11-21"
 ---
 
@@ -27,7 +29,7 @@
 
 
 ![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
-By Kendall Pepple
+By Wizards of the Coast
 
 
 

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Team Result Team Antarctica 3-0 J3 BLZ Cacti 3-0 My Name is Fred Coolers 3-0 Whatever Dogma 3-0 Team Realm Fungusaur 0-3 Your Move Games Hubbo 3-0 Tight Club"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "952071"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix St. Louis Round 7 Results"
-[_metadata_:wayback_capture_timestamp]:- "2020-12-05 23:23:02+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-12-05 23:23:02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201205232302id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-7-results-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-7-results-2000-01-01"
 ---

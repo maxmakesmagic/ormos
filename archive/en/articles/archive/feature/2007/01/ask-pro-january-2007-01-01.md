@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Wizards of the Coast welcomes Hall of Famer Raphaël Lévy as the featured player here at `Ask the Pro.` A fixture on the Pro Tour for the last eight years, Raphaël is uniquely positioned to answer your questions about the life of a professional Magic player, give a historical perspective on the game and high-level tournament scene, share stories about travelling the world, and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "609206"
 [_metadata_:publish_date]:- "2007-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Ask the Pro: January"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-18 18:37:47+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-18 18:37:47"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018183747id_/https://magic.wizards.com/en/articles/archive/feature/ask-pro-january-2007-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ask-pro-january-2007-01-01"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Jason Lemahieu"
 [_metadata_:description]:- "It was a rough night at sea in the Panorama Cafe aboard the Carnival Ecstasy, and we sat waiting for the rest of the Magic Cruise's Two-Headed Giant tournament participants to arrive. So we did what we always did while waiting for anything: we played Magic. As a judge who's never played a real Constructed match of Magic in my life, I busted out the one deck I brought with me"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "684086"
 [_metadata_:publish_date]:- "2010-01-11"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Sanctuary!"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-20 23:33:01+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-20 23:33:01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520233301id_/https://magic.wizards.com/en/articles/archive/feature/sanctuary-2010-01-11"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sanctuary-2010-01-11"
 ---

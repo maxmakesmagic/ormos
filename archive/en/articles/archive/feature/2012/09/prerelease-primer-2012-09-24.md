@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Tim Willoughby"
 [_metadata_:description]:- "Ladies and gentlemen, the waiting is almost over."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "681906"
 [_metadata_:publish_date]:- "2012-09-24"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Prerelease Primer"
-[_metadata_:wayback_capture_timestamp]:- "2017-08-10 23:32:13+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-10 23:32:13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170810233213id_/http://magic.wizards.com/en/articles/archive/feature/prerelease-primer-2012-09-24"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/prerelease-primer-2012-09-24"
 ---

@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20220521003052/https://magic.wizards.com/en/articles/archive/feature/2011-china-nationals-fact-sheet-2009-05-13)
+[Link to Wayback Machine](https://web.archive.org/web/20171029093124/https://magic.wizards.com/en/articles/archive/feature/2011-china-nationals-fact-sheet-2009-05-13)
 
 [_metadata_:author]:- "Wizards of the Coast"
-[_metadata_:description]:- "Date: July 2-3, 2011Event Location: B1 Floor, Rainbow Hotel, BeijingAddress: No 11, Xi Jing Road, Xuan Wu District, Beijing, China, 100050EligibilityThe Magic: the Gathering China National Championship is an invitation-only event, open to citizens or permanent residents of China who have won an invitation to Nationals through DCI ratings or from qualifying events such as"
+[_metadata_:description]:- "Date: July 2-3, 2011Event Location: B1 Floor, Rainbow Hotel, BeijingAddress: No 11, Xi Jing Road, Xuan Wu District, Beijing, China, 100050EligibilityThe Magic: the Gathering China National Championship is an invitation-only event, open to citizens or permanent residents of China who have won an invitation to Nationals through DCI ratings or from qualifying events such as National Qualifiers."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "727166"
 [_metadata_:publish_date]:- "2009-05-13"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2011 China Nationals Fact Sheet"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-21 00:30:52+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521003052id_/https://magic.wizards.com/en/articles/archive/feature/2011-china-nationals-fact-sheet-2009-05-13"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-29 09:31:24"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171029093124id_/https://magic.wizards.com/en/articles/archive/feature/2011-china-nationals-fact-sheet-2009-05-13"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-china-nationals-fact-sheet-2009-05-13"
 ---
 
@@ -26,7 +28,7 @@
 
 
 
-![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
 By Wizards of the Coast
 
 

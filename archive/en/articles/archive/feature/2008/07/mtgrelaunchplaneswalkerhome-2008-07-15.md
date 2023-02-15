@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "You are a planeswalker. In the vast Multiverse, only you and your kind know of the countless worlds beyond your own. You have seen realities that would make a mundane wizard cower in awe. You have laid eyes upon the Blind Eternities. You are an iconoclast with an arsenal of sorcery at your command. Your gift drives you to seek out Magical knowledge, to test your limits, to"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "935836"
 [_metadata_:publish_date]:- "2008-07-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "mtgrelaunch_planeswalker_home"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-06 18:29:52+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-06 18:29:52"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211206182952id_/https://magic.wizards.com/en/articles/archive/feature/mtgrelaunchplaneswalkerhome-2008-07-15"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mtgrelaunchplaneswalkerhome-2008-07-15"
 ---

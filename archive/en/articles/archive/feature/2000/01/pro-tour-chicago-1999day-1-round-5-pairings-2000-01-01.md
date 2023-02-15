@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Points Table Opponent Points Aguiar, Rui (343) 7 56 Radonjic, Pete (5) 7 Alcantara, Jomar (317) 3 127 Allison, Jerry (124) 3 Allen, Dustin (144) 6 89 Labarre, Nicolas (65) 6 Allison, Jerry (124) 3 127 Alcantara, Jomar (317) 3 Anderson, Alex (4) 6 97 Devenport, David (344) 6 Arevalos, Francisco (77) 9 42 Wollpert, Worth (111) 9 Aw, Yuen (262) 2 146 Behlen, Andrew (14) 2"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "950966"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-Chicago 1999Day 1 Round 5 Pairings"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-22 02:14:08+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-22 02:14:08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522021408id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-1-round-5-pairings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-1-round-5-pairings-2000-01-01"
 ---

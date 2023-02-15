@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "Gavin has all the information you need for a monstrously good time with the Ikoria: Lair of Behemoths Prerelease!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1497155"
 [_metadata_:publish_date]:- "2020-04-14"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Ikoria: Lair of Behemoths Prerelease Primer"
-[_metadata_:wayback_capture_timestamp]:- "2020-05-03 07:50:17+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-05-03 07:50:17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200503075017id_/https://magic.wizards.com/en/articles/archive/feature/ikoria-lair-behemoths-prerelease-primer-2020-04-14"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ikoria-lair-behemoths-prerelease-primer-2020-04-14"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Junior Super Series Championship Round 2 Feature Match Toby Wachter vs Sean Keady Wachter is one of the better-known JSS players thanks to his on-line articles regarding the Super Series. Living Death has been his deck of choice for a long while now and there was little doubt he'd play it today, even though Wachter himself did not make the final decision until late last"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "953181"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Sideboard Online Event Coverage"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-20 21:14:20+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-20 21:14:20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520211420id_/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-48"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-48"
 ---

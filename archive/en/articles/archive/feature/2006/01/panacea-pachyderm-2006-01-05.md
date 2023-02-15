@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "It's interesting since next week we begin our look at Guildpact here at magicthegathering.com that I should decide to look back at an influential Ravnica: City of Guilds card with the equal and opposite lens of a preview article. However Loxodon Hierarch is such a pervasive and variously adopted card that has found its way into so many different decks that this “panacea”"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "628306"
 [_metadata_:publish_date]:- "2006-01-05"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Panacea Pachyderm"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-27 06:38:39+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-27 06:38:39"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211127063839id_/https://magic.wizards.com/en/articles/archive/feature/panacea-pachyderm-2006-01-05"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/panacea-pachyderm-2006-01-05"
 ---

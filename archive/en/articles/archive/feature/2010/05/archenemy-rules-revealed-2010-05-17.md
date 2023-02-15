@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210418212555/https://magic.wizards.com/en/articles/archive/feature/archenemy-rules-revealed-2010-05-17)
+[Link to Wayback Machine](https://web.archive.org/web/20161107203239/http://magic.wizards.com/en/articles/archive/feature/archenemy-rules-revealed-2010-05-17)
 
 [_metadata_:author]:- "magicthegathering.com"
-[_metadata_:description]:- "Way back in January, we announced Archenemy, a new multiplayer product coming in June. We told you about its unique `One vs. Many` game play, allowing you to face off against as many of your friends as your kitchen table can hold. We told you about the four different game packs, each with a 60-card Magic deck and a 20-card deck of oversized cards, and we even showed you the"
+[_metadata_:description]:- "Way back in January, we announced Archenemy, a new multiplayer product coming in June. We told you about its unique `One vs. Many` game play, allowing you to face off against as many of your friends as your kitchen table can hold."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "347036"
 [_metadata_:publish_date]:- "2012-02-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Archenemy Rules Revealed"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-18 21:25:55+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210418212555id_/https://magic.wizards.com/en/articles/archive/feature/archenemy-rules-revealed-2010-05-17"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/archenemy-rules-revealed-2010-05-17"
+[_metadata_:wayback_capture_timestamp]:- "2016-11-07 20:32:39"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161107203239id_/http://magic.wizards.com/en/articles/archive/feature/archenemy-rules-revealed-2010-05-17"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/archenemy-rules-revealed-2010-05-17"
 ---
 
 
@@ -26,7 +28,7 @@ Archenemy Rules Revealed
 
 
 
-![](https://web.archive.org/web/20211024110319im_/https://magic.wizards.com/sites/all/themes/wiz_mtg/images/global/generic-avatar-150.png)
+![](https://web.archive.org/web/20170709072651im_/http://magic.wizards.com/sites/all/themes/wiz_mtg/images/global/generic-avatar-150.png)
 By magicthegathering.com
 
 

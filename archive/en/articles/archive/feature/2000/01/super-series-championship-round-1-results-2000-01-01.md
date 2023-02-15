@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Opponent Result Adam, Felix Sandridge, Nicholas Lost, 1-2 Allen, Ross Hershberger, Jacob Lost, 0-2 Altermara, Chase Reitman, Brent Won, 2-0 Ames, David Hostetler, Jesse Won, 2-1 Ames, Steve Patrick, Chris Won, 2-1 Anderson, Eddie McBee, Sean Won, 2-1 Anderson, Will Smith, Aaron Won, 2-0 Ash, Kevin Curtis, Chris Lost, 0-2 Aune, Eirik Garlock, Ben Won, 2-1 Balla, John"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "948906"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Super Series Championship Round 1 Results"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-19 19:24:03+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-19 19:24:03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519192403id_/https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-1-results-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-1-results-2000-01-01"
 ---

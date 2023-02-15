@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Matt Tabak"
 [_metadata_:description]:- "Everything old is new again. And it's pretty close to everything—there are somewhere around 45 returning mechanics in Modern Horizons!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1422341"
 [_metadata_:publish_date]:- "2019-05-31"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Modern Horizons Mechanics"
-[_metadata_:wayback_capture_timestamp]:- "2019-06-08 04:49:49+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2019-06-08 04:49:49"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190608044949id_/https://magic.wizards.com/en/articles/archive/feature/modern-horizons-mechanics-2019-05-31"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/modern-horizons-mechanics-2019-05-31"
 ---

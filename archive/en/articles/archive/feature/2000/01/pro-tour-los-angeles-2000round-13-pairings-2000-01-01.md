@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Points Table Opponent Points Bachmann, David (229) 26 16 Lo Moro, Raffaele (249) 25 Benefel, Chris (163) 29 41 Blackwell, Trevor (298) 28 Benefield, Kevin (234) 16 15 Vitkovsky, Michal (80) 16 Bernabeu, Jesus (143) 22 36 Page, Nick (43) 22 Blackwell, Trevor (298) 28 41 Benefel, Chris (163) 29 Boeken, Noah (129) 24 32 Hubble, Bryan (135) 25 Bulthaud, Sean (314) 24 45"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "950601"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-Los Angeles 2000Round 13 Pairings"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-26 18:13:50+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-26 18:13:50"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126181350id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-13-pairings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-13-pairings-2000-01-01"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Monty Ashley Sean Tracy, the number one seed after the Swiss, started game one off with a Mountain and a Rishadan Port. Justin Bryant got a Seal of Fire out, and then started losing lands to Tracy's barrage of Stone Rains. At the end of Tracy's fourth turn, he had two Rishadan Ports and two Mountains, while Bryant had one Port and one Mountain. At the end of turn six, Tracy"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "948921"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Semifinals Feature Match - Sean Tracy vs. Justin Bryant"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-16 12:10:52+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-16 12:10:52"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516121052id_/https://magic.wizards.com/en/articles/archive/feature/semifinals-feature-match-sean-tracy-vs-justin-bryant-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/semifinals-feature-match-sean-tracy-vs-justin-bryant-2000-01-01"
 ---

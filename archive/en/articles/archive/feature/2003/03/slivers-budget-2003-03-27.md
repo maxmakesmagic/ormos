@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "Hi readers! First, I'd like to thank you all for your avalanche of email. I asked you to write in, and you certainly did. It's going to take me a while to get through it, but I've already seen some really creative ideas and I've been inspired with ideas of my own. So before I get to this week's column, I want to address the two most common questions that have come up in your"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "613356"
 [_metadata_:publish_date]:- "2003-03-27"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Slivers on a Budget"
-[_metadata_:wayback_capture_timestamp]:- "2021-09-12 17:11:34+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-09-12 17:11:34"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210912171134id_/https://magic.wizards.com/en/articles/archive/feature/slivers-budget-2003-03-27"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/slivers-budget-2003-03-27"
 ---

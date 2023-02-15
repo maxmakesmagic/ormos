@@ -5,9 +5,11 @@
 [_metadata_:author]:- "松井健治"
 [_metadata_:description]:- "本日 2 日目からはチームロチェスタードラフトが始まる。 チームシールドも難しいが、チームロチェスターは時間制限の中でのすばやい判断を要求される非常に高度な技術のいるレギュレーションだ。 では見事 2 日目に 6-1 で通過した 2 つのチームの紹介をしよう。 SUSIYAN とは名古屋系第 2 チームと言ったところで、少々ローカルであるが鷲見と塩津は名古屋の強豪で、 3 人目の山添は 2000 年 APAC 出場などの経験などあるらしい。 Scrambled Steak は、かの 2000 年 APAC 準優勝の渡辺仁人率いる仙台チームである。 この渡辺の脇を固める佐々木と阿部はプロツアーには度々出場している強豪プレイヤーたちである。 さて、ドラフトの解説に行こう。"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "806611"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Draft 1: SUSIYAN VS Scrambled Steak"
-[_metadata_:wayback_capture_timestamp]:- "2020-08-08 18:33:03+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-08-08 18:33:03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200808183303id_/https://magic.wizards.com/en/articles/archive/feature/draft-1-susiyan-vs-scrambled-steak-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/draft-1-susiyan-vs-scrambled-steak-2000-01-01"
 ---

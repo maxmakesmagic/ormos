@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Date: 28 August 2011Location: Dizzingof CenterCity: Tel AvivCountry: Israel The Magic: the Gathering Israel Championship is open to all citizens or permanent residents of Israel. Contact information Email: orr@mindgames.co.ilTelephone: 972-54-4310182Website: www.mindgames.co.il Format Standard and Booster Draft 3 Magic 2012 booster packs will be used for drafting Deck lists"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "730211"
 [_metadata_:publish_date]:- "2009-04-28"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2011 Israel National Championship"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-24 20:18:40+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-24 20:18:40"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024201840id_/https://magic.wizards.com/en/articles/archive/feature/2011-israel-national-championship-2009-04-28"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-israel-national-championship-2009-04-28"
 ---

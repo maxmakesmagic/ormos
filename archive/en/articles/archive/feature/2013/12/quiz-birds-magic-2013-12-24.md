@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "During the holiday rerun weeks, we are presenting some of the year's most popular Arcana articles. It was a challenge to narrow down to just ten, so we hope you enjoy this look back into 2013! —DailyMTG Staff Next week is a holiday here in the States called `Thanksgiving,` which centers around gathering together with friends and family, often with a meal that features turkey"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "651131"
 [_metadata_:publish_date]:- "2013-12-24"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Quiz: Birds in Magic"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-20 13:33:48+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-20 13:33:48"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020133348id_/https://magic.wizards.com/en/articles/archive/feature/quiz-birds-magic-2013-12-24"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/quiz-birds-magic-2013-12-24"
 ---

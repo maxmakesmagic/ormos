@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Team Points Opponent Points Two men and a baby ! 15 vs one day fly 15 Metagames/LNT 15 vs Angstschreeuw 15 Stuchkaccolites * 13 vs zyrberus 12 Absolute Samuels 12 vs Bologna Demolition Team 12 Is on my mind * 12 vs Black-Ops 12 gotta catch Kai 12 vs trash AAA 12 Babar Team * 12 vs Team Clegg 12 www.revised4th5th.com 12 vs Amsterdam 12 Cosmopolitan 12 vs Do you enjoy it ?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "806341"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 6 Pairings (by Table)"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-05 20:28:59+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-05 20:28:59"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220705202859id_/https://magic.wizards.com/en/articles/archive/feature/round-6-pairings-table-2000-01-01-0"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-6-pairings-table-2000-01-01-0"
 ---

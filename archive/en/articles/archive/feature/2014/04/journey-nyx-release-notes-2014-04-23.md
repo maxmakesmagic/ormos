@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Compiled by Matt Tabak, with contributions from Laurie Cheers, Carsten Haese, Eli Shiffrin, Zoe Stephenson, and Thijs van Ommen Document last modified February 10, 2014"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "163121"
 [_metadata_:publish_date]:- "2014-04-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Journey into Nyx Release Notes"
-[_metadata_:wayback_capture_timestamp]:- "2015-05-16 05:12:21+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2015-05-16 05:12:21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150516051221id_/http://magic.wizards.com/en/articles/archive/feature/journey-nyx-release-notes-2014-04-23"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/journey-nyx-release-notes-2014-04-23"
 ---

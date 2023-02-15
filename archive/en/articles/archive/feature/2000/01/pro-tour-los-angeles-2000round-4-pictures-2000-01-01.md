@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Judges watch matches in progress, alert to any sign of wrongdoing In the corner, the judges confer on a possible situation  1998 US Champion Matt Linde was able to defeat Pro Tour Chicago 1999 Champion Bob Maher, Jr. in two straight games in a feature match. Mike Long kept Raphael Levy off-balance by insisting that Levy join him for a spirited round of `Alouette`, and won 2-0"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "950826"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-Los Angeles 2000Round 4 Pictures"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-28 06:53:36+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-28 06:53:36"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211128065336id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-4-pictures-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-4-pictures-2000-01-01"
 ---

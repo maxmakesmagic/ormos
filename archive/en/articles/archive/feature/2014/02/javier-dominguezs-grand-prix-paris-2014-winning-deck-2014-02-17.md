@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Event Coverage Staff"
 [_metadata_:description]:- "Congratulations to Javier Dominguez, champion of Grand Prix Paris 2014![decklist] Title: Javier Dominguez (Top 8) Grand Prix Paris 2014 Format: Legacy 4 Underground Sea 2 Bayou 1 Tropical Island 4 Polluted Delta 4 Verdant Catacombs 1 Misty Rainforest 4 Wasteland 4 Deathrite Shaman 4 Tarmogoyf 4 Delver of Secrets 2 Dark Confidant 4 Brainstorm 3 Force of Will 3 Hymn to Tourach 2"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "667606"
 [_metadata_:publish_date]:- "2014-02-17"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Javier Dominguez's Grand Prix Paris 2014 Winning Deck"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-16 01:02:20+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-16 01:02:20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816010220id_/https://magic.wizards.com/en/articles/archive/feature/javier-dominguezs-grand-prix-paris-2014-winning-deck-2014-02-17"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/javier-dominguezs-grand-prix-paris-2014-winning-deck-2014-02-17"
 ---

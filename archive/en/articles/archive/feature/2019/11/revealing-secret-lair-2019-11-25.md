@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20220409171458/https://magic.wizards.com/en/articles/archive/feature/revealing-secret-lair-2019-11-25?gclid=EAIaIQobChMI7snS7YuG5wIVA__jBx1lcgG2EAAYASAAEgIKSfD_BwE)
+[Link to Wayback Machine](https://web.archive.org/web/20191224120408/https://magic.wizards.com/en/articles/archive/feature/revealing-secret-lair-2019-11-25)
 
 [_metadata_:author]:- "Mark Heggen"
 [_metadata_:description]:- "Learn about the thought process behind Magic's new sub-brand from the product owner himself."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1492345"
 [_metadata_:publish_date]:- "2019-11-25"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Revealing Secret Lair"
-[_metadata_:wayback_capture_timestamp]:- "2022-04-09 17:14:58+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220409171458id_/https://magic.wizards.com/en/articles/archive/feature/revealing-secret-lair-2019-11-25?gclid=EAIaIQobChMI7snS7YuG5wIVA__jBx1lcgG2EAAYASAAEgIKSfD_BwE"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/revealing-secret-lair-2019-11-25?gclid=EAIaIQobChMI7snS7YuG5wIVA__jBx1lcgG2EAAYASAAEgIKSfD_BwE"
+[_metadata_:wayback_capture_timestamp]:- "2019-12-24 12:04:08"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20191224120408id_/https://magic.wizards.com/en/articles/archive/feature/revealing-secret-lair-2019-11-25"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/revealing-secret-lair-2019-11-25"
 ---
 
 
@@ -42,17 +44,17 @@ By Mark Heggen
 I was in fifth grade in 1993 when Beta released. My friends and I bought as many Starter Decks as our allowances would permit, but to actually get enough cards to make playable decks, we each picked a color and blindly traded everything else to each other, so I ended up with all the green cards, my buddy Paul got all the blue cards, etc. One night at a sleepover, we each had our entire collections carefully sorted and spread out on the floor, and as I stood up, I accidentally kicked over a full . . . pitcher . . . of lemonade. In a horrifying moment that I can still see in slow motion when I close my eyes, the yellow wave rolled over each and every card that Paul owned.
 
 
-In what we all agreed felt like justice, it was decided that I would give Paul all the green cards and take over as the new blue player among us. The next day, as I worked to peel apart and flatten my very new and very sticky collection of cards (pro tip: no matter how long you aim your big sister's hairdryer at a crinkled [Phantom Monster](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Phantom+Monster), it will not go back to normal), I came across a card that stopped me in my tracks . . .
+In what we all agreed felt like justice, it was decided that I would give Paul all the green cards and take over as the new blue player among us. The next day, as I worked to peel apart and flatten my very new and very sticky collection of cards (pro tip: no matter how long you aim your big sister's hairdryer at a crinkled [Phantom Monster](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Phantom+Monster), it will not go back to normal), I came across a card that stopped me in my tracks . . .
 
 
-[![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&multiverseid=423)](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423)
+[![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&multiverseid=423)](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=423)
 Stasis.
 
 
 What even *was* this card? What was happening in that art? Who painted this? I was not prepared for Stasis.
 
 
-I already knew I loved the classic fantasy art on cards like [Lord of the Pit](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lord+of+the+Pit) and the more stylized pieces like [Circle of Protection: Red](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Circle+of+Protection%3A+Red). But when I saw the Stasis art for the first time it spoke to me—this game was bigger, and weirder, and deeper than I had realized. Any game that had a place for the Stasis art had a place for me.
+I already knew I loved the classic fantasy art on cards like [Lord of the Pit](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lord+of+the+Pit) and the more stylized pieces like [Circle of Protection: Red](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Circle+of+Protection%3A+Red). But when I saw the Stasis art for the first time it spoke to me—this game was bigger, and weirder, and deeper than I had realized. Any game that had a place for the Stasis art had a place for me.
 
 
 I tell you all this to make two points. First, there is a really important role in *Magic* for a few cards that take creative and artistic swings that most cards wouldn't or shouldn't. Second, please watch out where you set your lemonade.

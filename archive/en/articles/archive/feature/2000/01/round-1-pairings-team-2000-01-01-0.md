@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Team Opponent Absolute Samuels * AWARDED BYE * Accellerated Vares8 Volante * AWARDED BYE * Agifalwvslibrary of alexandria 2 AlphaBetaUnlimited.com * AWARDED BYE * Angstschreeuw * AWARDED BYE * Babar Team *vsSaletta Team * Black-Ops * AWARDED BYE * Bologna Demolition Team * AWARDED BYE * Burning BernvsRin-tin * Ci Ciapem I DanévsBudellos * Cosmopolitan * AWARDED BYE * Dech'team"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "806486"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 1 Pairings (by Team)"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-29 18:37:27+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-29 18:37:27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220629183727id_/https://magic.wizards.com/en/articles/archive/feature/round-1-pairings-team-2000-01-01-0"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-1-pairings-team-2000-01-01-0"
 ---

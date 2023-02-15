@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Kai Budde's Karn Deck Wins Format: 1999 World Championships 3 Ancient Tomb 4 City of Traitors 13 Mountain 3 Masticore 1 Karn, Silver Golem 4 Covetous Dragon 4 Cursed Scroll 4 Fire Diamond 4 Grim Monolith 2 Mishra's Helix 4 Temporal Aperture 4 Thran Dynamo 4 Voltaic Key 2 Worn Powerstone 4 Wildfire *2 Boil *3 Earthquake *2 Rack and Ruin *2 Shattering Pulse *4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "670836"
 [_metadata_:publish_date]:- "2011-03-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Karn Deck Wins"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-28 11:47:06+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-28 11:47:06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028114706id_/https://magic.wizards.com/en/articles/archive/feature/karn-deck-wins-2011-03-23"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/karn-deck-wins-2011-03-23"
 ---

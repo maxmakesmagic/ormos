@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "Today is the day! Today our latest installment in our hit video game franchise, Magic 2014—Duels of the Planeswalkers should hit the virtual shelves around the world and all platforms we provide it on! Whether you're playing on your PC via Steam, or PlayStation 3, Xbox 360, iPad, or Android Tablet device, today is your day to celebrate and go purchase your copy!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "649406"
 [_metadata_:publish_date]:- "2013-06-26"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic 2014—Duels of the Planeswalkers"
-[_metadata_:wayback_capture_timestamp]:- "2020-03-26 06:11:11+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-03-26 06:11:11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200326061111id_/https://magic.wizards.com/en/articles/archive/feature/magic-2014%E2%80%94duels-planeswalkers-2013-06-26"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-2014%E2%80%94duels-planeswalkers-2013-06-26"
 ---

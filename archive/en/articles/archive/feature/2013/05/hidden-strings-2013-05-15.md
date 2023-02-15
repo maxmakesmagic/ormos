@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "Even though Hidden Strings is a terrible card in Limited, it's the kind of card that has some potential in Constructed. It can tap blockers `for free` by targeting your opponent's creatures so that the creature you cipher onto gets through, and then the cipher trigger can untap the lands you used to play it so you can cast something else. If the opponent can't block, it"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "666516"
 [_metadata_:publish_date]:- "2013-05-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Hidden Strings"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-16 09:49:14+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-16 09:49:14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016094914id_/https://magic.wizards.com/en/articles/archive/feature/hidden-strings-2013-05-15"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/hidden-strings-2013-05-15"
 ---

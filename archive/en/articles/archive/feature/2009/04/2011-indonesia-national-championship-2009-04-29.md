@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Date: 7 August 2011 Location: Golden City Mall, Jl Abdul Wahab Siamin 2-8 City: Surabaya Country: IndonesiaThe Magic: the Gathering Indonesia National Championship is open to all citizens or permanent residents of Indonesia.Contact informationEmail: mugination@yahoo.com Telephone: +628567077079FormatStandard and Booster Draft 3 Magic 2012 booster packs will be used for"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "730191"
 [_metadata_:publish_date]:- "2009-04-29"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2011 Indonesia National Championship"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-27 06:35:59+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-27 06:35:59"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527063559id_/https://magic.wizards.com/en/articles/archive/feature/2011-indonesia-national-championship-2009-04-29"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-indonesia-national-championship-2009-04-29"
 ---

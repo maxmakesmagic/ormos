@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Eight players celebrated Magic's 25th anniversary at Grand Prix Las Vegas with a Rochester draft of Limited Edition (Beta)!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1316566"
 [_metadata_:publish_date]:- "2018-07-17"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Las Vegas Beta Rochester Draft"
-[_metadata_:wayback_capture_timestamp]:- "2018-07-20 21:57:27+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2018-07-20 21:57:27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180720215727id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-las-vegas-beta-rochester-draft-2018-07-17"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-las-vegas-beta-rochester-draft-2018-07-17"
 ---

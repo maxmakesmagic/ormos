@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Monty Ashley"
 [_metadata_:description]:- "&#13; Last Friday, Tom LaPille asked three questions at the end of Latest Developments. Well, he technically asked four, but the last three are the ones we're talking about today:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "655651"
 [_metadata_:publish_date]:- "2010-06-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Core Set Survivor: Magic 2011 Edition"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-24 17:16:15+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-04-24 17:16:15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170424171615id_/http://magic.wizards.com/en/articles/archive/feature/core-set-survivor-magic-2011-edition-2010-06-09"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/core-set-survivor-magic-2011-edition-2010-06-09"
 ---

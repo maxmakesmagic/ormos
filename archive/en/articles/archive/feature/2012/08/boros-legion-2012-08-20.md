@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20201112030842/https://magic.wizards.com/en/articles/archive/feature/boros-legion-2012-08-20)
+[Link to Wayback Machine](https://web.archive.org/web/20160614195733/http://magic.wizards.com/en/articles/archive/feature/boros-legion-2012-08-20)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "*/"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "696961"
 [_metadata_:publish_date]:- "2012-08-20"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Boros Legion"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 03:08:42+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112030842id_/https://magic.wizards.com/en/articles/archive/feature/boros-legion-2012-08-20"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/boros-legion-2012-08-20"
+[_metadata_:wayback_capture_timestamp]:- "2016-06-14 19:57:33"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160614195733id_/http://magic.wizards.com/en/articles/archive/feature/boros-legion-2012-08-20"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/boros-legion-2012-08-20"
 ---
 
 

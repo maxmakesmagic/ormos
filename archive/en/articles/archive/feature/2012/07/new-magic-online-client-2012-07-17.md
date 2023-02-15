@@ -4,9 +4,11 @@
 
 [_metadata_:author]:- "Monty Ashley"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "646351"
 [_metadata_:publish_date]:- "2012-07-17"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The New Magic Online Client"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-18 16:02:03+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-18 16:02:03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170718160203id_/http://magic.wizards.com/en/articles/archive/feature/new-magic-online-client-2012-07-17"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/new-magic-online-client-2012-07-17"
 ---

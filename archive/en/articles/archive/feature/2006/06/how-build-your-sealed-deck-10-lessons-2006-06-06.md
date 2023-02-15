@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Olivier Ruel"
 [_metadata_:description]:- "Today, for the final scene of Olivier's Corner, I'll try and give you tips for one of my favorite formats: Sealed Deck, to help you prepare for future events, including PTQs for Kobe."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "610041"
 [_metadata_:publish_date]:- "2006-06-06"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "How to build your sealed deck in 10 lessons"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-18 03:48:41+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-04-18 03:48:41"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170418034841id_/http://magic.wizards.com/en/articles/archive/feature/how-build-your-sealed-deck-10-lessons-2006-06-06"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/how-build-your-sealed-deck-10-lessons-2006-06-06"
 ---

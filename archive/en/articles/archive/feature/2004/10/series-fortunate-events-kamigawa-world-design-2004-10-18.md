@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Brady Dommermuth"
 [_metadata_:description]:- "March 2005 will mark eight years of Wizards service for me. Eight years. Have you done anything every day for eight years besides use the toilet? Don't you have to be frickin' insane to do anything for that long?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "631311"
 [_metadata_:publish_date]:- "2004-10-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "A Series of Fortunate Events: Kamigawa World Design"
-[_metadata_:wayback_capture_timestamp]:- "2020-10-25 14:00:54+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-10-25 14:00:54"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201025140054id_/https://magic.wizards.com/en/articles/archive/feature/series-fortunate-events-kamigawa-world-design-2004-10-18"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/series-fortunate-events-kamigawa-world-design-2004-10-18"
 ---

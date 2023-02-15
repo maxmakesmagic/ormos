@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Daily Activity Welcome back to the Magic: The Gathering Sealed Deck Builder! This week, we feature a sealed pool with 3 Theros and 3 Born of the Gods booster packs. Tips on Using the Sealed Deck Builder When you start the application, you'll see all your cards in a Card Pool tray. If you can't see all the cards in your pool, you can expand the size of your tray by dragging"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "594646"
 [_metadata_:publish_date]:- "2014-02-06"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Sealed Deck Builder: 2/06/2014"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-24 20:05:46+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-24 20:05:46"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220124200546id_/https://magic.wizards.com/en/articles/archive/feature/sealed-deck-builder-2062014-2014-02-06"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sealed-deck-builder-2062014-2014-02-06"
 ---

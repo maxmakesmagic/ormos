@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Chris Gleeson"
 [_metadata_:description]:- "Take a closer look at some of the fantastic art from Unstable, along with the art descriptions that led to the creation of each piece."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1236946"
 [_metadata_:publish_date]:- "2017-12-13"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Unstable Art Descriptions"
-[_metadata_:wayback_capture_timestamp]:- "2017-12-13 17:29:17+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-12-13 17:29:17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171213172917id_/https://magic.wizards.com/en/articles/archive/feature/unstable-art-descriptions-2017-12-13"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/unstable-art-descriptions-2017-12-13"
 ---

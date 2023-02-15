@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "There are many reasons I like this card:The first reason that I like this card is that it serves, functionally, like another card that I quite like:Cabal Interrogator is a great card to play against control decks, especially blue-white and green-white control decks with little or no discreet creature elimination."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "628191"
 [_metadata_:publish_date]:- "2004-09-08"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Shortfang the Odious"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-03 07:55:24+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-03 07:55:24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503075524id_/https://magic.wizards.com/en/articles/archive/feature/shortfang-odious-2004-09-08"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/shortfang-odious-2004-09-08"
 ---

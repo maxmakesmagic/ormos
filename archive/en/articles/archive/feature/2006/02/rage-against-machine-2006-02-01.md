@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Matt Cavotta"
 [_metadata_:description]:- "The Gruul will kick you in the face. That's no news. Red/Green has been the face-booter for years before the Gruul came along. But, and this is a big but, the reason the Gruul smash face is not the same as all the rest of the random mindless beaters in Magic's history."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "626556"
 [_metadata_:publish_date]:- "2006-02-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Rage Against the Machine"
-[_metadata_:wayback_capture_timestamp]:- "2020-10-25 14:39:40+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-10-25 14:39:40"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201025143940id_/https://magic.wizards.com/en/articles/archive/feature/rage-against-machine-2006-02-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/rage-against-machine-2006-02-01"
 ---

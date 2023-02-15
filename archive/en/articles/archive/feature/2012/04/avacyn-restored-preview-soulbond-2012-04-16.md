@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Dave Humpherys"
 [_metadata_:description]:- "This is hardly a five-mana 4/4 creature. If somebody is on the battlefield ready to help your Wolf Warrior, you instead have a five-mana 8/8 and that somebody else just got +4/+4 and is probably attacking. It's pretty rare to permanently add 12 power and toughness to your battlefield for the mere cost of five mana. I'm excited that we have a creature with such formidable stats"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "681446"
 [_metadata_:publish_date]:- "2012-04-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Avacyn Restored Preview: Soulbond"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-20 18:08:47+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-20 18:08:47"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120180847id_/https://magic.wizards.com/en/articles/archive/feature/avacyn-restored-preview-soulbond-2012-04-16"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/avacyn-restored-preview-soulbond-2012-04-16"
 ---

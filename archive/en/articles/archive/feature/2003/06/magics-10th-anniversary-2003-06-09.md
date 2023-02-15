@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Celebrate the Best. In 1993, Magic: The Gathering created the trading card game category. Today, it's the best trading card game in the world, enjoyed by over six million players. This year, we saluted those players. Players like you. We invited you to celebrate a decade of excellence by taking part in the Global Celebration Eighth Edition sealed tournaments, where you may"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "708726"
 [_metadata_:publish_date]:- "2003-06-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic's 10th Anniversary"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-25 01:10:04+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-25 01:10:04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025011004id_/https://magic.wizards.com/en/articles/archive/feature/magics-10th-anniversary-2003-06-09"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magics-10th-anniversary-2003-06-09"
 ---

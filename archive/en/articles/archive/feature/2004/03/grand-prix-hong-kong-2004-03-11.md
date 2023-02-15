@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Alex Shvartsman"
 [_metadata_:description]:- "Masashi OoisoGrand Prix: Hong Kong follows on the heels of Pro Tour: Kobe. With only a week in between and both events being on the same continent, it was a perfect excuse for many pro players to remain in the region and attend.Chuen Hwa TanAlthough both Japan and Hong Kong are in Asia, making this trip is certainly no small thing. The flight from Tokyo would take over four"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "614316"
 [_metadata_:publish_date]:- "2004-03-11"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix: Hong Kong"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-21 09:49:53+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-21 09:49:53"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021094953id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-hong-kong-2004-03-11"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-hong-kong-2004-03-11"
 ---

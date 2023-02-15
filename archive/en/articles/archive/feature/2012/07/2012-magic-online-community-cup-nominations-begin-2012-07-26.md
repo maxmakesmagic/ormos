@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20220117010302/https://magic.wizards.com/en/articles/archive/feature/2012-magic-online-community-cup-nominations-begin-2012-07-26)
+[Link to Wayback Machine](https://web.archive.org/web/20210911134238/https://magic.wizards.com/en/articles/archive/feature/2012-magic-online-community-cup-nominations-begin-2012-07-26)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "As the days start to get shorter and the nights begin to get longer, Wizards of the Coast employees feel a change coming. For too long they have felt the agony of defeat by the hands of the Community Team and are no longer willing to accept it. This year's Community Cup will Return to Ravnica and there, in the darkest corner of `The Pit,` the Wizards of the Coast team will be"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "598886"
 [_metadata_:publish_date]:- "2012-07-26"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2012 Magic Online Community Cup Nominations Begin!"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-17 01:03:02+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220117010302id_/https://magic.wizards.com/en/articles/archive/feature/2012-magic-online-community-cup-nominations-begin-2012-07-26"
+[_metadata_:wayback_capture_timestamp]:- "2021-09-11 13:42:38"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210911134238id_/https://magic.wizards.com/en/articles/archive/feature/2012-magic-online-community-cup-nominations-begin-2012-07-26"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2012-magic-online-community-cup-nominations-begin-2012-07-26"
 ---
 

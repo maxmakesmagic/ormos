@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The artists booth will be open Thursday through Sunday from 10 a.m. - 5 p.m. Mark TedinMark was born in Sitka, Alaska, a sublime but wet locale under the North Star. When younger, Mark wanted to be an astronaut. As a result, he started drawing pictures of outer space and flying saucers, soon including monsters and creatures in the illustrations."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "732551"
 [_metadata_:publish_date]:- "2010-10-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2010 World Championships Artists"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-24 07:26:26+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-24 07:26:26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024072626id_/https://magic.wizards.com/en/articles/archive/feature/2010-world-championships-artists-2010-10-12"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2010-world-championships-artists-2010-10-12"
 ---

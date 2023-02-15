@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210225053241/https://magic.wizards.com/en/articles/archive/feature/challenger-decks-lists-2018-02-23)
+[Link to Wayback Machine](https://web.archive.org/web/20180922185109/https://magic.wizards.com/en/articles/archive/feature/challenger-decks-lists-2018-02-23)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Challenger Decks will be available worldwide April 6, but you can see the full decklists today!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1257396"
 [_metadata_:publish_date]:- "2018-02-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Challenger Decks Lists"
-[_metadata_:wayback_capture_timestamp]:- "2021-02-25 05:32:41+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210225053241id_/https://magic.wizards.com/en/articles/archive/feature/challenger-decks-lists-2018-02-23"
+[_metadata_:wayback_capture_timestamp]:- "2018-09-22 18:51:09"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180922185109id_/https://magic.wizards.com/en/articles/archive/feature/challenger-decks-lists-2018-02-23"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/challenger-decks-lists-2018-02-23"
 ---
 
@@ -60,7 +62,6 @@ Each Challenger Deck comes with a complete 60-card main deck and a 15-card sideb
 
 
 
-
 #### Hazoret Aggro
 
 
@@ -71,9 +72,7 @@ Each Challenger Deck comes with a complete 60-card main deck and a 15-card sideb
 
 
 
-![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
 ![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
-
 
 
 
@@ -532,7 +531,6 @@ OverviewColorCostRarity
 
 
 
-
 #### Vehicle Rush
 
 
@@ -543,9 +541,7 @@ OverviewColorCostRarity
 
 
 
-![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
 ![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
-
 
 
 
@@ -1115,7 +1111,6 @@ OverviewColorCostRarity
 
 
 
-
 #### Second Sun Control
 
 
@@ -1126,9 +1121,7 @@ OverviewColorCostRarity
 
 
 
-![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
 ![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
-
 
 
 
@@ -1157,7 +1150,7 @@ OverviewColorCostRarity
 
 
 
-##### Sorcery (7)
+##### Sorcery (6)
 
 
 
@@ -1169,12 +1162,8 @@ OverviewColorCostRarity
 [Fumigate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFumigate%5D)
 
 
-1
-[Farm // Market](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFarm%5D+%5B&%5D+%5BMarket%5D)
 
-
-
-##### Instant (18)
+##### Instant (19)
 
 
 
@@ -1200,6 +1189,10 @@ OverviewColorCostRarity
 
 4
 [Glimmer of Genius](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlimmer%5D+%5Bof%5D+%5BGenius%5D)
+
+
+1
+[Farm // Market](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFarm%5D+%5B&%5D+%5BMarket%5D)
 
 
 
@@ -1273,7 +1266,7 @@ OverviewColorCostRarity
 
 
 
-##### White (18)
+##### White (19)
 
 
 
@@ -1297,12 +1290,16 @@ OverviewColorCostRarity
 [Renewed Faith](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRenewed%5D+%5BFaith%5D)
 
 
+1
+[Farm // Market](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFarm%5D+%5B&%5D+%5BMarket%5D)
+
+
 4
 [Regal Caracal](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRegal%5D+%5BCaracal%5D)
 
 
 
-##### Blue (31)
+##### Blue (30)
 
 
 
@@ -1328,10 +1325,6 @@ OverviewColorCostRarity
 
 4
 [Glimmer of Genius](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlimmer%5D+%5Bof%5D+%5BGenius%5D)
-
-
-1
-[Farm // Market](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFarm%5D+%5B&%5D+%5BMarket%5D)
 
 
 2
@@ -1472,7 +1465,7 @@ OverviewColorCostRarity
 
 
 
-##### Common (31)
+##### Common (33)
 
 
 
@@ -1494,6 +1487,10 @@ OverviewColorCostRarity
 
 8
 [Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+
+
+2
+[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435234)
 
 
 4
@@ -1538,7 +1535,7 @@ OverviewColorCostRarity
 
 
 
-##### Rare (19)
+##### Rare (17)
 
 
 
@@ -1564,10 +1561,6 @@ OverviewColorCostRarity
 
 2
 [Glyph Keeper](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlyph%5D+%5BKeeper%5D)
-
-
-2
-[Spell Pierce](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=435234)
 
 
 75 Cards 
@@ -1605,7 +1598,6 @@ OverviewColorCostRarity
 
 
 
-
 #### Counter Surge
 
 
@@ -1616,9 +1608,7 @@ OverviewColorCostRarity
 
 
 
-![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
 ![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
-
 
 
 

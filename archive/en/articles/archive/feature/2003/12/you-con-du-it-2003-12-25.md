@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "I've been receiving a lot of decks in the mail recently (thanks!) and a lot of them involve Power Conduit. Easily one of my favorite Mirrodin cards, this versatile yet narrow artifact (or is it a narrow yet versatile artifact?) can be bent to our goofy whims in a few different ways. Since it's so popular, and since many of the decks I've received are quite similar to decks I've already posted, this column was a natural for a year-end encore. Enjoy!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "628506"
 [_metadata_:publish_date]:- "2003-12-25"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "You Con Du It!"
-[_metadata_:wayback_capture_timestamp]:- "2020-09-23 15:17:29+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-09-23 15:17:29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200923151729id_/https://magic.wizards.com/en/articles/archive/feature/you-con-du-it-2003-12-25"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/you-con-du-it-2003-12-25"
 ---

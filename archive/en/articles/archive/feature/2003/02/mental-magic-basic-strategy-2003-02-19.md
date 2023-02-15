@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "Last week, I outlined the basic rules of how to play a game of Mental Magic. To recap: Mental Magiccan be played with any old stack of Magicspells."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "630221"
 [_metadata_:publish_date]:- "2003-02-19"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Mental Magic: Basic Strategy"
-[_metadata_:wayback_capture_timestamp]:- "2020-08-05 22:55:50+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-08-05 22:55:50"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200805225550id_/https://magic.wizards.com/en/articles/archive/feature/mental-magic-basic-strategy-2003-02-19"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mental-magic-basic-strategy-2003-02-19"
 ---

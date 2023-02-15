@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "Welcome to Werewolf Week! This week we'll be exploring what I believe is the pinnacle tribe in the Innistrad design. Today I'm going to walk you through the history of Werewolf design (it won't take long—there isn't much) and then explain everything the design and development team went through to bring you the Werewolves of Innistrad. Sound fun? Aaaaaaoooooooooooo. (That's me trying to howl like a werewolf.) Let's go."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "654251"
 [_metadata_:publish_date]:- "2011-10-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Were the Wild Things Are"
-[_metadata_:wayback_capture_timestamp]:- "2018-01-26 00:06:56+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2018-01-26 00:06:56"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180126000656id_/https://magic.wizards.com/en/articles/archive/feature/were-wild-things-are-2011-10-03"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/were-wild-things-are-2011-10-03"
 ---

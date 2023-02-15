@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Chris Gleeson"
 [_metadata_:description]:- "The fantastic art in one Commander (2107 Edition) cycle brings the unluckiest Planeswalker in the Multiverse to life."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1197906"
 [_metadata_:publish_date]:- "2017-08-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Cursed Commander (2017 Edition) Art Descriptions"
-[_metadata_:wayback_capture_timestamp]:- "2017-08-22 21:25:22+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-22 21:25:22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170822212522id_/http://magic.wizards.com/en/articles/archive/feature/cursed-commander-2017-edition-art-descriptions-2017-08-22"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/cursed-commander-2017-edition-art-descriptions-2017-08-22"
 ---

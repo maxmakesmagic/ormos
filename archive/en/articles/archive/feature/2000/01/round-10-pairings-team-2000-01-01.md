@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "TeamPointsOpponentPointsThe Ken Ho All-Stars25vsThe Ancient Kavus24Your Move Games23vsRug Doctors22Dynasty22vsTeam $20 Dolla Billz22A Little Too Sick21vsThanks Craig and Seth21The Hubbsucker Proxy21vsHuey Brock and Linde21Team Needs/Hotel Room *Amate21vsFamily Games Center19Team Clasp19vsAlphaBetaUnlimited.com/19Team Flees19vsJust Concede18Frog Eaters18vsGrape Apes17Madam"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "805771"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 10 Pairings (by Team)"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-03 08:13:19+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-03 08:13:19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220703081319id_/https://magic.wizards.com/en/articles/archive/feature/round-10-pairings-team-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-10-pairings-team-2000-01-01"
 ---

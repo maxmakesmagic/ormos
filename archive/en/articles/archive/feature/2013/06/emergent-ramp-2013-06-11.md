@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "One week ago, two players (ManuGodineau and Nielson333) each finished 3–1 in a Standard daily deck with GW creature-based ramp decks that looked to cast Craterhoof Behemoth. The core of the deck is Avacyn's Pilgrim, Arbor Elf, Somberwald Sage, and Craterhoof Behemoth. ManuGodineau used Borderland Ranger to get additional lands and evolve Gyre Sage, which made Restoration Angel"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "666611"
 [_metadata_:publish_date]:- "2013-06-11"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Emergent Ramp"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-22 06:05:52+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-22 06:05:52"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522060552id_/https://magic.wizards.com/en/articles/archive/feature/emergent-ramp-2013-06-11"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/emergent-ramp-2013-06-11"
 ---

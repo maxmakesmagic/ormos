@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20200102190436/https://magic.wizards.com/en/articles/archive/feature/theros-beyond-death-story-cards-2019-12-16)
+[Link to Wayback Machine](https://web.archive.org/web/20220927072957/https://magic.wizards.com/en/articles/archive/feature/theros-beyond-death-story-cards-2019-12-16?v)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Theros Beyond Death cards come with important story moments. We'll collect those here throughout the preview season, so check back often!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1492562"
 [_metadata_:publish_date]:- "2019-12-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Theros Beyond Death Story on Cards"
-[_metadata_:wayback_capture_timestamp]:- "2020-01-02 19:04:36+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200102190436id_/https://magic.wizards.com/en/articles/archive/feature/theros-beyond-death-story-cards-2019-12-16"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/theros-beyond-death-story-cards-2019-12-16"
+[_metadata_:wayback_capture_timestamp]:- "2022-09-27 07:29:57"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220927072957id_/https://magic.wizards.com/en/articles/archive/feature/theros-beyond-death-story-cards-2019-12-16?v"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/theros-beyond-death-story-cards-2019-12-16?v"
 ---
 
 
@@ -26,7 +28,7 @@ The Theros Beyond Death Story on Cards
 
 
 
-![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
 By Wizards of the Coast
 
 
@@ -102,6 +104,78 @@ Now, we return to Theros . . .
 
 
 ![](https://media.wizards.com/2019/images/daily/THB_Preview_Blurbs_Page_13.jpg)
+
+
+![](https://media.wizards.com/2019/images/daily/fjas83Yuda_14.jpg)
+
+
+![](https://media.wizards.com/2019/images/daily/mgnD389ymM_15.jpg)
+
+
+![](https://media.wizards.com/2019/images/daily/mdUe73Td8W_16.jpg)
+
+
+![17](https://media.wizards.com/2019/images/daily/THB_Preview_Blurbs_Page_17_Skipped.jpg)
+
+
+![](https://media.wizards.com/2019/images/daily/kK2u94YdUe_18.jpg)
+
+
+![](https://media.wizards.com/2019/images/daily/jsUdkeH39Yy_19.jpg)
+
+
+![](https://media.wizards.com/2019/images/daily/ThwW27Dt91_20.jpg)
+
+
+![](https://media.wizards.com/2019/images/daily/Ot02UdiILD_21.jpg)
+
+
+![](https://media.wizards.com/2019/images/daily/KmsUdP184Y_22.jpg)
+
+
+![](https://media.wizards.com/2019/images/daily/83Ud2IOpPd_23.jpg)
+
+
+![](https://media.wizards.com/2019/images/daily/SxJeo92UDs_24.jpg)
+
+
+![](https://media.wizards.com/2019/images/daily/mgUejdDs92_25.jpg)
+
+
+![](https://media.wizards.com/2019/images/daily/mKwDi3Du6E_26.jpg)
+
+
+![](https://media.wizards.com/2019/images/daily/sjND94Od8d_27.jpg)
+
+
+![](https://media.wizards.com/2019/images/daily/Mdks92Jd8s_28.jpg)
+
+
+![](https://media.wizards.com/2019/images/daily/Msk3Udt9sI_29.jpg)
+
+
+![](https://media.wizards.com/2019/images/daily/MdoE3Kk29s_30.jpg)
+
+
+![](https://media.wizards.com/2019/images/daily/MeWd3i8De9_31.jpg)
+
+
+![](https://media.wizards.com/2019/images/daily/LmgE3Ud0eE_32.jpg)
+
+
+![](https://media.wizards.com/2019/images/daily/KdwiU210dD_33.jpg)
+
+
+![34](https://media.wizards.com/2019/images/daily/THB_Preview_Blurbs_Page_34.jpg)
+
+
+![35](https://media.wizards.com/2019/images/daily/THB_Preview_Blurbs_Page_35.jpg)
+
+
+![36](https://media.wizards.com/2019/images/daily/THB_Preview_Blurbs_Page_36.jpg)
+
+
+![37](https://media.wizards.com/2019/images/daily/THB_Preview_Blurbs_Page_37.jpg)
 
 
 

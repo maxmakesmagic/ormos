@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Bennie Smith"
 [_metadata_:description]:- "First, Your Attention Please!As if the Inshiftalypse (AKA, IPA/Invasion-Planeshift-Apocalypse) events weren't already cool enough, Scott Larabee recently announced “upgrades” to make it even easier to get your hands on the coveted online Old School packs. In case you hadn't seen the announcement, I wanted to make sure you all were aware of the changes for IPA III:Top 8 from"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "619691"
 [_metadata_:publish_date]:- "2005-07-21"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Spotlight on PDC & Survivor Magic"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-19 19:29:52+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-19 19:29:52"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220119192952id_/https://magic.wizards.com/en/articles/archive/feature/spotlight-pdc-survivor-magic-2005-07-21"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/spotlight-pdc-survivor-magic-2005-07-21"
 ---

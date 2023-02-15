@@ -4,9 +4,11 @@
 
 [_metadata_:description]:- "Rank Name Points Op-Match 256 Afanasenko Dmitry (RUS) 14 43.52% 258 Alejos Franz (VEN) 13 43.75% 207 Alves Jhonathan (VEN) 19 44.27% 147 Ang Jun Yang (SNG) 23 53.39% 211 Areliusarson Arelius (ISL) 18 56.25% 155 Au Yeung Hon Ming (HKG) 22 51.30% 154 Baberowski Dirk (ger) 22 53.33% 178 Barbero Jose (ARG) 21 49.22% 36 Barrado Carlos (ESP) 30 56.86% 82 Bastos Frederico (POR) 27"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "961331"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round Sixteen Standings Sorted By Player"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-04 09:32:06+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-04 09:32:06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211204093206id_/https://magic.wizards.com/en/articles/archive/feature/round-sixteen-standings-sorted-player-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-sixteen-standings-sorted-player-2000-01-01"
 ---

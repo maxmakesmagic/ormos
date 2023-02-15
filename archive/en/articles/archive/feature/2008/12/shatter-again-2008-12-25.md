@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "This was my first new article of the year, a preview of the mighty Mind Shatter. Opinions were mixed about Mind Shatter at the onset, and I have to admit I had to go pretty deep into the tank to get where I wanted to go on the preview (you would be surprised how difficult it is to write certain previews). I am picking this article for two reasons: 1) It started the year off"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "693276"
 [_metadata_:publish_date]:- "2008-12-25"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Shatter Again"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-18 10:18:22+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-18 10:18:22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118101822id_/https://magic.wizards.com/en/articles/archive/feature/shatter-again-2008-12-25"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/shatter-again-2008-12-25"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Jay Moldenhauer-Salazar"
 [_metadata_:description]:- "Several months ago, I wrote about the wonderful flavor text in Fallen Empires and ways you can play out the story of the set. Unfortunately, when the complex storyline began centering around Gerrard Capashen and the Skyship Weatherlight it became increasingly difficult to use the cards in this way. In fact, as I said in my earlier article, “I think most people aren't aware"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "625916"
 [_metadata_:publish_date]:- "2002-07-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Quest for the Mirari"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-04 20:54:31+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-04 20:54:31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211204205431id_/https://magic.wizards.com/en/articles/archive/feature/quest-mirari-2002-07-18"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/quest-mirari-2002-07-18"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Goliat2's Block Tezzerator Format: Magic Online Shards of Alara Block Constructed 1 Forest 5 Island 8 Plains 4 Seaside Citadel 4 Knight of the White Orchid 3 Knight-Captain of Eos 3 Vedalken Outlander 4 Bant Charm 1 Behemoth Sledge 4 Courier's Capsule 3 Elspeth, Knight-Errant 4 Fieldmist Borderpost 3 Martial Coup 1 Oblivion Ring 3 Path to Exile 2 Scepter of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "668561"
 [_metadata_:publish_date]:- "2009-07-21"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Tezzerator"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-24 05:01:27+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-24 05:01:27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220124050127id_/https://magic.wizards.com/en/articles/archive/feature/tezzerator-2009-07-21"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/tezzerator-2009-07-21"
 ---

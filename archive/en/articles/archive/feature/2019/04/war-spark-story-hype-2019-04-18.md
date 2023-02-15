@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Chris Gleeson"
 [_metadata_:description]:- "The war for the fate of the Multiverse is about to begin!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1400116"
 [_metadata_:publish_date]:- "2019-04-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "War of the Spark Story Hype"
-[_metadata_:wayback_capture_timestamp]:- "2019-05-09 01:38:27+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2019-05-09 01:38:27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190509013827id_/https://magic.wizards.com/en/articles/archive/feature/war-spark-story-hype-2019-04-18"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/war-spark-story-hype-2019-04-18"
 ---

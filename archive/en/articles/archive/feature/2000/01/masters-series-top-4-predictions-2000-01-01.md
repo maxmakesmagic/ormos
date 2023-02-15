@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Sideboard Staff The four players who made it to the top four of the Masters are now competing for some serious money. Even the losers will $10,000 for making it this far, and those who win this round will take away a cool $35,000 between them. Each player has tested again and again the matchup that they will face, and they know their opponent's deck inside out (all of the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "805451"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Masters Series Top 4 Predictions"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-26 08:11:25+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-26 08:11:25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220626081125id_/https://magic.wizards.com/en/articles/archive/feature/masters-series-top-4-predictions-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/masters-series-top-4-predictions-2000-01-01"
 ---

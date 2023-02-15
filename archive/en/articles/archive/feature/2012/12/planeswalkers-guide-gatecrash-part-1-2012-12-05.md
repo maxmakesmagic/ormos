@@ -4,9 +4,11 @@
 
 [_metadata_:author]:- "The Magic Creative Team"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "353406"
 [_metadata_:publish_date]:- "2012-12-05"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Planeswalker's Guide to Gatecrash: Part 1"
-[_metadata_:wayback_capture_timestamp]:- "2015-05-10 10:07:31+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2015-05-10 10:07:31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150510100731id_/http://magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-gatecrash-part-1-2012-12-05"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-gatecrash-part-1-2012-12-05"
 ---

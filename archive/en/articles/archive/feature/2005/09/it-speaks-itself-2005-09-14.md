@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Zvi Mowshowitz"
 [_metadata_:description]:- "Today's preview article is a little short, but I believe that in this case less is more. The card speaks (and howls) for itself. There's a saying that good men are hard to find. That's been true in the past, but it is not true now. We've come a long way from when pros like Bob Maher and Steve OMS complained that all creatures did was die. Creatures are stronger and more central to the game while the removal has been scaled back to allow them to shine."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "624491"
 [_metadata_:publish_date]:- "2005-09-14"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "It Speaks for Itself"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-17 16:39:03+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-04-17 16:39:03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170417163903id_/http://magic.wizards.com/en/articles/archive/feature/it-speaks-itself-2005-09-14"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/it-speaks-itself-2005-09-14"
 ---

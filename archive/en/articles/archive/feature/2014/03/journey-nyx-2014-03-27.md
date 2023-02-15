@@ -4,9 +4,11 @@
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "702091"
 [_metadata_:publish_date]:- "2014-03-27"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Journey Into Nyx"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-07 20:07:48+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-07 20:07:48"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211207200748id_/https://magic.wizards.com/en/articles/archive/feature/journey-nyx-2014-03-27"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/journey-nyx-2014-03-27"
 ---

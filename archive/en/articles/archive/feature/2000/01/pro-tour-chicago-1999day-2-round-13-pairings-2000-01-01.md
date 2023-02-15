@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Points Table Opponent Points Baberowski, Dirk (120) 27 7 Lefranc, Florent (132) 27 Benezech, Lionel (318) 22 23 Maier, Gero (202) 22 Bernat, Michael (283) 22 22 Shaw, Thomas (86) 22 Bingen, Sturla (116) 19 40 Stammerjohan, William (243) 18 Budde, Kai (320) 19 41 Refsdal, Thomas (26) 18 Burgner, Kurt (335) 24 16 OMS, Daniel (316) 24 Burn, Seth (312) 18 42 OMS, Steven"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "951066"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-Chicago 1999Day 2 Round 13 Pairings"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-22 20:19:45+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-22 20:19:45"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522201945id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-2-round-13-pairings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-2-round-13-pairings-2000-01-01"
 ---

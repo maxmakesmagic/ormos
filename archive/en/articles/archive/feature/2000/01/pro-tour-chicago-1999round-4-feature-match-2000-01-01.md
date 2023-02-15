@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Worth Wollpert vs. Kurt Burgner Worth Wollpert and Kurt Burgner are two of the regulars on the Pro Tour. Each has been playing for years and each is currently on the `gravy train`, meaning they have enough Pro Tour points to qualify for each event. They've played multiple times in the past and they joked before and during the round about how Kurt has owned Worth. Burgner is"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "950936"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-Chicago 1999Round 4 Feature Match"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-20 10:56:55+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-20 10:56:55"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520105655id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-4-feature-match-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999round-4-feature-match-2000-01-01"
 ---

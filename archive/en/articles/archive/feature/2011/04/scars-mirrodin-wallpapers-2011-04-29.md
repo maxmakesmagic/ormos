@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Welcome back to `On the Mirrodin Site,` where we show off highlights from the Mirrodin Site. This week, we're going to take a trip into the past to show off all the Scars of Mirrodin wallpapers you might have missed."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "643221"
 [_metadata_:publish_date]:- "2011-04-29"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Scars of Mirrodin Wallpapers"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-28 20:15:18+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-28 20:15:18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028201518id_/https://magic.wizards.com/en/articles/archive/feature/scars-mirrodin-wallpapers-2011-04-29"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/scars-mirrodin-wallpapers-2011-04-29"
 ---

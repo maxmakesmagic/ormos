@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Announcing Plane Shift: Zendikar"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1019006"
 [_metadata_:publish_date]:- "2016-04-27"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Plane Shift: Zendikar"
-[_metadata_:wayback_capture_timestamp]:- "2016-04-28 13:14:39+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-04-28 13:14:39"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160428131439id_/http://magic.wizards.com/en/articles/archive/feature/plane-shift-zendikar-2016-04-27"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/plane-shift-zendikar-2016-04-27"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "InformationTournament Schedule  Tournament Byes  Public Events  Artist Information  Travel Information  Contact Information"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "728936"
 [_metadata_:publish_date]:- "2012-04-20"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Manila Event Information"
-[_metadata_:wayback_capture_timestamp]:- "2016-09-27 10:49:34+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-09-27 10:49:34"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160927104934id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-manila-event-information-2012-04-20"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-manila-event-information-2012-04-20"
 ---

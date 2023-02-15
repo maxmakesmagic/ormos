@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "During Scars of Mirrodin, the Planeswalkers Koth of the Hammer; Venser, the Sojourner; and Elspeth Tirel are ... well, what exactly are they doing? Perhaps the first part of Scarred knows something about that. Lets find out!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "680301"
 [_metadata_:publish_date]:- "2011-01-06"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Scarred, Part I"
-[_metadata_:wayback_capture_timestamp]:- "2020-09-21 13:23:09+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-09-21 13:23:09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200921132309id_/https://magic.wizards.com/en/articles/archive/feature/scarred-part-i-2011-01-06-0"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/scarred-part-i-2011-01-06-0"
 ---

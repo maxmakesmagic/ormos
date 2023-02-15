@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Monty Ashley"
 [_metadata_:description]:- "Obzedat, Ghost Council – Gatecrash mythic rare. From the Gatecrash FAQ: When Obzedat is returned to the battlefield by its last ability, it gains haste indefinitely. This may be relevant if a player gains control of it later using a spell or ability that doesn't give it haste. High Priest of Penance – Gatecrash rare. From the Gatecrash FAQ: High Priest of Penance's ability"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "664431"
 [_metadata_:publish_date]:- "2012-12-31"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Card of the Day - January, 2013"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-26 07:26:09+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-26 07:26:09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220626072609id_/https://magic.wizards.com/en/articles/archive/feature/card-day-january-2013-2012-12-31"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-day-january-2013-2012-12-31"
 ---

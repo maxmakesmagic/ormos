@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "RankTeamPointsOp.Win% 1 Angstschreeuw 2564.3519% 2 one day fly 2474.8677% 3 AlphaBetaUnlimited.com 2266.9312% 4 Team Clegg 2174.0741% 5 Two men and a baby !"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "806231"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 9 Standings (by Score)"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-25 10:55:13+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-25 10:55:13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220625105513id_/https://magic.wizards.com/en/articles/archive/feature/round-9-standings-score-2000-01-01-0"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-9-standings-score-2000-01-01-0"
 ---

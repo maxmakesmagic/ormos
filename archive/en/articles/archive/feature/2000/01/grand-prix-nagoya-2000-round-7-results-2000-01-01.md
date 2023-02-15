@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Match Team Result Team Team HIKESHI *** BYE *** 1 Godzilla 3-0 WACHI-DE? 2 T.F.Z. 0-3 Team Iwamoto 3 Poor Shark 0-3 Team T.T.Y."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "952351"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix-Nagoya 2000 Round 7 Results"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-24 18:23:15+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-24 18:23:15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524182315id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-round-7-results-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-round-7-results-2000-01-01"
 ---

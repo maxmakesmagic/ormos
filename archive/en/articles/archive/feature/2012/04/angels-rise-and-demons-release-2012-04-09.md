@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20170216103708/http://magic.wizards.com/en/articles/archive/feature/angels-rise-and-demons-release-2012-04-09)
+[Link to Wayback Machine](https://web.archive.org/web/20150401070350/http://magic.wizards.com/en/articles/archive/feature/angels-rise-and-demons-release-2012-04-09)
 
 [_metadata_:author]:- "Doug Beyer"
 [_metadata_:description]:- "The fate of humanity on Innistrad will soon be decided. The battlefield has been chosen, the stakes are set, and the combatants are on a collision course. And when all is said and done, more than an angel will be released back into the world."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "353516"
 [_metadata_:publish_date]:- "2012-04-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Angel's Rise and Demon's Release"
-[_metadata_:wayback_capture_timestamp]:- "2017-02-16 10:37:08+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170216103708id_/http://magic.wizards.com/en/articles/archive/feature/angels-rise-and-demons-release-2012-04-09"
+[_metadata_:wayback_capture_timestamp]:- "2015-04-01 07:03:50"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150401070350id_/http://magic.wizards.com/en/articles/archive/feature/angels-rise-and-demons-release-2012-04-09"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/angels-rise-and-demons-release-2012-04-09"
 ---
 
@@ -33,7 +35,6 @@ By Doug Beyer
 
 
  Senior creative designer on Magic's creative team and lover of writing and worldbuilding. Doug blogs about Magic flavor and story at http://dougbeyermtg.tumblr.com/ 
-
 
 
 
@@ -69,7 +70,7 @@ Liliana has put a lot of power into raising a small army of summoned ghouls. Bef
 
 
 ![](https://media.wizards.com/images/magic/daily/features/feature190_elnr7c9v4v.jpg)
-Art by [Steve Argyle](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=+%5B%22Steve+Argyle%22%5D)
+Art by [Steve Argyle](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=+[%22Steve+Argyle%22])
 
 
 As if on cue, Thalia, the Guardian of Thraben, rushes out with her cadre of elite cathars to meet the undead threat. As Liliana's unhallowed forces crash into the cathedral courtyard, Thalia and her cathars surround the Helvault, protecting it with their lives. The ghouls and cathars clash, swords slicing through the dead and claws rending the living.
@@ -85,7 +86,7 @@ Thalia can feel the power of the coercive spell that is now upon her. She has vo
 
 
 ![](https://media.wizards.com/images/magic/daily/features/feature190_l3udphyvp7.jpg)
-Art by [Michael C. Hayes](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=+%5B%22Michael+C.+Hayes%22%5D)
+Art by [Michael C. Hayes](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=+[%22Michael+C.+Hayes%22])
 
 
 For their part, her cathars struggle to stay silent, muffling their pain as Liliana's ghouls tear them apart. But finally, it takes only the strangled cry from one of her cathars for Thalia to make her choice.
@@ -107,7 +108,7 @@ It is Avacyn, the Angel of Hope: pure, whole, and eternal.
 
 
 ![](https://media.wizards.com/images/magic/daily/features/feature190_pwv195424o.jpg)
-Avacyn, Angel of Hope | Art by [Jason Chan](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=+%5B%22Jason+Chan%22%5D)
+Avacyn, Angel of Hope | Art by [Jason Chan](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=+[%22Jason+Chan%22])
 
 
 ### The Restoration
@@ -117,14 +118,14 @@ Within hours, Avacyn's return causes a surge in the holy magic across the plane.
 
 
 ![](https://media.wizards.com/images/magic/daily/features/feature190_a17xdxejjy.jpg)
-Art by [Mike Bierek](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=+%5B%22Mike+Bierek%22%5D)
+Art by [Mike Bierek](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=+[%22Mike+Bierek%22])
 
 
 Creatures begin to surface that have not been seen on Innistrad before, some that had gone into hiding during the dark times, and some entirely new, forged for divine duty by Avacyn herself. As we'll see, evil has not been wiped out on the world—far from it. Darkness might be built into Innistrad's very nature. But those who depend on Avacyn's protection have new weapons in the fight.
 
 
 ![](https://media.wizards.com/images/magic/daily/features/feature190_sil.jpg)
-Silverblade Paladin | Art by [Jason Chan](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=+%5B%22Jason+Chan%22%5D)
+Silverblade Paladin | Art by [Jason Chan](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=+[%22Jason+Chan%22])
 
 
 Thalia's cathar army is renewed, its strength and faith restored. And it is not long before she puts it to work, pushing back the vampires and zombie hordes, hoping to reclaim all of the four provinces for humanity.
@@ -168,7 +169,7 @@ The exchange, ultimately, is brief. The demon lord is surprised to see her, and 
 
 
 ![](https://media.wizards.com/images/magic/daily/features/feature190_lihnfakqa9.jpg)
-Art by [Nils Hamm](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=+%5B%22Nils+Hamm%22%5D)
+Art by [Nils Hamm](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=+[%22Nils+Hamm%22])
 
 
 —and Liliana lets the Chain Veil fuel her spell of death. A vortex of malice erupts from her, seething with a depth of hatred she didn't know she possessed. As satisfying as it is to finally see Griselbrand perish, the feeling unnerves her, and for a fleeting moment she wonders if she will be able to control what her magic is becoming. But in that moment, she destroys Griselbrand utterly, and the deed is done.
@@ -178,7 +179,7 @@ The ground where Griselbrand stood is empty now. The sulfurous air of the Ashmou
 
 
 ![](https://media.wizards.com/images/magic/daily/features/feature190_m65jzm4l4l.jpg)
-Art by [Todd Lockwood](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=+%5B%22Todd+Lockwood%22%5D)
+Art by [Todd Lockwood](http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=+[%22Todd+Lockwood%22])
 
 
 Across the four provinces, humans give thanks in quiet joy for the return of Avacyn. As the moon sets, villagers unbar their doors, their blessed-silver spears and angel-fuelled magics at the ready once more. Flights of angels answer the calls of the afflicted, striking back against the creatures of the night. Avacyn leads the charge, spreading her wings as if to embrace the entire plane.

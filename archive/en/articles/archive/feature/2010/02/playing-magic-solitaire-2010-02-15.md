@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mike Mikaelian"
 [_metadata_:description]:- "This article was originally printed in Duelist #34Ever wanted to challenge yourself to a Magic duel? Here's how! All you need is a deck (either a deck you use all the time or a sealed deck), the rules below, and a slightly different way of approaching the game. Solitaire Magic won't improve your timing skills or the menacing glare that intimidates opponents. It will, however, improve your card memory skills, including your ability to estimate how likely you are to draw a card based on how many cards you've seen."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "684136"
 [_metadata_:publish_date]:- "2010-02-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Playing Magic Solitaire"
-[_metadata_:wayback_capture_timestamp]:- "2016-04-18 10:42:34+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-04-18 10:42:34"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160418104234id_/http://magic.wizards.com/en/articles/archive/feature/playing-magic-solitaire-2010-02-15"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/playing-magic-solitaire-2010-02-15"
 ---

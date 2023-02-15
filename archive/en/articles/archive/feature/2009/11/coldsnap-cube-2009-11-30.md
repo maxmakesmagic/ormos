@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210916095903/https://magic.wizards.com/en/articles/archive/feature/coldsnap-cube-2009-11-30)
+[Link to Wayback Machine](https://web.archive.org/web/20160619003403/http://magic.wizards.com/en/articles/archive/feature/coldsnap-cube-2009-11-30)
 
 [_metadata_:author]:- "Wizards of the Coast"
-[_metadata_:description]:- "You're probably familiar with the usual swag that comes with new sets. For example, there's the ubiquitous lifecounter, shown here in its Coldsnap incarnation. But here's something you might not have seen! At first glance, it's an innocuous plastic ice cube, distinguished only by the Coldsnap and Magic logos. Click to change! Click to change! But when you click the `Click to"
+[_metadata_:description]:- "&#13; You're probably familiar with the usual swag that comes with new sets. For example, there's the ubiquitous lifecounter, shown here in its Coldsnap incarnation.&#13; But here's something you might not have seen! At first glance, it's an innocuous plastic ice cube, distinguished only by the Coldsnap and Magic logos."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "654646"
 [_metadata_:publish_date]:- "2009-11-30"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Coldsnap Cube"
-[_metadata_:wayback_capture_timestamp]:- "2021-09-16 09:59:03+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210916095903id_/https://magic.wizards.com/en/articles/archive/feature/coldsnap-cube-2009-11-30"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/coldsnap-cube-2009-11-30"
+[_metadata_:wayback_capture_timestamp]:- "2016-06-19 00:34:03"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160619003403id_/http://magic.wizards.com/en/articles/archive/feature/coldsnap-cube-2009-11-30"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/coldsnap-cube-2009-11-30"
 ---
 
 
@@ -26,7 +28,7 @@
 
 
 
-![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
 By Wizards of the Coast
 
 

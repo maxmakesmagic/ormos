@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Magic tournaments have given away interesting prizes for years. A cruise. Delicious Kobe beef. Computers. iPods. Cars. Well, we're just skipping to the top. WIN GOLD On Sunday, December 14, 2008, at the Magic World Championship tournament in Memphis, one person will go home with a 14k gold bar embossed with the Magic logo worth $10,000. Or the winner could just take the cash."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "653431"
 [_metadata_:publish_date]:- "2008-11-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Win Gold at Worlds"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-29 00:22:15+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-29 00:22:15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211129002215id_/https://magic.wizards.com/en/articles/archive/feature/win-gold-worlds-2008-11-18"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/win-gold-worlds-2008-11-18"
 ---

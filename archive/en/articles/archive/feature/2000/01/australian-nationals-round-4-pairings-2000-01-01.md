@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Pts Table Opponent Pts Adams, Joel ( 15) 1 *** BYE *** Ansell, Robert ( 31) 6 11 Park, Michael ( 42) 6 Bandas, Jim ( 80) 4 22 Cook, Matthew ( 72) 4 Barlow, Russell ( 19) 6 15 Speller, Sam ( 45) 6 Bow, Frankle ( 83) 7 4 Trevilyan, Bryce ( 10) 7 Bray, Jonathan ( 70) 5 9 Steele, Wayne ( 75) 6 Brebach, Kim ( 32) 7 6 McGann, Cael ( 37) 7 Brugman, John ( 41) 6 12 Corney,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "948766"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Australian Nationals Round 4 Pairings"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-16 06:50:33+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-16 06:50:33"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516065033id_/https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-4-pairings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-4-pairings-2000-01-01"
 ---

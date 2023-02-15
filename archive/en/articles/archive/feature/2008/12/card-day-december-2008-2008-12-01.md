@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20211018120242/https://magic.wizards.com/en/articles/archive/feature/card-day-december-2008-2008-12-01)
+[Link to Wayback Machine](https://web.archive.org/web/20220810055117/https://magic.wizards.com/en/articles/archive/feature/card-day-december-2008-2008-12-01)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Scapegoat – Stronghold uncommon. The art of Scapegoat portrays a pivotal moment in the Weatherlight saga, in which Gerrard Capashen believes that he has finally killed Volrath the Fallen, who had once been Vuel, Gerrard's stepbrother (and Sidar Kondo's son). Unfortunately (and this is what's happening on the card), it was a Volrath's Shapeshifter in the form of Volrath, which"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "664741"
 [_metadata_:publish_date]:- "2008-12-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Card of the Day - December, 2008"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-18 12:02:42+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018120242id_/https://magic.wizards.com/en/articles/archive/feature/card-day-december-2008-2008-12-01"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-10 05:51:17"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220810055117id_/https://magic.wizards.com/en/articles/archive/feature/card-day-december-2008-2008-12-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-day-december-2008-2008-12-01"
 ---
 

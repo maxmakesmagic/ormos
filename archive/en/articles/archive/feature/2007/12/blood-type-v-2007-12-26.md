@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Matt Cavotta"
 [_metadata_:description]:- "As a magicthegathering.com columnist, I get to select a couple of my favorite columns from this year to encore (who's calling it a `rerun`?). This year I took over the column from Taste the Magic originator Matt Cavotta, and although Matt was originally known to Magic players for his art, I couldn't do better this holiday than to shine a little more of the spotlight on his"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "622431"
 [_metadata_:publish_date]:- "2007-12-26"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Blood Type V"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-20 22:52:37+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-20 22:52:37"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120225237id_/https://magic.wizards.com/en/articles/archive/feature/blood-type-v-2007-12-26"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/blood-type-v-2007-12-26"
 ---

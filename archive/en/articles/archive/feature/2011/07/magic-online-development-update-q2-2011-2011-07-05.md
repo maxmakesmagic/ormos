@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Summary The New Phyrexia release broke Magic Online’s concurrent user and activity records, continuing a pattern that began with the Magic 2010 release. The Stacked Digital Object and Collation Update project is code complete (a month ahead of schedule) and will ship in early Q3. Multiplayer support became official in Magic Online as of the Commander release on June 29. The"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "687801"
 [_metadata_:publish_date]:- "2011-07-05"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic Online Development Update Q2 2011"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-22 17:58:21+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-22 17:58:21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522175821id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-development-update-q2-2011-2011-07-05"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-development-update-q2-2011-2011-07-05"
 ---

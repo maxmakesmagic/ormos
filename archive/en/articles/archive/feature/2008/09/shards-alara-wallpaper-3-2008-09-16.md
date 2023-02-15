@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Shards of Alara Wallpaper 3 800x600 1024x768 1280x1024"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "707376"
 [_metadata_:publish_date]:- "2008-09-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Shards of Alara Wallpaper 3"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-24 07:31:18+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-24 07:31:18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024073118id_/https://magic.wizards.com/en/articles/archive/feature/shards-alara-wallpaper-3-2008-09-16"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/shards-alara-wallpaper-3-2008-09-16"
 ---

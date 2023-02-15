@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Chris Millar"
 [_metadata_:description]:- "Welcome, Johnnies, to Allied Colour Week! Finally, a week devoted to my favourite New Zealand-based chemical plant. I guess we've got to cover the important themes first, like Mulligans, Squirrels, and Allied Colours. Meanwhile, Elf-boy here is still waiting for Elf Week. Sigh.What can I do with allied colours? Well, now that I know the five of them like to go to make-out"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "620836"
 [_metadata_:publish_date]:- "2008-06-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "I Said I Loved You, But Allied"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-25 04:07:41+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-25 04:07:41"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220125040741id_/https://magic.wizards.com/en/articles/archive/feature/i-said-i-loved-you-allied-2008-06-12"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/i-said-i-loved-you-allied-2008-06-12"
 ---

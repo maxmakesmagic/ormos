@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Brian Tinsman"
 [_metadata_:description]:- "I'll start at the beginning. My name is Brian Tinsman, and I was a typical casual Magic player five years ago. One day I found myself sitting in graduate business school daydreaming about Magic cards. Soon afterward, I landed a job at Wizards of the Coast in the Market Research department. There, I conducted hundreds of hours of consumer tests, watching kids try to learn the rules to trading card games through a see-through mirror."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "630431"
 [_metadata_:publish_date]:- "2003-05-19"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Creation of Scourge"
-[_metadata_:wayback_capture_timestamp]:- "2019-06-07 23:46:28+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2019-06-07 23:46:28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190607234628id_/https://magic.wizards.com/en/articles/archive/feature/creation-scourge-2003-05-19"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/creation-scourge-2003-05-19"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Before the 2012 season begins at Grand Prix Austin in early January, Wizards of the Coast is announcing the following changes to the premier play tournament structure and Planeswalker Points system. These adjustments are a culmination of an extensive review to the changes we announced in September and November."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "688686"
 [_metadata_:publish_date]:- "2011-12-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Revamped Premier Play Coming in 2012"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-03 08:57:55+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-03 08:57:55"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503085755id_/https://magic.wizards.com/en/articles/archive/feature/revamped-premier-play-coming-2012-2011-12-23"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/revamped-premier-play-coming-2012-2011-12-23"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Frank Karsten"
 [_metadata_:description]:- "Welcome! Today I’m just going to quickly skim over the online Standard and Extended results and focus on Time Spiral Block Constructed (TSBC). Traditionally, Block Constructed with just one set is often not viewed as an interesting format, as the card pool was too small to make interesting decks yet, so you may wonder why I choose to feature it now. Well, TSBC is a special"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "624161"
 [_metadata_:publish_date]:- "2007-01-31"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Evolution of Time Spiral Block Constructed"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-09 14:47:27+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-09 14:47:27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220809144727id_/https://magic.wizards.com/en/articles/archive/feature/evolution-time-spiral-block-constructed-2007-01-31"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/evolution-time-spiral-block-constructed-2007-01-31"
 ---

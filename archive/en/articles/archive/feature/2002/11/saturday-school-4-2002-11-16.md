@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Rune Horvik"
 [_metadata_:description]:- "Because Rune had to head judge the recent Pro Tour, his batch of questions is a little smaller this week. The full-sized version will return next Saturday.Keep sending in those questions!General / Older Card QuestionsQ: If a Drudge Skeletons is destroyed in combat, do you have to play the regeneration ability the turn it is put into a graveyard or can you play it later? And"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "622071"
 [_metadata_:publish_date]:- "2002-11-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Saturday School #4"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-29 00:41:16+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-29 00:41:16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220129004116id_/https://magic.wizards.com/en/articles/archive/feature/saturday-school-4-2002-11-16"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/saturday-school-4-2002-11-16"
 ---

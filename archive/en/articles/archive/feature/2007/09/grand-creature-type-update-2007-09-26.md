@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark Gottlieb"
 [_metadata_:description]:- "The time has come! Over the past few years, we've been updating Magic cards to modern creature type standards in dribs and drabs. Rather than continuing to live with inconsistencies for the foreseeable future, we're going all out and updating everything in one fell swoop."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "633776"
 [_metadata_:publish_date]:- "2007-09-26"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Grand Creature Type Update"
-[_metadata_:wayback_capture_timestamp]:- "2016-03-18 20:54:45+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-03-18 20:54:45"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160318205445id_/http://magic.wizards.com/en/articles/archive/feature/grand-creature-type-update-2007-09-26"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-creature-type-update-2007-09-26"
 ---

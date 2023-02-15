@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Before the Round: Godzilla was undefeated going into this round. Bob Maher and Dave Williams had not lost a match all tournament. David Williams is happy about his drafting selections. Notes from round 10: Godzilla played against Team Unluckys in this round. Team Unluckys defeated Godzilla 3-0. This is the only time a member of team Godzilla played a three-color deck (Bob"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "952261"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Godzilla - Round 10"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-28 18:10:36+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-28 18:10:36"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220528181036id_/https://magic.wizards.com/en/articles/archive/feature/godzilla-round-10-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/godzilla-round-10-2000-01-01"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Here's a look at the two new Dominaria United Commander decks!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1599375"
 [_metadata_:publish_date]:- "2022-08-19"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Dominaria United Commander Decklists"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-19 18:34:19+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-19 18:34:19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220819183419id_/https://magic.wizards.com/en/articles/archive/feature/dominaria-united-commander-decklists-2022-08-19"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dominaria-united-commander-decklists-2022-08-19"
 ---

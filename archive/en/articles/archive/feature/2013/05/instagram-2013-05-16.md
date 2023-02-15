@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "For those of you who enjoy the more visual of the social media networks out there, you'll likely be excited to know that we launched our presence on Instagram last week! Other places to find us online: Twitter Facebook Google+"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "649041"
 [_metadata_:publish_date]:- "2013-05-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Instagram"
-[_metadata_:wayback_capture_timestamp]:- "2021-02-11 10:25:26+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-02-11 10:25:26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210211102526id_/https://magic.wizards.com/en/articles/archive/feature/instagram-2013-05-16"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/instagram-2013-05-16"
 ---

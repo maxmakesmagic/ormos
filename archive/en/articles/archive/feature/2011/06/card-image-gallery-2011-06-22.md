@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20160528221209/http://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2011-06-22)
+[Link to Wayback Machine](https://web.archive.org/web/20220707172511/https://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2011-06-22)
 
 [_metadata_:author]:- "Wizards of the Coast"
-[_metadata_:description]:- "*/ /*-->*/"
+[_metadata_:description]:- "Welcome to the Card Image Gallery for the Magic 2012 Core Set. This is a constantly updated archive of every preview card for Magic 2012, so check back often for updates! White | Blue | Black | Red | Green | Artifacts and Lands | ALL CARDS  White | Blue | Black | Red | Green | Artifacts and Lands | ALL CARDS"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "699211"
 [_metadata_:publish_date]:- "2011-06-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Card Image Gallery"
-[_metadata_:wayback_capture_timestamp]:- "2016-05-28 22:12:09+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160528221209id_/http://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2011-06-22"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2011-06-22"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-07 17:25:11"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220707172511id_/https://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2011-06-22"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2011-06-22"
 ---
 
 
@@ -26,7 +28,7 @@
 
 
 
-![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
 By Wizards of the Coast
 
 

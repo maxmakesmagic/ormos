@@ -5,9 +5,11 @@
 [_metadata_:author]:- "updated 10-5-04"
 [_metadata_:description]:- "グランプリ横浜の案内 All trials for Grand Prix—Yokohama are Sealed Deck with Rochester Draft finals. Tournaments held during September will be run using Mirrodin Block Sealed; events after October 1 will use Champions of Kamigawa. The entry fee for each trial is ¥3,000 (included sealed deck). Winners of each trial will be awarded a 3-round bye at Grand Prix—Yokohama. Additional byes may"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "736511"
 [_metadata_:publish_date]:- "2004-08-20"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix - Yokohama Trials"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-13 14:29:16+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-13 14:29:16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220813142916id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-yokohama-trials-2004-08-20"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-yokohama-trials-2004-08-20"
 ---

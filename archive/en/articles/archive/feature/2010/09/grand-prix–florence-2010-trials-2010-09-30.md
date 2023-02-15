@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Grand Prix–Florence Trials will be run at WPN locations throughout Europe in the weeks leading up to the Grand Prix. Each offers at least 1 Third-Round bye to Grand Prix–Florence. WPN Locations in the Florence AreaEntry Fee Entry fee varies from location to location. Check with local organizer for specific information."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "728496"
 [_metadata_:publish_date]:- "2010-09-30"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix–Florence 2010 Trials"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-26 06:35:30+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-26 06:35:30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126063530id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93florence-2010-trials-2010-09-30"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93florence-2010-trials-2010-09-30"
 ---

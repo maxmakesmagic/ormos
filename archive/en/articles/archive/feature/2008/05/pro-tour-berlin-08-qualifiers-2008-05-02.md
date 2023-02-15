@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "CountryDateCityAddressLine1AddressLine2Contact China2008-08-08Beijing Beijing Haidian DistrictZhongguancun E Worldlegendtony@163.com China2008-08-09GuangzhouGuangzhou Yuexiu Qu Fazhenglu Zhenjiadajiemagicrabit@hotmail.com China2008-08-17ShanghaiShanghai Nanning XiluTiyu Mansionsagitta@21cn.com Taiwan2008-06-07TaichungPalmer HotelNo.5, Sec."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "640211"
 [_metadata_:publish_date]:- "2008-05-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour Berlin '08 - Qualifiers"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-24 16:33:00+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-24 16:33:00"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024163300id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-berlin-08-qualifiers-2008-05-02"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-berlin-08-qualifiers-2008-05-02"
 ---

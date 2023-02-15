@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Shun Ikeda's Turn, Turn, Turn Format: Standard 4 Flooded Grove 7 Forest 4 Island 1 Mystic Gate 4 Seaside Citadel 2 Sunpetal Grove 4 Great Sable Stag 4 Noble Hierarch 4 Rhox War Monk 4 Cryptic Command 4 Fertile Ground 4 Garruk Wildspeaker 4 Jace Beleren 2 Negate 4 Savor the Moment 4 Time Warp *2 Cloudthresher *4 Kitchen Finks *3 Meddling Mage *3 Path to Exile"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "668746"
 [_metadata_:publish_date]:- "2009-09-04"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "To Everything…"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-08 16:57:49+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-08 16:57:49"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220808165749id_/https://magic.wizards.com/en/articles/archive/feature/everything%E2%80%A6-2009-09-04"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/everything%E2%80%A6-2009-09-04"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Jeroen Aga's Naya Allies Format: Standard - Grand Prix–Brussels 4 Ancient Ziggurat 4 Arid Mesa 2 Forest 4 Jungle Shrine 1 Mountain 5 Plains 4 Sunpetal Grove 4 Akoum Battlesinger 4 Bloodbraid Elf 1 Goblin Bushwhacker 4 Hada Freeblade 3 Harabaz Druid 4 Kabira Evangel 4 Kazandu Blademaster 4 Oran-Rief Survivalist 2 Ranger of Eos 4 Talus Paladin 2 Path to Exile"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "669521"
 [_metadata_:publish_date]:- "2010-04-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Naya Allies"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-17 01:45:34+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-17 01:45:34"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220117014534id_/https://magic.wizards.com/en/articles/archive/feature/naya-allies-2010-04-02"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/naya-allies-2010-04-02"
 ---

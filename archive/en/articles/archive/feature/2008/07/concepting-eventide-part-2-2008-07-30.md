@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Doug Beyer"
 [_metadata_:description]:- "When we last saw our hero in Part 1, he had just been handed the task of concepting Eventide. Today we rejoin him for the thrilling conclusion."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "623046"
 [_metadata_:publish_date]:- "2008-07-30"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Concepting Eventide, Part 2"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 01:10:33+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-12 01:10:33"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112011033id_/https://magic.wizards.com/en/articles/archive/feature/concepting-eventide-part-2-2008-07-30"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/concepting-eventide-part-2-2008-07-30"
 ---

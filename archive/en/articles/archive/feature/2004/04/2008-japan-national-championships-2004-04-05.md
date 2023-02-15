@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20171030014545/https://magic.wizards.com/en/articles/archive/feature/2008-japan-national-championships-2004-04-05)
+[Link to Wayback Machine](https://web.archive.org/web/20211021215554/https://magic.wizards.com/en/articles/archive/feature/2008-japan-national-championships-2004-04-05)
 
 [_metadata_:author]:- "Wizards of the Coast"
-[_metadata_:description]:- "September 19-21, 2008 Location Osanbashi Hall 1-1-4 Kaigan-doori, Naka-ku Yokohama-shi, Kanagawa-kenwww.osanbashi.com/hall/index.html Access  "
+[_metadata_:description]:- "September 19-21, 2008 Location Osanbashi Hall 1-1-4 Kaigan-doori, Naka-ku Yokohama-shi, Kanagawa-ken www.osanbashi.com/hall/index.html Access 3 minutes' walk from the Osanbashi bus stop 7 minutes' walk from Exit 3 of Nihon Oo-doori station, Minato Mirai line 15 minutes' walk from Kannai station, Yokohama Municipal Subway line Eligibility The Japanese National Championship and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "733091"
 [_metadata_:publish_date]:- "2004-04-05"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2008 Japan National Championships"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-30 01:45:45+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030014545id_/https://magic.wizards.com/en/articles/archive/feature/2008-japan-national-championships-2004-04-05"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-21 21:55:54"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021215554id_/https://magic.wizards.com/en/articles/archive/feature/2008-japan-national-championships-2004-04-05"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2008-japan-national-championships-2004-04-05"
 ---
 
@@ -26,7 +28,7 @@
 
 
 
-![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
 By Wizards of the Coast
 
 

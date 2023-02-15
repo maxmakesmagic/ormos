@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Brian David-Marshall"
 [_metadata_:description]:- "It is that time of year again. Saviors of Kamigawa is looming on the horizon to change whatever we learned about Block Constructed this past weekend, further shuffle the Standard decks for Regionals, and close the books on the Kamigawa storyline. This weekend there will be worldwide Prerelease tournaments that will allow players to try the new cards out for the first time in a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "631721"
 [_metadata_:publish_date]:- "2005-05-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Saviors of Kamigawa Prerelease Primer"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 04:08:32+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 04:08:32"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429040832id_/https://magic.wizards.com/en/articles/archive/feature/saviors-kamigawa-prerelease-primer-2005-05-16"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/saviors-kamigawa-prerelease-primer-2005-05-16"
 ---

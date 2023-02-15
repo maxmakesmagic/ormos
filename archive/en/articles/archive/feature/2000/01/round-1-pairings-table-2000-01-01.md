@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "TableTeamOpponent1ChivsOne Turn Too Late25280vsSpastik Monkees3Grape ApesvsPhantom Tollbooth4Ka-Tetvs3 Stooges5CherryvsHowling Wolf63 for FlinchingvsRighteous Babe7Left Cheek Sneakvs3 X Threat8Team FleesvsCollector's Corner9The TailsvsTeam 0-3 Lunch10Coup de FoudrevsTeam Primate11Team Needs a Hotel RoomvsI am Jack's Team12Sean Connery & the Cosmic DwvsTeam Nose Guy13Team"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "806046"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 1 Pairings (by Table)"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-01 07:54:43+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-01 07:54:43"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220701075443id_/https://magic.wizards.com/en/articles/archive/feature/round-1-pairings-table-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-1-pairings-table-2000-01-01"
 ---

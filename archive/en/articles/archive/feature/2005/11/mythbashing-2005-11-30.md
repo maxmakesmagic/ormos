@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Matt Cavotta"
 [_metadata_:description]:- "As the weeks go by and the articles pile up, so, it seems, do the interesting interpretations of my words. With an audience comprised of many different types of peeps, it is not surprising to me that what I write is not absorbed the same way by everybody. This is totally cool with me. But, in some cases, one particular interpretation gains momentum and a life of its own. I"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "626476"
 [_metadata_:publish_date]:- "2005-11-30"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Mythbashing"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 20:14:51+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 20:14:51"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429201451id_/https://magic.wizards.com/en/articles/archive/feature/mythbashing-2005-11-30"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mythbashing-2005-11-30"
 ---

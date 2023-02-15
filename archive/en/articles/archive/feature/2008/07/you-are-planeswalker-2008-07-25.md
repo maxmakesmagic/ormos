@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "In Magic: The Gathering, a Planeswalker is a powerful mage who is able to travel across the planes of existence. There are infinite worlds across the Multiverse, and Planeswalkers are unique in their ability to move from one world to the next, expanding their knowledge and power through the experiences they collect there."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "637376"
 [_metadata_:publish_date]:- "2008-07-25"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "You are a Planeswalker"
-[_metadata_:wayback_capture_timestamp]:- "2016-05-03 09:06:43+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-05-03 09:06:43"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160503090643id_/http://magic.wizards.com/en/articles/archive/feature/you-are-planeswalker-2008-07-25"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/you-are-planeswalker-2008-07-25"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Looking for something fun and unique to do with the Mayor of Avabruck / Howlpack Alpha promos from the Innistrad Prerelease? Look no further! Smaland built up a cool green-blue deck using Cackling Counterpart, Mayor of Avabruck, and several other new Innistrad cards and ran it to 3-1 in a Magic Online Daily Event."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "671716"
 [_metadata_:publish_date]:- "2011-11-04"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Counterpart Control"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-27 16:53:39+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-27 16:53:39"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027165339id_/https://magic.wizards.com/en/articles/archive/feature/counterpart-control-2011-11-04"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/counterpart-control-2011-11-04"
 ---

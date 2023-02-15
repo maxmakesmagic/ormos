@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Rei Nakazawa"
 [_metadata_:description]:- "Everyone loves being let in on a secret. By shining some light into formerly dark corners, you gain a new understanding of things you thought were familiar. Knowing the storyline of the Urza's block and Invasion block, for example, surely made the Antiquities storyline look a lot different. But secrets, being secrets, are very hard to come by. A seemingly insignificant event on its own can take on extraordinary meaning if put into the right context."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "634691"
 [_metadata_:publish_date]:- "2002-03-05"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Do You Want to Know a Secret?"
-[_metadata_:wayback_capture_timestamp]:- "2020-10-22 15:29:55+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-10-22 15:29:55"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201022152955id_/https://magic.wizards.com/en/articles/archive/feature/do-you-want-know-secret-2002-03-05"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/do-you-want-know-secret-2002-03-05"
 ---

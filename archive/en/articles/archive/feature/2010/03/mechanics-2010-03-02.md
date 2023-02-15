@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Rise of the Eldrazi Mechanics"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "706316"
 [_metadata_:publish_date]:- "2010-03-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Mechanics"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-16 21:16:37+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-16 21:16:37"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170316211637id_/http://magic.wizards.com/en/articles/archive/feature/mechanics-2010-03-02"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mechanics-2010-03-02"
 ---

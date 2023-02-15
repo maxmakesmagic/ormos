@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "WHERE America's Center 130 Complex 701 Convention Plaza St. Louis, MO 63101 (314) 342-5036 WHEN May 12-14, 2000 Side events begin Friday evening. COST $90 (per team) preregistration $100 (per team) on site"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "952196"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix St. Louis Fact Sheet"
-[_metadata_:wayback_capture_timestamp]:- "2017-05-07 12:34:59+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-05-07 12:34:59"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170507123459id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-fact-sheet-2000-01-01"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-fact-sheet-2000-01-01"
 ---

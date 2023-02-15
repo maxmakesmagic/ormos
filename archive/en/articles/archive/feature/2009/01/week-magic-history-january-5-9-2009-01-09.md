@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "On January 4, 2003, Zvi Mowshowitz wins Grand Prix New Orleans piloting his pet deck TurboLand. In short (though nothing about TurboLand is short) Zvi combined Exploration and Horn of Greed to generate massive amounts of mana and cards, capping things off with repeating Time Warp thanks to drawing his whole deck and then putting the Warps back in his deck courtesy of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "428901"
 [_metadata_:publish_date]:- "2009-01-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "This Week in Magic History: January 5-9"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-03 20:50:58+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-03 20:50:58"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220703205058id_/https://magic.wizards.com/en/articles/archive/feature/week-magic-history-january-5-9-2009-01-09"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/week-magic-history-january-5-9-2009-01-09"
 ---

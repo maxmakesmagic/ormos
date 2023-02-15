@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20170517185654/http://magic.wizards.com/en/articles/archive/feature/ashling-edh-2009-07-22)
+[Link to Wayback Machine](https://web.archive.org/web/20160129100438/http://magic.wizards.com/en/articles/archive/feature/ashling-edh-2009-07-22)
 
 [_metadata_:author]:- "Wizards of the Coast"
-[_metadata_:description]:- "[decklist] Title: Anyone's Ashling Format: Elder Dragon Highlander/Commander 99 Mountain"
+[_metadata_:description]:- "Anyone's Ashling"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "668566"
 [_metadata_:publish_date]:- "2009-07-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Ashling EDH"
-[_metadata_:wayback_capture_timestamp]:- "2017-05-17 18:56:54+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170517185654id_/http://magic.wizards.com/en/articles/archive/feature/ashling-edh-2009-07-22"
+[_metadata_:wayback_capture_timestamp]:- "2016-01-29 10:04:38"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160129100438id_/http://magic.wizards.com/en/articles/archive/feature/ashling-edh-2009-07-22"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/ashling-edh-2009-07-22"
 ---
 
@@ -48,8 +50,6 @@ By Wizards of the Coast
 
 
 ##### 
-
-
 
 
 
@@ -115,7 +115,6 @@ OverviewColorCostRarity
 
 
 ![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Mountain)
-
 
 
 

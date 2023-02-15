@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "On Kamigawa, denizens of the plane waged a brutal war against their own gods.  This plane, reminiscent of sengoku-era Japan, contains two symbiotic worlds. One is the kakuriyo, the material realm of mortals, and the other is the utsushiyo, the realm of the kami. For many hundreds of years, Kamigawa's denizens peacefully worshipped the spirits inherent in everything—spirits of sacred places, objects, and ideas."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "642446"
 [_metadata_:publish_date]:- "2008-07-17"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Planes of Existence: Kamigawa"
-[_metadata_:wayback_capture_timestamp]:- "2016-07-11 11:05:50+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-07-11 11:05:50"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160711110550id_/http://magic.wizards.com/en/articles/archive/feature/planes-existence-kamigawa-2008-07-17"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/planes-existence-kamigawa-2008-07-17"
 ---

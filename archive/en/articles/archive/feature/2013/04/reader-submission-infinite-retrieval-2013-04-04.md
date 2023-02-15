@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "Yiffy Savanah sent this deck in and I had to put it together on Magic Online and play it just to figure out how it would play out, despite the fact that Yiffy included a few paragraphs to explain it. I might as well show you those as a start:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "666341"
 [_metadata_:publish_date]:- "2013-04-04"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Reader Submission: Infinite Retrieval"
-[_metadata_:wayback_capture_timestamp]:- "2017-08-04 16:17:44+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-04 16:17:44"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170804161744id_/http://magic.wizards.com/en/articles/archive/feature/reader-submission-infinite-retrieval-2013-04-04"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/reader-submission-infinite-retrieval-2013-04-04"
 ---

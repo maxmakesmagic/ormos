@@ -5,9 +5,11 @@
 [_metadata_:author]:- "magicthegathering.com Staff"
 [_metadata_:description]:- "The Worldwake Product Section is here! And something new has been added! In addition to all the usual goodies (a puzzle, a wallpaper, product information, a setting preview, and the Orb of Insight), there's an introduction to the mechanics you'll find in Worldwake! Look for it in the `Explore Worldwake` section. And, of course, there's the Visual Spoiler, an archive of all"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "684096"
 [_metadata_:publish_date]:- "2010-01-13"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Worldwake Product Section"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-19 13:21:02+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-19 13:21:02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519132102id_/https://magic.wizards.com/en/articles/archive/feature/worldwake-product-section-2010-01-13"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/worldwake-product-section-2010-01-13"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "We held the Magic Online Championship at PAX East this year and the finals feature Butakov vs. Malteko in a quick finale to the event. In case you missed it, check out the finals below, and the two top decks. Or go check out the entire coverage archive for the event!  Magic Online Championship Finals: “Butakov” vs. “Malteko” ."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "648681"
 [_metadata_:publish_date]:- "2013-04-04"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "MOCS At PAX East"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-30 13:29:54+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-30 13:29:54"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220630132954id_/https://magic.wizards.com/en/articles/archive/feature/mocs-pax-east-2013-04-04"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mocs-pax-east-2013-04-04"
 ---

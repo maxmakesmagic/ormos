@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20211017230437/https://magic.wizards.com/en/articles/archive/feature/challenging-common-wisdom-2014-06-17)
+[Link to Wayback Machine](https://web.archive.org/web/20220817174135/https://magic.wizards.com/en/articles/archive/feature/challenging-common-wisdom-2014-06-17)
 
 [_metadata_:author]:- "Adam Prosak"
 [_metadata_:description]:- "AAzorius Charm, Supreme Verdict, Sphinx's Revelation, Detention Sphere. Those have been the pillars of white-blue-based control decks for the entirety of their existence in Standard. If you want to play White-Blue Control, with or without a splash, don't leave home without those cards. Apparently, Jim Davis didn't get the memo. Jim built a deck without format staple Detention"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "668086"
 [_metadata_:publish_date]:- "2014-06-17"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Challenging Common Wisdom"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-17 23:04:37+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211017230437id_/https://magic.wizards.com/en/articles/archive/feature/challenging-common-wisdom-2014-06-17"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-17 17:41:35"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220817174135id_/https://magic.wizards.com/en/articles/archive/feature/challenging-common-wisdom-2014-06-17"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/challenging-common-wisdom-2014-06-17"
 ---
 

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "Foils are something that catch your eye. Like Wonka's golden ticket you open a booster pack and sometimes you discover one of our premium foils inside the pack. But as you can see, if you look at a premium foil, the card is not uniformly reflective. We've shown these underlayers a few times before, but now let's look at some of them from Magic 2014 Core Set. I've picked out a few of my favorites. With each of the cards below, click on the card image to reveal the foil underlayer."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "649766"
 [_metadata_:publish_date]:- "2013-08-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Foil Underlayers for Magic 2014"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 02:04:16+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-12 02:04:16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112020416id_/https://magic.wizards.com/en/articles/archive/feature/foil-underlayers-magic-2014-2013-08-15"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/foil-underlayers-magic-2014-2013-08-15"
 ---

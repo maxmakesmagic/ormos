@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: SICKSICKSICKSICKSICKSICKSICK's 100 Card Control Format: 100 Card Singleton 1 Academy Ruins 1 Azorius Chancery 1 Barren Moor 1 Bloodstained Mire 1 Cephalid Coliseum 1 Dimir Aqueduct 1 Dreadship Reef 1 Flooded Strand 4 Island 1 Izzet Boilerworks 1 Lonely Sandbar 1 Mishra's Factory 1 Mutavault 1 Polluted Delta 1 Reflecting Pool 1 River of Tears 1 Simic Growth"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "665691"
 [_metadata_:publish_date]:- "2009-01-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "100 Card Singleton"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-06 14:20:32+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-06 14:20:32"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220706142032id_/https://magic.wizards.com/en/articles/archive/feature/100-card-singleton-2009-01-22"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/100-card-singleton-2009-01-22"
 ---

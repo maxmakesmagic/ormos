@@ -4,9 +4,11 @@
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "697431"
 [_metadata_:publish_date]:- "2012-08-20"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Simic Combine"
-[_metadata_:wayback_capture_timestamp]:- "2020-10-19 23:54:13+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-10-19 23:54:13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201019235413id_/https://magic.wizards.com/en/articles/archive/feature/simic-combine-2012-08-20"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/simic-combine-2012-08-20"
 ---

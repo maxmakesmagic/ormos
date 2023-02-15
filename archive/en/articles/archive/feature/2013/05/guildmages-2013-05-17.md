@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "Today's deck, played by mtgo4macplz, is definitely my kind of deck. In addition to the newly printed Voice of Resurgence and Ready & Willing, this deck uses both Korozda Guildmage and Vitu-Ghazi Guildmage, which have not seen much play since their printing in Return to Ravnica. Vitu-Ghazi Guildmage is greatly improved by Voice of Resurgence, which offers an amazing token at an"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "666511"
 [_metadata_:publish_date]:- "2013-05-17"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Guildmages"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-25 09:11:53+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-25 09:11:53"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525091153id_/https://magic.wizards.com/en/articles/archive/feature/guildmages-2013-05-17"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/guildmages-2013-05-17"
 ---

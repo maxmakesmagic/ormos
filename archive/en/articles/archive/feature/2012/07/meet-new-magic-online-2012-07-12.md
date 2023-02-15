@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Ryan Spain"
 [_metadata_:description]:- "Greetings!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "353491"
 [_metadata_:publish_date]:- "2012-07-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Meet the New Magic Online"
-[_metadata_:wayback_capture_timestamp]:- "2016-05-21 01:42:21+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-05-21 01:42:21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160521014221id_/http://magic.wizards.com/en/articles/archive/feature/meet-new-magic-online-2012-07-12"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/meet-new-magic-online-2012-07-12"
 ---

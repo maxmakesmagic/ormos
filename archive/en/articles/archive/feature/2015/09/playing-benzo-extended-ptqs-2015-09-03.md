@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Tom Guevin"
 [_metadata_:description]:- "Benzo is a monoblack deck, designed by Team Your Move Games, powered by spells that utilize the graveyard. The Benzo deck seeks to Reanimate, Infest, and/or Contaminate to achieve victory. The success of Benzo at Pro Tour-New Orleans was due in large part to these multiple avenues to victory. Benzo had better success than decks with only a single focus (CMU's Infestation and"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "595691"
 [_metadata_:publish_date]:- "2015-09-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Playing Benzo in the Extended PTQ's"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-17 02:34:08+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-17 02:34:08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220117023408id_/https://magic.wizards.com/en/articles/archive/feature/playing-benzo-extended-ptqs-2015-09-03"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/playing-benzo-extended-ptqs-2015-09-03"
 ---

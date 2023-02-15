@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Dave Humpherys"
 [_metadata_:description]:- "When Aaron Forsythe asked me last year to figure out who should work on the next Premium Deck Series featuring a Reanimator-style of deck, I was quite happy. I knew just who I wanted to have work on it: me!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "347081"
 [_metadata_:publish_date]:- "2011-11-14"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Premium Deck Series: Graveborn"
-[_metadata_:wayback_capture_timestamp]:- "2016-05-31 16:21:26+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-05-31 16:21:26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160531162126id_/http://magic.wizards.com/en/articles/archive/feature/premium-deck-series-graveborn-2011-11-14"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/premium-deck-series-graveborn-2011-11-14"
 ---

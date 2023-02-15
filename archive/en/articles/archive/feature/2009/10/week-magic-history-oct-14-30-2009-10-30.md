@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "October 28-30, 2006: A Starring Role for Antoine Ruel Packing an old-school Psychatog deck, Pro Tour veteran Antoine Ruel fought his way through the 340-player field to become champion of Pro Tour-Los Angeles 2005. Ruel eschewed the just-rotated new Extended format's popular Dredge/Life from the Loam addition to the classic 'Tog build and it proved to be a smart decision. He"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "600121"
 [_metadata_:publish_date]:- "2009-10-30"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "This Week in Magic History: Oct 14-30"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-17 17:42:24+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-17 17:42:24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220117174224id_/https://magic.wizards.com/en/articles/archive/feature/week-magic-history-oct-14-30-2009-10-30"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/week-magic-history-oct-14-30-2009-10-30"
 ---

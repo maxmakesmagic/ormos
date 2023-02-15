@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "2004 Irish Nationals Fact Sheet 2004 Irish National Qualiers First NameLast NameQualified FromAlanMeaney2003 National ChampionOliverBirdTop 4 2003 NationalsGarethCosgraveTop 4 2003 NationalsDarraghLongTop 4 2003 NationalsJohnLarkinPro Tour StandingJimNearyCork National QualifierSeanShortisCork National QualifierWayneKwanCork National QualifierCormacSmythCork National"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "733061"
 [_metadata_:publish_date]:- "2004-03-31"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2004 Irish Nationals Qualified Players"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-16 02:27:18+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-16 02:27:18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016022718id_/https://magic.wizards.com/en/articles/archive/feature/2004-irish-nationals-qualified-players-2004-03-31"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2004-irish-nationals-qualified-players-2004-03-31"
 ---

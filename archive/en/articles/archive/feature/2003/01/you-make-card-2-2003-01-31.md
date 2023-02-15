@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "We’re back! We had such a positive response to the first “You Make the Card,” we’ve decided to do it all over again. For those unfamiliar with this feature, let me quickly explain. We are going to let all of you, the MagicTheGathering.com readers, design a Magic card. Each step we will give you decisions and let you vote. The outcome of the vote will determine what step we"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "630131"
 [_metadata_:publish_date]:- "2003-01-31"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "You Make The Card 2"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-03 04:40:16+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-03 04:40:16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503044016id_/https://magic.wizards.com/en/articles/archive/feature/you-make-card-2-2003-01-31"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/you-make-card-2-2003-01-31"
 ---

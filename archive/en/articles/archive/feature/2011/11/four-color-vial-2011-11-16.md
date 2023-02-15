@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Magic World Championships are this weekend, and among the three formats that players are going to need to traverse is the fresh Modern format! 2006 Player of the Year and current Player of the Year candidate Shouta Yasooka rattled off seven wins with this cool deck back at Pro Tour Philadelphia, catapulting him to a 29th-place finish. With his deck untouched by the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "671761"
 [_metadata_:publish_date]:- "2011-11-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Four-Color Vial"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-16 10:02:24+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-16 10:02:24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016100224id_/https://magic.wizards.com/en/articles/archive/feature/four-color-vial-2011-11-16"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/four-color-vial-2011-11-16"
 ---

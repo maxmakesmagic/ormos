@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20220115123844/https://magic.wizards.com/en/articles/archive/feature/azusas-many-journeys-2022-01-14?utm_source=dlvr.it&utm_medium=twitter)
+[Link to Wayback Machine](https://web.archive.org/web/20220122153709/https://magic.wizards.com/en/articles/archive/feature/azusas-many-journeys-2022-01-14)
 
 [_metadata_:author]:- "Emily Teng"
 [_metadata_:description]:- "This depiction of Azusa commemorates her momentous discovery as the only human to have glimpsed the spirit realm."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1570574"
 [_metadata_:publish_date]:- "2022-01-14"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Azusa's Many Journeys"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-15 12:38:44+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220115123844id_/https://magic.wizards.com/en/articles/archive/feature/azusas-many-journeys-2022-01-14?utm_source=dlvr.it&utm_medium=twitter"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/azusas-many-journeys-2022-01-14?utm_source=dlvr.it&utm_medium=twitter"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-22 15:37:09"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220122153709id_/https://magic.wizards.com/en/articles/archive/feature/azusas-many-journeys-2022-01-14"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/azusas-many-journeys-2022-01-14"
 ---
 
 

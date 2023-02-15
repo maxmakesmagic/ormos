@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Thanks to tournament organizer Pete Hoefling for the decklists."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "726671"
 [_metadata_:publish_date]:- "2008-10-27"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour–Kyoto Qualifying Season: Top 8 Decklists"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-24 09:44:26+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-24 09:44:26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524094426id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93kyoto-qualifying-season-top-8-decklists-2008-10-27-3"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93kyoto-qualifying-season-top-8-decklists-2008-10-27-3"
 ---

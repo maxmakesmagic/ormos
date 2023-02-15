@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "It's time once again to learn something about a planeswalker. It's time for a web comic. It's time......for Honor Bound. Part 1."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "683586"
 [_metadata_:publish_date]:- "2009-04-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Honor Bound, Part 1"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 21:34:51+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 21:34:51"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523213451id_/https://magic.wizards.com/en/articles/archive/feature/honor-bound-part-1-2009-04-23-0"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/honor-bound-part-1-2009-04-23-0"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The war is over and Nicol Bolas has been defeated, but the story goes on in War of the Spark: Forsaken!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1491331"
 [_metadata_:publish_date]:- "2019-10-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "War of the Spark: Forsaken"
-[_metadata_:wayback_capture_timestamp]:- "2019-11-20 10:13:17+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2019-11-20 10:13:17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20191120101317id_/https://magic.wizards.com/en/articles/archive/feature/war-spark-forsaken-2019-10-09"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/war-spark-forsaken-2019-10-09"
 ---

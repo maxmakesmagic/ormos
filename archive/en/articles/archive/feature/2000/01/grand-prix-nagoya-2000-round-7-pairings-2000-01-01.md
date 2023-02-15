@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Match Points Team Points Team  Team HIKESHI *** BYE *** 1 18 Godzilla 16 WACHI-DE? 2 16 T.F.Z. 16 Team Iwamoto 3 16 Poor Shark 15 Team T.T.Y."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "952426"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix-Nagoya 2000 Round 7 Pairings"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-28 16:10:56+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-28 16:10:56"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220528161056id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-round-7-pairings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-round-7-pairings-2000-01-01"
 ---

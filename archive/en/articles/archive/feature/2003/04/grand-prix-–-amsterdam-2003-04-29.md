@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Magic: The Gathering® Grand Prix tournament series is an international circuit of large-scale Qualifier tournaments featuring cash prizes and multiple invitations to Pro Tour™ events.PRE-REGISTRATIONS  This event has concluded. Thanks for your participation. Netherlands: e-mail: magic@ps-games.nl France: 01 43 96 35 65e-mail: custserv-fr@wizards.com UK: 0345 125599e-mail: uk@wizards.com"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "734026"
 [_metadata_:publish_date]:- "2003-04-29"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix – Amsterdam"
-[_metadata_:wayback_capture_timestamp]:- "2020-12-02 03:53:44+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-12-02 03:53:44"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201202035344id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-%E2%80%93-amsterdam-2003-04-29"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-%E2%80%93-amsterdam-2003-04-29"
 ---

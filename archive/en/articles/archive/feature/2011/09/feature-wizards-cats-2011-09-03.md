@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Craig Gibson and Rashad Miller"
 [_metadata_:description]:- "Feature: Wizards of the Cats by Craig Gibson and Rashad Miller Magic Weekends often coincide with other major events. This time we're sharing the Philadelphia Convention Center with the International Cat Association 2011 Annual Allbreed and Household Pet Cat Show. Marcella Kallman, Wizards of the Coast PR re-purr-resentative, and I decided to take a look to see if any of the competitors reminded us of the cats of Magic."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "314462"
 [_metadata_:publish_date]:- "2011-09-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Feature: Wizards of the Cats"
-[_metadata_:wayback_capture_timestamp]:- "2015-10-21 14:01:10+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2015-10-21 14:01:10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151021140110id_/http://magic.wizards.com/en/articles/archive/feature/feature-wizards-cats-2011-09-03"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/feature-wizards-cats-2011-09-03"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Dennis Johannsen's Titan Ramp Format: 2010 Germany National Championships 4 Evolving Wilds 4 Forest 11 Mountain 4 Terramorphic Expanse 4 Valakut, the Molten Pinnacle 1 Verdant Catacombs 4 Avenger of Zendikar 4 Primeval Titan 1 Rampaging Baloths 4 Cultivate 4 Explore 4 Harrow 4 Khalni Heart Expedition 4 Rampant Growth 3 Summoning Trap *3 Gaea's Revenge *4 Obstinate Baloth *4 Pyroclasm *1 Swamp *3 Thought Hemorrhage"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "670096"
 [_metadata_:publish_date]:- "2010-08-31"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Titan Ramp"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-20 16:53:40+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-20 16:53:40"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170720165340id_/http://magic.wizards.com/en/articles/archive/feature/titan-ramp-2010-08-31"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/titan-ramp-2010-08-31"
 ---

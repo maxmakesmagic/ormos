@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Magic 2010 Wallpaper 1 1280x960 Widescreen: 2560x1600 iPhone (320x480)"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "698831"
 [_metadata_:publish_date]:- "2009-06-30"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic 2010 Wallpaper 2"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-30 07:06:39+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-30 07:06:39"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211130070639id_/https://magic.wizards.com/en/articles/archive/feature/magic-2010-wallpaper-2-2009-06-30"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-2010-wallpaper-2-2009-06-30"
 ---

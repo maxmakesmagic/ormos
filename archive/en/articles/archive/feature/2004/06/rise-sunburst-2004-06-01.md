@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Brian David-Marshall"
 [_metadata_:description]:- "With the Fifth Dawn Prerelease behind us there has been a lot of chatter online about the impact of Fifth Dawn on the various Constructed scenes. Topics ranging from the brokenness of Krark-Clan Ironworks to the impact of Eternal Witness on Astral Slide decks will be invite you deeper into the various magic websites and forums. But Constructed is still weeks away and Limited"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "638371"
 [_metadata_:publish_date]:- "2004-06-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Rise of Sunburst"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-09 17:38:10+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-09 17:38:10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220809173810id_/https://magic.wizards.com/en/articles/archive/feature/rise-sunburst-2004-06-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/rise-sunburst-2004-06-01"
 ---

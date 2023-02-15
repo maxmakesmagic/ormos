@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Pascal Maynard's Steel Artifact Format: Extended - 2010 World Championships 4 Darkslick Shores 1 Fetid Heath 4 Marsh Flats 3 Plains 4 Seachrome Coast 1 Swamp 4 Court Homunculus 4 Master of Etherium 4 Memnite 3 Ornithopter 4 Ranger of Eos 4 Steel Overseer 4 Tidehollow Sculler 3 Mox Opal 3 Springleaf Drum 4 Tempered Steel 2 Thopter Foundry 4 Thoughtseize *2"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "670496"
 [_metadata_:publish_date]:- "2010-12-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Steel Artifact"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-26 00:40:04+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-26 00:40:04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026004004id_/https://magic.wizards.com/en/articles/archive/feature/steel-artifact-2010-12-15"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/steel-artifact-2010-12-15"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The five shards of Alara were separate worlds for centuries, each one with only three colors of mana. They evolved independently: Bant, an orderly, sunlit kingdom; Esper, a hegemony of wizards and sphinxes; Grixis, an undead-infested hellscape; Jund, a primordial hunting-ground ruled by dragons; Naya, a lush jungle paradise. But now they have merged into one plane, and the new"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "641221"
 [_metadata_:publish_date]:- "2009-03-25"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Alara in Chaos"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 06:34:05+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 06:34:05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429063405id_/https://magic.wizards.com/en/articles/archive/feature/alara-chaos-2009-03-25"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/alara-chaos-2009-03-25"
 ---

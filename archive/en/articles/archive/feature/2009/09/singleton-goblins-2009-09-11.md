@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: sMann2.0's Goblins Format: 100 Card Singleton 1 Bloodstained Mire 1 Boros Garrison 1 Fire-Lit Thicket 1 Ghitu Encampment 1 Gruul Turf 1 Izzet Boilerworks 31 Mountain 1 Rakdos Carnarium 1 Rootbound Crag 1 Stomping Ground 1 Wooded Foothills 1 Arc-Slogger 1 Ball Lightning 1 Boartusk Liege 1 Boggart Ram-Gang 1 Clickslither 1 Demigod of Revenge 1 Dwarven"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "668766"
 [_metadata_:publish_date]:- "2009-09-11"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Singleton Goblins"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-08 22:01:12+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-08 22:01:12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220808220112id_/https://magic.wizards.com/en/articles/archive/feature/singleton-goblins-2009-09-11"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/singleton-goblins-2009-09-11"
 ---

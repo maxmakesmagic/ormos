@@ -4,9 +4,11 @@
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "598896"
 [_metadata_:publish_date]:- "2010-07-29"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Thursday Night Magic Online"
-[_metadata_:wayback_capture_timestamp]:- "2018-10-14 18:27:21+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2018-10-14 18:27:21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20181014182721id_/https://magic.wizards.com/en/articles/archive/feature/thursday-night-magic-online-2010-07-29"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/thursday-night-magic-online-2010-07-29"
 ---

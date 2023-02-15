@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Born of the Gods Banned & Restricted update will be announced on February 3, 2014, which is the Monday after the Born of the Gods Prerelease. The changes, if there are any, will go into effect with the release of Born of the Gods on February 7, 2014. This is the scheduling which we announced on September 20, 2012 when we tied the updates to set releases. Due to internal"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "658681"
 [_metadata_:publish_date]:- "2014-01-27"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Banned & Restricted Updates To Be Announced Feb. 3, 2014"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-21 03:37:15+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-21 03:37:15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220121033715id_/https://magic.wizards.com/en/articles/archive/feature/banned-restricted-updates-be-announced-feb-3-2014-2014-01-27"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/banned-restricted-updates-be-announced-feb-3-2014-2014-01-27"
 ---

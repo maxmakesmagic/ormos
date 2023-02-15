@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Blake Rasmussen"
 [_metadata_:description]:- "The Wizards of the Coast Fan Art Policy is aimed at letting our fans enjoy and celebrate Magic with their myriad talents."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1256901"
 [_metadata_:publish_date]:- "2018-02-20"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Community Spotlight: Wizards of the Coast Fan Art Policy"
-[_metadata_:wayback_capture_timestamp]:- "2018-02-20 16:59:02+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2018-02-20 16:59:02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180220165902id_/https://magic.wizards.com/en/articles/archive/feature/community-spotlight-wizards-coast-fan-art-policy-2018-02-20"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/community-spotlight-wizards-coast-fan-art-policy-2018-02-20"
 ---

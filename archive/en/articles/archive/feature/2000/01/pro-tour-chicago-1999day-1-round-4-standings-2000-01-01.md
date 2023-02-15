@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Maij, Rosario 12 68.7500 80.0000 60.0758 4/4/0/0 2 Benedict, Brian 12 62.5000 88.8889 57.7778 4/4/0/0 3 Fuentes, Hector 12 62.5000 88.8889 55.0000 4/4/0/0 4 Gary, Justin 12 62.5000 80.0000 55.9091 4/4/0/0 5 Baberowski, Dirk 12 62.5000 66.6667 62.2980 4/4/0/0 6 Shaw, Thomas 12 58.3333 100.0000 52.5000"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "950951"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-Chicago 1999Day 1 Round 4 Standings"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 15:29:28+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 15:29:28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523152928id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-1-round-4-standings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-1-round-4-standings-2000-01-01"
 ---

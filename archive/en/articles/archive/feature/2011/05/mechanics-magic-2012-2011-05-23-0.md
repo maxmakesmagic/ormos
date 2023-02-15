@@ -5,9 +5,11 @@
 [_metadata_:author]:- "magicthegathering.com Staff"
 [_metadata_:description]:- "June is going to be a busy month for Magic!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "680686"
 [_metadata_:publish_date]:- "2011-05-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Mechanics of Magic 2012"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-27 01:39:14+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-27 01:39:14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170727013914id_/http://magic.wizards.com/en/articles/archive/feature/mechanics-magic-2012-2011-05-23-0"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mechanics-magic-2012-2011-05-23-0"
 ---

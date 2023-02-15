@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "rev·e·nant From Merriam-Webster Online: Function: noun Etymology: French, from present participle of revenir to return Date: 1827 : one that returns after death or a long absence - revenant adjective lea From Merriam-Webster Online: Variant(s): or ley Function: noun Etymology: Middle English leye, from Old English lEah; akin to Old High German lOh thicket, Latin lucus grove,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "636971"
 [_metadata_:publish_date]:- "2002-06-04"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "rev·e·nant, lea, Ee·sha"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-16 17:23:57+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-16 17:23:57"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016172357id_/https://magic.wizards.com/en/articles/archive/feature/rev%C2%B7e%C2%B7nant-lea-ee%C2%B7sha-2002-06-04"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/rev%C2%B7e%C2%B7nant-lea-ee%C2%B7sha-2002-06-04"
 ---

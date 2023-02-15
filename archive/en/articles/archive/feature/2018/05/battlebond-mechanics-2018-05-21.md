@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210707082411/https://magic.wizards.com/en/articles/archive/feature/battlebond-mechanics-2018-05-21)
+[Link to Wayback Machine](https://web.archive.org/web/20210806024029/https://magic.wizards.com/en/articles/archive/feature/battlebond-mechanics-2018-05-21)
 
 [_metadata_:author]:- "Matt Tabak"
 [_metadata_:description]:- "Team up with a partner and take on all comers with style in the arena of Valor's Reach!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1287221"
 [_metadata_:publish_date]:- "2018-05-21"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Battlebond Mechanics"
-[_metadata_:wayback_capture_timestamp]:- "2021-07-07 08:24:11+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210707082411id_/https://magic.wizards.com/en/articles/archive/feature/battlebond-mechanics-2018-05-21"
+[_metadata_:wayback_capture_timestamp]:- "2021-08-06 02:40:29"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210806024029id_/https://magic.wizards.com/en/articles/archive/feature/battlebond-mechanics-2018-05-21"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/battlebond-mechanics-2018-05-21"
 ---
 

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Thanks to tournament organizer Tom Shea for the decklists.[decklist] Title: Brian Robinson Format: 1st Place - Connecticut - East Hartford - 12/13 5 Forest 7 Mountain 5 Swamp 1 Goblin Deathraiders 1 Archdemon of Unx 2 Viscera Dragger 1 Sprouting Thrinax 1 Rip-Clan Crasher 2 Thorn-Thrash Viashino 1 Jund Battlemage 1 Hissing Iguanar 1 Bloodpyre Elemental 2 Cavern Thoctar 1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "726816"
 [_metadata_:publish_date]:- "2008-12-17"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour–Kyoto Qualifying Season: Top 8 Decklists"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 12:01:29+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 12:01:29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523120129id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93kyoto-qualifying-season-top-8-decklists-2008-12-17-3"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93kyoto-qualifying-season-top-8-decklists-2008-12-17-3"
 ---

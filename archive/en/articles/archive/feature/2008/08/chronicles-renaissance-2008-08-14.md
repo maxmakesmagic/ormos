@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Cardlists Spoiler List Checklist  Chronicles Released in July 1995, this 125-card set was created in an effort to satisfy players' demand for out-of-print cards. Over half of the cards were from Legends, but the set also included cards from Arabian Nights, Antiquities, and The Dark. Renaissance When Fourth Edition was released, a good number of cards were rotated in and out of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "647311"
 [_metadata_:publish_date]:- "2008-08-14"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Chronicles / Renaissance"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-20 17:23:40+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-20 17:23:40"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120172340id_/https://magic.wizards.com/en/articles/archive/feature/chronicles-renaissance-2008-08-14"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/chronicles-renaissance-2008-08-14"
 ---

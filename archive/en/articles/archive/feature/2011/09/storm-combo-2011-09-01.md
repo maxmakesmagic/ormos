@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Gamemaster32's Storm Combo Format: Modern – 4-0 in a Daily Event on Magic Online 2 Island 4 Misty Rainforest 4 Scalding Tarn 3 Shivan Reef 3 Steam Vents 4 Desperate Ritual 4 Gitaxian Probe 4 Grapeshot 4 Manamorphose 4 Ponder 4 Preordain 4 Pyretic Ritual 4 Pyromancer's Swath 4 Rite of Flame 4 Seething Song 4 Serum Visions *4 Deceiver Exarch *3 Empty the Warrens *4 Kiln Fiend *4 Splinter Twin"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "671461"
 [_metadata_:publish_date]:- "2011-09-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Storm Combo"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-17 16:35:41+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-04-17 16:35:41"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170417163541id_/http://magic.wizards.com/en/articles/archive/feature/storm-combo-2011-09-01"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/storm-combo-2011-09-01"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Round 9 Standings  Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Sanders Jensen, Niels 27 73,0159 100,0000 68,6419 6/6/0/3 2 Jorstedt, Mattias 25 66,5911 85,0000 67,4244 7/6/1/2 3 Yeh, Gottlieb 24 70,1940 78,9474 67,9511 6/5/0/3 4 Refsdal, Gunnar 24 66,7549 73,9130 62,6343 6/5/0/3 5 Van de Logt, Tom 23 72,3734 76,6667 65,2972 7/5/2/2 6 Bastos,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "951936"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Copenhagen 2000"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-22 21:30:02+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-22 21:30:02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522213002id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-2"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-2"
 ---

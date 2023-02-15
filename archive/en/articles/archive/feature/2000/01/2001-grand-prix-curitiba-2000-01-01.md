@@ -1,13 +1,15 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20190605022238/https://magic.wizards.com/en/articles/archive/feature/2001-grand-prix-curitiba-2000-01-01)
+[Link to Wayback Machine](https://web.archive.org/web/20200812033317/https://magic.wizards.com/en/articles/archive/feature/2001-grand-prix-curitiba-2000-01-01)
 
 [_metadata_:description]:- "Sunday's Pictures [ view] Antoine Ruel is the only one not hiding behind his trophy."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "959846"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2001 Grand Prix Curitiba"
-[_metadata_:wayback_capture_timestamp]:- "2019-06-05 02:22:38+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190605022238id_/https://magic.wizards.com/en/articles/archive/feature/2001-grand-prix-curitiba-2000-01-01"
+[_metadata_:wayback_capture_timestamp]:- "2020-08-12 03:33:17"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200812033317id_/https://magic.wizards.com/en/articles/archive/feature/2001-grand-prix-curitiba-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2001-grand-prix-curitiba-2000-01-01"
 ---
 

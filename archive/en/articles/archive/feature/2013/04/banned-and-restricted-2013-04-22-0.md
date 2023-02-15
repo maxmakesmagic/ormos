@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20190410095546/https://magic.wizards.com/en/articles/archive/feature/banned-and-restricted-2013-04-22-0)
+[Link to Wayback Machine](https://web.archive.org/web/20201112023830/https://magic.wizards.com/en/articles/archive/feature/banned-and-restricted-2013-04-22-0)
 
 [_metadata_:author]:- "Erik Lauer"
 [_metadata_:description]:- "May 3, 2013, DCI Banned & Restricted List Announcement   Announcement Date: April 22, 2013Effective Date: May 3, 2013Magic Online Effective Date: May 13, 2013   ModernSecond Sunrise is banned.   VintageRegrowth is unrestricted.   Standard, Extended, Legacy No changes"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "682476"
 [_metadata_:publish_date]:- "2013-04-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Banned and Restricted"
-[_metadata_:wayback_capture_timestamp]:- "2019-04-10 09:55:46+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190410095546id_/https://magic.wizards.com/en/articles/archive/feature/banned-and-restricted-2013-04-22-0"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-12 02:38:30"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112023830id_/https://magic.wizards.com/en/articles/archive/feature/banned-and-restricted-2013-04-22-0"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/banned-and-restricted-2013-04-22-0"
 ---
 

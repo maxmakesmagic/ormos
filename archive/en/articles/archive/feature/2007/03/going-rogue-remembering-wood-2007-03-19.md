@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Jay Moldenhauer-Salazar"
 [_metadata_:description]:- "Blame Chris Millar for this one.Wait, wait, that's getting ahead of myself.Hello and welcome to the second installment of `Going Rogue,` my attempt to demonstrate what happens when a home-cooked deck strives towards competitive play. The first time around I tried to build a deck around Curse of the Cabal and ended up making a monoblack Haakon-Smallpox deck called `Black"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "633341"
 [_metadata_:publish_date]:- "2007-03-19"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Going Rogue: Remembering Wood"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-03 07:03:20+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-03 07:03:20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503070320id_/https://magic.wizards.com/en/articles/archive/feature/going-rogue-remembering-wood-2007-03-19"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/going-rogue-remembering-wood-2007-03-19"
 ---

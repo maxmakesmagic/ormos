@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20220119172510/https://magic.wizards.com/en/articles/archive/feature/era-enlightenment-2022-01-19)
+[Link to Wayback Machine](https://web.archive.org/web/20220120133352/https://magic.wizards.com/en/articles/archive/feature/era-enlightenment-2022-01-19?utm_source=dlvr.it&utm_medium=twitter)
 
 [_metadata_:author]:- "Grace Fong"
 [_metadata_:description]:- "Experience the Era of Enlightenment as it is depicted in a wall tapestry woven by the artisans of Kamigawa."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1570622"
 [_metadata_:publish_date]:- "2022-01-19"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Era of Enlightenment"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-19 17:25:10+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220119172510id_/https://magic.wizards.com/en/articles/archive/feature/era-enlightenment-2022-01-19"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/era-enlightenment-2022-01-19"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-20 13:33:52"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120133352id_/https://magic.wizards.com/en/articles/archive/feature/era-enlightenment-2022-01-19?utm_source=dlvr.it&utm_medium=twitter"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/era-enlightenment-2022-01-19?utm_source=dlvr.it&utm_medium=twitter"
 ---
 
 

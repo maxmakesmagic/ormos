@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: superchibi's Living End Format: Modern – 4-0 in a Daily Event on Magic Online 4 Blackcleave Cliffs 1 Blood Crypt 4 Copperline Gorge 3 Forbidden Orchard 2 Forest 1 Mountain 2 Swamp 3 Verdant Catacombs 4 Architects of Will 4 Deadshot Minotaur 4 Fulminator Mage 2 Ingot Chewer 2 Jungle Weaver 4 Monstrous Carabid 1 Shriekmaw 4 Street Wraith 2 Valley Rannet 2 Beast"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "671441"
 [_metadata_:publish_date]:- "2011-08-26"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Living End"
-[_metadata_:wayback_capture_timestamp]:- "2021-07-08 04:11:04+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-07-08 04:11:04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210708041104id_/https://magic.wizards.com/en/articles/archive/feature/living-end-2011-08-26"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/living-end-2011-08-26"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Junior Super Series Championship Round 3 Standings - 15-17 Division  Op-Match Rank Name Points Win% 1 McArthur, Stephen 9 66.67 2 Sluzinski, Jeff 9 66.67 3 Laurent, Sebastien 9 55.56 4 Moses, Doug 9 55.56 5 Del Rosario, Derek 9 55.56 6 Morgan, William 9 44.44 7 White Jeff 9 44.44 8 Cooper, Geddes 7 37.04 9 Quelle, Blake 6 77.78 10 Keller, Scott 6 66.67 11 Keady, Sean 6 66.67"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "953431"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Sideboard Online Event Coverage"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-18 16:52:30+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-18 16:52:30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518165230id_/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-3"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-3"
 ---

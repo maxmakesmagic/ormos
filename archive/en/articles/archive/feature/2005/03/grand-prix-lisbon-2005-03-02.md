@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Magic: The Gathering Grand Prix tournament series is an international circuit of large-scale Qualifier tournaments featuring cash prizes and multiple invitations to Pro Tour events.Win a trip to Grand Prix Bologna ...and many other Magic prizes! At Grand Prix Lisbon fill out the voucher* that you'll find at the DCI booth and deposit it in the designated box before Saturday, April 23 – 5 pm. A draw will be held on Saturday, April 24 at 6pm."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "735151"
 [_metadata_:publish_date]:- "2005-03-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix - Lisbon"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-29 21:12:33+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-29 21:12:33"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171029211233id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-lisbon-2005-03-02"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-lisbon-2005-03-02"
 ---

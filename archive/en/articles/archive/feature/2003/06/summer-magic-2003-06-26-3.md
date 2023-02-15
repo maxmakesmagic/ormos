@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "NameLocationCityPhone1001 Spiele OdysseeMansfelder Straße 3Halle3459772293AbenteuerlandMartinistraße 32Recklinghausen02361108673AnSpielBarKarl-Eilers-Straße 5Bielefeld5215212541AnSpielBarKarl-Eilers-Straße 5Bielefeld5215212541ArtefaktBahnhofstraße 33Bünde5223992400ArtefaktBahnhofstraße 33Bünde5223992400AuenlandGutenbergstrasse 38Dortmund0231529855AuenlandGutenbergstrasse"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "708981"
 [_metadata_:publish_date]:- "2003-06-26"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Summer of Magic"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-27 19:44:41+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-27 19:44:41"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527194441id_/https://magic.wizards.com/en/articles/archive/feature/summer-magic-2003-06-26-3"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/summer-magic-2003-06-26-3"
 ---

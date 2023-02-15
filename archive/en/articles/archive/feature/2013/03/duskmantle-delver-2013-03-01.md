@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "I found this deck looking through Magic Online Daily results, and it struck me because no one earned six or more wins in Standard at Pro Tour Gatecrash with Duskmantle Seer, a card this deck uses a full play set of. This is an aggressive Grixis deck that partners last year's dominant Delver of Secrets with its old friends Augur of Bolas and Snapcaster Mage alongside the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "666196"
 [_metadata_:publish_date]:- "2013-03-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Duskmantle Delver"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-22 22:43:41+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-22 22:43:41"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022224341id_/https://magic.wizards.com/en/articles/archive/feature/duskmantle-delver-2013-03-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/duskmantle-delver-2013-03-01"
 ---

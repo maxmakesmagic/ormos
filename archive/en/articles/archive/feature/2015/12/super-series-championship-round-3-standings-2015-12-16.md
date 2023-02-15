@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-MatchPL-DuelOp-DuelMatchesRankNamePointsWin%Win%Win%P/W/D/B 1Philbin, Brent 966.666785.714354.23283/3/0/0 2Whitman, Joe 966.666775.000066.66673/3/0/0 3Maxwell, James 966.666775.000066.66673/3/0/0 4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "948996"
 [_metadata_:publish_date]:- "2015-12-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Super Series Championship Round 3 Standings"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-30 22:23:27+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-30 22:23:27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030222327id_/https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-3-standings-2015-12-16"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/super-series-championship-round-3-standings-2015-12-16"
 ---

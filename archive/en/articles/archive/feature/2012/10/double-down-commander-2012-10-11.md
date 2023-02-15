@@ -4,9 +4,11 @@
 
 [_metadata_:author]:- "Conley Woods"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "665631"
 [_metadata_:publish_date]:- "2012-10-11"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Double Down Commander"
-[_metadata_:wayback_capture_timestamp]:- "2016-07-16 13:23:10+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-07-16 13:23:10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160716132310id_/http://magic.wizards.com/en/articles/archive/feature/double-down-commander-2012-10-11"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/double-down-commander-2012-10-11"
 ---

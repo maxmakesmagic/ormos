@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:description]:- "While Birthing Pod may be the most well-known archetype in Modern, today's deck is about as far from `normal` Birthing Pod decks as possible. You only have to look at a brief sampling of the deck's creatures to see that, as the lineup includes Tuktuk the Explorer, Phyrexian Obliterator, Massacre Wurm, Wall of Omens, Glen Elendra Archmage, and Huntmaster of the Fells. Yes,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "667066"
 [_metadata_:publish_date]:- "2013-10-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Five-Color Obliterator Pod"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-16 03:14:24+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-16 03:14:24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816031424id_/https://magic.wizards.com/en/articles/archive/feature/five-color-obliterator-pod-2013-10-03"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/five-color-obliterator-pod-2013-10-03"
 ---

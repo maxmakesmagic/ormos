@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Battle Rages On!The Magic: The Gathering game expands every year, introducing new worlds filled with deadly perils, ancient adversaries, and fantastic new adventures. At its center is the Magic core set, the game in its purest form: evocative spells, menacing creatures, and infinite possibilities. But even at its core, the experience is ever-changing. The Magic 2012 core"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "687856"
 [_metadata_:publish_date]:- "2011-07-19"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic Online Magic 2012 Release Events"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-19 18:23:20+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-19 18:23:20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211019182320id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-magic-2012-release-events-2011-07-19"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-magic-2012-release-events-2011-07-19"
 ---

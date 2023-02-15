@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Noah Swartz's San Juan Green Format: Zendikar Block Constructed - Pro Tour–San Juan 1 Dread Statuary 13 Forest 4 Khalni Garden 4 Misty Rainforest 2 Verdant Catacombs 4 Arbor Elf 4 Joraga Treespeaker 4 Kozilek's Predator 4 Lotus Cobra 4 Nest Invader 1 River Boa 4 Vengevine 4 Wolfbriar Elemental 3 Beastmaster Ascension 4 Eldrazi Monument *1 Beastmaster"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "669751"
 [_metadata_:publish_date]:- "2010-06-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "San Juan Green"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-16 11:33:28+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-16 11:33:28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220116113328id_/https://magic.wizards.com/en/articles/archive/feature/san-juan-green-2010-06-02"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/san-juan-green-2010-06-02"
 ---

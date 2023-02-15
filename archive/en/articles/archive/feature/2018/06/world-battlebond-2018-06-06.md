@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Alison Luhrs"
 [_metadata_:description]:- "Alison shares more details about the plane of Kylem and the world of Battlebond!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1293221"
 [_metadata_:publish_date]:- "2018-06-06"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The World of Battlebond"
-[_metadata_:wayback_capture_timestamp]:- "2018-06-06 16:24:50+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2018-06-06 16:24:50"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180606162450id_/https://magic.wizards.com/en/articles/archive/feature/world-battlebond-2018-06-06"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/world-battlebond-2018-06-06"
 ---

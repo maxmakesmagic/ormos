@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The following Sweepstakes is intended for play in the U.S. only and shall only be construed and evaluated according to U.S. laws. Do not enter this Sweepstakes if you are not located in the U.S. at the time of entry. 1. NO PURCHASE NECESSARY. OPEN TO ANY LEGAL RESIDENT OF THE 50 UNITED STATES AND DISTRICT OF COLUMBIA AND 14 YEARS OF AGE OR OLDER AS OF DATE OF ENTRY. VOID WHERE"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "732076"
 [_metadata_:publish_date]:- "2007-11-29"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "OFFICIAL RULES"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-21 22:26:02+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-21 22:26:02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021222602id_/https://magic.wizards.com/en/articles/archive/feature/official-rules-2007-11-29"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/official-rules-2007-11-29"
 ---

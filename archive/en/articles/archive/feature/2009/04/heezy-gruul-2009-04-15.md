@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Mark Herberholz's Gruul Format: Standard 6 Forest 4 Karplusan Forest 7 Mountain 2 Skarrg, the Rage Pits 4 Stomping Ground 4 Burning-Tree Shaman 4 Dryad Sophisticate 3 Frenzied Goblin 4 Giant Solifuge 4 Kird Ape 4 Scab-Clan Mauler 4 Scorched Rusalka 4 Char 3 Flames of the Blood Hand 3 Moldervine Cloak *4 Blood Moon *1 Flames of the Blood Hand *2 Naturalize *2"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "668176"
 [_metadata_:publish_date]:- "2009-04-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Heezy Gruul"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-09 13:07:06+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-09 13:07:06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220809130706id_/https://magic.wizards.com/en/articles/archive/feature/heezy-gruul-2009-04-15"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/heezy-gruul-2009-04-15"
 ---

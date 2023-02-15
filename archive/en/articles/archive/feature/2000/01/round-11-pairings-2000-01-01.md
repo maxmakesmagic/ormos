@@ -4,9 +4,11 @@
 
 [_metadata_:description]:- "Table Player Points   Opponent Points 1 Svaldi, Guilherme Dei 28 vs. Shvartsman, Alex 27 2 Hino, Celso M 27 vs. Martins - ama, Leopoldo M. 27 3 Ruel, Antoine 26 vs."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "959411"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 11 Pairings"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-29 18:33:42+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-29 18:33:42"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171029183342id_/https://magic.wizards.com/en/articles/archive/feature/round-11-pairings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-11-pairings-2000-01-01"
 ---

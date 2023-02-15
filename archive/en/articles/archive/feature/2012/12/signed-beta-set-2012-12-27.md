@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Monty Ashley"
 [_metadata_:description]:- "This Arcana originally appeared on January 23, 2012. We'd like to tell you about Markus Staeheli. He's a Magic collector. And, no offense, he's way better at it than you. That's a pretty bold claim, but he's done something that doesn't even sound possible. He's put together a complete set of Beta. And every single card is signed by the artist. There are 302 cards. There are 25"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "594656"
 [_metadata_:publish_date]:- "2012-12-27"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Signed Beta Set"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-23 16:53:22+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-23 16:53:22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220123165322id_/https://magic.wizards.com/en/articles/archive/feature/signed-beta-set-2012-12-27"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/signed-beta-set-2012-12-27"
 ---

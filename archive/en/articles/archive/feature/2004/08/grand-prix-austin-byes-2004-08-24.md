@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Byes are based on the following criteria:# of ByesMinimum RatingMinimum Pro Points 3200028 2190014 118007 Rating used: Limited, August 18, 2004 Pro Point Standings Used: 2004 Pro Tour Seattle StandingTo find the number of byes you have for Grand Prix-Austin, go to the appropriate list below (sorted by last name): A-G H-N O-Z For questions about this page, please email John"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "734101"
 [_metadata_:publish_date]:- "2004-08-24"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Austin Byes"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-26 10:01:06+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-26 10:01:06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026100106id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-austin-byes-2004-08-24"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-austin-byes-2004-08-24"
 ---

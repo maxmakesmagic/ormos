@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Sideboard Staff Chris Senhouse, editor-in-chief of The Dojo, faced off in the Top 8 of the first Masters Gateway tournament against Craig Wescoe, known for building Brian Davis' runner-up deck for Pro Tour Chicago. Chris won the roll and elected to go first. He lost his advantage, forced to mulligan. He opened strong with a City of Brass and Duress, robbing Craig of the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "805556"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Gateway Top 8: Chris Senhouse vs. Craig Wescoe"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-04 09:38:13+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-04 09:38:13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220704093813id_/https://magic.wizards.com/en/articles/archive/feature/gateway-top-8-chris-senhouse-vs-craig-wescoe-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gateway-top-8-chris-senhouse-vs-craig-wescoe-2000-01-01"
 ---

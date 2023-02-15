@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210121162550/https://magic.wizards.com/en/articles/archive/feature/legends-kaldheim-2021-01-21)
+[Link to Wayback Machine](https://web.archive.org/web/20210307121736/https://magic.wizards.com/en/articles/archive/feature/legends-kaldheim-2021-01-21?partner=CardsRealm&medium=cardsrealm&utm_source=CardsRealm&utm_medium=affiliate&utm_campaign=CardsRealm)
 
 [_metadata_:author]:- "Ari Zirulnik and Jenna Helland"
 [_metadata_:description]:- "Get to know the legendary creatures you'll be sending into battle with backstories on every legend from the upcoming Kaldheim."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1522156"
 [_metadata_:publish_date]:- "2021-01-21"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Legends of Kaldheim"
-[_metadata_:wayback_capture_timestamp]:- "2021-01-21 16:25:50+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210121162550id_/https://magic.wizards.com/en/articles/archive/feature/legends-kaldheim-2021-01-21"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/legends-kaldheim-2021-01-21"
+[_metadata_:wayback_capture_timestamp]:- "2021-03-07 12:17:36"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210307121736id_/https://magic.wizards.com/en/articles/archive/feature/legends-kaldheim-2021-01-21?partner=CardsRealm&medium=cardsrealm&utm_source=CardsRealm&utm_medium=affiliate&utm_campaign=CardsRealm"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/legends-kaldheim-2021-01-21?partner=CardsRealm&medium=cardsrealm&utm_source=CardsRealm&utm_medium=affiliate&utm_campaign=CardsRealm"
 ---
 
 

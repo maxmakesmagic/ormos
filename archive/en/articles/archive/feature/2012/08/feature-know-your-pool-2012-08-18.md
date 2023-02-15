@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Tim Willoughby"
 [_metadata_:description]:- "The cut from Day One of the World Magic Cup has been vicious, with a number of big–name teams not putting up the performance required to squeeze through. The Czech Republic, China, Italy, Germany, Belgium, Australia, and Japan are all teams that many might have tipped for greatness, but none will be building Team Sealed decks on Saturday morning."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "313999"
 [_metadata_:publish_date]:- "2012-08-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Feature: Know Your Pool"
-[_metadata_:wayback_capture_timestamp]:- "2015-10-17 13:51:47+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2015-10-17 13:51:47"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151017135147id_/http://magic.wizards.com/en/articles/archive/feature/feature-know-your-pool-2012-08-18"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/feature-know-your-pool-2012-08-18"
 ---

@@ -4,9 +4,11 @@
 
 [_metadata_:description]:- "Player Pictures [view] Goodbye from Singapore [view] Head Judge Mountain Hung [view] Champion, Sam Lau [view] Runner Up Jonathan Chan [view] Semifinalist, Tzu-Chang Kuo [view] Semifinalist, Masuyuki Higashino [view] The Top 4 [view] Runner up, Jonathan Chan [view] They cant BELIEVE it [view] The game-ending handshake [view] Can you BELIEVE it [view] Sam Lau cannot BELIEVE it"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "962751"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2000 Grand Prix Singapore"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-06 12:15:10+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-06 12:15:10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211206121510id_/https://magic.wizards.com/en/articles/archive/feature/2000-grand-prix-singapore-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2000-grand-prix-singapore-2000-01-01"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Magic: The Gathering Grand Prix tournament series is an international circuit of large-scale Qualifier tournaments featuring cash prizes and multiple invitations to Pro Tour events.Grand Prix—Washington, D.C. is presented by Dream Wizards and StarCityGames.com.TOURNAMENT FORMAT AND SCHEDULE The format for Grand Prix–Washington, D.C. is Mirrodin Block Team Limited (Sealed"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "734761"
 [_metadata_:publish_date]:- "2004-01-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix - Washington, D.C."
-[_metadata_:wayback_capture_timestamp]:- "2021-05-02 17:55:56+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 17:55:56"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502175556id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-washington-dc-2004-01-09"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-washington-dc-2004-01-09"
 ---

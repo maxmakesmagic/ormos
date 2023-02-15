@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "RankTeamPointsOp.Win% 1 Amsterdam 3 33.33% 2 Mwonvuli Gang 3 33.33% 3 killers of the Coast 3 33.33% 4 Profanity PDPM 3 33.33% 5 Vinh School 3 33.33% 6 Mad 3 33.33% 7 Dirty arbouze * 3 33.33% 8 Calvo's Legacy 3 33.33% 9 CAP games Team * 3 33.33% 10 Melange * 3 33.33% 11 Babar Team * 3 33.33% 12 Silvani 3 33.33% 13 The lucky squad * 3 33.33% 14 Nether Spirits 3 33.33% 15 Burning"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "806471"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 1 Standings (by Score)"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-05 03:50:41+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-05 03:50:41"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220705035041id_/https://magic.wizards.com/en/articles/archive/feature/round-1-standings-score-2000-01-01-0"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-1-standings-score-2000-01-01-0"
 ---

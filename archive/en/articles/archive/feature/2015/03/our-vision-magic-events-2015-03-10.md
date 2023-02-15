@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Dan Barrett"
 [_metadata_:description]:- "Why we organize Magic events, and what we aim to offer with them."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "352711"
 [_metadata_:publish_date]:- "2015-03-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Our Vision For Magic Events"
-[_metadata_:wayback_capture_timestamp]:- "2015-03-10 16:43:08+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2015-03-10 16:43:08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150310164308id_/http://magic.wizards.com/en/articles/archive/feature/our-vision-magic-events-2015-03-10"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/our-vision-magic-events-2015-03-10"
 ---

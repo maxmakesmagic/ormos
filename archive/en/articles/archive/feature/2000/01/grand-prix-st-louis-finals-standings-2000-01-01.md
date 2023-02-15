@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Rank Name 1 Antarctica 2 Dogma 3 Your Move Games 4 Hubbo 5 Whatever 6 Fungusaur 7 Coolers 8 Pudge 9 Our Move Games"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "951981"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix St. Louis Finals Standings"
-[_metadata_:wayback_capture_timestamp]:- "2020-12-05 23:20:50+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-12-05 23:20:50"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201205232050id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-finals-standings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-finals-standings-2000-01-01"
 ---

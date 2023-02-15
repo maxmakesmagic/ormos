@@ -12,4 +12,5 @@
 * [Feature: Rookie of the Year - Alexander Hayne](/archive/en/articles/archive/feature/2012/05/feature-rookie-year-alexander-hayne-2012-05-13.md) - 2012-05-13
 * [Feature: National Firsts](/archive/en/articles/archive/feature/2012/08/feature-national-firsts-2012-08-18.md) - 2012-08-18
 * [2014 World Championship Competitors: Shaun McLaren](/archive/en/articles/archive/feature/2014/11/2014-world-championship-competitors-shaun-mclaren-2014-11-06.md) - 2014-11-06
+* [2014 World Championship Competitors: Nam Sung Wook](/archive/en/articles/archive/feature/2014/11/2014-world-championship-competitors-nam-sung-wook-2014-11-11.md) - 2014-11-11
 * [Twitch Chat and CoverItLive at Pro Tour Fate Reforged](/archive/en/articles/archive/feature/2015/02/twitch-chat-and-coveritlive-pro-tour-fate-reforged-2015-02-04.md) - 2015-02-04

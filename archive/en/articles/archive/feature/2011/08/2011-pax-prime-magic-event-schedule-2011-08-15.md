@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20211020001124/https://magic.wizards.com/en/articles/archive/feature/2011-pax-prime-magic-event-schedule-2011-08-15)
+[Link to Wayback Machine](https://web.archive.org/web/20160906081030/http://magic.wizards.com/en/articles/archive/feature/2011-pax-prime-magic-event-schedule-2011-08-15)
 
 [_metadata_:author]:- "Wizards of the Coast"
-[_metadata_:description]:- "Paper Magic Events | Magic Online EventsPaper Magic EventsFridayStart TimeEntry FeeEvent DescriptionPrizes Magic Intro Pack LeagueHall opens - Ongoing$15.Pay one entry fee and play all weekend. Receive a 2012 Intro Pack (deck) when you register. Earn a Magic card after every match, win or lose.Fun Magic prizes for top players Commander LeagueHall opens - Ongoing$15 if you"
+[_metadata_:description]:- "Paper Magic Events | Magic Online Events"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "732091"
 [_metadata_:publish_date]:- "2011-08-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2011 PAX Prime Magic Event Schedule"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-20 00:11:24+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020001124id_/https://magic.wizards.com/en/articles/archive/feature/2011-pax-prime-magic-event-schedule-2011-08-15"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-pax-prime-magic-event-schedule-2011-08-15"
+[_metadata_:wayback_capture_timestamp]:- "2016-09-06 08:10:30"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160906081030id_/http://magic.wizards.com/en/articles/archive/feature/2011-pax-prime-magic-event-schedule-2011-08-15"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/2011-pax-prime-magic-event-schedule-2011-08-15"
 ---
 
 
@@ -26,7 +28,7 @@
 
 
 
-![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
 By Wizards of the Coast
 
 

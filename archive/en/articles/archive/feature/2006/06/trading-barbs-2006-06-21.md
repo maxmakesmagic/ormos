@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Chris Millar"
 [_metadata_:description]:- "Welcome to the second week of Akroma Month! In case the 352 Akroma-based decks featured last week weren't enough, I'm here to bring you more of the same!At least, that was the plan. Unfortunately for the Akroma devotees in the audience, all of my notes have been destroyed. By the look of it, they were sliced to pieces by some kind of ninja-style weapon, glued back together,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "621041"
 [_metadata_:publish_date]:- "2006-06-21"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Trading Barbs"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-29 00:49:33+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-29 00:49:33"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220129004933id_/https://magic.wizards.com/en/articles/archive/feature/trading-barbs-2006-06-21"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/trading-barbs-2006-06-21"
 ---

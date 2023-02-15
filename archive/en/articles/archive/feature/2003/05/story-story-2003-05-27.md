@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Brady Dommermuth"
 [_metadata_:description]:- "How is the storyline for the Magic cards created? Do you invent the storyline, characters, and plots and then make up cards for it? Or make up the cards and then a story for them? How exactly do these two things coincide? -- Zachary Porcu, CAGood questions, Zachary, with complicated answers -- too complicated for the `Ask Wizards` feature, so I'll respond in the form of a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "630451"
 [_metadata_:publish_date]:- "2003-05-27"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Story of the Story"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-18 12:27:20+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-18 12:27:20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210418122720id_/https://magic.wizards.com/en/articles/archive/feature/story-story-2003-05-27"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/story-story-2003-05-27"
 ---

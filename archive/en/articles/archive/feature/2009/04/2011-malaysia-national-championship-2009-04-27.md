@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "FirstLastInvitation Source BenChio2010 National Team Chong TengKong2010 National Team JasonNg2010 National Team JoeSoh2010 Alternate JasonNg2010 National Champion TerrySohTop 75 Country rating JoeSohTop 75 Country rating IanTanTop 75 Country rating HoseaChongTop 75 Country rating Wei San, WesleyNgTop 75 Country rating YauMun YipTop 75 Country rating Rick Hup BengLeeTop 75"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "730236"
 [_metadata_:publish_date]:- "2009-04-27"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2011 Malaysia National Championship"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-25 22:39:49+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-25 22:39:49"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025223949id_/https://magic.wizards.com/en/articles/archive/feature/2011-malaysia-national-championship-2009-04-27"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-malaysia-national-championship-2009-04-27"
 ---

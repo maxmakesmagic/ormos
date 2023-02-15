@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Chris Millar"
 [_metadata_:description]:- "Welcome to Easter Egg Week! It's the only week imaginable that could kick things off with a feature article talking about severed baby-heads and surfing. Sigh. There goes all of my material. Not your typical Easter bunny Without the severed baby-head angle, what's a casual deckbuilding column to do? The theme deck options are kind of limited. My first thought was to throw"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "621311"
 [_metadata_:publish_date]:- "2006-12-13"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Fear All Throwbacks!"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-20 02:11:28+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-20 02:11:28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120021128id_/https://magic.wizards.com/en/articles/archive/feature/fear-all-throwbacks-2006-12-13"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/fear-all-throwbacks-2006-12-13"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: David Howard's Quenchable Burn Format: 2009 World Championships 4 Arid Mesa 12 Mountain 4 Scalding Tarn 4 Teetering Peaks 4 Ball Lightning 4 Goblin Guide 4 Hell's Thunder 4 Hellspark Elemental 4 Plated Geopede 4 Burst Lightning 4 Earthquake 4 Lightning Bolt 4 Quenchable Fire *2 Chandra Nalaar *3 Goblin Ruinblaster *3 Mark of Mutiny *2 Pithing Needle *2"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "669096"
 [_metadata_:publish_date]:- "2009-12-07"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Quenchable Burn"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-16 05:52:07+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-16 05:52:07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016055207id_/https://magic.wizards.com/en/articles/archive/feature/quenchable-burn-2009-12-07"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/quenchable-burn-2009-12-07"
 ---

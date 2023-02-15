@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Announcement Date: September 20, 2012 Effective Date: October 1, 2012Standard, Extended, Legacy  No changesModern  Valakut, the Molten Pinnacle is Unbanned.Vintage  Burning Wish is Unrestricted."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "688141"
 [_metadata_:publish_date]:- "2012-09-20"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "September 20, 2012, DCI Banned & Restricted List Announcement"
-[_metadata_:wayback_capture_timestamp]:- "2019-12-25 23:14:51+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2019-12-25 23:14:51"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20191225231451id_/https://magic.wizards.com/en/articles/archive/feature/september-20-2012-dci-banned-restricted-list-announcement-2012-09-20"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/september-20-2012-dci-banned-restricted-list-announcement-2012-09-20"
 ---

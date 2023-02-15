@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "Welcome to Graveyard Week. This week we'll be talking about one of my all-time favorite zones: the graveyard. In fact, it turns out that I'm such a fan of the graveyard that over the years I have made a lot of graveyard cards, mechanics, and even sets. A lot. A lot! It's kind of scary actually. Today and next week I'll be walking you through many of those designs for a firsthand account of how the cards were designed."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "654346"
 [_metadata_:publish_date]:- "2011-11-14"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grave Consequences, Part 1"
-[_metadata_:wayback_capture_timestamp]:- "2018-01-26 00:58:44+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2018-01-26 00:58:44"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180126005844id_/https://magic.wizards.com/en/articles/archive/feature/grave-consequences-part-1-2011-11-14"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grave-consequences-part-1-2011-11-14"
 ---

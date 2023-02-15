@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match Rank Name Points Win% 1 Larkin John 32 64.0744 2 Hunka John 31 59.7774 3 Bregoli Mike 31 56.3595 4 Eskeland Sigurd 30 64.868 5 Marsh Warren 30 61.947 6 Rubin Ben 30 60.6706 7 Kettil Mattias 30 58.439 8 Cornelissen Kamiel 29 63.5447 9 Blackwell Trevor 29 60.7495 10 Turning Travis G 29 56.5089 11 Jorstedt Mattias 29 50.0435 12 Hron Mike 28 51.8287 13 Parker Brock 28"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "950051"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-New York 2000 Round 13 Standings"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-02 18:02:55+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-02 18:02:55"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211202180255id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-13-standings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-new-york-2000-round-13-standings-2000-01-01"
 ---

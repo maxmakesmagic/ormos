@@ -5,9 +5,11 @@
 [_metadata_:author]:- "magicthegathering.com Staff"
 [_metadata_:description]:- "NAME: Jay TreatMULTIPLE CHOICE SCORE: 44ESSAYS:1. Introduce yourself and explain why you are a good fit for this internship.If C3PU were played by Niel Patrick Harris and the Princess Bride by Eliza Dushku, I would be their illegitimate love-child. And by `love-child,` I mean, `I'm basically the same nerdy white guy as all the other contestants.`I am a Gamer. I can still"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "604921"
 [_metadata_:publish_date]:- "2010-11-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Great Designer Search 2 Finalists"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-02 00:52:28+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 00:52:28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502005228id_/https://magic.wizards.com/en/articles/archive/feature/great-designer-search-2-finalists-2010-11-03-3"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/great-designer-search-2-finalists-2010-11-03-3"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "The Rock came into the recent Pro Tour Columbus as the unconditional leader in terms of popularity. With over 60 representatives, The Rock made up more than 20% of the field... yet not a one made Top 8 in a tournament that boasted eight different archetypes.Now for players interested in statistical performance, this should tell you that the “noblest deck” fared pretty badly,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "627501"
 [_metadata_:publish_date]:- "2004-11-17"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Many Faces of Malka"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-08 23:26:01+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-08 23:26:01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208232601id_/https://magic.wizards.com/en/articles/archive/feature/many-faces-malka-2004-11-17"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/many-faces-malka-2004-11-17"
 ---

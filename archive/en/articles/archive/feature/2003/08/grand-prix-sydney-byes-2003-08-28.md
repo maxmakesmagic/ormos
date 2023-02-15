@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Byes are based on the following criteria: # of ByesMinimum RatingMinimum Pro Points 3195028 2185014 117507 Rating used: Limited, August 20, 2003 Pro Point Standings Used: 2003 World Championships To find the number of byes you have for Grand Prix-Sydney, go to the appropriate list below (sorted by last name): A-B C-D E-G H-J K-L M-N O-R S T-V W-Z For questions about this page,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "736221"
 [_metadata_:publish_date]:- "2003-08-28"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Sydney Byes"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-18 02:14:27+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-18 02:14:27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018021427id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-sydney-byes-2003-08-28"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-sydney-byes-2003-08-28"
 ---

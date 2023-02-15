@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "NameInvitation From…  Mark Waterhouse2002 English National Champion  Tom HarleTop 4 2002 English Nationals  Sam GomersallTop 4 2002 English Nationals  David GrantTop 4 2002 English Nationals  Martin SwanHigh Wycombe National Qualifier  Steart CowanHigh Wycombe National Qualifier"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "732931"
 [_metadata_:publish_date]:- "2003-02-14"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Qualified Players for 2003 English Nationals"
-[_metadata_:wayback_capture_timestamp]:- "2018-04-09 15:57:39+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2018-04-09 15:57:39"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180409155739id_/https://magic.wizards.com/en/articles/archive/feature/qualified-players-2003-english-nationals-2003-02-14"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/qualified-players-2003-english-nationals-2003-02-14"
 ---

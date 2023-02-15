@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20211110170802/https://magic.wizards.com/en/articles/archive/feature/innistrad-crimson-vow-prerelease-primer-2021-11-10)
+[Link to Wayback Machine](https://web.archive.org/web/20211111111821/https://magic.wizards.com/en/articles/archive/feature/innistrad-crimson-vow-prerelease-primer-2021-11-10?utm_source=dlvr.it&utm_medium=twitter)
 
 [_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "Everything you need to get ready for Innistrad: Crimson Vow Prerelease fun!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1568986"
 [_metadata_:publish_date]:- "2021-11-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Innistrad: Crimson Vow Prerelease Primer"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-10 17:08:02+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211110170802id_/https://magic.wizards.com/en/articles/archive/feature/innistrad-crimson-vow-prerelease-primer-2021-11-10"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/innistrad-crimson-vow-prerelease-primer-2021-11-10"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-11 11:18:21"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211111111821id_/https://magic.wizards.com/en/articles/archive/feature/innistrad-crimson-vow-prerelease-primer-2021-11-10?utm_source=dlvr.it&utm_medium=twitter"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/innistrad-crimson-vow-prerelease-primer-2021-11-10?utm_source=dlvr.it&utm_medium=twitter"
 ---
 
 

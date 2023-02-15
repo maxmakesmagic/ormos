@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "As has become tradition over the past few sets, I like to highlight the very cool peek at how the premium foil cards are produced by highlighting the layer which gives them their reflectiveness. I posted on Twitter asking for a few ideas as to what to show you and got a slew of responses, I've taken some of them and here they are! First up: Heliod, God of the Sun. The #1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "650771"
 [_metadata_:publish_date]:- "2013-11-20"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Theros Is Shiny"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-25 11:02:59+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-25 11:02:59"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220625110259id_/https://magic.wizards.com/en/articles/archive/feature/theros-shiny-2013-11-20"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/theros-shiny-2013-11-20"
 ---

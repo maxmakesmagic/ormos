@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Michael Jacob's Mono-red Format: 2008 U.S. Nationals Top 8 22 Snow-Covered Mountain 2 Keldon Megaliths 4 Magus of the Scroll 4 Blood Knight 4 Figure of Destiny 4 Ashenmoor Gouger 4 Demigod of Revenge 4 Magus of the Moon 4 Skred 4 Flame Javelin 4 Incinerate *2 Pithing Needle *4 Sulfurous Blast *3 Spitebellows *2 Unwilling Recruit *4 Murderous Redcap"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "668131"
 [_metadata_:publish_date]:- "2008-09-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Michael's Mono-red"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-13 14:03:55+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-13 14:03:55"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220713140355id_/https://magic.wizards.com/en/articles/archive/feature/michaels-mono-red-2008-09-15"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/michaels-mono-red-2008-09-15"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Ikoria: Lair of Behemoths and Commander (2020 Edition) are getting one monster of a preview season, and you can get all the dates right here."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1496912"
 [_metadata_:publish_date]:- "2020-03-31"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Where to Find Ikoria and C20 Previews"
-[_metadata_:wayback_capture_timestamp]:- "2020-03-31 20:34:12+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-03-31 20:34:12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200331203412id_/https://magic.wizards.com/en/articles/archive/feature/where-find-ikoria-and-c20-previews-2020-03-31"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/where-find-ikoria-and-c20-previews-2020-03-31"
 ---

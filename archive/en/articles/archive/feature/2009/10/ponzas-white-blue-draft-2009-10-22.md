@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Ponza's White-Blue"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "668931"
 [_metadata_:publish_date]:- "2009-10-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Ponza's White-Blue Draft"
-[_metadata_:wayback_capture_timestamp]:- "2016-04-14 00:57:45+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-04-14 00:57:45"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160414005745id_/http://magic.wizards.com/en/articles/archive/feature/ponzas-white-blue-draft-2009-10-22"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/ponzas-white-blue-draft-2009-10-22"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Trial Schedule The Magic: The Gathering® Grand Prix tournament series is an international circuit of large-scale Qualifier tournaments featuring cash prizes and multiple invitations to Pro Tour™ events. TOURNAMENT FORMAT AND SCHEDULE"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "635231"
 [_metadata_:publish_date]:- "2007-10-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "GRAND PRIX–KITAKYUUSHUU 2007"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-30 17:33:01+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-30 17:33:01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030173301id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93kitakyuushuu-2007-2007-10-10-0"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93kitakyuushuu-2007-2007-10-10-0"
 ---

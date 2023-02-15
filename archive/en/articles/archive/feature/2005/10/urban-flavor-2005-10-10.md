@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Jay Moldenhauer-Salazar"
 [_metadata_:description]:- "By way of introduction: The Fifth Dawn flavor article The Champions of Kamigawa flavor article The Betrayers of Kamigawa flavor article The Saviors of Kamigawa flavor article Hello again! I'm back to give you some thoughts and observations from one of Ravnica: City of Guilds' card names and flavor text writers... Namely me. Like everyone else who worked on the set, I was"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "632161"
 [_metadata_:publish_date]:- "2005-10-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Urban Flavor"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 04:50:31+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 04:50:31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429045031id_/https://magic.wizards.com/en/articles/archive/feature/urban-flavor-2005-10-10"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/urban-flavor-2005-10-10"
 ---

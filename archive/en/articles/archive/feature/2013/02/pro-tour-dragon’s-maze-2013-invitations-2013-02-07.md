@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Invitations to Pro Tour Dragon's Maze are awarded in the following manner: The winner of each Pro Tour Dragon's Maze Qualifier (including Magic Online Pro Tour Qualifiers). The Top 4 finishing players from each individual-format Grand Prix with an attendance of 1,199 or fewer participants that awards invitations to Pro Tour Dragon's Maze. The Top 8 finishing players from each"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "729861"
 [_metadata_:publish_date]:- "2013-02-07"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour Dragon’s Maze 2013 Invitations"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-16 04:25:15+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-16 04:25:15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516042515id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-dragon%E2%80%99s-maze-2013-invitations-2013-02-07"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-dragon%E2%80%99s-maze-2013-invitations-2013-02-07"
 ---

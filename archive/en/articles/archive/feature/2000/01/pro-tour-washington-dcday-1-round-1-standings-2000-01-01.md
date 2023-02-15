@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match Rank Name Points Win% 1 Shop Adept 3 33.33 2 Matrix 3 33.33 3 Big Dogs 3 33.33 4 Operation Mise 3 33.33 5 Tongo Nation 3 33.33 6 Name Denied 3 33.33 7 Phenomene J 3 33.33 8 Papa Smurf 3 33.33 9 Luscious 3 33.33 10 Deadguy 3 33.33 11 Special Bus 3 33.33 12 Utrecht 3 33.33 13 Babes of the Dingo 3 33.33 14 TLC 3 33.33 15 Teriyaki Toshiki 3 33.33 16 Three Blind Mice 3"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "951251"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour - Washington D.C.Day 1 Round 1 Standings"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-24 07:03:44+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-24 07:03:44"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524070344id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-1-standings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-1-standings-2000-01-01"
 ---

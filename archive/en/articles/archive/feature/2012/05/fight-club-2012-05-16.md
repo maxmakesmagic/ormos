@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "If the first rule of Fight Club is don't talk about Fight Club, that rule was snapped in half this past weekend at Pro Tour Avacyn Restored. Justin Plocher saw the power of green cards in Innistrad Block and decided to create a fight-centric deck he dubbed Fight Club. Full of cheap, powerful creatures that curve nicely, Justin took his unique concoction to a Top 40 finish."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "672426"
 [_metadata_:publish_date]:- "2012-05-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Fight Club"
-[_metadata_:wayback_capture_timestamp]:- "2017-09-05 06:25:57+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-09-05 06:25:57"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170905062557id_/http://magic.wizards.com/en/articles/archive/feature/fight-club-2012-05-16"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/fight-club-2012-05-16"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Marc Anderson's Twin Pod Format: Standard – Winner, Canada National Champ 4 Copperline Gorge 3 Forest 4 Island 4 Misty Rainforest 3 Mountain 2 Raging Ravine 4 Scalding Tarn 1 Acidic Slime 4 Birds of Paradise 4 Deceiver Exarch 1 Frost Titan 4 Lotus Cobra 1 Obstinate Baloth 1 Phantasmal Image 1 Phyrexian Metamorph 1 Sea Gate Oracle 1 Solemn Simulacrum 1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "671436"
 [_metadata_:publish_date]:- "2011-08-25"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Canada National Champ"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-18 09:50:22+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-18 09:50:22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018095022id_/https://magic.wizards.com/en/articles/archive/feature/canada-national-champ-2011-08-25"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/canada-national-champ-2011-08-25"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Pairings: Mark Le Pine vs. Dan O'Mahoney-Schwartz, Nate Clarke vs. Steve O'Mahoney-Schwartz, David Bachmann vs. Jon Finkel Even drawing a Lightning Dragon can't save Clarke - He loses to O'Mahoney-Schwartz, 2-0. Nate Clarke's life total has just moved down to 0 in his match against Steve O'Mahoney-Schwartz. Jon Finkel has more creatures than David Bachmann. And as if that"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "951291"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour - Washington D.C.Day 1 Round 4 Feature Match"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-18 17:41:58+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-18 17:41:58"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518174158id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-4-feature-match-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-4-feature-match-2000-01-01"
 ---

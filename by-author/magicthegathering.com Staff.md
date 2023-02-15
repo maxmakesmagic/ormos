@@ -4,7 +4,7 @@
 * [Tempest Storyboard](/archive/en/articles/archive/feature/2002/12/tempest-storyboard-2002-12-20.md) - 2002-12-20
 * [Card Face Redesign FAQ](/archive/en/articles/archive/feature/2003/01/card-face-redesign-faq-2003-01-20.md) - 2003-01-20
 * [2003 Champs Decklists](/archive/en/articles/archive/feature/2003/11/2003-champs-decklists-2003-11-20.md) - 2003-11-20
-* [Banned & Restricted Announcement](/archive/en/articles/archive/feature/2003/12/banned-restricted-announcement-2003-12-01.md) - 2003-12-01
+* [Banned &amp; Restricted Announcement](/archive/en/articles/archive/feature/2003/12/banned-restricted-announcement-2003-12-01.md) - 2003-12-01
 * [Regionals Decklists 2004](/archive/en/articles/archive/feature/2004/05/regionals-decklists-2004-2004-05-03.md) - 2004-05-03
 * [Selecting Ninth Edition](/archive/en/articles/archive/feature/2004/06/selecting-ninth-edition-2004-06-13.md) - 2004-06-13
 * [Selecting Ninth Edition Week 12](/archive/en/articles/archive/feature/2004/08/selecting-ninth-edition-week-12-2004-08-30.md) - 2004-08-30

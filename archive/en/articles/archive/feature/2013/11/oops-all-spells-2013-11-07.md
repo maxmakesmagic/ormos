@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:description]:- "One of the reasons that Legacy is awesome is that there are multiple manaless or near-manaless decks that see play, with this being the newest one. Dredge is the most-played manaless deck, and one- or two-land Goblin Charbelcher makes the rounds as well, but Oops, All Spells! is definitely the coolest. With the release of Gatecrash, two specific cards provided enough incentive to play zero lands, and both are members of the Dimir guild."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "667201"
 [_metadata_:publish_date]:- "2013-11-07"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Oops, All Spells!"
-[_metadata_:wayback_capture_timestamp]:- "2017-02-22 22:59:28+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-02-22 22:59:28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170222225928id_/http://magic.wizards.com/en/articles/archive/feature/oops-all-spells-2013-11-07"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/oops-all-spells-2013-11-07"
 ---

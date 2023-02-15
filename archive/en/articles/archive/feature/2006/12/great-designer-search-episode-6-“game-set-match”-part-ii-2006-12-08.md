@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "Let’s get right to the action. Yesterday, I showed you the fifth Design Challenge as well as the submissions of the five remaining applicants. Today, it’s time for the judges to sound off. Once again, the judges are Aaron Forsythe (in red), Devin Low (in blue), Gleemax (in lovely plum) and myself (in green)."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "625081"
 [_metadata_:publish_date]:- "2006-12-08"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Great Designer Search Episode #6 “Game, Set, Match”, Part II"
-[_metadata_:wayback_capture_timestamp]:- "2017-12-09 05:13:53+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-12-09 05:13:53"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171209051353id_/https://magic.wizards.com/en/articles/archive/feature/great-designer-search-episode-6-%E2%80%9Cgame-set-match%E2%80%9D-part-ii-2006-12-08"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/great-designer-search-episode-6-%E2%80%9Cgame-set-match%E2%80%9D-part-ii-2006-12-08"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Congratulations to Fabrizio Anteri for his back to back Grand Prix win in Manchester!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "668026"
 [_metadata_:publish_date]:- "2014-06-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Manchester Winning Decklist"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-16 12:57:16+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-16 12:57:16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016125716id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-manchester-winning-decklist-2014-06-02-0"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-manchester-winning-decklist-2014-06-02-0"
 ---

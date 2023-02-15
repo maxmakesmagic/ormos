@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "Casting aside the hallowed, ancient traditions of House of Cards, I have renamed the `Deck Challenge` as the `Deck Dare.` Mostly because I will be taunting you throughout the course of this column. For your convenience, I will be highlighting my taunts as such: Don't feel bad if you're not up to submitting a deck this time; it's probably over your head.First things first,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "613631"
 [_metadata_:publish_date]:- "2003-10-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Mark's Deck Dare 2"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-22 08:20:56+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-22 08:20:56"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522082056id_/https://magic.wizards.com/en/articles/archive/feature/marks-deck-dare-2-2003-10-09"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/marks-deck-dare-2-2003-10-09"
 ---

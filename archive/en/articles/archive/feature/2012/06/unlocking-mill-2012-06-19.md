@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "Some Magic players out there have a collection of thousands of cards, with access to any card they might want for their decks. I could rattle off a list of cards and—given adequate time to scrounge around closet floors—they could put it together. Deck building decisions are first scribbled down on paper, and then later brought into reality. Considering how central that"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "689481"
 [_metadata_:publish_date]:- "2012-06-19"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Unlocking Mill"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-16 19:22:57+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-16 19:22:57"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211016192257id_/https://magic.wizards.com/en/articles/archive/feature/unlocking-mill-2012-06-19"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/unlocking-mill-2012-06-19"
 ---

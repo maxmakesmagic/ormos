@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Tommy Ashton's Finest Hour Format: Standard 2 Adarkar Wastes 4 Brushland 3 Forest 3 Mystic Gate 3 Reflecting Pool 4 Treetop Village 4 Yavimaya Coast 4 Birds of Paradise 4 Dauntless Escort 4 Jhessian Infiltrator 2 Kitchen Finks 4 Noble Hierarch 4 Rafiq of the Many 4 Rhox War Monk 4 Shorecrasher Mimic 4 Bant Charm 3 Finest Hour *4 Burrenton Forge-Tender *2"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "668316"
 [_metadata_:publish_date]:- "2009-05-20"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Finest Hour"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-12 21:27:32+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-12 21:27:32"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220812212732id_/https://magic.wizards.com/en/articles/archive/feature/finest-hour-2009-05-20"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/finest-hour-2009-05-20"
 ---

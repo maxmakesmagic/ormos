@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Information"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "728156"
 [_metadata_:publish_date]:- "2013-03-25"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Beijing Event Information"
-[_metadata_:wayback_capture_timestamp]:- "2016-10-08 04:15:25+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-10-08 04:15:25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161008041525id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-beijing-event-information-2013-03-25"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-beijing-event-information-2013-03-25"
 ---

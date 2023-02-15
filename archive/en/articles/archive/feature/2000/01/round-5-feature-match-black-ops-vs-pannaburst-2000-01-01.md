@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Rui Oliveira"
 [_metadata_:description]:- "Black Ops Olivier Ruel Antoine Ruel Florent JeudonPannaBurst Luca Chiera Antonino De Rosa Guido PacificiWith two rounds to go Black Ops, who we watched building their decks a while ago, faced against one of Italy's top teams which includes Pro Tour player residing in Florida, Antonino De Rosa."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "806151"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 5 Feature Match: Black Ops vs. PannaBurst"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-23 16:33:50+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-23 16:33:50"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123163350id_/https://magic.wizards.com/en/articles/archive/feature/round-5-feature-match-black-ops-vs-pannaburst-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-5-feature-match-black-ops-vs-pannaburst-2000-01-01"
 ---

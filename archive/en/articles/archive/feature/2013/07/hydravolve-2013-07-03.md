@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "It may not be obvious on first reading, but Magic 2014 will include Magic's first legitimate Hydra lord. This is a creature that rewards you for building a Hydra tribal deck. Hydras in Magic are most often creatures that cost X and some colored mana and enter the battlefield with X counters. Many other Hydras get +1/+1 counters in some way. There are other Hydras, but the new"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "666696"
 [_metadata_:publish_date]:- "2013-07-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Hydravolve"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-27 13:12:17+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-27 13:12:17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027131217id_/https://magic.wizards.com/en/articles/archive/feature/hydravolve-2013-07-03"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/hydravolve-2013-07-03"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Toshiyuki Kadooka's Eldrazi Amulet Format: Standard – Japan Nationals 2011 4 Eldrazi Temple 14 Forest 3 Khalni Garden 4 Tectonic Edge 2 Emrakul, the Aeons Torn 4 Overgrown Battlement 2 Terastodon 3 Ulamog, the Infinite Gyre 3 Wurmcoil Engine 2 Ancient Stirrings 4 Everflowing Chalice 3 Explore 4 Quicksilver Amulet 4 Rampant Growth 4 Summoning Trap *3 Creeping"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "671286"
 [_metadata_:publish_date]:- "2011-07-19"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Eldrazi Amulet"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-20 09:34:12+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-20 09:34:12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020093412id_/https://magic.wizards.com/en/articles/archive/feature/eldrazi-amulet-2011-07-19"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/eldrazi-amulet-2011-07-19"
 ---

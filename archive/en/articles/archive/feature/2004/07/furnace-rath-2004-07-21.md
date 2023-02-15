@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Adrian Sullivan"
 [_metadata_:description]:- "Mark Rosewater says that Red is about freedom. Poppycock. Don't believe his lies! For the real story on Red, read this week's feature article by Dan Paskins. Here is a man that knows what Red is about. Red is about burning people in the face. Red is about smashing their things to bits. Red is about being able to be the naughty five-year old with no one there to tell you to"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "613391"
 [_metadata_:publish_date]:- "2004-07-21"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Furnace of Rath"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-16 08:14:45+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-16 08:14:45"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816081445id_/https://magic.wizards.com/en/articles/archive/feature/furnace-rath-2004-07-21"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/furnace-rath-2004-07-21"
 ---

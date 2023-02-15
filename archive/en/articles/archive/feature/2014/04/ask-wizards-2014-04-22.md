@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Ask Wizards is a weekly feature that allows you to ask us questions! If you'd like to submit your question please email it to AskWizards@wizards.com. We aren't able to answer every question we receive but if your question is good then it might show up in the coming weeks! Q: I have a quick question regarding Battlefield Thaumaturge. How does the cost-reduction ability work"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "599021"
 [_metadata_:publish_date]:- "2014-04-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Ask Wizards"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-18 08:32:09+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-18 08:32:09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118083209id_/https://magic.wizards.com/en/articles/archive/feature/ask-wizards-2014-04-22"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ask-wizards-2014-04-22"
 ---

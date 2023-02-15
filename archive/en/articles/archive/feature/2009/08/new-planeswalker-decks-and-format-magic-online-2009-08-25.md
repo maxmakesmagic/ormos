@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Note: This article may contain out of date information. For more information on the Planeswalker format, click here."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "635566"
 [_metadata_:publish_date]:- "2009-08-25"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "New Planeswalker Decks and Format on Magic Online"
-[_metadata_:wayback_capture_timestamp]:- "2016-12-17 17:20:56+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-12-17 17:20:56"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161217172056id_/http://magic.wizards.com/en/articles/archive/feature/new-planeswalker-decks-and-format-magic-online-2009-08-25"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/new-planeswalker-decks-and-format-magic-online-2009-08-25"
 ---

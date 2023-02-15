@@ -4,9 +4,11 @@
 
 [_metadata_:author]:- "Jenna Helland"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "353526"
 [_metadata_:publish_date]:- "2012-01-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Preview Article: Mikaeus, the Unhallowed"
-[_metadata_:wayback_capture_timestamp]:- "2016-04-18 10:59:23+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-04-18 10:59:23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160418105923id_/http://magic.wizards.com/en/articles/archive/feature/preview-article-mikaeus-unhallowed-2012-01-16"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/preview-article-mikaeus-unhallowed-2012-01-16"
 ---

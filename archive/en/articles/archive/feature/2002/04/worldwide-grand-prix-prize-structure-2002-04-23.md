@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Prizes subject to change. All prizes displayed in US dollars."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "735916"
 [_metadata_:publish_date]:- "2002-04-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Worldwide Grand Prix Prize Structure"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-09 04:01:47+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-09 04:01:47"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220809040147id_/https://magic.wizards.com/en/articles/archive/feature/worldwide-grand-prix-prize-structure-2002-04-23"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/worldwide-grand-prix-prize-structure-2002-04-23"
 ---

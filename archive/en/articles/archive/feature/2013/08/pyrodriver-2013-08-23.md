@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:description]:- "Today, we've got another token Travis Woo deck, which utilizes the dual engines of Young Pyromancer and Ogre Battledriver. Travis wrote about the deck here, and I was drawn to the near-infinite amount of damage the deck can deliver (doing 50 damage is basically infinite, right?)."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "666906"
 [_metadata_:publish_date]:- "2013-08-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pyrodriver"
-[_metadata_:wayback_capture_timestamp]:- "2020-05-31 08:25:33+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-05-31 08:25:33"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200531082533id_/https://magic.wizards.com/en/articles/archive/feature/pyrodriver-2013-08-23"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pyrodriver-2013-08-23"
 ---

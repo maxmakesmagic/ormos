@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Grgur Petric Maretic's Faeries Format: Standard 5 Island 3 Swamp 4 Underground River 4 Sunken Ruins 4 Secluded Glen 4 Mutavault 2 Faerie Conclave 2 Vendilion Clique 4 Scion of Oona 4 Mistbind Clique 3 Spellstutter Sprite 2 Plumeveil 4 Bitterblossom 4 Broken Ambitions 4 Cryptic Command 4 Agony Warp 2 Peppersmoke 1 Loxodon Warhammer *3 Deathmark *2 Flashfreeze *2 Puppeteer Clique *1 Persuasion"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "668556"
 [_metadata_:publish_date]:- "2009-07-20"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Croatian Nationals"
-[_metadata_:wayback_capture_timestamp]:- "2017-08-13 08:35:47+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-13 08:35:47"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170813083547id_/http://magic.wizards.com/en/articles/archive/feature/croatian-nationals-2009-07-20"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/croatian-nationals-2009-07-20"
 ---

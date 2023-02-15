@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20200923133914/https://magic.wizards.com/en/articles/archive/feature/branded-magic%E2%80%99s-fall-update-jake-theis-2005-11-14)
+[Link to Wayback Machine](https://web.archive.org/web/20220119052034/https://magic.wizards.com/en/articles/archive/feature/branded-magic%E2%80%99s-fall-update-jake-theis-2005-11-14)
 
 [_metadata_:author]:- "Jake Theis"
-[_metadata_:description]:- "Greetings from the Wizards’ mothership in scenic Renton, Wash.! Actually, I should say greetings from the ALL NEW mothership in scenic Renton, Wash. It has been quite some time since we have chatted, and boy, do I have a lot to say."
+[_metadata_:description]:- "Greetings from the Wizards’ mothership in scenic Renton, Wash.! Actually, I should say greetings from the ALL NEW mothership in scenic Renton, Wash. It has been quite some time since we have chatted, and boy, do I have a lot to say. The loyal magicthegathering.com viewers among you know that Wizards has packed its bags and made the extremely long and arduous journey across the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "638226"
 [_metadata_:publish_date]:- "2005-11-14"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Branded: Magic’s Fall Update with Jake Theis"
-[_metadata_:wayback_capture_timestamp]:- "2020-09-23 13:39:14+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200923133914id_/https://magic.wizards.com/en/articles/archive/feature/branded-magic%E2%80%99s-fall-update-jake-theis-2005-11-14"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-19 05:20:34"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220119052034id_/https://magic.wizards.com/en/articles/archive/feature/branded-magic%E2%80%99s-fall-update-jake-theis-2005-11-14"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/branded-magic%E2%80%99s-fall-update-jake-theis-2005-11-14"
 ---
 

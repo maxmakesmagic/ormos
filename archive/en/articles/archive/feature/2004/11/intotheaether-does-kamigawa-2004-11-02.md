@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Jay Moldenhauer-Salazar"
 [_metadata_:description]:- "Last Thursday, with a heavy heart, I drove my wife and son to the airport. They were off to Connecticut for my mother-in-law's 60th birthday, and I was stuck in California... working. Not only did this mean a loss of family time and no vacation, but I was going to miss my 3-year old dressing up as Spider Man for Halloween."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "626201"
 [_metadata_:publish_date]:- "2004-11-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "IntoTheAether Does Kamigawa"
-[_metadata_:wayback_capture_timestamp]:- "2016-09-05 02:35:40+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-09-05 02:35:40"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160905023540id_/http://magic.wizards.com/en/articles/archive/feature/intotheaether-does-kamigawa-2004-11-02"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/intotheaether-does-kamigawa-2004-11-02"
 ---

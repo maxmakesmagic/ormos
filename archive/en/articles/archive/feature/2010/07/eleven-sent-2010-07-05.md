@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "Welcome to Magic 2011 Preview Week 2. I talked about the challenges of designing Magic 2011 last week. This week is a little more of a potpourri. I'm going to talk about different issues that came up during the design. And yes, I have a preview card. If that sounds like fun, on to the next paragraph."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "657461"
 [_metadata_:publish_date]:- "2010-07-05"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Eleven Sent"
-[_metadata_:wayback_capture_timestamp]:- "2020-08-05 19:27:55+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-08-05 19:27:55"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200805192755id_/https://magic.wizards.com/en/articles/archive/feature/eleven-sent-2010-07-05"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/eleven-sent-2010-07-05"
 ---

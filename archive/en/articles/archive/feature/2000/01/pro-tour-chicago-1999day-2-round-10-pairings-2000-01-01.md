@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Points Table Opponent Points Baberowski, Dirk (120) 21 7 Krzywicki, Mike (209) 21 Baker, Justin (284) 14 45 Karthauser, Zach (188) 13 Benedict, Brian (176) 13 46 Simard, Jason (74) 13 Benezech, Lionel (318) 19 20 Yamada, Tsutomu (121) 18 Bernat, Michael (283) 19 12 Gary, Justin (282) 19 Bingen, Sturla (116) 16 30 Marks, John (229) 17 Budde, Kai (320) 19 11 Van Cleave,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "951011"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-Chicago 1999Day 2 Round 10 Pairings"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-18 07:43:59+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-18 07:43:59"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518074359id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-2-round-10-pairings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-2-round-10-pairings-2000-01-01"
 ---

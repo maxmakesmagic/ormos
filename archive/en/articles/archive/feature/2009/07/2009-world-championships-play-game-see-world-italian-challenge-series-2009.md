@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The PLAY THE GAME, SEE THE WORLD Italian Challenge Series is a series of 10-20 tournaments (plus final tournament) run in 100 stores in Italy from July to October 18, 2009. Players will receive points for match wins and final standings in those tournaments. After all the events have been run, each of the 100 stores will organize between October 19 and November 8, 2009 an"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "732506"
 [_metadata_:publish_date]:- "2009-07-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2009 World Championships PLAY THE GAME, SEE THE WORLD Italian Challenge Series"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-21 13:06:34+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-21 13:06:34"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021130634id_/https://magic.wizards.com/en/articles/archive/feature/2009-world-championships-play-game-see-world-italian-challenge-series-2009"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2009-world-championships-play-game-see-world-italian-challenge-series-2009"
 ---

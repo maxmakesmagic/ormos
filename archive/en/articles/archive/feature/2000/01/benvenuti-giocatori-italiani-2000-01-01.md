@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20171123155713/https://magic.wizards.com/en/articles/archive/feature/benvenuti-giocatori-italiani-2000-01-01)
+[Link to Wayback Machine](https://web.archive.org/web/20220701135047/https://magic.wizards.com/en/articles/archive/feature/benvenuti-giocatori-italiani-2000-01-01)
 
 [_metadata_:author]:- "Federico Faenza"
-[_metadata_:description]:- "Oggi , 26 Maggio 2001, si sta svolgendo il Grand Prix Torino. Il Palastampa ospita 101 squadre provenienti da Europa e Stati Uniti; durante la giornata si sono svolti 6 turni di Svizzera, con la costruzione dei mazzi prima del primo e del quarto turno."
+[_metadata_:description]:- "Oggi , 26 Maggio 2001, si sta svolgendo il Grand Prix Torino. Il Palastampa ospita 101 squadre provenienti da Europa e Stati Uniti; durante la giornata si sono svolti 6 turni di Svizzera, con la costruzione dei mazzi prima del primo e del quarto turno. 61 le compagini italiane, 18 le francesi, 6 svizzere, 4 Olandesi e 4 Statunitensi, 2 Tedesche e Austriache, 1 Danese,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "806141"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Benvenuti giocatori Italiani"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-23 15:57:13+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123155713id_/https://magic.wizards.com/en/articles/archive/feature/benvenuti-giocatori-italiani-2000-01-01"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-01 13:50:47"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220701135047id_/https://magic.wizards.com/en/articles/archive/feature/benvenuti-giocatori-italiani-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/benvenuti-giocatori-italiani-2000-01-01"
 ---
 

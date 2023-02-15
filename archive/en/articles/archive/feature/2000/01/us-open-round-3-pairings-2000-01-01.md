@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Pts Table Opponent Pts Accardi, Anthony ( 30) 3 28 Johnson, Andrew (165) 3 Ally, Arif (149) 3 32 Novak, Eddie ( 32) 3 Atwood, Aaron ( 95) 3 2 Mindes, Michael ( 74) 3 Augustine, Brian ( 98) 3 8 Stern, Dustin ( 61) 3 Bondy, Brett (136) 3 1 Hale, Yancy ( 53) 3 Bridy, Dan (126) 3 18 De Michele, David (104) 3 Buck, Alex (106) 3 14 Moungey, Jason (114) 3 Buck, Paul ( 79) 3 13"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "949681"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "US Open Round 3 Pairings"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-28 04:30:52+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-28 04:30:52"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220528043052id_/https://magic.wizards.com/en/articles/archive/feature/us-open-round-3-pairings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-open-round-3-pairings-2000-01-01"
 ---

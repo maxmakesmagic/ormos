@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "RankTeamPointsOp.Win% 90#I Magic *Amateur* 9 44.5578%108#realgangstas *Amateur* 6 62.5000%136$30 Cab Fare *Amateur* 3 58.3333% 46$42 Ticket *Amateur* 12 63.8095% 32100 Super Good Fun Time 15 53.7143%1423 for Flinching *Amateur* 3 55.5556% 643 Stooges *Amateur* 11 50.8844%1073 White Boys from the Stix * 6 64.5833%1513 X Threat *Amateur* 3 44.0000% 675 Ways Worse/Portent *Amateu"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "805751"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 10 Standings (by Team)"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-01 11:07:42+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-01 11:07:42"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220701110742id_/https://magic.wizards.com/en/articles/archive/feature/round-10-standings-team-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-10-standings-team-2000-01-01"
 ---

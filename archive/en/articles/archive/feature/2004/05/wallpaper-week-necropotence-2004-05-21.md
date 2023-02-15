@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This week's desktop wallpaper is Mark Tedin's famous art for Necropotence from the Ice Age set. Enjoy! 1280x960 pixels 1024x768 pixels 800x600 pixels See past Wallpapers of the Week"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "606881"
 [_metadata_:publish_date]:- "2004-05-21"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Wallpaper of the Week: Necropotence"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-28 12:14:02+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-28 12:14:02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028121402id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-necropotence-2004-05-21"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-necropotence-2004-05-21"
 ---

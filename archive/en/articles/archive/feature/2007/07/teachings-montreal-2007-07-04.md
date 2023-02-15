@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Frank Karsten"
 [_metadata_:description]:- "Wizards of the Coast is out of the office for the Independence Day holiday, and will return with new content beginning Thursday, July 5th. In case you missed it, what follows is the article that ran in this slot last week. See you tomorrow!Scott Johns, magicthegathering.com Site Manager The Block Constructed Pro Tour Qualifier season is underway (check here for a qualifier"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "624506"
 [_metadata_:publish_date]:- "2007-07-04"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Teachings of Montreal"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-13 21:46:25+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-13 21:46:25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220813214625id_/https://magic.wizards.com/en/articles/archive/feature/teachings-montreal-2007-07-04"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/teachings-montreal-2007-07-04"
 ---

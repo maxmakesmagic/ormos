@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210418225434/https://magic.wizards.com/en/articles/archive/feature/announcement-day-2016-08-31)
+[Link to Wayback Machine](https://web.archive.org/web/20160903045414/http://magic.wizards.com/en/articles/archive/feature/announcement-day-2016-08-31)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Happy Announcement Day!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1059936"
 [_metadata_:publish_date]:- "2016-08-31"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Announcement Day"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-18 22:54:34+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210418225434id_/https://magic.wizards.com/en/articles/archive/feature/announcement-day-2016-08-31"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/announcement-day-2016-08-31"
+[_metadata_:wayback_capture_timestamp]:- "2016-09-03 04:54:14"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160903045414id_/http://magic.wizards.com/en/articles/archive/feature/announcement-day-2016-08-31"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/announcement-day-2016-08-31"
 ---
 
 
@@ -26,7 +28,7 @@ Announcement Day
 
 
 
-![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
 By Wizards of the Coast
 
 
@@ -59,7 +61,7 @@ Now the exciting part—what's coming up between now and mid-2017! Watch the vid
 * The second set in the *Amonkhet* block, [*Hour of Devastation*](http://magic.wizards.com/en/content/hour-devastation-info), releases July 14, 2017.
 * In the same spirit as *Duel Decks: Anthology* and *Planechase Anthology*, [*Commander Anthology*](http://magic.wizards.com/en/content/commander-anthology-info) gathers four previous *Commander* products together in one convenient package, releasing June 9, 2017.
 * Draft like a master once more as we release [*Modern Masters 2017 Edition*](http://magic.wizards.com/en/content/modern-masters-2017-info) March 17, 2017—featuring cards from *Eighth Edition* through *Magic 2014*, including new trips through *Innistrad* and *Return to Ravnica*.
-* Brains or brawn? Cunning or strength? Test your guile and brute force with [*Duel Decks: Mind vs. Might*](http://magic.wizards.com/en/content/duel-decks-mind-might-info), releasing in March of 2017.
+* Brains or brawn? Cunning or strength? Test your guile and brute force with [*Duel Decks: Mind vs. Might*](http://magic.wizards.com/en/content/duel-decks-mind-might-info), releasing in May of 2017.
 * Updates to [*Magic: The Gathering*: Puzzle Quest](https://d3go.com/a-new-kaladesh-themed-pvp-event-for-magic-the-gathering-puzzle-quest) are here, with *Kaladesh* content!
 
 

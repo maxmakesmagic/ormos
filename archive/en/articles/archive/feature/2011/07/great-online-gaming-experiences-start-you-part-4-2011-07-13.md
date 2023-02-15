@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "So far, we’ve covered protecting your personal information (see Part 1), avoiding outside scams (see Part 2), and safe trading (see Part 3). This week, we’re concluding our series with some general tips to help you protect your account. Is It an “Official” E-mail? If you receive an e-mail that looks like it’s from Wizards of the Coast, first take the time to check the address"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "687836"
 [_metadata_:publish_date]:- "2011-07-13"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Great Online Gaming Experiences Start With You! (Part 4)"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-26 00:41:23+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-26 00:41:23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026004123id_/https://magic.wizards.com/en/articles/archive/feature/great-online-gaming-experiences-start-you-part-4-2011-07-13"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/great-online-gaming-experiences-start-you-part-4-2011-07-13"
 ---

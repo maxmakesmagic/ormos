@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "What's been previewed, what's going to be previewed, and where you can find all of it for Innistrad: Crimson Vow, right here!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1562226"
 [_metadata_:publish_date]:- "2021-10-25"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Where to Find Innistrad: Crimson Vow Previews"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-26 13:29:23+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-26 13:29:23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026132923id_/https://magic.wizards.com/en/articles/archive/feature/where-find-innistrad-crimson-vow-previews-2021-10-25?utm_source=dlvr.it&utm_medium=twitter"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/where-find-innistrad-crimson-vow-previews-2021-10-25?utm_source=dlvr.it&utm_medium=twitter"
 ---

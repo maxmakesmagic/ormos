@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Priests of Norn – Mirrodin Besieged common. Prior to Mirrodin Besieged, the Phyrexians have never really been thought of as being associated with white mana. But after all, they do represent a highly structured and organized society... Dancing Scimitar – Arabian Nights rare. Well before the living weapons of Mirrodin Besieged, there was Dancing Scimitar, a sword animated by"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "664421"
 [_metadata_:publish_date]:- "2011-01-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Card of the Day - January, 2011"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-06 00:40:35+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-06 00:40:35"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220706004035id_/https://magic.wizards.com/en/articles/archive/feature/card-day-january-2011-2011-01-03"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-day-january-2011-2011-01-03"
 ---

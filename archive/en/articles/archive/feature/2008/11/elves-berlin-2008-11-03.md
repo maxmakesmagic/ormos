@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Luis Scott-Vargas, Grapeshot Elves Format: Pro Tour-Berlin Top 8 4 Gilt-Leaf Palace 2 Overgrown Tomb 1 Pendelhaven 9 Snow-Covered Forest 4 Llanowar Elves 4 Elves of Deep Shadow 4 Nettle Sentinel 4 Heritage Druid 4 Birchlore Rangers 4 Elvish Visionary 4 Wirewood Symbiote 2 Viridian Shaman 1 Eternal Witness 1 Regal Force 4 Summoner's Pact 4 Glimpse of Nature 3"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "670001"
 [_metadata_:publish_date]:- "2008-11-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Elves! in Berlin"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-19 10:05:26+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-19 10:05:26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210419100526id_/https://magic.wizards.com/en/articles/archive/feature/elves-berlin-2008-11-03"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/elves-berlin-2008-11-03"
 ---

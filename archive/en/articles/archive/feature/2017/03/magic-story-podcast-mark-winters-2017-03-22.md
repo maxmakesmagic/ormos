@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Blake Rasmussen"
 [_metadata_:description]:- "Mark Winters stops by to talk about illustrating a world in revolt and details you might have missed in the art of Aether Revolt."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1130786"
 [_metadata_:publish_date]:- "2017-03-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic Story Podcast: Mark Winters"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-24 23:01:11+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-24 23:01:11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170324230111id_/http://magic.wizards.com/en/articles/archive/feature/magic-story-podcast-mark-winters-2017-03-22"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-story-podcast-mark-winters-2017-03-22"
 ---

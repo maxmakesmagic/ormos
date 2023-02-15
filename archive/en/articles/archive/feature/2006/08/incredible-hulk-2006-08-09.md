@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Matt Cavotta"
 [_metadata_:description]:- "The weeks in between theme weeks are blank canvasses for the writers here at magicthegathering.com. While that may seem like a big party, it's actually quite tough at times to come up with a topic worthy of a whole weeks worth of words. I was at a loss for a topic this week, until I remembered that next week is the last of the guild weeks. That made me think that it might be the last of the Ravnica block themes altogether."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "626771"
 [_metadata_:publish_date]:- "2006-08-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Incredible Hulk"
-[_metadata_:wayback_capture_timestamp]:- "2017-05-02 22:03:07+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-05-02 22:03:07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170502220307id_/http://magic.wizards.com/en/articles/archive/feature/incredible-hulk-2006-08-09"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/incredible-hulk-2006-08-09"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Orie Guo Format: Standard 4 Secluded Glen 4 Mutavault 4 Sunken Ruins 4 Underground River 2 Faerie Conclave 4 Island 2 Swamp 1 Reflecting Pool 1 Vendilion Clique 4 Mistbind Clique 4 Scion of Oona 4 Spellstutter Sprite 3 Sower of Temptation 4 Bitterblossom 4 Cryptic Command 2 Agony Warp 2 Terror 2 Peppersmoke 3 Broken Ambitions 2 Thoughtseize *2 Bottle Gnomes"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "726561"
 [_metadata_:publish_date]:- "2008-11-05"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic Cruise Qualifying Season: Top 8 Decklists"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-02 13:40:13+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 13:40:13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502134013id_/https://magic.wizards.com/en/articles/archive/feature/magic-cruise-qualifying-season-top-8-decklists-2008-11-05"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-cruise-qualifying-season-top-8-decklists-2008-11-05"
 ---

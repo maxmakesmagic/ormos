@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Adrian Sullivan"
 [_metadata_:description]:- "Years and years and years ago, Mark Rosewater and friends asked me, “What is one of your favorite mechanics?” I didn't have to even think about my answer. One of my favorite mechanics of all time is cycling."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "613486"
 [_metadata_:publish_date]:- "2004-09-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Elvish Aberration"
-[_metadata_:wayback_capture_timestamp]:- "2016-02-19 21:33:07+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-02-19 21:33:07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160219213307id_/http://magic.wizards.com/en/articles/archive/feature/elvish-aberration-2004-09-15"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/elvish-aberration-2004-09-15"
 ---

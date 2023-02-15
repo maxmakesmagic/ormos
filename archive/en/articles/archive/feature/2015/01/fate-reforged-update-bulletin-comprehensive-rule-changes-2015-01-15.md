@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Matt Tabak"
 [_metadata_:description]:- "What are the Comprehensive Rules?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "333031"
 [_metadata_:publish_date]:- "2015-01-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Fate Reforged Update Bulletin—Comprehensive Rule Changes"
-[_metadata_:wayback_capture_timestamp]:- "2015-01-19 23:45:59+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2015-01-19 23:45:59"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150119234559id_/http://magic.wizards.com/en/articles/archive/feature/fate-reforged-update-bulletin-comprehensive-rule-changes-2015-01-15"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/fate-reforged-update-bulletin-comprehensive-rule-changes-2015-01-15"
 ---

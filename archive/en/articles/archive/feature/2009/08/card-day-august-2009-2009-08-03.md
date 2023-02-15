@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Segovian Leviathan – Legends uncommon. The Planechase plane The Hippodrome (which gives all creatures -5/-0) is located on Segovia, a plane known only for Segovian Leviathan. The idea is that everything on that plane is so small that even the Leviathans are 3/3. And look at those teeny little whales! Mana Drain – Legends uncommon. Did you know that the little creatures on Mana"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "664626"
 [_metadata_:publish_date]:- "2009-08-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Card of the Day - August, 2009"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-05 20:29:23+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-05 20:29:23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220705202923id_/https://magic.wizards.com/en/articles/archive/feature/card-day-august-2009-2009-08-03"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-day-august-2009-2009-08-03"
 ---

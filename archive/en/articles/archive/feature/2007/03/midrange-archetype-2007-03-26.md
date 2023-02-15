@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Ken Nagle"
 [_metadata_:description]:- "Greetings! I'm Kenneth Nagle and I've been working in R&amp;D about two months ago after participating in The Great Designer Search. I want to address something that's been bugging me for quite a while now. Magic theorists, deckbuilders, and writers seem to know it, but they can't put it into words. They understand it without really understanding it. They think about it without really thinking about it."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "633351"
 [_metadata_:publish_date]:- "2007-03-26"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Midrange Archetype"
-[_metadata_:wayback_capture_timestamp]:- "2017-02-25 05:52:02+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-02-25 05:52:02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170225055202id_/http://magic.wizards.com/en/articles/archive/feature/midrange-archetype-2007-03-26"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/midrange-archetype-2007-03-26"
 ---

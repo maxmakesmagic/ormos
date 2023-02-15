@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "CountryDateCity3-Round ByeVenueContact China4-Feb-03Beijing 1Xiao Nanzhuang Yixiu Yuanlegendtony@263.net China6-Feb-03Shanghai1Huangpu Children's Palacesagitta@21cn.com China6-Feb-03Tianjin1Tianjin Wenlian Mansionwangyan_0224@sina.com China8-Feb-03Chengdu1Lasa Hotelsonghengzao@netease.com China8-Feb-03Shenyang1Shenyang Dongyu Bookstoresyxingyuan@sina.com"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "736151"
 [_metadata_:publish_date]:- "2003-01-10"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix - Singapore Trial Schedule"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-19 06:04:21+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-19 06:04:21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220819060421id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-singapore-trial-schedule-2003-01-10"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-singapore-trial-schedule-2003-01-10"
 ---

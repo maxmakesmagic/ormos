@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "Welcome to Conflux Previews, Week 1 (of 2—small sets have two previews weeks while large sets have three). I have a preview card for you as always, but I'm going to wait a little before I show it off. First I need to set the stage. And with this block, it is truly a world stage. Meet the Confluxians (Or Is That Confluxites?) Let me start by introducing you to the Conflux design team."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "656626"
 [_metadata_:publish_date]:- "2009-01-19"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "When Worlds Collide, Part I"
-[_metadata_:wayback_capture_timestamp]:- "2021-01-25 02:52:31+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-01-25 02:52:31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210125025231id_/https://magic.wizards.com/en/articles/archive/feature/when-worlds-collide-part-i-2009-01-19"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/when-worlds-collide-part-i-2009-01-19"
 ---

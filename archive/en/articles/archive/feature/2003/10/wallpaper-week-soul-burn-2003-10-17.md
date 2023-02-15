@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This week's desktop wallpaper is Rob Alexander's desolate Soul Burn from Ice Age. Enjoy. 1024x768 pixels 800x600 pixels See past Wallpapers of the Week"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "606061"
 [_metadata_:publish_date]:- "2003-10-17"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Wallpaper of the Week: Soul Burn"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-25 04:58:51+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-25 04:58:51"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220625045851id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-soul-burn-2003-10-17"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-soul-burn-2003-10-17"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: wiks's Green-White Aggro Standard Format: 4 Adarkar Wastes 4 Brushland 4 Forest 1 Island 1 Plains 4 Treetop Village 4 Yavimaya Coast 4 Birds of Paradise 4 Gaddock Teeg 4 Kitchen Finks 4 Noble Hierarch 3 Rafiq of the Many 3 Rhox War Monk 4 Wilt-Leaf Cavaliers 4 Wilt-Leaf Liege 4 Path to Exile 4 Shield of the Oversoul *2 Burrenton Forge-Tender *3 Guttural"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "668256"
 [_metadata_:publish_date]:- "2009-05-05"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Green-White Creatures"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-24 01:00:09+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-24 01:00:09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024010009id_/https://magic.wizards.com/en/articles/archive/feature/green-white-creatures-2009-05-05"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/green-white-creatures-2009-05-05"
 ---

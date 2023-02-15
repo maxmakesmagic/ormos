@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This page provides a detailed history of the Magic Online Championship Series (MOCS). See the full rules for complete details on how this event series works. 2011 season Full Rules Player of the Year Standings Season 1 (Dec. 15 – Jan. 12) Championship: January 15 at 7:00 AM PST, Masters Edition IV Sealed Promo card: Alternate Art Pernicious Deed Championship Coverage Season 2"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "657871"
 [_metadata_:publish_date]:- "2009-05-07"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic Online Championship Series"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-02 20:43:27+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 20:43:27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502204327id_/https://magic.wizards.com/en/articles/archive/feature/magic-online-championship-series-2009-05-07"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-online-championship-series-2009-05-07"
 ---

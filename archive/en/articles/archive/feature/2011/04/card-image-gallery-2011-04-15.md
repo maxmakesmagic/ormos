@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Colorless, White, and Blue | Black and Red | Green and Multicolored | Artifact and Land | ALL CARDS    Colorless, White, and Blue | Black and Red | Green and Multicolored | Artifact and Land | ALL CARDS"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "701196"
 [_metadata_:publish_date]:- "2011-04-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Card Image Gallery"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-30 22:27:10+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-30 22:27:10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211130222710id_/https://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2011-04-15"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-image-gallery-2011-04-15"
 ---

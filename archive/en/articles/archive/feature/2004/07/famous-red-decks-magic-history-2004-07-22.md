@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Alex Shvartsman"
 [_metadata_:description]:- "The origin of `Sligh` and more"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "353876"
 [_metadata_:publish_date]:- "2004-07-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Famous red Decks in Magic History"
-[_metadata_:wayback_capture_timestamp]:- "2015-03-14 19:52:53+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2015-03-14 19:52:53"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150314195253id_/http://magic.wizards.com/en/articles/archive/feature/famous-red-decks-magic-history-2004-07-22"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/famous-red-decks-magic-history-2004-07-22"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "John H. Klauk"
 [_metadata_:description]:- "Legacy (the format, not the weapon) is looking to hit the Magic® tournament scene in the face with a wet squirrel. That’s right. I said it, and you read it correctly. Right in the face. Wet Squirrel. SPLAT! You know that look. It’s the look of someone who has NO IDEA what just happened. I think it is a fair assumption that only a small percentage of the Magic tournament"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "638126"
 [_metadata_:publish_date]:- "2005-08-25"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Starting From A 28,324-Card Deck"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-18 05:57:41+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-18 05:57:41"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018055741id_/https://magic.wizards.com/en/articles/archive/feature/starting-28324-card-deck-2005-08-25"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/starting-28324-card-deck-2005-08-25"
 ---

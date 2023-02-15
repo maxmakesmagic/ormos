@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Joshua Owens's Bant Control Format: Game in the Gulf Cruise Qualifier—Standard 2 Forest 3 Island 3 Plains 1 Flooded Grove 2 Mystic Gate 4 Seaside Citadel 3 Treetop Village 2 Wooded Bastion 4 Yavimaya Coast 2 Chameleon Colossus 4 Kitchen Finks 4 Rhox War Monk 2 Stoic Angel 3 Oblivion Ring 2 Shield of the Oversoul 4 Bant Charm 4 Cryptic Command 3 Hindering"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "669946"
 [_metadata_:publish_date]:- "2008-10-31"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Bant Control"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-23 05:56:21+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-23 05:56:21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023055621id_/https://magic.wizards.com/en/articles/archive/feature/bant-control-2008-10-31"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/bant-control-2008-10-31"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "FirstLastInvitation SourceRegional DateRegional CityRegional Country DaniloPrieto2008 National Championn/an/an/a DaniloPrieto2008 National Teamn/an/an/a PedroRodriguez2008 National Teamn/an/an/a CHARLESVELAZQUEZ2008 National Teamn/an/an/a JeanBaez2008 Alternaten/an/an/a DaniloPrietoPro Club 2+n/an/an/a PedroRodriguezPro Club 2+n/an/an/a CHARLESVELAZQUEZPro Club 2+n/an/an/a"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "730331"
 [_metadata_:publish_date]:- "2009-06-24"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2009 Campeonato Nacional Puerto Rico"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-25 11:11:12+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-25 11:11:12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525111112id_/https://magic.wizards.com/en/articles/archive/feature/2009-campeonato-nacional-puerto-rico-2009-06-24"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2009-campeonato-nacional-puerto-rico-2009-06-24"
 ---

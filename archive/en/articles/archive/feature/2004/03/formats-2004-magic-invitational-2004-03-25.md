@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "The preliminary rounds of the Magic Invitational will consist of fifteen matches (best two out of three) with each player facing off against every other player once. The two players with the best record at the end of the fifteen rounds will meet in the finals. The finals will consist of three matches (best two out of three games each) with the two finalists playing three of the five formats. The winner will be the first player to win matches in two formats."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "634661"
 [_metadata_:publish_date]:- "2004-03-25"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Formats for the 2004 Magic Invitational"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-29 08:05:04+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-29 08:05:04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171029080504id_/https://magic.wizards.com/en/articles/archive/feature/formats-2004-magic-invitational-2004-03-25"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/formats-2004-magic-invitational-2004-03-25"
 ---

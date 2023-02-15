@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "&#13; Last week was Graveyard Week, so I decided to start talking about the design of some graveyard cards, mechanics and sets I've done. Turns out that I'm kind of fond of the graveyard and have done more than my share of graveyard cards, enough that I wasn't able to fit it all into one column. Today I'll talk about some more contributions I've made to graveyard-based strategies."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "654371"
 [_metadata_:publish_date]:- "2011-11-21"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grave Consequences, Part 2"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-09 04:08:26+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-04-09 04:08:26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170409040826id_/http://magic.wizards.com/en/articles/archive/feature/grave-consequences-part-2-2011-11-21"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grave-consequences-part-2-2011-11-21"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "All Hallow's Eve – Legends rare. Happy Halloween! Here's a scaaaary tidbit that's been resurrected from the dead (by which we mean `March 2002`, when it was already used as Card of the Day): `All Hallow's Eve is one of a very few cards to be printed with the wrong card type. It says `Sorcery,` but has been officially errataed to `Enchantment` since it remains in play for two"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "664681"
 [_metadata_:publish_date]:- "2008-10-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Card of the Day - October, 2008"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-27 12:31:43+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-27 12:31:43"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220627123143id_/https://magic.wizards.com/en/articles/archive/feature/card-day-october-2008-2008-10-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-day-october-2008-2008-10-01"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mike Rosenberg"
 [_metadata_:description]:- "From tournaments to popular streamers, there's a lot of Magic to watch!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "260946"
 [_metadata_:publish_date]:- "2014-08-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic Viewing Guide, August 22 and Beyond"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-20 15:02:57+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-20 15:02:57"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020150257id_/https://magic.wizards.com/en/articles/archive/feature/magic-viewing-guide-august-22-and-beyond-2014-08-22"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-viewing-guide-august-22-and-beyond-2014-08-22"
 ---

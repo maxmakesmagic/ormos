@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Greg Collins"
 [_metadata_:description]:- "So you wanna watch some Magic? How do forty-three events across thirty-four weekends in 2014 grab you? Over the next twelve months, you'll be able to watch your favorite Magic players battle it out for fame, glory, big prizes, and the most elusive invitations in all of Magic—seats at the twenty-four-person Magic World Championship. All of this action will unfold before your"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "152366"
 [_metadata_:publish_date]:- "2014-01-14"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Live Video Coverage Schedule Expanding for 2014"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-20 17:37:09+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-20 17:37:09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520173709id_/https://magic.wizards.com/en/articles/archive/feature/live-video-coverage-schedule-expanding-2014-2014-01-14"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/live-video-coverage-schedule-expanding-2014-2014-01-14"
 ---

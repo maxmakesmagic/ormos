@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Team Points Opponent Points Metagames/LNT 12 vs trash AAA 12 gotta catch Kai 12 vs Two men and a baby ! 12 one day fly 12 vs Team Clegg 12 Amsterdam 12 vs Angstschreeuw 12 Stuchkaccolites * 10 vs Birds of paradise 10 Pannaburst 10 vs Black-Ops 9 AlphaBetaUnlimited.com 9 vs The Feebles 9 Triumviri 9 vs Is on my mind * 9 Babar Team * 9 vs library of alexandria 2 9 Cosmopolitan 9"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "806371"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 5 Pairings (by Table)"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-30 00:58:12+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-30 00:58:12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220630005812id_/https://magic.wizards.com/en/articles/archive/feature/round-5-pairings-table-2000-01-01-0"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-5-pairings-table-2000-01-01-0"
 ---

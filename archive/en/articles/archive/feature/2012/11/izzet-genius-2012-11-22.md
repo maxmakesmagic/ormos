@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "Ravnica, both the original and our return there, introduced us to many unique and memorable characters. Perhaps none were as memorable as the Firemind leader himself, Niv-Mizzet. Over at GatheringMagic.com, Jules Robins decided to tackle the smartest of all dragons, Niv-Mizzet, Dracogenius for his Commander column. And since this is Izzet week, what could be more appropriate?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "665801"
 [_metadata_:publish_date]:- "2012-11-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Izzet? Genius!"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-26 16:26:32+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-26 16:26:32"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220626162632id_/https://magic.wizards.com/en/articles/archive/feature/izzet-genius-2012-11-22"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/izzet-genius-2012-11-22"
 ---

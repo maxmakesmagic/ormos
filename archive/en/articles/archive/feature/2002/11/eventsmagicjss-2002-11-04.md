@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "North AmericaThe Junior Super Series has been replaced by the Magic: The Gathering Scholarship Series in North America.More information on the Scholarship SeriesEurope These tournaments are open to players of age 16 and under. Players with Pro Points may not play in the Junior Series. All Junior Series are open events, this means that you do not need an invitation to play in"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "731926"
 [_metadata_:publish_date]:- "2002-11-04"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "events_magic_jss"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-25 01:47:58+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-25 01:47:58"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025014758id_/https://magic.wizards.com/en/articles/archive/feature/eventsmagicjss-2002-11-04"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/eventsmagicjss-2002-11-04"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "A planeswalker and skilled knight, Elspeth wants nothing more than to sheathe her sword for the last time and find a plane to call home. Violence and destruction have a tendency to follow her, and she is constantly driven to take up arms and wield her defensive magic in the service of those who need her protection."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "636936"
 [_metadata_:publish_date]:- "2008-10-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Elspeth Tirel"
-[_metadata_:wayback_capture_timestamp]:- "2016-05-06 00:24:28+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-05-06 00:24:28"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160506002428id_/http://magic.wizards.com/en/articles/archive/feature/elspeth-tirel-2008-10-03"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/elspeth-tirel-2008-10-03"
 ---

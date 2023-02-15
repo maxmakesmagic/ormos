@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Date: 19 June 2011Location: Another World, Partizansky prospect, 146City: MinskCountry: BelarusThe Magic: the Gathering Belarus National Championship is open to all citizens or permanent residents of Belarus.Contact informationEmail: e.bulyshkin@gmail.comFormatStandard and Booster Draft 1 New Phyrexia, 1 Mirrodin Besieged, and 1 Scars of Mirrodin booster packs will be used for"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "729986"
 [_metadata_:publish_date]:- "2009-04-27"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2011 Belarus National Championship"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-21 23:20:46+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-21 23:20:46"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521232046id_/https://magic.wizards.com/en/articles/archive/feature/2011-belarus-national-championship-2009-04-27"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-belarus-national-championship-2009-04-27"
 ---

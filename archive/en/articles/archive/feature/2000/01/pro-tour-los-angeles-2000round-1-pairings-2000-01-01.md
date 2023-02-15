@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Table Opponent Abe, Kazufumi (145) 72 Meyer, Manuel (106) Alvarenga, Rafael (76) 8 Tan, John (258) Anzorena, Pablo (15) 20 Rudamilans, Enric (220) Auer, Jeffrey (104) 54 Ho, Lan D."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "950381"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-Los Angeles 2000Round 1 Pairings"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-26 17:48:39+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-26 17:48:39"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126174839id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-1-pairings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-1-pairings-2000-01-01"
 ---

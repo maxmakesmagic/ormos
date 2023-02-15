@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Jay Moldenhauer-Salazar"
 [_metadata_:description]:- "Recently a fellow named Sean wrote to me asking which Magic color is my favorite. I told him that green is very clearly my favorite (the other four colors pretty much tie for second) because of its emphasis on big creatures and stable mana. Indeed, my two most successful decks in tournament play were monogreen control decks."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "626011"
 [_metadata_:publish_date]:- "2002-10-24"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Forest for the Trees"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-09 13:51:36+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-09 13:51:36"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170609135136id_/http://magic.wizards.com/en/articles/archive/feature/forest-trees-2002-10-24"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/forest-trees-2002-10-24"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Jeremy Neeman - GP–Sydney Champ Format: Draft 7 Mountain 9 Plains 1 Auriok Replica 1 Blade-Tribe Berserkers 1 Glimmerpoint Stag 2 Glint Hawk 1 Gold Myr 1 Golem Artisan 1 Kemba's Skyguard 1 Leaden Myr 1 Oxidda Scrapmelter 1 Razor Hippogriff 1 Sunspear Shikari 2 Vulshok Heartstoker 2 Vulshok Replica 1 Accorder's Shield 1 Arrest 1 Dispense Justice 1 Origin"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "670271"
 [_metadata_:publish_date]:- "2010-10-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "GP–Sydney Champ"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-25 17:35:03+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-25 17:35:03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025173503id_/https://magic.wizards.com/en/articles/archive/feature/gp%E2%80%93sydney-champ-2010-10-18"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/gp%E2%80%93sydney-champ-2010-10-18"
 ---

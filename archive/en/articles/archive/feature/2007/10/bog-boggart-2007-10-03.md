@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210615005248/https://magic.wizards.com/en/articles/archive/feature/bog-boggart-2007-10-03)
+[Link to Wayback Machine](https://web.archive.org/web/20210430210445/https://magic.wizards.com/en/articles/archive/feature/bog-boggart-2007-10-03)
 
 [_metadata_:author]:- "Doug Beyer"
 [_metadata_:description]:- "Has Taste the Magic traveled through some sort of time rift? Has the server clock on magicthegathering.com gone all glitchy? Are there goblins in the server architecture? No! Taste the Magic is settling into its new home, Wednesdays at 12:00 a.m., 11 p.m. Central! But I'm glad you brought up the glitches and goblins, for that is relevant to today's discussion. Your car won't"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "622896"
 [_metadata_:publish_date]:- "2007-10-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Bog is for Boggart"
-[_metadata_:wayback_capture_timestamp]:- "2021-06-15 00:52:48+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210615005248id_/https://magic.wizards.com/en/articles/archive/feature/bog-boggart-2007-10-03"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-30 21:04:45"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210430210445id_/https://magic.wizards.com/en/articles/archive/feature/bog-boggart-2007-10-03"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/bog-boggart-2007-10-03"
 ---
 

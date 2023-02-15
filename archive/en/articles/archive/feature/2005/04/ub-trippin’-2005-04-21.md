@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "The most difficult hurdle in tuning a good deck is without a doubt `getting the mana right.` You might have your core idea down, you might iron out the last creature in the last slot of your deck, but sub-optimal mana decisions might not surface until you are deep into an actual tournament."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "627981"
 [_metadata_:publish_date]:- "2005-04-21"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "UB Trippin’"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-06 05:09:14+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-06 05:09:14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170606050914id_/http://magic.wizards.com/en/articles/archive/feature/ub-trippin%E2%80%99-2005-04-21"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/ub-trippin%E2%80%99-2005-04-21"
 ---

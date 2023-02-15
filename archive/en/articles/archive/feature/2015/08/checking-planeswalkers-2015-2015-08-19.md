@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20201128112004/https://magic.wizards.com/en/articles/archive/feature/checking-planeswalkers-2015-2015-08-19)
+[Link to Wayback Machine](https://web.archive.org/web/20190808075826/https://magic.wizards.com/en/articles/archive/feature/checking-planeswalkers-2015-2015-08-19)
 
 [_metadata_:author]:- "Mel Li"
 [_metadata_:description]:- "Mel takes us on a tour of the Multiverse and recaps the current storyline for every active Planeswalker."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "436596"
 [_metadata_:publish_date]:- "2015-08-19"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Checking in on the Planeswalkers (2015)"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-28 11:20:04+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201128112004id_/https://magic.wizards.com/en/articles/archive/feature/checking-planeswalkers-2015-2015-08-19"
+[_metadata_:wayback_capture_timestamp]:- "2019-08-08 07:58:26"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190808075826id_/https://magic.wizards.com/en/articles/archive/feature/checking-planeswalkers-2015-2015-08-19"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/checking-planeswalkers-2015-2015-08-19"
 ---
 

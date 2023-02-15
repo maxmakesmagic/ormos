@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Nathan Holt and Shawn Kornhauser"
 [_metadata_:description]:- "Walking the Planes goes inside Wizards HQ for the annual Community Cup."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "727581"
 [_metadata_:publish_date]:- "2015-10-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Walking the Planes, Episode 35: `The Takeover`"
-[_metadata_:wayback_capture_timestamp]:- "2015-10-04 06:09:32+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2015-10-04 06:09:32"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151004060932id_/http://magic.wizards.com/en/articles/archive/feature/walking-planes-episode-35-takeover-2015-10-01"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/walking-planes-episode-35-takeover-2015-10-01"
 ---

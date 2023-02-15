@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "StateCityEvent Date3rd round byeLocationAddressContact phoneWebsitePennsylvaniaPhiladelphia5/6/20051TBATBA800-324-6496WebsiteIllinoisChicago8/13/20051Pastimes Sports Cards, Comics & Games8478 Golf Rd800-324-6496WebsiteIndianaIndianapolis7/9/20051TBATBA800-324-6496WebsiteMontanaMissoula8/20/20051Stephens Center2100"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "736196"
 [_metadata_:publish_date]:- "2005-06-07"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Salt Lake City Trials"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-09 12:59:22+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-09 12:59:22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220809125922id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-salt-lake-city-trials-2005-06-07"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-salt-lake-city-trials-2005-06-07"
 ---

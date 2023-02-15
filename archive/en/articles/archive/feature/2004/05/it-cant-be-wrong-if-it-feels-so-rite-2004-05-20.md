@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "Let's delve into my personal archive of Magic humiliations and blunders. (Wow, this week is fun already!) Everyone has a story like this. Everyone has that awful, nightmarish trade they made when they didn't know any better. I'm not going to win any awards for mine, but let me tell ya—it's a real doozy."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "628626"
 [_metadata_:publish_date]:- "2004-05-20"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "It Can't Be Wrong If It Feels So Rite"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-07 09:11:31+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-07 09:11:31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170307091131id_/http://magic.wizards.com/en/articles/archive/feature/it-cant-be-wrong-if-it-feels-so-rite-2004-05-20"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/it-cant-be-wrong-if-it-feels-so-rite-2004-05-20"
 ---

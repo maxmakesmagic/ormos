@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Innistrad set introduced us to a world of gothic horror where humans lived in a tenuous balance with darker forces like vampires, werewolves, and zombies. Now the Dark Ascension set returns you to that world, but this time, the monsters are winning, and the humans have been forced to bar the gates of their settlements in defense. Your task is to search Innistrad’s new"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "656171"
 [_metadata_:publish_date]:- "2012-01-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The World of Dark Ascension"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 06:47:45+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 06:47:45"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429064745id_/https://magic.wizards.com/en/articles/archive/feature/world-dark-ascension-2012-01-09"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/world-dark-ascension-2012-01-09"
 ---

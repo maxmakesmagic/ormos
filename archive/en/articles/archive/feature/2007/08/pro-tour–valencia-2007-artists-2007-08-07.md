@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Terese NielsonTerese Nielsen has become one of the most recognized names in fantasy art. Her work has captured the imaginations and hearts of many as they are continually enchanted by powerful, inspiring images on everything from superhero trading cards to collectible card games, video game packaging, book covers and more. She has received many honors, awards and recognitions"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "641586"
 [_metadata_:publish_date]:- "2007-08-07"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour–Valencia 2007 Artists"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-30 00:19:32+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-30 00:19:32"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210430001932id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93valencia-2007-artists-2007-08-07"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93valencia-2007-artists-2007-08-07"
 ---

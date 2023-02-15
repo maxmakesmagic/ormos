@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "Yo yo yo, I'mma let you finish. But Ajani has the best team uniform of this core set. What, you don't believe me? Check this out. Ajani's Chosen is a new rare in Magic 2014 and they have the coolest team uniforms yet."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "649571"
 [_metadata_:publish_date]:- "2013-07-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Starry Eyed"
-[_metadata_:wayback_capture_timestamp]:- "2021-01-25 10:55:29+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-01-25 10:55:29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210125105529id_/https://magic.wizards.com/en/articles/archive/feature/starry-eyed-2013-07-18"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/starry-eyed-2013-07-18"
 ---

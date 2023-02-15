@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Sideboard Staff"
 [_metadata_:description]:- "The second Masters Series will be held at Pro Tour Chicago from November 30 to December 3. For information about Pro Tour Chicago 2000, click here. Location Hyatt Regency Chicago On the Riverwalk 151 East Wacker Drive Chicago, IL 60601 (312) 565-1234 Columbus Rooms I & J for Thursday Masters and Gateway, Pro Tour Feature Match area all other days."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "595666"
 [_metadata_:publish_date]:- "2015-09-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour - Chicago Masters Series"
-[_metadata_:wayback_capture_timestamp]:- "2021-07-25 05:28:21+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-07-25 05:28:21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210725052821id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-masters-series-2015-09-03"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-masters-series-2015-09-03"
 ---

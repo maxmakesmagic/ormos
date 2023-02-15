@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "By popular demand... Welcome to `Wallpapers of Wonder,` a magicthegathering.com feature where YOU select Magic card art to be made into desktop wallpapers by Wizards of the Coast's in-house graphic art staff. Seen the Wallpaper of the Week archive? Sad that your favorite card has never been turned into a delicious desktop wallpaper? Now you can nominate and vote for sixteen"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "606656"
 [_metadata_:publish_date]:- "2004-04-05"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Wallpapers of Wonder"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-29 20:14:03+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-29 20:14:03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220629201403id_/https://magic.wizards.com/en/articles/archive/feature/wallpapers-wonder-2004-04-05"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpapers-wonder-2004-04-05"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Bennie Smith"
 [_metadata_:description]:- "In the DNA?As I write this, it's Father's Day and I had a great time with my kids today. It was 95 degrees with relatively low humidity, and I busted out the inflatable pool for the first time this summer. Anna Marie (5 ½) and Aaron (nearly 4) had a grand time splashing in and out and getting chased by the water hose."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "620286"
 [_metadata_:publish_date]:- "2006-06-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Deck Challenge III!"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-26 12:05:58+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-26 12:05:58"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126120558id_/https://magic.wizards.com/en/articles/archive/feature/deck-challenge-iii-2006-06-22"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/deck-challenge-iii-2006-06-22"
 ---

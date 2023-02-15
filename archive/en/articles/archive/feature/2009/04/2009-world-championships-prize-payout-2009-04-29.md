@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "All Prizes USD"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "732501"
 [_metadata_:publish_date]:- "2009-04-29"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2009 World Championships Prize Payout"
-[_metadata_:wayback_capture_timestamp]:- "2020-08-15 11:30:22+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-08-15 11:30:22"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200815113022id_/https://magic.wizards.com/en/articles/archive/feature/2009-world-championships-prize-payout-2009-04-29"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2009-world-championships-prize-payout-2009-04-29"
 ---

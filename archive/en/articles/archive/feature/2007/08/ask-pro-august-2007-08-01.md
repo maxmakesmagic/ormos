@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20220928234939/https://magic.wizards.com/en/articles/archive/feature/ask-pro-august-2007-08-01)
+[Link to Wayback Machine](https://web.archive.org/web/20200922215729/https://magic.wizards.com/en/articles/archive/feature/ask-pro-august-2007-08-01)
 
 [_metadata_:author]:- "Wizards of the Coast"
-[_metadata_:description]:- "Wizards of the Coast welcomes Hall of Famer Raphaël Lévy as the featured player here at `Ask the Pro.` A fixture on the Pro Tour for the last eight years, Raphaël is uniquely positioned to answer your questions about the life of a professional Magic player, give a historical perspective on the game and high-level tournament scene, share stories about travelling the world, and"
+[_metadata_:description]:- "Wizards of the Coast welcomes Hall of Famer Raphaël Lévy as the featured player here at `Ask the Pro.` A fixture on the Pro Tour for the last eight years, Raphaël is uniquely positioned to answer your questions about the life of a professional Magic player, give a historical perspective on the game and high-level tournament scene, share stories about travelling the world, and talk about the role Magic plays in his life."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "609261"
 [_metadata_:publish_date]:- "2007-08-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Ask the Pro: August"
-[_metadata_:wayback_capture_timestamp]:- "2022-09-28 23:49:39+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220928234939id_/https://magic.wizards.com/en/articles/archive/feature/ask-pro-august-2007-08-01"
+[_metadata_:wayback_capture_timestamp]:- "2020-09-22 21:57:29"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200922215729id_/https://magic.wizards.com/en/articles/archive/feature/ask-pro-august-2007-08-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ask-pro-august-2007-08-01"
 ---
 
@@ -26,7 +28,7 @@ Ask the Pro: August
 
 
 
-![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
 By Wizards of the Coast
 
 
@@ -343,7 +345,7 @@ Slivers have been out since *Tempest*, and have known a very limited success. I 
 **PT LA '98, Tempest Block Constructed (only Tempest at that time)**
 
 
-Ben Rubin piloted a [Living Death](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Living+Death) deck featuring [Mindwhip Sliver](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mindwhip+Sliver) and [Mnemonic Sliver](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mnemonic+Sliver) to the finals of the tournament, eventually losing to David Price. During that tournament, I remember that Team CMU was playing a monogreen deck that included [Metallic Sliver](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Metallic+Sliver)s, [Muscle Sliver](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Muscle+Sliver)s and [Horned Sliver](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Horned+Sliver)s along with Land Destruction This was the first opportunity Slivers could be played, and they haven't really shone much. Here's the list, courtesy of Randy's article "[The Elephant and the Armodon](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/rb22)". 
+Ben Rubin piloted a [Living Death](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Living+Death) deck featuring [Mindwhip Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mindwhip+Sliver) and [Mnemonic Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mnemonic+Sliver) to the finals of the tournament, eventually losing to David Price. During that tournament, I remember that Team CMU was playing a monogreen deck that included [Metallic Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Metallic+Sliver)s, [Muscle Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Muscle+Sliver)s and [Horned Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Horned+Sliver)s along with Land Destruction This was the first opportunity Slivers could be played, and they haven't really shone much. Here's the list, courtesy of Randy's article "[The Elephant and the Armodon](http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/rb22)". 
 
 
 
@@ -389,27 +391,27 @@ OverviewColorCostRarity
 
 
 4
-[Skyshroud Ranger](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkyshroud%5D+%5BRanger%5D)
+[Skyshroud Ranger](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkyshroud%5D+%5BRanger%5D)
 
 
 4
-[Metallic Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMetallic%5D+%5BSliver%5D)
+[Metallic Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMetallic%5D+%5BSliver%5D)
 
 
 4
-[Muscle Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMuscle%5D+%5BSliver%5D)
+[Muscle Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMuscle%5D+%5BSliver%5D)
 
 
 4
-[Horned Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHorned%5D+%5BSliver%5D)
+[Horned Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHorned%5D+%5BSliver%5D)
 
 
 4
-[Rootwalla](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRootwalla%5D)
+[Rootwalla](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRootwalla%5D)
 
 
 3
-[Trained Armodon](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrained%5D+%5BArmodon%5D)
+[Trained Armodon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrained%5D+%5BArmodon%5D)
 
 
 
@@ -418,7 +420,7 @@ OverviewColorCostRarity
 
 
 4
-[Winter's Grasp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWinter%5D+%5BGrasp%5D)
+[Winter's Grasp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWinter%5D+%5BGrasp%5D)
 
 
 
@@ -427,7 +429,7 @@ OverviewColorCostRarity
 
 
 4
-[Elvish Fury](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BFury%5D)
+[Elvish Fury](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BFury%5D)
 
 
 
@@ -436,7 +438,7 @@ OverviewColorCostRarity
 
 
 4
-[Cursed Scroll](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCursed%5D+%5BScroll%5D)
+[Cursed Scroll](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCursed%5D+%5BScroll%5D)
 
 
 
@@ -445,15 +447,15 @@ OverviewColorCostRarity
 
 
 18
-[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
 
 
 4
-[Wasteland](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWasteland%5D)
+[Wasteland](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWasteland%5D)
 
 
 3
-[Ancient Tomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BTomb%5D)
+[Ancient Tomb](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BTomb%5D)
 
 
 60 Cards 
@@ -465,31 +467,31 @@ OverviewColorCostRarity
 
 
 4
-[Skyshroud Ranger](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkyshroud%5D+%5BRanger%5D)
+[Skyshroud Ranger](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkyshroud%5D+%5BRanger%5D)
 
 
 4
-[Muscle Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMuscle%5D+%5BSliver%5D)
+[Muscle Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMuscle%5D+%5BSliver%5D)
 
 
 4
-[Horned Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHorned%5D+%5BSliver%5D)
+[Horned Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHorned%5D+%5BSliver%5D)
 
 
 4
-[Rootwalla](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRootwalla%5D)
+[Rootwalla](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRootwalla%5D)
 
 
 3
-[Trained Armodon](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrained%5D+%5BArmodon%5D)
+[Trained Armodon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrained%5D+%5BArmodon%5D)
 
 
 4
-[Winter's Grasp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWinter%5D+%5BGrasp%5D)
+[Winter's Grasp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWinter%5D+%5BGrasp%5D)
 
 
 4
-[Elvish Fury](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BFury%5D)
+[Elvish Fury](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BFury%5D)
 
 
 
@@ -498,23 +500,23 @@ OverviewColorCostRarity
 
 
 18
-[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
 
 
 4
-[Wasteland](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWasteland%5D)
+[Wasteland](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWasteland%5D)
 
 
 3
-[Ancient Tomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BTomb%5D)
+[Ancient Tomb](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BTomb%5D)
 
 
 4
-[Metallic Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMetallic%5D+%5BSliver%5D)
+[Metallic Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMetallic%5D+%5BSliver%5D)
 
 
 4
-[Cursed Scroll](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCursed%5D+%5BScroll%5D)
+[Cursed Scroll](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCursed%5D+%5BScroll%5D)
 
 
 60 Cards 
@@ -526,19 +528,19 @@ OverviewColorCostRarity
 
 
 4
-[Skyshroud Ranger](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkyshroud%5D+%5BRanger%5D)
+[Skyshroud Ranger](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkyshroud%5D+%5BRanger%5D)
 
 
 4
-[Metallic Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMetallic%5D+%5BSliver%5D)
+[Metallic Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMetallic%5D+%5BSliver%5D)
 
 
 4
-[Elvish Fury](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BFury%5D)
+[Elvish Fury](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BFury%5D)
 
 
 4
-[Cursed Scroll](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCursed%5D+%5BScroll%5D)
+[Cursed Scroll](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCursed%5D+%5BScroll%5D)
 
 
 
@@ -547,7 +549,7 @@ OverviewColorCostRarity
 
 
 4
-[Muscle Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMuscle%5D+%5BSliver%5D)
+[Muscle Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMuscle%5D+%5BSliver%5D)
 
 
 
@@ -556,19 +558,19 @@ OverviewColorCostRarity
 
 
 4
-[Horned Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHorned%5D+%5BSliver%5D)
+[Horned Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHorned%5D+%5BSliver%5D)
 
 
 4
-[Rootwalla](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRootwalla%5D)
+[Rootwalla](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRootwalla%5D)
 
 
 3
-[Trained Armodon](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrained%5D+%5BArmodon%5D)
+[Trained Armodon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrained%5D+%5BArmodon%5D)
 
 
 4
-[Winter's Grasp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWinter%5D+%5BGrasp%5D)
+[Winter's Grasp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWinter%5D+%5BGrasp%5D)
 
 
 35 Cards 
@@ -580,35 +582,35 @@ OverviewColorCostRarity
 
 
 18
-[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
 
 
 4
-[Skyshroud Ranger](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkyshroud%5D+%5BRanger%5D)
+[Skyshroud Ranger](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkyshroud%5D+%5BRanger%5D)
 
 
 4
-[Metallic Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMetallic%5D+%5BSliver%5D)
+[Metallic Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMetallic%5D+%5BSliver%5D)
 
 
 4
-[Muscle Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMuscle%5D+%5BSliver%5D)
+[Muscle Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMuscle%5D+%5BSliver%5D)
 
 
 4
-[Horned Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHorned%5D+%5BSliver%5D)
+[Horned Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHorned%5D+%5BSliver%5D)
 
 
 4
-[Rootwalla](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRootwalla%5D)
+[Rootwalla](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRootwalla%5D)
 
 
 3
-[Trained Armodon](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrained%5D+%5BArmodon%5D)
+[Trained Armodon](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrained%5D+%5BArmodon%5D)
 
 
 4
-[Elvish Fury](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BFury%5D)
+[Elvish Fury](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElvish%5D+%5BFury%5D)
 
 
 
@@ -617,7 +619,7 @@ OverviewColorCostRarity
 
 
 4
-[Winter's Grasp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWinter%5D+%5BGrasp%5D)
+[Winter's Grasp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWinter%5D+%5BGrasp%5D)
 
 
 
@@ -626,15 +628,15 @@ OverviewColorCostRarity
 
 
 4
-[Wasteland](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWasteland%5D)
+[Wasteland](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWasteland%5D)
 
 
 3
-[Ancient Tomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BTomb%5D)
+[Ancient Tomb](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BTomb%5D)
 
 
 4
-[Cursed Scroll](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCursed%5D+%5BScroll%5D)
+[Cursed Scroll](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCursed%5D+%5BScroll%5D)
 
 
 60 Cards 
@@ -642,7 +644,7 @@ OverviewColorCostRarity
 
 
 
-![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Forest)
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Forest)
 
 
 
@@ -664,7 +666,7 @@ OverviewColorCostRarity
 **PT Chicago '99, Extended**
 
 
-Christian Luhrs took his Counter Sliver deck to the Top 8. Crystalline, [Hibernation](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hibernation), Muscle, Winged and [Acidic Sliver](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Acidic+Sliver)s could be played on a Sunday, while I was myself bringing the [Sliver Queen](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sliver+Queen) to the mix on another table on the same day.
+Christian Luhrs took his Counter Sliver deck to the Top 8. Crystalline, [Hibernation](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hibernation), Muscle, Winged and [Acidic Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Acidic+Sliver)s could be played on a Sunday, while I was myself bringing the [Sliver Queen](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sliver+Queen) to the mix on another table on the same day.
 
 
 
@@ -710,23 +712,23 @@ OverviewColorCostRarity
 
 
 4
-[Acidic Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAcidic%5D+%5BSliver%5D)
+[Acidic Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAcidic%5D+%5BSliver%5D)
 
 
 4
-[Crystalline Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrystalline%5D+%5BSliver%5D)
+[Crystalline Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrystalline%5D+%5BSliver%5D)
 
 
 4
-[Hibernation Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHibernation%5D+%5BSliver%5D)
+[Hibernation Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHibernation%5D+%5BSliver%5D)
 
 
 4
-[Muscle Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMuscle%5D+%5BSliver%5D)
+[Muscle Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMuscle%5D+%5BSliver%5D)
 
 
 4
-[Winged Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWinged%5D+%5BSliver%5D)
+[Winged Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWinged%5D+%5BSliver%5D)
 
 
 
@@ -735,27 +737,27 @@ OverviewColorCostRarity
 
 
 4
-[Counterspell](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCounterspell%5D)
+[Counterspell](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCounterspell%5D)
 
 
 3
-[Demonic Consultation](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BConsultation%5D)
+[Demonic Consultation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BConsultation%5D)
 
 
 2
-[Disenchant](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisenchant%5D)
+[Disenchant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisenchant%5D)
 
 
 4
-[Force of Will](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BWill%5D)
+[Force of Will](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BWill%5D)
 
 
 2
-[Misdirection](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMisdirection%5D)
+[Misdirection](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMisdirection%5D)
 
 
 2
-[Swords to Plowshares](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwords%5D+%5Bto%5D+%5BPlowshares%5D)
+[Swords to Plowshares](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwords%5D+%5Bto%5D+%5BPlowshares%5D)
 
 
 
@@ -764,39 +766,39 @@ OverviewColorCostRarity
 
 
 4
-[City of Brass](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCity%5D+%5Bof%5D+%5BBrass%5D)
+[City of Brass](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCity%5D+%5Bof%5D+%5BBrass%5D)
 
 
 4
-[Flood Plain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlood%5D+%5BPlain%5D)
+[Flood Plain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlood%5D+%5BPlain%5D)
 
 
 2
-[Gemstone Mine](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGemstone%5D+%5BMine%5D)
+[Gemstone Mine](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGemstone%5D+%5BMine%5D)
 
 
 2
-[Undiscovered Paradise](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUndiscovered%5D+%5BParadise%5D)
+[Undiscovered Paradise](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUndiscovered%5D+%5BParadise%5D)
 
 
 2
-[Scrubland](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScrubland%5D)
+[Scrubland](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScrubland%5D)
 
 
 1
-[Tropical Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTropical%5D+%5BIsland%5D)
+[Tropical Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTropical%5D+%5BIsland%5D)
 
 
 3
-[Tundra](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTundra%5D)
+[Tundra](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTundra%5D)
 
 
 4
-[Underground Sea](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BSea%5D)
+[Underground Sea](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BSea%5D)
 
 
 1
-[Volcanic Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVolcanic%5D+%5BIsland%5D)
+[Volcanic Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVolcanic%5D+%5BIsland%5D)
 
 
 60 Cards 
@@ -807,27 +809,27 @@ OverviewColorCostRarity
 
 
 2
-[Disenchant](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisenchant%5D)
+[Disenchant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisenchant%5D)
 
 
 2
-[Swords to Plowshares](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwords%5D+%5Bto%5D+%5BPlowshares%5D)
+[Swords to Plowshares](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwords%5D+%5Bto%5D+%5BPlowshares%5D)
 
 
 3
-[Perish](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPerish%5D)
+[Perish](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPerish%5D)
 
 
 3
-[Hydroblast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHydroblast%5D)
+[Hydroblast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHydroblast%5D)
 
 
 2
-[Honorable Passage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHonorable%5D+%5BPassage%5D)
+[Honorable Passage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHonorable%5D+%5BPassage%5D)
 
 
 3
-[Honor the Fallen](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHonor%5D+%5Bthe%5D+%5BFallen%5D)
+[Honor the Fallen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHonor%5D+%5Bthe%5D+%5BFallen%5D)
 
 
 
@@ -837,19 +839,19 @@ OverviewColorCostRarity
 
 
 4
-[Disenchant](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisenchant%5D)
+[Disenchant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisenchant%5D)
 
 
 4
-[Swords to Plowshares](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwords%5D+%5Bto%5D+%5BPlowshares%5D)
+[Swords to Plowshares](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwords%5D+%5Bto%5D+%5BPlowshares%5D)
 
 
 2
-[Honorable Passage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHonorable%5D+%5BPassage%5D)
+[Honorable Passage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHonorable%5D+%5BPassage%5D)
 
 
 3
-[Honor the Fallen](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHonor%5D+%5Bthe%5D+%5BFallen%5D)
+[Honor the Fallen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHonor%5D+%5Bthe%5D+%5BFallen%5D)
 
 
 
@@ -858,23 +860,23 @@ OverviewColorCostRarity
 
 
 4
-[Winged Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWinged%5D+%5BSliver%5D)
+[Winged Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWinged%5D+%5BSliver%5D)
 
 
 4
-[Counterspell](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCounterspell%5D)
+[Counterspell](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCounterspell%5D)
 
 
 4
-[Force of Will](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BWill%5D)
+[Force of Will](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BWill%5D)
 
 
 2
-[Misdirection](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMisdirection%5D)
+[Misdirection](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMisdirection%5D)
 
 
 3
-[Hydroblast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHydroblast%5D)
+[Hydroblast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHydroblast%5D)
 
 
 
@@ -883,11 +885,11 @@ OverviewColorCostRarity
 
 
 3
-[Demonic Consultation](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BConsultation%5D)
+[Demonic Consultation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BConsultation%5D)
 
 
 3
-[Perish](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPerish%5D)
+[Perish](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPerish%5D)
 
 
 
@@ -896,7 +898,7 @@ OverviewColorCostRarity
 
 
 4
-[Muscle Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMuscle%5D+%5BSliver%5D)
+[Muscle Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMuscle%5D+%5BSliver%5D)
 
 
 
@@ -905,15 +907,15 @@ OverviewColorCostRarity
 
 
 4
-[Acidic Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAcidic%5D+%5BSliver%5D)
+[Acidic Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAcidic%5D+%5BSliver%5D)
 
 
 4
-[Crystalline Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrystalline%5D+%5BSliver%5D)
+[Crystalline Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrystalline%5D+%5BSliver%5D)
 
 
 4
-[Hibernation Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHibernation%5D+%5BSliver%5D)
+[Hibernation Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHibernation%5D+%5BSliver%5D)
 
 
 
@@ -922,39 +924,39 @@ OverviewColorCostRarity
 
 
 4
-[City of Brass](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCity%5D+%5Bof%5D+%5BBrass%5D)
+[City of Brass](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCity%5D+%5Bof%5D+%5BBrass%5D)
 
 
 4
-[Flood Plain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlood%5D+%5BPlain%5D)
+[Flood Plain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlood%5D+%5BPlain%5D)
 
 
 2
-[Gemstone Mine](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGemstone%5D+%5BMine%5D)
+[Gemstone Mine](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGemstone%5D+%5BMine%5D)
 
 
 2
-[Undiscovered Paradise](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUndiscovered%5D+%5BParadise%5D)
+[Undiscovered Paradise](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUndiscovered%5D+%5BParadise%5D)
 
 
 2
-[Scrubland](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScrubland%5D)
+[Scrubland](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScrubland%5D)
 
 
 1
-[Tropical Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTropical%5D+%5BIsland%5D)
+[Tropical Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTropical%5D+%5BIsland%5D)
 
 
 3
-[Tundra](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTundra%5D)
+[Tundra](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTundra%5D)
 
 
 4
-[Underground Sea](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BSea%5D)
+[Underground Sea](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BSea%5D)
 
 
 1
-[Volcanic Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVolcanic%5D+%5BIsland%5D)
+[Volcanic Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVolcanic%5D+%5BIsland%5D)
 
 
 75 Cards 
@@ -966,15 +968,15 @@ OverviewColorCostRarity
 
 
 3
-[Demonic Consultation](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BConsultation%5D)
+[Demonic Consultation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BConsultation%5D)
 
 
 4
-[Swords to Plowshares](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwords%5D+%5Bto%5D+%5BPlowshares%5D)
+[Swords to Plowshares](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwords%5D+%5Bto%5D+%5BPlowshares%5D)
 
 
 3
-[Hydroblast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHydroblast%5D)
+[Hydroblast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHydroblast%5D)
 
 
 
@@ -983,39 +985,39 @@ OverviewColorCostRarity
 
 
 4
-[Acidic Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAcidic%5D+%5BSliver%5D)
+[Acidic Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAcidic%5D+%5BSliver%5D)
 
 
 4
-[Crystalline Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrystalline%5D+%5BSliver%5D)
+[Crystalline Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrystalline%5D+%5BSliver%5D)
 
 
 4
-[Hibernation Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHibernation%5D+%5BSliver%5D)
+[Hibernation Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHibernation%5D+%5BSliver%5D)
 
 
 4
-[Muscle Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMuscle%5D+%5BSliver%5D)
+[Muscle Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMuscle%5D+%5BSliver%5D)
 
 
 4
-[Winged Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWinged%5D+%5BSliver%5D)
+[Winged Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWinged%5D+%5BSliver%5D)
 
 
 4
-[Counterspell](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCounterspell%5D)
+[Counterspell](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCounterspell%5D)
 
 
 4
-[Disenchant](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisenchant%5D)
+[Disenchant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisenchant%5D)
 
 
 2
-[Honorable Passage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHonorable%5D+%5BPassage%5D)
+[Honorable Passage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHonorable%5D+%5BPassage%5D)
 
 
 3
-[Honor the Fallen](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHonor%5D+%5Bthe%5D+%5BFallen%5D)
+[Honor the Fallen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHonor%5D+%5Bthe%5D+%5BFallen%5D)
 
 
 
@@ -1024,7 +1026,7 @@ OverviewColorCostRarity
 
 
 3
-[Perish](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPerish%5D)
+[Perish](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPerish%5D)
 
 
 
@@ -1033,84 +1035,84 @@ OverviewColorCostRarity
 
 
 4
-[Force of Will](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BWill%5D)
+[Force of Will](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BWill%5D)
 
 
 2
-[Misdirection](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMisdirection%5D)
+[Misdirection](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMisdirection%5D)
 
 
 52 Cards 
 
 
 
-##### Common (23)
+##### Common (27)
 
 
 
 2
-[Gemstone Mine](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGemstone%5D+%5BMine%5D)
+[Gemstone Mine](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGemstone%5D+%5BMine%5D)
 
 
 4
-[Muscle Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMuscle%5D+%5BSliver%5D)
+[Muscle Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMuscle%5D+%5BSliver%5D)
 
 
 4
-[Winged Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWinged%5D+%5BSliver%5D)
+[Winged Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWinged%5D+%5BSliver%5D)
 
 
 4
-[Disenchant](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisenchant%5D)
+[Counterspell](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCounterspell%5D)
 
 
 4
-[Force of Will](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BWill%5D)
+[Disenchant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisenchant%5D)
+
+
+4
+[Force of Will](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BWill%5D)
 
 
 3
-[Hydroblast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHydroblast%5D)
+[Hydroblast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHydroblast%5D)
 
 
 2
-[Honorable Passage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHonorable%5D+%5BPassage%5D)
+[Honorable Passage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHonorable%5D+%5BPassage%5D)
 
 
 
-##### Uncommon (30)
+##### Uncommon (26)
 
 
 
 4
-[Flood Plain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlood%5D+%5BPlain%5D)
+[Flood Plain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlood%5D+%5BPlain%5D)
 
 
 4
-[Acidic Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAcidic%5D+%5BSliver%5D)
+[Acidic Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAcidic%5D+%5BSliver%5D)
 
 
 4
-[Crystalline Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrystalline%5D+%5BSliver%5D)
+[Crystalline Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrystalline%5D+%5BSliver%5D)
 
 
 4
-[Hibernation Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHibernation%5D+%5BSliver%5D)
-
-
-4
-[Counterspell](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCounterspell%5D)
+[Hibernation Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHibernation%5D+%5BSliver%5D)
 
 
 3
-[Demonic Consultation](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BConsultation%5D)
+[Demonic Consultation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDemonic%5D+%5BConsultation%5D)
 
 
 4
-[Swords to Plowshares](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwords%5D+%5Bto%5D+%5BPlowshares%5D)
+[Swords to Plowshares](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwords%5D+%5Bto%5D+%5BPlowshares%5D)
 
 
 3
-[Perish](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPerish%5D)
+[Perish](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPerish%5D)
 
 
 
@@ -1119,39 +1121,39 @@ OverviewColorCostRarity
 
 
 4
-[City of Brass](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCity%5D+%5Bof%5D+%5BBrass%5D)
+[City of Brass](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCity%5D+%5Bof%5D+%5BBrass%5D)
 
 
 2
-[Undiscovered Paradise](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUndiscovered%5D+%5BParadise%5D)
+[Undiscovered Paradise](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUndiscovered%5D+%5BParadise%5D)
 
 
 2
-[Scrubland](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScrubland%5D)
+[Scrubland](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScrubland%5D)
 
 
 1
-[Tropical Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTropical%5D+%5BIsland%5D)
+[Tropical Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTropical%5D+%5BIsland%5D)
 
 
 3
-[Tundra](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTundra%5D)
+[Tundra](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTundra%5D)
 
 
 4
-[Underground Sea](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BSea%5D)
+[Underground Sea](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnderground%5D+%5BSea%5D)
 
 
 1
-[Volcanic Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVolcanic%5D+%5BIsland%5D)
+[Volcanic Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVolcanic%5D+%5BIsland%5D)
 
 
 2
-[Misdirection](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMisdirection%5D)
+[Misdirection](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMisdirection%5D)
 
 
 3
-[Honor the Fallen](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHonor%5D+%5Bthe%5D+%5BFallen%5D)
+[Honor the Fallen](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHonor%5D+%5Bthe%5D+%5BFallen%5D)
 
 
 75 Cards 
@@ -1159,7 +1161,7 @@ OverviewColorCostRarity
 
 
 
-![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=City+of+Brass)
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=City+of+Brass)
 
 
 
@@ -1181,7 +1183,7 @@ OverviewColorCostRarity
 **GP Montréal '07, Time Spiral Block Constructed**
 
 
-Guillaume Wafo Tapa brought the Slivers back to the top tables along with [Wild Pair](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wild+Pair), a deck that had been played with less success during PT Yokohama a few months prior that tournament. Dormant, Frenetic, Reflex, Harmonic, Might, Darkheart, Gemhide, [Telekinetic Sliver](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Telekinetic+Sliver)s added their name to the "not so succesful in high level tournament" sliver family. ([Necrotic Sliver](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Necrotic+Sliver) is featuring in some versions of the deck as well.)
+Guillaume Wafo Tapa brought the Slivers back to the top tables along with [Wild Pair](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wild+Pair), a deck that had been played with less success during PT Yokohama a few months prior that tournament. Dormant, Frenetic, Reflex, Harmonic, Might, Darkheart, Gemhide, [Telekinetic Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Telekinetic+Sliver)s added their name to the "not so succesful in high level tournament" sliver family. ([Necrotic Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Necrotic+Sliver) is featuring in some versions of the deck as well.)
 
 
 
@@ -1227,47 +1229,47 @@ OverviewColorCostRarity
 
 
 1
-[Whitemane Lion](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWhitemane%5D+%5BLion%5D)
+[Whitemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWhitemane%5D+%5BLion%5D)
 
 
 4
-[Wall of Roots](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWall%5D+%5Bof%5D+%5BRoots%5D)
+[Wall of Roots](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWall%5D+%5Bof%5D+%5BRoots%5D)
 
 
 4
-[Gemhide Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGemhide%5D+%5BSliver%5D)
+[Gemhide Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGemhide%5D+%5BSliver%5D)
 
 
 4
-[Dormant Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDormant%5D+%5BSliver%5D)
+[Dormant Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDormant%5D+%5BSliver%5D)
 
 
 3
-[Telekinetic Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTelekinetic%5D+%5BSliver%5D)
+[Telekinetic Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTelekinetic%5D+%5BSliver%5D)
 
 
 1
-[Reflex Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReflex%5D+%5BSliver%5D)
+[Reflex Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReflex%5D+%5BSliver%5D)
 
 
 1
-[Darkheart Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarkheart%5D+%5BSliver%5D)
+[Darkheart Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarkheart%5D+%5BSliver%5D)
 
 
 3
-[Frenetic Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFrenetic%5D+%5BSliver%5D)
+[Frenetic Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFrenetic%5D+%5BSliver%5D)
 
 
 1
-[Mystic Snake](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystic%5D+%5BSnake%5D)
+[Mystic Snake](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystic%5D+%5BSnake%5D)
 
 
 1
-[Venser, Shaper Savant](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVenser,%5D+%5BShaper%5D+%5BSavant%5D)
+[Venser, Shaper Savant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVenser,%5D+%5BShaper%5D+%5BSavant%5D)
 
 
 1
-[Might Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMight%5D+%5BSliver%5D)
+[Might Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMight%5D+%5BSliver%5D)
 
 
 
@@ -1276,7 +1278,7 @@ OverviewColorCostRarity
 
 
 4
-[Foresee](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForesee%5D)
+[Foresee](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForesee%5D)
 
 
 
@@ -1285,7 +1287,7 @@ OverviewColorCostRarity
 
 
 4
-[Coalition Relic](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCoalition%5D+%5BRelic%5D)
+[Coalition Relic](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCoalition%5D+%5BRelic%5D)
 
 
 
@@ -1294,11 +1296,11 @@ OverviewColorCostRarity
 
 
 4
-[Wild Pair](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BPair%5D)
+[Wild Pair](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BPair%5D)
 
 
 2
-[Take Possession](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTake%5D+%5BPossession%5D)
+[Take Possession](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTake%5D+%5BPossession%5D)
 
 
 
@@ -1307,35 +1309,35 @@ OverviewColorCostRarity
 
 
 4
-[Terramorphic Expanse](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTerramorphic%5D+%5BExpanse%5D)
+[Terramorphic Expanse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTerramorphic%5D+%5BExpanse%5D)
 
 
 1
-[Pendelhaven](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPendelhaven%5D)
+[Pendelhaven](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPendelhaven%5D)
 
 
 4
-[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
 
 
 6
-[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
 
 
 1
-[Urza's Factory](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BFactory%5D)
+[Urza's Factory](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BFactory%5D)
 
 
 4
-[Grove of the Burnwillows](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrove%5D+%5Bof%5D+%5Bthe%5D+%5BBurnwillows%5D)
+[Grove of the Burnwillows](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrove%5D+%5Bof%5D+%5Bthe%5D+%5BBurnwillows%5D)
 
 
 1
-[Plains](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
 
 
 1
-[Mountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
 
 
 60 Cards 
@@ -1346,43 +1348,43 @@ OverviewColorCostRarity
 
 
 1
-[Whitemane Lion](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWhitemane%5D+%5BLion%5D)
+[Whitemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWhitemane%5D+%5BLion%5D)
 
 
 1
-[Telekinetic Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTelekinetic%5D+%5BSliver%5D)
+[Telekinetic Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTelekinetic%5D+%5BSliver%5D)
 
 
 1
-[Frenetic Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFrenetic%5D+%5BSliver%5D)
+[Frenetic Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFrenetic%5D+%5BSliver%5D)
 
 
 1
-[Mystic Snake](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystic%5D+%5BSnake%5D)
+[Mystic Snake](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystic%5D+%5BSnake%5D)
 
 
 2
-[Extirpate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExtirpate%5D)
+[Extirpate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExtirpate%5D)
 
 
 3
-[Detritivore](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDetritivore%5D)
+[Detritivore](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDetritivore%5D)
 
 
 3
-[Riftsweeper](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRiftsweeper%5D)
+[Riftsweeper](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRiftsweeper%5D)
 
 
 1
-[Sliver Legion](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSliver%5D+%5BLegion%5D)
+[Sliver Legion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSliver%5D+%5BLegion%5D)
 
 
 1
-[Teneb, the Harvester](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTeneb,%5D+%5Bthe%5D+%5BHarvester%5D)
+[Teneb, the Harvester](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTeneb,%5D+%5Bthe%5D+%5BHarvester%5D)
 
 
 1
-[Vesuva](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVesuva%5D)
+[Vesuva](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVesuva%5D)
 
 
 
@@ -1392,7 +1394,7 @@ OverviewColorCostRarity
 
 
 2
-[Whitemane Lion](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWhitemane%5D+%5BLion%5D)
+[Whitemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWhitemane%5D+%5BLion%5D)
 
 
 
@@ -1401,19 +1403,19 @@ OverviewColorCostRarity
 
 
 4
-[Telekinetic Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTelekinetic%5D+%5BSliver%5D)
+[Telekinetic Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTelekinetic%5D+%5BSliver%5D)
 
 
 1
-[Venser, Shaper Savant](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVenser,%5D+%5BShaper%5D+%5BSavant%5D)
+[Venser, Shaper Savant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVenser,%5D+%5BShaper%5D+%5BSavant%5D)
 
 
 4
-[Foresee](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForesee%5D)
+[Foresee](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForesee%5D)
 
 
 2
-[Take Possession](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTake%5D+%5BPossession%5D)
+[Take Possession](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTake%5D+%5BPossession%5D)
 
 
 
@@ -1422,7 +1424,7 @@ OverviewColorCostRarity
 
 
 2
-[Extirpate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExtirpate%5D)
+[Extirpate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExtirpate%5D)
 
 
 
@@ -1431,7 +1433,7 @@ OverviewColorCostRarity
 
 
 3
-[Detritivore](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDetritivore%5D)
+[Detritivore](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDetritivore%5D)
 
 
 
@@ -1440,27 +1442,27 @@ OverviewColorCostRarity
 
 
 4
-[Wall of Roots](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWall%5D+%5Bof%5D+%5BRoots%5D)
+[Wall of Roots](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWall%5D+%5Bof%5D+%5BRoots%5D)
 
 
 4
-[Gemhide Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGemhide%5D+%5BSliver%5D)
+[Gemhide Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGemhide%5D+%5BSliver%5D)
 
 
 1
-[Reflex Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReflex%5D+%5BSliver%5D)
+[Reflex Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReflex%5D+%5BSliver%5D)
 
 
 1
-[Might Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMight%5D+%5BSliver%5D)
+[Might Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMight%5D+%5BSliver%5D)
 
 
 4
-[Wild Pair](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BPair%5D)
+[Wild Pair](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BPair%5D)
 
 
 3
-[Riftsweeper](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRiftsweeper%5D)
+[Riftsweeper](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRiftsweeper%5D)
 
 
 
@@ -1469,27 +1471,27 @@ OverviewColorCostRarity
 
 
 4
-[Dormant Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDormant%5D+%5BSliver%5D)
+[Dormant Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDormant%5D+%5BSliver%5D)
 
 
 1
-[Darkheart Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarkheart%5D+%5BSliver%5D)
+[Darkheart Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarkheart%5D+%5BSliver%5D)
 
 
 4
-[Frenetic Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFrenetic%5D+%5BSliver%5D)
+[Frenetic Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFrenetic%5D+%5BSliver%5D)
 
 
 2
-[Mystic Snake](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystic%5D+%5BSnake%5D)
+[Mystic Snake](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystic%5D+%5BSnake%5D)
 
 
 1
-[Sliver Legion](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSliver%5D+%5BLegion%5D)
+[Sliver Legion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSliver%5D+%5BLegion%5D)
 
 
 1
-[Teneb, the Harvester](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTeneb,%5D+%5Bthe%5D+%5BHarvester%5D)
+[Teneb, the Harvester](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTeneb,%5D+%5Bthe%5D+%5BHarvester%5D)
 
 
 
@@ -1498,43 +1500,43 @@ OverviewColorCostRarity
 
 
 4
-[Terramorphic Expanse](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTerramorphic%5D+%5BExpanse%5D)
+[Terramorphic Expanse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTerramorphic%5D+%5BExpanse%5D)
 
 
 1
-[Pendelhaven](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPendelhaven%5D)
+[Pendelhaven](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPendelhaven%5D)
 
 
 4
-[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
 
 
 6
-[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
 
 
 1
-[Urza's Factory](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BFactory%5D)
+[Urza's Factory](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BFactory%5D)
 
 
 4
-[Grove of the Burnwillows](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrove%5D+%5Bof%5D+%5Bthe%5D+%5BBurnwillows%5D)
+[Grove of the Burnwillows](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrove%5D+%5Bof%5D+%5Bthe%5D+%5BBurnwillows%5D)
 
 
 1
-[Plains](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
 
 
 1
-[Mountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
 
 
 4
-[Coalition Relic](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCoalition%5D+%5BRelic%5D)
+[Coalition Relic](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCoalition%5D+%5BRelic%5D)
 
 
 1
-[Vesuva](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVesuva%5D)
+[Vesuva](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVesuva%5D)
 
 
 75 Cards 
@@ -1546,7 +1548,7 @@ OverviewColorCostRarity
 
 
 2
-[Extirpate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExtirpate%5D)
+[Extirpate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExtirpate%5D)
 
 
 
@@ -1555,23 +1557,23 @@ OverviewColorCostRarity
 
 
 2
-[Whitemane Lion](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWhitemane%5D+%5BLion%5D)
+[Whitemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWhitemane%5D+%5BLion%5D)
 
 
 4
-[Wall of Roots](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWall%5D+%5Bof%5D+%5BRoots%5D)
+[Wall of Roots](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWall%5D+%5Bof%5D+%5BRoots%5D)
 
 
 4
-[Gemhide Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGemhide%5D+%5BSliver%5D)
+[Gemhide Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGemhide%5D+%5BSliver%5D)
 
 
 1
-[Darkheart Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarkheart%5D+%5BSliver%5D)
+[Darkheart Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarkheart%5D+%5BSliver%5D)
 
 
 3
-[Riftsweeper](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRiftsweeper%5D)
+[Riftsweeper](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRiftsweeper%5D)
 
 
 
@@ -1580,11 +1582,11 @@ OverviewColorCostRarity
 
 
 4
-[Frenetic Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFrenetic%5D+%5BSliver%5D)
+[Frenetic Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFrenetic%5D+%5BSliver%5D)
 
 
 4
-[Coalition Relic](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCoalition%5D+%5BRelic%5D)
+[Coalition Relic](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCoalition%5D+%5BRelic%5D)
 
 
 
@@ -1593,31 +1595,31 @@ OverviewColorCostRarity
 
 
 4
-[Dormant Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDormant%5D+%5BSliver%5D)
+[Dormant Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDormant%5D+%5BSliver%5D)
 
 
 4
-[Telekinetic Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTelekinetic%5D+%5BSliver%5D)
+[Telekinetic Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTelekinetic%5D+%5BSliver%5D)
 
 
 1
-[Reflex Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReflex%5D+%5BSliver%5D)
+[Reflex Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReflex%5D+%5BSliver%5D)
 
 
 2
-[Mystic Snake](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystic%5D+%5BSnake%5D)
+[Mystic Snake](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystic%5D+%5BSnake%5D)
 
 
 1
-[Venser, Shaper Savant](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVenser,%5D+%5BShaper%5D+%5BSavant%5D)
+[Venser, Shaper Savant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVenser,%5D+%5BShaper%5D+%5BSavant%5D)
 
 
 4
-[Foresee](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForesee%5D)
+[Foresee](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForesee%5D)
 
 
 3
-[Detritivore](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDetritivore%5D)
+[Detritivore](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDetritivore%5D)
 
 
 
@@ -1626,11 +1628,11 @@ OverviewColorCostRarity
 
 
 1
-[Might Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMight%5D+%5BSliver%5D)
+[Might Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMight%5D+%5BSliver%5D)
 
 
 1
-[Sliver Legion](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSliver%5D+%5BLegion%5D)
+[Sliver Legion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSliver%5D+%5BLegion%5D)
 
 
 
@@ -1639,11 +1641,11 @@ OverviewColorCostRarity
 
 
 4
-[Wild Pair](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BPair%5D)
+[Wild Pair](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BPair%5D)
 
 
 1
-[Teneb, the Harvester](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTeneb,%5D+%5Bthe%5D+%5BHarvester%5D)
+[Teneb, the Harvester](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTeneb,%5D+%5Bthe%5D+%5BHarvester%5D)
 
 
 
@@ -1652,7 +1654,7 @@ OverviewColorCostRarity
 
 
 2
-[Take Possession](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTake%5D+%5BPossession%5D)
+[Take Possession](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTake%5D+%5BPossession%5D)
 
 
 52 Cards 
@@ -1664,43 +1666,43 @@ OverviewColorCostRarity
 
 
 4
-[Terramorphic Expanse](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTerramorphic%5D+%5BExpanse%5D)
+[Terramorphic Expanse](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTerramorphic%5D+%5BExpanse%5D)
 
 
 4
-[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
 
 
 6
-[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
 
 
 1
-[Plains](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
 
 
 1
-[Mountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
 
 
 2
-[Whitemane Lion](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWhitemane%5D+%5BLion%5D)
+[Whitemane Lion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWhitemane%5D+%5BLion%5D)
 
 
 4
-[Wall of Roots](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWall%5D+%5Bof%5D+%5BRoots%5D)
+[Wall of Roots](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWall%5D+%5Bof%5D+%5BRoots%5D)
 
 
 4
-[Gemhide Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGemhide%5D+%5BSliver%5D)
+[Gemhide Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGemhide%5D+%5BSliver%5D)
 
 
 1
-[Reflex Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReflex%5D+%5BSliver%5D)
+[Reflex Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReflex%5D+%5BSliver%5D)
 
 
 4
-[Foresee](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForesee%5D)
+[Foresee](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForesee%5D)
 
 
 
@@ -1709,89 +1711,89 @@ OverviewColorCostRarity
 
 
 1
-[Urza's Factory](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BFactory%5D)
+[Urza's Factory](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BFactory%5D)
 
 
 4
-[Dormant Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDormant%5D+%5BSliver%5D)
+[Dormant Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDormant%5D+%5BSliver%5D)
 
 
 4
-[Telekinetic Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTelekinetic%5D+%5BSliver%5D)
+[Telekinetic Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTelekinetic%5D+%5BSliver%5D)
 
 
 1
-[Darkheart Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarkheart%5D+%5BSliver%5D)
+[Darkheart Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarkheart%5D+%5BSliver%5D)
 
 
 4
-[Frenetic Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFrenetic%5D+%5BSliver%5D)
+[Frenetic Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFrenetic%5D+%5BSliver%5D)
 
 
 1
-[Might Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMight%5D+%5BSliver%5D)
+[Might Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMight%5D+%5BSliver%5D)
 
 
 2
-[Take Possession](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTake%5D+%5BPossession%5D)
+[Take Possession](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTake%5D+%5BPossession%5D)
 
 
 3
-[Riftsweeper](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRiftsweeper%5D)
+[Riftsweeper](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRiftsweeper%5D)
 
 
 
-##### Rare (18)
+##### Rare (22)
 
 
 
 1
-[Pendelhaven](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPendelhaven%5D)
-
-
-2
-[Mystic Snake](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystic%5D+%5BSnake%5D)
-
-
-1
-[Venser, Shaper Savant](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVenser,%5D+%5BShaper%5D+%5BSavant%5D)
+[Pendelhaven](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPendelhaven%5D)
 
 
 4
-[Coalition Relic](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCoalition%5D+%5BRelic%5D)
-
-
-4
-[Wild Pair](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BPair%5D)
+[Grove of the Burnwillows](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrove%5D+%5Bof%5D+%5Bthe%5D+%5BBurnwillows%5D)
 
 
 2
-[Extirpate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExtirpate%5D)
+[Mystic Snake](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystic%5D+%5BSnake%5D)
+
+
+4
+[Coalition Relic](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCoalition%5D+%5BRelic%5D)
+
+
+4
+[Wild Pair](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BPair%5D)
+
+
+2
+[Extirpate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExtirpate%5D)
 
 
 3
-[Detritivore](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDetritivore%5D)
+[Detritivore](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDetritivore%5D)
 
 
 1
-[Teneb, the Harvester](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTeneb,%5D+%5Bthe%5D+%5BHarvester%5D)
-
-
-
-##### Mythic (6)
-
-
-
-4
-[Grove of the Burnwillows](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrove%5D+%5Bof%5D+%5Bthe%5D+%5BBurnwillows%5D)
+[Sliver Legion](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSliver%5D+%5BLegion%5D)
 
 
 1
-[Sliver Legion](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSliver%5D+%5BLegion%5D)
+[Teneb, the Harvester](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTeneb,%5D+%5Bthe%5D+%5BHarvester%5D)
+
+
+
+##### Mythic (2)
+
 
 
 1
-[Vesuva](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVesuva%5D)
+[Venser, Shaper Savant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVenser,%5D+%5BShaper%5D+%5BSavant%5D)
+
+
+1
+[Vesuva](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVesuva%5D)
 
 
 75 Cards 
@@ -1799,7 +1801,7 @@ OverviewColorCostRarity
 
 
 
-![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Terramorphic+Expanse)
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Terramorphic+Expanse)
 
 
 
@@ -1824,7 +1826,7 @@ Other notable appearences:
 **French Nationals '98**
 
 
-Fabien Demazeau, an unknown player back then, who later became Worlds Team Finalist alongside Pierre Malherbaud, Marc Hernandez and Manuel Bevand, played an innovative 5 color sliver deck that took him to the top. He won Nationals with a deck packing only slivers and 3 [Living Death](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Living+Death) (and very few other spells). Manuel, runner up of that tournament, lost a decisive game to [Clot Sliver](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Clot+Sliver), which was able to save its brothers from a Nevinyral's Disk activation. [Heart Sliver](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Heart+Sliver) was there to support the champ too. At that time a counter sliver deck was also working quite fine, but here's the deck Fabien ran.
+Fabien Demazeau, an unknown player back then, who later became Worlds Team Finalist alongside Pierre Malherbaud, Marc Hernandez and Manuel Bevand, played an innovative 5 color sliver deck that took him to the top. He won Nationals with a deck packing only slivers and 3 [Living Death](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Living+Death) (and very few other spells). Manuel, runner up of that tournament, lost a decisive game to [Clot Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Clot+Sliver), which was able to save its brothers from a Nevinyral's Disk activation. [Heart Sliver](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Heart+Sliver) was there to support the champ too. At that time a counter sliver deck was also working quite fine, but here's the deck Fabien ran.
 
 
 
@@ -1870,39 +1872,39 @@ OverviewColorCostRarity
 
 
 3
-[Birds of Paradise](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBirds%5D+%5Bof%5D+%5BParadise%5D)
+[Birds of Paradise](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBirds%5D+%5Bof%5D+%5BParadise%5D)
 
 
 4
-[Muscle Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMuscle%5D+%5BSliver%5D)
+[Muscle Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMuscle%5D+%5BSliver%5D)
 
 
 4
-[Winged Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWinged%5D+%5BSliver%5D)
+[Winged Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWinged%5D+%5BSliver%5D)
 
 
 4
-[Crystalline Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrystalline%5D+%5BSliver%5D)
+[Crystalline Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrystalline%5D+%5BSliver%5D)
 
 
 3
-[Victual Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVictual%5D+%5BSliver%5D)
+[Victual Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVictual%5D+%5BSliver%5D)
 
 
 4
-[Acidic Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAcidic%5D+%5BSliver%5D)
+[Acidic Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAcidic%5D+%5BSliver%5D)
 
 
 1
-[Hibernation Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHibernation%5D+%5BSliver%5D)
+[Hibernation Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHibernation%5D+%5BSliver%5D)
 
 
 1
-[Clot Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BClot%5D+%5BSliver%5D)
+[Clot Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BClot%5D+%5BSliver%5D)
 
 
 3
-[Heart Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHeart%5D+%5BSliver%5D)
+[Heart Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHeart%5D+%5BSliver%5D)
 
 
 
@@ -1911,7 +1913,7 @@ OverviewColorCostRarity
 
 
 2
-[Living Death](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLiving%5D+%5BDeath%5D)
+[Living Death](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLiving%5D+%5BDeath%5D)
 
 
 
@@ -1920,19 +1922,19 @@ OverviewColorCostRarity
 
 
 2
-[Mana Leak](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BLeak%5D)
+[Mana Leak](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BLeak%5D)
 
 
 1
-[Disenchant](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisenchant%5D)
+[Disenchant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisenchant%5D)
 
 
 2
-[Incinerate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIncinerate%5D)
+[Incinerate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIncinerate%5D)
 
 
 1
-[Shock](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShock%5D)
+[Shock](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShock%5D)
 
 
 
@@ -1941,7 +1943,7 @@ OverviewColorCostRarity
 
 
 3
-[Mox Diamond](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BDiamond%5D)
+[Mox Diamond](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BDiamond%5D)
 
 
 
@@ -1950,47 +1952,47 @@ OverviewColorCostRarity
 
 
 1
-[Vec Townships](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVec%5D+%5BTownships%5D)
+[Vec Townships](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVec%5D+%5BTownships%5D)
 
 
 3
-[City of Brass](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCity%5D+%5Bof%5D+%5BBrass%5D)
+[City of Brass](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCity%5D+%5Bof%5D+%5BBrass%5D)
 
 
 3
-[Reflecting Pool](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReflecting%5D+%5BPool%5D)
+[Reflecting Pool](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReflecting%5D+%5BPool%5D)
 
 
 3
-[Gemstone Mine](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGemstone%5D+%5BMine%5D)
+[Gemstone Mine](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGemstone%5D+%5BMine%5D)
 
 
 3
-[Undiscovered Paradise](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUndiscovered%5D+%5BParadise%5D)
+[Undiscovered Paradise](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUndiscovered%5D+%5BParadise%5D)
 
 
 1
-[Sulfurous Springs](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSulfurous%5D+%5BSprings%5D)
+[Sulfurous Springs](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSulfurous%5D+%5BSprings%5D)
 
 
 2
-[Mogg Hollows](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMogg%5D+%5BHollows%5D)
+[Mogg Hollows](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMogg%5D+%5BHollows%5D)
 
 
 1
-[Rootwater Depths](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRootwater%5D+%5BDepths%5D)
+[Rootwater Depths](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRootwater%5D+%5BDepths%5D)
 
 
 1
-[Thalakos Lowlands](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThalakos%5D+%5BLowlands%5D)
+[Thalakos Lowlands](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThalakos%5D+%5BLowlands%5D)
 
 
 1
-[Adarkar Wastes](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAdarkar%5D+%5BWastes%5D)
+[Adarkar Wastes](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAdarkar%5D+%5BWastes%5D)
 
 
 3
-[Wasteland](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWasteland%5D)
+[Wasteland](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWasteland%5D)
 
 
 60 Cards 
@@ -2002,7 +2004,7 @@ OverviewColorCostRarity
 
 
 1
-[Disenchant](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisenchant%5D)
+[Disenchant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisenchant%5D)
 
 
 
@@ -2011,11 +2013,11 @@ OverviewColorCostRarity
 
 
 4
-[Winged Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWinged%5D+%5BSliver%5D)
+[Winged Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWinged%5D+%5BSliver%5D)
 
 
 2
-[Mana Leak](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BLeak%5D)
+[Mana Leak](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BLeak%5D)
 
 
 
@@ -2024,11 +2026,11 @@ OverviewColorCostRarity
 
 
 1
-[Clot Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BClot%5D+%5BSliver%5D)
+[Clot Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BClot%5D+%5BSliver%5D)
 
 
 2
-[Living Death](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLiving%5D+%5BDeath%5D)
+[Living Death](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLiving%5D+%5BDeath%5D)
 
 
 
@@ -2037,15 +2039,15 @@ OverviewColorCostRarity
 
 
 3
-[Heart Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHeart%5D+%5BSliver%5D)
+[Heart Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHeart%5D+%5BSliver%5D)
 
 
 2
-[Incinerate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIncinerate%5D)
+[Incinerate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIncinerate%5D)
 
 
 1
-[Shock](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShock%5D)
+[Shock](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShock%5D)
 
 
 
@@ -2054,11 +2056,11 @@ OverviewColorCostRarity
 
 
 3
-[Birds of Paradise](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBirds%5D+%5Bof%5D+%5BParadise%5D)
+[Birds of Paradise](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBirds%5D+%5Bof%5D+%5BParadise%5D)
 
 
 4
-[Muscle Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMuscle%5D+%5BSliver%5D)
+[Muscle Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMuscle%5D+%5BSliver%5D)
 
 
 
@@ -2067,19 +2069,19 @@ OverviewColorCostRarity
 
 
 4
-[Crystalline Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrystalline%5D+%5BSliver%5D)
+[Crystalline Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrystalline%5D+%5BSliver%5D)
 
 
 3
-[Victual Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVictual%5D+%5BSliver%5D)
+[Victual Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVictual%5D+%5BSliver%5D)
 
 
 4
-[Acidic Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAcidic%5D+%5BSliver%5D)
+[Acidic Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAcidic%5D+%5BSliver%5D)
 
 
 1
-[Hibernation Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHibernation%5D+%5BSliver%5D)
+[Hibernation Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHibernation%5D+%5BSliver%5D)
 
 
 
@@ -2088,51 +2090,51 @@ OverviewColorCostRarity
 
 
 1
-[Vec Townships](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVec%5D+%5BTownships%5D)
+[Vec Townships](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVec%5D+%5BTownships%5D)
 
 
 3
-[City of Brass](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCity%5D+%5Bof%5D+%5BBrass%5D)
+[City of Brass](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCity%5D+%5Bof%5D+%5BBrass%5D)
 
 
 3
-[Reflecting Pool](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReflecting%5D+%5BPool%5D)
+[Reflecting Pool](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReflecting%5D+%5BPool%5D)
 
 
 3
-[Gemstone Mine](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGemstone%5D+%5BMine%5D)
+[Gemstone Mine](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGemstone%5D+%5BMine%5D)
 
 
 3
-[Undiscovered Paradise](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUndiscovered%5D+%5BParadise%5D)
+[Undiscovered Paradise](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUndiscovered%5D+%5BParadise%5D)
 
 
 1
-[Sulfurous Springs](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSulfurous%5D+%5BSprings%5D)
+[Sulfurous Springs](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSulfurous%5D+%5BSprings%5D)
 
 
 2
-[Mogg Hollows](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMogg%5D+%5BHollows%5D)
+[Mogg Hollows](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMogg%5D+%5BHollows%5D)
 
 
 1
-[Rootwater Depths](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRootwater%5D+%5BDepths%5D)
+[Rootwater Depths](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRootwater%5D+%5BDepths%5D)
 
 
 1
-[Thalakos Lowlands](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThalakos%5D+%5BLowlands%5D)
+[Thalakos Lowlands](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThalakos%5D+%5BLowlands%5D)
 
 
 1
-[Adarkar Wastes](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAdarkar%5D+%5BWastes%5D)
+[Adarkar Wastes](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAdarkar%5D+%5BWastes%5D)
 
 
 3
-[Wasteland](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWasteland%5D)
+[Wasteland](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWasteland%5D)
 
 
 3
-[Mox Diamond](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BDiamond%5D)
+[Mox Diamond](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BDiamond%5D)
 
 
 60 Cards 
@@ -2144,11 +2146,11 @@ OverviewColorCostRarity
 
 
 3
-[Birds of Paradise](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBirds%5D+%5Bof%5D+%5BParadise%5D)
+[Birds of Paradise](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBirds%5D+%5Bof%5D+%5BParadise%5D)
 
 
 1
-[Shock](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShock%5D)
+[Shock](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShock%5D)
 
 
 
@@ -2157,47 +2159,47 @@ OverviewColorCostRarity
 
 
 4
-[Muscle Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMuscle%5D+%5BSliver%5D)
+[Muscle Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMuscle%5D+%5BSliver%5D)
 
 
 4
-[Winged Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWinged%5D+%5BSliver%5D)
+[Winged Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWinged%5D+%5BSliver%5D)
 
 
 4
-[Crystalline Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrystalline%5D+%5BSliver%5D)
+[Crystalline Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrystalline%5D+%5BSliver%5D)
 
 
 3
-[Victual Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVictual%5D+%5BSliver%5D)
+[Victual Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVictual%5D+%5BSliver%5D)
 
 
 4
-[Acidic Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAcidic%5D+%5BSliver%5D)
+[Acidic Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAcidic%5D+%5BSliver%5D)
 
 
 1
-[Hibernation Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHibernation%5D+%5BSliver%5D)
+[Hibernation Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHibernation%5D+%5BSliver%5D)
 
 
 1
-[Clot Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BClot%5D+%5BSliver%5D)
+[Clot Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BClot%5D+%5BSliver%5D)
 
 
 3
-[Heart Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHeart%5D+%5BSliver%5D)
+[Heart Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHeart%5D+%5BSliver%5D)
 
 
 2
-[Mana Leak](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BLeak%5D)
+[Mana Leak](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BLeak%5D)
 
 
 1
-[Disenchant](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisenchant%5D)
+[Disenchant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisenchant%5D)
 
 
 2
-[Incinerate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIncinerate%5D)
+[Incinerate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIncinerate%5D)
 
 
 
@@ -2206,7 +2208,7 @@ OverviewColorCostRarity
 
 
 2
-[Living Death](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLiving%5D+%5BDeath%5D)
+[Living Death](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLiving%5D+%5BDeath%5D)
 
 
 35 Cards 
@@ -2218,39 +2220,39 @@ OverviewColorCostRarity
 
 
 3
-[Gemstone Mine](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGemstone%5D+%5BMine%5D)
+[Gemstone Mine](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGemstone%5D+%5BMine%5D)
 
 
 4
-[Muscle Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMuscle%5D+%5BSliver%5D)
+[Muscle Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMuscle%5D+%5BSliver%5D)
 
 
 4
-[Winged Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWinged%5D+%5BSliver%5D)
+[Winged Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWinged%5D+%5BSliver%5D)
 
 
 1
-[Clot Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BClot%5D+%5BSliver%5D)
+[Clot Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BClot%5D+%5BSliver%5D)
 
 
 3
-[Heart Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHeart%5D+%5BSliver%5D)
+[Heart Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHeart%5D+%5BSliver%5D)
 
 
 2
-[Mana Leak](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BLeak%5D)
+[Mana Leak](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BLeak%5D)
 
 
 1
-[Disenchant](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisenchant%5D)
+[Disenchant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisenchant%5D)
 
 
 2
-[Incinerate](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIncinerate%5D)
+[Incinerate](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIncinerate%5D)
 
 
 1
-[Shock](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShock%5D)
+[Shock](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShock%5D)
 
 
 
@@ -2259,35 +2261,35 @@ OverviewColorCostRarity
 
 
 1
-[Vec Townships](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVec%5D+%5BTownships%5D)
+[Vec Townships](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVec%5D+%5BTownships%5D)
 
 
 2
-[Mogg Hollows](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMogg%5D+%5BHollows%5D)
+[Mogg Hollows](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMogg%5D+%5BHollows%5D)
 
 
 1
-[Rootwater Depths](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRootwater%5D+%5BDepths%5D)
+[Rootwater Depths](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRootwater%5D+%5BDepths%5D)
 
 
 1
-[Thalakos Lowlands](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThalakos%5D+%5BLowlands%5D)
+[Thalakos Lowlands](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThalakos%5D+%5BLowlands%5D)
 
 
 4
-[Crystalline Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrystalline%5D+%5BSliver%5D)
+[Crystalline Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrystalline%5D+%5BSliver%5D)
 
 
 3
-[Victual Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVictual%5D+%5BSliver%5D)
+[Victual Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVictual%5D+%5BSliver%5D)
 
 
 4
-[Acidic Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAcidic%5D+%5BSliver%5D)
+[Acidic Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAcidic%5D+%5BSliver%5D)
 
 
 1
-[Hibernation Sliver](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHibernation%5D+%5BSliver%5D)
+[Hibernation Sliver](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHibernation%5D+%5BSliver%5D)
 
 
 
@@ -2296,31 +2298,31 @@ OverviewColorCostRarity
 
 
 3
-[City of Brass](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCity%5D+%5Bof%5D+%5BBrass%5D)
+[City of Brass](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCity%5D+%5Bof%5D+%5BBrass%5D)
 
 
 3
-[Reflecting Pool](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReflecting%5D+%5BPool%5D)
+[Reflecting Pool](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReflecting%5D+%5BPool%5D)
 
 
 3
-[Undiscovered Paradise](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUndiscovered%5D+%5BParadise%5D)
+[Undiscovered Paradise](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUndiscovered%5D+%5BParadise%5D)
 
 
 1
-[Sulfurous Springs](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSulfurous%5D+%5BSprings%5D)
+[Sulfurous Springs](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSulfurous%5D+%5BSprings%5D)
 
 
 1
-[Adarkar Wastes](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAdarkar%5D+%5BWastes%5D)
+[Adarkar Wastes](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAdarkar%5D+%5BWastes%5D)
 
 
 3
-[Birds of Paradise](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBirds%5D+%5Bof%5D+%5BParadise%5D)
+[Birds of Paradise](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBirds%5D+%5Bof%5D+%5BParadise%5D)
 
 
 2
-[Living Death](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLiving%5D+%5BDeath%5D)
+[Living Death](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLiving%5D+%5BDeath%5D)
 
 
 
@@ -2329,11 +2331,11 @@ OverviewColorCostRarity
 
 
 3
-[Wasteland](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWasteland%5D)
+[Wasteland](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWasteland%5D)
 
 
 3
-[Mox Diamond](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BDiamond%5D)
+[Mox Diamond](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMox%5D+%5BDiamond%5D)
 
 
 60 Cards 
@@ -2341,7 +2343,7 @@ OverviewColorCostRarity
 
 
 
-![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Vec+Townships)
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Vec+Townships)
 
 
 
@@ -2363,7 +2365,7 @@ OverviewColorCostRarity
 **Pro Tour Rome '99**
 
 
-A couple of french players showed up with a Necro Sliver deck ([Necropotence](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Necropotence) and Slivers). No unknown slivers made it to the PT, but they saw play in a new setup.
+A couple of french players showed up with a Necro Sliver deck ([Necropotence](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Necropotence) and Slivers). No unknown slivers made it to the PT, but they saw play in a new setup.
 
 
 **Block Constructed PTQs '07**

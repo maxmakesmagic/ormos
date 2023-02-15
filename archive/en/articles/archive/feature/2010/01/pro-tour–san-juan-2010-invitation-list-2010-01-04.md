@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Invitations to Pro Tour-San Juan are awarded in the following manner: The 2009 World Champion. The 2009 Pro Tour Player of the Year. The Top 50 players from Pro Tour-San Diego. Players with 2010 Pro Tour Players Club level 6 or higher. Players with 2010 Pro Tour Players Club level 4* & 5* (invitation for level 4 & 5 players are not awarded until May 28, 2010). Players with"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "641411"
 [_metadata_:publish_date]:- "2010-01-04"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour–San Juan 2010 Invitation List"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-29 22:52:00+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-29 22:52:00"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220629225200id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93san-juan-2010-invitation-list-2010-01-04"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93san-juan-2010-invitation-list-2010-01-04"
 ---

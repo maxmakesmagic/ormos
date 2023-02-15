@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Junior Super Series Championship Junior Super Series Top 8 Deck Analysis - Alex Shvartsman Deck Breakdown Chart Overview Reading the tournament coverage this weekend and studying both this chart and the deck lists, it is easy to assume the current type 2 is all about Necropotence. I believe this assuption to be incorrect. This format is all about Yawgmoth's Will. Every Necro"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "953171"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Sideboard Online Event Coverage"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-16 11:33:39+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-16 11:33:39"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516113339id_/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-45"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-45"
 ---

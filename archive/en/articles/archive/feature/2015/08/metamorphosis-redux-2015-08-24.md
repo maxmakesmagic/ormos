@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "With Standard rotating with Battle for Zendikar, we revisit the changes to the Standard rotation."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "524141"
 [_metadata_:publish_date]:- "2015-08-24"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Metamorphosis Redux"
-[_metadata_:wayback_capture_timestamp]:- "2015-08-26 18:06:13+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2015-08-26 18:06:13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150826180613id_/http://magic.wizards.com/en/articles/archive/feature/metamorphosis-redux-2015-08-24"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/metamorphosis-redux-2015-08-24"
 ---

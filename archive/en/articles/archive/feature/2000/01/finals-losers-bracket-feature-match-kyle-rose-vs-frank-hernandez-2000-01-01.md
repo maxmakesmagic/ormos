@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Kyle Rose is a champion. He won last year's US Nationals, won thirteen consecutive matches at PTLA three and won this year's PT London. He knows as much as anyone how to play this game and how to win. Today however, was Frank Hernandez' day. Playing what looked on paper to be a poor deck matchup, Frank's Stompy deck proved to be up to the task, winning a four game match"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "949126"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Finals (Loser's Bracket) Feature Match - Kyle Rose vs. Frank Hernandez"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-27 14:07:57+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-27 14:07:57"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527140757id_/https://magic.wizards.com/en/articles/archive/feature/finals-losers-bracket-feature-match-kyle-rose-vs-frank-hernandez-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/finals-losers-bracket-feature-match-kyle-rose-vs-frank-hernandez-2000-01-01"
 ---

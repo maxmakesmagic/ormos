@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Randy Buehler"
 [_metadata_:description]:- "by Randy Buehler In a telling display of the camaraderie that runs through this tournament, Dirk Baberowski and Gary Wise split a pair of practice games while they were killing time waiting for their real match to start. Their draft was also friendly. After Gary split the first pack, Dirk took the half without the Icatian Phalanx and announced `Banding is too complicated -- I don't want to play with that guy!`"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "963521"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 8 Recap"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-29 12:00:12+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-29 12:00:12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171029120012id_/https://magic.wizards.com/en/articles/archive/feature/round-8-recap-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-8-recap-2000-01-01"
 ---

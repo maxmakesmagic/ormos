@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Gabriel Willmon's Red Deck Wins Format: Standard – Pro Tour Qualifier for PT–Amsterdam 4 Arid Mesa 12 Mountain 4 Scalding Tarn 4 Teetering Peaks 4 Goblin Bushwhacker 4 Goblin Guide 4 Kargan Dragonlord 3 Kiln Fiend 4 Plated Geopede 4 Burst Lightning 4 Devastating Summons 4 Lightning Bolt 4 Searing Blaze 1 Staggershock *4 Dragon's Claw *3 Manabarbs *2 Mark of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "669671"
 [_metadata_:publish_date]:- "2010-05-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Red Deck Wins"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-19 03:17:24+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-19 03:17:24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210419031724id_/https://magic.wizards.com/en/articles/archive/feature/red-deck-wins-2010-05-12"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/red-deck-wins-2010-05-12"
 ---

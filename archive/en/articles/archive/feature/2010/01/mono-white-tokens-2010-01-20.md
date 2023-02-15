@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: William Cavaglieri's Mono-White Tokens Format: 2009 World Championships Standard 4 Arid Mesa 2 Gargoyle Castle 4 Marsh Flats 14 Plains 2 Emeria Angel 4 Knight of the White Orchid 4 Ranger of Eos 2 Soul Warden 4 Steppe Lynx 2 White Knight 2 Brave the Elements 4 Conqueror's Pledge 4 Honor of the Pure 1 Martial Coup 3 Oblivion Ring 4 Path to Exile *1 Brave the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "669226"
 [_metadata_:publish_date]:- "2010-01-20"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Mono-White Tokens"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-18 02:29:43+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-18 02:29:43"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018022943id_/https://magic.wizards.com/en/articles/archive/feature/mono-white-tokens-2010-01-20"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mono-white-tokens-2010-01-20"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "LoadingReadyRun"
 [_metadata_:description]:- "Kathleen and the LoadingReadyRun crew prepare for the Born of the Gods Prerelease. Will Kathleen’s unique strategy pay off in the end? Will others bend to her suggestion? Talk about this series on Twitter with the #FridayNightsMTG hashtag and be sure to follow@loadingreadyrun! Watch all the previous episodes on our Friday Nights YouTube Playlist!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "153396"
 [_metadata_:publish_date]:- "2014-01-29"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Friday Nights: “The Road”"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-25 15:04:45+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-25 15:04:45"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220125150445id_/https://magic.wizards.com/en/articles/archive/feature/friday-nights-%E2%80%9C-road%E2%80%9D-2014-01-29"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/friday-nights-%E2%80%9C-road%E2%80%9D-2014-01-29"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "There have been few things in this world as imperfect as Magic deck naming. If we were to make the distinction, it is certainly an art, and nowhere close to a science. Over the years, decks have been named after cereal brands, fast food chains, imaginary places, puns involving birds, and professional wrestlers. Still, other common methods exist that are more reasonable, such"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "665381"
 [_metadata_:publish_date]:- "2012-08-07"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Nauseating"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-05 20:00:13+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-05 20:00:13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220705200013id_/https://magic.wizards.com/en/articles/archive/feature/nauseating-2012-08-07"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/nauseating-2012-08-07"
 ---

@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20170413152434/http://magic.wizards.com/en/articles/archive/feature/commander-2016-mechanics-2016-10-24)
+[Link to Wayback Machine](https://web.archive.org/web/20200110022912/https://magic.wizards.com/en/articles/archive/feature/commander-2016-mechanics-2016-10-24)
 
 [_metadata_:author]:- "Matt Tabak"
 [_metadata_:description]:- "Matt returns to explain the rules and mechanics behind the latest installment of the Commander series."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1084296"
 [_metadata_:publish_date]:- "2016-10-24"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Commander 2016 Mechanics"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-13 15:24:34+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170413152434id_/http://magic.wizards.com/en/articles/archive/feature/commander-2016-mechanics-2016-10-24"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/commander-2016-mechanics-2016-10-24"
+[_metadata_:wayback_capture_timestamp]:- "2020-01-10 02:29:12"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200110022912id_/https://magic.wizards.com/en/articles/archive/feature/commander-2016-mechanics-2016-10-24"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/commander-2016-mechanics-2016-10-24"
 ---
 
 
@@ -32,7 +34,7 @@ By Matt Tabak
 
 
 
-Matt Tabak is the reigning, defending, and undisputed rules manager for Magic: The Gathering, Kaijudo, and Duel Masters. Matt Tabak is Gruul. Matt Tabak tries to laugh, think, and cry every day. Matt Tabak is hungry. Matt Tabak doesn't want you to sass him. Matt Tabak loves puppies.
+Senior editor. Game designer. Writer. Bon vivant. Matt wears many hats inside Magic R&D, but they're hard to see as he's so tall.
  
 
 

@@ -4,9 +4,11 @@
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "700366"
 [_metadata_:publish_date]:- "2009-02-13"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "TCG Regionalized Slider"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-28 18:58:06+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-28 18:58:06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211128185806id_/https://magic.wizards.com/en/articles/archive/feature/tcg-regionalized-slider-2009-02-13"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/tcg-regionalized-slider-2009-02-13"
 ---

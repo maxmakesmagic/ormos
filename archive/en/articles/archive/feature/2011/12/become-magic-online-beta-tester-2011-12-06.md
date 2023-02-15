@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Make your voice heard and help shape the future of Magic Online. Dedicated players are needed to help beta test the upcoming relaunch of Magic Online. By volunteering to be a beta tester, you will gain access to features and formats before they are released and provide feedback that will help Wizards release the new Magic Online user interface. To be eligible to participate,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "688611"
 [_metadata_:publish_date]:- "2011-12-06"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Become a Magic Online Beta Tester!"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-21 10:29:34+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-21 10:29:34"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211021102934id_/https://magic.wizards.com/en/articles/archive/feature/become-magic-online-beta-tester-2011-12-06"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/become-magic-online-beta-tester-2011-12-06"
 ---

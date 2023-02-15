@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20170808055152/http://magic.wizards.com/en/articles/archive/feature/affinitys-reign-2007-02-28-0)
+[Link to Wayback Machine](https://web.archive.org/web/20220816200945/https://magic.wizards.com/en/articles/archive/feature/affinitys-reign-2007-02-28-0)
 
 [_metadata_:author]:- "Frank Karsten"
-[_metadata_:description]:- "Alright, I'll start off with last week's Standard recap. This will be the last time that I will cover online Standard before Planar Chaos becomes legal, as the release events will replace Constructed Premiers soon. The information in this table is actually real. Good thing nothing is banned in the healthy Standard format."
+[_metadata_:description]:- "Alright, I'll start off with last week's Standard recap. This will be the last time that I will cover online Standard before Planar Chaos becomes legal, as the release events will replace Constructed Premiers soon. The information in this table is actually real. Good thing nothing is banned in the healthy Standard format.Deck namePopularityChange from last week 1. Mono Green"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "624251"
 [_metadata_:publish_date]:- "2007-02-28"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Affinity's Reign"
-[_metadata_:wayback_capture_timestamp]:- "2017-08-08 05:51:52+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170808055152id_/http://magic.wizards.com/en/articles/archive/feature/affinitys-reign-2007-02-28-0"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/affinitys-reign-2007-02-28-0"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-16 20:09:45"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816200945id_/https://magic.wizards.com/en/articles/archive/feature/affinitys-reign-2007-02-28-0"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/affinitys-reign-2007-02-28-0"
 ---
 
 
@@ -67,7 +69,7 @@ Alright, I'll start off with last week's Standard recap. This will be the last t
 | 19. [SnakeBlink](http://boards1.wizards.com/showpost.php?p=10563959&postcount=23)  | ■ (1%) | 0% |
 | 20. [U/W/G Control](http://boards1.wizards.com/showpost.php?p=10563971&postcount=24) | ■ (1%) | +1% |
 
-Some late heavy swings as everyone is gearing up for the addition of the *[*Planar Chaos*](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Planar+Chaos)* cards. I'd think that Dralnu du Louvre is the best deck in the format, even though Mono Green Aggro had a good showing this week.
+Some late heavy swings as everyone is gearing up for the addition of the *[*Planar Chaos*](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Planar+Chaos)* cards. I'd think that Dralnu du Louvre is the best deck in the format, even though Mono Green Aggro had a good showing this week.
 
 Let's move on to the Extended metagame recap. The last time I went over the online Extended metagame was one month ago, and then we saw that Affinity took roughly half of the Premier Event Top 8 slots. I have collected the results of last month's Extended Premier Event Top 8s once again, averaged them, and put the metagame in a table. What deck do you expect to come out on top?
 
@@ -107,6 +109,7 @@ Oh well. For the few people who still like online Extended, here is what a typic
 
 
 
+
 #### Affinity
 
 
@@ -117,7 +120,9 @@ Oh well. For the few people who still like online Extended, here is what a typic
 
 
 
+![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
 ![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
 
 
 
@@ -142,27 +147,27 @@ OverviewColorCostRarity
 
 
 4
-[Arcbound Worker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArcbound%5D+%5BWorker%5D)
+[Arcbound Worker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArcbound%5D+%5BWorker%5D)
 
 
 4
-[Disciple of the Vault](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisciple%5D+%5Bof%5D+%5Bthe%5D+%5BVault%5D)
+[Disciple of the Vault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisciple%5D+%5Bof%5D+%5Bthe%5D+%5BVault%5D)
 
 
 4
-[Arcbound Ravager](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArcbound%5D+%5BRavager%5D)
+[Arcbound Ravager](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArcbound%5D+%5BRavager%5D)
 
 
 4
-[Frogmite](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFrogmite%5D)
+[Frogmite](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFrogmite%5D)
 
 
 4
-[Myr Enforcer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMyr%5D+%5BEnforcer%5D)
+[Myr Enforcer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMyr%5D+%5BEnforcer%5D)
 
 
 4
-[Myr Retriever](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMyr%5D+%5BRetriever%5D)
+[Myr Retriever](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMyr%5D+%5BRetriever%5D)
 
 
 
@@ -171,58 +176,53 @@ OverviewColorCostRarity
 
 
 4
-[Thoughtcast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtcast%5D)
+[Thoughtcast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtcast%5D)
 
 
 
-##### Artifact (24)
+##### Artifact (12)
 
 
 
 4
-[Great Furnace](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGreat%5D+%5BFurnace%5D)
+[Aether Vial](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAether%5D+%5BVial%5D)
 
 
 4
-[Seat of the Synod](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeat%5D+%5Bof%5D+%5Bthe%5D+%5BSynod%5D)
+[Skullclamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkullclamp%5D)
 
 
 4
-[Vault of Whispers](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVault%5D+%5Bof%5D+%5BWhispers%5D)
+[Chromatic Star](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChromatic%5D+%5BStar%5D)
+
+
+
+##### Land (20)
+
 
 
 4
-[Darksteel Citadel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarksteel%5D+%5BCitadel%5D)
+[Great Furnace](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGreat%5D+%5BFurnace%5D)
 
 
 4
-[Skullclamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkullclamp%5D)
+[Seat of the Synod](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeat%5D+%5Bof%5D+%5Bthe%5D+%5BSynod%5D)
 
 
 4
-[Chromatic Star](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChromatic%5D+%5BStar%5D)
-
-
-
-##### Land (4)
-
+[Vault of Whispers](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVault%5D+%5Bof%5D+%5BWhispers%5D)
 
 
 3
-[Blinkmoth Nexus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlinkmoth%5D+%5BNexus%5D)
-
-
-1
-[Glimmervoid](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlimmervoid%5D)
-
-
-
-##### Other (4)
-
+[Blinkmoth Nexus](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlinkmoth%5D+%5BNexus%5D)
 
 
 4
-Aether Vial
+[Darksteel Citadel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarksteel%5D+%5BCitadel%5D)
+
+
+1
+[Glimmervoid](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlimmervoid%5D)
 
 
 60 Cards 
@@ -234,7 +234,7 @@ Aether Vial
 
 
 4
-[Thoughtcast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtcast%5D)
+[Thoughtcast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtcast%5D)
 
 
 
@@ -243,7 +243,7 @@ Aether Vial
 
 
 4
-[Disciple of the Vault](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisciple%5D+%5Bof%5D+%5Bthe%5D+%5BVault%5D)
+[Disciple of the Vault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisciple%5D+%5Bof%5D+%5Bthe%5D+%5BVault%5D)
 
 
 
@@ -252,83 +252,87 @@ Aether Vial
 
 
 4
-[Great Furnace](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGreat%5D+%5BFurnace%5D)
+[Great Furnace](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGreat%5D+%5BFurnace%5D)
 
 
 4
-[Seat of the Synod](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeat%5D+%5Bof%5D+%5Bthe%5D+%5BSynod%5D)
+[Seat of the Synod](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeat%5D+%5Bof%5D+%5Bthe%5D+%5BSynod%5D)
 
 
 4
-[Vault of Whispers](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVault%5D+%5Bof%5D+%5BWhispers%5D)
+[Vault of Whispers](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVault%5D+%5Bof%5D+%5BWhispers%5D)
 
 
 3
-[Blinkmoth Nexus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlinkmoth%5D+%5BNexus%5D)
+[Blinkmoth Nexus](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlinkmoth%5D+%5BNexus%5D)
 
 
 4
-[Darksteel Citadel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarksteel%5D+%5BCitadel%5D)
+[Darksteel Citadel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarksteel%5D+%5BCitadel%5D)
 
 
 1
-[Glimmervoid](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlimmervoid%5D)
+[Glimmervoid](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlimmervoid%5D)
 
 
 4
-[Arcbound Worker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArcbound%5D+%5BWorker%5D)
+[Arcbound Worker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArcbound%5D+%5BWorker%5D)
 
 
 4
-[Arcbound Ravager](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArcbound%5D+%5BRavager%5D)
+[Arcbound Ravager](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArcbound%5D+%5BRavager%5D)
 
 
 4
-[Frogmite](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFrogmite%5D)
+[Frogmite](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFrogmite%5D)
 
 
 4
-[Myr Enforcer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMyr%5D+%5BEnforcer%5D)
+[Myr Enforcer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMyr%5D+%5BEnforcer%5D)
 
 
 4
-[Myr Retriever](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMyr%5D+%5BRetriever%5D)
+[Myr Retriever](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMyr%5D+%5BRetriever%5D)
 
 
 4
-Aether Vial
+[Aether Vial](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAether%5D+%5BVial%5D)
 
 
 4
-[Skullclamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkullclamp%5D)
+[Skullclamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkullclamp%5D)
 
 
 4
-[Chromatic Star](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChromatic%5D+%5BStar%5D)
+[Chromatic Star](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChromatic%5D+%5BStar%5D)
 
 
 60 Cards 
 
 
 
-##### 1 (16)
+##### 1 (20)
 
 
 
 4
-[Arcbound Worker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArcbound%5D+%5BWorker%5D)
+[Arcbound Worker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArcbound%5D+%5BWorker%5D)
 
 
 4
-[Disciple of the Vault](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisciple%5D+%5Bof%5D+%5Bthe%5D+%5BVault%5D)
+[Disciple of the Vault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisciple%5D+%5Bof%5D+%5Bthe%5D+%5BVault%5D)
 
 
 4
-[Skullclamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkullclamp%5D)
+[Aether Vial](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAether%5D+%5BVial%5D)
 
 
 4
-[Chromatic Star](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChromatic%5D+%5BStar%5D)
+[Skullclamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkullclamp%5D)
+
+
+4
+[Chromatic Star](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChromatic%5D+%5BStar%5D)
 
 
 
@@ -337,11 +341,11 @@ Aether Vial
 
 
 4
-[Arcbound Ravager](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArcbound%5D+%5BRavager%5D)
+[Arcbound Ravager](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArcbound%5D+%5BRavager%5D)
 
 
 4
-[Myr Retriever](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMyr%5D+%5BRetriever%5D)
+[Myr Retriever](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMyr%5D+%5BRetriever%5D)
 
 
 
@@ -350,7 +354,7 @@ Aether Vial
 
 
 4
-[Frogmite](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFrogmite%5D)
+[Frogmite](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFrogmite%5D)
 
 
 
@@ -359,7 +363,7 @@ Aether Vial
 
 
 4
-[Thoughtcast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtcast%5D)
+[Thoughtcast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtcast%5D)
 
 
 
@@ -368,55 +372,51 @@ Aether Vial
 
 
 4
-[Myr Enforcer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMyr%5D+%5BEnforcer%5D)
+[Myr Enforcer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMyr%5D+%5BEnforcer%5D)
 
 
-36 Cards 
-
-
-
-##### Common (40)
+40 Cards 
 
 
 
-4
-[Great Furnace](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGreat%5D+%5BFurnace%5D)
+##### Common (36)
+
 
 
 4
-[Seat of the Synod](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeat%5D+%5Bof%5D+%5Bthe%5D+%5BSynod%5D)
+[Great Furnace](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGreat%5D+%5BFurnace%5D)
 
 
 4
-[Vault of Whispers](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVault%5D+%5Bof%5D+%5BWhispers%5D)
+[Seat of the Synod](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeat%5D+%5Bof%5D+%5Bthe%5D+%5BSynod%5D)
 
 
 4
-[Arcbound Worker](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArcbound%5D+%5BWorker%5D)
+[Vault of Whispers](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVault%5D+%5Bof%5D+%5BWhispers%5D)
 
 
 4
-[Disciple of the Vault](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisciple%5D+%5Bof%5D+%5Bthe%5D+%5BVault%5D)
+[Arcbound Worker](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArcbound%5D+%5BWorker%5D)
 
 
 4
-[Frogmite](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFrogmite%5D)
+[Disciple of the Vault](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisciple%5D+%5Bof%5D+%5Bthe%5D+%5BVault%5D)
 
 
 4
-[Myr Enforcer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMyr%5D+%5BEnforcer%5D)
+[Frogmite](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFrogmite%5D)
 
 
 4
-Aether Vial
+[Myr Enforcer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMyr%5D+%5BEnforcer%5D)
 
 
 4
-[Thoughtcast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtcast%5D)
+[Thoughtcast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtcast%5D)
 
 
 4
-[Chromatic Star](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChromatic%5D+%5BStar%5D)
+[Chromatic Star](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChromatic%5D+%5BStar%5D)
 
 
 
@@ -425,32 +425,36 @@ Aether Vial
 
 
 4
-[Darksteel Citadel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarksteel%5D+%5BCitadel%5D)
+[Darksteel Citadel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarksteel%5D+%5BCitadel%5D)
 
 
 4
-[Myr Retriever](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMyr%5D+%5BRetriever%5D)
+[Myr Retriever](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMyr%5D+%5BRetriever%5D)
 
 
 4
-[Skullclamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkullclamp%5D)
+[Skullclamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkullclamp%5D)
 
 
 
-##### Rare (8)
+##### Rare (12)
 
 
 
 3
-[Blinkmoth Nexus](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlinkmoth%5D+%5BNexus%5D)
+[Blinkmoth Nexus](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlinkmoth%5D+%5BNexus%5D)
 
 
 1
-[Glimmervoid](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlimmervoid%5D)
+[Glimmervoid](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlimmervoid%5D)
 
 
 4
-[Arcbound Ravager](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArcbound%5D+%5BRavager%5D)
+[Arcbound Ravager](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArcbound%5D+%5BRavager%5D)
+
+
+4
+[Aether Vial](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAether%5D+%5BVial%5D)
 
 
 60 Cards 
@@ -458,7 +462,7 @@ Aether Vial
 
 
 
-![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Great+Furnace)
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Great+Furnace)
 
 
 
@@ -477,15 +481,16 @@ Aether Vial
 
 
   
-![Skullclamp](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Skullclamp)The synergy between [Arcbound Ravager](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Arcbound+Ravager), [Frogmite](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Frogmite), and artifact lands is still strong as ever. As we all know, this deck is capable of getting degenerate draws. A common example is:
+![Skullclamp](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Skullclamp)The synergy between [Arcbound Ravager](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Arcbound+Ravager), [Frogmite](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Frogmite), and artifact lands is still strong as ever. As we all know, this deck is capable of getting degenerate draws. A common example is:
 
-Turn 1: Artifact land, [Aether Vial](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aether+Vial)  
- Turn 2: Artifact land, [Arcbound Ravager](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Arcbound+Ravager), [Frogmite](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Frogmite), Vial out a [Disciple of the Vault](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Disciple+of+the+Vault)  
- Turn 3: Vial out another Disciple, play some more artifacts, attack with all creatures, and eat everything with [Arcbound Ravager](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Arcbound+Ravager) to put your opponent down to a negative life total. Thanks for playing.
+Turn 1: Artifact land, [Aether Vial](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aether+Vial)  
+ Turn 2: Artifact land, [Arcbound Ravager](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Arcbound+Ravager), [Frogmite](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Frogmite), Vial out a [Disciple of the Vault](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Disciple+of+the+Vault)  
+ Turn 3: Vial out another Disciple, play some more artifacts, attack with all creatures, and eat everything with [Arcbound Ravager](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Arcbound+Ravager) to put your opponent down to a negative life total. Thanks for playing.
 
-If the opposing deck can fend off these ridiculously fast draws, that doesn't mean the game is over. Affinity can easily reload with the extremely powerful [Skullclamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skullclamp), attaching it to 1-toughness creatures to draw two cards right away or to larger creatures that can then be sacrificed to [Arcbound Ravager](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Arcbound+Ravager) for two cards. This allows Affinity to basically draw its entire deck quickly, right into the dreaded [Arcbound Ravager](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Arcbound+Ravager) plus [Disciple of the Vault](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Disciple+of+the+Vault) combo for the kill.
+If the opposing deck can fend off these ridiculously fast draws, that doesn't mean the game is over. Affinity can easily reload with the extremely powerful [Skullclamp](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skullclamp), attaching it to 1-toughness creatures to draw two cards right away or to larger creatures that can then be sacrificed to [Arcbound Ravager](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Arcbound+Ravager) for two cards. This allows Affinity to basically draw its entire deck quickly, right into the dreaded [Arcbound Ravager](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Arcbound+Ravager) plus [Disciple of the Vault](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Disciple+of+the+Vault) combo for the kill.
 
 The second most popular online Extended deck is more or less built to exclusively beat Affinity. Here is a common version of the affectionately called "Spree of Hate" deck:
+
 
 
 
@@ -502,7 +507,9 @@ The second most popular online Extended deck is more or less built to exclusivel
 
 
 
+![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
 ![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
 
 
 
@@ -527,23 +534,23 @@ OverviewColorCostRarity
 
 
 4
-[Tin Street Hooligan](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTin%5D+%5BStreet%5D+%5BHooligan%5D)
+[Tin Street Hooligan](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTin%5D+%5BStreet%5D+%5BHooligan%5D)
 
 
 4
-[Grim Lavamancer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrim%5D+%5BLavamancer%5D)
+[Grim Lavamancer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrim%5D+%5BLavamancer%5D)
 
 
 2
-[Isamaru, Hound of Konda](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsamaru,%5D+%5BHound%5D+%5Bof%5D+%5BKonda%5D)
+[Isamaru, Hound of Konda](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsamaru,%5D+%5BHound%5D+%5Bof%5D+%5BKonda%5D)
 
 
 4
-[Kataki, War's Wage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKataki,%5D+%5BWar%5D+%5BWage%5D)
+[Kataki, War's Wage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKataki,%5D+%5BWar%5D+%5BWage%5D)
 
 
 4
-[Goblin Legionnaire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BLegionnaire%5D)
+[Goblin Legionnaire](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BLegionnaire%5D)
 
 
 
@@ -552,7 +559,7 @@ OverviewColorCostRarity
 
 
 4
-[Shattering Spree](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShattering%5D+%5BSpree%5D)
+[Shattering Spree](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShattering%5D+%5BSpree%5D)
 
 
 
@@ -561,19 +568,19 @@ OverviewColorCostRarity
 
 
 4
-[Oxidize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOxidize%5D)
+[Oxidize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOxidize%5D)
 
 
 4
-[Ancient Grudge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BGrudge%5D)
+[Ancient Grudge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BGrudge%5D)
 
 
 4
-[Artifact Mutation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArtifact%5D+%5BMutation%5D)
+[Artifact Mutation](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArtifact%5D+%5BMutation%5D)
 
 
 4
-[Lightning Helix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BHelix%5D)
+[Lightning Helix](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BHelix%5D)
 
 
 
@@ -582,39 +589,39 @@ OverviewColorCostRarity
 
 
 4
-[Wooded Foothills](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D)
+[Wooded Foothills](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D)
 
 
 4
-[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+[Windswept Heath](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
 
 
 2
-[Bloodstained Mire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
+[Bloodstained Mire](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
 
 
 4
-[Sacred Foundry](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSacred%5D+%5BFoundry%5D)
+[Sacred Foundry](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSacred%5D+%5BFoundry%5D)
 
 
 1
-[Temple Garden](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5BGarden%5D)
+[Temple Garden](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5BGarden%5D)
 
 
 1
-[Stomping Ground](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStomping%5D+%5BGround%5D)
+[Stomping Ground](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStomping%5D+%5BGround%5D)
 
 
 1
-[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+[Plains](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
 
 
 1
-[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
 
 
 4
-[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+[Mountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
 
 
 60 Cards 
@@ -626,11 +633,11 @@ OverviewColorCostRarity
 
 
 2
-[Isamaru, Hound of Konda](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsamaru,%5D+%5BHound%5D+%5Bof%5D+%5BKonda%5D)
+[Isamaru, Hound of Konda](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsamaru,%5D+%5BHound%5D+%5Bof%5D+%5BKonda%5D)
 
 
 4
-[Kataki, War's Wage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKataki,%5D+%5BWar%5D+%5BWage%5D)
+[Kataki, War's Wage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKataki,%5D+%5BWar%5D+%5BWage%5D)
 
 
 
@@ -639,19 +646,19 @@ OverviewColorCostRarity
 
 
 4
-[Tin Street Hooligan](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTin%5D+%5BStreet%5D+%5BHooligan%5D)
+[Tin Street Hooligan](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTin%5D+%5BStreet%5D+%5BHooligan%5D)
 
 
 4
-[Grim Lavamancer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrim%5D+%5BLavamancer%5D)
+[Grim Lavamancer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrim%5D+%5BLavamancer%5D)
 
 
 4
-[Shattering Spree](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShattering%5D+%5BSpree%5D)
+[Shattering Spree](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShattering%5D+%5BSpree%5D)
 
 
 4
-[Ancient Grudge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BGrudge%5D)
+[Ancient Grudge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BGrudge%5D)
 
 
 
@@ -660,7 +667,7 @@ OverviewColorCostRarity
 
 
 4
-[Oxidize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOxidize%5D)
+[Oxidize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOxidize%5D)
 
 
 
@@ -669,15 +676,15 @@ OverviewColorCostRarity
 
 
 4
-[Goblin Legionnaire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BLegionnaire%5D)
+[Goblin Legionnaire](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BLegionnaire%5D)
 
 
 4
-[Artifact Mutation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArtifact%5D+%5BMutation%5D)
+[Artifact Mutation](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArtifact%5D+%5BMutation%5D)
 
 
 4
-[Lightning Helix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BHelix%5D)
+[Lightning Helix](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BHelix%5D)
 
 
 
@@ -686,39 +693,39 @@ OverviewColorCostRarity
 
 
 4
-[Wooded Foothills](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D)
+[Wooded Foothills](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D)
 
 
 4
-[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+[Windswept Heath](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
 
 
 2
-[Bloodstained Mire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
+[Bloodstained Mire](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
 
 
 4
-[Sacred Foundry](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSacred%5D+%5BFoundry%5D)
+[Sacred Foundry](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSacred%5D+%5BFoundry%5D)
 
 
 1
-[Temple Garden](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5BGarden%5D)
+[Temple Garden](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5BGarden%5D)
 
 
 1
-[Stomping Ground](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStomping%5D+%5BGround%5D)
+[Stomping Ground](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStomping%5D+%5BGround%5D)
 
 
 1
-[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+[Plains](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
 
 
 1
-[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
 
 
 4
-[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+[Mountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
 
 
 60 Cards 
@@ -730,19 +737,19 @@ OverviewColorCostRarity
 
 
 4
-[Grim Lavamancer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrim%5D+%5BLavamancer%5D)
+[Grim Lavamancer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrim%5D+%5BLavamancer%5D)
 
 
 2
-[Isamaru, Hound of Konda](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsamaru,%5D+%5BHound%5D+%5Bof%5D+%5BKonda%5D)
+[Isamaru, Hound of Konda](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsamaru,%5D+%5BHound%5D+%5Bof%5D+%5BKonda%5D)
 
 
 4
-[Shattering Spree](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShattering%5D+%5BSpree%5D)
+[Shattering Spree](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShattering%5D+%5BSpree%5D)
 
 
 4
-[Oxidize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOxidize%5D)
+[Oxidize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOxidize%5D)
 
 
 
@@ -751,27 +758,27 @@ OverviewColorCostRarity
 
 
 4
-[Tin Street Hooligan](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTin%5D+%5BStreet%5D+%5BHooligan%5D)
+[Tin Street Hooligan](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTin%5D+%5BStreet%5D+%5BHooligan%5D)
 
 
 4
-[Kataki, War's Wage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKataki,%5D+%5BWar%5D+%5BWage%5D)
+[Kataki, War's Wage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKataki,%5D+%5BWar%5D+%5BWage%5D)
 
 
 4
-[Goblin Legionnaire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BLegionnaire%5D)
+[Goblin Legionnaire](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BLegionnaire%5D)
 
 
 4
-[Ancient Grudge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BGrudge%5D)
+[Ancient Grudge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BGrudge%5D)
 
 
 4
-[Artifact Mutation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArtifact%5D+%5BMutation%5D)
+[Artifact Mutation](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArtifact%5D+%5BMutation%5D)
 
 
 4
-[Lightning Helix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BHelix%5D)
+[Lightning Helix](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BHelix%5D)
 
 
 38 Cards 
@@ -783,27 +790,27 @@ OverviewColorCostRarity
 
 
 1
-[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+[Plains](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
 
 
 1
-[Forest](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
+[Forest](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D)
 
 
 4
-[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+[Mountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
 
 
 4
-[Tin Street Hooligan](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTin%5D+%5BStreet%5D+%5BHooligan%5D)
+[Tin Street Hooligan](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTin%5D+%5BStreet%5D+%5BHooligan%5D)
 
 
 4
-[Goblin Legionnaire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BLegionnaire%5D)
+[Goblin Legionnaire](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BLegionnaire%5D)
 
 
 4
-[Ancient Grudge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BGrudge%5D)
+[Ancient Grudge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BGrudge%5D)
 
 
 
@@ -812,65 +819,65 @@ OverviewColorCostRarity
 
 
 4
-[Shattering Spree](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShattering%5D+%5BSpree%5D)
+[Shattering Spree](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShattering%5D+%5BSpree%5D)
 
 
 4
-[Oxidize](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOxidize%5D)
+[Oxidize](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOxidize%5D)
 
 
 4
-[Lightning Helix](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BHelix%5D)
+[Lightning Helix](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BHelix%5D)
 
 
 
-##### Rare (14)
-
-
-
-4
-[Grim Lavamancer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrim%5D+%5BLavamancer%5D)
-
-
-2
-[Isamaru, Hound of Konda](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsamaru,%5D+%5BHound%5D+%5Bof%5D+%5BKonda%5D)
-
-
-4
-[Kataki, War's Wage](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKataki,%5D+%5BWar%5D+%5BWage%5D)
-
-
-4
-[Artifact Mutation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArtifact%5D+%5BMutation%5D)
-
-
-
-##### Mythic (16)
+##### Rare (20)
 
 
 
 4
-[Wooded Foothills](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D)
-
-
-4
-[Windswept Heath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
-
-
-2
-[Bloodstained Mire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
-
-
-4
-[Sacred Foundry](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSacred%5D+%5BFoundry%5D)
+[Sacred Foundry](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSacred%5D+%5BFoundry%5D)
 
 
 1
-[Temple Garden](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5BGarden%5D)
+[Temple Garden](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5BGarden%5D)
 
 
 1
-[Stomping Ground](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStomping%5D+%5BGround%5D)
+[Stomping Ground](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStomping%5D+%5BGround%5D)
+
+
+4
+[Grim Lavamancer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrim%5D+%5BLavamancer%5D)
+
+
+2
+[Isamaru, Hound of Konda](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsamaru,%5D+%5BHound%5D+%5Bof%5D+%5BKonda%5D)
+
+
+4
+[Kataki, War's Wage](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKataki,%5D+%5BWar%5D+%5BWage%5D)
+
+
+4
+[Artifact Mutation](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArtifact%5D+%5BMutation%5D)
+
+
+
+##### Mythic (10)
+
+
+
+4
+[Wooded Foothills](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D)
+
+
+4
+[Windswept Heath](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D)
+
+
+2
+[Bloodstained Mire](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
 
 
 60 Cards 
@@ -878,7 +885,7 @@ OverviewColorCostRarity
 
 
 
-![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Wooded+Foothills)
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Wooded+Foothills)
 
 
 
@@ -897,11 +904,12 @@ OverviewColorCostRarity
 
 
   
-![Shattering Spree](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Shattering+Spree)If you have a grounded hate for Affinity, you should run this deck - it's the best you can do. It has maindeck [Kataki, War's Wage](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kataki%2C+War%27s+Wage) as well as [Shattering Spree](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shattering+Spree) to make life difficult for artifacts. And it doesn't stop there. The hate continues with maindeck [Ancient Grudge](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ancient+Grudge), [Artifact Mutation](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Artifact+Mutation), [Oxidize](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Oxidize), and even [Tin Street Hooligan](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tin+Street+Hooligan). It may seem awkward to run this many specific anti-artifact cards in the main, but the Affinity deck is so ridiculously good and hence so popular in the online events that every other round you will get paired against Affinity. Spree of Hate is pretty much the only deck in the format that has a good matchup against Affinity, and for that reason Spree of Hate was the second most popular deck in last month's online tournaments.
+![Shattering Spree](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Shattering+Spree)If you have a grounded hate for Affinity, you should run this deck - it's the best you can do. It has maindeck [Kataki, War's Wage](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kataki%2C+War%27s+Wage) as well as [Shattering Spree](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shattering+Spree) to make life difficult for artifacts. And it doesn't stop there. The hate continues with maindeck [Ancient Grudge](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ancient+Grudge), [Artifact Mutation](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Artifact+Mutation), [Oxidize](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Oxidize), and even [Tin Street Hooligan](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tin+Street+Hooligan). It may seem awkward to run this many specific anti-artifact cards in the main, but the Affinity deck is so ridiculously good and hence so popular in the online events that every other round you will get paired against Affinity. Spree of Hate is pretty much the only deck in the format that has a good matchup against Affinity, and for that reason Spree of Hate was the second most popular deck in last month's online tournaments.
 
-Strangely enough, though, games against a solid Affinity player are never an utter blow-out, more like a 60-40% matchup. Even with a ridiculous amount of artifact hate in the maindeck, the deck still isn't guaranteed to beat Affinity. Sure, Affinity can never keep many artifacts on the table against this deck, but if it starts off with a [Darksteel Citadel](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Darksteel+Citadel) or [Blinkmoth Nexus](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Blinkmoth+Nexus), then it can still cast some spells and stand a fair fighting chance. Moreover, if a [Disciple of the Vault](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Disciple+of+the+Vault) can stick on the board, then the Spree of Hate deck is in very bad shape, as every destruction spell will fire back for a point of damage. Lastly, if Spree of Hate stumbles and allows Affinity to equip a [Myr Retriever](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Myr+Retriever) with [Skullclamp](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skullclamp), then the Affinity deck can usually regain enough resources to get back in the game. Nonetheless, Spree of Hate *does* tend to beat Affinity more often than not. Fortunately…
+Strangely enough, though, games against a solid Affinity player are never an utter blow-out, more like a 60-40% matchup. Even with a ridiculous amount of artifact hate in the maindeck, the deck still isn't guaranteed to beat Affinity. Sure, Affinity can never keep many artifacts on the table against this deck, but if it starts off with a [Darksteel Citadel](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Darksteel+Citadel) or [Blinkmoth Nexus](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Blinkmoth+Nexus), then it can still cast some spells and stand a fair fighting chance. Moreover, if a [Disciple of the Vault](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Disciple+of+the+Vault) can stick on the board, then the Spree of Hate deck is in very bad shape, as every destruction spell will fire back for a point of damage. Lastly, if Spree of Hate stumbles and allows Affinity to equip a [Myr Retriever](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Myr+Retriever) with [Skullclamp](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skullclamp), then the Affinity deck can usually regain enough resources to get back in the game. Nonetheless, Spree of Hate *does* tend to beat Affinity more often than not. Fortunately…
 
 This month's third most popular online deck is an old favorite that has resurfaced lately: Tomborid. It is actually like an anti-anti-Affinity deck, because it tends to do very well against the Spree of Hate decks floating around. 
+
 
 
 
@@ -918,7 +926,9 @@ This month's third most popular online deck is an old favorite that has resurfac
 
 
 
+![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
 ![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
 
 
 
@@ -943,39 +953,39 @@ OverviewColorCostRarity
 
 
 4
-[Putrid Imp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPutrid%5D+%5BImp%5D)
+[Putrid Imp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPutrid%5D+%5BImp%5D)
 
 
 4
-[Stinkweed Imp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStinkweed%5D+%5BImp%5D)
+[Stinkweed Imp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStinkweed%5D+%5BImp%5D)
 
 
 4
-[Ichorid](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIchorid%5D)
+[Ichorid](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIchorid%5D)
 
 
 4
-[Golgari Grave-Troll](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGolgari%5D+%5BGrave-Troll%5D)
+[Golgari Grave-Troll](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGolgari%5D+%5BGrave-Troll%5D)
 
 
 2
-[Nether Traitor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNether%5D+%5BTraitor%5D)
+[Nether Traitor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNether%5D+%5BTraitor%5D)
 
 
 2
-[Psychatog](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPsychatog%5D)
+[Psychatog](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPsychatog%5D)
 
 
 1
-[Wonder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWonder%5D)
+[Wonder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWonder%5D)
 
 
 1
-[Sutured Ghoul](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSutured%5D+%5BGhoul%5D)
+[Sutured Ghoul](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSutured%5D+%5BGhoul%5D)
 
 
 1
-[Krosan Cloudscraper](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BCloudscraper%5D)
+[Krosan Cloudscraper](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BCloudscraper%5D)
 
 
 
@@ -984,15 +994,15 @@ OverviewColorCostRarity
 
 
 4
-[Cabal Therapy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCabal%5D+%5BTherapy%5D)
+[Cabal Therapy](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCabal%5D+%5BTherapy%5D)
 
 
 2
-[Deep Analysis](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeep%5D+%5BAnalysis%5D)
+[Deep Analysis](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeep%5D+%5BAnalysis%5D)
 
 
 1
-[Dread Return](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDread%5D+%5BReturn%5D)
+[Dread Return](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDread%5D+%5BReturn%5D)
 
 
 
@@ -1001,11 +1011,11 @@ OverviewColorCostRarity
 
 
 4
-[Entomb](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEntomb%5D)
+[Entomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEntomb%5D)
 
 
 1
-[Ancient Grudge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BGrudge%5D)
+[Ancient Grudge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BGrudge%5D)
 
 
 
@@ -1014,11 +1024,11 @@ OverviewColorCostRarity
 
 
 1
-[Dragon Breath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragon%5D+%5BBreath%5D)
+[Dragon Breath](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragon%5D+%5BBreath%5D)
 
 
 2
-[Zombie Infestation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZombie%5D+%5BInfestation%5D)
+[Zombie Infestation](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZombie%5D+%5BInfestation%5D)
 
 
 
@@ -1027,39 +1037,39 @@ OverviewColorCostRarity
 
 
 4
-[Polluted Delta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
+[Polluted Delta](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
 
 
 4
-[Watery Grave](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWatery%5D+%5BGrave%5D)
+[Watery Grave](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWatery%5D+%5BGrave%5D)
 
 
 3
-[Cephalid Coliseum](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCephalid%5D+%5BColiseum%5D)
+[Cephalid Coliseum](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCephalid%5D+%5BColiseum%5D)
 
 
 2
-[Flooded Strand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D)
+[Flooded Strand](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D)
 
 
 2
-[Bloodstained Mire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
+[Bloodstained Mire](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
 
 
 1
-[Riftstone Portal](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRiftstone%5D+%5BPortal%5D)
+[Riftstone Portal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRiftstone%5D+%5BPortal%5D)
 
 
 2
-[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
 
 
 2
-[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
 
 
 2
-[Gemstone Caverns](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGemstone%5D+%5BCaverns%5D)
+[Gemstone Caverns](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGemstone%5D+%5BCaverns%5D)
 
 
 60 Cards 
@@ -1071,11 +1081,11 @@ OverviewColorCostRarity
 
 
 1
-[Wonder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWonder%5D)
+[Wonder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWonder%5D)
 
 
 2
-[Deep Analysis](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeep%5D+%5BAnalysis%5D)
+[Deep Analysis](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeep%5D+%5BAnalysis%5D)
 
 
 
@@ -1084,39 +1094,39 @@ OverviewColorCostRarity
 
 
 4
-[Putrid Imp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPutrid%5D+%5BImp%5D)
+[Putrid Imp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPutrid%5D+%5BImp%5D)
 
 
 4
-[Stinkweed Imp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStinkweed%5D+%5BImp%5D)
+[Stinkweed Imp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStinkweed%5D+%5BImp%5D)
 
 
 4
-[Ichorid](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIchorid%5D)
+[Ichorid](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIchorid%5D)
 
 
 2
-[Nether Traitor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNether%5D+%5BTraitor%5D)
+[Nether Traitor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNether%5D+%5BTraitor%5D)
 
 
 1
-[Sutured Ghoul](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSutured%5D+%5BGhoul%5D)
+[Sutured Ghoul](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSutured%5D+%5BGhoul%5D)
 
 
 4
-[Entomb](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEntomb%5D)
+[Entomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEntomb%5D)
 
 
 4
-[Cabal Therapy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCabal%5D+%5BTherapy%5D)
+[Cabal Therapy](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCabal%5D+%5BTherapy%5D)
 
 
 2
-[Zombie Infestation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZombie%5D+%5BInfestation%5D)
+[Zombie Infestation](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZombie%5D+%5BInfestation%5D)
 
 
 1
-[Dread Return](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDread%5D+%5BReturn%5D)
+[Dread Return](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDread%5D+%5BReturn%5D)
 
 
 
@@ -1125,11 +1135,11 @@ OverviewColorCostRarity
 
 
 1
-[Dragon Breath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragon%5D+%5BBreath%5D)
+[Dragon Breath](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragon%5D+%5BBreath%5D)
 
 
 1
-[Ancient Grudge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BGrudge%5D)
+[Ancient Grudge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BGrudge%5D)
 
 
 
@@ -1138,11 +1148,11 @@ OverviewColorCostRarity
 
 
 4
-[Golgari Grave-Troll](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGolgari%5D+%5BGrave-Troll%5D)
+[Golgari Grave-Troll](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGolgari%5D+%5BGrave-Troll%5D)
 
 
 1
-[Krosan Cloudscraper](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BCloudscraper%5D)
+[Krosan Cloudscraper](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BCloudscraper%5D)
 
 
 
@@ -1151,7 +1161,7 @@ OverviewColorCostRarity
 
 
 2
-[Psychatog](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPsychatog%5D)
+[Psychatog](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPsychatog%5D)
 
 
 
@@ -1160,39 +1170,39 @@ OverviewColorCostRarity
 
 
 4
-[Polluted Delta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
+[Polluted Delta](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
 
 
 4
-[Watery Grave](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWatery%5D+%5BGrave%5D)
+[Watery Grave](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWatery%5D+%5BGrave%5D)
 
 
 3
-[Cephalid Coliseum](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCephalid%5D+%5BColiseum%5D)
+[Cephalid Coliseum](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCephalid%5D+%5BColiseum%5D)
 
 
 2
-[Flooded Strand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D)
+[Flooded Strand](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D)
 
 
 2
-[Bloodstained Mire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
+[Bloodstained Mire](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
 
 
 1
-[Riftstone Portal](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRiftstone%5D+%5BPortal%5D)
+[Riftstone Portal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRiftstone%5D+%5BPortal%5D)
 
 
 2
-[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
 
 
 2
-[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
 
 
 2
-[Gemstone Caverns](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGemstone%5D+%5BCaverns%5D)
+[Gemstone Caverns](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGemstone%5D+%5BCaverns%5D)
 
 
 60 Cards 
@@ -1204,15 +1214,15 @@ OverviewColorCostRarity
 
 
 4
-[Putrid Imp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPutrid%5D+%5BImp%5D)
+[Putrid Imp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPutrid%5D+%5BImp%5D)
 
 
 4
-[Entomb](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEntomb%5D)
+[Entomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEntomb%5D)
 
 
 4
-[Cabal Therapy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCabal%5D+%5BTherapy%5D)
+[Cabal Therapy](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCabal%5D+%5BTherapy%5D)
 
 
 
@@ -1221,19 +1231,19 @@ OverviewColorCostRarity
 
 
 2
-[Nether Traitor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNether%5D+%5BTraitor%5D)
+[Nether Traitor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNether%5D+%5BTraitor%5D)
 
 
 1
-[Dragon Breath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragon%5D+%5BBreath%5D)
+[Dragon Breath](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragon%5D+%5BBreath%5D)
 
 
 2
-[Zombie Infestation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZombie%5D+%5BInfestation%5D)
+[Zombie Infestation](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZombie%5D+%5BInfestation%5D)
 
 
 1
-[Ancient Grudge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BGrudge%5D)
+[Ancient Grudge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BGrudge%5D)
 
 
 
@@ -1242,11 +1252,11 @@ OverviewColorCostRarity
 
 
 4
-[Stinkweed Imp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStinkweed%5D+%5BImp%5D)
+[Stinkweed Imp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStinkweed%5D+%5BImp%5D)
 
 
 2
-[Psychatog](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPsychatog%5D)
+[Psychatog](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPsychatog%5D)
 
 
 
@@ -1255,19 +1265,19 @@ OverviewColorCostRarity
 
 
 4
-[Ichorid](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIchorid%5D)
+[Ichorid](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIchorid%5D)
 
 
 1
-[Wonder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWonder%5D)
+[Wonder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWonder%5D)
 
 
 2
-[Deep Analysis](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeep%5D+%5BAnalysis%5D)
+[Deep Analysis](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeep%5D+%5BAnalysis%5D)
 
 
 1
-[Dread Return](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDread%5D+%5BReturn%5D)
+[Dread Return](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDread%5D+%5BReturn%5D)
 
 
 
@@ -1276,7 +1286,7 @@ OverviewColorCostRarity
 
 
 4
-[Golgari Grave-Troll](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGolgari%5D+%5BGrave-Troll%5D)
+[Golgari Grave-Troll](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGolgari%5D+%5BGrave-Troll%5D)
 
 
 
@@ -1285,7 +1295,7 @@ OverviewColorCostRarity
 
 
 1
-[Sutured Ghoul](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSutured%5D+%5BGhoul%5D)
+[Sutured Ghoul](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSutured%5D+%5BGhoul%5D)
 
 
 
@@ -1294,47 +1304,47 @@ OverviewColorCostRarity
 
 
 1
-[Krosan Cloudscraper](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BCloudscraper%5D)
+[Krosan Cloudscraper](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BCloudscraper%5D)
 
 
 38 Cards 
 
 
 
-##### Common (17)
+##### Common (20)
 
 
 
 2
-[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
 
 
 2
-[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
 
 
 4
-[Putrid Imp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPutrid%5D+%5BImp%5D)
+[Putrid Imp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPutrid%5D+%5BImp%5D)
 
 
 4
-[Stinkweed Imp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStinkweed%5D+%5BImp%5D)
+[Stinkweed Imp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStinkweed%5D+%5BImp%5D)
 
 
 1
-[Krosan Cloudscraper](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BCloudscraper%5D)
+[Krosan Cloudscraper](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BCloudscraper%5D)
 
 
-1
-[Dragon Breath](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragon%5D+%5BBreath%5D)
+4
+[Entomb](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEntomb%5D)
 
 
 2
-[Deep Analysis](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeep%5D+%5BAnalysis%5D)
+[Deep Analysis](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeep%5D+%5BAnalysis%5D)
 
 
 1
-[Ancient Grudge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BGrudge%5D)
+[Ancient Grudge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BGrudge%5D)
 
 
 
@@ -1343,81 +1353,81 @@ OverviewColorCostRarity
 
 
 1
-[Riftstone Portal](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRiftstone%5D+%5BPortal%5D)
+[Riftstone Portal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRiftstone%5D+%5BPortal%5D)
 
 
 2
-[Psychatog](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPsychatog%5D)
+[Psychatog](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPsychatog%5D)
 
 
 1
-[Wonder](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWonder%5D)
+[Dragon Breath](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragon%5D+%5BBreath%5D)
 
 
 4
-[Cabal Therapy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCabal%5D+%5BTherapy%5D)
+[Cabal Therapy](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCabal%5D+%5BTherapy%5D)
 
 
 2
-[Zombie Infestation](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZombie%5D+%5BInfestation%5D)
+[Zombie Infestation](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZombie%5D+%5BInfestation%5D)
 
 
 1
-[Dread Return](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDread%5D+%5BReturn%5D)
+[Dread Return](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDread%5D+%5BReturn%5D)
 
 
 
-##### Rare (17)
+##### Rare (16)
 
-
-
-2
-[Gemstone Caverns](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGemstone%5D+%5BCaverns%5D)
 
 
 4
-[Ichorid](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIchorid%5D)
+[Watery Grave](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWatery%5D+%5BGrave%5D)
 
 
 4
-[Golgari Grave-Troll](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGolgari%5D+%5BGrave-Troll%5D)
+[Ichorid](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIchorid%5D)
+
+
+4
+[Golgari Grave-Troll](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGolgari%5D+%5BGrave-Troll%5D)
 
 
 2
-[Nether Traitor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNether%5D+%5BTraitor%5D)
+[Nether Traitor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNether%5D+%5BTraitor%5D)
 
 
 1
-[Sutured Ghoul](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSutured%5D+%5BGhoul%5D)
+[Wonder](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWonder%5D)
 
 
-4
-[Entomb](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEntomb%5D)
-
-
-
-##### Mythic (15)
+1
+[Sutured Ghoul](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSutured%5D+%5BGhoul%5D)
 
 
 
-4
-[Polluted Delta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
+##### Mythic (13)
+
 
 
 4
-[Watery Grave](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWatery%5D+%5BGrave%5D)
+[Polluted Delta](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
 
 
 3
-[Cephalid Coliseum](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCephalid%5D+%5BColiseum%5D)
+[Cephalid Coliseum](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCephalid%5D+%5BColiseum%5D)
 
 
 2
-[Flooded Strand](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D)
+[Flooded Strand](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D)
 
 
 2
-[Bloodstained Mire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
+[Bloodstained Mire](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
+
+
+2
+[Gemstone Caverns](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGemstone%5D+%5BCaverns%5D)
 
 
 60 Cards 
@@ -1425,7 +1435,7 @@ OverviewColorCostRarity
 
 
 
-![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Polluted+Delta)
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Polluted+Delta)
 
 
 
@@ -1444,7 +1454,7 @@ OverviewColorCostRarity
 
 
   
-![Entomb](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=entomb)This deck doesn't even run a single artifact, dodging all the Affinity hate as a result. It builds on the overpowered [Entomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Entomb), which aims to put a [Golgari Grave-Troll](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Golgari+Grave-Troll) in the graveyard for dredge purposes. The deck can actually start to dredge as early as in the first draw step if the pieces fall right, since it can use a lucky [Gemstone Caverns](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gemstone+Caverns) to play [Entomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Entomb) on the opponent's first turn before your first draw step. This deck attempts to break the dredge mechanic with [Ichorid](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ichorid). You dredge as often as you can, and then start to return some dudes with haste back from the 'yard. [Entomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Entomb) also allows the deck to find a missing piece of the all-important "combo" of [Sutured Ghoul](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sutured+Ghoul) plus [Krosan Cloudscraper](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Krosan+Cloudscraper) plus [Dragon Breath](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dragon+Breath). That makes for a huge hasty lethal creature, and a flashbacked [Dread Return](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dread+Return) (sacrificing [Ichorid](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ichorid)s and [Nether Traitor](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nether+Traitor)s) will happily put it in play. 
+![Entomb](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=entomb)This deck doesn't even run a single artifact, dodging all the Affinity hate as a result. It builds on the overpowered [Entomb](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Entomb), which aims to put a [Golgari Grave-Troll](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Golgari+Grave-Troll) in the graveyard for dredge purposes. The deck can actually start to dredge as early as in the first draw step if the pieces fall right, since it can use a lucky [Gemstone Caverns](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gemstone+Caverns) to play [Entomb](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Entomb) on the opponent's first turn before your first draw step. This deck attempts to break the dredge mechanic with [Ichorid](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ichorid). You dredge as often as you can, and then start to return some dudes with haste back from the 'yard. [Entomb](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Entomb) also allows the deck to find a missing piece of the all-important "combo" of [Sutured Ghoul](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sutured+Ghoul) plus [Krosan Cloudscraper](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Krosan+Cloudscraper) plus [Dragon Breath](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dragon+Breath). That makes for a huge hasty lethal creature, and a flashbacked [Dread Return](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dread+Return) (sacrificing [Ichorid](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ichorid)s and [Nether Traitor](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nether+Traitor)s) will happily put it in play. 
 
 ### In Other News…
 
@@ -1463,6 +1473,7 @@ Tribal Wars is a casual **Magic**
 
 
 
+
 #### Tribal Wizards
 
 
@@ -1473,7 +1484,9 @@ Tribal Wars is a casual **Magic**
 
 
 
+![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
 ![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
 
 
 
@@ -1498,27 +1511,27 @@ OverviewColorCostRarity
 
 
 4
-[Dark Confidant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BConfidant%5D)
+[Dark Confidant](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BConfidant%5D)
 
 
 4
-[Grim Lavamancer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrim%5D+%5BLavamancer%5D)
+[Grim Lavamancer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrim%5D+%5BLavamancer%5D)
 
 
 4
-[Patron Wizard](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPatron%5D+%5BWizard%5D)
+[Patron Wizard](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPatron%5D+%5BWizard%5D)
 
 
 4
-[Shadowmage Infiltrator](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShadowmage%5D+%5BInfiltrator%5D)
+[Shadowmage Infiltrator](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShadowmage%5D+%5BInfiltrator%5D)
 
 
 4
-[Voidmage Prodigy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVoidmage%5D+%5BProdigy%5D)
+[Voidmage Prodigy](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVoidmage%5D+%5BProdigy%5D)
 
 
 4
-[Sage of Epityr](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSage%5D+%5Bof%5D+%5BEpityr%5D)
+[Sage of Epityr](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSage%5D+%5Bof%5D+%5BEpityr%5D)
 
 
 
@@ -1527,7 +1540,7 @@ OverviewColorCostRarity
 
 
 4
-[Tsabo's Decree](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTsabo%5D+%5BDecree%5D)
+[Tsabo's Decree](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTsabo%5D+%5BDecree%5D)
 
 
 
@@ -1536,7 +1549,7 @@ OverviewColorCostRarity
 
 
 4
-[Umezawa's Jitte](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUmezawa%5D+%5BJitte%5D)
+[Umezawa's Jitte](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUmezawa%5D+%5BJitte%5D)
 
 
 
@@ -1545,7 +1558,7 @@ OverviewColorCostRarity
 
 
 4
-[Engineered Plague](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEngineered%5D+%5BPlague%5D)
+[Engineered Plague](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEngineered%5D+%5BPlague%5D)
 
 
 
@@ -1554,35 +1567,35 @@ OverviewColorCostRarity
 
 
 4
-[Bloodstained Mire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
+[Bloodstained Mire](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
 
 
 7
-[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
 
 
 1
-[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+[Mountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
 
 
 4
-[Polluted Delta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
+[Polluted Delta](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
 
 
 2
-[Steam Vents](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteam%5D+%5BVents%5D)
+[Steam Vents](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteam%5D+%5BVents%5D)
 
 
 1
-[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
 
 
 4
-[Watery Grave](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWatery%5D+%5BGrave%5D)
+[Watery Grave](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWatery%5D+%5BGrave%5D)
 
 
 1
-[Blood Crypt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlood%5D+%5BCrypt%5D)
+[Blood Crypt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlood%5D+%5BCrypt%5D)
 
 
 60 Cards 
@@ -1594,15 +1607,15 @@ OverviewColorCostRarity
 
 
 4
-[Patron Wizard](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPatron%5D+%5BWizard%5D)
+[Patron Wizard](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPatron%5D+%5BWizard%5D)
 
 
 4
-[Voidmage Prodigy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVoidmage%5D+%5BProdigy%5D)
+[Voidmage Prodigy](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVoidmage%5D+%5BProdigy%5D)
 
 
 4
-[Sage of Epityr](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSage%5D+%5Bof%5D+%5BEpityr%5D)
+[Sage of Epityr](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSage%5D+%5Bof%5D+%5BEpityr%5D)
 
 
 
@@ -1611,15 +1624,15 @@ OverviewColorCostRarity
 
 
 4
-[Dark Confidant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BConfidant%5D)
+[Dark Confidant](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BConfidant%5D)
 
 
 4
-[Engineered Plague](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEngineered%5D+%5BPlague%5D)
+[Engineered Plague](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEngineered%5D+%5BPlague%5D)
 
 
 4
-[Tsabo's Decree](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTsabo%5D+%5BDecree%5D)
+[Tsabo's Decree](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTsabo%5D+%5BDecree%5D)
 
 
 
@@ -1628,7 +1641,7 @@ OverviewColorCostRarity
 
 
 4
-[Grim Lavamancer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrim%5D+%5BLavamancer%5D)
+[Grim Lavamancer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrim%5D+%5BLavamancer%5D)
 
 
 
@@ -1637,7 +1650,7 @@ OverviewColorCostRarity
 
 
 4
-[Shadowmage Infiltrator](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShadowmage%5D+%5BInfiltrator%5D)
+[Shadowmage Infiltrator](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShadowmage%5D+%5BInfiltrator%5D)
 
 
 
@@ -1646,39 +1659,39 @@ OverviewColorCostRarity
 
 
 4
-[Bloodstained Mire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
+[Bloodstained Mire](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
 
 
 7
-[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
 
 
 1
-[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+[Mountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
 
 
 4
-[Polluted Delta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
+[Polluted Delta](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
 
 
 2
-[Steam Vents](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteam%5D+%5BVents%5D)
+[Steam Vents](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteam%5D+%5BVents%5D)
 
 
 1
-[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
 
 
 4
-[Watery Grave](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWatery%5D+%5BGrave%5D)
+[Watery Grave](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWatery%5D+%5BGrave%5D)
 
 
 1
-[Blood Crypt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlood%5D+%5BCrypt%5D)
+[Blood Crypt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlood%5D+%5BCrypt%5D)
 
 
 4
-[Umezawa's Jitte](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUmezawa%5D+%5BJitte%5D)
+[Umezawa's Jitte](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUmezawa%5D+%5BJitte%5D)
 
 
 60 Cards 
@@ -1690,11 +1703,11 @@ OverviewColorCostRarity
 
 
 4
-[Grim Lavamancer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrim%5D+%5BLavamancer%5D)
+[Grim Lavamancer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrim%5D+%5BLavamancer%5D)
 
 
 4
-[Sage of Epityr](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSage%5D+%5Bof%5D+%5BEpityr%5D)
+[Sage of Epityr](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSage%5D+%5Bof%5D+%5BEpityr%5D)
 
 
 
@@ -1703,15 +1716,15 @@ OverviewColorCostRarity
 
 
 4
-[Dark Confidant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BConfidant%5D)
+[Dark Confidant](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BConfidant%5D)
 
 
 4
-[Voidmage Prodigy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVoidmage%5D+%5BProdigy%5D)
+[Voidmage Prodigy](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVoidmage%5D+%5BProdigy%5D)
 
 
 4
-[Umezawa's Jitte](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUmezawa%5D+%5BJitte%5D)
+[Umezawa's Jitte](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUmezawa%5D+%5BJitte%5D)
 
 
 
@@ -1720,15 +1733,15 @@ OverviewColorCostRarity
 
 
 4
-[Patron Wizard](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPatron%5D+%5BWizard%5D)
+[Patron Wizard](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPatron%5D+%5BWizard%5D)
 
 
 4
-[Shadowmage Infiltrator](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShadowmage%5D+%5BInfiltrator%5D)
+[Shadowmage Infiltrator](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShadowmage%5D+%5BInfiltrator%5D)
 
 
 4
-[Engineered Plague](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEngineered%5D+%5BPlague%5D)
+[Engineered Plague](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEngineered%5D+%5BPlague%5D)
 
 
 
@@ -1737,7 +1750,7 @@ OverviewColorCostRarity
 
 
 4
-[Tsabo's Decree](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTsabo%5D+%5BDecree%5D)
+[Tsabo's Decree](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTsabo%5D+%5BDecree%5D)
 
 
 36 Cards 
@@ -1749,23 +1762,23 @@ OverviewColorCostRarity
 
 
 7
-[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
 
 
 1
-[Mountain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
+[Mountain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D)
 
 
 1
-[Swamp](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
+[Swamp](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D)
 
 
 4
-[Voidmage Prodigy](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVoidmage%5D+%5BProdigy%5D)
+[Voidmage Prodigy](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVoidmage%5D+%5BProdigy%5D)
 
 
 4
-[Sage of Epityr](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSage%5D+%5Bof%5D+%5BEpityr%5D)
+[Sage of Epityr](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSage%5D+%5Bof%5D+%5BEpityr%5D)
 
 
 
@@ -1774,61 +1787,61 @@ OverviewColorCostRarity
 
 
 4
-[Engineered Plague](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEngineered%5D+%5BPlague%5D)
+[Engineered Plague](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEngineered%5D+%5BPlague%5D)
 
 
 
-##### Rare (20)
+##### Rare (27)
 
-
-
-4
-[Grim Lavamancer](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrim%5D+%5BLavamancer%5D)
-
-
-4
-[Patron Wizard](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPatron%5D+%5BWizard%5D)
-
-
-4
-[Shadowmage Infiltrator](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShadowmage%5D+%5BInfiltrator%5D)
-
-
-4
-[Tsabo's Decree](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTsabo%5D+%5BDecree%5D)
-
-
-4
-[Umezawa's Jitte](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUmezawa%5D+%5BJitte%5D)
-
-
-
-##### Mythic (19)
-
-
-
-4
-[Bloodstained Mire](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
-
-
-4
-[Polluted Delta](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
 
 
 2
-[Steam Vents](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteam%5D+%5BVents%5D)
+[Steam Vents](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteam%5D+%5BVents%5D)
 
 
 4
-[Watery Grave](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWatery%5D+%5BGrave%5D)
+[Watery Grave](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWatery%5D+%5BGrave%5D)
 
 
 1
-[Blood Crypt](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlood%5D+%5BCrypt%5D)
+[Blood Crypt](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlood%5D+%5BCrypt%5D)
 
 
 4
-[Dark Confidant](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BConfidant%5D)
+[Grim Lavamancer](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrim%5D+%5BLavamancer%5D)
+
+
+4
+[Patron Wizard](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPatron%5D+%5BWizard%5D)
+
+
+4
+[Shadowmage Infiltrator](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShadowmage%5D+%5BInfiltrator%5D)
+
+
+4
+[Tsabo's Decree](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTsabo%5D+%5BDecree%5D)
+
+
+4
+[Umezawa's Jitte](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUmezawa%5D+%5BJitte%5D)
+
+
+
+##### Mythic (12)
+
+
+
+4
+[Bloodstained Mire](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D)
+
+
+4
+[Polluted Delta](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D)
+
+
+4
+[Dark Confidant](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BConfidant%5D)
 
 
 60 Cards 
@@ -1836,7 +1849,7 @@ OverviewColorCostRarity
 
 
 
-![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Bloodstained+Mire)
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Bloodstained+Mire)
 
 
 
@@ -1854,7 +1867,7 @@ OverviewColorCostRarity
 
 
 
-He beat Dirve's Goblin deck in the quarterfinals with a turn-three [Engineered Plague](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Engineered+Plague) in both games, prompting a quick concession. He then faced a mirror match in the semifinals, and in the deciding third game he drew 3 [Umezawa's Jitte](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Umezawa%27s+Jitte) as opposed to his opponent's 2 copies. The last equipment standing won the game. He eventually beat Sti's Angel deck (which ran the neat interaction between Aether Vial and [Serra Avenger](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Serra+Avenger)) in the finals, by using [Tsabo's Decree](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tsabo%27s+Decree) to annihilate his opponent's board and hand. Well done, nice deck, but perhaps something should be done about these degenerate cards. [Tsabo's Decree](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tsabo%27s+Decree) in a format where everyone plays 20 creatures of the same type is pretty ridiculous.
+He beat Dirve's Goblin deck in the quarterfinals with a turn-three [Engineered Plague](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Engineered+Plague) in both games, prompting a quick concession. He then faced a mirror match in the semifinals, and in the deciding third game he drew 3 [Umezawa's Jitte](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Umezawa%27s+Jitte) as opposed to his opponent's 2 copies. The last equipment standing won the game. He eventually beat Sti's Angel deck (which ran the neat interaction between Aether Vial and [Serra Avenger](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Serra+Avenger)) in the finals, by using [Tsabo's Decree](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tsabo%27s+Decree) to annihilate his opponent's board and hand. Well done, nice deck, but perhaps something should be done about these degenerate cards. [Tsabo's Decree](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tsabo%27s+Decree) in a format where everyone plays 20 creatures of the same type is pretty ridiculous.
 
 ![Tsabo's Decree](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Tsabo%27s+Decree)### Sea's Rule Preview
 

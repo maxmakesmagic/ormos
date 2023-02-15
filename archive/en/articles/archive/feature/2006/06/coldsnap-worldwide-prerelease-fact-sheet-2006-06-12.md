@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210503154736/https://magic.wizards.com/en/articles/archive/feature/coldsnap-worldwide-prerelease-fact-sheet-2006-06-12)
+[Link to Wayback Machine](https://web.archive.org/web/20210502222755/https://magic.wizards.com/en/articles/archive/feature/coldsnap-worldwide-prerelease-fact-sheet-2006-06-12)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Locations North America (Saturday) North America (Sunday) Latin America France Italy Europe For European Release Events, click here United Kingdom and Ireland South Africa Japan Asia Australia/New Zealand When All Tournaments will be held on the weekend of July 8-9, 2006 Entry Fee & Product Mix Check with your local tournament organizer for specific entry fee information. Cost"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "639041"
 [_metadata_:publish_date]:- "2006-06-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Coldsnap Worldwide Prerelease Fact Sheet"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-03 15:47:36+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503154736id_/https://magic.wizards.com/en/articles/archive/feature/coldsnap-worldwide-prerelease-fact-sheet-2006-06-12"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 22:27:55"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502222755id_/https://magic.wizards.com/en/articles/archive/feature/coldsnap-worldwide-prerelease-fact-sheet-2006-06-12"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/coldsnap-worldwide-prerelease-fact-sheet-2006-06-12"
 ---
 

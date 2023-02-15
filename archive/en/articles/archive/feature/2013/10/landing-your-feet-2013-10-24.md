@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:description]:- "for years, the Lands deck has been floating around Legacy. The first list I can remember had forty-three lands and seemed more like an absurd joke than an actual deck, although it was neither. As new toys (and lands) show up in each new set, the land count has dropped to its current thirty-six, but the core of the deck remains the same. Manabond is long gone, with Exploration,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "667146"
 [_metadata_:publish_date]:- "2013-10-24"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Landing on Your Feet"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-19 01:16:36+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-19 01:16:36"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220819011636id_/https://magic.wizards.com/en/articles/archive/feature/landing-your-feet-2013-10-24"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/landing-your-feet-2013-10-24"
 ---

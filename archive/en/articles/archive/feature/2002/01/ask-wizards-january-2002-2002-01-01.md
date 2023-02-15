@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20170418220256/http://magic.wizards.com/en/articles/archive/feature/ask-wizards-january-2002-2002-01-01)
+[Link to Wayback Machine](https://web.archive.org/web/20211025065649/https://magic.wizards.com/en/articles/archive/feature/ask-wizards-january-2002-2002-01-01)
 
 [_metadata_:author]:- "Wizards of the Coast"
-[_metadata_:description]:- "Do you have a question about Magic: The Gathering or Wizards of the Coast? Send it, along with your full name and location, to ask@wizards.com. We'll post a new question and answer each day.January 31, 2002  `When will we see more elves?`-- Brian Hughes, Vancouver, BC"
+[_metadata_:description]:- "Do you have a question about Magic: The Gathering or Wizards of the Coast? Send it, along with your full name and location, to ask@wizards.com. We'll post a new question and answer each day.January 31, 2002 `When will we see more elves?`-- Brian Hughes, Vancouver, BCQ: `When will we see more elves?`-- Brian Hughes, Vancouver, BC A: From Mark Rosewater, senior designer,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "609311"
 [_metadata_:publish_date]:- "2002-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Ask Wizards - January, 2002"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-18 22:02:56+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170418220256id_/http://magic.wizards.com/en/articles/archive/feature/ask-wizards-january-2002-2002-01-01"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/ask-wizards-january-2002-2002-01-01"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-25 06:56:49"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211025065649id_/https://magic.wizards.com/en/articles/archive/feature/ask-wizards-january-2002-2002-01-01"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ask-wizards-january-2002-2002-01-01"
 ---
 
 
@@ -26,7 +28,7 @@ Ask Wizards - January, 2002
 
 
 
-![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
 By Wizards of the Coast
 
 
@@ -68,7 +70,7 @@ By Wizards of the Coast
 
 
 **A:** From **Mike Elliott**, senior designer, Research & Development:  
-"Sometimes I will have a idea of what the final card will look like when I design the card. For instance, [Two-Headed Dragon](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Two-Headed+Dragon) was actually reverse-designed from an idea I had for a two-headed dragon, which I thought would look cool, so I designed stats around the concept. For other cards, I have had a general idea of creature type and size, but not an idea of what the card would look like, such as the [Avatar of Woe](http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Avatar%2Bof%2BWoe) and the [Dromar, the Banisher](http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Dromar%252C%2Bthe%2BBanisher). Other cards, like [Kamahl, Pit Fighter](http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Kamahl%252C%2BPit%2BFighter), I actually designed around the story concept and what the character did in the story. In very rare cases, like [Spiritmonger](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spiritmonger), I designed the card around the art description that was sent to the artist. Most of the time I just design the cards and let concepting and art work out what the name and description of the card will be, and they commission art afterwards based on their concepting. Other than creature type and size, the designers have very little to do these days with the art descriptions that are sent to the artists, and the artists have always had the right to broadly intrepret the art descriptions based on their personal styles. The artists will always send a sketch ahead of time, and we can adjust their direction if we feel it does not match the concept we envisioned, but this does not happen very often since most of the artists are quite familiar with **Magic**."
+"Sometimes I will have a idea of what the final card will look like when I design the card. For instance, [Two-Headed Dragon](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Two-Headed+Dragon) was actually reverse-designed from an idea I had for a two-headed dragon, which I thought would look cool, so I designed stats around the concept. For other cards, I have had a general idea of creature type and size, but not an idea of what the card would look like, such as the [Avatar of Woe](http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Avatar%2Bof%2BWoe) and the [Dromar, the Banisher](http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Dromar%252C%2Bthe%2BBanisher). Other cards, like [Kamahl, Pit Fighter](http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Kamahl%252C%2BPit%2BFighter), I actually designed around the story concept and what the character did in the story. In very rare cases, like [Spiritmonger](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spiritmonger), I designed the card around the art description that was sent to the artist. Most of the time I just design the cards and let concepting and art work out what the name and description of the card will be, and they commission art afterwards based on their concepting. Other than creature type and size, the designers have very little to do these days with the art descriptions that are sent to the artists, and the artists have always had the right to broadly intrepret the art descriptions based on their personal styles. The artists will always send a sketch ahead of time, and we can adjust their direction if we feel it does not match the concept we envisioned, but this does not happen very often since most of the artists are quite familiar with **Magic**."
 
 *January 29, 2002*
 
@@ -81,7 +83,7 @@ By Wizards of the Coast
 
 
 **A:** From **Rei Nakazawa**, **Magic** creative text writer:  
-"Unfortunately, **Magic** flavor text is somewhat contradictory on the point of treefolk reproduction. On one hand, the flavor text originally used for [Ironroot Treefolk](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ironroot+Treefolk) reads: 'The mating habits of Treefolk, particularly the stalwart Ironroot Treefolk, are truly absurd. Molasses comes to mind. It's amazing the species can survive at all given such protracted periods of mate selection, conjugation, and gestation.' That obviously implies that there are different genders of treefolk. Under those criteria, we would guess that Nemata is probably female, given that a name ending in "a" is usually feminine.
+"Unfortunately, **Magic** flavor text is somewhat contradictory on the point of treefolk reproduction. On one hand, the flavor text originally used for [Ironroot Treefolk](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ironroot+Treefolk) reads: 'The mating habits of Treefolk, particularly the stalwart Ironroot Treefolk, are truly absurd. Molasses comes to mind. It's amazing the species can survive at all given such protracted periods of mate selection, conjugation, and gestation.' That obviously implies that there are different genders of treefolk. Under those criteria, we would guess that Nemata is probably female, given that a name ending in "a" is usually feminine.
 
 "On the other hand, the *Urza's Saga* version of [treefolk seedlings](http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=treefolk%2Bseedlings) has flavor text that reads: 'The year that the brothers landed on Argoth, the trees produced five times as many seeds as normal.' That implies that treefolk produce like normal trees, with seeds, and thus are genderless. Of course, the contradiction can be explained with the differing regions, times, and/or types of treefolk, but in Nemata's case, since we don't know which type of treefolk she/it is, there's no definitive answer. So Nemata is either female or neuter; as for which it is, I'm afraid you'd have to ask her... or it."
 
@@ -103,10 +105,10 @@ By Wizards of the Coast
 *January 25, 2002*
 
 
-"Does the protection static ability protect from cards that do not target the creature specifically? For example, If a creature has protection from white, will [Wrath of God](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wrath+of+God) still affect that creature? Also, do global enchantments like [Knighthood](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Knighthood) affect creatures with protection from white?"  
+"Does the protection static ability protect from cards that do not target the creature specifically? For example, If a creature has protection from white, will [Wrath of God](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wrath+of+God) still affect that creature? Also, do global enchantments like [Knighthood](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Knighthood) affect creatures with protection from white?"  
 -- Josh Sanders, Holmen, WI
 
-"Does the protection static ability protect from cards that do not target the creature specifically? For example, If a creature has protection from white, will [Wrath of God](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wrath+of+God) still affect that creature? Also, do global enchantments like [Knighthood](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Knighthood) affect creatures with protection from white?"  
+"Does the protection static ability protect from cards that do not target the creature specifically? For example, If a creature has protection from white, will [Wrath of God](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wrath+of+God) still affect that creature? Also, do global enchantments like [Knighthood](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Knighthood) affect creatures with protection from white?"  
 -- Josh Sanders, Holmen, WI
 
 **A:** From **Aaron Forsythe**, Content Manager:  
@@ -117,9 +119,9 @@ b) A creature with protection from white can't be enchanted by white enchantment
 c) All damage done to it by white sources is prevented.  
 d) If it attacks, it cannot be blocked by white creatures.
 
-"[Wrath of God](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wrath+of+God) is indeed a white spell, but it *doesn't target anything*; it just destroys all creatures. So Wrath of God *would* destroy a creature with protection from white. Similarly, [Knighthood](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Knighthood) would grant the creature first strike, because it says 'all your creatures,' not 'target creature.'
+"[Wrath of God](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wrath+of+God) is indeed a white spell, but it *doesn't target anything*; it just destroys all creatures. So Wrath of God *would* destroy a creature with protection from white. Similarly, [Knighthood](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Knighthood) would grant the creature first strike, because it says 'all your creatures,' not 'target creature.'
 
-"Note that a creature with protection from red would not die from a big [Earthquake](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Earthquake), however, because Earthquake deals damage, and the protection ability would prevent it all. For more help with the rules, visit the [Magic Rules Page](http://archive.wizards.com/default.asp?x=magic/rules,,en)."
+"Note that a creature with protection from red would not die from a big [Earthquake](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Earthquake), however, because Earthquake deals damage, and the protection ability would prevent it all. For more help with the rules, visit the [Magic Rules Page](http://archive.wizards.com/default.asp?x=magic/rules,,en)."
 
 *January 24, 2002*
 
@@ -131,9 +133,9 @@ d) If it attacks, it cannot be blocked by white creatures.
 -- James Weeks, Princeton, NJ
 
 **A:** From **Elaine Chase**, Research & Development:  
-"If you look back through the history of the game, you'll find that green does get some limited countering ability. The first of these was [Avoid Fate](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Avoid+Fate) from *Legends*. More recently, *Invasion*'s [Bind](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bind) countered an activated ability as well as let you draw a card. While Bind did see some use in the Future Future League as a sideboard card against Rebels, you are correct that none of green's counters have been even close to tier-one Constructed quality.
+"If you look back through the history of the game, you'll find that green does get some limited countering ability. The first of these was [Avoid Fate](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Avoid+Fate) from *Legends*. More recently, *Invasion*'s [Bind](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bind) countered an activated ability as well as let you draw a card. While Bind did see some use in the Future Future League as a sideboard card against Rebels, you are correct that none of green's counters have been even close to tier-one Constructed quality.
 
-"Part of what keeps **Magic** balanced is that each color has its own strengths and weaknesses. If one color could do everything, there would be no reason to play anything else. For instance, red is very good at doing direct damage to both players and creatures. It can also blow up artifacts and destroy lands, but it has almost no way to deal with enchantments. That one simple weakness helps keep burn decks in check because just one [Circle of Protection: Red](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Circle+of+Protection%3A+Red) will shut them down.
+"Part of what keeps **Magic** balanced is that each color has its own strengths and weaknesses. If one color could do everything, there would be no reason to play anything else. For instance, red is very good at doing direct damage to both players and creatures. It can also blow up artifacts and destroy lands, but it has almost no way to deal with enchantments. That one simple weakness helps keep burn decks in check because just one [Circle of Protection: Red](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Circle+of+Protection%3A+Red) will shut them down.
 
 "Green's strengths include big creatures, mana acceleration, and creature enhancements. As you've noticed, green's major weakness is the ability to deal with what your opponent is doing, either in the form of removing threats or in countering them before they hit the table. Green can destroy artifacts and enchantments, and occasionally it gets a little bit of land destruction or limited countering like what was mentioned above. For the most part, though, green is all about getting big beef on the table quickly."
 
@@ -152,14 +154,14 @@ d) If it attacks, it cannot be blocked by white creatures.
 *January 22, 2002*
 
 
- "How did the [Tolarian Academy](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tolarian+Academy) combo ([Stroke of Genius](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stroke+of+Genius), Academy, etc.) slip thru R&D? Along with [Memory Jar](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Memory+Jar), those were very big mistakes. What steps have you taken to ensure unfair combos like that don't occur again?"  
+ "How did the [Tolarian Academy](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tolarian+Academy) combo ([Stroke of Genius](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stroke+of+Genius), Academy, etc.) slip thru R&D? Along with [Memory Jar](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Memory+Jar), those were very big mistakes. What steps have you taken to ensure unfair combos like that don't occur again?"  
 -- Graham Mosby, Boise, ID
 
-**Q:** "How did the [Tolarian Academy](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tolarian+Academy) combo ([Stroke of Genius](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stroke+of+Genius), Academy, etc.) slip thru R&D? Along with [Memory Jar](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Memory+Jar), those were very big mistakes. What steps have you taken to ensure unfair combos like that don't occur again?"  
+**Q:** "How did the [Tolarian Academy](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tolarian+Academy) combo ([Stroke of Genius](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stroke+of+Genius), Academy, etc.) slip thru R&D? Along with [Memory Jar](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Memory+Jar), those were very big mistakes. What steps have you taken to ensure unfair combos like that don't occur again?"  
 -- Graham Mosby, Boise, ID
 
 **A:** From **Henry Stern**, Research & Development:  
-"Hrmm, I could go through a lengthy discussion of our playtesting processes, but I think it is easier to say we simply screwed up on those cards. *Urza's Saga*, in general, was one of our more poorly developed sets. At the time we were somewhat understaffed in R&D (we have since hired 5 developers), and one of the effects of that was not enough playtesting. [Tolarian Academy](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tolarian+Academy) further suffered from one of our classic blunders here in R&D. No, it's not starting a land war in Asia; our classic blunder is changing cards at the last minute. In this case, Tolarian Academy was changed from providing colorless mana to blue mana in order to fit into a cycle of lands that provided colored mana.
+"Hrmm, I could go through a lengthy discussion of our playtesting processes, but I think it is easier to say we simply screwed up on those cards. *Urza's Saga*, in general, was one of our more poorly developed sets. At the time we were somewhat understaffed in R&D (we have since hired 5 developers), and one of the effects of that was not enough playtesting. [Tolarian Academy](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tolarian+Academy) further suffered from one of our classic blunders here in R&D. No, it's not starting a land war in Asia; our classic blunder is changing cards at the last minute. In this case, Tolarian Academy was changed from providing colorless mana to blue mana in order to fit into a cycle of lands that provided colored mana.
 
 "As far as how will we insure that those sorts of mistakes don't occur again, well, I guess my best answer is more playtesting. All of the sets since *Urza's* block have received **much** more playtesting than those did. Also, 4 of the 5 new hires to R&D were former Pro Tour players, and they have helped to ensure that those sorts of 'mistakes' don't happen again. I think our record since *Urza's Saga* has been pretty good."
 
@@ -196,10 +198,10 @@ d) If it attacks, it cannot be blocked by white creatures.
 "First and foremost, R&D includes coin-flip cards in their sets because a significant portion of the audience finds them fun to play with.
 
 
-"The claim here is that these cards are, in effect, useless… but this is true only to the relatively competitive player. In a more casual setting [Goblin Bomb](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Bomb), [Chance Encounter](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chance+Encounter), and friends are sure to make a pretty wacky impact no matter what the format is. Remember, **Magic** isn't solely a 'game of intelligence,' it's also a social game people play for fun. And coin-flip cards are just that - fun.
+"The claim here is that these cards are, in effect, useless… but this is true only to the relatively competitive player. In a more casual setting [Goblin Bomb](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Bomb), [Chance Encounter](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chance+Encounter), and friends are sure to make a pretty wacky impact no matter what the format is. Remember, **Magic** isn't solely a 'game of intelligence,' it's also a social game people play for fun. And coin-flip cards are just that - fun.
 
 
-"Some coin-flip cards have made an impact on limited and constructed environments. [Frenetic Efreet](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Frenetic+Efreet) and [Crooked Scales](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crooked+Scales) have both caused nightmares for opponents in the past - reason enough to make the coin-flip cards of the future considerably weaker… No competitive player likes losing to an obvious coin-flip, and R&D, over time, has diminished the power level of coin-flip cards to compensate."
+"Some coin-flip cards have made an impact on limited and constructed environments. [Frenetic Efreet](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Frenetic+Efreet) and [Crooked Scales](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crooked+Scales) have both caused nightmares for opponents in the past - reason enough to make the coin-flip cards of the future considerably weaker… No competitive player likes losing to an obvious coin-flip, and R&D, over time, has diminished the power level of coin-flip cards to compensate."
 
 *January 17, 2002*
 
@@ -240,24 +242,24 @@ d) If it attacks, it cannot be blocked by white creatures.
 "Keep it fair."
 
 *January 15, 2002*
-"Did anyone at all in the Future Future League have fun playing a deck with [Battle of Wits](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Battle+of+Wits) in it? What were you thinking when you designed this card?"  
+"Did anyone at all in the Future Future League have fun playing a deck with [Battle of Wits](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Battle+of+Wits) in it? What were you thinking when you designed this card?"  
 
 -- Christopher Hickman, Richmond, VA 
 
 
-**Q:** " Did anyone at all in the Future Future League have fun playing a deck with [Battle of Wits](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Battle+of+Wits) in it? What were you thinking when you designed this card?"  
+**Q:** " Did anyone at all in the Future Future League have fun playing a deck with [Battle of Wits](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Battle+of+Wits) in it? What were you thinking when you designed this card?"  
 -- Christopher Hickman, Richmond, VA 
 
 **A:** From  **William Jockusch** , Research & Development:  
-" Originally Battle of Wits was costed at ![](https://web.archive.org/web/20161225105850im_/http://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/colorless2.gif)![](https://web.archive.org/web/20161115194122im_/http://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/blue.gif)![](https://web.archive.org/web/20161115194122im_/http://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/blue.gif), and [Psychatog](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Psychatog) allowed you to remove the top ten cards in your library from the game for +1/+1 until end of turn. A lot of people thought there was no way a deck big enough to support Battle could be any good, but I disagreed. So I built a 242-card black/blue deck with both of those cards as win conditions, plus four copies of both tutors and all remotely playable black and blue cards I could think of. People were surprised and cracking up because they were losing to such a big deck, but it soon became clear that it was no fluke. With 8 win conditions and 8 additional ways to find a win condition, the deck won a lot of quick games. Overall it seemed too good. Also, Battle of Wits was a totally new paradigm. We knew there was no possible way we could find the best Battle of Wits deck in the time available. So we added a mana to Battle of Wits and took the library-eating ability off of Psychatog. At this point, my deck was losing, but we knew the real world would find a better one, so we thought the overall situation would be reasonable enough."
+" Originally Battle of Wits was costed at ![](https://web.archive.org/web/20161225105850im_/http://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/colorless2.gif)![](https://web.archive.org/web/20161115194122im_/http://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/blue.gif)![](https://web.archive.org/web/20161115194122im_/http://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/blue.gif), and [Psychatog](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Psychatog) allowed you to remove the top ten cards in your library from the game for +1/+1 until end of turn. A lot of people thought there was no way a deck big enough to support Battle could be any good, but I disagreed. So I built a 242-card black/blue deck with both of those cards as win conditions, plus four copies of both tutors and all remotely playable black and blue cards I could think of. People were surprised and cracking up because they were losing to such a big deck, but it soon became clear that it was no fluke. With 8 win conditions and 8 additional ways to find a win condition, the deck won a lot of quick games. Overall it seemed too good. Also, Battle of Wits was a totally new paradigm. We knew there was no possible way we could find the best Battle of Wits deck in the time available. So we added a mana to Battle of Wits and took the library-eating ability off of Psychatog. At this point, my deck was losing, but we knew the real world would find a better one, so we thought the overall situation would be reasonable enough."
 
-Why did you take [Dark Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dark+Ritual) out of Extended and Standard? It might allow 2 more points on a [Drain Life](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Drain+Life) or so, but it was not a broken card.  
+Why did you take [Dark Ritual](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dark+Ritual) out of Extended and Standard? It might allow 2 more points on a [Drain Life](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Drain+Life) or so, but it was not a broken card.  
 --Ben Clark, Fayetteville, AR
 
 *January 14, 2002*
 
 
-**Q:** Why did you take [Dark Ritual](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dark+Ritual) out of Extended and Standard? It might allow 2 more points on a [Drain Life](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Drain+Life) or so, but it was not a broken card.  
+**Q:** Why did you take [Dark Ritual](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dark+Ritual) out of Extended and Standard? It might allow 2 more points on a [Drain Life](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Drain+Life) or so, but it was not a broken card.  
 --Ben Clark, Fayetteville, AR
 
 **A:** From **Randy Buehler**, Research & Development:  
@@ -282,10 +284,10 @@ Why did you take [Dark Ritual](http://gatherer.wizards.com/Pages/Card/Details.as
 *January 10, 2002*
 
 
- "If my opponent wants to play a spell, (say a [Black Knight](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Black+Knight)), and I play [Vision Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vision+Charm) and choose to change the basic land type of her swamps to plains... Can she still cast the Black Knight?"  
+ "If my opponent wants to play a spell, (say a [Black Knight](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Black+Knight)), and I play [Vision Charm](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vision+Charm) and choose to change the basic land type of her swamps to plains... Can she still cast the Black Knight?"  
 --Christopher Clarke, Fort Lee, NJ
 
-**Q:** "If my opponent wants to play a spell, (say a [Black Knight](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Black+Knight)), and I play [Vision Charm](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vision+Charm) and choose to change the basic land type of her swamps to plains... Can she still cast the Black Knight?"  
+**Q:** "If my opponent wants to play a spell, (say a [Black Knight](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Black+Knight)), and I play [Vision Charm](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vision+Charm) and choose to change the basic land type of her swamps to plains... Can she still cast the Black Knight?"  
 --Christopher Clarke, Fort Lee, NJ
 
 
@@ -305,7 +307,7 @@ power/toughness, abilities, and creature types don't always mesh from the novels
 
 
 **A:** From **Rei Nakazawa**, **Magic** creative text writer:  
-"Bet you're thinking of the fact that the [Tsabo Tavoc](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tsabo+Tavoc) card could beat the [Gerrard Capashen](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gerrard+Capashen) card in combat any day, while the opposite is true in the story, right? That's probably the most stark example of the sort of discontinuity that you're talking about, but those who work in **Magic** R&D and Continuity believe that we've done a fairly good job overall in keeping the link between cards and characters.
+"Bet you're thinking of the fact that the [Tsabo Tavoc](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tsabo+Tavoc) card could beat the [Gerrard Capashen](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gerrard+Capashen) card in combat any day, while the opposite is true in the story, right? That's probably the most stark example of the sort of discontinuity that you're talking about, but those who work in **Magic** R&D and Continuity believe that we've done a fairly good job overall in keeping the link between cards and characters.
 
 
 "There are a few factors that come into play. The first is that R&D's involvement with (and knowledge of the finer points of) the **Magic** backstory has fluctuated over the years. This was especially true with the Urza block, when Wizards' book publishing department began contracting novelists to creat **Magic** plots and characters. So that from that point on, R&D has depended on the story writers to communicate plot points. For example, [Vhati il-Dal](http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Vhati%2Bil-Dal), a legend from *Tempest*, was reduced in power and toughness because [Commander Greven il-Vec](http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Commander%2BGreven%2Bil-Vec) kills him in the story. The aforementioned Tsabo Tavoc and Gerrard issue might have turned out differently if the outcome of the Tsabo/Gerrard battle had been communicated to the developers in time - which it wasn't, due to the very different schedules R&D and novel writers have. 
@@ -323,7 +325,7 @@ power/toughness, abilities, and creature types don't always mesh from the novels
 
 
 **A:** From **Mike Elliott**, senior designer, Research & Development:  
-Well, [Ruham Djinn](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ruham+Djinn), 5/5 first strike for ![](https://web.archive.org/web/20170413132456im_/http://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/colorless5.gif)![](https://web.archive.org/web/20161227125855im_/http://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/white.gif), is certainly not weak. The drawback against creatureless makes it weak in constructed, but it is certainly solid in draft and sealed for a white fatty. White will be unlikely to get strong constructed cards with fat stats -- that isn't really white's strength -- but you may see the occasional white legend with higher stats and somewhat reasonable mana costs. So, sorry, the 6/6 white groundpounder will always have to pay through the nose for the extra stats.
+Well, [Ruham Djinn](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ruham+Djinn), 5/5 first strike for ![](https://web.archive.org/web/20170413132456im_/http://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/colorless5.gif)![](https://web.archive.org/web/20161227125855im_/http://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/white.gif), is certainly not weak. The drawback against creatureless makes it weak in constructed, but it is certainly solid in draft and sealed for a white fatty. White will be unlikely to get strong constructed cards with fat stats -- that isn't really white's strength -- but you may see the occasional white legend with higher stats and somewhat reasonable mana costs. So, sorry, the 6/6 white groundpounder will always have to pay through the nose for the extra stats.
 
 *January 7, 2002*
 

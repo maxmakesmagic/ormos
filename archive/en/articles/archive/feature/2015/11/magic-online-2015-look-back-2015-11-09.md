@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Worth Wollpert"
 [_metadata_:description]:- "Worth takes a look back at the successes from 2015, as well as the opportunities for continued improvement."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "823176"
 [_metadata_:publish_date]:- "2015-11-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic Online in 2015—A Look Back"
-[_metadata_:wayback_capture_timestamp]:- "2015-11-13 00:04:21+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2015-11-13 00:04:21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151113000421id_/http://magic.wizards.com/en/articles/archive/feature/magic-online-2015-look-back-2015-11-09"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-online-2015-look-back-2015-11-09"
 ---

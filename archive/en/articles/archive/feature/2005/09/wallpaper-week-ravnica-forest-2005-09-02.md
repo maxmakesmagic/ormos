@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This week's desktop wallpaper, following up on Monday's and Wednesday's basic land art previews, is Stephan Martiniere's Forest from the Ravnica: City of Guilds set. Enjoy."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "609086"
 [_metadata_:publish_date]:- "2005-09-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Wallpaper of the Week: Ravnica Forest"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-25 11:31:20+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-25 11:31:20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170625113120id_/http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-ravnica-forest-2005-09-02"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-ravnica-forest-2005-09-02"
 ---

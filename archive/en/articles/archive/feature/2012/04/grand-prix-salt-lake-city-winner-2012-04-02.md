@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Congratulations to Shahar Shenhar, your Grand Prix Salt Lake City champion. You can read more about this Standard format Grand Prix in the official event coverage."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "672251"
 [_metadata_:publish_date]:- "2012-04-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Salt Lake City Winner"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-27 08:55:54+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-27 08:55:54"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027085554id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-salt-lake-city-winner-2012-04-02"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-salt-lake-city-winner-2012-04-02"
 ---

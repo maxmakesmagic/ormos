@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Arnie's CardsCard NameCard Set ConcentrateEighth Edition (Core Set)DehydrationEighth Edition (Core Set)FlightEighth Edition (Core Set)Fallen AngelSeventh EditionFogSeventh EditionGoblin RaiderSeventh EditionHollow DogsSeventh EditionClockwork BeetleMirrodinClockwork CondorMirrodinClockwork DragonMirrodinClockwork VorracMirrodinGrid MonitorMirrodinRust"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "735646"
 [_metadata_:publish_date]:- "2003-11-24"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Okayama Artist: Arnie Swekel"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-15 20:50:13+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-15 20:50:13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211015205013id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-okayama-artist-arnie-swekel-2003-11-24"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-okayama-artist-arnie-swekel-2003-11-24"
 ---

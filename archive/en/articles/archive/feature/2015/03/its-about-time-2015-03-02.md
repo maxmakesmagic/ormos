@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark Gottlieb"
 [_metadata_:description]:- "The dragoniest dragon-filled dragon set that ever dragooned."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "349011"
 [_metadata_:publish_date]:- "2015-03-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "It's About Time"
-[_metadata_:wayback_capture_timestamp]:- "2015-03-02 15:58:34+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2015-03-02 15:58:34"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150302155834id_/http://magic.wizards.com/en/articles/archive/feature/its-about-time-2015-03-02"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/its-about-time-2015-03-02"
 ---

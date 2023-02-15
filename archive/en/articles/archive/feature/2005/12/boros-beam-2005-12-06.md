@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "It's Boros Week on magicthegathering.com, so today we're taking a peek behind the scenes of a card with the Boros mechanic, radiance -- in particular the art of the card Cleansing Beam. A bolt from the heavens rips through the bodies of two shadowy impcreatures in the art of Cleansing Beam. Here's the art description provided to artist Pat Lee for the Cleansing Beam piece:"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "597836"
 [_metadata_:publish_date]:- "2005-12-06"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Boros Beam"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-28 12:58:20+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-28 12:58:20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211128125820id_/https://magic.wizards.com/en/articles/archive/feature/boros-beam-2005-12-06"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/boros-beam-2005-12-06"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Things to do in Birmingham26th March If you like ghost stories A GRAVEYARD walk is being organised. Its about a one hour walk around Warstone Lane Cemetery in Birmingham's jewellery quarter. Your guide will tour you around some of the cemetery's famous residence. The walk is a mixture of Ghost stories and local history. Book early to avoid disappointment. +44 (0) 121 202 5000"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "734201"
 [_metadata_:publish_date]:- "2004-02-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix - Birmingham"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-02 00:47:44+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-02 00:47:44"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170702004744id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-birmingham-2004-02-18"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-birmingham-2004-02-18"
 ---

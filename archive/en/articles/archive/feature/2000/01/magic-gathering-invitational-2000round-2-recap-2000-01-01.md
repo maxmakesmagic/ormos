@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Randy Buehler Mike Long sat down with a 9-1 career record in Duplicate Sealed and shuffled up the only 2-color deck in the field. Pat Chapin sat across from him and took game 1. Mike switched to a black/red/green deck after sideboarding. His decision looked pretty good when he busted out turn 4 Reclusive Wight. After Pat used Being an Evil Minion Sucks to kill it, Mike"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "949771"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic: The Gathering Invitational 2000Round 2 Recap"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 05:45:13+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 05:45:13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523054513id_/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-2-recap-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-2-recap-2000-01-01"
 ---

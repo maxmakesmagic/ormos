@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Tomoharu Saito’s Terastogenesis Format: Extended - Grand Prix–Oakland 1 Calciform Pools 3 Forbidden Orchard 1 Forest 3 Fungal Reaches 1 Gemstone Caverns 4 Gemstone Mine 4 Reflecting Pool 4 Tendo Ice Bridge 4 Angel of Despair 4 Bogardan Hellkite 4 Progenitus 1 Sakashima the Impostor 4 Simian Spirit Guide 4 Terastodon 4 Ardent Plea 1 Demonic Dread 3"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "669366"
 [_metadata_:publish_date]:- "2010-02-24"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Terastogenesis"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-14 21:29:47+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-14 21:29:47"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220814212947id_/https://magic.wizards.com/en/articles/archive/feature/terastogenesis-2010-02-24"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/terastogenesis-2010-02-24"
 ---

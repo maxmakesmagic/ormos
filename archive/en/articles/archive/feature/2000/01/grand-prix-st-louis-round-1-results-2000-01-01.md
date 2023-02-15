@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Team Result Team 3 Aces   *** AWARDED BYE *** Antarctica   *** AWARDED BYE *** Backstreetboys   *** BYE *** BattleZone 3-0 Beat Squad Beauty and the Beasts 0-3 Dogma Cacti"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "952176"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix St. Louis Round 1 Results"
-[_metadata_:wayback_capture_timestamp]:- "2020-12-05 23:09:38+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-12-05 23:09:38"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201205230938id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-1-results-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-st-louis-round-1-results-2000-01-01"
 ---

@@ -4,9 +4,11 @@
 
 [_metadata_:description]:- "Ask Wizards is a weekly feature that allows you to ask us questions! If you'd like to submit your question please email it to AskWizards@wizards.com. We aren't able to answer every question we receive but if your question is good then it might show up in the coming weeks!  Q: In the Drive to Work Theros podcasts, Mark Rosewater mentions that each of the gods' weapons have"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "153941"
 [_metadata_:publish_date]:- "2014-02-04"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Ask Wizards"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-19 09:52:49+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-19 09:52:49"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519095249id_/https://magic.wizards.com/en/articles/archive/feature/ask-wizards-2014-02-04"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ask-wizards-2014-02-04"
 ---

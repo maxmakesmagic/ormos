@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Date: July 2-3, 2011Event Location: EsplanadeAddress: Room 409, 4th floor, 99 Ratchada road. Dindaeng Bangkok 10400, ThailandEligibilityThe Magic: the Gathering Thailand National Championship is an invitation-only event, open to citizens or permanent residents of Thailand who have won an invitation to Nationals through DCI ratings or from qualifying events such as National"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "730431"
 [_metadata_:publish_date]:- "2009-04-27"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2011 Thailand National Championship"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-19 21:56:50+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-19 21:56:50"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519215650id_/https://magic.wizards.com/en/articles/archive/feature/2011-thailand-national-championship-2009-04-27-0"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2011-thailand-national-championship-2009-04-27-0"
 ---

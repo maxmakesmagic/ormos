@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Christian Lührs vs. Bob Maher In a semi-final matchup pitting two Pro Tour Gravy Trainers, Germany's Christian Lührs, playing Counter-Sliver, fell three games to one to hometown favorite Bob Maher, playing in his first top eight. In game one, it was Lührs, playing in his second consecutive constructed top 8, who got out to the fast lead."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "951216"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-Chicago 1999Semifinals Feature Match"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-18 08:04:59+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-18 08:04:59"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220518080459id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999semifinals-feature-match-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999semifinals-feature-match-2000-01-01"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Brian David-Marshall"
 [_metadata_:description]:- "You and two friends walk into a PTQ… It is not the start of some bad joke. Rather it is my way of opening this article to let you know that the Team Limited season is getting underway. Team Limited is my all-time favorite Magic format and not just because it is the only format I have ever won money at on the Pro Tour (although it does give it quite the boost)."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "638151"
 [_metadata_:publish_date]:- "2004-04-06"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Three Times the Fun"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-16 21:34:42+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-16 21:34:42"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816213442id_/https://magic.wizards.com/en/articles/archive/feature/three-times-fun-2004-04-06"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/three-times-fun-2004-04-06"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "State  City  Location  Address  Phone  Email  Website BC Burnaby Engineer's Auditorium 4333 Ledger Ave 604-521-4471 Email  "
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "639651"
 [_metadata_:publish_date]:- "2005-12-06"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Guildpact Worldwide Prerelease Locations"
-[_metadata_:wayback_capture_timestamp]:- "2015-11-17 19:27:24+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2015-11-17 19:27:24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151117192724id_/http://magic.wizards.com/en/articles/archive/feature/guildpact-worldwide-prerelease-locations-2005-12-06"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/guildpact-worldwide-prerelease-locations-2005-12-06"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "Change history at the Fate Reforged Prerelease."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "326556"
 [_metadata_:publish_date]:- "2015-01-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Fate Reforged Prerelease Primer"
-[_metadata_:wayback_capture_timestamp]:- "2015-01-14 21:02:31+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2015-01-14 21:02:31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150114210231id_/http://magic.wizards.com/en/articles/archive/feature/fate-reforged-prerelease-primer-2015-01-12"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/fate-reforged-prerelease-primer-2015-01-12"
 ---

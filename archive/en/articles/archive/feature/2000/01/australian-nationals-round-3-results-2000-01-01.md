@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20220526050001/https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-3-results-2000-01-01)
+[Link to Wayback Machine](https://web.archive.org/web/20171124035738/https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-3-results-2000-01-01)
 
 [_metadata_:author]:- "Wizards of the Coast"
-[_metadata_:description]:- "Table No. Player Res No."
+[_metadata_:description]:- "Table No. Player Res No. Player   11 Sawkins, Dominic     *** BYE *** Pod 10   44 Salmon, Andrew     *** BYE *** Pod 9   79 Smith, Nik    "
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "948776"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Australian Nationals Round 3 Results"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-26 05:00:01+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220526050001id_/https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-3-results-2000-01-01"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-24 03:57:38"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171124035738id_/https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-3-results-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-3-results-2000-01-01"
 ---
 
@@ -26,7 +28,7 @@ Australian Nationals Round 3 Results
 
 
 
-![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
 By Wizards of the Coast
 
 

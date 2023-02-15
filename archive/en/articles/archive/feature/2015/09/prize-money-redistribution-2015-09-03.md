@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Jeff Donais"
 [_metadata_:description]:- "2001 Magic: The Gathering Tournament Structure Developments As 2000 comes to an end, we look to finalize plans for the 2001 calendar year. Concern has been expressed over the overwhelming number of high-level Magic® tournament events. We believe that players will have too much difficulty attending all of the high-level events that we have planned for 2001."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "595671"
 [_metadata_:publish_date]:- "2015-09-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Prize Money Redistribution"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-02 07:27:25+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-02 07:27:25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170702072725id_/http://magic.wizards.com/en/articles/archive/feature/prize-money-redistribution-2015-09-03"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/prize-money-redistribution-2015-09-03"
 ---

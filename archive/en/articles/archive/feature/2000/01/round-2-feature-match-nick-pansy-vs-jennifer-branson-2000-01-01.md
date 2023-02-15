@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Our second round feature match pitted thirteen year old Nick Pansy, an Oxford hopeful playing against one of the tourney's two female players, twelve year old Jennifer Branson. The competitors seemed to agree that talk is cheap and got right to the match. Game one came down to Jennifer's havingtoo much control for Nick to handle. Nick's first turn Lurking Evil (thanks to Dark"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "949036"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 2 Feature Match - Nick Pansy vs. Jennifer Branson"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-16 18:47:01+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-16 18:47:01"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516184701id_/https://magic.wizards.com/en/articles/archive/feature/round-2-feature-match-nick-pansy-vs-jennifer-branson-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-2-feature-match-nick-pansy-vs-jennifer-branson-2000-01-01"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This week's desktop wallpaper is Mirrodin's `blue Manakin,` Silver Myr by Kev Walker. Enjoy. 1024x768 pixels 800x600 pixels See past Wallpapers of the Week"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "606016"
 [_metadata_:publish_date]:- "2003-10-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Wallpaper of the Week: Silver Myr"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-04 22:15:54+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-04 22:15:54"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220704221554id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-silver-myr-2003-10-03"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-silver-myr-2003-10-03"
 ---

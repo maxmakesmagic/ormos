@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match Rank Name Points Win% 1 Game Empire 18 62.04 2 Marc's Brothers 16 62.96 3 Phenomene J 15 64.81 4 Your Move Games 15 64.81 5 Operation Mise 15 59.26 6 CMU 15 58.33 7 Tongo Nation 13 59.26 8 Shop Adept 13 57.41 9 ATM 13 57.41 10 Two Champs and a Chump 13 44.44 11 Fifth Again 12 75.93 12 The Tank 12 58.33 13 Antarctica 12 55.56 14 Neutral Ground Detroit 12 52.78 15 ECA"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "951346"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour - Washington D.C.Day 1 Round 6 Standings"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-16 15:40:52+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-16 15:40:52"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516154052id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-6-standings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-washington-dcday-1-round-6-standings-2000-01-01"
 ---

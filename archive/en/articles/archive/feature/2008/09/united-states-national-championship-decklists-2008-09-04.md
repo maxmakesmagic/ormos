@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Paul Cheon Format: 2008 U.S. Nationals Top 8 4 Secluded Glen 2 River of Tears 2 Faerie Conclave 4 Underground River 1 Pendelhaven 4 Mutavault 3 Sunken Ruins 5 Island 3 Spellstutter Sprite 4 Shadowmage Infiltrator 4 Mistbind Clique 4 Ancestral Vision 4 Bitterblossom 4 Rune Snag 4 Terror 2 Remove Soul 2 Slaughter Pact 4 Cryptic Command *4 Thoughtseize *2"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "646061"
 [_metadata_:publish_date]:- "2008-09-04"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "United States National Championship Decklists"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-26 08:20:38+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-26 08:20:38"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026082038id_/https://magic.wizards.com/en/articles/archive/feature/united-states-national-championship-decklists-2008-09-04"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/united-states-national-championship-decklists-2008-09-04"
 ---

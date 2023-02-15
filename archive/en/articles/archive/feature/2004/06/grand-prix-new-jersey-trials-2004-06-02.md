@@ -5,9 +5,11 @@
 [_metadata_:author]:- "updated 7-1-04"
 [_metadata_:description]:- "Entry Fees: Varies by Location. Contact organizer for detailsTournament Structure: Mirrodin block limitedTournament format: Block ConstructedPrizes: At least 1 3rd round bye at each tournament, plus product prizes determined by the organizerStateCityEvent Date3-round byeLocationAddressContact phoneURLIllinoisChicago7/10/20041Pastimes Sports Cards, Comics & Games8478 Golf"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "735601"
 [_metadata_:publish_date]:- "2004-06-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix - New Jersey Trials"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-17 16:42:20+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-17 16:42:20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211017164220id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-new-jersey-trials-2004-06-02"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-new-jersey-trials-2004-06-02"
 ---

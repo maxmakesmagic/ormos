@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210619085338/https://magic.wizards.com/en/articles/archive/feature/collecting-commander-legends-2020-10-26)
+[Link to Wayback Machine](https://web.archive.org/web/20201101020458/https://magic.wizards.com/en/articles/archive/feature/collecting-commander-legends-2020-10-26)
 
 [_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "Gavin shows off all the truly legendary card treatments available in the upcoming Commander Legends, out November 6."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1515501"
 [_metadata_:publish_date]:- "2020-10-26"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Collecting Commander Legends"
-[_metadata_:wayback_capture_timestamp]:- "2021-06-19 08:53:38+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210619085338id_/https://magic.wizards.com/en/articles/archive/feature/collecting-commander-legends-2020-10-26"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-01 02:04:58"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201101020458id_/https://magic.wizards.com/en/articles/archive/feature/collecting-commander-legends-2020-10-26"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/collecting-commander-legends-2020-10-26"
 ---
 
@@ -37,9 +39,6 @@ By Gavin Verhey
 
 
 
-
-
-*(Editor's Note: Information on foil borderless planeswalker cards found in Collector Boosters has been updated on 11/5.)*
 
 
 It's finally time! *Commander Legends* is nearly here. This set has been years in the making—and I am so excited it's finally coming out and that you will all get to experience it.
@@ -179,10 +178,10 @@ Where is Everything?
 We've gone over a lot in this article, so I want to take a moment to recap where they can all be found so everybody here has a quick reference.
 
 
-![CMR Collector Boosters](https://media.wizards.com/2020/images/daily/Chevron_Where_to_Find_16x9_11_022jsyDeU.jpg)
+![CMR Collector Boosters](https://media.wizards.com/2020/images/daily/Chevron_Where_to_Find_16x9_sEd92D0oSd.jpg)
 
 
-**Borderless planeswalker cards**: These can be found in Draft Boosters and Collector Boosters. Collector Boosters will only contain the foil version.
+**Borderless planeswalker cards**: These can be found in Draft Boosters and Collector Boosters.
 
 
 **Buy-a-Box promo Mana Confluence**: This single card can only be found at a WPN location, as something you receive for purchasing a booster box of *Commander Legends* or *Commander Legends* Collector Boosters. (While supplies last!)

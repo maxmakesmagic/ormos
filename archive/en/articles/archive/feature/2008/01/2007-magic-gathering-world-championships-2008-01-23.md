@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Complete coverage of the 2007 Magic World ChampionshipsNew York City becomes the hub of the Magic: The Gathering universe in December as the city hosts the 2007 Magic World Championships. Home to the first Pro Tour back in 1996 and many other events, New York City is as rich in Magic history as any place on the globe."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "732416"
 [_metadata_:publish_date]:- "2008-01-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2007 Magic: The Gathering World Championships"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-23 02:18:51+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-23 02:18:51"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170623021851id_/http://magic.wizards.com/en/articles/archive/feature/2007-magic-gathering-world-championships-2008-01-23"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/2007-magic-gathering-world-championships-2008-01-23"
 ---

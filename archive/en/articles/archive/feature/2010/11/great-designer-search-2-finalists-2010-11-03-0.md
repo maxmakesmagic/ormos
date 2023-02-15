@@ -5,9 +5,11 @@
 [_metadata_:author]:- "magicthegathering.com Staff"
 [_metadata_:description]:- "NAME: Jonathon LoucksMULTIPLE CHOICE SCORE: 44ESSAYS:1. Introduce yourself and explain why you are a good fit for this internship.My name is Jonathon Loucks, I live in Seattle, and I have a degree in economics from the University of Washington.I'm a game designer and I love it. I've had jobs working on all kinds of games from TCGs and collectible miniature games (CMG) to board"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "604886"
 [_metadata_:publish_date]:- "2010-11-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Great Designer Search 2 Finalists"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-02 00:52:38+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 00:52:38"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502005238id_/https://magic.wizards.com/en/articles/archive/feature/great-designer-search-2-finalists-2010-11-03-0"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/great-designer-search-2-finalists-2010-11-03-0"
 ---

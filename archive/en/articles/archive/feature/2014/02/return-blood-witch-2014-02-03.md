@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Gerry Thompson"
 [_metadata_:description]:- "Despite Rakdos Aggro winning a Standard Grand Prix in this format, it's received very little press. Some updated versions have been popping up on Magic Online lately and they look pretty good. Of course, some of that has to do with the deck incorporating a couple of Mono-Black Devotion's tricks, such as Pack Rat. Considering how easy it is to win games with an uncontested"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "667551"
 [_metadata_:publish_date]:- "2014-02-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Return of the Blood Witch"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-27 19:33:26+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-27 19:33:26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211027193326id_/https://magic.wizards.com/en/articles/archive/feature/return-blood-witch-2014-02-03"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/return-blood-witch-2014-02-03"
 ---

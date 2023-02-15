@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Magic: The Gathering can be almost as complex a game as it is a fun one, but there's no need to despair! We've got tons of resources to help you with any questions about getting started in the Magic Multiverse, whether you're taking your first steps into the planes or charging through the Magic: The Gathering Pro Tour. Read on to find out more about these concepts: Card"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "701346"
 [_metadata_:publish_date]:- "2008-08-08"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Getting Started"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-05 08:50:03+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-05 08:50:03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211205085003id_/https://magic.wizards.com/en/articles/archive/feature/getting-started-2008-08-08"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/getting-started-2008-08-08"
 ---

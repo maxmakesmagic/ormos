@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "Weatherlight was a set chock full of remarkable cards... that has, over the years, generated comparatively few remarks. Weatherlight's Standard was very strange, a window to today's multiple-block-structured Standard formats. Right before U.S. Nationals in 1997, Ice Age was reinstated, bringing Swords to Plowshares back with it, which served to overshadow the new set in the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "627601"
 [_metadata_:publish_date]:- "2007-12-06"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Weatherlight Cards that Changed the World"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-04 15:01:56+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-04 15:01:56"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211204150156id_/https://magic.wizards.com/en/articles/archive/feature/weatherlight-cards-changed-world-2007-12-06"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/weatherlight-cards-changed-world-2007-12-06"
 ---

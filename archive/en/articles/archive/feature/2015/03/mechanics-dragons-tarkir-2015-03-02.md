@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Matt Tabak"
 [_metadata_:description]:- "The new and returning mechanics of Tarkir."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "346676"
 [_metadata_:publish_date]:- "2015-03-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Mechanics of Dragons of Tarkir"
-[_metadata_:wayback_capture_timestamp]:- "2015-03-02 15:54:57+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2015-03-02 15:54:57"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150302155457id_/http://magic.wizards.com/en/articles/archive/feature/mechanics-dragons-tarkir-2015-03-02"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mechanics-dragons-tarkir-2015-03-02"
 ---

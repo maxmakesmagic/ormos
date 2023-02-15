@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Round 13 Results Table Player 1 Result Player 2 Maass, Eckhard *** BYE *** Pod 8 Dall Jensen, Thomas *** BYE *** Pod 3 Reinhardt, Fabio *** BYE *** Pod 7 Snepvangers, Abraham *** BYE *** Pod 6 1 Walter, Bjoern 02-01-00 Andersson, Thomas 2 Dictus, Mark 2-0-0 Hacker, Brian 3 Schneiders, Felix 01-02-00 Franzen, Johan 4 Jocumsen, Bjorn 01-02-00 Karlsson, Morgan 5 Elfgren, Bertil"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "951751"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Copenhagen 2000"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-22 20:02:02+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-22 20:02:02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522200202id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-35"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-35"
 ---

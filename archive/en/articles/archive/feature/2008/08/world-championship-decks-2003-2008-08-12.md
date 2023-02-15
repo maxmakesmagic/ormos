@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Collector's Highlights 2003 marked the Tenth Anniversary of the Magic: The Gathering trading card game and the introduction of the Eighth Edition Core Set. As part of celebrating a decade of Magic, all cards from the Eighth Edition Core Set forward have a brand new card face."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "647206"
 [_metadata_:publish_date]:- "2008-08-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "World Championship Decks 2003"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-20 18:19:31+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-20 18:19:31"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220120181931id_/https://magic.wizards.com/en/articles/archive/feature/world-championship-decks-2003-2008-08-12"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/world-championship-decks-2003-2008-08-12"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Rune Horvik"
 [_metadata_:description]:- "Send your rules questions to level 4 judge Rune Horvik at ask@wizards.com. He answers approximately 30 questions every week.Can't find the answer to your question? Maybe he's already answered it! Try the Saturday School Searchable Rules Database.Beginner Questions Q: I have a Devoted Caretaker in play and my friend played a Wrath of God (or Upheaval). I argued that I could use"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "622141"
 [_metadata_:publish_date]:- "2003-03-08"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Saturday School #18"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-18 19:52:27+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-18 19:52:27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118195227id_/https://magic.wizards.com/en/articles/archive/feature/saturday-school-18-2003-03-08"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/saturday-school-18-2003-03-08"
 ---

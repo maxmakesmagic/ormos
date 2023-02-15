@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "TeamPointsOpponentPoints528015vsFrog Eaters15Azz Izz *Amateur*3vsRookies *Amateur*3Cherry *Amateur*15vsThe Hubbsucker Proxy15Conan the Barbarian12vsTwo Geeks and a Lumberjack12Team Flees15vsRug Doctors15Dynasty15vsTeam 0-3 Lunch *Amateur*15Egghead Games Inc.12vs$42 Ticket *Amateur*12Family Games Center16vsAlphaBetaUnlimited.com/16Grape Apes14vsThe Tails *Amateur*13Highlanders"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "805861"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 7 Pairings (by Team)"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-02 20:28:10+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-02 20:28:10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220702202810id_/https://magic.wizards.com/en/articles/archive/feature/round-7-pairings-team-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-7-pairings-team-2000-01-01"
 ---

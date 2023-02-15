@@ -5,9 +5,11 @@
 [_metadata_:author]:- "R&D Narrative Team"
 [_metadata_:description]:- "The Sun Empire and the River Heralds have a long history together, predating even the empire itself."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1226071"
 [_metadata_:publish_date]:- "2017-11-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Planeswalker's Guide to Ixalan, Part 1"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-09 07:06:12+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-09 07:06:12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171109070612id_/https://magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-ixalan-part-1-2017-11-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-ixalan-part-1-2017-11-01"
 ---

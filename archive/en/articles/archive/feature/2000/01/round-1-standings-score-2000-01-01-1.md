@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "RankTeamPointsOp.Win% 1 DEFENCER Minor 3 33.33% 2 P-Kies 3 33.33% 3 Akko ni Omakase 3 33.33% 4 Death Crimson 3 33.33% 5 Usagisan Team 3 33.33% 6 Chiban Dragon 3 33.33% 7 Team Emon Staff"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "807046"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 1 Standings (by Score)"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-23 09:42:09+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-23 09:42:09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171123094209id_/https://magic.wizards.com/en/articles/archive/feature/round-1-standings-score-2000-01-01-1"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-1-standings-score-2000-01-01-1"
 ---

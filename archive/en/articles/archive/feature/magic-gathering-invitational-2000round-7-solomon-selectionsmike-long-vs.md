@@ -5,8 +5,10 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Pack #1 - Mike Long Divides   Mike Long David Price Ivory Mask Coastal Piracy Time Elemental Forbid Red Elemental Blast Maggot Therapy Deranged Hermit Bull Hippo Pack #2 - David Price Divides   Mike Long David Price Suq'Ata Firewalker Flare Mind Harness Wild Aesthir Gerrard's Wisdom Lawbringer Sanctum Custodian Jungle Wurm Pack #3 - Mike Long Divides   Mike Long David Price"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "949876"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic: The Gathering Invitational 2000Round 7 Solomon SelectionsMike Long vs. David Price"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-29 13:22:05+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-29 13:22:05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211129132205id_/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-7-solomon-selectionsmike-long-vs"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000round-7-solomon-selectionsmike-long-vs"
 ---

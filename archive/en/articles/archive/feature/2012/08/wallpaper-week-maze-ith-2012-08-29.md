@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Welcome to Wallpaper of the Week! This week's wallpaper features Yeong-Hao Han's Maze of Ith from From the Vault: Realms. Enjoy."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "594831"
 [_metadata_:publish_date]:- "2012-08-29"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Wallpaper of the Week: Maze of Ith"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-13 13:10:09+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-13 13:10:09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201113131009id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-maze-ith-2012-08-29"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-maze-ith-2012-08-29"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Junior Super Series Championship Round 3 Pairings - 15-17 Division Player Points Table Opponent Points Adams, Zach (58) 0 77 Mason, Eric (20) 0 Allen, Crispin (3) 0 79 Carey, Joey (30) 0 Baker, Justin (35) 3 70 Rader, Gaura (22) 3 Brubaker, Jake (24) 0 75 Myers, Marc (37) 0 Cahir, Dan (14) 3 58 Cooper, Geddes (23) 4 Carey, Joey (30) 0 79 Allen, Crispin (3) 0 Carpenter, Ryan"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "953371"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Sideboard Online Event Coverage"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 19:07:51+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 19:07:51"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523190751id_/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-15"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-15"
 ---

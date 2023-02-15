@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "See the tokens that will come with Masters 25 in all their glory."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1258181"
 [_metadata_:publish_date]:- "2018-03-02"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Tokens of Masters 25"
-[_metadata_:wayback_capture_timestamp]:- "2018-03-22 06:56:06+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2018-03-22 06:56:06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180322065606id_/https://magic.wizards.com/en/articles/archive/feature/tokens-masters-25-2018-03-02"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/tokens-masters-25-2018-03-02"
 ---

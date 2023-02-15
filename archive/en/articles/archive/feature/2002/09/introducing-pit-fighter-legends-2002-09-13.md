@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Josh Bennett"
 [_metadata_:description]:- "Magic is fundamentally about moving your opponent from twenty to zero. Forgetting for a moment about poison counters and Celestial Convergence, the game puts to you a simple task, and offers you any number of ways of accomplishing it."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "634531"
 [_metadata_:publish_date]:- "2002-09-13"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Introducing the Pit Fighter Legends"
-[_metadata_:wayback_capture_timestamp]:- "2016-04-21 05:27:36+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-04-21 05:27:36"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160421052736id_/http://magic.wizards.com/en/articles/archive/feature/introducing-pit-fighter-legends-2002-09-13"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/introducing-pit-fighter-legends-2002-09-13"
 ---

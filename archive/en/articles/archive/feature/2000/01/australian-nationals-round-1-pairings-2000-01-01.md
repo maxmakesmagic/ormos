@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Table Opponent Adams, Joel ( 15) 35 George, Benjamin ( 74) Ansell, Robert ( 31) 5 Shanley, Glenn ( 13) Bandas, Jim ( 80) 9 Bow, Frankle ( 83) Barlow, Russell ( 19) 34 Hamilton, Berren ( 62) Bow, Frankle ( 83) 9 Bandas, Jim ( 80) Bray, Jonathan ( 70) 24 McGann, Cael ( 37) Brebach, Kim ( 32) 39 Park, Michael ( 42) Brugman, John ( 41) 31 Stoddart, Thomas ( 1) Campbell,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "948816"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Australian Nationals Round 1 Pairings"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-08 03:54:39+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-08 03:54:39"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208035439id_/https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-1-pairings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/australian-nationals-round-1-pairings-2000-01-01"
 ---

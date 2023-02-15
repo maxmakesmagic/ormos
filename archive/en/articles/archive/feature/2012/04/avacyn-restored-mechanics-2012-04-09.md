@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20160425055205/http://magic.wizards.com/en/articles/archive/feature/avacyn-restored-mechanics-2012-04-09)
+[Link to Wayback Machine](https://web.archive.org/web/20211130022439/https://magic.wizards.com/en/articles/archive/feature/avacyn-restored-mechanics-2012-04-09)
 
 [_metadata_:author]:- "magicthegathering.com Staff"
-[_metadata_:description]:- "If you're new to Magic or looking for a refresher on the basic rules, check out the Learn to Play page."
+[_metadata_:description]:- "If you're new to Magic or looking for a refresher on the basic rules, check out the Learn to Play page.  Miracle Soulbond Undying  `Loners` `Flickering`  The archangel Avacyn has returned to Innistrad, and she and her flights of angels now wage a plane-wide war against the monstrous forces that have grown unchecked in her absence. The plane's humans and their angelic allies"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "353511"
 [_metadata_:publish_date]:- "2012-04-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Avacyn Restored Mechanics"
-[_metadata_:wayback_capture_timestamp]:- "2016-04-25 05:52:05+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160425055205id_/http://magic.wizards.com/en/articles/archive/feature/avacyn-restored-mechanics-2012-04-09"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/avacyn-restored-mechanics-2012-04-09"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-30 02:24:39"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211130022439id_/https://magic.wizards.com/en/articles/archive/feature/avacyn-restored-mechanics-2012-04-09"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/avacyn-restored-mechanics-2012-04-09"
 ---
 
 
@@ -26,7 +28,7 @@ Avacyn Restored Mechanics
 
 
 
-![](https://web.archive.org/web/20170709072651im_/http://magic.wizards.com/sites/all/themes/wiz_mtg/images/global/generic-avatar-150.png)
+![](https://web.archive.org/web/20211024110319im_/https://magic.wizards.com/sites/all/themes/wiz_mtg/images/global/generic-avatar-150.png)
 By magicthegathering.com Staff
 
 

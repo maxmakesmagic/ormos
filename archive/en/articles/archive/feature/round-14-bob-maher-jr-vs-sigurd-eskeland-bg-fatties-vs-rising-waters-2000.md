@@ -5,8 +5,10 @@
 [_metadata_:author]:- "Randy Buehler"
 [_metadata_:description]:- "Match Coverage Finals: Jon Finkel (USA) vs. Bob Maher, Jr. (USA) In a battle of Magic titans, Jon Finkel, the greatest player in the history of Magic: the Gathering , defeated Bob Maher three games to two. Playing nearly identical decks, the two friends, both of whom had previously won Pro Tours, played the maximum number of games to decide who would join Tommi Hovi as the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "962241"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 14: Bob Maher, Jr. vs. Sigurd Eskeland B/G Fatties vs. Rising Waters"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-01 06:27:00+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-01 06:27:00"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211201062700id_/https://magic.wizards.com/en/articles/archive/feature/round-14-bob-maher-jr-vs-sigurd-eskeland-bg-fatties-vs-rising-waters-2000"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-14-bob-maher-jr-vs-sigurd-eskeland-bg-fatties-vs-rising-waters-2000"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Roger Sampson's Emeria Enchantress Format: Connecticut 2009s Standard 23 Plains 2 Emeria, the Sky Ruin 3 Baneslayer Angel 3 Mesa Enchantress 3 Wall of Reverence 4 Journey to Nowhere 2 Luminarch Ascension 4 Oblivion Ring 4 Pacifism 4 Sigil of the Empty Throne 4 Path to Exile 4 Day of Judgment *3 Devout Lightcaster *2 Felidar Sovereign *1 Luminarch Ascension *3"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "669126"
 [_metadata_:publish_date]:- "2009-12-14"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Emeria Enchantress"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-12 23:51:44+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-12 23:51:44"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220812235144id_/https://magic.wizards.com/en/articles/archive/feature/emeria-enchantress-2009-12-14"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/emeria-enchantress-2009-12-14"
 ---

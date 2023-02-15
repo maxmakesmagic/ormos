@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "At 4-1, these competitors are vying for position in the second day. Matt Vienneau, just off his recent top 32 in Chicago is seeking the ever elusive Top 8, as is Brian Selden, former World Champion. Both players have drafted extremely aggressive decks, with lots of fast and tough creatures and direct damage. Game 1 This starts off with only land played for the first several"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "950486"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-Los Angeles 2000Round 6 Feature Match"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-26 16:28:49+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-26 16:28:49"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126162849id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-6-feature-match-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000round-6-feature-match-2000-01-01"
 ---

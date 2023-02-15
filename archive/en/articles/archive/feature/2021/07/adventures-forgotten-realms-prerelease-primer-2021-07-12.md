@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210713094718/https://magic.wizards.com//en/articles/archive/feature/adventures-forgotten-realms-prerelease-primer-2021-07-12)
+[Link to Wayback Machine](https://web.archive.org/web/20210712150836/https://magic.wizards.com/en/articles/archive/feature/adventures-forgotten-realms-prerelease-primer-2021-07-12)
 
 [_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "Choose your class. Gather your party. It's time for a tabletop adventure with Adventures in the Forgotten Realms."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1547777"
 [_metadata_:publish_date]:- "2021-07-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Adventures in the Forgotten Realms Prerelease Primer"
-[_metadata_:wayback_capture_timestamp]:- "2021-07-13 09:47:18+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210713094718id_/https://magic.wizards.com//en/articles/archive/feature/adventures-forgotten-realms-prerelease-primer-2021-07-12"
-[_metadata_:wayback_url]:- "https://magic.wizards.com//en/articles/archive/feature/adventures-forgotten-realms-prerelease-primer-2021-07-12"
+[_metadata_:wayback_capture_timestamp]:- "2021-07-12 15:08:36"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210712150836id_/https://magic.wizards.com/en/articles/archive/feature/adventures-forgotten-realms-prerelease-primer-2021-07-12"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/adventures-forgotten-realms-prerelease-primer-2021-07-12"
 ---
 
 

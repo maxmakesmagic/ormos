@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Gerry Thompson"
 [_metadata_:description]:- "Today's deck takes a lot of pieces from various strategies, hoping to get an advantage in Standard. It also looks pretty sweet. Bant Control isn't a new thing, but splashing Assemble the Legion into that shell is. ChannelFireballers Josh Utter-Leyton and David Ochoa splashed Assemble the Legion into their White-Blue Control deck at Grand Prix Vancouver to marginal success."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "667571"
 [_metadata_:publish_date]:- "2014-02-07"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Bant Legions"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-18 02:17:40+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-18 02:17:40"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118021740id_/https://magic.wizards.com/en/articles/archive/feature/bant-legions-2014-02-07"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/bant-legions-2014-02-07"
 ---

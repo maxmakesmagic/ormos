@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Bonnie Bruenderman"
 [_metadata_:description]:- "Venture into the Labyrinth"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "160796"
 [_metadata_:publish_date]:- "2014-04-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Labyrinth of Labors"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-07 01:56:23+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-07 01:56:23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220707015623id_/https://magic.wizards.com/en/articles/archive/feature/labyrinth-labors-2014-04-16"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/labyrinth-labors-2014-04-16"
 ---

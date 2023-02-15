@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Invitation Origin Player Name Registered  Australian Capital Territory Slot 1 Evans, David Yes  Australian Capital Territory Slot 2 Evans, Merlyn  Australian Capital Territory Slot 3 Foster, Angus Yes  Australian Capital Territory Slot 4 Green, Micah Yes  Australian Capital Territory Slot 5 Karp, Hugh Yes  Australian Capital Territory Slot 6 Liao, Wei Yes  Australian Capital"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "948846"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2000 Australian National Championship Invitation List"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-22 18:12:44+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-22 18:12:44"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522181244id_/https://magic.wizards.com/en/articles/archive/feature/2000-australian-national-championship-invitation-list-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2000-australian-national-championship-invitation-list-2000-01-01"
 ---

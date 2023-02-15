@@ -5,8 +5,10 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Game 1 Naoh Boeken mulligans and is immediately under pressure from a turns 3 Drake Hatchling, noah summons a Diving Griffen, a turn 4 Zarata Minotaur keeps te pressure up and the next turn Nielsen plays another Hatchling. The next turn the Minotaur is blocked by a spiteful bully which was searched for by a Brute but a Flowstone Crusher takes its place. Noah is still at 4 land"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "951946"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Copenhagen 2000 - Semi Final Niels Jensen vs Noah Boeken"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-21 18:52:30+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-21 18:52:30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521185230id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-semi-final-niels-jensen-vs-noah-boeken-2000-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-semi-final-niels-jensen-vs-noah-boeken-2000-01"
 ---

@@ -4,9 +4,11 @@
 
 [_metadata_:description]:- "Name Code Decktype Afanasenko, Dmitry (RUS) RU Replenish Alejos, Franz (VEN) VE Bargain Alves, Jhonathan (VEN) VE Trinity Ang, Jun Yang (SNG) SG Acc."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "961426"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Standard Decks"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-29 08:27:10+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-29 08:27:10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211129082710id_/https://magic.wizards.com/en/articles/archive/feature/standard-decks-2000-01-01-0"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/standard-decks-2000-01-01-0"
 ---

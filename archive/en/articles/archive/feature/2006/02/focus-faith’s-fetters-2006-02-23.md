@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "It doesn't look like much, does it? When I first saw Faith's Fetters, I mistakenly assessed it as nothing more than the latest in a long line of White `Pacifism` enchantments (Arrest, Cage of Hands, and so forth)."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "628371"
 [_metadata_:publish_date]:- "2006-02-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Focus on Faith’s Fetters"
-[_metadata_:wayback_capture_timestamp]:- "2021-11-29 09:53:26+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-11-29 09:53:26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211129095326id_/https://magic.wizards.com/en/articles/archive/feature/focus-faith%E2%80%99s-fetters-2006-02-23"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/focus-faith%E2%80%99s-fetters-2006-02-23"
 ---

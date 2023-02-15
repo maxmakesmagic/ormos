@@ -5,9 +5,11 @@
 [_metadata_:author]:- "John Carter"
 [_metadata_:description]:- "Send your rules questions to Level Four Judge John Carter. Can't find the answer to your question somewhere else, like the Magic Comprehensive Rules? Maybe he's already answered it! Try the Saturday School Searchable Rules Database.Dissension is upon us! The best place to get in on the end of Ravnica is at your nearest prerelease. It's bound to be a party to shake the Guilds"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "625446"
 [_metadata_:publish_date]:- "2006-04-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Dissension Weekend"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-02 10:00:51+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 10:00:51"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502100051id_/https://magic.wizards.com/en/articles/archive/feature/dissension-weekend-2006-04-22"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dissension-weekend-2006-04-22"
 ---

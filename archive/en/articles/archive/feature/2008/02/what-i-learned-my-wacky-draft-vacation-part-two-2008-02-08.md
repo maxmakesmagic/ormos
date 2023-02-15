@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Devin Low"
 [_metadata_:description]:- "Welcome back to Part Two. If you haven't read Part One yet, check it out here. Two weeks ago, I started showing some offbeat Wacky Drafts I've played. Hidden in all the wackiness, I found some examples of what Magic does right and wrong when Magic cards interact from two different blocks years apart. In particular, the Reject Rare Draft demonstrated the pitfalls of parasitism."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "297276"
 [_metadata_:publish_date]:- "2008-02-08"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "What I Learned on my Wacky Draft Vacation (Part Two)"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-23 09:37:18+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-23 09:37:18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023093718id_/https://magic.wizards.com/en/articles/archive/feature/what-i-learned-my-wacky-draft-vacation-part-two-2008-02-08"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/what-i-learned-my-wacky-draft-vacation-part-two-2008-02-08"
 ---

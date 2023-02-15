@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Kai Budde's Hall of Fame Jund Format: Worlds 2009 Standard 3 Mountain 3 Swamp 3 Forest 4 Savage Lands 4 Rootbound Crag 1 Oran-Rief, the Vastwood 4 Verdant Catacombs 3 Dragonskull Summit 4 Putrid Leech 4 Sprouting Thrinax 4 Bloodbraid Elf 3 Broodmate Dragon 2 Borderland Ranger 3 Garruk Wildspeaker 4 Lightning Bolt 2 Terminate 3 Maelstrom Pulse 4 Blightning 2"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "669061"
 [_metadata_:publish_date]:- "2009-11-25"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Hall of Fame Jund"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-24 20:10:08+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-24 20:10:08"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211024201008id_/https://magic.wizards.com/en/articles/archive/feature/hall-fame-jund-2009-11-25"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/hall-fame-jund-2009-11-25"
 ---

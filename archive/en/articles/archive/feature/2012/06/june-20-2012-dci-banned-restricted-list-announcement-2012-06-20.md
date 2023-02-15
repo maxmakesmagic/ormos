@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Updated: The Effective Date for this change has been modified to be Friday, June 29, 2012. The new Legacy banned list will be effective for Grand Prix Atlanta.Announcement Date: June 20, 2012 Effective Date: June 29, 2012 (Previously, July 1, 2012)Standard, Extended, Modern, Vintage  No changesLegacy  Land Tax is Unbanned."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "687726"
 [_metadata_:publish_date]:- "2012-06-20"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "June 20, 2012, DCI Banned & Restricted List Announcement"
-[_metadata_:wayback_capture_timestamp]:- "2019-12-21 04:08:46+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2019-12-21 04:08:46"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20191221040846id_/https://magic.wizards.com/en/articles/archive/feature/june-20-2012-dci-banned-restricted-list-announcement-2012-06-20"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/june-20-2012-dci-banned-restricted-list-announcement-2012-06-20"
 ---

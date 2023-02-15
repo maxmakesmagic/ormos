@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Tournament Format All Universal Tournament Rules and Magic: the Gathering Floor Rules are in effect for this event unless specifically overruled by information in this Format Document. Format"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "641076"
 [_metadata_:publish_date]:- "2007-02-05"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour–San Diego 2007 Format and Schedule"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-10 15:35:25+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-10 15:35:25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170610153525id_/http://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93san-diego-2007-format-and-schedule-2007-02-05"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93san-diego-2007-format-and-schedule-2007-02-05"
 ---

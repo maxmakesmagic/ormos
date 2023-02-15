@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "The Magic: The Gathering Grand Prix tournament series is an international circuit of large-scale Qualifier tournaments featuring cash prizes and multiple invitations to Pro Tour events. Grand Prix—St. Louis is presented by Moy Events Tournament Format And Schedule The format for Grand Prix–St. Louis is Ravnica Block Sealed Deck, with day 2 Coldsnap Booster Draft. All DCI"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "736211"
 [_metadata_:publish_date]:- "2006-04-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix–St. Louis"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-22 00:30:12+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-22 00:30:12"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022003012id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93st-louis-2006-04-12"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix%E2%80%93st-louis-2006-04-12"
 ---

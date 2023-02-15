@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "The Avacyn Restored Prerelease is happening this weekend, and Magic pro Luis Scott-Vargas, already locked in for Platinum, is as excited as anybody for the new set! When not crafting the number of puns he's going to entreat upon people with this new set, he's been busy working on new decks—like this three-color control deck! The deck sets up with traditional control elements,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "672356"
 [_metadata_:publish_date]:- "2012-04-27"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Angel Esper"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-17 09:05:40+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-17 09:05:40"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211017090540id_/https://magic.wizards.com/en/articles/archive/feature/angel-esper-2012-04-27"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/angel-esper-2012-04-27"
 ---

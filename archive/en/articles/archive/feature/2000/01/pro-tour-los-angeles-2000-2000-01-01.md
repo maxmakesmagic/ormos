@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Randy Buehler Ryan Fuller and Nicolai Herzog were both 8-2-2 when they sat down to play each other. A 2-0 finish by either player would put him into the top 8, but 1-0-1 would eliminate them. Herzog seemed delighted with his position since his real goal for this pro Tour was just to earn the pro Tour points he needed to make the `Gravy Train` and qualify for the next few pro Tours. He'll get them and then some."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "950596"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-Los Angeles 2000"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-24 04:21:52+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-24 04:21:52"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171124042152id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-los-angeles-2000-2000-01-01"
 ---

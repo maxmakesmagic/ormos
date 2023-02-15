@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Godzilla during deck construction Mike Long overseas deck construction. Spiteful Bully serving a beating with Alabaster Wall absorbing the 3 damage per turn. David Williams had so many good cards he didn't even need these ones. David Williams deck. Godzilla versus Iwamoto The Sideboard will continue following the results of team Godzilla as long as they are the top leader in"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "952276"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Godzilla - Round 8"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-22 06:06:27+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-22 06:06:27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522060627id_/https://magic.wizards.com/en/articles/archive/feature/godzilla-round-8-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/godzilla-round-8-2000-01-01"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "magicthegathering.com Staff"
 [_metadata_:description]:- "NAME: Shawn MainMULTIPLE CHOICE SCORE: 46ESSAYS:1. Introduce yourself and explain why you are a good fit for this internship.1. The Shawn Main Story by Shawn MainOn the first day of a directing class, if you ask the students (who are always seasoned theatre veterans) why they want to direct, there's one answer you're guaranteed to hear: `I'm kind of a control freak.` I've"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "604896"
 [_metadata_:publish_date]:- "2010-11-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Great Designer Search 2 Finalists"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-02 00:52:26+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 00:52:26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502005226id_/https://magic.wizards.com/en/articles/archive/feature/great-designer-search-2-finalists-2010-11-03-1"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/great-designer-search-2-finalists-2010-11-03-1"
 ---

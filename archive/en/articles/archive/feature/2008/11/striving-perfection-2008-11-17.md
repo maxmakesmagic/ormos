@@ -4,9 +4,11 @@
 
 [_metadata_:author]:- "Mark Rosewater"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "653291"
 [_metadata_:publish_date]:- "2008-11-17"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Striving for Perfection"
-[_metadata_:wayback_capture_timestamp]:- "2016-03-11 10:22:38+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-03-11 10:22:38"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160311102238id_/http://magic.wizards.com/en/articles/archive/feature/striving-perfection-2008-11-17"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/striving-perfection-2008-11-17"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Web Comic Wednesday is back, and it brings with it a new web comic. On Wednesday, if you follow our meaning. Sit back and take a minute to prepare yourself for Part 2 of... Fuel for the Fire!Enjoying our Planeswalker web comics? Want to read more? Go here to see them all, collected in one convenient place!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "680471"
 [_metadata_:publish_date]:- "2008-11-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Fuel for the Fire, Part 2"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-17 01:30:47+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-17 01:30:47"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220117013047id_/https://magic.wizards.com/en/articles/archive/feature/fuel-fire-part-2-2008-11-12"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/fuel-fire-part-2-2008-11-12"
 ---

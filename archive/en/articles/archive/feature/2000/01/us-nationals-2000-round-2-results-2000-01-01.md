@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Opponent Result Akbar, David Long, Mike Won, 2-1 Allen, Dustin Morales, Manuel Drew, 1-1-1 Armstrong, Herman Pitz, Jesse Lost, 0-2 Aubertin, Justin Bunsongsikul, Ped Lost, 0-2 Beckmon, Jon Mitchell, Alex Drew, 1-1 Benafel, Chris Lovell, Brian Won, 2-0 Bhattacharyya, Sayan Lieberman, Alex Lost, 1-2 Bigos, Kyle Manning, Chris Won, 2-1 Blackwell, Trevor James, Carl Won,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "949451"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "US Nationals 2000 Round 2 Results"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-25 11:01:57+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-25 11:01:57"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525110157id_/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-2-results-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-2-results-2000-01-01"
 ---

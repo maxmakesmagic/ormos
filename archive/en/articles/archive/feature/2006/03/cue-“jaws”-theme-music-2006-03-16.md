@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Bennie Smith"
 [_metadata_:description]:- "While we may not be as Shark infested as Flores's New York City (New York City!?), Virginia has had its share of Pro Tour predators and I've rubbed up against a few. I've recurred Spike Feeder every turn with Oath of Ghouls against Kyle Rose's Sligh deck. I've Plowed Under Pete Lieher's Hoodwink deck into oblivion, and I've Aura Mutated Donnie Gallitz's Parallax Wave during"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "620161"
 [_metadata_:publish_date]:- "2006-03-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Cue the “Jaws” Theme Music"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-18 20:22:19+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-18 20:22:19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118202219id_/https://magic.wizards.com/en/articles/archive/feature/cue-%E2%80%9Cjaws%E2%80%9D-theme-music-2006-03-16"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/cue-%E2%80%9Cjaws%E2%80%9D-theme-music-2006-03-16"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Monty Ashley"
 [_metadata_:description]:- "This week's wallpaper features Christopher Moeller's Chandra's Outrage artwork from Magic 2011. Enjoy. 1024x768 pixels 1280x960 pixels 1280x1024 pixels 2560x1600 pixels 320x480 pixels (iPhone) See past Wallpapers of the Week"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "656041"
 [_metadata_:publish_date]:- "2010-07-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Wallpaper of the Week: Chandra's Outrage"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-23 11:24:20+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-23 11:24:20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220123112420id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-chandras-outrage-2010-07-23"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-chandras-outrage-2010-07-23"
 ---

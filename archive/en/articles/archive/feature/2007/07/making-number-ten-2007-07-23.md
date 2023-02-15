@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Aaron Forsythe"
 [_metadata_:description]:- "Back in the Day The preparation for Tenth Edition began even before R&D had finished with the previous core set, Ninth Edition. We had been stockpiling ideas for cards to include, and they couldn't all go in Ninth. So once the book was closed on Ninth Edition, I immediately logged into our Multiverse database and created the `10E` set, then started populating it with cards"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "633676"
 [_metadata_:publish_date]:- "2007-07-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Making of Number Ten"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 03:35:18+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 03:35:18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429033518id_/https://magic.wizards.com/en/articles/archive/feature/making-number-ten-2007-07-23"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/making-number-ten-2007-07-23"
 ---

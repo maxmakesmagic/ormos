@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Tim Sussino's Blue-Red Polymorph Format: Standard – Top 8, PTQ for PT–Amsterdam in Hartford, CT 1 Arid Mesa 4 Halimar Depths 6 Island 1 Misty Rainforest 7 Mountain 4 Scalding Tarn 2 Iona, Shield of Emeria 3 Double Negative 4 Dragon Fodder 3 Goblin Assault 2 Into the Roil 4 Jace, the Mind Sculptor 4 Lightning Bolt 2 Negate 3 Polymorph 4 Ponder 4 Spreading Seas"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "669696"
 [_metadata_:publish_date]:- "2010-05-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Blue-Red Polymorph"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-26 14:44:04+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-26 14:44:04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211026144404id_/https://magic.wizards.com/en/articles/archive/feature/blue-red-polymorph-2010-05-18"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/blue-red-polymorph-2010-05-18"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Brian David-Marshall"
 [_metadata_:description]:- "For all the details on the upcoming Mirrodin Prerelease events, click here. Tick…tick…tick…tick…That's the sound of the clock counting off the moments to the Mirrodin Prerelease. Players all over the world are keenly aware of the countdown and are anxiously awaiting this weekend. Are you among them?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "630746"
 [_metadata_:publish_date]:- "2003-09-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Mirrodin Prerelease Primer"
-[_metadata_:wayback_capture_timestamp]:- "2017-05-30 15:46:18+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-05-30 15:46:18"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170530154618id_/http://magic.wizards.com/en/articles/archive/feature/mirrodin-prerelease-primer-2003-09-18"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/mirrodin-prerelease-primer-2003-09-18"
 ---

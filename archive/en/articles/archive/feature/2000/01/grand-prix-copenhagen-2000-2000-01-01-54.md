@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Round 1 Standings  Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Holzweiss, Ralf 3 33,3333 100,0000 33,3333 1/1/0/0 2 Vercruysse, Jeroen 3 33,3333 100,0000 33,3333 1/1/0/0 3 Boberg, Fredrik 3 33,3333 100,0000 33,3333 1/1/0/0 4 Dyrlund, Christian 3 33,3333 100,0000 33,3333 1/1/0/0 5 karlsson, Mats 3 33,3333 100,0000 33,3333 1/1/0/0 6 Lichniak,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "951671"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Copenhagen 2000"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-22 00:47:05+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-22 00:47:05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522004705id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-54"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-54"
 ---

@@ -1,14 +1,15 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20220525044817/https://magic.wizards.com/en/articles/archive/feature/achieving-zendikar-part-ii-2009-09-14)
+[Link to Wayback Machine](https://web.archive.org/web/20201111192843/https://magic.wizards.com/en/articles/archive/feature/achieving-zendikar-part-ii-2009-09-14)
 
 [_metadata_:author]:- "Mark Rosewater"
-[_metadata_:description]:- "Welcome to Zendikar Previews, Week 2! This week we're continuing our peek into the new fall set. My column is the second part of a three-part column about Zendikar's design. I'm assuming you've read last week's article, so if you haven't, you might want to read it first. Note that I am going to be liberally referencing cards from the Zendikar visual spoiler. If you don't want"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "657231"
 [_metadata_:publish_date]:- "2009-09-14"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Achieving Zendikar, Part II"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-25 04:48:17+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220525044817id_/https://magic.wizards.com/en/articles/archive/feature/achieving-zendikar-part-ii-2009-09-14"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-11 19:28:43"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201111192843id_/https://magic.wizards.com/en/articles/archive/feature/achieving-zendikar-part-ii-2009-09-14"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/achieving-zendikar-part-ii-2009-09-14"
 ---
 
@@ -146,7 +147,7 @@ A lot of people seem to find it unbelievable that so many things I've pitched ha
 **I don't lie in my column.** Yes, I will occasionally exaggerate a little for dramatic effect, but the core of what I'm saying is always true to the best of my knowledge. The reason I keep telling the same story over and over is because it keeps happening. You want to know the nature of design? Well, it entails finding and defending the unknown. It's about selling something that people have never experienced. It's about making people take a scary leap. Maybe you all can't believe that so many different ideas were rejected initially, but truth is, as they say, stranger than fiction. My job as the design columnist is to bring you the world of design, no matter how odd it may be.
 
 
-![](https://media.magic.wizards.com/image_legacy_migration/mtg/images/daily/mm/mm56_dismal.jpg)**Not all my ideas are good.** Yes, I highlight my successes. I'm proud of them, and I have a column to talk about **Magic** design every week. I also have my share of failures. I designed *Odyssey* which was hated by a portion of our audience. I came up with the crazy past / present / future block plan for *Time Spiral* that turned a lot of people off. I made the free mechanic from *Urza's Saga*, and *Champion of* *Kamigawa*'s splice onto arcane. I designed [Carnival of Souls](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Carnival+of+Souls) and [Mudhole](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mudhole). I have designed more banned and restricted cards than any other designer in the history of the game, including Richard "Power Nine" Garfield. Not everything I touch is golden. Plus there are tons and tons and tons of ideas I have that never see the light of day—way more than my successes. These are hard to talk about in my column because the optimist in me believes with time I can fix many of them and use them in the future. My point here is that my "look how I took an idea no one believed in and got it made" stories are not meant to imply that I succeed at everything I do. Because I don't.
+![](https://media.magic.wizards.com/image_legacy_migration/mtg/images/daily/mm/mm56_dismal.jpg)**Not all my ideas are good.** Yes, I highlight my successes. I'm proud of them, and I have a column to talk about **Magic** design every week. I also have my share of failures. I designed *Odyssey* which was hated by a portion of our audience. I came up with the crazy past / present / future block plan for *Time Spiral* that turned a lot of people off. I made the free mechanic from *Urza's Saga*, and *Champion of* *Kamigawa*'s splice onto arcane. I designed [Carnival of Souls](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Carnival+of+Souls) and [Mudhole](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mudhole). I have designed more banned and restricted cards than any other designer in the history of the game, including Richard "Power Nine" Garfield. Not everything I touch is golden. Plus there are tons and tons and tons of ideas I have that never see the light of day—way more than my successes. These are hard to talk about in my column because the optimist in me believes with time I can fix many of them and use them in the future. My point here is that my "look how I took an idea no one believed in and got it made" stories are not meant to imply that I succeed at everything I do. Because I don't.
 
 
 **It's hard to see potential.** You all get to judge our ideas based on the final printed cards. Of course, "land matters" looks good to most of you. You can see how we executed it with full design and development resources. But development had to start with a proverbial drawing on a napkin. ("You know. For kids.") Design is all about seeing potential so yes, I'm much better at it than most of R&D. It's my job. It's why I'm a designer. The fact that I keep coming up with things that don't on the surface sound exciting just means that I'm doing what I'm paid to do.

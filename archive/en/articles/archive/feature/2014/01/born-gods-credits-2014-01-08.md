@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Original Magic Game Design: Richard Garfield Initial Concept and Game Design: Ken Nagle (lead), Ethan Fleischer, Billy Moreno, Mark Rosewater, and Ryan Spain Final Game Design and Development: Tom LaPille (lead), Chris Dupuis, Mark L."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "646711"
 [_metadata_:publish_date]:- "2014-01-08"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Born of the Gods Credits"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-07 08:18:52+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-07 08:18:52"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211207081852id_/https://magic.wizards.com/en/articles/archive/feature/born-gods-credits-2014-01-08"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/born-gods-credits-2014-01-08"
 ---

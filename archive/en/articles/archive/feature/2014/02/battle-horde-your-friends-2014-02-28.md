@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20170101235338/http://magic.wizards.com/en/articles/archive/feature/battle-horde-your-friends-2014-02-28)
+[Link to Wayback Machine](https://web.archive.org/web/20210625044958/https://magic.wizards.com/en/articles/archive/feature/battle-horde-your-friends-2014-02-28)
 
 [_metadata_:author]:- "Trick Jarrett"
-[_metadata_:description]:- "&#13; This weekend players around the world will take part in the Born of the Gods Game Day. Not only will they be able to compete in the Standard tournament at the heart of the Game Day events, but also they'll have the chance to complete the sixth step on the Hero's Path."
+[_metadata_:description]:- "This weekend players around the world will take part in the Born of the Gods Game Day. Not only will they be able to compete in the Standard tournament at the heart of the Game Day events, but also they'll have the chance to complete the sixth step on the Hero's Path. We introduced the Battle the Horde activity a few weeks ago and now it's here! You can face the horde by"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "651786"
 [_metadata_:publish_date]:- "2014-02-28"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Battle The Horde With Your Friends!"
-[_metadata_:wayback_capture_timestamp]:- "2017-01-01 23:53:38+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170101235338id_/http://magic.wizards.com/en/articles/archive/feature/battle-horde-your-friends-2014-02-28"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/battle-horde-your-friends-2014-02-28"
+[_metadata_:wayback_capture_timestamp]:- "2021-06-25 04:49:58"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210625044958id_/https://magic.wizards.com/en/articles/archive/feature/battle-horde-your-friends-2014-02-28"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/battle-horde-your-friends-2014-02-28"
 ---
 
 

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Frank Karsten"
 [_metadata_:description]:- "Hello everyone! I hope you are enjoying the Magic Online Planar Chaos release events. Today I do not have any Constructed Premier Events to report on, as they are not running during release events. And even if they were, well, I appear to be stranded in the only hotel in Singapore that does not provide an Internet connection, so logging on to Magic Online would be kind of"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "624256"
 [_metadata_:publish_date]:- "2007-03-07"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Extended Evolution: U/W Gifts-Tron"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-02 16:20:19+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-02 16:20:19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210502162019id_/https://magic.wizards.com/en/articles/archive/feature/extended-evolution-uw-gifts-tron-2007-03-07"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/extended-evolution-uw-gifts-tron-2007-03-07"
 ---

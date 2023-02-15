@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Rune Horvik"
 [_metadata_:description]:- "With the Extended PTQ season coming up, this installment contains a few questions about complicated cards like Gilded Drake and Academy Rector. Send your rules questions in to ask@wizards.com, and Rune will answer as many as he can!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "622076"
 [_metadata_:publish_date]:- "2002-11-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Saturday School #5"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-11 19:33:27+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-11 19:33:27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201111193327id_/https://magic.wizards.com/en/articles/archive/feature/saturday-school-5-2002-11-23"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/saturday-school-5-2002-11-23"
 ---

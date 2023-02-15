@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Congratulations to Dimitriy `Butakov` Butakov, champion of the 2012 Magic Online Championship. Check out the complete event coverage right here."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "666286"
 [_metadata_:publish_date]:- "2013-03-25"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2012 Magic Online Championship Winning Decklist"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-24 22:41:05+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-24 22:41:05"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524224105id_/https://magic.wizards.com/en/articles/archive/feature/2012-magic-online-championship-winning-decklist-2013-03-25"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2012-magic-online-championship-winning-decklist-2013-03-25"
 ---

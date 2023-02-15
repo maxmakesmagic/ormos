@@ -5,9 +5,11 @@
 [_metadata_:author]:- "magicthegathering.com Staff"
 [_metadata_:description]:- "NAME: Devon RuleMULTIPLE CHOICE SCORE: 45ESSAYS:1. Introduce yourself and explain why you are a good fit for this internship.Hi. I'm Devon Rule."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "604911"
 [_metadata_:publish_date]:- "2010-11-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Great Designer Search 2 Finalists"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-09 07:26:36+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-09 07:26:36"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170709072636id_/http://magic.wizards.com/en/articles/archive/feature/great-designer-search-2-finalists-2010-11-03-2"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/great-designer-search-2-finalists-2010-11-03-2"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Updated September 20, 2007Invitations to Pro Tour-Valencia are awarded in the following manner:The 2006 World Champion. The 2006 Pro Player of the Year. The Top 50 players from Pro Tour-Yokohama. The Top 25 Teams from Pro Tour-San Diego. Players with 2007 Pro Tour Players Club level 3 or higher. The Top 16 finishers of each Grand Prix tournament that feeds Pro Tour-Valencia."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "641641"
 [_metadata_:publish_date]:- "2007-06-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour–Valencia 2007"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-07 09:36:23+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-07 09:36:23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211207093623id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93valencia-2007-2007-06-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93valencia-2007-2007-06-01"
 ---

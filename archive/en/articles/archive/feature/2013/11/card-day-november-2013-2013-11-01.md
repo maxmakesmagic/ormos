@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mike McArtor"
 [_metadata_:description]:- "Free-Range Chicken – Unglued. According to Mark Rosewater's feature article, `Get It?,` `The chicken in the art of Free-Range Chicken is just about to swing on a vine like Tarzan. The artist was trying to show that it was a wild jungle chicken.` Mark has a lot more Unglued trivia, like ninety-nine more, in that article.  Anvilwrought Raptor – Theros. Thanks to Jurassic Park ,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "664736"
 [_metadata_:publish_date]:- "2013-11-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Card of the Day - November, 2013"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-17 06:55:46+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-17 06:55:46"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211017065546id_/https://magic.wizards.com/en/articles/archive/feature/card-day-november-2013-2013-11-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/card-day-november-2013-2013-11-01"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "John Carter"
 [_metadata_:description]:- "Send your rules questions to Magic Rules Manager John Carter. Can't find the answer to your question somewhere else, like the Magic Comprehensive Rules? Maybe he's already answered it!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "624866"
 [_metadata_:publish_date]:- "2004-11-20"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "GP Brisbane Field Trip"
-[_metadata_:wayback_capture_timestamp]:- "2016-06-01 05:47:11+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-06-01 05:47:11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160601054711id_/http://magic.wizards.com/en/articles/archive/feature/gp-brisbane-field-trip-2004-11-20"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/gp-brisbane-field-trip-2004-11-20"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Event Coverage Staff"
 [_metadata_:description]:- "Congratulations to Jacob Wilson, your Grand Prix Chicago champion. You can find complete coverage of Grand Prix Chicago on the official event coverage page."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "665761"
 [_metadata_:publish_date]:- "2012-11-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Chicago Winner"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-03 06:53:21+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-03 06:53:21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220703065321id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-chicago-winner-2012-11-12"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-chicago-winner-2012-11-12"
 ---

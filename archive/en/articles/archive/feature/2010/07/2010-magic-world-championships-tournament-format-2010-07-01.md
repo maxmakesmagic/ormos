@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "All Universal Tournament Rules and Magic: the Gathering Floor Rules are in effect for this event unless specifically overruled by information in this Format Document Main Event RegistrationTime: 6 p.m. - 9 p.m., Wednesday, December 8 Location: Makuhari Messe 2-1, Nakase, Mihama-ku, Chiba-city, 261-0023 Japan Players playing in the World Championships must have a signed waiver"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "732571"
 [_metadata_:publish_date]:- "2010-07-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2010 Magic World Championships Tournament Format"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 12:48:00+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 12:48:00"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429124800id_/https://magic.wizards.com/en/articles/archive/feature/2010-magic-world-championships-tournament-format-2010-07-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/2010-magic-world-championships-tournament-format-2010-07-01"
 ---

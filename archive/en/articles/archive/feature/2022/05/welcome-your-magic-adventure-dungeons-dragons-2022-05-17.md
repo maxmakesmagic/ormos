@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Adam Styborski and Billie Kaplan"
 [_metadata_:description]:- "Every adventurer appreciates a party to share their exploits. Here's how to get started on your Magic journey with Commander Legends: Battle for Baldur's Gate."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1586703"
 [_metadata_:publish_date]:- "2022-05-17"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Welcome to Your Magic Adventure with Dungeons & Dragons"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-17 17:08:23+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-17 17:08:23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517170823id_/https://magic.wizards.com/en/articles/archive/feature/welcome-your-magic-adventure-dungeons-dragons-2022-05-17"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/welcome-your-magic-adventure-dungeons-dragons-2022-05-17"
 ---

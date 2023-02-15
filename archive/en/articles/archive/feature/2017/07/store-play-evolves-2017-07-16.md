@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Chris Tulach"
 [_metadata_:description]:- "Our play programs are constantly evolving, and our next round of changes takes effect with the launch of Ixalan."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1181341"
 [_metadata_:publish_date]:- "2017-07-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "In-Store Play Evolves"
-[_metadata_:wayback_capture_timestamp]:- "2017-07-17 16:07:36+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-07-17 16:07:36"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170717160736id_/http://magic.wizards.com/en/articles/archive/feature/store-play-evolves-2017-07-16"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/store-play-evolves-2017-07-16"
 ---

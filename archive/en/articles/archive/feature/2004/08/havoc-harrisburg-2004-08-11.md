@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "Well we're back. Back from the Ice Age, back to that crazy world of twisted metal, Mirrodin. The relevant format is, of course, Mirrodin Block Constructed; if you want to go to the Pro Tour, this is the format to know. The decks we talk about in this column will be the decks you have to be prepared to beat, if not adopt yourself.Before he handed the reins of Swimming with"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "627786"
 [_metadata_:publish_date]:- "2004-08-11"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Havoc in Harrisburg"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-02 07:57:38+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-02 07:57:38"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211202075738id_/https://magic.wizards.com/en/articles/archive/feature/havoc-harrisburg-2004-08-11"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/havoc-harrisburg-2004-08-11"
 ---

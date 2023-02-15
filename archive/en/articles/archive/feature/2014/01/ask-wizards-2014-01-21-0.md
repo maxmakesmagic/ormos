@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Ask Wizards is a weekly feature that allows you to ask us questions! If you'd like to submit your question please email it to AskWizards@wizards.com. We aren't able to answer every question we receive but if your question is good then it might show up in the coming weeks! Q: Does Nykthos produce six mana from Nightveil Specter or three? —Jack D. A: Mike McArtor, copy editor"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "598641"
 [_metadata_:publish_date]:- "2014-01-21"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Ask Wizards"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-26 05:02:09+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-26 05:02:09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126050209id_/https://magic.wizards.com/en/articles/archive/feature/ask-wizards-2014-01-21-0"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ask-wizards-2014-01-21-0"
 ---

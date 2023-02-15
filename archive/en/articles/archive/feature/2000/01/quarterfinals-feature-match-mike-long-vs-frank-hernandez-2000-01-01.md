@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Its amazing how Mike Long's adversarial nature creates celebrities out of relative unknowns. First, a kid named Matt Linde became the fan favorite at US Nats '98, then Seattle's Chris Benafel became the hero upon defeating Long in the semi-finals at this year's PTLA. Now, you can add the name Frank Hernandez to the list. The home town favorite, Hernandez, playing Stompy, knew"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "949131"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Quarterfinals Feature Match - Mike Long vs. Frank Hernandez"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-19 19:53:50+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-19 19:53:50"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519195350id_/https://magic.wizards.com/en/articles/archive/feature/quarterfinals-feature-match-mike-long-vs-frank-hernandez-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/quarterfinals-feature-match-mike-long-vs-frank-hernandez-2000-01-01"
 ---

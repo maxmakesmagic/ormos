@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Dan Rodemann's Affinity Format: Pro Tour Qualifier–Honolulu 4 Ancient Den 2 Blinkmoth Nexus 4 Great Furnace 4 Seat of the Synod 4 Vault of Whispers 4 Arcbound Ravager 4 Arcbound Worker 2 Atog 4 Frogmite 3 Master of Etherium 4 Myr Enforcer 4 Ornithopter 4 Chromatic Star 4 Cranial Plating 1 Fatal Frenzy 4 Springleaf Drum 4 Thoughtcast *4 Ancient Grudge *4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "667096"
 [_metadata_:publish_date]:- "2009-02-26"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Resurgent Robots"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-23 18:19:17+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-23 18:19:17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211023181917id_/https://magic.wizards.com/en/articles/archive/feature/resurgent-robots-2009-02-26"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/resurgent-robots-2009-02-26"
 ---

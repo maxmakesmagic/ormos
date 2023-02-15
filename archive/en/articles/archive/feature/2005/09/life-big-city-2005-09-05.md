@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Rei Nakazawa"
 [_metadata_:description]:- "In the real world, big cities are synonymous with excitement and interesting dealings. Magic is no different. My jaw has been dropping regularly ever since I got my first glimpse into this block over a year ago. A lot of new stuff is going on in Ravnica, both mechanically and creatively, boasting just as much space for story as the Kamigawa block before it. I'm proud to be one of the first to show off what this world has to offer."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "632106"
 [_metadata_:publish_date]:- "2005-09-05"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Life in the Big City"
-[_metadata_:wayback_capture_timestamp]:- "2020-08-15 04:44:24+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-08-15 04:44:24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200815044424id_/https://magic.wizards.com/en/articles/archive/feature/life-big-city-2005-09-05"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/life-big-city-2005-09-05"
 ---

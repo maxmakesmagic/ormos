@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Doug Beyer"
 [_metadata_:description]:- "We often look to the past in order to predict the future. But sometimes, one has to glimpse what is to come in order to understand what went before. Karn's future, and the future of the plane now known as New Phyrexia, hold secrets that shine light on ancient events. So it is with the future that we begin."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "326206"
 [_metadata_:publish_date]:- "2011-04-25"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Golem's Legacy"
-[_metadata_:wayback_capture_timestamp]:- "2015-03-05 05:24:32+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2015-03-05 05:24:32"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150305052432id_/http://magic.wizards.com/en/articles/archive/feature/golems-legacy-2011-04-25"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/golems-legacy-2011-04-25"
 ---

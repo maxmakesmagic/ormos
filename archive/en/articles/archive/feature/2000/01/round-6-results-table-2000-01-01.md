@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Team Result Opponent The Ken Ho All-Stars 300 vs. Team Clasp The Hubbsucker Proxy 030 vs. Team Needs/Hotel Room *Amate Ride or Die 120 vs. AlphaBetaUnlimited.com/ Team $20 Dolla Billz 300 vs. The Tails *Amateur* Madam Fishnut 120 vs. Family Games Center Bags 110 vs. Who's the Other Dude *Amateu www.5color.com 030 vs. Dynasty Thanks Craig and Seth 210 vs. Team Disgruntled Hobos"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "805886"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 6 Results (by Table)"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-07 16:32:40+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-07 16:32:40"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220707163240id_/https://magic.wizards.com/en/articles/archive/feature/round-6-results-table-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-6-results-table-2000-01-01"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Conley Woods"
 [_metadata_:description]:- "With the Return to Ravnica Prerelease just around the corner, Magic players everywhere are busy scraping together deck ideas and wants/needs lists in anticipation of the newest Magic expansion. As soon as the Card Image Gallery went up, some brave Commanders started brewing with the new set for the hundred-card format. While it might be Selesyna Week next week, this week"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "665581"
 [_metadata_:publish_date]:- "2012-09-27"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Let's Start a Riot"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-26 17:51:00+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-26 17:51:00"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220626175100id_/https://magic.wizards.com/en/articles/archive/feature/lets-start-riot-2012-09-27"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/lets-start-riot-2012-09-27"
 ---

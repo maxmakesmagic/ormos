@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Monty Ashley"
 [_metadata_:description]:- "Masahiro Morita vs. Takao Higaki Game 1 The first game started quickly, as Morita's Sunscape Apprentice suffered from Cursed Flesh, allowing Higaki's phyrexian battleflies to roar in. The Higaki attacks continued, augmented by a Morgue Toad, even after Morita played a Stone Kavu, thanks to a surprise Stun. Morita was forced to Restrain to avoid the ignominious fate of dying to"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "806566"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Semifinals: Poor Shark vs. Voice of Law"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-28 15:25:37+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-28 15:25:37"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220628152537id_/https://magic.wizards.com/en/articles/archive/feature/semifinals-poor-shark-vs-voice-law-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/semifinals-poor-shark-vs-voice-law-2000-01-01"
 ---

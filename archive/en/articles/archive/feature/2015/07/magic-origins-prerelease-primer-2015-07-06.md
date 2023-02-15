@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "Gavin helps you prepare for the Magic Origins Prerelease!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "405526"
 [_metadata_:publish_date]:- "2015-07-06"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic Origins Prerelease Primer"
-[_metadata_:wayback_capture_timestamp]:- "2015-07-06 19:55:25+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2015-07-06 19:55:25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150706195525id_/http://magic.wizards.com/en/articles/archive/feature/magic-origins-prerelease-primer-2015-07-06"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-origins-prerelease-primer-2015-07-06"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "May 11-15, 2004: The Magic Invitational Goes Online and on the Road!For the first time, a top-level Magic tournament was played in two different cities as the 2004 Magic Invitational started at E3 in Los Angeles, then moved south for Pro Tour–San Diego, with the finals of the Invitational being played on the stage during the Pro Tour's Top 8.The Invitational was conducted"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "599471"
 [_metadata_:publish_date]:- "2009-05-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "This Week in Magic History: May 9-15"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-28 21:36:56+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-28 21:36:56"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220128213656id_/https://magic.wizards.com/en/articles/archive/feature/week-magic-history-may-9-15-2009-05-15"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/week-magic-history-may-9-15-2009-05-15"
 ---

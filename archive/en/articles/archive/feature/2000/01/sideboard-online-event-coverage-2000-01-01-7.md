@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Junior Super Series Championship Round 6 Results - 15-17 Division Player Opponent Results Adams, Zach Leonhardt, Ryan Intentional Draw Allen, Crispin Wescoe, Craig Won, 2-1 Baker, Justin Freneau, Philip Won, 2-0-1 Brubaker, Jake Carey, Joey Lost, 0-2 Cahir, Dan Slapak, Mark Lost, 0-2 Carey, Joey Brubaker, Jake Won, 2-0 Carpenter, Ryan Laurent, Sebastien Intentional Draw"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "953416"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Sideboard Online Event Coverage"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-23 08:53:52+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-23 08:53:52"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220523085352id_/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-7"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-7"
 ---

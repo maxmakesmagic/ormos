@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "AsiaMay-August 2009 CountryDateCityInvitationAddressLine1AddressLine2ContactPhone China2009-07-26Beijing 1Beifengwo, Haidian DistrictBeijing CCECC PlazaEmail China2009-08-29Shanghai1Shanghai HengfengluYuandong HotelEmail China2009-08-16Guangzhou1Guangzhou JixiangluDongman xingchengEmail Taiwan2009-06-28Tainan1Cartoon Magic ClubB1 No, 69 Seng Lee RoadEmail"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "639966"
 [_metadata_:publish_date]:- "2009-04-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour Austin 2009 - Qualifiers"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-27 00:39:15+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-27 00:39:15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220627003915id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-austin-2009-qualifiers-2009-04-16"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-austin-2009-qualifiers-2009-04-16"
 ---

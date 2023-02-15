@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20181109005827/https://magic.wizards.com/en/articles/archive/feature/announcing-brawl-championship-2018-08-14)
+[Link to Wayback Machine](https://web.archive.org/web/20181015211125/https://magic.wizards.com/en/articles/archive/feature/announcing-brawl-championship-2018-08-14)
 
 [_metadata_:author]:- "Gavin Verhey"
 [_metadata_:description]:- "The Multiplayer Brawl Championship is coming to Grand Prix Richmond!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1330966"
 [_metadata_:publish_date]:- "2018-08-14"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Announcing the Brawl Championship"
-[_metadata_:wayback_capture_timestamp]:- "2018-11-09 00:58:27+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20181109005827id_/https://magic.wizards.com/en/articles/archive/feature/announcing-brawl-championship-2018-08-14"
+[_metadata_:wayback_capture_timestamp]:- "2018-10-15 21:11:25"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20181015211125id_/https://magic.wizards.com/en/articles/archive/feature/announcing-brawl-championship-2018-08-14"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/announcing-brawl-championship-2018-08-14"
 ---
 

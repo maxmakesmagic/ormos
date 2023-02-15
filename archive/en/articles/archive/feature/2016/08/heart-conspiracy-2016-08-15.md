@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20160819173432/http://magic.wizards.com/en/articles/archive/feature/heart-conspiracy-2016-08-15?tags=Daily%20MTG&lang=en)
+[Link to Wayback Machine](https://web.archive.org/web/20160818174653/http://magic.wizards.com/en/articles/archive/feature/heart-conspiracy-2016-08-15)
 
 [_metadata_:author]:- "Shawn Main"
 [_metadata_:description]:- "Shawn Main, lead designer for both Conspiracy sets, kicks off Preview Week with some of his favorite cards in Conspiracy: Take the Crown!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1052261"
 [_metadata_:publish_date]:- "2016-08-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Heart of a Conspiracy"
-[_metadata_:wayback_capture_timestamp]:- "2016-08-19 17:34:32+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160819173432id_/http://magic.wizards.com/en/articles/archive/feature/heart-conspiracy-2016-08-15?tags=Daily%20MTG&lang=en"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/heart-conspiracy-2016-08-15?tags=Daily%20MTG&lang=en"
+[_metadata_:wayback_capture_timestamp]:- "2016-08-18 17:46:53"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160818174653id_/http://magic.wizards.com/en/articles/archive/feature/heart-conspiracy-2016-08-15"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/heart-conspiracy-2016-08-15"
 ---
 
 

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Dustin Stern piloted this Standard deck to a 10th-place finish at the StarCityGames.com Open in Indianapolis."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "671606"
 [_metadata_:publish_date]:- "2011-10-07"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Blue-Black Tezzeret"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-20 07:04:04+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-20 07:04:04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211020070404id_/https://magic.wizards.com/en/articles/archive/feature/blue-black-tezzeret-2011-10-07"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/blue-black-tezzeret-2011-10-07"
 ---

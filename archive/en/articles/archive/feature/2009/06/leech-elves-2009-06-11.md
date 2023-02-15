@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Yuya Yanagida's Black-Green Elves Format: Regionals 2009 3 Forest 4 Gilt-Leaf Palace 4 Llanowar Wastes 4 Mutavault 3 Swamp 4 Treetop Village 1 Twilight Mire 2 Chameleon Colossus 3 Civic Wayfinder 4 Imperious Perfect 4 Llanowar Elves 4 Putrid Leech 4 Wren's Run Vanquisher 3 Garruk Wildspeaker 4 Maelstrom Pulse 2 Nameless Inversion 3 Profane Command 4"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "668406"
 [_metadata_:publish_date]:- "2009-06-11"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Leech Elves"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-16 16:50:14+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-16 16:50:14"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220816165014id_/https://magic.wizards.com/en/articles/archive/feature/leech-elves-2009-06-11"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/leech-elves-2009-06-11"
 ---

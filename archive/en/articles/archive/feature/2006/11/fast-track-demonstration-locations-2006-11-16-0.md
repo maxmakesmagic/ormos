@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Updated 2006-11-16Come to one of the participating Magic: The Gathering retailers to receive a game-play demo and to collect your FREE Fast Track Starter Packs*.One of the best and fun ways to learn Magic: The Gathering is to learn from someone who knows how to play."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "732201"
 [_metadata_:publish_date]:- "2006-11-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Fast Track Demonstration Locations"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-28 02:26:47+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-28 02:26:47"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211028022647id_/https://magic.wizards.com/en/articles/archive/feature/fast-track-demonstration-locations-2006-11-16-0"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/fast-track-demonstration-locations-2006-11-16-0"
 ---

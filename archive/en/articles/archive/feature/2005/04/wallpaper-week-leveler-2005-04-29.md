@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This week's desktop wallpaper is Carl Critchlow's 10/10 artifact creature, Leveler from Mirrodin. Enjoy. Tune in next week for the first Saviors of Kamigawa wallpaper!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "608601"
 [_metadata_:publish_date]:- "2005-04-29"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Wallpaper of the Week: Leveler"
-[_metadata_:wayback_capture_timestamp]:- "2021-01-16 18:47:46+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-01-16 18:47:46"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210116184746id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-leveler-2005-04-29"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-leveler-2005-04-29"
 ---

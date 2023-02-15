@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Complete Magic Weekend Philadelphia Event Information All Universal Tournament Rules and Magic: the Gathering Floor Rules are in effect for this event unless specifically overruled by information in this Format Document.Pro Tour RegistrationTime: 18:00 - 21:00., Thursday, September 1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "729916"
 [_metadata_:publish_date]:- "2011-07-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour Philadelphia 2011 Event Information"
-[_metadata_:wayback_capture_timestamp]:- "2017-08-21 01:37:07+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-21 01:37:07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170821013707id_/http://magic.wizards.com/en/articles/archive/feature/pro-tour-philadelphia-2011-event-information-2011-07-15"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/pro-tour-philadelphia-2011-event-information-2011-07-15"
 ---

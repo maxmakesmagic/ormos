@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Adrian Sullivan `White` Weenie Format: PTQ-Honolulu 1 Dryad Arbor 2 Forest 1 Plains 1 Sacred Foundry 1 Stomping Ground 3 Temple Garden 3 Treetop Village 4 Windswept Heath 4 Wooded Foothills 3 Eternal Witness 4 Gaddock Teeg 4 Knight of the Reliquary 3 Tarmogoyf 4 Troll Ascetic 4 Vinelasher Kudzu 4 Wild Nacatl 4 Chrome Mox 1 Lightning Greaves 1 O-Naginata 2"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "668106"
 [_metadata_:publish_date]:- "2009-03-27"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Sullivan `White` Weenie"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-18 21:01:21+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-18 21:01:21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118210121id_/https://magic.wizards.com/en/articles/archive/feature/sullivan-white-weenie-2009-03-27"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sullivan-white-weenie-2009-03-27"
 ---

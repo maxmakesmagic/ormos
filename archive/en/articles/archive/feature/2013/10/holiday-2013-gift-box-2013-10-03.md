@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "What do you get the planeswalker who has everything?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "697496"
 [_metadata_:publish_date]:- "2013-10-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Holiday 2013 Gift Box"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-27 01:41:44+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-27 01:41:44"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170627014144id_/http://magic.wizards.com/en/articles/archive/feature/holiday-2013-gift-box-2013-10-03"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/holiday-2013-gift-box-2013-10-03"
 ---

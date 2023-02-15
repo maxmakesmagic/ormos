@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "TeamResult Opponent3,141596 *Lost 1-2vssuicideboard *Absolute Samuels * Awarded Bye *Accellerated Vares8 Volante * Awarded Bye *AgifalwLost 1-2vslibrary of alexandria 2AlphaBetaUnlimited.com * Awarded Bye *Altrove *Lost 1-2vsVintaraAmsterdamWon 3-0vsLes KerlutinhoëcsAngstschreeuw * Awarded Bye *Asani *Won 2-1vsOSEO *Babar Team *Won 2-0-1vsSaletta Team *Birds of paradiseDrew"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "806476"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 1 Results (by Team)"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-07 07:49:21+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-07 07:49:21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220707074921id_/https://magic.wizards.com/en/articles/archive/feature/round-1-results-team-2000-01-01-0"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-1-results-team-2000-01-01-0"
 ---

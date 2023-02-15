@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "Last week's column was immensely popular. I've received over 500 emails about it, many containing interesting afternotes that are well worth sharing. If you don't care about last week's column, feel free to skip down to the part where I start talking about sorceries!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "628606"
 [_metadata_:publish_date]:- "2004-04-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Triple Helix"
-[_metadata_:wayback_capture_timestamp]:- "2017-05-02 22:04:47+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-05-02 22:04:47"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170502220447id_/http://magic.wizards.com/en/articles/archive/feature/triple-helix-2004-04-22"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/triple-helix-2004-04-22"
 ---

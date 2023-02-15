@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Alex Shvartsman"
 [_metadata_:description]:- "About Last WeekI hope you enjoyed last week's April Fool's installment of Week In Review, because I sure enjoyed writing it. About two weeks prior to its publication, my editor Scott Johns called to let me know that magicthegathering.com would be doing an April Fool's special on April 1st – which is Thursday, so it was perfect for my column. “I do not want a shred of truth in"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "614366"
 [_metadata_:publish_date]:- "2004-04-08"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Back to Reality"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-16 23:20:21+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-16 23:20:21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220516232021id_/https://magic.wizards.com/en/articles/archive/feature/back-reality-2004-04-08"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/back-reality-2004-04-08"
 ---

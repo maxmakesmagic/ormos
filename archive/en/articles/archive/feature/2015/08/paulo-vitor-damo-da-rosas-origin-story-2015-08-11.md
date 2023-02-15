@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mike Rosenberg"
 [_metadata_:description]:- "Learn more about 2015 Magic World Championship competitor Paulo Vitor Damo da Rosa's Magic and Pro Tour origins!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "451041"
 [_metadata_:publish_date]:- "2015-08-11"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Paulo Vitor Damo da Rosa's Origin Story"
-[_metadata_:wayback_capture_timestamp]:- "2015-08-13 00:44:25+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2015-08-13 00:44:25"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150813004425id_/http://magic.wizards.com/en/articles/archive/feature/paulo-vitor-damo-da-rosas-origin-story-2015-08-11"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/paulo-vitor-damo-da-rosas-origin-story-2015-08-11"
 ---

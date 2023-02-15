@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "If you are a moderately experienced tournament player, chances are that you have acquired a fair number of skills from experience, by way of your pure number of draft seats occupied and raw volume of matches lost, picking hither nugget up here and thither kernel up there."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "627751"
 [_metadata_:publish_date]:- "2008-05-08"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Clock and the Race"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-06 01:42:34+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-06 01:42:34"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211206014234id_/https://magic.wizards.com/en/articles/archive/feature/clock-and-race-2008-05-08"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/clock-and-race-2008-05-08"
 ---

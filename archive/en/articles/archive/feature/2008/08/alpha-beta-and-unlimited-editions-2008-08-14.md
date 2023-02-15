@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Cardlists Alpha, Beta, Unlimited Editions Spoiler List Alpha, Beta, Unlimited Editions Checklist  Premiered at Origins '93 in July of that year, Magic: The Gathering was first released to the general public on August 5, 1993. The `Alpha` set consisted of 295 cards. After the Alpha print run of 2.6 million cards, some corrections were made and the remaining 7.3 million cards"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "641091"
 [_metadata_:publish_date]:- "2008-08-14"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Alpha, Beta, and Unlimited Editions"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-22 05:38:11+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-22 05:38:11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022053811id_/https://magic.wizards.com/en/articles/archive/feature/alpha-beta-and-unlimited-editions-2008-08-14"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/alpha-beta-and-unlimited-editions-2008-08-14"
 ---

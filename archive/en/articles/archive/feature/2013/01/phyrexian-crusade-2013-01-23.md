@@ -4,9 +4,11 @@
 
 [_metadata_:author]:- "Sam Black"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "666046"
 [_metadata_:publish_date]:- "2013-01-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Phyrexian Crusade"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-05 21:10:48+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-05 21:10:48"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170605211048id_/http://magic.wizards.com/en/articles/archive/feature/phyrexian-crusade-2013-01-23"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/phyrexian-crusade-2013-01-23"
 ---

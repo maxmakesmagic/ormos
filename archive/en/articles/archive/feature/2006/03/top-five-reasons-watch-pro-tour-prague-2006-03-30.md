@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Jake Theis"
 [_metadata_:description]:- "I don’t need any more reasons to tune into PT: Prague. I’ve been sold on it from Day 1. If you need a kick-in-the-ribs…. 5) You get to see Dissension Cards in their first sanctioned-play action! The Pro Tour launches the day that Dissension becomes tournament legal. I don’t know about y’all, but the Prerelease usually just gets my appetite going. I’m going to have my eyes glued on what Dissension mechanics look like and feel like in sanctioned play."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "638306"
 [_metadata_:publish_date]:- "2006-03-30"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Top Five Reasons to Watch Pro Tour: Prague"
-[_metadata_:wayback_capture_timestamp]:- "2020-08-03 15:18:40+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-08-03 15:18:40"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20200803151840id_/https://magic.wizards.com/en/articles/archive/feature/top-five-reasons-watch-pro-tour-prague-2006-03-30"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/top-five-reasons-watch-pro-tour-prague-2006-03-30"
 ---

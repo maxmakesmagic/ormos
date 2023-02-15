@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Makihito Mihara's Dragonstorm Format: 2006 World Championships, Standard 1 Calciform Pools 1 Dreadship Reef 8 Island 4 Mountain 4 Shivan Reef 4 Steam Vents 4 Bogardan Hellkite 2 Hunted Dragon 4 Dragonstorm 4 Gigadrowse 4 Lotus Bloom 4 Remand 4 Rite of Flame 4 Seething Song 4 Sleight of Hand 4 Telling Time *1 Calciform Pools *2 Dreadship Reef *3 Ignorant Bliss"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "668411"
 [_metadata_:publish_date]:- "2008-09-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Here Be Dragons!"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-22 08:00:45+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-22 08:00:45"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211022080045id_/https://magic.wizards.com/en/articles/archive/feature/here-be-dragons-2008-09-22"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/here-be-dragons-2008-09-22"
 ---

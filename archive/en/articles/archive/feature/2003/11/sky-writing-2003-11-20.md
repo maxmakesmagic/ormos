@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "Ah, Flying Week. It was only a matter of time before one of the most basic and pervasive Magic abilities got its very own week. And, as a special treat, I’ll be discussing in great length and detail the comparative benefits between Flight, Buoyancy, Air Bladder, Aboshan’s Desire, Soar, Launch, Crown of Ascension, Snow Devil, Gliding Licid, Shimmering Wings, Phantom Wings,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "613696"
 [_metadata_:publish_date]:- "2003-11-20"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Sky Writing"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-26 17:06:42+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-26 17:06:42"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220126170642id_/https://magic.wizards.com/en/articles/archive/feature/sky-writing-2003-11-20"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sky-writing-2003-11-20"
 ---

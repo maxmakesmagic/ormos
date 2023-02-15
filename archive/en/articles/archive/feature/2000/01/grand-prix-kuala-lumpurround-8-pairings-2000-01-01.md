@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Pts Table Opponent Pts Ang, Jun Yang (120) 16 9 Au Yong, Wai Kin ( 56) 16 Au Yong, Wai Kin ( 56) 16 9 Ang, Jun Yang (120) 16 Aw-Yeong, Weng Kwong (134) 18 5 Quak, Francis Hock Ann ( 28) 18 Chai, Royce Ming Huang (174) 15 18 Wong, Samson Siew Pui ( 2) 15 Chan, Sam Soon (106) 13 25 Lee, Andrew Yin Pook (199) 13 Chew, Wilson Choon Gee ( 21) 13 26 Wong, Nicholas Jonathan ("
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "952606"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix-Kuala LumpurRound 8 Pairings"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-22 01:46:17+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-22 01:46:17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522014617id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-8-pairings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-kuala-lumpurround-8-pairings-2000-01-01"
 ---

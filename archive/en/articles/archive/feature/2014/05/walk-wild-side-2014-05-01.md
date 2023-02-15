@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Adam Prosak"
 [_metadata_:description]:- "This deck is wild! Sometimes, it is best to build a deck that simply lowers its head and runs straight for its goal, largely oblivious to what potential obstacles might be in the way. This mono-green deck, played by Magic Online user Havik917, is a great example of a deck that just wants to attack with the largest creatures it can. This deck is built to take advantage of the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "667896"
 [_metadata_:publish_date]:- "2014-05-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "A Walk on the Wild Side"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-12 23:49:55+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-12 23:49:55"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220812234955id_/https://magic.wizards.com/en/articles/archive/feature/walk-wild-side-2014-05-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/walk-wild-side-2014-05-01"
 ---

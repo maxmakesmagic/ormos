@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Alan Comer's Miracle Grow Format: Grand Prix—Las Vegas ‘01, Extended 6 Island 4 Tropical Island 3 Gaea's Skyfolk 4 Lord of Atlantis 4 Merfolk Looter 4 Quirion Dryad 4 Brainstorm 4 Curiosity 4 Daze 3 Foil 4 Force of Will 4 Gush 4 Land Grant 4 Sleight of Hand 4 Winter Orb *2 Boomerang *4 Chill *3 Emerald Charm *2 Misdirection *4 Submerge"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "670471"
 [_metadata_:publish_date]:- "2008-09-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Miracle Grow"
-[_metadata_:wayback_capture_timestamp]:- "2020-11-12 01:21:06+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-11-12 01:21:06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201112012106id_/https://magic.wizards.com/en/articles/archive/feature/miracle-grow-2008-09-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/miracle-grow-2008-09-01"
 ---

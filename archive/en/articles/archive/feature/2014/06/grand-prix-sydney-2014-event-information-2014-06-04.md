@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Information Grand Prix Sydney is brought to you by Top Deck Events.  Tournament Schedule  Tournament Byes  Side Events  Artist Information  Travel Information  Contact Information  Facebook Event  Official hashtag: #gpsydney Date: August 22-24, 2014 Format: Magic 2015 Sealed Deck Tournament Location Howie Complex 1 Showground Rd. Sydney Olympic Park Click here for map."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "727576"
 [_metadata_:publish_date]:- "2014-06-04"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Sydney 2014 Event Information"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-18 16:58:21+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-18 16:58:21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220118165821id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-sydney-2014-event-information-2014-06-04"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-sydney-2014-event-information-2014-06-04"
 ---

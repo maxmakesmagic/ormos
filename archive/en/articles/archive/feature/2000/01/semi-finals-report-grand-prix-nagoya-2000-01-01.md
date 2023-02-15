@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Godzilla vs. Masato Club Terry Mansfield (US Air Force, stationed in Japan) Godzilla drafts in the semifinals. Godzilla drafts versus Masato Club in the semifinals. Jun Nobushita drafts in the semifinals. Mike Long drafts his deck. Bob Maher vs. Tadayoshi Komiya Bob played blue/green and Tadayoshi Komiya played blue/black. Game 1 Bob played Cloudskate and on the next turn"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "952236"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Semi-Finals Report - Grand Prix-Nagoya"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-22 21:01:24+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-22 21:01:24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220522210124id_/https://magic.wizards.com/en/articles/archive/feature/semi-finals-report-grand-prix-nagoya-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/semi-finals-report-grand-prix-nagoya-2000-01-01"
 ---

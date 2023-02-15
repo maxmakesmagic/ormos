@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Randy Buehler The basic summary of what happened on Friday at U.S. Nationals is simple: `Finkel's back.` After a year of more or less coasting on raw talent, Jon Finkel and Steven O'Mahoney-Schwartz have rededicated themselves to Magic. Since the announcement was made about the tripling of prize money for the Pro Tour (and school ended for summer) they've been playing Magic"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "949276"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "US Nationals 2000 - Day One Wrapup"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-05 23:54:37+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-05 23:54:37"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211205235437id_/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-day-one-wrapup-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-day-one-wrapup-2000-01-01"
 ---

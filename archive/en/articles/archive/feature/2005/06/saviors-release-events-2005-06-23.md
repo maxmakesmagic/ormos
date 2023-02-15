@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Bennie Smith"
 [_metadata_:description]:- "Many of you might be heading out for the Regional Championships this Saturday. I'm hoping to do the same (provided I can catch a ride). If any of you attend the Mid Atlantic Regionals at the University of Maryland, come by and say hello, wish me luck and a happy birthday!Once you get back from a day full of Magic fun (and if you're lucky, an invite to Nationals for your"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "619621"
 [_metadata_:publish_date]:- "2005-06-23"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Saviors Release Events"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-29 00:38:26+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-29 00:38:26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220129003826id_/https://magic.wizards.com/en/articles/archive/feature/saviors-release-events-2005-06-23"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/saviors-release-events-2005-06-23"
 ---

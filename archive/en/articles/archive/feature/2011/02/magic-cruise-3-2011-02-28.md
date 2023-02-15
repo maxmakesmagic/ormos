@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Bill Stark"
 [_metadata_:description]:- "Ahhhhhh....I'm on a beach. Next to me is the girl I'm marrying in a few months, and next to her are two of my Magic friends who work at Wizards of the Coast: Dave Guskin and Zac Hill. In the background somewhere is yet another friend, Tanya, who joined us on the trip despite having no experience with Magic and is currently playing beach volleyball. Where are we? Cozumel,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "680531"
 [_metadata_:publish_date]:- "2011-02-28"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Magic Cruise 3"
-[_metadata_:wayback_capture_timestamp]:- "2022-09-28 12:35:29+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-09-28 12:35:29"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220928123529id_/https://magic.wizards.com/en/articles/archive/feature/magic-cruise-3-2011-02-28"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-cruise-3-2011-02-28"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match PL-Duel Op-Duel Matches Rank Name Points Win% Win% Win% P/W/D/B 1 Dobson, Tony 27 65.0476 70.3704 58.5454 10/9/0/0 2 Luhrs, Christian 27 61.4762 76.0000 56.6685 10/9/0/0 3 Chapin, Patrick 27 60.0476 76.0000 55.3028 10/9/0/0 4 Comer, Alan 27 55.4286 75.0000 52.6857 10/9/0/0 5 Maher Jr., Bob 25 51.8571 75.0000 52.9135 10/8/1/0 6 Fuentes, Hector 24 64.0476 73.9130"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "951016"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour-Chicago 1999Day 2 Round 10 Standings"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-27 17:45:15+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-27 17:45:15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220127174515id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-2-round-10-standings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour-chicago-1999day-2-round-10-standings-2000-01-01"
 ---

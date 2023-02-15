@@ -4,9 +4,11 @@
 
 [_metadata_:description]:- "Rank Name Points Op-Match 1 United States 224 59.26% 2 Canada 207 54.63% 3 Finland 204 47.22% 4 Netherlands 202 62.04% 5 Germany"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "961211"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Team Day: Round Six Standings"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-31 03:08:54+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-31 03:08:54"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171031030854id_/https://magic.wizards.com/en/articles/archive/feature/team-day-round-six-standings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/team-day-round-six-standings-2000-01-01"
 ---

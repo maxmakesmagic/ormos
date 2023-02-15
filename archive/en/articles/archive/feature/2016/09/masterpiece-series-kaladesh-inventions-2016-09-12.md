@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "See all of the Masterpiece Series: Kaladesh Inventions here!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1063156"
 [_metadata_:publish_date]:- "2016-09-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Masterpiece Series: Kaladesh Inventions"
-[_metadata_:wayback_capture_timestamp]:- "2016-09-12 21:21:51+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-09-12 21:21:51"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160912212151id_/http://magic.wizards.com/en/articles/archive/feature/masterpiece-series-kaladesh-inventions-2016-09-12"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/masterpiece-series-kaladesh-inventions-2016-09-12"
 ---

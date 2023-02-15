@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "&#13; &#13; &#13;  &#13; &#13; &#13;  &#13;"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "626841"
 [_metadata_:publish_date]:- "2008-11-19"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Fuel for the Fire Part III"
-[_metadata_:wayback_capture_timestamp]:- "2016-12-31 01:17:02+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-12-31 01:17:02"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20161231011702id_/http://magic.wizards.com/en/articles/archive/feature/fuel-fire-part-iii-2008-11-19"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/fuel-fire-part-iii-2008-11-19"
 ---

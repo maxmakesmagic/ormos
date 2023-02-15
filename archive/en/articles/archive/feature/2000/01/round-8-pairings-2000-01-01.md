@@ -4,9 +4,11 @@
 
 [_metadata_:description]:- "Table Player   Opponent   1 Ruel, Antoine Drew 1-1 vs. Svaldi, Guilherme Dei 2 Possato - ama, William C Lost 0-2 vs. Saux, Rafaël A Le 3 Uehara - ama, Pedro Henrique Lost 0-2 vs. Gabrenja, Matias"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "959456"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 8 Pairings"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-29 21:22:23+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-29 21:22:23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171029212223id_/https://magic.wizards.com/en/articles/archive/feature/round-8-pairings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-8-pairings-2000-01-01"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "日本語の案内ページTrial Schedule The Magic: The Gathering Grand Prix tournament series is an international circuit of large-scale Qualifier tournaments featuring cash prizes and multiple invitations to Pro Tour events."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "735451"
 [_metadata_:publish_date]:- "2004-06-04"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix - Nagoya"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-30 10:52:09+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-30 10:52:09"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171030105209id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2004-06-04"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2004-06-04"
 ---

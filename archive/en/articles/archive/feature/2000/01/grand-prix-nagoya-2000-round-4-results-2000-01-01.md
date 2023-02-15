@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Match Team Result Team Wake of Destruction *** BYE *** 1 UNLUCKY'S 0-3 WACHI-DE? 2 BIN BI BIN 0-3 T.F.Z."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "952366"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix-Nagoya 2000 Round 4 Results"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-27 19:29:56+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-27 19:29:56"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527192956id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-round-4-results-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-round-4-results-2000-01-01"
 ---

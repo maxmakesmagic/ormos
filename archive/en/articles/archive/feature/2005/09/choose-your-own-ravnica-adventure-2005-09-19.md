@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20150707020550/http://magic.wizards.com/en/articles/archive/feature/choose-your-own-ravnica-adventure-2005-09-19)
+[Link to Wayback Machine](https://web.archive.org/web/20220811210121/https://magic.wizards.com/en/articles/archive/feature/choose-your-own-ravnica-adventure-2005-09-19)
 
 [_metadata_:author]:- "Brian David-Marshall"
-[_metadata_:description]:- "My original plan for this primer was to create a “Choose Your Own Adventure” format to walk you through the process of attending this weekend's Ravnica Prerelease events. As I started to lay it out it became apparent to me that it was not going to be as easy I as I originally had hoped. The problem stems from having such a wide variety of ways to experience the event."
+[_metadata_:description]:- "My original plan for this primer was to create a “Choose Your Own Adventure” format to walk you through the process of attending this weekend's Ravnica Prerelease events. As I started to lay it out it became apparent to me that it was not going to be as easy I as I originally had hoped. The problem stems from having such a wide variety of ways to experience the event. Players"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "292206"
 [_metadata_:publish_date]:- "2005-09-19"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Choose Your Own Ravnica Adventure"
-[_metadata_:wayback_capture_timestamp]:- "2015-07-07 02:05:50+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150707020550id_/http://magic.wizards.com/en/articles/archive/feature/choose-your-own-ravnica-adventure-2005-09-19"
-[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/choose-your-own-ravnica-adventure-2005-09-19"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-11 21:01:21"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220811210121id_/https://magic.wizards.com/en/articles/archive/feature/choose-your-own-ravnica-adventure-2005-09-19"
+[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/choose-your-own-ravnica-adventure-2005-09-19"
 ---
 
 
@@ -26,13 +28,13 @@ Choose Your Own Ravnica Adventure
 
 
 
-![](https://media.magic.wizards.com/styles/auth_small/public/images/person/authorpic_briandavid-marshall.jpg)
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/author-photo_BDM.jpg)
 By Brian David-Marshall
 
 
 
 
-Brian David-Marshall is a New York–based game designer who has been involved with Magic since 1994, when he started organizing tournaments and ran a Manhattan game store. Since then, he has been a judge, a player, and one of the longest-tenured columnists on DailyMTG.com, as he enters his second decade writing for the site. He is also the Pro Tour Historian and one of the commentators for the Pro Tour. 
+ Brian David-Marshall is a New York–based game designer who has been involved with Magic since 1994, when he started organizing tournaments and ran a Manhattan game store. Since then, he has been a judge, a player, and one of the longest-tenured columnists on DailyMTG.com, as he enters his second decade writing for the site. He is also the Pro Tour Historian and one of the commentators for the Pro Tour. 
 
 
 

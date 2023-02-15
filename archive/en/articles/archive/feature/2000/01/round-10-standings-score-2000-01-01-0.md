@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "RankTeamPointsOp.Win% 1 www.alphabetaunlimited.com 2773.1250% 2 Susiyan 2765.2619% 3 Dekiru-Kana?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "806776"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 10 Standings (by Score)"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-01 01:26:15+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-01 01:26:15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220701012615id_/https://magic.wizards.com/en/articles/archive/feature/round-10-standings-score-2000-01-01-0"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-10-standings-score-2000-01-01-0"
 ---

@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20210421113922/https://magic.wizards.com/en/articles/archive/feature/announcing-worldwake-2009-08-03)
+[Link to Wayback Machine](https://web.archive.org/web/20211201190753/https://magic.wizards.com/en/articles/archive/feature/announcing-worldwake-2009-08-03)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Magic's February 2010 small set, code-named `Long`, is called Worldwake."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "654066"
 [_metadata_:publish_date]:- "2009-08-03"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Announcing Worldwake"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-21 11:39:22+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210421113922id_/https://magic.wizards.com/en/articles/archive/feature/announcing-worldwake-2009-08-03"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-01 19:07:53"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211201190753id_/https://magic.wizards.com/en/articles/archive/feature/announcing-worldwake-2009-08-03"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/announcing-worldwake-2009-08-03"
 ---
 

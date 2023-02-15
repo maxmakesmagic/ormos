@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Junior Super Series Championship Round 5 Pairings - 14 and under Division Player Points Table Opponent Points Allen Dustin (17) 3 21 Cole Kirk (57) 4 Altemara Chase (10) 9 7 Mcbee Sean (51) 9 Anderson Adam (2) 6 18 Mcpherson Ryan (47) 6 Behlen Andrew (3) 12 2 Lipp Scott (49) 12 Bizub Marc (39) 0 26 Buescher William (56) 3 Blair James (24) 9 8 Franz Eric (20) 9 Blatnick Brandon"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "953256"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Sideboard Online Event Coverage"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-27 04:29:27+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-27 04:29:27"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220527042927id_/https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-42"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/sideboard-online-event-coverage-2000-01-01-42"
 ---

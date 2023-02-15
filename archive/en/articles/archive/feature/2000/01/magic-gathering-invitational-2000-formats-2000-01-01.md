@@ -3,9 +3,11 @@
 [Link to Wayback Machine](https://web.archive.org/web/20171029125051/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000-formats-2000-01-01)
 
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "963271"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic: The Gathering Invitational 2000 Formats"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-29 12:50:51+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-29 12:50:51"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171029125051id_/https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000-formats-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/magic-gathering-invitational-2000-formats-2000-01-01"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: William_'s Monoblack Nekrataal Format: Vanguard Premier Event 4 Mutavault 16 Swamp 4 Earwig Squad 4 Frogtosser Banneret 2 Mad Auntie 4 Nightshade Stinger 4 Oona's Blackguard 4 Oona's Prowler 4 Prickly Boggart 4 Squeaking Pie Sneak 4 Stinkdrinker Bandit 2 Sygg, River Cutthroat 4 Thoughtseize *4 Festering Goblin *2 Mad Auntie *4 Marsh Flitter *1 Merrow"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "665861"
 [_metadata_:publish_date]:- "2009-01-27"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Nekrataal in Vanguard"
-[_metadata_:wayback_capture_timestamp]:- "2022-07-03 03:22:15+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-07-03 03:22:15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220703032215id_/https://magic.wizards.com/en/articles/archive/feature/nekrataal-vanguard-2009-01-27"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/nekrataal-vanguard-2009-01-27"
 ---

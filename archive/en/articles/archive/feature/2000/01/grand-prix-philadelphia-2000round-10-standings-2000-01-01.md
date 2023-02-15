@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Op-Match Rank Name Points Win% 1 McCord Scott 30 71.53 2 Joyce Brian 28 65.04 3 Leiher, Peter (Q) 27 74.06 4 Jensen III, William (Q) 27 71.02 5 Fitch, Britt (1700) 27 66.02 6 Gallitz, Donald (Q) (1700) 27 63.29 7 Van Cleave, Trey (Q) 25 70.45 8 Dougherty, Robert (Q) 25 69.90 9 Bush Michelle 25 68.21 10 Roderer, Dave (1700) 25 67.34 11 Thomsen Skye 25 67.02 12 Turk, Eugene"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "952781"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix-Philadelphia 2000Round 10 Standings"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-24 07:07:46+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-24 07:07:46"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220524070746id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-10-standings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-2000round-10-standings-2000-01-01"
 ---

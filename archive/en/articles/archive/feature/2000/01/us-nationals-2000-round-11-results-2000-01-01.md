@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Opponent Result Aubertin, Justin Flores, Micheal Won, 2-0 Beckmon, Jon Morales, Manuel Lost, 0-2 Benafel, Chris Mowshowitz, Zvi Won, 2-1 Bhattacharyya, Sayan Ho, Ken Won, 2-0 Bragg, Tillman Winkelstien, Jerry"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "949186"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "US Nationals 2000 Round 11 Results"
-[_metadata_:wayback_capture_timestamp]:- "2017-11-24 04:19:42+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-11-24 04:19:42"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171124041942id_/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-11-results-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-11-results-2000-01-01"
 ---

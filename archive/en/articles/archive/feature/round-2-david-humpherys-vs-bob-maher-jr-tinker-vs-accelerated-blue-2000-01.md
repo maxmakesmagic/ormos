@@ -5,8 +5,10 @@
 [_metadata_:author]:- "Craig Jones"
 [_metadata_:description]:- "Match Coverage Finals: Jon Finkel (USA) vs. Bob Maher, Jr. (USA) In a battle of Magic titans, Jon Finkel, the greatest player in the history of Magic: the Gathering , defeated Bob Maher three games to two. Playing nearly identical decks, the two friends, both of whom had previously won Pro Tours, played the maximum number of games to decide who would join Tommi Hovi as the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "962561"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Round 2: David Humpherys vs. Bob Maher Jr. Tinker vs. Accelerated Blue"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-04 01:49:06+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-04 01:49:06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211204014906id_/https://magic.wizards.com/en/articles/archive/feature/round-2-david-humpherys-vs-bob-maher-jr-tinker-vs-accelerated-blue-2000-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/round-2-david-humpherys-vs-bob-maher-jr-tinker-vs-accelerated-blue-2000-01"
 ---

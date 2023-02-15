@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "dop·pel·gäng·er"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "637091"
 [_metadata_:publish_date]:- "2002-01-25"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "dop·pel·gäng·er, e·pi·cen·ter, Chlor·o·phant"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-09 07:53:35+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-09 07:53:35"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170309075335id_/http://magic.wizards.com/en/articles/archive/feature/dop%C2%B7pel%C2%B7g%C3%A4ng%C2%B7er-e%C2%B7pi%C2%B7cen%C2%B7ter-chlor%C2%B7o%C2%B7phant-2002-01-25"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/dop%C2%B7pel%C2%B7g%C3%A4ng%C2%B7er-e%C2%B7pi%C2%B7cen%C2%B7ter-chlor%C2%B7o%C2%B7phant-2002-01-25"
 ---

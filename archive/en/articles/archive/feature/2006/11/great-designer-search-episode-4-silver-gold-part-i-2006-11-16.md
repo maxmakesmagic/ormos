@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark Rosewater"
 [_metadata_:description]:- "Hello everyone. As this is the first time we've ever done anything like The Great Designer Search we are learning as we go. The lesson of last week was `too much text, for all that is holy, too much text!`. Last week was even longer than it would have been since we included my comments for both weeks, but we've decided to try something a little different this week. This week the episode is broken into two parts."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "625016"
 [_metadata_:publish_date]:- "2006-11-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Great Designer Search Episode #4 `Silver & Gold`, Part I"
-[_metadata_:wayback_capture_timestamp]:- "2020-10-20 03:42:04+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-10-20 03:42:04"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201020034204id_/https://magic.wizards.com/en/articles/archive/feature/great-designer-search-episode-4-silver-gold-part-i-2006-11-16"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/great-designer-search-episode-4-silver-gold-part-i-2006-11-16"
 ---

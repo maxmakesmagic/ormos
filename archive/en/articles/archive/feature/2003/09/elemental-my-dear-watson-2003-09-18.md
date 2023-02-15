@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mark L. Gottlieb"
 [_metadata_:description]:- "Freedom! Glorious, glorious freedom! Like most preview weeks, I was assigned a specific card to glorify today. That card was Auriok Steelshaper. Making Vedalken Archmage decks without being able to leak any Mirrodin artifacts was tough, but I was able to do it a couple of weeks ago because hundreds of other artifacts have been printed before. Making Auriok Steelshaper decks"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "613601"
 [_metadata_:publish_date]:- "2003-09-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Elemental, My Dear Watson"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-14 17:54:16+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-14 17:54:16"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220814175416id_/https://magic.wizards.com/en/articles/archive/feature/elemental-my-dear-watson-2003-09-18"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/elemental-my-dear-watson-2003-09-18"
 ---

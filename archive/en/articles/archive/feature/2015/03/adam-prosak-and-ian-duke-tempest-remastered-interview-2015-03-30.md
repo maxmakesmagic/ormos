@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20170414025124/http://magic.wizards.com/en/articles/archive/feature/adam-prosak-and-ian-duke-tempest-remastered-interview-2015-03-30)
+[Link to Wayback Machine](https://web.archive.org/web/20160323221703/http://magic.wizards.com/en/articles/archive/feature/adam-prosak-and-ian-duke-tempest-remastered-interview-2015-03-30)
 
 [_metadata_:author]:- "David Whitfield"
 [_metadata_:description]:- "The lead designers of Tempest Remastered"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "371566"
 [_metadata_:publish_date]:- "2015-03-30"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Adam Prosak and Ian Duke Tempest Remastered Interview"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-14 02:51:24+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170414025124id_/http://magic.wizards.com/en/articles/archive/feature/adam-prosak-and-ian-duke-tempest-remastered-interview-2015-03-30"
+[_metadata_:wayback_capture_timestamp]:- "2016-03-23 22:17:03"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160323221703id_/http://magic.wizards.com/en/articles/archive/feature/adam-prosak-and-ian-duke-tempest-remastered-interview-2015-03-30"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/adam-prosak-and-ian-duke-tempest-remastered-interview-2015-03-30"
 ---
 
@@ -71,7 +73,7 @@ Onto the interview!
 
 
 
-**Adam:** Choosing the proper block was one of the most difficult parts of the project. Nearly every block has some awesome and iconic cards, so we focused mostly on what type of game experience we could create with this product. We wanted to start with something that had enough cards that worked under our modern developmental guidelines. *Tempest* was a good candidate simply because it contained a high number of cards that serve as a good baseline for Limited play. [Pacifism](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pacifism), Wind Drake, and Lightning Blast are great Limited cards, and give us a lot of tools to work with. The other reason we chose *Tempest* was that we felt we could make the drafting environment much different from the first time around.
+**Adam:** Choosing the proper block was one of the most difficult parts of the project. Nearly every block has some awesome and iconic cards, so we focused mostly on what type of game experience we could create with this product. We wanted to start with something that had enough cards that worked under our modern developmental guidelines. *Tempest* was a good candidate simply because it contained a high number of cards that serve as a good baseline for Limited play. [Pacifism](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pacifism), [Wind Drake](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wind+Drake), and [Lightning Blast](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lightning+Blast) are great Limited cards, and give us a lot of tools to work with. The other reason we chose *Tempest* was that we felt we could make the drafting environment much different from the first time around.
 
 
 
@@ -105,7 +107,7 @@ Onto the interview!
 
 
 
-**Adam:** The team starts by going through the file, and sorting the cards into categories. The first category was cards that we should definitely have. This basically includes all of the sweet, iconic cards from *Tempest*. Sliver Queen, Capsize, Recurring Nightmare, and many others went into this pile. The second pile contained cards that we wouldn't want to make again. The licids all went into this pile. The third pile contained everything else—cards that we had to work with. Then, we started building a file that looks like a normal large set.
+**Adam:** The team starts by going through the file, and sorting the cards into categories. The first category was cards that we should definitely have. This basically includes all of the sweet, iconic cards from *Tempest*. [Sliver Queen](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sliver+Queen), [Capsize](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Capsize), [Recurring Nightmare](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Recurring+Nightmare), and many others went into this pile. The second pile contained cards that we wouldn't want to make again. The licids all went into this pile. The third pile contained everything else—cards that we had to work with. Then, we started building a file that looks like a normal large set.
 
 
 
@@ -138,11 +140,11 @@ With *Tempest Remastered*, we wanted to bring back nostalgic cards and mechanics
 
 
 
-**Adam:** Many of the sets had very similar cards that we like individually, but not together in the same set. For example, [Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shock) and Kindle are too similar in effect. Black had this problem big time, both with very similar shadow creatures, lots of "return from your graveyard" effects, and even a good amount of similarity in the removal spells.
+**Adam:** Many of the sets had very similar cards that we like individually, but not together in the same set. For example, [Shock](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shock) and [Kindle](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kindle) are too similar in effect. Black had this problem big time, both with very similar shadow creatures, lots of "return from your graveyard" effects, and even a good amount of similarity in the removal spells.
 
 
 
-The other major challenge was trying to get the mana to work properly. *Tempest* is not known for its great mana fixing, and there are many double mana cost cards in the block. There are only so many Counterspells, Death Strokes, and Soltari Priests you can play. Playing around with rarity helped quite a bit here.
+The other major challenge was trying to get the mana to work properly. *Tempest* is not known for its great mana fixing, and there are many double mana cost cards in the block. There are only so many [Counterspell](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Counterspell)s, [Death Stroke](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Death+Stroke)s, and [Soltari Priest](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Soltari+Priest)s you can play. Playing around with rarity helped quite a bit here.
 
 
 
@@ -153,7 +155,7 @@ The other major challenge was trying to get the mana to work properly. *Tempest*
 
 
 
-**Adam:** I can put Survival of the Fittest into the set! Not having to balance for Constructed makes things much easier.
+**Adam:** I can put [Survival of the Fittest](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Survival+of+the+Fittest) into the set! Not having to balance for Constructed makes things much easier.
 
 
 
@@ -184,7 +186,7 @@ In the original *Tempest* block green was the weakest color, and red and black w
 
 
 
-Many cards from the original block caused what we call "lock out" gameplay. Creatures that tap to deal damage, like Fireslinger, can repeatedly kill all of your small creatures, especially in multiples. Similarly, the buyback mechanic lets a player cast the same spell turn after turn. Often you would end up with a handful of cards but no productive plays. We adjusted the rarity up on some of these cards so that more games play out in different ways.
+Many cards from the original block caused what we call "lock out" gameplay. Creatures that tap to deal damage, like [Fireslinger](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fireslinger), can repeatedly kill all of your small creatures, especially in multiples. Similarly, the buyback mechanic lets a player cast the same spell turn after turn. Often you would end up with a handful of cards but no productive plays. We adjusted the rarity up on some of these cards so that more games play out in different ways.
 
 
 
@@ -195,11 +197,11 @@ Many cards from the original block caused what we call "lock out" gameplay. Crea
 
 
 
-**Adam:** Merfolk Looter is my favorite *Magic: The Gathering* card ever printed, and its first appearance was in *Exodus*. Can't get much better than that!
+**Adam:** [Merfolk Looter](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Merfolk+Looter) is my favorite *Magic: The Gathering* card ever printed, and its first appearance was in *Exodus*. Can't get much better than that!
 
 
 
-**Ian:** Endangered Armodon is a really fun green creature that can really change the way you draft and build your deck. I like combining it with the buyback spell []Evincar's Justice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4662). Hermit Druid is so powerful in Constructed that it's banned in Legacy, but it actually plays really well in Limited and can help add some synergy to a ramp or graveyard deck. I've also always had a soft spot for Slivers.
+**Ian:** [Endangered Armodon](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Endangered+Armodon) is a really fun green creature that can really change the way you draft and build your deck. I like combining it with the buyback spell []Evincar's Justice](http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=4662). Hermit Druid is so powerful in Constructed that it's banned in Legacy, but it actually plays really well in Limited and can help add some synergy to a ramp or graveyard deck. I've also always had a soft spot for Slivers.
 
 
 

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Round 4 Pairings per table Table Player 1 Player 2 1 Goldbaum, Nils Joensson, Andreas 2 Hacker, Brian Shvartsman, Alex 3 Karlsson, Morgan Dolstra, Menno 4 Van Cleave, Trey Jorstedt, Mattias 5 Twiefel, Torben Yeh, Gottlieb 6 Refsdal, Thomas Cieslikowski, Marcin 7 Kettil, Mattias Dam, Lars 8 Gem¸nd, Tobias Wills, Scott 9 van den Broek, Victor Gaudron, Stephane 10 Remie, Jeroen"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "951811"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Copenhagen 2000"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-19 03:09:44+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-19 03:09:44"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519030944id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-22"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-22"
 ---

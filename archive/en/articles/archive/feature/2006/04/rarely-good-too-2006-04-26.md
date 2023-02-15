@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Chris Millar"
 [_metadata_:description]:- "Welcome back, folks! You may have noticed I've been out of sight for a while. It's been a whole week since my last column, and during that time many panicked readers sent me frantic messages, wondering where I was. It turns out that I'm only scheduled for one column a week, so you needn't have worried. Thanks for all the phone calls and the many lovely cards. The flowers were also a nice touch, if slightly disconcerting. Luckily for you (but more importantly, for me), rumours of my demise have been, like, blown way out of proportion."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "620986"
 [_metadata_:publish_date]:- "2006-04-26"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Rarely Good Too"
-[_metadata_:wayback_capture_timestamp]:- "2016-02-28 12:09:59+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-02-28 12:09:59"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160228120959id_/http://magic.wizards.com/en/articles/archive/feature/rarely-good-too-2006-04-26"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/rarely-good-too-2006-04-26"
 ---

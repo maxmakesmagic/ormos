@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Eulaers Wannes Mono-white Format: Standard 4 Emeria, the Sky Ruin 19 Plains 2 Baneslayer Angel 4 Captain of the Watch 2 Felidar Sovereign 4 Knight of the White Orchid 4 Kor Cartographer 2 Wall of Reverence 3 Day of Judgment 2 Eldrazi Monument 4 Elspeth, Knight-Errant 3 Journey to Nowhere 3 Oblivion Ring 4 Path to Exile *4 Celestial Purge *1 Journey to Nowhere"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "669021"
 [_metadata_:publish_date]:- "2009-11-13"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Mono-white"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-18 15:10:20+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-18 15:10:20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220818151020id_/https://magic.wizards.com/en/articles/archive/feature/mono-white-2009-11-13"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/mono-white-2009-11-13"
 ---

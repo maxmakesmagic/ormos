@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20220930031510/https://magic.wizards.com/en/articles/archive/feature/alexander-blumke-becomes-1995-magic-world-champion-2009-02-16)
+[Link to Wayback Machine](https://web.archive.org/web/20210503053528/https://magic.wizards.com/en/articles/archive/feature/alexander-blumke-becomes-1995-magic-world-champion-2009-02-16)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Switzerland's Alexander Blumke defeated French national champion Marc Hernandez 3-2 in the finals of the 1995 Magic: The Gathering World Championships to become the new world champion on August 6, 1995.`I really didn't believe I could win,` said Blumke, the 26-year-old Geneva resident. `I didn't have a deck when I got here, so I stayed up late the night before making one."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "682741"
 [_metadata_:publish_date]:- "2009-02-16"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Alexander Blumke Becomes 1995 Magic World Champion"
-[_metadata_:wayback_capture_timestamp]:- "2022-09-30 03:15:10+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220930031510id_/https://magic.wizards.com/en/articles/archive/feature/alexander-blumke-becomes-1995-magic-world-champion-2009-02-16"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-03 05:35:28"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210503053528id_/https://magic.wizards.com/en/articles/archive/feature/alexander-blumke-becomes-1995-magic-world-champion-2009-02-16"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/alexander-blumke-becomes-1995-magic-world-champion-2009-02-16"
 ---
 
@@ -43,7 +45,7 @@ By Wizards of the Coast
 
 "I really didn't believe I could win," said Blumke, the 26-year-old Geneva resident. "I didn't have a deck when I got here, so I stayed up late the night before making one. Then the next morning, I realized that what I made would not win, so I changed it right before the competition." When asked what surprised him most about becoming world champion, Blumke replied, "I didn't think I could do it. My deck wasn't good enough and there were so many other good players." 
 
-Specifically, Blumke feared facing Hemandez who was playing a very defensive deck. While Hernandez's deck focused on putting cards into his opponent's hand and then punishing his opponent with Black Vise, Blumke's deck stripped cards from the opponent's hand and then subjected that player to [The Rack](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=The+Rack). According to Blumke, Hemandez's deck was "the antithesis of my deck. It was the very kind of deck I did not want to face." 
+Specifically, Blumke feared facing Hemandez who was playing a very defensive deck. While Hernandez's deck focused on putting cards into his opponent's hand and then punishing his opponent with Black Vise, Blumke's deck stripped cards from the opponent's hand and then subjected that player to [The Rack](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=The+Rack). According to Blumke, Hemandez's deck was "the antithesis of my deck. It was the very kind of deck I did not want to face." 
 
 But Blumke—with a remarkable ability to hang on at 1 or 2 life for long stretches of time—was able to keep Hernandez off-balance throughout the championship match. Using a combination of card denial and big creatures. Blumke was usually able to overwhelm Hernandez before the Frenchman's deck got rolling. 
 

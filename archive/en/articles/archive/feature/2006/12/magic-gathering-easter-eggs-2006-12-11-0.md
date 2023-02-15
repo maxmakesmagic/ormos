@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Doug Beyer"
 [_metadata_:description]:- "To the fighting game aficionado, it's the unlockable secret character. In software tech-writer lingo, it's the undocumented feature. Audiophiles know it as the hidden track at the end of the CD. It's the Easter egg, and it's in just about every entertainment medium. Magic is no exception; at its core, the Easter egg is as crucial to the creation of a Magic card as the cardboard."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "633176"
 [_metadata_:publish_date]:- "2006-12-11"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Magic: A Gathering of Easter Eggs"
-[_metadata_:wayback_capture_timestamp]:- "2017-01-26 10:52:23+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-01-26 10:52:23"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170126105223id_/http://magic.wizards.com/en/articles/archive/feature/magic-gathering-easter-eggs-2006-12-11-0"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/magic-gathering-easter-eggs-2006-12-11-0"
 ---

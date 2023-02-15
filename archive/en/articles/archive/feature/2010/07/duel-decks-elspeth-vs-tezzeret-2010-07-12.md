@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Collector's Highlights These ready-to-play 60-card decks showcase some of the best spells that white and blue Planeswalkers have in their arsenal. Duel Decks: Elspeth vs. Tezzeret has eight rare cards, and six cards with new artwork, including foil alternate-art versions of Elspeth, Knight-Errant and Tezzeret the Seeker. Each of the cards in the 60-card decks will be"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "696596"
 [_metadata_:publish_date]:- "2010-07-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Duel Decks: Elspeth vs. Tezzeret"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-08 23:33:26+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-08 23:33:26"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211208233326id_/https://magic.wizards.com/en/articles/archive/feature/duel-decks-elspeth-vs-tezzeret-2010-07-12"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/duel-decks-elspeth-vs-tezzeret-2010-07-12"
 ---

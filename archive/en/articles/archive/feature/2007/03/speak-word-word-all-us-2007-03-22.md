@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Matt Cavotta"
 [_metadata_:description]:- "I am over three thousand years old, and like a lot of Magic players who are getting along in age, I play a good portion of my games online these days. Not only do I find it extremely convenient, but it's also a welcome respite from the usual living hell I endure whilst playing Magic in person."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "626986"
 [_metadata_:publish_date]:- "2007-03-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Speak the Word, the Word is All of Us"
-[_metadata_:wayback_capture_timestamp]:- "2017-05-11 18:59:39+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-05-11 18:59:39"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170511185939id_/http://magic.wizards.com/en/articles/archive/feature/speak-word-word-all-us-2007-03-22"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/speak-word-word-all-us-2007-03-22"
 ---

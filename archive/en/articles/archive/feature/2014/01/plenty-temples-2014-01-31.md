@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Gerry Thompson"
 [_metadata_:description]:- "Last week, I showed off Ali Aintrazi's Five-Color Axebane Guardian. Today, I have a similar deck, although King Feeble's version is a more modest four-color deck featuring cheaper spells instead of Axebane Guardians and bigger spells. This deck takes a lot of what makes Mono-Black Devotion so powerful, like Thoughtseize, Underworld Connections, and Gray Merchant of Asphodel,"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "667546"
 [_metadata_:publish_date]:- "2014-01-31"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Plenty of Temples"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-13 22:47:48+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-13 22:47:48"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220813224748id_/https://magic.wizards.com/en/articles/archive/feature/plenty-temples-2014-01-31"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/plenty-temples-2014-01-31"
 ---

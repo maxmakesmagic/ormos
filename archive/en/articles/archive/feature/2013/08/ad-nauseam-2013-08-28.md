@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Luis Scott-Vargas "
 [_metadata_:description]:- "I find that Angel's Grace continues to interest me in Modern, and I found another sweet deck that takes advantage of the `can't lose` clause. I've actually played today's deck a fair amount, albeit not in the last three years. Before Pro Tour Amsterdam in 2010, Team ChannelFireball (before we were a proper team, even) tested the Angel's Grace plus Ad Nauseam combo. How the"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "666921"
 [_metadata_:publish_date]:- "2013-08-28"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Ad Nauseam"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-08 13:40:06+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-08 13:40:06"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220808134006id_/https://magic.wizards.com/en/articles/archive/feature/ad-nauseam-2013-08-28"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ad-nauseam-2013-08-28"
 ---

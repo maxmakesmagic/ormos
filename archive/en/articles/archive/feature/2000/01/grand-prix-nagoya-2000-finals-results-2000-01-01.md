@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "New Wave def. Masato Club, 2-0"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "952241"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix-Nagoya 2000 Finals Results"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-19 02:44:54+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-19 02:44:54"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220519024454id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-finals-results-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-finals-results-2000-01-01"
 ---

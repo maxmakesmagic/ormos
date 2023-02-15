@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "Last week, I wrote about populating Geist of Saint Traft's Angels with Trostani, Selesnya's Voice. Well, since then, PillPallPoll on Magic Online has turned populate up to eleven by throwing Cackling Counterpart into the mix. PillPallPoll's deck replaces Geist of Saint Traft and Planeswalkers with a robust, synergistic lifegain theme, pushing it much further than we usually"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "666031"
 [_metadata_:publish_date]:- "2013-01-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Reaver Parade"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-20 03:34:49+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-20 03:34:49"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520033449id_/https://magic.wizards.com/en/articles/archive/feature/reaver-parade-2013-01-18"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/reaver-parade-2013-01-18"
 ---

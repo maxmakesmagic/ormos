@@ -5,8 +5,10 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "by Kim Eikefet"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "805466"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Masters Round 3 Feature Match: Sigurd Eskeland (Norway) vs. Warren Marsh (England)"
-[_metadata_:wayback_capture_timestamp]:- "2016-07-07 14:03:37+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-07-07 14:03:37"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160707140337id_/http://magic.wizards.com/en/articles/archive/feature/masters-round-3-feature-match-sigurd-eskeland-norway-vs-warren-marsh"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/masters-round-3-feature-match-sigurd-eskeland-norway-vs-warren-marsh"
 ---

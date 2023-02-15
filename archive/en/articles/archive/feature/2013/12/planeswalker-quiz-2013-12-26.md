@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Trick Jarrett"
 [_metadata_:description]:- "&#13; During the holiday rerun weeks, we are presenting some of the year's most popular Arcana articles. It was a challenge to narrow down to just ten, so we hope you enjoy this look back into 2013!&#13; &#13; —DailyMTG Staff&#13;  &#13; &#13;  &#13; The last time I did a quiz it was very well received. So I'm here with another quiz today, this one talks about Planeswalkers!"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "651146"
 [_metadata_:publish_date]:- "2013-12-26"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Planeswalker Quiz"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-11 23:41:24+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-04-11 23:41:24"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170411234124id_/http://magic.wizards.com/en/articles/archive/feature/planeswalker-quiz-2013-12-26"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/planeswalker-quiz-2013-12-26"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Naoki Sakaguchi's Pyromancer's Howl Format: 2009 World Championships Standard 9 Island 7 Mountain 4 Scalding Tarn 2 Terramorphic Expanse 2 Banefire 4 Burst Lightning 4 Double Negative 4 Howling Mine 4 Into the Roil 4 Lightning Bolt 4 Ponder 4 Pyromancer Ascension 4 Time Warp 4 Worldly Counsel *4 Flashfreeze *4 Negate *4 Pyroclasm *3 Sphinx of Jwar Isle"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "669106"
 [_metadata_:publish_date]:- "2009-12-09"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pyromancer's Howl"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-15 07:15:41+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-15 07:15:41"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220815071541id_/https://magic.wizards.com/en/articles/archive/feature/pyromancers-howl-2009-12-09"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pyromancers-howl-2009-12-09"
 ---

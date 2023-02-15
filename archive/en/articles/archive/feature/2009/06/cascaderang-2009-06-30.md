@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20211017222103/https://magic.wizards.com/en/articles/archive/feature/cascaderang-2009-06-30)
+[Link to Wayback Machine](https://web.archive.org/web/20220817165716/https://magic.wizards.com/en/articles/archive/feature/cascaderang-2009-06-30)
 
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Derrick Steele's Cascade Control Format: Pro Tour Qualifier-Austin 2 Cascade Bluffs 2 Exotic Orchard 1 Flooded Grove 2 Island 4 Reflecting Pool 4 Sunken Ruins 2 Vivid Crag 4 Vivid Creek 2 Vivid Grove 2 Vivid Marsh 4 Bloodbraid Elf 1 Broodmate Dragon 3 Enlisted Wurm 4 Fulminator Mage 1 Lord of Extinction 4 Mulldrifter 2 Shriekmaw 4 Boomerang 2 Cruel Ultimatum"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "668486"
 [_metadata_:publish_date]:- "2009-06-30"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Cascaderang"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-17 22:21:03+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211017222103id_/https://magic.wizards.com/en/articles/archive/feature/cascaderang-2009-06-30"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-17 16:57:16"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220817165716id_/https://magic.wizards.com/en/articles/archive/feature/cascaderang-2009-06-30"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/cascaderang-2009-06-30"
 ---
 
@@ -464,7 +466,7 @@ OverviewColorCostRarity
 
 
 
-##### Common (16)
+##### Common (6)
 
 
 
@@ -473,27 +475,11 @@ OverviewColorCostRarity
 
 
 4
-[Bloodbraid Elf](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodbraid%5D+%5BElf%5D)
-
-
-1
-[Lord of Extinction](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLord%5D+%5Bof%5D+%5BExtinction%5D)
-
-
-4
 [Boomerang](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBoomerang%5D)
 
 
-3
-[Maelstrom Pulse](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMaelstrom%5D+%5BPulse%5D)
 
-
-2
-[Path to Exile](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPath%5D+%5Bto%5D+%5BExile%5D)
-
-
-
-##### Uncommon (31)
+##### Uncommon (37)
 
 
 
@@ -511,6 +497,10 @@ OverviewColorCostRarity
 
 2
 [Vivid Marsh](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVivid%5D+%5BMarsh%5D)
+
+
+4
+[Bloodbraid Elf](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodbraid%5D+%5BElf%5D)
 
 
 3
@@ -533,12 +523,16 @@ OverviewColorCostRarity
 [Tidings](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTidings%5D)
 
 
+2
+[Path to Exile](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPath%5D+%5Bto%5D+%5BExile%5D)
+
+
 4
 [Volcanic Fallout](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVolcanic%5D+%5BFallout%5D)
 
 
 
-##### Rare (24)
+##### Rare (27)
 
 
 
@@ -574,6 +568,10 @@ OverviewColorCostRarity
 [Cryptic Command](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCryptic%5D+%5BCommand%5D)
 
 
+3
+[Maelstrom Pulse](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMaelstrom%5D+%5BPulse%5D)
+
+
 2
 [Reveillark](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReveillark%5D)
 
@@ -583,12 +581,16 @@ OverviewColorCostRarity
 
 
 
-##### Mythic (4)
+##### Mythic (5)
 
 
 
 4
 [Sunken Ruins](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSunken%5D+%5BRuins%5D)
+
+
+1
+[Lord of Extinction](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLord%5D+%5Bof%5D+%5BExtinction%5D)
 
 
 75 Cards 

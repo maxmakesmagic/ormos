@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Come to Atlanta and witness the culmination of the Theros block at Pro Tour Journey into Nyx. Held May 16–18 at the Cobb Galleria Centre, the Pro Tour provides the opportunity for Magic fans to see the best players in the world up close and personal as they battle on the game's biggest stage. The hall layout for Pro Tour Journey into Nyx is configured both with a viewing area"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "687401"
 [_metadata_:publish_date]:- "2014-04-29"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "See the Pro Tour Stars in Atlanta"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-21 17:07:19+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-21 17:07:19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521170719id_/https://magic.wizards.com/en/articles/archive/feature/see-pro-tour-stars-atlanta-2014-04-29"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/see-pro-tour-stars-atlanta-2014-04-29"
 ---

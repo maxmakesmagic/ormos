@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Frank Karsten"
 [_metadata_:description]:- "PrefaceIn honor of the current `What if?` Week, I will also be exploring an alternate reality scenario today. My premise is: What if Magic  Online had no banned or restricted lists?"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "624241"
 [_metadata_:publish_date]:- "2007-02-28"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Affinity's Reign"
-[_metadata_:wayback_capture_timestamp]:- "2017-08-08 06:41:11+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-08 06:41:11"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170808064111id_/http://magic.wizards.com/en/articles/archive/feature/affinitys-reign-2007-02-28"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/affinitys-reign-2007-02-28"
 ---

@@ -1,15 +1,17 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20220921111948/https://magic.wizards.com/en/articles/archive/feature/brian-kiblers-caw-go-2010-12-13)
+[Link to Wayback Machine](https://web.archive.org/web/20170810233142/http://magic.wizards.com/en/articles/archive/feature/brian-kiblers-caw-go-2010-12-13)
 
 [_metadata_:author]:- "Wizards of the Coast"
-[_metadata_:description]:- "[decklist] Title: Brian Kibler's Caw-Go, 18 points Format: Standard – 2010 World Championships 1 Arid Mesa 4 Celestial Colonnade 4 Glacial Fortress 4 Island 4 Plains 2 Scalding Tarn 4 Seachrome Coast 3 Tectonic Edge 4 Squadron Hawk 2 Condemn 3 Day of Judgment 1 Deprive 3 Gideon Jura 1 Jace Beleren 4 Jace, the Mind Sculptor 3 Journey to Nowhere 2 Mana Leak 4 Preordain 4 Spell"
+[_metadata_:description]:- "[decklist] Title: Brian Kibler's Caw-Go, 18 points Format: Standard – 2010 World Championships 1 Arid Mesa 4 Celestial Colonnade 4 Glacial Fortress 4 Island 4 Plains 2 Scalding Tarn 4 Seachrome Coast 3 Tectonic Edge 4 Squadron Hawk 2 Condemn 3 Day of Judgment 1 Deprive 3 Gideon Jura 1 Jace Beleren 4 Jace, the Mind Sculptor 3 Journey to Nowhere 2 Mana Leak 4 Preordain 4 Spell Pierce 1 Spreading Seas 2 Stoic Rebuttal"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "670486"
 [_metadata_:publish_date]:- "2010-12-13"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Brian Kibler's Caw-Go"
-[_metadata_:wayback_capture_timestamp]:- "2022-09-21 11:19:48+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220921111948id_/https://magic.wizards.com/en/articles/archive/feature/brian-kiblers-caw-go-2010-12-13"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/brian-kiblers-caw-go-2010-12-13"
+[_metadata_:wayback_capture_timestamp]:- "2017-08-10 23:31:42"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170810233142id_/http://magic.wizards.com/en/articles/archive/feature/brian-kiblers-caw-go-2010-12-13"
+[_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/brian-kiblers-caw-go-2010-12-13"
 ---
 
 
@@ -26,9 +28,8 @@ Brian Kibler's Caw-Go
 
 
 
-![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_author.jpg)
+![](https://media.magic.wizards.com/styles/auth_small/public/images/person/wizards_authorpic_larger.jpg)
 By Wizards of the Coast
-
 
 
 
@@ -55,9 +56,7 @@ By Wizards of the Coast
 
 
 
-![Download Arena Decklist](https://web.archive.org/web/20211024134741im_/https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png)
 ![](https://web.archive.org/web/20160726232508im_/http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
-
 
 
 
@@ -82,15 +81,15 @@ OverviewColorCostRarity
 
 
 3
-[Gideon Jura](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGideon%5D+%5BJura%5D)
+[Gideon Jura](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGideon%5D+%5BJura%5D)
 
 
 1
-[Jace Beleren](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace%5D+%5BBeleren%5D)
+[Jace Beleren](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace%5D+%5BBeleren%5D)
 
 
 4
-[Jace, the Mind Sculptor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5Bthe%5D+%5BMind%5D+%5BSculptor%5D)
+[Jace, the Mind Sculptor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5Bthe%5D+%5BMind%5D+%5BSculptor%5D)
 
 
 
@@ -99,7 +98,7 @@ OverviewColorCostRarity
 
 
 4
-[Squadron Hawk](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSquadron%5D+%5BHawk%5D)
+[Squadron Hawk](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSquadron%5D+%5BHawk%5D)
 
 
 
@@ -108,11 +107,11 @@ OverviewColorCostRarity
 
 
 3
-[Day of Judgment](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDay%5D+%5Bof%5D+%5BJudgment%5D)
+[Day of Judgment](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDay%5D+%5Bof%5D+%5BJudgment%5D)
 
 
 4
-[Preordain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPreordain%5D)
+[Preordain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPreordain%5D)
 
 
 
@@ -121,23 +120,23 @@ OverviewColorCostRarity
 
 
 2
-[Condemn](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCondemn%5D)
+[Condemn](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCondemn%5D)
 
 
 1
-[Deprive](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeprive%5D)
+[Deprive](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeprive%5D)
 
 
 2
-[Mana Leak](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BLeak%5D)
+[Mana Leak](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BLeak%5D)
 
 
 4
-[Spell Pierce](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpell%5D+%5BPierce%5D)
+[Spell Pierce](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpell%5D+%5BPierce%5D)
 
 
 2
-[Stoic Rebuttal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStoic%5D+%5BRebuttal%5D)
+[Stoic Rebuttal](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStoic%5D+%5BRebuttal%5D)
 
 
 
@@ -146,11 +145,11 @@ OverviewColorCostRarity
 
 
 3
-[Journey to Nowhere](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJourney%5D+%5Bto%5D+%5BNowhere%5D)
+[Journey to Nowhere](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJourney%5D+%5Bto%5D+%5BNowhere%5D)
 
 
 1
-[Spreading Seas](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpreading%5D+%5BSeas%5D)
+[Spreading Seas](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpreading%5D+%5BSeas%5D)
 
 
 
@@ -159,35 +158,35 @@ OverviewColorCostRarity
 
 
 1
-[Arid Mesa](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArid%5D+%5BMesa%5D)
+[Arid Mesa](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArid%5D+%5BMesa%5D)
 
 
 4
-[Celestial Colonnade](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCelestial%5D+%5BColonnade%5D)
+[Celestial Colonnade](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCelestial%5D+%5BColonnade%5D)
 
 
 4
-[Glacial Fortress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlacial%5D+%5BFortress%5D)
+[Glacial Fortress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlacial%5D+%5BFortress%5D)
 
 
 4
-[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
 
 
 4
-[Plains](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
 
 
 2
-[Scalding Tarn](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScalding%5D+%5BTarn%5D)
+[Scalding Tarn](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScalding%5D+%5BTarn%5D)
 
 
 4
-[Seachrome Coast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeachrome%5D+%5BCoast%5D)
+[Seachrome Coast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeachrome%5D+%5BCoast%5D)
 
 
 3
-[Tectonic Edge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTectonic%5D+%5BEdge%5D)
+[Tectonic Edge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTectonic%5D+%5BEdge%5D)
 
 
 60 Cards 
@@ -198,39 +197,39 @@ OverviewColorCostRarity
 
 
 1
-[Tectonic Edge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTectonic%5D+%5BEdge%5D)
+[Tectonic Edge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTectonic%5D+%5BEdge%5D)
 
 
 2
-[Condemn](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCondemn%5D)
+[Condemn](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCondemn%5D)
 
 
 1
-[Day of Judgment](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDay%5D+%5Bof%5D+%5BJudgment%5D)
+[Day of Judgment](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDay%5D+%5Bof%5D+%5BJudgment%5D)
 
 
 1
-[Deprive](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeprive%5D)
+[Deprive](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeprive%5D)
 
 
 1
-[Jace Beleren](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace%5D+%5BBeleren%5D)
+[Jace Beleren](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace%5D+%5BBeleren%5D)
 
 
 3
-[Spreading Seas](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpreading%5D+%5BSeas%5D)
+[Spreading Seas](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpreading%5D+%5BSeas%5D)
 
 
 3
-[Celestial Purge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCelestial%5D+%5BPurge%5D)
+[Celestial Purge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCelestial%5D+%5BPurge%5D)
 
 
 1
-[Elspeth Tirel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth%5D+%5BTirel%5D)
+[Elspeth Tirel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth%5D+%5BTirel%5D)
 
 
 2
-[Flashfreeze](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlashfreeze%5D)
+[Flashfreeze](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlashfreeze%5D)
 
 
 
@@ -240,31 +239,31 @@ OverviewColorCostRarity
 
 
 4
-[Squadron Hawk](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSquadron%5D+%5BHawk%5D)
+[Squadron Hawk](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSquadron%5D+%5BHawk%5D)
 
 
 4
-[Condemn](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCondemn%5D)
+[Condemn](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCondemn%5D)
 
 
 4
-[Day of Judgment](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDay%5D+%5Bof%5D+%5BJudgment%5D)
+[Day of Judgment](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDay%5D+%5Bof%5D+%5BJudgment%5D)
 
 
 3
-[Gideon Jura](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGideon%5D+%5BJura%5D)
+[Gideon Jura](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGideon%5D+%5BJura%5D)
 
 
 3
-[Journey to Nowhere](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJourney%5D+%5Bto%5D+%5BNowhere%5D)
+[Journey to Nowhere](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJourney%5D+%5Bto%5D+%5BNowhere%5D)
 
 
 3
-[Celestial Purge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCelestial%5D+%5BPurge%5D)
+[Celestial Purge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCelestial%5D+%5BPurge%5D)
 
 
 1
-[Elspeth Tirel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth%5D+%5BTirel%5D)
+[Elspeth Tirel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth%5D+%5BTirel%5D)
 
 
 
@@ -273,39 +272,39 @@ OverviewColorCostRarity
 
 
 2
-[Deprive](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeprive%5D)
+[Deprive](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeprive%5D)
 
 
 2
-[Jace Beleren](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace%5D+%5BBeleren%5D)
+[Jace Beleren](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace%5D+%5BBeleren%5D)
 
 
 4
-[Jace, the Mind Sculptor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5Bthe%5D+%5BMind%5D+%5BSculptor%5D)
+[Jace, the Mind Sculptor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5Bthe%5D+%5BMind%5D+%5BSculptor%5D)
 
 
 2
-[Mana Leak](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BLeak%5D)
+[Mana Leak](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BLeak%5D)
 
 
 4
-[Preordain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPreordain%5D)
+[Preordain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPreordain%5D)
 
 
 4
-[Spell Pierce](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpell%5D+%5BPierce%5D)
+[Spell Pierce](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpell%5D+%5BPierce%5D)
 
 
 4
-[Spreading Seas](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpreading%5D+%5BSeas%5D)
+[Spreading Seas](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpreading%5D+%5BSeas%5D)
 
 
 2
-[Stoic Rebuttal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStoic%5D+%5BRebuttal%5D)
+[Stoic Rebuttal](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStoic%5D+%5BRebuttal%5D)
 
 
 2
-[Flashfreeze](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlashfreeze%5D)
+[Flashfreeze](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlashfreeze%5D)
 
 
 
@@ -314,35 +313,35 @@ OverviewColorCostRarity
 
 
 1
-[Arid Mesa](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArid%5D+%5BMesa%5D)
+[Arid Mesa](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArid%5D+%5BMesa%5D)
 
 
 4
-[Celestial Colonnade](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCelestial%5D+%5BColonnade%5D)
+[Celestial Colonnade](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCelestial%5D+%5BColonnade%5D)
 
 
 4
-[Glacial Fortress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlacial%5D+%5BFortress%5D)
+[Glacial Fortress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlacial%5D+%5BFortress%5D)
 
 
 4
-[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
 
 
 4
-[Plains](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
 
 
 2
-[Scalding Tarn](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScalding%5D+%5BTarn%5D)
+[Scalding Tarn](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScalding%5D+%5BTarn%5D)
 
 
 4
-[Seachrome Coast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeachrome%5D+%5BCoast%5D)
+[Seachrome Coast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeachrome%5D+%5BCoast%5D)
 
 
 4
-[Tectonic Edge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTectonic%5D+%5BEdge%5D)
+[Tectonic Edge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTectonic%5D+%5BEdge%5D)
 
 
 75 Cards 
@@ -354,15 +353,15 @@ OverviewColorCostRarity
 
 
 4
-[Condemn](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCondemn%5D)
+[Condemn](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCondemn%5D)
 
 
 4
-[Preordain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPreordain%5D)
+[Preordain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPreordain%5D)
 
 
 4
-[Spell Pierce](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpell%5D+%5BPierce%5D)
+[Spell Pierce](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpell%5D+%5BPierce%5D)
 
 
 
@@ -371,31 +370,31 @@ OverviewColorCostRarity
 
 
 4
-[Squadron Hawk](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSquadron%5D+%5BHawk%5D)
+[Squadron Hawk](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSquadron%5D+%5BHawk%5D)
 
 
 2
-[Deprive](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeprive%5D)
+[Deprive](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeprive%5D)
 
 
 3
-[Journey to Nowhere](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJourney%5D+%5Bto%5D+%5BNowhere%5D)
+[Journey to Nowhere](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJourney%5D+%5Bto%5D+%5BNowhere%5D)
 
 
 2
-[Mana Leak](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BLeak%5D)
+[Mana Leak](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BLeak%5D)
 
 
 4
-[Spreading Seas](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpreading%5D+%5BSeas%5D)
+[Spreading Seas](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpreading%5D+%5BSeas%5D)
 
 
 3
-[Celestial Purge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCelestial%5D+%5BPurge%5D)
+[Celestial Purge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCelestial%5D+%5BPurge%5D)
 
 
 2
-[Flashfreeze](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlashfreeze%5D)
+[Flashfreeze](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlashfreeze%5D)
 
 
 
@@ -404,11 +403,11 @@ OverviewColorCostRarity
 
 
 2
-[Jace Beleren](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace%5D+%5BBeleren%5D)
+[Jace Beleren](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace%5D+%5BBeleren%5D)
 
 
 2
-[Stoic Rebuttal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStoic%5D+%5BRebuttal%5D)
+[Stoic Rebuttal](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStoic%5D+%5BRebuttal%5D)
 
 
 
@@ -417,11 +416,11 @@ OverviewColorCostRarity
 
 
 4
-[Day of Judgment](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDay%5D+%5Bof%5D+%5BJudgment%5D)
+[Day of Judgment](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDay%5D+%5Bof%5D+%5BJudgment%5D)
 
 
 4
-[Jace, the Mind Sculptor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5Bthe%5D+%5BMind%5D+%5BSculptor%5D)
+[Jace, the Mind Sculptor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5Bthe%5D+%5BMind%5D+%5BSculptor%5D)
 
 
 
@@ -430,11 +429,11 @@ OverviewColorCostRarity
 
 
 3
-[Gideon Jura](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGideon%5D+%5BJura%5D)
+[Gideon Jura](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGideon%5D+%5BJura%5D)
 
 
 1
-[Elspeth Tirel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth%5D+%5BTirel%5D)
+[Elspeth Tirel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth%5D+%5BTirel%5D)
 
 
 48 Cards 
@@ -446,43 +445,43 @@ OverviewColorCostRarity
 
 
 4
-[Island](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
+[Island](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D)
 
 
 4
-[Plains](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
+[Plains](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D)
 
 
 4
-[Squadron Hawk](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSquadron%5D+%5BHawk%5D)
+[Squadron Hawk](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSquadron%5D+%5BHawk%5D)
 
 
 2
-[Deprive](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeprive%5D)
+[Deprive](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeprive%5D)
 
 
 3
-[Journey to Nowhere](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJourney%5D+%5Bto%5D+%5BNowhere%5D)
+[Journey to Nowhere](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJourney%5D+%5Bto%5D+%5BNowhere%5D)
 
 
 2
-[Mana Leak](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BLeak%5D)
+[Mana Leak](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BLeak%5D)
 
 
 4
-[Preordain](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPreordain%5D)
+[Preordain](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPreordain%5D)
 
 
 4
-[Spell Pierce](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpell%5D+%5BPierce%5D)
+[Spell Pierce](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpell%5D+%5BPierce%5D)
 
 
 4
-[Spreading Seas](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpreading%5D+%5BSeas%5D)
+[Spreading Seas](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpreading%5D+%5BSeas%5D)
 
 
 2
-[Stoic Rebuttal](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStoic%5D+%5BRebuttal%5D)
+[Stoic Rebuttal](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStoic%5D+%5BRebuttal%5D)
 
 
 
@@ -491,69 +490,69 @@ OverviewColorCostRarity
 
 
 4
-[Condemn](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCondemn%5D)
+[Condemn](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCondemn%5D)
 
 
 3
-[Celestial Purge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCelestial%5D+%5BPurge%5D)
+[Celestial Purge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCelestial%5D+%5BPurge%5D)
 
 
 2
-[Flashfreeze](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlashfreeze%5D)
+[Flashfreeze](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlashfreeze%5D)
 
 
 
-##### Rare (7)
+##### Rare (16)
+
+
+
+4
+[Celestial Colonnade](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCelestial%5D+%5BColonnade%5D)
+
+
+4
+[Glacial Fortress](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlacial%5D+%5BFortress%5D)
+
+
+4
+[Seachrome Coast](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeachrome%5D+%5BCoast%5D)
+
+
+4
+[Day of Judgment](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDay%5D+%5Bof%5D+%5BJudgment%5D)
+
+
+
+##### Mythic (17)
 
 
 
 1
-[Arid Mesa](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArid%5D+%5BMesa%5D)
-
-
-4
-[Glacial Fortress](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlacial%5D+%5BFortress%5D)
+[Arid Mesa](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArid%5D+%5BMesa%5D)
 
 
 2
-[Scalding Tarn](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScalding%5D+%5BTarn%5D)
-
-
-
-##### Mythic (26)
-
+[Scalding Tarn](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScalding%5D+%5BTarn%5D)
 
 
 4
-[Celestial Colonnade](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCelestial%5D+%5BColonnade%5D)
-
-
-4
-[Seachrome Coast](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeachrome%5D+%5BCoast%5D)
-
-
-4
-[Tectonic Edge](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTectonic%5D+%5BEdge%5D)
-
-
-4
-[Day of Judgment](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDay%5D+%5Bof%5D+%5BJudgment%5D)
+[Tectonic Edge](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTectonic%5D+%5BEdge%5D)
 
 
 3
-[Gideon Jura](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGideon%5D+%5BJura%5D)
+[Gideon Jura](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGideon%5D+%5BJura%5D)
 
 
 2
-[Jace Beleren](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace%5D+%5BBeleren%5D)
+[Jace Beleren](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace%5D+%5BBeleren%5D)
 
 
 4
-[Jace, the Mind Sculptor](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5Bthe%5D+%5BMind%5D+%5BSculptor%5D)
+[Jace, the Mind Sculptor](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5Bthe%5D+%5BMind%5D+%5BSculptor%5D)
 
 
 1
-[Elspeth Tirel](https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth%5D+%5BTirel%5D)
+[Elspeth Tirel](http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth%5D+%5BTirel%5D)
 
 
 75 Cards 
@@ -561,7 +560,7 @@ OverviewColorCostRarity
 
 
 
-![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Arid+Mesa)
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Arid+Mesa)
 
 
 
@@ -581,7 +580,7 @@ OverviewColorCostRarity
 
 
   
-Worlds 2010 in Chiba, Japan started off very well for Brian Kibler. He was one of three players inducted into the Pro Tour Hall of Fame, and he started 9-0 on the weekend. The Standard deck that allowed him to ace the first day of competition was what he called "Caw-Go," a white-blue control deck that prominently features [Squadron Hawk](https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Squadron+Hawk) as a means of providing card advantage and stalling the ground. In a pinch, the 1/1 is even a win condition! Read full coverage of the World Championships in the [here](/en/events/coverage/theres-no-jace-guillaume). 
+Worlds 2010 in Chiba, Japan started off very well for Brian Kibler. He was one of three players inducted into the Pro Tour Hall of Fame, and he started 9-0 on the weekend. The Standard deck that allowed him to ace the first day of competition was what he called "Caw-Go," a white-blue control deck that prominently features [Squadron Hawk](http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Squadron+Hawk) as a means of providing card advantage and stalling the ground. In a pinch, the 1/1 is even a win condition! Read full coverage of the World Championships in the [here](/en/events/coverage/theres-no-jace-guillaume). 
 
 
 ![](https://web.archive.org/web/20220216050541im_/https://magic.wizards.com/sites/all/themes/wiz_mtg/img/interface/video-place-holder.png)#### 

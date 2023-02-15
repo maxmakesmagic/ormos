@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Announcement Date: December 1, 2005 Effective Date: December 20, 2005 Magic Online Effective Date: December 22, 2005 (after the regularly scheduled Thursday downtime)StandardNo changesRavnica Block ConstructedNo changesExtendedNo changesLegacyNo changesVintageNo changesTwo-Headed Giant ConstructedNo changesMagic Online Formats:ClassicNo changesOpenNo changesPrismatic Enduring"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "619516"
 [_metadata_:publish_date]:- "2005-12-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "December 2005 DCI Banned and Restricted List Announcement"
-[_metadata_:wayback_capture_timestamp]:- "2021-04-29 11:50:57+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-04-29 11:50:57"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210429115057id_/https://magic.wizards.com/en/articles/archive/feature/december-2005-dci-banned-and-restricted-list-announcement-2005-12-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/december-2005-dci-banned-and-restricted-list-announcement-2005-12-01"
 ---

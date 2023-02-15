@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Alex Shvartsman"
 [_metadata_:description]:- "The InvitationalThis is going to be a busy week, with Magic Invitational in progress and the Pro Tour starting tomorrow. Sixteen of the game's best or most prolific players gathered at the Electronic Entertainment Expo in Los Angeles, to compete in this year's Magic Invitational. This is a second year in a row that this event is taking place on Magic Online. Last year we got"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "614126"
 [_metadata_:publish_date]:- "2004-05-13"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Big Events in Southern California"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-21 16:42:13+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-21 16:42:13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220521164213id_/https://magic.wizards.com/en/articles/archive/feature/big-events-southern-california-2004-05-13"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/big-events-southern-california-2004-05-13"
 ---

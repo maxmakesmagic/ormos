@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "&#13; This week's desktop wallpaper is Cliff Nielsen's Urborg Panther from Mirage. Enjoy."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "606621"
 [_metadata_:publish_date]:- "2004-03-26"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Wallpaper of the Week: Urborg Panther"
-[_metadata_:wayback_capture_timestamp]:- "2017-03-18 18:23:03+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-03-18 18:23:03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170318182303id_/http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-urborg-panther-2004-03-26"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/wallpaper-week-urborg-panther-2004-03-26"
 ---

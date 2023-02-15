@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Sam Black"
 [_metadata_:description]:- "Two weeks ago, I wrote about a Dimir mill deck in Standard to use the new guild. It was just built to show off a new strategy, but after writing it, I became seriously curious about the deck's competitive potential. I physically put the deck together and tuned and updated it in early consideration for Pro Tour Gatecrash. After Brian Bruan-Duin's success with a graveyard-based"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "666131"
 [_metadata_:publish_date]:- "2013-02-14"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Dimir Redux"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-22 00:27:42+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-22 00:27:42"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220122002742id_/https://magic.wizards.com/en/articles/archive/feature/dimir-redux-2013-02-14"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/dimir-redux-2013-02-14"
 ---

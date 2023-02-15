@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Joe Lossett's Cephalid Breakfast Format: Legacy – StarCityGames.com Open in Los Angeles 2 Island 1 Plains 4 Flooded Strand 4 Misty Rainforest 2 Tropical Island 3 Tundra 2 Underground Sea 4 Nomads en-Kor 1 Shaman en-Kor 4 Cephalid Illusionist 1 Gilded Drake 1 Karmic Guide 3 Narcomoeba 1 Sky Hussar 1 Woodfall Primus 1 Kiki-Jiki, Mirror Breaker 3 Aether Vial 4 Brainstorm 3 Daze 4 Force of Will 4 Worldly Tutor"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "670861"
 [_metadata_:publish_date]:- "2011-03-30"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Cephalid Breakfast"
-[_metadata_:wayback_capture_timestamp]:- "2017-06-15 16:31:53+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-06-15 16:31:53"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170615163153id_/http://magic.wizards.com/en/articles/archive/feature/cephalid-breakfast-2011-03-30"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/cephalid-breakfast-2011-03-30"
 ---

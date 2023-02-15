@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Nate Price"
 [_metadata_:description]:- "We are providing an alternative engagement platform: CoverItLive."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "343556"
 [_metadata_:publish_date]:- "2015-02-04"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Twitch Chat and CoverItLive at Pro Tour Fate Reforged"
-[_metadata_:wayback_capture_timestamp]:- "2015-02-06 13:38:47+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2015-02-06 13:38:47"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20150206133847id_/http://magic.wizards.com/en/articles/archive/feature/twitch-chat-and-coveritlive-pro-tour-fate-reforged-2015-02-04"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/twitch-chat-and-coveritlive-pro-tour-fate-reforged-2015-02-04"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "&#13; Updated 2008-08-21"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "733006"
 [_metadata_:publish_date]:- "2007-03-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "2008 Great British National ChampionshipFormat and Schedule"
-[_metadata_:wayback_capture_timestamp]:- "2016-08-09 08:38:17+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-08-09 08:38:17"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160809083817id_/http://magic.wizards.com/en/articles/archive/feature/2008-great-british-national-championshipformat-and-schedule-2007-03-15"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/2008-great-british-national-championshipformat-and-schedule-2007-03-15"
 ---

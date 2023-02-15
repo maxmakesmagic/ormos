@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Matt Cavotta"
 [_metadata_:description]:- "Ah yes, the timeshifted cards. Old friends back in town. Well, as time passes we get to thinking about old pals and we come to realize that some of them were not as cool as we thought they were, and others turned out to be underappreciated back in the day. When I look over all the timeshifted cards, my feelings swing from awe to “eew.” I cannot help but see the art first. It"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "626821"
 [_metadata_:publish_date]:- "2006-10-05"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "They’re Back, and Bigger Than Ever"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-04 00:58:30+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-04 00:58:30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211204005830id_/https://magic.wizards.com/en/articles/archive/feature/they%E2%80%99re-back-and-bigger-ever-2006-10-05"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/they%E2%80%99re-back-and-bigger-ever-2006-10-05"
 ---

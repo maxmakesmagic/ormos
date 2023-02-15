@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Player Pts Table Opponent Pts Aden, Eli ( 66) 0 49 Mondragon, Daniel ( 35) 0 Aldrich, Steven ( 95) 0 3 Butz, Jeff ( 38) 0 Allen, Ross ( 31) 0 7 Morgan, John (132) 0 Anderson, Brett (122) 0 51 Quirk, Kevin ( 12) 0 Antene, J."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "949646"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "US Open 2 Round 2 Pairings"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-17 04:46:20+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-17 04:46:20"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220517044620id_/https://magic.wizards.com/en/articles/archive/feature/us-open-2-round-2-pairings-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/us-open-2-round-2-pairings-2000-01-01"
 ---

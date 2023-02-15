@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Information    Grand Prix Providence is brought to you by Professional Event Services."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "729371"
 [_metadata_:publish_date]:- "2013-04-08"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Providence Event Information"
-[_metadata_:wayback_capture_timestamp]:- "2016-08-09 13:03:47+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-08-09 13:03:47"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160809130347id_/http://magic.wizards.com/en/articles/archive/feature/grand-prix-providence-event-information-2013-04-08"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/grand-prix-providence-event-information-2013-04-08"
 ---

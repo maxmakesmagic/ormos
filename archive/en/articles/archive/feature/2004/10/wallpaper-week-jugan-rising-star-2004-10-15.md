@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This week's desktop wallpaper is Shishizaru's Jugan, the Rising Star from the Champions of Kamigawa set. Enjoy. 1280x960 pixels 1024x768 pixels 800x600 pixels See past Wallpapers of the Week"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "607631"
 [_metadata_:publish_date]:- "2004-10-15"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Wallpaper of the Week: Jugan, the Rising Star"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-18 20:25:03+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-18 20:25:03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211018202503id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-jugan-rising-star-2004-10-15"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-jugan-rising-star-2004-10-15"
 ---

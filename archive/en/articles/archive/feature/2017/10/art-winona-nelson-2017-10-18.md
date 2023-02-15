@@ -1,14 +1,16 @@
 
 ---
-[Link to Wayback Machine](https://web.archive.org/web/20190211140150/https://magic.wizards.com/en/articles/archive/feature/art-winona-nelson-2017-10-18)
+[Link to Wayback Machine](https://web.archive.org/web/20180105111659/https://magic.wizards.com/en/articles/archive/feature/art-winona-nelson-2017-10-18)
 
 [_metadata_:author]:- "Chris Gleeson"
 [_metadata_:description]:- "Go behind the scenes with the art descriptions that gave direction to a few of Winona Nelson's most memorable Magic pieces."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1224041"
 [_metadata_:publish_date]:- "2017-10-18"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Art of Winona Nelson"
-[_metadata_:wayback_capture_timestamp]:- "2019-02-11 14:01:50+00:00"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20190211140150id_/https://magic.wizards.com/en/articles/archive/feature/art-winona-nelson-2017-10-18"
+[_metadata_:wayback_capture_timestamp]:- "2018-01-05 11:16:59"
+[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20180105111659id_/https://magic.wizards.com/en/articles/archive/feature/art-winona-nelson-2017-10-18"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/art-winona-nelson-2017-10-18"
 ---
 

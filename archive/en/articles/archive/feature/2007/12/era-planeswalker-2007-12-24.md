@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Doug Beyer"
 [_metadata_:description]:- "As you may or may not be aware, every year magicthegathering.com features two Best Of Weeks showcasing what we feel are the best articles we ran all year. The weekly authors each pick what to run in their slots, but picking the feature articles—along with Ask Wizards, Card of the Day, and Arcana—falls to me."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "633911"
 [_metadata_:publish_date]:- "2007-12-24"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "The Era of the Planeswalker"
-[_metadata_:wayback_capture_timestamp]:- "2016-05-06 00:16:30+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-05-06 00:16:30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160506001630id_/http://magic.wizards.com/en/articles/archive/feature/era-planeswalker-2007-12-24"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/era-planeswalker-2007-12-24"
 ---

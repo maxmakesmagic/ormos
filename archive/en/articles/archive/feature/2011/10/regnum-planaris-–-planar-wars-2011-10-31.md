@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Gavin Duggan"
 [_metadata_:description]:- "Once home to the lords of a great civilization, the chamber was now filled with only echoes and gray stone. Like the plane outside, the building was bereft of significant mana sources, having long ago been stripped of all emotional and elemental resonance. Such barren worlds, scattered throughout the Multiverse, usually held no interest to Planeswalkers as they provided none"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "681136"
 [_metadata_:publish_date]:- "2011-10-31"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Regnum Planaris – The Planar Wars"
-[_metadata_:wayback_capture_timestamp]:- "2021-10-19 03:36:19+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-10-19 03:36:19"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211019033619id_/https://magic.wizards.com/en/articles/archive/feature/regnum-planaris-%E2%80%93-planar-wars-2011-10-31"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/regnum-planaris-%E2%80%93-planar-wars-2011-10-31"
 ---

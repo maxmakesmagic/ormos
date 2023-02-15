@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Calcano's Doran Rock Format: Extended, Magic Online PTQ 1 Forest 1 Godless Shrine 3 Marsh Flats 1 Murmuring Bosk 2 Overgrown Tomb 2 Plains 1 Swamp 1 Temple Garden 3 Treetop Village 4 Verdant Catacombs 1 Watery Grave 4 Dark Confidant 3 Doran, the Siege Tower 3 Kitchen Finks 4 Noble Hierarch 3 Qasali Pridemage 4 Tarmogoyf 2 Chrome Mox 2 Duress 3 Maelstrom Pulse"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "669206"
 [_metadata_:publish_date]:- "2010-01-14"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Doran Rock"
-[_metadata_:wayback_capture_timestamp]:- "2022-01-28 20:33:34+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-01-28 20:33:34"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220128203334id_/https://magic.wizards.com/en/articles/archive/feature/doran-rock-2010-01-14"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/doran-rock-2010-01-14"
 ---

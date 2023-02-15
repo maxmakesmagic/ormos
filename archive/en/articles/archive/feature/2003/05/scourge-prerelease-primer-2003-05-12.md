@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Brian David-Marshall"
 [_metadata_:description]:- "Earlier in the year, I wrote an article extolling the virtues of playing in the Legions Prerelease—not dissimilar from the one that appeared a few weeks back prior to North American Regionals."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "630416"
 [_metadata_:publish_date]:- "2003-05-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Scourge Prerelease Primer"
-[_metadata_:wayback_capture_timestamp]:- "2016-09-08 19:10:57+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-09-08 19:10:57"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160908191057id_/http://magic.wizards.com/en/articles/archive/feature/scourge-prerelease-primer-2003-05-12"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/scourge-prerelease-primer-2003-05-12"
 ---

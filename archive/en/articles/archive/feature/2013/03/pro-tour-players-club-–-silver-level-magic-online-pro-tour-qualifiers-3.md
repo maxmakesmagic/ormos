@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Open only to Silver-level Pro Tour Players Club members. Eligible players can earn an invitation to Pro Tour Theros in Dublin and an invitation to compete in the Pro Tour Theros in Dublin Challenge. Pro Tour Theros takes place October 11-13, 2013."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "640151"
 [_metadata_:publish_date]:- "2013-03-27"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour Players Club – Silver Level Magic Online Pro Tour Qualifiers: Theros in Dublin"
-[_metadata_:wayback_capture_timestamp]:- "2016-07-04 00:19:46+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2016-07-04 00:19:46"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20160704001946id_/http://magic.wizards.com/en/articles/archive/feature/pro-tour-players-club-%E2%80%93-silver-level-magic-online-pro-tour-qualifiers-3"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/pro-tour-players-club-%E2%80%93-silver-level-magic-online-pro-tour-qualifiers-3"
 ---

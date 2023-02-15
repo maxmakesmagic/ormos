@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Newcomer Kessig Wolf Run helped push Brian Sondag's Red-Green Ramp deck over the top at this weekend's StarCityGames.com Standard Open."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "671616"
 [_metadata_:publish_date]:- "2011-10-11"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Wolf Run Ramp"
-[_metadata_:wayback_capture_timestamp]:- "2017-04-05 23:26:32+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-04-05 23:26:32"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20170405232632id_/http://magic.wizards.com/en/articles/archive/feature/wolf-run-ramp-2011-10-11"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/wolf-run-ramp-2011-10-11"
 ---

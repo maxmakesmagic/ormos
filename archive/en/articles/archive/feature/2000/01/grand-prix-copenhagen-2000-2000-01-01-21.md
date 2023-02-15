@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Round 4 Pairings per player Player 1 Points Table Player 2 Points Aasboe, Torgeir (373) 9 31 nguyen, quang-dong (192) 9 Alves, Carlos (374) 7 50 Christensen, Allan B."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "951806"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Copenhagen 2000"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-07 20:50:21+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-07 20:50:21"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211207205021id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-21"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-copenhagen-2000-2000-01-01-21"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Thanks to tournament organizer Glen Friedman for the decklists![decklist] Title: Peter Ingram Format: 1st Place - New York - New York - 12/13 5 Forest 4 Mountain 5 Plains 1 Jungle Shrine 1 Naya Panorama 1 Seaside Citadel 1 Woolly Thoctar 1 Knight of the Skyward Eye 1 Knight of the White Orchid 1 Rockcaster Platoon 1 Caldera Hellion 1 Scourge Devil 1 Thorn-Thrash Viashino 2"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "726901"
 [_metadata_:publish_date]:- "2009-01-07"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Pro Tour–Kyoto Qualifying Season: Top 8 Decklists"
-[_metadata_:wayback_capture_timestamp]:- "2022-05-20 23:36:03+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-05-20 23:36:03"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220520233603id_/https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93kyoto-qualifying-season-top-8-decklists-2009-01-07-3"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/pro-tour%E2%80%93kyoto-qualifying-season-top-8-decklists-2009-01-07-3"
 ---

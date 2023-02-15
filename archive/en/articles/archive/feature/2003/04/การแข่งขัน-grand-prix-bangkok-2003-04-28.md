@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "การแข่งขัน Magic: The Gathering® Grand Prix tournament เป็นการแข่งขันขนาดใหญ่ที่จัดขึ้นในประเทศต่างๆทั่วโลก โดยมีเงินรางวัลตอบแทน และ สิทธิรับเชิญเข้าแข่งขันรายการ Pro Tour™  รูปแบบการแข่งขัน การแข่งขัน Grand Prix-Bangkok จะจัดขึ้นในรูปแบบ DCI™ Constructed, โดยใช้กฎ Magic® Floor Rules, พร้อมกับประกาศต่างๆที่จะแจ้งให้ทราบต่อไป"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "734141"
 [_metadata_:publish_date]:- "2003-04-28"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "การแข่งขัน Grand Prix-Bangkok"
-[_metadata_:wayback_capture_timestamp]:- "2020-10-20 03:46:15+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2020-10-20 03:46:15"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20201020034615id_/https://magic.wizards.com/en/articles/archive/feature/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%82%E0%B9%88%E0%B8%87%E0%B8%82%E0%B8%B1%E0%B8%99-grand-prix-bangkok-2003-04-28"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%82%E0%B9%88%E0%B8%87%E0%B8%82%E0%B8%B1%E0%B8%99-grand-prix-bangkok-2003-04-28"
 ---

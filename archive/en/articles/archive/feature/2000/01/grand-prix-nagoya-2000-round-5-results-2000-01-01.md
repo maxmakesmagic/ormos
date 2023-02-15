@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Match Team Result Team 1 Team Fenrir 1-1 T.F.Z. 2 I''s 3-0 Masato Club 3 WACHI-DE? 3-0 Team Masato 4 Today 0-3 Godzilla 5 Top Runner 0-3 Team Imabiki 6 Team Iwamoto 3-0 Team Machinami 7 Arabica 0-3 Yanitetsu 8 Trickster 0-3 Poor Shark 9 Shikaku Maniacs SHARP 1-1 Executioners 10 BIN BI BIN 0-3 NEW WAVE 11 UNLUCKY'S 3-0 Mogiri Club 12 Astral Busters 3-0 830 Troopers 13 Lavatain"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "952361"
 [_metadata_:publish_date]:- "2000-01-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix-Nagoya 2000 Round 5 Results"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-04 20:51:39+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-12-04 20:51:39"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211204205139id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-round-5-results-2000-01-01"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-nagoya-2000-round-5-results-2000-01-01"
 ---

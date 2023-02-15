@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Byes are based on the following criteria:# of ByesMinimum RatingMinimum Pro Points(combined total) 2170060 1165020 Rating used: Team Limited, March 19, 2003 Pro Point Standings Used: 2003 ChicagoTo find the number of ratings byes your team has for Grand Prix-Pittsburgh, go to the appropriate list below (sorted by team name): A-O P-Z For questions about this page, please email"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "735836"
 [_metadata_:publish_date]:- "2003-04-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Pittsburgh Byes"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-10 09:24:13+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-10 09:24:13"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220810092413id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-pittsburgh-byes-2003-04-12"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-pittsburgh-byes-2003-04-12"
 ---

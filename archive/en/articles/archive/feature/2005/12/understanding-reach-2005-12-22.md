@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Mike Flores"
 [_metadata_:description]:- "I think the best Swimming With Sharks pieces I did in 2005 were all in the off-season. The column spends a good chunk of the year highlighting PTQ trends and talking about specific decks as they rise and fall over the course of a format. I think that the column does a great job of keeping the audience -- you guys -- abreast of what is going on... but the articles I liked"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "628291"
 [_metadata_:publish_date]:- "2005-12-22"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Understanding Reach"
-[_metadata_:wayback_capture_timestamp]:- "2021-05-01 04:56:30+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2021-05-01 04:56:30"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20210501045630id_/https://magic.wizards.com/en/articles/archive/feature/understanding-reach-2005-12-22"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/understanding-reach-2005-12-22"
 ---

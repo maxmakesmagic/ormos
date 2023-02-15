@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Blake Rasmussen"
 [_metadata_:description]:- "For dealers, trying to stock cards for a new, untested format can be a bit tricky."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "315361"
 [_metadata_:publish_date]:- "2011-09-01"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Feature: Dealer Talk – R U ready for some Modern?"
-[_metadata_:wayback_capture_timestamp]:- "2015-10-21 14:00:33+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2015-10-21 14:00:33"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20151021140033id_/http://magic.wizards.com/en/articles/archive/feature/feature-dealer-talk-%E2%80%93-r-u-ready-some-modern-2011-09-02"
 [_metadata_:wayback_url]:- "http://magic.wizards.com/en/articles/archive/feature/feature-dealer-talk-%E2%80%93-r-u-ready-some-modern-2011-09-02"
 ---

@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "[decklist] Title: Jake Van Lunen's Elves in Extended Format: Qualifier for Pro Tour–San Juan 4 Misty Rainforest 1 Pendelhaven 9 Snow-Covered Forest 1 Stomping Ground 4 Verdant Catacombs 4 Boreal Druid 2 Elves of Deep Shadow 4 Elvish Visionary 1 Essence Warden 2 Eternal Witness 4 Heritage Druid 4 Llanowar Elves 4 Nettle Sentinel 4 Cloudstone Curio 4 Glimpse of Nature 1"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "669246"
 [_metadata_:publish_date]:- "2010-01-25"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Elves in Extended"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-17 19:09:46+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-17 19:09:46"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220817190946id_/https://magic.wizards.com/en/articles/archive/feature/elves-extended-2010-01-25"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/elves-extended-2010-01-25"
 ---

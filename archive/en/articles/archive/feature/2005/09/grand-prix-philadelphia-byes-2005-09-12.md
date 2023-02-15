@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "Rating used: Constructed and Eternal (Higher) Rating, September 7th, 2005Pro Point Standings Used: Magic the Gathering Pro Players Club. These byes are not represented in the tables following, but are awarded as follows: Third-Round ByesPlayers with a Players Club level of 3 or higher DCI players with a Constructed or Eternal rating of 2025 or higher. Players receive the bye"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "735801"
 [_metadata_:publish_date]:- "2005-09-12"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Grand Prix Philadelphia Byes"
-[_metadata_:wayback_capture_timestamp]:- "2022-08-11 21:44:35+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-08-11 21:44:35"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220811214435id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-byes-2005-09-12"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-byes-2005-09-12"
 ---

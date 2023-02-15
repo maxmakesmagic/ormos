@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Wizards of the Coast"
 [_metadata_:description]:- "This week's desktop wallpaper is Pete Venters's Lake of the Dead from the Alliances set. Enjoy. 1280x960 pixels 1024x768 pixels 800x600 pixels"
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "607321"
 [_metadata_:publish_date]:- "2004-08-13"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Wallpaper of the Week: Lake of the Dead"
-[_metadata_:wayback_capture_timestamp]:- "2022-06-26 14:47:10+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2022-06-26 14:47:10"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20220626144710id_/https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-lake-dead-2004-08-13"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/wallpaper-week-lake-dead-2004-08-13"
 ---

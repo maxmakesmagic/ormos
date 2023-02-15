@@ -5,9 +5,11 @@
 [_metadata_:author]:- "Chas Andres"
 [_metadata_:description]:- "The Ixalan story holds a lot of mystery, so Chas sat down with the creative team to try and get some answers."
 [_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
+[_metadata_:node]:- "1225111"
 [_metadata_:publish_date]:- "2017-10-25"
+[_metadata_:source]:- "div-main-content"
 [_metadata_:title]:- "Ten Burning Questions from the Ixalan Story"
-[_metadata_:wayback_capture_timestamp]:- "2017-10-25 20:53:07+00:00"
+[_metadata_:wayback_capture_timestamp]:- "2017-10-25 20:53:07"
 [_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20171025205307id_/https://magic.wizards.com/en/articles/archive/feature/ten-burning-questions-ixalan-story-2017-10-25"
 [_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/feature/ten-burning-questions-ixalan-story-2017-10-25"
 ---
