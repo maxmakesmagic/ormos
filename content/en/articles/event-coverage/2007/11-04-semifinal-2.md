@@ -1,0 +1,111 @@
+---
+id: t4sn49xw
+kind: event
+lang: en
+path: /en/articles/event-coverage/2007/11-04-semifinal-2
+title: Semifinal
+published: '2007-11-04'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/semifinal-2007-11-04-0
+    lang_detected: en
+    capture_id: 582526
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/semifinal-2007-11-04-0
+    captured_at: '2022-07-05 16:29:28+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/semifinal-2007-11-04-0
+    lang_detected: en
+    capture_id: 582526
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/semifinal-2007-11-04-0
+    captured_at: '2022-07-05 16:29:28+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: t4sn49xw
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/semifinal-2007-11-04-0
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/semifinal-2007-11-04-0
+  lang: en
+  template: drupal
+  captured_at: '2022-07-05 16:29:28+00'
+  capture_id: 582526
+  wayback_url: https://web.archive.org/web/20220705162928id_/https://magic.wizards.com/en/articles/archive/event-coverage/semifinal-2007-11-04-0
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: t4sn49xw
+  capture_id: 582526
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/semifinal-2007-11-04-0
+  wayback_url: https://web.archive.org/web/20220705162928id_/https://magic.wizards.com/en/articles/archive/event-coverage/semifinal-2007-11-04-0
+  captured_at: '2022-07-05 16:29:28+00'
+  template: drupal
+  sha256: d4fb46187c53fbb70fe99e89e5cf1d9a877984f065701f310128b7ab4c3425bf
+render_recovery: []
+---
+## Paul Cheon vs Olivier Ruel
+
+Olivier is and will always be a jester. He takes life and Magic lightly, lightly enough to check on football results from the French league before he was ready to kick off the first semifinal with a mulligan. On the other hand, Olivier has been here plenty of times before, with this being his 20th GP Top 8 appearance. It was Paul Cheon's fourth.
+
+### Game 1
+
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpkra07/table_pic_sf2.jpg) Cheon opened with [Ancestral Vision](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ancestral+Vision)s. To mark the Suspend counters, he used the blue die that David Besso, his quarterfinal opponent, had given him "to use for your first-turn [Ancestral Vision](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ancestral+Vision)s." Olivier kept up via [Mulldrifter](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mulldrifter), and Manneqin on [Mulldrifter](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mulldrifter). Or at least he tried, since Cheon was disinclined to acquiesce that request and produced [Cryptic Command](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cryptic+Command), meaning "no".
+
+[Vesuvan Shapeshifter](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vesuvan+Shapeshifter) copied and bounced Olivier's [Riftwing Cloudskate](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Riftwing+Cloudskate), which returned the favor a turn later. And went to Olivier's hand again when Cheon had [Venser, Shaper Savant](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Venser%2C+Shaper+Savant). The very busy Cloudskate came back again, and this time, it decided to float Cheon's emtpy storage land.
+
+Venser came down, bounced Olivier's new [Epochrasite](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Epochrasite), traded with the old Cloudskate and watched from the grave how Olivier had a new Cloudskate and the old [Epochrasite](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Epochrasite). Rinse, and repeat, as Cheon returned the [Epochrasite](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Epochrasite) with his [Vesuvan Shapeshifter](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vesuvan+Shapeshifter) copying [Riftwing Cloudskate](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Riftwing+Cloudskate).
+
+Are you still with us? Good, because Olivier made real progress: He killed Cheon's Shapeshifter with [Mouth of Ronom](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mouth+of+Ronom), and attacked with Cloudskate and [Faerie Conclave](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Faerie+Conclave). Cheon down to 14. Oh wait, another Shapeshifter, bouncing a Cloudskate!
+
+Déjà vu.
+
+Cheon could not make a Shapeshifter stick, it seemed, as Olivier's [Damnation](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Damnation) hit it with full force. [Rune Snag](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rune+Snag) from Cheon gave yet another Cloudskate from Olivier no parley, but [Mulldrifter](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mulldrifter) drew its owner a couple of cards. The game had progressed much to the point where both players had nine lands in play, and Cheon started cranking out Assembly workers.
+
+Olivier used the namesake card of the deck – [Makeshift Mannequin](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Makeshift+Mannequin) – to return a [Riftwing Cloudskate](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Riftwing+Cloudskate) and bounce Cheon's storage land. Cheon had [Wrath of God](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wrath+of+God). The card-for-card exchange served only to buy each player turns, turns they neede to sculpt the perfect hand with enough back-up firepower to push it through.
+
+Two [Faerie Conclave](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Faerie+Conclave)s activated to take Cheon to 9. Olivier had Venser, Cheon had [Rune Snag](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rune+Snag). Olivier had [Mulldrifter](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mulldrifter), Cheon had Venser. Olivier had [Mulldrifter](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mulldrifter) again, Cheon had a Shapeshifter that copied the [Mulldrifter](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mulldrifter) a turn later.
+
+But nothing happened, really. Sure, Cheon added [Phyrexian Ironfoot](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Phyrexian+Ironfoot) to his side, but Olivier had [Damnation](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Damnation) and we were back to the start. The world turns in endless circles, and so did this feature match. Olivier gained inches by pushing through an [Epochrasite](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Epochrasite) and [Shadowmage Infiltrator](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shadowmage+Infiltrator). [Oblivion Ring](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Oblivion+Ring) caught the pulsating nuisance that was the other [Epochrasite](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Epochrasite).
+
+Olivier attacked with two Conclaves and the Infiltrator, and now he smelled a weakness. Cheon was finally out of answers, went to three and then shook his head, acknowledging defeat.
+
+Paul Cheon 0 – 1 Olivier Ruel
+
+Cheon took out 3 [Oblivion Ring](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Oblivion+Ring) and 3 [Wrath of God](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wrath+of+God), and put in 2 [Aeon Chronicler](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aeon+Chronicler), 1 [Teferi, Mage of Zhalfir](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Teferi%2C+Mage+of+Zhalfir), and 3 [Faerie Trickery](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Faerie+Trickery).
+
+Olivier took out 1 [Damnation](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Damnation), 1 [Grim Harvest](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grim+Harvest), 2 [Profane Command](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Profane+Command), 2 [Phyrexian Ironfoot](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Phyrexian+Ironfoot), and 3 [Epochrasite](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Epochrasite) to bring in 2 [Nameless Inversion](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nameless+Inversion), 3 [Pithing Needle](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pithing+Needle), and 4 [Thoughtseize](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Thoughtseize).
+
+### Game 2
+
+[Rune Snag](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rune+Snag), [Vesuvan Shapeshifter](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vesuvan+Shapeshifter), [Cryptic Command](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cryptic+Command), [Venser, Shaper Savant](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Venser%2C+Shaper+Savant), Ironfoot, [Nimbus Maze](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nimbus+Maze). You know what it means when a feature match starts with a list of cards, right? Yes, [Thoughtseize](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Thoughtseize). And after Oliver took [Rune Snag](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rune+Snag), the two players exploded into a lightning quick pace. While Cheon fired off Ironfoot, Shapeshifter, and Venser, Oliver replied with Cloudskate Riftwing, [Nameless Inversion](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nameless+Inversion), and double [Shriekmaw](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shriekmaw), and even Venser'd Cheon's Teferi.
+
+Cheon tried for a face-down [Brine Elemental](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Brine+Elemental), not to Olivier's liking. The Frenchman had Mannequin for [Shriekmaw](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shriekmaw) to destroy the morph. But Cheon played [Vesuvan Shapeshifter](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vesuvan+Shapeshifter), copying the [Shriekmaw](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shriekmaw). The comes-into-play effect destroyed Venser, and the original [Shriekmaw](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shriekmaw) left the game just like its fresh copy because of the Mannequin drawback.
+
+With most of the action done, [Phyrexian Ironfoot](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Phyrexian+Ironfoot) faced off against [Phyrexian Ironfoot](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Phyrexian+Ironfoot). But multiple attacks had already taken Olivier to 6 life. Cheon used [Cryptic Command](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cryptic+Command) to counter Olivier's second Ironfoot, and the Frenchman had just enough mana left to evoke [Mulldrifter](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mulldrifter). Cheon meant business, suspending [Aeon Chronicler](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aeon+Chronicler) with one counter.
+
+A turn later, he aimed the monster at Olivier's life total, and Olivier chose to bounce the two Ironfeet off each other. Chronicler took Oliver to one. Olivier tried [Makeshift Mannequin](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Makeshift+Mannequin), but that ran into [Cryptic Command](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cryptic+Command). Olivier's attempt at [Riftwing Cloudskate](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Riftwing+Cloudskate) ran smack-dab into [Rune Snag](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rune+Snag), and Olivier stopped resisting the inevitable.
+
+Paul Cheon 1 – 1 Olivier Ruel
+
+### Game 3
+
+"Oli, hurry up!" called Amiel Tenenbaum from the side. He had already won his semifinal and was looking forward to a French-on-French final. But first, Olivier Ruel had to overcome the considerable obstacle of Paul Cheon.
+
+Olivier began with his beloved [Riftwing Cloudskate](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Riftwing+Cloudskate), suspended. Cheon threw a [Rune Snag](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rune+Snag) at Olivier's [Phyrexian Ironfoot](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Phyrexian+Ironfoot), only to have his own and draw first blood with it. At least in the first four turns, Paul Cheon had the initiative, and Venser, to deal with Olivier's Cloudskate. However, Magic is a fickle thing, and Olivier put the Curse of the Black Wrath on Cheon's army.
+
+Cheon rebuilt with a Shapeshifter-morph. The bounce dance began anew, as Olivier's Cloudskate returned the morph to Olivier's hand. With [Mulldrifter](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mulldrifter), the Frenchman pulled ahead in cards and equaled out the score at 16 (Cheon) to 17 (Olivier).
+
+Amidst the wealth of blue cards, a black one found its way to the red zone. [Thoughtseize](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Thoughtseize) revealed and removed [Aeon Chronicler](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aeon+Chronicler) amongst [Brine Elemental](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Brine+Elemental), and [Vesuvan Shapeshifter](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vesuvan+Shapeshifter). "Interesting," Olivier murmured, and had [Shriekmaw](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shriekmaw) to kill Cheon's Teferi. The American used the mage's flash-giving one last time for [Vesuvan Shapeshifter](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vesuvan+Shapeshifter), copying [Shriekmaw](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shriekmaw) and destroying Olivier's [Riftwing Cloudskate](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Riftwing+Cloudskate). With [Faerie Trickery](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Faerie+Trickery), Cheon prevented another Cloudskate from disturbing his plans.
+
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpkra07/olivier_ruel_sf2.jpg) "This is a good game!" exclaimed Olivier Ruel, while both players stared at the board and played mental magic. In their minds, they probably held a duel with swords in slow motion and with really cool sound effects; in this reality, the two decks bore more resemblance to slow-moving tanks, circling each other and digging their chains deeper and deeper into the desert sand that would ultimately render them useless.
+
+Olivier tried to dig himself out a little, with [Makeshift Mannequin](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Makeshift+Mannequin) on [Riftwing Cloudskate](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Riftwing+Cloudskate), bouncing Cheon's three-countered storage land. Attack! And Cheon fell to nine life. Everybody knew he had [Brine Elemental](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Brine+Elemental) in his hand, but how, when and where he would use it remained unclear. It would have been a good followup to [Rune Snag](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rune+Snag), had Olivier not decided to simply let his [Phyrexian Ironfoot](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Phyrexian+Ironfoot) go to the graveyard.
+
+[Mouth of Ronom](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mouth+of+Ronom) killed Cheon's [Vesuvan Shapeshifter](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vesuvan+Shapeshifter), while [Phyrexian Ironfoot](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Phyrexian+Ironfoot) took Olivier to a puny 4 life. Cheon had just three more than that when Olivier passed his next turn. And even though players, spectators and the Magic gods became exhausted, the match was not over yet. Cheon wanted to seal it as soon as possible – the promise of a pre-final dinner was alluring – and played [Teferi, Mage of Zhalfir](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Teferi%2C+Mage+of+Zhalfir). With the current king of blue on the stack, Olivier turned [Mulldrifter](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mulldrifter) into a Mannequin, but could not stop the zhalfirinian Wizard.
+
+Cheon finally added [Brine Elemental](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Brine+Elemental) to his board. Olivier blocked and [Shriekmaw](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shriekmaw)'ed away the attackers until the life totals showed 1 on his side, and 7 for Cheon. Olivier attacked unhindered once, taking Cheon to 3. He had [Riftwing Cloudskate](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Riftwing+Cloudskate) and two [Faerie Conclave](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Faerie+Conclave) to kill Cheon next turn – unless the American found a secret exit.
+
+"I'm counting my outs," said Cheon: Shapeshifter, Venser... not very many. Cheon untapped, drew the top card of his library, pumped his fist and then hesitated. Was this what he needed? Yes! [Vesuvan Shapeshifter](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vesuvan+Shapeshifter) copied [Riftwing Cloudskate](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Riftwing+Cloudskate), bounced [Faerie Conclave](https://web.archive.org/web/20071104000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Faerie+Conclave) and gave Paul Cheon his ticket to the finals of GP Krakow.
+
+Paul Cheon 2 – 1 Olivier Ruel

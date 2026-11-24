@@ -1,0 +1,165 @@
+---
+id: ck4pcye2
+kind: event
+lang: en
+path: /en/events/2008/ptkl08/the-magic-is-back
+title: The Magic is Back!
+published: null
+column_slug: null
+column: null
+authors: []
+event_code: ptkl08
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/ptkl08/welcome
+    lang_detected: en
+    capture_id: 929872
+    url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/ptkl08/welcome&print=true
+    captured_at: '2013-07-01 17:47:23+00'
+    rule: aspx.article_heading
+  event_code:
+    page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/ptkl08/welcome
+    lang_detected: en
+    capture_id: 929872
+    url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/ptkl08/welcome&print=true
+    captured_at: '2013-07-01 17:47:23+00'
+    rule: url.event_code
+sources:
+- document_id: ck4pcye2
+  url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/ptkl08/welcome&print=true
+  page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/ptkl08/welcome
+  lang: en
+  template: aspx
+  captured_at: '2013-07-01 17:47:23+00'
+  capture_id: 929872
+  wayback_url: https://web.archive.org/web/20130701174723id_/https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/ptkl08/welcome&print=true
+- document_id: ck4pcye2
+  url: http://www.wizards.com/default.asp?x=mtgevent/ptkl08/welcome
+  page_key: wizards.com/default.asp?x=mtgevent/ptkl08/welcome
+  lang: en
+  template: classic_asp
+  captured_at: '2008-07-30 03:19:31+00'
+  capture_id: 2095937
+  wayback_url: https://web.archive.org/web/20080730031931id_/http://www.wizards.com/default.asp?x=mtgevent/ptkl08/welcome
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: ck4pcye2
+  capture_id: 929872
+  url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/ptkl08/welcome&print=true
+  wayback_url: https://web.archive.org/web/20130701174723id_/https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/ptkl08/welcome&print=true
+  captured_at: '2013-07-01 17:47:23+00'
+  template: aspx
+  sha256: 8ba6d45339c19d9f5fb1c53ea4c3f211f5f0e7be409f08397e8309673d13cfe4
+render_recovery:
+- code: unsupported_embedded_media
+  element: object
+  target: http://www.youtube.com/v/mgNgvyHLu3I
+  reason: The preview omitted this legacy embedded object.
+  occurrences: 1
+- code: unsupported_embedded_media
+  element: object
+  target: http://www.youtube.com/v/t0XPgxBdcK4
+  reason: The preview omitted this legacy embedded object.
+  occurrences: 1
+- code: unsupported_embedded_media
+  element: object
+  target: http://www.youtube.com/v/MEAHs0PZPbo
+  reason: The preview omitted this legacy embedded object.
+  occurrences: 1
+- code: unsupported_embedded_media
+  element: object
+  target: http://www.youtube.com/v/jXR08u_U7I8
+  reason: The preview omitted this legacy embedded object.
+  occurrences: 1
+- code: unsupported_embedded_media
+  element: object
+  target: http://www.youtube.com/v/IZNlnd7H7DE
+  reason: The preview omitted this legacy embedded object.
+  occurrences: 1
+- code: unsupported_embedded_media
+  element: object
+  target: http://www.youtube.com/v/aojNViI8bwg
+  reason: The preview omitted this legacy embedded object.
+  occurrences: 1
+- code: unsupported_embedded_media
+  element: object
+  target: http://www.youtube.com/v/ZPmRFlqF16U
+  reason: The preview omitted this legacy embedded object.
+  occurrences: 1
+- code: unsupported_embedded_media
+  element: object
+  target: http://www.youtube.com/v/QaZwMBTWENU
+  reason: The preview omitted this legacy embedded object.
+  occurrences: 1
+- code: unsupported_embedded_media
+  element: object
+  target: http://www.youtube.com/v/XhTsrXm7zV4
+  reason: The preview omitted this legacy embedded object.
+  occurrences: 1
+- code: unsupported_embedded_media
+  element: object
+  target: http://www.youtube.com/v/cwaOnCUANY0
+  reason: The preview omitted this legacy embedded object.
+  occurrences: 1
+- code: unsupported_embedded_media
+  element: object
+  target: http://www.youtube.com/v/azG9RevNW8U
+  reason: The preview omitted this legacy embedded object.
+  occurrences: 1
+- code: unsupported_embedded_media
+  element: object
+  target: http://www.youtube.com/v/TOe7sy3y-1A
+  reason: The preview omitted this legacy embedded object.
+  occurrences: 1
+- code: unsupported_embedded_media
+  element: object
+  target: http://www.youtube.com/v/BNDIiL4_zjk
+  reason: The preview omitted this legacy embedded object.
+  occurrences: 1
+- code: unsupported_embedded_media
+  element: object
+  target: http://www.youtube.com/v/O8Wo6cwydvM
+  reason: The preview omitted this legacy embedded object.
+  occurrences: 1
+- code: unsupported_embedded_media
+  element: object
+  target: http://www.youtube.com/v/vgRB1m4efGg
+  reason: The preview omitted this legacy embedded object.
+  occurrences: 1
+- code: unsupported_embedded_media
+  element: object
+  target: http://www.youtube.com/v/HXQeNoNUcf4
+  reason: The preview omitted this legacy embedded object.
+  occurrences: 1
+---
+![](https://i.ormos.uk/3b/67/3b677bd5b59a86556ffb2dddb27e2395c8153d59613c6759b0ac3ea922a01749.jpg)
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <div>&#10;        <b>VIDEO: TOURNAMENT CENTER</b>&#10;      </div>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <div>&#10;        &#10;      </div>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <div>&#10;        <b>Day Three Wrap</b>&#10;      </div> Bill and Rich recap the amazing ride that was Pro Tour-Kuala Lumpur.<br><li><a href="https://media.ormos.uk/2c/9d/2c9d6d69d6a4583177ebb8ddb1a80e0e83c9fdb4ddb44ecf7aa160ff77f62234.mp4">Finals</a> (133 MB zip)</li><li><a href="https://media.ormos.uk/b5/71/b571953df8c4b98ff38a5c507db8702a97b65cf4103874d9cc7f816d1d743962.mp4">Semifinals</a> (164 MB zip)</li><li><a href="https://media.ormos.uk/cb/4d/cb4d4465d6c711bcfe169a644ce08f9677c0d1e5030a4c3c29c4be21395b16e2.mp4">Quarterfinals</a> (254 MB zip)</li><li><a href="https://media.ormos.uk/92/69/92698be37f5b71bb78f2da9383942ac7854dd96cb61a87fb77159a5bc71264e2.mp4">Top 8 Draft</a> (60 MB zip)</li><br><li><a href="http://www.youtube.com/profile?user=wizardsmtg">Magic: The Gathering on YouTube</a></li></td>&#10;  </tr>&#10;</tbody></table>
+
+  
+  
+
+The whispers started early on Friday at Pro Tour–Kuala Lumpur…did you see who's 5-1? The rumblings continued through the middle three drafts…. he hasn't lost a match since round 3! The wave was at full force by the end of Saturday… he's in the Top 8! Finally on Sunday, the echoes woke up completely and Hall of Famer Jon Finkel reclaimed his rightful place atop the **Magic** world.
+
+Jonny Magic steamrolled the field with overall record of 16-1-1, powering through the Top 8 in typical Finkel fashion. One of the fastest minds in the history of the Pro Tour, Finkel matched that mental acuity with a blitzkrieg pace that overwhelmed his opponents. First fell Guillaume Wafo-Tapa in the quarters, then Marcio Carvalho in the semifinals, and finally Mario Pascoli in the finals en route to Finkel's third Pro Tour title (and record 12th Top 8 appearance).
+
+When the Top 8 was announced and it contained two Hall of Famers and two Pro Tour champions from 2007, everyone in Kuala Lumpur knew they were in for something special. But when Wafo-Tapa, Nicolai Herzog, and Mike Hron all fell in the quarterfinals, the script was looking to be flipped on the established powers. Ming Xu made a valiant run as the first mainland Chinese player to make a Top 8, but he fell to Pascoli in the semifinals. Carvalho came close to his breakout Pro Tour moment but couldn't withstand Finkel, who also ended Pascoli's hopes for becoming Italy's first Pro Tour champion. In the end the master was victorious again, with the win coming nine years and ten months after Finkel's first Pro Tour victory. It was also Finkel's first Top 8 since Pro Tour-Yokohama in May of 2003.
+
+Congratulations to Jon Finkel, your Pro Tour–Kuala Lumpur 2008 champion!
+
+*Note: Quarterfinal matchups are determined at random.* 
+
+  
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;    </td><td>Quarterfinals </td>&#10;    <td> </td>&#10;    <td>Semifinals </td>&#10;    <td> </td>&#10;    <td>Finals </td>&#10;    <td> </td>&#10;    <td>Champion </td>&#10;  </tr>&#10;  <tr>&#10;    <td>1</td>&#10;    <td>&#10;      Nicolai Herzog&#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Marcio Carvalho, 3-2&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3"> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>8</td>&#10;    <td>&#10;      Marcio Carvalho&#10;    </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3">&#10;      Jon Finkel, 3-1&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>4</td>&#10;    <td>&#10;      Jon Finkel &#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Jon Finkel, 3-0&#10;    </td>&#10;    <td rowspan="5"> </td>&#10;    <td rowspan="5">&#10;      Jon Finkel, 3-1&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>5</td>&#10;    <td>&#10;      Guilluame Wafo-Tapa&#10;    </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3"> </td>&#10;  </tr>&#10;  <tr>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>2</td>&#10;    <td>&#10;      Mario Pascoli&#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Mario Pascoli, 3-0&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>7</td>&#10;    <td>&#10;      Mike Hron &#10;    </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3">&#10;      Mario Pascoli, 3-2&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>3</td>&#10;    <td>&#10;      Ming Xu&#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Ming Xu, 3-1&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>6</td>&#10;    <td>&#10;      Joel Calafell&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;</tbody></table>
+
+  
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <b>Last Updated: Saturday, 9:24 p.m.</b>&#10;    </td>&#10;    <td>&#10;      <b>Last Updated: Saturday, 10:56 p.m.</b>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a href="/en/events/2008/ptkl08/pro-tourkuala-lumpur-blog-2">&#10;        <div>&#10;          <img src="https://i.ormos.uk/84/92/84921f268ba049f5284acfd717a9788b816e4dc766c57104655cb5604780208e.jpg">&#10;        </div>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130701160637/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/podcast/25">&#10;        <div>&#10;          <img src="https://i.ormos.uk/46/5f/465f5c053710ce709441bede5919fe5a33569c1fa7528d10d995ec085609068c.jpg">&#10;        </div>&#10;      </a>&#10;    </td>&#10;  </tr>&#10;</tbody></table>
+
+*Click on the image to navigate to the Kuala Lumpur Coverage Blog and Podcasts.* 
+
+  
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <b>EVENT COVERAGE</b>&#10;    </td>&#10;    <td>&#10;      <b>INFORMATION</b>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <ul>&#10;        <br>&#10;        <li>&#10;          <a href="/en/events/2008/ptkl08/finals-the-magic-is-back">Finals</a>: The Magic is Back! <div><i>Mario Pascoli vs. Jon Finkel</i></div><div><i>by Nate Price</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2008/ptkl08/semifinals-playing-champions-for-a-shot-at-the-championship">Semifinals</a>: Playing Champions for a shot at the Championship <div><i>Mario Pascoli vs. Ming Xu</i></div><div><i>by Nate Price</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2008/ptkl08/semifinals-the-best-limited-player-alive">Semifinals</a>: The Best Limited Player Alive <div><i>Marcio Carvalho vs. Jon Finkel</i></div><div><i>by Zac Hill</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2008/ptkl08/quarterfinals-the-battle-for-black-green">Quarterfinals</a>: The Battle for Black-Green <div><i>Marcio Carvalho vs. Nicolai Herzog</i></div><div><i>by Devin Low</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2008/ptkl08/quarterfinals-when-life-doesnt-matter">Quarterfinals</a>: When Life Doesn't Matter <div><i>Joel Calafell vs. Ming Xu</i></div><div><i>by Noel Neo</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2008/ptkl08/quarterfinals-thunder-and-fire">Quarterfinals</a>: Thunder and Fire <div><i>Mike Hron vs. Mario Pascoli</i></div><div><i>by Zac Hill</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2008/ptkl08/quarterfinals-beats-and-balloons">Quarterfinals</a>: Beats and Balloons <div><i>Guillaume Wafo-Tapa vs. Jon Finkel</i></div><div><i>by Nate Price</i></div></li>&#10;        <li>&#10;          <a href="https://web.archive.org/web/20130701174723/http://gatherer.wizards.com/magic/draftools/draftviewer.asp?draftid=2_17_2008_1">Draft Viewer:</a> Top 8 Draft <div><i>by Event Coverage Staff</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2008/ptkl08/top-8-decks">Feature:</a> Top 8 Decks <div><i>by Event Coverage Staff</i></div></li>&#10;        <li>&#10;          <a href="/nob/events/2008/ptkl08/top-8-draft-pack-list">Top 8 Draft</a>: Pack Lists <div><i>by Event Coverage Staff</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2008/ptkl08/top-8-profiles">Feature</a>: Top 8 Profiles <div><i>by Event Coverage Staff</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2008/ptkl08/news-players-q-a-with-wizards-policy-makers">News</a>: Players' Q&amp;A with Wizards Policy-Makers <div><i>by Bill Stark and Scott Johns</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2008/ptkl08/round-15-bubble-wrap-up">Round 15</a>: Bubble Wrap Up <div><i>by Nate Price</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2008/ptkl08/round-14-primal-plays">Round 14</a>: Primal Plays <div><i>Fabien Demazeau vs. Mike Hron</i></div><div><i>by Scott Johns</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2008/ptkl08/round-13-by-your-command">Round 13</a>: By Your Command <div><i>Nicolai Herzog vs. Martin Juza</i></div><div><i>by Chapman Sim</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2008/ptkl08/round-12-ash-whoopin">Round 12</a>: Ash Whoopin' <div><i>Rogier Maaten vs. Raphael Levy</i></div><div><i>by Nate Price</i></div></li>&#10;        <li>&#10;          <a href="https://web.archive.org/web/20130701174723/http://gatherer.wizards.com/magic/draftools/draftviewer.asp?draftid=2_16_2008_5">Draft Viewer</a>: Draft 5 <div><i>by Event Coverage Staff</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2008/ptkl08/round-11-champions-of-evasion">Round 11</a>: Champions of Evasion <div><i>Jon Finkel vs. Guilamme Wafo-Tapa</i></div><div><i>by Chapman Sim</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2008/ptkl08/round-10-down-to-the-wire">Round 10</a>: Down to the Wire <div><i>Jon Finkel vs. Paul Cheon</i></div><div><i>by Bill Stark</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2008/ptkl08/feature-draft-4-2">Feature</a>: Draft #4: Nicolai Herzog <div><i>by Chapman Sim</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2008/ptkl08/feature-draft-4">Feature</a>: Draft #4: Guillaume Wafo-Tapa <div><i>by Nate Price</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2008/ptkl08/photo-gallery">Photo Gallery</a>: Friday at the Pro Tour <div><i>by Craig Gibson and Kelly Digges</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2008/ptkl08/round-9-picture-perfect">Round 9</a>: Picture Perfect <div><i>Melissa DeTora vs. Gabriel Nassif</i></div><div><i>by Scott Johns</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2008/ptkl08/round-8-like-looking-in-a-mirror">Round 8</a>: Like Looking in a Mirror <div><i>Jon Finkel vs. Nicolai Herzog</i></div><div><i>by Nate Price</i></div></li>&#10;        <li>&#10;          <a href="/jav/events/2008/ptkl08/day-2-player-list">Info</a>: Day 2 Player List <div><i>by Event Coverage Staff</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2008/ptkl08/round-7-schools-in">Round 7</a>: School's In <div><i>Guillaume Wafo-Tapa vs. Shuu Komuro</i></div><div><i>by Nate Price</i></div></li>&#10;        <li>&#10;          <a href="https://web.archive.org/web/20130701174723/http://gatherer.wizards.com/magic/draftools/draftviewer.asp?draftid=2_15_2008_2">Draft Viewer</a>: Draft 3 <div><i>by Event Coverage Staff</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2008/ptkl08/round-6-when-playing-costs-a-card">Round 6</a>: When Playing Costs a Card <div><i>Shuu Komuro vs. Shuhei Nakamura</i></div><div><i>by Noel Neo</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2008/ptkl08/round-5-better-homes-and-gardens">Round 5</a>: Better Homes and Gardens <div><i>Paul Cheon vs. Chris Trembley</i></div><div><i>by Nate Price</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2008/ptkl08/round-4-true-giants-of-the-pro-tour">Round 4</a>: True Giants of the Pro Tour <div><i>Jon Finkel vs. Andre Mueller</i></div><div><i>by Scott Johns</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2008/ptkl08/round-3-better-lucky-than-good">Round 3</a>: Better Lucky than Good <div><i>Olivier Ruel vs. Andre Coimbra vs. Stuart Wright</i></div><div><i>by Noel Neo</i></div></li>&#10;        <li>&#10;          <a href="https://web.archive.org/web/20130701174723/http://gatherer.wizards.com/magic/draftools/draftviewer.asp?draftid=2_15_2008_1">Draft Viewer</a>: Draft 1 <div><i>by Event Coverage Staff</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2008/ptkl08/round-2-i-thought-you-said-your-deck-was-loose">Round 2</a>: &quot;I Thought You Said Your Deck Was Loose!&quot; <div><i>Paul Cheon vs. Chris Lachmann</i></div><div><i>by Bill Stark</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2008/ptkl08/round-1-when-trees-fattack">Round 1</a>: When Trees Fattack <div><i>Frank Karsten vs. Rogier Maaten</i></div><div><i>by Scott Johns</i></div></li>&#10;        <li>&#10;          <a href="/en/articles/theweekthatwas/2008/02-15-wish-i-was-there">Column</a>: Wish I Was There <div><i>by Brian David-Marshall</i></div></li>&#10;        <li>&#10;          <a href="/jav/events/2008/ptkl08/day-1-player-list">Info</a>: Day 1 Player List <div><i>by Event Coverage Staff</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2008/ptkl08/day-1-country-breakdown">Info</a>: Day 1 Country Breakdown <div><i>by Event Coverage Staff</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2007/kualalumpur08/pro-tourkuala-lumpur-2008">Info</a>: Fact Sheet <div><i>by Event Coverage Staff</i></div></li>&#10;      </ul>&#10;      <table>&#10;        <tbody><tr>&#10;          <td colspan="2">&#10;            <div>&#10;              <b>VIDEO: TOURNAMENT CENTER, DAY ONE</b>&#10;            </div>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            <div>&#10;              &#10;            </div>&#10;          </td>&#10;          <td>&#10;            <div>&#10;              &#10;            </div>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            <div>&#10;              <b>Preview</b>&#10;              <br>&#10;              <br>&#10;            </div>&#10;          </td>&#10;          <td>&#10;            <div>&#10;              <b>Early Casualties</b>&#10;              <br>&#10;              <br>&#10;            </div>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            <div>&#10;              &#10;            </div>&#10;          </td>&#10;          <td>&#10;            <div>&#10;              &#10;            </div>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            <div>&#10;              <b>Drafting Kithkin</b>&#10;              <br>&#10;              <br>&#10;            </div>&#10;          </td>&#10;          <td>&#10;            <div>&#10;              <b>Making the Cut</b>&#10;              <br>&#10;              <br>&#10;            </div>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td colspan="2">&#10;            <div>&#10;              &#10;            </div>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td colspan="2">&#10;            <div>&#10;              <b>Day One Wrap</b>&#10;              <br>&#10;              <br>&#10;            </div>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;    </td>&#10;    <td colspan="2">&#10;      <table>&#10;        <tbody><tr>&#10;          <td> 1.  <b>Jon Finkel</b></td>&#10;          <td>$40,000 </td>&#10;        </tr>&#10;        <tr>&#10;          <td> 2.  <b>Mario Pascoli</b></td>&#10;          <td>$20,000 </td>&#10;        </tr>&#10;        <tr>&#10;          <td> 3.  <b>Marcio Carvalho</b></td>&#10;          <td>$15,000 </td>&#10;        </tr>&#10;        <tr>&#10;          <td> 4.  <b>Ming Xu</b></td>&#10;          <td>$13,000 </td>&#10;        </tr>&#10;        <tr>&#10;          <td> 5.  <b>Guillaume Wafo-Tapa</b></td>&#10;          <td>$11,000</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 6.  <b>Mike Hron</b></td>&#10;          <td>$10,500</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 7.  <b>Joel Calafell</b></td>&#10;          <td>$10,000 </td>&#10;        </tr>&#10;        <tr>&#10;          <td> 8.  <b>Nicolai Herzog</b></td>&#10;          <td>$9,500 </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <b>Pairings</b>&#10;          </td>&#10;          <td>&#10;            <b>Results</b>&#10;          </td>&#10;          <td>&#10;            <b>Standings</b>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;          </td><td>&#10;          </td><td>&#10;            <a href="/jav/events/2008/ptkl08/final-standings">Final</a>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            &#10;            <a href="/jav/events/2008/ptkl08/round-15-pairings">15</a>&#10;            <br>&#10;            <a href="/jav/events/2008/ptkl08/round-14-pairings">14</a>&#10;            <br>&#10;            <a href="/jav/events/2008/ptkl08/round-13-pairings">13</a>&#10;            <br>&#10;            <a href="/jav/events/2008/ptkl08/round-12-pairings">12</a>&#10;            <br>&#10;            <a href="/jav/events/2008/ptkl08/round-11-pairings">11</a>&#10;            <br>&#10;            <a href="/jav/events/2008/ptkl08/round-10-pairings">10</a>&#10;            <br>&#10;            <a href="/jav/events/2008/ptkl08/round-9-pairings">9</a>&#10;            <br>&#10;            <a href="/jav/events/2008/ptkl08/round-8-pairings">8</a>&#10;            <br>&#10;          </td>&#10;          <td>&#10;            &#10;            <a href="/jav/events/2008/ptkl08/round-15-results">15</a>&#10;            <br>&#10;            <a href="/jav/events/2008/ptkl08/round-14-results">14</a>&#10;            <br>&#10;            <a href="/jav/events/2008/ptkl08/round-13-results">13</a>&#10;            <br>&#10;            <a href="/jav/events/2008/ptkl08/round-12-results">12</a>&#10;            <br>&#10;            <a href="/jav/events/2008/ptkl08/round-11-results">11</a>&#10;            <br>&#10;            <a href="/jav/events/2008/ptkl08/round-10-results">10</a>&#10;            <br>&#10;            <a href="/jav/events/2008/ptkl08/round-9-results">9</a>&#10;            <br>&#10;            <a href="/jav/events/2008/ptkl08/round-8-results">8</a>&#10;            <br>&#10;          </td>&#10;          <td>&#10;            &#10;            <a href="/jav/events/2008/ptkl08/round-15-standings">15</a>&#10;            <br>&#10;            <a href="/jav/events/2008/ptkl08/round-14-standings">14</a>&#10;            <br>&#10;            <a href="/jav/events/2008/ptkl08/round-13-standings">13</a>&#10;            <br>&#10;            <a href="/jav/events/2008/ptkl08/round-12-standings">12</a>&#10;            <br>&#10;            <a href="/jav/events/2008/ptkl08/round-11-standings">11</a>&#10;            <br>&#10;            <a href="/jav/events/2008/ptkl08/round-10-standings">10</a>&#10;            <br>&#10;            <a href="/jav/events/2008/ptkl08/round-8-standings">9</a>&#10;            <br>&#10;            <a href="/jav/events/2008/ptkl08/round-8-standings-2">8</a>&#10;            <br>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            &#10;            <a href="/jav/events/2008/ptkl08/round-7-pairings">7</a>&#10;            <br>&#10;            <a href="/jav/events/2008/ptkl08/round-6-pairings">6</a>&#10;            <br>&#10;            <a href="/it/events/2008/ptkl08/round-5-pairings">5</a>&#10;            <br> 4<br><a href="/jav/events/2008/ptkl08/round-3-pairings">3</a><br><a href="/jav/events/2008/ptkl08/round-2-pairings">2</a><br><a href="/jav/events/2008/ptkl08/round-1-pairings">1</a></td>&#10;          <td>&#10;            &#10;            <a href="/jav/events/2008/ptkl08/round-7-results">7</a>&#10;            <br>&#10;            <a href="/jav/events/2008/ptkl08/round-6-results">6</a>&#10;            <br>&#10;            <a href="/it/events/2008/ptkl08/round-5-results">5</a>&#10;            <br>&#10;            <a href="/jav/events/2008/ptkl08/round-4-results">4</a>&#10;            <br> 3<br><a href="/jav/events/2008/ptkl08/round-2-results">2</a><br><a href="/jav/events/2008/ptkl08/round-1-results">1</a></td>&#10;          <td>&#10;            &#10;            <a href="/jav/events/2008/ptkl08/round-7-standings">7</a>&#10;            <br>&#10;            <a href="/jav/events/2008/ptkl08/round-6-standings">6</a>&#10;            <br>&#10;            <a href="/jav/events/2008/ptkl08/round-5-standings">5</a>&#10;            <br>&#10;            <a href="/jav/events/2008/ptkl08/round-4-standings">4</a>&#10;            <br> 3<br><a href="/jav/events/2008/ptkl08/round-2-standings">2</a><br><a href="/jav/events/2008/ptkl08/round-1-standings">1</a></td>&#10;        </tr>&#10;      </tbody></table>&#10;      <br>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <div>&#10;              <b>FINALS HIGHLIGHTS</b>&#10;            </div>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            <div>&#10;              &#10;            </div>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            <div>&#10;              <b>Game 1</b>&#10;              <br>&#10;              <br>&#10;            </div>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            <div>&#10;              &#10;            </div>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            <div>&#10;              <b>Game 2</b>&#10;              <br>&#10;              <br>&#10;            </div>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            <div>&#10;              &#10;            </div>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            <div>&#10;              <b>Game 3</b>&#10;              <br>&#10;              <br>&#10;            </div>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            <div>&#10;              &#10;            </div>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            <div>&#10;              <b>Game 4</b>&#10;              <br>&#10;              <br>&#10;            </div>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            <hr>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            <div>&#10;              <b>TOURNAMENT CENTER: DAY TWO</b>&#10;            </div>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            <div>&#10;              &#10;            </div>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            <div>&#10;              <b>Pleased to Meet You</b>&#10;              <br>&#10;              <br>&#10;            </div>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            <div>&#10;              &#10;            </div>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            <div>&#10;              <b>Top of the Standings </b>&#10;              <br>&#10;              <br>&#10;            </div>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            <div>&#10;              &#10;            </div>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            <div>&#10;              <b>Drafting Excellence </b>&#10;              <br>&#10;              <br>&#10;            </div>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            <div>&#10;              &#10;            </div>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            <div>&#10;              <b>Play the Game, See the Monkeys </b>&#10;              <br>&#10;              <br>&#10;            </div>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            <div>&#10;              &#10;            </div>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            <div>&#10;              <b>Finkel's Finest? </b>&#10;              <br>&#10;              <br>&#10;            </div>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            <div>&#10;              &#10;            </div>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            <div>&#10;              <b>Day Two Wrap </b>&#10;              <br>&#10;              <br>&#10;            </div>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;    </td>&#10;  </tr>&#10;</tbody></table>

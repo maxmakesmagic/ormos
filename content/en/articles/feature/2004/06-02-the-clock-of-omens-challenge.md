@@ -1,0 +1,405 @@
+---
+id: 241yy1w6
+kind: article
+lang: en
+path: /en/articles/feature/2004/06-02-the-clock-of-omens-challenge
+title: The Clock of Omens Challenge
+published: '2004-06-02'
+column_slug: feature
+column: Feature
+authors:
+- slug: adriansullivan
+  name: Adrian Sullivan
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/feature/clock-omens-challenge-2004-06-02
+    lang_detected: en
+    capture_id: 614515
+    url: https://magic.wizards.com/en/articles/archive/feature/clock-omens-challenge-2004-06-02
+    captured_at: '2022-08-15 04:38:11+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/feature/clock-omens-challenge-2004-06-02
+    lang_detected: en
+    capture_id: 614515
+    url: https://magic.wizards.com/en/articles/archive/feature/clock-omens-challenge-2004-06-02
+    captured_at: '2022-08-15 04:38:11+00'
+    rule: drupal.posted_in_date
+  authors:
+    page_key: magic.wizards.com/en/articles/archive/feature/clock-omens-challenge-2004-06-02
+    lang_detected: en
+    capture_id: 614515
+    url: https://magic.wizards.com/en/articles/archive/feature/clock-omens-challenge-2004-06-02
+    captured_at: '2022-08-15 04:38:11+00'
+    rule: drupal.div_author
+  column:
+    page_key: magic.wizards.com/en/articles/archive/feature/clock-omens-challenge-2004-06-02
+    lang_detected: en
+    capture_id: 614515
+    url: https://magic.wizards.com/en/articles/archive/feature/clock-omens-challenge-2004-06-02
+    captured_at: '2022-08-15 04:38:11+00'
+    rule: url.article_section
+    registry_match: registry.explicit
+sources:
+- document_id: 241yy1w6
+  url: https://magic.wizards.com/en/articles/archive/feature/clock-omens-challenge-2004-06-02
+  page_key: magic.wizards.com/en/articles/archive/feature/clock-omens-challenge-2004-06-02
+  lang: en
+  template: drupal
+  captured_at: '2022-08-15 04:38:11+00'
+  capture_id: 614515
+  wayback_url: https://web.archive.org/web/20220815043811id_/https://magic.wizards.com/en/articles/archive/feature/clock-omens-challenge-2004-06-02
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 241yy1w6
+  capture_id: 614515
+  url: https://magic.wizards.com/en/articles/archive/feature/clock-omens-challenge-2004-06-02
+  wayback_url: https://web.archive.org/web/20220815043811id_/https://magic.wizards.com/en/articles/archive/feature/clock-omens-challenge-2004-06-02
+  captured_at: '2022-08-15 04:38:11+00'
+  template: drupal
+  sha256: 8e789b5177f776c02e7f56478740528df433da930134574c734338b1c87c01c1
+render_recovery:
+- code: deck_widget_requires_review
+  element: a
+  reason: The archived deck widget has no visible card rows. The source capture may
+    contain data to recover it.
+  labels:
+  - Decklist
+  occurrences: 3
+---
+Challenges are always interesting affairs. When it comes down to certain cards, there are really very narrow things that a card is capable of. For example, during [the Sundering Titan Challenge](https://web.archive.org/web/20040602000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/as5), one of the big limitations of the challenge was that the Titan itself is basically just a Big Guy that comes with a Cool Effect . The effect isn't something that will ever really change, and the big guy will basically always be big. In essence, most of the decks just tried to be good at getting the Titan to do what it does by getting it out quickly or abusing its effect again and again.
+
+The Clock of Omens challenge is different, because the effect of the card is far subtler. With the Clock, you can control which of your artifacts are tapped, and which are not. For an effect, it isn't that splashy but it has something that a lot of cards don't: potential for abuse.
+
+For the tournament **Magic** scene, deck builders look for cards to abuse or combinations of cards that help run a deck like a well-tuned machine. Deck builder Brian Kowal (whose [most recent high-profile deck](https://web.archive.org/web/20040602000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/gpdet03/t8decks) was piloted by Invitational Champion Bob Maher to a victory at Grand Prix Detroit) once told me that he always felt that Wizards of the Coast had not been cautious enough when they made cards that untapped other cards. [Time Spiral](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Time+Spiral) was clearly the most abusive of these cards, as was [Earthcraft](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Earthcraft). It didn't take long for his predictions on these cards to come true. They would be banned in Extended tournaments, and ever since, I've heeded his advice and paid particularly close attention to untap effects.
+
+As expected, there were a lot of good ideas that came in from everyone out there reading. The [Clock of Omens](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Clock+of+Omens) is a versatile card, and people had a lot of different ways to think about the card. As always, when many people wrote in with the same idea I sided with the deck that was most fleshed out as well as which was sent in earlier. Let's see what everyone had to say!
+
+### The MVP of the Challenge
+
+![Urza's Contact Lenses](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Urza%27s+Contact+Lenses)
+
+Possibly the most fantastic idea that was sent in to me was sent in by Ryan Fleischer. Ryan didn't send in a decklist, but he did send in what is likely the most fun submission of anyone, and with a vile Unglued card to boot! From his e-mail:
+
+> All I have to say is: [Urza's Contact Lenses](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Urza%27s+Contact+Lenses). WEEEE!
+
+With two [Urza's Contact Lenses](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Urza%27s+Contact+Lenses) out and a [Clock of Omens](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Clock+of+Omens), you can untap as many artifacts as you want, as long as you still have skin left on your hands! Granted, you won't be able to play this one in any tournament I've ever seen, but if your friends let you play with *Unglued*, it's a great combo. Just don't use this one in any place where a Clapper is present. 
+
+### The Silent Longbow of Omens
+
+Clint Weaver sent in this deck that he named, can you guess, The Silent Longbow of Omens. While not as overpowering as some of the other submissions, the creative approach definitely made it an easy choice for third place.
+
+#### The Silent Longbow of Omens
+
+##### 
+
+ ![Download Arena Decklist](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png) ![](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+[Decklist](#none) [Stats](#none) [Sample Hand](#none) 
+
+Sort by: 
+
+##### Creature (16)
+
+4 [Myr Retriever](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMyr%5D+%5BRetriever%5D) 4 [Silent Arbiter](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSilent%5D+%5BArbiter%5D) 4 [Steel Wall](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteel%5D+%5BWall%5D) 4 [Trinket Mage](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrinket%5D+%5BMage%5D) 
+
+##### Sorcery (9)
+
+3 [Night's Whisper](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNight%5D+%5BWhisper%5D) 2 [Steelshaper's Gift](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteelshaper%5D+%5BGift%5D) 4 [Thoughtcast](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtcast%5D) 
+
+##### Artifact (17)
+
+4 [Chromatic Sphere](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChromatic%5D+%5BSphere%5D) 4 [Clock of Omens](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BClock%5D+%5Bof%5D+%5BOmens%5D) 3 [Talisman of Dominance](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTalisman%5D+%5Bof%5D+%5BDominance%5D) 2 [Talisman of Unity](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTalisman%5D+%5Bof%5D+%5BUnity%5D) 4 [Viridian Longbow](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BViridian%5D+%5BLongbow%5D) 
+
+##### Land (18)
+
+4 [Ancient Den](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BDen%5D) 2 [Darksteel Citadel](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarksteel%5D+%5BCitadel%5D) 4 [Glimmervoid](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlimmervoid%5D) 4 [Seat of the Synod](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeat%5D+%5Bof%5D+%5Bthe%5D+%5BSynod%5D) 4 [Vault of Whispers](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVault%5D+%5Bof%5D+%5BWhispers%5D) 
+
+60 Cards 
+
+##### White (2)
+
+2 [Steelshaper's Gift](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteelshaper%5D+%5BGift%5D) 
+
+##### Blue (8)
+
+4 [Trinket Mage](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrinket%5D+%5BMage%5D) 4 [Thoughtcast](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtcast%5D) 
+
+##### Black (3)
+
+3 [Night's Whisper](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNight%5D+%5BWhisper%5D) 
+
+##### Colorless (47)
+
+4 [Ancient Den](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BDen%5D) 2 [Darksteel Citadel](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarksteel%5D+%5BCitadel%5D) 4 [Glimmervoid](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlimmervoid%5D) 4 [Seat of the Synod](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeat%5D+%5Bof%5D+%5Bthe%5D+%5BSynod%5D) 4 [Vault of Whispers](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVault%5D+%5Bof%5D+%5BWhispers%5D) 4 [Myr Retriever](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMyr%5D+%5BRetriever%5D) 4 [Silent Arbiter](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSilent%5D+%5BArbiter%5D) 4 [Steel Wall](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteel%5D+%5BWall%5D) 4 [Chromatic Sphere](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChromatic%5D+%5BSphere%5D) 4 [Clock of Omens](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BClock%5D+%5Bof%5D+%5BOmens%5D) 3 [Talisman of Dominance](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTalisman%5D+%5Bof%5D+%5BDominance%5D) 2 [Talisman of Unity](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTalisman%5D+%5Bof%5D+%5BUnity%5D) 4 [Viridian Longbow](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BViridian%5D+%5BLongbow%5D) 
+
+60 Cards 
+
+##### 1 (14)
+
+4 [Steel Wall](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteel%5D+%5BWall%5D) 4 [Chromatic Sphere](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChromatic%5D+%5BSphere%5D) 2 [Steelshaper's Gift](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteelshaper%5D+%5BGift%5D) 4 [Viridian Longbow](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BViridian%5D+%5BLongbow%5D) 
+
+##### 2 (12)
+
+4 [Myr Retriever](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMyr%5D+%5BRetriever%5D) 3 [Night's Whisper](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNight%5D+%5BWhisper%5D) 3 [Talisman of Dominance](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTalisman%5D+%5Bof%5D+%5BDominance%5D) 2 [Talisman of Unity](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTalisman%5D+%5Bof%5D+%5BUnity%5D) 
+
+##### 3 (4)
+
+4 [Trinket Mage](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrinket%5D+%5BMage%5D) 
+
+##### 4 (8)
+
+4 [Silent Arbiter](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSilent%5D+%5BArbiter%5D) 4 [Clock of Omens](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BClock%5D+%5Bof%5D+%5BOmens%5D) 
+
+##### 5 (4)
+
+4 [Thoughtcast](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtcast%5D) 
+
+42 Cards 
+
+##### Common (35)
+
+4 [Ancient Den](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BDen%5D) 4 [Seat of the Synod](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeat%5D+%5Bof%5D+%5Bthe%5D+%5BSynod%5D) 4 [Vault of Whispers](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVault%5D+%5Bof%5D+%5BWhispers%5D) 4 [Steel Wall](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteel%5D+%5BWall%5D) 4 [Trinket Mage](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrinket%5D+%5BMage%5D) 4 [Chromatic Sphere](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChromatic%5D+%5BSphere%5D) 3 [Night's Whisper](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNight%5D+%5BWhisper%5D) 4 [Thoughtcast](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtcast%5D) 4 [Viridian Longbow](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BViridian%5D+%5BLongbow%5D) 
+
+##### Uncommon (17)
+
+2 [Darksteel Citadel](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarksteel%5D+%5BCitadel%5D) 4 [Myr Retriever](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMyr%5D+%5BRetriever%5D) 4 [Clock of Omens](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BClock%5D+%5Bof%5D+%5BOmens%5D) 2 [Steelshaper's Gift](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteelshaper%5D+%5BGift%5D) 3 [Talisman of Dominance](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTalisman%5D+%5Bof%5D+%5BDominance%5D) 2 [Talisman of Unity](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTalisman%5D+%5Bof%5D+%5BUnity%5D) 
+
+##### Rare (8)
+
+4 [Glimmervoid](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlimmervoid%5D) 4 [Silent Arbiter](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSilent%5D+%5BArbiter%5D) 
+
+60 Cards 
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Ancient+Den)
+
+[Deal Another Hand](https://web.archive.org/web/20040602000000/https://magic.wizards.com/en)
+
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Night%27s+Whisper)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Trinket+Mage)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Trinket+Mage)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Talisman+of+Dominance)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Glimmervoid)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Seat+of+the+Synod)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Steelshaper%27s+Gift)
+
+a:17:{i:0;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Ancient Den";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:1;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Darksteel Citadel";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"2";}i:2;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Glimmervoid";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:3;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Seat of the Synod";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:4;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Vault of Whispers";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:5;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Myr Retriever";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:6;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Silent Arbiter";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:7;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:10:"Steel Wall";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:8;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Trinket Mage";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:9;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Chromatic Sphere";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";s:1:"4";}i:10;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Clock of Omens";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";s:1:"4";}i:11;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Night's Whisper";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"3";}i:12;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:18:"Steelshaper's Gift";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"2";}i:13;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:21:"Talisman of Dominance";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";s:1:"3";}i:14;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Talisman of Unity";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";s:1:"2";}i:15;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Thoughtcast";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"4";}i:16;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Viridian Longbow";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";s:1:"4";}} 
+
+Clint has this to say about the deck:
+
+> The basic idea is to use a [Viridian Longbow](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Viridian+Longbow) equipped artifact creature in conjunction with the [Clock of Omens](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Clock+of+Omens) to machine-gun down opposing creatures and players. Cheap and/or defensive creatures keep you alive, while drawing and tutoring spells accelerate you into the Clocks and Longbows. Once you have the board locked down with [Silent Arbiter](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Silent+Arbiter), [Viridian Longbow](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Viridian+Longbow), and [Clock of Omens](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Clock+of+Omens), victory becomes inevitable. Whichever creature attacks on your opponent's turn dies, and your opponent likely gets Tim-ed a little at the end of his turn. Eventually, the Silent Longbow of Omens empties the board and your opponent's life total. Oh, and it's Block Constructed legal!
+
+![Myr Servitor](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Myr+Servitor)
+
+This is a really clever approach to the card. Arbiter can do a lot to slow down any of the opposing attackers. The plan, after all, is to machine gun down the opponent. After a [Silent Arbiter](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Silent+Arbiter) is on the table, it can take a lot of work for an opponent to actually start being able to make an attacker accomplish much.
+
+This is where the deck could maybe grow a little. [Steelshaper's Gift](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Steelshaper%27s+Gift) and [Night's Whisper](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Night%27s+Whisper) are both great cards, but the deck already has plenty of ways to find the combo cards between [Trinket Mage](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Trinket+Mage) and [Thoughtcast](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Thoughtcast), and it is still possible for it to be overwhelmed by attackers. Taking out those 5 cards, you could easily fit in 4 [Myr Servitor](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Myr+Servitor). The [Myr Servitor](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Myr+Servitor) is especially good with the [Silent Arbiter](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Silent+Arbiter) and the [Clock of Omens](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Clock+of+Omens). When multiple Myr Servitors are unleashed, they not only have a use with the Clock for untapping both mana or a Machine-Gunner (anyone with a [Viridian Longbow](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Viridian+Longbow)), but they can also help hold the fort for quite a long time. A single Myr Retriever can bring back one Servitor and unleash a little army of Servitors to join in. It can be quite daunting trying to attack through all of that (or, at least, time consuming). Add in a single [Neurok Hoversail](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Neurok+Hoversail) for the [Trinket Mage](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Trinket+Mage) to find, and even fliers won't be able to get through. This deck doesn't explode into a combo, but it does show a fun approach to the card. Good work Clint!
+
+### Grinding Clock
+
+Denmark's Christian Moeller-Holst once again shows his ingenuity with his Grinding Clock deck. This marks his second time showing up as a Challenge finalist. Christian made use of one of the ideas that many different people mentioned in their e-mails: the automatic untapping of [Grinding Station](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grinding+Station) and [Battered Golem](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Battered+Golem) whenever an artifact comes into play. This engine helped fuel his Grinding Clock Machine . Here's the decklist:
+
+#### Grinding Clock
+
+##### 
+
+ ![Download Arena Decklist](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png) ![](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+[Decklist](#none) [Stats](#none) [Sample Hand](#none) 
+
+Sort by: 
+
+##### Creature (19)
+
+4 [Battered Golem](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBattered%5D+%5BGolem%5D) 4 [Vedalken Archmage](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVedalken%5D+%5BArchmage%5D) 3 [Synod Artificer](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSynod%5D+%5BArtificer%5D) 4 [Frogmite](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFrogmite%5D) 4 [Ornithopter](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrnithopter%5D) 
+
+##### Sorcery (4)
+
+4 [Fabricate](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFabricate%5D) 
+
+##### Instant (1)
+
+1 [Retract](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRetract%5D) 
+
+##### Artifact (16)
+
+4 [Grinding Station](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrinding%5D+%5BStation%5D) 2 [Genesis Chamber](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGenesis%5D+%5BChamber%5D) 3 [Urza's Blueprints](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BBlueprints%5D) 3 [Clock of Omens](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BClock%5D+%5Bof%5D+%5BOmens%5D) 4 [Paradise Mantle](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BParadise%5D+%5BMantle%5D) 
+
+##### Land (20)
+
+4 [Darksteel Citadel](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarksteel%5D+%5BCitadel%5D) 4 [Seat of the Synod](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeat%5D+%5Bof%5D+%5Bthe%5D+%5BSynod%5D) 12 [Island](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D) 
+
+60 Cards 
+
+##### Blue (12)
+
+4 [Vedalken Archmage](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVedalken%5D+%5BArchmage%5D) 3 [Synod Artificer](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSynod%5D+%5BArtificer%5D) 4 [Fabricate](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFabricate%5D) 1 [Retract](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRetract%5D) 
+
+##### Colorless (48)
+
+4 [Darksteel Citadel](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarksteel%5D+%5BCitadel%5D) 4 [Seat of the Synod](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeat%5D+%5Bof%5D+%5Bthe%5D+%5BSynod%5D) 12 [Island](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D) 4 [Battered Golem](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBattered%5D+%5BGolem%5D) 4 [Frogmite](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFrogmite%5D) 4 [Ornithopter](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrnithopter%5D) 4 [Grinding Station](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrinding%5D+%5BStation%5D) 2 [Genesis Chamber](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGenesis%5D+%5BChamber%5D) 3 [Urza's Blueprints](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BBlueprints%5D) 3 [Clock of Omens](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BClock%5D+%5Bof%5D+%5BOmens%5D) 4 [Paradise Mantle](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BParadise%5D+%5BMantle%5D) 
+
+60 Cards 
+
+##### 1 (1)
+
+1 [Retract](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRetract%5D) 
+
+##### 2 (6)
+
+4 [Grinding Station](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrinding%5D+%5BStation%5D) 2 [Genesis Chamber](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGenesis%5D+%5BChamber%5D) 
+
+##### 3 (11)
+
+4 [Battered Golem](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBattered%5D+%5BGolem%5D) 3 [Synod Artificer](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSynod%5D+%5BArtificer%5D) 4 [Fabricate](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFabricate%5D) 
+
+##### 4 (11)
+
+4 [Vedalken Archmage](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVedalken%5D+%5BArchmage%5D) 4 [Frogmite](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFrogmite%5D) 3 [Clock of Omens](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BClock%5D+%5Bof%5D+%5BOmens%5D) 
+
+##### 6 (3)
+
+3 [Urza's Blueprints](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BBlueprints%5D) 
+
+32 Cards 
+
+##### Common (24)
+
+4 [Seat of the Synod](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeat%5D+%5Bof%5D+%5Bthe%5D+%5BSynod%5D) 12 [Island](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D) 4 [Battered Golem](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBattered%5D+%5BGolem%5D) 4 [Frogmite](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFrogmite%5D) 
+
+##### Uncommon (25)
+
+4 [Darksteel Citadel](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarksteel%5D+%5BCitadel%5D) 4 [Ornithopter](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrnithopter%5D) 4 [Grinding Station](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrinding%5D+%5BStation%5D) 2 [Genesis Chamber](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGenesis%5D+%5BChamber%5D) 3 [Clock of Omens](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BClock%5D+%5Bof%5D+%5BOmens%5D) 4 [Fabricate](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFabricate%5D) 4 [Paradise Mantle](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BParadise%5D+%5BMantle%5D) 
+
+##### Rare (11)
+
+4 [Vedalken Archmage](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVedalken%5D+%5BArchmage%5D) 3 [Synod Artificer](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSynod%5D+%5BArtificer%5D) 3 [Urza's Blueprints](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BBlueprints%5D) 1 [Retract](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRetract%5D) 
+
+60 Cards 
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Darksteel+Citadel)
+
+[Deal Another Hand](https://web.archive.org/web/20040602000000/https://magic.wizards.com/en)
+
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Vedalken+Archmage)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Battered+Golem)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Grinding+Station)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Island)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Island)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Frogmite)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Ornithopter)
+
+a:15:{i:0;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Darksteel Citadel";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:1;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Seat of the Synod";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:2;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:6:"Island";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:2:"12";}i:3;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Battered Golem";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:4;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Vedalken Archmage";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:5;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Synod Artificer";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"3";}i:6;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:8:"Frogmite";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:7;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Ornithopter";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:8;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Grinding Station";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";s:1:"4";}i:9;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Genesis Chamber";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";s:1:"2";}i:10;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Urza's Blueprints";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";s:1:"3";}i:11;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Clock of Omens";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";s:1:"3";}i:12;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:9:"Fabricate";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"4";}i:13;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Paradise Mantle";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";s:1:"4";}i:14;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:7:"Retract";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"1";}} 
+
+Christian has a lot to say about his deck, but I'll just share with you some of his main comments.
+
+> This deck is one big machine. When playing your artifacts, you should draw cards with [Vedalken Archmage](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vedalken+Archmage), untap your [Grinding Station](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grinding+Station)s and your [Battered Golem](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Battered+Golem)s. This will let you draw even more cards because [Clock of Omens](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Clock+of+Omens) lets you use your [Grinding Station](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grinding+Station) to untap your [Urza's Blueprints](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Urza%27s+Blueprints) again. The romantic one-of, the [Retract](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Retract) is for when you want to kill somebody, pretty much return everything you've got - except for the blue creatures and the Islands - and just use your Islands to first play your [Grinding Station](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grinding+Station)s, then maybe one [Genesis Chamber](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Genesis+Chamber) and all of your free artifacts to untap your [Grinding Station](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grinding+Station)s again and again making your opponent run out of cards in his/her library.
+> 
+> Mostly you would want to [Fabricate](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fabricate) for an [Urza's Blueprints](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Urza%27s+Blueprints) or if you already have that, [Clock of Omens](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Clock+of+Omens) - You can draw plenty of cards even though you might not have the [Grinding Station](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grinding+Station), you will only need it to go near infinite. An [Urza's Blueprints](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Urza%27s+Blueprints) substitute from *Fifth Dawn* would let it then be Block Constructed Legal instead of extended.
+
+Christian had a lot of other useful things to say, but I think I give you the idea. One of the things I definitely like about the deck is the use of [Fabricate](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fabricate) to find the two most expensive cards, the [Urza's Blueprints](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Urza%27s+Blueprints) and the [Clock of Omens](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Clock+of+Omens). This makes running only 3 copies of both of those cards quite a bit better. I don't like Running 4 [Fabricate](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fabricate) without access to something like [Chrome Mox](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chrome+Mox), so if you do own some, you should feel free to consider including them in place of a few islands. Otherwise, dropping a single [Fabricate](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fabricate) isn't a bad idea. The other card I don't particularly like is the [Synod Artificer](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Synod+Artificer). I understand the idea of using it to untap a few of the artifacts, but it mostly seems incredibly inefficient. I would consider running 4 [Vedalken Engineer](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vedalken+Engineer) in their place, just to make the deck a little bit faster at getting going. Christian himself mentioned the Engineer in his e-mail, and I think it would be a great fit.
+
+Lastly, while there isn't a particularly great substitute for the [Urza's Blueprints](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Urza%27s+Blueprints), there are a couple of replacements to be made if you wanted to make this into a *Mirrodin* Block deck. One of the potential replacements is the [Staff of Domination](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Staff+of+Domination). The Staff is incredibly expensive to use as a card drawer, but it can be used to great effect as a combination card with [Clock of Omens](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Clock+of+Omens). The other option is to use [Serum Tank](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Serum+Tank). The Tank is a heck of a lot cheaper to use as a card drawer, but it isn't nearly as versatile. The [Urza's Blueprints](https://web.archive.org/web/20040602000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Urza%2527s%2BBlueprints) is just the most powerful card-drawing option in this slot, but it does make the deck Extended. Thanks for sending in another great deck, Christian!
+
+### Dom's Prison
+
+This week's winner comes from one of those quasi-famous **Magic** names, Dominic Riesland. Dom is a Level 2 Judge out of Milwaukee, most infamous for discovering the “[Waylay](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Waylay)” trick for [US Nationals back in 1999](https://web.archive.org/web/20040602000000/http://archive.wizards.com/sideboard/article.asp?x=USNAT99/welcome). The trick was simple, cast your [Waylay](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Waylay) *after* the “at end of turn” step on your opponent's turn is reached, and on your own turn you will have 3 2/2 creatures to attack with. Though people tried to keep the trick hush-hush for later rounds in the event, Mike Flores pulled the trick out against Tom Guevin during the draft portion, and *everyone* found out. Kyle Rose would make a last minute choice to run with Waylay White Weenie and win US Nationals that year. Here he is again, with a Prison deck to win the Clock of Omens Challenge:
+
+#### Dom's Prison
+
+##### 
+
+ ![Download Arena Decklist](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png) ![](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+[Decklist](#none) [Stats](#none) [Sample Hand](#none) 
+
+Sort by: 
+
+##### Creature (5)
+
+4 [Metalworker](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMetalworker%5D) 1 [Darksteel Colossus](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarksteel%5D+%5BColossus%5D) 
+
+##### Artifact (31)
+
+4 [Howling Mine](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHowling%5D+%5BMine%5D) 4 [Static Orb](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStatic%5D+%5BOrb%5D) 4 [Sun Droplet](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSun%5D+%5BDroplet%5D) 4 [Clock of Omens](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BClock%5D+%5Bof%5D+%5BOmens%5D) 4 [Icy Manipulator](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIcy%5D+%5BManipulator%5D) 4 [Pentad Prism](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPentad%5D+%5BPrism%5D) 4 [Staff of Domination](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStaff%5D+%5Bof%5D+%5BDomination%5D) 2 [Goblin Cannon](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BCannon%5D) 1 [Darksteel Forge](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarksteel%5D+%5BForge%5D) 
+
+##### Land (24)
+
+4 [Ancient Den](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BDen%5D) 4 [Seat of the Synod](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeat%5D+%5Bof%5D+%5Bthe%5D+%5BSynod%5D) 4 [Tree of Tales](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTree%5D+%5Bof%5D+%5BTales%5D) 4 [Great Furnace](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGreat%5D+%5BFurnace%5D) 4 [Vault of Whispers](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVault%5D+%5Bof%5D+%5BWhispers%5D) 4 [Darksteel Citadel](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarksteel%5D+%5BCitadel%5D) 
+
+60 Cards 
+
+##### Colorless (60)
+
+4 [Ancient Den](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BDen%5D) 4 [Seat of the Synod](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeat%5D+%5Bof%5D+%5Bthe%5D+%5BSynod%5D) 4 [Tree of Tales](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTree%5D+%5Bof%5D+%5BTales%5D) 4 [Great Furnace](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGreat%5D+%5BFurnace%5D) 4 [Vault of Whispers](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVault%5D+%5Bof%5D+%5BWhispers%5D) 4 [Darksteel Citadel](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarksteel%5D+%5BCitadel%5D) 4 [Metalworker](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMetalworker%5D) 1 [Darksteel Colossus](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarksteel%5D+%5BColossus%5D) 4 [Howling Mine](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHowling%5D+%5BMine%5D) 4 [Static Orb](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStatic%5D+%5BOrb%5D) 4 [Sun Droplet](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSun%5D+%5BDroplet%5D) 4 [Clock of Omens](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BClock%5D+%5Bof%5D+%5BOmens%5D) 4 [Icy Manipulator](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIcy%5D+%5BManipulator%5D) 4 [Pentad Prism](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPentad%5D+%5BPrism%5D) 4 [Staff of Domination](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStaff%5D+%5Bof%5D+%5BDomination%5D) 2 [Goblin Cannon](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BCannon%5D) 1 [Darksteel Forge](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarksteel%5D+%5BForge%5D) 
+
+60 Cards 
+
+##### 2 (12)
+
+4 [Howling Mine](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHowling%5D+%5BMine%5D) 4 [Sun Droplet](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSun%5D+%5BDroplet%5D) 4 [Pentad Prism](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPentad%5D+%5BPrism%5D) 
+
+##### 3 (12)
+
+4 [Metalworker](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMetalworker%5D) 4 [Static Orb](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStatic%5D+%5BOrb%5D) 4 [Staff of Domination](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStaff%5D+%5Bof%5D+%5BDomination%5D) 
+
+##### 4 (10)
+
+4 [Clock of Omens](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BClock%5D+%5Bof%5D+%5BOmens%5D) 4 [Icy Manipulator](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIcy%5D+%5BManipulator%5D) 2 [Goblin Cannon](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BCannon%5D) 
+
+##### 9 (1)
+
+1 [Darksteel Forge](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarksteel%5D+%5BForge%5D) 
+
+##### 11 (1)
+
+1 [Darksteel Colossus](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarksteel%5D+%5BColossus%5D) 
+
+36 Cards 
+
+##### Common (24)
+
+4 [Ancient Den](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BDen%5D) 4 [Seat of the Synod](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeat%5D+%5Bof%5D+%5Bthe%5D+%5BSynod%5D) 4 [Tree of Tales](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTree%5D+%5Bof%5D+%5BTales%5D) 4 [Great Furnace](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGreat%5D+%5BFurnace%5D) 4 [Vault of Whispers](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVault%5D+%5Bof%5D+%5BWhispers%5D) 4 [Pentad Prism](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPentad%5D+%5BPrism%5D) 
+
+##### Uncommon (18)
+
+4 [Darksteel Citadel](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarksteel%5D+%5BCitadel%5D) 4 [Sun Droplet](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSun%5D+%5BDroplet%5D) 4 [Clock of Omens](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BClock%5D+%5Bof%5D+%5BOmens%5D) 4 [Icy Manipulator](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIcy%5D+%5BManipulator%5D) 2 [Goblin Cannon](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BCannon%5D) 
+
+##### Rare (16)
+
+4 [Metalworker](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMetalworker%5D) 4 [Howling Mine](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHowling%5D+%5BMine%5D) 4 [Static Orb](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStatic%5D+%5BOrb%5D) 4 [Staff of Domination](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStaff%5D+%5Bof%5D+%5BDomination%5D) 
+
+##### Mythic (2)
+
+1 [Darksteel Colossus](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarksteel%5D+%5BColossus%5D) 1 [Darksteel Forge](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarksteel%5D+%5BForge%5D) 
+
+60 Cards 
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Ancient+Den)
+
+[Deal Another Hand](https://web.archive.org/web/20040602000000/https://magic.wizards.com/en)
+
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Goblin+Cannon)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Staff+of+Domination)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Seat+of+the+Synod)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Pentad+Prism)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Ancient+Den)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Howling+Mine)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Static+Orb)
+
+a:17:{i:0;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Ancient Den";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:1;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Seat of the Synod";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:2;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Tree of Tales";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:3;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Great Furnace";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:4;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Vault of Whispers";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:5;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Darksteel Citadel";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:6;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Metalworker";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:7;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:18:"Darksteel Colossus";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"1";}i:8;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Howling Mine";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";s:1:"4";}i:9;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:10:"Static Orb";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";s:1:"4";}i:10;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Sun Droplet";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";s:1:"4";}i:11;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Clock of Omens";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";s:1:"4";}i:12;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Icy Manipulator";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";s:1:"4";}i:13;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Pentad Prism";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";s:1:"4";}i:14;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:19:"Staff of Domination";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";s:1:"4";}i:15;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Goblin Cannon";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";s:1:"2";}i:16;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Darksteel Forge";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";s:1:"1";}} 
+
+Once again, here's the deck builder's own words:
+
+> I think the [Clock of Omens](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Clock+of+Omens) works best in a combo/prison variant. This carries most of your Prison deck forward, but with a few changes. First, [Pentad Prism](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pentad+Prism) is effective as a mana accelerator, giving +1 or +2 mana on turn 3 (or whenever you need it afterward) and providing a good "second artifact" for the Clock. Once you get a [Clock of Omens](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Clock+of+Omens) going, you don't need the Icy to tap your [Static Orb](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Static+Orb) or [Howling Mine](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Howling+Mine) anymore. If necessary, you can tap the Clock and either one to untap the Clock itself, or tap both of them to untap your never-tapped Clock. This saves your Icy for their stuff.
+> 
+> At this point, you can grind out the win the usual way, by drawing into your Colossus and smashing face, or you can get the combo of [Metalworker](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Metalworker) + 4 cards in hand, including [Staff of Domination](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Staff+of+Domination). This gets you limitless mana, which you then use to draw into a [Goblin Cannon](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Cannon) and use it.
+> 
+> (Note on the combo: In case people haven't figured it out, it goes like this: Tap your [Metalworker](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Metalworker), revealing your hand of 4+ cards. Since your entire deck is artifacts, this gives at least 8 mana. Assume only 8. Play [Staff of Domination](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Staff+of+Domination) for 3, then use its 3,T ability to untap the [Metalworker](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Metalworker) and another 1 to untap [Staff of Dominiation](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Staff+of+Dominiation). You still have 1 mana left. Tap the [Metalworker](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Metalworker) again. This time you get 2 less mana, as the Staff is no longer in your hand. But you don't have to play the Staff, so that saves you 3 mana, and you come out 2 mana ahead each cycle. Repeat until you have enough mana to start spending 6 to draw cards (5,T + 1 to untap Staff).
+
+In looking at this deck, about the only card that I found myself truly hating was the [Darksteel Forge](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Darksteel+Forge). It just seemed so expensive. It's quite possible that the card might simply be necessary, but I think that I'm looking for something to have a more intense effect on the game. I still really like [Sculpting Steel](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sculpting+Steel) for the deck, but I'm not exactly sure what I'd want to cut out to fit them in other than that Forge. Since the deck is Extended Legal, running a few [Mox Diamond](https://web.archive.org/web/20040602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mox+Diamond)s might also be an idea, but overall, this deck looks really great. With a bit of intense playtesting, I'm sure it could be improved, but I am still quite pleased to give Dom the top spot! Congratulations Dom!
+
+I hope that everyone enjoyed this week's Challenge carrying over from Machine Week last week. I haven't settled on a card yet for next week's column, so feel free to write me with your suggestions or post in the forums. Right now I'm leaning towards a *Fifth Dawn* card, but I'm open to something older. If you include a cool use for the card, I'll be sure to mention you and your idea.
+
+Have a great week!

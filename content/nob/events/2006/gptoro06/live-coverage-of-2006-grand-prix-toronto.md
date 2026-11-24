@@ -1,0 +1,48 @@
+---
+id: 4rjydpxx
+kind: event
+lang: nob
+path: /nob/events/2006/gptoro06/live-coverage-of-2006-grand-prix-toronto
+title: Live Coverage of 2006 Grand Prix-Toronto
+published: null
+column_slug: null
+column: null
+authors: []
+event_code: gptoro06
+detected_lang: nob
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/gptoro06/pod12
+    lang_detected: nob
+    capture_id: 1072233
+    url: http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gptoro06/pod12
+    captured_at: '2013-07-04 00:27:15+00'
+    rule: aspx.article_heading
+  event_code:
+    page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/gptoro06/pod12
+    lang_detected: nob
+    capture_id: 1072233
+    url: http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gptoro06/pod12
+    captured_at: '2013-07-04 00:27:15+00'
+    rule: url.event_code
+sources:
+- document_id: 4rjydpxx
+  url: http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gptoro06/pod12
+  page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/gptoro06/pod12
+  lang: nob
+  template: aspx
+  captured_at: '2013-07-04 00:27:15+00'
+  capture_id: 1072233
+  wayback_url: https://web.archive.org/web/20130704002715id_/http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gptoro06/pod12
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 4rjydpxx
+  capture_id: 1072233
+  url: http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gptoro06/pod12
+  wayback_url: https://web.archive.org/web/20130704002715id_/http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gptoro06/pod12
+  captured_at: '2013-07-04 00:27:15+00'
+  template: aspx
+  sha256: f734e8a30b7971ab0b695978da2b1ef3d9462e2ad7f61becb50f6347d09df405
+render_recovery: []
+---
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <a href="/nob/events/2006/gptoro06/live-coverage-of-2006-grand-prix-toronto">&#10;        <b>Pod</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/nob/events/2006/gptoro06/live-coverage-of-2006-grand-prix-toronto">&#10;        <b>Seat</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/nob/events/2006/gptoro06/live-coverage-of-2006-grand-prix-toronto">&#10;        <b>Player</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/nob/events/2006/gptoro06/live-coverage-of-2006-grand-prix-toronto">&#10;        <b>Points</b>&#10;      </a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>1</td>&#10;    <td>01</td>&#10;    <td>Davis, Robb W</td>&#10;    <td>28</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>02</td>&#10;    <td>De Rosa, Antonino</td>&#10;    <td>28</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>03</td>&#10;    <td>Jiang, Jay Z</td>&#10;    <td>28</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>04</td>&#10;    <td>Garnelis, Kyle M</td>&#10;    <td>28</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>05</td>&#10;    <td>Sonne, Jonathan E</td>&#10;    <td>28</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>06</td>&#10;    <td>Fiorillo, John</td>&#10;    <td>33</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>07</td>&#10;    <td>Lundquist, Benjamin R</td>&#10;    <td>27</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>08</td>&#10;    <td>Vizzacco, Mark J</td>&#10;    <td>28</td>&#10;  </tr>&#10;  <tr>&#10;    <td>2</td>&#10;    <td>01</td>&#10;    <td>Wiegersma, Jelger</td>&#10;    <td>27</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>02</td>&#10;    <td>taulbee, brad a</td>&#10;    <td>27</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>03</td>&#10;    <td>Moore, John E</td>&#10;    <td>27</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>04</td>&#10;    <td>Sadeghpour, Johan</td>&#10;    <td>27</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>05</td>&#10;    <td>Rood, David</td>&#10;    <td>25</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>06</td>&#10;    <td>Stokinger, Andrew T</td>&#10;    <td>27</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>07</td>&#10;    <td>Felske, David K</td>&#10;    <td>25</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>08</td>&#10;    <td>Fabiano, Gerard</td>&#10;    <td>25</td>&#10;  </tr>&#10;  <tr>&#10;    <td>3</td>&#10;    <td>01</td>&#10;    <td>Starling, Charles</td>&#10;    <td>25</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>02</td>&#10;    <td>Stoddard, Samuel P</td>&#10;    <td>25</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>03</td>&#10;    <td>Boehm, Greg</td>&#10;    <td>25</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>04</td>&#10;    <td>Jonsson, Anton</td>&#10;    <td>25</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>05</td>&#10;    <td>sanchez, kyle</td>&#10;    <td>25</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>06</td>&#10;    <td>Dettelis, Philip</td>&#10;    <td>25</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>07</td>&#10;    <td>Patterson, Jason E</td>&#10;    <td>25</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>08</td>&#10;    <td>Clack, Curtis</td>&#10;    <td>25</td>&#10;  </tr>&#10;  <tr>&#10;    <td>4</td>&#10;    <td>01</td>&#10;    <td>Putnam, Taylor E</td>&#10;    <td>24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>02</td>&#10;    <td>Nuijten, Julien P</td>&#10;    <td>24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>03</td>&#10;    <td>Breau, Josh A</td>&#10;    <td>24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>04</td>&#10;    <td>Chambers, Adam J</td>&#10;    <td>24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>05</td>&#10;    <td>Lovin, Mark C</td>&#10;    <td>25</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>06</td>&#10;    <td>Hansen, Matt P</td>&#10;    <td>24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>07</td>&#10;    <td>Maaten, Rogier</td>&#10;    <td>24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>08</td>&#10;    <td>Moreno, Billy</td>&#10;    <td>24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>5</td>&#10;    <td>01</td>&#10;    <td>Smith, Kyle T</td>&#10;    <td>24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>02</td>&#10;    <td>Mechler, Kyle D</td>&#10;    <td>24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>03</td>&#10;    <td>Anderson, Robert A</td>&#10;    <td>24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>04</td>&#10;    <td>Dunham, Donald E</td>&#10;    <td>24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>05</td>&#10;    <td>Karsten, Frank</td>&#10;    <td>22</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>06</td>&#10;    <td>Hui, Brian</td>&#10;    <td>24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>07</td>&#10;    <td>Ferneyhough, Michael F</td>&#10;    <td>24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>08</td>&#10;    <td>McGregor, Duncan</td>&#10;    <td>23</td>&#10;  </tr>&#10;  <tr>&#10;    <td>6</td>&#10;    <td>01</td>&#10;    <td>Head, Robert V</td>&#10;    <td>22</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>02</td>&#10;    <td>Kowal, Brian J</td>&#10;    <td>22</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>03</td>&#10;    <td>Phillips, Eric</td>&#10;    <td>22</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>04</td>&#10;    <td>Pham, Daniel H</td>&#10;    <td>22</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>05</td>&#10;    <td>Swaluk, Jeff M</td>&#10;    <td>22</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>06</td>&#10;    <td>Daoust, Guillaume</td>&#10;    <td>22</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>07</td>&#10;    <td>Scheel, Brandon M</td>&#10;    <td>22</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>08</td>&#10;    <td>Bradford, Chris S</td>&#10;    <td>22</td>&#10;  </tr>&#10;  <tr>&#10;    <td>7</td>&#10;    <td>01</td>&#10;    <td>Voyer-Perrault, Gaetan D</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>02</td>&#10;    <td>Tait, Geordie R</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>03</td>&#10;    <td>McCarthy, Stephen P</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>04</td>&#10;    <td>Ting-A-Kee, Andrew M</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>05</td>&#10;    <td>Krakower, Gary</td>&#10;    <td>22</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>06</td>&#10;    <td>Westfall, Matthew A</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>07</td>&#10;    <td>Nagy, Stephen J</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>08</td>&#10;    <td>Evans, Murray G</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>8</td>&#10;    <td>01</td>&#10;    <td>Kothari, Vipul H</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>02</td>&#10;    <td>Leon Valencia, Francisco</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>03</td>&#10;    <td>Cohen, Justin</td>&#10;    <td>20</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>04</td>&#10;    <td>Hoaen, Richard G</td>&#10;    <td>20</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>05</td>&#10;    <td>Goodman, Ben M</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>06</td>&#10;    <td>Denholm, Derek R</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>07</td>&#10;    <td>Hall, Zack C</td>&#10;    <td>21</td>&#10;  </tr>&#10;</tbody></table>

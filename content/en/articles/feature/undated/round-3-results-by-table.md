@@ -1,0 +1,64 @@
+---
+id: w6axm9t8
+kind: article
+lang: en
+path: /en/articles/feature/undated/round-3-results-by-table
+title: Round 3 Results (by Table)
+published: null
+column_slug: feature
+column: Feature
+authors:
+- slug: wizardsofthecoast
+  name: Wizards of the Coast
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/feature/round-3-results-table-2000-01-01-1
+    lang_detected: en
+    capture_id: 664816
+    url: https://magic.wizards.com/en/articles/archive/feature/round-3-results-table-2000-01-01-1
+    captured_at: '2022-07-02 14:49:36+00'
+    rule: meta.og_title
+  authors:
+    page_key: magic.wizards.com/en/articles/archive/feature/round-3-results-table-2000-01-01-1
+    lang_detected: en
+    capture_id: 664816
+    url: https://magic.wizards.com/en/articles/archive/feature/round-3-results-table-2000-01-01-1
+    captured_at: '2022-07-02 14:49:36+00'
+    rule: drupal.div_author
+  column:
+    page_key: magic.wizards.com/en/articles/archive/feature/round-3-results-table-2000-01-01-1
+    lang_detected: en
+    capture_id: 664816
+    url: https://magic.wizards.com/en/articles/archive/feature/round-3-results-table-2000-01-01-1
+    captured_at: '2022-07-02 14:49:36+00'
+    rule: url.article_section
+    registry_match: registry.explicit
+sources:
+- document_id: w6axm9t8
+  url: https://magic.wizards.com/en/articles/archive/feature/round-3-results-table-2000-01-01-1
+  page_key: magic.wizards.com/en/articles/archive/feature/round-3-results-table-2000-01-01-1
+  lang: en
+  template: drupal
+  captured_at: '2022-07-02 14:49:36+00'
+  capture_id: 664816
+  wayback_url: https://web.archive.org/web/20220702144936id_/https://magic.wizards.com/en/articles/archive/feature/round-3-results-table-2000-01-01-1
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: w6axm9t8
+  capture_id: 664816
+  url: https://magic.wizards.com/en/articles/archive/feature/round-3-results-table-2000-01-01-1
+  wayback_url: https://web.archive.org/web/20220702144936id_/https://magic.wizards.com/en/articles/archive/feature/round-3-results-table-2000-01-01-1
+  captured_at: '2022-07-02 14:49:36+00'
+  template: drupal
+  sha256: 68d6fade5041171b494ac96e9dae2a4dd5eb8bc101a862062ce16b78283252f7
+render_recovery:
+- code: unsupported_link
+  element: a
+  target: mailto:moto@ssk
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - moto@ssk
+  occurrences: 1
+---
+<table><tbody><tr><td><b>Team</b></td><td><b>Result</b></td><td><b> </b></td><td><b>Opponent</b></td></tr><tr><td>Benefactor</td><td>210</td><td>vs.</td><td>Lemegeton</td></tr><tr><td>DEFENCER Minor</td><td>300</td><td>vs.</td><td>Wis Type Ing</td></tr><tr><td>Magic Square</td><td>300</td><td>vs.</td><td>Ain't afraid to die</td></tr><tr><td>Team Rune Factory</td><td>120</td><td>vs.</td><td>Team Shinjo</td></tr><tr><td>NISIKI</td><td>210</td><td>vs.</td><td>Team Food Chain</td></tr><tr><td>Ancestral Memories</td><td>120</td><td>vs.</td><td>Inore</td></tr><tr><td>Iori</td><td>120</td><td>vs.</td><td>Go Renger</td></tr><tr><td>Team Emon Staff</td><td>111</td><td>vs.</td><td>Regneva</td></tr><tr><td>Chiban Dragon</td><td>120</td><td>vs.</td><td>Triple Mulligan</td></tr><tr><td>Sut</td><td>030</td><td>vs.</td><td>Tiimumei Mikettei</td></tr><tr><td>Fire Beat</td><td>210</td><td>vs.</td><td>Meruhen World</td></tr><tr><td>Reckless Triskelion</td><td>030</td><td>vs.</td><td>Team ToDo</td></tr><tr><td>ST</td><td>120</td><td>vs.</td><td>Team Thirties</td></tr><tr><td><a href="http://www.alphabetaunlimited.com/">www.alphabetaunlimited.com</a></td><td>210</td><td>vs.</td><td>Wizard's Brain</td></tr><tr><td>Team Gaijin</td><td>030</td><td>vs.</td><td>DERAPIN</td></tr><tr><td>Death Crimson</td><td>300</td><td>vs.</td><td>ZZZZZ</td></tr><tr><td>Team 25:17</td><td>102</td><td>vs.</td><td>Panzer Hunters JO</td></tr><tr><td>Excutioners</td><td>210</td><td>vs.</td><td>Loafing Giants</td></tr><tr><td>Siki (Kanagawa)</td><td>120</td><td>vs.</td><td>Susiyan</td></tr><tr><td>Akko ni Omakase</td><td>111</td><td>vs.</td><td>Asterisk</td></tr><tr><td>Love and Hope</td><td>120</td><td>vs.</td><td>OO Parts</td></tr><tr><td>Yokohama Kaidashikkiko</td><td>210</td><td>vs.</td><td>Souls of Rugerna</td></tr><tr><td>Togather Friends</td><td>111</td><td>vs.</td><td>Daisiszi</td></tr><tr><td>Circle Money Draft</td><td>120</td><td>vs.</td><td>Dekiru-Kana?</td></tr><tr><td>KOJIMA-S.S</td><td>120</td><td>vs.</td><td>Scrambled Steak</td></tr><tr><td>P-Kies</td><td>210</td><td>vs.</td><td>Unluckey's</td></tr><tr><td>God only knows</td><td>120</td><td>vs.</td><td>Objects</td></tr><tr><td>Fujieda Laboratory</td><td>120</td><td>vs.</td><td>Yanitetsu</td></tr><tr><td>Gloval Voice</td><td>111</td><td>vs.</td><td>SAWAYAKA</td></tr><tr><td>AAA</td><td>210</td><td>vs.</td><td>Chicago Miracle</td></tr><tr><td>Team PPB</td><td>210</td><td>vs.</td><td>Ddon Armage</td></tr><tr><td>Team Magicschool</td><td>210</td><td>vs.</td><td>Napan de Opei</td></tr><tr><td>W.Y.S</td><td>030</td><td>vs.</td><td>Tokyo Butties</td></tr><tr><td>Absolute</td><td>120</td><td>vs.</td><td>Potato Peach</td></tr><tr><td>Team Pillage</td><td>120</td><td>vs.</td><td>Team Yamashi</td></tr><tr><td>Mropaganda</td><td>111</td><td>vs.</td><td>ATOK</td></tr><tr><td>ABCC</td><td>030</td><td>vs.</td><td>Team Scarecrow</td></tr><tr><td>SK-2</td><td>120</td><td>vs.</td><td>Chack</td></tr><tr><td>Ayu</td><td>030</td><td>vs.</td><td>Crimson</td></tr><tr><td>Shikaku Maniacs Sharp</td><td>120</td><td>vs.</td><td>Team Apprentice</td></tr><tr><td>Army of Serra</td><td>120</td><td>vs.</td><td>Prince Hirotaka</td></tr><tr><td>Wakame Pack</td><td>210</td><td>vs.</td><td>Team Karasawa X</td></tr><tr><td>Team Imabiki</td><td>210</td><td>vs.</td><td>Team Sake</td></tr><tr><td>Team TS</td><td>111</td><td>vs.</td><td>Matano Beat The Bando</td></tr><tr><td>Crash</td><td>210</td><td>vs.</td><td>Team M.O.B</td></tr><tr><td>Team Nama Iccyo!</td><td>210</td><td>vs.</td><td>Kou II Ziko</td></tr><tr><td>L-Forest</td><td>210</td><td>vs.</td><td>Gunjack</td></tr><tr><td>Team Ensureing Bridge</td><td>120</td><td>vs.</td><td>Red Snake</td></tr><tr><td>Akebono Oyakatanhoiza</td><td>030</td><td>vs.</td><td>FB Shinjo Sendenbu</td></tr><tr><td>Ribbon Dragons</td><td>120</td><td>vs.</td><td>ZIO MATRIX</td></tr><tr><td>Gonzo the Core</td><td>210</td><td>vs.</td><td>Ponkotsu Hiyori</td></tr><tr><td>Poor Shark</td><td>210</td><td>vs.</td><td>Bon Voyage</td></tr><tr><td>Viva Magic</td><td>210</td><td>vs.</td><td>Team U.D.A</td></tr><tr><td>Team Bonkura</td><td>120</td><td>vs.</td><td>Sohtenju</td></tr><tr><td>Siki (Tochigi)</td><td>120</td><td>vs.</td><td>EMC</td></tr><tr><td>Team Sennyo Plus</td><td>111</td><td>vs.</td><td>Zebra</td></tr><tr><td>Hit and T3</td><td>030</td><td>vs.</td><td>Team Machinamix</td></tr><tr><td>Team Same</td><td>120</td><td>vs.</td><td>Rupan</td></tr><tr><td>Kashimo Eyes</td><td>120</td><td>vs.</td><td>Shinikake Captain</td></tr><tr><td>OGIRO</td><td>120</td><td>vs.</td><td>Durress Hymm Hippy</td></tr><tr><td>Ohwarai no Genki</td><td>210</td><td>vs.</td><td>LSC</td></tr><tr><td>Hahtle</td><td>030</td><td>vs.</td><td>Sukkiri Anichama</td></tr><tr><td>SWO</td><td>120</td><td>vs.</td><td>HQ</td></tr><tr><td>Machida Magic Club</td><td>030</td><td>vs.</td><td>Orewa Fukushima DA</td></tr><tr><td>YTT</td><td>210</td><td>vs.</td><td>Super Draw</td></tr><tr><td>Yumenomatayume</td><td>300</td><td>vs.</td><td>Blue Vice</td></tr><tr><td>FC Nasu</td><td>201</td><td>vs.</td><td>Ascalon Plus</td></tr><tr><td>Wiz type KOF</td><td>111</td><td>vs.</td><td>SORA</td></tr><tr><td>Morisawa Juku</td><td>030</td><td>vs.</td><td>Fruits Basket</td></tr><tr><td>ZZZ Sleepyhead</td><td>021</td><td>vs.</td><td>DENNY</td></tr><tr><td>Team Ignis</td><td>030</td><td>vs.</td><td>Rikarin</td></tr><tr><td>Hands of Glory</td><td>120</td><td>vs.</td><td>Team Marui</td></tr><tr><td>Not Treasure Hunter</td><td>120</td><td>vs.</td><td>Naibu Bunretsu</td></tr><tr><td>Harapeko Max</td><td>111</td><td>vs.</td><td>G-three</td></tr><tr><td>Stay Cool</td><td>210</td><td>vs.</td><td>Uemura</td></tr><tr><td>My Name is Sam</td><td>120</td><td>vs.</td><td>Odawara's</td></tr><tr><td>Marimo Maker</td><td>030</td><td>vs.</td><td>Troopers</td></tr><tr><td>Queen and Slaves</td><td>300</td><td>vs.</td><td>Mahamoti in Hi-Soft</td></tr><tr><td>Wih</td><td>120</td><td>vs.</td><td>Duel Revolution 21</td></tr><tr><td>Lion Heart</td><td>030</td><td>vs.</td><td>Yaburon</td></tr><tr><td>Misculuculation</td><td>210</td><td>vs.</td><td>MMR alpha</td></tr><tr><td>Piyokuri-Shovo</td><td>300</td><td>vs.</td><td>Kamiho Top Three</td></tr><tr><td>Dokudenpa</td><td>120</td><td>vs.</td><td>Team Shige</td></tr><tr><td>Team M.S.O</td><td>120</td><td>vs.</td><td>Tanshoku club with 25</td></tr><tr><td>Trickster</td><td>201</td><td>vs.</td><td>All time 6000yen</td></tr><tr><td>Cool Mints</td><td>120</td><td>vs.</td><td>Clash Cappuccino</td></tr><tr><td>Sankenbunritsu</td><td>210</td><td>vs.</td><td>Lucifer</td></tr><tr><td>Asian Papillon</td><td>210</td><td>vs.</td><td>Team Yushima</td></tr><tr><td>Sakura Gumi</td><td>120</td><td>vs.</td><td>Team XR with M</td></tr><tr><td>No Future</td><td>120</td><td>vs.</td><td>Megaron</td></tr><tr><td>Gagazuku</td><td>210</td><td>vs.</td><td>MORI-SAI</td></tr><tr><td>Team Heli 2U</td><td>030</td><td>vs.</td><td>Voice of Soul</td></tr><tr><td>HTD</td><td>120</td><td>vs.</td><td>Nagator's</td></tr><tr><td>Aibon</td><td>210</td><td>vs.</td><td>Yopparai-Tai</td></tr><tr><td>Team Work</td><td>030</td><td>vs.</td><td>nombe.nom</td></tr><tr><td>Air Orange</td><td>120</td><td>vs.</td><td>Nanten-Babaten</td></tr><tr><td>IMABIKI A</td><td>201</td><td>vs.</td><td>Usagisan Team</td></tr><tr><td>Ochi I</td><td>021</td><td>vs.</td><td>Suberikomi</td></tr><tr><td>Sorcerer Hunters</td><td>012</td><td>vs.</td><td>Kinshachi</td></tr><tr><td>Duel Machine</td><td>120</td><td>vs.</td><td>Snowslide</td></tr><tr><td>Out of Order</td><td>300</td><td>vs.</td><td>Team Geisya</td></tr><tr><td>Dai San Gen</td><td>300</td><td>vs.</td><td>Team Aladdin's Ring</td></tr><tr><td>Churuneko the Third</td><td>120</td><td>vs.</td><td>Team Geddon Beta</td></tr><tr><td>H.W.A</td><td>210</td><td>vs.</td><td>Flowers</td></tr><tr><td>Probe</td><td>120</td><td>vs.</td><td>Team MSSJ</td></tr><tr><td>Team Precis</td><td>030</td><td>vs.</td><td>IMABIKI B</td></tr><tr><td>Junk</td><td>120</td><td>vs.</td><td>Suicide</td></tr><tr><td>Ertai's Diciples</td><td>111</td><td>vs.</td><td>Zuruki</td></tr><tr><td>Team Shinadashi</td><td>120</td><td>vs.</td><td>Echigoya Inboudan</td></tr><tr><td>News Rimix 2001</td><td>300</td><td>vs.</td><td>Yomiuri Land Dog</td></tr><tr><td>Card Hasan</td><td>300</td><td>vs.</td><td>Setsugetsuka Osaka</td></tr><tr><td>Hige</td><td>300</td><td>vs.</td><td>Meidaimae</td></tr><tr><td>Team 830 Soshireibu</td><td>030</td><td>vs.</td><td>Rio!</td></tr><tr><td>Team <a>moto@ssk</a></td><td>210</td><td>vs.</td><td>BBA</td></tr><tr><td>Uni-Ikura</td><td>111</td><td>vs.</td><td>Choco Chip</td></tr><tr><td>Mana Charmer</td><td>300</td><td>vs.</td><td>Silhouette on Mirror</td></tr><tr><td>Orcish Spirit Guide</td><td>120</td><td>vs.</td><td>Empty Luck</td></tr><tr><td>Peta Peta</td><td>210</td><td>vs.</td><td>Team Karasawa Z</td></tr><tr><td>Poker Face</td><td>120</td><td>vs.</td><td>Team Karasawa Y</td></tr><tr><td>Goblin Digging Team</td><td>300</td><td>vs.</td><td>Hiruman</td></tr><tr><td>Manabard Keepers</td><td>300</td><td>vs.</td><td>Taro</td></tr><tr><td>Ta-I-Ya-Ki</td><td>210</td><td>vs.</td><td>Higedice</td></tr><tr><td>Gingare</td><td>210</td><td>vs.</td><td>Team ChoSoku Hayata</td></tr><tr><td>Team BIRO</td><td>111</td><td>vs.</td><td>Over Kill Engine</td></tr><tr><td>JAKURO</td><td>300</td><td>vs.</td><td>New Type</td></tr><tr><td>ES</td><td>111</td><td>vs.</td><td>GO</td></tr><tr><td>Team Green</td><td>030</td><td>vs.</td><td>Rakeru</td></tr><tr><td>Yasagure Brothers</td><td>210</td><td>vs.</td><td>Q.E.D.</td></tr><tr><td>MKG</td><td>300</td><td>vs.</td><td>Team Potato</td></tr><tr><td>Shinsei Curry Teikoku</td><td>030</td><td>vs.</td><td>Soul Edge</td></tr><tr><td>Ikeike Family Fighters</td><td>210</td><td>vs.</td><td>Initial T</td></tr><tr><td>Kavu the Planeswalker</td><td>120</td><td>vs.</td><td>Stampys</td></tr><tr><td>Shinsengumi Zero</td><td>210</td><td>vs.</td><td>Negi</td></tr><tr><td>Taifu Hokakunin</td><td>210</td><td>vs.</td><td>Team Ark</td></tr><tr><td>Makashita</td><td>120</td><td>vs.</td><td>A.S.K.</td></tr><tr><td>Ultraman</td><td>030</td><td>vs.</td><td>Samurai</td></tr><tr><td>Gochininarimasu</td><td>210</td><td>vs.</td><td>Hirarin Tokano</td></tr><tr><td>Saproling</td><td>030</td><td>vs.</td><td>MONX2</td></tr></tbody></table>

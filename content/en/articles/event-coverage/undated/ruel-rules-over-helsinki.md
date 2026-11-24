@@ -1,0 +1,1047 @@
+---
+id: zxyjsse7
+kind: event
+lang: en
+path: /en/articles/event-coverage/undated/ruel-rules-over-helsinki
+title: Ruel Rules over Helsinki
+published: null
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtgevent_gphels04_welcome
+    lang_detected: en
+    capture_id: 829322
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_gphels04_welcome
+    captured_at: '2009-06-04 04:36:37+00'
+    rule: aspx.article_heading
+sources:
+- document_id: zxyjsse7
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_gphels04_welcome
+  page_key: wizards.com/magic/magazine/article.aspx?x=mtgevent_gphels04_welcome
+  lang: en
+  template: aspx
+  captured_at: '2009-06-04 04:36:37+00'
+  capture_id: 829322
+  wayback_url: https://web.archive.org/web/20090604043637id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_gphels04_welcome
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: zxyjsse7
+  capture_id: 829322
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_gphels04_welcome
+  wayback_url: https://web.archive.org/web/20090604043637id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_gphels04_welcome
+  captured_at: '2009-06-04 04:36:37+00'
+  template: aspx
+  sha256: abfbae8cee7e0633cc2172ba5371e1475dfc1e8d975d323ad5ad1c033ae06184
+render_recovery:
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Humble_Budoka')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Humble Budoka
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kabuto_Moth')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kabuto Moth
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Nezumi_Ronin')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Nezumi Ronin
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Dance_of_Shadows')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Dance of Shadows
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kami_of_Ancient_Law')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kami of Ancient Law
+  occurrences: 9
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Thief_of_Hope')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Thief of Hope
+  occurrences: 9
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kami_of_the_Hunt')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kami of the Hunt
+  occurrences: 14
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Order_of_the_Sacred_Bell')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Order of the Sacred Bell
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kami_of_the_Waning_Moon')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kami of the Waning Moon
+  occurrences: 8
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mothrider_Samurai')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mothrider Samurai
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Cruel_Deceiver')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Cruel Deceiver
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Cage_of_Hands')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Cage of Hands
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Burr_Grafter')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Burr Grafter
+  occurrences: 8
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Orochi_Hatchery')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Orochi Hatchery
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Roar')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Roar
+  occurrences: 10
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Cursed_Ronin')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Cursed Ronin
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Moss_Kami')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Moss Kami
+  occurrences: 10
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Gibbering_Kami')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Gibbering Kami
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Pull_Under')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Pull Under
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Samurai_of_the_Pale_Curtain')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Samurai of the Pale Curtain
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Wicked_Akuba')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Wicked Akuba
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Innocence_Kami')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Innocence Kami
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Seizan,_Perverter_of_Truth')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Seizan, Perverter of Truth
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Indomitable_Will')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Indomitable Will
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Hana_Kami')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Hana Kami
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Rend_Spirit')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Rend Spirit
+  occurrences: 8
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kashi-Tribe_Reaver')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kashi-Tribe Reaver
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Commune_with_Nature')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Commune with Nature
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Feral_Deceiver')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Feral Deceiver
+  occurrences: 12
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Soratami_Rainshaper')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Soratami Rainshaper
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Floating-Dream_Zubera')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Floating-Dream Zubera
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kitsune_Diviner')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kitsune Diviner
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Frostwielder')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Frostwielder
+  occurrences: 8
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kitsune_Riftwalker')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kitsune Riftwalker
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Uyo,_Silent_Prophet')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Uyo, Silent Prophet
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Scuttling_Death')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Scuttling Death
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Callous_Deceiver')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Callous Deceiver
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Nagao,_Bound_by_Honor')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Nagao, Bound by Honor
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mystic_Restraints')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mystic Restraints
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Rend_Flesh')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Rend Flesh
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Godo,_Bandit_Warlord')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Godo, Bandit Warlord
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Hearth_Kami')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Hearth Kami
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Godo_Bandit_Warlord')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Glacial_Ray')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Glacial Ray
+  occurrences: 10
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Petals_of_Insight')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Petals of Insight
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Nezumi_Cutthroat')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Nezumi Cutthroat
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Yamabushi[s_Flame')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Yamabushi's Flame
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Befoul')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Befoul
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Hundred-Talon_Kami')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Hundred-Talon Kami
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Serpent_Skin')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Serpent Skin
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sire_of_the_Storm')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sire of the Storm
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Eye_of_Nowhere')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Eye of Nowhere
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kodama[s_Might')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kodama's Might
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Villainous_Ogre')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Villainous Ogre
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kitsune_Blademaster')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kitsune Blademaster
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('He_Who_Hungers')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - He Who Hungers
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Devouring_Greed')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Devouring Greed
+  occurrences: 10
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Teller_of_Tales')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Teller of Tales
+  occurrences: 8
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Soratami_Mirror-Mage')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Soratami Mirror-Mage
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Reach_Through_Mists')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Reach Through Mists
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('No-Dachi')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - No-Dachi
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Honden_of_Infinite_Rage')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Honden of Infinite Rage
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Brothers_Yamazaki')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Brothers Yamazaki
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Pain_Kami')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Pain Kami
+  occurrences: 10
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Swallowing_Plague')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Swallowing Plague
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Nezumi_Bone-Reader')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Nezumi Bone-Reader
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Ember-Fist_Zubera')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Ember-Fist Zubera
+  occurrences: 8
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kodama_of_the_North_Tree')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kodama of the North Tree
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Devouring_Rage')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Devouring Rage
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Matsu-Tribe_Decoy')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Matsu-Tribe Decoy
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Ryusei,_the_Falling_Star')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Ryusei, the Falling Star
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Ben-Ben,_Akki_Hermit')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Ben-Ben, Akki Hermit
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Iname,_Life_Aspect')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Iname, Life Aspect
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Time_of_Need')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Time of Need
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kami_of_Lunacy')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kami of Lunacy
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Uncontrollable_Anger')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Uncontrollable Anger
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Blind_with_Anger')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Blind with Anger
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Hanabi_Blast')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Hanabi Blast
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Hikari,_Twilight_Guardian')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Hikari, Twilight Guardian
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Hideous_Laughter')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Hideous Laughter
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Nezumi_Graverobber')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Nezumi Graverobber
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Call_to_Glory')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Call to Glory
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Ashen-Skin_Zubera')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Ashen-Skin Zubera
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Island')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Island
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Gutwrencher_Oni')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Gutwrencher Oni
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Yosei,_the_Morning_Star')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Yosei, the Morning Star
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Myojin_of_Cleansing_Fire')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Myojin of Cleansing Fire
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Strength_of_Cedars')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Strength of Cedars
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sakura-Tribe_Elder')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sakura-Tribe Elder
+  occurrences: 9
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Akki_Coalflinger')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Akki Coalflinger
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Ronin_Houndmaster')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Ronin Houndmaster
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Orochi_Ranger')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Orochi Ranger
+  occurrences: 8
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Waking_Nightmare')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Waking Nightmare
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Venerable_Kumo')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Venerable Kumo
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Lava_Spike')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Lava Spike
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Wandering_Ones')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Wandering Ones
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Consuming_Vortex')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Consuming Vortex
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Stone_Rain')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Stone Rain
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Eerie_Procession')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Eerie Procession
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Plains')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Plains
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Ghostly_Prison')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Ghostly Prison
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Earthshaker')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Earthshaker
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mountain')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mountain
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kami_of_the_Painted_Road')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kami of the Painted Road
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sideswipe')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sideswipe
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Soratami_Cloudskater')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Soratami Cloudskater
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Unearthly_Blizzard')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Unearthly Blizzard
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kodama_of_the_South_Tree')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kodama of the South Tree
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Jugan,_the_Rising_Star')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Jugan, the Rising Star
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Honden_of_Seeing_Winds')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Honden of Seeing Winds
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Blood_Rites')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Blood Rites
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Orochi_Leafcaller')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Orochi Leafcaller
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Dripping-Tongue_Zubera')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Dripping-Tongue Zubera
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Blood_Speaker')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Blood Speaker
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Thoughtbind')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Thoughtbind
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Soulless_Revival')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Soulless Revival
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Lantern_Kami')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Lantern Kami
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kodama[s_Reach')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kodama's Reach
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Orochi_Sustainer')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Orochi Sustainer
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Orochi_Eggwatcher')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Orochi Eggwatcher
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Soilshaper')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Soilshaper
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Forest')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Forest
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sosuke,_Son_of_Seshiro')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sosuke, Son of Seshiro
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Rootrunner')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Rootrunner
+  occurrences: 2
+---
+![](https://i.ormos.uk/95/bb/95bbb838180b1f8b331e833cff6e7b7163c68c976fc2dcc344e01386d667c17e.jpg)
+
+**Olivier Ruel is the 2004 Grand Prix Helsinki Champion!** 
+
+Ruel proved he was more than just a pretty face by overcoming great adversity to make the Top 8, then took everything with his monstrous color-splash draft deck by annihilating his way to the top.
+
+Ruel took home the big money, a shiny card mounted in plastic, and official bragging rights as the 2004 Grand Prix-Helsinki Champion, perhaps indicating that although he's known as something of a joker, when it comes to winning Olivier Ruel is all business.
+
+  
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;    </td><td>Quarterfinals </td>&#10;    <td> </td>&#10;    <td>Semifinals </td>&#10;    <td> </td>&#10;    <td>Finals </td>&#10;    <td> </td>&#10;    <td>Champion </td>&#10;  </tr>&#10;  <tr>&#10;    <td>1</td>&#10;    <td>&#10;      Olivier Ruel&#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Olivier Ruel, 2-0&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3"> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>8</td>&#10;    <td>&#10;      Wenzel Krautmann&#10;    </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3">&#10;      Olivier Ruel, 2-0&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>4</td>&#10;    <td>&#10;      Jean Charles Salvin&#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Jean Charles Salvin, 2-1&#10;    </td>&#10;    <td rowspan="5"> </td>&#10;    <td rowspan="5">&#10;      Olivier Ruel, 2-1&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>5</td>&#10;    <td>&#10;      Pavlos Akritas&#10;    </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3"> </td>&#10;  </tr>&#10;  <tr>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>2</td>&#10;    <td>&#10;      Mikko Leiviska&#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Mikko Leiviska, 2-1&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>7</td>&#10;    <td>&#10;      Anton Jonsson&#10;    </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3">&#10;      Mikko Leiviska, 2-0&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>3</td>&#10;    <td>&#10;      Erkki Siira&#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Ulrik Tarp, 2-0&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>6</td>&#10;    <td>&#10;      Ulrik Tarp&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;</tbody></table>
+
+  
+  
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <b>EVENT COVERAGE</b>&#10;    </td>&#10;    <td>&#10;      &#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <ul>&#10;        <br>&#10;        <li>&#10;          <a href="#26">Blog - 8:32 pm</a>: Finals: Olivier Ruel vs Mikko Leiviskä <div><i>by Craig Jones</i></div></li>&#10;        <li>&#10;          <a href="#25">Blog - 8:08 pm</a>: Quarterfinals: Mikko Leiviska vs. Anton Jonsson <div><i>by Oli Bird</i></div></li>&#10;        <li>&#10;          <a href="#24">Blog - 7:44 pm</a>: Semifinals: Jean Charles Salvin vs. Olivier Ruel <div><i>by Craig Jones</i></div></li>&#10;        <li>&#10;          <a href="#23">Blog - 7:16 pm</a>: Quarterfinals: Olivier Ruel vs. Wenzel Krautmann <div><i>by Craig Jones</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2004/gphels04/live-coverage-of-2004-grand-prix-helsinki-42">Decklists</a>: The Top 8 Decks <div><i>by Event Coverage Staff</i></div></li>&#10;        <li>&#10;          <a href="#22">Blog - 6:55 pm</a>: Draft Report - The Top 8 Draft <div><i>by Craig Jones</i></div></li>&#10;        <hr>&#10;        <li>&#10;          <a href="#21">Blog - 5:49 pm</a>: Feature Match Round 14 Erkki Siira vs. Thomas Gunderson <div><i>by Jörn Hajek</i></div></li>&#10;        <li>&#10;          <a href="#20">Blog - 5:23 pm</a>: JSS Results <div><i>by Craig Jones</i></div></li>&#10;        <li>&#10;          <a href="#19">Blog - 5:18 pm</a>: Last Round Crunch <div><i>by Craig Jones</i></div></li>&#10;        <li>&#10;          <a href="#18">Blog - 4:55 pm</a>: Feature Match Round 13 Anton Jonsson vs. Jean Charles Salvin <div><i>by Jörn Hajek</i></div></li>&#10;        <li>&#10;          <a href="#17">Blog - 4:31 pm</a>: Feature Match Round 12 Erkki Sisask vs. Bernardo Da Costa Cabral <div><i>by Jörn Hajek</i></div></li>&#10;        <li>&#10;          <a href="#16">Blog - 4:07 pm</a>: Draft Report - Draft Two, Table One <div><i>by Craig Jones</i></div></li>&#10;        <li>&#10;          <a href="#15">Blog - 3:48 pm</a>: Entering the Second Draft <div><i>by Craig Jones</i></div></li>&#10;        <li>&#10;          <a href="#14">Blog - 3:23 pm</a>: No Blue Cards <div><i>by Craig Jones</i></div></li>&#10;        <li>&#10;          <a href="/fin/events/2004/gphels04/live-coverage-of-2004-grand-prix-helsinki-24">Round 12</a>: Pods <div><i>by Event Coverage Staff</i></div></li>&#10;        <li>&#10;          <a href="#13">Blog - 2:55 pm</a>: Feature Match Round 11 Antoine Ruel vs. Olivier Ruel <div><i>by Jörn Hajek</i></div></li>&#10;        <li>&#10;          <a href="#12">Blog - 2:42 pm</a>: Feature Match Round 10 Olivier Ruel vs. Simon Carlsson <div><i>by Jörn Hajek</i></div></li>&#10;        <li>&#10;          <a href="#11">Blog - 1:17 pm</a>: Draft Report - Table 1 <div><i>by Craig Jones</i></div></li>&#10;        <li>&#10;          <a href="#10">Blog - 12:02 pm</a>: Feature Match Round 9 Anton Jonsson vs. Wenzel Krautmann <div><i>by Jörn Hajek</i></div></li>&#10;        <li>&#10;          <a href="#9">Blog - 11:41 am</a>: The Secret Cabal <div><i>by Craig Jones</i></div></li>&#10;        <li>&#10;          <a href="/fin/events/2004/gphels04/live-coverage-of-2004-grand-prix-helsinki-33">Round 9</a>: Pods <div><i>by Event Coverage Staff</i></div></li>&#10;        <hr>&#10;        <li>&#10;          <a href="/en/events/2004/gphels04/live-coverage-of-2004-grand-prix-helsinki-15">Decklists</a>: The 8-0 Decklists <div><i>by Event Coverage Staff</i></div></li>&#10;        <li>&#10;          <a href="#8">Blog - 6:21 pm</a>: Entering Today's Last Round <div><i>by Craig Jones</i></div></li>&#10;        <li>&#10;          <a href="#7">Blog - 4:44 pm</a>: Prize Draw <div><i>by Craig Jones</i></div></li>&#10;        <li>&#10;          <a href="#6">Blog - 4:07 pm</a>: Feature Match Round 7: Jelger Wiegersma vs. Antoine Ruel <div><i>by Craig Jones</i></div></li>&#10;        <li>&#10;          <a href="#5">Blog - 2:59 pm</a>: Feature Match Round 6: David Linder vs. Thomas Gundersen <div><i>by Craig Jones</i></div></li>&#10;        <li>&#10;          <a href="#4">Blog - 1:30 pm</a>: Feature Match Round 4: Mattias Jorstedt vs. Jussi Timonen <div><i>by Craig Jones</i></div></li>&#10;        <li>&#10;          <a href="#3">Blog - 12:41 pm</a>: Bye Bye Byes <div><i>by Craig Jones</i></div></li>&#10;        <li>&#10;          <a href="#2">Blog - 11:22 am</a>: Sealed Deck Breakdown <div><i>by Craig Jones</i></div></li>&#10;        <li>&#10;          <a href="#1">Blog - 10:44 am</a>: Names to Watch <div><i>by Craig Jones</i></div></li>&#10;        <li>&#10;          <a href="/fin/events/2004/gphels04/live-coverage-of-2004-grand-prix-helsinki-91">Info</a>: Day 1 Player List <div><i>by Event Coverage Staff</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2004/gphels04/live-coverage-of-2004-grand-prix-helsinki-49">Info</a>: Day 1 Country Breakdown <div><i>by Event Coverage Staff</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2004/helsinki04/grand-prix-helsinki">Info</a>: Fact Sheet <div><i>by Event Coverage Staff</i></div></li>&#10;      </ul>&#10;    </td>&#10;    <td colspan="2">&#10;      &#10;      <table>&#10;        <tbody><tr>&#10;          <td> 1.  <b>Olivier Ruel</b></td>&#10;          <td>$2,400</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 2.  <b>Mikko Leiviska</b></td>&#10;          <td>$1,700</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 3.  <b>Jean Charles Salvin</b></td>&#10;          <td>$1,200</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 4.  <b>Ulrik Tarp</b></td>&#10;          <td>$1,000</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 5.  <b>Anton Jonsson</b></td>&#10;          <td>$800</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 6.  <b>Wenzel Krautmann</b></td>&#10;          <td>$800</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 7.  <b>Pavlos Akritas</b></td>&#10;          <td>$800</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 8.  <b>Erkki Siira</b></td>&#10;          <td>$800</td>&#10;        </tr>&#10;      </tbody></table>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <b>Pairings</b>&#10;          </td>&#10;          <td>&#10;            <b>Results</b>&#10;          </td>&#10;          <td>&#10;            <b>Standings</b>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;          </td><td>&#10;          </td><td>&#10;            <a href="/fin/events/2004/gphels04/live-coverage-of-2004-grand-prix-helsinki-15">Final</a>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            <a href="/fin/events/2004/gphels04/live-coverage-of-2004-grand-prix-helsinki-49">14</a>&#10;            <br>&#10;            <a href="/fin/events/2004/gphels04/live-coverage-of-2004-grand-prix-helsinki-87">13</a>&#10;            <br>&#10;            <a href="/fin/events/2004/gphels04/live-coverage-of-2004-grand-prix-helsinki-30">12</a>&#10;            <br>&#10;            <a href="/fin/events/2004/gphels04/live-coverage-of-2004-grand-prix-helsinki-10">11</a>&#10;            <br>&#10;            <a href="/fin/events/2004/gphels04/live-coverage-of-2004-grand-prix-helsinki-80">10</a>&#10;            <br>&#10;            <a href="/fin/events/2004/gphels04/live-coverage-of-2004-grand-prix-helsinki-52">9</a>&#10;          </td>&#10;          <td>&#10;            <a href="/fin/events/2004/gphels04/live-coverage-of-2004-grand-prix-helsinki-57">14</a>&#10;            <br>&#10;            <a href="/fin/events/2004/gphels04/live-coverage-of-2004-grand-prix-helsinki-53">13</a>&#10;            <br>&#10;            <a href="/fin/events/2004/gphels04/live-coverage-of-2004-grand-prix-helsinki-25">12</a>&#10;            <br>&#10;            <a href="/fin/events/2004/gphels04/live-coverage-of-2004-grand-prix-helsinki-47">11</a>&#10;            <br>&#10;            <a href="/fin/events/2004/gphels04/live-coverage-of-2004-grand-prix-helsinki-96">10</a>&#10;            <br>&#10;            <a href="/fin/events/2004/gphels04/live-coverage-of-2004-grand-prix-helsinki-12">9</a>&#10;          </td>&#10;          <td>&#10;            <a href="/fin/events/2004/gphels04/live-coverage-of-2004-grand-prix-helsinki-93">14</a>&#10;            <br>&#10;            <a href="/fin/events/2004/gphels04/live-coverage-of-2004-grand-prix-helsinki-38">13</a>&#10;            <br>&#10;            <a href="/fin/events/2004/gphels04/live-coverage-of-2004-grand-prix-helsinki-66">12</a>&#10;            <br>&#10;            <a href="/fin/events/2004/gphels04/live-coverage-of-2004-grand-prix-helsinki-11">11</a>&#10;            <br>&#10;            <a href="/fin/events/2004/gphels04/live-coverage-of-2004-grand-prix-helsinki-45">10</a>&#10;            <br>&#10;            <a href="/fin/events/2004/gphels04/live-coverage-of-2004-grand-prix-helsinki-19">9</a>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            <a href="/fin/events/2004/gphels04/live-coverage-of-2004-grand-prix-helsinki-42">8</a>&#10;            <br>&#10;            <a href="/fin/events/2004/gphels04/live-coverage-of-2004-grand-prix-helsinki-65">7</a>&#10;            <br>&#10;            <a href="/fin/events/2004/gphels04/live-coverage-of-2004-grand-prix-helsinki-16">6</a>&#10;            <br>&#10;            <a href="/fin/events/2004/gphels04/live-coverage-of-2004-grand-prix-helsinki-61">5</a>&#10;            <br>&#10;            <a href="/fin/events/2004/gphels04/live-coverage-of-2004-grand-prix-helsinki-41">4</a>&#10;            <br>&#10;            <a href="/fin/events/2004/gphels04/live-coverage-of-2004-grand-prix-helsinki-28">3</a>&#10;            <br>&#10;            <a href="/fin/events/2004/gphels04/live-coverage-of-2004-grand-prix-helsinki-37">2</a>&#10;            <br>&#10;            <a href="/fin/events/2004/gphels04/live-coverage-of-2004-grand-prix-helsinki-62">1</a>&#10;          </td>&#10;          <td>&#10;            <a href="/fin/events/2004/gphels04/live-coverage-of-2004-grand-prix-helsinki-44">8</a>&#10;            <br>&#10;            <a href="/fin/events/2004/gphels04/live-coverage-of-2004-grand-prix-helsinki-69">7</a>&#10;            <br>&#10;            <a href="/fin/events/2004/gphels04/live-coverage-of-2004-grand-prix-helsinki-8">6</a>&#10;            <br>&#10;            <a href="/fin/events/2004/gphels04/live-coverage-of-2004-grand-prix-helsinki-72">5</a>&#10;            <br>&#10;            <a href="/fin/events/2004/gphels04/live-coverage-of-2004-grand-prix-helsinki-84">4</a>&#10;            <br>&#10;            <a href="/fin/events/2004/gphels04/live-coverage-of-2004-grand-prix-helsinki-89">3</a>&#10;            <br>&#10;            <a href="/fin/events/2004/gphels04/live-coverage-of-2004-grand-prix-helsinki-94">2</a>&#10;            <br>&#10;            <a href="/fin/events/2004/gphels04/live-coverage-of-2004-grand-prix-helsinki-29">1</a>&#10;          </td>&#10;          <td>&#10;            <a href="/fin/events/2004/gphels04/live-coverage-of-2004-grand-prix-helsinki">8</a>&#10;            <br>&#10;            <a href="/fin/events/2004/gphels04/live-coverage-of-2004-grand-prix-helsinki-92">7</a>&#10;            <br>&#10;            <a href="/fin/events/2004/gphels04/live-coverage-of-2004-grand-prix-helsinki-9">6</a>&#10;            <br>&#10;            <a href="/fin/events/2004/gphels04/live-coverage-of-2004-grand-prix-helsinki-88">5</a>&#10;            <br>&#10;            <a href="/fin/events/2004/gphels04/live-coverage-of-2004-grand-prix-helsinki-71">4</a>&#10;            <br>&#10;            <a href="/fin/events/2004/gphels04/live-coverage-of-2004-grand-prix-helsinki-43">3</a>&#10;            <br>&#10;            <a href="/fin/events/2004/gphels04/live-coverage-of-2004-grand-prix-helsinki-2">2</a>&#10;            <br>&#10;            <a href="/fin/events/2004/gphels04/live-coverage-of-2004-grand-prix-helsinki-34">1</a>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;    </td>&#10;  </tr>&#10;</tbody></table>
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <b>BLOG</b>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <br>&#10;      <a name="1">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Saturday, November 06: 10:40 am - Names to Watch</b>&#10;      </li>&#10;      <p>Helsinki is not the cheapest place to get to for most of Europe but there are still plenty of big name players to keep an eye on. It's been a lean period for Kai Budde of late, but only a fool would count out the German Juggernaut. Both of the Ruel brothers are here, but that isn't too surprising, they'd probably turn out if there was a GP in Antartica. Jelger Wiegersma from the Netherlands has a very strong Grand Prix Pedigree in Europe. The Scandinavians may not have been too enthusiastic about Columbus but Anton Jonsson, Matthias Jorstedt and PT New Orleans 2003 winner Rickard Österberg are players with a good chance to make an impact here.</p>&#10;      <img src="https://i.ormos.uk/c3/79/c3794a6cc5284b4239bccadd597706b01861a54becd7078745bb7dca76c18e2c.jpg">&#10;      <p>Possibly the most famous name from the host nation is Tommi Hovi. Hovi was the first ever player to win two Pro Tours. While he doesn't play as much now he still managed a runner-up finish in last year's GP Göteborg. Tommi Wallamies, Tuomo Nieminen and Arho Toikka were part of the 2003 Finnish national team that nearly took the tam title at Worlds that year.</p>&#10;      <p>This year's national team comprised of current champion Jussi Timonen (pictured), MaX Lehtinen and Andrei Häyrynen. Häyrynen also managed to a 22nd place finish at the last Pro Tour in Columbus. Slightly ahead of him in 18th place was countryman Antti Malin.</p>&#10;      <br>&#10;      <a name="2">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Saturday, November 06: 11:22 am - Sealed Deck Breakdown</b>&#10;      </li>&#10;      <p>Here is a quick breakdown of what players chose to make of their sealed decks today. &quot;3 or more&quot; was defined as a deck with a roughly even split between three or more colours and does not include decks splashing a third colour for a couple of cards.</p>&#10;      <p>B/U: 11 <br> B/G: 48<br> B/R: 16<br> B/W: 32<br> U/G: 11<br> U/R: 6<br> U/W: 8<br> G/R: 9<br> G/W: 18<br> R/W: 11<br> 3 or more: 146</p>&#10;      <img src="https://i.ormos.uk/46/61/46612700fec3d1bb9d0740e5aa44ed00edf91db77aa8ae6d91bcbf78ad1cb40a.jpg">&#10;      <p>Despite Champions being a fast format many players chose to gamble on their colour base, perhaps tempted by the many juicy bomb rares floating around in the set. Green/black was also a surprisingly popular choice. While black has great depth in removal and green some powerful hitters it can be slow and cumbersome, especially compared to the many fast samurai white has. Red and blue were less popular choices, not so surprising considering the shallower card pool.</p>&#10;      <p>Many thanks to the judging staff for slaving away to grind out these figures.</p>&#10;      <br>&#10;      <a name="3">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Saturday, November 06: 12:41 pm - Bye Bye Byes</b>&#10;      </li>&#10;      <p>Three byes aren't so easy to pick up nowadays.</p>&#10;      <img src="https://i.ormos.uk/d6/28/d62827d2c01939621e4aee96d25f6d10e4d1e7c6ca55fca025d2d8467ac61d22.jpg">&#10;      <p>Grand Prix rarely start going until round 4 when all the pros with 3 byes finally get a chance to start playing. This is not always the case, a few lean tournaments and a stint away from the game will force some of the stars to enter the tournament a round earler than expected. A quick scan of the room sees Hovi, Walamies and Nieminen all make their entry on round three.</p>&#10;      <br>&#10;      <a name="4">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Saturday, November 06: 1:30 pm - Feature Match Round 4: Mattias Jorstedt vs. Jussi Timonen</b>&#10;      </li>&#10;      <p>Round 4 sees the big name pros come into play. Jorstedt went on a tear about a year or so back culminating in a Pro Tour win at Kobe. His opponent Jussi Timonen has already had to play two rounds despite being the current Finnish national champion. At least that gives him some confidence in his deck.</p>&#10;      <img src="https://i.ormos.uk/71/67/716731f699107e22953aeaa8b4c1fc127e66b3749b3146cd82928d71432b5a69.jpg">&#10;      <p>Timonen won the die roll and started with an inauspicious mulligan. A <a>Humble Budoka</a> didn't appear until turn 3 for Timonen as he had to wait for his forest. Jorstedt's deck failed to cough up a third land. It was only a temporary blip as it arrived a turn later and enabled Jorstedt to set up some defence with a <a>Kabuto Moth</a> and <a>Nezumi Ronin</a>.</p>&#10;      <p>The game headed into a creature snarl up as Timonen, who'd summoned a monster evey turn from turn 3, couldn't get past Jorstedt's irritating Moth. The Swede added a second moth and pushed through 3 damage off the Ronin.</p>&#10;      <p>Unfortunately for him Timonen had <a>Dance of Shadows</a> to give his creatures +1/0 and fear to end the game with one decisive strike.</p>&#10;      <p>Timonen 1-0 Jorstedt</p>&#10;      <p>Jorstedt's bad luck continued as he had to mulligan for game 2. He busted out a <a>Kami of Ancient Law</a> on turn two and followed it with a <a>Thief of Hope</a>. The Thief traded with Timonen's <a>Kami of the Hunt</a>. Jorstedt kept up the aggro, swinging with a <a>Kabuto Moth</a> and <a>Kami of Ancient Law</a>.</p>&#10;      <p>The game turned into a straight race as Timonen swung back with <a>Order of the Sacred Bell</a>. With no creature to follow a <a>Kami of the Waning Moon</a> the Finn was forced back onto defence as Jorstedt summoned <a>Mothrider Samurai</a> and then <a>Cruel Deceiver</a>. Jorstedt kept up the pressure by using a <a>Cage of Hands</a> to take the Order out of combat. Timonen had to use Sepent Skin on a the <a>Kami of the Waning Moon</a> to keep it alive. A <a>Burr Grafter</a> allowed Timonen to take out the Deceiver but he under severe pressure.</p>&#10;      <p>Timonen was only at two life now and an <a>Orochi Hatchery</a> for three hammered the last nail in.</p>&#10;      <p>Timonen 1-1 Jorstedt</p>&#10;      <div>&#10;        <div>&#10;          <a>&#10;            <img alt="Nezumi Ronin" src="https://i.ormos.uk/5c/8b/5c8b17ccd03a04dc48f205f44fc10394d1f627295d11c8691662d8f2c1c6e12f.jpg">&#10;          </a>&#10;        </div>&#10;      </div>&#10;      <p>The third game didn't really kick off until Jorstedt's third turn, when he summoned a <a>Nezumi Ronin</a>. Timonen's first creature was a Kami of Fire's <a>Roar</a>. From there the creatures came thick and fast. <a>Nezumi Ronin</a> traded with <a>Cursed Ronin</a>.</p>&#10;      <p>A massive <a>Moss Kami</a> snarled up the ground for Jorstedt, but he was still able to stay ahead in the race with the help of a <a>Gibbering Kami</a> and <a>Thief of Hope</a>. Timonen got one hit with the <a>Moss Kami</a> before it fell to <a>Pull Under</a>. He brought out his own <a>Gibbering Kami</a> and <a>Kami of the Hunt</a> to try and stabilise. Soulshift tricks fetched back the <a>Kami of the Hunt</a> for Timonen and a <a>Kabuto Moth</a> for Jorstedt as the game stabilised with Jorstedt on 9 and Timonen at 7.</p>&#10;      <p>&#10;        <a>Kami of Ancient Law</a>, <a>Kabuto Moth</a> and <a>Nezumi Ronin</a> stared across the battlefield at Kami of Fire's <a>Roar</a>, <a>Kami of the Hunt</a> and <a>Burr Grafter</a>. Which player would blink first?</p>&#10;      <p>Jorstedt sent in a lone <a>Nezumi Ronin</a> giving Timonen pause for thought. Timonen blocked with the <a>Kami of the Hunt</a> and <a>Burr Grafter</a> with the result of both Ronin and <a>Burr Grafter</a> heading to the graveyard. Jorstedt replaced it with a <a>Samurai of the Pale Curtain</a>, while Timonen brought in a <a>Wicked Akuba</a>.</p>&#10;      <p>On the following turn the Samurai was the lone attacker. This time Timonen let it through, taking two damage and dropping to 5. Jorstedt summoned an <a>Innocence Kami</a>.</p>&#10;      <img src="https://i.ormos.uk/82/5d/825d592758184615d3c4a35735c9a669032abef8d9542bf80bc7b2fc3a88fcd8.jpg">&#10;      <p>Timonen needed to make a move. It was a very risky one as he summoned <a>Seizan, Perverter of Truth</a>. Jorstedt now only needed a way to inflict 3 damage and would be seeing an extra 2 cards to help him do so. Jorstedt sent in only the Samurai again, but he had an <a>Indomitable Will</a> in hand and was able to bring down the blocking Seizan for no loss with the help of the Moth.</p>&#10;      <p>Timonen needed the <a>Dance of Shadows</a> again. An attack with the Samurai dropped him to 2. He summoned a lowly <a>Hana Kami</a>. On the face of it that didn't seem enough but the spiritcraft triggers allowed the <a>Kami of the Hunt</a> to grow and prevent a <a>Kami of Ancient Law</a> from blocking for the turn. Timonen asked if he could declare attackers and here Jorstedt made a mistake that ended up proving his undoing. He chose not to tap the <a>Kami of the Hunt</a>. Timonen declared his three creatures as attackers and then before Jorstedt could declare blockers he sacrificed the <a>Hana Kami</a> to fetch back a <a>Pull Under</a> from the graveyard. The Moth was Pulled Under and the spiritcraft trigger from the Kami of Fire's <a>Roar</a> prevented Jorstedt's last creature, the <a>Innocence Kami</a> from blocking. Timonen had managed to steal a win from seemingly nothing.</p>&#10;      <p>Jussi Timonen beats Mattias Jostedt 2-1. </p>&#10;      <br>&#10;      <a name="5">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Saturday, November 06: 2:59 pm - Feature Match Round 6: David Linder vs. Thomas Gundersen</b>&#10;      </li>&#10;      <p>Both David Linder and Thomas Gundersen have strong records on the European Grand Prix circuit. Linder doesn't attend many but tends to go far with an insane record of something like 3 top 8's from only 4 Grand Prix. Gundersen is also no stranger to the quarter-finals stage.</p>&#10;      <img src="https://i.ormos.uk/2c/c3/2cc3e8cad3d6d641141cbc1807a732008520b44dfb89dcaba568009236758738.jpg">&#10;      <p>Linder probably wins the prize for having the reddest hair here.</p>&#10;      <p>Gundersen kicked off and sent Linder's first monster, a <a>Samurai of the Pale Curtain</a>, from the game with a <a>Rend Spirit</a>. He followed up with a <a>Kashi-Tribe Reaver</a> and then used <a>Commune with Nature</a> to dig out a <a>Feral Deceiver</a>.</p>&#10;      <p>Linder meanwhile was off to the skies with a <a>Soratami Rainshaper</a>. He missed a land drop, only making a No-Daichi, but found a fourth and dropped out a <a>Floating-Dream Zubera</a> and <a>Kitsune Diviner</a>.</p>&#10;      <p>Gundersen meanwhile was cranking out the fat as a massive <a>Moss Kami</a> joined his team.</p>&#10;      <p>Linder's land was still proving unhelpful and he could only manage a second Zubera. The Diviner kept the <a>Moss Kami</a> busy and Linder drew four cards from the dying Zubera to try and propel himself back into the game.</p>&#10;      <div>&#10;        <div>&#10;          <a>&#10;            <img alt="Frostwielder" src="https://i.ormos.uk/a7/6e/a76e2e6f39e0ccf82c109a6166d2c97728d7e9abf73a7c3989991d521fc16d43.jpg">&#10;          </a>&#10;        </div>&#10;      </div>&#10;      <p>He found a fifth land, but could only make a <a>Kitsune Riftwalker</a>. While enough to handle a <a>Feral Deceiver</a>, Gundersen played a No Daichi of his own to turn the Reaver into a substantial threat. The attack knocked Linder down to 3 life.</p>&#10;      <p>He tapped out to summon <a>Uyo, Silent Prophet</a> and then thought about whether the Rainshaper should have a nibble. The Rainshaper came in and the turn was passed to Gundersen with the Norwegian sitting on a healthy 12 life.</p>&#10;      <p>Gundersen summoned a <a>Scuttling Death</a> and failed to hit a land with the Deceiver again. He sent it in regardless with the equipped Reaver. Deceiver and Uyo both died as a result of the combat. Gundersen was able to get the Deceiver straight back with the Death. He didn't need it as a <a>Rend Spirit</a> was able to remove Linder's lone blocker and allow the Reaver through for lethal damage on the following turn.</p>&#10;      <p>Gundersen 1-0 Linder</p>&#10;      <p>Linder opened with a <a>Callous Deceiver</a> on turn 3 and followed with the very scary <a>Nagao, Bound by Honor</a>. Gundersen ramped up with Kodama's Reach, but could only manage a <a>Frostwielder</a>. Linder smacked him for five and took out the <a>Frostwielder</a> with <a>Mystic Restraints</a>. Gundersen came straight back at him with <a>Rend Flesh</a> on Nagao.</p>&#10;      <p>The Deceiver flew over to drop Gundersen to 12 and was joined by a Rainshaper. He revealed the same land again in his upkeep to get another 4 damage. Gundersen hadn't got a point of damage through yet. He followed a <a>Kashi-Tribe Reaver</a> with another ground-based monster, <a>Godo, Bandit Warlord</a>. Another land on top of the library and a No-Daichi of his own and Linder was able to attack to drop Gundersen to 2.</p>&#10;      <p>The Norwegian conceded to take the match to a decider.</p>&#10;      <p>Linder 1-1 Gundersen</p>&#10;      <p>Gundersen zipped out with a <a>Hearth Kami</a> and had a <a>Rend Spirit</a> for Linder's <a>Callous Deceiver</a>. Then Gundersen skipped a land drop while Linder was stuck with only islands. A <a>Floating-Dream Zubera</a> kept the <a>Hearth Kami</a> away until Linder was able to find a mountain for a Honden on Infinite Rage to permanently deal with the nuisance.</p>&#10;      <div>&#10;        <div>&#10;          <a>&#10;            <img alt="Godo Bandit Warlord" src="https://i.ormos.uk/ff/84/ff842e6ddf3abdd1e32765fefb62c24bbe8cdcf0c52f81b4fede1d7a00e83d03.jpg">&#10;          </a>&#10;        </div>&#10;      </div>&#10;      <p>Gundersen urged land from his library. He summoned a <a>Frostwielder</a> and then hit the forest for a <a>Feral Deceiver</a>. The game seemed poised with pingers on both side and Linder's <a>Mothrider Samurai</a> to race Gundersen's <a>Feral Deceiver</a>.</p>&#10;      <p>&#10;        <a>Mystic Restraints</a> took care of the Deceiver only for Gundersen to replace it with a <a>Kashi-Tribe Reaver</a>. Linder hit seven mana and hit a reusable <a>Glacial Ray</a> combo with <a>Petals of Insight</a>. It might be mana intensive but combined with the Honden it meant Gundersen would have trouble keeping anything on the table with less than three toughness.</p>&#10;      <p>He had to use the <a>Frostwielder</a> to ping itself and then finish it off with the <a>Scuttling Death</a>. This fizzled the <a>Petals of Insight</a> but then there was momentary confusion as Linder put the <a>Glacial Ray</a> in the graveyard also. This was noticed by a spectator (yours truly being asleep on the job again) and a judge was called over to quickly rectify the situation. It didn't make too much difference as Gundersen's Godo did not have wings.</p>&#10;      <p>David Linder beats Thomas Gundersen 2-1</p>&#10;      <br>&#10;      <a name="6">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Saturday, November 06: 4:07 pm - Feature Match Round 7: Jelger Wiegersma vs. Antoine Ruel</b>&#10;      </li>&#10;      <p>Wiegersma won the choice and decided to make Ruel go first. Ruel started with one of the most feared two drops in the format, <a>Nezumi Cutthroat</a>. A Villanous Ogre to follow and then a <a>Yamabushi's Flame</a> on Wiegersma's Houndmaster and the Dutch player was half his life down before he'd even had time to blink. A <a>Soratami Rainshaper</a> hastened the end of a very fast first game.</p>&#10;      <p>Ruel 1-0 Wiegersma</p>&#10;      <p>Despite the beating Wiegersma still wanted Ruel to start.</p>&#10;      <img src="https://i.ormos.uk/ca/74/ca742026f7f44b9a7bc0ab0fb189a17862d8e77115d914d868113806bb4ae14d.jpg">&#10;      <p>There was no rat for Ruel but he started quickly with a pair of fliers, <a>Soratami Rainshaper</a> and <a>Gibbering Kami</a>. A Diviner kept the Kami occupied before Ruel whacked it with a <a>Befoul</a>. Wiegersma nipped in with a Surprise Masako and then blocked up the skies with a <a>Hundred-Talon Kami</a>.</p>&#10;      <p>&#10;        <a>Serpent Skin</a> on the <a>Hundred-Talon Kami</a> combined with Masako effectively locked out Ruel. He summoned a <a>Sire of the Storm</a> and then bust through the skies for 7 after removing the <a>Hundred-Talon Kami</a> with an <a>Eye of Nowhere</a>. The 2/3 Kami returned and this time Ruel could only slip through a <a>Nezumi Cutthroat</a>. Wiegersma was hitting back on the ground with a <a>Samurai of the Pale Curtain</a>, <a>Burr Grafter</a> and Masako.</p>&#10;      <p>The life totals were seven apiece. Ruel couldn't quite alpha strike for enough. He snuck through the Cutthroat. Wiegsma hit back with the Samurai and pumped it with <a>Kodama's Might</a>. Ruel again could only attack with the rat. He needed one more turn but wasn't about to get it as Wiegersma had enough of an overlap to attack for the win in his turn.</p>&#10;      <p>Ruel 1-1 Wiegersma</p>&#10;      <p>A pair of <a>Befoul</a>s took down Wiegersma's first two monsters while he clubbed away with a <a>Villainous Ogre</a>. A <a>Samurai of the Pale Curtain</a> and <a>Kitsune Blademaster</a> slammed on the brakes quickly as Ruel resorted to the skies with <a>He Who Hungers</a> and then a <a>Sire of the Storm</a>. An attack and then <a>Devouring Greed</a> finished another blisteringly quick game in favour of the Frenchman. Wiegersma would have won with another turn as he had Strength of Ceders in his hand.</p>&#10;      <p>Antoine Ruel beats 2-1 Jelger Wiegersma</p>&#10;      <br>&#10;      <a name="7">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Saturday, November 06: 4:44 pm - Prize Draw</b>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <img src="https://i.ormos.uk/67/2a/672a6f0029a80d99eb4a8b28332fcfca987c7ec2f17a0da9175ef2e966cbdc1b.jpg">&#10;      <p>Part of the custom of European Grand Prix is the prize draw that takes place towards the end of the first day. Winners can pick up free booster drafts, a snowboard or an all expenses trip to the next Grand Prix. Event Manager Erwin Dielens got to pick the winners and wisely let local organized play manager Johanna Knuutinen pronounce those tricky Finnish names.</p>&#10;      <p>This weekend Sebastian Aaltonen was the lucky recipient of the snowboard. This was especially fortuitous as he'd been looking to buy one anyway. Markus Hietala got the first prize and will be getting a nice trip to Paris for the Grand Prix at the end of the month. So remember to put your details in the box at the next Grand Prix and you too might be lucky.</p>&#10;      <br>&#10;      <a name="8">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Saturday, November 06: 6:21 pm - Entering Today's Last Round</b>&#10;      </li>&#10;      <p>We're just entering the final round here and it's crunch time. 18 points and solid tie-breakers will be needed to advance to the draft tables tomorrow. Kai Budde was recipient of an awful deck and despite dropping his first two rounds has managed to fight back from the edge. One more win will get him in, but with his card pool it will be like fighting with one hand tied behind his back.</p>&#10;      <img src="https://i.ormos.uk/f3/22/f3223896bcb2af2c98169d6f524ed9b872378e1756b90e1c44cb4ca71bdeee44.jpg">&#10;      <p>Also fighting for survival is Mattias Jorstedt, despite what initially looked like a solid deck. Tuomo Nieminen, Jelger Wiegersman and Thomas Gundersen are all battling in the must-win bracket.</p>&#10;      <p>Meanwhile at the other extreme Wenzel Krautmann is battling Simon Carlsson and Anton Jonsson takes on Pavlos Akritas in matches to decide who advances to day two with perfect records.</p>&#10;      <br>&#10;      <a name="9">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, November 07: 11:41 am - The Secret Cabal</b>&#10;      </li>&#10;      <p>Ever wondered what the judges get up to once the day is over?</p>&#10;      <img src="https://i.ormos.uk/96/a0/96a0d546615d85c3da0e6170c9a02e4a7b77724f0f61ec1d5e93728f34fb62a9.jpg">&#10;      <p>I bring exclusive pictures from their secret meetings and uncover a plot to overthrow the western world!</p>&#10;      <p>Well actually not. More an overview of what happened during the day. And this time everything was fine according to head judge Bruno Barracosa. Thanks to the players and excellent judging staff day one ran smoothly and finished at the fantastically early time of 21:00. Just ten penalties were given out for deck registration errors, a fact Barracosa attributes to the more professional attitude of the Nordic players. </p>&#10;      <br>&#10;      <a name="10">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, November 07: 12:02 pm - Feature Match Round 9 Anton Jonsson vs. Wenzel Krautmann</b>&#10;      </li>&#10;      <p>These are the last two players with perfect scores. They both don't think their sealed decks were to good. Anton's only bomb was Hikari, and although Wenzel had both Meloku and Kiko, he had to play 3 colors and splash for some creatures.</p>&#10;      <img src="https://i.ormos.uk/b0/77/b077208d549516a0d8bed812c566030b37db7712e75f629887013054175bdce5.jpg">&#10;      <p>For this draft, both players have chosen to play blue. Anton supplements it with white cards, and Wenzel uses it as the second color for his mostly red deck. Both players have <a>Teller of Tales</a> and <a>Sire of the Storm</a>. Anton has a bomb in <a>Uyo, Silent Prophet</a><br> and Wenzel's best card is probably his <a>Soratami Mirror-Mage</a>.</p>&#10;      <p>Anton starts the game, but Wenzel gets to play the first spell, <a>Reach Through Mists</a> and <a>Hearth Kami</a>. Anton gets Kabuto, <a>No-Dachi</a> and <a>Teller of Tales</a>, so it seems like he will be in good shape. Wenzel plays <a>Honden of Infinite Rage</a> and quite a few small creatures, but he can't really attack. This changes when he gets his second <a>Brothers Yamazaki</a>.</p>&#10;      <p>He loses one of them in the attack, but Anton has to tap his Moth, and Wenzel can kill it with <a>Glacial Ray</a>. He even gets Soratami Mirror Guard in play the next turn, and suddenly his Grey Ogres start to look dangerous. Anton plays a Cloudskater<br> to dig for answers, and manages to find one for Wenzels's Honden, a <a>Kami of Ancient Law</a>. He still can't deal with the Mirror-Guard though, and dies to a horde of unblockable creatures the next turn.</p>&#10;      <p>They both silently shuffle for the second game, and Anton goes first again. A few cheap Kami enter the game on both sides, but Anton's <a>Kami of Ancient Law</a> kills one and holds the other ones off after it gets enchanted with <a>Indomitable Will</a>. Then<br><a>Teller of Tales</a> is added to his army as well, and again it looks like Wenzel's creatures just aren't big enough. Still, a Kami of Fire's <a>Roar</a> makes sure he gets in a few points of damage here and there. Most of Anton's creatures fly and have better stats than Wenzel's, but he can only attack with his <a>No-Dachi</a>-equipped <a>Teller of Tales</a> because of the large number of creatures on Wenzel's side. When Wenzel gets his own <a>Teller of Tales</a> to go with his Kami of Fire's <a>Roar</a>, the advantage shifts just like it did in the last game. Anton can still win if he draws a spirit, as an all-out air strike would be lethal if he could jut tap Wenzel's Teller with his own, but he draws a <a>Kitsune Blademaster</a> and extends his hand when Wenzel goes for the kill shortly after.</p>&#10;      <p>Wenzel Krautmann beats Anton Jonsson 2-0</p>&#10;      <br>&#10;      <a name="11">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, November 07: 1:17 pm - Draft Report - Table 1</b>&#10;      </li>&#10;      <p>The first draft of day two and table one looks like a doozy. Both Wenzel Krautmann and Anton Jonsson ran the tables yesterday to finish on 8-0. Joining them on the same table is both of the Ruel brothers. The seating order was as follows:</p>&#10;      <img src="https://i.ormos.uk/68/41/6841c4346d02dbb3c1ead4b20f3d67dfd1a4ff2d629cd84495366cd5dc59182d.jpg">&#10;      <p> 1. Olivier Ruel<br> 2. Anton Jonsson<br> 3. Simon Carlsson<br> 4. Antoine Ruel<br> 5. Steffen Schmidt<br> 6. Toni Rissanen<br> 7. Wenzel Krautmann<br> 8. Pavlos Akritas</p>&#10;      <p>The first booster was fairly unexciting and in an indication of how fast the format is Olivier Ruel first picked a <a>Nezumi Cutthroat</a>. This little two drop is a terror against any non black deck. Behind him Jonsson took a <a>Cage of Hands</a>, Carlsson a <a>Pain Kami</a> and Antoine Ruel chose to follow his brother into black with a <a>Wicked Akuba</a>.</p>&#10;      <p>Also as an indication of how popular green is in the format, no player took a green card until Akritas wheeled <a>Humble Budoka</a> and <a>Serpent Skin</a>.</p>&#10;      <p>The first couple of boosters were not too interesting as Jonsson signalled a preference for blue/white, Carlsson took three red cards and Antoine three black. The fireworks started on the 4th booster as the first bomb rare, Hikari, appeared. Antoine was more than happy to make white his second colour, much to the annoyance of Schmidt, who was white in the seat behind him. Schmidt wasn't about to take it lying down and signalled a willingness to fight by taking a Konda's Hashimoto straight after him.</p>&#10;      <p>Another fight was shaping up at the other end of the table as Akritas, stuck in the tricky seat 8, took a <a>Swallowing Plague</a> and then a <a>Nezumi Cutthroat</a> ahead of Olivier Ruel. Olivier wasn't about to lay down either and settled in for a fight.</p>&#10;      <p>Despite the fights the table picked their colours early and stuck to them. After the first round of boosters the table was as follows:</p>&#10;      <p>1. Olivier Ruel black/red<br> 2. Anton Jonsson white/blue<br> 3. Simon Carlsson red/green<br> 4. Antoine Ruel white/black<br> 5. Steffen Schmidt white/blue<br> 6. Toni Rissanen red/green<br> 7. Wenzel Krautmann blue/red<br> 8. Pavlos Akritas green/black</p>&#10;      <img src="https://i.ormos.uk/0c/a4/0ca4f56ad62a54a75dfdf95ab8ac9e1b4ab4d3b2994dfabbe7b4666dc4709e21.jpg">&#10;      <p>Olivier Ruel got a very late <a>Devouring Greed</a> in the first booster of the second round but had to make do with some very lean pickings. His own booster when it came to him had absolutely nothing and he ended up taking a first pick <a>Nezumi Bone-Reader</a>. A second <a>Devouring Greed</a> from the third round to go with his triple <a>Ember-Fist Zubera</a> gave him some possibilities but his boosters had been pretty limited.</p>&#10;      <p>Bizarrely a full half of the table chose not to take white cards. Anton Jonsson should have really reaped the benefits of five boosters worth of white cards but his deck ended up being merely being very good rather than completely ridiculous. <a>Teller of Tales</a>, <a>Sire of the Storm</a> and <a>Uyo, Silent Prophet</a> provided some flying beef.</p>&#10;      <p>Carlsson was the only player to bust a dragon, Ryusei, and with one of two <a>Kodama of the North Tree</a> opened on the table certainly has some bombs.</p>&#10;      <p>Antoine and Schmidt got into a scrap for white, but it never seemed to hurt Antoine. Because the other half of the table of the table wasn't touching white Ruel always seemed to get a decent pick during the second round whereas Schmidt had to contend with both Jonsson and Ruel taking cards from him for rounds one and two.</p>&#10;      <p>Wenzel Krautmann managed to quietly assemble a blue/red deck packed with meaty fliers.</p>&#10;      <br>&#10;      <a name="12">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, November 07: 2:42 pm - Feature Match Round 10 Olivier Ruel vs. Simon Carlsson</b>&#10;      </li>&#10;      <p>Both players went 7-1 yesterday, but lost their first round today. Another loss would make it very hard for them to get to the play-offs.</p>&#10;      <p>Olivier's deck looked really weak. He played red-black and had four Zuberas, two <a>Devouring Greed</a> and one <a>Devouring Rage</a>, but not a lot of removal. <a>Kami of the Waning Moon</a> really isn't that impressive - even if you have two of them. Simon's deck looked better, with solid creatures, good removal, and the nice combo of double <a>Matsu-Tribe Decoy</a> and double <a>Serpent Skin</a>. Oh, and the four legends <a>Ryusei, the Falling Star</a>, <a>Kodama of the North Tree</a>, <a>Ben-Ben, Akki Hermit</a>, and <a>Iname, Life Aspect</a> as well as a <a>Time of Need</a> to find them.</p>&#10;      <img src="https://i.ormos.uk/26/99/2699a11379eac7290804a1ac343e28d480b6e725bd09a1bdcc5a0d5418945af6.jpg">&#10;      <p>Simon started the game with <a>Hearth Kami</a> and <a>Matsu-Tribe Decoy</a>, and asked Olivier if he was landscrewed when he only played swamps in the first few turns. He did have the lands in his hand, but his only creatures were <a>Nezumi Ronin</a>, which he played<br> turn three, and <a>Scuttling Death</a> - not the fastest start in this block. He also held a <a>Devouring Greed</a>, but it would take some time before it could do him any good. When Simon decided not to attack with his Decoy, although the Ronin was tapped, Olivier suspected a trick and left the Ronin at home during his turn. The right decision, because Simon had a <a>Serpent Skin</a> which he played at the end of Ruel's turn - it still didn't help him, as the Ronin was forced to block the next turn, and the <a>Serpent Skin</a> allowed Simon's Decoy to survive. When Simon played <a>Kodama of the North Tree</a>, things were really looking bad for Olivier.</p>&#10;      <p>He took damage from the Tree twice, and scooped when Simon showed him Hannabi Blast.</p>&#10;      <p>Olivier really seemed to dislike his starting hand of six lands and a <a>Kami of Lunacy</a>, but he decided to keep anyway. Simon took a mulligan, and it seemed to pay off, as he drew a steady supply of lands, creatures, removal and a Kodama' Reach over the next few turns. Meanwhile, Olivier managed to draw a <a>Thief of Hope</a>, a <a>Wicked Akuba</a> and a <a>Uncontrollable Anger</a>, which meant that he was still in the game when he finally got to play the <a>Kami of Lunacy</a>. Simon got to play Inami, Life Aspect, which traded with the enchanted <a>Thief of Hope</a>. He also showed his <a>Blind with Anger</a>, but had to trade it with a <a>Pain Kami</a>.</p>&#10;      <div>&#10;        <div>&#10;          <a>&#10;            <img alt="Kami of Lunacy" src="https://i.ormos.uk/72/e8/72e8791953d87c5d583be3b868f60dc0b13eaff5659a72996f9777e8d35918b7.jpg">&#10;          </a>&#10;        </div>&#10;      </div>&#10;      <p>Olivier still had the <a>Kami of Lunacy</a>, which tried to race Simon's <a>Matsu-Tribe Decoy</a> and Kami of Fire's <a>Roar</a>, but when Simon played his last two cards, <a>Time of Need</a> and <a>Hanabi Blast</a>, Olivier really didn't like his chances.</p>&#10;      <p>Simon found Kodama, but had to wait a turn to play it. Olivier drew a <a>Nezumi Cutthroat</a>, and played it along with the <a>Thief of Hope</a> he soulshifted with the <a>Kami of Lunacy</a>. With Simon on 6, he still had a shot, especially if he could draw a <a>Devouring Greed</a> or Rage.</p>&#10;      <p>Simon played around it, and got <a>Pain Kami</a> into play instead of the Tree. He used it to kill the Cutthroat, and won the game safely on the next turn when he played the Tree and used his Kami of Fire's <a>Roar</a> to prevent Olivier's thief from blocking.</p>&#10;      <p>Visibly upset, Olivier threw his hand on the table - more lands. He still managed to draw quite a few of them despite having six in his starting hand, and apparently this has happened in all four duels today. There are certainly better ways to start a Sunday.</p>&#10;      <p>Simon Carlsson beats Olivier Ruel 2-0</p>&#10;      <br>&#10;      <a name="13">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, November 07: 2:55 pm - Feature Match Round 11 Antoine Ruel vs. Olivier Ruel</b>&#10;      </li>&#10;      <p>Whenever these two players play each other at a Grand Prix, they get a feature match - today that steak continued. Actually, they both had played at the same table earlier today, Antoine in round 9, when he beat Simon Carlsson, and Olivier in round 10, when he lost to Simon. Both players went 7-1. Antoine was 1-1 today, and Olivier 0-2. </p>&#10;      <img src="https://i.ormos.uk/7d/97/7d97b72690443503519da6b436649556988f682288664cfb8c2fcacfb824262a.jpg">&#10;      <p>Olivier had a black-red Zubera-deck with 4 Zuberas, 2 <a>Devouring Greed</a> and 1 <a>Devouring Rage</a>, but not much else. Antoine's deck looked a lot more impressive. It was black and white, and had good creatures and removal as well as a few bombs, like<br><a>Hikari, Twilight Guardian</a>, <a>Nagao, Bound by Honor</a>, <a>Hideous Laughter</a>, and Kiku, Night's Flower.</p>&#10;      <p>Olivier started off with <a>Ember-Fist Zubera</a> and two <a>Kami of the Waning Moon</a> - not really impressive. Antoine played creatures that were a bit bigger - <a>Kitsune Blademaster</a>, <a>Cursed Ronin</a> and <a>Kami of Ancient Law</a>.</p>&#10;      <p>Still, with Olivier playing first and his creatures' evasion, he managed to get Antoine to 11 before he had to play his first good creature, a <a>Pain Kami</a>. It would trade for the Kami of Ancinet Law and the Blademaster. This forced Antoine to use a <a>Scuttling Death</a> to kill a <a>Kami of the Waning Moon</a>.</p>&#10;      <p>Antoine could follow up with <a>Nagao, Bound by Honor</a> and the soulshifted Kami, but Olivier had <a>Pull Under</a> for the samurai and <a>Rend Spirit</a> for the spirit. Olivier was getting low on life, and when <a>Hikari, Twilight Guardian</a> hit play, it seemed as if Antoine would be the sure winner. But Olivier drew a <a>Thief of Hope</a>, and could give fear to his <a>Scuttling Death</a> to knock Antoine to 2, and bring himself back to 4. He then sacrificed the <a>Scuttling Death</a> to get an <a>Ember-Fist Zubera</a> back, and suddenly Antoine was at 1 life and couldn't attack. When Oliver attacked with the<br> Zubera, Antoine had to block it with the <a>Cursed Ronin</a> and play <a>Indomitable Will</a> on his brother's creature - he needed it to stay alive, because he couldn't afford to lose his last life.</p>&#10;      <p>It didn't matter in the end, as Olivier kept playing creatures and just overran Antoine.</p>&#10;      <img src="https://i.ormos.uk/1c/d7/1cd79dc371f6e4c5d3c09aaa9787b77d42f207ff52a595e871a01e4dda33ee56.jpg">&#10;      <p>In Game 2, Antoine played first. A Kami traded for a Zubera, and then a <a>Kami of the Waning Moon</a> (on Olivier's side) and a <a>Mothrider Samurai</a> (for Antoine) entered play. Olivier's turn 4 was more exciting: He played <a>Nezumi Graverobber</a> and activated it on the only card in Antoines graveyard, giving himself a 4/2 that could animate creatures. He lost it on the next turn when it ran into the <a>Mothrider Samurai</a> that was untapped by <a>Call to Glory</a>, but at least he got to animate his Zubera for a 3-1 card advantage. Antoine played <a>Hikari, Twilight Guardian</a>, but Olivier kept attacking. Antoine smelled a trick and didn't block, and Olivier enchanted his Zubera<br> with Uncontrollable Rage. He got another Zubera into play, this time an <a>Ashen-Skin Zubera</a>.</p>&#10;      <p>He won the game by playing <a>Devouring Greed</a> without a sacrifice, using the arcane spell to give the red Zubera fear, attacking, and playing another <a>Devouring Greed</a> for eight damage.</p>&#10;      <p>Olivier Ruel beats Antoine Ruel 2-0</p>&#10;      <br>&#10;      <a name="14">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, November 07: 3:23 pm - No Blue Cards</b>&#10;      </li>&#10;      <p>Any long time player of Magic will know that <a>Island</a>s are the most annoying cards in the game. They allow all those dirty blue mages to cast those cheating blue tricks. Imagine being beaten by all those downright unsporting tricks and then being asked to sign those evil islands afterwards.</p>&#10;      <img src="https://i.ormos.uk/d6/64/d66440e7eb047cf38645984a2e4f01b410f73473bd33dcef6a4408dc7d3924fe.jpg">&#10;      <p>The artist here at GP Helsinki for the weekend is Martina Pilcerova. She is responsible for that gorgeous sequence of islands in Kamigawa. Unsurprisingly she has been asked to sign a lot of islands.</p>&#10;      <p>I mean a lot of islands.</p>&#10;      <p>Combine that with some beatings off the judges when playing sealed deck last night and it is safe to say Martina doesn't like blue spells much at the moment.</p>&#10;      <p>I think I'll wait for some other time to get my stack of land signed…</p>&#10;      <br>&#10;      <a name="15">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, November 07: 3:48 pm - Entering the Second Draft</b>&#10;      </li>&#10;      <p>Going into the second draft and the top of the standings has not changed. Anton Jonsson and Wenzel Krautmann are still leading the way. Joining them on 30 points is Belgium's Pavlos Akritas. They go into the second draft needing possibly only a win and an ID to make it into the top 8.</p>&#10;      <p>Amateur Erkki Sisack heads a chasing pack of Jean Charles Salvin, Marko Ukskoski and Ulrik Tarp. The top table promises to be tight with experienced Belgian pro Bernardo Da Costa Cabral also fighting for a place on the final table.</p>&#10;      <p>Thomas Gundersen and current Finnish champion Jussi Timonen will be fighting to win one of the remaining slots that trickle down to tables 2 and 3. An unfortunate first draft will mean the Ruel brothers get to draft on the same table again, but they'll have their work cut out to dig back up from table 4.</p>&#10;      <br>&#10;      <a name="16">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, November 07: 4:07 pm - Draft Report - Draft Two, Table One</b>&#10;      </li>&#10;      <p>One more draft to go to decide the top 8 and it's by no means certain. Anton Jonsson, Wenzel Krautmann and Pavlos Akritas top the standings with 30 points. Both require at least a win, maybe more.</p>&#10;      <img src="https://i.ormos.uk/ae/a6/aea6e751520e9c087439036cc18590239b7cf4b83e58a8d0c560e65a4da2d679.jpg">&#10;      <p>The table shaped up like this:</p>&#10;      <p>1. Wenzel Krautmann<br> 2. Ulrik Tarp<br> 3. Bernado Da Costa Cabral<br> 4. Erkki Sisack<br> 5. Pavlos Akritas<br> 6. Marko Ukskoski<br> 7. Jean Charles Salvin<br> 8. Anton Jonsson</p>&#10;      <p>The first booster saw Krautmann nudge into black with a <a>Pull Under</a>, Tarp into white with <a>Cage of Hands</a> and Da Costa Cabral into red with <a>Hanabi Blast</a>. Tarp picked a <a>Mystic Restraints</a> from his next pack, clearly aiming for the blue-white archetype. Da Costa Cabral kept his options open with a Houndmaster and then a <a>Rend Spirit</a>. The <a>Rend Spirit</a> was annoying for Sisack as he'd gone into black. He took a <a>Gutwrencher Oni</a> from the same pack. In seat 8 Jonsson wheeled into the red-green deck and didn't budge. From the first few boosters it seemed like Akritas was blue-white, Ukskoski green-red and Salvin blue-black.</p>&#10;      <p>This all changed when Ukskoski busted open <a>Yosei, the Morning Star</a>. He ditched the original plan and went aggressively into white, taking Blademaster and <a>Cage of Hands</a> from the next round of boosters, much to the annoyance of Akritas.</p>&#10;      <p>Despite the early <a>Rend Spirit</a> pick Da Costa Cabral switched to a red-green strategy. Sisack was also taking green cards next to him to go into his black deck.</p>&#10;      <p>Wenzel Krautmann went for black-white and turned down a <a>Myojin of Cleansing Fire</a> in favour of a <a>Kami of Ancient Law</a>, perhaps put off by the casting cost. Tarp grabbed it 4th pick.</p>&#10;      <p>With a first pick Yamabushi's flame Salvin headed more into blue-red than blue-black. Despite an abundance of <a>Devouring Greed</a> floating around no player plumped for the Zubera-Greed strategy.</p>&#10;      <img src="https://i.ormos.uk/2c/c2/2cc2f582d8be64eaa1e342b72c4f2fa8900f7f0b6a22deb849ecaf605382913e.jpg">&#10;      <p>On the bomb front Da Costa Cabral opened Ryusei, which happened to be in his colours. Ukskoski found a <a>Kodama of the North Tree</a> in his second booster, which made the decision to go white-green very easy. Midway through the second booster the players were pretty much locked in their colours as follows:</p>&#10;      <p>1. Krautmann B/W<br> 2. Tarp W/U<br> 3. Da Costa Cabral G/R<br> 4. Sisack B/G<br> 5. Akritas U/W<br> 6. Ukskoski W/G<br> 7. Salvin U/R<br> 8. Jonsson R/G</p>&#10;      <p>The rest of the draft passed fairly uneventfully. Ukskoski picked up a <a>Time of Need</a> as why play one Yosei or Kodama when you can play two? Jonsson picked up a <a>Strength of Cedars</a> to give him his green-red deck a little more punch.</p>&#10;      <p>At this point I should probably make some predictions but why bother. They'd only be wrong.</p>&#10;      <br>&#10;      <a name="17">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, November 07: 4:31 pm - Feature Match Round 12 Erkki Sisask vs. Bernardo Da Costa Cabral</b>&#10;      </li>&#10;      <p>Both players had won their tables. Erkki had 19 points from yesterday, and Bernardo had 18, so they were both still in contention for top 8. </p>&#10;      <div>&#10;        <div>&#10;          <a>&#10;            <img alt="Sakura-Tribe Elder" src="https://i.ormos.uk/86/6e/866ed5c7b7a6e4df2160c93b49b6f2984a11b0878453785928c480e91fe89413.jpg">&#10;          </a>&#10;        </div>&#10;      </div>&#10;      <p>Bernardo's deck looked nice. He played red and green, with <a>Sakura-Tribe Elder</a> and Kodama's Reach allowing him to splash for <a>Rend Flesh</a> and <a>Rend Spirit</a>. The highlight of his deck was his <a>Ryusei, the Falling Star</a>, but it was accompanied by many solid creatures. </p>&#10;      <p>Erkki's deck was mainly black, with green added for four creatures. He had some removal, but no really exciting cards - the closest thing to a bomb was his <a>Gutwrencher Oni</a>. </p>&#10;      <p>Erkki chose to play, but had to mulligan twice. Bernardo only had to mulligan once, so he had an advantage - especially since Erkki missed his land drops from turn 3 to turn 7. The only card he could play was a <a>Cruel Deceiver</a>, while Bernardo played <a>Akki Coalflinger</a>, <a>Kami of the Hunt</a>, Kodoma's Reach, and <a>Ronin Houndmaster</a>, and Ekki conceded when he didn't draw land in turn 8. </p>&#10;      <p>Bernardo told him that he thought his own deck was very bad, and that this was the only way he could win. </p>&#10;      <div>&#10;        <div>&#10;          <a>&#10;            <img alt="Cursed Ronin" src="https://i.ormos.uk/21/21/212184a3e73aceaef4cc11eb3de8f9757104276747de4609a27aa51fdcec000e.jpg">&#10;          </a>&#10;        </div>&#10;      </div>&#10;      <p>In Game 2, both players got to keep their hands. A <a>Cruel Deceiver</a> and a <a>Hana Kami</a> traded early on, and both Erkki and Bernardo continued to play creatures, a <a>Thief of Hope</a>, a <a>Scuttling Death</a>, and a <a>Gutwrencher Oni</a> for Erkki, and a <a>Feral Deceiver</a> and an <a>Orochi Ranger</a> for Bernardo. The Ranger blocked the Thief, and Erkki got to soulshift his Deceiver back. Bernardo got to play a <a>Kami of the Hunt</a> as well, and when Erkki attacked, all creatures died, with a little help from Bernardo's <a>Hanabi Blast</a>. The soulshift really helped Erkki here, as he could play <a>Thief of Hope</a> and <a>Cruel Deceiver</a> after combat. When he played a <a>Cursed Ronin</a> with 4 untapped swamps, it was only a matter of time. Erkki had control of the game the whole time, and Bernardo had a hard time trying to fight him, because the soulshift turned out to be such a great advantage for Erkki. </p>&#10;      <p>Bernardo played first in the last game, and things looked good for him in turn four, when he had a <a>Matsu-Tribe Decoy</a> and a <a>Frostwielder</a> against Erkki's <a>Wicked Akuba</a> and <a>Thief of Hope</a>. He had to discard to <a>Waking Nightmare</a>, but an <a>Akki Coalflinger</a> on his side really made things tough for Erkki. He got to play a <a>Venerable Kumo</a>, but he couldn't really afford to block because of the Coalflinger. Things got worse for him when <a>Order of the Sacred Bell</a> entered play. The Kumo traded for an <a>Orochi Ranger</a>, and all Erkki could draw were creatures with a toughness of one - not really a match for Bernardo's <a>Frostwielder</a>. He could just keep attacking until all Erkki's life points were taken. </p>&#10;      <p>Bernardo Da Costa Cabral beats Erkki Sisask 2-1</p>&#10;      <br>&#10;      <a name="18">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, November 07: 4:55 pm - Feature Match Round Anton Jonsson vs. Jean Charles Salvin</b>&#10;      </li>&#10;      <p>Prior to this round, Jean Charles had 31 points, and Anton had 33. Anton needed a draw, but Jean Charles had to win at last one more match to make it to the top 8. </p>&#10;      <img src="https://i.ormos.uk/16/42/1642390e3181dec76cfffe4addf9d31e08672bc6d8fb1ddac155662bd54e1689.jpg">&#10;      <p>Jean Charles played a blue-red Zubera-deck, with 2 <a>Floating-Dream Zubera</a>, 3 <a>Ember-Fist Zubera</a> and 2 <a>Devouring Rage</a>. He had to play some sub-par cards like <a>Lava Spike</a> and <a>Wandering Ones</a>, and his best card was his <a>Soratami Mirror-Mage</a>, but the aggressiveness of his deck should give him a chance to get the 3 points he needed. </p>&#10;      <p>Anton red-green deck wasn't too impressive either. He had solid creatures in both colors and a bit of removal, but could have used a few really good cards to put the deck over the top. </p>&#10;      <p>Jean Charles opened with the mighty <a>Wandering Ones</a>. Anton's first play of <a>Sakura-Tribe Elder</a> looked a bit better. It blocked the <a>Ronin Houndmaster</a> that entered play the next turn, and was sacrificed for a land. Anton then played a <a>Kami of the Hunt</a> and left one green mana open. It blocked the Samurai, but got bounced when Anton tried to play Kodama's Might. The <a>Feral Deceiver</a> he played the turn after that blocked a <a>Floating-Dream Zubera</a>, but died when the Zubera developed an Uncontrollable Rage. One turn later, Anton found himself at ten, with no non-land permanents in play, and facing four creatures. A <a>Pain Kami</a> gave him some hope, but a <a>Mystic Restraints</a> hit it, and it could only kill one creature. He could stabilize the board by playing four creatures over the next two turns, but he had only one life left. When Jean Charles played a Kami of Fire's <a>Roar</a> and a spirit, the game was over. </p>&#10;      <p>Both players kept their hands in Game 2. Although Anton started, Jean Charles made the first play with an <a>Ember-Fist Zubera</a>. Anton built his mana base with a Kodama's Reach and a <a>Sakura-Tribe Elder</a>, and even found the time to play <a>Pain Kami</a> while doing this. When Jean Charles tapped out for <a>Soratami Mirror-Mage</a>, he could sacrifice <a>Pain Kami</a>, but chose to play <a>Moss Kami</a> instead. The <a>Moss Kami</a> go hit by <a>Mystic Restraints</a>. Both players got a few more creatures into play, and when Jean Charles tapped out again, Anton wrecked his board with a <a>Glacial Ray</a> spliced into a Kodama's Might. He still couldn't apply much pressure, as his offense consisted of 2 Zubera an a <a>Matsu-Tribe Decoy</a>. He spliced the <a>Glacial Ray</a> again, this time into a <a>Devouring Rage</a>, when Jean Charles had rebuilt his board a bit. He then tried to clear the way for his remaining two Zubera, but Jean Charles played Uncontrollable Rage on his <a>Ember-Fist Zubera</a> to counter Anton's <a>Glacial Ray</a>. Anton then cast a <a>Ronin Houndmaster</a> and attacked with it and his <a>Ember-Fist Zubera</a>, not realising that both his creatures would die. Luckily for him, he drew more creatures, and although Jean Charles tried to buy some time by splicing <a>Consuming Vortex</a> onto <a>Lava Spike</a>, it wasn't enough to stop Anton's offense. </p>&#10;      <img src="https://i.ormos.uk/37/69/3769ef495e41cf16cc0c36e50b107df0f010b4287460dcc2f28d46fce82dfea7.jpg">&#10;      <p>Anton had to mulligan in he last game. Jean Charles quickly build an offense with <a>Ember-Fist Zubera</a>, <a>Soratami Rainshaper</a> and <a>Ronin Houndmaster</a>. Anton was at 9 when he got some kind of control, but he still had nothing to deal with the Rainshaper. He cast a few creatures, but died to the flier. </p>&#10;      <p>Jean Charles beats Anton Jonsson 2-1, and advances to the quartelfinals. </p>&#10;      <br>&#10;      <br>&#10;      <a name="19">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, November 07: 5:18 pm - Last Round Crunch</b>&#10;      </li>&#10;      <p>Only one more round to go and everything is still to play for. The top two tables are safe. Pavlos Akritas got a concession from his fellow countryman Bernardo Da Costa Cabral in the previous round and now the Belgian player is able to ID in with Anton Jonsson. Both Jean Charles Salvin and Wenzel Krautmann took the ID also.</p>&#10;      <p>With half the places locked up it gets a little complex.</p>&#10;      <img src="https://i.ormos.uk/dd/a0/dda04a3394421800fc921d787b759ce688963cf509b7545e5ad6ebff6a1a33ab.jpg">&#10;      <p>From the second pod Thomas Gundersen gets to play Erkki Siira for a guaranteed spot in the top 8 while Denis Tagunov plays Johnny Wallin. Ulrik Tarp plays Erkki Sisak for the last remaining slot from the first pod.</p>&#10;      <p>Meanwhile the winners of pods three and four, matches between Toni Rissanen and Mikko Leiviskä and Jan Schipkowski and Olivier Ruel, also stand a chance.</p>&#10;      <p>The more observant amongst you will notice that is 5 matches for just 4 places. Well if all the people currently on 31 points win then one of them will finish 9th on tiebreakers.</p>&#10;      <p>However Olivier Ruel and Johnny Wallin are both on 30 points. Ruel can make the top 8 on tiebreakers only if he and Wallin wins. Wallin can only make it if he and Ruel wins and he gains 2% tiebreakers over Olivier.</p>&#10;      <p>Okay. Got that?</p>&#10;      <br>&#10;      <a name="20">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, November 07: 5:23 pm - JSS Results</b>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <img src="https://i.ormos.uk/0f/58/0f582c0caac7e3d78dbc38ecee2c76b442ec72a0d55604a48cedebc5282a57bf.jpg">&#10;      <p>Also running at the same time as the Grand Prix is the Junior Super Series. This is open to competitors of 16 or under. The winner gets a free trip to a GP of their choice and both winner and runner-up get a free subscription to the Finnish gaming magazine &quot;Pelaaja&quot;. There were also medals and T-shirts for players reaching the top 8.</p>&#10;      <p>Maati Uusimaki was the overall winner. His Ironworks deck beat Sami Hägghvist's red-green Freshmaker deck 2-1 in the final.</p>&#10;      <br>&#10;      <a name="21">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, November 07: 5:49 pm - Feature Match Round 14 Erkki Siira vs. Thomas Gunderson</b>&#10;      </li>&#10;      <p>Both players had 31 points and needed a win to make it to the top 8. </p>&#10;      <img src="https://i.ormos.uk/3d/c1/3dc1109f047b23380735ee40be95bde961064c1ac5b6527e1f01cb3f2fb573d2.jpg">&#10;      <p>Erkki's deck was red-green, with 3 <a>Stone Rain</a>s. With no extraordinary cards, he would have to rely on his opponents to be mana-screwed. </p>&#10;      <p>Thomas played 3 colors, blue, red and white. He had a <a>Blind with Anger</a>, and <a>Godo, Bandit Warlord</a> that could fetch Tenza, Godo's Maul. He also had quite a few big blue fliers, and appeared to be the favorite. </p>&#10;      <p>Thomas chose to play, but had to start with a mulligan. His first play was a turn 3 <a>Callous Deceiver</a> off of 3 <a>Island</a>s. Erkki <a>Stone Rain</a>'ed one of them, and played a Matsu-Tribe Reaver. Tenza, Godo's Maul got attached to the Deceiver, and <a>Eerie Procession</a> found a <a>Consuming Vortex</a>, while Erkki played another <a>Stone Rain</a>, this time on Thomas' only <a>Plains</a>. Thomas had another <a>Plains</a>, and used it to cast <a>Ghostly Prison</a>. When Erkki played <a>Earthshaker</a>, he also played a <a>Mountain</a>, and was able to bounce the big spirit and kill the Reaver with <a>Consuming Vortex</a> and <a>Glacial Ray</a>. Erkki could replay the <a>Earthshaker</a>, and sweep Thomas' side of the table with a spirit and a Yamabushi's Flame. When Thomas played a <a>Kami of the Painted Road</a>, Thomas' <a>Earthshaker</a> attacked into it. The <a>Earthshaker</a> survived, but Erkki played a <a>Kami of the Hunt</a> after combat, not realising that his heavy beater would die from it's own ability. He couldn't put up much of a defense after this, and died to a couple of fliers. </p>&#10;      <p>In game 2, Erkki opened wih a <a>Hearth Kami</a>, but missed his third land drop. An <a>Eye of Nowhere</a> on one of his two lands didn't help. He could play lands every turn after that until he reched 6. He played a <a>Feral Deceiver</a>, which died to a Yamabushi's Flame, while casting two Flames himself, one of them on <a>Godo, Bandit Warlord</a>, that had just fetched it's Tenza. When Thomas tried to kill his newly-cast Matsu-Tribe Reaver and the <a>Hearth Kami</a> with <a>Blind with Anger</a>, Erkki just sacrificed the Kami to kill Tenza. He won the game with a <a>Sideswipe</a>, that reflected a <a>Glacial Ray</a> aimed at the Reaver. </p>&#10;      <img src="https://i.ormos.uk/6c/57/6c57aa1ff125697ebbe1e0216ea299ea22e7c6b34d147f374c873d9e4fecad35.jpg">&#10;      <p>In the last game, Thomas started things with <a>Soratami Cloudskater</a>, a Council of the Soratami and a Kami of Fire's <a>Roar</a>, while all Erkki could do was building his mana base with a Kodama's Reach. When Erkki cast a <a>Frostwielder</a> that threatened the Cloudskater, Thoma was able to enchant it with Tenza. But Erkki follwed up with <a>Iname, Life Aspect</a> and the Matsu-Tribe Reaver. When Thomas tried to bounce the Legend, Erkki had Sidewipe ready. After a bit of trading, the board was this: Erkii had Iname and <a>Kami of the Hunt</a>, and Thomas had Kami of Fire's <a>Roar</a>, Cloudskater with Tenza and a <a>Sire of the Storm</a>. Thomas was a 5 while Erkki was at 6. Erkki cast <a>Yamabushi's Flame</a> to deal with the Cloudskater, and then won the game with an <a>Unearthly Blizzard</a>. </p>&#10;      <p>Erkki Siira beat Thomas Gunderson, 2-1, and advances to the quarterfinals. </p>&#10;      <br>&#10;      <a name="22">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, November 07: 6:55 pm - Draft Report - The Top 8 Draft</b>&#10;      </li>&#10;      <p>This is it. The final draft. Mikko Leiviskä, Erkki Siira and Ulrik Tarp all came through their crunch matches. Olivier Ruel also managed to get the breaks he needed to sneak into 8th place. Now only one draft remains. As Salvin finished top of the swiss he had the right to choose who opened. He chose to make Tarp open, giving himself the 4th booster.</p>&#10;      <img src="https://i.ormos.uk/37/35/3735b1cace19823113aca4850371533929b04c5c2e60f45018b89fba947f8838.jpg">&#10;      <p>The seating was as follows:</p>&#10;      <p> 1. Ulrik Tarp<br> 2. Wenzel Krautmann<br> 3. Mikko Leiviskä<br> 4. Jean Charles Salvin<br> 5. Erkki Siira<br> 6. Olivier Ruel<br> 7. Anton Jonsson<br> 8. Pavlos Akrita</p>&#10;      <p>Tarp's first pick was the rather unimpressive <a>Gibbering Kami</a>. Krautmann scooped up <a>Mystic Restraints</a> while Leiviskä took a <a>Moss Kami</a>. As an indication of things to come Krautmann opened Kiku and immediately started up a scrap for black with Tarp. After the bounce Akritas randomly snatched a <a>Serpent Skin</a> to the disgust of Jonsson, who'd clearly signalled green by picking nothing else so far.</p>&#10;      <p>It got worse for Jonsson as Olivier Ruel, on the other side, opened <a>Kodama of the South Tree</a>. Up until now Ruel had only seen some mediocre white cards and saw an opportunity to improve his deck quality.</p>&#10;      <p>Fighting with your neighbour for green feels inadvisable in this format as it lacks depth. But as Jonsson's booster contained <a>Jugan, the Rising Star</a> a fight was pretty much inevitable. Behind Jonsson it looked like there might be three players trying to draft black in a row. Opening <a>Uyo, Silent Prophet</a> was persuasion enough to move Pavlos Akritas away and into blue-white.</p>&#10;      <p>After the first round it seemed like Tarp was in B/R, Krautmann B/U, Leiviskä G/R, Siira B/R, Ruel G/W, Jonsson G/R and with Salvin and Akritas with options open around blue and white.</p>&#10;      <p>In the following round of boosters Jonsson took a Kodama's Might over <a>Earthshaker</a>. This probably shows my ignorance of the format as I'd previously rated it as one of the better uncommons. Siira picked it up 4th and then managed to grab another one 7th pick later on.</p>&#10;      <p>The draft verged on chaos for the following booster as Ruel took a <a>Hanabi Blast</a> from nowhere. This gave Siira a <a>Swallowing Plague</a> but then Leiviskä, who'd been straight green-red so far, snaffled a <a>Befoul</a> from under Krautmann's nose. The German signalled his displeasure by hating a <a>Feral Deceiver</a> right back.</p>&#10;      <p>Leiviskä seemed happy to be the third in a line of black drafters, with another two seats away on the other side as he started swiping Rends. Salvin and Siira wisely kept out of the mess by sticking to blue-white and black-red respectively. On the other side of the table Akritas and Tarp were doing the same.</p>&#10;      <img src="https://i.ormos.uk/37/af/37afbb51f3a31edae4832eaff39099a6fbcef422391aaad33311558004390245.jpg">&#10;      <p>I think I decided Ruel was crazy when he took a <a>Sire of the Storm</a> from the last pack of the second round. Maybe it was just a hate draft. Then he started taking Mirror-Guards???</p>&#10;      <p>Perhaps it is best not to fathom the mind of Olivier Ruel.</p>&#10;      <p>Siira got a nice rare in Tatsumasa, the Dragon's Fang and then the silliness continued as Ruel opened Seshiro. Olivier had used the members of the snake family to great effect yesterday so he might as well continue the fun.</p>&#10;      <p>Krautmann was happy to pick up the 5th pick <a>Honden of Seeing Winds</a>.</p>&#10;      <p>Jonsson's misery was summed up as Ruel snatched a <a>Blood Rites</a> that would have excellent in his deck. Afterwards Jonsson said his deck was still okay but could have been ludicrous.</p>&#10;      <p>Ruel explained that he'd pretty much given up and started to take the best card he saw to try and dig himself out. To be fair, he did manage to pick up 2 <a>Orochi Leafcaller</a>, 2 Kodama's Reach and a <a>Sakura-Tribe Elder</a> to straighten out a mana base of double green, double blue and double red.</p>&#10;      <br>&#10;      <a name="23">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, November 07: 7:16 pm - Quarterfinals: Olivier Ruel vs. Wenzel Krautmann</b>&#10;      </li>&#10;      <p>Yesterday Ruel battled with a sealed deck that featured nearly all of the snake family. He liked them so much he drafted them again, as well as some double blue cards, and double red cards, oh and some white cards as well. He is French I suppose.</p>&#10;      <p>In contrast Krautmann drafted a far more sensible blue-black deck and should really be considered favourite in this match.</p>&#10;      <div>&#10;        <div>&#10;          <a>&#10;            <img alt="Soratami Rainshaper" src="https://i.ormos.uk/79/de/79de1ad30b64765e746a47f0a793ac346d95cc92cba73dc7638dec1029059a85.jpg">&#10;          </a>&#10;        </div>&#10;      </div>&#10;      <p>Krautmann elected to start and tripped with a mulligan. Ruel briefly threatened him with a <a>Dripping-Tongue Zubera</a> before Krautmann upped the race with a <a>Soratami Rainshaper</a>. Ruel skipped a play before powering out the son of the snake family, Sosuke.</p>&#10;      <p>Krautmann tied up Sosuke with <a>Mystic Restraints</a> and took a battering from a <a>Blood Speaker</a> and Rainshaper.</p>&#10;      <p>Sosuke still kept some venom as a lowly <a>Orochi Leafcaller</a> killed the ogre through the Basilisk ability. A <a>Thoughtbind</a> countered Kiku.</p>&#10;      <p>Then Ruel found <a>Blood Rites</a> and actually looked in danger of winning as he threw his crap monsters at Krautmann's fliers. He stabilised at 5 but then had to face down a <a>Callous Deceiver</a>. He let that through to drop to a precarious 3.</p>&#10;      <p>The Frenchman's deck was certainly comical, but Krautmann wasn't laughing. <a>Blind with Anger</a> stole the Deceiver, which attacked and then threw itself at Krautmann's head through the <a>Blood Rites</a>.</p>&#10;      <p>The crazy Frenchman couldn't take this game surely.</p>&#10;      <p>Krautmann dug the Deceiver back out of his graveyard with <a>Soulless Revival</a>. It held Ruel at bay for a turn until the Frenchman dropped a quality card in <a>Kodama of the South Tree</a> to win an unlikely first game.</p>&#10;      <p>For some reason Krautmann had chosen not to use the <a>Blood Speaker</a>'s ability despite having a number of useful Demons in his deck.</p>&#10;      <p>Ruel 1-0 Krautmann.</p>&#10;      <p>Ruel found a turn two <a>Sakura-Tribe Elder</a> and was able to find all three colours by turn 3. In contrast Krautmann couldn't find his second. He played three swamps and a <a>Villainous Ogre</a>. He then spent the rest of the game saying &quot;go.&quot;</p>&#10;      <p>When Ruel hit 6 mana and dropped Seshiro to go with Sosuke and a Mirror-Guard Krautmann packed it in out of sheer disgust.</p>&#10;      <p>Olivier &quot;so lucky&quot; Ruel beats Wenzel &quot;so unlucky&quot; Krautmann 2-0 and advances to the semi-finals. </p>&#10;      <br>&#10;      <a name="24">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, November 07: 7:44 pm - Semifinals: Jean Charles Salvin vs. Olivier Ruel</b>&#10;      </li>&#10;      <p>What silliness awaits us now?</p>&#10;      <img src="https://i.ormos.uk/75/84/75848e7396f1903a9b032945daa67ca4433b20f5c2ccddb37a44dba63bf14c6e.jpg">&#10;      <p>The clown prince of magic is loose with a crazy three colour deck. Ruel's opponent, Jean Charles Salvin has a solid looking blue-white deck. I'm late to arrive and after asking me if I'm ready both players flip over a land and one drop. Salvin has a <a>Lantern Kami</a>, Ruel an <a>Orochi Leafcaller</a>.</p>&#10;      <p>The ground stalls up a little with a <a>Callous Deceiver</a> from Salvin and the first member of the snake family, Sosuke from Ruel. <a>Cage of Hands</a> takes care of Sosuke, but only for a moment as Ruel has the audacity to steal Salvin's own <a>Kami of Ancient Law</a> with <a>Blind with Anger</a> to destroy the Cage.</p>&#10;      <p>Salvin is stuck for land while two <a>Kodama's Reach</a> means Ruel has no trouble with his three colour abomination.</p>&#10;      <p>&#10;        <a>Blood Rites</a> came out for Ruel and soon Salvin is down to a <a>Callous Deceiver</a> and <a>Lantern Kami</a> to Ruel's Sosuke.</p>&#10;      <p>&#10;        <a>Petals of Insight</a> fetched some cards for Ruel. Some trickiness happened as Salvin blocked with <a>Lantern Kami</a> and attempted to save it with Otherwordly Journey. Ruel tried to blast it in response with <a>Hanabi Blast</a>. An Indominatable Will came out to save it although the enchantment is lost when the <a>Lantern Kami</a> vanishes on its journey.</p>&#10;      <p>Next turn Ruel made Seshiro and Salvin conceded in the face of the all powerful snake family.</p>&#10;      <p>Ruel 1-0 Salvin</p>&#10;      <p>A cheeky <a>Thoughtbind</a> from Ruel takes out Salvin's Mirror-Guard early into Game 2. Ruel followed up with his own Mirror-Guard and the board quickly became complicated as a Mirror-Guard raced <a>Teller of Tales</a> with the ground completely clogged up.</p>&#10;      <img src="https://i.ormos.uk/73/a0/73a08f92261a74f1198dcd17a8932635c98406ff69167e56054188314d7f8b61.jpg">&#10;      <p>&#10;        <a>Kodama of the South Tree</a> looked worrisome for Salvin. With the life totals at 11 to 12 Ruel drew 3 cards off a <a>Petals of Insight</a> and then sent in his whole army.</p>&#10;      <p>The result is Salvin dropping to 2 life and then striking back with a 4/4 <a>Teller of Tales</a>, unfortunately just one damage away from being able to alpha strike for the win.</p>&#10;      <p>The pendulum shifted back to Ruel. One arcane spell would do it as he could use <a>Kodama of the South Tree</a> to pump a <a>Dripping-Tongue Zubera</a> to 2/3 and make it unblockable with the Mirror-Guard. Ruel had a <a>Kodama's Reach</a> and that was enough to take the game and match.</p>&#10;      <p>Olivier Ruel beats Jean Charles Salvin 2-0.</p>&#10;      <br>&#10;      <a name="25">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, November 07: 8:08 pm - Quarterfinals: Mikko Leiviska vs. Anton Jonsson</b>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <img src="https://i.ormos.uk/45/71/45716e6f468a1cc2436ad210204ec010002b5ad805ee588766d20e3823f20da2.jpg">&#10;      <p>Mikko win the die roll, chose to play. Both players were happy to keep their hands.Each side laid a forest. G-b for Mikko. Anton's second forest made an <a>Orochi Ranger</a>, answered with a Kami of Waning Moon. Anton dropped forest 3; the Ranger attacked. The Kami surprisingly blocked, ran into a <a>Kodama's Might</a>. An <a>Orochi Sustainer</a> turned up after combat. <a>Burr Grafter</a> for Mikko. <a>Orochi Ranger</a> got in this time, and <a>Sakura-Tribe Elder</a> and <a>Matsu-Tribe Decoy</a> joined play. Mikko's second swamp meant he could get a <a>Venerable Kumo</a> out. Anton sacrificed his Sakura-Tride Elder. It appeared he was also playing mountains. <a>Pain Kami</a> and <a>Orochi Eggwatcher</a> turned up this time. He massively outnumbered Mikko's army, but nothing could attack safely. Another <a>Orochi Sustainer</a> hit play - all Anton's cards were in play. Mikko laid another land. His hand was mostly red. Still no mountains. He dropped a <a>Soilshaper</a>. Meanwhile, Anton's token army swelled. Soon he'd be ready to flip into Shidako, Broodmistress. Mikko played nothing. It was 9-3 in creatures now, and still nothing with 3 power. In Anton's main phase, he flips the <a>Orochi Eggwatcher</a>. Finally there might be some action. He thought about the pain kami, and it went into the red zone. Complex soulshift later and <a>Kami of the Waning Moon</a> and <a>Burr Grafter</a> are in Mikko's hand, <a>Venerable Kumo</a> and <a>Pain Kami</a> are dead. End of turn saw the Broodmistress rent - like all flesh. Mikko brought out a <a>Moss Kami</a>. The 5/5 looked like ruling the board. Anton had an <a>Order of the Sacred Bell</a>. <a>Kami of the Waning Moon</a> and Grafter later, Mikko's <a>Moss Kami</a> had fear and swung for a painful 5. Anton was thinking heavily now. Each of his turns was twice as long as Mikko's. He finally attacked with everything, making all Mikko's guys block the decoy. Mikko took 12. Luckily, the decoy was dead, but he was still facing down 8 creatures. He beat down with the <a>Moss Kami</a> and dropped 2 blockers - <a>Orochi Ranger</a> and his own Decoy. Anton couldn't attack. Next turn a spirit finally showed up for Mikko and that's that. </p>&#10;      <p>Mikko Leiviska 1 - 0 Anton Jonsson</p>&#10;      <h3>Game 2</h3>&#10;      <p>The &quot;good luck&quot; sounds as sincere as ever at the start of this one. Anton obviously didn't see any of it. Down to 6 straight away. He looked unhappy, but held these ones. Mikko was good with 7. This game Anton had his early colours and ramping. Turn 2 <a>Sakura-Tribe Elder</a> meant he had four land on turn 3, and both his colours in doubles. His <a>Feral Deceiver</a> was matched by a Cruel one from Mikko to go with his <a>Orochi Ranger</a>. Anton was still having no trouble dropping land. Feral beat down on Cruel, and Anton revealed a <a>Forest</a> without checking first. This let him have a <a>Pain Kami</a> too. Mikko could only summon a <a>Kashi-Tribe Reaver</a>, which was soon overshadowed by <a>Jugan, the Rising Star</a>. He was representing for team Sweden, and things looked grim for the Finn now. Mikko finally played a <a>Mountain</a>, but he didn't seem to have too many outs. <a>Sosuke, Son of Seshiro</a> made the snake warriors all deadly, but that doesn't matter if you're losing a race this badly. Anton looked at his top card in upkeep. It was obviously not the land he wanted, as he frowns rather. He made his dragon nearly halve Mikko's life total, and left the rest of the team back to play defence. Mikko's <a>Soilshaper</a> wasn't an answer. His <a>Glacial Ray</a> for the <a>Feral Deceiver</a> might have helped, but once again Anton hit a land blind. Mikko swung desperately with the team. All the other matches were over, but this wasn't enough to do the same here. Anton returned the favour fatally, and off to game 3 we headed.</p>&#10;      <p>Mikko 1 - Anton 1</p>&#10;      <h3>Game 3</h3>&#10;      <img src="https://i.ormos.uk/ec/53/ec536e2f66f92086804cff6d248b6078b55fc1496c8254340fbab22c699774da.jpg">&#10;      <p>They were both happy with their hands. Anton's had turn 2 elder again, while Mikko seemed to have no play by turn 3. Anton's 3rd turn 4/3 was met by a <a>Kashi-Tribe Reaver</a>, but the Reaver wouldn't be blocking till it could regenerate, so he could nip for 4 with impunity. The Order was joined by a Deceiver, and then next turn another Elder. Mikko had kept up the mana to regenerate this time though, and blocked the Deceiver, rending the Order asunder. Anton had found another land on top though, so the <a>Feral Deceiver</a> lived. Mikko's <a>Dripping-Tongue Zubera</a> was matched by Anton's Decoy, but then next turn Mikkos <a>Befoul</a>ed the Deceiver and attacked again. Anton summoned a <a>Venerable Kumo</a> to serve defence, and maybe bring back the Deceiver if it could. Sosuke joined Mikko's team before combat, so the Elder decided to block the reaver and become a land. Anton could only make a Sustainer. Another <a>Befoul</a> from Mikko, and an attack, and Anton was on 7. He played an Eggwatcher in his turn, but that was it. Anton was reduced to chumping the Reaver, but managed to kill Seshiro with a well-timed <a>Kodama's Might</a>. The <a>Feral Deceiver</a> was back. Mikko then rended the Eggwatcher and attacked with land and Reaver. Anton revealed before blocks but finally missed without looking. Anton's Ranger kept the Kashi-Tribe off his back for a turn, which he took full advantage of. The game was wide open. Anton made another Deceiver on his next turn, but I'd nearly fallen asleep by the time he attacked. Mikko made a spirit. The <a>Devouring Rage</a> in his hand meant that if one of his 4 attackers got through the 3 defenders he won. And he did, taking top amateur in the process.</p>&#10;      <p>Mikko 2 - 1 Anton </p>&#10;      <br>&#10;      <a name="26">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, November 07: 8:32 pm - Finals: Olivier Ruel vs Mikko Leiviskä</b>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <img src="https://i.ormos.uk/92/c0/92c0f2b9047bf26a60230b405450fdf06ccfcd2d614a2c498ba283ad18e7ad38.jpg">&#10;      <p>While Olivier Ruel is one of the more famous names in the top 8 of this Grand Prix, his route here has certainly been unlikely. Ruel needed to win the last four rounds and also have other results go his way just to reach the final. And in the final draft his strategy was eccentric to say the least, as the Frenchman seemed to be drafting four different colours at one point. Despite this the clown prince of Magic requires only one more victory to claim his first ever Grand Prix title.</p>&#10;      <p>Opposing him is Mikko Leiviskä, one of two amateurs from Finland to make the last eight. His deck is also three colour, but he is running black rather than blue as the third colour. </p>&#10;      <p>Finally Ruel ran into mana problems as he laid two lands and then spent the next three turns discarding.</p>&#10;      <p>Leiviskä summoned <a>Matsu-Tribe Decoy</a>, <a>Rootrunner</a>, <a>Venerable Kumo</a> and smashed face.</p>&#10;      <p>Finally a forest arrived and Ruel dropped a <a>Sakura-Tribe Elder</a>. That prevented 3 damage and went off in search of a forest. Ruel's deck finally started kicking a little too late. <a>Kodama's Reach</a> fetched the sorely needed land and he made a <a>Dripping-Tongue Zubera</a> to block with.</p>&#10;      <p>Too late though and Ruel conceded in the face of Leiviskä's horde.</p>&#10;      <p>Leiviskä 1-0 Ruel</p>&#10;      <p>Ruel had a forest this game and led off with a <a>Orochi Leafcaller</a> and followed with a <a>Dripping-Tongue Zubera</a>. He skipped a play on turn three while Leiviskä hit him back with a <a>Soilshaper</a>. Leiviskä followed it up with <a>Orochi Ranger</a>.</p>&#10;      <img src="https://i.ormos.uk/92/e9/92e914068d6aaf303f9441ba917d03ab861a9c3cbfaea44a766a40633a03ba06.jpg">&#10;      <p>Ruel hit four mana and dropped his bomb, <a>Kodama of the South Tree</a>. Next turn he used the Leafcaller for blue to cast <a>Petals of Insight</a>, pumping all his guys with the Kodama before flinging them into the red zone.</p>&#10;      <p>Leiviskä was down to 7 and reeling.</p>&#10;      <p>He struck back with a Ranger and <a>Burr Grafter</a>. Ruel made a <a>Kami of the Hunt</a> and swung again, knocking Leiviskä to 3.</p>&#10;      <p>The Finn tried to fight back with a <a>Rend Flesh</a> on the Leafcaller, splicing <a>Glacial Ray</a> to kill the <a>Kami of the Hunt</a>. Ruel had a <a>Serpent Skin</a> to save it and that was enough to level the match.</p>&#10;      <p>Leiviskä 1-1 Ruel</p>&#10;      <p>Leiviskä opened with a <a>Callous Deceiver</a> only for a Sakura Tribe Elder to hold it off. Ruel left the annoying Elder around and ramped up with <a>Kodama's Reach</a> instead. Leiviskä didn't really have a choice, he sent in both an <a>Orochi Ranger</a> and Deceiver, losing the Ranger to the Elder.</p>&#10;      <p>The game then went horribly wrong for the Finn as he stuck on three mana. Ruel powered out <a>Sire of the Storm</a> to put himself in a very commanding position.</p>&#10;      <p>A fourth land enabled Leiviskä to <a>Befoul</a> it, but he was in trouble as Ruel now had three monsters and <a>Blood Rites</a> on the table.</p>&#10;      <p>A <a>Rend Flesh</a> on a Leafcaller only resulted in his own Deceiver dead. Akuba and <a>Rootrunner</a> came out, but had no chance of sticking around against <a>Blood Rites</a>.</p>&#10;      <img src="https://i.ormos.uk/84/44/844480fb5210f4acd8b5807fa71a257c8502746eb125a864e2bb0216e1486119.jpg">&#10;      <p>Ruel compounded the agony with <a>Kodama of the South Tree</a>. Leiviskä kept killing creatures only for them to be thrown at his head. <a>Kodama of the South Tree</a> faced off <a>Wicked Akuba</a>.</p>&#10;      <p>Ruel summoned a Mirror-Guard and then cleared the Akuba out of the way with <a>Hanabi Blast</a>. The Kodama bashed Leiviskä down to 4 and left the Finn with no way back. He drew a card and then conceded, handing Ruel his first ever individual Grand Prix Title.</p>&#10;      <p>Olivier Ruel beats Mikko Leiviskä 2-1 and is the champion of Grand Prix Helsinki!</p>&#10;      <br>&#10;    </td>&#10;  </tr>&#10;</tbody></table>

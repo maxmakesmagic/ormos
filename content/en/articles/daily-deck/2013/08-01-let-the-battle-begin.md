@@ -1,0 +1,222 @@
+---
+id: cvhp4r7e
+kind: article
+lang: en
+path: /en/articles/daily-deck/2013/08-01-let-the-battle-begin
+title: Let the Battle Begin
+published: '2013-08-01'
+column_slug: daily-deck
+column: Daily Deck
+authors:
+- slug: luis-scott-vargas-b9f80086
+  name: Luis Scott-Vargas
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/daily-deck/let-battle-begin-2013-07-31
+    lang_detected: en
+    capture_id: 277899
+    url: https://magic.wizards.com/en/articles/archive/daily-deck/let-battle-begin-2013-07-31
+    captured_at: '2021-10-19 19:17:44+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/daily-deck/let-battle-begin-2013-07-31
+    lang_detected: en
+    capture_id: 277899
+    url: https://magic.wizards.com/en/articles/archive/daily-deck/let-battle-begin-2013-07-31
+    captured_at: '2021-10-19 19:17:44+00'
+    rule: drupal.posted_in_date
+  authors:
+    page_key: magic.wizards.com/en/articles/archive/daily-deck/let-battle-begin-2013-07-31
+    lang_detected: en
+    capture_id: 277899
+    url: https://magic.wizards.com/en/articles/archive/daily-deck/let-battle-begin-2013-07-31
+    captured_at: '2021-10-19 19:17:44+00'
+    rule: drupal.div_author
+  column:
+    page_key: magic.wizards.com/en/articles/archive/daily-deck/let-battle-begin-2013-07-31
+    lang_detected: en
+    capture_id: 277899
+    url: https://magic.wizards.com/en/articles/archive/daily-deck/let-battle-begin-2013-07-31
+    captured_at: '2021-10-19 19:17:44+00'
+    rule: url.article_section
+  duplicate_sources:
+  - mdxg24pw
+sources:
+- document_id: cvhp4r7e
+  url: https://magic.wizards.com/en/articles/archive/daily-deck/let-battle-begin-2013-07-31
+  page_key: magic.wizards.com/en/articles/archive/daily-deck/let-battle-begin-2013-07-31
+  lang: en
+  template: drupal
+  captured_at: '2021-10-19 19:17:44+00'
+  capture_id: 277899
+  wayback_url: https://web.archive.org/web/20211019191744id_/https://magic.wizards.com/en/articles/archive/daily-deck/let-battle-begin-2013-07-31
+- document_id: mdxg24pw
+  url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/deck/1289
+  page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/deck/1289
+  lang: en
+  template: aspx
+  captured_at: '2014-02-17 09:07:48+00'
+  capture_id: 386280
+  wayback_url: https://web.archive.org/web/20140217090748id_/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/deck/1289
+source_selection: Kept this article's selected capture and recorded the matching captures.
+archive_source:
+  document_id: cvhp4r7e
+  capture_id: 277899
+  url: https://magic.wizards.com/en/articles/archive/daily-deck/let-battle-begin-2013-07-31
+  wayback_url: https://web.archive.org/web/20211019191744id_/https://magic.wizards.com/en/articles/archive/daily-deck/let-battle-begin-2013-07-31
+  captured_at: '2021-10-19 19:17:44+00'
+  template: drupal
+  sha256: 0e834b4d4bc1f9b50cbbad80e800e3bf2d2b705c9a9de0cc965456fb60d1e954
+render_recovery:
+- code: image_without_source
+  element: img
+  reason: The preview omitted the image because it had no usable source address.
+  occurrences: 1
+- code: deck_widget_requires_review
+  element: a
+  reason: The archived deck widget has no visible card rows. The source capture may
+    contain data to recover it.
+  labels:
+  - Decklist
+  occurrences: 1
+---
+I've always been a fan of [Battle of Wits](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Battle+of+Wits), and the fact that William "Huey" Jensen [Top 8ed Grand Prix Milwaukee](https://web.archive.org/web/20130801000000/http://archive.wizards.com/magic/Magazine/Article.aspx?x=sideboard/gpmil02/top8decks) with Battle has always impressed me. There is something so awesome about playing so many cards, both for the incredibly varied game experiences and because you get to feel like you literally outwitted your opponent when you win with Battle. 
+
+[![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Battle+of+Wits)](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Battle+of+Wits)
+
+When **Magic** 2013 came out, I tried to do just that, win with [Battle of Wits](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Battle+of+Wits), but did not have as much success as I would have liked. It's hard to build a viable Battle deck, and I was unable to make a ton of headway. Imagine my surprise when I saw that Patrick Chapin wrote about a potential Battle list in [this (Premium) article](http://www.starcitygames.com/article/26562_Magic-2014-Conclusion-New-Decks.html). 
+
+He was examining a number of potential new brews in Standard, and [Battle of Wits](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Battle+of+Wits) was one of them. Much like the Battle lists I was trying, he stuck with just two colors, blue and black. The main reason for that is mana; with a 231-card deck, you run out of dual lands very quickly, and the more colors you play, the more trouble you are asking for. Unfortunately, mono-blue is not deep enough to be an option, so Patrick went with black, mainly for removal. 
+
+This deck is exactly what I want to be doing in a normal deck, just writ large. It's all removal, card draw, and counterspells, which sounds glorious. It's got a few ways to find [Battle of Wits](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Battle+of+Wits), a lot of ways to make sure you survive until you can do so, and even [Ætherling](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=%C3%86therling)s to provide a very solid backup plan. It even has the one [Elixir of Immortality](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Elixir+of+Immortality) necessary to make sure you can always get back to above 200 cards, regardless of how many [Forbidden](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Forbidden) Alchemies you've cast. 
+
+[Battle of Wits](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Battle+of+Wits) is an awesome time, and I'd highly recommend it. I've found it to be more fun on **Magic Online**, just because shuffling is such a pain, but there is something to be said for 
+
+#### Patrick Chapin's Battle of Wits
+
+##### 
+
+ ![Download Arena Decklist](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png) ![](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+[Decklist](#none) [Stats](#none) [Sample Hand](#none) 
+
+Sort by: 
+
+##### Planeswalker (5)
+
+4 [Jace, Architect of Thought](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5BArchitect%5D+%5Bof%5D+%5BThought%5D) 1 [Jace, Memory Adept](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5BMemory%5D+%5BAdept%5D) 
+
+##### Creature (12)
+
+4 [Ætherling](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5B%C3%86therling%5D) 4 [Augur of Bolas](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAugur%5D+%5Bof%5D+%5BBolas%5D) 4 [Snapcaster Mage](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSnapcaster%5D+%5BMage%5D) 
+
+##### Sorcery (27)
+
+4 [Pilfered Plans](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPilfered%5D+%5BPlans%5D) 4 [Diabolic Revelation](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDiabolic%5D+%5BRevelation%5D) 2 [Amass the Components](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAmass%5D+%5Bthe%5D+%5BComponents%5D) 4 [Increasing Ambition](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIncreasing%5D+%5BAmbition%5D) 1 [Sever the Bloodline](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSever%5D+%5Bthe%5D+%5BBloodline%5D) 4 [Divination](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDivination%5D) 4 [Barter in Blood](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBarter%5D+%5Bin%5D+%5BBlood%5D) 4 [Diabolic Tutor](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDiabolic%5D+%5BTutor%5D) 
+
+##### Instant (59)
+
+4 [Warped Physique](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWarped%5D+%5BPhysique%5D) 4 [Far // Away](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFar%5D+%5B&%5D+%5BAway%5D) 4 [Devour Flesh](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDevour%5D+%5BFlesh%5D) 4 [Psychic Strike](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPsychic%5D+%5BStrike%5D) 4 [Thought Scour](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThought%5D+%5BScour%5D) 4 [Tragic Slip](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTragic%5D+%5BSlip%5D) 4 [Tribute to Hunger](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTribute%5D+%5Bto%5D+%5BHunger%5D) 4 [Forbidden Alchemy](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForbidden%5D+%5BAlchemy%5D) 4 [Doom Blade](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDoom%5D+%5BBlade%5D) 4 [Essence Scatter](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEssence%5D+%5BScatter%5D) 1 [Cancel](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCancel%5D) 4 [Think Twice](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThink%5D+%5BTwice%5D) 4 [Syncopate](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSyncopate%5D) 2 [Opportunity](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOpportunity%5D) 4 [Cremate](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCremate%5D) 4 [Dissipate](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDissipate%5D) 
+
+##### Artifact (17)
+
+4 [Dimir Cluestone](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDimir%5D+%5BCluestone%5D) 4 [Dimir Keyrune](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDimir%5D+%5BKeyrune%5D) 4 [Ratchet Bomb](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRatchet%5D+%5BBomb%5D) 1 [Elixir of Immortality](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElixir%5D+%5Bof%5D+%5BImmortality%5D) 4 [Prophetic Prism](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BProphetic%5D+%5BPrism%5D) 
+
+##### Enchantment (9)
+
+4 [Dead Weight](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDead%5D+%5BWeight%5D) 1 [Curse of Death's Hold](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCurse%5D+%5Bof%5D+%5BDeath%5D+%5BHold%5D) 4 [Battle of Wits](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBattle%5D+%5Bof%5D+%5BWits%5D) 
+
+##### Land (102)
+
+4 [Encroaching Wastes](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEncroaching%5D+%5BWastes%5D) 4 [Dimir Guildgate](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDimir%5D+%5BGuildgate%5D) 4 [Evolving Wilds](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEvolving%5D+%5BWilds%5D) 4 [Drowned Catacomb](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrowned%5D+%5BCatacomb%5D) 4 [Mutavault](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMutavault%5D) 4 [Ghost Quarter](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhost%5D+%5BQuarter%5D) 4 [Watery Grave](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWatery%5D+%5BGrave%5D) 34 [Swamp](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D) 40 [Island](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D) 
+
+231 Cards 
+
+##### Blue (58)
+
+4 [Ætherling](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5B%C3%86therling%5D) 4 [Augur of Bolas](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAugur%5D+%5Bof%5D+%5BBolas%5D) 4 [Snapcaster Mage](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSnapcaster%5D+%5BMage%5D) 4 [Far // Away](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFar%5D+%5B&%5D+%5BAway%5D) 2 [Amass the Components](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAmass%5D+%5Bthe%5D+%5BComponents%5D) 4 [Thought Scour](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThought%5D+%5BScour%5D) 4 [Forbidden Alchemy](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForbidden%5D+%5BAlchemy%5D) 4 [Divination](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDivination%5D) 4 [Essence Scatter](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEssence%5D+%5BScatter%5D) 1 [Cancel](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCancel%5D) 4 [Think Twice](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThink%5D+%5BTwice%5D) 4 [Syncopate](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSyncopate%5D) 4 [Battle of Wits](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBattle%5D+%5Bof%5D+%5BWits%5D) 2 [Opportunity](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOpportunity%5D) 4 [Dissipate](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDissipate%5D) 4 [Jace, Architect of Thought](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5BArchitect%5D+%5Bof%5D+%5BThought%5D) 1 [Jace, Memory Adept](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5BMemory%5D+%5BAdept%5D) 
+
+##### Black (42)
+
+4 [Devour Flesh](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDevour%5D+%5BFlesh%5D) 4 [Diabolic Revelation](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDiabolic%5D+%5BRevelation%5D) 4 [Tragic Slip](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTragic%5D+%5BSlip%5D) 4 [Increasing Ambition](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIncreasing%5D+%5BAmbition%5D) 4 [Tribute to Hunger](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTribute%5D+%5Bto%5D+%5BHunger%5D) 1 [Sever the Bloodline](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSever%5D+%5Bthe%5D+%5BBloodline%5D) 4 [Dead Weight](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDead%5D+%5BWeight%5D) 1 [Curse of Death's Hold](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCurse%5D+%5Bof%5D+%5BDeath%5D+%5BHold%5D) 4 [Doom Blade](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDoom%5D+%5BBlade%5D) 4 [Barter in Blood](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBarter%5D+%5Bin%5D+%5BBlood%5D) 4 [Diabolic Tutor](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDiabolic%5D+%5BTutor%5D) 4 [Cremate](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCremate%5D) 
+
+##### Multi colored (12)
+
+4 [Warped Physique](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWarped%5D+%5BPhysique%5D) 4 [Pilfered Plans](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPilfered%5D+%5BPlans%5D) 4 [Psychic Strike](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPsychic%5D+%5BStrike%5D) 
+
+##### Colorless (119)
+
+4 [Encroaching Wastes](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEncroaching%5D+%5BWastes%5D) 4 [Dimir Guildgate](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDimir%5D+%5BGuildgate%5D) 4 [Evolving Wilds](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEvolving%5D+%5BWilds%5D) 4 [Drowned Catacomb](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrowned%5D+%5BCatacomb%5D) 4 [Mutavault](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMutavault%5D) 4 [Ghost Quarter](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhost%5D+%5BQuarter%5D) 4 [Watery Grave](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWatery%5D+%5BGrave%5D) 34 [Swamp](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D) 40 [Island](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D) 4 [Dimir Cluestone](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDimir%5D+%5BCluestone%5D) 4 [Dimir Keyrune](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDimir%5D+%5BKeyrune%5D) 4 [Ratchet Bomb](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRatchet%5D+%5BBomb%5D) 1 [Elixir of Immortality](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElixir%5D+%5Bof%5D+%5BImmortality%5D) 4 [Prophetic Prism](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BProphetic%5D+%5BPrism%5D) 
+
+231 Cards 
+
+##### 1 (21)
+
+4 [Thought Scour](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThought%5D+%5BScour%5D) 4 [Tragic Slip](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTragic%5D+%5BSlip%5D) 4 [Dead Weight](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDead%5D+%5BWeight%5D) 1 [Elixir of Immortality](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElixir%5D+%5Bof%5D+%5BImmortality%5D) 4 [Syncopate](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSyncopate%5D) 4 [Cremate](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCremate%5D) 
+
+##### 2 (40)
+
+4 [Augur of Bolas](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAugur%5D+%5Bof%5D+%5BBolas%5D) 4 [Snapcaster Mage](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSnapcaster%5D+%5BMage%5D) 4 [Warped Physique](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWarped%5D+%5BPhysique%5D) 4 [Far // Away](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFar%5D+%5B&%5D+%5BAway%5D) 4 [Devour Flesh](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDevour%5D+%5BFlesh%5D) 4 [Ratchet Bomb](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRatchet%5D+%5BBomb%5D) 4 [Prophetic Prism](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BProphetic%5D+%5BPrism%5D) 4 [Doom Blade](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDoom%5D+%5BBlade%5D) 4 [Essence Scatter](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEssence%5D+%5BScatter%5D) 4 [Think Twice](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThink%5D+%5BTwice%5D) 
+
+##### 3 (33)
+
+4 [Pilfered Plans](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPilfered%5D+%5BPlans%5D) 4 [Dimir Cluestone](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDimir%5D+%5BCluestone%5D) 4 [Dimir Keyrune](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDimir%5D+%5BKeyrune%5D) 4 [Psychic Strike](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPsychic%5D+%5BStrike%5D) 4 [Tribute to Hunger](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTribute%5D+%5Bto%5D+%5BHunger%5D) 4 [Forbidden Alchemy](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForbidden%5D+%5BAlchemy%5D) 4 [Divination](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDivination%5D) 1 [Cancel](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCancel%5D) 4 [Dissipate](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDissipate%5D) 
+
+##### 4 (15)
+
+2 [Amass the Components](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAmass%5D+%5Bthe%5D+%5BComponents%5D) 1 [Sever the Bloodline](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSever%5D+%5Bthe%5D+%5BBloodline%5D) 4 [Barter in Blood](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBarter%5D+%5Bin%5D+%5BBlood%5D) 4 [Diabolic Tutor](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDiabolic%5D+%5BTutor%5D) 4 [Jace, Architect of Thought](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5BArchitect%5D+%5Bof%5D+%5BThought%5D) 
+
+##### 5 (14)
+
+4 [Diabolic Revelation](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDiabolic%5D+%5BRevelation%5D) 4 [Increasing Ambition](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIncreasing%5D+%5BAmbition%5D) 1 [Curse of Death's Hold](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCurse%5D+%5Bof%5D+%5BDeath%5D+%5BHold%5D) 4 [Battle of Wits](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBattle%5D+%5Bof%5D+%5BWits%5D) 1 [Jace, Memory Adept](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5BMemory%5D+%5BAdept%5D) 
+
+##### 6 (6)
+
+4 [Ætherling](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5B%C3%86therling%5D) 2 [Opportunity](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOpportunity%5D) 
+
+129 Cards 
+
+##### Common (137)
+
+4 [Dimir Guildgate](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDimir%5D+%5BGuildgate%5D) 4 [Evolving Wilds](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEvolving%5D+%5BWilds%5D) 34 [Swamp](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D) 40 [Island](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D) 4 [Pilfered Plans](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPilfered%5D+%5BPlans%5D) 4 [Dimir Cluestone](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDimir%5D+%5BCluestone%5D) 4 [Devour Flesh](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDevour%5D+%5BFlesh%5D) 4 [Psychic Strike](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPsychic%5D+%5BStrike%5D) 2 [Amass the Components](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAmass%5D+%5Bthe%5D+%5BComponents%5D) 4 [Thought Scour](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThought%5D+%5BScour%5D) 4 [Tragic Slip](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTragic%5D+%5BSlip%5D) 4 [Dead Weight](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDead%5D+%5BWeight%5D) 4 [Prophetic Prism](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BProphetic%5D+%5BPrism%5D) 4 [Divination](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDivination%5D) 4 [Essence Scatter](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEssence%5D+%5BScatter%5D) 1 [Cancel](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCancel%5D) 4 [Think Twice](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThink%5D+%5BTwice%5D) 4 [Syncopate](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSyncopate%5D) 4 [Cremate](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCremate%5D) 
+
+##### Uncommon (47)
+
+4 [Encroaching Wastes](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEncroaching%5D+%5BWastes%5D) 4 [Ghost Quarter](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhost%5D+%5BQuarter%5D) 4 [Augur of Bolas](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAugur%5D+%5Bof%5D+%5BBolas%5D) 4 [Warped Physique](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWarped%5D+%5BPhysique%5D) 4 [Far // Away](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFar%5D+%5B&%5D+%5BAway%5D) 4 [Dimir Keyrune](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDimir%5D+%5BKeyrune%5D) 4 [Tribute to Hunger](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTribute%5D+%5Bto%5D+%5BHunger%5D) 4 [Forbidden Alchemy](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForbidden%5D+%5BAlchemy%5D) 1 [Elixir of Immortality](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElixir%5D+%5Bof%5D+%5BImmortality%5D) 4 [Barter in Blood](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBarter%5D+%5Bin%5D+%5BBlood%5D) 4 [Diabolic Tutor](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDiabolic%5D+%5BTutor%5D) 2 [Opportunity](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOpportunity%5D) 4 [Dissipate](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDissipate%5D) 
+
+##### Rare (42)
+
+4 [Drowned Catacomb](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrowned%5D+%5BCatacomb%5D) 4 [Mutavault](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMutavault%5D) 4 [Watery Grave](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWatery%5D+%5BGrave%5D) 4 [Ætherling](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5B%C3%86therling%5D) 4 [Snapcaster Mage](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSnapcaster%5D+%5BMage%5D) 4 [Diabolic Revelation](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDiabolic%5D+%5BRevelation%5D) 4 [Increasing Ambition](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIncreasing%5D+%5BAmbition%5D) 1 [Sever the Bloodline](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSever%5D+%5Bthe%5D+%5BBloodline%5D) 1 [Curse of Death's Hold](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCurse%5D+%5Bof%5D+%5BDeath%5D+%5BHold%5D) 4 [Ratchet Bomb](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRatchet%5D+%5BBomb%5D) 4 [Doom Blade](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDoom%5D+%5BBlade%5D) 4 [Battle of Wits](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBattle%5D+%5Bof%5D+%5BWits%5D) 
+
+##### Mythic (5)
+
+4 [Jace, Architect of Thought](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5BArchitect%5D+%5Bof%5D+%5BThought%5D) 1 [Jace, Memory Adept](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5BMemory%5D+%5BAdept%5D) 
+
+231 Cards 
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Encroaching+Wastes)
+
+[Deal Another Hand](https://web.archive.org/web/20130801000000/https://magic.wizards.com/en)
+
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Barter+in+Blood)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Island)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Devour+Flesh)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=%C3%86therling)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Island)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Augur+of+Bolas)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Swamp)
+
+a:46:{i:0;O:8:"stdClass":3:{s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:18:"Encroaching Wastes";s:22:"field\_card\_image\_front";a:0:{}}}i:1;O:8:"stdClass":3:{s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Dimir Guildgate";s:22:"field\_card\_image\_front";a:0:{}}}i:2;O:8:"stdClass":3:{s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Evolving Wilds";s:22:"field\_card\_image\_front";a:0:{}}}i:3;O:8:"stdClass":3:{s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Drowned Catacomb";s:22:"field\_card\_image\_front";a:0:{}}}i:4;O:8:"stdClass":3:{s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:9:"Mutavault";s:22:"field\_card\_image\_front";a:0:{}}}i:5;O:8:"stdClass":3:{s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Ghost Quarter";s:22:"field\_card\_image\_front";a:0:{}}}i:6;O:8:"stdClass":3:{s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Watery Grave";s:22:"field\_card\_image\_front";a:0:{}}}i:7;O:8:"stdClass":3:{s:4:"type";s:4:"land";s:10:"deck\_count";s:2:"34";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:5:"Swamp";s:22:"field\_card\_image\_front";a:0:{}}}i:8;O:8:"stdClass":3:{s:4:"type";s:4:"land";s:10:"deck\_count";s:2:"40";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:6:"Island";s:22:"field\_card\_image\_front";a:0:{}}}i:9;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:10:"Ætherling";s:22:"field\_card\_image\_front";a:0:{}}}i:10;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Augur of Bolas";s:22:"field\_card\_image\_front";a:0:{}}}i:11;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Snapcaster Mage";s:22:"field\_card\_image\_front";a:0:{}}}i:12;O:8:"stdClass":3:{s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"4";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Warped Physique";s:22:"field\_card\_image\_front";a:0:{}}}i:13;O:8:"stdClass":3:{s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"4";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Pilfered Plans";s:22:"field\_card\_image\_front";a:0:{}}}i:14;O:8:"stdClass":3:{s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"4";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Far // Away";s:22:"field\_card\_image\_front";a:0:{}}}i:15;O:8:"stdClass":3:{s:4:"type";s:8:"artifact";s:10:"deck\_count";s:1:"4";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Dimir Cluestone";s:22:"field\_card\_image\_front";a:0:{}}}i:16;O:8:"stdClass":3:{s:4:"type";s:8:"artifact";s:10:"deck\_count";s:1:"4";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Dimir Keyrune";s:22:"field\_card\_image\_front";a:0:{}}}i:17;O:8:"stdClass":3:{s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"4";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Devour Flesh";s:22:"field\_card\_image\_front";a:0:{}}}i:18;O:8:"stdClass":3:{s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"4";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Psychic Strike";s:22:"field\_card\_image\_front";a:0:{}}}i:19;O:8:"stdClass":3:{s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"4";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:19:"Diabolic Revelation";s:22:"field\_card\_image\_front";a:0:{}}}i:20;O:8:"stdClass":3:{s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"2";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:20:"Amass the Components";s:22:"field\_card\_image\_front";a:0:{}}}i:21;O:8:"stdClass":3:{s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"4";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Thought Scour";s:22:"field\_card\_image\_front";a:0:{}}}i:22;O:8:"stdClass":3:{s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"4";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Tragic Slip";s:22:"field\_card\_image\_front";a:0:{}}}i:23;O:8:"stdClass":3:{s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"4";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:19:"Increasing Ambition";s:22:"field\_card\_image\_front";a:0:{}}}i:24;O:8:"stdClass":3:{s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"4";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Tribute to Hunger";s:22:"field\_card\_image\_front";a:0:{}}}i:25;O:8:"stdClass":3:{s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"4";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Forbidden Alchemy";s:22:"field\_card\_image\_front";a:0:{}}}i:26;O:8:"stdClass":3:{s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"1";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:19:"Sever the Bloodline";s:22:"field\_card\_image\_front";a:0:{}}}i:27;O:8:"stdClass":3:{s:4:"type";s:11:"enchantment";s:10:"deck\_count";s:1:"4";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Dead Weight";s:22:"field\_card\_image\_front";a:0:{}}}i:28;O:8:"stdClass":3:{s:4:"type";s:11:"enchantment";s:10:"deck\_count";s:1:"1";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:21:"Curse of Death's Hold";s:22:"field\_card\_image\_front";a:0:{}}}i:29;O:8:"stdClass":3:{s:4:"type";s:8:"artifact";s:10:"deck\_count";s:1:"4";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Ratchet Bomb";s:22:"field\_card\_image\_front";a:0:{}}}i:30;O:8:"stdClass":3:{s:4:"type";s:8:"artifact";s:10:"deck\_count";s:1:"1";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:21:"Elixir of Immortality";s:22:"field\_card\_image\_front";a:0:{}}}i:31;O:8:"stdClass":3:{s:4:"type";s:8:"artifact";s:10:"deck\_count";s:1:"4";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Prophetic Prism";s:22:"field\_card\_image\_front";a:0:{}}}i:32;O:8:"stdClass":3:{s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"4";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:10:"Divination";s:22:"field\_card\_image\_front";a:0:{}}}i:33;O:8:"stdClass":3:{s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"4";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:10:"Doom Blade";s:22:"field\_card\_image\_front";a:0:{}}}i:34;O:8:"stdClass":3:{s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"4";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Essence Scatter";s:22:"field\_card\_image\_front";a:0:{}}}i:35;O:8:"stdClass":3:{s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"1";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:6:"Cancel";s:22:"field\_card\_image\_front";a:0:{}}}i:36;O:8:"stdClass":3:{s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"4";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Think Twice";s:22:"field\_card\_image\_front";a:0:{}}}i:37;O:8:"stdClass":3:{s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"4";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Barter in Blood";s:22:"field\_card\_image\_front";a:0:{}}}i:38;O:8:"stdClass":3:{s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"4";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:9:"Syncopate";s:22:"field\_card\_image\_front";a:0:{}}}i:39;O:8:"stdClass":3:{s:4:"type";s:11:"enchantment";s:10:"deck\_count";s:1:"4";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Battle of Wits";s:22:"field\_card\_image\_front";a:0:{}}}i:40;O:8:"stdClass":3:{s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"4";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Diabolic Tutor";s:22:"field\_card\_image\_front";a:0:{}}}i:41;O:8:"stdClass":3:{s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"2";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Opportunity";s:22:"field\_card\_image\_front";a:0:{}}}i:42;O:8:"stdClass":3:{s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"4";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:7:"Cremate";s:22:"field\_card\_image\_front";a:0:{}}}i:43;O:8:"stdClass":3:{s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"4";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:9:"Dissipate";s:22:"field\_card\_image\_front";a:0:{}}}i:44;O:8:"stdClass":3:{s:4:"type";s:12:"planeswalker";s:10:"deck\_count";s:1:"4";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:26:"Jace, Architect of Thought";s:22:"field\_card\_image\_front";a:0:{}}}i:45;O:8:"stdClass":3:{s:4:"type";s:12:"planeswalker";s:10:"deck\_count";s:1:"1";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:18:"Jace, Memory Adept";s:22:"field\_card\_image\_front";a:0:{}}}} 
+
+  
+
+  
+![](http://media.wizards.com/images/magic/daily/footers/slice1.jpg)![](http://media.wizards.com/images/magic/daily/footers/slice2.jpg)
+
+![Luis Scott-Vargas](http://archive.wizards.com/magic/images/mtgcom/authorpics/authorpic_luisscottvargas.jpg)**Luis Scott-Vargas**  
+[@lsv](https://twitter.com/lsv)  
+[Email Luis](https://web.archive.org/web/20130801000000/https://magic.wizards.com/company/emailtoauthor.asp?author=Luis%20Scott-Vargasamp;amp;headline=%5BLet%20the%20Battle%20Begin%5D "Click to send email to the author.")[Author Archive](https://web.archive.org/web/20130801000000/https://magic.wizards.com/Magic/Magazine/Archive.aspx?author=Luis%20Scott-Vargas)  
+  
+
+Luis Scott-Vargas plays, writes, and makes videos about **Magic**. He has played on the Pro Tour for almost a decade, and between that and producing content for [ChannelFireball](http://store.channelfireball.com/landing), often has his hands full (of cards).

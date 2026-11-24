@@ -1,0 +1,104 @@
+---
+id: 8fw5ff99
+kind: event
+lang: en
+path: /en/articles/event-coverage/undated/team-names
+title: Team Names
+published: null
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/team-names-2000-01-01-2
+    lang_detected: en
+    capture_id: 587756
+    url: http://magic.wizards.com/en/articles/archive/event-coverage/team-names-2000-01-01-2
+    captured_at: '2017-08-29 12:22:11+00'
+    rule: meta.og_title
+sources:
+- document_id: 8fw5ff99
+  url: http://magic.wizards.com/en/articles/archive/event-coverage/team-names-2000-01-01-2
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/team-names-2000-01-01-2
+  lang: en
+  template: drupal
+  captured_at: '2017-08-29 12:22:11+00'
+  capture_id: 587756
+  wayback_url: https://web.archive.org/web/20170829122211id_/http://magic.wizards.com/en/articles/archive/event-coverage/team-names-2000-01-01-2
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 8fw5ff99
+  capture_id: 587756
+  url: http://magic.wizards.com/en/articles/archive/event-coverage/team-names-2000-01-01-2
+  wayback_url: https://web.archive.org/web/20170829122211id_/http://magic.wizards.com/en/articles/archive/event-coverage/team-names-2000-01-01-2
+  captured_at: '2017-08-29 12:22:11+00'
+  template: drupal
+  sha256: 698c869967f1e2c9ea4dd4a8acf36e58cb5e3918ba44dfc01f60c6e91b90b3b0
+render_recovery: []
+---
+A Team Pro Tour challenges competitors to come to an agreement, and establish certain strategic standards that each member is comfortable with. For example, during the sealed portion of the event, all three teammates analyze the card pool together, and contribute to the construction of the decks. During the draft portion of the event, the team must communicate without talking, which can be tricky unless a set of hand signals is established.
+
+Even though all this strategic cooperation is important, the other important aspect of a team event is quite obvious: the name. A name is not just a label, but a presentation of that specific group to the rest of the competitors here this weekend, and to the Magic community as a whole. It is also interesting to note how some of these names were created. Antarctica, Potato Nation and Deadguy have become well known through the years, but what are the origins of these names? Some are funny, some are created for pure intimidation factor, and others are simply random and don't have any meaning.
+
+**Team Deadguy (David Price, Chris Pikula, Tony Tsai)**
+
+Pro Tour players Chris Pikula, Dave Price, Tony Tsai and David Bartholow all went to Cornell University together. Pikula and Bartholow are into punk music, and brought along their fellow Magic playing classmates to see Deadguy when they played on campus. They decided to all buy matching Deadguy shirts, and wore them to the first Gray Matter tournament. A judge called out to the group at the event, and shouted "Hey, Deadguy!" The rest is history.
+
+**Mecha Shpadoinkle (Michael Bower, Mike Handfield, Cory Bradshaw)**
+
+A reference to "Hannibal, the Musical!", a movie made by Trey Parker and Matt Stone of South Park fame. The team explained that "Mecha Shpadoinkle is like 'Smurf'. In the movie they keep saying it, and it can mean anything".
+
+**Cyanide (Ed Linskey, Jonathan Becker, Tom Kelleher)**
+
+The team was split with their feelings on the team name. Linskey said they decided to use "Cyanide" because it "kills everything". Becker explained that he didn't care much about the name, and it was made while he was drinking a Red Bull. "All the names we came up with were lame . . . I would have preferred to be Team Red Bull and maybe get a sponsorship"
+
+**Stalking Tiger Hidden Gibbons (Josh Ravitz, Matt Urban, Paul Jordan)**
+
+A clever combination of the Academy Award-nominated movie and a Magic card.
+
+**My Team Part 17 (Justin Gary, Zvi Mowshowitz, Alex Shvartsman)**
+
+A parody of Zvi's now infamous "My Fires" series, which had eight parts to it. Many felt that this much content on one deck was excessive.
+
+**Smooth Criminal (Trevor Blackwell, Mike Long, Bryan Hubble)**
+
+People say stuff about Mike Long.
+
+**UkilledMyFatherPrepareToDie (Stephen Miller, Andrew Jensen, Ryan Dull)**
+
+A reference to the famous line from "A Princess Bride"
+
+**Potato Nation (Michael Turian, Scott Johns, Gary Wise)**
+
+Last year's Pro Tour Championship team got their name from Turian's "Potato" nickname. He earned the nickname from going on IRC and randomly saying potato as a joke, and it caught on.
+
+**Antarctica (Steve OMS, Jon Finkel, Dan OMS)**
+
+When the DCI database started to allow players to manually change their location and title, some decided to have some fun with it. Dan OMS abused this to a whole new level, entering himself as a resident of Beatdown Town, Antarctica. This led to the now infamous blurb on the personal information section of the DCI website which read "Your information should update in a couple of days after we check to make sure that Dan O'Mahoney-Schwartz didn't put himself in Antarctica again".
+
+**Righteous Babe (Michael Flores, Brian Kowal, John Shuler)**
+
+Named after Ani Difranco's record label.
+
+**Whatever (Mike Hron, Dustin Stern, Brian Kibler)**
+
+Rithmaster Brian Kibler explained, "They wouldn't let us be "Barely Legal". I turned 21 today"
+
+**The Unknown Stuntmen (Scott Wills, Tony Dobson, Pete Norris)**
+
+The theme song of 80s television show "The Fall Guy".
+
+**Tick Trick Track (Uli Hoenle, Florian Oberauer, Cristoph Holzl)**
+
+The German names for Huey, Louie and Dewey from Duck Tales.
+
+**Riddiculatron (Adam Duchow, Graham Mueller, Lucas Duchow)**
+
+The team had a Nether-Go deck at Nationals that they called "Accumulatron", and "Riddiculatron" evolved from that, and caught on.
+
+Basketball players get sponsorships from Nike and Reebok to wear their products, and race cars are decorated with tons of corporate logos. Not to be outdone, team Magic has also become a place where companies can advertise their product by sponsoring a team. In this case, many have followed the lead of AlphaBetaUnlimited.com, and named their team after a website that sponsors them, or that a team member is affiliated with. Here are a few examples:
+
+[www.star-maker.nl/](http://www.star-maker.nl/)  
+[www.electrotank.com](http://www.electrotank.com/)  
+ superstarsnet.com

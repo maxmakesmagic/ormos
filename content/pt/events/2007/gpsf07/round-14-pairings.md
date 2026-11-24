@@ -1,0 +1,56 @@
+---
+id: mq01tjk4
+kind: event
+lang: pt
+path: /pt/events/2007/gpsf07/round-14-pairings
+title: Round 14 Pairings
+published: null
+column_slug: null
+column: null
+authors: []
+event_code: gpsf07
+detected_lang: pt
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/gpsf07/pair14
+    lang_detected: pt
+    capture_id: 1065448
+    url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpsf07/pair14
+    captured_at: '2013-06-29 20:20:13+00'
+    rule: aspx.article_heading
+  event_code:
+    page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/gpsf07/pair14
+    lang_detected: pt
+    capture_id: 1065448
+    url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpsf07/pair14
+    captured_at: '2013-06-29 20:20:13+00'
+    rule: url.event_code
+sources:
+- document_id: mq01tjk4
+  url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpsf07/pair14
+  page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/gpsf07/pair14
+  lang: pt
+  template: aspx
+  captured_at: '2013-06-29 20:20:13+00'
+  capture_id: 1065448
+  wayback_url: https://web.archive.org/web/20130629202013id_/https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpsf07/pair14
+- document_id: mq01tjk4
+  url: http://www.wizards.com/default.asp?x=mtgevent/gpsf07/pair14
+  page_key: wizards.com/default.asp?x=mtgevent/gpsf07/pair14
+  lang: pt
+  template: classic_asp
+  captured_at: '2007-10-24 01:56:39+00'
+  capture_id: 2075550
+  wayback_url: https://web.archive.org/web/20071024015639id_/http://www.wizards.com/default.asp?x=mtgevent/gpsf07/pair14
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: mq01tjk4
+  capture_id: 1065448
+  url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpsf07/pair14
+  wayback_url: https://web.archive.org/web/20130629202013id_/https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpsf07/pair14
+  captured_at: '2013-06-29 20:20:13+00'
+  template: aspx
+  sha256: f15b869a1a2022775230d8863d73e478c150379d65e6dfb9405fe6fa6fa016a1
+render_recovery: []
+---
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130629202013/https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpsf07/pair14">&#10;        <b>Table</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130629202013/https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpsf07/pair14">&#10;        <b>Player </b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130629202013/https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpsf07/pair14">&#10;        <b>Points</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130629202013/https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpsf07/pair14">&#10;        <b>Player</b>&#10;      </a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>1</td>&#10;    <td>Irvine, David W</td>&#10;    <td>37-33</td>&#10;    <td>Walden, Andrew</td>&#10;  </tr>&#10;  <tr>&#10;    <td>2</td>&#10;    <td>Stocks, Jonathan E</td>&#10;    <td>34-33</td>&#10;    <td>zornes, james W</td>&#10;  </tr>&#10;  <tr>&#10;    <td>3</td>&#10;    <td>Motta, Pedro R</td>&#10;    <td>33-33</td>&#10;    <td>Blackman, Brett</td>&#10;  </tr>&#10;  <tr>&#10;    <td>4</td>&#10;    <td>Goodman, Kyle S</td>&#10;    <td>32-31</td>&#10;    <td>West, Alexander</td>&#10;  </tr>&#10;  <tr>&#10;    <td>5</td>&#10;    <td>Eng, Warren A</td>&#10;    <td>31-31</td>&#10;    <td>Smith, Zack M</td>&#10;  </tr>&#10;  <tr>&#10;    <td>6</td>&#10;    <td>Kaneko, Masami</td>&#10;    <td>31-31</td>&#10;    <td>da Rosa, Paulo Vitor D</td>&#10;  </tr>&#10;  <tr>&#10;    <td>7</td>&#10;    <td>Kurihara, Shingou</td>&#10;    <td>31-30</td>&#10;    <td>burton, hunter</td>&#10;  </tr>&#10;  <tr>&#10;    <td>8</td>&#10;    <td>Scott-Vargas, Luis D</td>&#10;    <td>30-30</td>&#10;    <td>Hawkins, Charlie A</td>&#10;  </tr>&#10;  <tr>&#10;    <td>9</td>&#10;    <td>Pelcak, John T</td>&#10;    <td>30-30</td>&#10;    <td>Thompson, Gerry W</td>&#10;  </tr>&#10;  <tr>&#10;    <td>10</td>&#10;    <td>Cheon, Paul A</td>&#10;    <td>30-30</td>&#10;    <td>Gimbel, Thomas L</td>&#10;  </tr>&#10;  <tr>&#10;    <td>11</td>&#10;    <td>Silveira, Robson A</td>&#10;    <td>30-30</td>&#10;    <td>Saitou, Tomoharu</td>&#10;  </tr>&#10;  <tr>&#10;    <td>12</td>&#10;    <td>Sadin, Steven</td>&#10;    <td>30-28</td>&#10;    <td>Rubin, Ben E</td>&#10;  </tr>&#10;  <tr>&#10;    <td>13</td>&#10;    <td>Heine, Brian D</td>&#10;    <td>28-28</td>&#10;    <td>Coale, Hunter</td>&#10;  </tr>&#10;  <tr>&#10;    <td>14</td>&#10;    <td>Watanabe, Yuuya</td>&#10;    <td>28-28</td>&#10;    <td>Davis, Chris H</td>&#10;  </tr>&#10;  <tr>&#10;    <td>15</td>&#10;    <td>Sittner, John A</td>&#10;    <td>28-28</td>&#10;    <td>Rowell, Brad M</td>&#10;  </tr>&#10;  <tr>&#10;    <td>16</td>&#10;    <td>Chu, Gim K</td>&#10;    <td>28-28</td>&#10;    <td>Birklid, Steven J</td>&#10;  </tr>&#10;  <tr>&#10;    <td>17</td>&#10;    <td>Kambourakis, Joseph C</td>&#10;    <td>28-27</td>&#10;    <td>Catterall-Davis, Merlin</td>&#10;  </tr>&#10;  <tr>&#10;    <td>18</td>&#10;    <td>Cash, Brent</td>&#10;    <td>27-27</td>&#10;    <td>Custer, Andy R</td>&#10;  </tr>&#10;  <tr>&#10;    <td>19</td>&#10;    <td>De Rosa, Antonino</td>&#10;    <td>27-27</td>&#10;    <td>Contos, Jace D</td>&#10;  </tr>&#10;  <tr>&#10;    <td>20</td>&#10;    <td>Allen, Brett</td>&#10;    <td>27-27</td>&#10;    <td>Ruel, Olivier</td>&#10;  </tr>&#10;  <tr>&#10;    <td>21</td>&#10;    <td>Moss, Brian</td>&#10;    <td>27-27</td>&#10;    <td>Pereira, Christiano M</td>&#10;  </tr>&#10;  <tr>&#10;    <td>22</td>&#10;    <td>Hron, Mike P</td>&#10;    <td>27-27</td>&#10;    <td>Young, Scott</td>&#10;  </tr>&#10;  <tr>&#10;    <td>23</td>&#10;    <td>De Guzman, Ray A</td>&#10;    <td>27-27</td>&#10;    <td>nguyen, james</td>&#10;  </tr>&#10;  <tr>&#10;    <td>24</td>&#10;    <td>Edelson, Steve</td>&#10;    <td>27-26</td>&#10;    <td>Coimbra, André</td>&#10;  </tr>&#10;  <tr>&#10;    <td>25</td>&#10;    <td>Huang, Jeff C</td>&#10;    <td>25-25</td>&#10;    <td>Vidugiris, Gaudenis</td>&#10;  </tr>&#10;  <tr>&#10;    <td>26</td>&#10;    <td>Lo Cascio, Philip A</td>&#10;    <td>25-24</td>&#10;    <td>Sims, David</td>&#10;  </tr>&#10;  <tr>&#10;    <td>27</td>&#10;    <td>Rodriguez, Pedro a</td>&#10;    <td>25-24</td>&#10;    <td>Azuma, Motokiyo</td>&#10;  </tr>&#10;  <tr>&#10;    <td>28</td>&#10;    <td>Choi, Standish O</td>&#10;    <td>24-24</td>&#10;    <td>dietz, vaughn</td>&#10;  </tr>&#10;  <tr>&#10;    <td>29</td>&#10;    <td>Clay, Chris B</td>&#10;    <td>24-22</td>&#10;    <td>Kruze, John F</td>&#10;  </tr>&#10;  <tr>&#10;    <td> </td>&#10;  </tr>&#10;</tbody></table>

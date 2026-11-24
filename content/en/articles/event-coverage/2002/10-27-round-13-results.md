@@ -1,0 +1,47 @@
+---
+id: 66q6z8qs
+kind: event
+lang: en
+path: /en/articles/event-coverage/2002/10-27-round-13-results
+title: Round 13 Results
+published: '2002-10-27'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-13-results-2002-10-27
+    lang_detected: en
+    capture_id: 504568
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-13-results-2002-10-27
+    captured_at: '2022-08-07 16:59:35+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-13-results-2002-10-27
+    lang_detected: en
+    capture_id: 504568
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-13-results-2002-10-27
+    captured_at: '2022-08-07 16:59:35+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: 66q6z8qs
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-13-results-2002-10-27
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/round-13-results-2002-10-27
+  lang: en
+  template: drupal
+  captured_at: '2022-08-07 16:59:35+00'
+  capture_id: 504568
+  wayback_url: https://web.archive.org/web/20220807165935id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-13-results-2002-10-27
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 66q6z8qs
+  capture_id: 504568
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-13-results-2002-10-27
+  wayback_url: https://web.archive.org/web/20220807165935id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-13-results-2002-10-27
+  captured_at: '2022-08-07 16:59:35+00'
+  template: drupal
+  sha256: ae451322c0e936bb63f6e604c262b9b7e962d7b00104297aca2b27abab45abc2
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Result</b></td><td><b></b></td><td><b>Opponent</b></td></tr><tr><td> 1</td><td>Rabinowitz, Jacob [USA]</td><td>Won 2-0</td><td>vs.</td><td>Froehlich, Eric [USA]</td></tr><tr><td> 2</td><td>Mondon, Chris [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Leader-Smith, Alex [USA]</td></tr><tr><td> 3</td><td>Foley, Mike [CAN]</td><td>Won 2-1</td><td>vs.</td><td>Munk, David [USA]</td></tr><tr><td> 4</td><td>Vizzacco, Mark [USA]</td><td>Won 2-0</td><td>vs.</td><td>Radzville, Rick [USA]</td></tr><tr><td> 5</td><td>Sonne, Jonathan [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Douglass, Morgan [USA]</td></tr><tr><td> 6</td><td>Taylor, Adam [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Frayman, Igor [USA]</td></tr><tr><td> 7</td><td>Sullivan, Patrick [USA]</td><td>Won 2-1</td><td>vs.</td><td>Fabiano, Gerard [USA]</td></tr><tr><td> 8</td><td>Horvath, Adam [USA]</td><td>Won 2-1</td><td>vs.</td><td>Landis, Scott [USA]</td></tr><tr><td> 9</td><td>Sonmez, John [USA]</td><td>Lost 0-2</td><td>vs.</td><td>Rodemann, Dan [USA]</td></tr><tr><td> 10</td><td>dull, ryan [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Stark, Ben [USA]</td></tr><tr><td> 11</td><td>Miller, Stephen [USA]</td><td>Won 2-1</td><td>vs.</td><td>Franz, Eric [USA]</td></tr><tr><td> 12</td><td>Pepe, Jim [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Sullivan, Robert NMI [USA]</td></tr><tr><td> 13</td><td>Parker, Zach [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Sitarski, Matt [USA]</td></tr><tr><td> 14</td><td>De Rosa, Antonino [USA]</td><td>Won 2-0</td><td>vs.</td><td>Glavin, Lucas [USA]</td></tr><tr><td> 15</td><td>Frank, Joel [USA]</td><td>Won 2-0</td><td>vs.</td><td>Mandel, Daniel [USA]</td></tr><tr><td> 16</td><td>Mowshowitz, Zvi [USA]</td><td>Won 2-1</td><td>vs.</td><td>Gary, Justin [USA]</td></tr><tr><td> 17</td><td>Kibler, Brian [USA]</td><td>Won 2-1</td><td>vs.</td><td>Haim, Christophe [FRA]</td></tr><tr><td> 18</td><td>Severa, Matt [USA]</td><td>Won 2-1</td><td>vs.</td><td>Manning, Christopher [USA]</td></tr><tr><td> 19</td><td>Doran, Shaun [USA]</td><td>Won 2-0</td><td>vs.</td><td>Lim, Joel [USA]</td></tr><tr><td> 20</td><td>Eisel, Nick [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Cunningham, Jeff [CAN]</td></tr><tr><td> 21</td><td>Cunniff, Raphael [USA]</td><td>Won 2-1</td><td>vs.</td><td>Chung, David [USA]</td></tr><tr><td> 22</td><td>Ioli, Mark [USA]</td><td>Lost 0-2</td><td>vs.</td><td>Low, Devin [USA]</td></tr><tr><td> 23</td><td>steinberg, charles [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Stern, Jon [CAN]</td></tr><tr><td> 24</td><td>Chiumento, Michael [USA]</td><td>Won 2-1</td><td>vs.</td><td>Harvey, Eugene [USA]</td></tr><tr><td> 25</td><td>Krempals, Craig [USA]</td><td>Won 2-0</td><td>vs.</td><td>Kelleher, Tom [USA]</td></tr><tr><td> 26</td><td>Cowley, Steven [USA]</td><td>Lost 0-2</td><td>vs.</td><td>Boccio, Matt [USA]</td></tr><tr><td> 27</td><td>Wise, J Gary [ENG]</td><td>Won 2-0</td><td>vs.</td><td>Turian, Michael [USA]</td></tr><tr><td> 28</td><td>Jensen, William [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Maher, Robert [USA]</td></tr><tr><td> 29</td><td>Aden, Eli [USA]</td><td>Won 2-0</td><td>vs.</td><td>Tsang, Gabriel [CAN]</td></tr><tr><td> 30</td><td>Pacifico, Andrew [USA]</td><td>Won 2-1</td><td>vs.</td><td>Spears, David [USA]</td></tr><tr><td></td><td>Badache, Chafik [CAN]</td><td></td><td></td><td>* BYE *</td></tr></tbody></table>

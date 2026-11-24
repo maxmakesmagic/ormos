@@ -1,0 +1,40 @@
+---
+id: 6940yavs
+kind: event
+lang: sna
+path: /sna/articles/event-coverage/undated/round-9-results-by-table
+title: Round 9 Results (by Table)
+published: null
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: sna
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-9-results-table-2000-01-01-11
+    lang_detected: sna
+    capture_id: 579295
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-9-results-table-2000-01-01-11
+    captured_at: '2021-12-04 23:13:57+00'
+    rule: meta.og_title
+sources:
+- document_id: 6940yavs
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-9-results-table-2000-01-01-11
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/round-9-results-table-2000-01-01-11
+  lang: sna
+  template: drupal
+  captured_at: '2021-12-04 23:13:57+00'
+  capture_id: 579295
+  wayback_url: https://web.archive.org/web/20211204231357id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-9-results-table-2000-01-01-11
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 6940yavs
+  capture_id: 579295
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-9-results-table-2000-01-01-11
+  wayback_url: https://web.archive.org/web/20211204231357id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-9-results-table-2000-01-01-11
+  captured_at: '2021-12-04 23:13:57+00'
+  template: drupal
+  sha256: dfebf5825dfc7a2b6eb059b86b774b8ca2e78e227c84be7a3faf2038e4006a5e
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Result</b></td><td><b> </b></td><td><b>Opponent</b></td></tr><tr><td>  1</td><td>Mori, Masaya*</td><td>2-0-0</td><td>vs.</td><td>Anan, Go</td></tr><tr><td>  2</td><td>Matsuo, Goro*</td><td>0-2-0</td><td>vs.</td><td>Kuroda, Masashiro*</td></tr><tr><td>  3</td><td>Kin, Minsu*</td><td>0-2-0</td><td>vs.</td><td>Morita, Masahiko*</td></tr><tr><td>  4</td><td>Hassaku, Jinpei*</td><td>0-2-0</td><td>vs.</td><td>Sasakawa, Tomohide*</td></tr><tr><td>  5</td><td>Oguri, Fumiaki</td><td>1-2-0</td><td>vs.</td><td>Fukata, Takamasa*</td></tr><tr><td>  6</td><td>Nakamura, Satoshi*</td><td>0-2-0</td><td>vs.</td><td>Okamoto, Hiroki*</td></tr><tr><td>  7</td><td>Okamoto, Jin*</td><td>0-2-0</td><td>vs.</td><td>Higashino, Masayuki*</td></tr><tr><td>  8</td><td>Kawasaki, Hiroshi*</td><td>0-2-0</td><td>vs.</td><td>Yamazaki, Yudai</td></tr><tr><td>  9</td><td>Kanayama, Daisuke</td><td>0-2-0</td><td>vs.</td><td>Kushibe, Toshiki</td></tr><tr><td> 10</td><td>Ikeda, Tsuyoshi</td><td>0-2-0</td><td>vs.</td><td>Usami, Yukihiro</td></tr><tr><td> 11</td><td>Harada, Hiroshi*</td><td>0-2-0</td><td>vs.</td><td>Onoda, Michihisa*</td></tr><tr><td> 12</td><td>Maki, Koichiro*</td><td>1-1-1</td><td>vs.</td><td>Tsukamoto, Toshiki*</td></tr><tr><td> 13</td><td>Ando, Reiji*</td><td>1-2-0</td><td>vs.</td><td>Fujita, Tsuyoshi*</td></tr><tr><td> 14</td><td>Saito, Tsutomu*</td><td>2-0-0</td><td>vs.</td><td>Higaki, Takao*</td></tr><tr><td> 15</td><td>Shinohara, Tetsuya</td><td>2-1-0</td><td>vs.</td><td>Nakamura, Yusuke</td></tr><tr><td> 16</td><td>Yamakawa, Youichirou</td><td>0-2-0</td><td>vs.</td><td>Furuta, Yuki*</td></tr><tr><td> 17</td><td>Fujii, Daisuke</td><td>2-1-0</td><td>vs.</td><td>Wada, Yuta</td></tr><tr><td> 18</td><td>Sekiguchi, Takatoshi</td><td>0-2-0</td><td>vs.</td><td>Hatakeyama, Tomoya</td></tr><tr><td> 19</td><td>Nohnishi, Keiichiro</td><td>2-1-0</td><td>vs.</td><td>Yamamoto, Nao*</td></tr><tr><td> 20</td><td>Morimoto, Manabu</td><td>1-2-0</td><td>vs.</td><td>Abe, Kazufumi*</td></tr><tr><td> 21</td><td>Yamada, Yoshiharu</td><td>2-1-0</td><td>vs.</td><td>Nakamura, Shuhei*</td></tr><tr><td> 22</td><td>Watanabe, Hiroto*</td><td>2-1-0</td><td>vs.</td><td>Nishioka, Kazuya</td></tr><tr><td> 23</td><td>Nakano, Fumiki</td><td>1-2-0</td><td>vs.</td><td>Nose, Koji*</td></tr><tr><td> 24</td><td>Arahori, Kazuaki</td><td>0-2-0</td><td>vs.</td><td>Sakai, Hideyuki*</td></tr><tr><td> 25</td><td>Mitsuya, Kazuhiko</td><td>0-2-0</td><td>vs.</td><td>Doyama, Tsuyoshi*</td></tr><tr><td> 26</td><td>Abe, Ryo*</td><td>2-0-0</td><td>vs.</td><td>Hasegawa, Masahide</td></tr><tr><td> 27</td><td>Itadani, Eisaku*</td><td>1-1-1</td><td>vs.</td><td>Fuji, Yusuke</td></tr><tr><td> 28</td><td>Saito, Tomoharu*</td><td>1-2-0</td><td>vs.</td><td>Kamio, Satoshi</td></tr><tr><td> 29</td><td>Otsuka, Kotaro</td><td>0-2-0</td><td>vs.</td><td>Hoshino, Hiroaki*</td></tr><tr><td> 30</td><td>Kageyama, Kiyotomo</td><td>1-1-1</td><td>vs.</td><td>Morofuji, Takuma*</td></tr><tr><td> 31</td><td>Kuchii, Hideki</td><td>1-2-0</td><td>vs.</td><td>Yamahara, Toshihisa</td></tr><tr><td> 32</td><td>Mukuno, Yuji</td><td>2-0-0</td><td>vs.</td><td>Tachibana, Satoshi</td></tr><tr><td> 33</td><td>Hirose, Daisuke</td><td>1-2-0</td><td>vs.</td><td>Komiya, Tadayoshi*</td></tr><tr><td> 34</td><td>Kuge, Takuro</td><td>1-1-1</td><td>vs.</td><td>Chuma, Yu*</td></tr><tr><td> 35</td><td>Sasanuma, Kiyoshi*</td><td>0-2-0</td><td>vs.</td><td>Murata, Toshiaki</td></tr><tr><td> 36</td><td>Adachi, Takatsugu*</td><td>2-0-0</td><td>vs.</td><td>Hase, Akira</td></tr><tr><td> 37</td><td>Fujita, Kenichi*</td><td>0-2-0</td><td>vs.</td><td>Doiuchi, Yasuhiro</td></tr><tr><td> 38</td><td>Yun, Suhan</td><td>2-0-0</td><td>vs.</td><td>Shiraki, Takahiro</td></tr><tr><td> 39</td><td>Hirabayashi, Kazuya*</td><td>2-1-0</td><td>vs.</td><td>Shiki, Kazumasa</td></tr><tr><td> 40</td><td>Nobushita, Jun*</td><td>1-2-0</td><td>vs.</td><td>Imura, Kazuo</td></tr><tr><td> 41</td><td>Akamatsu, Noriyuki</td><td>2-1-0</td><td>vs.</td><td>Kurasawa, Kanto*</td></tr><tr><td> 42</td><td>Nishino, Kenta</td><td>2-0-0</td><td>vs.</td><td>Ito, Tai</td></tr><tr><td> 43</td><td>Matsuki, Takashi</td><td>1-2-0</td><td>vs.</td><td>Tomita, Kei</td></tr><tr><td> 44</td><td>Oota, Yusuke</td><td>0-2-0</td><td>vs.</td><td>Ando, Nobuhiro</td></tr><tr><td> 45</td><td>Shimada, Masatake*</td><td>0-1-0</td><td>vs.</td><td>Nishio, Yoshiaki</td></tr><tr><td> 46</td><td>Nagaoka, Takayuki*</td><td>2-1-0</td><td>vs.</td><td>Murase, Hiroshi</td></tr><tr><td> 47</td><td>Otsubo, Yuji</td><td>2-1-0</td><td>vs.</td><td>Ohsumi, Keigo</td></tr><tr><td> 48</td><td>Miyasaka, Takeshi*</td><td>0-2-0</td><td>vs.</td><td>Fujita, Osamu*</td></tr><tr><td> 49</td><td>Nakamura, Masato</td><td>2-0-0</td><td>vs.</td><td>Horino, Keita</td></tr><tr><td> 50</td><td>Hata, Hirotaka*</td><td>0-2-0</td><td>vs.</td><td>Arita, Ryuichi*</td></tr><tr><td> 51</td><td>Nakaoka, Takayoshi</td><td>1-2-0</td><td>vs.</td><td>Maruyama, Tomohiro*</td></tr><tr><td> 52</td><td>Takano, Yasuhiro</td><td>1-1-1</td><td>vs.</td><td>Iwata, Mitsuhiro</td></tr><tr><td> 53</td><td>Hirata, Keisuke</td><td>0-2-0</td><td>vs.</td><td>Uehara, Kunihiro</td></tr><tr><td> 54</td><td>Yuasa, Kentaro</td><td>2-0-0</td><td>vs.</td><td>Doi, Fumiaki</td></tr><tr><td> 55</td><td>Takao, Fumiaki</td><td>2-0-0</td><td>vs.</td><td>Endo, Tadashi</td></tr><tr><td> 56</td><td>Hatta, Tetsuya*</td><td>2-0-0</td><td>vs.</td><td>Sasaki, Yusuke</td></tr><tr><td> 57</td><td>Niwa, Kohei</td><td>0-2-0</td><td>vs.</td><td>Ikeuchi, Kazuhiro</td></tr><tr><td> 58</td><td>Kozakai, Yukio</td><td>2-0-0</td><td>vs.</td><td>Toyoshima, Masashi</td></tr><tr><td> 59</td><td>Fujiwara, Yuichirou</td><td>1-2-0</td><td>vs.</td><td>Sando, Masao</td></tr><tr><td> 60</td><td>Kawamura, Akihiro</td><td>0-2-0</td><td>vs.</td><td>Sato, Daisuke</td></tr><tr><td> 61</td><td>Akimoto, Shinichi</td><td>0-2-0</td><td>vs.</td><td>Nakamura, Genki</td></tr><tr><td> 62</td><td>Moriyama, Dai</td><td>2-1-0</td><td>vs.</td><td>Noshiro, Kazuya</td></tr><tr><td> 63</td><td>Okabe, Takahiro</td><td>2-0-0</td><td>vs.</td><td>Suzuki, Yasutomo</td></tr><tr><td> 64</td><td>Sogabe, Ippei</td><td>0-2-0</td><td>vs.</td><td>Kageyama, Taro</td></tr><tr><td> 65</td><td>Sato, Akira</td><td>2-1-0</td><td>vs.</td><td>Watanabe, Takeshi</td></tr><tr><td> 66</td><td>Okamoto, Takuya</td><td>2-1-0</td><td>vs.</td><td>Nakamura, Tomoya</td></tr></tbody></table>

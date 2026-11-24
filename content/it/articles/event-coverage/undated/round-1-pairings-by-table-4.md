@@ -1,0 +1,40 @@
+---
+id: x6bnddm3
+kind: event
+lang: it
+path: /it/articles/event-coverage/undated/round-1-pairings-by-table-4
+title: Round 1 Pairings (by Table)
+published: null
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: it
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-1-pairings-table-2000-01-01-13
+    lang_detected: it
+    capture_id: 480966
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-1-pairings-table-2000-01-01-13
+    captured_at: '2021-12-05 15:33:02+00'
+    rule: meta.og_title
+sources:
+- document_id: x6bnddm3
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-1-pairings-table-2000-01-01-13
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/round-1-pairings-table-2000-01-01-13
+  lang: it
+  template: drupal
+  captured_at: '2021-12-05 15:33:02+00'
+  capture_id: 480966
+  wayback_url: https://web.archive.org/web/20211205153302id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-1-pairings-table-2000-01-01-13
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: x6bnddm3
+  capture_id: 480966
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-1-pairings-table-2000-01-01-13
+  wayback_url: https://web.archive.org/web/20211205153302id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-1-pairings-table-2000-01-01-13
+  captured_at: '2021-12-05 15:33:02+00'
+  template: drupal
+  sha256: b363087f310515426f9c375629a6b11822e3fd1ee727e69e5c2ce536dbdf58be
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b> </b></td><td><b>Opponent</b></td></tr><tr><td>  1</td><td>Mongauze, Philippe</td><td>vs.</td><td>Dumay, Alexis</td></tr><tr><td>  2</td><td>Reichman, Maxime</td><td>vs.</td><td>Didierjean, Thomas</td></tr><tr><td>  3</td><td>Goudonnet, Jonathan</td><td>vs.</td><td>Beirenguier, Bastien</td></tr><tr><td>  4</td><td>Le Borgne, Julien</td><td>vs.</td><td>Ourselin, Sebastien</td></tr><tr><td>  5</td><td>Levy, Raphael</td><td>vs.</td><td>Suon, Sochara</td></tr><tr><td>  6</td><td>Lauriol, Sylvain</td><td>vs.</td><td>Petit, Xavier</td></tr><tr><td>  7</td><td>Lehoux, Sylvain</td><td>vs.</td><td>Manaranche, Stephane</td></tr><tr><td>  8</td><td>Sanchez, Axel</td><td>vs.</td><td>Mouton, Jerome</td></tr><tr><td>  9</td><td>Moulinier, Barthelemy</td><td>vs.</td><td>Fardeau, Florent</td></tr><tr><td> 10</td><td>Uroz, Jean Michel</td><td>vs.</td><td>Gaaloul, Cédric</td></tr><tr><td> 11</td><td>Lemesle, Alexandre</td><td>vs.</td><td>Meraghni, Farid</td></tr><tr><td> 12</td><td>Roussel, Johann</td><td>vs.</td><td>Perthuis, Thibault</td></tr><tr><td> 13</td><td>Massue, Michel</td><td>vs.</td><td>Dupraz, Thibault</td></tr><tr><td> 14</td><td>Purcha, Stephane</td><td>vs.</td><td>Buge, Eric</td></tr><tr><td> 15</td><td>Manon, Frederic</td><td>vs.</td><td>Poussière, Gilles</td></tr><tr><td> 16</td><td>Bornarel, Nicolas</td><td>vs.</td><td>Aouidad, Karim</td></tr><tr><td> 17</td><td>Pagorek, Laurent</td><td>vs.</td><td>Baussaron, Pierre</td></tr><tr><td> 18</td><td>Wafo-Papa, Guillaume</td><td>vs.</td><td>Surgan, Jean-Charles</td></tr><tr><td> 19</td><td>Morel, Yael</td><td>vs.</td><td>Catterman, Sebastien</td></tr><tr><td> 20</td><td>Viel, Bertrand</td><td>vs.</td><td>Liess, Bastien</td></tr><tr><td> 21</td><td>Ranque, Wielfried</td><td>vs.</td><td>Menard, Antoine</td></tr><tr><td> 22</td><td>Bouloc, Yannick</td><td>vs.</td><td>Shaw, Thomas</td></tr><tr><td> 23</td><td>Robino, Lionel</td><td>vs.</td><td>Reaubourg, Damien</td></tr><tr><td> 24</td><td>Francois, Fabien</td><td>vs.</td><td>Tenenbaum, Amiel</td></tr><tr><td> 25</td><td>Le Loeuff, Julien</td><td>vs.</td><td>Kantin, Adrien</td></tr><tr><td> 26</td><td>Niclas, Vincent</td><td>vs.</td><td>Jean, Philippe</td></tr><tr><td> 27</td><td>Chanioux, Pierre</td><td>vs.</td><td>Hamann, Julien</td></tr><tr><td> 28</td><td>Navarro, Romain</td><td>vs.</td><td>Canali, Pierre</td></tr><tr><td> 29</td><td>Meurisse, Pierre-Jerome</td><td>vs.</td><td>Matignon, Guillaume</td></tr><tr><td> 30</td><td>Forestier, Nicolas</td><td>vs.</td><td>Salvin, Jean Charles</td></tr><tr><td> 31</td><td>Castanier, Emmanuel</td><td>vs.</td><td>Rosette, Michael</td></tr><tr><td> 32</td><td>Lamoureux, Bastien</td><td>vs.</td><td>Bevand, Manuel</td></tr><tr><td> 33</td><td>Nassif, Gabriel</td><td>vs.</td><td>Peset, Alexandre</td></tr><tr><td> 34</td><td>Garcia, Gérard</td><td>vs.</td><td>Tutier, Christophe</td></tr><tr><td> 35</td><td>Lefebvre, Damien</td><td>vs.</td><td>Guillaumin, Bertrand</td></tr><tr><td> 36</td><td>Payen, Lionel</td><td>vs.</td><td>Deniaud, Pascal</td></tr><tr><td> 37</td><td>Veron, Mathias</td><td>vs.</td><td>Valade, Pascal</td></tr><tr><td> 38</td><td>Lebland, Guillaume</td><td>vs.</td><td>Chanu, Nicolas</td></tr><tr><td> 39</td><td>Martino, Lucien</td><td>vs.</td><td>Dell, William</td></tr><tr><td> 40</td><td>Martin, Maxime</td><td>vs.</td><td>Jeanne, Stephane</td></tr><tr><td> 41</td><td>Libert, Clovis</td><td>vs.</td><td>Fabregat, Jose</td></tr><tr><td> 42</td><td>Hamon, Yann</td><td>vs.</td><td>Dobrigna, Loic</td></tr><tr><td> 43</td><td>Gleizes, Camille</td><td>vs.</td><td>Cousty, Pierre</td></tr><tr><td> 44</td><td>Dogor, Olivier</td><td>vs.</td><td>Laur, Pierre-Alain</td></tr><tr><td> 45</td><td>Lavoisier, Regis</td><td>vs.</td><td>Bordet, Philippe</td></tr><tr><td> 46</td><td>Rivière, Alexandre</td><td>vs.</td><td>Barberet, Stéphane</td></tr><tr><td> 47</td><td>Leloup, Damien</td><td>vs.</td><td>Ruel, Olivier</td></tr><tr><td> 48</td><td>Zarka, Julien</td><td>vs.</td><td>Canu, Franck</td></tr><tr><td> 49</td><td>Ollier, Guillaume</td><td>vs.</td><td>Gaudron, Stephane</td></tr><tr><td> 50</td><td>Dickert, Olivier</td><td>vs.</td><td>Caron, Loic</td></tr><tr><td> 51</td><td>Leroux, Simon</td><td>vs.</td><td>Peretti, Jean Paul</td></tr><tr><td> 52</td><td>Marobin, Hadrien</td><td>vs.</td><td>Marion, Damien</td></tr><tr><td> 53</td><td>Colomb, Julien</td><td>vs.</td><td>Peyronnel, Christophe</td></tr><tr><td> 54</td><td>Le, Minh</td><td>vs.</td><td>Cattelain, Frederic</td></tr><tr><td> 55</td><td>Gusthiot, Julien</td><td>vs.</td><td>Olivieri, Nicolas</td></tr><tr><td> 56</td><td>Goineau, Jérome</td><td>vs.</td><td>Pageault, Etienne</td></tr><tr><td> 57</td><td>Vigne, Bertrand</td><td>vs.</td><td>Kosynski, Baptiste</td></tr><tr><td> 58</td><td>Benezech, Lionel</td><td>vs.</td><td>Bui, Lucien</td></tr><tr><td> 59</td><td>Degrou, Loic</td><td>vs.</td><td>Janiak, Laurent</td></tr><tr><td> 60</td><td>Blery, Gilles</td><td>vs.</td><td>Jeudon, Florent</td></tr><tr><td> 61</td><td>Malherbaud, Pierre</td><td>vs.</td><td>Andrieux, David</td></tr><tr><td> 62</td><td>Caumes, Benjamin</td><td>vs.</td><td>Fenet, Camille</td></tr><tr><td> 63</td><td>Delrieu, Guillaume</td><td>vs.</td><td>Coueffe, Romuald</td></tr><tr><td> 64</td><td>Mocquillon, Yannick</td><td>vs.</td><td>Passemard, Nicolas</td></tr><tr><td> 65</td><td>Martin, Jean-Baptiste</td><td>vs.</td><td>Belmer, Yann</td></tr><tr><td> 66</td><td>Samsonoff, Stephane</td><td>vs.</td><td>Lefranc, Florent</td></tr><tr><td> 67</td><td>Gerthoux, David</td><td>vs.</td><td>Merle des Iles, Terence</td></tr><tr><td> 68</td><td>Debard, Michael</td><td>vs.</td><td>Spengler, Fabien</td></tr><tr><td> 69</td><td>Bourgoin, Stéphane</td><td>vs.</td><td>Guilleux, Vincent</td></tr><tr><td> 70</td><td>Queroub, Steve</td><td>vs.</td><td>Courtois, Frederic</td></tr><tr><td> 71</td><td>Samson, Florian</td><td>vs.</td><td>Vernay, Emmanuel</td></tr><tr><td> 72</td><td>Chelghaf, Rioha</td><td>vs.</td><td>Sochon, Michael</td></tr><tr><td> 73</td><td>Boinet, Eric</td><td>vs.</td><td>Hautecouverture, Thomas</td></tr><tr><td>   </td><td>Ruel, Antoine</td><td> </td><td>* BYE *  Pod 18</td></tr><tr><td>   </td><td>Ramstein, Etienne</td><td> </td><td>* BYE *  Pod 19</td></tr><tr><td>   </td><td>Renouillé, Gaetan</td><td> </td><td>* BYE *  Pod 17</td></tr></tbody></table>

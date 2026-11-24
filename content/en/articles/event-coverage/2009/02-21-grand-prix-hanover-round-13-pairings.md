@@ -1,0 +1,47 @@
+---
+id: chw4ary7
+kind: event
+lang: en
+path: /en/articles/event-coverage/2009/02-21-grand-prix-hanover-round-13-pairings
+title: 'Grand-Prix Hanover: Round 13 Pairings'
+published: '2009-02-21'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-hanover-round-13-pairings-2009-02-21
+    lang_detected: en
+    capture_id: 401221
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-hanover-round-13-pairings-2009-02-21
+    captured_at: '2022-09-27 06:06:48+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-hanover-round-13-pairings-2009-02-21
+    lang_detected: en
+    capture_id: 401221
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-hanover-round-13-pairings-2009-02-21
+    captured_at: '2022-09-27 06:06:48+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: chw4ary7
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-hanover-round-13-pairings-2009-02-21
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-hanover-round-13-pairings-2009-02-21
+  lang: en
+  template: drupal
+  captured_at: '2022-09-27 06:06:48+00'
+  capture_id: 401221
+  wayback_url: https://web.archive.org/web/20220927060648id_/https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-hanover-round-13-pairings-2009-02-21
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: chw4ary7
+  capture_id: 401221
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-hanover-round-13-pairings-2009-02-21
+  wayback_url: https://web.archive.org/web/20220927060648id_/https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-hanover-round-13-pairings-2009-02-21
+  captured_at: '2022-09-27 06:06:48+00'
+  template: drupal
+  sha256: e7606779b42d839243f3ef2f3f1e6cfaa7f24f6f63dc9d8a2c19330b4a13b6e5
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Points</b></td><td><b>&#10;						</b></td><td><b>Opponent</b></td><td><b>Points</b></td></tr><tr><td> 1</td><td>Van Medevoort, Robert [NLD]</td><td> 27</td><td>vs.</td><td>Paulmaier, Benjamin [DEU]</td><td> 27</td></tr><tr><td> 2</td><td>Vieren, Pascal [BEL]</td><td> 33</td><td>vs.</td><td>Burgold, Lino [DEU]</td><td> 33</td></tr><tr><td> 3</td><td>Kraft, Lukas [CZE]</td><td> 31</td><td>vs.</td><td>Hebky, Michal [CZE]</td><td> 30</td></tr><tr><td> 4</td><td>Nakamura, Shuuhei [JPN]</td><td> 30</td><td>vs.</td><td>Feenstra, Rens [NLD]</td><td> 30</td></tr><tr><td> 5</td><td>Cavaglieri, William [ITA]</td><td> 30</td><td>vs.</td><td>Krejsa, Tomas [CZE]</td><td> 30</td></tr><tr><td> 6</td><td>Stöter, Erik [DEU]</td><td> 30</td><td>vs.</td><td>Perez Copete, Paco [ESP]</td><td> 30</td></tr><tr><td> 7</td><td>Kleij, Rogier [NLD]</td><td> 30</td><td>vs.</td><td>Bauer, Karim [AUT]</td><td> 30</td></tr><tr><td> 8</td><td>Roessler, Andreas [DEU]</td><td> 30</td><td>vs.</td><td>Summersberger, Helmut [AUT]</td><td> 30</td></tr><tr><td> 9</td><td>Posolda, Ondra [CZE]</td><td> 30</td><td>vs.</td><td>Levy, Raphael [FRA]</td><td> 30</td></tr><tr><td> 10</td><td>Kukucska, Zsolt [HUN]</td><td> 30</td><td>vs.</td><td>Mygh, Sebastian [DNK]</td><td> 30</td></tr><tr><td> 11</td><td>Gottlieb, Peter [DNK]</td><td> 30</td><td>vs.</td><td>Juza, Martin [CZE]</td><td> 30</td></tr><tr><td> 12</td><td>Hild, Greg [LUX]</td><td> 30</td><td>vs.</td><td>Da Rosa, Paulo Vitor D [BRA]</td><td> 29</td></tr><tr><td> 13</td><td>Steiner, Stefan [AUT]</td><td> 29</td><td>vs.</td><td>Bertiou, Simon [GRC]</td><td> 28</td></tr><tr><td> 14</td><td>Musial, Lukasz [POL]</td><td> 28</td><td>vs.</td><td>Saitou, Tomoharu [JPN]</td><td> 28</td></tr><tr><td> 15</td><td>Pils, Florian [DEU]</td><td> 28</td><td>vs.</td><td>Chiarel, Federico [ITA]</td><td> 27</td></tr><tr><td> 16</td><td>Koller, Tobias [DEU]</td><td> 27</td><td>vs.</td><td>Weile, Daniel [DEU]</td><td> 27</td></tr><tr><td> 17</td><td>Huschner, Roland [DEU]</td><td> 27</td><td>vs.</td><td>Cifka, Stanislav [CZE]</td><td> 27</td></tr><tr><td> 18</td><td>Bucher, Manuel [CHE]</td><td> 27</td><td>vs.</td><td>Sokolowski, Konrad [POL]</td><td> 27</td></tr><tr><td> 19</td><td>Oberg, Kenny [SWE]</td><td> 36</td><td>vs.</td><td>Vidugiris, Gaudenis [USA]</td><td> 33</td></tr><tr><td> 20</td><td>Sudmann, Jan [DEU]</td><td> 27</td><td>vs.</td><td>Peter, Manuel [DEU]</td><td> 27</td></tr><tr><td> 21</td><td>Kunwald, Christian T [AUT]</td><td> 27</td><td>vs.</td><td>Lachevre, Jerome [FRA]</td><td> 27</td></tr><tr><td> 22</td><td>Moral, Carlos [ESP]</td><td> 27</td><td>vs.</td><td>Schulmerich, Felix [DEU]</td><td> 27</td></tr><tr><td> 23</td><td>Joens, Klaus [DEU]</td><td> 27</td><td>vs.</td><td>Faber, Manuel [DEU]</td><td> 27</td></tr><tr><td> 24</td><td>Orsini Jones, Matteo [ENG]</td><td> 27</td><td>vs.</td><td>Schultz-nielsen, Marti [DNK]</td><td> 27</td></tr><tr><td> 25</td><td>Fortier, Remi [FRA]</td><td> 27</td><td>vs.</td><td>Gregoir, Christophe [BEL]</td><td> 27</td></tr><tr><td> 26</td><td>Pinchon, Pierre [FRA]</td><td> 27</td><td>vs.</td><td>Costa, Nuno [PRT]</td><td> 27</td></tr><tr><td> 27</td><td>Vieren, Peter [BEL]</td><td> 27</td><td>vs.</td><td>Volk, Philipp [DEU]</td><td> 27</td></tr><tr><td> 28</td><td>Zornes, James W [USA]</td><td> 27</td><td>vs.</td><td>Severin, Thoralf [DEU]</td><td> 27</td></tr><tr><td> 29</td><td>Marciniszyn, Michal [CZE]</td><td> 27</td><td>vs.</td><td>Ohlhof, Frank [DEU]</td><td> 27</td></tr><tr><td> 30</td><td>Beckmann, Bertram [DEU]</td><td> 27</td><td>vs.</td><td>Schmidt, Arthur [DEU]</td><td> 27</td></tr><tr><td> 31</td><td>Žunko, Bojan [SVN]</td><td> 27</td><td>vs.</td><td>Perez Fresnedo, Javier [ESP]</td><td> 27</td></tr><tr><td> 32</td><td>Bauche, Marcel [DEU]</td><td> 26</td><td>vs.</td><td>Chronopoulos, Bill [GRC]</td><td> 26</td></tr><tr><td> 33</td><td>Michel, Guillaume [FRA]</td><td> 26</td><td>vs.</td><td>Vávra, Nikola [CZE]</td><td> 26</td></tr><tr><td> 34</td><td>Müller, Andreas [DEU]</td><td> 26</td><td>vs.</td><td>Bokor, Peter [HUN]</td><td> 26</td></tr><tr><td> 35</td><td>Christensen, Allan [DNK]</td><td> 26</td><td>vs.</td><td>Knoerr, Sebastian [DEU]</td><td> 26</td></tr><tr><td> 36</td><td>Van De Veen, Steffen [NLD]</td><td> 26</td><td>vs.</td><td>Surkamp, Florian [DEU]</td><td> 25</td></tr><tr><td> 37</td><td>Noorlander, Niels [NLD]</td><td> 25</td><td>vs.</td><td>Lixl, David [AUT]</td><td> 25</td></tr><tr><td> 38</td><td>Vosahlik, Petr [CZE]</td><td> 25</td><td>vs.</td><td>Geißler, Gunnar [DEU]</td><td> 25</td></tr><tr><td> 39</td><td>Schonherr, Georg [DEU]</td><td> 25</td><td>vs.</td><td>Brueggemann, Julian A [DEU]</td><td> 25</td></tr><tr><td> 40</td><td>Schwarz, Sascha [DEU]</td><td> 25</td><td>vs.</td><td>Lorenz, Konstantin [DEU]</td><td> 24</td></tr><tr><td> 41</td><td>Pfeffer, Lukas [AUT]</td><td> 24</td><td>vs.</td><td>Nørgaard, Lasse [DNK]</td><td> 24</td></tr><tr><td> 42</td><td>Fanghaenel, Alex [DEU]</td><td> 24</td><td>vs.</td><td>Fricke, Arne [DEU]</td><td> 24</td></tr><tr><td> 43</td><td>Sutor, Emanuel [DEU]</td><td> 24</td><td>vs.</td><td>Ruel, Olivier [FRA]</td><td> 24</td></tr><tr><td> 44</td><td>David, Do-anh [CZE]</td><td> 24</td><td>vs.</td><td>Altensen, Tim [DEU]</td><td> 24</td></tr><tr><td> 45</td><td>Juergens, Dorian [DEU]</td><td> 24</td><td>vs.</td><td>Henze, Oliver [DEU]</td><td> 24</td></tr><tr><td> 46</td><td>Malin, Antti E [FIN]</td><td> 24</td><td>vs.</td><td>Martin, Malik [DEU]</td><td> 24</td></tr><tr><td> 47</td><td>Nielsen, Kristian [DNK]</td><td> 24</td><td>vs.</td><td>Andersen, Rune Martens [DNK]</td><td> 24</td></tr><tr><td> 48</td><td>Kocsis, Gabor [HUN]</td><td> 24</td><td>vs.</td><td>Ruel, Antoine [FRA]</td><td> 24</td></tr><tr><td> 49</td><td>Moiseev, Dmitry S [RUS]</td><td> 24</td><td>vs.</td><td>Merieux, Edouard [FRA]</td><td> 24</td></tr><tr><td> 50</td><td>Charvat, Jiri [CZE]</td><td> 24</td><td>vs.</td><td>Porostly, Petr [CZE]</td><td> 24</td></tr><tr><td> 51</td><td>Pech, Zbynek [CZE]</td><td> 24</td><td>vs.</td><td>Blohon, Lucas [CZE]</td><td> 24</td></tr><tr><td> 52</td><td>Sisu, Andrei [ROU]</td><td> 24</td><td>vs.</td><td>Pastor, Isaac [ESP]</td><td> 24</td></tr><tr><td> 53</td><td>Bland, Richard J [DEU]</td><td> 24</td><td>vs.</td><td>Piatkowski, Dominik [POL]</td><td> 24</td></tr><tr><td> 54</td><td>Abed, Arasch [DEU]</td><td> 24</td><td>vs.</td><td>Straub, Patrick [DEU]</td><td> 23</td></tr><tr><td> 55</td><td>Roelofs, Frank [NLD]</td><td> 23</td><td>vs.</td><td>Taoubi, Farid [DEU]</td><td> 23</td></tr><tr><td> 56</td><td>Kirchbacher, Florian [AUT]</td><td> 23</td><td>vs.</td><td>Sele, Yves [CHE]</td><td> 23</td></tr><tr><td> 57</td><td>Frederiksen, Anders [DNK]</td><td> 22</td><td>vs.</td><td>Holzinger, Thomas [AUT]</td><td> 22</td></tr><tr><td> 58</td><td>Ruiz, Carlos [ESP]</td><td> 22</td><td>vs.</td><td>Socha, Marek [POL]</td><td> 21</td></tr><tr><td> 59</td><td>Weitkamp, Christoph [DEU]</td><td> 21</td><td>vs.</td><td>Lailey, Mark J [DEU]</td><td> 21</td></tr><tr><td> 60</td><td>Stihle, Julien [FRA]</td><td> 21</td><td>vs.</td><td>Kowalski, Grzegorz [POL]</td><td> 21</td></tr><tr><td> 61</td><td>Kowal, Brian J [USA]</td><td> 21</td><td>vs.</td><td>Wuttke, Moritz [DEU]</td><td> 20</td></tr><tr><td>&#10;					</td><td>Dobis, David [CZE]</td><td> 19</td><td>&#10;					</td><td>* BYE *</td><td></td></tr></tbody></table>

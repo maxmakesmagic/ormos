@@ -1,0 +1,48 @@
+---
+id: 3s8yys3y
+kind: event
+lang: tgl
+path: /tgl/events/2005/gpmats05/round-10-results
+title: Round 10 Results
+published: null
+column_slug: null
+column: null
+authors: []
+event_code: gpmats05
+detected_lang: tgl
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/gpmats05/res10
+    lang_detected: tgl
+    capture_id: 1050161
+    url: http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpmats05/res10
+    captured_at: '2013-07-03 06:42:01+00'
+    rule: aspx.article_heading
+  event_code:
+    page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/gpmats05/res10
+    lang_detected: tgl
+    capture_id: 1050161
+    url: http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpmats05/res10
+    captured_at: '2013-07-03 06:42:01+00'
+    rule: url.event_code
+sources:
+- document_id: 3s8yys3y
+  url: http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpmats05/res10
+  page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/gpmats05/res10
+  lang: tgl
+  template: aspx
+  captured_at: '2013-07-03 06:42:01+00'
+  capture_id: 1050161
+  wayback_url: https://web.archive.org/web/20130703064201id_/http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpmats05/res10
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 3s8yys3y
+  capture_id: 1050161
+  url: http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpmats05/res10
+  wayback_url: https://web.archive.org/web/20130703064201id_/http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpmats05/res10
+  captured_at: '2013-07-03 06:42:01+00'
+  template: aspx
+  sha256: c4c989f08fb277599b2869566b3bd89de80387c97e14a02842cb3e66baf33a28
+render_recovery: []
+---
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130703064201/http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpmats05/res10">&#10;        <b>Table</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130703064201/http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpmats05/res10">&#10;        <b>Player</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130703064201/http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpmats05/res10">&#10;        <b>Result</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130703064201/http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpmats05/res10">&#10;        <b>&#10;      </b></a><b>&#10;    </b></td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130703064201/http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpmats05/res10">&#10;        <b>Opponent</b>&#10;      </a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td> 1</td>&#10;    <td>Asahara, Akira</td>&#10;    <td>Drew 1-1-1</td>&#10;    <td>vs.</td>&#10;    <td>Nakamura, Shuuhei</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 2</td>&#10;    <td>Hirabayashi, Kazuya</td>&#10;    <td>Lost 0-2</td>&#10;    <td>vs.</td>&#10;    <td>Koyama, Kenta</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 3</td>&#10;    <td>Kamei, Shunsuke</td>&#10;    <td>Lost 0-2</td>&#10;    <td>vs.</td>&#10;    <td>Fujita, Osamu</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 4</td>&#10;    <td>Toochika, Takayuki</td>&#10;    <td>Won 2-1</td>&#10;    <td>vs.</td>&#10;    <td>Wakisaka, Yuusuke</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 5</td>&#10;    <td>Oiso, Masashi</td>&#10;    <td>Won 2-1</td>&#10;    <td>vs.</td>&#10;    <td>Iizuka, Shun</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 6</td>&#10;    <td>Satou, Kenji</td>&#10;    <td>Lost 1-2</td>&#10;    <td>vs.</td>&#10;    <td>Furukawa, Ken'ichi</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 7</td>&#10;    <td>Nonaka, Kentarou</td>&#10;    <td>Won 2-0</td>&#10;    <td>vs.</td>&#10;    <td>Mizutani, Naoki</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 8</td>&#10;    <td>Miura, Hiroyuki</td>&#10;    <td>Lost 0-2</td>&#10;    <td>vs.</td>&#10;    <td>Ishida, Itaru</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 9</td>&#10;    <td>Katayama, Hidenori</td>&#10;    <td>Won 2-0</td>&#10;    <td>vs.</td>&#10;    <td>Nakao, Munenari</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 10</td>&#10;    <td>Sorensen, Robin G</td>&#10;    <td>Lost 1-2</td>&#10;    <td>vs.</td>&#10;    <td>Takahashi, Jun'ya</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 11</td>&#10;    <td>Kashihara, Motonori</td>&#10;    <td>Drew 1-1-1</td>&#10;    <td>vs.</td>&#10;    <td>Fukushima, Hirotomo</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 12</td>&#10;    <td>Ruel, Olivier</td>&#10;    <td>Lost 1-2</td>&#10;    <td>vs.</td>&#10;    <td>Tashiro, Yoshiaki</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 13</td>&#10;    <td>Oomori, Tomoaki</td>&#10;    <td>Won 2-0</td>&#10;    <td>vs.</td>&#10;    <td>Ishimura, Shintarou</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 14</td>&#10;    <td>Maki, Kouichirou</td>&#10;    <td>Lost 0-2</td>&#10;    <td>vs.</td>&#10;    <td>Ootsubo, Yuuji</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 15</td>&#10;    <td>Mouri, Takemasa</td>&#10;    <td>Lost 0-2</td>&#10;    <td>vs.</td>&#10;    <td>Saitou, Tomoharu</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 16</td>&#10;    <td>Imamura, Taichirou</td>&#10;    <td>Lost 0-2</td>&#10;    <td>vs.</td>&#10;    <td>Morita, Masahiko</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 17</td>&#10;    <td>Shimura, Ichirou</td>&#10;    <td>Won 2-0</td>&#10;    <td>vs.</td>&#10;    <td>Kuroda, Toshiyuki</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 18</td>&#10;    <td>Ootsuka, Koutarou</td>&#10;    <td>Lost 1-2</td>&#10;    <td>vs.</td>&#10;    <td>Tsumura, Kenji</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 19</td>&#10;    <td>Yasuno, Junji</td>&#10;    <td>Won 2-0</td>&#10;    <td>vs.</td>&#10;    <td>Okamoto, Jin</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 20</td>&#10;    <td>Yamamoto, Shouhei</td>&#10;    <td>Lost 1-2</td>&#10;    <td>vs.</td>&#10;    <td>Shiozu, Ryouma</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 21</td>&#10;    <td>Fujita, Tsuyoshi</td>&#10;    <td>Lost 0-2</td>&#10;    <td>vs.</td>&#10;    <td>Yasooka, Shouta</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 22</td>&#10;    <td>Ibamoto, Masami</td>&#10;    <td>Won 2-1</td>&#10;    <td>vs.</td>&#10;    <td>Yamakawa, Shin'ichirou</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 23</td>&#10;    <td>Mihara, Makihito</td>&#10;    <td>Lost 1-2</td>&#10;    <td>vs.</td>&#10;    <td>Hanada, Yuu</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 24</td>&#10;    <td>Kasahara, Yuuki</td>&#10;    <td>Lost 0-1-1</td>&#10;    <td>vs.</td>&#10;    <td>Yanagi, Hiroki</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 25</td>&#10;    <td>Iyanaga, Jun'ya</td>&#10;    <td>Won 2-0</td>&#10;    <td>vs.</td>&#10;    <td>Iwai, Tsuyoshi</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 26</td>&#10;    <td>Ishii, Taisuke</td>&#10;    <td>Won 2-1</td>&#10;    <td>vs.</td>&#10;    <td>Kubota, Kenta</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 27</td>&#10;    <td>Imai, Ryouta</td>&#10;    <td>Lost 0-2</td>&#10;    <td>vs.</td>&#10;    <td>Kudou, Kouichi</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 28</td>&#10;    <td>Doi, Fumiaki</td>&#10;    <td>Won 2-0</td>&#10;    <td>vs.</td>&#10;    <td>Inanaga, Nobuyuki</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 29</td>&#10;    <td>Katou, Takahiko</td>&#10;    <td>Lost 1-2</td>&#10;    <td>vs.</td>&#10;    <td>Ishikawa, Masayo</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 30</td>&#10;    <td>Kuniyoshi, Yasuhiro</td>&#10;    <td>Won 2-1</td>&#10;    <td>vs.</td>&#10;    <td>Okada, Wataru</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 31</td>&#10;    <td>Nagamine, Kazuki</td>&#10;    <td>Lost 0-2</td>&#10;    <td>vs.</td>&#10;    <td>Saitou, Kotatsu</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 32</td>&#10;    <td>Oosawa, Takuya</td>&#10;    <td>Won 2-0</td>&#10;    <td>vs.</td>&#10;    <td>Chai, Ming Huang Royce</td>&#10;  </tr>&#10;</tbody></table>

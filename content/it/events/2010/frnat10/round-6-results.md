@@ -1,0 +1,63 @@
+---
+id: 54f3v5d1
+kind: event
+lang: it
+path: /it/events/2010/frnat10/round-6-results
+title: Round 6 Results
+published: '2010-07-23'
+column_slug: null
+column: null
+authors: []
+event_code: frnat10
+detected_lang: it
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-6-results-2010-07-23-0
+    lang_detected: it
+    capture_id: 555816
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-6-results-2010-07-23-0
+    captured_at: '2022-01-20 02:48:53+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-6-results-2010-07-23-0
+    lang_detected: it
+    capture_id: 555816
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-6-results-2010-07-23-0
+    captured_at: '2022-01-20 02:48:53+00'
+    rule: drupal.posted_in_date
+  event_code:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/frnat10/res6
+    lang_detected: it
+    capture_id: 396521
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/frnat10/res6
+    captured_at: '2013-07-06 09:32:21+00'
+    rule: url.event_code
+sources:
+- document_id: 54f3v5d1
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-6-results-2010-07-23-0
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/round-6-results-2010-07-23-0
+  lang: it
+  template: drupal
+  captured_at: '2022-01-20 02:48:53+00'
+  capture_id: 555816
+  wayback_url: https://web.archive.org/web/20220120024853id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-6-results-2010-07-23-0
+- document_id: 54f3v5d1
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/frnat10/res6
+  page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/frnat10/res6
+  lang: it
+  template: aspx
+  captured_at: '2013-07-06 09:32:21+00'
+  capture_id: 396521
+  wayback_url: https://web.archive.org/web/20130706093221id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/frnat10/res6
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 54f3v5d1
+  capture_id: 555816
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-6-results-2010-07-23-0
+  wayback_url: https://web.archive.org/web/20220120024853id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-6-results-2010-07-23-0
+  captured_at: '2022-01-20 02:48:53+00'
+  template: drupal
+  sha256: 3362e4589dcd62307eb970559ef016eb369060ca96341d740478a6ef5710751f
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Result</b></td><td><b>&#10;						</b></td><td><b>Opponent</b></td></tr><tr><td> 1</td><td>Forestier, Nicolas</td><td>Lost 0-2</td><td>vs.</td><td>Boucetta, Joackim</td></tr><tr><td> 2</td><td>Ayena, Koffi , William</td><td>Lost 1-2</td><td>vs.</td><td>Fenaux-Briot, Romain</td></tr><tr><td> 3</td><td>Hammann, Julien</td><td>Lost 0-2</td><td>vs.</td><td>Barry, Olivier</td></tr><tr><td> 4</td><td>Bouzennout, Yassin</td><td>Won 2-1</td><td>vs.</td><td>Marchal, Antonin</td></tr><tr><td> 5</td><td>Ruel, Olivier</td><td>Won 2-0</td><td>vs.</td><td>Metelian, Philippe</td></tr><tr><td> 6</td><td>Pagnag, Luc</td><td>Lost 1-2</td><td>vs.</td><td>Bouvier, Patrick</td></tr><tr><td> 7</td><td>Godefert, Alan</td><td>Won 2-0</td><td>vs.</td><td>Baptiste, Nicolas</td></tr><tr><td> 8</td><td>Habert, Alexandre</td><td>Lost 0-2</td><td>vs.</td><td>Galtier, Eric</td></tr><tr><td> 9</td><td>Mille, Mickael</td><td>Lost 0-2</td><td>vs.</td><td>Vautrin, Nicolas</td></tr><tr><td> 10</td><td>Mottet, Cyril</td><td>Won 2-1</td><td>vs.</td><td>Tranchant, Hugo</td></tr><tr><td> 11</td><td>Bagarry, Alexis</td><td>Won 2-1</td><td>vs.</td><td>Coudray, Olivier</td></tr><tr><td> 12</td><td>Matignon, Guillaume</td><td>Lost 0-2</td><td>vs.</td><td>Gabriel, Teddy</td></tr><tr><td> 13</td><td>Chiche, Kevin</td><td>Lost 1-2</td><td>vs.</td><td>Menard, Antoine</td></tr><tr><td> 14</td><td>Remoiville, Jonathan</td><td>Lost 0-2</td><td>vs.</td><td>Ameeuw, Sébastien</td></tr><tr><td> 15</td><td>Bucheron, Rémi</td><td>Lost 1-2</td><td>vs.</td><td>Duguet, Nicolas</td></tr><tr><td> 16</td><td>Danis, Mickael</td><td>Lost 0-2</td><td>vs.</td><td>Urso, Laurent</td></tr><tr><td> 17</td><td>Brolles, Alexandre</td><td>Lost 0-2</td><td>vs.</td><td>Foster, William</td></tr><tr><td> 18</td><td>Lepeytre, Florent</td><td>Won 2-1</td><td>vs.</td><td>Jalabert, Damien</td></tr><tr><td> 19</td><td>Iborra, Julien</td><td>Lost 0-2</td><td>vs.</td><td>Derive, Jean</td></tr><tr><td> 20</td><td>Wans, David</td><td>Lost 0-2</td><td>vs.</td><td>Stihle, Julien</td></tr><tr><td> 21</td><td>Dulac, Boris</td><td>Lost 1-2</td><td>vs.</td><td>Andrieu, Thibault</td></tr><tr><td> 22</td><td>Kelterbaum, Richard</td><td>Won 2-0</td><td>vs.</td><td>Malherbaud, Pierre</td></tr><tr><td> 23</td><td>Doco, Geoffrey</td><td>Won 2-0</td><td>vs.</td><td>Fargues, Olivier</td></tr><tr><td> 24</td><td>Maubert, Noham</td><td>Won 2-0</td><td>vs.</td><td>Deltour, Louis</td></tr><tr><td> 25</td><td>Caillaba, Germain</td><td>Lost 0-2</td><td>vs.</td><td>Le Montagner, Mathieu</td></tr><tr><td> 26</td><td>Pastou, Raphael</td><td>Lost 0-2</td><td>vs.</td><td>Lauriol, Sylvain</td></tr><tr><td> 27</td><td>Canonici, Jean Baptiste</td><td>Won 2-0</td><td>vs.</td><td>Montero, David</td></tr><tr><td> 28</td><td>Pernel, Romain</td><td>Won 2-0</td><td>vs.</td><td>Mongilardi, Gilles</td></tr><tr><td> 29</td><td>Mérieux, Edouard</td><td>Lost 1-2</td><td>vs.</td><td>Tardivaud, Nadege</td></tr><tr><td> 30</td><td>Dambron, Antoine</td><td>Won 2-1</td><td>vs.</td><td>Schoukroun, Yoann</td></tr><tr><td> 31</td><td>Isely, Robin</td><td>Lost 0-2</td><td>vs.</td><td>Facca, Leo</td></tr><tr><td> 32</td><td>Dubus, Franck</td><td>Won 2-0</td><td>vs.</td><td>Chaulieu, Jérome</td></tr><tr><td> 33</td><td>Di Gregorio, Nicolas</td><td>Lost 1-2</td><td>vs.</td><td>Allouchery, Gonzague</td></tr><tr><td> 34</td><td>Hivert, Pascal</td><td>Won 2-0</td><td>vs.</td><td>Miori, Marina</td></tr><tr><td> 35</td><td>Thevenon, Sandy</td><td>Won 2-1</td><td>vs.</td><td>Sarton, Clement</td></tr><tr><td> 36</td><td>Lerbour, Raphaël</td><td>Lost 1-2</td><td>vs.</td><td>Compan, Pierre</td></tr><tr><td> 37</td><td>Maisonneuve, Erwan</td><td>Lost 1-2</td><td>vs.</td><td>Pierron, Gregory</td></tr><tr><td> 38</td><td>Schneider, Julien</td><td>Lost 1-2</td><td>vs.</td><td>Florent, Lucas</td></tr><tr><td> 39</td><td>Schuster, Antoine</td><td>Won 2-0</td><td>vs.</td><td>Claudel, Benjamin</td></tr><tr><td> 40</td><td>Creiche, Selim</td><td>Lost 0-2</td><td>vs.</td><td>De La Crompe De La Boissiere</td></tr><tr><td> 41</td><td>Caillaba, Jean-Michel</td><td>Lost 0-2</td><td>vs.</td><td>Vuillot, Samuel</td></tr><tr><td> 42</td><td>Carette, Alexandre</td><td>Lost 0-2</td><td>vs.</td><td>Gauthier, David</td></tr><tr><td> 43</td><td>Letellier, Jean</td><td>Lost 1-2</td><td>vs.</td><td>Reaubourg, Damien</td></tr><tr><td> 44</td><td>Fourmas, Romain</td><td>Won 2-1</td><td>vs.</td><td>Le Bellégo, Nicolas</td></tr><tr><td> 45</td><td>Le Montagner, Olivier</td><td>Won 2-0</td><td>vs.</td><td>Barbier, Guillaume</td></tr><tr><td> 46</td><td>Cassini, Gregory</td><td>Won 2-1</td><td>vs.</td><td>Mauriac, Guillaume</td></tr><tr><td> 47</td><td>Caous, Philippe</td><td>Lost 1-2</td><td>vs.</td><td>Prebay, Thibault</td></tr><tr><td> 48</td><td>Lambach, Nicolas</td><td>Won 2-0</td><td>vs.</td><td>Dos Santos, Alexandre</td></tr><tr><td> 49</td><td>Godineau, Manuel</td><td>Won 2-1</td><td>vs.</td><td>Merlo, Simon</td></tr><tr><td> 50</td><td>Faure, Cyril</td><td>Lost 0-2</td><td>vs.</td><td>Prunet, Xavier</td></tr><tr><td> 51</td><td>Hugues, Jerome</td><td>Won 2-1</td><td>vs.</td><td>Bouvet, Charly</td></tr><tr><td> 52</td><td>Roy, Julien</td><td>Won 2-1</td><td>vs.</td><td>Migne, Vincent</td></tr><tr><td> 53</td><td>Rémi, Dupuy</td><td>Won 2-0</td><td>vs.</td><td>Savignac, Matthieu</td></tr><tr><td> 54</td><td>Le Marec, Manuel</td><td>Won 2-0</td><td>vs.</td><td>Meyer, Guillaume</td></tr><tr><td> 55</td><td>Pinchon, Pierre</td><td>Won 2-1</td><td>vs.</td><td>Alberola, Victor</td></tr><tr><td> 56</td><td>Levy, Raphael</td><td>Won 2-0</td><td>vs.</td><td>Rolin, Christophe</td></tr><tr><td> 57</td><td>Bonzom, Mathieu</td><td>Won 2-1</td><td>vs.</td><td>Quina, Antonio Batista</td></tr><tr><td> 58</td><td>Banet, Julien</td><td>Lost 0-2</td><td>vs.</td><td>Goursseaud, Loic</td></tr><tr><td> 59</td><td>Nourry, Antoine</td><td>Lost 0-2</td><td>vs.</td><td>Maugard, Antoine</td></tr><tr><td> 60</td><td>Delion, Romain</td><td>Won 2-1</td><td>vs.</td><td>Desuche, Mathieu</td></tr><tr><td> 61</td><td>Primot, Armel</td><td>Won 2-0</td><td>vs.</td><td>Le Ray, Thomas</td></tr><tr><td> 62</td><td>Boistard, Nicolas</td><td>Won 2-1</td><td>vs.</td><td>Ferrand, Frederic</td></tr><tr><td> 63</td><td>Faivre, Boris</td><td>Won 2-1</td><td>vs.</td><td>Guillaume, Laurent</td></tr><tr><td> 64</td><td>Ruel, Antoine</td><td>Lost 1-2</td><td>vs.</td><td>Wafo-Tapa, Guillaume</td></tr><tr><td> 65</td><td>Mauger, Guillaume</td><td>Won 2-0</td><td>vs.</td><td>Cocoal, Vivien</td></tr><tr><td> 66</td><td>Chambonneau, Maxime</td><td>Lost 1-2</td><td>vs.</td><td>Michel, Guillaume</td></tr><tr><td> 67</td><td>Parez, Julien</td><td>Won 2-0</td><td>vs.</td><td>Tachau, Florian</td></tr><tr><td> 68</td><td>Meurisse, Pierre-Jerome</td><td>Won 2-1</td><td>vs.</td><td>Sommen, Pierre</td></tr><tr><td> 69</td><td>Mahe, Cyril</td><td>Won 2-0</td><td>vs.</td><td>Landikov, Ilyas</td></tr><tr><td> 70</td><td>Riviere, Alexandre</td><td>Won 2-1</td><td>vs.</td><td>Nassif, Gabriel</td></tr><tr><td> 71</td><td>Dagen, Pierre</td><td>Lost 0-2</td><td>vs.</td><td>Corda, Adrien</td></tr><tr><td> 72</td><td>Lopes, Guillaume</td><td>Lost 0-2</td><td>vs.</td><td>Chitel, Arnaud</td></tr><tr><td> 73</td><td>Rey, Stephan</td><td>Lost 0-2</td><td>vs.</td><td>Darmandieu, Simon</td></tr><tr><td> 74</td><td>Vatel, David</td><td>Lost 0-2</td><td>vs.</td><td>Fernandez, Fabien</td></tr><tr><td> 75</td><td>Arnold, Olivier</td><td>Won 2-1</td><td>vs.</td><td>Vallée, Romain</td></tr><tr><td> 76</td><td>Joly, Olivier</td><td>Lost 1-2</td><td>vs.</td><td>Messina, Rene</td></tr><tr><td> 77</td><td>Hauchard, Olivier</td><td>Won 2-1</td><td>vs.</td><td>Massicard, Yann</td></tr><tr><td> 78</td><td>Hocquemiller, Arnaud</td><td>Lost 1-2</td><td>vs.</td><td>Crovetto, Adrien</td></tr><tr><td> 79</td><td>Peset, Alexandre</td><td>Lost 1-2</td><td>vs.</td><td>Gyptiere, David</td></tr><tr><td> 80</td><td>Jean, Benjamin</td><td>Won 2-0</td><td>vs.</td><td>Reischek, Jeff</td></tr><tr><td> 81</td><td>Péron, Stéphane</td><td>Won 2-1</td><td>vs.</td><td>Lemerle, Nicolas</td></tr><tr><td> 82</td><td>Canali, Pierre</td><td>Won 2-1</td><td>vs.</td><td>Ranque, Wilfried</td></tr><tr><td> 83</td><td>Manaranche, Stephane</td><td>Lost 1-2</td><td>vs.</td><td>Girardot, John</td></tr><tr><td> 84</td><td>Bailly Maitre, Gael</td><td>Won 2-0</td><td>vs.</td><td>Perthuis, Thibault</td></tr><tr><td> 85</td><td>Bouteille, Jonathan</td><td>Won 2-1</td><td>vs.</td><td>Bonzom, Serge</td></tr><tr><td> 86</td><td>Genest, Brice</td><td>Won 2-1</td><td>vs.</td><td>Mole, Damien</td></tr><tr><td> 87</td><td>Valay, Benjamin</td><td>Won 2-0</td><td>vs.</td><td>Haim, Christophe</td></tr><tr><td> 88</td><td>Jacobsen, Kjetil</td><td>Lost 0-2</td><td>vs.</td><td>ammeux, Julien</td></tr><tr><td> 89</td><td>Boudaoud, Hakim</td><td>Won 2-1</td><td>vs.</td><td>Leroy, Quentin</td></tr><tr><td>&#10;					</td><td>Pernot, Cedric</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr><tr><td>&#10;					</td><td>Jissang, Vincent</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr><tr><td>&#10;					</td><td>Dorliat, Max</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr><tr><td>&#10;					</td><td>Chautain, Clement</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr><tr><td>&#10;					</td><td>Gobert, Guillaume</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr><tr><td>&#10;					</td><td>Claverie, Matthieu</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr><tr><td>&#10;					</td><td>Mathieu, Christophe</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr><tr><td>&#10;					</td><td>Illig, Jerome</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr><tr><td>&#10;					</td><td>Quemin, Arnold</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr></tbody></table>

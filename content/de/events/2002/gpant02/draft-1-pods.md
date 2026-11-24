@@ -1,0 +1,48 @@
+---
+id: cj8jrfq5
+kind: event
+lang: de
+path: /de/events/2002/gpant02/draft-1-pods
+title: Draft 1 Pods
+published: null
+column_slug: null
+column: null
+authors: []
+event_code: gpant02
+detected_lang: de
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/article.aspx?x=sideboard/gpant02/pod1
+    lang_detected: de
+    capture_id: 837795
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/gpant02/pod1
+    captured_at: '2013-06-30 16:49:03+00'
+    rule: aspx.article_heading
+  event_code:
+    page_key: wizards.com/magic/magazine/article.aspx?x=sideboard/gpant02/pod1
+    lang_detected: de
+    capture_id: 837795
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/gpant02/pod1
+    captured_at: '2013-06-30 16:49:03+00'
+    rule: url.event_code
+sources:
+- document_id: cj8jrfq5
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/gpant02/pod1
+  page_key: wizards.com/magic/magazine/article.aspx?x=sideboard/gpant02/pod1
+  lang: de
+  template: aspx
+  captured_at: '2013-06-30 16:49:03+00'
+  capture_id: 837795
+  wayback_url: https://web.archive.org/web/20130630164903id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/gpant02/pod1
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: cj8jrfq5
+  capture_id: 837795
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/gpant02/pod1
+  wayback_url: https://web.archive.org/web/20130630164903id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/gpant02/pod1
+  captured_at: '2013-06-30 16:49:03+00'
+  template: aspx
+  sha256: 39cef118e02698cd09787cce592772fafa6f24747b35d75f6cf94f7207e6a57d
+render_recovery: []
+---
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <a href="/de/events/2002/gpant02/draft-1-pods">&#10;        <b>Pod</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/de/events/2002/gpant02/draft-1-pods">&#10;        <b>&#10;      </b></a><b>&#10;    </b></td>&#10;    <td>&#10;      <a href="/de/events/2002/gpant02/draft-1-pods">&#10;        <b>Player</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/de/events/2002/gpant02/draft-1-pods">&#10;        <b>Points</b>&#10;      </a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>1</td>&#10;    <td>&#10;    </td><td>Karsten, Frank</td>&#10;    <td>24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>Lippert, Christoph</td>&#10;    <td>22</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>Eskeland, Sigurd</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>Jorstedt, Mattias</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>Meraghni, Farid</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>Canu, Franck</td>&#10;    <td>22</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>Zink, Daniel</td>&#10;    <td>24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>Nassif, Gabriel</td>&#10;    <td>24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>2</td>&#10;    <td>&#10;    </td><td>Brendenmühl, Bernd</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>Alshamn, Albert</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>Driesenaar, Ben</td>&#10;    <td>20</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>Born, Rutger</td>&#10;    <td>20</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>van Leeuwen, Arjan</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>Will, Robert</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>reaubourg, damien</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>Boeken, Noah</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>3</td>&#10;    <td>&#10;    </td><td>Krejsa, Tomas</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>Van de Logt, Tom</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>Tesselaar, Han</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>Schreurs, Jos</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>Ronaldson, Ben</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>Cedercrantz, Martin</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>Jeudon, Florent</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>Bakke, Geir</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>4</td>&#10;    <td>&#10;    </td><td>Aguado, Saul</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>van den Broek, Victor</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>Baberowski, Dirk</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>Salin, Johann</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>Lehoux, Sylvain</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>Janiak, Laurent</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>Komanicky, Vladimir</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>Schneiders, Felix</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>5</td>&#10;    <td>&#10;    </td><td>Verbinnen, Kurt</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>Ranque, Wilfried</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>Desprez, Kevin</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>Müller, Michael</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>Schmitz, Dennis</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>Eder, Wolfgang</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>Eriksson, Niklas</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>Hockwin, Simon</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>6</td>&#10;    <td>&#10;    </td><td>Doise, Jan</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>Wiegersma, Jelger</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>Haberkorn, Pascal</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>Leviez, Benoit</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>Kennes, Johan</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>Hoeh, Hans Joachim</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>Geuze, Henk-Jan</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>Bernard, Laurent</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>7</td>&#10;    <td>&#10;    </td><td>Lemoine, Vincent</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>Hugi, Niklaus</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>Steinsdörfer, Daniel</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>Cornelissen, Kamiel</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>Budde, Kai</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>Twiefel, Torben</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>Thorén, Jens</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>Witt, Alexander</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>8</td>&#10;    <td>&#10;    </td><td>Blume, Marco</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>Sita, Jaroslav</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>Da Costa Cabral, Bernardo</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>Herold, Jim</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>Nahodil, Petr</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>Mello, Patrick</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>Reinhardt, Fabio</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>Vollebregt, Joost</td>&#10;    <td>18</td>&#10;  </tr>&#10;</tbody></table>

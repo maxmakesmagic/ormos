@@ -1,0 +1,89 @@
+---
+id: kfsjtyv9
+kind: event
+lang: en
+path: /en/articles/event-coverage/2000/01-01-second-sealed-deck-decklists
+title: 'Second Sealed Deck: Decklists'
+published: '2000-01-01'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/second-sealed-deck-decklists-2000-01-01
+    lang_detected: en
+    capture_id: 582456
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/second-sealed-deck-decklists-2000-01-01
+    captured_at: '2021-12-03 05:10:47+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/second-sealed-deck-decklists-2000-01-01
+    lang_detected: en
+    capture_id: 582456
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/second-sealed-deck-decklists-2000-01-01
+    captured_at: '2021-12-03 05:10:47+00'
+    rule: url.date_slug
+sources:
+- document_id: kfsjtyv9
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/second-sealed-deck-decklists-2000-01-01
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/second-sealed-deck-decklists-2000-01-01
+  lang: en
+  template: drupal
+  captured_at: '2021-12-03 05:10:47+00'
+  capture_id: 582456
+  wayback_url: https://web.archive.org/web/20211203051047id_/https://magic.wizards.com/en/articles/archive/event-coverage/second-sealed-deck-decklists-2000-01-01
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: kfsjtyv9
+  capture_id: 582456
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/second-sealed-deck-decklists-2000-01-01
+  wayback_url: https://web.archive.org/web/20211203051047id_/https://magic.wizards.com/en/articles/archive/event-coverage/second-sealed-deck-decklists-2000-01-01
+  captured_at: '2021-12-03 05:10:47+00'
+  template: drupal
+  sha256: 30eafbe73b250eb8655c789d27864d6ae649c2eb282add858e4553d24f738dda
+render_recovery: []
+---
+*by Sideboard Staff*
+
+### Corporate Elbow
+
+*   [Deckbuild Commentary](https://web.archive.org/web/20000101000000/http://archive.wizards.com/eventarticle.asp?event=PTNY0001&name=967sd2a)
+
+**Card Pool:**
+
+<table><tbody><tr><td>&#10;			<pre>1 Flowstone Thopter&#10;1 Kill Switch&#10;1 Flint Golem&#10;1 Chimeric Idol&#10;1 Keldon Battlewagon&#10;&#10;1 Remote Farm&#10;1 Hickory Woodlot&#10;1 Mercadian Bazaar&#10;1 Peat Bog&#10;&#10;1 Charm Peddler&#10;1 Charmed Griffin&#10;2 Cho-Manno's Blessing&#10;1 Disenchant&#10;1 Fresh Volunteers&#10;1 Inviolability&#10;1 Muzzle&#10;1 Nightwind Glider&#10;1 Pious Warrior&#10;1 Ramosian Commander&#10;1 Ramosian Rally&#10;1 Righteous Indignation&#10;1 Soothing Balm&#10;1 Task Force&#10;1 Thermal Glider&#10;1 Fanatical Devotion&#10;1 Netter en-Dal&#10;1 Off Balance&#10;1 Seal of Cleansing&#10;1 Spiritual Asylum&#10;1 Glittering Lynx&#10;2 Rhystic Circle&#10;1 Samite Sanctuary&#10;1 Soul Charmer&#10;1 Troubled Healer&#10;&#10;2 Darting Merfolk&#10;1 Diplomatic Immunity&#10;1 Gush&#10;1 High Seas&#10;1 Hoodwink&#10;1 Misstep&#10;1 Rishadan Cutpurse&#10;1 Saprazzan Breaker&#10;1 Stinging Barrier&#10;1 Tidal Bore&#10;1 Balloon Peddler&#10;1 Cloud Sprite&#10;1 Extravagant Spirit&#10;1 Rishadan Airship&#10;</pre>&#10;			</td>&#10;			<td>&#10;			<pre>1 Rishadan Footpad&#10;1 Waterfront Bouncer&#10;1 Cloudskate&#10;1 Rootwater Commando&#10;1 Spiketail Hatchling&#10;1 Air Bladder&#10;1 Oraxid&#10;1 Sneaky Homunculus&#10;1 Alexi's Cloak&#10;1 Hazy Homunculus&#10;1 Quicksilver Wall&#10;1 Rethink&#10;1 Rhystic Scrying&#10;1 Stormwatch Eagle&#10;&#10;1 Alley Grifters&#10;2 Bog Witch&#10;1 Cateran Brute&#10;1 Cateran Persuader&#10;1 Cateran summons&#10;1 Conspiracy&#10;1 Deepwood Ghoul&#10;2 Deepwood Legate&#10;1 Forced March&#10;1 Highway Robber&#10;1 Pretender's Claim&#10;1 Quagmire Lamprey&#10;1 Rouse&#10;1 Skulking Fugitive&#10;1 Soul Channeling&#10;1 Vendetta&#10;1 Wall of Distortion&#10;1 Parallax Dementia&#10;1 Rathi Fiend&#10;1 Spineless Thug&#10;1 Stronghold Discipline&#10;1 Vicious Hunger&#10;1 Agent of Shauku&#10;1 Bog Glider&#10;1 Despoil&#10;1 Endbringer's Revel&#10;1 Greel's Caress&#10;1 Rhystic Syphon&#10;&#10;1 Blaster Mage&#10;1 Cave-In&#10;2 Ceremonial Guard&#10;1 Close Quarters&#10;1 Crash&#10;1 Flailing Soldier&#10;1 Kris Mage&#10;</pre>&#10;			</td>&#10;			<td>&#10;			<pre>1 Kyren Negotiations&#10;1 Lightning Hounds&#10;1 Lunge&#10;1 Stone Rain&#10;1 Thunderclap&#10;1 Tremor&#10;1 War Cadence&#10;1 Flowstone Wall&#10;1 Laccolith Rig&#10;1 Mogg Salvage&#10;1 Mogg Toady&#10;1 Rupture&#10;1 Flameshot&#10;1 Latulla's Orders&#10;2 Panic Attack&#10;&#10;1 Ancestral Mask&#10;1 Caustic Wasps&#10;1 Collective Unconscious&#10;1 Deadly Insect&#10;1 Fod Chain&#10;1 Giant Caterpillar&#10;1 Groundskeeper&#10;1 Horned Troll&#10;1 Howling Wolf&#10;2 Land Grant&#10;2 Lumbering Satyr&#10;1 Rushwood Dryad&#10;1 Squall&#10;1 Tranquility&#10;1 Vine Dryad&#10;1 Blastoderm&#10;1 Mossdog&#10;1 Reverent Silence&#10;1 Seal of Strength&#10;1 Skyshroud Claim&#10;1 Skyshroud Ridgeback&#10;1 Wild Mammoth&#10;1 Calming Verse&#10;1 Thresher Beast&#10;2 Vintara Elephant&#10;</pre>&#10;			</td>&#10;		</tr></tbody></table>
+
+### The decks:
+
+<table><tbody><tr><td>&#10;			<h3>Steven M. Cowley</h3>&#10;&#10;			<pre>8 Island&#10;9 Plains&#10;1 Flint Golem&#10;1 Charmed Griffin&#10;2 Cho-Manno's Blessing&#10;1 Disenchant&#10;1 Fresh Volunteers&#10;1 Muzzle&#10;1 Nightwind Glider&#10;1 Pious Warrior&#10;1 Ramosian Commander&#10;1 Ramosian Rally&#10;1 Task Force&#10;1 Thermal Glider&#10;1 Soul Charmer&#10;1 Troubled Healer&#10;1 Darting Merfolk&#10;1 Gush&#10;1 Saprazzan Breaker&#10;1 Stinging Barrier&#10;1 Oraxid&#10;1 Rethink&#10;1 Rhystic Scrying&#10;1 Stormwatch Eagle&#10;</pre>&#10;			</td>&#10;			<td>&#10;			<h3>Michael Long</h3>&#10;&#10;			<pre>8 Forest&#10;9 Mountain&#10;1 Flowstone Thopter&#10;1 Blaster Mage&#10;1 Cave-In&#10;1 Kris Mage&#10;1 Kyren Negotiations&#10;1 Lightning Hounds&#10;1 Lunge&#10;1 Thunderclap&#10;1 War Cadence&#10;1 Flowstone Wall&#10;1 Mogg Toady&#10;1 Rupture&#10;1 Flameshot&#10;1 Collective Unconscious&#10;1 Giant Caterpillar&#10;1 Horned Troll&#10;1 Rushwood Dryad&#10;1 Vine Dryad&#10;1 Blastoderm&#10;1 Seal of Strength&#10;1 Thresher Beast&#10;2 Vintara Elephant&#10;</pre>&#10;			</td>&#10;			<td>&#10;			<h3>Peter Leiher</h3>&#10;&#10;			<pre>7 Forest&#10;10 Swamp&#10;1 Extravagant Spirit&#10;1 Rishadan Airship&#10;1 Rishadan Footpad&#10;1 Waterfront Bouncer&#10;1 Cloudskate&#10;1 Spiketail Hatchling&#10;1 Alley Grifters&#10;1 Cateran Brute&#10;1 Cateran Persuader&#10;1 Cateran Summons&#10;1 Deepwood Ghoul&#10;1 Deepwood Legate&#10;1 Forced March&#10;1 Highway Robber&#10;1 Vendetta&#10;1 Parallax Dementia&#10;1 Rathi Fiend&#10;1 Spineless Thug&#10;1 Vicious Hunger&#10;1 Agent of Shauku&#10;1 Rhystic Syphon&#10;</pre>&#10;			</td>&#10;		</tr></tbody></table>
+
+Pete Leiher had a Balloon Peddler, a Cloud Sprite and a Rootwater Commando in his sideboard. The rest of the cards were distributed among the players according to their main colors. 
+
+### Brothers Parker
+
+*   [Deckbuild Commentary](https://web.archive.org/web/20000101000000/http://archive.wizards.com/eventarticle.asp?event=PTNY0001&name=9670sd2a)
+
+**Card Pool:**
+
+<table><tbody><tr><td>&#10;			<pre>1 Fountain of Cho&#10;1 Remote Farm&#10;1 Hickory Woodlot&#10;1 Sandstone Needle&#10;1 Terrain Generator&#10;&#10;1 Mercadian Atlas&#10;1 Panacea&#10;1 Rejuvenation Chamber&#10;1 Tangle Wire&#10;1 Belbe's Armor&#10;&#10;1 Ballista Squad&#10;1 Charm Peddler&#10;1 Charmed Griffin&#10;1 Cho-Manno's Blessing&#10;1 Cornered Market&#10;1 Fresh Volunteers&#10;1 Jhovall Rider&#10;1 Muzzle&#10;1 Nightwind Glider&#10;1 Noble Purpose&#10;1 Orim's Cure&#10;1 Ramosian Rally&#10;1 Ramosian Sergeant&#10;1 Revered Elder&#10;1 Soothing Balm&#10;1 Steadfast Guard&#10;1 Thermal Glider&#10;1 Defender en-Vec&#10;1 Netter en-Dal&#10;1 Off Balance&#10;1 Aura Fracture&#10;1 Entangler&#10;1 Glittering Lynx&#10;1 Mageta's Boon&#10;1 Mine Bearer&#10;1 Rhystic Circle&#10;&#10;1 Blockade Runner&#10;1 Buoyancy&#10;1 Cloud Sprite&#10;1 Darting Merfolk&#10;1 Embargo&#10;1 Gush&#10;1 Hoodwink&#10;1 Indentured Djinn&#10;1 Misstep&#10;1 Port Inspector&#10;1 Rishadan Cutpurse&#10;1 Saprazzan Breaker&#10;</pre>&#10;			</td>&#10;			<td>&#10;			<pre>1 Saprazzan Outrigger&#10;1 Saprazzan Raider&#10;1 Statecraft&#10;1 Tidal Bore&#10;1 Waterfront Bouncer&#10;1 Accumulated Knowledge&#10;1 Rootwater Commando&#10;1 Sliptide Serpent&#10;1 Sneaky Homunculus&#10;1 Trickster Mage&#10;2 Spiketail Hatchling&#10;&#10;1 Bog Witch&#10;1 Cateran Brute&#10;1 Cateran Enforcer&#10;1 Cateran Kidnappers&#10;1 Cateran Persuader&#10;1 Deepwood Ghoul&#10;1 Highway Robber&#10;1 Insubordination&#10;1 Maggot Therapy&#10;1 Misshapen Fiend&#10;1 Pretender's Claim&#10;1 Quagmire Lamprey&#10;1 Sever Soul&#10;1 Skulking Fugitive&#10;1 Soul Channeling&#10;1 Undertaker&#10;1 Vendetta&#10;1 Wall of Distortion&#10;1 Dark Triumph&#10;1 Mind Swords&#10;1 Phyrexian Driver&#10;1 Plague Witch&#10;1 Rathi Intimidator&#10;1 Vicious Hunger&#10;1 Bog Elemental&#10;1 Chilling Apparition&#10;1 Death Charmer&#10;1 Despoil&#10;1 Endbringer's Revel&#10;1 Flay&#10;1 Plague Fiend&#10;1 Soul Strings&#10;&#10;1 Blaster Mage&#10;1 Cave Sense&#10;1 Flailing Ogre&#10;1 Flaming Sword&#10;1 Hired Giant&#10;1 Kris Mage&#10;</pre>&#10;			</td>&#10;			<td>&#10;			<pre>1 Kyren Negotiations&#10;1 Lunge&#10;1 Magistrate's Veto&#10;1 Mercadia's Downfall&#10;1 Tremor&#10;1 Ceremonial Guard&#10;1 Gerrard's Irregulars&#10;1 Shock Troops&#10;1 Stone Rain&#10;1 Wild Jhovall&#10;1 Bola Warrior&#10;1 Inflame&#10;1 Flowstone Crusher&#10;1 Laccolith Grunt&#10;1 Laccolith Whelp&#10;1 Brutal Suppression&#10;1 Keldon Berserker&#10;1 Latulla's Orders&#10;1 Rhystic Lightning&#10;1 Spur Grappler&#10;1 Zerapa Minotaur&#10;&#10;1 Ancestral Mask&#10;1 Deadly Insect&#10;2 Deepwood Tantiv&#10;1 Ferocity&#10;1 Howling Wolf&#10;1 Land Grant&#10;1 Pangosaur&#10;1 Rushwood Dryad&#10;1 Sacred Prey&#10;1 Stamina&#10;1 Tiger Claws&#10;1 Tranquility&#10;1 Venomous Breath&#10;1 Vine Dryad&#10;1 Vine Trellis&#10;1 Harvest Mage&#10;1 Nesting Wurm&#10;2 Reverent Silence&#10;2 Seal of Strength&#10;1 Skyshroud Claim&#10;1 Stampede Driver&#10;1 Darba&#10;1 Marsh Boa&#10;1 Pygmy Razorback&#10;1 Thresher Beast&#10;1 Verdant Field&#10;1 Vintara Elephant&#10;1 Vitalizing Wind&#10;</pre>&#10;			</td>&#10;		</tr></tbody></table>
+
+### Decklists:
+
+<table><tbody><tr><td>&#10;			<h3>Alex Parker</h3>&#10;&#10;			<pre>8 Island&#10;9 Plains&#10;1 Belbe's Armor&#10;1 Ballista Squad&#10;1 Charmed Griffin&#10;1 Cho-Manno's Blessing&#10;1 Fresh Volunteers&#10;1 Jhovall Rider&#10;1 Muzzle&#10;1 Nightwind Glider&#10;1 Noble Purpose&#10;1 Ramosian Rally&#10;1 Ramosian Sergeant&#10;1 Steadfast Guard&#10;1 Thermal Glider&#10;1 Defender en-Vec&#10;1 Mageta's Boon&#10;1 Mine Bearer&#10;1 Blockade Runner&#10;1 Gush&#10;1 Saprazzan Breaker&#10;1 Saprazzan Outrigger&#10;1 Waterfront Bouncer&#10;1 Rootwater Commando&#10;1 Sliptide Serpent&#10;</pre>&#10;			</td>&#10;			<td>&#10;			<h3>Ben Parker</h3>&#10;&#10;			<pre>8 Forest&#10;9 Mountain&#10;1 Blaster Mage&#10;1 Flaming Sword&#10;1 Hired Giant&#10;1 Kris Mage&#10;1 Kyren Negotiations&#10;1 Lunge&#10;1 Flowstone Crusher&#10;1 Laccolith Grunt&#10;1 Keldon Berserker&#10;1 Rhystic Lightning&#10;1 Spur Grappler&#10;1 Zerapa Minotaur&#10;1 Rushwood Dryad&#10;1 Tiger Claws&#10;1 Vine Trellis&#10;1 Nesting Wurm&#10;2 Seal of Strength&#10;1 Stampede Driver&#10;1 Darba&#10;1 Pygmy Razorback&#10;1 Thresher Beast&#10;1 Vintara Elephant&#10;</pre>&#10;			</td>&#10;			<td>&#10;			<h3>Zach Parker</h3>&#10;&#10;			<pre>5 Mountain&#10;12 Swamp&#10;1 Mercadian Atlas&#10;1 Panacea&#10;1 Cateran Brute&#10;1 Cateran Enforcer&#10;1 Cateran Kidnappers&#10;1 Cateran Persuader&#10;1 Deepwood Ghoul&#10;1 Highway Robber&#10;1 Maggot Therapy&#10;1 Misshapen Fiend&#10;1 Sever Soul&#10;1 Undertaker&#10;1 Vendetta&#10;1 Dark Triumph&#10;1 Phyrexian Driver&#10;1 Plague Witch&#10;1 Rathi Intimidator&#10;1 Vicious Hunger&#10;1 Bog Elemental&#10;1 Chilling Apparition&#10;1 Death Charmer&#10;1 Gerrard's Irregulars&#10;1 Shock Troops&#10;1 Wild Jhovall&#10;</pre>&#10;			</td>&#10;		</tr></tbody></table>
+
+Zach Parker had four forests, a Reverent Silence and a Vitalizing Wind in his sideboard. He also had a Ceremonial Guard, a Stone Rain, a Bola Warrior and an Inflame in the board. Other than that, the sideboard cards were distributed according to the main colours of a player.
+
+### Huey, Ben, and Casey
+
+*   [Deckbuild Commentary](https://web.archive.org/web/20000101000000/http://archive.wizards.com/eventarticle.asp?event=PTNY0001&name=968sd2)
+
+**Card Pool:**
+
+<table><tbody><tr><td>&#10;			<pre>1 Henge of Ramos&#10;1 Saprazzan Skerry&#10;1 Hickory Woodlot&#10;1 Sandstone Needle&#10;&#10;1 Panacea&#10;1 Crenellated Wall&#10;1 Well of Life&#10;1 Flint Golem&#10;1 Parallax Inhibitor&#10;1 Well of Discovery&#10;&#10;1 Charm Peddler&#10;1 Cho-Manno's Blessing&#10;1 Disenchant&#10;1 Fresh Volunteers&#10;1 Jhovall Rider&#10;1 Muzzle&#10;1 Nightwind Glider&#10;1 Noble Purpose&#10;1 Orim's Cure&#10;1 Ramosian Commander&#10;1 Ramosian Lieutenant&#10;1 Ramosian Rally&#10;1 Ramosian Sergeant&#10;1 Ramozian Sky Marshal&#10;1 Renounce&#10;1 Revered Elder&#10;1 Security Detail&#10;1 Thermal Glider&#10;1 Wishmonger&#10;1 Defiant Vanguard&#10;2 Fanatical Devotion&#10;2 Lawbringer&#10;1 Lightbringer&#10;1 Netter en-Dal&#10;1 Topple&#10;1 Voice of Truth&#10;1 Entangler&#10;2 Excise&#10;1 Mageta's Boon&#10;1 Rhystic Shield&#10;&#10;1 Balloon Peddler&#10;1 Blockade Runner&#10;1 Buoyancy&#10;1 Cloud Sprite&#10;1 Darting Merfolk&#10;1 Energy Flux&#10;1 Misdirection&#10;1 Misstep&#10;</pre>&#10;			</td>&#10;			<td>&#10;			<pre>1 Port Inspector&#10;1 Rishadan Cutpurse&#10;1 Sailmonger&#10;1 Saprazzan Outrigger&#10;1 Saprazzan Raider&#10;1 Soothsaying&#10;1 Tidal Bore&#10;1 Waterfront Bouncer&#10;1 Accumulated Knowledge&#10;1 Cloudskate&#10;1 Oraxid&#10;1 Avatar of Will&#10;1 Coastal Hornclaw&#10;1 Gulf Squid&#10;1 Spiketail Hatchling&#10;&#10;1 Bog Witch&#10;1 Cateran Enforcer&#10;1 Cateran Persuader&#10;1 Deepwood Ghoul&#10;1 Highway Robber&#10;1 Insubordination&#10;1 Maggot Therapy&#10;1 Pretender's Claim&#10;1 Rampart Crawler&#10;1 Scandalmonger&#10;1 Sever Soul&#10;1 Soul Channeling&#10;1 Specter's Wail&#10;1 Undertaker&#10;1 Unmask&#10;1 Vendetta&#10;1 Wall of Distortion&#10;1 Belbe's Percher&#10;1 Phyrexian Driver&#10;1 Stronghold Discipline&#10;1 Vicious Hunger&#10;1 Bog Glider&#10;1 Death Charmer&#10;1 Flay&#10;1 Soul Strings&#10;&#10;1 Kyren Negotiations&#10;1 Tremor&#10;1 Blaster Mage&#10;1 Cave Sense&#10;1 Ceremonial Guard&#10;1 Flailing Manticore&#10;2 Flaming Sword&#10;1 Gerrard's Irregulars&#10;1 Kyren Glider&#10;</pre>&#10;			</td>&#10;			<td>&#10;			<pre>1 Kyren Legate&#10;1 Lunge&#10;1 Shock Troops&#10;1 Sizzle&#10;1 Thunderclap&#10;1 War Cadence&#10;1 Bola Warrior&#10;1 Flowstone Crusher&#10;1 Flowstone Surge&#10;1 Mogg Salvage&#10;2 Mogg Toady&#10;1 Rupture&#10;1 Shrieking Mogg&#10;1 Branded Brawlers&#10;1 Fault Riders&#10;1 Keldon Arsonist&#10;1 Keldon Berserker&#10;1 Latulla's Orders&#10;1 Lesser Gargadon&#10;1 Spur Grappler&#10;1 Zerapa Minotaur&#10;1 Flowstone Strike&#10;&#10;1 Ancestral Mask&#10;1 Clear the Land&#10;1 Deadly Insect&#10;1 Deepwood Tantiv&#10;1 Deepwood Wolverine&#10;1 Ferocity&#10;1 Howling Wolf&#10;1 Invigorate&#10;1 Land Grant&#10;1 Rushwood Dryad&#10;1 Sacred Prey&#10;1 Stamina&#10;1 Sustenance&#10;1 Tiger Claws&#10;1 Tranquility&#10;1 Venomous Dragonfly&#10;1 Harvest Mage&#10;1 Seal of Strength&#10;1 Skyshroud Ridgeback&#10;1 Marsh Boa&#10;2 Pygmy Razorback&#10;1 Rib Cage Spider&#10;1 Spitting Spider&#10;1 Thrive&#10;1 Wing Storm&#10;</pre>&#10;			</td>&#10;		</tr></tbody></table>
+
+### Decklists:
+
+<table><tbody><tr><td>&#10;			<h3>Casey McCarrel</h3>&#10;&#10;			<pre>8 Forest&#10;10 Mountain&#10;1 Blaster Mage&#10;1 Flaming Sword&#10;1 Gerrard's Irregulars&#10;1 Lunge&#10;1 Shock Tropps&#10;1 Thunderclap&#10;1 War Cadence&#10;1 Flowstone Crusher&#10;1 Rupture&#10;1 Fault Riders&#10;1 Keldon Berserker&#10;1 Lesser Gargadon&#10;1 Spur Grappler&#10;1 Zerapa Minotaur&#10;1 Invigorate&#10;1 Rushwood Dryad&#10;1 Sustenance&#10;1 Seal of Strength&#10;2 Pygmy Razorback&#10;1 Rib Cage Spider&#10;1 Spitting Spider&#10;</pre>&#10;			</td>&#10;			<td>&#10;			<h3>Ben Rubin</h3>&#10;&#10;			<pre>6 Mountain&#10;11 Plains&#10;1 Flint Golem&#10;1 Well of Discovery&#10;1 Cho-Manno's Blessing&#10;1 Disenchant&#10;1 Fresh Volunteers&#10;1 Jhovall Rider&#10;1 Muzzle&#10;1 Nightwind Glider&#10;1 Noble Purpose&#10;1 Ramosian Commander&#10;1 Ramosian Lieutenant&#10;1 Ramosian Rally&#10;1 Ramosian Sergeant&#10;1 Ramosian Sky Marshal&#10;1 Thermal Glider&#10;1 Defiant Falcon&#10;2 Lawbringer&#10;1 Lightbringer&#10;1 Mageta's Boon&#10;1 Kyren Negotiations&#10;</pre>&#10;			</td>&#10;			<td>&#10;			<h3>William Jensen</h3>&#10;&#10;			<pre>8 Island&#10;9 Swamp&#10;1 Crenellated Wall&#10;1 Blockade Runner&#10;1 Misdirection&#10;1 Saprazzan Outrigger&#10;1 Soothsaying&#10;1 Waterfront Bouncer&#10;1 Cloudskate&#10;1 Oraxid&#10;1 Avatar of Will&#10;1 Coastal Hornclaw&#10;1 Spiketail Hatchling&#10;1 Cateran Enforcer&#10;1 Cateran Persuader&#10;1 Deepwood Ghoul&#10;1 Highway Robber&#10;1 Maggot Therapy&#10;1 Scandalmonger&#10;1 Sever Soul&#10;1 Undertaker&#10;1 Vendetta&#10;1 Belbe's Percher&#10;1 Vicious Hunger&#10;1 Soul Strings&#10;</pre>&#10;			</td>&#10;		</tr></tbody></table>
+
+Ben Rubin had a Tremor and a Flowstone Strike in his sideboard. Other than that, the remaining cards were distributed according to the players' deck colours.

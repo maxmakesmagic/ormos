@@ -1,0 +1,264 @@
+---
+id: cg0f7ctk
+kind: article
+lang: en
+path: /en/articles/daily-magic-update/2017/03-07-the-march-7-2017-update
+title: The March 7, 2017 Update
+published: '2017-03-07'
+column_slug: daily-magic-update
+column: Daily Magic Update
+authors:
+- slug: blake-rasmussen-d7ec22f7
+  name: Blake Rasmussen
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/daily-magic-update/update-2017-03-07
+    lang_detected: en
+    capture_id: 291968
+    url: http://magic.wizards.com/en/articles/archive/daily-magic-update/update-2017-03-07
+    captured_at: '2017-09-06 15:36:06+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/daily-magic-update/update-2017-03-07
+    lang_detected: en
+    capture_id: 291968
+    url: http://magic.wizards.com/en/articles/archive/daily-magic-update/update-2017-03-07
+    captured_at: '2017-09-06 15:36:06+00'
+    rule: drupal.posted_in_date
+  authors:
+    page_key: magic.wizards.com/en/articles/archive/daily-magic-update/update-2017-03-07
+    lang_detected: en
+    capture_id: 291968
+    url: http://magic.wizards.com/en/articles/archive/daily-magic-update/update-2017-03-07
+    captured_at: '2017-09-06 15:36:06+00'
+    rule: drupal.div_author
+  column:
+    page_key: magic.wizards.com/en/articles/archive/daily-magic-update/update-2017-03-07
+    lang_detected: en
+    capture_id: 291968
+    url: http://magic.wizards.com/en/articles/archive/daily-magic-update/update-2017-03-07
+    captured_at: '2017-09-06 15:36:06+00'
+    rule: url.article_section
+sources:
+- document_id: cg0f7ctk
+  url: http://magic.wizards.com/en/articles/archive/daily-magic-update/update-2017-03-07
+  page_key: magic.wizards.com/en/articles/archive/daily-magic-update/update-2017-03-07
+  lang: en
+  template: drupal
+  captured_at: '2017-09-06 15:36:06+00'
+  capture_id: 291968
+  wayback_url: https://web.archive.org/web/20170906153606id_/http://magic.wizards.com/en/articles/archive/daily-magic-update/update-2017-03-07
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: cg0f7ctk
+  capture_id: 291968
+  url: http://magic.wizards.com/en/articles/archive/daily-magic-update/update-2017-03-07
+  wayback_url: https://web.archive.org/web/20170906153606id_/http://magic.wizards.com/en/articles/archive/daily-magic-update/update-2017-03-07
+  captured_at: '2017-09-06 15:36:06+00'
+  template: drupal
+  sha256: d1f3fead12c135891dd24e744a1c8037a4e821575eb001ba1c6bd84b5c8734ec
+render_recovery:
+- code: deck_widget_requires_review
+  element: a
+  reason: The archived deck widget has no visible card rows. The source capture may
+    contain data to recover it.
+  labels:
+  - Decklist
+  occurrences: 1
+---
+The Daily *Magic* Update is a roundup of everything *Magic* you should know on March 7, 2017. Today's Update is brought to you by [Reid Duke. But not that Reid Duke](#8).
+
+# Announcing Announcement Day
+
+1.  March 31, 2017 from Meeples Games on [twitch.tv/magic](https://www.twitch.tv/magic)
+
+Announcement Day is coming! On March 31, we'll be live-streaming Announcement Day from Friday Night *Magic* at Meeples Games in Seattle, Washington, starting at 6:45 p.m. PT (that's 9:45 ET). We'll be announcing new sets for the rest of 2017 and into 2018, all on [twitch.tv/magic](https://www.twitch.tv/magic).
+
+# Today's Must
+
+1.  [Now What?](http://www.mtgmintcard.com/articles/writers/eduardo-sajgalik/now-what) | MTG Mint Card | Eduardo Sajgalik
+
+Sajgalik returns with the second part of his Pro Tour *Aether Revolt* "report." It's not a normal tournament report—which you can tell from the quotes I haphazardly threw around the word—but instead more a collection of musings on success, on finding your way to success, and what to do once you get there. The value in this article comes from the fact that the advice is as applicable to life as it is to *Magic*. Well, maybe not the part about [Ridgescale Tusker](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ridgescale+Tusker) being the best, but the rest of it is pretty applicable.
+
+# After That, Read, Watch, or Listen to These
+
+1.  [Spectrum 24 Award Nominations](http://fleskpublications.com/blog/2017/03/06/spectrum-24-award-nominations/)
+
+Congratulations to Clint Cearley ([Broken Concentration](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Broken+Concentration)) and Wesley Burt ([Accursed Witch](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Accursed+Witch)) for being nominated for creating Top 5 pieces of artwork in their categories by the jury for *Spectrum 24: The Best in Contemporary Fantastic Art*. I'm told, by the internet and Noah Bradley, that these are basically the Oscars for fantasy artists. The winners will be announced April 22.
+
+1.  [#11](http://www.channelfireball.com/articles/number-11/) | ChannelFireball | Paulo Vitor Damo da Rosa
+
+In which our hero is unwilling to help a man sit with his pregnant wife. Oh, and he also gets his eleventh Pro Tour Top 8 and tells you how he prepared for the tournament.
+
+1.  [History of Bolas, Part 1](https://www.wizardryfoundry.com/blogs/game-culture/history-of-bolas-part-i) | Wizardry Foundry | Robert Trueblood
+
+With *Amonkhet* coming up, now is a great time to brush up on your Bolas. In this quick and dirty summary, Trueblood catches you up on Nicol Bolas's origins and early activities up through Alara.
+
+1.  [Thoroughly Modern Masters](http://www.gatheringmagic.com/alexullman-03072017-thoroughly-modern-master/) | Gathering Magic | Alex Ullman
+
+There were a ton of shifts down to common in *Modern Masters 2017 Edition*, and Ullman is here to figure out just what all of these new additions to Pauper mean for the format.
+
+# The Tokens of *Modern Masters 2017 Edition*
+
+1.  Now that you've seen all of the cards in *Modern Masters 2017 Edition*, you might be wondering what the tokens look like. Well, wonder no more. They look exactly like this:
+
+![](http://media.wizards.com/2017/b9jm8nwv_mm3/en_gvwFXo4kL2.png)![](http://media.wizards.com/2017/b9jm8nwv_mm3/en_2wXcJD92zt.png)![](http://media.wizards.com/2017/b9jm8nwv_mm3/en_cUwkB5W9WX.png)
+
+![](http://media.wizards.com/2017/b9jm8nwv_mm3/en_OoBnRxjJID.png)![](http://media.wizards.com/2017/b9jm8nwv_mm3/en_DunTMmGo41.png)![](http://media.wizards.com/2017/b9jm8nwv_mm3/en_mdCldta8UM.png)
+
+![](http://media.wizards.com/2017/b9jm8nwv_mm3/en_TKuSkyDBa4.png)![](http://media.wizards.com/2017/b9jm8nwv_mm3/en_lT7oIjqrTl.png)![](http://media.wizards.com/2017/b9jm8nwv_mm3/en_usBhGfeR1M.png)
+
+![](http://media.wizards.com/2017/b9jm8nwv_mm3/en_sExTvXEuyG.png)![](http://media.wizards.com/2017/b9jm8nwv_mm3/en_ah0ecd5RgR.png)![](http://media.wizards.com/2017/b9jm8nwv_mm3/en_0F4M7yiktn.png)
+
+![](http://media.wizards.com/2017/b9jm8nwv_mm3/en_fzNmUE7vkf.png)![](http://media.wizards.com/2017/b9jm8nwv_mm3/en_SbfhAAr1fv.png)![](http://media.wizards.com/2017/b9jm8nwv_mm3/en_PkUDpUlSzD.png)
+
+![](http://media.wizards.com/2017/b9jm8nwv_mm3/en_rONwJn9fUD.png)![](http://media.wizards.com/2017/b9jm8nwv_mm3/en_g6xO4gTFLu.png)![](http://media.wizards.com/2017/b9jm8nwv_mm3/en_k1q8e9nFZc.png)
+
+![](http://media.wizards.com/2017/b9jm8nwv_mm3/en_5NCosBXuge.png)![](http://media.wizards.com/2017/b9jm8nwv_mm3/en_BsmvNmPP4D.png)![](http://media.wizards.com/2017/b9jm8nwv_mm3/en_5qdqzZr9eA.png)
+
+# What People Are Talking About
+
+1.  > Reid Duke will now forever be the answer to a hockey history question: Who was the first player in the history of the Vegas Golden Knights?
+    >
+    > — Dan Rosen (@drosennhl) [March 6, 2017](https://twitter.com/drosennhl/status/838843294557798400)
+
+No, no, not that Reid Duke.
+
+> Wow, [@ReidDuke](https://twitter.com/ReidDuke) signing for the NHL's Las Vegas Knights! Number 7 fact is the best one! [https://t.co/isktfphoav](https://t.co/isktfphoav)
+> 
+> — Matej Zatlkaj (@Big\_Z\_MTG) [March 6, 2017](https://twitter.com/Big_Z_MTG/status/838868069678206977)
+
+This isn't going to be confusing at all. Read #7 specifically on the link above, which actually calls out Reid Duke the *Magic* player (who currently beats Reid Duke the hockey player in the Google search game) for being, well, also Reid Duke.
+
+1.  > After 140 drafts and 298 matches here are my results for AER AER KLD draft. [pic.twitter.com/43iYVlfbcw](https://t.co/43iYVlfbcw)
+    >
+    > — Owen Turtenwald (@OwenTweetenwald) [March 7, 2017](https://twitter.com/OwenTweetenwald/status/838917736046587906)
+
+Owen posted this yesterday evening and basically confirmed that he was a master and maybe one of the most dedicated pros on the planet. Even Paulo Vitor Damo da Rosa said the sheer number [seemed astronomical](https://twitter.com/PVDDR/status/838948215173042178).
+
+# Deck of the Day
+
+1.  [Standard Zombies!](/en/events/2017/competitive-standard-constructed-league-2017-03-06-0/competitive-standard-constructed-league)
+
+*Magic Online* player Holy\_85 proved that Zombies weren't dead yet, piloting a mono-black Zombies deck to a 5-0 record in a Competitive Standard League. Yes, that's 24 Swamps, and only 24 Swamps, listed under lands.
+
+Technically [Prized Amalgam](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Prized+Amalgam) has some blue in it, but, let's be honest—if you're ever casting that card, you're probably losing.
+
+The deck has a ton of cool plays built into it. It has multiple ways to madness out a [Voldaren Pariah](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Voldaren+Pariah), a ton of ways to make tokens to allow you to flip the Pariah, and easy access to the [Haunted Dead](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Haunted+Dead)/[Prized Amalgam](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Prized+Amalgam) synergy. In fact, you never have to cast either, as [Cryptbreaker](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cryptbreaker) or [Sinister Concoction](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sinister+Concoction) can simply discard [Haunted Dead](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Haunted+Dead) to get the party started.
+
+In fact, the big break with this list is just how many [Sinister Concoction](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sinister+Concoction)s Holy\_85 played. Typically, players have dabbled with just one, maybe one in the sideboard. But Holy\_85 went for the full four, plus four [Fatal Push](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fatal+Push), plus four [Grasp of Darkness](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grasp+of+Darkness), plus two [Ruinous Path](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ruinous+Path)! Add in [Voldaren Pariah](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Voldaren+Pariah) and creatures don't stand a chance.
+
+The sideboard shores up the control matchup (like Temur Tower), where you might have a ton of dead (pun intended) removal spells by letting you bring in discard, more resilient threats, and some creatures with built-in card advantage.
+
+#### Zombies!
+
+##### 
+
+ ![](http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+[Decklist](#none) [Stats](#none) [Sample Hand](#none) 
+
+Sort by: 
+
+##### Planeswalker (2)
+
+2 [Liliana, the Last Hope](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLiliana,%5D+%5Bthe%5D+%5BLast%5D+%5BHope%5D) 
+
+##### Creature (20)
+
+4 [Cryptbreaker](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCryptbreaker%5D) 4 [Haunted Dead](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHaunted%5D+%5BDead%5D) 4 [Prized Amalgam](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPrized%5D+%5BAmalgam%5D) 4 [Relentless Dead](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelentless%5D+%5BDead%5D) 4 [Voldaren Pariah](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVoldaren%5D+%5BPariah%5D) 
+
+##### Sorcery (2)
+
+2 [Ruinous Path](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRuinous%5D+%5BPath%5D) 
+
+##### Instant (8)
+
+4 [Fatal Push](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFatal%5D+%5BPush%5D) 4 [Grasp of Darkness](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrasp%5D+%5Bof%5D+%5BDarkness%5D) 
+
+##### Enchantment (4)
+
+4 [Sinister Concoction](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSinister%5D+%5BConcoction%5D) 
+
+##### Land (24)
+
+24 [Swamp](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D) 
+
+60 Cards 
+
+##### Sideboard (15)
+
+2 [Distended Mindbender](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDistended%5D+%5BMindbender%5D) 3 [Gonti, Lord of Luxury](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGonti,%5D+%5BLord%5D+%5Bof%5D+%5BLuxury%5D) 4 [Scrapheap Scrounger](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScrapheap%5D+%5BScrounger%5D) 2 [To the Slaughter](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTo%5D+%5Bthe%5D+%5BSlaughter%5D) 4 [Transgress the Mind](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTransgress%5D+%5Bthe%5D+%5BMind%5D) 
+
+##### Black (37)
+
+2 [Liliana, the Last Hope](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLiliana,%5D+%5Bthe%5D+%5BLast%5D+%5BHope%5D) 4 [Cryptbreaker](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCryptbreaker%5D) 4 [Haunted Dead](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHaunted%5D+%5BDead%5D) 4 [Relentless Dead](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelentless%5D+%5BDead%5D) 4 [Voldaren Pariah](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVoldaren%5D+%5BPariah%5D) 2 [Ruinous Path](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRuinous%5D+%5BPath%5D) 4 [Fatal Push](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFatal%5D+%5BPush%5D) 4 [Grasp of Darkness](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrasp%5D+%5Bof%5D+%5BDarkness%5D) 4 [Sinister Concoction](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSinister%5D+%5BConcoction%5D) 3 [Gonti, Lord of Luxury](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGonti,%5D+%5BLord%5D+%5Bof%5D+%5BLuxury%5D) 2 [To the Slaughter](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTo%5D+%5Bthe%5D+%5BSlaughter%5D) 
+
+##### Multi colored (4)
+
+4 [Prized Amalgam](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPrized%5D+%5BAmalgam%5D) 
+
+##### Colorless (34)
+
+24 [Swamp](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D) 2 [Distended Mindbender](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDistended%5D+%5BMindbender%5D) 4 [Scrapheap Scrounger](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScrapheap%5D+%5BScrounger%5D) 4 [Transgress the Mind](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTransgress%5D+%5Bthe%5D+%5BMind%5D) 
+
+75 Cards 
+
+##### 1 (12)
+
+4 [Cryptbreaker](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCryptbreaker%5D) 4 [Fatal Push](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFatal%5D+%5BPush%5D) 4 [Sinister Concoction](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSinister%5D+%5BConcoction%5D) 
+
+##### 2 (16)
+
+4 [Relentless Dead](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelentless%5D+%5BDead%5D) 4 [Grasp of Darkness](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrasp%5D+%5Bof%5D+%5BDarkness%5D) 4 [Scrapheap Scrounger](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScrapheap%5D+%5BScrounger%5D) 4 [Transgress the Mind](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTransgress%5D+%5Bthe%5D+%5BMind%5D) 
+
+##### 3 (10)
+
+2 [Liliana, the Last Hope](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLiliana,%5D+%5Bthe%5D+%5BLast%5D+%5BHope%5D) 4 [Prized Amalgam](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPrized%5D+%5BAmalgam%5D) 2 [Ruinous Path](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRuinous%5D+%5BPath%5D) 2 [To the Slaughter](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTo%5D+%5Bthe%5D+%5BSlaughter%5D) 
+
+##### 4 (7)
+
+4 [Haunted Dead](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHaunted%5D+%5BDead%5D) 3 [Gonti, Lord of Luxury](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGonti,%5D+%5BLord%5D+%5Bof%5D+%5BLuxury%5D) 
+
+##### 5 (4)
+
+4 [Voldaren Pariah](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVoldaren%5D+%5BPariah%5D) 
+
+##### 8 (2)
+
+2 [Distended Mindbender](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDistended%5D+%5BMindbender%5D) 
+
+51 Cards 
+
+##### Common (24)
+
+24 [Swamp](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D) 
+
+##### Uncommon (20)
+
+4 [Haunted Dead](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHaunted%5D+%5BDead%5D) 4 [Fatal Push](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFatal%5D+%5BPush%5D) 4 [Grasp of Darkness](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrasp%5D+%5Bof%5D+%5BDarkness%5D) 4 [Sinister Concoction](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSinister%5D+%5BConcoction%5D) 4 [Transgress the Mind](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTransgress%5D+%5Bthe%5D+%5BMind%5D) 
+
+##### Rare (25)
+
+4 [Cryptbreaker](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCryptbreaker%5D) 4 [Prized Amalgam](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPrized%5D+%5BAmalgam%5D) 4 [Voldaren Pariah](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVoldaren%5D+%5BPariah%5D) 2 [Ruinous Path](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRuinous%5D+%5BPath%5D) 2 [Distended Mindbender](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDistended%5D+%5BMindbender%5D) 3 [Gonti, Lord of Luxury](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGonti,%5D+%5BLord%5D+%5Bof%5D+%5BLuxury%5D) 4 [Scrapheap Scrounger](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScrapheap%5D+%5BScrounger%5D) 2 [To the Slaughter](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTo%5D+%5Bthe%5D+%5BSlaughter%5D) 
+
+##### Mythic (6)
+
+2 [Liliana, the Last Hope](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLiliana,%5D+%5Bthe%5D+%5BLast%5D+%5BHope%5D) 4 [Relentless Dead](https://web.archive.org/web/20170307000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelentless%5D+%5BDead%5D) 
+
+75 Cards 
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Liliana%2C+the+Last+Hope)
+
+[Deal Another Hand](https://web.archive.org/web/20170307000000/http://magic.wizards.com/en)
+
+*   ![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Cryptbreaker)
+*   ![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Ruinous+Path)
+*   ![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Sinister+Concoction)
+*   ![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Swamp)
+*   ![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Haunted+Dead)
+*   ![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Swamp)
+*   ![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Swamp)
+
+a:16:{i:0;O:8:"stdClass":3:{s:4:"type";s:12:"planeswalker";s:10:"deck\_count";s:1:"2";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:22:"Liliana, the Last Hope";s:22:"field\_card\_image\_front";a:0:{}}}i:1;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Cryptbreaker";s:22:"field\_card\_image\_front";a:0:{}}}i:2;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Haunted Dead";s:22:"field\_card\_image\_front";a:0:{}}}i:3;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Prized Amalgam";s:22:"field\_card\_image\_front";a:0:{}}}i:4;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Relentless Dead";s:22:"field\_card\_image\_front";a:0:{}}}i:5;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Voldaren Pariah";s:22:"field\_card\_image\_front";a:0:{}}}i:6;O:8:"stdClass":3:{s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"2";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Ruinous Path";s:22:"field\_card\_image\_front";a:0:{}}}i:7;O:8:"stdClass":3:{s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"4";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:10:"Fatal Push";s:22:"field\_card\_image\_front";a:0:{}}}i:8;O:8:"stdClass":3:{s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"4";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Grasp of Darkness";s:22:"field\_card\_image\_front";a:0:{}}}i:9;O:8:"stdClass":3:{s:4:"type";s:11:"enchantment";s:10:"deck\_count";s:1:"4";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:19:"Sinister Concoction";s:22:"field\_card\_image\_front";a:0:{}}}i:10;O:8:"stdClass":3:{s:4:"type";s:4:"land";s:10:"deck\_count";s:2:"24";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:5:"Swamp";s:22:"field\_card\_image\_front";a:0:{}}}i:11;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";i:0;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:20:"Distended Mindbender";s:22:"field\_card\_image\_front";a:0:{}}}i:12;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";i:0;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:21:"Gonti, Lord of Luxury";s:22:"field\_card\_image\_front";a:0:{}}}i:13;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";i:0;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:19:"Scrapheap Scrounger";s:22:"field\_card\_image\_front";a:0:{}}}i:14;O:8:"stdClass":3:{s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"To the Slaughter";s:22:"field\_card\_image\_front";a:0:{}}}i:15;O:8:"stdClass":3:{s:4:"type";s:7:"sorcery";s:10:"deck\_count";i:0;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:19:"Transgress the Mind";s:22:"field\_card\_image\_front";a:0:{}}}}

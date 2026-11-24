@@ -1,0 +1,63 @@
+---
+id: agyw7x6v
+kind: event
+lang: pt
+path: /pt/events/2011/branat11/brazil-nationals-round-11-pairings
+title: Brazil Nationals Round 11 Pairings
+published: '2011-09-18'
+column_slug: null
+column: null
+authors: []
+event_code: branat11
+detected_lang: pt
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/brazil-nationals-round-11-pairings-2011-09-18
+    lang_detected: pt
+    capture_id: 333067
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/brazil-nationals-round-11-pairings-2011-09-18
+    captured_at: '2022-05-19 02:03:18+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/brazil-nationals-round-11-pairings-2011-09-18
+    lang_detected: pt
+    capture_id: 333067
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/brazil-nationals-round-11-pairings-2011-09-18
+    captured_at: '2022-05-19 02:03:18+00'
+    rule: drupal.posted_in_date
+  event_code:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/branat11/pair11
+    lang_detected: pt
+    capture_id: 394830
+    url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/branat11/pair11
+    captured_at: '2013-06-28 19:33:02+00'
+    rule: url.event_code
+sources:
+- document_id: agyw7x6v
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/brazil-nationals-round-11-pairings-2011-09-18
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/brazil-nationals-round-11-pairings-2011-09-18
+  lang: pt
+  template: drupal
+  captured_at: '2022-05-19 02:03:18+00'
+  capture_id: 333067
+  wayback_url: https://web.archive.org/web/20220519020318id_/https://magic.wizards.com/en/articles/archive/event-coverage/brazil-nationals-round-11-pairings-2011-09-18
+- document_id: agyw7x6v
+  url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/branat11/pair11
+  page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/branat11/pair11
+  lang: pt
+  template: aspx
+  captured_at: '2013-06-28 19:33:02+00'
+  capture_id: 394830
+  wayback_url: https://web.archive.org/web/20130628193302id_/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/branat11/pair11
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: agyw7x6v
+  capture_id: 333067
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/brazil-nationals-round-11-pairings-2011-09-18
+  wayback_url: https://web.archive.org/web/20220519020318id_/https://magic.wizards.com/en/articles/archive/event-coverage/brazil-nationals-round-11-pairings-2011-09-18
+  captured_at: '2022-05-19 02:03:18+00'
+  template: drupal
+  sha256: d6dd23b1b33d18525a816b3400da5332f92ebee5e794f3a4b4b381838724e17b
+render_recovery: []
+---
+<table><tbody><tr><td>Player</td><td>Pts</td><td>Table</td><td>Opponent</td><td>Pts</td>&#10;				</tr><tr><td>Abias dos santos Júnior #1</td><td>15</td><td>27</td><td>Marcos Estrela #75</td><td>15</td>&#10;				</tr><tr><td>Adrien G Degaspare #150</td><td>21</td><td>10</td><td>Rafael J Gripp #89</td><td>21</td>&#10;				</tr><tr><td>Alexandre Ando #2</td><td>21</td><td>12</td><td>Juliano G Souza #60</td><td>21</td>&#10;				</tr><tr><td>Alexandre Conrado #3</td><td>18</td><td>22</td><td>guilherme b Vieira #49</td><td>18</td>&#10;				</tr><tr><td>Allison N Abe #4</td><td>24</td><td>2</td><td>MARCUS CAMARGO #152</td><td>27</td>&#10;				</tr><tr><td>André Franco #127</td><td>21</td><td>8</td><td>Tarciso Costa #134</td><td>21</td>&#10;				</tr><tr><td>Andre Lopes #7</td><td>21</td><td>5</td><td>Guilherme Medeiros Merjan #48</td><td>24</td>&#10;				</tr><tr><td>Bruno Oliveira #13</td><td>12</td><td>39</td><td>Eduardo Saraiva #129</td><td>12</td>&#10;				</tr><tr><td>Carlos Alexandre dos Santos #15</td><td>14</td><td>35</td><td>Filipe Ferreira Pacheco #133</td><td>12</td>&#10;				</tr><tr><td>Carlos E Romão #14</td><td>21</td><td>9</td><td>Leonardo M Labruna #66</td><td>21</td>&#10;				</tr><tr><td>Daniel M Santos #18</td><td>15</td><td>29</td><td>Gustavo Cramer #138</td><td>15</td>&#10;				</tr><tr><td>Daniel R Frias #17</td><td>21</td><td>11</td><td>Rodrigo Nogueira #146</td><td>21</td>&#10;				</tr><tr><td>Douglas Romani #21</td><td>21</td><td>7</td><td>Joao Souza #135</td><td>21</td>&#10;				</tr><tr><td>Edson J Teixeira #23</td><td>18</td><td>17</td><td>Felipe Martins #36</td><td>18</td>&#10;				</tr><tr><td>Eduardo Borges #24</td><td>21</td><td>14</td><td>Marcos Paulo de Jesus Freita #76</td><td>21</td>&#10;				</tr><tr><td>Eduardo dos Santos Vieira #27</td><td>18</td><td>25</td><td>Renato Henrique A Araujo #157</td><td>18</td>&#10;				</tr><tr><td>Eduardo Saraiva #129</td><td>12</td><td>39</td><td>Bruno Oliveira #13</td><td>12</td>&#10;				</tr><tr><td>Eduardo Silva #26</td><td>15</td><td>31</td><td>Sergio Longo Jr. #105</td><td>15</td>&#10;				</tr><tr><td>Elton M Fior #29</td><td>12</td><td>38</td><td>Helio Sampaio De Nascimento #51</td><td>12</td>&#10;				</tr><tr><td>Enzo Real #30</td><td>18</td><td>24</td><td>William Bielenki #118</td><td>18</td>&#10;				</tr><tr><td>Evanderson Carvalho #32</td><td>15</td><td>33</td><td>Leandro Marques #62</td><td>15</td>&#10;				</tr><tr><td>Fábio j Marte #35</td><td>13</td><td>36</td><td>Robson Toneto Junior #99</td><td>13</td>&#10;				</tr><tr><td>Felipe M Soares #38</td><td>15</td><td>30</td><td>Thiago Alberto #106</td><td>15</td>&#10;				</tr><tr><td>Felipe Martins #36</td><td>18</td><td>17</td><td>Edson J Teixeira #23</td><td>18</td>&#10;				</tr><tr><td>Fernando Luiz Freitas #42</td><td>18</td><td>18</td><td>Guilherme A Fonseca #139</td><td>18</td>&#10;				</tr><tr><td>Filipe Ferreira Pacheco #133</td><td>12</td><td>35</td><td>Carlos Alexandre dos Santos #15</td><td>14</td>&#10;				</tr><tr><td>Gabriel Fehr #44</td><td>21</td><td>1</td><td>Jonathan L Melamed #58</td><td>21</td>&#10;				</tr><tr><td>GABRIEL L LANGHANS DE OLIVEI #45</td><td>18</td><td>20</td><td>Vitor Grassato #116</td><td>18</td>&#10;				</tr><tr><td>Gil Henriques #46</td><td>15</td><td>32</td><td>Matheus Moreli #163</td><td>15</td>&#10;				</tr><tr><td>Guilherme A Fonseca #139</td><td>18</td><td>18</td><td>Fernando Luiz Freitas #42</td><td>18</td>&#10;				</tr><tr><td>guilherme b Vieira #49</td><td>18</td><td>22</td><td>Alexandre Conrado #3</td><td>18</td>&#10;				</tr><tr><td>Guilherme Medeiros Merjan #48</td><td>24</td><td>5</td><td>Andre Lopes #7</td><td>21</td>&#10;				</tr><tr><td>Gustavo Cramer #138</td><td>15</td><td>29</td><td>Daniel M Santos #18</td><td>15</td>&#10;				</tr><tr><td>Helio Sampaio De Nascimento #51</td><td>12</td><td>38</td><td>Elton M Fior #29</td><td>12</td>&#10;				</tr><tr><td>Igor Sousa #52</td><td>24</td><td>4</td><td>Joao Manoel Dannemann #56</td><td>24</td>&#10;				</tr><tr><td>João Magalhaes #54</td><td>19</td><td>16</td><td>Vinicius H Maia #112</td><td>18</td>&#10;				</tr><tr><td>Joao Manoel Dannemann #56</td><td>24</td><td>4</td><td>Igor Sousa #52</td><td>24</td>&#10;				</tr><tr><td>Joao Marcos Aquino #57</td><td>18</td><td>23</td><td>Wladimir Oda Petroski #120</td><td>18</td>&#10;				</tr><tr><td>Joao Souza #135</td><td>21</td><td>7</td><td>Douglas Romani #21</td><td>21</td>&#10;				</tr><tr><td>Jonathan L Melamed #58</td><td>21</td><td>1</td><td>Gabriel Fehr #44</td><td>21</td>&#10;				</tr><tr><td>José Francisco D Silva #59</td><td>18</td><td>19</td><td>Ruda dos Reis #102</td><td>18</td>&#10;				</tr><tr><td>Juliano G Souza #60</td><td>21</td><td>12</td><td>Alexandre Ando #2</td><td>21</td>&#10;				</tr><tr><td>Leandro Marques #62</td><td>15</td><td>33</td><td>Evanderson Carvalho #32</td><td>15</td>&#10;				</tr><tr><td>Leon Soares Puccinelli #64</td><td>15</td><td>26</td><td>LUCIANO COSTA VALE #70</td><td>16</td>&#10;				</tr><tr><td>Leonardo M Labruna #66</td><td>21</td><td>9</td><td>Carlos E Romão #14</td><td>21</td>&#10;				</tr><tr><td>Lucas Pastorini #69</td><td>15</td><td>28</td><td>Walter Bruno Latorraca #149</td><td>15</td>&#10;				</tr><tr><td>LUCIANO COSTA VALE #70</td><td>16</td><td>26</td><td>Leon Soares Puccinelli #64</td><td>15</td>&#10;				</tr><tr><td>Luiz E Oliveira #71</td><td>21</td><td>13</td><td>Marcio Araujo #125</td><td>21</td>&#10;				</tr><tr><td>Luiz Henrique Miguel #72</td><td>24</td><td>3</td><td>Ricardo B Longo #98</td><td>24</td>&#10;				</tr><tr><td>Marcio Araujo #125</td><td>21</td><td>13</td><td>Luiz E Oliveira #71</td><td>21</td>&#10;				</tr><tr><td>Marcos Estrela #75</td><td>15</td><td>27</td><td>Abias dos santos Júnior #1</td><td>15</td>&#10;				</tr><tr><td>Marcos Paulo de Jesus Freita #76</td><td>21</td><td>14</td><td>Eduardo Borges #24</td><td>21</td>&#10;				</tr><tr><td>MARCUS CAMARGO #152</td><td>27</td><td>2</td><td>Allison N Abe #4</td><td>24</td>&#10;				</tr><tr><td>Marcus Pacheco #77</td><td>24</td><td>6</td><td>Reinaldo G da Silva jr #96</td><td>27</td>&#10;				</tr><tr><td>Matheus Moreli #163</td><td>15</td><td>32</td><td>Gil Henriques #46</td><td>15</td>&#10;				</tr><tr><td>Rafael J Gripp #89</td><td>21</td><td>10</td><td>Adrien G Degaspare #150</td><td>21</td>&#10;				</tr><tr><td>Rafael Sangoi #92</td><td>19</td><td>15</td><td>Rafael Zaghi #95</td><td>19</td>&#10;				</tr><tr><td>Rafael Zaghi #95</td><td>19</td><td>15</td><td>Rafael Sangoi #92</td><td>19</td>&#10;				</tr><tr><td>Reinaldo G da Silva jr #96</td><td>27</td><td>6</td><td>Marcus Pacheco #77</td><td>24</td>&#10;				</tr><tr><td>Renan Sobrinho #155</td><td>12</td><td>37</td><td>Tobias Scarpini #108</td><td>12</td>&#10;				</tr><tr><td>Renato Henrique A Araujo #157</td><td>18</td><td>25</td><td>Eduardo dos Santos Vieira #27</td><td>18</td>&#10;				</tr><tr><td>Ricardo B Longo #98</td><td>24</td><td>3</td><td>Luiz Henrique Miguel #72</td><td>24</td>&#10;				</tr><tr><td>Robson Toneto Junior #99</td><td>13</td><td>36</td><td>Fábio j Marte #35</td><td>13</td>&#10;				</tr><tr><td>Rodrigo Nogueira #146</td><td>21</td><td>11</td><td>Daniel R Frias #17</td><td>21</td>&#10;				</tr><tr><td>Ruda dos Reis #102</td><td>18</td><td>19</td><td>José Francisco D Silva #59</td><td>18</td>&#10;				</tr><tr><td>Sergio Fialho Martins #104</td><td>15</td><td>34</td><td>Victor Fernando Silva #110</td><td>15</td>&#10;				</tr><tr><td>Sergio Longo Jr. #105</td><td>15</td><td>31</td><td>Eduardo Silva #26</td><td>15</td>&#10;				</tr><tr><td>Tarciso Costa #134</td><td>21</td><td>8</td><td>André Franco #127</td><td>21</td>&#10;				</tr><tr><td>Thiago Alberto #106</td><td>15</td><td>30</td><td>Felipe M Soares #38</td><td>15</td>&#10;				</tr><tr><td>Tobias Scarpini #108</td><td>12</td><td>37</td><td>Renan Sobrinho #155</td><td>12</td>&#10;				</tr><tr><td>Tulio L Jaudy #128</td><td>18</td><td>21</td><td>Vinicius A Karam #111</td><td>18</td>&#10;				</tr><tr><td>Victor Fernando Silva #110</td><td>15</td><td>34</td><td>Sergio Fialho Martins #104</td><td>15</td>&#10;				</tr><tr><td>Vinicius A Karam #111</td><td>18</td><td>21</td><td>Tulio L Jaudy #128</td><td>18</td>&#10;				</tr><tr><td>Vinicius H Maia #112</td><td>18</td><td>16</td><td>João Magalhaes #54</td><td>19</td>&#10;				</tr><tr><td>Vitor Grassato #116</td><td>18</td><td>20</td><td>GABRIEL L LANGHANS DE OLIVEI #45</td><td>18</td>&#10;				</tr><tr><td>Walter Bruno Latorraca #149</td><td>15</td><td>28</td><td>Lucas Pastorini #69</td><td>15</td>&#10;				</tr><tr><td>William Bielenki #118</td><td>18</td><td>24</td><td>Enzo Real #30</td><td>18</td>&#10;				</tr><tr><td>Wladimir Oda Petroski #120</td><td>18</td><td>23</td><td>Joao Marcos Aquino #57</td><td>18</td>&#10;				</tr><tr><td> </td>&#10;				</tr></tbody></table>

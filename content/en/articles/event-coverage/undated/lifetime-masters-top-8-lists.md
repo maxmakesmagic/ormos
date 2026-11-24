@@ -1,0 +1,54 @@
+---
+id: 4gc0wt73
+kind: event
+lang: en
+path: /en/articles/event-coverage/undated/lifetime-masters-top-8-lists
+title: Lifetime Masters Top 8 Lists
+published: null
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/events.aspx?x=protour/standings/masters/top8byplayer
+    lang_detected: en
+    capture_id: 936627
+    url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=protour/standings/masters/top8byplayer&print=true
+    captured_at: '2013-07-03 06:16:48+00'
+    rule: aspx.article_heading
+sources:
+- document_id: 4gc0wt73
+  url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=protour/standings/masters/top8byplayer&print=true
+  page_key: wizards.com/magic/magazine/events.aspx?x=protour/standings/masters/top8byplayer
+  lang: en
+  template: aspx
+  captured_at: '2013-07-03 06:16:48+00'
+  capture_id: 936627
+  wayback_url: https://web.archive.org/web/20130703061648id_/https://www.wizards.com/Magic/Magazine/Events.aspx?x=protour/standings/masters/top8byplayer&print=true
+- document_id: 4gc0wt73
+  url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=protour/standings/masters/top8byplayer
+  page_key: wizards.com/magic/magazine/article.aspx?x=protour/standings/masters/top8byplayer
+  lang: en
+  template: aspx
+  captured_at: '2013-07-01 06:03:37+00'
+  capture_id: 829896
+  wayback_url: https://web.archive.org/web/20130701060337id_/http://www.wizards.com/Magic/Magazine/Article.aspx?x=protour/standings/masters/top8byplayer
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 4gc0wt73
+  capture_id: 936627
+  url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=protour/standings/masters/top8byplayer&print=true
+  wayback_url: https://web.archive.org/web/20130703061648id_/https://www.wizards.com/Magic/Magazine/Events.aspx?x=protour/standings/masters/top8byplayer&print=true
+  captured_at: '2013-07-03 06:16:48+00'
+  template: aspx
+  sha256: 27a110e1e79266ba03b53d363cfdb6c62ef589c81fd81630577a8c3aa7b6d162
+render_recovery: []
+---
+*   [**Lifetime Masters Top 8s by event**](/de/articles/event-coverage/undated/masters-top-8-lists)
+
+Note: For team events, a top-four place is considered making a Top 8 for the individual team members
+
+\*-denotes member of the [**Magic** Pro Tour Hall of Fame](/en/articles/event-coverage/undated/tournaments-events-trading-card-game-magic-the-gathering-2)
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <a href="/en/articles/event-coverage/undated/lifetime-masters-top-8-lists">&#10;        <b>First Name</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/en/articles/event-coverage/undated/lifetime-masters-top-8-lists">&#10;        <b>Last Name</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/en/articles/event-coverage/undated/lifetime-masters-top-8-lists">&#10;        <b>Total</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/en/articles/event-coverage/undated/lifetime-masters-top-8-lists">&#10;        <b>Wins</b>&#10;      </a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Bob </td>&#10;    <td>Maher*</td>&#10;    <td>5</td>&#10;    <td>1</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Ryan</td>&#10;    <td>Fuller</td>&#10;    <td>4</td>&#10;    <td>2</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Reiji</td>&#10;    <td>Andou</td>&#10;    <td>3</td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Kai</td>&#10;    <td>Budde*</td>&#10;    <td>3</td>&#10;    <td>1</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Itaru</td>&#10;    <td>Ishida</td>&#10;    <td>3</td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Kazuyuki</td>&#10;    <td>Momose</td>&#10;    <td>3</td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Zvi</td>&#10;    <td>Mowshowitz*</td>&#10;    <td>3</td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Nicolas</td>&#10;    <td>Oliveiri</td>&#10;    <td>3</td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Ben</td>&#10;    <td>Rubin*</td>&#10;    <td>3</td>&#10;    <td>2</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Antoine</td>&#10;    <td>Ruel*</td>&#10;    <td>3</td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Tomi</td>&#10;    <td>Walamies</td>&#10;    <td>3</td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gary</td>&#10;    <td>Wise*</td>&#10;    <td>3</td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dirk</td>&#10;    <td>Baberowski*</td>&#10;    <td>2</td>&#10;    <td>1</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Chris</td>&#10;    <td>Benafel</td>&#10;    <td>2</td>&#10;    <td>1</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Noah</td>&#10;    <td>Boeken</td>&#10;    <td>2</td>&#10;    <td>1</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Jon</td>&#10;    <td>Finkel*</td>&#10;    <td>2</td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>David</td>&#10;    <td>Humpherys*</td>&#10;    <td>2</td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Darwin</td>&#10;    <td>Kastle*</td>&#10;    <td>2</td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gabriel</td>&#10;    <td>Nassif*</td>&#10;    <td>2</td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Neil</td>&#10;    <td>Reeves</td>&#10;    <td>2</td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Alex</td>&#10;    <td>Shvartsman</td>&#10;    <td>2</td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Jens</td>&#10;    <td>Thoren</td>&#10;    <td>2</td>&#10;    <td>1</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Jelger</td>&#10;    <td>Wiegersma*</td>&#10;    <td>2</td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Markus</td>&#10;    <td>Bell</td>&#10;    <td>1</td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Marco</td>&#10;    <td>Blume</td>&#10;    <td>1</td>&#10;    <td>1</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Mike</td>&#10;    <td>Bregoli</td>&#10;    <td>1</td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Franck</td>&#10;    <td>Canu</td>&#10;    <td>1</td>&#10;    <td>1</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Kamiel</td>&#10;    <td>Cornelissen*</td>&#10;    <td>1</td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Andrew</td>&#10;    <td>Cuneo</td>&#10;    <td>1</td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Rob</td>&#10;    <td>Dougherty*</td>&#10;    <td>1</td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Jay</td>&#10;    <td>Elarar</td>&#10;    <td>1</td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Sigurd</td>&#10;    <td>Eskeland</td>&#10;    <td>1</td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Aaron</td>&#10;    <td>Forsythe</td>&#10;    <td>1</td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Eric</td>&#10;    <td>Froehlich</td>&#10;    <td>1</td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Tsuyoshi</td>&#10;    <td>Fujita*</td>&#10;    <td>1</td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Justin</td>&#10;    <td>Gary</td>&#10;    <td>1</td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Brian</td>&#10;    <td>Hegstad</td>&#10;    <td>1</td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Ken</td>&#10;    <td>Ho</td>&#10;    <td>1</td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>William</td>&#10;    <td>Jensen</td>&#10;    <td>1</td>&#10;    <td>1</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Florent</td>&#10;    <td>Jeudon</td>&#10;    <td>1</td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Andrew</td>&#10;    <td>Johnson</td>&#10;    <td>1</td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Anton</td>&#10;    <td>Jonsson</td>&#10;    <td>1</td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Frank</td>&#10;    <td>Karsten*</td>&#10;    <td>1</td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Brian </td>&#10;    <td>Kibler*</td>&#10;    <td>1</td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Masashiro</td>&#10;    <td>Kuroda</td>&#10;    <td>1</td>&#10;    <td>1</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Raphael</td>&#10;    <td>Levy*</td>&#10;    <td>1</td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Christian</td>&#10;    <td>Lührs</td>&#10;    <td>1</td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Pierre </td>&#10;    <td>Malherbaud</td>&#10;    <td>1</td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Warren</td>&#10;    <td>Marsh</td>&#10;    <td>1</td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Patrick</td>&#10;    <td>Mello</td>&#10;    <td>1</td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Katsuhiro</td>&#10;    <td>Mori</td>&#10;    <td>1</td>&#10;    <td>1</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Masahiko</td>&#10;    <td>Morita</td>&#10;    <td>1</td>&#10;    <td>1</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Tuomo</td>&#10;    <td>Nieminen</td>&#10;    <td>1</td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Eivind</td>&#10;    <td>Nitter</td>&#10;    <td>1</td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Steve</td>&#10;    <td>O'Mahoney-Schwartz</td>&#10;    <td>1</td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Diego </td>&#10;    <td>Ostrovich</td>&#10;    <td>1</td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Elijah</td>&#10;    <td>Pollock</td>&#10;    <td>1</td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Michael</td>&#10;    <td>Pustilnik</td>&#10;    <td>1</td>&#10;    <td>1</td>&#10;  </tr>&#10;  <tr>&#10;    <td>David</td>&#10;    <td>Rood</td>&#10;    <td>1</td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Kyle</td>&#10;    <td>Rose</td>&#10;    <td>1</td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Olivier</td>&#10;    <td>Ruel*</td>&#10;    <td>1</td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Johan</td>&#10;    <td>Sadeghpour</td>&#10;    <td>1</td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Amiel</td>&#10;    <td>Tenenbaum</td>&#10;    <td>1</td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Mike</td>&#10;    <td>Turian*</td>&#10;    <td>1</td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Trey</td>&#10;    <td>van Cleave</td>&#10;    <td>1</td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Victor</td>&#10;    <td>van der Broek</td>&#10;    <td>1</td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>David</td>&#10;    <td>Williams</td>&#10;    <td>1</td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Alexander</td>&#10;    <td>Witt</td>&#10;    <td>1</td>&#10;    <td>1</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Steven</td>&#10;    <td>Wolfman</td>&#10;    <td>1</td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Jason</td>&#10;    <td>Zila</td>&#10;    <td>1</td>&#10;    <td>0</td>&#10;  </tr>&#10;</tbody></table>

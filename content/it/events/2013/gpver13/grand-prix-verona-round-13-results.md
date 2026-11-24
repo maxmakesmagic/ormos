@@ -1,0 +1,63 @@
+---
+id: wm9ps7sr
+kind: event
+lang: it
+path: /it/events/2013/gpver13/grand-prix-verona-round-13-results
+title: Grand Prix Verona Round 13 Results
+published: '2013-03-10'
+column_slug: null
+column: null
+authors: []
+event_code: gpver13
+detected_lang: it
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-verona-round-13-results-2013-03-10
+    lang_detected: it
+    capture_id: 434374
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-verona-round-13-results-2013-03-10
+    captured_at: '2022-05-16 23:31:50+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-verona-round-13-results-2013-03-10
+    lang_detected: it
+    capture_id: 434374
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-verona-round-13-results-2013-03-10
+    captured_at: '2022-05-16 23:31:50+00'
+    rule: drupal.posted_in_date
+  event_code:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gpver13/res13
+    lang_detected: it
+    capture_id: 485795
+    url: https://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gpver13/res13
+    captured_at: '2013-06-30 15:51:21+00'
+    rule: url.event_code
+sources:
+- document_id: wm9ps7sr
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-verona-round-13-results-2013-03-10
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-verona-round-13-results-2013-03-10
+  lang: it
+  template: drupal
+  captured_at: '2022-05-16 23:31:50+00'
+  capture_id: 434374
+  wayback_url: https://web.archive.org/web/20220516233150id_/https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-verona-round-13-results-2013-03-10
+- document_id: wm9ps7sr
+  url: https://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gpver13/res13
+  page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gpver13/res13
+  lang: it
+  template: aspx
+  captured_at: '2013-06-30 15:51:21+00'
+  capture_id: 485795
+  wayback_url: https://web.archive.org/web/20130630155121id_/https://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gpver13/res13
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: wm9ps7sr
+  capture_id: 434374
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-verona-round-13-results-2013-03-10
+  wayback_url: https://web.archive.org/web/20220516233150id_/https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-verona-round-13-results-2013-03-10
+  captured_at: '2022-05-16 23:31:50+00'
+  template: drupal
+  sha256: 00ecb05d1c352fc941a369d1da16381b2bf9c290529066cd454a925c921544b2
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Result</b></td><td><b>&#10;						</b></td><td><b>Opponent</b></td></tr><tr><td> 1</td><td>Ramis Pascual, Toni [ESP]</td><td>Lost 1-2</td><td>vs.</td><td>Schultze, Max [DEU]</td></tr><tr><td> 2</td><td>Krasnitski, Mike [UKR]</td><td>Won 2-0</td><td>vs.</td><td>Lehner, Bernhard [AUT]</td></tr><tr><td> 3</td><td>Wald, Piotr [POL]</td><td>Drew 1-1</td><td>vs.</td><td>Dezani, Jeremy [FRA]</td></tr><tr><td> 4</td><td>Liapatis, Theodoros [GRC]</td><td>Lost 1-2</td><td>vs.</td><td>Estratti, Samuele [ITA]</td></tr><tr><td> 5</td><td>Nielsen, Andreas [DNK]</td><td>Won 2-0</td><td>vs.</td><td>Belmer, Yann [FRA]</td></tr><tr><td> 6</td><td>Rizzi, Mattia [ITA]</td><td>Won 2-1</td><td>vs.</td><td>Mittendorfer, Lukas [AUT]</td></tr><tr><td> 7</td><td>Addario, Riccardo [ENG]</td><td>Lost 0-2</td><td>vs.</td><td>Sucic, Stjepan [HRV]</td></tr><tr><td> 8</td><td>Mitchell-burns, Jack [ENG]</td><td>Lost 1-2</td><td>vs.</td><td>Jandrasits, Marco [AUT]</td></tr><tr><td> 9</td><td>Jaklovsky, Lukas [CZE]</td><td>Won 2-0</td><td>vs.</td><td>Larsson, Joel [SWE]</td></tr><tr><td> 10</td><td>Juza, Martin [CZE]</td><td>Won 2-1</td><td>vs.</td><td>Bonde, Michael [DNK]</td></tr><tr><td> 11</td><td>Shenhar, Shahar [USA]</td><td>Won 2-1</td><td>vs.</td><td>Brade, Raphael [DEU]</td></tr><tr><td> 12</td><td>Cifka, Stanislav [CZE]</td><td>Lost 1-2</td><td>vs.</td><td>Ragionieri, Filippo [ITA]</td></tr><tr><td> 13</td><td>Rossijcenko, Alexander [CZE]</td><td>Won 2-1</td><td>vs.</td><td>Van Der Vaart, Martijn [NLD]</td></tr><tr><td> 14</td><td>Vodopyanov, Igor O [RUS]</td><td>Lost 1-2</td><td>vs.</td><td>Black, Samuel [USA]</td></tr><tr><td> 15</td><td>Marcotti, Davide [ITA]</td><td>Lost 1-2</td><td>vs.</td><td>Luff, Andre [DEU]</td></tr><tr><td> 16</td><td>Tampieri, Carlo [ITA]</td><td>Lost 0-2</td><td>vs.</td><td>Jezierski, Grzegorz [POL]</td></tr><tr><td> 17</td><td>Rutar, Andrej [SVN]</td><td>Drew 1-1-1</td><td>vs.</td><td>Onosov, Oleksandr E [UKR]</td></tr><tr><td> 18</td><td>Rinnen, Davide [ITA]</td><td>Won 2-0</td><td>vs.</td><td>Tempesta, Fabrizio [ITA]</td></tr><tr><td> 19</td><td>Gregoir, Christophe [BEL]</td><td>Won 2-0</td><td>vs.</td><td>Soum, Julien [FRA]</td></tr><tr><td> 20</td><td>Deymundt, Sergio [ITA]</td><td>Lost 1-2</td><td>vs.</td><td>Kuo, Tzu Ching [TWN]</td></tr><tr><td> 21</td><td>Patalageanu, Dragos [ROU]</td><td>Lost 0-2</td><td>vs.</td><td>Roelofs, Frank [NLD]</td></tr><tr><td> 22</td><td>Dolar, Robin [SVN]</td><td>Won 2-1</td><td>vs.</td><td>Aurejac, Alexandre [FRA]</td></tr><tr><td> 23</td><td>Urbán, Tamás [HUN]</td><td>Lost 0-2</td><td>vs.</td><td>Santopadre, Marco [ITA]</td></tr><tr><td> 24</td><td>Vanek, Tomas [CZE]</td><td>Won 2-1</td><td>vs.</td><td>Wienand, Jonas [DEU]</td></tr><tr><td> 25</td><td>Le Briand, Loic [FRA]</td><td>Lost 0-2</td><td>vs.</td><td>Rovito, Edoardo [ITA]</td></tr><tr><td> 26</td><td>Paolucci, Matteo [ITA]</td><td>Won 2-1</td><td>vs.</td><td>Ampollini, Davide [ITA]</td></tr><tr><td> 27</td><td>Pichon, Elie [FRA]</td><td>Lost 1-2</td><td>vs.</td><td>S‡nchez, Ricardo [ESP]</td></tr><tr><td> 28</td><td>Masini, Alberto [ITA]</td><td>Lost 0-2</td><td>vs.</td><td>Balanzoni, Lorenzo [ITA]</td></tr><tr><td> 29</td><td>Schmittbüttner, Markus [DEU]</td><td>Lost 1-2</td><td>vs.</td><td>Lerro, Lorenzo [ITA]</td></tr><tr><td> 30</td><td>Calafell, Joel [ESP]</td><td>Won 2-0</td><td>vs.</td><td>Huang, Hao-shan [TWN]</td></tr><tr><td> 31</td><td>Holzinger, Thomas [AUT]</td><td>Lost 0-2</td><td>vs.</td><td>Calvetto, Marcello [ITA]</td></tr><tr><td> 32</td><td>Ciotta, Andrea [ITA]</td><td>Lost 0-2</td><td>vs.</td><td>Storch, Florian [DEU]</td></tr><tr><td> 33</td><td>Ferreira, Narciso [PRT]</td><td>Lost 0-2</td><td>vs.</td><td>Bertoni, Michele [ITA]</td></tr><tr><td> 34</td><td>Kleiner, Sebastian [DEU]</td><td>Lost 1-2</td><td>vs.</td><td>Mengucci, Andrea [ITA]</td></tr><tr><td> 35</td><td>Rus, Tine [SVN]</td><td>Won 2-0</td><td>vs.</td><td>Nesi, Eugenio [ITA]</td></tr><tr><td> 36</td><td>Mares, Jiri [CZE]</td><td>Won 2-1</td><td>vs.</td><td>Ferrari, Stefano [ITA]</td></tr><tr><td> 37</td><td>Nakamura, Shuuhei [JPN]</td><td>Lost 0-2</td><td>vs.</td><td>Cammilluzzi, Marco [ITA]</td></tr><tr><td> 38</td><td>Stagni, Manuela [ITA]</td><td>Lost 0-2</td><td>vs.</td><td>Hollós, Péter [HUN]</td></tr><tr><td> 39</td><td>Porseo, Alessandro [ITA]</td><td>Lost 1-2</td><td>vs.</td><td>Pezzo, Fabio [ITA]</td></tr><tr><td> 40</td><td>Rizzi, Giuseppe [ITA]</td><td>Won 2-1</td><td>vs.</td><td>Dedaj, Terenc [ITA]</td></tr><tr><td> 41</td><td>Andrejchikov, Denis J [RUS]</td><td>Won 2-1</td><td>vs.</td><td>Lieutaud, Philippe [FRA]</td></tr><tr><td> 42</td><td>Cibak, Andrea [ITA]</td><td>Lost 0-2</td><td>vs.</td><td>Buchholzer, Mathieu [FRA]</td></tr><tr><td> 43</td><td>Strobach, Patrick [DEU]</td><td>Won 2-0</td><td>vs.</td><td>Venturi, Mattia [ITA]</td></tr><tr><td> 44</td><td>Durham, Michael [HUN]</td><td>Won 2-0</td><td>vs.</td><td>Vojta, Jakub [CZE]</td></tr><tr><td> 45</td><td>Brendemühl, Bernd [DEU]</td><td>Won 2-1</td><td>vs.</td><td>Bastos, Frederico [PRT]</td></tr><tr><td> 46</td><td>Faccini, Giulio [ITA]</td><td>Won 2-1</td><td>vs.</td><td>Gulyas, Gergely [HUN]</td></tr><tr><td> 47</td><td>Hatto, Steve S [LUX]</td><td>Won 2-0</td><td>vs.</td><td>Carabaich, Ignazio [ITA]</td></tr><tr><td> 48</td><td>Semkin, Alexander [RUS]</td><td>Lost 0-2</td><td>vs.</td><td>Giovannetti, Simone [ITA]</td></tr><tr><td> 49</td><td>Summersberger, Helmut [AUT]</td><td>Won 2-1</td><td>vs.</td><td>Battistuzzi, Nicolò [ITA]</td></tr><tr><td> 50</td><td>Schemeil, Stefano S [ITA]</td><td>Lost 0-2</td><td>vs.</td><td>Gruia, David [DEU]</td></tr><tr><td> 51</td><td>Montresor, Gabriele [ITA]</td><td>Won 2-0</td><td>vs.</td><td>Floch, Ivan [SVK]</td></tr><tr><td> 52</td><td>Cipolleschi, Francesco [ITA]</td><td>Lost 1-2</td><td>vs.</td><td>Glied, Tamás [HUN]</td></tr><tr><td> 53</td><td>Dolazza, Marco M [ITA]</td><td>Won 2-1</td><td>vs.</td><td>Watsfeldt, Elias [SWE]</td></tr><tr><td> 54</td><td>Jurkovic, Robert [SVK]</td><td>Won 2-0</td><td>vs.</td><td>Colleoni, Diego [ITA]</td></tr><tr><td> 55</td><td>Jimenez, Toni [ESP]</td><td>Lost 1-2</td><td>vs.</td><td>Mackl, Valentin [AUT]</td></tr><tr><td> 56</td><td>Reale, Giuseppe [ITA]</td><td>Lost 1-2</td><td>vs.</td><td>Frantuma, Marco [ITA]</td></tr><tr><td> 57</td><td>Marinescu, Alex [ROU]</td><td>Won 2-0</td><td>vs.</td><td>Telarov, Aleksa [SCG]</td></tr><tr><td> 58</td><td>Zulian, Simone [ITA]</td><td>Won 2-0</td><td>vs.</td><td>Heinrich, Artie [DEU]</td></tr><tr><td> 59</td><td>Blaut, Lukasz [POL]</td><td>Lost 0-2</td><td>vs.</td><td>Idelfonso, Diony [CHE]</td></tr><tr><td> 60</td><td>Rocco, Alessandro [ENG]</td><td>Lost 0-2</td><td>vs.</td><td>Dictus, Mark [BEL]</td></tr><tr><td> 61</td><td>Lunghi, Jacopo [ITA]</td><td>Won 2-0</td><td>vs.</td><td>Ghesini, Andrea [ITA]</td></tr><tr><td> 62</td><td>Jansky, David [CZE]</td><td>Lost 0-2</td><td>vs.</td><td>Steiner, Stefan [AUT]</td></tr><tr><td> 63</td><td>Marinari, Manuel [ITA]</td><td>Won 2-0</td><td>vs.</td><td>Tassone, Maximilian [ITA]</td></tr><tr><td> 64</td><td>Voss, Jonathan [GLP]</td><td>Won 2-0</td><td>vs.</td><td>Faraggiana, S [ITA]</td></tr><tr><td> 65</td><td>Luca, Lazzini [ITA]</td><td>Lost 0-2</td><td>vs.</td><td>Vetrò, Marco M [ITA]</td></tr><tr><td> 66</td><td>Chronopoulos, Bill [GRC]</td><td>Won 2-0</td><td>vs.</td><td>Racca, Luca [ITA]</td></tr><tr><td> 67</td><td>Renner, Mark [AUT]</td><td>Lost 0-2</td><td>vs.</td><td>Deltour, Louis [FRA]</td></tr><tr><td> 68</td><td>Mangione, Vincenzo [ITA]</td><td>Won 2-0</td><td>vs.</td><td>Stehno, Alexander [AUT]</td></tr><tr><td> 69</td><td>Fiala-ibitz, Sebastian [AUT]</td><td>Lost 0-2</td><td>vs.</td><td>Matsoukas, Makis [GRC]</td></tr><tr><td> 70</td><td>Pizzi, William [ITA]</td><td>Won 2-1</td><td>vs.</td><td>Asisnato, Gustavo [ITA]</td></tr><tr><td> 71</td><td>Stroev, Mikhail [RUS]</td><td>Won 2-0</td><td>vs.</td><td>Cooman, Andy [NLD]</td></tr><tr><td> 72</td><td>Martino, Claudio [ITA]</td><td>Won 2-1</td><td>vs.</td><td>Ruiz, Fernando [ESP]</td></tr><tr><td> 73</td><td>Giordani, Antonio [ITA]</td><td>Won 2-1</td><td>vs.</td><td>D'innocenzo, Andrea [ITA]</td></tr><tr><td> 74</td><td>Manenti, Fabio [ITA]</td><td>Won 2-1</td><td>vs.</td><td>Mazibrada, Marko [SCG]</td></tr><tr><td> 75</td><td>Giusti, Emanuele [ITA]</td><td>Won 2-1</td><td>vs.</td><td>Lasku, Nikolin [AFG]</td></tr><tr><td> 76</td><td>Vinci, Stefano [ITA]</td><td>Won 2-1</td><td>vs.</td><td>Mares, Robert [ROU]</td></tr><tr><td> 77</td><td>Piccinno, Richard [ITA]</td><td>Won 2-0</td><td>vs.</td><td>Carli Maltinti, Lorenz [ITA]</td></tr><tr><td> 78</td><td>Martin Espada, Agustin [ESP]</td><td>Won 2-0</td><td>vs.</td><td>Cuocci, Fabrizio [ITA]</td></tr><tr><td> 79</td><td>Anceschi, Marco [ITA]</td><td>Won 2-1</td><td>vs.</td><td>Moscato, Adriano [ITA]</td></tr><tr><td> 80</td><td>Mastrodomenico, Luigi [ITA]</td><td>Lost 1-2</td><td>vs.</td><td>De Colle, Mattia [ITA]</td></tr><tr><td> 81</td><td>Bergen, Wesley [NLD]</td><td>Won 2-0</td><td>vs.</td><td>Klutz, Andreas [AUT]</td></tr><tr><td> 82</td><td>Ganz, Andreas [CHE]</td><td>Won 2-1</td><td>vs.</td><td>Fiordelmondo, Matteo [ITA]</td></tr><tr><td> 83</td><td>Collinet, Patrick [DEU]</td><td>Lost 0-2</td><td>vs.</td><td>Longo, Alessandro [ITA]</td></tr><tr><td> 84</td><td>Bortevsky, Pavel [CZE]</td><td>Lost 0-2</td><td>vs.</td><td>La Placa, Andrea [ITA]</td></tr><tr><td> 85</td><td>Faenza, Federico [ITA]</td><td>Won 2-1</td><td>vs.</td><td>Nardi, Dario [ITA]</td></tr><tr><td> 86</td><td>Franceschet, Matteo [ITA]</td><td>Lost 1-2</td><td>vs.</td><td>Gianotti, Filippo [ENG]</td></tr></tbody></table>

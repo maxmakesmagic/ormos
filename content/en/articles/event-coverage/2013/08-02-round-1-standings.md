@@ -1,0 +1,47 @@
+---
+id: xfxvp4tc
+kind: event
+lang: en
+path: /en/articles/event-coverage/2013/08-02-round-1-standings
+title: Round 1 Standings
+published: '2013-08-02'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-1-standings-2013-08-02
+    lang_detected: en
+    capture_id: 486477
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-1-standings-2013-08-02
+    captured_at: '2022-08-09 02:17:04+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-1-standings-2013-08-02
+    lang_detected: en
+    capture_id: 486477
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-1-standings-2013-08-02
+    captured_at: '2022-08-09 02:17:04+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: xfxvp4tc
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-1-standings-2013-08-02
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/round-1-standings-2013-08-02
+  lang: en
+  template: drupal
+  captured_at: '2022-08-09 02:17:04+00'
+  capture_id: 486477
+  wayback_url: https://web.archive.org/web/20220809021704id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-1-standings-2013-08-02
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: xfxvp4tc
+  capture_id: 486477
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-1-standings-2013-08-02
+  wayback_url: https://web.archive.org/web/20220809021704id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-1-standings-2013-08-02
+  captured_at: '2022-08-09 02:17:04+00'
+  template: drupal
+  sha256: 730785148e266734a488b6eaf98d267806e3e161df1eab823a61e3de8fef06c9
+render_recovery: []
+---
+<table><tbody><tr><td><a href="https://web.archive.org/web/20130802000000/http://archive.wizards.com/Magic/magazine/article.aspx?x=mtg/daily/eventcoverage/wmc13/stand1&amp;tablesort=1">Name</a></td>&#10;			<td><a href="https://web.archive.org/web/20130802000000/http://archive.wizards.com/Magic/magazine/article.aspx?x=mtg/daily/eventcoverage/wmc13/stand1&amp;tablesort=2">Total Points</a></td>&#10;			<td><a href="https://web.archive.org/web/20130802000000/http://archive.wizards.com/Magic/magazine/article.aspx?x=mtg/daily/eventcoverage/wmc13/stand1&amp;tablesort=3">Cumulative</a></td>&#10;			<td><a href="https://web.archive.org/web/20130802000000/http://archive.wizards.com/Magic/magazine/article.aspx?x=mtg/daily/eventcoverage/wmc13/stand1&amp;tablesort=4">Opponents' Match Win</a></td>&#10;		</tr><tr><td>Australia</td>&#10;			<td>3</td>&#10;			<td>3</td>&#10;			<td>33.3333 %</td>&#10;		</tr><tr><td>Austria</td>&#10;			<td>3</td>&#10;			<td>3</td>&#10;			<td>33.3333 %</td>&#10;		</tr><tr><td>Brazil</td>&#10;			<td>3</td>&#10;			<td>3</td>&#10;			<td>33.3333 %</td>&#10;		</tr><tr><td>Chile</td>&#10;			<td>3</td>&#10;			<td>3</td>&#10;			<td>33.3333 %</td>&#10;		</tr><tr><td>Colombia</td>&#10;			<td>3</td>&#10;			<td>3</td>&#10;			<td>33.3333 %</td>&#10;		</tr><tr><td>Croatia</td>&#10;			<td>3</td>&#10;			<td>3</td>&#10;			<td>33.3333 %</td>&#10;		</tr><tr><td>Cyprus</td>&#10;			<td>3</td>&#10;			<td>3</td>&#10;			<td>33.3333 %</td>&#10;		</tr><tr><td>Czech Republic</td>&#10;			<td>3</td>&#10;			<td>3</td>&#10;			<td>33.3333 %</td>&#10;		</tr><tr><td>Ecuador</td>&#10;			<td>3</td>&#10;			<td>3</td>&#10;			<td>33.3333 %</td>&#10;		</tr><tr><td>El Salvador</td>&#10;			<td>3</td>&#10;			<td>3</td>&#10;			<td>33.3333 %</td>&#10;		</tr><tr><td>England</td>&#10;			<td>3</td>&#10;			<td>3</td>&#10;			<td>33.3333 %</td>&#10;		</tr><tr><td>Estonia</td>&#10;			<td>3</td>&#10;			<td>3</td>&#10;			<td>33.3333 %</td>&#10;		</tr><tr><td>France</td>&#10;			<td>3</td>&#10;			<td>3</td>&#10;			<td>33.3333 %</td>&#10;		</tr><tr><td>Germany</td>&#10;			<td>3</td>&#10;			<td>3</td>&#10;			<td>33.3333 %</td>&#10;		</tr><tr><td>Greece</td>&#10;			<td>3</td>&#10;			<td>3</td>&#10;			<td>33.3333 %</td>&#10;		</tr><tr><td>Hungary</td>&#10;			<td>3</td>&#10;			<td>3</td>&#10;			<td>33.3333 %</td>&#10;		</tr><tr><td>Indonesia</td>&#10;			<td>3</td>&#10;			<td>3</td>&#10;			<td>33.3333 %</td>&#10;		</tr><tr><td>Latvia</td>&#10;			<td>3</td>&#10;			<td>3</td>&#10;			<td>33.3333 %</td>&#10;		</tr><tr><td>Macedonia</td>&#10;			<td>3</td>&#10;			<td>3</td>&#10;			<td>33.3333 %</td>&#10;		</tr><tr><td>Mexico</td>&#10;			<td>3</td>&#10;			<td>3</td>&#10;			<td>33.3333 %</td>&#10;		</tr><tr><td>New Zealand</td>&#10;			<td>3</td>&#10;			<td>3</td>&#10;			<td>33.3333 %</td>&#10;		</tr><tr><td>Norway</td>&#10;			<td>3</td>&#10;			<td>3</td>&#10;			<td>33.3333 %</td>&#10;		</tr><tr><td>Panamï¿½</td>&#10;			<td>3</td>&#10;			<td>3</td>&#10;			<td>33.3333 %</td>&#10;		</tr><tr><td>Poland</td>&#10;			<td>3</td>&#10;			<td>3</td>&#10;			<td>33.3333 %</td>&#10;		</tr><tr><td>Russian Federation</td>&#10;			<td>3</td>&#10;			<td>3</td>&#10;			<td>33.3333 %</td>&#10;		</tr><tr><td>Singapore</td>&#10;			<td>3</td>&#10;			<td>3</td>&#10;			<td>33.3333 %</td>&#10;		</tr><tr><td>South Africa</td>&#10;			<td>3</td>&#10;			<td>3</td>&#10;			<td>33.3333 %</td>&#10;		</tr><tr><td>South Korea</td>&#10;			<td>3</td>&#10;			<td>3</td>&#10;			<td>33.3333 %</td>&#10;		</tr><tr><td>Switzerland</td>&#10;			<td>3</td>&#10;			<td>3</td>&#10;			<td>33.3333 %</td>&#10;		</tr><tr><td>Ukraine</td>&#10;			<td>3</td>&#10;			<td>3</td>&#10;			<td>33.3333 %</td>&#10;		</tr><tr><td>United States</td>&#10;			<td>3</td>&#10;			<td>3</td>&#10;			<td>33.3333 %</td>&#10;		</tr><tr><td>Venezuela</td>&#10;			<td>3</td>&#10;			<td>3</td>&#10;			<td>33.3333 %</td>&#10;		</tr><tr><td>Ireland</td>&#10;			<td>3</td>&#10;			<td>3</td>&#10;			<td>NaN</td>&#10;		</tr><tr><td>Argentina</td>&#10;			<td>1</td>&#10;			<td>1</td>&#10;			<td>33.3333 %</td>&#10;		</tr><tr><td>China</td>&#10;			<td>1</td>&#10;			<td>1</td>&#10;			<td>33.3333 %</td>&#10;		</tr><tr><td>Chinese Taipei</td>&#10;			<td>1</td>&#10;			<td>1</td>&#10;			<td>33.3333 %</td>&#10;		</tr><tr><td>Costa Rica</td>&#10;			<td>1</td>&#10;			<td>1</td>&#10;			<td>33.3333 %</td>&#10;		</tr><tr><td>Portugal</td>&#10;			<td>1</td>&#10;			<td>1</td>&#10;			<td>33.3333 %</td>&#10;		</tr><tr><td>Turkey</td>&#10;			<td>1</td>&#10;			<td>1</td>&#10;			<td>33.3333 %</td>&#10;		</tr><tr><td>Belarus</td>&#10;			<td>0</td>&#10;			<td>0</td>&#10;			<td>100.0000 %</td>&#10;		</tr><tr><td>Belgium</td>&#10;			<td>0</td>&#10;			<td>0</td>&#10;			<td>100.0000 %</td>&#10;		</tr><tr><td>Bolivia</td>&#10;			<td>0</td>&#10;			<td>0</td>&#10;			<td>100.0000 %</td>&#10;		</tr><tr><td>Bulgaria</td>&#10;			<td>0</td>&#10;			<td>0</td>&#10;			<td>100.0000 %</td>&#10;		</tr><tr><td>Canada</td>&#10;			<td>0</td>&#10;			<td>0</td>&#10;			<td>100.0000 %</td>&#10;		</tr><tr><td>Denmark</td>&#10;			<td>0</td>&#10;			<td>0</td>&#10;			<td>100.0000 %</td>&#10;		</tr><tr><td>Dominican Republic</td>&#10;			<td>0</td>&#10;			<td>0</td>&#10;			<td>100.0000 %</td>&#10;		</tr><tr><td>Finland</td>&#10;			<td>0</td>&#10;			<td>0</td>&#10;			<td>100.0000 %</td>&#10;		</tr><tr><td>Guatemala</td>&#10;			<td>0</td>&#10;			<td>0</td>&#10;			<td>100.0000 %</td>&#10;		</tr><tr><td>Hong Kong</td>&#10;			<td>0</td>&#10;			<td>0</td>&#10;			<td>100.0000 %</td>&#10;		</tr><tr><td>Iceland</td>&#10;			<td>0</td>&#10;			<td>0</td>&#10;			<td>100.0000 %</td>&#10;		</tr><tr><td>Israel</td>&#10;			<td>0</td>&#10;			<td>0</td>&#10;			<td>100.0000 %</td>&#10;		</tr><tr><td>Italy</td>&#10;			<td>0</td>&#10;			<td>0</td>&#10;			<td>100.0000 %</td>&#10;		</tr><tr><td>Japan</td>&#10;			<td>0</td>&#10;			<td>0</td>&#10;			<td>100.0000 %</td>&#10;		</tr><tr><td>Lithuania</td>&#10;			<td>0</td>&#10;			<td>0</td>&#10;			<td>100.0000 %</td>&#10;		</tr><tr><td>Luxembourg</td>&#10;			<td>0</td>&#10;			<td>0</td>&#10;			<td>100.0000 %</td>&#10;		</tr><tr><td>Malaysia</td>&#10;			<td>0</td>&#10;			<td>0</td>&#10;			<td>100.0000 %</td>&#10;		</tr><tr><td>Netherlands</td>&#10;			<td>0</td>&#10;			<td>0</td>&#10;			<td>100.0000 %</td>&#10;		</tr><tr><td>Northern Ireland</td>&#10;			<td>0</td>&#10;			<td>0</td>&#10;			<td>100.0000 %</td>&#10;		</tr><tr><td>Peru</td>&#10;			<td>0</td>&#10;			<td>0</td>&#10;			<td>100.0000 %</td>&#10;		</tr><tr><td>Philippines</td>&#10;			<td>0</td>&#10;			<td>0</td>&#10;			<td>100.0000 %</td>&#10;		</tr><tr><td>Puerto Rico</td>&#10;			<td>0</td>&#10;			<td>0</td>&#10;			<td>100.0000 %</td>&#10;		</tr><tr><td>Romania</td>&#10;			<td>0</td>&#10;			<td>0</td>&#10;			<td>100.0000 %</td>&#10;		</tr><tr><td>Scotland</td>&#10;			<td>0</td>&#10;			<td>0</td>&#10;			<td>100.0000 %</td>&#10;		</tr><tr><td>Serbia</td>&#10;			<td>0</td>&#10;			<td>0</td>&#10;			<td>100.0000 %</td>&#10;		</tr><tr><td>Slovak Republic</td>&#10;			<td>0</td>&#10;			<td>0</td>&#10;			<td>100.0000 %</td>&#10;		</tr><tr><td>Slovenia</td>&#10;			<td>0</td>&#10;			<td>0</td>&#10;			<td>100.0000 %</td>&#10;		</tr><tr><td>Spain</td>&#10;			<td>0</td>&#10;			<td>0</td>&#10;			<td>100.0000 %</td>&#10;		</tr><tr><td>Sweden</td>&#10;			<td>0</td>&#10;			<td>0</td>&#10;			<td>100.0000 %</td>&#10;		</tr><tr><td>Thailand</td>&#10;			<td>0</td>&#10;			<td>0</td>&#10;			<td>100.0000 %</td>&#10;		</tr><tr><td>Uruguay</td>&#10;			<td>0</td>&#10;			<td>0</td>&#10;			<td>100.0000 %</td>&#10;		</tr><tr><td>Wales</td>&#10;			<td>0</td>&#10;			<td>0</td>&#10;			<td>100.0000 %</td>&#10;		</tr></tbody></table>

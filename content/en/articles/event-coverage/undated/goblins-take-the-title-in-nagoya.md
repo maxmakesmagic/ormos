@@ -1,0 +1,1015 @@
+---
+id: 0m04vdt1
+kind: event
+lang: en
+path: /en/articles/event-coverage/undated/goblins-take-the-title-in-nagoya
+title: Goblins Take the Title in Nagoya
+published: null
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtgevent_gpnag04_welcome
+    lang_detected: en
+    capture_id: 829350
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_gpnag04_welcome
+    captured_at: '2009-06-04 03:41:44+00'
+    rule: aspx.article_heading
+sources:
+- document_id: 0m04vdt1
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_gpnag04_welcome
+  page_key: wizards.com/magic/magazine/article.aspx?x=mtgevent_gpnag04_welcome
+  lang: en
+  template: aspx
+  captured_at: '2009-06-04 03:41:44+00'
+  capture_id: 829350
+  wayback_url: https://web.archive.org/web/20090604034144id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_gpnag04_welcome
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 0m04vdt1
+  capture_id: 829350
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_gpnag04_welcome
+  wayback_url: https://web.archive.org/web/20090604034144id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_gpnag04_welcome
+  captured_at: '2009-06-04 03:41:44+00'
+  template: aspx
+  sha256: 4a23023c9b7d359c8326da830e8178c0feadfd666448ca8a13c7eccbcd15e4e2
+render_recovery:
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Great_Furnace')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Great Furnace
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Chromatic_Sphere')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Chromatic Sphere
+  occurrences: 11
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Goblin_Piledriver')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Goblin Piledriver
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Goblin_Warchief')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Goblin Warchief
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Siege-Gang_Commander')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Siege-Gang Commander
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Shrapnel_Blast')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Shrapnel Blast
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Pyroclasm')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Pyroclasm
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Skirk_Prospector')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Skirk Prospector
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Naturalize')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Naturalize
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Seat_of_the_Synod')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Seat of the Synod
+  occurrences: 8
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Welding_Jar')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Welding Jar
+  occurrences: 10
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Ornithopter')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Ornithopter
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Pyrite_Spellbomb')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Pyrite Spellbomb
+  occurrences: 8
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Frogmite')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Frogmite
+  occurrences: 16
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Wooded_Foothills')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Wooded Foothills
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Oxidize')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Oxidize
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Arcbound_Ravager')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Arcbound Ravager
+  occurrences: 9
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Disciple_of_the_Vault')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Disciple of the Vault
+  occurrences: 8
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Goblin_Sharpshooter')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Goblin Sharpshooter
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sparksmith')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sparksmith
+  occurrences: 10
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Vault_of_Whispers')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Vault of Whispers
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Goblin_Sledder')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Goblin Sledder
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Blinkmoth_Nexus')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Blinkmoth Nexus
+  occurrences: 12
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Electrostatic_Bolt')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Electrostatic Bolt
+  occurrences: 10
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Thoughtcast')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Thoughtcast
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Arcbound_Worker')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Arcbound Worker
+  occurrences: 9
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mana_Leak')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mana Leak
+  occurrences: 11
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sword_of_Light_and_Shadow')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sword of Light and Shadow
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('March_of_the_Machines')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - March of the Machines
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Relic_Barrier')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Relic Barrier
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Infest')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Infest
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Barter_in_Blood')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Barter in Blood
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Triskelion')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Triskelion
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Somber_Hoverguard')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Somber Hoverguard
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Cranial_Plating')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Cranial Plating
+  occurrences: 8
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Echoing_Decay')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Echoing Decay
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Night[s_Whisper')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Night's Whisper
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Solemn_Simulacrum')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Solemn Simulacrum
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Exalted_Angel')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Exalted Angel
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Headhunter')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Headhunter
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Decree_of_Justice')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Decree of Justice
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Eternal_Dragon')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Eternal Dragon
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Plow_Under')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Plow Under
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Persecute')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Persecute
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Wrath')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Wrath
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Thirst_for_Knowledge')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Thirst for Knowledge
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Temple_of_the_False_God')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Temple of the False God
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Stone_Rain')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Stone Rain
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Clickslither')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Clickslither
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Darksteel_Citadel')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Darksteel Citadel
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Glimmervoid')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Glimmervoid
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Furnace_Dragon')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Furnace Dragon
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Moriok_Rigger')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Moriok Rigger
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Seething_Song')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Seething Song
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Myr_Enforcer')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Myr Enforcer
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Smother')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Smother
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Slobad,_Goblin_Tinkerer')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Slobad, Goblin Tinkerer
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('City_of_Brass')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - City of Brass
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Forest')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Forest
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mountain')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mountain
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Gempalm_Incinerator')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Gempalm Incinerator
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Molten_Rain')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Molten Rain
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Coastal_Tower')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Coastal Tower
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Flooded_Strand')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Flooded Strand
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Island')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Island
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Plains')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Plains
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Akroma[s_Vengeance')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Akroma's Vengeance
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Annul')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Annul
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Decree_of_Silence')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Decree of Silence
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Rewind')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Rewind
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Wrath_of_God')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Wrath of God
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Circle_of_Protection:_Red')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - 'Circle of Protection: Red'
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Purge')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Purge
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Stifle')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Stifle
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Swamp')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Swamp
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Chittering_Rats')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Chittering Rats
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Greater_Harvester')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Greater Harvester
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Chrome_Mox')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Chrome Mox
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Death_Cloud')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Death Cloud
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Talisman_of_Dominance')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Talisman of Dominance
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Echoing_Truth')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Echoing Truth
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Withered_Wretch')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Withered Wretch
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Secluded_Steppe')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Secluded Steppe
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Tranquil_Thicket')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Tranquil Thicket
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Windswept_Heath')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Windswept Heath
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Eternal_Witness')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Eternal Witness
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Astral_Slide')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Astral Slide
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Gilded_Light')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Gilded Light
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Rampant_Growth')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Rampant Growth
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Renewed_Faith')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Renewed Faith
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Creeping_Mold')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Creeping Mold
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Pulse_of_the_Fields')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Pulse of the Fields
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mindslaver')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mindslaver
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Arc-Slogger')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Arc-Slogger
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Shatter')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Shatter
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sword_of_Fire_and_Ice')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sword of Fire and Ice
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Zur[s_Weirding')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Zur's Weirding
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Bane_of_the_Living')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Bane of the Living
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Hollow_Specter')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Hollow Specter
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Guardian_Idol')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Guardian Idol
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Polluted_Delta')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Polluted Delta
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Salt_Marsh')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Salt Marsh
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Undead_Gladiator')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Undead Gladiator
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Terror')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Terror
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Fireball')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Fireball
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Elfime_Palace')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Elfime Palace
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Eternal_Wittness')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Eternal Wittness
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Solemn_Simulaerum')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Solemn Simulaerum
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Akrom[s_Vengeance')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Akrom's Vengeance
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Alter[s_Light')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Alter's Light
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Auriok_Champion')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Auriok Champion
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Grand_Furnace')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Grand Furnace
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Night[s_Wisper')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Night's Wisper
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Shrapnal_Blast')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Shrapnal Blast
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Bloodatained_Mire')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Bloodatained Mire
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Goblin_Sherpshooter')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Goblin Sherpshooter
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Patriarch[s_Bidding')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Patriarch's Bidding
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Cabal_Interrogator')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Cabal Interrogator
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Dwarven_Blastminer')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Dwarven Blastminer
+  occurrences: 1
+---
+[日本語の取材へ](/en/events/2004/gpnag04ja/grand-prix-nagoya-live-coverage-3) 
+
+![](https://i.ormos.uk/41/18/4118b854ab66647bbff4bce9936c379a259f2bf59f0026a1f2afe3a019071782.jpg)
+
+Tatsunori Kishi defeated amateur Keisuke Hashimoto and Affinity with his red-green Goblin deck in two quick games to secure himself a check for $2,400 and his first Grand Prix title. Previous to this event, his best finish was 24th at Grand Prix Yokohama. 
+
+Twenty-fourth was just enough to earn him a very costly Pro Tour point that meant that his opponent Hashimoto took home the $1,500 amateur prize in addition to his $1,700 consolation prize. 
+
+  
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <h3>Top 8 Final Standing</h3>&#10;      <table>&#10;        <tbody><tr>&#10;          <td> 1.  <b>Tatsunori Kishi</b></td>&#10;          <td>$2,400</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 2.  <b>Keisuke Hashimoto</b></td>&#10;          <td>$1,700</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 3.  <b>Masami Ibamoto</b></td>&#10;          <td>$1,200</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 4.  <b>Shun Iizuka</b></td>&#10;          <td>$1,000</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 5.  <b>Toru Takeshita</b></td>&#10;          <td>$800</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 6.  <b>Yuhi Kubota</b></td>&#10;          <td>$800</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 7.  <b>Masaki Yokoi</b></td>&#10;          <td>$800</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 8.  <b>Tomoharu Saitou</b></td>&#10;          <td>$800</td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>(Click <a href="/tgl/events/2004/gpnag04/2004-grand-prix-nagoya-final-standings">here</a> for complete final standings)</p>&#10;    </td>&#10;  </tr>&#10;  <tr></tr>&#10;  <tr></tr>&#10;</tbody></table>
+
+The matchup between red-green goblins and affinity was the same matchup as the finals of Japanese Nationals -- with the same outcome. Perhaps that is the antidote to the Standard format's most hated deck for this coming weekend's World Championships. 
+
+  
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;    </td><td>Quarterfinals </td>&#10;    <td> </td>&#10;    <td>Semifinals </td>&#10;    <td> </td>&#10;    <td>Finals </td>&#10;    <td> </td>&#10;    <td>Champion </td>&#10;  </tr>&#10;  <tr>&#10;    <td>1</td>&#10;    <td>&#10;      Masami Ibamoto&#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Masami Ibamoto, 2-1&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3"> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>8</td>&#10;    <td>&#10;      Tomoharu Saitou&#10;    </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3">&#10;      Keisuke Hashimoto, 2-1&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>4</td>&#10;    <td>&#10;      Keisuke Hashimoto&#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Keisuke Hashimoto 2-0&#10;    </td>&#10;    <td rowspan="5"> </td>&#10;    <td rowspan="5">&#10;      Tatsunori Kishi, 2-0&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>5</td>&#10;    <td>&#10;      Yuhi Kubota&#10;    </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3"> </td>&#10;  </tr>&#10;  <tr>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>2</td>&#10;    <td>&#10;      Tatsunori Kishi&#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Tatsunori Kishi, 2-0&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>7</td>&#10;    <td>&#10;      Masaki Yokoi&#10;    </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3">&#10;      Tatsunori Kishi, 2-1&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>3</td>&#10;    <td>&#10;      Toru Takeshita&#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Shun Iizuka, 2-1&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>6</td>&#10;    <td>&#10;      Shun Iizuka&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;</tbody></table>
+
+  
+  
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <b>TABLE OF CONTENTS</b>&#10;    </td>&#10;    <td>&#10;      <b>ROUND INFORMATION</b>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <ul>&#10;        <li>&#10;          <a href="#17">Sunday 8/29/04, 18:06 </a> Finals: Keisuke Hashimoto vs. Tatsunori Kishi</li>&#10;        <li>&#10;          <a href="#15">Sunday 8/29/04, 17:39 </a> Semifinals: Tatsunori Kishi vs. Shun Iizuka</li>&#10;        <li>&#10;          <a href="#14">Sunday 8/29/04, 17:12 </a> Semifinals</li>&#10;        <li>&#10;          <a href="#13">Sunday 8/29/04, 16:44 </a> Quarterfinal Roundup</li>&#10;        <li>&#10;          <a href="#16">Sunday 8/29/04, 16:20 </a> The Top 8 Player Profiles</li>&#10;        <li>&#10;          <a href="#12">Sunday 8/29/04, 15:58 </a> The Top 8 Decklists</li>&#10;        <li>&#10;          <a href="#11">Sunday 8/29/04, 15:33 </a> Drawing a picture of the Top 8</li>&#10;        <li>&#10;          <a href="#10">Sunday 8/29/04, 14:18 </a> Shocking Nakamura</li>&#10;        <li>&#10;          <a href="#9">Sunday 8/29/04, 13:47 </a> Champions of Kamigawa</li>&#10;        <li>&#10;          <a href="#8">Sunday 8/29/04, 13:20 </a> The Burning Question</li>&#10;        <li>&#10;          <a href="#7">Sunday 8/29/04, 12:56 </a> Clawing their way up</li>&#10;        <li>&#10;          <a href="#6">Sunday 8/29/04, 12:21 </a> Day 2 Field Breakdown</li>&#10;        <li>&#10;          <a href="#5">Sunday 8/29/04, 12:14 </a> Turmoil at the Top Tables</li>&#10;        <li>&#10;          <a href="#4">Sunday 8/29/04, 11:03 </a> Weird Science</li>&#10;        <li>&#10;          <a href="#3">Sunday 8/29/04, 10:32 </a> Kinshachi</li>&#10;        <li>&#10;          <a href="#2">Sunday 8/29/04, 10:14 </a> Round 10 - Fight!</li>&#10;        <li>&#10;          <a href="#1">Sunday 8/29/04, 9:33 </a> Day 1 Undefeated Decklists</li>&#10;        <li>&#10;          <a href="/en/events/2004/gpnag04/grand-prix-nagoya-live-coverage">Coverage Archive:</a> Day 1</li>&#10;        <li>&#10;          <a href="/en/events/2004/nagoya04/grand-prix-nagoya">Info:</a> Fact Sheet</li>&#10;      </ul>&#10;    </td>&#10;    <td colspan="2">&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <b>Pairings</b>&#10;          </td>&#10;          <td>&#10;            <b>Results</b>&#10;          </td>&#10;          <td>&#10;            <b>Standings</b>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;          </td><td>&#10;          </td><td>&#10;            <a href="/tgl/events/2004/gpnag04/2004-grand-prix-nagoya-final-standings">Final</a>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            <a href="/sna/events/2004/gpnag04/2004-grand-prix-nagoya-round-15-pairings">15</a>&#10;            <br>&#10;            <a href="/sna/events/2004/gpnag04/2004-grand-prix-nagoya-round-14-pairings">14</a>&#10;            <br>&#10;            <a href="/sna/events/2004/gpnag04/2004-grand-prix-nagoya-round-13-pairings">13</a>&#10;            <br>&#10;            <a href="/sna/events/2004/gpnag04/2004-grand-prix-nagoya-round-12-pairings">12</a>&#10;            <br>&#10;            <a href="/sna/events/2004/gpnag04/2004-grand-prix-nagoya-round-11-pairings">11</a>&#10;            <br>&#10;            <a href="/sna/events/2004/gpnag04/2004-grand-prix-nagoya-round-10-pairings">10</a>&#10;          </td>&#10;          <td>&#10;            <a href="/sna/events/2004/gpnag04/2004-grand-prix-nagoya-round-15-results">15</a>&#10;            <br>&#10;            <a href="/sna/events/2004/gpnag04/2004-grand-prix-nagoya-round-14-results">14</a>&#10;            <br>&#10;            <a href="/sna/events/2004/gpnag04/2004-grand-prix-nagoya-round-13-results">13</a>&#10;            <br>&#10;            <a href="/sna/events/2004/gpnag04/2004-grand-prix-nagoya-round-12-results">12</a>&#10;            <br>&#10;            <a href="/sna/events/2004/gpnag04/2004-grand-prix-nagoya-round-11-results">11</a>&#10;            <br>&#10;            <a href="/sna/events/2004/gpnag04/2004-grand-prix-nagoya-round-10-results">10</a>&#10;          </td>&#10;          <td>&#10;            <a href="/tgl/events/2004/gpnag04/2004-grand-prix-nagoya-round-15-standings">15</a>&#10;            <br>&#10;            <a href="/tgl/events/2004/gpnag04/2004-grand-prix-nagoya-round-14-standings">14</a>&#10;            <br>&#10;            <a href="/tgl/events/2004/gpnag04/2004-grand-prix-nagoya-round-13-standings">13</a>&#10;            <br>&#10;            <a href="/tgl/events/2004/gpnag04/2004-grand-prix-nagoya-round-12-standings">12</a>&#10;            <br>&#10;            <a href="/tgl/events/2004/gpnag04/2004-grand-prix-nagoya-round-11-standings">11</a>&#10;            <br>&#10;            <a href="/tgl/events/2004/gpnag04/2004-grand-prix-nagoya-round-10-standings">10</a>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            <a href="/tgl/events/2004/gpnag04/2004-grand-prix-nagoya-round-9-pairings">9</a>&#10;            <br>&#10;            <a href="/tgl/events/2004/gpnag04/2004-grand-prix-nagoya-round-8-pairings">8</a>&#10;            <br>&#10;            <a href="/tgl/events/2004/gpnag04/2004-grand-prix-nagoya-round-7-pairings">7</a>&#10;            <br>&#10;            <a href="/tgl/events/2004/gpnag04/2004-grand-prix-nagoya-round-6-pairings">6</a>&#10;            <br>&#10;            <a href="/tgl/events/2004/gpnag04/2004-grand-prix-nagoya-round-5-pairings">5</a>&#10;            <br>&#10;            <a href="/tgl/events/2004/gpnag04/2004-grand-prix-nagoya-round-4-pairings">4</a>&#10;            <br>&#10;            <a href="/tgl/events/2004/gpnag04/2004-grand-prix-nagoya-round-3-pairings">3</a>&#10;            <br>&#10;            <a href="/tgl/events/2004/gpnag04/2004-grand-prix-nagoya-round-2-pairings">2</a>&#10;            <br>&#10;            <a href="/sna/events/2004/gpnag04/2004-grand-prix-nagoya-round-1-pairings">1</a>&#10;          </td>&#10;          <td>&#10;            <a href="/tgl/events/2004/gpnag04/2004-grand-prix-nagoya-round-9-results">9</a>&#10;            <br>&#10;            <a href="/tgl/events/2004/gpnag04/2004-grand-prix-nagoya-round-8-results">8</a>&#10;            <br>&#10;            <a href="/tgl/events/2004/gpnag04/2004-grand-prix-nagoya-round-7-results">7</a>&#10;            <br>&#10;            <a href="/tgl/events/2004/gpnag04/2004-grand-prix-nagoya-round-6-results">6</a>&#10;            <br>&#10;            <a href="/tgl/events/2004/gpnag04/2004-grand-prix-nagoya-round-5-results">5</a>&#10;            <br>&#10;            <a href="/sna/events/2004/gpnag04/2004-grand-prix-nagoya-round-4-results">4</a>&#10;            <br>&#10;            <a href="/sna/events/2004/gpnag04/2004-grand-prix-nagoya-round-3-results">3</a>&#10;            <br>&#10;            <a href="/sna/events/2004/gpnag04/2004-grand-prix-nagoya-round-2-results">2</a>&#10;            <br>&#10;            <a href="/tgl/events/2004/gpnag04/2004-grand-prix-nagoya-round-1-results">1</a>&#10;          </td>&#10;          <td>&#10;            <a href="/tgl/events/2004/gpnag04/2004-grand-prix-nagoya-round-9-standings">9</a>&#10;            <br>&#10;            <a href="/tgl/events/2004/gpnag04/2004-grand-prix-nagoya-round-8-standings">8</a>&#10;            <br>&#10;            <a href="/tgl/events/2004/gpnag04/2004-grand-prix-nagoya-round-7-standings">7</a>&#10;            <br>&#10;            <a href="/tgl/events/2004/gpnag04/2004-grand-prix-nagoya-round-6-standings">6</a>&#10;            <br>&#10;            <a href="/tgl/events/2004/gpnag04/2004-grand-prix-nagoya-round-5-standings">5</a>&#10;            <br>&#10;            <a href="/tgl/events/2004/gpnag04/2004-grand-prix-nagoya-round-4-standings">4</a>&#10;            <br>&#10;            <a href="/tgl/events/2004/gpnag04/2004-grand-prix-nagoya-round-3-standings">3</a>&#10;            <br>&#10;            <a href="/tgl/events/2004/gpnag04/2004-grand-prix-nagoya-round-2-standings">2</a>&#10;            <br>&#10;            <a href="/tgl/events/2004/gpnag04/2004-grand-prix-nagoya-round-1-standings">1</a>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;    </td>&#10;  </tr>&#10;</tbody></table>
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <b>COVERAGE</b>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <br>&#10;      <hr>&#10;      <a name="17">&#10;        &#10;      </a>&#10;      <h3>Sunday 8/29/04, 18:06 - Finals: Keisuke Hashimoto vs. Tatsunori Kishi</h3>&#10;      <p>&#10;        <i>by Eli Kaplan</i>&#10;      </p>&#10;      <p>The matchup seems hauntingly familiar. In Japan's last major tournament, red/green Goblins defeated Affinity to win the National Championship. Last time it was Tsuyoshi Fujita piloting the Goblins that defeated Kenji Tsumura, running the machines. This time Tatsunori Kishi is in charge of the mountain tribe, charging against Keisuke Hashimoto's artifacts. Kishi has had little experience at the top tables, with a mere top 32 performance at last year's Grand Prix Yokohama. Hashimoto's an amateur, so no matter what, he's walking away from this match with more money. But what price can be put upon a Grand Prix championship?</p>&#10;      <p>Kishi won the die roll and chose to play first. He kept his hand, while Hashimoto sent his back. His hand of six cards drew a frown, but he shrugged and kept it. Kishi kept Hashimoto from developing his board by Oxidizing a <a>Great Furnace</a>, though Hashimoto was able to play a <a>Chromatic Sphere</a>. Kishi played a <a>Goblin Piledriver</a>. Hashimoto prayed for land, but his prayers were unanswered, and passed the turn. Kishi ruthlessly played a <a>Goblin Warchief</a> and attacked with it and the Piledriver, dealing five. Hashimoto could do nothing but watch as he passed the turn and Kishi played a <a>Siege-Gang Commander</a>, attacking for 18. In a mere four turns, Kishi took Game 1.</p>&#10;      <p>The mood was tense as both players reached for their sideboard. Hashimoto removed three <a>Shrapnel Blast</a>s and a Cranial Plate for four copies of <a>Pyroclasm</a>. Kishi replaced his <a>Skirk Prospector</a>s with <a>Naturalize</a>s for more removal. After shuffling up, both players kept their initial hands.</p>&#10;      <p>Hashimoto started by rapidly slamming cards down onto the table. <a>Seat of the Synod</a>, <a>Welding Jar</a>, <a>Ornithopter</a>, <a>Pyrite Spellbomb</a>, and <a>Frogmite</a> came down in a matter of seconds. &quot;Whoa!&quot; Kishi was impressed with the quick start. But he had the situation well in hand. He played a <a>Wooded Foothills</a>, fetched a forest, and <a>Oxidize</a>d the Seat. Hashimoto attacked with the <a>Frogmite</a> and eyed his Spellbomb, not sure whether to keep it for Goblin removal or replentish his hand. In the end, he decided to use it to draw a card. Kishi played another <a>Wooded Foothills</a>, searched out a mountain, and aimed a <a>Naturalize</a> at the <a>Frogmite</a> on Hashimoto's upkeep. Hashimoto kept it alive with his <a>Welding Jar</a>, but couldn't keep his offense up. He played an <a>Arcbound Ravager</a>.</p>&#10;      <p>Kishi didn't worry in the slightest, playing a Warchief and keeping it home. Hashimoto's face tightened, and he forgot to untap his <a>Frogmite</a> as he drew. Kishi could sense his opponent's nervousness. He played a <a>Seat of the Synod</a>, <a>Chromatic Sphere</a>, and made another <a>Pyrite Spellbomb</a> and a <a>Disciple of the Vault</a>. Kishi played a <a>Goblin Sharpshooter</a>, which was bad news for Kishi. He fortified his Ravager by sacrificing two of his lands and the Spellbomb, leaving him with a 4/4 Ravager. Kishi used the Sharpshooter to remove the Disciple, then compounded Hashimoto's troubles by playing a <a>Sparksmith</a>. The Ravager ended up as a horrible investment, dying in the end. </p>&#10;      <p>The ending of the match was academic. With only one mana source and little else on the board, Hashimoto could do little in the next three rounds. <a>Sparksmith</a> and a <a>Goblin Warchief</a> finished him off. </p>&#10;      <p>Congratulations to Tatsunori Kishi, who made it past nine hundred and thirty nine other players to win Grand Prix Nagoya!</p>&#10;      <p>Is Red/Green Goblins the answer to the Affinity menace in Standard? We'll find out at Worlds! Please stay tuned.</p>&#10;      <hr>&#10;      <a name="15">&#10;        &#10;      </a>&#10;      <h3>Sunday 8/29/04, 17:39 - Semifinals: Tatsunori Kishi vs. Shun Iizuka</h3>&#10;      <p>&#10;        <i>by Eli Kaplan</i>&#10;      </p>&#10;      <p>While he hasn't had a big finish in an extremely long time, Tatsunori Kishi defeated Masashiro Kuroda earlier today in a Goblin mirror match. Kuroda's skill with the little red men is well known, so for Kishi to defeat Kuroda in his own type of match proves that he's on top of his game. He faces Shun Iizuka, an amateur, playing the defining deck of Standard and <i>Mirrodin</i> Block Constructed, Ravager Affinity. Kishi's deck features 8 maindeck spot removal spells in addition to <a>Sparksmith</a> and <a>Goblin Sharpshooter</a>, so the odds favor him in this matchup.</p>&#10;      <p>Iizuka had a strong start in game 1, leading off with a <a>Vault of Whispers</a>, <a>Ornithopter</a>, and <a>Disciple of the Vault</a>. Kishi played a <a>Goblin Sledder</a>. Iizuki threw down a <a>Blinkmoth Nexus</a> and a <a>Chromatic Sphere</a>. Kishi kept the airways clear by throwing an <a>Electrostatic Bolt</a> at the <a>Ornithopter</a>. Iizuka continued to build his board up with a <a>Thoughtcast</a>, playing an <a>Arcbound Worker</a>. Kishi battled back by playing a third mountain and sent a <a>Goblin Warchief</a> at Iizuka. </p>&#10;      <p>Iizuka tried to rally his side by playing a second <a>Arcbound Worker</a> and an <a>Arcbound Ravager</a>. Kishi threw down a hasty <a>Goblin Sharpshooter</a>, so Iizuka had to defend the many by sacrificing the few, devouring one Worker to give the remaining Worker and Ravager two +1/+1 counters each in response. But Kishi followed the Sharpshooter with a <a>Sparksmith</a> and wiped away Iizuka's defenses, winning the game in two more attacks.</p>&#10;      <p>Iizuka moaned about the sweltering temperature; the building air conditioning had been turned off. The weather forecasts were predicting a typhoon for the coming night. But the heat would not abate for him in game 2.</p>&#10;      <p>For any other deck, playing a single land wouldn't be a tragedy. But for Affinity, a quiet first turn is dreadful. Iizuka could only muster a <a>Vault of Whispers</a> on turn 1, and it was promptly <a>Oxidize</a>d by Kishi on his first turn. Iizuka played a <a>Blinkmoth Nexus</a> and <a>Chromatic Sphere</a>. Kishi used his second <a>Wooded Foothills</a> to fetch a mountain and dropped a <a>Sparksmith</a>. Iizuka played a <a>Seat of the Synod</a> and tapped two mana to play a <a>Frogmite</a>. But Kishi kept matching his efforts by Naturalizing the Seat, played a <a>Goblin Sledder</a>, and used the <a>Sparksmith</a> to keep Iizuka creature-free.</p>&#10;      <p>Iizuka could do nothing but play a <a>Great Furnace</a>. He used his <a>Mana Leak</a> to keep a <a>Siege-Gang Commander</a>, but that did nothing to stop <a>Sparksmith</a> and Sledder from chipping away at his life. He tried to stop the bleeding by using a <a>Pyrite Spellbomb</a> to destroy a <a>Goblin Sharpshooter</a> and playing an <a>Arcbound Ravager</a>, but it was not nearly enough. An <a>Electrostatic Bolt</a> kept the Ravager from posing any real problem, and Kishi's little red men came through for the win.</p>&#10;      <p>Tatsunori Kishi defeats Shun Iizuka 2-0 to advance to the finals.</p>&#10;      <hr>&#10;      <a name="14">&#10;        &#10;      </a>&#10;      <h3>Sunday 8/29/04, 17:12 - Semifinals</h3>&#10;      <p>&#10;        <i>by Brian-David Marshall</i>&#10;      </p>&#10;      <p>With his Top 4 finish at Pro Tour Seattle Masami Ibamoto clearly had the most experience coming into this Top 8 AND the most exciting deck as well. His Deathcloud concoction featured main deck <a>Sword of Light and Shadow</a> and touched blue for <a>March of the Machines</a>--which he hoped would come in handy against his opponent in the semis. </p>&#10;      <p>Hashimoto was a rookie whose previous best finish was the Trial that earned him his three byes this weekend. Even without experience to match Ibamoto it was clear that Hashimoto scared the PT veteran--at least the prospect of one of Affinity's lucky draws did anyway. Because he had to build three decks--one for himself, one for his pal, and another for his girl--Ibamoto did not have time to consider all of his sideboard options. He had earlier smacked himself in the head over his failure to include <a>Relic Barrier</a>s and he added <a>Infest</a> to his list of things to moan about.</p>&#10;      <h3>Game 1</h3>&#10;      <p>Ibamoto got things started with a Talisman while Hashimoto had a couple of <a>Welding Jar</a>s, Plating, <a>Ornithopter</a>, and a <a>Frogmite</a>. Ibamoto swept the creatures aside with <a>Barter in Blood</a>. Hashimoto rebuilt with a <a>Thoughtcast</a> that he ran through a Sphere and another <a>Frogmite</a>.</p>&#10;      <p>Ibamoto played a face-down guy and put in the way of a doubly Plated <a>Frogmite</a> costing Hashimoto a <a>Welding Jar</a>. They repeated that trade on the next turn as well. Ibamoto's <a>Triskelion</a> came down and shot a Nexus when Hashimoto activated it and played a <a>Somber Hoverguard</a>. </p>&#10;      <p>Ibamoto took out the flier and the Frog with another Barter. He had to throw a morph in the way of a Ravager two turns later when it acquired triple <a>Cranial Plating</a>. A third <a>Barter in Blood</a> reset the board again and a turn later Ibamoto smoked everything but the Platings with a Deathcloud for four. Hashimoto never drew another land.</p>&#10;      <h3>Game 2</h3>&#10;      <p>This was a five turn affair with an almost ideal draw from Hashimoto--you know the drill. Howl from Beyond with a Ravager.</p>&#10;      <h3>Game 3</h3>&#10;      <p>Ibamoto looked nervous and tried to calm himself with a deep breath and a stretch of the neck. His opening hand had a pair of <a>Echoing Decay</a>s but he thought for along time about whether or not to keep it. He blew a Decay on turn one Worker from Hashimoto and cast <a>Night's Whisper</a> on turn three. He looked for answers that were not forthcoming as Hashimoto <a>Mana Leak</a>ed a <a>Solemn Simulacrum</a> and dumped a <a>Frogmite</a>, <a>Somber Hoverguard</a>, and <a>Cranial Plating</a> in the bottom half of the frame. He attacked with a Plated Disciple for seven.</p>&#10;      <p>Ibamoto Whispered again and was very low on life. He bough another turn when he used the second <a>Echoing Decay</a> on an Equipped Disciple during combat but even a <a>March of the Machines</a> did nothing on the next turn but give Hashimoto an additional attacker in the form of Plating. </p>&#10;      <p>Final result: Keisuke Hashimoto defeated Masami Ibamoto two games to one to advance to the finals. As an Amateur he was already guaranteed and additional $1,000 and was the big winner this weekend. </p>&#10;      <hr>&#10;      <a name="13">&#10;        &#10;      </a>&#10;      <h3>Sunday 8/29/04, 16:44 - Quarterfinal Roundup</h3>&#10;      <p>&#10;        <i>by Brian-David Marshall</i>&#10;      </p>&#10;      <p>Masami Ibamoto was staring down the barrel of a turn four <a>Exalted Angel</a> in Game 1 of his match with Timeshare Saitou. Saitou's hand had been ravaged by an early <a>Headhunter</a>. Ibamoto did some tricky math--he was at six while his opponent was in the high twenties--and cast Deathcloud for five. He then went to work with his <a>Blinkmoth Nexus</a>. There was still some danger of Saitou recovering and cycling a <a>Decree of Justice</a> for the win so Ibamoto put a bow on Game 1 with <a>Sword of Light and Shadow</a> that his land could pick up each turn. </p>&#10;      <div>&#10;        <div>&#10;          <a>&#10;            <img alt="Eternal Dragon" src="https://i.ormos.uk/05/76/05767c5921f9a4978084967fea04ef97e315862144665be6a551250db1cd9026.jpg">&#10;          </a>&#10;        </div>&#10;      </div>&#10;      <p>Toru Takeshita and Shun Iizuka as well as Yuhi Kubota and Keisuke Hashimota were mired in Affinity mirror matches and I steered clear of both of those. There would be two Affinity matches in the top four and that is more than enough for the coverage to accommodate. Instead I turned my attention to Tatsunori Kishi's match-up with Masaki Yokoi. Kishi was playing red-green Goblins while Yokoi had Eternal Slide. In Game 1 of that match-up Kishi found himself being <a>Plow Under</a>ed every turn by a recursive Witness. He scooped.</p>&#10;      <p>Back over at the first match, Ibamoto was facing an unmorphed Angel once again. The two players decided to throw a going away party for <i>Odyssey</i> when Ibamoto also played a morph--in this case the mighty <a>Headhunter</a>. Saitou played around Deathcloud by not blocking with his <a>Decree of Justice</a> tokens unless absolutely necessary and he took Game 2 with the Angel evening the match up at one apiece. </p>&#10;      <p>Toru and Yuhi lost their mirror matches and the Affinity decks were in opposite brackets for the semis and they awaited to see which of the non affinity decks would advance. Kishi evened up his match and both of the non-Affinity parings went to Game 3.</p>&#10;      <p>Ibamoto's Game 3 was ridiculous with turn two Chittering Rat, turn three Chittering Rat, and turn four <a>Persecute</a> naming white. Saitou showed a <a>Wrath</a> and pitched it but he was holding <a>Thirst for Knowledge</a> and a couple of blue cards as well. He Thirsted into another <a>Wrath</a> on the next turn and cast it but Ibamoto ripped a second <a>Persecute</a> and named blue stripping his hand of anything but lands.</p>&#10;      <p>Ibamoto played a Simulacrum and Saitou triumphantly slammed an <a>Eternal Dragon</a> into play. His triumph was short lived however as a Deathcloud for three forced him to decide whether or not to keep three functioning lands or two functioning and a <a>Temple of the False God</a>. Ibamoto recovered with Talismans and Blinkmoth Nexi. Saitou found a fourth land and played a morphed Angel but he could not flip it since he decided to honor the false god. </p>&#10;      <p>A <a>Sword of Light and Shadow</a> meant that the two Rats in Ibamoto's bin would keep the needed land at bay long enough to secure the match and Saitou scooped.</p>&#10;      <p>In the other rubber game it was another game of Angel keep away. Kishi was <a>Stone Rain</a>ing white sources to prevent Yokoi from flipping up what we assume was an Angel. He was successful and when he ripped a <a>Clickslither</a> he advanced to the semis as well.</p>&#10;      <hr>&#10;      <a name="16">&#10;        &#10;      </a>&#10;      <h3>Sunday 8/29/04, 16:20 - The Top 8 Player Profiles</h3>&#10;      <p>&#10;        <i>by Brian David-Marshall</i>&#10;      </p>&#10;      <h3>Masami Ibamoto</h3>&#10;      <div>&#10;        <img src="https://i.ormos.uk/c4/b9/c4b98859bf34a5a792b6997fdd50435c2a4f6db36ab5663541dc7a19eb6c3ea9.jpg">&#10;      </div>&#10;      <p>&#10;        <b>Please tell us how old you are, and what you do for a living?</b>&#10;        <br> I'm 27 years of. I work as a mathematics tutor at a college prep school.</p>&#10;      <p>&#10;        <b>What have been your major tournament finishes before today?</b>&#10;        <br> 3rd, PT Seattle<br> Top 8, 1999 Asia-Pacific Championship<br> Top 8, 1999 Japan Nationals<br> 18th place, PT Mainz</p>&#10;      <p>&#10;        <b>What deck are you playing, and is there anything special about it?</b>&#10;        <br> I'm playing a standard build of Death Cloud. </p>&#10;      <p>&#10;        <b>Did you build the deck yourself, or did someone assist you? Who did you playtest with?</b>&#10;        <br> I designed the deck myself. I actually didn't do any playtesting-I actually put the deck together in about 5 minutes on Saturday morning. That's why the sideboard is so bad.</p>&#10;      <p>&#10;        <b>Any interesting stories from this weekend?</b>&#10;        <br> I figured I would drop by the fourth round, but somehow I managed to make it into the Top 8.</p>&#10;      <p>&#10;        <b>What do you think is the main reason behind your success this weekend?</b>&#10;        <br> I just got lucky. I wasn't expecting to win, so I was relaxed.</p>&#10;      <h3>Masaki Yokoi</h3>&#10;      <div>&#10;        <img src="https://i.ormos.uk/6c/ee/6ceea252a7b14667993f46572ca9a53cba20ad84fab1f0b2d34d5aef6174d956.jpg">&#10;      </div>&#10;      <p>&#10;        <b>Please tell us how old you are, and what you do for a living?</b>&#10;        <br> I'm a 19-year-old college student.</p>&#10;      <p>&#10;        <b>What have been your major tournament finishes before today?</b>&#10;        <br> I played in the 2004 Japan Nationals.</p>&#10;      <p>&#10;        <b>What deck are you playing, and is there anything special about it?</b>&#10;        <br> I'm playing GW Slide.</p>&#10;      <p>&#10;        <b>Did you build the deck yourself, or did someone assist you? Who did you playtest with?</b>&#10;        <br> I tested at Hitomix! and BIG MAGIC, and my friends at Mana Source 2001.</p>&#10;      <p>&#10;        <b>Any interesting stories from this weekend?</b>&#10;        <br> I almost lost my deck at the end of round 5!</p>&#10;      <p>&#10;        <b>What do you think is the main reason behind your success this weekend?</b>&#10;        <br> I was able to beat Hitomix!. </p>&#10;      <h3>Shun Iizuka</h3>&#10;      <div>&#10;        <img src="https://i.ormos.uk/f7/7c/f77c017920816bfa3018ebd3699d1e006ede0c8001c95f03b036ba4925b0eba6.jpg">&#10;      </div>&#10;      <p>&#10;        <b>Please tell us how old you are, and what you do for a living?</b>&#10;        <br> I a 23-year-old freelancer.</p>&#10;      <p>&#10;        <b>What have been your major tournament finishes before today?</b>&#10;        <br> None.</p>&#10;      <p>&#10;        <b>What deck are you playing, and is there anything special about it?</b>&#10;        <br> I'm playing Affinity-not much else to say, is there?</p>&#10;      <p>&#10;        <b>Did you build the deck yourself, or did someone assist you? Who did you playtest with?</b>&#10;        <br> My friend Kotarou Senba helped me playtest.</p>&#10;      <p>&#10;        <b>Any interesting stories from this weekend?</b>&#10;        <br> Not really.</p>&#10;      <p>&#10;        <b>What do you think is the main reason behind your success this weekend?</b>&#10;        <br> Good draws-better than my opponents, at least.</p>&#10;      <h3>Tetsu Takeshita</h3>&#10;      <div>&#10;        <img src="https://i.ormos.uk/0e/73/0e730fab1d17d8a7f114145248963a4b8d54aae50f7d3ab28eea1360795ccefe.jpg">&#10;      </div>&#10;      <p>&#10;        <b>Please tell us how old you are, and what you do for a living?</b>&#10;        <br> I just turned 19. I'm a sophomore at college.</p>&#10;      <p>&#10;        <b>What have been your major tournament finishes before today?</b>&#10;        <br> Winner, Kansai Cup.<br> Winner, GPT Nagoya-Kyoto<br> Top 8, GPT Nagoya-Osaka </p>&#10;      <p>&#10;        <b>What deck are you playing, and is there anything special about it?</b>&#10;        <br> Affinity is the best deck! But, I hate Ornithopter so I'm not playing it.</p>&#10;      <p>&#10;        <b>Did you build the deck yourself, or did someone assist you? Who did you playtest with?</b>&#10;        <br> My friends Tamada and Kamei (3rd place, 2004 Japan Nationals).</p>&#10;      <p>&#10;        <b>Any interesting stories from this weekend?</b>&#10;        <br> On the first turn of my first game today, I had an Arcbound Worker in my hand, but I passed the turn after laying a land…</p>&#10;      <p>&#10;        <b>What do you think is the main reason behind your success this weekend?</b>&#10;        <br> Good draws.</p>&#10;      <h3>Tomoharu Saitou</h3>&#10;      <div>&#10;        <img src="https://i.ormos.uk/a2/15/a215a038392fdbcd442c5ee902a5c74a59fbd9b916407cdeb3fa8940b10bad97.jpg">&#10;      </div>&#10;      <p>&#10;        <b>Please tell us how old you are, and what you do for a living?</b>&#10;        <br> I'm a 20-year-old freelancer.</p>&#10;      <p>&#10;        <b>What have been your major tournament finishes before today?</b>&#10;        <br> Winner, The Finals.<br> 2 Grand Prix Best 16 finishes. I'm sorry about APAC.</p>&#10;      <p>&#10;        <b>What deck are you playing, and is there anything special about it?</b>&#10;        <br> Affinity, tuned to beat Tooth and Nail.</p>&#10;      <p>&#10;        <b>Did you build the deck yourself, or did someone assist you? Who did you playtest with?</b>&#10;        <br> My main playtesting partner is Tomohiro Kaji. I put the deck together with my friends, including Kazuya Hirabayashi.</p>&#10;      <p>&#10;        <b>Any interesting stories from this weekend?</b>&#10;        <br> I had to get a time extension in my fourth round match because my nose started bleeding.</p>&#10;      <p>&#10;        <b>What do you think is the main reason behind your success this weekend?</b>&#10;        <br> I play in a lot of tournaments in Tokyo, which is good practice. I also have a lot of friends to play with.</p>&#10;      <h3>Yuuhi Kubota</h3>&#10;      <div>&#10;        <img src="https://i.ormos.uk/eb/08/eb0876cb8a918221f73bb9dfd4f6fb0811d49b37abe840a198c2e165d98fdde6.jpg">&#10;      </div>&#10;      <p>&#10;        <b>Please tell us how old you are, and what you do for a living?</b>&#10;        <br> I'm 19 years old. I have a full-time job.</p>&#10;      <p>&#10;        <b>What have been your major tournament finishes before today?</b>&#10;        <br> 11th place, Grand Prix Utsunomiya.<br> Top 8, 2 Grand Prix Trials.<br> Day 2, PT Chicago.</p>&#10;      <p>&#10;        <b>What deck are you playing, and is there anything special about it?</b>&#10;        <br> My deck is designed to start-and win-a damage race.</p>&#10;      <p>&#10;        <b>Did you build the deck yourself, or did someone assist you? Who did you playtest with?</b>&#10;        <br> My friend Ren Ishikawa helped build the deck. Normally, I design them myself, but he gave me lots of advice.</p>&#10;      <p>&#10;        <b>Any interesting stories from this weekend?</b>&#10;        <br> I had to take an overnight express bus to get to Nagoya.</p>&#10;      <p>&#10;        <b>What do you think is the main reason behind your success this weekend?</b>&#10;        <br> I remember my opponents mulliganing a lot.</p>&#10;      <h3>Keisuku Hashimoto</h3>&#10;      <div>&#10;        <img src="https://i.ormos.uk/51/d3/51d37c240d8226d63e5d1edc35304e2471aa1094d3bcdd393234c0cd7025a271.jpg">&#10;      </div>&#10;      <p>&#10;        <b>Please tell us how old you are, and what you do for a living?</b>&#10;        <br> I'm an 18-year-old high school student.</p>&#10;      <p>&#10;        <b>What have been your major tournament finishes before today?</b>&#10;        <br> Top 8, GPT Nagoya.</p>&#10;      <p>&#10;        <b>What deck are you playing, and is there anything special about it?</b>&#10;        <br> I'm playing Affinity with 4 Welding Jars.</p>&#10;      <p>&#10;        <b>Did you build the deck yourself, or did someone assist you? Who did you playtest with?</b>&#10;        <br> I usually test with my friends Oonishi, Okada, and Fujii.</p>&#10;      <p>&#10;        <b>Any interesting stories from this weekend?</b>&#10;        <br> I always seemed to top deck the card I needed most.</p>&#10;      <p>&#10;        <b>What do you think is the main reason behind your success this weekend?</b>&#10;        <br> Like I said: lucky draws.</p>&#10;      <h3>Tatsunori Kishi</h3>&#10;      <div>&#10;        <img src="https://i.ormos.uk/76/95/7695f8542cc744971eaa13b54492880bf513c0e87233fecfbe33bda46de03dab.jpg">&#10;      </div>&#10;      <p>&#10;        <b>Please tell us how old you are, and what you do for a living?</b>&#10;        <br> I'm a 29-year-old pharmacist. </p>&#10;      <p>&#10;        <b>What have been your major tournament finishes before today?</b>&#10;        <br> 24th, Grand Prix Yokohama 2003.</p>&#10;      <p>&#10;        <b>What deck are you playing, and is there anything special about it?</b>&#10;        <br> I'm playing RG Goblin. I'm running 4 Oxidize main deck to deal with all the Affinity decks.</p>&#10;      <p>&#10;        <b>Did you build the deck yourself, or did someone assist you? Who did you playtest with?</b>&#10;        <br> I worked with Fumiki Nakano and Takuya Yashiro to build the deck.</p>&#10;      <p>&#10;        <b>Any interesting stories from this weekend?</b>&#10;        <br> I won twice with only two lands on the board.</p>&#10;      <p>&#10;        <b>What do you think is the main reason behind your success this weekend?</b>&#10;        <br> The god of goblins smiled on me. </p>&#10;      <hr>&#10;      <a name="12">&#10;        &#10;      </a>&#10;      <h3>Sunday 8/29/04, 15:58 - The Top 8 Decklists</h3>&#10;      <p>&#10;        <i>by Eli Kaplan</i>&#10;      </p>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Keisuke Hashimoto&#10;              </div>&#10;              <div>Affinity </div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090604034144/https://www.wizards.com/magic/samplehand.asp?x=mtgevent_gpnag04_welcome&amp;decknum=1">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td colspan="2">&#10;                        <p>Main Deck</p>&#10;                        <p>60 cards&#10;                    </p>&#10;                      </td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>2 &#10;                      <a>Blinkmoth Nexus</a><br>2 &#10;                      <a>Darksteel Citadel</a><br>3 &#10;                      <a>Glimmervoid</a><br>4 &#10;                      <a>Great Furnace</a><br>4 &#10;                      <a>Seat of the Synod</a><br>3 &#10;                      <a>Vault of Whispers</a><br><hr>18 lands<br><br><br>4 &#10;                      <a>Arcbound Ravager</a><br>3 &#10;                      <a>Arcbound Worker</a><br>4 &#10;                      <a>Disciple of the Vault</a><br>4 &#10;                      <a>Frogmite</a><br>3 &#10;                      <a>Ornithopter</a><br>2 &#10;                      <a>Somber Hoverguard</a><br><hr>20 creatures</td>&#10;                      <td>4 &#10;                      <a>Chromatic Sphere</a><br>4 &#10;                      <a>Cranial Plating</a><br>3 &#10;                      <a>Pyrite Spellbomb</a><br>3 &#10;                      <a>Shrapnel Blast</a><br>4 &#10;                      <a>Thoughtcast</a><br>4 &#10;                      <a>Welding Jar</a><br><hr>22 other spells</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td>&#10;                        <p>Sideboard</p>&#10;                        <p>&#10;                      </p></td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>2 &#10;                            <a>Furnace Dragon</a><br>4 &#10;                            <a>Mana Leak</a><br>2 &#10;                            <a>Moriok Rigger</a><br>4 &#10;                            <a>Pyroclasm</a><br>3 &#10;                            <a>Seething Song</a><br><hr>15 sideboard cards</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Toru Takeshita&#10;              </div>&#10;              <div>6 Draw Myth</div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090604034144/https://www.wizards.com/magic/samplehand.asp?x=mtgevent_gpnag04_welcome&amp;decknum=2">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td colspan="2">&#10;                        <p>Main Deck</p>&#10;                        <p>60 cards&#10;                    </p>&#10;                      </td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>3 &#10;                      <a>Blinkmoth Nexus</a><br>2 &#10;                      <a>Darksteel Citadel</a><br>3 &#10;                      <a>Glimmervoid</a><br>4 &#10;                      <a>Great Furnace</a><br>4 &#10;                      <a>Seat of the Synod</a><br>4 &#10;                      <a>Vault of Whispers</a><br><hr>20 lands<br><br><br>4 &#10;                      <a>Arcbound Ravager</a><br>4 &#10;                      <a>Arcbound Worker</a><br>4 &#10;                      <a>Disciple of the Vault</a><br>4 &#10;                      <a>Frogmite</a><br>2 &#10;                      <a>Somber Hoverguard</a><br><hr>18 creatures</td>&#10;                      <td>4 &#10;                      <a>Chromatic Sphere</a><br>3 &#10;                      <a>Cranial Plating</a><br>2 &#10;                      <a>Night's Whisper</a><br>3 &#10;                      <a>Pyrite Spellbomb</a><br>4 &#10;                      <a>Shrapnel Blast</a><br>4 &#10;                      <a>Thoughtcast</a><br>2 &#10;                      <a>Welding Jar</a><br><hr>22 other spells</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td>&#10;                        <p>Sideboard</p>&#10;                        <p>&#10;                      </p></td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>4 &#10;                            <a>Electrostatic Bolt</a><br>3 &#10;                            <a>Mana Leak</a><br>2 &#10;                            <a>Myr Enforcer</a><br>2 &#10;                            <a>Pyroclasm</a><br>3 &#10;                            <a>Relic Barrier</a><br>1 &#10;                            <a>Welding Jar</a><br><hr>15 sideboard cards</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Shun Iizuka&#10;              </div>&#10;              <div>Affinity</div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090604034144/https://www.wizards.com/magic/samplehand.asp?x=mtgevent_gpnag04_welcome&amp;decknum=3">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td colspan="2">&#10;                        <p>Main Deck</p>&#10;                        <p>60 cards&#10;                    </p>&#10;                      </td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>3 &#10;                      <a>Blinkmoth Nexus</a><br>2 &#10;                      <a>Darksteel Citadel</a><br>2 &#10;                      <a>Glimmervoid</a><br>4 &#10;                      <a>Great Furnace</a><br>4 &#10;                      <a>Seat of the Synod</a><br>4 &#10;                      <a>Vault of Whispers</a><br><hr>19 lands<br><br><br>4 &#10;                      <a>Arcbound Ravager</a><br>4 &#10;                      <a>Arcbound Worker</a><br>4 &#10;                      <a>Disciple of the Vault</a><br>4 &#10;                      <a>Frogmite</a><br>3 &#10;                      <a>Myr Enforcer</a><br>4 &#10;                      <a>Ornithopter</a><br><hr>23 creatures</td>&#10;                      <td>4 &#10;                      <a>Chromatic Sphere</a><br>4 &#10;                      <a>Cranial Plating</a><br>3 &#10;                      <a>Pyrite Spellbomb</a><br>3 &#10;                      <a>Shrapnel Blast</a><br>4 &#10;                      <a>Thoughtcast</a><br><hr>18 other spells</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td>&#10;                        <p>Sideboard</p>&#10;                        <p>&#10;                      </p></td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>3 &#10;                            <a>Mana Leak</a><br>2 &#10;                            <a>Moriok Rigger</a><br>4 &#10;                            <a>Pyroclasm</a><br>3 &#10;                            <a>Smother</a><br>3 &#10;                            <a>Welding Jar</a><br><hr>15 sideboard cards</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Yuhi Kubota&#10;              </div>&#10;              <div>Affinity?</div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090604034144/https://www.wizards.com/magic/samplehand.asp?x=mtgevent_gpnag04_welcome&amp;decknum=4">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td colspan="2">&#10;                        <p>Main Deck</p>&#10;                        <p>60 cards&#10;                    </p>&#10;                      </td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>2 &#10;                      <a>Blinkmoth Nexus</a><br>2 &#10;                      <a>Darksteel Citadel</a><br>3 &#10;                      <a>Glimmervoid</a><br>4 &#10;                      <a>Great Furnace</a><br>4 &#10;                      <a>Seat of the Synod</a><br>4 &#10;                      <a>Vault of Whispers</a><br><hr>19 lands<br><br><br>4 &#10;                      <a>Arcbound Ravager</a><br>3 &#10;                      <a>Arcbound Worker</a><br>4 &#10;                      <a>Disciple of the Vault</a><br>4 &#10;                      <a>Frogmite</a><br>3 &#10;                      <a>Myr Enforcer</a><br>2 &#10;                      <a>Ornithopter</a><br>3 &#10;                      <a>Somber Hoverguard</a><br><hr>23 creatures</td>&#10;                      <td>4 &#10;                      <a>Chromatic Sphere</a><br>3 &#10;                      <a>Cranial Plating</a><br>3 &#10;                      <a>Pyrite Spellbomb</a><br>4 &#10;                      <a>Shrapnel Blast</a><br>4 &#10;                      <a>Thoughtcast</a><br><hr>18 other spells</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td>&#10;                        <p>Sideboard</p>&#10;                        <p>&#10;                      </p></td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>3 &#10;                            <a>Furnace Dragon</a><br>3 &#10;                            <a>Mana Leak</a><br>3 &#10;                            <a>Pyroclasm</a><br>3 &#10;                            <a>Seething Song</a><br>3 &#10;                            <a>Slobad, Goblin Tinkerer</a><br><hr>15 sideboard cards</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Tatsunori Kishi&#10;              </div>&#10;              <div>RG Goblins</div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090604034144/https://www.wizards.com/magic/samplehand.asp?x=mtgevent_gpnag04_welcome&amp;decknum=5">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td colspan="2">&#10;                        <p>Main Deck</p>&#10;                        <p>60 cards&#10;                    </p>&#10;                      </td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>3 &#10;                      <a>City of Brass</a><br>4 &#10;                      <a>Forest</a><br>12 &#10;                      <a>Mountain</a><br>4 &#10;                      <a>Wooded Foothills</a><br><hr>23 lands<br><br><br>3 &#10;                      <a>Clickslither</a><br>4 &#10;                      <a>Goblin Piledriver</a><br>3 &#10;                      <a>Goblin Sharpshooter</a><br>4 &#10;                      <a>Goblin Sledder</a><br>4 &#10;                      <a>Goblin Warchief</a><br>4 &#10;                      <a>Siege-Gang Commander</a><br>4 &#10;                      <a>Skirk Prospector</a><br>3 &#10;                      <a>Sparksmith</a><br><hr>29 creatures</td>&#10;                      <td>4 &#10;                      <a>Electrostatic Bolt</a><br>4 &#10;                      <a>Oxidize</a><br><hr>8 other spells</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td>&#10;                        <p>Sideboard</p>&#10;                        <p>&#10;                      </p></td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>3 &#10;                            <a>Gempalm Incinerator</a><br>4 &#10;                            <a>Molten Rain</a><br>4 &#10;                            <a>Naturalize</a><br>4 &#10;                            <a>Stone Rain</a><br><hr>15 sideboard cards</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Tomoharu Saitou&#10;              </div>&#10;              <div>ATA</div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090604034144/https://www.wizards.com/magic/samplehand.asp?x=mtgevent_gpnag04_welcome&amp;decknum=6">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td colspan="2">&#10;                        <p>Main Deck</p>&#10;                        <p>60 cards&#10;                    </p>&#10;                      </td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>3 &#10;                      <a>Coastal Tower</a><br>4 &#10;                      <a>Flooded Strand</a><br>8 &#10;                      <a>Island</a><br>8 &#10;                      <a>Plains</a><br>2 &#10;                      <a>Temple of the False God</a><br><hr>25 lands<br><br><br>3 &#10;                      <a>Eternal Dragon</a><br>3 &#10;                      <a>Exalted Angel</a><br><hr>6 creatures</td>&#10;                      <td>2 &#10;                      <a>Akroma's Vengeance</a><br>3 &#10;                      <a>Annul</a><br>4 &#10;                      <a>Decree of Justice</a><br>1 &#10;                      <a>Decree of Silence</a><br>4 &#10;                      <a>Mana Leak</a><br>4 &#10;                      <a>Relic Barrier</a><br>3 &#10;                      <a>Rewind</a><br>4 &#10;                      <a>Thirst for Knowledge</a><br>4 &#10;                      <a>Wrath of God</a><br><hr>29 other spells</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td>&#10;                        <p>Sideboard</p>&#10;                        <p>&#10;                      </p></td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>1 &#10;                            <a>Annul</a><br>3 &#10;                            <a>Circle of Protection: Red</a><br>1 &#10;                            <a>Decree of Silence</a><br>1 &#10;                            <a>Exalted Angel</a><br>2 &#10;                            <a>March of the Machines</a><br>4 &#10;                            <a>Purge</a><br>3 &#10;                            <a>Stifle</a><br><hr>15 sideboard cards</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Masami Ibamoto&#10;              </div>&#10;              <div>Nujabs</div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090604034144/https://www.wizards.com/magic/samplehand.asp?x=mtgevent_gpnag04_welcome&amp;decknum=7">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td colspan="2">&#10;                        <p>Main Deck</p>&#10;                        <p>60 cards&#10;                    </p>&#10;                      </td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>4 &#10;                      <a>Blinkmoth Nexus</a><br>1 &#10;                      <a>Island</a><br>17 &#10;                      <a>Swamp</a><br><hr>22 lands<br><br><br>4 &#10;                      <a>Chittering Rats</a><br>2 &#10;                      <a>Greater Harvester</a><br>4 &#10;                      <a>Headhunter</a><br>4 &#10;                      <a>Solemn Simulacrum</a><br>2 &#10;                      <a>Triskelion</a><br><hr>16 creatures</td>&#10;                      <td>3 &#10;                      <a>Barter in Blood</a><br>4 &#10;                      <a>Chrome Mox</a><br>2 &#10;                      <a>Death Cloud</a><br>4 &#10;                      <a>Echoing Decay</a><br>4 &#10;                      <a>Night's Whisper</a><br>2 &#10;                      <a>Sword of Light and Shadow</a><br>3 &#10;                      <a>Talisman of Dominance</a><br><hr>22 other spells</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td>&#10;                        <p>Sideboard</p>&#10;                        <p>&#10;                      </p></td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>1 &#10;                            <a>Barter in Blood</a><br>4 &#10;                            <a>Echoing Truth</a><br>4 &#10;                            <a>March of the Machines</a><br>2 &#10;                            <a>Persecute</a><br>4 &#10;                            <a>Withered Wretch</a><br><hr>15 sideboard cards</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Yokoi Masaki&#10;              </div>&#10;              <div>Eternal Hitomix!</div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090604034144/https://www.wizards.com/magic/samplehand.asp?x=mtgevent_gpnag04_welcome&amp;decknum=8">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td colspan="2">&#10;                        <p>Main Deck</p>&#10;                        <p>60 cards&#10;                    </p>&#10;                      </td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>8 &#10;                      <a>Forest</a><br>8 &#10;                      <a>Plains</a><br>4 &#10;                      <a>Secluded Steppe</a><br>4 &#10;                      <a>Tranquil Thicket</a><br>2 &#10;                      <a>Windswept Heath</a><br><hr>26 lands<br><br><br>3 &#10;                      <a>Eternal Dragon</a><br>4 &#10;                      <a>Eternal Witness</a><br>3 &#10;                      <a>Solemn Simulacrum</a><br><hr>10 creatures</td>&#10;                      <td>4 &#10;                      <a>Astral Slide</a><br>1 &#10;                      <a>Decree of Justice</a><br>3 &#10;                      <a>Gilded Light</a><br>4 &#10;                      <a>Plow Under</a><br>4 &#10;                      <a>Rampant Growth</a><br>4 &#10;                      <a>Renewed Faith</a><br>4 &#10;                      <a>Wrath of God</a><br><hr>24 other spells</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td>&#10;                        <p>Sideboard</p>&#10;                        <p>&#10;                      </p></td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>3 &#10;                            <a>Creeping Mold</a><br>1 &#10;                            <a>Decree of Justice</a><br>3 &#10;                            <a>Exalted Angel</a><br>4 &#10;                            <a>Oxidize</a><br>4 &#10;                            <a>Relic Barrier</a><br><hr>15 sideboard cards</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <hr>&#10;      <a name="11">&#10;        &#10;      </a>&#10;      <h3>Sunday 8/29/04, 15:33 - Drawing a picture of the Top 8</h3>&#10;      <p>&#10;        <i>by Brian David-Marshall</i>&#10;      </p>&#10;      <img src="https://i.ormos.uk/b9/ac/b9ac90c80ac969f401d45c15ada5132eca0b0de39f9b1d69439bcc5baed83bb1.jpg">&#10;      <p>It seems unlikely that any of the thirty-six point players will be able to make Top 8. The cut for the Top 8 should be thirty-seven points if all the current thirty-six players draw in--and why wouldn't they considering that the cut between thirty-six and thirty-four points was clean between eighth and ninth.</p>&#10;      <p>Eli is prowling the tables and reported seeing little draw action but the seating here is random so the low numbered tables do not represent the actual top of the standings. Players are still fighting it out in the hopes of squeaking in but it seems like the fight will be for money finish as opposed to Top 8 for the thirty-sixers.</p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <a href="/en/articles/event-coverage/undated/goblins-take-the-title-in-nagoya">&#10;              <b>Rank</b>&#10;            </a>&#10;          </td>&#10;          <td>&#10;            <a href="/en/articles/event-coverage/undated/goblins-take-the-title-in-nagoya">&#10;              <b>Name</b>&#10;            </a>&#10;          </td>&#10;          <td>&#10;            <a href="/en/articles/event-coverage/undated/goblins-take-the-title-in-nagoya">&#10;              <b>Points</b>&#10;            </a>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>1</td>&#10;          <td>Masami Ibamoto</td>&#10;          <td>37</td>&#10;        </tr>&#10;        <tr>&#10;          <td>2</td>&#10;          <td>Tatsunori Kishi</td>&#10;          <td>37</td>&#10;        </tr>&#10;        <tr>&#10;          <td>3</td>&#10;          <td>Toru Takeshita*</td>&#10;          <td>36</td>&#10;        </tr>&#10;        <tr>&#10;          <td>4</td>&#10;          <td>Keisuke Hashimoto</td>&#10;          <td>36</td>&#10;        </tr>&#10;        <tr>&#10;          <td>5</td>&#10;          <td>Yuhi Kubota</td>&#10;          <td>36</td>&#10;        </tr>&#10;        <tr>&#10;          <td>6</td>&#10;          <td>Shun Iizuka*</td>&#10;          <td>36</td>&#10;        </tr>&#10;        <tr>&#10;          <td>7</td>&#10;          <td>Tomoharu Saitou</td>&#10;          <td>36</td>&#10;        </tr>&#10;        <tr>&#10;          <td>8 </td>&#10;          <td>Masaki Yokoi*</td>&#10;          <td>36</td>&#10;        </tr>&#10;        <tr>&#10;          <td>9 </td>&#10;          <td>Kenichi Furukawa*</td>&#10;          <td>34</td>&#10;        </tr>&#10;        <tr>&#10;          <td>10</td>&#10;          <td>Takuo Sutou*</td>&#10;          <td>34</td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Toru Takeshita drew with Shun Iizuka, Tomoharu Saitou drew with Masaki Yokoi, and Masami Ibamoto drew with Keisuke Hashimoto. Tatsunori Kishi and Yuhi Kubota were on the fence but ultimately they drew as well. The only possibility of an 'upset' would be if the matches with the thirty-four point players allowed one or both of them to bump out anyone in the current Top 8.</p>&#10;      <p>The two players were paired up against each other and although the winner should miss on tiebreakers the possibility exists that something strange could happen.</p>&#10;      <hr>&#10;      <a name="10">&#10;        &#10;      </a>&#10;      <h3>Sunday 8/29/04, 14:18 - Shocking Nakamura</h3>&#10;      <p>&#10;        <i>by Eli Kaplan</i>&#10;      </p>&#10;      <p>As Round 14 draws to a close, we can be sure of two players who will make top 8. Tatsunori Kishi, who defeated Masashiro Kuroda last round in a Goblins mirror match, drew with mad scientist Masami Ibamoto to guarantee their spot. </p>&#10;      <p>Shuuhei Nakamura, who will be representing Japan at Worlds along with Tsuyoshi Fujita and Kenji Tsumura, will not be making top 8. He faced Hisaya Tanaka in the age-old classic, Affinity beatdown versus blue/white control. The first two games went by in a breeze, and Nakamura was pleased as his army came fast and furious to the table. Tapped out with a <a>Shrapnel Blast</a> in hand and a large <a>Arcbound Ravager</a>, <a>Disciple of the Vault</a>, and <a>Blinkmoth Nexus</a> in hand, everything seemed well in hand for Nakamura and he declared his end step. </p>&#10;      <p>As the judges and writers crowded around, Tanaka grinned. He played <a>Pulse of the Fields</a> with mana open for <a>Mana Leak</a>. Nakamura was shocked and dropped an English profanity that could never be printed here. The Japanese language didn't have a suitable curse word, but his dismay was crystal clear to the judges and spectators. <a>Akroma's Vengeance</a> wiped Nakamura's board, and an <a>Eternal Dragon</a> spelled Nakamura's doom. </p>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Masami Ibamoto &#10;              </div>&#10;              <div>Nujabs</div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090604034144/https://www.wizards.com/magic/samplehand.asp?x=mtgevent_gpnag04_welcome&amp;decknum=9">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td colspan="2">&#10;                        <p>Main Deck</p>&#10;                        <p>60 cards&#10;                    </p>&#10;                      </td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>4 &#10;                      <a>Blinkmoth Nexus</a><br>1 &#10;                      <a>Island</a><br>17 &#10;                      <a>Swamp</a><br><hr>22 lands<br><br><br>4 &#10;                      <a>Chittering Rats</a><br>2 &#10;                      <a>Greater Harvester</a><br>4 &#10;                      <a>Headhunter</a><br>4 &#10;                      <a>Solemn Simulacrum</a><br>2 &#10;                      <a>Triskelion</a><br><hr>16 creatures</td>&#10;                      <td>3 &#10;                      <a>Barter in Blood</a><br>4 &#10;                      <a>Chrome Mox</a><br>2 &#10;                      <a>Death Cloud</a><br>4 &#10;                      <a>Echoing Decay</a><br>4 &#10;                      <a>Night's Whisper</a><br>2 &#10;                      <a>Sword of Light and Shadow</a><br>3 &#10;                      <a>Talisman of Dominance</a><br><hr>22 other spells</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td>&#10;                        <p>Sideboard</p>&#10;                        <p>&#10;                      </p></td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>1 &#10;                            <a>Barter in Blood</a><br>4 &#10;                            <a>Echoing Truth</a><br>4 &#10;                            <a>March of the Machines</a><br>2 &#10;                            <a>Persecute</a><br>4 &#10;                            <a>Withered Wretch</a><br><hr>15 sideboard cards</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Tatsunori Kishi&#10;              </div>&#10;              <div>RG Goblins</div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090604034144/https://www.wizards.com/magic/samplehand.asp?x=mtgevent_gpnag04_welcome&amp;decknum=10">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td colspan="2">&#10;                        <p>Main Deck</p>&#10;                        <p>60 cards&#10;                    </p>&#10;                      </td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>3 &#10;                      <a>City of Brass</a><br>4 &#10;                      <a>Forest</a><br>12 &#10;                      <a>Mountain</a><br>4 &#10;                      <a>Wooded Foothills</a><br><hr>23 lands<br><br><br>3 &#10;                      <a>Clickslither</a><br>4 &#10;                      <a>Goblin Piledriver</a><br>3 &#10;                      <a>Goblin Sharpshooter</a><br>4 &#10;                      <a>Goblin Sledder</a><br>4 &#10;                      <a>Goblin Warchief</a><br>4 &#10;                      <a>Siege-Gang Commander</a><br>4 &#10;                      <a>Skirk Prospector</a><br>3 &#10;                      <a>Sparksmith</a><br><hr>29 creatures</td>&#10;                      <td>4 &#10;                      <a>Electrostatic Bolt</a><br>4 &#10;                      <a>Oxidize</a><br><hr>8 other spells</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td>&#10;                        <p>Sideboard</p>&#10;                        <p>&#10;                      </p></td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>3 &#10;                            <a>Gempalm Incinerator</a><br>4 &#10;                            <a>Molten Rain</a><br>4 &#10;                            <a>Naturalize</a><br>4 &#10;                            <a>Stone Rain</a><br><hr>15 sideboard cards</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <hr>&#10;      <a name="9">&#10;        &#10;      </a>&#10;      <h3>Sunday 8/29/04, 13:47 - Champions of Kamigawa</h3>&#10;      <p>&#10;        <i>by Brian David-Marshall</i>&#10;      </p>&#10;      <img src="https://i.ormos.uk/9e/63/9e636b61e82acf4a5550bfd91c5372893e7e4b577e66c268671dbffc7de120c2.jpg">&#10;      <p>Tomorrow is the beginning of the Champions of Kamigawa previews on magicthegathering.com. While Magic players everywhere are excited by the impending arrival of the new block nowhere is this more true than in Japan. Champions leans heavily on Japanese mythology and folklore. Many of the themes are taken directly from Japanese culture and almost every element of the set borrows something from Japan--although in some cases quite loosely. </p>&#10;      <p>Ron Foster and the Japanese WotC crew were at the Character and Hobby Festa where they were handing out promotional folders that showed off the new set and contained a preview card--Kitsune Healer. Through the magic of Ron's camera phone we can offer you a peek at the folder that was handed out to thousands of Festa attendees last week.</p>&#10;      <p>By the way, Mark Rosewater's column on Monday is going to contain some pretty big news as Champions of Kamigawa week gets off to a legendary start. Make sure you check it out!</p>&#10;      <hr>&#10;      <a name="8">&#10;        &#10;      </a>&#10;      <h3>Sunday 8/29/04, 13:20 - The Burning Question</h3>&#10;      <p>&#10;        <i>by Brian David-Marshall</i>&#10;      </p>&#10;      <p>Round fourteen is underway and the hot topic that everyone seems to be talking about it is whether or not any of the thirty pointers can make it to the Top 8. Masami Ibamoto resides atop the leader board with thirty-six points only. Only Tatsunori Kishi matches that point total. Beneath them are seventeen players with either thirty-three or thirty-one points. </p>&#10;      <p>Masashiro Kuroda lost last round and is in twentieth place atop the clump of players with three losses. Only a few notches below him are Itaru Ishida, Akira Asahara, and Rookie of the year hopeful Kazumasa Shiki starting with Itaru in twenty-fifth. If all of them win out they are certainly in good position to win money with an outside shot at Top 8.</p>&#10;      <hr>&#10;      <a name="7">&#10;        &#10;      </a>&#10;      <h3>Sunday 8/29/04, 12:56 - Clawing their way up</h3>&#10;      <p>&#10;        <i>by Brian David-Marshall</i>&#10;      </p>&#10;      <p>The top of the standings after twelve rounds is devoid of many of the names you come to expect to see there at an Asian Grand Prix. There is Masami Ibamoto in fourth place. He is not as well known as many of the other players but he is fresh off a Top 4 appearance at Pro Tour Seattle with S.A.I. and you will undoubtedly be hearing more from him in the future. Pro Tour Kobe winner Masashiro Kuroda was in eighth place. </p>&#10;      <p>Makahito Mihara finished Top 8 at the last two Japanese Nationals and he was looking to move up two spots over the next few rounds to repeat that feat this weekend. Below him it is a steady stream of asterisks that indicate Amateur Status until you get to Itaru Ishida in thirty-third place holding trying to avoid a fourth loss on the weekend. He was trying to salvage a money finish this weekend and had an outside shot at Top 8--there was no one undefeated any longer. </p>&#10;      <div>&#10;        <img src="https://i.ormos.uk/64/77/6477fd8e1f590b5b0879ee79a6ab048b51dac30b578da117d10e98b26a12af8e.jpg">&#10;      </div>&#10;      <p>He was playing against amateur Eichi Goto. Ishida was with Tron while the rookie had the artifacts. Things were looking dire for Ishida in the first game as his opponent had an army of <a>Frogmite</a>s, <a>Arcbound Worker</a>, and a <a>Cranial Plating</a> while Ishida had nothing but lands and a Talisman. The Pro played his third Urza land and made a <a>Triskelion</a> and an <a>Eternal Witness</a> that retrieved nothing. Eichi's combat saw him lose his Plated Worker and the <a>Frogmite</a> he tried to move a counter onto. When Ishida untapped and played and activated a <a>Mindslaver</a> the rookie shrugged and <a>Shrapnel Blast</a>ed Ishida happy to wait a turn to finish him off with <a>Somber Hoverguard</a>. </p>&#10;      <p>Ishida was at one and when he took the rookie's turn he drew a <a>Chromatic Sphere</a> which cycled into Ravager and he destroyed Goto's board leaving him only the Hoverguard. <a>Eternal Witness</a> brought back <a>Triskelion</a> and Ishida took down the blue flier as well.</p>&#10;      <div>&#10;        <img src="https://i.ormos.uk/05/e9/05e9375d4706cb2453b212cc936d930f49cb5139b4a7f76a7d950442357ba642.jpg">&#10;      </div>&#10;      <p>Another player trying to salvage his weekend was Shuhei Nakamura. Shuhei was the alternate on this year's Japanese National team and when Shunsuke Kamei announced he could not make the trip to Worlds due to High School exams, Nakamura was called upon to pinch-hit. He was playing against Australian Oliver Oks this round and they were both looking into the Affinity mirror. </p>&#10;      <div>&#10;        <img src="https://i.ormos.uk/1b/4e/1b4e846b0dc5c2dc51858b0134709122a2c223c3f2535b2de96afe22950cfb50.jpg">&#10;      </div>&#10;      <p>Oliver was frustrated as he stumbled on two lands for several turns and could not cast his <a>Moriok Rigger</a> despite cycling a couple of <a>Chromatic Sphere</a>s. Meanwhile, Nakamura had not only land going in Game 2 but an Aether Vial as well. When Oliver finally had the mana to play the Rigger, Nakamura broke his heart with an <a>Electrostatic Bolt</a>. He played back to back Disciples a couple of turns later and when he Aether Vialed out a Ravager and sealed the game against the wild haired man from Adelaide. </p>&#10;      <hr>&#10;      <a name="6">&#10;        &#10;      </a>&#10;      <h3>Sunday 8/29/04, 12:21 - Day 2 Field Breakdown</h3>&#10;      <p>&#10;        <i>by Keita Mori</i>&#10;      </p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <a href="/en/articles/event-coverage/undated/goblins-take-the-title-in-nagoya">&#10;              <b>Number</b>&#10;            </a>&#10;          </td>&#10;          <td>&#10;            <a href="/en/articles/event-coverage/undated/goblins-take-the-title-in-nagoya">&#10;              <b>Archtype</b>&#10;            </a>&#10;          </td>&#10;          <td>&#10;            <a href="/en/articles/event-coverage/undated/goblins-take-the-title-in-nagoya">&#10;              <b>Subtype</b>&#10;            </a>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>47</td>&#10;          <td>Affinity</td>&#10;          <td> </td>&#10;        </tr>&#10;        <tr>&#10;          <td>14</td>&#10;          <td>WU Control</td>&#10;          <td> </td>&#10;        </tr>&#10;        <tr>&#10;          <td>15</td>&#10;          <td>Urza-Tron</td>&#10;          <td>Mono Green: 12</td>&#10;        </tr>&#10;        <tr>&#10;          <td> </td>&#10;          <td> </td>&#10;          <td>GW: 1</td>&#10;        </tr>&#10;        <tr>&#10;          <td> </td>&#10;          <td> </td>&#10;          <td>GR: 1</td>&#10;        </tr>&#10;        <tr>&#10;          <td> </td>&#10;          <td> </td>&#10;          <td>4 Color: 1</td>&#10;        </tr>&#10;        <tr>&#10;          <td>14</td>&#10;          <td>Goblins</td>&#10;          <td>Mono Red: 9</td>&#10;        </tr>&#10;        <tr>&#10;          <td> </td>&#10;          <td> </td>&#10;          <td>BR Bidding: 3</td>&#10;        </tr>&#10;        <tr>&#10;          <td> </td>&#10;          <td> </td>&#10;          <td>RG: 1</td>&#10;        </tr>&#10;        <tr>&#10;          <td>12</td>&#10;          <td>Death Cloud</td>&#10;          <td>Mono Black: 4</td>&#10;        </tr>&#10;        <tr>&#10;          <td> </td>&#10;          <td> </td>&#10;          <td>BU: 3</td>&#10;        </tr>&#10;        <tr>&#10;          <td> </td>&#10;          <td> </td>&#10;          <td>BR: 2</td>&#10;        </tr>&#10;        <tr>&#10;          <td> </td>&#10;          <td> </td>&#10;          <td>BG: 2</td>&#10;        </tr>&#10;        <tr>&#10;          <td> </td>&#10;          <td> </td>&#10;          <td>Zur's Weirding: 1</td>&#10;        </tr>&#10;        <tr>&#10;          <td>5</td>&#10;          <td>Ponza</td>&#10;          <td> </td>&#10;        </tr>&#10;        <tr>&#10;          <td>4</td>&#10;          <td>Obliterate</td>&#10;          <td> </td>&#10;        </tr>&#10;        <tr>&#10;          <td>4</td>&#10;          <td>Beast</td>&#10;          <td> </td>&#10;        </tr>&#10;        <tr>&#10;          <td>2</td>&#10;          <td>Slide</td>&#10;          <td> </td>&#10;        </tr>&#10;        <tr>&#10;          <td>2</td>&#10;          <td>Big Red</td>&#10;          <td> </td>&#10;        </tr>&#10;        <tr>&#10;          <td>2</td>&#10;          <td>Ironworks</td>&#10;          <td> </td>&#10;        </tr>&#10;        <tr>&#10;          <td>1</td>&#10;          <td>WG Control</td>&#10;          <td> </td>&#10;        </tr>&#10;        <tr>&#10;          <td>1</td>&#10;          <td>WGr Control</td>&#10;          <td> </td>&#10;        </tr>&#10;        <tr>&#10;          <td>1</td>&#10;          <td>WGUr Control</td>&#10;          <td> </td>&#10;        </tr>&#10;        <tr>&#10;          <td>1</td>&#10;          <td>WUR Control</td>&#10;          <td> </td>&#10;        </tr>&#10;        <tr>&#10;          <td>1</td>&#10;          <td>Mono Red Burn</td>&#10;          <td> </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <hr>&#10;      <a name="5">&#10;        &#10;      </a>&#10;      <h3>Sunday 8/29/04, 12:14 - Turmoil at the Top Tables</h3>&#10;      <p>&#10;        <i>by Eli Kaplan</i>&#10;      </p>&#10;      <p>The favorites in Round 12 fared poorly, as the last undefeated player Toru Takeshita finally met his match. Masami Ibamoto's mono-black wrecker used <a>Echoing Decay</a> to dissect Takeshita's Disciples of the Vault and <a>Arcbound Worker</a>s. Game 1 was a long and bloody affair, but Takeshita hit a bout of mana screw in game 2 and Ibamoto cleaned up. </p>&#10;      <p>Home town pro Ryouma Shiozu defeated Takashi Ayama at the Feature Match table to keep Nagoya's dreams of local success alive. His <a>Arc-Slogger</a>s, <a>Shatter</a>s, and <a>Electrostatic Bolt</a>s kept Ayama's board clean, paving the road to victory. With thirty points, he needs to win out to make it to the top 8.</p>&#10;      <p>Pro Tour Champion Masashiro Kuroda's chances of making top 8 dimmed as his mono-red Goblins paired off against red-green Goblins. He failed to draw any early offense, and 's <a>Clickslither</a>s and <a>Siege-Gang Commander</a>s punished him for his slow start. Game 2 was a repeat, as Kuroda's army fell to a savage assault of <a>Goblin Sharpshooter</a>s before <a>Sword of Fire and Ice</a> could save the day. Kuroda had been advocating <a>Sword of Fire and Ice</a> all weekend, but we'll see if he runs the card at Worlds.</p>&#10;      <hr>&#10;      <a name="4">&#10;        &#10;      </a>&#10;      <h3>Sunday 8/29/04, 11:03 - Weird Science</h3>&#10;      <p>&#10;        <i>by Brian David-Marshall</i>&#10;      </p>&#10;      <p>Nothing mobilizes the coverage team like a cool card. Cries of, &quot;<a>Zur's Weirding</a> is in play on table four!&quot; sent everyone skidding around the corner to huddle around a startled Naoto Akita and Teruya Kakumae as they waited for a judge to explain how the card worked to Kakumae.</p>&#10;      <p>Naoto Akita, it turns out, is famous in Japan for playing <a>Zur's Weirding</a> whenever possible. &quot;I have played the card in every deck I have built since Ice Age.&quot;</p>&#10;      <img src="https://i.ormos.uk/d9/7d/d97d3b0b0b9da71340c5b514a58c603dc7e5e401b8c1db6b1232b698b87ad5d9.jpg">&#10;      <p>Naoto played the Wielding at the best possible time--his opponent was stuck on two lands to his four and Naoto had a grip full of <a>Echoing Decay</a>s and <a>Infest</a>s along with <a>Bane of the Living</a>. Teruya had two lands--<a>Swamp</a> and Blinkmoth--with a Rat in play and two <a>Withered Wretch</a>, Gravebane Zombie, one <a>Hollow Specter</a>, <a>Chittering Rats</a>, and <a>Chrome Mox</a>. He drew another Gravebane and Akita let him have it. He could do nothing about the Chittering Rat and lost one of his removal spells to the Rat and two life. </p>&#10;      <p>Teruya was hard pressed to let Akita have anything like <a>Persecute</a> or <a>Guardian Idol</a>. He could not overcome all of Akita's removal and he promptly dropped the second and final game of the match to the relentless assault of the <a>Bane of the Living</a>. </p>&#10;      <p>While it was not the first time that Teruya had seen <a>Zur's Weirding</a> it was the first time he had ever played against the card and he needed a lengthy explanation from the h judge to make sure he understood how it worked. Meanwhile Akita had quietly moved up to a 9-2 record with the deck. Lest you discount his three byes he is quick to point out that he won those byes fair and square at a Trial with the same exact decklist.</p>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Naoto Akita&#10;              </div>&#10;              <div>Zur's Guardian</div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090604034144/https://www.wizards.com/magic/samplehand.asp?x=mtgevent_gpnag04_welcome&amp;decknum=11">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td colspan="2">&#10;                        <p>Main Deck</p>&#10;                        <p>60 cards&#10;                    </p>&#10;                      </td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>2 &#10;                      <a>Blinkmoth Nexus</a><br>3 &#10;                      <a>Island</a><br>4 &#10;                      <a>Polluted Delta</a><br>4 &#10;                      <a>Salt Marsh</a><br>11 &#10;                      <a>Swamp</a><br><hr>24 lands<br><br><br>3 &#10;                      <a>Bane of the Living</a><br>4 &#10;                      <a>Hollow Specter</a><br>3 &#10;                      <a>Solemn Simulacrum</a><br>1 &#10;                      <a>Undead Gladiator</a><br><hr>11 creatures</td>&#10;                      <td>4 &#10;                      <a>Death Cloud</a><br>4 &#10;                      <a>Echoing Decay</a><br>4 &#10;                      <a>Guardian Idol</a><br>2 &#10;                      <a>Infest</a><br>3 &#10;                      <a>Mana Leak</a><br>4 &#10;                      <a>Night's Whisper</a><br>2 &#10;                      <a>Talisman of Dominance</a><br>2 &#10;                      <a>Zur's Weirding</a><br><hr>25 other spells</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td>&#10;                        <p>Sideboard</p>&#10;                        <p>&#10;                      </p></td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>1 &#10;                            <a>Infest</a><br>1 &#10;                            <a>Mana Leak</a><br>2 &#10;                            <a>March of the Machines</a><br>3 &#10;                            <a>Persecute</a><br>4 &#10;                            <a>Relic Barrier</a><br>2 &#10;                            <a>Terror</a><br>2 &#10;                            <a>Withered Wretch</a><br><hr>15 sideboard cards</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <p>&quot;Deathcloud really makes the deck work. It gives your opponent fits and they have even more decisions to make. Also <a>Undead Gladiator</a> and <a>Guardian Idol</a> work really well in the deck. Also even if they don't give you the Gladiator you can trade it for a card and they can't keep it away from you.&quot;</p>&#10;      <p>Good luck Naoto, I will be pulling for you!</p>&#10;      <hr>&#10;      <a name="3">&#10;        &#10;      </a>&#10;      <h3>Sunday 8/29/04, 10:32 - Kinshachi</h3>&#10;      <p>&#10;        <i>by Eli Kaplan</i>&#10;      </p>&#10;      <p>Here in lovely Fukiage Hall, Day Two is just as busy and exciting as Day One. The Junior Open tournament drew almost 30 players, and the <i>Mirrodin</i> Block Constructed Pro Tour Qualifier tournament drew out those still aspiring for a seat at Columbus. But all the die hards have one thing in mind: food.</p>&#10;      <p>The Kinshachi Tournament, a Standard affair, had over 200 players sign up for the opportunity to win packs of <i>Fifth Dawn</i>, but more importantly, a feast. The tournament promised &quot;Nagoyan specialties&quot;, but the judges were hesitant to reveal the details. After much prodding, I was able to get the straight details.</p>&#10;      <p>The winner gets a light start with <b>kokusagi</b>, a local citrus similar to tangerines. How do fried chicken claws sound? <b>Toritoba</b> is a casual but delicious snack food. Pork cutlets smothered in white miso paste makes a delicious entree. The main dish, <b>hitsumabushi</b>, is rice with lightly barbecued, slightly sweet eel. For desert, the victor gets Nagoya's famous flan-like custard, <b>uiiro</b>.</p>&#10;      <p>For those of you who plan to attend the upcoming Pro Tour in Nagoya, think about giving some of these foods a try.</p>&#10;      <hr>&#10;      <a name="2">&#10;        &#10;      </a>&#10;      <h3>Sunday 8/29/04, 10:14 - Round 10 - Fight!</h3>&#10;      <p>&#10;        <i>by Brian David-Marshall</i>&#10;      </p>&#10;      <p>Pro Tour Kobe Champion Masashiro Kuroda squared off this round with Itaru Ishida. Itaru is an unfortunate member of a very select club made up of the world's very best players without an individual Pro Tour Top 8. He did achieve a Sunday appearance as part of the Shop <a>Fireball</a> squad in Seattle but he has yet to experience that level of play on his own.</p>&#10;      <p>Kuroda was still battling whatever malady he was inflicted with yesterday. Perhaps if had been feeling better he would have gone 9-0 as opposed to taking one loss. He was playing the same goblin deck that had failed Osamu Fujita yesterday. Itaru was with the ubiquitous Japanese Tron deck. Kuroda felt he was at a terrible disadvantage in the match-up and felt lucky to find himself up one game after a poor draw by Itaru.</p>&#10;      <p>His second game's draw was little better as he stalled on two lands and a Vine Trellis while Kuroda came out swinging with Sledder, Piledriver, and a Sulfuric Vortex over the first three turns. He played a Blistering Firecat straight up on the fourth turn and all Itaru could do was laugh.</p>&#10;      <p>The other feature match was between Kentaro Ino and Shotaro Mori. Kentaro was one of only three undefeated players coming into the round and he was playing his Goblin Bidding deck against Mori's mono-red goblin mix. </p>&#10;      <p>Kentaro dropped Game 1 and could not reach for his sideboard quickly enough to pitch his Patriarch's Biddings which are unplayable in the mirror. His second game went much better as h was able to squeeze out a Siege-Gang on turn four with an active Sharpshooter versus a mana light Mori.</p>&#10;      <p>Game 3 was a little more involved but when Ino found three straight Goblin Incinerators (His opponent shuffled--I watched!) there was little Mori could do even with a Clickslither on the table.</p>&#10;      <p>Kentaro Ino was one of two undefeated players left and after round eleven we would be down to one.</p>&#10;      <hr>&#10;      <a name="1">&#10;        &#10;      </a>&#10;      <h3>Sunday 8/29/04, 09:33 - Day 1 Undefeated Decklists</h3>&#10;      <p>&#10;        <i>by Brian David-Marshall</i>&#10;      </p>&#10;      <p>Here are the three undefeated decklists from Day One.</p>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Hiroyuki Kobayashi&#10;              </div>&#10;              <div>WG Control</div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090604034144/https://www.wizards.com/magic/samplehand.asp?x=mtgevent_gpnag04_welcome&amp;decknum=12">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td colspan="2">&#10;                        <p>Main Deck</p>&#10;                        <p>60 cards&#10;                    </p>&#10;                      </td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>4 &#10;                      <a>Elfime Palace</a><br>6 &#10;                      <a>Forest</a><br>6 &#10;                      <a>Plains</a><br>4 &#10;                      <a>Temple of the False God</a><br>4 &#10;                      <a>Windswept Heath</a><br><hr>24 lands<br><br><br>4 &#10;                      <a>Eternal Dragon</a><br>4 &#10;                      <a>Eternal Wittness</a><br>4 &#10;                      <a>Exalted Angel</a><br>4 &#10;                      <a>Solemn Simulaerum</a><br><hr>16 creatures</td>&#10;                      <td>4 &#10;                      <a>Akrom's Vengeance</a><br>4 &#10;                      <a>Decree of Justice</a><br>4 &#10;                      <a>Plow Under</a><br>4 &#10;                      <a>Rampant Growth</a><br>4 &#10;                      <a>Wrath of God</a><br><hr>20 other spells</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td>&#10;                        <p>Sideboard</p>&#10;                        <p>&#10;                      </p></td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>3 &#10;                            <a>Alter's Light</a><br>4 &#10;                            <a>Auriok Champion</a><br>4 &#10;                            <a>Creeping Mold</a><br>4 &#10;                            <a>Oxidize</a><br><hr>15 sideboard cards</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Tooru Takeshita&#10;              </div>&#10;              <div>Affinity</div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090604034144/https://www.wizards.com/magic/samplehand.asp?x=mtgevent_gpnag04_welcome&amp;decknum=13">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td colspan="2">&#10;                        <p>Main Deck</p>&#10;                        <p>60 cards&#10;                    </p>&#10;                      </td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>3 &#10;                      <a>Blinkmoth Nexus</a><br>2 &#10;                      <a>Darksteel Citadel</a><br>3 &#10;                      <a>Glimmervoid</a><br>4 &#10;                      <a>Grand Furnace</a><br>4 &#10;                      <a>Seat of the Synod</a><br>4 &#10;                      <a>Vault of Whispers</a><br><hr>20 lands<br><br><br>4 &#10;                      <a>Arcbound Ravager</a><br>4 &#10;                      <a>Arcbound Worker</a><br>4 &#10;                      <a>Disciple of the Vault</a><br>4 &#10;                      <a>Frogmite</a><br>2 &#10;                      <a>Somber Hoverguard</a><br><hr>18 creatures</td>&#10;                      <td>4 &#10;                      <a>Chromatic Sphere</a><br>3 &#10;                      <a>Cranial Plating</a><br>2 &#10;                      <a>Night's Wisper</a><br>3 &#10;                      <a>Pyrite Spellbomb</a><br>4 &#10;                      <a>Shrapnal Blast</a><br>4 &#10;                      <a>Thoughtcast</a><br>2 &#10;                      <a>Welding Jar</a><br><hr>22 other spells</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td>&#10;                        <p>Sideboard</p>&#10;                        <p>&#10;                      </p></td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>4 &#10;                            <a>Electrostatic Bolt</a><br>3 &#10;                            <a>Mana Leak</a><br>2 &#10;                            <a>Myr Enforcer</a><br>2 &#10;                            <a>Pyroclasm</a><br>3 &#10;                            <a>Relic Barrier</a><br>1 &#10;                            <a>Welding Jar</a><br><hr>15 sideboard cards</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Kentarou Ino&#10;              </div>&#10;              <div>Gob Bidding</div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090604034144/https://www.wizards.com/magic/samplehand.asp?x=mtgevent_gpnag04_welcome&amp;decknum=14">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td colspan="2">&#10;                        <p>Main Deck</p>&#10;                        <p>60 cards&#10;                    </p>&#10;                      </td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>4 &#10;                      <a>Bloodatained Mire</a><br>3 &#10;                      <a>City of Brass</a><br>12 &#10;                      <a>Mountain</a><br>5 &#10;                      <a>Swamp</a><br><hr>24 lands<br><br><br>4 &#10;                      <a>Gempalm Incinerator</a><br>4 &#10;                      <a>Goblin Piledriver</a><br>4 &#10;                      <a>Goblin Sherpshooter</a><br>4 &#10;                      <a>Goblin Sledder</a><br>4 &#10;                      <a>Goblin Warchief</a><br>4 &#10;                      <a>Siege-Gang Commander</a><br>4 &#10;                      <a>Skirk Prospector</a><br>4 &#10;                      <a>Sparksmith</a><br><hr>32 creatures</td>&#10;                      <td>1 &#10;                      <a>Electrostatic Bolt</a><br>3 &#10;                      <a>Patriarch's Bidding</a><br><hr>4 other spells</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td>&#10;                        <p>Sideboard</p>&#10;                        <p>&#10;                      </p></td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>3 &#10;                            <a>Cabal Interrogator</a><br>3 &#10;                            <a>Dwarven Blastminer</a><br>3 &#10;                            <a>Electrostatic Bolt</a><br>2 &#10;                            <a>Molten Rain</a><br>4 &#10;                            <a>Relic Barrier</a><br><hr>15 sideboard cards</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;    </td>&#10;  </tr>&#10;</tbody></table>

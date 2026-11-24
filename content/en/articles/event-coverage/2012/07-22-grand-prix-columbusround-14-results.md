@@ -1,0 +1,47 @@
+---
+id: ds5kesqp
+kind: event
+lang: en
+path: /en/articles/event-coverage/2012/07-22-grand-prix-columbusround-14-results
+title: Grand Prix ColumbusRound 14 Results
+published: '2012-07-22'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-columbusround-14-results-2012-07-22
+    lang_detected: en
+    capture_id: 369180
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-columbusround-14-results-2012-07-22
+    captured_at: '2022-08-10 04:44:09+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-columbusround-14-results-2012-07-22
+    lang_detected: en
+    capture_id: 369180
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-columbusround-14-results-2012-07-22
+    captured_at: '2022-08-10 04:44:09+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: ds5kesqp
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-columbusround-14-results-2012-07-22
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-columbusround-14-results-2012-07-22
+  lang: en
+  template: drupal
+  captured_at: '2022-08-10 04:44:09+00'
+  capture_id: 369180
+  wayback_url: https://web.archive.org/web/20220810044409id_/https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-columbusround-14-results-2012-07-22
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: ds5kesqp
+  capture_id: 369180
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-columbusround-14-results-2012-07-22
+  wayback_url: https://web.archive.org/web/20220810044409id_/https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-columbusround-14-results-2012-07-22
+  captured_at: '2022-08-10 04:44:09+00'
+  template: drupal
+  sha256: 83ff6acf56a3e6d5202ccb3e84d1ba58756bac43ea1f16e47d7a0694222d6a42
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Result</b></td><td><b>&#10;						</b></td><td><b>Opponent</b></td></tr><tr><td> 1</td><td>Beasley, Orrin A [USA]</td><td>Drew 0-0-0</td><td>vs.</td><td>Estrada, Caleb T [USA]</td></tr><tr><td> 2</td><td>Shenhar, Shahar [USA]</td><td>Won 2-0</td><td>vs.</td><td>Demars, Brian m [USA]</td></tr><tr><td> 3</td><td>Ochoa, David A [USA]</td><td>Lost 0-2</td><td>vs.</td><td>Estrin, Aaron D [USA]</td></tr><tr><td> 4</td><td>Fabiano, Gerard [USA]</td><td>Won 2-1</td><td>vs.</td><td>Majors, Michael J [USA]</td></tr><tr><td> 5</td><td>Ulman, Ian [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Piland, Chris [USA]</td></tr><tr><td> 6</td><td>Benson, Jonathan [USA]</td><td>Lost 0-2</td><td>vs.</td><td>Kronenberger, Chris S [USA]</td></tr><tr><td> 7</td><td>Jacob, Michael A [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Maynard, Jacob B [USA]</td></tr><tr><td> 8</td><td>Fay, Korey J [USA]</td><td>Won 2-1</td><td>vs.</td><td>Wilson, Jacob A [USA]</td></tr><tr><td> 9</td><td>Siow, Lucas E [CAN]</td><td>Won 2-1</td><td>vs.</td><td>Young, Garett E [USA]</td></tr><tr><td> 10</td><td>Lalo, Josh A [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Tietze, Max B [USA]</td></tr><tr><td> 11</td><td>Geary, Justin R [USA]</td><td>Won 2-1</td><td>vs.</td><td>Vidugiris, Gaudenis [USA]</td></tr><tr><td> 12</td><td>Lyman, Bradley J [USA]</td><td>Won 2-0</td><td>vs.</td><td>Jupiter, Jermol L [USA]</td></tr><tr><td> 13</td><td>Baylock, Deshaun [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Coston, Chris [USA]</td></tr><tr><td> 14</td><td>Kelly, Peter [USA]</td><td>Lost 0-2</td><td>vs.</td><td>Norman, Allen [USA]</td></tr><tr><td> 15</td><td>Utter-Leyton, Josh W [USA]</td><td>Won 2-1</td><td>vs.</td><td>Rill, Eric T [USA]</td></tr><tr><td> 16</td><td>Blyden, Jeffrey L [USA]</td><td>Won 2-0</td><td>vs.</td><td>Boutin, Jon [CAN]</td></tr><tr><td> 17</td><td>Weidinger, Christopher [USA]</td><td>Won 2-1</td><td>vs.</td><td>Turtenwald, Owen [USA]</td></tr><tr><td> 18</td><td>Hudson, Nathan [USA]</td><td>Won 2-0</td><td>vs.</td><td>Rosenberg, Reed [USA]</td></tr><tr><td> 19</td><td>Zornes, James W [USA]</td><td>Won 2-0</td><td>vs.</td><td>Zarichny, Brandon [USA]</td></tr><tr><td> 20</td><td>Thompson, Connor [USA]</td><td>Lost 0-2</td><td>vs.</td><td>Boettcher, Jared A [USA]</td></tr><tr><td> 21</td><td>Corvese, Harry [USA]</td><td>Won 2-0</td><td>vs.</td><td>charles, D'angelo [USA]</td></tr><tr><td> 22</td><td>Tellis, Adam B [USA]</td><td>Won 2-0</td><td>vs.</td><td>Kazhdan, Joseph H [USA]</td></tr><tr><td> 23</td><td>Shiels, David [USA]</td><td>Won 2-0</td><td>vs.</td><td>Vasovski, Mike [CAN]</td></tr><tr><td> 24</td><td>Rietzl, Paul R [USA]</td><td>Won 2-1</td><td>vs.</td><td>corrigan, griffin f [USA]</td></tr><tr><td> 25</td><td>Rodriguez, Juan C [USA]</td><td>Won 2-1</td><td>vs.</td><td>Goud, Michael T [CAN]</td></tr><tr><td> 26</td><td>Cox, Patrick B [USA]</td><td>Won 2-1</td><td>vs.</td><td>Long, Noah [CAN]</td></tr><tr><td> 27</td><td>Poweleit, Eric T [USA]</td><td>Won 2-1</td><td>vs.</td><td>Scott-Vargas, Luis D [USA]</td></tr><tr><td> 28</td><td>Mcclain, Josh [USA]</td><td>Won 2-1</td><td>vs.</td><td>Uppal, Justin A [USA]</td></tr><tr><td> 29</td><td>Staton, Branch A [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Friedman, Michael A [USA]</td></tr><tr><td> 30</td><td>Madlem, Derek [USA]</td><td>Lost 0-2</td><td>vs.</td><td>MANNER, JOEY [USA]</td></tr><tr><td> 31</td><td>Oddy, Graeme R [CAN]</td><td>Lost 1-2</td><td>vs.</td><td>Nyberg, Mike A [USA]</td></tr><tr><td> 32</td><td>Silberman, Phil B [USA]</td><td>Won 2-1</td><td>vs.</td><td>Peck, Donnie E [USA]</td></tr><tr><td> 33</td><td>Miller, Adam J [USA]</td><td>Won 2-0</td><td>vs.</td><td>Norton, Matt M [USA]</td></tr><tr><td> 34</td><td>Novak, Daniel A [USA]</td><td>Won 2-1</td><td>vs.</td><td>Freedman, Jerry [USA]</td></tr><tr><td> 35</td><td>Lanthier, Dan [CAN]</td><td>Won 2-1</td><td>vs.</td><td>Hefner, Jessy E [USA]</td></tr><tr><td> 36</td><td>Walmsley, Billy m [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Burton, Cody [USA]</td></tr><tr><td> 37</td><td>Foster, Jeph W [USA]</td><td>Won 2-0</td><td>vs.</td><td>Beecher, Mike [USA]</td></tr><tr><td> 38</td><td>Ritner, Ronnie [USA]</td><td>Won 2-0</td><td>vs.</td><td>Shields, Korbey M [USA]</td></tr><tr><td> 39</td><td>MALAFARINA, DAVID G [USA]</td><td>Lost 0-2</td><td>vs.</td><td>Cubr, Kevin C [USA]</td></tr><tr><td> 40</td><td>Sowles, Jacob R [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Kaplan, Louis H [USA]</td></tr><tr><td> 41</td><td>Nolan, David S [USA]</td><td>Won 2-0</td><td>vs.</td><td>Schuett, Court B [USA]</td></tr><tr><td> 42</td><td>Littman, Fai D [USA]</td><td>Won 2-1</td><td>vs.</td><td>Bogner, Ryan K [USA]</td></tr><tr><td> 43</td><td>McDermott, Shane R [USA]</td><td>Lost 0-2</td><td>vs.</td><td>Bova, Justin A [USA]</td></tr><tr><td> 44</td><td>Ellis, Thomas [USA]</td><td>Won 2-0</td><td>vs.</td><td>Reinhardt, Adam M [CAN]</td></tr><tr><td> 45</td><td>Mehochko, Mark [USA]</td><td>Won 2-0</td><td>vs.</td><td>Napier, Cody R [USA]</td></tr><tr><td> 46</td><td>Pincus, Max [USA]</td><td>Lost 1-2</td><td>vs.</td><td>snook, adam c [USA]</td></tr><tr><td> 47</td><td>Majlaton, Alex S [USA]</td><td>Won 2-0</td><td>vs.</td><td>Gibson, Chris M [USA]</td></tr><tr><td> 48</td><td>Boddy, Kevin M [USA]</td><td>Lost 0-2</td><td>vs.</td><td>Tomitz, Mike [USA]</td></tr><tr><td> 49</td><td>Knapp, Hans M [USA]</td><td>Won 2-0</td><td>vs.</td><td>Blegen, Eric D [USA]</td></tr><tr><td> 50</td><td>Zavala, Alex [USA]</td><td>Won 2-0</td><td>vs.</td><td>Kinney, Michael M [USA]</td></tr><tr><td> 51</td><td>COLE, THOMAS R [USA]</td><td>Won 2-1</td><td>vs.</td><td>Estell, Chaz [USA]</td></tr><tr><td> 52</td><td>Kailing, Michael J [USA]</td><td>Lost 1-2</td><td>vs.</td><td>ladouceur, travis [USA]</td></tr><tr><td> 53</td><td>Fogle, Jack [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Mochal, Ryan J [USA]</td></tr><tr><td> 54</td><td>GRIBSKOV, NIELS [USA]</td><td>Won 2-0</td><td>vs.</td><td>Hersko-Fugitt, Hunter [USA]</td></tr><tr><td> 55</td><td>Yu, Jarvis K [USA]</td><td>Won 2-0</td><td>vs.</td><td>Musser, Dan L [USA]</td></tr><tr><td> 56</td><td>Usary, Marsh S [USA]</td><td>Won 2-0</td><td>vs.</td><td>Newill, Jason W [USA]</td></tr><tr><td> 57</td><td>muzio, timothy [USA]</td><td>Won 2-0</td><td>vs.</td><td>Forsberg, Ryan [USA]</td></tr><tr><td> 58</td><td>Calcano, Christian [USA]</td><td>Lost 0-2</td><td>vs.</td><td>Rubin, Steve [USA]</td></tr><tr><td> 59</td><td>Tenjum, Andrew [USA]</td><td>Won 2-0</td><td>vs.</td><td>Edwards, Cassidy M [USA]</td></tr><tr><td> 60</td><td>Olszowy, John h [USA]</td><td>Lost 0-2</td><td>vs.</td><td>Applegate, David [USA]</td></tr><tr><td> 61</td><td>Carson, Erik [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Jones, Trent A [USA]</td></tr><tr><td> 62</td><td>Dreher, Gregory A [USA]</td><td>Won 2-1</td><td>vs.</td><td>Belty, Alex [USA]</td></tr><tr><td> 63</td><td>Hatlee, Herbie W [USA]</td><td>Won 2-0</td><td>vs.</td><td>Reda, Derek [USA]</td></tr><tr><td> 64</td><td>Milliken, Joshua J [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Tom, Kar Yung E [CAN]</td></tr></tbody></table>

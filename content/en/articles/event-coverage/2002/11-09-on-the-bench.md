@@ -1,0 +1,109 @@
+---
+id: 4k6kaxm5
+kind: event
+lang: en
+path: /en/articles/event-coverage/2002/11-09-on-the-bench
+title: On the Bench
+published: '2002-11-09'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/bench-2002-11-09
+    lang_detected: en
+    capture_id: 332737
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/bench-2002-11-09
+    captured_at: '2017-10-29 05:37:41+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/bench-2002-11-09
+    lang_detected: en
+    capture_id: 332737
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/bench-2002-11-09
+    captured_at: '2017-10-29 05:37:41+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: 4k6kaxm5
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/bench-2002-11-09
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/bench-2002-11-09
+  lang: en
+  template: drupal
+  captured_at: '2017-10-29 05:37:41+00'
+  capture_id: 332737
+  wayback_url: https://web.archive.org/web/20171029053741id_/https://magic.wizards.com/en/articles/archive/event-coverage/bench-2002-11-09
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 4k6kaxm5
+  capture_id: 332737
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/bench-2002-11-09
+  wayback_url: https://web.archive.org/web/20171029053741id_/https://magic.wizards.com/en/articles/archive/event-coverage/bench-2002-11-09
+  captured_at: '2017-10-29 05:37:41+00'
+  template: drupal
+  sha256: 85aacedc051130311efab558611c8b0cbf64dd6744a2e95a7e7d79a587b88784
+render_recovery: []
+---
+When the Rotation to the New Extended was announced, there was a vocal minority of players who claimed that it would be like playing old Standard, with all the best decks harvested from the years before. There were also a number who held the extreme opposite: That there were too many established decks that were virtually unaffected by the rotation, like Tinker, and that because of these decks Extended would just be more of the same.
+
+The reality is apart from both of those. The new card pool has drummed up new decks and reinterpretations of old ones. In the shifting metagame, cards that used to be on everyone's mind get set aside for new, better threats and answers. Here's a look at some of the cards from yesteryear that haven't persisted.
+
+**Morphling**
+
+![Morphling](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Morphling)
+
+Poor, poor Superman. There's just no place for the "Best Creature Ever Printed" these days. The shortage of blue pure control decks (though there are a few, such as Ed Fear's) means that their kill card of choice just isn't showing up. Meanwhile, The Rock dominates by throwing out Spiritmongers, a creature that barely saw play in Standard Constructed when it was legal. How times have changed.
+
+**Flametongue Kavu**
+
+![Flametongue Kavu](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Flametongue+Kavu)
+
+Speaking of which, didn't this guy get crammed into any Standard deck that could make room for red mana? If Spiritmonger could get called up to the big leagues, why not this pervasive four-of? Seeing the field, the answer is obvious: He just doesn't do enough. Fatties he can't kill come out too quickly, and against aggressive weenie decks the Flametongue player is dead before their two-for-one can matter. It's just odd to see FTK and Spiritmonger undergo this reversal of fortune.
+
+**Tradewind Rider**
+
+![Tradewind Rider](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Tradewind+Rider)
+
+Remember when William Jensen won the Extended Masters with Tradewind-Survival? Ok, maybe examples involving a snapped-in-half card like Survival of the Fittest isn't the best way to sell Tradewind Rider. The thing about Tradewind is that it's a fan favorite, and though everybody knows that it doesn't give enough bang for its four mana price tag, they've still got rose-colored memories of frustrating opponents with it. It has been seen in some rebel decks, but even the Awakening decks have left their Tradewinds at home. 
+
+**Wild Dogs**
+
+![Wild Dogs](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Wild+Dogs)
+
+And what happened to Stompy? The release of *Onslaught* and its new fetchlands had lots of players guffawing about the possibility of a 3-Land Stompy, but it just never came together. The loss of Winter Orb hurt the most, turning its disruptive plan into "Make guys, attack with them". That sort of thing is best left to Sligh.
+
+**Quirion Dryad**
+
+![Quirion Dryad](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Quirion+Dryad)
+
+Alan Comer's little monster that could defined last year's Extended Qualifier season. All the cantrips are still in place, as is most of the free countermagic, but no variant of Gro is being played. The loss of Winter Orb is bad, but without Tropical Island, the mana becomes a real nightmare. Land Grant can only fetch forest. It feels like it has potential, but needs so much work that people wisely invested their effort elsewhere.
+
+**Armageddon**
+
+![Armageddon](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Armageddon)
+
+After Reanimator and Aluren, the best decks are mid-range control decks. That must mean that Armageddon is a good tool against them. The problem is that The Rock has eight mana creatures and Yavimaya Elder, so even against such a painfully slow deck you'll have to work to get the most out of blowing up their lands. Compounding the issue is that aggressive decks, the decks that could best exploit Armaggeddon, are having a tough time overall. 
+
+**Fluctuator**
+
+![Fluctuator](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Fluctuator)
+
+A card that was banned in Standard has to be a candidate for consideration. After all, cycling cards are ripping up Standard as we speak. There's a few roadblocks to making the Fluctuator deck work. Optimizing it means all your lands come into play tapped, slowing the kill down a great deal. Pinpoint discard like Duress and Cabal Therapy are everywhere. The fastest it can reliably kill with Lightning Rift is turn five, and no-one's crazy enough to go for the Vine Dryad - Invigorating Boon kill, particularly with Diabolic Edict lurking around every corner. Or maybe it's just really good, and everyone thought it was already banned in extended.
+
+**Crystalline Sliver**
+
+![Crystalline Sliver](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Crystalline+Sliver)
+
+There's nothing wrong with an aggro-control strategy. The Slivers were great, versatile beatdown. Sure, the mana base was destroyed by the removal of dual lands. Sure, Force of Will took away it's best reactive card. And it doesn't have Demonic Consultation to find tutor up its answers. Or Swords to Plowshares to deal with Reanimator. The sad reality is that all the Slivers are legal, but all the cards that made Slivers good are gone.
+
+**Price of Progress**
+
+![Price of Progress](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Price+of+Progress)
+
+This card used to be the number one killer. Everyone was dual land crazy, splashing for as many powerful effects as they could. Sure, the duals rotated out, but there were still painlands and the Invasion duals. That got pre-empted by *Onslaught*'s fetchlands. Suddenly players could have all the right colors of mana with only basic land in play. There were some painlands, but they weren't everywhere. Pricing for four isn't nearly as incredible as smacking someone around for a dozen.
+
+**Powder Keg**
+
+![Powder Keg](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Powder+Keg)
+
+The New School board sweeper is also taking the weekend off. For one thing, the best aggressive decks are starting off with eight mana Verdant Forces instead of Jackal Pups and Mogg Fanatics. Also, it's just inferior to Pernicious Deed in a lot of situations. Unless mono-blue counter decks lose their fear of goblins don't expect to see many Kegs.

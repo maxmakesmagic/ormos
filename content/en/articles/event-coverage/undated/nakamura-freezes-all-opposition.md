@@ -1,0 +1,1215 @@
+---
+id: fk63g39j
+kind: event
+lang: en
+path: /en/articles/event-coverage/undated/nakamura-freezes-all-opposition
+title: Nakamura Freezes All Opposition
+published: null
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtgevent_gphiro06_welcome
+    lang_detected: en
+    capture_id: 829323
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_gphiro06_welcome
+    captured_at: '2009-06-04 09:50:52+00'
+    rule: aspx.article_heading
+sources:
+- document_id: fk63g39j
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_gphiro06_welcome
+  page_key: wizards.com/magic/magazine/article.aspx?x=mtgevent_gphiro06_welcome
+  lang: en
+  template: aspx
+  captured_at: '2009-06-04 09:50:52+00'
+  capture_id: 829323
+  wayback_url: https://web.archive.org/web/20090604095052id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_gphiro06_welcome
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: fk63g39j
+  capture_id: 829323
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_gphiro06_welcome
+  wayback_url: https://web.archive.org/web/20090604095052id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_gphiro06_welcome
+  captured_at: '2009-06-04 09:50:52+00'
+  template: aspx
+  sha256: 61c07058932ab4fcfd510f9f9775616386465f22a0ce37c900d9553f505b5a1b
+render_recovery:
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Arctic_Flats')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Arctic Flats
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Forest')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Forest
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Scrying_Sheets')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Scrying Sheets
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Snow-Covered_Island')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Snow-Covered Island
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Snow-Covered_Mountain')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Snow-Covered Mountain
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Snow-Covered_Plains')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Snow-Covered Plains
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Snow-Covered_Swamp')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Snow-Covered Swamp
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Swamp')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Swamp
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Aurochs_Herd')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Aurochs Herd
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Balduvian_Fallen')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Balduvian Fallen
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Boreal_Centaur')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Boreal Centaur
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Chilling_Shade')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Chilling Shade
+  occurrences: 9
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Gutless_Ghoul')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Gutless Ghoul
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Haidar,_Rimewind_Master')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Haidar, Rimewind Master
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Karplusan_Strider')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Karplusan Strider
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Krovikan_Scoundrel')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Krovikan Scoundrel
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Rimebound_Dead')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Rimebound Dead
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Rimehorn_Aurochs')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Rimehorn Aurochs
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Ronom_Hulk')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Ronom Hulk
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Into_the_North')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Into the North
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Resize')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Resize
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Rime_Transfusion')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Rime Transfusion
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Skred')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Skred
+  occurrences: 9
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sound_the_Call')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sound the Call
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Balduvian_Warlord')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Balduvian Warlord
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Commandeer')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Commandeer
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Counterbalance')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Counterbalance
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Drelnoch')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Drelnoch
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Fury_of_the_Horde')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Fury of the Horde
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Goblin_Rimerunner')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Goblin Rimerunner
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Rite_of_Flame')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Rite of Flame
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Survivor_of_the_Unseed')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Survivor of the Unseed
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Thermopod')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Thermopod
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Plains')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Plains
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Snow-Covered_Forest')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Snow-Covered Forest
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Boreal_Griffin')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Boreal Griffin
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Bull_Aurochs')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Bull Aurochs
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Field_Marshal')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Field Marshal
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Frostweb_Spider')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Frostweb Spider
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Juniper_Order_Ranger')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Juniper Order Ranger
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Squall_Drifter')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Squall Drifter
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Surging_Sentinels')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Surging Sentinels
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Ursine_Fylgja')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Ursine Fylgja
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Gelid_Shackles')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Gelid Shackles
+  occurrences: 14
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Surging_Might')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Surging Might
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Swift_Maneuver')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Swift Maneuver
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kjeldorian_Javelineer')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kjeldorian Javelineer
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Luminesce')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Luminesce
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Martyr_of_Sands')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Martyr of Sands
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Martyr_of_Spores')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Martyr of Spores
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Phyrexian_Soulgorger')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Phyrexian Soulgorger
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sun[s_Bounty')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sun's Bounty
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Island')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Island
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Tresserhorn_Sinks')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Tresserhorn Sinks
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Frost_Raptor')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Frost Raptor
+  occurrences: 9
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kjeldorian_Gargoyle')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kjeldorian Gargoyle
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Phyrexian_Ironfoot')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Phyrexian Ironfoot
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Rimewind_Taskmage')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Rimewind Taskmage
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Ronom_Serpent')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Ronom Serpent
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Zombie_Musher')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Zombie Musher
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Chill_to_the_Bone')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Chill to the Bone
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Frozen_Solid')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Frozen Solid
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Grim_Harvest')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Grim Harvest
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Krovikan_Rot')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Krovikan Rot
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Rune_Snag')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Rune Snag
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Vanish_into_Memory')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Vanish into Memory
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Krovikan_Mist')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Krovikan Mist
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Martyr_of_Bones')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Martyr of Bones
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Martyr_of_Frost')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Martyr of Frost
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Ronom_Unicorn')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Ronom Unicorn
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Surging_AEther')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Surging AEther
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Tresserhorn_Skyknight')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Tresserhorn Skyknight
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Boreal_Shelf')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Boreal Shelf
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mountain')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mountain
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Darien,_King_of_Kjeldor')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Darien, King of Kjeldor
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kjeldorian_Outrider')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kjeldorian Outrider
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Ohran_Yeti')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Ohran Yeti
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sunscour')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sunscour
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Surging_Flames')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Surging Flames
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Goblin_Furrier')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Goblin Furrier
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Greater_Stone_Spirit')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Greater Stone Spirit
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Karplusan_Wolverine')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Karplusan Wolverine
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kjeldorian_War_Cry')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kjeldorian War Cry
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Martyr_of_Ashes')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Martyr of Ashes
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Arctic_Nishoba')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Arctic Nishoba
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Simian_Brawler')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Simian Brawler
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Jester[s_Scepter')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Jester's Scepter
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Shape_of_the_Wiitigo')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Shape of the Wiitigo
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Brooding_Saurian')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Brooding Saurian
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Freyalise[s_Radiance')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Freyalise's Radiance
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Jotun_Grunt')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Jotun Grunt
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sheltering_Ancient')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sheltering Ancient
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('White_Shield_Crusader')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - White Shield Crusader
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Boreal_Druid')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Boreal Druid
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Bull_Auroches')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Bull Auroches
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Lovissa_Coldeyes')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Lovissa Coldeyes
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Phyrexian_Snowcrusher')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Phyrexian Snowcrusher
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Lightning_Storm')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Lightning Storm
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Wilderness_Elemental')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Wilderness Elemental
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Frost_Marsh')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Frost Marsh
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Deepfire_Elemental')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Deepfire Elemental
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Disciple_of_Tevesh_Szat')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Disciple of Tevesh Szat
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Garza_Zol,_Plague_Queen')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Garza Zol, Plague Queen
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Garza[s_Assassin')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Garza's Assassin
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Orcish_Bloodpainter')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Orcish Bloodpainter
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Stalking_Yeti')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Stalking Yeti
+  occurrences: 9
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Feast_of_Flesh')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Feast of Flesh
+  occurrences: 12
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Controvert')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Controvert
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Highland_Weald')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Highland Weald
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Icefall')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Icefall
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Magmatic_Core')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Magmatic Core
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Thermal_Flux')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Thermal Flux
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Phobian_Phantasm')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Phobian Phantasm
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Stromgald_Crusader')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Stromgald Crusader
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Survivor_of_the_Unseen')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Survivor of the Unseen
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Void_Maw')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Void Maw
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Deathmark')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Deathmark
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Krovikan_Whispers')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Krovikan Whispers
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mishra[s_Bauble')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mishra's Bauble
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Perilous_Research')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Perilous Research
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Balduvian_Frostwaker')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Balduvian Frostwaker
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Flashfreeze')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Flashfreeze
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Surgin_AEther')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Surgin AEther
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Gruul_Guildmage')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Gruul Guildmage
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Civic_Wayfinder')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Civic Wayfinder
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Jotun_Owl_Keeper')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Jotun Owl Keeper
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Adarkar_Valkyrie')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Adarkar Valkyrie
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kjeldoran_War_Cry')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kjeldoran War Cry
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Angel_of_Despair')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Angel of Despair
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Blizzard_Specter')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Blizzard Specter
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Rimescale_Dragon')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Rimescale Dragon
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Simic_Sky_Swallower')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Simic Sky Swallower
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Burning-Tree_Shaman')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Burning-Tree Shaman
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Glare_of_Subdual')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Glare of Subdual
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Coldsteel_Heart')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Coldsteel Heart
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Flame_Fusillade')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Flame Fusillade
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mouth_of_Ronom')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mouth of Ronom
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Bottled_Cloister')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Bottled Cloister
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sunhome,_Fortress_of_the_Legion')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sunhome, Fortress of the Legion
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Birds_of_Paradise')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Birds of Paradise
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Heidar,_Rimewind_Master')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Heidar, Rimewind Master
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Surging_Flame')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Surging Flame
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kjeldoran_Outrider')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kjeldoran Outrider
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('scrying_sheets')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Wakestone_Gargoyle')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Wakestone Gargoyle
+  occurrences: 1
+---
+[日本語の取材へ](/en/events/2006/gphiro06ja/live-coverage-of-2006-grand-prix-hiroshima) 
+
+![](https://i.ormos.uk/84/e8/84e802a219e7949c50d965d1687bae466e9bd42d78b6fe1a252b33978f0c5721.jpg)
+
+Grand Prix Hiroshima is over! After facing typhoon scares and 17 rounds of fierce opposition, Shuuhei Nakamura is the champion. His snow strategy was a success for him all weekend, and it carried him to the finals against Portuguese student Andre Coimbra. Some poor draws and unusual decision from Andre gave Shuuhei the openings he needed, and he exploited those opportunities to the fullest. In two straight games, Shuuhei dispatched his final opponent and claimed the winner's trophy. Congratulations to Shuuhei Nakamura, the 2006 Grand Prix Hiroshima winner!
+
+  
+  
+  
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;    </td><td>Quarterfinals </td>&#10;    <td> </td>&#10;    <td>Semifinals </td>&#10;    <td> </td>&#10;    <td>Finals </td>&#10;    <td> </td>&#10;    <td>Champion </td>&#10;  </tr>&#10;  <tr>&#10;    <td>1</td>&#10;    <td>&#10;      Andre Coimbra&#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Andre Coimbra, 2-1&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3"> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>8</td>&#10;    <td>&#10;      Kentarou Nonaka&#10;    </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3">&#10;      Andre Coimbra, 2-0&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>4</td>&#10;    <td>&#10;      Basam Tabet&#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Basam Tabet, 2-0&#10;    </td>&#10;    <td rowspan="5"> </td>&#10;    <td rowspan="5">&#10;      Shuhei Nakamura, 2-0&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>5</td>&#10;    <td>&#10;      Ichirou Shimura&#10;    </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3"> </td>&#10;  </tr>&#10;  <tr>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>2</td>&#10;    <td>&#10;      Takahiro Suzuki&#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Takahiro Suzuki, 2-0&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>7</td>&#10;    <td>&#10;      Julien Nuijten&#10;    </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3">&#10;      Shuhei Nakamura, 2-1&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>3</td>&#10;    <td>&#10;      Yuusuke Wakisaka&#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Shuhei Nakamura, 2-1&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>6</td>&#10;    <td>&#10;      Shuhei Nakamura&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;</tbody></table>
+
+  
+  
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <b>EVENT COVERAGE</b>&#10;    </td>&#10;    <td>&#10;      <b>FINAL TOP 8 STANDINGS</b>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <ul>&#10;        <br>&#10;        <li>&#10;          <a href="#9">Blog - 11:30 p.m.</a> - Finals: Shuuhei Nakamura vs. Andre Coimbra <div><i>by Noah Weil</i></div></li>&#10;        <li>&#10;          <a href="#8">Blog - 11:05 p.m.</a> - Semifinals Basam Tabet vs. Andre Coimbra <div><i>by Noah Weil</i></div></li>&#10;        <li>&#10;          <a href="#7">Blog - 10:53 p.m.</a> - Quarterfinals: Julien Nuijten vs. Takahiro Suzuki <div><i>by Pierre Canali</i></div></li>&#10;        <li>&#10;          <a href="#6">Blog - 10:41 p.m.</a> - Quarterfinals Shuuhei Nakamura vs. Yuusuke Wakisaka <div><i>by Noah Weil</i></div></li>&#10;        <li>&#10;          <a href="#5">Blog - 9:55 p.m.</a> - Quarterfinals: Basam Tabet vs. Ichirou Shimura <div><i>by Eli Kaplan</i></div></li>&#10;        <li>&#10;          <a href="#4">Blog - 9:39 p.m.</a> - Top 8 Draft: Kentarou Nonaka <div><i>by Eli Kaplan</i></div></li>&#10;        <li>&#10;          <a href="#3">Blog - 9:22 p.m.</a> - Top 8 Draft: Shuuhei Nakamura <div><i>by Noah Weil</i></div></li>&#10;        <li>&#10;          <a href="#2">Blog - 8:48 p.m.</a> - The Top 8 Player Profiles <div><i>by Event Coverage Staff</i></div></li>&#10;        <li>&#10;          <a href="#1">Blog - 8:15 p.m.</a> - Decklists: The Top 8 Decks <div><i>by Event Coverage Staff</i></div></li>&#10;        <br>&#10;        <hr>&#10;        <br>&#10;        <li>&#10;          <a href="/en/events/2006/gphiro06/day-2-blog-archive">Day 2 Blog Archive</a>: Brian Snoddy, Draft Reports, Feature Matches, and More! <div><i>by Event Coverage Staff</i></div></li>&#10;        <li>&#10;          <a href="/tgl/events/2006/gphiro06/round-12-pods">Round 12</a>: Pods <div><i>by Event Coverage Staff</i></div></li>&#10;        <li>&#10;          <a href="/tgl/events/2006/gphiro06/round-9-pods">Round 9</a>: Pods <div><i>by Event Coverage Staff</i></div></li>&#10;        <br>&#10;        <hr>&#10;        <br>&#10;        <li>&#10;          <a href="/en/events/2006/gphiro06/day-1-blog-archive">Day 1 Blog Archive</a>: Undefeated Decklists, Top Pro Play, a Kenji Tsumura Cake, and More! <div><i>by Noah Weil</i></div></li>&#10;        <li>&#10;          <a href="/tgl/events/2006/gphiro06/day-1-player-list">Info</a>: Day 1 Player List <div><i>by Event Coverage Staff</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2006/hiroshima06/grand-prixhiroshima">Info</a>: Fact Sheet <div><i>by Event Coverage Staff</i></div></li>&#10;      </ul>&#10;    </td>&#10;    <td colspan="2">&#10;      &#10;      <table>&#10;        <tbody><tr>&#10;          <td> 1.  <b>Shuhei Nakamura</b></td>&#10;          <td>$2,400</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 2.  <b>Andre Coimbra</b></td>&#10;          <td>$1,700</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 3.  <b>Takahiro Suzuki</b></td>&#10;          <td>$1,200</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 4.  <b>Basam Tabet</b></td>&#10;          <td>$1,000</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 5.  <b>Julien Nuijten</b></td>&#10;          <td>$800</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 6.  <b>Kentarou Nonaka</b></td>&#10;          <td>$800</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 7.  <b>Ichirou Shimura</b></td>&#10;          <td>$800</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 8.  <b>Yuusuke Wakisaka</b></td>&#10;          <td>$800</td>&#10;        </tr>&#10;      </tbody></table>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <b>Pairings</b>&#10;          </td>&#10;          <td>&#10;            <b>Results</b>&#10;          </td>&#10;          <td>&#10;            <b>Standings</b>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;          </td><td>&#10;          </td><td>&#10;            <a href="/tgl/events/2006/gphiro06/final-standings">Final</a>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            <a href="/tgl/events/2006/gphiro06/round-14-pairings">14</a>&#10;            <br>&#10;            <a href="/tgl/events/2006/gphiro06/round-13-pairings">13</a>&#10;            <br>&#10;            <a href="/tgl/events/2006/gphiro06/round-12-pairings">12</a>&#10;            <br>&#10;            <a href="/tgl/events/2006/gphiro06/round-11-pairings">11</a>&#10;            <br>&#10;            <a href="/tgl/events/2006/gphiro06/round-10-pairings">10</a>&#10;            <br>&#10;            <a href="/tgl/events/2006/gphiro06/round-9-pairings">9</a>&#10;          </td>&#10;          <td>&#10;            <a href="/tgl/events/2006/gphiro06/round-14-results">14</a>&#10;            <br>&#10;            <a href="/tgl/events/2006/gphiro06/round-13-results">13</a>&#10;            <br>&#10;            <a href="/tgl/events/2006/gphiro06/round-12-results">12</a>&#10;            <br>&#10;            <a href="/tgl/events/2006/gphiro06/round-11-results">11</a>&#10;            <br>&#10;            <a href="/tgl/events/2006/gphiro06/round-10-results">10</a>&#10;            <br>&#10;            <a href="/tgl/events/2006/gphiro06/round-9-results">9</a>&#10;          </td>&#10;          <td>&#10;            <a href="/tgl/events/2006/gphiro06/round-14-standings">14</a>&#10;            <br>&#10;            <a href="/tgl/events/2006/gphiro06/round-13-standings">13</a>&#10;            <br>&#10;            <a href="/tgl/events/2006/gphiro06/round-12-standings">12</a>&#10;            <br>&#10;            <a href="/tgl/events/2006/gphiro06/round-11-standings">11</a>&#10;            <br>&#10;            <a href="/tgl/events/2006/gphiro06/round-10-standings">10</a>&#10;            <br>&#10;            <a href="/tgl/events/2006/gphiro06/round-9-standings">9</a>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            <a href="/sna/events/2006/gphiro06/round-8-pairings">8</a>&#10;            <br>&#10;            <a href="/sna/events/2006/gphiro06/round-7-pairings">7</a>&#10;            <br>&#10;            <a href="/tgl/events/2006/gphiro06/round-6-pairings">6</a>&#10;            <br>&#10;            <a href="/sna/events/2006/gphiro06/round-5-pairings">5</a>&#10;            <br>&#10;            <a href="/sna/events/2006/gphiro06/round-4-pairings">4</a>&#10;            <br>&#10;            <a href="/tgl/events/2006/gphiro06/round-3-pairings">3</a>&#10;            <br>&#10;            <a href="/tgl/events/2006/gphiro06/round-2-pairings">2</a>&#10;            <br>&#10;            <a href="/tgl/events/2006/gphiro06/round-1-pairings">1</a>&#10;          </td>&#10;          <td>&#10;            <a href="/sna/events/2006/gphiro06/round-8-results">8</a>&#10;            <br>&#10;            <a href="/sna/events/2006/gphiro06/round-7-results">7</a>&#10;            <br>&#10;            <a href="/tgl/events/2006/gphiro06/round-6-results">6</a>&#10;            <br>&#10;            <a href="/sna/events/2006/gphiro06/round-5-results">5</a>&#10;            <br>&#10;            <a href="/sna/events/2006/gphiro06/round-4-results">4</a>&#10;            <br>&#10;            <a href="/tgl/events/2006/gphiro06/round-3-results">3</a>&#10;            <br>&#10;            <a href="/sna/events/2006/gphiro06/round-2-results">2</a>&#10;            <br>&#10;            <a href="/tgl/events/2006/gphiro06/round-1-results">1</a>&#10;          </td>&#10;          <td>&#10;            <a href="/tgl/events/2006/gphiro06/round-8-standings">8</a>&#10;            <br>&#10;            <a href="/tgl/events/2006/gphiro06/round-7-standings">7</a>&#10;            <br>&#10;            <a href="/tgl/events/2006/gphiro06/round-6-standings">6</a>&#10;            <br>&#10;            <a href="/tgl/events/2006/gphiro06/round-5-standings">5</a>&#10;            <br>&#10;            <a href="/tgl/events/2006/gphiro06/round-4-standings">4</a>&#10;            <br>&#10;            <a href="/tgl/events/2006/gphiro06/round-3-standings">3</a>&#10;            <br>&#10;            <a href="/tgl/events/2006/gphiro06/round-2-standings">2</a>&#10;            <br>&#10;            <a href="/tgl/events/2006/gphiro06/round-1-standings">1</a>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;    </td>&#10;  </tr>&#10;</tbody></table>
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <b>BLOG</b>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <br>&#10;      <a name="1">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, Aug. 20: 8:15 p.m. - Decklists: The Top 8 Decks</b>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                 Yuusuke Wakisaka &#10;              </div>&#10;              <div></div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090604095052/https://www.wizards.com/magic/samplehand.asp?x=mtgevent_gphiro06_welcome&amp;decknum=1">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td colspan="2">&#10;                        <p>Main Deck</p>&#10;                        <p>40 cards&#10;                    </p>&#10;                      </td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>1 &#10;                      <a>Arctic Flats</a><br>5 &#10;                      <a>Forest</a><br>1 &#10;                      <a>Scrying Sheets</a><br>2 &#10;                      <a>Snow-Covered Island</a><br>1 &#10;                      <a>Snow-Covered Mountain</a><br>1 &#10;                      <a>Snow-Covered Plains</a><br>1 &#10;                      <a>Snow-Covered Swamp</a><br>5 &#10;                      <a>Swamp</a><br><hr>17 lands<br><br><br>2 &#10;                      <a>Aurochs Herd</a><br>1 &#10;                      <a>Balduvian Fallen</a><br>1 &#10;                      <a>Boreal Centaur</a><br>3 &#10;                      <a>Chilling Shade</a><br>1 &#10;                      <a>Gutless Ghoul</a><br>1 &#10;                      <a>Haidar, Rimewind Master</a><br>1 &#10;                      <a>Karplusan Strider</a><br>1 &#10;                      <a>Krovikan Scoundrel</a><br>1 &#10;                      <a>Rimebound Dead</a><br>1 &#10;                      <a>Rimehorn Aurochs</a><br>1 &#10;                      <a>Ronom Hulk</a><br><hr>14 creatures</td>&#10;                      <td>2 &#10;                      <a>Into the North</a><br>1 &#10;                      <a>Resize</a><br>2 &#10;                      <a>Rime Transfusion</a><br>1 &#10;                      <a>Skred</a><br>3 &#10;                      <a>Sound the Call</a><br><hr>9 other spells</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td>&#10;                        <p>Sideboard</p>&#10;                        <p>&#10;                      </p></td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>1 &#10;                            <a>Balduvian Warlord</a><br>1 &#10;                            <a>Commandeer</a><br>2 &#10;                            <a>Counterbalance</a><br>1 &#10;                            <a>Drelnoch</a><br>2 &#10;                            <a>Fury of the Horde</a><br>1 &#10;                            <a>Goblin Rimerunner</a><br>1 &#10;                            <a>Rite of Flame</a><br>1 &#10;                            <a>Survivor of the Unseed</a><br>1 &#10;                            <a>Thermopod</a><br><hr>11 sideboard cards</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                 Ichirou Shimura &#10;              </div>&#10;              <div></div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090604095052/https://www.wizards.com/magic/samplehand.asp?x=mtgevent_gphiro06_welcome&amp;decknum=2">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td colspan="2">&#10;                        <p>Main Deck</p>&#10;                        <p>40 cards&#10;                    </p>&#10;                      </td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>1 &#10;                      <a>Arctic Flats</a><br>7 &#10;                      <a>Forest</a><br>7 &#10;                      <a>Plains</a><br>1 &#10;                      <a>Snow-Covered Forest</a><br>1 &#10;                      <a>Snow-Covered Plains</a><br><hr>17 lands<br><br><br>1 &#10;                      <a>Aurochs Herd</a><br>1 &#10;                      <a>Boreal Centaur</a><br>1 &#10;                      <a>Boreal Griffin</a><br>1 &#10;                      <a>Bull Aurochs</a><br>1 &#10;                      <a>Field Marshal</a><br>1 &#10;                      <a>Frostweb Spider</a><br>2 &#10;                      <a>Juniper Order Ranger</a><br>1 &#10;                      <a>Ronom Hulk</a><br>1 &#10;                      <a>Squall Drifter</a><br>3 &#10;                      <a>Surging Sentinels</a><br>2 &#10;                      <a>Ursine Fylgja</a><br><hr>15 creatures</td>&#10;                      <td>2 &#10;                      <a>Gelid Shackles</a><br>1 &#10;                      <a>Resize</a><br>4 &#10;                      <a>Surging Might</a><br>1 &#10;                      <a>Swift Maneuver</a><br><hr>8 other spells</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td>&#10;                        <p>Sideboard</p>&#10;                        <p>&#10;                      </p></td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>3 &#10;                            <a>Kjeldorian Javelineer</a><br>1 &#10;                            <a>Luminesce</a><br>1 &#10;                            <a>Martyr of Sands</a><br>2 &#10;                            <a>Martyr of Spores</a><br>1 &#10;                            <a>Phyrexian Soulgorger</a><br>2 &#10;                            <a>Sun's Bounty</a><br>1 &#10;                            <a>Swift Maneuver</a><br><hr>11 sideboard cards</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                 Shuuhei Nakamura &#10;              </div>&#10;              <div></div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090604095052/https://www.wizards.com/magic/samplehand.asp?x=mtgevent_gphiro06_welcome&amp;decknum=3">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td colspan="2">&#10;                        <p>Main Deck</p>&#10;                        <p>40 cards&#10;                    </p>&#10;                      </td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>5 &#10;                      <a>Island</a><br>1 &#10;                      <a>Plains</a><br>1 &#10;                      <a>Scrying Sheets</a><br>2 &#10;                      <a>Snow-Covered Island</a><br>2 &#10;                      <a>Snow-Covered Plains</a><br>2 &#10;                      <a>Snow-Covered Swamp</a><br>4 &#10;                      <a>Swamp</a><br>1 &#10;                      <a>Tresserhorn Sinks</a><br><hr>18 lands<br><br><br>2 &#10;                      <a>Chilling Shade</a><br>1 &#10;                      <a>Frost Raptor</a><br>1 &#10;                      <a>Gutless Ghoul</a><br>1 &#10;                      <a>Haidar, Rimewind Master</a><br>1 &#10;                      <a>Kjeldorian Gargoyle</a><br>1 &#10;                      <a>Phyrexian Ironfoot</a><br>1 &#10;                      <a>Rimebound Dead</a><br>2 &#10;                      <a>Rimewind Taskmage</a><br>2 &#10;                      <a>Ronom Serpent</a><br>1 &#10;                      <a>Zombie Musher</a><br><hr>13 creatures</td>&#10;                      <td>1 &#10;                      <a>Chill to the Bone</a><br>1 &#10;                      <a>Frozen Solid</a><br>1 &#10;                      <a>Gelid Shackles</a><br>1 &#10;                      <a>Grim Harvest</a><br>1 &#10;                      <a>Krovikan Rot</a><br>3 &#10;                      <a>Rune Snag</a><br>1 &#10;                      <a>Vanish into Memory</a><br><hr>9 other spells</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td>&#10;                        <p>Sideboard</p>&#10;                        <p>&#10;                      </p></td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>1 &#10;                            <a>Drelnoch</a><br>2 &#10;                            <a>Krovikan Mist</a><br>1 &#10;                            <a>Krovikan Scoundrel</a><br>1 &#10;                            <a>Martyr of Bones</a><br>1 &#10;                            <a>Martyr of Frost</a><br>1 &#10;                            <a>Ronom Unicorn</a><br>2 &#10;                            <a>Surging AEther</a><br>1 &#10;                            <a>Tresserhorn Skyknight</a><br>1 &#10;                            <a>Vanish into Memory</a><br><hr>11 sideboard cards</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                 Kentarou Nonaka &#10;              </div>&#10;              <div></div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090604095052/https://www.wizards.com/magic/samplehand.asp?x=mtgevent_gphiro06_welcome&amp;decknum=4">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td colspan="2">&#10;                        <p>Main Deck</p>&#10;                        <p>41 cards&#10;                    </p>&#10;                      </td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>1 &#10;                      <a>Boreal Shelf</a><br>9 &#10;                      <a>Mountain</a><br>7 &#10;                      <a>Plains</a><br>1 &#10;                      <a>Snow-Covered Plains</a><br><hr>18 lands<br><br><br>4 &#10;                      <a>Boreal Griffin</a><br>1 &#10;                      <a>Darien, King of Kjeldor</a><br>1 &#10;                      <a>Goblin Rimerunner</a><br>1 &#10;                      <a>Kjeldorian Outrider</a><br>4 &#10;                      <a>Ohran Yeti</a><br>2 &#10;                      <a>Ronom Unicorn</a><br>2 &#10;                      <a>Thermopod</a><br><hr>15 creatures</td>&#10;                      <td>2 &#10;                      <a>Gelid Shackles</a><br>4 &#10;                      <a>Skred</a><br>1 &#10;                      <a>Sunscour</a><br>1 &#10;                      <a>Surging Flames</a><br><hr>8 other spells</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td>&#10;                        <p>Sideboard</p>&#10;                        <p>&#10;                      </p></td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>2 &#10;                            <a>Goblin Furrier</a><br>1 &#10;                            <a>Greater Stone Spirit</a><br>3 &#10;                            <a>Karplusan Wolverine</a><br>1 &#10;                            <a>Kjeldorian Javelineer</a><br>1 &#10;                            <a>Kjeldorian War Cry</a><br>1 &#10;                            <a>Martyr of Ashes</a><br>2 &#10;                            <a>Swift Maneuver</a><br><hr>11 sideboard cards</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                 Basam Tabet &#10;              </div>&#10;              <div></div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090604095052/https://www.wizards.com/magic/samplehand.asp?x=mtgevent_gphiro06_welcome&amp;decknum=5">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td colspan="2">&#10;                        <p>Main Deck</p>&#10;                        <p>40 cards&#10;                    </p>&#10;                      </td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>1 &#10;                      <a>Arctic Flats</a><br>6 &#10;                      <a>Forest</a><br>9 &#10;                      <a>Plains</a><br><hr>16 lands<br><br><br>2 &#10;                      <a>Arctic Nishoba</a><br>1 &#10;                      <a>Boreal Centaur</a><br>2 &#10;                      <a>Bull Aurochs</a><br>1 &#10;                      <a>Juniper Order Ranger</a><br>2 &#10;                      <a>Kjeldorian Outrider</a><br>3 &#10;                      <a>Martyr of Sands</a><br>1 &#10;                      <a>Martyr of Spores</a><br>1 &#10;                      <a>Ronom Unicorn</a><br>1 &#10;                      <a>Simian Brawler</a><br>1 &#10;                      <a>Squall Drifter</a><br>1 &#10;                      <a>Ursine Fylgja</a><br><hr>16 creatures</td>&#10;                      <td>1 &#10;                      <a>Gelid Shackles</a><br>1 &#10;                      <a>Jester's Scepter</a><br>5 &#10;                      <a>Kjeldorian War Cry</a><br>1 &#10;                      <a>Shape of the Wiitigo</a><br><hr>8 other spells</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td>&#10;                        <p>Sideboard</p>&#10;                        <p>&#10;                      </p></td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>1 &#10;                            <a>Brooding Saurian</a><br>1 &#10;                            <a>Freyalise's Radiance</a><br>1 &#10;                            <a>Frostweb Spider</a><br>1 &#10;                            <a>Into the North</a><br>1 &#10;                            <a>Jotun Grunt</a><br>1 &#10;                            <a>Kjeldorian Gargoyle</a><br>1 &#10;                            <a>Shape of the Wiitigo</a><br>1 &#10;                            <a>Sheltering Ancient</a><br>1 &#10;                            <a>Simian Brawler</a><br>1 &#10;                            <a>White Shield Crusader</a><br><hr>10 sideboard cards</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                 Julien Nuijten &#10;              </div>&#10;              <div></div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090604095052/https://www.wizards.com/magic/samplehand.asp?x=mtgevent_gphiro06_welcome&amp;decknum=6">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td colspan="2">&#10;                        <p>Main Deck</p>&#10;                        <p>40 cards&#10;                    </p>&#10;                      </td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>7 &#10;                      <a>Forest</a><br>7 &#10;                      <a>Mountain</a><br>2 &#10;                      <a>Snow-Covered Forest</a><br><hr>16 lands<br><br><br>1 &#10;                      <a>Arctic Nishoba</a><br>1 &#10;                      <a>Aurochs Herd</a><br>1 &#10;                      <a>Boreal Centaur</a><br>5 &#10;                      <a>Boreal Druid</a><br>2 &#10;                      <a>Bull Auroches</a><br>1 &#10;                      <a>Goblin Rimerunner</a><br>1 &#10;                      <a>Lovissa Coldeyes</a><br>1 &#10;                      <a>Ohran Yeti</a><br>1 &#10;                      <a>Phyrexian Snowcrusher</a><br>1 &#10;                      <a>Rimehorn Aurochs</a><br>2 &#10;                      <a>Ronom Hulk</a><br>2 &#10;                      <a>Simian Brawler</a><br><hr>19 creatures</td>&#10;                      <td>1 &#10;                      <a>Lightning Storm</a><br>1 &#10;                      <a>Resize</a><br>3 &#10;                      <a>Surging Flames</a><br><hr>5 other spells</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td>&#10;                        <p>Sideboard</p>&#10;                        <p>&#10;                      </p></td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>1 &#10;                            <a>Frostweb Spider</a><br>2 &#10;                            <a>Goblin Furrier</a><br>1 &#10;                            <a>Karplusan Wolverine</a><br>2 &#10;                            <a>Martyr of Spores</a><br>1 &#10;                            <a>Sound the Call</a><br>1 &#10;                            <a>Wilderness Elemental</a><br><hr>8 sideboard cards</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                 André Coimbra &#10;              </div>&#10;              <div></div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090604095052/https://www.wizards.com/magic/samplehand.asp?x=mtgevent_gphiro06_welcome&amp;decknum=7">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td colspan="2">&#10;                        <p>Main Deck</p>&#10;                        <p>40 cards&#10;                    </p>&#10;                      </td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>2 &#10;                      <a>Frost Marsh</a><br>1 &#10;                      <a>Island</a><br>7 &#10;                      <a>Mountain</a><br>7 &#10;                      <a>Swamp</a><br>1 &#10;                      <a>Tresserhorn Sinks</a><br><hr>18 lands<br><br><br>1 &#10;                      <a>Deepfire Elemental</a><br>2 &#10;                      <a>Disciple of Tevesh Szat</a><br>1 &#10;                      <a>Garza Zol, Plague Queen</a><br>1 &#10;                      <a>Garza's Assassin</a><br>2 &#10;                      <a>Greater Stone Spirit</a><br>1 &#10;                      <a>Gutless Ghoul</a><br>3 &#10;                      <a>Martyr of Ashes</a><br>2 &#10;                      <a>Orcish Bloodpainter</a><br>1 &#10;                      <a>Stalking Yeti</a><br><hr>14 creatures</td>&#10;                      <td>3 &#10;                      <a>Chill to the Bone</a><br>1 &#10;                      <a>Feast of Flesh</a><br>2 &#10;                      <a>Grim Harvest</a><br>1 &#10;                      <a>Krovikan Rot</a><br>1 &#10;                      <a>Surging Flames</a><br><hr>8 other spells</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td>&#10;                        <p>Sideboard</p>&#10;                        <p>&#10;                      </p></td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>1 &#10;                            <a>Controvert</a><br>1 &#10;                            <a>Frost Raptor</a><br>1 &#10;                            <a>Frozen Solid</a><br>1 &#10;                            <a>Highland Weald</a><br>1 &#10;                            <a>Icefall</a><br>2 &#10;                            <a>Karplusan Wolverine</a><br>1 &#10;                            <a>Magmatic Core</a><br>2 &#10;                            <a>Martyr of Bones</a><br>2 &#10;                            <a>Martyr of Frost</a><br>1 &#10;                            <a>Rimebound Dead</a><br>1 &#10;                            <a>Rite of Flame</a><br>1 &#10;                            <a>Thermal Flux</a><br>1 &#10;                            <a>Thermopod</a><br><hr>16 sideboard cards</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                 Takahiro Suzuki &#10;              </div>&#10;              <div></div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090604095052/https://www.wizards.com/magic/samplehand.asp?x=mtgevent_gphiro06_welcome&amp;decknum=8">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td colspan="2">&#10;                        <p>Main Deck</p>&#10;                        <p>40 cards&#10;                    </p>&#10;                      </td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>5 &#10;                      <a>Island</a><br>2 &#10;                      <a>Snow-Covered Island</a><br>1 &#10;                      <a>Snow-Covered Mountain</a><br>1 &#10;                      <a>Snow-Covered Plains</a><br>7 &#10;                      <a>Swamp</a><br>1 &#10;                      <a>Tresserhorn Sinks</a><br><hr>17 lands<br><br><br>1 &#10;                      <a>Chilling Shade</a><br>2 &#10;                      <a>Frost Raptor</a><br>2 &#10;                      <a>Gutless Ghoul</a><br>1 &#10;                      <a>Phobian Phantasm</a><br>1 &#10;                      <a>Stromgald Crusader</a><br>2 &#10;                      <a>Survivor of the Unseen</a><br>1 &#10;                      <a>Void Maw</a><br>2 &#10;                      <a>Zombie Musher</a><br><hr>12 creatures</td>&#10;                      <td>1 &#10;                      <a>Chill to the Bone</a><br>1 &#10;                      <a>Deathmark</a><br>5 &#10;                      <a>Feast of Flesh</a><br>1 &#10;                      <a>Grim Harvest</a><br>1 &#10;                      <a>Krovikan Whispers</a><br>1 &#10;                      <a>Mishra's Bauble</a><br>1 &#10;                      <a>Perilous Research</a><br><hr>11 other spells</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td>&#10;                        <p>Sideboard</p>&#10;                        <p>&#10;                      </p></td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>1 &#10;                            <a>Balduvian Frostwaker</a><br>1 &#10;                            <a>Flashfreeze</a><br>2 &#10;                            <a>Frozen Solid</a><br>1 &#10;                            <a>Martyr of Bones</a><br>1 &#10;                            <a>Martyr of Frost</a><br>1 &#10;                            <a>Rimebound Dead</a><br>1 &#10;                            <a>Rune Snag</a><br>1 &#10;                            <a>Snow-Covered Forest</a><br>1 &#10;                            <a>Surgin AEther</a><br>1 &#10;                            <a>Thermal Flux</a><br><hr>11 sideboard cards</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <br>&#10;      <a name="2">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, Aug. 20: 8:48 p.m. - The Top 8 Player Profiles</b>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <img src="https://i.ormos.uk/69/23/69239738546ee4af59319136ce9ea0d3f3b6ceca031d201517be683db336b604.jpg">&#10;      <p>&#10;        <b>Julien Nuijten</b>&#10;      </p>&#10;      <p>&#10;        <b>Please tell us your age, profession, and place of residence.</b>&#10;        <br> I'm a 17-year-old student. I live in the Netherlands.</p>&#10;      <p>&#10;        <b>What are some of your previous Magic accomplishments?</b>&#10;        <br> I was the 2004 World Champion and Rookie of the Year. I've also been in the Top 8 of a Grand Prix 5 times (winning twice).</p>&#10;      <p>&#10;        <b>What was your record on Day 1, and what cards were most important in the deck?</b>&#10;        <br> I went 4-1 with 3 byes. My best card was easily <a>Gruul Guildmage</a>. <a>Civic Wayfinder</a> was also very good for me.</p>&#10;      <p>&#10;        <b>Tell us about your draft decks, and how they did.</b>&#10;        <br> I went 3-0 in the first draft with a WG deck. In the second draft, I went mostly green with a splash of white, and ended up 2-1.</p>&#10;      <p>&#10;        <b>What type of archetype do you most want to draft in <i>Coldsnap</i>?</b>&#10;        <br> Green! No matter what else, green.</p>&#10;      <p>&#10;        <b>Please tells us what you think the strongest cards from each rarity in <i>Coldsnap</i> are.</b>&#10;        <br>&#10;        <b>Common:</b>&#10;        <a>Ronom Hulk</a> and <a>Boreal Druid</a>.<br><b>Uncommon: </b><a>Resize</a>, <a>Jotun Owl Keeper</a>, <a>Stalking Yeti</a>.<br><b>Rare: </b><a>Adarkar Valkyrie</a>.</p>&#10;      <p>&#10;        <b>Which card do you think was undervalued in today's draft?</b>&#10;        <br>&#10;        <a>Kjeldoran War Cry</a>.</p>&#10;      <img src="https://i.ormos.uk/e7/3a/e73a83e49e8bc38542605f86ca13968e7bc81f196a23233d482729c725a18ba5.jpg">&#10;      <p>&#10;        <b>Shuuhei Nakamura</b>&#10;      </p>&#10;      <p>&#10;        <b>Please tell us your age, profession, and place of residence.</b>&#10;        <br> I'm 24, and live in Osaka.</p>&#10;      <p>&#10;        <b>What are some of your previous Magic accomplishments?</b>&#10;        <br> I was the Finalist at Pro Tour Columbus 2005. I won Grand Prix St. Louis this year, and I won The Finals back in 2002.</p>&#10;      <p>&#10;        <b>What was your record on Day 1, and what cards were most important in the deck?</b>&#10;        <br> I went 3-2 with 3 byes. <a>Angel of Despair</a> was my MVP.</p>&#10;      <p>&#10;        <b>Tell us about your draft decks, and how they did.</b>&#10;        <br> For the first draft, I picked up a UB deck with 2 <a>Blizzard Specter</a>s which took me to 3-0. In the second draft, I went 2-0-1 with a WR deck. It was probably the best deck I've ever drafted.</p>&#10;      <p>&#10;        <b>What type of archetype do you most want to draft in <i>Coldsnap</i>?</b>&#10;        <br> Colors that aren't popular.</p>&#10;      <p>&#10;        <b>Please tells us what you think the strongest cards from each rarity in <i>Coldsnap</i> are.</b>&#10;        <br>&#10;        <b>Common: </b>&#10;        <a>Skred</a>.<br><b>Uncommon: </b><a>Stalking Yeti</a>.<br><b>Rare: </b><a>Rimescale Dragon</a>.</p>&#10;      <p>&#10;        <b>Which card do you think was undervalued in today's draft?</b>&#10;        <br>&#10;        <a>Vanish into Memory</a>.</p>&#10;      <img src="https://i.ormos.uk/9d/81/9d81b2f7f965cadb4d6c5a2aced90a8b7bdbb480ae870c5f1ba26815e36b3592.jpg">&#10;      <p>&#10;        <b>Andre Coimbra</b>&#10;      </p>&#10;      <p>&#10;        <b>Please tell us your age, profession, and place of residence.</b>&#10;        <br> I'm a 20-year-old student from Portugal.</p>&#10;      <p>&#10;        <b>What are some of your previous Magic accomplishments?</b>&#10;        <br> I was in the Top 8 of last year's Worlds. I was also in the Top 8 of Grand Prix Malmö, and I've been in the Top 8 of Portuguese Nationals twice.</p>&#10;      <p>&#10;        <b>What was your record on Day 1, and what cards were most important in the deck?</b>&#10;        <br> I went 3-2 with 3 byes. My best card was <a>Simic Sky Swallower</a>.</p>&#10;      <p>&#10;        <b>Tell us about your draft decks, and how they did.</b>&#10;        <br> I went 3-0 in the first set with a BG fatty deck. I posted a record of 2-0-1 in the second draft with another BG deck that had lots of removal.</p>&#10;      <p>&#10;        <b>What type of archetype do you most want to draft in <i>Coldsnap</i>?</b>&#10;        <br> Black and green. These colors together give you removal and fatties.</p>&#10;      <p>&#10;        <b>Please tells us what you think the strongest cards from each rarity in <i>Coldsnap</i> are.</b>&#10;        <br>&#10;        <b>Common: </b>&#10;        <a>Ronom Hulk</a>.<br><b>Uncommon: </b><a>Arctic Nishoba</a>.<br><b>Rare: </b><a>Rimescale Dragon</a>.</p>&#10;      <p>&#10;        <b>Which card do you think was undervalued in today's draft?</b>&#10;        <br>&#10;        <a>Martyr of Ashes</a>.</p>&#10;      <img src="https://i.ormos.uk/96/77/9677a1f4834374ce78f081be718de5d82d4fed02949858c07927662eddb8ea9a.jpg">&#10;      <p>&#10;        <b>Takahiro Suzuki</b>&#10;      </p>&#10;      <p>&#10;        <b>Please tell us your age, profession, and place of residence.</b>&#10;        <br> I'm 18, and I live in Tokyo. I'm currently working in a MP's office.</p>&#10;      <p>&#10;        <b>What are some of your previous Magic accomplishments?</b>&#10;        <br> I was in the Top 8 of Pro Tour Charleston.</p>&#10;      <p>&#10;        <b>What was your record on Day 1, and what cards were most important in the deck?</b>&#10;        <br> I went 3-1-1 with 3 byes. I had <a>Burning-Tree Shaman</a> and <a>Glare of Subdual</a>…And lost when I had both out.</p>&#10;      <p>&#10;        <b>Tell us about your draft decks, and how they did.</b>&#10;        <br> For the first draft, I chose a UB deck with 2 <a>Krovikan Whispers</a> and went 3-0. Then, I picked a BRG deck with 3 <a>Coldsteel Heart</a>s and a <a>Rimescale Dragon</a> that also went 3-0.</p>&#10;      <p>&#10;        <b>What type of archetype do you most want to draft in <i>Coldsnap</i>?</b>&#10;        <br> Kindle cards.</p>&#10;      <p>&#10;        <b>Please tells us what you think the strongest cards from each rarity in <i>Coldsnap</i> are.</b>&#10;        <br>&#10;        <b>Common: </b>&#10;        <a>Island</a>. After that, <a>Zombie Musher</a>.<br><b>Uncommon: </b><a>Krovikan Whispers</a>.<br><b>Rare: </b><a>Rimescale Dragon</a>.</p>&#10;      <p>&#10;        <b>Which card do you think was undervalued in today's draft?</b>&#10;        <br>&#10;        <a>Feast of Flesh</a>.</p>&#10;      <img src="https://i.ormos.uk/d6/5c/d65c0c57a62d670ffd2999a36b255719ecc35c9c79941bd6bb126912c670b37f.jpg">&#10;      <p>&#10;        <b>Basam Tabet</b>&#10;      </p>&#10;      <p>&#10;        <b>Please tell us your age, profession, and place of residence.</b>&#10;        <br> I'm a 26-year-old bar manager from England.</p>&#10;      <p>&#10;        <b>What are some of your previous Magic accomplishments?</b>&#10;        <br> My best achievement to date is coming to this Grand Prix and making Top 8 with no byes!</p>&#10;      <p>&#10;        <b>What was your record on Day 1, and what cards were most important in the deck?</b>&#10;        <br> I went 7-1. It was all thanks to <a>Flame Fusillade</a>.</p>&#10;      <p>&#10;        <b>Tell us about your draft decks, and how they did.</b>&#10;        <br> I didn't do so well in the first draft-I went 1-1-1 with a WG deck that had lots of <a>Surging Sentinels</a>. For the second draft, I ended up with a mono-white deck that had multiple <a>Gelid Shackles</a>. That one went 3-0.</p>&#10;      <p>&#10;        <b>What type of archetype do you most want to draft in <i>Coldsnap</i>?</b>&#10;        <br> I've been drafting <i>Ravnica</i> too much and haven't paid much attention to <i>Coldsnap</i>.</p>&#10;      <p>&#10;        <b>Please tells us what you think the strongest cards from each rarity in <i>Coldsnap</i> are.</b>&#10;        <br>&#10;        <b>Common: </b>&#10;        <a>Kjeldoran War Cry</a> and <a>Surging Sentinels</a>.<br><b>Uncommon: </b><a>Mouth of Ronom</a>.<br><b>Rare: </b><a>Adarkar Valkyrie</a>.</p>&#10;      <p>&#10;        <b>Which card do you think was undervalued in today's draft?</b>&#10;        <br>&#10;        <a>Surging Sentinels</a>.</p>&#10;      <img src="https://i.ormos.uk/f7/12/f71206f147de6acb0d884c8fa0aba4ffbfeb30bd4c5ad9f5d72c77f791d24069.jpg">&#10;      <p>&#10;        <b>Ichirou Shimura</b>&#10;      </p>&#10;      <p>&#10;        <b>Please tell us your age, profession, and place of residence.</b>&#10;        <br> I'm a 23-year-old student from Ibaraki.</p>&#10;      <p>&#10;        <b>What are some of your previous Magic accomplishments?</b>&#10;        <br> I won Grand Prix Sendai 2004, took 3rd place in Pro Tour Seattle, and won the 2005 Worlds team event.</p>&#10;      <p>&#10;        <b>What was your record on Day 1, and what cards were most important in the deck?</b>&#10;        <br> I went 3-1-1 with 3 byes. I'd have to say my best card was <a>Bottled Cloister</a>.</p>&#10;      <p>&#10;        <b>Tell us about your draft decks, and how they did.</b>&#10;        <br> I had a GR deck with 4 <a>Boreal Centaur</a>s in the first draft and won the pod. I ended up 2-1 in the second draft with a RB deck that had 6 Mushers.</p>&#10;      <p>&#10;        <b>What type of archetype do you most want to draft in <i>Coldsnap</i>?</b>&#10;        <br> Whatever colors the person feeding me isn't drafting.</p>&#10;      <p>&#10;        <b>Please tells us what you think the strongest cards from each rarity in <i>Coldsnap</i> are.</b>&#10;        <br>&#10;        <b>Common: </b>&#10;        <a>Boreal Centaur</a>.<br><b>Uncommon: </b><a>Stalking Yeti</a>..<br><b>Rare: </b><a>Rimescale Dragon</a>.</p>&#10;      <p>&#10;        <b>Which card do you think was undervalued in today's draft?</b>&#10;        <br>&#10;        <a>Ronom Serpent</a>.</p>&#10;      <img src="https://i.ormos.uk/63/ce/63ce03d7dda3af573538132d69f4d8c0c0f5ffb0dd767e42162699dcc6ff757b.jpg">&#10;      <p>&#10;        <b>Kentarou Nonaka</b>&#10;      </p>&#10;      <p>&#10;        <b>Please tell us your age, profession, and place of residence.</b>&#10;        <br> I'm a freelancer from Osaka. I'm 21.</p>&#10;      <p>&#10;        <b>What are some of your previous Magic accomplishments?</b>&#10;        <br> I was in the Top 8 of Pro Tour Charleston, and in the Top 4 of Grand Prix Matsuyama.</p>&#10;      <p>&#10;        <b>What was your record on Day 1, and what cards were most important in the deck?</b>&#10;        <br> I went 5-0 with 3 byes. I got a lot of mileage from <a>Sunhome, Fortress of the Legion</a>.</p>&#10;      <p>&#10;        <b>Tell us about your draft decks, and how they did.</b>&#10;        <br> The first draft, I went 1-1-1. It was a BG deck with 5 <a>Sound the Call</a> and 4 <a>Feast of Flesh</a>. I was able to go 2-1 in the second draft with a WG deck that had 7 <a>Bull Aurochs</a> and 4 <a>Squall Drifter</a>s.</p>&#10;      <p>&#10;        <b>What type of archetype do you most want to draft in <i>Coldsnap</i>?</b>&#10;        <br> I like white and blue because of all the fliers.</p>&#10;      <p>&#10;        <b>Please tells us what you think the strongest cards from each rarity in <i>Coldsnap</i> are.</b>&#10;        <br>&#10;        <b>Common: </b>&#10;        <a>Skred</a>.<br><b>Uncommon: </b><a>Stalking Yeti</a>.<br><b>Rare: </b><a>Rimescale Dragon</a>.</p>&#10;      <p>&#10;        <b>Which card do you think was undervalued in today's draft?</b>&#10;        <br>&#10;        <a>Feast of Flesh</a>.</p>&#10;      <img src="https://i.ormos.uk/30/eb/30eb40600a3b65f083b3ac9b6fed7fb93b002e7fe1ad90b3139ceb6542bedead.jpg">&#10;      <p>&#10;        <b>Yuusuke Wakisaka</b>&#10;      </p>&#10;      <p>&#10;        <b>Please tell us your age, profession, and place of residence.</b>&#10;        <br> I'm a 21-year-old freelancer from Ehime.</p>&#10;      <p>&#10;        <b>What are some of your previous Magic accomplishments?</b>&#10;        <br> None.</p>&#10;      <p>&#10;        <b>What was your record on Day 1, and what cards were most important in the deck?</b>&#10;        <br> I went 5-0 with 3 byes. Having <a>Birds of Paradise</a> helped me balance my colors.</p>&#10;      <p>&#10;        <b>Tell us about your draft decks, and how they did.</b>&#10;        <br> The first draft, I won 3-0 with a WR deck. My fortune turned the second draft, though, where I went 0-3 with the same colors.</p>&#10;      <p>&#10;        <b>What type of archetype do you most want to draft in <i>Coldsnap</i>?</b>&#10;        <br> A deck with opposing colors.</p>&#10;      <p>&#10;        <b>Please tells us what you think the strongest cards from each rarity in <i>Coldsnap</i> are.</b>&#10;        <br>&#10;        <b>Common: </b>&#10;        <a>Skred</a>.<br><b>Uncommon: </b><a>Stalking Yeti</a>.<br><b>Rare: </b><a>Rimescale Dragon</a>.</p>&#10;      <p>&#10;        <b>Which card do you think was undervalued in today's draft?</b>&#10;        <br>&#10;        <a>Feast of Flesh</a>.</p>&#10;      <br>&#10;      <a name="3">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, Aug. 20: 9:22 p.m. - Top 8 Draft: Shuuhei Nakamura</b>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <p>Shuuhei achieved one of the rarest feats you can do at a Grand Prix. Scraping into day two at exactly 64th place, Shuuhei displayed his powerful <i>Coldsnap</i> chops, all the way to a slot in the top 8. Now he's looking to dominate just one more draft, for the title at GP Hiroshima.</p>&#10;      <p>&#10;        <b>Pack 1</b>&#10;      </p>&#10;      <p>Shuuhei's draft didn't start easy this time around. <a>Karplusan Strider</a>, <a>Gelid Shackles</a>, <a>Grim Harvest</a>, and <a>Phyrexian Ironfoot</a> all jostled and competed for the honor of Shuuhei's first pick. Shuuhei, like a <i>man</i>, avoided commitment and took the artifact creature first.</p>&#10;      <p>Shuuhei was interested in maximizing his Ironfoot though. Of the next pack's <a>Aurochs Herd</a>, <a>Rimehorn Aurochs</a>, and <a>Stromgald Crusader</a>, Shuuhei went with a mere <a>Snow-Covered Swamp</a>. The third pick was an interesting decision between another <a>Snow-Covered Swamp</a>, <a>Zombie Musher</a>, or <a>Juniper Order Ranger</a>. Little did Nakamura-san know the drafter on his right, Andre Coimbra had opened and first-picked <a>Garza Zol, Plague Queen</a>. Had he taken the Ranger here, he would have been wide open for all the Green/White goodies he could handle. However Shuuhei had a plan, and he was determined to go turbo-snow as much as possible. Snow <a>Island</a> and Snow <a>Plains</a> all quickly jumped into Shuuhei's pile. Shuuhei did deviate slightly by taking an early rune Snag, over a <a>Drelnoch</a> and <a>Ohran Yeti</a>. When asked about it after the draft, Shuuhei says he's a big fan of the tempo boost <a>Rune Snag</a> provides and believes the card underrated. Suuhei's first pack ended with two <a>Ronom Serpent</a>s, a <a>Grim Harvest</a> and a very late <a>Frozen Solid</a>. Blue seemed to be the color to be in. Andre on the right decided to focus on Red and Black as his primary application.</p>&#10;      <p>&#10;        <b>Pack 2</b>&#10;      </p>&#10;      <div>&#10;        <div>&#10;          <a>&#10;            <img alt="Heidar, Rimewind Master" src="https://i.ormos.uk/00/49/0049f8e2de26cf6eb2240fa4be9ddf35305983b5dbdaf697e952f29b1dff6fed.jpg">&#10;          </a>&#10;        </div>&#10;      </div>&#10;      <p>A first pick <a>Krovikan Rot</a> was a difficult but welcome addition to the deck, over <a>Frost Raptor</a> and <a>Disciple of Tevesh Szat</a>. The first <a>Rimewind Taskmage</a> arrived for pick two, and a needed <a>Frost Raptor</a> for the third pick. When the fourth pick rolled around, Shuuhei looked momentarily startled to see a <a>Shape of the Wiitigo</a> still in there, but he shrugged it off and took another <a>Rune Snag</a>. <a>Gelid Shackles</a> was an easy fifth pick, castable off at least one <a>Snow-Covered Plains</a> so far. A 6th pick <a>Krovikan Rot</a> was an amazing and happy occurrence for Shuuhei. The next pack had a puzzle: start working on <a>Krovikan Mist</a> or take the consistent but expensive <a>Tresserhorn Skyknight</a>. Shuuhei didn't back down from the challenge and took the Illusion, than another a few picks later. These would be his only two of the draft. The rest of the packs gave Shuuhei Vanish Into Memory, a late <a>Chill to the Bone</a> and <a>Drelnoch</a>.</p>&#10;      <p>&#10;        <b>Pack 3</b>&#10;      </p>&#10;      <p>In a remarkably poor booster, the best Shuuhei could take was a <a>Snow-Covered Swamp</a>, laughing and wincing as he passed <a>Resize</a> to some lucky soul. His second pick was a snow land too, but a little bit better one: <a>Scrying Sheets</a>. The real miracle was an incredible fifth pick <a>Heidar, Rimewind Master</a>. That was the card that Shuuhei needed; a late game bomb that really exploited a multitude of snow permanents. Shuuhei's deck ended on a positive note, and if he draws his chilling permanents is in great shape to take the win. </p>&#10;      <br>&#10;      <a name="4">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, Aug. 20: 9:39 p.m. - Top 8 Draft: Kentarou Nonaka</b>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <p> Who is Kentarou Nonaka? Coming hot off a Top Eight finish at PT Charleston, the Osaka native has been near the top of the standings all weekend. At a table crowded with new and old faces, he had a real opportunity here to cement a name for himself with a win and erase any notion of being a flash in the pan. (Nonaka also boasted the wildest hairstyle of the draft table, always a point of consideration at any Japanese event.) He came in looking to draft a red/white snow archetype.</p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/6d/c0/6dc0fffcee739208e54a1dd36e1e1333725299934ec2498e435189e04c322dd7.jpg">&#10;            <i>Nonaka with reporter Eli Kaplan</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>His first pick was right on the money, handing him a <a>Skred</a>. He passed powerful cards like Juniper Order Druid, <a>Scrying Sheets</a>, and <a>Surging Flame</a>. Next was a <a>Surging Flame</a>. He committed to white with his third pick <a>Boreal Griffin</a>, passing an <a>Arctic Nishoba</a>, <a>Boreal Druid</a>, and <a>Thermopod</a>. Later picks included two <a>Ohran Yeti</a>s, <a>Kjeldoran War Cry</a>, <a>Ronom Unicorn</a>, and a late <a>Martyr of Ashes</a>. </p>&#10;      <p>The hits kept coming in pack two, with two <a>Skred</a>s back to back. He took a <a>Goblin Rimerunner</a> over a snow-covered <a>Mountain</a> as a third pick. He found another <a>Ohran Yeti</a>, two more <a>Boreal Griffin</a>s, and two <a>Swift Maneuver</a>s. The combat step was looking like it'd fall in his favor more often than not.</p>&#10;      <p>The third pack sent him more powerful removal with <a>Gelid Shackles</a>, then <a>Sunscour</a>. A fourth Griffin, <a>Ronom Unicorn</a>, a second <a>Gelid Shackles</a>... the White cards kept drifting through. Nonaka fought the urge to crow as his sixth pick showed him a fourth <a>Skred</a>. <br> &quot;Very good! Very good!&quot;, he quipped as he sat down to register his packs. &quot;I've got so much removal, I don't really care if my curve is so high. I just need to attack, and I can win.&quot; With only two snow lands, his snow creatures' tricks would be hard to activate, but he was confident he could overcome this minor issue. &quot;This is my chance.&quot;</p>&#10;      <br>&#10;      <a name="5">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, Aug. 20: 9:55 p.m. - Quarterfinals: Basam Tabet vs. Ichirou Shimura</b>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <p>Australian Basam Tabet only planned on a short sightseeing holiday, and spent his summer holidays palling around Miyajima and Southern Honshu. After four years of working in London, he wanted to do something exotic. With zero byes, he figured he'd just play in a Grand Prix for fun while taking in the sights of Japan. Never did he think he'd be playing in the Top Eight of the event with a guaranteed 2100 dollars in the bank thanks to the amateur prize. Sometimes vacation asides can become the events of a lifetime. Grand Prix staple Ichirou Shimura welcomed him, as a gracious host should, and wished him good luck.</p>&#10;      <p>Game 1 was a rapid affair. Tabet went first and started with a <a>Martyr of Spores</a>. He followed up with <a>Kjeldoran Outrider</a>. Shimura played Bull Auroch, a cow most in demand this weekend. Tabet sent his men uncontested and made a <a>Ronom Unicorn</a>. Shimura threw a <a>Surging Might</a> on the Auroch and kept it home. Unfortunately for the local, Tabet slapped a <a>Gelid Shackles</a> on the 4/3 and sent the crew. On his next turn, the Australian used one of five Kjeldoran War Cries to knock the home team player down to five.</p>&#10;      <p>Shimura struck back with the Auroch and hoped for safety in the form of an Ursine Fylgia. But Shimura had three green cards in hand. Another Kjeldoran War cry and Martyr pump allowed the Unicorn to deal exactly lethal damage.</p>&#10;      <p>Basam Tabet 1-0 Ichiro Shimura</p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/5d/45/5d45e7be836e605604af9d116df858eb747d001fcf5290f215b13df80767ad37.jpg">&#10;            <i>Basam Tabet had a very aggressive deck</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Shimura played first with a <a>Boreal Shelf</a>, but Tabet had the first play with a <a>Martyr of Sands</a>. &quot;I love these guys! They won me the last three matches.&quot; Shimura had no second turn play, and Tabet made a <a>Kjeldoran Outrider</a>. Shimura kept the pressure off with a <a>Gelid Shackles</a> on the Outrider. Tabet followed up with a <a>Ronom Unicorn</a>, followed by a <a>Squall Drifter</a> and Bull Auroch. Shimura made a Juniper Order Druid, which got promptly tapped by the Drifter. Tabet sent all his men, using the opportunity of a tapped out Shimura to let the Outrider attack and used a <a>Kjeldoran War Cry</a> to knock Shimura down to five. A 4/6 <a>Ursine Fylgja</a> showed up, and Tabet rammed his forces again into the wall, putting Shimura at two.</p>&#10;      <p>Tabet threw a wrench in Shimura's machinery with <a>Jester's Scepter</a>. Shimura couldn't trust in the sanctity of his own spells, making for a very uncomfortable experience. What would happen if he couldn't reliably produce a blocker? </p>&#10;      <p>The game settled into a stall, as Shimura found a <a>Boreal Griffin</a> to keep the air safe. Both players slowly kept adding creatures to the table. Using a 7/6 Bull Auroch with two <a>Surging Might</a>s, Shimura was able to knock Tabet to nine life. Tabet was in top deck mode, waiting for a <a>Kjeldoran War Cry</a> to allow the <a>Squall Drifter</a> to win the game. It never came, but Tabet was able to topdeck just enough creatures to sneak through the last points.</p>&#10;      <p>Underneath the <a>Jester's Scepter</a> lurked <a>Swift Maneuver</a>, <a>Frostweb Spider</a>, and <a>Resize</a>, cards that might have given Shimura a chance to come back.</p>&#10;      <p>Basam Tabet defeats Ichirou Shimura 2-0 to advance to the semifinals.</p>&#10;      <br>&#10;      <a name="6">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, Aug. 20: 10:41 p.m. - Quarterfinals Shuuhei Nakamura vs. Yuusuke Wakisaka</b>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/da/76/da76e06a1d2846b9283e6394a6d1453320cfaeed35176c11d0b4d9bc914a7080.jpg">&#10;            <i>Shuuhei Nakamura was too cool for Wakisaka-san</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>These two competitors' draft decks turned out remarkably similar. Both were running snow builds with the two of the best snow enhancers: <a>Scrying Sheets</a> and Heider, Rimewind Master. Yuusuke was more beatdown oriented with various Aurochs and double <a>Rime Transfusion</a>. Shuuhei went with a more controlling approach involving <a>Rune Snag</a>s, Taskmages and two <a>Ronom Serpent</a>. Which style would prevail? </p>&#10;      <p>Game 1: Both players started with fliers, Shuuhei a <a>Frost Raptor</a> and Yuusuke a <a>Chilling Shade</a>. Yuusuke made the first wince-inducing move, an <a>Into the North</a> that put <a>Scrying Sheets</a> directly into play. <a>Rime Transfusion</a> on <a>Chilling Shade</a> gave it Double Pump Action, and it attacked over a few turns for sizeable damage. Shuuhei remained optimistic, legitimately as it turned out when his <a>Gelid Shackles</a> suppressed the Shade and a <a>Rune Snag</a> countered a <a>Balduvian Fallen</a>. Unfortunately for Shuuhei, his low life made him a prime target for <a>Ronom Hulk</a>. Played alongside a <a>Boreal Centaur</a>, Shuuhei couldn't take the pressure and conceded game 1.</p>&#10;      <p>Nakumura-0<br> Wakisaka-1</p>&#10;      <p>Game 2: Yuusuke started off with all snow lands, but it's Shuuhei's <a>Scrying Sheets</a> that starts the action. A <a>Phyrexian Ironfoot</a> was revealed and enhanced off the snowy rare. Ironfoot started its ferrous pounding as Yuusuke scrambled for answers. <a>Frost Raptor</a> from Shuuhei gave him some additional offense. A <a>Rimehorn Aurochs</a> with a Transfusion held off the Ironfoot for a turn, so Shuuhei upgraded himself with a <a>Ronom Serpent</a>. Yuusuke's <a>Skred</a> was strong enough to kill the Ironfoot, but when the pumped Aurochs was shackled away, Yuusuke had to scoop.</p>&#10;      <div>&#10;        <div>&#10;          <a>&#10;            <img alt="scrying sheets" src="https://i.ormos.uk/50/bf/50bf692b0375865ac36b62334d34fe00ef806a3353bab934b1a061be77a9201a.jpg">&#10;          </a>&#10;        </div>&#10;      </div>&#10;      <p>Nakamura-1<br> Wakisaka-1</p>&#10;      <p>Game 3: Both players start off snow enabled in the final game of the match. Yuusuke's second turn <a>Krovikan Scoundrel</a> + <a>Rime Transfusion</a> crashed in for considerable loss of life. Shuuhei attempted the blocking trade, but <a>Resize</a> effectively kept Scoundrel alive. <a>Gelid Shackles</a> stymied the 2/1, but with Shuuhei already short on lands, he couldn't be happy with his self-inflicted Imprison. Shuuhei's next move was a double <a>Sound the Call</a>. It looked like a fine turn until Shuuhei gained massive card advantage through Vanish Into Memory on a 3/3 token. That boost in hand size gave Shuuhei the jumpstart he needed, and soon he was putting the pressure on his opponent. Yuusuke wasn't quite ready to throw in the towel yet, defending himself through a pair of <a>Aurochs Herd</a>. Both players stared at each for a few turns until Shuuhei drew and cast his <a>Wakestone Gargoyle</a>. The 3/3 flier took bolt-sized chunks away from Yuusuke, and soon sent Shuuhei Nakamura to his semifinal match.</p>&#10;      <p>Nakamura-2<br> Wakisaka-1 </p>&#10;      <br>&#10;      <a name="7">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, Aug. 20: 10:53 p.m. - Quarterfinals: Julien Nuijten vs. Takahiro Suzuki</b>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <p>As predicted, the skillful Julien Nujiten is in the top 8. He is facing Pro Tour Charleston top eighter: Takahiro Suzuki<br> I asked Julien how he felt:<br> &quot;I feel lucky. My deck is good&quot; said the 2004 World Champion.</p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/24/10/2410cf72c5b3142948fb1ae8e813b11e6e49c592a01cda7a97513017f2c1bc4c.jpg">&#10;            <i>Julien's generosity put Takahiro Suzuki in the semifinals</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Julien's deck featured 5 <a>Boreal Druid</a><b>,</b> a couple of Aurochs, a lot of good 3 and 4 mana creatures like the very underrated <a>Goblin Rimerunner</a> and his fist pick: <a>Ronom Hulk</a>. What Julien doesn't knows is that is opponent's deck is very good too, featuring 5 <a>Feast of Flesh</a> that works very well against the <a>Boreal Druid</a>s.</p>&#10;      <p>Game 1:</p>&#10;      <p>Takahiro won the die roll and choose to play first. Upon announcement Julien responded with &quot;majite?&quot;(really?) Takahiro said yes… Julien's trick didn't work.</p>&#10;      <p>Takahiro kept his 7 while Julien mulliganed to 6.</p>&#10;      <p>On turn one, Julien was happy to start with a <a>Boreal Druid</a> but Takahiro respond with the <a>Feast of Flesh</a>. On turn 2 Julien played a <a>Bull Aurochs</a> who was crushed by a second Feast. An <a>Ohran Yeti</a> and a <a>Simian Brawler</a> join Julien's board. This was not enough to disappoint the Japanese player who cast a third <a>Feast of Flesh</a> on the Yeti and a <a>Deathmark</a> on the Brawler. Julien thought that Takahiro would have no more removal for his <a>Phyrexian Snowcrusher</a>. He was only partially wrong when the Snowcrusher stayed in play, but went over to Takahiro's with a <a>Krovikan Whispers</a> along with a <a>Frost Raptor</a>.</p>&#10;      <p>The Dutch player, with only a <a>Boreal Druid</a> and a land was probably thinking about scooping at that point. Next turn, Takahiro drew a card, forgetting to pay the Control Magic upkeep. Julien said that he'd have to pay immediately and Takahiro paid the mana. At this point the judge was not looking and didn't see a thing. In a major display of sportsmanship, Julien went out of his way to remind his opponent to pay the cumulative upkeep. Julien this cost you the game!</p>&#10;      <p>On the next draw step, Julien scooped with only a land in hand.</p>&#10;      <div>&#10;        <div>&#10;          <a>&#10;            <img alt="Krovikan Whispers" src="https://i.ormos.uk/e2/6a/e26a99ca6d4da47114dab3a0952e7c07c56c7e72489532f797f0d0a4946d16cd.jpg">&#10;          </a>&#10;        </div>&#10;      </div>&#10;      <p>Takahiro 1 Julien 0</p>&#10;      <p>Game 2:</p>&#10;      <p>Nujiten stated with a druid again, Takahiro responded with a <a>Feast of Flesh</a> again.<br> On turn two, Julien played another Druid that allowed him to play an <a>Aurochs Herd</a> on turn 5. Suzuki-san countered it with a <a>Flashfreeze</a>. Julien played a turn 6 <a>Phyrexian Snowcrusher</a>, once again taken by Takahiro thanks to a <a>Krovikan Whispers</a>.<br> Julien had to block it with a <a>Simian Brawler</a>, discarding two lands in the process.<br> Takahiro's <a>Zombie Musher</a> and Rimebound Dead were beating Julien more and more.<br> Two turn later Julien's life was very low. <a>Arctic Nishoba</a> from the top was very welcome. Julien blocked the 1/1 with the 6/6. After Takahiro regenerated, he played a second and third <a>Feast of Flesh</a>. Julien couldn't come back after that and fell to Takahiro's creatures.</p>&#10;      <p>Takahiro 2 Julien 0</p>&#10;      <br>&#10;      <a name="8">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, Aug. 20: 11:05 p.m. - Semifinals Basam Tabet vs. Andre Coimbra</b>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <p>Watching Andre work I'm struck by how often he had <a>Garza Zol, Plague Queen</a> in his opening hand. Do they have a thing? Opposing Andre's removal heavy deck is British pub master Basam Tabet, he of the aggro G/W variety. </p>&#10;      <p>Game 1: Basam was stuck on land for too long this game, while Andre leisurely killed Basam's inexpensive creatures, trying to get up to Garza Zol mana. A <a>Jester's Scepter</a> from Tabet broke Andre's reverie.</p>&#10;      <p>Coimbra: &quot;Everyone plays that card against me!&quot;</p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/61/3b/613bf18ee75c73e7b870294b17de244efb5b680bd6108d61ecfcae838f8897f3.jpg">&#10;            <i>Andre Coimbra</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>For all the milling Basam did, it wasn't enough to overcome Andre's hand of <a>Garza's Assassin</a>, <a>Surging Flame</a>, Garza Zol, and <a>Stalking Yeti</a>. Playing just half of those cards was enough to earn Andre game 1.</p>&#10;      <p>Tabet: &quot;That was harsh man&quot;<br> Coimbra: &quot;I have…a very good deck.</p>&#10;      <p>As the competitors shuffled up for the game 2, Basam revealed an insecurity:</p>&#10;      <p>Tabet: &quot;I'd wish you good luck, but you have too many good cards&quot;<br> Coimbra: &quot;Well I wish you good luck anyway.&quot;<br> Basam Tabet mulliganing, exclaiming, &quot;You wished too late!&quot;</p>&#10;      <p>Game 2: Tabet started with two <a>Martyr of Sands</a>, promising swift beatdown and/or lifegain. Andre languidly replied with his own Martyr, <a>Martyr of Ashes</a> AKA The Good One. An upkeep Ashes activation caused serious card disadvantage to Basam. Still, Basam wasn't out of the match yet. <a>Simian Brawler</a>s required an answer, and a late game <a>Arctic Nishoba</a> was a very relevant entry. Andre's <a>Deepfire Elemental</a> and <a>Greater Stone Spirit</a> were doing decent work, but their heavy activation requirements meant <a>Magmatic Core</a> was completely stuck in Andre's hand. Basam decided to take the initiative and attacked with <a>Arctic Nishoba</a>. Andre, tapped out, double blocked with <a>Greater Stone Spirit</a> and an active <a>Orcish Bloodpainter</a>. Here Basam made his critical error. Before damage he cast a <a>Kjeldoran War Cry</a> for one, merely forcing Andre to throw the Bloodpainter at the Nishoba after damage was on the stack. Had Basam waited, Andre <i>might</i> have sacrificed a dying guy to deal a point to Basam, allowing him to cast War Cry to save his 6/6 cat. If Andre didn't sacrifice anything, wary of War Cry, then Basam was up a point of life with War Cry still in hand. Sadly for Tabet, that mistake hurt his chances considerably. Garza Zol hastely attacked soon after and it was all over for the British player. Easing the loss was his own bar waiting for him at home, and the fact his amateur status actually earned him more money than the final Grand Prix winner. Not a bad weekend's work. Andre Coimbra moved on to the finals, to face off against Shuuhei Nakamura.</p>&#10;      <p>Coimbra-2<br> Tabet-0</p>&#10;      <br>&#10;      <a name="9">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, Aug. 20: 11:30 p.m. - Finals: Shuuhei Nakamura vs. Andre Coimbra</b>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/2c/38/2c38720dfb58ffd70694b102e3f28af330a4a8c1e8ab6fbb63ea68da1a992b1a.jpg">&#10;            <i>Shuuhei Nakumura</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>The crowd grew hushed as the finalists were introduced. Representing the peoples' choice was Japan's own Shuuhei Nakamura. Opposing this Japanese superstar was Andre Coimbra, 20-year old Portuguese student who was more than experienced on the international stage. One of these players would take home a large trophy and a nice check for $2,400. The other would have to settle for a mere plaque, and the still significant $1,700 second place money. The crowd was quiet and respectful of both players; Japan had come a long way since foreigners were executed on sight. Yet the locals still had a favorite, the man who could retain the Japanese championship for one more year. Could Shuuhei keep their love?</p>&#10;      <p>Game 1: Andre started off with a very nice hand of four lands, <a>Garza's Assassin</a>, <a>Krovikan Rot</a> and <a>Stalking Yeti</a>. His mana-hungry deck enjoyed having as much land, and time to find land, as possible. Unfortunately for him, Shuuhei's deck was designed to be removal-resistant. Multiple regenerators and counterspells were at Shuuhei's beck and call. This was a trait Andre soon realized as he watched <a>Rimebound Dead</a> strike him over and over, helpless against the 1/1s activated ability. <a>Frost Raptor</a> died to a <a>Krovikan Rot</a>, and a <a>Greater Stone Spirit</a> was tagged with <a>Rune Snag</a>. Still the Dead kept plodding over, until Andre was forced to playing a <a>Stalking Yeti</a> as a simple Hill Giant. A <a>Zombie Musher</a> from Shuuhei gave him more resilient offense, although Andre had no snow-covered lands to walk on. Short on snow mana himself, Shuuhei allowed an attacking Yeti to bluff through an attack. <a>Gutless Ghoul</a> and <a>Garza's Assassin</a> came by later, preferably to set up some recursion tricks. That plan was slightly derailed when the Assassin ended up wearing <a>Gelid Shackles</a>. </p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/99/5b/995b2181bd225d9540972573555a90965cd11c4b2d7f33ac788ba872f1aa735c.jpg">&#10;            <i>Grand Prix finalist Andre Coimbra</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Andre's hand at this point was near-worthless. His double <a>Chill to the Bone</a> had no targets, and a quickly drawn third almost seemed to mock him. <a>Phyrexian Ironfoot</a> didn't improve the situation either. A <a>Greater Stone Spirit</a> off the top did resolve for Andre and he was back in the game, actually able to make some damage happen. Shuuhei tried to find the right combination of attacks to win without dying himself; always a worthy puzzle. He only attacked with <a>Chilling Shade</a>, leaving a <a>Rimebound Dead</a> and <a>Rimewind Taskmage</a> back, along with four lands. Andre had spent his last couple turns drawing double <a>Martyr of Ashes</a>. Presumably, he could win the turn if he tapped out to <a>Chill to the Bone</a> the Taskmage, and Martyr away the Dead. If that plan fell though, Andre was a goner. He started off with the Martyr half and Shuuhei suspicious let the creature die, maintaining his four untapped mana. This threw Andre for a loop as he spent a good five minutes re-evaluating his plans. He ended up choosing not to attack with anything, giving Shuuhei free reign to execute his own agenda. That plan was pretty simple: attack with unblockable creatures until Andre died. That's exactly what happened as Shuuhei took the game 1. Andre's dead cards were simply too much of a burden</p>&#10;      <img src="https://i.ormos.uk/ba/7e/ba7ec0c740fd4e708f657777cd6146252f389b7266c417c1b09850d23ce13c15.jpg">&#10;      <p>Nakamura-1<br> Coimbra-0<br> Game 2: The only sound at the beginning of the game was the players shuffling, up until the head judge decided to award Andre Coimbra a warning for slow play. Not the most relaxing announcement when playing in the finals of a Grand Prix. Perhaps due to that incident, Andre kept a sketchy hand of <a>Martyr of Ashes</a>, <a>Grim Harvest</a>, <a>Chill to the Bone</a> (the only one not sided out) and four lands. Shuuhei was perfectly happy with his initial seven and started off with a <a>Chilling Shade</a> and a bunch of snow lands. Andre did draw out of his initial poorness with a Disciple and <a>Magmatic Core</a>. Between Disciple, <a>Magmatic Core</a> and a <a>Feast of Flesh</a>, Andre was all set to eliminate the <a>Chilling Shade</a>. Unfortunately, in his haste to avoid another slow play label (the judge made it clear what <i>that</i> would mean), Andre forgot about his cumulative upkeep. The Core went away and Andre sacrificed more mental energy kicking himself, right before receiving another warning for misrepresentation. A full-blown Disciple activation did kill <a>Chilling Shade</a>, but Shuuhei merely replaced it with another one. That Shade attacked Andre for four points, while Nakumura kept one snow-land open for miscellaneous. At the end of Shuuhei's turn, Andre looked at the Shade and the single untapped snow land and aimed <a>Surging Flame</a>s. Shuuhei placed the Shade in the graveyard and was doing recover tricks as the crowd looked on. This reporter had to stop the match and point out the Shade was actually still a 4/4. Andre literally hid his face in his hands over this error; the cumulative effects of zealous judges and a very long day. It was over soon after. Andre couldn't contain the second Shade and conceded the game, match, and tournament to jubilant Shuuhei Nakamura. </p>&#10;      <p>Nakumura-2<br> Coimbra-0</p>&#10;      <p>Shuuhei Nakumura wins Grand Prix Hiroshima! </p>&#10;    </td>&#10;  </tr>&#10;</tbody></table>

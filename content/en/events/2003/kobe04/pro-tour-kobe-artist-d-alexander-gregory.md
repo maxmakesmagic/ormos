@@ -1,0 +1,56 @@
+---
+id: a3zvy81d
+kind: event
+lang: en
+path: /en/events/2003/kobe04/pro-tour-kobe-artist-d-alexander-gregory
+title: 'Pro Tour Kobe Artist: D. Alexander Gregory'
+published: null
+column_slug: null
+column: null
+authors: []
+event_code: kobe04
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/article.aspx?x=protour/kobe04/artist3
+    lang_detected: en
+    capture_id: 829662
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=protour/kobe04/artist3
+    captured_at: '2009-06-03 19:02:27+00'
+    rule: aspx.article_heading
+  event_code:
+    page_key: wizards.com/magic/magazine/article.aspx?x=protour/kobe04/artist3
+    lang_detected: en
+    capture_id: 829662
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=protour/kobe04/artist3
+    captured_at: '2009-06-03 19:02:27+00'
+    rule: url.event_code
+sources:
+- document_id: a3zvy81d
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=protour/kobe04/artist3
+  page_key: wizards.com/magic/magazine/article.aspx?x=protour/kobe04/artist3
+  lang: en
+  template: aspx
+  captured_at: '2009-06-03 19:02:27+00'
+  capture_id: 829662
+  wayback_url: https://web.archive.org/web/20090603190227id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=protour/kobe04/artist3
+- document_id: a3zvy81d
+  url: http://www.wizards.com/default.asp?x=protour/kobe04/artist3
+  page_key: wizards.com/default.asp?x=protour/kobe04/artist3
+  lang: en
+  template: classic_asp
+  captured_at: '2005-03-02 19:00:58+00'
+  capture_id: 2153411
+  wayback_url: https://web.archive.org/web/20050302190058id_/http://www.wizards.com/default.asp?x=protour/kobe04/artist3
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: a3zvy81d
+  capture_id: 829662
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=protour/kobe04/artist3
+  wayback_url: https://web.archive.org/web/20090603190227id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=protour/kobe04/artist3
+  captured_at: '2009-06-03 19:02:27+00'
+  template: aspx
+  sha256: e97f1d3782e57ae04984626aa5589bb4ee3f3cffaa5f1e73818e5b4eb3b3a5a4
+render_recovery: []
+---
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <table>&#10;        <tbody><tr>&#10;          <td colspan="2">&#10;            <b>D. Alexander Gregory's Cards</b>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            <b>Card Name</b>&#10;          </td>&#10;          <td>&#10;            <b>Card Set</b>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>Persecute</td>&#10;          <td>Eighth Edition (Core Set)</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Redeem</td>&#10;          <td>Eighth Edition (Core Set)</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Venerable Monk</td>&#10;          <td>Eighth Edition (Core Set)</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Air Elemental</td>&#10;          <td>Sixth Edition (Classic)</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Crusade</td>&#10;          <td>Sixth Edition (Classic)</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Cursed Totem</td>&#10;          <td>Sixth Edition (Classic)</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Dream Cache</td>&#10;          <td>Sixth Edition (Classic)</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Final Fortune</td>&#10;          <td>Sixth Edition (Classic)</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Forbidden Crypt</td>&#10;          <td>Sixth Edition (Classic)</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Sky Diamond</td>&#10;          <td>Sixth Edition (Classic)</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Warrior's Honor</td>&#10;          <td>Sixth Edition (Classic)</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Air Elemental</td>&#10;          <td>Fifth Edition</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Arenson's Aura</td>&#10;          <td>Fifth Edition</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Crusdae</td>&#10;          <td>Fifth Edition</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Seraph</td>&#10;          <td>Fifth Edition</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Titania's Song</td>&#10;          <td>Fifth Edition</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Deconstruct</td>&#10;          <td>Mirrodin</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Krosan Avenger</td>&#10;          <td>Odyssey</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Pianna, Nomad Captain</td>&#10;          <td>Odyssey</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Devouring Strossus</td>&#10;          <td>Invasion</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Elvish Champion </td>&#10;          <td>Invasion</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Lobotomy </td>&#10;          <td>Invasion</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Reviving Dose</td>&#10;          <td>Invasion</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Stormscape Apprentice</td>&#10;          <td>Invasion</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Thunderscape Apprentice</td>&#10;          <td>Invasion</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Entangler</td>&#10;          <td>Prophecy</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Flay</td>&#10;          <td>Prophecy</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Mine Bearer</td>&#10;          <td>Prophecy</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Belbe's Armor</td>&#10;          <td>Nemesis</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Rackling</td>&#10;          <td>Nemesis</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Credit Voucher</td>&#10;          <td>Mercadian Masques</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Land Grant</td>&#10;          <td>Mercadian Masques</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Enchantment Alteration </td>&#10;          <td>Urza's Saga</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Despondency</td>&#10;          <td>Urza's Saga</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Lifeline</td>&#10;          <td>Urza's Saga</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Persecute</td>&#10;          <td>Urza's Saga</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Redeem </td>&#10;          <td>Urza's Saga</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Shimmering Barrier</td>&#10;          <td>Urza's Saga</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Bequeathal</td>&#10;          <td>Exodus</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Convalescence</td>&#10;          <td>Exodus</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Keeper of the Light</td>&#10;          <td>Exodus</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Calming Licid</td>&#10;          <td>Stronghold</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Cursed Scroll</td>&#10;          <td>Tempest</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Enfeeblement </td>&#10;          <td>Tempest</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Lightning Elemental </td>&#10;          <td>Tempest</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Maze of Shadows</td>&#10;          <td>Tempest</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Searing Touch</td>&#10;          <td>Tempest</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Spirit Mirror</td>&#10;          <td>Tempest</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Empyrial Armor</td>&#10;          <td>Weatherlight</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Inner Sanctum</td>&#10;          <td>Weatherlight</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Aura of Silence</td>&#10;          <td>Weatherlight</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Well of Knowledge</td>&#10;          <td>Weatherlight</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Femeref Enchantress</td>&#10;          <td>Visions</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Mystic Veil</td>&#10;          <td>Visions</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Warrior's Honor</td>&#10;          <td>Visions</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Wicked Reward</td>&#10;          <td>Visions</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Cursed Totem </td>&#10;          <td>Mirage</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Bone Mask</td>&#10;          <td>Mirage</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Dream Cache </td>&#10;          <td>Mirage</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Final Fortune </td>&#10;          <td>Mirage</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Forbidden Crypt </td>&#10;          <td>Mirage</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Serene Heart</td>&#10;          <td>Mirage</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Shaper Guildmage</td>&#10;          <td>Mirage</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Sky Diamond </td>&#10;          <td>Mirage</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Tranquil Domain</td>&#10;          <td>Mirage</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Unfulfilled Desires</td>&#10;          <td>Mirage</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Sworn Defender</td>&#10;          <td>Alliances</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Keeper of Tresserhorn</td>&#10;          <td>Alliances</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Personal Tutor </td>&#10;          <td>Portal</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Venerable Monk </td>&#10;          <td>Portal</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Stern Marshal </td>&#10;          <td>Portal</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Fleet-Footed Monk </td>&#10;          <td>Portal</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Vampiric Feast </td>&#10;          <td>Portal</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Scorching Winds </td>&#10;          <td>Portal</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Willow Dryad</td>&#10;          <td>Portal</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Goblin Lore</td>&#10;          <td>Portal 2</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Predatory Nightstalker</td>&#10;          <td>Portal 2</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Clay Pigeon </td>&#10;          <td>Unglued</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Double Dip </td>&#10;          <td>Unglued</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Prismatic Wardrobe </td>&#10;          <td>Unglued</td>&#10;        </tr>&#10;        <tr>&#10;          <td>Viridian Acolyte</td>&#10;          <td>Darksteel</td>&#10;        </tr>&#10;      </tbody></table>&#10;    </td>&#10;  </tr>&#10;</tbody></table>

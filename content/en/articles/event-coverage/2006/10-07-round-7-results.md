@@ -1,0 +1,47 @@
+---
+id: gz9skrk8
+kind: event
+lang: en
+path: /en/articles/event-coverage/2006/10-07-round-7-results
+title: Round 7 Results
+published: '2006-10-07'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-7-results-2006-10-07
+    lang_detected: en
+    capture_id: 562609
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-7-results-2006-10-07
+    captured_at: '2017-10-30 08:28:19+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-7-results-2006-10-07
+    lang_detected: en
+    capture_id: 562609
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-7-results-2006-10-07
+    captured_at: '2017-10-30 08:28:19+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: gz9skrk8
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-7-results-2006-10-07
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/round-7-results-2006-10-07
+  lang: en
+  template: drupal
+  captured_at: '2017-10-30 08:28:19+00'
+  capture_id: 562609
+  wayback_url: https://web.archive.org/web/20171030082819id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-7-results-2006-10-07
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: gz9skrk8
+  capture_id: 562609
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-7-results-2006-10-07
+  wayback_url: https://web.archive.org/web/20171030082819id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-7-results-2006-10-07
+  captured_at: '2017-10-30 08:28:19+00'
+  template: drupal
+  sha256: fb6a24119f9d31a0db4a99b2cf1f750fe76d42cb091de104e72971362ad06950
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Result</b></td><td><b>&#10;						</b></td><td><b>Opponent</b></td></tr><tr><td> 1</td><td>Aplin, Steven S [AUS]</td><td>Won 2-1</td><td>vs.</td><td>Tsumura, Kenji [JPN]</td></tr><tr><td> 2</td><td>Witton, Adam [AUS]</td><td>Won 2-0</td><td>vs.</td><td>Capilitan, Adrian [AUS]</td></tr><tr><td> 3</td><td>Hunn, Philip F [AUS]</td><td>Lost 0-2</td><td>vs.</td><td>Zhou, George [AUS]</td></tr><tr><td> 4</td><td>Zhang, James [AUS]</td><td>Won 2-0</td><td>vs.</td><td>Flynn, Ricky [AUS]</td></tr><tr><td> 5</td><td>Batum, Paul I [AUS]</td><td>Won 2-1</td><td>vs.</td><td>Oosawa, Takuya [AUS]</td></tr><tr><td> 6</td><td>McKay, Dan C [NZL]</td><td>Won 2-1</td><td>vs.</td><td>Purdom, Anthony A [AUS]</td></tr><tr><td> 7</td><td>Haddy, Tom A [AUS]</td><td>Lost 1-2</td><td>vs.</td><td>Gould, Rhys l [AUS]</td></tr><tr><td> 8</td><td>Yue, Aaron K [AUS]</td><td>Drew 0-0-0</td><td>vs.</td><td>Yip, Winston K [AUS]</td></tr><tr><td> 9</td><td>Kelly, John-Paul K [AUS]</td><td>Lost 1-2</td><td>vs.</td><td>Nakamura, Shuuhei [JPN]</td></tr><tr><td> 10</td><td>Breese, Emlyn A [AUS]</td><td>Won 2-0</td><td>vs.</td><td>Pickering, Peter [AUS]</td></tr><tr><td> 11</td><td>Varga, Andrew S [AUS]</td><td>Lost 0-2</td><td>vs.</td><td>Saito, Tomoharu [JPN]</td></tr><tr><td> 12</td><td>Thompson, Josh [AUS]</td><td>Drew 0-0-0</td><td>vs.</td><td>Smith, Scott [AUS]</td></tr><tr><td> 13</td><td>Lightfoot, Anatoli J [AUS]</td><td>Won 2-0</td><td>vs.</td><td>Nonneman, Jesse [AUS]</td></tr><tr><td> 14</td><td>Komuro, Shuu [JPN]</td><td>Lost 1-2</td><td>vs.</td><td>Neeman, Jeremy [AUS]</td></tr><tr><td> 15</td><td>Fleming, Ben J [AUS]</td><td>Won 2-1</td><td>vs.</td><td>Sadeq, Muhammad J [AUS]</td></tr><tr><td> 16</td><td>Bagnall, Luke M [AUS]</td><td>Won 2-0</td><td>vs.</td><td>Veigel, Cameron J [AUS]</td></tr><tr><td> 17</td><td>Turner, Daniel [AUS]</td><td>Drew 0-0-0</td><td>vs.</td><td>Rayner, Hugh N [AUS]</td></tr><tr><td> 18</td><td>Holmes, Conor J [AUS]</td><td>Drew 0-0-0</td><td>vs.</td><td>Bennett, Andrew [AUS]</td></tr><tr><td> 19</td><td>Hay, Tom G [AUS]</td><td>Lost 1-2</td><td>vs.</td><td>Seck, Ben [AUS]</td></tr><tr><td> 20</td><td>koh, charles m [AUS]</td><td>Lost 0-2</td><td>vs.</td><td>Bracht, Maximilian [AUS]</td></tr><tr><td> 21</td><td>Yasooka, Shouta [AUS]</td><td>Drew 1-1-1</td><td>vs.</td><td>Rodieck, Mike K [NZL]</td></tr><tr><td> 22</td><td>Light, Jens O [AUS]</td><td>Drew 1-1-1</td><td>vs.</td><td>Aitchison, Timothy J [AUS]</td></tr><tr><td> 23</td><td>Pradana, Ardi [AUS]</td><td>Lost 0-2</td><td>vs.</td><td>Clancy, David M [AUS]</td></tr><tr><td> 24</td><td>Dorling, Stephen R [AUS]</td><td>Drew 1-1-1</td><td>vs.</td><td>Egan, Owen J [AUS]</td></tr><tr><td> 25</td><td>wintle, nathan [AUS]</td><td>Lost 0-2</td><td>vs.</td><td>Cheleski, Carl [AUS]</td></tr><tr><td> 26</td><td>Dring, Stephen [AUS]</td><td>Lost 1-2</td><td>vs.</td><td>Brown, Jared J [AUS]</td></tr><tr><td> 27</td><td>Goodall, Matthew [AUS]</td><td>Lost 0-2</td><td>vs.</td><td>Gall, Tristan [AUS]</td></tr><tr><td> 28</td><td>Brown, Clarrie [AUS]</td><td>Won 2-1</td><td>vs.</td><td>Ly, Boung L [AUS]</td></tr><tr><td> 29</td><td>Crewe, David A [AUS]</td><td>Won 2-0</td><td>vs.</td><td>Wong, Times [AUS]</td></tr><tr><td> 30</td><td>Harper, Warren [AUS]</td><td>Lost 1-2</td><td>vs.</td><td>Rayson, Shawn L [AUS]</td></tr><tr><td> 31</td><td>Rolf, Nicolas [AUS]</td><td>Lost 0-2</td><td>vs.</td><td>Dang, David [AUS]</td></tr><tr><td> 32</td><td>Nakajima, Chikara [JPN]</td><td>Won 2-1</td><td>vs.</td><td>Veigel, Andrew [AUS]</td></tr><tr><td> 33</td><td>Wong, Wai Bien [AUS]</td><td>Lost 0-2</td><td>vs.</td><td>Henry, Simon D [AUS]</td></tr><tr><td> 34</td><td>Pirie, Andrew I [AUS]</td><td>Lost 1-2</td><td>vs.</td><td>Holtzman, Paul W [AUS]</td></tr><tr><td> 35</td><td>Sucharittanant, Pongsa [THA]</td><td>Lost 0-2</td><td>vs.</td><td>Soh, Terry [AUS]</td></tr><tr><td> 36</td><td>Kim, Cynic [KOR]</td><td>Won 2-0</td><td>vs.</td><td>Eldred, Rhett J [AUS]</td></tr><tr><td> 37</td><td>Barclay, Allan [AUS]</td><td>Won 2-1</td><td>vs.</td><td>Farrier, Steven J [AUS]</td></tr><tr><td> 38</td><td>Cassey, Stephen [AUS]</td><td>Won 2-0</td><td>vs.</td><td>Pargeter, Alan l [AUS]</td></tr><tr><td> 39</td><td>Hennig, Joshua [AUS]</td><td>Won 2-0</td><td>vs.</td><td>Williams, Christopher [AUS]</td></tr><tr><td> 40</td><td>Collis, Barrie f [AUS]</td><td>Lost 1-2</td><td>vs.</td><td>Baker, Scott D [AUS]</td></tr><tr><td> 41</td><td>He, Timothy L [AUS]</td><td>Won 2-1</td><td>vs.</td><td>Evans, Chris [AUS]</td></tr><tr><td> 42</td><td>Piechnick, Daniel J [AUS]</td><td>Won 2-1</td><td>vs.</td><td>Wong, Minga Y [AUS]</td></tr><tr><td> 43</td><td>Bandas, Jim [AUS]</td><td>Lost 0-2</td><td>vs.</td><td>Van Kalker, Zeke [AUS]</td></tr><tr><td> 44</td><td>Ong, Whey Whey [AUS]</td><td>Won 2-1</td><td>vs.</td><td>Zhao, David X [AUS]</td></tr><tr><td> 45</td><td>Nicastri, Aaron T [AUS]</td><td>Won 2-1</td><td>vs.</td><td>Mulcahy, Luke [AUS]</td></tr><tr><td> 46</td><td>Patterson, Stephen B [AUS]</td><td>Lost 0-2</td><td>vs.</td><td>Wong, Garry [AUS]</td></tr><tr><td> 47</td><td>chetcuti, vincent [AUS]</td><td>Won 2-0</td><td>vs.</td><td>Bicioc, Edward P [AUS]</td></tr><tr><td> 48</td><td>Clancy, Aaron M [AUS]</td><td>Lost 0-2</td><td>vs.</td><td>Ishida, Itaru [JPN]</td></tr><tr><td> 49</td><td>Glanville, Hugh [AUS]</td><td>Won 2-0</td><td>vs.</td><td>Tian, Kuan [AUS]</td></tr><tr><td> 50</td><td>Lah, Philip [AUS]</td><td>Won 2-0</td><td>vs.</td><td>Seaton, John N [AUS]</td></tr><tr><td> 51</td><td>Schwartz, Valentine G [AUS]</td><td>Won 2-0</td><td>vs.</td><td>Barsing, Mal H [AUS]</td></tr><tr><td> 52</td><td>Randeni, Harshana [AUS]</td><td>Won 2-1</td><td>vs.</td><td>Gatt, Adam [AUS]</td></tr><tr><td> 53</td><td>Cheung, Justin [AUS]</td><td>Won 2-0</td><td>vs.</td><td>Weeks, Adan S [AUS]</td></tr><tr><td> 54</td><td>Paroz, Tim R [AUS]</td><td>Lost 1-2</td><td>vs.</td><td>Pui, Boon Keng [AUS]</td></tr><tr><td> 55</td><td>Copus, Lee [AUS]</td><td>Won 2-0</td><td>vs.</td><td>Williams, David W [NZL]</td></tr><tr><td> 56</td><td>Crawley, Robert [AUS]</td><td>Won 2-1</td><td>vs.</td><td>Nolan, Timothy J [AUS]</td></tr><tr><td> 57</td><td>Han, Liwei [AUS]</td><td>Won 2-1</td><td>vs.</td><td>Wilson, Chris J [AUS]</td></tr><tr><td> 58</td><td>Chung, Sam [AUS]</td><td>Won 2-1</td><td>vs.</td><td>Eckermann, Andrew [AUS]</td></tr><tr><td> 59</td><td>Giblett, Craig J [AUS]</td><td>Won 2-0</td><td>vs.</td><td>Bruce, Bronwyn J [AUS]</td></tr><tr><td> 60</td><td>Lo, Dominic S [AUS]</td><td>Won 2-1</td><td>vs.</td><td>Joseph, Matthew [AUS]</td></tr><tr><td> 61</td><td>Brumby, Gene [NZL]</td><td>Lost 1-2</td><td>vs.</td><td>Schafer, Ross P [AUS]</td></tr><tr><td> 62</td><td>Mitchell, Jared L [AUS]</td><td>Lost 1-2</td><td>vs.</td><td>Chung, Tony [AUS]</td></tr><tr><td> 63</td><td>Ninnes, Jeremy S [AUS]</td><td>Lost 0-2</td><td>vs.</td><td>Burgess, William D [AUS]</td></tr><tr><td> 64</td><td>Crockart, James C [AUS]</td><td>Won 2-0</td><td>vs.</td><td>Foster, Angus C [AUS]</td></tr><tr><td> 65</td><td>Vance, Andrew E [AUS]</td><td>Won 2-0</td><td>vs.</td><td>Peeler, Bruce [AUS]</td></tr><tr><td> 66</td><td>Gurney, Traci S [NZL]</td><td>Won 2-0</td><td>vs.</td><td>Starr, Andrew [AUS]</td></tr><tr><td> 67</td><td>White, James T [NZL]</td><td>Lost 1-2</td><td>vs.</td><td>Chin Quan, Audrey G [AUS]</td></tr><tr><td> 68</td><td>Phua, Daniel Y [AUS]</td><td>Won 2-1</td><td>vs.</td><td>Lee, Ivan [AUS]</td></tr><tr><td> 69</td><td>Peppard, Herbie [AUS]</td><td>Lost 0-2</td><td>vs.</td><td>Sarris, Ioannis [AUS]</td></tr></tbody></table>

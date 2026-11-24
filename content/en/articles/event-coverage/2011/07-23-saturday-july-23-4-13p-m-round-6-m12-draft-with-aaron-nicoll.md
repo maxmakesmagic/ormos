@@ -1,0 +1,184 @@
+---
+id: pqwnavmr
+kind: event
+lang: en
+path: /en/articles/event-coverage/2011/07-23-saturday-july-23-4-13p-m-round-6-m12-draft-with-aaron-nicoll
+title: 'Saturday, July 23: 4:13p.m. – Round 6: M12 Draft with Aaron Nicoll'
+published: '2011-07-23'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/saturday-july-23-413pm-%E2%80%93-round-6-m12-draft-aaron-nicoll-2011-07-23
+    lang_detected: en
+    capture_id: 582176
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/saturday-july-23-413pm-%E2%80%93-round-6-m12-draft-aaron-nicoll-2011-07-23
+    captured_at: '2022-01-28 05:58:27+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/saturday-july-23-413pm-%E2%80%93-round-6-m12-draft-aaron-nicoll-2011-07-23
+    lang_detected: en
+    capture_id: 582176
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/saturday-july-23-413pm-%E2%80%93-round-6-m12-draft-aaron-nicoll-2011-07-23
+    captured_at: '2022-01-28 05:58:27+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: pqwnavmr
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/saturday-july-23-413pm-%E2%80%93-round-6-m12-draft-aaron-nicoll-2011-07-23
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/saturday-july-23-413pm-%E2%80%93-round-6-m12-draft-aaron-nicoll-2011-07-23
+  lang: en
+  template: drupal
+  captured_at: '2022-01-28 05:58:27+00'
+  capture_id: 582176
+  wayback_url: https://web.archive.org/web/20220128055827id_/https://magic.wizards.com/en/articles/archive/event-coverage/saturday-july-23-413pm-%E2%80%93-round-6-m12-draft-aaron-nicoll-2011-07-23
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: pqwnavmr
+  capture_id: 582176
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/saturday-july-23-413pm-%E2%80%93-round-6-m12-draft-aaron-nicoll-2011-07-23
+  wayback_url: https://web.archive.org/web/20220128055827id_/https://magic.wizards.com/en/articles/archive/event-coverage/saturday-july-23-413pm-%E2%80%93-round-6-m12-draft-aaron-nicoll-2011-07-23
+  captured_at: '2022-01-28 05:58:27+00'
+  template: drupal
+  sha256: ba7f54d9a99360129cab9da2b153fd4bba3a68e189985b24ce96c9dee629859c
+render_recovery:
+- code: deck_widget_requires_review
+  element: a
+  reason: The archived deck widget has no visible card rows. The source capture may
+    contain data to recover it.
+  labels:
+  - Decklist
+  occurrences: 1
+---
+Aaron Nicoll has been very quietly tearing up small parts of the Australian Magic scene over the last few years. After a top 8 at Nationals in 2009, he went on to get a taste of the big time at Worlds in Rome. He's also competed at Pro Tour San Juan, and made day two at Pro Tour Nagoya.
+
+Aaron headed into the draft portion of this event at 3-0. He first picked a [Merfolk Looter](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Merfolk+Looter) over a [Solemn Simulacrum](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Solemn+Simulacrum) and an [Aven Fleetwing](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aven+Fleetwing), and followed it with a [Gravedigger](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gravedigger) over a [Mana Leak](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mana+Leak). His third pick was devoid of anything playable in Blue or Black, but did have an [Angelic Destiny](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Angelic+Destiny) and an [Assault Griffin](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Assault+Griffin). Taking the [Angelic Destiny](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Angelic+Destiny), he headed into White. Unfortunately, the leftover [Assault Griffin](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Assault+Griffin) also put Jack Ding downwind of Aaron into White as well. Feeding Aaron was Luke Mulcahy, who was solidly in Red/Green.
+
+Pack two gave Aaron a [Gideon's Lawkeeper](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gideon%27s+Lawkeeper), and sent a [Volcanic Dragon](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Volcanic+Dragon) up to Luke. Jack took a [Pacifism](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pacifism) over an [Incinerate](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Incinerate), indicating that White could be a little tight in this direction. Aaron still managed to pick up a few solid team-player cards, like an [Assault Griffin](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Assault+Griffin) of his own, and another [Aven Fleetwing](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aven+Fleetwing). Meanwhile, Jack solidified himself in Red/White with a third-pick [Fireball](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fireball).
+
+<table><tbody><tr><td>&#10;			<div><img src="http://media.wizards.com/legacy/mtg/images/daily/events/aunat11/01_r6_nicoll.jpg"></div>&#10;&#10;			<div><i>Aaron Nicoll between Luke Mulcahy on the left, and Jack Ding on the right.</i></div>&#10;			</td>&#10;		</tr></tbody></table>
+
+Going into pack three, Aaron's deck wanted a little more substance, and he wasn't disappointed. Well, he wouldn't have been disappointed if he had been allowed to keep the whole pack, anyway. On the grounds he wasn't allowed to keep the whole pack, he eventually elected to send an [Archon of Justice](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Archon+of+Justice) and a [Pacifism](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pacifism) to Jack, and kept a [Mind Control](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mind+Control) for himself. Luke then passed Aaron an [Oblivion Ring](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Oblivion+Ring).
+
+His third pick in the final pack was interesting, taking a [Timely Reinforcements](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Timely+Reinforcements) over a second [Merfolk Looter](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Merfolk+Looter). I asked Aaron about this afterwards. "I would do it again, every time," he stated. "This format is fast enough that if you're even a little bit behind, this puts you way ahead."
+
+Both Aaron and Luke won their first two draft round matches, and met in round six. Aaron managed to take control of the match (as well as a few of Luke's creatures) with his [Mind Control](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mind+Control). In game two, taking the [Volcanic Dragon](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Volcanic+Dragon) he passed to Luke, and protecting it from back to back [Stingerfling Spider](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stingerfling+Spider)s with a [Cancel](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cancel) and a sideboarded [Flashfreeze](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flashfreeze).
+
+<table><tbody><tr><td>&#10;			<div><img src="http://media.wizards.com/legacy/mtg/images/daily/events/aunat11/01_r6_mulcahy.jpg"></div>&#10;&#10;			<div><i>Luke Mulcahy stares down Aaron Nicoll.</i></div>&#10;			</td>&#10;		</tr></tbody></table>
+
+#### Aaron Nicoll – M12 Draft 3 – 0
+
+##### 
+
+ ![Download Arena Decklist](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png) ![](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+[Decklist](#none) [Stats](#none) [Sample Hand](#none) 
+
+Sort by: 
+
+##### Creature (13)
+
+2 [Armored Warhorse](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArmored%5D+%5BWarhorse%5D) 2 [Assault Griffin](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAssault%5D+%5BGriffin%5D) 1 [Auramancer](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAuramancer%5D) 1 [Gideon's Lawkeeper](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGideon%5D+%5BLawkeeper%5D) 1 [Griffin Sentinel](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGriffin%5D+%5BSentinel%5D) 1 [Amphin Cutthroat](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAmphin%5D+%5BCutthroat%5D) 2 [Aven Fleetwing](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAven%5D+%5BFleetwing%5D) 1 [Coral Merfolk](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCoral%5D+%5BMerfolk%5D) 1 [Merfolk Looter](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMerfolk%5D+%5BLooter%5D) 1 [Rusted Sentinel](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRusted%5D+%5BSentinel%5D) 
+
+##### Sorcery (1)
+
+1 [Timely Reinforcements](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTimely%5D+%5BReinforcements%5D) 
+
+##### Instant (6)
+
+2 [Mighty Leap](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMighty%5D+%5BLeap%5D) 1 [Stave Off](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStave%5D+%5BOff%5D) 1 [Cancel](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCancel%5D) 1 [Frost Breath](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFrost%5D+%5BBreath%5D) 1 [Mana Leak](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BLeak%5D) 
+
+##### Enchantment (3)
+
+1 [Angelic Destiny](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAngelic%5D+%5BDestiny%5D) 1 [Oblivion Ring](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOblivion%5D+%5BRing%5D) 1 [Mind Control](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMind%5D+%5BControl%5D) 
+
+##### Land (17)
+
+10 [Plains](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D) 7 [Island](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D) 
+
+40 Cards 
+
+##### Sideboard (19)
+
+1 [Manalith](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BManalith%5D) 2 [Gravedigger](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGravedigger%5D) 1 [Mind Rot](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMind%5D+%5BRot%5D) 2 [Taste of Blood](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTaste%5D+%5Bof%5D+%5BBlood%5D) 1 [Slaughter Cry](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSlaughter%5D+%5BCry%5D) 1 [Hunter's Insight](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHunter%5D+%5BInsight%5D) 1 [Naturalize](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNaturalize%5D) 2 [Plummet](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlummet%5D) 1 [Harbor Serpent](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHarbor%5D+%5BSerpent%5D) 1 [Flashfreeze](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlashfreeze%5D) 2 [Lifelink](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLifelink%5D) 2 [Guardians' Pledge](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGuardians%27%5D+%5BPledge%5D) 1 [Griffin Rider](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGriffin%5D+%5BRider%5D) 1 [Angel's Mercy](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAngel%5D+%5BMercy%5D) 
+
+##### White (19)
+
+2 [Armored Warhorse](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArmored%5D+%5BWarhorse%5D) 2 [Assault Griffin](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAssault%5D+%5BGriffin%5D) 1 [Auramancer](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAuramancer%5D) 1 [Gideon's Lawkeeper](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGideon%5D+%5BLawkeeper%5D) 1 [Griffin Sentinel](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGriffin%5D+%5BSentinel%5D) 1 [Angelic Destiny](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAngelic%5D+%5BDestiny%5D) 2 [Mighty Leap](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMighty%5D+%5BLeap%5D) 1 [Oblivion Ring](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOblivion%5D+%5BRing%5D) 1 [Stave Off](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStave%5D+%5BOff%5D) 1 [Timely Reinforcements](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTimely%5D+%5BReinforcements%5D) 2 [Lifelink](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLifelink%5D) 2 [Guardians' Pledge](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGuardians%27%5D+%5BPledge%5D) 1 [Griffin Rider](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGriffin%5D+%5BRider%5D) 1 [Angel's Mercy](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAngel%5D+%5BMercy%5D) 
+
+##### Blue (11)
+
+1 [Amphin Cutthroat](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAmphin%5D+%5BCutthroat%5D) 2 [Aven Fleetwing](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAven%5D+%5BFleetwing%5D) 1 [Coral Merfolk](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCoral%5D+%5BMerfolk%5D) 1 [Merfolk Looter](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMerfolk%5D+%5BLooter%5D) 1 [Cancel](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCancel%5D) 1 [Frost Breath](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFrost%5D+%5BBreath%5D) 1 [Mana Leak](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BLeak%5D) 1 [Mind Control](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMind%5D+%5BControl%5D) 1 [Harbor Serpent](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHarbor%5D+%5BSerpent%5D) 1 [Flashfreeze](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlashfreeze%5D) 
+
+##### Black (5)
+
+2 [Gravedigger](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGravedigger%5D) 1 [Mind Rot](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMind%5D+%5BRot%5D) 2 [Taste of Blood](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTaste%5D+%5Bof%5D+%5BBlood%5D) 
+
+##### Red (1)
+
+1 [Slaughter Cry](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSlaughter%5D+%5BCry%5D) 
+
+##### Green (4)
+
+1 [Hunter's Insight](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHunter%5D+%5BInsight%5D) 1 [Naturalize](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNaturalize%5D) 2 [Plummet](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlummet%5D) 
+
+##### Colorless (19)
+
+10 [Plains](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D) 7 [Island](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D) 1 [Rusted Sentinel](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRusted%5D+%5BSentinel%5D) 1 [Manalith](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BManalith%5D) 
+
+59 Cards 
+
+##### 1 (6)
+
+1 [Gideon's Lawkeeper](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGideon%5D+%5BLawkeeper%5D) 1 [Stave Off](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStave%5D+%5BOff%5D) 2 [Taste of Blood](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTaste%5D+%5Bof%5D+%5BBlood%5D) 2 [Lifelink](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLifelink%5D) 
+
+##### 2 (12)
+
+2 [Armored Warhorse](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArmored%5D+%5BWarhorse%5D) 1 [Coral Merfolk](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCoral%5D+%5BMerfolk%5D) 1 [Merfolk Looter](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMerfolk%5D+%5BLooter%5D) 2 [Mighty Leap](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMighty%5D+%5BLeap%5D) 1 [Mana Leak](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BLeak%5D) 1 [Naturalize](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNaturalize%5D) 2 [Plummet](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlummet%5D) 1 [Flashfreeze](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlashfreeze%5D) 1 [Griffin Rider](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGriffin%5D+%5BRider%5D) 
+
+##### 3 (12)
+
+1 [Auramancer](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAuramancer%5D) 1 [Griffin Sentinel](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGriffin%5D+%5BSentinel%5D) 1 [Oblivion Ring](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOblivion%5D+%5BRing%5D) 1 [Timely Reinforcements](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTimely%5D+%5BReinforcements%5D) 1 [Cancel](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCancel%5D) 1 [Frost Breath](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFrost%5D+%5BBreath%5D) 1 [Manalith](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BManalith%5D) 1 [Mind Rot](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMind%5D+%5BRot%5D) 1 [Slaughter Cry](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSlaughter%5D+%5BCry%5D) 1 [Hunter's Insight](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHunter%5D+%5BInsight%5D) 2 [Guardians' Pledge](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGuardians%27%5D+%5BPledge%5D) 
+
+##### 4 (10)
+
+2 [Assault Griffin](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAssault%5D+%5BGriffin%5D) 1 [Amphin Cutthroat](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAmphin%5D+%5BCutthroat%5D) 2 [Aven Fleetwing](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAven%5D+%5BFleetwing%5D) 1 [Rusted Sentinel](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRusted%5D+%5BSentinel%5D) 1 [Angelic Destiny](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAngelic%5D+%5BDestiny%5D) 2 [Gravedigger](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGravedigger%5D) 1 [Angel's Mercy](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAngel%5D+%5BMercy%5D) 
+
+##### 5 (1)
+
+1 [Mind Control](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMind%5D+%5BControl%5D) 
+
+##### 6 (1)
+
+1 [Harbor Serpent](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHarbor%5D+%5BSerpent%5D) 
+
+42 Cards 
+
+##### Common (50)
+
+10 [Plains](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D) 7 [Island](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D) 2 [Armored Warhorse](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArmored%5D+%5BWarhorse%5D) 2 [Assault Griffin](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAssault%5D+%5BGriffin%5D) 1 [Auramancer](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAuramancer%5D) 1 [Gideon's Lawkeeper](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGideon%5D+%5BLawkeeper%5D) 1 [Griffin Sentinel](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGriffin%5D+%5BSentinel%5D) 1 [Amphin Cutthroat](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAmphin%5D+%5BCutthroat%5D) 2 [Aven Fleetwing](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAven%5D+%5BFleetwing%5D) 1 [Coral Merfolk](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCoral%5D+%5BMerfolk%5D) 1 [Merfolk Looter](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMerfolk%5D+%5BLooter%5D) 2 [Mighty Leap](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMighty%5D+%5BLeap%5D) 1 [Stave Off](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStave%5D+%5BOff%5D) 1 [Cancel](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCancel%5D) 1 [Frost Breath](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFrost%5D+%5BBreath%5D) 1 [Mana Leak](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BLeak%5D) 1 [Manalith](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BManalith%5D) 1 [Mind Rot](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMind%5D+%5BRot%5D) 2 [Taste of Blood](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTaste%5D+%5Bof%5D+%5BBlood%5D) 1 [Slaughter Cry](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSlaughter%5D+%5BCry%5D) 1 [Naturalize](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNaturalize%5D) 2 [Plummet](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlummet%5D) 1 [Harbor Serpent](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHarbor%5D+%5BSerpent%5D) 2 [Lifelink](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLifelink%5D) 2 [Guardians' Pledge](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGuardians%27%5D+%5BPledge%5D) 1 [Griffin Rider](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGriffin%5D+%5BRider%5D) 1 [Angel's Mercy](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAngel%5D+%5BMercy%5D) 
+
+##### Uncommon (8)
+
+1 [Rusted Sentinel](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRusted%5D+%5BSentinel%5D) 1 [Oblivion Ring](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOblivion%5D+%5BRing%5D) 1 [Timely Reinforcements](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTimely%5D+%5BReinforcements%5D) 1 [Mind Control](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMind%5D+%5BControl%5D) 2 [Gravedigger](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGravedigger%5D) 1 [Hunter's Insight](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHunter%5D+%5BInsight%5D) 1 [Flashfreeze](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlashfreeze%5D) 
+
+##### Mythic (1)
+
+1 [Angelic Destiny](https://web.archive.org/web/20110723000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAngelic%5D+%5BDestiny%5D) 
+
+59 Cards 
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Plains)
+
+[Deal Another Hand](https://web.archive.org/web/20110723000000/https://magic.wizards.com/en)
+
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Armored+Warhorse)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Island)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Gideon%27s+Lawkeeper)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Assault+Griffin)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Mighty+Leap)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Plains)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Island)
+
+a:35:{i:0;O:8:"stdClass":3:{s:4:"type";s:4:"land";s:10:"deck\_count";s:2:"10";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:6:"Plains";s:22:"field\_card\_image\_front";a:0:{}}}i:1;O:8:"stdClass":3:{s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"7";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:6:"Island";s:22:"field\_card\_image\_front";a:0:{}}}i:2;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"2";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Armored Warhorse";s:22:"field\_card\_image\_front";a:0:{}}}i:3;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"2";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Assault Griffin";s:22:"field\_card\_image\_front";a:0:{}}}i:4;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"1";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:10:"Auramancer";s:22:"field\_card\_image\_front";a:0:{}}}i:5;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"1";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:18:"Gideon's Lawkeeper";s:22:"field\_card\_image\_front";a:0:{}}}i:6;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"1";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Griffin Sentinel";s:22:"field\_card\_image\_front";a:0:{}}}i:7;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"1";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Amphin Cutthroat";s:22:"field\_card\_image\_front";a:0:{}}}i:8;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"2";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Aven Fleetwing";s:22:"field\_card\_image\_front";a:0:{}}}i:9;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"1";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Coral Merfolk";s:22:"field\_card\_image\_front";a:0:{}}}i:10;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"1";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Merfolk Looter";s:22:"field\_card\_image\_front";a:0:{}}}i:11;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"1";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Rusted Sentinel";s:22:"field\_card\_image\_front";a:0:{}}}i:12;O:8:"stdClass":3:{s:4:"type";s:11:"enchantment";s:10:"deck\_count";s:1:"1";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Angelic Destiny";s:22:"field\_card\_image\_front";a:0:{}}}i:13;O:8:"stdClass":3:{s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"2";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Mighty Leap";s:22:"field\_card\_image\_front";a:0:{}}}i:14;O:8:"stdClass":3:{s:4:"type";s:11:"enchantment";s:10:"deck\_count";s:1:"1";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Oblivion Ring";s:22:"field\_card\_image\_front";a:0:{}}}i:15;O:8:"stdClass":3:{s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"1";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:9:"Stave Off";s:22:"field\_card\_image\_front";a:0:{}}}i:16;O:8:"stdClass":3:{s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"1";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:21:"Timely Reinforcements";s:22:"field\_card\_image\_front";a:0:{}}}i:17;O:8:"stdClass":3:{s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"1";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:6:"Cancel";s:22:"field\_card\_image\_front";a:0:{}}}i:18;O:8:"stdClass":3:{s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"1";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Frost Breath";s:22:"field\_card\_image\_front";a:0:{}}}i:19;O:8:"stdClass":3:{s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"1";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:9:"Mana Leak";s:22:"field\_card\_image\_front";a:0:{}}}i:20;O:8:"stdClass":3:{s:4:"type";s:11:"enchantment";s:10:"deck\_count";s:1:"1";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Mind Control";s:22:"field\_card\_image\_front";a:0:{}}}i:21;O:8:"stdClass":3:{s:4:"type";s:8:"artifact";s:10:"deck\_count";i:0;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:8:"Manalith";s:22:"field\_card\_image\_front";a:0:{}}}i:22;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";i:0;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Gravedigger";s:22:"field\_card\_image\_front";a:0:{}}}i:23;O:8:"stdClass":3:{s:4:"type";s:7:"sorcery";s:10:"deck\_count";i:0;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:8:"Mind Rot";s:22:"field\_card\_image\_front";a:0:{}}}i:24;O:8:"stdClass":3:{s:4:"type";s:7:"sorcery";s:10:"deck\_count";i:0;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Taste of Blood";s:22:"field\_card\_image\_front";a:0:{}}}i:25;O:8:"stdClass":3:{s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Slaughter Cry";s:22:"field\_card\_image\_front";a:0:{}}}i:26;O:8:"stdClass":3:{s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Hunter's Insight";s:22:"field\_card\_image\_front";a:0:{}}}i:27;O:8:"stdClass":3:{s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:10:"Naturalize";s:22:"field\_card\_image\_front";a:0:{}}}i:28;O:8:"stdClass":3:{s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:7:"Plummet";s:22:"field\_card\_image\_front";a:0:{}}}i:29;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";i:0;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Harbor Serpent";s:22:"field\_card\_image\_front";a:0:{}}}i:30;O:8:"stdClass":3:{s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Flashfreeze";s:22:"field\_card\_image\_front";a:0:{}}}i:31;O:8:"stdClass":3:{s:4:"type";s:11:"enchantment";s:10:"deck\_count";i:0;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:8:"Lifelink";s:22:"field\_card\_image\_front";a:0:{}}}i:32;O:8:"stdClass":3:{s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Guardians' Pledge";s:22:"field\_card\_image\_front";a:0:{}}}i:33;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";i:0;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Griffin Rider";s:22:"field\_card\_image\_front";a:0:{}}}i:34;O:8:"stdClass":3:{s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Angel's Mercy";s:22:"field\_card\_image\_front";a:0:{}}}}

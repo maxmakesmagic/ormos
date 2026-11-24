@@ -1,0 +1,56 @@
+---
+id: 7sdnqw8m
+kind: event
+lang: es
+path: /es/events/2004/spnat04/live-coverage-of-2004-spain-nationals-17
+title: Live Coverage of 2004 Spain Nationals
+published: null
+column_slug: null
+column: null
+authors: []
+event_code: spnat04
+detected_lang: es
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/spnat04/standfin
+    lang_detected: es
+    capture_id: 1129569
+    url: http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/spnat04/standfin
+    captured_at: '2013-07-02 11:05:03+00'
+    rule: aspx.article_heading
+  event_code:
+    page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/spnat04/standfin
+    lang_detected: es
+    capture_id: 1129569
+    url: http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/spnat04/standfin
+    captured_at: '2013-07-02 11:05:03+00'
+    rule: url.event_code
+sources:
+- document_id: 7sdnqw8m
+  url: http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/spnat04/standfin
+  page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/spnat04/standfin
+  lang: es
+  template: aspx
+  captured_at: '2013-07-02 11:05:03+00'
+  capture_id: 1129569
+  wayback_url: https://web.archive.org/web/20130702110503id_/http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/spnat04/standfin
+- document_id: 7sdnqw8m
+  url: http://www.wizards.com/default.asp?x=mtgevent/spnat04/standfin,,en&amp
+  page_key: wizards.com/default.asp?x=mtgevent/spnat04/standfin
+  lang: es
+  template: classic_asp
+  captured_at: '2005-01-31 00:01:21+00'
+  capture_id: 1289200
+  wayback_url: https://web.archive.org/web/20050131000121id_/http://www.wizards.com/default.asp?x=mtgevent/spnat04/standfin,,en&amp
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 7sdnqw8m
+  capture_id: 1129569
+  url: http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/spnat04/standfin
+  wayback_url: https://web.archive.org/web/20130702110503id_/http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/spnat04/standfin
+  captured_at: '2013-07-02 11:05:03+00'
+  template: aspx
+  sha256: beb43a19099b7e52e34af8276bd4299837f909f2b0b929185b822cfb4ce1ed18
+render_recovery: []
+---
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <a href="/es/events/2004/spnat04/live-coverage-of-2004-spain-nationals-17">&#10;        <b>Rank</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/es/events/2004/spnat04/live-coverage-of-2004-spain-nationals-17">&#10;        <b>Player</b>&#10;      </a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>1</td>&#10;    <td>Alcaraz, Aniol</td>&#10;  </tr>&#10;  <tr>&#10;    <td>2</td>&#10;    <td>Rohner, Adriano</td>&#10;  </tr>&#10;  <tr>&#10;    <td>3</td>&#10;    <td>Sagol, Omar</td>&#10;  </tr>&#10;  <tr>&#10;    <td>4</td>&#10;    <td>Vila, Ferran</td>&#10;  </tr>&#10;  <tr>&#10;    <td>5</td>&#10;    <td>Mestre, Raul</td>&#10;  </tr>&#10;  <tr>&#10;    <td>6</td>&#10;    <td>Blanco, Carvajal David</td>&#10;  </tr>&#10;  <tr>&#10;    <td>7</td>&#10;    <td>Francisco, German</td>&#10;  </tr>&#10;  <tr>&#10;    <td>8</td>&#10;    <td>Perez Fresnedo, Javier</td>&#10;  </tr>&#10;  <tr>&#10;    <td>9</td>&#10;    <td>Pla, David</td>&#10;  </tr>&#10;  <tr>&#10;    <td>10</td>&#10;    <td>Sierra, David S</td>&#10;  </tr>&#10;  <tr>&#10;    <td>11</td>&#10;    <td>Moreno Morales, Francisco F</td>&#10;  </tr>&#10;  <tr>&#10;    <td>12</td>&#10;    <td>Arias Garcia, Jacob A</td>&#10;  </tr>&#10;  <tr>&#10;    <td>13</td>&#10;    <td>Saiz Martín, Ruben</td>&#10;  </tr>&#10;  <tr>&#10;    <td>14</td>&#10;    <td>Martin, Daniel Mb</td>&#10;  </tr>&#10;  <tr>&#10;    <td>15</td>&#10;    <td>Mercé, Josep</td>&#10;  </tr>&#10;  <tr>&#10;    <td>16</td>&#10;    <td>Macaya, Pablo</td>&#10;  </tr>&#10;  <tr>&#10;    <td>17</td>&#10;    <td>Gil, Guillem</td>&#10;  </tr>&#10;  <tr>&#10;    <td>18</td>&#10;    <td>Marrero Negrin, Jaime</td>&#10;  </tr>&#10;  <tr>&#10;    <td>19</td>&#10;    <td>Sanchez Cabañeros (EL DONI),</td>&#10;  </tr>&#10;  <tr>&#10;    <td>20</td>&#10;    <td>Perez, Raul</td>&#10;  </tr>&#10;  <tr>&#10;    <td>21</td>&#10;    <td>solana mendez, gorka</td>&#10;  </tr>&#10;  <tr>&#10;    <td>22</td>&#10;    <td>Martin Espada, Agustin</td>&#10;  </tr>&#10;  <tr>&#10;    <td>23</td>&#10;    <td>Carcelen, Raul</td>&#10;  </tr>&#10;  <tr>&#10;    <td>24</td>&#10;    <td>Vicente Mora, Javier V</td>&#10;  </tr>&#10;  <tr>&#10;    <td>25</td>&#10;    <td>Mullor, Jorge</td>&#10;  </tr>&#10;  <tr>&#10;    <td>26</td>&#10;    <td>Holzweiss, Ralf</td>&#10;  </tr>&#10;  <tr>&#10;    <td>27</td>&#10;    <td>Simón Martin, Alain</td>&#10;  </tr>&#10;  <tr>&#10;    <td>28</td>&#10;    <td>Blazquez, David</td>&#10;  </tr>&#10;  <tr>&#10;    <td>29</td>&#10;    <td>Domínguez Ramos, Alejandro</td>&#10;  </tr>&#10;  <tr>&#10;    <td>30</td>&#10;    <td>Giner, Pablo G</td>&#10;  </tr>&#10;  <tr>&#10;    <td>31</td>&#10;    <td>santiago, carlos</td>&#10;  </tr>&#10;  <tr>&#10;    <td>32</td>&#10;    <td>prieto, alex</td>&#10;  </tr>&#10;  <tr>&#10;    <td>33</td>&#10;    <td>Rodrigo, Jorge</td>&#10;  </tr>&#10;  <tr>&#10;    <td>34</td>&#10;    <td>Muñoz, Simon</td>&#10;  </tr>&#10;  <tr>&#10;    <td>35</td>&#10;    <td>Rodriguez Xuarez, Adrià</td>&#10;  </tr>&#10;  <tr>&#10;    <td>36</td>&#10;    <td>Garcia Copete, David</td>&#10;  </tr>&#10;  <tr>&#10;    <td>37</td>&#10;    <td>Maestro, Roberto Rms</td>&#10;  </tr>&#10;  <tr>&#10;    <td>38</td>&#10;    <td>Adebo Diaz, Juan Carlos</td>&#10;  </tr>&#10;  <tr>&#10;    <td>39</td>&#10;    <td>Herrera, Francisco J.</td>&#10;  </tr>&#10;  <tr>&#10;    <td>40</td>&#10;    <td>Palencia Lasheras, Enrique P</td>&#10;  </tr>&#10;  <tr>&#10;    <td>41</td>&#10;    <td>Sirvent, Antonio</td>&#10;  </tr>&#10;  <tr>&#10;    <td>42</td>&#10;    <td>m sanchez mata, eugeni s</td>&#10;  </tr>&#10;  <tr>&#10;    <td>43</td>&#10;    <td>Vila Garcia, Antonio Jose</td>&#10;  </tr>&#10;  <tr>&#10;    <td>44</td>&#10;    <td>Rodríguez López, Juan José R</td>&#10;  </tr>&#10;  <tr>&#10;    <td>45</td>&#10;    <td>Galache Fernandez, Pablo P</td>&#10;  </tr>&#10;  <tr>&#10;    <td>46</td>&#10;    <td>Vidal, Bernat</td>&#10;  </tr>&#10;  <tr>&#10;    <td>47</td>&#10;    <td>Encinas, Alvaro</td>&#10;  </tr>&#10;  <tr>&#10;    <td>48</td>&#10;    <td>Auñon, Enrique E</td>&#10;  </tr>&#10;  <tr>&#10;    <td>49</td>&#10;    <td>Blanca, Alejandro</td>&#10;  </tr>&#10;  <tr>&#10;    <td>50</td>&#10;    <td>Martin, Francisco Javier</td>&#10;  </tr>&#10;  <tr>&#10;    <td>51</td>&#10;    <td>Lozano Carreras, Xavier</td>&#10;  </tr>&#10;  <tr>&#10;    <td>52</td>&#10;    <td>Espejo, Javier</td>&#10;  </tr>&#10;  <tr>&#10;    <td>53</td>&#10;    <td>moreno, eduardo a</td>&#10;  </tr>&#10;  <tr>&#10;    <td>54</td>&#10;    <td>castaño, joan</td>&#10;  </tr>&#10;  <tr>&#10;    <td>55</td>&#10;    <td>perez paez, oscar</td>&#10;  </tr>&#10;  <tr>&#10;    <td>56</td>&#10;    <td>Anthony, David</td>&#10;  </tr>&#10;  <tr>&#10;    <td>57</td>&#10;    <td>Paya, Jaime</td>&#10;  </tr>&#10;  <tr>&#10;    <td>58</td>&#10;    <td>Perez del Pozo, Angel Luis</td>&#10;  </tr>&#10;  <tr>&#10;    <td>59</td>&#10;    <td>Jara Perez, Juan Carlos</td>&#10;  </tr>&#10;  <tr>&#10;    <td>60</td>&#10;    <td>Alegre, Angel</td>&#10;  </tr>&#10;  <tr>&#10;    <td>61</td>&#10;    <td>Cordero Valle, Marcos Antoni</td>&#10;  </tr>&#10;  <tr>&#10;    <td>62</td>&#10;    <td>Forcadell, david</td>&#10;  </tr>&#10;  <tr>&#10;    <td>63</td>&#10;    <td>Molina Fernández, Pedro J</td>&#10;  </tr>&#10;  <tr>&#10;    <td>64</td>&#10;    <td>saenz de urturi anton, aleja</td>&#10;  </tr>&#10;  <tr>&#10;    <td>65</td>&#10;    <td>garcia guerra, juan jose</td>&#10;  </tr>&#10;  <tr>&#10;    <td>66</td>&#10;    <td>Diez, Mikel</td>&#10;  </tr>&#10;  <tr>&#10;    <td>67</td>&#10;    <td>Ribes Pizarro, Jose</td>&#10;  </tr>&#10;  <tr>&#10;    <td>68</td>&#10;    <td>Sevilla, Luis David</td>&#10;  </tr>&#10;  <tr>&#10;    <td>69</td>&#10;    <td>Arrieta, Kepa</td>&#10;  </tr>&#10;  <tr>&#10;    <td>70</td>&#10;    <td>Sanxis, Vedast</td>&#10;  </tr>&#10;  <tr>&#10;    <td>71</td>&#10;    <td>Gutierrez, Guillermo</td>&#10;  </tr>&#10;  <tr>&#10;    <td>72</td>&#10;    <td>rohner, omar</td>&#10;  </tr>&#10;  <tr>&#10;    <td>73</td>&#10;    <td>Sans, Josep M</td>&#10;  </tr>&#10;  <tr>&#10;    <td>74</td>&#10;    <td>Porcar Marin, Vicente T</td>&#10;  </tr>&#10;  <tr>&#10;    <td>75</td>&#10;    <td>Garcia, Jonathan</td>&#10;  </tr>&#10;  <tr>&#10;    <td>76</td>&#10;    <td>Vallespín, Jesús</td>&#10;  </tr>&#10;  <tr>&#10;    <td>77</td>&#10;    <td>Ragull, Guillem</td>&#10;  </tr>&#10;  <tr>&#10;    <td>78</td>&#10;    <td>Hernandez, Gines</td>&#10;  </tr>&#10;  <tr>&#10;    <td>79</td>&#10;    <td>Campos, Emilio Lopez</td>&#10;  </tr>&#10;  <tr>&#10;    <td>80</td>&#10;    <td>Cantero Carrion, Jose Angel</td>&#10;  </tr>&#10;  <tr>&#10;    <td>81</td>&#10;    <td>Larena, Daniel</td>&#10;  </tr>&#10;  <tr>&#10;    <td>82</td>&#10;    <td>Vazquez, Francisco Fidel Fid</td>&#10;  </tr>&#10;  <tr>&#10;    <td>83</td>&#10;    <td>San Nicolas Embid, David</td>&#10;  </tr>&#10;  <tr>&#10;    <td>84</td>&#10;    <td>Carrera, jorge</td>&#10;  </tr>&#10;  <tr>&#10;    <td>85</td>&#10;    <td>Sanchez, Daniel D</td>&#10;  </tr>&#10;  <tr>&#10;    <td>86</td>&#10;    <td>Arbide, Inaki</td>&#10;  </tr>&#10;  <tr>&#10;    <td>87</td>&#10;    <td>barcelo, toni</td>&#10;  </tr>&#10;  <tr>&#10;    <td>88</td>&#10;    <td>Novo Mendo, Juan Pablo</td>&#10;  </tr>&#10;  <tr>&#10;    <td>89</td>&#10;    <td>Gallardo, Jose Maria</td>&#10;  </tr>&#10;  <tr>&#10;    <td>90</td>&#10;    <td>Gasa, Joaquin</td>&#10;  </tr>&#10;  <tr>&#10;    <td>91</td>&#10;    <td>Juez Lopez, Oscar c</td>&#10;  </tr>&#10;  <tr>&#10;    <td>92</td>&#10;    <td>Gonzalez, Alvaro</td>&#10;  </tr>&#10;  <tr>&#10;    <td>93</td>&#10;    <td>Navarro Arroyo, Andrés</td>&#10;  </tr>&#10;  <tr>&#10;    <td>94</td>&#10;    <td>Echagüe, Eduardo X</td>&#10;  </tr>&#10;  <tr>&#10;    <td>95</td>&#10;    <td>Trillo Torres, Manuel</td>&#10;  </tr>&#10;  <tr>&#10;    <td>96</td>&#10;    <td>Sanchez, Carlos</td>&#10;  </tr>&#10;  <tr>&#10;    <td>97</td>&#10;    <td>Iglesias, Osvaldo</td>&#10;  </tr>&#10;  <tr>&#10;    <td>98</td>&#10;    <td>Garcia, Diego</td>&#10;  </tr>&#10;  <tr>&#10;    <td>99</td>&#10;    <td>garrido barrero, jhonatan</td>&#10;  </tr>&#10;  <tr>&#10;    <td>100</td>&#10;    <td>Fernandez Calvo, Alvaro</td>&#10;  </tr>&#10;  <tr>&#10;    <td>101</td>&#10;    <td>De la Cruz Marti, Jose</td>&#10;  </tr>&#10;  <tr>&#10;    <td>102</td>&#10;    <td>Garcia Rodriguez, Jose Maria</td>&#10;  </tr>&#10;  <tr>&#10;    <td>103</td>&#10;    <td>Alonso, Emilio E</td>&#10;  </tr>&#10;  <tr>&#10;    <td>104</td>&#10;    <td>Bonavida, Carlos</td>&#10;  </tr>&#10;  <tr>&#10;    <td>105</td>&#10;    <td>bergas mateos, antonio</td>&#10;  </tr>&#10;  <tr>&#10;    <td>106</td>&#10;    <td>Ortega, Andres A</td>&#10;  </tr>&#10;  <tr>&#10;    <td>107</td>&#10;    <td>Cebada, Daniel</td>&#10;  </tr>&#10;  <tr>&#10;    <td>108</td>&#10;    <td>Villacañas, Jesus</td>&#10;  </tr>&#10;  <tr>&#10;    <td>109</td>&#10;    <td>Gonzalez, Raul</td>&#10;  </tr>&#10;</tbody></table>

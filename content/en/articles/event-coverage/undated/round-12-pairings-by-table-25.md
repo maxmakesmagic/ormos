@@ -1,0 +1,40 @@
+---
+id: x9frfzzh
+kind: event
+lang: en
+path: /en/articles/event-coverage/undated/round-12-pairings-by-table-25
+title: Round 12 Pairings (by Table)
+published: null
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-12-pairings-table-2000-01-01-5
+    lang_detected: en
+    capture_id: 499029
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-12-pairings-table-2000-01-01-5
+    captured_at: '2021-10-27 01:22:46+00'
+    rule: meta.og_title
+sources:
+- document_id: x9frfzzh
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-12-pairings-table-2000-01-01-5
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/round-12-pairings-table-2000-01-01-5
+  lang: en
+  template: drupal
+  captured_at: '2021-10-27 01:22:46+00'
+  capture_id: 499029
+  wayback_url: https://web.archive.org/web/20211027012246id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-12-pairings-table-2000-01-01-5
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: x9frfzzh
+  capture_id: 499029
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-12-pairings-table-2000-01-01-5
+  wayback_url: https://web.archive.org/web/20211027012246id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-12-pairings-table-2000-01-01-5
+  captured_at: '2021-10-27 01:22:46+00'
+  template: drupal
+  sha256: 2c896a786d2ecd49f69da1c5e255744fe17580d22b1517b756c3168f4af19195
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Points</b></td><td><b> </b></td><td><b>Opponent</b></td><td><b>Points</b></td></tr><tr><td>  1</td><td>Boileau, Louis</td><td> 29</td><td>vs.</td><td>Wise, Gary</td><td> 24</td></tr><tr><td>  2</td><td>Pollock, Elijah</td><td> 28</td><td>vs.</td><td>Raymond, Ben</td><td> 25</td></tr><tr><td>  3</td><td>Tsang, Terry</td><td> 27</td><td>vs.</td><td>Gerstl, Jeff</td><td> 24</td></tr><tr><td>  4</td><td>Fortin, Jonathan</td><td> 24</td><td>vs.</td><td>Wong, Benny</td><td> 24</td></tr><tr><td>  5</td><td>Gurney, Michael</td><td> 22</td><td>vs.</td><td>Lount, Sam</td><td> 22</td></tr><tr><td>  6</td><td>McGregor, Duncan</td><td> 22</td><td>vs.</td><td>Simard, Jason</td><td> 22</td></tr><tr><td>  7</td><td>Elarar, Jasar</td><td> 21</td><td>vs.</td><td>McLean, Shaun</td><td> 21</td></tr><tr><td>  8</td><td>Evans, Murray</td><td> 21</td><td>vs.</td><td>Tsang, Gabriel</td><td> 21</td></tr><tr><td>  9</td><td>Vienneau, Matthew</td><td> 21</td><td>vs.</td><td>Handfield, Mike</td><td> 21</td></tr><tr><td> 10</td><td>Kelly, Nathan</td><td> 21</td><td>vs.</td><td>Parton, Chris</td><td> 20</td></tr><tr><td> 11</td><td>Cunningham, Jeff</td><td> 19</td><td>vs.</td><td>Stuckert, Aaron</td><td> 19</td></tr><tr><td> 12</td><td>Fung, Jeff</td><td> 18</td><td>vs.</td><td>Wolfman, Steven</td><td> 18</td></tr><tr><td> 13</td><td>Reid, Kyle</td><td> 18</td><td>vs.</td><td>Evans, Forrest</td><td> 18</td></tr><tr><td> 14</td><td>Hall, John</td><td> 17</td><td>vs.</td><td>Krakower, Gary</td><td> 16</td></tr><tr><td> 15</td><td>Chung, Herbert</td><td> 17</td><td>vs.</td><td>Yang, Peter</td><td> 16</td></tr><tr><td> 16</td><td>Bideshi, Nick</td><td> 16</td><td>vs.</td><td>Chen, Nick</td><td> 16</td></tr><tr><td> 17</td><td>Fontaine, Geoff</td><td> 15</td><td>vs.</td><td>Herman, Jason</td><td> 15</td></tr><tr><td> 18</td><td>Lau, Sam</td><td> 15</td><td>vs.</td><td>Johnstone, Chris</td><td> 15</td></tr><tr><td> 19</td><td>Gaziani, Dan F.</td><td> 13</td><td>vs.</td><td>Babin, Jean</td><td> 13</td></tr><tr><td> 20</td><td>Allen, Brett</td><td> 10</td><td>vs.</td><td>Roy, Sky Winslow</td><td> 12</td></tr><tr><td> 21</td><td>Johnson, Paul</td><td>  9</td><td>vs.</td><td>Rider, Josh</td><td> 12</td></tr></tbody></table>

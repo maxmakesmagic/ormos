@@ -1,0 +1,1091 @@
+---
+id: 6tqx39ax
+kind: event
+lang: en
+path: /en/articles/event-coverage/undated/amateur-czech-collects-the-check
+title: Amateur Czech Collects the Check!
+published: null
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtgevent_gpnott05_welcome
+    lang_detected: en
+    capture_id: 829355
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_gpnott05_welcome
+    captured_at: '2009-06-04 03:01:52+00'
+    rule: aspx.article_heading
+sources:
+- document_id: 6tqx39ax
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_gpnott05_welcome
+  page_key: wizards.com/magic/magazine/article.aspx?x=mtgevent_gpnott05_welcome
+  lang: en
+  template: aspx
+  captured_at: '2009-06-04 03:01:52+00'
+  capture_id: 829355
+  wayback_url: https://web.archive.org/web/20090604030152id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_gpnott05_welcome
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 6tqx39ax
+  capture_id: 829355
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_gpnott05_welcome
+  wayback_url: https://web.archive.org/web/20090604030152id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_gpnott05_welcome
+  captured_at: '2009-06-04 03:01:52+00'
+  template: aspx
+  sha256: ee30242f16a188a89b3577fa118a45ac5b698a974bd4f777d7c8c332421cea10
+render_recovery:
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Congregation_at_Dawn')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Congregation at Dawn
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sewerdreg')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sewerdreg
+  occurrences: 19
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Ribbons_of_Night')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Ribbons of Night
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Last_Gasp')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Last Gasp
+  occurrences: 15
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Stinkweed_Imp')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Stinkweed Imp
+  occurrences: 18
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Gather_Courage')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Gather Courage
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Conclave_Equenaut')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Conclave Equenaut
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Auratouched_Mage')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Auratouched Mage
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Benevolent_Ancestor')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Benevolent Ancestor
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Greater_Mossdog')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Greater Mossdog
+  occurrences: 10
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Halcyon_Glaze')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Halcyon Glaze
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Disembowel')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Disembowel
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Centaur_Safeguard')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Centaur Safeguard
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Boros_Signet')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Boros Signet
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Gaze_of_the_Gorgon')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Gaze of the Gorgon
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Junktroller')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Junktroller
+  occurrences: 10
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Seeds_of_Strength')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Seeds of Strength
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Crown_of_Convergence')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Crown of Convergence
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Flash_Conscription')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Flash Conscription
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Darkblast')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Darkblast
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Golgari_Signet')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Golgari Signet
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Surveilling_Sprite')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Surveilling Sprite
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Vedalken_Entrancer')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Vedalken Entrancer
+  occurrences: 9
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Vedalken_Dismisser')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Vedalken Dismisser
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Boros_Garrison')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Boros Garrison
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Induce_Paranoia')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Induce Paranoia
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Fiery_Conclusion')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Fiery Conclusion
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mark_of_Eviction')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mark of Eviction
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Duskmantle,_House_of_Shadow')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Duskmantle, House of Shadow
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Consult_the_Necrosages')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Consult the Necrosages
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Incite_Hysteria')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Incite Hysteria
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Rain_of_Embers')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Rain of Embers
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Suppression_Field')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Suppression Field
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Divebomber_Griffin')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Divebomber Griffin
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Blazing_Archon')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Blazing Archon
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Scatter_the_Seeds')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Scatter the Seeds
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Veteran_Armorer')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Veteran Armorer
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Vinelasher_Kudzu')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Vinelasher Kudzu
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Terrarion')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Terrarion
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Oathsworn_Giant')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Oathsworn Giant
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Three_Dreams')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Three Dreams
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Transluminant')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Transluminant
+  occurrences: 15
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Netherborn_Phalanx')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Netherborn Phalanx
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Spectral_Searchlight')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Spectral Searchlight
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Strands_of_Undeath')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Strands of Undeath
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Snapping_Drake')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Snapping Drake
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Tattered_Drake')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Tattered Drake
+  occurrences: 12
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Drift_of_Phantasms')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Drift of Phantasms
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Hunted_Horror')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Hunted Horror
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Dimir_Infiltrator')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Dimir Infiltrator
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Root-Kin_Ally')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Root-Kin Ally
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Farseek')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Farseek
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Terraformer')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Terraformer
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sadistic_Augermage')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sadistic Augermage
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Elvish_Skysweeper')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Elvish Skysweeper
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Selesnya_Signet')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Selesnya Signet
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Brainspoil')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Brainspoil
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Siege_Wurm')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Siege Wurm
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Moroii')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Moroii
+  occurrences: 12
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Loxodon_Hierarch')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Loxodon Hierarch
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Galvanic_Arc')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Galvanic Arc
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Recollect')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Recollect
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Compulsive_Research')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Compulsive Research
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Flame-Kin_Zealot')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Flame-Kin Zealot
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Watchwolf')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Watchwolf
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Nightguard_Patrol')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Nightguard Patrol
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Razia,_Boros_Archangel')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Razia, Boros Archangel
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Flight_of_Fancy')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Flight of Fancy
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Clinging_Darkness')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Clinging Darkness
+  occurrences: 10
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Lurking_Informant')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Lurking Informant
+  occurrences: 8
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Twisted_Justice')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Twisted Justice
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Golgari_Brownscale')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Golgari Brownscale
+  occurrences: 8
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Guardian_of_Vitu-Ghazi')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Guardian of Vitu-Ghazi
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Selesnya_Sanctuary')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Selesnya Sanctuary
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Hunted_Phantasm')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Hunted Phantasm
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Spawnbroker')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Spawnbroker
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Quickchange')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Quickchange
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Screeching_Griffin')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Screeching Griffin
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Boros_Guildmage')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Boros Guildmage
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Faith[s_Fetters')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Faith's Fetters
+  occurrences: 9
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Viashino_Fangtail')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Viashino Fangtail
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Rally_the_Righteous')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Rally the Righteous
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Thundersong_Trumpeter')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Thundersong Trumpeter
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Ordruun_Commando')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Ordruun Commando
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Skyknight_Legionnaire')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Skyknight Legionnaire
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Concerted_Effort')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Concerted Effort
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Firemane_Angel')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Firemane Angel
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sandsower')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sandsower
+  occurrences: 11
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Viashino_Slasher')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Viashino Slasher
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Master_Warcraft')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Master Warcraft
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Courier_Hawk')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Courier Hawk
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Dogpile')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Dogpile
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Goblin_Spelunkers')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Goblin Spelunkers
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sunhome,_Fortress_of_the_Legion')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sunhome, Fortress of the Legion
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Fists_of_Ironwood')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Fists of Ironwood
+  occurrences: 9
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Trophy_Hunter')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Trophy Hunter
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Golgari_Rotwurm')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Golgari Rotwurm
+  occurrences: 12
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Thoughtpicker_Witch')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Thoughtpicker Witch
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Vigor_Mortis')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Vigor Mortis
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Putrefy')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Putrefy
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Civic_Wayfinder')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Civic Wayfinder
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Dimir_House_Guard')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Dimir House Guard
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mortipede')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mortipede
+  occurrences: 11
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Necroplasm')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Necroplasm
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Roofstalker_Wight')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Roofstalker Wight
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Overwhelm')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Overwhelm
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Primordial_Sage')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Primordial Sage
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Selesnya_Evangel')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Selesnya Evangel
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Pollenbright_Wings')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Pollenbright Wings
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Moldervine_Cloak')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Moldervine Cloak
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Peel_from_Reality')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Peel from Reality
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Island')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Island
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Plains')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Plains
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Golgari_Rot_Farm')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Golgari Rot Farm
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Tidewater_Minion')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Tidewater Minion
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Drooling_Groodion')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Drooling Groodion
+  occurrences: 10
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Wizened_Snitches')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Wizened Snitches
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Dream_Leash')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Dream Leash
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Forest')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Forest
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Swamp')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Swamp
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Glimpse_the_Unthinkable')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Glimpse the Unthinkable
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sell-Sword_Brute')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sell-Sword Brute
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('War-Torch_Goblin')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - War-Torch Goblin
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Elves_of_Deep_Shadow')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Elves of Deep Shadow
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Keening_Banshee')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Keening Banshee
+  occurrences: 9
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Woodwraith_Corrupter')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Woodwraith Corrupter
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Ivy_Dancer')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Ivy Dancer
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Rolling_Spoil')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Rolling Spoil
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Shambling_Shell')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Shambling Shell
+  occurrences: 2
+---
+![](https://i.ormos.uk/90/05/90058cc0f5305c2c71e90b46ec5b8c48f5811276cab0de21c7e5870170c20fef.jpg)
+
+Grand Prix-Nottingham was kind of an odd event as it doesn't feed the upcoming Pro Tour in Hawai but an unspecified Pro Tour next year. As such it made a welcome diversion before the avalanche of Goblins hits with the start of the Extended season. Instead, the players had to cope with an avalanche of Green. The guild structure of the Ravnica expansion meant that forests occurred in fully 88% of the 559 sealed decks bashing it out on day one.
+
+64 players emerged from that minefield and then we got to see how the brand new multi-color set would draft. The results were fairly chaotic with players often straddling two guilds, but the obvious archetypes emerged -- although with differing results.
+
+At first glance it seemed like a relatively unknown Top 8 although a little further digging revealed it contained two previous Grand Prix winners and another player with three appearances at the final stages of a Grand Prix. In the end it was the amateur Czech player Nikola Vavra and up-and-coming Dutch player Roel Heeswijk who battled it out in a tricksy match between Vavra's green-black-white deck and Heeswijk's blue-black deck. 
+
+Vavra won the first and then looked in a very strong position in the second when Congregation at Dawn fetched the best creatures in his deck. Heeswijk was able to deal with the first two but a swamp-walking Sewerdreg managed to finally do in Heeswijk despite him bouncing it an amazing four times. A final desperate effort to gain life with Ribbons of Night was countered as Vavra used a Last Gasp to kill his own Stinkweed Imp. It was a fantastic end to a riveting game and congratulations go out to Nikola Vavra, champion of Grand Prix-Nottingham!
+
+  
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;    </td><td>Quarterfinals </td>&#10;    <td> </td>&#10;    <td>Semifinals </td>&#10;    <td> </td>&#10;    <td>Finals </td>&#10;    <td> </td>&#10;    <td>Champion </td>&#10;  </tr>&#10;  <tr>&#10;    <td>1</td>&#10;    <td>&#10;      Ricard Tudori&#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Nikola Vavra, 2-0&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3"> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>8</td>&#10;    <td>&#10;      Nikola Vavra&#10;    </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3">&#10;      Nikola Vavra, 2-1&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>4</td>&#10;    <td>&#10;      Jure Trunk&#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Nikolaus Eigner, 2-1&#10;    </td>&#10;    <td rowspan="5"> </td>&#10;    <td rowspan="5">&#10;      Nikola Vavra, 2-0&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>5</td>&#10;    <td>&#10;      Nikolaus Eigner&#10;    </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3"> </td>&#10;  </tr>&#10;  <tr>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>2</td>&#10;    <td>&#10;      Jean Charles Salvin&#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Roel Heeswijk, 2-1&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>7</td>&#10;    <td>&#10;      Roel Heeswijk&#10;    </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3">&#10;      Roel Heeswijk, 2-0&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>3</td>&#10;    <td>&#10;      Philip Reich&#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Philip Reichs, s-1&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>6</td>&#10;    <td>&#10;      Alfred Benages&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;</tbody></table>
+
+  
+  
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <b>EVENT COVERAGE</b>&#10;    </td>&#10;    <td>&#10;      &#10;      <b>FINAL TOP 8 STANDINGS</b>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <ul>&#10;        <br>&#10;        <li>&#10;          <a href="#8">Blog - 10:45 p.m.</a> - Finals: Nikola Vavra vs Roel Heeswijk <div><i>by Craig Jones</i></div></li>&#10;        <li>&#10;          <a href="#7">Blog - 10:15 p.m.</a> - Semifinals: Nikola Vavra vs. Nikolaus Eigner <div><i>by Frank Karsten</i></div></li>&#10;        <li>&#10;          <a href="#6">Blog - 9:59 p.m.</a> - Semifinals: Philip Reich vs. Roel van Heeswijk <div><i>by Julien Nuijten</i></div></li>&#10;        <li>&#10;          <a href="#5">Blog - 9:21 p.m.</a> - Quarterfinals: Nikola Vavra vs. Ricard Tudori <div><i>by Frank Karsten</i></div></li>&#10;        <li>&#10;          <a href="#4">Blog - 9:09 p.m.</a> - Quarterfinals: Jean-Charles Salvin vs. Roel van Heeswijk <div><i>by Julien Nuijten</i></div></li>&#10;        <li>&#10;          <a href="#3">Blog - 8:59 p.m.</a> - Quarterfinals: Nikolas Eigner vs. Jure Trunk <div><i>by Craig Jones</i></div></li>&#10;        <li>&#10;          <a href="#2">Blog - 8:26 p.m.</a> - Quarterfinals: Alfred Benages vs. Philip Reich <div><i>by Tim Willoughby</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2007/gpnott05/decklists-the-top-8-decks">Decklists</a>: The Top 8 Decks <div><i>by Event Coverage Staff</i></div></li>&#10;        <li>&#10;          <a href="#1">Blog - 7:40 p.m.</a> - Top 8 draft: Roel van Heeswijk <div><i>by Julien Nuijten</i></div></li>&#10;        <br>&#10;        <hr>&#10;        <br>&#10;        <li>&#10;          <a href="/en/events/2007/gpnott05/day-2-blog-archive">Day 2 Blog Archive</a>: Features Matches, Draft Reports, State of Play, and much more! <div><i>by Event Coverge Staff</i></div></li>&#10;        <li>&#10;          <a href="/it/events/2007/gpnott05/round-12-pods">Round 12</a>: Pods <div><i>by Event Coverage Staff</i></div></li>&#10;        <li>&#10;          <a href="/it/events/2007/gpnott05/round-9-pods">Round 9</a>: Pods <div><i>by Event Coverage Staff</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2007/gpnott05/day-2-country-breakdown">Info</a>: Day 2 Country Breakdown <div><i>by Event Coverage Staff</i></div></li>&#10;        <li>&#10;          <a href="/es/events/2007/gpnott05/day-2-player-list">Info</a>: Day 2 Player List <div><i>by Event Coverage Staff</i></div></li>&#10;        <br>&#10;        <hr>&#10;        <br>&#10;        <li>&#10;          <a href="/en/events/2007/gpnott05/day-1-blog-archive">Day 1 Blog Archive</a>: MOX Radio, Deck Breakdowns, Local Talent, Top Pro Play, and much more! <div><i>by Craig Jones</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2007/gpnott05/decklists-day-1-undefeated-decks">Decklists</a>: Day 1 Undefeated Decks <div><i>by Event Coverage Staff</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2007/gpnott05/day-1-country-breakdown">Info</a>: Day 1 Country Breakdown <div><i>by Event Coverage Staff</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2007/gpnott05/day-1-player-list">Info</a>: Day 1 Player List <div><i>by Event Coverage Staff</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2009/nottingham05/grand-prix-nottingham">Info</a>: Fact Sheet <div><i>by Event Coverage Staff</i></div></li>&#10;      </ul>&#10;    </td>&#10;    <td colspan="2">&#10;      &#10;      <table>&#10;        <tbody><tr>&#10;          <td> 1.  <b>Nikola Vavra</b></td>&#10;          <td>$2,400</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 2.  <b>Roel Heeswijk</b></td>&#10;          <td>$1,700</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 3.  <b>Nikolaus Eigner</b></td>&#10;          <td>$1,200</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 4.  <b>Philip Reichs</b></td>&#10;          <td>$1,000</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 5.  <b>Jean Charles Salvin</b></td>&#10;          <td>$800</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 6.  <b>Ricard Tudori</b></td>&#10;          <td>$800</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 7.  <b>Jure Trunk</b></td>&#10;          <td>$800</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 8.  <b>Alfred Benages</b></td>&#10;          <td>$800</td>&#10;        </tr>&#10;      </tbody></table>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <b>Pairings</b>&#10;          </td>&#10;          <td>&#10;            <b>Results</b>&#10;          </td>&#10;          <td>&#10;            <b>Standings</b>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;          </td><td>&#10;          </td><td>&#10;            <a href="/de/events/2007/gpnott05/final-standings">Final</a>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            <a href="/de/events/2007/gpnott05/round-14-pairings">14</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpnott05/round-13-pairings">13</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpnott05/round-12-pairings">12</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpnott05/round-11-pairings">11</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpnott05/round-10-pairings">10</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpnott05/round-9-pairings">9</a>&#10;          </td>&#10;          <td>&#10;            <a href="/nob/events/2007/gpnott05/round-14-results">14</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpnott05/round-13-results">13</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpnott05/round-12-results">12</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpnott05/round-11-results">11</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpnott05/round-10-results">10</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpnott05/round-9-results">9</a>&#10;          </td>&#10;          <td>&#10;            <a href="/de/events/2007/gpnott05/round-14-standings">14</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpnott05/round-13-standings">13</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpnott05/round-12-standings">12</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpnott05/round-11-standings">11</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpnott05/round-10-standings">10</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpnott05/round-9-standings">9</a>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            <a href="/nob/events/2007/gpnott05/round-8-pairings">8</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpnott05/round-7-pairings">7</a>&#10;            <br>&#10;            <a href="/nob/events/2007/gpnott05/round-6-pairings">6</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpnott05/round-5-pairings">5</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpnott05/round-4-pairings">4</a>&#10;            <br>&#10;            <a href="/en/events/2007/gpnott05/round-3-pairings">3</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpnott05/round-2-pairings">2</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpnott05/round-1-pairings">1</a>&#10;          </td>&#10;          <td>&#10;            <a href="/nob/events/2007/gpnott05/round-8-results">8</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpnott05/round-7-results">7</a>&#10;            <br>&#10;            <a href="/nob/events/2007/gpnott05/round-6-results">6</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpnott05/round-5-results">5</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpnott05/round-4-results">4</a>&#10;            <br>&#10;            <a href="/en/events/2007/gpnott05/round-3-results">3</a>&#10;            <br>&#10;            <a href="/en/events/2007/gpnott05/round-2-results">2</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpnott05/round-1-results">1</a>&#10;          </td>&#10;          <td>&#10;            <a href="/de/events/2007/gpnott05/round-8-standings">8</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpnott05/round-7-standings">7</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpnott05/round-6-standings">6</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpnott05/round-5-standings">5</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpnott05/round-4-standings">4</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpnott05/round-3-standings">3</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpnott05/round-2-standings">2</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpnott05/round-1-standings">1</a>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;    </td>&#10;  </tr>&#10;</tbody></table>
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <b>BLOG</b>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <br>&#10;      <a name="1">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, Oct 16: 7:40 pm - Top 8 draft: Roel van Heeswijk</b>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/4f/11/4f11bbff75aa764edea61085b66d2c6afd028952f3e1923e609c51d78ba4f582.jpg">&#10;            <i>The final draft table is set</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Roel told me before the draft that he was somewhat biased towards the blue/black Agro deck; with lots of fliers and cheap blockers. After the draft, Roel was shaking his head because he expected the draft to go a lot better for him. He told me that he's usually afraid that he's going into a certain color combination as a result of his bias, and that's why he was afraid to go into his favourite colors in this draft, even thought it may have been right. &quot;Now to build the sealed deck&quot;, Roel jokes; as he was still deciding his colors during deck construction rather than during the draft. He could splash green for <a>Gather Courage</a>, or white for <a>Conclave Equenaut</a>, <a>Auratouched Mage</a> and <a>Benevolent Ancestor</a>, but he had enough cards for a blue/black deck without any splashes. Here's how the draft went (with Roel's picks in bold letters):</p>&#10;      <br>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <a>Greater Mossdog</a>&#10;          </td>&#10;          <td>Compulsive Search</td>&#10;          <td>&#10;            <b>&#10;              <a>Halcyon Glaze</a>&#10;            </b>&#10;          </td>&#10;          <td>&#10;          </td><td>&#10;          </td><td>&#10;        </td></tr>&#10;        <tr>&#10;          <td>&#10;            <b>&#10;              <a>Disembowel</a>&#10;            </b>&#10;          </td>&#10;          <td>Sunhome</td>&#10;          <td>&#10;            <a>Centaur Safeguard</a>&#10;          </td>&#10;          <td>&#10;            <a>Boros Signet</a>&#10;          </td>&#10;          <td>&#10;            <a>Gaze of the Gorgon</a>&#10;          </td>&#10;          <td>&#10;        </td></tr>&#10;        <tr>&#10;          <td>&#10;            <b>&#10;              <a>Stinkweed Imp</a>&#10;            </b>&#10;          </td>&#10;          <td>&#10;            <a>Junktroller</a>&#10;          </td>&#10;          <td>&#10;            <a>Gather Courage</a>&#10;          </td>&#10;          <td>&#10;            <a>Seeds of Strength</a>&#10;          </td>&#10;          <td>&#10;            <a>Crown of Convergence</a>&#10;          </td>&#10;          <td>&#10;        </td></tr>&#10;        <tr>&#10;          <td>&#10;            <a>Boros Signet</a>&#10;          </td>&#10;          <td>&#10;            <a>Flash Conscription</a>&#10;          </td>&#10;          <td>Flight of fancy</td>&#10;          <td>&#10;            <b>&#10;              <a>Darkblast</a>&#10;            </b>&#10;          </td>&#10;          <td>&#10;          </td><td>&#10;        </td></tr>&#10;        <tr>&#10;          <td>&#10;            <b>&#10;              <a>Auratouched Mage</a>&#10;            </b>&#10;          </td>&#10;          <td>&#10;            <a>Seeds of Strength</a>&#10;          </td>&#10;          <td>&#10;            <a>Golgari Signet</a>&#10;          </td>&#10;          <td>&#10;            <a>Surveilling Sprite</a>&#10;          </td>&#10;          <td>&#10;            <a>Vedalken Entrancer</a>&#10;          </td>&#10;          <td>&#10;        </td></tr>&#10;        <tr>&#10;          <td>&#10;            <b>&#10;              <a>Gather Courage</a>&#10;            </b>&#10;          </td>&#10;          <td>Peel from reality</td>&#10;          <td>&#10;            <a>Vedalken Dismisser</a>&#10;          </td>&#10;          <td>&#10;            <a>Sewerdreg</a>&#10;          </td>&#10;          <td>&#10;          </td><td>&#10;        </td></tr>&#10;        <tr>&#10;          <td>&#10;            <b>Peel from reality</b>&#10;          </td>&#10;          <td>&#10;            <a>Boros Garrison</a>&#10;          </td>&#10;          <td>&#10;            <a>Induce Paranoia</a>&#10;          </td>&#10;          <td>&#10;          </td><td>&#10;          </td><td>&#10;        </td></tr>&#10;        <tr>&#10;          <td>&#10;            <a>Fiery Conclusion</a>&#10;          </td>&#10;          <td>&#10;            <b>&#10;              <a>Benevolent Ancestor</a>&#10;            </b>&#10;          </td>&#10;          <td>&#10;            <a>Surveilling Sprite</a>&#10;          </td>&#10;          <td>&#10;            <a>Mark of Eviction</a>&#10;          </td>&#10;          <td>&#10;          </td><td>&#10;        </td></tr>&#10;        <tr>&#10;          <td>&#10;            <a>Duskmantle, House of Shadow</a>&#10;          </td>&#10;          <td>&#10;            <b>&#10;              <a>Consult the Necrosages</a>&#10;            </b>&#10;          </td>&#10;          <td>&#10;          </td><td>&#10;          </td><td>&#10;          </td><td>&#10;        </td></tr>&#10;        <tr>&#10;          <td>&#10;            <a>Incite Hysteria</a>&#10;          </td>&#10;          <td>&#10;            <b>Voltary of the Conclave</b>&#10;          </td>&#10;          <td>&#10;          </td><td>&#10;          </td><td>&#10;          </td><td>&#10;        </td></tr>&#10;        <tr>&#10;          <td>&#10;            <b>&#10;              <a>Junktroller</a>&#10;            </b>&#10;          </td>&#10;          <td>&#10;            <a>Vedalken Dismisser</a>&#10;          </td>&#10;          <td>&#10;          </td><td>&#10;          </td><td>&#10;          </td><td>&#10;        </td></tr>&#10;        <tr>&#10;          <td>&#10;            <a>Rain of Embers</a>&#10;          </td>&#10;          <td>&#10;            <b>&#10;              <a>Suppression Field</a>&#10;            </b>&#10;          </td>&#10;          <td>&#10;          </td><td>&#10;          </td><td>&#10;          </td><td>&#10;        </td></tr>&#10;        <tr>&#10;          <td>&#10;          </td><td>&#10;          </td><td>&#10;          </td><td>&#10;          </td><td>&#10;          </td><td>&#10;        </td></tr>&#10;        <tr>&#10;          <td>&#10;            <a>Divebomber Griffin</a>&#10;          </td>&#10;          <td>&#10;            <a>Blazing Archon</a>&#10;          </td>&#10;          <td>&#10;            <a>Scatter the Seeds</a>&#10;          </td>&#10;          <td>&#10;            <b>&#10;              <a>Conclave Equenaut</a>&#10;            </b>&#10;          </td>&#10;          <td>&#10;            <a>Centaur Safeguard</a>&#10;          </td>&#10;          <td>&#10;        </td></tr>&#10;        <tr>&#10;          <td>&#10;            <a>Veteran Armorer</a>&#10;          </td>&#10;          <td>&#10;            <a>Gather Courage</a>&#10;          </td>&#10;          <td>&#10;            <b>&#10;              <a>Last Gasp</a>&#10;            </b>&#10;          </td>&#10;          <td>&#10;          </td><td>&#10;          </td><td>&#10;        </td></tr>&#10;        <tr>&#10;          <td>&#10;            <a>Vinelasher Kudzu</a>&#10;          </td>&#10;          <td>&#10;            <a>Stinkweed Imp</a>&#10;          </td>&#10;          <td>&#10;            <b>&#10;              <a>Ribbons of Night</a>&#10;            </b>&#10;          </td>&#10;          <td>&#10;          </td><td>&#10;          </td><td>&#10;        </td></tr>&#10;        <tr>&#10;          <td>&#10;            <a>Gaze of the Gorgon</a>&#10;          </td>&#10;          <td>&#10;            <b>&#10;              <a>Terrarion</a>&#10;            </b>&#10;          </td>&#10;          <td>&#10;            <a>Oathsworn Giant</a>&#10;          </td>&#10;          <td>&#10;            <a>Three Dreams</a>&#10;          </td>&#10;          <td>&#10;            <a>Transluminant</a>&#10;          </td>&#10;          <td>&#10;        </td></tr>&#10;        <tr>&#10;          <td>&#10;            <a>Transluminant</a>&#10;          </td>&#10;          <td>&#10;            <a>Netherborn Phalanx</a>&#10;          </td>&#10;          <td>&#10;            <b>&#10;              <a>Spectral Searchlight</a>&#10;            </b>&#10;          </td>&#10;          <td>&#10;            <a>Strands of Undeath</a>&#10;          </td>&#10;          <td>&#10;            <a>Boros Garrison</a>&#10;          </td>&#10;          <td>&#10;        </td></tr>&#10;        <tr>&#10;          <td>&#10;            <b>&#10;              <a>Snapping Drake</a>&#10;            </b>&#10;          </td>&#10;          <td>&#10;            <a>Tattered Drake</a>&#10;          </td>&#10;          <td>&#10;            <a>Drift of Phantasms</a>&#10;          </td>&#10;          <td>&#10;            <a>Hunted Horror</a>&#10;          </td>&#10;          <td>&#10;            <a>Terrarion</a>&#10;          </td>&#10;          <td>&#10;        </td></tr>&#10;        <tr>&#10;          <td>&#10;            <b>&#10;              <a>Dimir Infiltrator</a>&#10;            </b>&#10;          </td>&#10;          <td>&#10;            <a>Root-Kin Ally</a>&#10;          </td>&#10;          <td>&#10;            <a>Farseek</a>&#10;          </td>&#10;          <td>&#10;          </td><td>&#10;          </td><td>&#10;        </td></tr>&#10;        <tr>&#10;          <td>&#10;            <b>&#10;              <a>Golgari Signet</a>&#10;            </b>&#10;          </td>&#10;          <td>&#10;            <a>Terraformer</a>&#10;          </td>&#10;          <td>&#10;          </td><td>&#10;          </td><td>&#10;          </td><td>&#10;        </td></tr>&#10;        <tr>&#10;          <td>&#10;            <b>&#10;              <a>Sadistic Augermage</a>&#10;            </b>&#10;          </td>&#10;          <td>&#10;            <a>Elvish Skysweeper</a>&#10;          </td>&#10;          <td>&#10;          </td><td>&#10;          </td><td>&#10;          </td><td>&#10;        </td></tr>&#10;        <tr>&#10;          <td>&#10;            <b>&#10;              <a>Vedalken Dismisser</a>&#10;            </b>&#10;          </td>&#10;          <td>Sand Sower</td>&#10;          <td>&#10;          </td><td>&#10;          </td><td>&#10;          </td><td>&#10;        </td></tr>&#10;        <tr>&#10;          <td>&#10;            <a>Sewerdreg</a>&#10;          </td>&#10;          <td>&#10;            <b>&#10;              <a>Selesnya Signet</a>&#10;            </b>&#10;          </td>&#10;          <td>&#10;          </td><td>&#10;          </td><td>&#10;          </td><td>&#10;        </td></tr>&#10;        <tr>&#10;          <td>&#10;            <b>&#10;              <a>Dimir Infiltrator</a>&#10;            </b>&#10;          </td>&#10;          <td>&#10;          </td><td>&#10;          </td><td>&#10;          </td><td>&#10;          </td><td>&#10;        </td></tr>&#10;        <tr>&#10;          <td>&#10;            <b>&#10;              <a>Hunted Horror</a>&#10;            </b>&#10;          </td>&#10;          <td>&#10;          </td><td>&#10;          </td><td>&#10;          </td><td>&#10;          </td><td>&#10;        </td></tr>&#10;        <tr>&#10;          <td>&#10;          </td><td>&#10;          </td><td>&#10;          </td><td>&#10;          </td><td>&#10;          </td><td>&#10;        </td></tr>&#10;        <tr>&#10;          <td>&#10;          </td><td>&#10;          </td><td>&#10;          </td><td>&#10;          </td><td>&#10;          </td><td>&#10;        </td></tr>&#10;        <tr>&#10;          <td>&#10;            <b>&#10;              <a>Brainspoil</a>&#10;            </b>&#10;          </td>&#10;          <td>&#10;            <a>Siege Wurm</a>&#10;          </td>&#10;          <td>&#10;            <a>Greater Mossdog</a>&#10;          </td>&#10;          <td>&#10;          </td><td>&#10;          </td><td>&#10;        </td></tr>&#10;        <tr>&#10;          <td>&#10;            <b>&#10;              <a>Moroii</a>&#10;            </b>&#10;          </td>&#10;          <td>&#10;            <a>Loxodon Hierarch</a>&#10;          </td>&#10;          <td>&#10;            <a>Galvanic Arc</a>&#10;          </td>&#10;          <td>&#10;          </td><td>&#10;          </td><td>&#10;        </td></tr>&#10;        <tr>&#10;          <td>&#10;            <a>Conclave Equenaut</a>&#10;          </td>&#10;          <td>&#10;            <a>Recollect</a>&#10;          </td>&#10;          <td>&#10;            <b>&#10;              <a>Compulsive Research</a>&#10;            </b>&#10;          </td>&#10;          <td>&#10;            <a>Flame-Kin Zealot</a>&#10;          </td>&#10;          <td>&#10;          </td><td>&#10;        </td></tr>&#10;        <tr>&#10;          <td>&#10;            <a>Watchwolf</a>&#10;          </td>&#10;          <td>&#10;            <a>Nightguard Patrol</a>&#10;          </td>&#10;          <td>&#10;            <a>Razia, Boros Archangel</a>&#10;          </td>&#10;          <td>&#10;            <b>&#10;              <a>Flight of Fancy</a>&#10;            </b>&#10;          </td>&#10;          <td>&#10;            <a>Clinging Darkness</a>&#10;          </td>&#10;          <td>&#10;        </td></tr>&#10;        <tr>&#10;          <td>&#10;            <a>Terrarion</a>&#10;          </td>&#10;          <td>&#10;            <a>Lurking Informant</a>&#10;          </td>&#10;          <td>&#10;            <a>Twisted Justice</a>&#10;          </td>&#10;          <td>&#10;            <a>Drift of Phantasms</a>&#10;          </td>&#10;          <td>&#10;            <a>Golgari Signet</a>&#10;          </td>&#10;          <td>&#10;            <a>Golgari Brownscale</a>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            <b>&#10;              <a>Darkblast</a>&#10;            </b>&#10;          </td>&#10;          <td>&#10;            <a>Lurking Informant</a>&#10;          </td>&#10;          <td>&#10;            <a>Sadistic Augermage</a>&#10;          </td>&#10;          <td>&#10;          </td><td>&#10;          </td><td>&#10;        </td></tr>&#10;        <tr>&#10;          <td>&#10;            <b>&#10;              <a>Tattered Drake</a>&#10;            </b>&#10;          </td>&#10;          <td>&#10;            <a>Guardian of Vitu-Ghazi</a>&#10;          </td>&#10;          <td>&#10;            <a>Selesnya Sanctuary</a>&#10;          </td>&#10;          <td>&#10;          </td><td>&#10;          </td><td>&#10;        </td></tr>&#10;        <tr>&#10;          <td>&#10;            <b>&#10;              <a>Compulsive Research</a>&#10;            </b>&#10;          </td>&#10;          <td>&#10;            <a>Hunted Phantasm</a>&#10;          </td>&#10;          <td>&#10;          </td><td>&#10;          </td><td>&#10;          </td><td>&#10;        </td></tr>&#10;        <tr>&#10;          <td>&#10;            <b>&#10;              <a>Spawnbroker</a>&#10;            </b>&#10;          </td>&#10;          <td>&#10;          </td><td>&#10;          </td><td>&#10;          </td><td>&#10;          </td><td>&#10;        </td></tr>&#10;        <tr>&#10;          <td>&#10;            <a>Incite Hysteria</a>&#10;          </td>&#10;          <td>&#10;            <b>&#10;              <a>Quickchange</a>&#10;            </b>&#10;          </td>&#10;          <td>&#10;          </td><td>&#10;          </td><td>&#10;          </td><td>&#10;        </td></tr>&#10;        <tr>&#10;          <td>&#10;            <b>&#10;              <a>Sadistic Augermage</a>&#10;            </b>&#10;          </td>&#10;          <td>&#10;            <a>Flame-Kin Zealot</a>&#10;          </td>&#10;          <td>&#10;          </td><td>&#10;          </td><td>&#10;          </td><td>&#10;        </td></tr>&#10;        <tr>&#10;          <td>Belevolent Ancestor</td>&#10;          <td>&#10;            <b>&#10;              <a>Clinging Darkness</a>&#10;            </b>&#10;          </td>&#10;          <td>&#10;          </td><td>&#10;          </td><td>&#10;          </td><td>&#10;        </td></tr>&#10;      </tbody></table>&#10;      <p>All in all, Roel's deck is a decent mixture of fliers, defenders, removal and card draw, but the overall card quality isn't very good because of his uncertainty in colors early on in the draft. He thinks that if he's able to draw the better part of his deck rather than the mediocre cards, his chances are good, so anything could happen.</p>&#10;      <br>&#10;      <a name="2">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, Oct 16: 8:26 pm - Quarterfinals: Alfred Benages vs. Philip Reich</b>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <p>Philip won the die roll and elected to play first. </p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/48/0b/480bd6112b7a1a02ff82c02e1bbe74454a152c3cf77c9b0692ea6bc857f8a00b.jpg">&#10;            <i>Alfred Benages</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>His hand was a quick keep, and while Alfred's was slightly slower, it was also worth playing with. A mountain on turn one signalled the fast Boros legion, but there were no plays for on the first three turns. For Benages, who was also red white, there was a <a>Golgari Signet</a> and the first creature of the game in the form of <a>Nightguard Patrol</a>. Reich matched it with a <a>Screeching Griffin</a>, and had a Sunhome, Fortress of the Legion for turn five in order to attack in the air for four. </p>&#10;      <p>Benages turn four had brought a <a>Benevolent Ancestor</a>, and his five saw a Skynight Legionnaire who immediately hit the red zone. There was still no fourth land though. As Reich continued with the beats in the air with a lone double-striking <a>Screeching Griffin</a>, Benages built an increasingly threatening board, with a <a>Boros Guildmage</a> joining the team, with haste for an extra 2 points of damage on attack. </p>&#10;      <p>Once Philip was down to just eight he started making additional creatures, in the form of a War Torch Goblin. He also had a <a>Faith's Fetters</a> to keep Alfred's <a>Boros Guildmage</a> under locks. With the life totals at 12 each, the early rush of the Boros had largely ended, and it was time for the turns of big scary Falter-esque effects and burn. </p>&#10;      <p>Benages cast a <a>Viashino Fangtail</a> and played a <a>Selesnya Sanctuary</a>, suggesting that the off-colour Signet was not quite as off colour as it had initially appeared. Having drafted R/W/g in the swiss, it appeared that the same strategy was Benages' plan for the top eight. </p>&#10;      <div>&#10;        <div>&#10;          <a>&#10;            <img alt="Benevolent Ancestor" src="https://i.ormos.uk/7b/46/7b46b459ab1d976a82280c941777bc55707d8c2511d53180029a7bbb572bbd4e.jpg">&#10;          </a>&#10;        </div>&#10;      </div>&#10;      <p>Reich continued to attack. His flyer went unopposed, while <a>Benevolent Ancestor</a> blocked the Goblin. <a>Rally the Righteous</a> was then played on Screeching Griffin to untap it and make it larger. Due to radiance it did also untap Alfred's wall, allowing him to prevent two damage, but with the double strike coming from Reich's land, the attack was still for six. </p>&#10;      <p>On the attack back, Benages went in with his Fangtail and Legionnaire, before playing <a>Loxodon Hierarch</a>. The Elephant rare was plenty enough to elicit the scoop from Reich, who was all of a sudden in a race he was definitely losing, at 1 life, without the means to finish off his opponent.</p>&#10;      <p>Alfred Benages won game 1. </p>&#10;      <p>Philip again elected to play first, hoping that tempo in the pseudo mirror would be the deciding factor. A turn-two <a>Thundersong Trumpeter</a> from Reich seemed like a powerful start when it was unopposed until Benages made a <a>Centaur Safeguard</a> on his turn three. He followed up with a <a>Viashino Fangtail</a>, but found it quickly hit by <a>Faith's Fetters</a> from Benages. </p>&#10;      <p>The following turn saw <a>Ordruun Commando</a> from Reich, looking to get in for some damage. Benages had a <a>Skyknight Legionnaire</a>, with just the same plan. Thundersong Trumpeter kept the Centaur down, but the flyer kept coming in. </p>&#10;      <p>The Minotaur cracked back, and Reich played a Griffin. For Bernages, it was just <a>Concerted Effort</a>, which would make his Centaurs (and anything else as long as the Legionnaire was around) fly. This they duly did on the following turn, to trade with Reich's Screeching Griffen. </p>&#10;      <p>Reich had a rare of his own in answer with a <a>Firemane Angel</a>, but when a <a>Nightguard Patrol</a> showed up for Benages, suddenly it didn't look quite as hot. Each of Benages' creatures would now have flying, first strike and vigilance. After some thought, Reich used his <a>Thundersong Trumpeter</a> to stop <a>Skyknight Legionnaire</a> from blocking, then attacked with just his Minotaur, unopposed. He then made <a>Sandsower</a>, who would come in handy in stopping some of the opposing flying beats, and give the <a>Viashino Fangtail</a> hidden under <a>Faith's Fetters</a> something to do. At the end of his opponent's turn, Reich used the <a>Sandsower</a>'s ability to tap down <a>Skyknight Legionnaire</a>. He then attacked with his Angel, who was left unblocked and went through for four. </p>&#10;      <div>&#10;        <div>&#10;          <a>&#10;            <img alt="Firemane Angel" src="https://i.ormos.uk/f0/53/f053424d06d59f22d34eeacebe18e5c77b9ce73169000b4350e99aeab7769ff4.jpg">&#10;          </a>&#10;        </div>&#10;      </div>&#10;      <p>&#10;        <a>Thundersong Trumpeter</a> stopped Skyhunter Legionnaire from attacking, but elected not to do anything about the Patrol, who hit him for two. On the attacks back, he used <a>Thundersong Trumpeter</a> to stop NIghtguard Patrol from blocking, and attacked with his <a>Firemane Angel</a> and <a>Ordruun Commando</a>. Here things got a little tricky. Benages played a <a>Flash Conscription</a> to gain control of <a>Firemane Angel</a>. To this Reich responded with a <a>Rally the Righteous</a> to untap his team, and used <a>Thundersong Trumpeter</a> to stop the angel from blocking. He also used his <a>Sandsower</a> to tap an extra creature. All that Bernages could do was to take the damage from the Minotaur and use <a>Fiery Conclusion</a> to rid Reich of his angel and his trumpeter. Grab the Reins, we hardly knew you. Bernages played <a>Benevolent Ancestor</a> and said go. For Reich it was just land, 'go'.</p>&#10;      <p>Bernages then followed up with a <a>Boros Guildmage</a> who gave herself haste and attacked in after <a>Sandsower</a> had gummed up the attack step a little. On Reich's next turn, he had the land to reanimate his <a>Firemane Angel</a>, and pass. Bernages responded with just a <a>Viashino Slasher</a> and a big attack. The life totals were at 3 to 5 in Reich's favour thanks to all the extra life he had netted with his angel, but facing a team of flyers, it looked tough for him to push through the final points. He attacked into <a>Benevolent Ancestor</a> with the angel, which used its ability to stay alive. After this Reich simply played <a>Screeching Griffin</a> and passed. </p>&#10;      <p>Benages' attacks were his NIghtguard Patrol and <a>Viashino Slasher</a>. The former was blocked by <a>Screeching Griffin</a>, which Boros Fury Shield both kept alive. In the process it also reduced Benages to 1. This reporter did wonder why he hadn't used the Shiled on his own Angel the turn before for the win, and when Benages cast <a>Loxodon Hierarch</a> after combat, it looked like this error might have cost Reich the match. It was not to be though, as Reich had a <a>Master Warcraft</a> with which to force through plenty enough damage to win the game. </p>&#10;      <p>Philip Reich won Game 2, forcing the match to a third game. </p>&#10;      <p>When given the option, Alfred chose to play, and had the first action of the game, in the form of <a>Skyknight Legionnaire</a>. Reich made a <a>Thundersong Trumpeter</a> on turn three, but was unable to stop the airbourne assault for another turn. A <a>Courier Hawk</a> was the only play from Bernages on turn four, including missing his all important land drop. This was not the case for Reich, whose Screeching Griffin looked good to fight in the air. A <a>Fiery Conclusion</a> from Bernages left each player with one less creature, Bernages a <a>Courier Hawk</a>, and Reich his trumpeter. Losing the Trumpeter was made doubly unfortunate due to the fact that he had cast a <a>Sandsower</a> the turn before, whose ability now lay inactive. </p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/08/1d/081d6eabb736e669fb37aac479bd9d389a4feac29ceb234010e102d499aebe57.jpg">&#10;            <i>Philip Reich</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Both the <a>Sandsower</a> and Screeching Griffin attacked, and Reich used <a>Dogpile</a> to take down his opponent's <a>Skyknight Legionnaire</a>, leaving Bernages without creatures. This was answered in short order by a Screeching Griffin for Alfred. Not all Screeching Griffins have backup, though. Reich's was lucky to be helped out by a Veteren Armorer, who sat back and let the flyer go about it's business of killing opponents and winning him more money. He attacked his opponent down to 15 and passed. This 15 turned to 19 with some help from <a>Faith's Fetters</a> on <a>Sandsower</a>, and even full attacks from Reich left Bernages on 11 to 12 for Reich. </p>&#10;      <p>A <a>Goblin Spelunkers</a> was the only spell for Bernages before he passed to Reich, who played <a>Faith's Fetters</a> on Screeching Griffin and attacked Bernages down to 5. <a>Goblin Spelunkers</a> cracked back, but all of a sudden the race seemed far from fair. There was even a <a>Sunhome, Fortress of the Legion</a> to make combat more dangerous, and in the face of a huge attack, Bernages was forced to scoop. </p>&#10;      <p>Philip Reich won 2-1. </p>&#10;      <br>&#10;      <a name="3">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, Oct 16: 8:59 pm - Quarterfinals: Nikolas Eigner vs. Jure Trunk</b>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/27/c2/27c25f0b7b5e1fe151ca14de4416111d7aa397c5f918990eaee6fe66c4de579b.jpg">&#10;            <i>Jure Trunk</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>When I first looked at the Top 8 it seemed like it was fairly random, with few recognized players. This is probably because I'm just bitter we didn't get a British player into the Top 8. Nikolas Eigner, from Austria, has already picked up one GP title with a win in Vienna earlier this year and is one of two GP winners in the Top 8. Jure Trunk is already guaranteed a large pot of cash as one of the two amateurs in the Top 8.</p>&#10;      <p>Both players went to the Golgari Guild for their cards and have green-black decks. Eigner has a blue splash in his deck, but other than that I didn't get to see the decks so the contents are as much a mystery to me as you people out there reading this.</p>&#10;      <p>Eigner won the die roll and opted to go first. His first play in the internal battle of the Golgari Guilds was a <a>Lurking Informant</a> while Trunk passed his second turn with no play. Eigner played a <a>Fists of Ironwood</a> in his turn to make the Informant a not-so-scary 1/2 trampler, but more importantly put two Saprolings into play.</p>&#10;      <p>I was starting to wonder why Trunk hadn't mulliganed as he laid land number 4 and passed the turn without playing a single turn. Eigner used the Informant on himself, but was happy with the top card. It wasn't a land, so he summoned <a>Trophy Hunter</a>.</p>&#10;      <div>&#10;        <div>&#10;          <a>&#10;            <img alt="Golgari Rotwurm" src="https://i.ormos.uk/85/84/8584ed2537133a97423298ebbca9a6e5788a292cbdea884eec42c23015d823e6.jpg">&#10;          </a>&#10;        </div>&#10;      </div>&#10;      <p>Trunk finally cast his first spell, a <a>Golgari Rotwurm</a>. Eigner wasn't concerned and sent his team into the red zone. Rather predictably he had a trick and the Rotwurm fell to <a>Gaze of the Gorgon</a> when it tried to block.</p>&#10;      <p>Trunk cast <a>Thoughtpicker Witch</a> and used her to convoke out <a>Root-Kin Ally</a>. Eigner had real tempo advantage here though. <a>Last Gasp</a> choked out the Ally and left the way clear for the Austrian to send in his team and drop Trunk to 5 life.</p>&#10;      <p>Trunk used <a>Vigor Mortis</a> to bring back the Rotwurm. Eigner was still sitting on plenty of gas. <a>Putrefy</a> sent the recently re-animated Wurm back to the graveyard. Trunk had a comeback in that he convoked out <a>Scatter the Seeds</a> to get some blockers into play.</p>&#10;      <p>Eigner took to the air with <a>Flight of Fancy</a> on the <a>Trophy Hunter</a>. Two hits and Trunk was down to 1 life. A <a>Tattered Drake</a> proved unnecessary as Trunk still hadn't found an answer to the <a>Trophy Hunter</a>.</p>&#10;      <p>Eigner 1-0 Trunk</p>&#10;      <p>Trunk led off with a <a>Civic Wayfinder</a> on turn 3. Eigner's <a>Trophy Hunter</a> was slightly bigger. Eigner again had the tricks as a <a>Last Gasp</a> brought down a <a>Dimir House Guard</a>.</p>&#10;      <p>That was all, this time though. Trunk summoned a Rotwurm and then a <a>Mortipede</a>. He brought out a <a>Thoughtpicker Witch</a> and then had a very good turn when the <a>Mortipede</a> used its Lure effect to bring down a Safeguard and <a>Trophy Hunter</a> before being sacrificed to remove a Flights of Fancy from Eigner's Library with the Witch.</p>&#10;      <p>Both players paused to build up forces. The board position was Eigner on 14 life with <a>Tattered Drake</a>, <a>Lurking Informant</a>, <a>Necroplasm</a> and Civic Wayfinder. Trunk had an Informant and Wayfinder of his own, the Witch, Rotwurm and a <a>Roofstalker Wight</a>.</p>&#10;      <p>In his turn following the appearance of <a>Necroplasm</a>, Trunk cast <a>Overwhelm</a> and swung with his team. Eigner was forced to throw away a Drake and Wayfinder to stay alive. The Rotwurm was now a sizeable threat with its sac ability. Eigner used Putrefy on it immediately.</p>&#10;      <p>A couple of turns later and the board was a little clearer. <a>Strands of Undeath</a> on the <a>Necroplasm</a> meant it would survive its own ability to kill creatures at end of turn.</p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/f5/c8/f5c876be9ca56026155979d581311e50c7116a18804b1a5b4419316b0317b960.jpg">&#10;            <i>Nikolas Eigner</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>&#10;        <a>Necroplasm</a> went up to 6 counters and Trunk used <a>Gaze of the Gorgon</a> to make sure his <a>Primordial Sage</a> survived the sweep from the <a>Necroplasm</a>. Eigner kept charging with the <a>Necroplasm</a> as it grew bigger. Trunk had <a>Scatter the Seeds</a> to make blockers and finally found a Sewerdreg to administer the last point of damage.</p>&#10;      <p>One more game to go and the sneaking suspicion is I found the slow match to cover.</p>&#10;      <p>Eigner 1-1 Trunk</p>&#10;      <p>I ran off here to take pictures thinking Green-Black vs. Green-Black was probably going to take some time. Unfortunately for Trunk he drew a lot of land while Eigner found a nice curve topped out with a Convoked <a>Siege Wurm</a>. Trunk tried to gang-block it only to run into <a>Gaze of the Gorgon</a>. And that was that pretty much it.</p>&#10;      <p>Nikolas Eigner beats Jure Trunk 2-1 </p>&#10;      <br>&#10;      <a name="4">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, Oct 16: 9:09 pm - Quarterfinals: Jean-Charles Salvin vs. Roel van Heeswijk</b>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <h3>Game 1</h3>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/df/76/df763171a9caf8a9dd96b8deaefa9b2e440a894c5e9237a1ff2b4da0a977fd7e.jpg">&#10;            <i>Jean-Charles Salvin</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Roel won the die roll and chose to play first. Both players kept their opening draws, and built up their hands; Roel with Compulsive Search and Jean-Charles with two <a>Boros Signet</a>. The first business spell was a <a>Centaur Safeguard</a> for Jean-Charles; to which Roel replied with the more impressive <a>Moroii</a>. Not too impressed by the flier, Jean-Charles ran into it with the Safeguard, after which he played <a>Selesnya Evangel</a> and shot the <a>Moroii</a> down with <a>Galvanic Arc</a>. </p>&#10;      <p>Roel produced <a>Snapping Drake</a>, <a>Disembowel</a> for the Evangel and shrinked Salvin's <a>Siege Wurm</a> with <a>Clinging Darkness</a>. Salvin dropped <a>Screeching Griffin</a> and chose not to trade with the <a>Snapping Drake</a>, and Roel dropped his signature <a>Junktroller</a>. </p>&#10;      <p>&#10;        <a>Pollenbright Wings</a> on the Griffin made it a lot more dangerous, as Roel wouldn't be able to deal with the flier unless he had a removal spell for it. Roel made another flier; <a>Tattered Drake</a>, and went on with the race. <a>Vedalken Dismisser</a> put the Griffin back on top, removing its Wings, and sent his guys in for 5. The life totals were now 9 for Salvin, and 12 for Roel, and Salvin sent in four tokens and a 1/1 <a>Vinelasher Kudzu</a>, losing the Kudzu in combat but dealing 3 damage in the process. </p>&#10;      <p>The Griffin came down again and traded with the Snappy Drake, but Salvin looked to be out of gas, while Roel channeled up <a>Halcyon Glaze</a>. Salvin's army went in again, and he played his freshly drawn <a>Viashino Fangtail</a>. It didn't matter however; Roel played a <a>Stinkweed Imp</a> and attacked for the kill.</p>&#10;      <h3>Game 2</h3>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/30/47/3047e58bd6a88c0d5afead387a59e82b86601fca603b583f434758dfef546dac.jpg">&#10;            <i>Roel van Heeswijk</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Roel, not very confident with his deck, verified that it was actually best of three and not best of five, revealing that he wasn't expecting to win many more games. Salvin played first and made some tokens with <a>Selesnya Evangel</a> and <a>Fists of Ironwood</a>. Roel busted out a pair of Signets and found <a>Last Gasp</a> with a transmuted Dimir Infiltrator. Salvin played <a>Conclave Equenaut</a> into an empty board on Roel's side to join his Evangel and two tokens, and Roel destroyed the Evangel with <a>Last Gasp</a>. Salvin got hasty with <a>Skyknight Legionnaire</a>, but Roel was comfortable playing the control game with <a>Ribbons of Night</a> on the Equenaut. </p>&#10;      <p>The Legionnaire got some <a>Pollenbright Wings</a>, and when Roel tried to nullify it with <a>Clinging Darkness</a>, Salvin increased its power with <a>Moldervine Cloak</a>. All the combat action was in the air, in the meanwhile Dimir Infiltrator and <a>Junktroller</a> took care of the ground combat. <a>Spawnbroker</a> was exchanged for the <a>Skyknight Legionnaire</a>, and a <a>Peel from Reality</a> allowed Roel to return the <a>Spawnbroker</a> back to his hand so it could trade again. Roel continued to play creatures, while Salvin only had a <a>Vinelasher Kudzu</a>. A couple turns later Salvin extended the hand.</p>&#10;      <br>&#10;      <a name="5">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, Oct 16: 9:21 pm - Quarterfinals: Nikola Vavra vs. Ricard Tudori</b>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://www.wizards.com/sideboard/images/gpnott05/qf_vavra.jpg">&#10;            <i>Nikola Vavra</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>This quarterfinals features two relatively unkown players in a Top 8 devoid of big-name players. Ricard, who is from Spain, drafted a Dimir mill deck. Nikola, who is from the Czech Republic, brings a Selesnya/Golgari deck to the table.</p>&#10;      <h3>Game 1</h3>&#10;      <p>Nikola won the die roll and chose to draw first. His first three turns consisted of an unimpressive &quot;<a>Island</a>, go&quot;. Nikola didn't play any creatures either, but he had the somewhat strange start of:</p>&#10;      <p>-Turn 1 <a>Plains</a>.<br> -Turn 2 Think for ages, then play <a>Golgari Rot Farm</a>, and discard <a>Plains</a>.<br> -Turn 3 Do mad acceleration in <a>Golgari Signet</a> and <a>Farseek</a>.</p>&#10;      <p>Ricard then had the first creature in <a>Vedalken Entrancer</a>. Nikola answered it with <a>Mortipede</a>, which could hit right through the 1/4 miller. Nikola also added <a>Transluminant</a> and Vitu-Ghazi, the City Tree to the board. Nikola made a token with his land, while Ricard activated <a>Vedalken Entrancer</a>. You know the drill, the players were just using the obvious activated abilities.<br> Ricard spent another turn of land, go. I started to wonder what he had in his hand, so I looked over. He held <a>Induce Paranoia</a> and lands. A lot of lands.</p>&#10;      <div>&#10;        <div>&#10;          <a>&#10;            <img alt="Mortipede" src="https://i.ormos.uk/80/e9/80e9485b0a8f76c4135c2332862982a3169c58a029a38f49c0b04e8ae0af6e2a.jpg">&#10;          </a>&#10;        </div>&#10;      </div>&#10;      <p>Nikola then swung with all of his guys and activated <a>Mortipede</a>, making sure that <a>Vedalken Entrancer</a> would block. He tried to save it with <a>Seeds of Strength</a>, which was met by <a>Induce Paranoia</a>. Second try: <a>Last Gasp</a>. It resolved, so the 1/4 died, but his <a>Mortipede</a> survived.<br> A topdecked <a>Tidewater Minion</a> came down for Ricard, but <a>Clinging Darkness</a> and a <a>Mortipede</a> activation took care of it. Over the next two turn, Nikola simply attacked with all of his guys for the game.<br> Ricard revealed his hand: all lands. </p>&#10;      <p>Nikola 1 - Ricard 0</p>&#10;      <h3>Game 2</h3>&#10;      <p>Ricard made Nikola play first this time. The first plays for Nikola were <a>Transluminant</a> and <a>Golgari Rotwurm</a>. In the meantime Ricard played <a>Drift of Phantasms</a>, <a>Vedalken Entrancer</a> and <a>Snapping Drake</a>. So Nikola had a 5/4 that could smash through Ricard's creatures, while Ricard had two win mechanisms on the table: a 3/2 flyer to attack a life total (unlikely to work), and a <a>Vedalken Entrancer</a> to attack a library (more likely to work). </p>&#10;      <p>For some reason, Nikola did not attack with his <a>Golgari Rotwurm</a>, but he did add <a>Drooling Groodion</a> to the board.</p>&#10;      <p>Ricard cast <a>Wizened Snitches</a>, which seemed quiete irrelevant.</p>&#10;      <p>Nikola played <a>Fists of Ironwood</a> on his <a>Golgari Rotwurm</a> and swung with all of his guys. Using <a>Drooling Groodion</a>'s Consume Strength ability, he screwed up Ricard's blocks: Nikola lost a 1/1 <a>Fists of Ironwood</a> token, while Ricard lost <a>Drift of Phantasms</a> and <a>Snapping Drake</a>. Ricard was also down to 15 life now.</p>&#10;      <p>Ricard then tried to come up with answers to the situation. He played <a>Vedalken Dismisser</a> and put <a>Golgari Rotwurm</a> on top. He immediately used his <a>Vedalken Entrancer</a> to put it in the graveyard; a nice combo. But it wasn't an adquate answer to the situation he was in. In the next attack phase, <a>Drooling Groodion</a> allowed Nikola to trade a 1/1 token for 2 of Ricard's guys once again, putting Ricard down to 11 life as well.</p>&#10;      <p>Then came the game-swinging card: <a>Dream Leash</a>. Ricard gained control of <a>Drooling Groodion</a>, and to make it even better, he also had a <a>Forest</a> and a <a>Swamp</a> in play. So he could activate the monster as well.</p>&#10;      <p>But because <a>Drooling Groodion</a> was still tapped, Nikola simply attacked with his remaining guys and he played out his hand. So the board was now as follows. Nikola had 2 <a>Transluminant</a>, <a>Nightguard Patrol</a> and <a>Mortipede</a> in play. His &quot;life&quot; total, a.k.a. cards in library, was 16. Ricard had Drooling Goodion and <a>Vedalken Entrancer</a> in play and was at 7 life.</p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/66/16/6616bd1dae091bc7266274b9d2c876a3d050dd478e8ca0722f8549da2958e063.jpg">&#10;            <i>Ricard Tudori</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Now Nikola had to think about how to approach this situation. After deliberating for a while, he eventually settled on attacking with his 2 <a>Transluminant</a>s and <a>Mortipede</a>. He also activated it, making sure Ricard had to double block <a>Mortipede</a>. Before damage, Ricard sacrificed <a>Vedalken Entrancer</a> to kill a <a>Transluminant</a> (which was sacrificed to build a token) and to save Drooling Goodion. So Ricard was now at 5 life, but he seemed to be stabilizing somewhat. </p>&#10;      <p>Some more non-flying irrelevant creatures were added to the board, but the relevant cards on the board were Nikola's <a>Transluminant</a> and 1/1 flying token. Sure enough, Nikola also transformed his second <a>Transluminant</a> into a second 1/1 flying token, allowing him to hit Ricard for 2 in the air.<br> Ricard was knocking the top of his deck like a madman, but didn't find anything useful. A couple turns later, the 1/1 flyers had taken enough chunks out of Ricard's life total to put him at 2 life. Nikola then went for the lethal alpha strike with all of his guys. Ricard knew that he was dead and revealed his hand: <a>Glimpse the Unthinkable</a>. Nikola had 12 cards left in his deck, so it was close but not good enough.</p>&#10;      <p>Nikola 2 - Ricard 0</p>&#10;      <br>&#10;      <a name="6">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, Oct 16: 9:59 pm - Semifinals: Philip Reich vs. Roel van Heeswijk</b>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <h3>Game 1</h3>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/f6/26/f626105e88bee32421f7530af783e612070c8d038f16b1d7869cd09f1744f641.jpg">&#10;            <i>Philip Reich</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>After some miscommunication about the die roll and Roel rolling the die off the table, Roel eventually won the roll and decided to play first. He kept his hand and Philip took it down to six. He cought up with the mulligan by playing <a>Boros Garrison</a> on the second turn, while Roel played <a>Halcyon Glaze</a> and fueled it with <a>Stinkweed Imp</a>. </p>&#10;      <p>Philip could only trade his <a>Sell-Sword Brute</a> for <a>Stinkweed Imp</a> and followed it up with <a>Courier Hawk</a> and <a>War-Torch Goblin</a>. His <a>Screeching Griffin</a> got <a>Last Gasp</a>ed, and when Roel found his fourth land, he busted out <a>Moroii</a>. </p>&#10;      <p>&#10;        <a>Faith's Fetters</a> ruined Roel's offence somewhat, but he was able to follow things up with Snappy Drake and kept the beats on. <a>Galvanic Arc</a> got the Drake out of the way; Philip now had <a>War-Torch Goblin</a> and a first strike <a>Courier Hawk</a> against Roel's disabled <a>Moroii</a> and <a>Halcyon Glaze</a>. </p>&#10;      <p>Roel kept beating with his Glaze, this time fueled with <a>Dimir Infiltrator</a>, and destroyed Philip's board next turn with <a>Peel from Reality</a> on the <a>Moroii</a> and the <a>Courier Hawk</a>, and also had <a>Darkblast</a> for the Goblin. A few turns later lethal damage was on the board and Philip scooped his cards up.</p>&#10;      <br>&#10;      <h3>Game 2</h3>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/9c/cb/9ccb7e1f9cf4161920ce26ffbde07589e45b5f8e6a9d6d30e4a9b080e102df58.jpg">&#10;            <i>Roel van Heeswijk</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Philip played first this time, and Roel was the one to take it down to six this time. Philip tried Thundersong Trumpeter twice, but Roel had two <a>Darkblast</a>, no dredging involved. Compulsive Research refilled his hand, and Philip got stuck on three lands with no play for three consecutive turns.</p>&#10;      <p> Roel couldn't really take advantage of Philip's landstall though; he played two Signets, <a>Junktroller</a> and two turns later <a>Sadistic Augermage</a>. When Philip found his fourth land, he played <a>Sandsower</a>, and Roel dredged his <a>Darkblast</a> back so that the Augermage would be safe from the <a>Sandsower</a>.<a>Disembowel</a> took care of <a>Viashino Fangtail</a>, but Roel couldn't take advantage of Philip's brief landstall, allowing him to find his lands in time and build up a board position. </p>&#10;      <p>Roel thought long and hard about his next play, as Philip now had five lands in play and still didn't play a spell. He was holding back a pair of Orduun Commandos until he found a sixth land for <a>Oathsworn Giant</a>. He did, but Roel cleared it with <a>Ribbons of Night</a>, and the board was back to Roel's <a>Junktroller</a> and <a>Sadistic Augermage</a> versus Philip's lone <a>Sandsower</a> again. Things locked up again when Philip cast <a>Faith's Fetters</a> on <a>Sadistic Augermage</a>, while Roel channeled <a>Dimir Infiltrator</a> for <a>Last Gasp</a>. On his next turn, Roel drew <a>Moroii</a>, which would have been a lot better as a target for the Fetters. Philip, now down to 8 life, could only watch as Roel used <a>Peel from Reality</a> to return the Augermage and the <a>Sandsower</a>, clearing Philip's side of the board again. Philip looked at one more card of his deck and conceeded promptly.</p>&#10;      <p>After the match, I asked Roel if he would like to add anything to the report, and he told me that I should mention how good the <a>Junktroller</a> had been for him this weekend. Returning all of his removal to his deck and getting them again with Transmute cards really helped him out. So hereby an honourable mention to Roel's signature <a>Junktroller</a>!</p>&#10;      <br>&#10;      <a name="7">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, Oct 16: 10:15 pm - Semifinals: Nikola Vavra vs. Nikolaus Eigner</b>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/71/f6/71f65e648e47b6b69c2fb659b8e54cce6a0d99799dd361757b28bac60c7cbe89.jpg">&#10;            <i>Nikolaus Eigner</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>The table judge started to mix up their first names already, so I'll just adress them with their last names.</p>&#10;      <h3>Game 1</h3>&#10;      <p>Eigner won the die roll and chose to play first. He had to take a mulligan, but kept his 6-carder. Despite having to mulligan, he still had a fast start as he played <a>Elves of Deep Shadow</a>, <a>Fists of Ironwood</a> and <a>Golgari Brownscale</a> in the first three turn.</p>&#10;      <p>Vavra, in the meantime, used <a>Selesnya Signet</a> to accelerate into <a>Nightguard Patrol</a>, <a>Stinkweed Imp</a> and <a>Fists of Ironwood</a>.</p>&#10;      <p>Next up were some more guys for Eigner: <a>Scatter the Seeds</a> and <a>Lurking Informant</a>. The board was now absolutely ridiculous; a grand combined total of TEN 1-power guys and two guys with 2 power. If anyone would be able to find even a lowly Hill Giant, he would dominate the board with it.</p>&#10;      <p>Eigner did manage to hit with <a>Golgari Brownscale</a> every turn, unblocked, puting Vavra down to 13 life before something interesting happened. A <a>Gather Courage</a> got rid of the attacking <a>Golgari Brownscale</a>, but Eigner found another guy that could hit for two: <a>Tattered Drake</a>. Still no fatty boom booms in sight, unfortunately. Eigner dug into his deck with <a>Compulsive Research</a>, but he only found more lands.</p>&#10;      <p>Eigner looked at the top card of his opponent's library with <a>Lurking Informant</a> and saw <a>Transluminant</a>. It didn't really do something at that point, so he left it there. The <a>Golgari Rotwurm</a> he saw next turn had to go to the bin, though.</p>&#10;      <p>The next turn didn't make any sense. Eigner cast <a>Strands of Undeath</a> on <a>Golgari Brownscale</a> and Vavra discarded <a>Last Gasp</a> and <a>Seeds of Strength</a> to it. Wait. What happened? Vavra had 4 lands untapped, amongst which a <a>Swamp</a>. He discarded <a>Last Gasp</a>, while he could have also played it on the <a>Golgari Brownscale</a> in response to <a>Strands of Undeath</a>. If he had done that, <a>Strands of Undeath</a> would've fizzled, so he wouldn't have had to discard. Thereby, he could've kept his <a>Seeds of Strength</a> in his hand and he could've killed the Brownscale. A very strange play indeed. I guess Vavra didn't know he didn't have to discard if he killed the guy in response and he wanted to keep the third card in his hand. Eigner noticed that as well. He just shrugged, muttering an awkward &quot;okay...&quot; He proceeded to attack Vavra down to 7 life with <a>Tattered Drake</a>, and he activated his <a>Lurking Informant</a>, leaving a land on top. </p>&#10;      <div>&#10;        <div>&#10;          <a>&#10;            <img alt="Congregation at Dawn" src="https://i.ormos.uk/0c/55/0c5562ab68c0cd82d7f2313dc4a78b8853fc17c4307726a58144d22c0bb8d8f1.jpg">&#10;          </a>&#10;        </div>&#10;      </div>&#10;      <p>At end of the turn, Vavra played the last card he had in his hand; Congregation at Dawn. He searched <a>Keening Banshee</a>, <a>Woodwraith Corrupter</a> and <a>Drooling Groodion</a> out of his deck.<br><a>Keening Banshee</a> came down first, obviously, and quickly destroyed <a>Lurking Informant</a>.<br> Eigner topdecked <a>Trophy Hunter</a> and killed <a>Stinkweed Imp</a> right away. He attacked with his two regenerators. Vavra was now at three life. </p>&#10;      <p>Vavra drew Big Drools in his next draw step, played it, and passed the turn. Eigner studied the board on his turn. After doing the math, he swung with all of his guys.</p>&#10;      <p>Eigner: &quot;You're dead&quot;. Vavra: &quot;I know&quot;</p>&#10;      <p>Eigner 1 - Vavra 0</p>&#10;      <h3>Game 2</h3>&#10;      <p>Vavra chose to play first. No mulligans this time. Eigner had the first plays in <a>Civic Wayfinder</a>, <a>Elves of Deep Shadow</a> and <a>Scatter the Seeds</a>, while Vavra went &quot;land, go&quot; in his first four turns. At the end of the fourth turn, he played Congregation at Dawn, searching out <a>Drooling Groodion</a>, <a>Keening Banshee</a>, and <a>Woodwraith Corrupter</a>.</p>&#10;      <p>He also played <a>Golgari Rotwurm</a> that he already had in his hand, stopping Eigner's beats.<br> Eigner then added an unblockable <a>Sewerdreg</a> to the board.</p>&#10;      <p>Vavra &quot;topdecked&quot; Big Drools and played it. Next turn, Eigner swung with <a>Civic Wayfinder</a>, two 1/1 tokens and <a>Sewerdreg</a>. Vavra blocked with <a>Golgari Rotwurm</a> and Eigner used <a>Gaze of the Gorgon</a> to kill it. Vavra was down to 14 life now.</p>&#10;      <p>Unsurprisingly, Vavra &quot;topdecked&quot; <a>Woodwraith Corrupter</a> and played it. Eigner cast <a>Flight of Fancy</a> on his <a>Civic Wayfinder</a> and attacked for 5 with his two evasion guys. Also, a <a>Strands of Undeath</a> was attached to <a>Sewerdreg</a>, maing Vavra discard two lands. Not as spectacular as the last time Strands was played this match.</p>&#10;      <div>&#10;        <div>&#10;          <a>&#10;            <img alt="Woodwraith Corrupter" src="https://i.ormos.uk/ff/2c/ff2ce551b98029fa2074aa4bae48303d0cc5fbc9e43ddc175c145bad2b0d3a90.jpg">&#10;          </a>&#10;        </div>&#10;      </div>&#10;      <p>Now Vavra had to draw a random card, as he ran out of Congregation at Dawn guys. He found <a>Ivy Dancer</a>, played it and swung with his two fatties (<a>Drooling Groodion</a> and <a>Woodwraith Corrupter</a>). Eigner chumped one of them. Vavra then played <a>Keening Banshee</a> to kill the flying <a>Civic Wayfinder</a>.</p>&#10;      <p>Eigner attacked Vavra down to 6 with <a>Sewerdreg</a>, and cast <a>Fists of Ironwood</a> to produce two more tokens.</p>&#10;      <p>Vavra then had an amazing topdeck: <a>Rolling Spoil</a>. It killed Eigner's five 1/1 guys, and thus cleared the way for his beaters. Vavra attacked with <a>Drooling Groodion</a>, <a>Keening Banshee</a>, and <a>Woodwraith Corrupter</a>, taking Eigner down to 10 life.</p>&#10;      <p>Eigner then attacked with his <a>Sewerdreg</a> and played <a>Shambling Shell</a>. His only hope to win this game was that his opponent might screw up. He did not. Vavra killed <a>Shambling Shell</a> with Big Drools and alpha-struck for the win.</p>&#10;      <p>Eigner 1 - Vavra 1</p>&#10;      <h3>Game 3</h3>&#10;      <p>Eigner chose to play first. He quickly accelerated into a turn 3 <a>Greater Mossdog</a> on the verge of a Signet. Vavra had the turn 2 <a>Golgari Rot Farm</a>. If you have such a land on turn 2, it means that you have to discard. He threw away <a>Clinging Darkness</a>.</p>&#10;      <p>Some more creatures were added to the board. Eigner cast <a>Civic Wayfinder</a>, while Vavra played <a>Ivy Dancer</a> and <a>Keening Banshee</a> (destroying the Wayfinder). Then <a>Golgari Brownscale</a> and <a>Centaur Safeguard</a> came down on Eigner's side of the board. So Eigner seemed to have the upper hand so far. He had the better board position and he had also dealt 6 damage with <a>Greater Mossdog</a> already.</p>&#10;      <p>Vavra could only muster <a>Transluminant</a>, while Eigner slapped <a>Flight of Fancy</a> on his <a>Centaur Safeguard</a>. In the following attack, Vavra double-blocked the incoming <a>Greater Mossdog</a> with <a>Transluminant</a> and <a>Ivy Dancer</a>. Eigner chose to assign the damage to <a>Ivy Dancer</a>. Vavra was down to 9 life now.</p>&#10;      <p>Vavra cast <a>Woodwraith Corrupter</a>, which was quickly killed by <a>Putrefy</a>. Then Eigner attacked (the flying <a>Centaur Safeguard</a> traded with <a>Keening Banshee</a>) and he made a <a>Siege Wurm</a>.</p>&#10;      <p> Vavra cast <a>Golgari Rotwurm</a>, but Eigners turn still seemed to be more impressive. He dredged back <a>Greater Mossdog</a> and played <a>Compulsive Research</a> to draw more gas, amongst which a <a>Sewerdreg</a>. Eigner had kept a superior board position all game long, and with card advantage provided by <a>Compulsive Research</a> and the dredge ability on <a>Greater Mossdog</a>, it seemed like he was going to win this game.</p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/8b/c5/8bc5a4e3fb5b0c42bdb1368ea28340a0f3ea84c1e0acb21319a45040d9f88f88.jpg">&#10;            <i>Nikola Vavra</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Vavra had a <a>Last Gasp</a> at the ready for <a>Sewerdreg</a>, while Eigner added <a>Greater Mossdog</a> and Fists of Ironwood to the board.</p>&#10;      <p>Next turn, Eigner deliberated for a while, but eventually went for the all-out attack. It seemed like a fine play. He had three lands in his hand. He was facing <a>Golgari Rotwurm</a> and <a>Transluminant</a>. He swung with <a>Siege Wurm</a>, <a>Greater Mossdog</a>, <a>Golgari Brownscale</a> and 2 tokens. And Vavra was at 7 life. What could go wrong? Well, <a>Disembowel</a> was pretty nasty. Vavra used it to destroy <a>Siege Wurm</a>, and he proceeded to block <a>Greater Mossdog</a> with <a>Siege Wurm</a> and a 1/1 token with <a>Transluminant</a>. That decimated Eigner's entire board. That <a>Disembowel</a> was definitely of the game-breaking kind.</p>&#10;      <p>In his upkeep, Vavra played Congregation at Dawn and searched <a>Mortipede</a>, <a>Sewerdreg</a> and <a>Drooling Groodion</a> out of his deck. Eigner's next couple draw steps did not provide him with an answer to any of those cards, so a couple turns later Eigner extended his hand.</p>&#10;      <p>Eigner 1- Vavra 2</p>&#10;      <br>&#10;      <a name="8">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, Oct 16: 10:45 pm - Finals: Nikola Vavra vs Roel Heeswijk</b>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/93/0e/930ec4ffc4e1323f2c5d6496af3b7269969400ef4f89acdc0c2895b27608fe96.jpg">&#10;            <i>Roel Heeswijk</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Well, this is it and England is guaranteed a home win as …. Oh wait, I'm dreaming. England's hopes of defending a GP title on its home turf ended in round thirteen, sigh.</p>&#10;      <p>Instead we have an interesting battle between the Czech amateur Nikola Vavra and up-and-coming Dutch player Roel Heeswijk. Vavra has been playing for around four years but mainly only casually with friends. Making the final here guarantees him a massive pot of amateur money to go with the main prize. Heeswijk has had a pretty good year on the Pro Tour. He finished 40th in London, picked up $875 from Philadelphia and managed 8th place at the team PT in Atlanta. You might not recognise the name now, but he sounds like a player going places.</p>&#10;      <p>Vavra's deck straddles green and takes cards from both Selesnya and Golgari guilds while Heeswijk has an aggressive Dimir deck.</p>&#10;      <p>Vavra won the die roll (after a few ties) and elected to start. He rushed out of the blocks with an <a>Elvish Skysweeper</a> and <a>Transluminant</a>. The Skysweeper is okay against Heeswijk's black-blue deck so he took it down with <a>Clinging Darkness</a>. Vavra kept up the curve with <a>Fists of Ironwood</a>.</p>&#10;      <p>Then Heeswijk's deck kicked into action as he followed <a>Halcyon Glaze</a>, a card that has really impressed me this weekend, with <a>Moroii</a>. Vavra is in this final for a reason though and negated the <a>Moroii</a> with a <a>Clinging Darkness</a> of his own. Heeswijk made another flier in <a>Tattered Drake</a> (another 4 point bash with the Glaze) as Vavra ramped up his mana with <a>Farseek</a>.</p>&#10;      <div>&#10;        <div>&#10;          <a>&#10;            <img alt="Halcyon Glaze" src="https://i.ormos.uk/8d/26/8d265e9d127ee617e24605ec90d01848fd99c82d3545044169d382e910bb0f40.jpg">&#10;          </a>&#10;        </div>&#10;      </div>&#10;      <p>Heeswijk ran out of creatures and swung with <a>Tattered Drake</a>. The life totals stood at 10-9 in Vavra's favor. He attacked back and <a>Moroii</a> took Heeswijk down to 6 in his upkeep. Vavra had really followed up on his early start. A <a>Stinkweed Imp</a> meant he had to <a>Disembowel</a> the Glaze.</p>&#10;      <p>The Czech player passed another turn with no play. In contrast Heeswijk refilled his hand with gas from a <a>Compulsive Research</a>. His own crippled <a>Moroii</a> was slowly killing him though. It was tight. He was at 5 life and an attack from the Drake dropped his opponent to 6.</p>&#10;      <p>Vavra had four cards in hand and five land on the table. Was he waiting for that sixth land to bust out Groodion or Corruptor. One of the lands was Vitu-Ghazi so he could at least start kicking out some Saprolings while he waited.</p>&#10;      <p>Heeswijk transmuted a <a>Dimir Infiltrator</a> and went for an ominous <a>Peel from Reality</a>. However Vavra had a fantastic play in <a>Faith's Fetters</a> on the <a>Stinkweed Imp</a>. It allowed him to send through the Saprolings to put Heeswijk at two life and put him back up to a precious ten life.</p>&#10;      <p>&#10;        <a>Moroii</a> took the Dutchman down to one life and he was in trouble. He brought out a <a>Sadistic Augermage</a> to block, but it wasn't enough as Vavra killed it with <a>Clinging Darkness</a> and that meant one little Saproling would sneak through for the final point of damage.</p>&#10;      <p>Those early monsters, combined with a generous dollop of removal, had been enough to overcome what had seemed like a very good start from the Dutchman.</p>&#10;      <p>Vavra 1-0 Heeswijk</p>&#10;      <p>Vavra's draw was much slower in Game 2 and Heeswijk was able to ramp up to his signature card, <a>Junktroller</a> on turn 4. He followed it with a <a>Stinkweed Imp</a> as Vavra dug a <a>Swamp</a> from his deck with <a>Farseek</a>.</p>&#10;      <p>Unfortunately Heeswijk appeared to have forgotten to drawn <a>Island</a>s and he passed turn 5 with just a cheeky nibble with <a>Stinkweed Imp</a>. The fatties decided to show up from Vavra's deck as he summoned a <a>Golgari Rotwurm</a>.</p>&#10;      <p>Heeswijk finally found his <a>Island</a> and a <a>Tattered Drake</a> entered play. He'd assembled an irritating defence to try to bust through. A <a>Fists of Ironwood</a> on the Rotwurm made it more likely. Heeswijk threw the <a>Junktroller</a> in the way, which allowed Vavra to finish it off with <a>Clinging Darkness</a>.</p>&#10;      <div>&#10;        <div>&#10;          <a>&#10;            <img alt="Stinkweed Imp" src="https://i.ormos.uk/7a/73/7a7300565cc4351fb5313eb420dd20b68fde9f5dfbc80d8d4d6be6a216b93057.jpg">&#10;          </a>&#10;        </div>&#10;      </div>&#10;      <p>Heeswijk attacked back with the Drake and then Transmuted an Infiltrator into a <a>Last Gasp</a>. <a>Stinkweed Imp</a> was back on defense. It was unlikely Stinky would get to block as Vavra cast Congregation at Dawn to find his three best monsters - <a>Keening Banshee</a>, Sewerdreg and Drooling Groodion - and put them on top of his library.</p>&#10;      <p>Heeswijk looked in trouble here. <a>Keening Banshee</a> nobbled the Imp and let the Rotwurm and accompanying saprolings through for seven. Heeswijk dredged back the <a>Stinkweed Imp</a> and left the <a>Tattered Drake</a> on defence.</p>&#10;      <p>Vavra was firmly on offence. He sent his entire team into the fray. Heeswijk had a lot to think about. What would he block with his Drake and crippled Imp? Would he use the <a>Last Gasp</a> with both a Groodion and swamp-walking <a>Sewerdreg</a> on the way?</p>&#10;      <p>Heeswijk felt he had to. It seemed like the right decision when <a>Brainspoil</a> took down the Groodion. Heeswijk still had problems as the <a>Sewerdreg</a> entered play. A Vedalken Dismisser time-walked his opponent and kept the <a>Sewerdreg</a> off his back for a turn. He was still behind in the race as the saprolings nipped through to put him at 9. The <a>Sewerdreg</a> returned. Heeswijk dredged back Stinky and hit with the Drake to leave the scores at 11-9 in Vavra's favor.</p>&#10;      <p>The Czech player finally got the joys of an unknown draw step and found a <a>Stinkweed Imp</a> of his own. Blue is always the color of cute tricks, and a <a>Peel from Reality</a> to bounce the <a>Sewerdreg</a> again and bring back the Dismisser was especially nice. Vavra had picked the best three monsters from his deck and it seemed like Heeswijk had almost weathered the storm.</p>&#10;      <p>The Dutch player attacked with his <a>Tattered Drake</a>, looking to level the life totals. Vavra thought for a while and then block it with Banshee and <a>Stinkweed Imp</a>. What was going on here? Heeswijk regenerated the Drake and the Banshee appeared to have died for nothing.</p>&#10;      <p>&#10;        <a>Faith's Fetters</a> put in another fantastic timely appearance for Vavra, shutting down the Imp and clearing the way for an alpha strike to drop Heeswijk to a slender 3 life. The Fetters had of course given Vavra a precious 4 life. Heeswijk took that four life straight off as the Dismisser returned to activate the Glaze and return the <a>Sewerdreg</a> to the top of Vavra's library for the umpteenth time.</p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/a3/08/a3086f717c502c8d54d27b567898030198ca15f5723f5da4a52dd3d2b328f4ec.jpg">&#10;            <i>Nikola Vavra</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Vavra recast the <a>Sewerdreg</a> and again Heeswijk had to look for an answer.</p>&#10;      <p>Again Heeswijk refused to lay down and die. He cast <a>Ribbons of Night</a> on the <a>Stinkweed Imp</a>, mainly to gain the life. Vavra was having none of that as he turned a <a>Last Gasp</a> on his own Imp. No life gain for Heeswijk. He was at 3 life. Vavra had a 3/3 swampwalker. It was not good.</p>&#10;      <p>Nervously Vavra pushed the <a>Sewerdreg</a> sideways.</p>&#10;      <p>&quot;Damage on…?&quot;</p>&#10;      <p>Heeswijk smiled ruefully and extended his hand.</p>&#10;      <p>Nikola Vavra had just picked up his first Grand Prix title!</p>&#10;      <p>Nikola Vavra beat Roel Heeswijk 2-0 and is the champion of Grand Prix-Nottingham.</p>&#10;      <br>&#10;      <br>&#10;    </td>&#10;  </tr>&#10;</tbody></table>

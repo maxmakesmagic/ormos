@@ -1,0 +1,2206 @@
+---
+id: zr9xa5bx
+kind: event
+lang: it
+path: /it/articles/event-coverage/undated/live-coverage-of-the-2005-italy-national-championship
+title: Live Coverage of the 2005 Italy National Championship
+published: null
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: it
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtgevent_itnat05_welcome
+    lang_detected: it
+    capture_id: 829392
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_itnat05_welcome
+    captured_at: '2009-06-04 00:45:19+00'
+    rule: aspx.article_heading
+sources:
+- document_id: zr9xa5bx
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_itnat05_welcome
+  page_key: wizards.com/magic/magazine/article.aspx?x=mtgevent_itnat05_welcome
+  lang: it
+  template: aspx
+  captured_at: '2009-06-04 00:45:19+00'
+  capture_id: 829392
+  wayback_url: https://web.archive.org/web/20090604004519id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_itnat05_welcome
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: zr9xa5bx
+  capture_id: 829392
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_itnat05_welcome
+  wayback_url: https://web.archive.org/web/20090604004519id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_itnat05_welcome
+  captured_at: '2009-06-04 00:45:19+00'
+  template: aspx
+  sha256: dc699efd44ed9f27e1d6bc72b972f67d34258dee70078426c6c567bad52aac9b
+render_recovery:
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Honden_of_Infinite_Rage')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Honden of Infinite Rage
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Plains')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Plains
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Swamp')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Swamp
+  occurrences: 12
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Blood_Speaker')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Blood Speaker
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Deathmask_Nezumi')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Deathmask Nezumi
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Eight-and-a-Half-Tails')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Eight-and-a-Half-Tails
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Hundred-Talon_Kami')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Hundred-Talon Kami
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kitsune_Blademaster')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kitsune Blademaster
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kitsune_Healer')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kitsune Healer
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Lantern_Kami')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Lantern Kami
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Michiko_Konda,_Truth_Seeker')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Michiko Konda, Truth Seeker
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Nagao,_Bound_by_Honor')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Nagao, Bound by Honor
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Scuttling_Death')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Scuttling Death
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Shinen_of_Stars[_Light')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Shinen of Stars' Light
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Silverstorm_Samurai')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Silverstorm Samurai
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Torii_Watchward')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Torii Watchward
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Waxmane_Baku')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Waxmane Baku
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Befoul')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Befoul
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Cage_of_Hands')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Cage of Hands
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Curtain_of_Light')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Curtain of Light
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Death_Denied')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Death Denied
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Ethereal_Haze')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Ethereal Haze
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Honden_of_Cleansing_Fire')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Honden of Cleansing Fire
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Pull_Under')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Pull Under
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Rend_Flesh')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Rend Flesh
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sickening_Shoal')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sickening Shoal
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Forest')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Forest
+  occurrences: 10
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Island')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Island
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mountain')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mountain
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Pinecrest_Ridge')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Pinecrest Ridge
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Ashen-Skin_Zubera')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Ashen-Skin Zubera
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Brutal_Deceiver')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Brutal Deceiver
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Cursed_Ronin')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Cursed Ronin
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Gutwrencher_Oni')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Gutwrencher Oni
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('He_Who_Hungers')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - He Who Hungers
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kami_of_the_Hunt')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kami of the Hunt
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Lifespinner')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Lifespinner
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Matsu-Tribe_Sniper')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Matsu-Tribe Sniper
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Nezumi_Cutthroat')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Nezumi Cutthroat
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Oboro_Envoy')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Oboro Envoy
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sakura-Tribe_Elder')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sakura-Tribe Elder
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Soilshaper')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Soilshaper
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Villainous_Ogre')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Villainous Ogre
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Eradicate')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Eradicate
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Honden_of_Life[s_Web')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Honden of Life's Web
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Horobi[s_Whisper')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Horobi's Whisper
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kagemaro[s_Clutch')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kagemaro's Clutch
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kodama[s_Might')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kodama's Might
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kodama[s_Reach')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kodama's Reach
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Spiraling_Embers')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Spiraling Embers
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Adarkar_Wastes')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Adarkar Wastes
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Ancient_Den')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Ancient Den
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Flooded_Strand')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Flooded Strand
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Seat_of_the_Synod')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Seat of the Synod
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Exalted_Angel')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Exalted Angel
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Gilded_Drake')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Gilded Drake
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Meddling_Mage')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Meddling Mage
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Silver_Knight')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Silver Knight
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Waterfront_Bouncer')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Waterfront Bouncer
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Brainstorm')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Brainstorm
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Enlightened_Tutor')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Enlightened Tutor
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Parallax_Tide')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Parallax Tide
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Parallax_Wave')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Parallax Wave
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Pithing_Needle')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Pithing Needle
+  occurrences: 8
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Stifle')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Stifle
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sword_of_Fire_and_Ice')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sword of Fire and Ice
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Worship')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Worship
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Absolute_Law')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Absolute Law
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Chill')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Chill
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Cursed_Totem')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Cursed Totem
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Damping_Matrix')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Damping Matrix
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Energy_Flux')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Energy Flux
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Engineered_Explosives')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Engineered Explosives
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Meloku_the_Clouded_Mirror')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Meloku the Clouded Mirror
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Rule_of_Law')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Rule of Law
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Seal_of_Removal')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Seal of Removal
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Dust_Bowl')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Dust Bowl
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Llanowar_Wastes')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Llanowar Wastes
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Treetop_Village')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Treetop Village
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Volrath[s_Stronghold')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Volrath's Stronghold
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Birds_of_Paradise')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Birds of Paradise
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Eternal_Witness')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Eternal Witness
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Genesis')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Genesis
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kokusho,_the_Evening_Star')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kokusho, the Evening Star
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Ravenous_Baloth')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Ravenous Baloth
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Wall_of_Blossoms')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Wall of Blossoms
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Withered_Wretch')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Withered Wretch
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Cabal_Therapy')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Cabal Therapy
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Cranial_Extraction')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Cranial Extraction
+  occurrences: 8
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Diabolic_Edict')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Diabolic Edict
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Naturalize')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Naturalize
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Pernicious_Deed')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Pernicious Deed
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Recurring_Nightmare')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Recurring Nightmare
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Smother')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Smother
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Vampiric_Tutor')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Vampiric Tutor
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Coffin_Purge')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Coffin Purge
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Duress')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Duress
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Engineered_Plague')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Engineered Plague
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Eiganjo_Castle')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Eiganjo Castle
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Miren,_the_Moaning_Well')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Miren, the Moaning Well
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Okina,_Temple_to_the_Grandfathers')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Okina, Temple to the Grandfathers
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Tendo_Ice_Bridge')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Tendo Ice Bridge
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Keiga,_the_Tide_Star')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Keiga, the Tide Star
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kodama_of_the_North_Tree')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kodama of the North Tree
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Myojin_of_Cleansing_Fire')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Myojin of Cleansing Fire
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Opal-Eye,_Konda[s_Yojimbo')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Opal-Eye, Konda's Yojimbo
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Patron_of_the_Kitsune')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Patron of the Kitsune
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Yosei,_the_Morning_Star')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Yosei, the Morning Star
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Final_Judgment')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Final Judgment
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sensei[s_Divining_Top')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sensei's Divining Top
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Shining_Shoal')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Shining Shoal
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Time_of_Need')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Time of Need
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Empty-Shrine_Kannushi')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Empty-Shrine Kannushi
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Genju_of_the_Fields')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Genju of the Fields
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Ghostly_Prison')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Ghostly Prison
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Hisoka[s_Defiance')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Hisoka's Defiance
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Hokori,_Dust_Drinker')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Hokori, Dust Drinker
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Genju_of_the_Cedars')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Genju of the Cedars
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Umezawa[s_Jitte')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Umezawa's Jitte
+  occurrences: 12
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Wear_Away')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Wear Away
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Molten_Rain')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Molten Rain
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Ravenous_Rats')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Ravenous Rats
+  occurrences: 14
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Chittering_Rats')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Chittering Rats
+  occurrences: 17
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Skull_Collector')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Skull Collector
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Slith_Firewalker')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Slith Firewalker
+  occurrences: 8
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Arc-Slogger')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Arc-Slogger
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Seething_Song')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Seething Song
+  occurrences: 12
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Shrapnel_Blast')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Shrapnel Blast
+  occurrences: 13
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Vulshok_Sorcerer')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Vulshok Sorcerer
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Magma_Jet')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Magma Jet
+  occurrences: 18
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Echoing_Decay')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Echoing Decay
+  occurrences: 9
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Nekrataal')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Nekrataal
+  occurrences: 19
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Hearth_Kami')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Hearth Kami
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Shatter')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Shatter
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Blinkmoth_Nexus')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Blinkmoth Nexus
+  occurrences: 13
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Distress')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Distress
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Nikko-Onna')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Nikko-Onna
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kami_of_Ancient_Law')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kami of Ancient Law
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kabuto_Moth')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kabuto Moth
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Konda,_Lord_of_Eiganjo')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Konda, Lord of Eiganjo
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Teller_of_Tales')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Teller of Tales
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Pain_Kami')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Pain Kami
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mothrider_Samurai')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mothrider Samurai
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Devouring_Greed')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Devouring Greed
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Nezumi_Ronin')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Nezumi Ronin
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Cruel_Deceiver')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Cruel Deceiver
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Okiba-Gang_Shinobi')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Okiba-Gang Shinobi
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Takenuma_Bleeder')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Takenuma Bleeder
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Ronin_Warclub')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Ronin Warclub
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Skullsnatcher')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Skullsnatcher
+  occurrences: 8
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Ogre_Marauder')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Ogre Marauder
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Shuko')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Shuko
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Bile_Urchin')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Bile Urchin
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Moonwing_Moth')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Moonwing Moth
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Plow_Through_Reito')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Plow Through Reito
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kitsune_Dawnblade')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kitsune Dawnblade
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Araba_Mothrider')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Araba Mothrider
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Devoted_Retainer')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Devoted Retainer
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Ghost-Lit_Stalker')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Ghost-Lit Stalker
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kitsune_Loreweaver')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kitsune Loreweaver
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Split-Tail_Miko')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Split-Tail Miko
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Hundred-Talon_Strike')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Hundred-Talon Strike
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Otherworldly_Journey')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Otherworldly Journey
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Wicked_Akuba')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Wicked Akuba
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Soulless_Revival')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Soulless Revival
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Consuming_Vortex')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Consuming Vortex
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Jushi_Apprentice')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Jushi Apprentice
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Three_Tragedies')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Three Tragedies
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Matsu-Tribe_Decoy')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Matsu-Tribe Decoy
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Glacial_Ray')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Glacial Ray
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('O-Naginata')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - O-Naginata
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Solemn_Simulacrum')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Solemn Simulacrum
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Plow_Under')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Plow Under
+  occurrences: 8
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mana_Leak')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mana Leak
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Concentrate')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Concentrate
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kiki-Jiki,_Mirror_Breaker')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kiki-Jiki, Mirror Breaker
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Echoing_Truth')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Echoing Truth
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sowing_Salt')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sowing Salt
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Urza[s_Tower')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Urza's Tower
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Wood_Elves')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Wood Elves
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mindslaver')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mindslaver
+  occurrences: 10
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Triskelion')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Triskelion
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Chrome_Mox')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Chrome Mox
+  occurrences: 13
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Urza[s_Mine')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Urza's Mine
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Viridian_Shaman')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Viridian Shaman
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Rude_Awakening')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Rude Awakening
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Arcbound_Reclaimer')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Arcbound Reclaimer
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Psychic_Spear')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Psychic Spear
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Raving_Oni-Slave')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Raving Oni-Slave
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Barrel_Down_Sokenzan')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Barrel Down Sokenzan
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Akki_Underling')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Akki Underling
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kuro[s_Taken')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kuro's Taken
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Roar')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Roar
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Call')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Call
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Manriki-Gusari')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Manriki-Gusari
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Jade_Idol')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Jade Idol
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Gnarled_Mass')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Gnarled Mass
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Torrent_of_Stone')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Torrent of Stone
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Eiganjo_Free-Riders')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Eiganjo Free-Riders
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('First_Volley')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - First Volley
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Tallowisp')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Tallowisp
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kumano,_Master_Yamabushi')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kumano, Master Yamabushi
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Indomitable_Will')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Indomitable Will
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Okina_Nightwatch')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Okina Nightwatch
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Ronin_Houndmaster')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Ronin Houndmaster
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Ember-Fist_Zubera')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Ember-Fist Zubera
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Flight')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Flight
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Callow_Jushi')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Callow Jushi
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Dreamcatcher')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Dreamcatcher
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kami_of_the_Waning_Moon')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kami of the Waning Moon
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kiri-Onna')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kiri-Onna
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mistblade_Shinobi')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mistblade Shinobi
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Rushing-Tide_Zubera')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Rushing-Tide Zubera
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Shape_Stealer')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Shape Stealer
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Shinen_of_Flight[s_Wings')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Shinen of Flight's Wings
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Soramaro,_First_to_Dream')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Soramaro, First to Dream
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Soratami_Mirror-Guard')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Soratami Mirror-Guard
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Freed_from_the_Real')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Freed from the Real
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Rend_Spirit')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Rend Spirit
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Fear')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Fear
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Razormane_Masticore')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Razormane Masticore
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Culling_Scales')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Culling Scales
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Pulse_of_the_Forge')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Pulse of the Forge
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Flamebreak')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Flamebreak
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Stone_Rain')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Stone Rain
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Aether_Vial')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Aether Vial
+  occurrences: 11
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Shizo,_Death[s_Storehouse')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Shizo, Death's Storehouse
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Tomb_of_Urami')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Tomb of Urami
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Akuta,_Born_of_Ash')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Akuta, Born of Ash
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Ink-Eyes,_Servant_of_Oni')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Ink-Eyes, Servant of Oni
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Nezumi_Graverobber')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Nezumi Graverobber
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kagemaro,_First_to_Suffer')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kagemaro, First to Suffer
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sun_Droplet')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sun Droplet
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Terror')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Terror
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Auriok_Champion')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Auriok Champion
+  occurrences: 10
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Isamaru,_Hound_of_Konda')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Isamaru, Hound of Konda
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Leonin_Skyhunter')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Leonin Skyhunter
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Samurai_of_the_Pale_Curtain')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Samurai of the Pale Curtain
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Savannah_Lions')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Savannah Lions
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Suntail_Hawk')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Suntail Hawk
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Glorious_Anthem')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Glorious Anthem
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Raise_the_Alarm')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Raise the Alarm
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Hallow')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Hallow
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Promise_of_Bunrei')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Promise of Bunrei
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Terashi[s_Grasp')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Terashi's Grasp
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Test_of_Faith')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Test of Faith
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Wrath_of_God')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Wrath of God
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Shinka,_the_Bloodsoaked_Keep')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Shinka, the Bloodsoaked Keep
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Frostling')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Frostling
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Zo-Zu_the_Punisher')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Zo-Zu the Punisher
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Pyrite_Spellbomb')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Pyrite Spellbomb
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Jinxed_Choker')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Jinxed Choker
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Molder_Slug')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Molder Slug
+  occurrences: 8
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Death_Cloud')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Death Cloud
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Boseiju,_Who_Shelters_All')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Boseiju, Who Shelters All
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Circle_of_Protection:_Red')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - 'Circle of Protection: Red'
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Hideous_Laughter')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Hideous Laughter
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sylvan_Scrying')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sylvan Scrying
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Urza[s_Power_Plant')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Urza's Power Plant
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Duplicant')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Duplicant
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sundering_Titan')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sundering Titan
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Vine_Trellis')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Vine Trellis
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Oblivion_Stone')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Oblivion Stone
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Reap_and_Sow')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Reap and Sow
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Tooth_and_Nail')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Tooth and Nail
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Iwamori_of_the_Open_Fist')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Iwamori of the Open Fist
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mephidross_Vampire')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mephidross Vampire
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Troll_Ascetic')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Troll Ascetic
+  occurrences: 1
+---
+![](https://i.ormos.uk/7d/00/7d002bb89b7a40007eb71e3b33f3b0d53836484bd4e7a7e87a385fe7e943963a.jpg)
+
+Inizia oggi, 22 Luglio 2005, in quel di Roma, il lungo weekend all'insegna del Gioco di Carte Collezionabili di tutti i tempi: da tutta Italia, sono arrivati a fiotti nella Capitale i giocatori di Magic!
+
+All'interno di Spazio Etoile, una stupenda struttura da più di 1.000 mq, sita nel cuore della città del cinema, partono infatti i Nazionali 2005 di Magic… e per la precisione si inizia con i Last Chance denominati "MeatGrinder" (letteralmente, "Trita-Carne") e "100 Città".
+
+I MeatGrinder, quest'anno, saranno ben 3: un Sealed Deck, un Blocco ed un Esteso. Iniziando dal Sealed, dove si sono iscritti più di 180 giocatori, si andrà avanti per assegnare, ai più di 200 partecipanti totali, gli ultimi posti disponibili per partecipare al Nazionale vero e proprio… Quanti sono gli slot disponibili? 3 o 4… Capito ora perché si chiama Trita-Carne???  
+ Parallelo ai MeatGrinder, è partito anche il 100 Città; qui si tratta però di un Last Chance ad invito: grazie ai Campionati Cittadini ed alle Coppe di Città, 75 giocatori sono arrivati ad un passo dal torneo che nominerà il Campione Italiano del 2005. Avendo guadagnato il diritto a partecipare al 100 Città, pur trattandosi comunque di una possibilità *in extremis*, i 75 avranno molte più probabilità di vittoria dei partecipanti al MeatGrinder: qui in palio ci sono ben 8 slot!
+
+In quest'estate romana, l'evento sembra promettere forti emozioni… e noi saremo qui a trasmettervele via Internet! Insieme a me, altri due giornalisti di prim'ordine commenteranno partite, mazzi, strategie e curiosità…  
+ Se volete divertirvi, restate on-line!
+
+  
+  
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;    </td><td>Quarterfinals </td>&#10;    <td> </td>&#10;    <td>Semifinals </td>&#10;    <td> </td>&#10;    <td>Finals </td>&#10;    <td> </td>&#10;    <td>Champion </td>&#10;  </tr>&#10;  <tr>&#10;    <td>1</td>&#10;    <td>&#10;      Alessandro Selvaggi&#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Manuel Alvisi, 2-1&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3"> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>8</td>&#10;    <td>&#10;      Manuel Alvisi&#10;    </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3">&#10;      Manuel Alvisi, 2-0&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>4</td>&#10;    <td>&#10;      Stefano Fiori&#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Simone Carboni, 2-1&#10;    </td>&#10;    <td rowspan="5"> </td>&#10;    <td rowspan="5">&#10;      Manuel Alvisi, 2-0&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>5</td>&#10;    <td>&#10;      Simone Carboni&#10;    </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3"> </td>&#10;  </tr>&#10;  <tr>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>2</td>&#10;    <td>&#10;      Bruno Panara&#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Bruno Panara, 2-0&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>7</td>&#10;    <td>&#10;      Gennaro Mango&#10;    </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3">&#10;      Bruno Panara, 2-0&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>3</td>&#10;    <td>&#10;      Andrea Peloso&#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Andrea Peloso, 2-0&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>6</td>&#10;    <td>&#10;      Andrea Cerasari&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;</tbody></table>
+
+  
+  
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <b>EVENT COVERAGE</b>&#10;    </td>&#10;    <td>&#10;      <b>FINAL TOP 8 STANDINGS</b>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <ul>&#10;        <br>&#10;        <h3>Top 8</h3>&#10;        <li>&#10;          <a href="#36">Tutto è bene…</a>&#10;          <div>&#10;            <i> Di Sergio “on-line” Nuzzo</i>&#10;          </div>&#10;        </li>&#10;        <li>&#10;          <a href="#35">Finale</a>: Bruno Panara Vs. Manuel Alvisi <div><i> Di Andrea ‘Vitello’ Vitali </i></div></li>&#10;        <li>&#10;          <a href="#33">Semifinale</a>: Andrea Peloso Vs. Bruno Panara <div><i> Di Andrea ‘Vitello’ Vitali </i></div></li>&#10;        <li>&#10;          <a href="#34">Semifinale</a>: Manuel Alvisi Vs. Simone Carboni <div><i> Di Andrea “Pk” Panebianco </i></div></li>&#10;        <li>&#10;          <a href="#29">Quarti di Finale</a>: Andrea Peloso Vs. Andrea Cerasari <div><i> Di Andrea ‘Vitello’ Vitali </i></div></li>&#10;        <li>&#10;          <a href="#30">Quarti di Finale</a>: Bruno Panara Vs. Gennaro Mango <div><i> Di Luca “handofdoom” Mazzone </i></div></li>&#10;        <li>&#10;          <a href="#31"> Quarti di Finale</a>: Stefano Fiori Vs. Simone Carboni <div><i> Di Sergio “on-line” Nuzzo </i></div></li>&#10;        <li>&#10;          <a href="#32"> Quarti di Finale</a>: Manuel Alvisi Vs. Alessandro Selvaggi <div><i> Di Andrea “Pk” Panebianco </i></div></li>&#10;        <li>&#10;          <a href="#28">Liste Top 8</a>&#10;          <div>&#10;            <i>By Event Coverage Staff</i>&#10;          </div>&#10;        </li>&#10;        <h3>Sunday</h3>&#10;        <li>&#10;          <a href="#27">Blog - 5:41 pm</a>: Round 12 – Feature Match: Sbrozzi Vs. Carboni <div><i> Di Andrea ‘Vitello’ Vitali </i></div></li>&#10;        <li>&#10;          <a href="#26">Blog 4:17 pm</a>: Round 11 – Feature Match: Fiori Vs. Gesiot <div><i> Di Andrea ‘Vitello’ Vitali </i></div></li>&#10;        <li>&#10;          <a href="#25">Blog - 3:31 pm</a>: Round 10 - Feature Match: Andrea Cerasari Vs. Luca Chiera <div><i> Di Andrea “Pk” Panebianco </i></div></li>&#10;        <li>&#10;          <a href="#24">Blog - 3:22 pm</a>: Round 10 – Feature Match: Canavesi Vs. Panara <div><i> Di Andrea ‘Vitello’ Vitali </i></div></li>&#10;        <li>&#10;          <a href="#23">Blog - 2:01 pm</a>: Round 9 – Feature Match: Carboni Vs. Girolami <div><i> Di Andrea ‘Vitello’ Vitali </i></div></li>&#10;        <li>&#10;          <a href="#22">Blog - 12:14 pm</a>: Round 8 - Feature Match: Dario Minieri Vs. Domingo Ottati <div><i> Di Andrea “Pk” Panebianco </i></div></li>&#10;        <li>&#10;          <a href="#21">Blog - 12:02 pm</a>: Round 8 – Feature Match: Sbrozzi Vs. Paselli <div><i> Di Andrea ‘Vitello’ Vitali </i></div></li>&#10;        <li>&#10;          <a href="#20">Blog - 10:55 am</a>: Round 7 - Feature Match: Emanuele Canavesi Vs. Francesco Berti <div><i> Di Andrea “Pk” Panebianco </i></div></li>&#10;        <li>&#10;          <a href="#19">Blog - 10:47 am</a>: Round 7 – Feature Match: Cavaglieri Vs. Sbrozzi <div><i> Di Andrea ‘Vitello’ Vitali </i></div></li>&#10;        <li>&#10;          <a href="#18">Blog - 9:56 am</a>: Draft 2: Alessandro Selvaggi <div><i> Di Andrea “Pk” Panebianco </i></div></li>&#10;        <li>&#10;          <a href="#17">Blog - 9:45 am</a>: Draft: Mario Pascoli <div><i> Di Andrea ‘Vitello’ Vitali </i></div></li>&#10;        <h3>Saturday</h3>&#10;        <li>&#10;          <a href="#15">Blog - 9:19 pm</a>: Round 6 Feature Match: Raffaele Lo Moro - Stefano Fiori <div><i>di Andrea &quot;Pk&quot; Panebianco</i></div></li>&#10;        <li>&#10;          <a href="#14">Blog - 9:09 pm</a>: Round 6: Pascoli Panara <div><i>di Andrea 'Vitello' Vitali</i></div></li>&#10;        <li>&#10;          <a href="#13">Blog - 8:06 pm</a>: Round 5 Feature Match: Matteo Cirigliano - Dario Minieri <div><i>di Andrea &quot;Pk&quot; Panebianco</i></div></li>&#10;        <li>&#10;          <a href="#12">Blog - 7:10 pm</a>: Round 5: Di Tommaso Fiori <div><i>di Andrea 'Vitello' Vitali</i></div></li>&#10;        <li>&#10;          <a href="#11">Blog - 6:38 pm</a>: Curina Ottai Feature Match 4 <div><i>di Andrea 'Vitello' Vitali</i></div></li>&#10;        <li>&#10;          <a href="#6">Blog - 6:00 pm</a>: Round 3 Feature Match: Mario Pascoli vs. Simone Zulian <div><i>di Andrea 'Vitello' Vitali</i></div></li>&#10;        <li>&#10;          <a href="#10">Blog - 5:55 pm</a>: Round 4 Feature Match: Giovanni Gesiot - Luca Chiera <div><i>di Andrea &quot;Pk&quot; Panebianco</i></div></li>&#10;        <li>&#10;          <a href="#9">Blog - 5:18 pm</a>: Draft Emanuele Canavesi <div><i>di Andrea &quot;Pk&quot; Panebianco</i></div></li>&#10;        <li>&#10;          <a href="#8">Blog - 4:52 pm</a>: Draft - Lo Moro <div><i>di Andrea 'Vitello' Vitali</i></div></li>&#10;        <li>&#10;          <a href="#7">Blog - 4:01 pm</a>: Round 3 Feature Match: Dato Andrea - Berti Francesco <div><i>di Andrea &quot;Pk&quot; Panebianco</i></div></li>&#10;        <li>&#10;          <a href="#5">Blog - 3:10 pm</a>: e tutto va bene. <div><i>di Sergio &quot;on-line&quot; Nuzzo</i></div></li>&#10;        <li>&#10;          <a href="#4">Blog - 2:22 pm</a>: Round 1 Feature Match: Fiori Stefano - Selvaggi Alessandro <div><i>di Andrea &quot;Pk&quot; Panebianco</i></div></li>&#10;        <li>&#10;          <a href="#3">Blog - 1:07 pm</a>: Mazzi Meatgrinder <div><i>di Event Coverage Staff</i></div></li>&#10;        <li>&#10;          <a href="#2">Blog - 11:30 am</a>: I vincitori dei Meatgrinder <div><i>di Andrea &quot;Pk&quot; Panebianco</i></div></li>&#10;        <li>&#10;          <a href="#1">Blog - 9:10 am</a>: Meatgrinder! <div><i>di Sergio &quot;on-line&quot; Nuzzo</i></div></li>&#10;        <li>&#10;          <a href="/it/events/2005/itnat05/day-1-player-list">Info</a>: Day 1 Player List <div><i>by Event Coverage Staff</i></div></li>&#10;        &#10;      </ul>&#10;    </td>&#10;    <td colspan="2">&#10;      &#10;      &#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <b>Pairings</b>&#10;          </td>&#10;          <td>&#10;            <b>Results</b>&#10;          </td>&#10;          <td>&#10;            <b>Standings</b>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            <a href="/it/events/2005/itnat05/round-12-pairings">12</a>&#10;            <br>&#10;            <a href="/it/events/2005/itnat05/round-11-pairings">11</a>&#10;            <br>&#10;            <a href="/it/events/2005/itnat05/round-10-pairings">10</a>&#10;            <br>&#10;            <a href="/it/events/2005/itnat05/round-9-pairings">9</a>&#10;            <br>&#10;            <a href="/it/events/2005/itnat05/round-8-pairings">8</a>&#10;            <br>&#10;            <a href="/it/events/2005/itnat05/round-7-pairings">7</a>&#10;          </td>&#10;          <td>&#10;            <a href="/it/events/2005/itnat05/round-12-results">12</a>&#10;            <br>&#10;            <a href="/it/events/2005/itnat05/round-11-results">11</a>&#10;            <br>&#10;            <a href="/it/events/2005/itnat05/round-10-results">10</a>&#10;            <br>&#10;            <a href="/it/events/2005/itnat05/round-9-results">9</a>&#10;            <br>&#10;            <a href="/it/events/2005/itnat05/round-8-results">8</a>&#10;            <br>&#10;            <a href="/it/events/2005/itnat05/round-7-results">7</a>&#10;          </td>&#10;          <td>&#10;            <a href="/it/events/2005/itnat05/round-12-standings">12</a>&#10;            <br>&#10;            <a href="/it/events/2005/itnat05/round-11-standings">11</a>&#10;            <br>&#10;            <a href="/it/events/2005/itnat05/round-10-standings">10</a>&#10;            <br>&#10;            <a href="/it/events/2005/itnat05/round-9-standings">9</a>&#10;            <br>&#10;            <a href="/it/events/2005/itnat05/round-8-standings">8</a>&#10;            <br>&#10;            <a href="/it/events/2005/itnat05/round-7-standings">7</a>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            <a href="/it/events/2005/itnat05/round-6-pairings">6</a>&#10;            <br>&#10;            <a href="/it/events/2005/itnat05/round-5-pairings">5</a>&#10;            <br>&#10;            <a href="/it/events/2005/itnat05/round-4-pairings">4</a>&#10;            <br>&#10;            <a href="/it/events/2005/itnat05/round-3-pairings">3</a>&#10;            <br>&#10;            <a href="https://web.archive.org/web/20090603164238/http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/itnat05/pair2">2</a>&#10;            <br>&#10;            <a href="/it/events/2005/itnat05/round-1-pairings">1</a>&#10;          </td>&#10;          <td>&#10;            <a href="/it/events/2005/itnat05/round-6-results">6</a>&#10;            <br>&#10;            <a href="/it/events/2005/itnat05/round-5-results">5</a>&#10;            <br>&#10;            <a href="/it/events/2005/itnat05/round-4-results">4</a>&#10;            <br>&#10;            <a href="/it/events/2005/itnat05/round-3-results">3</a>&#10;            <br>2<br><a href="/it/events/2005/itnat05/round-1-results">1</a></td>&#10;          <td>&#10;            <a href="/it/events/2005/itnat05/round-6-standings">6</a>&#10;            <br>&#10;            <a href="/it/events/2005/itnat05/round-5-standings">5</a>&#10;            <br>&#10;            <a href="/it/events/2005/itnat05/round-4-standings">4</a>&#10;            <br>&#10;            <a href="/it/events/2005/itnat05/round-3-standings">3</a>&#10;            <br>&#10;            <a href="/it/events/2005/itnat05/round-2-standings">2</a>&#10;            <br>&#10;            <a href="/it/events/2005/itnat05/round-1-standings">1</a>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;    </td>&#10;  </tr>&#10;</tbody></table>
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <b>BLOG</b>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <br>&#10;      <a name="1">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Saturday, July 23: 9:10 am - Meatgrinder</b>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <img src="https://i.ormos.uk/c4/ba/c4bae488e9eb79381d74b73899f3192e9461f12aa4e7c177027a167dc6644803.jpg">&#10;      <p>Si è appena conclusa la prima di questa terna romana: più di 400 i partecipanti totali con un MeatGrinder da 200 giocatori!</p>&#10;      <p>Tra le cose particolari da raccontare, sicuramente la presenza di una giocatrice di 23 anni: Valentina Leli di Cuneo, che per un pelo non è arrivata a vincere il Last Chance, ha iniziato a giocare da soli due anni, spinta dalla noia nel seguire il proprio boyfriend in giro per i tornei… E' così arrivata a 1760 punti di Composite e speriamo che continui positivamente nella sua carriera da giocatrice.<br> Ma Valentina non è stata l'unica rappresentante di sesso femminile a farsi notare: tra i partecipanti &quot;grandi e grossi&quot; della storia di Magic, abbiamo infatti ritrovato anche una bambina di 9 anni! Chissà che un giorno non diventi anche lei un volto famoso…<br> Uno dei nomi conosciuti tra i qualificati dell'ultimo minuto, è invece quello dell'ex impiegato Wizards Riccardo Sandroni.</p>&#10;      <p>A domani, con l'inizio del vero e proprio Nazionale!</p>&#10;      <br>&#10;      <a name="2">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Saturday, July 23: 11:30 am - I vincitori dei Meatgrinder</b>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <p>Dopo un'intensa giornata di battaglie a colpi di morsi di Kokusho e schiaffoni a mano aperta di Iwamori, abbiamo sei nuovi partecipanti ai Nazionali 2005, usciti dalle &quot;Coppe Intertoto&quot; di Magic. </p>&#10;      <p>Cominciamo dal &quot;100 Città&quot; che ha qualificato Andrea Agostani, Alessio Audizzi, Alessandro Buttiroli, Marco De Rosa, Gianluca Filippini, Gennaro Mango, Riccardo Neri e Vincenzo &quot;O' Senatore&quot; Schiano di Scioarro.</p>&#10;      <p>Il Sealed Deck ha visto vincitori Luigi Sbrozzi e Riccardo Sandroni, che hanno sconfitto nelle finali rispettivamente l'imolese Nocentini (vittima di un game loss e della micidiale combinazione <a>Honden of Infinite Rage</a> + Honden of Life Web) e il romano Splendori (piegato dalle superiori creature terrestri del triestino e di un One Hundred Talon Kami che non c'era verso di bloccare); Sealed che si è comunque rivelato molto alto come livello, facendo vittime illustri come Tommaso Natale, Andrea &quot;Vitello&quot; Vitali, Fabio Jaboli e Stefano &quot;Fudo&quot; Simoncini e che contava oltre 180 partecipanti.</p>&#10;      <p>Dal Torneo di Block Constructed sono emersi due napoletani: Fabio Liberato ed Alessandro Scalia (entrambi con GWu, anche se in versioni differenti tra loro), con quest'ultimo che batte alle undici di sera in un &quot;derby&quot; partenopeo (mirror match, tra l'altro) Vincenzo Miranda, costretto ad un mulligan a 5 nel terzo match e autore di una &quot;remata&quot; d'altri tempi che per poco non gli faceva portare a casa una partita creduta persa in partenza.</p>&#10;      <p>Infine l'Extended, che premia due giocatori di Ravenna: Filippo Onoranti (&quot;The Rock&quot;, metagamizzato in maniera estrema) e Michele Bazzani (&quot;Temporary Solution&quot; tunato contro Rosso), ultimi ad aggiungersi al plotone dei partecipanti a questi Campionati Nazionali che vanno ad incominciare.</p>&#10;      <br>&#10;      <a name="3">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Saturday, July 23: 1:07 pm - Mazzi Meatgrinder</b>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Riccardo Sandroni&#10;              </div>&#10;              <div>Sealed Deck</div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090604004519/https://www.wizards.com/magic/samplehand.asp?x=mtgevent_itnat05_welcome&amp;decknum=1">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td colspan="3">&#10;                  <p>Main Deck</p>&#10;                  <p>40 cards&#10;                    </p>&#10;                </td>&#10;              </tr>&#10;              <tr>&#10;                <td>10 &#10;                      <a>Plains</a><br>7 &#10;                      <a>Swamp</a><br><hr>17 lands</td>&#10;                <td>1 &#10;                      <a>Blood Speaker</a><br>1 &#10;                      <a>Deathmask Nezumi</a><br>1 &#10;                      <a>Eight-and-a-Half-Tails</a><br>1 &#10;                      <a>Hundred-Talon Kami</a><br>1 &#10;                      <a>Kitsune Blademaster</a><br>1 &#10;                      <a>Kitsune Healer</a><br>1 &#10;                      <a>Lantern Kami</a><br>1 &#10;                      <a>Michiko Konda, Truth Seeker</a><br>1 &#10;                      <a>Nagao, Bound by Honor</a><br>1 &#10;                      <a>Scuttling Death</a><br>1 &#10;                      <a>Shinen of Stars' Light</a><br>1 &#10;                      <a>Silverstorm Samurai</a><br>1 &#10;                      <a>Torii Watchward</a><br>1 &#10;                      <a>Waxmane Baku</a><br><hr>14 creatures</td>&#10;                <td>1 &#10;                      <a>Befoul</a><br>1 &#10;                      <a>Cage of Hands</a><br>1 &#10;                      <a>Curtain of Light</a><br>1 &#10;                      <a>Death Denied</a><br>1 &#10;                      <a>Ethereal Haze</a><br>1 &#10;                      <a>Honden of Cleansing Fire</a><br>1 &#10;                      <a>Pull Under</a><br>1 &#10;                      <a>Rend Flesh</a><br>1 &#10;                      <a>Sickening Shoal</a><br><hr>9 other spells</td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Luigi Sbrozzi&#10;              </div>&#10;              <div>Sealed Deck</div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090604004519/https://www.wizards.com/magic/samplehand.asp?x=mtgevent_itnat05_welcome&amp;decknum=2">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td colspan="3">&#10;                  <p>Main Deck</p>&#10;                  <p>39 cards&#10;                    </p>&#10;                </td>&#10;              </tr>&#10;              <tr>&#10;                <td>6 &#10;                      <a>Forest</a><br>1 &#10;                      <a>Island</a><br>1 &#10;                      <a>Mountain</a><br>1 &#10;                      <a>Pinecrest Ridge</a><br>8 &#10;                      <a>Swamp</a><br><hr>17 lands</td>&#10;                <td>1 &#10;                      <a>Ashen-Skin Zubera</a><br>1 &#10;                      <a>Brutal Deceiver</a><br>1 &#10;                      <a>Cursed Ronin</a><br>1 &#10;                      <a>Gutwrencher Oni</a><br>1 &#10;                      <a>He Who Hungers</a><br>1 &#10;                      <a>Kami of the Hunt</a><br>1 &#10;                      <a>Lifespinner</a><br>1 &#10;                      <a>Matsu-Tribe Sniper</a><br>1 &#10;                      <a>Nezumi Cutthroat</a><br>1 &#10;                      <a>Oboro Envoy</a><br>1 &#10;                      <a>Sakura-Tribe Elder</a><br>1 &#10;                      <a>Soilshaper</a><br>1 &#10;                      <a>Villainous Ogre</a><br><hr>13 creatures</td>&#10;                <td>1 &#10;                      <a>Eradicate</a><br>1 &#10;                      <a>Honden of Infinite Rage</a><br>1 &#10;                      <a>Honden of Life's Web</a><br>1 &#10;                      <a>Horobi's Whisper</a><br>1 &#10;                      <a>Kagemaro's Clutch</a><br>1 &#10;                      <a>Kodama's Might</a><br>1 &#10;                      <a>Kodama's Reach</a><br>1 &#10;                      <a>Rend Flesh</a><br>1 &#10;                      <a>Spiraling Embers</a><br><hr>9 other spells</td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Bazzani Michele&#10;              </div>&#10;              <div>Solution</div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090604004519/https://www.wizards.com/magic/samplehand.asp?x=mtgevent_itnat05_welcome&amp;decknum=3">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td colspan="2">&#10;                        <p>Main Deck</p>&#10;                        <p>59 cards&#10;                    </p>&#10;                      </td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>4 &#10;                      <a>Adarkar Wastes</a><br>1 &#10;                      <a>Ancient Den</a><br>4 &#10;                      <a>Flooded Strand</a><br>6 &#10;                      <a>Island</a><br>6 &#10;                      <a>Plains</a><br>1 &#10;                      <a>Seat of the Synod</a><br><hr>22 lands<br><br><br>3 &#10;                      <a>Exalted Angel</a><br>3 &#10;                      <a>Gilded Drake</a><br>4 &#10;                      <a>Meddling Mage</a><br>4 &#10;                      <a>Silver Knight</a><br>3 &#10;                      <a>Waterfront Bouncer</a><br><hr>17 creatures</td>&#10;                      <td>4 &#10;                      <a>Brainstorm</a><br>4 &#10;                      <a>Enlightened Tutor</a><br>1 &#10;                      <a>Parallax Tide</a><br>3 &#10;                      <a>Parallax Wave</a><br>2 &#10;                      <a>Pithing Needle</a><br>4 &#10;                      <a>Stifle</a><br>1 &#10;                      <a>Sword of Fire and Ice</a><br>1 &#10;                      <a>Worship</a><br><hr>20 other spells</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td>&#10;                        <p>Sideboard</p>&#10;                        <p>&#10;                      </p></td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>1 &#10;                            <a>Absolute Law</a><br>3 &#10;                            <a>Chill</a><br>1 &#10;                            <a>Cursed Totem</a><br>1 &#10;                            <a>Damping Matrix</a><br>1 &#10;                            <a>Energy Flux</a><br>1 &#10;                            <a>Engineered Explosives</a><br>1 &#10;                            <a>Meloku the Clouded Mirror</a><br>3 &#10;                            <a>Parallax Tide</a><br>1 &#10;                            <a>Rule of Law</a><br>1 &#10;                            <a>Seal of Removal</a><br>1 &#10;                            <a>Worship</a><br><hr>15 sideboard cards</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Onorati Filippo&#10;              </div>&#10;              <div>Always Rock!</div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090604004519/https://www.wizards.com/magic/samplehand.asp?x=mtgevent_itnat05_welcome&amp;decknum=4">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td colspan="2">&#10;                        <p>Main Deck</p>&#10;                        <p>60 cards&#10;                    </p>&#10;                      </td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>1 &#10;                      <a>Dust Bowl</a><br>7 &#10;                      <a>Forest</a><br>4 &#10;                      <a>Llanowar Wastes</a><br>6 &#10;                      <a>Swamp</a><br>4 &#10;                      <a>Treetop Village</a><br>1 &#10;                      <a>Volrath's Stronghold</a><br><hr>23 lands<br><br><br>4 &#10;                      <a>Birds of Paradise</a><br>3 &#10;                      <a>Eternal Witness</a><br>1 &#10;                      <a>Genesis</a><br>1 &#10;                      <a>Kokusho, the Evening Star</a><br>3 &#10;                      <a>Ravenous Baloth</a><br>4 &#10;                      <a>Sakura-Tribe Elder</a><br>3 &#10;                      <a>Wall of Blossoms</a><br>1 &#10;                      <a>Withered Wretch</a><br><hr>20 creatures</td>&#10;                      <td>4 &#10;                      <a>Cabal Therapy</a><br>1 &#10;                      <a>Cranial Extraction</a><br>3 &#10;                      <a>Diabolic Edict</a><br>1 &#10;                      <a>Naturalize</a><br>3 &#10;                      <a>Pernicious Deed</a><br>1 &#10;                      <a>Recurring Nightmare</a><br>1 &#10;                      <a>Smother</a><br>3 &#10;                      <a>Vampiric Tutor</a><br><hr>17 other spells</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td>&#10;                        <p>Sideboard</p>&#10;                        <p>&#10;                      </p></td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>2 &#10;                            <a>Coffin Purge</a><br>1 &#10;                            <a>Cranial Extraction</a><br>3 &#10;                            <a>Duress</a><br>4 &#10;                            <a>Engineered Plague</a><br>2 &#10;                            <a>Naturalize</a><br>1 &#10;                            <a>Pernicious Deed</a><br>2 &#10;                            <a>Smother</a><br><hr>15 sideboard cards</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                El Pive Zoo&#10;              </div>&#10;              <div></div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090604004519/https://www.wizards.com/magic/samplehand.asp?x=mtgevent_itnat05_welcome&amp;decknum=5">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td colspan="2">&#10;                        <p>Main Deck</p>&#10;                        <p>61 cards&#10;                    </p>&#10;                      </td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>1 &#10;                      <a>Eiganjo Castle</a><br>9 &#10;                      <a>Forest</a><br>1 &#10;                      <a>Island</a><br>1 &#10;                      <a>Miren, the Moaning Well</a><br>1 &#10;                      <a>Okina, Temple to the Grandfathers</a><br>9 &#10;                      <a>Plains</a><br>1 &#10;                      <a>Tendo Ice Bridge</a><br><hr>23 lands<br><br><br>1 &#10;                      <a>Keiga, the Tide Star</a><br>2 &#10;                      <a>Kodama of the North Tree</a><br>1 &#10;                      <a>Meloku the Clouded Mirror</a><br>1 &#10;                      <a>Myojin of Cleansing Fire</a><br>3 &#10;                      <a>Opal-Eye, Konda's Yojimbo</a><br>1 &#10;                      <a>Patron of the Kitsune</a><br>4 &#10;                      <a>Sakura-Tribe Elder</a><br>4 &#10;                      <a>Yosei, the Morning Star</a><br><hr>17 creatures</td>&#10;                      <td>4 &#10;                      <a>Final Judgment</a><br>3 &#10;                      <a>Kodama's Reach</a><br>3 &#10;                      <a>Pithing Needle</a><br>3 &#10;                      <a>Sensei's Divining Top</a><br>4 &#10;                      <a>Shining Shoal</a><br>4 &#10;                      <a>Time of Need</a><br><hr>21 other spells</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td>&#10;                        <p>Sideboard</p>&#10;                        <p>&#10;                      </p></td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>4 &#10;                            <a>Empty-Shrine Kannushi</a><br>3 &#10;                            <a>Genju of the Fields</a><br>4 &#10;                            <a>Ghostly Prison</a><br>4 &#10;                            <a>Hisoka's Defiance</a><br><hr>15 sideboard cards</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Miranda Vincenzo&#10;              </div>&#10;              <div>Morchia Power!</div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090604004519/https://www.wizards.com/magic/samplehand.asp?x=mtgevent_itnat05_welcome&amp;decknum=6">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td colspan="2">&#10;                        <p>Main Deck</p>&#10;                        <p>60 cards&#10;                    </p>&#10;                      </td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>1 &#10;                      <a>Eiganjo Castle</a><br>8 &#10;                      <a>Forest</a><br>1 &#10;                      <a>Island</a><br>1 &#10;                      <a>Okina, Temple to the Grandfathers</a><br>6 &#10;                      <a>Plains</a><br>1 &#10;                      <a>Swamp</a><br>4 &#10;                      <a>Tendo Ice Bridge</a><br><hr>22 lands<br><br><br>1 &#10;                      <a>Hokori, Dust Drinker</a><br>4 &#10;                      <a>Kitsune Blademaster</a><br>2 &#10;                      <a>Kodama of the North Tree</a><br>1 &#10;                      <a>Meloku the Clouded Mirror</a><br>1 &#10;                      <a>Patron of the Kitsune</a><br>4 &#10;                      <a>Sakura-Tribe Elder</a><br>4 &#10;                      <a>Yosei, the Morning Star</a><br><hr>17 creatures</td>&#10;                      <td>2 &#10;                      <a>Cranial Extraction</a><br>3 &#10;                      <a>Final Judgment</a><br>2 &#10;                      <a>Genju of the Cedars</a><br>4 &#10;                      <a>Kodama's Reach</a><br>4 &#10;                      <a>Sensei's Divining Top</a><br>3 &#10;                      <a>Time of Need</a><br>3 &#10;                      <a>Umezawa's Jitte</a><br><hr>21 other spells</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td>&#10;                        <p>Sideboard</p>&#10;                        <p>&#10;                      </p></td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>2 &#10;                            <a>Cranial Extraction</a><br>4 &#10;                            <a>Empty-Shrine Kannushi</a><br>2 &#10;                            <a>Genju of the Fields</a><br>4 &#10;                            <a>Ghostly Prison</a><br>1 &#10;                            <a>Kodama of the North Tree</a><br>2 &#10;                            <a>Wear Away</a><br><hr>15 sideboard cards</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <a name="4">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Saturday, July 23: 2:22 pm - Round 1 Feature Match: Fiori Stefano - Selvaggi Alessandro</b>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/45/9c/459cd53818cba542833f6f9276ed5c05d87e39b13c5c39627244ad653df00310.jpg">&#10;            <i>Selvaggi Alessandro</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Per entrambi parlano i risultati, con le loro qualificazioni ai PT nelle scorse stagioni, Stefano per sua ammissione ha &quot;quasi smesso&quot;, mentre Alessandro è reduce dai recenti Top 8 ai PTQ Napoli e Catania.</p>&#10;      <p>Nessuno dei due è particolarmente contento né del pairing, né del Feature Match, in cui si affronteranno monorosso (Fiori) ed il Rat-Deck (Selvaggi, ideato da Simone Carboni). Stefano vince il dado e decide di partire, droppando due Frostlind, al quale Alessandro risponde con doppia Aether Vial, contrastando così una doppia <a>Molten Rain</a> con efficacia e mettendo la museruola ai due Geliferi con <a>Ravenous Rats</a> e <a>Chittering Rats</a> in rapida sequenza. La disparità di carte in mano è di 4-0 per il catanese che mette <a></a><a>Umezawa's Jitte</a> e passa nuovamente, drop di terra per Stefano e <a></a><a>Skull Collector</a> in discard Phase di Alessandro, che insiste nella sua opera di distruzione con Peeting Needle (su Frostlind). La combo di Fiala e topini è troppo per il milanese, in netto svantaggio di mano e di board: vedendosi negata la possibilità di giocare la successiva carta da un secondo Ratto Famelico durante la fase di pesca, ammucchia per passare alla seconda.</p>&#10;      <p>Fiori 0-1 Selvaggi</p>&#10;      <p>Mulligan per Stefano che non sembra particolarmene soddisfatto della mano, ma riesce a fare un <a>Slith Firewalker</a> di secondo turno, ucciso da Ecoing Decay ma sostituito da un ben più pericoloso <a>Arc-Slogger</a>, grazie al mana di <a>Seething Song</a>. Vial + <a>Ravenous Rats</a> e tocca di nuovo al milanese che brucia il topino sparando di Slogger e attaccando col panzone e con un nuovo Firewalker. Doppio Sun Dropet di risposta per Alessandro che subisce ancora i colpi delle due creature di Stefano, precipitando a 8 PV e vedendosi recapitare sul board anche un Frostlind. <a></a><a>Skull Collector</a> e preziosi punti vita per il catanese, costretto a rigenerare l'Ogre dopo il fuoco incrociato di Frostlind e Slogger. Nuovo attacco e si scende a 5, con 29 carte ancora nel grimorio del milanese che passa. Pescata fortunata di Alessandro e Rend the Flesh che uccide lo Slogger (e 4 nuovi danni per il catanese), ma i punti vita sono diventati veramente troppo pochi ed una <a>Shrapnel Blast</a> chiude i conti dopo l'untap.</p>&#10;      <p>Fiori 1-1 Selvaggi</p>&#10;      <p>&#10;        <a>Ravenous Rats</a> e <a>Chittering Rats</a> di secondo e terzo per Alessandro ma una <a>Vulshok Sorcerer</a> prima ed un <a>Magma Jet</a> poi, gli puliscono il tavolo. <a>Echoing Decay</a> poi si occupa della Fattucchiera prima che diventi pericolosa, e il <a>Nekrataal</a> del turno successivo poi sistema un <a></a><a>Hearth Kami</a>. Tentativo di equip di <a>Nekrataal</a> con una <a></a><a>Umezawa's Jitte</a>, prontamente distrutta da <a>Shatter</a>, e Alessandro si rifà con Akuna, Born from Ash...</p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/3d/2a/3d2a03c85a219d54470b514ef7c947b2a0d73b4911f12b76f3462a19bf827db8.jpg">&#10;            <i>Fiori Stefano</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>PK &quot;Che è quella bestiaccia?&quot;<br> Alessandro, avvicinandomela &quot;ah, non lo so nemmeno io…&quot;</p>&#10;      <p>La <a>Blinkmoth Nexus</a> del milanese si immola su Akuna, poi un Peeting Needle lo chiama, non avvedendosi che l'abilità non è attivata ma innescata…il 3/2 siculo riemerge dalla pila degli scarti e torna all'assalto, vedendosi nuovamente ucciso da una <a>Shrapnel Blast</a>. Al terzo tentativo, Akuna riesce a far danno, assieme al fido <a>Nekrataal</a>, portando a 7 Stefano, e la successiva <a></a><a>Distress</a> del catanese costringe Stefano a tirare un'esplosione sul Nekraaal. Buona la pescata successiva di <a>Magma Jet</a> di Stefano, che lo salva dall'affondo finale di una Nexus e del solito Akuna, che al tentativo successivo però non trova opposizione alcuna e costringe alla resa il milanese.</p>&#10;      <p>Fiori 1-2 Selvaggi</p>&#10;      <br>&#10;      <a name="5">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Saturday, July 23: 3:10 pm - e tutto va bene.</b>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/08/11/081161dce7f449e4d218a0855372175094cfe4eadbd93b6b3a958b89787c0c4f.jpg">&#10;            <i>The judges</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Finito senza alcun problema il 1° turno di gioco, dopo i 60 minuti per match messi a disposizione dall'Head Judge Diego Fasciolo, al suo primo evento di questa portata.<br> Sulle 143 liste mazzo presentate, stranamente solo 1 errore: sarà che i giocattori italiani hanno imparato a listare le terre?</p>&#10;      <p>Il &quot;massiccio&quot; staff arbitrale sembra non essere assolutamente impensierito dall'evento ed in tutto questo, il campione uscente Mario Pascoli, ai pairings contro Marco Colnaghi, vince 2-0 senza sorprendere nessuno… vedremo a fine giornata se sarà riuscito a difendere il titolo fino in fondo…</p>&#10;      <br>&#10;      <a name="7">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Saturday, July 23: 4:01 pm - Round 3 Feature Match: Dato Andrea - Berti Francesco</b>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <p>Due giocatori di vecchia data, con all'attivo buoni finish sia ai nazionali che a vari Pro Tour si affrontano in un mirror di White Weenie, e nessuno dei due è molto contento di questo.</p>&#10;      <p>Mulligan di Andrea e Francesco esordisce con terra, Chrome Mox e Leonin Skyhunter. Risponde il romano con un Savannah Lions, mentre dopo Glorious Anthem, il fiorentino parte con il suo beatdown, imitato da Andrea che pareggia la situazione a terra con Raise the Alarm, uccidendo il suo leone 2/1 su quello avversario e mettendo a sua volta uno Skyhunter. Non pago del vantaggio dato dall'Inno, Francesco si ripete e fa scendere al suo servizio un secondo Leonid volante, prontamente imitato da Andrea che passa rinunciando all'attacco, per bloccare a coppia uno dei due volanti avversari ed ucciderlo. Ma Francesco ha altre frecce al suo arco e due <a>Lantern Kami</a> si aggregano alle sue truppe, mettendo il romano in serie difficoltà per quanto riguarda la situazione in cielo. Nessuno dei due ha droppato terre dopo il quarto land drop (Francesco fermo a due più Mox), una <a>Umezawa's Jitte</a> potrebbe risolvere molti problemi: equippato un Token, Andrea parte all'assalto e suicida la bestiolina contro uno dei due Spiriti, ma la situazione è già ampiamente compromessa, e sul successivo attacco del toscano, si rimescola per la seconda.</p>&#10;      <p>Dato 0-1 Berti</p>&#10;      <p>Francesco &quot;Mazzi molto di concetto per me, vero? Terra, bestia e ti meno&quot;</p>&#10;      <p>Entrambi tengono la mano a sette carte e Andrea apre le ostilità con….terra, mox e passo…giusto per fare Raise the Alarm nella discard avversaria e attaccare per due danni. Francesco gioca d'anticipo mettendo la sua Jitte per evitare quella dell'opponent, subendo un nuovo assalto e vedendosi recapitare sul board un classico Savannah Lions e un nuovo Raise the Alarm. Cominciano ad essere in tanti dalla parte romana del tavolo e Francesco corre ai ripari con <a>Shining Shoal</a>, uccidendo il Leone. Ma dopo l'ennesima pescata fiacca, appurato che non la situazione è disperata, il fiorentino ammucchia e si va alla bella.</p>&#10;      <p>Dato 1-1 Berti </p>&#10;      <p>Il primo Savannah Lions è stavolta per Francesco, e Andrea si oppone con <a>Lantern Kami</a>. I due cominciano a schierare i loro eserciti sul tavolo, e la <a>Umezawa's Jitte</a> del fiorentino vorrebbe spostare l'equilibrio della partita. Attacca il Leonin Skyhunter del romano, raggiunto da un fratellino; Il kami viene equipaggiato e parte verso la sponda romana, fermato dal secondo Skyhunter e abbattuto da uno dei segnalini della Jitte appena caricata, mentre il secondo token pone fine all'esistenza dell'altro Kami. Eight-and-a-half Tails e Isamaru per Andrea, mentre Francesco, incurante delle nuove minacce, equippa Leone ed attacca: blocco di Isamaru e Test of Faith! Il Leone diventa magicamente 4/3, e la Jitte fa sì che anche la Volpe leggendaria saluti la compagnia…non buone notizie per il romano, rimasto con il suo volante 2/2 a fronteggiare un mostruoso felino delle colline fiorentine. Dopo l'attacco arriva <a>Opal-Eye, Konda's Yojimbo</a>, ma di là appare un Glorious Anthem, e dopo che il mostruoso Leone non viene bloccato, la Jitte giustizia anche il secondo Leonid. Un Nikko-Oma toglie di mezzo l'inno e il nuovo attacco del Fiorentino avviene solo per aria, con lo Skyhunter calato il turno prima e la Blinkmoth Nexus. Altro felino ed altra corsa per Francesco, mentre dopo un lungo pensare, Andrea passa. Nuovo attacco, stavolta in forze, ed ai due volanti si aggiunge anche l'ormai famoso Leone 4/3, bloccato dalle due creature dall'altra parte del tavolo in tandem. E se <a>Nikko-Onna</a> viene ucciso da Jitte prima che i danni vadano in pila, Yojimbo salva sé stesso prevenendo anche i danni dello Skyhunter equippato che non carica così il nefasto Spadone di cui è usufruitore. La situazione di board non è delle più allegre però per Andrea, che gioca un nuovo <a>Nikko-Onna</a> senza bersagli e un <a>Kami of Ancient Law</a> per opporsi alla truppa del suo avversario. Sul leone 4/3 si immolano le due nuove creature di Andrea, che passa nel suo successivo turno e si vede recapitare fra capo e collo un nuovo assalto da Skyhunter equippato e doppia Blinkmoth. Il Leonin pompato dalla Jitte spedisce nel cimitero la leggenda di Andrea, che si ridirige addosso tutto il danno. Nuova pescata, situazione ampiamente compromessa e la partita finisce con la mano tesa del romano.</p>&#10;      <p>Dato 1-2 Berti</p>&#10;      <br>&#10;      <a name="8">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Saturday, July 23: 4:52 pm - Draft - Lo Moro</b>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <p>Raffaele Lo Moro e' uno dei giocatori italiani piu' conosciuti al mondo, con un piazzamento sul podio ai mondiali, numerose partecipazioni a Pro-Tour, con un top8, e diversi ottimi piazzamenti.<br> Dopo i primi tre turni di standard Raffaele si prepara al draft con 6 punti, frutto di due vittorie ed una sconfitta.</p>&#10;      <p>Il primo pick del draft sara' quello che condizionera' tutto l'andamento della creazione del mazzo.<br> Raffaele decide infatti di prendere <a>Kabuto Moth</a>, su <a>Konda, Lord of Eiganjo</a>, <a>Teller of Tales</a>, <a>Rend Flesh</a> e <a>Pain Kami</a>. Passando Hikari però manderà alla sua sinistra un segnale sbagliato, che gli tagliera' il bianco nel giro Betrayers.</p>&#10;      <p>Il secondo pick pone la scelta tra <a>Nezumi Cutthroat</a> e <a>Mothrider Samurai</a>, e viene preferito il ratto al cavaliere volante. Poche le scelte nel terzo pacchetto, dove un Kami of the Ancient Law la spunta su <a>Devouring Greed</a>, e nel quarto dove un inaspettato <a>Kitsune Blademaster</a> batte un <a>Nezumi Ronin</a>.<br> Seguono degni di nota <a>Cruel Deceiver</a>, Devouted Retainer e Otherworld Journey.</p>&#10;      <p>Nel secondo pacchetto Raffaele si trova a scegliere tra <a>Okiba-Gang Shinobi</a>, <a>Takenuma Bleeder</a> e <a>Ronin Warclub</a>, non avendo aperto carte bianche degne di nota. Viene scelto il ninja.</p>&#10;      <p>Stupore e meraviglia quando nel secondo pacchetto si manifestano assieme <a>Horobi's Whisper</a> ed <a>Eradicate</a>... Meglio giocare due o più volte una rimozione o sapere cosa c'è nel mazzo dell'avversario? Raffaele non e' curioso, ed opta per poter uccidere piu' volte i mostri dell'avversario.</p>&#10;      <p>Dal terzo giro in poi le scelte sono obbligate perché arrivano come draftabili solo 2 <a>Skullsnatcher</a>, <a>Ogre Marauder</a>, <a>Shuko</a>, Split Tail Miko, Hundred Talon Strike e <a>Bile Urchin</a></p>&#10;      <p>Raffaele spera nelle Saviors per migliorare il suo mazzo, ma rimarra' deluso: nessuna bomba e tanta frustrazione per un mazzo che alla fine si rivelera' mediocre. Questi i pick: Shinen of Stars'Light, 2 <a>Moonwing Moth</a>, 2 <a>Plow Through Reito</a>, <a>Kitsune Dawnblade</a> e 2 <a>Araba Mothrider</a>.</p>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Raffaele Lo Moro&#10;              </div>&#10;              <div>2005 Italian Nationals </div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090604004519/https://www.wizards.com/magic/samplehand.asp?x=mtgevent_itnat05_welcome&amp;decknum=7">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td colspan="3">&#10;                  <p>Main Deck</p>&#10;                  <p>40 cards&#10;                    </p>&#10;                </td>&#10;              </tr>&#10;              <tr>&#10;                <td>9 &#10;                      <a>Plains</a><br>8 &#10;                      <a>Swamp</a><br><hr>17 lands</td>&#10;                <td>1 &#10;                      <a>Cruel Deceiver</a><br>1 &#10;                      <a>Devoted Retainer</a><br>1 &#10;                      <a>Ghost-Lit Stalker</a><br>1 &#10;                      <a>Kabuto Moth</a><br>1 &#10;                      <a>Kami of Ancient Law</a><br>1 &#10;                      <a>Kitsune Blademaster</a><br>1 &#10;                      <a>Kitsune Dawnblade</a><br>1 &#10;                      <a>Kitsune Loreweaver</a><br>2 &#10;                      <a>Moonwing Moth</a><br>1 &#10;                      <a>Nezumi Cutthroat</a><br>1 &#10;                      <a>Ogre Marauder</a><br>1 &#10;                      <a>Okiba-Gang Shinobi</a><br>1 &#10;                      <a>Shinen of Stars' Light</a><br>2 &#10;                      <a>Skullsnatcher</a><br>1 &#10;                      <a>Split-Tail Miko</a><br><hr>17 creatures</td>&#10;                <td>1 &#10;                      <a>Horobi's Whisper</a><br>1 &#10;                      <a>Hundred-Talon Strike</a><br>1 &#10;                      <a>Otherworldly Journey</a><br>1 &#10;                      <a>Plow Through Reito</a><br>1 &#10;                      <a>Pull Under</a><br>1 &#10;                      <a>Shuko</a><br><hr>6 other spells</td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <a name="9">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Saturday, July 23: 5:18 pm - Draft Emanuele Canavesi</b>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <p>Tavolo 1 del primo draft di questi nazionali, ci sono due giocatori di una certa fama, e sono Emanuele Canadese, seatato al numero 7, ed Alessandro Selvaggi sotto di lui. Dal Seat 1 al 6 invece abbiamo Stefano Fiorini, Vittorio Sandri, Alessandro Tattoli, Alessandro Bellani, Valerio Bartolini e Paolo Agriman.</p>&#10;      <p>Il booster di Campioni offre poca scelta al milanese che picca <a>Nezumi Cutthroat</a> su <a>Honden of Cleansing Fire</a>, e venendo premiato della scelta di colore dai successivi pick di <a>Scuttling Death</a> (di secondo e terzo) e <a>Wicked Akuba</a>, tagliando così definitivamente il nero. Ma chi è sopra di lui decide di fargli un regalo enorme e un <a>Teller of Tales</a> salta fuori come quinta pick. Per il resto del giro, solo carte cosiddette &quot;filler&quot;, tra cui <a>Soulless Revival</a>, <a>Consuming Vortex</a> e un doppio Reach the Mist.</p>&#10;      <p>Dice male la prima pick di Traditori: in una busta veramente grama, Ghostly Wings come miglior carta, mentre un <b>Vetronibbio Scintillante</b> precede una busta in cui Emanuele picca <a>Horobi's Whisper</a> su <a>Skullsnatcher</a>, Ninja of Deep Hour e <a>Okiba-Gang Shinobi</a>. Dopo una pick off-color in una busta con il nulla cosmico dentro, <a>Jushi Apprentice</a> e <a>Three Tragedies</a> prima di una coppia di Ninja: <a>Okiba-Gang Shinobi</a> e <b>Shinobi Foscalama</b>, per finire il giro con i soliti filler e le solite pick off-color.</p>&#10;      <p>I Liberatori forniscono un set di buone pick al nostro Emanuele, ed arrivano in rapida sequenza <b>Zubera Scaglia Marea, Shinen delle Ali del Volo, Guardasegreti e Kami dei Sepolcri Violati</b>, prima di chiudere il giro con un po' di creature per ottimizzare la mana curve, ovvero due Sottoposti di Kuro, Nezumi Maschera di morte e Illusionista Arcodiluna. Emanuele è abbastanza soddisfatto del suo draft, e vedremo cosa riuscirà a combinare…</p>&#10;      <br>&#10;      <a name="10">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Saturday, July 23: 5:55 pm - Round 4 Feature Match: Giovanni Gesiot - Luca Chiera</b>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <p>Il Biellese Gesiot e il romano Chiera si incontrano sul 2-1, il primo ha draftato RG, mentre il secondo si è lanciato nella combinazione tra Blu e Rosso.</p>&#10;      <p>Luca vince il dado e prende un mulligan, che ha il primo drop a 3 con un River Kajin, mentre dall'altro lato del tavolo, Giovanni risponde con Baku Crinelama e <a>Matsu-Tribe Decoy</a>. La situazione è stallata a terra dall'arrivo di Ingannatore Brutale da parte romana e Ember Fist Zubera dall'avversario e nessuno dei due contendenti mette danni all'altro. Il primo volante, ovviamente, lo gioca Luca che droppa un Guarda Specchio Soratami e passa, giusto per vedersi recapitare tra capo e collo un Seshiro il Consacrato che intende dominare il board. Primo attacco del match e il Soratami infligge i primi tre danni al biellese, sul tavolo si posa poi un Ninja of the Deep Hour. L'Esca Serpente, potenziata da Seshiro attacca e costringe al blocco a tre Luca, che si vede fulminato da <a>Glacial Ray</a> il Ninja ed ucciso dal rettile l'Ingannatore: nonostante la discesa di Iizuka lo Spietato, dall'altra parte arriva il Kirin verde e il romano concede vista la manifesta inferiorità di forze in campo.</p>&#10;      <p>Gesiot 1-0 Chiera</p>&#10;      <p>Dopo un tentennamento da parte di Luca, i due tengono le rispettive mani e si parte. Un innocuo attacco di Luca e il Ninja of Deep Hour sfrutta il suo ninjutsu regalando una carta al suo proprietario, ma vedendosi subito bloccata l'iniziativa da un'Elite della Tribu Kashi, e un <a>Glacial Ray</a> si prende cura del Volgisguardo di Minamo che avrebbe reso il Ninja un grosso problema per Giovanni. Luca prende tempo, bloccando la solita Matsu Tribe Decoy con Libero dalla realtà. Di nuovo il Kirin Munifico, e secondo Libero dalla Realtà che lo prende in custodia…Vetronibbio Fulmineo per Luca che incanta con Ali Fantasma il Ninja lo fa attaccare indisturbato, pescando una carta in più e calando un secondo Ninja. Giovanni cala una <a>O-Naginata</a> ed equippa la Moltitudine Contorta calata qualche turno prima, per poi spingerla ad un attacco solitario, fermato dal Vetronibbio e dal Kami del Ruggito del Fuoco, unico sopravvissuto allo scontro. Arriva poi uno Spadamagia Sokenzan grazie alla pescata seguente il nuovo attacco &quot;libero&quot; del Ninja volante. Giovanni decide che è di nuovo il momento del Dottor Seshiro, e l'Elite, ora equippabile dalla Naginata, parte all'assalto e fa i suoi grassi sette danni. Luca decide per un attacco con lo Spadamagia ed il solito Ninja, e mentre il ladro volante fa ancora danno, l'Ogre panzone si schianta su un Baku Crinelama con sei segnalini che si trasformano in punti di forza dopo l'attivazione. Ancora l'Elite e ancora il Ninja proseguono la damage race, mentre un <a>Pain Kami</a> si unisce alle truppe difensive di Luca. Ma non c'è neanche il tempo di dire &quot;passo&quot;: la situazione è compromessa in modo ormai irreversibile, e dal basso dei suoi 5 punti vita, il romano concede.</p>&#10;      <p>Gesiot 2-0 Chiera</p>&#10;      <br>&#10;      <a name="6">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Saturday, July 23: 6:00 pm - Mario Pascoli vs. Simone Zulian</b>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <p>Il campione italiano Mario Pascoli affronta al terzo turno il trentino Zulian. Pascoli ha scelto per la porzione standard dei nazionali il mono blu urzatron, Simone gioca un originale rosso-verde con Kiki-Jiki.</p>&#10;      <h3>Partita1</h3>&#10;      <p>Zulian vince il tiro di dado e parte con foresta, <a>Birds of Paradise</a>. Pascoli risponde con la terra leggendaria Oboro e <a>Sensei's Divining Top</a>.</p>&#10;      <p>La prima minaccia della partita e' un <a>Solemn Simulacrum</a> di Simone calato al terzo turno, Mario continua a guardare il mazzo con la cappa, mettendo in gioco diverse terre di urza.</p>&#10;      <p>Zulian prova un <a>Plow Under</a> per rallentare il campione italiano uscente, ma la magia verde viene vanificata da un <a>Mana Leak</a>.</p>&#10;      <p>Il turno successivo Pascoli si tappa per un <a>Concentrate</a>,e Zulian non perde l'occasione per il secondo <a>Plow Under</a>, calando anche un Sakura Tribe Elder.</p>&#10;      <p>Il turno successivo con Mario tutto stappato, Zulian prova la mossa che potrebbe dare una svolta alla partita, calando <a>Kiki-Jiki, Mirror Breaker</a>, che passa. Il simulacro e la sua copia attaccano Mario, che gioca un Thirst of Knowledge per trovare un qualche tipo di risposta.</p>&#10;      <p>E' tutto inutile… Kiki-Jiki continua a copiare i simulacri, e nonostante alcuni <a>Echoing Truth</a> per rallentare la perdita di punti vita, Zulian trova il terzo <a>Plow Under</a> e si assicura la prima partita.</p>&#10;      <h3>Partita2</h3>&#10;      <p>Mario decide di partire e cala la semprescendodiprimoturno Sensei's Divingn Top. Zulian accelera la presenza di terre sul board con Sakura Tribe Elder e <a>Birds of Paradise</a>, provando un <a>Sowing Salt</a> sull'<a>Urza's Tower</a> di Pascoli, che viene pero' annullato da un <a>Mana Leak</a> in collaborazione con un Condescence da uno.</p>&#10;      <p>Mario si tappa out per un <a>Concentrate</a> e Zulian approfitta per riprendersi lo spaccaterre dal cimitero con una <a>Eternal Witness</a> e giocandolo di nuovo sulla torre che questa volta abbandona il mazzo in tutte le sue 4 copie.</p>&#10;      <p>Inizia di nuovo il beatdown di creturine del trentino che aggiunge alla Witness, un <a>Wood Elves</a> e prova un <a>Plow Under</a>, che viene neutralizzato con un <a>Mana Leak</a>.</p>&#10;      <p>A sei mana Mario si tappa tutto per un <a>Mindslaver</a>, e al turno successivo per un <a>Triskelion</a>. I piccoli mostrilli vanno comunque alla carica del simpatico perdipezi artefattoso, che dispensa counterini a destra e manca, scacciando le fastidiose creature 1 in costituzione.</p>&#10;      <p>Due mindlsaver dopo la partita termina con due <a>Triskelion</a> che portano alla vittoria Pascoli e il match sull'uno pari.</p>&#10;      <h3>Partita3</h3>&#10;      <p>Nel match decisivo Zulian sceglie di iniziare, calando una montagna. Pascoli risponde con <a>Urza's Tower</a>, <a>Chrome Mox</a> e la sempre presente <a>Sensei's Divining Top</a>, che viene pero' inibita dal <a>Pithing Needle</a>.del trentino. La partita non offre grandi emozioni con Simone che mette in gioco terre su terre grazie a <a>Kodama's Reach</a>, e Mario che si limita a calare lande, a neutralizzare un <a>Plow Under</a> con un Condiscende e a lanciare Thirst of Knowledge alla fine del turno dell'avversario in cerca dell' <a>Urza's Mine</a> che gli farebbe chiudere l'Urzatron.</p>&#10;      <p>Quando Mario si tappa out per un <a>Concentrate</a>, Zulian topdecca il secondo <a>Plow Under</a> e rompe il mox con una <a>Viridian Shaman</a>. Questa mossa pero' sembra non avere nessun impatto sulla partita poichè Mario trova finalmente la miniera mancante per giocare i suoi costosi artefatti. Per primo un <a>Mindslaver</a>, che rende innocuo un <a>Rude Awakening</a> e trasforma un ago in una arma contro Kiki-Jiki. Poi inizia un lock di <a>Arcbound Reclaimer</a> e <a>Mindslaver</a> e Pascoli gioca turni per se e per il suo avversario. Ma non c'e' nulla da fare. Mario non trova soluzioni per vincere la partita, che termina poco dopo in parità.</p>&#10;      <p>&#10;        <b>Zulian 1 - Pascoli 1</b>&#10;      </p>&#10;      <br>&#10;      <a name="11">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Saturday, July 23: 6:38 pm - Curina Ottai Feature Match 4</b>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <p>Domingo Ottati è una delle forze emergenti del mondo di magic italiano, vincitore del GP Rimini. Ivan Curina, per chi non lo conoscesse, è uno dei monumenti della storia italiana di magic, primo campione nazionale nel 1995.</p>&#10;      <p>Ottati ha costruito un rosso nero molto veloce, con qualche rimozione e danni diretti. Curina, in nome della vecchia scuola, un bianco blu di controllo, con carte dalla forza incontrastabile con <a>Umezawa's Jitte</a> e Cloudhoff Kirin.</p>&#10;      <h3>1Partita</h3>&#10;      <p>Ottati vince il sorteggio, decide di iniziare, ma non e' soddisfatto delle prime sette carte ed opta per un mulligan. La seconda mano e' migliore: con uno <a>Psychic Spear</a> si libera di un kami nelle mani di Curina e poi parte all'attacco con un <a>Raving Oni-Slave</a>.</p>&#10;      <p>Ivan e' ben presto alle corde: le sue creature sono rimosse dagli spari di Domingo (Spiraling Ember, <a>Barrel Down Sokenzan</a>) e le successive servono per chumpbloccare l'Ogre 3/3. Le vite di Ivan scendono rapidamente sotto i colpi dell'Ogre, che porta rapidamente alla vittoria Ottati.</p>&#10;      <h3>2Partita</h3>&#10;      <p>Ivan decide di iniziare ma per ben due volte rimanda indietro la mano iniziale. Domingo parte veloce con un Akki Avalancer, il solito Raving Oni Slave e Genjiu of the Spires. Ivan bloccato a due terre cala <a>Umezawa's Jitte</a>, ma non ha tempo di equipaggiare le sue creature, perche' deve bloccare per non morire. Dopo due blocchi disperati la partita termina in favore di Ottati.</p>&#10;      <p>Ottati 2 - Curina 0</p>&#10;      <br>&#10;      <a name="12">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Saturday, July 23: 7:10 pm - Round 5: Di Tommaso Fiori</b>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <p>Matteo Di Tommaso è stato campione italiano nel 2001. Stefano ha fatto top8 'per caso' - cosi almeno lui afferma- nel pro tour di blocco di Kobe del 2004.</p>&#10;      <p>Partita1</p>&#10;      <p>Di Tommaso vince il sorteggio e decide di iniziare. Entrambi tengono la mano iniziale. Matteo mette subito pressione con un <a>Akki Underling</a>, che viene tradato con un <a>Kuro's Taken</a> e mette in gioco uno Shinen of Fury's <a>Roar</a> come nuova minaccia. Fiori stabilizza il board con un <a>Call</a>ous Decevier ed inizia a calare volanti , che in pochi turni, grazie anche al color screw dell'ex campione italiano (solo terre rosse, in un mazzo rosso-nero), lo portano alla vittoria nel primo game.</p>&#10;      <p>Partita2</p>&#10;      <p>Matteo cala nei primi due turni entrambi i colori… almeno questa partita potrà giocare tutte le sue carte!!!! Stefano dal canto suo non e' da meno calando un'isola, una pianura e una palude, un <a>Takenuma Bleeder</a>, un <a>Manriki-Gusari</a> e un <a>Araba Mothrider</a>. Matteo ha dalla sua due Kami of Fire <a>Roar</a>, e accetta una race, di danni anche quando Luigi cala un Inferna Kirin. Il 'mio mini pony nero' equipaggiato vola libero nell'aria infliggendo danni a Matteo, che non ha soluzioni in mano, e non riesce a trovarne nemmeno nei due turni di pescata che gli rimangono.</p>&#10;      <p>Fiori a cavallo del suo mostro nero vince anche il secondo game e si porta sul 4-1.</p>&#10;      <p>Di Tommaso 0 - Fiori 2</p>&#10;      <br>&#10;      <a name="13">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Saturday, July 23: 8:06 pm - Round 5 Feature Match: Matteo Cirigliano - Dario Minieri</b>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <p>Matteo vince il dado e prende un mulligan, Dario tiene la mano a sette carte. Primo drop a tre per entrambi ed un Bandito Scaltro fronteggia una Moltitudine Contorta, ma nessuno dei due fa niente al quarto e nella end step di Dario, Scrutare nelle Profondità fornisce un Sussurro Infernale a Matteo. Dario uccide il Bandito con Esilio nelle Tenebre e attacca con la Moltitudine, e per quattro turni di fila lo spirito 3/3 è l'unica creatura sul board, portando i punti vita di Matteo fino a 8. Dario prova un Kami della Caccia, ma Intelletto Superiore gli nega l'ingresso in campo e fornisce tre carte a Matteo, che droppa nel suo turno un <a>Jade Idol</a> e passa la mano. L'idolo prova a fermare la corsa della Moltitudine, animandosi grazie ad un Setacciare le Sabbie, ma prima della dichiarazione dei bloccanti, Dario la termina con Rend the Spirit e porta a 5 i punti vita del suo avversario: In netto vantaggio ora di carte in mano, il piemontese fa scendere un Frostlind ed un <a>Teller of Tales</a>, che però viene abbattuto senza tanti complimenti dal Branco Nauseante del romano, mentre l'Esilio nelle Tenebre libera lo spirito di Dario dalla presenza del Gelifero, e il nuovo attacco parte di conseguenza: un Sokenzan Spinato di immane violenza (4 montagne tornano in mano a Matteo) lo spazza via, e Dario reagisce calando Kiku, Fiore della Notte. Per nulla intimidito dalla nera presenza della Leggenda, Matteo spara un <a>Spiraling Embers</a> da 8 danni diretto al suo avversario, per poi uccidere Kiku nel suo turno successivo con Prima Salva. <a>Takenuma Bleeder</a> per Dario e Sakashima l'Impostore per Matteo, brasato da <a>Eradicate</a> senza troppi patemi dal romano, che scopre la presenza di Collera di Kaminari nella mano di Matteo…11 punti vita e 9 arcani nel cimitero gli suggeriscono di NON attaccare col Bleeder, di droppare una Primifera della Tribù-Sakura e cedere il turno. Matteo pesca e passa, Dario attacca con la Primifera e gioca <a>Kodama's Might</a>: Matteo, costretto a sparare su di lei, ammette di non aver più modi di vincere e concede.</p>&#10;      <p>Cirigliano 0-1 Minieri</p>&#10;      <p>Il secondo match parte in sordina con solo un Abitatore dell'Argilla e la solita Primifera nei primi quattro turni da una parte ed un paio di peschini dall'altra. Il <a>Teller of Tales</a> fa la sua insolente entrata in scena al turno 5, ma solo per vedersi ammazzare dal Rend the Spirit di Dario che attacca nuovamente porta a 12 il suo avversario. Guardia Notturna Okina per Dario che sembra voler chiudere la pratica il prima possibile, e Matteo (che all'ottavo turno non ha ancora saltato un Land Drop) passa con sette carte in mano, per bruciare la Guardia con Sokenzan Spinato e prendere i soliti due danni dall'Abitatore dell'Argilla più intraprendente che si sia mai visto. Sopravvissuto allo <a>Spiraling Embers</a> che si porta via la Primifera, l'abitatore porta a 4 Matteo, che deve ora fronteggiare la minaccia anche di un <a>Kami of the Hunt</a>. Dopo qualche turno di tentativi di resistenza con tappini, spari e peschini vari, Matteo mette giù Anima del Magma e Kami del Ruggito di fuoco per fronteggiare l'ormai leggendario Abitatore dell'Argilla e un Ranger Orochi, che fa una brutta fine per l'effetto dell'Anima, e quando un Arcano + Frostlind uccidono l'Abitatore, la strada è spianata per i due spiriti di Matteo che riesce finalmente ad intaccare i punti vita del suo avversario. L'Anima del Magma muore sotto uno Shoal nero, ma il Kami continua imperterrito la riscossa di Matteo che porta a 8 il suo avversario (8-2 di punti vita), ed un <a>Takenuma Bleeder</a> viene neutralizzato da Intelletto Superiore, lasciando via libera a Kami del Ginepraio Spinato per scendere in campo. Dall'altra parte spunta nuovamente Sakashima che copia lo Spirito di Dario e il Kami del Ruggito di Fuoco attacca di nuovo, imbloccato. <a>Kagemaro's Clutch</a> su di lui il turno dopo, ma la Prima Salva di Matteo rende imbloccabili entrambe le sue creature, e l'arrampicata sugli specchi del mese si conclude con la vittoria &quot;in contropiede&quot; del piemontese.</p>&#10;      <p>Cirigliano 1-1 Minieri</p>&#10;      <p>Gelifero + Gohei dimenticato portano Dario a 17 nell'Early Game, poi il <a>Takenuma Bleeder</a> e la Primifera del Romano si vedono la strada spianata da <a>Kagemaro's Clutch</a> per due turni e poi a loro si unisce la Guardia Notturna di Okina, con Matteo in discesa vertiginosa di punti vita (14-7 per il romano). Il Sokenzan fredda i monaci di Dario, e lo Split di tappino ferma il nuovo attacco del Bleeder, e nel turno dopo invece il solito split su Trappola di Giorno e Notte vanifica la fase d'attacco del romano. Il turno successivo attacco decisivo di Dario con la Primifera e il Ranger Orochi, Matteo va a 1, pesca e concede.</p>&#10;      <p>Cirigliano 1-2 Minieri</p>&#10;      <br>&#10;      <a name="14">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Saturday, July 23: 9:09 pm - Round 6: Pascoli Panara</b>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <p>Mario Pascoli, campione italiano uscente al sesto ed ultimo turno del primo giorno dei nazionali di magic 2005 sul 5 Vinte e una patta trova sulla sua strada Bruno Panara, nelle posizioni alti della classifica con 4 vinte e una persa.</p>&#10;      <p>Mario e Bruno si conoscono bene, entrambi di Roma, entrambi giocano nello stesso negozio, il Galactus (Baffo paga la pubblicità), entrambi hanno draftato assieme in preparazione dei nazionali.</p>&#10;      <h3>Partita1</h3>&#10;      <p>Quel fortunato ragazzotto di borgata che corrisponde al nome di Bruno 'Milo' Panara vince il sorteggio e decide di partire. Al secondo turno scende la prima creatura per Panara, un Matsu Tribe Sniper, seguito a ruota da una <a>Gnarled Mass</a> e un Heart Kami. Mario controbatte con un <a>Akki Underling</a> (sodomizer per gli amici - stando al campione italiano - ) e uno Shinen of Stars'Light. </p>&#10;      <p>La race e' aperta. Nonostante Bruno abbia piu' creature per terra, Mario si tiene a sette carte, rendendo il suo goblin 4/2 attacco improvviso, rapidità. Sul 4 a 4 di punti vita, Bruno trova un <a>Torrent of Stone</a> per liberarsi del blocco di Mario, <a>Eiganjo Free-Riders</a>, ed infliggere i danni decisivi per assicurarsi la prima partita.</p>&#10;      <h3>Partita2</h3>&#10;      <p>Mario decide di far partire Bruno, che apre subito con un Child of Thorn. Il sempre presente <a>Akki Underling</a>, primo drop di Pascoli, saluta il board grazie ad un <a>First Volley</a>, ma Bruno non riesce ad aggiungere nulla al simpatico pupo di radici. Mario ne approfitta per callare un <a>Tallowisp</a>, equipaggiato con uno <a>Shuko</a>, ed un Kami of Fire <a>Roar</a>.</p>&#10;      <p>Alla quinta terra pero'si manifesta un serio problema per Pascoli. Panara gioca la sua bomba, <a>Kumano, Master Yamabushi</a>. Per fronteggiare il maestro delle fiamme, Mario crea un simpatico mostro composto da Ronin Hound Master, equipaggiato con <a>Shuko</a>, ed incantato con <a>Indomitable Will</a>, che attacca senza paura. La race è partita per la seconda partita consecutiva.</p>&#10;      <p>Da un lato Kumano, <a>Okina Nightwatch</a>, Matsu Tribe Sniper, Child of Thorn e Blademan Baku per Panara, dall'altro <a>Ronin Houndmaster</a>, Hand of Honour, Kami of Fire <a>Roar</a> e <a>Tallowisp</a> per Pascoli. Bruno attacca con la sola Nightwatch, tenendosi i mana open per sparare con Kumano e Mario immola il <a>Tallowisp</a> e lo sostituisce con un <a>Ember-Fist Zubera</a>. Bruno spara a 3 danni a fine turno, portando Mario a 5. Purtroppo per il campione italiano in carica alla pescata non si presenta né la soluzione a Kumano, né una carta per vincere la partita ed quindi concede.</p>&#10;      <p>Pascoli 0 - Panara 2</p>&#10;      <br>&#10;      <a name="15">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Saturday, July 23: 9:19 pm - Round 6 Feature Match: Raffaele Lo Moro - Stefano Fiori</b>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <p>Ultimo turno di giornata e sul 4-1 troviamo la sfida tra il romano Lo Moro e il milanese Fiori. Lo Moro ha draftato BW molto aggro, Fiori WBu…eh, già…Feature e Mirror Match per loro…</p>&#10;      <p>Raffaele vince il coin toss e parte, <a>Skullsnatcher</a> di secondo turno e niente di terzo, mentre Stefano si limita a giocare tre terre e prevenire il danno dello Shinobi della Banda Okina (ninjutsato al quarto) di Raffaele per un turno. L'offensiva del romano però è irresistibile: i ninja ratti fanno scartare 4 carte al suo avversario e spalleggiati da un <a>Ogre Marauder</a> fanno crollare i punti vita di Stefano. Dopo un turno, ed il nuovo drop di <a>Skullsnatcher</a>, la situazione di board si è fatta insostenibile: il milanese realizza che la partita è virtualmente finita e si va alla seconda.</p>&#10;      <p>Lo Moro 1-0 Fiori</p>&#10;      <p>Altare Baku di secondo e Incubo ad Occhi Aperti di terzo per Stefano che dà un chiaro segnale di voler vender cara la pelle: Raffaele è costretto a scartare un Cavalcafalene di Araba e uno Shinen della Luce di Stelle, mentre di l fa la sua apparizione un Kirin Infernale per tenere a bada le altre due falene calate dal romano. Stefano finisce di distruggere la mano al suo avversario con un Affondare Takenuma. Raffaele pesca e gioca la seconda Falena Aladiluna, Stefano gioca invece un <a>Manriki-Gusari</a> ed equipaggia il suo panzone nero, prima di far scendere una <a>Scuttling Death</a> e farla attaccare ben equipaggiata da Manriki-gusari nei due turni successivi. Raffaele pensa a lungo prima di bloccare con Cvalcafalene e una Aladiluna (scusate il gioco di parole), quest'ultima lascia il board assime al Miko Coda Divisa che stava prevenendo qua e là. Ancora sofferenza per il romano nel turno successivo, che vede l'assalto del Nezumi Deathmask equippato e del Kirin che abbatte le due falene assegnate a bloccarlo, con l'aiuto di un Mani Curatrici che lo fanno sopravvivere allo scontro. Situazione compromessa ormai per Raffaele, che dopo un turno di &quot;remata&quot; pesca e concede.</p>&#10;      <p>Lo Moro 1-1 Fiori</p>&#10;      <p>Stefano &quot;Non ce la faccio più dal sonno ormai&quot;<br> Pk &quot;Mi sa che ti vuol prendere per sfinimento….gioco io al tuo posto?&quot;<br> Stefano &quot;Mi sa che è meglio&quot;<br> Pk &quot;Mi sa invece che tu non mi hai mai visto giocare allora….lascia perdere…&quot;</p>&#10;      <p>Raffaele inizia dopo un mulligan di Stefano, e apparecchia con doppia Falena Aladiluna e <a>Shuko</a>, ed apre le ostilità, incurante delle botte a terra del Nezumi Deathmask. Dall'altra parte arrivano <a>Manriki-Gusari</a>, Kami Farfugliante e Ronin Maledetto, e successivamente uno Shinen delle Ali del Volo che rende delicata la situazione per il romano. Il Ronin equippato dal <a>Manriki-Gusari</a> parte all'attacco e un Vetronibbio Scintillante si aggiunge alle truppe del milanese. Raffaele, in manaflood pesantissimo, si vede calare ancora una <a>Scuttling Death</a>: decisamente troppo per la sua nuova pescata di terra, ammucchiate le carte tende la mano al suo avversario e le ostilità vengono chiuse.</p>&#10;      <p>Lo Moro 1-2 Fiori</p>&#10;      <p>&#10;        <a name="17">&#10;          &#10;        </a>&#10;        </p><li>&#10;          <b>Sunday, July 24: 9:45 am - Draft Mario Pascoli</b>&#10;        </li>&#10;      <p></p>&#10;      <p>Il secondo giorno dei Nazionali italiani inizia puntuale alle 9:00 con il secondo ed ultimo draft del torneo. Abbiamo seguito il draft del tavolo 3, dove erano impegnati giocatori del calibro di Pascoli, Lo Moro, Fiore, Alvisi e Ghini, ed in particolare, pick per pick, il draft di Mario Pascoli.</p>&#10;      <p>Il primo pacchetto presenta una vasta gamma di scelte per il campione italiano uscente: Soratami Mirror Guard, Strength of Cedars, Frostwielder e Order of the Sacred Bell. Mario opta per il 3/1 volante. Il secondo pick è una mera formalità, perché si presenta nel pacchetto Rend Spirit (anche se il nero al tavolo verrà draftato da 7 giocatori su 8). Seguono, nell'ordine: Nezumi Cutthroat, 2 Kami of the Waning Moon, Villainous Ogre, Scuttling Death e un late pick Zubera blu.</p>&#10;      <p>Se il primo pacchetto di Champions aveva messo in difficoltà Mario, il secondo di Betrayers è veramente un rompicapo: Kira, Great Glass-Spinner, Ninja of the Deep Hour, Okiba-gang Shinobi, Horobi's Whisper e Mistblade Shinobi. Mario opta per il ninja 3/2 che fa scartare. Poi come rimarcato, visto i molti che vanno nero al tavolo e la mancanza di carte blu, Pascoli deve fare dei counterdraft: al 2° Torrent of Stone (che giocherà) e al 3° pacchetto (Matsu-tribe Sniper). Poi nei pacchetti successivi giungono 3 Mistblade Shinobi e <a>Call</a>ow Jushi e nient'altro.</p>&#10;      <p>La sfortuna avuta nel secondo pacchetto, svanisce con le Saviors. Soramaro, First to Dream è una buona first pick, seguito a ruota da Kuon, Ogre Ascendano, Kiri Onna, Oboro Envoy, Shinen of <a>Flight</a>'s Wings, Raving Oni-Slave, Freed from Real e Shape Stealer.</p>&#10;      <p>Questo il mazzo giocato:</p>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                 Mario Pascoli &#10;              </div>&#10;              <div></div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090604004519/https://www.wizards.com/magic/samplehand.asp?x=mtgevent_itnat05_welcome&amp;decknum=8">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td colspan="3">&#10;                  <p>Main Deck</p>&#10;                  <p>39 cards&#10;                    </p>&#10;                </td>&#10;              </tr>&#10;              <tr>&#10;                <td>8 &#10;                      <a>Island</a><br>2 &#10;                      <a>Mountain</a><br>7 &#10;                      <a>Swamp</a><br><hr>17 lands</td>&#10;                <td>1 &#10;                      <a>Callow Jushi</a><br>1 &#10;                      <a>Dreamcatcher</a><br>2 &#10;                      <a>Kami of the Waning Moon</a><br>1 &#10;                      <a>Kiri-Onna</a><br>3 &#10;                      <a>Mistblade Shinobi</a><br>1 &#10;                      <a>Nezumi Cutthroat</a><br>1 &#10;                      <a>Oboro Envoy</a><br>1 &#10;                      <a>Okiba-Gang Shinobi</a><br>1 &#10;                      <a>Raving Oni-Slave</a><br>1 &#10;                      <a>Rushing-Tide Zubera</a><br>1 &#10;                      <a>Scuttling Death</a><br>1 &#10;                      <a>Shape Stealer</a><br>1 &#10;                      <a>Shinen of Flight's Wings</a><br>1 &#10;                      <a>Soramaro, First to Dream</a><br>1 &#10;                      <a>Soratami Mirror-Guard</a><br>1 &#10;                      <a>Villainous Ogre</a><br><hr>19 creatures</td>&#10;                <td>1 &#10;                      <a>Freed from the Real</a><br>1 &#10;                      <a>Rend Spirit</a><br>1 &#10;                      <a>Torrent of Stone</a><br><hr>3 other spells</td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <p>&#10;        <a name="18">&#10;          &#10;        </a>&#10;        </p><li>&#10;          <b>Sunday, July 24: 9:56 am - Draft 2: Alessandro Selvaggi</b>&#10;        </li>&#10;      <p></p>&#10;      <p>Tavolo numero 1 di questo secondo ed ultimo draft dei Nazionali 2005, si siedono dall'1 all'8: Emanuele Canavesi, Francesco Berti, Valerio Bartolini, Alessandro Selvaggi, Andrea Peloso, Paolo Agriman, Bruno Panara e Andrea Cerasari. Un buon pod, decisamente, nel quale mi appresto a seguire il catanese Selvaggi. </p>&#10;      <img src="https://i.ormos.uk/25/2e/252ec6ee7b7903dc5c7c5b8921220fc821d7602f385eada7cb1593e536e0344b.jpg">&#10;      <p>La prima busta di Campioni premia il giocatore in modo persino esagerato, e in una moltitudine di carte forti, quando le fauci di Yosei, the Morning Star fanno capolino, il nostro non ci pensa nemmeno un secondo e lo picka in modo deciso. Dopo aver preso due carte rosse (Scuotiterra e Kami del Ruggito del Fuoco), Alessandro realizza che il colore viene tagliato sopra di lui e decide di passare al verde, con Orochi Sustainer di quarto e sesto, intervallati da un Burr Grafter preferito a Lantern Kami. Arrivano poi i classici &quot;filler&quot; come Ingannatore Impietoso, Seguace Devoto e, di ritorno dalla bustina da lui aperta un Samurai della Pallida Luna, giusto per gradire, prima delle solite pick off color.</p>&#10;      <p>Anche la seconda busta conferma la &quot;bravura&quot; di sbustatore del siciliano, e Isao Bushi Illuminato va ad aggiungersi al suo mucchietto di carte. Abitatore dell'Argilla è la seconda pick e Baku Crinecera la terza, mentre via via arrivano Ramingo Illuminato, Ruggito di Jukai, Discepolo Budoka e Kami della Falsa Speranza prima di pick di riempimento (doppio Kami Radicetranello) e off-color pressoché inutili.</p>&#10;      <p>Nuova sbustata pregiata per Alessandro nel giro Liberatori: Kami del Giardino Gentile va a rinforzare la curva a 4 mana, mentre Jukai Elder Pine, Guardia Notturna di Okina e Carica di Capricorni (secondo, terzo e sesto pick) promettono deck manipulation e mostri da beatdown efficienti e difficilmente contenibili. Chiudono il giro di pick utilizzabili Haru-Onna, Liane Dirompenti (quarto e quinto) e un doppio Intimidito dalla Saggezza. </p>&#10;      <p>&#10;        <a name="19">&#10;          &#10;        </a>&#10;        </p><li>&#10;          <b>Sunday, July 24: 10:47 am - Round 7 Feature Match: Cavaglieri Vs. Sbrozzi</b>&#10;        </li>&#10;      <p></p>&#10;      <p>William Cavaglieri è un giocatore di Brescia che da anni imperversa sulla scena nazionale ed internazionale di Magic, con numerose partecipazioni ai Pro Tour e un terzo posto al GP Milano del 1999.<br> Luigi Sbrozzi di Milano è venuto alla ribalta per il quinto posto al Pro Tour Kobe di blocco <i>Mirrodin</i>, che gli è valso anche il quinto posto nella classifica mondiale Rookie of the Year.</p>&#10;      <p>&#10;        </p><h3>Prima Partita</h3> William vince il tiro di dado e decide di iniziare e cala al secondo turno Akki Underling e Ronin Houndmaster, attaccando di 4 al terzo turno. Luigi incassa, cala la terza terra e mette davanti alle creature rosse un River Kaijin. Cavaglieri manda comunque l'Houndmaster contro lo spirito, che però non blocca e cala un Initiate of Blood. Sbrozzi cala un altro ciccione per continuare a settare la sua difesa nella forma di un Secreetkeeper (che diventa 4/4 volante per il maggior numero di carte). Ma il bresciano non si dà per vinto: trova un No-Dachi, lo mette sull'Houndmaster, rendendolo così virtualmente imbloccabile (5/3 first strike???!!!). Luigi cala un Kuro's Taken, che si immola sul creaturone per un turno, poi attacca col Secretkeeper, che si trasforma in un Throatslitter e l'iniziato che si è appena flippato. William non sembra per niente preoccupato, attacca ancora con la sua creatura First Strike, e cala Ryusei, the Falling Star, che assieme all'allegra combriccola già in gioco, porta a casa il primo game per il bresciano. Luigi non ha mai pescato la sesta terra per calare Kokusho, the Evening Star, che avrebbe generato un epico scontro tra draghi.<p></p>&#10;      <p>&#10;        </p><h3>Seconda Partita</h3> Questa volta è Sbrozzi a partire, e William dopo aver pensato un bel po', decide di tenere. I primi danni sono portati da uno Shinen of Fury's Fire di William. Luigi al quarto turno cala l'immancabile Secretkeeper, che però rimane 2/2 per la parita di carte tra i giocatori. Pochi trade dopo appare per un turno Kokusho per Sbrozzi, che però viene ucciso da uno Spiraling Ember. Per nulla atterrito il milanese cala un Patron of the Nezumi. William a 7 punti vita tenta una difesa estrema calando Ryusei, che però viene tappato grazie ad un Freed from the Real. Con Blood Rites in gioco, il bresciano deve sacrificare Ryusei per non morire azzerando le carte presenti sul board. Sbrozzi non fa una piega, e con un Soulless Revival riprende Kokusho e porta la partita sull'uno a uno.<p></p>&#10;      <p>&#10;        </p><h3>Terza Partita</h3>&#10;        <br> William inizia la partita, tiene la mano e al secondo turno cala il solito Akki Underling, che entra per due danni. Luigi risponde al terzo turno con un 2/1 volante che attacca e si trasforma in un Okina-gang Shinobi. William scarta due carte (Path of Anger's Flame e Initiate of Blood) e contrattacca con un Ogre Recluse, calato il turno precedente, il solito goblinetto a cui aggiunge un Soul of Magma. La situazione sembra disperata per Sbrozzi, che a 7 punti vita deve difendersi: lancia un Rend Spirit con cui toglie il Soul of Magma, tappando l'Ogre e subisce due dall'Underling; il turno successivo con il il Secreetkeeper divenuto 4/4 blocca l'Ogre e il 2/1 volante si scambia con il goblin. La partita reinizia da zero: William cala un Goblin Cohort e un Kami of Fire <a>Roar</a>,e un Blood Rites, Luigi un Wicked Akuba, un <a>Call</a>ous Deceiver e un Patron of Nezumi e Kokusho! William deve solo riuscire a chumpbloccare e sparare le creature a Luigi (5 Punti Vita) che bloccano evitando di perdere i suoi preziosi 11 punti vita. E' il turno decisivo: Sbrozzi pensa a lungo e poi tappa con Freed from the Real lo Shinen of Fury's Fire e manda nella Red Zone Kokusho e Patron of the Nezumi. William blocca spara le due creature a Luigi, mandandolo a 1. La speranza è quella di pescare una creatura qualsiasi da sacrificare a Blood Rites per infliggere i due danni decisivi, ma purtroppo per lui, in un mazzo con quasi solo creature pesca un quanto mai inutile Path of Anger's Flame.<p></p>&#10;      <p>Cavaglieri 1 – Sbrozzi 2</p>&#10;      <p>&#10;        <a name="20">&#10;          &#10;        </a>&#10;        </p><li>&#10;          <b>Sunday, July 24: 10:55 pm - Round 7 Feature Match: Emanuele Canavesi Vs. Francesco Berti</b>&#10;        </li>&#10;      <p></p>&#10;      <p>I due giocatori cominciano a sfoggiare grandi prove di... tecnica del pianto molto prima dell'inizio del match... Emanuele ha draftato WBu sopra a Francesco che è andato RG.</p>&#10;      <p>Francesco vince il tiro di dado e parte con Montagna e Coorte di Goblin per poi non giocare nulla nel secondo ma un Mastrotrivella Akki nel terzo. Emanuele risponde con Tessitradizioni Kitsune e Cruel Deceiver. Attacco del Mastrotrivella che con una Serpent Skin, uccide il Deceiver preposto alla difesa del suo avversario, ma Emanuele mette un Samurai Vincolato che dà l'idea di essere più difficile da abbattere. Drop di Moltitudine Contorta e nuovo attacco di Francesco, che con un Kodama's Might spedisce nel cimitero il samurai che tentava di accoppargli il Goblin, ma nel turno successivo ritorna con Risvegliare il Sepolcro e placa il beatdown del fiorentino con la sua presenza intimidatoria per un paio di turni. Emanuele aggiunge alle sue truppe una Okiba-Gang Shinobi, giocandola senza sfruttarne il fattore sorpresa del ninjutsu, mentre Francesco è alle prese con la decisione di ripartire con gli attacchi a tappeto o meno: opta per la non belligeranza e un Eremita Ogre va ad accrescere il suo potenziale offensivo... o almeno era nelle sue intenzioni perché un'Ombra di Kiku decide che per il bestione la partita deve finire qui. Serie di &quot;Draw'n'go&quot; tra i due, stallati dalle rispettive situazioni di board, che non vedono prevalere nessuno...</p>&#10;      <p>Francesco &quot;Che emozioni, eh?&quot;<br> Emanuele &quot;Già...&quot;<br> PK &quot;Che noia che siete....&quot;</p>&#10;      <p>Emanuele trova finalmente un modo per forzare i danni, ed un Nezumi Cutthroat scende sul tavolo...o meglio, sarebbe un ottimo modo per forzare la race se un Frostlind da parte di Francesco non fosse di parere contrario e non si immolasse sul topastro ri-bloccando la partita per un turno. Altro giro, altro tentativo di sblocco per Emanuele che abbatte il Mastrotrivella con Kagemaro's Clutch e attacca col Samurai per due danni, per poi vederselo ucciso da un Sokenzan Spinato immediatamente. Rend the Spirit sulla Moltitudine in End Step, ed il milanese può stappare ed offendere con il Kitsuni, per poi giocare Baku Crineteschio e passare. Lo Shinen della Furia del Fuoco riapre la damage race dall'altra parte, quando il Baku viene bruciato da Spiraling Embers, prima che un Kami del Suolo Notturno faccia la sua entrata da dominatore del board...</p>&#10;      <p>PK &quot;Cos'è quel mostro senza senso?&quot;<br> Emanuele &quot;Un mostro senza senso, appunto...&quot;</p>&#10;      <p>Emanuele prova a controllare le sorti del match con Kami Cento Grinfie, che stalla nuovamente la situazione a terra, e uno Shuriken dopo equippa la gang degli Shinobi e promette bene. Il Kami volante attacca, mentre dalla sponda toscana del tavolo regna l'indecisione sull'attaccare o meno, e poi il Kami panzone parte all'assalto, accompagnato dallo Shinen. Il 2/1 si schianta sul Kitsune, mentre Telo di Luce ferma il suo più grosso collega, regalando un turno di respiro ed una carta in più ad Emanuele. E' il momento dello Shuriken che affonda la Coorte di Goblin: strada spianata per Gang e Kami che attaccano e costringono Francesco alla resa dopo un pescata fiacca.</p>&#10;      <p>Canavesi 1-0 Berti </p>&#10;      <p>Di nuovo inizio con terra e Coorte per Francesco, che due turni dopo droppa Shinen e inaugura la race, contrastata da Nezumi Cutthroat e Falena Aladiluna. Alle truppe del fiorentino si aggiunge nuovamente il Mastrotrivella, e di là spunta il Kitsune. La Guardia Notturna di Okina scende e viene istigata all'attacco immediato dal Mastro goblin, e i punti vita del milanese scendono vertiginosamente a quota 6. Seconda Coorte e nuovo attacco in massa per Francesco coi due goblin 2/2 e i monaci 4/3, e grazie all'abilità del Tessitradizioni, il milanese riesce a limitare i danni ed uccidere una delle due coorti, per poi attaccare con il topo e la volpe e portare a 8 il suo avversario, mettendo la museruola alla Guardia droppando Lama dell'Alba Kitsune e bloccandovi proprio i monaci: morte prematura del samurai, con il Kodama's Might che ha potenziato il ciccione verde, ma la race si è spostata, o così sembra, in favore di Emanuele, che attacca ancora per 4 danni e gioca Baku Crineteschio per chumpbloccare un nuovo eventuale attacco. Francesco pesca e opta per non attaccare, mentre il Tagliagole Nezumi continua la lenta opera di rosicchiamento di danni, spingendo il fiorentino a 2. Moltitudine Contorta per Francesco che decide di attaccare con la Guardia Notturna nel tentativo di decimare le truppe avversarie, Emanuele non blocca e il Telo di Luce lo salva di nuovo. La pescata è Rend the Spirit con cui la Moltitudine lascia la compagnia e grazie alla quale la strada è spianata per l'attacco finale: Francesco realizza che non c'è modo di uscirne e tende la mano al suo avversario.</p>&#10;      <p>Canavesi 2-0 Berti</p>&#10;      <p>&#10;      </p><p>&#10;        <a name="21">&#10;          &#10;        </a>&#10;        </p><li>&#10;          <b>Sunday, July 24: 12:02 pm - Round 8 Feature Match: Sbrozzi Vs. Paselli</b>&#10;        </li>&#10;      <p></p>&#10;      <p>Secondo Feature Match consecutivo per il milanese Sbrozzi, che questa volta si trova ad affrontare il bolognese Andrea Paselli, vincitore dei Nazionali nel 1996 e secondo nel 1998, con numerose partecipazioni a Pro Tour e Top 8 ai GP.</p>&#10;      <p>&#10;        </p><h3>Prima Partita</h3> Paselli vince il tiro di dado e fa iniziare Sbrozzi. Entrambi tengono la mano iniziale al terzo turno si fronteggiano sul board Moonbow Illusionist per il milanese e un Deathmask Nezumi per il bolognese. Mentre il volante mena di 2, la creatura nera, che normalmente sarebbe 2/2, guadagna +2/+1 e <a>Fear</a>, perchè Andrea ha 7 carte in mano. Nei turni successivi si aggiungo sul board per Sbrozzi un River Kajin e He who Hungers, ed un Takenuma Bleeder per Paselli. Il bolognese continua ad attaccare con il suo Nezumi, ma Luigi decide di immolare Colui che Desidera e mandando entrambe le creature nel cimitero... sicuramente non era questo il desiderio del 3/2 volante del milanese! Ancora una volta Kokusho entra in gioco, e ancora una volta per un solo turno perché saluta immediatamente grazie a un Kagemaro's Clutch giocato da Paselli. La perdita di vite causata dall'uscita del dragone leggendario nero, assieme ai danni causati dal 2/1 volante di Sbrozzi hanno nel frattempo portato Andrea a 7 Punti Vita, e la situazione sembra destinata a peggiorare quando in gioco scende il secondo Moonbow Illusionist. Inoltre alla fine del turno grazie ad un Soulless Revival, Sbrozzi riprende in mano Kokusho e lo rigioca, causando la concessione dell'avversario che sa di non poter sopravvivere al prossimo attacco.<p></p>&#10;      <p>Tra le due partite si parla di nottate brave, e caffè offerti dalla mamma di Jaboli.... In particolare Sbrozzi ci fa notare che da giovedì avrà dormito si e no 3 ore e mezza... nonostante ciò sembra in forma straordinaria... e anche la fortuna nello sbustare le rare lo assiste!</p>&#10;      <p>&#10;        </p><h3>Seconda Partita</h3> Ancora una volta Andrea decide di far iniziare Luigi. La prima creatura a scendere in gioco è un Kuro's Taken per il milanese, che poi cala al turno successivo un <a>Call</a>ous Deceiver. Paselli dal suo lato del tavolo ha uno Skullsnatcher e grazie ad un Distress ha tolto dalle mani di Sbrozzi un Soulless Revival. La partita langue i due Skullsnathcer del bolognese sono tenuti a bada dal Deceiver, e solo la comparsa di Kemuri-Onna dalla parte di Paselli inizia a generare qualche tipo di movimento, facendo scartare qualche carta al milanese. Fortunatamente per Luigi le carte rimaste in mano sono buone e si concretizzano in un Patron of the Nezumi appena viene raggiunta la settima terra. Paselli inizia ad accumulare blocchi per fermare il supersignore dei ratti nella forma di Gnarled Mass e Kashi-Tribe Reaver, che però viene sistematicamente tappato da Luigi grazie ad un Freed from the Reality. E quando il Nezumone attacca Paselli decide di immolare i due Skullsnatcher e la Gnarled Mass per toglierlo dal board. Ma il signore dei ratti non ne vuole sapere di abbandonare il gioco e torna in campo grazie ad un Soulless Revival. Andrea è provato dalla situazione ma continua a mettere blocchi, questa volta nella forma di un Kami of the Tended Garden... Luigi decide quindi di passare al Piano B e di attaccare con il <a>Call</a>ous Deceiver che guadagna volare quando si rivela una terra. Quando però prova ad aggiungere il solito Moonbow Illusionist alla truppa volante, Paselli manda al creatore il piccolo Merfolk volante con un Rend Flesh. Le vite del bolognese sono nel frattempo scese a 5, ma anche le terre di Luigi sembrano scarseggiare: inoltre un Kashi-tribe Sniper in gioco sembra voler porre fine al beatdown del deceiver. Luigi però pesca un Rend Spirit togliendo il Kami of the Tended Garden, e facendo perdere un ulteriore Punto Vita a Paselli, che ora è a 4. Purtroppo per Andrea negli ultimi quattro turni ha pescato sempre e solo terre, e questo diventa palese quando Sbrozzi gli fa scartare la mano con un Sink into Takenuma, per poi poter attaccare con sicurezza con tutto assicurandosi anche la seconda partita.<p></p>&#10;      <p>Sbrozzi 2 – Paselli 0</p>&#10;      <p>&#10;        <a name="22">&#10;          &#10;        </a>&#10;        </p><li>&#10;          <b>Sunday, July 24: 12:14 pm - Round 8 Feature Match: Dario Minieri Vs. Domingo Ottati</b>&#10;        </li>&#10;      <p></p>&#10;      <p>Domingo &quot;Otto&quot; esordisce con un ottimo &quot;non ho mai perso un Feature Match&quot;... la tecnica del pianto, almeno lui, non si sa dove stia di casa. I due sono 4-3, Dario (UB) è in netta ripresa dopo un iniziale 1-3, Otto (GR) ha chiuso la prima giornata 3-3.</p>&#10;      <p>Dario vince il dado, entrambi tengono la mano a sette. Dario gioca uno Zubera Lingua Fluttuante, ninjutsato al quarto da uno Okiba-Gang Shinobi che mette la partita su un binario ben definito, Otto risponde con Cecchino della Tribù Matsu ma la sua mano viene distrutta in due turni dai ratti ninja del romano, grazie alla sua Kagemaro's Clutch che uccide il Signore dei Segugi Ronin posto (o quantomeno, ci si è provato) a difesa del toscano. Stop al beatdown del ninja che arriva finalmente con un Kami of the Hunt, e Dario corre ai ripari droppando nuovamente lo Zubera e un Sottoposto di Kuro. Doppia pedina Serpente per le Evocazioni di Sosuke, e il Ninja viene ucciso il turno dopo dal blocco del Kami di Otto. Dario mette un Illusionista Arcodiluna e inizia a negare il mana verde al suo opponent nel suo upkeep, mentre al beatdown del romano si aggiunge uno Skullsnatcher. Tre creature contro un token solo, e l'impossibilità di accedere al mana verde, costringono Otto alla resa dopo una pescata fiacca.</p>&#10;      <p>Minieri 1-0 Ottati</p>&#10;      <p>Dario apre le ostilità con l'attacco dello Zubera al turno 3, Otto non blocca con l'Elder Pine of Jukai e il Cecchino Matsu, ed un Ninja of the Deep Hour sbuca dal nulla e regala una carta in più al suo proprietario, che però rimane inchiodato a tre terre e si limita, nel turno successivo, a rigiocare lo spirito blu e passare. Otto infoltisce le sue truppe con Matsu-Tribe Decoy e Kami of the Hunt, per poi evitare di attaccare e cedere la mano. La partita stalla per qualche turno, e si registrano solo &quot;scaramucce&quot; di poco conto, che però lasciano sul campo un Profanatombe appena flippato del romano, e un Inviato di Oboro promette di allungare ancora i tempi della partita. Otto non si perde d'animo e dopo aver pensato a lungo droppa un Segugio da guerra Ronin e provoca il Ninja con il Serpe provocatore (incantato da Serpent Skin durante uno dei turni di studio precedenti). Alpha Strike del toscano che attacca con tutti quanti tranne l'Elder Pine, e 4 danni a Dario che reagisce attaccando a sua volta e ninjutsando uno Shinobi Foscalama sullo Zubera e rimbalza l'Esca in mano all'avversario. Dario passa alle maniere forti e si tappa out per giocare Teller of Tales, ma l'asso nella manica di Otto si chiama Fulmine Brutale: gli elementali entrano in campo e un secondo Alpha strike mette la parola fine all'incontro.</p>&#10;      <p>Minieri 1-1 Ottati</p>&#10;      <p>Mulligan a sei per Dario, mentre Otto scende addirittura a 5. Primo drop ed un Nezumi Profanatombe per Dario comincia a menare le mani, un River Kajin mette un muro davanti al romano. Elder Pine of Jukai per Otto che si immola sul topo, ma Inviato di Oboro sembra voler mettere la partita sulla race volante, cosa che al toscano non fa molto piacere, visto che è in netta difficoltà di mana e si è visto uccidere il Cecchino Matsu da una Kagemaro'sClutch. Reazione veemente ed un Spiraling embers brucia il volante, scende un Saccheggiatore della tribù Kashi e i Lacci Mistici lo bloccano all'istante. Ma il beatdown del Kajin finisce insieme al Cecchino ed all'Esca di Otto, che poi attacca con la provocazione del serpe per guadagnare un turno di attacco libero dall'1/4 romanesco. Turno dopo: Fulmine Brutale e attacco a tappeto di Otto, che spedisce a 9 vite Dario. Wicked Akuba da una parte, Garami Ramo-Biforcuto dall'altra, e l'enorme Spirito è decisivo: Esplosione dell'Anima da nove danni precisi e Dario tende la mano al suo avversario.</p>&#10;      <p>Minieri 1-2 Ottati</p>&#10;      <p>&#10;        <a name="23">&#10;          &#10;        </a>&#10;        </p><li>&#10;          <b>Sunday, July 24: 2:01 pm - Round 9 Feature Match: Carboni Vs. Girolami</b>&#10;        </li>&#10;      <p></p>&#10;      <p>Simone Carboni e Mario Girolami sono due giocatori di Roma, compagni di team, che hanno testato assieme per i Nazionali, e nella porzione Standard giocano lo stesso mazzo carta per carta. Al terzo turno del secondo draft si affrontano per vedere chi vincerà il tavolo.</p>&#10;      <p>&#10;        </p><h3>Prima Partita</h3> Simone vince il tiro di dado (con annessa imprecazione di Mario) e decide di iniziare. Si preannuncia una partita lunga e noiosa, un mirror di bianco blu... Carboni però non sembra d'accordo, anzi conclude la partita in suo favore in pochi minuti... in rapida successione mette sul board Lantern Kami, Ninja of the Deep Hour (che viene incantato con Indomitable Will e Phanton Wings, bloccato poi da Mario con Mystical Restrains), Teller of Tales facendo diversi danni e guadagnando vantaggio di carte. Mario sembra tornare in partita quando il suo drago leggendario, Yosei, The Morning Star entra in gioco a sua difesa, ma Carboni il turno successivo, grazie ad un Charge Across Araba, tappa il dragone utilizzando l'abilita' del Teller of Tales, e infligge i danni letali, conquistando il primo game.<p></p>&#10;      <p>(Nota di colore: Lo Moro, che è stato designato per un Deck Check, giunge al tavolo per osservare la partita, e viene additato dai due contendenti come non desiderato, con parole moooooolto colorite! Si sa... nessuno vuole il signore del mana screw vicino... Nemmeno il cronista, che è suo amico!)</p>&#10;      <p>&#10;        </p><h3>Seconda Partita</h3> Tra un complimento e l'altro, e apprezzamenti al BEL posteriore di Carboni, Girolami è gentile e sceglie di far iniziare il suo compagno di team. Simone opta per il beatdown e al primo turno crea un token con Spiritual Visit. La seconda creatura, un Kitusne Loreweaver viene incantato da un Coveted by Wisdom (e non attaccherà mai!). Carboni sembra non aver terminato le creature infatti scendono nell'ordine Split-Tail Miko, Moonwing Moth e Descendant of Kyomaro. Questa volta però Girolami sembra non risentirne troppo, avendo in gioco come blocchi <a>Call</a>ous Deceiver, Oboro Envoy e Moonlit Strider. Quando Simone pesca la quarta terra fanno la comparsa in gioco Nagao, Bound by Honour e Mothider Samurai... la truppa sembra oramai completa e pronta ad attaccare, quando Girolami gioca Kiri-onna, rispendendo in mano di Simone il capo dei samurai, ritardando l'alfa strike di un turno. Nagao torna in gioco e porta i suoi samurai all'attacco. Mario rivela dal proprio mazzo una terra e attiva l'abilità del <a>Call</a>ous Deceiver, facendolo volare. Si vengono a creare una serie di situazioni prevenzioni e istantanei, che spediscono nel cimitero il Mothrider Samurai di Carboni e i Moonlit Strider e Kaijin of the Vanishing Touch di Mario.<br> Simone, che si lamentava di avere un mazzo brutto, cala Teller of Tales e ripropone Nagao, tornato ancora in mano grazie alla simpatica Kiri-onna (nota donna di mondo della ridente cittadina di Kamigawa). Carboni che si è stufato di far fare l'ascensore alle sue creature, rimanda in mano l'Oboro Envoy a Mario con un bel paio di Ghostly Wing, incanta Nagao con le stesse ali donate alla camionetta (nome in codice dell'Envoy nell'ambiente romano), attacca e spedisce Mario a 2.<br> Pochi turni dopo, nonostante la ridiscesa della camionetta, e il conseguente indebolimento delle creature, Simone trasforma il Nagao volante in un Ninja of the Deep Hour, ed infligge i due danni decisivi, vincendo anche il secondo game.<p></p>&#10;      <p>Carboni 2 – Girolami 0</p>&#10;      <p>&#10;        <a name="24">&#10;          &#10;        </a>&#10;        </p><li>&#10;          <b>Sunday, July 24: 3:22 pm - Round 10 Feature Match: Canavesi Vs. Panara</b>&#10;        </li>&#10;      <p></p>&#10;      <p>Emanuele Canavesi di Milano è un PT Player di vecchia data con al suo attivo un Top 16 a New Orleans e Top 32 a Kobe. Bruno Panara di Roma è una giovane promessa con un Top 8 al recente GP di Bologna.<br> Per la porzione di Standard hanno scelto rispettivamente in mono rosso con Orchish Artillery e un mono nero ratti con la lock di Skull Collector.</p>&#10;      <p>&#10;        </p><h3>Prima Partita</h3> Emanuele vince il sorteggio e decide di iniziare, tenendo una mano con una terra (<a>Blinkmoth Nexus</a>) e un <a>Chrome Mox</a>, dopo aver pensato a lungo. Grazie ad un <a>Magma Jet</a> trova un secondo Nexus, lancia <a>Seething Song</a>, <a>Molten Rain</a> sul Nexus calato al primo turno di Panara e <a>Slith Firewalker</a>. Lo Slith cresce, mentre due Nexus vengono uccisi da un <a>Echoing Decay</a>. Per un turno ancora lo Slith rimane in gioco, portandosi via come chumpblock un Skullsnatcher, poi viene ucciso da un <a>Nekrataal</a>.<br> Panara sembra essere rientrato in partita grazie ad un Akuta, Born from Ashes, equipaggiato con Umezawa's Jitte e calando Pithing Needle, chiamando Nexus (Canavesone ne ha giocati ben 4 in questa partita!). Il milanese non ha però più modo di togliere il simpatico Akuta, equipaggiato con l'arma di Umezawa (che per chi non lo sapesse ha messo una taglia per chiunque gliela riporti) e nonostante cali la sua supertech segreta (l'Orchish Artillery) e un Arc Slogger, non può far nulla se non mischiare per il secondo game.<p></p>&#10;      <p>Non è solo Canavesone ad avere le tech... durante i cambi di sideboard, Panara mostra a tutti, meno che al suo avversario, la tech di side: la potentissima <a>Razormane Masticore</a>, cugina moscia della ben nota Masticore delle Urza's Destiny, oramai ritirata a vita privata in quel di Oboro.</p>&#10;      <p>&#10;        </p><h3>Seconda Partita</h3> Ancora una volta, Emanuele decide di iniziare ed è soddisfatto della sua mano. Bruno invece prende un mulligan. Poi tiene una mano con una terra e salta due land drop consecutivi. Canavesi ne approfitta e cala di terzo turno Arc Slogger, grazie a <a>Seething Song</a> e poi Orchish Artillery. Bruno che non pesca ancora terra, decide di rimischiare e passare alla partita successiva.<p></p>&#10;      <p>&#10;        </p><h3>Terza Partita</h3> Entrambi tengono la mano inziale. Bruno fa scartare uno <a>Shrapnel Blast</a> e una Montagna a Canavesone con due <a>Ravenous Rats</a> consecutivi, poi cala una <a>Culling Scales</a> con cui eliminerà nei due turni successivi gli odiosi sorci. In sequenza poi, il milanese gioca Orchish Artillery e <a>Solemn Simulacrum</a>. Bruno non si perde d'animo e cala una <a>Razormane Masticore</a>. Il soggiorno della cugina dell'amato artefatto delle Destiny dura però poco. Gli orchi dell'artiglieria chiamano un Arc Slogger e assieme la terminano. Breve anche la permanenza dello slogger di canavesone, ucciso da un <a>Nekrataal</a> di Bruno. <br> Il turno successivo Panara cala un Sun Dropplet e un Umezawa's Jitte, passando. Canavesone rompe lo Jitte con Yuki-Onna, ma il turno successivo ne cala un'altra. Le creature di Canavesone sembrano inefficaci contro il Sun Dropplet di Bruno, che al turno successivo prende la decisione di sacrificare tutte le sue terre facendo floatare un mana, sacrificare Tomb of Urami, ed equipaggiare il neo arrivato demone 5/5 nero con Jitte. Emanuele deve pescare <a>Shrapnel Blast</a> per sopravvivere, ma non è sufficientemente fortunato e si deve arrendere al mana flood e al signor Urami.<p></p>&#10;      <p>Panara 2 – Canadesi 1</p>&#10;      <p>&#10;        <a name="25">&#10;          &#10;        </a>&#10;        </p><li>&#10;          <b>Sunday, July 24: 3:31 pm - Round 10 Feature Match: Andrea Cerasari Vs. Luca Chiera</b>&#10;        </li>&#10;      <p></p>&#10;      <p>Ennesimo Derby romano (Mirror Match di monored) ai tavoli alti, entrambi i giocatori sono a 6-3 e quindi nel più classico dei &quot;Single Elimination Mode&quot; per fare Top8, dato che necessitano di un 3-0 per sperare di entrare nella rosa che si giocherà il titolo.</p>&#10;      <p>Luca vince il dado e tiene la mano iniziale, mentre Andrea chiama un mulligan e scende a sei. Apre le ostilità Luca con <a>Slith Firewalker</a>, fermato il turno dopo da <a>Magma Jet</a>, e dopo una <a>Seething Song</a> è Kumano, Master Yamabushi fare la sua entrata in scena, fronteggiato da Zo-Zu the Punisher; il goblin è subito abbattuto dall'abilità dello sciamano che attacca indisturbato per 4 danni, e dopo una <a>Seething Song</a> da parte di Andrea, viene fronteggiato da un <a>Arc-Slogger</a>. Kumano attacca senza paura, e il bestione 4/5 è dispensato dal bloccare; dopo un lungo momento di riflessione Luca opta per passare, completamente mana-open, e la sua <a>Blinkmoth Nexus</a> si attiva per difenderlo, freddata prima del blocco da un nuovo <a>Magma Jet</a>. Per evitare lo Scry ad Andrea, la Nexus viene uccisa da Kumano, e l'Arcopode, rimasto senza opposizione infligge 4 danni a Luca e 4 (grazie all'abilità) allo sciamano bruciandolo a morte, ed eliminandolo dal board. Luca pesca e mette il suo <a>Arc-Slogger</a> in gioco, evitando di bloccare l'attacco avversario e vedendosi recapitare un secondo panzone in campo. Nessun problema però: Andrea è a 10 e l'attivazione per tre volte dello Slogger ed una <a>Shrapnel Blast</a> (<a>Chrome Mox</a> giocato a vuoto) chiudono il conto in favore del Campione Italiano del 2000.</p>&#10;      <p>Cerasari 0-1 Chiera</p>&#10;      <p>Primo drop al terzo turno per Andrea, ed una <a>Vulshok Sorcerer</a> entra in campo, spazzata via all'istante da <a>Magma Jet</a>, ma non c'è la terza terra per Luca nemmeno dopo uno Scry, e c'è bisogno di un secondo Getto per trovarla e metterla in campo. Andrea lo imita e fa Jet nella discard, trovando <a>Seething Song</a> e mettendo un grasso <a>Arc-Slogger</a> a dominare il board... dominio che dura ben poco perché una <a>Shrapnel Blast</a> lo spazza via senza troppi patemi d'animo. Secondo Slogger per Andrea e stavolta ad opporsi c'è solo un Hearth Kami, incenerito dalla Bestia che attacca indisturbata. Luca parte col <a>Pulse of the Forge</a> a lavorare sui punti vita di Andrea, colpendolo nuovamente il turno successivo, dopo un attacco dello Slogger fermato da una Nexus ed una <a>Shrapnel Blast</a> di Andrea diretta in faccia. La situazione di punti vita è di 10 a 4 in favore di Andrea, con Luca che necessita di una pescata buona per non rischiare di andare alla terza. Luca pensa a lungo e passa, Andrea mette terra, anima una Nexus e tira la Shrapnel decisiva: si va alla terza.</p>&#10;      <p>Cerasari 1-1 Chiera</p>&#10;      <p>Mulligan per Andrea, mentre Luca tiene la sua mano iniziale: terra, Mox e <a>Slith Firewalker</a> per lui, che attacca due volte indisturbato e viene raggiunto il turno dopo da un Hearth Kami. Andrea fredda (anche se sembra un controsenso) il Kami con <a>Magma Jet</a>, ma il Firewalker continua il beatdown, imperterrito finché una Nexus non si immola ad una <a>Shrapnel Blast</a> e un altro Firewalker prende subito il suo posto. Andrea comincia ad essere in serie ambasce, e gioca Slith a sua volta, attaccando ma subendo ancora l'attacco di quello di Luca. <a>Magma Jet</a> e lo Slith di Andrea saluta la compagnia, e gli fa eco quello dall'altra parte del tavolo, bruciato da una seconda Blast. Luca anima Nexus e manda a 8 Andrea, che droppa il terzo Slith e si trova di fronte una <a>Razormane Masticore</a>, distrutta dalla TERZA Shrapnel che si mangia una <a>Sword of Fire and Ice</a>. La race ora è serrata, lo Slith di Andrea è 4/4 e la Nexus di Luca viene sparata via dall'ennesimo Jet del suo avversario, che attacca e mette una seconda Spada in campo. Luca pesca e immola la seconda Nexus sull'enorme Slith dell'opponent: niente da fare però, l'ennesima pescata fiacca ed uno Slith ormai ingestibile lo costringono ad una resa impensabile fino a metà partita.</p>&#10;      <p>Cerasari 2-1 Chiera</p>&#10;      <p>&#10;        <a name="26">&#10;          &#10;        </a>&#10;        </p><li>&#10;          <b>Sunday, July 24: 4:17 pm Round 11 – Feature Match: Fiori Vs. Gesiot</b>&#10;        </li>&#10;      <p></p>&#10;      <p>Di Stefano Fiori di Milano vi abbiamo già parlato ieri in un altro Feature Match. Di Giovanni Gesiot di Biella possiamo ricordare il 3° posto al GP Rimini (blocco <i>Mirrodin</i>).</p>&#10;      <p>&#10;        </p><h3>Prima Partita</h3> Avendo carta per carta lo stesso mazzo, decidono di comune accordo di partire con zero carte in mano, dando vita ad una partita diversa ma interessante.<br> Gesiot cala due terre e <a>Slith Firewalker</a>, come se avesse avuto sette carte in mano, e inizia il beatdown. Fiori non si perde di animo e con tre terre e un <a>Seething Song</a> cala Arc Slogger di quarto e al turno successivo macina 20 carte ed uccide lo slith (che giocatori sfortunati!!!)<br> Inizia un nuovo beatdown, quello di Slogger, che ben presto viene affiancato da un fratellino, portando a casa la prima partita per Stefano.<p></p>&#10;      <p>&#10;        </p><h3>Seconda Partita</h3> Per Game 2 decidono di utilizzare la side e di giocare una partita normale con 7 carte iniziali (Con zero carte – afferma Fiori – Gesiot non ce la può fare). Entrambi tengono la mano iniziale. Giovanni parte con un Frostling. Stefano grazie ad un <a>Chrome Mox</a> rompe con un <a>Molten Rain</a> una terra al secondo turno ed una al terzo. Giovanni però trova una terza serra e affianca al Frostling una Vulshock Sorceress. Un <a>Flamebreak</a> di Fiori fa piazza pulita il turno successivo. Ma non è finita. Il biellese topdecca un <a>Seething Song</a> e cala Arc Slogger, una creatura a cui Stefano non riesce a trovare soluzione e concede, pronto a prendersi la rivincita nella terza e decisiva partita.<p></p>&#10;      <p>&#10;        </p><h3>Terza Partita</h3> Questa volta è il milanese a partire di Frostling e ancora una volta di secondo turno grazie ad un <a>Chrome Mox</a> rompe una montagna di Giovanni con un <a>Molten Rain</a>. E poi ancora un'altra con uno <a>Stone Rain</a>. Nonostante Gesiot continui a pescare terre, al quinto turno Stefano cala Arc Slogger e inizia il beatdown decisivo. A nulla servono una serie di chumpblock... due attacchi, una attivazione di Slogger e uno <a>Shrapnel Blast</a> dopo la partita termina con la vittoria del milanese.<p></p>&#10;      <p>Fiori 2 – Gesiot 1</p>&#10;      <p>&#10;        <a name="27">&#10;          &#10;        </a>&#10;        </p><li>&#10;          <b>Sunday, July 24: 5:41 p.m. - Round 12 Feature Match: Sbrozzi Vs. Carboni</b>&#10;        </li>&#10;      <p></p>&#10;      <p>Vi abbiamo già presentato sia Luigi Sbrozzi di Milano, che Simone Carboni di Roma in Feature Match precedenti. Entrambi lottano per un posto nel Top 8 dei Nazionali. A Luigi basta una patta, perché ha 27 punti e con 28 è dentro matematicamente. Simone ha bisogno di una vittoria per raggiungere la soglia qualificazione, dato che al momento ha 'solo' 25 punti.</p>&#10;      <p>&#10;        </p><h3>Prima Partita</h3> Sbrozzi vince il sorteggio e decide di iniziare, ma rimanda indietro le carte per ben due volte. Con 5 carte Luigi tiene e parte. Simone gioca una <a>Aether Vial</a> al primo turno mentre Luigi al terzo turno con una <a>Molten Rain</a> rompe un <a>Blinkmoth Nexus</a>. Carboni non risente della mancanza di lande e cala uno Skullsnatcher; poi passa. Il milanese nel suo turno cala <a>Sword of Fire and Ice</a> e passa. Simone vince la partita tra la fine del turno dell'avversario e il suo: a fine turno grazie alla fiala mette in gioco un Nezumi Graverobber, stappa, mette un segnalino sulla fiala, attacca, rimuove l'unica carta nel cimitero, trasforma il topino in Nighteyes, the Desacrator e gioca Pithing Needle sulla spada. Sbrozzi è annichilito, ma prova comunque la mossa della disperazione. Calando doppio <a>Slith Firewalker</a> e attaccando prova ad entrare nella difesa del romano, ma Carboni, utilizzando ancora una volta la fiala, cala uno Skullcollector, e blocca uno dei due critter rossi, uccidendolo e facendo concedere la partita all'avversario.<p></p>&#10;      <p>&#10;        </p><h3>Seconda Partita</h3> Questa volta nessuno mulliga e la partita parte regolare. E' ancora una volta Carboni a prendere l'iniziativa calando un Ravenous Rat, che viene immediatamente ucciso da un <a>Magma Jet</a>. Luigi guarda le sembra soddisfatto di una delle due carte viste grazie a Scry, la pesca e passa. Carboni ritarda ancora l'avversario con un <a>Chittering Rats</a> e aggiunge alla truppa uno Skullsnatcher. Luigi non fa nulla, guarda l'avversario con le sue quattro terre stappate in gioco, e quando Simone mette in gioco Umezawa's Jitte ed equippa il ratto, la partita sembra davvero finita. Non basta al milanese infatti un doppio <a>Seething Song</a> con cui cala un Arc Slogger e uccide lo Skullsnatcher. Simone ha un <a>Nekrataal</a> che aspetta la bestia, e che apre la strada al ratto equipaggiato e alle finali per il giocatore romano.<p></p>&#10;      <p>Sbrozzi 0 – Carboni 2</p>&#10;      <p>&#10;        <a name="28">&#10;          &#10;        </a>&#10;        </p><li>&#10;          <b>Sunday, July 24: Liste Top 8</b>&#10;        </li>&#10;      <p></p>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Alessandro Selvaggi&#10;              </div>&#10;              <div>Rattoni golosoni</div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090604004519/https://www.wizards.com/magic/samplehand.asp?x=mtgevent_itnat05_welcome&amp;decknum=9">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td colspan="2">&#10;                        <p>Main Deck</p>&#10;                        <p>60 cards&#10;                    </p>&#10;                      </td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>4 &#10;                      <a>Blinkmoth Nexus</a><br>1 &#10;                      <a>Shizo, Death's Storehouse</a><br>17 &#10;                      <a>Swamp</a><br>1 &#10;                      <a>Tomb of Urami</a><br><hr>23 lands<br><br><br>2 &#10;                      <a>Akuta, Born of Ash</a><br>4 &#10;                      <a>Chittering Rats</a><br>2 &#10;                      <a>Ink-Eyes, Servant of Oni</a><br>3 &#10;                      <a>Nekrataal</a><br>3 &#10;                      <a>Nezumi Graverobber</a><br>4 &#10;                      <a>Ravenous Rats</a><br>3 &#10;                      <a>Skull Collector</a><br>2 &#10;                      <a>Skullsnatcher</a><br><hr>23 creatures</td>&#10;                      <td>4 &#10;                      <a>Aether Vial</a><br>3 &#10;                      <a>Pithing Needle</a><br>3 &#10;                      <a>Rend Flesh</a><br>4 &#10;                      <a>Umezawa's Jitte</a><br><hr>14 other spells</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td>&#10;                        <p>Sideboard</p>&#10;                        <p>&#10;                      </p></td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>4 &#10;                            <a>Cranial Extraction</a><br>3 &#10;                            <a>Distress</a><br>3 &#10;                            <a>Echoing Decay</a><br>1 &#10;                            <a>Kagemaro, First to Suffer</a><br>4 &#10;                            <a>Sun Droplet</a><br><hr>15 sideboard cards</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Bruno Panara&#10;              </div>&#10;              <div>Rattoni golosoni</div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090604004519/https://www.wizards.com/magic/samplehand.asp?x=mtgevent_itnat05_welcome&amp;decknum=10">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td colspan="2">&#10;                        <p>Main Deck</p>&#10;                        <p>60 cards&#10;                    </p>&#10;                      </td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>4 &#10;                      <a>Blinkmoth Nexus</a><br>1 &#10;                      <a>Shizo, Death's Storehouse</a><br>16 &#10;                      <a>Swamp</a><br>2 &#10;                      <a>Tomb of Urami</a><br><hr>23 lands<br><br><br>2 &#10;                      <a>Akuta, Born of Ash</a><br>4 &#10;                      <a>Chittering Rats</a><br>2 &#10;                      <a>Ink-Eyes, Servant of Oni</a><br>3 &#10;                      <a>Nekrataal</a><br>3 &#10;                      <a>Nezumi Graverobber</a><br>4 &#10;                      <a>Ravenous Rats</a><br>3 &#10;                      <a>Skull Collector</a><br>2 &#10;                      <a>Skullsnatcher</a><br><hr>23 creatures</td>&#10;                      <td>4 &#10;                      <a>Aether Vial</a><br>3 &#10;                      <a>Echoing Decay</a><br>3 &#10;                      <a>Pithing Needle</a><br>4 &#10;                      <a>Umezawa's Jitte</a><br><hr>14 other spells</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td>&#10;                        <p>Sideboard</p>&#10;                        <p>&#10;                      </p></td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>4 &#10;                            <a>Cranial Extraction</a><br>3 &#10;                            <a>Distress</a><br>2 &#10;                            <a>Razormane Masticore</a><br>4 &#10;                            <a>Sun Droplet</a><br>2 &#10;                            <a>Terror</a><br><hr>15 sideboard cards</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Andrea Peloso&#10;              </div>&#10;              <div>White Weenie</div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090604004519/https://www.wizards.com/magic/samplehand.asp?x=mtgevent_itnat05_welcome&amp;decknum=11">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td colspan="2">&#10;                        <p>Main Deck</p>&#10;                        <p>60 cards&#10;                    </p>&#10;                      </td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>3 &#10;                      <a>Blinkmoth Nexus</a><br>1 &#10;                      <a>Eiganjo Castle</a><br>15 &#10;                      <a>Plains</a><br><hr>19 lands<br><br><br>3 &#10;                      <a>Auriok Champion</a><br>4 &#10;                      <a>Hokori, Dust Drinker</a><br>3 &#10;                      <a>Isamaru, Hound of Konda</a><br>4 &#10;                      <a>Lantern Kami</a><br>4 &#10;                      <a>Leonin Skyhunter</a><br>3 &#10;                      <a>Samurai of the Pale Curtain</a><br>4 &#10;                      <a>Savannah Lions</a><br>1 &#10;                      <a>Suntail Hawk</a><br><hr>26 creatures</td>&#10;                      <td>3 &#10;                      <a>Chrome Mox</a><br>4 &#10;                      <a>Damping Matrix</a><br>4 &#10;                      <a>Glorious Anthem</a><br>4 &#10;                      <a>Raise the Alarm</a><br><hr>15 other spells</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td>&#10;                        <p>Sideboard</p>&#10;                        <p>&#10;                      </p></td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>1 &#10;                            <a>Auriok Champion</a><br>3 &#10;                            <a>Hallow</a><br>2 &#10;                            <a>Promise of Bunrei</a><br>3 &#10;                            <a>Terashi's Grasp</a><br>3 &#10;                            <a>Test of Faith</a><br>3 &#10;                            <a>Wrath of God</a><br><hr>15 sideboard cards</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Stefano Fiori&#10;              </div>&#10;              <div>Joe Cassano Strikes Back</div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090604004519/https://www.wizards.com/magic/samplehand.asp?x=mtgevent_itnat05_welcome&amp;decknum=12">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td colspan="2">&#10;                        <p>Main Deck</p>&#10;                        <p>60 cards&#10;                    </p>&#10;                      </td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>4 &#10;                      <a>Blinkmoth Nexus</a><br>14 &#10;                      <a>Mountain</a><br>1 &#10;                      <a>Shinka, the Bloodsoaked Keep</a><br><hr>19 lands<br><br><br>4 &#10;                      <a>Arc-Slogger</a><br>4 &#10;                      <a>Frostling</a><br>4 &#10;                      <a>Hearth Kami</a><br>4 &#10;                      <a>Slith Firewalker</a><br>3 &#10;                      <a>Vulshok Sorcerer</a><br><hr>19 creatures</td>&#10;                      <td>4 &#10;                      <a>Chrome Mox</a><br>4 &#10;                      <a>Magma Jet</a><br>4 &#10;                      <a>Molten Rain</a><br>4 &#10;                      <a>Seething Song</a><br>3 &#10;                      <a>Shrapnel Blast</a><br>3 &#10;                      <a>Sword of Fire and Ice</a><br><hr>22 other spells</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td>&#10;                        <p>Sideboard</p>&#10;                        <p>&#10;                      </p></td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>3 &#10;                            <a>Flamebreak</a><br>3 &#10;                            <a>Pithing Needle</a><br>4 &#10;                            <a>Shatter</a><br>1 &#10;                            <a>Shrapnel Blast</a><br>4 &#10;                            <a>Stone Rain</a><br><hr>15 sideboard cards</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Simone Carboni&#10;              </div>&#10;              <div>Rattoni golosoni</div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090604004519/https://www.wizards.com/magic/samplehand.asp?x=mtgevent_itnat05_welcome&amp;decknum=13">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td colspan="2">&#10;                        <p>Main Deck</p>&#10;                        <p>60 cards&#10;                    </p>&#10;                      </td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>4 &#10;                      <a>Blinkmoth Nexus</a><br>1 &#10;                      <a>Shizo, Death's Storehouse</a><br>17 &#10;                      <a>Swamp</a><br>1 &#10;                      <a>Tomb of Urami</a><br><hr>23 lands<br><br><br>4 &#10;                      <a>Chittering Rats</a><br>2 &#10;                      <a>Ink-Eyes, Servant of Oni</a><br>3 &#10;                      <a>Nekrataal</a><br>4 &#10;                      <a>Nezumi Graverobber</a><br>4 &#10;                      <a>Ravenous Rats</a><br>3 &#10;                      <a>Skull Collector</a><br>3 &#10;                      <a>Skullsnatcher</a><br><hr>23 creatures</td>&#10;                      <td>4 &#10;                      <a>Aether Vial</a><br>3 &#10;                      <a>Echoing Decay</a><br>3 &#10;                      <a>Pithing Needle</a><br>4 &#10;                      <a>Umezawa's Jitte</a><br><hr>14 other spells</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td>&#10;                        <p>Sideboard</p>&#10;                        <p>&#10;                      </p></td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>4 &#10;                            <a>Cranial Extraction</a><br>3 &#10;                            <a>Distress</a><br>1 &#10;                            <a>Pithing Needle</a><br>2 &#10;                            <a>Razormane Masticore</a><br>3 &#10;                            <a>Sun Droplet</a><br>2 &#10;                            <a>Terror</a><br><hr>15 sideboard cards</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Andrea Cerasari&#10;              </div>&#10;              <div>Antichi Sapori</div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090604004519/https://www.wizards.com/magic/samplehand.asp?x=mtgevent_itnat05_welcome&amp;decknum=14">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td colspan="2">&#10;                        <p>Main Deck</p>&#10;                        <p>60 cards&#10;                    </p>&#10;                      </td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>4 &#10;                      <a>Blinkmoth Nexus</a><br>14 &#10;                      <a>Mountain</a><br><hr>18 lands<br><br><br>4 &#10;                      <a>Arc-Slogger</a><br>4 &#10;                      <a>Hearth Kami</a><br>4 &#10;                      <a>Slith Firewalker</a><br>4 &#10;                      <a>Vulshok Sorcerer</a><br>4 &#10;                      <a>Zo-Zu the Punisher</a><br><hr>20 creatures</td>&#10;                      <td>4 &#10;                      <a>Chrome Mox</a><br>4 &#10;                      <a>Magma Jet</a><br>2 &#10;                      <a>Pyrite Spellbomb</a><br>4 &#10;                      <a>Seething Song</a><br>4 &#10;                      <a>Shrapnel Blast</a><br>4 &#10;                      <a>Sword of Fire and Ice</a><br><hr>22 other spells</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td>&#10;                        <p>Sideboard</p>&#10;                        <p>&#10;                      </p></td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>3 &#10;                            <a>Flamebreak</a><br>4 &#10;                            <a>Jinxed Choker</a><br>2 &#10;                            <a>Pyrite Spellbomb</a><br>3 &#10;                            <a>Shatter</a><br>3 &#10;                            <a>Sowing Salt</a><br><hr>15 sideboard cards</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Gennaro Mango&#10;              </div>&#10;              <div>Deathcloud</div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090604004519/https://www.wizards.com/magic/samplehand.asp?x=mtgevent_itnat05_welcome&amp;decknum=15">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td colspan="2">&#10;                        <p>Main Deck</p>&#10;                        <p>60 cards&#10;                    </p>&#10;                      </td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>13 &#10;                      <a>Forest</a><br>9 &#10;                      <a>Swamp</a><br><hr>22 lands<br><br><br>4 &#10;                      <a>Eternal Witness</a><br>3 &#10;                      <a>Kokusho, the Evening Star</a><br>2 &#10;                      <a>Molder Slug</a><br>4 &#10;                      <a>Sakura-Tribe Elder</a><br>3 &#10;                      <a>Solemn Simulacrum</a><br>3 &#10;                      <a>Viridian Shaman</a><br><hr>19 creatures</td>&#10;                      <td>3 &#10;                      <a>Death Cloud</a><br>2 &#10;                      <a>Echoing Decay</a><br>3 &#10;                      <a>Kodama's Reach</a><br>3 &#10;                      <a>Plow Under</a><br>3 &#10;                      <a>Rend Flesh</a><br>2 &#10;                      <a>Rude Awakening</a><br>3 &#10;                      <a>Sensei's Divining Top</a><br><hr>19 other spells</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td>&#10;                        <p>Sideboard</p>&#10;                        <p>&#10;                      </p></td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>2 &#10;                            <a>Boseiju, Who Shelters All</a><br>3 &#10;                            <a>Circle of Protection: Red</a><br>4 &#10;                            <a>Cranial Extraction</a><br>3 &#10;                            <a>Hideous Laughter</a><br>1 &#10;                            <a>Plains</a><br>2 &#10;                            <a>Sylvan Scrying</a><br><hr>15 sideboard cards</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Manuel Alvisi&#10;              </div>&#10;              <div>Tooth and Nail</div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090604004519/https://www.wizards.com/magic/samplehand.asp?x=mtgevent_itnat05_welcome&amp;decknum=16">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td colspan="2">&#10;                        <p>Main Deck</p>&#10;                        <p>60 cards&#10;                    </p>&#10;                      </td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>1 &#10;                      <a>Boseiju, Who Shelters All</a><br>6 &#10;                      <a>Forest</a><br>1 &#10;                      <a>Okina, Temple to the Grandfathers</a><br>4 &#10;                      <a>Urza's Mine</a><br>4 &#10;                      <a>Urza's Power Plant</a><br>4 &#10;                      <a>Urza's Tower</a><br><hr>20 lands<br><br><br>1 &#10;                      <a>Duplicant</a><br>4 &#10;                      <a>Eternal Witness</a><br>1 &#10;                      <a>Kiki-Jiki, Mirror Breaker</a><br>4 &#10;                      <a>Sakura-Tribe Elder</a><br>1 &#10;                      <a>Sundering Titan</a><br>1 &#10;                      <a>Triskelion</a><br>3 &#10;                      <a>Vine Trellis</a><br>1 &#10;                      <a>Viridian Shaman</a><br><hr>16 creatures</td>&#10;                      <td>4 &#10;                      <a>Chrome Mox</a><br>2 &#10;                      <a>Mindslaver</a><br>3 &#10;                      <a>Oblivion Stone</a><br>4 &#10;                      <a>Reap and Sow</a><br>3 &#10;                      <a>Sensei's Divining Top</a><br>4 &#10;                      <a>Sylvan Scrying</a><br>4 &#10;                      <a>Tooth and Nail</a><br><hr>24 other spells</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td>&#10;                        <p>Sideboard</p>&#10;                        <p>&#10;                      </p></td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>2 &#10;                            <a>Iwamori of the Open Fist</a><br>1 &#10;                            <a>Mephidross Vampire</a><br>3 &#10;                            <a>Molder Slug</a><br>4 &#10;                            <a>Plow Under</a><br>4 &#10;                            <a>Troll Ascetic</a><br>1 &#10;                            <a>Viridian Shaman</a><br><hr>15 sideboard cards</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <p>&#10;        <a name="29">&#10;          &#10;        </a>&#10;        </p><li>&#10;          <b>Sunday, July 24: Quarti di Finale: Andrea Peloso Vs. Andrea Cerasari</b>&#10;        </li>&#10;      <p></p>&#10;      <p>Andrea Peloso è arrivato ai Nazionali come secondo qualificato al Campionato Cittadino di Roma. Andrea Cerasari è uno dei giocatori che da più tempo calca la scena del gioco organizzato nazionale, che si è qualificato per tre volte al Pro Tour, con diverse apparizioni al secondo giorno in vari GP. I giocatori hanno optato rispettivamente per mono bianco e mono rosso.</p>&#10;      <p>&#10;        </p><h3>Prima Partita</h3> Peloso vince il tiro di dado, decide di iniziare ma rimanda indietro le prime sette carte. Accetta le seconde sei e parte con terra Isamaru, Hound of Konda. Cerasari risponde calando una <a>Pyrite Spellbomb</a>. Peloso continua a mettere pressione calando un Samurai of The Pale Curtain. Cerasari elimina Isamaru con un <a>Magma Jet</a>, mettendo sotto le due carte di Scry, e quando pesca di turno non trova la terza terra... un secondo <a>Magma Jet</a> sul samurai gli permette di fare nuovamente Scry e questa volta le carte vanno entrambe sopra. Entrambi calano la terza terra: per Peloso questa pescata si tra due in una <a>Damping Matrix</a>, per Cerasari in Zo-Zu, The Punisher. Il turno successivo vede apparire per Peloso un Lantern Kami e un <a>Auriok Champion</a> e per Cerasari un <a>Arc-Slogger</a>. La creatura protetta dal rosso limita i danni per il vice campione del campionato romano, ma Cerasari continua a calare creature come se fosse lui il a dover fare il beatdown. Peloso tenta di rientrare in partita, grazie ad un doppio <a>Glorious Anthem</a>, un Isamaru, Houndof Konda e Hokori, Dustdrinker. Ogni creatura che entra in gioco per il giovane romane e un punto vita guadagnato, e Cerasari si trova a non poter più attaccare, e a subire tre danni a turno dalla volante. Ci vorrebbe un miracolo per riprendere la partita, Cerasari ci prova lanciando un <a>Magma Jet</a> e portando l'avversario a 4, sperando di fare Scry su uno <a>Shrapnel Blast</a>, ma purtroppo per lui non succede e Peloso si aggiudica il primo game attaccando il turno successivo con la creatura protetta dal rosso e la volante.<p></p>&#10;      <p>Cerasari sida dentro 3 <a>Shatter</a> e 2 <a>Pyrite Spellbomb</a> per 1 Vulshok Sorceress e 4 Zo-Zu, The Punisher. Peloso inserisce 1 <a>Auriok Champion</a>, 3 <a>Hallow</a> e 3 Terashi's Grasp e toglie 4 Hokori, Dustdrinker 2 Lantern Kami e 1 <a>Raise the Alarm</a>.</p>&#10;      <p>&#10;        </p><h3>Seconda Partita</h3> Cerasari non è soddisfatto delle prime sette carte e deve rimandare indietro anche le successive sei. Anche le nuove cinque carte si rivelano prive di terre. La fortuna ha deciso di abbandonare Andrea proprio nel momento cruciale, oppure un demone della sfortuna si cela nelle mani di Peloso.<br> Finalmente si presenta una terra nelle quattro carte di Cerasari. Peloso grazie ad un <a>Chrome Mox</a> cala al primo turno un Leonid Skyhunter e di secondo un <a>Auriok Champion</a>, che viene ucciso da una <a>Pyrite Spellbomb</a> di Cerasari. Peloso aumenta la pressione con un <a>Raise the Alarm</a> e un secondo Leonid Skyhunter, calando poi un <a>Glorious Anthem</a>. Cerasari uscito dal mana screw, grazie ad uno Scry di <a>Magma Jet</a>, si trova a dover affrontare un nuovo grave problema, quando Peloso cala <a>Glorious Anthem</a>. Un token soldato muore in combat contro un Heart Kami, l'altro viene ucciso da un <a>Magma Jet</a>. Cerasari però non riesce a trovare soluzioni per il Leonid Skyhunter 3/3 superstite, che fa il suo lavoro e porta Peloso alla semifinale.<p></p>&#10;      <p>Peloso 2 – Cerasari 0</p>&#10;      <p>&#10;        <a name="30">&#10;          &#10;        </a>&#10;        </p><li>&#10;          <b>Sunday, July 24: Quarti di Finale : Bruno Panara Vs. Gennaro Mango</b>&#10;        </li>&#10;      <p></p>&#10;      <p>Si incontrano nel Top 8 la sorpresa di questo Nazionale Gennaro Mango (Napoli), e un giocatore ultimamente in gran forma: il romano Bruno Panara, finalista del PTQ Napoli e nel Top 8 del GP Bologna.<br> Gennaro gioca un BG Cloud abbastanza classico: da notare la presenza di <a>Molder Slug</a> e <a>Viridian Shaman</a> nel maindeck, insieme ad <a>Echoing Decay</a> e Rend Flesh.<br> Bruno, invece, gioca il monoblack aggro che ha portato 3 giocatori su 4 ai quarti: oltre a lui,<br> lo giocavano Simone Carboni e Alessandro Selvaggi, più Mario Girolami, unico escluso.<br> Il matchup sembra abbastanza favorevole a rattini, che può bloccare la pescata di un avversario privo di removal istantanei grazie alle recursion di Ravenus o <a>Chittering Rats</a> tramite Skull Collector: il rattino viene giocato via <a>Aether Vial</a>, in modo da entrare in gioco nella fase di acquisizione.<br> Dal canto suo il mazzo di Gennaro non manca di risposte, e una <a>Death Cloud</a> al momento giusto può vincere la partita quasi da sola.</p>&#10;      <p>Inizia quindi il primo game dei quarti: il romano vince il die roll, ma mulliga tenendo la mano di 6 carte, mentre l'opponent tiene la mano iniziale con due terre, Rend Flesh, Sakura, 2 Reach e <a>Death Cloud</a>.<br> La mano da sei carte, tuttavia, appare abbastanza competitiva: 2 Terre, un Ago, Rattino, Jitte e Collector.<br> Mentre il Cloud accelera la sua mana-base, i rattini cercano di andare in combo, ma il Collezionista di Ossa viene terminato da un Rend Flesh.<br> I turni successivi sono uno la fotocopia dell'altro: bruno equippa con Jitte e prova ad attaccare, Gennaro pensa un po' e poi gli uccide la creatura.<br> Alla fine una Nexus riesce a mettere la bandierina sullo scoresheet del napoletano, ma non fa in tempo a gioire che viene rivoltato in compagnia di una palude.<br> Mentre il mononero ricostruisce il suo gioco con un'impressionante terra-passo, il Bg apparecchia la tavola per abbuffarsi di <a>Death Cloud</a>, e cala un Simulacro Solenne.<br> Turno successivo, altro attacco di Nexus armato di Jitte, Gennaro è a nove vite.<br> Ma ha anche nove terre, il che gli permette di calare la Divining Top, fare Nube da cinque e provare a reimpostare la partita.<br> Niente da fare: Bruno è bravissimo e pesca terra-terra-graverobber.<br> A questo punto, l'azione viene interrotta perché, dal pubblico, Giulio Barra urla che Panara ha scordato di scartare la Jitte che aveva in mano prima della <a>Death Cloud</a>.<br> La cosa viene giudicata ininfluente e lo stesso Mango non ha nulla di ridire, quindi il rattino lo può uccidere agilmente (nota di merito ai judge di questo torneo, che sanno liquidare senza troppe chiacchiere gente infelice che cerca di vincere perché &quot;con lo Slogger hai rimosso 21 carte invece di 20 per farmi i 4 danni decisivi...&quot; ... certi ex-campioni nazionali fanno cattiva pubblicità al gioco, meglio una bella nuotatina nell'Arno il prossimo weekend!). </p>&#10;      <p>Il Sideboarding è pressoché il seguente:<br> Panara: + 3 Distress, + 4 Extraction<br> Mango: + 2 Laughter</p>&#10;      <p>Il napoletano decide di iniziare, e il mazzo lo sbeffeggia un po' facendolo iniziare con ben 5 carte.<br> Bruno tiene una mano non velocissima con terre,Chittering, <a>Nekrataal</a> e &quot;vinci-i-mirror-di-aggro-e-a-volte-anche-le-partite-random&quot; di Umezawa.<br> Nonostante il doppio mulligan, il ragazzo dal nome più napoletano del mondo (penso che nessuno si chiami Gennaro al di fuori della provincia partenopea) parte come ogni Bg vorrebbe partire: gioca prima Sakura, poi Kodama's Reach.<br> Nel Frattempo Bruno usa Di-Stress per scartare la mangia-soprammobili della forgia e picchia (per quanto si possa affibbiare il verbo &quot;picchiare&quot; a un topo) con i suoi Rattini armati di &quot;quellarobalì&quot; di Umezawa.<br> Senza carte in mano, ma alto di vite, Gennaro chiama Houston e Houston risponde Kokusho.<br> Ma lui non ama kokusho , e invece di cercare la race (sperando che la Nasa gli invii un secondo drago) lo usa per bloccare un rattino, realizzando uno spettacolare uno per 0 grazie ai due segnalini di Jitte.<br> Una Cranial toglie anche le <a>Death Cloud</a> lasciando solo i rude Awakening come possibile win condition (Gennaro ha 10 terre) ma il turno dopo un terra-passo Bruno fa Ninjutsu con Ink-Eyes, prende il bistrattato Kokusho di Gennaro, e ne ottiene la concessione.</p>&#10;      <p>Bruno Panara è nei Top 4.<br> Bruno Panara è ai Mondiali.<br> Bruno Panara è dove caspita gli pare.<br> I Nazionali no: i Nazionali solo a Roma, per piacere!</p>&#10;      <p>&#10;        <a name="31">&#10;          &#10;        </a>&#10;        </p><li>&#10;          <b>Sunday, July 24: Quarti di Finale: Stefano Fiori Vs. Simone Carboni</b>&#10;        </li>&#10;      <p></p>&#10;      <p>Carboni si presenta nei Top 8 con un mazzo che ha sviluppato da tempo: mono nero aggro topi (di quattro che hanno portato questa lista, 3 hanno fatto Top 8); mentre Fiori gioca un più classico mono rosso. </p>&#10;      <img src="https://i.ormos.uk/dd/2b/dd2b3ee1e0c561268a0b250d800c5057a9d874d571998add837c77f7097f71a5.jpg">&#10;      <p>&#10;        </p><h3>Game 1</h3> Fiori vince il sorteggio e decide di partire per primo. Entrambi i giocatori tengono la loro mano, e come da copione Carboni parte aggressivo con una Fiala, seguita da un <a>Ravenous Rats</a> (che muore subito da <a>Magma Jet</a>).<br> Continua la disruption di Carboni con <a>Chittering Rats</a>, ma il suo avversario non si lascia mettere sotto e stabilizza la situazione con una Nexus equipaggiata con Spada di Fuoco e Ghiaccio. Carboni continua la sua serie di topi, giocando altri 2 <a>Chittering Rats</a> (uno tramite Fiala), e risolve il problema dell'equipment con un Ago Spinale. Un ratto più tardi, Fiori rimane senza carte in mano, ma con un Arc Slogger che minaccia di tenere testa da solo ai ratti in campo. <br> Precariamente basso di vite, Carboni si trova costretto a sacrificare tutte le sue terre alla Tomba di Urami, per bloccare l'Arc Slogger con il token 5/5. Mentre Carboni cerca di ricostruire una mana base, Fiori, tra 2 Nexus, un Frostling, e un paio di Vulshok Sorceress, porta a casa la prima.<p></p>&#10;      <p>Fiori 1 – Carboni 0</p>&#10;      <p>&#10;        </p><h3>Game 2</h3> Di nuovo Carboni all'attacco, con un Nezumi Graverobber, seguito da un Ago Spinale (su Vulshok Sorceress). Fiori risponde in tranquillità con un Kami del Focolare, poi con un Arc Slogger, e passa all'attacco. Per niente scoraggiato, Carboni risponde con una carta d'altri tempi, il <a>Nekrataal</a> (del quale il nome tuona intanto in sala dalla postazione del Trivial), che manda il 4/5 al cimitero. Dal canto suo, Fiori immola il Kami alla causa e toglie l'Ago Spinale, per poi calare una Vulshok Sorceress con cui uccide il <a>Nekrataal</a>. Carboni tenta di mettere in atto una delle combo del suo mazzo, giocando lo Skull Collector e un <a>Chittering Rats</a>; ma Fiori mette fine a questo piano immediatamente, tirando un <a>Magma Jet</a> sul topo; intanto due nuovi Aghi Spinali (uno per parte) rendono inutili le abilità delle 2 Vulshok Sorceress di Fiori, e delle 2 Nexus di Carboni.<br> La partita entra in una noiosa fase di stallo, in cui Carboni rigioca ogni turno il suo Skull Collector che impedisce ogni attacco a Fiori, solo per interrompere la sequenza pochi turni dopo, con un Nezumi Graverobber (che rimane da solo in campo, in quanto il giocatore ha preferito tenersi il mana per flipparlo). Con il suo Slith fresco di pescata, Fiori cerca di fare qualche danno e attacca con le sue 3 creature 1/1. Carboni blocca lo Slith e comincia a rimuovere le carte dal cimitero dell'avversario: Fiori tenta di impedire al topo di flipparsi giocando un <a>Seething Song</a>, ma Carboni ha abbastanza mana per farcela lo stesso. <br> Dopo una rapida occhiata ai 9 mana di Carboni, alle molteplici creature nel suo Graveyard (tra cui 1 <a>Nekrataal</a> e 2 <a>Chittering Rats</a>), e ai propri <a>Flamebreak</a> rimossi dal gioco in precedenza con Arc Slogger, Fiori concede e si passa alla partita decisiva.<p></p>&#10;      <p>Fiori 1 – Carboni 1</p>&#10;      <p>&#10;        </p><h3>Game 3</h3> Stavolta è Fiori a partire aggressivo, con l'apertura più temibile del suo mazzo: Montagna, <a>Chrome Mox</a>, Slith. Solito Ago Spinale di Carboni su Vulshok Sorceress, e solito Kami di Fiori per risolvere il problema. <br> Malgrado un <a>Terror</a> sullo Slith, Fiori continua a mettere seriamente sotto pressione l'avversario, attaccando con il Kami e 2 Nexus. Ma Carboni non si dà per vinto, e minaccia di rovesciare le sorti della partita attaccando con il suo all'apparenza innocuo <a>Ravenous Rats</a>, equippato però con una jitte (la cui abilità uccide il Kami). Fiori ha però la risposta pronta, e nomina l'odiato artefatto con un Ago Spinale; uccide un Nezumi Graverobber calato di fresco, ma si ritrova a 0 carte in mano tra ratti e ninja ratti che permettono a Carboni di riutilizzarne gli effetti. <br> Un altro Graverobber potrebbe diventare devastante, ma un Frostling lo termina. La situazione resta critica per Fiori, che senza carte in mano e con una sola Nexus a terra fronteggia un'armata di ratti. La Masticora giocata infine da Carboni mette la parola fine alla partita, e al quarto di finale. <p></p>&#10;      <p>Fiori 1 – Carboni 2</p>&#10;      <p>&#10;        <a name="32">&#10;          &#10;        </a>&#10;        </p><li>&#10;          <b>Sunday, July 24: Quarti di Finale: Manuel Alvisi Vs. Alessandro Selvaggi</b>&#10;        </li>&#10;      <p></p>&#10;      <p>Il Tooth &amp; Nail del riminese Alvisi (7° ai Nazionali del 2001 a Perugia) affronta il Mononero Ratti del catanese Selvaggi (nono posto per lui lo scorso anno).</p>&#10;      <p>Parte Manuel, con entrambi i giocatori che tengono la mano iniziale, e alla <a>Aether Vial</a> di Alessandro, risponde con <a>Vine Trellis</a>. Nezumi Profanatombe di secondo per il catanese, ma comincia la ricerca di mana il suo avversario con Satura-Tribe Elder dopo <a>Sylvan Scrying</a>. Il Profanatombe viene flippato in Night Eyes e viene chumpbloccato dal vecchio, che prima di lasciare questo mondo fornisce a Manuel una terra addizionale ed una copertura dai primi danni della partita. Passa Alessandro, e Manuel fa Reap &amp; Sow con Entwine e Sensei Divining Top, mentre dall'altra parte il board siciliano si riempie con Skullsnatcher (in End Step grazie alla Fiala) e un Pithing Needle che chiama <a>Triskelion</a>. Un nuovo Profanatombe dopo, è il turno di Manuel che esplora la cima del mazzo con la Cappa e casta <a>Mindslaver</a>, attivandolo subito e giocando tutta la mano ad Alessandro (Skull Collector e <a>Nekrataal</a>) per poi pulire il tavolo con una provvidenziale <a>Oblivion Stone</a>. Si riparte da <a>Ravenous Rats</a>, ma il turno successivo arriva Tooth &amp; Nail. Nemmeno il tempo di cercare le creature: il catanese concede una partita praticamente persa.</p>&#10;      <img src="https://i.ormos.uk/fe/7c/fe7c5b677b95f47a5bf9b96414a8ebcc8372e0bb58d31abf89e3cb38e2d279a5.jpg">&#10;      <p>Alvisi 1-0 Selvaggi</p>&#10;      <p>Il secondo match vede Alessandro tenere le sette carte e Manuel scendere a sei. Parte al solito con terra-Vial il catanese e terra-<a>Chrome Mox</a> + Satura-Tribe Elder il suo opponent... non male per una mano a sei, come fa notare sorridendo Alessandro. Seconda Blinkmoth e seconda <a>Aether Vial</a> da una parte, <a>Sylvan Scrying</a> dall'altra, e al <a>Ravenous Rats</a> che si porta via un inutile Boseju, viene replicato con una <a>Molder Slug</a>. <a>Chittering Rats</a> per Alessandro che subisce il pestaggio della lumaca e mette un secondo Chittering e poi un terzo, per cercare di portare a casa la damage race, limitata da un <a>Vine Trellis</a> che ferma il topo di turno. Ma un provvidenziale <a>Nekrataal</a> si porta via il mostro 4/6 e il beatdown riparte feroce da parte dei roditori: una Distress trova e scarta un Tooth &amp; Nail e per Manuel, ormai sopraffatto dalle &quot;sicule pantegane&quot; è il momento di passare alla bella.</p>&#10;      <p>Alvisi 1-1 Selvaggi</p>&#10;      <p>Alessandro &quot;Il bello è che c'è gente che crede in me e non sa che posso solo sculare, una volta capita, due pure ma...&quot;<br> Manuel &quot;Ahem... se ne perdo due sono a casa, sai?&quot;</p>&#10;      <p>Stavolta è Alessandro ad invocare il mulligan, ma gli dice male anche la mano a sei e scende ancora di una. Cappa da una parte e ormai classica Vial dall'altra, e i primi danni sono del catanese e della sua <a>Blinkmoth Nexus</a>. Al terzo turno Manuel completa il trittico delle terre di urza, ma è senza mana verde e non può giocare nulla, mentre prosegue il beatdown di Nexus, finché un <a>Mindslaver</a> non regala un turno di respiro al riminese. La Cappa però continua a non rivelare <a>Forest</a>e, e un <a>Duplicant</a> scende sul board per tentare di &quot;tenere&quot; la strana coppia Profanatombe – <a>Nekrataal</a>, ma non la Nexus che continua imperterrita a danneggiare Manuel, che droppa un secondo <a>Mindslaver</a> che fa più danni che la grandine: il Profanatombe attacca e lascia la compagnia schiantandosi sul <a>Duplicant</a>, mentre una Cranial Extraction porta via i Rend the Flesh dal mazzo del catanese. Arriva finalmente il verde e un <a>Reap and Sow</a> spazza via una delle due Nexus di Alessandro, e una Distress scarta un secondo <a>Reap and Sow</a> dalla mano del riminese. Sakura Tribe Elder per Manuel che può guardare così tre nuove carte con la Cappa, una di esse è una <a>Oblivion Stone</a> che viene pescata e giocata immediatamente. Prova a difendersi Alessandro con <a>Nekrataal</a> e <a>Ravenous Rats</a>, ma stavolta la Cappa, pescata e rigiocata, fornisce una <a>Molder Slug</a>: Manuel detona la Pietra e mette Lumaca sul Board, che il turno dopo si &quot;mangia&quot; il <a>Duplicant</a> ed attacca per 4 danni. Ancora attacco di Nexus e Skull Collector per Alessandro che prova a resistere al pressing della Bestia, ma sulla cima del mazzo c'è <a>Eternal Witness</a> e parte per la terza volta un <a>Mindslaver</a> che fa suicidare la Nexus grazie alla Slug. Nuovo turno e nuova Witness in cima al deck per Manuel ed è ancora <a>Mindslaver</a>!!! Situazione insostenibile per Alessandro, che oltre a non giocare più in prima persona è sotto il treno chiamato Slug. Dopo aver scosso la testa, tende la mano al suo avversario e in semifinale ci va Alvisi.</p>&#10;      <p>Alvisi 2-1 Selvaggi</p>&#10;      <p>&#10;        <a name="33">&#10;          &#10;        </a>&#10;        </p><li>&#10;          <b>Sunday, July 24: Semifinale: Andrea Peloso Vs. Bruno Panara</b>&#10;        </li>&#10;      <p></p>&#10;      <p>Questa partita deciderà chi sarà sicuramente nel team nazionale. Chi perde dovrà fare lo spareggio nella finale del terzo e quarto posto. Andrea Peloso di Roma ripone in un White Weenie le sue speranze di andare ai campionati del mondo. Bruno Panara, anche lui di Roma, chiede al suo monomero ratti il passaporto per Yokohama.</p>&#10;      <p>&#10;        </p><h3>Prima Partita</h3> I due, che si conoscono bene, si scambiano simpatici apprezzamenti nel prepartita. Bruno vince il tiro di dado e decide di iniziare, tiene e cala un <a>Aether Vial</a>, Peloso risponde con un Savannah Lion. Panara cala Umezawa's Jitte di secondo turno e passa. Andrea aumenta la pressione con un <a>Auriok Champion</a>. Con il protetto dal nero e dal rosso in gioco, Bruno non può far altro che attivare un <a>Blinkmoth Nexus</a> e attaccare nel cielo. Andrea nel turno successivo cala <a>Glorious Anthem</a>, e Bruno pesca una terra, anima il Nexus lo equipaggia con Jitte riuscendo, rimuovendo i sengalini, a sbarazzarsi dell'<a>Auriok Champion</a>. La scena si ripete il turno successivo, mentre il Savannah Lion continua a far scendere i Punti Vita di Panara. Un Leonid Skyhunter viene ucciso da un <a>Nekrataal</a>, calato attraverso <a>Aether Vial</a> e il Nexus con Jitte il turno successivo uccide il leone rimasto oramai solo. Il resto della partita è tutto in discesa per Panara, che grazie all'artefatto leggendario e alle sue poche creature si aggiudica la prima partita.<p></p>&#10;      <p>Bruno sida dentro 4 <a>Sun Droplet</a>, 2 <a>Terror</a> e 2 <a>Razormane Masticore</a> e mette fuori 4 <a>Aether Vial</a>, 3 Pithing Needle e 1 Umezawa's Jitte. Andrea toglie 4 Hokori, 1 Lantern Kami e 1 <a>Raise the Alarm</a> e inserisce 1 Auriok Champin, 2 Promise of Burnei e 3 Terashi's Grasp. </p>&#10;      <p>&#10;        </p><h3>Seconda Partita</h3> Peloso tiene, Bruno pensa (AFFERMAZIONE PESANTISSIMA!!!) e tiene. Andrea apre con un Lantern Kami, seguito al secondo turno da un <a>Auriok Champion</a>; Bruno si limita a calare una <a>Swamp</a> e un <a>Blinkmoth Nexus</a>. Al terzo turno Peloso aumenta la sua presenza sul board con un Savannah Lion ed Isamaru, Hound of Konda. Il leone viene ucciso da un <a>Terror</a>, un <a>Chittering Rats</a> si immola su Isamaru, quando fa la sua comparsa in gioco la 2° <a>Auriok Champion</a>, che però si suicida su una Nexus di Bruno. L'astuto Peloso solo dopo la morte della sua creatura cala Promise of Burnei. Ma Bruno non si pone problemi, cala una <a>Razormane Masticore</a>, uccide la seconda <a>Auriok Champion</a>, facendo triggerare la promessa di Burnei, pesca <a>Echoing Decay</a>, uccide tutti i token, e si fa largo di prepotenza nella Finale dei Nazionali 2005.<p></p>&#10;      <p>Peloso 0 – Panara 2</p>&#10;      <p>&#10;        <a name="34">&#10;          &#10;        </a>&#10;        </p><li>&#10;          <b>Sunday, July 24: Semifinale: Manuel Alvisi Vs. Simone Carboni</b>&#10;        </li>&#10;      <p></p>&#10;      <p>Altro mazzo Ratti sulla strada di Manuel Alvisi: a pilotarlo il frascatano Simone Carboni, che ha come miglior prestazione in carriera un Top 8 al Grand Prix Genova 2003.</p>&#10;      <p>Parte subito Palude + Pithing Needle Simone, chiamando e neutralizzando un'eventuale Sensei Divining Top, e di secondo mette un <a>Ravenous Rats</a> intendendo cominciare l'opera di demolizione della mano, ma la cosa non riesce molto bene: al quarto turno Manuel droppa la terza terra di Urza e grazie al <a>Chrome Mox</a> fa partire un <a>Tooth and Nail</a>: Kiki-Jiki Mirror Breaker e <a>Sundering Titan</a> chiudono la pratica in meno di cinque minuti.</p>&#10;      <p>Alvisi 1-0 Carboni</p>&#10;      <p>Entrambi i contendenti scendono a sei carte ed entrambi esordiscono castando di primo turno, Vial per Simone e Cappa per Manuel. Simone mette Pithing Needle chiamando nuovamente Cappa, Manuel si limita ad annuire e gioca il primo <a>Sylvan Scrying</a>, prima che Simone lanci Distress di terzo rivelando <a>Oblivion Stone</a>, un secondo Scrying, la terra appena presa, Reap And Sow e <a>Mindslaver</a>: alla fine la scelta ricade sul cerca terre a due mana, per evitare l'arrivo della terza terra di urza e la fine prematura della partita in caso di pescata di Nail. Mette la pietra dell'oblio Manuel, che si vede negare la pescata e di conseguenza un land drop dall'arrivo di un <a>Chittering Rats</a> che viene ninjutsato da Skullsnatcher e dopo rigiocato regalando in pratica un altro turno al frascatano. Guai grossi per Manuel: parte una Cranial Extraction che chiama ed elimina <a>Reap and Sow</a>, negando la possibilità al riminese di fare ancora extra mana, anche se la pescata di <a>Forest</a>a lo rimette in carreggiata. Ottima pescata per Manuel che casta <a>Viridian Shaman</a>, liberando così la preziosa cappa dalla morsa dell'Ago, c'è la <a>Urza's Power Plant</a> e un <a>Tooth and Nail</a> parte in tutta la sua drammaticità (per Simone): tocca a <a>Triskelion</a> + Kiki-Jiki fare la loro comparsa sul board. <a>Triskelion</a> e la sua copia fanno piazza pulita nel campo di Simone, e l'offensiva è serrata e continua: non c'è pescata che possa salvare il frascatano, e dopo una terra si arrende all'evidenza. Per Manuel significa finale!</p>&#10;      <p>Alvisi 2-0 Carboni</p>&#10;      <p>&#10;        <a name="35">&#10;          &#10;        </a>&#10;        </p><li>&#10;          <b>Sunday, July 24: Finale: Bruno Panara Vs. Manuel Alvisi</b>&#10;        </li>&#10;      <p></p>&#10;      <p>Ci siamo. Dopo tre giorni di competizione, si saprà chi sarà il nuovo Campione Nazionale di &quot;Magic: The Gathering&quot;. A contendersi il titolo che l'anno scorso è stato di Mario Pascoli, si fronteggiano il riminese Manuel Alvisi con <a>Tooth and Nail</a> e il romano Bruno Panara con il mazzo rivelazione dei Nazionali, il mononero ratti, che ha portato ben 3 giocatori nei Top 8.</p>&#10;      <p>&#10;        </p><h3>Prima Partita</h3> Bruno vince il sorteggio e decide di iniziare, tenendo la mano e partendo con la classica apertura terra <a>Aether Vial</a>. Alvisi cala <a>Forest</a>a e passa. Panara mette un segnalino sulla Fiala, cala Nexus e passa. Manuel cala <a>Urza's Mine</a> e <a>Vine Trellis</a>, cedendo il turno all'avversario. Bruno al terzo turno si tappa per calare uno Skull Collector, ma non mette alcun tipo di pressione al riminese che nel suo turno fa Scrying per <a>Urza's Tower</a>, calandola e un altro per Urza's Powerplant, che mette in mano. La chiusura è imminente, ma Bruno non è d'accordo. Nel mantenimento cala un <a>Chittering Rats</a> facendo rimettere una carta sul mazzo ad Alvisi e uccidendo il muro con un <a>Nekrataal</a>. Manuel rompe l'imminente lock del romano calando la terza terra di Urza, una <a>Oblivion Stone</a> e attivando la stessa pietra, resetta il board. Panara tenta di rallentare ulteriormente il riminese con un altro <a>Chittering Rats</a>, ma Manuel riesce comunque a giocare <a>Tooth and Nail</a> mettendo in gioco <a>Sundering Titan</a> e Kiki-Jiki, Mirror Breaker, assicurandosi la prima partita.<p></p>&#10;      <p>Nel frattempo finisce la finale del 3-4 posto dove Simone Carboni (ratti) ha la meglio su Andrea Peloso (bianchino).</p>&#10;      <p>Bruno inserice 3 Distress e 4 Cranial Extraction e toglie 3 <a>Echoing Decay</a> e 4 Umezawa's Jitte<br> Manuel mette dentro 1 <a>Viridian Shaman</a> e 2 <a>Molder Slug</a> e sida fuori Boseju, Who Shelters All, <a>Sundering Titan</a> e <a>Tooth and Nail</a></p>&#10;      <img src="https://i.ormos.uk/ee/1c/ee1c4783e500065fc5ed69d68cf776e2f9811f998248ac45d72827979a47f506.jpg">&#10;      <p>&#10;        </p><h3>Seconda Partita</h3> Panara cala <a>Swamp</a> e passa. Alvisi <a>Urza's Mine</a> e Sensei' Divinino Top. Al secondo turno Bruno gioca <a>Ravenous Rats</a> facendo scartare una <a>Forest</a>a. Manuel cala foresta e gioca <a>Vine Trellis</a>. Il romano cala ancora un ratto, questa volta un Chittering e passa. Alvisi gioca un <a>Sylvan Scrying</a> andandosi a prendere una Power Plant, e cala un Sakura-Tribe Elder. Il <a>Tooth and Nail</a> decisivo sembra imminente, quando Bruno lancia Cranial Extraction, togliendo tutti i Tooth dal mazzo del riminese (che in mano aveva un altro Sakura ed una Witness). Al suo turno Alvisi completa il trittico di Urza grazie al un altro Scrying recuperato dal cimitero con una <a>Eternal Witness</a>. Panara toglie con un Distress un <a>Duplicant</a> dalle mani del riminese, che grazie alla Cappa riesce comunque a pescare un altro Sakura-Tribe Elder. Panara tenta di mettere un po' di pressione calando Akuta, Born of Ashes, ma il muro tiene a bada la leggenda. Manuel neutralizza con un Reap and Saw un Nexus dell'avversario e continua a rivoltare il mazzo con la Cappa, fino a trovare una Witness, che prende <a>Duplicant</a>, che va a rimuovere un <a>Chittering Rats</a> (con il motivetto della Fiera dell'Est di sottofondo!). Nonostante non abbia più Tooth nel mazzo Manuel sembra aver la partita in pugno, anche se un Pithing Neddle, calato da Panara gli impedisce di continuare a cercare soluzioni nel mazzo. Il riminese attacca con <a>Duplicant</a> (2/2) e Witness, che si accoppia con Akuta, e cala <a>Molder Slug</a>. Bruno guarda impotente la partita sfuggirgli via, mentre la <a>Molder Slug</a> continua a portargli via punti. Il romano tenta di guadagnare qualche turno riprendendo Akuta dal cimitero e chumpbloccando, e giocando Cranial Extraction, toglie le <a>Oblivion Stone</a> dal mazzo del riminese.<br> Ma è tutto inutile. La soluzione alla lumaca non c'è, oppure Bruno non la trova. Manuel Alvisi è il nuovo Campione Nazionale italiano di &quot;<b>Magic: The Gathering</b>&quot;!<p></p>&#10;      <p>Panara 0 – Alvisi 2</p>&#10;      <p>&#10;        <a name="36">&#10;          &#10;        </a>&#10;        </p><li>&#10;          <b>Sunday, July 24: Tutto è bene…</b>&#10;        </li>&#10;      <p></p>&#10;      <img src="https://i.ormos.uk/5b/12/5b1217d6d50805e9ee08387fa93648d68b464d7be08b8705f54f2ae1af506c51.jpg">&#10;      <p>... ciò che ha finalmente dimostrato la bravura dei catanesi (o sarà la maglia di CPM???).<br> ... ciò che fa spettacolo come il Trivial di Magic con più di 60 partecipanti.<br> ... ciò che informa, ovvero la mostra sul nostro GCC preferito.<br> ... ciò che sorprende, come il grimorio sul quale apporre le firme e la sagoma a forma di carta nella quale farsi la foto...</p>&#10;      <p>Insomma, tutto è bene ciò che finisce bene, o forse anche meglio!</p>&#10;      <p>In questi tre giorni romani, di cose per le quali lamentarsi ce ne sono state davvero pochissime ed i giocatori di tutto il nostro bello stivale hanno gradito fino in fondo la manifestazione.<br> Alvisi partirà per i Mondiali e noi ci auguriamo che la squadra italiana possa davvero... no, non lo diciamo per scaramanzia ed anche un po' per scaramannonna.<br> Noi rimaniamo qui a giocare, draftare, scrivere e commentare: a mezzanotte ancora qui all'interno dell'ormai vuota sala del torneo... l'atmosfera è quasi magica e sublime; i banner vengono rimossi, le sedie impilate, le tovaglie scompaiono in scatole di cartone e tutto il colore del luogo viene riassunto sulle pedane che domani i trasportatori porteranno via... via in un magazzino buio, dove la magia di Magic verrà conservata fino al prossimo anno...</p>&#10;      <p>...</p>&#10;      <p>Ok... ora che abbiamo staccato il pc, poche chiacchiere e tutti a magnare che la puzza di topo morto ci si attacca addosso!<br> No... eravamo ancora on-line?<br> Doh!</p>&#10;    </td>&#10;  </tr>&#10;</tbody></table>

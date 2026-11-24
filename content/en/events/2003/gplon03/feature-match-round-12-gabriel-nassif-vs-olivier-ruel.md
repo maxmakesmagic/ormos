@@ -1,0 +1,88 @@
+---
+id: rcve2q5x
+kind: event
+lang: en
+path: /en/events/2003/gplon03/feature-match-round-12-gabriel-nassif-vs-olivier-ruel
+title: 'Feature Match Round 12: Gabriel Nassif vs. Olivier Ruel'
+published: null
+column_slug: null
+column: null
+authors: []
+event_code: gplon03
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/article.aspx?x=sideboard/gplon03/fm12a
+    lang_detected: en
+    capture_id: 853122
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/gplon03/fm12a
+    captured_at: '2013-06-28 08:57:39+00'
+    rule: aspx.article_heading
+  event_code:
+    page_key: wizards.com/magic/magazine/article.aspx?x=sideboard/gplon03/fm12a
+    lang_detected: en
+    capture_id: 853122
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/gplon03/fm12a
+    captured_at: '2013-06-28 08:57:39+00'
+    rule: url.event_code
+sources:
+- document_id: rcve2q5x
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/gplon03/fm12a
+  page_key: wizards.com/magic/magazine/article.aspx?x=sideboard/gplon03/fm12a
+  lang: en
+  template: aspx
+  captured_at: '2013-06-28 08:57:39+00'
+  capture_id: 853122
+  wayback_url: https://web.archive.org/web/20130628085739id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/gplon03/fm12a
+- document_id: rcve2q5x
+  url: http://www.wizards.com/default.asp?x=sideboard/gplon03/fm12a,,ja
+  page_key: wizards.com/default.asp?x=sideboard/gplon03/fm12a
+  lang: en
+  template: classic_asp
+  captured_at: '2005-02-01 01:52:34+00'
+  capture_id: 2243678
+  wayback_url: https://web.archive.org/web/20050201015234id_/http://www.wizards.com/default.asp?x=sideboard/gplon03/fm12a,,ja
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: rcve2q5x
+  capture_id: 853122
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/gplon03/fm12a
+  wayback_url: https://web.archive.org/web/20130628085739id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/gplon03/fm12a
+  captured_at: '2013-06-28 08:57:39+00'
+  template: aspx
+  sha256: 3a082dce64dfe5063fdd0176a18e411e9bcf1628f450fe26fcc8d54a4810f59d
+render_recovery: []
+---
+![](https://www.wizards.com/sideboard/images/gplon03/a902.jpg)Round 12 sees these two French in a good position to progress to the Top 8. Both were playing WR control so we were all in for a long match.
+
+Nassif got to go first and the game progressed slowly with just land entering play until Ruel made a turn three Silver Knight. Olivier’s opening hand contained his one maindeck Decree of Annihilation, the silver bullet of the matchup. It would dictate how he played for the rest of the game, trying to set up situation with an Astral Slide where he would leave one of his own men as the only non-enchantment permanent on the board. He made a Slide on his following turn.
+
+Nassif morphed an Exalted Angel that was unmorphed in Ruel’s end step. Ruel Slided out the Angel in Nassif’s attack phase to prevent some damage but Nassif took advantage of the situation and cast Akroma’s Vengeance, killing Ruel’s Knight and Slide. The Angel returned to play at the end of the turn.
+
+Unfazed, Ruel made an Angel of his own. The two Angels started swinging at each other and a very complicated race began with Gabriel always being one hit in the lead.
+
+![](https://www.wizards.com/sideboard/images/gplon03/a904.jpg)Ruel upped the ante by adding a Lightning Rift to the board but Nassif’s end of turn Decree of Justice for five soldiers was a lot more threatening. Gabriel’s team swung in, leaving the life totals 24-7 in his favour.
+
+Olivier added a second Rift top his board position and held back with his Angel. Nassif swung with everyone again, the Angels held each other off and before damage went on the stack Ruel cycled a Starstorm to deal Nassif’s Angel two and to kill a soldier. Once the damage and life gain had all resolved, Ruel had his Rifts and an Angel whilst Nassif had four soldiers. The life totals read 28-7 to Gabriel.
+
+Nassif swept the board clean with an Akroma’s Vengeance and all Ruel did was regrow a previously cycled Eternal Dragon. Nassif passed his turn, sitting on eleven mana. Olivier made the Dragon but conceded when Nassif cycled a Decree of Justice for eight.
+
+Nassif 1 – Ruel 0
+
+Ruel added some Kilnmouth Dragons, Wipe Cleans and Oblations and removed some of his less useful cyclers and creature kill. Whilst Nassif gained some Akroma, Angel of Wraths and some Wipe Cleans of his own.
+
+Oliver, playing first this time, had the misfortune to mulligan twice and had to keep an awful hand where his only mana sources were a Forgotten Cave and two Temple of the False God – which he showed to Nassif in jest. He drew another Cave which he cycled, finding a third Temple!
+
+Nassif had plenty of land and a Rift to start punishing Olivier. Ruel flashed Nassif a Decree of Annihilation, joking that all he needed was three more land to reset the game so that he could restart on much fairer terms, kind of a minor Shahrazad. 
+
+Olivier drew a Plains and slammed it onto the board, two to go.
+
+Olivier Wiped the Rift Clean but only after it had felled him to eight. Nassif flopped out an Eternal Dragon.
+
+![](https://www.wizards.com/sideboard/images/gplon03/a903.jpg)Olivier drew a second Plains, and tapped some of his growing mana to make an Astral Slide and a Morph. He was just a single Red source short of his much-needed Decree. The Slide and the morphed Angel would almost certainly give him the game if he managed to draw a Mountain.
+
+Nassif kept the pressure up with an Akroma which Ruel was forced to Slide out, dropping to three from the Dragon. Ruel made a face-up Angel leaving three land open. 
+
+Nassif made a pre-combat Rift, Ruel responded by cycling a Chartooth Cougar, Sliding out the Akroma to keep him alive and finding him the much-needed Mountain that now came too late. The Rift resolved and Nassif had enough cyclers to kill Ruel there and then.
+
+Nassif 2 – Ruel 0

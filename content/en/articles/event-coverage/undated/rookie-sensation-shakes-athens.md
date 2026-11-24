@@ -1,0 +1,1321 @@
+---
+id: xp0b7q7x
+kind: event
+lang: en
+path: /en/articles/event-coverage/undated/rookie-sensation-shakes-athens
+title: Rookie Sensation Shakes Athens!
+published: null
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtgevent_gpath06_welcome
+    lang_detected: en
+    capture_id: 829289
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_gpath06_welcome
+    captured_at: '2009-06-04 08:06:24+00'
+    rule: aspx.article_heading
+sources:
+- document_id: xp0b7q7x
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_gpath06_welcome
+  page_key: wizards.com/magic/magazine/article.aspx?x=mtgevent_gpath06_welcome
+  lang: en
+  template: aspx
+  captured_at: '2009-06-04 08:06:24+00'
+  capture_id: 829289
+  wayback_url: https://web.archive.org/web/20090604080624id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_gpath06_welcome
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: xp0b7q7x
+  capture_id: 829289
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_gpath06_welcome
+  wayback_url: https://web.archive.org/web/20090604080624id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_gpath06_welcome
+  captured_at: '2009-06-04 08:06:24+00'
+  template: aspx
+  sha256: 987891c401681463cf6d1842b93384a2d3452ece12201be8376bf45794a7944a
+render_recovery:
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Momentary_Blink')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Momentary Blink
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Strangling_Soot')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Strangling Soot
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Island')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Island
+  occurrences: 8
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mountain')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mountain
+  occurrences: 11
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Terramorphic_Expanse')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Terramorphic Expanse
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Aetherflame_Wall')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Aetherflame Wall
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Coal_Stoker')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Coal Stoker
+  occurrences: 10
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Coral_Trickster')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Coral Trickster
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Crookclaw_Transmuter')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Crookclaw Transmuter
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Fathom_Seer')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Fathom Seer
+  occurrences: 11
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Flowstone_Channeler')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Flowstone Channeler
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Giant_Oyster')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Giant Oyster
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Greater_Gargadon')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Greater Gargadon
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Slipstream_Serpent')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Slipstream Serpent
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Spiketail_Drakeling')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Spiketail Drakeling
+  occurrences: 16
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Tolarian_Sentinel')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Tolarian Sentinel
+  occurrences: 8
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Viscerid_Deepwalker')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Viscerid Deepwalker
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Cancel')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Cancel
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Chromatic_Star')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Chromatic Star
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Orcish_Cannonade')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Orcish Cannonade
+  occurrences: 10
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Prismatic_Lens')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Prismatic Lens
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Snapback')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Snapback
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Spell_Burst')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Spell Burst
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sudden_Shock')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sudden Shock
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sulfurous_Blast')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sulfurous Blast
+  occurrences: 9
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Forest')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Forest
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Plains')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Plains
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Bogardan_Rager')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Bogardan Rager
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Clockwork_Hydra')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Clockwork Hydra
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Durkwood_Baloth')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Durkwood Baloth
+  occurrences: 8
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Flamecore_Elemental')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Flamecore Elemental
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Goblin_Skycutter')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Goblin Skycutter
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Havenwood_Wurm')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Havenwood Wurm
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Keldon_Halberdier')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Keldon Halberdier
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Scarwood_Treefolk')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Scarwood Treefolk
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Thick-Skinned_Goblin')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Thick-Skinned Goblin
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Wormwood_Dryad')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Wormwood Dryad
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Fiery_Justice')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Fiery Justice
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Foriysian_Totem')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Foriysian Totem
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Grapeshot')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Grapeshot
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Search_for_Tomorrow')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Search for Tomorrow
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Stonewood_Invocation')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Stonewood Invocation
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Temporal_Isolation')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Temporal Isolation
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Weatherseed_Totem')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Weatherseed Totem
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Word_of_Seizing')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Word of Seizing
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Swamp')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Swamp
+  occurrences: 8
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Basal_Sliver')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Basal Sliver
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Corpulent_Corpse')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Corpulent Corpse
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Cyclopean_Giant')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Cyclopean Giant
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Faceless_Butcher')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Faceless Butcher
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Faceless_Devourer')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Faceless Devourer
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Ghostflame_Sliver')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Ghostflame Sliver
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Gorgon_Recluse')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Gorgon Recluse
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mana_Skimmer')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mana Skimmer
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Pardic_Dragon')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Pardic Dragon
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Pit_Keeper')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Pit Keeper
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sedge_Sliver')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sedge Sliver
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Subterranean_Shambler')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Subterranean Shambler
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Urborg_Syphon-Mage')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Urborg Syphon-Mage
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Viscid_Lemures')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Viscid Lemures
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Lightning_Axe')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Lightning Axe
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Tendrils_of_Corruption')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Tendrils of Corruption
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Undying_Rage')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Undying Rage
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Calciform_Pools')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Calciform Pools
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Amrou_Scout')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Amrou Scout
+  occurrences: 9
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Amrou_Seekers')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Amrou Seekers
+  occurrences: 8
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Benalish_Cavalry')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Benalish Cavalry
+  occurrences: 9
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Castle_Raptors')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Castle Raptors
+  occurrences: 8
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Celestial_Crusader')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Celestial Crusader
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Errant_Doomsayers')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Errant Doomsayers
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Errant_Ephemeron')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Errant Ephemeron
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Essence_Sliver')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Essence Sliver
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Ghost_Ship')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Ghost Ship
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Outrider_en-Kor')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Outrider en-Kor
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Riftwing_Cloudskate')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Riftwing Cloudskate
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sprite_Noble')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sprite Noble
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Stuffy_Doll')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Stuffy Doll
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Zealot_il-Vec')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Zealot il-Vec
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Griffin_Guide')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Griffin Guide
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Pentarch_Ward')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Pentarch Ward
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Teferi[s_Moat')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Teferi's Moat
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Temporal_Eddy')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Temporal Eddy
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Think_Twice')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Think Twice
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Walk_the_Aeons')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Walk the Aeons
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Gemstone_Mine')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Gemstone Mine
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Molten_Slagheap')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Molten Slagheap
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Cloudchaser_Kestrel')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Cloudchaser Kestrel
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('D[Avenant_Healer')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - D'Avenant Healer
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Duskrider_Peregrine')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Duskrider Peregrine
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Flickering_Spirit')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Flickering Spirit
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Gustcloak_Cavalier')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Gustcloak Cavalier
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Ivory_Giant')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Ivory Giant
+  occurrences: 9
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mangara_of_Corondor')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mangara of Corondor
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Trespasser_il-Vec')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Trespasser il-Vec
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Gaze_of_Justice')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Gaze of Justice
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Rift_Bolt')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Rift Bolt
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Saltcrusted_Steppe')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Saltcrusted Steppe
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Ashcoat_Bear')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Ashcoat Bear
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Durkwood_Tracker')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Durkwood Tracker
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Gemhide_Sliver')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Gemhide Sliver
+  occurrences: 10
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Greenseeker')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Greenseeker
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Hunting_Moa')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Hunting Moa
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Magus_of_the_Mirror')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Magus of the Mirror
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mystic_Enforcer')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mystic Enforcer
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Nantuko_Shaman')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Nantuko Shaman
+  occurrences: 10
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Nightshade_Assassin')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Nightshade Assassin
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Soul_Collector')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Soul Collector
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sporesower_Thallid')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sporesower Thallid
+  occurrences: 8
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Triskelavus')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Triskelavus
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Undertaker')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Undertaker
+  occurrences: 11
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Wall_of_Roots')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Wall of Roots
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Assassinate')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Assassinate
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Dark_Withering')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Dark Withering
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Feebleness')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Feebleness
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Bonesplitter_Sliver')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Bonesplitter Sliver
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Fortune_Thief')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Fortune Thief
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Might_Sliver')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Might Sliver
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Pendelhaven_Elder')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Pendelhaven Elder
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Savage_Thallid')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Savage Thallid
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Spinneret_Sliver')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Spinneret Sliver
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Thallid_Germinator')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Thallid Germinator
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Thallid_Shell-Dweller')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Thallid Shell-Dweller
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Two-Headed_Sliver')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Two-Headed Sliver
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Yavimaya_Dryad')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Yavimaya Dryad
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Empty_the_Warrens')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Empty the Warrens
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sprout')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sprout
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Strength_in_Numbers')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Strength in Numbers
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Vesuva')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Vesuva
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Evil_Eye_of_Urborg')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Evil Eye of Urborg
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Herd_Gnarr')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Herd Gnarr
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Krosan_Cloudscraper')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Krosan Cloudscraper
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Spitting_Slug')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Spitting Slug
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Teferi,_Mage_of_Zhalfir')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Teferi, Mage of Zhalfir
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Verdeloth_the_Ancient')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Verdeloth the Ancient
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Eternity_Snare')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Eternity Snare
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Verdant_Embrace')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Verdant Embrace
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Thallid')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Thallid
+  occurrences: 10
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Spectral_Force')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Spectral Force
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Stormbind')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Stormbind
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Telekinetic_Sliver')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Telekinetic Sliver
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Might_of_Old_Krosa')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Might of Old Krosa
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Thrill_of_the_Hunt')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Thrill of the Hunt
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Venser[s_Sliver')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Venser's Sliver
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Plated_Pegasus')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Plated Pegasus
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Dementia_Sliver')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Dementia Sliver
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Jhoira[s_Timebug')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Jhoira's Timebug
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Craw_Giant')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Craw Giant
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Ironclaw_Buzzardiers')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Ironclaw Buzzardiers
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Vampiric_Sliver')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Vampiric Sliver
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Psychotic_Episode')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Psychotic Episode
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Ignite_Memories')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Ignite Memories
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Foriysian_Interceptor')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Foriysian Interceptor
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mindstab')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mindstab
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mogg_War_Marshal')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mogg War Marshal
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Fungus_Sliver')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Fungus Sliver
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Firewake_Sliver')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Firewake Sliver
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mystical_Teachings')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mystical Teachings
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Jedit[s_Dragoons')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Jedit's Dragoons
+  occurrences: 1
+---
+![](https://i.ormos.uk/4c/f1/4cf1df45ceac3423bc69ac5926757c5b84a2346fd3ba7fe64c52dc99488f3eb7.jpg)
+
+GP Athens is over! Sebastian Aljiaj from Germany bested the high-profile competition in the 470 players strong field. He triumphed over stars of the game such as Player of the Year Kenji Tsumura, Hall-of-Famer Tommi Hovi and France's original joker Antoine Ruel. While Shuuhei Nakamura picked up another point in the Player of the Year race and Antoine added his 15th GP Top 8 to his already impressive resume, winner Sebastian Aljiaj used the tournament to cement his lead in the Rookie of the Year race.
+
+While the coverage staff was plagued by technical problems and the lack of a working internet connection, the players in the Greek capital showed off some high-quality **Magic** in **Time Spiral** Limited. Blue is by far the favorite color, harking back to the old days. But speedy and aggressive white- or green-based strategies have also been employed by some players with great success: Runner-up Vincent Lemoine from Belgium, for example, had his white-blue weenie deck carry him to a second place.
+
+While players discovered new and nifty tricks (especially with Momentary Blink) over the weekend, *Time Spiral* Limited can be summed up by the spot-on comment from Craig Jones: "This format is *fast*." Be sure to pack the cheap red and black removal, because those critters are coming for you! Take your time to read Frank Karsten's draft reports in the coverage here on magicthegathering.com or hear Pierre Canali or Arnost Zidek give their opinions over at moxradio.co.uk. We're signing off from the Olympic city, and make sure to always splash your Strangling Soot!
+
+  
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;    </td><td>Quarterfinals </td>&#10;    <td> </td>&#10;    <td>Semifinals </td>&#10;    <td> </td>&#10;    <td>Finals </td>&#10;    <td> </td>&#10;    <td>Champion </td>&#10;  </tr>&#10;  <tr>&#10;    <td>1</td>&#10;    <td>&#10;      Aaron Brackmann&#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Vincent Lemoine, 2-0&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3"> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>8</td>&#10;    <td>&#10;      Vincent Lemoine&#10;    </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3">&#10;      Vincent Lemoine, 2-0&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>4</td>&#10;    <td>&#10;      Evangelos Papatsarouchas&#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Marcio Carvalho, 2-1&#10;    </td>&#10;    <td rowspan="5"> </td>&#10;    <td rowspan="5">&#10;      Sebastian Aljiaj, 2-0&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>5</td>&#10;    <td>&#10;      Marcio Carvalho&#10;    </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3"> </td>&#10;  </tr>&#10;  <tr>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>2</td>&#10;    <td>&#10;      Sebastian Aljiaj&#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Sebastian Aljiaj, 2-0&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>7</td>&#10;    <td>&#10;      Antoine Ruel&#10;    </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3">&#10;      Sebastian Aljiaj, 2-0&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>3</td>&#10;    <td>&#10;      David Brucker&#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Guillaume Wafo-tapa, 2-0&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>6</td>&#10;    <td>&#10;      Guillaume Wafo-tapa&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;</tbody></table>
+
+  
+  
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <b>EVENT COVERAGE</b>&#10;    </td>&#10;    <td>&#10;      <b>FINAL TOP 8 STANDINGS</b>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <ul>&#10;        <br>&#10;        <li>&#10;          <a href="#12">Blog - 11:39 p.m.</a> - Climbing The Olymp<div><i>by Hanno Terbuyken</i></div></li>&#10;        <li>&#10;          <a href="#11">Blog - 11:22 p.m.</a> - Finals: Sebastian Aljiaj vs. Vincent Lemoine<div><i>by Hanno Terbuyken</i></div></li>&#10;        <li>&#10;          <a href="#10">Blog - 10:41 p.m.</a> - Semifinals: Guillaume Wafo-Tapa vs. Sebastian Aljiaj<div><i>by Hanno Terbuyken</i></div></li>&#10;        <li>&#10;          <a href="#9">Blog - 10:20 p.m.</a> - Semifinals: Vincent Lemoine vs. Marcio Carvalho<div><i>by Gijsbert Hoogendijk</i></div></li>&#10;        <li>&#10;          <a href="#4">Blog - 9:09 p.m.</a> - Quarterfinals: David Brucker vs. Guillaume Wafo-Tapa<div><i>by Frank Karsten</i></div></li>&#10;        <li>&#10;          <a href="#3">Blog - 8:51 p.m.</a> - Quarterfinals: Antoine Ruel vs. Sebastian Aljiaj<div><i>by Frank Karsten</i></div></li>&#10;        <li>&#10;          <a href="#2">Blog - 8:33 p.m.</a> - Quarterfinals: Marcio Carvalho vs. Evangelos Papatsarouchas<div><i>by Hanno Terbuyken</i></div></li>&#10;        <li>&#10;          <a href="#1">Blog - 8:19 p.m.</a> - Quarterfinals: Aaron Brackman vs. Vincent Lemoine<div><i>by Craig Jones</i></div></li>&#10;        <li>&#10;          <a href="#5">Blog - 8:18 p.m.</a> - Top 8 Draft With Antoine Ruel<div><i>by Frank Karsten</i></div></li>&#10;        <li>&#10;          <a href="#6">Blog - 8:17 p.m.</a> - Top 8 Draft with Sebastian Aljiaj<div><i>by Maximilian Bracht</i></div></li>&#10;        <li>&#10;          <a href="#7">Blog - 8:16 p.m.</a> - Top 8 Profiles<div><i>by Staff</i></div></li>&#10;        <li>&#10;          <a href="#8">Blog - 8:15 p.m.</a> - Top 8 Decklists<div><i>by Staff</i></div></li>&#10;        <br>&#10;        <hr>&#10;        <br>&#10;        <li>&#10;          <a href="/en/events/2007/gpath06/grand-prix-athens-pro-players-blog-featuring-craig-jones">Pro Players Blog</a>: Follow a Pro as he Tries to Win It All!<div><i>by Craig Jones</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2007/gpath06/day-2-blog-archive">Day 2 Blog Archive</a>: Feature Matches, Draft Reports, Race For Points, and More!<div><i>by Hanno Terbuyken &amp; Staff</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2007/gpath06/day-2-player-list">Info</a>: Day 2 Player List<div><i>by Event Coverage Staff</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2007/gpath06/day-2-country-breakdown">Info</a>: Day 2 Country Breakdown<div><i>by Event Coverage Staff</i></div></li>&#10;        <br>&#10;        <hr>&#10;        <br>&#10;        <li>&#10;          <a href="/en/events/2007/gpath06/day-1-blog-archive">Day 1 Blog Archive</a>: Feature Matches, Floor Stories, Quick Questions, Draft Coverage, a Hall-of-Famer and More!<div><i>by Hanno Terbuyken</i></div></li>&#10;        <li>&#10;          <a href="/it/events/2007/gpath06/day-1-player-list">Info</a>: Day 1 Player List<div><i>by Event Coverage Staff</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2007/gpath06/day-1-country-breakdown">Info</a>: Day 1 Country Breakdown<div><i>by Event Coverage Staff</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2006/athens06/tournament-information-side-events-entertainment-travel-information-contact">Info</a>: Fact Sheet<div><i>by Event Coverage Staff</i></div></li>&#10;      </ul>&#10;    </td>&#10;    <td colspan="2">&#10;      &#10;      <table>&#10;        <tbody><tr>&#10;          <td> 1.  <b>Sebastian Aljiaj</b></td>&#10;          <td>$2,400</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 2.  <b>Vincent Lemoine</b></td>&#10;          <td>$1,700</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 3.  <b>Marcio Carvalho</b></td>&#10;          <td>$1,200</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 4.  <b>Guillaume Wafo-Tapa</b></td>&#10;          <td>$1,000</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 5.  <b>David Brucker</b></td>&#10;          <td>$800</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 6.  <b>Antoine Ruel</b></td>&#10;          <td>$800</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 7.  <b>Evangelos Papatsarouchas</b></td>&#10;          <td>$800</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 8.  <b>Aaron Brackmann</b></td>&#10;          <td>$800</td>&#10;        </tr>&#10;      </tbody></table>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <b>Pairings</b>&#10;          </td>&#10;          <td>&#10;            <b>Results</b>&#10;          </td>&#10;          <td>&#10;            <b>Standings</b>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;          </td><td>&#10;          </td><td>&#10;            <a href="/it/events/2007/gpath06/final-standings">Final</a>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            <a href="/es/events/2007/gpath06/round-14-pairings">14</a>&#10;            <br>&#10;            <a href="/it/events/2007/gpath06/round-13-pairings">13</a>&#10;            <br>&#10;            <a href="/it/events/2007/gpath06/round-12-pairings">12</a>&#10;            <br>&#10;            <a href="/it/events/2007/gpath06/round-11-pairings">11</a>&#10;            <br>&#10;            <a href="/it/events/2007/gpath06/round-10-pairings">10</a>&#10;            <br>&#10;            <a href="/it/events/2007/gpath06/round-9-pairings">9</a>&#10;          </td>&#10;          <td>&#10;            <a href="/nob/events/2007/gpath06/round-14-results">14</a>&#10;            <br>&#10;            <a href="/nob/events/2007/gpath06/round-13-results">13</a>&#10;            <br>&#10;            <a href="/it/events/2007/gpath06/round-12-results">12</a>&#10;            <br>&#10;            <a href="/it/events/2007/gpath06/round-11-results">11</a>&#10;            <br>&#10;            <a href="/it/events/2007/gpath06/round-10-results">10</a>&#10;            <br>&#10;            <a href="/it/events/2007/gpath06/round-9-results">9</a>&#10;          </td>&#10;          <td>&#10;            <a href="/it/events/2007/gpath06/round-14-standings">14</a>&#10;            <br>&#10;            <a href="/it/events/2007/gpath06/round-13-standings">13</a>&#10;            <br>&#10;            <a href="/it/events/2007/gpath06/round-12-standings">12</a>&#10;            <br>&#10;            <a href="/it/events/2007/gpath06/round-11-standings">11</a>&#10;            <br>&#10;            <a href="/it/events/2007/gpath06/round-10-standings">10</a>&#10;            <br>&#10;            <a href="/it/events/2007/gpath06/round-9-standings">9</a>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            <a href="/it/events/2007/gpath06/round-8-pairings">8</a>&#10;            <br>&#10;            <a href="/jav/events/2007/gpath06/round-7-pairings">7</a>&#10;            <br>&#10;            <a href="/it/events/2007/gpath06/round-6-pairings">6</a>&#10;            <br>&#10;            <a href="/uzb/events/2007/gpath06/round-5-pairings">5</a>&#10;            <br>&#10;            <a href="/it/events/2007/gpath06/round-4-pairings">4</a>&#10;            <br>&#10;            <a href="/it/events/2007/gpath06/round-3-pairings">3</a>&#10;            <br>&#10;            <a href="/it/events/2007/gpath06/round-2-pairings">2</a>&#10;            <br>&#10;            <a href="/jav/events/2007/gpath06/round-1-pairings">1</a>&#10;          </td>&#10;          <td>&#10;            <a href="/it/events/2007/gpath06/round-8-results">8</a>&#10;            <br>&#10;            <a href="/it/events/2007/gpath06/round-7-results">7</a>&#10;            <br>&#10;            <a href="/jav/events/2007/gpath06/round-6-results">6</a>&#10;            <br>&#10;            <a href="/jav/events/2007/gpath06/round-5-results">5</a>&#10;            <br>&#10;            <a href="/es/events/2007/gpath06/round-4-results">4</a>&#10;            <br>&#10;            <a href="/es/events/2007/gpath06/round-3-results">3</a>&#10;            <br>&#10;            <a href="/jav/events/2007/gpath06/round-2-results">2</a>&#10;            <br>&#10;            <a href="/jav/events/2007/gpath06/round-1-results">1</a>&#10;          </td>&#10;          <td>&#10;            <a href="/it/events/2007/gpath06/round-8-standings">8</a>&#10;            <br>&#10;            <a href="/it/events/2007/gpath06/round-7-standings">7</a>&#10;            <br>&#10;            <a href="/it/events/2007/gpath06/round-6-standings">6</a>&#10;            <br>&#10;            <a href="/it/events/2007/gpath06/round-5-standings">5</a>&#10;            <br>&#10;            <a href="/it/events/2007/gpath06/round-4-standings">4</a>&#10;            <br>&#10;            <a href="/it/events/2007/gpath06/round-3-standings">3</a>&#10;            <br>&#10;            <a href="/it/events/2007/gpath06/round-2-standings">2</a>&#10;            <br>&#10;            <a href="/it/events/2007/gpath06/round-1-standings">1</a>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <br>&#10;      <br>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <a href="http://www.moxradio.co.uk/premier-events.php">&#10;              <img src="https://i.ormos.uk/66/2a/662ad5a031e8842c0f4095d0897db5a11f5f1bf3fff66b3af5c25b245e6580f0.gif">&#10;            </a>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;    </td>&#10;  </tr>&#10;</tbody></table>
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <b>BLOG</b>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <br>&#10;      <br>&#10;      <a name="8">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, Oct 15: 8:15 p.m. - Top 8 Decklists</b>&#10;        <div>&#10;          <i>by Staff</i>&#10;        </div>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Sebastian Aljiaj&#10;              </div>&#10;              <div>GP Athens Top 8 draft</div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090604080624/https://www.wizards.com/magic/samplehand.asp?x=mtgevent_gpath06_welcome&amp;decknum=1">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td colspan="3">&#10;                  <p>Main Deck</p>&#10;                  <p>40 cards&#10;                    </p>&#10;                </td>&#10;              </tr>&#10;              <tr>&#10;                <td>9 &#10;                      <a>Island</a><br>7 &#10;                      <a>Mountain</a><br>2 &#10;                      <a>Terramorphic Expanse</a><br><hr>18 lands</td>&#10;                <td>1 &#10;                      <a>Aetherflame Wall</a><br>1 &#10;                      <a>Coal Stoker</a><br>1 &#10;                      <a>Coral Trickster</a><br>1 &#10;                      <a>Crookclaw Transmuter</a><br>3 &#10;                      <a>Fathom Seer</a><br>1 &#10;                      <a>Flowstone Channeler</a><br>1 &#10;                      <a>Giant Oyster</a><br>1 &#10;                      <a>Greater Gargadon</a><br>1 &#10;                      <a>Slipstream Serpent</a><br>1 &#10;                      <a>Spiketail Drakeling</a><br>1 &#10;                      <a>Tolarian Sentinel</a><br>1 &#10;                      <a>Viscerid Deepwalker</a><br><hr>14 creatures</td>&#10;                <td>1 &#10;                      <a>Cancel</a><br>1 &#10;                      <a>Chromatic Star</a><br>1 &#10;                      <a>Orcish Cannonade</a><br>1 &#10;                      <a>Prismatic Lens</a><br>1 &#10;                      <a>Snapback</a><br>1 &#10;                      <a>Spell Burst</a><br>1 &#10;                      <a>Sudden Shock</a><br>1 &#10;                      <a>Sulfurous Blast</a><br><hr>8 other spells</td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Aaron Brackmann&#10;              </div>&#10;              <div>GP Athens Top 8 draft</div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090604080624/https://www.wizards.com/magic/samplehand.asp?x=mtgevent_gpath06_welcome&amp;decknum=2">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td colspan="3">&#10;                  <p>Main Deck</p>&#10;                  <p>40 cards&#10;                    </p>&#10;                </td>&#10;              </tr>&#10;              <tr>&#10;                <td>8 &#10;                      <a>Forest</a><br>8 &#10;                      <a>Mountain</a><br>1 &#10;                      <a>Plains</a><br><hr>17 lands</td>&#10;                <td>1 &#10;                      <a>Bogardan Rager</a><br>1 &#10;                      <a>Clockwork Hydra</a><br>1 &#10;                      <a>Durkwood Baloth</a><br>1 &#10;                      <a>Flamecore Elemental</a><br>1 &#10;                      <a>Goblin Skycutter</a><br>1 &#10;                      <a>Havenwood Wurm</a><br>1 &#10;                      <a>Keldon Halberdier</a><br>2 &#10;                      <a>Scarwood Treefolk</a><br>1 &#10;                      <a>Thick-Skinned Goblin</a><br>1 &#10;                      <a>Wormwood Dryad</a><br><hr>11 creatures</td>&#10;                <td>1 &#10;                      <a>Fiery Justice</a><br>1 &#10;                      <a>Foriysian Totem</a><br>1 &#10;                      <a>Grapeshot</a><br>2 &#10;                      <a>Orcish Cannonade</a><br>2 &#10;                      <a>Search for Tomorrow</a><br>1 &#10;                      <a>Stonewood Invocation</a><br>1 &#10;                      <a>Sudden Shock</a><br>1 &#10;                      <a>Temporal Isolation</a><br>1 &#10;                      <a>Weatherseed Totem</a><br>1 &#10;                      <a>Word of Seizing</a><br><hr>12 other spells</td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Evangelos Papatsarouchas&#10;              </div>&#10;              <div>GP Athens Top 8 draft</div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090604080624/https://www.wizards.com/magic/samplehand.asp?x=mtgevent_gpath06_welcome&amp;decknum=3">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td colspan="3">&#10;                  <p>Main Deck</p>&#10;                  <p>40 cards&#10;                    </p>&#10;                </td>&#10;              </tr>&#10;              <tr>&#10;                <td>8 &#10;                      <a>Mountain</a><br>9 &#10;                      <a>Swamp</a><br><hr>17 lands</td>&#10;                <td>1 &#10;                      <a>Basal Sliver</a><br>1 &#10;                      <a>Corpulent Corpse</a><br>1 &#10;                      <a>Cyclopean Giant</a><br>1 &#10;                      <a>Faceless Butcher</a><br>1 &#10;                      <a>Faceless Devourer</a><br>1 &#10;                      <a>Flowstone Channeler</a><br>1 &#10;                      <a>Ghostflame Sliver</a><br>1 &#10;                      <a>Goblin Skycutter</a><br>2 &#10;                      <a>Gorgon Recluse</a><br>2 &#10;                      <a>Mana Skimmer</a><br>1 &#10;                      <a>Pardic Dragon</a><br>1 &#10;                      <a>Pit Keeper</a><br>1 &#10;                      <a>Sedge Sliver</a><br>1 &#10;                      <a>Subterranean Shambler</a><br>2 &#10;                      <a>Urborg Syphon-Mage</a><br>1 &#10;                      <a>Viscid Lemures</a><br><hr>19 creatures</td>&#10;                <td>1 &#10;                      <a>Lightning Axe</a><br>1 &#10;                      <a>Orcish Cannonade</a><br>1 &#10;                      <a>Tendrils of Corruption</a><br>1 &#10;                      <a>Undying Rage</a><br><hr>4 other spells</td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Guillaume Wafo-Tapa &#10;              </div>&#10;              <div>GP Athens Top 8 draft</div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090604080624/https://www.wizards.com/magic/samplehand.asp?x=mtgevent_gpath06_welcome&amp;decknum=4">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td colspan="3">&#10;                  <p>Main Deck</p>&#10;                  <p>40 cards&#10;                    </p>&#10;                </td>&#10;              </tr>&#10;              <tr>&#10;                <td>1 &#10;                      <a>Calciform Pools</a><br>8 &#10;                      <a>Island</a><br>8 &#10;                      <a>Plains</a><br><hr>17 lands</td>&#10;                <td>1 &#10;                      <a>Amrou Scout</a><br>1 &#10;                      <a>Amrou Seekers</a><br>1 &#10;                      <a>Benalish Cavalry</a><br>2 &#10;                      <a>Castle Raptors</a><br>1 &#10;                      <a>Celestial Crusader</a><br>2 &#10;                      <a>Errant Doomsayers</a><br>1 &#10;                      <a>Errant Ephemeron</a><br>1 &#10;                      <a>Essence Sliver</a><br>1 &#10;                      <a>Ghost Ship</a><br>1 &#10;                      <a>Outrider en-Kor</a><br>1 &#10;                      <a>Riftwing Cloudskate</a><br>1 &#10;                      <a>Sprite Noble</a><br>1 &#10;                      <a>Stuffy Doll</a><br>1 &#10;                      <a>Zealot il-Vec</a><br><hr>16 creatures</td>&#10;                <td>1 &#10;                      <a>Griffin Guide</a><br>1 &#10;                      <a>Momentary Blink</a><br>1 &#10;                      <a>Pentarch Ward</a><br>1 &#10;                      <a>Teferi's Moat</a><br>1 &#10;                      <a>Temporal Eddy</a><br>1 &#10;                      <a>Think Twice</a><br>1 &#10;                      <a>Walk the Aeons</a><br><hr>7 other spells</td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Vincent Lemoine&#10;              </div>&#10;              <div>GP Athens Top 8 draft</div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090604080624/https://www.wizards.com/magic/samplehand.asp?x=mtgevent_gpath06_welcome&amp;decknum=5">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td colspan="3">&#10;                  <p>Main Deck</p>&#10;                  <p>40 cards&#10;                    </p>&#10;                </td>&#10;              </tr>&#10;              <tr>&#10;                <td>1 &#10;                      <a>Gemstone Mine</a><br>1 &#10;                      <a>Molten Slagheap</a><br>1 &#10;                      <a>Mountain</a><br>11 &#10;                      <a>Plains</a><br>2 &#10;                      <a>Swamp</a><br>1 &#10;                      <a>Terramorphic Expanse</a><br><hr>17 lands</td>&#10;                <td>2 &#10;                      <a>Amrou Scout</a><br>1 &#10;                      <a>Amrou Seekers</a><br>2 &#10;                      <a>Benalish Cavalry</a><br>1 &#10;                      <a>Castle Raptors</a><br>3 &#10;                      <a>Cloudchaser Kestrel</a><br>1 &#10;                      <a>D'Avenant Healer</a><br>1 &#10;                      <a>Duskrider Peregrine</a><br>1 &#10;                      <a>Flickering Spirit</a><br>1 &#10;                      <a>Gustcloak Cavalier</a><br>1 &#10;                      <a>Ivory Giant</a><br>1 &#10;                      <a>Mangara of Corondor</a><br>1 &#10;                      <a>Outrider en-Kor</a><br>1 &#10;                      <a>Trespasser il-Vec</a><br><hr>17 creatures</td>&#10;                <td>1 &#10;                      <a>Gaze of Justice</a><br>1 &#10;                      <a>Momentary Blink</a><br>1 &#10;                      <a>Pentarch Ward</a><br>1 &#10;                      <a>Rift Bolt</a><br>1 &#10;                      <a>Strangling Soot</a><br>1 &#10;                      <a>Temporal Isolation</a><br><hr>6 other spells</td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Marcio Carvalho&#10;              </div>&#10;              <div>GP Athens Top 8 draft</div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090604080624/https://www.wizards.com/magic/samplehand.asp?x=mtgevent_gpath06_welcome&amp;decknum=6">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td colspan="3">&#10;                  <p>Main Deck</p>&#10;                  <p>40 cards&#10;                    </p>&#10;                </td>&#10;              </tr>&#10;              <tr>&#10;                <td>6 &#10;                      <a>Forest</a><br>1 &#10;                      <a>Plains</a><br>1 &#10;                      <a>Saltcrusted Steppe</a><br>8 &#10;                      <a>Swamp</a><br><hr>16 lands</td>&#10;                <td>1 &#10;                      <a>Ashcoat Bear</a><br>1 &#10;                      <a>Corpulent Corpse</a><br>1 &#10;                      <a>Durkwood Tracker</a><br>1 &#10;                      <a>Faceless Devourer</a><br>1 &#10;                      <a>Gemhide Sliver</a><br>1 &#10;                      <a>Greenseeker</a><br>1 &#10;                      <a>Hunting Moa</a><br>1 &#10;                      <a>Magus of the Mirror</a><br>1 &#10;                      <a>Mystic Enforcer</a><br>1 &#10;                      <a>Nantuko Shaman</a><br>1 &#10;                      <a>Nightshade Assassin</a><br>1 &#10;                      <a>Pit Keeper</a><br>1 &#10;                      <a>Scarwood Treefolk</a><br>1 &#10;                      <a>Soul Collector</a><br>1 &#10;                      <a>Sporesower Thallid</a><br>1 &#10;                      <a>Triskelavus</a><br>1 &#10;                      <a>Undertaker</a><br>1 &#10;                      <a>Wall of Roots</a><br><hr>18 creatures</td>&#10;                <td>3 &#10;                      <a>Assassinate</a><br>1 &#10;                      <a>Dark Withering</a><br>1 &#10;                      <a>Feebleness</a><br>1 &#10;                      <a>Weatherseed Totem</a><br><hr>6 other spells</td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Antoine Ruel&#10;              </div>&#10;              <div>GP Athens Top 8 draft</div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090604080624/https://www.wizards.com/magic/samplehand.asp?x=mtgevent_gpath06_welcome&amp;decknum=7">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td colspan="3">&#10;                  <p>Main Deck</p>&#10;                  <p>40 cards&#10;                    </p>&#10;                </td>&#10;              </tr>&#10;              <tr>&#10;                <td>10 &#10;                      <a>Forest</a><br>7 &#10;                      <a>Mountain</a><br><hr>17 lands</td>&#10;                <td>1 &#10;                      <a>Bonesplitter Sliver</a><br>1 &#10;                      <a>Durkwood Baloth</a><br>1 &#10;                      <a>Fortune Thief</a><br>2 &#10;                      <a>Gemhide Sliver</a><br>1 &#10;                      <a>Keldon Halberdier</a><br>2 &#10;                      <a>Might Sliver</a><br>1 &#10;                      <a>Pendelhaven Elder</a><br>1 &#10;                      <a>Savage Thallid</a><br>1 &#10;                      <a>Spinneret Sliver</a><br>1 &#10;                      <a>Sporesower Thallid</a><br>2 &#10;                      <a>Thallid Germinator</a><br>1 &#10;                      <a>Thallid Shell-Dweller</a><br>1 &#10;                      <a>Two-Headed Sliver</a><br>1 &#10;                      <a>Yavimaya Dryad</a><br><hr>17 creatures</td>&#10;                <td>1 &#10;                      <a>Empty the Warrens</a><br>1 &#10;                      <a>Grapeshot</a><br>1 &#10;                      <a>Lightning Axe</a><br>1 &#10;                      <a>Sprout</a><br>2 &#10;                      <a>Strength in Numbers</a><br><hr>6 other spells</td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                David Brucker&#10;              </div>&#10;              <div>GP Athens Top 8 draft</div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090604080624/https://www.wizards.com/magic/samplehand.asp?x=mtgevent_gpath06_welcome&amp;decknum=8">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td colspan="3">&#10;                  <p>Main Deck</p>&#10;                  <p>40 cards&#10;                    </p>&#10;                </td>&#10;              </tr>&#10;              <tr>&#10;                <td>7 &#10;                      <a>Forest</a><br>7 &#10;                      <a>Island</a><br>1 &#10;                      <a>Molten Slagheap</a><br>3 &#10;                      <a>Swamp</a><br>1 &#10;                      <a>Vesuva</a><br><hr>19 lands</td>&#10;                <td>1 &#10;                      <a>Durkwood Baloth</a><br>1 &#10;                      <a>Errant Ephemeron</a><br>1 &#10;                      <a>Evil Eye of Urborg</a><br>1 &#10;                      <a>Herd Gnarr</a><br>1 &#10;                      <a>Krosan Cloudscraper</a><br>2 &#10;                      <a>Nantuko Shaman</a><br>1 &#10;                      <a>Riftwing Cloudskate</a><br>1 &#10;                      <a>Slipstream Serpent</a><br>2 &#10;                      <a>Spiketail Drakeling</a><br>1 &#10;                      <a>Spitting Slug</a><br>1 &#10;                      <a>Teferi, Mage of Zhalfir</a><br>1 &#10;                      <a>Verdeloth the Ancient</a><br>1 &#10;                      <a>Viscerid Deepwalker</a><br><hr>15 creatures</td>&#10;                <td>1 &#10;                      <a>Eternity Snare</a><br>1 &#10;                      <a>Feebleness</a><br>2 &#10;                      <a>Strangling Soot</a><br>1 &#10;                      <a>Temporal Eddy</a><br>1 &#10;                      <a>Verdant Embrace</a><br><hr>6 other spells</td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <br>&#10;      <br>&#10;      <a name="7">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, Oct 15: 8:16 p.m. - Top 8 Profiles</b>&#10;        <div>&#10;          <i>by Staff</i>&#10;        </div>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <img src="https://i.ormos.uk/df/9d/df9df883900a65ae555c4e325f04d962a85a465db3d83b45dc4b21c0522f82c0.jpg">&#10;      <p>Name: Aaron Brackmann<br> Age: 22<br> Hometown: Frankfurt, Germany<br> Occupation: Magic Player<br> The Plan: &quot;If green is underdrafted, I'd take it. You can play everything with it. I prepared together with the other German level 3+ pros. We spent two weeks together, drafting every day, basically figuring out the format.&quot; Aaron also started off 0-2 into the day, but all worries fell off when he won his first match: &quot;As I won my third round, I knew that by the end of the year I would be a level 4 player. So I had no pressure to be successful here, and that's one reason I made top 8!&quot;</p>&#10;      <br>&#10;      <hr>&#10;      <br>&#10;      <img src="https://i.ormos.uk/d3/10/d310e3e5a5f4791088e274bb98204d8fd7805d3e770fcbafee5b721a1efde79d.jpg">&#10;      <p>Name: Antoine Ruel<br> Age: 26<br> Hometown: Montpellier, France<br> Occupation: Magic Player<br> The Plan: &quot;I like blue, but also red and white. Blue is my favorite, though! I also like Slivers, <a>Thallid</a>s, basically anything I open. I can also waste a first-pick and switch colors later, because there are so many playables. Win the GP? I hope so! I'll try not to do stupid things in the Top 8 this time.&quot;</p>&#10;      <br>&#10;      <hr>&#10;      <br>&#10;      <img src="https://i.ormos.uk/89/d7/89d75c9975e234191a75258848e6e7e873817e1f2ebedaec79163343d429075e.jpg">&#10;      <p>Name: David Brucker<br> Age: 24<br> Hometown: München, Germany<br> Occupation: Student<br> The Plan: &quot;I don't like to draft green unless nobody else takes it. Then I'll always take it. I like to draft white-red or blue-red, but in this format you have to adapt to the rares, because there are so many. I trust myself to do well at PT Kobe, but I will not test for Worlds. I usually don't play Constructed, and it's also in the middle of the semester.&quot;</p>&#10;      <br>&#10;      <hr>&#10;      <br>&#10;      <img src="https://i.ormos.uk/6b/c9/6bc9107567916426205d036acfee6664a7bbee76aee2f50b672ecdbef14250bf.jpg">&#10;      <p>Name: Evangelos Papatsarouchas<br> Age: 26<br> Hometown: Athens, Greece<br> Occupation: Network administrator<br> The Plan: &quot;I don't really have a plan. Blue, maybe. I'll be happy if I get clear picks like first pick Looter, second pick <a>Tendrils of Corruption</a>, but it hasn't happened much today. The packs were pretty dry.&quot;</p>&#10;      <br>&#10;      <hr>&#10;      <br>&#10;      <img src="https://i.ormos.uk/16/4b/164b73368679e805570e19109801e382a6c9ff4e6fe1e0aefb6597a4025cfc62.jpg">&#10;      <p>Name: Guillaume Wafo-Tapa<br> Age: 25<br> Hometown: St. Nazaire, France<br> Occupation: Magic Player at the moment<br> The Plan: &quot;I take what comes, but I prefer blue/white. If I get that, I am happy.&quot;</p>&#10;      <br>&#10;      <hr>&#10;      <br>&#10;      <img src="https://i.ormos.uk/4c/89/4c89e21b950b857150981ce8ef853460f0828723d29851eee84fd32b98541d87.jpg">&#10;      <p>Name: Marcio Carvalho<br> Age: 21<br> Hometown: Lisboa, Portugal<br> Occupation: Student<br> The Plan: &quot;I like green, with red or black. I have been testing with my friends and I've been drafting the aggressive green deck. The card that clearly pulls me into that is <a>Spectral Force</a>, but my overall Limited favorite for <i>Time Spiral</i> is <a>Stormbind</a>.&quot;</p>&#10;      <br>&#10;      <hr>&#10;      <br>&#10;      <img src="https://i.ormos.uk/b8/9f/b89f54b1b90ba738d683261b1457689ec0a4182efaf94d581d56929a1eee9a3b.jpg">&#10;      <p>Name: Sebastian Thaler -- &quot;My parents married, so my name is actually no longer Aljiaj, even though everybody and the DCI still knows me by that name.&quot;<br> Age: 19<br> Hometown: A little village near Rosenheim, Germany<br> Occupation: Car salesman<br> The Plan: &quot;I was in the German testing group, and out of maybe 15 drafts, I reached the finals every time and won six of the drafts. So yeah, my preparation was pretty good. With blue-black or blue-red, you can always go at least 2-1. I'd like to open <a>Errant Ephemeron</a> so that I know I'm in blue, but if blue is not there, I like to be red-white.&quot;</p>&#10;      <br>&#10;      <hr>&#10;      <br>&#10;      <img src="https://i.ormos.uk/1e/ec/1eecc220db29f8238056c86a40238ec71c2450bbd6b8d8519ef5f7c8eb54c52b.jpg">&#10;      <p>Name: Vincent Lemoine<br> Age: 28<br> Hometown: Brussels, Belgium<br> Occupation: Travel agent<br> The Plan: &quot;If I can, I force blue-white. But you can't really do that heavily, so I'll see what comes. I like white; if blue-white doesn't work, I also like white-green. White's curve is just the best of all colors.&quot;</p>&#10;      <br>&#10;      <br>&#10;      <a name="6">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, Oct 15: 8:17 p.m. - Top 8 Draft with Sebastian Aljiaj</b>&#10;        <div>&#10;          <i>by Maximilian Bracht</i>&#10;        </div>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/4b/99/4b99a9526d20eef322c6942f177dce5eb47e86f7e59e1696988c67e1053529ec.jpg">&#10;            <i>Sebastian (left) and Maximilian Bracht plan on playing Two-Headed-Giant at Pro Tour: San Diego together. Watch out for that team!</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Again Sebastian Aljiaj is one of the players being covered and his first pack just gave him what he loves so much: blue. Nothing special but I think he was fine with first-picking a Fatom Seer over <a>Fiery Justice</a> and <a>Verdant Embrace</a>. Marcio Carvalho, who sat to his right, took <a>Dark Withering</a> as first pick and shipped Sebastian a <a>Crookclaw Transmuter</a>, while Sebastian shipped white over to the Belgian Vincent Lemoine. In the first pack he was passed almost exclusively mono-blue cards like <a>Spiketail Drakeling</a>, <a>Snapback</a>, <a>Coral Trickster</a>, <a>Cancel</a> and one red card, the mighty Aetherwall.</p>&#10;      <p>The booster named B was not that tough with only a Coal Stoaker inside, but in hindsight, that guy seems pretty okay in Sebastian's deck - especially when he recieved a <a>Sudden Shock</a> as second pick and got shipped two more <a>Fathom Seer</a>s. <a>Giant Oyster</a> and <a>Flowstone Channeler</a> managed it into his pool as well.</p>&#10;      <p>A <a>Sulfurous Blast</a> showed up in pack 3 which seemed to be just perfect, as was his second pick: <a>Greater Gargadon</a>. Then he just drafted some cards to complete his deck, like <a>Prismatic Lens</a> and an <a>Orcish Cannonade</a>.</p>&#10;      <p>His deck looked like this:</p>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Sebastian Aljiaj&#10;              </div>&#10;              <div>GP Athens Top 8 draft</div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090604080624/https://www.wizards.com/magic/samplehand.asp?x=mtgevent_gpath06_welcome&amp;decknum=9">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td colspan="3">&#10;                  <p>Main Deck</p>&#10;                  <p>40 cards&#10;                    </p>&#10;                </td>&#10;              </tr>&#10;              <tr>&#10;                <td>9 &#10;                      <a>Island</a><br>7 &#10;                      <a>Mountain</a><br>2 &#10;                      <a>Terramorphic Expanse</a><br><hr>18 lands</td>&#10;                <td>1 &#10;                      <a>Aetherflame Wall</a><br>1 &#10;                      <a>Coal Stoker</a><br>1 &#10;                      <a>Coral Trickster</a><br>1 &#10;                      <a>Crookclaw Transmuter</a><br>3 &#10;                      <a>Fathom Seer</a><br>1 &#10;                      <a>Flowstone Channeler</a><br>1 &#10;                      <a>Giant Oyster</a><br>1 &#10;                      <a>Greater Gargadon</a><br>1 &#10;                      <a>Slipstream Serpent</a><br>1 &#10;                      <a>Spiketail Drakeling</a><br>1 &#10;                      <a>Tolarian Sentinel</a><br>1 &#10;                      <a>Viscerid Deepwalker</a><br><hr>14 creatures</td>&#10;                <td>1 &#10;                      <a>Cancel</a><br>1 &#10;                      <a>Chromatic Star</a><br>1 &#10;                      <a>Orcish Cannonade</a><br>1 &#10;                      <a>Prismatic Lens</a><br>1 &#10;                      <a>Snapback</a><br>1 &#10;                      <a>Spell Burst</a><br>1 &#10;                      <a>Sudden Shock</a><br>1 &#10;                      <a>Sulfurous Blast</a><br><hr>8 other spells</td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <br>&#10;      <a name="5">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, Oct 15: 8:18 p.m. - Top 8 Draft With Antoine Ruel</b>&#10;        <div>&#10;          <i>by Frank Karsten</i>&#10;        </div>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <p>For this draft I chose to sit behind the best known player in the top 8, Antoine Ruel from France. </p>&#10;      <p>&#10;        <b>The first round of boosters</b>&#10;      </p>&#10;      <p>&#10;        <b>Pick 1:</b> Antoine quickly flipped to the back of the booster to see if he got a good Timeshifted or rare card. He looked at <a>Hunting Moa</a> and <a>Stuffy Doll</a>, which are both quite good, but the common <a>Lightning Axe</a> is still better, so that's what he picked.<br><b>Pick 2:</b> The only red card in the booster was <a>Thick-Skinned Goblin</a>, so that was not an option. Antoine had to select a second color. White offered <a>Benalish Cavalry</a> and <a>Essence Sliver</a>, while green offered <a>Nantuko Shaman</a> and <a>Sporesower Thallid</a>. Antoine picked the best card in the booster; the 4/4 fungus. <br><b>Pick 3:</b> Antoine looked at <a>Yavimaya Dryad</a>, <a>Search for Tomorrow</a>, and <a>Bonesplitter Sliver</a>. He told me afterwards that he thinks <a>Search for Tomorrow</a> is the best card (agreed), but he picked <a>Bonesplitter Sliver</a> because he usually goes slivers if he's green and he never gets enough of those +2/+0 guys. He always regrets passing them, and this time he wouldn't let it happen.<br><b>Pick 4:</b><a>Gemhide Sliver</a> was clearly the best card in the booster and it also happened to fit into Antoine's draft pile well.<br><b>Pick 5:</b><a>Durkwood Baloth</a> over <a>Telekinetic Sliver</a> (fits in the theme, but hard color requirements) and <a>Fiery Justice</a> (very good card, but once again tough color requirements).<br><b>Pick 6:</b><a>Strength in Numbers</a> over <a>Might of Old Krosa</a>.<br><b>Pick 7:</b><a>Spinneret Sliver</a> over <a>Flamecore Elemental</a>, staying with the sliver theme.<br><b>Pick 8:</b><a>Ashcoat Bear</a><br><b>Pick 9:</b><a>Thallid Shell-Dweller</a> over <a>Savage Thallid</a> and <a>Goblin Skycutter</a>. Antoine took the 0/5 <a>Thallid</a> because he already had the awesome <a>Sporesower Thallid</a>. Now he was heading for a double theme deck, based around Slivers and <a>Thallid</a>s.<br><b>Pick 10:</b><a>Thrill of the Hunt</a> over <a>Bogardan Rager</a><br><b>Pick 11:</b><a>Yavimaya Dryad</a> over <a>Venser's Sliver</a><br><b>Pick 12:</b><a>Plated Pegasus</a><br><b>Pick 13:</b><a>Wormwood Dryad</a><br><b>Pick 14:</b><a>Dementia Sliver</a><br><b>Pick 15:</b><a>Jhoira's Timebug</a></p>&#10;      <p>&#10;        <b>The second round of boosters</b>&#10;      </p>&#10;      <p>&#10;        <b>Pick 1:</b>&#10;        <a>Pendelhaven Elder</a> over <a>Mystic Enforcer</a> and <a>Durkwood Baloth</a>. A very weak fist pick, but an understandable choice, since the Elder has awesome synergy with the 1/1 saproling tokens that <a>Thallid</a>s make, as well as with any <a>Empty the Warrens</a> that Antoine was hoping to snatch.<br><b>Pick 2:</b><a>Gemhide Sliver</a> over <a>Greenseeker</a> and <a>Spitting Slug</a>, not even close.<br><b>Pick 3:</b><a>Strength in Numbers</a> over <a>Craw Giant</a>, <a>Ironclaw Buzzardiers</a>, <a>Havenwood Wurm</a>, and <a>Durkwood Tracker</a>.<br><b>Pick 4:</b> Antoine chose Venser Sliver, which fit well in his sliver theme, over the weak <a>Scarwood Treefolk</a> and <a>Wormwood Dryad</a>. He also didn't feel like picking <a>Castle Raptors</a> and splashing white.<br><b>Pick 5:</b><a>Vampiric Sliver</a> in a weak booster.<br><b>Pick 6:</b><a>Dark Withering</a> over Venser Sliver. Perhaps splashing some black?<br><b>Pick 7:</b><a>Greenseeker</a> over random slivers like <a>Basal Sliver</a> and Ophaline Sliver. Mana fixing might come in handy and the discard has synergy with <a>Dark Withering</a>'s madness.<br><b>Pick 8:</b> Slam down <a>Empty the Warrens</a>, which has great syngery with the previously taken <a>Pendelhaven Elder</a>.<br><b>Pick 9:</b><a>Mana Skimmer</a> over <a>Faceless Devourer</a>, not a green or red card in sight.<br><b>Pick 10:</b><a>Greenseeker</a> was the only playable.<br><b>Pick 11:</b><a>Craw Giant</a> over <a>Ironclaw Buzzardiers</a>. &quot;Ho ho ho! Midgets! You think you can stand in my way?&quot;<br><b>Pick 12:</b><a>Wormwood Dryad</a><br><b>Pick 13:</b><a>Psychotic Episode</a><br><b>Pick 14:</b><a>Ignite Memories</a><br><b>Pick 15:</b><a>Foriysian Interceptor</a></p>&#10;      <p>&#10;        <b>The third round of boosters</b>&#10;      </p>&#10;      <p>&#10;        <b>Pick 1:</b> This booster was very weak. For the second time in a row, Antoine had to settle for a bad first pick. He selected <a>Thallid Germinator</a> over Terminal Moraine and <a>Nightshade Assassin</a>. Seems fair, since he did not have enough black for the latter card and he already had a <a>Thallid</a> theme in his deck.<br><b>Pick 2:</b><a>Might Sliver</a> over <a>Temporal Isolation</a> and <a>Weatherseed Totem</a>. Actually the other cards didn't matter much, because this was a card Antoine was looking for. Now his Sliver theme seemed to become actually worth it.<br><b>Pick 3:</b> This booster had a lot of options. <a>Weatherseed Totem</a>, <a>Nantuko Shaman</a>, <a>Orcish Cannonade</a>, <a>Fortune Thief</a>, <a>Gorgon Recluse</a>, and <a>Castle Raptors</a>. Antoine took <a>Fortune Thief</a>, but afterwards he agreed that <a>Nantuko Shaman</a> or <a>Orcish Cannonade</a> might have been better picks. It's quite close.<br><b>Pick 4:</b><a>Grapeshot</a> over <a>Savage Thallid</a> and <a>Undertaker</a>.<br><b>Pick 5:</b><a>Might Sliver</a>. Ding! Antoine was very happy with this one.<br><b>Pick 6:</b><a>Thallid Germinator</a> over <a>Thallid Shell-Dweller</a>. Such saprolings. <br><b>Pick 7:</b> Keldon Halberdeer over <a>Grapeshot</a>, <a>Wall of Roots</a> and <a>Mindstab</a>.<br><b>Pick 8:</b> Two Headed Sliver over <a>Mogg War Marshal</a>l, sticking with the theme.<br><b>Pick 9:</b><a>Fungus Sliver</a> over <a>Firewake Sliver</a> and <a>Thrill of the Hunt</a>. A strange pick, since the <a>Firewake Sliver</a> just seems like the superior Sliver card to me.<br><b>Pick 10:</b> I missed this pick, as Antoine took a card lightning fast when I looked away for a second.<br><b>Pick 11:</b><a>Eternity Snare</a><br><b>Pick 12: </b><a>Savage Thallid</a><br><b>Pick 13:</b><a>Mystical Teachings</a><br><b>Pick 14:</b><a>Jhoira's Timebug</a><br><b>Pick 15: </b><a>Sprout</a>, which actually might make it into his deck because of the <a>Thallid</a> theme</p>&#10;      <p>&#10;        <b>Deck construction</b>&#10;      </p>&#10;      <p>Antoine started his deck by putting in all of his Slivers and <a>Thallid</a>s and went from there. He eventually cut <a>Venser's Sliver</a> and <a>Fungus Sliver</a> because they are not any good, but apart from that the themes stuck. Antoine told me that he thinks drafting according to themes and synergies is very important in this format. For his last cards, he was deciding between <a>Thrill of the Hunt</a> and <a>Fortune Thief</a>, and eventually put in the latter as a semi-answer to white decks full of flyers. He felt his deck was solid, building on strong themes, but not something special.</p>&#10;      <p>His final deck:</p>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Antoine Ruel&#10;              </div>&#10;              <div>GP Athens Top 8 draft</div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090604080624/https://www.wizards.com/magic/samplehand.asp?x=mtgevent_gpath06_welcome&amp;decknum=10">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td colspan="3">&#10;                  <p>Main Deck</p>&#10;                  <p>40 cards&#10;                    </p>&#10;                </td>&#10;              </tr>&#10;              <tr>&#10;                <td>10 &#10;                      <a>Forest</a><br>7 &#10;                      <a>Mountain</a><br><hr>17 lands</td>&#10;                <td>1 &#10;                      <a>Bonesplitter Sliver</a><br>1 &#10;                      <a>Durkwood Baloth</a><br>1 &#10;                      <a>Fortune Thief</a><br>2 &#10;                      <a>Gemhide Sliver</a><br>1 &#10;                      <a>Keldon Halberdier</a><br>2 &#10;                      <a>Might Sliver</a><br>1 &#10;                      <a>Pendelhaven Elder</a><br>1 &#10;                      <a>Savage Thallid</a><br>1 &#10;                      <a>Spinneret Sliver</a><br>1 &#10;                      <a>Sporesower Thallid</a><br>2 &#10;                      <a>Thallid Germinator</a><br>1 &#10;                      <a>Thallid Shell-Dweller</a><br>1 &#10;                      <a>Two-Headed Sliver</a><br>1 &#10;                      <a>Yavimaya Dryad</a><br><hr>17 creatures</td>&#10;                <td>1 &#10;                      <a>Empty the Warrens</a><br>1 &#10;                      <a>Grapeshot</a><br>1 &#10;                      <a>Lightning Axe</a><br>1 &#10;                      <a>Sprout</a><br>2 &#10;                      <a>Strength in Numbers</a><br><hr>6 other spells</td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <br>&#10;      <a name="1">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, Oct 15: 8:19 p.m. - Quarterfinals: Aaron Brackman vs. Vincent Lemoine</b>&#10;        <div>&#10;          <i>by Craig Jones</i>&#10;        </div>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/92/93/929379afca018e028d2291bb268e6637e79fc37cdcb09f261e7caf9fdfcc8c61.jpg">&#10;            <i>The match is not going right for Aaron Brackmann.</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Are we in the process of a German revival? Once Kai and Co left the scene it seemed like German magic had fallen into the doldrums. Now we're seeing a new crop of players come through. Three German players made it through to the final draft. Aaron Brackman made a name for himself when he finished runner-up in Prague earlier this year and a high finish here proves it was no flash in the pan.</p>&#10;      <p>Vincent Lemoine was Belgian champion a couple of years back and part of the team that made it all the way to the finals of the team championships.</p>&#10;      <p>I think this might be quite interesting as both looked to have strong decks when I looked (although you might want to take that with a pinch of salt given my knowledge of limited). Brackman has a fast red-green deck with a splash of white while Lemoine has an almost mono-white deck with a splash of both red and black for removal.</p>&#10;      <p>Lemoine, going second, had to mulligan his first hand, but had a nice turn when he suspended an <a>Ivory Giant</a>. A <a>Duskrider Peregrine</a> followed it into the timestream a turn later and then Brackman finally cast the first real spell of the game: <a>Weatherseed Totem</a>.</p>&#10;      <p>First actual blood in the damage race went to Lemoine as an <a>Outrider en-Kor</a> charged across the red zone. He followed it with a <a>Cloudchaser Kestrel</a> as Brackman shook his head. He still hadn't cast anything other than the totem and the suspended monsters would be coming out of the timestream any second now.</p>&#10;      <p>A <a>Word of Seizing</a> took care of the Falcon, but Lemoine kept rolling with the weenies. Even a surprise Havenwood Worm didn't faze the Belgian much as he quickly took a 1-0 lead.</p>&#10;      <p>Lemoine 1-0 Brackman</p>&#10;      <p>Mulliganing (a lot of it) marred the start of the second game. Both players opened out with 2/1 drops. Brackman started swinging with a <a>Goblin Skycutter</a> and then <a>Scarwood Treefolk</a>. Lemoine meanwhile went with his Rebel searcher and took the time to give it some extra durability with a <a>Pentarch Ward</a>.</p>&#10;      <p>This didn't look like it was going to be much of a game. After playing the Treefolk all Brackman had done was shake his head. Meanwhile Lemoine had assembled a force of four rebels. The Treefolk had knocked a chunk out of Lemoine's life total, but even that was taken away from the German as Temporary Isolation took it out of the game.</p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/c1/0a/c10adea83e5e9be5bb26c4237b099446be882b6d6fee26312f67778dbfc1b8d5.jpg">&#10;            <i>A fast format means a lot of time for a relaxed break!</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Brackman didn't give up without a fight. <a>Word of Seizing</a> halved Lemoine's attacking force and Brackman found a second Treefolk. The next turn was very nervy for the German as he considered whether he could let all of Lemoine's forces through. That attack as it stood would drop him to 1 life and any trick would end his tournament right there.</p>&#10;      <p>Lemoine didn't have it and so Brackman got to live another turn. He made full use of it. Lemoine was at 7 life. Brackman removed Lemoine's only blocker with <a>Sudden Shock</a> and attacked for 5. <a>Orcish Cannonade</a> finished Lemoine off, but also did for Brackman as well.</p>&#10;      <p>A tie, but probably not a bad thing for Brackman considering the game state.</p>&#10;      <p>Lemoine 1-0 Brackman</p>&#10;      <p>Game 3 was lightning fast. Brackman's deck stuttered and misfired again with a mulligan. <a>Search for Tomorrow</a> with a Totem got him up to 4 mana for two successive <a>Scarwood Treefolk</a>. That come into play tapped clause is actually a more painful drawback than it first seems. Meanwhile Lemoine had followed a turn two <a>Benalish Cavalry</a> with one, then two, then three <a>Cloudchaser Kestrel</a>. Against that kind of airforce slow old green treefolk aren't going to cut it.</p>&#10;      <p>This format is fast.</p>&#10;      <p>Vincent Lemoine beats Aaron Brackman 2-0 (and a half).</p>&#10;      <br>&#10;      <br>&#10;      <a name="2">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, Oct 15: 8:33 p.m. - Quarterfinals: Marcio Carvalho vs. Evangelos Papatsarouchas</b>&#10;        <div>&#10;          <i>by Hanno Terbuyken</i>&#10;        </div>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <p>It's time to bring in the band-stand, tune the trumpet and roll the music! The contestants are in the arena and the quarterfinals are about to start. I'm sitting with Marcio Carvalho and local hero Evangelos Papatsarouchas. They had been sitting opposite during the draft, Marcio on seat 3 and Evangelos on seat 7. Their picks did not conflict directly, so it will be interesting to see the two duke it out!</p>&#10;      <h3>Game 1</h3>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/4e/f8/4ef8f47a7d01ab678cdb5d86d9d3821d4b3295bd46d81b3cd71357705cfebba8.jpg">&#10;            <i>The two southern Europeans battling it out under the spotlight!</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Evangelos won the die roll and saw Marcio kicking off with a mulligan. <a>Ghostflame Sliver</a> from Evangelos traded with <a>Pit Keeper</a> from Marcio, and Marcio's subsequet <a>Faceless Devourer</a> caught <a>Tendrils of Corruption</a>. Evangelos was pitting his <a>Urborg Syphon-Mage</a> and a Gorgon recluse against the strong <a>Sporesower Thallid</a>, that Marcio complemented on his side with a <a>Weatherseed Totem</a>.</p>&#10;      <p>Both players didn't give way, Evangelos holding fort with <a>Sedge Sliver</a> and Marcio dispatching the Recluse with <a>Assassinate</a>. <a>Corpulent Corpse</a> from Marcio was met by his own spitting image (read: same card) from Evangelos. Both players were playing at a solid pace, not pausing to take even a breath. They played fast enough to run out of dice, and headjudge George Michelogiannakis provided toothpicks for counters and tokens - certainly an unusual form of marking the gamestate!</p>&#10;      <p>&#10;        <a>Sporesower Thallid</a> attacked and was gangblocked by <a>Corpulent Corpse</a> and Syphon Mage. The Corpse died, but Evangelos had <a>Pit Keeper</a> - though he chose not to return the Corpse itself, but rather <a>Ghostflame Sliver</a>, which he could grow and regenerate thanks to <a>Sedge Sliver</a>. Marcio answered with <a>Durkwood Tracker</a> and asked for the life totals: 14 on his side, 19 on the other. Marcio shook his head. This was not how he had wanted the match to go: The pumped regenerating Sliver army was not to his taste.</p>&#10;      <p>Marcio had <a>Undertaker</a>, though, to recover his <a>Thallid</a> or anything else he might have wanted. Evangelos kept his life total rising with <a>Urborg Syphon-Mage</a>, a problem that Marcio would eventually have to deal with before the Greek's life would climb into unassailable heights. <a>Viscid Lemures</a> provided an unblockable win condition for Evangelos, and slowly his advantage on the board became overwhelming.</p>&#10;      <p>Marcio used <a>Undertaker</a> to discard <a>Dark Withering</a>, killing <a>Sedge Sliver</a> and returning his <a>Sporesower Thallid</a>, but he still had the <a>Swamp</a>walkers to deal with. Evangelos had an eye-opener ready for Marcio, though, using <a>Faceless Butcher</a> to take out <a>Durkwood Tracker</a> and taking Marcio to 5 life. If the Portugese player did not kill the <a>Swamp</a>walking Lemures now, he'd certainly die, and that's what he did with grace.</p>&#10;      <p>Marcio Carvalho 0 - 1 Evangelos Papatsarouchas</p>&#10;      <h3>Game 2</h3>&#10;      <p>Marcio had the advantage oof going first in the second game, slapping an unrelenting assault on the table with <a>Greenseeker</a>, <a>Pit Keeper</a>, <a>Faceless Devourer</a> and <a>Hunting Moa</a>. Evangelos missed his third land drop and made his first play, <a>Basal Sliver</a>, on turn four. The Sliver threw himself in the way of Marcio's brutal attack, but it was too late: After the Sliver chump-blocked, Evangelos was on 4 life to Marcio's 20, and he picked up his cards.</p>&#10;      <p>&quot;Good start,&quot; the Portugese commented his fast-track win.</p>&#10;      <p>Marcio Carvalho 1 - 1 Evangelos Papatsarouchas</p>&#10;      <h3>Game 3</h3>&#10;      <p>Both players kept their initial seven, and Evangelos went first, this time not missing his drop and making <a>Sedge Sliver</a> (with <a>Swamp</a>) on turn three. Marcio went with <a>Gemhide Sliver</a>, netting himself the Sedge bonus and accelerating Evangelos' mana. While the Greek had <a>Mana Skimmer</a> and <a>Faceless Devourer</a> as follow-up, Marcio cast <a>Soul Collector</a> (unmorphed), already looking for a win condition that would be able to fly over Evangelos' ground force. He then tapped out for Magis of the Jar, altering the balance of the match.</p>&#10;      <p>The black Magus also served as the perfect foil for Evangelos' double <a>Urborg Syphon-Mage</a>. Evangelos would have to kill the Magus before his Mages could go to work! Marcio, though, did not seem to need that reset button yet. He laid <a>Mystic Enforcer</a> and <a>Hunting Moa</a> (pumping the Enforcer), against which Evangelos had only <a>Ghostflame Sliver</a>. Of course, <a>Sedge Sliver</a> helped out on defense.</p>&#10;      <p>With <a>Viscid Lemures</a> in play on both sides, Marcio popped his Magus, changing the life totals from 5-20 to 20-5 in his favor (earlier flying attacks had helped). Evangelos still had his Syphon Mages, but the flier and the <a>Swamp</a>walker proved too much. Like a bloodhound on the scent, cheeks flushed and his hands moving fast and confident, Marcio tapped <a>Soul Collector</a> and <a>Viscid Lemures</a> for the final attack and advanced to the semis!</p>&#10;      <p>Marcio Carvalho 1 - 1 Evangelos Papatsarouchas</p>&#10;      <br>&#10;      <br>&#10;      <a name="3">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, Oct 15: 8:51 p.m. - Quarterfinals: Antoine Ruel vs. Sebastian Aljiaj</b>&#10;        <div>&#10;          <i>by Frank Karsten</i>&#10;        </div>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <p>Antoine drafted a green based deck with two themes: Slivers and <a>Thallid</a>s. Sebastian brought a red/blue deck to the table.</p>&#10;      <h3>Game 1</h3>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/bf/5f/bf5ff4138d83b0a09d26815d9979f5fea035fc33cdd82790356c926d54bc9812.jpg">&#10;            <i>Antoine Ruel (left) joking around with David Brucker. Both players were eliminated in the quarters: The French fell to a German, and the German fell to a French.</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Antoine won the die roll and chose to play first. Sebastian had to take a mulligan, but kept his 6-carder. Antoine had a fast start, curving into a turn 3 Bonesplitter thanks to <a>Gemhide Sliver</a>. Sebastian played <a>Spiketail Drakeling</a>, and decided not to counter Antoine's <a>Savage Thallid</a>. Antoine didn't want to trade his <a>Bonesplitter Sliver</a> for the flyer, so he chose not to attack either. Then Sebastian made a very strange play by attacking with his <a>Spiketail Drakeling</a> on his turn. Yes, when his board was his 2/2 against Antoine's 3/1, 4/2, and 5/2, he attacked. That's a strange play on itself; why would you start a damage race that you can never win? Did he have Sulfurous Blast in hand? What was going on? Sebastian just played a mere <a>Tolarian Sentinel</a> and passed the turn.</p>&#10;      <p>Antoine send his team of creatures into the red zone, Sebastian didn't block and went down to 8 life. Antoine figured (as he told me afterwards) that Sebastian did not have Sulfurous Blast in hand. His reasoning for that was that if he had it in hand, it is very unlikely that would just play the 1/3 flyer instead, because he would take 12 damage on Antoine's next turn, which would put him to a dangerously low life total. Slowrolling Sulfurous Blast at the expense of taking infinite damage is not worth it.</p>&#10;      <p>On the other hand, what else would explain Sebastian's strange sequence of plays? If he didn't have Sulfurous Blast, why would you attack with <a>Spiketail Drakeling</a>? I think Antoine should have smelled that something fishy. The Frenchman put too much weight on his first instinct of &quot;if Sebastian had Sulfurous Blast, he should have played it on turn 4, so he doesn't have it&quot; and overextended by casting <a>Empty the Warrens</a>.</p>&#10;      <p>Sebastian, on his turn, showed what he was up to. He attacked with his 2/2 flyer, bounced it with <a>Tolarian Sentinel</a>, and cast the pivotal <a>Sulfurous Blast</a> at end of combat to kill Antoine's board. He later explained that he decided not to cast it on turn 4, because he had only lands in hand and felt he needed <a>Spiketail Drakeling</a> to win after the <a>Sulfurous Blast</a>. He felt that taking back his <a>Spiketail Drakeling</a> to his hand was worth taking 12 damage. Antoine walked into it, since he had no good follow up. All he had was a measly <a>Pendelhaven Elder</a> and <a>Two-Headed Sliver</a>, whereas Sebastian made a Fantom Seer and <a>Flowstone Channeler</a> soon after. He used the latter to annihilate Antoine's board and the game was over not long after that. All thanks to SulfurousBlast, game winner extraordinaire.</p>&#10;      <p>Sebastian 1 - Antoine 0</p>&#10;      <h3>Game 2</h3>&#10;      <p>Antoine got to play first again. For the second time in a row, he had <a>Gemhide Sliver</a> on turn 2, but this time he didn't have a four drop to curve into. In fact, he actually didn't have anything to play on his third turn; he just attacked and passed. Sebastian then knew that Antoine had at least one 5 drop in his hand. If Antoine did not have a 5-mana creature, there was almost no way he would have kept, so Sebastian knew that destroying that Sliver would buy him a full turn. Therefore, he played <a>Coal Stoker</a> and used the mana on <a>Orcish Cannonade</a> targeting <a>Gemhide Sliver</a>. Antoine had no play on his fourth turn and cast <a>Might Sliver</a> on his turn 5, as could be expected. Sebastian flashed <a>Crookclaw Transmuter</a>, and added a morph and <a>Flowstone Channeler</a> to his board. </p>&#10;      <p>Antoine played <a>Might Sliver</a> number two and attacked with his first copy. Sebastian triple blocked it, and the huge Sliver took down <a>Coal Stoker</a> and the morph, which turned out to be Fantom Seer once it flipped up for 2 cards. Sebastian countered <a>Bonesplitter Sliver</a> with <a>Cancel</a>, played some blockers for <a>Might Sliver</a> and kept on attacking with <a>Crookclaw Transmuter</a>. Antoine seemed to stumble upon a land clump and had no answer for the flyer. <a>Crookclaw Transmuter</a> slowly nibbled away Antoine's life total and eventually handed Sebastian the match victory. </p>&#10;      <p>Sebastian 2 - Antoine 0</p>&#10;      <br>&#10;      <br>&#10;      <a name="4">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, Oct 15: 9:09 p.m. - Quarterfinals: David Brucker vs. Guillaume Wafo-Tapa</b>&#10;        <div>&#10;          <i>by Frank Karsten</i>&#10;        </div>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/c4/ff/c4ff05c8ec220953f1099e34ca30e388f5f09e418677e52429055574e5f6560b.jpg">&#10;            <i>What exactly does that do?</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Guillaume won the die roll and decided to play first. Both players kept their hands. David suspended a <a>Durkwood Baloth</a> on turn 1, while Guillaume's first play was an <a>Errant Doomsayers</a>. The next play was a <a>Spitting Slug</a> on David's side and the turn after he suspended a <a>Nantuko Shaman</a>. Guillaume played a <a>Celestial Crusader</a> end of turn, swung for 4 and completed his board with a Castle Raptor. David bounced the Raptor with <a>Riftwing Cloudskate</a> and at that point the board was in his favour. This didn't last long, though, because David needed to face <a>Teferi's Moat</a> set to green the next turn. </p>&#10;      <p>A <a>Spiketail Drakeling</a> was summoned by David to balance against the Raptors one turn later. <a>Strangling Soot</a> hit the Crusader, but Guillaume had enough time to summon a second Castle Raptor. The next attack brought David down to 10 and a <a>Temporal Eddy</a> on the <a>Durkwood Baloth</a>. With the Raptor tapped, David was able to enchant it with the <a>Eternity Snare</a>. One turn later he played two 3-drops, a morph and another <a>Spiketail Drakeling</a>. Guillaume had three cards left in hand and went for Errant Ephemeon, leaving mana open to not have to worry about the Drakeling. Another morph and again the Baloth joined David´s team, without having any effect. Guillaume Walked the Eons with buyback, taking David down to 6, then to 2 and finally to -2.</p>&#10;      <p>David Brucker 0 - 1 Guillaume Wafo-Tapa</p>&#10;      <h3>Game 2</h3>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/68/c9/68c97fdd6b40983ff1f2a794812e64cffec9a0d9502f10ff5cd956173f6f7584.jpg">&#10;            <i>It beats down faster.</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>In the second game David mulliganned once on the play and suspended Viscered Deepwalker on turn 3, followed by a turn 4 <a>Spiketail Drakeling</a>, but no fourth land. <a>Ghost Ship</a> seemed to be too tough to enter the playing area, so it just got countered. Castle Raptor was cancelled and David was able to cast a morph. Guillaume summoned <a>Errant Doomsayers</a> and <a>Sprite Noble</a>, but David just destroyed it with a <a>Strangling Soot</a>. Guillaume bounced David's morph, but it was played again. The morph was sent into the red zone and had to die against a flashing <a>Celestial Crusader</a> with <a>Momentary Blink</a> backup. </p>&#10;      <p>The next turn Guillaume was thinking twice what to do and David´s freshly casted <a>Spiketail Drakeling</a> became tapped, so the Deepwalker was walking in for some damage. After David bounced the Crusader, Guillaume decided to play a Castle Raptor first instead of the Crusader. Soon the Raptor was able to attack and got pumped instantly by the Crusader; that made things look great for Guillaume. A <a>Griffin Guide</a> and an <a>Amrou Seekers</a> didn't make it worse and David scooped 'em up.</p>&#10;      <p>David Brucker 0 - 2 Guillaume Wafo-Tapa</p>&#10;      <br>&#10;      <br>&#10;      <a name="9">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, Oct 15: 10:20 p.m. - Semifinals: Vincent Lemoine vs. Marcio Carvalho</b>&#10;        <div>&#10;          <i>by Gijsbert Hoogendijk</i>&#10;        </div>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <p>The players decide to exchange decks instead of looking at the decklists. Marcio's deck has good removal (3 <a>Assassinate</a>) according to Vincent, while Vincent deck has a nice rebel engine, said the Portugese player. Vincent wins the die roll and off we go…</p>&#10;      <h3>Game 1</h3>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/50/cc/50cc8494c9b99c3484d1ea008fee77f05f7094d6262d20d2e16f6f02b31bcb95.jpg">&#10;            <i>The lightning-fast Marcio Carvalho.</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>The first play is a turn two <a>Wall of Roots</a> from Marcio. It won't block though, as Vincent plays a <a>Cloudchaser Kestrel</a> to fly over it. Marcio has an <a>Undertaker</a> on his turn. Vincent gets in for two and plays another Kestrel and Marcio finishes Vincent's turn with an <a>Ashcoat Bear</a>. He follows that with a <a>Durkwood Tracker</a> on his turn to put some pressure on the Belgium player. Vincent attacks for four but gets hit for seven on Marcio's turn. After the attack Marcio tries to <a>Assassinate</a> both birds, but Vincent &quot;counters&quot; one with <a>Momentary Blink</a>.</p>&#10;      <p>Vincent plops down a Mangara and awaits Marcio's attack. Another seven damage takes Vincent down to four. Vincent beats Marcio again with the Kestrel down to 10 and leaves the Managara for defense. Now it gets interesting: Marcio attacks and Vincent blocks the Bear with Managra, removes the Tracker and in response flashbacks the Blink, paying the blue with his <a>Gemstone Mine</a> - that seems like a good play! Vincent plays nothing on his turn and just attacks. Marcio attacks with the Bear, Vincent blocks and gets rid of the <a>Undertaker</a> after damage. </p>&#10;      <p>A Nightshade Assasin from Marcio gets Strangled with Soot right away. Vincent flashes the soot back to get rid of the bear and attacks with the Kestrell again. Marcio suspends a <a>Nantuko Shaman</a> for the extra card and swinging on his next turn to put Vincent to 1. Vincent also kept attacking and puts Marcio on 2 and plays a <a>Benalish Cavalry</a> to make sure he doesn't die from the Shaman. This elicits a sigh from Marcio and his topdeck doesn't deliver, another sigh and he scoops up his cards. Both players complain about their draw and the amount of lands they drew, specifically Marcio as he claimed to have ten outs. Oh well, let's move on!</p>&#10;      <p>Vincent Lemoine 1-0 Marcio Carvalho</p>&#10;      <h3>Game 2</h3>&#10;      <p>A Gemstone Sliver on turn two made sure Macrio would have good mana again this game. He suspends a turn three <a>Nantuko Shaman</a> to which Vincent plays a <a>Amrou Seekers</a>. A <a>Hunting Moa</a> gives the Shaman a +1/+1 counter and of he goes, into the red zone. It gets bolted on Vincent's turn though without ever becoming a real problem. Marcio pays echo for the Moa and attacks with both his creatures, Vincent blocks the Sliver, but the Seekers get a <a>Feebleness</a>, so their encounter with the Sliver turned out to be fatal. </p>&#10;      <p>Vincent casts a Kestrel and Marcio a <a>Thallid</a> Sporesower. The Moa attacks and dies to the Kestrel. Vincent casts Mangara which is followed by another attack from Marcio dropping Vincent down to 7. Marcio casts <a>Magus of the Mirror</a>, to which Vincent quips: &quot;I hope you use it.&quot; Vincent casts a <a>D'Avenant Healer</a> and gets rid of the Sporesower with Mangara. On his turn Marcio gets to play the <a>Undertaker</a> again. The Healer gets a <a>Pentarch Ward</a> set to black which should be a problem for Marcio. Marcio exchanges a land for the <a>Nantuko Shaman</a> through the <a>Undertaker</a> and suspends it.</p>&#10;      <p>Vincent plays en <a>Outrider en-Kor</a> and a suspended <a>Ivory Giant</a>. It's crunch time, Marcio takes some time to think it through (which gives me time to catch up as they have been playing pretty fast). He attacks with the Shaman, it gets blocked by the en-Kor, redirect one damage and prevent make sure nothing dies on Vincents side. The Shaman lands in the graveyard, which was the place Marcio wanted it to be, as this gave him a chance to use the <a>Undertaker</a> on it again after which he suspends it. It's a weird card drawing engine but if it works, it works!</p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/b4/c8/b4c8fd63fd47ee8cc321c0fbe2b69a8fbbd10ca39119447367a70a62d71afafd.jpg">&#10;            <i>Vincent Lemoine: Sometimes, blinking momentarily can do a lot of good.</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p> Vincent gets a <a>Gustcloak Cavalier</a> on the board. Meanwhile Marcio attacks again with just the <a>Nantuko Shaman</a>… see above… and look, there it is, suspended again. A <a>Flickering Spirit</a> joins Vincent's team after an attack with the Gustcloak. Marcio <a>Assassinate</a>s the Gustcloak, probably happy to finally have a target and casts a <a>Soul Collector</a>. Vincent gets the <a>Benalish Cavalry</a> which ensured he lived last game on the table again. Marcio changes his plan and gets the Moa back with the <a>Undertaker</a>, growing his <a>Soul Collector</a> and attacks taking Vincent to four, Marcio finishes his turn with a pit keeper. He has a clear board advantage but Vincent gets a sideboarded <a>Jedit's Dragoons</a>, which brings him back to 8.</p>&#10;      <p>Marcio declines to pay the echo on the Moa and another +1/+1 counter is put on the <a>Soul Collector</a>. The attack takes Vincent down to four again. The <a>Undertaker</a> has a lot of work this game as it gets the Moa back again this time putting the counter on the <a>Gemhide Sliver</a>. The <a>Ivory Giant</a>'s suspension ends and taps Marcio's creatures, so Vincent attacks with his team halving Marcio's 18 life. </p>&#10;      <p>Marcio untaps and Vincent <a>Momentary Blink</a>s the <a>Ivory Giant</a>… Marcio thinks, asks: &quot;I have nine life left?&quot; Vincent confidently boasts to be able to do more damage than that. Marcio claims to have something… thinking… calculating… Vincent feels confident and jokes about the <a>Magus of the Mirror</a>, and Marcio finally does what he needs to stay alive, changing an Assasinate for the <a>Wall of Roots</a>, just to have a blocker. Desperate times, desperate measures! He has another <a>Assassinate</a> for the Dragoons and plays the Wall. Vincent counts, makes sure and swings with his team. Marcio can only show him a <a>Plains</a> before he extends the hand!</p>&#10;      <p>That was one hell of a game. </p>&#10;      <p>Vincent Lemoine 2-0 Marcio Carvalho</p>&#10;      <br>&#10;      <br>&#10;      <a name="10">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, Oct 15: 10:41 p.m. - Semifinals: Guillaume Wafo-Tapa vs. Sebastian Aljiaj</b>&#10;        <div>&#10;          <i>by Hanno Terbuyken</i>&#10;        </div>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <p>Both players had the chance to look at each other's decks before the match, taking their time and thoroughly memorizing the cards they would have to face. When they got their own decks back, they checked those, too, as if they had forgotten what was in their own 40 cards. Off they went and shuffled, shuffled, shuffled, until they finally presented, cut and drew seven each. Whew, what a lengthy pregame procedure!</p>&#10;      <h3>Game 1</h3>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/80/42/80423758448e79aed311fe0763fc166db795a4afd4fc4b0f257a40f3bcfcff93.jpg">&#10;            <i>Thinking... thinking... beatdown!</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Guillaume won the die roll and, as everybody in this format, chose to play first. Where Guillaume had an <a>Island</a>, Sebastian led off with <a>Terramorphic Expanse</a> for <a>Mountain</a>, but it was the French who had the first play with <a>Sprite Noble</a>. Sebastian answered with <a>Spiketail Drakeling</a>. Trading beats, Sebastian went for Flowstone Channeler which made Guillaume think - or was the Frenchman just biding his time?</p>&#10;      <p>&#10;        <a>Amrou Seekers</a> promised to speed up the game on the French's side. The evasion creature in turn caused Sebastian to check his options, but with just two creatures each, could it really be so hard to decide on an attack? No, indicated the German and swung with both his men. <a>Amrou Seekers</a> traded with Flowstone Channeler and Sebastian chained postcombat <a>Coal Stoker</a> into a mystery morph - another one of those nifty interactions that <i>Time Spiral</i> has plenty of!</p>&#10;      <p>Guillaume answered with <a>Griffin Guide</a> on his softdrink royalty - <a>Sprite Noble</a> -, creating a 4/4 flyer that he held back on defense. Guillame did not want to risk blocking Sebastian's morph, invalidating the old golden rule of <i>Onslaught</i> block: Always block the morph! Sebastian tapped six and revealed <a>Slipstream Serpent</a>, taking Guillaume to 10 versus Sebastian's 16.</p>&#10;      <p>Guillame's line of defense was bolstered by spiky infinite blocker that is <a>Stuffy Doll</a>, while Sebastian drew extra cards with <a>Fathom Seer</a> to find enough gas to overwhelm Guillaume in a massive assault. With <a>Stuffy Doll</a> backing him up, Guillaume sent in the 4/4 Noble and used <a>Temporal Eddy</a> to return Sebastian's Serpent to the top of his library.</p>&#10;      <p>Again, Sebastian swung in with everything and a morph. <a>Stuffy Doll</a> blocked <a>Coal Stoker</a> and took him down to nine, an end-of-turn ping to eight, equalizing the life totals between both players. Sebastian now had three morphs, clearly seeking strength through numbers here (even without green in his deck). <a>Castle Raptors</a> was the next defensive drop Guillaume's blue-white deck delivered, with the French on eight life and just three against Sebastian's six.</p>&#10;      <p>Three blockers, six attackers. If Guillaume blocked all three morphs, Sebastian would get six damage in and kill the French on the next attack. When the German decided that he had the guts for an all-in attempt, Guillaume simply scooped up his cards. For the record: The three morphs were two <a>Fathom Seer</a>s and the <a>Slipstream Serpent</a>.</p>&#10;      <p>Guillaume Wafo-Tapa 0 - 1 Sebastian Aljiaj</p>&#10;      <h3>Game 2</h3>&#10;      <p>Shuffle, shuffle, shuffle, and off they were again with Guillaume on the play. Sebastian riffled his unsleeved cards pretty heavily, so that were already showing a visible bend. He'd have to be cautious of markings, but then again, he'd have at maximum five games left to play with them.</p>&#10;      <p>Guillaume had one of the dream starts for blue, with a turn two suspended <a>Errant Ephemeron</a> and turn three <a>Errant Doomsayers</a>. Sebastian had one of his beloved morphs, probably a <a>Fathom Seer</a>. Guillaume had an outstanding grip, going for <a>Griffin Guide</a> on the Doomsayers and putting Sebastian to 16. The German had found an answer, though, of all things one from Homelands: A Timeshifted <a>Giant Oyster</a> dropped from a time rift on the ocean's bottom of the past and held the tapped Doomsayers in the vice-like grip of its clamshell.</p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/c7/de/c7debb60935bb45e797fdfd40fa9b6a3d57f3252d6003a4763a1cc6d99517be2.jpg">&#10;            <i>The exhausted Guillaume Wafo-Tapa couldn't stand against Sebastian Aljiaj.</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Morph unmorphed obviously was <a>Fathom Seer</a>, and while Guillaume showed <a>Celestial Crusader</a>, Sebastian Gushed into <a>Coal Stoker</a> and <a>Tolarian Sentinel</a>. The now in-play Ephemeron cracked for four from Guillame's side, taking Sebastian to nine. It didn't look like Sebastian was going to dig himself out of the Ephemeron-shaped hole yet, although his Oyster needed just two more turns to off the Crusader-boosted Guided Doomsayers with the kill grip of the Homarid. (It's actually an Oyster, but that doesn't rhyme. Well, neither do &quot;grip&quot; and &quot;Homarid&quot;, but it's close!)</p>&#10;      <p>Sebastian's attack with <a>Fathom Seer</a> and <a>Coal Stoker</a> cost Guillaume three life (to 13). The game now dragged along at a glacier-like pace - truth be told, glaciers might melt faster than these two players made their decisions! <a>Tolarian Sentinel</a> threw himself in front of the Ephemeron that came batting in. The backswing took Guillaume to ten, the German almost evening out the life totals.</p>&#10;      <p>Yet the match was lacking excitement. But there! <a>Sulfurous Blast</a> in Guillaume's upkeep, taking out everything but the Ephemeron! <a>Sudden Shock</a> on the Ephemeron! The Frenchman with an empty board! In this sudden explosion of direct damage, Guillaume's hopes for the title melted away like warm butter in the heat, and he extended the hand.</p>&#10;      <p>Guillaume Wafo-Tapa 0 - 2 Sebastian Aljiaj</p>&#10;      <br>&#10;      <br>&#10;      <a name="11">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, Oct 15: 11:22 p.m. - Finals: Sebastian Aljiaj vs. Vincent Lemoine</b>&#10;        <div>&#10;          <i>by Hanno Terbuyken</i>&#10;        </div>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <p>This is it! A young player on the rise facing off against a player who says about himself to be standing in the shadow of more prolific players in his country. For Sebastian Aljiaj, this is the chance to take an almost unrecoverable lead in the Rookie of the Year race. With a win here, he even has a long shot at Players Club level five by the end of the season! For Vincent Lemoine, a win here would put him out of the shadow of Geoffrey Siron and Bernardo Da Costa Cabral at least for a little while, the limelight of a GP win showing his true worth. </p>&#10;      <p>Which of the two quests to fame will succeed? Read on and find out how the champion of GP Athens was crowned on this fateful night on the concrete floor under the Stadium of Peace and Friendship!</p>&#10;      <h3>Game 1</h3>&#10;      <p>Sebastian won the die roll and chose - no surprises there - to play first. No mulligans on either side preceded the race to the peak. The Belgian led off with <a>Benalish Cavalry</a>, showcasing the aggressiveness of his mostly white deck. Sebastian had Flowstone Channeler, a solid measure of defense against weenie strategies and hitting the many x/1's in this format pretty hard.</p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/b6/00/b6002de4562c564cbfbc5c087c6bdb5960adc9ce9c876ed36c949adaf5c97320.jpg">&#10;            <i>Sebastian Aljiaj was not desperate at all, easily winning the title match!</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>&#10;        <a>Spiketail Drakeling</a> was out to stump Vincent's development, who ran <a>Cloudchaser Kestrel</a> without Sebastian sacrificing his precious flier. Flowstone Channeler traded in combat with the Kestrel, and Sebastian chained Coal Sroker into <a>Crookclaw Transmuter</a>. Vincent hit back with <a>Amrou Scout</a>, expecting it to be victim of the Drake, but no! The German had other plans, or rather Oyster plans, as the Homelands clamshell came down to make Vincent's life very difficult.</p>&#10;      <p>With Vincent at eight life, he put <a>Temporal Isolation</a> on Sebastian's Transmuter, passing the turn without an attack into the Killergrip Clamshell - sorry, <a>Giant Oyster</a>. This game was over when Sebastian took the Belgian to six through the air... to four... to two... and then fired off <a>Sulfurous Blast</a> to take out Vincent's board and Game 1 of the GP Athens finals!</p>&#10;      <p>Sebastian Aljiaj 1 - 0 Vincent Lemoine</p>&#10;      <p>Up a game, the German looked confident as he searched his sideboard. Vincent decided that he wanted to start what could become the last game of GP Athens on the play, and off they went.</p>&#10;      <h3>Game 2</h3>&#10;      <p>Identical starts with <a>Terramorphic Expanse</a> on both sides - <a>Mountain</a> for Vincent, <a>Island</a> for Sebastian - brought <a>Amrou Scout</a> for the Belgian and <a>Aetherflame Wall</a> for the German. Vincent <a>Pentarch Ward</a>ed his Scout against red and cracked for two. Snapping back with <a>Spiketail Drakeling</a>, Sebastian also mustered <a>Tolarian Sentinel</a>. Vincent got his rebellion on and searched out <a>Amrou Seekers</a> before suspending <a>Ivory Giant</a>.</p>&#10;      <p>A jolly trading of beats took Vincent to 15 and Sebastian brought out his trademark morph, <a>Fathom Seer</a>... or did he? Whatever the hidden monster may have been, it didn't faze Vincent much as he laid beats on with <a>Outrider en-Kor</a>. The protection from red on the <a>Amrou Scout</a> made things difficult for Sebastian, as he wouldn't be able to kill it and the rebel searcher would invalidate almost all other creature kill.</p>&#10;      <p>&#10;        <a>Sudden Shock</a> dealt with <a>Amrou Seekers</a>. Vincent put in a thinking pause before passing the turn. Sebastian didn't take long to decide on an all-in attack. <a>Outrider en-Kor</a> and <a>Amrou Scout</a> blocked the morph, which was - predictably - a <a>Fathom Seer</a> who killed the rebel searcher dead. What did Vincent fear that he put his precious <a>Amrou Scout</a> into combat like that? He rebuilt with <a>Trespasser il-Vec</a> and a suspended <a>Duskrider Peregrine</a>, but the damage was done (literally, even).</p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/87/b4/87b4d81b071ca88312b20f2a773503f274cf5b854d8fc65b8aa4d9045829a446.jpg">&#10;            <i>The clogged-up board, seen from Vincent's side (left), shortly before Sebastian blew the Belgian away.</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>The <a>Ivory Giant</a> would come out of his rift in two more turns, but with Sebastian at 16 life the predictable alpha strike would not be enough, not even with <a>Castle Raptors</a> on Vincent's side. Sebastian had another morph, and yet another one. One of them turned out to be <a>Coral Trickster</a>, tapping away the <a>Castle Raptors</a> and allowing Sebastian to bring Vincent to six. One more turn to <a>Ivory Giant</a> and Peregrine Duskrider. Vincent played another <a>Amrou Scout</a> and <a>Benalish Cavalry</a>, his damage on the table now 18 - more than Sebastian's life total, but the black Trespasser on Vincent's side would also be tapped. Mathematically and in theory, Vincent was just one point short of lethal.</p>&#10;      <p>Sebastian needed some removal, any removal, but if he had <a>Sulfurous Blast</a> now, it would be huge. He unmorphed <a>Fathom Seer</a>. Just a <a>Coal Stoker</a>. Of course, if Vincent attacked full-scale, he'd leave himself dead on the board, so basically Sebastian just needed to live through the <a>Ivory Giant</a> turn. <a>Coal Stoker</a> into morph - classic move! -, showing <a>Coral Trickster</a>. That tapped <a>Castle Raptors</a>, and Sebastian attacked with Drakeling and two Sentinels. Vincent had <a>Temporal Isolation</a> for Drakeling and took two damage, down to 4.</p>&#10;      <p>Then came the Giant turn. Sebastian was tapped out, with just <a>Island</a> and <a>Mountain</a> open and on 16 life. Vincent moved <a>Amrou Scout</a> and <a>Benalish Cavalry</a> into the red zone, dropping Sebastian to 12. He supplemented his team with <a>Flickering Spirit</a> - a crucial flier at that juncture, preventing Sebastian from attacking. Heavy dog howling and barking from outside the hall disrupted the concentration of the audience, but the players remained focused. This was a title match!</p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/fe/12/fe12b5c5091f681c2bd40e7e69395371c0f1197eacfd2827161650a62de1b0c1.jpg">&#10;            <i>Vincent Lemoine took his loss in stride, not really unhappy about second place.</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Sebastian put down a second <a>Aetherflame Wall</a>, and the board looked like a quagmire. Vincent put down another flier, <a>Cloudchaser Kestrel</a>, freeing Sebastian's Drake from the Vincents own <a>Temporal Isolation</a> it was caught in. Sebastian morph-gushed with the help of <a>Tolarian Sentinel</a> and found the card crucial in this matchup: <a>Sulfurous Blast</a>. He held it back, though, laying another morph instead. That was <a>Coral Trickster</a>, pushing through the attack that took Vincent to two life.</p>&#10;      <p>Carefully studying the board, looking at Vincent, looking at the board, looking at his hand, Sebastian tapped two <a>Mountain</a>s and an <a>Island</a>, aiming <a>Orcish Cannonade</a> to Vincent's head! Congratulations to Sebastian Aljiaj, the GP Athens 2006 champion!</p>&#10;      <p>Sebastian Aljiaj 2 - 0 Vincent Lemoine</p>&#10;      <br>&#10;      <br>&#10;      <a name="12">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, Oct 15: 11:39 p.m. - Climbing The Olymp</b>&#10;        <div>&#10;          <i>by Hanno Terbuyken</i>&#10;        </div>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/ae/fd/aefd1191ec26ed6b34937d8aae775b4381d2b7812483154d9c6404ec604146e8.jpg">&#10;            <i>Winner Sebastian Aljiaj (left) and runner-up Vincent Lemoine celebrating their finish together.</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Whew, what a Grand Prix! With Pro Tour Kobe coming up next weekend, the European pros took their chance at some last minute Pro points. Day two had almost no amateurs: More than two thirds of all day-2-competitors had played a Pro Tour before. Although everybody has pegged them as odds-on favorites for the team title this year, the Dutchies showing paled in comparison to the Germans and the French. The players from those neighbour countries could be found on top of the standings all weekend long, with the French bringing almost all their big names to Athens.</p>&#10;      <p>Japan was represented with just as many players as the Hall of Fame, but the Japanese had the overall better finish: Kenji Tsumura, reigning player of the year, finished in 18th place, while his countryman Shuuhei Nakamura placed in the unlucky ninth spot. Shuuhei was not too unhappy, though, because he can definitely use the extra points in the Player of the Year race that he plans on winning. Hall-of-Famer Tommi Hovi played his first premier event since he was inaugurated, finishing on 41st. It could very well be that the taciturn Finn is on his way back into competitive Magic, so watch for him at Worlds in Paris!</p>&#10;      <p>Of course, speaking of races, the GP Athens champion Sebastian Thaler (formerly known as Aljiaj) cemented a gigantic lead in the Rookie of the Year race with his title. Coming to Athens, Sebastian hovered on 20 points. The extra eight that the GP gives him should be enough to carry the young German to the title, especially since he will pick up more points in Kobe and Paris. Maximilian Bracht called Sebastian &quot;the currently best German draft player&quot; and followed his way to the top honor through the whole day. &quot;Watching Sebastian play is teaching me more than day two here ever would have&quot;, explained Bracht. Germany's leading Constructed mind and the uprising Limited star are planning to team up for next year's Two-Headed-Giant Pro Tour in San Diego.</p>&#10;      <p>The last surprise of the tournament was provided by the British: They placed six players in day two, a feat long unheard of. Moxradio reporter Rich Hagon was especially ecstatic, celebrating each of the British representatives with a short burst of patriotic music and a silly nickname. Martin &quot;Ding-Ding&quot; Dingler, anyone?</p>&#10;      <p>So with congratulations to Sebastian Aljiai and all other seven Top 8 players, goodbye from GP Athens!</p>&#10;    </td>&#10;  </tr>&#10;</tbody></table>

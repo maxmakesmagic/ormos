@@ -1,0 +1,62 @@
+---
+id: fkvtyp9x
+kind: event
+lang: en
+path: /en/articles/event-coverage/undated/day-2-recap-3
+title: Day 2 Recap
+published: null
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/day-2-recap-2000-01-01-0
+    lang_detected: en
+    capture_id: 340818
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/day-2-recap-2000-01-01-0
+    captured_at: '2022-05-17 02:33:26+00'
+    rule: meta.og_title
+sources:
+- document_id: fkvtyp9x
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/day-2-recap-2000-01-01-0
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/day-2-recap-2000-01-01-0
+  lang: en
+  template: drupal
+  captured_at: '2022-05-17 02:33:26+00'
+  capture_id: 340818
+  wayback_url: https://web.archive.org/web/20220517023326id_/https://magic.wizards.com/en/articles/archive/event-coverage/day-2-recap-2000-01-01-0
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: fkvtyp9x
+  capture_id: 340818
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/day-2-recap-2000-01-01-0
+  wayback_url: https://web.archive.org/web/20220517023326id_/https://magic.wizards.com/en/articles/archive/event-coverage/day-2-recap-2000-01-01-0
+  captured_at: '2022-05-17 02:33:26+00'
+  template: drupal
+  sha256: 1da679434b19ce754d4872a76d6f9fe02bf29730d466ca67f554c240de8ca997
+render_recovery: []
+---
+![](https://i.ormos.uk/c4/43/c4434ab2f21dd49e7891812e92f8445a05bec1c1a6d1a9dab79124fe1a1a840f.jpg)
+
+Mike Turian might have been absent from Day 2's drafting tables, but once again it was the Hand of Potato that determined two of the top four teams. Both Illuminati (formerly My Team Part 17) and Car Acrobatic Team are running his draft strategy. That's twice in as many years he has broken the team draft format. How staggering an accomplishment is that, to be the go-to guy for an entire class of competition? You can bet that after New York his mailbox is going to be chock full of entreaties.
+
+The two teams to prosper from his wisdom are a strong pair. On one hand you have his friends from Team CMU, Aaron Forsythe, Andrew Cuneo and Andrew Johnson, the Car Acrobatic Team. Last year's finalists, they have the advantage of working with Turian on a regular basis. Individually they don't have a lot of titles, but a little-known fact about Cuneo is that he is the original designer of Draw-Go. Yes, that Draw-Go. The name comes from his explaining to Donnie Gallitz how the deck should be played. "Look, Donnie, just draw, then say go."
+
+The other side of the Turian coin is Illuminati, composed of Alex Shvartsman, Zvi Mowshowitz and Justin Gary. Mowshowitz of course is the Block Constructed specialist who conquered Tokyo, and Gary was in the Top 8 at Pro Tour - Rome 1999. Though Shvartsman has attended multiple Masters events, this will be his first taste of Day 3. Interestingly, while the other teams are groups who play together regularly, Mowshowitz and Shvartsman chose Gary as a free agent to fill out their team, showing up to New York with minimal practice.
+
+They acquired the sacred writings through Potato Nation's Scott Johns. Johns needed to test out these whacked-out theories, and Mowshowitz was a convenient sounding board. They ran ten whole team drafts, matches and all, by themselves. Along the way Mowshowitz was convinced that Turian had done it again, and so brought the strategy home to his team.
+
+Even Kai Budde's second-place Phoenix Foundation, are running a similar strategy, though he determined theirs independently. And Budde *is* in charge of the Foundation's drafts. Teammate Marco Blume knows better than to get in the way of the Player of the Year. He doesn't even bother to signal card preference during the draft, instead keeping his hands folded in his lap until he's told what pick to make.
+
+The fact of Budde's brokenness is well documented. He won his fourth Grand Prix just last weekend and now sits on the threshold of a fourth Pro Tour win, a feat so unprecedented that just last year the idea of someone having four Pro titles was laughable. What is he? Superhuman? Transhuman? Is he the new Finkel, or the guy that Finkel sees and thinks "You know, maybe I should step up my game."?
+
+It bears mentioning that Budde had so many pro points that he could have shown up to New York with Kojak's Ghost and the Kool-Ade Man and still qualified to compete. He practically went that far. Dirk Baberowski and Marco Blume are his longtime friends, and until recently were retired from the game. Budde put them back on active duty to make his run.
+
+Rounding out the Top 4 are the dark horse of the event: Les Plus Class. Composed of Amiel Tenenbaum, Gabriel Nassif and Nicolas Olivieri, they were the team no-one expected. Sure, Olivieri has been to twelve other Pro Tours, and Nassif just came second at Grand Prix - London last weekend, but they weren't "names" by any means. They taught their opponents respect the hard way.
+
+Even Illuminati discounted their abilities when they met in the final round. Illuminati already had their spot clinched, and seeing that they were an unknown commodity, offered a draw and a place in the Top 4. Tomorrow they will square off for real, and we'll see if Illuminati made a wise decision. It's interesting to note that if Illuminati had had to face Car Acrobatic Team in the last round, they would have played in hopes of eliminating them. Nevertheless, Les Plus Class have shown that the French are a strong group of drafters, joining Black Ops and Metagames (who finished twelfth today).
+
+The Acrobats had a hard road to the final tables. In the eleventh round they needed a win and a draw, and sat down across from Phoenix Foundation. The Foundation only needed a draw, and so offered. The Acrobats told them they'd take their chances. Three games later the Foundation was up a game in every match. Again they offered the draw, and the Acrobats took it and ran.
+
+Amazingly, the unstoppable ABU (Team AlphaBetaUnlimited.com) will not be working the semifinals. You would think that after taking so many Team Grand Prix titles they'd have a leisurely stroll to the final day, but they ended up eighteenth. Dynasty, another favorite and boasting the Old School talents of Brian Hacker and Gab Tsang, as well as the winningest Masters competitor, Ben Rubin also drafted too few wins.

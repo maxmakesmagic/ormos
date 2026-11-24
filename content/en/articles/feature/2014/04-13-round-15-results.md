@@ -1,0 +1,64 @@
+---
+id: afve240d
+kind: article
+lang: en
+path: /en/articles/feature/2014/04-13-round-15-results
+title: ROUND 15 RESULTS
+published: '2014-04-13'
+column_slug: feature
+column: Feature
+authors:
+- slug: wizardsofthecoast
+  name: Wizards of the Coast
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/round-15-results-2014-04-13-0
+    lang_detected: en
+    capture_id: 1154533
+    url: https://magic.wizards.com/en/articles/archive/round-15-results-2014-04-13-0
+    captured_at: '2022-01-19 09:13:12+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/round-15-results-2014-04-13-0
+    lang_detected: en
+    capture_id: 1154533
+    url: https://magic.wizards.com/en/articles/archive/round-15-results-2014-04-13-0
+    captured_at: '2022-01-19 09:13:12+00'
+    rule: drupal.posted_in_date
+  authors:
+    page_key: magic.wizards.com/en/articles/archive/round-15-results-2014-04-13-0
+    lang_detected: en
+    capture_id: 1154533
+    url: https://magic.wizards.com/en/articles/archive/round-15-results-2014-04-13-0
+    captured_at: '2022-01-19 09:13:12+00'
+    rule: drupal.div_author
+  column:
+    page_key: magic.wizards.com/en/articles/archive/round-15-results-2014-04-13-0
+    lang_detected: en
+    capture_id: 1154533
+    url: https://magic.wizards.com/en/articles/archive/round-15-results-2014-04-13-0
+    captured_at: '2022-01-19 09:13:12+00'
+    rule: drupal.posted_in_link
+    registry_match: registry.explicit
+sources:
+- document_id: afve240d
+  url: https://magic.wizards.com/en/articles/archive/round-15-results-2014-04-13-0
+  page_key: magic.wizards.com/en/articles/archive/round-15-results-2014-04-13-0
+  lang: en
+  template: drupal
+  captured_at: '2022-01-19 09:13:12+00'
+  capture_id: 1154533
+  wayback_url: https://web.archive.org/web/20220119091312id_/https://magic.wizards.com/en/articles/archive/round-15-results-2014-04-13-0
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: afve240d
+  capture_id: 1154533
+  url: https://magic.wizards.com/en/articles/archive/round-15-results-2014-04-13-0
+  wayback_url: https://web.archive.org/web/20220119091312id_/https://magic.wizards.com/en/articles/archive/round-15-results-2014-04-13-0
+  captured_at: '2022-01-19 09:13:12+00'
+  template: drupal
+  sha256: b00c940a06307c954a356fdae158ac1e028675b0432456943c6c6fb27ce7389f
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Result</b></td><td><b>&#10;			</b></td><td><b>Opponent</b></td></tr><tr><td> 1</td><td>Maine, Andrew D [USA]</td><td>Lost 0-2</td><td>vs.</td><td>Perez, Raymond [USA]</td></tr><tr><td> 2</td><td>Michlits, Mario [AUT]</td><td>Won 2-0</td><td>vs.</td><td>Ready, James [USA]</td></tr><tr><td> 3</td><td>Kim, Malcolm [USA]</td><td>Won 2-0</td><td>vs.</td><td>Rhodes, Austin [USA]</td></tr><tr><td> 4</td><td>Guy, Timothy [USA]</td><td>Lost 0-2</td><td>vs.</td><td>Boswell, Andrew [USA]</td></tr><tr><td> 5</td><td>Beaman, PJ [USA]</td><td>Lost 0-2</td><td>vs.</td><td>Owens, Patrick [USA]</td></tr><tr><td> 6</td><td>Johnson-Epstein, Jaspe [USA]</td><td>Won 2-0</td><td>vs.</td><td>Davoudi, Mani [USA]</td></tr><tr><td> 7</td><td>Betesh, Ralph [USA]</td><td>Won 2-0</td><td>vs.</td><td>Garosshen, Kevin [USA]</td></tr><tr><td> 8</td><td>Gagnon, Jacob [USA]</td><td>Won 2-0</td><td>vs.</td><td>Ganz, Andreas [USA]</td></tr><tr><td> 9</td><td>Smith, Zacharie [USA]</td><td>Won 2-0</td><td>vs.</td><td>Falcioni, Matt [USA]</td></tr><tr><td> 10</td><td>Kaplan, Elijah [USA]</td><td>Won 2-1</td><td>vs.</td><td>Sharp, Matthew [USA]</td></tr><tr><td> 11</td><td>Wolloch, Sam [USA]</td><td>Lost 0-2</td><td>vs.</td><td>SIDHU, JESSE [USA]</td></tr><tr><td> 12</td><td>Sweeney, Jace [USA]</td><td>Won 2-1</td><td>vs.</td><td>Gareau, Philippe [USA]</td></tr><tr><td> 13</td><td>Gerhardt, Scott [USA]</td><td>Drew 0-0-3</td><td>vs.</td><td>Michael, Kevin [USA]</td></tr><tr><td> 14</td><td>Heidenthal, Jason [USA]</td><td>Won 2-0</td><td>vs.</td><td>Jaramillo, Blaven [USA]</td></tr><tr><td> 15</td><td>Hutchison, Daniel [USA]</td><td>Won 2-0</td><td>vs.</td><td>Anderson, Todd [USA]</td></tr><tr><td> 16</td><td>Bowers, Adam [USA]</td><td>Won 2-0</td><td>vs.</td><td>Mathieson, Marcus [USA]</td></tr><tr><td> 17</td><td>Skarren, Frank [USA]</td><td>Won 2-0</td><td>vs.</td><td>McGee, Michael [USA]</td></tr><tr><td> 18</td><td>Finkel, Jon [USA]</td><td>Won 2-0</td><td>vs.</td><td>Demestrio, Joe [USA]</td></tr><tr><td> 19</td><td>Pascal, Brandon [USA]</td><td>Lost 0-2</td><td>vs.</td><td>Ingram, Peter [USA]</td></tr><tr><td> 20</td><td>Mondon, Pierre-Christo [USA]</td><td>Won 2-0</td><td>vs.</td><td>Henning, Nick [USA]</td></tr><tr><td> 21</td><td>De Los Santos, Julian [USA]</td><td>Lost 0-2</td><td>vs.</td><td>Goldstein, Danny [USA]</td></tr><tr><td> 22</td><td>Sigrist, Mike [USA]</td><td>Won 2-1</td><td>vs.</td><td>Denmon, Jeremy [USA]</td></tr><tr><td> 23</td><td>li, yuanji [USA]</td><td>Won 2-0</td><td>vs.</td><td>Walter, Royce [USA]</td></tr><tr><td> 24</td><td>Kaminsky, David [USA]</td><td>Won 2-1</td><td>vs.</td><td>Bertoncini, alex s [USA]</td></tr><tr><td> 25</td><td>Rawlings, Peter [USA]</td><td>Won 2-1</td><td>vs.</td><td>Adams, Ken G [USA]</td></tr><tr><td> 26</td><td>Katip, Scott [USA]</td><td>Lost 0-2</td><td>vs.</td><td>Vidugiris, Gaudenis [USA]</td></tr><tr><td> 27</td><td>Mackl, Valentin [AUT]</td><td>Drew 0-0-3</td><td>vs.</td><td>Hwang, Eugene [USA]</td></tr><tr><td> 28</td><td>Cuneo, Andrew [USA]</td><td>Won 2-0</td><td>vs.</td><td>Hinkle, Charles [USA]</td></tr><tr><td> 29</td><td>Shao, Phillip [USA]</td><td>Won 2-0</td><td>vs.</td><td>Stella, Daniel [USA]</td></tr><tr><td> 30</td><td>Nunes, James [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Bhanot, Meru [USA]</td></tr><tr><td> 31</td><td>Ansorge, Ethan [USA]</td><td>Won 2-1</td><td>vs.</td><td>Dombek, Jeremy [USA]</td></tr><tr><td> 32</td><td>Prosak, Doug [USA]</td><td>Drew 0-0-3</td><td>vs.</td><td>Chase, John [USA]</td></tr><tr><td> 33</td><td>Jones, Trent [USA]</td><td>Won 2-1</td><td>vs.</td><td>Crockett, Jason [USA]</td></tr><tr><td> 34</td><td>Damo da Rosa, Paulo Vi [USA]</td><td>Won 2-0</td><td>vs.</td><td>McFarland, Brian [USA]</td></tr><tr><td> 35</td><td>Rubin, Steve [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Somers, Stu [USA]</td></tr><tr><td> 36</td><td>FELICETTI, TED [USA]</td><td>Won 2-0</td><td>vs.</td><td>Chang, Morgan M [USA]</td></tr><tr><td> 37</td><td>Ogreenc, Greg [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Shiels, Brian [USA]</td></tr><tr><td> 38</td><td>Heakins, Jason [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Ritrovato, Ryan [USA]</td></tr><tr><td> 39</td><td>Kandziolka, James [USA]</td><td>Won 2-0</td><td>vs.</td><td>Barker, Zach [USA]</td></tr><tr><td> 40</td><td>Speicher, Brian [USA]</td><td>Won 2-1</td><td>vs.</td><td>Averell, David [USA]</td></tr><tr><td> 41</td><td>Passaro, Nick [USA]</td><td>Lost 0-2</td><td>vs.</td><td>Southwick, Joshua [USA]</td></tr><tr><td> 42</td><td>Favretto, Carlo [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Robillard, Joseph [USA]</td></tr><tr><td> 43</td><td>Jansen, Adam [USA]</td><td>Lost 0-2</td><td>vs.</td><td>(2) Duke, Reid [USA]</td></tr><tr><td> 44</td><td>Barrasso, Carmen [USA]</td><td>Lost 0-2</td><td>vs.</td><td>Soorani, Shaheen [USA]</td></tr><tr><td> 45</td><td>Williams, Christopher [CAN]</td><td>Lost 0-2</td><td>vs.</td><td>Eshghy, Pat [USA]</td></tr><tr><td> 46</td><td>Mitchell, Carl [USA]</td><td>Lost 0-2</td><td>vs.</td><td>Lee, Jackie [USA]</td></tr><tr><td> 47</td><td>Akpinar, Tim [USA]</td><td>Won 2-0</td><td>vs.</td><td>Pyka, Jeffrey [USA]</td></tr><tr><td> 48</td><td>Brint, Jody [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Hammer, Christian [USA]</td></tr><tr><td> 49</td><td>Tan, Richard [USA]</td><td>Won 2-0</td><td>vs.</td><td>Frei, Gabriel [BRA]</td></tr><tr><td> 50</td><td>Yetter, Adam [USA]</td><td>Lost 0-2</td><td>vs.</td><td>Jordan, Daniel [USA]</td></tr><tr><td> 51</td><td>Rinehart, Charlie [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Holiday, Nathan [USA]</td></tr><tr><td> 52</td><td>Wu, Dong [USA]</td><td>Won 2-0</td><td>vs.</td><td>Sutliff, Casey [USA]</td></tr><tr><td> 53</td><td>RISI, GEOFF [CAN]</td><td>Drew 1-1-1</td><td>vs.</td><td>Azzano, Doug [USA]</td></tr><tr><td> 54</td><td>LaFreniere, John [USA]</td><td>Won 2-0</td><td>vs.</td><td>Reed, David [USA]</td></tr><tr><td> 55</td><td>Fay, Dylan [USA]</td><td>Won 2-1</td><td>vs.</td><td>Maier, Christopher [USA]</td></tr><tr><td> 56</td><td>Briksza, Rudy [USA]</td><td>Won 2-0</td><td>vs.</td><td>Davis, Joshua [USA]</td></tr><tr><td> 57</td><td>Parker, Brock [USA]</td><td>Lost 0-2</td><td>vs.</td><td>coyne, joe [USA]</td></tr><tr><td> 58</td><td>Kemper, Greg [USA]</td><td>Won 2-0</td><td>vs.</td><td>Castro Mahoney, Robert [USA]</td></tr><tr><td> 59</td><td>Waksman, Adam [USA]</td><td>Won 2-0</td><td>vs.</td><td>Sokol, Mason [USA]</td></tr><tr><td> 60</td><td>Loveman, Eli [USA]</td><td>Won 2-0</td><td>vs.</td><td>Snyder, Jeremy [USA]</td></tr><tr><td> 61</td><td>Maassen, Nick [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Swiney, Bruce A [USA]</td></tr><tr><td> 62</td><td>Lancette, Zach [USA]</td><td>Won 2-1</td><td>vs.</td><td>Stechler, Ryan [USA]</td></tr><tr><td> 63</td><td>Usner, Jacob [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Polinsky, Ira [USA]</td></tr><tr><td> 64</td><td>Evaldi, Mark [USA]</td><td>Won 2-0</td><td>vs.</td><td>Berrios, Stephen [USA]</td></tr><tr><td> 65</td><td>(24) Ochoa, David [USA]</td><td>Lost 0-2</td><td>vs.</td><td>Parke, Jamie [USA]</td></tr><tr><td> 66</td><td>Peters, Andy [CAN]</td><td>Lost 0-2</td><td>vs.</td><td>McKay, Brendan [USA]</td></tr><tr><td> 67</td><td>Lombardi, Robert [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Grant, Brad [USA]</td></tr><tr><td> 68</td><td>Burnett, Kai [USA]</td><td>Won 2-1</td><td>vs.</td><td>Majlaton, Alex [USA]</td></tr><tr><td> 69</td><td>Langer, Brian [USA]</td><td>Lost 0-2</td><td>vs.</td><td>Villeneuve, Sebastien [USA]</td></tr><tr><td> 70</td><td>Greathouse, Robert [USA]</td><td>Won 2-1</td><td>vs.</td><td>Waltzer, Silas [USA]</td></tr><tr><td> 71</td><td>Tan, Andy [USA]</td><td>Won 2-1</td><td>vs.</td><td>Krautmann, Wenzel [USA]</td></tr><tr><td> 72</td><td>Robinson, Bradley [USA]</td><td>Won 2-1</td><td>vs.</td><td>Moir, Ben [USA]</td></tr><tr><td> 73</td><td>Seck, Benjamin [USA]</td><td>Lost 0-2</td><td>vs.</td><td>Shane, Kyle A [USA]</td></tr><tr><td> 74</td><td>Liang, Yong Li [USA]</td><td>Won 2-1</td><td>vs.</td><td>Magalhaes, Edgar [USA]</td></tr><tr><td> 75</td><td>Evaristo, Tommy [USA]</td><td>Won 2-0</td><td>vs.</td><td>Callanta, Louise [USA]</td></tr><tr><td> 76</td><td>Dean, Paul [USA]</td><td>Lost 0-2</td><td>vs.</td><td>Salvano, Jason [USA]</td></tr><tr><td> 77</td><td>Jenkins, Eric [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Tolpingrud, Nils [USA]</td></tr><tr><td> 78</td><td>Calcano, Christian [USA]</td><td>Drew 0-0-3</td><td>vs.</td><td>Mancuso, Adam [USA]</td></tr><tr><td> 79</td><td>Tharmaratnam, Samuel [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Musser, Daniel [USA]</td></tr><tr><td> 80</td><td>(25) Jensen, William [USA]</td><td>Won 2-0</td><td>vs.</td><td>Tomajko, Oliver [USA]</td></tr><tr><td> 81</td><td>Baylock, Deshaun [USA]</td><td>Won 2-0</td><td>vs.</td><td>McNamara, Brendan [USA]</td></tr><tr><td> 82</td><td>Stroh, Brian [USA]</td><td>Lost 0-2</td><td>vs.</td><td>Beaty, Aaren [USA]</td></tr><tr><td> 83</td><td>Bartolomei, Iain M [USA]</td><td>Won 2-0</td><td>vs.</td><td>Goldberg, Frazer [USA]</td></tr><tr><td> 84</td><td>Kvartek, Chris [USA]</td><td>Won 2-1</td><td>vs.</td><td>Baraniecki, Michael [USA]</td></tr><tr><td> 85</td><td>Suriel, Larry [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Seder, Robert [USA]</td></tr><tr><td> 86</td><td>Burkhart, Corey [USA]</td><td>Won 2-1</td><td>vs.</td><td>Tremblay, Sebastien [CAN]</td></tr><tr><td> 87</td><td>Victory, Robert [USA]</td><td>Lost 0-2</td><td>vs.</td><td>Chen, Mike [USA]</td></tr><tr><td> 88</td><td>Arnold, Jarod [USA]</td><td>Lost 0-2</td><td>vs.</td><td>Corvese, Harry [USA]</td></tr><tr><td>&#10;		</td><td>WANG, CARSON [USA]</td><td>&#10;		</td><td>&#10;		</td><td>* BYE *</td></tr><tr><td>&#10;		</td><td>Anctil, Kevin [USA]</td><td>&#10;		</td><td>&#10;		</td><td>* BYE *</td></tr><tr><td>&#10;		</td><td>Giles, Devon [USA]</td><td>&#10;		</td><td>&#10;		</td><td>* BYE *</td></tr><tr><td>&#10;		</td><td>Ouellet, ??Ç?tienne [USA]</td><td>&#10;		</td><td>&#10;		</td><td>* BYE *</td></tr><tr><td>&#10;		</td><td>Schrage, Michael [USA]</td><td>&#10;		</td><td>&#10;		</td><td>* BYE *</td></tr><tr><td>&#10;		</td><td>Shiels, David [USA]</td><td>&#10;		</td><td>&#10;		</td><td>* BYE *</td></tr><tr><td>&#10;		</td><td>Thompson, Connor [USA]</td><td>&#10;		</td><td>&#10;		</td><td>* BYE *</td></tr></tbody></table>

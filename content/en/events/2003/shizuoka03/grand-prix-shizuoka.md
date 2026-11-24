@@ -1,0 +1,216 @@
+---
+id: 5q3vkwvs
+kind: event
+lang: en
+path: /en/events/2003/shizuoka03/grand-prix-shizuoka
+title: Grand Prix - Shizuoka
+published: null
+column_slug: null
+column: null
+authors: []
+event_code: shizuoka03
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/article.aspx?x=grandprix/shizuoka03/facts
+    lang_detected: en
+    capture_id: 314696
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=grandprix/shizuoka03/facts
+    captured_at: '2013-07-07 07:52:44+00'
+    rule: aspx.article_heading
+  event_code:
+    page_key: wizards.com/magic/magazine/article.aspx?x=grandprix/shizuoka03/facts
+    lang_detected: en
+    capture_id: 314696
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=grandprix/shizuoka03/facts
+    captured_at: '2013-07-07 07:52:44+00'
+    rule: url.event_code
+sources:
+- document_id: 5q3vkwvs
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=grandprix/shizuoka03/facts
+  page_key: wizards.com/magic/magazine/article.aspx?x=grandprix/shizuoka03/facts
+  lang: en
+  template: aspx
+  captured_at: '2013-07-07 07:52:44+00'
+  capture_id: 314696
+  wayback_url: https://web.archive.org/web/20130707075244id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=grandprix/shizuoka03/facts
+- document_id: 5q3vkwvs
+  url: http://www.wizards.com/default.asp?x=grandprix/shizuoka03/facts
+  page_key: wizards.com/default.asp?x=grandprix/shizuoka03/facts
+  lang: en
+  template: classic_asp
+  captured_at: '2005-02-24 23:39:18+00'
+  capture_id: 1786287
+  wayback_url: https://web.archive.org/web/20050224233918id_/http://www.wizards.com/default.asp?x=grandprix/shizuoka03/facts
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 5q3vkwvs
+  capture_id: 314696
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=grandprix/shizuoka03/facts
+  wayback_url: https://web.archive.org/web/20130707075244id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=grandprix/shizuoka03/facts
+  captured_at: '2013-07-07 07:52:44+00'
+  template: aspx
+  sha256: 565d8493d24ff0284498f78e936791ff41584f3b391542cb50c14714295de555
+render_recovery:
+- code: unsupported_link
+  element: a
+  target: javascript:alert("not implemented yet (external)");
+  reason: The archived link runs JavaScript. The preview kept its text.
+  labels:
+  - www.t-messe.or.jp/twin-m/index.html
+  - Magic home page
+  occurrences: 2
+- code: unsupported_link
+  element: a
+  target: javascript:alert("not implemented yet (mail)");
+  reason: The archived link runs JavaScript. The preview kept its text.
+  labels:
+  - ron.foster@wizards.com
+  occurrences: 1
+---
+**Magic: The Gathering Pro Tour – Amsterdam Qualifier  
+ November 8-9, 2003** 
+
+[日本語の案内ページ](https://web.archive.org/web/20090604051442/https://www.wizards.com/Magic/Magazine/Article.aspx?x=grandprix/shizuoka03/facts,,ja)  
+ [Trial Schedule](/jav/events/2003/shizuoka03/grand-prix-shizuoka-trial-schedule) 
+
+The **Magic: The Gathering**® Grand Prix tournament series is an international circuit of large-scale Qualifier tournaments featuring cash prizes and multiple invitations to Pro Tour™ events.
+
+### TOURNAMENT FORMAT AND SCHEDULE
+
+The format for Grand Prix – Shizuoka is *Mirrodin*™ Block Sealed Deck, with Day 2 Rochester Draft. All DCI™ Limited rules and **Magic**® Floor Rules announced on October 1, 2003, along with all subsequent updates, will be enforced. .For the latest edition of the DCI and **Magic** Floor Rules, please refer to the [DCI Rules](/en/articles/event-coverage/2002/12-29-2003-2004-dci-rules) web site.
+
+*   **Friday, November 7:** Registration from 14:00-20:00. Players who cannot attend registration will be allowed to register on Saturday morning between 08:00 and 08:30 for ¥4000.
+*   **Saturday, November 8:** Tournament begins at 09:00. The Top 64 players from Day 1 advance to Day 2.
+*   **Sunday, November 9:** Play begins at 9:00. The Top 8 players from Day 2 will play 3 rounds of single-elimination competition to determine the Grand Prix – Shizuoka champion.
+
+![](https://i.ormos.uk/1a/a7/1aa7a683aa83220c67a0f96adae21c59f5ebd173b9630705764d449a795440f2.jpg) **Twin Messe Shizuoka**  
+ 3-1-10 Magarikane  
+ Shizuoka-shi, Shizuoka-ken  
+www.t-messe.or.jp/twin-m/index.html
+
+**ACCESS TO TWIN MESSE SHIZUOKA**  
+ 
+
+*   15 minute walk from Kasuga station on the Seitetsu Densha line.
+*   10 minutes via taxi from JR Shizuoka station, South Exit. (Shizuoka station is approximately 90 from Tokyo via Shinkansen bullet train.)
+
+  
+ ![](https://www.wizards.com/global/images/grandprix_shizuoka03_facts_pic1_en.jpg)
+
+**ENTRY FEE**  
+ ¥ 3,500 (includes sealed deck product fee)
+
+**TOURNAMENT PREREGISTRATION AND PLAYER CONTACT**  
+Players may pre-register online no later than October 27 (Monday) at Hobby Japan's Magic home page. (Note: In order to use Hobby Japan's online registration page, your browser must be capable of displaying Japanese.)
+
+**Contact for Non-Japanese Players**  
+ Ron Foster, Japan Organized Play Manager  
+ Phone: +81-3-5326-3102  
+ Email: ron.foster@wizards.com
+
+### TOURNAMENT DETAILS
+
+**Divisions**  
+ The main tournament at Grand Prix – Shizuoka is open to **Magic** players of all ages.
+
+*If the player who wins an invitation to Pro Tour – Amsterdam at Grand Prix – Shizuoka has already qualified for an invitation, the invitation shall be extended to the next-best finisher. Previous qualification may occur through a Qualifier tournament, through performance at a professional tournament, or by being an invited DCI player (valid on the date of the official rank announcement for the appropriate professional tournament).* 
+
+**Tournament Format**  
+ The format for Grand Prix – Shizuoka is *Mirrodin* Block Sealed Deck and Rochester Draft. All DCI Limited rules and **Magic** Floor Rules announced on October 1, 2003, along with all subsequent updates, will be enforced. 
+
+For the latest information on Limited formats, refer to the [2002 Floor Rules](/en/articles/event-coverage/2002/12-29-2003-2004-dci-rules).
+
+**Tournament Structure**  
+ The structure for Grand Prix – Shizuoka is modified Swiss-style (50-minute rounds, with the number of rounds determined by the number of participants), with the Top 64 players advancing to the Sunday finals for prizes and invitations. The first day of competition will consist of Sealed Deck. On Day 2, there will be a Rochester draft and 3 Swiss rounds of competition, followed by another draft with 3 additional Swiss rounds, to determine the Top 8 players. After performing another draft, the Top 8 players will face off in single elimination play to determine the Grand Prix—Shizuoka champion.
+
+**Tournament Byes** *(Byes are not cumulative through the season or year.)*  
+Byes for Grand Prix – Shizuoka are based on the 2003 World Championship professional standings and DCI ratings as of August 20, 2003. Please refer to the Grand Prix Shizuoka [Bye List](/en/events/2003/shizuoka03/grand-prix-shizuoka-byes) for details. 
+
+**HEAD JUDGE**  
+ Akio Sugaya (Level 3/Japan)
+
+**PRIZE PAYOUT**  
+Grand Prix–Shizuoka will feature the standard main tournament prize schedule as well as a special Amateur prize schedule. The Amateur prizes will be paid to the highest-finishing amateur players *in addition to any winnings those players receive from the main tournament prize schedule* . All prizes are in U.S. Dollars.
+
+<table>&#10;  <tbody><tr>&#10;    <td colspan="2">&#10;      <b>Main Tournament Prize Schedule</b>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <b>Finish</b>&#10;    </td>&#10;    <td>&#10;      <b>Prize</b>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>1st</td>&#10;    <td>$2,400</td>&#10;  </tr>&#10;  <tr>&#10;    <td>2nd</td>&#10;    <td>$1,700</td>&#10;  </tr>&#10;  <tr>&#10;    <td>3rd</td>&#10;    <td>$1,200</td>&#10;  </tr>&#10;  <tr>&#10;    <td>4th</td>&#10;    <td>$1,000</td>&#10;  </tr>&#10;  <tr>&#10;    <td>5th-8th</td>&#10;    <td>$800</td>&#10;  </tr>&#10;  <tr>&#10;    <td>9th-16th</td>&#10;    <td>$500</td>&#10;  </tr>&#10;  <tr>&#10;    <td>17th-32nd</td>&#10;    <td>$250</td>&#10;  </tr>&#10;  <tr>&#10;    <td colspan="2">&#10;      <b>Total: $17,500</b>&#10;    </td>&#10;  </tr>&#10;</tbody></table>
+
+<table>&#10;  <tbody><tr>&#10;    <td colspan="2">&#10;      <b>Amateur Division Prize Schedule</b>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <b>Finish</b>&#10;    </td>&#10;    <td>&#10;      <b>Prize</b>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>1st</td>&#10;    <td>$1,500</td>&#10;  </tr>&#10;  <tr>&#10;    <td>2nd</td>&#10;    <td>$1,000</td>&#10;  </tr>&#10;  <tr>&#10;    <td>3rd-4th</td>&#10;    <td>$700</td>&#10;  </tr>&#10;  <tr>&#10;    <td>5th-8th</td>&#10;    <td>$400</td>&#10;  </tr>&#10;  <tr>&#10;    <td>9th-16th</td>&#10;    <td>$250</td>&#10;  </tr>&#10;  <tr>&#10;    <td colspan="2">&#10;      <b>Total: $7,500</b>&#10;    </td>&#10;  </tr>&#10;</tbody></table>
+
+  
+  
+
+A player is considered to have amateur status if he or she has 0 lifetime pro points. If a player has ever been awarded ANY pro points from a Grand Prix, Pro Tour, or World Championship event, that player no longer has amateur status, may not participate in the Amateur Championship or Junior Super Series tournaments, and is not eligible for amateur awards at Grand Prix or other tournaments.
+
+### SIDE EVENTS
+
+*   Pro Tour – Amsterdam Qualifier
+*   Shizuoka Open Tournament
+*   Shizuoka Junior Open
+*   Eight-person, on-demand tournaments
+*   Artist signings
+
+**PRO TOUR – AMSTERDAM QUALIFIER TOURNAMENT**  
+ 
+
+*   When: November 9 (Sunday)
+*   Entry Fee: ¥ 3,500 (includes sealed deck product)
+*   Format: *Mirrodin* Sealed Deck and Rochester draft
+*   Registration: Saturday, November 8 from 17:30.
+*   Prizes: The top two players will each win an invitation to Pro Tour—Amsterdam. Additionally, the first place player will earn ¥ 50,000 in travel money.
+
+**SHIZUOKA OPEN TOURNAMENT**  
+ 
+
+*   When: November 9 (Sunday)
+*   Entry Fee: ¥ 1,000
+*   Format: Standard
+*   Registration: Registration for the morning Open Tournament will be held from 09:00-09:30. Registration for the afternoon Open Tournament will be held from 12:00-12:30.
+*   Prizes: The first place player in each tournament will win 2 boxes of *Mirrodin* boosters. The runner-up will receive 1 box of *Mirrodin* boosters, while the 3rd-8th place players will each receive 12 *Mirrodin* booster packs.
+
+**SHIZUOKA JUNIOR TOURNAMENT**  
+ 
+
+*   When: November 9 (Sunday)
+*   Entry Fee: ¥ 500
+*   Format: Standard
+*   Registration: Registration for the Junior Open will be held on Sunday from 09:00-09:30. NOTE: Participation in the Junior Open is limited to players aged 14 and younger.
+*   Prizes: The winner of the Shizuoka Junior Open will receive 1 box of *Mirrodin* boosters. The runner-up will receive 18 *Mirrodin* booster packs, while 3rd-8th place will each receive 6 *Mirrodin* booster packs.
+
+**EIGHT-PERSON ON-DEMAND TOURNAMENTS**  
+ 
+
+*   Standard, Extended: ¥ 500
+*   Booster Draft: ¥ 1,000
+*   Sealed Deck: ¥ 2,000
+
+**SPECIAL GUEST ARTIST**  
+ 
+
+*   [Rob Alexander](/en/events/2003/shizuoka03/grand-prix-shizuoka-artist-rob-alexander)
+
+### TRAVEL INFORMATION
+
+**PLAYER ACCOMMODATIONS**  
+ NOTE: The following hotels are not endorsed by or affiliated with Wizards of the Coast. The hotels on this list are taken from guidebooks and provided here for your convenience only.
+
+*   Hotel Century Shizuoka
+     18-1 Minami-chou
+     Shizuoka-shi
+     Phone: 054-284-0111
+     Fax: 054-289-5300
+     Single rooms from ¥ 11,000
+
+*   Hotel New Shizuoka
+     1-7 Morishita-chou
+     Shizuoka-shi
+     Phone: 054-283-8811
+     Fax: 054-283-8684
+     Single rooms from ¥ 7,500
+
+*   Shizuoka Orange Hotel
+     1-6-4 Inagawa
+     Shizuoka-shi
+     Phone: 054-283-5100
+     Fax: 054-284-3308
+     Single rooms from ¥ 5,600

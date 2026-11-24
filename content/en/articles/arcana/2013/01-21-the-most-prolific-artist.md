@@ -1,0 +1,84 @@
+---
+id: j3tvffn7
+kind: article
+lang: en
+path: /en/articles/arcana/2013/01-21-the-most-prolific-artist
+title: The Most Prolific Artist
+published: '2013-01-21'
+column_slug: arcana
+column: Arcana
+authors:
+- slug: montyashley
+  name: Monty Ashley
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/arcana/most-prolific-artist-2013-01-21
+    lang_detected: en
+    capture_id: 185617
+    url: https://magic.wizards.com/en/articles/archive/arcana/most-prolific-artist-2013-01-21
+    captured_at: '2022-06-25 03:09:32+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/arcana/most-prolific-artist-2013-01-21
+    lang_detected: en
+    capture_id: 185617
+    url: https://magic.wizards.com/en/articles/archive/arcana/most-prolific-artist-2013-01-21
+    captured_at: '2022-06-25 03:09:32+00'
+    rule: drupal.posted_in_date
+  authors:
+    page_key: magic.wizards.com/en/articles/archive/arcana/most-prolific-artist-2013-01-21
+    lang_detected: en
+    capture_id: 185617
+    url: https://magic.wizards.com/en/articles/archive/arcana/most-prolific-artist-2013-01-21
+    captured_at: '2022-06-25 03:09:32+00'
+    rule: drupal.div_author
+  column:
+    page_key: magic.wizards.com/en/articles/archive/arcana/most-prolific-artist-2013-01-21
+    lang_detected: en
+    capture_id: 185617
+    url: https://magic.wizards.com/en/articles/archive/arcana/most-prolific-artist-2013-01-21
+    captured_at: '2022-06-25 03:09:32+00'
+    rule: url.article_section
+    registry_match: registry.explicit
+sources:
+- document_id: j3tvffn7
+  url: https://magic.wizards.com/en/articles/archive/arcana/most-prolific-artist-2013-01-21
+  page_key: magic.wizards.com/en/articles/archive/arcana/most-prolific-artist-2013-01-21
+  lang: en
+  template: drupal
+  captured_at: '2022-06-25 03:09:32+00'
+  capture_id: 185617
+  wayback_url: https://web.archive.org/web/20220625030932id_/https://magic.wizards.com/en/articles/archive/arcana/most-prolific-artist-2013-01-21
+- document_id: j3tvffn7
+  url: http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/arcana/1151
+  page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/arcana/1151
+  lang: en
+  template: aspx
+  captured_at: '2013-12-05 07:15:41+00'
+  capture_id: 335288
+  wayback_url: https://web.archive.org/web/20131205071541id_/http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/arcana/1151
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: j3tvffn7
+  capture_id: 185617
+  url: https://magic.wizards.com/en/articles/archive/arcana/most-prolific-artist-2013-01-21
+  wayback_url: https://web.archive.org/web/20220625030932id_/https://magic.wizards.com/en/articles/archive/arcana/most-prolific-artist-2013-01-21
+  captured_at: '2022-06-25 03:09:32+00'
+  template: drupal
+  sha256: ecdc62554d4ebf9a552b634452d3ecf1b24eb1e6b51a14ac220e8eeb9468dc92
+render_recovery: []
+---
+It's a simple question: who's the most prolific **Magic** artist?
+
+Or is it? When Trick Jarrett came up with this question over the holiday break, he had to define his terms. So what we're looking for is the artist with the most individual pieces of art. Robert Bliss's [Pacifism](https://web.archive.org/web/20130121000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=259712) first appeared in *Mirage* and has appeared in eight core sets, but it should only count once. On the other hand, we'd like to count alternate art made for promo cards.
+
+So we dove into our internal card database and came back with some comprehensive answers! And then we realized that what we were looking at was a little *too* comprehensive, because it included all art that had been done, regardless of whether it had been released yet. And we didn't bother changing the art credits for *Unhinged*, so Pete Venters doesn't get credited for [Erase (Not the Urza's Legacy One)](https://web.archive.org/web/20130121000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=74275) because the official artist is Pete "Yes the *Urza's Legacy* One" Venters.
+
+Okay. So, with those caveats, here's a list of the top **Magic** artists that we think is mostly correct. It's pretty close.
+
+<table><tbody><tr><td>Artist Credit</td><td>Total Count</td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20130121000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&amp;method=visual&amp;action=advanced&amp;artist=+%5B%22Kev%20Walker%22%5D">Kev Walker</a></td><td>342</td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20130121000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&amp;method=visual&amp;action=advanced&amp;artist=+%5B%22Pete%20Venters%22%5D">Pete Venters</a></td><td>295</td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20130121000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&amp;method=visual&amp;action=advanced&amp;artist=+%5B%22John%20Avon%22%5D">John Avon</a></td><td>280</td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20130121000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&amp;method=visual&amp;action=advanced&amp;artist=+%5B%22Christopher%20Moeller%22%5D">Christopher Moeller</a></td><td>264</td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20130121000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&amp;method=visual&amp;action=advanced&amp;artist=+%5B%22Greg%20Staples%22%5D">Greg Staples</a></td><td>263</td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20130121000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&amp;method=visual&amp;action=advanced&amp;artist=+%5B%22Ron%20Spencer%22%5D">Ron Spencer</a></td><td>243</td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20130121000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&amp;method=visual&amp;action=advanced&amp;artist=+%5B%22Mark%20Tedin%22%5D">Mark Tedin</a></td><td>219</td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20130121000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&amp;method=visual&amp;action=advanced&amp;artist=+%5B%22Carl%20Critchlow%22%5D">Carl Critchlow</a></td><td>214</td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20130121000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&amp;method=visual&amp;action=advanced&amp;artist=+%5B%22Heather%20Hudson%22%5D">Heather Hudson</a></td><td>205</td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20130121000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&amp;method=visual&amp;action=advanced&amp;artist=+%5B%22Rob%20Alexander%22%5D">Rob Alexander</a></td><td>201</td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20130121000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&amp;method=visual&amp;action=advanced&amp;artist=+%5B%22Daren%20Bader%22%5D">Daren Bader</a></td><td>181</td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20130121000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&amp;method=visual&amp;action=advanced&amp;artist=+%5B%22Terese%20Nielsen%22%5D">Terese Nielsen</a></td><td>177</td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20130121000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&amp;method=visual&amp;action=advanced&amp;artist=+%5B%22Matt%20Cavotta%22%5D">Matt Cavotta</a></td><td>175</td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20130121000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&amp;method=visual&amp;action=advanced&amp;artist=+%5B%22Dan%20Scott%22%5D">Dan Scott</a></td><td>169</td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20130121000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&amp;method=visual&amp;action=advanced&amp;artist=+%5B%22Dan%20Frazier%22%5D">Dan Frazier</a></td><td>168</td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20130121000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&amp;method=visual&amp;action=advanced&amp;artist=+%5B%22Randy%20Gallegos%22%5D">Randy Gallegos</a></td><td>155</td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20130121000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&amp;method=visual&amp;action=advanced&amp;artist=+%5B%22Rebecca%20Guay%22%5D">Rebecca Guay</a></td><td>153</td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20130121000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&amp;method=visual&amp;action=advanced&amp;artist=+%5B%22Scott%20M.%20Fischer%22%5D">Scott M. Fischer</a></td><td>147</td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20130121000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&amp;method=visual&amp;action=advanced&amp;artist=+%5B%22Alan%20Pollack%22%5D">Alan Pollack</a></td><td>143</td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20130121000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&amp;method=visual&amp;action=advanced&amp;artist=+%5B%22Jim%20Nelson%22%5D">Jim Nelson</a></td><td>143</td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20130121000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&amp;method=visual&amp;action=advanced&amp;artist=+%5B%22Steve%20Prescott%22%5D">Steve Prescott</a></td><td>142</td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20130121000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&amp;method=visual&amp;action=advanced&amp;artist=+%5B%22Mark%20Zug%22%5D">Mark Zug</a></td><td>140</td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20130121000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&amp;method=visual&amp;action=advanced&amp;artist=+%5B%22Brian%20Snoddy%22%5D">Brian Snoddy</a></td><td>133</td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20130121000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&amp;method=visual&amp;action=advanced&amp;artist=+%5B%22Zoltan%20Boros%20&amp;%20Gabor%20Szikszai%22%5D">Zoltan Boros &amp; Gabor Szikszai</a></td><td>131</td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20130121000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&amp;method=visual&amp;action=advanced&amp;artist=+%5B%22Christopher%20Rush%22%5D">Christopher Rush</a></td><td>130</td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20130121000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&amp;method=visual&amp;action=advanced&amp;artist=+%5B%22Mark%20Poole%22%5D">Mark Poole</a></td><td>130</td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20130121000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&amp;method=visual&amp;action=advanced&amp;artist=+%5B%22Anson%20Maddocks%22%5D">Anson Maddocks</a></td><td>128</td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20130121000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&amp;method=visual&amp;action=advanced&amp;artist=+%5B%22Adam%20Rex%22%5D">Adam Rex</a></td><td>127</td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20130121000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&amp;method=visual&amp;action=advanced&amp;artist=+%5B%22rk%20post%22%5D">rk post</a></td><td>126</td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20130121000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&amp;method=visual&amp;action=advanced&amp;artist=+%5B%22Karl%20Kopinski%22%5D">Karl Kopinski</a></td><td>125</td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20130121000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&amp;method=visual&amp;action=advanced&amp;artist=+%5B%22Chippy%22%5D">Chippy</a></td><td>124</td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20130121000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&amp;method=visual&amp;action=advanced&amp;artist=+%5B%22Douglas%20Shuler%22%5D">Douglas Shuler</a></td><td>124</td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20130121000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&amp;method=visual&amp;action=advanced&amp;artist=+%5B%22Donato%20Giancola%22%5D">Donato Giancola</a></td><td>119</td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20130121000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&amp;method=visual&amp;action=advanced&amp;artist=+%5B%22Dave%20Kendall%22%5D">Dave Kendall</a></td><td>118</td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20130121000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&amp;method=visual&amp;action=advanced&amp;artist=+%5B%22Thomas%20M.%20Baxa%22%5D">Thomas M. Baxa</a></td><td>118</td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20130121000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&amp;method=visual&amp;action=advanced&amp;artist=+%5B%22Alex%20Horley-Orlandelli%22%5D">Alex Horley-Orlandelli</a></td><td>117</td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20130121000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&amp;method=visual&amp;action=advanced&amp;artist=+%5B%22John%20Matson%22%5D">John Matson</a></td><td>113</td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20130121000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&amp;method=visual&amp;action=advanced&amp;artist=+%5B%22Ron%20Spears%22%5D">Ron Spears</a></td><td>113</td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20130121000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&amp;method=visual&amp;action=advanced&amp;artist=+%5B%22Anthony%20S.%20Waters%22%5D">Anthony S. Waters</a></td><td>112</td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20130121000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&amp;method=visual&amp;action=advanced&amp;artist=+%5B%22Jeff%20Miracola%22%5D">Jeff Miracola</a></td><td>112</td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20130121000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&amp;method=visual&amp;action=advanced&amp;artist=+%5B%22Wayne%20England%22%5D">Wayne England</a></td><td>112</td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20130121000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&amp;method=visual&amp;action=advanced&amp;artist=+%5B%22Wayne%20Reynolds%22%5D">Wayne Reynolds</a></td><td>111</td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20130121000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&amp;method=visual&amp;action=advanced&amp;artist=+%5B%22Steven%20Belledin%22%5D">Steven Belledin</a></td><td>110</td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20130121000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&amp;method=visual&amp;action=advanced&amp;artist=+%5B%22Edward%20P.%20Beard,%20Jr.%22%5D">Edward P. Beard, Jr.</a></td><td>109</td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20130121000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&amp;method=visual&amp;action=advanced&amp;artist=+%5B%22Dave%20Dorman%22%5D">Dave Dorman</a></td><td>106</td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20130121000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&amp;method=visual&amp;action=advanced&amp;artist=+%5B%22Paolo%20Parente%22%5D">Paolo Parente</a></td><td>101</td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20130121000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&amp;method=visual&amp;action=advanced&amp;artist=+%5B%22Nils%20Hamm%22%5D">Nils Hamm</a></td><td>100</td>&#10;				</tr></tbody></table>
+
+  
+
+Now for some bonus information! This same question was asked in 2005, and answered on [March 10](/en/articles/askwizards/2005/03-01-ask-wizards-march-2005). At that time, Pete Venters was number one with 241. Kev Walker's really roared up the list since then!

@@ -1,0 +1,298 @@
+---
+id: z5m8ykss
+kind: event
+lang: en
+path: /en/articles/event-coverage/2000/01-01-round-1-vs-3
+title: 'Round 1: 井村和夫 vs. 野瀬正博'
+published: '2000-01-01'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-1-%E4%BA%95%E6%9D%91%E5%92%8C%E5%A4%AB-vs-%E9%87%8E%E7%80%AC%E6%AD%A3%E5%8D%9A-2000-01-01
+    lang_detected: en
+    capture_id: 476548
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-1-%E4%BA%95%E6%9D%91%E5%92%8C%E5%A4%AB-vs-%E9%87%8E%E7%80%AC%E6%AD%A3%E5%8D%9A-2000-01-01
+    captured_at: '2022-01-20 09:29:41+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-1-%E4%BA%95%E6%9D%91%E5%92%8C%E5%A4%AB-vs-%E9%87%8E%E7%80%AC%E6%AD%A3%E5%8D%9A-2000-01-01
+    lang_detected: en
+    capture_id: 476548
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-1-%E4%BA%95%E6%9D%91%E5%92%8C%E5%A4%AB-vs-%E9%87%8E%E7%80%AC%E6%AD%A3%E5%8D%9A-2000-01-01
+    captured_at: '2022-01-20 09:29:41+00'
+    rule: url.date_slug
+sources:
+- document_id: z5m8ykss
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-1-%E4%BA%95%E6%9D%91%E5%92%8C%E5%A4%AB-vs-%E9%87%8E%E7%80%AC%E6%AD%A3%E5%8D%9A-2000-01-01
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/round-1-%E4%BA%95%E6%9D%91%E5%92%8C%E5%A4%AB-vs-%E9%87%8E%E7%80%AC%E6%AD%A3%E5%8D%9A-2000-01-01
+  lang: en
+  template: drupal
+  captured_at: '2022-01-20 09:29:41+00'
+  capture_id: 476548
+  wayback_url: https://web.archive.org/web/20220120092941id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-1-%E4%BA%95%E6%9D%91%E5%92%8C%E5%A4%AB-vs-%E9%87%8E%E7%80%AC%E6%AD%A3%E5%8D%9A-2000-01-01
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: z5m8ykss
+  capture_id: 476548
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-1-%E4%BA%95%E6%9D%91%E5%92%8C%E5%A4%AB-vs-%E9%87%8E%E7%80%AC%E6%AD%A3%E5%8D%9A-2000-01-01
+  wayback_url: https://web.archive.org/web/20220120092941id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-1-%E4%BA%95%E6%9D%91%E5%92%8C%E5%A4%AB-vs-%E9%87%8E%E7%80%AC%E6%AD%A3%E5%8D%9A-2000-01-01
+  captured_at: '2022-01-20 09:29:41+00'
+  template: drupal
+  sha256: d688ff1e5f48b63cf97402b3959fef987ad82d966d9cf6507d804b533cf2c460
+render_recovery:
+- code: deck_widget_requires_review
+  element: a
+  reason: The archived deck widget has no visible card rows. The source capture may
+    contain data to recover it.
+  labels:
+  - Decklist
+  occurrences: 2
+---
+#### Nose Masahiro
+
+##### 
+
+ ![Download Arena Decklist](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png) ![](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+[Decklist](#none) [Stats](#none) [Sample Hand](#none) 
+
+Sort by: 
+
+##### Creature (15)
+
+2 [Frightcrawler](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFrightcrawler%5D) 1 [Cabal Inquisitor](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCabal%5D+%5BInquisitor%5D) 1 [Famished Ghoul](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFamished%5D+%5BGhoul%5D) 1 [Zombie Cannibal](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZombie%5D+%5BCannibal%5D) 1 [Fledgling Imp](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFledgling%5D+%5BImp%5D) 1 [Childhood Horror](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChildhood%5D+%5BHorror%5D) 1 [Dwarven Grunt](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDwarven%5D+%5BGrunt%5D) 1 [Dwarven Recruiter](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDwarven%5D+%5BRecruiter%5D) 1 [Pardic Firecat](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPardic%5D+%5BFirecat%5D) 1 [Pardic Miner](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPardic%5D+%5BMiner%5D) 1 [Pardic Swordsmith](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPardic%5D+%5BSwordsmith%5D) 1 [Savage Firecat](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSavage%5D+%5BFirecat%5D) 1 [Chainflinger](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChainflinger%5D) 1 [Anarchist](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnarchist%5D) 
+
+##### Sorcery (3)
+
+1 [Firebolt](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFirebolt%5D) 1 [Scorching Missile](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScorching%5D+%5BMissile%5D) 1 [Acceptable Losses](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAcceptable%5D+%5BLosses%5D) 
+
+##### Instant (4)
+
+1 [Ghastly Demise](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhastly%5D+%5BDemise%5D) 1 [Afflict](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAfflict%5D) 1 [Flame Burst](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlame%5D+%5BBurst%5D) 1 [Rites of Initiation](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRites%5D+%5Bof%5D+%5BInitiation%5D) 
+
+##### Artifact (1)
+
+1 [Sandstone Deadfall](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSandstone%5D+%5BDeadfall%5D) 
+
+##### Enchantment (2)
+
+2 [Patriarch's Desire](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPatriarch%5D+%5BDesire%5D) 
+
+##### Land (19)
+
+9 [Mountain](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D) 8 [Swamp](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D) 1 [Ravaged Highlands](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRavaged%5D+%5BHighlands%5D) 1 [Bog Wreckage](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBog%5D+%5BWreckage%5D) 
+
+##### Other (2)
+
+1 Zonbie Infestation 1 Morque Theft 
+
+46 Cards 
+
+##### Black (11)
+
+2 [Frightcrawler](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFrightcrawler%5D) 1 [Cabal Inquisitor](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCabal%5D+%5BInquisitor%5D) 1 [Famished Ghoul](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFamished%5D+%5BGhoul%5D) 1 [Zombie Cannibal](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZombie%5D+%5BCannibal%5D) 1 [Fledgling Imp](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFledgling%5D+%5BImp%5D) 1 [Childhood Horror](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChildhood%5D+%5BHorror%5D) 1 [Ghastly Demise](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhastly%5D+%5BDemise%5D) 1 [Afflict](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAfflict%5D) 2 [Patriarch's Desire](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPatriarch%5D+%5BDesire%5D) 
+
+##### Red (13)
+
+1 [Dwarven Grunt](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDwarven%5D+%5BGrunt%5D) 1 [Dwarven Recruiter](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDwarven%5D+%5BRecruiter%5D) 1 [Pardic Firecat](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPardic%5D+%5BFirecat%5D) 1 [Pardic Miner](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPardic%5D+%5BMiner%5D) 1 [Pardic Swordsmith](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPardic%5D+%5BSwordsmith%5D) 1 [Savage Firecat](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSavage%5D+%5BFirecat%5D) 1 [Chainflinger](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChainflinger%5D) 1 [Anarchist](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnarchist%5D) 1 [Firebolt](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFirebolt%5D) 1 [Flame Burst](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlame%5D+%5BBurst%5D) 1 [Scorching Missile](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScorching%5D+%5BMissile%5D) 1 [Rites of Initiation](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRites%5D+%5Bof%5D+%5BInitiation%5D) 1 [Acceptable Losses](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAcceptable%5D+%5BLosses%5D) 
+
+##### Colorless (22)
+
+9 [Mountain](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D) 8 [Swamp](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D) 1 [Ravaged Highlands](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRavaged%5D+%5BHighlands%5D) 1 [Bog Wreckage](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBog%5D+%5BWreckage%5D) 1 [Sandstone Deadfall](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSandstone%5D+%5BDeadfall%5D) 1 Zonbie Infestation 1 Morque Theft 
+
+46 Cards 
+
+##### 1 (5)
+
+1 [Zombie Cannibal](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZombie%5D+%5BCannibal%5D) 1 [Dwarven Grunt](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDwarven%5D+%5BGrunt%5D) 1 [Ghastly Demise](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhastly%5D+%5BDemise%5D) 1 [Firebolt](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFirebolt%5D) 1 [Rites of Initiation](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRites%5D+%5Bof%5D+%5BInitiation%5D) 
+
+##### 2 (5)
+
+2 [Frightcrawler](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFrightcrawler%5D) 1 [Cabal Inquisitor](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCabal%5D+%5BInquisitor%5D) 1 [Pardic Miner](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPardic%5D+%5BMiner%5D) 1 [Flame Burst](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlame%5D+%5BBurst%5D) 
+
+##### 3 (5)
+
+1 [Fledgling Imp](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFledgling%5D+%5BImp%5D) 1 [Dwarven Recruiter](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDwarven%5D+%5BRecruiter%5D) 1 [Pardic Swordsmith](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPardic%5D+%5BSwordsmith%5D) 1 [Sandstone Deadfall](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSandstone%5D+%5BDeadfall%5D) 1 [Afflict](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAfflict%5D) 
+
+##### 4 (8)
+
+1 [Famished Ghoul](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFamished%5D+%5BGhoul%5D) 1 [Childhood Horror](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChildhood%5D+%5BHorror%5D) 1 [Pardic Firecat](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPardic%5D+%5BFirecat%5D) 1 [Chainflinger](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChainflinger%5D) 2 [Patriarch's Desire](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPatriarch%5D+%5BDesire%5D) 1 [Scorching Missile](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScorching%5D+%5BMissile%5D) 1 [Acceptable Losses](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAcceptable%5D+%5BLosses%5D) 
+
+##### 5 (2)
+
+1 [Savage Firecat](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSavage%5D+%5BFirecat%5D) 1 [Anarchist](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnarchist%5D) 
+
+25 Cards 
+
+##### Common (38)
+
+9 [Mountain](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D) 8 [Swamp](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D) 1 [Ravaged Highlands](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRavaged%5D+%5BHighlands%5D) 1 [Bog Wreckage](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBog%5D+%5BWreckage%5D) 2 [Frightcrawler](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFrightcrawler%5D) 1 [Cabal Inquisitor](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCabal%5D+%5BInquisitor%5D) 1 [Zombie Cannibal](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZombie%5D+%5BCannibal%5D) 1 [Fledgling Imp](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFledgling%5D+%5BImp%5D) 1 [Dwarven Grunt](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDwarven%5D+%5BGrunt%5D) 1 [Pardic Firecat](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPardic%5D+%5BFirecat%5D) 1 [Pardic Swordsmith](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPardic%5D+%5BSwordsmith%5D) 1 [Chainflinger](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChainflinger%5D) 1 [Anarchist](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnarchist%5D) 1 Zonbie Infestation 1 Morque Theft 1 [Ghastly Demise](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhastly%5D+%5BDemise%5D) 1 [Afflict](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAfflict%5D) 2 [Patriarch's Desire](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPatriarch%5D+%5BDesire%5D) 1 [Flame Burst](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlame%5D+%5BBurst%5D) 1 [Scorching Missile](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScorching%5D+%5BMissile%5D) 1 [Acceptable Losses](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAcceptable%5D+%5BLosses%5D) 
+
+##### Uncommon (6)
+
+1 [Famished Ghoul](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFamished%5D+%5BGhoul%5D) 1 [Childhood Horror](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChildhood%5D+%5BHorror%5D) 1 [Dwarven Recruiter](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDwarven%5D+%5BRecruiter%5D) 1 [Sandstone Deadfall](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSandstone%5D+%5BDeadfall%5D) 1 [Firebolt](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFirebolt%5D) 1 [Rites of Initiation](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRites%5D+%5Bof%5D+%5BInitiation%5D) 
+
+##### Rare (2)
+
+1 [Pardic Miner](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPardic%5D+%5BMiner%5D) 1 [Savage Firecat](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSavage%5D+%5BFirecat%5D) 
+
+46 Cards 
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Mountain)
+
+[Deal Another Hand](https://web.archive.org/web/20000101000000/https://magic.wizards.com/en)
+
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Mountain)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Swamp)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Flame+Burst)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Mountain)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Mountain)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Mountain)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Chainflinger)
+
+a:29:{i:0;O:8:"stdClass":3:{s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"9";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:8:"Mountain";s:22:"field\_card\_image\_front";a:0:{}}}i:1;O:8:"stdClass":3:{s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"8";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:5:"Swamp";s:22:"field\_card\_image\_front";a:0:{}}}i:2;O:8:"stdClass":3:{s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Ravaged Highlands";s:22:"field\_card\_image\_front";a:0:{}}}i:3;O:8:"stdClass":3:{s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Bog Wreckage";s:22:"field\_card\_image\_front";a:0:{}}}i:4;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"2";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Frightcrawler";s:22:"field\_card\_image\_front";a:0:{}}}i:5;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Cabal Inquisitor";s:22:"field\_card\_image\_front";a:0:{}}}i:6;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Famished Ghoul";s:22:"field\_card\_image\_front";a:0:{}}}i:7;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Zombie Cannibal";s:22:"field\_card\_image\_front";a:0:{}}}i:8;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Fledgling Imp";s:22:"field\_card\_image\_front";a:0:{}}}i:9;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Childhood Horror";s:22:"field\_card\_image\_front";a:0:{}}}i:10;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Dwarven Grunt";s:22:"field\_card\_image\_front";a:0:{}}}i:11;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Dwarven Recruiter";s:22:"field\_card\_image\_front";a:0:{}}}i:12;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Pardic Firecat";s:22:"field\_card\_image\_front";a:0:{}}}i:13;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Pardic Miner";s:22:"field\_card\_image\_front";a:0:{}}}i:14;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Pardic Swordsmith";s:22:"field\_card\_image\_front";a:0:{}}}i:15;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Savage Firecat";s:22:"field\_card\_image\_front";a:0:{}}}i:16;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Chainflinger";s:22:"field\_card\_image\_front";a:0:{}}}i:17;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:9:"Anarchist";s:22:"field\_card\_image\_front";a:0:{}}}i:18;O:8:"stdClass":3:{s:4:"type";s:8:"artifact";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:18:"Sandstone Deadfall";s:22:"field\_card\_image\_front";a:0:{}}}i:19;O:8:"stdClass":3:{s:4:"type";s:5:"Other";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";N;s:22:"field\_card\_image\_front";N;}}i:20;O:8:"stdClass":3:{s:4:"type";s:5:"Other";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";N;s:22:"field\_card\_image\_front";N;}}i:21;O:8:"stdClass":3:{s:4:"type";s:7:"instant";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Ghastly Demise";s:22:"field\_card\_image\_front";a:0:{}}}i:22;O:8:"stdClass":3:{s:4:"type";s:7:"instant";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:7:"Afflict";s:22:"field\_card\_image\_front";a:0:{}}}i:23;O:8:"stdClass":3:{s:4:"type";s:11:"enchantment";s:10:"deck\_count";s:1:"2";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:18:"Patriarch's Desire";s:22:"field\_card\_image\_front";a:0:{}}}i:24;O:8:"stdClass":3:{s:4:"type";s:7:"sorcery";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:8:"Firebolt";s:22:"field\_card\_image\_front";a:0:{}}}i:25;O:8:"stdClass":3:{s:4:"type";s:7:"instant";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Flame Burst";s:22:"field\_card\_image\_front";a:0:{}}}i:26;O:8:"stdClass":3:{s:4:"type";s:7:"sorcery";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Scorching Missile";s:22:"field\_card\_image\_front";a:0:{}}}i:27;O:8:"stdClass":3:{s:4:"type";s:7:"instant";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:19:"Rites of Initiation";s:22:"field\_card\_image\_front";a:0:{}}}i:28;O:8:"stdClass":3:{s:4:"type";s:7:"sorcery";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Acceptable Losses";s:22:"field\_card\_image\_front";a:0:{}}}} 
+
+#### Imura Kazuo
+
+##### 
+
+ ![Download Arena Decklist](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png) ![](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+[Decklist](#none) [Stats](#none) [Sample Hand](#none) 
+
+Sort by: 
+
+##### Creature (10)
+
+1 [Wayward Angel](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWayward%5D+%5BAngel%5D) 1 [Beloved Chaplain](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBeloved%5D+%5BChaplain%5D) 1 [Pardic Firecat](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPardic%5D+%5BFirecat%5D) 1 [Chainflinger](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChainflinger%5D) 1 [Anarchist](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnarchist%5D) 1 [Krosan Avenger](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BAvenger%5D) 1 [Crashing Centaur](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrashing%5D+%5BCentaur%5D) 1 [Twigwalker](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTwigwalker%5D) 1 [Springing Tiger](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpringing%5D+%5BTiger%5D) 1 [Wild Mongrel](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BMongrel%5D) 
+
+##### Sorcery (4)
+
+2 [Firebolt](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFirebolt%5D) 1 [Roar of the Wurm](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRoar%5D+%5Bof%5D+%5Bthe%5D+%5BWurm%5D) 1 [Call of the Herd](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCall%5D+%5Bof%5D+%5Bthe%5D+%5BHerd%5D) 
+
+##### Instant (4)
+
+1 [Shelter](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShelter%5D) 1 [Thermal Blast](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThermal%5D+%5BBlast%5D) 1 [Flame Burst](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlame%5D+%5BBurst%5D) 1 [Moment's Peace](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMoment%5D+%5BPeace%5D) 
+
+##### Enchantment (2)
+
+1 [Seton's Desire](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeton%5D+%5BDesire%5D) 1 [Still Life](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStill%5D+%5BLife%5D) 
+
+##### Land (17)
+
+8 [Forest](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D) 5 [Mountain](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D) 3 [Plains](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D) 1 [Ravaged Highlands](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRavaged%5D+%5BHighlands%5D) 
+
+##### Other (3)
+
+2 Rapid Elephant 1 Mustle Burst 
+
+40 Cards 
+
+##### White (3)
+
+1 [Wayward Angel](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWayward%5D+%5BAngel%5D) 1 [Beloved Chaplain](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBeloved%5D+%5BChaplain%5D) 1 [Shelter](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShelter%5D) 
+
+##### Red (7)
+
+1 [Pardic Firecat](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPardic%5D+%5BFirecat%5D) 1 [Chainflinger](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChainflinger%5D) 1 [Anarchist](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnarchist%5D) 2 [Firebolt](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFirebolt%5D) 1 [Thermal Blast](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThermal%5D+%5BBlast%5D) 1 [Flame Burst](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlame%5D+%5BBurst%5D) 
+
+##### Green (10)
+
+1 [Krosan Avenger](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BAvenger%5D) 1 [Crashing Centaur](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrashing%5D+%5BCentaur%5D) 1 [Twigwalker](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTwigwalker%5D) 1 [Springing Tiger](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpringing%5D+%5BTiger%5D) 1 [Wild Mongrel](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BMongrel%5D) 1 [Seton's Desire](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeton%5D+%5BDesire%5D) 1 [Roar of the Wurm](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRoar%5D+%5Bof%5D+%5Bthe%5D+%5BWurm%5D) 1 [Moment's Peace](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMoment%5D+%5BPeace%5D) 1 [Call of the Herd](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCall%5D+%5Bof%5D+%5Bthe%5D+%5BHerd%5D) 1 [Still Life](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStill%5D+%5BLife%5D) 
+
+##### Colorless (20)
+
+8 [Forest](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D) 5 [Mountain](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D) 3 [Plains](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D) 1 [Ravaged Highlands](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRavaged%5D+%5BHighlands%5D) 2 Rapid Elephant 1 Mustle Burst 
+
+40 Cards 
+
+##### 1 (2)
+
+2 [Firebolt](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFirebolt%5D) 
+
+##### 2 (5)
+
+1 [Beloved Chaplain](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBeloved%5D+%5BChaplain%5D) 1 [Wild Mongrel](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BMongrel%5D) 1 [Shelter](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShelter%5D) 1 [Flame Burst](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlame%5D+%5BBurst%5D) 1 [Moment's Peace](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMoment%5D+%5BPeace%5D) 
+
+##### 3 (5)
+
+1 [Krosan Avenger](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BAvenger%5D) 1 [Twigwalker](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTwigwalker%5D) 1 [Seton's Desire](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeton%5D+%5BDesire%5D) 1 [Call of the Herd](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCall%5D+%5Bof%5D+%5Bthe%5D+%5BHerd%5D) 1 [Still Life](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStill%5D+%5BLife%5D) 
+
+##### 4 (3)
+
+1 [Pardic Firecat](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPardic%5D+%5BFirecat%5D) 1 [Chainflinger](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChainflinger%5D) 1 [Springing Tiger](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpringing%5D+%5BTiger%5D) 
+
+##### 5 (2)
+
+1 [Anarchist](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnarchist%5D) 1 [Thermal Blast](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThermal%5D+%5BBlast%5D) 
+
+##### 6 (2)
+
+1 [Wayward Angel](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWayward%5D+%5BAngel%5D) 1 [Crashing Centaur](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrashing%5D+%5BCentaur%5D) 
+
+##### 7 (1)
+
+1 [Roar of the Wurm](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRoar%5D+%5Bof%5D+%5Bthe%5D+%5BWurm%5D) 
+
+20 Cards 
+
+##### Common (31)
+
+8 [Forest](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D) 5 [Mountain](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D) 3 [Plains](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D) 1 [Ravaged Highlands](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRavaged%5D+%5BHighlands%5D) 1 [Pardic Firecat](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPardic%5D+%5BFirecat%5D) 1 [Chainflinger](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChainflinger%5D) 1 [Anarchist](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnarchist%5D) 1 [Krosan Avenger](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BAvenger%5D) 2 Rapid Elephant 1 [Springing Tiger](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpringing%5D+%5BTiger%5D) 1 [Wild Mongrel](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BMongrel%5D) 1 [Shelter](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShelter%5D) 1 [Thermal Blast](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThermal%5D+%5BBlast%5D) 1 [Flame Burst](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlame%5D+%5BBurst%5D) 1 [Seton's Desire](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeton%5D+%5BDesire%5D) 1 [Moment's Peace](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMoment%5D+%5BPeace%5D) 1 Mustle Burst 
+
+##### Uncommon (7)
+
+1 [Beloved Chaplain](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBeloved%5D+%5BChaplain%5D) 1 [Crashing Centaur](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrashing%5D+%5BCentaur%5D) 1 [Twigwalker](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTwigwalker%5D) 2 [Firebolt](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFirebolt%5D) 1 [Roar of the Wurm](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRoar%5D+%5Bof%5D+%5Bthe%5D+%5BWurm%5D) 1 [Still Life](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStill%5D+%5BLife%5D) 
+
+##### Rare (2)
+
+1 [Wayward Angel](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWayward%5D+%5BAngel%5D) 1 [Call of the Herd](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCall%5D+%5Bof%5D+%5Bthe%5D+%5BHerd%5D) 
+
+40 Cards 
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Forest)
+
+[Deal Another Hand](https://web.archive.org/web/20000101000000/https://magic.wizards.com/en)
+
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Thermal+Blast)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Forest)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Forest)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Forest)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Forest)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Plains)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Plains)
+
+a:25:{i:0;O:8:"stdClass":3:{s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"8";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:6:"Forest";s:22:"field\_card\_image\_front";a:0:{}}}i:1;O:8:"stdClass":3:{s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"5";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:8:"Mountain";s:22:"field\_card\_image\_front";a:0:{}}}i:2;O:8:"stdClass":3:{s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"3";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:6:"Plains";s:22:"field\_card\_image\_front";a:0:{}}}i:3;O:8:"stdClass":3:{s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Ravaged Highlands";s:22:"field\_card\_image\_front";a:0:{}}}i:4;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Wayward Angel";s:22:"field\_card\_image\_front";a:0:{}}}i:5;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Beloved Chaplain";s:22:"field\_card\_image\_front";a:0:{}}}i:6;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Pardic Firecat";s:22:"field\_card\_image\_front";a:0:{}}}i:7;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Chainflinger";s:22:"field\_card\_image\_front";a:0:{}}}i:8;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:9:"Anarchist";s:22:"field\_card\_image\_front";a:0:{}}}i:9;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Krosan Avenger";s:22:"field\_card\_image\_front";a:0:{}}}i:10;O:8:"stdClass":3:{s:4:"type";s:5:"Other";s:10:"deck\_count";s:1:"2";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";N;s:22:"field\_card\_image\_front";N;}}i:11;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Crashing Centaur";s:22:"field\_card\_image\_front";a:0:{}}}i:12;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:10:"Twigwalker";s:22:"field\_card\_image\_front";a:0:{}}}i:13;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Springing Tiger";s:22:"field\_card\_image\_front";a:0:{}}}i:14;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Wild Mongrel";s:22:"field\_card\_image\_front";a:0:{}}}i:15;O:8:"stdClass":3:{s:4:"type";s:7:"instant";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:7:"Shelter";s:22:"field\_card\_image\_front";a:0:{}}}i:16;O:8:"stdClass":3:{s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"2";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:8:"Firebolt";s:22:"field\_card\_image\_front";a:0:{}}}i:17;O:8:"stdClass":3:{s:4:"type";s:7:"instant";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Thermal Blast";s:22:"field\_card\_image\_front";a:0:{}}}i:18;O:8:"stdClass":3:{s:4:"type";s:7:"instant";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Flame Burst";s:22:"field\_card\_image\_front";a:0:{}}}i:19;O:8:"stdClass":3:{s:4:"type";s:11:"enchantment";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Seton's Desire";s:22:"field\_card\_image\_front";a:0:{}}}i:20;O:8:"stdClass":3:{s:4:"type";s:7:"sorcery";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Roar of the Wurm";s:22:"field\_card\_image\_front";a:0:{}}}i:21;O:8:"stdClass":3:{s:4:"type";s:7:"instant";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Moment's Peace";s:22:"field\_card\_image\_front";a:0:{}}}i:22;O:8:"stdClass":3:{s:4:"type";s:5:"Other";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";N;s:22:"field\_card\_image\_front";N;}}i:23;O:8:"stdClass":3:{s:4:"type";s:7:"sorcery";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Call of the Herd";s:22:"field\_card\_image\_front";a:0:{}}}i:24;O:8:"stdClass":3:{s:4:"type";s:11:"enchantment";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:10:"Still Life";s:22:"field\_card\_image\_front";a:0:{}}}} 
+
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpshi01/982.jpg)
+
+今年の日本選手権に出場し、グランプリ神戸でも好成績を収めた井村。  
+ 対するは奈良のプレイヤー、野瀬である。  
+ カードをスリーブに入れるのに手間取る井村、初のフィーチャリングマッチを  
+ 体験する野瀬と、お互いやや緊張気味の中、デュエルがスタートした。
+
+### Game 1
+
+井村が先攻でスタート。序盤はお互いにクリーチャーを並べあい、牽制する。  
+ 緑主体の井村のデッキは、赤黒の野瀬のデッキに入っているクリーチャーよりも  
+ 一回り大きく、戦闘で一歩リードする形になる。  
+ しかし野瀬は井村のクリーチャーを順に除去していき、 5 マナそろった時点で  
+ 《 Savage Firecat 》 を召還、一気に圧力をかける。  
+ 野瀬は井村が並べたブロッカーと相打ちになるのを嫌って 《 Savage Firecat 》 で  
+ アタックに行くのをためらったが、このためにマナが全く使えなくなってしまった。  
+ この隙に 《 Call of the Head 》 などでどんどんクリーチャーを増やし続けた井村が、最後は 2 枚の 《 Firebolt 》 で道をこじ開け、一本先取。
+
+井村 1 - 0 野瀬
+
+### Game 2
+
+野瀬が軽量クリーチャーを並べ、攻撃の構えを見せるが、  
+ 井村の 《 Beloved Chaplain 》 がこれをシャットダウン。  
+ 先にダメージを与え始めたのはまたしても井村の方であった。  
+ それに加えて野瀬は痛恨の事故。追撃に現れた 《 Wayward Angel 》 をどうすることもできず、そのまま蹂躙されることとなった。
+
+井村 2 - 0 野瀬  
+ 井村Wins

@@ -1,0 +1,63 @@
+---
+id: kma9z82x
+kind: event
+lang: en
+path: /en/events/2010/gbnat10/round-6-pairings
+title: Round 6 Pairings
+published: '2010-08-20'
+column_slug: null
+column: null
+authors: []
+event_code: gbnat10
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-6-pairings-2010-08-20
+    lang_detected: en
+    capture_id: 553793
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-6-pairings-2010-08-20
+    captured_at: '2022-01-23 07:05:25+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-6-pairings-2010-08-20
+    lang_detected: en
+    capture_id: 553793
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-6-pairings-2010-08-20
+    captured_at: '2022-01-23 07:05:25+00'
+    rule: drupal.posted_in_date
+  event_code:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gbnat10/pair6
+    lang_detected: en
+    capture_id: 397268
+    url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gbnat10/pair6
+    captured_at: '2013-07-06 05:41:28+00'
+    rule: url.event_code
+sources:
+- document_id: kma9z82x
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-6-pairings-2010-08-20
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/round-6-pairings-2010-08-20
+  lang: en
+  template: drupal
+  captured_at: '2022-01-23 07:05:25+00'
+  capture_id: 553793
+  wayback_url: https://web.archive.org/web/20220123070525id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-6-pairings-2010-08-20
+- document_id: kma9z82x
+  url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gbnat10/pair6
+  page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gbnat10/pair6
+  lang: en
+  template: aspx
+  captured_at: '2013-07-06 05:41:28+00'
+  capture_id: 397268
+  wayback_url: https://web.archive.org/web/20130706054128id_/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gbnat10/pair6
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: kma9z82x
+  capture_id: 553793
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-6-pairings-2010-08-20
+  wayback_url: https://web.archive.org/web/20220123070525id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-6-pairings-2010-08-20
+  captured_at: '2022-01-23 07:05:25+00'
+  template: drupal
+  sha256: d0444500ba7307e3180af0c5a56ddb2adb1f85a648816e5c008f4b491907ae6e
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Points</b></td><td><b>&#10;						</b></td><td><b>Opponent</b></td><td><b>Points</b></td></tr><tr><td> 62</td><td>Horden, Stuart R</td><td> 15</td><td>vs.</td><td>Randle, Jonathan</td><td> 15</td></tr><tr><td> 8</td><td>Choca, Joao M</td><td> 15</td><td>vs.</td><td>Orsini Jones, Marco</td><td> 15</td></tr><tr><td> 63</td><td>Maxwell, Michael</td><td> 15</td><td>vs.</td><td>Bland, Richard J</td><td> 15</td></tr><tr><td> 29</td><td>Moate, Matthew J</td><td> 12</td><td>vs.</td><td>Jackson, Joseph H</td><td> 12</td></tr><tr><td> 48</td><td>Sajgalik, Eduardo</td><td> 12</td><td>vs.</td><td>Grover, Charlie</td><td> 12</td></tr><tr><td> 14</td><td>Samra, Manveer</td><td> 12</td><td>vs.</td><td>Porritt, Stephen</td><td> 12</td></tr><tr><td> 49</td><td>Parker, Matt R</td><td> 12</td><td>vs.</td><td>Mitchell-Burns, Jack</td><td> 12</td></tr><tr><td> 28</td><td>Morrison, Andrew</td><td> 12</td><td>vs.</td><td>Tennant, Alex D</td><td> 12</td></tr><tr><td> 13</td><td>Yendall, David</td><td> 12</td><td>vs.</td><td>Devine, Andrew</td><td> 12</td></tr><tr><td> 27</td><td>Purkiss, David</td><td> 12</td><td>vs.</td><td>Gardner, Daniel</td><td> 12</td></tr><tr><td> 32</td><td>Cleak, James</td><td> 12</td><td>vs.</td><td>Murray, Stephen A</td><td> 12</td></tr><tr><td> 31</td><td>Mansfield, Jeremy</td><td> 12</td><td>vs.</td><td>Hughes, Richard A</td><td> 12</td></tr><tr><td> 66</td><td>Klein, Andrew C</td><td> 12</td><td>vs.</td><td>Parker, Michael</td><td> 12</td></tr><tr><td> 65</td><td>Theobald, Mark C</td><td> 12</td><td>vs.</td><td>Lailey, Mark J</td><td> 12</td></tr><tr><td> 46</td><td>Hislop, Grant</td><td> 12</td><td>vs.</td><td>Wright, Stuart D</td><td> 12</td></tr><tr><td> 9</td><td>Foster, James</td><td> 12</td><td>vs.</td><td>Lowe, Mark</td><td> 9</td></tr><tr><td> 33</td><td>Chandler, Martyn J</td><td> 10</td><td>vs.</td><td>Lubarr, Robin</td><td> 10</td></tr><tr><td> 71</td><td>Houldsworth, Lee</td><td> 9</td><td>vs.</td><td>Cooper, Christopher J</td><td> 9</td></tr><tr><td> 34</td><td>Shoemark, Alexander J</td><td> 9</td><td>vs.</td><td>James, Russell A</td><td> 9</td></tr><tr><td> 72</td><td>Light, Matt</td><td> 9</td><td>vs.</td><td>Savage, Jason P</td><td> 9</td></tr><tr><td> 18</td><td>Orsini Jones, Matteo</td><td> 9</td><td>vs.</td><td>Harle, Tom</td><td> 9</td></tr><tr><td> 30</td><td>Dawes, Laura M</td><td> 9</td><td>vs.</td><td>Catton, Rob</td><td> 9</td></tr><tr><td> 20</td><td>Lafferty, Ben P</td><td> 9</td><td>vs.</td><td>Mottram, Peter J</td><td> 9</td></tr><tr><td> 10</td><td>Lovett, Nicholas A</td><td> 9</td><td>vs.</td><td>Prentice, Daniel</td><td> 9</td></tr><tr><td> 11</td><td>Sellers, Stuart A</td><td> 9</td><td>vs.</td><td>Moore, Richard N</td><td> 9</td></tr><tr><td> 12</td><td>Panara, Bruno</td><td> 9</td><td>vs.</td><td>Griffiths, Mark W</td><td> 9</td></tr><tr><td> 16</td><td>Thomas, Dan</td><td> 9</td><td>vs.</td><td>Gower, Paul J</td><td> 9</td></tr><tr><td> 40</td><td>Nonis, Paul</td><td> 9</td><td>vs.</td><td>Reeve, Thomas D</td><td> 9</td></tr><tr><td> 38</td><td>Parker, Richard</td><td> 9</td><td>vs.</td><td>Edwards, Mick</td><td> 9</td></tr><tr><td> 1</td><td>Bonfield, Rebecca D</td><td> 9</td><td>vs.</td><td>Aronica, Pietro</td><td> 9</td></tr><tr><td> 57</td><td>McGowan, Martin T</td><td> 9</td><td>vs.</td><td>Richardson, Paul M</td><td> 9</td></tr><tr><td> 53</td><td>Sanders, Benjamin M</td><td> 9</td><td>vs.</td><td>Davies, Russ J</td><td> 9</td></tr><tr><td> 47</td><td>Mcintyre, Graeme f</td><td> 9</td><td>vs.</td><td>King, James G</td><td> 9</td></tr><tr><td> 50</td><td>Lim, Paul Qi-En</td><td> 9</td><td>vs.</td><td>Chaney, Matt A</td><td> 9</td></tr><tr><td> 51</td><td>Wheatley, Jake</td><td> 9</td><td>vs.</td><td>Marko, Vladimir</td><td> 9</td></tr><tr><td> 70</td><td>Goh, Gavin</td><td> 9</td><td>vs.</td><td>Dalliston, Shane P</td><td> 9</td></tr><tr><td> 68</td><td>Hagan, Jonathan</td><td> 9</td><td>vs.</td><td>Wen, Xiaocong</td><td> 9</td></tr><tr><td> 67</td><td>Plummer, Richard</td><td> 9</td><td>vs.</td><td>Payne, Rikki</td><td> 9</td></tr><tr><td> 64</td><td>Pizzey, Lian</td><td> 9</td><td>vs.</td><td>Scoones, Ben</td><td> 9</td></tr><tr><td> 59</td><td>Wilson, Ed c</td><td> 9</td><td>vs.</td><td>Isle, Sean D</td><td> 9</td></tr><tr><td> 55</td><td>Bains, Steve</td><td> 9</td><td>vs.</td><td>Haggett, Matthew P</td><td> 9</td></tr><tr><td> 22</td><td>Stevenson, Craig</td><td> 7</td><td>vs.</td><td>Bainbridge, Simon J</td><td> 7</td></tr><tr><td> 52</td><td>Brannon, David</td><td> 7</td><td>vs.</td><td>Marlow, Jim</td><td> 7</td></tr><tr><td> 3</td><td>Pinder, Mark S</td><td> 7</td><td>vs.</td><td>Ellis, Sean</td><td> 6</td></tr><tr><td> 2</td><td>Pereira, Nuno J</td><td> 6</td><td>vs.</td><td>Kimbley, Douglas</td><td> 6</td></tr><tr><td> 69</td><td>Black, Dylan</td><td> 6</td><td>vs.</td><td>O'Keeffe, Simon P</td><td> 6</td></tr><tr><td> 58</td><td>Campbell, Gary</td><td> 6</td><td>vs.</td><td>Parsons, Matthew</td><td> 6</td></tr><tr><td> 17</td><td>Allingham, James</td><td> 6</td><td>vs.</td><td>Rigden, Charlotte E</td><td> 6</td></tr><tr><td> 15</td><td>Squire, Gregory</td><td> 6</td><td>vs.</td><td>Duignan, Thomas M</td><td> 6</td></tr><tr><td> 4</td><td>Coates, Richard S</td><td> 6</td><td>vs.</td><td>Martin, Quentin</td><td> 6</td></tr><tr><td> 5</td><td>Gershaw, Alex</td><td> 6</td><td>vs.</td><td>Cadwallader, Aaron</td><td> 6</td></tr><tr><td> 6</td><td>Edwards, Andrew</td><td> 6</td><td>vs.</td><td>Chilcott, James</td><td> 6</td></tr><tr><td> 36</td><td>McIntosh, Stephen</td><td> 6</td><td>vs.</td><td>Bath, Silas E</td><td> 6</td></tr><tr><td> 21</td><td>McAleer, Stephen</td><td> 6</td><td>vs.</td><td>Wat, Raymond K</td><td> 6</td></tr><tr><td> 19</td><td>Keenan, Stephen</td><td> 6</td><td>vs.</td><td>Green, Ken H</td><td> 6</td></tr><tr><td> 45</td><td>Dellar, Martha E</td><td> 6</td><td>vs.</td><td>Russell, Jason P</td><td> 6</td></tr><tr><td> 35</td><td>Mills, James R</td><td> 6</td><td>vs.</td><td>Barclay, Bradley</td><td> 6</td></tr><tr><td> 37</td><td>Connolly, Bryan</td><td> 6</td><td>vs.</td><td>Vincent, Chris</td><td> 6</td></tr><tr><td> 56</td><td>Marshall, Lewis</td><td> 6</td><td>vs.</td><td>Griffiths, Philip C</td><td> 6</td></tr><tr><td> 39</td><td>Young, Paul</td><td> 6</td><td>vs.</td><td>Tamburic, Bojan</td><td> 6</td></tr><tr><td> 41</td><td>Scarr, Owen</td><td> 6</td><td>vs.</td><td>Teasdale, Keir</td><td> 4</td></tr><tr><td> 54</td><td>Smith, Richard T</td><td> 6</td><td>vs.</td><td>Glenister, Mark</td><td> 6</td></tr><tr><td> 24</td><td>Kennerley, Graeme</td><td> 6</td><td>vs.</td><td>Bateman, Christian</td><td> 6</td></tr><tr><td> 23</td><td>Wright, Mick J</td><td> 6</td><td>vs.</td><td>Ross, Edward J</td><td> 6</td></tr><tr><td> 25</td><td>Merritt, Daniel</td><td> 6</td><td>vs.</td><td>Frenzel, Rolf</td><td> 6</td></tr><tr><td> 43</td><td>Roe, Chris</td><td> 3</td><td>vs.</td><td>Barnes, Craig</td><td> 3</td></tr><tr><td> 44</td><td>Rickarby, Thomas</td><td> 3</td><td>vs.</td><td>O'Neill, Richard</td><td> 3</td></tr><tr><td> 42</td><td>James, Nathaniel</td><td> 3</td><td>vs.</td><td>Hall, Robert</td><td> 3</td></tr><tr><td> 60</td><td>Jemmett, John</td><td> 3</td><td>vs.</td><td>Buchanan, Andrew G</td><td> 3</td></tr><tr><td> 7</td><td>Brown, David</td><td> 3</td><td>vs.</td><td>Corwood, James</td><td> 1</td></tr><tr><td> 61</td><td>Simpon, Max J</td><td> 3</td><td>vs.</td><td>Penton, Dominic</td><td> 3</td></tr><tr><td> 26</td><td>Childs, Keith</td><td> 0</td><td>vs.</td><td>Beaver, Paul</td><td> 0</td></tr><tr><td>&#10;					</td><td>Howell, Josh J</td><td> 3</td><td>&#10;					</td><td>* BYE * Pod 16</td><td></td></tr><tr><td>&#10;					</td><td>Parker, Sebastian</td><td> 6</td><td>&#10;					</td><td>* BYE * Pod 12</td><td></td></tr></tbody></table>

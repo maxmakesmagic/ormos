@@ -1,0 +1,315 @@
+---
+id: y4zbdwh2
+kind: event
+lang: en
+path: /en/events/2014/washingtondc14/grand-prix-washington-d-c-2014-event-information
+title: Grand Prix Washington D.C. 2014 Event Information
+published: null
+column_slug: null
+column: null
+authors: []
+event_code: washingtondc14
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/tcg/events.aspx?x=mtg/event/grandprix/washingtondc14
+    lang_detected: en
+    capture_id: 4003781
+    url: http://www.wizards.com/magic/tcg/events.aspx?x=mtg/event/grandprix/washingtondc14
+    captured_at: '2014-06-17 19:48:51+00'
+    rule: aspx.article_heading
+  event_code:
+    page_key: wizards.com/magic/tcg/events.aspx?x=mtg/event/grandprix/washingtondc14
+    lang_detected: en
+    capture_id: 4003781
+    url: http://www.wizards.com/magic/tcg/events.aspx?x=mtg/event/grandprix/washingtondc14
+    captured_at: '2014-06-17 19:48:51+00'
+    rule: url.event_code
+sources:
+- document_id: y4zbdwh2
+  url: http://www.wizards.com/magic/tcg/events.aspx?x=mtg/event/grandprix/washingtondc14
+  page_key: wizards.com/magic/tcg/events.aspx?x=mtg/event/grandprix/washingtondc14
+  lang: en
+  template: aspx
+  captured_at: '2014-06-17 19:48:51+00'
+  capture_id: 4003781
+  wayback_url: https://web.archive.org/web/20140617194851id_/http://www.wizards.com/magic/tcg/events.aspx?x=mtg/event/grandprix/washingtondc14
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: y4zbdwh2
+  capture_id: 4003781
+  url: http://www.wizards.com/magic/tcg/events.aspx?x=mtg/event/grandprix/washingtondc14
+  wayback_url: https://web.archive.org/web/20140617194851id_/http://www.wizards.com/magic/tcg/events.aspx?x=mtg/event/grandprix/washingtondc14
+  captured_at: '2014-06-17 19:48:51+00'
+  template: aspx
+  sha256: 257ff36f7dc15f2754a47a797fcda7ba19d9a5493fdfe2d061adc5fefa29bb59
+render_recovery:
+- code: unsupported_link
+  element: a
+  target: javascript:void()
+  reason: The link uses a JavaScript placeholder. The preview kept any visible label.
+  labels:
+  - Magister of Worth
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:jason.riendeau@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - jason.riendeau@gmail.com
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:tom@tjcollect.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Tom@tjcollect.com
+  occurrences: 1
+---
+![](http://www.wizards.com/mtg/images/daily/events/gpdc14/gp_washingtondc_wide.jpg) 
+
+  
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;                 <b>Information</b></td>&#10;          <td> </td>&#10;          <td>&#10;            <img alt="" src="https://i.ormos.uk/7d/ea/7deab367d2187ba6dc0e8758afb21d975578affe86883947e65fa45de83cb2e0.jpg">&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td colspan="3">&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <p>&#10;                    <b> Grand Prix Washington D.C. is brought to you by <a href="http://www.tjcollect.com/">TJ Collectibles</a>. </b>&#10;                  </p>&#10;                  <ul>&#10;                    <li>&#10;                      <a href="#video">Live Video Stream Information</a>&#10;                    </li>&#10;                    <li>&#10;                      <a href="#schedule">Tournament Schedule</a>&#10;                    </li>&#10;                    <li>&#10;                      <a href="#byes">Tournament Byes</a>&#10;                    </li>&#10;                    <li>&#10;                      <a href="#side">Side Events</a>&#10;                    </li>&#10;                    <li>&#10;                      <a href="#artist">Artist Information</a>&#10;                    </li>&#10;                    <li>&#10;                      <a href="#travel">Travel Information</a>&#10;                    </li>&#10;                    <li>&#10;                      <a href="#contact">Contact Information</a>&#10;                    </li>&#10;                    <li>&#10;                      <a href="https://www.facebook.com/events/1379935388942099">Facebook Event</a>&#10;                    </li>&#10;                    <li>&#10;                      <b>Official hashtag</b>: <a href="http://twitter.com/#!/search/%23gpdc">#gpdc</a></li>&#10;                  </ul>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;    </td>&#10;  </tr>&#10;</tbody></table>
+
+### Date: June 27-29, 2014
+
+### Format: [Limited - *Theros* Block](https://web.archive.org/web/20140415053259/http://www.wizards.com/Magic/TCG/Resources.aspx?x=mtg/tcg/resources/formats-sanctioned#limited)
+
+**Tournament Location**  
+ 
+
+[Dulles Expo & Conference Center](http://www.dullesexpo.com/v/index.html) North Hall  
+ 4368 Chantilly Shopping Center  
+ Chantilly, VA 20151  
+[Click here for map](http://goo.gl/maps/k5PUA).  
+
+Entry into the Grand Prix event venue is free of charge.
+
+**Registration**: $50.00  
+ Online registration available at [www.TJcollect.com](http://www.tjcollect.com/) until Thursday, June 26 at 11:30 p.m.  
+ Onsite registration available on Friday, June 27 from 2:00 p.m. to 9:00 p.m.  
+
+There will be no Saturday registration for this event.
+
+Many Grand Prix offer additional services to participants, such as Sleep-In Specials and VIP packages. Sleep-In Specials allow players with byes to skip the player meeting on Saturday and arrive shortly before their first round begins. VIP packages provide various perks such as complimentary bottled water, special seating, and exclusive artist signings. Details of these services vary from event to event; please check the organizer's site for specifics.
+
+* * *
+
+  
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <div>&#10;        <img src="https://i.ormos.uk/fc/56/fc56e675557ef92063e8a461daf557e6f3a3d37fbcfde13eb0f38c6849cd8ccb.jpg">&#10;      </div>&#10;      <div>&#10;        <i>Get your promo card by playing in the Grand Prix (while supplies last).</i>&#10;      </div>&#10;    </td>&#10;  </tr>&#10;</tbody></table>
+
+Truly a **Magic**-al weekend, the fun begins on Friday! **FREE MINI MASTER from 12:00 p.m. to 12:30 p.m.** In addition, there will be non-tournament events starting on Friday with our new **Magic** Panels, **Magic** Trivia, Pro Player meet-and-greet, **Magic** Deck Doctor, and more. The side event schedule is full with an event for everyone serious and casual alike. Wacky Drafts, Standard Showcase, Modern Mayhem, Cobra Commander, Team mini master and *Innistrad* Sealed Deck provide the opportunity for memorable **Magic** experiences that lead to a fun filled weekend. 
+
+Of course there is the main tournament—GP DC will be one of the only complete *Theros* Block Grand Prix events in the world! The weekend concludes with one of the hottest events in **Magic**dom - the Super Sunday Series. Grab a spot at the most exclusive, high-stakes **Magic** event around—and an all-expenses paid trip to Seattle and Wizards of the Coast to play for a prize pool of $20,000 (under 50 players will be invited!) 
+
+The Dulles Expo & Conference Center is located in Chantilly, VA which overlooks Washington, DC. Being just 6 miles from the Dulles Airport gives Chantilly tremendous accessibility. Visit the STEVEN F. UDVAR-HAZY Air and Space CENTER to see the space shuttle Discovery! This area has many hotel and restaurant choices. Three days of varied **Magic** play makes this a **Magic** weekend NOT to be missed. Our Grand Prix playmat will be available all three days. Visit TJCollect.com for details. We have confirmed **Magic** artists RK Post, Lucas Graciano and Lars Grant-West coming, as well as 14 quality vendors on site. 
+
+Will you become a god and carve your name in the annals of **Magic** history at Grand Prix Washington D.C.? 
+
+ 
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <div>&#10;        <img src="https://i.ormos.uk/01/39/01390cbc0a895cb35d74157deadb47fc6a020897ee828ddf9466c1b146c90722.jpg">&#10;      </div>&#10;    </td>&#10;    <td> </td>&#10;    <td> Follow live streaming video coverage of Grand Prix Washington D.C. at <a href="https://web.archive.org/web/20140528122204/http://www.wizards.com/Magic/Magazine/Default.aspx">DailyMTG.com</a> and <a href="http://www.twitch.tv/magic">Twitch.tv</a>. The live video stream will start at approximately 2 p.m. local time / 6 p.m. GMT Saturday. </td>&#10;    <td>&#10;      <a href="http://www.twitch.tv/magic">&#10;        <div>&#10;          <img src="https://i.ormos.uk/aa/a6/aaa6465a53aacfdb12a5a532d77bb58e3c38686cf931a0eeda79f58391396e8b.png">&#10;        </div>&#10;      </a>&#10;    </td>&#10;  </tr>&#10;</tbody></table>
+
+  
+
+ *The **Magic: The Gathering** Grand Prix tournament series is a great reason to step up your game, catch up with old friends, meet some new ones, and play **Magic**. Grand Prix tournaments are world-wide open events that allow all **Magic** players to participate and experience the thrill of a large-scale competition over three days. In addition to cash prizes, a high Planeswalker Points multiplier, and exclusive foil promo cards for participants, the Grand Prix features a host of other activities, including side events and artist signings. Side-event tournaments begin Friday, with the Grand Prix main event running Saturday and Sunday. Find out more about the Grand Prix [tournament schedule here](/en/events/2002/welcome/grand-prix#2014).* 
+
+  
+
+* * *
+
+![](http://www.wizards.com/mtg/images/daily/events/gpdc14/playmat_gpdc14.jpg) 
+
+ *Participate in select events at Grand Prix Washington DC and receive an exclusive playmat featuring the promo art for Magister of Worth by rk post! For details, see [www.tjcollect.com](http://www.tjcollect.com/)!* 
+
+  
+
+* * *
+
+ 
+
+### Tournament Format and Schedule
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <b>Place</b>&#10;    </td>&#10;    <td>&#10;      <b>Prize Money</b>&#10;    </td>&#10;    <td>&#10;      <b>Pro Points</b>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>1</td>&#10;    <td>$4,000 </td>&#10;    <td>8</td>&#10;  </tr>&#10;  <tr>&#10;    <td>2</td>&#10;    <td>$2,700 </td>&#10;    <td>6</td>&#10;  </tr>&#10;  <tr>&#10;    <td>3-4</td>&#10;    <td>$1,500 </td>&#10;    <td>5</td>&#10;  </tr>&#10;  <tr>&#10;    <td>5-8</td>&#10;    <td>$1,000 </td>&#10;    <td>4</td>&#10;  </tr>&#10;  <tr>&#10;    <td>9-12</td>&#10;    <td>$600 </td>&#10;    <td>3</td>&#10;  </tr>&#10;  <tr>&#10;    <td>13-16</td>&#10;    <td>$550 </td>&#10;    <td>3</td>&#10;  </tr>&#10;  <tr>&#10;    <td>17-23</td>&#10;    <td>$500 </td>&#10;    <td>2</td>&#10;  </tr>&#10;  <tr>&#10;    <td>24-32</td>&#10;    <td>$400 </td>&#10;    <td>2</td>&#10;  </tr>&#10;  <tr>&#10;    <td>33-64</td>&#10;    <td>$300 </td>&#10;    <td>1</td>&#10;  </tr>&#10;  <tr>&#10;    <td>65-100</td>&#10;    <td>$250* </td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>101-150</td>&#10;    <td>$200* </td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td colspan="3"> *If Grand Prix attendance is 1,200-2,399 participants, prize money will be paid out to 100th place. If Grand Prix attendance is 2,400 or more participants, prize money will be paid out to 150th place. <br> Top 4 finishers also earn invitations and airfare to Pro Tour Pro Tour <i>Khans of Tarkir</i> in Honolulu (October 2014). <br> If Grand Prix attendance is 1,200 or more, Top 8 finishers earn invitations and airfare, and all players with 39 or more match points who do not make Top 8 earn invitations. <br> All prizes displayed in U.S. dollars. Prizes subject to change. </td>&#10;  </tr>&#10;</tbody></table>
+
+**Format**: [*Theros*/*Born of the Gods*/*Journey into Nyx* Sealed Deck/Draft](https://web.archive.org/web/20140415053259/http://www.wizards.com/Magic/TCG/Resources.aspx?x=mtg/tcg/resources/formats-sanctioned#limited)  
+**Participation Fee**: $50 
+
+**Registration and Schedule** 
+
+*   Online Registration until June 26 at [www.tjcollect.com](http://www.tjcollect.com/)
+*   Friday, June 27: Registration: 2:00 – 9:00 p.m.
+*   Saturday, June 28: Grand Prix Washington DC begins at 9:00 a.m.
+*   Sunday, June 29: Day Two begins at 9:00 a.m.
+
+Registration to the Grand Prix main event closes Friday night. There will be no Saturday registration. 
+
+The main tournament at Grand Prix Washington D.C. is open to **Magic** players of all ages. 
+
+Players must have a signed waiver and consent form to compete at Grand Prix Washington D.C.. Forms can be [downloaded here](http://www.wizards.com/dci/downloads/Consent_form_2013_Magic.pdf) and will be available onsite. Minors must have a parent or guardian’s signature on these forms. Minors will not be able to register or play unless we receive a waiver signed by a parent or guardian. No exceptions. 
+
+**Tournament Format**  
+ 
+
+*   [*Theros*/*Born of the Gods*/*Journey into Nyx* Sealed Deck/Draft](https://web.archive.org/web/20140415053259/http://www.wizards.com/Magic/TCG/Resources.aspx?x=mtg/tcg/resources/formats-sanctioned#limited)
+*   **Day One**: Sealed Deck
+*   **Day Two and Top 8**: Booster draft
+*   **Sealed Deck Product:** 2 *Journey Into Nyx* boosters, 2 *Born of the Gods* boosters, 2 *Theros* boosters
+*   **Booster Draft Product**: 1 *Journey into Nyx* booster, 1 *Born of the Gods* booster, and 1 *Theros* booster (drafted in that order)
+*   Deck lists are required.
+*   If product is not stamped or preregistered, deck registration and deck swap will be performed for the Swiss Sealed Deck.
+
+**Tournament Structure** 
+
+*   Modified Swiss-style (50-minute rounds).
+*   Day One will consist of a maximum of 9 Swiss rounds. Day Two will consist of 6 Swiss rounds and the Top 8 single-elimination finals.
+*   If 799 or less players register for the event, all players with an X-2-0 record (or better) or the top 64 players – whichever is greater – advance to the second day of competition for prizes and invitations.
+*   If 800 or more players register for the event, all players with an X-2-0 record (or better) or the top 128 players – whichever is greater – advance to the second day of competition for prizes and invitations.
+*   The Top 8 players after the final Swiss round on Day Two will advance to the Top 8 single-elimination playoff.
+*   Top 8 playoff matches will be best 2 of 3.
+*   Top 8 playoff matches will have no time limit. (Players are still expected to play at a normal pace and complete playoff matches in a reasonable amount of time.)
+*   The Top 8 players will be seated randomly at the draft table immediately prior to drafting. The Top 8 bracket will be determined using this random seating.
+*   Standings after the Swiss rounds will be used to determine final order in the standings for losing players in the quarterfinal and semifinal playoff rounds.
+*   For the first game of each match in the Top 8, the player that finished higher in the Swiss rounds chooses either to play first or to play second. For subsequent games in each Top 8 match, the usual Play/Draw rule applies (loser of the previous game decides whether to play first in the next game).
+
+**Judges**  
+ The head judges for Grand Prix DC are Kevin Desprez (Level 5) and Jared Sylva (Level 4). Judges interested in applying should do so through the [Judge Center](http://apps.magicjudges.org/). Additional questions may be addressed to jason.riendeau@gmail.com. 
+
+**Notes**  
+ 
+
+*   [Planeswalker Points](https://web.archive.org/web/20140704003214/http://www.wizards.com/Magic/PlaneswalkerPoints/Information) multiplier 8x, Rules Enforcement Level (REL) is Competitive on Day One and Professional on Day Two.
+*   The **Magic: The Gathering** Tournament Rules and the **Magic: The Gathering** Infraction Procedure Guide are in effect for this event unless specifically overruled by information in this Format Document. Rules documents can be found in the [**Magic** Document Center](https://web.archive.org/web/20140617194851/http://www.wizards.com/wpn/Events/Rules.aspx?category=magic:thegathering) .
+*   Players are responsible for bringing their own method of tracking life totals, card sleeves, and appropriate counters or tokens.
+*   In the event that a player who wins an invitation to a Pro Tour stop at a Grand Prix has already qualified for an invitation, the invitation does not pass down under any circumstances. Previous qualification may be through a Qualifier tournament, through performance at a professional tournament, or by being an invited DCI player (valid upon the date of the official rank announcement for the appropriate professional tournament).
+
+  
+
+* * *
+
+ 
+
+### Tournament Byes
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;                 <b>Grand Prix Trials</b></td>&#10;          <td> </td>&#10;          <td>&#10;            <img alt="" src="https://i.ormos.uk/7d/ea/7deab367d2187ba6dc0e8758afb21d975578affe86883947e65fa45de83cb2e0.jpg">&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td colspan="3">&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <p>&#10;                    <b>Last-Chance Trials: Friday, June 27</b>&#10;                    <br>&#10;                    <b>Time</b>: Grand Prix Trials will begin immediately upon doors opening at 12 Noon. <br><b>Format</b>: There will be Trials available for Standard as well as Limited. <br><b>Prizes</b>: <br> Please check the schedule of events at <a href="http://www.tjcollect.com/">www.TJCollect.com</a> for information about all Grand Prix Trials. <br><i>* Times are approximate and subject to change.</i></p>&#10;                  <p>Other Grand Prix Washington D.C. Trials will be run at WPN locations in the weeks leading up to the Grand Prix. Each offers one Two-Round bye to Grand Prix Washington D.C..</p>&#10;                  <ul>&#10;                    <li>&#10;                      <a href="/en/events/2014/washingtondc14/grand-prix-washington-dc-2014-trials">Grand Prix Washington D.C. Trials Information</a>&#10;                    </li>&#10;                    <li>&#10;                      <a href="/en/articles/event-coverage/undated/grand-prix-bye-information">More Information on Grand Prix Byes</a>&#10;                    </li>&#10;                    &#10;                    &#10;                    <div>&#10;                      <div>&#10;                        <img src="https://i.ormos.uk/b0/8d/b08d17518ca0788d88047d829bb3dacd449e649bff7e01f294bc21497c95d83e.png">&#10;                        <p>Find a Trial Near You!</p>&#10;                      </div>&#10;                      &#10;                      <img src="https://i.ormos.uk/99/2a/992a23607a652585b77e78194c845817398a9d553e5a0697b602f070dc562f84.png">&#10;                    </div>&#10;                  </ul>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;    </td>&#10;  </tr>&#10;</tbody></table>
+
+Byes earned through Planeswalker Points are calculated using the Planeswalker Point totals from all reported events as of the Wednesday immediately before the Grand Prix. (For Grand Prix Washington D.C., the cutoff date will be June 25th.) Points earned in tournaments held at the Grand Prix event site do not count toward earned byes at that Grand Prix. Byes will be given to players in the Grand Prix based on the following criteria: 
+
+**Third-Round Byes**  
+ 
+
+*   Players who have accumulated at least 1,500 Planeswalker Points in the 2014 Seasonal Award Season #2 (March 10, 2014 – June 1, 2014)
+*   Players who have accumulated at least 1,500 Planeswalker Points in the 2014 Seasonal Award Season #3 (June 2, 2014 – August 24, 2014)
+*   Players with a [Pro Tour Players Club](/en/events/2006/playersclub/pro-players-club-guidelines-and-procedures) level of Gold or Platinum
+*   Members of the Pro Tour Hall of Fame
+
+**Second-Round Byes**  
+ 
+
+*   Winners of [Grand Prix Washington D.C. Trial](/en/events/2014/washingtondc14/grand-prix-washington-dc-2014-trials) tournaments.
+*   Players who have accumulated at least 750 Planeswalker Points in the 2014 Seasonal Award Season #2 (March 10, 2014 – June 1, 2014)
+*   Players who have accumulated at least 750 Planeswalker Points in the 2014 Seasonal Award Season #3 (June 2, 2014 – August 24, 2014)
+*   Players with a [Pro Tour Players Club](/en/events/2006/playersclub/pro-players-club-guidelines-and-procedures) level of Silver
+
+**First-Round Byes**  
+ 
+
+*   Players who have accumulated at least 400 Planeswalker Points in the 2014 Seasonal Award Season #2 (March 10, 2014 – June 1, 2014)
+*   Players who have accumulated at least 400 Planeswalker Points in the 2014 Seasonal Award Season #3 (June 2, 2014 – August 24, 2014)
+
+**Trial winners**  
+ Winners of a Trial tournament are awarded two byes in the Grand Prix that it feeds. Trial byes are not cumulative with other byes and do not pass down. Byes are not cumulative throughout the season or year. Byes do not pass down under any circumstances. Players who accumulate multiple byes to a particular Grand Prix tournament receive only the bye for the greatest number of rounds. For complete information about Grand Prix byes and their corresponding competitive season, please check the [Magic Premier Event Invitation Policy](https://web.archive.org/web/20140617194851/http://www.wizards.com/wpn/Document.aspx?x=Magic_The_Gathering_Premier_Event_Invitation_Policy). 
+
+  
+
+* * *
+
+ 
+
+### Side Events
+
+Along with the main event, there are additional side-event tournaments to play in at a Grand Prix. Listed below are the side events offered at all Grand Prix on Friday, Saturday, and Sunday. Additional events and a full schedule can be found on the [www.TJCollect.com](http://www.tjcollect.com/) website. All side events (except casual events) will have a Planeswalker Points multiplier of 3x. 
+
+**Friday**  
+ **Last-Chance Trials**  
+ Earn a valuable Two-Round bye by winning one of the Last-Chance Trials. Last-Chance Trials are 32-person single-elimination events, starting as soon as 32 players register. For more info, check out the [Byes section](#byes) of this page. 
+
+**"Foiled Again"**  
+ A straight Swiss tournament lasting three or four rounds. Participants get 1 past promo card for playing, then one additional promo card per match win. Format varies by event. 
+
+**Saturday**  
+ **Value Drafts**  
+ Enjoy a special discount on pick-up drafts on Saturday. Actual times and prices vary by event. 
+
+**"Rebound" Event**  
+ Format at organizer's discretion. The winner(s) earn free entry into the "Super Sunday Series" (see below). Players who also played in the main Grand Prix tournament will get a discount for entry. 
+
+**Sunday**  
+ **Super Sunday Series**  
+ Qualifier tournaments for the Super Sunday Series will be held at each Grand Prix. The Top 8 players in the Super Sunday Series qualifier will each be awarded a commemorative Grand Prix water bottle. The winner of the Super Sunday Series qualifier will earn an invitation and travel award for the Super Sunday Series Championship 2015, expected to be held in January 23-24 2015 in Seattle. The Super Sunday Series Championship experience also includes a tour of Wizards of the Coast, dinner with Wizards employees, and more. 
+
+  
+
+* * *
+
+ 
+
+### Artist Information
+
+Three of the hottest artists in **Magic** will be joining us at Grand Prix Washington D.C. rk post (the artist for the weekend’s play mat), Lucas Graciano and Lars Grant-West will be available to sign cards, playmats and more all 3 days of the Grand Prix. In addition all will be selling prints, artist proofs, and original art/sketches and doing custom alterations of mats and cards! 
+
+*   [**Magic** card art by rk post](https://web.archive.org/web/20140617194851/http://gatherer.wizards.com/Pages/Search/Default.aspx?action=advanced&artist=[%22rk%20post%22])
+*   [**Magic** card art by Lucas Graciano](https://web.archive.org/web/20140617194851/http://gatherer.wizards.com/Pages/Search/Default.aspx?action=advanced&artist=[%22Lucas%20Graciano%22])
+*   [**Magic** card art by Lars Grant-West](https://web.archive.org/web/20140617194851/http://gatherer.wizards.com/Pages/Search/Default.aspx?action=advanced&artist=[%22Lars%20Grant-West%22])
+*   [**Magic** card art by Christopher Rush](https://web.archive.org/web/20140617194851/http://gatherer.wizards.com/Pages/Search/Default.aspx?action=advanced&artist=[%22Christopher%20Rush%22])
+
+  
+  
+
+* * *
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;                 <b>Hotel Information</b></td>&#10;          <td> </td>&#10;          <td>&#10;            <img alt="" src="https://i.ormos.uk/7d/ea/7deab367d2187ba6dc0e8758afb21d975578affe86883947e65fa45de83cb2e0.jpg">&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td colspan="3">&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <p>There are many hotels within two miles of the event site. The below listed hotels have a room block set aside for our group. Additional hotels are being added to the group</p>&#10;                  <p>&#10;                    <b>Hampton Inn Washington Dulles International Airport South</b>&#10;                    <br> 4050 Westfax Drive <br> Chantilly VA 20151 <br> Phone: (703) 818-8200 <br> Ask for room block code: Magic Grand Prix <br> $85 event rate Friday, Saturday <br> 24-hour airport shuttle, morning shuttle to Expo Center <br> Book group rate by phone or online at the <a href="http://www.hamptoninn.com/">Hampton Inn Website</a></p>&#10;                  <p>&#10;                    <b>Residence Inn Chantilly Dulles South</b>&#10;                    <br> 14440 Chantilly Crossing Lane <br> Chantilly, VA 20151-1667 <br> Phone: 1 (800) 331-3131 or (703) 263-7900 <br> Ask for room block code: Magic Grand Prix DC Room Block <br> $89 Studio Suite event rate Thursday, Friday, Saturday, and Sunday <br> Room rate includes a full breakfast buffet for all overnight guests </p>&#10;                  <p>&#10;                    <b>Courtyard Dulles Airport Chantilly </b>&#10;                    <br> 3935 Centerview Drive <br> Chantilly, VA 20151-3217 <br> Chantilly VA 20151 <br> Phone: 1 (800) 321-2211 or (703) 709-7100 <br> Ask for room block code: Magic Grand Prix DC Room Block <br> $64 King Guest Room and $69 Queen/Queen Guest Room event rate Thursday, Friday, Saturday, and Sunday <br> Room Rate includes continental breakfast for up to (2) people per room, per night </p>&#10;                  <p>&#10;                    <b>Westfields Marriott Washington Dulles</b>&#10;                    <br> 14750 Conference Center Drive <br> Chantilly, VA 20151-3800 <br> Phone: 1 (800) 228-9290 or (703) 818-0300 <br> Ask for room block code: Magic Grand Prix DC Room Block <br> $84 1 King or 2 Queen Guest Room <br> For additional hotel information, visit <a href="http://www.dullesexpo.com/">www.dullesexpo.com</a></p>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;    </td>&#10;  </tr>&#10;</tbody></table>
+
+ 
+
+### Travel Information
+
+**Travel by Car**  
+ The event site is 17 miles west of the Washington D.C. Beltway. From I-495 take I-66 West to exit 53B - Virginia Route 28 North. Keep right at the fork and merge onto Route 620/Sully Rd/VA-28 North. Travel 3 miles and then Turn Right on Willard Road. The Dulles Expo Center is on your left. Please note that traffic is a big factor throughout the metropolitan area. Accordingly, 30 minutes traffic-free becomes 60 minutes when traffic peaks. 
+
+Miles to Venue from Surrounding Cities:  
+ Baltimore MD - 65 miles  
+ Richmond VA - 120 miles  
+ Philadelphia PA - 166 miles  
+ New York City - 250 miles  
+ Pittsburgh - 250 miles  
+ Raleigh NC - 290 miles 
+
+**Travel by Plane**  
+ Dulles International Airport (IAD) is 8 miles (15 minutes) from the event venue. All hotels recommended on this fact sheet offer free shuttle service to and from the airport, as well as between the hotel and the event venue.  
+ Reagan National Airport (DCA) - 30 miles from event venue. Public transportation available for $7 via Metro Rail with a transfer to the Fairfax Connector Bus. From the airport take Metro Rail's Blue Line (direction - Largo) until you reach the Rosslyn rail station. Transfer to the Orange rail line (direction - Vienna/Fairfax). Exit at the Vienna/Fairfax Station and transfer to the #650, #651, or #652 Farifax Connector Bus. Ask the driver to drop you off at "Sullyfield Circle & Westmoreland St.". Walk .3 miles South on Brookfield Corporate Drive. Turn Right on Chantilly Shopping Center Road. The Dulles Expo Center is on your right. Another transportation option is [Washington Flyer Super Shuttle](http://www.washfly.com/flyer_bus_faqs.htm#long) Shared Ride from airport to event venue - $30. 
+
+**Travel by Train**  
+ Amtrak depot, Union Station in Washington DC. - 30 miles from event site. Public transportation available for $8 via Metro Rail with a transfer to the Fairfax Connector Bus. From Union Station take Metro Rail's Red Line (direction - Shady Grove) to the Metro Center rail station. Transfer to the Orange rail line (direction - Vienna/Fairfax). Exit at the Vienna/Fairfax Station and transfer to the #650, #651, or #652 Farifax Connector Bus. Ask the driver to drop you off at "Sullyfield Circle & Westmoreland St.". Walk .3 miles South on Brookfield Corporate Drive. Turn right on Chantilly Shopping Center Road. The Dulles Expo Center is on your right. 
+
+  
+
+* * *
+
+ 
+
+### Contact Information
+
+Tournament Organizer: [TJ Collectibles](http://tjcollect.com/)  
+ Email: Tom@tjcollect.com  
+ Phone Number: 508-404-8245 
+
+**Tournament Location**  
+ 
+
+[Dulles Expo & Conference Center](http://www.dullesexpo.com/v/index.html) North Hall  
+ 4368 Chantilly Shopping Center  
+ Chantilly, VA 20151  
+[Click here for map](http://goo.gl/maps/k5PUA).

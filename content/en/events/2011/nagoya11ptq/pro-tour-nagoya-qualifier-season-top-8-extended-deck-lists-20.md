@@ -1,0 +1,337 @@
+---
+id: 9472qv20
+kind: event
+lang: en
+path: /en/events/2011/nagoya11ptq/pro-tour-nagoya-qualifier-season-top-8-extended-deck-lists-20
+title: 'Pro Tour Nagoya Qualifier Season: Top 8 Extended Deck Lists'
+published: null
+column_slug: null
+column: null
+authors: []
+event_code: nagoya11ptq
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/events.aspx?x=mtg/daily/eventcoverage/nagoya11ptq/0226lincoln
+    lang_detected: en
+    capture_id: 991502
+    url: https://www.wizards.com/magic/magazine/events.aspx?x=mtg/daily/eventcoverage/nagoya11ptq/0226lincoln
+    captured_at: '2013-07-03 04:57:46+00'
+    rule: aspx.article_heading
+  event_code:
+    page_key: wizards.com/magic/magazine/events.aspx?x=mtg/daily/eventcoverage/nagoya11ptq/0226lincoln
+    lang_detected: en
+    capture_id: 991502
+    url: https://www.wizards.com/magic/magazine/events.aspx?x=mtg/daily/eventcoverage/nagoya11ptq/0226lincoln
+    captured_at: '2013-07-03 04:57:46+00'
+    rule: url.event_code
+sources:
+- document_id: 9472qv20
+  url: https://www.wizards.com/magic/magazine/events.aspx?x=mtg/daily/eventcoverage/nagoya11ptq/0226lincoln
+  page_key: wizards.com/magic/magazine/events.aspx?x=mtg/daily/eventcoverage/nagoya11ptq/0226lincoln
+  lang: en
+  template: aspx
+  captured_at: '2013-07-03 04:57:46+00'
+  capture_id: 991502
+  wayback_url: https://web.archive.org/web/20130703045746id_/https://www.wizards.com/magic/magazine/events.aspx?x=mtg/daily/eventcoverage/nagoya11ptq/0226lincoln
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 9472qv20
+  capture_id: 991502
+  url: https://www.wizards.com/magic/magazine/events.aspx?x=mtg/daily/eventcoverage/nagoya11ptq/0226lincoln
+  wayback_url: https://web.archive.org/web/20130703045746id_/https://www.wizards.com/magic/magazine/events.aspx?x=mtg/daily/eventcoverage/nagoya11ptq/0226lincoln
+  captured_at: '2013-07-03 04:57:46+00'
+  template: aspx
+  sha256: 61c035f01563e0f8179537019845bad59383f68c5f43950972717a200a7d8f14
+render_recovery:
+- code: unsupported_link
+  element: a
+  target: javascript:void()
+  reason: The link uses a JavaScript placeholder. The preview kept any visible label.
+  labels:
+  - Celestial Colonnade
+  - Glacial Fortress
+  - Island
+  - Mutavault
+  - Mystic Gate
+  - Plains
+  - Seachrome Coast
+  - Kitchen Finks
+  - Stoneforge Mystic
+  - Vendilion Clique
+  - Cryptic Command
+  - Day of Judgment
+  - Jace, the Mind Sculptor
+  - Mana Leak
+  - Oblivion Ring
+  - Path to Exile
+  - Preordain
+  - Spell Pierce
+  - Sword of Body and Mind
+  - Sword of Feast and Famine
+  - Burrenton Forge-Tender
+  - War Priest of Thune
+  - Creeping Tar Pit
+  - Darkslick Shores
+  - Secluded Glen
+  - Sunken Ruins
+  - Swamp
+  - Tectonic Edge
+  - Mistbind Clique
+  - Spellstutter Sprite
+  - Bitterblossom
+  - Disfigure
+  - Go for the Throat
+  - Inquisition of Kozilek
+  - Thoughtseize
+  - Deathmark
+  - Ratchet Bomb
+  - Sower of Temptation
+  - Vampire Nighthawk
+  - Wurmcoil Engine
+  - Arid Mesa
+  - Copperline Gorge
+  - Mountain
+  - Raging Ravine
+  - Rootbound Crag
+  - Scalding Tarn
+  - Teetering Peaks
+  - Bloodbraid Elf
+  - Boggart Ram-Gang
+  - Figure of Destiny
+  - Goblin Guide
+  - Hell's Thunder
+  - Hellspark Elemental
+  - Burst Lightning
+  - Flame Javelin
+  - Lightning Bolt
+  - Searing Blaze
+  - Leyline of Punishment
+  - Mark of Mutiny
+  - Smash to Smithereens
+  - Tunnel Ignus
+  - Volcanic Fallout
+  - Forest
+  - Misty Rainforest
+  - Murmuring Bosk
+  - Razorverge Thicket
+  - Stirring Wildwood
+  - Verdant Catacombs
+  - Baneslayer Angel
+  - Birds of Paradise
+  - Hero of Bladehold
+  - Knight of the Reliquary
+  - Mirran Crusader
+  - Noble Hierarch
+  - Qasali Pridemage
+  - Bant Charm
+  - Elspeth, Knight-Errant
+  - Finest Hour
+  - Great Sable Stag
+  - Unified Will
+  - Court Homunculus
+  - Master of Etherium
+  - Memnite
+  - Ornithopter
+  - Ranger of Eos
+  - Signal Pest
+  - Steel Overseer
+  - Mox Opal
+  - Tempered Steel
+  - Thopter Foundry
+  - Bonehoard
+  - Chimeric Mass
+  - Ethersworn Shieldmage
+  - Phyrexian Revoker
+  - Wall of Tanglecord
+  - Evolving Wilds
+  - Terramorphic Expanse
+  - Valakut, the Molten Pinnacle
+  - Primeval Titan
+  - Cultivate
+  - Explore
+  - Harrow
+  - Khalni Heart Expedition
+  - Primal Command
+  - Prismatic Omen
+  - Rampant Growth
+  - Scapeshift
+  - Back to Nature
+  - Firespout
+  - Guttural Response
+  - Nature's Claim
+  - Obstinate Baloth
+  - Reverberate
+  - Vexing Shusher
+  - Jace Beleren
+  - Countersquall
+  - Inquisition
+  - Flooded Grove
+  - Oracle of Mul Daya
+  - Ponder
+  - See Beyond
+  - Wargate
+  - Into the Roil
+  - Leyline of Sanctity
+  - Runed Halo
+  - Sun Titan
+  occurrences: 215
+---
+*   [**Pro Tour Nagoya Qualifier Season Top 8 Deck Lists**](/en/events/2011/nagoya11ptq/pro-tour-nagoya-qualifier-season-top-8-extended-deck-lists-30)
+
+*Thanks to tournament organizer Dan Schmidt for the decklists!* 
+
+John Petterson 
+
+1st Place - Nebraska - Lincoln - 2/26
+
+[![View a sample hand of this deck](https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png)](https://web.archive.org/web/20130703045746/https://www.wizards.com/magic/samplehand.asp?x=mtg/daily/eventcoverage/nagoya11ptq/0226lincoln&decknum=1) 
+
+[![Download a .dek file for use in Magic Online](https://i.ormos.uk/7d/67/7d67a37edff07800cb466fa53a1880fe4f5a9f5af21d4a85210e22956ee20ec0.png)](https://web.archive.org/web/20130703045746/https://www.wizards.com/magic/mtgdailyeventcoveragenagoya11ptq0226lincolnx1.dek?x=mtg/daily/eventcoverage/nagoya11ptq/0226lincoln&decknum=1) 
+
+  
+ 
+
+<table>&#10;          <tbody><tr>&#10;            <td colspan="2">&#10;              <p>Main Deck</p>&#10;              <p>60 cards&#10;									</p>&#10;            </td>&#10;            <td>&#10;          </td></tr>&#10;          <tr>&#10;            <td>4 &#10;&#10;		<a>Celestial Colonnade</a><br>1 &#10;&#10;		<a>Glacial Fortress</a><br>5 &#10;&#10;		<a>Island</a><br>4 &#10;&#10;		<a>Mutavault</a><br>3 &#10;&#10;		<a>Mystic Gate</a><br>4 &#10;&#10;		<a>Plains</a><br>4 &#10;&#10;		<a>Seachrome Coast</a><br><hr>25 lands<br><br>3 &#10;&#10;		<a>Kitchen Finks</a><br>4 &#10;&#10;		<a>Stoneforge Mystic</a><br>3 &#10;&#10;		<a>Vendilion Clique</a><br><hr>10 creatures<br><br></td>&#10;            <td>4 &#10;&#10;		<a>Cryptic Command</a><br>2 &#10;&#10;		<a>Day of Judgment</a><br>2 &#10;&#10;		<a>Jace, the Mind Sculptor</a><br>4 &#10;&#10;		<a>Mana Leak</a><br>2 &#10;&#10;		<a>Oblivion Ring</a><br>4 &#10;&#10;		<a>Path to Exile</a><br>4 &#10;&#10;		<a>Preordain</a><br>1 &#10;&#10;		<a>Spell Pierce</a><br>1 &#10;&#10;		<a>Sword of Body and Mind</a><br>1 &#10;&#10;		<a>Sword of Feast and Famine</a><br><hr>25 other spells<br><br><div><b><i>Sideboard</i></b></div>4 &#10;&#10;		<a>Burrenton Forge-Tender</a><br>2 &#10;&#10;		<a>Day of Judgment</a><br>1 &#10;&#10;		<a>Jace, the Mind Sculptor</a><br>1 &#10;&#10;		<a>Kitchen Finks</a><br>1 &#10;&#10;		<a>Oblivion Ring</a><br>3 &#10;&#10;		<a>Spell Pierce</a><br>3 &#10;&#10;		<a>War Priest of Thune</a><br><hr>15 sideboard cards<br><br></td>&#10;            <td>&#10;              <div>&#10;                &#10;              </div>&#10;            </td>&#10;          </tr>&#10;        </tbody></table>
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?size=small&multiverseid=10100000&type=card) 
+
+  
+ 
+
+  
+
+Sam Gaard 
+
+2nd Place - Nebraska - Lincoln - 2/26
+
+[![View a sample hand of this deck](https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png)](https://web.archive.org/web/20130703045746/https://www.wizards.com/magic/samplehand.asp?x=mtg/daily/eventcoverage/nagoya11ptq/0226lincoln&decknum=2) 
+
+[![Download a .dek file for use in Magic Online](https://i.ormos.uk/7d/67/7d67a37edff07800cb466fa53a1880fe4f5a9f5af21d4a85210e22956ee20ec0.png)](https://web.archive.org/web/20130703045746/https://www.wizards.com/magic/mtgdailyeventcoveragenagoya11ptq0226lincolnx2.dek?x=mtg/daily/eventcoverage/nagoya11ptq/0226lincoln&decknum=2) 
+
+  
+ 
+
+<table>&#10;          <tbody><tr>&#10;            <td colspan="2">&#10;              <p>Main Deck</p>&#10;              <p>60 cards&#10;									</p>&#10;            </td>&#10;            <td>&#10;          </td></tr>&#10;          <tr>&#10;            <td>4 &#10;&#10;		<a>Creeping Tar Pit</a><br>4 &#10;&#10;		<a>Darkslick Shores</a><br>4 &#10;&#10;		<a>Island</a><br>4 &#10;&#10;		<a>Mutavault</a><br>4 &#10;&#10;		<a>Secluded Glen</a><br>2 &#10;&#10;		<a>Sunken Ruins</a><br>2 &#10;&#10;		<a>Swamp</a><br>2 &#10;&#10;		<a>Tectonic Edge</a><br><hr>26 lands<br><br>4 &#10;&#10;		<a>Mistbind Clique</a><br>4 &#10;&#10;		<a>Spellstutter Sprite</a><br>2 &#10;&#10;		<a>Vendilion Clique</a><br><hr>10 creatures<br><br></td>&#10;            <td>4 &#10;&#10;		<a>Bitterblossom</a><br>4 &#10;&#10;		<a>Cryptic Command</a><br>2 &#10;&#10;		<a>Disfigure</a><br>3 &#10;&#10;		<a>Go for the Throat</a><br>1 &#10;&#10;		<a>Inquisition of Kozilek</a><br>2 &#10;&#10;		<a>Jace, the Mind Sculptor</a><br>3 &#10;&#10;		<a>Mana Leak</a><br>2 &#10;&#10;		<a>Sword of Feast and Famine</a><br>3 &#10;&#10;		<a>Thoughtseize</a><br><hr>24 other spells<br><br><div><b><i>Sideboard</i></b></div>1 &#10;&#10;		<a>Deathmark</a><br>1 &#10;&#10;		<a>Disfigure</a><br>1 &#10;&#10;		<a>Ratchet Bomb</a><br>2 &#10;&#10;		<a>Sower of Temptation</a><br>2 &#10;&#10;		<a>Spell Pierce</a><br>1 &#10;&#10;		<a>Tectonic Edge</a><br>1 &#10;&#10;		<a>Thoughtseize</a><br>4 &#10;&#10;		<a>Vampire Nighthawk</a><br>2 &#10;&#10;		<a>Wurmcoil Engine</a><br><hr>15 sideboard cards<br><br></td>&#10;            <td>&#10;              <div>&#10;                &#10;              </div>&#10;            </td>&#10;          </tr>&#10;        </tbody></table>
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?size=small&multiverseid=10100000&type=card) 
+
+  
+ 
+
+  
+
+Alex Schrant 
+
+3rd Place - Nebraska - Lincoln - 2/26
+
+[![View a sample hand of this deck](https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png)](https://web.archive.org/web/20130703045746/https://www.wizards.com/magic/samplehand.asp?x=mtg/daily/eventcoverage/nagoya11ptq/0226lincoln&decknum=3) 
+
+[![Download a .dek file for use in Magic Online](https://i.ormos.uk/7d/67/7d67a37edff07800cb466fa53a1880fe4f5a9f5af21d4a85210e22956ee20ec0.png)](https://web.archive.org/web/20130703045746/https://www.wizards.com/magic/mtgdailyeventcoveragenagoya11ptq0226lincolnx3.dek?x=mtg/daily/eventcoverage/nagoya11ptq/0226lincoln&decknum=3) 
+
+  
+ 
+
+<table>&#10;          <tbody><tr>&#10;            <td colspan="2">&#10;              <p>Main Deck</p>&#10;              <p>60 cards&#10;									</p>&#10;            </td>&#10;            <td>&#10;          </td></tr>&#10;          <tr>&#10;            <td>3 &#10;&#10;		<a>Arid Mesa</a><br>4 &#10;&#10;		<a>Copperline Gorge</a><br>6 &#10;&#10;		<a>Mountain</a><br>4 &#10;&#10;		<a>Raging Ravine</a><br>1 &#10;&#10;		<a>Rootbound Crag</a><br>3 &#10;&#10;		<a>Scalding Tarn</a><br>3 &#10;&#10;		<a>Teetering Peaks</a><br><hr>24 lands<br><br>4 &#10;&#10;		<a>Bloodbraid Elf</a><br>3 &#10;&#10;		<a>Boggart Ram-Gang</a><br>4 &#10;&#10;		<a>Figure of Destiny</a><br>4 &#10;&#10;		<a>Goblin Guide</a><br>3 &#10;&#10;		<a>Hell's Thunder</a><br>4 &#10;&#10;		<a>Hellspark Elemental</a><br><hr>22 creatures<br><br></td>&#10;            <td>3 &#10;&#10;		<a>Burst Lightning</a><br>3 &#10;&#10;		<a>Flame Javelin</a><br>4 &#10;&#10;		<a>Lightning Bolt</a><br>4 &#10;&#10;		<a>Searing Blaze</a><br><hr>14 other spells<br><br><div><b><i>Sideboard</i></b></div>3 &#10;&#10;		<a>Leyline of Punishment</a><br>2 &#10;&#10;		<a>Mark of Mutiny</a><br>3 &#10;&#10;		<a>Smash to Smithereens</a><br>4 &#10;&#10;		<a>Tunnel Ignus</a><br>3 &#10;&#10;		<a>Volcanic Fallout</a><br><hr>15 sideboard cards<br><br></td>&#10;            <td>&#10;              <div>&#10;                &#10;              </div>&#10;            </td>&#10;          </tr>&#10;        </tbody></table>
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?size=small&multiverseid=10100000&type=card) 
+
+  
+ 
+
+  
+
+Matthew Langford 
+
+4th Place - Nebraska - Lincoln - 2/26
+
+[![View a sample hand of this deck](https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png)](https://web.archive.org/web/20130703045746/https://www.wizards.com/magic/samplehand.asp?x=mtg/daily/eventcoverage/nagoya11ptq/0226lincoln&decknum=4) 
+
+[![Download a .dek file for use in Magic Online](https://i.ormos.uk/7d/67/7d67a37edff07800cb466fa53a1880fe4f5a9f5af21d4a85210e22956ee20ec0.png)](https://web.archive.org/web/20130703045746/https://www.wizards.com/magic/mtgdailyeventcoveragenagoya11ptq0226lincolnx4.dek?x=mtg/daily/eventcoverage/nagoya11ptq/0226lincoln&decknum=4) 
+
+  
+ 
+
+<table>&#10;          <tbody><tr>&#10;            <td colspan="2">&#10;              <p>Main Deck</p>&#10;              <p>60 cards&#10;									</p>&#10;            </td>&#10;            <td>&#10;          </td></tr>&#10;          <tr>&#10;            <td>2 &#10;&#10;		<a>Celestial Colonnade</a><br>4 &#10;&#10;		<a>Forest</a><br>1 &#10;&#10;		<a>Island</a><br>4 &#10;&#10;		<a>Misty Rainforest</a><br>1 &#10;&#10;		<a>Murmuring Bosk</a><br>1 &#10;&#10;		<a>Mystic Gate</a><br>4 &#10;&#10;		<a>Razorverge Thicket</a><br>2 &#10;&#10;		<a>Seachrome Coast</a><br>1 &#10;&#10;		<a>Stirring Wildwood</a><br>1 &#10;&#10;		<a>Tectonic Edge</a><br>3 &#10;&#10;		<a>Verdant Catacombs</a><br><hr>24 lands<br><br>1 &#10;&#10;		<a>Baneslayer Angel</a><br>4 &#10;&#10;		<a>Birds of Paradise</a><br>3 &#10;&#10;		<a>Hero of Bladehold</a><br>4 &#10;&#10;		<a>Knight of the Reliquary</a><br>4 &#10;&#10;		<a>Mirran Crusader</a><br>4 &#10;&#10;		<a>Noble Hierarch</a><br>4 &#10;&#10;		<a>Qasali Pridemage</a><br>2 &#10;&#10;		<a>Stoneforge Mystic</a><br><hr>26 creatures<br><br></td>&#10;            <td>4 &#10;&#10;		<a>Bant Charm</a><br>2 &#10;&#10;		<a>Elspeth, Knight-Errant</a><br>1 &#10;&#10;		<a>Finest Hour</a><br>1 &#10;&#10;		<a>Mana Leak</a><br>1 &#10;&#10;		<a>Path to Exile</a><br>1 &#10;&#10;		<a>Sword of Feast and Famine</a><br><hr>10 other spells<br><br><div><b><i>Sideboard</i></b></div>4 &#10;&#10;		<a>Burrenton Forge-Tender</a><br>4 &#10;&#10;		<a>Great Sable Stag</a><br>3 &#10;&#10;		<a>Path to Exile</a><br>4 &#10;&#10;		<a>Unified Will</a><br><hr>15 sideboard cards<br><br></td>&#10;            <td>&#10;              <div>&#10;                &#10;              </div>&#10;            </td>&#10;          </tr>&#10;        </tbody></table>
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?size=small&multiverseid=10100000&type=card) 
+
+  
+ 
+
+  
+
+Mark Simard 
+
+5th Place - Nebraska - Lincoln - 2/26
+
+[![View a sample hand of this deck](https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png)](https://web.archive.org/web/20130703045746/https://www.wizards.com/magic/samplehand.asp?x=mtg/daily/eventcoverage/nagoya11ptq/0226lincoln&decknum=5) 
+
+[![Download a .dek file for use in Magic Online](https://i.ormos.uk/7d/67/7d67a37edff07800cb466fa53a1880fe4f5a9f5af21d4a85210e22956ee20ec0.png)](https://web.archive.org/web/20130703045746/https://www.wizards.com/magic/mtgdailyeventcoveragenagoya11ptq0226lincolnx5.dek?x=mtg/daily/eventcoverage/nagoya11ptq/0226lincoln&decknum=5) 
+
+  
+ 
+
+<table>&#10;          <tbody><tr>&#10;            <td colspan="2">&#10;              <p>Main Deck</p>&#10;              <p>60 cards&#10;									</p>&#10;            </td>&#10;            <td>&#10;          </td></tr>&#10;          <tr>&#10;            <td>1 &#10;&#10;		<a>Island</a><br>4 &#10;&#10;		<a>Mystic Gate</a><br>5 &#10;&#10;		<a>Plains</a><br>4 &#10;&#10;		<a>Seachrome Coast</a><br>4 &#10;&#10;		<a>Tectonic Edge</a><br><hr>18 lands<br><br>4 &#10;&#10;		<a>Court Homunculus</a><br>4 &#10;&#10;		<a>Master of Etherium</a><br>4 &#10;&#10;		<a>Memnite</a><br>4 &#10;&#10;		<a>Ornithopter</a><br>2 &#10;&#10;		<a>Ranger of Eos</a><br>4 &#10;&#10;		<a>Signal Pest</a><br>4 &#10;&#10;		<a>Steel Overseer</a><br><hr>26 creatures<br><br></td>&#10;            <td>3 &#10;&#10;		<a>Mox Opal</a><br>4 &#10;&#10;		<a>Path to Exile</a><br>4 &#10;&#10;		<a>Tempered Steel</a><br>2 &#10;&#10;		<a>Thopter Foundry</a><br>3 &#10;&#10;		<a>Unified Will</a><br><hr>16 other spells<br><br><div><b><i>Sideboard</i></b></div>1 &#10;&#10;		<a>Bonehoard</a><br>1 &#10;&#10;		<a>Chimeric Mass</a><br>3 &#10;&#10;		<a>Ethersworn Shieldmage</a><br>3 &#10;&#10;		<a>Phyrexian Revoker</a><br>4 &#10;&#10;		<a>Spell Pierce</a><br>3 &#10;&#10;		<a>Wall of Tanglecord</a><br><hr>15 sideboard cards<br><br></td>&#10;            <td>&#10;              <div>&#10;                &#10;              </div>&#10;            </td>&#10;          </tr>&#10;        </tbody></table>
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?size=small&multiverseid=10100000&type=card) 
+
+  
+ 
+
+  
+
+David Rolf 
+
+6th Place - Nebraska - Lincoln - 2/26
+
+[![View a sample hand of this deck](https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png)](https://web.archive.org/web/20130703045746/https://www.wizards.com/magic/samplehand.asp?x=mtg/daily/eventcoverage/nagoya11ptq/0226lincoln&decknum=6) 
+
+[![Download a .dek file for use in Magic Online](https://i.ormos.uk/7d/67/7d67a37edff07800cb466fa53a1880fe4f5a9f5af21d4a85210e22956ee20ec0.png)](https://web.archive.org/web/20130703045746/https://www.wizards.com/magic/mtgdailyeventcoveragenagoya11ptq0226lincolnx6.dek?x=mtg/daily/eventcoverage/nagoya11ptq/0226lincoln&decknum=6) 
+
+  
+ 
+
+<table>&#10;          <tbody><tr>&#10;            <td colspan="2">&#10;              <p>Main Deck</p>&#10;              <p>60 cards&#10;									</p>&#10;            </td>&#10;            <td>&#10;          </td></tr>&#10;          <tr>&#10;            <td>2 &#10;&#10;		<a>Evolving Wilds</a><br>6 &#10;&#10;		<a>Forest</a><br>2 &#10;&#10;		<a>Misty Rainforest</a><br>10 &#10;&#10;		<a>Mountain</a><br>1 &#10;&#10;		<a>Raging Ravine</a><br>2 &#10;&#10;		<a>Terramorphic Expanse</a><br>4 &#10;&#10;		<a>Valakut, the Molten Pinnacle</a><br><hr>27 lands<br><br>4 &#10;&#10;		<a>Primeval Titan</a><br><hr>4 creatures<br><br></td>&#10;            <td>2 &#10;&#10;		<a>Cultivate</a><br>4 &#10;&#10;		<a>Explore</a><br>2 &#10;&#10;		<a>Harrow</a><br>4 &#10;&#10;		<a>Khalni Heart Expedition</a><br>2 &#10;&#10;		<a>Primal Command</a><br>3 &#10;&#10;		<a>Prismatic Omen</a><br>4 &#10;&#10;		<a>Rampant Growth</a><br>4 &#10;&#10;		<a>Scapeshift</a><br>4 &#10;&#10;		<a>Volcanic Fallout</a><br><hr>29 other spells<br><br><div><b><i>Sideboard</i></b></div>2 &#10;&#10;		<a>Back to Nature</a><br>2 &#10;&#10;		<a>Firespout</a><br>3 &#10;&#10;		<a>Guttural Response</a><br>2 &#10;&#10;		<a>Nature's Claim</a><br>2 &#10;&#10;		<a>Obstinate Baloth</a><br>2 &#10;&#10;		<a>Reverberate</a><br>2 &#10;&#10;		<a>Vexing Shusher</a><br><hr>15 sideboard cards<br><br></td>&#10;            <td>&#10;              <div>&#10;                &#10;              </div>&#10;            </td>&#10;          </tr>&#10;        </tbody></table>
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?size=small&multiverseid=10100000&type=card) 
+
+  
+ 
+
+  
+
+Brandon Ayers 
+
+7th Place - Nebraska - Lincoln - 2/26
+
+[![View a sample hand of this deck](https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png)](https://web.archive.org/web/20130703045746/https://www.wizards.com/magic/samplehand.asp?x=mtg/daily/eventcoverage/nagoya11ptq/0226lincoln&decknum=7) 
+
+[![Download a .dek file for use in Magic Online](https://i.ormos.uk/7d/67/7d67a37edff07800cb466fa53a1880fe4f5a9f5af21d4a85210e22956ee20ec0.png)](https://web.archive.org/web/20130703045746/https://www.wizards.com/magic/mtgdailyeventcoveragenagoya11ptq0226lincolnx7.dek?x=mtg/daily/eventcoverage/nagoya11ptq/0226lincoln&decknum=7) 
+
+  
+ 
+
+<table>&#10;          <tbody><tr>&#10;            <td colspan="2">&#10;              <p>Main Deck</p>&#10;              <p>60 cards&#10;									</p>&#10;            </td>&#10;            <td>&#10;          </td></tr>&#10;          <tr>&#10;            <td>4 &#10;&#10;		<a>Creeping Tar Pit</a><br>4 &#10;&#10;		<a>Darkslick Shores</a><br>4 &#10;&#10;		<a>Island</a><br>4 &#10;&#10;		<a>Mutavault</a><br>4 &#10;&#10;		<a>Secluded Glen</a><br>2 &#10;&#10;		<a>Sunken Ruins</a><br>1 &#10;&#10;		<a>Swamp</a><br>3 &#10;&#10;		<a>Tectonic Edge</a><br><hr>26 lands<br><br>4 &#10;&#10;		<a>Mistbind Clique</a><br>3 &#10;&#10;		<a>Spellstutter Sprite</a><br>2 &#10;&#10;		<a>Vendilion Clique</a><br><hr>9 creatures<br><br></td>&#10;            <td>4 &#10;&#10;		<a>Bitterblossom</a><br>4 &#10;&#10;		<a>Cryptic Command</a><br>2 &#10;&#10;		<a>Disfigure</a><br>3 &#10;&#10;		<a>Go for the Throat</a><br>1 &#10;&#10;		<a>Inquisition of Kozilek</a><br>2 &#10;&#10;		<a>Jace Beleren</a><br>1 &#10;&#10;		<a>Jace, the Mind Sculptor</a><br>3 &#10;&#10;		<a>Mana Leak</a><br>2 &#10;&#10;		<a>Sword of Feast and Famine</a><br>3 &#10;&#10;		<a>Thoughtseize</a><br><hr>25 other spells<br><br><div><b><i>Sideboard</i></b></div>1 &#10;&#10;		<a>Countersquall</a><br>1 &#10;&#10;		<a>Disfigure</a><br>1 &#10;&#10;		<a>Inquisition</a><br>3 &#10;&#10;		<a>Sower of Temptation</a><br>2 &#10;&#10;		<a>Spell Pierce</a><br>1 &#10;&#10;		<a>Thoughtseize</a><br>4 &#10;&#10;		<a>Vampire Nighthawk</a><br>2 &#10;&#10;		<a>Wurmcoil Engine</a><br><hr>15 sideboard cards<br><br></td>&#10;            <td>&#10;              <div>&#10;                &#10;              </div>&#10;            </td>&#10;          </tr>&#10;        </tbody></table>
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?size=small&multiverseid=10100000&type=card) 
+
+  
+ 
+
+  
+
+Chad Juarez 
+
+8th Place - Nebraska - Lincoln - 2/26
+
+[![View a sample hand of this deck](https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png)](https://web.archive.org/web/20130703045746/https://www.wizards.com/magic/samplehand.asp?x=mtg/daily/eventcoverage/nagoya11ptq/0226lincoln&decknum=8) 
+
+[![Download a .dek file for use in Magic Online](https://i.ormos.uk/7d/67/7d67a37edff07800cb466fa53a1880fe4f5a9f5af21d4a85210e22956ee20ec0.png)](https://web.archive.org/web/20130703045746/https://www.wizards.com/magic/mtgdailyeventcoveragenagoya11ptq0226lincolnx8.dek?x=mtg/daily/eventcoverage/nagoya11ptq/0226lincoln&decknum=8) 
+
+  
+ 
+
+<table>&#10;          <tbody><tr>&#10;            <td colspan="2">&#10;              <p>Main Deck</p>&#10;              <p>60 cards&#10;									</p>&#10;            </td>&#10;            <td>&#10;          </td></tr>&#10;          <tr>&#10;            <td>1 &#10;&#10;		<a>Celestial Colonnade</a><br>4 &#10;&#10;		<a>Flooded Grove</a><br>4 &#10;&#10;		<a>Forest</a><br>4 &#10;&#10;		<a>Island</a><br>4 &#10;&#10;		<a>Misty Rainforest</a><br>1 &#10;&#10;		<a>Murmuring Bosk</a><br>1 &#10;&#10;		<a>Plains</a><br>2 &#10;&#10;		<a>Seachrome Coast</a><br>4 &#10;&#10;		<a>Valakut, the Molten Pinnacle</a><br>1 &#10;&#10;		<a>Verdant Catacombs</a><br><hr>26 lands<br><br>2 &#10;&#10;		<a>Oracle of Mul Daya</a><br><hr>2 creatures<br><br></td>&#10;            <td>4 &#10;&#10;		<a>Cryptic Command</a><br>4 &#10;&#10;		<a>Explore</a><br>3 &#10;&#10;		<a>Mana Leak</a><br>2 &#10;&#10;		<a>Path to Exile</a><br>2 &#10;&#10;		<a>Ponder</a><br>4 &#10;&#10;		<a>Preordain</a><br>4 &#10;&#10;		<a>Prismatic Omen</a><br>4 &#10;&#10;		<a>Rampant Growth</a><br>2 &#10;&#10;		<a>Scapeshift</a><br>1 &#10;&#10;		<a>See Beyond</a><br>2 &#10;&#10;		<a>Wargate</a><br><hr>32 other spells<br><br></td>&#10;            <td>&#10;              <div>&#10;                &#10;              </div>&#10;              <div>&#10;                <div>&#10;                  <b>&#10;                    <i>Sideboard</i>&#10;                  </b>&#10;                </div>1 &#10;&#10;		<a>Into the Roil</a><br>2 &#10;&#10;		<a>Kitchen Finks</a><br>3 &#10;&#10;		<a>Leyline of Sanctity</a><br>1 &#10;&#10;		<a>Nature's Claim</a><br>2 &#10;&#10;		<a>Obstinate Baloth</a><br>1 &#10;&#10;		<a>Path to Exile</a><br>1 &#10;&#10;		<a>Primal Command</a><br>1 &#10;&#10;		<a>Runed Halo</a><br>1 &#10;&#10;		<a>Sun Titan</a><br>2 &#10;&#10;		<a>Vendilion Clique</a><br><hr>15 sideboard cards<br><br></div>&#10;            </td>&#10;          </tr>&#10;        </tbody></table>
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?size=small&multiverseid=10100000&type=card)

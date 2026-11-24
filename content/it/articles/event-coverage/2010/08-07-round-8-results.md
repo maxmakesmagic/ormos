@@ -1,0 +1,47 @@
+---
+id: rzh85ymx
+kind: event
+lang: it
+path: /it/articles/event-coverage/2010/08-07-round-8-results
+title: Round 8 Results
+published: '2010-08-07'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: it
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-8-results-2010-08-07
+    lang_detected: it
+    capture_id: 568522
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-8-results-2010-08-07
+    captured_at: '2022-05-22 01:44:17+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-8-results-2010-08-07
+    lang_detected: it
+    capture_id: 568522
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-8-results-2010-08-07
+    captured_at: '2022-05-22 01:44:17+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: rzh85ymx
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-8-results-2010-08-07
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/round-8-results-2010-08-07
+  lang: it
+  template: drupal
+  captured_at: '2022-05-22 01:44:17+00'
+  capture_id: 568522
+  wayback_url: https://web.archive.org/web/20220522014417id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-8-results-2010-08-07
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: rzh85ymx
+  capture_id: 568522
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-8-results-2010-08-07
+  wayback_url: https://web.archive.org/web/20220522014417id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-8-results-2010-08-07
+  captured_at: '2022-05-22 01:44:17+00'
+  template: drupal
+  sha256: f6d833cd878ba685d6e293c54a98eac006cca4ba97c3bee2197800c76b6bb4d9
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Result</b></td><td><b>&#10;						</b></td><td><b>Opponent</b></td></tr><tr><td> 1</td><td>Ballestin, Daniel</td><td>Lost 1-2</td><td>vs.</td><td>Sosa Marrero, Eduardo</td></tr><tr><td> 2</td><td>Herrero, Sergi</td><td>Won 2-1</td><td>vs.</td><td>CORDERO, ANDRES</td></tr><tr><td> 3</td><td>Ogayar, David J</td><td>Won 2-0</td><td>vs.</td><td>Dominguez Kerfouf, Azdin</td></tr><tr><td> 4</td><td>Oliveros, Carlos</td><td>Won 2-0</td><td>vs.</td><td>Val, Jonatan</td></tr><tr><td> 5</td><td>Scaglione, Girolamo</td><td>Lost 1-2</td><td>vs.</td><td>Cambron Martinez, Nacho</td></tr><tr><td> 6</td><td>Negrin, Gustavo</td><td>Lost 0-2</td><td>vs.</td><td>Carrera, Jorge</td></tr><tr><td> 7</td><td>Pinazo, Jorge</td><td>Lost 0-2</td><td>vs.</td><td>Del Valle, Alex</td></tr><tr><td> 8</td><td>Ruiz Lantero, Carlos</td><td>Lost 0-2</td><td>vs.</td><td>Moreno Morales, Francisco F</td></tr><tr><td> 9</td><td>diaz, jesus d</td><td>Won 2-0</td><td>vs.</td><td>Fajardo, Luis</td></tr><tr><td> 10</td><td>JIMENEZ, MANUEL</td><td>Lost 0-2</td><td>vs.</td><td>Merino Martinez, Ruben</td></tr><tr><td> 11</td><td>gimenez anton, antonio</td><td>Lost 1-2</td><td>vs.</td><td>de Castro Sanchez, Ivan</td></tr><tr><td> 12</td><td>Perez Alemany, Miguel Angel</td><td>Won 2-0</td><td>vs.</td><td>Mtnez. (Vitidjin), Victor</td></tr><tr><td> 13</td><td>Carbonero, Anibal</td><td>Lost 0-2</td><td>vs.</td><td>Moral, Carlos</td></tr><tr><td> 14</td><td>rohner, omar</td><td>Won 2-1</td><td>vs.</td><td>Lopez, Manuel</td></tr><tr><td> 15</td><td>moreno, alberto</td><td>Lost 0-2</td><td>vs.</td><td>Lopez Muñoz, Jose Carlos</td></tr><tr><td> 16</td><td>Garcia, Sergio</td><td>Won 2-1</td><td>vs.</td><td>Magdalena Aguin, Eduardo Alb</td></tr><tr><td> 17</td><td>Trillo Torres, Manuel</td><td>Won 2-1</td><td>vs.</td><td>Cuesta, Iñaki</td></tr><tr><td> 18</td><td>Briones, MIguel</td><td>Won 2-0</td><td>vs.</td><td>Serrano, Jose Luis</td></tr><tr><td> 19</td><td>Gonzalez, Luis</td><td>Won 2-1</td><td>vs.</td><td>Aguado, Saul</td></tr><tr><td> 20</td><td>Navas Crespo, Carlos</td><td>Lost 0-2</td><td>vs.</td><td>Moreira, Pau</td></tr><tr><td> 21</td><td>Opazo, Esteban</td><td>Won 2-1</td><td>vs.</td><td>Subiela Moreno, Jose m</td></tr><tr><td> 22</td><td>Ferrero, Miguel Angel</td><td>Lost 1-2</td><td>vs.</td><td>Muv±oz Jimenez, Victor Tomas</td></tr><tr><td> 23</td><td>garcia, manuel jesus</td><td>Lost 0-2</td><td>vs.</td><td>García, Alvaro</td></tr><tr><td> 24</td><td>Bernabe, Patricio</td><td>Lost 1-2</td><td>vs.</td><td>Navas, Antonio</td></tr><tr><td> 25</td><td>Rodriguez Barrabes, Abel Dar</td><td>Won 2-0</td><td>vs.</td><td>Vizcaino, Gerard</td></tr><tr><td> 26</td><td>López Campos, Emilio</td><td>Won 2-1</td><td>vs.</td><td>LABAT, ANDRÉS</td></tr><tr><td> 27</td><td>Frontera Borrueco, Antoni Da</td><td>Lost 0-2</td><td>vs.</td><td>Pla, David</td></tr><tr><td> 28</td><td>Castillo, Dani</td><td>Lost 0-2</td><td>vs.</td><td>Mas Buezo, Ignacio</td></tr><tr><td> 29</td><td>Llano, Enrique</td><td>Won 2-1</td><td>vs.</td><td>GONZALEZ, JESUS J</td></tr><tr><td> 30</td><td>Liu Xu, Johnny</td><td>Won 2-0</td><td>vs.</td><td>Perez, oscar</td></tr><tr><td> 31</td><td>Alvarez, Alejandro</td><td>Lost 0-2</td><td>vs.</td><td>Martinez, Alexis</td></tr><tr><td> 32</td><td>Truchado, Rafael</td><td>Won 2-1</td><td>vs.</td><td>Martin Bermejo, Daniel M</td></tr><tr><td> 33</td><td>Velasco, Fernando F</td><td>Won 2-1</td><td>vs.</td><td>santiago, carlos</td></tr><tr><td> 34</td><td>Garcãa Fernãndez, Borja</td><td>Won 2-1</td><td>vs.</td><td>Rodriguez, Alex</td></tr><tr><td> 35</td><td>Gutierrez Ibanez, Alvaro</td><td>Won 2-0</td><td>vs.</td><td>Fontanella Borras, Lluis</td></tr><tr><td> 36</td><td>Sanchis Merino, Alejandro</td><td>Won 2-1</td><td>vs.</td><td>Galera, Angel A.</td></tr><tr><td> 37</td><td>Del Pino Pouedano, Javier</td><td>Lost 0-2</td><td>vs.</td><td>Fernandez de celis, Ricardo</td></tr><tr><td> 38</td><td>Martin, Francisco Javier</td><td>Lost 0-2</td><td>vs.</td><td>Martin, Julio</td></tr><tr><td> 39</td><td>Llamas, Guillermo</td><td>Lost 1-2</td><td>vs.</td><td>Navarro del Dujo, Carlos</td></tr><tr><td> 40</td><td>Martos, Antonio</td><td>Lost 0-2</td><td>vs.</td><td>Guerra Reyes, Cesar A</td></tr><tr><td> 41</td><td>martos, Jairo m</td><td>Won 2-0</td><td>vs.</td><td>Mendez, Noelia</td></tr><tr><td> 42</td><td>Saavedra, Roberto</td><td>Won 2-0</td><td>vs.</td><td>Rodriguez, Marcos M</td></tr><tr><td> 43</td><td>Gonzlez, Arturo</td><td>Won 2-0</td><td>vs.</td><td>martin angulo, alvaro</td></tr><tr><td> 44</td><td>sanchez, patxi</td><td>Lost 0-2</td><td>vs.</td><td>de la Cruz, Erik</td></tr><tr><td> 45</td><td>Vazquez, Francisco Fidel</td><td>Won 2-0</td><td>vs.</td><td>Del Moral León, Antonio</td></tr><tr><td> 46</td><td>Gonzalez Monreal, Amaiur</td><td>Lost 1-2</td><td>vs.</td><td>Urós, Pol</td></tr><tr><td> 47</td><td>Rodil, Rodrigo</td><td>Won 2-1</td><td>vs.</td><td>Riveiro, Francisco J.</td></tr><tr><td> 48</td><td>Rocher, Ruben</td><td>Lost 0-2</td><td>vs.</td><td>Cano, Jonathan J</td></tr><tr><td> 49</td><td>Scheinin, Martin</td><td>Won 2-1</td><td>vs.</td><td>Calvo Enciso, Ignacio</td></tr><tr><td> 50</td><td>Rodriguez, Daniel</td><td>Won 2-1</td><td>vs.</td><td>Sanchez, Eugeni</td></tr><tr><td> 51</td><td>Cruz Garcia, Jose Ramon R</td><td>Won 2-1</td><td>vs.</td><td>TORRES CALDERA, MANUEL</td></tr><tr><td> 52</td><td>Gonzalez, David</td><td>Won 2-0</td><td>vs.</td><td>del Pozo, Alexis</td></tr><tr><td> 53</td><td>Calafell, Joel</td><td>Won 2-0</td><td>vs.</td><td>Fernandez, David</td></tr><tr><td> 54</td><td>buruaga carranza, ulises</td><td>Won 2-0</td><td>vs.</td><td>Martin, Antonio</td></tr><tr><td> 55</td><td>zorrilla, sergio</td><td>Lost 0-2</td><td>vs.</td><td>Rodriguez Morales, Ernesto E</td></tr><tr><td> 56</td><td>Mayor Redondo, Victor v</td><td>Lost 0-2</td><td>vs.</td><td>Broens, Cristian A</td></tr><tr><td> 57</td><td>Porquet Costa, David</td><td>Lost 0-2</td><td>vs.</td><td>Carmona Parra, Victor Manuel</td></tr><tr><td> 58</td><td>Romero, Alberto</td><td>Won 2-1</td><td>vs.</td><td>Nieto Gutierrez, Antonio</td></tr><tr><td> 59</td><td>Marrero Negrin, Jaime</td><td>Won 2-1</td><td>vs.</td><td>Alarcón, Jorge</td></tr><tr><td> 60</td><td>Barrio, Daniel D</td><td>Lost 1-2</td><td>vs.</td><td>Saval Marhuenda, Alberto</td></tr><tr><td> 61</td><td>Osma, Diego</td><td>Won 2-0</td><td>vs.</td><td>Sirvent, Antonio</td></tr><tr><td> 62</td><td>Rodríguez López, Juan José R</td><td>Won 2-0</td><td>vs.</td><td>Samaniego, Alex</td></tr><tr><td> 63</td><td>Corbera Bellalta, Marc</td><td>Won 2-0</td><td>vs.</td><td>Fuentes, Jose Luis</td></tr><tr><td>&#10;					</td><td>Solano, David</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr><tr><td>&#10;					</td><td>Cantero Carrion, Jose Angel</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr><tr><td>&#10;					</td><td>Lillo Mierzejewski, Pablo Ro</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr><tr><td>&#10;					</td><td>Gonzalez, Antonio Alfonso</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr><tr><td>&#10;					</td><td>RODRIGUEZ, JONATAN</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr><tr><td>&#10;					</td><td>Casanova, Carlos</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr><tr><td>&#10;					</td><td>Garcia Paez, Daniel</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr></tbody></table>

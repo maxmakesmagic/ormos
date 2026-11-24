@@ -1,0 +1,189 @@
+---
+id: qh3segk0
+kind: event
+lang: en
+path: /en/events/2015/legacy-daily-2015-09-21/legacy-daily
+title: Legacy Daily
+published: '2015-09-21'
+column_slug: null
+column: null
+authors: []
+event_code: legacy-daily-2015-09-21
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/mtgo-standings/legacy-daily-2015-09-21
+    lang_detected: en
+    capture_id: 995682
+    url: http://magic.wizards.com/en/articles/archive/mtgo-standings/legacy-daily-2015-09-21
+    captured_at: '2016-05-07 10:34:21+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/mtgo-standings/legacy-daily-2015-09-21
+    lang_detected: en
+    capture_id: 995682
+    url: http://magic.wizards.com/en/articles/archive/mtgo-standings/legacy-daily-2015-09-21
+    captured_at: '2016-05-07 10:34:21+00'
+    rule: drupal.posted_in_date
+  event_code:
+    page_key: magic.wizards.com/en/articles/archive/mtgo-standings/legacy-daily-2015-09-21
+    lang_detected: en
+    capture_id: 995682
+    url: http://magic.wizards.com/en/articles/archive/mtgo-standings/legacy-daily-2015-09-21
+    captured_at: '2016-05-07 10:34:21+00'
+    rule: url.mtgo_event_slug
+sources:
+- document_id: qh3segk0
+  url: http://magic.wizards.com/en/articles/archive/mtgo-standings/legacy-daily-2015-09-21
+  page_key: magic.wizards.com/en/articles/archive/mtgo-standings/legacy-daily-2015-09-21
+  lang: en
+  template: drupal
+  captured_at: '2016-05-07 10:34:21+00'
+  capture_id: 995682
+  wayback_url: https://web.archive.org/web/20160507103421id_/http://magic.wizards.com/en/articles/archive/mtgo-standings/legacy-daily-2015-09-21
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: qh3segk0
+  capture_id: 995682
+  url: http://magic.wizards.com/en/articles/archive/mtgo-standings/legacy-daily-2015-09-21
+  wayback_url: https://web.archive.org/web/20160507103421id_/http://magic.wizards.com/en/articles/archive/mtgo-standings/legacy-daily-2015-09-21
+  captured_at: '2016-05-07 10:34:21+00'
+  template: drupal
+  sha256: d03a9a23e31e4d841aa636379e8d04b7184e13e348e4e0fd8025c900d5a7e9ec
+render_recovery:
+- code: deck_widget_requires_review
+  element: a
+  reason: The archived deck widget has no visible card rows. The source capture may
+    contain data to recover it.
+  labels:
+  - Decklist
+  occurrences: 1
+---
+*   [Decklists](#decklists)
+*   [Standings](#standings)
+
+## Decklists
+
+#### jacetmsst (3-0)
+
+##### Legacy Premier #8790290 on 09/20/2015
+
+ ![](http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+[Decklist](#none) [Stats](#none) [Sample Hand](#none) 
+
+Sort by: 
+
+##### Planeswalker (1)
+
+1 [Jace, the Mind Sculptor](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5Bthe%5D+%5BMind%5D+%5BSculptor%5D) 
+
+##### Creature (9)
+
+2 [Snapcaster Mage](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSnapcaster%5D+%5BMage%5D) 4 [Stoneforge Mystic](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStoneforge%5D+%5BMystic%5D) 2 [True-Name Nemesis](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrue-Name%5D+%5BNemesis%5D) 1 [Vendilion Clique](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVendilion%5D+%5BClique%5D) 
+
+##### Sorcery (6)
+
+1 [Council's Judgment](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCouncil%5D+%5BJudgment%5D) 4 [Ponder](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPonder%5D) 1 [Supreme Verdict](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSupreme%5D+%5BVerdict%5D) 
+
+##### Instant (22)
+
+4 [Brainstorm](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrainstorm%5D) 2 [Counterspell](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCounterspell%5D) 2 [Dig Through Time](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDig%5D+%5BThrough%5D+%5BTime%5D) 4 [Force of Will](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BWill%5D) 1 [Lightning Bolt](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBolt%5D) 1 [Pyroblast](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroblast%5D) 2 [Spell Pierce](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpell%5D+%5BPierce%5D) 2 [Spell Snare](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpell%5D+%5BSnare%5D) 4 [Swords to Plowshares](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwords%5D+%5Bto%5D+%5BPlowshares%5D) 
+
+##### Artifact (2)
+
+1 [Batterskull](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBatterskull%5D) 1 [Umezawa's Jitte](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUmezawa%5D+%5BJitte%5D) 
+
+##### Land (20)
+
+1 [Arid Mesa](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArid%5D+%5BMesa%5D) 4 [Flooded Strand](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D) 2 [Island](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D) 1 [Karakas](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarakas%5D) 1 [Misty Rainforest](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMisty%5D+%5BRainforest%5D) 1 [Plains](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D) 3 [Polluted Delta](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D) 4 [Tundra](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTundra%5D) 3 [Volcanic Island](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVolcanic%5D+%5BIsland%5D) 
+
+60 Cards 
+
+##### Sideboard (15)
+
+1 [Jace, the Mind Sculptor](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5Bthe%5D+%5BMind%5D+%5BSculptor%5D) 1 [Ethersworn Canonist](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEthersworn%5D+%5BCanonist%5D) 1 [Flusterstorm](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlusterstorm%5D) 1 [Grafdigger's Cage](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrafdigger%5D+%5BCage%5D) 2 [Meddling Mage](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMeddling%5D+%5BMage%5D) 1 [Nahiri, the Lithomancer](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNahiri,%5D+%5Bthe%5D+%5BLithomancer%5D) 1 [Pithing Needle](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D) 3 [Red Elemental Blast](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRed%5D+%5BElemental%5D+%5BBlast%5D) 2 [Rest in Peace](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRest%5D+%5Bin%5D+%5BPeace%5D) 1 [Sword of Feast and Famine](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSword%5D+%5Bof%5D+%5BFeast%5D+%5Band%5D+%5BFamine%5D) 1 [Wear // Tear](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWear%5D+%5B&%5D+%5BTear%5D) 
+
+##### White (13)
+
+4 [Stoneforge Mystic](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStoneforge%5D+%5BMystic%5D) 1 [Council's Judgment](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCouncil%5D+%5BJudgment%5D) 4 [Swords to Plowshares](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwords%5D+%5Bto%5D+%5BPlowshares%5D) 1 [Ethersworn Canonist](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEthersworn%5D+%5BCanonist%5D) 1 [Nahiri, the Lithomancer](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNahiri,%5D+%5Bthe%5D+%5BLithomancer%5D) 2 [Rest in Peace](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRest%5D+%5Bin%5D+%5BPeace%5D) 
+
+##### Blue (28)
+
+2 [Snapcaster Mage](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSnapcaster%5D+%5BMage%5D) 2 [True-Name Nemesis](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrue-Name%5D+%5BNemesis%5D) 1 [Vendilion Clique](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVendilion%5D+%5BClique%5D) 4 [Brainstorm](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrainstorm%5D) 2 [Counterspell](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCounterspell%5D) 2 [Dig Through Time](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDig%5D+%5BThrough%5D+%5BTime%5D) 4 [Force of Will](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BWill%5D) 2 [Jace, the Mind Sculptor](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5Bthe%5D+%5BMind%5D+%5BSculptor%5D) 4 [Ponder](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPonder%5D) 2 [Spell Pierce](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpell%5D+%5BPierce%5D) 2 [Spell Snare](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpell%5D+%5BSnare%5D) 1 [Flusterstorm](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlusterstorm%5D) 
+
+##### Red (6)
+
+1 [Lightning Bolt](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBolt%5D) 1 [Pyroblast](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroblast%5D) 3 [Red Elemental Blast](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRed%5D+%5BElemental%5D+%5BBlast%5D) 1 [Wear // Tear](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWear%5D+%5B&%5D+%5BTear%5D) 
+
+##### Multi colored (3)
+
+1 [Supreme Verdict](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSupreme%5D+%5BVerdict%5D) 2 [Meddling Mage](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMeddling%5D+%5BMage%5D) 
+
+##### Colorless (25)
+
+1 [Arid Mesa](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArid%5D+%5BMesa%5D) 4 [Flooded Strand](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D) 2 [Island](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D) 1 [Karakas](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarakas%5D) 1 [Misty Rainforest](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMisty%5D+%5BRainforest%5D) 1 [Plains](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D) 3 [Polluted Delta](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D) 4 [Tundra](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTundra%5D) 3 [Volcanic Island](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVolcanic%5D+%5BIsland%5D) 1 [Batterskull](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBatterskull%5D) 1 [Umezawa's Jitte](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUmezawa%5D+%5BJitte%5D) 1 [Grafdigger's Cage](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrafdigger%5D+%5BCage%5D) 1 [Pithing Needle](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D) 1 [Sword of Feast and Famine](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSword%5D+%5Bof%5D+%5BFeast%5D+%5Band%5D+%5BFamine%5D) 
+
+75 Cards 
+
+##### 1 (24)
+
+4 [Brainstorm](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrainstorm%5D) 1 [Lightning Bolt](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBolt%5D) 4 [Ponder](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPonder%5D) 1 [Pyroblast](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroblast%5D) 2 [Spell Pierce](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpell%5D+%5BPierce%5D) 2 [Spell Snare](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpell%5D+%5BSnare%5D) 4 [Swords to Plowshares](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwords%5D+%5Bto%5D+%5BPlowshares%5D) 1 [Flusterstorm](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlusterstorm%5D) 1 [Grafdigger's Cage](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrafdigger%5D+%5BCage%5D) 1 [Pithing Needle](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D) 3 [Red Elemental Blast](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRed%5D+%5BElemental%5D+%5BBlast%5D) 
+
+##### 2 (15)
+
+2 [Snapcaster Mage](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSnapcaster%5D+%5BMage%5D) 4 [Stoneforge Mystic](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStoneforge%5D+%5BMystic%5D) 2 [Counterspell](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCounterspell%5D) 1 [Umezawa's Jitte](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUmezawa%5D+%5BJitte%5D) 1 [Ethersworn Canonist](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEthersworn%5D+%5BCanonist%5D) 2 [Meddling Mage](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMeddling%5D+%5BMage%5D) 2 [Rest in Peace](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRest%5D+%5Bin%5D+%5BPeace%5D) 1 [Wear // Tear](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWear%5D+%5B&%5D+%5BTear%5D) 
+
+##### 3 (5)
+
+2 [True-Name Nemesis](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrue-Name%5D+%5BNemesis%5D) 1 [Vendilion Clique](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVendilion%5D+%5BClique%5D) 1 [Council's Judgment](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCouncil%5D+%5BJudgment%5D) 1 [Sword of Feast and Famine](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSword%5D+%5Bof%5D+%5BFeast%5D+%5Band%5D+%5BFamine%5D) 
+
+##### 4 (3)
+
+2 [Jace, the Mind Sculptor](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5Bthe%5D+%5BMind%5D+%5BSculptor%5D) 1 [Supreme Verdict](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSupreme%5D+%5BVerdict%5D) 
+
+##### 5 (6)
+
+1 [Batterskull](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBatterskull%5D) 4 [Force of Will](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BWill%5D) 1 [Nahiri, the Lithomancer](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNahiri,%5D+%5Bthe%5D+%5BLithomancer%5D) 
+
+##### 8 (2)
+
+2 [Dig Through Time](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDig%5D+%5BThrough%5D+%5BTime%5D) 
+
+55 Cards 
+
+##### Common (14)
+
+2 [Island](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D) 1 [Plains](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D) 4 [Brainstorm](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrainstorm%5D) 4 [Ponder](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPonder%5D) 1 [Pyroblast](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPyroblast%5D) 2 [Spell Pierce](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpell%5D+%5BPierce%5D) 
+
+##### Uncommon (13)
+
+2 [Counterspell](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCounterspell%5D) 1 [Lightning Bolt](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBolt%5D) 2 [Spell Snare](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpell%5D+%5BSnare%5D) 4 [Swords to Plowshares](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwords%5D+%5Bto%5D+%5BPlowshares%5D) 3 [Red Elemental Blast](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRed%5D+%5BElemental%5D+%5BBlast%5D) 1 [Wear // Tear](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWear%5D+%5B&%5D+%5BTear%5D) 
+
+##### Rare (33)
+
+1 [Karakas](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarakas%5D) 4 [Tundra](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTundra%5D) 3 [Volcanic Island](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVolcanic%5D+%5BIsland%5D) 2 [Snapcaster Mage](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSnapcaster%5D+%5BMage%5D) 4 [Stoneforge Mystic](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStoneforge%5D+%5BMystic%5D) 2 [True-Name Nemesis](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrue-Name%5D+%5BNemesis%5D) 1 [Council's Judgment](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCouncil%5D+%5BJudgment%5D) 2 [Dig Through Time](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDig%5D+%5BThrough%5D+%5BTime%5D) 4 [Force of Will](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BWill%5D) 1 [Supreme Verdict](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSupreme%5D+%5BVerdict%5D) 1 [Umezawa's Jitte](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUmezawa%5D+%5BJitte%5D) 1 [Ethersworn Canonist](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEthersworn%5D+%5BCanonist%5D) 1 [Flusterstorm](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlusterstorm%5D) 1 [Grafdigger's Cage](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrafdigger%5D+%5BCage%5D) 2 [Meddling Mage](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMeddling%5D+%5BMage%5D) 1 [Pithing Needle](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D) 2 [Rest in Peace](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRest%5D+%5Bin%5D+%5BPeace%5D) 
+
+##### Mythic (15)
+
+1 [Arid Mesa](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArid%5D+%5BMesa%5D) 4 [Flooded Strand](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D) 1 [Misty Rainforest](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMisty%5D+%5BRainforest%5D) 3 [Polluted Delta](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D) 1 [Vendilion Clique](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVendilion%5D+%5BClique%5D) 1 [Batterskull](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBatterskull%5D) 2 [Jace, the Mind Sculptor](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5Bthe%5D+%5BMind%5D+%5BSculptor%5D) 1 [Nahiri, the Lithomancer](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNahiri,%5D+%5Bthe%5D+%5BLithomancer%5D) 1 [Sword of Feast and Famine](https://web.archive.org/web/20150921000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSword%5D+%5Bof%5D+%5BFeast%5D+%5Band%5D+%5BFamine%5D) 
+
+75 Cards 
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Arid+Mesa)
+
+[Deal Another Hand](https://web.archive.org/web/20150921000000/http://magic.wizards.com/en)
+
+*   ![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Supreme+Verdict)
+*   ![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Force+of+Will)
+*   ![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Arid+Mesa)
+*   ![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Volcanic+Island)
+*   ![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Ponder)
+*   ![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Dig+Through+Time)
+*   ![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Umezawa%27s+Jitte)
+
+## Standings
+
+| Rank | Name | Points | OMWP | GWP | OGWP |
+| --- | --- | --- | --- | --- | --- |
+| 1 | jacetmsst | 9 | 0.4444 | 0.7500 | 0.4623 |

@@ -1,0 +1,161 @@
+---
+id: s4mr5xnt
+kind: event
+lang: en
+path: /en/events/2007/usnat07/finals-you-have-what-like-a-million-cards
+title: 'Finals: "You Have What, Like, a Million Cards?"'
+published: null
+column_slug: null
+column: null
+authors: []
+event_code: usnat07
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/usnat07/fin
+    lang_detected: en
+    capture_id: 1135344
+    url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/usnat07/fin
+    captured_at: '2013-07-02 17:21:21+00'
+    rule: aspx.article_heading
+  event_code:
+    page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/usnat07/fin
+    lang_detected: en
+    capture_id: 1135344
+    url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/usnat07/fin
+    captured_at: '2013-07-02 17:21:21+00'
+    rule: url.event_code
+sources:
+- document_id: s4mr5xnt
+  url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/usnat07/fin
+  page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/usnat07/fin
+  lang: en
+  template: aspx
+  captured_at: '2013-07-02 17:21:21+00'
+  capture_id: 1135344
+  wayback_url: https://web.archive.org/web/20130702172121id_/https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/usnat07/fin
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: s4mr5xnt
+  capture_id: 1135344
+  url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/usnat07/fin
+  wayback_url: https://web.archive.org/web/20130702172121id_/https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/usnat07/fin
+  captured_at: '2013-07-02 17:21:21+00'
+  template: aspx
+  sha256: d5f8085c8338de64ff218000dea2c13605426f708f955c7b3d8399ec9d5e749e
+render_recovery:
+- code: unsupported_link
+  element: a
+  target: javascript:void()
+  reason: The link uses a JavaScript placeholder. The preview kept any visible label.
+  labels:
+  - Chord of Calling
+  - Momentary Blink
+  - Riftwing Cloudskate
+  - Willbender
+  - Shivan Reef
+  - Vesuvan Shapeshifter
+  - Remand
+  - Court Hussar
+  - Venser, Shaper Savant
+  - Nimbus Maze
+  - Brine Elemental
+  - Dark Confidant
+  - Island
+  - Grand Arbiter Augustin IV
+  - Calciform Pools
+  - Wall of Roots
+  - Boros Garrison
+  - Rune Snag
+  - Avalanche Riders
+  - Numot, the Devastator
+  - Lightning Helix
+  - Loxodon Hierarch
+  - Compulsive Research
+  - Detritivore
+  - Teferi, Mage of Zhalfir
+  occurrences: 58
+---
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <div>&#10;        <img src="https://i.ormos.uk/84/12/8412ba1e7ea98331b48df416416c32df45f075760fc47f96f64beeb43d48d299.jpg">&#10;      </div>&#10;      <div>&#10;        <i>Luis Scott-Vargas and Thomas Drake battle at the center of attention.</i>&#10;      </div>&#10;    </td>&#10;  </tr>&#10;</tbody></table>
+
+The battle for the title was underway. One side of the table featured a seasoned veteran. A former U.S. National team member ready to step up and take the lead of the team. The other side features an amateur player looking to leave his mark on the game and prove to the world to never underestimate the underdog.
+
+Luis Scott-Vargas has now made two consecutive U.S. National Teams, which is something that has never happened in the history of American **Magic**. He's running the blue-green-white OmniChord deck that relies on the powerful interactions of Chord of Calling and all of the comes-into-play effects of the creatures it runs. Thomas Drake is playing in his first professional level event and has been showing the rest of the country how it's done all weekend. He's coming in with a blue-white-red Blink-Touch deck that work on the powerful interactions of Aethermage's Touch, Momentary Blink, and many of the same creatures that Vargas's deck runs.
+
+### Game 1
+
+Game 1 started off on a sour note for our unknown avenger, as Drake had to ship his first hand back for a better six. Another misstep befell Thomas when his first draw step of the game involved two cards. He shook his head as he got the warning for looking at extra cards. Cries of "good try" rang from the audience.
+
+"C'mon. Let's try not to get DQed in the finals of Nationals," he said to himself with a weak smile.
+
+Thomas had the first prospective play in a turn-two suspended Riftwing Cloudskate which got a twin on the following turn. Luis matched this with consecutive morphs on turns three and four. When Thomas's first Cloudskate came into play, Luis's first morph revealed itself to be a Willbender, and Thomas's Cloudskate returned his Shivan Reef to his hand. When the second Cloudskate hit, Luis used a face down Vesuvan Shapeshifter (copying Willbender) to force Thomas to pick his Shivan Reef up again. The Willbender assault turned what was supposed to be a tempo play for Thomas into a two-turn mana stumble.
+
+He was still getting his beats in, though, as his Cloudskates dropped Luis to 14. Thomas was on 14 himself by virtue of a few attacks from Luis's morphs. An end-of-turn Aethermage's Touch from Thomas was Remanded back into his custody, and he sighed, untapped, and drew his card. A Court Hussar from Drake met no resistance from Scott-Vargas, and he used it to dig a bit deeper into his deck, as well as provide a valuable blocker to keep Luis's troops at bay.
+
+Scott-Vargas decided to keep his tempo advantage up and played a Venser, Shaper Savant during Drake's end step to return a Nimbus Maze to Thomas' hand. Thomas tried to Momentary Blink his Riftwing in response to bounce Luis's morph, but Luis just morphed his Shapeshifter into a Willbender and forced Thomas to pick up another land. With Thomas severely land depleted now, Luis flipped his 'Shifter back down and played a Brine Elemental for the lock.
+
+Luis Scott-Vargas 1, Thomas Drake 0
+
+Between games, Luis commented on the lack of Remands in Thomas's maindeck. "It was a conscious decision. I had to kill Dark Confidants all day or I wouldn't have made Top 8." This was very true as Dark Confidant seemed to be in every deck that wasn't sporting Islands, and he can really take a game over if he stays out long enough.
+
+### Game 2
+
+Game 2 started a bit slow for Vargas as he got stuck on two lands for the first few turns of the game. Combine that with a Grand Arbiter Augustin IV from Thomas Drake, and things did not look promising. A Riftwing Cloudskate to put Luis on one land resulted in a game that lasted less than a minute.
+
+Luis Scott-Vargas 1, Thomas Drake 1
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <div>&#10;        <img src="https://i.ormos.uk/13/bd/13bdb64001aa9a371d7b1a227d5bc243c95941647b432467e9f2ed8ffe49280f.jpg">&#10;      </div>&#10;      <div>&#10;        <i>Drake takes one home.</i>&#10;      </div>&#10;    </td>&#10;  </tr>&#10;</tbody></table>
+
+Luis lamented keeping a two-land hand earlier in the tournament against Craig Krempels, and it seemed that the decision had come back to haunt him yet again. However, his draw was very well set up for drawing a third land, and he was on the draw, so keeping his initial hand was a fine *Judgment* call.
+
+### Game 3
+
+His poor luck continued as he was forced to mulligan at the start of the third game, but he felt fine with his second set of cards. He managed to get an early Calciform Pools out, which is a very powerful card in the control matchups. He also managed to get his mana generation engine online with a turn-three Wall of Roots. Not a bad start for a shorthanded opener. When Thomas was forced to discard after picking a land up with his Boros Garrison, Luis had made up his initial card disadvantage.
+
+Thomas tried to play a Venser during Luis's upkeep to get him to tap some lands, and it was met with a Rune Snag. Thomas took advantage of Luis tapping some of his mana to try and force an Avalanche Riders through, but it was Remanded. When he replayed it on the next turn, though, it hit the table and crushed Luis's charged up Calciform Pools. On the following turn, Thomas used some Momentary Blink tricks to take out Luis' other Calciform Pools. His follow-up Grand Arbiter got Vensered, and he passed back to Luis, who shipped it right back.
+
+Turn seven saw Thomas let his Riders die and tap out for a Numot, the Devastator. Remand let Luis effectively Time Walk, and when Thomas tried the Numot again after playing an Arbiter, it hit a Snag. Luis followed his Rune Snag up with a face down Willbender that flipped up on the following turn to shunt a Lightning Helix to Thomas's Arbiter. Thomas tried a defensive Aethermage's Touch and managed to hit a Riftwing Cloudskate to save the Arbiter.
+
+This whole time, Venser had been going to work slowly chipping away at Thomas's life total, and he had worked his way down to 12. Luis was running low on business, though, and Thomas still had some things to do. Luis played another morph, leaving him with one last card. When that card was revealed to be a Chord of Calling fetching an Arcanis, it appeared that the drought would soon be over for Luis. Thomas made him wait, though, and Blinked his Cloudskate to put the pit fighter back in Luis' hand.
+
+Luis had a massive rip in another Chord of Calling on his next turn, and he had enough mana now to get Brine Elemental and flip up his morphed Shapeshifter to assemble the lock. Luis couldn't attack through the two 2-powered men on Thomas's table, but with the Arcanis coming down on the following turn, it was only a matter of time. When a Loxodon Hierarch hit the table for Luis, he finally had the beater he needed to get through. Thomas saw the eventual outcome and packed it in.
+
+Luis Scott-Vargas 2, Thomas Drake 1
+
+"I messed up that game. I should have played around the Rune Snag. I didn't need to play that guy," Thomas said in resignation, referring to the Numot.
+
+"I was on one or two cards a bunch there, so it wasn't a bad decision," Luis offered as consolation. "Well, whoever has played first has won so far."
+
+### Game 4
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <div>&#10;        <img src="https://www.wizards.com/sideboard/images/usnat07/F_Scott-Vargas.jpg">&#10;      </div>&#10;      <div>&#10;        <i>Luis Scott-Vargas stays ahead with Drake snapping at his heels.</i>&#10;      </div>&#10;    </td>&#10;  </tr>&#10;</tbody></table>
+
+To start the fourth game, Thomas mulled for a minute or two before deciding to throw his hand back. After he decided to keep his next six, Luis finally checked his hand and deemed it unworthy as well. Just like Thomas, he kept his next six. Luis's six card hand was a one-lander, though, as was evidenced by his missed land drops on turns two, three, and four. Then Thomas had a Rider for Luis's lone land and a Momentary Blink for the one he had just drawn, this game ended up in a repeat of the second. Less than two minutes in, and a win for Thomas Drake.
+
+Luis Scott-Vargas 2, Thomas Drake 2
+
+This match has been kind of anticlimactic on one side of the ball. The games Scott-Vargas has won have been fairly interactive and entertaining games. The ones he's lost, though, have been one-sided, minute-long shots to the face.
+
+### Game 5
+
+The final game did not disappoint. Both players kept their starting seven and their decks started the game out as they should-with lands. Thomas had a Riftwing Cloudskate to suspend on turn two, and Luis used his third turn to play a Compulsive Research on himself. The first real beater came down for Luis on his fourth turn. Loxodon Hierarch is a nice, fast clock that doubles as a man you usually don't want to bounce. Thomas followed it up with a Detritivore that only had one real target, since all of Luis's lands but one were basic. Not bad considering there were only six in his deck. Luis also had a Remand for Thomas's Skate, which prevented him from falling too far behind. Thomas simply untapped and played a Signet before hard-casting the Skate to put Luis on three land.
+
+Luis's Hierarch got in there for another beat on his next turn, and he knocked Thomas down to the halfway point. Luis then played a second Hierarch, which served as a lightning rod for two Helixes from Thomas. This put Thomas down to only one card in hand. Thomas's Detritivore ate the other Hierarch, and the game was put back to clear.
+
+The first break in the stall was a Chord of Calling for four from Luis which met a Venser from Thomas. When Thomas tried to press the advantage with an Avalanche Riders, Luis used a Venser of his own to clear the board and pseudo-Remand the Riders. When Thomas tried to play them again, they met with a real Remand. All that action, and nothing really changed in the game state. When the Riders made a third appearance, Luis decided to play Chord of Calling for five to fetch a Teferi, Mage of Zhalfir before losing his land. He had no play on his own turn, and sent things back to Thomas. When Thomas tried to Momentary Blink his Riders, Luis had a double Rune Snag to shoot it down.
+
+Thomas attempted to rebuild and get an advantage by digging into his deck with a Court Hussar. When he passed the turn to Luis, Luis took advantage of the opportunity to drop the OmniChord and get himself everyone's favorite card-drawing 3/4. With two massively powerful wizards in play and a grip full of cards, it seemed that Luis was now firmly in control of the game.
+
+"How many cards do you have? A million?"
+
+It was going to take some serious work to get back into the game, and Thomas started to try by digging deeper with a Blink of his Hussar. When Luis flashed out a couple of morphs at the end of Thomas' turn, the bells began to toll. After he drew his card, Thomas realized he was dead and extended his hand to Luis.
+
+![](https://i.ormos.uk/3f/2b/3f2b7112fa1e6c96b4512193f0496bd3f8d06e91d5d39ab43287262333b34ab4.jpg) 
+
+  
+
+Luis Scott-Vargas defeats Thomas Drake 3-2 to become the 2007 U.S. National Champion!
+
+  
+
+![](https://i.ormos.uk/03/f1/03f144be4eba9ed8ab39245e84983a32c8a2d253b4e9e46a952dd9c5d24244e3.jpg)

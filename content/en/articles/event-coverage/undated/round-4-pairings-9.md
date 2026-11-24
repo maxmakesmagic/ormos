@@ -1,0 +1,40 @@
+---
+id: y8gtx4c6
+kind: event
+lang: en
+path: /en/articles/event-coverage/undated/round-4-pairings-9
+title: Round 4 Pairings
+published: null
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-4-pairings-2000-01-01-3
+    lang_detected: en
+    capture_id: 531530
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-4-pairings-2000-01-01-3
+    captured_at: '2022-05-17 05:51:55+00'
+    rule: meta.og_title
+sources:
+- document_id: y8gtx4c6
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-4-pairings-2000-01-01-3
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/round-4-pairings-2000-01-01-3
+  lang: en
+  template: drupal
+  captured_at: '2022-05-17 05:51:55+00'
+  capture_id: 531530
+  wayback_url: https://web.archive.org/web/20220517055155id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-4-pairings-2000-01-01-3
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: y8gtx4c6
+  capture_id: 531530
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-4-pairings-2000-01-01-3
+  wayback_url: https://web.archive.org/web/20220517055155id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-4-pairings-2000-01-01-3
+  captured_at: '2022-05-17 05:51:55+00'
+  template: drupal
+  sha256: 99e8a8bc78cfb65be568cafb85ee18b6df7d558628cced2ed78cea3a9344afec
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Points</b></td><td><b> </b></td><td><b>Opponent</b></td><td><b>Points</b></td></tr><tr><td>  1</td><td>Havenga, Eugene</td><td>  9</td><td>vs.</td><td>Georgiades, Byron</td><td>  9</td></tr><tr><td>  2</td><td>Malan, Emeric</td><td>  9</td><td>vs.</td><td>Rumble, Shawn</td><td>  9</td></tr><tr><td>  3</td><td>Van Alten, Clint</td><td>  9</td><td>vs.</td><td>Morris, Greg</td><td>  9</td></tr><tr><td>  4</td><td>Roopnah, Sanjay</td><td>  9</td><td>vs.</td><td>Geyser, Wynand</td><td>  9</td></tr><tr><td>  5</td><td>Loubser, Pieter</td><td>  9</td><td>vs.</td><td>Montgomery, Alex</td><td>  9</td></tr><tr><td>  6</td><td>matthews, simon</td><td>  9</td><td>vs.</td><td>Cross, Brent</td><td>  9</td></tr><tr><td>  7</td><td>White, James</td><td>  9</td><td>vs.</td><td>Marais, Ruaan</td><td>  9</td></tr><tr><td>  8</td><td>Pringle, Roelf</td><td>  9</td><td>vs.</td><td>Mitchell, Andrew</td><td>  9</td></tr><tr><td>  9</td><td>Schmitz, Adrian</td><td>  9</td><td>vs.</td><td>Klein, Peter</td><td>  9</td></tr><tr><td> 10</td><td>Seck, Ben</td><td>  9</td><td>vs.</td><td>Norton, Arne</td><td>  9</td></tr><tr><td> 11</td><td>Grater, Ross</td><td>  9</td><td>vs.</td><td>Polin, Justin</td><td>  9</td></tr><tr><td> 12</td><td>Shvartsman, Alex</td><td>  9</td><td>vs.</td><td>Prinsloo, Jaco</td><td>  9</td></tr><tr><td> 13</td><td>Smith, Mike</td><td>  9</td><td>vs.</td><td>Naidoo, Deslin</td><td>  9</td></tr><tr><td> 14</td><td>Donovan, Michael</td><td>  9</td><td>vs.</td><td>Le Roux, Denver</td><td>  9</td></tr><tr><td> 15</td><td>Wood, John</td><td>  9</td><td>vs.</td><td>Hendricks, Amin</td><td>  9</td></tr><tr><td> 16</td><td>Thompson, Robert</td><td>  9</td><td>vs.</td><td>Fuller, Ryan</td><td>  9</td></tr><tr><td> 17</td><td>Prinsloo, Theuns</td><td>  9</td><td>vs.</td><td>Murray, Charles</td><td>  9</td></tr><tr><td> 18</td><td>Scholtz, Lourens</td><td>  7</td><td>vs.</td><td>Mulder, Bradley</td><td>  7</td></tr><tr><td> 19</td><td>Wantenaar, Liam</td><td>  6</td><td>vs.</td><td>Fish, Joy</td><td>  6</td></tr><tr><td> 20</td><td>Tanchel, Russell</td><td>  6</td><td>vs.</td><td>Whitaker, Joseph</td><td>  6</td></tr><tr><td> 21</td><td>Mohamed, Enver</td><td>  6</td><td>vs.</td><td>Cheesman, Richard</td><td>  6</td></tr><tr><td> 22</td><td>Axtell, Steve</td><td>  6</td><td>vs.</td><td>Nurse, Robert</td><td>  6</td></tr><tr><td> 23</td><td>Neale, Jason</td><td>  6</td><td>vs.</td><td>Winter, Jonathan</td><td>  6</td></tr><tr><td> 24</td><td>Hsiao, Marvin</td><td>  6</td><td>vs.</td><td>Monteith, Andrew</td><td>  6</td></tr><tr><td> 25</td><td>Hayward, Peter John</td><td>  6</td><td>vs.</td><td>Klein, Andrew</td><td>  6</td></tr><tr><td> 26</td><td>Stephens, Andrew</td><td>  6</td><td>vs.</td><td>Bredenhann, Deon</td><td>  6</td></tr><tr><td> 27</td><td>Bergakker, Elmar</td><td>  6</td><td>vs.</td><td>Louw, Andre</td><td>  6</td></tr><tr><td> 28</td><td>Tonks, David</td><td>  6</td><td>vs.</td><td>Cloete, Werner</td><td>  6</td></tr><tr><td> 29</td><td>Mays, Darryn</td><td>  6</td><td>vs.</td><td>Toefy, Shadley</td><td>  6</td></tr><tr><td> 30</td><td>Renda, Samantha</td><td>  6</td><td>vs.</td><td>Kruger, Wagner</td><td>  6</td></tr><tr><td> 31</td><td>Cairns, William</td><td>  6</td><td>vs.</td><td>Copeland, Jacob</td><td>  6</td></tr><tr><td> 32</td><td>Price, Hedley</td><td>  6</td><td>vs.</td><td>Rautenbach, Frans</td><td>  6</td></tr><tr><td> 33</td><td>Coetzee, Emile</td><td>  6</td><td>vs.</td><td>Fourie, Andre</td><td>  6</td></tr><tr><td> 34</td><td>Campbell, Alan</td><td>  6</td><td>vs.</td><td>van Heerden, Thomas</td><td>  6</td></tr><tr><td> 35</td><td>Hanekom, Gideon</td><td>  6</td><td>vs.</td><td>Magner, Peter</td><td>  6</td></tr><tr><td> 36</td><td>Mooruth, Vivek</td><td>  6</td><td>vs.</td><td>Brandt, Konrad</td><td>  6</td></tr><tr><td> 37</td><td>Carter, Brandon</td><td>  6</td><td>vs.</td><td>Tinker, Dave</td><td>  6</td></tr><tr><td> 38</td><td>Olivier, Carl</td><td>  6</td><td>vs.</td><td>Mulder, Michael</td><td>  6</td></tr><tr><td> 39</td><td>Van Graan, Andre</td><td>  6</td><td>vs.</td><td>Linde, Charl</td><td>  6</td></tr><tr><td> 40</td><td>Chard, Alex</td><td>  6</td><td>vs.</td><td>Paravano, Marco</td><td>  6</td></tr><tr><td> 41</td><td>Walsh, Matthew</td><td>  6</td><td>vs.</td><td>Lawrence, Tim</td><td>  6</td></tr><tr><td> 42</td><td>Ruscic, Filip</td><td>  6</td><td>vs.</td><td>Gerson, Steve</td><td>  6</td></tr><tr><td> 43</td><td>Bessinger, Gordon</td><td>  6</td><td>vs.</td><td>Smith, Daniel</td><td>  6</td></tr><tr><td> 44</td><td>Lunt, Russel</td><td>  6</td><td>vs.</td><td>Viaene, David</td><td>  6</td></tr><tr><td> 45</td><td>Le Roux, Grant</td><td>  4</td><td>vs.</td><td>Crafford, Michael</td><td>  4</td></tr><tr><td> 46</td><td>Walluschnig, Vassilo</td><td>  4</td><td>vs.</td><td>Kling, Bevan</td><td>  4</td></tr><tr><td> 47</td><td>Abrahams, Nizar</td><td>  4</td><td>vs.</td><td>Wentworth, Patrick</td><td>  4</td></tr><tr><td> 48</td><td>Patel, Adhil</td><td>  4</td><td>vs.</td><td>Verrijdt, Andrew</td><td>  3</td></tr><tr><td> 49</td><td>Govender, Verolin</td><td>  3</td><td>vs.</td><td>Robertson, Lester</td><td>  3</td></tr><tr><td> 50</td><td>Dugmore, Rheedan</td><td>  3</td><td>vs.</td><td>Du Toit, Aurain</td><td>  3</td></tr><tr><td> 51</td><td>De Beer, Philip</td><td>  3</td><td>vs.</td><td>Schlebusch, Stephen</td><td>  3</td></tr><tr><td> 52</td><td>Grobler, Francois</td><td>  3</td><td>vs.</td><td>de Figueiredo, Rogerio</td><td>  3</td></tr><tr><td> 53</td><td>Brooke, Geoffrey</td><td>  3</td><td>vs.</td><td>Van Ronge, Herman</td><td>  3</td></tr><tr><td> 54</td><td>Marriott, Jason</td><td>  3</td><td>vs.</td><td>Alberts, Jaco</td><td>  3</td></tr><tr><td> 55</td><td>Reinecke, David</td><td>  3</td><td>vs.</td><td>van Dyk, Grant</td><td>  3</td></tr><tr><td> 56</td><td>Engels, Charl</td><td>  3</td><td>vs.</td><td>Marais, Robin</td><td>  3</td></tr><tr><td> 57</td><td>Crabb, Jimmy</td><td>  3</td><td>vs.</td><td>Nel, Erick</td><td>  3</td></tr><tr><td> 58</td><td>Legg, Chris</td><td>  3</td><td>vs.</td><td>Freestone, Charles</td><td>  3</td></tr><tr><td> 59</td><td>Patel, Aroon</td><td>  3</td><td>vs.</td><td>Shepherd, Alan</td><td>  3</td></tr><tr><td> 60</td><td>Gross, Andre</td><td>  3</td><td>vs.</td><td>Capraro, Martin</td><td>  3</td></tr><tr><td> 61</td><td>Burt, Brent</td><td>  3</td><td>vs.</td><td>Shepherd, Brian</td><td>  2</td></tr><tr><td> 62</td><td>Marais, Tinus</td><td>  1</td><td>vs.</td><td>Visser, Deon</td><td>  0</td></tr></tbody></table>

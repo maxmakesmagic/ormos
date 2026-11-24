@@ -1,0 +1,120 @@
+---
+id: 8ft09kbg
+kind: event
+lang: en
+path: /en/events/2020/mtgochamp17/day-two-highlights
+title: Day Two Highlights
+published: '2018-03-04'
+column_slug: null
+column: null
+authors: []
+event_code: mtgochamp17
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/events/coverage/mtgochamp17/day-two-highlights-2018-03-03
+    lang_detected: en
+    capture_id: 1440398
+    url: https://magic.wizards.com/en/events/coverage/mtgochamp17/day-two-highlights-2018-03-03
+    captured_at: '2022-08-17 20:19:54+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/events/coverage/mtgochamp17/day-two-highlights-2018-03-03
+    lang_detected: en
+    capture_id: 1440398
+    url: https://magic.wizards.com/en/events/coverage/mtgochamp17/day-two-highlights-2018-03-03
+    captured_at: '2022-08-17 20:19:54+00'
+    rule: drupal.posted_in_date
+  event_code:
+    page_key: magic.wizards.com/en/events/coverage/mtgochamp17/day-two-highlights-2018-03-03
+    lang_detected: en
+    capture_id: 1440398
+    url: https://magic.wizards.com/en/events/coverage/mtgochamp17/day-two-highlights-2018-03-03
+    captured_at: '2022-08-17 20:19:54+00'
+    rule: url.event_code
+sources:
+- document_id: 8ft09kbg
+  url: https://magic.wizards.com/en/events/coverage/mtgochamp17/day-two-highlights-2018-03-03
+  page_key: magic.wizards.com/en/events/coverage/mtgochamp17/day-two-highlights-2018-03-03
+  lang: en
+  template: drupal
+  captured_at: '2022-08-17 20:19:54+00'
+  capture_id: 1440398
+  wayback_url: https://web.archive.org/web/20220817201954id_/https://magic.wizards.com/en/events/coverage/mtgochamp17/day-two-highlights-2018-03-03
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 8ft09kbg
+  capture_id: 1440398
+  url: https://magic.wizards.com/en/events/coverage/mtgochamp17/day-two-highlights-2018-03-03
+  wayback_url: https://web.archive.org/web/20220817201954id_/https://magic.wizards.com/en/events/coverage/mtgochamp17/day-two-highlights-2018-03-03
+  captured_at: '2022-08-17 20:19:54+00'
+  template: drupal
+  sha256: 8458e5f8311369aec3ac89c37e80cc87915def10d77df33d51110a676046a1ad
+render_recovery:
+- code: unsupported_embedded_media
+  element: iframe
+  target: https://clips.twitch.tv/embed?clip=StrangeProductiveBeaverRuleFive&autoplay=false&tt_medium=clips_embed
+  reason: The preview omitted the iframe that loads this separate page.
+  occurrences: 1
+- code: unsupported_embedded_media
+  element: iframe
+  target: https://clips.twitch.tv/embed?clip=RacyWealthyBatteryBCouch&autoplay=false&tt_medium=clips_embed
+  reason: The preview omitted the iframe that loads this separate page.
+  occurrences: 1
+- code: unsupported_embedded_media
+  element: iframe
+  target: https://clips.twitch.tv/embed?clip=ExquisiteSucculentSnoodBudStar&autoplay=false&tt_medium=clips_embed
+  reason: The preview omitted the iframe that loads this separate page.
+  occurrences: 1
+- code: unsupported_embedded_media
+  element: iframe
+  target: https://clips.twitch.tv/embed?clip=PeppyObedientGoblinBCouch&autoplay=false&tt_medium=clips_embed
+  reason: The preview omitted the iframe that loads this separate page.
+  occurrences: 1
+- code: unsupported_embedded_media
+  element: iframe
+  target: https://clips.twitch.tv/embed?clip=PopularMiniaturePenguinCharlieBitMe&autoplay=false&tt_medium=clips_embed
+  reason: The preview omitted the iframe that loads this separate page.
+  occurrences: 1
+---
+With Steve Rubin leading the field at 6-1, Day Two kicked off as coverage focused on the leading player's draft. Rubin started with a risky gold card pick in [Legion Lieutenant](https://web.archive.org/web/20180304000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Legion+Lieutenant), a powerful creature that has a chance of being abandoned if the cards don't reward going in on cutting a Vampires strategy.
+
+While the journey was a little scary through the three packs, Rubin ended up with a very solid White-Black Vampires deck featuring multiple copies of [Legion Lieutenant](https://web.archive.org/web/20180304000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Legion+Lieutenant), [Forerunner of the Legion](https://web.archive.org/web/20180304000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Forerunner+of+the+Legion), and [Voracious Vampire](https://web.archive.org/web/20180304000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Voracious+Vampire). That last card, by the way, was the one that was put to the most use in his Round 8 feature match.
+
+Rubin did not slow down until Round 10, finally dropping another match against 2010 World Champion Guillaume Matignon, as both players emerged from the draft with 8-2 records. Niklas Dahlquist, Dmitriy Butakov, and Sam Pardee sat behind them at 7-3, not far behind.
+
+Meanwhile, on the other end of the standings was Gabriel Nassif, Pro Tour Hall of Famer, who tweeted this out to start the day.
+
+> Calling it right now, if I'm fortunate enough to somehow 3-0 the draft, I will top 4 the MOCS
+> 
+> — gabriel nassif (@gabnassif) [March 3, 2018](https://twitter.com/gabnassif/status/969984203113680896?ref_src=twsrc%5Etfw)
+
+Three rounds later…
+
+Nassif started off his day as he called it, going 3-0 in the draft, but the first round of Modern was a particularly tough one for the Hall of Famer against Aleksei Petrykin. Faced with multiple extremely difficult decisions with his Blue-Red Control deck against Petrykin's Mardu Pyromancer, Nassif spent time thinking through the lines he could take. This led to him spending more of his clock than he had hoped, which necessitated faster play.
+
+As his win conditions ran low, and as Game 3 ran long, Nassif ultimately found himself on the receiving end of death by a thousand cuts, with small incremental decisions costing him as one of his final win conditions—[Wurmcoil Engine](https://web.archive.org/web/20180304000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wurmcoil+Engine)—sat at the bottom of his deck. Petrykin, meanwhile, navigated a severely mana-constrained game in the face of [Blood Moon](https://web.archive.org/web/20180304000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Blood+Moon) to lock up the third game to advance.
+
+In Round 13, the 7-5 players found themselves in an interesting spot, where winning out could potentially keep a Top 4 shot alive. We got a chance to watch two of those players go head-to-head, as Brandon "sandydogmtg” Burton battled against Pro Tour *Dragon's Maze* Champion Craig Wescoe to see whether Burn or Death & Taxes would advance.
+
+The critical play game in Game 1, as players fought against the mana constraints that Wescoe's deck offered up. Burton, having played Burn for a long time, navigated himself to a draw step where he gave himself the largest opportunity to win.
+
+Unfortunately, sequencing matters, and sometimes, even masters misstep.
+
+While Burton fought back to bring the match to a third game, he was unable to overcome a powerful series of threats deployed by Wescoe in the third and final game.
+
+For Wescoe, his chances did not pan out, as he dropped his next round to Fernando Gueler, who battled his way to 9-5 in the hopes his tiebreakers could get him through to the Top 4.
+
+The fourteenth and final round of Swiss featured four players at 9-4 and better. While Dmitriy Butakov was the sole player at 10-3, locking up his third *Magic Online* Championship Top 4 and a shot at his second win, three players sat at 9-4 and were playing win-and-ins.
+
+One of those players was Niklas Dahlquist, who found himself paired against 2013-14 *Magic Online* Champion Lars Dam, who sat at 8-5 and had the best tiebreakers for a shot at Top 4. While Dam dropped a first game as he drowned in multiple lands, the second game became an incredibly dense attrition war that ended in favor of Dam thanks to…well, lots of 2/1 creatures.
+
+The third game ended in similar fashion, as a flurry of [Snapcaster Mage](https://web.archive.org/web/20180304000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Snapcaster+Mage)/[Kologhan's Command](https://web.archive.org/web/20180304000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kologhan%27s+Command) recursion allowed Dam to etch out a close match. The win gave Dam a shot at the Top 4, as his tiebreakers put him in competition with a few players for the spot. Dahlquist, however, had some incredibly strong tiebreakers, and even the loss likely meant that he would still get through to Sunday.
+
+Meanwhile, off-camera, Butakov cemented his position as 1st seed in the Top 4 by dispatching 9-4 competitor and 2010 World Champion Guillaume Matignon. Steve Rubin won his match against Aleksei Petrykin to ensure a 10-4 record and his spot on Sunday.
+
+The Top 4 announcement confirmed Butakov, Rubin, and Dahlquist had all made it through. Lars Dam's tiebreakers held, as his Round 14 win secured him 4th place over Guillaume Matignon, the frontrunner coming out of the day's drafts.
+
+![](http://media.wizards.com/2018/events/mocs17/mocs17_d2_top4.jpg)
+
+The Top 4 at the end of Saturday featured a new face to the big *Magic* stage in Niklas Dahlquist, a Pro Tour winner in Steve Rubin, and two former *Magic Online* Champions in Butakov and Dam. Sunday will show us whether the *Magic Online* Championship will have its first ever two-time winner. It won't be a day you'll want to miss.

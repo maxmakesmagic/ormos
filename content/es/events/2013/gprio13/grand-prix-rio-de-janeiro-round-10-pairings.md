@@ -1,0 +1,55 @@
+---
+id: m2pk5j8n
+kind: event
+lang: es
+path: /es/events/2013/gprio13/grand-prix-rio-de-janeiro-round-10-pairings
+title: Grand Prix Rio De Janeiro Round 10 Pairings
+published: '2013-03-10'
+column_slug: null
+column: null
+authors: []
+event_code: gprio13
+detected_lang: es
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gprio13/pair10
+    lang_detected: es
+    capture_id: 461533
+    url: https://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gprio13/pair10
+    captured_at: '2013-06-25 20:09:10+00'
+    rule: aspx.article_heading
+  published:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gprio13/pair10
+    lang_detected: es
+    capture_id: 461533
+    url: https://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gprio13/pair10
+    captured_at: '2013-06-25 20:09:10+00'
+    rule: aspx.byline_date
+  event_code:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gprio13/pair10
+    lang_detected: es
+    capture_id: 461533
+    url: https://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gprio13/pair10
+    captured_at: '2013-06-25 20:09:10+00'
+    rule: url.event_code
+sources:
+- document_id: m2pk5j8n
+  url: https://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gprio13/pair10
+  page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gprio13/pair10
+  lang: es
+  template: aspx
+  captured_at: '2013-06-25 20:09:10+00'
+  capture_id: 461533
+  wayback_url: https://web.archive.org/web/20130625200910id_/https://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gprio13/pair10
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: m2pk5j8n
+  capture_id: 461533
+  url: https://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gprio13/pair10
+  wayback_url: https://web.archive.org/web/20130625200910id_/https://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gprio13/pair10
+  captured_at: '2013-06-25 20:09:10+00'
+  template: aspx
+  sha256: 2c7e19ab599a2207e38a4b7c68f7dfbde084c199545f5cc1302d34fd8b4c035d
+render_recovery: []
+---
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130625200910/https://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gprio13/pair10">&#10;        <b>Table</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130625200910/https://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gprio13/pair10">&#10;        <b>Player</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130625200910/https://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gprio13/pair10">&#10;        <b>Points</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130625200910/https://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gprio13/pair10">&#10;        <b>&#10;      </b></a><b>&#10;    </b></td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130625200910/https://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gprio13/pair10">&#10;        <b>Opponent</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130625200910/https://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gprio13/pair10">&#10;        <b>Points</b>&#10;      </a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td> 1</td>&#10;    <td>Monsalve, Andres F [ARG]</td>&#10;    <td> 27</td>&#10;    <td>vs.</td>&#10;    <td>Quintana, Guido [ARG]</td>&#10;    <td> 27</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 2</td>&#10;    <td>Salles Soares Neto, Ca [BRA]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Pellegrini, Felipe Alv [BRA]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 3</td>&#10;    <td>Eduardo B. [BRA]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Góes, Marcelo G [IRL]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 4</td>&#10;    <td>Jonathan M. L [BRA]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Pires, Bruno [BRA]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 5</td>&#10;    <td>Bossaneli Araujo, Will [BRA]</td>&#10;    <td> 24</td>&#10;    <td>vs.</td>&#10;    <td>Quiroga, MartÃ¬n [ARG]</td>&#10;    <td> 24</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 6</td>&#10;    <td>Garcia Teixeira, Vinic [BRA]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Antunes, Antonio [BRA]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 7</td>&#10;    <td>Demetrio Habib, Robert [BRA]</td>&#10;    <td> 24</td>&#10;    <td>vs.</td>&#10;    <td>Machado, Guilherme [BRA]</td>&#10;    <td> 24</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 8</td>&#10;    <td>Melo de Carvalho, Bern [BRA]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Puhl, Mauro [BRA]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 9</td>&#10;    <td>Akio Yanagiura, Matheu [BRA]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Juan V. [CHL]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 10</td>&#10;    <td>Cesar Siqueira, Jorge [BRA]</td>&#10;    <td> 24</td>&#10;    <td>vs.</td>&#10;    <td>Rodrigues Cavalcante, [BRA]</td>&#10;    <td> 24</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 11</td>&#10;    <td>da Silva Oliveira, Fáb [BRA]</td>&#10;    <td> 22</td>&#10;    <td>vs.</td>&#10;    <td>Melotta, Luciano [ARG]</td>&#10;    <td> 22</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 12</td>&#10;    <td>Cesar, Hudson [BRA]</td>&#10;    <td> 22</td>&#10;    <td>vs.</td>&#10;    <td>Pereira, Weder [BRA]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 13</td>&#10;    <td>Braz, Thiago [BRA]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Contreras, Hugo [CHL]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 14</td>&#10;    <td>Lang, Mauricio [CHL]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Villela, Artur S [BRA]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 15</td>&#10;    <td>Chong, Cristian c [CHL]</td>&#10;    <td> 24</td>&#10;    <td>vs.</td>&#10;    <td>Eduardo Morelli, Marco [BRA]</td>&#10;    <td> 24</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 16</td>&#10;    <td>Silva, José Francisco [BRA]</td>&#10;    <td> 24</td>&#10;    <td>vs.</td>&#10;    <td>Paludo, Paulo A [BRA]</td>&#10;    <td> 24</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 17</td>&#10;    <td>Carvalho Pinho, Murilo [BRA]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Peralta, Rafael [URY]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 18</td>&#10;    <td>Fernando Silva, Victor [BRA]</td>&#10;    <td> 24</td>&#10;    <td>vs.</td>&#10;    <td>Ferraresso, Daniel A [BRA]</td>&#10;    <td> 24</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 19</td>&#10;    <td>Dominguez, Gonzalo [ARG]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>de Lima e Silva Borzin [BRA]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 20</td>&#10;    <td>Martins, Mateus [BRA]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>de Jesus Freitas, Marc [BRA]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 21</td>&#10;    <td>Edel, Willy [BRA]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Carneiro, Elton [BRA]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 22</td>&#10;    <td>Zurita Gonzalez, David [CHL]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Cabrera, Leandro [URY]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 23</td>&#10;    <td>Silva, Danilo F [BRA]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Eddie T. F [ARG]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 24</td>&#10;    <td>Lino, Fernando H [BRA]</td>&#10;    <td> 25</td>&#10;    <td>vs.</td>&#10;    <td>Arvigo, Matias G [BRA]</td>&#10;    <td> 24</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 25</td>&#10;    <td>Silva, Eduardo [BRA]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Giantin Scacchetti, Ga [BRA]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 26</td>&#10;    <td>Athayde, Tiago [BRA]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Prieto, Santiago A [ARG]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 27</td>&#10;    <td>Quetglas, Juan Pablo [ARG]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Leite, Wadson [BRA]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 28</td>&#10;    <td>Seidl, Fernando [BRA]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Filho, Walter [BRA]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 29</td>&#10;    <td>Cordeiro, Wellington [BRA]</td>&#10;    <td> 24</td>&#10;    <td>vs.</td>&#10;    <td>Albino Smania, Fabio [ITA]</td>&#10;    <td> 24</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 30</td>&#10;    <td>Costa, Alexandre [BRA]</td>&#10;    <td> 24</td>&#10;    <td>vs.</td>&#10;    <td>Arenas, Christian [PER]</td>&#10;    <td> 24</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 31</td>&#10;    <td>Fernandes Ferraz, Dieg [BRA]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Nacao De Moura Portuga [BRA]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 32</td>&#10;    <td>Parrado, Cristobal [BRA]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Rafael Pinato, João [BRA]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 33</td>&#10;    <td>Saporito, Thiago [BRA]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Leandro P. [BRA]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 34</td>&#10;    <td>Castillo, Martin [URY]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Bitner, Leandro [BRA]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 35</td>&#10;    <td>Fagundes, Josejane B [BRA]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Kai Mota, Paulo Ricard [BRA]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 36</td>&#10;    <td>Moschini, Esteban [ARG]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Elizalde, Victor A [CHL]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 37</td>&#10;    <td>dos Santos Esteves, Ca [BRA]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Santiago Alves da Cruz [BRA]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 38</td>&#10;    <td>Wesley E. [BRA]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Barciella, Francisco s [BRA]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 39</td>&#10;    <td>Siqueira, Leonardo [BRA]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Saredo, Adrian [ARG]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;</tbody></table>

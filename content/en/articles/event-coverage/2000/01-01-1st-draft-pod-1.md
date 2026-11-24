@@ -1,0 +1,156 @@
+---
+id: 11qb6bee
+kind: event
+lang: en
+path: /en/articles/event-coverage/2000/01-01-1st-draft-pod-1
+title: '1st Draft:Pod # 1'
+published: '2000-01-01'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/1st-draftpod-1-2000-01-01
+    lang_detected: en
+    capture_id: 311866
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/1st-draftpod-1-2000-01-01
+    captured_at: '2022-01-21 03:19:48+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/1st-draftpod-1-2000-01-01
+    lang_detected: en
+    capture_id: 311866
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/1st-draftpod-1-2000-01-01
+    captured_at: '2022-01-21 03:19:48+00'
+    rule: url.date_slug
+sources:
+- document_id: 11qb6bee
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/1st-draftpod-1-2000-01-01
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/1st-draftpod-1-2000-01-01
+  lang: en
+  template: drupal
+  captured_at: '2022-01-21 03:19:48+00'
+  capture_id: 311866
+  wayback_url: https://web.archive.org/web/20220121031948id_/https://magic.wizards.com/en/articles/archive/event-coverage/1st-draftpod-1-2000-01-01
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 11qb6bee
+  capture_id: 311866
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/1st-draftpod-1-2000-01-01
+  wayback_url: https://web.archive.org/web/20220121031948id_/https://magic.wizards.com/en/articles/archive/event-coverage/1st-draftpod-1-2000-01-01
+  captured_at: '2022-01-21 03:19:48+00'
+  template: drupal
+  sha256: 64afb19f50c75c91c25435591e68ec636add37bac676865c5bf445d6cf41d06a
+render_recovery: []
+---
+全勝で 2 日目に抜け 1 st Draft 1 番卓に座ることに成功した塩津はこのまま駆け抜ける事ができるだろうか？彼のドラフトを追って見る事にしよう。
+
+塩津 1 番卓 1 番席
+
+1st Pack  
+ 初手 : 《 Chainflinger / 投鎖獣 》  
+ 他候補は《 Chlorophant / クロロファント 》や《 Mystic Zealot / 秘教の盲信者 》
+
+2 番席開封 塩津折り返し。  
+ 1 枚目 : 《 Morgue Theft / モルグの窃盗 》  
+ 2 枚目 : 《 Last Rites / 最後の儀式 》  
+ 上家、下家共に青白の匂いがするために穴になるであろう黒赤を主張。
+
+3 番席開封  
+ 1 枚目 : 《 Mad Dog / 狂犬 》  
+ 2 枚目 : 《 Seton's Desire / シートンの願望 》  
+ ここで《 Cabal Patriarch / 陰謀団の総帥 》が 3 番席に出る。
+
+4 番席開封  
+ 1 枚目 : 《 Acceptable Losses / 容認される損失 》  
+ 2 枚目 : 《 Dwarven Recruiter / ドワーフ徴募兵 》
+
+5 番席開封  
+ 1 枚目 : 《 Coffin Purge / 棺の追放 》  
+ 2 枚目 : 《 Reckless Charge / 無謀なる突進 》  
+ 5 番席に《 Shadowmage Infiltrator / 影魔道士の浸透者 》登場、徐々に黒が増えてくる。
+
+6 番席開封  
+ 1 枚目 : 《 Frightcrawler / 異形の這うもの 》  
+ 2 枚目 : 《 Ravaged Highlands / 荒らされた高地 》
+
+7 番席開封  
+ 1 枚目 : 《 Ghastly Demise / 恐ろしい死 》  
+ 2 枚目 ; 《 Primal Frenzy / 原初の激情 》  
+ 場に黒が多くパック自体も青白に偏りがあるために有効カードがなかなか集まらないでいる。
+
+8 番席開封  
+ 1 枚目 : 《 Barbarian Lunatic / 蛮族の狂人 》  
+ 2 枚目 : 《 Seafloor Debris / 海底の瓦礫 》  
+ 強力なカードが少なく今ひとつな感が・・・。
+
+2nd Pack  
+ 8 番席開封　塩津折り返し  
+ 1 枚目 : 《 Magma Vein / マグマ鉱脈 》  
+ 2 枚目 : 《 Dwarven Recruiter / ドワーフ徴募兵 》
+
+7 番席開封  
+ 1 枚目 : 《 Acceptable Losses / 容認される損失 》  
+ 2 枚目 : 《 Mossfire Egg / モスファイアの卵 》
+
+6 番席開封  
+ 1 枚目 : 《 Filthy Cur / 汚い野犬 》  
+ 2 枚目 : 《 Recoup / 埋め合わせ 》
+
+5 番席開封  
+ 1 枚目 : 《 Dwarven Strike Force / ドワーフ打撃部隊 》  
+ 2 枚目 : 《 Seafloor Debris / 海底の瓦礫 》
+
+4 番席開封  
+ 1 枚目 : 《 Firebolt / 炎の稲妻 》  
+ 2 枚目 : 《 Coffin Purge / 棺の追放 》
+
+3 番席開封  
+ 1 枚目 : 《 Zombie Assassin / ゾンビの暗殺者 》  
+ 2 枚目 : 《 Mine Layer / 地雷の敷設者 》
+
+2 番席開封  
+ 1 枚目 : 《 Thermal Blast / 炎熱の突風 》  
+ 2 枚目 : 《 Nefarious Lich / 極悪な死 》
+
+塩津開封  
+ 《 Shower of Coals / 降り注ぐ塊炭 》
+
+青白が多く出る偏りはなぜか続きまったくと言っていいほど有効カードが回ってこない塩津。  
+ 自分のパックでなんとか強力かーど《 Shower of Coals / 降り注ぐ塊炭 》を引き当てるが、既に《 Aven Flock / エイヴンの群れ 》が 6 体、《 Angelic Wall / 天使の壁 》が 5 枚など異常なまでの偏りをどうにかできるか？  
+ 3rd Pack
+
+塩津開封  
+ 自分のパックなんだが赤黒の有効なカードは《 Dusk Imp / 薄暮のインプ 》のみ・・。  
+ 仕方なく《 Dusk Imp / 薄暮のインプ 》をピック。
+
+2 番席開封  
+ 1 枚目 : 《 Mad Dog / 狂犬 》  
+ 2 枚目 : 《 Demoralize / 意気沮喪 》
+
+3 番席開封  
+ 1 枚目 : 《 Minotaur Explorer / ミノタウルスの探検者 》  
+ 2 枚目 : 《 Ashen Firebeast / 灰燼の火獣 》
+
+4 番席開封  
+ 1 枚目 : 《 Anarchist / 無政府主義者 》  
+ 2 枚目 : 《 Barbarian Ring / 蛮族のリング 》
+
+5 番席開封  
+ 1 枚目 : 《 Halberdier / 矛槍兵 》  
+ 2 枚目 : 《 Tireless Tribe / 不屈の部族 》
+
+6 番席開封  
+ 1 枚目 : 《 Ember Beast / くすぶり獣 》  
+ 2 枚目 : 《 Earth Rift / 地の裂け目 》
+
+7 番席開封  
+ 1 枚目 : 《 Innocent Blood / 無垢の血 》  
+ 2 枚目 : 《 Woodland Druid / 森林地帯のドルイド 》
+
+8 番席開封  
+ 1 枚目 : 《 Limestone Golem / 石灰石のゴーレム 》  
+ 2 枚目 : 《 Kamahl's Desire / カマールの願望 》
+
+最後まで偏りは続き、結局《 Aven Flock / エイヴンの群れ 》10 体等の青白天国となってしまいカード自体が出なかった塩津は辛い戦いを強いられるだろう。

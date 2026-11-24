@@ -1,0 +1,245 @@
+---
+id: bkv9fa3y
+kind: article
+lang: en
+path: /en/articles/feature/2015/12-29-final-draft-www-alphabetaunlimited-com-vs-anchans-2
+title: 'Final Draft: www.alphabetaunlimited.com/ VS Anchans'
+published: '2015-12-29'
+column_slug: feature
+column: Feature
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/final-draft-wwwalphabetaunlimitedcom-vs-anchans-2000-01-01-0
+    lang_detected: en
+    capture_id: 696475
+    url: https://magic.wizards.com/en/articles/archive/final-draft-wwwalphabetaunlimitedcom-vs-anchans-2000-01-01-0
+    captured_at: '2022-01-28 22:59:33+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/final-draft-wwwalphabetaunlimitedcom-vs-anchans-2000-01-01-0
+    lang_detected: en
+    capture_id: 696475
+    url: https://magic.wizards.com/en/articles/archive/final-draft-wwwalphabetaunlimitedcom-vs-anchans-2000-01-01-0
+    captured_at: '2022-01-28 22:59:33+00'
+    rule: drupal.posted_in_date
+  column:
+    page_key: magic.wizards.com/en/articles/archive/final-draft-wwwalphabetaunlimitedcom-vs-anchans-2000-01-01-0
+    lang_detected: en
+    capture_id: 696475
+    url: https://magic.wizards.com/en/articles/archive/final-draft-wwwalphabetaunlimitedcom-vs-anchans-2000-01-01-0
+    captured_at: '2022-01-28 22:59:33+00'
+    rule: drupal.posted_in_link
+    registry_match: registry.explicit
+sources:
+- document_id: bkv9fa3y
+  url: https://magic.wizards.com/en/articles/archive/final-draft-wwwalphabetaunlimitedcom-vs-anchans-2000-01-01-0
+  page_key: magic.wizards.com/en/articles/archive/final-draft-wwwalphabetaunlimitedcom-vs-anchans-2000-01-01-0
+  lang: en
+  template: drupal
+  captured_at: '2022-01-28 22:59:33+00'
+  capture_id: 696475
+  wayback_url: https://web.archive.org/web/20220128225933id_/https://magic.wizards.com/en/articles/archive/final-draft-wwwalphabetaunlimitedcom-vs-anchans-2000-01-01-0
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: bkv9fa3y
+  capture_id: 696475
+  url: https://magic.wizards.com/en/articles/archive/final-draft-wwwalphabetaunlimitedcom-vs-anchans-2000-01-01-0
+  wayback_url: https://web.archive.org/web/20220128225933id_/https://magic.wizards.com/en/articles/archive/final-draft-wwwalphabetaunlimitedcom-vs-anchans-2000-01-01-0
+  captured_at: '2022-01-28 22:59:33+00'
+  template: drupal
+  sha256: 6ff9a6af1d6f58cf0c58b30fae3a78bf323481ed4a24d199ce73bcf2b4d375e8
+render_recovery: []
+---
+*Keita Mori*
+
+### Seating
+
+**ABU(as you know)**
+
+A:David Williams  
+ B:Chris Benafel  
+ C:Dan Clegg
+
+**Anchans(Japanese Pro Team)**
+
+A:Osamu Fujita(Finalist at 1999 APAC Championship)  
+ B:Itaru Ishida(Leader of the Panzer Hunters known as Finalist of Masters Tokyo)  
+ C:Katsuhiro Mori(3rd on the Rookie Race,3rd at APAC 2001)
+
+Interesting Picks of the Final Draft:
+
+### *Invasion*
+
+Ishida(1st) - Mori(2nd) - Williams(3rd) - Benafel(4th) - Clegg(5th) - Fujita(6th)
+
+Anchans Player A:Osamu Fujita
+
+1st:Urborg Emissary,Thunderscape Apprentice  
+ 2nd:Tangle  
+ 3rd:Pouncing Kavu,Fertile Ground  
+ 4th:Nomadic Elf,Wing of Hope  
+ 5th:Rooting Kavu  
+ 6th(Own):Crimson Acolyte,Restrain
+
+Anchans Player B:Itaru Ishida
+
+1st(Own):Exclude,Orim's Touch,Barin's Unmaking  
+ 2nd:Restrain  
+ 3rd:Benalish Trapper,Wayfaring Giant  
+ 4th:Noble Panther,Serpentine Kavu  
+ 5th:Shackles,Disrupt  
+ 6th:Razorfoot Griffin
+
+Anchans Player C:Katsuhiro Mori
+
+1st:Crosis,the Purger  
+ 2nd(Own):Trench Wurm,Dismantling Blow  
+ 3rd:Phyrexian Reaper,Rogue Kavu  
+ 4th:Soul Burn,Tidal Visionary  
+ 5th:Soul Burn,Slimy Kavu  
+ 6th:Probe,Crosis's Attendant
+
+ABU Player A:David Williams
+
+1st:Trench Wurm,Nightscape Apprentice  
+ 2nd:Shivan Zombie  
+ 3rd(Own):Shivan Zombie,Mourning,Cursed Flesh  
+ 4th:Recover,Stormscape Apprentice  
+ 5th:Kavu Aggressor,Mourning  
+ 6th:Pouncing Kavu,Phyrexian Reaper
+
+ABU Player B:Chris Benafel
+
+1st:Vodalian Serpent,Stand/Deliver  
+ 2nd:Tidal Visionary  
+ 3rd:Stormscape Apprentice  
+ 4th(Own):Samite Archer  
+ 5th:Wing of Hope,Dromar's Attendant  
+ 6th:Salt Marsh
+
+ABU Player C:Dan Clegg
+
+1st:Explosive Growth,Sunscape Apprentice  
+ 2nd:Wax/Wane  
+ 3rd:Charging Troll  
+ 4th:Angel of Mercy  
+ 5th(Own):Thornscape Apprentice  
+ 6th:Harrow,Roafing Giant
+
+### *Planeshift*
+
+Fujita(1st) - Clegg(2nd) - Benafel(3rd) - Williams(4th) - Mori(5th) - Ishida(6th)
+
+Anchans Player A:Osamu Fujita
+
+1st(Own):Terminate  
+ 2nd:Slingshot Goblin  
+ 3rd:Lava Zombie,Root Greevil  
+ 4th:Thunderscape Battlemage  
+ 5th:Caldera Kavu  
+ 6th:Mire Kavu
+
+Anchans Player B:Itaru Ishida
+
+1st:Pollen Remedy  
+ 2nd:Aurora Griffin,Quirion Explorer  
+ 3rd:Radiant Kavu,Disciple of Kangee  
+ 4th:Thornscape Battlemage  
+ 5th:Tahngarth,Talruum Hero  
+ 6th(Own):Rushing River
+
+Anchans Player C:Katsuhiro Mori
+
+1st:Lava Zombie,Crosis's Charm  
+ 2nd:Phyrexian Bloodstock,Crosis's Catacomb  
+ 3rd:Confound,Bog Down  
+ 4th:Marsh Crocodile  
+ 5th(Own):Cavern Harpy,Sleeping Portion  
+ 6th:Bog Down,Sea Snidd
+
+ABU Player A:David Williams
+
+1st:Strafe,Death Bomb  
+ 2nd:Lord of the Undead  
+ 3rd:Magma Burst  
+ 4th(Own):Magma Burst  
+ 5th:Thunderscape Familiar,Darigaaz's Caldera  
+ 6th:Cavern harpy,Thunderscape Familiar
+
+ABU Player B:Chris Benafel
+
+1st:Hunting Drake,Morgue Toad  
+ 2nd:Silver Drake,Arctic Merfolk  
+ 3rd(Own):Voice of All  
+ 4th:Lava Zombie,Bog Down  
+ 5th:Death Bomb  
+ 6th:Sawtooth Loon,Sunscape Familiar
+
+ABU Player C:Dan Clegg
+
+1st:Amphibious Kavu  
+ 2nd(Own):Hobble  
+ 3rd:Samite Pilgrim,Rith's Grove  
+ 4th:Gaea's Might,Horned Troll  
+ 5th:Gerrard's Command,Quirion Explorer  
+ 6th:Amphibious Kavu,Gaea's Might
+
+### *Apocalypse*
+
+Ishida(1st) - Mori(2nd) - Williams(3rd) - Benafel(4th) - Clegg(5th) - Fujita(6th)
+
+Anchans Player A:Osamu Fujita
+
+1st:Jaded Response  
+ 2nd:Quagmire Druid,Kavu Howler  
+ 3rd:Necravolver,Jungle Barrier  
+ 4th:Consume Strength,Dega Sanctuary  
+ 5th:Phyrexian Rager  
+ 6th(own):Bloodfire Infusion,Quagmire Druid
+
+Anchans Player B:Itaru Ishida
+
+1st(Own):Gerrard Capashen  
+ 2nd:Urborg Elf  
+ 3rd:Manacles of Decay,Angelfire Crusader  
+ 4th:Flowstone Charger  
+ 5th:Haunted Angel  
+ 6th:Order/Chaos
+
+Anchans Player C:Katsuhiro Mori
+
+1st:Phyrexian Rager,Ceta Disciple  
+ 2nd(Own):Fire/Ice,Jaded Response  
+ 3rd:Razorfin Hunter,Zombie Boa  
+ 4th:Coastal Drake.Kavu Glider  
+ 5th:Coastal Drake,Necra Sanctuary  
+ 6th:Razorfin Hunter
+
+ABU Player A:David Williams
+
+1st:Goblin Legionair,Squee's Embrace  
+ 2nd:Dead Ringers,Quicksilver Dagger  
+ 3rd(Own):Phyrexian Gargantua,Quagmire Druid  
+ 4th:Phyrexian Rager,Penumbra Bobcat  
+ 5th:Kavu Glider,Quicksilver Dagger  
+ 6th:Jaded Response,Strength of Night
+
+ABU Player B:Chris Benafel
+
+1st:Raka Sanctuary  
+ 2nd:Mystic Snake  
+ 3rd:Living Airship,Llanowar Dead  
+ 4th(Own):Coalition Honor Guard  
+ 5th:Squee's Embrace,Helionaut  
+ 6th:Helionaut,Llanowar Dead
+
+ABU Player C:Dan Clegg
+
+1st:Lay of the Land  
+ 2nd:AEther Mutation  
+ 3rd:Jilt  
+ 4th:Lightning Angel  
+ 5th(Own):Desolation Giant  
+ 6th:Angelfire Crusader

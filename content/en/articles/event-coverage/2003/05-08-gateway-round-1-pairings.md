@@ -1,0 +1,47 @@
+---
+id: sr79an8z
+kind: event
+lang: en
+path: /en/articles/event-coverage/2003/05-08-gateway-round-1-pairings
+title: Gateway Round 1 Pairings
+published: '2003-05-08'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/gateway-round-1-pairings-2003-05-08
+    lang_detected: en
+    capture_id: 361456
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/gateway-round-1-pairings-2003-05-08
+    captured_at: '2022-07-04 15:41:00+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/gateway-round-1-pairings-2003-05-08
+    lang_detected: en
+    capture_id: 361456
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/gateway-round-1-pairings-2003-05-08
+    captured_at: '2022-07-04 15:41:00+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: sr79an8z
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/gateway-round-1-pairings-2003-05-08
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/gateway-round-1-pairings-2003-05-08
+  lang: en
+  template: drupal
+  captured_at: '2022-07-04 15:41:00+00'
+  capture_id: 361456
+  wayback_url: https://web.archive.org/web/20220704154100id_/https://magic.wizards.com/en/articles/archive/event-coverage/gateway-round-1-pairings-2003-05-08
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: sr79an8z
+  capture_id: 361456
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/gateway-round-1-pairings-2003-05-08
+  wayback_url: https://web.archive.org/web/20220704154100id_/https://magic.wizards.com/en/articles/archive/event-coverage/gateway-round-1-pairings-2003-05-08
+  captured_at: '2022-07-04 15:41:00+00'
+  template: drupal
+  sha256: 9eaee62100f1e1125a2e01b52e6c699bde7f966d86df262afec8ed2a8af6f1e8
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td> </td><td><b>Opponent</b></td></tr><tr><td>22</td><td>?sterberg, Rickard</td><td>vs.</td><td>Tanaka, Hisaya</td></tr><tr><td>20</td><td>Ang, Junyang</td><td>vs.</td><td>Azuma, Motokiyo</td></tr><tr><td>10</td><td>Arahori, Kazuaki</td><td>vs.</td><td>Mori, Katsuhiro</td></tr><tr><td>31</td><td>Asahara, Akira</td><td>vs.</td><td>Yokosuka, Tomohiro</td></tr><tr><td>20</td><td>Azuma, Motokiyo</td><td>vs.</td><td>Ang, Junyang</td></tr><tr><td>5</td><td>Barbero, Jose</td><td>vs.</td><td>oguri, fumiaki</td></tr><tr><td>23</td><td>Becker, Jonathan</td><td>vs.</td><td>Thor?, Jens</td></tr><tr><td>* BYE *</td><td>Berkowitz, Jordan</td><td>vs.</td><td> </td></tr><tr><td>* BYE *</td><td>Boeken, Noah</td><td>vs.</td><td> </td></tr><tr><td>* BYE *</td><td>Canu, Franck</td><td>vs.</td><td> </td></tr><tr><td>* BYE *</td><td>Caumes, Benjamin</td><td>vs.</td><td> </td></tr><tr><td>17</td><td>Cavaglieri, William</td><td>vs.</td><td>Guevin, Peter</td></tr><tr><td>6</td><td>Chai, Ming Huang Royce</td><td>vs.</td><td>Seck, Ben</td></tr><tr><td>27</td><td>Chiera, Luca</td><td>vs.</td><td>Odegaard, Oyvind</td></tr><tr><td>19</td><td>Coueffe, Romuald</td><td>vs.</td><td>Hoaen, Richard</td></tr><tr><td>4</td><td>Courtois, Frederic</td><td>vs.</td><td>Tashiro, Yoshiaki</td></tr><tr><td>* BYE *</td><td>Cunningham, Jeff</td><td>vs.</td><td> </td></tr><tr><td>26</td><td>Daoust, Guillaume</td><td>vs.</td><td>Nobushita, Jun</td></tr><tr><td>* BYE *</td><td>De Rosa, Antonino</td><td>vs.</td><td> </td></tr><tr><td>7</td><td>Douglass, Morgan</td><td>vs.</td><td>Shimura, Ichirou</td></tr><tr><td>8</td><td>Fear, Edward</td><td>vs.</td><td>Ranque, Wielfried</td></tr><tr><td>* BYE *</td><td>Finkel, Jon</td><td>vs.</td><td> </td></tr><tr><td>29</td><td>Freneau, Phil</td><td>vs.</td><td>Torresan, Alessandro</td></tr><tr><td>* BYE *</td><td>Froehlich, Eric</td><td>vs.</td><td> </td></tr><tr><td>2</td><td>Fujita, Tsuyoshi</td><td>vs.</td><td>Kumagai, Shin'ichi</td></tr><tr><td>17</td><td>Guevin, Peter</td><td>vs.</td><td>Cavaglieri, William</td></tr><tr><td>* BYE *</td><td>Haim, Christophe</td><td>vs.</td><td> </td></tr><tr><td>* BYE *</td><td>Hegstad, Brian</td><td>vs.</td><td> </td></tr><tr><td>9</td><td>Hiltunen, Arto</td><td>vs.</td><td>Parker, Zachary</td></tr><tr><td>28</td><td>Ho, Ken</td><td>vs.</td><td>Veron, Mathias</td></tr><tr><td>19</td><td>Hoaen, Richard</td><td>vs.</td><td>Coueffe, Romuald</td></tr><tr><td>* BYE *</td><td>Humpherys, David</td><td>vs.</td><td> </td></tr><tr><td>* BYE *</td><td>Ikeda, Tsuyoshi</td><td>vs.</td><td> </td></tr><tr><td>18</td><td>Ino, Kentarou</td><td>vs.</td><td>Stark, Ben S</td></tr><tr><td>* BYE *</td><td>Ishida, Itaru</td><td>vs.</td><td> </td></tr><tr><td>12</td><td>Ishikawa, Ren</td><td>vs.</td><td>Van de Logt, Tom</td></tr><tr><td>* BYE *</td><td>Jeudon, Florent</td><td>vs.</td><td> </td></tr><tr><td>* BYE *</td><td>Jorstedt, Mattias</td><td>vs.</td><td> </td></tr><tr><td>30</td><td>Kapalas, Georgios</td><td>vs.</td><td>Nakano, Yoshitaka</td></tr><tr><td>* BYE *</td><td>Karsten, Frank</td><td>vs.</td><td> </td></tr><tr><td>14</td><td>Khoo, Aik Seng</td><td>vs.</td><td>Maki, Kouichirou</td></tr><tr><td>13</td><td>Kitayama, Masaya</td><td>vs.</td><td>Nakamura, Satoshi</td></tr><tr><td>32</td><td>Kosmidis, Jon</td><td>vs.</td><td>Sullivan, Patrick B</td></tr><tr><td>* BYE *</td><td>Krouner, Ken</td><td>vs.</td><td> </td></tr><tr><td>2</td><td>Kumagai, Shin'ichi</td><td>vs.</td><td>Fujita, Tsuyoshi</td></tr><tr><td>24</td><td>Lau, Sam Lei Kang</td><td>vs.</td><td>Skjetne, Endre H</td></tr><tr><td>11</td><td>Lemoine, Vincent</td><td>vs.</td><td>Zajdner, Mark</td></tr><tr><td>* BYE *</td><td>Levy, Raphael</td><td>vs.</td><td> </td></tr><tr><td>* BYE *</td><td>Linde, Matt</td><td>vs.</td><td> </td></tr><tr><td>25</td><td>Lo Moro, Raffaele</td><td>vs.</td><td>Szigeti, Peter G</td></tr><tr><td>21</td><td>Maeba, Hideaki</td><td>vs.</td><td>Myrvig, Peter</td></tr><tr><td>14</td><td>Maki, Kouichirou</td><td>vs.</td><td>Khoo, Aik Seng</td></tr><tr><td>* BYE *</td><td>Mello, Patrick</td><td>vs.</td><td> </td></tr><tr><td>3</td><td>Menard, Antoine</td><td>vs.</td><td>Thille, Carl</td></tr><tr><td>10</td><td>Mori, Katsuhiro</td><td>vs.</td><td>Arahori, Kazuaki</td></tr><tr><td>21</td><td>Myrvig, Peter</td><td>vs.</td><td>Maeba, Hideaki</td></tr><tr><td>13</td><td>Nakamura, Satoshi</td><td>vs.</td><td>Kitayama, Masaya</td></tr><tr><td>30</td><td>Nakano, Yoshitaka</td><td>vs.</td><td>Kapalas, Georgios</td></tr><tr><td>* BYE *</td><td>Nassif, Gabriel</td><td>vs.</td><td> </td></tr><tr><td>26</td><td>Nobushita, Jun</td><td>vs.</td><td>Daoust, Guillaume</td></tr><tr><td>15</td><td>Nomichi, Hideki</td><td>vs.</td><td>van der Velden, Stan</td></tr><tr><td>27</td><td>Odegaard, Oyvind</td><td>vs.</td><td>Chiera, Luca</td></tr><tr><td>5</td><td>oguri, fumiaki</td><td>vs.</td><td>Barbero, Jose</td></tr><tr><td>16</td><td>Oiso, Masashi</td><td>vs.</td><td>Stern, Jon</td></tr><tr><td>* BYE *</td><td>Okamoto, Jin</td><td>vs.</td><td> </td></tr><tr><td>9</td><td>Parker, Zachary</td><td>vs.</td><td>Hiltunen, Arto</td></tr><tr><td>* BYE *</td><td>Pustilnik, Michael</td><td>vs.</td><td> </td></tr><tr><td>1</td><td>Ranks, Matthew E</td><td>vs.</td><td>Siron, Geoffrey</td></tr><tr><td>8</td><td>Ranque, Wielfried</td><td>vs.</td><td>Fear, Edward</td></tr><tr><td>* BYE *</td><td>Rood, David</td><td>vs.</td><td> </td></tr><tr><td>* BYE *</td><td>Rubin, Ben E</td><td>vs.</td><td> </td></tr><tr><td>* BYE *</td><td>Ruel, Olivier</td><td>vs.</td><td> </td></tr><tr><td>6</td><td>Seck, Ben</td><td>vs.</td><td>Chai, Ming Huang Royce</td></tr><tr><td>7</td><td>Shimura, Ichirou</td><td>vs.</td><td>Douglass, Morgan</td></tr><tr><td>* BYE *</td><td>Shvartsman, Alex</td><td>vs.</td><td> </td></tr><tr><td>1</td><td>Siron, Geoffrey</td><td>vs.</td><td>Ranks, Matthew E</td></tr><tr><td>24</td><td>Skjetne, Endre H</td><td>vs.</td><td>Lau, Sam Lei Kang</td></tr><tr><td>18</td><td>Stark, Ben S</td><td>vs.</td><td>Ino, Kentarou</td></tr><tr><td>16</td><td>Stern, Jon</td><td>vs.</td><td>Oiso, Masashi</td></tr><tr><td>32</td><td>Sullivan, Patrick B</td><td>vs.</td><td>Kosmidis, Jon</td></tr><tr><td>25</td><td>Szigeti, Peter G</td><td>vs.</td><td>Lo Moro, Raffaele</td></tr><tr><td>* BYE *</td><td>Talim, Gary M</td><td>vs.</td><td> </td></tr><tr><td>22</td><td>Tanaka, Hisaya</td><td>vs.</td><td>?sterberg, Rickard</td></tr><tr><td>4</td><td>Tashiro, Yoshiaki</td><td>vs.</td><td>Courtois, Frederic</td></tr><tr><td>* BYE *</td><td>Tenenbaum, Amiel</td><td>vs.</td><td> </td></tr><tr><td>3</td><td>Thille, Carl</td><td>vs.</td><td>Menard, Antoine</td></tr><tr><td>23</td><td>Thor?, Jens</td><td>vs.</td><td>Becker, Jonathan</td></tr><tr><td>29</td><td>Torresan, Alessandro</td><td>vs.</td><td>Freneau, Phil</td></tr><tr><td>* BYE *</td><td>Turian, Michael S</td><td>vs.</td><td> </td></tr><tr><td>12</td><td>Van de Logt, Tom</td><td>vs.</td><td>Ishikawa, Ren</td></tr><tr><td>* BYE *</td><td>van den Broek, Victor</td><td>vs.</td><td> </td></tr><tr><td>15</td><td>van der Velden, Stan</td><td>vs.</td><td>Nomichi, Hideki</td></tr><tr><td>28</td><td>Veron, Mathias</td><td>vs.</td><td>Ho, Ken</td></tr><tr><td>* BYE *</td><td>Wolfman, Steven</td><td>vs.</td><td> </td></tr><tr><td>31</td><td>Yokosuka, Tomohiro</td><td>vs.</td><td>Asahara, Akira</td></tr><tr><td>11</td><td>Zajdner, Mark</td><td>vs.</td><td>Lemoine, Vincent</td></tr></tbody></table>

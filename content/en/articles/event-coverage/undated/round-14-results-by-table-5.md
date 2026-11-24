@@ -1,0 +1,40 @@
+---
+id: d8jrvymm
+kind: event
+lang: en
+path: /en/articles/event-coverage/undated/round-14-results-by-table-5
+title: Round 14 Results (by Table)
+published: null
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-14-results-table-2000-01-01-1
+    lang_detected: en
+    capture_id: 511670
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-14-results-table-2000-01-01-1
+    captured_at: '2022-01-28 09:30:13+00'
+    rule: meta.og_title
+sources:
+- document_id: d8jrvymm
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-14-results-table-2000-01-01-1
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/round-14-results-table-2000-01-01-1
+  lang: en
+  template: drupal
+  captured_at: '2022-01-28 09:30:13+00'
+  capture_id: 511670
+  wayback_url: https://web.archive.org/web/20220128093013id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-14-results-table-2000-01-01-1
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: d8jrvymm
+  capture_id: 511670
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-14-results-table-2000-01-01-1
+  wayback_url: https://web.archive.org/web/20220128093013id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-14-results-table-2000-01-01-1
+  captured_at: '2022-01-28 09:30:13+00'
+  template: drupal
+  sha256: 5ede6586877365e9309800bbd7f778597325e5d5ac617235e80646b6d0b7f42a
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Result</b></td><td><b> </b></td><td><b>Opponent</b></td></tr><tr><td>  1</td><td>Fuller, Ryan (CA)</td><td>2-1-0</td><td>vs.</td><td>Freneau, Philip (US)</td></tr><tr><td>  2</td><td>Bastos, Frederico (PT)</td><td>0-0-3</td><td>vs.</td><td>Ranque, Wilfried (FR)</td></tr><tr><td>  3</td><td>Mowshowitz, Zvi (US)</td><td>0-0-3</td><td>vs.</td><td>Hager, Lucas (US)</td></tr><tr><td>  4</td><td>Williams, David (US)</td><td>2-0-0</td><td>vs.</td><td>Hubble, Bryan (US)</td></tr><tr><td>  5</td><td>Benafel, Chris (US)</td><td>1-1-0</td><td>vs.</td><td>Canu, Franck (FR)</td></tr><tr><td>  6</td><td>Sasakawa, Tomohide (JP)</td><td>0-2-0</td><td>vs.</td><td>Fujita, Tsuyoshi (JP)</td></tr><tr><td>  7</td><td>Davis, Brian (US)</td><td>1-2-0</td><td>vs.</td><td>De Rosa, Antonino (US)</td></tr><tr><td>  8</td><td>Wilson, Gabriel (US)</td><td>2-0-0</td><td>vs.</td><td>Benefield, Kevin (US)</td></tr><tr><td>  9</td><td>Rider, Justin (US)</td><td>2-0-0</td><td>vs.</td><td>Tomcani, Jan (SK)</td></tr><tr><td> 10</td><td>Cornelissen, Kamiel (NL)</td><td>1-2-0</td><td>vs.</td><td>Hovi, Tommi (FI)</td></tr><tr><td> 11</td><td>Blackwell, Trevor (US)</td><td>0-0-3</td><td>vs.</td><td>Taylor, Eric (US)</td></tr><tr><td> 12</td><td>Jones, Craig (UK)</td><td>0-2-0</td><td>vs.</td><td>Selden, Brian (US)</td></tr><tr><td> 13</td><td>Snygg, Mikko (FI)</td><td>0-0-3</td><td>vs.</td><td>Tschirch, Marc (DE)</td></tr><tr><td> 14</td><td>Mukka, Daniel (SE)</td><td>2-0-0</td><td>vs.</td><td>Delere, Andre (DE)</td></tr><tr><td> 15</td><td>Clegg, Daniel (US)</td><td>0-2-0</td><td>vs.</td><td>Law, Albertus Hui Chin (SG)</td></tr><tr><td> 16</td><td>Fleisch, Josh (US)</td><td>2-1-0</td><td>vs.</td><td>Dumay, Alexis (FR)</td></tr><tr><td> 17</td><td>Chai, Royce Ming Huang (SG)</td><td>1-2-0</td><td>vs.</td><td>Snepvangers, Abraham (NL)</td></tr><tr><td> 18</td><td>Brown-Santirso, Julian (NZ)</td><td>0-2-0</td><td>vs.</td><td>Courtois, Frederic (FR)</td></tr><tr><td> 19</td><td>Creech, Lawrence (US)</td><td>2-1-0</td><td>vs.</td><td>Mandel, Daniel (US)</td></tr><tr><td> 20</td><td>Chang, Mark Yong Siang (SG)</td><td>2-1-0</td><td>vs.</td><td>O'Mahoney-Schwartz, Daniel (US)</td></tr><tr><td> 21</td><td>Summersberger, Helmut (AT)</td><td>2-1-0</td><td>vs.</td><td>Mitchell, Andrew (ZA)</td></tr><tr><td> 22</td><td>Rade, Olle (SE)</td><td>2-0-0</td><td>vs.</td><td>Menard, Antoine (FR)</td></tr><tr><td> 23</td><td>Wise, Gary (CA)</td><td>2-0-0</td><td>vs.</td><td>Cleemann, Jonas (DK)</td></tr><tr><td> 24</td><td>Malherbaud, Pierre (FR)</td><td>2-0-0</td><td>vs.</td><td>Zuercher, Martin (CH)</td></tr><tr><td> 25</td><td>Walamies, Tomi (FI)</td><td>2-1-0</td><td>vs.</td><td>Gromko, Radoslaw (PL)</td></tr><tr><td> 26</td><td>Ruel, Olivier (FR)</td><td>2-0-0</td><td>vs.</td><td>Sasanuma, Kiyoshi (JP)</td></tr><tr><td> 27</td><td>Di Tomaso, Matteo (IT)</td><td>1-2-0</td><td>vs.</td><td>Wong, Doctor (TW)</td></tr><tr><td> 28</td><td>Humpherys, David (US)</td><td>1-2-0</td><td>vs.</td><td>Keffer Jr, Philip (US)</td></tr><tr><td> 29</td><td>Schneider, Oliver (UK)</td><td>1-2-0</td><td>vs.</td><td>Itadani, Eisaku (JP)</td></tr><tr><td> 30</td><td>Siagian, Joey (ID)</td><td>2-0-0</td><td>vs.</td><td>Ohe, Youji (JP)</td></tr><tr><td> 31</td><td>Vienneau, Matthew (CA)</td><td>2-0-0</td><td>vs.</td><td>Mori, Katsuhiro (JP)</td></tr><tr><td> 32</td><td>Jensen, William (US)</td><td>0-2-0</td><td>vs.</td><td>Ho, Ken (US)</td></tr><tr><td> 33</td><td>Vollebregt, Joost (NL)</td><td>2-0-0</td><td>vs.</td><td>Osborne, James (US)</td></tr><tr><td> 34</td><td>Klauser, Benedikt (AT)</td><td>1-2-0</td><td>vs.</td><td>Johns, Scott (US)</td></tr><tr><td> 35</td><td>Watanabe, Hiroto (JP)</td><td>0-2-0</td><td>vs.</td><td>O'Mahoney-Schwartz, Steven (US)</td></tr><tr><td> 36</td><td>Romero, Ellis (UK)</td><td>2-1-0</td><td>vs.</td><td>Vernay, Emmanuel (FR)</td></tr><tr><td> 37</td><td>Pagorek, Laurent (FR)</td><td>1-2-0</td><td>vs.</td><td>Possemiers, Ben (BE)</td></tr><tr><td> 38</td><td>Ekebom, Erno (FI)</td><td>1-2-0</td><td>vs.</td><td>Odegaard, Oyvind (NO)</td></tr><tr><td> 39</td><td>Hirabayashi, Kazuya (JP)</td><td>2-0-0</td><td>vs.</td><td>Suweis, Samir (IT)</td></tr><tr><td> 40</td><td>Frank, Joel (US)</td><td>1-2-0</td><td>vs.</td><td>Maher Jr, Bob (US)</td></tr><tr><td> 41</td><td>Kibler, Brian (US)</td><td>0-2-0</td><td>vs.</td><td>Fiore, Stefano (IT)</td></tr><tr><td> 42</td><td>Levy, Raphael (FR)</td><td>2-0-0</td><td>vs.</td><td>Kamimachi, Yoku (JP)</td></tr><tr><td> 43</td><td>Norris, Pete (UK)</td><td>0-2-0</td><td>vs.</td><td>Dobson, Tony (UK)</td></tr><tr><td> 44</td><td>Jonsson, Anton (SE)</td><td>2-0-0</td><td>vs.</td><td>Jorstedt, Mattias (SE)</td></tr><tr><td> 45</td><td>Kettil, Mattias (SE)</td><td>2-0-0</td><td>vs.</td><td>Viel, Bertrand (FR)</td></tr><tr><td> 46</td><td>Hugi, Niklaus (CH)</td><td>2-0-0</td><td>vs.</td><td>Turian, Michael (US)</td></tr><tr><td> 47</td><td>Ho, Jack (TW)</td><td>1-2-0</td><td>vs.</td><td>Van Cleave, Trey (DK)</td></tr><tr><td> 48</td><td>Richards, Scott (UY)</td><td>0-2-0</td><td>vs.</td><td>Fujino, Kimihiro (JP)</td></tr><tr><td> 49</td><td>Wong, Nicholas Jonathan (SG)</td><td>2-1-0</td><td>vs.</td><td>Smith, Sean (US)</td></tr><tr><td> 50</td><td>Asahara, Akira (JP)</td><td>2-1-0</td><td>vs.</td><td>Shiozu, Ryoma (JP)</td></tr><tr><td> 51</td><td>Budde, Kai (DE)</td><td>2-0-0</td><td>vs.</td><td>Jordan, Paul (US)</td></tr><tr><td> 52</td><td>Sayers, Adrian (US)</td><td>0-0-3</td><td>vs.</td><td>Polak, Martin (SK)</td></tr><tr><td> 53</td><td>Welty, Terry (US)</td><td>0-2-0</td><td>vs.</td><td>Mello, Patrick (DE)</td></tr><tr><td> 54</td><td>Kuusniemi, Tuomas (FI)</td><td>2-0-0</td><td>vs.</td><td>Adams, Peter (DE)</td></tr><tr><td> 55</td><td>Nilsen, Thomas (NO)</td><td>0-2-0</td><td>vs.</td><td>Onoda, Michihisa (JP)</td></tr><tr><td> 56</td><td>Kastle, Darwin (US)</td><td>0-2-0</td><td>vs.</td><td>Thomsen, Skye (US)</td></tr><tr><td> 57</td><td>Leiher, Peter (US)</td><td>2-0-0</td><td>vs.</td><td>Chapin, Patrick (US)</td></tr><tr><td> 58</td><td>Dominguez, Alejandro (ES)</td><td>1-2-0</td><td>vs.</td><td>Alexander, David (UK)</td></tr><tr><td> 59</td><td>Bourdeau, Luc (CA)</td><td>1-2-0</td><td>vs.</td><td>Herzog, Nicolai (NO)</td></tr></tbody></table>

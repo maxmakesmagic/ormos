@@ -1,0 +1,63 @@
+---
+id: s8zeqghv
+kind: event
+lang: en
+path: /en/articles/event-coverage/2015/12-16-round-12-stewart-shinkins-ireland-vs-frank-karsten-netherlands
+title: 'Round 12: Stewart Shinkins (Ireland) vs. Frank Karsten (Netherlands)'
+published: '2015-12-16'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-12-stewart-shinkins-ireland-vs-frank-karsten-netherlands-2015
+    lang_detected: en
+    capture_id: 502081
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-12-stewart-shinkins-ireland-vs-frank-karsten-netherlands-2015
+    captured_at: '2022-10-04 13:52:44+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-12-stewart-shinkins-ireland-vs-frank-karsten-netherlands-2015
+    lang_detected: en
+    capture_id: 502081
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-12-stewart-shinkins-ireland-vs-frank-karsten-netherlands-2015
+    captured_at: '2022-10-04 13:52:44+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: s8zeqghv
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-12-stewart-shinkins-ireland-vs-frank-karsten-netherlands-2015
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/round-12-stewart-shinkins-ireland-vs-frank-karsten-netherlands-2015
+  lang: en
+  template: drupal
+  captured_at: '2022-10-04 13:52:44+00'
+  capture_id: 502081
+  wayback_url: https://web.archive.org/web/20221004135244id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-12-stewart-shinkins-ireland-vs-frank-karsten-netherlands-2015
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: s8zeqghv
+  capture_id: 502081
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-12-stewart-shinkins-ireland-vs-frank-karsten-netherlands-2015
+  wayback_url: https://web.archive.org/web/20221004135244id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-12-stewart-shinkins-ireland-vs-frank-karsten-netherlands-2015
+  captured_at: '2022-10-04 13:52:44+00'
+  template: drupal
+  sha256: a16b47df7a0cfdf17812c97f82f2ab6a7f8621b5a53dbd4f6a2e7b7b7a6f8fe8
+render_recovery: []
+---
+*By Mark Wraith*
+
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/EURO00/Images/336.JPG)Both players in this match were playing for a quarter-final berth on 25 points. A draw wouldn't be good enough for either of them so they had to play. Stewart Shinkins had an unusual deck, a Rebel deck with a splash of black for Vampiric Tutor and sideboard options such as Perish. Frank had an Angry Hermit deck.
+
+Stewart has a great start for his deck. He plays a turn two Fresh Volunteers, a turn three Lin Sivvi, and a turn four Parallax Wave. He also has a second Lin Sivvi in his hand, in case the first one dies. Frank has nothing except land in play, as his Llanowar Elf and Bird of Paradise have been faded out by the Wave.
+
+Frank plays out a Deranged Hermit, which although a good card doesn't seem like it's going to be enough in this situation as Stewart cast a Crusade last turn and now recruits a Steadfast Guard. Frank will be in trouble unless he can stop the Lin Sivvi. It seems like he has a chance to do so when Stewart attacks with it, but after it dies, the second one is played along with a Ramosian Sergeant. Neither player does anything in there main phase for a couple of turns, with Shinkins fetching rebels quickly at the end of Frank's turn, until Frank draws and casts a Masticore.
+
+Stewart has the answer for this in with a Disenchant as Frank is forced to tap out to kill a Thermal Glider. The rebel army continues to grow and Frank is forced to concede four turns later when Stewart attacks with upwards of ten rebels.
+
+The players go to there sideboard where Frank has Defense of the Heart and Ancient Hydra. Stewart has some pretty useful cards, Perish and Wrath of God.
+
+Game Two is a quickie. Karsten mulligans twice and the gets a pretty good hand, whereas Stewart mulligans once and keeps a hand with only one Swamp for mana. Karsten plays a turn one Llanowar Elf, a Rishadan Port, and Stewart concedes when Frank casts an Avalanche Riders to blow up his only land on turn three.
+
+Stewart goes first with a good looking hand. First a Sergeant, then a Longbow Archer, a Mother of Runes, and a second Sergeant. Before the Mother recovers from summoning sickness, Frank casts a top-decked Arc Lightning and takes out the three 1/1 creatures. Frank rapidly takes control, as Stewart doesn't have a method of getting rid of the turn four Skyshroud Poacher. It finds a Deranged Hermit, and two turns later the game is over, as Frank gets another Hermit and an Ancient Hydra.
+
+Frank Karsten wins 2-1, but ended up missing the Top 8 on tiebreakers, finishing ninth.

@@ -1,0 +1,56 @@
+---
+id: 7qb04yb4
+kind: event
+lang: es
+path: /es/events/2007/sandiego07-eu/pro-tour-san-diego-07-qualifiers
+title: Pro Tour San Diego '07 - Qualifiers
+published: null
+column_slug: null
+column: null
+authors: []
+event_code: sandiego07-eu
+detected_lang: es
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtgcom/protour/sandiego07-eu
+    lang_detected: es
+    capture_id: 820084
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/protour/sandiego07-eu
+    captured_at: '2009-06-03 16:07:26+00'
+    rule: aspx.article_heading
+  event_code:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtgcom/protour/sandiego07-eu
+    lang_detected: es
+    capture_id: 820084
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/protour/sandiego07-eu
+    captured_at: '2009-06-03 16:07:26+00'
+    rule: url.event_code
+sources:
+- document_id: 7qb04yb4
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/protour/sandiego07-eu
+  page_key: wizards.com/magic/magazine/article.aspx?x=mtgcom/protour/sandiego07-eu
+  lang: es
+  template: aspx
+  captured_at: '2009-06-03 16:07:26+00'
+  capture_id: 820084
+  wayback_url: https://web.archive.org/web/20090603160726id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/protour/sandiego07-eu
+- document_id: 7qb04yb4
+  url: http://www.wizards.com/default.asp?x=mtgcom/protour/sandiego07-eu
+  page_key: wizards.com/default.asp?x=mtgcom/protour/sandiego07-eu
+  lang: es
+  template: classic_asp
+  captured_at: '2007-07-11 02:53:09+00'
+  capture_id: 2027825
+  wayback_url: https://web.archive.org/web/20070711025309id_/http://www.wizards.com/default.asp?x=mtgcom/protour/sandiego07-eu
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 7qb04yb4
+  capture_id: 820084
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/protour/sandiego07-eu
+  wayback_url: https://web.archive.org/web/20090603160726id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/protour/sandiego07-eu
+  captured_at: '2009-06-03 16:07:26+00'
+  template: aspx
+  sha256: 7943382d10405ba4a688c9c5ae7096a3ad0864d677a5c92ef535918fedf06879
+render_recovery: []
+---
+<table id="generic_table">&#10;  <tbody><tr>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20090603160726/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/protour/sandiego07-eu">Country</a>&#10;    </td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20090603160726/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/protour/sandiego07-eu">Date</a>&#10;    </td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20090603160726/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/protour/sandiego07-eu">Slots</a>&#10;    </td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20090603160726/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/protour/sandiego07-eu">Store</a>&#10;    </td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20090603160726/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/protour/sandiego07-eu">Address</a>&#10;    </td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20090603160726/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/protour/sandiego07-eu">City</a>&#10;    </td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20090603160726/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/protour/sandiego07-eu">Zip</a>&#10;    </td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20090603160726/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/protour/sandiego07-eu">Telephone</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>AT</td>&#10;    <td>2007-05-13</td>&#10;    <td>2</td>&#10;    <td>SpielRaum Wien</td>&#10;    <td>Otto Bauer Gasse 17</td>&#10;    <td>Wien</td>&#10;    <td>1060</td>&#10;    <td>18900884</td>&#10;  </tr>&#10;  <tr>&#10;    <td>BE</td>&#10;    <td>2007-05-12</td>&#10;    <td>1</td>&#10;    <td>Outpost Antwerpen</td>&#10;    <td>Beggaardenstraat 6</td>&#10;    <td>Antwerpen</td>&#10;    <td>2000</td>&#10;    <td>03/2315456</td>&#10;  </tr>&#10;  <tr>&#10;    <td>BE</td>&#10;    <td>2007-05-20</td>&#10;    <td>1</td>&#10;    <td>De Papieren Korf</td>&#10;    <td>Pius X, Bredenakkerstraat 29</td>&#10;    <td>Destelbergen</td>&#10;    <td>9070</td>&#10;    <td>09/2332731</td>&#10;  </tr>&#10;  <tr>&#10;    <td>CH</td>&#10;    <td>2007-04-28</td>&#10;    <td>2</td>&#10;    <td>GERSAG</td>&#10;    <td>-</td>&#10;    <td>Emmenbrücke</td>&#10;    <td>6020</td>&#10;    <td>41786774640</td>&#10;  </tr>&#10;  <tr>&#10;    <td>CZ</td>&#10;    <td>2007-05-19</td>&#10;    <td>1</td>&#10;    <td>Cerny rytir</td>&#10;    <td>Za poricskou branou 21</td>&#10;    <td>Prague</td>&#10;    <td>18000</td>&#10;    <td>737279101</td>&#10;  </tr>&#10;  <tr>&#10;    <td>DE</td>&#10;    <td>2007-03-31</td>&#10;    <td>2</td>&#10;    <td>FUNtainment Game Center Berlin</td>&#10;    <td>Revaler Straße 1</td>&#10;    <td>Berlin</td>&#10;    <td>10243</td>&#10;    <td>030/51068011</td>&#10;  </tr>&#10;  <tr>&#10;    <td>DE</td>&#10;    <td>2007-05-12</td>&#10;    <td>2</td>&#10;    <td>Jugendkeller der Auferstehungskirche</td>&#10;    <td>Luruper Hauptstraße 155</td>&#10;    <td>Hamburg</td>&#10;    <td>22547</td>&#10;    <td>04193/970656</td>&#10;  </tr>&#10;  <tr>&#10;    <td>DE</td>&#10;    <td>2007-05-12</td>&#10;    <td>2</td>&#10;    <td>Sabel Schule </td>&#10;    <td>Schwanthalerstr. 51-53</td>&#10;    <td>München</td>&#10;    <td>80336</td>&#10;    <td>089/51505710</td>&#10;  </tr>&#10;  <tr>&#10;    <td>DE</td>&#10;    <td>2007-05-13</td>&#10;    <td>2</td>&#10;    <td>Revierpark Wischlingen</td>&#10;    <td>Höfkerstr.12</td>&#10;    <td>Dortmund</td>&#10;    <td>44149</td>&#10;    <td>0231/529855</td>&#10;  </tr>&#10;  <tr>&#10;    <td>DE</td>&#10;    <td>2007-05-20</td>&#10;    <td>2</td>&#10;    <td>Jugendkulturzentrum Forum </td>&#10;    <td>Neckarpromendade</td>&#10;    <td>Mannheim</td>&#10;    <td>68167</td>&#10;    <td>6211785373</td>&#10;  </tr>&#10;  <tr>&#10;    <td>DK</td>&#10;    <td>2007-05-13</td>&#10;    <td>1</td>&#10;    <td>Faraos Cigarer</td>&#10;    <td>Skindergade </td>&#10;    <td>Kopenhamn</td>&#10;    <td>0</td>&#10;    <td>33322211</td>&#10;  </tr>&#10;  <tr>&#10;    <td>EE</td>&#10;    <td>2007-05-19</td>&#10;    <td>1</td>&#10;    <td>Megagame</td>&#10;    <td>Tartu mnt. 7</td>&#10;    <td>Tallinn</td>&#10;    <td>10145</td>&#10;    <td>56702568</td>&#10;  </tr>&#10;  <tr>&#10;    <td>ES</td>&#10;    <td>2007-03-25</td>&#10;    <td>2</td>&#10;    <td>Generacion X</td>&#10;    <td>Boden See</td>&#10;    <td>Madrid</td>&#10;    <td>28013</td>&#10;    <td>915219985</td>&#10;  </tr>&#10;  <tr>&#10;    <td>ES</td>&#10;    <td>2007-04-01</td>&#10;    <td>2</td>&#10;    <td>La Maquina del Temps</td>&#10;    <td>Hotel Icaria</td>&#10;    <td>Barcelona</td>&#10;    <td>08005</td>&#10;    <td>933875574</td>&#10;  </tr>&#10;  <tr>&#10;    <td>ES</td>&#10;    <td>2007-04-15</td>&#10;    <td>1</td>&#10;    <td>Avalon Burgos</td>&#10;    <td>Hotel Corona de Castilla</td>&#10;    <td>Burgos</td>&#10;    <td>09002</td>&#10;    <td>947201488</td>&#10;  </tr>&#10;  <tr>&#10;    <td>FI</td>&#10;    <td>2007-05-20</td>&#10;    <td>1</td>&#10;    <td>Safe Haven</td>&#10;    <td>Salomonkatu 5</td>&#10;    <td>Helsinki</td>&#10;    <td>100</td>&#10;    <td>96225560</td>&#10;  </tr>&#10;  <tr>&#10;    <td>GR</td>&#10;    <td>2007-04-16</td>&#10;    <td>1</td>&#10;    <td>Hotel Vassilikos</td>&#10;    <td>-</td>&#10;    <td>Athens</td>&#10;    <td>11425</td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>HR</td>&#10;    <td>2007-05-20</td>&#10;    <td>2</td>&#10;    <td>Land of Magic</td>&#10;    <td>Frankopanska 22</td>&#10;    <td>Zagreb</td>&#10;    <td>10000</td>&#10;    <td>0038515499901</td>&#10;  </tr>&#10;  <tr>&#10;    <td>HU</td>&#10;    <td>2007-04-14</td>&#10;    <td>1</td>&#10;    <td>Holdfeny</td>&#10;    <td>Wesselenyi 10</td>&#10;    <td>Budaest</td>&#10;    <td>1075</td>&#10;    <td>3613430730</td>&#10;  </tr>&#10;  <tr>&#10;    <td>IL</td>&#10;    <td>2007-04-05</td>&#10;    <td>1</td>&#10;    <td>Freak</td>&#10;    <td>vitzman center</td>&#10;    <td>Tel Aviv </td>&#10;    <td>65000</td>&#10;    <td>508673049</td>&#10;  </tr>&#10;  <tr>&#10;    <td>LT</td>&#10;    <td>2007-05-26</td>&#10;    <td>1</td>&#10;    <td>Anapus</td>&#10;    <td>Saviciaus 9</td>&#10;    <td>Vilnius</td>&#10;    <td>2000</td>&#10;    <td>68474348</td>&#10;  </tr>&#10;  <tr>&#10;    <td>NL</td>&#10;    <td>2007-04-09</td>&#10;    <td>1</td>&#10;    <td>Nationaal Denksportcentrum </td>&#10;    <td>Kennedylaan 9</td>&#10;    <td>Utrecht</td>&#10;    <td>3533 KH</td>&#10;    <td>314925538487</td>&#10;  </tr>&#10;  <tr>&#10;    <td>NL</td>&#10;    <td>2007-04-29</td>&#10;    <td>1</td>&#10;    <td>Nationaal Denksportcentrum </td>&#10;    <td>Kennedylaan 9</td>&#10;    <td>Utrecht</td>&#10;    <td>3533 KH</td>&#10;    <td>314925538487</td>&#10;  </tr>&#10;  <tr>&#10;    <td>NL</td>&#10;    <td>2007-05-05</td>&#10;    <td>1</td>&#10;    <td>Nationaal Denksportcentrum </td>&#10;    <td>Kennedylaan 9</td>&#10;    <td>Utrecht</td>&#10;    <td>3533 KH</td>&#10;    <td>314925538487</td>&#10;  </tr>&#10;  <tr>&#10;    <td>NO</td>&#10;    <td>2007-05-20</td>&#10;    <td>1</td>&#10;    <td>Nils Henrik Abels Hus</td>&#10;    <td>Universitetet i Oslo</td>&#10;    <td>Oslo</td>&#10;    <td>0850</td>&#10;    <td>93865777</td>&#10;  </tr>&#10;  <tr>&#10;    <td>PL</td>&#10;    <td>2007-05-01</td>&#10;    <td>1</td>&#10;    <td>SP 321</td>&#10;    <td>ul. Szadkowskiego 3</td>&#10;    <td>Warszawa</td>&#10;    <td>513892</td>&#10;    <td>48501045993</td>&#10;  </tr>&#10;  <tr>&#10;    <td>PT</td>&#10;    <td>2007-03-24</td>&#10;    <td>1</td>&#10;    <td>Hotel Eurostars Belas Artes</td>&#10;    <td>Rua do Rosario 160</td>&#10;    <td>Porto</td>&#10;    <td>4050-521</td>&#10;    <td>212139440</td>&#10;  </tr>&#10;  <tr>&#10;    <td>PT</td>&#10;    <td>2007-03-31</td>&#10;    <td>1</td>&#10;    <td>Hotel Albergaria Laitau</td>&#10;    <td>Avenida General Daniel de Sousa 89</td>&#10;    <td>Setubal</td>&#10;    <td>2900-345</td>&#10;    <td>212139440</td>&#10;  </tr>&#10;  <tr>&#10;    <td>RU</td>&#10;    <td>2007-04-15</td>&#10;    <td>1</td>&#10;    <td>Portal</td>&#10;    <td>Serpuhovskoi val, 18/30</td>&#10;    <td>Moscow</td>&#10;    <td>115191</td>&#10;    <td>4956331078</td>&#10;  </tr>&#10;  <tr>&#10;    <td>SE</td>&#10;    <td>2007-04-08</td>&#10;    <td>1</td>&#10;    <td>Backstab</td>&#10;    <td>Gothcon</td>&#10;    <td>Goteborg</td>&#10;    <td>0</td>&#10;    <td>031-166870</td>&#10;  </tr>&#10;  <tr>&#10;    <td>SI</td>&#10;    <td>2007-05-12</td>&#10;    <td>1</td>&#10;    <td>Crna Luknja</td>&#10;    <td>Poljanska 19</td>&#10;    <td>Ljubljana</td>&#10;    <td>1000</td>&#10;    <td>+386(0)59031220</td>&#10;  </tr>&#10;  <tr>&#10;    <td>TR</td>&#10;    <td>2007-05-20</td>&#10;    <td>1</td>&#10;    <td>Lion Hotel</td>&#10;    <td>Lamartin Cad. No:45 Taksim</td>&#10;    <td>Istanbul</td>&#10;    <td>34437</td>&#10;    <td>90532527669</td>&#10;  </tr>&#10;</tbody></table>

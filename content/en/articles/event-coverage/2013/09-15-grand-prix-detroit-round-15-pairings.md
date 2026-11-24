@@ -1,0 +1,47 @@
+---
+id: jgb93fd1
+kind: event
+lang: en
+path: /en/articles/event-coverage/2013/09-15-grand-prix-detroit-round-15-pairings
+title: Grand Prix Detroit Round 15 Pairings
+published: '2013-09-15'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-detroit-round-15-pairings-2013-09-15
+    lang_detected: en
+    capture_id: 371293
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-detroit-round-15-pairings-2013-09-15
+    captured_at: '2021-12-08 10:32:23+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-detroit-round-15-pairings-2013-09-15
+    lang_detected: en
+    capture_id: 371293
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-detroit-round-15-pairings-2013-09-15
+    captured_at: '2021-12-08 10:32:23+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: jgb93fd1
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-detroit-round-15-pairings-2013-09-15
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-detroit-round-15-pairings-2013-09-15
+  lang: en
+  template: drupal
+  captured_at: '2021-12-08 10:32:23+00'
+  capture_id: 371293
+  wayback_url: https://web.archive.org/web/20211208103223id_/https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-detroit-round-15-pairings-2013-09-15
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: jgb93fd1
+  capture_id: 371293
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-detroit-round-15-pairings-2013-09-15
+  wayback_url: https://web.archive.org/web/20211208103223id_/https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-detroit-round-15-pairings-2013-09-15
+  captured_at: '2021-12-08 10:32:23+00'
+  template: drupal
+  sha256: 1641e0e7b43817ce49e0d8b970bc4b45d8fc50bcb205d295ac563516bdd6a8af
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Points</b></td><td><b>&#10;						</b></td><td><b>Opponent</b></td><td><b>Points</b></td></tr><tr><td> 1</td><td>Majlaton, Alex S [USA]</td><td>vs.</td><td>Jansen, Adam [USA]</td></tr><tr><td> 2</td><td>Stark, Benjamin [USA]</td><td>vs.</td><td>Edel, Willy [BRA]</td></tr><tr><td> 3</td><td>Duke, reid [USA]</td><td>vs.</td><td>Siow, Lucas [USA]</td></tr><tr><td> 4</td><td>Utter-Leyton, Josh [USA]</td><td>vs.</td><td>Mcclain, Josh [USA]</td></tr><tr><td> 5</td><td>Freeman, Marcelino [MEX]</td><td>vs.</td><td>Kibler, Brian M [USA]</td></tr><tr><td> 6</td><td>Naylor, Jamie [USA]</td><td>vs.</td><td>Moir, Ben [CAN]</td></tr><tr><td> 7</td><td>Woodsmith, Tristan [USA]</td><td>vs.</td><td>Filak, John [USA]</td></tr><tr><td> 8</td><td>Musser, Daniel [USA]</td><td>vs.</td><td>Rasmussen, Ben [USA]</td></tr><tr><td> 9</td><td>WESCOE, CRAIG [USA]</td><td>vs.</td><td>Chong, James [USA]</td></tr><tr><td> 10</td><td>Shenhar, Shahar [USA]</td><td>vs.</td><td>Caplan, David M [CAN]</td></tr><tr><td> 11</td><td>Turtenwald, Owen [USA]</td><td>vs.</td><td>Kaplan, Louis H [USA]</td></tr><tr><td> 12</td><td>Tang, Jacky [USA]</td><td>vs.</td><td>Ayers, Matt [USA]</td></tr><tr><td> 13</td><td>Price, Sage [USA]</td><td>vs.</td><td>Greenidge, Jamal [USA]</td></tr><tr><td> 14</td><td>Morelli, Paul [USA]</td><td>vs.</td><td>Duncan, Kyle A [CAN]</td></tr><tr><td> 15</td><td>Jensen, William H [USA]</td><td>vs.</td><td>Ketita, Nassim [USA]</td></tr><tr><td> 16</td><td>Pardee, Samuel [USA]</td><td>vs.</td><td>Stern, Jon [USA]</td></tr><tr><td> 17</td><td>Dean, Paul [USA]</td><td>vs.</td><td>Vidugiris, Gaudenis [USA]</td></tr><tr><td> 18</td><td>Lam, Michael [CAN]</td><td>vs.</td><td>West, Evan [USA]</td></tr><tr><td> 19</td><td>Pait, Chris R [USA]</td><td>vs.</td><td>Jones, Nathan [CAN]</td></tr><tr><td> 20</td><td>Koines, John A [USA]</td><td>vs.</td><td>Goldfarb, David [CAN]</td></tr><tr><td> 21</td><td>Carlson, Lukas [USA]</td><td>vs.</td><td>Maggard, Jakob [USA]</td></tr><tr><td> 22</td><td>GLANTZMAN, JOSH C [USA]</td><td>vs.</td><td>Lundquist, Benjamin R [USA]</td></tr><tr><td> 23</td><td>John, Alexander [USA]</td><td>vs.</td><td>Calcano, Christian [USA]</td></tr><tr><td> 24</td><td>Nighbor, Chris [USA]</td><td>vs.</td><td>LEGERE, LUKE [USA]</td></tr><tr><td> 25</td><td>English, Eric [USA]</td><td>vs.</td><td>Van Cleave, Trey [USA]</td></tr><tr><td> 26</td><td>Cecchetti, Daniel A [USA]</td><td>vs.</td><td>Schuett, Court [USA]</td></tr><tr><td> 27</td><td>Boehm, Christopher [USA]</td><td>vs.</td><td>Hawron, Richard C [CAN]</td></tr><tr><td> 28</td><td>Engerson, John E [USA]</td><td>vs.</td><td>Gatica, Miguel [CRI]</td></tr><tr><td> 29</td><td>Mantey, Tyler [USA]</td><td>vs.</td><td>Lanthier, Dan [CAN]</td></tr><tr><td> 30</td><td>Hodgins, Michael [USA]</td><td>vs.</td><td>Turben, Eric M [USA]</td></tr><tr><td> 31</td><td>Neufeldt, Alexander A [CAN]</td><td>vs.</td><td>Ingram, Peter L [USA]</td></tr><tr><td> 32</td><td>Tharmaratnam, Samuel [CAN]</td><td>vs.</td><td>Bogner, Ryan K [USA]</td></tr><tr><td> 33</td><td>Zarichny, Brandon [USA]</td><td>vs.</td><td>Maynard, Pascal [USA]</td></tr><tr><td> 34</td><td>Coleman, Jason M [USA]</td><td>vs.</td><td>Goldstein, Danny [USA]</td></tr><tr><td> 35</td><td>Uppal, Justin A [USA]</td><td>vs.</td><td>Herberholz, Mark [USA]</td></tr><tr><td> 36</td><td>Boutin, Jon [CAN]</td><td>vs.</td><td>ZVIP Derczo, Michael [USA]</td></tr><tr><td> 37</td><td>Magby, Mike R [USA]</td><td>vs.</td><td>Miles, Rick L [CAN]</td></tr><tr><td> 38</td><td>Criss, Ronald [USA]</td><td>vs.</td><td>Marge, Matthew [USA]</td></tr><tr><td> 39</td><td>Baylock, Deshaun [USA]</td><td>vs.</td><td>Moffitt, James [USA]</td></tr><tr><td> 40</td><td>ZVIP Reed, David [USA]</td><td>vs.</td><td>Vance, Mike J [CAN]</td></tr><tr><td> 41</td><td>Clawson, Brent [USA]</td><td>vs.</td><td>Martin, Steven [USA]</td></tr><tr><td> 42</td><td>Baeckstrom, Andrew [USA]</td><td>vs.</td><td>Terry, Jason [USA]</td></tr><tr><td> 43</td><td>HOUSER, NICK [USA]</td><td>vs.</td><td>ZVIP Fried, Norman [CAN]</td></tr><tr><td> 44</td><td>Kelso, Mark E [USA]</td><td>vs.</td><td>Bullington, Jay [USA]</td></tr><tr><td> 45</td><td>Ma, Will W [CAN]</td><td>vs.</td><td>Curran, Riley T [USA]</td></tr><tr><td> 46</td><td>Fontenot, Bryan [USA]</td><td>vs.</td><td>Scholten, Steven [USA]</td></tr><tr><td> 47</td><td>Morrison, Mark C [USA]</td><td>vs.</td><td>Nostrant, Jayme J [USA]</td></tr><tr><td> 48</td><td>Shunta, Cameron Y [USA]</td><td>vs.</td><td>Swift, Orry [USA]</td></tr><tr><td> 49</td><td>Coqueiro, Rafael S [BRA]</td><td>vs.</td><td>Acerra, A J [USA]</td></tr><tr><td> 50</td><td>Hilty, Jacob [USA]</td><td>vs.</td><td>Karls, Samuel [USA]</td></tr><tr><td> 51</td><td>Yang, Duane [USA]</td><td>vs.</td><td>Black, Samuel H [USA]</td></tr><tr><td> 52</td><td>Winokur, Ben [CAN]</td><td>vs.</td><td>Ellis, Thomas [USA]</td></tr><tr><td> 53</td><td>Rudolph, David [USA]</td><td>vs.</td><td>Zhang, Peter [USA]</td></tr><tr><td> 54</td><td>Boggemes, Stephen [USA]</td><td>vs.</td><td>Cowles, Mitch [USA]</td></tr><tr><td> 55</td><td>Beldon, Omar [CAN]</td><td>vs.</td><td>Schofield, Graham [USA]</td></tr><tr><td> 56</td><td>Wilson, Jacob A [USA]</td><td>vs.</td><td>Khare, Anand [USA]</td></tr><tr><td> 57</td><td>Lusted, Mark A [CAN]</td><td>vs.</td><td>Ochoa, David [USA]</td></tr><tr><td> 58</td><td>Bilz, Dean [USA]</td><td>vs.</td><td>Tabler, Michael [USA]</td></tr><tr><td> 59</td><td>Severa, Matt J [USA]</td><td>vs.</td><td>Wolloch, Sam A [USA]</td></tr><tr><td> 60</td><td>Anctil, Kevin [CAN]</td><td>vs.</td><td>Southworth, Jason [USA]</td></tr><tr><td> 61</td><td>Bianchi, Alex [USA]</td><td>vs.</td><td>Davis, Todd R [USA]</td></tr><tr><td> 62</td><td>Falcioni, Matt [USA]</td><td>vs.</td><td>Rasmussen, Matt D [USA]</td></tr><tr><td> 63</td><td>wetzel, bronson [USA]</td><td>vs.</td><td>Desotelle, Dwight [USA]</td></tr><tr><td> 64</td><td>Scalco, Joseph [USA]</td><td>vs.</td><td>Ruggles, Randall [USA]</td></tr><tr><td> 65</td><td>McIelwain, Glenn T [CAN]</td><td>vs.</td><td>Flink, Chris [USA]</td></tr><tr><td> 66</td><td>Hoogland, Jeff [USA]</td><td>vs.</td><td>Michiels, Tony [USA]</td></tr><tr><td> 67</td><td>Welbes, Josef [USA]</td><td>vs.</td><td>Gareau, Philippe [CAN]</td></tr><tr><td> 68</td><td>Rill, Eric T [USA]</td><td>vs.</td><td>Perry, Ben M [USA]</td></tr><tr><td> 69</td><td>Lanigan, Mike [USA]</td><td>vs.</td><td>Weyersberg, Roger [USA]</td></tr><tr><td> 70</td><td>RAI, SIMRIT S [CAN]</td><td>vs.</td><td>ZVIP Hoose, Maxwell [USA]</td></tr><tr><td> 71</td><td>Dove, Steven [CAN]</td><td>vs.</td><td>Friedman, Ben S [USA]</td></tr><tr><td> 72</td><td>Kenjar, Jason [USA]</td><td>vs.</td><td>D'Agostino, Jaime [USA]</td></tr><tr><td> 73</td><td>Haas, Kennen [USA]</td><td>vs.</td><td>McGrain, Peter [USA]</td></tr><tr><td> 74</td><td>Brokmeier, Steve [USA]</td><td>vs.</td><td>Milutinovic, Charles [USA]</td></tr><tr><td> 75</td><td>Muir, Scott D [USA]</td><td>vs.</td><td>Gibson, Kevin [USA]</td></tr><tr><td> 76</td><td>Betesh, Ralph [USA]</td><td>vs.</td><td>Zell, Susan [USA]</td></tr><tr><td>&#10;					</td><td>Manley, Theodore [USA]</td><td>&#10;					</td><td>* BYE *</td></tr></tbody></table>

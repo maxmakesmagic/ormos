@@ -1,0 +1,48 @@
+---
+id: tn682c8v
+kind: event
+lang: lat
+path: /lat/events/2005/gposaka05/live-coverage-of-2005-grand-prix-osaka-3
+title: Live Coverage of 2005 Grand Prix Osaka
+published: null
+column_slug: null
+column: null
+authors: []
+event_code: gposaka05
+detected_lang: lat
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/gposaka05/pair10
+    lang_detected: lat
+    capture_id: 1056147
+    url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gposaka05/pair10
+    captured_at: '2013-06-26 13:59:57+00'
+    rule: aspx.article_heading
+  event_code:
+    page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/gposaka05/pair10
+    lang_detected: lat
+    capture_id: 1056147
+    url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gposaka05/pair10
+    captured_at: '2013-06-26 13:59:57+00'
+    rule: url.event_code
+sources:
+- document_id: tn682c8v
+  url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gposaka05/pair10
+  page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/gposaka05/pair10
+  lang: lat
+  template: aspx
+  captured_at: '2013-06-26 13:59:57+00'
+  capture_id: 1056147
+  wayback_url: https://web.archive.org/web/20130626135957id_/https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gposaka05/pair10
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: tn682c8v
+  capture_id: 1056147
+  url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gposaka05/pair10
+  wayback_url: https://web.archive.org/web/20130626135957id_/https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gposaka05/pair10
+  captured_at: '2013-06-26 13:59:57+00'
+  template: aspx
+  sha256: 3a9478f770114e03a08ea1764c3510d699772b40ed349da3af3c5b283e512750
+render_recovery: []
+---
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130626135957/https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gposaka05/pair10">&#10;        <b>Team</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130626135957/https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gposaka05/pair10">&#10;        <b>Points</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130626135957/https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gposaka05/pair10">&#10;        <b>&#10;      </b></a><b>&#10;    </b></td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130626135957/https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gposaka05/pair10">&#10;        <b>Opponent</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130626135957/https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gposaka05/pair10">&#10;        <b>Points</b>&#10;      </a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td> 1</td>&#10;    <td>P.S.2</td>&#10;    <td>25</td>&#10;    <td>vs</td>&#10;    <td>Gatas Brilhantes</td>&#10;    <td>22</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 2</td>&#10;    <td>FireBall.Pros</td>&#10;    <td>24</td>&#10;    <td>vs</td>&#10;    <td>Asayan</td>&#10;    <td>22</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 3</td>&#10;    <td>One Spin</td>&#10;    <td>22</td>&#10;    <td>vs</td>&#10;    <td>Sikasenbei</td>&#10;    <td>22</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 4</td>&#10;    <td>Triple Mulligan</td>&#10;    <td>21</td>&#10;    <td>vs</td>&#10;    <td>comming out</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 5</td>&#10;    <td>Hana Takkadaka</td>&#10;    <td>19</td>&#10;    <td>vs</td>&#10;    <td>TeamGongstaHaircut</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 6</td>&#10;    <td>Z3P-One</td>&#10;    <td>19</td>&#10;    <td>vs</td>&#10;    <td>Team Civastar Mk2</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 7</td>&#10;    <td>Ton_Toro Demon</td>&#10;    <td>19</td>&#10;    <td>vs</td>&#10;    <td>Genius Mammoth</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 8</td>&#10;    <td>Sigagaga</td>&#10;    <td>19</td>&#10;    <td>vs</td>&#10;    <td>Jingisukan</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 9</td>&#10;    <td>Maguro</td>&#10;    <td>18</td>&#10;    <td>vs</td>&#10;    <td>Nekoyan.net/ayaueto.htm</td>&#10;    <td>16</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 10</td>&#10;    <td>Kyh</td>&#10;    <td>16</td>&#10;    <td>vs</td>&#10;    <td>Tochigi Magic Network</td>&#10;    <td>16</td>&#10;  </tr>&#10;</tbody></table>

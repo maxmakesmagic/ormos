@@ -1,0 +1,55 @@
+---
+id: 9jazn17n
+kind: event
+lang: nob
+path: /nob/events/2005/vintage05/2005-vintage-championship-5
+title: 2005 Vintage Championship
+published: '2005-08-29'
+column_slug: null
+column: null
+authors: []
+event_code: vintage05
+detected_lang: nob
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/vintage05/res05
+    lang_detected: nob
+    capture_id: 1138592
+    url: http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/vintage05/res05
+    captured_at: '2014-03-13 05:02:18+00'
+    rule: aspx.article_heading
+  published:
+    page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/vintage05/res05
+    lang_detected: nob
+    capture_id: 1138592
+    url: http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/vintage05/res05
+    captured_at: '2014-03-13 05:02:18+00'
+    rule: aspx.byline_date
+  event_code:
+    page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/vintage05/res05
+    lang_detected: nob
+    capture_id: 1138592
+    url: http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/vintage05/res05
+    captured_at: '2014-03-13 05:02:18+00'
+    rule: url.event_code
+sources:
+- document_id: 9jazn17n
+  url: http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/vintage05/res05
+  page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/vintage05/res05
+  lang: nob
+  template: aspx
+  captured_at: '2014-03-13 05:02:18+00'
+  capture_id: 1138592
+  wayback_url: https://web.archive.org/web/20140313050218id_/http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/vintage05/res05
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 9jazn17n
+  capture_id: 1138592
+  url: http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/vintage05/res05
+  wayback_url: https://web.archive.org/web/20140313050218id_/http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/vintage05/res05
+  captured_at: '2014-03-13 05:02:18+00'
+  template: aspx
+  sha256: 08e4350b17b7ecd815c2e6a43776abc81d97085db4644a3c518d87b7d0851e3e
+render_recovery: []
+---
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <a href="/nob/events/2005/vintage05/2005-vintage-championship-5">&#10;        <b>Table</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/nob/events/2005/vintage05/2005-vintage-championship-5">&#10;        <b>Player</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/nob/events/2005/vintage05/2005-vintage-championship-5">&#10;        <b>Result</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/nob/events/2005/vintage05/2005-vintage-championship-5">&#10;        <b>&#10;      </b></a><b>&#10;    </b></td>&#10;    <td>&#10;      <a href="/nob/events/2005/vintage05/2005-vintage-championship-5">&#10;        <b>Opponent</b>&#10;      </a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td> 1</td>&#10;    <td>Demars, Brian m</td>&#10;    <td>Lost 1-2</td>&#10;    <td>vs.</td>&#10;    <td>Walli, Kurt</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 2</td>&#10;    <td>Simon, Hale</td>&#10;    <td>Won 2-0</td>&#10;    <td>vs.</td>&#10;    <td>Allen, Benjamin M</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 3</td>&#10;    <td>Endress, Mat</td>&#10;    <td>Won 2-0</td>&#10;    <td>vs.</td>&#10;    <td>Rayden, Josh C</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 4</td>&#10;    <td>Chitturi, Ashok</td>&#10;    <td>Won 2-0</td>&#10;    <td>vs.</td>&#10;    <td>Conedera, Giovanni</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 5</td>&#10;    <td>Titterud, Patrick</td>&#10;    <td>Won 2-0</td>&#10;    <td>vs.</td>&#10;    <td>Schmidt, Dan J</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 6</td>&#10;    <td>Célien, Berthold</td>&#10;    <td>Drew 1-1-1</td>&#10;    <td>vs.</td>&#10;    <td>Morrison, Matthew J</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 7</td>&#10;    <td>Viciani, Stefano</td>&#10;    <td>Won 2-0</td>&#10;    <td>vs.</td>&#10;    <td>Leidle, Robert F</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 8</td>&#10;    <td>Gunnink, Michael L</td>&#10;    <td>Drew 1-1</td>&#10;    <td>vs.</td>&#10;    <td>leith, kyle</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 9</td>&#10;    <td>probasco, andrew</td>&#10;    <td>Won 2-1</td>&#10;    <td>vs.</td>&#10;    <td>Blyden, Jeffrey L</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 10</td>&#10;    <td>Des Jardins, Dusty J</td>&#10;    <td>Won 2-1</td>&#10;    <td>vs.</td>&#10;    <td>McDaniel, Chris T</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 11</td>&#10;    <td>Rogers, Tony</td>&#10;    <td>Lost 0-2</td>&#10;    <td>vs.</td>&#10;    <td>Yu, Bob</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 12</td>&#10;    <td>Seaborn, Craig</td>&#10;    <td>Won 2-0</td>&#10;    <td>vs.</td>&#10;    <td>Shay, Richard J</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 13</td>&#10;    <td>Poltorak, Darren L</td>&#10;    <td>Lost 1-2</td>&#10;    <td>vs.</td>&#10;    <td>Cron, Kevin N</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 14</td>&#10;    <td>Menendian, Stephen M</td>&#10;    <td>Lost 1-2</td>&#10;    <td>vs.</td>&#10;    <td>Alvarez, Joshua R</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 15</td>&#10;    <td>Lydon, Michael S</td>&#10;    <td>Won 2-1</td>&#10;    <td>vs.</td>&#10;    <td>Fedeli, Lorenzo</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 16</td>&#10;    <td>Escribano, Alejandro</td>&#10;    <td>Won 2-0</td>&#10;    <td>vs.</td>&#10;    <td>Delorme, Adam</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 17</td>&#10;    <td>Fisher, Bryan</td>&#10;    <td>Lost 0-2</td>&#10;    <td>vs.</td>&#10;    <td>Chang, Roland K</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 18</td>&#10;    <td>Taylor, Kris W</td>&#10;    <td>Lost 0-2</td>&#10;    <td>vs.</td>&#10;    <td>Frankelin, Joshua</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 19</td>&#10;    <td>Rogers, Philip T</td>&#10;    <td>Lost 0-2</td>&#10;    <td>vs.</td>&#10;    <td>Pearce, Pat J</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 20</td>&#10;    <td>Bomholt, Mike</td>&#10;    <td>Lost 0-2</td>&#10;    <td>vs.</td>&#10;    <td>Bongiovanni, Mauro</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 21</td>&#10;    <td>Spires, Roy R</td>&#10;    <td>Won 2-1</td>&#10;    <td>vs.</td>&#10;    <td>Domschot, Nick</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 22</td>&#10;    <td>Phelps, James C</td>&#10;    <td>Lost 0-2</td>&#10;    <td>vs.</td>&#10;    <td>Christopher, Lou</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 23</td>&#10;    <td>Russell, Ben</td>&#10;    <td>Won 2-0</td>&#10;    <td>vs.</td>&#10;    <td>Gouthro, Michael</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 24</td>&#10;    <td>Vroman, Robert</td>&#10;    <td>Won 2-1</td>&#10;    <td>vs.</td>&#10;    <td>Brewer, Christopher A</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 25</td>&#10;    <td>Mahannah, Bob L</td>&#10;    <td>Lost 0-2</td>&#10;    <td>vs.</td>&#10;    <td>Cooper, Simon W</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 26</td>&#10;    <td>hazard, matt</td>&#10;    <td>Lost 0-1-1</td>&#10;    <td>vs.</td>&#10;    <td>Hustad, Jake R</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 27</td>&#10;    <td>Droba, Justin C</td>&#10;    <td>Lost 0-2</td>&#10;    <td>vs.</td>&#10;    <td>Gable, Zach J</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 28</td>&#10;    <td>Becker, Eric</td>&#10;    <td>Lost 0-2</td>&#10;    <td>vs.</td>&#10;    <td>Patterson, Robbie D</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 29</td>&#10;    <td>Rakovich, Stephen W</td>&#10;    <td>Won 2-0</td>&#10;    <td>vs.</td>&#10;    <td>Bell, Max s</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 30</td>&#10;    <td>Equils, Doug J</td>&#10;    <td>Won 2-0</td>&#10;    <td>vs.</td>&#10;    <td>Schmitt, Philip</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 31</td>&#10;    <td>Rottmann, Heinz</td>&#10;    <td>Lost 0-2</td>&#10;    <td>vs.</td>&#10;    <td>Skiest, Steve M</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 32</td>&#10;    <td>brauer, joel</td>&#10;    <td>Won 2-1</td>&#10;    <td>vs.</td>&#10;    <td>Lick, Michael J</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 33</td>&#10;    <td>Smith, Jason E.</td>&#10;    <td>Won 2-1</td>&#10;    <td>vs.</td>&#10;    <td>Raven, Rob</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 34</td>&#10;    <td>Dietsche, Nathan R.</td>&#10;    <td>Drew 1-1-1</td>&#10;    <td>vs.</td>&#10;    <td>DeGraff, Ian S</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 35</td>&#10;    <td>Limoges, Scott</td>&#10;    <td>Won 2-0</td>&#10;    <td>vs.</td>&#10;    <td>Higley, Tony</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 36</td>&#10;    <td>Brewer, Kevin F</td>&#10;    <td>Won 2-0</td>&#10;    <td>vs.</td>&#10;    <td>Skimehorn, Ryan L</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 37</td>&#10;    <td>Mayrand, Ryan A</td>&#10;    <td>Won 2-0</td>&#10;    <td>vs.</td>&#10;    <td>myers, seth</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 38</td>&#10;    <td>Gable, Heather</td>&#10;    <td>Lost 1-2</td>&#10;    <td>vs.</td>&#10;    <td>Folk, Anthony</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 39</td>&#10;    <td>Kiernan, Jason M</td>&#10;    <td>Lost 1-2</td>&#10;    <td>vs.</td>&#10;    <td>Hauf, Bryan W</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 40</td>&#10;    <td>Harris, Steven C</td>&#10;    <td>Won 2-0</td>&#10;    <td>vs.</td>&#10;    <td>Payne, Mike</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 41</td>&#10;    <td>timm, brandon</td>&#10;    <td>Won 2-0</td>&#10;    <td>vs.</td>&#10;    <td>Harris, Malcome</td>&#10;  </tr>&#10;</tbody></table>

@@ -1,0 +1,107 @@
+---
+id: dkaa5sch
+kind: event
+lang: en
+path: /en/events/2007/worlds07/dkaa5sch
+title: マジック：ザ・ギャザリング世界選手権へようこそ！
+published: null
+column_slug: null
+column: null
+authors: []
+event_code: worlds07
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/worlds07/japan
+    lang_detected: en
+    capture_id: 1148895
+    url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/worlds07/japan
+    captured_at: '2013-06-29 09:24:21+00'
+    rule: aspx.article_heading
+  event_code:
+    page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/worlds07/japan
+    lang_detected: en
+    capture_id: 1148895
+    url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/worlds07/japan
+    captured_at: '2013-06-29 09:24:21+00'
+    rule: url.event_code
+sources:
+- document_id: dkaa5sch
+  url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/worlds07/japan
+  page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/worlds07/japan
+  lang: en
+  template: aspx
+  captured_at: '2013-06-29 09:24:21+00'
+  capture_id: 1148895
+  wayback_url: https://web.archive.org/web/20130629092421id_/https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/worlds07/japan
+- document_id: dkaa5sch
+  url: http://www.wizards.com/default.asp?x=mtgevent/worlds07/japan
+  page_key: wizards.com/default.asp?x=mtgevent/worlds07/japan
+  lang: en
+  template: classic_asp
+  captured_at: '2008-06-17 02:08:31+00'
+  capture_id: 2125477
+  wayback_url: https://web.archive.org/web/20080617020831id_/http://www.wizards.com/default.asp?x=mtgevent/worlds07/japan
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: dkaa5sch
+  capture_id: 1148895
+  url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/worlds07/japan
+  wayback_url: https://web.archive.org/web/20130629092421id_/https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/worlds07/japan
+  captured_at: '2013-06-29 09:24:21+00'
+  template: aspx
+  sha256: 5dad6967afeb57f5ab09a13dfb0e4c1d8e1b32f7101e80dde80bb574dc8d6748
+render_recovery:
+- code: unsupported_embedded_media
+  element: object
+  target: http://www.youtube.com/v/d1CXgvMN3e0
+  reason: The preview omitted this legacy embedded object.
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: javascript:void()
+  reason: The link uses a JavaScript placeholder. The preview kept any visible label.
+  labels:
+  - Doran, the Siege Tower
+  - Boggart Sprite-Chaser
+  occurrences: 2
+---
+![](https://i.ormos.uk/57/3b/573b96174e807fc4ee2f963fb13aaf013449cb62b69835266695a5ab0eb4fcaa.jpg)
+
+<table><tbody><tr><td>&#10;<div><b>VIDEO: TOURNAMENT CENTER</b></div></td></tr><tr><td><div>&#10;&#10;</div></td></tr><tr><td><div>&#10;<b>Day Four Wrap-up</b></div><b>Sunday Video:</b>&#10;<li><a href="https://media.ormos.uk/a3/b4/a3b44629a7a78034125cae04013c593ee1131cd192b1c1ba51eedcec2ec2446c.mp4">Finals</a> (179 MB zip)</li>&#10;<li><a href="https://media.ormos.uk/34/73/34730e396ff3eeaf371f29e02eaba3bc1a7b1b6e2a4d010c1a76e8177d2c11cd.mp4">Semifinals</a> (150 MB zip)</li>&#10;&#10;<li><a href="https://media.ormos.uk/ac/08/ac0866c73de5499da62b43a578de5dba3d95c8c544e214b9d06c945b72f6f2f5.mp4">Team Finals</a> (86.7 MB zip)</li>&#10;<li><a href="https://media.ormos.uk/88/99/8899821abe81fe3ab59291ff988261fbffac4fff926c4de41a2e90655873900d.mp4">Awards Ceremony</a> (9 MB zip)</li>&#10;<li><a href="/en/events/2007/worlds07/video-feature-quarterfinal-recaps">Quarterfinal Recaps</a></li>&#10;<br>&#10;<li><a href="/en/events/2007/worlds07/2007-world-championships-video">Worlds 2007 Video Archive</a></li>&#10;<li><a href="http://www.youtube.com/profile?user=wizardsmtg">Magic: The Gathering on YouTube</a></li>&#10;&#10;&#10;&#10;&#10;</td></tr></tbody></table>
+
+  
+  
+
+世界選手権を制したのは、《包囲の搭、ドラン/Doran, the Siege Tower》だった。
+
+スタンダード環境を支配した黒緑エルフというアーキタイプ。ローウィンによって追加されたパワーカードをふんだんに盛り込んだこのデッキ。だが、さらなるパワーカードである《包囲の搭、ドラン》との組み合わせにたどり着いたプレイヤーはほとんどいなかった。
+
+その真理にたどり着いたのはUri Peleg(イスラエル)。マジック不毛の地と考えられていた中東が、ついに表舞台へと出てくる日がきたのだ。
+
+王座は逃したものの、この男の快挙は忘れてはいけない。
+
+斎藤 友晴(東京)は、Player of the Yearを獲得することをシーズンはじめに宣言し、日本人3人目のPlayer of the Yearという奇跡的な偉業を成し遂げたのだ。
+
+たしかに、世界王者のタイトルもふまえ、今シーズン、日本勢はタイトルを獲得できなかった。だが、すべてのプロツアーでトップ8にプレイヤーを送り出し安定した実力を見せつけてきたのだ。斎藤のこの快挙がその象徴的な出来事であることは間違いないだろう。
+
+双頭巨人戦の練習を積んできたスイス代表が国別対抗戦を制した事とあわせ、新勢力の台頭がキーワードとなった今回の世界選手権。
+
+Rookie of the Yearに輝いた渡辺 雄也(神奈川)が、Pelegと並んで、新しい世代の幕開けを担っていくことだろう。
+
+[2007年度日本代表チーム](/ja/events/2007/jpnat07ja/champs-fall-rookies-rise-in-japan#10)
+
+  
+
+<table><tbody><tr><td></td><td>Quarterfinals </td><td> </td><td>Semifinals </td><td> </td><td>Finals </td><td> </td><td>Champion </td></tr><tr><td>1</td><td>Christoph Huber</td><td rowspan="2"> </td><td rowspan="2">Koutarou Otsuka, 3-1</td><td> </td><td> </td><td rowspan="3"> </td><td rowspan="3"> </td></tr><tr><td>8</td><td>Koutarou Otsuka</td><td rowspan="3"> </td><td rowspan="3">Uri Peleg, 3-1</td></tr><tr><td> </td><td> </td><td> </td><td> </td></tr><tr><td>4</td><td>Katsuhiro Mori</td><td rowspan="2"> </td><td rowspan="2">Uri Peleg, 3-0</td><td rowspan="5"> </td><td rowspan="5">Uri Peleg, 3-1</td></tr><tr><td>5</td><td>Uri Peleg</td><td rowspan="3"> </td><td rowspan="3"> </td></tr><tr><td> </td><td> </td><td> </td><td> </td></tr><tr><td>2</td><td>Gabriel Nassif</td><td rowspan="2"> </td><td rowspan="2">Gabriel Nassif, 3-1</td></tr><tr><td>7</td><td>Roel van Heeswijk</td><td rowspan="3"> </td><td rowspan="3">Patrick Chapin, 3-2</td></tr><tr><td> </td><td> </td><td> </td><td> </td></tr><tr><td>3</td><td>Yoshitaka Nakano</td><td rowspan="2"> </td><td rowspan="2">Patrick Chapin, 3-2</td></tr><tr><td>6</td><td>Patrick Chapin</td><td> </td><td> </td></tr></tbody></table>
+
+  
+
+### National Team Finals
+
+<table><tbody><tr><td>1</td><td>Team Switzerland</td><td rowspan="2"></td><td rowspan="2">Team Switzerland wins 2-0 </td></tr><tr><td>2</td><td>Team Austria</td></tr></tbody></table>
+
+  
+  
+
+<table><tbody><tr><td><b>観戦記事</b></td><td><b>ベスト8最終順位</b></td></tr><tr><td><ul><br><li><a href="/en/events/2007/worlds07/top-standard-decks-3">Decklists</a>: Top Standard Decklists<br><div><i>By Event Coverage Staff</i></div></li><li><a href="/en/events/2007/worlds07/top-legacy-decks">Decklists</a>: Top Legacy Decklists<br><div><i>By Event Coverage Staff</i></div></li><li><a href="/ja/events/2007/worlds07/patrick-chapin-vs-uri-peleg">9:21 p.m.</a> – 決勝戦: Patrick Chapin(アメリカ) vs. Uri Peleg(イスラエル)<div><i>by Daisuke Kawasaki</i></div></li><li><a href="/en/events/2007/worlds07/vs-uri-peleg">9:00 p.m.</a> – 準決勝:　大塚　高太郎（神奈川） vs. Uri Peleg(イスラエル)<div><i>by Shuhei Nakamura</i></div></li><li><a href="/ja/events/2007/worlds07/patrick-chapin-vs-gabriel-nassif">8:55 p.m.</a> – 準決勝: Patrick Chapin(アメリカ) vs. Gabriel Nassif(フランス) <div><i>by Daisuke Kawasaki</i></div></li><li><a href="/ja/events/2007/worlds07/rookie-of-the-year-2007">8:17 p.m.</a> – Feature : Rookie of the Year 2007 ― 渡辺 雄也(神奈川) <div><i>by Keita Mori</i></div></li><li><a href="/ja/events/2007/worlds07/photo-essay-craig-in-new-york">7:07 p.m.</a> – Photo Essay : 天才 Craig 写真館 in New York <div><i>by Keita Mori and Craig Gibson </i></div></li><li><a href="/ja/events/2007/worlds07/feature-player-of-the-year-2007">4:32 p.m.</a> – Player of the Year 2007 ― 斎藤 友晴(東京) <div><i>by Keita Mori</i></div></li><li><a href="/ja/events/2007/worlds07/vs-patrick-chapin-2">11:22 a.m.</a> – 準々決勝: 森 勝洋(大阪) vs. Uri Peleg(イスラエル) <div><i>by Daisuke Kawasaki</i></div></li><li><a href="/ja/events/2007/worlds07/vs-patrick-chapin">11:11 a.m.</a> – 準々決勝：中野 圭貴(大阪) vs Patrick Chapin(アメリカ) <div><i>by Daisuke Kawasaki</i></div></li><li><a href="/ja/events/2007/worlds07/vs-christoph-huber">11:10 a.m.</a> – 準々決勝: 大塚 高太郎(神奈川) vs. Christoph Huber(スイス) <div><i>by Keita Mori</i></div></li><hr><li><a href="/en/events/2007/worlds07/top-standard-decks-2">10:10 a.m.</a> – Top Standard Decks <div><i>by Event Coverage Staff </i></div></li><li><a href="/ja/events/2007/worlds07/2007-world-championships-blog-2#11">10:30 p.m.</a> – マジックプレイヤー的休日の過ごし方 <div><i>by Daisuke Kawasaki</i></div></li><li><a href="/ja/events/2007/worlds07/2007-world-championships-blog-2#10">9:33 p.m.</a> – Round 22：オーストリア代表 vs 日本代表 <div><i>by Daisuke Kawasaki</i></div></li><li><a href="/ja/events/2007/worlds07/2007-world-championships-blog-2#9">8:42 p.m.</a> – Round 21: オランダ代表 vs. 日本代表(北山／中田) <div><i>by Keita Mori</i></div></li><li><a href="/ja/events/2007/worlds07/2007-world-championships-blog-2#8">7:21 p.m.</a> – 3rd Draft:Drafting with &quot;GENIUS&quot; <div><i>by Daisuke Kawasaki</i></div></li><li><a href="/ja/events/2007/worlds07/2007-world-championships-blog-2#7">5:43 p.m.</a> – Round 20: チェコスロバキア代表 vs 日本代表 <div><i>by Daisuke Kawasaki</i></div></li><li><a href="/ja/events/2007/worlds07/2007-world-championships-blog-2#6">4:44 p.m.</a> – Legacy: Japanese Secret Tech <div><i>by Daisuke Kawasaki</i></div></li><li><a href="/ja/events/2007/worlds07/2007-world-championships-blog-2#5">3:24 p.m.</a> – Round 19: スイス代表 vs. 日本代表 <div><i>by Keita Mori</i></div></li><li><a href="/ja/events/2007/worlds07/2007-world-championships-blog-2#4">1:44 p.m.</a> – Round 18: イスラエル代表 vs. 日本代表 <div><i>by Keita Mori</i></div></li><li><a href="/ja/events/2007/worlds07/2007-world-championships-blog-2#3">12:15 p.m.</a> – Round 17: スイス代表 vs. 日本代表(北山／秋山) <div><i>by Daisuke Kawasaki</i></div></li><li><a href="/ja/events/2007/worlds07/2007-world-championships-blog-2#2">11:11 a.m.</a> – Round 17: スイス代表 vs. 日本代表(中田／小室) <div><i>by Keita Mori</i></div></li><li><a href="/ja/events/2007/worlds07/2007-world-championships-blog-2#1">11:11 a.m.</a> – 1st Draft: Drafting with National Team Giants <div><i>by Daisuke Kawasaki</i></div></li><hr><li><a href="/en/events/2007/worlds07/2007-world-championships-blog-2#12">10:01 p.m.</a> – 日本勢総括: 予選ラウンドを終えて <div><i>by Keita Mori</i></div></li><li><a href="/en/events/2007/worlds07/2007-world-championships-blog-2#11">9:19 p.m.</a> – Round 16: 森 勝洋(大阪) vs. Jim Herold(ドイツ) <div><i>by Daisuke Kawasaki</i></div></li><li><a href="/en/events/2007/worlds07/2007-world-championships-blog-2#10">9:11 p.m.</a> – Round 16: 三原 槙仁(千葉) vs. 大塚 高太郎(三原) <div><i>by Keita Mori</i></div></li><li><a href="/en/events/2007/worlds07/2007-world-championships-blog-2#9">7:06 p.m.</a> – Round 15: 2人の天才 <div><i>by Daisuke Kawasaki</i></div></li><li><a href="/en/events/2007/worlds07/2007-world-championships-blog-2#8">5:45 p.m.</a> – Round 14: Gabriel Nassif(フランス) vs. Patrick Chapin(アメリカ) <div><i>by Keita Mori</i></div></li><li><a href="/en/events/2007/worlds07/2007-world-championships-blog-2#7">4:44 p.m.</a> – Round 13: 三田村 和弥(千葉) vs. Guillaume Wafo-tapa(フランス) <div><i>by Daisuke Kawasaki</i></div></li><li><a href="/en/events/2007/worlds07/2007-world-championships-blog-2#6">3:33 p.m.</a> – Round 12: 金子 真実(埼玉) vs. 三田村 和弥(千葉) <div><i>by Daisuke Kawasaki</i></div></li><li><a href="/en/events/2007/worlds07/2007-world-championships-blog-2#5">3:45 p.m.</a> – 日本勢総括: ドラフトを終えてレガシーへ <div><i>by Keita Mori</i></div></li><li><a href="/en/events/2007/worlds07/2007-world-championships-blog-2#4">2:22 p.m.</a> – Round 11: Darwin Kastle(アメリカ) vs. Robert Dougherty(アメリカ) <div><i>by Daisuke Kawasaki</i></div></li><li><a href="/en/events/2007/worlds07/2007-world-championships-blog-2#3">1:19 p.m.</a> – Round 10: 三田村 和弥(千葉) vs. Patrick Chapin(アメリカ) <div><i>by By Keita Mori</i></div></li><li><a href="/en/events/2007/worlds07/2007-world-championships-blog-2#2">11:11 a.m.</a> - Round 9: 三原 槙仁(千葉) vs. Mike Hron(アメリカ) <div><i>by Daisuke Kawasaki</i></div></li><li><a href="/en/events/2007/worlds07/2007-world-championships-blog-2#1">10:01 a.m.</a> - 2nd Draft: Drafting with National Champion <div><i>by Daisuke Kawasaki</i></div></li><li><a href="https://web.archive.org/web/20130629092421/http://gatherer.wizards.com/magic/draftools/draftviewer.asp?draftid=12_7_2007">Draft Viewer</a>: Draft 2, Pod 1 <div><i>by Event Coverage Staff</i></div></li><hr><li><a href="/en/events/2007/worlds07/2007-world-championships-blog#13">Blog - 9:00 p.m.</a> - 日本勢総括: 初日8回戦 <div><i>by Keita Mori</i></div></li><li><a href="/en/events/2007/worlds07/2007-world-championships-blog#12">Blog - 8:55 p.m.</a> - 「黒緑エルフ」という選択 <div><i>by Daisuke Kawasaki</i></div></li><li><a href="/en/events/2007/worlds07/2007-world-championships-blog#11">Blog - 8:30 p.m.</a> - 日本代表チームのスタンダードデック選択 <div><i>by Daisuke Kawasaki</i></div></li><li><a href="/en/events/2007/worlds07/2007-world-championships-blog#10">8:22 p.m.</a>・アーキタイプ―《ボガートの妖精追い/<a>Boggart Sprite-Chaser</a>》 <div><i>By Keita Mori</i></div></li><li><a href="/en/events/2007/worlds07/2007-world-championships-blog#9">Blog - 8:18 p.m.</a> - Round 7:　全勝の2人 <div><i>by Daisuke Kawasaki</i></div></li><li><a href="/en/events/2007/worlds07/2007-world-championships-blog#8">Blog - 7:28 p.m.</a> - Round 6: 三田村 和弥(千葉) vs. Chris Lachmann(アメリカ) <div><i>by Keita Mori</i></div></li><li><a href="/en/events/2007/worlds07/2007-world-championships-blog#7">Blog - 6:09 p.m.</a> - 1st Draft Report: Drafting with “SKIRGE” <div><i>by Daisuke Kawasaki</i></div></li><li><a href="https://web.archive.org/web/20130629092421/http://gatherer.wizards.com/magic/draftools/draftviewer.asp?draftid=12_6_2007">Draft Viewer</a>: Lorwyn Draft 1, Pod 1 <div><i>by Event Coverage Staff</i></div></li><li><a href="/en/events/2007/worlds07/undefeated-standard-decks">Decklists</a>: Undefeated Standard Decks <div><i>by Event Coverage Staff</i></div></li><li><a href="/en/events/2007/worlds07/2007-world-championships-blog#6">Blog - 5:55 p.m.</a>： 日本勢総括: スタンダード5回戦 <div><i>by Keita Mori</i></div></li><li><a href="/en/events/2007/worlds07/2007-world-championships-blog#5">Blog - 4:44 p.m.</a>： Round 5: 限界突破 <div><i>by Daisuke Kawasaki</i></div></li><li><a href="/en/events/2007/worlds07/2007-world-championships-blog#4">Blog - 3:33 p.m.</a>： Round 3: Robert Dougherty(アメリカ) vs. Raphael Levy(フランス) <div><i>by Keita Mori</i></div></li><li><a href="/en/events/2007/worlds07/2007-world-championships-blog#3">Blog - 12:34 p.m.</a>： Round 2: 鍛冶 友浩(埼玉)　vs.　Remi Fortier(フランス) <div><i>by Daisuke Kawasaki</i></div></li><li><a href="/en/events/2007/worlds07/2007-world-championships-blog#2">Blog - 11:11 a.m.</a>： Round 1： 殿堂プレイヤーたちのマッチアップ <div><i>by Daisuke Kawasaki</i></div></li><li><a href="/en/events/2007/worlds07/2007-world-championships-blog#1">Blog - 10:12 a.m.</a>: 日本勢のスタンダードデッキ選択 <div><i>by Keita Mori</i></div></li><li><a href="https://web.archive.org/web/20130624130340/https://www.wizards.com/Magic/Magazine/Article.aspx?x=events/magic/worlds">Info</a>: Fact Sheet <div><i>by Event Coverage Staff</i></div></li></ul></td><td colspan="2">&#10; <table><tbody><tr><td> 1.  <b>Uri Peleg*</b></td><td>$40,000 </td></tr><tr><td> 2.  <b>Patrick Chapin</b></td><td>$22,000 </td></tr><tr><td> 3.  <b>Gabriel Nassif</b></td><td>$15,000 </td></tr><tr><td> 4.  <b>Kotaro Otsuka</b></td><td>$14,000 </td></tr><tr><td> 5.  <b>Christoph Huber*</b></td><td>$11,000</td></tr><tr><td> 6.  <b>Yoshitaka Nakano</b></td><td>$10,000</td></tr><tr><td> 7.  <b>Katsuhiro Mori</b></td><td>$9,000 </td></tr><tr><td> 8.  <b>Roel van Heeswijk*</b></td><td>$8,000 </td></tr><tr><td>*Does not include Team Prize Money</td></tr></tbody></table>&#10;&#10;<table><tbody><tr><td><b>Pairings</b></td><td><b>Results</b></td><td><b>Standings</b></td><td><b>Standings (Team)</b></td></tr><tr><td></td><td></td><td><a href="/it/events/2007/worlds07/final-standings">Final</a></td><td></td></tr><tr>&#10;<td>&#10;&#10;<a href="/lat/events/2007/worlds07/round-22-pairings">22</a><br>&#10;<a href="/lat/events/2007/worlds07/round-21-pairings">21</a><br>&#10;<a href="/lat/events/2007/worlds07/round-20-pairings">20</a><br>&#10;<a href="/lat/events/2007/worlds07/round-19-pairings">19</a><br>&#10;<a href="/lat/events/2007/worlds07/round-18-pairings">18</a><br>&#10;<a href="/lat/events/2007/worlds07/round-17-pairings">17</a><br></td>&#10;&#10;<td>&#10;&#10;<a href="/en/events/2007/worlds07/round-22-results">22</a><br>&#10;<a href="/lat/events/2007/worlds07/round-21-results">21</a><br>&#10;<a href="/en/events/2007/worlds07/round-20-results">20</a><br>&#10;<a href="/lat/events/2007/worlds07/round-19-results">19</a><br>&#10;<a href="/en/events/2007/worlds07/round-18-results">18</a><br>&#10;<a href="/en/events/2007/worlds07/round-17-results">17</a><br></td>&#10;&#10;&#10;<td>&#10; <br>&#10; <br>&#10; <br>&#10; <br>&#10; <br>&#10; <br></td>&#10;&#10;&#10;<td>&#10;<a href="/en/events/2007/worlds07/round-22-team-standings">22</a><br>&#10;<a href="/en/events/2007/worlds07/round-21-team-standings">21</a><br>&#10;<a href="/en/events/2007/worlds07/round-20-team-standings">20</a><br>&#10;<a href="/en/events/2007/worlds07/round-19-team-standings">19</a><br>&#10;<a href="/en/events/2007/worlds07/round-18-team-standings">18</a><br>&#10;<a href="/en/events/2007/worlds07/round-17-team-standings">17</a><br></td></tr><tr>&#10;<td>&#10;&#10;<a href="/it/events/2007/worlds07/round-16-pairings">16</a><br>&#10;<a href="/it/events/2007/worlds07/round-15-pairings">15</a><br>&#10;<a href="/it/events/2007/worlds07/round-14-pairings">14</a><br>&#10;<a href="/it/events/2007/worlds07/round-13-pairings">13</a><br>&#10;<a href="/it/events/2007/worlds07/round-12-pairings">12</a><br>&#10;<a href="/it/events/2007/worlds07/round-11-pairings">11</a><br>&#10;<a href="/it/events/2007/worlds07/round-10-pairings">10</a><br>&#10;<a href="/it/events/2007/worlds07/round-9-pairings">9</a><br></td>&#10;&#10;<td>&#10;&#10;<a href="/it/events/2007/worlds07/round-16-results">16</a><br>&#10;<a href="/it/events/2007/worlds07/round-15-results">15</a><br>&#10;<a href="/it/events/2007/worlds07/round-14-results">14</a><br>&#10;<a href="/it/events/2007/worlds07/round-13-results">13</a><br>&#10;<a href="/it/events/2007/worlds07/round-12-results">12</a><br>&#10;<a href="/it/events/2007/worlds07/round-11-results">11</a><br>&#10;<a href="/it/events/2007/worlds07/round-10-results">10</a><br>&#10;<a href="/it/events/2007/worlds07/round-9-results">9</a><br></td>&#10;&#10;<td>&#10;&#10;<a href="/it/events/2007/worlds07/round-16-standings">16</a><br>&#10;<a href="/it/events/2007/worlds07/round-15-standings">15</a><br>&#10;<a href="/it/events/2007/worlds07/round-14-standings">14</a><br>&#10;<a href="/it/events/2007/worlds07/round-13-standings">13</a><br>&#10;<a href="/it/events/2007/worlds07/round-12-standings">12</a><br>&#10;<a href="/it/events/2007/worlds07/round-11-standings">11</a><br>&#10;<a href="/it/events/2007/worlds07/round-10-standings">10</a><br>&#10;<a href="/it/events/2007/worlds07/round-9-standings">9</a><br></td>&#10;&#10;<td>&#10;&#10;<a href="/en/events/2007/worlds07/round-16-team-standings">16</a><br>&#10;<a href="/en/events/2007/worlds07/round-15-team-standings">15</a><br>&#10;<a href="/en/events/2007/worlds07/round-14-team-standings">14</a><br>&#10;<a href="/en/events/2007/worlds07/round-13-team-standings">13</a><br>&#10;<a href="/en/events/2007/worlds07/round-12-team-standings">12</a><br>&#10;<a href="/en/events/2007/worlds07/round-11-team-standings">11</a><br>&#10;10<br>&#10;<a href="/en/events/2007/worlds07/round-9-team-standings">9</a><br>&#10;</td></tr><tr>&#10;<td>&#10;&#10;<a href="/it/events/2007/worlds07/round-8-pairings">8</a><br>&#10;<a href="/it/events/2007/worlds07/round-7-pairings">7</a><br>&#10;<a href="/it/events/2007/worlds07/round-6-pairings">6</a><br>&#10;<a href="/it/events/2007/worlds07/round-5-pairings">5</a><br>&#10;<a href="/it/events/2007/worlds07/round-4-pairings">4</a><br>&#10;<a href="/it/events/2007/worlds07/round-3-pairings">3</a><br>&#10;<a href="/it/events/2007/worlds07/round-2-pairings">2</a><br>&#10;<a href="/it/events/2007/worlds07/round-1-pairings">1</a></td>&#10;&#10;&#10;<td>&#10;&#10;<a href="/it/events/2007/worlds07/round-8-results">8</a><br>&#10;<a href="/it/events/2007/worlds07/round-7-results">7</a><br>&#10;<a href="/it/events/2007/worlds07/round-6-results">6</a><br>&#10;<a href="/it/events/2007/worlds07/round-5-results">5</a><br>&#10;<a href="/es/events/2007/worlds07/round-4-results">4</a><br>&#10;<a href="/es/events/2007/worlds07/round-3-results">3</a><br>&#10;<a href="/es/events/2007/worlds07/round-2-results">2</a><br>&#10;<a href="/es/events/2007/worlds07/round-1-results">1</a></td>&#10;&#10;&#10;<td>&#10;&#10;<a href="/it/events/2007/worlds07/round-8-standings">8</a><br>&#10;<a href="/it/events/2007/worlds07/round-7-standings">7</a><br>&#10;<a href="/it/events/2007/worlds07/round-6-standings">6</a><br>&#10;<a href="/it/events/2007/worlds07/round-5-standings">5</a><br>&#10;<a href="/it/events/2007/worlds07/round-4-standings">4</a><br>&#10;<a href="/it/events/2007/worlds07/round-3-standings">3</a><br>&#10;<a href="/it/events/2007/worlds07/round-2-standings">2</a><br>&#10;<a href="/it/events/2007/worlds07/round-1-standings">1</a></td>&#10;&#10;&#10;<td>&#10;&#10;<a href="/en/events/2007/worlds07/round-8-team-standings">8</a><br>&#10;<a href="/en/events/2007/worlds07/round-7-team-standings">7</a><br>&#10;<a href="/en/events/2007/worlds07/round-6-team-standings">6</a><br>&#10;<a href="/en/events/2007/worlds07/round-5-team-standings">5</a><br>&#10;<a href="/en/events/2007/worlds07/round-4-team-standings">4</a><br>&#10;<a href="/en/events/2007/worlds07/round-3-team-standings">3</a><br>&#10;2<br>&#10;1</td></tr></tbody></table>	&#10;&#10;&#10;&#10;</td></tr></tbody></table>

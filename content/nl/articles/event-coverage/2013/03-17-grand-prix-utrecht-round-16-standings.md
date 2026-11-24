@@ -1,0 +1,47 @@
+---
+id: 6xtthtcx
+kind: event
+lang: nl
+path: /nl/articles/event-coverage/2013/03-17-grand-prix-utrecht-round-16-standings
+title: Grand Prix Utrecht Round 16 Standings
+published: '2013-03-17'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: nl
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-utrecht-round-16-standings-2013-03-17
+    lang_detected: nl
+    capture_id: 433818
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-utrecht-round-16-standings-2013-03-17
+    captured_at: '2022-06-28 03:14:23+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-utrecht-round-16-standings-2013-03-17
+    lang_detected: nl
+    capture_id: 433818
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-utrecht-round-16-standings-2013-03-17
+    captured_at: '2022-06-28 03:14:23+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: 6xtthtcx
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-utrecht-round-16-standings-2013-03-17
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-utrecht-round-16-standings-2013-03-17
+  lang: nl
+  template: drupal
+  captured_at: '2022-06-28 03:14:23+00'
+  capture_id: 433818
+  wayback_url: https://web.archive.org/web/20220628031423id_/https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-utrecht-round-16-standings-2013-03-17
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 6xtthtcx
+  capture_id: 433818
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-utrecht-round-16-standings-2013-03-17
+  wayback_url: https://web.archive.org/web/20220628031423id_/https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-utrecht-round-16-standings-2013-03-17
+  captured_at: '2022-06-28 03:14:23+00'
+  template: drupal
+  sha256: bcc055bbb7c3a5d4e750236ea38ca27c37a416a5f97a6c2d16708fa9c32c0c1e
+render_recovery: []
+---
+<table><tbody><tr><td><b>Rank</b></td><td><b>Team</b></td><td><b>Points</b></td><td><b>OMW%</b></td></tr><tr><td> 1 </td><td>Westling/Bergström/Carlsson</td><td> 42</td><td>73.0159%</td></tr><tr><td> 2 </td><td>Radloff/Kraft/Zimmermann</td><td> 42</td><td>44.4444%</td></tr><tr><td> 3 </td><td>Watsfeldt/Magnusson/Larsson</td><td> 40</td><td>63.4921%</td></tr><tr><td> 4 </td><td>Lippi/Estratti/Versari</td><td> 40</td><td>59.5238%</td></tr><tr><td> 5 </td><td>Ortmann/Bode/Wigge</td><td> 39</td><td>61.9048%</td></tr><tr><td> 6 </td><td>Schultze/Severin/Sabel</td><td> 39</td><td>61.9048%</td></tr><tr><td> 7 </td><td>Ziesche/Kroll/Grudowski</td><td> 39</td><td>61.9048%</td></tr><tr><td> 8 </td><td>Lindström/Rachid/Polgary</td><td> 39</td><td>61.4286%</td></tr><tr><td> 9 </td><td>Hansen/Brandt/Dahl</td><td> 39</td><td>57.1429%</td></tr><tr><td> 10 </td><td>Andersen/Larsen/Christensen</td><td> 39</td><td>52.3810%</td></tr><tr><td> 11 </td><td>Enevoldsen/Dang/Levy</td><td> 37</td><td>58.7302%</td></tr><tr><td> 12 </td><td>Ohlhof/Merkel/Schraut</td><td> 37</td><td>53.9683%</td></tr><tr><td> 13 </td><td>Simonot/ZEIL/Terrier</td><td> 37</td><td>40.4762%</td></tr><tr><td> 14 </td><td>Bohlender/Biela/Frey</td><td> 36</td><td>68.2540%</td></tr><tr><td> 15 </td><td>Hollmann/Löb/Hedemann</td><td> 36</td><td>66.6667%</td></tr><tr><td> 16 </td><td>Gräfenste/Gräfenste/Seibold</td><td> 36</td><td>66.6667%</td></tr><tr><td> 17 </td><td>Freau/Aucler/Repetti</td><td> 36</td><td>65.0794%</td></tr><tr><td> 18 </td><td>Harle/Rigby/Light</td><td> 36</td><td>64.2857%</td></tr><tr><td> 19 </td><td>Abou Omar/Hofmann/Schwarz</td><td> 36</td><td>63.4921%</td></tr><tr><td> 20 </td><td>Erenyi/Hanzálek Z/Do Anh</td><td> 36</td><td>61.9048%</td></tr><tr><td> 21 </td><td>Barkowski/Yeh/Barkowski</td><td> 36</td><td>58.7302%</td></tr><tr><td> 22 </td><td>Havlik/Jurkovic/Valis</td><td> 36</td><td>57.1429%</td></tr><tr><td> 23 </td><td>Vincent/Bonanno/Besset</td><td> 34</td><td>50.4762%</td></tr><tr><td> 24 </td><td>Brendemühl/Al-Bacha/Mueller</td><td> 33</td><td>68.2540%</td></tr><tr><td> 25 </td><td>Ganz/Hitz/Krauer</td><td> 33</td><td>66.6667%</td></tr><tr><td> 26 </td><td>Pedrakowsk/Swierk/Pedrakowsk</td><td> 33</td><td>63.8095%</td></tr><tr><td> 27 </td><td>Magnani/Reale/Reale</td><td> 33</td><td>60.9524%</td></tr><tr><td> 28 </td><td>Bornelöv/Svensson/Carlsson</td><td> 33</td><td>59.6825%</td></tr><tr><td> 29 </td><td>Bigorne/Filatriau/Perrier</td><td> 33</td><td>53.9683%</td></tr><tr><td> 30 </td><td>Vogt/Bucher/Huber</td><td> 33</td><td>53.0159%</td></tr><tr><td> 31 </td><td>Alkio/Verwoerd/Hoeh</td><td> 33</td><td>52.3810%</td></tr><tr><td> 32 </td><td>Convery/Carson/Madden</td><td> 33</td><td>36.5079%</td></tr><tr><td> 33 </td><td>Van Gelder/Slooten/Dekker</td><td> 31</td><td>74.4444%</td></tr><tr><td> 34 </td><td>Brambilla/Mengucci/Frantuma</td><td> 31</td><td>56.3492%</td></tr><tr><td> 35 </td><td>Grossholz/Mauch/Schmid</td><td> 31</td><td>53.9683%</td></tr><tr><td> 36 </td><td>Kreuz/Wallendorf/Brenner</td><td> 30</td><td>69.2063%</td></tr><tr><td> 37 </td><td>Spano/Tomici/Neri</td><td> 30</td><td>66.6667%</td></tr><tr><td> 38 </td><td>Forestier/PERIN/Boudaoud</td><td> 30</td><td>58.7302%</td></tr><tr><td> 39 </td><td>Benedetto/Castellano/Romano</td><td> 30</td><td>58.3333%</td></tr><tr><td> 40 </td><td>Mönkmöller/zahedinour/Müller</td><td> 30</td><td>52.3810%</td></tr><tr><td> 41 </td><td>Nakamura/Juza/Jaklovsky</td><td> 30</td><td>52.3810%</td></tr><tr><td> 42 </td><td>Boyko/Strakhov/Malyshev</td><td> 30</td><td>52.3810%</td></tr><tr><td> 43 </td><td>Nguyen/Lachia/dCosta Cabral</td><td> 30</td><td>49.2063%</td></tr><tr><td> 44 </td><td>Kratena/Jacko/Bøéa</td><td> 28</td><td>66.6667%</td></tr><tr><td> 45 </td><td>Neumann/Kim/Tobiasch</td><td> 27</td><td>80.0000%</td></tr><tr><td> 46 </td><td>Molle/Bergen/van Houts</td><td> 27</td><td>58.8889%</td></tr><tr><td> 47 </td><td>Sistek/Šebela/Safar</td><td> 27</td><td>57.1429%</td></tr><tr><td> 48 </td><td>de Beurs/Lambregts/Berghout</td><td> 27</td><td>52.3810%</td></tr><tr><td> 49 </td><td>Menedez/Martin Espada/dMazo</td><td> 24</td><td>100.0000%</td></tr><tr><td> 50 </td><td>Klings/Hüttenberge/Rosengren</td><td> 24</td><td>61.9048%</td></tr><tr><td> 51 </td><td>Placeholder Team</td><td> 1</td><td>33.3333%</td></tr><tr><td> 52 </td><td>Placeholder Team</td><td> 1</td><td>33.3333%</td></tr></tbody></table>

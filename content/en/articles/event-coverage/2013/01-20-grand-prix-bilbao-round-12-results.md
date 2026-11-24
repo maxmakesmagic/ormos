@@ -1,0 +1,47 @@
+---
+id: cxwtz4m8
+kind: event
+lang: en
+path: /en/articles/event-coverage/2013/01-20-grand-prix-bilbao-round-12-results
+title: Grand Prix Bilbao Round 12 Results
+published: '2013-01-20'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-bilbao-round-12-results-2013-01-20
+    lang_detected: en
+    capture_id: 366293
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-bilbao-round-12-results-2013-01-20
+    captured_at: '2021-10-21 12:52:25+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-bilbao-round-12-results-2013-01-20
+    lang_detected: en
+    capture_id: 366293
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-bilbao-round-12-results-2013-01-20
+    captured_at: '2021-10-21 12:52:25+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: cxwtz4m8
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-bilbao-round-12-results-2013-01-20
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-bilbao-round-12-results-2013-01-20
+  lang: en
+  template: drupal
+  captured_at: '2021-10-21 12:52:25+00'
+  capture_id: 366293
+  wayback_url: https://web.archive.org/web/20211021125225id_/https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-bilbao-round-12-results-2013-01-20
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: cxwtz4m8
+  capture_id: 366293
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-bilbao-round-12-results-2013-01-20
+  wayback_url: https://web.archive.org/web/20211021125225id_/https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-bilbao-round-12-results-2013-01-20
+  captured_at: '2021-10-21 12:52:25+00'
+  template: drupal
+  sha256: e108f3fc5d21fa7b0e07ed8aa5fd2d1d5312c2123e086d6c9894e5795f10621b
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Result</b></td><td><b>&#10;						</b></td><td><b>Opponent</b></td></tr><tr><td> 1</td><td>Jaklovsky, Lukas [CZE]</td><td>Won 2-0</td><td>vs.</td><td>Moral, Carlos [ESP]</td></tr><tr><td> 2</td><td>Deloly, Mathieu [POL]</td><td>Lost 0-2</td><td>vs.</td><td>Calzolari, Lorenzo [ITA]</td></tr><tr><td> 3</td><td>Ballestin, Daniel [ESP]</td><td>Lost 1-2</td><td>vs.</td><td>Scheinin, Martin [ESP]</td></tr><tr><td> 4</td><td>Manders, Mitchell [NLD]</td><td>Won 2-0</td><td>vs.</td><td>Renedo, Rodrigo [ESP]</td></tr><tr><td> 5</td><td>Deltour, Louis [FRA]</td><td>Won 2-1</td><td>vs.</td><td>Jiménez, Javier [ESP]</td></tr><tr><td> 6</td><td>Köstler, Jonas [DEU]</td><td>Won 2-0</td><td>vs.</td><td>Chan, Tiago [PRT]</td></tr><tr><td> 7</td><td>Vidal, Bernat [ESP]</td><td>Lost 0-2</td><td>vs.</td><td>Bonde, Michael [DNK]</td></tr><tr><td> 8</td><td>Diehl, Kristof [DEU]</td><td>Won 2-1</td><td>vs.</td><td>Dominguez, Javier [ESP]</td></tr><tr><td> 9</td><td>Guillerm, Benjamin [FRA]</td><td>Lost 1-2</td><td>vs.</td><td>Dictus, Mark [BEL]</td></tr><tr><td> 10</td><td>Riffert, Till W [DEU]</td><td>Won 2-0</td><td>vs.</td><td>Summersberger, Helmut [AUT]</td></tr><tr><td> 11</td><td>Cabrero, Ricardo A [SLV]</td><td>Won 2-1</td><td>vs.</td><td>Sanchez, Pedro J. [ESP]</td></tr><tr><td> 12</td><td>Fernandez de celis, Ri [ESP]</td><td>Lost 1-2</td><td>vs.</td><td>Rodriguez, Manuel [ESP]</td></tr><tr><td> 13</td><td>Saval Marhuenda, Alber [ESP]</td><td>Won 2-0</td><td>vs.</td><td>Ballester, Carlos [ESP]</td></tr><tr><td> 14</td><td>Togores, Rodrigo [ESP]</td><td>Won 2-1</td><td>vs.</td><td>Mendes, Diogo [PRT]</td></tr><tr><td> 15</td><td>De Haan, Rob [NLD]</td><td>Won 2-1</td><td>vs.</td><td>Ramis Pascual, Toni [ESP]</td></tr><tr><td> 16</td><td>Camacho, Francisco Jav [ESP]</td><td>Won 2-0</td><td>vs.</td><td>Ferreira, Narciso [PRT]</td></tr><tr><td> 17</td><td>Noguez Aignasse, Jason [ESP]</td><td>Won 2-1</td><td>vs.</td><td>Holzinger, Thomas [AUT]</td></tr><tr><td> 18</td><td>Andersen, Emil [DNK]</td><td>Lost 1-2</td><td>vs.</td><td>Sanchez, Ricardo [ESP]</td></tr><tr><td> 19</td><td>Schwarz, Stephan [DEU]</td><td>Won 2-0</td><td>vs.</td><td>Dezani, Jeremy [FRA]</td></tr><tr><td> 20</td><td>Kanelis, Paulos [GRC]</td><td>Lost 1-2</td><td>vs.</td><td>Hostettler, Christophe [FRA]</td></tr><tr><td> 21</td><td>Tuduri, Ricard [ESP]</td><td>Won 2-0</td><td>vs.</td><td>Boveda Casado, Carlos [ESP]</td></tr><tr><td> 22</td><td>Bonifacio, Vasco [PRT]</td><td>Won 2-0</td><td>vs.</td><td>Cammilluzzi, Marco [ITA]</td></tr><tr><td> 23</td><td>Yus, Alex [ESP]</td><td>Won 2-1</td><td>vs.</td><td>Dosimont, Amand [BEL]</td></tr><tr><td> 24</td><td>Rabionet, Raul [ESP]</td><td>Drew 1-1-1</td><td>vs.</td><td>Linares, Julien [FRA]</td></tr><tr><td> 25</td><td>Moreno Morales, Franci [ESP]</td><td>Lost 1-2</td><td>vs.</td><td>Brive, Alroc [ESP]</td></tr><tr><td> 26</td><td>Sanchez, Pedro [ESP]</td><td>Won 2-1</td><td>vs.</td><td>Zapata Torrecillas, Cr [ESP]</td></tr><tr><td> 27</td><td>Morilla, Alvaro [ESP]</td><td>Won 2-1</td><td>vs.</td><td>Portaro, Alessandro [ITA]</td></tr><tr><td> 28</td><td>Gadchaux, Laurent [FRA]</td><td>Lost 1-2</td><td>vs.</td><td>Chabriac, Nicolas [FRA]</td></tr><tr><td> 29</td><td>Palacio Valdueza, Borj [ESP]</td><td>Lost 0-2</td><td>vs.</td><td>Tobiasch, Marc [DEU]</td></tr><tr><td> 30</td><td>Habert, Alexandre [FRA]</td><td>Lost 0-2</td><td>vs.</td><td>Reboiro Jato, David [ESP]</td></tr><tr><td> 31</td><td>Vincent, Guillaume [FRA]</td><td>Won 2-0</td><td>vs.</td><td>Mackl, Valentin [AUT]</td></tr><tr><td> 32</td><td>Roque, Marco [ESP]</td><td>Won 2-0</td><td>vs.</td><td>Garcia Campo, Javier E [ESP]</td></tr><tr><td> 33</td><td>Marti, Enric [ESP]</td><td>Lost 0-2</td><td>vs.</td><td>Rausch, Oliver [DEU]</td></tr><tr><td> 34</td><td>Brendemühl, Bernd [DEU]</td><td>Lost 0-2</td><td>vs.</td><td>Caballero, Jonatan [ESP]</td></tr><tr><td> 35</td><td>Sevaux, Yoann [FRA]</td><td>Lost 1-2</td><td>vs.</td><td>Mayor, Damien [CHE]</td></tr><tr><td> 36</td><td>Martos, Antonio [ESP]</td><td>Won 2-0</td><td>vs.</td><td>Rodriguez Navaroo, Jor [ESP]</td></tr><tr><td> 37</td><td>Rodríguez, Mariano [ESP]</td><td>Lost 1-2</td><td>vs.</td><td>Van der Vegt, Jan [NLD]</td></tr><tr><td> 38</td><td>Mayo Gavela, Diego [ESP]</td><td>Lost 1-2</td><td>vs.</td><td>Ramos Garcia, Daniel [MEX]</td></tr><tr><td> 39</td><td>Rabie, Mikael [FRA]</td><td>Won 2-1</td><td>vs.</td><td>Bestard, Caty [ESP]</td></tr><tr><td> 40</td><td>Renaille, Gaetan R [FRA]</td><td>Lost 0-2</td><td>vs.</td><td>Rocher, David [ESP]</td></tr><tr><td> 41</td><td>Sanchez, Diego [ESP]</td><td>Lost 1-2</td><td>vs.</td><td>Garcia Pardillo, Juan [ESP]</td></tr><tr><td> 42</td><td>da Rosa, Paulo Vitor D [BRA]</td><td>Lost 1-2</td><td>vs.</td><td>Skorolupov, Nikolai [DEU]</td></tr><tr><td> 43</td><td>Baptista, Joao A [PRT]</td><td>Lost 0-2</td><td>vs.</td><td>Rodríguez López, Juan [ESP]</td></tr><tr><td> 44</td><td>Moacho, Filipe A [PRT]</td><td>Lost 1-2</td><td>vs.</td><td>Darras, Alexandre [BEL]</td></tr><tr><td> 45</td><td>Thomas, Marc [DEU]</td><td>Lost 1-2</td><td>vs.</td><td>Briceno, Paul [FRA]</td></tr><tr><td> 46</td><td>García, Eduardo E [ESP]</td><td>Won 2-0</td><td>vs.</td><td>Gerrikagoitia, Keldor [ESP]</td></tr><tr><td> 47</td><td>Felipe, Alex [ESP]</td><td>Lost 1-2</td><td>vs.</td><td>Fatela, Yohan [FRA]</td></tr><tr><td> 48</td><td>Garcia Copete, David [ESP]</td><td>Lost 1-2</td><td>vs.</td><td>Gobern, Luís [PRT]</td></tr><tr><td> 49</td><td>Le Briand, Loic [FRA]</td><td>Won 2-1</td><td>vs.</td><td>Bastos, Frederico [PRT]</td></tr><tr><td> 50</td><td>Rubies Mouliaa, Joan [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Sutor, Emanuel [DEU]</td></tr><tr><td> 51</td><td>Valkeneers, Tom [BEL]</td><td>Lost 0-2</td><td>vs.</td><td>Cooman, Andy [NLD]</td></tr><tr><td> 52</td><td>Milis, Michael [BEL]</td><td>Won 2-0</td><td>vs.</td><td>Martin Espada, Agustin [ESP]</td></tr><tr><td> 53</td><td>Sanchez, Eugeni [ESP]</td><td>Won 2-1</td><td>vs.</td><td>Larsen, Soren [DNK]</td></tr><tr><td> 54</td><td>Miguel, Jose Mª [ESP]</td><td>Lost 0-2</td><td>vs.</td><td>Alves, Joao [PRT]</td></tr><tr><td> 55</td><td>Pichon, Elie [FRA]</td><td>Won 2-0</td><td>vs.</td><td>Sá, António M [PRT]</td></tr><tr><td> 56</td><td>Reale, Giuseppe [ITA]</td><td>Won 2-0</td><td>vs.</td><td>Andre, Joao [PRT]</td></tr><tr><td> 57</td><td>Aparicio, Ramiro [ESP]</td><td>Won 2-0</td><td>vs.</td><td>Angel Ortega, Jose Mar [ESP]</td></tr><tr><td> 58</td><td>Fernandes, Bruno [PRT]</td><td>Won 2-1</td><td>vs.</td><td>Sajgalik, Eduardo [ENG]</td></tr><tr><td> 59</td><td>Kirchbacher, Florian [AUT]</td><td>Lost 1-2</td><td>vs.</td><td>Lopez, Omar [ESP]</td></tr><tr><td> 60</td><td>Nieto, Carlos M [ESP]</td><td>Lost 0-2</td><td>vs.</td><td>Ganz, Andreas [CHE]</td></tr><tr><td> 61</td><td>Bernabeu-Edo, Jesus [ESP]</td><td>Lost 0-2</td><td>vs.</td><td>Robin, Kevin [FRA]</td></tr><tr><td> 62</td><td>Behal, Reamonn [ESP]</td><td>Won 2-1</td><td>vs.</td><td>Watsfeldt, Elias [SWE]</td></tr><tr><td> 63</td><td>Garcia, Oscar [ESP]</td><td>Lost 1-2</td><td>vs.</td><td>Hampl, Benjamin [CHE]</td></tr><tr><td> 64</td><td>Patarin, Clement [FRA]</td><td>Won 2-0</td><td>vs.</td><td>Retuerta, Cristian [ESP]</td></tr></tbody></table>

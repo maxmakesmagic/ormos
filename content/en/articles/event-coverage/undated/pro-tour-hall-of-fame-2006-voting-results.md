@@ -1,0 +1,50 @@
+---
+id: 8nk94kkw
+kind: event
+lang: en
+path: /en/articles/event-coverage/undated/pro-tour-hall-of-fame-2006-voting-results
+title: PRO TOUR HALL OF FAME 2006 VOTING RESULTS
+published: null
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/events/coverage/top-players/pthof/2006/voting-results
+    lang_detected: en
+    capture_id: 1502368
+    url: https://magic.wizards.com/en/events/coverage/top-players/pthof/2006/voting-results
+    captured_at: '2022-01-23 00:11:37+00'
+    rule: meta.og_title
+sources:
+- document_id: 8nk94kkw
+  url: https://magic.wizards.com/en/events/coverage/top-players/pthof/2006/voting-results
+  page_key: magic.wizards.com/en/events/coverage/top-players/pthof/2006/voting-results
+  lang: en
+  template: drupal
+  captured_at: '2022-01-23 00:11:37+00'
+  capture_id: 1502368
+  wayback_url: https://web.archive.org/web/20220123001137id_/https://magic.wizards.com/en/events/coverage/top-players/pthof/2006/voting-results
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 8nk94kkw
+  capture_id: 1502368
+  url: https://magic.wizards.com/en/events/coverage/top-players/pthof/2006/voting-results
+  wayback_url: https://web.archive.org/web/20220123001137id_/https://magic.wizards.com/en/events/coverage/top-players/pthof/2006/voting-results
+  captured_at: '2022-01-23 00:11:37+00'
+  template: drupal
+  sha256: 9569f1c3cba8e14f1b6fe9767d1dc787bd4a1efd011f20628e0ff97064fc502c
+render_recovery:
+- code: broad_content_selector
+---
+## 2006 VOTING RESULTS
+
+Listed below are the results from the Selection Committee and Players Committee for the 2006 Hall of Fame class. Voters were asked to vote for up to five candidates, and the top five earned spots in the Hall.
+
+The results were weighted using the following formula:  
+ (SC%\*.667) + (PC%\*.333)
+
+There were 81 ballots cast by Selection Committee members and 75 ballots cast by Players Committee members. Individual ballots will not be made public.
+
+<table><colgroup><col><col><col><col><col span="3"></colgroup><tbody><tr><td>Finish</td>&#10;			<td>Name</td>&#10;			<td>SC Votes</td>&#10;			<td>SC %</td>&#10;			<td>PC Votes</td>&#10;			<td>PC %</td>&#10;			<td>Total</td>&#10;		</tr><tr><td>1</td>&#10;			<td>Bob Maher</td>&#10;			<td>54</td>&#10;			<td>66.67%</td>&#10;			<td>35</td>&#10;			<td>46.67%</td>&#10;			<td>60.01%</td>&#10;		</tr><tr><td>2</td>&#10;			<td>David Humpherys</td>&#10;			<td>49</td>&#10;			<td>60.49%</td>&#10;			<td>37</td>&#10;			<td>49.33%</td>&#10;			<td>56.78%</td>&#10;		</tr><tr><td>3</td>&#10;			<td>Raphaël Lévy</td>&#10;			<td>35</td>&#10;			<td>43.21%</td>&#10;			<td>31</td>&#10;			<td>41.33%</td>&#10;			<td>42.58%</td>&#10;		</tr><tr><td>4</td>&#10;			<td>Gary Wise</td>&#10;			<td>35</td>&#10;			<td>43.21%</td>&#10;			<td>23</td>&#10;			<td>30.67%</td>&#10;			<td>39.03%</td>&#10;		</tr><tr><td>5</td>&#10;			<td>Robert Dougherty</td>&#10;			<td>41</td>&#10;			<td>50.62%</td>&#10;			<td>10</td>&#10;			<td>13.33%</td>&#10;			<td>38.20%</td>&#10;		</tr><tr><td>6</td>&#10;			<td>Chris Pikula</td>&#10;			<td>18</td>&#10;			<td>22.22%</td>&#10;			<td>9</td>&#10;			<td>12.00%</td>&#10;			<td>18.82%</td>&#10;		</tr><tr><td>7</td>&#10;			<td>Steven O'Mahoney-Schwartz</td>&#10;			<td>17</td>&#10;			<td>20.99%</td>&#10;			<td>10</td>&#10;			<td>13.33%</td>&#10;			<td>18.44%</td>&#10;		</tr><tr><td>8</td>&#10;			<td>Itaru Ishida</td>&#10;			<td>14</td>&#10;			<td>17.28%</td>&#10;			<td>15</td>&#10;			<td>20.00%</td>&#10;			<td>18.19%</td>&#10;		</tr><tr><td>9</td>&#10;			<td>Scott Johns</td>&#10;			<td>20</td>&#10;			<td>24.69%</td>&#10;			<td>3</td>&#10;			<td>4.00%</td>&#10;			<td>17.80%</td>&#10;		</tr><tr><td>10</td>&#10;			<td>Justin Gary</td>&#10;			<td>15</td>&#10;			<td>18.52%</td>&#10;			<td>11</td>&#10;			<td>14.67%</td>&#10;			<td>17.24%</td>&#10;		</tr><tr><td>11</td>&#10;			<td>Michael Long</td>&#10;			<td>13</td>&#10;			<td>16.05%</td>&#10;			<td>6</td>&#10;			<td>8.00%</td>&#10;			<td>13.37%</td>&#10;		</tr><tr><td>12</td>&#10;			<td>David Price</td>&#10;			<td>12</td>&#10;			<td>14.81%</td>&#10;			<td>7</td>&#10;			<td>9.33%</td>&#10;			<td>12.99%</td>&#10;		</tr><tr><td>13</td>&#10;			<td>Tomi Walamies</td>&#10;			<td>5</td>&#10;			<td>6.17%</td>&#10;			<td>18</td>&#10;			<td>24.00%</td>&#10;			<td>12.11%</td>&#10;		</tr><tr><td>14</td>&#10;			<td>Mark Justice</td>&#10;			<td>11</td>&#10;			<td>13.58%</td>&#10;			<td>5</td>&#10;			<td>6.67%</td>&#10;			<td>11.28%</td>&#10;		</tr><tr><td>15</td>&#10;			<td>Mattias Jorstedt</td>&#10;			<td>6</td>&#10;			<td>7.41%</td>&#10;			<td>14</td>&#10;			<td>18.67%</td>&#10;			<td>11.16%</td>&#10;		</tr><tr><td>16</td>&#10;			<td>Michael Pustilnik</td>&#10;			<td>8</td>&#10;			<td>9.88%</td>&#10;			<td>10</td>&#10;			<td>13.33%</td>&#10;			<td>11.03%</td>&#10;		</tr><tr><td>17</td>&#10;			<td>Alex Shvartsman</td>&#10;			<td>8</td>&#10;			<td>9.88%</td>&#10;			<td>6</td>&#10;			<td>8.00%</td>&#10;			<td>9.25%</td>&#10;		</tr><tr><td>18</td>&#10;			<td>Neil Reeves</td>&#10;			<td>1</td>&#10;			<td>1.23%</td>&#10;			<td>18</td>&#10;			<td>24.00%</td>&#10;			<td>8.82%</td>&#10;		</tr><tr><td>19</td>&#10;			<td>Brian Hacker</td>&#10;			<td>7</td>&#10;			<td>8.64%</td>&#10;			<td>6</td>&#10;			<td>8.00%</td>&#10;			<td>8.43%</td>&#10;		</tr><tr><td>20</td>&#10;			<td>Satoshi Nakamura</td>&#10;			<td>8</td>&#10;			<td>9.88%</td>&#10;			<td>4</td>&#10;			<td>5.33%</td>&#10;			<td>8.36%</td>&#10;		</tr><tr><td>21</td>&#10;			<td>Svend Geertsen</td>&#10;			<td>6</td>&#10;			<td>7.41%</td>&#10;			<td>7</td>&#10;			<td>9.33%</td>&#10;			<td>8.05%</td>&#10;		</tr><tr><td>22</td>&#10;			<td>Jakub Slemr</td>&#10;			<td>4</td>&#10;			<td>4.94%</td>&#10;			<td>6</td>&#10;			<td>8.00%</td>&#10;			<td>5.96%</td>&#10;		</tr><tr><td>23</td>&#10;			<td>Bram Snepvangers</td>&#10;			<td>2</td>&#10;			<td>2.47%</td>&#10;			<td>6</td>&#10;			<td>8.00%</td>&#10;			<td>4.31%</td>&#10;		</tr><tr><td>24</td>&#10;			<td>Sigurd Eskeland</td>&#10;			<td>3</td>&#10;			<td>3.70%</td>&#10;			<td>3</td>&#10;			<td>4.00%</td>&#10;			<td>3.80%</td>&#10;		</tr><tr><td>25</td>&#10;			<td>Ryan Fuller</td>&#10;			<td>0</td>&#10;			<td>0.00%</td>&#10;			<td>7</td>&#10;			<td>9.33%</td>&#10;			<td>3.11%</td>&#10;		</tr><tr><td>26</td>&#10;			<td>Noah Boeken</td>&#10;			<td>1</td>&#10;			<td>1.23%</td>&#10;			<td>5</td>&#10;			<td>6.67%</td>&#10;			<td>3.04%</td>&#10;		</tr><tr><td>27</td>&#10;			<td>Gabriel Tsang</td>&#10;			<td>0</td>&#10;			<td>0.00%</td>&#10;			<td>6</td>&#10;			<td>8.00%</td>&#10;			<td>2.66%</td>&#10;		</tr><tr><td>28</td>&#10;			<td>Shawn Regnier</td>&#10;			<td>3</td>&#10;			<td>3.70%</td>&#10;			<td>0</td>&#10;			<td>0.00%</td>&#10;			<td>2.47%</td>&#10;		</tr><tr><td>29</td>&#10;			<td>Kyle Rose</td>&#10;			<td>0</td>&#10;			<td>0.00%</td>&#10;			<td>5</td>&#10;			<td>6.67%</td>&#10;			<td>2.22%</td>&#10;		</tr><tr><td>30</td>&#10;			<td>Thomas Guevin</td>&#10;			<td>1</td>&#10;			<td>1.23%</td>&#10;			<td>2</td>&#10;			<td>2.67%</td>&#10;			<td>1.71%</td>&#10;		</tr><tr><td>30</td>&#10;			<td>Yann Hamon</td>&#10;			<td>1</td>&#10;			<td>1.23%</td>&#10;			<td>2</td>&#10;			<td>2.67%</td>&#10;			<td>1.71%</td>&#10;		</tr><tr><td>30</td>&#10;			<td>Matthew Vienneau</td>&#10;			<td>1</td>&#10;			<td>1.23%</td>&#10;			<td>2</td>&#10;			<td>2.67%</td>&#10;			<td>1.71%</td>&#10;		</tr><tr><td>33</td>&#10;			<td>Benedikt Klauser</td>&#10;			<td>2</td>&#10;			<td>2.47%</td>&#10;			<td>0</td>&#10;			<td>0.00%</td>&#10;			<td>1.65%</td>&#10;		</tr><tr><td>34</td>&#10;			<td>Peer Kroeger</td>&#10;			<td>1</td>&#10;			<td>1.23%</td>&#10;			<td>1</td>&#10;			<td>1.33%</td>&#10;			<td>1.27%</td>&#10;		</tr><tr><td>34</td>&#10;			<td>John Larkin</td>&#10;			<td>1</td>&#10;			<td>1.23%</td>&#10;			<td>1</td>&#10;			<td>1.33%</td>&#10;			<td>1.27%</td>&#10;		</tr><tr><td>34</td>&#10;			<td>Gary Krakower</td>&#10;			<td>1</td>&#10;			<td>1.23%</td>&#10;			<td>1</td>&#10;			<td>1.33%</td>&#10;			<td>1.27%</td>&#10;		</tr><tr><td>37</td>&#10;			<td>Igor Frayman</td>&#10;			<td>0</td>&#10;			<td>0.00%</td>&#10;			<td>2</td>&#10;			<td>2.67%</td>&#10;			<td>0.89%</td>&#10;		</tr><tr><td>37</td>&#10;			<td>Terry Tsang</td>&#10;			<td>0</td>&#10;			<td>0.00%</td>&#10;			<td>2</td>&#10;			<td>2.67%</td>&#10;			<td>0.89%</td>&#10;		</tr><tr><td>37</td>&#10;			<td>Mark Le Pine</td>&#10;			<td>0</td>&#10;			<td>0.00%</td>&#10;			<td>2</td>&#10;			<td>2.67%</td>&#10;			<td>0.89%</td>&#10;		</tr><tr><td>40</td>&#10;			<td>David Bachmann</td>&#10;			<td>0</td>&#10;			<td>0.00%</td>&#10;			<td>1</td>&#10;			<td>1.33%</td>&#10;			<td>0.44%</td>&#10;		</tr><tr><td>40</td>&#10;			<td>Donald Gallitz</td>&#10;			<td>0</td>&#10;			<td>0.00%</td>&#10;			<td>1</td>&#10;			<td>1.33%</td>&#10;			<td>0.44%</td>&#10;		</tr><tr><td>40</td>&#10;			<td>André Konstanczer</td>&#10;			<td>0</td>&#10;			<td>0.00%</td>&#10;			<td>1</td>&#10;			<td>1.33%</td>&#10;			<td>0.44%</td>&#10;		</tr><tr><td>40</td>&#10;			<td>Janosch Kühn</td>&#10;			<td>0</td>&#10;			<td>0.00%</td>&#10;			<td>1</td>&#10;			<td>1.33%</td>&#10;			<td>0.44%</td>&#10;		</tr><tr><td>40</td>&#10;			<td>Trevor Blackwell</td>&#10;			<td>0</td>&#10;			<td>0.00%</td>&#10;			<td>1</td>&#10;			<td>1.33%</td>&#10;			<td>0.44%</td>&#10;		</tr><tr><td>40</td>&#10;			<td>Trey Van Cleave</td>&#10;			<td>0</td>&#10;			<td>0.00%</td>&#10;			<td>1</td>&#10;			<td>1.33%</td>&#10;			<td>0.44%</td>&#10;		</tr><tr><td>46</td>&#10;			<td>Kurt Burgner</td>&#10;			<td>0</td>&#10;			<td>0.00%</td>&#10;			<td>0</td>&#10;			<td>0.00%</td>&#10;			<td>0.00%</td>&#10;		</tr><tr><td>46</td>&#10;			<td>Peter Leiher</td>&#10;			<td>0</td>&#10;			<td>0.00%</td>&#10;			<td>0</td>&#10;			<td>0.00%</td>&#10;			<td>0.00%</td>&#10;		</tr></tbody></table>

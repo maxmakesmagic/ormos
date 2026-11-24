@@ -1,0 +1,40 @@
+---
+id: bgbejsmh
+kind: event
+lang: en
+path: /en/articles/event-coverage/undated/round-11-standings-5
+title: Round 11 Standings
+published: null
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-11-standings-2000-01-01-14
+    lang_detected: en
+    capture_id: 495517
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-11-standings-2000-01-01-14
+    captured_at: '2022-05-21 22:37:21+00'
+    rule: meta.og_title
+sources:
+- document_id: bgbejsmh
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-11-standings-2000-01-01-14
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/round-11-standings-2000-01-01-14
+  lang: en
+  template: drupal
+  captured_at: '2022-05-21 22:37:21+00'
+  capture_id: 495517
+  wayback_url: https://web.archive.org/web/20220521223721id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-11-standings-2000-01-01-14
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: bgbejsmh
+  capture_id: 495517
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-11-standings-2000-01-01-14
+  wayback_url: https://web.archive.org/web/20220521223721id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-11-standings-2000-01-01-14
+  captured_at: '2022-05-21 22:37:21+00'
+  template: drupal
+  sha256: 001df22053d0ea7f122739bd21821695c04f68957d1f365d3f9089110038b6b9
+render_recovery: []
+---
+<table><tbody><tr><td>Rank</td>&#10;			<td>Name</td>&#10;			<td>Points</td>&#10;			<td>Op-Match</td>&#10;		</tr><tr><td>1</td>&#10;			<td>Godinez-Estrada, Gerardo</td>&#10;			<td>26</td>&#10;			<td>58.9532</td>&#10;		</tr><tr><td>2</td>&#10;			<td>Le Saux, Rafael</td>&#10;			<td>25</td>&#10;			<td>57.8512</td>&#10;		</tr><tr><td>3</td>&#10;			<td>Simao Teixeira, Eduardo</td>&#10;			<td>24</td>&#10;			<td>62.5344</td>&#10;		</tr><tr><td>4</td>&#10;			<td>Chapela Gaxiola, Gustavo</td>&#10;			<td>24</td>&#10;			<td>55.9229</td>&#10;		</tr><tr><td>5</td>&#10;			<td>Romao, Carlos E</td>&#10;			<td>24</td>&#10;			<td>55.6474</td>&#10;		</tr><tr><td>6</td>&#10;			<td>Alvarenga, Rafael A</td>&#10;			<td>22</td>&#10;			<td>59.697</td>&#10;		</tr><tr><td>7</td>&#10;			<td>Garcia Barbosa, Francisco</td>&#10;			<td>22</td>&#10;			<td>55.0964</td>&#10;		</tr><tr><td>8</td>&#10;			<td>Sousa, Alex</td>&#10;			<td>22</td>&#10;			<td>51.7906</td>&#10;		</tr><tr><td>9</td>&#10;			<td>Barbosa de Castro, Rodrigo C</td>&#10;			<td>22</td>&#10;			<td>49.8623</td>&#10;		</tr><tr><td>10</td>&#10;			<td>Galimbertti, Victor U</td>&#10;			<td>21</td>&#10;			<td>54.8485</td>&#10;		</tr><tr><td>11</td>&#10;			<td>Felsberg, Thomas E</td>&#10;			<td>21</td>&#10;			<td>54.2424</td>&#10;		</tr><tr><td>12</td>&#10;			<td>Biasotti, Franco</td>&#10;			<td>21</td>&#10;			<td>48.1818</td>&#10;		</tr><tr><td>13</td>&#10;			<td>del Gerbo Actis, Gustavo</td>&#10;			<td>20</td>&#10;			<td>49.8623</td>&#10;		</tr><tr><td>14</td>&#10;			<td>Huerta, Pablo</td>&#10;			<td>20</td>&#10;			<td>49.3939</td>&#10;		</tr><tr><td>15</td>&#10;			<td>Araiza, Hugo</td>&#10;			<td>20</td>&#10;			<td>48.7603</td>&#10;		</tr><tr><td>16</td>&#10;			<td>Sousa, Erico T</td>&#10;			<td>19</td>&#10;			<td>62.8099</td>&#10;		</tr><tr><td>17</td>&#10;			<td>Maioli, Douglas</td>&#10;			<td>19</td>&#10;			<td>58.1818</td>&#10;		</tr><tr><td>18</td>&#10;			<td>Mignorance, Ernesto</td>&#10;			<td>19</td>&#10;			<td>57.5758</td>&#10;		</tr><tr><td>19</td>&#10;			<td>Hernandez, Cesar</td>&#10;			<td>19</td>&#10;			<td>56.4738</td>&#10;		</tr><tr><td>20</td>&#10;			<td>Mamczyc Haro, Leandro</td>&#10;			<td>19</td>&#10;			<td>51.2397</td>&#10;		</tr><tr><td>21</td>&#10;			<td>Lima, Eduardo L</td>&#10;			<td>19</td>&#10;			<td>46.0606</td>&#10;		</tr><tr><td>22</td>&#10;			<td>San Juan, Basilio</td>&#10;			<td>18</td>&#10;			<td>55.6474</td>&#10;		</tr><tr><td>23</td>&#10;			<td>Hojman, Andres</td>&#10;			<td>18</td>&#10;			<td>50.9642</td>&#10;		</tr><tr><td>24</td>&#10;			<td>de Lima Filho, Joao Roberto</td>&#10;			<td>18</td>&#10;			<td>45.4545</td>&#10;		</tr><tr><td>25</td>&#10;			<td>Barbero, Jose</td>&#10;			<td>18</td>&#10;			<td>45.1515</td>&#10;		</tr><tr><td>26</td>&#10;			<td>Monteavaro, Ignacio</td>&#10;			<td>17</td>&#10;			<td>57.0248</td>&#10;		</tr><tr><td>27</td>&#10;			<td>Soares, Marcus V</td>&#10;			<td>17</td>&#10;			<td>57.0248</td>&#10;		</tr><tr><td>28</td>&#10;			<td>Vazquez Ayala, Julio C</td>&#10;			<td>17</td>&#10;			<td>52.6171</td>&#10;		</tr><tr><td>29</td>&#10;			<td>Neiman, Luis G</td>&#10;			<td>17</td>&#10;			<td>47.3829</td>&#10;		</tr><tr><td>30</td>&#10;			<td>Alvarez Rivera, Joaquin</td>&#10;			<td>16</td>&#10;			<td>58.1267</td>&#10;		</tr><tr><td>31</td>&#10;			<td>Kim, Jong-Won</td>&#10;			<td>16</td>&#10;			<td>52.8926</td>&#10;		</tr><tr><td>32</td>&#10;			<td>Longo, Sergio</td>&#10;			<td>16</td>&#10;			<td>52.6171</td>&#10;		</tr><tr><td>33</td>&#10;			<td>Svaldi, Rafael D</td>&#10;			<td>16</td>&#10;			<td>51.2397</td>&#10;		</tr><tr><td>34</td>&#10;			<td>Reutter, Juan</td>&#10;			<td>16</td>&#10;			<td>50.1377</td>&#10;		</tr><tr><td>35</td>&#10;			<td>Rodamilans, Enric</td>&#10;			<td>16</td>&#10;			<td>49.3939</td>&#10;		</tr><tr><td>36</td>&#10;			<td>Svaldi, Guilherme D</td>&#10;			<td>16</td>&#10;			<td>48.7603</td>&#10;		</tr><tr><td>37</td>&#10;			<td>Possato, Dawton</td>&#10;			<td>16</td>&#10;			<td>43.6364</td>&#10;		</tr><tr><td>38</td>&#10;			<td>Peraza, Edward</td>&#10;			<td>15</td>&#10;			<td>56.229</td>&#10;		</tr><tr><td>39</td>&#10;			<td>Rafael, Miguel</td>&#10;			<td>15</td>&#10;			<td>52.0661</td>&#10;		</tr><tr><td>40</td>&#10;			<td>Hino, Celso M</td>&#10;			<td>15</td>&#10;			<td>51.5152</td>&#10;		</tr><tr><td>41</td>&#10;			<td>Edel, Willy</td>&#10;			<td>15</td>&#10;			<td>50.9642</td>&#10;		</tr><tr><td>42</td>&#10;			<td>Possato, William C</td>&#10;			<td>15</td>&#10;			<td>49.0358</td>&#10;		</tr><tr><td>43</td>&#10;			<td>Luncumilla, Mario</td>&#10;			<td>15</td>&#10;			<td>45.1791</td>&#10;		</tr><tr><td>44</td>&#10;			<td>Chacon, Salomon</td>&#10;			<td>14</td>&#10;			<td>47.6584</td>&#10;		</tr><tr><td>45</td>&#10;			<td>Moro, Andres</td>&#10;			<td>14</td>&#10;			<td>47.1074</td>&#10;		</tr><tr><td>46</td>&#10;			<td>Costanza, Rodrigo J</td>&#10;			<td>13</td>&#10;			<td>51.5152</td>&#10;		</tr><tr><td>47</td>&#10;			<td>Sacal, Alexander</td>&#10;			<td>13</td>&#10;			<td>46.0606</td>&#10;		</tr><tr><td>48</td>&#10;			<td>De la Riva Fort, Juan Carlos</td>&#10;			<td>13</td>&#10;			<td>43.3333</td>&#10;		</tr><tr><td>49</td>&#10;			<td>Sanchez, Rodrigo</td>&#10;			<td>12</td>&#10;			<td>49.3113</td>&#10;		</tr><tr><td>50</td>&#10;			<td>Ostrovich, Diego</td>&#10;			<td>12</td>&#10;			<td>47.8788</td>&#10;		</tr><tr><td>51</td>&#10;			<td>Alejos, Franz</td>&#10;			<td>12</td>&#10;			<td>46.832</td>&#10;		</tr><tr><td>52</td>&#10;			<td>Baptista, Marco</td>&#10;			<td>12</td>&#10;			<td>44.6281</td>&#10;		</tr><tr><td>53</td>&#10;			<td>Gomez, Matias</td>&#10;			<td>12</td>&#10;			<td>44.3526</td>&#10;		</tr><tr><td>54</td>&#10;			<td>Zagalsky, Alejo</td>&#10;			<td>10</td>&#10;			<td>54.5455</td>&#10;		</tr><tr><td>55</td>&#10;			<td>Veiga, Fernando</td>&#10;			<td>10</td>&#10;			<td>48.1818</td>&#10;		</tr><tr><td>56</td>&#10;			<td>Pereira, Christiano</td>&#10;			<td>10</td>&#10;			<td>46.9697</td>&#10;		</tr><tr><td>57</td>&#10;			<td>Alvarez, Fernando</td>&#10;			<td>10</td>&#10;			<td>43.6364</td>&#10;		</tr><tr><td>58</td>&#10;			<td>Remersaro, Santiago</td>&#10;			<td>9</td>&#10;			<td>46.9697</td>&#10;		</tr><tr><td>59</td>&#10;			<td>Albareda, Eduardo</td>&#10;			<td>9</td>&#10;			<td>46.1279</td>&#10;		</tr><tr><td>60</td>&#10;			<td>Undurraga, Christian</td>&#10;			<td>9</td>&#10;			<td>43.6364</td>&#10;		</tr></tbody></table>

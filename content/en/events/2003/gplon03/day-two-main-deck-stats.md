@@ -1,0 +1,56 @@
+---
+id: 6b77wck5
+kind: event
+lang: en
+path: /en/events/2003/gplon03/day-two-main-deck-stats
+title: Day Two Main Deck Stats
+published: null
+column_slug: null
+column: null
+authors: []
+event_code: gplon03
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/article.aspx?x=sideboard/gplon03/d2stats1
+    lang_detected: en
+    capture_id: 853086
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/gplon03/d2stats1
+    captured_at: '2013-06-29 16:26:43+00'
+    rule: aspx.article_heading
+  event_code:
+    page_key: wizards.com/magic/magazine/article.aspx?x=sideboard/gplon03/d2stats1
+    lang_detected: en
+    capture_id: 853086
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/gplon03/d2stats1
+    captured_at: '2013-06-29 16:26:43+00'
+    rule: url.event_code
+sources:
+- document_id: 6b77wck5
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/gplon03/d2stats1
+  page_key: wizards.com/magic/magazine/article.aspx?x=sideboard/gplon03/d2stats1
+  lang: en
+  template: aspx
+  captured_at: '2013-06-29 16:26:43+00'
+  capture_id: 853086
+  wayback_url: https://web.archive.org/web/20130629162643id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/gplon03/d2stats1
+- document_id: 6b77wck5
+  url: http://www.wizards.com/default.asp?x=sideboard/gplon03/d2stats1&amp
+  page_key: wizards.com/default.asp?x=sideboard/gplon03/d2stats1
+  lang: en
+  template: classic_asp
+  captured_at: '2004-12-01 02:02:54+00'
+  capture_id: 1299246
+  wayback_url: https://web.archive.org/web/20041201020254id_/http://www.wizards.com/default.asp?x=sideboard/gplon03/d2stats1&amp
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 6b77wck5
+  capture_id: 853086
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/gplon03/d2stats1
+  wayback_url: https://web.archive.org/web/20130629162643id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/gplon03/d2stats1
+  captured_at: '2013-06-29 16:26:43+00'
+  template: aspx
+  sha256: 04126dac7844cc08dfe793749eef9106b2e68ee404189ea2ab416f23ae25b1f1
+render_recovery: []
+---
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <a href="/en/events/2003/gplon03/day-two-main-deck-stats">&#10;        <b>Card name</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/en/events/2003/gplon03/day-two-main-deck-stats">&#10;        <b>Number of players using</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/en/events/2003/gplon03/day-two-main-deck-stats">&#10;        <b>Number of Copies used</b>&#10;      </a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Mountain</td>&#10;    <td>41</td>&#10;    <td>511</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Plains</td>&#10;    <td>41</td>&#10;    <td>433</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Akroma's Vengeance</td>&#10;    <td>41</td>&#10;    <td>158</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Eternal Dragon</td>&#10;    <td>41</td>&#10;    <td>153</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Temple of the False God</td>&#10;    <td>45</td>&#10;    <td>134</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Exalted Angel</td>&#10;    <td>36</td>&#10;    <td>128</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Silver Knight</td>&#10;    <td>32</td>&#10;    <td>127</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Secluded Steppe</td>&#10;    <td>32</td>&#10;    <td>118</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gempalm Incinerator</td>&#10;    <td>31</td>&#10;    <td>106</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Wing Shards</td>&#10;    <td>32</td>&#10;    <td>105</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Decree of Justice</td>&#10;    <td>35</td>&#10;    <td>101</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Island</td>&#10;    <td>17</td>&#10;    <td>99</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Forgotten Cave</td>&#10;    <td>25</td>&#10;    <td>97</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Lightning Rift</td>&#10;    <td>24</td>&#10;    <td>96</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Starstorm</td>&#10;    <td>24</td>&#10;    <td>90</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Swamp</td>&#10;    <td>11</td>&#10;    <td>70</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Goblin Warchief</td>&#10;    <td>17</td>&#10;    <td>68</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Siege-Gang Commander</td>&#10;    <td>17</td>&#10;    <td>68</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Skirk Prospector</td>&#10;    <td>17</td>&#10;    <td>66</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Goblin Piledriver</td>&#10;    <td>16</td>&#10;    <td>64</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Goblin Sledder</td>&#10;    <td>17</td>&#10;    <td>64</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Goblin Sharpshooter</td>&#10;    <td>17</td>&#10;    <td>62</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Akroma, Angel of Wrath</td>&#10;    <td>28</td>&#10;    <td>58</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Grand Coliseum</td>&#10;    <td>21</td>&#10;    <td>58</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Flooded Strand</td>&#10;    <td>14</td>&#10;    <td>55</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Clickslither</td>&#10;    <td>14</td>&#10;    <td>51</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Spark Spray</td>&#10;    <td>14</td>&#10;    <td>48</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Discombobulate</td>&#10;    <td>13</td>&#10;    <td>43</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Complicate</td>&#10;    <td>12</td>&#10;    <td>40</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Astral Slide</td>&#10;    <td>14</td>&#10;    <td>38</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Bloodstained Mire</td>&#10;    <td>8</td>&#10;    <td>32</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Patriarch's Bidding</td>&#10;    <td>9</td>&#10;    <td>29</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Chain of Vapor</td>&#10;    <td>10</td>&#10;    <td>28</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dawn Elemental</td>&#10;    <td>7</td>&#10;    <td>28</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Decree of Silence</td>&#10;    <td>12</td>&#10;    <td>27</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Rorix Bladewing</td>&#10;    <td>11</td>&#10;    <td>27</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Goblin Burrows</td>&#10;    <td>9</td>&#10;    <td>26</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Shock</td>&#10;    <td>6</td>&#10;    <td>23</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Smother</td>&#10;    <td>7</td>&#10;    <td>22</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Stifle</td>&#10;    <td>10</td>&#10;    <td>22</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Decree of Annihilation</td>&#10;    <td>18</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dragon Scales</td>&#10;    <td>7</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Renewed Faith</td>&#10;    <td>6</td>&#10;    <td>14</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Wipe Clean</td>&#10;    <td>8</td>&#10;    <td>13</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Lay Waste</td>&#10;    <td>3</td>&#10;    <td>12</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Read the Runes</td>&#10;    <td>4</td>&#10;    <td>12</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Polluted Delta</td>&#10;    <td>3</td>&#10;    <td>11</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Form of the Dragon</td>&#10;    <td>3</td>&#10;    <td>9</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Goblin Goon</td>&#10;    <td>3</td>&#10;    <td>9</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Solar Blast</td>&#10;    <td>3</td>&#10;    <td>9</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Rotlung Reanimator</td>&#10;    <td>2</td>&#10;    <td>8</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Carrion Feeder</td>&#10;    <td>2</td>&#10;    <td>7</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Putrid Raptor</td>&#10;    <td>2</td>&#10;    <td>7</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Withered Wretch</td>&#10;    <td>2</td>&#10;    <td>7</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Forest</td>&#10;    <td>1</td>&#10;    <td>6</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Undead Warchief</td>&#10;    <td>2</td>&#10;    <td>6</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Lonely Sandbar</td>&#10;    <td>3</td>&#10;    <td>5</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Slice and Dice</td>&#10;    <td>2</td>&#10;    <td>5</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Krosan Tusker</td>&#10;    <td>1</td>&#10;    <td>4</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Noxious Ghoul</td>&#10;    <td>1</td>&#10;    <td>4</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Silklash Spider</td>&#10;    <td>1</td>&#10;    <td>4</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Skinthinner</td>&#10;    <td>1</td>&#10;    <td>4</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Soulless One</td>&#10;    <td>2</td>&#10;    <td>4</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Tranquil Thicket</td>&#10;    <td>1</td>&#10;    <td>4</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Unholy Grotto</td>&#10;    <td>2</td>&#10;    <td>4</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Wall of Mulch</td>&#10;    <td>1</td>&#10;    <td>4</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Break Asunder</td>&#10;    <td>1</td>&#10;    <td>3</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Festering Goblin</td>&#10;    <td>1</td>&#10;    <td>3</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Menacing Ogre</td>&#10;    <td>2</td>&#10;    <td>3</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Sparksmith</td>&#10;    <td>2</td>&#10;    <td>3</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Thoughtbound Primoc</td>&#10;    <td>1</td>&#10;    <td>3</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Twisted Abomination</td>&#10;    <td>1</td>&#10;    <td>3</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Vengeful Dead</td>&#10;    <td>1</td>&#10;    <td>3</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Wooded Foothills</td>&#10;    <td>1</td>&#10;    <td>3</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Wretched Anurid</td>&#10;    <td>1</td>&#10;    <td>3</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Cabal Conditioning</td>&#10;    <td>1</td>&#10;    <td>2</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Chartooth Cougar</td>&#10;    <td>1</td>&#10;    <td>2</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Chromeshell Crab</td>&#10;    <td>1</td>&#10;    <td>2</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Daru Sanctifier</td>&#10;    <td>1</td>&#10;    <td>2</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Explosive Vegetation</td>&#10;    <td>1</td>&#10;    <td>2</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Oblation</td>&#10;    <td>2</td>&#10;    <td>2</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Rain of Blades</td>&#10;    <td>1</td>&#10;    <td>2</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Silvos, Rogue Elemental</td>&#10;    <td>1</td>&#10;    <td>2</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Skirk Fire Marshal</td>&#10;    <td>1</td>&#10;    <td>2</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Sulfuric Vortex</td>&#10;    <td>1</td>&#10;    <td>2</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Whipcorder</td>&#10;    <td>1</td>&#10;    <td>2</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Carbonize</td>&#10;    <td>1</td>&#10;    <td>1</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Insurrection</td>&#10;    <td>1</td>&#10;    <td>1</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Jareth, Leonine Titan</td>&#10;    <td>1</td>&#10;    <td>1</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Threaten</td>&#10;    <td>1</td>&#10;    <td>1</td>&#10;  </tr>&#10;</tbody></table>

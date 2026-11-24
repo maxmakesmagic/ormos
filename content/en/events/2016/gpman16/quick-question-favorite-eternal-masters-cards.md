@@ -1,0 +1,75 @@
+---
+id: c03y0hgk
+kind: event
+lang: en
+path: /en/events/2016/gpman16/quick-question-favorite-eternal-masters-cards
+title: 'Quick Question: Favorite Eternal Masters Cards'
+published: '2016-05-28'
+column_slug: null
+column: null
+authors: []
+event_code: gpman16
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/events/coverage/gpman16/quick-question-favorite-eternal-masters-cards-2016-05-28
+    lang_detected: en
+    capture_id: 77144
+    url: http://magic.wizards.com/en/events/coverage/gpman16/quick-question-favorite-eternal-masters-cards-2016-05-28
+    captured_at: '2016-08-03 02:19:14+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/events/coverage/gpman16/quick-question-favorite-eternal-masters-cards-2016-05-28
+    lang_detected: en
+    capture_id: 77144
+    url: http://magic.wizards.com/en/events/coverage/gpman16/quick-question-favorite-eternal-masters-cards-2016-05-28
+    captured_at: '2016-08-03 02:19:14+00'
+    rule: drupal.posted_in_date
+  event_code:
+    page_key: magic.wizards.com/en/events/coverage/gpman16/quick-question-favorite-eternal-masters-cards-2016-05-28
+    lang_detected: en
+    capture_id: 77144
+    url: http://magic.wizards.com/en/events/coverage/gpman16/quick-question-favorite-eternal-masters-cards-2016-05-28
+    captured_at: '2016-08-03 02:19:14+00'
+    rule: url.event_code
+sources:
+- document_id: c03y0hgk
+  url: http://magic.wizards.com/en/events/coverage/gpman16/quick-question-favorite-eternal-masters-cards-2016-05-28
+  page_key: magic.wizards.com/en/events/coverage/gpman16/quick-question-favorite-eternal-masters-cards-2016-05-28
+  lang: en
+  template: drupal
+  captured_at: '2016-08-03 02:19:14+00'
+  capture_id: 77144
+  wayback_url: https://web.archive.org/web/20160803021914id_/http://magic.wizards.com/en/events/coverage/gpman16/quick-question-favorite-eternal-masters-cards-2016-05-28
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: c03y0hgk
+  capture_id: 77144
+  url: http://magic.wizards.com/en/events/coverage/gpman16/quick-question-favorite-eternal-masters-cards-2016-05-28
+  wayback_url: https://web.archive.org/web/20160803021914id_/http://magic.wizards.com/en/events/coverage/gpman16/quick-question-favorite-eternal-masters-cards-2016-05-28
+  captured_at: '2016-08-03 02:19:14+00'
+  template: drupal
+  sha256: 3570ba0b6208d8d637d079581f807dbdf61031e0aaea09a121f18eb467853e35
+render_recovery: []
+---
+One of the topics discussed among players at this Grand Prix was of course the upcoming release of *Eternal Masters*, the full list of which was [published yesterday](/en/articles/card-image-gallery/2016/05-30-eternal-masters). We asked a few of the more notable players in attendance at Grand Prix Manchester for their favorite cards in the set …
+
+![](http://media.wizards.com/2016/events/gpman16/man16_qq_dickmann.jpg)
+
+**Patrick Dickmann, Pro Tour *Oath of the Gatewatch* semifinalist:** All of the cards you couldn't get a premium version of other than maybe some promo until now. So [Counterspell](https://web.archive.org/web/20160528000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Counterspell), [Hymn to Tourach](https://web.archive.org/web/20160528000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hymn+to+Tourach), and a lot more.
+
+![](http://media.wizards.com/2016/events/gpman16/man16_qq_larsen.jpg)
+
+**Christoffer Larsen, three-time Grand Prix Top 8 competitor:** Let me take a look at that card list … Ooo, I always loved [Second Thoughts](https://web.archive.org/web/20160528000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Second+Thoughts) in Limited. And [Wonder](https://web.archive.org/web/20160528000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wonder). Common [Avarax](https://web.archive.org/web/20160528000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Avarax)? This is going to be awesome. [Sylvan Might](https://web.archive.org/web/20160528000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sylvan+Might) as a common! This set has all the best Limited cards from the ages. The draft format looks great!
+
+![](http://media.wizards.com/2016/events/gpman16/man16_qq_sochurek.jpg)
+
+**Petr Sochůrek, champion of Grand Prix Paris 2016:** [Brainstorm](https://web.archive.org/web/20160528000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Brainstorm)!
+
+![](http://media.wizards.com/2016/events/gpman16/man16_qq_larsson.jpg)
+
+**Joel Larsson, champion of Pro Tour *Magic Origins*:** [Arcanis the Omnipotent](https://web.archive.org/web/20160528000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Arcanis+the+Omnipotent). Because he is omnipotent.
+
+![](http://media.wizards.com/2016/events/gpman16/man16_qq_jones.jpg)
+
+**Craig Jones, finalist at Pro Tour Honolulu 2006:** I'm quite excited for [Gamble](https://web.archive.org/web/20160528000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gamble) and [Sneak Attack](https://web.archive.org/web/20160528000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sneak+Attack). [Gamble](https://web.archive.org/web/20160528000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gamble) is good for Lands which is the most fun deck in Legacy and [Sneak Attack](https://web.archive.org/web/20160528000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sneak+Attack) is just the most fun card.

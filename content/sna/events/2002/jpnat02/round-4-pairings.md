@@ -1,0 +1,63 @@
+---
+id: jpat68an
+kind: event
+lang: sna
+path: /sna/events/2002/jpnat02/round-4-pairings
+title: Round 4 Pairings
+published: '2002-05-31'
+column_slug: null
+column: null
+authors: []
+event_code: jpnat02
+detected_lang: sna
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-4-pairings-2002-05-31
+    lang_detected: sna
+    capture_id: 531566
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-4-pairings-2002-05-31
+    captured_at: '2022-06-30 01:16:53+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-4-pairings-2002-05-31
+    lang_detected: sna
+    capture_id: 531566
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-4-pairings-2002-05-31
+    captured_at: '2022-06-30 01:16:53+00'
+    rule: drupal.posted_in_date
+  event_code:
+    page_key: wizards.com/default.asp?x=sideboard/jpnat02/pair4
+    lang_detected: sna
+    capture_id: 2320846
+    url: http://www.wizards.com/default.asp?x=sideboard/jpnat02/pair4,,de
+    captured_at: '2005-03-21 20:38:45+00'
+    rule: url.event_code
+sources:
+- document_id: jpat68an
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-4-pairings-2002-05-31
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/round-4-pairings-2002-05-31
+  lang: sna
+  template: drupal
+  captured_at: '2022-06-30 01:16:53+00'
+  capture_id: 531566
+  wayback_url: https://web.archive.org/web/20220630011653id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-4-pairings-2002-05-31
+- document_id: jpat68an
+  url: http://www.wizards.com/default.asp?x=sideboard/jpnat02/pair4,,de
+  page_key: wizards.com/default.asp?x=sideboard/jpnat02/pair4
+  lang: sna
+  template: classic_asp
+  captured_at: '2005-03-21 20:38:45+00'
+  capture_id: 2320846
+  wayback_url: https://web.archive.org/web/20050321203845id_/http://www.wizards.com/default.asp?x=sideboard/jpnat02/pair4,,de
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: jpat68an
+  capture_id: 531566
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-4-pairings-2002-05-31
+  wayback_url: https://web.archive.org/web/20220630011653id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-4-pairings-2002-05-31
+  captured_at: '2022-06-30 01:16:53+00'
+  template: drupal
+  sha256: 4a617835f5c5841e06b5d1f473913bc10d547fa218d14e55eabbc26984794033
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Points</b></td><td><b></b></td><td><b>Opponent</b></td><td><b>Points</b></td></tr><tr><td> 1</td><td>Shiki, Kazumasa</td><td> 9</td><td>vs.</td><td>Morita, Masahiko</td><td> 9</td></tr><tr><td> 2</td><td>Nakano, Yoshitaka</td><td> 9</td><td>vs.</td><td>Ushie, Yuta</td><td> 9</td></tr><tr><td> 3</td><td>Yuasa, Kentaro</td><td> 9</td><td>vs.</td><td>Ota, Masayuki</td><td> 9</td></tr><tr><td> 4</td><td>Oomiya, Akira</td><td> 9</td><td>vs.</td><td>Okamoto, Hiroki</td><td> 9</td></tr><tr><td> 5</td><td>Yokoyama, Tadashi</td><td> 9</td><td>vs.</td><td>Higashino, Masayuki</td><td> 9</td></tr><tr><td> 6</td><td>Ishimatsu, Takahiro</td><td> 9</td><td>vs.</td><td>Sasahara, Yasufumi</td><td> 9</td></tr><tr><td> 7</td><td>Mitsuya, Kazuhiko</td><td> 9</td><td>vs.</td><td>Ikeda, Kei</td><td> 9</td></tr><tr><td> 8</td><td>Tamai, Katsuyoshi</td><td> 9</td><td>vs.</td><td>Tsujimura, Hiroyuki</td><td> 9</td></tr><tr><td> 9</td><td>Momose, Kazuyuki</td><td> 9</td><td>vs.</td><td>Goto, Kosuke</td><td> 9</td></tr><tr><td> 10</td><td>Hayashi, Nobuyoshi</td><td> 9</td><td>vs.</td><td>Kimoto, Kenji</td><td> 9</td></tr><tr><td> 11</td><td>Murakami, Yuuki</td><td> 9</td><td>vs.</td><td>Tabuchi, Atsushi</td><td> 9</td></tr><tr><td> 12</td><td>Yamamoto, Yohei</td><td> 7</td><td>vs.</td><td>Sasaki, Yusuke</td><td> 7</td></tr><tr><td> 13</td><td>Otsuka, Kotaro</td><td> 7</td><td>vs.</td><td>Fujiwara, Akira</td><td> 6</td></tr><tr><td> 14</td><td>Sekiguchi, Takatoshi</td><td> 6</td><td>vs.</td><td>Watanabe, Hiroto</td><td> 6</td></tr><tr><td> 15</td><td>Tsukamoto, Toshiki</td><td> 6</td><td>vs.</td><td>Kawamura, Kazushi</td><td> 6</td></tr><tr><td> 16</td><td>Otsuka, Yasutaka</td><td> 6</td><td>vs.</td><td>Sasakawa, Tomohide</td><td> 6</td></tr><tr><td> 17</td><td>Wakisaka, Yuusuke</td><td> 6</td><td>vs.</td><td>Honnami, Tomoyuki</td><td> 6</td></tr><tr><td> 18</td><td>Baba, Yasunori</td><td> 6</td><td>vs.</td><td>Mori, Katsuhiro</td><td> 6</td></tr><tr><td> 19</td><td>Tanaka, Hidenori</td><td> 6</td><td>vs.</td><td>Yamada, Yoshiharu</td><td> 6</td></tr><tr><td> 20</td><td>Yamadaya, Kouhei</td><td> 6</td><td>vs.</td><td>Niwa, Toshiharu</td><td> 6</td></tr><tr><td> 21</td><td>Tsuno, Eisuke</td><td> 6</td><td>vs.</td><td>Sato, Dai</td><td> 6</td></tr><tr><td> 22</td><td>Nakamura, Kazuhiro</td><td> 6</td><td>vs.</td><td>Tatsumi, Yasukazu</td><td> 6</td></tr><tr><td> 23</td><td>Asahara, Akira</td><td> 6</td><td>vs.</td><td>Hirata, Daigo</td><td> 6</td></tr><tr><td> 24</td><td>Kato, Kazuki</td><td> 6</td><td>vs.</td><td>Kashima, Akihiro</td><td> 6</td></tr><tr><td> 25</td><td>Shikata, Nobuaki</td><td> 6</td><td>vs.</td><td>Fujita, Tsuyoshi</td><td> 6</td></tr><tr><td> 26</td><td>Okamoto, Jin</td><td> 6</td><td>vs.</td><td>Suzuki, Kenta</td><td> 6</td></tr><tr><td> 27</td><td>Kawasaki, Hiroshi</td><td> 6</td><td>vs.</td><td>Kanda, Satoshi</td><td> 6</td></tr><tr><td> 28</td><td>Yoshizawa, Ryouji</td><td> 6</td><td>vs.</td><td>Morimoto, Manabu</td><td> 6</td></tr><tr><td> 29</td><td>Nakamura, Satoshi</td><td> 6</td><td>vs.</td><td>Kanno, Atsushi</td><td> 6</td></tr><tr><td> 30</td><td>Ikeda, Tsuyoshi</td><td> 6</td><td>vs.</td><td>Yoshii, Tatsuo</td><td> 6</td></tr><tr><td> 31</td><td>Iwai, Tsuyoshi</td><td> 6</td><td>vs.</td><td>Furuichi, Hidenari</td><td> 6</td></tr><tr><td> 32</td><td>Komuro, Shu</td><td> 6</td><td>vs.</td><td>Ishida, Itaru</td><td> 6</td></tr><tr><td> 33</td><td>Hirabayashi, Kazuya</td><td> 6</td><td>vs.</td><td>Mochizuki, Yuuki</td><td> 6</td></tr><tr><td> 34</td><td>Maeno, Ryuju</td><td> 6</td><td>vs.</td><td>Sekine, Takeshi</td><td> 6</td></tr><tr><td> 35</td><td>Sakai, Yasuki</td><td> 6</td><td>vs.</td><td>Tamura, Mitsuya</td><td> 6</td></tr><tr><td> 36</td><td>Sato, Masatoshi</td><td> 6</td><td>vs.</td><td>Sato, Yuryo</td><td> 6</td></tr><tr><td> 37</td><td>Nagaoka, Takayuki</td><td> 6</td><td>vs.</td><td>Ishikawa, Ren</td><td> 6</td></tr><tr><td> 38</td><td>Onoda, Michihisa</td><td> 6</td><td>vs.</td><td>Okazaki, Yuuki</td><td> 6</td></tr><tr><td> 39</td><td>Masui, Noriaki</td><td> 6</td><td>vs.</td><td>Koura, Masahiro</td><td> 6</td></tr><tr><td> 40</td><td>Haneda, Masatoshi</td><td> 6</td><td>vs.</td><td>Kobayashi, Hiroyuki</td><td> 6</td></tr><tr><td> 41</td><td>Sumi, Kazuhiko</td><td> 6</td><td>vs.</td><td>Hayashi, Shinsuke</td><td> 6</td></tr><tr><td> 42</td><td>Kurotsuchi, Keiichiro</td><td> 6</td><td>vs.</td><td>Fujita, Osamu</td><td> 6</td></tr><tr><td> 43</td><td>Sakamoto, Kazuya</td><td> 6</td><td>vs.</td><td>Nogami, Kazuki</td><td> 6</td></tr><tr><td> 44</td><td>Kinoshita, Junichi</td><td> 6</td><td>vs.</td><td>Yoshikawa, Yusuke</td><td> 6</td></tr><tr><td> 45</td><td>Tamura, Ryo</td><td> 6</td><td>vs.</td><td>Tawara, Takashi</td><td> 6</td></tr><tr><td> 46</td><td>Suzuki, Kei</td><td> 6</td><td>vs.</td><td>Nakajima, Chikara</td><td> 4</td></tr><tr><td> 47</td><td>Makino, Shusaku</td><td> 4</td><td>vs.</td><td>Yasooka, Shota</td><td> 4</td></tr><tr><td> 48</td><td>Ando, Reiji</td><td> 4</td><td>vs.</td><td>Yasuda, Masaaki</td><td> 4</td></tr><tr><td> 49</td><td>Okada, Hiroaki</td><td> 4</td><td>vs.</td><td>Sano, Fumihiko</td><td> 4</td></tr><tr><td> 50</td><td>Sugiki, Takafumi</td><td> 4</td><td>vs.</td><td>Masuda, Masakazu</td><td> 4</td></tr><tr><td> 51</td><td>Ikeda, Tomokazu</td><td> 4</td><td>vs.</td><td>Sakai, Kentaro</td><td> 3</td></tr><tr><td> 52</td><td>Hata, Hirotaka</td><td> 3</td><td>vs.</td><td>Arahori, Kazuaki</td><td> 3</td></tr><tr><td> 53</td><td>Kitamura, Katsuaki</td><td> 3</td><td>vs.</td><td>Ito, Akitsugu</td><td> 3</td></tr><tr><td> 54</td><td>Kuroda, Masashiro</td><td> 3</td><td>vs.</td><td>Suzuki, Takaaki</td><td> 3</td></tr><tr><td> 55</td><td>Mita, Kouhei</td><td> 3</td><td>vs.</td><td>Fukata, Takamasa</td><td> 3</td></tr><tr><td> 56</td><td>Kurita, Yasuyuki</td><td> 3</td><td>vs.</td><td>Yokoyama, Shigehisa</td><td> 3</td></tr><tr><td> 57</td><td>Mihara, Makihito</td><td> 3</td><td>vs.</td><td>Nobushita, Jun</td><td> 3</td></tr><tr><td> 58</td><td>Arai, Kenichiro</td><td> 3</td><td>vs.</td><td>Hirayama, Daisuke</td><td> 3</td></tr><tr><td> 59</td><td>Atsuta, Nao</td><td> 3</td><td>vs.</td><td>Yamaguchi, Keisuke</td><td> 3</td></tr><tr><td> 60</td><td>Doiuchi, Yasuhiro</td><td> 3</td><td>vs.</td><td>Ueno, Shinichi</td><td> 3</td></tr><tr><td> 61</td><td>Sakane, Kunio</td><td> 3</td><td>vs.</td><td>Kobayashi, Hideki</td><td> 3</td></tr><tr><td> 62</td><td>Kishishita, Kunihiko</td><td> 3</td><td>vs.</td><td>Takagi, Takeshi</td><td> 3</td></tr><tr><td> 63</td><td>Matsuki, Takashi</td><td> 3</td><td>vs.</td><td>Kouno, Haruhiko</td><td> 3</td></tr><tr><td> 64</td><td>Sasaki, Shou</td><td> 3</td><td>vs.</td><td>Hassaku, Jinpei</td><td> 3</td></tr><tr><td> 65</td><td>Kuris, Takashi</td><td> 3</td><td>vs.</td><td>Igarashi, Kazuhiro</td><td> 3</td></tr><tr><td> 66</td><td>Ishihara, Jun</td><td> 3</td><td>vs.</td><td>Iwakawa, Tatsuya</td><td> 3</td></tr><tr><td> 67</td><td>Tomita, Kei</td><td> 3</td><td>vs.</td><td>Fujita, Kenichi</td><td> 3</td></tr><tr><td> 68</td><td>Akase, Kohei</td><td> 3</td><td>vs.</td><td>Kezuka, Tomohiko</td><td> 3</td></tr><tr><td> 69</td><td>Takano, Yutaro</td><td> 3</td><td>vs.</td><td>Noguchi, Yuji</td><td> 3</td></tr><tr><td> 70</td><td>Kurasawa, Kanto</td><td> 3</td><td>vs.</td><td>Nomichi, Hideki</td><td> 3</td></tr><tr><td> 71</td><td>Matsuoka, Tomohide</td><td> 3</td><td>vs.</td><td>Mori, Masaya</td><td> 3</td></tr><tr><td> 72</td><td>Ogura, Ryo</td><td> 3</td><td>vs.</td><td>Konno, Masashi</td><td> 3</td></tr><tr><td> 73</td><td>Kitayama, Masaya</td><td> 3</td><td>vs.</td><td>Shiozu, Ryoma</td><td> 3</td></tr><tr><td> 74</td><td>Abe, Ryo</td><td> 3</td><td>vs.</td><td>Nakamura, Shuhei</td><td> 3</td></tr><tr><td> 75</td><td>Ota, Toshikazu</td><td> 3</td><td>vs.</td><td>Omata, Tomofumi</td><td> 3</td></tr><tr><td> 76</td><td>Inoue, Hiroki</td><td> 3</td><td>vs.</td><td>Uematsu, Koichi</td><td> 3</td></tr><tr><td> 77</td><td>Hishioka, Hiroyuki</td><td> 3</td><td>vs.</td><td>Yasuda, Taiga</td><td> 3</td></tr><tr><td> 78</td><td>Kojima, Mitsuhiro</td><td> 3</td><td>vs.</td><td>Abe, Kazufumi</td><td> 3</td></tr><tr><td> 79</td><td>Hasegawa, Takumi</td><td> 3</td><td>vs.</td><td>Yamano, Tomoya</td><td> 3</td></tr><tr><td> 80</td><td>Toyama, Taku</td><td> 3</td><td>vs.</td><td>Yokoe, Yuki</td><td> 3</td></tr><tr><td> 81</td><td>Katsuta, Soichi</td><td> 3</td><td>vs.</td><td>Ando, Kotaro</td><td> 3</td></tr><tr><td> 82</td><td>Wachi, Shinya</td><td> 3</td><td>vs.</td><td>Koyama, Masashi</td><td> 3</td></tr><tr><td> 83</td><td>Nagase, Shogo</td><td> 3</td><td>vs.</td><td>Komiya, Tadayoshi</td><td> 1</td></tr><tr><td> 84</td><td>Fukuhara, Taiki</td><td> 1</td><td>vs.</td><td>Sato, Makoto</td><td> 1</td></tr><tr><td> 85</td><td>Ishii, Yoshiharu</td><td> 1</td><td>vs.</td><td>Takasaki, Yuichi</td><td> 1</td></tr><tr><td> 86</td><td>Okumura, Katsuhiko</td><td> 0</td><td>vs.</td><td>Tanaka, Hisaya</td><td> 0</td></tr><tr><td> 87</td><td>Suzuki, Akihide</td><td> 0</td><td>vs.</td><td>Hamamoto, Kenji</td><td> 0</td></tr><tr><td> 88</td><td>Ito, Wataru</td><td> 0</td><td>vs.</td><td>Kobayashi, Masanori</td><td> 0</td></tr><tr><td> 89</td><td>Kida, Manabu</td><td> 0</td><td>vs.</td><td>Ohno, Isao</td><td> 0</td></tr><tr><td> 90</td><td>Noda, Kentaro</td><td> 0</td><td>vs.</td><td>Nomura, Eiji</td><td> 0</td></tr><tr><td> 91</td><td>Kunugi, Ryu</td><td> 0</td><td>vs.</td><td>Arakawa, Kota</td><td> 0</td></tr><tr><td> 92</td><td>Minakami, Yusuke</td><td> 0</td><td>vs.</td><td>Kaji, Tomohiro</td><td> 0</td></tr><tr><td> 93</td><td>Kubo, Tadayoshi</td><td> 0</td><td>vs.</td><td>Hayashi, Hiroki</td><td> 0</td></tr><tr><td> 94</td><td>Matsumoto, Kazuki</td><td> 0</td><td>vs.</td><td>Sogabe, Ippei</td><td> 0</td></tr><tr><td> 95</td><td>Fujimoto, Taichi</td><td> 0</td><td>vs.</td><td>Terasawa, Kazuya</td><td> 0</td></tr><tr><td></td><td>Higaki, Takao</td><td> 0</td><td></td><td>* BYE *</td><td></td></tr></tbody></table>

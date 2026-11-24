@@ -1,0 +1,148 @@
+---
+id: 9fhwkanz
+kind: article
+lang: en
+path: /en/articles/daily-deck/2013/04-23-modern-blue-treasures
+title: Modern Blue Treasures
+published: '2013-04-23'
+column_slug: daily-deck
+column: Daily Deck
+authors:
+- slug: sam-black-205119f1
+  name: Sam Black
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/deck/1217
+    lang_detected: en
+    capture_id: 385478
+    url: https://www.wizards.com/magic/magazine/Article.aspx?x=mtg/daily/deck/1217
+    captured_at: '2013-07-01 16:37:58+00'
+    rule: aspx.article_heading
+  published:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/deck/1217
+    lang_detected: en
+    capture_id: 385478
+    url: https://www.wizards.com/magic/magazine/Article.aspx?x=mtg/daily/deck/1217
+    captured_at: '2013-07-01 16:37:58+00'
+    rule: aspx.byline_date
+  authors:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/deck/1217
+    lang_detected: en
+    capture_id: 385478
+    url: https://www.wizards.com/magic/magazine/Article.aspx?x=mtg/daily/deck/1217
+    captured_at: '2013-07-01 16:37:58+00'
+    rule: aspx.byline
+  column:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/deck/1217
+    lang_detected: en
+    capture_id: 385478
+    url: https://www.wizards.com/magic/magazine/Article.aspx?x=mtg/daily/deck/1217
+    captured_at: '2013-07-01 16:37:58+00'
+    rule: aspx.archive_link_column
+sources:
+- document_id: 9fhwkanz
+  url: https://www.wizards.com/magic/magazine/Article.aspx?x=mtg/daily/deck/1217
+  page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/deck/1217
+  lang: en
+  template: aspx
+  captured_at: '2013-07-01 16:37:58+00'
+  capture_id: 385478
+  wayback_url: https://web.archive.org/web/20130701163758id_/https://www.wizards.com/magic/magazine/Article.aspx?x=mtg/daily/deck/1217
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 9fhwkanz
+  capture_id: 385478
+  url: https://www.wizards.com/magic/magazine/Article.aspx?x=mtg/daily/deck/1217
+  wayback_url: https://web.archive.org/web/20130701163758id_/https://www.wizards.com/magic/magazine/Article.aspx?x=mtg/daily/deck/1217
+  captured_at: '2013-07-01 16:37:58+00'
+  template: aspx
+  sha256: 0fe7941e7c713c1539dae9f3d07a5462e7b3910442a25d0504a3bab721a78511
+render_recovery:
+- code: unsupported_link
+  element: a
+  target: javascript:void()
+  reason: The link uses a JavaScript placeholder. The preview kept any visible label.
+  labels:
+  - Expedition Map
+  - Urza's Mine
+  - Urza's Power Plant
+  - Urza's Tower
+  - Treasure Mage
+  - Platinum Angel
+  - Spine of Ish Sah
+  - Sundering Titan
+  - Wurmcoil Engine
+  - Mindslaver
+  - Steel Hellkite
+  - Contagion Engine
+  - Repeal
+  - Thirst for Knowledge
+  - Gifts Ungiven
+  - Remand
+  - Trading Post
+  - Solemn Simulacrum
+  - Academy Ruins
+  - Island
+  - Tectonic Edge
+  - Condescend
+  - Fabricate
+  - Oblivion Stone
+  - Spell Burst
+  - Talisman of Dominance
+  - Cyclonic Rift
+  - Dismember
+  - Negate
+  - Pithing Needle
+  - Relic of Progenitus
+  - Spellskite
+  occurrences: 55
+---
+I haven't looked at Modern much lately, but with [Grand Prix Portland](/en/events/2013/portland13/grand-prix-portland-event-information) coming up, it's becoming a format for me to pay attention to. For the most part, the format is pretty stable, and recent **Magic Online** results feature a lot of the decks we've become accustomed to in Modern—Infect, Birthing Pod, Affinity, Jund, and the like. 
+
+ ![Trading Post](http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Trading%20Post&options=) 
+
+While using Expedition Map to assemble the Urza's Mine, Urza's Power Plant, and Urza's Tower combination known as "Tron" may not be especially new, ContraEgo takes the engine in a slightly different direction. 
+
+ContraEgo uses Treasure Mage to find any of a wide variety of high-impact artifacts: Platinum Angel, Spine of Ish Sah, Sundering Titan, Wurmcoil Engine, Mindslaver, and—from the sideboard—Steel Hellkite and Contagion Engine. These are backed by a heavy dose of counterspells, acceleration, and some removal, mostly in the form of Repeal. 
+
+Thirst for Knowledge offers this deck its card draw, as with most blue Tron decks, but what we don't see is a secondary card advantage instant like Gifts Ungiven. Instead, ContraEgo takes card drawing more incrementally with cards like Remand and Repeal smoothing the heavy lifting done by Thirst for Knowledge. 
+
+The card I'm most excited to see is the exceptionally fun Trading Post, which is at its best with cards like Solemn Simulacrum, but which also allows Mindslaver to get to work stealing multiple turns before the Academy Ruins engine is fully online to allow ContraEgo to control every action taken in the rest of the game. 
+
+ContraEgo's Mono-blue Tron 
+
+Modern – 3–1, Magic Online Daily #5294149
+
+[![View a sample hand of this deck](https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png)](https://web.archive.org/web/20130531091802/http://wizards.com/magic/samplehand.asp?x=mtg/daily/deck/1217&decknum=1) 
+
+[![Download a .dek file for use in Magic Online](https://i.ormos.uk/7d/67/7d67a37edff07800cb466fa53a1880fe4f5a9f5af21d4a85210e22956ee20ec0.png)](https://web.archive.org/web/20130423000000/https://www.wizards.com/magic/mtgdailydeck1217x1.dek?x=mtg/daily/deck/1217&decknum=1) 
+
+  
+ 
+
+<table>&#10;          <tbody><tr>&#10;            <td colspan="2">&#10;              <p>Main Deck</p>&#10;              <p>60 cards&#10;									</p>&#10;            </td>&#10;            <td>&#10;          </td></tr>&#10;          <tr>&#10;            <td>1 &#10;&#10;		<a>Academy Ruins</a><br>10 &#10;&#10;		<a>Island</a><br>1 &#10;&#10;		<a>Tectonic Edge</a><br>4 &#10;&#10;		<a>Urza's Mine</a><br>4 &#10;&#10;		<a>Urza's Power Plant</a><br>4 &#10;&#10;		<a>Urza's Tower</a><br><hr>24 lands<br><br>1 &#10;&#10;		<a>Platinum Angel</a><br>2 &#10;&#10;		<a>Solemn Simulacrum</a><br>1 &#10;&#10;		<a>Sundering Titan</a><br>2 &#10;&#10;		<a>Treasure Mage</a><br>1 &#10;&#10;		<a>Wurmcoil Engine</a><br><hr>7 creatures<br><br></td>&#10;            <td>4 &#10;&#10;		<a>Condescend</a><br>3 &#10;&#10;		<a>Expedition Map</a><br>1 &#10;&#10;		<a>Fabricate</a><br>1 &#10;&#10;		<a>Mindslaver</a><br>1 &#10;&#10;		<a>Oblivion Stone</a><br>4 &#10;&#10;		<a>Remand</a><br>4 &#10;&#10;		<a>Repeal</a><br>1 &#10;&#10;		<a>Spell Burst</a><br>1 &#10;&#10;		<a>Spine of Ish Sah</a><br>4 &#10;&#10;		<a>Talisman of Dominance</a><br>4 &#10;&#10;		<a>Thirst for Knowledge</a><br>1 &#10;&#10;		<a>Trading Post</a><br><hr>29 other spells<br><br></td>&#10;            <td>&#10;              <div>&#10;                &#10;              </div>&#10;              <div>&#10;                <div>&#10;                  <b>&#10;                    <i>Sideboard</i>&#10;                  </b>&#10;                </div>1 &#10;&#10;		<a>Contagion Engine</a><br>1 &#10;&#10;		<a>Cyclonic Rift</a><br>2 &#10;&#10;		<a>Dismember</a><br>2 &#10;&#10;		<a>Negate</a><br>2 &#10;&#10;		<a>Pithing Needle</a><br>3 &#10;&#10;		<a>Relic of Progenitus</a><br>2 &#10;&#10;		<a>Spellskite</a><br>1 &#10;&#10;		<a>Steel Hellkite</a><br>1 &#10;&#10;		<a>Wurmcoil Engine</a><br><hr>15 sideboard cards<br><br></div>&#10;            </td>&#10;          </tr>&#10;        </tbody></table>
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?size=small&multiverseid=10100000&type=card) 
+
+  
+ 
+
+  
+
+<table>&#10;      <tbody><tr>&#10;        <td>&#10;          <a href="https://twitter.com/share">Tweet</a>&#10;        </td>&#10;        <td>&#10;          <div>Words</div>&#10;        </td>&#10;        <td>&#10;          <div id="fb-root">&#10;            <div>Words</div>&#10;          </div>&#10;        </td>&#10;      </tr>&#10;    </tbody></table>
+
+  
+ ![](http://media.wizards.com/images/magic/daily/footers/slice1.jpg) ![](https://i.ormos.uk/fe/09/fe097f0534f2f349ad9ffb786d37b5cc20927d6a21bddde474b70c5c865e22df.jpg)
+
+ 
+
+![Sam Black](https://i.ormos.uk/28/87/2887c0b92783c3612819fc1a3f7bd8d8d1b91d982c845f1f9298d8080fa3b81f.jpg "Sam Black")
+
+<table>&#10;    <tbody><tr>&#10;      <td>&#10;        <b>Sam Black</b>&#10;        <br>&#10;        <a href="https://twitter.com/samuelhblack">@SamuelHBlack</a>&#10;        <br>&#10;        <a href="https://web.archive.org/web/20130423000000/https://www.wizards.com/company/emailtoauthor.asp?author=Sam%20Black&amp;amp;headline=[Modern%20Blue%20Treasures]">Email Sam</a>&#10;      </td>&#10;      <td>&#10;        <a href="https://web.archive.org/web/20130423000000/http://staging.wizards.com/magic/magazine/archive.aspx?author=sam%20black">Author Archive</a>&#10;        <br>&#10;        <a href="https://web.archive.org/web/20130423000000/https://www.wizards.com/magic/magazine/archive.aspx?tag=dailydeck&amp;description=daily%20deck">Daily Deck Archive</a>&#10;      </td>&#10;    </tr>&#10;  </tbody></table>
+
+  
+
+Sam Black is a Platinum Pro Player and longtime writer for [StarCityGames.com](http://www.starcitygames.com/tags/SamBlack). He is a respected deck builder and took over Daily Decks for the first half of 2013. If you have an original deck you'd like to see featured, email him with the link above. 
+
+ 

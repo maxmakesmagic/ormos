@@ -1,0 +1,78 @@
+---
+id: 9p0jwmpc
+kind: article
+lang: en
+path: /en/articles/makingmagic/2014/04-17-top-25-rankings-april-17-2014
+title: 'Top 25 Rankings: April 17, 2014'
+published: '2014-04-17'
+column_slug: makingmagic
+column: Making Magic
+authors:
+- slug: wizardsofthecoast
+  name: Wizards of the Coast
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/making-magic/top-25-rankings-april-17-2014-2014-04-17
+    lang_detected: en
+    capture_id: 929293
+    url: https://magic.wizards.com/en/articles/archive/making-magic/top-25-rankings-april-17-2014-2014-04-17
+    captured_at: '2022-05-25 19:48:44+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/making-magic/top-25-rankings-april-17-2014-2014-04-17
+    lang_detected: en
+    capture_id: 929293
+    url: https://magic.wizards.com/en/articles/archive/making-magic/top-25-rankings-april-17-2014-2014-04-17
+    captured_at: '2022-05-25 19:48:44+00'
+    rule: drupal.posted_in_date
+  authors:
+    page_key: magic.wizards.com/en/articles/archive/making-magic/top-25-rankings-april-17-2014-2014-04-17
+    lang_detected: en
+    capture_id: 929293
+    url: https://magic.wizards.com/en/articles/archive/making-magic/top-25-rankings-april-17-2014-2014-04-17
+    captured_at: '2022-05-25 19:48:44+00'
+    rule: drupal.div_author
+  column:
+    page_key: magic.wizards.com/en/articles/archive/making-magic/top-25-rankings-april-17-2014-2014-04-17
+    lang_detected: en
+    capture_id: 929293
+    url: https://magic.wizards.com/en/articles/archive/making-magic/top-25-rankings-april-17-2014-2014-04-17
+    captured_at: '2022-05-25 19:48:44+00'
+    rule: drupal.posted_in_link
+    registry_match: registry.explicit
+sources:
+- document_id: 9p0jwmpc
+  url: https://magic.wizards.com/en/articles/archive/making-magic/top-25-rankings-april-17-2014-2014-04-17
+  page_key: magic.wizards.com/en/articles/archive/making-magic/top-25-rankings-april-17-2014-2014-04-17
+  lang: en
+  template: drupal
+  captured_at: '2022-05-25 19:48:44+00'
+  capture_id: 929293
+  wayback_url: https://web.archive.org/web/20220525194844id_/https://magic.wizards.com/en/articles/archive/making-magic/top-25-rankings-april-17-2014-2014-04-17
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 9p0jwmpc
+  capture_id: 929293
+  url: https://magic.wizards.com/en/articles/archive/making-magic/top-25-rankings-april-17-2014-2014-04-17
+  wayback_url: https://web.archive.org/web/20220525194844id_/https://magic.wizards.com/en/articles/archive/making-magic/top-25-rankings-april-17-2014-2014-04-17
+  captured_at: '2022-05-25 19:48:44+00'
+  template: drupal
+  sha256: 52f7b66ce068a68956a9d2f3eda76b9f5b724a4d2cfc77379ecc9136b2eb39aa
+render_recovery: []
+---
+Welcome to our latest look at the **Magic** Top 25 Pro Rankings, and another double-header weekend of Grand Prix action. In Japan, [Nagoya](https://web.archive.org/web/20140417000000/https://magic.wizards.com/en/events/coverage/kasuga-drops-hammer-nagoya) was the venue, while [Philadelphia](https://web.archive.org/web/20140417000000/https://magic.wizards.com/en/events/coverage/grand-prix-philadelphia-coverage) hosted North American action, with both cities featuring *Theros*/*Born of the Gods* Limited. Nagoya saw two of the three biggest movers on the weekend. Hong Kong's Lee Shi Tian has an excellent track record, most recently when making the Top 8 of [Pro Tour *Born of the Gods*](https://web.archive.org/web/20140417000000/https://magic.wizards.com/en/events/coverage/ptbngs14) in Valencia. In Nagoya, he had to settle for 3 additional Pro Points, thanks to a 13th-place finish. Even so, in a tightly packed group in the rankings, those points were enough to take him past Josh Utter-Leyton, Alexander Hayne, Jacob Wilson, Stanislav Cifka, and Willy Edel, up five places to No. 10. 
+
+The other climber to come out of Nagoya was Kentaro Yamamoto, another player who has a Pro Tour Top 8 to his name this season, in this case from [Pro Tour *Theros*](https://web.archive.org/web/20140417000000/https://magic.wizards.com/en/events/coverage/ptthr13) back in Dublin, last year. In Nagoya, his efforts were good enough for 32nd place, and that's a good place to be, since it nets a 2nd Pro Point for being inside the Top 32. His ranking shifts upwards by three to No. 22. 
+
+Meanwhile, in Philadelphia, David Ochoa also rose three spots, climbing from No. 24 up to No. 21, bypassing Chris Fennell, Raphaël Lévy, and Martin Juza. Although he was the biggest mover in terms of points, he wasn't the most successful, since both William Jensen and No. 2 Reid Duke both added another Grand Prix Top 8 to their career highlight reels. Nonetheless, with the five Grand Prix Cap Rule in operation—points are only awarded for the best five GP finishes across the season—Jensen's quarterfinal exit didn't gain him any points, while Duke edged closer to the No. 1 ranked Jérémy Dezani.
+
+Now we enter a quiet few weeks on the Pro scene, with the focus squarely on Journey Into Nyx. Join us next week for more on the **Magic** Top 25 Pro Rankings. 
+
+*Updated April 17, 2014* 
+
+<table><tbody><tr><th>Rank</th>&#10;					<th>Name</th>&#10;					<th>Points</th>&#10;					<th colspan="2">Change</th>&#10;					<th>Previous</th>&#10;				</tr><tr><td>1</td>&#10;					<td>&#10;						<img src="https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/special/ranking/flags/fr.png" title="France">Jeremy Dezani </td>&#10;					<td>69.49</td>&#10;					<td colspan="2">&#10;						<img src="https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/special/ranking/same.png"></td>&#10;					<td>1</td>&#10;				</tr><tr><td>2</td>&#10;					<td>&#10;						<img src="https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/special/ranking/flags/us.png" title="United States">Reid Duke </td>&#10;					<td>62.50</td>&#10;					<td colspan="2">&#10;						<img src="https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/special/ranking/same.png"></td>&#10;					<td>2</td>&#10;				</tr><tr><td>3</td>&#10;					<td>&#10;						<img src="https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/special/ranking/flags/us.png" title="United States">Owen Turtenwald </td>&#10;					<td>57.54</td>&#10;					<td colspan="2">&#10;						<img src="https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/special/ranking/same.png"></td>&#10;					<td>3</td>&#10;				</tr><tr><td>4</td>&#10;					<td>&#10;						<img src="https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/special/ranking/flags/us.png" title="United States">Ben Stark </td>&#10;					<td>54.66</td>&#10;					<td colspan="2">&#10;						<img src="https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/special/ranking/same.png"></td>&#10;					<td>4</td>&#10;				</tr><tr><td>5</td>&#10;					<td>&#10;						<img src="https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/special/ranking/flags/us.png" title="United States">Samuel Black </td>&#10;					<td>52.41</td>&#10;					<td colspan="2">&#10;						<img src="https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/special/ranking/same.png"></td>&#10;					<td>5</td>&#10;				</tr><tr><td>6</td>&#10;					<td>&#10;						<img src="https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/special/ranking/flags/il.png" title="Israel">Shahar Shenhar </td>&#10;					<td>50.74</td>&#10;					<td colspan="2">&#10;						<img src="https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/special/ranking/same.png"></td>&#10;					<td>6</td>&#10;				</tr><tr><td>7</td>&#10;					<td>&#10;						<img src="https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/special/ranking/flags/us.png" title="United States">Tom Martell </td>&#10;					<td>50.11</td>&#10;					<td colspan="2">&#10;						<img src="https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/special/ranking/same.png"></td>&#10;					<td>7</td>&#10;				</tr><tr><td>8</td>&#10;					<td>&#10;						<img src="https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/special/ranking/flags/jp.png" title="Japan">Yuuya Watanabe </td>&#10;					<td>49.63</td>&#10;					<td colspan="2">&#10;						<img src="https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/special/ranking/same.png"></td>&#10;					<td>8</td>&#10;				</tr><tr><td>9</td>&#10;					<td>&#10;						<img src="https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/special/ranking/flags/jp.png" title="Japan">Shuhei Nakamura </td>&#10;					<td>47.98</td>&#10;					<td colspan="2">&#10;						<img src="https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/special/ranking/same.png"></td>&#10;					<td>9</td>&#10;				</tr><tr><td>10</td>&#10;					<td>&#10;						<img src="https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/special/ranking/flags/hk.png" title="Hong Kong">Shi Tian Lee </td>&#10;					<td>46.58</td>&#10;					<td>&#10;						<img src="https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/special/ranking/up.png"></td>&#10;					<td>+5</td>&#10;					<td>15</td>&#10;				</tr><tr><td>11</td>&#10;					<td>&#10;						<img src="https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/special/ranking/flags/us.png" title="United States">Josh Utter-Leyton </td>&#10;					<td>46.51</td>&#10;					<td>&#10;						<img src="https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/special/ranking/down.png"></td>&#10;					<td>-1</td>&#10;					<td>10</td>&#10;				</tr><tr><td>12</td>&#10;					<td>&#10;						<img src="https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/special/ranking/flags/ca.png" title="Canada">Alexander Hayne </td>&#10;					<td>45.93</td>&#10;					<td>&#10;						<img src="https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/special/ranking/down.png"></td>&#10;					<td>-1</td>&#10;					<td>11</td>&#10;				</tr><tr><td>13</td>&#10;					<td>&#10;						<img src="https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/special/ranking/flags/ca.png" title="Canada">Jacob Wilson </td>&#10;					<td>44.93</td>&#10;					<td colspan="2">&#10;						<img src="https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/special/ranking/same.png"></td>&#10;					<td>13</td>&#10;				</tr><tr><td>14</td>&#10;					<td>&#10;						<img src="https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/special/ranking/flags/cz.png" title="Czech Republic">Stanislav Cifka </td>&#10;					<td>44.74</td>&#10;					<td>&#10;						<img src="https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/special/ranking/down.png"></td>&#10;					<td>-2</td>&#10;					<td>12</td>&#10;				</tr><tr><td>15</td>&#10;					<td>&#10;						<img src="https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/special/ranking/flags/br.png" title="Brazil">Willy Edel </td>&#10;					<td>44.50</td>&#10;					<td>&#10;						<img src="https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/special/ranking/down.png"></td>&#10;					<td>-1</td>&#10;					<td>14</td>&#10;				</tr><tr><td>16</td>&#10;					<td>&#10;						<img src="https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/special/ranking/flags/us.png" title="United States">Josh Mcclain </td>&#10;					<td>43.64</td>&#10;					<td colspan="2">&#10;						<img src="https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/special/ranking/same.png"></td>&#10;					<td>16</td>&#10;				</tr><tr><td>17</td>&#10;					<td>&#10;						<img src="https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/special/ranking/flags/jp.png" title="Japan">Makihito Mihara </td>&#10;					<td>42.54</td>&#10;					<td colspan="2">&#10;						<img src="https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/special/ranking/same.png"></td>&#10;					<td>17</td>&#10;				</tr><tr><td>18</td>&#10;					<td>&#10;						<img src="https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/special/ranking/flags/us.png" title="United States">Paul Rietzl </td>&#10;					<td>41.17</td>&#10;					<td colspan="2">&#10;						<img src="https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/special/ranking/same.png"></td>&#10;					<td>18</td>&#10;				</tr><tr><td>19</td>&#10;					<td>&#10;						<img src="https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/special/ranking/flags/ca.png" title="Canada">Shaun Mclaren </td>&#10;					<td>40.72</td>&#10;					<td colspan="2">&#10;						<img src="https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/special/ranking/same.png"></td>&#10;					<td>19</td>&#10;				</tr><tr><td>20</td>&#10;					<td>&#10;						<img src="https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/special/ranking/flags/us.png" title="United States">Eric Froehlich </td>&#10;					<td>39.63</td>&#10;					<td colspan="2">&#10;						<img src="https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/special/ranking/same.png"></td>&#10;					<td>20</td>&#10;				</tr><tr><td>21</td>&#10;					<td>&#10;						<img src="https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/special/ranking/flags/us.png" title="United States">David Ochoa </td>&#10;					<td>39.50</td>&#10;					<td>&#10;						<img src="https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/special/ranking/up.png"></td>&#10;					<td>+3</td>&#10;					<td>24</td>&#10;				</tr><tr><td>22</td>&#10;					<td>&#10;						<img src="https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/special/ranking/flags/jp.png" title="Japan">Kentaro Yamamoto </td>&#10;					<td>39.20</td>&#10;					<td>&#10;						<img src="https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/special/ranking/up.png"></td>&#10;					<td>+3</td>&#10;					<td>25</td>&#10;				</tr><tr><td>23</td>&#10;					<td>&#10;						<img src="https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/special/ranking/flags/us.png" title="United States">Chris Fennell </td>&#10;					<td>38.21</td>&#10;					<td>&#10;						<img src="https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/special/ranking/down.png"></td>&#10;					<td>-2</td>&#10;					<td>21</td>&#10;				</tr><tr><td>24</td>&#10;					<td>&#10;						<img src="https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/special/ranking/flags/fr.png" title="France">Raphael Levy </td>&#10;					<td>37.65</td>&#10;					<td>&#10;						<img src="https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/special/ranking/down.png"></td>&#10;					<td>-1</td>&#10;					<td>23</td>&#10;				</tr><tr><td>25</td>&#10;					<td>&#10;						<img src="https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/special/ranking/flags/cz.png" title="Czech Republic">Martin Juza </td>&#10;					<td>37.50</td>&#10;					<td>&#10;						<img src="https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/special/ranking/down.png"></td>&#10;					<td>-3</td>&#10;					<td>22</td>&#10;				</tr></tbody></table>
+
+  
+
+**Dropped from rankings:** William Jensen

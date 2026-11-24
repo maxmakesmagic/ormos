@@ -1,0 +1,782 @@
+---
+id: 0qzswwk6
+kind: event
+lang: en
+path: /en/events/2007/mi07/cube-draft-card-list
+title: Cube Draft Card List
+published: null
+column_slug: null
+column: null
+authors: []
+event_code: mi07
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/mi07/cubelist
+    lang_detected: en
+    capture_id: 1090605
+    url: http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/mi07/cubelist
+    captured_at: '2013-06-29 05:16:01+00'
+    rule: aspx.article_heading
+  event_code:
+    page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/mi07/cubelist
+    lang_detected: en
+    capture_id: 1090605
+    url: http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/mi07/cubelist
+    captured_at: '2013-06-29 05:16:01+00'
+    rule: url.event_code
+sources:
+- document_id: 0qzswwk6
+  url: http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/mi07/cubelist
+  page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/mi07/cubelist
+  lang: en
+  template: aspx
+  captured_at: '2013-06-29 05:16:01+00'
+  capture_id: 1090605
+  wayback_url: https://web.archive.org/web/20130629051601id_/http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/mi07/cubelist
+- document_id: 0qzswwk6
+  url: http://www.wizards.com/default.asp?x=mtgevent/mi07/cubelist
+  page_key: wizards.com/default.asp?x=mtgevent/mi07/cubelist
+  lang: en
+  template: classic_asp
+  captured_at: '2008-05-14 10:01:12+00'
+  capture_id: 2090002
+  wayback_url: https://web.archive.org/web/20080514100112id_/http://www.wizards.com/default.asp?x=mtgevent/mi07/cubelist
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 0qzswwk6
+  capture_id: 1090605
+  url: http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/mi07/cubelist
+  wayback_url: https://web.archive.org/web/20130629051601id_/http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/mi07/cubelist
+  captured_at: '2013-06-29 05:16:01+00'
+  template: aspx
+  sha256: 66f098464c1a41f9054c8577bd0f7fcd41c5c0f1f10eda902e7450f1924582c0
+render_recovery:
+- code: unsupported_link
+  element: a
+  target: javascript:void()
+  reason: The link uses a JavaScript placeholder. The preview kept any visible label.
+  labels:
+  - Abeyance
+  - Aeon Chronicler
+  - Animate Dead
+  - Akroma, Angel of Fury
+  - Albino Troll
+  - Aether Vial
+  - Academy Ruins
+  - Angel of Despair
+  - Academy Rector
+  - Ancestral Recall
+  - Avatar of Woe
+  - Ancient Hydra
+  - Aluren
+  - Altar of Dementia
+  - Ancient Tomb
+  - Anurid Brushhopper
+  - Adarkar Valkyrie
+  - Aquamoeba
+  - Bad Moon
+  - Anger
+  - Argothian Enchantress
+  - Ankh of Mishra
+  - Azorius Chancery
+  - Armadillo Cloak
+  - Ajani Goldmane
+  - Arcane Denial
+  - Black Knight
+  - Arc Lightning
+  - Arrogant Wurm
+  - Black Lotus
+  - Badlands
+  - Brion Stoutarm
+  - Akroma, Angel of Wrath
+  - Blue Elemental Blast
+  - Braids, Cabal Minion
+  - Arc-Slogger
+  - Awakening
+  - Black Vise
+  - Bayou
+  - Burning-Tree Shaman
+  - Akroma's Vengeance
+  - Boomerang
+  - Buried Alive
+  - Avalanche Riders
+  - Basking Rootwalla
+  - Bottle Gnomes
+  - Bazaar of Baghdad
+  - Cavern Harpy
+  - Armageddon
+  - Brain Freeze
+  - Carnophage
+  - Ball Lightning
+  - Beacon of Creation
+  - Bottled Cloister
+  - Blinkmoth Nexus
+  - Death Grasp
+  - Arrest
+  - Braingeyser
+  - Carrion Feeder
+  - Blistering Firecat
+  - Berserk
+  - Candelabra of Tawnos
+  - Boros Garrison
+  - Fire/Ice
+  - Aura of Silence
+  - Brainstorm
+  - Chainer's Edict
+  - Blood Knight
+  - Birds of Paradise
+  - Chimeric Idol
+  - City of Brass
+  - Fires of Yavimaya
+  - Auriok Salvagers
+  - Brine Elemental
+  - Chains of Mephistopheles
+  - Bogardan Hellkite
+  - Blanchwood Armor
+  - Chrome Mox
+  - Desert
+  - Frenetic Efreet
+  - Austere Command
+  - Capsize
+  - Consume Spirit
+  - Boom/Bust
+  - Blastoderm
+  - Coalition Relic
+  - Dimir Aqueduct
+  - Gaddock Teeg
+  - Aven Mindcensor
+  - Chain of Vapor
+  - Contagion
+  - Browbeat
+  - Blurred Mongoose
+  - Coldsteel Heart
+  - Faerie Conclave
+  - Giant Solifuge
+  - Aven Riftwatcher
+  - Circular Logic
+  - Contamination
+  - Chain Lightning
+  - Bounty of the Hunt
+  - Crucible of Worlds
+  - Forbidden Orchard
+  - Goblin Legionnaire
+  - Balance
+  - Cloud Spirit
+  - Corpse Dance
+  - Chandra Nalaar
+  - Briarhorn
+  - Crumbling Sanctuary
+  - Gaea's Cradle
+  - Goblin Trenches
+  - Balancing Act
+  - Confiscate
+  - Corrupt
+  - Char
+  - Call of the Herd
+  - Cursed Scroll
+  - Gemstone Mine
+  - Loxodon Hierarch
+  - Battle Screech
+  - Control Magic
+  - Crypt Champion
+  - Clickslither
+  - Caller of the Claw
+  - Darksteel Colossus
+  - Golgari Rot Farm
+  - Meddling Mage
+  - Benevolent Bodyguard
+  - Copy Artifact
+  - Crypt Rats
+  - Covetous Dragon
+  - Channel
+  - Duplicant
+  - Gruul Turf
+  - Mirari's Wake
+  - Burrenton Forge-Tender
+  - Counterbalance
+  - Damnation
+  - Demonfire
+  - Constant Mists
+  - Engineered Explosives
+  - Izzet Boilerworks
+  - Mystic Snake
+  - Calciderm
+  - Counterspell
+  - Dark Confidant
+  - Dragonstorm
+  - Creeping Mold
+  - Fellwar Stone
+  - Karakas
+  - Pernicious Deed
+  - Cataclysm
+  - Cryptic Command
+  - Dark Ritual
+  - Dwarven Blastminer
+  - Defense of the Heart
+  - Gilded Lotus
+  - Kjeldoran Outpost
+  - Prophetic Bolt
+  - Cloudchaser Kestrel
+  - Curiosity
+  - Darkblast
+  - Earthquake
+  - Deranged Hermit
+  - Grim Monolith
+  - Library of Alexandria
+  - Psychatog
+  - Condemn
+  - Daze
+  - Dauthi Horror
+  - Empty the Warrens
+  - Early Harvest
+  - Horn of Greed
+  - Llanowar Reborn
+  - Rakdos Augermage
+  - Crovax, Ascendant Hero
+  - Deep Analysis
+  - Dauthi Slayer
+  - Fiery Temper
+  - Earthcraft
+  - Howling Mine
+  - Maze of Ith
+  - Rakdos Guildmage
+  - Crusade
+  - Delay
+  - Demonic Tutor
+  - Fire Imp
+  - Elephant Guide
+  - Icy Manipulator
+  - Mishra's Factory
+  - Saffi Eriksdotter
+  - Decree of Justice
+  - Desertion
+  - Desolation Angel
+  - Fireball
+  - Elves of Deep Shadow
+  - Illusionary Mask
+  - Mishra's Workshop
+  - Shadowmage Infiltrator
+  - Deftblade Elite
+  - Disrupt
+  - Diabolic Edict
+  - Fireblast
+  - Elvish Spirit Guide
+  - Isochron Scepter
+  - Orzhov Basilica
+  - Spiritmonger
+  - Devout Witness
+  - Dissipate
+  - Doomed Necromancer
+  - Firebolt
+  - Essence Warden
+  - Ivory Tower
+  - Plateau
+  - Stormbind
+  - Disenchant
+  - Donate
+  - Drain Life
+  - Fireslinger
+  - Eternal Witness
+  - Juggernaut
+  - Rakdos Carnarium
+  - Terminate
+  - Eight-and-a-Half-Tails
+  - Fact or Fiction
+  - Dread Return
+  - Firestorm
+  - Exploration
+  - Lotus Bloom
+  - Reflecting Pool
+  - Teysa, Orzhov Scion
+  - Empyrial Armor
+  - Fathom Seer
+  - Duress
+  - Flametongue Kavu
+  - Fangren Firstborn
+  - Loxodon Warhammer
+  - Rishadan Port
+  - Vindicate
+  - Enduring Renewal
+  - Flash
+  - Entomb
+  - Fledgling Dragon
+  - Farseek
+  - Mana Crypt
+  - Savannah
+  - Void
+  - Enlightened Tutor
+  - Flying Men
+  - Exhume
+  - Fork
+  - Fastbond
+  - Mana Vault
+  - Scrubland
+  - Watchwolf
+  - Eternal Dragon
+  - Forbid
+  - Faceless Butcher
+  - Gamble
+  - Fertile Ground
+  - Masticore
+  - Selesnya Sacntuary
+  - Wax/Wane
+  - Exalted Angel
+  - Force of Will
+  - Flesh Reaver
+  - Ghitu Slinger
+  - Fyndhorn Elves
+  - Memory Jar
+  - Simic Growth Chamber
+  - Faith's Fetters
+  - Force Spike
+  - Forsaken Wastes
+  - Goblin Bombardment
+  - Garruk Wildspeaker
+  - Metalworker
+  - Strip Mine
+  - Genju of the Fields
+  - Frantic Search
+  - Funeral Charm
+  - Goblin Cadets
+  - Genesis
+  - Mind Stone
+  - Taiga
+  - Glorious Anthem
+  - Future Sight
+  - Graveborn Muse
+  - Goblin Goon
+  - Ghazban Ogre
+  - Mindslaver
+  - Terramorphic Expanse
+  - Glory
+  - Gifts Ungiven
+  - Hand of Cruelty
+  - Goblin Grenade
+  - Giant Growth
+  - Mirari
+  - Thawing Glaciers
+  - Goldmeadow Harrier
+  - Gilded Drake
+  - Hatred
+  - Goblin King
+  - Golgari Grave-Troll
+  - Mirror Universe
+  - The Tabernacle at Pendrell Vale
+  - Griffin Guide
+  - Gush
+  - Hymn to Tourach
+  - Goblin Lackey
+  - Granger Guildmage
+  - Mox Diamond
+  - Tolarian Academy
+  - Hand of Honor
+  - Hydroblast
+  - Hypnotic Specter
+  - Goblin Matron
+  - Greater Good
+  - Mox Emerald
+  - Treetop Village
+  - Hokori, Dust Drinker
+  - Illusions of Grandeur
+  - Ichorid
+  - Goblin Patrol
+  - Harmonize
+  - Mox Jet
+  - Tropical Island
+  - Honorable Passage
+  - Impulse
+  - Imperial Seal
+  - Goblin Piledriver
+  - Heartbeat of Spring
+  - Mox Pearl
+  - Tundra
+  - Humility
+  - Intruder Alarm
+  - Ink-Eyes, Servant of Oni
+  - Goblin Warchief
+  - Hermit Druid
+  - Mox Ruby
+  - Underground Sea
+  - Icatian Javelineers
+  - Jace Beleren
+  - Juzam Djinn
+  - Goblin Welder
+  - Holistic Wisdom
+  - Mox Sapphire
+  - Undiscovered Paradise
+  - Isamaru, Hound of Konda
+  - Keiga the Tide Star
+  - Kaervek's Spite
+  - Gorilla Shaman
+  - Hurricane
+  - Nevinyrral's Disk
+  - Urborg, Tomb of Yawgmoth
+  - Jotun Grunt
+  - Looter il-Kor
+  - Knight of Stromgald
+  - Grapeshot
+  - Invigorate
+  - Phyrexian Dreadnought
+  - Volcanic Island
+  - Kami of Ancient Law
+  - Mana Drain
+  - Kokusho, the Evening Star
+  - Greater Gargadon
+  - Iwamori of the Open Fist
+  - Phyrexian Processor
+  - Volrath's Stronghold
+  - Kataki, War's Wage
+  - Mana Leak
+  - Krovikan Horror
+  - Grim Lavamancer
+  - Jungle Lion
+  - Pithing Needle
+  - Wasteland
+  - Knight of Meadowgrain
+  - Man-o'-War
+  - Last Gasp
+  - Grinning Ignus
+  - Kavu Titan
+  - Platinum Angel
+  - Knight of the Holy Nimbus
+  - March of the Machines
+  - Liliana Vess
+  - Hammer of Bogardan
+  - Kodama of the North Tree
+  - Powder Keg
+  - Land Tax
+  - Meloku the Clouded Mirror
+  - Living Death
+  - Hearth Kami
+  - Kodama's Reach
+  - Prismatic Lens
+  - Leonin Abunas
+  - Memory Lapse
+  - Lurking Evil
+  - Hostility
+  - Krosan Grip
+  - Scroll Rack
+  - Leonin Skyhunter
+  - Merchant Scroll
+  - Mesmeric Fiend
+  - Imperial Recruiter
+  - Krosan Tusker
+  - Sensei's Divining Top
+  - Longbow Archer
+  - Merfolk Looter
+  - Mind Twist
+  - Incendiary Command
+  - Life from the Loam
+  - Serrated Arrows
+  - Mageta the Lion
+  - Mind Over Matter
+  - Mutilate
+  - Incinerate
+  - Llanowar Elves
+  - Skullclamp
+  - Mana Tithe
+  - Mind's Desire
+  - Nantuko Husk
+  - Jackal Pup
+  - Loaming Shaman
+  - Smokestack
+  - Martyr of Sands
+  - Misdirection
+  - Nantuko Shade
+  - Keldon Marauders
+  - Might of Oaks
+  - Sol Ring
+  - Militia's Pride
+  - Morphling
+  - Necromancy
+  - Keldon Vandals
+  - Moldervine Cloak
+  - Solemn Simulacrum
+  - Mirror Entity
+  - Mystical Teachings
+  - Necropotence
+  - Kiki-Jiki, Mirror Breaker
+  - Moment's Peace
+  - Soul Foundry
+  - Moat
+  - Mystical Tutor
+  - Nekrataal
+  - Kird Ape
+  - Mtenda Lion
+  - Static Orb
+  - Momentary Blink
+  - Ninja of the Deep Hours
+  - Nether Spirit
+  - Kris Mage
+  - Natural Order
+  - Stuffy Doll
+  - Mother of Runes
+  - Old Man of the Sea
+  - Nether Void
+  - Lash Out
+  - Naturalize
+  - Sundering Titan
+  - Oblivion Ring
+  - Ophidian
+  - Nezumi Graverobber
+  - Lava Dart
+  - Oath of Druids
+  - Sword of Fire and Ice
+  - Opalescence
+  - Opposition
+  - Nezumi Shortfang
+  - Lava Hounds
+  - Ohran Viper
+  - Tangle Wire
+  - Order of Leitbur
+  - Opt
+  - Night's Whisper
+  - Lightning Bolt
+  - Overrun
+  - Tormod's Crypt
+  - Order of the White Shield
+  - Palinchron
+  - Nightscape Familiar
+  - Magma Jet
+  - Pattern of Rebirth
+  - Triskelion
+  - Orim's Chant
+  - Parallax Tide
+  - Oona's Prowler
+  - Magus of the Scroll
+  - Phantom Centaur
+  - Umezawa's Jitte
+  - Pacifism
+  - Ponder
+  - Order of the Ebon Hand
+  - Mana Flare
+  - Plow Under
+  - Vedalken Shackles
+  - Paladin en-Vec
+  - Power Sink
+  - Persecute
+  - Mogg Fanatic
+  - Pouncing Jaguar
+  - Voltaic Key
+  - Parallax Wave
+  - Propaganda
+  - Pestilence
+  - Mogg Flunkies
+  - Primal Command
+  - Wayfarer's Bauble
+  - Pariah
+  - Psionic Blast
+  - Phyrexian Arena
+  - Mogg War Marshall
+  - Protean Hulk
+  - Winter Orb
+  - Peacekeeper
+  - Remand
+  - Phyrexian Negator
+  - Obliterate
+  - Quirion Dryad
+  - Zuran Orb
+  - Preacher
+  - Repeal
+  - Plague Sliver
+  - Pandemonium
+  - Quirion Ranger
+  - Pristine Angel
+  - Riftwing Cloudskate
+  - Plagued Rusalka
+  - Pillage
+  - Rancor
+  - Proclamation of Rebirth
+  - Rishadan Airship
+  - Pox
+  - Pulse of the Forge
+  - Ravenous Baloth
+  - Pulse of the Fields
+  - Rising Waters
+  - Priest of Gix
+  - Pyroblast
+  - Regrowth
+  - Radiant's Dragoons
+  - Rootwater Thief
+  - Profane Command
+  - Pyroclasm
+  - River Boa
+  - Renounce
+  - Sea Drake
+  - Reanimate
+  - Rathi Dragon
+  - Rofellos, Llanowar Emissary
+  - Replenish
+  - Serendib Djinn
+  - Recurring Nightmare
+  - Reckless Charge
+  - Rogue Elephant
+  - Resurrection
+  - Serendib Efreet
+  - Rotlung Reanimator
+  - Red Elemental Blast
+  - Sakura-Tribe Elder
+  - Reya Dawnbringer
+  - Spell Burst
+  - Sarcomancy
+  - Rhystic Lightning
+  - Saproling Burst
+  - Ronom Unicorn
+  - Spiketail Hatchling
+  - Shadow Guildmage
+  - Rorix Bladewing
+  - Scryb Ranger
+  - Rule of Law
+  - Standstill
+  - Shriekmaw
+  - Scorched Rusalka
+  - Search for Tomorrow
+  - Sacred Mesa
+  - Stasis
+  - Sinkhole
+  - Seal of Fire
+  - Seedborn Muse
+  - Samurai of the Pale Curtain
+  - Stifle
+  - Skeletal Scrying
+  - Sedge Troll
+  - Silvos, Rogue Elemental
+  - Savannah Lions
+  - Stroke of Genius
+  - Skirge Familiar
+  - Seething Song
+  - Simian Grunts
+  - Seal of Cleansing
+  - Teferi, Mage of Zhalfir
+  - Skittering Skirge
+  - Seismic Assault
+  - Spectral Bears
+  - Serenity
+  - Temporal Adept
+  - Smallpox
+  - Shard Phoenix
+  - Spectral Force
+  - Serra Avatar
+  - Thieving Magpie
+  - Smother
+  - Shattering Spree
+  - Spike Feeder
+  - Serra Avenger
+  - Thirst for Knowledge
+  - Soul Feast
+  - Shock
+  - Spike Weaver
+  - Shining Shoal
+  - Time Spiral
+  - Soul Spike
+  - Shrapnel Blast
+  - Squirrel Nest
+  - Silver Knight
+  - Time Walk
+  - Spirit of the Night
+  - Siege-Gang Commander
+  - Stonewood Invocation
+  - Solitary Confinement
+  - Time Warp
+  - Stinkweed Imp
+  - Skizzik
+  - Survival of the Fittest
+  - Soltari Champion
+  - Timetwister
+  - Stromgald Crusader
+  - Slice and Dice
+  - Sylvan Library
+  - Soltari Monk
+  - Tinker
+  - Sudden Death
+  - Slith Firewalker
+  - Sylvan Safekeeper
+  - Soltari Priest
+  - Tradewind Rider
+  - Sutured Ghoul
+  - Sneak Attack
+  - Tarmogoyf
+  - Soul Warden
+  - Treachery
+  - Tendrils of Agony
+  - Squee, Goblin Nabob
+  - Terravore
+  - Spectral Lynx
+  - Trinket Mage
+  - Tendrils of Corruption
+  - Starstorm
+  - Thornscape Battlemage
+  - Stonecloaker
+  - Turnabout
+  - Terror
+  - Stone Rain
+  - Timbermare
+  - Story Circle
+  - Twincast
+  - The Abyss
+  - Sudden Shock
+  - Tooth and Nail
+  - Swords to Plowshares
+  - Unstable Mutation
+  - Thoughtseize
+  - Sulfur Elemental
+  - Troll Ascetic
+  - Temple Acolyte
+  - Upheaval
+  - Thrashing Wumpus
+  - Sulfuric Vortex
+  - Uktabi Orangutan
+  - Tithe
+  - Venser, Shaper Savant
+  - Underworld Dreams
+  - Tarfire
+  - Verdant Force
+  - True Believer
+  - Vesuvan Shapeshifter
+  - Unearth
+  - Threaten
+  - Viridian Shaman
+  - Weathered Wayfarer
+  - Voidmage Prodigy
+  - Unmask
+  - Tin Street Hooligan
+  - Viridian Zealot
+  - Whipcorder
+  - Waterfront Bouncer
+  - Vampiric Tutor
+  - Urza's Rage
+  - Wall of Blossoms
+  - White Knight
+  - Waterspout Djinn
+  - Vendetta
+  - Violent Eruption
+  - Wall of Roots
+  - White Shield Crusader
+  - Willbender
+  - Visara the Dreadful
+  - Volcanic Hammer
+  - Wild Dogs
+  - Wing Shards
+  - Windfall
+  - Withered Wretch
+  - Wheel of Fortune
+  - Wild Might
+  - Worship
+  - Withdraw
+  - Yawgmoth's Agenda
+  - Wildfire
+  - Wild Mongrel
+  - Wrath of God
+  - Wonder
+  - Yawgmoth's Bargain
+  - Worldgorger Dragon
+  - Worldly Tutor
+  - Yosei, the Morning Star
+  - Zur's Weirding
+  - Yawgmoth's Will
+  - Zo-Zu the Punisher
+  - Yavimaya Elder
+  occurrences: 720
+---
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <b>WHITE</b>&#10;    </td>&#10;    <td>&#10;      <b>BLUE</b>&#10;    </td>&#10;    <td>&#10;      <b>BLACK</b>&#10;    </td>&#10;    <td>&#10;      <b>RED</b>&#10;    </td>&#10;    <td>&#10;      <b>GREEN</b>&#10;    </td>&#10;    <td>&#10;      <b>ARTIFACT</b>&#10;    </td>&#10;    <td>&#10;      <b>LAND</b>&#10;    </td>&#10;    <td>&#10;      <b>GOLD</b>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Abeyance</a>&#10;    </td>&#10;    <td>&#10;      <a>Aeon Chronicler</a>&#10;    </td>&#10;    <td>&#10;      <a>Animate Dead</a>&#10;    </td>&#10;    <td>&#10;      <a>Akroma, Angel of Fury</a>&#10;    </td>&#10;    <td>&#10;      <a>Albino Troll</a>&#10;    </td>&#10;    <td>&#10;      <a>Aether Vial</a>&#10;    </td>&#10;    <td>&#10;      <a>Academy Ruins</a>&#10;    </td>&#10;    <td>&#10;      <a>Angel of Despair</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Academy Rector</a>&#10;    </td>&#10;    <td>&#10;      <a>Ancestral Recall</a>&#10;    </td>&#10;    <td>&#10;      <a>Avatar of Woe</a>&#10;    </td>&#10;    <td>&#10;      <a>Ancient Hydra</a>&#10;    </td>&#10;    <td>&#10;      <a>Aluren</a>&#10;    </td>&#10;    <td>&#10;      <a>Altar of Dementia</a>&#10;    </td>&#10;    <td>&#10;      <a>Ancient Tomb</a>&#10;    </td>&#10;    <td>&#10;      <a>Anurid Brushhopper</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Adarkar Valkyrie</a>&#10;    </td>&#10;    <td>&#10;      <a>Aquamoeba</a>&#10;    </td>&#10;    <td>&#10;      <a>Bad Moon</a>&#10;    </td>&#10;    <td>&#10;      <a>Anger</a>&#10;    </td>&#10;    <td>&#10;      <a>Argothian Enchantress</a>&#10;    </td>&#10;    <td>&#10;      <a>Ankh of Mishra</a>&#10;    </td>&#10;    <td>&#10;      <a>Azorius Chancery</a>&#10;    </td>&#10;    <td>&#10;      <a>Armadillo Cloak</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Ajani Goldmane</a>&#10;    </td>&#10;    <td>&#10;      <a>Arcane Denial</a>&#10;    </td>&#10;    <td>&#10;      <a>Black Knight</a>&#10;    </td>&#10;    <td>&#10;      <a>Arc Lightning</a>&#10;    </td>&#10;    <td>&#10;      <a>Arrogant Wurm</a>&#10;    </td>&#10;    <td>&#10;      <a>Black Lotus</a>&#10;    </td>&#10;    <td>&#10;      <a>Badlands</a>&#10;    </td>&#10;    <td>&#10;      <a>Brion Stoutarm</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Akroma, Angel of Wrath</a>&#10;    </td>&#10;    <td>&#10;      <a>Blue Elemental Blast</a>&#10;    </td>&#10;    <td>&#10;      <a>Braids, Cabal Minion</a>&#10;    </td>&#10;    <td>&#10;      <a>Arc-Slogger</a>&#10;    </td>&#10;    <td>&#10;      <a>Awakening</a>&#10;    </td>&#10;    <td>&#10;      <a>Black Vise</a>&#10;    </td>&#10;    <td>&#10;      <a>Bayou</a>&#10;    </td>&#10;    <td>&#10;      <a>Burning-Tree Shaman</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Akroma's Vengeance</a>&#10;    </td>&#10;    <td>&#10;      <a>Boomerang</a>&#10;    </td>&#10;    <td>&#10;      <a>Buried Alive</a>&#10;    </td>&#10;    <td>&#10;      <a>Avalanche Riders</a>&#10;    </td>&#10;    <td>&#10;      <a>Basking Rootwalla</a>&#10;    </td>&#10;    <td>&#10;      <a>Bottle Gnomes</a>&#10;    </td>&#10;    <td>&#10;      <a>Bazaar of Baghdad</a>&#10;    </td>&#10;    <td>&#10;      <a>Cavern Harpy</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Armageddon</a>&#10;    </td>&#10;    <td>&#10;      <a>Brain Freeze</a>&#10;    </td>&#10;    <td>&#10;      <a>Carnophage</a>&#10;    </td>&#10;    <td>&#10;      <a>Ball Lightning</a>&#10;    </td>&#10;    <td>&#10;      <a>Beacon of Creation</a>&#10;    </td>&#10;    <td>&#10;      <a>Bottled Cloister</a>&#10;    </td>&#10;    <td>&#10;      <a>Blinkmoth Nexus</a>&#10;    </td>&#10;    <td>&#10;      <a>Death Grasp</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Arrest</a>&#10;    </td>&#10;    <td>&#10;      <a>Braingeyser</a>&#10;    </td>&#10;    <td>&#10;      <a>Carrion Feeder</a>&#10;    </td>&#10;    <td>&#10;      <a>Blistering Firecat</a>&#10;    </td>&#10;    <td>&#10;      <a>Berserk</a>&#10;    </td>&#10;    <td>&#10;      <a>Candelabra of Tawnos</a>&#10;    </td>&#10;    <td>&#10;      <a>Boros Garrison</a>&#10;    </td>&#10;    <td>&#10;      <a>Fire/Ice</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Aura of Silence</a>&#10;    </td>&#10;    <td>&#10;      <a>Brainstorm</a>&#10;    </td>&#10;    <td>&#10;      <a>Chainer's Edict</a>&#10;    </td>&#10;    <td>&#10;      <a>Blood Knight</a>&#10;    </td>&#10;    <td>&#10;      <a>Birds of Paradise</a>&#10;    </td>&#10;    <td>&#10;      <a>Chimeric Idol</a>&#10;    </td>&#10;    <td>&#10;      <a>City of Brass</a>&#10;    </td>&#10;    <td>&#10;      <a>Fires of Yavimaya</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Auriok Salvagers</a>&#10;    </td>&#10;    <td>&#10;      <a>Brine Elemental</a>&#10;    </td>&#10;    <td>&#10;      <a>Chains of Mephistopheles</a>&#10;    </td>&#10;    <td>&#10;      <a>Bogardan Hellkite</a>&#10;    </td>&#10;    <td>&#10;      <a>Blanchwood Armor</a>&#10;    </td>&#10;    <td>&#10;      <a>Chrome Mox</a>&#10;    </td>&#10;    <td>&#10;      <a>Desert</a>&#10;    </td>&#10;    <td>&#10;      <a>Frenetic Efreet</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Austere Command</a>&#10;    </td>&#10;    <td>&#10;      <a>Capsize</a>&#10;    </td>&#10;    <td>&#10;      <a>Consume Spirit</a>&#10;    </td>&#10;    <td>&#10;      <a>Boom/Bust</a>&#10;    </td>&#10;    <td>&#10;      <a>Blastoderm</a>&#10;    </td>&#10;    <td>&#10;      <a>Coalition Relic</a>&#10;    </td>&#10;    <td>&#10;      <a>Dimir Aqueduct</a>&#10;    </td>&#10;    <td>&#10;      <a>Gaddock Teeg</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Aven Mindcensor</a>&#10;    </td>&#10;    <td>&#10;      <a>Chain of Vapor</a>&#10;    </td>&#10;    <td>&#10;      <a>Contagion</a>&#10;    </td>&#10;    <td>&#10;      <a>Browbeat</a>&#10;    </td>&#10;    <td>&#10;      <a>Blurred Mongoose</a>&#10;    </td>&#10;    <td>&#10;      <a>Coldsteel Heart</a>&#10;    </td>&#10;    <td>&#10;      <a>Faerie Conclave</a>&#10;    </td>&#10;    <td>&#10;      <a>Giant Solifuge</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Aven Riftwatcher</a>&#10;    </td>&#10;    <td>&#10;      <a>Circular Logic</a>&#10;    </td>&#10;    <td>&#10;      <a>Contamination</a>&#10;    </td>&#10;    <td>&#10;      <a>Chain Lightning</a>&#10;    </td>&#10;    <td>&#10;      <a>Bounty of the Hunt</a>&#10;    </td>&#10;    <td>&#10;      <a>Crucible of Worlds</a>&#10;    </td>&#10;    <td>&#10;      <a>Forbidden Orchard</a>&#10;    </td>&#10;    <td>&#10;      <a>Goblin Legionnaire</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Balance</a>&#10;    </td>&#10;    <td>&#10;      <a>Cloud Spirit</a>&#10;    </td>&#10;    <td>&#10;      <a>Corpse Dance</a>&#10;    </td>&#10;    <td>&#10;      <a>Chandra Nalaar</a>&#10;    </td>&#10;    <td>&#10;      <a>Briarhorn</a>&#10;    </td>&#10;    <td>&#10;      <a>Crumbling Sanctuary</a>&#10;    </td>&#10;    <td>&#10;      <a>Gaea's Cradle</a>&#10;    </td>&#10;    <td>&#10;      <a>Goblin Trenches</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Balancing Act</a>&#10;    </td>&#10;    <td>&#10;      <a>Confiscate</a>&#10;    </td>&#10;    <td>&#10;      <a>Corrupt</a>&#10;    </td>&#10;    <td>&#10;      <a>Char</a>&#10;    </td>&#10;    <td>&#10;      <a>Call of the Herd</a>&#10;    </td>&#10;    <td>&#10;      <a>Cursed Scroll</a>&#10;    </td>&#10;    <td>&#10;      <a>Gemstone Mine</a>&#10;    </td>&#10;    <td>&#10;      <a>Loxodon Hierarch</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Battle Screech</a>&#10;    </td>&#10;    <td>&#10;      <a>Control Magic</a>&#10;    </td>&#10;    <td>&#10;      <a>Crypt Champion</a>&#10;    </td>&#10;    <td>&#10;      <a>Clickslither</a>&#10;    </td>&#10;    <td>&#10;      <a>Caller of the Claw</a>&#10;    </td>&#10;    <td>&#10;      <a>Darksteel Colossus</a>&#10;    </td>&#10;    <td>&#10;      <a>Golgari Rot Farm</a>&#10;    </td>&#10;    <td>&#10;      <a>Meddling Mage</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Benevolent Bodyguard</a>&#10;    </td>&#10;    <td>&#10;      <a>Copy Artifact</a>&#10;    </td>&#10;    <td>&#10;      <a>Crypt Rats</a>&#10;    </td>&#10;    <td>&#10;      <a>Covetous Dragon</a>&#10;    </td>&#10;    <td>&#10;      <a>Channel</a>&#10;    </td>&#10;    <td>&#10;      <a>Duplicant</a>&#10;    </td>&#10;    <td>&#10;      <a>Gruul Turf</a>&#10;    </td>&#10;    <td>&#10;      <a>Mirari's Wake</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Burrenton Forge-Tender</a>&#10;    </td>&#10;    <td>&#10;      <a>Counterbalance</a>&#10;    </td>&#10;    <td>&#10;      <a>Damnation</a>&#10;    </td>&#10;    <td>&#10;      <a>Demonfire</a>&#10;    </td>&#10;    <td>&#10;      <a>Constant Mists</a>&#10;    </td>&#10;    <td>&#10;      <a>Engineered Explosives</a>&#10;    </td>&#10;    <td>&#10;      <a>Izzet Boilerworks</a>&#10;    </td>&#10;    <td>&#10;      <a>Mystic Snake</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Calciderm</a>&#10;    </td>&#10;    <td>&#10;      <a>Counterspell</a>&#10;    </td>&#10;    <td>&#10;      <a>Dark Confidant</a>&#10;    </td>&#10;    <td>&#10;      <a>Dragonstorm</a>&#10;    </td>&#10;    <td>&#10;      <a>Creeping Mold</a>&#10;    </td>&#10;    <td>&#10;      <a>Fellwar Stone</a>&#10;    </td>&#10;    <td>&#10;      <a>Karakas</a>&#10;    </td>&#10;    <td>&#10;      <a>Pernicious Deed</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Cataclysm</a>&#10;    </td>&#10;    <td>&#10;      <a>Cryptic Command</a>&#10;    </td>&#10;    <td>&#10;      <a>Dark Ritual</a>&#10;    </td>&#10;    <td>&#10;      <a>Dwarven Blastminer</a>&#10;    </td>&#10;    <td>&#10;      <a>Defense of the Heart</a>&#10;    </td>&#10;    <td>&#10;      <a>Gilded Lotus</a>&#10;    </td>&#10;    <td>&#10;      <a>Kjeldoran Outpost</a>&#10;    </td>&#10;    <td>&#10;      <a>Prophetic Bolt</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Cloudchaser Kestrel</a>&#10;    </td>&#10;    <td>&#10;      <a>Curiosity</a>&#10;    </td>&#10;    <td>&#10;      <a>Darkblast</a>&#10;    </td>&#10;    <td>&#10;      <a>Earthquake</a>&#10;    </td>&#10;    <td>&#10;      <a>Deranged Hermit</a>&#10;    </td>&#10;    <td>&#10;      <a>Grim Monolith</a>&#10;    </td>&#10;    <td>&#10;      <a>Library of Alexandria</a>&#10;    </td>&#10;    <td>&#10;      <a>Psychatog</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Condemn</a>&#10;    </td>&#10;    <td>&#10;      <a>Daze</a>&#10;    </td>&#10;    <td>&#10;      <a>Dauthi Horror</a>&#10;    </td>&#10;    <td>&#10;      <a>Empty the Warrens</a>&#10;    </td>&#10;    <td>&#10;      <a>Early Harvest</a>&#10;    </td>&#10;    <td>&#10;      <a>Horn of Greed</a>&#10;    </td>&#10;    <td>&#10;      <a>Llanowar Reborn</a>&#10;    </td>&#10;    <td>&#10;      <a>Rakdos Augermage</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Crovax, Ascendant Hero</a>&#10;    </td>&#10;    <td>&#10;      <a>Deep Analysis</a>&#10;    </td>&#10;    <td>&#10;      <a>Dauthi Slayer</a>&#10;    </td>&#10;    <td>&#10;      <a>Fiery Temper</a>&#10;    </td>&#10;    <td>&#10;      <a>Earthcraft</a>&#10;    </td>&#10;    <td>&#10;      <a>Howling Mine</a>&#10;    </td>&#10;    <td>&#10;      <a>Maze of Ith</a>&#10;    </td>&#10;    <td>&#10;      <a>Rakdos Guildmage</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Crusade</a>&#10;    </td>&#10;    <td>&#10;      <a>Delay</a>&#10;    </td>&#10;    <td>&#10;      <a>Demonic Tutor</a>&#10;    </td>&#10;    <td>&#10;      <a>Fire Imp</a>&#10;    </td>&#10;    <td>&#10;      <a>Elephant Guide</a>&#10;    </td>&#10;    <td>&#10;      <a>Icy Manipulator</a>&#10;    </td>&#10;    <td>&#10;      <a>Mishra's Factory</a>&#10;    </td>&#10;    <td>&#10;      <a>Saffi Eriksdotter</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Decree of Justice</a>&#10;    </td>&#10;    <td>&#10;      <a>Desertion</a>&#10;    </td>&#10;    <td>&#10;      <a>Desolation Angel</a>&#10;    </td>&#10;    <td>&#10;      <a>Fireball</a>&#10;    </td>&#10;    <td>&#10;      <a>Elves of Deep Shadow</a>&#10;    </td>&#10;    <td>&#10;      <a>Illusionary Mask</a>&#10;    </td>&#10;    <td>&#10;      <a>Mishra's Workshop</a>&#10;    </td>&#10;    <td>&#10;      <a>Shadowmage Infiltrator</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Deftblade Elite</a>&#10;    </td>&#10;    <td>&#10;      <a>Disrupt</a>&#10;    </td>&#10;    <td>&#10;      <a>Diabolic Edict</a>&#10;    </td>&#10;    <td>&#10;      <a>Fireblast</a>&#10;    </td>&#10;    <td>&#10;      <a>Elvish Spirit Guide</a>&#10;    </td>&#10;    <td>&#10;      <a>Isochron Scepter</a>&#10;    </td>&#10;    <td>&#10;      <a>Orzhov Basilica</a>&#10;    </td>&#10;    <td>&#10;      <a>Spiritmonger</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Devout Witness</a>&#10;    </td>&#10;    <td>&#10;      <a>Dissipate</a>&#10;    </td>&#10;    <td>&#10;      <a>Doomed Necromancer</a>&#10;    </td>&#10;    <td>&#10;      <a>Firebolt</a>&#10;    </td>&#10;    <td>&#10;      <a>Essence Warden</a>&#10;    </td>&#10;    <td>&#10;      <a>Ivory Tower</a>&#10;    </td>&#10;    <td>&#10;      <a>Plateau</a>&#10;    </td>&#10;    <td>&#10;      <a>Stormbind</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Disenchant</a>&#10;    </td>&#10;    <td>&#10;      <a>Donate</a>&#10;    </td>&#10;    <td>&#10;      <a>Drain Life</a>&#10;    </td>&#10;    <td>&#10;      <a>Fireslinger</a>&#10;    </td>&#10;    <td>&#10;      <a>Eternal Witness</a>&#10;    </td>&#10;    <td>&#10;      <a>Juggernaut</a>&#10;    </td>&#10;    <td>&#10;      <a>Rakdos Carnarium</a>&#10;    </td>&#10;    <td>&#10;      <a>Terminate</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Eight-and-a-Half-Tails</a>&#10;    </td>&#10;    <td>&#10;      <a>Fact or Fiction</a>&#10;    </td>&#10;    <td>&#10;      <a>Dread Return</a>&#10;    </td>&#10;    <td>&#10;      <a>Firestorm</a>&#10;    </td>&#10;    <td>&#10;      <a>Exploration</a>&#10;    </td>&#10;    <td>&#10;      <a>Lotus Bloom</a>&#10;    </td>&#10;    <td>&#10;      <a>Reflecting Pool</a>&#10;    </td>&#10;    <td>&#10;      <a>Teysa, Orzhov Scion</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Empyrial Armor</a>&#10;    </td>&#10;    <td>&#10;      <a>Fathom Seer</a>&#10;    </td>&#10;    <td>&#10;      <a>Duress</a>&#10;    </td>&#10;    <td>&#10;      <a>Flametongue Kavu</a>&#10;    </td>&#10;    <td>&#10;      <a>Fangren Firstborn</a>&#10;    </td>&#10;    <td>&#10;      <a>Loxodon Warhammer</a>&#10;    </td>&#10;    <td>&#10;      <a>Rishadan Port</a>&#10;    </td>&#10;    <td>&#10;      <a>Vindicate</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Enduring Renewal</a>&#10;    </td>&#10;    <td>&#10;      <a>Flash</a>&#10;    </td>&#10;    <td>&#10;      <a>Entomb</a>&#10;    </td>&#10;    <td>&#10;      <a>Fledgling Dragon</a>&#10;    </td>&#10;    <td>&#10;      <a>Farseek</a>&#10;    </td>&#10;    <td>&#10;      <a>Mana Crypt</a>&#10;    </td>&#10;    <td>&#10;      <a>Savannah</a>&#10;    </td>&#10;    <td>&#10;      <a>Void</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Enlightened Tutor</a>&#10;    </td>&#10;    <td>&#10;      <a>Flying Men</a>&#10;    </td>&#10;    <td>&#10;      <a>Exhume</a>&#10;    </td>&#10;    <td>&#10;      <a>Fork</a>&#10;    </td>&#10;    <td>&#10;      <a>Fastbond</a>&#10;    </td>&#10;    <td>&#10;      <a>Mana Vault</a>&#10;    </td>&#10;    <td>&#10;      <a>Scrubland</a>&#10;    </td>&#10;    <td>&#10;      <a>Watchwolf</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Eternal Dragon</a>&#10;    </td>&#10;    <td>&#10;      <a>Forbid</a>&#10;    </td>&#10;    <td>&#10;      <a>Faceless Butcher</a>&#10;    </td>&#10;    <td>&#10;      <a>Gamble</a>&#10;    </td>&#10;    <td>&#10;      <a>Fertile Ground</a>&#10;    </td>&#10;    <td>&#10;      <a>Masticore</a>&#10;    </td>&#10;    <td>&#10;      <a>Selesnya Sacntuary</a>&#10;    </td>&#10;    <td>&#10;      <a>Wax/Wane</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Exalted Angel</a>&#10;    </td>&#10;    <td>&#10;      <a>Force of Will</a>&#10;    </td>&#10;    <td>&#10;      <a>Flesh Reaver</a>&#10;    </td>&#10;    <td>&#10;      <a>Ghitu Slinger</a>&#10;    </td>&#10;    <td>&#10;      <a>Fyndhorn Elves</a>&#10;    </td>&#10;    <td>&#10;      <a>Memory Jar</a>&#10;    </td>&#10;    <td>&#10;      <a>Simic Growth Chamber</a>&#10;    </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Faith's Fetters</a>&#10;    </td>&#10;    <td>&#10;      <a>Force Spike</a>&#10;    </td>&#10;    <td>&#10;      <a>Forsaken Wastes</a>&#10;    </td>&#10;    <td>&#10;      <a>Goblin Bombardment</a>&#10;    </td>&#10;    <td>&#10;      <a>Garruk Wildspeaker</a>&#10;    </td>&#10;    <td>&#10;      <a>Metalworker</a>&#10;    </td>&#10;    <td>&#10;      <a>Strip Mine</a>&#10;    </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Genju of the Fields</a>&#10;    </td>&#10;    <td>&#10;      <a>Frantic Search</a>&#10;    </td>&#10;    <td>&#10;      <a>Funeral Charm</a>&#10;    </td>&#10;    <td>&#10;      <a>Goblin Cadets</a>&#10;    </td>&#10;    <td>&#10;      <a>Genesis</a>&#10;    </td>&#10;    <td>&#10;      <a>Mind Stone</a>&#10;    </td>&#10;    <td>&#10;      <a>Taiga</a>&#10;    </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Glorious Anthem</a>&#10;    </td>&#10;    <td>&#10;      <a>Future Sight</a>&#10;    </td>&#10;    <td>&#10;      <a>Graveborn Muse</a>&#10;    </td>&#10;    <td>&#10;      <a>Goblin Goon</a>&#10;    </td>&#10;    <td>&#10;      <a>Ghazban Ogre</a>&#10;    </td>&#10;    <td>&#10;      <a>Mindslaver</a>&#10;    </td>&#10;    <td>&#10;      <a>Terramorphic Expanse</a>&#10;    </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Glory</a>&#10;    </td>&#10;    <td>&#10;      <a>Gifts Ungiven</a>&#10;    </td>&#10;    <td>&#10;      <a>Hand of Cruelty</a>&#10;    </td>&#10;    <td>&#10;      <a>Goblin Grenade</a>&#10;    </td>&#10;    <td>&#10;      <a>Giant Growth</a>&#10;    </td>&#10;    <td>&#10;      <a>Mirari</a>&#10;    </td>&#10;    <td>&#10;      <a>Thawing Glaciers</a>&#10;    </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Goldmeadow Harrier</a>&#10;    </td>&#10;    <td>&#10;      <a>Gilded Drake</a>&#10;    </td>&#10;    <td>&#10;      <a>Hatred</a>&#10;    </td>&#10;    <td>&#10;      <a>Goblin King</a>&#10;    </td>&#10;    <td>&#10;      <a>Golgari Grave-Troll</a>&#10;    </td>&#10;    <td>&#10;      <a>Mirror Universe</a>&#10;    </td>&#10;    <td>&#10;      <a>The Tabernacle at Pendrell Vale</a>&#10;    </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Griffin Guide</a>&#10;    </td>&#10;    <td>&#10;      <a>Gush</a>&#10;    </td>&#10;    <td>&#10;      <a>Hymn to Tourach</a>&#10;    </td>&#10;    <td>&#10;      <a>Goblin Lackey</a>&#10;    </td>&#10;    <td>&#10;      <a>Granger Guildmage</a>&#10;    </td>&#10;    <td>&#10;      <a>Mox Diamond</a>&#10;    </td>&#10;    <td>&#10;      <a>Tolarian Academy</a>&#10;    </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Hand of Honor</a>&#10;    </td>&#10;    <td>&#10;      <a>Hydroblast</a>&#10;    </td>&#10;    <td>&#10;      <a>Hypnotic Specter</a>&#10;    </td>&#10;    <td>&#10;      <a>Goblin Matron</a>&#10;    </td>&#10;    <td>&#10;      <a>Greater Good</a>&#10;    </td>&#10;    <td>&#10;      <a>Mox Emerald</a>&#10;    </td>&#10;    <td>&#10;      <a>Treetop Village</a>&#10;    </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Hokori, Dust Drinker</a>&#10;    </td>&#10;    <td>&#10;      <a>Illusions of Grandeur</a>&#10;    </td>&#10;    <td>&#10;      <a>Ichorid</a>&#10;    </td>&#10;    <td>&#10;      <a>Goblin Patrol</a>&#10;    </td>&#10;    <td>&#10;      <a>Harmonize</a>&#10;    </td>&#10;    <td>&#10;      <a>Mox Jet</a>&#10;    </td>&#10;    <td>&#10;      <a>Tropical Island</a>&#10;    </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Honorable Passage</a>&#10;    </td>&#10;    <td>&#10;      <a>Impulse</a>&#10;    </td>&#10;    <td>&#10;      <a>Imperial Seal</a>&#10;    </td>&#10;    <td>&#10;      <a>Goblin Piledriver</a>&#10;    </td>&#10;    <td>&#10;      <a>Heartbeat of Spring</a>&#10;    </td>&#10;    <td>&#10;      <a>Mox Pearl</a>&#10;    </td>&#10;    <td>&#10;      <a>Tundra</a>&#10;    </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Humility</a>&#10;    </td>&#10;    <td>&#10;      <a>Intruder Alarm</a>&#10;    </td>&#10;    <td>&#10;      <a>Ink-Eyes, Servant of Oni</a>&#10;    </td>&#10;    <td>&#10;      <a>Goblin Warchief</a>&#10;    </td>&#10;    <td>&#10;      <a>Hermit Druid</a>&#10;    </td>&#10;    <td>&#10;      <a>Mox Ruby</a>&#10;    </td>&#10;    <td>&#10;      <a>Underground Sea</a>&#10;    </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Icatian Javelineers</a>&#10;    </td>&#10;    <td>&#10;      <a>Jace Beleren</a>&#10;    </td>&#10;    <td>&#10;      <a>Juzam Djinn</a>&#10;    </td>&#10;    <td>&#10;      <a>Goblin Welder</a>&#10;    </td>&#10;    <td>&#10;      <a>Holistic Wisdom</a>&#10;    </td>&#10;    <td>&#10;      <a>Mox Sapphire</a>&#10;    </td>&#10;    <td>&#10;      <a>Undiscovered Paradise</a>&#10;    </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Isamaru, Hound of Konda</a>&#10;    </td>&#10;    <td>&#10;      <a>Keiga the Tide Star</a>&#10;    </td>&#10;    <td>&#10;      <a>Kaervek's Spite</a>&#10;    </td>&#10;    <td>&#10;      <a>Gorilla Shaman</a>&#10;    </td>&#10;    <td>&#10;      <a>Hurricane</a>&#10;    </td>&#10;    <td>&#10;      <a>Nevinyrral's Disk</a>&#10;    </td>&#10;    <td>&#10;      <a>Urborg, Tomb of Yawgmoth</a>&#10;    </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Jotun Grunt</a>&#10;    </td>&#10;    <td>&#10;      <a>Looter il-Kor</a>&#10;    </td>&#10;    <td>&#10;      <a>Knight of Stromgald</a>&#10;    </td>&#10;    <td>&#10;      <a>Grapeshot</a>&#10;    </td>&#10;    <td>&#10;      <a>Invigorate</a>&#10;    </td>&#10;    <td>&#10;      <a>Phyrexian Dreadnought</a>&#10;    </td>&#10;    <td>&#10;      <a>Volcanic Island</a>&#10;    </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Kami of Ancient Law</a>&#10;    </td>&#10;    <td>&#10;      <a>Mana Drain</a>&#10;    </td>&#10;    <td>&#10;      <a>Kokusho, the Evening Star</a>&#10;    </td>&#10;    <td>&#10;      <a>Greater Gargadon</a>&#10;    </td>&#10;    <td>&#10;      <a>Iwamori of the Open Fist</a>&#10;    </td>&#10;    <td>&#10;      <a>Phyrexian Processor</a>&#10;    </td>&#10;    <td>&#10;      <a>Volrath's Stronghold</a>&#10;    </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Kataki, War's Wage</a>&#10;    </td>&#10;    <td>&#10;      <a>Mana Leak</a>&#10;    </td>&#10;    <td>&#10;      <a>Krovikan Horror</a>&#10;    </td>&#10;    <td>&#10;      <a>Grim Lavamancer</a>&#10;    </td>&#10;    <td>&#10;      <a>Jungle Lion</a>&#10;    </td>&#10;    <td>&#10;      <a>Pithing Needle</a>&#10;    </td>&#10;    <td>&#10;      <a>Wasteland</a>&#10;    </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Knight of Meadowgrain</a>&#10;    </td>&#10;    <td>&#10;      <a>Man-o'-War</a>&#10;    </td>&#10;    <td>&#10;      <a>Last Gasp</a>&#10;    </td>&#10;    <td>&#10;      <a>Grinning Ignus</a>&#10;    </td>&#10;    <td>&#10;      <a>Kavu Titan</a>&#10;    </td>&#10;    <td>&#10;      <a>Platinum Angel</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Knight of the Holy Nimbus</a>&#10;    </td>&#10;    <td>&#10;      <a>March of the Machines</a>&#10;    </td>&#10;    <td>&#10;      <a>Liliana Vess</a>&#10;    </td>&#10;    <td>&#10;      <a>Hammer of Bogardan</a>&#10;    </td>&#10;    <td>&#10;      <a>Kodama of the North Tree</a>&#10;    </td>&#10;    <td>&#10;      <a>Powder Keg</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Land Tax</a>&#10;    </td>&#10;    <td>&#10;      <a>Meloku the Clouded Mirror</a>&#10;    </td>&#10;    <td>&#10;      <a>Living Death</a>&#10;    </td>&#10;    <td>&#10;      <a>Hearth Kami</a>&#10;    </td>&#10;    <td>&#10;      <a>Kodama's Reach</a>&#10;    </td>&#10;    <td>&#10;      <a>Prismatic Lens</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Leonin Abunas</a>&#10;    </td>&#10;    <td>&#10;      <a>Memory Lapse</a>&#10;    </td>&#10;    <td>&#10;      <a>Lurking Evil</a>&#10;    </td>&#10;    <td>&#10;      <a>Hostility</a>&#10;    </td>&#10;    <td>&#10;      <a>Krosan Grip</a>&#10;    </td>&#10;    <td>&#10;      <a>Scroll Rack</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Leonin Skyhunter</a>&#10;    </td>&#10;    <td>&#10;      <a>Merchant Scroll</a>&#10;    </td>&#10;    <td>&#10;      <a>Mesmeric Fiend</a>&#10;    </td>&#10;    <td>&#10;      <a>Imperial Recruiter</a>&#10;    </td>&#10;    <td>&#10;      <a>Krosan Tusker</a>&#10;    </td>&#10;    <td>&#10;      <a>Sensei's Divining Top</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Longbow Archer</a>&#10;    </td>&#10;    <td>&#10;      <a>Merfolk Looter</a>&#10;    </td>&#10;    <td>&#10;      <a>Mind Twist</a>&#10;    </td>&#10;    <td>&#10;      <a>Incendiary Command</a>&#10;    </td>&#10;    <td>&#10;      <a>Life from the Loam</a>&#10;    </td>&#10;    <td>&#10;      <a>Serrated Arrows</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Mageta the Lion</a>&#10;    </td>&#10;    <td>&#10;      <a>Mind Over Matter</a>&#10;    </td>&#10;    <td>&#10;      <a>Mutilate</a>&#10;    </td>&#10;    <td>&#10;      <a>Incinerate</a>&#10;    </td>&#10;    <td>&#10;      <a>Llanowar Elves</a>&#10;    </td>&#10;    <td>&#10;      <a>Skullclamp</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Mana Tithe</a>&#10;    </td>&#10;    <td>&#10;      <a>Mind's Desire</a>&#10;    </td>&#10;    <td>&#10;      <a>Nantuko Husk</a>&#10;    </td>&#10;    <td>&#10;      <a>Jackal Pup</a>&#10;    </td>&#10;    <td>&#10;      <a>Loaming Shaman</a>&#10;    </td>&#10;    <td>&#10;      <a>Smokestack</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Martyr of Sands</a>&#10;    </td>&#10;    <td>&#10;      <a>Misdirection</a>&#10;    </td>&#10;    <td>&#10;      <a>Nantuko Shade</a>&#10;    </td>&#10;    <td>&#10;      <a>Keldon Marauders</a>&#10;    </td>&#10;    <td>&#10;      <a>Might of Oaks</a>&#10;    </td>&#10;    <td>&#10;      <a>Sol Ring</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Militia's Pride</a>&#10;    </td>&#10;    <td>&#10;      <a>Morphling</a>&#10;    </td>&#10;    <td>&#10;      <a>Necromancy</a>&#10;    </td>&#10;    <td>&#10;      <a>Keldon Vandals</a>&#10;    </td>&#10;    <td>&#10;      <a>Moldervine Cloak</a>&#10;    </td>&#10;    <td>&#10;      <a>Solemn Simulacrum</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Mirror Entity</a>&#10;    </td>&#10;    <td>&#10;      <a>Mystical Teachings</a>&#10;    </td>&#10;    <td>&#10;      <a>Necropotence</a>&#10;    </td>&#10;    <td>&#10;      <a>Kiki-Jiki, Mirror Breaker</a>&#10;    </td>&#10;    <td>&#10;      <a>Moment's Peace</a>&#10;    </td>&#10;    <td>&#10;      <a>Soul Foundry</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Moat</a>&#10;    </td>&#10;    <td>&#10;      <a>Mystical Tutor</a>&#10;    </td>&#10;    <td>&#10;      <a>Nekrataal</a>&#10;    </td>&#10;    <td>&#10;      <a>Kird Ape</a>&#10;    </td>&#10;    <td>&#10;      <a>Mtenda Lion</a>&#10;    </td>&#10;    <td>&#10;      <a>Static Orb</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Momentary Blink</a>&#10;    </td>&#10;    <td>&#10;      <a>Ninja of the Deep Hours</a>&#10;    </td>&#10;    <td>&#10;      <a>Nether Spirit</a>&#10;    </td>&#10;    <td>&#10;      <a>Kris Mage</a>&#10;    </td>&#10;    <td>&#10;      <a>Natural Order</a>&#10;    </td>&#10;    <td>&#10;      <a>Stuffy Doll</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Mother of Runes</a>&#10;    </td>&#10;    <td>&#10;      <a>Old Man of the Sea</a>&#10;    </td>&#10;    <td>&#10;      <a>Nether Void</a>&#10;    </td>&#10;    <td>&#10;      <a>Lash Out</a>&#10;    </td>&#10;    <td>&#10;      <a>Naturalize</a>&#10;    </td>&#10;    <td>&#10;      <a>Sundering Titan</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Oblivion Ring</a>&#10;    </td>&#10;    <td>&#10;      <a>Ophidian</a>&#10;    </td>&#10;    <td>&#10;      <a>Nezumi Graverobber</a>&#10;    </td>&#10;    <td>&#10;      <a>Lava Dart</a>&#10;    </td>&#10;    <td>&#10;      <a>Oath of Druids</a>&#10;    </td>&#10;    <td>&#10;      <a>Sword of Fire and Ice</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Opalescence</a>&#10;    </td>&#10;    <td>&#10;      <a>Opposition</a>&#10;    </td>&#10;    <td>&#10;      <a>Nezumi Shortfang</a>&#10;    </td>&#10;    <td>&#10;      <a>Lava Hounds</a>&#10;    </td>&#10;    <td>&#10;      <a>Ohran Viper</a>&#10;    </td>&#10;    <td>&#10;      <a>Tangle Wire</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Order of Leitbur</a>&#10;    </td>&#10;    <td>&#10;      <a>Opt</a>&#10;    </td>&#10;    <td>&#10;      <a>Night's Whisper</a>&#10;    </td>&#10;    <td>&#10;      <a>Lightning Bolt</a>&#10;    </td>&#10;    <td>&#10;      <a>Overrun</a>&#10;    </td>&#10;    <td>&#10;      <a>Tormod's Crypt</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Order of the White Shield</a>&#10;    </td>&#10;    <td>&#10;      <a>Palinchron</a>&#10;    </td>&#10;    <td>&#10;      <a>Nightscape Familiar</a>&#10;    </td>&#10;    <td>&#10;      <a>Magma Jet</a>&#10;    </td>&#10;    <td>&#10;      <a>Pattern of Rebirth</a>&#10;    </td>&#10;    <td>&#10;      <a>Triskelion</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Orim's Chant</a>&#10;    </td>&#10;    <td>&#10;      <a>Parallax Tide</a>&#10;    </td>&#10;    <td>&#10;      <a>Oona's Prowler</a>&#10;    </td>&#10;    <td>&#10;      <a>Magus of the Scroll</a>&#10;    </td>&#10;    <td>&#10;      <a>Phantom Centaur</a>&#10;    </td>&#10;    <td>&#10;      <a>Umezawa's Jitte</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Pacifism</a>&#10;    </td>&#10;    <td>&#10;      <a>Ponder</a>&#10;    </td>&#10;    <td>&#10;      <a>Order of the Ebon Hand</a>&#10;    </td>&#10;    <td>&#10;      <a>Mana Flare</a>&#10;    </td>&#10;    <td>&#10;      <a>Plow Under</a>&#10;    </td>&#10;    <td>&#10;      <a>Vedalken Shackles</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Paladin en-Vec</a>&#10;    </td>&#10;    <td>&#10;      <a>Power Sink</a>&#10;    </td>&#10;    <td>&#10;      <a>Persecute</a>&#10;    </td>&#10;    <td>&#10;      <a>Mogg Fanatic</a>&#10;    </td>&#10;    <td>&#10;      <a>Pouncing Jaguar</a>&#10;    </td>&#10;    <td>&#10;      <a>Voltaic Key</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Parallax Wave</a>&#10;    </td>&#10;    <td>&#10;      <a>Propaganda</a>&#10;    </td>&#10;    <td>&#10;      <a>Pestilence</a>&#10;    </td>&#10;    <td>&#10;      <a>Mogg Flunkies</a>&#10;    </td>&#10;    <td>&#10;      <a>Primal Command</a>&#10;    </td>&#10;    <td>&#10;      <a>Wayfarer's Bauble</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Pariah</a>&#10;    </td>&#10;    <td>&#10;      <a>Psionic Blast</a>&#10;    </td>&#10;    <td>&#10;      <a>Phyrexian Arena</a>&#10;    </td>&#10;    <td>&#10;      <a>Mogg War Marshall</a>&#10;    </td>&#10;    <td>&#10;      <a>Protean Hulk</a>&#10;    </td>&#10;    <td>&#10;      <a>Winter Orb</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Peacekeeper</a>&#10;    </td>&#10;    <td>&#10;      <a>Remand</a>&#10;    </td>&#10;    <td>&#10;      <a>Phyrexian Negator</a>&#10;    </td>&#10;    <td>&#10;      <a>Obliterate</a>&#10;    </td>&#10;    <td>&#10;      <a>Quirion Dryad</a>&#10;    </td>&#10;    <td>&#10;      <a>Zuran Orb</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Preacher</a>&#10;    </td>&#10;    <td>&#10;      <a>Repeal</a>&#10;    </td>&#10;    <td>&#10;      <a>Plague Sliver</a>&#10;    </td>&#10;    <td>&#10;      <a>Pandemonium</a>&#10;    </td>&#10;    <td>&#10;      <a>Quirion Ranger</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Pristine Angel</a>&#10;    </td>&#10;    <td>&#10;      <a>Riftwing Cloudskate</a>&#10;    </td>&#10;    <td>&#10;      <a>Plagued Rusalka</a>&#10;    </td>&#10;    <td>&#10;      <a>Pillage</a>&#10;    </td>&#10;    <td>&#10;      <a>Rancor</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Proclamation of Rebirth</a>&#10;    </td>&#10;    <td>&#10;      <a>Rishadan Airship</a>&#10;    </td>&#10;    <td>&#10;      <a>Pox</a>&#10;    </td>&#10;    <td>&#10;      <a>Pulse of the Forge</a>&#10;    </td>&#10;    <td>&#10;      <a>Ravenous Baloth</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Pulse of the Fields</a>&#10;    </td>&#10;    <td>&#10;      <a>Rising Waters</a>&#10;    </td>&#10;    <td>&#10;      <a>Priest of Gix</a>&#10;    </td>&#10;    <td>&#10;      <a>Pyroblast</a>&#10;    </td>&#10;    <td>&#10;      <a>Regrowth</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Radiant's Dragoons</a>&#10;    </td>&#10;    <td>&#10;      <a>Rootwater Thief</a>&#10;    </td>&#10;    <td>&#10;      <a>Profane Command</a>&#10;    </td>&#10;    <td>&#10;      <a>Pyroclasm</a>&#10;    </td>&#10;    <td>&#10;      <a>River Boa</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Renounce</a>&#10;    </td>&#10;    <td>&#10;      <a>Sea Drake</a>&#10;    </td>&#10;    <td>&#10;      <a>Reanimate</a>&#10;    </td>&#10;    <td>&#10;      <a>Rathi Dragon</a>&#10;    </td>&#10;    <td>&#10;      <a>Rofellos, Llanowar Emissary</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Replenish</a>&#10;    </td>&#10;    <td>&#10;      <a>Serendib Djinn</a>&#10;    </td>&#10;    <td>&#10;      <a>Recurring Nightmare</a>&#10;    </td>&#10;    <td>&#10;      <a>Reckless Charge</a>&#10;    </td>&#10;    <td>&#10;      <a>Rogue Elephant</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Resurrection</a>&#10;    </td>&#10;    <td>&#10;      <a>Serendib Efreet</a>&#10;    </td>&#10;    <td>&#10;      <a>Rotlung Reanimator</a>&#10;    </td>&#10;    <td>&#10;      <a>Red Elemental Blast</a>&#10;    </td>&#10;    <td>&#10;      <a>Sakura-Tribe Elder</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Reya Dawnbringer</a>&#10;    </td>&#10;    <td>&#10;      <a>Spell Burst</a>&#10;    </td>&#10;    <td>&#10;      <a>Sarcomancy</a>&#10;    </td>&#10;    <td>&#10;      <a>Rhystic Lightning</a>&#10;    </td>&#10;    <td>&#10;      <a>Saproling Burst</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Ronom Unicorn</a>&#10;    </td>&#10;    <td>&#10;      <a>Spiketail Hatchling</a>&#10;    </td>&#10;    <td>&#10;      <a>Shadow Guildmage</a>&#10;    </td>&#10;    <td>&#10;      <a>Rorix Bladewing</a>&#10;    </td>&#10;    <td>&#10;      <a>Scryb Ranger</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Rule of Law</a>&#10;    </td>&#10;    <td>&#10;      <a>Standstill</a>&#10;    </td>&#10;    <td>&#10;      <a>Shriekmaw</a>&#10;    </td>&#10;    <td>&#10;      <a>Scorched Rusalka</a>&#10;    </td>&#10;    <td>&#10;      <a>Search for Tomorrow</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Sacred Mesa</a>&#10;    </td>&#10;    <td>&#10;      <a>Stasis</a>&#10;    </td>&#10;    <td>&#10;      <a>Sinkhole</a>&#10;    </td>&#10;    <td>&#10;      <a>Seal of Fire</a>&#10;    </td>&#10;    <td>&#10;      <a>Seedborn Muse</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Samurai of the Pale Curtain</a>&#10;    </td>&#10;    <td>&#10;      <a>Stifle</a>&#10;    </td>&#10;    <td>&#10;      <a>Skeletal Scrying</a>&#10;    </td>&#10;    <td>&#10;      <a>Sedge Troll</a>&#10;    </td>&#10;    <td>&#10;      <a>Silvos, Rogue Elemental</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Savannah Lions</a>&#10;    </td>&#10;    <td>&#10;      <a>Stroke of Genius</a>&#10;    </td>&#10;    <td>&#10;      <a>Skirge Familiar</a>&#10;    </td>&#10;    <td>&#10;      <a>Seething Song</a>&#10;    </td>&#10;    <td>&#10;      <a>Simian Grunts</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Seal of Cleansing</a>&#10;    </td>&#10;    <td>&#10;      <a>Teferi, Mage of Zhalfir</a>&#10;    </td>&#10;    <td>&#10;      <a>Skittering Skirge</a>&#10;    </td>&#10;    <td>&#10;      <a>Seismic Assault</a>&#10;    </td>&#10;    <td>&#10;      <a>Spectral Bears</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Serenity</a>&#10;    </td>&#10;    <td>&#10;      <a>Temporal Adept</a>&#10;    </td>&#10;    <td>&#10;      <a>Smallpox</a>&#10;    </td>&#10;    <td>&#10;      <a>Shard Phoenix</a>&#10;    </td>&#10;    <td>&#10;      <a>Spectral Force</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Serra Avatar</a>&#10;    </td>&#10;    <td>&#10;      <a>Thieving Magpie</a>&#10;    </td>&#10;    <td>&#10;      <a>Smother</a>&#10;    </td>&#10;    <td>&#10;      <a>Shattering Spree</a>&#10;    </td>&#10;    <td>&#10;      <a>Spike Feeder</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Serra Avenger</a>&#10;    </td>&#10;    <td>&#10;      <a>Thirst for Knowledge</a>&#10;    </td>&#10;    <td>&#10;      <a>Soul Feast</a>&#10;    </td>&#10;    <td>&#10;      <a>Shock</a>&#10;    </td>&#10;    <td>&#10;      <a>Spike Weaver</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Shining Shoal</a>&#10;    </td>&#10;    <td>&#10;      <a>Time Spiral</a>&#10;    </td>&#10;    <td>&#10;      <a>Soul Spike</a>&#10;    </td>&#10;    <td>&#10;      <a>Shrapnel Blast</a>&#10;    </td>&#10;    <td>&#10;      <a>Squirrel Nest</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Silver Knight</a>&#10;    </td>&#10;    <td>&#10;      <a>Time Walk</a>&#10;    </td>&#10;    <td>&#10;      <a>Spirit of the Night</a>&#10;    </td>&#10;    <td>&#10;      <a>Siege-Gang Commander</a>&#10;    </td>&#10;    <td>&#10;      <a>Stonewood Invocation</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Solitary Confinement</a>&#10;    </td>&#10;    <td>&#10;      <a>Time Warp</a>&#10;    </td>&#10;    <td>&#10;      <a>Stinkweed Imp</a>&#10;    </td>&#10;    <td>&#10;      <a>Skizzik</a>&#10;    </td>&#10;    <td>&#10;      <a>Survival of the Fittest</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Soltari Champion</a>&#10;    </td>&#10;    <td>&#10;      <a>Timetwister</a>&#10;    </td>&#10;    <td>&#10;      <a>Stromgald Crusader</a>&#10;    </td>&#10;    <td>&#10;      <a>Slice and Dice</a>&#10;    </td>&#10;    <td>&#10;      <a>Sylvan Library</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Soltari Monk</a>&#10;    </td>&#10;    <td>&#10;      <a>Tinker</a>&#10;    </td>&#10;    <td>&#10;      <a>Sudden Death</a>&#10;    </td>&#10;    <td>&#10;      <a>Slith Firewalker</a>&#10;    </td>&#10;    <td>&#10;      <a>Sylvan Safekeeper</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Soltari Priest</a>&#10;    </td>&#10;    <td>&#10;      <a>Tradewind Rider</a>&#10;    </td>&#10;    <td>&#10;      <a>Sutured Ghoul</a>&#10;    </td>&#10;    <td>&#10;      <a>Sneak Attack</a>&#10;    </td>&#10;    <td>&#10;      <a>Tarmogoyf</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Soul Warden</a>&#10;    </td>&#10;    <td>&#10;      <a>Treachery</a>&#10;    </td>&#10;    <td>&#10;      <a>Tendrils of Agony</a>&#10;    </td>&#10;    <td>&#10;      <a>Squee, Goblin Nabob</a>&#10;    </td>&#10;    <td>&#10;      <a>Terravore</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Spectral Lynx</a>&#10;    </td>&#10;    <td>&#10;      <a>Trinket Mage</a>&#10;    </td>&#10;    <td>&#10;      <a>Tendrils of Corruption</a>&#10;    </td>&#10;    <td>&#10;      <a>Starstorm</a>&#10;    </td>&#10;    <td>&#10;      <a>Thornscape Battlemage</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Stonecloaker</a>&#10;    </td>&#10;    <td>&#10;      <a>Turnabout</a>&#10;    </td>&#10;    <td>&#10;      <a>Terror</a>&#10;    </td>&#10;    <td>&#10;      <a>Stone Rain</a>&#10;    </td>&#10;    <td>&#10;      <a>Timbermare</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Story Circle</a>&#10;    </td>&#10;    <td>&#10;      <a>Twincast</a>&#10;    </td>&#10;    <td>&#10;      <a>The Abyss</a>&#10;    </td>&#10;    <td>&#10;      <a>Sudden Shock</a>&#10;    </td>&#10;    <td>&#10;      <a>Tooth and Nail</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Swords to Plowshares</a>&#10;    </td>&#10;    <td>&#10;      <a>Unstable Mutation</a>&#10;    </td>&#10;    <td>&#10;      <a>Thoughtseize</a>&#10;    </td>&#10;    <td>&#10;      <a>Sulfur Elemental</a>&#10;    </td>&#10;    <td>&#10;      <a>Troll Ascetic</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Temple Acolyte</a>&#10;    </td>&#10;    <td>&#10;      <a>Upheaval</a>&#10;    </td>&#10;    <td>&#10;      <a>Thrashing Wumpus</a>&#10;    </td>&#10;    <td>&#10;      <a>Sulfuric Vortex</a>&#10;    </td>&#10;    <td>&#10;      <a>Uktabi Orangutan</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Tithe</a>&#10;    </td>&#10;    <td>&#10;      <a>Venser, Shaper Savant</a>&#10;    </td>&#10;    <td>&#10;      <a>Underworld Dreams</a>&#10;    </td>&#10;    <td>&#10;      <a>Tarfire</a>&#10;    </td>&#10;    <td>&#10;      <a>Verdant Force</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>True Believer</a>&#10;    </td>&#10;    <td>&#10;      <a>Vesuvan Shapeshifter</a>&#10;    </td>&#10;    <td>&#10;      <a>Unearth</a>&#10;    </td>&#10;    <td>&#10;      <a>Threaten</a>&#10;    </td>&#10;    <td>&#10;      <a>Viridian Shaman</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Weathered Wayfarer</a>&#10;    </td>&#10;    <td>&#10;      <a>Voidmage Prodigy</a>&#10;    </td>&#10;    <td>&#10;      <a>Unmask</a>&#10;    </td>&#10;    <td>&#10;      <a>Tin Street Hooligan</a>&#10;    </td>&#10;    <td>&#10;      <a>Viridian Zealot</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Whipcorder</a>&#10;    </td>&#10;    <td>&#10;      <a>Waterfront Bouncer</a>&#10;    </td>&#10;    <td>&#10;      <a>Vampiric Tutor</a>&#10;    </td>&#10;    <td>&#10;      <a>Urza's Rage</a>&#10;    </td>&#10;    <td>&#10;      <a>Wall of Blossoms</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>White Knight</a>&#10;    </td>&#10;    <td>&#10;      <a>Waterspout Djinn</a>&#10;    </td>&#10;    <td>&#10;      <a>Vendetta</a>&#10;    </td>&#10;    <td>&#10;      <a>Violent Eruption</a>&#10;    </td>&#10;    <td>&#10;      <a>Wall of Roots</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>White Shield Crusader</a>&#10;    </td>&#10;    <td>&#10;      <a>Willbender</a>&#10;    </td>&#10;    <td>&#10;      <a>Visara the Dreadful</a>&#10;    </td>&#10;    <td>&#10;      <a>Volcanic Hammer</a>&#10;    </td>&#10;    <td>&#10;      <a>Wild Dogs</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Wing Shards</a>&#10;    </td>&#10;    <td>&#10;      <a>Windfall</a>&#10;    </td>&#10;    <td>&#10;      <a>Withered Wretch</a>&#10;    </td>&#10;    <td>&#10;      <a>Wheel of Fortune</a>&#10;    </td>&#10;    <td>&#10;      <a>Wild Might</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Worship</a>&#10;    </td>&#10;    <td>&#10;      <a>Withdraw</a>&#10;    </td>&#10;    <td>&#10;      <a>Yawgmoth's Agenda</a>&#10;    </td>&#10;    <td>&#10;      <a>Wildfire</a>&#10;    </td>&#10;    <td>&#10;      <a>Wild Mongrel</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Wrath of God</a>&#10;    </td>&#10;    <td>&#10;      <a>Wonder</a>&#10;    </td>&#10;    <td>&#10;      <a>Yawgmoth's Bargain</a>&#10;    </td>&#10;    <td>&#10;      <a>Worldgorger Dragon</a>&#10;    </td>&#10;    <td>&#10;      <a>Worldly Tutor</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Yosei, the Morning Star</a>&#10;    </td>&#10;    <td>&#10;      <a>Zur's Weirding</a>&#10;    </td>&#10;    <td>&#10;      <a>Yawgmoth's Will</a>&#10;    </td>&#10;    <td>&#10;      <a>Zo-Zu the Punisher</a>&#10;    </td>&#10;    <td>&#10;      <a>Yavimaya Elder</a>&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;</tbody></table>

@@ -1,0 +1,47 @@
+---
+id: 6jpeeggn
+kind: event
+lang: en
+path: /en/articles/event-coverage/2006/08-04-round-4-pods
+title: Round 4 Pods
+published: '2006-08-04'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-4-pods-2006-08-04
+    lang_detected: en
+    capture_id: 534516
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-4-pods-2006-08-04
+    captured_at: '2022-06-28 19:30:25+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-4-pods-2006-08-04
+    lang_detected: en
+    capture_id: 534516
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-4-pods-2006-08-04
+    captured_at: '2022-06-28 19:30:25+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: 6jpeeggn
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-4-pods-2006-08-04
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/round-4-pods-2006-08-04
+  lang: en
+  template: drupal
+  captured_at: '2022-06-28 19:30:25+00'
+  capture_id: 534516
+  wayback_url: https://web.archive.org/web/20220628193025id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-4-pods-2006-08-04
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 6jpeeggn
+  capture_id: 534516
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-4-pods-2006-08-04
+  wayback_url: https://web.archive.org/web/20220628193025id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-4-pods-2006-08-04
+  captured_at: '2022-06-28 19:30:25+00'
+  template: drupal
+  sha256: b7e230794711a2d5de267f59d412e6667273f34ea86f944cf930cc8cef86db5a
+render_recovery: []
+---
+<table><tbody><tr><td><b>Pod</b></td><td><b>Seat</b></td><td><b>Player</b></td><td><b>Points</b></td></tr><tr><td>1</td><td>1</td><td>Hague, James</td><td>9</td></tr><tr><td>&#10;					</td><td>2</td><td>Ganske, Drew</td><td>9</td></tr><tr><td>&#10;					</td><td>3</td><td>Braymore, Nathon</td><td>9</td></tr><tr><td>&#10;					</td><td>4</td><td>Page, Benjamin</td><td>9</td></tr><tr><td>&#10;					</td><td>5</td><td>Patterson, Jason</td><td>9</td></tr><tr><td>&#10;					</td><td>6</td><td>Vance, James</td><td>9</td></tr><tr><td>&#10;					</td><td>7</td><td>Kelly, Nathaniel</td><td>9</td></tr><tr><td>&#10;					</td><td>8</td><td>Kavanagh, Kris</td><td>9</td></tr><tr><td>2</td><td>1</td><td>Daoust, Guillaume</td><td>6</td></tr><tr><td>&#10;					</td><td>2</td><td>Johnstone, Terrence</td><td>9</td></tr><tr><td>&#10;					</td><td>3</td><td>Noworaj, Andrew</td><td>9</td></tr><tr><td>&#10;					</td><td>4</td><td>Di Piano, Michael</td><td>9</td></tr><tr><td>&#10;					</td><td>5</td><td>Cardin, Guillaume</td><td>9</td></tr><tr><td>&#10;					</td><td>6</td><td>Starling, Charles</td><td>6</td></tr><tr><td>&#10;					</td><td>7</td><td>Langford, Chris</td><td>9</td></tr><tr><td>&#10;					</td><td>8</td><td>Sun, Matthew</td><td>6</td></tr><tr><td>3</td><td>1</td><td>Holowachuk, Derek</td><td>6</td></tr><tr><td>&#10;					</td><td>2</td><td>Potter, Doug</td><td>6</td></tr><tr><td>&#10;					</td><td>3</td><td>Anderson, Robert</td><td>6</td></tr><tr><td>&#10;					</td><td>4</td><td>McCracken, Blake</td><td>6</td></tr><tr><td>&#10;					</td><td>5</td><td>Raymond, Ben</td><td>6</td></tr><tr><td>&#10;					</td><td>6</td><td>DeBoer, Adam</td><td>6</td></tr><tr><td>&#10;					</td><td>7</td><td>Sertic, David</td><td>6</td></tr><tr><td>&#10;					</td><td>8</td><td>Viner, Mike</td><td>6</td></tr><tr><td>4</td><td>1</td><td>Dewar, Norman E</td><td>6</td></tr><tr><td>&#10;					</td><td>2</td><td>Vasovski, Mike</td><td>6</td></tr><tr><td>&#10;					</td><td>3</td><td>Dushnicky, Andrew</td><td>6</td></tr><tr><td>&#10;					</td><td>4</td><td>Hoaen, Richard</td><td>6</td></tr><tr><td>&#10;					</td><td>5</td><td>Rodgers, Brent</td><td>6</td></tr><tr><td>&#10;					</td><td>6</td><td>Sage, Tyler</td><td>6</td></tr><tr><td>&#10;					</td><td>7</td><td>Green, Jayden</td><td>6</td></tr><tr><td>&#10;					</td><td>8</td><td>Lee, Mon</td><td>6</td></tr><tr><td>5</td><td>1</td><td>Wolfman, Steven</td><td>6</td></tr><tr><td>&#10;					</td><td>2</td><td>Chandra, Rahul</td><td>6</td></tr><tr><td>&#10;					</td><td>3</td><td>Brager, Brandon</td><td>6</td></tr><tr><td>&#10;					</td><td>4</td><td>Richardson, Justin B</td><td>6</td></tr><tr><td>&#10;					</td><td>5</td><td>Cormier, Francis</td><td>6</td></tr><tr><td>&#10;					</td><td>6</td><td>Neufeld, Bryan</td><td>6</td></tr><tr><td>&#10;					</td><td>7</td><td>LaPierre, Matthew</td><td>6</td></tr><tr><td>&#10;					</td><td>8</td><td>Vickery, Darby</td><td>6</td></tr><tr><td>6</td><td>1</td><td>Henderson, Walter</td><td>6</td></tr><tr><td>&#10;					</td><td>2</td><td>Page, Nick</td><td>6</td></tr><tr><td>&#10;					</td><td>3</td><td>Selinger, Rick</td><td>6</td></tr><tr><td>&#10;					</td><td>4</td><td>Mclaren, Shaun</td><td>6</td></tr><tr><td>&#10;					</td><td>5</td><td>Arenson, Mike</td><td>6</td></tr><tr><td>&#10;					</td><td>6</td><td>Szelzki, Jeffrey</td><td>6</td></tr><tr><td>&#10;					</td><td>7</td><td>Wheeler, Tyrell T</td><td>6</td></tr><tr><td>&#10;					</td><td>8</td><td>Blum, Tyler</td><td>6</td></tr><tr><td>7</td><td>1</td><td>McGregor, Duncan</td><td>6</td></tr><tr><td>&#10;					</td><td>2</td><td>Allen, Brett</td><td>6</td></tr><tr><td>&#10;					</td><td>3</td><td>Pham, Daniel H</td><td>6</td></tr><tr><td>&#10;					</td><td>4</td><td>Hajduk, Filip</td><td>6</td></tr><tr><td>&#10;					</td><td>5</td><td>Samms, Phil</td><td>4</td></tr><tr><td>&#10;					</td><td>6</td><td>Mok, Wilson</td><td>4</td></tr><tr><td>&#10;					</td><td>7</td><td>Turner, William</td><td>3</td></tr><tr><td>&#10;					</td><td>8</td><td>Chan, Eric</td><td>4</td></tr><tr><td>8</td><td>1</td><td>Giroux, Gordie</td><td>3</td></tr><tr><td>&#10;					</td><td>2</td><td>Gareau, Philippe</td><td>3</td></tr><tr><td>&#10;					</td><td>3</td><td>Lorge, Curt</td><td>3</td></tr><tr><td>&#10;					</td><td>4</td><td>Bishop, Stephen</td><td>3</td></tr><tr><td>&#10;					</td><td>5</td><td>Conrad, Cory C</td><td>3</td></tr><tr><td>&#10;					</td><td>6</td><td>Stoddart, William</td><td>3</td></tr><tr><td>&#10;					</td><td>7</td><td>Ford, Tim</td><td>3</td></tr><tr><td>9</td><td>1</td><td>Earnshaw, Ferguson</td><td>3</td></tr><tr><td>&#10;					</td><td>2</td><td>Rusaw, Ryan</td><td>3</td></tr><tr><td>&#10;					</td><td>3</td><td>Mendoza, Carlo</td><td>3</td></tr><tr><td>&#10;					</td><td>4</td><td>Kimola, Doug</td><td>3</td></tr><tr><td>&#10;					</td><td>5</td><td>Robillard, Kyle</td><td>3</td></tr><tr><td>&#10;					</td><td>6</td><td>Boileau, Louis</td><td>3</td></tr><tr><td>&#10;					</td><td>7</td><td>Elgar, Jeremy</td><td>3</td></tr><tr><td>10</td><td>1</td><td>Zizos, Jeff P.</td><td>3</td></tr><tr><td>&#10;					</td><td>2</td><td>Felske, David</td><td>3</td></tr><tr><td>&#10;					</td><td>3</td><td>Hurd, Adam</td><td>3</td></tr><tr><td>&#10;					</td><td>4</td><td>Tse, Felix</td><td>3</td></tr><tr><td>&#10;					</td><td>5</td><td>Iwaskiw, Roman</td><td>3</td></tr><tr><td>&#10;					</td><td>6</td><td>Dunn, Paul</td><td>3</td></tr><tr><td>&#10;					</td><td>7</td><td>Smith, Kyle</td><td>3</td></tr><tr><td>11</td><td>1</td><td>Putnam, Taylor</td><td>3</td></tr><tr><td>&#10;					</td><td>2</td><td>MacGregor, Mark</td><td>3</td></tr><tr><td>&#10;					</td><td>3</td><td>Kerr, Ian</td><td>3</td></tr><tr><td>&#10;					</td><td>4</td><td>Davis, Robb</td><td>3</td></tr><tr><td>&#10;					</td><td>5</td><td>Breau, Josh</td><td>3</td></tr><tr><td>&#10;					</td><td>6</td><td>Walker, Liam</td><td>3</td></tr><tr><td>&#10;					</td><td>7</td><td>Cutcher, Greg</td><td>3</td></tr><tr><td>12</td><td>1</td><td>Tomik, Steve</td><td>3</td></tr><tr><td>&#10;					</td><td>2</td><td>Lee, Victor</td><td>3</td></tr><tr><td>&#10;					</td><td>3</td><td>Ferneyhough, Michael</td><td>3</td></tr><tr><td>&#10;					</td><td>4</td><td>Roberge, Pierre</td><td>3</td></tr><tr><td>&#10;					</td><td>5</td><td>Faure, Stephane</td><td>3</td></tr><tr><td>&#10;					</td><td>6</td><td>Olynyk, Jason</td><td>3</td></tr><tr><td>&#10;					</td><td>7</td><td>Campbell, Mitchell</td><td>3</td></tr><tr><td>13</td><td>1</td><td>Hanson, James</td><td>1</td></tr><tr><td>&#10;					</td><td>2</td><td>McWhaw, Andrew J</td><td>3</td></tr><tr><td>&#10;					</td><td>3</td><td>Olteanu, Michael</td><td>0</td></tr><tr><td>&#10;					</td><td>4</td><td>Cheng, Yi</td><td>0</td></tr><tr><td>&#10;					</td><td>5</td><td>Brunet, Nikael</td><td>0</td></tr><tr><td>&#10;					</td><td>6</td><td>Liu, Josef</td><td>0</td></tr><tr><td>&#10;					</td><td>7</td><td>Coleman, Shaye</td><td>0</td></tr><tr><td>14</td><td>1</td><td>Ruskey, Albert</td><td>0</td></tr><tr><td>&#10;					</td><td>2</td><td>Neary, Nicholas</td><td>0</td></tr><tr><td>&#10;					</td><td>3</td><td>Magnan, Patrick</td><td>0</td></tr><tr><td>&#10;					</td><td>4</td><td>Dean, J. Evan</td><td>0</td></tr><tr><td>&#10;					</td><td>5</td><td>Fiorino, Danny</td><td>0</td></tr><tr><td>&#10;					</td><td>6</td><td>Woodley, Ian</td><td>0</td></tr><tr><td>&#10;					</td><td>7</td><td>Woodman, Jonathan</td><td>0</td></tr></tbody></table>

@@ -1,0 +1,99 @@
+---
+id: p753pqqm
+kind: event
+lang: en
+path: /en/events/2015/gpflo15/top-5-cards
+title: Top 5 Cards
+published: '2015-05-17'
+column_slug: null
+column: null
+authors: []
+event_code: gpflo15
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/events/coverage/gpflo15/top-5-cards-2015-05-17
+    lang_detected: en
+    capture_id: 49546
+    url: http://magic.wizards.com/en/events/coverage/gpflo15/top-5-cards-2015-05-17
+    captured_at: '2016-05-05 07:08:05+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/events/coverage/gpflo15/top-5-cards-2015-05-17
+    lang_detected: en
+    capture_id: 49546
+    url: http://magic.wizards.com/en/events/coverage/gpflo15/top-5-cards-2015-05-17
+    captured_at: '2016-05-05 07:08:05+00'
+    rule: drupal.posted_in_date
+  event_code:
+    page_key: magic.wizards.com/en/events/coverage/gpflo15/top-5-cards-2015-05-17
+    lang_detected: en
+    capture_id: 49546
+    url: http://magic.wizards.com/en/events/coverage/gpflo15/top-5-cards-2015-05-17
+    captured_at: '2016-05-05 07:08:05+00'
+    rule: url.event_code
+sources:
+- document_id: p753pqqm
+  url: http://magic.wizards.com/en/events/coverage/gpflo15/top-5-cards-2015-05-17
+  page_key: magic.wizards.com/en/events/coverage/gpflo15/top-5-cards-2015-05-17
+  lang: en
+  template: drupal
+  captured_at: '2016-05-05 07:08:05+00'
+  capture_id: 49546
+  wayback_url: https://web.archive.org/web/20160505070805id_/http://magic.wizards.com/en/events/coverage/gpflo15/top-5-cards-2015-05-17
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: p753pqqm
+  capture_id: 49546
+  url: http://magic.wizards.com/en/events/coverage/gpflo15/top-5-cards-2015-05-17
+  wayback_url: https://web.archive.org/web/20160505070805id_/http://magic.wizards.com/en/events/coverage/gpflo15/top-5-cards-2015-05-17
+  captured_at: '2016-05-05 07:08:05+00'
+  template: drupal
+  sha256: 46bc7f9dac0cb1166bb3581e80a76b0b0d74b5f8f47056fbe880a4bb125b2a67
+render_recovery: []
+---
+These were the cards that shaped the tournament, that sparked discussions and were the most debated, the cards that won games and matches and turned Grand Prix Florence into an event to remember ...
+
+ 
+
+**#5 Alesha, Who Smiles at Death**
+
+[![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Alesha%2C+Who+Smiles+at+Death)](https://web.archive.org/web/20150517000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Alesha%2C+Who+Smiles+at+Death)
+
+After their 9-0 run on Day 1, I asked the eventual champions for the best card in their first Sealed Decks. Naturally, those decks weren't lacking bombs, but even between things like [Foe-Razer Regent](https://web.archive.org/web/20150517000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Foe-Razer+Regent) and [Mastery of the Unseen](https://web.archive.org/web/20150517000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mastery+of+the+Unseen), Frank Schäfer pointed to the Mardu warrior. "I didn't even activate the ability once," he told me. "It was the best card, simply for being a 3/2 with first strike. My opponent's never could block thanks to instant burn spells like [Twin Bolt](https://web.archive.org/web/20150517000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Twin+Bolt) and [Wild Slash](https://web.archive.org/web/20150517000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wild+Slash)."
+
+* * *
+
+**#4 Temur Battle Rage**
+
+[![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Temur+Battle+Rage)](https://web.archive.org/web/20150517000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Temur+Battle+Rage)
+
+No other card was responsible for so many unexpected turnarounds. Lukas Blohon and Matteo Orsini Jones used it to great effect during the Swiss rounds, and the modern Berserk variant was also very present in the finals, where Jasper Grimmer stole a game by casting [Artful Maneuver](https://web.archive.org/web/20150517000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Artful+Maneuver) and [Temur Battle Rage](https://web.archive.org/web/20150517000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Temur+Battle+Rage) on his [Sprinting Warbrute](https://web.archive.org/web/20150517000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sprinting+Warbrute), as well as Sandblast on his opponent's 6/5 blocker. No one saw that coming.
+
+* * *
+
+**#3 Graceblade Artisan**
+
+[![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Graceblade+Artisan)](https://web.archive.org/web/20150517000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Graceblade+Artisan)
+
+Though it didn't really come together in his actual games, Amit Cohen had clearly drafted the most entertaining deck in the finals. It featured not only two copies of [Graceblade Artisan](https://web.archive.org/web/20150517000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Graceblade+Artisan) but a pair of [Conifer Strider](https://web.archive.org/web/20150517000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Conifer+Strider)s as well, to go along with the three [Abzan Runemark](https://web.archive.org/web/20150517000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Abzan+Runemark)s. Cohen had recently been crowned champion of the unofficial "Draft BerlInvitational" (which featured quite a few of the same players as the finals of this Grand Prix) and again proved his Limited prowess here.
+
+* * *
+
+**#2 Descent of the Dragons**
+
+[![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Descent+of+the+Dragons)](https://web.archive.org/web/20150517000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Descent+of+the+Dragons)
+
+[Descent of the Dragons](https://web.archive.org/web/20150517000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Descent+of+the+Dragons) played a huge role in all three of the games in the central match of the finals. In one game, Robin Steinborn made four Dragons with it, in another he made two, and in the third it was crucially countered by [Silumgar's Scorn](https://web.archive.org/web/20150517000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Silumgar%27s+Scorn). One could say cards that created or relied upon Dragons or otherwise mentioned Dragons were the deciding factor. No surprise, really, when playing with *Dragons of Tarkir*.
+
+* * *
+
+**#1 Deathbringer Regent**
+
+[![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Deathbringer+Regent)](https://web.archive.org/web/20150517000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Deathbringer+Regent)
+
+And another Dragon takes the top spot! In fact, [Deathbringer Regent](https://web.archive.org/web/20150517000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Deathbringer+Regent) was essential in defeating Steinborn's horde of Dragon tokens. Twice actually Adrian Rosada used the black sheep among the Dragons to wipe the board and claim his second Grand Prix trophy. With surgical precision, Rosada, M.D. decided the finals for his team.
+
+* * *
+
+*   [Complete coverage of Grand Prix Florence](https://web.archive.org/web/20150517000000/http://magic.wizards.com/node/384351)

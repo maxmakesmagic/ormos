@@ -1,0 +1,47 @@
+---
+id: y38wwadd
+kind: event
+lang: en
+path: /en/articles/event-coverage/2009/06-06-2009-pro-tourhonolulu-round-16-results
+title: '2009 Pro Tour–Honolulu: Round 16 Results'
+published: '2009-06-06'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/2009-pro-tour%E2%80%93honolulu-round-16-results-2009-06-06
+    lang_detected: en
+    capture_id: 324832
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/2009-pro-tour%E2%80%93honolulu-round-16-results-2009-06-06
+    captured_at: '2021-10-22 14:14:11+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/2009-pro-tour%E2%80%93honolulu-round-16-results-2009-06-06
+    lang_detected: en
+    capture_id: 324832
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/2009-pro-tour%E2%80%93honolulu-round-16-results-2009-06-06
+    captured_at: '2021-10-22 14:14:11+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: y38wwadd
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/2009-pro-tour%E2%80%93honolulu-round-16-results-2009-06-06
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/2009-pro-tour%E2%80%93honolulu-round-16-results-2009-06-06
+  lang: en
+  template: drupal
+  captured_at: '2021-10-22 14:14:11+00'
+  capture_id: 324832
+  wayback_url: https://web.archive.org/web/20211022141411id_/https://magic.wizards.com/en/articles/archive/event-coverage/2009-pro-tour%E2%80%93honolulu-round-16-results-2009-06-06
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: y38wwadd
+  capture_id: 324832
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/2009-pro-tour%E2%80%93honolulu-round-16-results-2009-06-06
+  wayback_url: https://web.archive.org/web/20211022141411id_/https://magic.wizards.com/en/articles/archive/event-coverage/2009-pro-tour%E2%80%93honolulu-round-16-results-2009-06-06
+  captured_at: '2021-10-22 14:14:11+00'
+  template: drupal
+  sha256: 700fb33b0b348467bb27113e5735d22d0e7172d8a3c5f7136184d6b5218103b8
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Result</b></td><td><b>&#10;						</b></td><td><b>Opponent</b></td></tr><tr><td> 1</td><td>Gregoir, Christophe [BEL]</td><td>Drew 1-1</td><td>vs.</td><td>Ross, Tom [USA]</td></tr><tr><td> 2</td><td>Rietzl, Paul [USA]</td><td>Drew 1-1</td><td>vs.</td><td>Hill, Zac [USA]</td></tr><tr><td> 3</td><td>Kibler, Brian [USA]</td><td>Drew 1-1</td><td>vs.</td><td>Mitamura, Kazuya [JPN]</td></tr><tr><td> 4</td><td>Woods, Conley [USA]</td><td>Drew 1-1</td><td>vs.</td><td>Hebky, Michal [CZE]</td></tr><tr><td> 5</td><td>Glenister, Mark [ENG]</td><td>Lost 1-2</td><td>vs.</td><td>Nelson, Brad [USA]</td></tr><tr><td> 6</td><td>Sibast, Rasmus [DNK]</td><td>Won 2-0</td><td>vs.</td><td>Vidugiris, Gaudenis [USA]</td></tr><tr><td> 7</td><td>Nonaka, Kentarou [JPN]</td><td>Won 2-1</td><td>vs.</td><td>Kastner, Donald [USA]</td></tr><tr><td> 8</td><td>Nassif, Gabriel [FRA]</td><td>Lost 0-2</td><td>vs.</td><td>Nyström, Per [SWE]</td></tr><tr><td> 9</td><td>Ootsuka, Koutarou [JPN]</td><td>Won 2-1</td><td>vs.</td><td>Doise, Jan [BEL]</td></tr><tr><td> 10</td><td>Blohon, Lucas [CZE]</td><td>Drew 1-1</td><td>vs.</td><td>Sirilertvorakul, Veera [THA]</td></tr><tr><td> 11</td><td>Boss, Brian [USA]</td><td>Won 2-1</td><td>vs.</td><td>Davis, Jim [USA]</td></tr><tr><td> 12</td><td>Hansen, Matt [USA]</td><td>Lost 0-2</td><td>vs.</td><td>Levy, Raphael [FRA]</td></tr><tr><td> 13</td><td>Indrakesuma, Taufik [IDN]</td><td>Won 2-0</td><td>vs.</td><td>Esper Berthoud, Lucas [BRA]</td></tr><tr><td> 14</td><td>Pyka, Jeff [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Yamamoto, Akimasa [JPN]</td></tr><tr><td> 15</td><td>Nakano, Yoshitaka [JPN]</td><td>Won 2-0</td><td>vs.</td><td>Scott-Vargas, Luis [USA]</td></tr><tr><td> 16</td><td>Lanthier, Dan [CAN]</td><td>Lost 1-2</td><td>vs.</td><td>Saitou, Tomoharu [JPN]</td></tr><tr><td> 17</td><td>Saitou, Kotatsu [JPN]</td><td>Won 2-0</td><td>vs.</td><td>Swartz, Noah [USA]</td></tr><tr><td> 18</td><td>Andrejchikov, Denis [RUS]</td><td>Drew 1-1</td><td>vs.</td><td>Kelly, John-Paul [AUS]</td></tr><tr><td> 19</td><td>Summersberger, Helmut [AUT]</td><td>Won 2-1</td><td>vs.</td><td>Lachmann, Chris [USA]</td></tr><tr><td> 20</td><td>Tagi-Zade, Eldar [RUS]</td><td>Won 2-1</td><td>vs.</td><td>Polak-Rottmann, Oliver [AUT]</td></tr><tr><td> 21</td><td>Kolos, John [USA]</td><td>Drew 1-1</td><td>vs.</td><td>Chapin, Patrick [USA]</td></tr><tr><td> 22</td><td>Irvine, David [USA]</td><td>Drew 1-1</td><td>vs.</td><td>Luc, John [SWE]</td></tr><tr><td> 23</td><td>Wiegersma, Jelger [NLD]</td><td>Won 2-1</td><td>vs.</td><td>Hron, Mike [USA]</td></tr><tr><td> 24</td><td>Fuentes, Calosso [USA]</td><td>Lost 0-2</td><td>vs.</td><td>Hall, Zack [USA]</td></tr><tr><td> 25</td><td>Karsten, Frank [NLD]</td><td>Drew 1-1</td><td>vs.</td><td>Kurihara, Shingou [JPN]</td></tr><tr><td> 26</td><td>Yokoyama, Shouta [JPN]</td><td>Won 2-1</td><td>vs.</td><td>Cabezas Munoz, Jose [ESP]</td></tr><tr><td> 27</td><td>Webb, Taylor [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Mazzurco, Carlo [DEU]</td></tr><tr><td> 28</td><td>Jacob, Michael [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Skounakis, Kostas [GRC]</td></tr><tr><td> 29</td><td>Ingram, Peter [USA]</td><td>Won 2-0</td><td>vs.</td><td>Thaler, Sebastian [DEU]</td></tr><tr><td> 30</td><td>Wong, Garry [AUS]</td><td>Won 2-0</td><td>vs.</td><td>Robinson, Brian [USA]</td></tr><tr><td> 31</td><td>Deluca, Eric [USA]</td><td>Won 2-1</td><td>vs.</td><td>Mihara, Makihito [JPN]</td></tr><tr><td> 32</td><td>Cheung, Justin [AUS]</td><td>Lost 0-2</td><td>vs.</td><td>Pejhovsky, Lubos [SVK]</td></tr><tr><td> 33</td><td>Fujita, Osamu [JPN]</td><td>Won 2-0</td><td>vs.</td><td>Ottati, Domingo [ITA]</td></tr><tr><td> 34</td><td>Snijdewind, Ruben [NLD]</td><td>Won 2-0</td><td>vs.</td><td>Juza, Martin [CZE]</td></tr><tr><td> 35</td><td>Johannsen, Dennis [DEU]</td><td>Won 2-0</td><td>vs.</td><td>Chiera, Luca [ITA]</td></tr><tr><td> 36</td><td>Rodemann, Dan [USA]</td><td>Won 2-1</td><td>vs.</td><td>Privalov, Alexander [RUS]</td></tr><tr><td> 37</td><td>Manfield, Seth [USA]</td><td>Won 2-0</td><td>vs.</td><td>Cheon, Paul [USA]</td></tr><tr><td> 38</td><td>Zidek, Arnost [CZE]</td><td>Lost 1-2</td><td>vs.</td><td>Boyd, Adam [USA]</td></tr><tr><td> 39</td><td>Williams, David [USA]</td><td>Won 2-1</td><td>vs.</td><td>Fanghaenel, Alex [DEU]</td></tr><tr><td> 40</td><td>Lebedowicz, Osyp [USA]</td><td>Won 2-1</td><td>vs.</td><td>Massicard, Yann [FRA]</td></tr><tr><td> 41</td><td>Hahn, Jurgen [CAN]</td><td>Lost 1-2</td><td>vs.</td><td>Mühlböck, Marc [AUT]</td></tr><tr><td> 42</td><td>Hinkle, Chas [USA]</td><td>Won 2-0</td><td>vs.</td><td>Moreno, William [USA]</td></tr><tr><td> 43</td><td>Bruno, Luca [ITA]</td><td>Won 2-1</td><td>vs.</td><td>Oberg, Kenny [SWE]</td></tr><tr><td> 44</td><td>Marr, Mat [USA]</td><td>Drew 1-1</td><td>vs.</td><td>Loucks, Jonathon [USA]</td></tr><tr><td> 45</td><td>Calvetto, Marcello [ITA]</td><td>Won 2-0</td><td>vs.</td><td>Lynch, Jeffrey [USA]</td></tr><tr><td> 46</td><td>Kochurov, Andrey [RUS]</td><td>Won 2-1</td><td>vs.</td><td>Florea, Dan [DEU]</td></tr><tr><td> 47</td><td>van Medevoort, Robert [NLD]</td><td>Won 2-1</td><td>vs.</td><td>Giraldo, Juan Fernando [COL]</td></tr><tr><td> 48</td><td>Penman, Douglas [ENG]</td><td>Lost 1-2</td><td>vs.</td><td>Carpenter, Bradley [USA]</td></tr><tr><td> 50</td><td>Iyanaga, Jun'ya [JPN]</td><td>Lost 1-2</td><td>vs.</td><td>Unger, Max [USA]</td></tr><tr><td> 51</td><td>Kuo, Tzu Ching [TWN]</td><td>Lost 0-2</td><td>vs.</td><td>Elfgren, Bertil [SWE]</td></tr><tr><td> 52</td><td>Fang, Wei-chun [TWN]</td><td>Won 2-1</td><td>vs.</td><td>Ueda, Katsuya [JPN]</td></tr><tr><td> 53</td><td>Keith, Jody [USA]</td><td>Lost 1-2</td><td>vs.</td><td>van Leeuwen, Arjan [NLD]</td></tr><tr><td> 54</td><td>Nakamura, Shuuhei [JPN]</td><td>Won 2-0</td><td>vs.</td><td>Mclaren, Shaun [CAN]</td></tr><tr><td> 55</td><td>Priest, Eli [CAN]</td><td>Lost 0-2</td><td>vs.</td><td>Wescoe, Craig [USA]</td></tr><tr><td> 56</td><td>Creiche, Selim [FRA]</td><td>Lost 1-2</td><td>vs.</td><td>Malin, Antti [FIN]</td></tr><tr><td> 57</td><td>Komuro, Shuu [JPN]</td><td>Lost 0-2</td><td>vs.</td><td>Turtenwald, Owen [USA]</td></tr><tr><td> 58</td><td>Flodstrom-Sconce, Chri [USA]</td><td>Lost 0-2</td><td>vs.</td><td>Kesteloo, Peter [NLD]</td></tr><tr><td> 59</td><td>Escritt, James [ENG]</td><td>Lost 1-2</td><td>vs.</td><td>Wang, Sean [CAN]</td></tr><tr><td> 60</td><td>Potovin, Nicolay [RUS]</td><td>Lost 0-2</td><td>vs.</td><td>Amaya Troncoso, Carlos [COL]</td></tr><tr><td> 61</td><td>Keaveny, Joseph [USA]</td><td>Won 2-1</td><td>vs.</td><td>Yurchick, Adam [USA]</td></tr><tr><td> 62</td><td>Elarar, Jasar [CAN]</td><td>Lost 0-2</td><td>vs.</td><td>Allbright, Bob [USA]</td></tr><tr><td>&#10;					</td><td>Cordell, Robbie [USA]</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr><tr><td>&#10;					</td><td>de Rooij, Danny [NLD]</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr><tr><td>&#10;					</td><td>Puszet, Jarron [AUS]</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr></tbody></table>

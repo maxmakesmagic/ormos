@@ -1,0 +1,136 @@
+---
+id: m6skds95
+kind: article
+lang: en
+path: /en/articles/feature/2009/06-16-pro-tourhonolulu-metagame-breakdown
+title: Pro Tour–Honolulu Metagame Breakdown
+published: '2009-06-16'
+column_slug: feature
+column: Feature
+authors:
+- slug: pauljordan
+  name: Paul Jordan
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/news/pro-tour%E2%80%93honolulu-metagame-breakdown-2009-06-16
+    lang_detected: en
+    capture_id: 1106098
+    url: https://magic.wizards.com/en/articles/archive/news/pro-tour%E2%80%93honolulu-metagame-breakdown-2009-06-16
+    captured_at: '2022-05-26 13:58:59+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/news/pro-tour%E2%80%93honolulu-metagame-breakdown-2009-06-16
+    lang_detected: en
+    capture_id: 1106098
+    url: https://magic.wizards.com/en/articles/archive/news/pro-tour%E2%80%93honolulu-metagame-breakdown-2009-06-16
+    captured_at: '2022-05-26 13:58:59+00'
+    rule: drupal.posted_in_date
+  authors:
+    page_key: magic.wizards.com/en/articles/archive/news/pro-tour%E2%80%93honolulu-metagame-breakdown-2009-06-16
+    lang_detected: en
+    capture_id: 1106098
+    url: https://magic.wizards.com/en/articles/archive/news/pro-tour%E2%80%93honolulu-metagame-breakdown-2009-06-16
+    captured_at: '2022-05-26 13:58:59+00'
+    rule: drupal.div_author
+  column:
+    page_key: magic.wizards.com/en/articles/archive/news/pro-tour%E2%80%93honolulu-metagame-breakdown-2009-06-16
+    lang_detected: en
+    capture_id: 1106098
+    url: https://magic.wizards.com/en/articles/archive/news/pro-tour%E2%80%93honolulu-metagame-breakdown-2009-06-16
+    captured_at: '2022-05-26 13:58:59+00'
+    rule: url.article_section
+    registry_match: registry.explicit
+sources:
+- document_id: m6skds95
+  url: https://magic.wizards.com/en/articles/archive/news/pro-tour%E2%80%93honolulu-metagame-breakdown-2009-06-16
+  page_key: magic.wizards.com/en/articles/archive/news/pro-tour%E2%80%93honolulu-metagame-breakdown-2009-06-16
+  lang: en
+  template: drupal
+  captured_at: '2022-05-26 13:58:59+00'
+  capture_id: 1106098
+  wayback_url: https://web.archive.org/web/20220526135859id_/https://magic.wizards.com/en/articles/archive/news/pro-tour%E2%80%93honolulu-metagame-breakdown-2009-06-16
+- document_id: m6skds95
+  url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/feature/43b
+  page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/feature/43b
+  lang: en
+  template: aspx
+  captured_at: '2010-01-22 01:38:34+00'
+  capture_id: 602282
+  wayback_url: https://web.archive.org/web/20100122013834id_/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/feature/43b
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: m6skds95
+  capture_id: 1106098
+  url: https://magic.wizards.com/en/articles/archive/news/pro-tour%E2%80%93honolulu-metagame-breakdown-2009-06-16
+  wayback_url: https://web.archive.org/web/20220526135859id_/https://magic.wizards.com/en/articles/archive/news/pro-tour%E2%80%93honolulu-metagame-breakdown-2009-06-16
+  captured_at: '2022-05-26 13:58:59+00'
+  template: drupal
+  sha256: 627e1b5349cd80e0712529df3bbc04755b032836c5cad0a923c5e7135d743208
+render_recovery: []
+---
+The Pro Tour made its second visit to one of the better received venues in its history, hosting a *Shards of Alara* Block Constructed / Booster Draft tournament that saw Kazuya Mitamura take home the trophy on the back of his 9-0 Limited performance. Despite a Booster Draft Top 8, more rounds were played with 60 card decks on the weekend, featuring some mana bases that were either ambitious, ambiguous, or, for twenty people, just boring.
+
+Bill Stark already showed the breakdown of what everyone chose to play [here](/en/events/2009/pthon09/pro-tourhonolulu-feature-metagame-breakdown), but for the click-weary I'll repost (and put all of the one-ofs into the infamous "other" categorization).
+
+<table><tbody><tr><td>Archetype</td>&#10;			<td>Players</td>&#10;			<td>% of field</td>&#10;		</tr><tr><td>Naya-Jund Control</td>&#10;			<td>96</td>&#10;			<td>24.24%</td>&#10;		</tr><tr><td>Jund Control</td>&#10;			<td>75</td>&#10;			<td>18.94%</td>&#10;		</tr><tr><td>Five-Color Cruel Control</td>&#10;			<td>62</td>&#10;			<td>15.66%</td>&#10;		</tr><tr><td>Jund Aggro</td>&#10;			<td>31</td>&#10;			<td>7.83%</td>&#10;		</tr><tr><td>Green-White Aggro</td>&#10;			<td>20</td>&#10;			<td>5.05%</td>&#10;		</tr><tr><td>Sphinx Control</td>&#10;			<td>19</td>&#10;			<td>4.80%</td>&#10;		</tr><tr><td>Sedraxis Aggro</td>&#10;			<td>19</td>&#10;			<td>4.80%</td>&#10;		</tr><tr><td>Other</td>&#10;			<td>14</td>&#10;			<td>3.54%</td>&#10;		</tr><tr><td>Bant Aggro</td>&#10;			<td>13</td>&#10;			<td>3.28%</td>&#10;		</tr><tr><td>Naya-Jund Aggro</td>&#10;			<td>9</td>&#10;			<td>2.27%</td>&#10;		</tr><tr><td>Esper Aggro</td>&#10;			<td>7</td>&#10;			<td>1.77%</td>&#10;		</tr><tr><td>Naya Aggro</td>&#10;			<td>7</td>&#10;			<td>1.77%</td>&#10;		</tr><tr><td>Naya Bant Aggro</td>&#10;			<td>6</td>&#10;			<td>1.52%</td>&#10;		</tr><tr><td>Wargate Control</td>&#10;			<td>4</td>&#10;			<td>1.01%</td>&#10;		</tr><tr><td>Progenitus Control</td>&#10;			<td>4</td>&#10;			<td>1.01%</td>&#10;		</tr><tr><td>Aggro Sphinx</td>&#10;			<td>3</td>&#10;			<td>0.76%</td>&#10;		</tr><tr><td>Five-Color Control</td>&#10;			<td>3</td>&#10;			<td>0.76%</td>&#10;		</tr><tr><td>Cruel Zombies</td>&#10;			<td>2</td>&#10;			<td>0.51%</td>&#10;		</tr><tr><td>Sedraxis Control</td>&#10;			<td>2</td>&#10;			<td>0.51%</td>&#10;		</tr><tr><td><b>Grand Total</b></td>&#10;			<td><b>396</b></td>&#10;			<td><b>100.00%</b></td>&#10;		</tr></tbody></table>
+
+Jund decks were all the rage, as all four of the most popular decks wanted green, red and black mana. Of course, they were all different decks, but a quick glance will tell you that the pros did not view this as a very blue-friendly format. All five of the most popular decks are in green—Jamie Wakefield would be proud.
+
+But if high school taught us anything, it is that popularity doesn't always lead to success. Sometimes that kid that always got locked in his locker shows up at his reunion in a Ferrari. The usual disclaimers apply.\*
+
+\* Small sample sizes are dangerous and have very little (if any) statistical significance. Players with different skill levels are playing these decks. Mirror matches have been removed. This is an historical record of what happened, not a predictive tool of what to expect in future tournaments—metagames change. If your **Magic** fever lasts longer than 4 hours, draft again.
+
+<table><tbody><tr><td><b>Archetype</b></td>&#10;			<td><b>Players</b></td>&#10;			<td><b>% of field</b></td>&#10;			<td><b>Win %</b></td>&#10;			<td><b>Total Matches</b></td>&#10;		</tr><tr><td>Sedraxis Control</td>&#10;			<td>2</td>&#10;			<td>0.51%</td>&#10;			<td>73%</td>&#10;			<td>15</td>&#10;		</tr><tr><td>Green-White Aggro</td>&#10;			<td>20</td>&#10;			<td>5.05%</td>&#10;			<td>66%</td>&#10;			<td>147</td>&#10;		</tr><tr><td>Esper Aggro</td>&#10;			<td>7</td>&#10;			<td>1.77%</td>&#10;			<td>60%</td>&#10;			<td>47</td>&#10;		</tr><tr><td>Aggro Sphinx</td>&#10;			<td>3</td>&#10;			<td>0.76%</td>&#10;			<td>57%</td>&#10;			<td>14</td>&#10;		</tr><tr><td>Naya Bant Aggro</td>&#10;			<td>6</td>&#10;			<td>1.52%</td>&#10;			<td>55%</td>&#10;			<td>38</td>&#10;		</tr><tr><td>Sedraxis Aggro</td>&#10;			<td>19</td>&#10;			<td>4.80%</td>&#10;			<td>54%</td>&#10;			<td>125</td>&#10;		</tr><tr><td>Naya-Jund Control</td>&#10;			<td>96</td>&#10;			<td>24.24%</td>&#10;			<td>53%</td>&#10;			<td>476</td>&#10;		</tr><tr><td>Bant Aggro</td>&#10;			<td>13</td>&#10;			<td>3.28%</td>&#10;			<td>53%</td>&#10;			<td>87</td>&#10;		</tr><tr><td>Cruel Zombies</td>&#10;			<td>2</td>&#10;			<td>0.51%</td>&#10;			<td>50%</td>&#10;			<td>12</td>&#10;		</tr><tr><td>Naya Aggro</td>&#10;			<td>7</td>&#10;			<td>1.77%</td>&#10;			<td>50%</td>&#10;			<td>44</td>&#10;		</tr><tr><td>Sphinx Control</td>&#10;			<td>19</td>&#10;			<td>4.80%</td>&#10;			<td>49%</td>&#10;			<td>130</td>&#10;		</tr><tr><td>Naya-Jund Aggro</td>&#10;			<td>9</td>&#10;			<td>2.27%</td>&#10;			<td>49%</td>&#10;			<td>47</td>&#10;		</tr><tr><td>Progenitus Control</td>&#10;			<td>4</td>&#10;			<td>1.01%</td>&#10;			<td>48%</td>&#10;			<td>25</td>&#10;		</tr><tr><td>Jund Control</td>&#10;			<td>75</td>&#10;			<td>18.94%</td>&#10;			<td>47%</td>&#10;			<td>389</td>&#10;		</tr><tr><td>Other</td>&#10;			<td>14</td>&#10;			<td>3.54%</td>&#10;			<td>47%</td>&#10;			<td>81</td>&#10;		</tr><tr><td>Jund Aggro</td>&#10;			<td>31</td>&#10;			<td>7.83%</td>&#10;			<td>45%</td>&#10;			<td>184</td>&#10;		</tr><tr><td>Five-Color Cruel Control</td>&#10;			<td>62</td>&#10;			<td>15.66%</td>&#10;			<td>42%</td>&#10;			<td>316</td>&#10;		</tr><tr><td>Five-Color Control</td>&#10;			<td>3</td>&#10;			<td>0.76%</td>&#10;			<td>33%</td>&#10;			<td>15</td>&#10;		</tr><tr><td>Wargate Control</td>&#10;			<td>4</td>&#10;			<td>1.01%</td>&#10;			<td>33%</td>&#10;			<td>24</td>&#10;		</tr><tr><td><b>Grand Total</b></td>&#10;			<td><b>396</b></td>&#10;			<td><b>100.00%</b></td>&#10;			<td><b>50%</b></td>&#10;			<td><b>2216</b></td>&#10;		</tr></tbody></table>
+
+Naya-Jund, almost a quarter of the field, held up pretty well against the metagame, though hardly dominant. Sedraxis Control, played by only two people (Yoshitaka Nakano and Jiafeng Sun) rode a small sample size to an impressive result. Nakano ended up in 26th place after managing only a 3-3 split in Limited.
+
+While 73% is impressive, I'm much more interested in the 66% from Green-White Aggro decks. These decks were played primarily by Japanese, French and Americans, the lone exception being Rasmus "Big Oots" Sibast. The deck eschewed the three-color model of the block, instead opting for a more streamlined two-color approach—the theory being that if you don't sacrifice too much (or any) quality, you'll end up ahead of the field by experiencing fewer mana difficulties than your opponents. The theory, this time at least, seems to have been held up. Of course, I can't say for sure that the sole difference between their success and any other deck's success was mana issues, but I'd be a fool to say it didn't play a role.
+
+What impresses me even further is that the deck didn't get such a lofty win rate from a couple of stand-out performances. Of the twenty people playing the Green-White Aggro, only three failed to win half of their matches. That level of consistency is admirable, and not something you see frequently. Speaking of consistency, take a look at this:
+
+<table><thead><tr><th colspan="3">Green-White Aggro</th>&#10;		</tr></thead><tbody><tr><td><b>Opposing Archetype</b></td>&#10;			<td><b>Win %</b></td>&#10;			<td><b>Total Matches</b></td>&#10;		</tr><tr><td>Progenitus Control</td>&#10;			<td>100%</td>&#10;			<td>3</td>&#10;		</tr><tr><td>Five-Color Control</td>&#10;			<td>100%</td>&#10;			<td>1</td>&#10;		</tr><tr><td>Naya Aggro</td>&#10;			<td>100%</td>&#10;			<td>1</td>&#10;		</tr><tr><td>Aggro Sphinx</td>&#10;			<td>100%</td>&#10;			<td>2</td>&#10;		</tr><tr><td>Bant Aggro</td>&#10;			<td>88%</td>&#10;			<td>8</td>&#10;		</tr><tr><td>Jund Aggro</td>&#10;			<td>78%</td>&#10;			<td>18</td>&#10;		</tr><tr><td>Wargate Control</td>&#10;			<td>67%</td>&#10;			<td>3</td>&#10;		</tr><tr><td>Other</td>&#10;			<td>67%</td>&#10;			<td>3</td>&#10;		</tr><tr><td>Five-Color Cruel Control</td>&#10;			<td>65%</td>&#10;			<td>23</td>&#10;		</tr><tr><td>Jund Control</td>&#10;			<td>64%</td>&#10;			<td>28</td>&#10;		</tr><tr><td>Sphinx Control</td>&#10;			<td>63%</td>&#10;			<td>8</td>&#10;		</tr><tr><td>Naya-Jund Control</td>&#10;			<td>59%</td>&#10;			<td>39</td>&#10;		</tr><tr><td>Naya-Jund Aggro</td>&#10;			<td>50%</td>&#10;			<td>4</td>&#10;		</tr><tr><td>Sedraxis Aggro</td>&#10;			<td>50%</td>&#10;			<td>4</td>&#10;		</tr><tr><td>Naya Bant Aggro</td>&#10;			<td>0%</td>&#10;			<td>1</td>&#10;		</tr><tr><td>Esper Aggro</td>&#10;			<td>0%</td>&#10;			<td>1</td>&#10;		</tr><tr><td><b>Grand Total</b></td>&#10;			<td><b>66%</b></td>&#10;			<td><b>147</b></td>&#10;		</tr></tbody></table>
+
+Only two pairings under 50%, and those were each only one match. Wow. Simply Wow. 59% against the most popular deck. 64% against #2. 65% against #3. 78% against #4. If this PT was Constructed only, I can only imagine what might have been for the green-white players. Those numbers are absolutely impressive. Sure, we only have 20 to 40 matches of each to talk to, but that is some honest-to-goodness domination of the metagame. Loxodon Hierarch is looking on from the bleachers screaming, "That's my boy out there! Look at him go! Best at the Pro Tour!" while Darigaaz and Rith are ignoring him, hoping he trips going down the stairs.
+
+The sleek mana base of Green-White put on a good show. But efficient creatures and simple mana bases are boring. If there's one thing marketing people can tell you, it is that sex sells. And five colors in one deck is *sexy*. Remember [this exchange](/en/articles/feature/2008/12-19-2008-worlds-in-review-2)?
+
+> *Nassif put his top card in front of him, face down, and then went about arranging his lands.*
+> 
+> *"I'm preparing my Cruel Ultimatum mana."*
+> 
+> *He slowly peeled the card back before snapping it into his hand and hiding it behind his Reflecting Pool, all without looking at it. He then dropped the Reflecting Pool, tapped seven mana, and blindly dropped his card onto the table. The roar from the spectator packed observation area threatened to level the Arena with a wall of sound.*
+> 
+> *Nassif had topdecked the Cruel Ultimatum he had set up the mana for.*
+
+Well, Cruel Ultimatum is still sexy. And when you're aiming for ![](https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/blue.gif)![](https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/blue.gif)![](https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/black.gif)![](https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/black.gif)![](https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/black.gif)![](https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/red.gif)![](https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/red.gif), the least you can do is offer some love to green and white, right? That's what 62 people thought, at least. And those 62 people did not fare well, posting a dismal 42% win rate, easily the worst record of the top five decks. Cruel decks failed to even win half of their matches against any of the other top five decks.
+
+<table><thead><tr><th colspan="3">Five-Color Cruel Control</th>&#10;		</tr></thead><tbody><tr><td><b>Opposing Archetype</b></td>&#10;			<td><b>Win %</b></td>&#10;			<td><b>Total Matches</b></td>&#10;		</tr><tr><td>Wargate Control</td>&#10;			<td>100%</td>&#10;			<td>3</td>&#10;		</tr><tr><td>Five-Color Control</td>&#10;			<td>100%</td>&#10;			<td>1</td>&#10;		</tr><tr><td>Sedraxis Control</td>&#10;			<td>67%</td>&#10;			<td>3</td>&#10;		</tr><tr><td>Naya-Jund Aggro</td>&#10;			<td>60%</td>&#10;			<td>5</td>&#10;		</tr><tr><td>Other</td>&#10;			<td>59%</td>&#10;			<td>17</td>&#10;		</tr><tr><td>Naya Bant Aggro</td>&#10;			<td>57%</td>&#10;			<td>7</td>&#10;		</tr><tr><td>Jund Aggro</td>&#10;			<td>47%</td>&#10;			<td>30</td>&#10;		</tr><tr><td>Jund Control</td>&#10;			<td>46%</td>&#10;			<td>68</td>&#10;		</tr><tr><td>Sedraxis Aggro</td>&#10;			<td>43%</td>&#10;			<td>14</td>&#10;		</tr><tr><td>Progenitus Control</td>&#10;			<td>40%</td>&#10;			<td>5</td>&#10;		</tr><tr><td>Naya-Jund Control</td>&#10;			<td>38%</td>&#10;			<td>97</td>&#10;		</tr><tr><td>Green-White Aggro</td>&#10;			<td>35%</td>&#10;			<td>23</td>&#10;		</tr><tr><td>Naya Aggro</td>&#10;			<td>33%</td>&#10;			<td>9</td>&#10;		</tr><tr><td>Cruel Zombies</td>&#10;			<td>33%</td>&#10;			<td>3</td>&#10;		</tr><tr><td>Sphinx Control</td>&#10;			<td>31%</td>&#10;			<td>13</td>&#10;		</tr><tr><td>Bant Aggro</td>&#10;			<td>30%</td>&#10;			<td>10</td>&#10;		</tr><tr><td>Esper Aggro</td>&#10;			<td>14%</td>&#10;			<td>7</td>&#10;		</tr><tr><td>Aggro Sphinx</td>&#10;			<td>0%</td>&#10;			<td>1</td>&#10;		</tr><tr><td><b>Grand Total</b></td>&#10;			<td><b>42%</b></td>&#10;			<td><b>316</b></td>&#10;		</tr></tbody></table>
+
+None of these numbers are terribly impressive, and virtually all of them are U.G.L.Y., and without an alibi. These are the type of results that really get me scratching my head. If a deck does this poorly, virtually averaging a 2-3 record, how could it have possibly done in testing? I'd be extremely interested in seeing how much testing was done by people who chose this deck, and how much of it was positive. What were their gauntlets like? Were they missing key factors in other archetypes that allowed them to win more in testing? Normally when a popular deck fails like this it is because of some unexpected metagame shift. You'll usually see one or two good matchups, but with far fewer matches against those decks. This time though, it looks bad across the board. I guess sex really does sell.
+
+While popularity doesn't always mean success, it also doesn't always mean failure. Sometimes the quarterback in high school goes on to the NFL. Or sometimes he just becomes a successful businessman. Naya-Jund Control, the cascading presumptive best deck that accompanied almost a quarter of the players in the main event, put up a good fight. It did not dominate. Nor did it fail. It simply showed up every round and put up a fight.
+
+<table><thead><tr><th colspan="3">Naya-Jund Control</th>&#10;		</tr></thead><tbody><tr><td><b>Opposing Archetype</b></td>&#10;			<td><b>Win %</b></td>&#10;			<td><b>Total Matches</b></td>&#10;		</tr><tr><td>Five-Color Control</td>&#10;			<td>100%</td>&#10;			<td>2</td>&#10;		</tr><tr><td>Wargate Control</td>&#10;			<td>83%</td>&#10;			<td>6</td>&#10;		</tr><tr><td>Five-Color Cruel Control</td>&#10;			<td>62%</td>&#10;			<td>97</td>&#10;		</tr><tr><td>Jund Aggro</td>&#10;			<td>60%</td>&#10;			<td>48</td>&#10;		</tr><tr><td>Progenitus Control</td>&#10;			<td>60%</td>&#10;			<td>5</td>&#10;		</tr><tr><td>Other</td>&#10;			<td>60%</td>&#10;			<td>20</td>&#10;		</tr><tr><td>Jund Control</td>&#10;			<td>53%</td>&#10;			<td>118</td>&#10;		</tr><tr><td>Sedraxis Aggro</td>&#10;			<td>50%</td>&#10;			<td>36</td>&#10;		</tr><tr><td>Cruel Zombies</td>&#10;			<td>50%</td>&#10;			<td>2</td>&#10;		</tr><tr><td>Sphinx Control</td>&#10;			<td>49%</td>&#10;			<td>39</td>&#10;		</tr><tr><td>Naya Bant Aggro</td>&#10;			<td>45%</td>&#10;			<td>11</td>&#10;		</tr><tr><td>Bant Aggro</td>&#10;			<td>44%</td>&#10;			<td>18</td>&#10;		</tr><tr><td>Naya Aggro</td>&#10;			<td>43%</td>&#10;			<td>7</td>&#10;		</tr><tr><td>Green-White Aggro</td>&#10;			<td>41%</td>&#10;			<td>39</td>&#10;		</tr><tr><td>Naya-Jund Aggro</td>&#10;			<td>38%</td>&#10;			<td>13</td>&#10;		</tr><tr><td>Esper Aggro</td>&#10;			<td>33%</td>&#10;			<td>9</td>&#10;		</tr><tr><td>Aggro Sphinx</td>&#10;			<td>20%</td>&#10;			<td>5</td>&#10;		</tr><tr><td>Sedraxis Control</td>&#10;			<td>0%</td>&#10;			<td>1</td>&#10;		</tr><tr><td><b>Grand Total</b></td>&#10;			<td><b>53%</b></td>&#10;			<td><b>476</b></td>&#10;		</tr></tbody></table>
+
+Naya-Jund Control came through against three of the non-mirror top four decks out there. We've discussed the failings of Cruel Control, but look at that 60% against Jund Aggro. That's a very healthy number to have against the most-played aggressive deck in a format, one that I'm sure helped sway a number of players to Naya-Jund Control. The faux-mirror, against the white-free Jund Control, was slightly in favor as well. Again, not dominant, but effective. If you expand to the next two most trendy decks (Sedraxis Aggro and Sphinx Control) and you still don't see anything terrible. Certainly 50% and 49% are certainly not what you want going into a round, but when you consider that those two only represent about 10% of possible pairings, you'll take it. The problem child is Green-White Aggro—again, only 5% of the field. Naya-Jund Control held up well against the top three decks, and put up a fight against two of numbers 4 through 6. All together, that is a solid showing.
+
+Removing the white from Naya-Jund Control did some interesting things to the results, most obvious is the 6% swing to the wrong side of 50.
+
+<table><thead><tr><th colspan="3">Jund Control</th>&#10;		</tr></thead><tbody><tr><td><b>Opposing Archetype</b></td>&#10;			<td><b>Win %</b></td>&#10;			<td><b>Total Matches</b></td>&#10;		</tr><tr><td>Aggro Sphinx</td>&#10;			<td>100%</td>&#10;			<td>2</td>&#10;		</tr><tr><td>Naya-Jund Aggro</td>&#10;			<td>64%</td>&#10;			<td>11</td>&#10;		</tr><tr><td>Five-Color Cruel Control</td>&#10;			<td>54%</td>&#10;			<td>68</td>&#10;		</tr><tr><td>Sedraxis Aggro</td>&#10;			<td>54%</td>&#10;			<td>24</td>&#10;		</tr><tr><td>Jund Aggro</td>&#10;			<td>53%</td>&#10;			<td>32</td>&#10;		</tr><tr><td>Five-Color Control</td>&#10;			<td>50%</td>&#10;			<td>6</td>&#10;		</tr><tr><td>Esper Aggro</td>&#10;			<td>50%</td>&#10;			<td>10</td>&#10;		</tr><tr><td>Naya Aggro</td>&#10;			<td>50%</td>&#10;			<td>10</td>&#10;		</tr><tr><td>Cruel Zombies</td>&#10;			<td>50%</td>&#10;			<td>2</td>&#10;		</tr><tr><td>Naya-Jund Control</td>&#10;			<td>47%</td>&#10;			<td>118</td>&#10;		</tr><tr><td>Other</td>&#10;			<td>46%</td>&#10;			<td>13</td>&#10;		</tr><tr><td>Sphinx Control</td>&#10;			<td>43%</td>&#10;			<td>30</td>&#10;		</tr><tr><td>Green-White Aggro</td>&#10;			<td>36%</td>&#10;			<td>28</td>&#10;		</tr><tr><td>Bant Aggro</td>&#10;			<td>30%</td>&#10;			<td>23</td>&#10;		</tr><tr><td>Wargate Control</td>&#10;			<td>25%</td>&#10;			<td>4</td>&#10;		</tr><tr><td>Progenitus Control</td>&#10;			<td>0%</td>&#10;			<td>4</td>&#10;		</tr><tr><td>Sedraxis Control</td>&#10;			<td>0%</td>&#10;			<td>1</td>&#10;		</tr><tr><td>Naya Bant Aggro</td>&#10;			<td>0%</td>&#10;			<td>3</td>&#10;		</tr><tr><td><b>Grand Total</b></td>&#10;			<td><b>47%</b></td>&#10;			<td><b>389</b></td>&#10;		</tr></tbody></table>
+
+There's the 3% to its cascading faux-mirror that accounts for some of the difference. Sphinx Control got worse, but Sedraxis Aggro got better. Cruel and Jund Aggro both remained good, but not by as much. Green-White got worse. In this instance it looks like the sturdier three-color build did not offer enough of a benefit to offset the decrease in power.
+
+Rounding out the top five most-played-decks is Jund Aggro. People who have little time to prepare for an event often default to an aggressive deck in the hopes of stealing some free wins. *Shards of Alara* Block was not supportive of this plan, as there was not an overly-obvious aggressive strategy. Cascade spells also allowed controlling decks to stabilize more easily. The apparent default aggressive deck was out of the Jund shard, but it did not fare well.
+
+<table><thead><tr><th colspan="3">Jund Aggro</th>&#10;		</tr></thead><tbody><tr><td><b>Opposing Archetype</b></td>&#10;			<td><b>Win %</b></td>&#10;			<td><b>Total Matches</b></td>&#10;		</tr><tr><td>Wargate Control</td>&#10;			<td>100.00%</td>&#10;			<td>1</td>&#10;		</tr><tr><td>Progenitus Control</td>&#10;			<td>100.00%</td>&#10;			<td>1</td>&#10;		</tr><tr><td>Other</td>&#10;			<td>100.00%</td>&#10;			<td>5</td>&#10;		</tr><tr><td>Bant Aggro</td>&#10;			<td>100.00%</td>&#10;			<td>4</td>&#10;		</tr><tr><td>Cruel Zombies</td>&#10;			<td>100.00%</td>&#10;			<td>1</td>&#10;		</tr><tr><td>Esper Aggro</td>&#10;			<td>60.00%</td>&#10;			<td>5</td>&#10;		</tr><tr><td>Naya Bant Aggro</td>&#10;			<td>60.00%</td>&#10;			<td>5</td>&#10;		</tr><tr><td>Five-Color Cruel Control</td>&#10;			<td>53.33%</td>&#10;			<td>30</td>&#10;		</tr><tr><td>Naya-Jund Aggro</td>&#10;			<td>50.00%</td>&#10;			<td>2</td>&#10;		</tr><tr><td>Jund Control</td>&#10;			<td>46.88%</td>&#10;			<td>32</td>&#10;		</tr><tr><td>Sphinx Control</td>&#10;			<td>46.15%</td>&#10;			<td>13</td>&#10;		</tr><tr><td>Naya-Jund Control</td>&#10;			<td>39.58%</td>&#10;			<td>48</td>&#10;		</tr><tr><td>Sedraxis Aggro</td>&#10;			<td>33.33%</td>&#10;			<td>9</td>&#10;		</tr><tr><td>Green-White Aggro</td>&#10;			<td>22.22%</td>&#10;			<td>18</td>&#10;		</tr><tr><td>Naya Aggro</td>&#10;			<td>20.00%</td>&#10;			<td>5</td>&#10;		</tr><tr><td>Five-Color Control</td>&#10;			<td>0.00%</td>&#10;			<td>1</td>&#10;		</tr><tr><td>Sedraxis Control</td>&#10;			<td>0.00%</td>&#10;			<td>4</td>&#10;		</tr><tr><td><b>Grand Total</b></td>&#10;			<td><b>45.11%</b></td>&#10;			<td><b>184</b></td>&#10;		</tr></tbody></table>
+
+The only one of the top five decks that Jund Aggro handled with any regularity was the other failure, Five-Color Cruel Control. From Jund Control to Naya-Jund Control to Green-White Aggro, it was a progressively worse story. There isn't much else to say about this failed aggressive strategy.
+
+I'd love to go into further detail on the Esper Aggro deck that Brian Kibler and Paul Reitzl used to get into the Top 8, but there is so little data. The only opposing deck that even had 10 matches was Jund Control, and that was a split.
+
+Due to the nature of the event and the split formats, there are not any undefeated decks. There were six that played Constructed matches on Day Two and only had one loss overall, so we'll show those.
+
+<table><tbody><tr><td><b>Player </b></td>&#10;			<td><b>Archetype</b></td>&#10;			<td><b>Win %</b></td>&#10;			<td><b>Wins</b></td>&#10;			<td><b>Losses</b></td>&#10;			<td><b>Draws</b></td>&#10;		</tr><tr><td><b>Davis, Jim [USA]</b></td>&#10;			<td>Naya-Jund Control</td>&#10;			<td>90.00%</td>&#10;			<td>9</td>&#10;			<td>1</td>&#10;			<td>0</td>&#10;		</tr><tr><td><b>Hill, Zac [USA]</b></td>&#10;			<td>Five-Color Cruel Control</td>&#10;			<td>88.89%</td>&#10;			<td>8</td>&#10;			<td>1</td>&#10;			<td>1</td>&#10;		</tr><tr><td><b>Kibler, Brian [USA]</b></td>&#10;			<td>Esper Aggro</td>&#10;			<td>88.89%</td>&#10;			<td>8</td>&#10;			<td>1</td>&#10;			<td>1</td>&#10;		</tr><tr><td><b>Gregoir, Christophe [BEL]</b></td>&#10;			<td>Jund Control</td>&#10;			<td>87.50%</td>&#10;			<td>7</td>&#10;			<td>1</td>&#10;			<td>2</td>&#10;		</tr><tr><td><b>Rietzl, Paul [USA]</b></td>&#10;			<td>Esper Aggro</td>&#10;			<td>87.50%</td>&#10;			<td>7</td>&#10;			<td>1</td>&#10;			<td>2</td>&#10;		</tr><tr><td><b>Huber, Christoph [CHE]</b></td>&#10;			<td>Naya-Jund Control</td>&#10;			<td>83.33%</td>&#10;			<td>5</td>&#10;			<td>1</td>&#10;			<td>0</td>&#10;		</tr></tbody></table>
+
+For all the bad press I just gave Five-Color Cruel, of course it did have its bright spot in Zac Hill. Jim Davis was outstanding with his Naya-Jund Control deck, but unfortunately his 1-4-1 draft record kept him out of Sunday action. Amazingly, his only constructed loss came in Round 16, playing for Top 16, to a Jund Aggro deck; a matchup that had been 62% in Jim's favor over the weekend. And that, as they say, is why we play the games.

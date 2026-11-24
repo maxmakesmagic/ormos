@@ -1,0 +1,47 @@
+---
+id: '75129282'
+kind: event
+lang: en
+path: /en/articles/event-coverage/2012/06-17-grand-prix-manilaround-15-results
+title: Grand Prix ManilaRound 15 Results
+published: '2012-06-17'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-manilaround-15-results-2012-06-17
+    lang_detected: en
+    capture_id: 412388
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-manilaround-15-results-2012-06-17
+    captured_at: '2022-08-11 09:10:33+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-manilaround-15-results-2012-06-17
+    lang_detected: en
+    capture_id: 412388
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-manilaround-15-results-2012-06-17
+    captured_at: '2022-08-11 09:10:33+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: '75129282'
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-manilaround-15-results-2012-06-17
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-manilaround-15-results-2012-06-17
+  lang: en
+  template: drupal
+  captured_at: '2022-08-11 09:10:33+00'
+  capture_id: 412388
+  wayback_url: https://web.archive.org/web/20220811091033id_/https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-manilaround-15-results-2012-06-17
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: '75129282'
+  capture_id: 412388
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-manilaround-15-results-2012-06-17
+  wayback_url: https://web.archive.org/web/20220811091033id_/https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-manilaround-15-results-2012-06-17
+  captured_at: '2022-08-11 09:10:33+00'
+  template: drupal
+  sha256: 2a378184e0101d0a29f5751fef5f91d087dd32a487add548f62dae34092017a3
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Result</b></td><td><b>&#10;						</b></td><td><b>Opponent</b></td></tr><tr><td> 1</td><td>Watanabe, Yuuya [JPN]</td><td>Drew 0-0-3</td><td>vs.</td><td>Luces, Jonathan Justin [PHL]</td></tr><tr><td> 2</td><td>Sugaya, Hironobu [JPN]</td><td>Drew 0-0-3</td><td>vs.</td><td>Nerez, Jacklord R [PHL]</td></tr><tr><td> 3</td><td>Juza, Martin [CZE]</td><td>Drew 0-0-3</td><td>vs.</td><td>Tan, richmond h [PHL]</td></tr><tr><td> 4</td><td>Chew, Kelvin [SGP]</td><td>Lost 1-2</td><td>vs.</td><td>Soh, Weng Heng [SGP]</td></tr><tr><td> 5</td><td>Lee, Rick Hup Beng [MYS]</td><td>Won 2-0</td><td>vs.</td><td>rivas, raynand a [PHL]</td></tr><tr><td> 6</td><td>Park, Jun Young [KOR]</td><td>Lost 1-2</td><td>vs.</td><td>Red, Mikhail [PHL]</td></tr><tr><td> 7</td><td>Kuo, Tzu Ching C [TWN]</td><td>Won 2-0</td><td>vs.</td><td>Lai, Chien-Shie [TWN]</td></tr><tr><td> 8</td><td>Vinagrera, Emmanuel R [PHL]</td><td>Lost 1-2</td><td>vs.</td><td>Tanyag, Ed Ryan T [PHL]</td></tr><tr><td> 9</td><td>Ganz, Andreas [CHE]</td><td>Won 2-1</td><td>vs.</td><td>Leong, Ding y [SGP]</td></tr><tr><td> 10</td><td>Bay, Rav [PHL]</td><td>Won 2-0</td><td>vs.</td><td>Pangilinan, Aurelio [PHL]</td></tr><tr><td> 11</td><td>Rico, Bob Erikzun T [PHL]</td><td>Lost 1-2</td><td>vs.</td><td>Chye, Yian Hsiang [MYS]</td></tr><tr><td> 12</td><td>Yap, Mark Christopher [PHL]</td><td>Lost 1-2</td><td>vs.</td><td>Sun, Dell [TWN]</td></tr><tr><td> 13</td><td>Chiong, Marvin A [PHL]</td><td>Won 2-0</td><td>vs.</td><td>Jamir, Joselito Albert [PHL]</td></tr><tr><td> 14</td><td>Rama, Philip Christoph [PHL]</td><td>Lost 0-2</td><td>vs.</td><td>Huang, Hao-Shan [TWN]</td></tr><tr><td> 15</td><td>Zhang, Meng Qiu [HKG]</td><td>Lost 1-2</td><td>vs.</td><td>Soh, Terry [MYS]</td></tr><tr><td> 16</td><td>Gonzales, Mark Joseph [PHL]</td><td>Lost 0-2</td><td>vs.</td><td>Gaviola, Michael Joey [PHL]</td></tr><tr><td> 17</td><td>carbonell, jonjon g [PHL]</td><td>Lost 1-2</td><td>vs.</td><td>Lee, Joon Soo [KOR]</td></tr><tr><td> 18</td><td>Cantillana, Andrew R [PHL]</td><td>Won 2-0</td><td>vs.</td><td>Chua, Charles Benedict [PHL]</td></tr><tr><td> 19</td><td>Sahagun, John Daroen [PHL]</td><td>Lost 0-2</td><td>vs.</td><td>Samaniego, Lawrence Fa [PHL]</td></tr><tr><td> 20</td><td>Manalo, Aristotle [PHL]</td><td>Won 2-1</td><td>vs.</td><td>Takeda, Hiroki [JPN]</td></tr><tr><td> 21</td><td>Cardenas, Benedict M [PHL]</td><td>Won 2-0</td><td>vs.</td><td>Sirilertvorakul, Veera [THA]</td></tr><tr><td> 22</td><td>Camangon, Gerald C [PHL]</td><td>Drew 0-0-3</td><td>vs.</td><td>Hsu, Chao Shun [TWN]</td></tr><tr><td> 23</td><td>Zainuddin, Shamsul Bah [MYS]</td><td>Won 2-0</td><td>vs.</td><td>Gonzalez, Marco G [PHL]</td></tr><tr><td> 24</td><td>Ozaki, Zax R [PHL]</td><td>Won 2-1</td><td>vs.</td><td>Manalac, Lloyd Albert [PHL]</td></tr><tr><td> 25</td><td>Enriquez, Emil Gabriel [PHL]</td><td>Lost 0-2</td><td>vs.</td><td>Lim, Redmond [PHL]</td></tr><tr><td> 26</td><td>CO, BENEDICT [PHL]</td><td>Lost 0-2</td><td>vs.</td><td>Morales, Jose Mari V [PHL]</td></tr><tr><td> 27</td><td>Calucag, Richard D [PHL]</td><td>Lost 0-2</td><td>vs.</td><td>De Guzman, Ray A [USA]</td></tr><tr><td> 28</td><td>Acenas, Paolo Sicat [PHL]</td><td>Lost 1-2</td><td>vs.</td><td>Tang, Stephen Roy [PHL]</td></tr><tr><td> 29</td><td>Lei, Yu Sheng [CHN]</td><td>Won 2-0</td><td>vs.</td><td>Cacapit, Mervin S [PHL]</td></tr><tr><td> 30</td><td>Madrigal, Ricky [PHL]</td><td>Won 2-1</td><td>vs.</td><td>Asinas, Rudi Jason E [PHL]</td></tr><tr><td> 31</td><td>Famorcan, Caesar W [PHL]</td><td>Won 1-0-1</td><td>vs.</td><td>Gonzales, Martin Paolo [PHL]</td></tr><tr><td> 32</td><td>Mokhtaruddin, Mohd Haf [MYS]</td><td>Won 2-1</td><td>vs.</td><td>Uson, Perry Winston L [PHL]</td></tr><tr><td> 33</td><td>Tung, Chang-Ming [TWN]</td><td>Won 2-1</td><td>vs.</td><td>Abella, Reynald I [PHL]</td></tr><tr><td> 34</td><td>tan, Lloyd e [PHL]</td><td>Won 2-1</td><td>vs.</td><td>Bausa, Patrick A [PHL]</td></tr><tr><td> 35</td><td>Lucero, Red [PHL]</td><td>Won 2-0</td><td>vs.</td><td>Gonzales, John Benedic [PHL]</td></tr><tr><td> 36</td><td>Jen, Chien-Ming [TWN]</td><td>Won 2-0</td><td>vs.</td><td>Valenzuela, Ephraim [PHL]</td></tr><tr><td> 37</td><td>Rubio, Michael [PHL]</td><td>Won 2-0</td><td>vs.</td><td>Bueno, Paolo L [PHL]</td></tr><tr><td> 38</td><td>Ortenero, Eli G [PHL]</td><td>Lost 1-2</td><td>vs.</td><td>Gutierrez, Ian Mark L [PHL]</td></tr><tr><td> 39</td><td>Penachos, Primo Jr. [PHL]</td><td>Lost 0-2</td><td>vs.</td><td>Pacamara, Archie M [PHL]</td></tr><tr><td> 40</td><td>Kim, Cynic [KOR]</td><td>Won 2-0</td><td>vs.</td><td>Cohun, Benson [SGP]</td></tr><tr><td> 41</td><td>Sy, Manchester S [PHL]</td><td>Lost 1-2</td><td>vs.</td><td>Savoie, Joseph [PHL]</td></tr><tr><td> 42</td><td>Law, Charles [SGP]</td><td>Won 2-1</td><td>vs.</td><td>Srirattana, Noppadol [THA]</td></tr><tr><td> 43</td><td>Kim, Sang-eun [KOR]</td><td>Lost 1-2</td><td>vs.</td><td>Luo, Ryan [SGP]</td></tr><tr><td> 44</td><td>Luo, Xingbin [CHN]</td><td>Won 2-0</td><td>vs.</td><td>Lee, Shi Tian [HKG]</td></tr><tr><td> 45</td><td>Medina, Miguel S [PHL]</td><td>Lost 0-2</td><td>vs.</td><td>mate, adan angelo s [PHL]</td></tr><tr><td> 46</td><td>Pilapil, Michael Gene [PHL]</td><td>Won 2-0</td><td>vs.</td><td>Francisco, Samuel Jaco [PHL]</td></tr><tr><td> 47</td><td>Banda, Mark Joseph Mer [PHL]</td><td>Won 2-1</td><td>vs.</td><td>Buebo, Raymond R [PHL]</td></tr><tr><td> 48</td><td>Felix, Victor [PHL]</td><td>Won 2-0</td><td>vs.</td><td>Jbeili, Reggie [PHL]</td></tr><tr><td> 49</td><td>Fronteras, Carlo Emman [PHL]</td><td>Won 2-1</td><td>vs.</td><td>Tenorio, Rexel Allan C [PHL]</td></tr><tr><td> 50</td><td>Lim, David Leslie w [PHL]</td><td>Won 2-1</td><td>vs.</td><td>Ordonez, Alejandro R [PHL]</td></tr><tr><td> 51</td><td>Pangasinan, Jay P [PHL]</td><td>Won 2-1</td><td>vs.</td><td>Salim, Wijaya Putra [PHL]</td></tr><tr><td> 52</td><td>cirujales, earl s [PHL]</td><td>Drew 1-1-1</td><td>vs.</td><td>Wong, Johan [ZAF]</td></tr><tr><td> 53</td><td>Deanon, Cheljohn [PHL]</td><td>Won 2-0</td><td>vs.</td><td>Pangan, Jayson [PHL]</td></tr><tr><td> 54</td><td>Morente, Karl Jason [PHL]</td><td>Lost 0-2</td><td>vs.</td><td>gambe, august t [PHL]</td></tr><tr><td> 55</td><td>Nisperos, Ricardo P [PHL]</td><td>Won 2-1</td><td>vs.</td><td>Panizales, Michael O [PHL]</td></tr><tr><td> 56</td><td>Lopez, Philip Jason G [PHL]</td><td>Lost 1-2</td><td>vs.</td><td>Burgos, John Ryan E [PHL]</td></tr><tr><td> 57</td><td>Pinyo, Wathanyu [THA]</td><td>Won 2-0</td><td>vs.</td><td>Llanos, David N [PHL]</td></tr><tr><td> 58</td><td>Romanes, Alfrie C [PHL]</td><td>Won 2-0</td><td>vs.</td><td>Mendoza, Stephen Edsel [PHL]</td></tr><tr><td> 59</td><td>Jagonos, Joefe G [PHL]</td><td>Won 2-0</td><td>vs.</td><td>Hubilla, Kenneth Jorda [PHL]</td></tr><tr><td>&#10;					</td><td>YU, STANLEY [PHL]</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr></tbody></table>

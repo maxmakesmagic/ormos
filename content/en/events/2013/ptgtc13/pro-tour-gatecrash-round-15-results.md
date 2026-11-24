@@ -1,0 +1,63 @@
+---
+id: 2kmtkg25
+kind: event
+lang: en
+path: /en/events/2013/ptgtc13/pro-tour-gatecrash-round-15-results
+title: Pro Tour Gatecrash Round 15 Results
+published: '2013-02-16'
+column_slug: null
+column: null
+authors: []
+event_code: ptgtc13
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/pro-tour-gatecrash-round-15-results-2013-02-16
+    lang_detected: en
+    capture_id: 467833
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/pro-tour-gatecrash-round-15-results-2013-02-16
+    captured_at: '2021-05-03 03:21:46+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/pro-tour-gatecrash-round-15-results-2013-02-16
+    lang_detected: en
+    capture_id: 467833
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/pro-tour-gatecrash-round-15-results-2013-02-16
+    captured_at: '2021-05-03 03:21:46+00'
+    rule: drupal.posted_in_date
+  event_code:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/ptgtc13/res15
+    lang_detected: en
+    capture_id: 530762
+    url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/ptgtc13/res15
+    captured_at: '2013-12-03 21:43:30+00'
+    rule: url.event_code
+sources:
+- document_id: 2kmtkg25
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/pro-tour-gatecrash-round-15-results-2013-02-16
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/pro-tour-gatecrash-round-15-results-2013-02-16
+  lang: en
+  template: drupal
+  captured_at: '2021-05-03 03:21:46+00'
+  capture_id: 467833
+  wayback_url: https://web.archive.org/web/20210503032146id_/https://magic.wizards.com/en/articles/archive/event-coverage/pro-tour-gatecrash-round-15-results-2013-02-16
+- document_id: 2kmtkg25
+  url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/ptgtc13/res15
+  page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/ptgtc13/res15
+  lang: en
+  template: aspx
+  captured_at: '2013-12-03 21:43:30+00'
+  capture_id: 530762
+  wayback_url: https://web.archive.org/web/20131203214330id_/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/ptgtc13/res15
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 2kmtkg25
+  capture_id: 467833
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/pro-tour-gatecrash-round-15-results-2013-02-16
+  wayback_url: https://web.archive.org/web/20210503032146id_/https://magic.wizards.com/en/articles/archive/event-coverage/pro-tour-gatecrash-round-15-results-2013-02-16
+  captured_at: '2021-05-03 03:21:46+00'
+  template: drupal
+  sha256: 201c5dc573eda6827d9746b2383429064d20af678db1749000c28ef0c6c58741
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Result</b></td><td><b>&#10;						</b></td><td><b>Opponent</b></td></tr><tr><td> 1</td><td>Stark, Ben [USA]</td><td>Drew 0-0-0</td><td>vs.</td><td>Turtenwald, Owen [USA]</td></tr><tr><td> 2</td><td>Shiels, Dave [USA]</td><td>Lost 1-2</td><td>vs.</td><td>DeTora, Melissa [USA]</td></tr><tr><td> 3</td><td>Martell, Tom [USA]</td><td>Won 2-0</td><td>vs.</td><td>Gonzales, Roberto [USA]</td></tr><tr><td> 4</td><td>Larsson, Joel [SWE]</td><td>Won 2-1</td><td>vs.</td><td>Mann, Stephen [USA]</td></tr><tr><td> 5</td><td>spanu, gianluca [ITA]</td><td>Lost 1-2</td><td>vs.</td><td>Thompson, Gerry [USA]</td></tr><tr><td> 6</td><td>Tapia Becerra, Felipe [CHL]</td><td>Won 2-1</td><td>vs.</td><td>Demestrio, Joe [USA]</td></tr><tr><td> 7</td><td>Parker, Brock [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Sutor, Emanuel [DEU]</td></tr><tr><td> 8</td><td>Froehlich, Eric [USA]</td><td>Won 2-0</td><td>vs.</td><td>Nordahl, Andreas [NOR]</td></tr><tr><td> 9</td><td>Woods, Conley [USA]</td><td>Won 2-1</td><td>vs.</td><td>ROLIN, Christophe [FRA]</td></tr><tr><td> 10</td><td>Gerlock, Alex [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Adebo Diaz, Juan Carlo [ESP]</td></tr><tr><td> 11</td><td>Ross-Latour, Jeremie [CAN]</td><td>Lost 1-2</td><td>vs.</td><td>Pedrakowski, Tomek [POL]</td></tr><tr><td> 12</td><td>Egan, Isaac [AUS]</td><td>Won 2-0</td><td>vs.</td><td>Sakai, Yoshitoki [JPN]</td></tr><tr><td> 13</td><td>Rietzl, Paul [USA]</td><td>Lost 0-2</td><td>vs.</td><td>Stern, Jon [CAN]</td></tr><tr><td> 14</td><td>Shenhar, Shahar [ISR]</td><td>Won 2-0</td><td>vs.</td><td>Carleton-Barnes, Gabri [USA]</td></tr><tr><td> 15</td><td>Mihara, Makihito [JPN]</td><td>Won 2-1</td><td>vs.</td><td>Jaklovsky, Lukas [CZE]</td></tr><tr><td> 16</td><td>Jasheway, Ian [USA]</td><td>Won 2-0</td><td>vs.</td><td>Cox, Patrick [USA]</td></tr><tr><td> 17</td><td>Levy, Raphael [FRA]</td><td>Won 2-0</td><td>vs.</td><td>Keene, Matt [USA]</td></tr><tr><td> 18</td><td>Williams, Samuel [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Vidugiris, Gaudenis [LTU]</td></tr><tr><td> 19</td><td>Voutsis, Othon [GRC]</td><td>Lost 0-2</td><td>vs.</td><td>Kuo, Tzu-Ching [TWN]</td></tr><tr><td> 20</td><td>Finkel, Jon [USA]</td><td>Won 2-1</td><td>vs.</td><td>Krautmann, Wenzel [DEU]</td></tr><tr><td> 21</td><td>Foley, Ethan [USA]</td><td>Won 2-1</td><td>vs.</td><td>Henricks, J.T. [USA]</td></tr><tr><td> 22</td><td>Orsini Jones, Matteo [ENG]</td><td>Lost 1-2</td><td>vs.</td><td>Rosman-Simionescu, Tob [CAN]</td></tr><tr><td> 23</td><td>van Ravenzwaaij, Don [NLD]</td><td>Lost 1-2</td><td>vs.</td><td>Mowshowitz, Zvi [USA]</td></tr><tr><td> 24</td><td>Floch, Ivan [SVK]</td><td>Won 1-0-1</td><td>vs.</td><td>Dezani, Jeremy [FRA]</td></tr><tr><td> 25</td><td>Cribbs, Ryan [USA]</td><td>Won 2-0</td><td>vs.</td><td>Pratser, Matthew [USA]</td></tr><tr><td> 26</td><td>Asanov, Marat [RUS]</td><td>Lost 1-2</td><td>vs.</td><td>Sasaki, Yuusuke [JPN]</td></tr><tr><td> 27</td><td>Woolley, Tyler [CAN]</td><td>Won 2-1</td><td>vs.</td><td>Pargh, David [USA]</td></tr><tr><td> 28</td><td>Holzinger, Thomas [AUT]</td><td>Won 2-0</td><td>vs.</td><td>Edel, Willy [BRA]</td></tr><tr><td> 29</td><td>Markovic, Sasha [AUS]</td><td>Won 2-0</td><td>vs.</td><td>Oberg, Kenny [SWE]</td></tr><tr><td> 30</td><td>Veenis, Raymond [NLD]</td><td>Won 2-1</td><td>vs.</td><td>Rubin, Steve [USA]</td></tr><tr><td> 31</td><td>Martins, Mateus [BRA]</td><td>Won 2-0</td><td>vs.</td><td>Ishida, Hiroshi [JPN]</td></tr><tr><td> 32</td><td>Petric Maretic, Grgur [HRV]</td><td>Lost 1-2</td><td>vs.</td><td>Malanaphy, John [SCO]</td></tr><tr><td> 33</td><td>Bolick, Robbie [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Tajak, Lukas [DEU]</td></tr><tr><td> 34</td><td>Estratti, samuele [ITA]</td><td>Lost 0-2</td><td>vs.</td><td>WAFO-TAPA, Guillaume [FRA]</td></tr><tr><td> 35</td><td>Portaro, Alessandro [ITA]</td><td>Won 2-0</td><td>vs.</td><td>Jurkovic, Robert [SVK]</td></tr><tr><td> 36</td><td>Le Briand, Loic [FRA]</td><td>Lost 1-2</td><td>vs.</td><td>Cortesi, Luca [ITA]</td></tr><tr><td> 37</td><td>Simonot, Timothée [FRA]</td><td>Lost 1-2</td><td>vs.</td><td>Ruiz Martin, Daniel [ESP]</td></tr><tr><td> 38</td><td>Hunt, Matthias [USA]</td><td>Lost 1-2</td><td>vs.</td><td>mathieu, hautot [FRA]</td></tr><tr><td> 39</td><td>Renie, Paul [TWN]</td><td>Lost 1-2</td><td>vs.</td><td>Santos, Virgilio [PRT]</td></tr><tr><td> 40</td><td>Brown, Dylan [AUS]</td><td>Lost 1-2</td><td>vs.</td><td>Yurchick, Adam [USA]</td></tr><tr><td> 41</td><td>Lax, Ari [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Lemoine, Vincent [BEL]</td></tr><tr><td> 42</td><td>The, Jason [CAN]</td><td>Lost 0-2</td><td>vs.</td><td>Yasooka, Shouta [JPN]</td></tr><tr><td> 43</td><td>Ishida, Ryuuichirou [JPN]</td><td>Lost 1-2</td><td>vs.</td><td>Pedrakowski, Pawel [POL]</td></tr><tr><td> 44</td><td>Sperling, Matthew [USA]</td><td>Lost 0-2</td><td>vs.</td><td>Eason, Brian [USA]</td></tr><tr><td> 45</td><td>Bolding, Jon [USA]</td><td>Lost 0-2</td><td>vs.</td><td>Myatt, Jason [USA]</td></tr><tr><td> 46</td><td>Dolar, Robin [SVN]</td><td>Lost 0-2</td><td>vs.</td><td>Cheung, Justin [AUS]</td></tr><tr><td> 47</td><td>Chew, Kelvin [SGP]</td><td>Won 2-0</td><td>vs.</td><td>creiche, selim [CHE]</td></tr><tr><td> 48</td><td>Grourke, Vince [USA]</td><td>Won 2-0</td><td>vs.</td><td>Klein, Andrew [USA]</td></tr><tr><td> 49</td><td>Iwasaki, Yuusuke [JPN]</td><td>Won 2-0</td><td>vs.</td><td>Gauker, Dylan [USA]</td></tr><tr><td> 50</td><td>Aryabhima, Rahman [JPN]</td><td>Lost 0-2</td><td>vs.</td><td>Watanabe, Yuuya [JPN]</td></tr><tr><td> 51</td><td>Aurejac, Alexandre [FRA]</td><td>Won 2-0</td><td>vs.</td><td>Bjørnerud, Sveinung [NOR]</td></tr><tr><td> 52</td><td>Dimitrakis, Ioannis [GRC]</td><td>Won 2-1</td><td>vs.</td><td>murae, ryuzi [JPN]</td></tr><tr><td> 53</td><td>Nakamura, Shuuhei [JPN]</td><td>Won 2-1</td><td>vs.</td><td>Potter, Doug [CAN]</td></tr><tr><td> 54</td><td>Duke, Reid [USA]</td><td>Won 2-1</td><td>vs.</td><td>Lee, Joon Soo [KOR]</td></tr><tr><td> 55</td><td>Nagy, Tamas [HUN]</td><td>Won 2-0</td><td>vs.</td><td>Vanek, Tomas [CZE]</td></tr><tr><td> 56</td><td>Khodorchenkov, Vladimi [RUS]</td><td>Lost 1-2</td><td>vs.</td><td>Hoaen, Rich [CAN]</td></tr><tr><td> 57</td><td>Tan, richmond [PHL]</td><td>Lost 0-2</td><td>vs.</td><td>Aden, Eli [USA]</td></tr><tr><td> 58</td><td>Franklin, Justin [USA]</td><td>Won 2-1</td><td>vs.</td><td>Lee, Shi Tian [HKG]</td></tr><tr><td> 59</td><td>Berti, Francesco [ITA]</td><td>Lost 0-2</td><td>vs.</td><td>Hampton, Jesse [USA]</td></tr><tr><td> 60</td><td>Gislason, Alvin Orri [ISL]</td><td>Won 2-0</td><td>vs.</td><td>McFadden, Robert [USA]</td></tr><tr><td> 61</td><td>Abe, Motoki [JPN]</td><td>Won 2-1</td><td>vs.</td><td>Dickmann, Fabian [DEU]</td></tr><tr><td> 62</td><td>Utter-Leyton, Josh [USA]</td><td>Won 2-0</td><td>vs.</td><td>Ganz, Andreas [CHE]</td></tr><tr><td> 63</td><td>Garant-Rousseau, Guill [CAN]</td><td>Lost 1-2</td><td>vs.</td><td>Cifka, Stanislav [CZE]</td></tr><tr><td> 64</td><td>Gurney, Michael [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Tapody, Zoltan Istvan [HUN]</td></tr><tr><td> 65</td><td>Kibler, Brian [USA]</td><td>Won 2-0</td><td>vs.</td><td>Dagen, Pierre [FRA]</td></tr><tr><td> 66</td><td>Colla, Davide [ITA]</td><td>Lost 0-2</td><td>vs.</td><td>Webb, Taylor [USA]</td></tr><tr><td> 67</td><td>Skarren, Frank [USA]</td><td>Won 2-1</td><td>vs.</td><td>Hristis, Michael [USA]</td></tr><tr><td> 68</td><td>Johnson, Thomas [USA]</td><td>Lost 0-2</td><td>vs.</td><td>Barrentine, Scott [USA]</td></tr><tr><td> 69</td><td>Siow, Lucas [CAN]</td><td>Won 2-0</td><td>vs.</td><td>Leach, Craig [ZAF]</td></tr><tr><td> 70</td><td>Napierski, Kamil [POL]</td><td>Won 2-1</td><td>vs.</td><td>Cuneo, Andrew [USA]</td></tr><tr><td> 71</td><td>Gardner, Daniel [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Wetmore, Mike [USA]</td></tr><tr><td> 72</td><td>Friedman, Ben [USA]</td><td>Lost 0-2</td><td>vs.</td><td>Li, Bo [CHN]</td></tr><tr><td> 73</td><td>Black, Samuel [USA]</td><td>Won 2-1</td><td>vs.</td><td>Eleyet, Bryan [USA]</td></tr><tr><td> 74</td><td>Alimoglu, Emir [TUR]</td><td>Won 2-0</td><td>vs.</td><td>Gleicher, David [USA]</td></tr><tr><td> 75</td><td>Gatica, Miguel [CRI]</td><td>Won 2-1</td><td>vs.</td><td>Aintrazi, Ali [USA]</td></tr><tr><td> 76</td><td>Alink, Daniel [NLD]</td><td>Lost 0-2</td><td>vs.</td><td>Lam, Tsz Yeung [HKG]</td></tr><tr><td> 77</td><td>Pakka, Esko [FIN]</td><td>Won 2-1</td><td>vs.</td><td>Photiou, Andreas [CYP]</td></tr><tr><td> 78</td><td>Bohn, Jonathan [USA]</td><td>Won 2-1</td><td>vs.</td><td>Bin, Xu [CHN]</td></tr><tr><td> 79</td><td>Carvalho, Pedro [BRA]</td><td>Lost 0-2</td><td>vs.</td><td>Naylor, Jamie [CAN]</td></tr><tr><td> 80</td><td>Howgego, Anthony [ENG]</td><td>Won 2-1</td><td>vs.</td><td>Rachid, Denniz [SWE]</td></tr><tr><td> 81</td><td>Mann, Corey [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Londos, Ludvig [SWE]</td></tr><tr><td> 82</td><td>Shimoya, Hiroyuki [JPN]</td><td>Won 2-1</td><td>vs.</td><td>Huang, Hao-Shan [TWN]</td></tr><tr><td> 83</td><td>Shuang, Wu [CAN]</td><td>Lost 0-2</td><td>vs.</td><td>Engleitner, Herbert [AUT]</td></tr><tr><td> 84</td><td>Roman, Masaladzhiu [RUS]</td><td>Won 2-1</td><td>vs.</td><td>Pai, Bruce [TWN]</td></tr><tr><td> 85</td><td>Ferrarese, Stefano [ITA]</td><td>Lost 0-2</td><td>vs.</td><td>Inoue, Sean [USA]</td></tr><tr><td> 86</td><td>Antunovic, Dado [HRV]</td><td>Lost 0-2</td><td>vs.</td><td>Anisman, Jeff [CAN]</td></tr><tr><td> 87</td><td>Giner, Pablo [ESP]</td><td>Won 2-1</td><td>vs.</td><td>Chuan Han, Loh [SGP]</td></tr><tr><td>&#10;					</td><td>Nosowicz, Karol [POL]</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr></tbody></table>

@@ -1,0 +1,40 @@
+---
+id: wqezcwa6
+kind: event
+lang: it
+path: /it/articles/event-coverage/undated/round-1-pairings-by-table-3
+title: Round 1 Pairings (by Table)
+published: null
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: it
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-1-pairings-table-2000-01-01-8
+    lang_detected: it
+    capture_id: 481011
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-1-pairings-table-2000-01-01-8
+    captured_at: '2021-10-19 16:14:30+00'
+    rule: meta.og_title
+sources:
+- document_id: wqezcwa6
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-1-pairings-table-2000-01-01-8
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/round-1-pairings-table-2000-01-01-8
+  lang: it
+  template: drupal
+  captured_at: '2021-10-19 16:14:30+00'
+  capture_id: 481011
+  wayback_url: https://web.archive.org/web/20211019161430id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-1-pairings-table-2000-01-01-8
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: wqezcwa6
+  capture_id: 481011
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-1-pairings-table-2000-01-01-8
+  wayback_url: https://web.archive.org/web/20211019161430id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-1-pairings-table-2000-01-01-8
+  captured_at: '2021-10-19 16:14:30+00'
+  template: drupal
+  sha256: 3418a2fa6a1cf51a8ec2374e7ff70c2bc54e840cb0f7accac1d6aa58d644a1de
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b> </b></td><td><b>Opponent</b></td></tr><tr><td>  1</td><td>Rodamilans, Enric</td><td>vs.</td><td>Baeza, Inti</td></tr><tr><td>  2</td><td>Viola, Andres</td><td>vs.</td><td>Theodoulun, Giorgios</td></tr><tr><td>  3</td><td>Salomao, Omar</td><td>vs.</td><td>Alvarenga, Rafael</td></tr><tr><td>  4</td><td>Laguna, Lizbeth</td><td>vs.</td><td>Pintos, Victor</td></tr><tr><td>  5</td><td>Enjamio, Nicolas</td><td>vs.</td><td>Araiza, Hugo</td></tr><tr><td>  6</td><td>Alvarez, Joaquin</td><td>vs.</td><td>Ahumada, Felipe</td></tr><tr><td>  7</td><td>Gabrenja, Matias</td><td>vs.</td><td>Tejo, Rafael</td></tr><tr><td>  8</td><td>Galimbertti, Victor</td><td>vs.</td><td>Zampere Jr., Celso</td></tr><tr><td>  9</td><td>Raggio, Emilio</td><td>vs.</td><td>Nagy, Ariel</td></tr><tr><td> 10</td><td>Le Saux, Rafaël</td><td>vs.</td><td>Felsberg, Thomas</td></tr><tr><td> 11</td><td>Carísimo, Oscar</td><td>vs.</td><td>Guzzetti, Santiago</td></tr><tr><td> 12</td><td>De Gasperi, Nicolas</td><td>vs.</td><td>Castillo, Victor</td></tr><tr><td> 13</td><td>Quinta, Matheus</td><td>vs.</td><td>Vieira, Leandro</td></tr><tr><td> 14</td><td>Arkhipenko, Nicolas</td><td>vs.</td><td>Monteavaro, Ignacio</td></tr><tr><td> 15</td><td>San Juan Vergara, Basilio Al</td><td>vs.</td><td>Bouchaib, Messaoud</td></tr><tr><td> 16</td><td>Silva, Felipe</td><td>vs.</td><td>Martins Moreira Neto, Leopol</td></tr><tr><td> 17</td><td>Lima, Eduardo Leme de</td><td>vs.</td><td>Pessini, Henrique</td></tr><tr><td> 18</td><td>Villanueva, Victor</td><td>vs.</td><td>Zagalsky, Alejo</td></tr><tr><td> 19</td><td>Ghiringhelli, Juan</td><td>vs.</td><td>Vilanova, Guzman</td></tr><tr><td> 20</td><td>Caligaris, Gabriel</td><td>vs.</td><td>Buckley, Damian</td></tr><tr><td> 21</td><td>Sacal, Alexander</td><td>vs.</td><td>Gonzalez Padilla, Jorge</td></tr><tr><td> 22</td><td>Asuaga, Rodrigo</td><td>vs.</td><td>Disconzi, Romolo</td></tr><tr><td> 23</td><td>Huerta, Pablo</td><td>vs.</td><td>Garcia, Raphael</td></tr><tr><td> 24</td><td>Onorati, Emiliano</td><td>vs.</td><td>Bollati, Matias</td></tr><tr><td> 25</td><td>Elkoshjt, Shahriar</td><td>vs.</td><td>Madrid, Ignacio</td></tr><tr><td> 26</td><td>Arreola, Saul</td><td>vs.</td><td>Estrada, Pablo</td></tr><tr><td> 27</td><td>Possato, William C.</td><td>vs.</td><td>Melgar Talavera, Jorge</td></tr><tr><td> 28</td><td>Mao, Carlos</td><td>vs.</td><td>de Barros, Ricardo</td></tr><tr><td> 29</td><td>Neiman, Luis</td><td>vs.</td><td>Vicente, Joaquin</td></tr><tr><td> 30</td><td>Chapela, Gustavo</td><td>vs.</td><td>Petrelli, Damian</td></tr><tr><td> 31</td><td>Albareda, Eduardo</td><td>vs.</td><td>Edel, Willy</td></tr><tr><td> 32</td><td>Mamczyc Haro, Leandro</td><td>vs.</td><td>Biasotti, Franco</td></tr><tr><td> 33</td><td>Reutter, Juan</td><td>vs.</td><td>Barbero, Jose</td></tr><tr><td> 34</td><td>López Mazzotti, Fernando Ivá</td><td>vs.</td><td>Ramos, Luis</td></tr><tr><td> 35</td><td>Santos, Rafael</td><td>vs.</td><td>Huarapil, Carlos</td></tr><tr><td> 36</td><td>Terrera, Carlos</td><td>vs.</td><td>Svaldi, Guilherme</td></tr><tr><td> 37</td><td>Echeverria P., Jose Luis</td><td>vs.</td><td>Miguez, Martin</td></tr><tr><td> 38</td><td>De Gydenfeldt, Federico</td><td>vs.</td><td>Escobar Reyes, Juan Eduardo</td></tr><tr><td> 39</td><td>Castro, Rodrigo</td><td>vs.</td><td>Sant'anna, Walter</td></tr><tr><td> 40</td><td>Brown, Damien</td><td>vs.</td><td>del Gerbo Actis, Alejandro</td></tr><tr><td> 41</td><td>Sousa, Alex</td><td>vs.</td><td>Chang Yong, Alan Steve</td></tr><tr><td> 42</td><td>Mingorance, Ernesto</td><td>vs.</td><td>Cabrera, Adham</td></tr><tr><td> 43</td><td>Mao, Felipe</td><td>vs.</td><td>michelena, gabriel</td></tr><tr><td> 44</td><td>Gimena, Alejandro</td><td>vs.</td><td>Pereira, Christiano</td></tr><tr><td> 45</td><td>Suter, Sebastian</td><td>vs.</td><td>Marcelo Zimmer, Marco</td></tr><tr><td> 46</td><td>Tellarini, Juan Francisco</td><td>vs.</td><td>Olate, Carlos</td></tr><tr><td> 47</td><td>Muñoz Carpintero, Diego</td><td>vs.</td><td>Ramirez, Lucas</td></tr><tr><td> 48</td><td>Estefan, Jorge</td><td>vs.</td><td>Godinez Estrada, Gerardo</td></tr><tr><td> 49</td><td>Balado Bradarich, Jose</td><td>vs.</td><td>Uzcategui, Leonardo</td></tr><tr><td> 50</td><td>Bourre, Martin</td><td>vs.</td><td>Johannes, Mario C</td></tr><tr><td> 51</td><td>Raffetto, Pablo</td><td>vs.</td><td>Zegarra, Jose</td></tr><tr><td> 52</td><td>Campercholi, Miguel</td><td>vs.</td><td>Russo, Ariel</td></tr><tr><td> 53</td><td>Gramajo, Bernabe</td><td>vs.</td><td>Prado, Juan</td></tr><tr><td> 54</td><td>Romao, Carlos</td><td>vs.</td><td>Lima, Joao</td></tr><tr><td> 55</td><td>Milillo, Francisco</td><td>vs.</td><td>Brazil, Daniel</td></tr><tr><td> 56</td><td>He, Mu</td><td>vs.</td><td>Tanaka, Marcos</td></tr><tr><td> 57</td><td>Witt Palacios, Walter Leonar</td><td>vs.</td><td>Hino, Celso</td></tr><tr><td> 58</td><td>de Beain, Luis</td><td>vs.</td><td>Kohan, Nicolas</td></tr><tr><td> 59</td><td>Saiz, Gerardo</td><td>vs.</td><td>Vaca Arenaza, Javier</td></tr><tr><td> 60</td><td>Motta, Pedro Rodrigues Arauj</td><td>vs.</td><td>Barboza Garcia, Francisco</td></tr><tr><td> 61</td><td>Peraza, Edward</td><td>vs.</td><td>Rafael, Miguel</td></tr><tr><td> 62</td><td>Saredo, adrian saredo</td><td>vs.</td><td>Carusso, Dario</td></tr><tr><td> 63</td><td>Gomez, Ignacio</td><td>vs.</td><td>Meneses, Rafael</td></tr><tr><td> 64</td><td>Ayala, Julio Cesar</td><td>vs.</td><td>Anzorena, Pablo</td></tr><tr><td> 65</td><td>Richards, Scott</td><td>vs.</td><td>Cereceda Almarza, Maxiliano</td></tr><tr><td> 66</td><td>Ostrovich, Diego</td><td>vs.</td><td>Bertuzi, Federico</td></tr><tr><td> 67</td><td>Conca, Maximiliano Rafael</td><td>vs.</td><td>Mantaras, Pablo</td></tr><tr><td> 68</td><td>Lin, Thompson</td><td>vs.</td><td>Sella, Eduardo</td></tr><tr><td> 69</td><td>Shirozono, Michel</td><td>vs.</td><td>Camargo Alfaro, Andres</td></tr><tr><td>   </td><td>del Gerbo Actis, Gustavo</td><td> </td><td>* BYE *  Pod 17</td></tr><tr><td>   </td><td>Possato, Dawton</td><td> </td><td>* BYE *  Pod 18</td></tr><tr><td>   </td><td>Silva Maciel, Julio</td><td> </td><td>* BYE *  Pod 12</td></tr></tbody></table>

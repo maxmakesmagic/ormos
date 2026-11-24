@@ -1,0 +1,56 @@
+---
+id: dz5v07jj
+kind: event
+lang: jav
+path: /jav/events/2007/ptyok07/day-2-player-list
+title: Day 2 Player List
+published: null
+column_slug: null
+column: null
+authors: []
+event_code: ptyok07
+detected_lang: jav
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/ptyok07/player2
+    lang_detected: jav
+    capture_id: 1124637
+    url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/ptyok07/player2
+    captured_at: '2013-07-01 06:29:18+00'
+    rule: aspx.article_heading
+  event_code:
+    page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/ptyok07/player2
+    lang_detected: jav
+    capture_id: 1124637
+    url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/ptyok07/player2
+    captured_at: '2013-07-01 06:29:18+00'
+    rule: url.event_code
+sources:
+- document_id: dz5v07jj
+  url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/ptyok07/player2
+  page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/ptyok07/player2
+  lang: jav
+  template: aspx
+  captured_at: '2013-07-01 06:29:18+00'
+  capture_id: 1124637
+  wayback_url: https://web.archive.org/web/20130701062918id_/https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/ptyok07/player2
+- document_id: dz5v07jj
+  url: http://www.wizards.com/default.asp?x=mtgevent/ptyok07/player2
+  page_key: wizards.com/default.asp?x=mtgevent/ptyok07/player2
+  lang: jav
+  template: classic_asp
+  captured_at: '2008-06-04 07:30:52+00'
+  capture_id: 2112506
+  wayback_url: https://web.archive.org/web/20080604073052id_/http://www.wizards.com/default.asp?x=mtgevent/ptyok07/player2
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: dz5v07jj
+  capture_id: 1124637
+  url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/ptyok07/player2
+  wayback_url: https://web.archive.org/web/20130701062918id_/https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/ptyok07/player2
+  captured_at: '2013-07-01 06:29:18+00'
+  template: aspx
+  sha256: 40fa2e71e4e12f5b27a9bc0e3eb09137e30abfff4762ba9a1b33379cca3b0b0a
+render_recovery: []
+---
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <a href="/jav/events/2007/ptyok07/day-2-player-list">&#10;        <b>Active Players</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/ind/events/2007/ptyok07/day-2-player-list">&#10;        <b>Country</b>&#10;      </a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Akimoto, Shin'ichi</td>&#10;    <td>JPN</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Alesi-mullen, John</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Arita, Ryuuichi</td>&#10;    <td>JPN</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Asahara, Akira</td>&#10;    <td>JPN</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Azuma, Motokiyo</td>&#10;    <td>JPN</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Barbagli, Marco</td>&#10;    <td>ITA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Barnett, Adam</td>&#10;    <td>ENG</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Barrofet, Xavier</td>&#10;    <td>ESP</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Bevere, Gianluca</td>&#10;    <td>ITA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Brackmann, Aaron</td>&#10;    <td>DEU</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Braga, Francisco</td>&#10;    <td>BRA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Bright, Kendall</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Burks, Brandon</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Canali, Pierre</td>&#10;    <td>FRA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Cape, Phil</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Carter, Digby</td>&#10;    <td>NZL</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Carvalho, Paulo</td>&#10;    <td>PRT</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Chang, Chih-Hsiang</td>&#10;    <td>TWN</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Cheleski, Carl</td>&#10;    <td>AUS</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Cheon, Paul</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Chun, Bo Ruad</td>&#10;    <td>TWN</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Coggan, Brett</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Coimbra, André</td>&#10;    <td>PRT</td>&#10;  </tr>&#10;  <tr>&#10;    <td>D'Argenio, Dan</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dao, Phu</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Davis, Jim</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>De Rosa, Antonino</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dougherty, Robert</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Echeverría Paredes, José Lui</td>&#10;    <td>CHL</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Edel, Willy</td>&#10;    <td>BRA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Fanghaenel, Alex</td>&#10;    <td>DEU</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Ferrari Spampinato, Gonzalo</td>&#10;    <td>ARG</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Fior, Daniel</td>&#10;    <td>VEN</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Flaaten, Christian</td>&#10;    <td>NOR</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Fujita, Osamu</td>&#10;    <td>JPN</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Fujita, Tsuyoshi</td>&#10;    <td>JPN</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Godfrey, Daniel</td>&#10;    <td>WAL</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hall, Zack</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Herberholz, Mark</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Heynen, Paul</td>&#10;    <td>NLD</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hirose, Daisuke</td>&#10;    <td>JPN</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hron, Mike</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Ishida, Itaru</td>&#10;    <td>JPN</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Joens, Klaus</td>&#10;    <td>DEU</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Kandebo, James</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Kapalas, Georgios</td>&#10;    <td>GRC</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Karsten, Frank</td>&#10;    <td>NLD</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Kitayama, Masaya</td>&#10;    <td>JPN</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Komuro, Shuu</td>&#10;    <td>JPN</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Kotrla, Jan</td>&#10;    <td>CZE</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Künzler, Matthias</td>&#10;    <td>CHE</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Lamb, Matthew</td>&#10;    <td>AUS</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Levy, Raphael</td>&#10;    <td>SWE</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Longo Jr., Sergio</td>&#10;    <td>BRA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Lowry, William</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Lybaert, Marijn</td>&#10;    <td>BEL</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Maaten, Rogier</td>&#10;    <td>NLD</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Mahler, Hans</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Malin, Antti</td>&#10;    <td>FIN</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Michiwaki, Teruyoshi</td>&#10;    <td>JPN</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Miglioranza, Simone</td>&#10;    <td>ITA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Mitamura, Kazuya</td>&#10;    <td>JPN</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Moore, John</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Moreno, Daniel</td>&#10;    <td>COL</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Mori, Katsuhiro</td>&#10;    <td>JPN</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Morita, Masahiko</td>&#10;    <td>JPN</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Moulin, Serge</td>&#10;    <td>FRA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Murray, Stephen</td>&#10;    <td>SCO</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Nakatani, Haruki</td>&#10;    <td>JPN</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Nassif, Gabriel</td>&#10;    <td>FRA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Ninnes, Chris</td>&#10;    <td>AUS</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Oberg, Kenny</td>&#10;    <td>SWE</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Oiso, Masashi</td>&#10;    <td>JPN</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Oomens, Wessel</td>&#10;    <td>NLD</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Page, Benjamin</td>&#10;    <td>CAN</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Pearlman, Jonathan</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Pelcak, John</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Pui, Boon Keng</td>&#10;    <td>MYS</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Rispal, Jonathan</td>&#10;    <td>FRA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Romão, Carlos</td>&#10;    <td>BRA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Rubin, Ben</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Ruel, Olivier</td>&#10;    <td>FRA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Sadeghpour, Johan</td>&#10;    <td>SWE</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Saitou, Tomoharu</td>&#10;    <td>JPN</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Scott-Vargas, Luis</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Shinkins, Stewart</td>&#10;    <td>IRL</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Shiozu, Ryouma</td>&#10;    <td>JPN</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Sim, Chapman</td>&#10;    <td>SGP</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Soh, Terry</td>&#10;    <td>MYS</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Soorani, Shaheen</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Speers, Jesse</td>&#10;    <td>CAN</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Summersberger, Helmut</td>&#10;    <td>AUT</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Sun Kit, Yeung</td>&#10;    <td>HKG</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Tenenbaum, Amiel</td>&#10;    <td>DEU</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Terrenghi, Mauro</td>&#10;    <td>ITA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Thaler, Sebastian</td>&#10;    <td>DEU</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Thompson, Mike</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Tomii, Tsubasa</td>&#10;    <td>JPN</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Tominaga, Mario</td>&#10;    <td>JPN</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Tormos, Ervin</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Vaisberg, Elias</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>van Medevoort, Robert</td>&#10;    <td>NLD</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Vidugiris, Gaudenis</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Wafo-tapa, Guillaume</td>&#10;    <td>FRA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Webb, Taylor</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Weng, Ruei-Yi</td>&#10;    <td>TWN</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Wiegersma, Jelger</td>&#10;    <td>NLD</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Wu, Jia</td>&#10;    <td>CHN</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Yamamoto, Shouhei</td>&#10;    <td>JPN</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Yamanishi, Mamoru</td>&#10;    <td>JPN</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Yasutomi, Hiroto</td>&#10;    <td>JPN</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Yoon, Soo Han</td>&#10;    <td>JPN</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Young, Dane</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <b>Total Players</b>&#10;    </td>&#10;    <td>&#10;      <b>113</b>&#10;    </td>&#10;  </tr>&#10;</tbody></table>

@@ -1,0 +1,1293 @@
+---
+id: 85hda6df
+kind: article
+lang: en
+path: /en/articles/daily-deck/2011/04-01-standard-deck
+title: Standard Deck
+published: '2011-04-01'
+column_slug: daily-deck
+column: Daily Deck
+authors:
+- slug: wizardsofthecoast
+  name: Wizards of the Coast
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/deck/680
+    lang_detected: en
+    capture_id: 390800
+    url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/deck/680
+    captured_at: '2013-04-11 18:15:29+00'
+    rule: aspx.article_heading
+  published:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/deck/680
+    lang_detected: en
+    capture_id: 390800
+    url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/deck/680
+    captured_at: '2013-04-11 18:15:29+00'
+    rule: aspx.byline_date
+  authors:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/deck/680
+    lang_detected: en
+    capture_id: 390800
+    url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/deck/680
+    captured_at: '2013-04-11 18:15:29+00'
+    rule: aspx.legacy_author_rule
+  column:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/deck/680
+    lang_detected: en
+    capture_id: 390800
+    url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/deck/680
+    captured_at: '2013-04-11 18:15:29+00'
+    rule: aspx.archive_link_column
+sources:
+- document_id: 85hda6df
+  url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/deck/680
+  page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/deck/680
+  lang: en
+  template: aspx
+  captured_at: '2013-04-11 18:15:29+00'
+  capture_id: 390800
+  wayback_url: https://web.archive.org/web/20130411181529id_/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/deck/680
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 85hda6df
+  capture_id: 390800
+  url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/deck/680
+  wayback_url: https://web.archive.org/web/20130411181529id_/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/deck/680
+  captured_at: '2013-04-11 18:15:29+00'
+  template: aspx
+  sha256: 3315d642b94c3c613b206e50e35a4aa5be6ef6db1634401f08eb5bd8f3de7bd1
+render_recovery:
+- code: unsupported_link
+  element: a
+  target: javascript:void()
+  reason: The link uses a JavaScript placeholder. The preview kept any visible label.
+  labels:
+  - Akoum Refuge
+  - Arid Mesa
+  - Blackcleave Cliffs
+  - Bojuka Bog
+  - Celestial Colonnade
+  - Contested War Zone
+  - Copperline Gorge
+  - Creeping Tar Pit
+  - Crypt of Agadeem
+  - Darkslick Shores
+  - Dragonskull Summit
+  - Dread Statuary
+  - Drowned Catacomb
+  - Eldrazi Temple
+  - Emeria, the Sky Ruin
+  - Evolving Wilds
+  - Eye of Ugin
+  - Forest
+  - Glacial Fortress
+  - Glimmerpost
+  - Graypelt Refuge
+  - Halimar Depths
+  - Inkmoth Nexus
+  - Island
+  - Jwar Isle Refuge
+  - Kabira Crossroads
+  - Kazandu Refuge
+  - Khalni Garden
+  - Lavaclaw Reaches
+  - Magosi, the Waterveil
+  - Marsh Flats
+  - Misty Rainforest
+  - Mountain
+  - Mystifying Maze
+  - Oran-Rief, the Vastwood
+  - Piranha Marsh
+  - Plains
+  - Quicksand
+  - Raging Ravine
+  - Razorverge Thicket
+  - Rootbound Crag
+  - Scalding Tarn
+  - Seachrome Coast
+  - Sejiri Refuge
+  - Sejiri Steppe
+  - Smoldering Spires
+  - Soaring Seacliff
+  - Stirring Wildwood
+  - Sunpetal Grove
+  - Swamp
+  - Tectonic Edge
+  - Teetering Peaks
+  - Terramorphic Expanse
+  - Turntimber Grove
+  - Valakut, the Molten Pinnacle
+  - Verdant Catacombs
+  - Abuna Acolyte
+  - Abyssal Persecutor
+  - Accorder Paladin
+  - Acid Web Spider
+  - Acidic Slime
+  - Admonition Angel
+  - Æther Adept
+  - Æther Figment
+  - Affa Guard Hound
+  - Agadeem Occultist
+  - Air Servant
+  - Ajani's Pridemate
+  - Akoum Battlesinger
+  - Akoum Boulderfoot
+  - Alluring Siren
+  - Alpha Tyrranax
+  - Ancient Hellkite
+  - Angelic Arbiter
+  - Anowon, the Ruin Sage
+  - Apex Hawks
+  - Arbor Elf
+  - Arc Runner
+  - Archon of Redemption
+  - Ardent Recruit
+  - Argent Sphinx
+  - Armament Master
+  - Armored Cancrix
+  - Arrogant Bloodlord
+  - Artisan of Kozilek
+  - Assault Griffin
+  - Augury Owl
+  - Aura Gnarlid
+  - Auriok Edgewright
+  - Auriok Replica
+  - Auriok Sunchaser
+  - Avenger of Zendikar
+  - Awakener Druid
+  - Azure Drake
+  - Bala Ged Scorpion
+  - Bala Ged Thief
+  - Baloth Woodcrasher
+  - Baneslayer Angel
+  - Barony Vampire
+  - Barrage Ogre
+  - Battle Hurda
+  - Battle Rampart
+  - Battle-Rattle Shaman
+  - Bazaar Trader
+  - Beastbreaker of Bala Ged
+  - Bellowing Tanglewurm
+  - Berserkers of Blood Ridge
+  - Birds of Paradise
+  - Black Knight
+  - Blackcleave Goblin
+  - Bladed Sentinel
+  - Blade-Tribe Berserkers
+  - Bladetusk Boar
+  - Bleak Coven Vampires
+  - Blight Mamba
+  - Blightsteel Colossus
+  - Blightwidow
+  - Blinding Mage
+  - Blistergrub
+  - Blisterstick Shaman
+  - Blood Seeker
+  - Bloodcrazed Goblin
+  - Bloodghast
+  - Bloodhusk Ritualist
+  - Bloodrite Invoker
+  - Bloodshot Trainee
+  - Bloodthrone Vampire
+  - Bog Raiders
+  - Bog Tatters
+  - Bojuka Brigand
+  - Bramblesnap
+  - Brass Squire
+  - Brimstone Mage
+  - Brindle Boar
+  - Broodwarden
+  - Butcher of Malakir
+  - Cadaver Imp
+  - Calcite Snapper
+  - Caller of Gales
+  - Canyon Minotaur
+  - Captivating Vampire
+  - Carapace Forger
+  - Caravan Escort
+  - Caravan Hurda
+  - Carnifex Demon
+  - Caustic Crawler
+  - Caustic Hound
+  - Champion's Drake
+  - Chandra's Spitfire
+  - Child of Night
+  - Chrome Steed
+  - Cliff Threader
+  - Clone
+  - Clone Shell
+  - Cloud Crusader
+  - Cloud Elemental
+  - Conquering Manticore
+  - Consecrated Sphinx
+  - Contagious Nim
+  - Conundrum Sphinx
+  - Copper Myr
+  - Copperhorn Scout
+  - Coralhelm Commander
+  - Core Prowler
+  - Corpse Cur
+  - Corrupted Harvester
+  - Cosi's Ravager
+  - Cosi's Trickster
+  - Crypt Ripper
+  - Cryptoplasm
+  - Cudgel Troll
+  - Cunning Sparkmage
+  - Cyclops Gladiator
+  - Cystbearer
+  - Daggerback Basilisk
+  - Darkslick Drake
+  - Darksteel Juggernaut
+  - Darksteel Myr
+  - Darksteel Sentinel
+  - Dawnglare Invoker
+  - Death Cultist
+  - Deathforge Shaman
+  - Deathless Angel
+  - Death's Shadow
+  - Demon of Death's Gate
+  - Devout Lightcaster
+  - Dormant Gomazoa
+  - Dragonmaster Outcast
+  - Drana, Kalastria Bloodchief
+  - Dread Drone
+  - Dross Hopper
+  - Dross Ripper
+  - Duskdale Wurm
+  - Earth Servant
+  - Echo Mage
+  - Elite Vanguard
+  - Elvish Archdruid
+  - Ember Hauler
+  - Embersmith
+  - Emeria Angel
+  - Emrakul, the Aeons Torn
+  - Emrakul's Hatcher
+  - Enatu Golem
+  - Enclave Cryptologist
+  - Enclave Elite
+  - Engulfing Slagwurm
+  - Escaped Null
+  - Etched Champion
+  - Ezuri, Renegade Leader
+  - Ezuri's Archers
+  - Ezuri's Brigade
+  - Fangren Marauder
+  - Fauna Shaman
+  - Felidar Sovereign
+  - Ferrovore
+  - Fiery Hellhound
+  - Fire Servant
+  - Flameborn Hellion
+  - Fledgling Griffin
+  - Flensermite
+  - Flesh-Eater Imp
+  - Frontier Guide
+  - Frost Titan
+  - Frostwind Invoker
+  - Fume Spitter
+  - Gaea's Revenge
+  - Galvanoth
+  - Gargoyle Sentinel
+  - Garruk's Companion
+  - Garruk's Packleader
+  - Gatekeeper of Malakir
+  - Geth, Lord of the Vault
+  - Geyser Glider
+  - Ghalma's Warden
+  - Giant Scorpion
+  - Giant Spider
+  - Gigantomancer
+  - Glimmerpoint Stag
+  - Glint Hawk
+  - Glissa, the Traitor
+  - Glissa's Courier
+  - Gloomhunter
+  - Glory Seeker
+  - Gnarlid Pack
+  - Gnathosaur
+  - Goblin Arsonist
+  - Goblin Balloon Brigade
+  - Goblin Bushwhacker
+  - Goblin Chieftain
+  - Goblin Gaveleer
+  - Goblin Guide
+  - Goblin Piker
+  - Goblin Roughrider
+  - Goblin Ruinblaster
+  - Goblin Shortcutter
+  - Goblin Tunneler
+  - Goblin Wardriver
+  - Gold Myr
+  - Goldenglow Moth
+  - Golem Artisan
+  - Goliath Sphinx
+  - Gomazoa
+  - Gore Vassal
+  - Grand Architect
+  - Grappler Spider
+  - Grave Titan
+  - Gravedigger
+  - Graypelt Hunter
+  - Grazing Gladehart
+  - Greater Basilisk
+  - Greenweaver Druid
+  - Grotag Siege-Runner
+  - Grotag Thrasher
+  - Guard Gomazoa
+  - Gust-Skimmer
+  - Guul Draz Assassin
+  - Guul Draz Specter
+  - Guul Draz Vampire
+  - Hada Freeblade
+  - Hada Spy Patrol
+  - Hagra Crocodile
+  - Hagra Diabolist
+  - Halimar Excavator
+  - Halimar Wavewatch
+  - Halo Hunter
+  - Hand of Emrakul
+  - Hand of the Praetors
+  - Harabaz Druid
+  - Harbor Serpent
+  - Haze Frog
+  - Heartstabber Mosquito
+  - Hedron Crab
+  - Hedron Rover
+  - Hedron Scrabbler
+  - Hedron-Field Purists
+  - Hellcarver Demon
+  - Hellfire Mongrel
+  - Hellkite Charger
+  - Hellkite Igniter
+  - Hero of Bladehold
+  - Hero of Oxid Ridge
+  - Hexplate Golem
+  - Highland Berserker
+  - Hoarding Dragon
+  - Hoard-Smelter Dragon
+  - Horizon Drake
+  - Howling Banshee
+  - Ichor Rats
+  - Ichorclaw Myr
+  - Ikiral Outrider
+  - Indomitable Archangel
+  - Infantry Veteran
+  - Inferno Titan
+  - Iona, Shield of Emeria
+  - Iron Myr
+  - It That Betrays
+  - Jaddi Lifestrider
+  - Jagwasp Swarm
+  - Joraga Bard
+  - Joraga Treespeaker
+  - Joraga Warcaller
+  - Juggernaut
+  - Jwari Scuttler
+  - Jwari Shapeshifter
+  - Kabira Evangel
+  - Kabira Vindicator
+  - Kalastria Highborn
+  - Kalitas, Bloodchief of Ghet
+  - Kargan Dragonlord
+  - Kazandu Blademaster
+  - Kazandu Tuskcaller
+  - Kazuul Warlord
+  - Kazuul, Tyrant of the Cliffs
+  - Kemba, Kha Regent
+  - Kemba's Legion
+  - Kemba's Skyguard
+  - Khalni Hydra
+  - Kiln Fiend
+  - Kitesail Apprentice
+  - Knight Exemplar
+  - Knight of Cliffhaven
+  - Kor Aeronaut
+  - Kor Cartographer
+  - Kor Duelist
+  - Kor Firewalker
+  - Kor Hookmaster
+  - Kor Line-Slinger
+  - Kor Outfitter
+  - Kor Sanctifiers
+  - Kor Skyfisher
+  - Kor Spiritdancer
+  - Koth's Courier
+  - Kozilek, Butcher of Truth
+  - Kozilek's Predator
+  - Kraken Hatchling
+  - Kuldotha Flamefiend
+  - Kuldotha Forgemaster
+  - Kuldotha Phoenix
+  - Kuldotha Ringleader
+  - Lagac Lizard
+  - Lavafume Invoker
+  - Leaden Myr
+  - Leatherback Baloth
+  - Leonin Arbiter
+  - Leonin Relic-Warder
+  - Leonin Skyhunter
+  - Liege of the Tangle
+  - Lifesmith
+  - Lighthouse Chronologist
+  - Lightkeeper of Emeria
+  - Liliana's Specter
+  - Linvala, Keeper of Silence
+  - Living Tsunami
+  - Llanowar Elves
+  - Loam Lion
+  - Lodestone Golem
+  - Lone Missionary
+  - Lord of Shatterskull Pass
+  - Lorthos, the Tidemaker
+  - Lotus Cobra
+  - Loxodon Partisan
+  - Loxodon Wayfarer
+  - Lullmage Mentor
+  - Lumengrid Drake
+  - Lumengrid Gargoyle
+  - Magma Phoenix
+  - Magmaw
+  - Makindi Griffin
+  - Makindi Shieldmate
+  - Malakir Bloodwitch
+  - Manic Vandal
+  - Maritime Guard
+  - Marsh Threader
+  - Massacre Wurm
+  - Melira's Keepers
+  - Memnite
+  - Merfolk Observer
+  - Merfolk Seastalkers
+  - Merfolk Skyscout
+  - Merfolk Sovereign
+  - Merfolk Spy
+  - Merfolk Wayfinder
+  - Mindless Null
+  - Mirran Crusader
+  - Mirran Spy
+  - Mitotic Slime
+  - Mnemonic Wall
+  - Mold Shambler
+  - Molder Beast
+  - Molten Ravager
+  - Molten-Tail Masticore
+  - Mordant Dragon
+  - Moriok Reaver
+  - Moriok Replica
+  - Mortician Beetle
+  - Mul Daya Channelers
+  - Murasa Pyromancer
+  - Myr Battlesphere
+  - Myr Galvanizer
+  - Myr Propagator
+  - Myr Sire
+  - Myr Welder
+  - Myrsmith
+  - Nantuko Shade
+  - Necrogen Scudder
+  - Necropede
+  - Necrotic Ooze
+  - Nema Siltlurker
+  - Nest Invader
+  - Nested Ghoul
+  - Nether Horror
+  - Neurok Commando
+  - Neurok Invisimancer
+  - Neurok Replica
+  - Nightwing Shade
+  - Nimana Sell-Sword
+  - Nirkana Cutthroat
+  - Nirkana Revenant
+  - Nissa's Chosen
+  - Noble Vestige
+  - Novablast Wurm
+  - Null Champion
+  - Ob Nixilis, the Fallen
+  - Obsidian Fireheart
+  - Obstinate Baloth
+  - Oculus
+  - Ogre Geargrabber
+  - Ogre Resister
+  - Ogre Sentry
+  - Omnath, Locus of Mana
+  - Ondu Cleric
+  - Ondu Giant
+  - Oracle of Mul Daya
+  - Oran-Rief Recluse
+  - Oran-Rief Survivalist
+  - Ornithopter
+  - Overgrown Battlement
+  - Oxidda Daredevil
+  - Oxidda Scrapmelter
+  - Painsmith
+  - Palace Guard
+  - Palladium Myr
+  - Pathrazer of Ulamog
+  - Pawn of Ulamog
+  - Peace Strider
+  - Pelakka Wurm
+  - Perilous Myr
+  - Perimeter Captain
+  - Pestilence Demon
+  - Phantasmal Abomination
+  - Phantom Beast
+  - Phylactery Lich
+  - Phyrexian Crusader
+  - Phyrexian Digester
+  - Phyrexian Hydra
+  - Phyrexian Juggernaut
+  - Phyrexian Rager
+  - Phyrexian Revoker
+  - Phyrexian Vatmother
+  - Pierce Strider
+  - Pilgrim's Eye
+  - Pillarfield Ox
+  - Plague Myr
+  - Plague Stinger
+  - Plaguemaw Beast
+  - Plated Geopede
+  - Plated Seastrider
+  - Platinum Angel
+  - Platinum Emperion
+  - Precursor Golem
+  - Priests of Norn
+  - Primeval Titan
+  - Prized Unicorn
+  - Prodigal Pyromancer
+  - Protean Hydra
+  - Psychosis Crawler
+  - Pulse Tracker
+  - Putrefax
+  - Quag Vampires
+  - Quicksilver Gargantuan
+  - Quilled Slagwurm
+  - Rage Nimbus
+  - Rampaging Baloths
+  - Rapacious One
+  - Razor Hippogriff
+  - Razorfield Rhino
+  - Razorfield Thresher
+  - Reassembling Skeleton
+  - Reckless Scholar
+  - Reinforced Bulwark
+  - Relentless Rats
+  - Renegade Doppelganger
+  - Riddlesmith
+  - River Boa
+  - Roc Egg
+  - Roil Elemental
+  - Rot Wolf
+  - Rotting Legion
+  - Royal Assassin
+  - Ruin Ghost
+  - Ruinous Minotaur
+  - Runeclaw Bear
+  - Runed Servitor
+  - Rust Tick
+  - Rusted Slasher
+  - Ruthless Cullblade
+  - Saberclaw Golem
+  - Sacred Wolf
+  - Salvage Scout
+  - Sangromancer
+  - Scoria Elemental
+  - Scourge Servant
+  - Scrapdiver Serpent
+  - Screeching Silcaw
+  - Scrib Nibblers
+  - Scroll Thief
+  - Scute Mob
+  - Scythe Tiger
+  - Sea Gate Loremaster
+  - Sea Gate Oracle
+  - Seascape Aerialist
+  - Sejiri Merfolk
+  - Septic Rats
+  - Serra Angel
+  - Serra Ascendant
+  - Serum Raker
+  - Shatterskull Giant
+  - Shepherd of the Lost
+  - Shimmer Myr
+  - Shoal Serpent
+  - Shoreline Salvager
+  - Siege Mastodon
+  - Signal Pest
+  - Silver Myr
+  - Silvercoat Lion
+  - Skeletal Wurm
+  - Skinrender
+  - Skithiryx, the Blight Dragon
+  - Skitter of Lizards
+  - Sky Ruin Drake
+  - Sky-Eel School
+  - Skywatcher Adept
+  - Slavering Nulls
+  - Snapping Creeper
+  - Snapsail Glider
+  - Soliton
+  - Soulbound Guardians
+  - Soul's Attendant
+  - Soulsurge Elemental
+  - Spawnsire of Ulamog
+  - Sphinx of Jwar Isle
+  - Sphinx of Lost Truths
+  - Sphinx of Magosi
+  - Spikeshot Elder
+  - Spin Engine
+  - Spined Wurm
+  - Spiraling Duelist
+  - Spire Serpent
+  - Sporecap Spider
+  - Squadron Hawk
+  - Stalwart Shield-Bearers
+  - Steel Hellkite
+  - Steel Overseer
+  - Steppe Lynx
+  - Stomper Cub
+  - Stone Golem
+  - Stoneforge Mystic
+  - Stonework Puma
+  - Stormfront Pegasus
+  - Stormtide Leviathan
+  - Student of Warfare
+  - Summit Apes
+  - Sun Titan
+  - Sunblast Angel
+  - Sunspear Shikari
+  - Surrakar Banisher
+  - Surrakar Marauder
+  - Surrakar Spellblade
+  - Sylvan Ranger
+  - Sylvok Replica
+  - Tajuru Archer
+  - Tajuru Preserver
+  - Talus Paladin
+  - Tangle Angler
+  - Tangle Hulk
+  - Tangle Mantis
+  - Tel-Jilad Fallen
+  - Tempest Owl
+  - Terastodon
+  - Terra Stomper
+  - Territorial Baloth
+  - Thada Adel, Acquisitor
+  - Thopter Assembly
+  - Thought Gorger
+  - Thrummingbird
+  - Thrun, the Last Troll
+  - Tideforce Elemental
+  - Timbermaw Larva
+  - Tine Shrike
+  - Tireless Missionaries
+  - Torch Slinger
+  - Totem-Guide Hartebeest
+  - Training Drone
+  - Transcendent Master
+  - Treasure Mage
+  - Trinket Mage
+  - Triskelion
+  - Tuktuk Grunts
+  - Tuktuk Scrapper
+  - Tuktuk the Explorer
+  - Tunnel Ignus
+  - Turntimber Basilisk
+  - Turntimber Ranger
+  - Ulamog, the Infinite Gyre
+  - Ulamog's Crusher
+  - Umara Raptor
+  - Umbra Mystic
+  - Valakut Fireboar
+  - Vampire Hexmage
+  - Vampire Lacerator
+  - Vampire Nighthawk
+  - Vastwood Animist
+  - Vastwood Gorger
+  - Vector Asp
+  - Vedalken Anatomist
+  - Vedalken Certarch
+  - Vedalken Infuser
+  - Venerated Teacher
+  - Vengeful Archon
+  - Vengevine
+  - Vent Sentinel
+  - Victory's Herald
+  - Viridian Corrupter
+  - Viridian Emissary
+  - Viscera Seer
+  - Voyager Drake
+  - Vulshok Berserker
+  - Vulshok Heartstoker
+  - Vulshok Replica
+  - Walking Atlas
+  - Wall of Frost
+  - Wall of Omens
+  - Wall of Tanglecord
+  - Wall of Vines
+  - War Priest of Thune
+  - Warren Instigator
+  - Water Servant
+  - Welkin Tern
+  - White Knight
+  - Wild Griffin
+  - Wildheart Invoker
+  - Windrider Eel
+  - Wolfbriar Elemental
+  - World Queller
+  - Wrexial, the Risen Deep
+  - Wurmcoil Engine
+  - Yavimaya Wurm
+  - Zendikar Farguide
+  - Zof Shade
+  - Zulaport Enforcer
+  - Accorder's Shield
+  - Act of Treason
+  - Adventuring Gear
+  - Æther Tradewinds
+  - Ajani Goldmane
+  - Ajani's Mantra
+  - All Is Dust
+  - Amulet of Vigor
+  - Ancient Stirrings
+  - Angelheart Vial
+  - Angel's Feather
+  - Arc Trail
+  - Archive Trap
+  - Archmage Ascension
+  - Argentum Armor
+  - Armored Ascension
+  - Arrest
+  - Arrow Volley Trap
+  - Asceticism
+  - Assassinate
+  - Assault Strobe
+  - Aura Finesse
+  - Autumn's Veil
+  - Awakening Zone
+  - Back to Nature
+  - Baloth Cage Trap
+  - Baneful Omen
+  - Banishment Decree
+  - Barbed Battlegear
+  - Basilisk Collar
+  - Bear Umbra
+  - Beast Hunt
+  - Beastmaster Ascension
+  - Bestial Menace
+  - Black Sun's Zenith
+  - Blade of the Bloodchief
+  - Bladed Pinions
+  - Blazing Torch
+  - Blood Tithe
+  - Blood Tribute
+  - Bloodchief Ascension
+  - Blue Sun's Zenith
+  - Blunt the Assault
+  - Boar Umbra
+  - Bold Defense
+  - Bonds of Quicksilver
+  - Bonehoard
+  - Brave the Elements
+  - Brink of Disaster
+  - Brittle Effigy
+  - Brood Birthing
+  - Bull Rush
+  - Burn the Impure
+  - Burst Lightning
+  - Call to Mind
+  - Cancel
+  - Canopy Cover
+  - Carnage Altar
+  - Carrion Call
+  - Cast Through Time
+  - Celestial Mantle
+  - Celestial Purge
+  - Cerebral Eruption
+  - Chain Reaction
+  - Chandra Ablaze
+  - Chandra Nalaar
+  - Chandra's Outrage
+  - Chimeric Mass
+  - Choking Fumes
+  - Claws of Valakut
+  - Cobra Trap
+  - Combust
+  - Comet Storm
+  - Concussive Bolt
+  - Condemn
+  - Conqueror's Pledge
+  - Consume the Meek
+  - Consuming Vapors
+  - Contagion Clasp
+  - Contagion Engine
+  - Contaminated Ground
+  - Copper Carapace
+  - Corpsehatch
+  - Corrupt
+  - Corrupted Conscience
+  - Corrupted Zendikon
+  - Crab Umbra
+  - Creeping Corrosion
+  - Crush
+  - Crusher Zendikon
+  - Crystal Ball
+  - Culling Dais
+  - Cultivate
+  - Curse of Wizardry
+  - Dark Tutelage
+  - Darksteel Axe
+  - Darksteel Plate
+  - Day of Judgment
+  - Dead Reckoning
+  - Deathmark
+  - Decimator Web
+  - Demolish
+  - Demonic Appetite
+  - Demon's Horn
+  - Demystify
+  - Deprive
+  - Desecrated Earth
+  - Destructive Force
+  - Devastating Summons
+  - Diabolic Tutor
+  - Diminish
+  - Disaster Radius
+  - Disentomb
+  - Disfigure
+  - Dispel
+  - Dispense Justice
+  - Disperse
+  - Dissipation Field
+  - Distant Memories
+  - Distortion Strike
+  - Divine Offering
+  - Domestication
+  - Doom Blade
+  - Dragon's Claw
+  - Drake Umbra
+  - Dreamstone Hedron
+  - Dryad's Favor
+  - Duress
+  - Echo Circlet
+  - Eel Umbra
+  - Eland Umbra
+  - Eldrazi Conscription
+  - Eldrazi Monument
+  - Electropotence
+  - Elemental Appeal
+  - Elixir of Immortality
+  - Elspeth Tirel
+  - Emerge Unscathed
+  - Essence Feed
+  - Eternity Vessel
+  - Everflowing Chalice
+  - Excommunicate
+  - Expedition Map
+  - Explore
+  - Explorer's Scope
+  - Explosive Revelation
+  - Exsanguinate
+  - Feast of Blood
+  - Feral Contest
+  - Fireball
+  - Fissure Vent
+  - Flame Slash
+  - Flashfreeze
+  - Flayer Husk
+  - Fleeting Distraction
+  - Flesh Allergy
+  - Flight Spellbomb
+  - Fling
+  - Fog
+  - Foresee
+  - Forked Bolt
+  - Frantic Salvage
+  - Fuel for the Cause
+  - Fulgent Distraction
+  - Furnace Celebration
+  - Galvanic Blast
+  - Garruk Wildspeaker
+  - Gelatinous Genesis
+  - Genesis Wave
+  - Giant Growth
+  - Gideon Jura
+  - Gigantiform
+  - Glint Hawk Idol
+  - Go for the Throat
+  - Goblin War Paint
+  - Golden Urn
+  - Golem Foundry
+  - Golem's Heart
+  - Grafted Exoskeleton
+  - Grappling Hook
+  - Grasp of Darkness
+  - Gravitational Shift
+  - Gravity Well
+  - Green Sun's Zenith
+  - Grim Discovery
+  - Grindclock
+  - Groundswell
+  - Growth Spasm
+  - Gruesome Encore
+  - Guard Duty
+  - Guardian Zendikon
+  - Halt Order
+  - Hammer of Ruin
+  - Harmless Assault
+  - Harrow
+  - Haunting Echoes
+  - Heat Ray
+  - Heavy Arbalest
+  - Hedron Matrix
+  - Hellion Eruption
+  - Hideous End
+  - Holy Strength
+  - Honor of the Pure
+  - Horizon Spellbomb
+  - Hornet Sting
+  - Horrifying Revelation
+  - Hunters' Feast
+  - Hyena Umbra
+  - Ice Cage
+  - Ichor Wellspring
+  - Incite
+  - Induce Despair
+  - Inexorable Tide
+  - Inferno Trap
+  - Infiltration Lens
+  - Inquisition of Kozilek
+  - Inspired Charge
+  - Instill Infection
+  - Into the Core
+  - Into the Roil
+  - Iona's Judgment
+  - Ior Ruin Expedition
+  - Irresistible Prey
+  - Jace Beleren
+  - Jace, the Mind Sculptor
+  - Jace's Erasure
+  - Jace's Ingenuity
+  - Jinxed Idol
+  - Join the Ranks
+  - Journey to Nowhere
+  - Keening Stone
+  - Khalni Gem
+  - Khalni Heart Expedition
+  - Kitesail
+  - Knowledge Pool
+  - Koth of the Hammer
+  - Kraken's Eye
+  - Kuldotha Rebirth
+  - Landbind Ritual
+  - Last Kiss
+  - Lava Axe
+  - Lavaball Trap
+  - Lay Bare
+  - Lead the Stampede
+  - Leaf Arrow
+  - Lethargy Trap
+  - Leyline of Anticipation
+  - Leyline of Punishment
+  - Leyline of Sanctity
+  - Leyline of the Void
+  - Leyline of Vitality
+  - Lightmine Field
+  - Lightning Bolt
+  - Liliana Vess
+  - Liliana's Caress
+  - Liquimetal Coating
+  - Livewire Lash
+  - Living Destiny
+  - Luminarch Ascension
+  - Luminous Wake
+  - Lust for War
+  - Lux Cannon
+  - Magma Rift
+  - Magnetic Mine
+  - Mammoth Umbra
+  - Mana Leak
+  - Mark of Mutiny
+  - Marsh Casualties
+  - Marshal's Anthem
+  - Mass Polymorph
+  - Master's Call
+  - Melt Terrain
+  - Memoricide
+  - Metallic Mastery
+  - Might of the Masses
+  - Mighty Leap
+  - Mimic Vat
+  - Mind Control
+  - Mind Rot
+  - Mind Sludge
+  - Mindbreak Trap
+  - Mindslaver
+  - Mire Blight
+  - Mire's Toll
+  - Mirran Mettle
+  - Mirrorworks
+  - Mitotic Manipulation
+  - Molten Psyche
+  - Momentous Fall
+  - Morbid Plunder
+  - Mortarpod
+  - Mox Opal
+  - Myr Reservoir
+  - Myr Turbine
+  - Mysteries of the Deep
+  - Narcolepsy
+  - Narrow Escape
+  - Naturalize
+  - Nature's Claim
+  - Nature's Spiral
+  - Near-Death Experience
+  - Necrogen Censer
+  - Necrotic Plague
+  - Needlebite Trap
+  - Negate
+  - Nemesis Trap
+  - Nighthaze
+  - Nihil Spellbomb
+  - Nim Deathmantle
+  - Nimbus Wings
+  - Nissa Revane
+  - Nomads' Assembly
+  - Not of This World
+  - Ogre's Cleaver
+  - Origin Spellbomb
+  - Oust
+  - Overwhelming Stampede
+  - Pacifism
+  - Painful Quandary
+  - Panic Spellbomb
+  - Paralyzing Grasp
+  - Pennon Blade
+  - Perish the Thought
+  - Permafrost Trap
+  - Phyresis
+  - Phyrexian Rebirth
+  - Piston Sledge
+  - Pistus Strike
+  - Pitfall Trap
+  - Plummet
+  - Praetor's Counsel
+  - Predatory Urge
+  - Preordain
+  - Prey's Vengeance
+  - Primal Bellow
+  - Primal Cocoon
+  - Prophetic Prism
+  - Prototype Portal
+  - Psychic Miasma
+  - Puncturing Light
+  - Punishing Fire
+  - Pyretic Ritual
+  - Pyroclasm
+  - Pyromancer Ascension
+  - Quag Sickness
+  - Quest for Ancient Secrets
+  - Quest for Pure Flame
+  - Quest for Renewal
+  - Quest for the Gemblades
+  - Quest for the Goblin Lord
+  - Quest for the Gravelord
+  - Quest for the Holy Relic
+  - Quest for the Nihil Stone
+  - Quest for Ula's Temple
+  - Quicksilver Geyser
+  - Raid Bombardment
+  - Rally the Forces
+  - Ratchet Bomb
+  - Ravenous Trap
+  - Razor Boomerang
+  - Reality Spasm
+  - Realms Uncharted
+  - Recurring Insight
+  - Red Sun's Zenith
+  - Redirect
+  - Refraction Trap
+  - Regress
+  - Relic Crush
+  - Relic Putrescence
+  - Repay in Kind
+  - Repel the Darkness
+  - Rest for the Weary
+  - Reverberate
+  - Revoke Existence
+  - Ricochet Trap
+  - Rise from the Grave
+  - Rite of Replication
+  - Roiling Terrain
+  - Rumbling Aftershocks
+  - Runeflare Trap
+  - Rusted Relic
+  - Sadistic Sacrament
+  - Safe Passage
+  - Sarkhan the Mad
+  - Savage Silhouette
+  - Searing Blaze
+  - See Beyond
+  - Seer's Sundial
+  - Seismic Shudder
+  - Seize the Initiative
+  - Selective Memory
+  - Semblance Anvil
+  - Shape Anew
+  - Shared Discovery
+  - Shatter
+  - Shieldmate's Blessing
+  - Shiv's Embrace
+  - Shriekhorn
+  - Shrivel
+  - Sign in Blood
+  - Silence
+  - Silverskin Armor
+  - Skinwing
+  - Skittering Invasion
+  - Slagstorm
+  - Slaughter Cry
+  - Sleep
+  - Slice in Twain
+  - Slingbow Trap
+  - Smite
+  - Smother
+  - Snake Umbra
+  - Solemn Offering
+  - Sorcerer's Strongbox
+  - Sorin Markov
+  - Soul Parry
+  - Soul Stair Expedition
+  - Spawning Breath
+  - Spell Contortion
+  - Spell Pierce
+  - Sphere of the Suns
+  - Sphinx-Bone Wand
+  - Spider Umbra
+  - Spidersilk Net
+  - Spine of Ish Sah
+  - Spire Barrage
+  - Splinter Twin
+  - Spread the Sickness
+  - Spreading Seas
+  - Stabbing Pain
+  - Staggershock
+  - Steady Progress
+  - Steel Sabotage
+  - Stoic Rebuttal
+  - Stone Idol Trap
+  - Strandwalker
+  - Strata Scythe
+  - Strength of the Tajuru
+  - Strider Harness
+  - Suffer the Past
+  - Summoner's Bane
+  - Summoning Trap
+  - Sunspring Expedition
+  - Surreal Memoir
+  - Survival Cache
+  - Sword of Body and Mind
+  - Sword of Feast and Famine
+  - Sword of Vengeance
+  - Sylvok Lifestaff
+  - Tainted Strike
+  - Tanglesap
+  - Tel-Jilad Defiance
+  - Tempered Steel
+  - Temple Bell
+  - Terra Eternal
+  - Tezzeret, Agent of Bolas
+  - Throne of Geth
+  - Thunder Strike
+  - Time of Heroes
+  - Time Reversal
+  - Titan Forge
+  - Tomb Hex
+  - Tome Scour
+  - Tower of Calamities
+  - Trailblazer's Boots
+  - Training Grounds
+  - Traitorous Instinct
+  - Trapfinder's Trick
+  - Trapmaker's Snare
+  - Traumatize
+  - Treasure Hunt
+  - Trigon of Corruption
+  - Trigon of Infestation
+  - Trigon of Mending
+  - Trigon of Rage
+  - Trigon of Thought
+  - True Conviction
+  - Trusty Machete
+  - Tumble Magnet
+  - Turn Aside
+  - Turn the Tide
+  - Turn to Slag
+  - Twisted Image
+  - Twitch
+  - Unholy Strength
+  - Unified Will
+  - Unnatural Predation
+  - Unstable Footing
+  - Unsummon
+  - Untamed Might
+  - Urge to Feed
+  - Vampire's Bite
+  - Vapor Snare
+  - Vastwood Zendikon
+  - Vault Skyward
+  - Vendetta
+  - Venser, the Sojourner
+  - Venser's Journal
+  - Veteran's Reflexes
+  - Vigil for the Lost
+  - Vines of Vastwood
+  - Viridian Claw
+  - Viridian Revel
+  - Virulent Swipe
+  - Virulent Wound
+  - Vivisection
+  - Volcanic Strength
+  - Volition Reins
+  - Voltaic Key
+  - Warlord's Axe
+  - Warmonger's Chariot
+  - Whiplash Trap
+  - Whispersilk Cloak
+  - White Sun's Zenith
+  - Whitesun's Passage
+  - Wild Evocation
+  - Wind Zendikon
+  - Windborne Charge
+  - Wing Puncture
+  - Withstand Death
+  - World at War
+  - Wrap in Flames
+  - Wurm's Tooth
+  - Zektar Shrine Expedition
+  occurrences: 1204
+---
+Standard Deck 
+
+Standard
+
+[![View a sample hand of this deck](https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png)](https://web.archive.org/web/20110806165531/http://www.wizards.com/magic/samplehand.asp?x=mtg/daily/deck/680&decknum=1) 
+
+[![Download a .dek file for use in Magic Online](https://i.ormos.uk/7d/67/7d67a37edff07800cb466fa53a1880fe4f5a9f5af21d4a85210e22956ee20ec0.png)](https://web.archive.org/web/20110401000000/http://www.wizards.com/magic/mtgdailydeck680x1.dek?x=mtg/daily/deck/680&decknum=1) 
+
+  
+ 
+
+<table>&#10;          <tbody><tr>&#10;            <td colspan="2">&#10;              <p>Main Deck</p>&#10;              <p>7816 cards&#10;									</p>&#10;            </td>&#10;            <td>&#10;          </td></tr>&#10;          <tr>&#10;            <td>4 &#10;&#10;		<a>Akoum Refuge</a><br>4 &#10;&#10;		<a>Arid Mesa</a><br>4 &#10;&#10;		<a>Blackcleave Cliffs</a><br>4 &#10;&#10;		<a>Bojuka Bog</a><br>4 &#10;&#10;		<a>Celestial Colonnade</a><br>4 &#10;&#10;		<a>Contested War Zone</a><br>4 &#10;&#10;		<a>Copperline Gorge</a><br>4 &#10;&#10;		<a>Creeping Tar Pit</a><br>4 &#10;&#10;		<a>Crypt of Agadeem</a><br>4 &#10;&#10;		<a>Darkslick Shores</a><br>4 &#10;&#10;		<a>Dragonskull Summit</a><br>4 &#10;&#10;		<a>Dread Statuary</a><br>4 &#10;&#10;		<a>Drowned Catacomb</a><br>4 &#10;&#10;		<a>Eldrazi Temple</a><br>4 &#10;&#10;		<a>Emeria, the Sky Ruin</a><br>4 &#10;&#10;		<a>Evolving Wilds</a><br>4 &#10;&#10;		<a>Eye of Ugin</a><br>604 &#10;&#10;		<a>Forest</a><br>4 &#10;&#10;		<a>Glacial Fortress</a><br>4 &#10;&#10;		<a>Glimmerpost</a><br>4 &#10;&#10;		<a>Graypelt Refuge</a><br>4 &#10;&#10;		<a>Halimar Depths</a><br>4 &#10;&#10;		<a>Inkmoth Nexus</a><br>604 &#10;&#10;		<a>Island</a><br>4 &#10;&#10;		<a>Jwar Isle Refuge</a><br>4 &#10;&#10;		<a>Kabira Crossroads</a><br>4 &#10;&#10;		<a>Kazandu Refuge</a><br>4 &#10;&#10;		<a>Khalni Garden</a><br>4 &#10;&#10;		<a>Lavaclaw Reaches</a><br>4 &#10;&#10;		<a>Magosi, the Waterveil</a><br>4 &#10;&#10;		<a>Marsh Flats</a><br>4 &#10;&#10;		<a>Misty Rainforest</a><br>604 &#10;&#10;		<a>Mountain</a><br>4 &#10;&#10;		<a>Mystifying Maze</a><br>4 &#10;&#10;		<a>Oran-Rief, the Vastwood</a><br>4 &#10;&#10;		<a>Piranha Marsh</a><br>604 &#10;&#10;		<a>Plains</a><br>4 &#10;&#10;		<a>Quicksand</a><br>4 &#10;&#10;		<a>Raging Ravine</a><br>4 &#10;&#10;		<a>Razorverge Thicket</a><br>4 &#10;&#10;		<a>Rootbound Crag</a><br>4 &#10;&#10;		<a>Scalding Tarn</a><br>4 &#10;&#10;		<a>Seachrome Coast</a><br>4 &#10;&#10;		<a>Sejiri Refuge</a><br>4 &#10;&#10;		<a>Sejiri Steppe</a><br>4 &#10;&#10;		<a>Smoldering Spires</a><br>4 &#10;&#10;		<a>Soaring Seacliff</a><br>4 &#10;&#10;		<a>Stirring Wildwood</a><br>4 &#10;&#10;		<a>Sunpetal Grove</a><br>604 &#10;&#10;		<a>Swamp</a><br>4 &#10;&#10;		<a>Tectonic Edge</a><br>4 &#10;&#10;		<a>Teetering Peaks</a><br>4 &#10;&#10;		<a>Terramorphic Expanse</a><br>4 &#10;&#10;		<a>Turntimber Grove</a><br>4 &#10;&#10;		<a>Valakut, the Molten Pinnacle</a><br>4 &#10;&#10;		<a>Verdant Catacombs</a><br><hr>3224 lands<br><br>4 &#10;&#10;		<a>Abuna Acolyte</a><br>4 &#10;&#10;		<a>Abyssal Persecutor</a><br>4 &#10;&#10;		<a>Accorder Paladin</a><br>4 &#10;&#10;		<a>Acid Web Spider</a><br>4 &#10;&#10;		<a>Acidic Slime</a><br>4 &#10;&#10;		<a>Admonition Angel</a><br>4 &#10;&#10;		<a>Æther Adept</a><br>4 &#10;&#10;		<a>Æther Figment</a><br>4 &#10;&#10;		<a>Affa Guard Hound</a><br>4 &#10;&#10;		<a>Agadeem Occultist</a><br>4 &#10;&#10;		<a>Air Servant</a><br>4 &#10;&#10;		<a>Ajani's Pridemate</a><br>4 &#10;&#10;		<a>Akoum Battlesinger</a><br>4 &#10;&#10;		<a>Akoum Boulderfoot</a><br>4 &#10;&#10;		<a>Alluring Siren</a><br>4 &#10;&#10;		<a>Alpha Tyrranax</a><br>4 &#10;&#10;		<a>Ancient Hellkite</a><br>4 &#10;&#10;		<a>Angelic Arbiter</a><br>4 &#10;&#10;		<a>Anowon, the Ruin Sage</a><br>4 &#10;&#10;		<a>Apex Hawks</a><br>4 &#10;&#10;		<a>Arbor Elf</a><br>4 &#10;&#10;		<a>Arc Runner</a><br>4 &#10;&#10;		<a>Archon of Redemption</a><br>4 &#10;&#10;		<a>Ardent Recruit</a><br>4 &#10;&#10;		<a>Argent Sphinx</a><br>4 &#10;&#10;		<a>Armament Master</a><br>4 &#10;&#10;		<a>Armored Cancrix</a><br>4 &#10;&#10;		<a>Arrogant Bloodlord</a><br>4 &#10;&#10;		<a>Artisan of Kozilek</a><br>4 &#10;&#10;		<a>Assault Griffin</a><br>4 &#10;&#10;		<a>Augury Owl</a><br>4 &#10;&#10;		<a>Aura Gnarlid</a><br>4 &#10;&#10;		<a>Auriok Edgewright</a><br>4 &#10;&#10;		<a>Auriok Replica</a><br>4 &#10;&#10;		<a>Auriok Sunchaser</a><br>4 &#10;&#10;		<a>Avenger of Zendikar</a><br>4 &#10;&#10;		<a>Awakener Druid</a><br>4 &#10;&#10;		<a>Azure Drake</a><br>4 &#10;&#10;		<a>Bala Ged Scorpion</a><br>4 &#10;&#10;		<a>Bala Ged Thief</a><br>4 &#10;&#10;		<a>Baloth Woodcrasher</a><br>4 &#10;&#10;		<a>Baneslayer Angel</a><br>4 &#10;&#10;		<a>Barony Vampire</a><br>4 &#10;&#10;		<a>Barrage Ogre</a><br>4 &#10;&#10;		<a>Battle Hurda</a><br>4 &#10;&#10;		<a>Battle Rampart</a><br>4 &#10;&#10;		<a>Battle-Rattle Shaman</a><br>4 &#10;&#10;		<a>Bazaar Trader</a><br>4 &#10;&#10;		<a>Beastbreaker of Bala Ged</a><br>4 &#10;&#10;		<a>Bellowing Tanglewurm</a><br>4 &#10;&#10;		<a>Berserkers of Blood Ridge</a><br>4 &#10;&#10;		<a>Birds of Paradise</a><br>4 &#10;&#10;		<a>Black Knight</a><br>4 &#10;&#10;		<a>Blackcleave Goblin</a><br>4 &#10;&#10;		<a>Bladed Sentinel</a><br>4 &#10;&#10;		<a>Blade-Tribe Berserkers</a><br>4 &#10;&#10;		<a>Bladetusk Boar</a><br>4 &#10;&#10;		<a>Bleak Coven Vampires</a><br>4 &#10;&#10;		<a>Blight Mamba</a><br>4 &#10;&#10;		<a>Blightsteel Colossus</a><br>4 &#10;&#10;		<a>Blightwidow</a><br>4 &#10;&#10;		<a>Blinding Mage</a><br>4 &#10;&#10;		<a>Blistergrub</a><br>4 &#10;&#10;		<a>Blisterstick Shaman</a><br>4 &#10;&#10;		<a>Blood Seeker</a><br>4 &#10;&#10;		<a>Bloodcrazed Goblin</a><br>4 &#10;&#10;		<a>Bloodghast</a><br>4 &#10;&#10;		<a>Bloodhusk Ritualist</a><br>4 &#10;&#10;		<a>Bloodrite Invoker</a><br>4 &#10;&#10;		<a>Bloodshot Trainee</a><br>4 &#10;&#10;		<a>Bloodthrone Vampire</a><br>4 &#10;&#10;		<a>Bog Raiders</a><br>4 &#10;&#10;		<a>Bog Tatters</a><br>4 &#10;&#10;		<a>Bojuka Brigand</a><br>4 &#10;&#10;		<a>Bramblesnap</a><br>4 &#10;&#10;		<a>Brass Squire</a><br>4 &#10;&#10;		<a>Brimstone Mage</a><br>4 &#10;&#10;		<a>Brindle Boar</a><br>4 &#10;&#10;		<a>Broodwarden</a><br>4 &#10;&#10;		<a>Butcher of Malakir</a><br>4 &#10;&#10;		<a>Cadaver Imp</a><br>4 &#10;&#10;		<a>Calcite Snapper</a><br>4 &#10;&#10;		<a>Caller of Gales</a><br>4 &#10;&#10;		<a>Canyon Minotaur</a><br>4 &#10;&#10;		<a>Captivating Vampire</a><br>4 &#10;&#10;		<a>Carapace Forger</a><br>4 &#10;&#10;		<a>Caravan Escort</a><br>4 &#10;&#10;		<a>Caravan Hurda</a><br>4 &#10;&#10;		<a>Carnifex Demon</a><br>4 &#10;&#10;		<a>Caustic Crawler</a><br>4 &#10;&#10;		<a>Caustic Hound</a><br>4 &#10;&#10;		<a>Champion's Drake</a><br>4 &#10;&#10;		<a>Chandra's Spitfire</a><br>4 &#10;&#10;		<a>Child of Night</a><br>4 &#10;&#10;		<a>Chrome Steed</a><br>4 &#10;&#10;		<a>Cliff Threader</a><br>4 &#10;&#10;		<a>Clone</a><br>4 &#10;&#10;		<a>Clone Shell</a><br>4 &#10;&#10;		<a>Cloud Crusader</a><br>4 &#10;&#10;		<a>Cloud Elemental</a><br>4 &#10;&#10;		<a>Conquering Manticore</a><br>4 &#10;&#10;		<a>Consecrated Sphinx</a><br>4 &#10;&#10;		<a>Contagious Nim</a><br>4 &#10;&#10;		<a>Conundrum Sphinx</a><br>4 &#10;&#10;		<a>Copper Myr</a><br>4 &#10;&#10;		<a>Copperhorn Scout</a><br>4 &#10;&#10;		<a>Coralhelm Commander</a><br>4 &#10;&#10;		<a>Core Prowler</a><br>4 &#10;&#10;		<a>Corpse Cur</a><br>4 &#10;&#10;		<a>Corrupted Harvester</a><br>4 &#10;&#10;		<a>Cosi's Ravager</a><br>4 &#10;&#10;		<a>Cosi's Trickster</a><br>4 &#10;&#10;		<a>Crypt Ripper</a><br>4 &#10;&#10;		<a>Cryptoplasm</a><br>4 &#10;&#10;		<a>Cudgel Troll</a><br>4 &#10;&#10;		<a>Cunning Sparkmage</a><br>4 &#10;&#10;		<a>Cyclops Gladiator</a><br>4 &#10;&#10;		<a>Cystbearer</a><br>4 &#10;&#10;		<a>Daggerback Basilisk</a><br>4 &#10;&#10;		<a>Darkslick Drake</a><br>4 &#10;&#10;		<a>Darksteel Juggernaut</a><br>4 &#10;&#10;		<a>Darksteel Myr</a><br>4 &#10;&#10;		<a>Darksteel Sentinel</a><br>4 &#10;&#10;		<a>Dawnglare Invoker</a><br>4 &#10;&#10;		<a>Death Cultist</a><br>4 &#10;&#10;		<a>Deathforge Shaman</a><br>4 &#10;&#10;		<a>Deathless Angel</a><br>4 &#10;&#10;		<a>Death's Shadow</a><br>4 &#10;&#10;		<a>Demon of Death's Gate</a><br>4 &#10;&#10;		<a>Devout Lightcaster</a><br>4 &#10;&#10;		<a>Dormant Gomazoa</a><br>4 &#10;&#10;		<a>Dragonmaster Outcast</a><br>4 &#10;&#10;		<a>Drana, Kalastria Bloodchief</a><br>4 &#10;&#10;		<a>Dread Drone</a><br>4 &#10;&#10;		<a>Dross Hopper</a><br>4 &#10;&#10;		<a>Dross Ripper</a><br>4 &#10;&#10;		<a>Duskdale Wurm</a><br>4 &#10;&#10;		<a>Earth Servant</a><br>4 &#10;&#10;		<a>Echo Mage</a><br>4 &#10;&#10;		<a>Elite Vanguard</a><br>4 &#10;&#10;		<a>Elvish Archdruid</a><br>4 &#10;&#10;		<a>Ember Hauler</a><br>4 &#10;&#10;		<a>Embersmith</a><br>4 &#10;&#10;		<a>Emeria Angel</a><br>4 &#10;&#10;		<a>Emrakul, the Aeons Torn</a><br>4 &#10;&#10;		<a>Emrakul's Hatcher</a><br>4 &#10;&#10;		<a>Enatu Golem</a><br>4 &#10;&#10;		<a>Enclave Cryptologist</a><br>4 &#10;&#10;		<a>Enclave Elite</a><br>4 &#10;&#10;		<a>Engulfing Slagwurm</a><br>4 &#10;&#10;		<a>Escaped Null</a><br>4 &#10;&#10;		<a>Etched Champion</a><br>4 &#10;&#10;		<a>Ezuri, Renegade Leader</a><br>4 &#10;&#10;		<a>Ezuri's Archers</a><br>4 &#10;&#10;		<a>Ezuri's Brigade</a><br>4 &#10;&#10;		<a>Fangren Marauder</a><br>4 &#10;&#10;		<a>Fauna Shaman</a><br>4 &#10;&#10;		<a>Felidar Sovereign</a><br>4 &#10;&#10;		<a>Ferrovore</a><br>4 &#10;&#10;		<a>Fiery Hellhound</a><br>4 &#10;&#10;		<a>Fire Servant</a><br>4 &#10;&#10;		<a>Flameborn Hellion</a><br>4 &#10;&#10;		<a>Fledgling Griffin</a><br>4 &#10;&#10;		<a>Flensermite</a><br>4 &#10;&#10;		<a>Flesh-Eater Imp</a><br>4 &#10;&#10;		<a>Frontier Guide</a><br>4 &#10;&#10;		<a>Frost Titan</a><br>4 &#10;&#10;		<a>Frostwind Invoker</a><br>4 &#10;&#10;		<a>Fume Spitter</a><br>4 &#10;&#10;		<a>Gaea's Revenge</a><br>4 &#10;&#10;		<a>Galvanoth</a><br>4 &#10;&#10;		<a>Gargoyle Sentinel</a><br>4 &#10;&#10;		<a>Garruk's Companion</a><br>4 &#10;&#10;		<a>Garruk's Packleader</a><br>4 &#10;&#10;		<a>Gatekeeper of Malakir</a><br>4 &#10;&#10;		<a>Geth, Lord of the Vault</a><br>4 &#10;&#10;		<a>Geyser Glider</a><br>4 &#10;&#10;		<a>Ghalma's Warden</a><br>4 &#10;&#10;		<a>Giant Scorpion</a><br>4 &#10;&#10;		<a>Giant Spider</a><br>4 &#10;&#10;		<a>Gigantomancer</a><br>4 &#10;&#10;		<a>Glimmerpoint Stag</a><br>4 &#10;&#10;		<a>Glint Hawk</a><br>4 &#10;&#10;		<a>Glissa, the Traitor</a><br>4 &#10;&#10;		<a>Glissa's Courier</a><br>4 &#10;&#10;		<a>Gloomhunter</a><br>4 &#10;&#10;		<a>Glory Seeker</a><br>4 &#10;&#10;		<a>Gnarlid Pack</a><br>4 &#10;&#10;		<a>Gnathosaur</a><br>4 &#10;&#10;		<a>Goblin Arsonist</a><br>4 &#10;&#10;		<a>Goblin Balloon Brigade</a><br>4 &#10;&#10;		<a>Goblin Bushwhacker</a><br>4 &#10;&#10;		<a>Goblin Chieftain</a><br>4 &#10;&#10;		<a>Goblin Gaveleer</a><br>4 &#10;&#10;		<a>Goblin Guide</a><br>4 &#10;&#10;		<a>Goblin Piker</a><br>4 &#10;&#10;		<a>Goblin Roughrider</a><br>4 &#10;&#10;		<a>Goblin Ruinblaster</a><br>4 &#10;&#10;		<a>Goblin Shortcutter</a><br>4 &#10;&#10;		<a>Goblin Tunneler</a><br>4 &#10;&#10;		<a>Goblin Wardriver</a><br>4 &#10;&#10;		<a>Gold Myr</a><br>4 &#10;&#10;		<a>Goldenglow Moth</a><br>4 &#10;&#10;		<a>Golem Artisan</a><br>4 &#10;&#10;		<a>Goliath Sphinx</a><br>4 &#10;&#10;		<a>Gomazoa</a><br>4 &#10;&#10;		<a>Gore Vassal</a><br>4 &#10;&#10;		<a>Grand Architect</a><br>4 &#10;&#10;		<a>Grappler Spider</a><br>4 &#10;&#10;		<a>Grave Titan</a><br>4 &#10;&#10;		<a>Gravedigger</a><br>4 &#10;&#10;		<a>Graypelt Hunter</a><br>4 &#10;&#10;		<a>Grazing Gladehart</a><br>4 &#10;&#10;		<a>Greater Basilisk</a><br>4 &#10;&#10;		<a>Greenweaver Druid</a><br>4 &#10;&#10;		<a>Grotag Siege-Runner</a><br>4 &#10;&#10;		<a>Grotag Thrasher</a><br>4 &#10;&#10;		<a>Guard Gomazoa</a><br>4 &#10;&#10;		<a>Gust-Skimmer</a><br>4 &#10;&#10;		<a>Guul Draz Assassin</a><br>4 &#10;&#10;		<a>Guul Draz Specter</a><br>4 &#10;&#10;		<a>Guul Draz Vampire</a><br>4 &#10;&#10;		<a>Hada Freeblade</a><br>4 &#10;&#10;		<a>Hada Spy Patrol</a><br>4 &#10;&#10;		<a>Hagra Crocodile</a><br>4 &#10;&#10;		<a>Hagra Diabolist</a><br>4 &#10;&#10;		<a>Halimar Excavator</a><br>4 &#10;&#10;		<a>Halimar Wavewatch</a><br>4 &#10;&#10;		<a>Halo Hunter</a><br>4 &#10;&#10;		<a>Hand of Emrakul</a><br>4 &#10;&#10;		<a>Hand of the Praetors</a><br>4 &#10;&#10;		<a>Harabaz Druid</a><br>4 &#10;&#10;		<a>Harbor Serpent</a><br>4 &#10;&#10;		<a>Haze Frog</a><br>4 &#10;&#10;		<a>Heartstabber Mosquito</a><br>4 &#10;&#10;		<a>Hedron Crab</a><br>4 &#10;&#10;		<a>Hedron Rover</a><br>4 &#10;&#10;		<a>Hedron Scrabbler</a><br>4 &#10;&#10;		<a>Hedron-Field Purists</a><br>4 &#10;&#10;		<a>Hellcarver Demon</a><br>4 &#10;&#10;		<a>Hellfire Mongrel</a><br>4 &#10;&#10;		<a>Hellkite Charger</a><br>4 &#10;&#10;		<a>Hellkite Igniter</a><br>4 &#10;&#10;		<a>Hero of Bladehold</a><br>4 &#10;&#10;		<a>Hero of Oxid Ridge</a><br>4 &#10;&#10;		<a>Hexplate Golem</a><br>4 &#10;&#10;		<a>Highland Berserker</a><br>4 &#10;&#10;		<a>Hoarding Dragon</a><br>4 &#10;&#10;		<a>Hoard-Smelter Dragon</a><br>4 &#10;&#10;		<a>Horizon Drake</a><br>4 &#10;&#10;		<a>Howling Banshee</a><br>4 &#10;&#10;		<a>Ichor Rats</a><br>4 &#10;&#10;		<a>Ichorclaw Myr</a><br>4 &#10;&#10;		<a>Ikiral Outrider</a><br>4 &#10;&#10;		<a>Indomitable Archangel</a><br>4 &#10;&#10;		<a>Infantry Veteran</a><br>4 &#10;&#10;		<a>Inferno Titan</a><br>4 &#10;&#10;		<a>Iona, Shield of Emeria</a><br>4 &#10;&#10;		<a>Iron Myr</a><br>4 &#10;&#10;		<a>It That Betrays</a><br>4 &#10;&#10;		<a>Jaddi Lifestrider</a><br>4 &#10;&#10;		<a>Jagwasp Swarm</a><br>4 &#10;&#10;		<a>Joraga Bard</a><br>4 &#10;&#10;		<a>Joraga Treespeaker</a><br>4 &#10;&#10;		<a>Joraga Warcaller</a><br>4 &#10;&#10;		<a>Juggernaut</a><br>4 &#10;&#10;		<a>Jwari Scuttler</a><br>4 &#10;&#10;		<a>Jwari Shapeshifter</a><br>4 &#10;&#10;		<a>Kabira Evangel</a><br>4 &#10;&#10;		<a>Kabira Vindicator</a><br>4 &#10;&#10;		<a>Kalastria Highborn</a><br>4 &#10;&#10;		<a>Kalitas, Bloodchief of Ghet</a><br>4 &#10;&#10;		<a>Kargan Dragonlord</a><br>4 &#10;&#10;		<a>Kazandu Blademaster</a><br>4 &#10;&#10;		<a>Kazandu Tuskcaller</a><br>4 &#10;&#10;		<a>Kazuul Warlord</a><br>4 &#10;&#10;		<a>Kazuul, Tyrant of the Cliffs</a><br>4 &#10;&#10;		<a>Kemba, Kha Regent</a><br>4 &#10;&#10;		<a>Kemba's Legion</a><br>4 &#10;&#10;		<a>Kemba's Skyguard</a><br>4 &#10;&#10;		<a>Khalni Hydra</a><br>4 &#10;&#10;		<a>Kiln Fiend</a><br>4 &#10;&#10;		<a>Kitesail Apprentice</a><br>4 &#10;&#10;		<a>Knight Exemplar</a><br>4 &#10;&#10;		<a>Knight of Cliffhaven</a><br>4 &#10;&#10;		<a>Kor Aeronaut</a><br>4 &#10;&#10;		<a>Kor Cartographer</a><br>4 &#10;&#10;		<a>Kor Duelist</a><br>4 &#10;&#10;		<a>Kor Firewalker</a><br>4 &#10;&#10;		<a>Kor Hookmaster</a><br>4 &#10;&#10;		<a>Kor Line-Slinger</a><br>4 &#10;&#10;		<a>Kor Outfitter</a><br>4 &#10;&#10;		<a>Kor Sanctifiers</a><br>4 &#10;&#10;		<a>Kor Skyfisher</a><br>4 &#10;&#10;		<a>Kor Spiritdancer</a><br>4 &#10;&#10;		<a>Koth's Courier</a><br>4 &#10;&#10;		<a>Kozilek, Butcher of Truth</a><br>4 &#10;&#10;		<a>Kozilek's Predator</a><br>4 &#10;&#10;		<a>Kraken Hatchling</a><br>4 &#10;&#10;		<a>Kuldotha Flamefiend</a><br>4 &#10;&#10;		<a>Kuldotha Forgemaster</a><br>4 &#10;&#10;		<a>Kuldotha Phoenix</a><br>4 &#10;&#10;		<a>Kuldotha Ringleader</a><br>4 &#10;&#10;		<a>Lagac Lizard</a><br>4 &#10;&#10;		<a>Lavafume Invoker</a><br>4 &#10;&#10;		<a>Leaden Myr</a><br>4 &#10;&#10;		<a>Leatherback Baloth</a><br>4 &#10;&#10;		<a>Leonin Arbiter</a><br>4 &#10;&#10;		<a>Leonin Relic-Warder</a><br>4 &#10;&#10;		<a>Leonin Skyhunter</a><br>4 &#10;&#10;		<a>Liege of the Tangle</a><br>4 &#10;&#10;		<a>Lifesmith</a><br>4 &#10;&#10;		<a>Lighthouse Chronologist</a><br>4 &#10;&#10;		<a>Lightkeeper of Emeria</a><br>4 &#10;&#10;		<a>Liliana's Specter</a><br>4 &#10;&#10;		<a>Linvala, Keeper of Silence</a><br>4 &#10;&#10;		<a>Living Tsunami</a><br>4 &#10;&#10;		<a>Llanowar Elves</a><br>4 &#10;&#10;		<a>Loam Lion</a><br>4 &#10;&#10;		<a>Lodestone Golem</a><br>4 &#10;&#10;		<a>Lone Missionary</a><br>4 &#10;&#10;		<a>Lord of Shatterskull Pass</a><br>4 &#10;&#10;		<a>Lorthos, the Tidemaker</a><br>4 &#10;&#10;		<a>Lotus Cobra</a><br>4 &#10;&#10;		<a>Loxodon Partisan</a><br>4 &#10;&#10;		<a>Loxodon Wayfarer</a><br>4 &#10;&#10;		<a>Lullmage Mentor</a><br>4 &#10;&#10;		<a>Lumengrid Drake</a><br>4 &#10;&#10;		<a>Lumengrid Gargoyle</a><br>4 &#10;&#10;		<a>Magma Phoenix</a><br>4 &#10;&#10;		<a>Magmaw</a><br>4 &#10;&#10;		<a>Makindi Griffin</a><br>4 &#10;&#10;		<a>Makindi Shieldmate</a><br>4 &#10;&#10;		<a>Malakir Bloodwitch</a><br>4 &#10;&#10;		<a>Manic Vandal</a><br>4 &#10;&#10;		<a>Maritime Guard</a><br>4 &#10;&#10;		<a>Marsh Threader</a><br>4 &#10;&#10;		<a>Massacre Wurm</a><br>4 &#10;&#10;		<a>Melira's Keepers</a><br>4 &#10;&#10;		<a>Memnite</a><br>4 &#10;&#10;		<a>Merfolk Observer</a><br>4 &#10;&#10;		<a>Merfolk Seastalkers</a><br>4 &#10;&#10;		<a>Merfolk Skyscout</a><br>4 &#10;&#10;		<a>Merfolk Sovereign</a><br>4 &#10;&#10;		<a>Merfolk Spy</a><br>4 &#10;&#10;		<a>Merfolk Wayfinder</a><br>4 &#10;&#10;		<a>Mindless Null</a><br>4 &#10;&#10;		<a>Mirran Crusader</a><br>4 &#10;&#10;		<a>Mirran Spy</a><br>4 &#10;&#10;		<a>Mitotic Slime</a><br>4 &#10;&#10;		<a>Mnemonic Wall</a><br>4 &#10;&#10;		<a>Mold Shambler</a><br>4 &#10;&#10;		<a>Molder Beast</a><br>4 &#10;&#10;		<a>Molten Ravager</a><br>4 &#10;&#10;		<a>Molten-Tail Masticore</a><br>4 &#10;&#10;		<a>Mordant Dragon</a><br>4 &#10;&#10;		<a>Moriok Reaver</a><br>4 &#10;&#10;		<a>Moriok Replica</a><br>4 &#10;&#10;		<a>Mortician Beetle</a><br>4 &#10;&#10;		<a>Mul Daya Channelers</a><br>4 &#10;&#10;		<a>Murasa Pyromancer</a><br>4 &#10;&#10;		<a>Myr Battlesphere</a><br>4 &#10;&#10;		<a>Myr Galvanizer</a><br>4 &#10;&#10;		<a>Myr Propagator</a><br>4 &#10;&#10;		<a>Myr Sire</a><br>4 &#10;&#10;		<a>Myr Welder</a><br>4 &#10;&#10;		<a>Myrsmith</a><br>4 &#10;&#10;		<a>Nantuko Shade</a><br>4 &#10;&#10;		<a>Necrogen Scudder</a><br>4 &#10;&#10;		<a>Necropede</a><br>4 &#10;&#10;		<a>Necrotic Ooze</a><br>4 &#10;&#10;		<a>Nema Siltlurker</a><br>4 &#10;&#10;		<a>Nest Invader</a><br>4 &#10;&#10;		<a>Nested Ghoul</a><br>4 &#10;&#10;		<a>Nether Horror</a><br>4 &#10;&#10;		<a>Neurok Commando</a><br>4 &#10;&#10;		<a>Neurok Invisimancer</a><br>4 &#10;&#10;		<a>Neurok Replica</a><br>4 &#10;&#10;		<a>Nightwing Shade</a><br>4 &#10;&#10;		<a>Nimana Sell-Sword</a><br>4 &#10;&#10;		<a>Nirkana Cutthroat</a><br>4 &#10;&#10;		<a>Nirkana Revenant</a><br>4 &#10;&#10;		<a>Nissa's Chosen</a><br>4 &#10;&#10;		<a>Noble Vestige</a><br>4 &#10;&#10;		<a>Novablast Wurm</a><br>4 &#10;&#10;		<a>Null Champion</a><br>4 &#10;&#10;		<a>Ob Nixilis, the Fallen</a><br>4 &#10;&#10;		<a>Obsidian Fireheart</a><br>4 &#10;&#10;		<a>Obstinate Baloth</a><br>4 &#10;&#10;		<a>Oculus</a><br>4 &#10;&#10;		<a>Ogre Geargrabber</a><br>4 &#10;&#10;		<a>Ogre Resister</a><br>4 &#10;&#10;		<a>Ogre Sentry</a><br>4 &#10;&#10;		<a>Omnath, Locus of Mana</a><br>4 &#10;&#10;		<a>Ondu Cleric</a><br>4 &#10;&#10;		<a>Ondu Giant</a><br>4 &#10;&#10;		<a>Oracle of Mul Daya</a><br>4 &#10;&#10;		<a>Oran-Rief Recluse</a><br>4 &#10;&#10;		<a>Oran-Rief Survivalist</a><br>4 &#10;&#10;		<a>Ornithopter</a><br>4 &#10;&#10;		<a>Overgrown Battlement</a><br>4 &#10;&#10;		<a>Oxidda Daredevil</a><br>4 &#10;&#10;		<a>Oxidda Scrapmelter</a><br>4 &#10;&#10;		<a>Painsmith</a><br>4 &#10;&#10;		<a>Palace Guard</a><br>4 &#10;&#10;		<a>Palladium Myr</a><br>4 &#10;&#10;		<a>Pathrazer of Ulamog</a><br>4 &#10;&#10;		<a>Pawn of Ulamog</a><br>4 &#10;&#10;		<a>Peace Strider</a><br>4 &#10;&#10;		<a>Pelakka Wurm</a><br>4 &#10;&#10;		<a>Perilous Myr</a><br>4 &#10;&#10;		<a>Perimeter Captain</a><br>4 &#10;&#10;		<a>Pestilence Demon</a><br>4 &#10;&#10;		<a>Phantasmal Abomination</a><br>4 &#10;&#10;		<a>Phantom Beast</a><br>4 &#10;&#10;		<a>Phylactery Lich</a><br>4 &#10;&#10;		<a>Phyrexian Crusader</a><br>4 &#10;&#10;		<a>Phyrexian Digester</a><br>4 &#10;&#10;		<a>Phyrexian Hydra</a><br>4 &#10;&#10;		<a>Phyrexian Juggernaut</a><br>4 &#10;&#10;		<a>Phyrexian Rager</a><br>4 &#10;&#10;		<a>Phyrexian Revoker</a><br>4 &#10;&#10;		<a>Phyrexian Vatmother</a><br>4 &#10;&#10;		<a>Pierce Strider</a><br>4 &#10;&#10;		<a>Pilgrim's Eye</a><br>4 &#10;&#10;		<a>Pillarfield Ox</a><br>4 &#10;&#10;		<a>Plague Myr</a><br>4 &#10;&#10;		<a>Plague Stinger</a><br>4 &#10;&#10;		<a>Plaguemaw Beast</a><br>4 &#10;&#10;		<a>Plated Geopede</a><br>4 &#10;&#10;		<a>Plated Seastrider</a><br>4 &#10;&#10;		<a>Platinum Angel</a><br>4 &#10;&#10;		<a>Platinum Emperion</a><br>4 &#10;&#10;		<a>Precursor Golem</a><br>4 &#10;&#10;		<a>Priests of Norn</a><br>4 &#10;&#10;		<a>Primeval Titan</a><br>4 &#10;&#10;		<a>Prized Unicorn</a><br>4 &#10;&#10;		<a>Prodigal Pyromancer</a><br>4 &#10;&#10;		<a>Protean Hydra</a><br>4 &#10;&#10;		<a>Psychosis Crawler</a><br>4 &#10;&#10;		<a>Pulse Tracker</a><br>4 &#10;&#10;		<a>Putrefax</a><br>4 &#10;&#10;		<a>Quag Vampires</a><br>4 &#10;&#10;		<a>Quicksilver Gargantuan</a><br>4 &#10;&#10;		<a>Quilled Slagwurm</a><br>4 &#10;&#10;		<a>Rage Nimbus</a><br>4 &#10;&#10;		<a>Rampaging Baloths</a><br>4 &#10;&#10;		<a>Rapacious One</a><br>4 &#10;&#10;		<a>Razor Hippogriff</a><br>4 &#10;&#10;		<a>Razorfield Rhino</a><br>4 &#10;&#10;		<a>Razorfield Thresher</a><br>4 &#10;&#10;		<a>Reassembling Skeleton</a><br>4 &#10;&#10;		<a>Reckless Scholar</a><br>4 &#10;&#10;		<a>Reinforced Bulwark</a><br>4 &#10;&#10;		<a>Relentless Rats</a><br>4 &#10;&#10;		<a>Renegade Doppelganger</a><br>4 &#10;&#10;		<a>Riddlesmith</a><br>4 &#10;&#10;		<a>River Boa</a><br>4 &#10;&#10;		<a>Roc Egg</a><br>4 &#10;&#10;		<a>Roil Elemental</a><br>4 &#10;&#10;		<a>Rot Wolf</a><br>4 &#10;&#10;		<a>Rotting Legion</a><br>4 &#10;&#10;		<a>Royal Assassin</a><br>4 &#10;&#10;		<a>Ruin Ghost</a><br>4 &#10;&#10;		<a>Ruinous Minotaur</a><br>4 &#10;&#10;		<a>Runeclaw Bear</a><br>4 &#10;&#10;		<a>Runed Servitor</a><br>4 &#10;&#10;		<a>Rust Tick</a><br>4 &#10;&#10;		<a>Rusted Slasher</a><br>4 &#10;&#10;		<a>Ruthless Cullblade</a><br>4 &#10;&#10;		<a>Saberclaw Golem</a><br>4 &#10;&#10;		<a>Sacred Wolf</a><br>4 &#10;&#10;		<a>Salvage Scout</a><br>4 &#10;&#10;		<a>Sangromancer</a><br>4 &#10;&#10;		<a>Scoria Elemental</a><br>4 &#10;&#10;		<a>Scourge Servant</a><br>4 &#10;&#10;		<a>Scrapdiver Serpent</a><br>4 &#10;&#10;		<a>Screeching Silcaw</a><br>4 &#10;&#10;		<a>Scrib Nibblers</a><br>4 &#10;&#10;		<a>Scroll Thief</a><br>4 &#10;&#10;		<a>Scute Mob</a><br>4 &#10;&#10;		<a>Scythe Tiger</a><br>4 &#10;&#10;		<a>Sea Gate Loremaster</a><br>4 &#10;&#10;		<a>Sea Gate Oracle</a><br>4 &#10;&#10;		<a>Seascape Aerialist</a><br>4 &#10;&#10;		<a>Sejiri Merfolk</a><br>4 &#10;&#10;		<a>Septic Rats</a><br>4 &#10;&#10;		<a>Serra Angel</a><br>4 &#10;&#10;		<a>Serra Ascendant</a><br>4 &#10;&#10;		<a>Serum Raker</a><br>4 &#10;&#10;		<a>Shatterskull Giant</a><br>4 &#10;&#10;		<a>Shepherd of the Lost</a><br>4 &#10;&#10;		<a>Shimmer Myr</a><br>4 &#10;&#10;		<a>Shoal Serpent</a><br>4 &#10;&#10;		<a>Shoreline Salvager</a><br>4 &#10;&#10;		<a>Siege Mastodon</a><br>4 &#10;&#10;		<a>Signal Pest</a><br>4 &#10;&#10;		<a>Silver Myr</a><br>4 &#10;&#10;		<a>Silvercoat Lion</a><br>4 &#10;&#10;		<a>Skeletal Wurm</a><br>4 &#10;&#10;		<a>Skinrender</a><br>4 &#10;&#10;		<a>Skithiryx, the Blight Dragon</a><br>4 &#10;&#10;		<a>Skitter of Lizards</a><br>4 &#10;&#10;		<a>Sky Ruin Drake</a><br>4 &#10;&#10;		<a>Sky-Eel School</a><br>4 &#10;&#10;		<a>Skywatcher Adept</a><br>4 &#10;&#10;		<a>Slavering Nulls</a><br>4 &#10;&#10;		<a>Snapping Creeper</a><br>4 &#10;&#10;		<a>Snapsail Glider</a><br>4 &#10;&#10;		<a>Soliton</a><br>4 &#10;&#10;		<a>Soulbound Guardians</a><br>4 &#10;&#10;		<a>Soul's Attendant</a><br>4 &#10;&#10;		<a>Soulsurge Elemental</a><br>4 &#10;&#10;		<a>Spawnsire of Ulamog</a><br>4 &#10;&#10;		<a>Sphinx of Jwar Isle</a><br>4 &#10;&#10;		<a>Sphinx of Lost Truths</a><br>4 &#10;&#10;		<a>Sphinx of Magosi</a><br>4 &#10;&#10;		<a>Spikeshot Elder</a><br>4 &#10;&#10;		<a>Spin Engine</a><br>4 &#10;&#10;		<a>Spined Wurm</a><br>4 &#10;&#10;		<a>Spiraling Duelist</a><br>4 &#10;&#10;		<a>Spire Serpent</a><br>4 &#10;&#10;		<a>Sporecap Spider</a><br>4 &#10;&#10;		<a>Squadron Hawk</a><br>4 &#10;&#10;		<a>Stalwart Shield-Bearers</a><br>4 &#10;&#10;		<a>Steel Hellkite</a><br>4 &#10;&#10;		<a>Steel Overseer</a><br>4 &#10;&#10;		<a>Steppe Lynx</a><br>4 &#10;&#10;		<a>Stomper Cub</a><br>4 &#10;&#10;		<a>Stone Golem</a><br>4 &#10;&#10;		<a>Stoneforge Mystic</a><br>4 &#10;&#10;		<a>Stonework Puma</a><br>4 &#10;&#10;		<a>Stormfront Pegasus</a><br>4 &#10;&#10;		<a>Stormtide Leviathan</a><br>4 &#10;&#10;		<a>Student of Warfare</a><br>4 &#10;&#10;		<a>Summit Apes</a><br>4 &#10;&#10;		<a>Sun Titan</a><br>4 &#10;&#10;		<a>Sunblast Angel</a><br>4 &#10;&#10;		<a>Sunspear Shikari</a><br>4 &#10;&#10;		<a>Surrakar Banisher</a><br>4 &#10;&#10;		<a>Surrakar Marauder</a><br>4 &#10;&#10;		<a>Surrakar Spellblade</a><br>4 &#10;&#10;		<a>Sylvan Ranger</a><br>4 &#10;&#10;		<a>Sylvok Replica</a><br>4 &#10;&#10;		<a>Tajuru Archer</a><br>4 &#10;&#10;		<a>Tajuru Preserver</a><br>4 &#10;&#10;		<a>Talus Paladin</a><br>4 &#10;&#10;		<a>Tangle Angler</a><br>4 &#10;&#10;		<a>Tangle Hulk</a><br>4 &#10;&#10;		<a>Tangle Mantis</a><br>4 &#10;&#10;		<a>Tel-Jilad Fallen</a><br>4 &#10;&#10;		<a>Tempest Owl</a><br>4 &#10;&#10;		<a>Terastodon</a><br>4 &#10;&#10;		<a>Terra Stomper</a><br>4 &#10;&#10;		<a>Territorial Baloth</a><br>4 &#10;&#10;		<a>Thada Adel, Acquisitor</a><br>4 &#10;&#10;		<a>Thopter Assembly</a><br>4 &#10;&#10;		<a>Thought Gorger</a><br>4 &#10;&#10;		<a>Thrummingbird</a><br>4 &#10;&#10;		<a>Thrun, the Last Troll</a><br>4 &#10;&#10;		<a>Tideforce Elemental</a><br>4 &#10;&#10;		<a>Timbermaw Larva</a><br>4 &#10;&#10;		<a>Tine Shrike</a><br>4 &#10;&#10;		<a>Tireless Missionaries</a><br>4 &#10;&#10;		<a>Torch Slinger</a><br>4 &#10;&#10;		<a>Totem-Guide Hartebeest</a><br>4 &#10;&#10;		<a>Training Drone</a><br>4 &#10;&#10;		<a>Transcendent Master</a><br>4 &#10;&#10;		<a>Treasure Mage</a><br>4 &#10;&#10;		<a>Trinket Mage</a><br>4 &#10;&#10;		<a>Triskelion</a><br>4 &#10;&#10;		<a>Tuktuk Grunts</a><br>4 &#10;&#10;		<a>Tuktuk Scrapper</a><br>4 &#10;&#10;		<a>Tuktuk the Explorer</a><br>4 &#10;&#10;		<a>Tunnel Ignus</a><br>4 &#10;&#10;		<a>Turntimber Basilisk</a><br>4 &#10;&#10;		<a>Turntimber Ranger</a><br>4 &#10;&#10;		<a>Ulamog, the Infinite Gyre</a><br>4 &#10;&#10;		<a>Ulamog's Crusher</a><br>4 &#10;&#10;		<a>Umara Raptor</a><br>4 &#10;&#10;		<a>Umbra Mystic</a><br>4 &#10;&#10;		<a>Valakut Fireboar</a><br>4 &#10;&#10;		<a>Vampire Hexmage</a><br>4 &#10;&#10;		<a>Vampire Lacerator</a><br>4 &#10;&#10;		<a>Vampire Nighthawk</a><br>4 &#10;&#10;		<a>Vastwood Animist</a><br>4 &#10;&#10;		<a>Vastwood Gorger</a><br>4 &#10;&#10;		<a>Vector Asp</a><br>4 &#10;&#10;		<a>Vedalken Anatomist</a><br>4 &#10;&#10;		<a>Vedalken Certarch</a><br>4 &#10;&#10;		<a>Vedalken Infuser</a><br>4 &#10;&#10;		<a>Venerated Teacher</a><br>4 &#10;&#10;		<a>Vengeful Archon</a><br>4 &#10;&#10;		<a>Vengevine</a><br>4 &#10;&#10;		<a>Vent Sentinel</a><br>4 &#10;&#10;		<a>Victory's Herald</a><br>4 &#10;&#10;		<a>Viridian Corrupter</a><br>4 &#10;&#10;		<a>Viridian Emissary</a><br>4 &#10;&#10;		<a>Viscera Seer</a><br>4 &#10;&#10;		<a>Voyager Drake</a><br>4 &#10;&#10;		<a>Vulshok Berserker</a><br>4 &#10;&#10;		<a>Vulshok Heartstoker</a><br>4 &#10;&#10;		<a>Vulshok Replica</a><br>4 &#10;&#10;		<a>Walking Atlas</a><br>4 &#10;&#10;		<a>Wall of Frost</a><br>4 &#10;&#10;		<a>Wall of Omens</a><br>4 &#10;&#10;		<a>Wall of Tanglecord</a><br>4 &#10;&#10;		<a>Wall of Vines</a><br>4 &#10;&#10;		<a>War Priest of Thune</a><br>4 &#10;&#10;		<a>Warren Instigator</a><br>4 &#10;&#10;		<a>Water Servant</a><br>4 &#10;&#10;		<a>Welkin Tern</a><br>4 &#10;&#10;		<a>White Knight</a><br>4 &#10;&#10;		<a>Wild Griffin</a><br>4 &#10;&#10;		<a>Wildheart Invoker</a><br>4 &#10;&#10;		<a>Windrider Eel</a><br>4 &#10;&#10;		<a>Wolfbriar Elemental</a><br>4 &#10;&#10;		<a>World Queller</a><br>4 &#10;&#10;		<a>Wrexial, the Risen Deep</a><br>4 &#10;&#10;		<a>Wurmcoil Engine</a><br>4 &#10;&#10;		<a>Yavimaya Wurm</a><br>4 &#10;&#10;		<a>Zendikar Farguide</a><br>4 &#10;&#10;		<a>Zof Shade</a><br>4 &#10;&#10;		<a>Zulaport Enforcer</a><br><hr>2496 creatures<br><br></td>&#10;            <td>4 &#10;&#10;		<a>Accorder's Shield</a><br>4 &#10;&#10;		<a>Act of Treason</a><br>4 &#10;&#10;		<a>Adventuring Gear</a><br>4 &#10;&#10;		<a>Æther Tradewinds</a><br>4 &#10;&#10;		<a>Ajani Goldmane</a><br>4 &#10;&#10;		<a>Ajani's Mantra</a><br>4 &#10;&#10;		<a>All Is Dust</a><br>4 &#10;&#10;		<a>Amulet of Vigor</a><br>4 &#10;&#10;		<a>Ancient Stirrings</a><br>4 &#10;&#10;		<a>Angelheart Vial</a><br>4 &#10;&#10;		<a>Angel's Feather</a><br>4 &#10;&#10;		<a>Arc Trail</a><br>4 &#10;&#10;		<a>Archive Trap</a><br>4 &#10;&#10;		<a>Archmage Ascension</a><br>4 &#10;&#10;		<a>Argentum Armor</a><br>4 &#10;&#10;		<a>Armored Ascension</a><br>4 &#10;&#10;		<a>Arrest</a><br>4 &#10;&#10;		<a>Arrow Volley Trap</a><br>4 &#10;&#10;		<a>Asceticism</a><br>4 &#10;&#10;		<a>Assassinate</a><br>4 &#10;&#10;		<a>Assault Strobe</a><br>4 &#10;&#10;		<a>Aura Finesse</a><br>4 &#10;&#10;		<a>Autumn's Veil</a><br>4 &#10;&#10;		<a>Awakening Zone</a><br>4 &#10;&#10;		<a>Back to Nature</a><br>4 &#10;&#10;		<a>Baloth Cage Trap</a><br>4 &#10;&#10;		<a>Baneful Omen</a><br>4 &#10;&#10;		<a>Banishment Decree</a><br>4 &#10;&#10;		<a>Barbed Battlegear</a><br>4 &#10;&#10;		<a>Basilisk Collar</a><br>4 &#10;&#10;		<a>Bear Umbra</a><br>4 &#10;&#10;		<a>Beast Hunt</a><br>4 &#10;&#10;		<a>Beastmaster Ascension</a><br>4 &#10;&#10;		<a>Bestial Menace</a><br>4 &#10;&#10;		<a>Black Sun's Zenith</a><br>4 &#10;&#10;		<a>Blade of the Bloodchief</a><br>4 &#10;&#10;		<a>Bladed Pinions</a><br>4 &#10;&#10;		<a>Blazing Torch</a><br>4 &#10;&#10;		<a>Blood Tithe</a><br>4 &#10;&#10;		<a>Blood Tribute</a><br>4 &#10;&#10;		<a>Bloodchief Ascension</a><br>4 &#10;&#10;		<a>Blue Sun's Zenith</a><br>4 &#10;&#10;		<a>Blunt the Assault</a><br>4 &#10;&#10;		<a>Boar Umbra</a><br>4 &#10;&#10;		<a>Bold Defense</a><br>4 &#10;&#10;		<a>Bonds of Quicksilver</a><br>4 &#10;&#10;		<a>Bonehoard</a><br>4 &#10;&#10;		<a>Brave the Elements</a><br>4 &#10;&#10;		<a>Brink of Disaster</a><br>4 &#10;&#10;		<a>Brittle Effigy</a><br>4 &#10;&#10;		<a>Brood Birthing</a><br>4 &#10;&#10;		<a>Bull Rush</a><br>4 &#10;&#10;		<a>Burn the Impure</a><br>4 &#10;&#10;		<a>Burst Lightning</a><br>4 &#10;&#10;		<a>Call to Mind</a><br>4 &#10;&#10;		<a>Cancel</a><br>4 &#10;&#10;		<a>Canopy Cover</a><br>4 &#10;&#10;		<a>Carnage Altar</a><br>4 &#10;&#10;		<a>Carrion Call</a><br>4 &#10;&#10;		<a>Cast Through Time</a><br>4 &#10;&#10;		<a>Celestial Mantle</a><br>4 &#10;&#10;		<a>Celestial Purge</a><br>4 &#10;&#10;		<a>Cerebral Eruption</a><br>4 &#10;&#10;		<a>Chain Reaction</a><br>4 &#10;&#10;		<a>Chandra Ablaze</a><br>4 &#10;&#10;		<a>Chandra Nalaar</a><br>4 &#10;&#10;		<a>Chandra's Outrage</a><br>4 &#10;&#10;		<a>Chimeric Mass</a><br>4 &#10;&#10;		<a>Choking Fumes</a><br>4 &#10;&#10;		<a>Claws of Valakut</a><br>4 &#10;&#10;		<a>Cobra Trap</a><br>4 &#10;&#10;		<a>Combust</a><br>4 &#10;&#10;		<a>Comet Storm</a><br>4 &#10;&#10;		<a>Concussive Bolt</a><br>4 &#10;&#10;		<a>Condemn</a><br>4 &#10;&#10;		<a>Conqueror's Pledge</a><br>4 &#10;&#10;		<a>Consume the Meek</a><br>4 &#10;&#10;		<a>Consuming Vapors</a><br>4 &#10;&#10;		<a>Contagion Clasp</a><br>4 &#10;&#10;		<a>Contagion Engine</a><br>4 &#10;&#10;		<a>Contaminated Ground</a><br>4 &#10;&#10;		<a>Copper Carapace</a><br>4 &#10;&#10;		<a>Corpsehatch</a><br>4 &#10;&#10;		<a>Corrupt</a><br>4 &#10;&#10;		<a>Corrupted Conscience</a><br>4 &#10;&#10;		<a>Corrupted Zendikon</a><br>4 &#10;&#10;		<a>Crab Umbra</a><br>4 &#10;&#10;		<a>Creeping Corrosion</a><br>4 &#10;&#10;		<a>Crush</a><br>4 &#10;&#10;		<a>Crusher Zendikon</a><br>4 &#10;&#10;		<a>Crystal Ball</a><br>4 &#10;&#10;		<a>Culling Dais</a><br>4 &#10;&#10;		<a>Cultivate</a><br>4 &#10;&#10;		<a>Curse of Wizardry</a><br>4 &#10;&#10;		<a>Dark Tutelage</a><br>4 &#10;&#10;		<a>Darksteel Axe</a><br>4 &#10;&#10;		<a>Darksteel Plate</a><br>4 &#10;&#10;		<a>Day of Judgment</a><br>4 &#10;&#10;		<a>Dead Reckoning</a><br>4 &#10;&#10;		<a>Deathmark</a><br>4 &#10;&#10;		<a>Decimator Web</a><br>4 &#10;&#10;		<a>Demolish</a><br>4 &#10;&#10;		<a>Demonic Appetite</a><br>4 &#10;&#10;		<a>Demon's Horn</a><br>4 &#10;&#10;		<a>Demystify</a><br>4 &#10;&#10;		<a>Deprive</a><br>4 &#10;&#10;		<a>Desecrated Earth</a><br>4 &#10;&#10;		<a>Destructive Force</a><br>4 &#10;&#10;		<a>Devastating Summons</a><br>4 &#10;&#10;		<a>Diabolic Tutor</a><br>4 &#10;&#10;		<a>Diminish</a><br>4 &#10;&#10;		<a>Disaster Radius</a><br>4 &#10;&#10;		<a>Disentomb</a><br>4 &#10;&#10;		<a>Disfigure</a><br>4 &#10;&#10;		<a>Dispel</a><br>4 &#10;&#10;		<a>Dispense Justice</a><br>4 &#10;&#10;		<a>Disperse</a><br>4 &#10;&#10;		<a>Dissipation Field</a><br>4 &#10;&#10;		<a>Distant Memories</a><br>4 &#10;&#10;		<a>Distortion Strike</a><br>4 &#10;&#10;		<a>Divine Offering</a><br>4 &#10;&#10;		<a>Domestication</a><br>4 &#10;&#10;		<a>Doom Blade</a><br>4 &#10;&#10;		<a>Dragon's Claw</a><br>4 &#10;&#10;		<a>Drake Umbra</a><br>4 &#10;&#10;		<a>Dreamstone Hedron</a><br>4 &#10;&#10;		<a>Dryad's Favor</a><br>4 &#10;&#10;		<a>Duress</a><br>4 &#10;&#10;		<a>Echo Circlet</a><br>4 &#10;&#10;		<a>Eel Umbra</a><br>4 &#10;&#10;		<a>Eland Umbra</a><br>4 &#10;&#10;		<a>Eldrazi Conscription</a><br>4 &#10;&#10;		<a>Eldrazi Monument</a><br>4 &#10;&#10;		<a>Electropotence</a><br>4 &#10;&#10;		<a>Elemental Appeal</a><br>4 &#10;&#10;		<a>Elixir of Immortality</a><br>4 &#10;&#10;		<a>Elspeth Tirel</a><br>4 &#10;&#10;		<a>Emerge Unscathed</a><br>4 &#10;&#10;		<a>Essence Feed</a><br>4 &#10;&#10;		<a>Eternity Vessel</a><br>4 &#10;&#10;		<a>Everflowing Chalice</a><br>4 &#10;&#10;		<a>Excommunicate</a><br>4 &#10;&#10;		<a>Expedition Map</a><br>4 &#10;&#10;		<a>Explore</a><br>4 &#10;&#10;		<a>Explorer's Scope</a><br>4 &#10;&#10;		<a>Explosive Revelation</a><br>4 &#10;&#10;		<a>Exsanguinate</a><br>4 &#10;&#10;		<a>Feast of Blood</a><br>4 &#10;&#10;		<a>Feral Contest</a><br>4 &#10;&#10;		<a>Fireball</a><br>4 &#10;&#10;		<a>Fissure Vent</a><br>4 &#10;&#10;		<a>Flame Slash</a><br>4 &#10;&#10;		<a>Flashfreeze</a><br>4 &#10;&#10;		<a>Flayer Husk</a><br>4 &#10;&#10;		<a>Fleeting Distraction</a><br>4 &#10;&#10;		<a>Flesh Allergy</a><br>4 &#10;&#10;		<a>Flight Spellbomb</a><br>4 &#10;&#10;		<a>Fling</a><br>4 &#10;&#10;		<a>Fog</a><br>4 &#10;&#10;		<a>Foresee</a><br>4 &#10;&#10;		<a>Forked Bolt</a><br>4 &#10;&#10;		<a>Frantic Salvage</a><br>4 &#10;&#10;		<a>Fuel for the Cause</a><br>4 &#10;&#10;		<a>Fulgent Distraction</a><br>4 &#10;&#10;		<a>Furnace Celebration</a><br>4 &#10;&#10;		<a>Galvanic Blast</a><br>4 &#10;&#10;		<a>Garruk Wildspeaker</a><br>4 &#10;&#10;		<a>Gelatinous Genesis</a><br>4 &#10;&#10;		<a>Genesis Wave</a><br>4 &#10;&#10;		<a>Giant Growth</a><br>4 &#10;&#10;		<a>Gideon Jura</a><br>4 &#10;&#10;		<a>Gigantiform</a><br>4 &#10;&#10;		<a>Glint Hawk Idol</a><br>4 &#10;&#10;		<a>Go for the Throat</a><br>4 &#10;&#10;		<a>Goblin War Paint</a><br>4 &#10;&#10;		<a>Golden Urn</a><br>4 &#10;&#10;		<a>Golem Foundry</a><br>4 &#10;&#10;		<a>Golem's Heart</a><br>4 &#10;&#10;		<a>Grafted Exoskeleton</a><br>4 &#10;&#10;		<a>Grappling Hook</a><br>4 &#10;&#10;		<a>Grasp of Darkness</a><br>4 &#10;&#10;		<a>Gravitational Shift</a><br>4 &#10;&#10;		<a>Gravity Well</a><br>4 &#10;&#10;		<a>Green Sun's Zenith</a><br>4 &#10;&#10;		<a>Grim Discovery</a><br>4 &#10;&#10;		<a>Grindclock</a><br>4 &#10;&#10;		<a>Groundswell</a><br>4 &#10;&#10;		<a>Growth Spasm</a><br>4 &#10;&#10;		<a>Gruesome Encore</a><br>4 &#10;&#10;		<a>Guard Duty</a><br>4 &#10;&#10;		<a>Guardian Zendikon</a><br>4 &#10;&#10;		<a>Halt Order</a><br>4 &#10;&#10;		<a>Hammer of Ruin</a><br>4 &#10;&#10;		<a>Harmless Assault</a><br>4 &#10;&#10;		<a>Harrow</a><br>4 &#10;&#10;		<a>Haunting Echoes</a><br>4 &#10;&#10;		<a>Heat Ray</a><br>4 &#10;&#10;		<a>Heavy Arbalest</a><br>4 &#10;&#10;		<a>Hedron Matrix</a><br>4 &#10;&#10;		<a>Hellion Eruption</a><br>4 &#10;&#10;		<a>Hideous End</a><br>4 &#10;&#10;		<a>Holy Strength</a><br>4 &#10;&#10;		<a>Honor of the Pure</a><br>4 &#10;&#10;		<a>Horizon Spellbomb</a><br>4 &#10;&#10;		<a>Hornet Sting</a><br>4 &#10;&#10;		<a>Horrifying Revelation</a><br>4 &#10;&#10;		<a>Hunters' Feast</a><br>4 &#10;&#10;		<a>Hyena Umbra</a><br>4 &#10;&#10;		<a>Ice Cage</a><br>4 &#10;&#10;		<a>Ichor Wellspring</a><br>4 &#10;&#10;		<a>Incite</a><br>4 &#10;&#10;		<a>Induce Despair</a><br>4 &#10;&#10;		<a>Inexorable Tide</a><br>4 &#10;&#10;		<a>Inferno Trap</a><br>4 &#10;&#10;		<a>Infiltration Lens</a><br>4 &#10;&#10;		<a>Inquisition of Kozilek</a><br>4 &#10;&#10;		<a>Inspired Charge</a><br>4 &#10;&#10;		<a>Instill Infection</a><br>4 &#10;&#10;		<a>Into the Core</a><br>4 &#10;&#10;		<a>Into the Roil</a><br>4 &#10;&#10;		<a>Iona's Judgment</a><br>4 &#10;&#10;		<a>Ior Ruin Expedition</a><br>4 &#10;&#10;		<a>Irresistible Prey</a><br>4 &#10;&#10;		<a>Jace Beleren</a><br>4 &#10;&#10;		<a>Jace, the Mind Sculptor</a><br>4 &#10;&#10;		<a>Jace's Erasure</a><br>4 &#10;&#10;		<a>Jace's Ingenuity</a><br>4 &#10;&#10;		<a>Jinxed Idol</a><br>4 &#10;&#10;		<a>Join the Ranks</a><br>4 &#10;&#10;		<a>Journey to Nowhere</a><br>4 &#10;&#10;		<a>Keening Stone</a><br>4 &#10;&#10;		<a>Khalni Gem</a><br>4 &#10;&#10;		<a>Khalni Heart Expedition</a><br>4 &#10;&#10;		<a>Kitesail</a><br>4 &#10;&#10;		<a>Knowledge Pool</a><br>4 &#10;&#10;		<a>Koth of the Hammer</a><br>4 &#10;&#10;		<a>Kraken's Eye</a><br>4 &#10;&#10;		<a>Kuldotha Rebirth</a><br>4 &#10;&#10;		<a>Landbind Ritual</a><br>4 &#10;&#10;		<a>Last Kiss</a><br>4 &#10;&#10;		<a>Lava Axe</a><br>4 &#10;&#10;		<a>Lavaball Trap</a><br>4 &#10;&#10;		<a>Lay Bare</a><br>4 &#10;&#10;		<a>Lead the Stampede</a><br>4 &#10;&#10;		<a>Leaf Arrow</a><br>4 &#10;&#10;		<a>Lethargy Trap</a><br>4 &#10;&#10;		<a>Leyline of Anticipation</a><br>4 &#10;&#10;		<a>Leyline of Punishment</a><br>4 &#10;&#10;		<a>Leyline of Sanctity</a><br>4 &#10;&#10;		<a>Leyline of the Void</a><br>4 &#10;&#10;		<a>Leyline of Vitality</a><br>4 &#10;&#10;		<a>Lightmine Field</a><br>4 &#10;&#10;		<a>Lightning Bolt</a><br>4 &#10;&#10;		<a>Liliana Vess</a><br>4 &#10;&#10;		<a>Liliana's Caress</a><br>4 &#10;&#10;		<a>Liquimetal Coating</a><br>4 &#10;&#10;		<a>Livewire Lash</a><br>4 &#10;&#10;		<a>Living Destiny</a><br>4 &#10;&#10;		<a>Luminarch Ascension</a><br>4 &#10;&#10;		<a>Luminous Wake</a><br>4 &#10;&#10;		<a>Lust for War</a><br>4 &#10;&#10;		<a>Lux Cannon</a><br>4 &#10;&#10;		<a>Magma Rift</a><br>4 &#10;&#10;		<a>Magnetic Mine</a><br>4 &#10;&#10;		<a>Mammoth Umbra</a><br>4 &#10;&#10;		<a>Mana Leak</a><br>4 &#10;&#10;		<a>Mark of Mutiny</a><br>4 &#10;&#10;		<a>Marsh Casualties</a><br>4 &#10;&#10;		<a>Marshal's Anthem</a><br>4 &#10;&#10;		<a>Mass Polymorph</a><br>4 &#10;&#10;		<a>Master's Call</a><br>4 &#10;&#10;		<a>Melt Terrain</a><br>4 &#10;&#10;		<a>Memoricide</a><br>4 &#10;&#10;		<a>Metallic Mastery</a><br>4 &#10;&#10;		<a>Might of the Masses</a><br>4 &#10;&#10;		<a>Mighty Leap</a><br>4 &#10;&#10;		<a>Mimic Vat</a><br>4 &#10;&#10;		<a>Mind Control</a><br>4 &#10;&#10;		<a>Mind Rot</a><br>4 &#10;&#10;		<a>Mind Sludge</a><br>4 &#10;&#10;		<a>Mindbreak Trap</a><br>4 &#10;&#10;		<a>Mindslaver</a><br>4 &#10;&#10;		<a>Mire Blight</a><br>4 &#10;&#10;		<a>Mire's Toll</a><br>4 &#10;&#10;		<a>Mirran Mettle</a><br>4 &#10;&#10;		<a>Mirrorworks</a><br>4 &#10;&#10;		<a>Mitotic Manipulation</a><br>4 &#10;&#10;		<a>Molten Psyche</a><br>4 &#10;&#10;		<a>Momentous Fall</a><br>4 &#10;&#10;		<a>Morbid Plunder</a><br>4 &#10;&#10;		<a>Mortarpod</a><br>4 &#10;&#10;		<a>Mox Opal</a><br>4 &#10;&#10;		<a>Myr Reservoir</a><br>4 &#10;&#10;		<a>Myr Turbine</a><br>4 &#10;&#10;		<a>Mysteries of the Deep</a><br>4 &#10;&#10;		<a>Narcolepsy</a><br>4 &#10;&#10;		<a>Narrow Escape</a><br>4 &#10;&#10;		<a>Naturalize</a><br>4 &#10;&#10;		<a>Nature's Claim</a><br>4 &#10;&#10;		<a>Nature's Spiral</a><br>4 &#10;&#10;		<a>Near-Death Experience</a><br>4 &#10;&#10;		<a>Necrogen Censer</a><br>4 &#10;&#10;		<a>Necrotic Plague</a><br>4 &#10;&#10;		<a>Needlebite Trap</a><br>4 &#10;&#10;		<a>Negate</a><br>4 &#10;&#10;		<a>Nemesis Trap</a><br>4 &#10;&#10;		<a>Nighthaze</a><br>4 &#10;&#10;		<a>Nihil Spellbomb</a><br>4 &#10;&#10;		<a>Nim Deathmantle</a><br>4 &#10;&#10;		<a>Nimbus Wings</a><br>4 &#10;&#10;		<a>Nissa Revane</a><br>4 &#10;&#10;		<a>Nomads' Assembly</a><br>4 &#10;&#10;		<a>Not of This World</a><br>4 &#10;&#10;		<a>Ogre's Cleaver</a><br>4 &#10;&#10;		<a>Origin Spellbomb</a><br>4 &#10;&#10;		<a>Oust</a><br>4 &#10;&#10;		<a>Overwhelming Stampede</a><br>4 &#10;&#10;		<a>Pacifism</a><br>4 &#10;&#10;		<a>Painful Quandary</a><br>4 &#10;&#10;		<a>Panic Spellbomb</a><br>4 &#10;&#10;		<a>Paralyzing Grasp</a><br>4 &#10;&#10;		<a>Pennon Blade</a><br>4 &#10;&#10;		<a>Perish the Thought</a><br>4 &#10;&#10;		<a>Permafrost Trap</a><br>4 &#10;&#10;		<a>Phyresis</a><br>4 &#10;&#10;		<a>Phyrexian Rebirth</a><br>4 &#10;&#10;		<a>Piston Sledge</a><br>4 &#10;&#10;		<a>Pistus Strike</a><br>4 &#10;&#10;		<a>Pitfall Trap</a><br>4 &#10;&#10;		<a>Plummet</a><br>4 &#10;&#10;		<a>Praetor's Counsel</a><br>4 &#10;&#10;		<a>Predatory Urge</a><br>4 &#10;&#10;		<a>Preordain</a><br>4 &#10;&#10;		<a>Prey's Vengeance</a><br>4 &#10;&#10;		<a>Primal Bellow</a><br>4 &#10;&#10;		<a>Primal Cocoon</a><br>4 &#10;&#10;		<a>Prophetic Prism</a><br>4 &#10;&#10;		<a>Prototype Portal</a><br>4 &#10;&#10;		<a>Psychic Miasma</a><br>4 &#10;&#10;		<a>Puncturing Light</a><br>4 &#10;&#10;		<a>Punishing Fire</a><br>4 &#10;&#10;		<a>Pyretic Ritual</a><br>4 &#10;&#10;		<a>Pyroclasm</a><br>4 &#10;&#10;		<a>Pyromancer Ascension</a><br>4 &#10;&#10;		<a>Quag Sickness</a><br>4 &#10;&#10;		<a>Quest for Ancient Secrets</a><br>4 &#10;&#10;		<a>Quest for Pure Flame</a><br>4 &#10;&#10;		<a>Quest for Renewal</a><br>4 &#10;&#10;		<a>Quest for the Gemblades</a><br>4 &#10;&#10;		<a>Quest for the Goblin Lord</a><br>4 &#10;&#10;		<a>Quest for the Gravelord</a><br>4 &#10;&#10;		<a>Quest for the Holy Relic</a><br>4 &#10;&#10;		<a>Quest for the Nihil Stone</a><br>4 &#10;&#10;		<a>Quest for Ula's Temple</a><br>4 &#10;&#10;		<a>Quicksilver Geyser</a><br>4 &#10;&#10;		<a>Raid Bombardment</a><br>4 &#10;&#10;		<a>Rally the Forces</a><br>4 &#10;&#10;		<a>Ratchet Bomb</a><br>4 &#10;&#10;		<a>Ravenous Trap</a><br>4 &#10;&#10;		<a>Razor Boomerang</a><br>4 &#10;&#10;		<a>Reality Spasm</a><br>4 &#10;&#10;		<a>Realms Uncharted</a><br>4 &#10;&#10;		<a>Recurring Insight</a><br>4 &#10;&#10;		<a>Red Sun's Zenith</a><br>4 &#10;&#10;		<a>Redirect</a><br>4 &#10;&#10;		<a>Refraction Trap</a><br>4 &#10;&#10;		<a>Regress</a><br>4 &#10;&#10;		<a>Relic Crush</a><br>4 &#10;&#10;		<a>Relic Putrescence</a><br>4 &#10;&#10;		<a>Repay in Kind</a><br>4 &#10;&#10;		<a>Repel the Darkness</a><br>4 &#10;&#10;		<a>Rest for the Weary</a><br>4 &#10;&#10;		<a>Reverberate</a><br>4 &#10;&#10;		<a>Revoke Existence</a><br>4 &#10;&#10;		<a>Ricochet Trap</a><br>4 &#10;&#10;		<a>Rise from the Grave</a><br>4 &#10;&#10;		<a>Rite of Replication</a><br>4 &#10;&#10;		<a>Roiling Terrain</a><br>4 &#10;&#10;		<a>Rumbling Aftershocks</a><br>4 &#10;&#10;		<a>Runeflare Trap</a><br>4 &#10;&#10;		<a>Rusted Relic</a><br>4 &#10;&#10;		<a>Sadistic Sacrament</a><br>4 &#10;&#10;		<a>Safe Passage</a><br>4 &#10;&#10;		<a>Sarkhan the Mad</a><br>4 &#10;&#10;		<a>Savage Silhouette</a><br>4 &#10;&#10;		<a>Searing Blaze</a><br>4 &#10;&#10;		<a>See Beyond</a><br>4 &#10;&#10;		<a>Seer's Sundial</a><br>4 &#10;&#10;		<a>Seismic Shudder</a><br>4 &#10;&#10;		<a>Seize the Initiative</a><br>4 &#10;&#10;		<a>Selective Memory</a><br>4 &#10;&#10;		<a>Semblance Anvil</a><br>4 &#10;&#10;		<a>Shape Anew</a><br>4 &#10;&#10;		<a>Shared Discovery</a><br>4 &#10;&#10;		<a>Shatter</a><br>4 &#10;&#10;		<a>Shieldmate's Blessing</a><br>4 &#10;&#10;		<a>Shiv's Embrace</a><br>4 &#10;&#10;		<a>Shriekhorn</a><br>4 &#10;&#10;		<a>Shrivel</a><br>4 &#10;&#10;		<a>Sign in Blood</a><br>4 &#10;&#10;		<a>Silence</a><br>4 &#10;&#10;		<a>Silverskin Armor</a><br>4 &#10;&#10;		<a>Skinwing</a><br>4 &#10;&#10;		<a>Skittering Invasion</a><br>4 &#10;&#10;		<a>Slagstorm</a><br>4 &#10;&#10;		<a>Slaughter Cry</a><br>4 &#10;&#10;		<a>Sleep</a><br>4 &#10;&#10;		<a>Slice in Twain</a><br>4 &#10;&#10;		<a>Slingbow Trap</a><br>4 &#10;&#10;		<a>Smite</a><br>4 &#10;&#10;		<a>Smother</a><br>4 &#10;&#10;		<a>Snake Umbra</a><br>4 &#10;&#10;		<a>Solemn Offering</a><br>4 &#10;&#10;		<a>Sorcerer's Strongbox</a><br>4 &#10;&#10;		<a>Sorin Markov</a><br>4 &#10;&#10;		<a>Soul Parry</a><br>4 &#10;&#10;		<a>Soul Stair Expedition</a><br>4 &#10;&#10;		<a>Spawning Breath</a><br>4 &#10;&#10;		<a>Spell Contortion</a><br>4 &#10;&#10;		<a>Spell Pierce</a><br>4 &#10;&#10;		<a>Sphere of the Suns</a><br>4 &#10;&#10;		<a>Sphinx-Bone Wand</a><br>4 &#10;&#10;		<a>Spider Umbra</a><br>4 &#10;&#10;		<a>Spidersilk Net</a><br>4 &#10;&#10;		<a>Spine of Ish Sah</a><br>4 &#10;&#10;		<a>Spire Barrage</a><br>4 &#10;&#10;		<a>Splinter Twin</a><br>4 &#10;&#10;		<a>Spread the Sickness</a><br>4 &#10;&#10;		<a>Spreading Seas</a><br>4 &#10;&#10;		<a>Stabbing Pain</a><br>4 &#10;&#10;		<a>Staggershock</a><br>4 &#10;&#10;		<a>Steady Progress</a><br>4 &#10;&#10;		<a>Steel Sabotage</a><br>4 &#10;&#10;		<a>Stoic Rebuttal</a><br>4 &#10;&#10;		<a>Stone Idol Trap</a><br>4 &#10;&#10;		<a>Strandwalker</a><br>4 &#10;&#10;		<a>Strata Scythe</a><br>4 &#10;&#10;		<a>Strength of the Tajuru</a><br>4 &#10;&#10;		<a>Strider Harness</a><br>4 &#10;&#10;		<a>Suffer the Past</a><br>4 &#10;&#10;		<a>Summoner's Bane</a><br>4 &#10;&#10;		<a>Summoning Trap</a><br>4 &#10;&#10;		<a>Sunspring Expedition</a><br>4 &#10;&#10;		<a>Surreal Memoir</a><br>4 &#10;&#10;		<a>Survival Cache</a><br>4 &#10;&#10;		<a>Sword of Body and Mind</a><br>4 &#10;&#10;		<a>Sword of Feast and Famine</a><br>4 &#10;&#10;		<a>Sword of Vengeance</a><br>4 &#10;&#10;		<a>Sylvok Lifestaff</a><br>4 &#10;&#10;		<a>Tainted Strike</a><br>4 &#10;&#10;		<a>Tanglesap</a><br>4 &#10;&#10;		<a>Tel-Jilad Defiance</a><br>4 &#10;&#10;		<a>Tempered Steel</a><br>4 &#10;&#10;		<a>Temple Bell</a><br>4 &#10;&#10;		<a>Terra Eternal</a><br>4 &#10;&#10;		<a>Tezzeret, Agent of Bolas</a><br>4 &#10;&#10;		<a>Throne of Geth</a><br>4 &#10;&#10;		<a>Thunder Strike</a><br>4 &#10;&#10;		<a>Time of Heroes</a><br>4 &#10;&#10;		<a>Time Reversal</a><br>4 &#10;&#10;		<a>Titan Forge</a><br>4 &#10;&#10;		<a>Tomb Hex</a><br>4 &#10;&#10;		<a>Tome Scour</a><br>4 &#10;&#10;		<a>Tower of Calamities</a><br>4 &#10;&#10;		<a>Trailblazer's Boots</a><br>4 &#10;&#10;		<a>Training Grounds</a><br>4 &#10;&#10;		<a>Traitorous Instinct</a><br>4 &#10;&#10;		<a>Trapfinder's Trick</a><br>4 &#10;&#10;		<a>Trapmaker's Snare</a><br>4 &#10;&#10;		<a>Traumatize</a><br>4 &#10;&#10;		<a>Treasure Hunt</a><br>4 &#10;&#10;		<a>Trigon of Corruption</a><br>4 &#10;&#10;		<a>Trigon of Infestation</a><br>4 &#10;&#10;		<a>Trigon of Mending</a><br>4 &#10;&#10;		<a>Trigon of Rage</a><br>4 &#10;&#10;		<a>Trigon of Thought</a><br>4 &#10;&#10;		<a>True Conviction</a><br>4 &#10;&#10;		<a>Trusty Machete</a><br>4 &#10;&#10;		<a>Tumble Magnet</a><br>4 &#10;&#10;		<a>Turn Aside</a><br>4 &#10;&#10;		<a>Turn the Tide</a><br>4 &#10;&#10;		<a>Turn to Slag</a><br>4 &#10;&#10;		<a>Twisted Image</a><br>4 &#10;&#10;		<a>Twitch</a><br>4 &#10;&#10;		<a>Unholy Strength</a><br>4 &#10;&#10;		<a>Unified Will</a><br>4 &#10;&#10;		<a>Unnatural Predation</a><br>4 &#10;&#10;		<a>Unstable Footing</a><br>4 &#10;&#10;		<a>Unsummon</a><br>4 &#10;&#10;		<a>Untamed Might</a><br>4 &#10;&#10;		<a>Urge to Feed</a><br>4 &#10;&#10;		<a>Vampire's Bite</a><br>4 &#10;&#10;		<a>Vapor Snare</a><br>4 &#10;&#10;		<a>Vastwood Zendikon</a><br>4 &#10;&#10;		<a>Vault Skyward</a><br>4 &#10;&#10;		<a>Vendetta</a><br>4 &#10;&#10;		<a>Venser, the Sojourner</a><br>4 &#10;&#10;		<a>Venser's Journal</a><br>4 &#10;&#10;		<a>Veteran's Reflexes</a><br>4 &#10;&#10;		<a>Vigil for the Lost</a><br>4 &#10;&#10;		<a>Vines of Vastwood</a><br>4 &#10;&#10;		<a>Viridian Claw</a><br>4 &#10;&#10;		<a>Viridian Revel</a><br>4 &#10;&#10;		<a>Virulent Swipe</a><br>4 &#10;&#10;		<a>Virulent Wound</a><br>4 &#10;&#10;		<a>Vivisection</a><br>4 &#10;&#10;		<a>Volcanic Strength</a><br>4 &#10;&#10;		<a>Volition Reins</a><br>4 &#10;&#10;		<a>Voltaic Key</a><br>4 &#10;&#10;		<a>Warlord's Axe</a><br>4 &#10;&#10;		<a>Warmonger's Chariot</a><br>4 &#10;&#10;		<a>Whiplash Trap</a><br>4 &#10;&#10;		<a>Whispersilk Cloak</a><br>4 &#10;&#10;		<a>White Sun's Zenith</a><br>4 &#10;&#10;		<a>Whitesun's Passage</a><br>4 &#10;&#10;		<a>Wild Evocation</a><br>4 &#10;&#10;		<a>Wind Zendikon</a><br>4 &#10;&#10;		<a>Windborne Charge</a><br>4 &#10;&#10;		<a>Wing Puncture</a><br>4 &#10;&#10;		<a>Withstand Death</a><br>4 &#10;&#10;		<a>World at War</a><br>4 &#10;&#10;		<a>Wrap in Flames</a><br>4 &#10;&#10;		<a>Wurm's Tooth</a><br>4 &#10;&#10;		<a>Zektar Shrine Expedition</a><br><hr>2096 other spells<br><br></td>&#10;            <td>&#10;              <div>&#10;                &#10;              </div>&#10;              <div>&#10;            </div></td>&#10;          </tr>&#10;        </tbody></table>
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?size=small&multiverseid=10100000&type=card) 
+
+  
+ 
+
+  
+
+Looking to play the very best cards in Standard? Here's a deck that doesn't just attack the metagame—it is the metagame! It's the only deck that's 100% guaranteed to include all the best cards in the Standard format. ( **MagicTheGathering.com** is not responsible for any penalties and/or injuries that result from registering, playing, or carrying this deck. Remember, lift with the knees!)

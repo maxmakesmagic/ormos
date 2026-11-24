@@ -1,0 +1,47 @@
+---
+id: kdnwxnfm
+kind: event
+lang: en
+path: /en/articles/event-coverage/2004/11-12-live-coverage-of-2004-grand-prix-brisbane-6
+title: Live Coverage of 2004 Grand Prix Brisbane
+published: '2004-11-12'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/live-coverage-2004-grand-prix-brisbane-2004-11-12-5
+    lang_detected: en
+    capture_id: 444072
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/live-coverage-2004-grand-prix-brisbane-2004-11-12-5
+    captured_at: '2022-08-13 09:21:28+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/live-coverage-2004-grand-prix-brisbane-2004-11-12-5
+    lang_detected: en
+    capture_id: 444072
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/live-coverage-2004-grand-prix-brisbane-2004-11-12-5
+    captured_at: '2022-08-13 09:21:28+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: kdnwxnfm
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/live-coverage-2004-grand-prix-brisbane-2004-11-12-5
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/live-coverage-2004-grand-prix-brisbane-2004-11-12-5
+  lang: en
+  template: drupal
+  captured_at: '2022-08-13 09:21:28+00'
+  capture_id: 444072
+  wayback_url: https://web.archive.org/web/20220813092128id_/https://magic.wizards.com/en/articles/archive/event-coverage/live-coverage-2004-grand-prix-brisbane-2004-11-12-5
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: kdnwxnfm
+  capture_id: 444072
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/live-coverage-2004-grand-prix-brisbane-2004-11-12-5
+  wayback_url: https://web.archive.org/web/20220813092128id_/https://magic.wizards.com/en/articles/archive/event-coverage/live-coverage-2004-grand-prix-brisbane-2004-11-12-5
+  captured_at: '2022-08-13 09:21:28+00'
+  template: drupal
+  sha256: 42cd2ce142755d8af974e394c6b3eda25733cf10358a28877d3f5525f35686c3
+render_recovery: []
+---
+<table><tbody><tr><td><b>Active Players round 1</b></td></tr><tr><td>Aitchison, Christopher</td></tr><tr><td>Allen, Chris</td></tr><tr><td>Altmann, Darrel</td></tr><tr><td>Anderson, Lee</td></tr><tr><td>Anthon, Matthew</td></tr><tr><td>Armstrong, Matthew</td></tr><tr><td>Baberowski, Huxley</td></tr><tr><td>Bagnall, Luke</td></tr><tr><td>Bandas, Jim</td></tr><tr><td>Barlow, Glenn</td></tr><tr><td>Barlow, Scott</td></tr><tr><td>Batum, Paul</td></tr><tr><td>Bennett, Ingrid</td></tr><tr><td>Benson, Max</td></tr><tr><td>Breakey, Hugh</td></tr><tr><td>Bright, Jarrod</td></tr><tr><td>Brown-santirso, Julian</td></tr><tr><td>Brumby, Gene</td></tr><tr><td>Burgess, William</td></tr><tr><td>Burke, Chris</td></tr><tr><td>Burrowes, Alex</td></tr><tr><td>Caley, Dan</td></tr><tr><td>Campbell, David</td></tr><tr><td>Cao, Yang</td></tr><tr><td>Cargill, James</td></tr><tr><td>Carpenter, Liam</td></tr><tr><td>Caynes, Albert</td></tr><tr><td>Chang, Enchante Shawn</td></tr><tr><td>Chen, Cameron</td></tr><tr><td>Chin Quan, Audrey</td></tr><tr><td>Chonka, Dwaine</td></tr><tr><td>Cockburn, Brett</td></tr><tr><td>Collis, Barrie</td></tr><tr><td>Constable, Lisa</td></tr><tr><td>Copeman, Will</td></tr><tr><td>Copus, Lee</td></tr><tr><td>Cornford, David Stephen</td></tr><tr><td>Cottrell, Jamie</td></tr><tr><td>Crewe, David</td></tr><tr><td>Croeser, Daniel</td></tr><tr><td>Crompton, Neil</td></tr><tr><td>Cuff, Andrew</td></tr><tr><td>Curran, Chris</td></tr><tr><td>dack, tyrone</td></tr><tr><td>Dadon, Jerome</td></tr><tr><td>Dalliston, Shane</td></tr><tr><td>Dang, David</td></tr><tr><td>Darvall, Steve</td></tr><tr><td>Davey, Bruce</td></tr><tr><td>Davey, Philip</td></tr><tr><td>davidson, carl</td></tr><tr><td>Denz, John</td></tr><tr><td>Dougall, Craig</td></tr><tr><td>Downs, Samuel</td></tr><tr><td>Duff, Stuart</td></tr><tr><td>Dunphy, Adam</td></tr><tr><td>Emerson, Mathew</td></tr><tr><td>Evans, Merlyn</td></tr><tr><td>Eveans, Amanda</td></tr><tr><td>Eyre, Shayne</td></tr><tr><td>Farrelly, Paul</td></tr><tr><td>Fleming, Ben</td></tr><tr><td>Fleming, Kris</td></tr><tr><td>Flores, Michael</td></tr><tr><td>Foggin, Chris</td></tr><tr><td>Gain, Jason</td></tr><tr><td>Gardner, Brint</td></tr><tr><td>Geertsen, Svend</td></tr><tr><td>Goding, Kris</td></tr><tr><td>Gordon, Andrew</td></tr><tr><td>Graham, Connor</td></tr><tr><td>Graham, Henry</td></tr><tr><td>Grain, Andrew</td></tr><tr><td>Gration, Luke</td></tr><tr><td>grove, kevin</td></tr><tr><td>Grunske, Lars</td></tr><tr><td>Gurney, Traci</td></tr><tr><td>Ha, Ton</td></tr><tr><td>Haddy, Tom</td></tr><tr><td>Hadwen, Johnathan</td></tr><tr><td>Hamilton, Berren</td></tr><tr><td>Harlow, Celina</td></tr><tr><td>Harpe, Warren</td></tr><tr><td>harris, colin</td></tr><tr><td>Hawkins, Jadon</td></tr><tr><td>Hay, Tom</td></tr><tr><td>Hayward, Shaun</td></tr><tr><td>He, Tim</td></tr><tr><td>Henderson, Jack</td></tr><tr><td>Henry, Simon</td></tr><tr><td>Hill, Corey</td></tr><tr><td>Hinchy, Michael</td></tr><tr><td>Hindsley, Shawn</td></tr><tr><td>Hinz, Levi</td></tr><tr><td>Hodges, Marcus</td></tr><tr><td>Holmes, Thomas</td></tr><tr><td>Hood, Eric</td></tr><tr><td>Hughes, Peter</td></tr><tr><td>Hunstad, Scott</td></tr><tr><td>Hutchinson, Val</td></tr><tr><td>Ibamoto, Masami</td></tr><tr><td>Jiang, Shun</td></tr><tr><td>Johnston, Richard</td></tr><tr><td>Karc, Robert</td></tr><tr><td>Kelly, John-Paul</td></tr><tr><td>Kiesanowski, Cody</td></tr><tr><td>King, Joshua</td></tr><tr><td>Kneebone, Brad</td></tr><tr><td>Kwan, Chris</td></tr><tr><td>Kwang, Sam</td></tr><tr><td>Lake, Garth</td></tr><tr><td>lappin, sean</td></tr><tr><td>Lawler, Matthew</td></tr><tr><td>Lawrence, Andrew</td></tr><tr><td>Lee, Charles</td></tr><tr><td>Lee, Eric</td></tr><tr><td>Lee, SangRyeol</td></tr><tr><td>Lee, Sung-Bum</td></tr><tr><td>Lewis, Tristan</td></tr><tr><td>Leyden, Scott</td></tr><tr><td>li, Kelvin</td></tr><tr><td>Light, Jens</td></tr><tr><td>Lightfoot, Anatoli</td></tr><tr><td>Lo, Dominic</td></tr><tr><td>Mcarthur, Jason</td></tr><tr><td>McIntosh, Seth</td></tr><tr><td>McIntyre, James</td></tr><tr><td>McLeod, Breccan</td></tr><tr><td>McPherson, Scott</td></tr><tr><td>Melbourne, Colin</td></tr><tr><td>Michel, Ryan</td></tr><tr><td>Miller, Roger</td></tr><tr><td>Ng, Desmond</td></tr><tr><td>Nguyen, Early</td></tr><tr><td>Nimwegan, Brendan</td></tr><tr><td>Nolan, David</td></tr><tr><td>Nolan, Tim</td></tr><tr><td>Otton, Kieren</td></tr><tr><td>Pargeter, Alan</td></tr><tr><td>Paroz, Tim</td></tr><tr><td>Parry, Mel</td></tr><tr><td>Pepper, Patrick</td></tr><tr><td>Petersen, Colin</td></tr><tr><td>Petty, Scott</td></tr><tr><td>Pham, Hieu</td></tr><tr><td>Pickering, Peter</td></tr><tr><td>Piechnick, Daniel</td></tr><tr><td>Pirie, James</td></tr><tr><td>Pohlman, Peter</td></tr><tr><td>Polk, Jason</td></tr><tr><td>Purdom, Anthony</td></tr><tr><td>Raslan, Anwar</td></tr><tr><td>Restel, Sven</td></tr><tr><td>Richards, Scott</td></tr><tr><td>Ricks, Alexander</td></tr><tr><td>Roberts, Neil</td></tr><tr><td>Romans, Gregory</td></tr><tr><td>Royle, Ian</td></tr><tr><td>Saitou, Tomoharu</td></tr><tr><td>Sasaki, Yu</td></tr><tr><td>Schafer, Luke</td></tr><tr><td>Schafer, Ross</td></tr><tr><td>Scriven, Jarrod</td></tr><tr><td>Seaton, John</td></tr><tr><td>Seck, Ben</td></tr><tr><td>Sheppard, Daniel</td></tr><tr><td>Sheppard, Gary</td></tr><tr><td>Shepperd, Craig</td></tr><tr><td>Shepperd, Rodney</td></tr><tr><td>Simpson, Mark</td></tr><tr><td>Smith, Leroy</td></tr><tr><td>Smith, Nathaniel</td></tr><tr><td>Sok, Vutti</td></tr><tr><td>Somodio, Jerome</td></tr><tr><td>Soo, Simon</td></tr><tr><td>Stasiuk, Luke</td></tr><tr><td>Steele, Edward</td></tr><tr><td>Steele, Wayne</td></tr><tr><td>Stevenson, Martin</td></tr><tr><td>Stewart, Martin</td></tr><tr><td>Stratford, Dion</td></tr><tr><td>Stuart, James</td></tr><tr><td>Swannack, Cole</td></tr><tr><td>Tabet, Basam</td></tr><tr><td>Tang, Bernard</td></tr><tr><td>Tomkins, Clive</td></tr><tr><td>Tong, John</td></tr><tr><td>Trattler, Kyle</td></tr><tr><td>Trevilyan, Bryce</td></tr><tr><td>Twigg, Thomas</td></tr><tr><td>Unwin, Dave</td></tr><tr><td>Vacher, Stephen</td></tr><tr><td>Van Dyke, Simon</td></tr><tr><td>Varga, Andrew</td></tr><tr><td>Veigel, Andrew</td></tr><tr><td>Veigel, Cameron</td></tr><tr><td>Walkinshaw, Ray</td></tr><tr><td>Weeks, Adan</td></tr><tr><td>Werner, David</td></tr><tr><td>West, Benjamin</td></tr><tr><td>West, Justin</td></tr><tr><td>West, Michael</td></tr><tr><td>West, Peter-john</td></tr><tr><td>Whitby, Jason</td></tr><tr><td>White, Nathan</td></tr><tr><td>Whitehouse, Kain</td></tr><tr><td>Whyte, Nathan</td></tr><tr><td>Williams, Chris NZ</td></tr><tr><td>Williams, Christopher</td></tr><tr><td>Windle, Richard</td></tr><tr><td>Winthrop, Michael</td></tr><tr><td>Wintle, Nathan</td></tr><tr><td>Wong, Garry</td></tr><tr><td>Wong, Minga</td></tr><tr><td>Woodgate, Miles C</td></tr><tr><td>woodrow, daniel</td></tr><tr><td>Wootton, Tony</td></tr><tr><td>Worrell, Chris</td></tr><tr><td>Xu, Shi Wei</td></tr><tr><td>Yip, Winston</td></tr><tr><td>Zhang, James</td></tr><tr><td>Zhou, BinBing</td></tr><tr><td>&#10;					</td></tr><tr><td>Total players: 222</td></tr></tbody></table>

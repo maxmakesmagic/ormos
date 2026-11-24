@@ -1,0 +1,55 @@
+---
+id: p69emfrs
+kind: event
+lang: es
+path: /es/events/2015/gppoa15/round-13-results
+title: Round 13 Results
+published: '2015-11-02'
+column_slug: null
+column: null
+authors: []
+event_code: gppoa15
+detected_lang: es
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/events/coverage/gppoa15/round-13-results-2015-11-01
+    lang_detected: es
+    capture_id: 1345680
+    url: https://magic.wizards.com/en/events/coverage/gppoa15/round-13-results-2015-11-01
+    captured_at: '2022-05-29 01:43:29+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/events/coverage/gppoa15/round-13-results-2015-11-01
+    lang_detected: es
+    capture_id: 1345680
+    url: https://magic.wizards.com/en/events/coverage/gppoa15/round-13-results-2015-11-01
+    captured_at: '2022-05-29 01:43:29+00'
+    rule: drupal.posted_in_date
+  event_code:
+    page_key: magic.wizards.com/en/events/coverage/gppoa15/round-13-results-2015-11-01
+    lang_detected: es
+    capture_id: 1345680
+    url: https://magic.wizards.com/en/events/coverage/gppoa15/round-13-results-2015-11-01
+    captured_at: '2022-05-29 01:43:29+00'
+    rule: url.event_code
+sources:
+- document_id: p69emfrs
+  url: https://magic.wizards.com/en/events/coverage/gppoa15/round-13-results-2015-11-01
+  page_key: magic.wizards.com/en/events/coverage/gppoa15/round-13-results-2015-11-01
+  lang: es
+  template: drupal
+  captured_at: '2022-05-29 01:43:29+00'
+  capture_id: 1345680
+  wayback_url: https://web.archive.org/web/20220529014329id_/https://magic.wizards.com/en/events/coverage/gppoa15/round-13-results-2015-11-01
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: p69emfrs
+  capture_id: 1345680
+  url: https://magic.wizards.com/en/events/coverage/gppoa15/round-13-results-2015-11-01
+  wayback_url: https://web.archive.org/web/20220529014329id_/https://magic.wizards.com/en/events/coverage/gppoa15/round-13-results-2015-11-01
+  captured_at: '2022-05-29 01:43:29+00'
+  template: drupal
+  sha256: 3b0ee004cf65d74960f5bb97e73ac38ecb2a8dbdcb5a26b98cfef2c10afa6aa0
+render_recovery: []
+---
+<table><tbody><tr><th><b>Table</b></th>&#10;			<th><b>Player</b></th>&#10;			<th> </th>&#10;			<th><b>Result</b></th>&#10;			<th> </th>&#10;			<th><b>Opponent</b></th>&#10;			<th> </th>&#10;		</tr><tr><td>1</td>&#10;			<td>Marcos Paulo De Jesus Freitas</td>&#10;			<td>[BR]</td>&#10;			<td>Won 2-1</td>&#10;			<td>vs.</td>&#10;			<td>Bruno Muller</td>&#10;			<td>[BR]</td>&#10;		</tr><tr><td>2</td>&#10;			<td>(19) Thiago Saporito</td>&#10;			<td>[BR]</td>&#10;			<td>Won 2-0</td>&#10;			<td>vs.</td>&#10;			<td>Gabriel Wood</td>&#10;			<td>[BR]</td>&#10;		</tr><tr><td>3</td>&#10;			<td>Matheus Daniel Da Silveira</td>&#10;			<td>[BR]</td>&#10;			<td>Lost 0-2</td>&#10;			<td>vs.</td>&#10;			<td>Caio Amaral</td>&#10;			<td>[BR]</td>&#10;		</tr><tr><td>4</td>&#10;			<td>Fausto Velho De Quadros</td>&#10;			<td>[BR]</td>&#10;			<td>Lost 0-2</td>&#10;			<td>vs.</td>&#10;			<td>Pedro Carvalho</td>&#10;			<td>[BR]</td>&#10;		</tr><tr><td>5</td>&#10;			<td>Joaquim Damasceno</td>&#10;			<td>[PT]</td>&#10;			<td>Won 2-0</td>&#10;			<td>vs.</td>&#10;			<td>Gustavo Siqueira Julio</td>&#10;			<td>[BR]</td>&#10;		</tr><tr><td>6</td>&#10;			<td>Rafael Silva</td>&#10;			<td>[BR]</td>&#10;			<td>Lost 1-2</td>&#10;			<td>vs.</td>&#10;			<td>Caua Roca</td>&#10;			<td>[BR]</td>&#10;		</tr><tr><td>7</td>&#10;			<td>Alejandro Cesa</td>&#10;			<td>[AR]</td>&#10;			<td>Won 2-1</td>&#10;			<td>vs.</td>&#10;			<td>Fabio Alves Barroso</td>&#10;			<td>[BR]</td>&#10;		</tr><tr><td>8</td>&#10;			<td>Walter Coquemala Filho</td>&#10;			<td>[BR]</td>&#10;			<td>Won 2-1</td>&#10;			<td>vs.</td>&#10;			<td>Phelipe Salaroli</td>&#10;			<td>[BR]</td>&#10;		</tr><tr><td>9</td>&#10;			<td>Pedro Manzoni</td>&#10;			<td>[BR]</td>&#10;			<td>Won 2-0</td>&#10;			<td>vs.</td>&#10;			<td>Marcelo Rodrigues Cavalcante</td>&#10;			<td>[BR]</td>&#10;		</tr><tr><td>10</td>&#10;			<td>Eduardo Borges</td>&#10;			<td>[BR]</td>&#10;			<td>Lost 1-2</td>&#10;			<td>vs.</td>&#10;			<td>Diego Marquez</td>&#10;			<td>[AR]</td>&#10;		</tr><tr><td>11</td>&#10;			<td>Murilo Malta Porto</td>&#10;			<td>[BR]</td>&#10;			<td>Won 2-0</td>&#10;			<td>vs.</td>&#10;			<td>Vagner William Casatti</td>&#10;			<td>[BR]</td>&#10;		</tr><tr><td>12</td>&#10;			<td>Allison Nakazora Abe</td>&#10;			<td>[BR]</td>&#10;			<td>Lost 0-2</td>&#10;			<td>vs.</td>&#10;			<td>Guilherme Merjam</td>&#10;			<td>[BR]</td>&#10;		</tr><tr><td>13</td>&#10;			<td>Bruno Volpato</td>&#10;			<td>[BR]</td>&#10;			<td>Won 2-0</td>&#10;			<td>vs.</td>&#10;			<td>Matheus Crusius</td>&#10;			<td>[BR]</td>&#10;		</tr><tr><td>14</td>&#10;			<td>Matias Rosas</td>&#10;			<td>[AR]</td>&#10;			<td>Won 2-1</td>&#10;			<td>vs.</td>&#10;			<td>Ivo Rafael Da Costa Mihicic</td>&#10;			<td>[BR]</td>&#10;		</tr><tr><td>15</td>&#10;			<td>Daniel Felipe Galvao Pires</td>&#10;			<td>[BR]</td>&#10;			<td>Won 2-0</td>&#10;			<td>vs.</td>&#10;			<td>Edson Teixeira Junior</td>&#10;			<td>[BR]</td>&#10;		</tr><tr><td>-</td>&#10;			<td>Adriano Peixoto Simoes Lopes</td>&#10;			<td>[BR]</td>&#10;			<td>BYE</td>&#10;			<td>vs.</td>&#10;			<td>-</td>&#10;			<td> </td>&#10;		</tr><tr><td>16</td>&#10;			<td>Jean Hubner</td>&#10;			<td>[BR]</td>&#10;			<td>Lost 1-2</td>&#10;			<td>vs.</td>&#10;			<td>Roger William Landim</td>&#10;			<td>[BR]</td>&#10;		</tr><tr><td>17</td>&#10;			<td>Christian Arenas</td>&#10;			<td>[PE]</td>&#10;			<td>Lost 0-2</td>&#10;			<td>vs.</td>&#10;			<td>Joao Zimmer Xavier</td>&#10;			<td>[BR]</td>&#10;		</tr><tr><td>18</td>&#10;			<td>Ricardo Pereira Batista</td>&#10;			<td>[BR]</td>&#10;			<td>Won 2-0</td>&#10;			<td>vs.</td>&#10;			<td>Marcelo Oliveira</td>&#10;			<td>[BR]</td>&#10;		</tr><tr><td>19</td>&#10;			<td>Luis Gustavo Bezerra De Assis Republicano</td>&#10;			<td>[BR]</td>&#10;			<td>Lost 0-2</td>&#10;			<td>vs.</td>&#10;			<td>Pedro Henrique Miranda</td>&#10;			<td>[BR]</td>&#10;		</tr><tr><td>20</td>&#10;			<td>Fabricio Flores</td>&#10;			<td>[AR]</td>&#10;			<td>Lost 0-2</td>&#10;			<td>vs.</td>&#10;			<td>Max Macedo Carvalho</td>&#10;			<td>[BR]</td>&#10;		</tr><tr><td>21</td>&#10;			<td>Alexandre Conrado</td>&#10;			<td>[BR]</td>&#10;			<td>Lost 0-2</td>&#10;			<td>vs.</td>&#10;			<td>Marcos Portugal</td>&#10;			<td>[BR]</td>&#10;		</tr><tr><td>22</td>&#10;			<td>Fabricio Miranda</td>&#10;			<td>[BR]</td>&#10;			<td>Won 2-0</td>&#10;			<td>vs.</td>&#10;			<td>Frank William</td>&#10;			<td>[BR]</td>&#10;		</tr><tr><td>23</td>&#10;			<td>Gonzalo Ferrari Spampinato</td>&#10;			<td>[AR]</td>&#10;			<td>Won 2-1</td>&#10;			<td>vs.</td>&#10;			<td>Rafael Toro</td>&#10;			<td>[BR]</td>&#10;		</tr><tr><td>24</td>&#10;			<td>Lucas Esper Berthoud</td>&#10;			<td>[BR]</td>&#10;			<td>Lost 0-2</td>&#10;			<td>vs.</td>&#10;			<td>Mariano Libonatti</td>&#10;			<td>[AR]</td>&#10;		</tr><tr><td>25</td>&#10;			<td>Bruno Vieira</td>&#10;			<td>[BR]</td>&#10;			<td>Won 2-0</td>&#10;			<td>vs.</td>&#10;			<td>Ruben Lobo</td>&#10;			<td>[AR]</td>&#10;		</tr><tr><td>26</td>&#10;			<td>Gabriel Souza1109</td>&#10;			<td>[BR]</td>&#10;			<td>Draw 1-1</td>&#10;			<td>vs.</td>&#10;			<td>Luiz Silva Neto</td>&#10;			<td>[BR]</td>&#10;		</tr><tr><td>27</td>&#10;			<td>Pablo Zamorano</td>&#10;			<td>[CL]</td>&#10;			<td>Lost 0-2</td>&#10;			<td>vs.</td>&#10;			<td>MUHAMMAD AQEL</td>&#10;			<td>[BR]</td>&#10;		</tr><tr><td>28</td>&#10;			<td>Gabriel Fehr</td>&#10;			<td>[BR]</td>&#10;			<td>Won 2-1</td>&#10;			<td>vs.</td>&#10;			<td>Victor Fernando Silva</td>&#10;			<td>[BR]</td>&#10;		</tr><tr><td>29</td>&#10;			<td>Guilherme Zonatto</td>&#10;			<td>[BR]</td>&#10;			<td>Lost 1-2</td>&#10;			<td>vs.</td>&#10;			<td>Paulo Ricardo Cortez</td>&#10;			<td>[BR]</td>&#10;		</tr><tr><td>30</td>&#10;			<td>Gilmour Laier</td>&#10;			<td>[BR]</td>&#10;			<td>Won 2-1</td>&#10;			<td>vs.</td>&#10;			<td>Nahuel Roson</td>&#10;			<td>[AR]</td>&#10;		</tr><tr><td>31</td>&#10;			<td>Matheus Lemos Mota</td>&#10;			<td>[BR]</td>&#10;			<td>Lost 0-2</td>&#10;			<td>vs.</td>&#10;			<td>Martin Sebastian Dominguez</td>&#10;			<td>[AR]</td>&#10;		</tr><tr><td>32</td>&#10;			<td>Rafael Negrini</td>&#10;			<td>[BR]</td>&#10;			<td>Won 2-0</td>&#10;			<td>vs.</td>&#10;			<td>David Greene</td>&#10;			<td>[US]</td>&#10;		</tr><tr><td>33</td>&#10;			<td>Lucas Andrade4011</td>&#10;			<td>[BR]</td>&#10;			<td>Lost 0-2</td>&#10;			<td>vs.</td>&#10;			<td>Artur Villela</td>&#10;			<td>[BR]</td>&#10;		</tr><tr><td>34</td>&#10;			<td>Matheus Rosseto</td>&#10;			<td>[BR]</td>&#10;			<td>Lost 1-2</td>&#10;			<td>vs.</td>&#10;			<td>Joao Caludio Souza</td>&#10;			<td>[BR]</td>&#10;		</tr><tr><td>35</td>&#10;			<td>Sebastian Pozzo</td>&#10;			<td>[AR]</td>&#10;			<td>Won 2-0</td>&#10;			<td>vs.</td>&#10;			<td>Rodrigo Tomazelli</td>&#10;			<td>[BR]</td>&#10;		</tr><tr><td>36</td>&#10;			<td>Ertom Acres Teixeira</td>&#10;			<td>[BR]</td>&#10;			<td>Won 2-1</td>&#10;			<td>vs.</td>&#10;			<td>Victor Souza</td>&#10;			<td>[BR]</td>&#10;		</tr><tr><td>37</td>&#10;			<td>Bruno Longo Caminha</td>&#10;			<td>[BR]</td>&#10;			<td>Lost 0-2</td>&#10;			<td>vs.</td>&#10;			<td>Daniel Morin Ocampo</td>&#10;			<td>[BR]</td>&#10;		</tr><tr><td>38</td>&#10;			<td>Enriquez Mayoral Edgar</td>&#10;			<td>[MX]</td>&#10;			<td>Won 2-0</td>&#10;			<td>vs.</td>&#10;			<td>Nicolas Bonamigo</td>&#10;			<td>[BR]</td>&#10;		</tr><tr><td>39</td>&#10;			<td>Rafael Da Silva Selbach</td>&#10;			<td>[BR]</td>&#10;			<td>Lost 0-2</td>&#10;			<td>vs.</td>&#10;			<td>Rodrigo De Quadros Leal</td>&#10;			<td>[BR]</td>&#10;		</tr><tr><td>40</td>&#10;			<td>Mariano Cartechini</td>&#10;			<td>[AR]</td>&#10;			<td>Won 2-0</td>&#10;			<td>vs.</td>&#10;			<td>Juliano Da Rocha Dutra</td>&#10;			<td>[BR]</td>&#10;		</tr><tr><td>41</td>&#10;			<td>Carlos Eduardo Tiberio Junior</td>&#10;			<td>[BR]</td>&#10;			<td>Won 2-1</td>&#10;			<td>vs.</td>&#10;			<td>Cristian Rabaglia</td>&#10;			<td>[AR]</td>&#10;		</tr></tbody></table>

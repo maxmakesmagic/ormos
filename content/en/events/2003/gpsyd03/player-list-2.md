@@ -1,0 +1,54 @@
+---
+id: xk7f7bdb
+kind: event
+lang: en
+path: /en/events/2003/gpsyd03/player-list-2
+title: Player List
+published: null
+column_slug: null
+column: null
+authors: []
+event_code: gpsyd03
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: wizards.com/default.asp?x=sideboard/gpsyd03/playerlist,,en,0
+    lang_detected: en
+    capture_id: 1342689
+    url: http://www.wizards.com/default.asp?x=sideboard/gpsyd03/playerlist,,en,0&amp;tablesort=1
+    captured_at: '2005-11-14 13:06:35+00'
+    rule: html.title
+  event_code:
+    page_key: wizards.com/default.asp?x=sideboard/gpsyd03/playerlist,,en,0
+    lang_detected: en
+    capture_id: 1342689
+    url: http://www.wizards.com/default.asp?x=sideboard/gpsyd03/playerlist,,en,0&amp;tablesort=1
+    captured_at: '2005-11-14 13:06:35+00'
+    rule: url.event_code
+sources:
+- document_id: xk7f7bdb
+  url: http://www.wizards.com/default.asp?x=sideboard/gpsyd03/playerlist,,en,0&amp;tablesort=1
+  page_key: wizards.com/default.asp?x=sideboard/gpsyd03/playerlist,,en,0
+  lang: en
+  template: classic_asp
+  captured_at: '2005-11-14 13:06:35+00'
+  capture_id: 1342689
+  wayback_url: https://web.archive.org/web/20051114130635id_/http://www.wizards.com/default.asp?x=sideboard/gpsyd03/playerlist,,en,0&amp;tablesort=1
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: xk7f7bdb
+  capture_id: 1342689
+  url: http://www.wizards.com/default.asp?x=sideboard/gpsyd03/playerlist,,en,0&amp;tablesort=1
+  wayback_url: https://web.archive.org/web/20051114130635id_/http://www.wizards.com/default.asp?x=sideboard/gpsyd03/playerlist,,en,0&amp;tablesort=1
+  captured_at: '2005-11-14 13:06:35+00'
+  template: classic_asp
+  sha256: fa24c45b821a50154b08f70db2f48988147006383491e37f767787298c49de6e
+render_recovery: []
+---
+  
+  
+  
+
+* * *
+
+<table><tbody><tr><td><a href="/en/events/2003/gpsyd03/player-list-2"><b>Active Players round 1</b></a></td>&#10;</tr>&#10;<tr><td>Aitchison, Christopher</td>&#10;</tr>&#10;<tr><td>Allen, Chris</td>&#10;</tr>&#10;<tr><td>Anderson, raymond</td>&#10;</tr>&#10;<tr><td>Armstrong, Matthew</td>&#10;</tr>&#10;<tr><td>Baird, Adrian</td>&#10;</tr>&#10;<tr><td>Bandas, Jim</td>&#10;</tr>&#10;<tr><td>Barlow, Russell</td>&#10;</tr>&#10;<tr><td>Barsing, Mal</td>&#10;</tr>&#10;<tr><td>Bath, Darren</td>&#10;</tr>&#10;<tr><td>Beckman, Emmanual</td>&#10;</tr>&#10;<tr><td>Blom, Matthew</td>&#10;</tr>&#10;<tr><td>Bow, Frankie</td>&#10;</tr>&#10;<tr><td>Bowers, Sam</td>&#10;</tr>&#10;<tr><td>Bowley, James</td>&#10;</tr>&#10;<tr><td>Bright, Jarrod</td>&#10;</tr>&#10;<tr><td>Brown, Jansen</td>&#10;</tr>&#10;<tr><td>Brown, Jared</td>&#10;</tr>&#10;<tr><td>Brown, Mark J</td>&#10;</tr>&#10;<tr><td>Brown-santirso, Julian</td>&#10;</tr>&#10;<tr><td>Brugman, John</td>&#10;</tr>&#10;<tr><td>Brumby, Gene</td>&#10;</tr>&#10;<tr><td>Burrowes, Alex W</td>&#10;</tr>&#10;<tr><td>Butland, Tim</td>&#10;</tr>&#10;<tr><td>Canning, Tiffany</td>&#10;</tr>&#10;<tr><td>Capitalitan, Adrian</td>&#10;</tr>&#10;<tr><td>Casey, Edward</td>&#10;</tr>&#10;<tr><td>Chamberlain, David</td>&#10;</tr>&#10;<tr><td>Chamberlain, Paul</td>&#10;</tr>&#10;<tr><td>Chan, Wilkin</td>&#10;</tr>&#10;<tr><td>Chau, Fan</td>&#10;</tr>&#10;<tr><td>Cheong, Justin</td>&#10;</tr>&#10;<tr><td>Chin Quan, Audrey</td>&#10;</tr>&#10;<tr><td>Coffee, Matthew</td>&#10;</tr>&#10;<tr><td>Collins, Lenny</td>&#10;</tr>&#10;<tr><td>Collis, Barrie</td>&#10;</tr>&#10;<tr><td>Copeman, Will</td>&#10;</tr>&#10;<tr><td>Copus, Lee</td>&#10;</tr>&#10;<tr><td>Corney, Andrew</td>&#10;</tr>&#10;<tr><td>Crewe, David</td>&#10;</tr>&#10;<tr><td>Dao, Michael</td>&#10;</tr>&#10;<tr><td>Davey, Bruce</td>&#10;</tr>&#10;<tr><td>Davey, Philip</td>&#10;</tr>&#10;<tr><td>Davie, Matt</td>&#10;</tr>&#10;<tr><td>davies, Tony</td>&#10;</tr>&#10;<tr><td>De Gois, Egidio</td>&#10;</tr>&#10;<tr><td>dodd, james</td>&#10;</tr>&#10;<tr><td>Doecke, Michael</td>&#10;</tr>&#10;<tr><td>Drew, Daniel</td>&#10;</tr>&#10;<tr><td>Dunphy, Adam</td>&#10;</tr>&#10;<tr><td>Edwards, Daniel</td>&#10;</tr>&#10;<tr><td>Edwards, Richard</td>&#10;</tr>&#10;<tr><td>Egan, Owen</td>&#10;</tr>&#10;<tr><td>Eldred, Rhett</td>&#10;</tr>&#10;<tr><td>Evans, Merlyn</td>&#10;</tr>&#10;<tr><td>Fabian, Mark</td>&#10;</tr>&#10;<tr><td>Farrier, Steven</td>&#10;</tr>&#10;<tr><td>Fleming, Ben</td>&#10;</tr>&#10;<tr><td>Fox, Michael</td>&#10;</tr>&#10;<tr><td>Freller, Hanz</td>&#10;</tr>&#10;<tr><td>Fujita, Osamu</td>&#10;</tr>&#10;<tr><td>Fung, Kerry</td>&#10;</tr>&#10;<tr><td>Fusta, Haudy</td>&#10;</tr>&#10;<tr><td>Gage, James</td>&#10;</tr>&#10;<tr><td>Gall, Tristan</td>&#10;</tr>&#10;<tr><td>Gherbaz, Eldo</td>&#10;</tr>&#10;<tr><td>Glanville, Hugh</td>&#10;</tr>&#10;<tr><td>Glanville, Tom</td>&#10;</tr>&#10;<tr><td>Goding, Kris</td>&#10;</tr>&#10;<tr><td>Gordon, Andrew</td>&#10;</tr>&#10;<tr><td>Grace, Richard</td>&#10;</tr>&#10;<tr><td>Grain, Andrew</td>&#10;</tr>&#10;<tr><td>Grant, Michael</td>&#10;</tr>&#10;<tr><td>Green, Micah A</td>&#10;</tr>&#10;<tr><td>Gunawan, Alex</td>&#10;</tr>&#10;<tr><td>Haddy, Tom</td>&#10;</tr>&#10;<tr><td>Haines, David</td>&#10;</tr>&#10;<tr><td>Hamilton, Berren</td>&#10;</tr>&#10;<tr><td>Hamilton, Walluin</td>&#10;</tr>&#10;<tr><td>Hannelly, Michael</td>&#10;</tr>&#10;<tr><td>harris, colin</td>&#10;</tr>&#10;<tr><td>Hart, Jake</td>&#10;</tr>&#10;<tr><td>Hassan, Eyad</td>&#10;</tr>&#10;<tr><td>He, Tim</td>&#10;</tr>&#10;<tr><td>Henke, Dan</td>&#10;</tr>&#10;<tr><td>Henry, Simon</td>&#10;</tr>&#10;<tr><td>Hill, Corey</td>&#10;</tr>&#10;<tr><td>Ho, Colin</td>&#10;</tr>&#10;<tr><td>Ho, Roy</td>&#10;</tr>&#10;<tr><td>Ho, Wai Kit</td>&#10;</tr>&#10;<tr><td>Hodges, Marcus</td>&#10;</tr>&#10;<tr><td>Hodgson, John</td>&#10;</tr>&#10;<tr><td>Hovde, Baard</td>&#10;</tr>&#10;<tr><td>Hunstad, Scott</td>&#10;</tr>&#10;<tr><td>hutchinson, mick</td>&#10;</tr>&#10;<tr><td>Ibamoto, Masami</td>&#10;</tr>&#10;<tr><td>Ishida, Itaru</td>&#10;</tr>&#10;<tr><td>Jiang, Shun</td>&#10;</tr>&#10;<tr><td>Karp, Hugh</td>&#10;</tr>&#10;<tr><td>kissajukian, sam</td>&#10;</tr>&#10;<tr><td>Kwan, Chris</td>&#10;</tr>&#10;<tr><td>lappin, sean</td>&#10;</tr>&#10;<tr><td>Law, Albertus Hui Chin</td>&#10;</tr>&#10;<tr><td>Lawrence, Joey</td>&#10;</tr>&#10;<tr><td>Laycock, James</td>&#10;</tr>&#10;<tr><td>Laycock, Kerel</td>&#10;</tr>&#10;<tr><td>Leyba, Mark</td>&#10;</tr>&#10;<tr><td>Light, Jens</td>&#10;</tr>&#10;<tr><td>Lightfoot, Anatoli</td>&#10;</tr>&#10;<tr><td>Lim, Keith</td>&#10;</tr>&#10;<tr><td>Lo, Dominic</td>&#10;</tr>&#10;<tr><td>Lui, Kevin</td>&#10;</tr>&#10;<tr><td>Ly, Boung</td>&#10;</tr>&#10;<tr><td>Martin, Michael</td>&#10;</tr>&#10;<tr><td>Maylott, Peter</td>&#10;</tr>&#10;<tr><td>McIntosh, Seth</td>&#10;</tr>&#10;<tr><td>Mercer, Michael</td>&#10;</tr>&#10;<tr><td>Merry, Paul</td>&#10;</tr>&#10;<tr><td>Miller, Roger</td>&#10;</tr>&#10;<tr><td>Mircev, Christo</td>&#10;</tr>&#10;<tr><td>Mitsuhashi, Takashi</td>&#10;</tr>&#10;<tr><td>Mladenoski, Bill</td>&#10;</tr>&#10;<tr><td>Moore, William</td>&#10;</tr>&#10;<tr><td>Murray, Tarquin</td>&#10;</tr>&#10;<tr><td>Musolino, Dominic</td>&#10;</tr>&#10;<tr><td>Mychael, Benjamin</td>&#10;</tr>&#10;<tr><td>Nadebaum, Chris</td>&#10;</tr>&#10;<tr><td>Nadebaum, Rob</td>&#10;</tr>&#10;<tr><td>Neeman, Jeremy</td>&#10;</tr>&#10;<tr><td>Newton, Kirk</td>&#10;</tr>&#10;<tr><td>Ng, Desmond</td>&#10;</tr>&#10;<tr><td>Nguyen, Early</td>&#10;</tr>&#10;<tr><td>Norton, Mark</td>&#10;</tr>&#10;<tr><td>Oks, Oliver</td>&#10;</tr>&#10;<tr><td>Osborne, Andrew</td>&#10;</tr>&#10;<tr><td>Ourselin, Sebastien</td>&#10;</tr>&#10;<tr><td>Parry, Mel</td>&#10;</tr>&#10;<tr><td>Patterson, Stephen</td>&#10;</tr>&#10;<tr><td>Petersen, Colin</td>&#10;</tr>&#10;<tr><td>Piechnick, Daniel</td>&#10;</tr>&#10;<tr><td>Pirie, James</td>&#10;</tr>&#10;<tr><td>Plinston, Andrew</td>&#10;</tr>&#10;<tr><td>Puszet, Jarron</td>&#10;</tr>&#10;<tr><td>Raslan, Anwar</td>&#10;</tr>&#10;<tr><td>Rayner, Hugh</td>&#10;</tr>&#10;<tr><td>Rayson, Shawn</td>&#10;</tr>&#10;<tr><td>Ren, Jun</td>&#10;</tr>&#10;<tr><td>Richards, Scott</td>&#10;</tr>&#10;<tr><td>richardson, mark</td>&#10;</tr>&#10;<tr><td>Ricks, Alexander</td>&#10;</tr>&#10;<tr><td>Rivetti, Filippo</td>&#10;</tr>&#10;<tr><td>Rixon, Bryan</td>&#10;</tr>&#10;<tr><td>Robertson, David</td>&#10;</tr>&#10;<tr><td>Romans, Daniel</td>&#10;</tr>&#10;<tr><td>Romans, Gregory</td>&#10;</tr>&#10;<tr><td>Ross, Paul</td>&#10;</tr>&#10;<tr><td>Ruess, Jan</td>&#10;</tr>&#10;<tr><td>Salonen, Miki</td>&#10;</tr>&#10;<tr><td>Sarnecki, Martin</td>&#10;</tr>&#10;<tr><td>Schafer, Luke</td>&#10;</tr>&#10;<tr><td>Schafer, Ross</td>&#10;</tr>&#10;<tr><td>Scriven, Jarrod</td>&#10;</tr>&#10;<tr><td>Seaton, John</td>&#10;</tr>&#10;<tr><td>Seck, Ben</td>&#10;</tr>&#10;<tr><td>Semmens, Matthew</td>&#10;</tr>&#10;<tr><td>Setchell, Brian.</td>&#10;</tr>&#10;<tr><td>Shadbolt, Nathan</td>&#10;</tr>&#10;<tr><td>Siu, Kwong</td>&#10;</tr>&#10;<tr><td>Skurr, Peter</td>&#10;</tr>&#10;<tr><td>Smith, Hayden</td>&#10;</tr>&#10;<tr><td>smith, nik</td>&#10;</tr>&#10;<tr><td>Smith, Scott</td>&#10;</tr>&#10;<tr><td>Steele, Wayne</td>&#10;</tr>&#10;<tr><td>Stevenson, Martin</td>&#10;</tr>&#10;<tr><td>Stratford, Dion</td>&#10;</tr>&#10;<tr><td>Stuart, Rob</td>&#10;</tr>&#10;<tr><td>Swannack, Cole</td>&#10;</tr>&#10;<tr><td>Tay, Andrew</td>&#10;</tr>&#10;<tr><td>Tierney, Robert</td>&#10;</tr>&#10;<tr><td>Trevilyan, Bryce</td>&#10;</tr>&#10;<tr><td>Turner, Daniel</td>&#10;</tr>&#10;<tr><td>Unwin, Dave</td>&#10;</tr>&#10;<tr><td>Van Der Werk, Paul</td>&#10;</tr>&#10;<tr><td>Vandenberg, Benjamin</td>&#10;</tr>&#10;<tr><td>Varga, Andrew</td>&#10;</tr>&#10;<tr><td>Walkinshaw, Ray</td>&#10;</tr>&#10;<tr><td>Wang, Jerry</td>&#10;</tr>&#10;<tr><td>Wei, Xu Shi</td>&#10;</tr>&#10;<tr><td>West, Benjamin</td>&#10;</tr>&#10;<tr><td>West, Justin</td>&#10;</tr>&#10;<tr><td>White, James</td>&#10;</tr>&#10;<tr><td>White, Nathan</td>&#10;</tr>&#10;<tr><td>Wilson, james</td>&#10;</tr>&#10;<tr><td>Wilson, Stephen</td>&#10;</tr>&#10;<tr><td>Windle, Richard</td>&#10;</tr>&#10;<tr><td>Witton, Adam</td>&#10;</tr>&#10;<tr><td>Wong, Minga</td>&#10;</tr>&#10;<tr><td>Wong, Nathan</td>&#10;</tr>&#10;<tr><td>Wong, Nicholas Jonathan</td>&#10;</tr>&#10;<tr><td>woodrow, daniel</td>&#10;</tr>&#10;<tr><td>Worrell, Chris</td>&#10;</tr>&#10;<tr><td>Wright, Paul</td>&#10;</tr>&#10;<tr><td>Yuen, Lionel Weng Foong</td>&#10;</tr>&#10;<tr><td>Yuill, Ben</td>&#10;</tr>&#10;<tr><td>Zanwen, Gao</td>&#10;</tr>&#10;<tr><td>Zhang, Jacky</td>&#10;</tr>&#10;<tr><td>Zhang, James</td>&#10;</tr>&#10;<tr><td>Zhong, Dong</td>&#10;</tr>&#10;</tbody></table>

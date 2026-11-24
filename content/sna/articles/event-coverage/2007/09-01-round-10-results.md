@@ -1,0 +1,47 @@
+---
+id: v4n4h0bh
+kind: event
+lang: sna
+path: /sna/articles/event-coverage/2007/09-01-round-10-results
+title: Round 10 Results
+published: '2007-09-01'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: sna
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-10-results-2007-09-01-0
+    lang_detected: sna
+    capture_id: 490348
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-10-results-2007-09-01-0
+    captured_at: '2022-08-14 15:53:27+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-10-results-2007-09-01-0
+    lang_detected: sna
+    capture_id: 490348
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-10-results-2007-09-01-0
+    captured_at: '2022-08-14 15:53:27+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: v4n4h0bh
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-10-results-2007-09-01-0
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/round-10-results-2007-09-01-0
+  lang: sna
+  template: drupal
+  captured_at: '2022-08-14 15:53:27+00'
+  capture_id: 490348
+  wayback_url: https://web.archive.org/web/20220814155327id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-10-results-2007-09-01-0
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: v4n4h0bh
+  capture_id: 490348
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-10-results-2007-09-01-0
+  wayback_url: https://web.archive.org/web/20220814155327id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-10-results-2007-09-01-0
+  captured_at: '2022-08-14 15:53:27+00'
+  template: drupal
+  sha256: c3769385677202f12e7107420fd95c13452c33b0cb99b57f08276250f5ceb094
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Result</b></td><td><b>&#10;						</b></td><td><b>Opponent</b></td></tr><tr><td> 1</td><td>Mitsui, Hideo</td><td>Won 2-0</td><td>vs.</td><td>Kodera, Ryouta</td></tr><tr><td> 2</td><td>Ichihara, Yuuya</td><td>Won 2-1</td><td>vs.</td><td>Itou, Tsuneo</td></tr><tr><td> 3</td><td>Ueyama, Yuuji</td><td>Lost 0-2</td><td>vs.</td><td>Fujita, Ken ichi</td></tr><tr><td> 4</td><td>Ikeda, Yuuichirou</td><td>Won 2-0</td><td>vs.</td><td>Shiozaki, Toshinori</td></tr><tr><td> 5</td><td>Hirosawa, Yuuta</td><td>Lost 1-2</td><td>vs.</td><td>Takahashi, Yuuta</td></tr><tr><td> 6</td><td>Ishikawa, Ren</td><td>Lost 0-2</td><td>vs.</td><td>Kim, Min-su</td></tr><tr><td> 7</td><td>Nakajima, Chikara</td><td>Lost 1-2</td><td>vs.</td><td>Nomura, Masahiro</td></tr><tr><td> 8</td><td>Ueda, Katsuya</td><td>Lost 0-2</td><td>vs.</td><td>Suzuki, Akiyoshi</td></tr><tr><td> 9</td><td>Shigehara, Toshinori</td><td>Won 2-0</td><td>vs.</td><td>Ibamoto, Masami</td></tr><tr><td> 10</td><td>Oosawa, Takuya</td><td>Lost 1-2</td><td>vs.</td><td>Watanabe, Yuuya</td></tr><tr><td> 11</td><td>Sakamoto, Yuuki</td><td>Won 2-0</td><td>vs.</td><td>Hasegawa, Gaku</td></tr><tr><td> 12</td><td>Ootsuka, Koutarou</td><td>Won 2-0</td><td>vs.</td><td>Yamane, Yoshiyuki</td></tr><tr><td> 13</td><td>Oomori, Tomoaki</td><td>Won 2-0</td><td>vs.</td><td>Inoue, Masashi</td></tr><tr><td> 14</td><td>Inoguchi, Hironobu</td><td>Lost 0-2</td><td>vs.</td><td>Fujita, Osamu</td></tr><tr><td> 15</td><td>Fujita, Tsuyoshi</td><td>Won 2-1</td><td>vs.</td><td>yamada, ryuuichirou</td></tr><tr><td> 16</td><td>Koyama, Kenta</td><td>Won 2-1</td><td>vs.</td><td>Katayama, Hidenori</td></tr><tr><td> 17</td><td>hirokawa, tatuya</td><td>Lost 0-2</td><td>vs.</td><td>Ogata, Kei</td></tr><tr><td> 18</td><td>Oohashi, Toshiya</td><td>Lost 0-2</td><td>vs.</td><td>Saitou, Takaya</td></tr><tr><td> 19</td><td>Aoki, Ryousuke</td><td>Won 2-0</td><td>vs.</td><td>Seto, Masakazu</td></tr><tr><td> 20</td><td>Tsumura, Akihide</td><td>Lost 0-2</td><td>vs.</td><td>Nagao, Keisuke</td></tr><tr><td> 21</td><td>kai, hiroyuki</td><td>Won 2-0</td><td>vs.</td><td>Kaga, Hiroyuki</td></tr><tr><td> 22</td><td>suzuki, akihide</td><td>Won 2-0</td><td>vs.</td><td>Mori, Yuuya</td></tr><tr><td> 23</td><td>Oonishi, Junpei</td><td>Lost 1-2</td><td>vs.</td><td>Ogawa, Masahiro</td></tr><tr><td> 24</td><td>Matsuo, Yoshiyuki</td><td>Lost 1-2</td><td>vs.</td><td>Arita, Ryuuichi</td></tr><tr><td> 25</td><td>Nakano, Yoshitaka</td><td>Won 2-0</td><td>vs.</td><td>Morita, Masahiko</td></tr><tr><td> 26</td><td>Saitou, Tomoharu</td><td>Lost 1-2</td><td>vs.</td><td>Yokosuka, Tomohiro</td></tr><tr><td> 27</td><td>Shinozaki, Yuu</td><td>Lost 1-2</td><td>vs.</td><td>Nakada, Naoki</td></tr><tr><td> 28</td><td>Mihara, Makihito</td><td>Won 2-0</td><td>vs.</td><td>Haneda, Masatoshi</td></tr><tr><td> 29</td><td>Ishikawa, Masayo</td><td>Lost 1-2</td><td>vs.</td><td>Nonaka, Kentarou</td></tr><tr><td> 30</td><td>Yano, Kunihiro</td><td>Lost 0-2</td><td>vs.</td><td>Koyano, Hirofumi</td></tr><tr><td> 31</td><td>Takahashi, Jun ya</td><td>Lost 1-2</td><td>vs.</td><td>Hashimoto, Yuu</td></tr><tr><td> 32</td><td>Shibuya, Tsutomu</td><td>Won 2-1</td><td>vs.</td><td>Fuma, Masaharu</td></tr><tr><td> 33</td><td>Asahara, Akira</td><td>Won 2-0</td><td>vs.</td><td>Kuroda, Masashiro</td></tr><tr><td> 34</td><td>Yoon, Soo Han</td><td>Lost 1-2</td><td>vs.</td><td>Tamura, Ryou</td></tr><tr><td> 35</td><td>Yasutomi, Hiroto</td><td>Won 2-1</td><td>vs.</td><td>tomizawa, youhei</td></tr><tr><td> 36</td><td>Kawakami, Hiroshi</td><td>Lost 0-2</td><td>vs.</td><td>Ishimaru, Ken</td></tr><tr><td> 37</td><td>Nakamura, Takahiro</td><td>Lost 0-2</td><td>vs.</td><td>Kubota, Kenta</td></tr><tr><td> 38</td><td>Okada, Norihiro</td><td>Won 2-0</td><td>vs.</td><td>Nishimura, Takuya</td></tr><tr><td> 39</td><td>Ogawa, Hiroyuki</td><td>Lost 1-2</td><td>vs.</td><td>Kaida, Hiroshi</td></tr><tr><td> 40</td><td>Haneki, Daisuke</td><td>Lost 1-2</td><td>vs.</td><td>Kimura, Takuto</td></tr><tr><td> 41</td><td>Maeno, Ryuju</td><td>Lost 0-2</td><td>vs.</td><td>Kadooka, Toshiyuki</td></tr><tr><td> 42</td><td>Okabe, Gaku</td><td>Won 2-1</td><td>vs.</td><td>Kaiyama, Suguru</td></tr><tr><td> 43</td><td>Miyasaka, Takeshi</td><td>Lost 0-2</td><td>vs.</td><td>Tsuchiya, Hideaki</td></tr><tr><td> 44</td><td>Komuro, Shuu</td><td>Lost 0-2</td><td>vs.</td><td>Kitayama, Masaya</td></tr><tr><td> 45</td><td>Nagashima, Makoto</td><td>Won 2-0</td><td>vs.</td><td>Nakamura, Shuuhei</td></tr><tr><td> 46</td><td>Mitamura, Kazuya</td><td>Won 2-1</td><td>vs.</td><td>Yamashita, Hiroki</td></tr><tr><td> 47</td><td>Hirabayashi, Kazuya</td><td>Won 2-0</td><td>vs.</td><td>ikushima, yasuyuki</td></tr><tr><td> 48</td><td>Satou, Rei</td><td>Won 2-0</td><td>vs.</td><td>Nakamura, Atsushi</td></tr><tr><td> 49</td><td>Yamaguchi, Satoshi</td><td>Lost 0-2</td><td>vs.</td><td>Kitagawa, Tomoaki</td></tr><tr><td> 50</td><td>Sasaki, Yuusuke</td><td>Lost 0-2</td><td>vs.</td><td>Kurakami, Shun</td></tr><tr><td> 51</td><td>Yamanishi, Mamoru</td><td>Won 2-0</td><td>vs.</td><td>Taru, Genki</td></tr><tr><td> 52</td><td>Nakano, Fumiki</td><td>Won 2-1</td><td>vs.</td><td>Tsumura, Kenji</td></tr><tr><td> 53</td><td>Yasooka, Shouta</td><td>Won 2-1</td><td>vs.</td><td>Azuma, Motokiyo</td></tr><tr><td> 54</td><td>Katayama, Takahiro</td><td>Lost 1-2</td><td>vs.</td><td>Hassaku, Jinpei</td></tr><tr><td> 55</td><td>Aoyama, Katsuhiko</td><td>Lost 0-2</td><td>vs.</td><td>Tomii, Tsubasa</td></tr><tr><td> 56</td><td>Konno, Kousei</td><td>Won 2-0</td><td>vs.</td><td>Saitou, Hirotsugu</td></tr><tr><td> 57</td><td>Nakatani, Haruki</td><td>Lost 1-2</td><td>vs.</td><td>Matuzaki, Kenjiro</td></tr><tr><td> 58</td><td>Kuraoka, Satoshi</td><td>Lost 1-2</td><td>vs.</td><td>Kido, Takayoshi</td></tr><tr><td> 59</td><td>Akiyama, Takashi</td><td>Won 2-1</td><td>vs.</td><td>Nose, Kouji</td></tr><tr><td> 60</td><td>Ogura, Ryou</td><td>Won 2-1</td><td>vs.</td><td>Iyanaga, Jun ya</td></tr><tr><td> 61</td><td>Yamauchi, Shou</td><td>Won 2-1</td><td>vs.</td><td>Gokan, Masaki</td></tr><tr><td> 62</td><td>Sasagawa, Tomohide</td><td>Lost 0-2</td><td>vs.</td><td>Ando, Reiji</td></tr><tr><td> 63</td><td>Shimizu, Naoki</td><td>Lost 1-2</td><td>vs.</td><td>Takakuwa, Akihiro</td></tr><tr><td> 64</td><td>Moriya, Toshihiko</td><td>Won 2-0</td><td>vs.</td><td>Yokoi, Masaki</td></tr><tr><td> 65</td><td>Okamura, Hideki</td><td>Lost 1-2</td><td>vs.</td><td>Yamamoto, Shouhei</td></tr><tr><td> 66</td><td>Nakamura, Yuusuke</td><td>Lost 1-2</td><td>vs.</td><td>Matsuoka, Tomohide</td></tr><tr><td> 67</td><td>Endo, Ryota</td><td>Lost 0-2</td><td>vs.</td><td>Mori, Satoshi</td></tr><tr><td> 68</td><td>Tominaga, Mario</td><td>Won 2-1</td><td>vs.</td><td>Ikeda, Tsuyoshi</td></tr><tr><td>&#10;					</td><td>Tamura, Ryouhei</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr><tr><td>&#10;					</td><td>Kurashima, Kazuki</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr><tr><td>&#10;					</td><td>Terada, Tadashi</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr><tr><td>&#10;					</td><td>Urata, Takurou</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr><tr><td>&#10;					</td><td>Honda, Ryuta</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr></tbody></table>

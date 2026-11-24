@@ -1,0 +1,65 @@
+---
+id: adyqvaq4
+kind: event
+lang: en
+path: /en/articles/event-coverage/2003/08-09-team-round-3-usa-vs-japan
+title: 'Team Round 3: USA vs. Japan'
+published: '2003-08-09'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/team-round-3-usa-vs-japan-2003-08-09
+    lang_detected: en
+    capture_id: 587923
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/team-round-3-usa-vs-japan-2003-08-09
+    captured_at: '2022-08-14 16:09:11+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/team-round-3-usa-vs-japan-2003-08-09
+    lang_detected: en
+    capture_id: 587923
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/team-round-3-usa-vs-japan-2003-08-09
+    captured_at: '2022-08-14 16:09:11+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: adyqvaq4
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/team-round-3-usa-vs-japan-2003-08-09
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/team-round-3-usa-vs-japan-2003-08-09
+  lang: en
+  template: drupal
+  captured_at: '2022-08-14 16:09:11+00'
+  capture_id: 587923
+  wayback_url: https://web.archive.org/web/20220814160911id_/https://magic.wizards.com/en/articles/archive/event-coverage/team-round-3-usa-vs-japan-2003-08-09
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: adyqvaq4
+  capture_id: 587923
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/team-round-3-usa-vs-japan-2003-08-09
+  wayback_url: https://web.archive.org/web/20220814160911id_/https://magic.wizards.com/en/articles/archive/event-coverage/team-round-3-usa-vs-japan-2003-08-09
+  captured_at: '2022-08-14 16:09:11+00'
+  template: drupal
+  sha256: 695de35241f0cf7a005cff68f18bf02fcf8dbe29041ab5994a80c7bb65452ab2
+render_recovery: []
+---
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds03/a557.jpg)Both of these teams need a win here to have a chance to make the finals. The Americans are looking to continue their tradition of dominance in this event, and take the title back from Germany. There's probably less pressure on Wagener, Walls and Gary than there has been on past American teams since the precedent has already been set that they can lose, but it'll certainly be a disappointment if they do. Gary particularly has a vested interest in winning this weekend, since he was the National champion on the 1997 American team, the first one to lose at Worlds. The Japanese players are looking to make a strong statement as well, by winning and capping off what has been a great season for the country on the Pro Tour. Jin Okamoto already has a ticket to Sunday for the individual competition and a shot at becoming World Champion, and Ootsuka, Fujita and Tanaka would like to join him there and play for the team championship.
+
+Ootsuka had a third turn [Mistform Dreamer](https://web.archive.org/web/20030809000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mistform+Dreamer), while Wagener made a [Boneknitter](https://web.archive.org/web/20030809000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Boneknitter). The Dreamer was enchanted with [Lingering Death](https://web.archive.org/web/20030809000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lingering+Death) and attacked for two before dying, but Ootsuka came right back with [Windborn Muse](https://web.archive.org/web/20030809000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Windborn+Muse) and [Dive Bomber](https://web.archive.org/web/20030809000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dive+Bomber). [Solar Blast](https://web.archive.org/web/20030809000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Solar+Blast) killed the Muse, and [Undead Warchief](https://web.archive.org/web/20030809000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Undead+Warchief) combined with the 'Knitter made Wagener's board position excellent. [Skinthinner](https://web.archive.org/web/20030809000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skinthinner) and two [Vengeful Dead](https://web.archive.org/web/20030809000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vengeful+Dead) put it over the top, and Wagener took the first game. 
+
+Fujita mulliganed his opening hand, as Walls turned to his teammates and said, "We've got hope boys! Two more mulligans and I've got him!" Fujita looked at his next six with a pained expression, and Walls chanted, "Throw it back! Throw it back!" Indeed, that was decision, and he went to five. Walls had a start that included [Dive Bomber](https://web.archive.org/web/20030809000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dive+Bomber), [Coast Watcher](https://web.archive.org/web/20030809000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Coast+Watcher) and [Stoic Champion](https://web.archive.org/web/20030809000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stoic+Champion), while Fujita had two morphs and a [Goblin Brigand](https://web.archive.org/web/20030809000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Brigand). One morph flipped over to reveal [Skirk Marauder](https://web.archive.org/web/20030809000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skirk+Marauder), which killed the Bomber.
+
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/worlds03/a558.jpg)The Champion traded with the Brigand, and suddenly Fujita seemed to have a chance despite starting with only five cards. He attacked with [Avarax](https://web.archive.org/web/20030809000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Avarax), and it was blocked by a Dreamer, [Coast Watcher](https://web.archive.org/web/20030809000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Coast+Watcher), a morph. Damage was put on the stack, and the morph flipped over to reveal [Daru Sanctifier](https://web.archive.org/web/20030809000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Daru+Sanctifier), so the two fliers went to the graveyard along with the [Avarax](https://web.archive.org/web/20030809000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Avarax). This cleared the way for a big attack, and three morphs flipped over, all [Skirk Marauder](https://web.archive.org/web/20030809000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skirk+Marauder)s (one had been bounced by [Temporal Fissure](https://web.archive.org/web/20030809000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Temporal+Fissure)) to deal six to Walls and win.
+
+Gary dealt with [Carrion Feeder](https://web.archive.org/web/20030809000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Carrion+Feeder) early with [Vitality Charm](https://web.archive.org/web/20030809000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vitality+Charm), and his [Snarling Undorak](https://web.archive.org/web/20030809000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Snarling+Undorak) died to an unmorphed [Skinthinner](https://web.archive.org/web/20030809000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skinthinner). He went to the air with [Shoreline Ranger](https://web.archive.org/web/20030809000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shoreline+Ranger), which Tanaka's [Sootfeather Flock](https://web.archive.org/web/20030809000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sootfeather+Flock) was too small to trade with. [Elvish Soultiller](https://web.archive.org/web/20030809000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Elvish+Soultiller) added some defense on the ground, and [Skittish Valesk](https://web.archive.org/web/20030809000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skittish+Valesk) unmorphed to kill a [Skinthinner](https://web.archive.org/web/20030809000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skinthinner) in combat. Between the 5/4, a 5/5 and a 3/4 flier, Gary's creatures were simply too big to handle, and he won the first game. 
+
+Fujita once again mulliganed his opening hand, as Walls pounded the table laughing, with Gary implored Fujita to "mulligan down to three so we can have a fair match." Walls opened with [Coast Watcher](https://web.archive.org/web/20030809000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Coast+Watcher), and put [Dragon Scales](https://web.archive.org/web/20030809000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dragon+Scales) on it to get a fast clock. Come turn five, [Crested Craghorn](https://web.archive.org/web/20030809000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crested+Craghorn) took it down. When [Shoreline Ranger](https://web.archive.org/web/20030809000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shoreline+Ranger) came out, it took the [Dragon Scales](https://web.archive.org/web/20030809000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dragon+Scales) with it, and Fujita tried to kill it with [Erratic Explosion](https://web.archive.org/web/20030809000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Erratic+Explosion)\- [Krosan Warchief](https://web.archive.org/web/20030809000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Krosan+Warchief) was revealed, and didn't get the job done. A few turns later, the 4/6 flier that didn't tap to attack forced a third game. 
+
+Ootsuka's [Cloudreach Cavalry](https://web.archive.org/web/20030809000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cloudreach+Cavalry) died to a cycled [Gempalm Incinerator](https://web.archive.org/web/20030809000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gempalm+Incinerator) thanks to [Goblin Sledder](https://web.archive.org/web/20030809000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Sledder), and a cycled [Solar Blast](https://web.archive.org/web/20030809000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Solar+Blast) took out [Mistform Dreamer](https://web.archive.org/web/20030809000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mistform+Dreamer) to put Wagener up two cards rather quickly. Even [Mistform Wall](https://web.archive.org/web/20030809000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mistform+Wall) didn't last long, dying to [Crested Craghorn](https://web.archive.org/web/20030809000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crested+Craghorn). [Skirk Commando](https://web.archive.org/web/20030809000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skirk+Commando) was unblocked and flipped over, putting Wagener up three cards by turn six. He even got [Flamewave Invoker](https://web.archive.org/web/20030809000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flamewave+Invoker) and eight lands, putting the finishing touch on a game that was completely one-sided from the start.
+
+![](https://i.ormos.uk/44/74/4474754da5d8e0b6d43fd39fbf4b6f41315d05112a326d6c60034ca7613f3f3b.jpg)The second game between Gary and Tanaka started off with morphs and elves on both sides of the table, and Gary getting through three damage a turn with [Ascending Aven](https://web.archive.org/web/20030809000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ascending+Aven). His morph flipped over to reveal Seaswift, and the attack through the air dealt six damage. Tanaka had an advantage on the ground thanks to [Barkhide Mauler](https://web.archive.org/web/20030809000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Barkhide+Mauler) and the mana available to unmorph creatures during combat, and one flipped over to reveal [Skinthinner](https://web.archive.org/web/20030809000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skinthinner), killing the Seaswift. A second [Barkhide Mauler](https://web.archive.org/web/20030809000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Barkhide+Mauler) gave Tanaka more fat to work with, but Gary had another Seaswift, so his plan became to attack through the air and chump block on the ground to buy enough time. It worked, and the United States won the match. Walls and Fujita had just started Game 3, and as soon as Gary won, Walls conceded the terrible matchup, not wanting to play it.
+
+**Final Result:** USA 2 - Japan 1
+
+*Note: Finland defeated France this round, so the United States and Finland have guaranteed the two finals slots for Sunday.*

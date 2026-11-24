@@ -1,0 +1,57 @@
+---
+id: snh3vk0n
+kind: event
+lang: en
+path: /en/events/2015/gppar15/round-10-pairings
+title: ROUND 10 PAIRINGS
+published: '2015-05-10'
+column_slug: null
+column: null
+authors: []
+event_code: gppar15
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/events/coverage/gppar15/round-10-parings-2015-05-10
+    lang_detected: en
+    capture_id: 97897
+    url: http://magic.wizards.com/en/events/coverage/gppar15/round-10-parings-2015-05-10
+    captured_at: '2016-05-04 17:18:43+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/events/coverage/gppar15/round-10-parings-2015-05-10
+    lang_detected: en
+    capture_id: 97897
+    url: http://magic.wizards.com/en/events/coverage/gppar15/round-10-parings-2015-05-10
+    captured_at: '2016-05-04 17:18:43+00'
+    rule: drupal.posted_in_date
+  event_code:
+    page_key: magic.wizards.com/en/events/coverage/gppar15/round-10-parings-2015-05-10
+    lang_detected: en
+    capture_id: 97897
+    url: http://magic.wizards.com/en/events/coverage/gppar15/round-10-parings-2015-05-10
+    captured_at: '2016-05-04 17:18:43+00'
+    rule: url.event_code
+sources:
+- document_id: snh3vk0n
+  url: http://magic.wizards.com/en/events/coverage/gppar15/round-10-parings-2015-05-10
+  page_key: magic.wizards.com/en/events/coverage/gppar15/round-10-parings-2015-05-10
+  lang: en
+  template: drupal
+  captured_at: '2016-05-04 17:18:43+00'
+  capture_id: 97897
+  wayback_url: https://web.archive.org/web/20160504171843id_/http://magic.wizards.com/en/events/coverage/gppar15/round-10-parings-2015-05-10
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: snh3vk0n
+  capture_id: 97897
+  url: http://magic.wizards.com/en/events/coverage/gppar15/round-10-parings-2015-05-10
+  wayback_url: https://web.archive.org/web/20160504171843id_/http://magic.wizards.com/en/events/coverage/gppar15/round-10-parings-2015-05-10
+  captured_at: '2016-05-04 17:18:43+00'
+  template: drupal
+  sha256: 6a56fab26490800dc0658e146aab7a49156faec79e2b0ad0d7806e84c801f28f
+render_recovery: []
+---
+*   [Complete coverage of Grand Prix Paris](https://web.archive.org/web/20150510000000/http://magic.wizards.com/node/382956)
+
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Points</b></td><td><b> </b></td><td><b>Opponent</b></td><td><b>Points</b></td></tr><tr><td>  1</td><td>Dosimont, Amand</td><td> 27</td><td>vs.</td><td>Frenster, Jochen</td><td> 27</td></tr><tr><td>  2</td><td>Faber, Manuel</td><td> 27</td><td>vs.</td><td>DUDOGNON, Yohan</td><td> 27</td></tr><tr><td>  3</td><td>Diekjobst, Lukas</td><td> 25</td><td>vs.</td><td>URSET, ANTOINE</td><td> 25</td></tr><tr><td>  4</td><td>Berthet, Paul</td><td> 25</td><td>vs.</td><td>Del-Moral-Leon, Antonio</td><td> 24</td></tr><tr><td>  5</td><td>Andrieu, Thibault</td><td> 24</td><td>vs.</td><td>Yam, Wing-Chun</td><td> 24</td></tr><tr><td>  6</td><td>Rabie, Mikael</td><td> 24</td><td>vs.</td><td>Dagen, Pierre</td><td> 24</td></tr><tr><td>  7</td><td>Gerardis, Stefano</td><td> 24</td><td>vs.</td><td>Dolar, Robin</td><td> 24</td></tr><tr><td>  8</td><td>Blohon, Lukas</td><td> 24</td><td>vs.</td><td>Larsson, Joel</td><td> 24</td></tr><tr><td>  9</td><td>KyoungSoo, Kim</td><td> 24</td><td>vs.</td><td>Dominguez, Javier</td><td> 24</td></tr><tr><td> 10</td><td>ARAUJO, WILLIAM</td><td> 24</td><td>vs.</td><td>Dezani, Jeremy</td><td> 24</td></tr><tr><td> 11</td><td>Sauvageon, Kevin</td><td> 24</td><td>vs.</td><td>Juza, Martin</td><td> 24</td></tr><tr><td> 12</td><td>Polzl, Tristan</td><td> 24</td><td>vs.</td><td>Tsarkov, Kirill</td><td> 24</td></tr><tr><td> 13</td><td>Hauck, Christian</td><td> 24</td><td>vs.</td><td>Nagy, Tamas</td><td> 24</td></tr><tr><td> 14</td><td>Durand, Victor</td><td> 24</td><td>vs.</td><td>Nemeghaire, Julien</td><td> 24</td></tr><tr><td> 15</td><td>Reale, Giuseppe</td><td> 24</td><td>vs.</td><td>Janik, Maciej</td><td> 24</td></tr><tr><td> 16</td><td>Julian, Bruggemann</td><td> 24</td><td>vs.</td><td>Jacobsen, Soren-Knak</td><td> 24</td></tr><tr><td> 17</td><td>Choca, Joao</td><td> 24</td><td>vs.</td><td>SAITO, TOMOHARU</td><td> 24</td></tr><tr><td> 18</td><td>Zimmermann, Dominik</td><td> 24</td><td>vs.</td><td>Diniz, Hugo</td><td> 24</td></tr><tr><td> 19</td><td>Syed, Zan</td><td> 24</td><td>vs.</td><td>Merino-Bustos, Marcelo</td><td> 24</td></tr><tr><td> 20</td><td>Rasmussen, Thomas</td><td> 24</td><td>vs.</td><td>Chen, Xiang</td><td> 24</td></tr><tr><td> 21</td><td>Sclauzero, Joseph</td><td> 24</td><td>vs.</td><td>Nolte, Dennis</td><td> 23</td></tr><tr><td> 22</td><td>Mulari, Mika</td><td> 22</td><td>vs.</td><td>Saredo, Adrian</td><td> 22</td></tr><tr><td> 23</td><td>Krautmann, Wenzel</td><td> 22</td><td>vs.</td><td>PAYEN, Jeremy</td><td> 22</td></tr><tr><td> 24</td><td>Yahiaoui, Leny</td><td> 22</td><td>vs.</td><td>Tennivaara, Sabina</td><td> 22</td></tr><tr><td> 25</td><td>Mango, Gennaro</td><td> 22</td><td>vs.</td><td>Chovan, Jaroslav</td><td> 22</td></tr><tr><td> 26</td><td>Vanderhallen, Nicolas</td><td> 22</td><td>vs.</td><td>Hammerschmidt, Daniel</td><td> 22</td></tr><tr><td> 27</td><td>Gregoir, Christophe</td><td> 22</td><td>vs.</td><td>Pinet, Vincent</td><td> 22</td></tr><tr><td> 28</td><td>TEOH, Yann</td><td> 21</td><td>vs.</td><td>DARRAS, Alexandre</td><td> 21</td></tr><tr><td> 29</td><td>Bausch, Joshua</td><td> 21</td><td>vs.</td><td>Chabot, Yves</td><td> 21</td></tr><tr><td> 30</td><td>MICHEA, Richard</td><td> 21</td><td>vs.</td><td>Gicquel, Nicolas</td><td> 21</td></tr><tr><td> 31</td><td>Chiche, Kevin</td><td> 21</td><td>vs.</td><td>Jorgensen, Marcel</td><td> 21</td></tr><tr><td> 32</td><td>Harmenil, Karim</td><td> 21</td><td>vs.</td><td>ZZVIPLambrich, Benjamin</td><td> 21</td></tr><tr><td> 33</td><td>Breviglieri, Massimo-Filippo</td><td> 21</td><td>vs.</td><td>Gay-pellier, Nicolas</td><td> 21</td></tr><tr><td> 34</td><td>Jolivet, Theo</td><td> 21</td><td>vs.</td><td>Steyns, Nick</td><td> 21</td></tr><tr><td> 35</td><td>Martinelle, Geoffrey</td><td> 21</td><td>vs.</td><td>SAFAi, Soheil</td><td> 21</td></tr><tr><td> 36</td><td>Bull, Alexander</td><td> 21</td><td>vs.</td><td>Carvalho, Marcio</td><td> 21</td></tr><tr><td> 37</td><td>Ancona, Michele</td><td> 21</td><td>vs.</td><td>LEROY, Remi</td><td> 21</td></tr><tr><td> 38</td><td>Indrakesuma, Taufik</td><td> 21</td><td>vs.</td><td>Flury, Julian Felix</td><td> 21</td></tr><tr><td> 39</td><td>Stankiewicz, Natalia</td><td> 21</td><td>vs.</td><td>De-Diego, Pedro</td><td> 21</td></tr><tr><td> 40</td><td>Ellingsen, Kenneth</td><td> 21</td><td>vs.</td><td>LAGUERRE, Mathieu</td><td> 21</td></tr><tr><td> 41</td><td>SCHULHOF, LEO</td><td> 21</td><td>vs.</td><td>Goncarov, Jan</td><td> 21</td></tr><tr><td> 42</td><td>Nobari, Poya</td><td> 21</td><td>vs.</td><td>BenAmar, Romain</td><td> 21</td></tr><tr><td> 43</td><td>Wellinger, Serafin</td><td> 21</td><td>vs.</td><td>Labasque, Stephane</td><td> 21</td></tr><tr><td> 44</td><td>Baldrati, Enrico</td><td> 21</td><td>vs.</td><td>Kerem, Hannes</td><td> 21</td></tr><tr><td> 45</td><td>Boudjema, Charly</td><td> 21</td><td>vs.</td><td>Gruson, Pierre</td><td> 21</td></tr><tr><td> 46</td><td>Tibor, Viniczai</td><td> 21</td><td>vs.</td><td>Saiyasely, Liking</td><td> 21</td></tr><tr><td> 47</td><td>Grimmer, Jasper</td><td> 21</td><td>vs.</td><td>Zimmermann, Jonas</td><td> 21</td></tr><tr><td> 48</td><td>Nielsen, Simon</td><td> 21</td><td>vs.</td><td>ZZVIPOliveros, Carlos</td><td> 21</td></tr><tr><td> 49</td><td>Bradford, Harry</td><td> 21</td><td>vs.</td><td>Calligaro, Laurent</td><td> 21</td></tr><tr><td> 50</td><td>Simonot, Timothee</td><td> 21</td><td>vs.</td><td>Dubus, Franck</td><td> 21</td></tr><tr><td> 51</td><td>(20) Strasky, Ondrej</td><td> 21</td><td>vs.</td><td>STIHLE, Julien</td><td> 21</td></tr><tr><td> 52</td><td>Lesch, Andreas</td><td> 21</td><td>vs.</td><td>Bendix-Nielsen, Andreas</td><td> 21</td></tr><tr><td> 53</td><td>Demange, Kevin</td><td> 21</td><td>vs.</td><td>Levy, Olivier</td><td> 21</td></tr><tr><td> 54</td><td>Runtuwene, Rick</td><td> 21</td><td>vs.</td><td>Dickmann, Patrick</td><td> 21</td></tr><tr><td> 55</td><td>Allouchery, Gonzague</td><td> 21</td><td>vs.</td><td>Egorov, Arseniy</td><td> 21</td></tr><tr><td> 56</td><td>Fonteyne, Aron</td><td> 21</td><td>vs.</td><td>LEVEQUE, Julien</td><td> 21</td></tr><tr><td> 57</td><td>PRIMOT, Armel</td><td> 21</td><td>vs.</td><td>Mackl, Valentin</td><td> 21</td></tr><tr><td> 58</td><td>Knorr, Sebastian</td><td> 21</td><td>vs.</td><td>Peltier, Charles</td><td> 21</td></tr><tr><td> 59</td><td>Martineau, Jerome</td><td> 21</td><td>vs.</td><td>Lachaud, Remy</td><td> 21</td></tr><tr><td> 60</td><td>Theurel, Sebastien</td><td> 21</td><td>vs.</td><td>Vilain, Arnaud</td><td> 21</td></tr><tr><td> 61</td><td>Schrijvers, Hans</td><td> 21</td><td>vs.</td><td>Banski, Jakub</td><td> 21</td></tr><tr><td> 62</td><td>Juerschik, Sabine</td><td> 21</td><td>vs.</td><td>Beaumer, Michael</td><td> 21</td></tr><tr><td> 63</td><td>Neirynck, Branco</td><td> 21</td><td>vs.</td><td>Deloly, Mathieu</td><td> 21</td></tr><tr><td> 64</td><td>Semenov, Peter</td><td> 21</td><td>vs.</td><td>ZZVIPCevette, Michael</td><td> 21</td></tr><tr><td> 65</td><td>Crepelle, Nicolas</td><td> 21</td><td>vs.</td><td>Magallon, Ander</td><td> 21</td></tr><tr><td> 66</td><td>Van-Der-End, Sander</td><td> 21</td><td>vs.</td><td>Anteri, Fabrizio</td><td> 21</td></tr><tr><td> 67</td><td>Boussaud, Eliott</td><td> 21</td><td>vs.</td><td>SIM, CHAPMAN</td><td> 21</td></tr><tr><td> 68</td><td>Moral, Carlos</td><td> 21</td><td>vs.</td><td>Navin, Aaron</td><td> 21</td></tr><tr><td> 69</td><td>ZZVIPChevallier, Michel</td><td> 21</td><td>vs.</td><td>Savvidis, Panagiotis</td><td> 21</td></tr><tr><td> 70</td><td>Gotfredsen, Anders</td><td> 21</td><td>vs.</td><td>Hermans, Myrddin</td><td> 21</td></tr><tr><td> 71</td><td>Leber, Denis</td><td> 21</td><td>vs.</td><td>Mund, Benjamin</td><td> 21</td></tr><tr><td> 72</td><td>MANTAUT, Jeremie</td><td> 21</td><td>vs.</td><td>Carboni, Carlo</td><td> 21</td></tr><tr><td> 73</td><td>Cibak, Andrea</td><td> 21</td><td>vs.</td><td>Hendriks, Thomas</td><td> 21</td></tr><tr><td> 74</td><td>BELMER, Yann</td><td> 21</td><td>vs.</td><td>Peters, Olivier</td><td> 21</td></tr><tr><td> 75</td><td>Blondel, Nicolas</td><td> 21</td><td>vs.</td><td>Forte, Frederic</td><td> 21</td></tr><tr><td> 76</td><td>Eves, Tom</td><td> 21</td><td>vs.</td><td>Guesnel, Quentin</td><td> 21</td></tr><tr><td> 77</td><td>BIGORNE, Aurelien</td><td> 21</td><td>vs.</td><td>Lebrun, Benoit</td><td> 21</td></tr><tr><td> 78</td><td>Hottmann, Alexander</td><td> 21</td><td>vs.</td><td>Schopman, Balthasar</td><td> 21</td></tr><tr><td> 79</td><td>Asmussen, Allan</td><td> 21</td><td>vs.</td><td>Gauthier, Maxime</td><td> 21</td></tr><tr><td> 80</td><td>Utzon, Mads</td><td> 21</td><td>vs.</td><td>Abilio, Durval</td><td> 21</td></tr><tr><td> 81</td><td>Tuomi, Sami</td><td> 21</td><td>vs.</td><td>Buchan, Joshua</td><td> 21</td></tr><tr><td> 82</td><td>ZZVIPVefa, Yusuf Kemal</td><td> 21</td><td>vs.</td><td>TERUYA, KAKUMAE</td><td> 21</td></tr><tr><td> 83</td><td>VRETMAN, Alexandre</td><td> 21</td><td>vs.</td><td>Brook, Lee</td><td> 21</td></tr><tr><td> 84</td><td>Kratter, Filippo</td><td> 21</td><td>vs.</td><td>Davant, Martin</td><td> 21</td></tr><tr><td> 85</td><td>Grint, Richard</td><td> 21</td><td>vs.</td><td>ZZVIPGuidez, Nicolas</td><td> 21</td></tr><tr><td>   </td><td>Catherine, Theo</td><td> 24</td><td> </td><td>* BYE *</td><td></td></tr></tbody></table>

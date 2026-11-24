@@ -1,0 +1,47 @@
+---
+id: 0kd9s83x
+kind: event
+lang: de
+path: /de/articles/event-coverage/2007/09-01-round-11-pairings
+title: Round 11 Pairings
+published: '2007-09-01'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: de
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-11-pairings-2007-09-01
+    lang_detected: de
+    capture_id: 494064
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-11-pairings-2007-09-01
+    captured_at: '2022-05-28 20:34:19+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-11-pairings-2007-09-01
+    lang_detected: de
+    capture_id: 494064
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-11-pairings-2007-09-01
+    captured_at: '2022-05-28 20:34:19+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: 0kd9s83x
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-11-pairings-2007-09-01
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/round-11-pairings-2007-09-01
+  lang: de
+  template: drupal
+  captured_at: '2022-05-28 20:34:19+00'
+  capture_id: 494064
+  wayback_url: https://web.archive.org/web/20220528203419id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-11-pairings-2007-09-01
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 0kd9s83x
+  capture_id: 494064
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-11-pairings-2007-09-01
+  wayback_url: https://web.archive.org/web/20220528203419id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-11-pairings-2007-09-01
+  captured_at: '2022-05-28 20:34:19+00'
+  template: drupal
+  sha256: 2636d9f23f5745ca42441cb1a6282131bffb75e339fca03b627bd2342bedaf3d
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Points</b></td><td><b>&#10;						</b></td><td><b>Opponent</b></td><td><b>Points</b></td></tr><tr><td> 1</td><td>Borczyk, Paul</td><td> 27</td><td>vs.</td><td>Seiter, Florian</td><td> 25</td></tr><tr><td> 2</td><td>Gräfensteiner, Tobias</td><td> 24</td><td>vs.</td><td>Koch, Thomas</td><td> 24</td></tr><tr><td> 3</td><td>Johannsen, Dennis</td><td> 24</td><td>vs.</td><td>Niebler, Stephan</td><td> 24</td></tr><tr><td> 4</td><td>Johnson, Sven</td><td> 24</td><td>vs.</td><td>Rasir, Tobias</td><td> 21</td></tr><tr><td> 5</td><td>Bode, Roland</td><td> 21</td><td>vs.</td><td>Koch, Florian</td><td> 21</td></tr><tr><td> 6</td><td>Rösner, Bodo</td><td> 21</td><td>vs.</td><td>Blech, Reinhard</td><td> 21</td></tr><tr><td> 7</td><td>Diezel, Michael</td><td> 21</td><td>vs.</td><td>Rodi, Daniel</td><td> 21</td></tr><tr><td> 8</td><td>Koller, Tobias</td><td> 21</td><td>vs.</td><td>Fanghaenel, Alex</td><td> 21</td></tr><tr><td> 9</td><td>Schmeußer, Simon</td><td> 21</td><td>vs.</td><td>Porojan, Raul</td><td> 21</td></tr><tr><td> 10</td><td>Steinsdörfer, Daniel</td><td> 21</td><td>vs.</td><td>Vonderberg, Sven</td><td> 21</td></tr><tr><td> 11</td><td>Luy, Theo</td><td> 21</td><td>vs.</td><td>Wechsel, Alexander</td><td> 21</td></tr><tr><td> 12</td><td>Müller, Michael</td><td> 21</td><td>vs.</td><td>Unfried, Jörg</td><td> 21</td></tr><tr><td> 13</td><td>Wenner, Henning</td><td> 21</td><td>vs.</td><td>Hofmann, Mike</td><td> 21</td></tr><tr><td> 14</td><td>Massat, Nicolas</td><td> 19</td><td>vs.</td><td>Mueller, Andre</td><td> 19</td></tr><tr><td> 15</td><td>Grudowski, Dennis</td><td> 18</td><td>vs.</td><td>Juergens, Dorian</td><td> 18</td></tr><tr><td> 16</td><td>Michels, Tim</td><td> 18</td><td>vs.</td><td>Arndt, Martin</td><td> 18</td></tr><tr><td> 17</td><td>Schrader, Konstantin</td><td> 18</td><td>vs.</td><td>Eder, Wolfgang</td><td> 18</td></tr><tr><td> 18</td><td>Hermann, Manfred</td><td> 18</td><td>vs.</td><td>Gierse, Alexander</td><td> 18</td></tr><tr><td> 19</td><td>Jeschke, Benjamin</td><td> 18</td><td>vs.</td><td>Sappl, Josef</td><td> 18</td></tr><tr><td> 20</td><td>Rosada, Adrian</td><td> 18</td><td>vs.</td><td>Hemmer, Philipp</td><td> 18</td></tr><tr><td> 21</td><td>Wagner, Stefan</td><td> 18</td><td>vs.</td><td>Gräfensteiner, Daniel</td><td> 18</td></tr><tr><td> 22</td><td>Hemmerich, Andreas</td><td> 18</td><td>vs.</td><td>Paulmaier, Benjamin</td><td> 18</td></tr><tr><td> 23</td><td>Wigge, Mathias</td><td> 18</td><td>vs.</td><td>Lutz, Patrick</td><td> 18</td></tr><tr><td> 24</td><td>Passin, Philip</td><td> 18</td><td>vs.</td><td>Fischer-Gundlach, Moritz</td><td> 18</td></tr><tr><td> 25</td><td>Grohmann, Jonas</td><td> 18</td><td>vs.</td><td>Schein, Tobias</td><td> 18</td></tr><tr><td> 26</td><td>Schummer, Ralph</td><td> 16</td><td>vs.</td><td>Wusowski, Daniel</td><td> 16</td></tr><tr><td> 27</td><td>Dellas, Tim</td><td> 16</td><td>vs.</td><td>Bisterfeld, Martin</td><td> 16</td></tr><tr><td> 28</td><td>Zaadstra, David</td><td> 16</td><td>vs.</td><td>Maron, Alf</td><td> 15</td></tr><tr><td> 29</td><td>Winkler, Eric</td><td> 15</td><td>vs.</td><td>Schetter, Jerome</td><td> 15</td></tr><tr><td> 30</td><td>Schäfer, Carsten</td><td> 15</td><td>vs.</td><td>Landt, Nils</td><td> 15</td></tr><tr><td> 31</td><td>Herold, Jim</td><td> 15</td><td>vs.</td><td>Jaeger, Jens</td><td> 15</td></tr><tr><td> 32</td><td>Brenner, Martin</td><td> 15</td><td>vs.</td><td>Koppenhagen, Nick</td><td> 15</td></tr><tr><td> 33</td><td>Delere, Andre</td><td> 15</td><td>vs.</td><td>Lexa, Alexander</td><td> 15</td></tr><tr><td> 34</td><td>Kropp, Alexander</td><td> 15</td><td>vs.</td><td>Lehmann, Robin</td><td> 15</td></tr><tr><td> 35</td><td>Gosch, Christian</td><td> 15</td><td>vs.</td><td>Winter, Sascha</td><td> 15</td></tr><tr><td> 36</td><td>Klingbeil, Berthold</td><td> 15</td><td>vs.</td><td>Mack, Alex</td><td> 15</td></tr><tr><td> 37</td><td>Schwarz, Stephan</td><td> 15</td><td>vs.</td><td>Krpic, Yves</td><td> 15</td></tr><tr><td> 38</td><td>Stephan, Jürgen</td><td> 15</td><td>vs.</td><td>Krieger, Philipp</td><td> 15</td></tr><tr><td> 39</td><td>Schmidt, Maximilian</td><td> 15</td><td>vs.</td><td>Refsdal, Gunnar</td><td> 13</td></tr><tr><td> 40</td><td>Sommerlade, Jan Philip</td><td> 13</td><td>vs.</td><td>Pils, Florian</td><td> 13</td></tr><tr><td> 41</td><td>Gladitz, Robert</td><td> 13</td><td>vs.</td><td>Hieninger, Andreas</td><td> 13</td></tr><tr><td> 42</td><td>Mettich, Alexander</td><td> 13</td><td>vs.</td><td>Storch, Alexander</td><td> 12</td></tr><tr><td> 43</td><td>Arndt, Tilmann</td><td> 12</td><td>vs.</td><td>Wirths, Manuel</td><td> 12</td></tr><tr><td> 44</td><td>Schaffernicht, Erik</td><td> 12</td><td>vs.</td><td>Schulmerich, Felix</td><td> 12</td></tr><tr><td> 45</td><td>Bertelsmeier, Philipp</td><td> 12</td><td>vs.</td><td>Körner, Kevin</td><td> 12</td></tr><tr><td> 46</td><td>Schramm, Andre</td><td> 12</td><td>vs.</td><td>Hahn, Philipp</td><td> 11</td></tr><tr><td> 47</td><td>Brueggemann, Julian</td><td> 10</td><td>vs.</td><td>Hilbert, Christian</td><td> 9</td></tr><tr><td> 48</td><td>Reichel-Dittes, Christopher</td><td> 9</td><td>vs.</td><td>Jaeger, Christian</td><td> 9</td></tr><tr><td>&#10;					</td><td>Severin, Thoralf</td><td> 7</td><td>&#10;					</td><td>* BYE *</td><td></td></tr></tbody></table>

@@ -1,0 +1,47 @@
+---
+id: 3xqzncyz
+kind: event
+lang: en
+path: /en/articles/event-coverage/2014/05-11-grand-prix-warsaw-2014-coverage-round-15-results
+title: Grand Prix Warsaw 2014 Coverage Round 15 Results
+published: '2014-05-11'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-warsaw-2014-coverage-round-15-results-2014-05-11
+    lang_detected: en
+    capture_id: 435770
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-warsaw-2014-coverage-round-15-results-2014-05-11
+    captured_at: '2022-01-16 19:17:48+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-warsaw-2014-coverage-round-15-results-2014-05-11
+    lang_detected: en
+    capture_id: 435770
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-warsaw-2014-coverage-round-15-results-2014-05-11
+    captured_at: '2022-01-16 19:17:48+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: 3xqzncyz
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-warsaw-2014-coverage-round-15-results-2014-05-11
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-warsaw-2014-coverage-round-15-results-2014-05-11
+  lang: en
+  template: drupal
+  captured_at: '2022-01-16 19:17:48+00'
+  capture_id: 435770
+  wayback_url: https://web.archive.org/web/20220116191748id_/https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-warsaw-2014-coverage-round-15-results-2014-05-11
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 3xqzncyz
+  capture_id: 435770
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-warsaw-2014-coverage-round-15-results-2014-05-11
+  wayback_url: https://web.archive.org/web/20220116191748id_/https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-warsaw-2014-coverage-round-15-results-2014-05-11
+  captured_at: '2022-01-16 19:17:48+00'
+  template: drupal
+  sha256: 0f36cf84ab0403127602c19adc568fcd4e1a9db17e189c5ca781f10cfa8a5fd4
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Result</b></td><td><b>&#10;						</b></td><td><b>Opponent</b></td></tr><tr><td> 1</td><td>Floch, Ivan [SVK]</td><td>Drew 0-0-0</td><td>vs.</td><td>Dominguez, Javier [ESP]</td></tr><tr><td> 2</td><td>Lehner, Bernhard [AUT]</td><td>Drew 0-0-0</td><td>vs.</td><td>Vanderhallen, Nicolas [BEL]</td></tr><tr><td> 3</td><td>Fior, Daniel [ITA]</td><td>Won 2-0</td><td>vs.</td><td>Brendemühl, Bernd [DEU]</td></tr><tr><td> 4</td><td>Sushalskyy, Sergiy [UKR]</td><td>Won 2-1</td><td>vs.</td><td>Léo, Carbonell [FRA]</td></tr><tr><td> 5</td><td>Anteri, Fabrizio [VEN]</td><td>Won 2-0</td><td>vs.</td><td>Strelejko, Albert [POL]</td></tr><tr><td> 6</td><td>Yu, Benjamin [USA]</td><td>Won 2-0</td><td>vs.</td><td>Tomelitsch, Patrick [AUT]</td></tr><tr><td> 7</td><td>Vincenzi, Luca [ITA]</td><td>Won 2-0</td><td>vs.</td><td>Tennivaara, Sabina [SWE]</td></tr><tr><td> 8</td><td>Larsson, Joel [SWE]</td><td>Lost 0-2</td><td>vs.</td><td>Le Briand, Loic [FRA]</td></tr><tr><td> 9</td><td>(14) Cifka, Stanislav [CZE]</td><td>Won 2-0</td><td>vs.</td><td>Jezierski, Grzegorz [POL]</td></tr><tr><td> 10</td><td>Lainé, fabien [FRA]</td><td>Lost 0-2</td><td>vs.</td><td>Alama, Jakub [POL]</td></tr><tr><td> 11</td><td>Jana, Richard [DEU]</td><td>Drew 0-0-0</td><td>vs.</td><td>Kuchta, Tomas [CZE]</td></tr><tr><td> 12</td><td>Fiala-Ibitz, Sebastian [AUT]</td><td>Won 2-0</td><td>vs.</td><td>Cohen, Amit [ISR]</td></tr><tr><td> 13</td><td>Hornansky, Richard [SVK]</td><td>Won 2-1</td><td>vs.</td><td>Gajewski, Michal [POL]</td></tr><tr><td> 14</td><td>Berkemeier, Chris [DEU]</td><td>Lost 1-2</td><td>vs.</td><td>Bakkehaug, Christian [NOR]</td></tr><tr><td> 15</td><td>Portaro, Alessandro [ITA]</td><td>Won 2-1</td><td>vs.</td><td>Skut, Patryk [POL]</td></tr><tr><td> 16</td><td>Loeb, Davy [POL]</td><td>Won 2-1</td><td>vs.</td><td>Faustyn, Maciek [POL]</td></tr><tr><td> 17</td><td>Tichý, Marek [CZE]</td><td>Drew 0-0-0</td><td>vs.</td><td>Dusek, Lukas [CZE]</td></tr><tr><td> 18</td><td>de Graaff, Claes [NLD]</td><td>Won 2-0</td><td>vs.</td><td>Boussaudi, Eliott [FRA]</td></tr><tr><td> 19</td><td>Sikora, Mateusz [DEU]</td><td>Lost 0-2</td><td>vs.</td><td>Ramis Pascual, Toni [ESP]</td></tr><tr><td> 20</td><td>Ross, Edward [SCO]</td><td>Lost 0-2</td><td>vs.</td><td>Karsten, Frank [NLD]</td></tr><tr><td> 21</td><td>Nguyen, Duc [DEU]</td><td>Lost 1-2</td><td>vs.</td><td>van den Brink, Henry [NLD]</td></tr><tr><td> 22</td><td>Ancona, Michele [ITA]</td><td>Lost 1-2</td><td>vs.</td><td>Kowalski, Grzegorz [POL]</td></tr><tr><td> 23</td><td>Przekora, Lukas [POL]</td><td>Lost 1-2</td><td>vs.</td><td>Prinzell, Johan [SWE]</td></tr><tr><td> 24</td><td>Hatto, Steve [LUX]</td><td>Lost 1-2</td><td>vs.</td><td>Dolar, Robin [SVN]</td></tr><tr><td> 25</td><td>Matuszewski, Hubert [POL]</td><td>Won 2-0</td><td>vs.</td><td>Cubedo, Pablo [ESP]</td></tr><tr><td> 26</td><td>Watsfeldt, Elias [SWE]</td><td>Lost 1-2</td><td>vs.</td><td>Strasky, Ondrej [CZE]</td></tr><tr><td> 27</td><td>Danninger, Manuel [AUT]</td><td>Lost 1-2</td><td>vs.</td><td>Cutuli, Daniele [ITA]</td></tr><tr><td> 28</td><td>Radloff, Tobias [DEU]</td><td>Lost 1-2</td><td>vs.</td><td>Bangert, Jan [DEU]</td></tr><tr><td> 29</td><td>Giusti, Emanuele [ITA]</td><td>Won 2-0</td><td>vs.</td><td>Tóth, Jakub [CZE]</td></tr><tr><td> 30</td><td>Van Cleave, Trey [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Szoke, Zoltan [HUN]</td></tr><tr><td> 31</td><td>Kupnicki, Krzysztof [POL]</td><td>Won 2-0</td><td>vs.</td><td>Bausch, Joshua [DEU]</td></tr><tr><td> 32</td><td>Zulian, Simone [ITA]</td><td>Lost 1-2</td><td>vs.</td><td>Saito, Tomoharu [JPN]</td></tr><tr><td> 33</td><td>Suurna, Reivo [EST]</td><td>Lost 0-2</td><td>vs.</td><td>Golubkin, Sergey [RUS]</td></tr><tr><td> 34</td><td>Orlowski, Robert [POL]</td><td>Won 2-0</td><td>vs.</td><td>Li, Sean S [ENG]</td></tr><tr><td> 35</td><td>Sutkus, Skirmantas [LTU]</td><td>Drew 0-0-0</td><td>vs.</td><td>Podbielski, Pawel [POL]</td></tr><tr><td> 36</td><td>Krumpholc, Jan [CZE]</td><td>Won 2-1</td><td>vs.</td><td>Sokolowski, Konrad [POL]</td></tr><tr><td> 37</td><td>Andrzejewski, Alan [POL]</td><td>Won 2-1</td><td>vs.</td><td>Boruvka, Petr [CZE]</td></tr><tr><td> 38</td><td>Wojno, Lukasz [POL]</td><td>Won 2-1</td><td>vs.</td><td>Telarov, Aleksa [SCG]</td></tr><tr><td> 39</td><td>Flis, Grzegorz [ENG]</td><td>Lost 1-2</td><td>vs.</td><td>Lantto, Magnus [SWE]</td></tr><tr><td> 40</td><td>Pestov, Evgeny [RUS]</td><td>Lost 1-2</td><td>vs.</td><td>Horvath, Tamas [HUN]</td></tr><tr><td> 41</td><td>Grimaldi, Antoine [FRA]</td><td>Won 2-0</td><td>vs.</td><td>Rausch, Oliver [DEU]</td></tr><tr><td> 42</td><td>Põldsam, Ismo [EST]</td><td>Won 2-0</td><td>vs.</td><td>Neniskis, Algirdas [LTU]</td></tr><tr><td> 43</td><td>Lukaszyk, Tomasz [POL]</td><td>Lost 0-2</td><td>vs.</td><td>Wroblewski, Jaroslaw [POL]</td></tr><tr><td> 44</td><td>Williams, LoneWolf [ENG]</td><td>Won 2-1</td><td>vs.</td><td>Staciwa, Marcin [POL]</td></tr><tr><td> 45</td><td>Heylen, Maxime [BEL]</td><td>Won 2-0</td><td>vs.</td><td>Nobari, Poya [SWE]</td></tr><tr><td> 46</td><td>Hensing, Marcus [DNK]</td><td>Won 2-0</td><td>vs.</td><td>Seta, Daniel [POL]</td></tr><tr><td> 47</td><td>Vilsgaard, Rasmus [DNK]</td><td>Won 2-1</td><td>vs.</td><td>Mayer, Manuel [DEU]</td></tr><tr><td> 48</td><td>Verner, Lukas [CZE]</td><td>Won 2-1</td><td>vs.</td><td>Ben Jaafar, Mehdi [POL]</td></tr><tr><td> 49</td><td>Nagy, Tamas [HUN]</td><td>Won 2-0</td><td>vs.</td><td>Guthmann, Yann [FRA]</td></tr><tr><td> 50</td><td>Calzolari, Lorenzo [ITA]</td><td>Won 2-1</td><td>vs.</td><td>Vanek, Tomas [CZE]</td></tr><tr><td> 51</td><td>Musmacher, Thomas [DEU]</td><td>Won 2-0</td><td>vs.</td><td>Oehler, Martin [DEU]</td></tr><tr><td> 52</td><td>Paiste, Paarn [EST]</td><td>Lost 0-2</td><td>vs.</td><td>Oberbek, Przemek [POL]</td></tr><tr><td> 53</td><td>Horosiewicz, Lukas [SWE]</td><td>Lost 1-2</td><td>vs.</td><td>Napierski, Kamil [POL]</td></tr><tr><td> 54</td><td>Luty, Leszek [POL]</td><td>Lost 1-2</td><td>vs.</td><td>Gerhardt, Rostislav [CZE]</td></tr><tr><td> 55</td><td>Wieczorek, Konrad [POL]</td><td>Won 2-1</td><td>vs.</td><td>Miennikowski, Jedrzej [POL]</td></tr><tr><td> 56</td><td>Kachapow, Marcel [DEU]</td><td>Won 2-0</td><td>vs.</td><td>Baldrati, Enrico [ITA]</td></tr><tr><td> 57</td><td>Staniucha, Tymoteusz [POL]</td><td>Won 2-0</td><td>vs.</td><td>Mueller, Szymon [POL]</td></tr><tr><td>&#10;					</td><td>Wodecki, Krzysztof [POL]</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr><tr><td>&#10;					</td><td>Switalski, Kazimierz [POL]</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr><tr><td>&#10;					</td><td>Smirnov, Dmitry [RUS]</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr><tr><td>&#10;					</td><td>Bajerowicz, Adam [POL]</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr><tr><td>&#10;					</td><td>Reiter, Marius [AUT]</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr><tr><td>&#10;					</td><td>(1) Dezani, Jeremy [FRA]</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr><tr><td>&#10;					</td><td>White, Mike [USA]</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr></tbody></table>

@@ -1,0 +1,63 @@
+---
+id: kwsmh342
+kind: event
+lang: it
+path: /it/events/2010/itnat10/round-8-pairings
+title: Round 8 Pairings
+published: '2010-08-01'
+column_slug: null
+column: null
+authors: []
+event_code: itnat10
+detected_lang: it
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-8-pairings-2010-08-01
+    lang_detected: it
+    capture_id: 567500
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-8-pairings-2010-08-01
+    captured_at: '2021-11-30 02:33:44+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-8-pairings-2010-08-01
+    lang_detected: it
+    capture_id: 567500
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-8-pairings-2010-08-01
+    captured_at: '2021-11-30 02:33:44+00'
+    rule: drupal.posted_in_date
+  event_code:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/itnat10/pair8
+    lang_detected: it
+    capture_id: 492891
+    url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/itnat10/pair8
+    captured_at: '2013-06-28 04:00:14+00'
+    rule: url.event_code
+sources:
+- document_id: kwsmh342
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-8-pairings-2010-08-01
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/round-8-pairings-2010-08-01
+  lang: it
+  template: drupal
+  captured_at: '2021-11-30 02:33:44+00'
+  capture_id: 567500
+  wayback_url: https://web.archive.org/web/20211130023344id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-8-pairings-2010-08-01
+- document_id: kwsmh342
+  url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/itnat10/pair8
+  page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/itnat10/pair8
+  lang: it
+  template: aspx
+  captured_at: '2013-06-28 04:00:14+00'
+  capture_id: 492891
+  wayback_url: https://web.archive.org/web/20130628040014id_/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/itnat10/pair8
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: kwsmh342
+  capture_id: 567500
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-8-pairings-2010-08-01
+  wayback_url: https://web.archive.org/web/20211130023344id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-8-pairings-2010-08-01
+  captured_at: '2021-11-30 02:33:44+00'
+  template: drupal
+  sha256: 3be94b6260734c94d483220b34dcd664dd1c5de5820169adc23c72dc0223314b
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Points</b></td><td><b>&#10;						</b></td><td><b>Opponent</b></td><td><b>Points</b></td></tr><tr><td> 81</td><td>Torazza, Enrico</td><td> 21</td><td>vs.</td><td>Rizzato, Alex</td><td> 19</td></tr><tr><td> 36</td><td>Grimal, Nicola</td><td> 18</td><td>vs.</td><td>Pascoli, Mario</td><td> 18</td></tr><tr><td> 13</td><td>Ronchi, Federico</td><td> 18</td><td>vs.</td><td>Casiraghi, Fabio</td><td> 18</td></tr><tr><td> 30</td><td>Trani, Marco</td><td> 18</td><td>vs.</td><td>Roccoli, Guido</td><td> 18</td></tr><tr><td> 82</td><td>Bottino, Fabio</td><td> 18</td><td>vs.</td><td>Montanari, Mattia</td><td> 16</td></tr><tr><td> 37</td><td>Angeli, Alessio</td><td> 18</td><td>vs.</td><td>Giarola, Andrea</td><td> 18</td></tr><tr><td> 60</td><td>Testa, Paolo</td><td> 18</td><td>vs.</td><td>Estratti, Samuele</td><td> 18</td></tr><tr><td> 14</td><td>Asta, Angelo</td><td> 16</td><td>vs.</td><td>Barone, Paolo</td><td> 16</td></tr><tr><td> 61</td><td>Hugony, Francesco</td><td> 16</td><td>vs.</td><td>Barnini, Lorenzo</td><td> 15</td></tr><tr><td> 64</td><td>Reano, Alberto</td><td> 15</td><td>vs.</td><td>Costantini, Andrea</td><td> 15</td></tr><tr><td> 41</td><td>Corti, Andrea</td><td> 15</td><td>vs.</td><td>Iaconelli, Luca</td><td> 15</td></tr><tr><td> 40</td><td>Borrelli, Jacopo</td><td> 15</td><td>vs.</td><td>Farace, Riccardo</td><td> 15</td></tr><tr><td> 39</td><td>Marzano, Davide</td><td> 15</td><td>vs.</td><td>Negrini, Iari</td><td> 15</td></tr><tr><td> 63</td><td>Rampini, Stefano</td><td> 15</td><td>vs.</td><td>Santinelli, Enrico</td><td> 15</td></tr><tr><td> 62</td><td>Manfroni, Andrea</td><td> 15</td><td>vs.</td><td>Cicolella, Andrea</td><td> 15</td></tr><tr><td> 18</td><td>Spanò, Daniel</td><td> 15</td><td>vs.</td><td>Frantuma, Marco</td><td> 15</td></tr><tr><td> 38</td><td>La Placa, Andrea</td><td> 15</td><td>vs.</td><td>Pagliughi, Ludovico</td><td> 15</td></tr><tr><td> 17</td><td>Gaviglio, Luca</td><td> 15</td><td>vs.</td><td>Sassoli, Simone</td><td> 15</td></tr><tr><td> 84</td><td>Anceschi, Marco</td><td> 15</td><td>vs.</td><td>Campagnola, Paul</td><td> 15</td></tr><tr><td> 85</td><td>Rosolen, Fabio</td><td> 15</td><td>vs.</td><td>Calvetto, Marcello</td><td> 15</td></tr><tr><td> 83</td><td>Portaro, Alessandro</td><td> 15</td><td>vs.</td><td>Pirilli, Antonio</td><td> 15</td></tr><tr><td> 87</td><td>Ravagli, Luca</td><td> 15</td><td>vs.</td><td>Rizzi, Mattia</td><td> 14</td></tr><tr><td> 15</td><td>Biasio, Stefano</td><td> 15</td><td>vs.</td><td>Ortolani, Francesco</td><td> 15</td></tr><tr><td> 16</td><td>Mulato, Daniel</td><td> 15</td><td>vs.</td><td>Puglia, Valerio</td><td> 15</td></tr><tr><td> 86</td><td>Barone, Salvatore</td><td> 15</td><td>vs.</td><td>Cerciello, Vincenzo</td><td> 15</td></tr><tr><td> 88</td><td>Stefani, Nicholas</td><td> 13</td><td>vs.</td><td>Maccagnani, Stefano</td><td> 13</td></tr><tr><td> 19</td><td>Nai, Enrico</td><td> 13</td><td>vs.</td><td>Befani, Giacomo</td><td> 13</td></tr><tr><td> 65</td><td>Busi, Yanez</td><td> 13</td><td>vs.</td><td>Muscio, Alessio</td><td> 13</td></tr><tr><td> 42</td><td>Vaisitti, Niccolo</td><td> 13</td><td>vs.</td><td>Marello, Gualtiero</td><td> 13</td></tr><tr><td> 44</td><td>Sala, Simone</td><td> 12</td><td>vs.</td><td>Veltri, Claudio</td><td> 12</td></tr><tr><td> 43</td><td>Passeri, Luca</td><td> 12</td><td>vs.</td><td>Giusti, Emanuele</td><td> 12</td></tr><tr><td> 45</td><td>Nesi, Eugenio</td><td> 12</td><td>vs.</td><td>Chiodi, Tommaso</td><td> 12</td></tr><tr><td> 91</td><td>Dedaj, Terenc</td><td> 12</td><td>vs.</td><td>Fornasari, Michele</td><td> 12</td></tr><tr><td> 23</td><td>Campanini, Tommaso</td><td> 12</td><td>vs.</td><td>Mariotti, Francesco</td><td> 12</td></tr><tr><td> 26</td><td>Giacobazzi, Nicolò</td><td> 12</td><td>vs.</td><td>Chiarel, Federico</td><td> 12</td></tr><tr><td> 20</td><td>Pilurzu, Stefano</td><td> 12</td><td>vs.</td><td>Gavelli, Lorenzo</td><td> 12</td></tr><tr><td> 2</td><td>Pinto, Antonio</td><td> 12</td><td>vs.</td><td>Lanese, Ivan</td><td> 12</td></tr><tr><td> 3</td><td>Gaspari, Massimo</td><td> 12</td><td>vs.</td><td>Berton, Matteo</td><td> 11</td></tr><tr><td> 21</td><td>Malvasi, Alessandro</td><td> 12</td><td>vs.</td><td>Correnti, Dario</td><td> 12</td></tr><tr><td> 25</td><td>Attar Hamadani, Emanuel</td><td> 12</td><td>vs.</td><td>Montresor, Fabio</td><td> 12</td></tr><tr><td> 47</td><td>Tarrini, Daniele</td><td> 12</td><td>vs.</td><td>Di Fazio, Francesco</td><td> 12</td></tr><tr><td> 24</td><td>Fermani, Marco</td><td> 12</td><td>vs.</td><td>Albarelli, Nicola</td><td> 12</td></tr><tr><td> 90</td><td>Pichetto, Filippo</td><td> 12</td><td>vs.</td><td>Sbrozzi, Luigi</td><td> 12</td></tr><tr><td> 46</td><td>Manganelli, Paolo</td><td> 12</td><td>vs.</td><td>Degl'Innocenti, Alessio</td><td> 12</td></tr><tr><td> 48</td><td>D'Anneo, Marco</td><td> 12</td><td>vs.</td><td>Vecchio, Claudio</td><td> 12</td></tr><tr><td> 70</td><td>Moscato, Adriano</td><td> 12</td><td>vs.</td><td>Vergoni, Davide</td><td> 12</td></tr><tr><td> 68</td><td>Reale, Giuseppe</td><td> 12</td><td>vs.</td><td>Vetrò, Marco</td><td> 12</td></tr><tr><td> 49</td><td>Baggio, Gianni</td><td> 12</td><td>vs.</td><td>Marcucci, Federico</td><td> 12</td></tr><tr><td> 71</td><td>Neri, Riccardo</td><td> 12</td><td>vs.</td><td>Strada, Biagio</td><td> 12</td></tr><tr><td> 66</td><td>Battistuzzi, Nicolò</td><td> 12</td><td>vs.</td><td>Pavesi, Paolo</td><td> 12</td></tr><tr><td> 78</td><td>Balestra, Luca</td><td> 12</td><td>vs.</td><td>Bugliani, Stefano</td><td> 12</td></tr><tr><td> 89</td><td>Cipolleschi, Francesco</td><td> 12</td><td>vs.</td><td>Sergi, Stefano</td><td> 12</td></tr><tr><td> 67</td><td>Cabella, Fulvio</td><td> 12</td><td>vs.</td><td>Ruffilli, Massimiliano</td><td> 12</td></tr><tr><td> 69</td><td>Rossi, Alessandro</td><td> 12</td><td>vs.</td><td>Babbi, Aureliano</td><td> 12</td></tr><tr><td> 1</td><td>Minghetti, Riccardo</td><td> 12</td><td>vs.</td><td>Caglio, Matteo</td><td> 12</td></tr><tr><td> 72</td><td>Quaglia, Davide</td><td> 11</td><td>vs.</td><td>Tagliaferro, Riccardo</td><td> 11</td></tr><tr><td> 27</td><td>Berti, Francesco</td><td> 10</td><td>vs.</td><td>Mancuso, Antonino</td><td> 10</td></tr><tr><td> 4</td><td>Zini, Alberto</td><td> 10</td><td>vs.</td><td>D'Angella, Stefano</td><td> 10</td></tr><tr><td> 50</td><td>Carena, Giacomo</td><td> 10</td><td>vs.</td><td>Bevere, Gianluca</td><td> 9</td></tr><tr><td> 73</td><td>Zilbershmidt, Daniel</td><td> 10</td><td>vs.</td><td>Pazzini, Damiano</td><td> 10</td></tr><tr><td> 31</td><td>Panarello, Fabio</td><td> 9</td><td>vs.</td><td>Saia, Fabio</td><td> 9</td></tr><tr><td> 77</td><td>Ardizzone, Marco</td><td> 9</td><td>vs.</td><td>Buglione, Giuseppe</td><td> 9</td></tr><tr><td> 75</td><td>Gabrielli, Pietro</td><td> 9</td><td>vs.</td><td>Ficicchia, Giuseppe</td><td> 9</td></tr><tr><td> 59</td><td>Landi, Giacomo</td><td> 9</td><td>vs.</td><td>Pilati, Mario</td><td> 9</td></tr><tr><td> 51</td><td>Ferrazzoli, Andrea</td><td> 9</td><td>vs.</td><td>Russo, Salvatore</td><td> 9</td></tr><tr><td> 8</td><td>Laudani, Giovanni</td><td> 9</td><td>vs.</td><td>Fabbri, Francesco</td><td> 9</td></tr><tr><td> 7</td><td>Monetto, Marco</td><td> 9</td><td>vs.</td><td>De Lorenzo, Gianluca</td><td> 9</td></tr><tr><td> 6</td><td>Emmolo, Tommaso</td><td> 9</td><td>vs.</td><td>De Luca, Gaetano</td><td> 9</td></tr><tr><td> 5</td><td>Pelucchi, Alessandro</td><td> 9</td><td>vs.</td><td>Sbrulli, Stefano</td><td> 9</td></tr><tr><td> 74</td><td>Calzolari, Lorenzo</td><td> 9</td><td>vs.</td><td>Grumelli, Riccardo</td><td> 9</td></tr><tr><td> 76</td><td>Spataro, Luca</td><td> 9</td><td>vs.</td><td>Di Leo, Salvo</td><td> 9</td></tr><tr><td> 32</td><td>Rivello, Mattia</td><td> 9</td><td>vs.</td><td>Tassone, Maximilian</td><td> 9</td></tr><tr><td> 52</td><td>Ferrara, Giacomo</td><td> 9</td><td>vs.</td><td>Garella, Andrea</td><td> 9</td></tr><tr><td> 28</td><td>Badechini, Fabio</td><td> 9</td><td>vs.</td><td>Longoni, Davide</td><td> 9</td></tr><tr><td> 54</td><td>Picciafuochi, Riccardo</td><td> 9</td><td>vs.</td><td>Ronchetti, Omar</td><td> 9</td></tr><tr><td> 29</td><td>Pandozy, Artur</td><td> 9</td><td>vs.</td><td>Maestri, Luca</td><td> 9</td></tr><tr><td> 53</td><td>Nicosanti, Nicola</td><td> 9</td><td>vs.</td><td>Raciti, Sandro</td><td> 9</td></tr><tr><td> 22</td><td>De Sarlo, Francesco</td><td> 9</td><td>vs.</td><td>Tripodi, Paolo Alberto</td><td> 8</td></tr><tr><td> 55</td><td>Zulian, Simone</td><td> 8</td><td>vs.</td><td>Pasquini, Riccardo</td><td> 7</td></tr><tr><td> 9</td><td>Marroccoli, David</td><td> 8</td><td>vs.</td><td>Ferrarese, Stefano</td><td> 8</td></tr><tr><td> 56</td><td>Valenti, Ezio</td><td> 7</td><td>vs.</td><td>Fornacini, Mattia</td><td> 6</td></tr><tr><td> 33</td><td>Migliuri, Antonio</td><td> 6</td><td>vs.</td><td>Barberis, Giacomo</td><td> 6</td></tr><tr><td> 34</td><td>Varano, Enrico</td><td> 6</td><td>vs.</td><td>Platti, Omar</td><td> 6</td></tr><tr><td> 35</td><td>Santomo, Lorenzo</td><td> 6</td><td>vs.</td><td>Boncompagni, Francesco</td><td> 6</td></tr><tr><td> 80</td><td>Baldi, Francesco</td><td> 6</td><td>vs.</td><td>Viadana, Gilles</td><td> 6</td></tr><tr><td> 10</td><td>Spada, David</td><td> 6</td><td>vs.</td><td>Franceschet, Matteo</td><td> 6</td></tr><tr><td> 11</td><td>Venturi, Matteo</td><td> 6</td><td>vs.</td><td>Clemente, Luca</td><td> 6</td></tr><tr><td> 57</td><td>De Luca, Andrea</td><td> 6</td><td>vs.</td><td>Merante, Giuseppe</td><td> 6</td></tr><tr><td> 79</td><td>Bini, Paolo</td><td> 6</td><td>vs.</td><td>Morello, Vittorio</td><td> 6</td></tr><tr><td> 58</td><td>Stella, Daniele</td><td> 6</td><td>vs.</td><td>Biscardi, Francesco</td><td> 6</td></tr><tr><td> 12</td><td>Aceto, Pierluigi</td><td> 4</td><td>vs.</td><td>Barbarossa, Luigi</td><td> 3</td></tr><tr><td>&#10;					</td><td>Crisci, Mirko</td><td> 3</td><td>&#10;					</td><td>* BYE * Pod 23</td><td></td></tr></tbody></table>

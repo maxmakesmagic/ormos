@@ -1,0 +1,607 @@
+---
+id: 3qdjqdwa
+kind: event
+lang: en
+path: /en/articles/event-coverage/undated/nuijten-claims-second-grand-prix-title
+title: Nuijten Claims Second Grand Prix Title
+published: null
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtgevent_gpcop05_welcome
+    lang_detected: en
+    capture_id: 829311
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_gpcop05_welcome
+    captured_at: '2009-06-03 20:25:23+00'
+    rule: aspx.article_heading
+sources:
+- document_id: 3qdjqdwa
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_gpcop05_welcome
+  page_key: wizards.com/magic/magazine/article.aspx?x=mtgevent_gpcop05_welcome
+  lang: en
+  template: aspx
+  captured_at: '2009-06-03 20:25:23+00'
+  capture_id: 829311
+  wayback_url: https://web.archive.org/web/20090603202523id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_gpcop05_welcome
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 3qdjqdwa
+  capture_id: 829311
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_gpcop05_welcome
+  wayback_url: https://web.archive.org/web/20090603202523id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_gpcop05_welcome
+  captured_at: '2009-06-03 20:25:23+00'
+  template: aspx
+  sha256: ad1afbd04364c4ae22f23aa27be01fff8c8afb22c89ffdbc27e6c29c12836e9b
+render_recovery:
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Psychatog')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Psychatog
+  occurrences: 18
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kataki,_War[s_Wage')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kataki, War’s Wage
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Darkblast')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Darkblast
+  occurrences: 20
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Engineered_Plague')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Engineered Plague
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Cabal_Therapy')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Cabal Therapy
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Ornithopter')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Ornithopter
+  occurrences: 10
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Chromatic_Sphere')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Chromatic Sphere
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Frogmite')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Frogmite
+  occurrences: 8
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Thoughtcast')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Thoughtcast
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Firebolt')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Firebolt
+  occurrences: 9
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Purge')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Purge
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Pillage')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Pillage
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Flametongue_Kavu')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Flametongue Kavu
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Lava_Dart')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Lava Dart
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Myr_Enforcer')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Myr Enforcer
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Valor')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Valor
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Life_from_the_Loam')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Life from the Loam
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Duress')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Duress
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Smother')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Smother
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Wonder')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Wonder
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Tsabo[s_Decree')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Tsabo’s Decree
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Genesis')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Genesis
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Circular_Logic')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Circular Logic
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Dredge')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Dredge
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Counterspell')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Counterspell
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Life')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Life
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Illusion')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Illusion
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Gifts_Ungiven')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Gifts Ungiven
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Coffin_Purge')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Coffin Purge
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Stalking_Stones')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Stalking Stones
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Stinkweed_Imp')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Stinkweed Imp
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Balancing_Act')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Balancing Act
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Burning_Wish')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Burning Wish
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Pyroclasm')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Pyroclasm
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Cranial_Plating')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Cranial Plating
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Blinkmoth_Nexus')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Blinkmoth Nexus
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Terravore')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Terravore
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Terrarion')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Terrarion
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Carven_Caryatid')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Carven Caryatid
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Benevolent_Ancestor')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Benevolent Ancestor
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Faith[s_Fetters')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Faith’s Fetters
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Phytohydra')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Phytohydra
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Wooded_Foothills')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Wooded Foothills
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Flooded_Strand')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Flooded Strand
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Grim_Lavamancer')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Grim Lavamancer
+  occurrences: 11
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Seat_of_the_Synod')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Seat of the Synod
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mountain')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mountain
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Arcbound_Ravager')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Arcbound Ravager
+  occurrences: 10
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Lightning_Helix')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Lightning Helix
+  occurrences: 12
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Molten_Rain')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Molten Rain
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Savannah_Lions')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Savannah Lions
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Goblin_Legionnaire')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Goblin Legionnaire
+  occurrences: 16
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Scale_of_Chiss-Goria')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Scale of Chiss-Goria
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Erayo,_Soratami_Ascendant')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Arcbound_Worker')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Arcbound Worker
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Force_Spike')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Force Spike
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Fledgling_Dragon')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Fledgling Dragon
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Pyrostatic_Pillar')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Pyrostatic Pillar
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Ghastly_Demise')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Ghastly Demise
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Pernicious_Deed')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Pernicious Deed
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Cephalid_Coliseum')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Cephalid Coliseum
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Isamaru,_Hound_of_Konda')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Isamaru, Hound of Konda
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Umezawa[s_Jitte')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Umezawa’s Jitte
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Watery_Grave')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Watery Grave
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Barren_Moor')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Barren Moor
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Diabolic_Tutor')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Diabolic Tutor
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Char')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Char
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Overgrown_Tomb')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Overgrown Tomb
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Counter')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Counter
+  occurrences: 1
+---
+![](https://i.ormos.uk/b6/0d/b60db17303fd8dbad23b722e34a65c2f79025a96ffe5346e601e864e299bf654.jpg) Julien Nuijten is the Grand Prix-Copenhagen champion, and it’s three for four as Psychatog claimed another Extended title. 
+
+Finally at Copenhagen, we got a hint as to how the complex metagame might unravel. It seems like we have a rock-paper-scissors format. While Affinity had a bad Day One, tournament leaders Olivier Ruel and Pasi Virtanen (as well as local boy Alexander Rathcke) managed to feast on Tog decks all the way into the Top 8. Only there was their charge halted by Boros Deck Wins and in particular Kataki, War’s Wage. This left the way clear for Julien Nuijten’s Big Stinks Tog deck (just look for the little stinker) to knock out fellow countryman Wessel Oomens and then Finnish amateur Kim Valori in a brutal final.
+
+So there you have it: Affinity beats Psychatog beats Boros Deck Wins beats Affinity. Add in about another 20 decks and you get close to the current Extended metagame.
+
+With the World Championships only a few weeks away, current World Champion Julien Nuijten appears to be coming into ominous form. This title is his second Grand Prix crown in the last three months.
+
+  
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;    </td><td>Quarterfinals </td>&#10;    <td> </td>&#10;    <td>Semifinals </td>&#10;    <td> </td>&#10;    <td>Finals </td>&#10;    <td> </td>&#10;    <td>Champion </td>&#10;  </tr>&#10;  <tr>&#10;    <td>1</td>&#10;    <td>&#10;      Olivier Ruel&#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Wessel Oomens, 2-0&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3"> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>8</td>&#10;    <td>&#10;      Wessel Oomens&#10;    </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3">&#10;      Julien Nuijten, 2-0&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>4</td>&#10;    <td>&#10;      Bodo Rösner&#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Julien Nuijten, 2-1&#10;    </td>&#10;    <td rowspan="5"> </td>&#10;    <td rowspan="5">&#10;      Julien Nuijten, 2-0&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>5</td>&#10;    <td>&#10;      Julien Nuijten&#10;    </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3"> </td>&#10;  </tr>&#10;  <tr>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>2</td>&#10;    <td>&#10;      Alexandre Rathcke&#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Alexandre Rathcke, 2-0&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>7</td>&#10;    <td>&#10;      Nikolaos Lahanas&#10;    </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3">&#10;      Kim Valori, 2-0&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>3</td>&#10;    <td>&#10;      Pasi Virtanen&#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Kim Valori, 2-0&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>6</td>&#10;    <td>&#10;      Kim Valori&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;</tbody></table>
+
+  
+  
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <b>EVENT COVERAGE</b>&#10;    </td>&#10;    <td>&#10;      &#10;      <b>FINAL TOP 8 STANDINGS</b>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <ul>&#10;        <br>&#10;        <li>&#10;          <a href="#28">Finals</a>: Kim Valori vs. Julien Nuijten <div><i>by Craig Jones</i></div></li>&#10;        <li>&#10;          <a href="#27">Semfiinal</a>: Alexander Rathcke vs. Kim Valori <div><i>by Jörn Hajek </i></div></li>&#10;        <li>&#10;          <a href="#26">Semifinal</a>: Wessel Oomens vs. Julien Nuijten <div><i>by Frank Karsten </i></div></li>&#10;        <li>&#10;          <a href="#25">Quarterfinal</a>: Wessel Oomens vs. Olivier Ruel <div><i>by Frank Karsten </i></div></li>&#10;        <li>&#10;          <a href="#24">Quarterfinal</a>: Alexander Rathcke vs. Nikolaos Lahanas (“Suicidal Tings”) <div><i>by Jörn Hajek </i></div></li>&#10;        <li>&#10;          <a href="#23">Quarterfinal</a>: Julien Nuijten vs. Bodo Rösner (“Beware the jumping Tog ... oh Meloku”) <div><i>by Craig Jones</i></div></li>&#10;        <li>&#10;          <a href="#22">Quarterfinal</a>: Kim Valori vs. Pasi Virtanen (“It’s time to pay the Kataki...”) <div><i>by Craig Jones</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2006/gpcop05/grand-prix-copenhagen-top-8-decks">Decklists</a>: Top 8 Decks <div><i>by Event Coverage Staff</i></div></li>&#10;        <hr>&#10;        <li>&#10;          <a href="/en/events/2006/gpcop05/day-2-blog-archive">Day 2 Blog Archive</a>: Lots of Ruel Action, Top 8 Countdown, Tog Lunches on Greek, and much more! <div><i>by Craig Jones</i></div></li>&#10;        <hr>&#10;        <li>&#10;          <a href="/en/events/2006/gpcop05/day-1-blog-archive">Day 1 Blog Archive</a>: Tog Mirror Matches, Ruud's Player Card, Budde's Forbiddance, and much more!</li>&#10;        <div>&#10;          <i>by Craig Jones</i>&#10;        </div>&#10;        <li>&#10;          <a href="/de/events/2006/gpcop05/day-1-player-list">Info</a>: Day 1 Player List</li>&#10;        <div>&#10;          <i>by Event Coverage Staff</i>&#10;        </div>&#10;        <li>&#10;          <a href="/en/events/2006/gpcop05/day-1-country-breakdown">Info</a>: Day 1 Country Breakdown</li>&#10;        <div>&#10;          <i>by Event Coverage Staff</i>&#10;        </div>&#10;        <li>&#10;          <a href="/en/events/2009/copenhagen05/grand-prix-copenhagen">Info</a>: Fact Sheet</li>&#10;        <div>&#10;          <i>by Event Coverage Staff</i>&#10;        </div>&#10;      </ul>&#10;    </td>&#10;    <td colspan="2">&#10;      &#10;      <table>&#10;        <tbody><tr>&#10;          <td> 1.  <b>Julien Nuijten</b></td>&#10;          <td>$2,400</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 2.  <b>Kim Valori</b></td>&#10;          <td>$1,700</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 3.  <b>Alexandre Rathcke</b></td>&#10;          <td>$1,200</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 4.  <b>Wessel Oomens</b></td>&#10;          <td>$1,000</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 5.  <b>Olivier Ruel</b></td>&#10;          <td>$800</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 6.  <b>Pasi Virtanen</b></td>&#10;          <td>$800</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 7.  <b>Bodo Rösner</b></td>&#10;          <td>$800</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 8.  <b>Nikolaos Lahanas</b></td>&#10;          <td>$800</td>&#10;        </tr>&#10;      </tbody></table>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <b>Pairings</b>&#10;          </td>&#10;          <td>&#10;            <b>Results</b>&#10;          </td>&#10;          <td>&#10;            <b>Standings</b>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;          </td><td>&#10;          </td><td>&#10;            <a href="/de/events/2006/gpcop05/final-standings">Final</a>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            <a href="/es/events/2006/gpcop05/round-14-pairings">14</a>&#10;            <br>&#10;            <a href="/es/events/2006/gpcop05/round-13-pairings">13</a>&#10;            <br>&#10;            <a href="/afr/events/2006/gpcop05/round-12-pairings">12</a>&#10;            <br>&#10;            <a href="/afr/events/2006/gpcop05/round-11-pairings">11</a>&#10;            <br>&#10;            <a href="/afr/events/2006/gpcop05/round-10-pairings">10</a>&#10;            <br>&#10;            <a href="/afr/events/2006/gpcop05/round-9-pairings">9</a>&#10;          </td>&#10;          <td>&#10;            <a href="/fin/events/2006/gpcop05/round-14-results">14</a>&#10;            <br>&#10;            <a href="/fin/events/2006/gpcop05/round-13-results">13</a>&#10;            <br>&#10;            <a href="/afr/events/2006/gpcop05/round-12-results">12</a>&#10;            <br>&#10;            <a href="/afr/events/2006/gpcop05/round-11-results">11</a>&#10;            <br>&#10;            <a href="/afr/events/2006/gpcop05/round-10-results">10</a>&#10;            <br>&#10;            <a href="/afr/events/2006/gpcop05/round-9-results">9</a>&#10;          </td>&#10;          <td>&#10;            <a href="/de/events/2006/gpcop05/round-14-standings">14</a>&#10;            <br>&#10;            <a href="/de/events/2006/gpcop05/round-13-standings">13</a>&#10;            <br>&#10;            <a href="/de/events/2006/gpcop05/round-12-standings">12</a>&#10;            <br>&#10;            <a href="/de/events/2006/gpcop05/round-11-standings">11</a>&#10;            <br>&#10;            <a href="/de/events/2006/gpcop05/round-10-standings">10</a>&#10;            <br>&#10;            <a href="https://web.archive.org/web/20090603144359/http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpcop05/stand9">9</a>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            <a href="/de/events/2006/gpcop05/round-8-pairings"> 8</a>&#10;            <br>&#10;            <a href="/de/events/2006/gpcop05/round-7-pairings"> 7</a>&#10;            <br>&#10;            <a href="/de/events/2006/gpcop05/round-6-pairings">6</a>&#10;            <br>&#10;            <a href="/de/events/2006/gpcop05/round-5-pairings">5</a>&#10;            <br>&#10;            <a href="/de/events/2006/gpcop05/round-4-pairings">4</a>&#10;            <br>&#10;            <a href="/de/events/2006/gpcop05/round-3-pairings">3</a>&#10;            <br>&#10;            <a href="/de/events/2006/gpcop05/round-2-pairings">2</a>&#10;            <br>&#10;            <a href="/de/events/2006/gpcop05/round-1-pairings"> 1</a>&#10;          </td>&#10;          <td>&#10;            <a href="/de/events/2006/gpcop05/round-8-results"> 8</a>&#10;            <br>&#10;            <a href="/de/events/2006/gpcop05/round-7-results">7</a>&#10;            <br>&#10;            <a href="/de/events/2006/gpcop05/round-6-results">6</a>&#10;            <br>&#10;            <a href="/de/events/2006/gpcop05/round-5-results">5</a>&#10;            <br>&#10;            <a href="/de/events/2006/gpcop05/round-4-results">4</a>&#10;            <br>&#10;            <a href="/de/events/2006/gpcop05/round-3-results">3</a>&#10;            <br>&#10;            <a href="/de/events/2006/gpcop05/round-2-results">2</a>&#10;            <br>&#10;            <a href="/de/events/2006/gpcop05/round-1-results">1</a>&#10;          </td>&#10;          <td>&#10;            <a href="/de/events/2006/gpcop05/round-8-standings">8</a>&#10;            <br>&#10;            <a href="/de/events/2006/gpcop05/round-7-standings">7</a>&#10;            <br>&#10;            <a href="/de/events/2006/gpcop05/round-6-standings">6</a>&#10;            <br>&#10;            <a href="/de/events/2006/gpcop05/round-5-standings">5</a>&#10;            <br>&#10;            <a href="/de/events/2006/gpcop05/round-4-standings">4</a>&#10;            <br>&#10;            <a href="/de/events/2006/gpcop05/round-3-standings">3</a>&#10;            <br>&#10;            <a href="/de/events/2006/gpcop05/round-2-standings">2</a>&#10;            <br>&#10;            <a href="/de/events/2006/gpcop05/round-1-standings">1</a>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;    </td>&#10;  </tr>&#10;</tbody></table>
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <b>BLOG</b>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <br>&#10;      <a name="22">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Quarterfinal: Kim Valori vs. Pasi Virtanen (“It’s time to pay the Kataki...”)</b>&#10;      </li>&#10;      <div>&#10;        <i>by Craig Jones</i>&#10;      </div>&#10;      <p>In this quarterfinal we get an all-Finn clash between two teammates from just outside Helsinki. Pasi Virtanen is actually more of a judge than a player, and this is only his second constructed tournament this century. He does have some PT and Worlds experience back in the dark days. On the other hand this is Kim Valori’s best ever finish and Hawaii will be his first Po Tour if he can make it. As he’s the only amateur in the top 8 my guess is he’ll be able to afford it.</p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/d2/ee/d2eece7faf612cc65e99dd85cc7582730b86aa8de80c2beb66fee0a11b7f6d73.jpg">&#10;            <i>Kim Valori.</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>This is going to be short and bloody. Virtanen’s Affinity deck has managed to keep ahead of Boros Deck Wins all weekend, but now one has finally caught up with him and it’s time to pay the piper, or rather Kataki, War’s Wage. </p>&#10;      <p>Game 1 saw a turn two kill. Virtanen made some artifacts, Valori made Kataki. How do you like that kick in the nuts? As reported from Melbourne, it’s only taken R&amp;D about 6 attempts to finally reign in the Affinity monster through actual cards.</p>&#10;      <p>Valori 1-0 Virtanen.</p>&#10;      <p>Virtanen at least has a bunch of answers in his board in the form of <a>Darkblast</a>, <a>Engineered Plague</a> and <a>Cabal Therapy</a>.</p>&#10;      <p>Virtanen laid out a couple of artifact lands, <a>Ornithopter</a>, <a>Chromatic Sphere</a> and <a>Frogmite</a>. He obviously didn’t have <a>Darkblast</a> as he tapped out for <a>Thoughtcast</a>. You could almost sense the relief from the Finn when his teammate <a>Firebolt</a>ed the <a>Frogmite</a> on turn two instead of bringing in the game-ending legendary spirit.</p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/2f/f2/2ff2fbd3c703802cc4fe9a853eca950ef680c63640a83ceeb60cd5ede7db8694.jpg">&#10;            <i>Pasi Virtanen.</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Boros Deck Wins seems pretty good against affinity even without Kataki as it has an absolute ton of removal. Valori didn’t seem to be using his optimally as Virtanen got to bounce modular counters around.</p>&#10;      <p>It didn’t seem to make a difference. Kill an <a>Ornithopter</a>, sac it to Ravager in response. <a>Purge</a> Ravager, move the counters onto Nexus. <a>Pillage</a> Nexus.</p>&#10;      <p>A <a>Cabal Therapy</a> revealed a hand of <a>Flametongue Kavu</a>, <a>Lava Dart</a> and <a>Firebolt</a>.</p>&#10;      <p>&#10;        <a>Thoughtcast</a> found Virtanen a pair of Workers, which both went down in flames. Finally he got a <a>Myr Enforcer</a> to stick. It was only temporary. Kataki came out to tie up Virtanen’s mana, a <a>Firebolt</a> and Lavamancer shifted the Enforcer, leaving the way clear for the <a>Flametongue Kavu</a> to smash through.</p>&#10;      <p>“This matchup is horrible,” Virtanen explained. “In all the games I’ve played I’ve not won one yet.”</p>&#10;      <p>Kim Valori beats Pasi Virtanen 2-0.</p>&#10;      <br>&#10;      <a name="23">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Quarterfinal: Julien Nuijten vs Bodo Rösner (“Beware the jumping Tog ... oh Meloku”)</b>&#10;      </li>&#10;      <div>&#10;        <i>by Craig Jones</i>&#10;      </div>&#10;      <p>Goddamn. I was sure the Oomens-Ruel match would finish first. Oh well, because <a>Valor</a>i demolished his countryman in around ten minutes I get to cover the rest of the tog mirror between Julien Nuijten and Bodo Rösner.</p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/fa/ea/faea9e7c3e90155f2436ab80f5b7e2f91e026135bbbead1de12459cbb979c35f.jpg">&#10;            <i> Bodo Rösner.</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>I came over just as the players were shuffling up for Game 2. Nuijten had got his <a>Life from the Loam</a> engine up and running quickly and had done Rösner in with a flying <a>Psychatog</a>.</p>&#10;      <p>Nuijten 1-0 Rösner</p>&#10;      <p>To be fair both players were playing at breakneck pace (and no, I’m not being ironic – it was actually hard to keep up).</p>&#10;      <p>A couple of <a>Duress</a>es plucked counter magic from Nuijten’s hand and revealed him to be holding a pair of Togs. Both Those togs were <a>Smother</a>ed and Rösner countered a <a>Wonder</a> before attacking back with an incarnation of his own.</p>&#10;      <p>For some reason the Tog mirror seemed to be boiling down to Incarnations (someone had actually cast <a>Tsabo’s Decree</a> for that creature type earlier in the tournament against Nuijten) as Nuijten went for <a>Genesis</a>. Rösner activated his Coliseum in response and countered the <a>Genesis</a> with <a>Circular Logic</a>. The <a>Wonder</a> beats dropped Nuijten to 8.</p>&#10;      <p>Yet another <a>Duress</a> took the last card, a <a>Smother</a>, from Nuijten’s hand and left the way open for <a>Psychatog</a> to put in an appearance.</p>&#10;      <p>Nuijten fetched back <a>Genesis</a>, but when that was countered with <a>Circular Logic</a> it was time to go to a decider.</p>&#10;      <p>Nuijten 1-1 Rösner</p>&#10;      <p>Rösner mulliganed in Game 2 but other than that his draw looked fine. Instead it was Nuijten who hit problems. His deck stalled on three lands and his first two attempts at casting <a>Life from the Loam</a> to pull him out were countered.</p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/62/d3/62d3db774506276811f4dc8e070a8ef59accea7d7b8339538b84ce1f544f49cc.jpg">&#10;            <i>Worst. Dredge. Ever.</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>The second time Nuijten dredged it back resulted in The Worst <a>Dredge</a> Ever. One, two, three <a>Counterspell</a>s flipped over into the bin. The <a>Life</a> was countered again and Nuijten’s own life looked pretty terminal as Rösner took the opportunity to cast Meloku, the Clouded Mirror. There was nothing more for the Dutchman to do except cast <a>Psychatog</a> while Rösner was tapped out.</p>&#10;      <p>In his turn Rösner generated an <a>Illusion</a> and then in sailed Meloku .... Right into an ambush!</p>&#10;      <p>Nuijten had been sitting quietly on <a>Wonder</a>. He pitched it and all of a sudden his Tog was up in the air and smiling hungrily at the advancing Moonfolk legend.</p>&#10;      <p>It shouldn’t be too much of a problem. Rösner probably had a <a>Smother</a>.... or maybe not. He cracked the Coliseum in desperation. Still no joy. The now flying <a>Psychatog</a> latched its big teeth onto Meloku and tore the legend to shreds. The game was back on.</p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/fc/be/fcbe3879b83daafe0223f349402ce4f7d291a94c6cf1857026b7b40ee71cb723.jpg">&#10;            <i>Julien Nuijten.</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Just when it looked like Rösner would crumble he managed to dig out a <a>Smother</a> and cut the Tog down. Nuijten felt the game had swung back in his favor now and wanted to push his advantage. <a>Gifts Ungiven</a> went to fetch <a>Genesis</a> and <a>Coffin Purge</a>. <a>Life from the Loam</a> took Nuijten up to enough cards to force him to discard <a>Genesis</a>. The perpetual flying Tog was on its way to being reality.</p>&#10;      <p>Rösner could only bash with an animated <a>Stalking Stones</a>. Nuijten looked for some answers with his Coliseum. He found <a>Stinkweed Imp</a>. That kept the Stones at bay while Nuijten got round to recurring a <a>Psychatog</a> every upkeep. Rösner managed to counter the Tog coming back a couple of times but then he ran out of counter magic.</p>&#10;      <p>Despite a rocky start Nuijten had managed to come through and book himself a place in the semi-finals.</p>&#10;      <p>Julien Nuijten beats Bodo Rösner 2-1.</p>&#10;      <br>&#10;      <a name="24">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Quarterfinal: Alexander Rathcke vs. Nikolaos Lahanas (“Suicidal Tings”)</b>&#10;      </li>&#10;      <div>&#10;        <i>by Jörn Hajek </i>&#10;      </div>&#10;      <p>Both players brought former block decks to the Top 8: Alexander couldn’t resist the allure of the Ravager and chose Affinity, while Nikolaos dug out the much older Balancing Tings cards. </p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/b4/e2/b4e253f9c31167eebfdce0c4518d4d5abd085aefb05ecf8796fa3880e103a8c8.jpg">&#10;            <i>Alexander Rathcke.</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>The first words uttered by Alexander when he saw Nikolaos’ decklist were “worst”, “matchup”, and “ever.” Nikolaos wanted me to mention that he started each game with seven cards – no mulligans in fourteen rounds sounds quite impressive. </p>&#10;      <p>The game got a little delayed when Nikolaos discovered that he lost a card while re-sleeving, so the responsible judge was sent away to find it. He couldn’t, but Søren Pedersen from Århus had a copy of the card and happily donated it. </p>&#10;      <p>Alexander started fast, as he knew he would have to win before Nikolaos got to play <a>Balancing Act</a>. He played a turn 2 Ravager and <a>Frogmite</a>, and a turn three <a>Myr Enforcer</a>, and sacrificed artifacts aggressively. But Nikolaos used <a>Burning Wish</a> for <a>Balancing Act</a> in his turn three, and Alexander could only deal enough damage to get him down to 2 life before Nikolaos cleared the board. Three turns later, Nikolaos sacrificed three lands for 6 mana, and played <a>Burning Wish</a> to find another <a>Balancing Act</a>. Unfortunately, he had already found the only one in his sideboard the first time, so he was forced to spend the mana for something else, and was left with no permanents on the board. When Alexander topdecked another Enforcer, Nikolaos conceded. </p>&#10;      <p>Alexander – Nikolaos 1-0</p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/22/3a/223adb1573e51bb3e6f444a0da9c6dec70a119c21596da939501c867386d87c7.jpg">&#10;            <i>Nikolaos Lahanas.</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>This time, Alexander started rather slow; at the end of turn two, a <a>Frogmite</a> was his only non-land permanent. Nikolaos played <a>Burning Wish</a> for <a>Pyroclasm</a>, thus indicating that he already held the <a>Balancing Act</a>. A <a>Cranial Plating</a> turned the little Frog into a fierce Warrior, but the <a>Pyroclasm</a> took care of that. The turn after that, Alexander got in another hit with the Plating by attaching it to his <a>Blinkmoth Nexus</a>. He then played another <a>Frogmite</a>, and more importantly, a <a>Cabal Therapy</a>, taking Nikolaos’ Balance, leaving him with a <a>Terravore</a> and a land in his hand. Nikolaos was visibly shaken, and said “I think I will have to gamble.” He sacrificed all of his lands, and then his <a>Terrarion</a>, hoping to draw the game-winning spell. He didn’t, and wished his opponent good luck for the semifinals. </p>&#10;      <p>Alexander Rathcke defeats Nikolaos Lahanas, 2-0</p>&#10;      <br>&#10;      <a name="25">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Quarterfinal: Wessel Oomens vs. Olivier Ruel </b>&#10;      </li>&#10;      <div>&#10;        <i>by Frank Karsten </i>&#10;      </div>&#10;      <p>Olivier needs no introduction. He made top 8 with an Affinity deck. It’s the same deck he used to finish in the top 16 of last weekend’s PT Los Angeles. Wessel hails from the Netherlands and has had a good year, magic wise. He finished 3rd at GP Paris and 6th at PT Atlanta. With the 3 pro points he gained from his finish here, he secured a level 3 position for next year. He played Boros Deck Wins, designed by Tsuyoshi Fujita.</p>&#10;      <p>Before the match started, Wessel wanted to say something to his girlfriend Pauline: “Schnucki, I love you”. He’s such a sweetheart.</p>&#10;      <p>This matchup heavily favors Wessel because he has Kataki and loads of burn. Olivier had just done a side draft and was pondering whether his draft deck would have a better matchup than his Affinity deck. He laid out his draft deck on the table and pointed at the double <a>Carven Caryatid</a>, <a>Benevolent Ancestor</a>, <a>Faith’s Fetters</a> and <a>Phytohydra</a>. Unfortunately, the judges did not allow a deck switch.</p>&#10;      <p>&#10;        <b>Game 1</b>&#10;      </p>&#10;      <p>Olivier won the rock-paper-scissors game and chose to play first. Olivier played turn one Pithing Needle, naming <a>Wooded Foothills</a>.</p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/1d/d2/1dd2beb94a8ef9f0636bb4969b8042d0500998cc2932bb296ffdc0a726926b81.jpg">&#10;            <i>Olivier Ruel, bemoaning Kataki.</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Oli: “That’s my best plan against Kataki; I have to stop the fetchlands!”</p>&#10;      <p>His guess was off, as Wessel played <a>Flooded Strand</a> as his first land. Olivier had another Needle on his next turn and named <a>Grim Lavamancer</a> this time. He followed that up with <a>Seat of the Synod</a>, <a>Thoughtcast</a> and <a>Ornithopter</a>.</p>&#10;      <p>Olivier then ran away from the table, as the dreaded turn 2 approached. All he could do was hope that Wessel had no Kataki in his hand. Wessel drew his card very slowly, looked at it and pondered for a while.</p>&#10;      <p>Olivier: “Stop slowrolling!”</p>&#10;      <p>Olivier actually had nothing to fear because Wessel’s hand was unspectacular. He could only play a <a>Mountain</a> and passed the turn.</p>&#10;      <p>Olivier breathed a sigh of relief. He cast <a>Arcbound Ravager</a>, put down <a>Blinkmoth Nexus</a> and passed the turn. Wessel then showed what he did have in his hand: no creatures, but surely a lot of burn. He used two <a>Lightning Helix</a>es to destroy <a>Ornithopter</a> and <a>Arcbound Ravager</a> right away.</p>&#10;      <p>Olivier had another <a>Arcbound Ravager</a> next turn. Wessel then made an attempt to kill it, but failed. Wessel had played two <a>Lava Dart</a>s and two flashbacks, which did not leave Olivier with many permanents in play. But the two he had left were a <a>Blinkmoth Nexus</a> and a 5/5 <a>Arcbound Ravager</a>. The Nexus was destroyed soon enough by a <a>Molten Rain</a>, but now the two players were in a topdecking race. Olivier was looking for lands and Wessel was looking for a way to deal with the huge <a>Arcbound Ravager</a>. The suspense was growing. </p>&#10;      <div>&#10;        <div>&#10;          <a>&#10;            <img alt="Pillage" src="https://i.ormos.uk/29/82/298206169b3429a4b46e87c16321ec333c143eac1d214fe1f24d35afbf278839.jpg">&#10;          </a>&#10;        </div>&#10;      </div>&#10;      <p>Olivier attacked for 6, putting Wessel at 10. Wessel didn’t draw anything useful. Olivier attacked again, putting Wessel down to 4. Olivier crossed his fingers while Wessel drew his card. It was a <a>Pillage</a>! Wessel made sure it spun 360 degrees in the air as he threw it at the Ravager. Now the game was back to equal. Oli had a full grip, but no lands in play. Wessel had only lands in play. Topdeck race once again!</p>&#10;      <p>Wessel’s next two draw steps yielded a <a>Savannah Lions</a> and a <a>Goblin Legionnaire</a>. But Olivier was drawing useful cards as well: 2 lands. A <a>Chromatic Sphere</a>, <a>Arcbound Ravager</a> and 2 <a>Frogmite</a>s came down. Wessel used two <a>Lightning Helix</a>es to destroy the Ravager and a <a>Frogmite</a> and he also had a <a>Molten Rain</a> for a land, leaving Olivier unable to cast anything new. <a>Frogmite</a> (Olivier’s last creature) took down <a>Goblin Legionnaire</a> in a block, but the <a>Savannah Lions</a> stubbornly kept on attacking. A couple turns later, Olivier still hadn’t drawn a land or a card he could play. The writing was on the wall. Wessel attacked with his Lions and used <a>Firebolt</a> to deal the last 2 points. </p>&#10;      <p>Wessel 1 – Olivier 0</p>&#10;      <p>&#10;        <b>Game 2</b>&#10;      </p>&#10;      <p>Olivier played first again. He got off to a turn 2 <a>Thoughtcast</a> on the verge of affinity-providers in <a>Chromatic Sphere</a> and <a>Ornithopter</a>.</p>&#10;      <p>Wessels first two turns featured a <a>Grim Lavamancer</a> and a <a>Goblin Legionnaire</a>. Olivier had a <a>Blinkmoth Nexus</a> and <a>Arcbound Ravager</a> on his third turn and passed. Wessel went into thinking mode on his third turn. He had a lot of options. Should he burn the Ravager or no? And if yes, with what card? He eventually decided to attack with his Legionnaire (unblocked) and then played <a>Firebolt</a> on Ravager, which resolved. Olivier tried to put the modular counter on his <a>Ornithopter</a>, but Wessel responded by killing it with his <a>Grim Lavamancer</a> (removing 2 <a>Wooded Foothills</a>).</p>&#10;      <p>Oli now had no creatures in play, so he had to come up with a plan. He sacrificed his <a>Chromatic Sphere</a> for black mana and cast <a>Cabal Therapy</a>. He named <a>Goblin Legionnaire</a> and it was a hit; Wessel had one in his hand. The other cards in Wessel’s hand were <a>Lava Dart</a>, <a>Lightning Helix</a> and a <a>Mountain</a>. Olivier followed that up with <a>Arcbound Ravager</a> and then cast 2 <a>Ornithopter</a>s. He then activated his Nexus and sacrificed it for <a>Cabal Therapy</a>, nailing the <a>Lightning Helix</a> in Wessel’s hand.</p>&#10;      <p>Wessel started his turn with a <a>Grim Lavamancer</a> activation on <a>Arcbound Ravager</a>. Olivier went deep into the think tank.</p>&#10;      <p>Olivier: “Hmm, should I pump my Ravager? What should I sacrifice? I have so many bad plans here. I’ll just have to figure out which one is the least bad.”</p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/e0/99/e099ef0b29a8a236e39680d2c7af3d565c10acc729a4ce0b384a37943edf18b6.jpg">&#10;            <i>Wessel Oomens.</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Eventually he decided that it was important to keep his lands and <a>Ornithopter</a>s in play. So he let the 2 damage resolve and tried to put the modular counter on <a>Ornithopter</a>. Wessel responded by playing and flashbacking <a>Lava Dart</a> to kill it.</p>&#10;      <p>Olivier could only muster an Erayo, Soratami Ascendant on his turn, which was not an adequate answer for the situation he was in. Wessel seemed to be firmly in control of the game now. He had <a>Grim Lavamancer</a> and <a>Goblin Legionnaire</a>, along with a <a>Firebolt</a> in the graveyard, against an Erayo, <a>Ornithopter</a>, and 3 lands.</p>&#10;      <p>Olivier drew a <a>Darkblast</a> for <a>Grim Lavamancer</a>, which killed Erayo before it hit the graveyard. Olivier then topdecked <a>Thoughtcast</a>, but it did not provide him with anything useful. Wessel stumbled on a land clump in the meantime.</p>&#10;      <p>Then Olivier figured it was time to make a move. His hand was Erayo, <a>Cabal Therapy</a> and <a>Scale of Chiss-Goria</a>. Wessel had <a>Goblin Legionnaire</a> in play, but the only untapped land he had was <a>Wooded Foothills</a>. Olivier knew that if he would try to flip Erayo, Wessel would respond by sacrificing his <a>Goblin Legionnaire</a> to kill it. But the Frenchman is good at bluffing and foresaw that Wessel would make a mistake. Olivier played Erayo and proceed to play and flashback <a>Cabal Therapy</a>. Wessel showed a land in hand. Three spells had been played in the turn so far and Olivier passed. </p>&#10;      <div>&#10;        <div>&#10;          <a>&#10;            <img alt="Erayo, Soratami Ascendant" src="https://i.ormos.uk/6a/b7/6ab7de9d0cd0015705fee5c77b4ae62f8746ad5e16703212b643dbfedb407f29.jpg">&#10;          </a>&#10;        </div>&#10;      </div>&#10;      <p>At end of turn, Wessel sacrificed his Foothills. Now Olivier showed what he was up to. He responded to the fetchland with a <a>Scale of Chiss-Goria</a>. That was the fourth spell of the turn, so Erayo flipped. Wessel could not respond kill Erayo in response, because the <a>Wooded Foothills</a> activation was still on the stack; he had no mana left.</p>&#10;      <p>Wessel: “Jesus, that was bad. Total brain fart!”<br> Olivier: “I knew this trick would work out!”</p>&#10;      <p>So Olivier now had flipped Erayo, but he still needed to get rid of the opposing <a>Goblin Legionnaire</a> and find a way to win the game. The top of his deck rewarded him with <a>Arcbound Worker</a> and <a>Arcbound Ravager</a>. Olivier was at an unhealthy 6 life, but it seemed like he could manage to pull this one out. </p>&#10;      <p>Oli did the all-out attack next turn. Wessel, who was at 10 life, did not block. Olivier sacrificed his Worker and a land to his Ravager in order to put Wessel on 5. Wessel then dealt a crippling blow on his turn. He had 8 lands in play and started with <a>Goblin Legionnaire</a>, which was countered by Erayo. Now the coast was clear. He cast 2 <a>Pillage</a>, destroying both of Olivier’s threats. He also attacked with <a>Goblin Legionnaire</a>, putting Olivier down to 4. Now Olivier, with only lands and a flipped Erayo in play, had to topdeck in the face of a lethal Legionnaire. He slowly took the top card of his deck. Without looking at it, he showed it to a spectator.</p>&#10;      <p>Olivier: “Is it a good one?” <br> Spectator: “Nope, it’s a land!”</p>&#10;      <p>Olivier checked and extended his hand, congratulating Wessel on his win.</p>&#10;      <p>Wessel 2 – Olivier 0</p>&#10;      <br>&#10;      <a name="26">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Semifinal: Wessel Oomens against Julien Nuijten </b>&#10;      </li>&#10;      <div>&#10;        <i>by Frank Karsten </i>&#10;      </div>&#10;      <p>This match features two Dutch players. Both are from Amsterdam and they are good friends, so the atmosphere was casual. Wessel plays Boros Deck Wins and Julien plays <a>Psychatog</a> with a small green splash. Both players agreed that Julien has the advantage, especially in games 2 and 3. Julien has 6 one-mana black creature destruction spells in his sideboard, which is a huge advantage. </p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/79/21/792137b5c38a5386ec196219679c711fcd6eaad1d17a0a7010f2b38bbfd179bc.jpg">&#10;            <i>Oomens vs. Nuijten.</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Julien:”May the winner of this match win the Grand Prix!”<br> Wessel:”I agree.”</p>&#10;      <p>&#10;        <b>Game 1</b>&#10;      </p>&#10;      <p>Wessel won the die roll and naturally chose to play first. He had to start off with a mulligan, but kept his 6-carder. It provided him with a fast start, as he played <a>Grim Lavamancer</a> and <a>Savannah Lions</a> in his first two turns. He also flung a <a>Firebolt</a> to the head. At end of turn, Julien played <a>Darkblast</a> on <a>Savannah Lions</a>.</p>&#10;      <p>Wessel: “That’s so lucky! You only play one main!”</p>&#10;      <p>Julien dredged <a>Darkblast</a> back to his hand right away and destroyed <a>Grim Lavamancer</a>. Wessel played <a>Goblin Legionnaire</a> on his third turn, which was met with <a>Force Spike</a>. Julien then played <a>Psychatog</a> on turn 3. Wow. Turn 1 <a>Darkblast</a>, turn 2 <a>Darkblast</a> and <a>Force Spike</a> and turn 3 <a>Psychatog</a>. This might be considered the ‘perfect’ start for Julien. </p>&#10;      <p>Wessel shook his head and cast the card he drew: <a>Savannah Lions</a>. When Julien dredged back <a>Darkblast</a>, Wessel chose to shorten the torture and scooped up his cards. He has only lands in hand and was facing a opponent at 16 life, with <a>Psychatog</a> in play and a <a>Darkblast</a> in the graveyard. There was no way he could ever win the game. </p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/83/2d/832d312be1cdd4fa555dc5697a1f138420cd049a69841090ae910b6d54bdfe51.jpg">&#10;            <i>Wessel Oomens.</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Wessel: “I am supposed to win game 1, especially when playing first!”</p>&#10;      <p>Wessel 0 – Julien 1</p>&#10;      <p>&#10;        <b>Game 2</b>&#10;      </p>&#10;      <p>Wessel got to play first again and mulliganned down to 6. He did not look happy with his hand, thought for a while, sighed, and decided to keep nevertheless. He had one sac land, <a>Lightning Helix</a>, <a>Firebolt</a>, Pithing Needle, <a>Fledgling Dragon</a> and <a>Pyrostatic Pillar</a>. Julien mulliganned to 6 and kept 2 lands, 2 <a>Ghastly Demise</a>, <a>Pernicious Deed</a> and <a>Psychatog</a>.</p>&#10;      <p>Wessel played turn 1 Pithing Needle, naming <a>Psychatog</a>. He topdecked a land right away and flung <a>Lightning Helix</a> to the dome on turn 2. On turn 3, he played <a>Pyrostatic Pillar</a>. Julien made a <a>Pernicious Deed</a>, which blew up both of Wessel’s permanents soon enough. He followed it up with a <a>Psychatog</a>. In the meantime, Wessel kept attacking Julien’s life total. A <a>Lightning Helix</a> and two <a>Molten Rain</a>s later, Julien was down to 5 life, while Wessel was still at a seemingly healthy 20 life.</p>&#10;      <p>Wessel cast <a>Goblin Legionnaire</a> and passed the turn. Julien attacked with his Tog and now Wessel had to do some math. He had to take into account the <a>Cephalid Coliseum</a> and Oboro that were on the board, along with possible dredge cards and cycling lands. Eventually, he chose not to block. Julien now started to do some math of his own. He started to scribble a huge amount of numbers on his notepad, double-checking his calculations to make sure he was right. After a couple minutes, he was finished with his calculations. It seemed that he was just a couple points short of dealing 20 damage there. He discarded <a>Darkblast</a> to his Tog and said “just 2 damage”.</p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/9a/9b/9a9bc2ca9f4975dc7615adbf350ae5e11a6c93d93e2bcb3b096744d572d724bc.jpg">&#10;            <i>Julien Nuiten.</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Now it was time for Wessel’s turn. He attacked, but his <a>Goblin Legionnaire</a> was destroyed by <a>Ghastly Demise</a>. Wessel sacrificed it in response, putting Julien down to 3. Wessel then passed the turn with 2 mana open and a <a>Firebolt</a> and <a>Fledgling Dragon</a> in hand. Julien had a potentially lethal <a>Psychatog</a> on the table, but Wessel hoped that Julien would play around <a>Lightning Helix</a>. If Julien wanted to make his Tog lethal, he would have to sacrifice his <a>Cephalid Coliseum</a>. That would tap him out, leaving him unable to counter a <a>Lightning Helix</a> or <a>Purge</a>. </p>&#10;      <p>Wessel did not in fact have one of those game-winning spells in his hand, but Julien did not know that. Julien, on the other hand, did not actually have a counter in his hand, but Wessel could not know that. Eventually Julien decided to go for it. Because he had no countermagic in his hand, he could not answer a <a>Lightning Helix</a> anyway. And if he would not try to go for the kill there, he would only give Wessel more time to draw into a game-winning card.</p>&#10;      <p>Julien: “All in!”</p>&#10;      <p>He dredged back <a>Darkblast</a>, discarded it, sacrificed <a>Cephalid Coliseum</a>, did some more dredging, etc. Lots of technical stuff, but the end result was a lethal <a>Psychatog</a>. As we already knew, Wessel did not have an answer.</p>&#10;      <p>Wessel 0 – Julien 2</p>&#10;      <br>&#10;      <a name="27">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Semifinal: Alexander Rathcke vs. Kim Valori </b>&#10;      </li>&#10;      <div>&#10;        <i> by Jörn Hajek </i>&#10;      </div>&#10;      <p>Kim played Boros Deck Wins, a nightmare matchup for Alexander’s affinity. Kim’s opponent in the quarterfinals played affinity as well, and that game lasted about 10 minutes. On the other hand, Alexander’s quarterfinal-matchup was quite bad as well, but sometimes affinity just wins.</p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/85/96/8596e78e00b0535cd5a71aa205ea72002c5845adddf48ff01df1eab634190f02.jpg">&#10;            <i>Rathcke vs. Valori.</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Alexander’s first two hands weren’t good enough to compete, so he started with five cards. It wouldn’t really have mattered though, as Kim had a turn-two Kataki, War’s Wage. Alexander just scooped. </p>&#10;      <p>Kim – Alexander 1-0</p>&#10;      <p>Time spent shuffling: 5 minutes<br> Time spent playing: 1.5 minutes</p>&#10;      <p>In Game 2, Alexander took another mulligan, but managed to actually play two creatures in the first few turns. They were taken care of by Kim’s <a>Grim Lavamancer</a> and a <a>Lightning Helix</a>. When he got a <a>Isamaru, Hound of Konda</a> equipped with <a>Umezawa’s Jitte</a>, it was almost over. Alexander drew two <a>Myr Enforcer</a>s, but they were no match for the Jitte. </p>&#10;      <p>Kim Valori beats Alexander Rathcke, 2-0, and proceeds to the finals. </p>&#10;      <br>&#10;      <a name="28">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Finals: Kim Valori vs. Julien Nuijten </b>&#10;      </li>&#10;      <div>&#10;        <i>by Craig Jones </i>&#10;      </div>&#10;      <p>Well this is the last game and it does appear that paper-scissors-stone has crept into the metagame. This is unfortunate for Valori, as while the Finnish amateur has been annihilating Affinity decks in the top 8 he is now up against a Tog deck in the hands of Julian Nuijten, the current World Champion.</p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/51/5a/515aea76bb964b78361951068ddeaee890b74b1397a1e2379037a0fd9356aeed.jpg">&#10;            <i>Valori vs. Nuijten.</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Nuijten muliganned to 6 and then shocked himself to put a <a>Watery Grave</a> into play untapped. It probably indicated <a>Force Spike</a>, but Valori went for Isamaru in any case. Sure enough Nuijten was sitting on the <a>Force Spike</a>. A <a>Barren Moor</a> meant Nuijten still only had a <a>Watery Grave</a> open. He didn’t have a second <a>Force Spike</a> and Valori was able to bust out Lavamancer and Lions. The Lions fell to <a>Smother</a> and Valori replaced them with <a>Goblin Legionnaire</a>s.</p>&#10;      <p>The following attack dropped Nuijten to 13. He had 4 mana now though, and that meant he could cast <a>Gifts Ungiven</a> in the end step. In most of these decks Gifts seems to play like a four-way <a>Diabolic Tutor</a> that can be cast as an instant, which sort of underscores exactly how powerful the card is.</p>&#10;      <p>Nuijten gave Valori the tricky choice of <a>Counterspell</a>, <a>Smother</a>, <a>Psychatog</a> and <a>Darkblast</a>. The <a>Darkblast</a> alone can sometimes beat Boros Deck Wins single-handedly. Valori gave him the <a>Darkblast</a> and <a>Counterspell</a>. Valori took the opportunity of Nuijten being tapped out to aim two <a>Lightning Helix</a> at his head. I think the Finnish player may have made a mistake here as he lost two damage the Legionnaire could have inflicted as Nuijten was able to upkeep <a>Darkblast</a>, dredge back <a>Darkblast</a> to kill it while Valori was tapped out.</p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/16/61/1661263d1a25f4728eed74929d934c804d059fc2495ea3d60654ca56c8aac2cb.jpg">&#10;            <i>Kim Valori.</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>&#10;        <a>Darkblast</a> returned for the <a>Grim Lavamancer</a>. A Lavamancer activation and <a>Lava Dart</a> dropped Nuijten to 4, but Valori would need to hit a lot of running burn to do the last few points of damage.</p>&#10;      <p>In the face of a near-lethal Tog Valori went for it with a <a>Goblin Legionnaire</a> and then <a>Char</a>. However Nuijten’s counter shields were fully up.</p>&#10;      <p>Nuijten did the math and it came up short, giving Valori a turn’s reprieve. He used it to blow up an <a>Overgrown Tomb</a> with <a>Molten Rain</a> to drop Nuijten to two life.</p>&#10;      <p>Nuijten did the math again before announcing. “I’m all in. Do you have a burn spell?”</p>&#10;      <p>The last card in Valori’s hand was a <a>Pillage</a> and so the first game went to the World Champion.</p>&#10;      <p>I used to think Tog decks were good matchups for red decks. I was so naïve back then.</p>&#10;      <p>Nuijten 1-0 Valori.</p>&#10;      <p>Valori had to mulligan this time. He came out the blocks with <a>Grim Lavamancer</a> and then ran a <a>Goblin Legionnaire</a> into <a>Force Spike</a>. It always feels so dirty to lose a spell to a <a>Force Spike</a>, but playing around it just plays into the hands of the control player.</p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/64/68/6468bd4263398a350a352fd4b0585f62b02ea18eb1dd646756b92888b5025ca7.jpg">&#10;            <i>Julien Nuijten.</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>This one didn’t look like it was even going to be close. Nuijten had found not one but two <a>Darkblast</a>. Two Lavamancer hit the bin and Valori was down to a single card in hand. A dredged back <a>Darkblast</a> killed a Savannah Lion and <a>Duress</a> plucked <a>Purge</a> to leave Valori with nothing and Nuijten still on the healthy side of 13 life.</p>&#10;      <p>There was a brief argument with the judges when Nuijten realized he’d missed a card that had been stuck to the table when he discarded to Coliseum. He asked if he could discard that card and was told no. It didn’t look like it mattered, this felt more like a bloodbath than a game.</p>&#10;      <p>Valori drew running Isamaru only to see the first Hound fall to double <a>Darkblast</a> and the second get <a>Counter</a>ed. A <a>Pillage</a> snuck through to blow up Nuijten’s only green source. Valori followed it up with a <a>Molten Rain</a>.</p>&#10;      <p>The land destruction really was nothing more than an irritation. Nuijten found a <a>Psychatog</a> and that was pretty much game. A few turns later he went “all in” to pick up his second Grand Prix title of the year.</p>&#10;      <p>Julien Nuijten beats Kim Valori 2-0</p>&#10;      &#10;    </td>&#10;  </tr>&#10;</tbody></table>

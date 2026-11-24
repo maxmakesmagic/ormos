@@ -1,0 +1,244 @@
+---
+id: ppd66pk5
+kind: event
+lang: en
+path: /en/events/2017/gplv17/fact-sheet-grand-prix-las-vegas
+title: FACT SHEET GRAND PRIX LAS VEGAS
+published: null
+column_slug: null
+column: null
+authors: []
+event_code: gplv17
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/events/premierplay/grandprix/fact-sheet-gplv17
+    lang_detected: en
+    capture_id: 1524291
+    url: https://magic.wizards.com/en/events/premierplay/grandprix/fact-sheet-gplv17
+    captured_at: '2021-09-27 06:36:19+00'
+    rule: meta.og_title
+  event_code:
+    page_key: magic.wizards.com/en/events/premierplay/grandprix/fact-sheet-gplv17
+    lang_detected: en
+    capture_id: 1524291
+    url: https://magic.wizards.com/en/events/premierplay/grandprix/fact-sheet-gplv17
+    captured_at: '2021-09-27 06:36:19+00'
+    rule: url.event_fact_sheet
+sources:
+- document_id: ppd66pk5
+  url: https://magic.wizards.com/en/events/premierplay/grandprix/fact-sheet-gplv17
+  page_key: magic.wizards.com/en/events/premierplay/grandprix/fact-sheet-gplv17
+  lang: en
+  template: drupal
+  captured_at: '2021-09-27 06:36:19+00'
+  capture_id: 1524291
+  wayback_url: https://web.archive.org/web/20210927063619id_/https://magic.wizards.com/en/events/premierplay/grandprix/fact-sheet-gplv17
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: ppd66pk5
+  capture_id: 1524291
+  url: https://magic.wizards.com/en/events/premierplay/grandprix/fact-sheet-gplv17
+  wayback_url: https://web.archive.org/web/20210927063619id_/https://magic.wizards.com/en/events/premierplay/grandprix/fact-sheet-gplv17
+  captured_at: '2021-09-27 06:36:19+00'
+  template: drupal
+  sha256: bd907c12f2ed909ab9e54effa40330cb4317d6339b33b335b4f1701735f0f453
+render_recovery:
+- code: unsupported_link
+  element: a
+  target: mailto:events@channelfireball.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - events@channelfireball.com
+  occurrences: 1
+- code: broad_content_selector
+---
+## OVERVIEW
+
+# **Grand Prix Las Vegas' website:** [http://grandprixvegas.com/](http://grandprixvegas.com/)
+
+**Date:** June 15–18  
+**Formats:** [Legacy](https://web.archive.org/web/20210927063619/http://magic.wizards.com/en/game-info/gameplay/formats/legacy) (June 15-16), [Limited](https://web.archive.org/web/20210927063619/http://magic.wizards.com/en/game-info/gameplay/formats/sealed-deck) (June 16-17), [Modern](https://web.archive.org/web/20210927063619/http://magic.wizards.com/en/game-info/gameplay/formats/modern) (June 17-18)  
+**Official hashtag:** [#gpvegas](http://twitter.com/hashtag/gpvegas?f=realtime&src=hash)
+
+[REGISTER NOW](http://grandprixvegas.com/registration/)
+
+The Grand Prix will be held at:  
+  
+[Las Vegas Convention Center](http://http//www.vegasmeansbusiness.com/listing/las-vegas-convention-center/31137/)  
+ 3150 Paradise Rd  
+ Las Vegas, NV 89109  
+ USA
+
+[CLICK HERE FOR MAP](https://goo.gl/maps/Vs79z9p75J32)
+
+**Tournament Organizer:** [ChannelFireball](http://www.channelfireball.com/)  
+**Email:** events@channelfireball.com  
+**Phone:** 1-408-727-7827  
+  
+**Main Event Registration Fee:** $100 ($90 Early Bird Price until April 1)  
+**Maximum Main Event Capacity:** 3,500 Players per main event
+
+**[Online Registration](http://grandprixvegas.com/registration/):**  
+ Legacy: until Wednesday, June 14, at 11pm local time  
+ Limited: until Thursday, June 15, at 11pm local time  
+ Modern: until Friday, June 16, at 11pm local time
+
+**On-site Registration:**  
+ Legacy: Wednesday, June 14, from 10am until 11pm local time  
+ Limited: from Wednesday, June 14, 10am until Thursday, June 15, 11pm local time  
+ Modern: from Wednesday, June 14, 10am until Friday, June 16, 11pm local time
+
+Registration for the Grand Prix main events will close Wednesday night.
+
+The main tournament at Grand Prix Las Vegas is open to *Magic* players of all ages.
+
+Players must have a signed waiver and consent form to compete at Grand Prix Las Vegas. Forms can be [downloaded here](http://media.wizards.com/2016/docs/MTG_GP_Waiver_2017.pdf) and will be available on-site. Minors must have a parent of guardian’s signature on these forms. Minors will not be able to register or play unless we receive a waiver signed by a parent or guardian. No exceptions.
+
+Many Grand Prix offer additional services to participants, such as Sleep-In Specials and VIP packages. Sleep-In Specials allow players with byes to skip the player meeting on Saturday and arrive shortly before their first round begins. VIP packages provide various perks such as complimentary bottled water, special seating, and exclusive artist signings. Details of these services vary from event to event; please check the organizer's website for specifics.
+
+## Promotional Items
+
+Players who participate in the Grand Prix main event will receive a promo card (while supplies last). Each Grand Prix also offers additional promotional items. Check the Grand Prix website for further details on other awesome bonuses you may be able to get at the Grand Prix!
+
+![](http://media.wizards.com/2016/images/daily/Ez0HUBzrSb.png)
+
+## Live Streaming Video
+
+![](https://i.ormos.uk/a3/1b/a31b276dc9a0d35a8f6c857eb7a422b55ba405635e8302f97c5cba582ec8b5af.png)
+
+Follow live streaming video coverage of the Grand Prix on [twitch.tv/magic](http://www.twitch.tv/magic)!
+
+[More Info](/en/articles/feature/2017/02-01-magic-twitch-and-you-the-full-2017-video-coverage-picture)
+
+## Format and Structure
+
+*   Three separate main events will be hosted at Grand Prix Las Vegas: [Legacy](https://web.archive.org/web/20210927063619/http://magic.wizards.com/en/game-info/gameplay/formats/legacy), Limited (Day One [Sealed Deck](https://web.archive.org/web/20210927063619/http://magic.wizards.com/en/game-info/gameplay/formats/sealed-deck) and Day Two [Booster Draft](https://web.archive.org/web/20210927063619/http://magic.wizards.com/en/game-info/gameplay/formats/booster-draft)), Modern
+
+For the Limited main event (which takes place June 16-17):
+
+*   Day One: Sealed Deck
+*   Day Two and Top 8: Booster Draft
+*   Sealed deck Product: 6 *Amonkhet* boosters
+*   Booster Draft Product: 3 *Amonkhet* boosters
+*   Deck lists are required
+*   If product is not stamped or preregistered, deck registration and verification will be performed for the Swiss Sealed Deck
+
+For the Legacy main event (June 15-16) and Modern main event (June 17-18):
+
+*   Deck lists are required
+*   Players must use the same deck on Day Two that they used on Day One
+
+*   Modified Swiss-style (50-minute rounds).
+*   Day One will consist of 9 Swiss rounds. Day Two will consist of 6 Swiss rounds and the Top 8 single-elimination finals.
+*   All players with an X-3-0 record (or better) advance to the second day of competition for prizes and invitations.
+*   The Top 8 players after the final Swiss round on Day Two will advance to the Top 8 single-elimination playoff.
+*   Top 8 playoff matches will be best 2 of 3.
+*   Top 8 playoff matches will have no time limit. (Players are still expected to play at a normal pace and complete playoff matches in a reasonable amount of time.)
+*   For the June 16-17 Limited main event, the Top 8 players will be seated randomly at the draft table immediately prior to drafting. The Top 8 bracket will be determined using this random seating.
+*   Standings after the Swiss rounds will be used to determine final order in the standings for losing players in the quarterfinal and semifinal playoff rounds.
+*   For the first game of each match in the Top 8, the player that finished higher in the Swiss rounds chooses either to play first or to play second. For subsequent games in each Top 8 match, the usual Play/Draw rule applies (loser of the previous game decides whether to play first in the next game).
+
+**Judges**
+
+Judges interested in applying for the event should do so using the [Judge Center](http://apps.magicjudges.org/).
+
+**Main Event Notes**
+
+*   [Planeswalker Points](https://web.archive.org/web/20200522091854/https://www.wizards.com/Magic/PlaneswalkerPoints/Information) multiplier 8x, Rules Enforcement Level (REL) is Competitive on Day One and Professional on Day Two.
+*   The [*Magic: The Gathering* Tournament Rules](https://web.archive.org/web/20210927063619/http://wpn.wizards.com/en/document/magic-gathering-tournament-rules) and the [*Magic: The Gathering* Infraction Procedure Guide](https://web.archive.org/web/20210927063619/http://wpn.wizards.com/en/document/magic-infraction-procedure-guide) are in effect for this event unless specifically overruled by information in this Format Document. Rules documents can be found in the [*Magic* Document Center](https://web.archive.org/web/20210927063619/http://wpn.wizards.com/en/resources/rules-documents/244).
+*   Players are responsible for bringing their own method of tracking life totals, card sleeves, and appropriate counters or tokens.
+
+In the event that a player who wins an invitation to a Pro Tour stop at a Grand Prix has already qualified for an invitation, the invitation does not pass down under any circumstances. Previous qualification may be through a Qualifier tournament, through performance at a professional tournament, or by being an invited DCI player (valid upon the date of the official rank announcement for the appropriate professional tournament
+
+## PRIZE STRUCTURE
+
+| Place | Prize Money |
+| --- | --- |
+| 1 | $10,000 |
+| 2 | $5,000 |
+| 3-4 | $2,500 |
+| 5-8 | $1,500 |
+| 9-16 | $1,000 |
+| 17-32 | $500 |
+| 33-64 | $250 |
+| 65-100 | $250\* |
+| 101-180 | $200\* |
+
+| Place | Pro Points |
+| --- | --- |
+| 1 | 8 |
+| 2 | 6 |
+| 3-4 | 5 |
+| 5-8 | 4 |
+
+Top 8 players receive Pro Points based on rank. All other players receive Pro Points based on their match point total at the end of the event.
+
+| Match Points | Pro Points |
+| --- | --- |
+| 39+ | 4 |
+| 36-38 | 3 |
+| 33-35 | 2 |
+| 30-32 | 1 |
+| 0-29 | 0 |
+
+\*If Grand Prix attendance is 0-2,999 players, prize money will be paid out to 64th place. If Grand Prix attendance is at or over 3,000 participants, prize money will be paid out to 180th place.  
+  
+ Attendance at a Grand Prix is calculated on participation, not preregistration. The Tournament Organizer will announce Grand Prix attendance as soon as this is confirmed. Tournament attendance and standing are subject to review by Wizards of the Coast before being finalized.
+
+All prizes displayed in U.S. dollars. Prizes subject to change.  
+  
+ Top 8 finishers and all players with 39 match points or greater at the end of the event also earn invitations and airfare to Pro Tour *Ixalan*, which takes place November 3-5.
+
+All prizes displayed in U.S. dollars. Prizes subject to change. For every event held in the U.S., a 30% withholding tax will automatically be deducted from the prize payments to all international players, unless the player has an Individual Taxpayer Identification Number (ITIN) that has been filed with the withholding agent. (For information on applying for an ITIN, please visit [www.irs.gov](http://www.irs.gov/).) In some cases, players may be eligible to reclaim the 30% withheld; please consult with a tax professional in your area. Tax forms for prizes paid within a calendar year will be mailed by March of the following year. These tax forms are very important, and it is recommended that they be retained for five years. If you do not receive a form, you must contact us within one year to request a copy.
+
+## Byes
+
+Grand Prix tournament byes can be earned either through a player's yearly [Planeswalker Points](https://web.archive.org/web/20200522091854/https://www.wizards.com/Magic/PlaneswalkerPoints/Information) total or by winning a Grand Prix Trial.
+
+Byes earned through Planeswalker Points are calculated using the Planeswalker Point totals from all reported events as of the Tuesday immediately before the Grand Prix. Points earned in tournaments held at the Grand Prix event site do not count toward earned byes at that Grand Prix.
+
+Winners of a Grand Prix Trial tournament are awarded two byes in the Grand Prix that it feeds. Trial byes are not cumulative with other byes and do not pass down. Byes are not cumulative throughout the season or year. Byes do not pass down under any circumstances. Players who accumulate multiple byes to a particular Grand Prix tournament receive only the bye for the greatest number of rounds. For complete information about Grand Prix byes and their corresponding competitive season, please check the [*Magic: The Gathering* Premier Event Invitation Policy](https://web.archive.org/web/20210927063619/http://wpn.wizards.com/en/resources/rules-documents/244).
+
+#### Third Round Byes
+
+*   Players with a [Pro Tour Players Club](https://web.archive.org/web/20210927063619/http://magic.wizards.com/en/content/pro-players-club) level of Gold or Platinum
+*   Members of the [Pro Tour Hall of Fame](https://web.archive.org/web/20210927063619/http://magic.wizards.com/en/content/hall-fame-top-players-coverage-events)
+
+#### Second Round Byes
+
+*   Winners of this event's Grand Prix Trial tournaments
+*   Players with a [Pro Players Club](https://web.archive.org/web/20210927063619/http://magic.wizards.com/node/152291) level of Bronze or Silver
+*   Players who have accumulated at least 2,250 Planeswalker Points in the 2017 Yearly Award Season (May 30, 2016 - May 28, 2017)
+*   Players who have accumulated at least 2,250 Planeswalker Points in the 2018 Yearly Award Season (May 29, 2017 - May 27, 2018)
+
+#### First Round Byes
+
+*   Players who have accumulated at least 1,300 Planeswalker Points in the 2017 Yearly Award Season (May 30, 2016 - May 28, 2017)
+*   Players who have accumulated at least 1,300 Planeswalker Points in the 2018 Yearly Award Season (May 29, 2017 - May 27, 2018)
+
+## Side Events
+
+Along with the main event, there are additional side-event tournaments to play in at a Grand Prix. The Side Events listed in this section are on the schedule of every Grand Prix. For a more robust listing of side events, visit the Grand Prix website. Side events at a Grand Prix have a 3x Planeswalker Points multiplier (or whichever multiplier is appropriate for the event type).
+
+#### Friday
+
+**Last-Chance Trials**  
+ Earn a valuable Two-Round bye by winning one of the Last-Chance Trials. These are 32-person single-elimination events, starting as soon as 32 players register.
+
+**"Foiled Again"**  
+ A straight Swiss tournament lasting three or four rounds. Participants get one past promo card for playing, then one additional promo card per match win. Format varies by event.
+
+#### Saturday
+
+**"Rebound" Event**  
+ Format at organizer's discretion. Players who also played in the main Grand Prix tournament will get a discount for entry.
+
+#### Sunday
+
+**Pro Tour Qualifier**  
+ The winner of the Pro Tour Qualifier receives an invitation to the same Pro Tour that the Grand Prix feeds. The format depends on the format of the Grand Prix: if the Grand Prix is Limited, the Pro Tour Qualifier will be Standard; otherwise the format of the Pro Tour Qualifier will be Limited. The Pro Tour Qualifier will consist of either an eight-round Swiss tournament with a maximum of 225 players, or eight single-elimination pods of 32 players each; in either case, a Top 8 single-elimination playoff will take place.
+
+## Artists
+
+Some of the hottest and most famous artists in *Magic* will be joining us at the Grand Prix. All artists will be available to sign cards, playmats, and more. In addition, all will be selling prints, artist proofs, original art/sketches, and doing custom alterations of mats and cards! See the Grand Prix website for more information about the artists that will be attending.

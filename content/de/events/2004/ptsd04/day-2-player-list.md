@@ -1,0 +1,56 @@
+---
+id: 04wdaw6d
+kind: event
+lang: de
+path: /de/events/2004/ptsd04/day-2-player-list
+title: Day 2 Player List
+published: null
+column_slug: null
+column: null
+authors: []
+event_code: ptsd04
+detected_lang: de
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/ptsd04/players2
+    lang_detected: de
+    capture_id: 1117155
+    url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/ptsd04/players2
+    captured_at: '2013-06-29 14:11:07+00'
+    rule: aspx.article_heading
+  event_code:
+    page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/ptsd04/players2
+    lang_detected: de
+    capture_id: 1117155
+    url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/ptsd04/players2
+    captured_at: '2013-06-29 14:11:07+00'
+    rule: url.event_code
+sources:
+- document_id: 04wdaw6d
+  url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/ptsd04/players2
+  page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/ptsd04/players2
+  lang: de
+  template: aspx
+  captured_at: '2013-06-29 14:11:07+00'
+  capture_id: 1117155
+  wayback_url: https://web.archive.org/web/20130629141107id_/https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/ptsd04/players2
+- document_id: 04wdaw6d
+  url: http://wizards.com/default.asp?x=mtgevent/ptsd04/players2
+  page_key: wizards.com/default.asp?x=mtgevent/ptsd04/players2
+  lang: de
+  template: classic_asp
+  captured_at: '2005-12-03 22:00:34+00'
+  capture_id: 2106430
+  wayback_url: https://web.archive.org/web/20051203220034id_/http://wizards.com/default.asp?x=mtgevent/ptsd04/players2
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 04wdaw6d
+  capture_id: 1117155
+  url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/ptsd04/players2
+  wayback_url: https://web.archive.org/web/20130629141107id_/https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/ptsd04/players2
+  captured_at: '2013-06-29 14:11:07+00'
+  template: aspx
+  sha256: e59538abbf7d58e8016dc842c638e13f46aff93bf7cd7dd258e81e35b6bf636f
+render_recovery: []
+---
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <a href="/de/events/2004/ptsd04/day-2-player-list">&#10;        <b>Active Players</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/nob/events/2004/ptsd04/day-2-player-list">&#10;        <b>Country</b>&#10;      </a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Adams, Peter</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Alcaraz, Aniol</td>&#10;    <td>ESP</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Asahara, Akira</td>&#10;    <td>JPN</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Aten, Tim</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Barbero, Jose</td>&#10;    <td>FRA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Blech, Reinhard</td>&#10;    <td>DEU</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Bluett, Taerthrum</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Blume, Marco</td>&#10;    <td>DEU</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Boyes, Richard</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Brackmann, Aaron</td>&#10;    <td>DEU</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Brodzak, Jan</td>&#10;    <td>CZE</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Brucker, David</td>&#10;    <td>DEU</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Campos, Emilio</td>&#10;    <td>ESP</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Carvalho, Bruno</td>&#10;    <td>CHE</td>&#10;  </tr>&#10;  <tr>&#10;    <td>clere, romain</td>&#10;    <td>FRA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Cornelissen, Kamiel</td>&#10;    <td>NLD</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Crnobori, Lovre</td>&#10;    <td>NOR</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Cuneo, Andrew</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Cunningham, Eric</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Cunningham, Jeff</td>&#10;    <td>CAN</td>&#10;  </tr>&#10;  <tr>&#10;    <td>De La Torre, Anthony</td>&#10;    <td>CAN</td>&#10;  </tr>&#10;  <tr>&#10;    <td>De Rosa, Antonino</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Doshi, Vishu</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Fabiano, Gerard</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Fennell, Chris</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Froehlich, Eric</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gendelman, Adam</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Giusti, Norberto</td>&#10;    <td>ITA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Godinez Estrada, Gerardo</td>&#10;    <td>MEX</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gomersall, Sam</td>&#10;    <td>ENG</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gundersen, Thomas</td>&#10;    <td>NOR</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Haim, Christophe</td>&#10;    <td>FRA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Harvey, Eugene</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Herberholz, Mark</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Herzog, Nicolai</td>&#10;    <td>NOR</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hirabayashi, Kazuya</td>&#10;    <td>JPN</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hoaen, Richard</td>&#10;    <td>CAN</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hoelzel, Reinhard</td>&#10;    <td>AUT</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hoelzl, Johannes</td>&#10;    <td>AUT</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Humpherys, David</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Ikeda, Tsuyoshi</td>&#10;    <td>JPN</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Iwai, Tsuyoshi</td>&#10;    <td>JPN</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Jansen, Patrick</td>&#10;    <td>DEU</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Jensen, William</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Jonsson, Anton</td>&#10;    <td>SWE</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Karsten, Frank</td>&#10;    <td>NLD</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Kelleher, Tom</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Kibler, Brian</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Kolb, Markus</td>&#10;    <td>DEU</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Krautmann, Wenzel</td>&#10;    <td>DEU</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Landriz, Erik</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Lebedowicz, Osyp</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Levy, Raphael</td>&#10;    <td>FRA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Lindgren, Tommi</td>&#10;    <td>CHE</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Lo Moro, Raffaele</td>&#10;    <td>ITA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Lutz, Patrick</td>&#10;    <td>DEU</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Lynn, Nicholas</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Maher, Robert</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Mahon, John</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Malka, Sol</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Mayuzumi, Shin'ichi</td>&#10;    <td>JPN</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Melnikow, Alex</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Menard, Antoine</td>&#10;    <td>FRA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Montoya, Brandon</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Morita, Masahiko</td>&#10;    <td>JPN</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Nassif, Gabriel</td>&#10;    <td>FRA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Nyfors, Mika</td>&#10;    <td>FIN</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Okamoto, Jin</td>&#10;    <td>JPN</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Ooiso, Masashi</td>&#10;    <td>JPN</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Osterberg, Rickard</td>&#10;    <td>NOR</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Perez del Pozo, Angel Luis</td>&#10;    <td>ESP</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Peset, Alexandre</td>&#10;    <td>FRA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Rietzl, Paul</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Romao, Carlos</td>&#10;    <td>BRA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Rubin, Ben</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Ruel, Antoine</td>&#10;    <td>FRA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Ruel, Olivier</td>&#10;    <td>FRA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Saavedra, Felipe</td>&#10;    <td>AUT</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Salvin, Jean Charles</td>&#10;    <td>FRA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Sanchez i Mata, Eugeni</td>&#10;    <td>ESP</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Sbrozzi, Luigi</td>&#10;    <td>ITA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Schmaltz, Matt</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Scott-Vargas, Luis</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Searson, Jay</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Seck, Ben</td>&#10;    <td>AUS</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Sharma, Arun</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Shvartsman, Alex</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Sinclair, Donald</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Snepvangers, Bram</td>&#10;    <td>NLD</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Sonne, Jonathan</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Soots, Christopher</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Spaulding, Ian</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Stark, Ben</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Suzuki, Kenta</td>&#10;    <td>JPN</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Swarowski, Robert</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Szleifer, Gadiel</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Takakuwa, Akihiro</td>&#10;    <td>JPN</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Tamblyn, Mitchell</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Taulbee, Brad</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Taylor, Eric</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Thompson, Gerry</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Tsang, Terry</td>&#10;    <td>CAN</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Turian, Michael</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Vallivaara, Ilari</td>&#10;    <td>FIN</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Wagener, Joshua</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Webb, Taylor</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Werner, Alex</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Wiegersma, Jelger</td>&#10;    <td>NLD</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Wise, Joseph Gary</td>&#10;    <td>CAN</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Woltereck, Chris</td>&#10;    <td>USA</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Yamakawa, Shin'ichiro</td>&#10;    <td>JPN</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Yamamoto, Kentaro</td>&#10;    <td>JPN</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Zajdner, Mark</td>&#10;    <td>CAN</td>&#10;  </tr>&#10;  <tr>&#10;    <td>Total Players</td>&#10;    <td>113</td>&#10;  </tr>&#10;</tbody></table>

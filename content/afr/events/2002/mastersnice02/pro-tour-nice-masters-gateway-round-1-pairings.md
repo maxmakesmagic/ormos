@@ -1,0 +1,50 @@
+---
+id: xqmfd8er
+kind: event
+lang: afr
+path: /afr/events/2002/mastersnice02/pro-tour-nice-masters-gateway-round-1-pairings
+title: Pro Tour Nice Masters Gateway Round 1 Pairings
+published: null
+column_slug: null
+column: null
+authors: []
+event_code: mastersnice02
+detected_lang: afr
+metadata_evidence:
+  title:
+    page_key: wizards.com/default.asp?x=sideboard/mastersnice02/gwpair1
+    lang_detected: afr
+    capture_id: 1479079
+    url: http://www.wizards.com/default.asp?x=sideboard/mastersnice02/gwpair1&tablesort=1b
+    captured_at: '2003-07-28 22:40:04+00'
+    rule: html.title
+  event_code:
+    page_key: wizards.com/default.asp?x=sideboard/mastersnice02/gwpair1
+    lang_detected: afr
+    capture_id: 1479079
+    url: http://www.wizards.com/default.asp?x=sideboard/mastersnice02/gwpair1&tablesort=1b
+    captured_at: '2003-07-28 22:40:04+00'
+    rule: url.event_code
+sources:
+- document_id: xqmfd8er
+  url: http://www.wizards.com/default.asp?x=sideboard/mastersnice02/gwpair1&tablesort=1b
+  page_key: wizards.com/default.asp?x=sideboard/mastersnice02/gwpair1
+  lang: afr
+  template: classic_asp
+  captured_at: '2003-07-28 22:40:04+00'
+  capture_id: 1479079
+  wayback_url: https://web.archive.org/web/20030728224004id_/http://www.wizards.com/default.asp?x=sideboard/mastersnice02/gwpair1&tablesort=1b
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: xqmfd8er
+  capture_id: 1479079
+  url: http://www.wizards.com/default.asp?x=sideboard/mastersnice02/gwpair1&tablesort=1b
+  wayback_url: https://web.archive.org/web/20030728224004id_/http://www.wizards.com/default.asp?x=sideboard/mastersnice02/gwpair1&tablesort=1b
+  captured_at: '2003-07-28 22:40:04+00'
+  template: classic_asp
+  sha256: cad2740bd39c03e02489690ea9682f9a579c338af4a5c96db5e064818723b11b
+render_recovery: []
+---
+### 
+
+<table><tbody><tr><td><a href="/de/events/2002/mastersnice02/pro-tour-nice-masters-gateway-round-1-pairings"><b>Player</b></a></td>&#10;<td><a href="/de/events/2002/mastersnice02/pro-tour-nice-masters-gateway-round-1-pairings"><b>Table</b></a></td>&#10;<td><a href="/de/events/2002/mastersnice02/pro-tour-nice-masters-gateway-round-1-pairings"><b>Player</b></a></td>&#10;</tr>&#10;<tr><td>Zink, Daniel</td>&#10;<td>22</td>&#10;<td>Magid, Jeffrey</td>&#10;</tr>&#10;<tr><td>Ziegler, Eric</td>&#10;<td>19</td>&#10;<td>Skjetne, Endre</td>&#10;</tr>&#10;<tr><td>Witt, Alexander</td>&#10;<td> </td>&#10;<td>* BYE *</td>&#10;</tr>&#10;<tr><td>Wee, Pang Ming</td>&#10;<td>15</td>&#10;<td>Dam, Lars</td>&#10;</tr>&#10;<tr><td>Vollebregt, Joost</td>&#10;<td>9</td>&#10;<td>Preyer, Thomas</td>&#10;</tr>&#10;<tr><td>Vienneau, Matthew</td>&#10;<td> </td>&#10;<td>* BYE *</td>&#10;</tr>&#10;<tr><td>van der Velden, Stan</td>&#10;<td>10</td>&#10;<td>Haim, Christophe</td>&#10;</tr>&#10;<tr><td>van den Broek, Victor</td>&#10;<td>4</td>&#10;<td>McCord, Scott</td>&#10;</tr>&#10;<tr><td>Turian, Michael</td>&#10;<td> </td>&#10;<td>* BYE *</td>&#10;</tr>&#10;<tr><td>Tsang, Terry</td>&#10;<td> </td>&#10;<td>* BYE *</td>&#10;</tr>&#10;<tr><td>Tsang, Gabriel</td>&#10;<td> </td>&#10;<td>* BYE *</td>&#10;</tr>&#10;<tr><td>Tsai, Tony</td>&#10;<td>21</td>&#10;<td>Geertsen, Svend</td>&#10;</tr>&#10;<tr><td>Tomcani, Jan</td>&#10;<td> </td>&#10;<td>* BYE *</td>&#10;</tr>&#10;<tr><td>Thompson, Mike</td>&#10;<td>16</td>&#10;<td>Szigeti, Peter</td>&#10;</tr>&#10;<tr><td>Tenenbaum, Amiel</td>&#10;<td> </td>&#10;<td>* BYE *</td>&#10;</tr>&#10;<tr><td>Szigeti, Peter</td>&#10;<td>16</td>&#10;<td>Thompson, Mike</td>&#10;</tr>&#10;<tr><td>Summersberger, Helmut</td>&#10;<td>27</td>&#10;<td>Jeudon, Florent</td>&#10;</tr>&#10;<tr><td>Stokinger, Andrew</td>&#10;<td>25</td>&#10;<td>Halter, James</td>&#10;</tr>&#10;<tr><td>Snepvangers, Bram</td>&#10;<td> </td>&#10;<td>* BYE *</td>&#10;</tr>&#10;<tr><td>Skjetne, Endre</td>&#10;<td>19</td>&#10;<td>Ziegler, Eric</td>&#10;</tr>&#10;<tr><td>Shinkins, Stewart</td>&#10;<td> </td>&#10;<td>* BYE *</td>&#10;</tr>&#10;<tr><td>Shears, Steven</td>&#10;<td>8</td>&#10;<td>Nitter, Eivind</td>&#10;</tr>&#10;<tr><td>Santin, Andrea</td>&#10;<td> </td>&#10;<td>* BYE *</td>&#10;</tr>&#10;<tr><td>Sadeghpour, Johan</td>&#10;<td>18</td>&#10;<td>Jones, Craig</td>&#10;</tr>&#10;<tr><td>Rush, Gary</td>&#10;<td> </td>&#10;<td>* BYE *</td>&#10;</tr>&#10;<tr><td>Rosholm, Thomas</td>&#10;<td> </td>&#10;<td>* BYE *</td>&#10;</tr>&#10;<tr><td>Ronaldson, Ben</td>&#10;<td>23</td>&#10;<td>Blech, Reinhard</td>&#10;</tr>&#10;<tr><td>Remie, Jeroen</td>&#10;<td>7</td>&#10;<td>Krouner, Ken</td>&#10;</tr>&#10;<tr><td>Ranque, Wilfried</td>&#10;<td> </td>&#10;<td>* BYE *</td>&#10;</tr>&#10;<tr><td>Pustilnik, Michael</td>&#10;<td> </td>&#10;<td>* BYE *</td>&#10;</tr>&#10;<tr><td>Price, David</td>&#10;<td>5</td>&#10;<td>Herold, Jim</td>&#10;</tr>&#10;<tr><td>Preyer, Thomas</td>&#10;<td>9</td>&#10;<td>Vollebregt, Joost</td>&#10;</tr>&#10;<tr><td>Parazzoli, Dario</td>&#10;<td>12</td>&#10;<td>Mitchell, Andrew</td>&#10;</tr>&#10;<tr><td>Oomens, Wessel</td>&#10;<td>2</td>&#10;<td>OMahoneySchwartz, Steven</td>&#10;</tr>&#10;<tr><td>OMahoneySchwartz, Steven</td>&#10;<td>2</td>&#10;<td>Oomens, Wessel</td>&#10;</tr>&#10;<tr><td>Okamoto, Jin</td>&#10;<td> </td>&#10;<td>* BYE *</td>&#10;</tr>&#10;<tr><td>Ødegaard, Øyvind</td>&#10;<td> </td>&#10;<td>* BYE *</td>&#10;</tr>&#10;<tr><td>Nobushita, Jun</td>&#10;<td>26</td>&#10;<td>Eder, Wolfgang</td>&#10;</tr>&#10;<tr><td>Nitter, Eivind</td>&#10;<td>8</td>&#10;<td>Shears, Steven</td>&#10;</tr>&#10;<tr><td>Mowshowitz, Zvi</td>&#10;<td> </td>&#10;<td>* BYE *</td>&#10;</tr>&#10;<tr><td>Mori, Katsuhiro</td>&#10;<td> </td>&#10;<td>* BYE *</td>&#10;</tr>&#10;<tr><td>Mitchell, Andrew</td>&#10;<td>12</td>&#10;<td>Parazzoli, Dario</td>&#10;</tr>&#10;<tr><td>Meraghni, Farid</td>&#10;<td> </td>&#10;<td>* BYE *</td>&#10;</tr>&#10;<tr><td>Menard, Antoine</td>&#10;<td>24</td>&#10;<td>Dal Farra, Gionata</td>&#10;</tr>&#10;<tr><td>McCord, Scott</td>&#10;<td>4</td>&#10;<td>van den Broek, Victor</td>&#10;</tr>&#10;<tr><td>Mandel, Daniel</td>&#10;<td> </td>&#10;<td>* BYE *</td>&#10;</tr>&#10;<tr><td>Malherbaud, Pierre</td>&#10;<td> </td>&#10;<td>* BYE *</td>&#10;</tr>&#10;<tr><td>Magid, Jeffrey</td>&#10;<td>22</td>&#10;<td>Zink, Daniel</td>&#10;</tr>&#10;<tr><td>Lührs, Christian</td>&#10;<td>11</td>&#10;<td>Linde, Matt</td>&#10;</tr>&#10;<tr><td>Lo Moro, Raffaele</td>&#10;<td>14</td>&#10;<td>Lauriol, Sylvain</td>&#10;</tr>&#10;<tr><td>Lippert, Christoph</td>&#10;<td> </td>&#10;<td>* BYE *</td>&#10;</tr>&#10;<tr><td>Linde, Matt</td>&#10;<td>11</td>&#10;<td>Lührs, Christian</td>&#10;</tr>&#10;<tr><td>Lauriol, Sylvain</td>&#10;<td>14</td>&#10;<td>Lo Moro, Raffaele</td>&#10;</tr>&#10;<tr><td>Krouner, Ken</td>&#10;<td>7</td>&#10;<td>Remie, Jeroen</td>&#10;</tr>&#10;<tr><td>Klauser, Benedikt</td>&#10;<td> </td>&#10;<td>* BYE *</td>&#10;</tr>&#10;<tr><td>Kibler, Brian</td>&#10;<td> </td>&#10;<td>* BYE *</td>&#10;</tr>&#10;<tr><td>Kesselman, Eric</td>&#10;<td>17</td>&#10;<td>Hiltunen, Arto</td>&#10;</tr>&#10;<tr><td>Kastle, Darwin</td>&#10;<td> </td>&#10;<td>* BYE *</td>&#10;</tr>&#10;<tr><td>Karsten, Frank</td>&#10;<td> </td>&#10;<td>* BYE *</td>&#10;</tr>&#10;<tr><td>Jorstedt, Mattias</td>&#10;<td>20</td>&#10;<td>Canavesi, Daniele</td>&#10;</tr>&#10;<tr><td>Jonsson, Anton</td>&#10;<td> </td>&#10;<td>* BYE *</td>&#10;</tr>&#10;<tr><td>Jones, Craig</td>&#10;<td>18</td>&#10;<td>Sadeghpour, Johan</td>&#10;</tr>&#10;<tr><td>Joebstl, Markus</td>&#10;<td>1</td>&#10;<td>Daoust, Guillaume</td>&#10;</tr>&#10;<tr><td>Jeudon, Florent</td>&#10;<td>27</td>&#10;<td>Summersberger, Helmut</td>&#10;</tr>&#10;<tr><td>Ishida, Itaru</td>&#10;<td> </td>&#10;<td>* BYE *</td>&#10;</tr>&#10;<tr><td>Ikeda, Tsuyoshi</td>&#10;<td>3</td>&#10;<td>Boileau, Louis</td>&#10;</tr>&#10;<tr><td>Hovi, Tommi</td>&#10;<td> </td>&#10;<td>* BYE *</td>&#10;</tr>&#10;<tr><td>Hirabayashi, Kazuya</td>&#10;<td>6</td>&#10;<td>Barra, Giulio</td>&#10;</tr>&#10;<tr><td>Hiltunen, Arto</td>&#10;<td>17</td>&#10;<td>Kesselman, Eric</td>&#10;</tr>&#10;<tr><td>Herzog, Nicolai</td>&#10;<td> </td>&#10;<td>* BYE *</td>&#10;</tr>&#10;<tr><td>Herold, Jim</td>&#10;<td>5</td>&#10;<td>Price, David</td>&#10;</tr>&#10;<tr><td>Halter, James</td>&#10;<td>25</td>&#10;<td>Stokinger, Andrew</td>&#10;</tr>&#10;<tr><td>Haim, Christophe</td>&#10;<td>10</td>&#10;<td>van der Velden, Stan</td>&#10;</tr>&#10;<tr><td>Godinez Estrada, Gerardo</td>&#10;<td>13</td>&#10;<td>Courtois, Frederic</td>&#10;</tr>&#10;<tr><td>Geertsen, Svend</td>&#10;<td>21</td>&#10;<td>Tsai, Tony</td>&#10;</tr>&#10;<tr><td>Fung, Jeff</td>&#10;<td>28</td>&#10;<td>Dumay, Alexis</td>&#10;</tr>&#10;<tr><td>Froehlich, Eric</td>&#10;<td> </td>&#10;<td>* BYE *</td>&#10;</tr>&#10;<tr><td>Eder, Wolfgang</td>&#10;<td>26</td>&#10;<td>Nobushita, Jun</td>&#10;</tr>&#10;<tr><td>Dumay, Alexis</td>&#10;<td>28</td>&#10;<td>Fung, Jeff</td>&#10;</tr>&#10;<tr><td>De Rosa, Antonino</td>&#10;<td> </td>&#10;<td>* BYE *</td>&#10;</tr>&#10;<tr><td>Davis, Brian</td>&#10;<td> </td>&#10;<td>* BYE *</td>&#10;</tr>&#10;<tr><td>Daoust, Guillaume</td>&#10;<td>1</td>&#10;<td>Joebstl, Markus</td>&#10;</tr>&#10;<tr><td>Dam, Lars</td>&#10;<td>15</td>&#10;<td>Wee, Pang Ming</td>&#10;</tr>&#10;<tr><td>Dal Farra, Gionata</td>&#10;<td>24</td>&#10;<td>Menard, Antoine</td>&#10;</tr>&#10;<tr><td>Cunningham, Jeff</td>&#10;<td> </td>&#10;<td>* BYE *</td>&#10;</tr>&#10;<tr><td>Courtois, Frederic</td>&#10;<td>13</td>&#10;<td>Godinez Estrada, Gerardo</td>&#10;</tr>&#10;<tr><td>Canavesi, Daniele</td>&#10;<td>20</td>&#10;<td>Jorstedt, Mattias</td>&#10;</tr>&#10;<tr><td>Boileau, Louis</td>&#10;<td>3</td>&#10;<td>Ikeda, Tsuyoshi</td>&#10;</tr>&#10;<tr><td>Boeken, Noah</td>&#10;<td> </td>&#10;<td>* BYE *</td>&#10;</tr>&#10;<tr><td>Blech, Reinhard</td>&#10;<td>23</td>&#10;<td>Ronaldson, Ben</td>&#10;</tr>&#10;<tr><td>Bastos, Frederico</td>&#10;<td> </td>&#10;<td>* BYE *</td>&#10;</tr>&#10;<tr><td>Barra, Giulio</td>&#10;<td>6</td>&#10;<td>Hirabayashi, Kazuya</td>&#10;</tr>&#10;</tbody></table>

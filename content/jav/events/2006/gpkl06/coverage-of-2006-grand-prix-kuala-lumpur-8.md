@@ -1,0 +1,48 @@
+---
+id: 5x22qh39
+kind: event
+lang: jav
+path: /jav/events/2006/gpkl06/coverage-of-2006-grand-prix-kuala-lumpur-8
+title: Coverage of 2006 Grand Prix-Kuala Lumpur
+published: null
+column_slug: null
+column: null
+authors: []
+event_code: gpkl06
+detected_lang: jav
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/gpkl06/draft2pods
+    lang_detected: jav
+    capture_id: 1042631
+    url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpkl06/draft2pods
+    captured_at: '2013-06-30 17:47:37+00'
+    rule: aspx.article_heading
+  event_code:
+    page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/gpkl06/draft2pods
+    lang_detected: jav
+    capture_id: 1042631
+    url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpkl06/draft2pods
+    captured_at: '2013-06-30 17:47:37+00'
+    rule: url.event_code
+sources:
+- document_id: 5x22qh39
+  url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpkl06/draft2pods
+  page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/gpkl06/draft2pods
+  lang: jav
+  template: aspx
+  captured_at: '2013-06-30 17:47:37+00'
+  capture_id: 1042631
+  wayback_url: https://web.archive.org/web/20130630174737id_/https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpkl06/draft2pods
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 5x22qh39
+  capture_id: 1042631
+  url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpkl06/draft2pods
+  wayback_url: https://web.archive.org/web/20130630174737id_/https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpkl06/draft2pods
+  captured_at: '2013-06-30 17:47:37+00'
+  template: aspx
+  sha256: fd0ac2ff2546e860548bc0639a9d068108b8e2f095f2279ae291097c3ae26701
+render_recovery: []
+---
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <a href="/jav/events/2006/gpkl06/coverage-of-2006-grand-prix-kuala-lumpur-8">&#10;        <b>Pod</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/jav/events/2006/gpkl06/coverage-of-2006-grand-prix-kuala-lumpur-8">&#10;        <b>Seat</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/jav/events/2006/gpkl06/coverage-of-2006-grand-prix-kuala-lumpur-8">&#10;        <b>Player</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/jav/events/2006/gpkl06/coverage-of-2006-grand-prix-kuala-lumpur-8">&#10;        <b>Points</b>&#10;      </a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>1</td>&#10;    <td>1</td>&#10;    <td>Tsumura, Kenji</td>&#10;    <td>33</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>2</td>&#10;    <td>Martin, Quentin</td>&#10;    <td>30</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>3</td>&#10;    <td>Tu, Nan</td>&#10;    <td>30</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>4</td>&#10;    <td>Kim, Cynic</td>&#10;    <td>30</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>5</td>&#10;    <td>Porter, James</td>&#10;    <td>27</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>6</td>&#10;    <td>Ogura, Ryou</td>&#10;    <td>27</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>7</td>&#10;    <td>Yasooka, Shouta</td>&#10;    <td>27</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>8</td>&#10;    <td>Fujita, Osamu</td>&#10;    <td>27</td>&#10;  </tr>&#10;  <tr>&#10;    <td>2</td>&#10;    <td>1</td>&#10;    <td>Hendrawan, Bernhard</td>&#10;    <td>27</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>2</td>&#10;    <td>Nakajima, Chikara</td>&#10;    <td>27</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>3</td>&#10;    <td>Leong, Felix</td>&#10;    <td>27</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>4</td>&#10;    <td>Sasagawa, Tomohide</td>&#10;    <td>25</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>5</td>&#10;    <td>Wong, Kok Ming</td>&#10;    <td>25</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>6</td>&#10;    <td>Levin, Eugene A</td>&#10;    <td>25</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>7</td>&#10;    <td>Soh, Terry</td>&#10;    <td>25</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>8</td>&#10;    <td>Komuro, Shuu</td>&#10;    <td>25</td>&#10;  </tr>&#10;  <tr>&#10;    <td>3</td>&#10;    <td>1</td>&#10;    <td>Lin, Milton Jian Xiong</td>&#10;    <td>25</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>2</td>&#10;    <td>Krish, Rondy</td>&#10;    <td>25</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>3</td>&#10;    <td>Gan, vincent</td>&#10;    <td>25</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>4</td>&#10;    <td>Warmenhoven, Ruud</td>&#10;    <td>25</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>5</td>&#10;    <td>Li, Jie</td>&#10;    <td>25</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>6</td>&#10;    <td>Zhou, Yujian</td>&#10;    <td>25</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>7</td>&#10;    <td>siri-ek, buncha</td>&#10;    <td>24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>8</td>&#10;    <td>Tachasukjai, Mongkol</td>&#10;    <td>24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>4</td>&#10;    <td>1</td>&#10;    <td>Lim, Victoriano</td>&#10;    <td>24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>2</td>&#10;    <td>Cheaw, Tommy Chung Sung</td>&#10;    <td>24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>3</td>&#10;    <td>Song, Hua chao</td>&#10;    <td>24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>4</td>&#10;    <td>Ishida, Itaru</td>&#10;    <td>24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>5</td>&#10;    <td>Osawa, Takuya</td>&#10;    <td>24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>6</td>&#10;    <td>Ang, Junyang</td>&#10;    <td>24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>7</td>&#10;    <td>Siagian, Yohannes</td>&#10;    <td>24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>8</td>&#10;    <td>Lau, Sam Lei Kang</td>&#10;    <td>24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>5</td>&#10;    <td>1</td>&#10;    <td>Kee, Eng Long Christopher</td>&#10;    <td>24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>2</td>&#10;    <td>Tan, Kiat Cheong</td>&#10;    <td>24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>3</td>&#10;    <td>Tan, Steven</td>&#10;    <td>24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>4</td>&#10;    <td>Park, Jun Young</td>&#10;    <td>24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>5</td>&#10;    <td>Law, Albertus</td>&#10;    <td>24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>6</td>&#10;    <td>Thio, Russell</td>&#10;    <td>24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>7</td>&#10;    <td>Ootsuka, Koutarou</td>&#10;    <td>22</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>8</td>&#10;    <td>Lee, Warren</td>&#10;    <td>22</td>&#10;  </tr>&#10;  <tr>&#10;    <td>6</td>&#10;    <td>1</td>&#10;    <td>Surapanpitak, Chet</td>&#10;    <td>22</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>2</td>&#10;    <td>Francisco, John</td>&#10;    <td>22</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>3</td>&#10;    <td>Pau, Kar Wei</td>&#10;    <td>22</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>4</td>&#10;    <td>Lim, Wai Keat</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>5</td>&#10;    <td>Yang, Joshua</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>6</td>&#10;    <td>Mun Yip, Yau</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>7</td>&#10;    <td>Li, Cheuk Yin</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>8</td>&#10;    <td>Saito, Tomoharu</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>7</td>&#10;    <td>1</td>&#10;    <td>Tan, Chuen Hwa</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>2</td>&#10;    <td>Wong, Nicholas Jonathan</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>3</td>&#10;    <td>Paculio, DJonathan</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>4</td>&#10;    <td>Lim, Ernest</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>5</td>&#10;    <td>Xiao, Dennis</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>6</td>&#10;    <td>Foo, Tun Chuan</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>7</td>&#10;    <td>Ahamad Kamal, Ahmad Omar B.</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>8</td>&#10;    <td>Go, Paolo</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>8</td>&#10;    <td>1</td>&#10;    <td>Wong, Weng Sheng</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>2</td>&#10;    <td>Fusta, Haudy</td>&#10;    <td>20</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>3</td>&#10;    <td>Chang, Mark</td>&#10;    <td>20</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>4</td>&#10;    <td>Chow, Yiu Hung</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>5</td>&#10;    <td>Chan, Fung Shun</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>6</td>&#10;    <td>Chua, Chang</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>7</td>&#10;    <td>Prawito, Tjandra</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>8</td>&#10;    <td>lee, rick hup beng</td>&#10;    <td>18</td>&#10;  </tr>&#10;</tbody></table>

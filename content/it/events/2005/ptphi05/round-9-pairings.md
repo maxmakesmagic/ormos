@@ -1,0 +1,48 @@
+---
+id: xf2h3vry
+kind: event
+lang: it
+path: /it/events/2005/ptphi05/round-9-pairings
+title: Round 9 Pairings
+published: null
+column_slug: null
+column: null
+authors: []
+event_code: ptphi05
+detected_lang: it
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/ptphi05/pair9
+    lang_detected: it
+    capture_id: 1114104
+    url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/ptphi05/pair9
+    captured_at: '2013-07-02 00:11:39+00'
+    rule: aspx.article_heading
+  event_code:
+    page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/ptphi05/pair9
+    lang_detected: it
+    capture_id: 1114104
+    url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/ptphi05/pair9
+    captured_at: '2013-07-02 00:11:39+00'
+    rule: url.event_code
+sources:
+- document_id: xf2h3vry
+  url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/ptphi05/pair9
+  page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/ptphi05/pair9
+  lang: it
+  template: aspx
+  captured_at: '2013-07-02 00:11:39+00'
+  capture_id: 1114104
+  wayback_url: https://web.archive.org/web/20130702001139id_/https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/ptphi05/pair9
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: xf2h3vry
+  capture_id: 1114104
+  url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/ptphi05/pair9
+  wayback_url: https://web.archive.org/web/20130702001139id_/https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/ptphi05/pair9
+  captured_at: '2013-07-02 00:11:39+00'
+  template: aspx
+  sha256: 1aff2917a7cc4996fc721b234dcf87b5203c7cd3b0c4b92d5bcf1130c25513ec
+render_recovery: []
+---
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <a href="/it/events/2005/ptphi05/round-9-pairings">&#10;        <b>Table</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/it/events/2005/ptphi05/round-9-pairings">&#10;        <b>Player</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/it/events/2005/ptphi05/round-9-pairings">&#10;        <b>Points</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/it/events/2005/ptphi05/round-9-pairings">&#10;        <b>&#10;      </b></a><b>&#10;    </b></td>&#10;    <td>&#10;      <a href="/it/events/2005/ptphi05/round-9-pairings">&#10;        <b>Opponent</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/it/events/2005/ptphi05/round-9-pairings">&#10;        <b>Points</b>&#10;      </a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td> 1</td>&#10;    <td>Mueller, Andre [DEU]</td>&#10;    <td> 24</td>&#10;    <td>vs.</td>&#10;    <td>Cimera, Ryan [USA]</td>&#10;    <td> 24</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 2</td>&#10;    <td>Jones, Craig [ENG]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Roy, Jim [CAN]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 3</td>&#10;    <td>Ruel, Olivier [FRA]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Shimura, Ichirou [JPN]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 4</td>&#10;    <td>Carlsson, Simon [SWE]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Szleifer, Gadiel [USA]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 5</td>&#10;    <td>Wiegersma, Jelger [USA]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Wolfman, Steven [CAN]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 6</td>&#10;    <td>Goodman, Kyle S [USA]</td>&#10;    <td> 18</td>&#10;    <td>vs.</td>&#10;    <td>Novekoff, Jeff [USA]</td>&#10;    <td> 18</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 7</td>&#10;    <td>Smith, Don [USA]</td>&#10;    <td> 18</td>&#10;    <td>vs.</td>&#10;    <td>Oks, Oliver J [JPN]</td>&#10;    <td> 18</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 8</td>&#10;    <td>Gröndahl, Erik [SWE]</td>&#10;    <td> 18</td>&#10;    <td>vs.</td>&#10;    <td>Cheon, Paul A [USA]</td>&#10;    <td> 18</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 9</td>&#10;    <td>Freeman, Wilson [USA]</td>&#10;    <td> 18</td>&#10;    <td>vs.</td>&#10;    <td>Ikeda, Tsuyoshi [USA]</td>&#10;    <td> 18</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 10</td>&#10;    <td>Canali, Pierre [FRA]</td>&#10;    <td> 18</td>&#10;    <td>vs.</td>&#10;    <td>Glavin, Lucas [USA]</td>&#10;    <td> 18</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 11</td>&#10;    <td>Herberholz, Mark D [USA]</td>&#10;    <td> 18</td>&#10;    <td>vs.</td>&#10;    <td>Budde, Kai [DEU]</td>&#10;    <td> 18</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 12</td>&#10;    <td>Watson, Robert [USA]</td>&#10;    <td> 18</td>&#10;    <td>vs.</td>&#10;    <td>Stein, Harald [DEU]</td>&#10;    <td> 18</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 13</td>&#10;    <td>Peleg, Uri [ISR]</td>&#10;    <td> 18</td>&#10;    <td>vs.</td>&#10;    <td>Caumes, Benjamin [FRA]</td>&#10;    <td> 18</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 14</td>&#10;    <td>Bornarel, Nicolas [FRA]</td>&#10;    <td> 18</td>&#10;    <td>vs.</td>&#10;    <td>Malin, Antti [FIN]</td>&#10;    <td> 18</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 15</td>&#10;    <td>Fujita, Osamu [JPN]</td>&#10;    <td> 18</td>&#10;    <td>vs.</td>&#10;    <td>Fabiano, Gerard [USA]</td>&#10;    <td> 18</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 16</td>&#10;    <td>Girolami, Mario [ITA]</td>&#10;    <td> 18</td>&#10;    <td>vs.</td>&#10;    <td>Walls, Gabe [USA]</td>&#10;    <td> 18</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 17</td>&#10;    <td>Tsumura, Kenji [JPN]</td>&#10;    <td> 18</td>&#10;    <td>vs.</td>&#10;    <td>Douglass, Morgan A [USA]</td>&#10;    <td> 18</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 18</td>&#10;    <td>Solis, David [USA]</td>&#10;    <td> 18</td>&#10;    <td>vs.</td>&#10;    <td>Neiman, Daniel [USA]</td>&#10;    <td> 18</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 19</td>&#10;    <td>Stokka, Truls [NOR]</td>&#10;    <td> 18</td>&#10;    <td>vs.</td>&#10;    <td>Jilot, Chris [USA]</td>&#10;    <td> 18</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 20</td>&#10;    <td>Cruz, Vasco José [PRT]</td>&#10;    <td> 18</td>&#10;    <td>vs.</td>&#10;    <td>Fujita, Tsuyoshi [JPN]</td>&#10;    <td> 18</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 21</td>&#10;    <td>Nakamura, Shuuhei [JPN]</td>&#10;    <td> 18</td>&#10;    <td>vs.</td>&#10;    <td>Ebie, Kunisato [JPN]</td>&#10;    <td> 18</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 22</td>&#10;    <td>De Rosa, Antonino [USA]</td>&#10;    <td> 18</td>&#10;    <td>vs.</td>&#10;    <td>Tochika, Takayuki [JPN]</td>&#10;    <td> 18</td>&#10;  </tr>&#10;</tbody></table>

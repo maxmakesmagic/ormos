@@ -1,0 +1,47 @@
+---
+id: v33w5zq7
+kind: event
+lang: en
+path: /en/articles/event-coverage/2003/12-13-round-8-results
+title: Round 8 Results
+published: '2003-12-13'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-8-results-2003-12-13
+    lang_detected: en
+    capture_id: 568151
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-8-results-2003-12-13
+    captured_at: '2022-07-07 18:13:19+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-8-results-2003-12-13
+    lang_detected: en
+    capture_id: 568151
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-8-results-2003-12-13
+    captured_at: '2022-07-07 18:13:19+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: v33w5zq7
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-8-results-2003-12-13
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/round-8-results-2003-12-13
+  lang: en
+  template: drupal
+  captured_at: '2022-07-07 18:13:19+00'
+  capture_id: 568151
+  wayback_url: https://web.archive.org/web/20220707181319id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-8-results-2003-12-13
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: v33w5zq7
+  capture_id: 568151
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-8-results-2003-12-13
+  wayback_url: https://web.archive.org/web/20220707181319id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-8-results-2003-12-13
+  captured_at: '2022-07-07 18:13:19+00'
+  template: drupal
+  sha256: c2cf50128765e4f193b0aebfabbfb1f7060391e257b735a35b10e240132ade45
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Result</b></td><td><b></b></td><td><b>Opponent</b></td></tr><tr><td> 2</td><td>Stein, Sam [USA]</td><td>Lost 0-2</td><td>vs.</td><td>Abraham, Mike [USA]</td></tr><tr><td> 3</td><td>Dingemans, Theodore [USA]</td><td>Lost 0-2</td><td>vs.</td><td>Stark, Ben [USA]</td></tr><tr><td> 4</td><td>Jarvis, Steven [USA]</td><td>Won 2-1</td><td>vs.</td><td>De Rosa, Antonino [USA]</td></tr><tr><td> 5</td><td>Bunsongsikul, Ped [USA]</td><td>Lost 0-2</td><td>vs.</td><td>Rubin, Ben [USA]</td></tr><tr><td> 6</td><td>kloman, aaron [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Szleifer, Gadiel [USA]</td></tr><tr><td> 7</td><td>Walls, Gabe [USA]</td><td>Won 2-1</td><td>vs.</td><td>Wiitanen, Josh [USA]</td></tr><tr><td> 8</td><td>Ochoa, David [USA]</td><td>Won 2-1</td><td>vs.</td><td>Garrett, Jack [USA]</td></tr><tr><td> 9</td><td>Tsang, Terry [CAN]</td><td>Lost 1-2</td><td>vs.</td><td>Holmes, Adam [USA]</td></tr><tr><td> 10</td><td>Stocks, Jonathan [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Saunders, Nathan [USA]</td></tr><tr><td> 11</td><td>Swarowski, Robert [USA]</td><td>Won 2-0</td><td>vs.</td><td>fett, Robert [USA]</td></tr><tr><td> 12</td><td>Dolbeer, Jed [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Fabiano, Gerard [USA]</td></tr><tr><td> 13</td><td>Impellizzieri, Anthony [USA]</td><td>Won 2-1</td><td>vs.</td><td>Scott-Vargas, Luis [USA]</td></tr><tr><td> 14</td><td>Meves, Nick [USA]</td><td>Won 2-0</td><td>vs.</td><td>Bolick, Robert [USA]</td></tr><tr><td> 15</td><td>Szigeti, Peter [USA]</td><td>Won 2-1</td><td>vs.</td><td>Thompson, Keith [USA]</td></tr><tr><td> 16</td><td>Pustilnik, Michael [USA]</td><td>Lost 0-2</td><td>vs.</td><td>Mahoney, Joe [USA]</td></tr><tr><td> 17</td><td>Simpson, Ken [USA]</td><td>Lost 0-2</td><td>vs.</td><td>Sonne, Jonathan [USA]</td></tr><tr><td> 18</td><td>Taylor, Eric [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Harvey, Eugene [USA]</td></tr><tr><td> 19</td><td>Rietzl, Paul [USA]</td><td>Won 2-1</td><td>vs.</td><td>Fleisch, Josh [USA]</td></tr><tr><td> 20</td><td>Prosak, Adam [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Herzog, Cameron [USA]</td></tr><tr><td> 21</td><td>Ennis, Antonio [USA]</td><td>Won 2-0</td><td>vs.</td><td>Humpherys, David [USA]</td></tr><tr><td> 22</td><td>Gregson, T Shaun [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Gilson, Frank [USA]</td></tr><tr><td> 23</td><td>Fillmore, J [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Quelle, Blake [USA]</td></tr><tr><td> 24</td><td>Ferguson Jr., Charles [USA]</td><td>Lost 0-2</td><td>vs.</td><td>Shvartsman, Alex [USA]</td></tr><tr><td> 25</td><td>gates, brian [USA]</td><td>Won 2-0</td><td>vs.</td><td>Nemati, Kathy [USA]</td></tr><tr><td> 26</td><td>Armbruster, Chris [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Bongiovanni, Mauro [CAN]</td></tr><tr><td> 27</td><td>Klein, James [USA]</td><td>Won 2-1</td><td>vs.</td><td>Lossett, Joe [USA]</td></tr><tr><td> 28</td><td>Lambeth, Shawn [USA]</td><td>Lost 0-2</td><td>vs.</td><td>Estrada, Brandon [USA]</td></tr><tr><td> 29</td><td>Green, David [USA]</td><td>Lost 0-2</td><td>vs.</td><td>klein, adam [USA]</td></tr><tr><td> 30</td><td>Freeman, Ross [USA]</td><td>Lost 0-2</td><td>vs.</td><td>Gapasin, Nathaniel [USA]</td></tr><tr><td> 31</td><td>Roemer, Ross [USA]</td><td>Drew 1-1-1</td><td>vs.</td><td>marquez, john [USA]</td></tr><tr><td> 32</td><td>Custer, Andy [USA]</td><td>Won 2-0</td><td>vs.</td><td>Abrams, Matt [USA]</td></tr><tr><td> 33</td><td>Smith, Rusty [USA]</td><td>Lost 0-2</td><td>vs.</td><td>Caceres, George [USA]</td></tr><tr><td> 34</td><td>Dougherty, Robert [USA]</td><td>Won 2-0</td><td>vs.</td><td>Glenn, Brian [USA]</td></tr><tr><td> 35</td><td>Job, Jonathan [USA]</td><td>Won 2-1</td><td>vs.</td><td>Wiseman, John [USA]</td></tr><tr><td> 36</td><td>Wee, Olwen [USA]</td><td>Lost 0-2</td><td>vs.</td><td>Rivera, Tim [USA]</td></tr><tr><td> 37</td><td>Fine, Marshall [USA]</td><td>Won 2-0</td><td>vs.</td><td>Chipp, Michael [USA]</td></tr><tr><td> 38</td><td>Stroh, Brian [USA]</td><td>Won 2-1</td><td>vs.</td><td>Villa, Michael [USA]</td></tr><tr><td> 39</td><td>Wood, Thomas [USA]</td><td>Won 2-1</td><td>vs.</td><td>Gerhardt, B. Scott [USA]</td></tr><tr><td> 40</td><td>Ravitz, Joshua [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Carleton-Barnes, Gabri [USA]</td></tr><tr><td> 41</td><td>Fletcher, Owen [USA]</td><td>Won 2-1</td><td>vs.</td><td>Dobbin, Jack [USA]</td></tr><tr><td> 42</td><td>Sacal, Alexander [MEX]</td><td>Lost 0-2</td><td>vs.</td><td>Kibler, Brian [USA]</td></tr><tr><td> 43</td><td>Starleaf, Derek [USA]</td><td>Won 2-0</td><td>vs.</td><td>Holden, Eric [USA]</td></tr><tr><td> 44</td><td>Covarrubias, Ismael [USA]</td><td>Won 2-0</td><td>vs.</td><td>Frayer, Michael [USA]</td></tr><tr><td> 45</td><td>Barnett, Noah [USA]</td><td>Lost 0-2</td><td>vs.</td><td>Lewis, Jon [USA]</td></tr><tr><td> 46</td><td>Lee, Marcus [USA]</td><td>Won 2-1</td><td>vs.</td><td>Shaffer, Chuck [USA]</td></tr><tr><td> 47</td><td>Meissner, Erik [USA]</td><td>Lost 0-2</td><td>vs.</td><td>Matarese, Chris [USA]</td></tr><tr><td> 48</td><td>Gapasin, Nathan [USA]</td><td>Won 2-0</td><td>vs.</td><td>Holt, Keith [USA]</td></tr><tr><td> 49</td><td>Freeman, Lance [USA]</td><td>Won 2-0</td><td>vs.</td><td>Cooper, Matt [USA]</td></tr><tr><td> 50</td><td>Goddard, Max [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Cahir, Dan [USA]</td></tr><tr><td> 51</td><td>Hawkins, Charlies [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Huber, Brandon Huber [USA]</td></tr><tr><td> 52</td><td>Gopilan, Jarvis [USA]</td><td>Lost 0-2</td><td>vs.</td><td>Pan, Phimus [USA]</td></tr><tr><td> 53</td><td>Arnold, Michael [USA]</td><td>Won 2-0</td><td>vs.</td><td>Yeh, Jonathan [USA]</td></tr><tr><td> 54</td><td>Cuevas, Antonio [USA]</td><td>Won 2-0</td><td>vs.</td><td>Mardis, Robby [USA]</td></tr><tr><td> 55</td><td>Lebedowicz, Osyp [USA]</td><td>Won 2-1</td><td>vs.</td><td>Custer, James [USA]</td></tr><tr><td> 56</td><td>Shelley, Armand [USA]</td><td>Lost 0-2</td><td>vs.</td><td>Worth, Tom [USA]</td></tr><tr><td> 57</td><td>Tamblyn, Mitchell [USA]</td><td>Won 2-1</td><td>vs.</td><td>Carter, Tom [USA]</td></tr><tr><td> 58</td><td>Hanson, Daniel [USA]</td><td>Won 2-1</td><td>vs.</td><td>Cron, Andrew [USA]</td></tr><tr><td> 59</td><td>Tish, Brad [USA]</td><td>Won 2-1</td><td>vs.</td><td>Campbell, Luke [USA]</td></tr><tr><td> 60</td><td>Hamilton, Jacob [USA]</td><td>Won 2-0</td><td>vs.</td><td>Tamblyn, Alex [USA]</td></tr><tr><td> 61</td><td>Etzel, Alex [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Prochak, Chris [USA]</td></tr><tr><td> 62</td><td>Bruno, Carl [USA]</td><td>Won 2-1</td><td>vs.</td><td>Machan, Thomas [USA]</td></tr><tr><td> 63</td><td>Stewart, Brad [USA]</td><td>Won 2-0</td><td>vs.</td><td>Goldstein, Harold [USA]</td></tr><tr><td> 64</td><td>Sun, Allen [USA]</td><td>Lost 0-2</td><td>vs.</td><td>Kelly, Sean [USA]</td></tr><tr><td> 65</td><td>Schmidt, Otto [BRA]</td><td>Lost 0-2</td><td>vs.</td><td>Paxton, Corey [USA]</td></tr><tr><td> 66</td><td>Johnson, David [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Malloroy, Bryan [USA]</td></tr><tr><td> 67</td><td>Hsu, Charles [USA]</td><td>Lost 0-2</td><td>vs.</td><td>Hornak, Paul [USA]</td></tr><tr><td> 68</td><td>Kong, Richard [USA]</td><td>Won 2-0</td><td>vs.</td><td>Hand, Briahlen [USA]</td></tr><tr><td> 69</td><td>Shepherd, Dustin [USA]</td><td>Drew 1-1-1</td><td>vs.</td><td>Pellegrini, Jamey [USA]</td></tr><tr><td> 70</td><td>Schulte, David [USA]</td><td>Won 2-1</td><td>vs.</td><td>Cheng, Jen [USA]</td></tr><tr><td> 71</td><td>Johnson, Timothy [USA]</td><td>Won 2-0</td><td>vs.</td><td>Montgomery, Jo Anna [USA]</td></tr></tbody></table>

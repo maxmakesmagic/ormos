@@ -1,0 +1,83 @@
+---
+id: 4qq37ndq
+kind: event
+lang: jav
+path: /jav/events/2003/ptyok03/live-coverage-of-2003-pro-tour-yokohama
+title: Live Coverage of 2003 Pro Tour Yokohama
+published: null
+column_slug: null
+column: null
+authors: []
+event_code: ptyok03
+detected_lang: jav
+metadata_evidence:
+  title:
+    page_key: wizards.com/default.asp?x=sideboard/ptyok03/welcomeja
+    lang_detected: jav
+    capture_id: 2394303
+    url: http://www.wizards.com/default.asp?x=sideboard/ptyok03/welcomeja,,it,0
+    captured_at: '2005-08-30 13:20:45+00'
+    rule: html.title
+  event_code:
+    page_key: wizards.com/default.asp?x=sideboard/ptyok03/welcomeja
+    lang_detected: jav
+    capture_id: 2394303
+    url: http://www.wizards.com/default.asp?x=sideboard/ptyok03/welcomeja,,it,0
+    captured_at: '2005-08-30 13:20:45+00'
+    rule: url.event_code
+sources:
+- document_id: 4qq37ndq
+  url: http://www.wizards.com/default.asp?x=sideboard/ptyok03/welcomeja,,it,0
+  page_key: wizards.com/default.asp?x=sideboard/ptyok03/welcomeja
+  lang: jav
+  template: classic_asp
+  captured_at: '2005-08-30 13:20:45+00'
+  capture_id: 2394303
+  wayback_url: https://web.archive.org/web/20050830132045id_/http://www.wizards.com/default.asp?x=sideboard/ptyok03/welcomeja,,it,0
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 4qq37ndq
+  capture_id: 2394303
+  url: http://www.wizards.com/default.asp?x=sideboard/ptyok03/welcomeja,,it,0
+  wayback_url: https://web.archive.org/web/20050830132045id_/http://www.wizards.com/default.asp?x=sideboard/ptyok03/welcomeja,,it,0
+  captured_at: '2005-08-30 13:20:45+00'
+  template: classic_asp
+  sha256: dc752f7d4e4d4e0a9216a085d0b04ae5443a4c567f8ea419acd9403ce47db6d9
+render_recovery:
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sparksmith')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sparksmith
+  occurrences: 1
+---
+  
+  
+  
+
+* * *
+
+![](https://i.ormos.uk/23/e5/23e5f3df88eadb0c45f1b331842094c6ad849f6f34d68f914693d63237234366.gif)
+
+![](https://i.ormos.uk/7e/d7/7ed7224eec864f3ebf5948ae1ede0c06502157fdc43d1b5fd48cba97818975ea.jpg)[マスターズ・ヴェニス](/dan/events/2003/mastersven03/live-coverage-of-2003-venice-masters)さながら、[準決勝](/ja/events/2003/mastersven03/p-s-2-vs-panzer-hunter)という大舞台で日本勢同士が相打つこととなった。ここでベテランのグレイヴィ・プレイヤーである池田剛を撃破した新鋭・大礒正嗣はこのツアーで準優勝という成果を挙げることになり、今季の獲得プロポイントを46点へとの伸ばすこととなった。かくて、このツアーで9位入賞（プロポイント8点）を果たしたライバルのCraig Krempelsをダブルスコアで突き放したのである。残すビッグイベントが世界選手権だけとなったいま、もはや大礒の受賞には当確マークがついたといっても過言ではないだろう。
+
+それにしても、Jorstedtはどうしてしまったのだろう。長くツアーの中堅層を漂っていた彼が、今季に入ってなんと三度目のツアー決勝ラウンド進出という圧倒的なパフォーマンスを見せたのだ。そして、彼は決勝ラウンドで黒赤の素晴らしいデッキをドラフトすることに成功し...《火花鍛冶/Sparksmith》の悪魔のような強さによってFinkelを、そして大礒を撃破した。長かった雌伏のときを終え、スウェーデンの青年がスポットライトを勝ち取ったのだ。
+
+言い換えるなら、一枚の2マナのゴブリンが...それもコモンの1/1クリーチャーが君臨するフォーマットであることが確認されたプロツアーだった。
+
+  
+
+<table><tbody><tr><td><h3>Top 8 Final Standing</h3>&#10;<table><tbody><tr><td> 1.  <b>Mattias Jorstedt</b> (Sweden)</td>&#10;<td>$30,000</td>&#10;</tr>&#10;<tr><td> 2.  <b>Masashi Ooiso</b> (Japan)</td>&#10;<td>$20,000</td>&#10;</tr>&#10;<tr><td> 3.  <b>Tsuyoshi Ikeda</b> (Japan)</td>&#10;<td>$15,000</td>&#10;</tr>&#10;<tr><td> 4.  <b>Jon Finkel</b> (USA)</td>&#10;<td>$13,000</td>&#10;</tr>&#10;<tr><td> 5.  <b>Benjamin Caumes</b> (France)</td>&#10;<td>$9,500</td>&#10;</tr>&#10;<tr><td> 6.  <b>Jose Barbero</b> (Argentina)</td>&#10;<td>$8,500</td>&#10;</tr>&#10;<tr><td> 7.  <b>Ben Seck</b> (Australia)</td>&#10;<td>$7,500</td>&#10;</tr>&#10;<tr><td> 8.  <b>Richard Hoaen</b> (Canada)</td>&#10;<td>$6,500</td>&#10;</tr>&#10;</tbody></table>&#10;<p>(Click <a href="/en/events/2003/ptyok03/2003-pro-tour-yokohama-final-standings">here</a> for complete final standings)</p>&#10;</td>&#10;<td><img src="https://i.ormos.uk/21/5b/215bc66b527424a6402e7f2c83aff31cc6460d9a4c9c1345e7fcd12ed60e1a16.jpg"></td>&#10;</tr>&#10;</tbody></table>
+
+  
+  
+
+<table><tbody><tr><td></td>&#10;<td>Quarterfinals</td>&#10;<td></td>&#10;<td>Semifinals</td>&#10;<td></td>&#10;<td>Finals</td>&#10;<td></td>&#10;<td>Champion</td>&#10;</tr>&#10;<tr><td>1</td>&#10;<td>Mattias Jorstedt</td>&#10;<td rowspan="2"></td>&#10;<td rowspan="2">Mattias Jorstedt, 3-1</td>&#10;<td></td>&#10;<td></td>&#10;<td rowspan="3"></td>&#10;<td rowspan="3"></td>&#10;</tr>&#10;<tr><td>8</td>&#10;<td>Richard Hoaen</td>&#10;<td rowspan="3"></td>&#10;<td rowspan="3">Mattias Jorstedt, 3-0</td>&#10;</tr>&#10;<tr><td></td>&#10;<td></td>&#10;<td></td>&#10;<td></td>&#10;</tr>&#10;<tr><td>4</td>&#10;<td>Jon Finkel</td>&#10;<td rowspan="2"></td>&#10;<td rowspan="2">Jon Finkel, 3-1</td>&#10;<td rowspan="5"></td>&#10;<td rowspan="5">Mattias Jorstedt, 3-0</td>&#10;</tr>&#10;<tr><td>5</td>&#10;<td>Benjamin Caumes</td>&#10;<td rowspan="3"></td>&#10;<td rowspan="3"></td>&#10;</tr>&#10;<tr><td></td>&#10;<td></td>&#10;<td></td>&#10;<td></td>&#10;</tr>&#10;<tr><td>2</td>&#10;<td>Tsuyoshi Ikeda</td>&#10;<td rowspan="2"></td>&#10;<td rowspan="2">Tsuyoshi Ikeda, 3-2</td>&#10;</tr>&#10;<tr><td>7</td>&#10;<td>Ben Seck</td>&#10;<td rowspan="3"></td>&#10;<td rowspan="3">Masashi Ooiso, 3-0</td>&#10;</tr>&#10;<tr><td></td>&#10;<td></td>&#10;<td></td>&#10;<td></td>&#10;</tr>&#10;<tr><td>3</td>&#10;<td>Masashi Ooiso</td>&#10;<td rowspan="2"></td>&#10;<td rowspan="2">Masashi Ooiso, 3-1</td>&#10;</tr>&#10;<tr><td>6</td>&#10;<td>Jose Barbero</td>&#10;<td></td>&#10;<td></td>&#10;</tr>&#10;</tbody></table>
+
+  
+
+<table><tbody><tr><td><img src="https://i.ormos.uk/a7/41/a741c16f2ab1af13d2711e02d14836d0835b76c6cb61ef7966cf3c53907c04c9.gif"></td>&#10;<td>写真: <a href="/en/events/2003/ptyok03/2003-pro-tour-yokohama-photo-coverage">Thursday/Friday</a> | <a href="/en/events/2003/ptyok03/2003-pro-tour-yokohama-photo-coverage-2">Saturday</a> | <a href="/en/events/2003/ptyok03/2003-pro-tour-yokohama-photo-coverage-3">Sunday</a></td>&#10;</tr>&#10;</tbody></table>
+
+<table><tbody><tr><td>観戦記事</td>&#10;<td>情報</td>&#10;</tr>&#10;<tr><td><ul>&#10;<li><a href="/en/events/2003/ptyok03/vs-mattias-jorstedt">決勝</a>: 大礒 正嗣 vs. Mattias Jorstedt<div><i>by Ken’ichi Fujita</i></div>&#10;</li>&#10;<li><a href="/en/events/2003/ptyok03/jon-finkel-vs-mattias-jorstedt">準決勝</a>: Jon Finkel vs. Mattias Jorstedt<div><i>by 松井健治</i></div>&#10;</li>&#10;<li><a href="/ja/events/2003/ptyok03/vs">準決勝</a>: 大礒正嗣 vs. 池田剛<div><i>by 藤枝勇</i></div>&#10;</li>&#10;<li><a href="/en/events/2003/ptyok03/mattias-jorstedt-vs-richard-hoaen">準々決勝</a>: Mattias Jorstedt vs. Richard Hoaen<div><i>by 長岡崇之</i></div>&#10;</li>&#10;<li><a href="/ja/events/2003/ptyok03/jon-finkel-vs-benjamin-caumes">準々決勝</a>: Jon Finkel vs. Benjamin Caumes<div><i>by 松井健治</i></div>&#10;</li>&#10;<li><a href="/ja/events/2003/ptyok03/vs-ben-seck">準々決勝</a>: 池田剛 vs. Ben Seck<div><i>by 能西圭一郎</i></div>&#10;</li>&#10;<li><a href="/ja/events/2003/ptyok03/vs-jose-barbero">準々決勝</a>: 大礒正嗣vs. Jose Barbero<div><i>by 藤枝勇</i></div>&#10;</li>&#10;<li><a href="/en/events/2003/ptyok03/top-8-decks">Decklists</a>: Top 8 Decks<div><i>by Sideboard Staff</i></div>&#10;</li>&#10;<li><a href="/nob/events/2003/ptyok03/final-draft-analysis">Final Draft Analysis</a>: 大礒正嗣<div><i>by Ken’ichi Fujita</i></div>&#10;</li>&#10;<li><a href="/nob/events/2003/ptyok03/final-draft-analysis-mattias-jorstedt">Final Draft Analysis</a>: Mattias Jorstedt<div><i>by 長岡崇之</i></div>&#10;</li>&#10;<li><a href="/en/events/2003/ptyok03/final-draft-analysis">Final Draft Analysis</a>: 池田剛<div><i>by 平林和哉</i></div>&#10;</li>&#10;<hr>&#10;<li><a href="/ja/events/2003/ptyok03/14-vs-jon-stern">ラウンド 14</a>: 大礒正嗣 vs. Jon Stern<div><i>by 真木孝一郎</i></div>&#10;</li>&#10;<li><a href="/nl/events/2003/ptyok03/14-raffaele-lo-moro-vs-victor-van-den-broek">ラウンド 14</a>: Raffaele Lo Moro vs. Victor van den Broek<div><i>by 長岡崇之</i></div>&#10;</li>&#10;<li><a href="/tgl/events/2003/ptyok03/13-craig-krempels-vs-dario-parazzoli">ラウンド 13</a>: Craig Krempels vs. Dario Parazzoli<div><i>by 松井健治</i></div>&#10;</li>&#10;<li><a href="/en/events/2003/ptyok03/13-vs-florent-jeudon">ラウンド 13</a>: 大礒正嗣 vs Florent Jeudon<div><i>by 能西圭一郎</i></div>&#10;</li>&#10;<li><a href="/ja/events/2003/ptyok03/12-ben-seck-vs-raffaele-lo-moro">ラウンド 12</a>: Ben Seck vs. Raffaele Lo Moro<div><i>by 松井健治</i></div>&#10;</li>&#10;<li><a href="/ja/events/2003/ptyok03/4th-draft-analysis">4th Draft Analysis</a>: 大礒正嗣<div><i>by Keita Mori</i></div>&#10;</li>&#10;<li><a href="/en/events/2003/ptyok03/4th-draft-analysis-pod-1">4th Draft Analysis</a>: Pod 1<div><i>by 真木孝一郎</i></div>&#10;</li>&#10;<li><a href="/ja/events/2003/ptyok03/11-jon-finkel-vs">ラウンド 11</a>: Jon Finkel vs. 田代義明<div><i>by 能西圭一郎</i></div>&#10;</li>&#10;<li><a href="/ja/events/2003/ptyok03/11-jose-barbero-vs">ラウンド 11</a>: Jose Barbero vs. 池田 剛<div><i>by 松井健治</i></div>&#10;</li>&#10;<li><a href="/en/events/2003/ptyok03/10-gary-wise-vs-matthew-cory">ラウンド 10</a>: Gary Wise vs. Matthew Cory<div><i>by 長岡崇之</i></div>&#10;</li>&#10;<li><a href="/ja/events/2003/ptyok03/10-vs-benjamin-caumes">ラウンド 10</a>: 大礒 vs Benjamin Caumes<div><i>by Koichiro Maki</i></div>&#10;</li>&#10;<li><a href="/ja/events/2003/ptyok03/9-roc-herms-vs">ラウンド 9</a>: Roc Herms vs. 吉川祐輔<div><i>by 松井健治</i></div>&#10;</li>&#10;<li><a href="/ja/events/2003/ptyok03/9-jon-finkel-vs-frank-krasten">ラウンド 9</a>: Jon Finkel vs. Frank Krasten<div><i>by 能西圭一郎</i></div>&#10;</li>&#10;<li><a href="/ja/events/2003/ptyok03/8-vs-matt-linde">ラウンド 8</a>: 池田剛 vs.Matt Linde<div><i>by 能西圭一郎</i></div>&#10;</li>&#10;<li><a href="/en/events/2003/ptyok03/8-raphael-levy-vs-franck-canu">ラウンド 8</a>: Raphael Levy vs. Franck Canu<div><i>by 長岡崇之</i></div>&#10;</li>&#10;<li><a href="/ja/events/2003/ptyok03/8-christophe-haim-vs-pierre-malherbaud">ラウンド 8</a>: Christophe Haim vs. Pierre Malherbaud<div><i>by Koichiro Maki</i></div>&#10;</li>&#10;<li><a href="/ja/events/2003/ptyok03/8-david-rood-vs-brian-kibler">ラウンド 8</a>: David Rood vs. Brian Kibler<div><i>by 松井健治</i></div>&#10;</li>&#10;<li><a href="/en/events/2003/ptyok03/3rd-draft-analysis">3rd Draft Analysis</a>: 大礒正嗣<div><i>by Keita Mori</i></div>&#10;</li>&#10;<li><a href="/de/events/2003/ptyok03/draft-3-pods">Draft 3</a>: Pods<div><i>by Sideboard Staff</i></div>&#10;</li>&#10;<hr>&#10;<li><a href="/ja/events/2003/ptyok03/7-richard-hoaen-vs">ラウンド 7</a>: Richard Hoaen vs. 池田 剛<div><i>by 松井健治</i></div>&#10;</li>&#10;<li><a href="/nob/events/2003/ptyok03/7-vs">ラウンド 7</a>: 大礒 正嗣 vs.田代 義明 <div><i>by 長岡崇之</i></div>&#10;</li>&#10;<li><a href="/ja/events/2003/ptyok03/6-jon-finkel-vs-franck-canu">ラウンド 6</a>: Jon Finkel vs. Franck Canu<div><i>by 松井健治</i></div>&#10;</li>&#10;<li><a href="/ja/events/2003/ptyok03/6-kamiel-cornelissen-vs">ラウンド 6</a>: Kamiel Cornelissen vs. 石田格<div><i>by 能西圭一郎</i></div>&#10;</li>&#10;<li><a href="/ja/events/2003/ptyok03/5-vs">ラウンド 5</a>: 田中久也vs. 石田格<div><i>by 能西圭一郎</i></div>&#10;</li>&#10;<li><a href="/nl/events/2003/ptyok03/5-vs-jens-thoren">ラウンド 5</a>: 岡本 尋 vs. Jens Thoren<div><i>by 長岡 崇之</i></div>&#10;</li>&#10;<li><a href="/nob/events/2003/ptyok03/5-bob-maher-vs-kai-budde">ラウンド 5</a>: Bob Maher vs. Kai Budde<div><i>by 松井健治</i></div>&#10;</li>&#10;<li><a href="/en/events/2003/ptyok03/2nd-draft-analysis">2nd Draft Analysis</a>: 池田剛<div><i>by Keita Mori</i></div>&#10;</li>&#10;<li><a href="/it/events/2003/ptyok03/draft-2-pods">Draft 2</a>: Pods<div><i>by Sideboard Staff</i></div>&#10;</li>&#10;<li><a href="/fr/events/2003/ptyok03/4-vs-kai-budde">ラウンド 4</a>: 大礒 正嗣 vs. Kai Budde<div><i>by 長岡崇之</i></div>&#10;</li>&#10;<li><a href="/cat/events/2003/ptyok03/4-oliver-ruel-vs-craig-krempels">ラウンド 4</a>: Oliver Ruel vs. Craig Krempels<div><i>by 松井健治</i></div>&#10;</li>&#10;<li><a href="/ja/events/2003/ptyok03/3-vs-zvi-mowshowitz">ラウンド 3</a>: 大礒 正嗣 vs. Zvi Mowshowitz<div><i>by 能西圭一郎</i></div>&#10;</li>&#10;<li><a href="/cym/events/2003/ptyok03/3-alex-shvartsman-vs-brian-davis">ラウンド 3</a>: Alex Shvartsman vs. Brian Davis<div><i>by 松井健治</i></div>&#10;</li>&#10;<li><a href="/en/events/2003/ptyok03/2-tomi-walamies-vs-eugene-harvey">ラウンド 2</a>: Tomi Walamies vs. Eugene Harvey<div><i>by 長岡崇之</i></div>&#10;</li>&#10;<li><a href="/ja/events/2003/ptyok03/1-vs-jelger-wiegersma">ラウンド 1</a>: 浅原 晃 vs. Jelger Wiegersma<div><i>by 松井健治</i></div>&#10;</li>&#10;<li><a href="/dan/events/2003/ptyok03/1-vs-matt-linde">ラウンド 1</a>: 藤田 剛史vs. Matt Linde<div><i>by 長岡崇之</i></div>&#10;</li>&#10;<li><a href="/ja/events/2003/ptyok03/1-kai-budde-vs-zvi-mowshowitz">ラウンド 1</a>: Kai Budde vs. Zvi Mowshowitz<div><i>by 能西圭一郎</i></div>&#10;</li>&#10;<li><a href="/en/events/2003/ptyok03/1st-draft-analysis">1st Draft Analysis</a>: 藤田憲一<div><i>by Keita Mori</i></div>&#10;</li>&#10;<li><a href="/it/events/2003/ptyok03/draft-1-pods">Draft 1</a>: Pods<div><i>by Sideboard Staff</i></div>&#10;</li>&#10;<li><a href="/ja/events/2003/ptyok03/z7snxj2x">Feature</a>: Introduction<div><i>by Sideboard Staff</i></div>&#10;</li>&#10;<li><a href="/en/events/2003/ptyok03/country-breakdown">Info</a>: Country Breakdown<div><i>by Sideboard Staff</i></div>&#10;</li>&#10;<li><a href="/en/events/2003/ptyok03/player-list">Info</a>: Player List<div><i>by Sideboard Staff</i></div>&#10;</li>&#10;<li><a href="/en/events/2003/yokohama03/2003-pro-touryokohama-2">Info</a>: Fact Sheet<div><i>by Sideboard Staff</i></div>&#10;</li>&#10;</ul>&#10;</td>&#10;<td colspan="2"><table><tbody><tr><td><b>組合</b><br><a href="/de/events/2003/ptyok03/round-14-pairings">14</a><br><a href="/de/events/2003/ptyok03/round-13-pairings">13</a><br><a href="/de/events/2003/ptyok03/round-12-pairings">12</a><br><a href="/de/events/2003/ptyok03/round-11-pairings">11</a><br><a href="/de/events/2003/ptyok03/round-10-pairings">10</a><br><a href="/de/events/2003/ptyok03/round-9-pairings">9</a><br><a href="/de/events/2003/ptyok03/round-8-pairings">8</a><br><a href="/en/events/2003/ptyok03/round-7-pairings">7</a><br><a href="/en/events/2003/ptyok03/round-6-pairings">6</a><br><a href="/en/events/2003/ptyok03/round-5-pairings">5</a><br><a href="/en/events/2003/ptyok03/round-4-pairings">4</a><br><a href="/en/events/2003/ptyok03/round-3-pairings">3</a><br><a href="/en/events/2003/ptyok03/round-2-pairings">2</a><br><a href="/en/events/2003/ptyok03/round-1-pairings">1</a><br></td>&#10;<td><b>結果</b><br><a href="/de/events/2003/ptyok03/round-14-results">14</a><br><a href="/de/events/2003/ptyok03/round-13-results">13</a><br><a href="/de/events/2003/ptyok03/round-12-results">12</a><br><a href="/de/events/2003/ptyok03/round-11-results">11</a><br><a href="/de/events/2003/ptyok03/round-10-results">10</a><br><a href="/de/events/2003/ptyok03/round-9-results">9</a><br><a href="/de/events/2003/ptyok03/round-8-results">8</a><br><a href="/en/events/2003/ptyok03/round-7-results">7</a><br><a href="/en/events/2003/ptyok03/round-6-results">6</a><br><a href="/en/events/2003/ptyok03/round-5-results">5</a><br><a href="/en/events/2003/ptyok03/round-4-results">4</a><br><a href="/en/events/2003/ptyok03/round-3-results">3</a><br><a href="/en/events/2003/ptyok03/round-2-results">2</a><br><a href="/en/events/2003/ptyok03/round-1-results">1</a><br></td>&#10;<td><b>順位</b><br><a href="/en/events/2003/ptyok03/2003-pro-tour-yokohama-final-standings">最終順位</a><br><a href="/en/events/2003/ptyok03/round-14-standings">14</a><br><a href="/en/events/2003/ptyok03/round-13-standings">13</a><br><a href="/en/events/2003/ptyok03/round-12-standings">12</a><br><a href="/en/events/2003/ptyok03/round-11-standings">11</a><br><a href="/en/events/2003/ptyok03/round-10-standings">10</a><br><a href="/en/events/2003/ptyok03/round-9-standings">9</a><br><a href="/en/events/2003/ptyok03/round-8-standings">8</a><br><a href="/en/events/2003/ptyok03/round-7-standings">7</a><br><a href="/en/events/2003/ptyok03/round-6-standings">6</a><br><a href="/en/events/2003/ptyok03/round-5-standings">5</a><br><a href="/en/events/2003/ptyok03/round-4-standings">4</a><br><a href="/en/events/2003/ptyok03/round-3-standings">3</a><br><a href="/en/events/2003/ptyok03/round-2-standings">2</a><br><a href="/en/events/2003/ptyok03/round-1-standings">1</a><br></td>&#10;</tr>&#10;</tbody></table>&#10;</td>&#10;</tr>&#10;</tbody></table>

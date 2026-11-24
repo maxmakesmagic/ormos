@@ -1,0 +1,68 @@
+---
+id: 31bfhht4
+kind: event
+lang: en
+path: /en/events/2004/atlanta05/pro-tour-tm-atlanta-05-qualifiers
+title: Pro Tour TM –Atlanta 05 Qualifiers
+published: null
+column_slug: null
+column: null
+authors: []
+event_code: atlanta05
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/article.aspx?x=protour/atlanta05/qualifiers-na
+    lang_detected: en
+    capture_id: 829556
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=protour/atlanta05/qualifiers-na
+    captured_at: '2009-06-03 20:08:55+00'
+    rule: aspx.article_heading
+  event_code:
+    page_key: wizards.com/magic/magazine/article.aspx?x=protour/atlanta05/qualifiers-na
+    lang_detected: en
+    capture_id: 829556
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=protour/atlanta05/qualifiers-na
+    captured_at: '2009-06-03 20:08:55+00'
+    rule: url.event_code
+sources:
+- document_id: 31bfhht4
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=protour/atlanta05/qualifiers-na
+  page_key: wizards.com/magic/magazine/article.aspx?x=protour/atlanta05/qualifiers-na
+  lang: en
+  template: aspx
+  captured_at: '2009-06-03 20:08:55+00'
+  capture_id: 829556
+  wayback_url: https://web.archive.org/web/20090603200855id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=protour/atlanta05/qualifiers-na
+- document_id: 31bfhht4
+  url: http://www.wizards.com/default.asp?x=protour/atlanta05/qualifiers-na&amp
+  page_key: wizards.com/default.asp?x=protour/atlanta05/qualifiers-na
+  lang: en
+  template: classic_asp
+  captured_at: '2005-02-18 06:01:14+00'
+  capture_id: 1290292
+  wayback_url: https://web.archive.org/web/20050218060114id_/http://www.wizards.com/default.asp?x=protour/atlanta05/qualifiers-na&amp
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 31bfhht4
+  capture_id: 829556
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=protour/atlanta05/qualifiers-na
+  wayback_url: https://web.archive.org/web/20090603200855id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=protour/atlanta05/qualifiers-na
+  captured_at: '2009-06-03 20:08:55+00'
+  template: aspx
+  sha256: de9604026b4f1af3b3130ba7d6e693b8a7440565d01b52554980c322e38e3eb0
+render_recovery:
+- code: unsupported_link
+  element: a
+  target: javascript:alert("not implemented yet (external)");
+  reason: The archived link runs JavaScript. The preview kept its text.
+  labels:
+  - Website
+  occurrences: 33
+---
+**Event fees**: Varies by location. Contact organizer for details  
+**Tournament structure**: *Champions of Kamigawa* Limited  
+**Tournament format**: Team Limited with a Top 2 Rochester Draft  
+**Prizes**: Each of the following events offers $750 US to the winning team
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <a href="/en/events/2004/atlanta05/pro-tour-tm-atlanta-05-qualifiers">&#10;        <b>State</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/en/events/2004/atlanta05/pro-tour-tm-atlanta-05-qualifiers">&#10;        <b>City</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/en/events/2004/atlanta05/pro-tour-tm-atlanta-05-qualifiers">&#10;        <b>Event Date</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/en/events/2004/atlanta05/pro-tour-tm-atlanta-05-qualifiers">&#10;        <b>Invitations</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/en/events/2004/atlanta05/pro-tour-tm-atlanta-05-qualifiers">&#10;        <b>Location</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/en/events/2004/atlanta05/pro-tour-tm-atlanta-05-qualifiers">&#10;        <b>Address</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/en/events/2004/atlanta05/pro-tour-tm-atlanta-05-qualifiers">&#10;        <b>Phone</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/en/events/2004/atlanta05/pro-tour-tm-atlanta-05-qualifiers">&#10;        <b>Website</b>&#10;      </a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Illinois</td>&#10;    <td>Chicago</td>&#10;    <td>1/15/2005</td>&#10;    <td>1</td>&#10;    <td>Pastimes</td>&#10;    <td>8478 Golf Rd, Niles</td>&#10;    <td>847-470-9636</td>&#10;    <td>&#10;      <a>Website</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Georgia</td>&#10;    <td>Atlanta</td>&#10;    <td>1/8/2005</td>&#10;    <td>1</td>&#10;    <td>The War Room</td>&#10;    <td>2005-G Beaver Ruin Rd.</td>&#10;    <td>770-729-9588</td>&#10;    <td>&#10;      <a>Website</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Missouri</td>&#10;    <td>St. Louis</td>&#10;    <td>1/1/2005</td>&#10;    <td>1</td>&#10;    <td>The Fantasy Shop</td>&#10;    <td>2426 W. Clay</td>&#10;    <td>847-998-9816</td>&#10;    <td>&#10;      <a>Website</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Kentucky</td>&#10;    <td>Louisville</td>&#10;    <td>1/8/2005</td>&#10;    <td>1</td>&#10;    <td>Executive West Hotel</td>&#10;    <td>830 Phillips Lane</td>&#10;    <td>502-969-4403</td>&#10;    <td>&#10;      <a>Website</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Utah</td>&#10;    <td>Salt Lake City</td>&#10;    <td>12/18/2004</td>&#10;    <td>1</td>&#10;    <td>University of Utah, 200 S Central Campus Dr</td>&#10;    <td>A Ray Olpin Student Union - Saltair Room</td>&#10;    <td>801-518-9022</td>&#10;    <td>&#10;      <a>Website</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>California</td>&#10;    <td>SF Bay Area</td>&#10;    <td>12/11/2004</td>&#10;    <td>1</td>&#10;    <td>Matchplay</td>&#10;    <td>560 Showers Dr., Ste #4</td>&#10;    <td>650-947-0398</td>&#10;    <td>&#10;      <a>Website</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>California</td>&#10;    <td>Los Angeles</td>&#10;    <td>1/8/2002</td>&#10;    <td>1</td>&#10;    <td>Costa Mesa Womens Club</td>&#10;    <td>610 W. 18th St., Costa Mesa</td>&#10;    <td>818-787-3708</td>&#10;    <td>&#10;      <a>Website</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Texas</td>&#10;    <td>Dallas</td>&#10;    <td>1/8/2005</td>&#10;    <td>1</td>&#10;    <td>TBA</td>&#10;    <td>TBA</td>&#10;    <td>620-584-6555</td>&#10;    <td>&#10;      <a>Website</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Colorado</td>&#10;    <td>Denver</td>&#10;    <td>12/11/2004</td>&#10;    <td>1</td>&#10;    <td>Valhalla's Game Center</td>&#10;    <td>6161 West 44th Ave, Wheat Ridge</td>&#10;    <td>303-366-3977</td>&#10;    <td>&#10;  </td></tr>&#10;  <tr>&#10;    <td>California</td>&#10;    <td>Anaheim</td>&#10;    <td>12/3/2004</td>&#10;    <td>1</td>&#10;    <td>Anaheim Convention Center</td>&#10;    <td>800 West Katella Ave</td>&#10;    <td>480-326-0925</td>&#10;    <td>&#10;      <a>Website</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>New York</td>&#10;    <td>New York</td>&#10;    <td>12/11/2004</td>&#10;    <td>1</td>&#10;    <td>Neutral Ground</td>&#10;    <td>122 'W. 26th St., 4th floor</td>&#10;    <td>(212) 633-6320</td>&#10;    <td>&#10;      <a>Website</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Pennsylvania</td>&#10;    <td>Philadelphia</td>&#10;    <td>1/8/2005</td>&#10;    <td>1</td>&#10;    <td>Holiday Inn - West Chester</td>&#10;    <td>943 South High St., West Chester</td>&#10;    <td>(800) 852-2442</td>&#10;    <td>&#10;      <a>Website</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Alberta</td>&#10;    <td>Calgary</td>&#10;    <td>1/8/2005</td>&#10;    <td>1</td>&#10;    <td>Olympic Volunteer Centre</td>&#10;    <td>McMahon Stadium, North End</td>&#10;    <td>403-851-8893</td>&#10;    <td>&#10;      <a>Website</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Florida</td>&#10;    <td>Clermont</td>&#10;    <td>1/8/2004</td>&#10;    <td>1</td>&#10;    <td>Jenkins Auditorium</td>&#10;    <td>691 West Montrose St</td>&#10;    <td>352-242-9755</td>&#10;    <td>&#10;      <a>Website</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>North Carolina</td>&#10;    <td>Charlotte</td>&#10;    <td>12/4/2004</td>&#10;    <td>1</td>&#10;    <td>Underground Games</td>&#10;    <td>Pineville Matthews Rd</td>&#10;    <td>336-674-6708</td>&#10;    <td>&#10;      <a>Website</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Tennessee</td>&#10;    <td>Nashville</td>&#10;    <td>1/15/2005</td>&#10;    <td>1</td>&#10;    <td>Days Inn Coliseum</td>&#10;    <td>211 N 1st St.</td>&#10;    <td>800-584-2521</td>&#10;    <td>&#10;      <a>Website</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Maryland</td>&#10;    <td>Baltimore</td>&#10;    <td>1/9/2005</td>&#10;    <td>1</td>&#10;    <td>Dream Wizards</td>&#10;    <td>11772 Parklawn Dr.</td>&#10;    <td>301-881-3530</td>&#10;    <td>&#10;      <a>Website</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Ontario</td>&#10;    <td>Oshawa</td>&#10;    <td>12/4/2004</td>&#10;    <td>1</td>&#10;    <td>Oshawa Curling Club</td>&#10;    <td>226 Bond St. E</td>&#10;    <td>905-721-1521</td>&#10;    <td>&#10;      <a>Website</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Quebec</td>&#10;    <td>Montreal</td>&#10;    <td>1/8/2005</td>&#10;    <td>1</td>&#10;    <td>Carta Magica</td>&#10;    <td>6360 St-Hubert, Metro Beaubien</td>&#10;    <td>514-286-9099</td>&#10;    <td>&#10;      <a>Website</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Nebraska</td>&#10;    <td>Lincoln</td>&#10;    <td>12/4/2004</td>&#10;    <td>1</td>&#10;    <td>HobbyTown USA</td>&#10;    <td>3120 Pine Lake Rd., Ste #4</td>&#10;    <td>402-434-5040</td>&#10;    <td>&#10;      <a>Website</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Michigan</td>&#10;    <td>Detroit</td>&#10;    <td>1/15/2005</td>&#10;    <td>1</td>&#10;    <td>Pandemonium</td>&#10;    <td>1858 Middlebelt Rd</td>&#10;    <td>877-913-8881</td>&#10;    <td>&#10;      <a>Website</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Pennsylvania</td>&#10;    <td>Pittsburgh</td>&#10;    <td>1/8/2005</td>&#10;    <td>1</td>&#10;    <td>Butler-Days Inn Conference Centerq</td>&#10;    <td>139 Pittsburgh Rd - Rte 8</td>&#10;    <td>877-913-8881</td>&#10;    <td>&#10;      <a>Website</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Ohio</td>&#10;    <td>Columbus</td>&#10;    <td>12/12/2004</td>&#10;    <td>1</td>&#10;    <td>Franklin County Veterans Memorial</td>&#10;    <td>300 W. Broad St</td>&#10;    <td>877-913-8881</td>&#10;    <td>&#10;      <a>Website</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Tennessee</td>&#10;    <td>Memphis</td>&#10;    <td>12/11/2004</td>&#10;    <td>1</td>&#10;    <td>Eclectica Scrapbooks and Games</td>&#10;    <td>2965 N. Germantown Pkwy #104</td>&#10;    <td>501-978-5310</td>&#10;    <td>&#10;      <a>Website</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Georgia</td>&#10;    <td>Atlanta </td>&#10;    <td>3/10/2005</td>&#10;    <td>2</td>&#10;    <td>Cobb-Marietta Coliseum &amp; Exhibit Hall</td>&#10;    <td>Two Galleria Parkway</td>&#10;    <td>800-324-6496</td>&#10;    <td>&#10;      <a>Website</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Arizona</td>&#10;    <td>Phoenix</td>&#10;    <td>12/11/2004</td>&#10;    <td>1</td>&#10;    <td>Gamer's Edge</td>&#10;    <td>2144 North Arizona Ave., Ste B-24</td>&#10;    <td>480-326-0925</td>&#10;    <td>&#10;      <a>Website</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>New York</td>&#10;    <td>Rochester</td>&#10;    <td>1/16/2005</td>&#10;    <td>1</td>&#10;    <td>Millennium Games and Hobbies</td>&#10;    <td>3047 W. Henreitta Rd</td>&#10;    <td>585-427-2190</td>&#10;    <td>&#10;      <a>Website</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Massachusetts</td>&#10;    <td>Boston</td>&#10;    <td>1/15/2005</td>&#10;    <td>1</td>&#10;    <td>Your Move Games</td>&#10;    <td>389 Highland Ave</td>&#10;    <td>617-666-5799</td>&#10;    <td>&#10;      <a>Website</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Kansas</td>&#10;    <td>Kansas City</td>&#10;    <td>12/4/2004</td>&#10;    <td>1</td>&#10;    <td>TBA</td>&#10;    <td>TBA</td>&#10;    <td>573-474-6161</td>&#10;    <td>&#10;      <a>Website</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Minnesota</td>&#10;    <td>Bloomington</td>&#10;    <td>1/8/2005</td>&#10;    <td>1</td>&#10;    <td>Knoghts of Columbus Marian Council</td>&#10;    <td>1114 W. 79th St.</td>&#10;    <td>608.441.0312</td>&#10;    <td>&#10;      <a>Website</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Washington</td>&#10;    <td>Seattle</td>&#10;    <td>12/18/2004</td>&#10;    <td>1</td>&#10;    <td>Seattle Center</td>&#10;    <td>305 Harrison St., Olympic room</td>&#10;    <td>206-706-2626</td>&#10;    <td>&#10;      <a>Website</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Texas</td>&#10;    <td>Houston</td>&#10;    <td>1/15/2005</td>&#10;    <td>1</td>&#10;    <td>Midnight Comics</td>&#10;    <td>13711 Westheimer, Ste Q</td>&#10;    <td>713-569-3936</td>&#10;    <td>&#10;      <a>Website</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Connecticut</td>&#10;    <td>Newington</td>&#10;    <td>1/8/2005</td>&#10;    <td>1</td>&#10;    <td>Newington Knights of Columbus</td>&#10;    <td>647 N. Mountain Rd</td>&#10;    <td>508-473-5874</td>&#10;    <td>&#10;      <a>Website</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Indiana</td>&#10;    <td>Indianapolis</td>&#10;    <td>12/4/2004</td>&#10;    <td>1</td>&#10;    <td>TBA</td>&#10;    <td>TBA</td>&#10;    <td>812-201-0663</td>&#10;    <td>&#10;      <a>Website</a>&#10;    </td>&#10;  </tr>&#10;</tbody></table>

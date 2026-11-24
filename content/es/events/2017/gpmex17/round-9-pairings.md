@@ -1,0 +1,55 @@
+---
+id: 30ajm19p
+kind: event
+lang: es
+path: /es/events/2017/gpmex17/round-9-pairings
+title: ROUND 9 PAIRINGS
+published: '2017-04-08'
+column_slug: null
+column: null
+authors: []
+event_code: gpmex17
+detected_lang: es
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/events/coverage/gpmex17/round-9-pairings-2017-04-08
+    lang_detected: es
+    capture_id: 81469
+    url: https://magic.wizards.com/en/events/coverage/gpmex17/round-9-pairings-2017-04-08
+    captured_at: '2021-10-17 04:04:12+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/events/coverage/gpmex17/round-9-pairings-2017-04-08
+    lang_detected: es
+    capture_id: 81469
+    url: https://magic.wizards.com/en/events/coverage/gpmex17/round-9-pairings-2017-04-08
+    captured_at: '2021-10-17 04:04:12+00'
+    rule: drupal.posted_in_date
+  event_code:
+    page_key: magic.wizards.com/en/events/coverage/gpmex17/round-9-pairings-2017-04-08
+    lang_detected: es
+    capture_id: 81469
+    url: https://magic.wizards.com/en/events/coverage/gpmex17/round-9-pairings-2017-04-08
+    captured_at: '2021-10-17 04:04:12+00'
+    rule: url.event_code
+sources:
+- document_id: 30ajm19p
+  url: https://magic.wizards.com/en/events/coverage/gpmex17/round-9-pairings-2017-04-08
+  page_key: magic.wizards.com/en/events/coverage/gpmex17/round-9-pairings-2017-04-08
+  lang: es
+  template: drupal
+  captured_at: '2021-10-17 04:04:12+00'
+  capture_id: 81469
+  wayback_url: https://web.archive.org/web/20211017040412id_/https://magic.wizards.com/en/events/coverage/gpmex17/round-9-pairings-2017-04-08
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 30ajm19p
+  capture_id: 81469
+  url: https://magic.wizards.com/en/events/coverage/gpmex17/round-9-pairings-2017-04-08
+  wayback_url: https://web.archive.org/web/20211017040412id_/https://magic.wizards.com/en/events/coverage/gpmex17/round-9-pairings-2017-04-08
+  captured_at: '2021-10-17 04:04:12+00'
+  template: drupal
+  sha256: 6a08a401a61914b396a4eb00c4d21bb859780a50a6549b612ff9ab1650737f42
+render_recovery: []
+---
+<table><tbody><tr><th><b>Table</b></th>&#10;			<th><b>Team</b></th>&#10;			<th> </th>&#10;			<th> </th>&#10;			<th><b>Opponent</b></th>&#10;			<th> </th>&#10;		</tr><tr><td>1</td>&#10;			<td>Inoue-Takao-Takimura</td>&#10;			<td> </td>&#10;			<td>vs.</td>&#10;			<td>Nass-Wilson-Pardee</td>&#10;			<td> </td>&#10;		</tr><tr><td>2</td>&#10;			<td>Guerra-Vazquez-Sosa</td>&#10;			<td> </td>&#10;			<td>vs.</td>&#10;			<td>Cuneo-Froehlich-Stark</td>&#10;			<td> </td>&#10;		</tr><tr><td>3</td>&#10;			<td>Isaacs-Pernankil-Chen</td>&#10;			<td> </td>&#10;			<td>vs.</td>&#10;			<td>Maynard-Braun-Duin-Soorani</td>&#10;			<td> </td>&#10;		</tr><tr><td>4</td>&#10;			<td>Turtenwald-Jensen-Duke</td>&#10;			<td> </td>&#10;			<td>vs.</td>&#10;			<td>Goertzen-Koch-Ganz</td>&#10;			<td> </td>&#10;		</tr><tr><td>5</td>&#10;			<td>Esposito-Reed-Page</td>&#10;			<td> </td>&#10;			<td>vs.</td>&#10;			<td>Black-Severa-Cohen</td>&#10;			<td> </td>&#10;		</tr><tr><td>6</td>&#10;			<td>Kadlec-Berrios-Montgomery</td>&#10;			<td> </td>&#10;			<td>vs.</td>&#10;			<td>Moreno Cortes-Mira Uribe-Mejia Gallego</td>&#10;			<td> </td>&#10;		</tr><tr><td>7</td>&#10;			<td>Helbig-Cheng-Kirkwood</td>&#10;			<td> </td>&#10;			<td>vs.</td>&#10;			<td>Baumeister-Larsson-Huang</td>&#10;			<td> </td>&#10;		</tr><tr><td>8</td>&#10;			<td>Wallerstein-Mccamish-Seigman</td>&#10;			<td> </td>&#10;			<td>vs.</td>&#10;			<td>Garcia Rosas-Alvarado Picazo-Alvarado</td>&#10;			<td> </td>&#10;		</tr><tr><td>9</td>&#10;			<td>Stern-Ogreenc-Neal</td>&#10;			<td> </td>&#10;			<td>vs.</td>&#10;			<td>Juza-Nakamura-Burkhart</td>&#10;			<td> </td>&#10;		</tr><tr><td>10</td>&#10;			<td>Ishimura-Ikawa-Kanegawa</td>&#10;			<td> </td>&#10;			<td>vs.</td>&#10;			<td>Murcia Carrillo-Soules Rivera-Viteri Candia</td>&#10;			<td> </td>&#10;		</tr><tr><td>11</td>&#10;			<td>Ortiz-Egli-Kwan</td>&#10;			<td> </td>&#10;			<td>vs.</td>&#10;			<td>Seck-Keeth-Pisano</td>&#10;			<td> </td>&#10;		</tr><tr><td>12</td>&#10;			<td>Smith-Chung-Van Ravenzwaaij</td>&#10;			<td> </td>&#10;			<td>vs.</td>&#10;			<td>Cotton-Hudson-Gruver</td>&#10;			<td> </td>&#10;		</tr><tr><td>13</td>&#10;			<td>Ramirez Sanchez-Flores Silva-Trnka</td>&#10;			<td> </td>&#10;			<td>vs.</td>&#10;			<td>Lepine-Berkowitz-Shak</td>&#10;			<td> </td>&#10;		</tr><tr><td>14</td>&#10;			<td>Martinez Perez-Martinez Perez-Martinez Morales</td>&#10;			<td> </td>&#10;			<td>vs.</td>&#10;			<td>Dominguez Roldan-Dominguez Roldan-De Santos Jasso</td>&#10;			<td> </td>&#10;		</tr><tr><td>15</td>&#10;			<td>Parke-Finkel-Martell</td>&#10;			<td> </td>&#10;			<td>vs.</td>&#10;			<td>Aguirre-Cardozo-Luna</td>&#10;			<td> </td>&#10;		</tr><tr><td>16</td>&#10;			<td>Lalague-Nelson-Nabi</td>&#10;			<td> </td>&#10;			<td>vs.</td>&#10;			<td>Edel-Carvalho-Medeiros Merjam</td>&#10;			<td> </td>&#10;		</tr><tr><td>17</td>&#10;			<td>Rubin-Hayne-Shenhar</td>&#10;			<td> </td>&#10;			<td>vs.</td>&#10;			<td>Sepulveda Partida-Lomelin Gomez-Laurentino Ramirez</td>&#10;			<td> </td>&#10;		</tr><tr><td>18</td>&#10;			<td>Strasky-Damo Da Rosa-Saporito</td>&#10;			<td> </td>&#10;			<td>vs.</td>&#10;			<td>Austin-Whitehouse-Mancera Moreno</td>&#10;			<td> </td>&#10;		</tr><tr><td>19</td>&#10;			<td>Arcuni-Oakes-Gravelle</td>&#10;			<td> </td>&#10;			<td>vs.</td>&#10;			<td>Macaraeg-Rountree-Wiznitzer</td>&#10;			<td> </td>&#10;		</tr><tr><td>20</td>&#10;			<td>Limenes Westphalen-Prehu Maurer-Martinez Reyes</td>&#10;			<td> </td>&#10;			<td>vs.</td>&#10;			<td>De Alba Aguayo-Rangel Paez-Gonzalez Vidana</td>&#10;			<td> </td>&#10;		</tr><tr><td>21</td>&#10;			<td>Bonde-Salvatto-Pozzo</td>&#10;			<td> </td>&#10;			<td>vs.</td>&#10;			<td>Katz-Yu-Painter</td>&#10;			<td> </td>&#10;		</tr><tr><td>22</td>&#10;			<td>Koenig-Wu-Hunter</td>&#10;			<td> </td>&#10;			<td>vs.</td>&#10;			<td>Ho-Syed-Betesh</td>&#10;			<td> </td>&#10;		</tr><tr><td>23</td>&#10;			<td>Ruiz-Gomez-Gosch</td>&#10;			<td> </td>&#10;			<td>vs.</td>&#10;			<td>Samano Jimenez-Ponce Franco-Guiza Garcia</td>&#10;			<td> </td>&#10;		</tr><tr><td>24</td>&#10;			<td>Nelson-Manfield-Majors</td>&#10;			<td> </td>&#10;			<td>vs.</td>&#10;			<td>Weitz-Wu-Jacobson</td>&#10;			<td> </td>&#10;		</tr><tr><td>25</td>&#10;			<td>Martinez-Martinez-Rodriguez</td>&#10;			<td> </td>&#10;			<td>vs.</td>&#10;			<td>Vargas Gonzalez-Valladares Mendoza-Hidrogo Goyos</td>&#10;			<td> </td>&#10;		</tr><tr><td>26</td>&#10;			<td>Pineda-Guzman-Velasquez</td>&#10;			<td> </td>&#10;			<td>vs.</td>&#10;			<td>Carrera-Cordero-Barboza</td>&#10;			<td> </td>&#10;		</tr><tr><td>27</td>&#10;			<td>Grassato-Tiberio Junior-Sapiras</td>&#10;			<td> </td>&#10;			<td>vs.</td>&#10;			<td>Van Cleave-Sokol-Woo</td>&#10;			<td> </td>&#10;		</tr><tr><td>28</td>&#10;			<td>Celeita-Restrepo-Herrera</td>&#10;			<td> </td>&#10;			<td>vs.</td>&#10;			<td>League-Tautic-Gareau</td>&#10;			<td> </td>&#10;		</tr><tr><td>29</td>&#10;			<td>Simon-Davoudi-Hull</td>&#10;			<td> </td>&#10;			<td>vs.</td>&#10;			<td>Rubin-Boccio-Parker</td>&#10;			<td> </td>&#10;		</tr><tr><td>30</td>&#10;			<td>Hwang-Tao-Fischer</td>&#10;			<td> </td>&#10;			<td>vs.</td>&#10;			<td>Urena Marin-Siles Loaiza-Romero Jara</td>&#10;			<td> </td>&#10;		</tr><tr><td>31</td>&#10;			<td>Tovar Triano-Botis-Gonzalez</td>&#10;			<td> </td>&#10;			<td>vs.</td>&#10;			<td>Escobar Venegas-Pat Contreras-Ku Chale</td>&#10;			<td> </td>&#10;		</tr><tr><td>32</td>&#10;			<td>Moreno-Nino Cardenas-Castano Collazos</td>&#10;			<td> </td>&#10;			<td>vs.</td>&#10;			<td>Martinez Corona-Rico Sanchez-Martinez Flores</td>&#10;			<td> </td>&#10;		</tr><tr><td>33</td>&#10;			<td>Lowry-Hu-Berni</td>&#10;			<td> </td>&#10;			<td>vs.</td>&#10;			<td>Pineda-Escalona-Vazquez Garrido</td>&#10;			<td> </td>&#10;		</tr><tr><td>34</td>&#10;			<td>Lopez Basulto-Pinto Alayola-Bojorquez Guillermo</td>&#10;			<td> </td>&#10;			<td>vs.</td>&#10;			<td>Rodriguez Baca-Triani-Bolanos Rodriguez</td>&#10;			<td> </td>&#10;		</tr><tr><td>35</td>&#10;			<td>Waksman-Dib-Jones</td>&#10;			<td> </td>&#10;			<td>vs.</td>&#10;			<td>Morphis-Ward-Komor</td>&#10;			<td> </td>&#10;		</tr><tr><td>36</td>&#10;			<td>Brock-Maginnis-Yeh</td>&#10;			<td> </td>&#10;			<td>vs.</td>&#10;			<td>Reyna-Gomez-Lopez Lerma</td>&#10;			<td> </td>&#10;		</tr><tr><td>37</td>&#10;			<td>Padierna Borges-Freeman-Hernandez Martinez</td>&#10;			<td> </td>&#10;			<td>vs.</td>&#10;			<td>Richards-Burnand-Nguyen</td>&#10;			<td> </td>&#10;		</tr><tr><td>38</td>&#10;			<td>Monroy Diaz-Valle-Penaloza</td>&#10;			<td> </td>&#10;			<td>vs.</td>&#10;			<td>Frias Landgrave-Cisneros-Viramontes Martinez</td>&#10;			<td> </td>&#10;		</tr><tr><td>39</td>&#10;			<td>Liu-Zhang-Liu</td>&#10;			<td> </td>&#10;			<td>vs.</td>&#10;			<td>Carrillo-Rosales-Lamadrid</td>&#10;			<td> </td>&#10;		</tr><tr><td>40</td>&#10;			<td>Martinez Salazar-Martinez Gutierrez-Zuniga Silva</td>&#10;			<td> </td>&#10;			<td>vs.</td>&#10;			<td>Avila Gutierrez-Cuellar Mendoza-Perez Garcia</td>&#10;			<td> </td>&#10;		</tr><tr><td>41</td>&#10;			<td>Huerta-Juarez-Gonzalez Orozco</td>&#10;			<td> </td>&#10;			<td>vs.</td>&#10;			<td>Navarro Cabrera-Schiavon Zamora-Alvarenga Aranda</td>&#10;			<td> </td>&#10;		</tr><tr><td>42</td>&#10;			<td>Casasa Mtanous-De La Garza-Garcia Garza</td>&#10;			<td> </td>&#10;			<td>vs.</td>&#10;			<td>Son Ibanez-Juarez Oliva-Duque</td>&#10;			<td> </td>&#10;		</tr><tr><td>43</td>&#10;			<td>Escobedo-Barraza-Perez</td>&#10;			<td> </td>&#10;			<td>vs.</td>&#10;			<td>Villalobos-Neyra-Lara</td>&#10;			<td> </td>&#10;		</tr><tr><td>44</td>&#10;			<td>Navarrete Vera-Moreno Vera-Velasco</td>&#10;			<td> </td>&#10;			<td>vs.</td>&#10;			<td>Islas Necoechea-Hernandez-Lino</td>&#10;			<td> </td>&#10;		</tr><tr><td>45</td>&#10;			<td>Trueba-Sanchez-Serna</td>&#10;			<td> </td>&#10;			<td>vs.</td>&#10;			<td>Anzaldo Montoya-Gonzales Romero-Briones Medina</td>&#10;			<td> </td>&#10;		</tr><tr><td>-</td>&#10;			<td>Gutierrez Pena-Delgado Carmona-Torres</td>&#10;			<td> </td>&#10;			<td>vs.</td>&#10;			<td>BYE</td>&#10;			<td> </td>&#10;		</tr></tbody></table>

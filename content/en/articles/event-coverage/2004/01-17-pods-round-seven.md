@@ -1,0 +1,47 @@
+---
+id: zrxkh3g7
+kind: event
+lang: en
+path: /en/articles/event-coverage/2004/01-17-pods-round-seven
+title: 'Pods: Round Seven'
+published: '2004-01-17'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/pods-round-seven-2004-01-17
+    lang_detected: en
+    capture_id: 455806
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/pods-round-seven-2004-01-17
+    captured_at: '2022-08-16 11:00:14+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/pods-round-seven-2004-01-17
+    lang_detected: en
+    capture_id: 455806
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/pods-round-seven-2004-01-17
+    captured_at: '2022-08-16 11:00:14+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: zrxkh3g7
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/pods-round-seven-2004-01-17
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/pods-round-seven-2004-01-17
+  lang: en
+  template: drupal
+  captured_at: '2022-08-16 11:00:14+00'
+  capture_id: 455806
+  wayback_url: https://web.archive.org/web/20220816110014id_/https://magic.wizards.com/en/articles/archive/event-coverage/pods-round-seven-2004-01-17
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: zrxkh3g7
+  capture_id: 455806
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/pods-round-seven-2004-01-17
+  wayback_url: https://web.archive.org/web/20220816110014id_/https://magic.wizards.com/en/articles/archive/event-coverage/pods-round-seven-2004-01-17
+  captured_at: '2022-08-16 11:00:14+00'
+  template: drupal
+  sha256: 7fb058d356b72bfa9a620ee8dc088ae35f37ad165576a14adc8ab005f569a121
+render_recovery: []
+---
+<table><tbody><tr><td><b>Pod</b></td><td><b>Seat</b></td><td><b>Player</b></td><td><b>Points</b></td></tr><tr><td>1</td><td>1</td><td>Herzog, Nicolai</td><td>18</td></tr><tr><td></td><td>2</td><td>Da Costa Cabral, Bernardo</td><td>18</td></tr><tr><td></td><td>3</td><td>Lund, Kim</td><td>18</td></tr><tr><td></td><td>4</td><td>Jonsson, Anton</td><td>18</td></tr><tr><td></td><td>5</td><td>Ruel, Olivier</td><td>18</td></tr><tr><td></td><td>6</td><td>Turian, Michael</td><td>18</td></tr><tr><td></td><td>7</td><td>Pascoli, Mario</td><td>15</td></tr><tr><td></td><td>8</td><td>West, Justin</td><td>15</td></tr><tr><td>2</td><td>1</td><td>Boccio, Matthew</td><td>15</td></tr><tr><td></td><td>2</td><td>Labarre, Nicolas</td><td>15</td></tr><tr><td></td><td>3</td><td>Paquette, Aeo</td><td>15</td></tr><tr><td></td><td>4</td><td>Miller, Dylan</td><td>15</td></tr><tr><td></td><td>5</td><td>Linde, Matt</td><td>15</td></tr><tr><td></td><td>6</td><td>Cornelissen, Kamiel</td><td>15</td></tr><tr><td></td><td>7</td><td>Wong Keen Meng Nicholas, Nic</td><td>15</td></tr><tr><td></td><td>8</td><td>Quirk, Kevin</td><td>15</td></tr><tr><td>3</td><td>1</td><td>Walamies, Tomi</td><td>15</td></tr><tr><td></td><td>2</td><td>Stark, Ben</td><td>15</td></tr><tr><td></td><td>3</td><td>Fujita, Osamu</td><td>15</td></tr><tr><td></td><td>4</td><td>Walls, Gabe</td><td>15</td></tr><tr><td></td><td>5</td><td>Nakano, Yoshitaka</td><td>15</td></tr><tr><td></td><td>6</td><td>Hoaen, Richard</td><td>15</td></tr><tr><td></td><td>7</td><td>Oosawa, Takuya</td><td>15</td></tr><tr><td></td><td>8</td><td>Ruel, Antoine</td><td>15</td></tr><tr><td>4</td><td>1</td><td>Neumann, Mats</td><td>15</td></tr><tr><td></td><td>2</td><td>Lebedowicz, Osyp</td><td>15</td></tr><tr><td></td><td>3</td><td>Kaji, Tomohiro</td><td>15</td></tr><tr><td></td><td>4</td><td>Thompson, Gerry</td><td>15</td></tr><tr><td></td><td>5</td><td>Tsang, Terry</td><td>15</td></tr><tr><td></td><td>6</td><td>Eigner, Nikolaus</td><td>15</td></tr><tr><td></td><td>7</td><td>Jiang, Shun</td><td>15</td></tr><tr><td></td><td>8</td><td>Van Riet, Luis</td><td>15</td></tr><tr><td>5</td><td>1</td><td>Brucker, David</td><td>13</td></tr><tr><td></td><td>2</td><td>Cassidy, Jonathan</td><td>15</td></tr><tr><td></td><td>3</td><td>Harvey, Eugene</td><td>15</td></tr><tr><td></td><td>4</td><td>Joebstl, Markus</td><td>15</td></tr><tr><td></td><td>5</td><td>Yokosuka, Tomohiro</td><td>15</td></tr><tr><td></td><td>6</td><td>Haim, Christophe</td><td>13</td></tr><tr><td></td><td>7</td><td>Karsten, Frank</td><td>13</td></tr><tr><td></td><td>8</td><td>Mello, Patrick</td><td>15</td></tr><tr><td>6</td><td>1</td><td>Atkin, Phil</td><td>12</td></tr><tr><td></td><td>2</td><td>Reaubourg, Damien</td><td>12</td></tr><tr><td></td><td>3</td><td>Miller, Stephen</td><td>12</td></tr><tr><td></td><td>4</td><td>Conway, Douglas</td><td>13</td></tr><tr><td></td><td>5</td><td>Hamon, Yann</td><td>13</td></tr><tr><td></td><td>6</td><td>Rosholm, Thomas</td><td>12</td></tr><tr><td></td><td>7</td><td>Muranaka, Aaron</td><td>12</td></tr><tr><td></td><td>8</td><td>Felter, Kyle</td><td>12</td></tr><tr><td>7</td><td>1</td><td>Gatti, Matteo</td><td>12</td></tr><tr><td></td><td>2</td><td>Kolomeyko, Yuri</td><td>12</td></tr><tr><td></td><td>3</td><td>Harding, Oyvind</td><td>12</td></tr><tr><td></td><td>4</td><td>Cuneo, Andrew</td><td>12</td></tr><tr><td></td><td>5</td><td>Cieslikowski, Marcin</td><td>12</td></tr><tr><td></td><td>6</td><td>Muller, Andre</td><td>12</td></tr><tr><td></td><td>7</td><td>Heeswijk, Roel</td><td>12</td></tr><tr><td></td><td>8</td><td>Chiera, Luca</td><td>12</td></tr><tr><td>8</td><td>1</td><td>Birner, Armin</td><td>12</td></tr><tr><td></td><td>2</td><td>Humpherys, David</td><td>12</td></tr><tr><td></td><td>3</td><td>De Rosa, Antonino</td><td>12</td></tr><tr><td></td><td>4</td><td>Menard, Antoine</td><td>12</td></tr><tr><td></td><td>5</td><td>Stead, Bill</td><td>12</td></tr><tr><td></td><td>6</td><td>Kok, Christiaan</td><td>12</td></tr><tr><td></td><td>7</td><td>Hein, Dirk</td><td>12</td></tr><tr><td></td><td>8</td><td>Zajdner, Mark</td><td>12</td></tr><tr><td>9</td><td>1</td><td>Smith, Jake</td><td>12</td></tr><tr><td></td><td>2</td><td>Fujita, Kenichi</td><td>12</td></tr><tr><td></td><td>3</td><td>Enss, Mattt</td><td>12</td></tr><tr><td></td><td>4</td><td>Linder, David</td><td>12</td></tr><tr><td></td><td>5</td><td>Thevenon, Sandy</td><td>12</td></tr><tr><td></td><td>6</td><td>Barbero, Jose</td><td>12</td></tr><tr><td></td><td>7</td><td>Remie, Jeroen</td><td>12</td></tr><tr><td></td><td>8</td><td>Evans, Murray</td><td>12</td></tr><tr><td>10</td><td>1</td><td>Hoon, Kelvin Yew Teck</td><td>12</td></tr><tr><td></td><td>2</td><td>Allbright, Robert</td><td>12</td></tr><tr><td></td><td>3</td><td>Alieksieiev, Andrii</td><td>12</td></tr><tr><td></td><td>4</td><td>Parr, Brent</td><td>12</td></tr><tr><td></td><td>5</td><td>Moskovich, Valentin</td><td>12</td></tr><tr><td></td><td>6</td><td>Ishii, Taisuke</td><td>12</td></tr><tr><td></td><td>7</td><td>Ayama, Takashi</td><td>12</td></tr><tr><td></td><td>8</td><td>Lynch, Brian</td><td>12</td></tr><tr><td>11</td><td>1</td><td>Snygg, Mikko</td><td>12</td></tr><tr><td></td><td>2</td><td>Coeckelbergh, Gert</td><td>12</td></tr><tr><td></td><td>3</td><td>Ishida, Itaru</td><td>12</td></tr><tr><td></td><td>4</td><td>Kruschel, Andreas</td><td>12</td></tr><tr><td></td><td>5</td><td>Gouin, Steven</td><td>12</td></tr><tr><td></td><td>6</td><td>Law, Albertus Hui Chin</td><td>12</td></tr><tr><td></td><td>7</td><td>Parker, Brock</td><td>12</td></tr><tr><td></td><td>8</td><td>Bergström, Jonathan</td><td>12</td></tr><tr><td>12</td><td>1</td><td>Blech, Reinhard</td><td>12</td></tr><tr><td></td><td>2</td><td>Benefield, Kevin</td><td>12</td></tr><tr><td></td><td>3</td><td>Meraghni, Farid</td><td>12</td></tr><tr><td></td><td>4</td><td>Fleming, Ben</td><td>12</td></tr><tr><td></td><td>5</td><td>Edbury, Richard</td><td>12</td></tr><tr><td></td><td>6</td><td>Darling, Jeremy</td><td>12</td></tr><tr><td></td><td>7</td><td>Brown, Alex</td><td>12</td></tr><tr><td></td><td>8</td><td>Tachibana, Satoshi</td><td>12</td></tr><tr><td>13</td><td>1</td><td>Horvath, Adam</td><td>12</td></tr><tr><td></td><td>2</td><td>Krautmann, Wenzel</td><td>12</td></tr><tr><td></td><td>3</td><td>Fennell, Chris</td><td>12</td></tr><tr><td></td><td>4</td><td>Wise, Joseph Gary</td><td>12</td></tr><tr><td></td><td>5</td><td>Heiss, Nathan</td><td>12</td></tr><tr><td></td><td>6</td><td>Gomersall, Sam</td><td>12</td></tr><tr><td></td><td>7</td><td>Wiker, Tuukka</td><td>12</td></tr><tr><td>14</td><td>1</td><td>Thicke, Michael</td><td>12</td></tr><tr><td></td><td>2</td><td>Saitou, Tomoharu</td><td>12</td></tr><tr><td></td><td>3</td><td>Wagener, Joshua</td><td>12</td></tr><tr><td></td><td>4</td><td>Blume, Marco</td><td>12</td></tr><tr><td></td><td>5</td><td>Linn, Mike</td><td>12</td></tr><tr><td></td><td>6</td><td>Huber, Christoph</td><td>12</td></tr><tr><td></td><td>7</td><td>Minieri, Dario</td><td>12</td></tr><tr><td>15</td><td>1</td><td>Wiegersma, Jelger</td><td>12</td></tr><tr><td></td><td>2</td><td>Budde, Kai</td><td>12</td></tr><tr><td></td><td>3</td><td>Maruyama, Takaaki</td><td>12</td></tr><tr><td></td><td>4</td><td>Petric Maretic, Grgur</td><td>12</td></tr><tr><td></td><td>5</td><td>Rubin, Ben</td><td>12</td></tr><tr><td></td><td>6</td><td>Thorén, Jens</td><td>12</td></tr><tr><td></td><td>7</td><td>Barra, Giulio</td><td>12</td></tr></tbody></table>

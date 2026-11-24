@@ -1,0 +1,56 @@
+---
+id: c70tgg9k
+kind: event
+lang: en
+path: /en/events/2004/gpbir04/round-12-pods
+title: Round 12 Pods
+published: null
+column_slug: null
+column: null
+authors: []
+event_code: gpbir04
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/gpbir04/r12pods
+    lang_detected: en
+    capture_id: 1022497
+    url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpbir04/r12pods
+    captured_at: '2013-07-03 02:18:44+00'
+    rule: aspx.article_heading
+  event_code:
+    page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/gpbir04/r12pods
+    lang_detected: en
+    capture_id: 1022497
+    url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpbir04/r12pods
+    captured_at: '2013-07-03 02:18:44+00'
+    rule: url.event_code
+sources:
+- document_id: c70tgg9k
+  url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpbir04/r12pods
+  page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/gpbir04/r12pods
+  lang: en
+  template: aspx
+  captured_at: '2013-07-03 02:18:44+00'
+  capture_id: 1022497
+  wayback_url: https://web.archive.org/web/20130703021844id_/https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpbir04/r12pods
+- document_id: c70tgg9k
+  url: http://www.wizards.com/default.asp?x=mtgevent/gpbir04/r12pods
+  page_key: wizards.com/default.asp?x=mtgevent/gpbir04/r12pods
+  lang: en
+  template: classic_asp
+  captured_at: '2005-11-27 11:21:41+00'
+  capture_id: 2046178
+  wayback_url: https://web.archive.org/web/20051127112141id_/http://www.wizards.com/default.asp?x=mtgevent/gpbir04/r12pods
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: c70tgg9k
+  capture_id: 1022497
+  url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpbir04/r12pods
+  wayback_url: https://web.archive.org/web/20130703021844id_/https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpbir04/r12pods
+  captured_at: '2013-07-03 02:18:44+00'
+  template: aspx
+  sha256: 4c8813ce1b69fe738b653f4589492565c6ab526c1a4bce9e5e5da0d3022c8315
+render_recovery: []
+---
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <a href="/en/events/2004/gpbir04/round-12-pods">&#10;        <b>Pod</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/en/events/2004/gpbir04/round-12-pods">&#10;        <b>Seat</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/en/events/2004/gpbir04/round-12-pods">&#10;        <b>Player</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/en/events/2004/gpbir04/round-12-pods">&#10;        <b>Points</b>&#10;      </a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>1</td>&#10;    <td>1</td>&#10;    <td>Kraft, Rene</td>&#10;    <td>33</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>2</td>&#10;    <td>Kemp, Adam</td>&#10;    <td>30</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>3</td>&#10;    <td>Jorstedt, Mattias</td>&#10;    <td>30</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>4</td>&#10;    <td>Barbero, Jose</td>&#10;    <td>28</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>5</td>&#10;    <td>Brassem, Camille</td>&#10;    <td>28</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>6</td>&#10;    <td>Janpiam, Kamman</td>&#10;    <td>28</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>7</td>&#10;    <td>Courtois, Frederic</td>&#10;    <td>28</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>8</td>&#10;    <td>Karsten, Frank</td>&#10;    <td>27</td>&#10;  </tr>&#10;  <tr>&#10;    <td>2</td>&#10;    <td>1</td>&#10;    <td>Moore, Richard</td>&#10;    <td>27</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>2</td>&#10;    <td>Jedlicka, Niki</td>&#10;    <td>27</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>3</td>&#10;    <td>Grant, David</td>&#10;    <td>27</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>4</td>&#10;    <td>Birner, Armin</td>&#10;    <td>27</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>5</td>&#10;    <td>Chan, Tiago</td>&#10;    <td>27</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>6</td>&#10;    <td>Chapman, Jonny</td>&#10;    <td>27</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>7</td>&#10;    <td>Hoelzel, Reinhard</td>&#10;    <td>26</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>8</td>&#10;    <td>Joebstl, Markus</td>&#10;    <td>25</td>&#10;  </tr>&#10;  <tr>&#10;    <td>3</td>&#10;    <td>1</td>&#10;    <td>Jedlicka, Stefan</td>&#10;    <td>25</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>2</td>&#10;    <td>Groves, Michael</td>&#10;    <td>25</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>3</td>&#10;    <td>Ruel, Antoine</td>&#10;    <td>25</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>4</td>&#10;    <td>Dang, Martin</td>&#10;    <td>25</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>5</td>&#10;    <td>Peset, Alexandre</td>&#10;    <td>25</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>6</td>&#10;    <td>Budde, Kai</td>&#10;    <td>25</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>7</td>&#10;    <td>Lemoine, Vincent</td>&#10;    <td>25</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>8</td>&#10;    <td>Fink, Johann</td>&#10;    <td>25</td>&#10;  </tr>&#10;  <tr>&#10;    <td>4</td>&#10;    <td>1</td>&#10;    <td>Cheng, Chestor</td>&#10;    <td>24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>2</td>&#10;    <td>Herzog, Nicolai</td>&#10;    <td>24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>3</td>&#10;    <td>Baberowski, Dirk</td>&#10;    <td>24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>4</td>&#10;    <td>Gruber, Tobias</td>&#10;    <td>24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>5</td>&#10;    <td>Kolb, Markus</td>&#10;    <td>24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>6</td>&#10;    <td>Jonsson, Anton</td>&#10;    <td>24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>7</td>&#10;    <td>Nessler, Michael</td>&#10;    <td>24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>8</td>&#10;    <td>Perez, Bastien</td>&#10;    <td>24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>5</td>&#10;    <td>1</td>&#10;    <td>Jakobsen, Martin</td>&#10;    <td>24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>2</td>&#10;    <td>Martin, Quentin</td>&#10;    <td>24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>3</td>&#10;    <td>Christensen, Allan</td>&#10;    <td>24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>4</td>&#10;    <td>Areliusarson, Arelius</td>&#10;    <td>24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>5</td>&#10;    <td>Ruel, Olivier</td>&#10;    <td>24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>6</td>&#10;    <td>Gromko, Radoslaw</td>&#10;    <td>23</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>7</td>&#10;    <td>Hay, Tom</td>&#10;    <td>23</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>8</td>&#10;    <td>Unfried, J?g</td>&#10;    <td>23</td>&#10;  </tr>&#10;  <tr>&#10;    <td>6</td>&#10;    <td>1</td>&#10;    <td>Hall, Kenneth Martin</td>&#10;    <td>22</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>2</td>&#10;    <td>alinat, alain</td>&#10;    <td>22</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>3</td>&#10;    <td>Smith, Jake</td>&#10;    <td>22</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>4</td>&#10;    <td>Dingler, Martin</td>&#10;    <td>22</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>5</td>&#10;    <td>Lacroix, Damien</td>&#10;    <td>22</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>6</td>&#10;    <td>Doco, Geoffrey</td>&#10;    <td>22</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>7</td>&#10;    <td>Blume, Marco</td>&#10;    <td>22</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>8</td>&#10;    <td>Blech, Reinhard</td>&#10;    <td>22</td>&#10;  </tr>&#10;  <tr>&#10;    <td>7</td>&#10;    <td>1</td>&#10;    <td>Magera, Markus</td>&#10;    <td>22</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>2</td>&#10;    <td>Condon, Shane</td>&#10;    <td>22</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>3</td>&#10;    <td>Neil, Kelly</td>&#10;    <td>22</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>4</td>&#10;    <td>Wiedenbein, Holger</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>5</td>&#10;    <td>Duck, Jeremy Peter</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>6</td>&#10;    <td>Barracha, Joao</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>7</td>&#10;    <td>Harle, Tom</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>8</td>&#10;    <td>Brugman, Richard</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>8</td>&#10;    <td>1</td>&#10;    <td>Loeb, Davy</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>2</td>&#10;    <td>Martins, João</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>3</td>&#10;    <td>Jenkins, Dan</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>4</td>&#10;    <td>Aubrey, Nick</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>5</td>&#10;    <td>Gorniak, Mariusz</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>6</td>&#10;    <td>Schwagerle, Günther</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>7</td>&#10;    <td>Clyne, Richard</td>&#10;    <td>18</td>&#10;  </tr>&#10;</tbody></table>

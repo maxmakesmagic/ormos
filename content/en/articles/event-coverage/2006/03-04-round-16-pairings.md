@@ -1,0 +1,47 @@
+---
+id: caeqwkps
+kind: event
+lang: en
+path: /en/articles/event-coverage/2006/03-04-round-16-pairings
+title: 'Round 16: Pairings'
+published: '2006-03-04'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-16-pairings-2006-03-04
+    lang_detected: en
+    capture_id: 514422
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-16-pairings-2006-03-04
+    captured_at: '2021-12-04 15:04:57+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-16-pairings-2006-03-04
+    lang_detected: en
+    capture_id: 514422
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-16-pairings-2006-03-04
+    captured_at: '2021-12-04 15:04:57+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: caeqwkps
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-16-pairings-2006-03-04
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/round-16-pairings-2006-03-04
+  lang: en
+  template: drupal
+  captured_at: '2021-12-04 15:04:57+00'
+  capture_id: 514422
+  wayback_url: https://web.archive.org/web/20211204150457id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-16-pairings-2006-03-04
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: caeqwkps
+  capture_id: 514422
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-16-pairings-2006-03-04
+  wayback_url: https://web.archive.org/web/20211204150457id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-16-pairings-2006-03-04
+  captured_at: '2021-12-04 15:04:57+00'
+  template: drupal
+  sha256: 9b4557ed035b7e48eacbf8d6b6438d446b7a0ad6ee8efb937da3ee0595695a2f
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Points</b></td><td><b>&#10;						</b></td><td><b>Opponent</b></td><td><b>Points</b></td></tr><tr><td> 1</td><td>Lebedowicz, Osyp [USA]</td><td> 37</td><td>vs.</td><td>Bracht, Maximilian [DEU]</td><td> 36</td></tr><tr><td> 2</td><td>Jones, Craig [ENG]</td><td> 37</td><td>vs.</td><td>Ruel, Olivier [FRA]</td><td> 36</td></tr><tr><td> 3</td><td>Warmenhoven, Ruud [NLD]</td><td> 36</td><td>vs.</td><td>Herberholz, Mark [USA]</td><td> 36</td></tr><tr><td> 4</td><td>Chan, Tiago [PRT]</td><td> 35</td><td>vs.</td><td>Diezel, Michael [DEU]</td><td> 33</td></tr><tr><td> 5</td><td>Komuro, Shu [JPN]</td><td> 33</td><td>vs.</td><td>Ruel, Antoine [FRA]</td><td> 33</td></tr><tr><td> 6</td><td>Damo da Rosa, Paulo Vi [BRA]</td><td> 33</td><td>vs.</td><td>Arias Garcia, Jacob [ESP]</td><td> 33</td></tr><tr><td> 7</td><td>Al-Bacha, Wesimo [DEU]</td><td> 33</td><td>vs.</td><td>Nygaard, Nikolas [NOR]</td><td> 33</td></tr><tr><td> 8</td><td>Moreno, William [USA]</td><td> 33</td><td>vs.</td><td>Goodman, Ben [USA]</td><td> 33</td></tr><tr><td> 9</td><td>Wafo-tapa, Guillaume [FRA]</td><td> 33</td><td>vs.</td><td>Chambers, Adam [USA]</td><td> 33</td></tr><tr><td> 10</td><td>Cornelissen, Kamiel [NLD]</td><td> 33</td><td>vs.</td><td>Shiozu, Ryouma [JPN]</td><td> 33</td></tr><tr><td> 11</td><td>Mihara, Makihito [JPN]</td><td> 33</td><td>vs.</td><td>Scardone, Nicola [ITA]</td><td> 31</td></tr><tr><td> 12</td><td>Yokoi, Masaki [JPN]</td><td> 31</td><td>vs.</td><td>Costa, Sergio [BRA]</td><td> 30</td></tr><tr><td> 13</td><td>Lundquist, Ben [USA]</td><td> 30</td><td>vs.</td><td>goron, julien [FRA]</td><td> 30</td></tr><tr><td> 14</td><td>Nassif, Gabriel [FRA]</td><td> 30</td><td>vs.</td><td>Gould, rhys [AUS]</td><td> 30</td></tr><tr><td> 15</td><td>Summersberger, Helmut [AUT]</td><td> 30</td><td>vs.</td><td>Woltereck, Chris [USA]</td><td> 30</td></tr><tr><td> 16</td><td>Lo Moro, Raffaele [ITA]</td><td> 30</td><td>vs.</td><td>Aten, Timothy [USA]</td><td> 30</td></tr><tr><td> 17</td><td>yoon, Soo Han [JPN]</td><td> 30</td><td>vs.</td><td>Thompson, Mike [USA]</td><td> 30</td></tr><tr><td> 18</td><td>Steht, Lee [USA]</td><td> 30</td><td>vs.</td><td>Olivera, Adrian [ESP]</td><td> 30</td></tr><tr><td> 19</td><td>Morita, Masahiko [JPN]</td><td> 30</td><td>vs.</td><td>Morofuji, Takuma [JPN]</td><td> 30</td></tr><tr><td> 20</td><td>Ottati, Domingo [ITA]</td><td> 30</td><td>vs.</td><td>Wiegersma, Jelger [NLD]</td><td> 30</td></tr><tr><td> 21</td><td>Asahara, Akira [JPN]</td><td> 30</td><td>vs.</td><td>Walls, Gabe [USA]</td><td> 30</td></tr><tr><td> 22</td><td>Kaji, Tomohiro [JPN]</td><td> 30</td><td>vs.</td><td>Saitou, Tomoharu [JPN]</td><td> 30</td></tr><tr><td> 23</td><td>Kagawa, Mido [ITA]</td><td> 30</td><td>vs.</td><td>Krumb, Michael [USA]</td><td> 30</td></tr><tr><td> 24</td><td>Yasooka, Shouta [JPN]</td><td> 29</td><td>vs.</td><td>Hernandez, Richard [ESP]</td><td> 28</td></tr><tr><td> 25</td><td>Malin, Antti [FIN]</td><td> 29</td><td>vs.</td><td>le montagner, mathieu [FRA]</td><td> 28</td></tr><tr><td> 26</td><td>Krempels, Craig [USA]</td><td> 28</td><td>vs.</td><td>Ootsuka, Koutarou [JPN]</td><td> 28</td></tr><tr><td> 27</td><td>Ross, Tom R [USA]</td><td> 28</td><td>vs.</td><td>Krutil, Daniel [CZE]</td><td> 28</td></tr><tr><td> 28</td><td>Irvine, David [USA]</td><td> 28</td><td>vs.</td><td>Hermes, Maxime [FRA]</td><td> 28</td></tr><tr><td> 29</td><td>Zamora, Nathan [USA]</td><td> 27</td><td>vs.</td><td>Canu, Franck [FRA]</td><td> 27</td></tr><tr><td> 30</td><td>Heeswijk, Roel [NLD]</td><td> 27</td><td>vs.</td><td>Shinkins, Stewart [IRL]</td><td> 27</td></tr><tr><td> 31</td><td>Wright, Stuart D [ENG]</td><td> 27</td><td>vs.</td><td>Kvetkosky, Mike [USA]</td><td> 27</td></tr><tr><td> 32</td><td>Gröndahl, Erik [SWE]</td><td> 27</td><td>vs.</td><td>Taniguchi, Yuusuke [JPN]</td><td> 27</td></tr><tr><td> 33</td><td>Dam, Lars [DNK]</td><td> 27</td><td>vs.</td><td>Nakamura, Shuuhei [JPN]</td><td> 27</td></tr><tr><td> 34</td><td>Chua, Chang [SGP]</td><td> 27</td><td>vs.</td><td>Hoaen, Richard [CAN]</td><td> 27</td></tr><tr><td> 35</td><td>Dominguez, Javier [ESP]</td><td> 27</td><td>vs.</td><td>Davis, Jim [USA]</td><td> 27</td></tr><tr><td> 36</td><td>Calafell, Joel [ESP]</td><td> 27</td><td>vs.</td><td>Cunningham, Jeff [CAN]</td><td> 27</td></tr><tr><td> 37</td><td>Lieberman, Alex [USA]</td><td> 27</td><td>vs.</td><td>Kai, Tsubasa [JPN]</td><td> 27</td></tr><tr><td> 38</td><td>Sasagawa, Tomohide [JPN]</td><td> 27</td><td>vs.</td><td>Ashman, Benji [USA]</td><td> 27</td></tr><tr><td> 39</td><td>Sadeghpour, Johan [SWE]</td><td> 27</td><td>vs.</td><td>Carvalho, Marcio [PRT]</td><td> 27</td></tr><tr><td> 40</td><td>Reynolds, Ryan [USA]</td><td> 27</td><td>vs.</td><td>Telkamp, Matthias Paul [USA]</td><td> 27</td></tr><tr><td> 41</td><td>Grant, David [ENG]</td><td> 27</td><td>vs.</td><td>Oiso, Masashi [JPN]</td><td> 27</td></tr><tr><td> 42</td><td>Blazek, Ivan [SVK]</td><td> 26</td><td>vs.</td><td>Dean, J. Evan W [CAN]</td><td> 26</td></tr><tr><td> 43</td><td>Sugiki, Takafumi [JPN]</td><td> 26</td><td>vs.</td><td>Gates, Brian [USA]</td><td> 25</td></tr><tr><td> 44</td><td>Costa, Frederico [PRT]</td><td> 26</td><td>vs.</td><td>Evans, Murray [CAN]</td><td> 25</td></tr><tr><td> 45</td><td>Tsumura, Kenji [JPN]</td><td> 25</td><td>vs.</td><td>Snygg, Mikko [FIN]</td><td> 25</td></tr><tr><td> 46</td><td>Yurchick, Adam [USA]</td><td> 24</td><td>vs.</td><td>Hasegawa, Hironobu [JPN]</td><td> 24</td></tr><tr><td> 47</td><td>Meyer, Stephan [DEU]</td><td> 24</td><td>vs.</td><td>Marrero Negrin, Jaime [ESP]</td><td> 24</td></tr><tr><td> 48</td><td>Soh, Ryan Siong Huat [MYS]</td><td> 24</td><td>vs.</td><td>Chiera, Luca [ITA]</td><td> 24</td></tr><tr><td> 49</td><td>Peebles-Mundy, Benjami [USA]</td><td> 24</td><td>vs.</td><td>Ibamoto, Masami [JPN]</td><td> 24</td></tr><tr><td> 50</td><td>Tokoli, Zsolt [HUN]</td><td> 24</td><td>vs.</td><td>Bernat, Michael [USA]</td><td> 24</td></tr><tr><td> 51</td><td>Sugiyama, Yuuya [JPN]</td><td> 24</td><td>vs.</td><td>Tse, Felix [CAN]</td><td> 24</td></tr><tr><td> 52</td><td>Ruess, Jan [DEU]</td><td> 24</td><td>vs.</td><td>Bandou, Jun'ichirou [JPN]</td><td> 24</td></tr><tr><td> 53</td><td>Kelton, Gregory [USA]</td><td> 24</td><td>vs.</td><td>Mazzurco, Carlo [DEU]</td><td> 24</td></tr><tr><td> 54</td><td>Tautic, Raymond J [USA]</td><td> 24</td><td>vs.</td><td>Meyst, Rich [USA]</td><td> 24</td></tr><tr><td> 55</td><td>Coimbra, André [PRT]</td><td> 24</td><td>vs.</td><td>Heynen, Paul [NLD]</td><td> 24</td></tr><tr><td> 56</td><td>Gesiot, Giovanni [ITA]</td><td> 24</td><td>vs.</td><td>Iwai, Tsuyoshi [JPN]</td><td> 24</td></tr><tr><td> 57</td><td>Wyant, Aaron [USA]</td><td> 24</td><td>vs.</td><td>Huang, Derek [USA]</td><td> 22</td></tr><tr><td> 58</td><td>Spilker, Nate [USA]</td><td> 22</td><td>vs.</td><td>Canali, Pierre [FRA]</td><td> 22</td></tr><tr><td> 59</td><td>Polak-Rottmann, Oliver [AUT]</td><td> 22</td><td>vs.</td><td>Kurashima, Kazuki [JPN]</td><td> 21</td></tr><tr><td> 60</td><td>LaPille, Thomas [USA]</td><td> 21</td><td>vs.</td><td>Gorin, Vadim [RUS]</td><td> 21</td></tr><tr><td> 61</td><td>Prosak, Adam [USA]</td><td> 21</td><td>vs.</td><td>Adachi, Shingo [JPN]</td><td> 21</td></tr><tr><td> 62</td><td>Vance, Andrew [AUS]</td><td> 21</td><td>vs.</td><td>Fujita, Osamu [JPN]</td><td> 21</td></tr><tr><td> 63</td><td>Garate Dominguez, Seba [CHL]</td><td> 19</td><td>vs.</td><td>Zidek, Arnost [CZE]</td><td> 18</td></tr><tr><td></td><td>Oosawa, Takuya [JPN]</td><td> 19</td><td>&#10;					</td><td>* BYE *</td><td></td></tr></tbody></table>

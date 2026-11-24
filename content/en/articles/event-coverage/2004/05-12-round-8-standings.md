@@ -1,0 +1,47 @@
+---
+id: j9vx94t5
+kind: event
+lang: en
+path: /en/articles/event-coverage/2004/05-12-round-8-standings
+title: Round 8 Standings
+published: '2004-05-12'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-8-standings-2004-05-12
+    lang_detected: en
+    capture_id: 569203
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-8-standings-2004-05-12
+    captured_at: '2022-08-18 13:12:26+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-8-standings-2004-05-12
+    lang_detected: en
+    capture_id: 569203
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-8-standings-2004-05-12
+    captured_at: '2022-08-18 13:12:26+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: j9vx94t5
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-8-standings-2004-05-12
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/round-8-standings-2004-05-12
+  lang: en
+  template: drupal
+  captured_at: '2022-08-18 13:12:26+00'
+  capture_id: 569203
+  wayback_url: https://web.archive.org/web/20220818131226id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-8-standings-2004-05-12
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: j9vx94t5
+  capture_id: 569203
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-8-standings-2004-05-12
+  wayback_url: https://web.archive.org/web/20220818131226id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-8-standings-2004-05-12
+  captured_at: '2022-08-18 13:12:26+00'
+  template: drupal
+  sha256: 4e5c010ed2df91e6019c26ca38188191d9274858f5ccaa872862926e28ff379e
+render_recovery: []
+---
+<table><tbody><tr><td><b>Player</b></td><td><b>Standing</b></td>&#10;				</tr><tr><td>Bob Maher</td><td>8-0</td>&#10;				</tr><tr><td>Zvi Mowshowitz</td><td>6-2</td>&#10;				</tr><tr><td>Mattias Jorstedt</td><td>6-2</td>&#10;				</tr><tr><td>Osyp Lebedowicz</td><td>5-3</td>&#10;				</tr><tr><td>Brian Kibler</td><td>5-3</td>&#10;				</tr><tr><td>Carlos Romao</td><td>5-3</td>&#10;				</tr><tr><td>Jin Okamoto</td><td>4-4</td>&#10;				</tr><tr><td>Gary Wise</td><td>4-4</td>&#10;				</tr><tr><td>Justin Gary</td><td>4-4</td>&#10;				</tr><tr><td>Masashi Ooiso</td><td>3-5</td>&#10;				</tr><tr><td>Jens Thoren</td><td>3-5</td>&#10;				</tr><tr><td>Dirk Baberowski</td><td>3-5</td>&#10;				</tr><tr><td>Nicolai Herzog</td><td>3-5</td>&#10;				</tr><tr><td>Jordan Berkowitz</td><td>2-6</td>&#10;				</tr><tr><td>Jon Finkel </td><td>2-6</td>&#10;				</tr><tr><td>Kai Budde</td><td>1-7</td>&#10;				</tr><tr><td> </td>&#10;				</tr></tbody></table>

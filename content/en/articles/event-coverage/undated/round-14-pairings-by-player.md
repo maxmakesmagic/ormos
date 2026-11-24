@@ -1,0 +1,40 @@
+---
+id: 0ys9ygka
+kind: event
+lang: en
+path: /en/articles/event-coverage/undated/round-14-pairings-by-player
+title: Round 14 Pairings (by Player)
+published: null
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-14-pairings-player-2000-01-01-7
+    lang_detected: en
+    capture_id: 511055
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-14-pairings-player-2000-01-01-7
+    captured_at: '2021-11-28 12:31:27+00'
+    rule: meta.og_title
+sources:
+- document_id: 0ys9ygka
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-14-pairings-player-2000-01-01-7
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/round-14-pairings-player-2000-01-01-7
+  lang: en
+  template: drupal
+  captured_at: '2021-11-28 12:31:27+00'
+  capture_id: 511055
+  wayback_url: https://web.archive.org/web/20211128123127id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-14-pairings-player-2000-01-01-7
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 0ys9ygka
+  capture_id: 511055
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-14-pairings-player-2000-01-01-7
+  wayback_url: https://web.archive.org/web/20211128123127id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-14-pairings-player-2000-01-01-7
+  captured_at: '2021-11-28 12:31:27+00'
+  template: drupal
+  sha256: 9ac11a358d542f661c25bc18437e51d9b85deb005b8d987756f9d253710f395d
+render_recovery: []
+---
+<table><tbody><tr><td><b>Player</b></td><td><b>Points</b></td><td><b> </b></td><td><b>Opponent</b></td><td><b>Points</b></td></tr><tr><td>Benafel, Chris              </td><td> 31</td><td>vs.</td><td>Maher, Bob                  </td><td> 31</td></tr><tr><td>Bongiovanni, Mauro          </td><td> 28</td><td>vs.</td><td>Forsythe, Aaron             </td><td> 29</td></tr><tr><td>Breider, Aaron              </td><td> 25</td><td> </td><td>* BYE *</td><td>   </td></tr><tr><td>Cacchiotti, David           </td><td> 21</td><td>vs.</td><td>Divinski, Randy             </td><td> 23</td></tr><tr><td>Clarke, Nate                </td><td> 27</td><td>vs.</td><td>Sonne, Jonathan             </td><td> 27</td></tr><tr><td>Clegg, Dan                  </td><td> 26</td><td>vs.</td><td>Eastman, Dave*              </td><td> 25</td></tr><tr><td>Clougherty, John*           </td><td> 27</td><td>vs.</td><td>Turian, Michael             </td><td> 27</td></tr><tr><td>Comer, Alan                 </td><td> 33</td><td>vs.</td><td>Hegstad, Brian              </td><td> 34</td></tr><tr><td>Cormier, Francis            </td><td> 24</td><td>vs.</td><td>Weitz, David                </td><td> 25</td></tr><tr><td>Cowley, Bruce               </td><td> 30</td><td>vs.</td><td>Davis, James                </td><td> 31</td></tr><tr><td>Currence, Bryce             </td><td> 25</td><td> </td><td>* BYE *</td><td>   </td></tr><tr><td>Davis, James                </td><td> 31</td><td>vs.</td><td>Cowley, Bruce               </td><td> 30</td></tr><tr><td>Divinski, Randy             </td><td> 23</td><td>vs.</td><td>Cacchiotti, David           </td><td> 21</td></tr><tr><td>Eastman, Dave*              </td><td> 25</td><td>vs.</td><td>Clegg, Dan                  </td><td> 26</td></tr><tr><td>Farkas, Ben                 </td><td> 27</td><td>vs.</td><td>Kuykendall, Dave            </td><td> 27</td></tr><tr><td>Fog, Sam                    </td><td> 26</td><td>vs.</td><td>Willemstein, Paul*          </td><td> 25</td></tr><tr><td>Forsythe, Aaron             </td><td> 29</td><td>vs.</td><td>Bongiovanni, Mauro          </td><td> 28</td></tr><tr><td>Foster, Steve*              </td><td> 24</td><td>vs.</td><td>Kambourakis, Joseph         </td><td> 24</td></tr><tr><td>Guevin, Thomas              </td><td> 26</td><td>vs.</td><td>Magid, Jeff                 </td><td> 28</td></tr><tr><td>Hahn, Kurtis*               </td><td> 31</td><td>vs.</td><td>Vienneau, Matthew           </td><td> 34</td></tr><tr><td>Halter, James               </td><td> 30</td><td>vs.</td><td>McCord, Scott               </td><td> 30</td></tr><tr><td>Hegstad, Brian              </td><td> 34</td><td>vs.</td><td>Comer, Alan                 </td><td> 33</td></tr><tr><td>Hope, Stephen               </td><td> 27</td><td>vs.</td><td>Humpherys, David            </td><td> 27</td></tr><tr><td>Humpherys, David            </td><td> 27</td><td>vs.</td><td>Hope, Stephen               </td><td> 27</td></tr><tr><td>Johns, Scott                </td><td> 31</td><td>vs.</td><td>Swan, Tom                   </td><td> 37</td></tr><tr><td>Johnson, Andrew             </td><td> 30</td><td>vs.</td><td>O'Mahoney-Schwartz, Steven  </td><td> 30</td></tr><tr><td>Kambourakis, Joseph         </td><td> 24</td><td>vs.</td><td>Foster, Steve*              </td><td> 24</td></tr><tr><td>Kastle, Darwin              </td><td> 28</td><td>vs.</td><td>Little, Nick                </td><td> 28</td></tr><tr><td>Kuykendall, Dave            </td><td> 27</td><td>vs.</td><td>Farkas, Ben                 </td><td> 27</td></tr><tr><td>Little, Nick                </td><td> 28</td><td>vs.</td><td>Kastle, Darwin              </td><td> 28</td></tr><tr><td>Magid, Jeff                 </td><td> 28</td><td>vs.</td><td>Guevin, Thomas              </td><td> 26</td></tr><tr><td>Maher, Bob                  </td><td> 31</td><td>vs.</td><td>Benafel, Chris              </td><td> 31</td></tr><tr><td>Manning, Chris              </td><td> 29</td><td>vs.</td><td>Szigeti, Peter              </td><td> 31</td></tr><tr><td>McCord, Scott               </td><td> 30</td><td>vs.</td><td>Halter, James               </td><td> 30</td></tr><tr><td>McKeown, Sean               </td><td> 25</td><td>vs.</td><td>Schneider, Justin           </td><td> 25</td></tr><tr><td>Mowshowitz, Zvi             </td><td> 28</td><td>vs.</td><td>Parker, Brock               </td><td> 28</td></tr><tr><td>O'Mahoney-Schwartz, Steven  </td><td> 30</td><td>vs.</td><td>Johnson, Andrew             </td><td> 30</td></tr><tr><td>Opalka, Jason               </td><td> 31</td><td>vs.</td><td>Qian, Patrick*              </td><td> 33</td></tr><tr><td>Parker, Brock               </td><td> 28</td><td>vs.</td><td>Mowshowitz, Zvi             </td><td> 28</td></tr><tr><td>Qian, Patrick*              </td><td> 33</td><td>vs.</td><td>Opalka, Jason               </td><td> 31</td></tr><tr><td>Ranks, Andrew               </td><td> 28</td><td>vs.</td><td>Swan, Brad                  </td><td> 28</td></tr><tr><td>Rose, Kyle                  </td><td> 31</td><td>vs.</td><td>Stokinger, Andrew           </td><td> 28</td></tr><tr><td>Schneider, Justin           </td><td> 25</td><td>vs.</td><td>McKeown, Sean               </td><td> 25</td></tr><tr><td>Sonne, Jonathan             </td><td> 27</td><td>vs.</td><td>Clarke, Nate                </td><td> 27</td></tr><tr><td>Stokinger, Andrew           </td><td> 28</td><td>vs.</td><td>Rose, Kyle                  </td><td> 31</td></tr><tr><td>Swan, Brad                  </td><td> 28</td><td>vs.</td><td>Ranks, Andrew               </td><td> 28</td></tr><tr><td>Swan, Tom                   </td><td> 37</td><td>vs.</td><td>Johns, Scott                </td><td> 31</td></tr><tr><td>Swoyer, Mark                </td><td> 22</td><td> </td><td>* BYE *</td><td>   </td></tr><tr><td>Szigeti, Peter              </td><td> 31</td><td>vs.</td><td>Manning, Chris              </td><td> 29</td></tr><tr><td>Turian, Michael             </td><td> 27</td><td>vs.</td><td>Clougherty, John*           </td><td> 27</td></tr><tr><td>Vienneau, Matthew           </td><td> 34</td><td>vs.</td><td>Hahn, Kurtis*               </td><td> 31</td></tr><tr><td>Weitz, David                </td><td> 25</td><td>vs.</td><td>Cormier, Francis            </td><td> 24</td></tr><tr><td>Willemstein, Paul*          </td><td> 25</td><td>vs.</td><td>Fog, Sam                    </td><td> 26</td></tr></tbody></table>

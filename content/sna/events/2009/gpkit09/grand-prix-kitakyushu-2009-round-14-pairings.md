@@ -1,0 +1,55 @@
+---
+id: fsdh73g3
+kind: event
+lang: sna
+path: /sna/events/2009/gpkit09/grand-prix-kitakyushu-2009-round-14-pairings
+title: 'Grand Prix Kitakyushu 2009: Round 14 Pairings'
+published: '2009-10-24'
+column_slug: null
+column: null
+authors: []
+event_code: gpkit09
+detected_lang: sna
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gpkit09/pair14
+    lang_detected: sna
+    capture_id: 431183
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gpkit09/pair14
+    captured_at: '2013-07-03 02:14:11+00'
+    rule: aspx.article_heading
+  published:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gpkit09/pair14
+    lang_detected: sna
+    capture_id: 431183
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gpkit09/pair14
+    captured_at: '2013-07-03 02:14:11+00'
+    rule: aspx.byline_date
+  event_code:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gpkit09/pair14
+    lang_detected: sna
+    capture_id: 431183
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gpkit09/pair14
+    captured_at: '2013-07-03 02:14:11+00'
+    rule: url.event_code
+sources:
+- document_id: fsdh73g3
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gpkit09/pair14
+  page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gpkit09/pair14
+  lang: sna
+  template: aspx
+  captured_at: '2013-07-03 02:14:11+00'
+  capture_id: 431183
+  wayback_url: https://web.archive.org/web/20130703021411id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gpkit09/pair14
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: fsdh73g3
+  capture_id: 431183
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gpkit09/pair14
+  wayback_url: https://web.archive.org/web/20130703021411id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gpkit09/pair14
+  captured_at: '2013-07-03 02:14:11+00'
+  template: aspx
+  sha256: 79fdc9baaeddeeb05b5c29cc8da8ab2f2e9aba09ba7cd2773e2977279f3164b8
+render_recovery: []
+---
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130703021411/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gpkit09/pair14">&#10;        <b>Table</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130703021411/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gpkit09/pair14">&#10;        <b>Player</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130703021411/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gpkit09/pair14">&#10;        <b>Points</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130703021411/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gpkit09/pair14">&#10;        <b>&#10;      </b></a><b>&#10;    </b></td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130703021411/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gpkit09/pair14">&#10;        <b>Opponent</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130703021411/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gpkit09/pair14">&#10;        <b>Points</b>&#10;      </a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td> 1</td>&#10;    <td>Katayama, Takahiro</td>&#10;    <td>vs.</td>&#10;    <td>sakamoto, yuki</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 2</td>&#10;    <td>Kyo, Ifu</td>&#10;    <td>vs.</td>&#10;    <td>Nitta, Kazuta</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 3</td>&#10;    <td>Kurihara, Shingou</td>&#10;    <td>vs.</td>&#10;    <td>Fujita, Tsuyoshi</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 4</td>&#10;    <td>Tanaka, Hisaya</td>&#10;    <td>vs.</td>&#10;    <td>Yasuda, Masayuki</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 5</td>&#10;    <td>Nishiwaki, Akito</td>&#10;    <td>vs.</td>&#10;    <td>Juumonji, Tarou</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 6</td>&#10;    <td>Aritaka, Ryouichi</td>&#10;    <td>vs.</td>&#10;    <td>Sasaki, Yuusuke (TO)</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 7</td>&#10;    <td>Momiki, Hayami</td>&#10;    <td>vs.</td>&#10;    <td>Tanaka, Ryohei</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 8</td>&#10;    <td>Oiso, Masashi</td>&#10;    <td>vs.</td>&#10;    <td>Imai, Hideaki</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 9</td>&#10;    <td>Watanabe, Yuuya</td>&#10;    <td>vs.</td>&#10;    <td>Oosaka, Yuusuke</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 10</td>&#10;    <td>Vidugiris, Gaudenis</td>&#10;    <td>vs.</td>&#10;    <td>Kitazono, Kensuke</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 11</td>&#10;    <td>moriya, jun</td>&#10;    <td>vs.</td>&#10;    <td>Ozawa, Takeshi</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 12</td>&#10;    <td>Shimizu, Naoki</td>&#10;    <td>vs.</td>&#10;    <td>Hirabayashi, Kazuya</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 13</td>&#10;    <td>Yashiki, Kouichi</td>&#10;    <td>vs.</td>&#10;    <td>Ishimaru, Ken</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 14</td>&#10;    <td>Yamano, Tomoya</td>&#10;    <td>vs.</td>&#10;    <td>Kobayashi, Masanori</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 15</td>&#10;    <td>Narumiya, Ryuuma</td>&#10;    <td>vs.</td>&#10;    <td>Shiozu, Ryouma</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 16</td>&#10;    <td>Koshiba, Norihiko</td>&#10;    <td>vs.</td>&#10;    <td>Miyaoka, Hiroyuki</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 17</td>&#10;    <td>Kitayama, Masaya</td>&#10;    <td>vs.</td>&#10;    <td>Komuro, Shuu</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 18</td>&#10;    <td>Hasegawa, Tsuyoshi</td>&#10;    <td>vs.</td>&#10;    <td>Chen, Liang</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 19</td>&#10;    <td>Dan, Takuya</td>&#10;    <td>vs.</td>&#10;    <td>Sawada, Ken</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 20</td>&#10;    <td>Harada, Toshiyuki</td>&#10;    <td>vs.</td>&#10;    <td>Arai, Ken'ichirou</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 21</td>&#10;    <td>Suzuki, Ryuuichi</td>&#10;    <td>vs.</td>&#10;    <td>Uchida, Momotarou</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 22</td>&#10;    <td>Ishii, Taisuke</td>&#10;    <td>vs.</td>&#10;    <td>Wachi, Shin'ya</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 23</td>&#10;    <td>Mori, Katsuhiro</td>&#10;    <td>vs.</td>&#10;    <td>Asahara, Akira</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 24</td>&#10;    <td>Katayama, Hidenori</td>&#10;    <td>vs.</td>&#10;    <td>Kotouge, Tatsuya</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 25</td>&#10;    <td>Shiroza, Shinichiro</td>&#10;    <td>vs.</td>&#10;    <td>Nakamura, Hajime</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 26</td>&#10;    <td>Nakamura, Atsushi</td>&#10;    <td>vs.</td>&#10;    <td>Nakano, Yoshitaka</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 27</td>&#10;    <td>Kim, Cynic</td>&#10;    <td>vs.</td>&#10;    <td>Shiraishi, Hiroaki</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 28</td>&#10;    <td>Kumoura, Daisuke</td>&#10;    <td>vs.</td>&#10;    <td>Kawanaka, Yoshiaki</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 29</td>&#10;    <td>Matsuyama, Satoshi</td>&#10;    <td>vs.</td>&#10;    <td>Yoshinaga, Mitsuteru</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 30</td>&#10;    <td>Minoshima, Takenori</td>&#10;    <td>vs.</td>&#10;    <td>Yamamoto, Akimasa</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 31</td>&#10;    <td>Hirayama, Atsushi</td>&#10;    <td>vs.</td>&#10;    <td>Kawate, Junpei</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 32</td>&#10;    <td>Ootsuka, Koutarou</td>&#10;    <td>vs.</td>&#10;    <td>Saitou, Tomoya</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 33</td>&#10;    <td>Nakamura, Yuusuke</td>&#10;    <td>vs.</td>&#10;    <td>Yanaseko, Kentarou</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 34</td>&#10;    <td>Inoue, Toru</td>&#10;    <td>vs.</td>&#10;    <td>Black, Samuel H</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 35</td>&#10;    <td>Sugaya, Hironobu</td>&#10;    <td>vs.</td>&#10;    <td>Iyanaga, Jun'ya</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 36</td>&#10;    <td>Kuroda, Masashiro</td>&#10;    <td>vs.</td>&#10;    <td>Takagi, Takayuki</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 37</td>&#10;    <td>Shiraishi, Tomomi</td>&#10;    <td>vs.</td>&#10;    <td>Kubouchi, Naoki</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 38</td>&#10;    <td>Juza, Martin</td>&#10;    <td>vs.</td>&#10;    <td>Okamoto, Jin</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 39</td>&#10;    <td>Yasooka, Shouta</td>&#10;    <td>vs.</td>&#10;    <td>Ikeda, Tsuyoshi</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 40</td>&#10;    <td>Ueda, Katsuya</td>&#10;    <td>vs.</td>&#10;    <td>Ikawa, Yoshihiko</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 41</td>&#10;    <td>Kamei, Shunsuke</td>&#10;    <td>vs.</td>&#10;    <td>Hirashima, Yuutarou</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 42</td>&#10;    <td>Yukuhiro, Ken</td>&#10;    <td>vs.</td>&#10;    <td>Imura, Satoshi</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 43</td>&#10;    <td>Mihara, Makihito</td>&#10;    <td>vs.</td>&#10;    <td>Suzuki, Takaaki</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 44</td>&#10;    <td>Aka, shunsuke</td>&#10;    <td>vs.</td>&#10;    <td>Takagi, Takeshi</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 45</td>&#10;    <td>Saitou, Tomoharu</td>&#10;    <td>vs.</td>&#10;    <td>Kawada, Chihiro</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 46</td>&#10;    <td>Matousek, Pavel</td>&#10;    <td>vs.</td>&#10;    <td>ARYABHIMA, RAHMAN A</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 47</td>&#10;    <td>Akaike, You</td>&#10;    <td>vs.</td>&#10;    <td>Tashiro, Yoshiaki</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 48</td>&#10;    <td>Aono, Yoshio</td>&#10;    <td>vs.</td>&#10;    <td>Shibuya, Takuma</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>Saitou, Kazuya</td>&#10;    <td>&#10;    </td><td>* BYE * Pod 8</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>Furutate, Mikihiko</td>&#10;    <td>&#10;    </td><td>* BYE * Pod 14</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>Yao, Shunsuke</td>&#10;    <td>&#10;    </td><td>* BYE * Pod 10</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>Yamada, Yasushi</td>&#10;    <td>&#10;    </td><td>* BYE * Pod 11</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>Minami, Masashi</td>&#10;    <td>&#10;    </td><td>* BYE * Pod 13</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>Kubo, Ryoutarou</td>&#10;    <td>&#10;    </td><td>* BYE * Pod 12</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>Sugita, Toshihiko</td>&#10;    <td>&#10;    </td><td>* BYE * Pod 9</td>&#10;  </tr>&#10;</tbody></table>

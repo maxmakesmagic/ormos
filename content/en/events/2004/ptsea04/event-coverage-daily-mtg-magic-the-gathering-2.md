@@ -1,0 +1,313 @@
+---
+id: qqnrxs4t
+kind: event
+lang: en
+path: /en/events/2004/ptsea04/event-coverage-daily-mtg-magic-the-gathering-2
+title: 'Event Coverage : Daily MTG : Magic: The Gathering'
+published: null
+column_slug: null
+column: null
+authors: []
+event_code: ptsea04
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/ptsea04/blogfr
+    lang_detected: en
+    capture_id: 1119649
+    url: http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/ptsea04/blogfr
+    captured_at: '2013-06-26 01:10:27+00'
+    rule: html.title
+  event_code:
+    page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/ptsea04/blogfr
+    lang_detected: en
+    capture_id: 1119649
+    url: http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/ptsea04/blogfr
+    captured_at: '2013-06-26 01:10:27+00'
+    rule: url.event_code
+sources:
+- document_id: qqnrxs4t
+  url: http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/ptsea04/blogfr
+  page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/ptsea04/blogfr
+  lang: en
+  template: aspx
+  captured_at: '2013-06-26 01:10:27+00'
+  capture_id: 1119649
+  wayback_url: https://web.archive.org/web/20130626011027id_/http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/ptsea04/blogfr
+- document_id: qqnrxs4t
+  url: http://www.wizards.com/default.asp?x=mtgevent/ptsea04/blogfr
+  page_key: wizards.com/default.asp?x=mtgevent/ptsea04/blogfr
+  lang: en
+  template: classic_asp
+  captured_at: '2005-03-01 08:04:35+00'
+  capture_id: 2108675
+  wayback_url: https://web.archive.org/web/20050301080435id_/http://www.wizards.com/default.asp?x=mtgevent/ptsea04/blogfr
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: qqnrxs4t
+  capture_id: 1119649
+  url: http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/ptsea04/blogfr
+  wayback_url: https://web.archive.org/web/20130626011027id_/http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/ptsea04/blogfr
+  captured_at: '2013-06-26 01:10:27+00'
+  template: aspx
+  sha256: fe45d7496021e033525c1319f4a8ec4d4b9974a8d86030c8700dc8e751151ade
+render_recovery: []
+---
+![Magic Weekend Coverage Blog](http://www.wizards.com/sideboard/images/ptsea04/d1bloghead.jpg "Magic Weekend Coverage Blog") 
+
+The blog is back! 
+
+Due to overwhelmingly popular demand, BDM's back in business roaming the halls of Pro Tour Seattle snooping out the juicy tidbits of goings-on that would otherwise end up on the metaphoric cutting room floor. And this time we're involving you, the reader. Are you rooting for a particular pro player and itching for an interview? Are you nursing an awesome story idea just waiting to get covered? [Discuss Pro Tour Seattle](https://web.archive.org/web/20130626011027/http://boards1.wizards.com/showthread.php?s=&threadid=273029) on our message boards and post your suggestions, comments, and ideas and we'll do our best to get you the insider scoop!
+
+<table>&#10;    <tbody><tr>&#10;      <td>&#10;        <b>Blog Archive : Friday | <a href="/en/events/2004/ptsea04/event-coverage-daily-mtg-magic-the-gathering">Saturday</a></b>&#10;      </td>&#10;    </tr>&#10;  </tbody></table>
+
+  
+  
+
+* * *
+
+*   **Friday, July 09: 8:01 pm**![Not as incredible as when Rocky beat Apollo, but close.](http://www.wizards.com/sideboard/images/ptsea04/blog8.jpg "Not as incredible as when Rocky beat Apollo, but close.")
+
+Things are starting to get ugly for the big-name teams…
+
+Phoenix Foundation has been eliminated from the tournament by Ranko Bongo Slim Boy (Florent Lefranc, Wilfried Ranque, and Jose Barbero) two matches to one. It is the first time that Kai and company have failed to day two a Team Pro Tour since they began playing together in 2001. 
+
+Nicolai Herzog has also been kicked to the curb. Team Burkas (Nicolai Herzog, Anton Jonsson, and Tuomo Nieminen) fell to upstart The Champ is So Stupid (Sam Gomersall, Mark Heberholz, and Mark Zajdner) in the sixth round. Before the match, a smiling Nicolai announced, "I never lose to the English" as he sat down across from Sam Gomersall.
+
+  
+
+*   **Friday, July 09: 7:32 pm**![Magic players don't respect their elders.](http://www.wizards.com/sideboard/images/ptsea04/blog9.jpg "Magic players don't respect their elders.")
+
+Randy Buehler quipped, "What year is this?"
+
+"Isn't there an age limit on these things?" Kai joked as he wandered by the sixth round matchup between Chris Pikula and Tommi Hovi. Kai was asked about the fate of his team and he could only shrug, "I won my match. They are both down a game."
+
+The funny thing is, as Kai waited to find out if he would be advancing to day to or not -- an uncertainty he has not often experienced -- both Tommi's and Chris' teams were a lock for the second day of competition.
+
+  
+
+*   **Friday, July 09: 7:07 pm**
+
+The Max Fischer Players secured their spot on Day Two with a fifth-round win. Chris Pikula was shaking his head and making an apologetic call to his wife Carrie, who came with him to Seattle. "My wife is going to be so mad at me." When he originally presented her with the idea of traveling to Seattle, she was amenable to sight-seeing with Chris if his team failed to reach Day Two. As the team continued to do well, it was apparent to Chris that she was not as amenable to going out on the town by herself. Chris further realized that when she agreed to the trip, Carrie thought there was about a zero percent chance of him advancing to a second day of competition. 
+
+"Did you think we just had no chance?" he asked.
+
+"Do I have to answer?"
+
+  
+
+*   **Friday, July 09: 6:03 pm**
+
+There is a possibility that all five of the Japanese teams will make Day Two. Going into the fifth round, the worst record that a Japanese team had was 3-1. Here is a quick peek at the standings after round four, with the Japanese teams in bold. 
+
+<table>&#10;    <tbody><tr>&#10;      <td>&#10;        <a href="/en/events/2004/ptsea04/event-coverage-daily-mtg-magic-the-gathering-2">&#10;          <b>Rank</b>&#10;        </a>&#10;      </td>&#10;      <td>&#10;        <a href="/en/events/2004/ptsea04/event-coverage-daily-mtg-magic-the-gathering-2">&#10;          <b>Team</b>&#10;        </a>&#10;      </td>&#10;      <td>&#10;        <a href="/en/events/2004/ptsea04/event-coverage-daily-mtg-magic-the-gathering-2">&#10;          <b>Points</b>&#10;        </a>&#10;      </td>&#10;      <td>&#10;        <a href="/en/events/2004/ptsea04/event-coverage-daily-mtg-magic-the-gathering-2">&#10;          <b>Players</b>&#10;        </a>&#10;      </td>&#10;    </tr>&#10;    <tr>&#10;      <td>1</td>&#10;      <td>The American Way</td>&#10;      <td>12</td>&#10;      <td>(Krempels, Fabiano, Sonne)</td>&#10;    </tr>&#10;    <tr>&#10;      <td>2</td>&#10;      <td>toernooicentrum.nl/faal</td>&#10;      <td>12</td>&#10;      <td>(van Aerde, Spijker, Van Ruth)</td>&#10;    </tr>&#10;    <tr>&#10;      <td>3</td>&#10;      <td>Antoine Ruel</td>&#10;      <td>12</td>&#10;      <td>(Nassif, Ruel, Ruel)</td>&#10;    </tr>&#10;    <tr>&#10;      <td>4</td>&#10;      <td>Veni Vidi Vici</td>&#10;      <td>12</td>&#10;      <td>(Canvesi, Minieri, Sbrozzi)</td>&#10;    </tr>&#10;    <tr>&#10;      <td>&#10;        <b>5</b>&#10;      </td>&#10;      <td>&#10;        <b>S.A.I.</b>&#10;      </td>&#10;      <td>&#10;        <b>12</b>&#10;      </td>&#10;      <td>&#10;        <b>(Shimura, Ibamoto, Arita)</b>&#10;      </td>&#10;    </tr>&#10;    <tr>&#10;      <td>6</td>&#10;      <td>Cosmic Tones… </td>&#10;      <td>10</td>&#10;      <td>(Harvey, Cuneo, Wise)</td>&#10;    </tr>&#10;    <tr>&#10;      <td>&#10;        <b>7</b>&#10;      </td>&#10;      <td>&#10;        <b>Tomtom.com</b>&#10;      </td>&#10;      <td>&#10;        <b>10</b>&#10;      </td>&#10;      <td>&#10;        <b>(Komuro, Yokosuka, Kaji)</b>&#10;      </td>&#10;    </tr>&#10;    <tr>&#10;      <td>8</td>&#10;      <td>Original Slackers</td>&#10;      <td>10</td>&#10;      <td>(Smith, Crnobori, Osterberg)</td>&#10;    </tr>&#10;    <tr>&#10;      <td>9</td>&#10;      <td>Truly Lazy Men</td>&#10;      <td>9</td>&#10;      <td>(Tsang, Rood, Tsang)</td>&#10;    </tr>&#10;    <tr>&#10;      <td>10</td>&#10;      <td>Bottom Set</td>&#10;      <td>9</td>&#10;      <td>(Williams, Reeves, Maher)</td>&#10;    </tr>&#10;    <tr>&#10;      <td>11</td>&#10;      <td>Bmh</td>&#10;      <td>9</td>&#10;      <td>(Wong, Linderson, Kung)</td>&#10;    </tr>&#10;    <tr>&#10;      <td>12</td>&#10;      <td>Dead Money</td>&#10;      <td>9</td>&#10;      <td>(Lau, Thicke, Radjonic)</td>&#10;    </tr>&#10;    <tr>&#10;      <td>13</td>&#10;      <td>Tight Ship</td>&#10;      <td>9</td>&#10;      <td>(Chan, Ferraro, Handfield)</td>&#10;    </tr>&#10;    <tr>&#10;      <td>14</td>&#10;      <td>Pocket Rockets</td>&#10;      <td>9</td>&#10;      <td>(Russell, Derro, Wood)</td>&#10;    </tr>&#10;    <tr>&#10;      <td>15</td>&#10;      <td>I Blame Bung</td>&#10;      <td>9</td>&#10;      <td>(Hurd, Elgar, Page)</td>&#10;    </tr>&#10;    <tr>&#10;      <td>16</td>&#10;      <td>Shenanigans</td>&#10;      <td>9</td>&#10;      <td>(Lebedowicz, Sullivan, Horvath)</td>&#10;    </tr>&#10;    <tr>&#10;      <td>17</td>&#10;      <td>Must be a PRO!</td>&#10;      <td>9</td>&#10;      <td>(Talim, Rubin, Ho)</td>&#10;    </tr>&#10;    <tr>&#10;      <td>&#10;        <b>18</b>&#10;      </td>&#10;      <td>&#10;        <b>Ready Go!!</b>&#10;      </td>&#10;      <td>&#10;        <b>9</b>&#10;      </td>&#10;      <td>&#10;        <b>(Oiso, Mori, Osawa)</b>&#10;      </td>&#10;    </tr>&#10;    <tr>&#10;      <td>19</td>&#10;      <td>No Links</td>&#10;      <td>9</td>&#10;      <td>(Betti, Chiera, Dal Farra)</td>&#10;    </tr>&#10;    <tr>&#10;      <td>20</td>&#10;      <td>System</td>&#10;      <td>9</td>&#10;      <td>(Currence, Bunsongsikul, Gilson)</td>&#10;    </tr>&#10;    <tr>&#10;      <td>21</td>&#10;      <td>No mas Pinguinos</td>&#10;      <td>9</td>&#10;      <td>(Roca Alacarez, Garcia Copete, Benrabeau-Edo)</td>&#10;    </tr>&#10;    <tr>&#10;      <td>22</td>&#10;      <td>www.shop-fireBall.com2</td>&#10;      <td>9</td>&#10;      <td>(Ishida, Ikeda, Okamoto)</td>&#10;    </tr>&#10;    <tr>&#10;      <td>23</td>&#10;      <td>T. Niccolo Macchiavelli</td>&#10;      <td>9</td>&#10;      <td>(Verbeken, Dictus, Verhulst)</td>&#10;    </tr>&#10;    <tr>&#10;      <td>24</td>&#10;      <td>Von Dutch</td>&#10;      <td>9</td>&#10;      <td>(Remie, Wiergesma, Cornelissen)</td>&#10;    </tr>&#10;    <tr>&#10;      <td>25</td>&#10;      <td>Pro castle Team</td>&#10;      <td>9</td>&#10;      <td>(Velasco, Maestro, Blazquez)</td>&#10;    </tr>&#10;    <tr>&#10;      <td>26</td>&#10;      <td>:B</td>&#10;      <td>9</td>&#10;      <td>(Aten, Szleifer, Pelcak)</td>&#10;    </tr>&#10;    <tr>&#10;      <td>27</td>&#10;      <td>Simeon Inc.</td>&#10;      <td>9</td>&#10;      <td>(Lane, Thompson, Lundquist)</td>&#10;    </tr>&#10;    <tr>&#10;      <td>&#10;        <b>28</b>&#10;      </td>&#10;      <td>&#10;        <b>T.O.L. = N. oka</b>&#10;      </td>&#10;      <td>&#10;        <b>9</b>&#10;      </td>&#10;      <td>&#10;        <b>(Morita, Fujita, Fujita)</b>&#10;      </td>&#10;    </tr>&#10;    <tr>&#10;      <td>29</td>&#10;      <td>Finding Jaba</td>&#10;      <td>9</td>&#10;      <td>(Ostrovich, Romao, Karsten)</td>&#10;    </tr>&#10;    <tr>&#10;      <td>30</td>&#10;      <td>The Max Fischer Players</td>&#10;      <td>9</td>&#10;      <td>(Frayman, Ravitz, Pikula)</td>&#10;    </tr>&#10;    <tr>&#10;      <td>31</td>&#10;      <td>Something Cool</td>&#10;      <td>9</td>&#10;      <td>(Jorstedt, Levy, Hovi)</td>&#10;    </tr>&#10;    <tr>&#10;      <td>32</td>&#10;      <td>Dragonquest</td>&#10;      <td>9</td>&#10;      <td>(Daoust, Elalar, Cardin)</td>&#10;    </tr>&#10;    <tr>&#10;      <td>33</td>&#10;      <td>Something Amazing!</td>&#10;      <td>9</td>&#10;      <td>(Tamblyn, Heiss, Wagener)</td>&#10;    </tr>&#10;  </tbody></table>
+
+I discussed the success of the Japanese team with Mike Turian. He was impressed by the Japanese teams overall while observing them during deck construction. "Most teams when you watch them build have a deck in front of each player while they build. The Japanese all build with the decks in the middle of the table and in front of no one in particular." Perhaps with the players having no emotional attachment to any particular deck, they are able to make more logical decisions when assigning cards to each deck.
+
+  
+
+*   **Friday, July 09: 5:20 pm**![Kai Budde doesn't want to spend tomorrow at the Space Needle.](http://www.wizards.com/sideboard/images/ptsea04/blog6.jpg "Kai Budde doesn't want to spend tomorrow at the Space Needle.")
+
+Neither team knows it yet, but one of the two best-known teams in the history of the Team Pro Tour is going to fall by the wayside after round five of Day One. YMG (Rob Dougherty, Darwin Kastle, and Dave Humphereys) are paired off with Phoenix Foundation (Kai Budde, Dirk Baberowski, and Marco Blume) for the next round. Both teams started off at 0-2 and have scuffled back to 2-2 records. With only 4-2 records or better advancing to play on Saturday, at least one of the teams will be assured an opportunity to catch the sights of Seattle this weekend.
+
+Your Move Games won the first Team Pro Tour in Washington, D.C., and all three players have been forces on the Pro Tour individually as well. Phoenix Foundation has dominated this format since 2001 in New York and its members are among a handful of players to have won multiple Pro Tours. Dirk even has an individual Pro Tour title to his credit. It's rumored that Kai might have won a Pro Tour or two in his day, too. Marco is not as accomplished individually as either of his teammates but he did recently win Grand Prix Atlanta. 
+
+I wandered over to take a look at each team's card pools as they built their decks. YMG had a really strong card pool to work with. Rob was sitting in front of an impressive array of green cards including Viridian Shaman, Fangren Firstborn, two Fangren Hunters, Ouphe Vandals, and plenty more. Darwin had a solid black-red concoction in front of him. The star of the table, though, was Dave's collection of white cards. He had all the good equipment including double Bonesplitter along with a Steelshaper's Gift. He also had doubles of Leonin Den-Guard, Emissary of Hope, and Skyhunter Patrol.
+
+Kai and friends had also opened up an solid card pool. Dirk had a sturdy-looking Affinity deck with Qumulox, double Pentad Prism, and the blue Bringer. Marco was sporting Glissa, Empyreal Plate, Eternal Witness, and double Blinding Beam. Kai had opened Nicolai's Top 8 draft deck from San Diego, complete with Panoptic Mirror and ridiculous removal. Kai smiled and shrugged, "The only thing I am missing is Greater Harvester."
+
+Stay tuned for the inevitable feature match. It should be a doozy.
+
+  
+ ![What a sight to delight in white tonight.](http://www.wizards.com/sideboard/images/ptsea04/blog7.jpg "What a sight to delight in white tonight.")
+*   **Friday, July 09: 5:15 pm**
+
+Update for Josh…
+
+Your boys are 3-1 and happy with their card pool for the final build!
+
+  
+  
+  
+  
+
+*   **Friday, July 09: 4:37 pm**
+
+This event is the FIFTIETH Pro Tour in Magic history. The first event was held in New York City in the Winter of 1996. Since then the event has circled the globe with stops in Asia and Europe -- although it has not stopped in Africa, South America, or Antarctica (the highest level of play there was an Arena season). 
+
+As you can imagine, the travel takes its toll -- and combined with the rigors of remaining qualified for the Tour, there are no players who have attended all fifty events. There are not even any Wizards staff members who have attended every PT event any longer. 
+
+The first two World Championships in 1994 and 1995, won by Zak Dolan and Alexander Blumke respectively, preceded the invention of the Pro Tour and do not actually count as Pro Tours. The event that Tom Chanpheng won in 1996 was the first World Championships that also counted as a Pro Tour stop.
+
+Trivia question (answer tomorrow):
+
+Which Magic artist has attended the most Pro Tour events?
+
+  
+
+*   **Friday, July 09: 4:13 pm**
+
+This just in -- a certifiable scoop!
+
+OP mini-poobah Scott Larabee opened up his laptop to reveal the 2005 Pro Tour schedule. Pro Tour Columbus had already been announced, but very little was known about the remaining six events. Starting in 2006, the Pro Tour season will take place inside of a single calendar year and this schedule inches the implementation of that plan in that direction, with all of the events except for Columbus taking place in 2005.
+
+<table>&#10;    <tbody><tr>&#10;      <td>&#10;        <a href="/en/events/2004/ptsea04/event-coverage-daily-mtg-magic-the-gathering-2">&#10;          <b>Date</b>&#10;        </a>&#10;      </td>&#10;      <td>&#10;        <a href="/en/events/2004/ptsea04/event-coverage-daily-mtg-magic-the-gathering-2">&#10;          <b>Location</b>&#10;        </a>&#10;      </td>&#10;      <td>&#10;        <a href="/en/events/2004/ptsea04/event-coverage-daily-mtg-magic-the-gathering-2">&#10;          <b>Format</b>&#10;        </a>&#10;      </td>&#10;    </tr>&#10;    <tr>&#10;      <td>October 29-31</td>&#10;      <td>Columbus, Ohio, USA</td>&#10;      <td>Extended</td>&#10;    </tr>&#10;    <tr>&#10;      <td>January 28-30</td>&#10;      <td>Nagoya, Japan</td>&#10;      <td>Rochester Draft</td>&#10;    </tr>&#10;    <tr>&#10;      <td>March 11-13</td>&#10;      <td>Atlanta, Georgia, USA</td>&#10;      <td>Teams</td>&#10;    </tr>&#10;    <tr>&#10;      <td>May 6-8</td>&#10;      <td>Philadelphia, Pennsylvania, USA</td>&#10;      <td>Block Constructed</td>&#10;    </tr>&#10;    <tr>&#10;      <td>July 8-10</td>&#10;      <td>London, England</td>&#10;      <td>Booster Draft</td>&#10;    </tr>&#10;    <tr>&#10;      <td>October TBD</td>&#10;      <td>Somewhere, California, USA</td>&#10;      <td>Extended</td>&#10;    </tr>&#10;    <tr>&#10;      <td>November 30-December 1 </td>&#10;      <td>Yokohama, Japan</td>&#10;      <td>World Championships</td>&#10;    </tr>&#10;    <tr>&#10;      <td>August 12-14 </td>&#10;      <td>Baltimore, Maryland</td>&#10;      <td>US Nationals/JSS Championships</td>&#10;    </tr>&#10;    <tr>&#10;      <td>June 25</td>&#10;      <td>US and Canadian Regionals</td>&#10;      <td>Standard</td>&#10;    </tr>&#10;  </tbody></table>
+
+A couple of tidbits about the various events. The PTQs for the Pro Tour Atlanta will be held in December and January -- traditionally a dead time of year for the PTQ circuit. All of the PTQ seasons will shift accordingly. 
+
+As for Regionals in the U.S. and Canada, they will be held the first weekend that Saviors of Kamigawa is legal in Standard. It will be full-on Standard with Eighth Edition and the complete *Mirrodin* and Kamigawa blocks included for the very first time. This will make Regionals similar to State Championships in kicking off the new format on the first weekend they become legal.
+
+  
+
+*   **Friday, July 09: 3:02 pm**
+
+This tournament has serious implications on the Player of the Year Race and the Rookie of the Year Race. Much will be written about the Player of the Year Race elsewhere in the coverage but there were some interesting tidbits to be found in the Rookie Race. 
+
+<table>&#10;    <tbody><tr>&#10;      <td>&#10;        <a href="/en/events/2004/ptsea04/event-coverage-daily-mtg-magic-the-gathering-2">&#10;          <b>Name </b>&#10;        </a>&#10;      </td>&#10;      <td>&#10;        <a href="/en/events/2004/ptsea04/event-coverage-daily-mtg-magic-the-gathering-2">&#10;          <b>Country</b>&#10;        </a>&#10;      </td>&#10;      <td>&#10;        <a href="/en/events/2004/ptsea04/event-coverage-daily-mtg-magic-the-gathering-2">&#10;          <b>Pro Points</b>&#10;        </a>&#10;      </td>&#10;    </tr>&#10;    <tr>&#10;      <td>Kazumasa Shiki</td>&#10;      <td>Japan</td>&#10;      <td>23</td>&#10;    </tr>&#10;    <tr>&#10;      <td>Alexandre Peset</td>&#10;      <td>France</td>&#10;      <td>21</td>&#10;    </tr>&#10;    <tr>&#10;      <td>Tomohiro Kaji</td>&#10;      <td>Japan</td>&#10;      <td>18</td>&#10;    </tr>&#10;    <tr>&#10;      <td>Chris Fennell</td>&#10;      <td>United States</td>&#10;      <td>15</td>&#10;    </tr>&#10;    <tr>&#10;      <td>Luigi Sbrozzi</td>&#10;      <td>Italy</td>&#10;      <td>15</td>&#10;    </tr>&#10;    <tr>&#10;      <td>Stefano Fiori</td>&#10;      <td>Italy</td>&#10;      <td>14</td>&#10;    </tr>&#10;    <tr>&#10;      <td>Simon Carlsson</td>&#10;      <td>Sweden</td>&#10;      <td>13</td>&#10;    </tr>&#10;    <tr>&#10;      <td>Tobias Henke</td>&#10;      <td>Germany</td>&#10;      <td>12</td>&#10;    </tr>&#10;    <tr>&#10;      <td>Aeo Paquette</td>&#10;      <td>Canada</td>&#10;      <td>12</td>&#10;    </tr>&#10;    <tr>&#10;      <td>Angel Luis Perez del Pozo</td>&#10;      <td>Spain</td>&#10;      <td>12</td>&#10;    </tr>&#10;    <tr>&#10;      <td>Eugeni Sanchez i Mata</td>&#10;      <td>Spain</td>&#10;      <td>11</td>&#10;    </tr>&#10;    <tr>&#10;      <td>Yuusuke Sasaki</td>&#10;      <td>Japan</td>&#10;      <td>11</td>&#10;    </tr>&#10;    <tr>&#10;      <td>Gadiel Szleifer</td>&#10;      <td>United States</td>&#10;      <td>11</td>&#10;    </tr>&#10;    <tr>&#10;      <td>Andrii Alieksieiev</td>&#10;      <td>Ukraine</td>&#10;      <td>10</td>&#10;    </tr>&#10;    <tr>&#10;      <td>Bruno Carvalho</td>&#10;      <td>Switzerland</td>&#10;      <td>10</td>&#10;    </tr>&#10;    <tr>&#10;      <td>Romain Clere</td>&#10;      <td>France</td>&#10;      <td>10</td>&#10;    </tr>&#10;    <tr>&#10;      <td>Takuya Osawa</td>&#10;      <td>Japan</td>&#10;      <td>10</td>&#10;    </tr>&#10;    <tr>&#10;      <td>Stephen Scott</td>&#10;      <td>United States</td>&#10;      <td>10</td>&#10;    </tr>&#10;    <tr>&#10;      <td>&#10;    </td></tr>&#10;  </tbody></table>
+
+This list is made up of the all the players with at least 10 points in the race. Any of them are one or two events away from taking over the lead. If a rookie wins the tournament they will receive more points than the current leader had coming into the event -- twenty-four points.
+
+![Lets Magic'ing!](http://www.wizards.com/sideboard/images/ptsea04/blog5.jpg "Lets Magic'ing!")
+
+The Japanese have made a strong push into the forefront of the competitive Magic scene. Two of the last three Rookies of the Year have come from Japan and they take the race very seriously. Unfortunately, the leader of the race could not attend this tournament. Shiki and the players he would have teamed with all qualified for this year's World Championships. They felt that the Team Sealed format was too risky to spend the money traveling to the States -- especially when you consider that this is the only Pro Tour format that has not seen a Japanese representative on Day Three. There are normally thirty to forty Japanese players at an individual Pro Tour but there are only five Japanese teams in attendance this weekend. 
+
+Shiki felt that if he came to this event and failed to finish in the money it would negatively impact his ability to travel to the World Championships in San Francisco. His absence this weekend opens up the race for all the other players in attendance. His absence is of special interest to Tomohiro Kaji. Kaji is highly motivated to win the race and even flew to Pro Tour San Diego in hopes of grinding into the event in the Last Chance Qualifier. 
+
+Kaji is playing with TomTom.com (Shuu Komuro, Tomohiro Yokosuka, and Tomohiro Kaji). Shuu is the champion of this season's Grand Prix Yokohama and Yokosuka made the Top 8 at Pro Tour New Orleans.
+
+Takuya Osawa is trying to leapfrog over a huge segment of the pack with his 10 points. Takuya made his debut at Grand Prix Hong Kong where his finished fifth. He is considered one the rising new stars of the Japanese Magic scene. Former Rookies of the Year Mashashi Oiso and Katsuhiro Mori have been working together and were looking for a third to team with for this tournament. They asked around to find a good young player and they turned up Osawa, forming Ready Go!! In addition to Osawa's abundant skills, they were also influenced by the stylish aspect of two former Rookies of the Year bringing the title to their third team member. 
+
+Alexandre Peset, Chris Fennell. Luigi Sbrozzi, Aeo Paquette, Tobias Henke and everyone else from around the globe will be hard pressed to keep the title from Japan yet again. We'll keep you updated as the results come in.
+
+  
+
+*   **Friday, July 09: 2:42 pm**
+
+Josh's boys -- otherwise known as I Blame Bung (Adam Hurd, Jeremy Elgar, and Nick Page) -- were 2-0 and things were looking good in round three. 
+
+  
+
+*   **Friday, July 09: 2:08 pm**
+
+The students are now the masters…
+
+Craig Krempels took a game loss for Unsportsmanlike Conduct after his non-stop bragging about winning the U.S. National Championship became too unbearable for his opponent and the table judge. 
+
+Okay, this is not a true story …but if you believed it, then you are in the same boat as Osyp Lebedowicz. After years of being fooled by Osyp's outrageous fabrications, Craig and Gerard Fabiano turned the tables on their friend with the story of Craig getting a game loss.
+
+  
+
+*   **Friday, July 09: 1:59 pm**
+
+Speaking of Bob Maher…
+
+Bottom Set (Bob Maher, Dave Williams, and Neil Reeves) is at the Top of the standings after two rounds. So is Illuminati (Justin Gary, Alex Shvartsman, and Zvi Mowshowitz) and have to be considered early favorites to go all the way. Phoenix Foundation, YMG, and The Brockafellers all found themselves in a precarious 0-2 hole. 
+
+When informed of the plight of the format's top teams, Justin Gary brightened, "I like this news…errr…I mean, how sad that they are doing poorly." He turned to the YMG squad sitting one table over and asked them about their status, and Rob Dougherty held up a fist to represent zero and two fingers to represent their losses. Justin nodded, "So you're awful is what you are trying to say." 
+
+  
+
+*   **Friday, July 09: 1:31 pm**
+
+"Last round I got one of the worst text messages I have ever received," said Chris Pikula, shaking his head after his team took a second-round loss to drop to 1-1. He scrolled through his messages to show me his pairing message from last round, "New pairings round 2#You will play at Table 12 against Robert Maher, team Bottom Set."
+
+Players can now receive their pairings via a text message on their cell phone. It is a very popular development among the players - apparently as long as they are not paired up against one of the most formidable players on the planet.
+
+  
+
+*   **Friday, July 09: 1:14 pm**
+
+Mark Rosewater has been working with Bob Maher all weekend to hammer out the final version of The Great One's Invitational card. Bob has some definite ideas but has not narrowed it down to a specific combination of casting cost, mechanics, and stats. Mark was adamant, "Before the weekend is out, Bob has to nail down this card. He has a lot of ideas and I am trying to guide him through the process."
+
+Solemn Simulacrum has set the bar fairly high as far as Invitational cards go -- something Mark is quite pleased by. "We are clearly willing to make good Invitational cards!" The only thing that they have narrowed down at this point is that it will be a two drop black creature. I will keep you updated throughout the weekend.
+
+I haven't had a chance to see Mark for a couple of events since the birth of his twins. Mark and I usually spend a lot of time talking about comics at these events and he wanted me to mention that Identity Crisis from DC Comics has been compelling reading. 
+
+  
+
+*   **Friday, July 09: 12:44 pm**
+
+Uh-oh: Part Two…
+
+Phoenix Foundation is also kicking off their weekend at a challenging 0-2. More to come later…
+
+  
+
+*   **Friday, July 09: 12:33 pm**![Canada - ketchup flavored potato chips, yes. Caffinated citrus beverages, no.](http://www.wizards.com/sideboard/images/ptsea04/blog4.jpg "Canada - ketchup flavored potato chips, yes. Caffinated citrus beverages, no.")
+
+The real reason Josh Bennett is not here… I worked Canadian Nationals last weekend with Josh. For those of you who have never seen the inside of the event coverage room, it is littered with candy wrappers and empty cans of caffeinated beverages. My pick-me-up of choice: Diet Mountain Dew. Reid Schmadeka, all-around good guy and Wizards point man for Can Nats, somehow located a case for me in Canada and I was sucking it down all weekend … but I still felt miserable and sluggish and could not understand why. On Sunday I found out that Canadian Mountain Dew contains no caffeine. They only caffeinate their brown beverages, it turns out, which is why Canadian gamers are usually seen swigging Dr. Pepper. 
+
+I mentioned this to Josh and he burst out laughing. He was fully aware of this fact so I tore off his head and extracted all the caffeine that was coursing through his veins from his neck stump.
+
+I'm better now.
+
+  
+
+*   **Friday, July 09: 12:24 pm**
+
+Roving reporter Sheldon Menery shared a story with me from the Phoenix Foundation's first build on the day. Marco Blume called him over to clarify when the power and toughness of the Gemini Engine token locked in. Sheldon explained that it was triggered ability when the Gemini Engine was declared as an attacker and that it locked in once the triggered ability resolved. Satisfied that Marco understood his explanation, Sheldon turned to walk away and heard an obviously annoyed Kai chide Marco, "See?"
+
+  
+
+*   **Friday, July 09: 12:17 pm**
+
+Uh-oh. Reigning Team Champions the Brockafellers are in a spot of trouble after falling to www.shop-fireball.com2 in the second round. They find themselves in an 0-2 hole and cannot afford another loss on the day if they have any hope of back-to-back championships.
+
+  
+
+*   **Friday, July 09: 12:09 pm**![Stop looking at me, Swans!](http://www.wizards.com/sideboard/images/ptsea04/blog3.jpg "Stop looking at me, Swans!")
+
+The family that plays together…  
+ The Swans are made up of three members of the same family. Brad and Greg Swan are brothers and their third member is their father Tom. While many kids would groan at the thought of playing Magic with their pops, Tom does have a Grand Prix title to his credit (he won Grand Prix Boston in 2001). Brad has a few GP Top 8s to his credit and made the Top 8 of Pro Tour Barcelona. Greg has a little catching up to do although he is an accomplished JSS player with tremendous upside. 
+
+For all you SaberMagicians out there, there is a neat little feature in the Tournament Center that lets you access all the Top 8 performances from [Grand Prix](/en/articles/event-coverage/undated/grand-prix-top-8-lists) and from [Pro Tour](/en/articles/event-coverage/undated/pro-tour-top-8-lists). There is also a link to the [lifetime money winnings](/de/articles/event-coverage/undated/lifetime-winnings-leaders) list. 
+
+  
+
+*   **Friday, July 09: 11:30 am**![Froehlich touches the Hat of Power.](http://www.wizards.com/sideboard/images/ptsea04/blog2.jpg "Froehlich touches the Hat of Power.")
+
+The 13th Step (Jon Finkel, Eric Froehlich, and Brian Kibler) were facing off against Something Amazing (Mitch Tamblyn, Nate Heiss, and Joshua Wagener) and their match came down to Game 3 between Jon and Mitch. Finkel found himself up against the ropes when he went to two life from Mitch's Leonin Skyhunter with a Vulshok Morningstar. He had a Tangle Spider and he would have to lose it to a chump block next turn if he didn't deal with the flier -- Mitch moved the Morningstar over to a potential blocker after the attack.
+
+One of the exciting facets of team competition is rooting for your teammate to pick you up after a loss. Brian and Eric paced nervously behind Jon as he drew his card for the turn -- it was an Essence Drain. That was great for Jon if he could find a way to get around the Pearl Shard on Mitch's side of the board. He attacked with a Mirror Golem and Mitch prevented damage with the artifact. Jon took out the flier and crept up to five life.
+
+Jon played a Serum Tank on the next turn and found an Ouphe Vandals, and was eventually able to kill the Shard as well. Jon fell to one but his big green guys such as Tyrranax were able to get the job done and The 13th Step was triumphant. 
+
+  
+
+*   **Friday, July 09: 10:21 am**
+
+There has been no shortage of dinosaur sightings this weekend -- one of the more charming aspects of Team Pro Tours. The one that always takes everyone by surprise is Tommi Hovi, who looks nothing like his old self with his shaved head. His surprise appearance (and surprising appearance) must have been the "something" they refer to in the team name Something Cool (Tommi Hovi, Mattias Jorstedt, and Raphael Levy).
+
+  
+
+*   **Friday, July 09: 10:10 am**
+
+When I got to the airport yesterday morning, we ran into Mike Turian wandering around the luggage area looking for Nate Heiss. As per usual, I gave Mike a hard time about quitting the game while he was playing as well as he ever had in his career. He has enough Pro Points to pick up me and a random homeless guy and still be qualified for this event. When I pointed this out to him he just flashed the trademark grin and said, "Don't be silly. EDT isn't showing up for this tournament."
+
+  
+
+*   **Friday, July 09: 10:05 am**![Awesome POV Shot.](http://www.wizards.com/sideboard/images/ptsea04/blog1.jpg "Awesome POV Shot.")
+
+Osyp Lebedowicz flirted with the idea of playing Well of Lost Dreams and Clearwater Goblet in his deck to straddle the life gain and card-drawing schools of the game. He was just living up to the team name Shenanigans, and Patrick Sullivan and Adam Horvath let out a sigh of relief when he only played the Goblet.
+
+  
+
+*   **Friday, July 09: 10:01 am**
+
+The Max Fischer Players (Chris Pikula, Igor Frayman, and Josh Ravitz) could not find a home for their Liar's Pendulum during deck construction. The always-grumpy Ravitz was in charge of assigning the cards and tried to give it to Igor over both of his teammates objections. They finally settled on it for Josh's deck, to the relief of Igor. "I don't know the names of any of the cards. I would just name Merfolk Looter and my opponent would laugh at me."
+
+  
+
+*   **Friday, July 09: 9:51 am**
+
+Apparently the Last Chance Qualifier was something of a heartbreaker. There was not much of an actual crowd come 3 or 4 in the morning but the metaphorical crowd favorites -- Ken Krouner, Jamie Parke, and Aaron Lipczynski -- lost in the final round before they could qualify for this event. They were undefeated in the tournament to that point and fell during the Rochester Draft. 
+
+Congrats to the two teams that did make it in. Team Name (Sam Nelson, Dan Tribbles, and Tom Worth) and Zombie Pirate Ninja Robots (David Engle, Ben Engle, and Warren Woo) are a pair of tired but happy trios this morning!
+
+  
+
+*   **Friday, July 09: 9:43 am**
+
+I am very excited to be doing blog coverage again. The blog we did at U.S. Nationals was very well received. Josh and I were not able to pull it together for Canadian Nationals but blogging is the only item on my coverage docket this weekend. Due to a clerical error Josh Bennett is not here this weekend, which is a tremendous frown. Don't worry Josh, I'm keeping an eye on your boys and they all say, "Hi!"
+
+P.S. - Cool out, BENNETT!

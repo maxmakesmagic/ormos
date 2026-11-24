@@ -1,0 +1,56 @@
+---
+id: 8cs23ezz
+kind: article
+lang: en
+path: /en/articles/uncategorised/2015/10-26-round-12-results
+title: Round 12 Results
+published: '2015-10-26'
+column_slug: uncategorised
+column: uncategorised
+authors:
+- slug: wizardsofthecoast
+  name: Wizards of the Coast
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/node/818741
+    lang_detected: en
+    capture_id: 2528917
+    url: http://magic.wizards.com/en/node/818741
+    captured_at: '2016-06-03 14:54:56+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/node/818741
+    lang_detected: en
+    capture_id: 2528917
+    url: http://magic.wizards.com/en/node/818741
+    captured_at: '2016-06-03 14:54:56+00'
+    rule: drupal.posted_in_date
+  authors:
+    page_key: magic.wizards.com/en/node/818741
+    lang_detected: en
+    capture_id: 2528917
+    url: http://magic.wizards.com/en/node/818741
+    captured_at: '2016-06-03 14:54:56+00'
+    rule: drupal.div_author
+sources:
+- document_id: 8cs23ezz
+  url: http://magic.wizards.com/en/node/818741
+  page_key: magic.wizards.com/en/node/818741
+  lang: en
+  template: drupal
+  captured_at: '2016-06-03 14:54:56+00'
+  capture_id: 2528917
+  wayback_url: https://web.archive.org/web/20160603145456id_/http://magic.wizards.com/en/node/818741
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 8cs23ezz
+  capture_id: 2528917
+  url: http://magic.wizards.com/en/node/818741
+  wayback_url: https://web.archive.org/web/20160603145456id_/http://magic.wizards.com/en/node/818741
+  captured_at: '2016-06-03 14:54:56+00'
+  template: drupal
+  sha256: e10f829010d449c31758b31e9abd6c0c429113312a5ffdfbcf6163217ac08290
+render_recovery: []
+---
+<table><tbody><tr><th><b>Table</b></th>&#10;			<th><b>Player</b></th>&#10;			<th> </th>&#10;			<th><b>Result</b></th>&#10;			<th> </th>&#10;			<th><b>Opponent</b></th>&#10;			<th> </th>&#10;		</tr><tr><td>1</td>&#10;			<td>Beldon, Omar</td>&#10;			<td>[CA]</td>&#10;			<td>Lost 0-2</td>&#10;			<td>vs.</td>&#10;			<td>BOUTIN, NATHANIEL</td>&#10;			<td>[CA]</td>&#10;		</tr><tr><td>2</td>&#10;			<td>(19) Duke, Reid</td>&#10;			<td>[US]</td>&#10;			<td>Lost 1-2</td>&#10;			<td>vs.</td>&#10;			<td>Polak-Rottmann, Oliver</td>&#10;			<td>[AT]</td>&#10;		</tr><tr><td>3</td>&#10;			<td>Mondello, Jake</td>&#10;			<td>[US]</td>&#10;			<td>Won 2-1</td>&#10;			<td>vs.</td>&#10;			<td>Braun-Duin, Brian</td>&#10;			<td>[US]</td>&#10;		</tr><tr><td>4</td>&#10;			<td>Magalhaes, Edgar</td>&#10;			<td>[CA]</td>&#10;			<td>Won 2-0</td>&#10;			<td>vs.</td>&#10;			<td>Richardson, Justin</td>&#10;			<td>[CA]</td>&#10;		</tr><tr><td>5</td>&#10;			<td>Pine, Michael</td>&#10;			<td>[CA]</td>&#10;			<td>Lost 1-2</td>&#10;			<td>vs.</td>&#10;			<td>Belanger, Maxim</td>&#10;			<td>[CA]</td>&#10;		</tr><tr><td>6</td>&#10;			<td>Wilson, Peter</td>&#10;			<td>[CA]</td>&#10;			<td>Lost 0-2</td>&#10;			<td>vs.</td>&#10;			<td>Visser, Tyler</td>&#10;			<td>[AU]</td>&#10;		</tr><tr><td>7</td>&#10;			<td>(11) Hayne, Alexander</td>&#10;			<td>[CA]</td>&#10;			<td>Won 2-1</td>&#10;			<td>vs.</td>&#10;			<td>Anctil, Kevin</td>&#10;			<td>[CA]</td>&#10;		</tr><tr><td>8</td>&#10;			<td>Betit, Jean-Francois</td>&#10;			<td>[CA]</td>&#10;			<td>Lost 1-2</td>&#10;			<td>vs.</td>&#10;			<td>Lanthier, Dan</td>&#10;			<td>[CA]</td>&#10;		</tr><tr><td>9</td>&#10;			<td>Young, Brad</td>&#10;			<td>[CA]</td>&#10;			<td>Lost 1-2</td>&#10;			<td>vs.</td>&#10;			<td>(15) Rubin, Steve</td>&#10;			<td>[US]</td>&#10;		</tr><tr><td>10</td>&#10;			<td>Dery, Jonathan</td>&#10;			<td>[CA]</td>&#10;			<td>Won 2-0</td>&#10;			<td>vs.</td>&#10;			<td>Stein, Mathew</td>&#10;			<td>[CA]</td>&#10;		</tr><tr><td>11</td>&#10;			<td>(5) Damo Da Rosa, Paulo Vitor</td>&#10;			<td>[BR]</td>&#10;			<td>Won 2-0</td>&#10;			<td>vs.</td>&#10;			<td>Moir, Ben</td>&#10;			<td>[CA]</td>&#10;		</tr><tr><td>12</td>&#10;			<td>Auger, Maxime</td>&#10;			<td>[CA]</td>&#10;			<td>Lost 1-2</td>&#10;			<td>vs.</td>&#10;			<td>Lansche, Derek</td>&#10;			<td>[CA]</td>&#10;		</tr><tr><td>13</td>&#10;			<td>Moulton, Jesse</td>&#10;			<td>[CA]</td>&#10;			<td>Won 2-1</td>&#10;			<td>vs.</td>&#10;			<td>Watkins, Tim</td>&#10;			<td>[CA]</td>&#10;		</tr><tr><td>14</td>&#10;			<td>(2) Manfield, Seth</td>&#10;			<td>[US]</td>&#10;			<td>Lost 0-2</td>&#10;			<td>vs.</td>&#10;			<td>Delano, Jonathan</td>&#10;			<td>[US]</td>&#10;		</tr><tr><td>15</td>&#10;			<td>Beland, Nicolas</td>&#10;			<td>[CA]</td>&#10;			<td>Lost 1-2</td>&#10;			<td>vs.</td>&#10;			<td>Henry, Brenton</td>&#10;			<td>[CA]</td>&#10;		</tr><tr><td>16</td>&#10;			<td>Chin, Ricky</td>&#10;			<td>[CA]</td>&#10;			<td>Lost 0-2</td>&#10;			<td>vs.</td>&#10;			<td>Laflamme, Sebastien</td>&#10;			<td>[CA]</td>&#10;		</tr><tr><td>17</td>&#10;			<td>Latendresse, Michel</td>&#10;			<td>[CA]</td>&#10;			<td>Lost 1-2</td>&#10;			<td>vs.</td>&#10;			<td>Maynard, Pascal</td>&#10;			<td>[CA]</td>&#10;		</tr><tr><td>18</td>&#10;			<td>Rochette, Alex</td>&#10;			<td>[CA]</td>&#10;			<td>Won 2-0</td>&#10;			<td>vs.</td>&#10;			<td>Benn, Adam</td>&#10;			<td>[CA]</td>&#10;		</tr><tr><td>19</td>&#10;			<td>Achorn, Stephen</td>&#10;			<td>[US]</td>&#10;			<td>Draw 1-1</td>&#10;			<td>vs.</td>&#10;			<td>Wildes, Julian</td>&#10;			<td>[US]</td>&#10;		</tr><tr><td>20</td>&#10;			<td>Victor, Adam</td>&#10;			<td>[CA]</td>&#10;			<td>Won 2-1</td>&#10;			<td>vs.</td>&#10;			<td>Mason, Sky</td>&#10;			<td>[US]</td>&#10;		</tr><tr><td>21</td>&#10;			<td>Tondreau, Jasmin</td>&#10;			<td>[CA]</td>&#10;			<td>Won 2-1</td>&#10;			<td>vs.</td>&#10;			<td>Giannopoulos, Steve</td>&#10;			<td>[CA]</td>&#10;		</tr><tr><td>22</td>&#10;			<td>Harabas, Chris</td>&#10;			<td>[CA]</td>&#10;			<td>Lost 0-2</td>&#10;			<td>vs.</td>&#10;			<td>Blanchet, Eric</td>&#10;			<td>[US]</td>&#10;		</tr><tr><td>23</td>&#10;			<td>Chi, Benjamin</td>&#10;			<td>[CA]</td>&#10;			<td>Won 2-0</td>&#10;			<td>vs.</td>&#10;			<td>Brunet, Martin</td>&#10;			<td>[CA]</td>&#10;		</tr><tr><td>24</td>&#10;			<td>Tremblay, Sebastien</td>&#10;			<td>[CA]</td>&#10;			<td>Lost 0-2</td>&#10;			<td>vs.</td>&#10;			<td>Noworaj, Andrew</td>&#10;			<td>[CA]</td>&#10;		</tr><tr><td>25</td>&#10;			<td>Wasson, John P</td>&#10;			<td>[CA]</td>&#10;			<td>Lost 1-2</td>&#10;			<td>vs.</td>&#10;			<td>Fiset, Maxime</td>&#10;			<td>[CA]</td>&#10;		</tr><tr><td>26</td>&#10;			<td>Saucier, David</td>&#10;			<td>[CA]</td>&#10;			<td>Lost 0-2</td>&#10;			<td>vs.</td>&#10;			<td>English, Eric</td>&#10;			<td>[US]</td>&#10;		</tr><tr><td>27</td>&#10;			<td>Stein, Joe</td>&#10;			<td>[US]</td>&#10;			<td>Won 2-1</td>&#10;			<td>vs.</td>&#10;			<td>Dove, Steven</td>&#10;			<td>[CA]</td>&#10;		</tr><tr><td>28</td>&#10;			<td>Gareau, Philippe</td>&#10;			<td>[CA]</td>&#10;			<td>Won 2-0</td>&#10;			<td>vs.</td>&#10;			<td>Guite, Ely</td>&#10;			<td>[CA]</td>&#10;		</tr><tr><td>29</td>&#10;			<td>Boyer, Luc-Alexandre</td>&#10;			<td>[CA]</td>&#10;			<td>Lost 1-2</td>&#10;			<td>vs.</td>&#10;			<td>(16) Shenhar, Shahar</td>&#10;			<td>[IS]</td>&#10;		</tr><tr><td>30</td>&#10;			<td>Barge, Carter</td>&#10;			<td>[CA]</td>&#10;			<td>Lost 1-2</td>&#10;			<td>vs.</td>&#10;			<td>Groom, Jeffrey</td>&#10;			<td>[CA]</td>&#10;		</tr><tr><td>31</td>&#10;			<td>Frappier, Emile</td>&#10;			<td>[CA]</td>&#10;			<td>Won 2-0</td>&#10;			<td>vs.</td>&#10;			<td>Freel, Dan</td>&#10;			<td>[CA]</td>&#10;		</tr><tr><td>32</td>&#10;			<td>McClenaghan, David</td>&#10;			<td>[CA]</td>&#10;			<td>Won 2-0</td>&#10;			<td>vs.</td>&#10;			<td>Simms, Matthew S</td>&#10;			<td>[CA]</td>&#10;		</tr><tr><td>33</td>&#10;			<td>Ludwig, Shawn</td>&#10;			<td>[CA]</td>&#10;			<td>Draw 1-1</td>&#10;			<td>vs.</td>&#10;			<td>Hawron, Richard C</td>&#10;			<td>[CA]</td>&#10;		</tr><tr><td>34</td>&#10;			<td>Siow, Lucas</td>&#10;			<td>[CA]</td>&#10;			<td>Won 2-1</td>&#10;			<td>vs.</td>&#10;			<td>Choquette, Maxime</td>&#10;			<td>[CA]</td>&#10;		</tr><tr><td>35</td>&#10;			<td>Simard, Philippe</td>&#10;			<td>[CA]</td>&#10;			<td>Won 2-1</td>&#10;			<td>vs.</td>&#10;			<td>Hill, David</td>&#10;			<td>[CA]</td>&#10;		</tr><tr><td>36</td>&#10;			<td>Potvin, Guillaumo</td>&#10;			<td>[CA]</td>&#10;			<td>Lost 0-2</td>&#10;			<td>vs.</td>&#10;			<td>Stefan, Filip</td>&#10;			<td>[CA]</td>&#10;		</tr><tr><td>-</td>&#10;			<td>Holness, Devaghat</td>&#10;			<td>[CA]</td>&#10;			<td>BYE</td>&#10;			<td>vs.</td>&#10;			<td>-</td>&#10;			<td> </td>&#10;		</tr><tr><td>37</td>&#10;			<td>Nguyen, Thien</td>&#10;			<td>[US]</td>&#10;			<td>Lost 1-2</td>&#10;			<td>vs.</td>&#10;			<td>Leahy, Nicholas</td>&#10;			<td>[CA]</td>&#10;		</tr><tr><td>38</td>&#10;			<td>Plamondon, Brandon</td>&#10;			<td>[CA]</td>&#10;			<td>Draw 1-1</td>&#10;			<td>vs.</td>&#10;			<td>Delanoix, Emmanuel</td>&#10;			<td>[CA]</td>&#10;		</tr><tr><td>39</td>&#10;			<td>Moazen-Sayad, Pedram</td>&#10;			<td>[CA]</td>&#10;			<td>Won 2-1</td>&#10;			<td>vs.</td>&#10;			<td>Lapointe, Alexandre</td>&#10;			<td>[CA]</td>&#10;		</tr><tr><td>40</td>&#10;			<td>Hoffmann, Matthew</td>&#10;			<td>[US]</td>&#10;			<td>Won 2-1</td>&#10;			<td>vs.</td>&#10;			<td>Desmarais, Curtis</td>&#10;			<td>[CA]</td>&#10;		</tr><tr><td>41</td>&#10;			<td>Klomparens, Jadine</td>&#10;			<td>[US]</td>&#10;			<td>Lost 0-2</td>&#10;			<td>vs.</td>&#10;			<td>Kaspar, Kendall</td>&#10;			<td>[CA]</td>&#10;		</tr><tr><td>42</td>&#10;			<td>Reid, Jeremy</td>&#10;			<td>[CA]</td>&#10;			<td>Won 2-1</td>&#10;			<td>vs.</td>&#10;			<td>Blanchette, Jamie</td>&#10;			<td>[CA]</td>&#10;		</tr><tr><td>43</td>&#10;			<td>Pauloff, Nick</td>&#10;			<td>[CA]</td>&#10;			<td>Lost 1-2</td>&#10;			<td>vs.</td>&#10;			<td>Krautmann, Wenzel</td>&#10;			<td>[DE]</td>&#10;		</tr><tr><td>44</td>&#10;			<td>Ward, Daniel</td>&#10;			<td>[US]</td>&#10;			<td>Won 2-1</td>&#10;			<td>vs.</td>&#10;			<td>Tomajko, Oliver</td>&#10;			<td>[US]</td>&#10;		</tr><tr><td>45</td>&#10;			<td>Dean, Paul</td>&#10;			<td>[CA]</td>&#10;			<td>Won 2-0</td>&#10;			<td>vs.</td>&#10;			<td>Sha, Chris</td>&#10;			<td>[AU]</td>&#10;		</tr></tbody></table>

@@ -1,0 +1,55 @@
+---
+id: q315xdzh
+kind: event
+lang: nl
+path: /nl/events/2013/gputr13/grand-prix-utrecht-round-10-green-results
+title: Grand Prix Utrecht Round 10 Green Results
+published: '2013-03-16'
+column_slug: null
+column: null
+authors: []
+event_code: gputr13
+detected_lang: nl
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gputr13/greenres10
+    lang_detected: nl
+    capture_id: 484954
+    url: https://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gputr13/greenres10
+    captured_at: '2013-07-03 08:20:50+00'
+    rule: aspx.article_heading
+  published:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gputr13/greenres10
+    lang_detected: nl
+    capture_id: 484954
+    url: https://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gputr13/greenres10
+    captured_at: '2013-07-03 08:20:50+00'
+    rule: aspx.byline_date
+  event_code:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gputr13/greenres10
+    lang_detected: nl
+    capture_id: 484954
+    url: https://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gputr13/greenres10
+    captured_at: '2013-07-03 08:20:50+00'
+    rule: url.event_code
+sources:
+- document_id: q315xdzh
+  url: https://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gputr13/greenres10
+  page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gputr13/greenres10
+  lang: nl
+  template: aspx
+  captured_at: '2013-07-03 08:20:50+00'
+  capture_id: 484954
+  wayback_url: https://web.archive.org/web/20130703082050id_/https://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gputr13/greenres10
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: q315xdzh
+  capture_id: 484954
+  url: https://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gputr13/greenres10
+  wayback_url: https://web.archive.org/web/20130703082050id_/https://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gputr13/greenres10
+  captured_at: '2013-07-03 08:20:50+00'
+  template: aspx
+  sha256: ad18bdf157ac61bb77957bd20f8cc193b0cadf69efedcaf8ac4289a7872662f6
+render_recovery: []
+---
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130703082050/https://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gputr13/greenres10">&#10;        <b>Team</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130703082050/https://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gputr13/greenres10">&#10;        <b>Result</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130703082050/https://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gputr13/greenres10">&#10;        <b>&#10;      </b></a><b>&#10;    </b></td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130703082050/https://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gputr13/greenres10">&#10;        <b>Opponent</b>&#10;      </a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td> 1</td>&#10;    <td>Bohlender/Biela/Frey</td>&#10;    <td>210</td>&#10;    <td>vs.</td>&#10;    <td>Vincent/Bonanno/Besset</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 2</td>&#10;    <td>Brendemühl/Al-Bacha/Mueller</td>&#10;    <td>210</td>&#10;    <td>vs.</td>&#10;    <td>Ortmann/Bode/Wigge</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 3</td>&#10;    <td>Enevoldsen/Dang/Levy</td>&#10;    <td>120</td>&#10;    <td>vs.</td>&#10;    <td>Freau/Aucler/Repetti</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 4</td>&#10;    <td>Harle/Rigby/Light</td>&#10;    <td>120</td>&#10;    <td>vs.</td>&#10;    <td>Westling/Bergström/Carlsson</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 5</td>&#10;    <td>Barkowski/Yeh/Barkowski</td>&#10;    <td>120</td>&#10;    <td>vs.</td>&#10;    <td>Kratena/Jacko/Bøéa</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 6</td>&#10;    <td>Magallon/Diez/Horno</td>&#10;    <td>120</td>&#10;    <td>vs.</td>&#10;    <td>Van Gelder/Slooten/Dekker</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 7</td>&#10;    <td>Grossholz/Mauch/Schmid</td>&#10;    <td>210</td>&#10;    <td>vs.</td>&#10;    <td>Norman/Lyford-Smith/Nonis</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 8</td>&#10;    <td>Kreuz/Wallendorf/Brenner</td>&#10;    <td>210</td>&#10;    <td>vs.</td>&#10;    <td>Stopa/Wroblewski/PRUCHNIEWIC</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 9</td>&#10;    <td>Bornelöv/Svensson/Carlsson</td>&#10;    <td>210</td>&#10;    <td>vs.</td>&#10;    <td>Mouchart/Vandenitte/Truong</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 10</td>&#10;    <td>Mönkmöller/zahedinour/Müller</td>&#10;    <td>300</td>&#10;    <td>vs.</td>&#10;    <td>Koller/Zimmermann/Uhe</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 11</td>&#10;    <td>Magnani/Reale/Reale</td>&#10;    <td>210</td>&#10;    <td>vs.</td>&#10;    <td>VENCHIARUTTI/Orsini/Gallais</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 12</td>&#10;    <td>Lehner/Tomelitsch/Wagner</td>&#10;    <td>030</td>&#10;    <td>vs.</td>&#10;    <td>Radloff/Kraft/Zimmermann</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 13</td>&#10;    <td>Erenyi/Hanzálek Z/Do Anh</td>&#10;    <td>300</td>&#10;    <td>vs.</td>&#10;    <td>Lybaert/vdWouwer/Dictus</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 14</td>&#10;    <td>de Beurs/Lambregts/Berghout</td>&#10;    <td>300</td>&#10;    <td>vs.</td>&#10;    <td>Faber/Gewaltig/Panteleit</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 15</td>&#10;    <td>Hagedorn/Richter/Cardinal vo</td>&#10;    <td>030</td>&#10;    <td>vs.</td>&#10;    <td>Convery/Carson/Madden</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 16</td>&#10;    <td>Messow/Schmeußer/Lewandowski</td>&#10;    <td>030</td>&#10;    <td>vs.</td>&#10;    <td>Hollmann/Löb/Hedemann</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 17</td>&#10;    <td>Spano/Tomici/Neri</td>&#10;    <td>210</td>&#10;    <td>vs.</td>&#10;    <td>Janse/Radesater/Landgraf</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 18</td>&#10;    <td>Benedetto/Castellano/Romano</td>&#10;    <td>210</td>&#10;    <td>vs.</td>&#10;    <td>Otte/Idema/Offenberg</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 19</td>&#10;    <td>Lindström/Rachid/Polgary</td>&#10;    <td>210</td>&#10;    <td>vs.</td>&#10;    <td>Peerdeman/De Jong/Ruiterkamp</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 20</td>&#10;    <td>Ecker/Sinner/Reimche</td>&#10;    <td>210</td>&#10;    <td>vs.</td>&#10;    <td>Lindgren/Peter/Eberhard</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 21</td>&#10;    <td>Pils/Burgold/Leigh</td>&#10;    <td>300</td>&#10;    <td>vs.</td>&#10;    <td>Palmer/Boyhan/Bannister</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 22</td>&#10;    <td>Verbiest/Theunis/Milis</td>&#10;    <td>030</td>&#10;    <td>vs.</td>&#10;    <td>Miles/Chilcott/Wilks</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 23</td>&#10;    <td>van Lopik/de Pee/Berendse</td>&#10;    <td>030</td>&#10;    <td>vs.</td>&#10;    <td>De Coster/Vieren/Vieren</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 24</td>&#10;    <td>Scherpenz/vdHeiden/Kleerekoo</td>&#10;    <td>210</td>&#10;    <td>vs.</td>&#10;    <td>Voshchennikov/Semkin/Ivanov</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 25</td>&#10;    <td>Massart/Dun/Dubuisson</td>&#10;    <td>030</td>&#10;    <td>vs.</td>&#10;    <td>Schreiber/Oey/Herrlich</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 26</td>&#10;    <td>toulouse/Carlouet/Lefevre</td>&#10;    <td>210</td>&#10;    <td>vs.</td>&#10;    <td>Caillaba/Habert/Cestaro</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 27</td>&#10;    <td>Hadrys/Szplit/Zhang</td>&#10;    <td>030</td>&#10;    <td>vs.</td>&#10;    <td>Kres/Van der Vegt/Sneek</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 28</td>&#10;    <td>Kyriazis/Murray/Marshall</td>&#10;    <td>300</td>&#10;    <td>vs.</td>&#10;    <td>Maurer/Sommerlade/Tabarelli</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 29</td>&#10;    <td>Lindner/Matull/Günther</td>&#10;    <td>030</td>&#10;    <td>vs.</td>&#10;    <td>Deltour/Gatica/Calcano</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 30</td>&#10;    <td>Stihle/Stihle/Martins</td>&#10;    <td>300</td>&#10;    <td>vs.</td>&#10;    <td>Jourdan/Rousset/kubiak</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 31</td>&#10;    <td>Hamann/Feyand/Wünsche</td>&#10;    <td>210</td>&#10;    <td>vs.</td>&#10;    <td>De Bruijn/Lopez/Popa</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 32</td>&#10;    <td>Lihoreau/LIROLA/Romanczyk</td>&#10;    <td>210</td>&#10;    <td>vs.</td>&#10;    <td>Levenston/Stoffelle/Hopmans</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 33</td>&#10;    <td>martinez/Coredero/Garcia</td>&#10;    <td>300</td>&#10;    <td>vs.</td>&#10;    <td>Prystav/Pröpper/Calovini</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 34</td>&#10;    <td>Volberg/Liiv/Põldsam</td>&#10;    <td>120</td>&#10;    <td>vs.</td>&#10;    <td>Salzburg/Kieckhäfer/Brusch</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 35</td>&#10;    <td>Zivkovic/Flury/Pohle</td>&#10;    <td>030</td>&#10;    <td>vs.</td>&#10;    <td>Gustafson/Nielsen/Thiesen</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 36</td>&#10;    <td>Portnoe/Leroy/Lainé</td>&#10;    <td>300</td>&#10;    <td>vs.</td>&#10;    <td>Morawa/Pütter/Nolte</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 37</td>&#10;    <td>Binnemar/Hellenth/Hommelbe</td>&#10;    <td>120</td>&#10;    <td>vs.</td>&#10;    <td>Låstad/Johnsen/Bergesen</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 38</td>&#10;    <td>Den Hartog/Bastinck/De Bruin</td>&#10;    <td>030</td>&#10;    <td>vs.</td>&#10;    <td>Coline/Kostadinov/Le Bot</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 39</td>&#10;    <td>Kaczmarczyk/Golab/Marczak</td>&#10;    <td>300</td>&#10;    <td>vs.</td>&#10;    <td>Amoneau/Gourdin/Porcher</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 40</td>&#10;    <td>Witte/Van Montfort/Tonissen</td>&#10;    <td>210</td>&#10;    <td>vs.</td>&#10;    <td>Weidemann/Rosada/Weidemann</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 41</td>&#10;    <td>Lamers/Van Dooren/Isphording</td>&#10;    <td>030</td>&#10;    <td>vs.</td>&#10;    <td>Reiter/Darnhofer/Paulmaier</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 42</td>&#10;    <td>Ancion/Vrankenne/Wilmotte</td>&#10;    <td>300</td>&#10;    <td>vs.</td>&#10;    <td>Sequeira/Ferreira/Bastos</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 43</td>&#10;    <td>Vlaanderen/Vlaanderen/Vos</td>&#10;    <td>030</td>&#10;    <td>vs.</td>&#10;    <td>Francik/Barborik/Karasek</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 44</td>&#10;    <td>Balan/Gheorghiescu/Balan</td>&#10;    <td>120</td>&#10;    <td>vs.</td>&#10;    <td>Björklund/Björklund/Malander</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 45</td>&#10;    <td>Enachioiu/Birsan/Mircea</td>&#10;    <td>030</td>&#10;    <td>vs.</td>&#10;    <td>Mcauley/Pass/Macdonald</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 46</td>&#10;    <td>Calzolari/Dionisi/Landi</td>&#10;    <td>030</td>&#10;    <td>vs.</td>&#10;    <td>Knümann/Zilske/Strauß</td>&#10;  </tr>&#10;</tbody></table>

@@ -1,0 +1,240 @@
+---
+id: hc151dtg
+kind: event
+lang: ja
+path: /ja/events/2004/ptkob04ja/deck-choice
+title: Deck Choice
+published: null
+column_slug: null
+column: null
+authors: []
+event_code: ptkob04ja
+detected_lang: ja
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/ptkob04ja/jf1
+    lang_detected: ja
+    capture_id: 1109660
+    url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/ptkob04ja/jf1
+    captured_at: '2009-06-03 19:05:18+00'
+    rule: aspx.article_heading
+  event_code:
+    page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/ptkob04ja/jf1
+    lang_detected: ja
+    capture_id: 1109660
+    url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/ptkob04ja/jf1
+    captured_at: '2009-06-03 19:05:18+00'
+    rule: url.event_code
+sources:
+- document_id: hc151dtg
+  url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/ptkob04ja/jf1
+  page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/ptkob04ja/jf1
+  lang: ja
+  template: aspx
+  captured_at: '2009-06-03 19:05:18+00'
+  capture_id: 1109660
+  wayback_url: https://web.archive.org/web/20090603190518id_/https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/ptkob04ja/jf1
+- document_id: hc151dtg
+  url: http://www.wizards.com/default.asp?x=mtgevent/ptkob04ja/jf1
+  page_key: wizards.com/default.asp?x=mtgevent/ptkob04ja/jf1
+  lang: ja
+  template: classic_asp
+  captured_at: '2004-12-16 06:10:23+00'
+  capture_id: 2100190
+  wayback_url: https://web.archive.org/web/20041216061023id_/http://www.wizards.com/default.asp?x=mtgevent/ptkob04ja/jf1
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: hc151dtg
+  capture_id: 1109660
+  url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/ptkob04ja/jf1
+  wayback_url: https://web.archive.org/web/20090603190518id_/https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/ptkob04ja/jf1
+  captured_at: '2009-06-03 19:05:18+00'
+  template: aspx
+  sha256: 08b147e73370ebdcff96d333b3af768bd6911add574a4c0a4112454b5058a2b0
+render_recovery:
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Frogmite')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Frogmite
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Myr_Enforcer')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Myr Enforcer
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Thoughtcast')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Thoughtcast
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Arcbound_Ravager')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Arcbound Ravager
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Skullclamp')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Skullclamp
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mirrodin[s_Core')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mirrodin 's Core
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Tooth_and_Nail')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Tooth and Nail
+  occurrences: 2
+---
+プロツアー神戸で採用されたレギュレーションは、ミラディンブロック構築。この環境で、単純に最も強いデッキは何だろうか？　おそらく少しでも事情を知っている者ならこう答えるだろう。
+
+親和と。
+
+ミラディンブロックの特徴であるアーティファクトを大量に使用するこのアーキタイプは、ミラディンが発売された直後から世界中で快進撃を成し遂げた。土地でありながらアーティファクトでもある特殊地形を利用し、《金属ガエル/Frogmite》《マイアの処罰者/Myr Enforcer》といった親和(アーティファクト)を素早く場に登場させる。マナの軽減はクリーチャー召還コストだけではなく、一気に消費した手札を補充する《物読み/Thoughtcast》にも及ぶ。
+
+そして、次に発売されたダークスティールがその流れを加速した。１マナ２マナ域を埋めるのに絶好の新メカニズム接合を持ったクリーチャー群。中でも、大量のアーティファクトを貪り食った後に任意の対象に強さを引き継ぐ《電結の荒廃者/Arcbound Ravager》は単純なカードによる対処を困難にさせた。
+
+更に《頭蓋骨絞め/Skullclamp》という無節操に強力な装備品の登場が、このデッキにかつての青緑マッドネスを彷彿とさせるカードドローエンジンを補完してしまった。
+
+強すぎる。かくして、親和系のデッキは各調整チームで最大の仮想的として扱われるに至ったのである。プロツアーでここまで一つのデッキタイプが警戒されたのは、PT NY のレベルデッキ以来ではないだろうか。
+
+ここまで強ければ、皆が親和を使うのでは？  
+ 　  
+ だが、勿論この話はそう簡単には終わらない。余りに強力すぎる一つのデッキは明確なマイルストーンとして扱われるがために、容易にアンチデッキの登場へと繋がるからだ。
+
+例えば会場の八割が親和を使うのなら、親和にさえ勝てればデッキとして存在できるのである。例えメインボードで他のデッキに勝てないとしても。そこまで極端に仕上げなくても、ある程度親和に耐性を持つデッキであれば、十分に成績が期待できる。
+
+ここで駆け引きが始まるのだ。親和か、アンチ親和か。そして更にはアンチアンチ親和なんてものまでが登場する。参加する選手の誰もが疑心暗鬼に苛まれながら、魂の全てを振り絞ってデッキの選択に苦悩する。
+
+だからこそ、彼らが選んだデッキを見るのは面白い。  
+ 他人の苦悩は蜜の味だ。  
+ 　  
+ 前置きが長くなった。それでは、まず日本勢のデッキチョイスを調整チーム毎にまとめてみよう。ただし、デッキ内容の詳細部分については、翌日掲載されるデッキリストを参照して欲しい。
+
+### 列島連合　赤緑コントロール
+
+  
+ ![](https://www.wizards.com/sideboard/images/ptkob04/jf1_2.jpg)　  
+ 石田格、岡本尋、池田剛、平林和哉、西脇、野瀬、甲斐、逢坂  
+ 　  
+ 北は北海道から南は九州まで最も広範囲の調整グループとなったのがこのコロニーだ。石田が最終調整に持ち込んだ赤単のアンチ親和デッキを原型に、緑をタッチしている。
+
+平林「オリジナルで白緑を作ってたんだけど、逢坂とやったら十連敗ぐらいしたんで、乗り換えました。」
+
+### 大阪　赤バーン
+
+  
+ 　  
+ 藤田剛史、藤田修、森田雅彦、阿南剛、長岡、黒田、広澤、中野  
+ 　  
+ 藤田剛史をメインブレーンに作成したのが、今回採用した赤バーンデッキだ。
+
+藤田剛史「最強は親和やけど、ミラーマッチが余りにつまらなくて。で、単色デッキを調整してたら、自然とバーンになった。それというのも、《ミラディンの核/*Mirrodin*'s Core》が弱かったからなんやけど。親和には五割ぐらいで、他の赤系デッキにはちょい有利かな。」
+
+### 浅原一人連合　《歯と爪/Tooth and Nail》
+
+  
+ 　  
+ 浅原晃
+
+数日前に、MSN で会話した時にも大会の親和率を相当気にしていた浅原。悩んだ末に今回のデッキを強引に採用している。
+
+浅原晃「色々作ったんですけど、他が今ひとつで。」  
+ ＳＢＪ「親和が少ないっていう確信があったの？」  
+ 浅原晃「あります（笑）」  
+ 　  
+ 更に苦笑しながら、  
+ 　  
+ 浅原晃「親和はベスト８に残りませんよ！（笑）」
+
+### ヤソコン愛好チーム　ヤソコン
+
+  
+ ![](https://www.wizards.com/sideboard/images/ptkob04/jf1_1.jpg)  
+ 　  
+ 八十岡翔太、田中久也  
+ 　  
+ ヤソコンとは、八十岡が作るマニアックなコントロールデッキの愛称だ。今回もその名に相応しい赤以外の四色を採用した強引なコントロールデッキに仕上がっている。
+
+田中久也「他のデッキが柄にあってなくて。で、ヤソのデッキが臭いっていう噂を聞いたんで（笑）。でも、ヤソのデッキとは相性がいいんですよ。」
+
+### ルーキーズ　親和
+
+  
+ 　  
+ 大礒正嗣、森勝洋、上野一樹  
+ 　  
+ 森勝弘に大磯という二人の Rookie of the year を抱えたこのチームは黒緑の親和系アンチ親和デッキを採用している。  
+ 　  
+ 森勝洋「これしかない！」
+
+### 東京勢　赤緑コントロール
+
+  
+ 　  
+ 横須賀、鍛冶、小室修、志村  
+ 　  
+ 彼らもまたアンチ親和を選択した一派だ。全員が同時多発的に同型のデッキを調整していたということで、そのまま全員でデッキを練り上げての参戦。
+
+### 番外　親和
+
+  
+ 　  
+ 藤田憲一「早く麻雀しにいこうぜ！」  
+ 　  
+ では、海外勢はどんなデッキを選択したのだろうか。前述の PT NY では Blue Sky 、PT 東京では Zvi のソリューションとこれまで幾つもの、あっと驚く秘密兵器が登場しているが、今回もその開発が間に合ったのだろうか。取りあえずは、デッキタイプ毎に選択者を記しておこう。
+
+### 親和
+
+  
+ 　  
+ アメリカ勢の多くは、親和系デッキをもって日本を訪れた。YMG や CMU-TOGIT といったチームの大半がこの王道デッキを採用している。
+
+Brian Kibler、Darwin Kastle、Michael Turian、Eugene Harvey、Ben Rubin、Gary Wise、Gabe Walls
+
+### 赤バーン
+
+  
+ ![](https://www.wizards.com/sideboard/images/ptkob04/jf1_3.jpg)
+
+大阪勢のデッキと非常によく似たデッキ。ドイツ勢の多くがこれを採用している。
+
+Kai Budde、Dirk Baberowski、Jordan Berkowitz  
+ 　  
+
+### 緑コントロール
+
+  
+ 　  
+ フランス勢に加え、交友関係にある Romao といった面々は緑単色のコントロールデッキを採用。浅原と同じように《歯と爪/Tooth and Nail》を採用しているのが特徴的だ。
+
+Oliver Ruel、Antonio Ruel、Laphael Levy、Gabriel Nassif、Carlos Romao
+
+### 赤緑コントロール
+
+列島連合に似たビルド。
+
+Nicolai Herzog、David Williams

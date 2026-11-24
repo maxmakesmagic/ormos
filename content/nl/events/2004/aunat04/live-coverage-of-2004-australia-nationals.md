@@ -1,0 +1,50 @@
+---
+id: kr3k4gwg
+kind: event
+lang: nl
+path: /nl/events/2004/aunat04/live-coverage-of-2004-australia-nationals
+title: Live Coverage of 2004 Australia Nationals
+published: null
+column_slug: null
+column: null
+authors: []
+event_code: aunat04
+detected_lang: nl
+metadata_evidence:
+  title:
+    page_key: wizards.com/default.asp?x=mtgevent/aunat04/pair2
+    lang_detected: nl
+    capture_id: 2030910
+    url: http://www.wizards.com/default.asp?x=mtgevent/aunat04/pair2
+    captured_at: '2005-11-13 00:52:32+00'
+    rule: html.title
+  event_code:
+    page_key: wizards.com/default.asp?x=mtgevent/aunat04/pair2
+    lang_detected: nl
+    capture_id: 2030910
+    url: http://www.wizards.com/default.asp?x=mtgevent/aunat04/pair2
+    captured_at: '2005-11-13 00:52:32+00'
+    rule: url.event_code
+sources:
+- document_id: kr3k4gwg
+  url: http://www.wizards.com/default.asp?x=mtgevent/aunat04/pair2
+  page_key: wizards.com/default.asp?x=mtgevent/aunat04/pair2
+  lang: nl
+  template: classic_asp
+  captured_at: '2005-11-13 00:52:32+00'
+  capture_id: 2030910
+  wayback_url: https://web.archive.org/web/20051113005232id_/http://www.wizards.com/default.asp?x=mtgevent/aunat04/pair2
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: kr3k4gwg
+  capture_id: 2030910
+  url: http://www.wizards.com/default.asp?x=mtgevent/aunat04/pair2
+  wayback_url: https://web.archive.org/web/20051113005232id_/http://www.wizards.com/default.asp?x=mtgevent/aunat04/pair2
+  captured_at: '2005-11-13 00:52:32+00'
+  template: classic_asp
+  sha256: f41ede0b75133328f7469d905ae3c4f916692282bb107950406f8f02f1d04164
+render_recovery: []
+---
+* * *
+
+<table><tbody><tr><td><a href="/nl/events/2004/aunat04/live-coverage-of-2004-australia-nationals"><b>Table</b></a></td>&#10;<td><a href="/nl/events/2004/aunat04/live-coverage-of-2004-australia-nationals"><b>Player</b></a></td>&#10;<td><a href="/nl/events/2004/aunat04/live-coverage-of-2004-australia-nationals"></a></td>&#10;<td><a href="/nl/events/2004/aunat04/live-coverage-of-2004-australia-nationals"><b>Opponent</b></a></td>&#10;</tr>&#10;<tr><td>1</td>&#10;<td>Gall, Tristan</td>&#10;<td>vs.</td>&#10;<td>Otway, Michael</td>&#10;</tr>&#10;<tr><td>2</td>&#10;<td>Shanley, Glenn</td>&#10;<td>vs.</td>&#10;<td>Romans, Gregory</td>&#10;</tr>&#10;<tr><td>3</td>&#10;<td>Rimmer, Adrian</td>&#10;<td>vs.</td>&#10;<td>Trevilyan, Bryce</td>&#10;</tr>&#10;<tr><td>4</td>&#10;<td>Corney, Andrew</td>&#10;<td>vs.</td>&#10;<td>Tan, Allen Boon Hor</td>&#10;</tr>&#10;<tr><td>5</td>&#10;<td>Dadon, Jerome</td>&#10;<td>vs.</td>&#10;<td>He, Tim</td>&#10;</tr>&#10;<tr><td>6</td>&#10;<td>Puszet, Jarron</td>&#10;<td>vs.</td>&#10;<td>Whitby, Jason M</td>&#10;</tr>&#10;<tr><td>7</td>&#10;<td>Brown, Alex</td>&#10;<td>vs.</td>&#10;<td>Chamberlain, David</td>&#10;</tr>&#10;<tr><td>8</td>&#10;<td>Coltman, Dane</td>&#10;<td>vs.</td>&#10;<td>Helsby, David</td>&#10;</tr>&#10;<tr><td>9</td>&#10;<td>Yuill, Ben C</td>&#10;<td>vs.</td>&#10;<td>Joseph, Matthew</td>&#10;</tr>&#10;<tr><td>10</td>&#10;<td>Fleming, Ben</td>&#10;<td>vs.</td>&#10;<td>Connolly, Joe</td>&#10;</tr>&#10;<tr><td>11</td>&#10;<td>Ho, Wai Kit</td>&#10;<td>vs.</td>&#10;<td>Kinkade, Jay</td>&#10;</tr>&#10;<tr><td>12</td>&#10;<td>Stoddart, Thomas</td>&#10;<td>vs.</td>&#10;<td>Anthon, Matthew</td>&#10;</tr>&#10;<tr><td>13</td>&#10;<td>Dalliston, Shane</td>&#10;<td>vs.</td>&#10;<td>Neeman, Jeremy</td>&#10;</tr>&#10;<tr><td>14</td>&#10;<td>Aitchison, Christopher</td>&#10;<td>vs.</td>&#10;<td>Nadebaum, Rob</td>&#10;</tr>&#10;<tr><td>15</td>&#10;<td>Diprose, Jason</td>&#10;<td>vs.</td>&#10;<td>Evans, Merlyn R</td>&#10;</tr>&#10;<tr><td>16</td>&#10;<td>Brown, Clarrie</td>&#10;<td>vs.</td>&#10;<td>Cowley, Dane</td>&#10;</tr>&#10;<tr><td>17</td>&#10;<td>Chai, Terry</td>&#10;<td>vs.</td>&#10;<td>Nadebaum, Chris</td>&#10;</tr>&#10;<tr><td>18</td>&#10;<td>Robertson, Patty</td>&#10;<td>vs.</td>&#10;<td>Hay, Tom</td>&#10;</tr>&#10;<tr><td>19</td>&#10;<td>Dunphy, Adam G</td>&#10;<td>vs.</td>&#10;<td>Wittmann, Christopher</td>&#10;</tr>&#10;<tr><td>20</td>&#10;<td>Varga, Andrew</td>&#10;<td>vs.</td>&#10;<td>Allen, Chris</td>&#10;</tr>&#10;<tr><td>21</td>&#10;<td>Kotchoff, Michael B</td>&#10;<td>vs.</td>&#10;<td>Smith, Scott</td>&#10;</tr>&#10;<tr><td>22</td>&#10;<td>Barnes, Aaron</td>&#10;<td>vs.</td>&#10;<td>West, Justin</td>&#10;</tr>&#10;<tr><td>23</td>&#10;<td>Barlow, Russell</td>&#10;<td>vs.</td>&#10;<td>Zhang, James</td>&#10;</tr>&#10;<tr><td>24</td>&#10;<td>Twigg, Thomas</td>&#10;<td>vs.</td>&#10;<td>gleeson, tyson</td>&#10;</tr>&#10;<tr><td>25</td>&#10;<td>Wong, Gabriel</td>&#10;<td>vs.</td>&#10;<td>Lightfoot, Anatoli</td>&#10;</tr>&#10;<tr><td>26</td>&#10;<td>Chen, Cameron T</td>&#10;<td>vs.</td>&#10;<td>Goding, Kris</td>&#10;</tr>&#10;<tr><td>27</td>&#10;<td>Schafer, Ross</td>&#10;<td>vs.</td>&#10;<td>Pirie, James</td>&#10;</tr>&#10;<tr><td>28</td>&#10;<td>Turner, Daniel</td>&#10;<td>vs.</td>&#10;<td>Barrington, Lawrence</td>&#10;</tr>&#10;<tr><td>29</td>&#10;<td>Yip, Winston</td>&#10;<td>vs.</td>&#10;<td>Hart, Jake</td>&#10;</tr>&#10;<tr><td>30</td>&#10;<td>Ruan, Yi-Fei</td>&#10;<td>vs.</td>&#10;<td>Brugman, John</td>&#10;</tr>&#10;<tr><td>31</td>&#10;<td>Dao, Michael</td>&#10;<td>vs.</td>&#10;<td>Tai, Timothy</td>&#10;</tr>&#10;<tr><td>32</td>&#10;<td>Cubit, Ryan</td>&#10;<td>vs.</td>&#10;<td>Steele, Wayne</td>&#10;</tr>&#10;<tr><td>33</td>&#10;<td>Burrowes, Alex</td>&#10;<td>vs.</td>&#10;<td>Smith, Hayden</td>&#10;</tr>&#10;<tr><td>34</td>&#10;<td>Schieffer, Paul</td>&#10;<td>vs.</td>&#10;<td>Seck, Ben</td>&#10;</tr>&#10;<tr><td>35</td>&#10;<td>Lo, Dominic</td>&#10;<td>vs.</td>&#10;<td>Reeve, Mark</td>&#10;</tr>&#10;<tr><td>36</td>&#10;<td>pitman, jean-paul</td>&#10;<td>vs.</td>&#10;<td>Rayson, Shawn</td>&#10;</tr>&#10;<tr><td>37</td>&#10;<td>Copeman, Will</td>&#10;<td>vs.</td>&#10;<td>Clohessy, Patrick</td>&#10;</tr>&#10;<tr><td>38</td>&#10;<td>Vincent, James</td>&#10;<td>vs.</td>&#10;<td>Crewe, David</td>&#10;</tr>&#10;<tr><td>39</td>&#10;<td>Norton, Mark</td>&#10;<td>vs.</td>&#10;<td>Graham, Christopher</td>&#10;</tr>&#10;<tr><td>40</td>&#10;<td>Doecke, Michael T</td>&#10;<td>vs.</td>&#10;<td>Grain, Andrew</td>&#10;</tr>&#10;<tr><td>41</td>&#10;<td>Henry, Simon</td>&#10;<td>vs.</td>&#10;<td>Hunstad, Scott</td>&#10;</tr>&#10;<tr><td>42</td>&#10;<td>Hau, Keh-Gan</td>&#10;<td>vs.</td>&#10;<td>Jiang, Shun</td>&#10;</tr>&#10;<tr><td>43</td>&#10;<td>Kelly, John-Paul</td>&#10;<td>vs.</td>&#10;<td>Gordon, Andrew</td>&#10;</tr>&#10;<tr><td>44</td>&#10;<td>Giblett, Craig</td>&#10;<td>vs.</td>&#10;<td>Mueller-Cajar, Oliver</td>&#10;</tr>&#10;<tr><td>45</td>&#10;<td>Park, Hyun-woo</td>&#10;<td>vs.</td>&#10;<td>Witton, Adam</td>&#10;</tr>&#10;<tr><td>46</td>&#10;<td>Xu, Shi Wei</td>&#10;<td>vs.</td>&#10;<td>Scriven, Jarrod T</td>&#10;</tr>&#10;<tr><td>47</td>&#10;<td>McPherson, Scott</td>&#10;<td>vs.</td>&#10;<td>Haddy, Tom A</td>&#10;</tr>&#10;<tr><td>48</td>&#10;<td>chonka, dwaine j</td>&#10;<td>vs.</td>&#10;<td>Belani, Jitendra</td>&#10;</tr>&#10;<tr><td>49</td>&#10;<td>Berger, Ernie</td>&#10;<td>vs.</td>&#10;<td>Zhang, Jacky</td>&#10;</tr>&#10;<tr><td>50</td>&#10;<td>Zhao, David</td>&#10;<td>vs.</td>&#10;<td>O'Bree, Gary</td>&#10;</tr>&#10;<tr><td>51</td>&#10;<td>Wong, Julian</td>&#10;<td>vs.</td>&#10;<td>Chamberlain, Paul</td>&#10;</tr>&#10;<tr><td>52</td>&#10;<td>nicastri, aaron</td>&#10;<td>vs.</td>&#10;<td>Wiltshire, Scott</td>&#10;</tr>&#10;<tr><td>53</td>&#10;<td>Bright, Jarrod</td>&#10;<td>vs.</td>&#10;<td>Musolino, Dominic A</td>&#10;</tr>&#10;<tr><td>54</td>&#10;<td>Pham, Hieu</td>&#10;<td>vs.</td>&#10;<td>Restel, Sven</td>&#10;</tr>&#10;<tr><td>55</td>&#10;<td>Pigram, Wayne</td>&#10;<td>vs.</td>&#10;<td>Light, Jens</td>&#10;</tr>&#10;</tbody></table>

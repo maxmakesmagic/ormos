@@ -1,0 +1,81 @@
+---
+id: 4n45sqa6
+kind: article
+lang: en
+path: /en/articles/feature/2013/08-01-best-of-five
+title: Best of Five
+published: '2013-08-01'
+column_slug: feature
+column: Feature
+authors:
+- slug: nate-price-0a72a9e2
+  name: Nate Price
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/best-five-2013-08-01
+    lang_detected: en
+    capture_id: 226364
+    url: https://magic.wizards.com/en/articles/archive/best-five-2013-08-01
+    captured_at: '2021-12-05 22:50:28+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/best-five-2013-08-01
+    lang_detected: en
+    capture_id: 226364
+    url: https://magic.wizards.com/en/articles/archive/best-five-2013-08-01
+    captured_at: '2021-12-05 22:50:28+00'
+    rule: drupal.posted_in_date
+  authors:
+    page_key: magic.wizards.com/en/articles/archive/best-five-2013-08-01
+    lang_detected: en
+    capture_id: 226364
+    url: https://magic.wizards.com/en/articles/archive/best-five-2013-08-01
+    captured_at: '2021-12-05 22:50:28+00'
+    rule: drupal.div_author
+  column:
+    page_key: magic.wizards.com/en/articles/archive/best-five-2013-08-01
+    lang_detected: en
+    capture_id: 226364
+    url: https://magic.wizards.com/en/articles/archive/best-five-2013-08-01
+    captured_at: '2021-12-05 22:50:28+00'
+    rule: drupal.posted_in_link
+    registry_match: registry.explicit
+sources:
+- document_id: 4n45sqa6
+  url: https://magic.wizards.com/en/articles/archive/best-five-2013-08-01
+  page_key: magic.wizards.com/en/articles/archive/best-five-2013-08-01
+  lang: en
+  template: drupal
+  captured_at: '2021-12-05 22:50:28+00'
+  capture_id: 226364
+  wayback_url: https://web.archive.org/web/20211205225028id_/https://magic.wizards.com/en/articles/archive/best-five-2013-08-01
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 4n45sqa6
+  capture_id: 226364
+  url: https://magic.wizards.com/en/articles/archive/best-five-2013-08-01
+  wayback_url: https://web.archive.org/web/20211205225028id_/https://magic.wizards.com/en/articles/archive/best-five-2013-08-01
+  captured_at: '2021-12-05 22:50:28+00'
+  template: drupal
+  sha256: 90c0f227e76e26c84fc1e34b5e5be75d7cb8e9fcef67ccb9a91964ae4754432e
+render_recovery: []
+---
+I love speaking to people about their thought processes when building and selecting decks for a given tournament. There are so many factors to take into account that the process can be very daunting, and I feel that it's one of the areas of the game that creates the most mistakes in a tournament. Incorrectly reading the metagame, incorrectly assessing the power level of a card in a given matchup, failing to take into account the importance of sideboards...the list of potential pitfalls is epically large. And it isn't as though only amateur players make this mistake. We see it at every Pro Tour. Players show up expecting their deck to be ideal for the tournament only to discover that they were wrong for one reason or another. It's a separate game unto itself.
+
+One of the more interesting considerations that the World Championship brings is the format of the event itself. After playing twelve rounds of best-of-three matches, the Top 4 players will be battling their Modern decks against one another in best-of-five series to determine the World Champion. This shift, though seemingly minor, has major implications for the players who choose to think about them.
+
+"We chose our Modern deck for a very specific reason," Martin Juza explained to me. He and his team of Stanislav Cifka, Shuhei Nakamura, Yuuya Watanabe, and Ben Stark all came to this tournament running UWR Flash in both Standard and Modern. Their decision to do so wasn't necessarily based on the fact that they felt that Flash was the best deck in Modern.
+
+![](http://media.wizards.com/legacy/mtg/images/daily/events/wc13/5players.jpg)  
+*Five players banded together to find the perfect deck for the 2013 *Magic* World Championship's best-of-five Top 4 rounds. Their choice for three best-of-three rounds and potentially two best-of-five rounds of Modern? Blue-White-Red flash.* 
+
+"We felt this deck had the best sideboard in Modern, and we wanted to take advantage of that through the Top 4 rounds," he explained. "Winning this tournament is what matters the most, and we made our decisions based on that. Since the Top 4 is Modern, and it is best-of-five, we wanted to play the deck that presented the best 60 cards for the largest number of games. Flash has the best sideboard, so we played Flash."
+
+Looking at their sideboards, it's easy to see why Juza and the rest were so excited. There are answers for virtually everything they could face, and most of the sideboard cards are instants or sorceries. Thanks to [Snapcaster Mage](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Snapcaster+Mage), they all have even more play in the matchups that matter. You have cards like [Hallowed Burial](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hallowed+Burial) against the green decks and their [Thrun, the Last Troll](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Thrun%2C+the+Last+Troll). There's [Dispel](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dispel) against the other decks with [Island](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Island)s. There's [Shadow of Doubt](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shadow+of+Doubt) against [Scapeshift](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Scapeshift). The list goes on and on.
+
+"I honestly think that this deck has better than 50% matchups against every deck in the field after Game 1," Juza admitted. "Every card in the sideboard is so good, and [Snapcaster Mage](https://web.archive.org/web/20130801000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Snapcaster+Mage) makes them even better. You aren't siding in two cards. With Snapcaster, you're effectively siding in six."
+
+Deck selection for a tournament like the 2013 *Magic* World Championship can be difficult. Every match win matters, so you obviously want to play a deck that you feel is going to be able to win. Yet having a deck that is "good against the field" matters far more when you are going to be playing for fifteen rounds, not three. As such, most players made their deck selections based more on how comfortable they are with it than anything else.
+
+That's what makes Juza and crew's decision all the more interesting. Eschewing the conventional wisdom of either playing a deck that you know well or know is good against the field, they chose a deck that performs well given the structure of the tournament. Not a common criterion used in deck selection, but a critical one here at the very uniquely structured World Championship.

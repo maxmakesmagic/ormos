@@ -1,0 +1,56 @@
+---
+id: q4kcsgce
+kind: event
+lang: en
+path: /en/events/2002/ptbos02/round-1-pairings
+title: Round 1 Pairings
+published: null
+column_slug: null
+column: null
+authors: []
+event_code: ptbos02
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/article.aspx?x=sideboard/ptbos02/pair1
+    lang_detected: en
+    capture_id: 880491
+    url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/ptbos02/pair1
+    captured_at: '2013-07-02 06:56:30+00'
+    rule: aspx.article_heading
+  event_code:
+    page_key: wizards.com/magic/magazine/article.aspx?x=sideboard/ptbos02/pair1
+    lang_detected: en
+    capture_id: 880491
+    url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/ptbos02/pair1
+    captured_at: '2013-07-02 06:56:30+00'
+    rule: url.event_code
+sources:
+- document_id: q4kcsgce
+  url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/ptbos02/pair1
+  page_key: wizards.com/magic/magazine/article.aspx?x=sideboard/ptbos02/pair1
+  lang: en
+  template: aspx
+  captured_at: '2013-07-02 06:56:30+00'
+  capture_id: 880491
+  wayback_url: https://web.archive.org/web/20130702065630id_/http://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/ptbos02/pair1
+- document_id: q4kcsgce
+  url: http://www.wizards.com/default.asp?x=sideboard/ptbos02/pair1
+  page_key: wizards.com/default.asp?x=sideboard/ptbos02/pair1
+  lang: en
+  template: classic_asp
+  captured_at: '2009-06-04 08:38:53+00'
+  capture_id: 2356787
+  wayback_url: https://web.archive.org/web/20090604083853id_/http://www.wizards.com/default.asp?x=sideboard/ptbos02/pair1
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: q4kcsgce
+  capture_id: 880491
+  url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/ptbos02/pair1
+  wayback_url: https://web.archive.org/web/20130702065630id_/http://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/ptbos02/pair1
+  captured_at: '2013-07-02 06:56:30+00'
+  template: aspx
+  sha256: 5521ea0e233cae7d63bc2a5b46dde2c8446788c9392b1759aafffaedb1fb3e16
+render_recovery: []
+---
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <a href="/en/events/2002/ptbos02/round-1-pairings">&#10;        <b>Team</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/en/events/2002/ptbos02/round-1-pairings">&#10;        <b>&#10;      </b></a><b>&#10;    </b></td>&#10;    <td>&#10;      <a href="/en/events/2002/ptbos02/round-1-pairings">&#10;        <b>Opponent</b>&#10;      </a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td> 1</td>&#10;    <td>Cream Foundation</td>&#10;    <td>vs</td>&#10;    <td>Slay Pillage Gerard</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 2</td>&#10;    <td>RIW Hobbies</td>&#10;    <td>vs</td>&#10;    <td>Team One Point - Magicville</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 3</td>&#10;    <td>Team Trinity</td>&#10;    <td>vs</td>&#10;    <td>Two Kyle's and a Romanian</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 4</td>&#10;    <td>Unchain</td>&#10;    <td>vs</td>&#10;    <td>Attack Time</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 5</td>&#10;    <td>Rumledunk</td>&#10;    <td>vs</td>&#10;    <td>Cyanide</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 6</td>&#10;    <td>strategyproducts.com</td>&#10;    <td>vs</td>&#10;    <td>Lasse er en abe</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 7</td>&#10;    <td>Axis &amp; Allies</td>&#10;    <td>vs</td>&#10;    <td>Pro Job</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 8</td>&#10;    <td>No Yaburon</td>&#10;    <td>vs</td>&#10;    <td>Potato Foundation</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 9</td>&#10;    <td>CCGHouse.com</td>&#10;    <td>vs</td>&#10;    <td>Road To Bearscape</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 10</td>&#10;    <td>Bandana</td>&#10;    <td>vs</td>&#10;    <td>Sports Bench</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 11</td>&#10;    <td>A to Z Comics</td>&#10;    <td>vs</td>&#10;    <td>Team Bjorksele</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 12</td>&#10;    <td>Inferior Human-Control Slim</td>&#10;    <td>vs</td>&#10;    <td>The Flaming Gambit</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 13</td>&#10;    <td>The Castle</td>&#10;    <td>vs</td>&#10;    <td>Togit</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 14</td>&#10;    <td>Eurotrash</td>&#10;    <td>vs</td>&#10;    <td>To The Bar</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 15</td>&#10;    <td>Green Monsters II</td>&#10;    <td>vs</td>&#10;    <td>S.S.D.</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 16</td>&#10;    <td>Turbo Petravark!</td>&#10;    <td>vs</td>&#10;    <td>JBL</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 17</td>&#10;    <td>The Rock and his DragonCon</td>&#10;    <td>vs</td>&#10;    <td>JJJ</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 18</td>&#10;    <td>Hoodwink</td>&#10;    <td>vs</td>&#10;    <td>Righteous Babe</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 19</td>&#10;    <td>Team Rat Cave</td>&#10;    <td>vs</td>&#10;    <td>CardShark</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 20</td>&#10;    <td>Lnt Chovchen</td>&#10;    <td>vs</td>&#10;    <td>Token European</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 21</td>&#10;    <td>Hobby One</td>&#10;    <td>vs</td>&#10;    <td>LNT Anthology</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 22</td>&#10;    <td>Swedish Meatballs</td>&#10;    <td>vs</td>&#10;    <td>www.gimmoire.com</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 23</td>&#10;    <td>Sol Malka Fan Club</td>&#10;    <td>vs</td>&#10;    <td>Goldmember</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 24</td>&#10;    <td>Illuminaughty</td>&#10;    <td>vs</td>&#10;    <td>604</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 25</td>&#10;    <td>Stalking Tiger Hidden Gibbon</td>&#10;    <td>vs</td>&#10;    <td>Turbo Petradon</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 26</td>&#10;    <td>Your Enemy</td>&#10;    <td>vs</td>&#10;    <td>Panzer Hunter</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 27</td>&#10;    <td>Fellowship of the Ting</td>&#10;    <td>vs</td>&#10;    <td>Illuminati</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 28</td>&#10;    <td>Evil Inc</td>&#10;    <td>vs</td>&#10;    <td>Hood Rich</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 29</td>&#10;    <td>YourMoveGames.com</td>&#10;    <td>vs</td>&#10;    <td>Los Miserable</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 30</td>&#10;    <td>Domestic Affairs</td>&#10;    <td>vs</td>&#10;    <td>Nicht penneu</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 31</td>&#10;    <td>Wood</td>&#10;    <td>vs</td>&#10;    <td>B. Symposium</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 32</td>&#10;    <td>Raw Dogs</td>&#10;    <td>vs</td>&#10;    <td>On the stack?? What's that??</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 33</td>&#10;    <td>Berlin Magic Foundation</td>&#10;    <td>vs</td>&#10;    <td>Unemployed</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 34</td>&#10;    <td>Damokles</td>&#10;    <td>vs</td>&#10;    <td>Absolute Samuels</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 35</td>&#10;    <td>Hato Beeam</td>&#10;    <td>vs</td>&#10;    <td>Courtney's Boys</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 36</td>&#10;    <td>The Janitor All Stars</td>&#10;    <td>vs</td>&#10;    <td>Super Smash Bros</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 37</td>&#10;    <td>N.G.O.K.</td>&#10;    <td>vs</td>&#10;    <td>The Jokas</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 38</td>&#10;    <td>?</td>&#10;    <td>vs</td>&#10;    <td>Galactus Team</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 39</td>&#10;    <td>Monster Rod</td>&#10;    <td>vs</td>&#10;    <td>Lovin' Spoonful</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 40</td>&#10;    <td>Latins Strike Back</td>&#10;    <td>vs</td>&#10;    <td>A Century of Mediocrity</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 41</td>&#10;    <td>Team Guam</td>&#10;    <td>vs</td>&#10;    <td>Burn Your Own Dog</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 42</td>&#10;    <td>Superstars</td>&#10;    <td>vs</td>&#10;    <td>Tired Lost Souls</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 43</td>&#10;    <td>Team Tank Top</td>&#10;    <td>vs</td>&#10;    <td>Cause 4 Concern</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 44</td>&#10;    <td>Magic Mushrooms</td>&#10;    <td>vs</td>&#10;    <td>2614WB93</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 45</td>&#10;    <td>Phoenix Foundation</td>&#10;    <td>vs</td>&#10;    <td>Angstschreeuw</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 46</td>&#10;    <td>Axis</td>&#10;    <td>vs</td>&#10;    <td>Ziegler</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 47</td>&#10;    <td>www.star-maker.nl/lap</td>&#10;    <td>vs</td>&#10;    <td>2020</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 48</td>&#10;    <td>Intl (Fungusaur) Conspiracy</td>&#10;    <td>vs</td>&#10;    <td>Team Outland 2002</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 49</td>&#10;    <td>Games Den Team</td>&#10;    <td>vs</td>&#10;    <td>TBS Affiliates</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 50</td>&#10;    <td>Plan 9 From Outland</td>&#10;    <td>vs</td>&#10;    <td>Outta Left Field</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 51</td>&#10;    <td>www.shop-fireball.com</td>&#10;    <td>vs</td>&#10;    <td>TOGIT Connection</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 52</td>&#10;    <td>Robber Fly Terror Corps</td>&#10;    <td>vs</td>&#10;    <td>www.cartamagica.com</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 53</td>&#10;    <td>Your Move Games</td>&#10;    <td>vs</td>&#10;    <td>SpielRaum.co.at</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 54</td>&#10;    <td>De Eendjes</td>&#10;    <td>vs</td>&#10;    <td>The Ancient Kavus</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 55</td>&#10;    <td>Scarecrow</td>&#10;    <td>vs</td>&#10;    <td>D.D. Hamu</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 56</td>&#10;    <td>Team Hikiniku</td>&#10;    <td>vs</td>&#10;    <td>Heffern &amp; the Cutco Allstars</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 57</td>&#10;    <td>Ubermenschen</td>&#10;    <td>vs</td>&#10;    <td>Nameless Race</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 58</td>&#10;    <td>Claim off Waivers</td>&#10;    <td>vs</td>&#10;    <td>Taller Smaller and Mauler</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 59</td>&#10;    <td>Huey Brock and Linde</td>&#10;    <td>vs</td>&#10;    <td>www.mtgplanet.com</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 60</td>&#10;    <td>Caçadores da Xavaska Perdida</td>&#10;    <td>vs</td>&#10;    <td>Deadguy</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>Two Ch Bears And A D Mouse</td>&#10;    <td>&#10;    </td><td>* BYE *</td>&#10;  </tr>&#10;</tbody></table>

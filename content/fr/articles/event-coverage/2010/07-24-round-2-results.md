@@ -1,0 +1,47 @@
+---
+id: kq8n7zfp
+kind: event
+lang: fr
+path: /fr/articles/event-coverage/2010/07-24-round-2-results
+title: Round 2 Results
+published: '2010-07-24'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: fr
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-2-results-2010-07-24
+    lang_detected: fr
+    capture_id: 520250
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-2-results-2010-07-24
+    captured_at: '2022-05-17 18:47:27+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-2-results-2010-07-24
+    lang_detected: fr
+    capture_id: 520250
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-2-results-2010-07-24
+    captured_at: '2022-05-17 18:47:27+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: kq8n7zfp
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-2-results-2010-07-24
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/round-2-results-2010-07-24
+  lang: fr
+  template: drupal
+  captured_at: '2022-05-17 18:47:27+00'
+  capture_id: 520250
+  wayback_url: https://web.archive.org/web/20220517184727id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-2-results-2010-07-24
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: kq8n7zfp
+  capture_id: 520250
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-2-results-2010-07-24
+  wayback_url: https://web.archive.org/web/20220517184727id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-2-results-2010-07-24
+  captured_at: '2022-05-17 18:47:27+00'
+  template: drupal
+  sha256: 05f9e1391101f9540239d89c2535322843b15f10aeef4c4c174df9185e240e40
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Result</b></td><td><b>&#10;						</b></td><td><b>Opponent</b></td></tr><tr><td> 1</td><td>Xie, Charles [CAN]</td><td>Won 2-0</td><td>vs.</td><td>Toussaint, Francis [CAN]</td></tr><tr><td> 2</td><td>Yoon, Jonathan [CAN]</td><td>Lost 0-2</td><td>vs.</td><td>Tharmaratnam, Samuel [CAN]</td></tr><tr><td> 3</td><td>Wasson, John P [CAN]</td><td>Lost 1-2</td><td>vs.</td><td>Gauthier, Martin-Eric [CAN]</td></tr><tr><td> 4</td><td>Culligan, Michael J [CAN]</td><td>Won 2-1</td><td>vs.</td><td>Elarar, Jasar S [CAN]</td></tr><tr><td> 5</td><td>Reynolds, Allen [CAN]</td><td>Lost 1-2</td><td>vs.</td><td>Gaudreault, Eric [CAN]</td></tr><tr><td> 6</td><td>Olsen, Andrew [CAN]</td><td>Lost 1-2</td><td>vs.</td><td>Boyce, Aaron L [CAN]</td></tr><tr><td> 7</td><td>Long, Noah S [CAN]</td><td>Won 2-1</td><td>vs.</td><td>Alarie, Sebastien [CAN]</td></tr><tr><td> 8</td><td>blaschek, stuart [CAN]</td><td>Won 2-1</td><td>vs.</td><td>Gardiner, Steven [CAN]</td></tr><tr><td> 9</td><td>Samms, Phil [CAN]</td><td>Won 2-1</td><td>vs.</td><td>Vasovski, Mike [CAN]</td></tr><tr><td> 10</td><td>MacKinnon, Paul [CAN]</td><td>Won 2-0</td><td>vs.</td><td>Santa, Richard [CAN]</td></tr><tr><td> 11</td><td>Moore, Grayson R [CAN]</td><td>Won 2-1</td><td>vs.</td><td>Galves, Victor S [CAN]</td></tr><tr><td> 12</td><td>Patelakis, Steve [CAN]</td><td>Lost 0-2</td><td>vs.</td><td>Kramer, Daniel [CAN]</td></tr><tr><td> 13</td><td>DEAN, PAUL [CAN]</td><td>Lost 0-2</td><td>vs.</td><td>Maynard, Pascal [CAN]</td></tr><tr><td> 14</td><td>Ketita, Nassim [CAN]</td><td>Won 2-0</td><td>vs.</td><td>Stern, Jon [CAN]</td></tr><tr><td> 15</td><td>Buchar, Marco L [CAN]</td><td>Won 2-0</td><td>vs.</td><td>Ingram, Michael F [CAN]</td></tr><tr><td> 16</td><td>Moulton, Jesse C [CAN]</td><td>Won 2-1</td><td>vs.</td><td>Archdekin, Jamie C [CAN]</td></tr><tr><td> 17</td><td>Anderson, Robert A [CAN]</td><td>Lost 0-2</td><td>vs.</td><td>Caplan, David M [CAN]</td></tr><tr><td> 18</td><td>Bower, Devin D [CAN]</td><td>Won 2-0</td><td>vs.</td><td>Naylor, Jamie [CAN]</td></tr><tr><td> 19</td><td>LeBlanc, Nicholas M [CAN]</td><td>Won 2-0</td><td>vs.</td><td>Faure, Stephane [CAN]</td></tr><tr><td> 20</td><td>Cormier, Francis [CAN]</td><td>Won 2-0</td><td>vs.</td><td>savignac, jean-francoi [CAN]</td></tr><tr><td> 21</td><td>Ye, Kaitai [CAN]</td><td>Won 2-0</td><td>vs.</td><td>Crevar, Steven G [CAN]</td></tr><tr><td> 22</td><td>Robert, Yan [CAN]</td><td>Won 2-1</td><td>vs.</td><td>Anderson, Marc [CAN]</td></tr><tr><td> 23</td><td>MacDonald, Dan J [CAN]</td><td>Lost 0-2</td><td>vs.</td><td>Cameron-Weir, Craig L [CAN]</td></tr><tr><td> 24</td><td>Bax, will c [CAN]</td><td>Won 2-0</td><td>vs.</td><td>Selk, Patrick R [CAN]</td></tr><tr><td> 25</td><td>Baxter, Jeff [CAN]</td><td>Won 2-0</td><td>vs.</td><td>Vanderberg, Paul L [CAN]</td></tr><tr><td> 26</td><td>Siow, Lucas E [USA]</td><td>Won 2-0</td><td>vs.</td><td>Spence, Zack [CAN]</td></tr><tr><td> 27</td><td>Taylor, Kelly [CAN]</td><td>Lost 1-2</td><td>vs.</td><td>Thibeault, Vincent [CAN]</td></tr><tr><td> 28</td><td>Vergne-Wilder, Justin [CAN]</td><td>Lost 0-2</td><td>vs.</td><td>Ma, Will W [CAN]</td></tr><tr><td> 29</td><td>Birthelmer, Marty W [CAN]</td><td>Lost 1-2</td><td>vs.</td><td>Boutin, Jon [CAN]</td></tr><tr><td> 30</td><td>Routledge, Andrew [CAN]</td><td>Won 2-1</td><td>vs.</td><td>Salahub, Nelson [CAN]</td></tr><tr><td> 31</td><td>Gibson, Chris [CAN]</td><td>Lost 1-2</td><td>vs.</td><td>Bonneville, Martin [CAN]</td></tr><tr><td> 32</td><td>Lambert, Michael [CAN]</td><td>Won 2-0</td><td>vs.</td><td>Bunyan, Joseph J [CAN]</td></tr><tr><td> 33</td><td>D'auteuil, Miguel [CAN]</td><td>Lost 1-2</td><td>vs.</td><td>Desrosiers, Benoît [CAN]</td></tr><tr><td> 34</td><td>Durette, Marc [CAN]</td><td>Lost 1-2</td><td>vs.</td><td>Neigel, Barrett [CAN]</td></tr><tr><td> 35</td><td>Vance, James E [CAN]</td><td>Lost 1-2</td><td>vs.</td><td>Zafra, Marcel Angelo C [CAN]</td></tr><tr><td> 36</td><td>Raska, Mark G [CAN]</td><td>Won 2-1</td><td>vs.</td><td>Carle, Vincent S [CAN]</td></tr><tr><td> 37</td><td>Boa, Andrew J [CAN]</td><td>Won 2-0</td><td>vs.</td><td>Davis, Brandon J [CAN]</td></tr><tr><td> 38</td><td>Duncan, Kyle A [CAN]</td><td>Won 2-1</td><td>vs.</td><td>Maguire, Doug [CAN]</td></tr><tr><td> 39</td><td>Daoust, Guillaume [CAN]</td><td>Won 2-1</td><td>vs.</td><td>Bernard, Matthew R [CAN]</td></tr><tr><td> 40</td><td>Potter, Doug [CAN]</td><td>Lost 1-2</td><td>vs.</td><td>Mealing, Matt K [CAN]</td></tr><tr><td> 41</td><td>Su, Brian [CAN]</td><td>Won 2-0</td><td>vs.</td><td>Olsen, Jeff B [CAN]</td></tr><tr><td> 42</td><td>Arenson, Mike B [CAN]</td><td>Won 2-1</td><td>vs.</td><td>Wells, Brian D [CAN]</td></tr><tr><td> 43</td><td>Voellmer, Andy [USA]</td><td>Lost 0-2</td><td>vs.</td><td>Devlin, Matt T [CAN]</td></tr><tr><td> 44</td><td>Lanthier, Dan [CAN]</td><td>Lost 1-2</td><td>vs.</td><td>Cheung, Tom [CAN]</td></tr><tr><td> 45</td><td>Tremblay, Mathieu [CAN]</td><td>Won 2-0</td><td>vs.</td><td>Kenny, Alex G [CAN]</td></tr><tr><td> 46</td><td>Tom, Kar Yung E [CAN]</td><td>Won 2-1</td><td>vs.</td><td>Major, Jeff [CAN]</td></tr><tr><td> 47</td><td>Altgauzen, Yevgeni [CAN]</td><td>Won 2-1</td><td>vs.</td><td>Clarke, Davies [CAN]</td></tr><tr><td> 48</td><td>Ganske, Drew M [CAN]</td><td>Lost 1-2</td><td>vs.</td><td>gagnon, Chris J [CAN]</td></tr><tr><td> 49</td><td>Cantin, Maxime [CAN]</td><td>Lost 0-2</td><td>vs.</td><td>Tse, Felix [CAN]</td></tr><tr><td> 50</td><td>Smith, Joey J [CAN]</td><td>Won 2-0</td><td>vs.</td><td>La Forest, Adam [CAN]</td></tr><tr><td> 51</td><td>Dos Remedios, Aaron K [CAN]</td><td>Won 2-1</td><td>vs.</td><td>FUNG, KENNY [CAN]</td></tr><tr><td> 52</td><td>Macmullin, Matthew [CAN]</td><td>Lost 1-2</td><td>vs.</td><td>Tower, Scott [CAN]</td></tr><tr><td> 53</td><td>Vance, Mike J [CAN]</td><td>Lost 1-2</td><td>vs.</td><td>Chreptyk, Brandon [CAN]</td></tr><tr><td> 54</td><td>Moir, Ben [CAN]</td><td>Won 2-0</td><td>vs.</td><td>Fettback, Brandon M [CAN]</td></tr><tr><td> 55</td><td>Christensen, Jordan [CAN]</td><td>Won 2-1</td><td>vs.</td><td>Gardiner, devin [CAN]</td></tr><tr><td>&#10;					</td><td>Machabee, Danny m [CAN]</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr></tbody></table>

@@ -1,0 +1,232 @@
+---
+id: 6nx4md7z
+kind: article
+lang: en
+path: /en/articles/savortheflavor/2006/02-22-wake-up-call
+title: Wake Up Call
+published: '2006-02-22'
+column_slug: savortheflavor
+column: Savor the Flavor
+authors:
+- slug: mattcavotta
+  name: Matt Cavotta
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtgcom/daily/mc27
+    lang_detected: en
+    capture_id: 792465
+    url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/mc27
+    captured_at: '2009-08-26 01:28:24+00'
+    rule: aspx.article_heading
+  published:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtgcom/daily/mc27
+    lang_detected: en
+    capture_id: 792465
+    url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/mc27
+    captured_at: '2009-08-26 01:28:24+00'
+    rule: aspx.byline_date
+  authors:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtgcom/daily/mc27
+    lang_detected: en
+    capture_id: 792465
+    url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/mc27
+    captured_at: '2009-08-26 01:28:24+00'
+    rule: aspx.byline
+  column:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtgcom/daily/mc27
+    lang_detected: en
+    capture_id: 792465
+    url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/mc27
+    captured_at: '2009-08-26 01:28:24+00'
+    rule: aspx.archive_link_column
+    registry_match: registry.explicit
+sources:
+- document_id: 6nx4md7z
+  url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/mc27
+  page_key: wizards.com/magic/magazine/article.aspx?x=mtgcom/daily/mc27
+  lang: en
+  template: aspx
+  captured_at: '2009-08-26 01:28:24+00'
+  capture_id: 792465
+  wayback_url: https://web.archive.org/web/20090826012824id_/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/mc27
+- document_id: 6nx4md7z
+  url: http://www.wizards.com/default.asp?x=mtgcom/daily/mc27&amp;=RSS-MTGCOM
+  page_key: wizards.com/default.asp?=RSS-MTGCOM&x=mtgcom/daily/mc27
+  lang: en
+  template: classic_asp
+  captured_at: '2006-03-22 13:46:09+00'
+  capture_id: 1335832
+  wayback_url: https://web.archive.org/web/20060322134609id_/http://www.wizards.com/default.asp?x=mtgcom/daily/mc27&amp;=RSS-MTGCOM
+- document_id: 6nx4md7z
+  url: http://wizards.com/default.asp?x=mtgcom/daily/mc27
+  page_key: wizards.com/default.asp?x=mtgcom/daily/mc27
+  lang: en
+  template: classic_asp
+  captured_at: '2007-10-21 02:24:31+00'
+  capture_id: 1958118
+  wayback_url: https://web.archive.org/web/20071021022431id_/http://wizards.com/default.asp?x=mtgcom/daily/mc27
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 6nx4md7z
+  capture_id: 792465
+  url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/mc27
+  wayback_url: https://web.archive.org/web/20090826012824id_/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/daily/mc27
+  captured_at: '2009-08-26 01:28:24+00'
+  template: aspx
+  sha256: 4e32c7eadd75f5ec056da45c588fed17b15d594c7a7e2275f01056b87830c8d3
+render_recovery:
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Earth_Surge')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Bougrat
+  - nature's
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Primeval_Light')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - old tomes
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Carven_Caryatid')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - those
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Primordial_Sage')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - those
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Ghost_Council_of_Orzhova')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - powerful
+  - Ghost Council
+  occurrences: 2
+- code: unsupported_link
+  element: a
+  target: javascript:alert("not implemented yet (newwindow)");
+  reason: The archived link runs JavaScript. The preview kept its text.
+  labels:
+  - smear
+  - their
+  - marks
+  - Demonlord
+  - greater
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Leyline_of_the_Meek')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - leylines
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Bramble_Elemental')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - siblings
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Chorus_of_the_Conclave')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - the Chorus
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Niv-Mizzet,_the_Firemind')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - the Firemind
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Razia,_Boros_Archangel')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - the angels
+  occurrences: 1
+---
+If you read my article, “[A Little Home Town Pride](/en/articles/feature/2005/11-02-a-little-home-town-pride),” you may recall how our topic was inspired by Dravin, a repentant soul with a chip on his shoulder for the guilds. His enthusiasm for the city and its unguilded populace led to an entire article about the mono-colored gems of *Ravnica*. Well, I've received a voice mail from another citizen who is equally sour at the guilds, but also a little bitter about the city, and a bit salty with its people. We have had plenty of articles propping the guilds, some about the guildless, and some about the city. This letter from Bougrat slops them all. It's a doozy, check it out.
+
+* * *
+
+I am Bougrat, and I am here to tell you that something has happened. I dare not name it, for fear that words may change the course of this thing I most desperately want. But, I will tell you about how things were, are, and may yet be again.
+
+<table>&#10;    <tbody><tr>&#10;      <td>&#10;        <img src="https://i.ormos.uk/8a/a2/8aa2d635455b4504a8e6b7b9e58552d1e4f142d4f08bbac273f650cba7d7575a.jpg">&#10;      </td>&#10;    </tr>&#10;    <tr>&#10;      <td>'Some gardeners sing to plants. I tell them stories—stories of how they once ruled the world, of the mortals who destroyed their kind, and of revenge.'</td>&#10;    </tr>&#10;  </tbody></table>
+
+We are the Cult of Yore, stewards of the memory of a bygone Ravnica. We protect the old tomes that bear accounts of the days before the Guildpact. We consult with those old enough to remember those days, and those just old enough to remember these days beginning. We perform the rituals and celebrations described by them. All to keep the last real feeling from being extinguished forever.
+
+It is the feeling of humility that this world now lacks. There is plenty of bowing and scraping at the feet of the powerful, but it is done out of fear and protocol. There was a time when the beings of Ravnica were humbled by the awesome majesty of the natural world, a world of diversity and wonder. But now, people do not see it as a work of art, only a blank canvas on which to smear their marks.
+
+Slowly but surely, our ideals recessed in the minds of Ravnicans. They were replaced by the numbing comforts of progress, purpose, and *definition*. Definition is the death of wonder, and the death of humility. 
+
+<table>&#10;    <tbody><tr>&#10;      <td>&#10;        <img src="https://i.ormos.uk/53/75/5375ea75c20290fa294062bb6295eaac89db61edb06f95e4dee81295b63e7119.jpg">&#10;      </td>&#10;    </tr>&#10;    <tr>&#10;      <td>'How truly vast this city must be, that I have traveled so far and seen so much, yet never once found the place where the buildings fail.'</td>&#10;    </tr>&#10;  </tbody></table>
+
+For 10,000 years the Guildpact has *defined* our world and crushed its soul. There was a time when Ravnica was like a newborn child. One could look upon its mystery and promise, and imagine that she could become anything. She could grow a desert of flowing, sandy locks, or a range of rolling, rippling muscle. The possibilities were infinite, and we were humbled by them.
+
+But infinite cannot be defined. They could not feel safe looking upon that wild child, so they pressed their fears and their wills and their written words on her. They taught her manners. They gave her clothes. They taught her to mind her posture and to keep a stiff upper lip. They taught her not to cry. They are the fearful parents, the “Paruns,” of the Guildpact, and they have raised a bitter, demanding world. When I look upon Empress Ravnica all I can see is unending sameness - the hard, jagged couture that is demanded of a woman of her position. In a glance they understand her, they know what they will see mile after stone-paved mile, and they are comforted by it. 
+
+I find no comfort in her cold, impersonal embrace. But, something has happened, and her hairpin is out of place.
+
+![](https://i.ormos.uk/da/f4/daf41290e7f8dca8520a85b6a5d17b037c95bc0196ffd0397da3b26d3fcc8390.jpg)My brothers and sisters of Yore have felt it. As I said before, it cannot be defined, but it is there. Occluded as they are by stone and mortar, the leylines have been read. There is stirring among nature's siblings. Change is in the air, and we can smell it. Like droplets of blood in the water, this change will draw the attention of sharks while others continue to tread water, noticing nothing. Even the bleeding will continue treading water, to make sure the others continue as well. Their fear of the unknown compels them to remain in the water. With their world reduced to repetition and routine, they have forgotten about the existence of sharks.
+
+Much has been forgotten by the droning people of Ravnica. The steady hum from the gears of industry has lulled them into a stupor. They plod through their routines as demanded by their guilds. To fill the holes in their souls, they seek spiritual fulfillment in the false gods of Ravnica; the Chorus, the Firemind, the angels, or worse, the Ghost Council or the Demonlord. These “gods” were created by mortals, by words written 10,000 years ago. People revere them because they are here, it is easy, and because that is what the rules say they must do. These beings occupy the space in Ravnicans' souls where humility used to reside. These beings occupy the minds of Ravnicans, and make them forget about sharks, make them forget that there used to be the Old Gods.
+
+To say that the Cult of Yore worships these Old Gods would be incorrect. Some of them are no good, and we are better off with them gone. But, there are some to which we still pay them homage and attention. Unlike the created lords of the Guildpact, these gods did not make demands or accept sacrifices. They did not require or answer prayers. They were there only to humble us; living, walking examples of the world's vastness, diversity, unpredictability, danger, wonder, horror, and complexity beyond our comprehension. They were the Nephilim. Or rather, they *are* the Nephilim.
+
+I have seen it in dreams- somewhere a great eye has opened. The Nephilim awaken. 
+
+![](https://i.ormos.uk/02/2b/022beb5d38db87e57374b3b3e0ed349c5023dfa5f768033afd269280faf95306.jpg)  
+ *When it awoke, it shook the plane with the thunder of its craving.* 
+
+Something has turned the tide just enough to awaken them. Something has shaken the Empress, tousling her hair, releasing a tress long pinned up. For a moment, she saw her reflection in the mizzium and felt . . .pride. 
+
+![](https://i.ormos.uk/eb/61/eb613130d286bc87022b536bf8de527dd496eec48c723112c85973b6c715bb84.jpg)  
+ *When it awoke, the mirrors of the world reflected only darkness.* 
+
+We have been in constant vigil these past days. We have begun scribing scrolls, recording what we see in hopes that they may become the words of the New Tomes, the chronicles of a new beginning. Some have seen them, and have done all they could to put into words the miracles they have witnessed.
+
+![](https://i.ormos.uk/e3/fc/e3fc2b880085bdcd3fb4ffafcb5e94c2c4ec44aae2577dc6c656c574e3d720d8.jpg)  
+ *When it awoke, it shattered the hillsides to make way for its passage.* 
+
+The last of the beasts and wild ones noticed first. I am proud to say that we were among them. For the rest of Ravnica's citizens, attention is turning - from the puffing, clanking routine of city life to the anomalous wonders occurring here and there. 
+
+![](https://i.ormos.uk/c2/63/c26375a6436ed6e1d4b5e9a289259780fca518f0636bfa2a3d87688cfeaf0508.jpg)  
+ *When it awoke, the worms of the earth hissed in a chorus of beckoning.* 
+
+We are growing in numbers. In just a short time, our membership has more than doubled. They come from all walks, though the guilded dare not turn. Some Gruul have joined us, but they do not claim to be a guild anyway. The others... they will come. When buildings fall and the Nephilim display the power and sublimity of nature, even the guilds will add to our growing numbers.
+
+![](https://i.ormos.uk/c2/1a/c21a7b35bb9d641b16519760e003ec81b6fb007db2c8a48dc60f980557cf30b9.jpg)  
+ *When it awoke, it spawned nameless thousands to herald its arrival.* 
+
+Have we done this? Has our constant hope in the face of the juggernaut of civilization rousted the Old Gods? Of course not. My humility does not allow me to think something so little could affect such great change. No, something greater has happened. 
+
+I am Bougrat, of the Cult of Yore, and, for the first time in a long, long time, I feel good about tomorrow.
+
+* * *
+
+Wow. I think I'll just leave you with that.

@@ -1,0 +1,204 @@
+---
+id: bhj47yg3
+kind: article
+lang: en
+path: /en/articles/mtg-arena/2024/04-22-arena-open-outlaws-of-thunder-junction-may-45
+title: 'Arena Open: Outlaws of Thunder Junction May 4–5'
+published: '2024-04-22'
+column_slug: mtg-arena
+column: MTG Arena
+authors:
+- slug: clayton-kroh-bb6a9cb0
+  name: Clayton Kroh
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/news/mtg-arena/arena-open-outlaws-of-thunder-junction-may-4-5
+    lang_detected: en
+    capture_id: 235846
+    url: https://magic.wizards.com/en/news/mtg-arena/arena-open-outlaws-of-thunder-junction-may-4-5
+    captured_at: '2024-05-18 00:57:08+00'
+    rule: jsonld.headline
+  published:
+    page_key: magic.wizards.com/en/news/mtg-arena/arena-open-outlaws-of-thunder-junction-may-4-5
+    lang_detected: en
+    capture_id: 235846
+    url: https://magic.wizards.com/en/news/mtg-arena/arena-open-outlaws-of-thunder-junction-may-4-5
+    captured_at: '2024-05-18 00:57:08+00'
+    rule: jsonld.date_published
+  authors:
+    page_key: magic.wizards.com/en/news/mtg-arena/arena-open-outlaws-of-thunder-junction-may-4-5
+    lang_detected: en
+    capture_id: 235846
+    url: https://magic.wizards.com/en/news/mtg-arena/arena-open-outlaws-of-thunder-junction-may-4-5
+    captured_at: '2024-05-18 00:57:08+00'
+    rule: jsonld.author
+  column:
+    page_key: magic.wizards.com/en/news/mtg-arena/arena-open-outlaws-of-thunder-junction-may-4-5
+    lang_detected: en
+    capture_id: 235846
+    url: https://magic.wizards.com/en/news/mtg-arena/arena-open-outlaws-of-thunder-junction-may-4-5
+    captured_at: '2024-05-18 00:57:08+00'
+    rule: url.article_section
+sources:
+- document_id: bhj47yg3
+  url: https://magic.wizards.com/en/news/mtg-arena/arena-open-outlaws-of-thunder-junction-may-4-5
+  page_key: magic.wizards.com/en/news/mtg-arena/arena-open-outlaws-of-thunder-junction-may-4-5
+  lang: en
+  template: contentful
+  captured_at: '2024-05-18 00:57:08+00'
+  capture_id: 235846
+  wayback_url: https://web.archive.org/web/20240518005708id_/https://magic.wizards.com/en/news/mtg-arena/arena-open-outlaws-of-thunder-junction-may-4-5
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: bhj47yg3
+  capture_id: 235846
+  url: https://magic.wizards.com/en/news/mtg-arena/arena-open-outlaws-of-thunder-junction-may-4-5
+  wayback_url: https://web.archive.org/web/20240518005708id_/https://magic.wizards.com/en/news/mtg-arena/arena-open-outlaws-of-thunder-junction-may-4-5
+  captured_at: '2024-05-18 00:57:08+00'
+  template: contentful
+  sha256: 66ac4d6ac69a63cb9bbf262293929508ed78c15de2d1b23fa6011b9fa5224bd3
+render_recovery: []
+---
+Outlaws and other dangers prowl the frontier of Thunder Junction, but great rewards abound for those with the spurs to charge in and take them. For the next Arena Open, the frontier can be yours with prizes up to $2,000 and an invitation to the Qualifier Weekend—if you've got the sand to claim them!
+
+![Arena Open, May 4–5, with card art for Gitrog, Ravenous Ride](https://media.wizards.com/2024/images/daily/hero_otj_arenaopen.webp) 
+
+Before we corral the details for this Arena Open, let's lasso a few important details you need to know first:
+
+*   You must be 18 years or older to participate.
+*   Regional eligibility restrictions apply, void where prohibited.
+*   Receiving monetary rewards requires having or creating Wizards, DCI, and i-Payout accounts. (i-Payout accounts cannot be created in advance.)
+*   The [official Terms and Conditions](/en/articles/mtg-arena/2023/06-19-the-arena-open-terms-and-conditions) have complete details on the Arena Open.
+
+## Arena Open – Day 1 
+
+The Arena Open begins on Saturday, May 4, with both Best-of-One and Best-of-Three *Outlaws of Thunder Junction* Sealed matches using 30-minute match timers for each player.
+
+**Best-of-One matches**: Seven wins earn you an invitation token for the Day 2 competition.
+
+**Best-of-Three matches**: Four wins earn you an invitation token for the Day 2 competition.
+
+You may enter Day 1 events as many times as you like, but you can only claim one Day 2 invitation—multiple invitations count as a single Day 2 entry.
+
+### Day 1 Event Details
+
+*   **Event open**: May 4 at 6 a.m. PT (13:00 UTC)
+*   **Signup close**: May 5 at 3 a.m. PT (10:00 UTC)
+    *   *You'll have 3 hours to complete your current run, but you won't be able to join after this deadline. Matches in progress will be allowed to finish.*
+*   **Day 1 end**: May 5 at 6 a.m. PT (13:00 UTC)
+    *   *No new matches begin after this time. Matches in progress will be allowed to finish.*
+*   **Entry fee**: 25,000 gold or 5,000 gems (for both Best-of-One and Best-of-Three)
+*   **Format**: Best-of-One or Best-of-Three *Outlaws of Thunder Junction* Sealed
+*   **Structure**:
+    *   Best-of-One: 7 wins or 3 losses
+    *   Best-of-Three: 4 wins or 1 loss
+*   **Rewards**:
+    *   Entry reward: *Outlaws of Thunder Junction* sleeve
+
+Outlaws of Thunder Junction sleeve
+
+Day 1  
+*Outlaws of Thunder Junction* Sealed  
+(Best-of-One) 
+
+<table>&#10;            <tbody><tr>&#10;                <th>Wins</th>&#10;                <th>Gems</th>&#10;                <th>Invitations</th>&#10;            </tr>&#10;            <tr>&#10;                <td>7</td>&#10;                <td>5,000</td>&#10;                <td>Day 2 invitation token</td>&#10;            </tr>&#10;            <tr>&#10;                <td>6</td>&#10;                <td>2,500</td>&#10;                <td>-</td>&#10;            </tr>&#10;            <tr>&#10;                <td>5</td>&#10;                <td>1,000</td>&#10;                <td>-</td>&#10;            </tr>&#10;            <tr>&#10;                <td>0–4</td>&#10;                <td>-</td>&#10;                <td>-</td>&#10;            </tr>&#10;            <tr>&#10;                <td colspan="3"> </td>&#10;            </tr>&#10;        </tbody></table>
+
+Day 1  
+*Outlaws of Thunder Junction* Sealed  
+(Best-of-Three) 
+
+| Wins | Gems | Invitations |
+| --- | --- | --- |
+| 4 | 6,000 | Day 2 invitation token |
+| 3 | 5,000 | - |
+| 2 | 3,000 | - |
+| 1 | 1,500 | - |
+| 0 | - | - |
+
+## Arena Open – Day 2
+
+Players who qualify during Day 1 events may enter the Day 2 competition. You may only enter once on Day 2, even if you qualify multiple times on Day 1.
+
+There will be two Best-of-Three Player Draft competitions on Day 2 using 30-minute match timers for each player.
+
+### Draft One (Day 2)
+
+*   Day 2 players entered in Draft One will draft at the beginning of the day. **The entry period for Draft One is from 6 a.m. to 8 a.m. PT (13:00–15:00 UTC)**.
+*   Players will have until 12 p.m. PT (19:00 UTC) to complete four matches.
+*   Draft One features four guaranteed matches.
+*   Achieving a record of 3–1 or 4–0 in Draft One will earn you a Draft Two entry token.
+*   Players with 4 wins will carry forward an extra loss pip, making their Draft Two a double-elimination event (players with three wins in Draft One will have a single-elimination Draft Two event).
+
+Players with an undefeated 4–0 record from Draft One will carry forward an unused loss pip to Draft Two. That means Draft Two for those players will be a double elimination, allowing them to suffer one loss and stay in the running.
+
+#### Draft One Event Details
+
+*   **Draft One entry window**: May 5, 6 a.m.–8 a.m. PT (13:00–15:00 UTC)
+    *   *You must join during this 2-hour window. You'll have until 12 p.m. PT (19:00 UTC) to earn up to 3 match wins or one loss.*
+*   **Draft One end**: Must complete matches by May 5 at 12 p.m. PT (19:00 UTC)
+*   **Entry fee**: Day 2 invitation token (earned on Day 1)
+*   **Format**: *Outlaws of Thunder Junction* Draft (Best-of-Three)
+*   **Structure**: Fixed four matches
+*   **Rewards**:
+
+Day 2, Draft One  
+*Outlaws of Thunder Junction* Draft  
+(Best-of-Three)
+
+<table>&#10;        <tbody><tr>&#10;            <th>Wins</th>&#10;            <th>Gems</th>&#10;            <th>Invitations</th>&#10;        </tr>&#10;        <tr>&#10;            <td>4</td>&#10;            <td>-</td>&#10;            <td>Draft Two invitation token<br>(double elimination)</td>&#10;        </tr>&#10;        <tr>&#10;            <td>3</td>&#10;            <td>-</td>&#10;            <td>Draft Two invitation token<br>(single elimination)</td>&#10;        </tr>&#10;        <tr>&#10;            <td>2</td>&#10;            <td>2,500</td>&#10;            <td>-</td>&#10;        </tr>&#10;        <tr>&#10;            <td>1</td>&#10;            <td>1,500</td>&#10;            <td>-</td>&#10;        </tr>&#10;        <tr>&#10;            <td>0</td>&#10;            <td>500</td>&#10;            <td>-</td>&#10;        </tr>&#10;    </tbody></table>
+
+### Draft Two (Day 2)
+
+All Draft Two players will draft and matchmake in the same queues.
+
+*   Players draft a second time in Draft Two. **The entry period for Draft Two is from 12 p.m. to 2 p.m. PT (19:00–21:00 UTC)**.
+*   Players will have until May 5 at 6 p.m. PT (01:00 UTC May 6) to earn up to 4 match wins or be eliminated after either 1 match loss—or 2 match losses for those players with an undefeated record in Draft One record.
+
+#### Draft Two Event Details
+
+*   **Draft Two entry window**: May 5, 12 p.m.–2 p.m. PT (19:00–21:00 UTC)
+    *   *You must join during this 2-hour window. You'll have until May 5 at 6 p.m. PT (01:00 UTC May 6) to earn up to 3 match wins or 1 loss.*
+*   **Draft Two end**: Must complete matches by May 5 at 6 p.m. PT (01:00 UTC May 6)
+*   **Entry fee**: Day 2 invitation token (earned on Day 1)
+*   **Format**: *Outlaws of Thunder Junction* Draft (Best-of-Three)
+*   **Structure**: Best-of-Three matches until 4 wins or 1 loss for players with a 3–1 record in Draft One, or 2 losses for players with a 4–0 record in Draft One
+*   **Rewards**:
+
+Day 2, Draft Two  
+*Outlaws of Thunder Junction* Draft  
+(Best-of-Three)
+
+| Wins | Cash Prize | Gems | Invitations |
+| --- | --- | --- | --- |
+| 4 | $2,000 | - | June Qualifier Weekend invitation |
+| 3 | $1,000 | - | June Qualifier Weekend invitation |
+| 2 | $500 | - | June Qualifier Weekend invitation |
+| 1 | - | 15,000 | - |
+| 0 | - | 5,000 | - |
+
+## Arena Open FAQ
+
+**How many players can earn monetary rewards on Day 2?**
+
+Day 2 players who earn two, three, or four wins in Draft Two are eligible to receive monetary rewards.
+
+**Can I qualify for Day 2 multiple times?**
+
+No, qualifying multiple times will not grant you additional invitation tokens for Day 2 participation. Players qualify for Day 2 by earning enough wins in Day 1 Best-of-One or Best-of-Three events.
+
+**What should I do if I encounter an issue during the Arena Open?**
+
+Contact [Customer Service](https://web.archive.org/web/20240422000000/https://mtgarena-support.wizards.com/hc/en-us/requests/new?ticket_form_id=360000419612) if you need assistance during the Arena Open. We are unable to provide support for in-game issues over social media (other than telling you to submit a ticket).
+
+Please ensure you select "Qualifier Weekend/Arena Open Issues" as the reason you are contacting our support team.
+
+**I earned a monetary reward on Day 2 … now what?**
+
+If you receive a monetary reward, we will contact you at the email address listed in your Wizards account and provide instructions for setting up your eWallet account with our partner i-Payout. If you already have an i-Payout account, we'll notify you of your prize.
+
+Please check your email regularly after the Arena Open to ensure that you respond to our inquiry in a timely manner.
+
+If you win a monetary reward and do not receive a reward email within two weeks of completion of the Arena Open, please contact [Customer Service](https://web.archive.org/web/20240422000000/https://mtgarena-support.wizards.com/hc/en-us/requests/new?ticket_form_id=360000419612).
+
+**For more information on reward fulfilments, please refer to** [**the full Terms and Conditions**](/en/articles/mtg-arena/2023/06-19-the-arena-open-terms-and-conditions) **and our general** [**Event Prize Support FAQ**](https://web.archive.org/web/20240422000000/https://mtgarena-support.wizards.com/hc/en-us/articles/360043704072)**.**

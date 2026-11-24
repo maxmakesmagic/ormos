@@ -1,0 +1,47 @@
+---
+id: 154dkm71
+kind: event
+lang: en
+path: /en/articles/event-coverage/2013/10-20-grand-prix-louisville-2013-round-13-pairings
+title: Grand Prix Louisville 2013 Round 13 Pairings
+published: '2013-10-20'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-louisville-2013-round-13-pairings-2013-10-20
+    lang_detected: en
+    capture_id: 409600
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-louisville-2013-round-13-pairings-2013-10-20
+    captured_at: '2021-10-24 01:23:43+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-louisville-2013-round-13-pairings-2013-10-20
+    lang_detected: en
+    capture_id: 409600
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-louisville-2013-round-13-pairings-2013-10-20
+    captured_at: '2021-10-24 01:23:43+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: 154dkm71
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-louisville-2013-round-13-pairings-2013-10-20
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-louisville-2013-round-13-pairings-2013-10-20
+  lang: en
+  template: drupal
+  captured_at: '2021-10-24 01:23:43+00'
+  capture_id: 409600
+  wayback_url: https://web.archive.org/web/20211024012343id_/https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-louisville-2013-round-13-pairings-2013-10-20
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 154dkm71
+  capture_id: 409600
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-louisville-2013-round-13-pairings-2013-10-20
+  wayback_url: https://web.archive.org/web/20211024012343id_/https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-louisville-2013-round-13-pairings-2013-10-20
+  captured_at: '2021-10-24 01:23:43+00'
+  template: drupal
+  sha256: 5539f6b0318445600868b10366b83ddb4fea871c807ef145f7e2a38a2a7f68f4
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Points</b></td><td><b>&#10;						</b></td><td><b>Opponent</b></td><td><b>Points</b></td></tr><tr><td> 1</td><td>Anderson, Todd</td><td> 33</td><td>vs.</td><td>Nelson, Brad</td><td> 33</td></tr><tr><td> 2</td><td>Black, Samuel</td><td> 33</td><td>vs.</td><td>O'Bryant, Christopher</td><td> 33</td></tr><tr><td> 3</td><td>Herrell, Justin</td><td> 33</td><td>vs.</td><td>Winn, Tyler</td><td> 33</td></tr><tr><td> 4</td><td>Fogle, Jack</td><td> 33</td><td>vs.</td><td>Jensen, William H</td><td> 30</td></tr><tr><td> 5</td><td>Faeder, Dustin</td><td> 30</td><td>vs.</td><td>Van Cleave, Trey</td><td> 30</td></tr><tr><td> 6</td><td>Burks, Brandon</td><td> 30</td><td>vs.</td><td>Bolding, Jon</td><td> 30</td></tr><tr><td> 7</td><td>Musser, Dan L</td><td> 30</td><td>vs.</td><td>Cuneo, Andrew</td><td> 30</td></tr><tr><td> 8</td><td>Nelms, Andrew J</td><td> 30</td><td>vs.</td><td>Majlaton, Alex S</td><td> 30</td></tr><tr><td> 9</td><td>Stern, Jon</td><td> 30</td><td>vs.</td><td>Vidugiris, Gaudenis</td><td> 30</td></tr><tr><td> 10</td><td>Andersen, Christoffer J</td><td> 30</td><td>vs.</td><td>Damrell, Mathew</td><td> 30</td></tr><tr><td> 11</td><td>Rocha, Jerret W</td><td> 30</td><td>vs.</td><td>Eckert, Joseph E</td><td> 30</td></tr><tr><td> 12</td><td>Braun-Duin, Brian</td><td> 30</td><td>vs.</td><td>Demestrio, Joe</td><td> 30</td></tr><tr><td> 13</td><td>Diliberto, Mario C</td><td> 30</td><td>vs.</td><td>Baeckstrom, Andrew</td><td> 30</td></tr><tr><td> 14</td><td>Jansen, Adam</td><td> 30</td><td>vs.</td><td>John, Alexander R</td><td> 30</td></tr><tr><td> 15</td><td>Blair, Mike</td><td> 30</td><td>vs.</td><td>Mytinger, John F</td><td> 30</td></tr><tr><td> 16</td><td>Cruse, William</td><td> 30</td><td>vs.</td><td>Sittner, Alex</td><td> 28</td></tr><tr><td> 17</td><td>Throop, Adrian</td><td> 27</td><td>vs.</td><td>Morrison, Mark C</td><td> 27</td></tr><tr><td> 18</td><td>West, Zachary</td><td> 27</td><td>vs.</td><td>Bedsole, Hayden M</td><td> 27</td></tr><tr><td> 19</td><td>Maine, Andrew</td><td> 27</td><td>vs.</td><td>Flickinger, Eric</td><td> 27</td></tr><tr><td> 20</td><td>Bogner, Ryan</td><td> 27</td><td>vs.</td><td>Herrera, Joseph A</td><td> 27</td></tr><tr><td> 21</td><td>Fellman, Sean</td><td> 27</td><td>vs.</td><td>NEISWENTER, DARYL M</td><td> 27</td></tr><tr><td> 22</td><td>Silvestri, Jonathan</td><td> 27</td><td>vs.</td><td>Majors, Michael</td><td> 27</td></tr><tr><td> 23</td><td>McLaughlin, Morgan</td><td> 27</td><td>vs.</td><td>Bakalar, Val</td><td> 27</td></tr><tr><td> 24</td><td>Oldaker, Matt D</td><td> 27</td><td>vs.</td><td>Dobbin, Jack</td><td> 27</td></tr><tr><td> 25</td><td>Hovis, Ryan C</td><td> 27</td><td>vs.</td><td>Mantey, Tyler</td><td> 27</td></tr><tr><td> 26</td><td>Herkenhoff, Thomas</td><td> 27</td><td>vs.</td><td>Sullivan, Adrian</td><td> 27</td></tr><tr><td> 27</td><td>Duke, Reid</td><td> 27</td><td>vs.</td><td>Napoli, Phillip A</td><td> 27</td></tr><tr><td> 28</td><td>Tenjum, Andrew</td><td> 27</td><td>vs.</td><td>Glossner, Dayne</td><td> 27</td></tr><tr><td> 29</td><td>Tosto, Dave E</td><td> 27</td><td>vs.</td><td>Neal, Stephen</td><td> 27</td></tr><tr><td> 30</td><td>Williams, Jason M</td><td> 27</td><td>vs.</td><td>Barr, Alex</td><td> 27</td></tr><tr><td> 31</td><td>Gonzalez, Alex</td><td> 27</td><td>vs.</td><td>Leung, Edman</td><td> 27</td></tr><tr><td> 32</td><td>McClure, Blake l</td><td> 27</td><td>vs.</td><td>Liwosz, Curtis</td><td> 27</td></tr><tr><td> 33</td><td>Burton, Brandon</td><td> 27</td><td>vs.</td><td>Smith, Evan M</td><td> 27</td></tr><tr><td> 34</td><td>Johnston, Tyler</td><td> 27</td><td>vs.</td><td>Dalton, Todd</td><td> 27</td></tr><tr><td> 35</td><td>Williams, Justin</td><td> 27</td><td>vs.</td><td>Nolen, Lauren c</td><td> 27</td></tr><tr><td> 36</td><td>Nimiyongskul, Varin</td><td> 27</td><td>vs.</td><td>Guy, Matthew J</td><td> 27</td></tr><tr><td> 37</td><td>Behrle, Stephen</td><td> 27</td><td>vs.</td><td>Hefner, Jessy E</td><td> 27</td></tr><tr><td> 38</td><td>Vasovski, Mike</td><td> 27</td><td>vs.</td><td>Fennell, Chris A</td><td> 27</td></tr><tr><td> 39</td><td>Hinkle, Chas E</td><td> 27</td><td>vs.</td><td>Utter-Leyton, Josh W</td><td> 27</td></tr><tr><td> 40</td><td>Tidd, David M</td><td> 27</td><td>vs.</td><td>Growse, Mike</td><td> 27</td></tr><tr><td> 41</td><td>Dupal, Stephen M</td><td> 25</td><td>vs.</td><td>Schuett, Court</td><td> 25</td></tr><tr><td> 42</td><td>Young, Garett E</td><td> 25</td><td>vs.</td><td>Rasmussen, Jeff</td><td> 25</td></tr><tr><td> 43</td><td>Clifton, Corey</td><td> 24</td><td>vs.</td><td>Uppal, Justin A</td><td> 24</td></tr><tr><td> 44</td><td>Spano, Greggory</td><td> 24</td><td>vs.</td><td>TAYLOR, HUNTER</td><td> 24</td></tr><tr><td> 45</td><td>Smith, Andrew</td><td> 24</td><td>vs.</td><td>Heminway, Curtis</td><td> 24</td></tr><tr><td> 46</td><td>Clark, Eric t</td><td> 24</td><td>vs.</td><td>Towers, Gary</td><td> 24</td></tr><tr><td> 47</td><td>Garnier, Spencer</td><td> 24</td><td>vs.</td><td>Johnson-Epstein, Jasper A</td><td> 24</td></tr><tr><td> 48</td><td>Dosher, Josh</td><td> 24</td><td>vs.</td><td>Perez Jr., Raymond</td><td> 24</td></tr><tr><td> 49</td><td>Zhen, Jimmy</td><td> 24</td><td>vs.</td><td>Waters, James D</td><td> 24</td></tr><tr><td> 50</td><td>Criss, Ronald</td><td> 24</td><td>vs.</td><td>Manfield, Seth</td><td> 24</td></tr><tr><td> 51</td><td>VanAtter, David</td><td> 24</td><td>vs.</td><td>Shoemaker, Joe F</td><td> 24</td></tr><tr><td> 52</td><td>Nelson, Ryan</td><td> 24</td><td>vs.</td><td>Merced, Davis</td><td> 24</td></tr><tr><td> 53</td><td>Howard, Cody</td><td> 24</td><td>vs.</td><td>Tramper, Auston L</td><td> 24</td></tr><tr><td> 54</td><td>Rill, Eric T</td><td> 24</td><td>vs.</td><td>Schauf, Scott</td><td> 24</td></tr><tr><td> 55</td><td>Yarbrough, Christopher l</td><td> 24</td><td>vs.</td><td>Hoel, Kyle</td><td> 24</td></tr><tr><td> 56</td><td>Dunaway, Paul</td><td> 24</td><td>vs.</td><td>Freeman, Marcelino</td><td> 24</td></tr><tr><td> 57</td><td>Rosselli, Luca</td><td> 24</td><td>vs.</td><td>Walker, Eddie</td><td> 24</td></tr><tr><td> 58</td><td>Berrios, Stephen A</td><td> 24</td><td>vs.</td><td>Kingsley, James W</td><td> 24</td></tr><tr><td> 59</td><td>Christopher, Grant</td><td> 24</td><td>vs.</td><td>Yu, Jarvis</td><td> 24</td></tr><tr><td> 60</td><td>Graves, Thomas</td><td> 24</td><td>vs.</td><td>VanMeter, Chris</td><td> 22</td></tr><tr><td> 61</td><td>Forsythe, Matt</td><td> 22</td><td>vs.</td><td>Carrin, Talon</td><td> 22</td></tr><tr><td> 62</td><td>Chan, Norman</td><td> 21</td><td>vs.</td><td>Yim, Chi Hoi</td><td> 21</td></tr><tr><td> 63</td><td>Creekmur, Nick</td><td> 21</td><td>vs.</td><td>Applegate, David</td><td> 21</td></tr></tbody></table>

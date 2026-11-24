@@ -1,0 +1,59 @@
+---
+id: cgxb2x3q
+kind: event
+lang: en
+path: /en/articles/event-coverage/2015/12-16-round-12-feature-match-joe-connolly-vs-simon-keys
+title: 'Round 12 Feature Match: Joe Connolly vs. Simon Keys'
+published: '2015-12-16'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-12-feature-match-joe-connolly-vs-simon-keys-2015-12-16
+    lang_detected: en
+    capture_id: 497889
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-12-feature-match-joe-connolly-vs-simon-keys-2015-12-16
+    captured_at: '2020-12-02 07:45:43+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-12-feature-match-joe-connolly-vs-simon-keys-2015-12-16
+    lang_detected: en
+    capture_id: 497889
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-12-feature-match-joe-connolly-vs-simon-keys-2015-12-16
+    captured_at: '2020-12-02 07:45:43+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: cgxb2x3q
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-12-feature-match-joe-connolly-vs-simon-keys-2015-12-16
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/round-12-feature-match-joe-connolly-vs-simon-keys-2015-12-16
+  lang: en
+  template: drupal
+  captured_at: '2020-12-02 07:45:43+00'
+  capture_id: 497889
+  wayback_url: https://web.archive.org/web/20201202074543id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-12-feature-match-joe-connolly-vs-simon-keys-2015-12-16
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: cgxb2x3q
+  capture_id: 497889
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-12-feature-match-joe-connolly-vs-simon-keys-2015-12-16
+  wayback_url: https://web.archive.org/web/20201202074543id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-12-feature-match-joe-connolly-vs-simon-keys-2015-12-16
+  captured_at: '2020-12-02 07:45:43+00'
+  template: drupal
+  sha256: ddfa0a276870e424e30993af0e2a237253b336a33a971e6d177392af1ded57b6
+render_recovery: []
+---
+*By Liam Coltman* 
+
+With the final round looming and both players on 8-3 records, a loss would put an end to any hopes and dreams that one of the players had of making the top 8. Well known from his antics on #mise, Connolly had a small gathering of Australians as a cheer squad, trying to carry him into the Top 8 via IRC based smiley faces and comments =>~ . Connolly won the coin flip and elected to play first. 
+
+**Game 1** 
+
+Playing a version of Williams' deck, Joe got off to a typical start with second turn Exploration back up by a third turn Horn of Greed. All Keys Sliver deck could respond with is second turn Hibernation Sliver. After Consulting for a City of Brass on turn 4, Keys lost 2 in the top 6 cards but was thankful when he only lost about 1/3 of his deck. Connolly then was unable to counter as Keys dropped a Muscle Sliver and a turn later another Muscle Sliver. When Connolly dropped an Oath and it was countered he dropped a second Oath and sent the turn to Keys, who consulted for a Seal of Cleansing to remove it. Luckily for Connolly, he was able to Force of Will, largely due to the massive card advantage he was drawing from the Horn/Exploration combo. When he Oathed up a Crater Hellion to clear Keys' side of the board, all that was left for him to do was generate infinite turns via Scroll Rack, Gaea's Blessing and Time Warp, and a turn later when he did Keys Conceded. 
+
+**Game 2** 
+
+Again Connolly got off to a good start playing a second turn Exploration which Keys was unable to deal with despite not playing a creature on turn two. The two then sent the turn back and forth until Keys Duressed Connolly on turn 4, who attempted to Force of Will it and had it Pyroblasted. When he flipped up the hand Back to Basics, Back to Basics, Back to Basics, Keys looked to be in real trouble. After losing one of them, he untapped and cast his first and second Back to Basics, both of which resolved. Keys then cast a seal, but Connolly had some more gas to drop, laying down an Oath of Druids, effectively locking down all of Keys creatures. Unable to draw more lands or untap any of his Back to Basics lands, Keys put up little resistance when Connolly Impulsed and Horned through his deck, again setting up the infinite turn combo. 
+
+**Final Result:** Connolly defeated Keys 2-0

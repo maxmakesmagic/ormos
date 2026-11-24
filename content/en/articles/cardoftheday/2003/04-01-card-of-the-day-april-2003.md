@@ -1,0 +1,252 @@
+---
+id: td7rx36a
+kind: article
+lang: en
+path: /en/articles/cardoftheday/2003/04-01-card-of-the-day-april-2003
+title: Card of the Day - April, 2003
+published: '2003-04-01'
+column_slug: cardoftheday
+column: Card of the Day
+authors:
+- slug: wizardsofthecoast
+  name: Wizards of the Coast
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/card-day-april-2003-2003-04-01
+    lang_detected: en
+    capture_id: 240631
+    url: https://magic.wizards.com/en/articles/archive/card-day-april-2003-2003-04-01
+    captured_at: '2022-01-25 21:15:38+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/card-day-april-2003-2003-04-01
+    lang_detected: en
+    capture_id: 240631
+    url: https://magic.wizards.com/en/articles/archive/card-day-april-2003-2003-04-01
+    captured_at: '2022-01-25 21:15:38+00'
+    rule: drupal.posted_in_date
+  authors:
+    page_key: magic.wizards.com/en/articles/archive/card-day-april-2003-2003-04-01
+    lang_detected: en
+    capture_id: 240631
+    url: https://magic.wizards.com/en/articles/archive/card-day-april-2003-2003-04-01
+    captured_at: '2022-01-25 21:15:38+00'
+    rule: drupal.div_author
+sources:
+- document_id: td7rx36a
+  url: https://magic.wizards.com/en/articles/archive/card-day-april-2003-2003-04-01
+  page_key: magic.wizards.com/en/articles/archive/card-day-april-2003-2003-04-01
+  lang: en
+  template: drupal
+  captured_at: '2022-01-25 21:15:38+00'
+  capture_id: 240631
+  wayback_url: https://web.archive.org/web/20220125211538id_/https://magic.wizards.com/en/articles/archive/card-day-april-2003-2003-04-01
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: td7rx36a
+  capture_id: 240631
+  url: https://magic.wizards.com/en/articles/archive/card-day-april-2003-2003-04-01
+  wayback_url: https://web.archive.org/web/20220125211538id_/https://magic.wizards.com/en/articles/archive/card-day-april-2003-2003-04-01
+  captured_at: '2022-01-25 21:15:38+00'
+  template: drupal
+  sha256: 7b5db38a3f88d26e0150bdc6bc5b68f54beedee2ad8d7e8ecf78c09905504231
+render_recovery: []
+---
+**Card of the Day - mercredi 30 avril 2003** 
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Viashivan%20Dragon)
+
+#### Viashivan Dragon
+
+*Visions* rare.  
+Much like Spirit of the Night from *Mirage*, the Viashivan could be put into play by sacrificing specific other creatures - in this case Spitting Drake and Kyscu Drake. 
+
+**Card of the Day - mardi 29 avril 2003** 
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Elder%20Land%20Wurm)
+
+#### Elder Land Wurm
+
+*Legends* rare.  
+Steve Conard, *Legends* designer, tells us that the original flavor text submitted for this card was: "Once there were multitudes of Elder Dragons in Dominia. After the Great War of the dragons, many were beaten to the ground, stripped of their title, never to fly again." 
+
+**Card of the Day - lundi 28 avril 2003** 
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Forgotten%20Ancient)
+
+#### Forgotten Ancient
+
+*Scourge* rare.  
+We've talked about it for months, and now it exists! Introducing the first card YOU made, Forgotten Ancient, aka "Mr. Babycakes." 
+
+**Card of the Day - vendredi 25 avril 2003** 
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Funeral%20Charm)
+
+#### Funeral Charm
+
+*Visions* common.  
+Instant discard is a very rare ability, since it can lead to "lock" situations where you force your opponent to discard right after his draw step but before he can play the card. Vision Charm is one of the most high-profile cards with this mechanic. 
+
+**Card of the Day - jeudi 24 avril 2003** 
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Jump)
+
+#### Jump
+
+Alpha common.  
+Time has proven that an instant that gives flying is too weak of a card, making Jump one of the "most obsoleted" cards of all time. The *Stronghold* common Leap is a cantrip version of Jump at the same cost.
+
+**Card of the Day - mercredi 23 avril 2003** 
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Gallantry)
+
+#### Gallantry
+
+*Tempest* uncommon.  
+The shadow being cast in the artwork is from the Sliver Queen. 
+
+**Card of the Day - mardi 22 avril 2003** 
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Goblin%20Grenade)
+
+#### Goblin Grenade
+
+*Fallen Empires* common.  
+All cards with additional costs have been reworded in the Oracle to clear up the myth that you can pay the additional cost more than once to generate the effect more than once. 
+
+**Card of the Day - lundi 21 avril 2003** 
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Animate%20Wall)
+
+#### Animate Wall
+
+Alpha rare.  
+In order to clean up the card, Animate Wall has been errataed to be able to enchant any creature, not just Walls.
+
+**Card of the Day - vendredi 18 avril 2003** 
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Spirit%20of%20the%20Night)
+
+#### Spirit of the Night
+
+*Mirage* rare.  
+The Spirit was originally called "Spirit of the Nightstalkers," as the three creatures that "fetch" it are creature type Nightstalker. But that long name wouldn't fit on the card, and was shortened to "Spirit of the Night." 
+
+**Card of the Day - jeudi 17 avril 2003** 
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Amulet%20of%20Unmaking)
+
+#### Amulet of Unmaking
+
+*Mirage* rare.  
+The Amulet was slated to be named Sword of Damocles, from the Greek tale about imminent peril. But in an attempt to build the world of Jamuraa, it was changed. 
+
+**Card of the Day - mercredi 16 avril 2003** 
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Prismatic%20Circle)
+
+#### Prismatic Circle
+
+*Mirage* common.  
+The character's fingers in the art of Prismatic Circle are painted and arranged just like the color wheel on the back of **Magic** cards. 
+
+**Card of the Day - mardi 15 avril 2003** 
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Shimmer)
+
+#### Shimmer
+
+*Mirage* rare.  
+The original name for Shimmer was Mirage, which obviously had to be changed once the set was named. 
+
+**Card of the Day - lundi 14 avril 2003** 
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Yare)
+
+#### Yare
+
+*Mirage* rare.  
+What the heck is a Yare? Actaully, yare (rhymes with "care") is an adjective meaning *agile* or *lively*. 
+
+**Card of the Day - vendredi 11 avril 2003** 
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Primal%20Whisperer)
+
+#### Primal Whisperer
+
+*Legions* rare.  
+The Whisperer was designed as a white card, as white was initially going to be the "best morph color." When that idea was abandoned, the Whisperer became green. 
+
+**Card of the Day - jeudi 10 avril 2003** 
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Notorious%20Assassin)
+
+#### Notorious Assassin
+
+*Mercadian Masques* rare.  
+If you look closely at the art for this card, you'll see that the wall outside the window is lined with "wanted posters" bearing the assassin's likeness. 
+
+**Card of the Day - mercredi 9 avril 2003** 
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Psychic%20Vortex)
+
+#### Psychic Vortex
+
+*Weatherlight* rare.  
+The Vortex is an interesting card because the negative aspect of the card is its main ability, and the beneficial part of the card is its upkeep cost. This is the opposite of how most cards with upkeep costs work. 
+
+**Card of the Day - mardi 8 avril 2003** 
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Saproling%20Burst)
+
+#### Saproling Burst
+
+*Nemesis* rare.  
+Most keywords (like "fading") have reminder text, even in expert-level set. However, on certain rares where the text won't fit, it is eliminated. 
+
+**Card of the Day - lundi 7 avril 2003** 
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Deathmark%20Prelate)
+
+#### Deathmark Prelate
+
+*Legions* uncommon.  
+There was a lot of arguing in development about this card. First, it required no mana cost to use and killed non-black creatures as opposed to non-Zombies. Oh, and it was common. As it was really, really good in Limited, changes kept being made until it ended up how it is now. 
+
+**Card of the Day - vendredi 4 avril 2003** 
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Mountain%20Stronghold)
+
+#### Mountain Stronghold
+
+*Legends* uncommon.  
+The most maligned cycle of nonbasic lands in the history of Magic is the *Legends* bands-with-others cycle. Making cards purely by flavor sometimes leads to really bad cards. 
+
+**Card of the Day - jeudi 3 avril 2003** 
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Tarnished%20Citadel)
+
+#### Tarnished Citadel
+
+*Odyssey* rare.  
+Tarnished Citadel's original design was not used in *Odyssey*; instead, it was moved to *Onslaught* and became Grand Coliseum. 
+
+**Card of the Day - mercredi 2 avril 2003** 
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Salt%20Flats)
+
+#### Salt Flats
+
+*Tempest* rare.  
+The comes-into-play-tapped *Tempest* painlands were not very good, and strictly better versions were printed in *Apocalypse*. 
+
+**Card of the Day - mardi 1 avril 2003** 
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Thawing%20Glaciers)
+
+#### Thawing Glaciers
+
+*Alliances* rare.  
+Because of the redefined "end of turn" in Sixth Edition rules, the second part of Thawing Glaciers now reads: "If it's the end phase, return Thawing Glaciers to its owner's hand. Otherwise, return Thawing Glaciers to its owner's hand at end of turn."

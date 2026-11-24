@@ -1,0 +1,55 @@
+---
+id: h2d9xccf
+kind: event
+lang: afr
+path: /afr/events/2011/gppar11/grand-prix-paris-round-10-blue-results
+title: Grand Prix Paris Round 10 Blue Results
+published: '2011-02-12'
+column_slug: null
+column: null
+authors: []
+event_code: gppar11
+detected_lang: afr
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gppar11/resblue10
+    lang_detected: afr
+    capture_id: 457223
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gppar11/resblue10
+    captured_at: '2013-06-29 18:24:15+00'
+    rule: aspx.article_heading
+  published:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gppar11/resblue10
+    lang_detected: afr
+    capture_id: 457223
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gppar11/resblue10
+    captured_at: '2013-06-29 18:24:15+00'
+    rule: aspx.byline_date
+  event_code:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gppar11/resblue10
+    lang_detected: afr
+    capture_id: 457223
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gppar11/resblue10
+    captured_at: '2013-06-29 18:24:15+00'
+    rule: url.event_code
+sources:
+- document_id: h2d9xccf
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gppar11/resblue10
+  page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gppar11/resblue10
+  lang: afr
+  template: aspx
+  captured_at: '2013-06-29 18:24:15+00'
+  capture_id: 457223
+  wayback_url: https://web.archive.org/web/20130629182415id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gppar11/resblue10
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: h2d9xccf
+  capture_id: 457223
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gppar11/resblue10
+  wayback_url: https://web.archive.org/web/20130629182415id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gppar11/resblue10
+  captured_at: '2013-06-29 18:24:15+00'
+  template: aspx
+  sha256: d0f36df48c974a49ee01f6f7d59e13743317ebc7e79c04c94e4057121325bcb8
+render_recovery: []
+---
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130629182415/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gppar11/resblue10">&#10;        <b>Table</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130629182415/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gppar11/resblue10">&#10;        <b>Player</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130629182415/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gppar11/resblue10">&#10;        <b>Result</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130629182415/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gppar11/resblue10">&#10;        <b>&#10;      </b></a><b>&#10;    </b></td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130629182415/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gppar11/resblue10">&#10;        <b>Opponent</b>&#10;      </a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>1001</td>&#10;    <td>Budde, Kai [DEU]</td>&#10;    <td>Won 2-1</td>&#10;    <td>vs.</td>&#10;    <td>Golovin, Alexey N [RUS]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>1002</td>&#10;    <td>Akbulut, Berk [TUR]</td>&#10;    <td>Lost 0-2</td>&#10;    <td>vs.</td>&#10;    <td>Mcleod, Lewis [FRA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>1003</td>&#10;    <td>Nakamura, Shuuhei [JPN]</td>&#10;    <td>Won 2-0</td>&#10;    <td>vs.</td>&#10;    <td>Thibeault, Vincent [CAN]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>1004</td>&#10;    <td>Kanis, Jeroen [NLD]</td>&#10;    <td>Won 2-0</td>&#10;    <td>vs.</td>&#10;    <td>Thil, Stephane [FRA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>1005</td>&#10;    <td>Meertens, Job [NLD]</td>&#10;    <td>Lost 0-2</td>&#10;    <td>vs.</td>&#10;    <td>Fortier, Laurent [FRA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>1006</td>&#10;    <td>Canavesi, Daniele [ITA]</td>&#10;    <td>Won 2-0</td>&#10;    <td>vs.</td>&#10;    <td>Levy, Raphael [FRA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>1007</td>&#10;    <td>Piovano, Daniele [ITA]</td>&#10;    <td>Won 2-1</td>&#10;    <td>vs.</td>&#10;    <td>Martin, Aaron E [CAN]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>1008</td>&#10;    <td>Oberg, Kenny [SWE]</td>&#10;    <td>Won 2-1</td>&#10;    <td>vs.</td>&#10;    <td>Melis, Bas [NLD]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>1009</td>&#10;    <td>Komatsu, Satoshi [JPN]</td>&#10;    <td>Lost 1-2</td>&#10;    <td>vs.</td>&#10;    <td>Massart, Philippe [BEL]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>1010</td>&#10;    <td>Pascoli, Mario [ITA]</td>&#10;    <td>Lost 0-2</td>&#10;    <td>vs.</td>&#10;    <td>Mccormick, Alex [AUS]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>1011</td>&#10;    <td>Bleys, Tony [BEL]</td>&#10;    <td>Lost 1-2</td>&#10;    <td>vs.</td>&#10;    <td>Senneway, Bill [USA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>1012</td>&#10;    <td>Shenhar, Shahar [USA]</td>&#10;    <td>Lost 0-2</td>&#10;    <td>vs.</td>&#10;    <td>Künzler, Matthias [CHE]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>1013</td>&#10;    <td>Dingler, Martin [FRA]</td>&#10;    <td>Won 2-1</td>&#10;    <td>vs.</td>&#10;    <td>Michel 1203188795, Gui [FRA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>1014</td>&#10;    <td>Matsumoto, Yuuki [JPN]</td>&#10;    <td>Won 2-1</td>&#10;    <td>vs.</td>&#10;    <td>Kyriazis, Ioannis K [FRA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>1015</td>&#10;    <td>Aristov, Boris [RUS]</td>&#10;    <td>Lost 1-2</td>&#10;    <td>vs.</td>&#10;    <td>Maubert, Noham [FRA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>1016</td>&#10;    <td>Herdzina, Wojciech [POL]</td>&#10;    <td>Lost 0-2</td>&#10;    <td>vs.</td>&#10;    <td>Faeder, Dustin M [USA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>1017</td>&#10;    <td>Nielsen, William [USA]</td>&#10;    <td>Won 2-1</td>&#10;    <td>vs.</td>&#10;    <td>Bjezancevic, Ivan [HRV]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>1018</td>&#10;    <td>Klimes, Tomas [CZE]</td>&#10;    <td>Lost 0-2</td>&#10;    <td>vs.</td>&#10;    <td>De La Fourniere, Thier [FRA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>1019</td>&#10;    <td>Käll, Tim [SWE]</td>&#10;    <td>Won 2-0</td>&#10;    <td>vs.</td>&#10;    <td>Tice, Doug E [USA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>1020</td>&#10;    <td>Brozek, Petr [CZE]</td>&#10;    <td>Lost 1-2</td>&#10;    <td>vs.</td>&#10;    <td>Zhang, Stephen Y [USA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>1021</td>&#10;    <td>Mize, Logan G [USA]</td>&#10;    <td>Lost 1-2</td>&#10;    <td>vs.</td>&#10;    <td>Sauvain, Romain [CHE]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>1022</td>&#10;    <td>Victorion, Andy [FRA]</td>&#10;    <td>Won 2-0</td>&#10;    <td>vs.</td>&#10;    <td>Noorlander, Mark [NLD]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>1023</td>&#10;    <td>Kocsis, Gabor [HUN]</td>&#10;    <td>Won 2-0</td>&#10;    <td>vs.</td>&#10;    <td>Van Medevoort, Robert [NLD]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>1024</td>&#10;    <td>Noé, Benjamin [BEL]</td>&#10;    <td>Lost 1-2</td>&#10;    <td>vs.</td>&#10;    <td>Huynh, Kim Lam [FRA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>1025</td>&#10;    <td>Godineau, Manuel [FRA]</td>&#10;    <td>Lost 0-2</td>&#10;    <td>vs.</td>&#10;    <td>Borges, Eduardo [BRA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>1026</td>&#10;    <td>Jalaksa, Filip [SVK]</td>&#10;    <td>Won 2-0</td>&#10;    <td>vs.</td>&#10;    <td>Legros, Yoann Y [FRA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>1027</td>&#10;    <td>Van Den Wouwer, Chris [FRA]</td>&#10;    <td>Lost 0-2</td>&#10;    <td>vs.</td>&#10;    <td>Sandroni, Riccardo [ITA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>1028</td>&#10;    <td>Al Takrouri, Karim [ITA]</td>&#10;    <td>Won 2-1</td>&#10;    <td>vs.</td>&#10;    <td>Savignac, Matthieu [FRA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>1029</td>&#10;    <td>Rigby, Neil [FRA]</td>&#10;    <td>Lost 0-2</td>&#10;    <td>vs.</td>&#10;    <td>Milis, Michael [BEL]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>1030</td>&#10;    <td>Patriarca, Joffrey [BEL]</td>&#10;    <td>Lost 0-2</td>&#10;    <td>vs.</td>&#10;    <td>Mackl, Valentin [AUT]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>1031</td>&#10;    <td>Martinez, Alexis [ESP]</td>&#10;    <td>Lost 0-2</td>&#10;    <td>vs.</td>&#10;    <td>Jesse, Zach [USA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>1032</td>&#10;    <td>Szoke, Zoltan [HUN]</td>&#10;    <td>Lost 0-2</td>&#10;    <td>vs.</td>&#10;    <td>Szenasi, Csaba [HUN]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>1033</td>&#10;    <td>Ma, Thomas C [USA]</td>&#10;    <td>Won 2-0</td>&#10;    <td>vs.</td>&#10;    <td>Kuebler, Dennis [DEU]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>1034</td>&#10;    <td>Gräfensteiner, Daniel [DEU]</td>&#10;    <td>Won 2-1</td>&#10;    <td>vs.</td>&#10;    <td>Cho, Joshua J [USA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>1035</td>&#10;    <td>Nyström, Per [SWE]</td>&#10;    <td>Lost 1-2</td>&#10;    <td>vs.</td>&#10;    <td>Sucic, Stjepan [HRV]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>1036</td>&#10;    <td>Edelson, Steve [USA]</td>&#10;    <td>Won 2-1</td>&#10;    <td>vs.</td>&#10;    <td>Blohon, Lucas [CZE]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>1037</td>&#10;    <td>Karsten, Frank [NLD]</td>&#10;    <td>Lost 0-2</td>&#10;    <td>vs.</td>&#10;    <td>Asanov, Marat [RUS]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>1038</td>&#10;    <td>Ross, Tom R [USA]</td>&#10;    <td>Lost 0-2</td>&#10;    <td>vs.</td>&#10;    <td>Woods, Conley L [USA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>1039</td>&#10;    <td>Dickmann, Patrick [DEU]</td>&#10;    <td>Won 2-0</td>&#10;    <td>vs.</td>&#10;    <td>Kalf, Timo [NLD]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>1040</td>&#10;    <td>Watsfeldt, Elias [SWE]</td>&#10;    <td>Lost 0-2</td>&#10;    <td>vs.</td>&#10;    <td>Korsell, Samuel [SWE]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>1041</td>&#10;    <td>Mcneely, Aaron [FRA]</td>&#10;    <td>Won 2-1</td>&#10;    <td>vs.</td>&#10;    <td>Biltcliffe, Adam [FRA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>1042</td>&#10;    <td>Gallais, Alexis [FRA]</td>&#10;    <td>Won 2-0</td>&#10;    <td>vs.</td>&#10;    <td>Erden, Oytun [TUR]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>1043</td>&#10;    <td>Coqueiro, Rafael S [BRA]</td>&#10;    <td>Won 2-0</td>&#10;    <td>vs.</td>&#10;    <td>Parker, Richard [FRA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>1044</td>&#10;    <td>Alonso Machón, Raúl [ESP]</td>&#10;    <td>Lost 0-2</td>&#10;    <td>vs.</td>&#10;    <td>Shakarisaz, David R [USA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>1045</td>&#10;    <td>Colinv©, Mickael [FRA]</td>&#10;    <td>Won 1-0</td>&#10;    <td>vs.</td>&#10;    <td>Sperling, Matt [USA]</td>&#10;  </tr>&#10;</tbody></table>

@@ -1,0 +1,55 @@
+---
+id: y15758md
+kind: article
+lang: en
+path: /en/articles/feature/2000/01-01-pro-tour-los-angeles-1999-layout-of-the-queen-mary
+title: Pro Tour-Los Angeles 1999 Layout of the Queen Mary
+published: '2000-01-01'
+column_slug: feature
+column: Feature
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/pro-tour-los-angeles-1999-layout-queen-mary-2000-01-01
+    lang_detected: en
+    capture_id: 1144451
+    url: https://magic.wizards.com/en/articles/archive/pro-tour-los-angeles-1999-layout-queen-mary-2000-01-01
+    captured_at: '2021-11-29 07:52:05+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/pro-tour-los-angeles-1999-layout-queen-mary-2000-01-01
+    lang_detected: en
+    capture_id: 1144451
+    url: https://magic.wizards.com/en/articles/archive/pro-tour-los-angeles-1999-layout-queen-mary-2000-01-01
+    captured_at: '2021-11-29 07:52:05+00'
+    rule: url.date_slug
+  column:
+    page_key: magic.wizards.com/en/articles/archive/pro-tour-los-angeles-1999-layout-queen-mary-2000-01-01
+    lang_detected: en
+    capture_id: 1144451
+    url: https://magic.wizards.com/en/articles/archive/pro-tour-los-angeles-1999-layout-queen-mary-2000-01-01
+    captured_at: '2021-11-29 07:52:05+00'
+    rule: drupal.posted_in_link
+    registry_match: registry.explicit
+sources:
+- document_id: y15758md
+  url: https://magic.wizards.com/en/articles/archive/pro-tour-los-angeles-1999-layout-queen-mary-2000-01-01
+  page_key: magic.wizards.com/en/articles/archive/pro-tour-los-angeles-1999-layout-queen-mary-2000-01-01
+  lang: en
+  template: drupal
+  captured_at: '2021-11-29 07:52:05+00'
+  capture_id: 1144451
+  wayback_url: https://web.archive.org/web/20211129075205id_/https://magic.wizards.com/en/articles/archive/pro-tour-los-angeles-1999-layout-queen-mary-2000-01-01
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: y15758md
+  capture_id: 1144451
+  url: https://magic.wizards.com/en/articles/archive/pro-tour-los-angeles-1999-layout-queen-mary-2000-01-01
+  wayback_url: https://web.archive.org/web/20211129075205id_/https://magic.wizards.com/en/articles/archive/pro-tour-los-angeles-1999-layout-queen-mary-2000-01-01
+  captured_at: '2021-11-29 07:52:05+00'
+  template: drupal
+  sha256: 3fcd7e01db38b0d4c68f07c96593e7f3b4e0710919b0d231dd276af3f0ac67eb
+render_recovery: []
+---
+<table><thead></thead><tbody><tr><td>&#10;			<img alt="" src="https://media.magic.wizards.com/image_legacy_migration/PTLA99/images/18826">&#10;			</td>&#10;		</tr><tr><td>&#10;			<img alt="" src="https://media.magic.wizards.com/image_legacy_migration/PTLA99/images/18827">&#10;			</td>&#10;		</tr><tr><td>&#10;			<img alt="" src="https://media.magic.wizards.com/image_legacy_migration/PTLA99/images/18828">&#10;			</td>&#10;		</tr><tr><td>&#10;			<img alt="" src="https://media.magic.wizards.com/image_legacy_migration/PTLA99/images/18829">&#10;			</td>&#10;		</tr></tbody></table>

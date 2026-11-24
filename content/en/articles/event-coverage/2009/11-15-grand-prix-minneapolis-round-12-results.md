@@ -1,0 +1,47 @@
+---
+id: w97jg1w3
+kind: event
+lang: en
+path: /en/articles/event-coverage/2009/11-15-grand-prix-minneapolis-round-12-results
+title: 'Grand Prix Minneapolis: Round 12 Results'
+published: '2009-11-15'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-minneapolis-round-12-results-2009-11-15
+    lang_detected: en
+    capture_id: 413523
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-minneapolis-round-12-results-2009-11-15
+    captured_at: '2021-10-28 18:07:30+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-minneapolis-round-12-results-2009-11-15
+    lang_detected: en
+    capture_id: 413523
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-minneapolis-round-12-results-2009-11-15
+    captured_at: '2021-10-28 18:07:30+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: w97jg1w3
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-minneapolis-round-12-results-2009-11-15
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-minneapolis-round-12-results-2009-11-15
+  lang: en
+  template: drupal
+  captured_at: '2021-10-28 18:07:30+00'
+  capture_id: 413523
+  wayback_url: https://web.archive.org/web/20211028180730id_/https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-minneapolis-round-12-results-2009-11-15
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: w97jg1w3
+  capture_id: 413523
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-minneapolis-round-12-results-2009-11-15
+  wayback_url: https://web.archive.org/web/20211028180730id_/https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-minneapolis-round-12-results-2009-11-15
+  captured_at: '2021-10-28 18:07:30+00'
+  template: drupal
+  sha256: 0654f820193fcf02850857b48b443451a25f9c4ed11d51bbf5b93f4d184bb247
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Result</b></td><td><b>&#10;						</b></td><td><b>Opponent</b></td></tr><tr><td> 1</td><td>Boggemes, Kyle m</td><td>Lost 1-2</td><td>vs.</td><td>Watanabe, Yuuya</td></tr><tr><td> 2</td><td>Sperling, Matt</td><td>Won 2-0</td><td>vs.</td><td>Turtenwald, Owen</td></tr><tr><td> 3</td><td>Nelson, Brad J</td><td>Won 2-0</td><td>vs.</td><td>Carlson, Brendan s</td></tr><tr><td> 4</td><td>Rolf, John</td><td>Won 2-1</td><td>vs.</td><td>Rietzl, Paul R</td></tr><tr><td> 5</td><td>Bhagat, Zohar N</td><td>Won 2-1</td><td>vs.</td><td>Beltz, James w</td></tr><tr><td> 6</td><td>Yam, Philip</td><td>Lost 0-2</td><td>vs.</td><td>Kibler, Brian M</td></tr><tr><td> 7</td><td>Ross, Tom R</td><td>Won 2-0</td><td>vs.</td><td>Hatch, Greg A</td></tr><tr><td> 8</td><td>Sullivan, Adrian L</td><td>Won 2-1</td><td>vs.</td><td>Allbright, Bob L</td></tr><tr><td> 9</td><td>Steiglitz, Barry M</td><td>Lost 1-2</td><td>vs.</td><td>Gualtieri, Mike A</td></tr><tr><td> 10</td><td>Stoffa, Gabriel L</td><td>Won 2-1</td><td>vs.</td><td>Ruel, Olivier</td></tr><tr><td> 11</td><td>Canode, Alan R</td><td>Won 2-0</td><td>vs.</td><td>Metzel, Joey A</td></tr><tr><td> 12</td><td>Vargas, Andrew</td><td>Lost 0-2</td><td>vs.</td><td>Muraca, Nick</td></tr><tr><td> 13</td><td>Smart, Shawn</td><td>Won 2-1</td><td>vs.</td><td>Carlson, Mark</td></tr><tr><td> 14</td><td>Scheel, Brandon M</td><td>Lost 0-2</td><td>vs.</td><td>Vidugiris, Gaudenis</td></tr><tr><td> 15</td><td>Martinez, Joshua</td><td>Won 2-0</td><td>vs.</td><td>Rietze, Robert j</td></tr><tr><td> 16</td><td>Baroni, Steven</td><td>Lost 1-2</td><td>vs.</td><td>Weitz, Brian E</td></tr><tr><td> 17</td><td>Berger, Eric</td><td>Lost 0-2</td><td>vs.</td><td>Saitou, Tomoharu</td></tr><tr><td> 18</td><td>Bernal, Joe w</td><td>Lost 0-2</td><td>vs.</td><td>Enrinc, Cory</td></tr><tr><td> 19</td><td>Izsak, Yoel</td><td>Won 2-1</td><td>vs.</td><td>Chen, Lokman</td></tr><tr><td> 20</td><td>Phillips, Cedric A</td><td>Won 2-1</td><td>vs.</td><td>Nakamura, Shuuhei</td></tr><tr><td> 21</td><td>Demars, Brian m</td><td>Won 2-0</td><td>vs.</td><td>Weil, Noah E</td></tr><tr><td> 22</td><td>Carmody, Brenden M</td><td>Won 2-1</td><td>vs.</td><td>Kastner, Donald</td></tr><tr><td> 23</td><td>O'Connor, Kevin</td><td>Lost 0-2</td><td>vs.</td><td>golliher, jason H</td></tr><tr><td> 24</td><td>Fennell, Chris A</td><td>Lost 0-2</td><td>vs.</td><td>Fruth, Kurt K</td></tr><tr><td> 25</td><td>Tao, Yubin</td><td>Won 2-1</td><td>vs.</td><td>da Rosa, Paulo Vitor D</td></tr><tr><td> 26</td><td>Duchow, Lucas J</td><td>Lost 1-2</td><td>vs.</td><td>Law, Alvin</td></tr><tr><td> 27</td><td>Miller, Jake C</td><td>Lost 0-2</td><td>vs.</td><td>Blankenship, David A</td></tr><tr><td> 28</td><td>Gehring, Lance</td><td>Lost 0-2</td><td>vs.</td><td>Ochoa, David A</td></tr><tr><td> 29</td><td>Stolzmann, John S</td><td>Lost 0-2</td><td>vs.</td><td>Serio, Ronny D</td></tr><tr><td> 30</td><td>Stachurski, Richard T</td><td>Lost 0-2</td><td>vs.</td><td>Mcclain, Josh J</td></tr><tr><td> 31</td><td>Yanyuk, Andrey</td><td>Won 2-0</td><td>vs.</td><td>Yetka, Dave L</td></tr><tr><td> 32</td><td>Brostoff, Jonathan F</td><td>Lost 1-2</td><td>vs.</td><td>Laehn, Taylor G</td></tr><tr><td> 33</td><td>Bielick, Scott K</td><td>Won 2-0</td><td>vs.</td><td>Yagger, Matt</td></tr><tr><td> 34</td><td>Carlson, Joe J</td><td>Won 2-0</td><td>vs.</td><td>Jerrard, Zach</td></tr><tr><td> 35</td><td>Green, Daniel D</td><td>Lost 1-2</td><td>vs.</td><td>Sittner, John A</td></tr><tr><td> 36</td><td>Kaplan, Louis H</td><td>Lost 1-2</td><td>vs.</td><td>Day, Josh R</td></tr><tr><td> 37</td><td>Germar, Richard S</td><td>Lost 1-2</td><td>vs.</td><td>Felske, David K</td></tr><tr><td> 38</td><td>Lindmark, Rhys</td><td>Lost 0-2</td><td>vs.</td><td>Sokoloski, Chris</td></tr><tr><td> 39</td><td>Martell, Tom</td><td>Lost 1-2</td><td>vs.</td><td>Castor, Kenneth B</td></tr><tr><td> 40</td><td>Vanderkin, Kyle</td><td>Won 2-0</td><td>vs.</td><td>Irwin, Keith</td></tr><tr><td> 41</td><td>Gardiner, Steven</td><td>Lost 1-2</td><td>vs.</td><td>Manfield, Seth</td></tr><tr><td> 42</td><td>Tinney, Bradley R</td><td>Won 2-0</td><td>vs.</td><td>Reifsteck, Nathan D</td></tr><tr><td> 43</td><td>Kolowith, Tommy</td><td>Won 2-1</td><td>vs.</td><td>Anderson, David</td></tr><tr><td> 44</td><td>Orsini Jones, Matteo</td><td>Lost 1-2</td><td>vs.</td><td>Erickson, Jens C</td></tr><tr><td> 45</td><td>Wall, Ryan J</td><td>Lost 0-2</td><td>vs.</td><td>Utter-Leyton, Josh W</td></tr><tr><td> 46</td><td>Klatt, Rylan W</td><td>Won 2-1</td><td>vs.</td><td>DOVE-BUCK, ANDREW C</td></tr><tr><td> 47</td><td>Neal, Stephen A</td><td>Lost 0-2</td><td>vs.</td><td>Wemyss, Ceilyn</td></tr><tr><td> 48</td><td>Ranallo, Frank</td><td>Won 2-0</td><td>vs.</td><td>Block, Russell D</td></tr><tr><td> 49</td><td>Lundquist, Benjamin R</td><td>Won 2-0</td><td>vs.</td><td>Spindler, Ryan A</td></tr><tr><td> 50</td><td>Thompson, Troy d</td><td>Lost 0-2</td><td>vs.</td><td>Mechtensimer, Aaron R</td></tr><tr><td> 51</td><td>Coqueiro, Rafael S</td><td>Won 2-1</td><td>vs.</td><td>Hellenbrand, Seth</td></tr><tr><td> 52</td><td>Darkow, Theodore</td><td>Lost 0-2</td><td>vs.</td><td>Walls, Gabe R</td></tr><tr><td> 53</td><td>Siow, Lucas E</td><td>Won 2-1</td><td>vs.</td><td>Black, Alex</td></tr><tr><td> 54</td><td>Evenson, Daniel</td><td>Lost 1-2</td><td>vs.</td><td>Chapin, Patrick A</td></tr><tr><td> 55</td><td>Barnett, Jason</td><td>Lost 1-2</td><td>vs.</td><td>Marquis, Dustin L</td></tr><tr><td> 56</td><td>wetzel, Aaron A</td><td>Lost 0-2</td><td>vs.</td><td>Wise, Nick A</td></tr><tr><td> 57</td><td>Woodcock, Taylor</td><td>Lost 0-2</td><td>vs.</td><td>Weber, Jordan D</td></tr><tr><td> 58</td><td>Mohr, Bryan W</td><td>Lost 0-2</td><td>vs.</td><td>Bush, James A</td></tr><tr><td> 59</td><td>Seedorf, Robert</td><td>Lost 1-2</td><td>vs.</td><td>Scott-Vargas, Luis D</td></tr><tr><td> 60</td><td>Rogganbuck, Scott A</td><td>Lost 0-2</td><td>vs.</td><td>Novak, Tyler E</td></tr><tr><td> 61</td><td>Piazza, Brett C</td><td>Lost 0-2</td><td>vs.</td><td>Makino, Bernie</td></tr><tr><td> 62</td><td>Munden, Derek</td><td>Lost 0-2</td><td>vs.</td><td>Pieper, Charlie</td></tr><tr><td> 63</td><td>Marsh, Greg J</td><td>Lost 0-2</td><td>vs.</td><td>Overturf, Ryan M</td></tr><tr><td> 64</td><td>Aintrazi, Ali I</td><td>Won 2-0</td><td>vs.</td><td>Miller, Chris D</td></tr><tr><td> 65</td><td>Penick, John A</td><td>Won 2-0</td><td>vs.</td><td>Mantey, Tyler</td></tr><tr><td> 66</td><td>Arenson, Mike B</td><td>Won 2-0</td><td>vs.</td><td>Swearingen, Jon M</td></tr><tr><td> 67</td><td>Marin, Julian A</td><td>Lost 0-2</td><td>vs.</td><td>Tanner, Kasey J</td></tr><tr><td> 68</td><td>Cannistraro, Michael P</td><td>Won 2-0</td><td>vs.</td><td>Nguyen, Kenneth</td></tr><tr><td>&#10;					</td><td>Hoyt, Jair W</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr><tr><td>&#10;					</td><td>Campbell, Blaine</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr><tr><td>&#10;					</td><td>Scott, Daniel</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr><tr><td>&#10;					</td><td>Niemi, Blake</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr></tbody></table>

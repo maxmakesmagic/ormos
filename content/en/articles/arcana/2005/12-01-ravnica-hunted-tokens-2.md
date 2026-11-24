@@ -1,0 +1,118 @@
+---
+id: 5c88adsp
+kind: article
+lang: en
+path: /en/articles/arcana/2005/12-01-ravnica-hunted-tokens-2
+title: Ravnica Hunted Tokens 2
+published: '2005-12-01'
+column_slug: arcana
+column: Arcana
+authors:
+- slug: magic-arcana
+  name: Magic Arcana
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: wizards.com/default.asp?x=mtgcom/arcana/961
+    lang_detected: en
+    capture_id: 1908335
+    url: http://www.wizards.com/default.asp?x=mtgcom/arcana/961
+    captured_at: '2008-05-03 20:39:34+00'
+    rule: html.title
+  published:
+    page_key: wizards.com/default.asp?x=mtgcom/arcana/961
+    lang_detected: en
+    capture_id: 1908335
+    url: http://www.wizards.com/default.asp?x=mtgcom/arcana/961
+    captured_at: '2008-05-03 20:39:34+00'
+    rule: classic.byline_date
+  authors:
+    page_key: wizards.com/default.asp?x=mtgcom/arcana/961
+    lang_detected: en
+    capture_id: 1908335
+    url: http://www.wizards.com/default.asp?x=mtgcom/arcana/961
+    captured_at: '2008-05-03 20:39:34+00'
+    rule: classic.byline
+  column:
+    page_key: wizards.com/default.asp?x=mtgcom/arcana/961
+    lang_detected: en
+    capture_id: 1908335
+    url: http://www.wizards.com/default.asp?x=mtgcom/arcana/961
+    captured_at: '2008-05-03 20:39:34+00'
+    rule: classic.column_marker
+    registry_match: registry.explicit
+sources:
+- document_id: 5c88adsp
+  url: http://www.wizards.com/default.asp?x=mtgcom/arcana/961
+  page_key: wizards.com/default.asp?x=mtgcom/arcana/961
+  lang: en
+  template: classic_asp
+  captured_at: '2008-05-03 20:39:34+00'
+  capture_id: 1908335
+  wayback_url: https://web.archive.org/web/20080503203934id_/http://www.wizards.com/default.asp?x=mtgcom/arcana/961
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 5c88adsp
+  capture_id: 1908335
+  url: http://www.wizards.com/default.asp?x=mtgcom/arcana/961
+  wayback_url: https://web.archive.org/web/20080503203934id_/http://www.wizards.com/default.asp?x=mtgcom/arcana/961
+  captured_at: '2008-05-03 20:39:34+00'
+  template: classic_asp
+  sha256: 95b1e814c3f0984fcdddf6ed6bb3cbd0da6e174cae26fdaae36460677890c164
+render_recovery:
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Hunted_Horror')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Hunted Horror
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Hunted_Lammasu')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Hunted Lammasu
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Transluminant')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Transluminant
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Twilight_Drover')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Twilight Drover
+  occurrences: 1
+---
+* * *
+
+As we've seen before, original art is often commissioned for the tokens of token-generating cards, either for **Magic** Player Rewards prizes or to serve as the visuals for ***Magic** Online* creature tokens. 
+
+Way back during *Ravnica* previews, we showed you the [first set of token art](/en/articles/arcana/2005/09-26-ravnica-hunted-tokens-1) for *Ravnica's* Hunted creatures. Today we show you the rest.
+
+When your opponent plays out the two-mana 7/7 trampler **Hunted Horror**, you get a pair of 3/3 pro-black hunters. Centaurs, to be exact:
+
+<table><tbody><tr><td><img alt="Ravnica Centaur token in Magic Online" src="https://i.ormos.uk/2c/f1/2cf1b98c704862ff347573fccbb10cb664e7b56f126975be4f485dba619ec752.jpg" title="Ravnica Centaur token in Magic Online"></td>&#10;<td><img alt="Ravnica Centaur token art by Martina Pilcerova" src="https://i.ormos.uk/9c/46/9c46920e331f74e4191b0f58b12d4baa5288244710a29b0525d7c30d6f5e4efd.jpg" title="Ravnica Centaur token art by Martina Pilcerova"></td>&#10;</tr>&#10;</tbody></table>
+
+*Ravnica Centaur token art by Martina Pilcerova*
+
+Speaking of horrors, you get a 4/4 one when your opponent graces his board with the 5/5 flying **Hunted Lammasu**. Note how you can see the Hunted Lammasu up above the Horror:
+
+<table><tbody><tr><td><img alt="Ravnica Horror token art by Pete Venters" src="https://i.ormos.uk/2d/12/2d122e45cf600a29b52bf438293ceadb17b6d5f4d66078f3cc1a1bc06e55d084.jpg" title="Ravnica Horror token art by Pete Venters"></td>&#10;<td><img alt="Ravnica Horror token in Magic Online" src="https://i.ormos.uk/52/7f/527f3ff447689c53aa8299b2b28c17313dbe7a7aedc8cffdcb01a1794d0edc1e.jpg" title="Ravnica Horror token in Magic Online"></td>&#10;</tr>&#10;</tbody></table>
+
+*Ravnica Horror token art by Pete Venters*
+
+As a bonus, here's the art commissioned for the *Ravnica* Spirit token, generated by **Transluminant** and **Twilight Drover**:
+
+<table><tbody><tr><td><img alt="Ravnica spirit token in Magic Online" src="https://i.ormos.uk/58/60/5860294145db31581ffe02a03b3fe17e4d0787c6968855d8ea015b7724ea37b3.jpg" title="Ravnica spirit token in Magic Online"></td>&#10;<td><img alt="Ravnica spirit token art by Dave Allsop" src="https://i.ormos.uk/c7/bd/c7bdfdf7eba73e61b442751a3567dbb389946b17b6fca1eb3143ae378b738f47.jpg" title="Ravnica spirit token art by Dave Allsop"></td>&#10;</tr>&#10;</tbody></table>
+
+*Ravnica Spirit token art by Dave Allsop*

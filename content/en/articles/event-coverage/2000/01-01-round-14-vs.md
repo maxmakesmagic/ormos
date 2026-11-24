@@ -1,0 +1,348 @@
+---
+id: n464sn43
+kind: event
+lang: en
+path: /en/articles/event-coverage/2000/01-01-round-14-vs
+title: 'Round 14: 安藤玲二 vs 羽田大介'
+published: '2000-01-01'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-14-%E5%AE%89%E8%97%A4%E7%8E%B2%E4%BA%8C-vs-%E7%BE%BD%E7%94%B0%E5%A4%A7%E4%BB%8B-2000-01-01
+    lang_detected: en
+    capture_id: 508135
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-14-%E5%AE%89%E8%97%A4%E7%8E%B2%E4%BA%8C-vs-%E7%BE%BD%E7%94%B0%E5%A4%A7%E4%BB%8B-2000-01-01
+    captured_at: '2022-01-20 07:20:14+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-14-%E5%AE%89%E8%97%A4%E7%8E%B2%E4%BA%8C-vs-%E7%BE%BD%E7%94%B0%E5%A4%A7%E4%BB%8B-2000-01-01
+    lang_detected: en
+    capture_id: 508135
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-14-%E5%AE%89%E8%97%A4%E7%8E%B2%E4%BA%8C-vs-%E7%BE%BD%E7%94%B0%E5%A4%A7%E4%BB%8B-2000-01-01
+    captured_at: '2022-01-20 07:20:14+00'
+    rule: url.date_slug
+sources:
+- document_id: n464sn43
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-14-%E5%AE%89%E8%97%A4%E7%8E%B2%E4%BA%8C-vs-%E7%BE%BD%E7%94%B0%E5%A4%A7%E4%BB%8B-2000-01-01
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/round-14-%E5%AE%89%E8%97%A4%E7%8E%B2%E4%BA%8C-vs-%E7%BE%BD%E7%94%B0%E5%A4%A7%E4%BB%8B-2000-01-01
+  lang: en
+  template: drupal
+  captured_at: '2022-01-20 07:20:14+00'
+  capture_id: 508135
+  wayback_url: https://web.archive.org/web/20220120072014id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-14-%E5%AE%89%E8%97%A4%E7%8E%B2%E4%BA%8C-vs-%E7%BE%BD%E7%94%B0%E5%A4%A7%E4%BB%8B-2000-01-01
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: n464sn43
+  capture_id: 508135
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-14-%E5%AE%89%E8%97%A4%E7%8E%B2%E4%BA%8C-vs-%E7%BE%BD%E7%94%B0%E5%A4%A7%E4%BB%8B-2000-01-01
+  wayback_url: https://web.archive.org/web/20220120072014id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-14-%E5%AE%89%E8%97%A4%E7%8E%B2%E4%BA%8C-vs-%E7%BE%BD%E7%94%B0%E5%A4%A7%E4%BB%8B-2000-01-01
+  captured_at: '2022-01-20 07:20:14+00'
+  template: drupal
+  sha256: 6207a29e2a22c87e770596c07612ccbde5e9e98ad003f36a4adb740eee5a8c0e
+render_recovery:
+- code: deck_widget_requires_review
+  element: a
+  reason: The archived deck widget has no visible card rows. The source capture may
+    contain data to recover it.
+  labels:
+  - Decklist
+  occurrences: 2
+---
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpshi01/893.jpg)
+
+　いよいよBest8入りをかけた最後の試合。  
+ 　その成果をもぎ取るのはどちらの金髪か。
+
+### Game 1
+
+　先手の玲二はマリガン。後手の羽田は初期のプレッシャーにかけるも、十分な手札。
+
+　後手の羽田がまずは《 Diligent Farmhand / 精励する農場労働者 》からの開始。これが一度殴った後、玲二は《 Druid Lyrist / ドルイドの抒情詩人 》を召喚し、相打ちを取る。羽田は余ったマナで《 Steamclaw / 蒸気爪 》をキャスト。フラッシュバックが大量に入った玲二のデッキには渋く効く。
+
+　次のアクションも羽田から。《 Rabid Elephant / 凶暴象 》だ。一方玲二も《 Caustic Tar / 苛性タール 》という変化球でのダメージレースでなんとか追尾を図る。
+
+　だが、ここで羽田が出したクリーチャーは。
+
+　《 Cephalid Retainer / セファリッドの家来 》
+
+　更には二体目となる《 Rabid Elephant / 凶暴象 》と続けられては事故気味の玲二になすすべがない。唯一だした 4/4 もタップされてしまい対処無し。
+
+　玲二 0 - 羽田 1
+
+### Game 2
+
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpshi01/894.jpg)
+
+　二戦目はともに申し分のない初手。先手の玲二が《 Druid Lyrist / ドルイドの抒情詩人 》から、《 Spellbane Centaur / 呪文散らしのケンタウルス 》、《 Springing Tiger / 飛びかかる虎 》と続ける絶好の展開。
+
+　ようやく羽田も同じく《 Springing Tiger / 飛びかかる虎 》を召喚してこれに応える。  
+ 　次なる玲二のターン。相手は都合よくフルタップであるが、《 Cephalid Retainer / セファリッドの家来 》のことを考えると《 Spellbane Centaur / 呪文散らしのケンタウルス 》を残しておきたくもある。だが、玲二は悩んだ末に全軍突撃。そのケンタウルスと虎が相打つ。玲二はこれに《 Seton, Krosan Protector / クローサの庇護者シートン 》と二匹目の《 Druid Lyrist / ドルイドの抒情詩人 》を続けざまに召喚
+
+　羽田は次に《 Rabid Elephant / 凶暴象 》を召喚。  
+ 　  
+ 　そして再び全軍突撃。《 Rabid Elephant / 凶暴象 》にブロックされたクリーチャーに対して、《 Refresh / リフレッシュ 》を使用する玲二。この時点で、ライフが玲二２０に対し羽田が６。
+
+　そして再び、《 Cephalid Retainer / セファリッドの家来 》が。
+
+　ここで一時玲二の脚が止まる。玲二の手札は全て黒いカードであり、場にはタップインの緑ランド。
+
+　その隙に羽田が場を盛り返す。まだ黒マナの引けない玲二。だが、その手札には《 Caustic Tar / 苛性タール 》が有り、羽田のライフは６なのである。
+
+　はたして空から殴り殺すのが先かそれとも玲二の黒マナが先か。
+
+　引いたカードを引き当てた玲二が思わず
+
+　「っしゃ！」
+
+　と叫びつつ、勢いをつけ《 Caustic Tar / 苛性タール 》をキャスト。
+
+　残されたターンは僅か１。羽田も《 Refresh / リフレッシュ 》を通しなんとか打開策を求めるも、引いたカードは森 . . . 。
+
+　玲二 1 - 羽田 1
+
+### Game 3
+
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpshi01/895.jpg)
+
+　《 Puppeteer / くぐつ師 》があるものの島二枚のみを先手である羽田はマリガン。一方玲二は土地満載、残すは《 Druid Lyrist / ドルイドの抒情詩人 》と《 Seton's Desire / シートンの願望 》のみという手札をキープ。玲二の重いデッキには悪くない初手である。
+
+　互いに、《 Diligent Farmhand / 精励する農場労働者 》《 Druid Lyrist / ドルイドの抒情詩人 》と召喚しあい、玲二がこれに《 Seton's Desire / シートンの願望 》を装着。羽田はこれをブロックしつつ、二枚目の土地を場に出す。
+
+　《 Dreamwinder / 夢繰り 》を羽田が召喚。だが、マナタップ状態でのブロックを嫌い本体に通す。
+
+　次のターン、玲二の《 Rabid Elephant / 凶暴象 》を全面否定。そのままアタックしてくる《 Druid Lyrist / ドルイドの抒情詩人 》を今度は《 Dreamwinder / 夢繰り 》でブロックする . . . 無事相打ち。
+
+　何も引けない羽田に対し、玲二は《 Springing Tiger / 飛びかかる虎 》をキャスト。そしてターンを待った後に、《 Spellbane Centaur / 呪文散らしのケンタウルス 》から《 Nantuko Mentor / ナントゥーコの導師 》とたたみ掛ける。たまらず羽田は《 Nantuko Mentor / ナントゥーコの導師 》をフラッシュバックからの全面否定。
+
+　ようやく、羽田がクリーチャーを掘り当てる。《 Thought Devourer / 思考を貪るもの 》。だが、これには秒で《 Ghastly Demise / 恐ろしい死 》が。
+
+　《 Springing Tiger / 飛びかかる虎 》と《 Spellbane Centaur / 呪文散らしのケンタウルス 》が攻撃。羽田は《 Vivify / 活気 》を使用し、なんとか《 Spellbane Centaur / 呪文散らしのケンタウルス 》を相打ちにだが、ライフは既に７。
+
+　「どん」
+
+　凄まじい勢いで玲二が《 Stone-Tongue Basilisk / 石舌のバジリスク 》を叩きつけるようにキャスト。思わず羽田の顔が歪む。
+
+　そして、祈るように引いたカードは . . . 《 Elephant Ambush / 象の待ち伏せ 》。なんとか《 Stone-Tongue Basilisk / 石舌のバジリスク 》を一度ブロックした後に寂しそうにこれまた秒で。
+
+　そして勝利を確信した玲二が《 Morbid Hunger / 病的な飢え 》を本体にキャスト . . . そう、もはや羽田は何もできなかった。
+
+　Panzer Hunters におけるチーム戦だけではなく、玲二が個人戦でもその力を発揮しベスト８入りの切符をもぎ取った。
+
+　もしくは金髪の力で。
+
+　玲二 2 - 羽田 1
+
+#### Ando Reiji
+
+##### 
+
+ ![Download Arena Decklist](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png) ![](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+[Decklist](#none) [Stats](#none) [Sample Hand](#none) 
+
+Sort by: 
+
+##### Creature (11)
+
+1 [Sadistic Hypnotist](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSadistic%5D+%5BHypnotist%5D) 1 [Whispering Shade](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWhispering%5D+%5BShade%5D) 2 [Druid Lyrist](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDruid%5D+%5BLyrist%5D) 1 [Krosan Archer](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BArcher%5D) 1 [Metamorphic Wurm](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMetamorphic%5D+%5BWurm%5D) 1 [Nantuko Mentor](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNantuko%5D+%5BMentor%5D) 1 [Seton, Krosan Protector](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeton,%5D+%5BKrosan%5D+%5BProtector%5D) 1 [Spellbane Centaur](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpellbane%5D+%5BCentaur%5D) 1 [Springing Tiger](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpringing%5D+%5BTiger%5D) 1 [Stone-Tongue Basilisk](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStone-Tongue%5D+%5BBasilisk%5D) 
+
+##### Sorcery (3)
+
+3 [Morbid Hunger](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMorbid%5D+%5BHunger%5D) 
+
+##### Instant (4)
+
+1 [Ghastly Demise](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhastly%5D+%5BDemise%5D) 1 [Beast Attack](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBeast%5D+%5BAttack%5D) 1 [Moment's Peace](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMoment%5D+%5BPeace%5D) 1 [Refresh](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRefresh%5D) 
+
+##### Enchantment (2)
+
+1 [Caustic Tar](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCaustic%5D+%5BTar%5D) 1 [Seton's Desire](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeton%5D+%5BDesire%5D) 
+
+##### Land (18)
+
+9 [Forest](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D) 8 [Swamp](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D) 1 [Timberland Ruins](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTimberland%5D+%5BRuins%5D) 
+
+##### Other (2)
+
+1 Face or Fear 1 Rapid Elephant 
+
+40 Cards 
+
+##### Black (7)
+
+1 [Sadistic Hypnotist](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSadistic%5D+%5BHypnotist%5D) 1 [Whispering Shade](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWhispering%5D+%5BShade%5D) 1 [Caustic Tar](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCaustic%5D+%5BTar%5D) 1 [Ghastly Demise](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhastly%5D+%5BDemise%5D) 3 [Morbid Hunger](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMorbid%5D+%5BHunger%5D) 
+
+##### Green (13)
+
+2 [Druid Lyrist](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDruid%5D+%5BLyrist%5D) 1 [Krosan Archer](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BArcher%5D) 1 [Metamorphic Wurm](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMetamorphic%5D+%5BWurm%5D) 1 [Nantuko Mentor](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNantuko%5D+%5BMentor%5D) 1 [Seton, Krosan Protector](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeton,%5D+%5BKrosan%5D+%5BProtector%5D) 1 [Spellbane Centaur](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpellbane%5D+%5BCentaur%5D) 1 [Springing Tiger](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpringing%5D+%5BTiger%5D) 1 [Stone-Tongue Basilisk](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStone-Tongue%5D+%5BBasilisk%5D) 1 [Beast Attack](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBeast%5D+%5BAttack%5D) 1 [Moment's Peace](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMoment%5D+%5BPeace%5D) 1 [Refresh](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRefresh%5D) 1 [Seton's Desire](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeton%5D+%5BDesire%5D) 
+
+##### Colorless (20)
+
+9 [Forest](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D) 8 [Swamp](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D) 1 [Timberland Ruins](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTimberland%5D+%5BRuins%5D) 1 Face or Fear 1 Rapid Elephant 
+
+40 Cards 
+
+##### 1 (3)
+
+2 [Druid Lyrist](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDruid%5D+%5BLyrist%5D) 1 [Ghastly Demise](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhastly%5D+%5BDemise%5D) 
+
+##### 2 (1)
+
+1 [Moment's Peace](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMoment%5D+%5BPeace%5D) 
+
+##### 3 (5)
+
+1 [Nantuko Mentor](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNantuko%5D+%5BMentor%5D) 1 [Seton, Krosan Protector](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeton,%5D+%5BKrosan%5D+%5BProtector%5D) 1 [Spellbane Centaur](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpellbane%5D+%5BCentaur%5D) 1 [Refresh](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRefresh%5D) 1 [Seton's Desire](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeton%5D+%5BDesire%5D) 
+
+##### 4 (3)
+
+1 [Whispering Shade](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWhispering%5D+%5BShade%5D) 1 [Krosan Archer](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BArcher%5D) 1 [Springing Tiger](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpringing%5D+%5BTiger%5D) 
+
+##### 5 (3)
+
+1 [Sadistic Hypnotist](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSadistic%5D+%5BHypnotist%5D) 1 [Metamorphic Wurm](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMetamorphic%5D+%5BWurm%5D) 1 [Beast Attack](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBeast%5D+%5BAttack%5D) 
+
+##### 6 (4)
+
+1 [Caustic Tar](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCaustic%5D+%5BTar%5D) 3 [Morbid Hunger](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMorbid%5D+%5BHunger%5D) 
+
+##### 7 (1)
+
+1 [Stone-Tongue Basilisk](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStone-Tongue%5D+%5BBasilisk%5D) 
+
+20 Cards 
+
+##### Common (32)
+
+9 [Forest](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D) 8 [Swamp](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D) 1 [Timberland Ruins](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTimberland%5D+%5BRuins%5D) 1 Face or Fear 1 [Whispering Shade](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWhispering%5D+%5BShade%5D) 2 [Druid Lyrist](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDruid%5D+%5BLyrist%5D) 1 [Krosan Archer](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKrosan%5D+%5BArcher%5D) 1 Rapid Elephant 1 [Springing Tiger](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpringing%5D+%5BTiger%5D) 1 [Ghastly Demise](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhastly%5D+%5BDemise%5D) 3 [Morbid Hunger](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMorbid%5D+%5BHunger%5D) 1 [Moment's Peace](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMoment%5D+%5BPeace%5D) 1 [Refresh](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRefresh%5D) 1 [Seton's Desire](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeton%5D+%5BDesire%5D) 
+
+##### Uncommon (4)
+
+1 [Sadistic Hypnotist](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSadistic%5D+%5BHypnotist%5D) 1 [Metamorphic Wurm](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMetamorphic%5D+%5BWurm%5D) 1 [Caustic Tar](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCaustic%5D+%5BTar%5D) 1 [Beast Attack](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBeast%5D+%5BAttack%5D) 
+
+##### Rare (4)
+
+1 [Nantuko Mentor](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNantuko%5D+%5BMentor%5D) 1 [Seton, Krosan Protector](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeton,%5D+%5BKrosan%5D+%5BProtector%5D) 1 [Spellbane Centaur](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpellbane%5D+%5BCentaur%5D) 1 [Stone-Tongue Basilisk](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStone-Tongue%5D+%5BBasilisk%5D) 
+
+40 Cards 
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Forest)
+
+[Deal Another Hand](https://web.archive.org/web/20000101000000/https://magic.wizards.com/en)
+
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Morbid+Hunger)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Druid+Lyrist)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Druid+Lyrist)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Ghastly+Demise)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Seton%2C+Krosan+Protector)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Krosan+Archer)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Spellbane+Centaur)
+
+a:22:{i:0;O:8:"stdClass":3:{s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"9";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:6:"Forest";s:22:"field\_card\_image\_front";a:0:{}}}i:1;O:8:"stdClass":3:{s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"8";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:5:"Swamp";s:22:"field\_card\_image\_front";a:0:{}}}i:2;O:8:"stdClass":3:{s:4:"type";s:4:"land";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Timberland Ruins";s:22:"field\_card\_image\_front";a:0:{}}}i:3;O:8:"stdClass":3:{s:4:"type";s:5:"Other";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";N;s:22:"field\_card\_image\_front";N;}}i:4;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:18:"Sadistic Hypnotist";s:22:"field\_card\_image\_front";a:0:{}}}i:5;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Whispering Shade";s:22:"field\_card\_image\_front";a:0:{}}}i:6;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"2";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Druid Lyrist";s:22:"field\_card\_image\_front";a:0:{}}}i:7;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Krosan Archer";s:22:"field\_card\_image\_front";a:0:{}}}i:8;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Metamorphic Wurm";s:22:"field\_card\_image\_front";a:0:{}}}i:9;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Nantuko Mentor";s:22:"field\_card\_image\_front";a:0:{}}}i:10;O:8:"stdClass":3:{s:4:"type";s:5:"Other";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";N;s:22:"field\_card\_image\_front";N;}}i:11;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:23:"Seton, Krosan Protector";s:22:"field\_card\_image\_front";a:0:{}}}i:12;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Spellbane Centaur";s:22:"field\_card\_image\_front";a:0:{}}}i:13;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Springing Tiger";s:22:"field\_card\_image\_front";a:0:{}}}i:14;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:21:"Stone-Tongue Basilisk";s:22:"field\_card\_image\_front";a:0:{}}}i:15;O:8:"stdClass":3:{s:4:"type";s:11:"enchantment";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Caustic Tar";s:22:"field\_card\_image\_front";a:0:{}}}i:16;O:8:"stdClass":3:{s:4:"type";s:7:"instant";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Ghastly Demise";s:22:"field\_card\_image\_front";a:0:{}}}i:17;O:8:"stdClass":3:{s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"3";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Morbid Hunger";s:22:"field\_card\_image\_front";a:0:{}}}i:18;O:8:"stdClass":3:{s:4:"type";s:7:"instant";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Beast Attack";s:22:"field\_card\_image\_front";a:0:{}}}i:19;O:8:"stdClass":3:{s:4:"type";s:7:"instant";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Moment's Peace";s:22:"field\_card\_image\_front";a:0:{}}}i:20;O:8:"stdClass":3:{s:4:"type";s:7:"instant";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:7:"Refresh";s:22:"field\_card\_image\_front";a:0:{}}}i:21;O:8:"stdClass":3:{s:4:"type";s:11:"enchantment";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Seton's Desire";s:22:"field\_card\_image\_front";a:0:{}}}} 
+
+#### Haneda Daisuke
+
+##### 
+
+ ![Download Arena Decklist](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png) ![](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+[Decklist](#none) [Stats](#none) [Sample Hand](#none) 
+
+Sort by: 
+
+##### Creature (11)
+
+1 [Aven Windreader](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAven%5D+%5BWindreader%5D) 1 [Cephalid Retainer](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCephalid%5D+%5BRetainer%5D) 1 [Cephalid Scout](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCephalid%5D+%5BScout%5D) 1 [Dreamwinder](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDreamwinder%5D) 1 [Thought Devourer](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThought%5D+%5BDevourer%5D) 1 [Treetop Sentinel](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTreetop%5D+%5BSentinel%5D) 1 [Diligent Farmhand](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDiligent%5D+%5BFarmhand%5D) 1 [Nantuko Disciple](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNantuko%5D+%5BDisciple%5D) 1 [Nantuko Elder](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNantuko%5D+%5BElder%5D) 1 [Nimble Mongoose](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNimble%5D+%5BMongoose%5D) 1 [Springing Tiger](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpringing%5D+%5BTiger%5D) 
+
+##### Sorcery (1)
+
+1 [Careful Study](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCareful%5D+%5BStudy%5D) 
+
+##### Instant (6)
+
+1 [Fervent Denial](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFervent%5D+%5BDenial%5D) 1 [Peek](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPeek%5D) 1 [Beast Attack](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBeast%5D+%5BAttack%5D) 1 [Elephant Ambush](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElephant%5D+%5BAmbush%5D) 1 [Moment's Peace](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMoment%5D+%5BPeace%5D) 1 [Refresh](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRefresh%5D) 
+
+##### Artifact (1)
+
+1 [Steamclaw](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteamclaw%5D) 
+
+##### Enchantment (1)
+
+1 [Psionic Gift](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPsionic%5D+%5BGift%5D) 
+
+##### Land (17)
+
+9 [Forest](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D) 8 [Island](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D) 
+
+##### Other (3)
+
+2 Rapid Elephant 1 Vivity 
+
+40 Cards 
+
+##### Blue (10)
+
+1 [Aven Windreader](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAven%5D+%5BWindreader%5D) 1 [Cephalid Retainer](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCephalid%5D+%5BRetainer%5D) 1 [Cephalid Scout](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCephalid%5D+%5BScout%5D) 1 [Dreamwinder](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDreamwinder%5D) 1 [Thought Devourer](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThought%5D+%5BDevourer%5D) 1 [Treetop Sentinel](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTreetop%5D+%5BSentinel%5D) 1 [Careful Study](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCareful%5D+%5BStudy%5D) 1 [Fervent Denial](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFervent%5D+%5BDenial%5D) 1 [Peek](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPeek%5D) 1 [Psionic Gift](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPsionic%5D+%5BGift%5D) 
+
+##### Green (9)
+
+1 [Diligent Farmhand](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDiligent%5D+%5BFarmhand%5D) 1 [Nantuko Disciple](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNantuko%5D+%5BDisciple%5D) 1 [Nantuko Elder](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNantuko%5D+%5BElder%5D) 1 [Nimble Mongoose](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNimble%5D+%5BMongoose%5D) 1 [Springing Tiger](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpringing%5D+%5BTiger%5D) 1 [Beast Attack](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBeast%5D+%5BAttack%5D) 1 [Elephant Ambush](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElephant%5D+%5BAmbush%5D) 1 [Moment's Peace](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMoment%5D+%5BPeace%5D) 1 [Refresh](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRefresh%5D) 
+
+##### Colorless (21)
+
+9 [Forest](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D) 8 [Island](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D) 2 Rapid Elephant 1 [Steamclaw](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteamclaw%5D) 1 Vivity 
+
+40 Cards 
+
+##### 1 (4)
+
+1 [Diligent Farmhand](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDiligent%5D+%5BFarmhand%5D) 1 [Nimble Mongoose](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNimble%5D+%5BMongoose%5D) 1 [Careful Study](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCareful%5D+%5BStudy%5D) 1 [Peek](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPeek%5D) 
+
+##### 2 (4)
+
+1 [Cephalid Scout](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCephalid%5D+%5BScout%5D) 1 [Steamclaw](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteamclaw%5D) 1 [Psionic Gift](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPsionic%5D+%5BGift%5D) 1 [Moment's Peace](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMoment%5D+%5BPeace%5D) 
+
+##### 3 (2)
+
+1 [Nantuko Elder](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNantuko%5D+%5BElder%5D) 1 [Refresh](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRefresh%5D) 
+
+##### 4 (7)
+
+1 [Cephalid Retainer](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCephalid%5D+%5BRetainer%5D) 1 [Dreamwinder](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDreamwinder%5D) 1 [Thought Devourer](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThought%5D+%5BDevourer%5D) 1 [Treetop Sentinel](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTreetop%5D+%5BSentinel%5D) 1 [Nantuko Disciple](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNantuko%5D+%5BDisciple%5D) 1 [Springing Tiger](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpringing%5D+%5BTiger%5D) 1 [Elephant Ambush](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElephant%5D+%5BAmbush%5D) 
+
+##### 5 (3)
+
+1 [Aven Windreader](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAven%5D+%5BWindreader%5D) 1 [Fervent Denial](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFervent%5D+%5BDenial%5D) 1 [Beast Attack](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBeast%5D+%5BAttack%5D) 
+
+20 Cards 
+
+##### Common (33)
+
+9 [Forest](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D) 8 [Island](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D) 1 [Aven Windreader](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAven%5D+%5BWindreader%5D) 1 [Cephalid Scout](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCephalid%5D+%5BScout%5D) 1 [Dreamwinder](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDreamwinder%5D) 1 [Diligent Farmhand](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDiligent%5D+%5BFarmhand%5D) 1 [Nantuko Disciple](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNantuko%5D+%5BDisciple%5D) 1 [Nimble Mongoose](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNimble%5D+%5BMongoose%5D) 2 Rapid Elephant 1 [Springing Tiger](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpringing%5D+%5BTiger%5D) 1 [Careful Study](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCareful%5D+%5BStudy%5D) 1 [Peek](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPeek%5D) 1 [Psionic Gift](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPsionic%5D+%5BGift%5D) 1 [Elephant Ambush](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElephant%5D+%5BAmbush%5D) 1 [Moment's Peace](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMoment%5D+%5BPeace%5D) 1 [Refresh](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRefresh%5D) 1 Vivity 
+
+##### Uncommon (5)
+
+1 [Treetop Sentinel](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTreetop%5D+%5BSentinel%5D) 1 [Nantuko Elder](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNantuko%5D+%5BElder%5D) 1 [Steamclaw](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteamclaw%5D) 1 [Fervent Denial](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFervent%5D+%5BDenial%5D) 1 [Beast Attack](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBeast%5D+%5BAttack%5D) 
+
+##### Rare (2)
+
+1 [Cephalid Retainer](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCephalid%5D+%5BRetainer%5D) 1 [Thought Devourer](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThought%5D+%5BDevourer%5D) 
+
+40 Cards 
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Forest)
+
+[Deal Another Hand](https://web.archive.org/web/20000101000000/https://magic.wizards.com/en)
+
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Cephalid+Scout)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Island)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Nimble+Mongoose)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Peek)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Forest)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Forest)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Island)
+
+a:24:{i:0;O:8:"stdClass":3:{s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"9";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:6:"Forest";s:22:"field\_card\_image\_front";a:0:{}}}i:1;O:8:"stdClass":3:{s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"8";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:6:"Island";s:22:"field\_card\_image\_front";a:0:{}}}i:2;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Aven Windreader";s:22:"field\_card\_image\_front";a:0:{}}}i:3;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Cephalid Retainer";s:22:"field\_card\_image\_front";a:0:{}}}i:4;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Cephalid Scout";s:22:"field\_card\_image\_front";a:0:{}}}i:5;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Dreamwinder";s:22:"field\_card\_image\_front";a:0:{}}}i:6;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Thought Devourer";s:22:"field\_card\_image\_front";a:0:{}}}i:7;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Treetop Sentinel";s:22:"field\_card\_image\_front";a:0:{}}}i:8;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Diligent Farmhand";s:22:"field\_card\_image\_front";a:0:{}}}i:9;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Nantuko Disciple";s:22:"field\_card\_image\_front";a:0:{}}}i:10;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Nantuko Elder";s:22:"field\_card\_image\_front";a:0:{}}}i:11;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Nimble Mongoose";s:22:"field\_card\_image\_front";a:0:{}}}i:12;O:8:"stdClass":3:{s:4:"type";s:5:"Other";s:10:"deck\_count";s:1:"2";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";N;s:22:"field\_card\_image\_front";N;}}i:13;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Springing Tiger";s:22:"field\_card\_image\_front";a:0:{}}}i:14;O:8:"stdClass":3:{s:4:"type";s:8:"artifact";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:9:"Steamclaw";s:22:"field\_card\_image\_front";a:0:{}}}i:15;O:8:"stdClass":3:{s:4:"type";s:7:"sorcery";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Careful Study";s:22:"field\_card\_image\_front";a:0:{}}}i:16;O:8:"stdClass":3:{s:4:"type";s:7:"instant";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Fervent Denial";s:22:"field\_card\_image\_front";a:0:{}}}i:17;O:8:"stdClass":3:{s:4:"type";s:7:"instant";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:4:"Peek";s:22:"field\_card\_image\_front";a:0:{}}}i:18;O:8:"stdClass":3:{s:4:"type";s:11:"enchantment";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Psionic Gift";s:22:"field\_card\_image\_front";a:0:{}}}i:19;O:8:"stdClass":3:{s:4:"type";s:7:"instant";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Beast Attack";s:22:"field\_card\_image\_front";a:0:{}}}i:20;O:8:"stdClass":3:{s:4:"type";s:7:"instant";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Elephant Ambush";s:22:"field\_card\_image\_front";a:0:{}}}i:21;O:8:"stdClass":3:{s:4:"type";s:7:"instant";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Moment's Peace";s:22:"field\_card\_image\_front";a:0:{}}}i:22;O:8:"stdClass":3:{s:4:"type";s:7:"instant";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:7:"Refresh";s:22:"field\_card\_image\_front";a:0:{}}}i:23;O:8:"stdClass":3:{s:4:"type";s:5:"Other";s:10:"deck\_count";i:1;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";N;s:22:"field\_card\_image\_front";N;}}}

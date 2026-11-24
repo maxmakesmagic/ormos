@@ -1,0 +1,86 @@
+---
+id: 29g9drcr
+kind: article
+lang: en
+path: /en/articles/latestdevelopments/2011/06-17-aarons-random-card-comment-archive-part-2
+title: Aaron's Random Card Comment Archive, Part 2
+published: '2011-06-17'
+column_slug: latestdevelopments
+column: Latest Developments
+authors:
+- slug: aaronforsythe
+  name: Aaron Forsythe
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/latest-developments/aarons-random-card-comment-archive-part-2-2011-06-16
+    lang_detected: en
+    capture_id: 717781
+    url: https://magic.wizards.com/en/articles/archive/latest-developments/aarons-random-card-comment-archive-part-2-2011-06-16
+    captured_at: '2022-07-01 04:56:49+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/latest-developments/aarons-random-card-comment-archive-part-2-2011-06-16
+    lang_detected: en
+    capture_id: 717781
+    url: https://magic.wizards.com/en/articles/archive/latest-developments/aarons-random-card-comment-archive-part-2-2011-06-16
+    captured_at: '2022-07-01 04:56:49+00'
+    rule: drupal.posted_in_date
+  authors:
+    page_key: magic.wizards.com/en/articles/archive/latest-developments/aarons-random-card-comment-archive-part-2-2011-06-16
+    lang_detected: en
+    capture_id: 717781
+    url: https://magic.wizards.com/en/articles/archive/latest-developments/aarons-random-card-comment-archive-part-2-2011-06-16
+    captured_at: '2022-07-01 04:56:49+00'
+    rule: drupal.div_author
+  column:
+    page_key: magic.wizards.com/en/articles/archive/latest-developments/aarons-random-card-comment-archive-part-2-2011-06-16
+    lang_detected: en
+    capture_id: 717781
+    url: https://magic.wizards.com/en/articles/archive/latest-developments/aarons-random-card-comment-archive-part-2-2011-06-16
+    captured_at: '2022-07-01 04:56:49+00'
+    rule: url.article_section
+    registry_match: registry.separator_and_case
+sources:
+- document_id: 29g9drcr
+  url: https://magic.wizards.com/en/articles/archive/latest-developments/aarons-random-card-comment-archive-part-2-2011-06-16
+  page_key: magic.wizards.com/en/articles/archive/latest-developments/aarons-random-card-comment-archive-part-2-2011-06-16
+  lang: en
+  template: drupal
+  captured_at: '2022-07-01 04:56:49+00'
+  capture_id: 717781
+  wayback_url: https://web.archive.org/web/20220701045649id_/https://magic.wizards.com/en/articles/archive/latest-developments/aarons-random-card-comment-archive-part-2-2011-06-16
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 29g9drcr
+  capture_id: 717781
+  url: https://magic.wizards.com/en/articles/archive/latest-developments/aarons-random-card-comment-archive-part-2-2011-06-16
+  wayback_url: https://web.archive.org/web/20220701045649id_/https://magic.wizards.com/en/articles/archive/latest-developments/aarons-random-card-comment-archive-part-2-2011-06-16
+  captured_at: '2022-07-01 04:56:49+00'
+  template: drupal
+  sha256: 4cf7cd709d9019553f5cc4f4c01d09b3e719c1aa44b9461bc22f5d169a4fca7d
+render_recovery: []
+---
+*Director of **Magic** Ramp;D Aaron Forsythe is consistently active in the online **Magic** community, primarily through his Twitter account, @[mtgaaron](http://twitter.com/#!/mtgaaron). One occasional feature on his Twitter feed is Aaron's Random Card Comment of the Day, or #arccd. For each Random Card Comment, Aaron uses the [Random Card](https://web.archive.org/web/20110617000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?action=random) button in Gatherer, then heads into the Discussion tab for that card and writes a short commentary on it—no matter what it is (except for basic lands, as discussed in ARCCD #16).*
+
+*The result is something like 30,000 words—and counting—of candid card commentary from a man who's spent more time thinking about **Magic** than can comfortably be guessed. Inside, you'll get Aaron's thoughts, insights, and recollections about "perfect" cards, the difference between design and just making cards, and the switch from [Counterspell](https://web.archive.org/web/20110617000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Counterspell) to [Cancel](https://web.archive.org/web/20110617000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cancel).*
+
+*Here, collected in one place for the first time, are Aaron's Random Card Comments numbers 26-50. We're divvying them up for your protection—if you've ever tried to drink out of a firehose you know what I'm talking about—but if you really want to dive in, you can find our archive of the first 25 [here](https://web.archive.org/web/20110617000000/https://magic.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/ld/145), and all the cards Aaron has commented on in Gatherer [here](https://web.archive.org/web/20110617000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?action=advancedamp;user=+%5BAaron_Forsythe%5D).*
+
+*Tom LaPille will be back next week!*
+
+*Kelly Digges*  
+*Daily MTG Editor*  
+***MagicTheGathering.com***
+
+![](https://i.ormos.uk/73/36/73362eec90a58f5095798ebb222ae76c926a7fbd440f4ecedbb0bfa28e67c291.jpg)  
+
+<table><tbody><tr><td><ul>26</ul></td><td><ul><a href="https://web.archive.org/web/20110617000000/http://gatherer.wizards.com/Pages/Card/Discussion.aspx?multiverseid=193652">Reality Spasm</a></ul></td><td><div><div><a href="https://web.archive.org/web/20110617000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=193652"><img alt="" src="https://gatherer.wizards.com/Handlers/Image.ashx?type=card&amp;name=193652"></a></div></div><br></td></tr><tr><td><ul>27</ul></td><td><ul><a href="https://web.archive.org/web/20110617000000/http://gatherer.wizards.com/Pages/Card/Discussion.aspx?multiverseid=113523">Cancel</a></ul></td><td><div><div><a href="https://web.archive.org/web/20110617000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=113523"><img alt="" src="https://gatherer.wizards.com/Handlers/Image.ashx?type=card&amp;name=113523"></a></div></div><br></td></tr><tr><td><ul>28</ul></td><td><ul><a href="https://web.archive.org/web/20110617000000/http://gatherer.wizards.com/Pages/Card/Discussion.aspx?multiverseid=4447">Abyssal Gatekeeper</a></ul></td><td><div><div><a href="https://web.archive.org/web/20110617000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=4447"><img alt="" src="https://gatherer.wizards.com/Handlers/Image.ashx?type=card&amp;name=4447"></a></div></div><br></td></tr><tr><td><ul>29</ul></td><td><ul><a href="https://web.archive.org/web/20110617000000/http://gatherer.wizards.com/Pages/Card/Discussion.aspx?multiverseid=23234">Planar Portal</a></ul></td><td><div><div><a href="https://web.archive.org/web/20110617000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=23234"><img alt="" src="https://gatherer.wizards.com/Handlers/Image.ashx?type=card&amp;name=23234"></a></div></div><br></td></tr><tr><td><ul>30</ul></td><td><ul><a href="https://web.archive.org/web/20110617000000/http://gatherer.wizards.com/Pages/Card/Discussion.aspx?multiverseid=83005">Blaze</a></ul></td><td><div><div><a href="https://web.archive.org/web/20110617000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=83005"><img alt="" src="https://gatherer.wizards.com/Handlers/Image.ashx?type=card&amp;name=83005"></a></div></div><br></td></tr><tr><td><ul>31</ul></td><td><ul><a href="https://web.archive.org/web/20110617000000/http://gatherer.wizards.com/Pages/Card/Discussion.aspx?multiverseid=51183">Neurok Stealthsuit</a></ul></td><td><div><div><a href="https://web.archive.org/web/20110617000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=51183"><img alt="" src="https://gatherer.wizards.com/Handlers/Image.ashx?type=card&amp;name=51183"></a></div></div><br></td></tr><tr><td><ul>32</ul></td><td><ul><a href="https://web.archive.org/web/20110617000000/http://gatherer.wizards.com/Pages/Card/Discussion.aspx?multiverseid=201819">Mutilate</a></ul></td><td><div><div><a href="https://web.archive.org/web/20110617000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=201819"><img alt="" src="https://gatherer.wizards.com/Handlers/Image.ashx?type=card&amp;name=201819"></a></div></div><br></td></tr><tr><td><ul>33</ul></td><td><ul><a href="https://web.archive.org/web/20110617000000/http://gatherer.wizards.com/Pages/Card/Discussion.aspx?multiverseid=189253">Ophidian</a></ul></td><td><div><div><a href="https://web.archive.org/web/20110617000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=189253"><img alt="" src="https://gatherer.wizards.com/Handlers/Image.ashx?type=card&amp;name=189253"></a></div></div><br></td></tr><tr><td><ul>34</ul></td><td><ul><a href="https://web.archive.org/web/20110617000000/http://gatherer.wizards.com/Pages/Card/Discussion.aspx?multiverseid=15439">Mana Prism</a></ul></td><td><div><div><a href="https://web.archive.org/web/20110617000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=15439"><img alt="" src="https://gatherer.wizards.com/Handlers/Image.ashx?type=card&amp;name=15439"></a></div></div><br></td></tr><tr><td><ul>35</ul></td><td><ul><a href="https://web.archive.org/web/20110617000000/http://gatherer.wizards.com/Pages/Card/Discussion.aspx?multiverseid=74360">Look at Me, I'm Ramp;D</a></ul></td><td><div><div><a href="https://web.archive.org/web/20110617000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=74360"><img alt="" src="https://gatherer.wizards.com/Handlers/Image.ashx?type=card&amp;name=74360"></a></div></div><br></td></tr><tr><td><ul>36</ul></td><td><ul><a href="https://web.archive.org/web/20110617000000/http://gatherer.wizards.com/Pages/Card/Discussion.aspx?multiverseid=7817">Curfew</a></ul></td><td><div><div><a href="https://web.archive.org/web/20110617000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=7817"><img alt="" src="https://gatherer.wizards.com/Handlers/Image.ashx?type=card&amp;name=7817"></a></div></div><br></td></tr><tr><td><ul>38</ul></td><td><ul><a href="https://web.archive.org/web/20110617000000/http://gatherer.wizards.com/Pages/Card/Discussion.aspx?multiverseid=2729">Giant Trap Door Spider</a></ul></td><td><div><div><a href="https://web.archive.org/web/20110617000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=2729"><img alt="" src="https://gatherer.wizards.com/Handlers/Image.ashx?type=card&amp;name=2729"></a></div></div><br></td></tr><tr><td><ul>38</ul></td><td><ul><a href="https://web.archive.org/web/20110617000000/http://gatherer.wizards.com/Pages/Card/Discussion.aspx?multiverseid=19850">Mercadia's Downfall</a></ul></td><td><div><div><a href="https://web.archive.org/web/20110617000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=19850"><img alt="" src="https://gatherer.wizards.com/Handlers/Image.ashx?type=card&amp;name=19850"></a></div></div><br></td></tr><tr><td><ul>39</ul></td><td><ul><a href="https://web.archive.org/web/20110617000000/http://gatherer.wizards.com/Pages/Card/Discussion.aspx?multiverseid=159116">Onulet</a></ul></td><td><div><div><a href="https://web.archive.org/web/20110617000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=159116"><img alt="" src="https://gatherer.wizards.com/Handlers/Image.ashx?type=card&amp;name=159116"></a></div></div><br></td></tr><tr><td><ul>40</ul></td><td><ul><a href="https://web.archive.org/web/20110617000000/http://gatherer.wizards.com/Pages/Card/Discussion.aspx?multiverseid=179433">Grixis Panorama</a></ul></td><td><div><div><a href="https://web.archive.org/web/20110617000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=179433"><img alt="" src="https://gatherer.wizards.com/Handlers/Image.ashx?type=card&amp;name=179433"></a></div></div><br></td></tr><tr><td><ul>41</ul></td><td><ul><a href="https://web.archive.org/web/20110617000000/http://gatherer.wizards.com/Pages/Card/Discussion.aspx?multiverseid=220555">Spider Umbra</a></ul></td><td><div><div><a href="https://web.archive.org/web/20110617000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=220555"><img alt="" src="https://gatherer.wizards.com/Handlers/Image.ashx?type=card&amp;name=220555"></a></div></div><br></td></tr><tr><td><ul>42</ul></td><td><ul><a href="https://web.archive.org/web/20110617000000/http://gatherer.wizards.com/Pages/Card/Discussion.aspx?multiverseid=176450">Punish Ignorance</a></ul></td><td><div><div><a href="https://web.archive.org/web/20110617000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=176450"><img alt="" src="https://gatherer.wizards.com/Handlers/Image.ashx?type=card&amp;name=176450"></a></div></div><br></td></tr><tr><td><ul>43</ul></td><td><ul><a href="https://web.archive.org/web/20110617000000/http://gatherer.wizards.com/Pages/Card/Discussion.aspx?multiverseid=19640">Invigorate</a></ul></td><td><div><div><a href="https://web.archive.org/web/20110617000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=19640"><img alt="" src="https://gatherer.wizards.com/Handlers/Image.ashx?type=card&amp;name=19640"></a></div></div><br></td></tr><tr><td><ul>44</ul></td><td><ul><a href="https://web.archive.org/web/20110617000000/http://gatherer.wizards.com/Pages/Card/Discussion.aspx?multiverseid=3769">Clockwork Steed</a></ul></td><td><div><div><a href="https://web.archive.org/web/20110617000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=3769"><img alt="" src="https://gatherer.wizards.com/Handlers/Image.ashx?type=card&amp;name=3769"></a></div></div><br></td></tr><tr><td><ul>45</ul></td><td><ul><a href="https://web.archive.org/web/20110617000000/http://gatherer.wizards.com/Pages/Card/Discussion.aspx?multiverseid=2412">Jeweled Amulet</a></ul></td><td><div><div><a href="https://web.archive.org/web/20110617000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=2412"><img alt="" src="https://gatherer.wizards.com/Handlers/Image.ashx?type=card&amp;name=2412"></a></div></div><br></td></tr><tr><td><ul>46</ul></td><td><ul><a href="https://web.archive.org/web/20110617000000/http://gatherer.wizards.com/Pages/Card/Discussion.aspx?multiverseid=83150">Lightning Elemental</a></ul></td><td><div><div><a href="https://web.archive.org/web/20110617000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=83150"><img alt="" src="https://gatherer.wizards.com/Handlers/Image.ashx?type=card&amp;name=83150"></a></div></div><br></td></tr><tr><td><ul>47</ul></td><td><ul><a href="https://web.archive.org/web/20110617000000/http://gatherer.wizards.com/Pages/Card/Discussion.aspx?multiverseid=11254">Earthquake</a></ul></td><td><div><div><a href="https://web.archive.org/web/20110617000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=11254"><img alt="" src="https://gatherer.wizards.com/Handlers/Image.ashx?type=card&amp;name=11254"></a></div></div><br></td></tr><tr><td><ul>48</ul></td><td><ul><a href="https://web.archive.org/web/20110617000000/http://gatherer.wizards.com/Pages/Card/Discussion.aspx?multiverseid=4113">Circle of Protection: Artifacts</a></ul></td><td><div><div><a href="https://web.archive.org/web/20110617000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=4113"><img alt="" src="https://gatherer.wizards.com/Handlers/Image.ashx?type=card&amp;name=4113"></a></div></div><br></td></tr><tr><td><ul>49</ul></td><td><ul><a href="https://web.archive.org/web/20110617000000/http://gatherer.wizards.com/Pages/Card/Discussion.aspx?multiverseid=190579">Acolyte of Xathrid</a></ul></td><td><div><div><a href="https://web.archive.org/web/20110617000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=190579"><img alt="" src="https://gatherer.wizards.com/Handlers/Image.ashx?type=card&amp;name=190579"></a></div></div><br></td></tr><tr><td><ul>50</ul></td><td><ul><a href="https://web.archive.org/web/20110617000000/http://gatherer.wizards.com/Pages/Card/Discussion.aspx?multiverseid=50414">Vigilance</a></ul></td><td><div><div><a href="https://web.archive.org/web/20110617000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=50414"><img alt="" src="https://gatherer.wizards.com/Handlers/Image.ashx?type=card&amp;name=50414"></a></div></div><br></td></tr></tbody></table>
+
+* * *
+
+  
+
+![](https://i.ormos.uk/8b/b1/8bb1514434d03f5c7657795e0f85266b424dfa24a81d5b70be739ff057ea3e58.png)![](https://i.ormos.uk/1c/81/1c8195ce1a8b449975fa1ac645d73f0ae8e0c2a000a3357f7170096e8a0dd9b7.png)![](https://i.ormos.uk/0f/9a/0f9a62031a3329cc4f623c962ef9df551170ecf0d634d5fa017a34f8d18d493e.png)
+
+![](http://wizards.com//mtg/images/daily/features/CMD_ArticleFooter_Top_Ver4.jpg)[![](http://wizards.com//mtg/images/daily/features/CMD_ArticleFooter_Button1_Static.jpg)](https://web.archive.org/web/20110617000000/http://archive.wizards.com/magic/TCG/ProductArticle.aspx?x=mtg/tcg/commander/productinfo%20)[![](http://wizards.com//mtg/images/daily/features/CMD_ArticleFooter_Button2_Static.jpg)](https://web.archive.org/web/20110617000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/arcana/732)[![](http://wizards.com//mtg/images/daily/features/CMD_ArticleFooter_Button3_Static.jpg)](https://web.archive.org/web/20110617000000/http://archive.wizards.com/magic/tcg/events.aspx?x=mtg/event/commander-facts)![](http://wizards.com//mtg/images/daily/features/CMD_ArticleFooter_UnderButtonsFrame.jpg)

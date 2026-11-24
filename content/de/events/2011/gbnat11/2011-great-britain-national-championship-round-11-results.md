@@ -1,0 +1,55 @@
+---
+id: br74v9pk
+kind: event
+lang: de
+path: /de/events/2011/gbnat11/2011-great-britain-national-championship-round-11-results
+title: 2011 Great Britain National Championship - Round 11 Results
+published: '2011-08-20'
+column_slug: null
+column: null
+authors: []
+event_code: gbnat11
+detected_lang: de
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gbnat11/res11
+    lang_detected: de
+    capture_id: 397564
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gbnat11/res11
+    captured_at: '2013-07-06 02:32:14+00'
+    rule: aspx.article_heading
+  published:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gbnat11/res11
+    lang_detected: de
+    capture_id: 397564
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gbnat11/res11
+    captured_at: '2013-07-06 02:32:14+00'
+    rule: aspx.byline_date
+  event_code:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gbnat11/res11
+    lang_detected: de
+    capture_id: 397564
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gbnat11/res11
+    captured_at: '2013-07-06 02:32:14+00'
+    rule: url.event_code
+sources:
+- document_id: br74v9pk
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gbnat11/res11
+  page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gbnat11/res11
+  lang: de
+  template: aspx
+  captured_at: '2013-07-06 02:32:14+00'
+  capture_id: 397564
+  wayback_url: https://web.archive.org/web/20130706023214id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gbnat11/res11
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: br74v9pk
+  capture_id: 397564
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gbnat11/res11
+  wayback_url: https://web.archive.org/web/20130706023214id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gbnat11/res11
+  captured_at: '2013-07-06 02:32:14+00'
+  template: aspx
+  sha256: 5fb89239af838e1cd1896da58d6ab8d91440468a5e35e0f0ab281084b063b3d3
+render_recovery: []
+---
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130706023214/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gbnat11/res11">&#10;        <b>Table</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130706023214/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gbnat11/res11">&#10;        <b>Player</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130706023214/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gbnat11/res11">&#10;        <b>Result</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130706023214/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gbnat11/res11">&#10;        <b>&#10;      </b></a><b>&#10;    </b></td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130706023214/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gbnat11/res11">&#10;        <b>Opponent</b>&#10;      </a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td> 1</td>&#10;    <td>Hannah, Jamie</td>&#10;    <td>Won 2-1</td>&#10;    <td>vs.</td>&#10;    <td>Purslow, Lee M</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 2</td>&#10;    <td>Lee, Wenjie</td>&#10;    <td>Lost 1-2</td>&#10;    <td>vs.</td>&#10;    <td>Jackson, Joseph H</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 3</td>&#10;    <td>Pinder, Tim P</td>&#10;    <td>Lost 0-2</td>&#10;    <td>vs.</td>&#10;    <td>Penton*, Dominic</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 4</td>&#10;    <td>Duignan, Thomas M</td>&#10;    <td>Lost 0-2</td>&#10;    <td>vs.</td>&#10;    <td>Rickell, Mark D</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 5</td>&#10;    <td>Dunn, William R</td>&#10;    <td>Won 2-1</td>&#10;    <td>vs.</td>&#10;    <td>Parker, Sebastian</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 6</td>&#10;    <td>Scoones, Ben</td>&#10;    <td>Won 2-1</td>&#10;    <td>vs.</td>&#10;    <td>Appleyard, Rob</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 7</td>&#10;    <td>Grover, Charlie</td>&#10;    <td>Lost 0-2</td>&#10;    <td>vs.</td>&#10;    <td>macpherson, scott g</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 8</td>&#10;    <td>Fletcher, Joe</td>&#10;    <td>Won 2-1</td>&#10;    <td>vs.</td>&#10;    <td>Reeve, Thomas D</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 9</td>&#10;    <td>Catton, Rob</td>&#10;    <td>Lost 0-2</td>&#10;    <td>vs.</td>&#10;    <td>Aylett, Mark</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 10</td>&#10;    <td>Orsini Jones, Marco</td>&#10;    <td>Lost 1-2</td>&#10;    <td>vs.</td>&#10;    <td>Parker, Michael</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 11</td>&#10;    <td>Blake, Kevin</td>&#10;    <td>Won 2-0</td>&#10;    <td>vs.</td>&#10;    <td>barclay, bradley</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 12</td>&#10;    <td>Smith, Richard T</td>&#10;    <td>Lost 1-2</td>&#10;    <td>vs.</td>&#10;    <td>Royde, Daniel</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 13</td>&#10;    <td>Mitchell-Burns, Jack</td>&#10;    <td>Lost 1-2</td>&#10;    <td>vs.</td>&#10;    <td>Oliver, Carrie H</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 14</td>&#10;    <td>Harborne, Daniel J</td>&#10;    <td>Won 2-1</td>&#10;    <td>vs.</td>&#10;    <td>Gwynne, Matthew</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 15</td>&#10;    <td>Randle, Jonathan</td>&#10;    <td>Drew 0-0-0</td>&#10;    <td>vs.</td>&#10;    <td>Sajgalik, Eduardo</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 16</td>&#10;    <td>Copping, Aaron</td>&#10;    <td>Lost 0-2</td>&#10;    <td>vs.</td>&#10;    <td>Savage, Jason P</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 17</td>&#10;    <td>Buchanan, Andrew G</td>&#10;    <td>Won 2-1</td>&#10;    <td>vs.</td>&#10;    <td>Taylor, Nicholas</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 18</td>&#10;    <td>Silcock, Ross</td>&#10;    <td>Lost 1-2</td>&#10;    <td>vs.</td>&#10;    <td>Bland, Richard J</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 19</td>&#10;    <td>Rickarby, Thomas</td>&#10;    <td>Won 2-0</td>&#10;    <td>vs.</td>&#10;    <td>Doropoulos, Marios-Isidoros</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 20</td>&#10;    <td>Greenwood, David M</td>&#10;    <td>Won 2-1</td>&#10;    <td>vs.</td>&#10;    <td>Marsh, Tom</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 21</td>&#10;    <td>Gower, Paul J</td>&#10;    <td>Won 2-0</td>&#10;    <td>vs.</td>&#10;    <td>Ball, Nick</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 22</td>&#10;    <td>Theobald, Mark C</td>&#10;    <td>Won 2-0</td>&#10;    <td>vs.</td>&#10;    <td>Brown, MIKEY D</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 23</td>&#10;    <td>Sanders, Benjamin M</td>&#10;    <td>Lost 1-2</td>&#10;    <td>vs.</td>&#10;    <td>Quinn, Andrew J</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 24</td>&#10;    <td>Voisey, Mark</td>&#10;    <td>Lost 1-2</td>&#10;    <td>vs.</td>&#10;    <td>Ross, Edward J</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 25</td>&#10;    <td>Murray, Stephen A</td>&#10;    <td>Won 2-1</td>&#10;    <td>vs.</td>&#10;    <td>Choca, Joao M</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 26</td>&#10;    <td>Hughes, Edward</td>&#10;    <td>Won 2-0</td>&#10;    <td>vs.</td>&#10;    <td>Johnson, Matthew</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 27</td>&#10;    <td>lambourne, jack</td>&#10;    <td>Lost 1-2</td>&#10;    <td>vs.</td>&#10;    <td>Dingler, Martin</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 28</td>&#10;    <td>Southcott, Guy</td>&#10;    <td>Lost 1-2</td>&#10;    <td>vs.</td>&#10;    <td>Bains, Steve</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 29</td>&#10;    <td>Black, Dylan</td>&#10;    <td>Lost 1-2</td>&#10;    <td>vs.</td>&#10;    <td>Goldsworthy, Glenn</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 30</td>&#10;    <td>Setsompop, Mingrerk</td>&#10;    <td>Won 2-1</td>&#10;    <td>vs.</td>&#10;    <td>SAUCET, SIMON</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 31</td>&#10;    <td>Hagan, Jonathan</td>&#10;    <td>Won 2-0</td>&#10;    <td>vs.</td>&#10;    <td>Maxwell, Michael</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 32</td>&#10;    <td>Riley, Mark</td>&#10;    <td>Lost 0-2</td>&#10;    <td>vs.</td>&#10;    <td>Trindall, Matthew</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 33</td>&#10;    <td>Mills, James R</td>&#10;    <td>Lost 0-2</td>&#10;    <td>vs.</td>&#10;    <td>Chilcott, James</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 34</td>&#10;    <td>Samra, Baljeet</td>&#10;    <td>Won 2-0</td>&#10;    <td>vs.</td>&#10;    <td>Hensley, Carl D</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 35</td>&#10;    <td>Dawes, Laura M</td>&#10;    <td>Lost 1-2</td>&#10;    <td>vs.</td>&#10;    <td>Roberts, John</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 36</td>&#10;    <td>Russell, Jason P</td>&#10;    <td>Lost 0-2</td>&#10;    <td>vs.</td>&#10;    <td>Brown, Gareth S</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 37</td>&#10;    <td>Hauchard, Francois</td>&#10;    <td>Lost 1-2</td>&#10;    <td>vs.</td>&#10;    <td>Wilson, Ed c</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 38</td>&#10;    <td>HEATH, BEN</td>&#10;    <td>Lost 1-2</td>&#10;    <td>vs.</td>&#10;    <td>Richardson, Thom</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 39</td>&#10;    <td>Adams, Graeme</td>&#10;    <td>Lost 1-2</td>&#10;    <td>vs.</td>&#10;    <td>Tompsett, Paul P</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 40</td>&#10;    <td>Silver Ford, Graham A</td>&#10;    <td>Won 2-0</td>&#10;    <td>vs.</td>&#10;    <td>Hogg, Chris</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 41</td>&#10;    <td>Cleak, James</td>&#10;    <td>Lost 1-2</td>&#10;    <td>vs.</td>&#10;    <td>Parker, Matt R</td>&#10;  </tr>&#10;</tbody></table>

@@ -1,0 +1,90 @@
+---
+id: sk31ktrk
+kind: article
+lang: en
+path: /en/articles/arcana/2004/11-09-unglued-2-veggie-creatures-2
+title: Unglued 2 Veggie Creatures
+published: '2004-11-09'
+column_slug: arcana
+column: Arcana
+authors:
+- slug: wizardsofthecoast
+  name: Wizards of the Coast
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtgcom/arcana/688
+    lang_detected: en
+    capture_id: 760752
+    url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/arcana/688
+    captured_at: '2012-11-13 03:34:12+00'
+    rule: aspx.article_heading
+  published:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtgcom/arcana/688
+    lang_detected: en
+    capture_id: 760752
+    url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/arcana/688
+    captured_at: '2012-11-13 03:34:12+00'
+    rule: aspx.byline_date
+  authors:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtgcom/arcana/688
+    lang_detected: en
+    capture_id: 760752
+    url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/arcana/688
+    captured_at: '2012-11-13 03:34:12+00'
+    rule: aspx.legacy_author_rule
+  column:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtgcom/arcana/688
+    lang_detected: en
+    capture_id: 760752
+    url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/arcana/688
+    captured_at: '2012-11-13 03:34:12+00'
+    rule: aspx.legacy_column_rule
+    registry_match: registry.explicit
+sources:
+- document_id: sk31ktrk
+  url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/arcana/688
+  page_key: wizards.com/magic/magazine/article.aspx?x=mtgcom/arcana/688
+  lang: en
+  template: aspx
+  captured_at: '2012-11-13 03:34:12+00'
+  capture_id: 760752
+  wayback_url: https://web.archive.org/web/20121113033412id_/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/arcana/688
+- document_id: sk31ktrk
+  url: http://www.wizards.com/default.asp?x=mtgcom/arcana/688
+  page_key: wizards.com/default.asp?x=mtgcom/arcana/688
+  lang: en
+  template: classic_asp
+  captured_at: '2008-05-03 20:18:59+00'
+  capture_id: 1902096
+  wayback_url: https://web.archive.org/web/20080503201859id_/http://www.wizards.com/default.asp?x=mtgcom/arcana/688
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: sk31ktrk
+  capture_id: 760752
+  url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/arcana/688
+  wayback_url: https://web.archive.org/web/20121113033412id_/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/arcana/688
+  captured_at: '2012-11-13 03:34:12+00'
+  template: aspx
+  sha256: 1810d1b9d11dc1e4fa49376d18570a718a52cb250f0362138cccd5ffa5375310
+render_recovery:
+- code: unsupported_link
+  element: a
+  target: javascript:alert("Not implemented yet (external)");
+  reason: The archived link runs JavaScript. The preview kept its text.
+  labels:
+  - poison counters
+  occurrences: 1
+---
+It's the first of two weeks of previews for *Unhinged*, a set that grew out of the ashes of the never-released proto-set, *Unglued 2*. Over the next two weeks Magic Arcana will bring you behind-the-scenes factoids of *Unhinged* and even some peeks at the *Unglued 2* that never was. 
+
+Today, for example, we look at anthropomorphized vegetables. That's right.
+
+One of the running themes of *Unglued 2* was going to be anthropomorphic vegetable creatures that gave poison counters (because, you know, vegetables -- poison). Take a look at the art of some of these tough veggies.
+
+veggies  
+
+![Unglued 2 vegetable art](https://i.ormos.uk/4a/66/4a66a9f821a174815a7a705451121594d8d709bc011b67fa9d35d3d64acce46f.jpg)  
+[![Next Veggie Pic](https://i.ormos.uk/a8/ae/a8aed2b26279939dddda884c1e83a28d4cfd036e1c2db04b1c66b75bc74a5ecf.jpg)](#veggies)
+
+The poison-veggie theme was not carried explicitly into *Unhinged*, but you may detect a vegetable here and there in the art of certain *Unhinged* cards -- which indicates art that was carried over from *Unglued 2*.

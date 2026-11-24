@@ -1,0 +1,64 @@
+---
+id: q031e7tk
+kind: article
+lang: en
+path: /en/articles/feature/2006/06-12-coldsnap-worldwide-prerelease-locations-2
+title: Coldsnap Worldwide Prerelease Locations
+published: '2006-06-12'
+column_slug: feature
+column: Feature
+authors:
+- slug: wizardsofthecoast
+  name: Wizards of the Coast
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/coldsnap-worldwide-prerelease-locations-2006-06-12-0
+    lang_detected: en
+    capture_id: 267651
+    url: https://magic.wizards.com/en/articles/archive/coldsnap-worldwide-prerelease-locations-2006-06-12-0
+    captured_at: '2021-05-03 15:47:34+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/coldsnap-worldwide-prerelease-locations-2006-06-12-0
+    lang_detected: en
+    capture_id: 267651
+    url: https://magic.wizards.com/en/articles/archive/coldsnap-worldwide-prerelease-locations-2006-06-12-0
+    captured_at: '2021-05-03 15:47:34+00'
+    rule: drupal.posted_in_date
+  authors:
+    page_key: magic.wizards.com/en/articles/archive/coldsnap-worldwide-prerelease-locations-2006-06-12-0
+    lang_detected: en
+    capture_id: 267651
+    url: https://magic.wizards.com/en/articles/archive/coldsnap-worldwide-prerelease-locations-2006-06-12-0
+    captured_at: '2021-05-03 15:47:34+00'
+    rule: drupal.div_author
+sources:
+- document_id: q031e7tk
+  url: https://magic.wizards.com/en/articles/archive/coldsnap-worldwide-prerelease-locations-2006-06-12-0
+  page_key: magic.wizards.com/en/articles/archive/coldsnap-worldwide-prerelease-locations-2006-06-12-0
+  lang: en
+  template: drupal
+  captured_at: '2021-05-03 15:47:34+00'
+  capture_id: 267651
+  wayback_url: https://web.archive.org/web/20210503154734id_/https://magic.wizards.com/en/articles/archive/coldsnap-worldwide-prerelease-locations-2006-06-12-0
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: q031e7tk
+  capture_id: 267651
+  url: https://magic.wizards.com/en/articles/archive/coldsnap-worldwide-prerelease-locations-2006-06-12-0
+  wayback_url: https://web.archive.org/web/20210503154734id_/https://magic.wizards.com/en/articles/archive/coldsnap-worldwide-prerelease-locations-2006-06-12-0
+  captured_at: '2021-05-03 15:47:34+00'
+  template: drupal
+  sha256: 2799e58372da300df106d6fdf48d3fa274bb08da850f58b678f7e7d9dc4f784d
+render_recovery:
+- code: unsupported_link
+  element: a
+  target: http://www.ccginnovations.com%20
+  reason: The archived link could not be resolved as a web address. The preview kept
+    its text.
+  labels:
+  - Website
+  occurrences: 1
+---
+<table><tbody><tr><td><b>State</b></td>&#10;			<td><b>City</b></td>&#10;			<td><b>Location</b></td>&#10;			<td><b>Address</b></td>&#10;			<td><b>Contact phone</b></td>&#10;			<td><b>Website</b></td>&#10;		</tr><tr><td>Alberta</td>&#10;			<td>Edmonton</td>&#10;			<td>Holiday Inn Convention Center</td>&#10;			<td>4520 76th Ave</td>&#10;			<td>403-851-8893</td>&#10;			<td><a href="http://www.westcanevents.com/">Website</a></td>&#10;		</tr><tr><td>Alberta</td>&#10;			<td>Calgary</td>&#10;			<td>Best Western Village Park Inn</td>&#10;			<td>1804 Corwchild Trail NW</td>&#10;			<td>403-851-8893</td>&#10;			<td><a href="http://www.westcanevents.com/">Website</a></td>&#10;		</tr><tr><td>Arizona</td>&#10;			<td>Phoenix</td>&#10;			<td>Mesa Convention Center</td>&#10;			<td>201 North Center, Mesa</td>&#10;			<td>480-326-0925</td>&#10;			<td><a href="http://www.monk.org/">Website</a></td>&#10;		</tr><tr><td>Arkansas</td>&#10;			<td>Little Rock</td>&#10;			<td>The Game Room</td>&#10;			<td>9700 Rodney Parham Rd</td>&#10;			<td>901-218-1930</td>&#10;			<td><a>Website</a></td>&#10;		</tr><tr><td>British Columbia</td>&#10;			<td>Vancouver</td>&#10;			<td>Plaza 500 Hotel</td>&#10;			<td>500 West 12th Ave</td>&#10;			<td>403-851-8893</td>&#10;			<td><a href="http://www.westcanevents.com/">Website</a></td>&#10;		</tr><tr><td>California</td>&#10;			<td>San Francisco Bay Area</td>&#10;			<td>San Jose Convention Center, Junior Ballroom</td>&#10;			<td>408 Almaden Boulevard</td>&#10;			<td>650-947-0398</td>&#10;			<td><a href="http://www.matchplay.com/">Website</a></td>&#10;		</tr><tr><td>Colorado</td>&#10;			<td>Denver</td>&#10;			<td>Red &amp; Jerry's</td>&#10;			<td>1840 West Oxford</td>&#10;			<td>303-366-3977</td>&#10;			<td><a href="http://home.comcast.net/~lerrew/%20">Website</a></td>&#10;		</tr><tr><td>Connecticut</td>&#10;			<td>East Hartford</td>&#10;			<td>Rentschler Field</td>&#10;			<td>615 Silver Lane</td>&#10;			<td>508-473-5874</td>&#10;			<td><a href="http://www.tjcollect.com/">Website</a></td>&#10;		</tr><tr><td>Florida</td>&#10;			<td>Orlando</td>&#10;			<td>Clarion Hotel &amp; Conference Center - Airport</td>&#10;			<td>3825 McCoy Rd.</td>&#10;			<td>352-404-9500</td>&#10;			<td><a href="http://www.unityentertainment.net/">Website</a></td>&#10;		</tr><tr><td>Georgia</td>&#10;			<td>Atlanta</td>&#10;			<td>Gwinnett Center</td>&#10;			<td>6400 Sugarloaf Parkway</td>&#10;			<td>770-729-9588</td>&#10;			<td><a href="http://www.southeastmagic.com/">Website</a></td>&#10;		</tr><tr><td>Hawaii</td>&#10;			<td>Honolulu</td>&#10;			<td>Paula’s Sports Cards</td>&#10;			<td>1231 Wilder Ave. #206</td>&#10;			<td>808-533-4886</td>&#10;			<td><a href="http://welcome.to/mtghawaii">Website</a></td>&#10;		</tr><tr><td>Idaho</td>&#10;			<td>Boise</td>&#10;			<td>Red Lion Downtowner</td>&#10;			<td>1800 Fairview</td>&#10;			<td>208-343-5653</td>&#10;			<td><a href="http://myweb.cableone.net/somerent/boisemagic/">Website</a></td>&#10;		</tr><tr><td>Indiana</td>&#10;			<td>Indianapolis</td>&#10;			<td>Indianapolis Convention Center</td>&#10;			<td>100 S. Capitol Ave., Wabash Room</td>&#10;			<td>847-470-9636</td>&#10;			<td><a href="http://www.pastimes.net/">Website</a></td>&#10;		</tr><tr><td>Iowa</td>&#10;			<td>Des Moines</td>&#10;			<td>Polk County Convention Center</td>&#10;			<td>501 Grand Ave.</td>&#10;			<td>847-998-9816</td>&#10;			<td><a href="http://www.moyevents.com/">Website</a></td>&#10;		</tr><tr><td>Kansas</td>&#10;			<td>Kansas City</td>&#10;			<td>Radisson</td>&#10;			<td>12601 West 95th St., Lenexa</td>&#10;			<td>913-208-6695</td>&#10;			<td><a href="http://www.feralevents.com/">Website</a></td>&#10;		</tr><tr><td>Kansas</td>&#10;			<td>Wichita</td>&#10;			<td>County Extension Center</td>&#10;			<td>21st &amp; Ridge</td>&#10;			<td>620-584-6555</td>&#10;			<td><a href="http://www.aussiefox.com/">Website</a></td>&#10;		</tr><tr><td>Manitoba</td>&#10;			<td>Winnipeg</td>&#10;			<td>Winnipeg Convention Center</td>&#10;			<td>375 York Ave</td>&#10;			<td>780-472-4101</td>&#10;			<td><a href="http://www.gamerslair.com/">Website</a></td>&#10;		</tr><tr><td>Maryland</td>&#10;			<td>Rockville</td>&#10;			<td>Dream Wizards</td>&#10;			<td>11772 Parklawn Dr.</td>&#10;			<td>301-881-3530</td>&#10;			<td><a href="http://www.dreamwizards.com/">Website</a></td>&#10;		</tr><tr><td>Massachusetts</td>&#10;			<td>Boston</td>&#10;			<td>Holiday Inn Boxborough Wood</td>&#10;			<td>242 Adams Plc, Boxborough</td>&#10;			<td>617-666-5799</td>&#10;			<td><a href="https://web.archive.org/web/20060612000000/https://magic.wizards.com/en/events/coverage/2002-australian-nationals-coverage">Website</a></td>&#10;		</tr><tr><td>Michigan</td>&#10;			<td>Taylor</td>&#10;			<td>TaylorTown Trade Center</td>&#10;			<td>22525 Ecorse Rd.</td>&#10;			<td>877-913-8881</td>&#10;			<td><a href="http://www.professional-events.com/">Website</a></td>&#10;		</tr><tr><td>Minnesota</td>&#10;			<td>Minneapolis</td>&#10;			<td>Minneapolis Convention Center</td>&#10;			<td>1301 Second Ave S.</td>&#10;			<td>612-605-1935</td>&#10;			<td><a href="http://www.legionevents.com/">Website</a></td>&#10;		</tr><tr><td>Missouri</td>&#10;			<td>St. Charles</td>&#10;			<td>Fantasy Shop</td>&#10;			<td>2426 W. Clay</td>&#10;			<td>847-998-9816</td>&#10;			<td><a href="http://www.moyevents.com/">Website</a></td>&#10;		</tr><tr><td>Nebraska</td>&#10;			<td>Lincoln</td>&#10;			<td>HobbyTown USA</td>&#10;			<td>3120 Pine Lake Road Suite 4</td>&#10;			<td>402-797-8109</td>&#10;			<td><a href="http://lincolnsouthne.hobbytown.com/custompages/?id=3107">Website</a></td>&#10;		</tr><tr><td>Nevada</td>&#10;			<td>Las Vegas</td>&#10;			<td>Sunset Station, Sunset room</td>&#10;			<td>1301 W. Sunset Rd.</td>&#10;			<td>402-434-5040</td>&#10;			<td><a href="http://www.ptegames.com/">Website</a></td>&#10;		</tr><tr><td>New Brunswick</td>&#10;			<td>Moncton</td>&#10;			<td>Beauséjour Curling Club</td>&#10;			<td>65 Essex Street</td>&#10;			<td>902-438-4560</td>&#10;			<td><a href="http://www.nomercymagic.com/">Website</a></td>&#10;		</tr><tr><td>New Jersey</td>&#10;			<td>Edison</td>&#10;			<td>St. Matthew the Apostle</td>&#10;			<td>82 Seymour Ave., cafeteria</td>&#10;			<td>212-633-6320</td>&#10;			<td><a href="http://www.graymatterconventions.com/">Website</a></td>&#10;		</tr><tr><td>New Mexico</td>&#10;			<td>Albuquerque</td>&#10;			<td>Active Imagination</td>&#10;			<td>11200 Montgomery NE, #10</td>&#10;			<td>505-346-2232</td>&#10;			<td><a href="http://www.aigamestore.com/">Website</a></td>&#10;		</tr><tr><td>New York</td>&#10;			<td>Syracuse</td>&#10;			<td>How You Play the Game</td>&#10;			<td>3808 Brewerton Rd.</td>&#10;			<td>315-472-4263</td>&#10;			<td><a href="http://www.graymatterconventions.com/">Website</a></td>&#10;		</tr><tr><td>New York</td>&#10;			<td>New York</td>&#10;			<td>Neurtral Ground</td>&#10;			<td>122 W. 26th St., 4th Floor</td>&#10;			<td>212-633-6320</td>&#10;			<td><a href="http://www.graymatterconventions.com/">Website</a></td>&#10;		</tr><tr><td>North Carolina</td>&#10;			<td>Durham</td>&#10;			<td>DJ’s Cards &amp; STuff</td>&#10;			<td>201 Foster St.</td>&#10;			<td>336-674-6708</td>&#10;			<td><a href="http://www.baileyscollectibles.com/">Website</a></td>&#10;		</tr><tr><td>Ohio</td>&#10;			<td>Columbus</td>&#10;			<td>Franklin County Veterans Memorial</td>&#10;			<td>300 W. Broad St.</td>&#10;			<td>877-913-8881</td>&#10;			<td><a href="http://www.professional-events.com/">Website</a></td>&#10;		</tr><tr><td>Oklahoma</td>&#10;			<td>Oklahoma City</td>&#10;			<td>Game HQ</td>&#10;			<td>1620 J. SW 89th</td>&#10;			<td>620-584-6555</td>&#10;			<td><a href="http://www.aussiefox.com/">Website</a></td>&#10;		</tr><tr><td>Ontario</td>&#10;			<td>Toronto</td>&#10;			<td>Agincourt Community Centre</td>&#10;			<td>31 Gen Watford Dr.</td>&#10;			<td>905-720-3377</td>&#10;			<td><a href="http://www.skyfoxgames.com/">Website</a></td>&#10;		</tr><tr><td>Ontario</td>&#10;			<td>Ottawa</td>&#10;			<td>Montgomery Canadian Legion</td>&#10;			<td>330 Kent St.</td>&#10;			<td>514-286-9099</td>&#10;			<td><a href="http://www.cartamagica.com/">Website</a></td>&#10;		</tr><tr><td>Oregon</td>&#10;			<td>Portland</td>&#10;			<td>Ambridge Event Center</td>&#10;			<td>300 NE Multnomah</td>&#10;			<td>503-358-2292</td>&#10;			<td><a href="http://freeyourmind.biz/">Website</a></td>&#10;		</tr><tr><td>Pennsylvania</td>&#10;			<td>Philadelphia</td>&#10;			<td>PA Convention Center</td>&#10;			<td>1101 Arch St.</td>&#10;			<td>212-633-6320</td>&#10;			<td><a href="http://www.graymatterconventions.com/">Website</a></td>&#10;		</tr><tr><td>Puerto Rico</td>&#10;			<td>Levittown</td>&#10;			<td>Salon Caballeros de Colon</td>&#10;			<td>Ave. Comerio</td>&#10;			<td>787-409-6525</td>&#10;			<td><a href="http://www.fjgames.com/">Website</a></td>&#10;		</tr><tr><td>Quebec</td>&#10;			<td>Montréal</td>&#10;			<td>Carta Magica</td>&#10;			<td>6360 St-Hubert</td>&#10;			<td>514-286-9099</td>&#10;			<td><a href="http://www.cartamagica.com/">Website</a></td>&#10;		</tr><tr><td>Texas</td>&#10;			<td>Houston</td>&#10;			<td>Strike Zone</td>&#10;			<td>10904 Scarsdale #245</td>&#10;			<td>713-569-3936</td>&#10;			<td><a href="http://www.ehevents.com/">Website</a></td>&#10;		</tr><tr><td>Utah</td>&#10;			<td>Salt Lake City</td>&#10;			<td>The Black Rose Game Center</td>&#10;			<td>4773 S. State St.</td>&#10;			<td>801-518-9022</td>&#10;			<td><a href="http://www.theblackrose.com/">Website</a></td>&#10;		</tr><tr><td>Virginia</td>&#10;			<td>Richmond</td>&#10;			<td>Greater Richmond Convention Center</td>&#10;			<td>301 North 3rd Street</td>&#10;			<td>540-767-4263</td>&#10;			<td><a href="http://www.starcitygames.com/">Website</a></td>&#10;		</tr><tr><td>Washington</td>&#10;			<td>Seattle</td>&#10;			<td>Seattle Center - The Pavilion Room</td>&#10;			<td>305 Harrison St.</td>&#10;			<td>503-358-2292</td>&#10;			<td><a href="http://freeyourmind.biz/">Website</a></td>&#10;		</tr><tr><td>Wisconsin</td>&#10;			<td>Madison</td>&#10;			<td>Misty Mountain</td>&#10;			<td>1922 S. Stoughton</td>&#10;			<td>612-605-1935</td>&#10;			<td><a href="http://www.legionevents.com/">Website</a></td>&#10;		</tr></tbody></table>

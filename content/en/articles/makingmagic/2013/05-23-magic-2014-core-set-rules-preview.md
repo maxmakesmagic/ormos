@@ -1,0 +1,220 @@
+---
+id: 16byvzs2
+kind: article
+lang: en
+path: /en/articles/makingmagic/2013/05-23-magic-2014-core-set-rules-preview
+title: Magic 2014 Core Set Rules Preview
+published: '2013-05-23'
+column_slug: makingmagic
+column: Making Magic
+authors:
+- slug: matt-tabak-25905907
+  name: Matt Tabak
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/making-magic/magic-2014-core-set-rules-preview-2013-05-23
+    lang_detected: en
+    capture_id: 892319
+    url: https://magic.wizards.com/en/articles/archive/making-magic/magic-2014-core-set-rules-preview-2013-05-23
+    captured_at: '2022-10-05 00:34:27+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/making-magic/magic-2014-core-set-rules-preview-2013-05-23
+    lang_detected: en
+    capture_id: 892319
+    url: https://magic.wizards.com/en/articles/archive/making-magic/magic-2014-core-set-rules-preview-2013-05-23
+    captured_at: '2022-10-05 00:34:27+00'
+    rule: drupal.posted_in_date
+  authors:
+    page_key: magic.wizards.com/en/articles/archive/making-magic/magic-2014-core-set-rules-preview-2013-05-23
+    lang_detected: en
+    capture_id: 892319
+    url: https://magic.wizards.com/en/articles/archive/making-magic/magic-2014-core-set-rules-preview-2013-05-23
+    captured_at: '2022-10-05 00:34:27+00'
+    rule: drupal.div_author
+  column:
+    page_key: magic.wizards.com/en/articles/archive/making-magic/magic-2014-core-set-rules-preview-2013-05-23
+    lang_detected: en
+    capture_id: 892319
+    url: https://magic.wizards.com/en/articles/archive/making-magic/magic-2014-core-set-rules-preview-2013-05-23
+    captured_at: '2022-10-05 00:34:27+00'
+    rule: drupal.posted_in_link
+    registry_match: registry.explicit
+sources:
+- document_id: 16byvzs2
+  url: https://magic.wizards.com/en/articles/archive/making-magic/magic-2014-core-set-rules-preview-2013-05-23
+  page_key: magic.wizards.com/en/articles/archive/making-magic/magic-2014-core-set-rules-preview-2013-05-23
+  lang: en
+  template: drupal
+  captured_at: '2022-10-05 00:34:27+00'
+  capture_id: 892319
+  wayback_url: https://web.archive.org/web/20221005003427id_/https://magic.wizards.com/en/articles/archive/making-magic/magic-2014-core-set-rules-preview-2013-05-23
+- document_id: 16byvzs2
+  url: http://wizards.com/Magic/Magazine/Article.aspx?x=mtg%2Fdaily%2Ffeature%2F248e
+  page_key: wizards.com/magic/magazine/article.aspx?x=mtg%2Fdaily%2Ffeature%2F248e
+  lang: en
+  template: aspx
+  captured_at: '2014-03-28 11:02:23+00'
+  capture_id: 595444
+  wayback_url: https://web.archive.org/web/20140328110223id_/http://wizards.com/Magic/Magazine/Article.aspx?x=mtg%2Fdaily%2Ffeature%2F248e
+- document_id: 16byvzs2
+  url: http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/feature/248e
+  page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/feature/248e
+  lang: en
+  template: aspx
+  captured_at: '2014-06-12 14:44:09+00'
+  capture_id: 595446
+  wayback_url: https://web.archive.org/web/20140612144409id_/http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/feature/248e
+source_selection: An alternate source supplies a usable body or more table rows.
+archive_source:
+  document_id: 16byvzs2
+  capture_id: 595444
+  url: http://wizards.com/Magic/Magazine/Article.aspx?x=mtg%2Fdaily%2Ffeature%2F248e
+  wayback_url: https://web.archive.org/web/20140328110223id_/http://wizards.com/Magic/Magazine/Article.aspx?x=mtg%2Fdaily%2Ffeature%2F248e
+  captured_at: '2014-03-28 11:02:23+00'
+  template: aspx
+  sha256: e5b8309de3b7541eba85abb662b3725980c173363ade0136a9d8be6d4551572b
+render_recovery:
+- code: unsupported_link
+  element: a
+  target: javascript:void()
+  reason: The link uses a JavaScript placeholder. The preview kept any visible label.
+  labels:
+  - Clone
+  - Teysa, Orzhov Scion
+  - Pacifism
+  - Ruric Thar, the Unbowed
+  - Progenitor Mimic
+  - Jace Beleren
+  - Jace, Architect of Thought
+  - Chandra Nalaar
+  - Chandra, the Firebrand
+  - Withstand Death
+  - Boros Charm
+  - Barrenton Cragtreads
+  - Firefright Mage
+  - Goblin War Drums
+  - Oracle of Mul Daya
+  - Djinn of Wishes
+  occurrences: 29
+---
+If you've cruised around this wonderful Internet of ours lately, you may have noticed that information about ***Magic** 2014—Duels of the Planeswalkers* has begun to spread. Of course, a major part of that game is the ***Magic** 2014 Core Set*, so information about those cards has also begun to spread. So, with M14 on the horizon, it's time to go over some of the rule changes and new templates debuting with that set. This isn't a complete list. Each set has maintenance tweaks that are largely invisible to most players, and the ***Magic** 2014 Core Set* is no different. But this article will review the major changes and how they may impact you. 
+
+Let me begin by making one thing clear: these changes take effect on July 13, the date of the ***Magic** 2014 Core Set* Prerelease. On **Magic Online**, the changes will go live on or around July 24, the date of the ***Magic** 2014 Core Set* build. From now until then, the current rules are still in effect. 
+
+![](https://i.ormos.uk/6f/8a/6f8a106b771473946619b4adbf8aa8a5b29428f2c8d26b739efb29ffd71f1b0f.jpg) 
+
+  
+
+### The "Legend Rule"
+
+Let's dive in, shall we? The "legend rule," rule 704.5k for those of you following along at home, is changing. Under the current rules, any time two or more legendary permanents with the same name were on the battlefield, they would all be put into their owners' graveyards as a state-based action. Under the new rules, any time two or more legendary permanents with the same name are controlled by a player, that player chooses one of them and the rest are put into their owners' graveyards as a state-based action.
+
+One way to think about it is the "legend rule" now looks at each player individually. It doesn't matter what any other player controls. Clearly, this has a few play ramifications. If you control a legendary permanent, having another one enter the battlefield (by playing a second one or creating a copy of the first one) will leave you with one on the battlefield. It may be the old one. It may be the new one. That's up to you. 
+
+Also, creating a copy of a legendary permanent controlled by another player will simply give you a copy. The one controlled by the other player won't explode, won't leave the battlefield, and really won't be affected at all. Clones do what they were intended to do, which isn't to be situational killing machines. Let's look at two examples to see the new rules in action: 
+
+*   You control Teysa, Orzhov Scion. Your opponent enchants it with Pacifism. You cast another Teysa, Orzhov Scion. You choose the new one to remain on the battlefield. The one enchanted by Pacifism is put into its owner's graveyard (and then so is the Pacifism).
+*   Your opponent controls Ruric Thar, the Unbowed. You cast Progenitor Mimic, copying it. Both creatures may stay on the battlefield as long as they're controlled by different players. After Progenitor Mimic's ability creates a token copy of Ruric Thar, you must choose one to stay on the battlefield. The other will be put into its owner's graveyard as a state-based action.
+
+I've recruited ace developer [Sam Stoddard](https://web.archive.org/web/20130927012952/http://www.wizards.com/magic/magazine/archive.aspx?author=sam%20stoddard) to write more about R&D's motivations behind this change and the change to the "Planeswalker uniqueness rule." You should check out his article [here](/en/articles/makingmagic/2013/05-23-legendary-rule-change). Oh, didn't I mention the Planeswalker one? Well then... 
+
+### The "Planeswalker Uniqueness Rule"
+
+You didn't think we were leaving our heroes out in the cold, right? Just giving the legendary permanents a shiny new upgrade? Because the Planeswalkers are coming along for the ride.
+
+The "Planeswalker uniqueness rule" is getting a very similar update to what the "legend rule" got. The new rule 704.5j will state that if a player controls two or more Planeswalkers that share a Planeswalker type, that player chooses one and the rest are put into their owner's graveyards as a state-based action. Again, you no longer have to worry about what other players control. Let's look at a couple of examples:
+
+*   You control Jace Beleren. On your turn, you activate one of his abilities. You then cast Jace, Architect of Thought. You now control two Planeswalkers with the Planeswalker type Jace. You choose Jace, Architect of Thought to remain on the battlefield. Jace Beleren is put into your graveyard. You can activate one of the loyalty abilities of Jace, Architect of Thought.
+*   Your opponent controls Chandra Nalaar. You cast Chandra, the Firebrand. Both permanents may stay on the battlefield as long as they're controlled by different players.
+
+Again, Sam's article has much more information on these changes. Check it out [here](/en/articles/makingmagic/2013/05-23-legendary-rule-change). And I really can't stress enough: these changes aren't in effect until July 13 in live tournaments and July 24 on **Magic Online**. 
+
+![](https://i.ormos.uk/6f/8a/6f8a106b771473946619b4adbf8aa8a5b29428f2c8d26b739efb29ffd71f1b0f.jpg) 
+
+  
+
+### Sideboards in Constructed Tournaments
+
+We're also making an adjustment to sideboard composition in Constructed tournaments. Previously, your main deck was sixty or more cards and your sideboard was either fifteen cards or zero cards, indicating you weren't using a sideboard. With the new rule, your main deck is still sixty or more cards but your sideboard is now ***up to*** fifteen cards. Additionally, you are not required to swap cards between your main deck and sideboard on a one-for-one basis. For Games 2 and 3 (and so on), as long as your main deck is sixty or more cards and your sideboard is no more than fifteen cards, you're good. This change makes sideboarding in Constructed and in Limited closer. 
+
+The real benefit of this change is the following scenario, which is all-too-common at more competitive events: after Game 1, you bring in some cards from your sideboard, shuffle up, present your deck, and you discover you've presented a sixty-one-card deck. There are fourteen cards in your sideboard and you've just received a game loss.
+
+Under the new rules, what you did in that scenario is legal and you can go about playing **Magic**. Here's a chart to demonstrate what's legal and not under the new rules (listed as main deck/sideboard): 
+
+<table>&#10;  <tbody><tr>&#10;    <td>Game 1</td>&#10;    <td>Subsequent Games</td>&#10;    <td>Legality</td>&#10;  </tr>&#10;  <tr>&#10;    <td>60/15</td>&#10;    <td>60/15</td>&#10;    <td>Legal</td>&#10;  </tr>&#10;  <tr>&#10;    <td>60/15</td>&#10;    <td>61/14</td>&#10;    <td>Legal</td>&#10;  </tr>&#10;  <tr>&#10;    <td>60/15</td>&#10;    <td>75/0</td>&#10;    <td>Legal</td>&#10;  </tr>&#10;  <tr>&#10;    <td>75/0</td>&#10;    <td>60/15</td>&#10;    <td>Legal</td>&#10;  </tr>&#10;  <tr>&#10;    <td>60/10</td>&#10;    <td>63/7</td>&#10;    <td>Legal</td>&#10;  </tr>&#10;  <tr>&#10;    <td>250/15</td>&#10;    <td>60/205</td>&#10;    <td>Illegal</td>&#10;  </tr>&#10;  <tr>&#10;    <td>60/15</td>&#10;    <td>50/25</td>&#10;    <td>Illegal</td>&#10;  </tr>&#10;</tbody></table>
+
+  
+
+We expect most players will continue to play sixty cards in the main deck and fifteen in the sideboard, but some interesting variations are possible.
+
+### Indestructible Promoted to Keyword
+
+I frequently get asked why indestructible isn't a keyword. The answer has always been because it doesn't need to be. It's just an English word with a definition, slightly modified for use in **Magic**. Compare it to something like deathtouch, which carries all sorts of rules baggage. Indestructible simply meant "can't be destroyed." 
+
+And while these reasons are good and noble and true, it didn't match the reality that players didn't get it. Heck, even most of R&D didn't get it. Many people assumed it was a keyword. Well, as [Mark Rosewater](https://web.archive.org/web/20140408043155/http://www.wizards.com/Magic/Magazine/Archive.aspx?author=Mark%20Rosewater) often reminds us, "Bananas suck." No, wait, that's not it. "You can't fight human nature." There we go. So, starting with the ***Magic** 2014 Core Set* , indestructible is now a keyword. It will appear by its lonesome on permanents that naturally have it and in abilities like "target creature gains indestructible until end of turn." 
+
+Why does this matter? Well, for the most part it doesn't, but it can be different in two cases:
+
+**Case 1:** A permanent is made indestructible by another spell or ability (for example, Withstand Death), and then it loses all abilities. Previously, it would still be indestructible, because that was just something true about the permanent. It wasn't an ability the permanent had. With the change, the permanent will no longer have indestructible. 
+
+**Case 2:** Creatures (or permanents) you control are made indestructible until end of turn by a spell or ability (for example, Boros Charm). Previously, a creature that came under your control after that spell or ability resolved would be indestructible, as that spell or ability didn't change the characteristics of any creature. With the change, that new creature won't have indestructible as it wasn't under your control at the right time to gain it. 
+
+A little more than sixty cards will be receiving the new template and functionality.
+
+### Unblockable Demoted to Definitely *Not* a Keyword
+
+And when people ask about indestructible, unblockable is usually not far behind. One might expect it to get a similar upgrade to keyword, but alas, one would be mistaken. Here's the thing: there are actually many variations on unblockable. There are cards like Barrenton Cragtreads, Firefright Mage, Goblin War Drums, and several others. It would be strange and counterintuitive if unblockable functioned like a keyword but all the subsets of unblockable didn't. So, to alleviate confusion as to why unblockable isn't a keyword, we're going to make it more obvious that it isn't by changing its template to "can't be blocked." As you've seen, the words "can't be blocked" were used on cards already, so this change seemed very natural. Please note this is a change in template only. No cards will functionally change. 
+
+### Playing Additional Lands
+
+Did you know that right now (assuming you're reading this article before July 13, when these rules changes take effect), whenever you play a land, if more than one rule or effect allows you to play that land, you must specify which rule or effect you're using? Yeah, most people didn't. In practice, this means that if you control something like Oracle of Mul Daya and play a land, the correct play is to specify that this is your additional land for the turn. Furthermore, you could then bounce the Oracle and recast it. Then you could play an additional, additional land. You could then go on to play your land for the turn. What a mess. 
+
+With the ***Magic** 2014 Core Set* , we're introducing a new system for playing lands that focuses on the number of land plays you have. Any time you want to play a land for any reason, if you've used all your land plays for the turn, then you can't play the land. By default, you have one land play on each of your turns. Spells or abilities can add to this number. So can permanents that allow you to play additional lands, but if these permanents leave the battlefield, those additional land plays disappear. 
+
+As before, you can take a special action once on each of your turns during either main phase to play a land. A spell or ability may also instruct you to play a land as part of its resolution (for example, the activated ability of Djinn of Wishes). No matter how you're playing the land, it uses up a land play. If you're out of unused land plays for a turn, you can't play a land. And just like before, you can never play a land if it isn't your turn. 
+
+Here are some examples:
+
+*   You start your main phase with one land play. You play a land. You then activate Djinn of Wishes, revealing a land. You have no unused land plays, so the revealed land can't be played.
+*   You start your main phase with one land play. You activate Djinn of Wishes, revealing a land. You play that land. You then want to play another land (by taking your once-a-turn special action). However, you have no unused land plays, so you can't play another land this turn.
+*   You start your precombat main phase while controlling Oracle of Mul Daya. You have two land plays. You play a land. Then Oracle of Mul Daya dies during combat, so you're back to one land play and it's been used. During your postcombat main phase, you can't play another land.
+*   You start your precombat main phase while controlling Oracle of Mul Daya. You have two land plays. You play a land. Then the Oracle is returned to your hand, so you again have one land play, and it's been used. You recast Oracle of Mul Daya, and you have two land plays again, one of which you've used. You can now play a second land.
+
+Most of the time, it's a simple question of asking how many lands you've played in a turn and figuring out how many you're allowed to play. It doesn't come up that often, but I believe when it does come up, the rules now behave in a more sensible manner.
+
+### The Only Constant is Change
+
+And that brings us to the end of our overview. There will be more information coming in the Update Bulletin, which will go into these changes in detail. The Update Bulletin will also cover some additional minor changes that aren't likely to impact most games. It will also review all the Oracle changes, including cards affected by rules changes and ones we're cleaning up through our normal review processes. I'm excited to hear feedback on these changes. But the most exciting things are always the cards, and *Modern Masters* and the ***Magic** 2014 Core Set* have a lot of awesome in store for you. Have fun! 
+
+![](https://i.ormos.uk/0d/4d/0d4df1c86071a2369ed32d2ce0f183a1e651fa13b450a88aabd3ff47a77244e5.png)
+
+![](https://i.ormos.uk/9f/a0/9fa07821341a1a7999cfdc7cf7ffde57ad6a1ed6d0d939432d442e456796dd88.png) 
+
+![](http://media.wizards.com/images/magic/daily/footers/DGM/EN_DGM_ArticleFooter_GameDay_Top.jpg) ![](http://media.wizards.com/images/magic/daily/footers/DGM/EN_DGM_ArticleFooter_GameDay_LeftOfButton01.jpg) [![](http://media.wizards.com/images/magic/daily/footers/DGM/EN_DGM_ArticleFooter_GameDay_Button01_Static.jpg)](/en/events/2010/gameday/magic-the-gathering-game-day) ![](http://media.wizards.com/images/magic/daily/footers/DGM/EN_DGM_ArticleFooter_GameDay_RightOfButton01.jpg) 
+
+![](http://media.wizards.com/images/magic/daily/footers/DGM/EN_DGM_ArticleFooter_GameDay_Middle.jpg) ![](http://media.wizards.com/images/magic/daily/footers/DGM/EN_DGM_ArticleFooter_GameDay_LeftOfButton02.jpg)
+
+[![](http://media.wizards.com/images/magic/daily/footers/DGM/EN_DGM_ArticleFooter_GameDay_Button02_Static.jpg)](https://web.archive.org/web/20140102120115/http://www.wizards.com/magic/TCG/products.aspx?x=mtg/tcg/products/dragonsmaze) 
+
+  
+  
+  
+
+<table>&#10;      <tbody><tr>&#10;        <td>&#10;          <a href="https://twitter.com/share">Tweet</a>&#10;        </td>&#10;        <td>&#10;          <div>Words</div>&#10;        </td>&#10;        <td>&#10;          <div id="fb-root">&#10;            <div>Words</div>&#10;          </div>&#10;        </td>&#10;      </tr>&#10;    </tbody></table>
+
+  
+ ![](http://media.wizards.com/images/magic/daily/footers/slice1.jpg) ![](http://media.wizards.com/images/magic/daily/footers/gruul_02.jpg)
+
+ 
+
+![Matt Tabak](https://i.ormos.uk/2c/11/2c11e3c83c00b431c9ce63bd3fec77756dcb56c64267c66df8a0bdfce240983d.jpg "Matt Tabak")
+
+<table>&#10;    <tbody><tr>&#10;      <td>&#10;        <b>Matt Tabak</b>&#10;        <br>&#10;        <a href="https://twitter.com/tabakrules">@TabakRules</a>&#10;        <br>&#10;        <a href="https://web.archive.org/web/20130523000000/http://wizards.com/company/emailtoauthor.asp?author=Matt%20Tabak&amp;amp;headline=[Magic%202014%20Rules%20Preview]">Email Matt</a>&#10;      </td>&#10;      <td>&#10;        <a href="https://web.archive.org/web/20130808043437/http://www.wizards.com/magic/magazine/archive.aspx?author=matt%20tabak">Author Archive</a>&#10;        <br>&#10;      </td>&#10;    </tr>&#10;  </tbody></table>
+
+  
+
+Matt Tabak is the reigning, defending, and undisputed rules manager for **Magic: The Gathering**, **Kaijudo**, and **Duel Masters**. Matt Tabak is Gruul. Matt Tabak tries to laugh, think, and cry every day. Matt Tabak is hungry. Matt Tabak doesn't want you to sass him. Matt Tabak loves puppies. 
+
+ 

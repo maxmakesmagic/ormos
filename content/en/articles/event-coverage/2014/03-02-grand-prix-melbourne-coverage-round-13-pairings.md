@@ -1,0 +1,47 @@
+---
+id: sdrbxbgx
+kind: event
+lang: en
+path: /en/articles/event-coverage/2014/03-02-grand-prix-melbourne-coverage-round-13-pairings
+title: Grand Prix Melbourne Coverage Round 13 Pairings
+published: '2014-03-02'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-melbourne-coverage-round-13-pairings-2014-03-02
+    lang_detected: en
+    capture_id: 412484
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-melbourne-coverage-round-13-pairings-2014-03-02
+    captured_at: '2021-10-28 16:37:08+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-melbourne-coverage-round-13-pairings-2014-03-02
+    lang_detected: en
+    capture_id: 412484
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-melbourne-coverage-round-13-pairings-2014-03-02
+    captured_at: '2021-10-28 16:37:08+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: sdrbxbgx
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-melbourne-coverage-round-13-pairings-2014-03-02
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-melbourne-coverage-round-13-pairings-2014-03-02
+  lang: en
+  template: drupal
+  captured_at: '2021-10-28 16:37:08+00'
+  capture_id: 412484
+  wayback_url: https://web.archive.org/web/20211028163708id_/https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-melbourne-coverage-round-13-pairings-2014-03-02
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: sdrbxbgx
+  capture_id: 412484
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-melbourne-coverage-round-13-pairings-2014-03-02
+  wayback_url: https://web.archive.org/web/20211028163708id_/https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-melbourne-coverage-round-13-pairings-2014-03-02
+  captured_at: '2021-10-28 16:37:08+00'
+  template: drupal
+  sha256: 9f3ad5b17d3457d84a23464bdc9538a08852687ee03563c3636583c79996b778
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Points</b></td><td><b>&#10;						</b></td><td><b>Opponent</b></td><td><b>Points</b></td></tr><tr><td> 1</td><td>Nam, Sung-wook [KOR]</td><td> 34</td><td>vs.</td><td>Zheng, Jingwei [NZL]</td><td> 33</td></tr><tr><td> 3</td><td>WEI, YIFAN [AUS]</td><td> 31</td><td>vs.</td><td>Soh, Joe [AUS]</td><td> 30</td></tr><tr><td> 2</td><td>Webster, Ash [AUS]</td><td> 31</td><td>vs.</td><td>Nolan, Timothy J [AUS]</td><td> 31</td></tr><tr><td> 6</td><td>Chapman, Craig [AUS]</td><td> 30</td><td>vs.</td><td>Cutting, Russell J [AUS]</td><td> 30</td></tr><tr><td> 7</td><td>McGlaughlin, Luke [AUS]</td><td> 30</td><td>vs.</td><td>Liang, Alfred [AUS]</td><td> 30</td></tr><tr><td> 4</td><td>Sewell, Aaron D [NZL]</td><td> 30</td><td>vs.</td><td>Rafferty, Thomas [AUS]</td><td> 30</td></tr><tr><td> 5</td><td>Wang, Zhuoyang [AUS]</td><td> 30</td><td>vs.</td><td>Huang, Hao-Shan [TWN]</td><td> 30</td></tr><tr><td> 9</td><td>Keech, Alex [AUS]</td><td> 30</td><td>vs.</td><td>Mulcahy, Luke [AUS]</td><td> 30</td></tr><tr><td> 8</td><td>Kikkawa, Dillon [AUS]</td><td> 30</td><td>vs.</td><td>Robertson, Patty [AUS]</td><td> 30</td></tr><tr><td> 10</td><td>Zhang, Edward [AUS]</td><td> 29</td><td>vs.</td><td>Cox, Kevin [AUS]</td><td> 28</td></tr><tr><td> 11</td><td>Wu, Hao [AUS]</td><td> 28</td><td>vs.</td><td>Watson, Nick [AUS]</td><td> 28</td></tr><tr><td> 12</td><td>Kim, Patrick [AUS]</td><td> 28</td><td>vs.</td><td>Lynch, Jason [AUS]</td><td> 27</td></tr><tr><td> 23</td><td>Hauschild, Nicholas [AUS]</td><td> 27</td><td>vs.</td><td>Feng, Zidan(Dennis) [AUS]</td><td> 27</td></tr><tr><td> 20</td><td>Clift, James [AUS]</td><td> 27</td><td>vs.</td><td>Damilitis, Nathan [AUS]</td><td> 27</td></tr><tr><td> 24</td><td>Hughes, Tim [AUS]</td><td> 27</td><td>vs.</td><td>Jackson, Paul A [AUS]</td><td> 27</td></tr><tr><td> 22</td><td>ITANI, HIROSHI [AUS]</td><td> 27</td><td>vs.</td><td>Diquelou, Marie [AUS]</td><td> 27</td></tr><tr><td> 25</td><td>Takahashi, Zen [AUS]</td><td> 27</td><td>vs.</td><td>Huang, Peter [AUS]</td><td> 27</td></tr><tr><td> 26</td><td>Giokas, Thomas T [AUS]</td><td> 27</td><td>vs.</td><td>Feng, Tony [AUS]</td><td> 27</td></tr><tr><td> 27</td><td>Pepper, Patrick [AUS]</td><td> 27</td><td>vs.</td><td>Loy, Sam [AUS]</td><td> 27</td></tr><tr><td> 21</td><td>Shen, Xin [NZL]</td><td> 27</td><td>vs.</td><td>Cooper, Joseph [AUS]</td><td> 27</td></tr><tr><td> 15</td><td>Victory, Alex [AUS]</td><td> 27</td><td>vs.</td><td>Noble, Elvon [AUS]</td><td> 27</td></tr><tr><td> 19</td><td>Edwards, Robin [AUS]</td><td> 27</td><td>vs.</td><td>Snellaert, Jacob [AUS]</td><td> 27</td></tr><tr><td> 18</td><td>Fazzolari, James [AUS]</td><td> 27</td><td>vs.</td><td>Lark, Robert i [AUS]</td><td> 27</td></tr><tr><td> 14</td><td>Ruan, Yi-Fei [AUS]</td><td> 27</td><td>vs.</td><td>Bot, Thomas [AUS]</td><td> 27</td></tr><tr><td> 16</td><td>Li, William [NZL]</td><td> 27</td><td>vs.</td><td>Jackway, Robert [AUS]</td><td> 27</td></tr><tr><td> 13</td><td>Restel, Sven [AUS]</td><td> 27</td><td>vs.</td><td>Winter, Jonathan [AUS]</td><td> 27</td></tr><tr><td> 17</td><td>Rogers, Matthew [NZL]</td><td> 27</td><td>vs.</td><td>Randeni, Harshana [AUS]</td><td> 27</td></tr><tr><td> 28</td><td>Horvath, Elliott [AUS]</td><td> 26</td><td>vs.</td><td>Preston, Adrian D [AUS]</td><td> 26</td></tr><tr><td> 29</td><td>Chung, Jason [NZL]</td><td> 26</td><td>vs.</td><td>foley, joshua [AUS]</td><td> 26</td></tr><tr><td> 30</td><td>Ward-Smith, Lachlan [AUS]</td><td> 25</td><td>vs.</td><td>Neo, Alvin [SGP]</td><td> 25</td></tr><tr><td> 31</td><td>Wilks, James [AUS]</td><td> 25</td><td>vs.</td><td>Park, Jun Young [KOR]</td><td> 25</td></tr><tr><td> 34</td><td>Paton, Jake [AUS]</td><td> 25</td><td>vs.</td><td>Phillips, Russell J [AUS]</td><td> 24</td></tr><tr><td> 33</td><td>Yuen, Jonathan [AUS]</td><td> 25</td><td>vs.</td><td>bragato, riccardo [ITA]</td><td> 25</td></tr><tr><td> 32</td><td>Newsome, William [AUS]</td><td> 25</td><td>vs.</td><td>harris, cameron [AUS]</td><td> 25</td></tr><tr><td> 43</td><td>Cascon, Ezekiel O [PHL]</td><td> 24</td><td>vs.</td><td>Egan, Isaac J [AUS]</td><td> 24</td></tr><tr><td> 46</td><td>Tillyer, Henry [AUS]</td><td> 24</td><td>vs.</td><td>Swords, Chester [AUS]</td><td> 24</td></tr><tr><td> 45</td><td>van Ravenzwaaij, Don [NLD]</td><td> 24</td><td>vs.</td><td>Samarasekra, Rakkhi [AUS]</td><td> 24</td></tr><tr><td> 47</td><td>Tapia, Cristian [AUS]</td><td> 24</td><td>vs.</td><td>Asikas, Paul [AUS]</td><td> 24</td></tr><tr><td> 41</td><td>Brumby, Gene [NZL]</td><td> 24</td><td>vs.</td><td>barker, rei [AUS]</td><td> 24</td></tr><tr><td> 48</td><td>Hallam-Walsh, Gideon [AUS]</td><td> 24</td><td>vs.</td><td>Debartolo, Ricky [AUS]</td><td> 24</td></tr><tr><td> 42</td><td>Hoysted, Alexander [AUS]</td><td> 24</td><td>vs.</td><td>Yoshino, Ryo [AUS]</td><td> 24</td></tr><tr><td> 44</td><td>Addie, Chris [AUS]</td><td> 24</td><td>vs.</td><td>Liu, Robert [AUS]</td><td> 24</td></tr><tr><td> 40</td><td>Fleming, Ben J [AUS]</td><td> 24</td><td>vs.</td><td>Pettit, Aaron [NZL]</td><td> 24</td></tr><tr><td> 37</td><td>Flora, Tim [AUS]</td><td> 24</td><td>vs.</td><td>Aceiton, Francisco [AUS]</td><td> 24</td></tr><tr><td> 36</td><td>Hoskin, Elliot [AUS]</td><td> 24</td><td>vs.</td><td>Mccouid, Kyle [AUS]</td><td> 24</td></tr><tr><td> 38</td><td>Horig, Wilfy [AUS]</td><td> 24</td><td>vs.</td><td>Pai, Bruce [TWN]</td><td> 24</td></tr><tr><td> 39</td><td>Saunders, Lachlan [AUS]</td><td> 24</td><td>vs.</td><td>Lee, Charles [AUS]</td><td> 24</td></tr><tr><td> 35</td><td>Larsen-Scott, James [AUS]</td><td> 24</td><td>vs.</td><td>Lin, Johnson [NZL]</td><td> 24</td></tr><tr><td> 50</td><td>Witton, Adam [AUS]</td><td> 23</td><td>vs.</td><td>O'Mallon, Dylan [AUS]</td><td> 22</td></tr><tr><td> 49</td><td>Cheung, Justin [AUS]</td><td> 23</td><td>vs.</td><td>Cook, Tristan [AUS]</td><td> 23</td></tr><tr><td> 53</td><td>Seyman, Macleod [AUS]</td><td> 22</td><td>vs.</td><td>Rolf, Nicolas [AUS]</td><td> 22</td></tr><tr><td> 51</td><td>Lee, Anthony [AUS]</td><td> 22</td><td>vs.</td><td>lee, rick lee [AUS]</td><td> 22</td></tr><tr><td> 52</td><td>Sarris, Ioannis [AUS]</td><td> 22</td><td>vs.</td><td>Searle, Jake [AUS]</td><td> 22</td></tr><tr><td> 54</td><td>Thorson, Shane [AUS]</td><td> 22</td><td>vs.</td><td>Radvanskiy, Kirill [AUS]</td><td> 21</td></tr><tr><td> 59</td><td>Titcombe, James [AUS]</td><td> 21</td><td>vs.</td><td>Carey, Alan [AUS]</td><td> 21</td></tr><tr><td> 57</td><td>totora, Danny [AUS]</td><td> 21</td><td>vs.</td><td>Woelfler, Walter [AUS]</td><td> 21</td></tr><tr><td> 58</td><td>Lee, Arnold [AUS]</td><td> 21</td><td>vs.</td><td>Van Maarseveen, Ryan [AUS]</td><td> 21</td></tr><tr><td> 60</td><td>Sclauzero, Joseph [AUS]</td><td> 21</td><td>vs.</td><td>Cann, Kristen [AUS]</td><td> 21</td></tr><tr><td> 56</td><td>soh, han chuen [AUS]</td><td> 21</td><td>vs.</td><td>Harnden, Simon A [NZL]</td><td> 21</td></tr><tr><td> 55</td><td>Eyre, Karl L [AUS]</td><td> 21</td><td>vs.</td><td>Karopoulos, Sam [AUS]</td><td> 21</td></tr><tr><td> 61</td><td>Jancik, Tom [AUS]</td><td> 21</td><td>vs.</td><td>Mann, Simeon J [AUS]</td><td> 21</td></tr><tr><td>&#10;					</td><td>Kopic, Kenan [AUS]</td><td> 19</td><td>&#10;					</td><td>* BYE *</td><td></td></tr></tbody></table>

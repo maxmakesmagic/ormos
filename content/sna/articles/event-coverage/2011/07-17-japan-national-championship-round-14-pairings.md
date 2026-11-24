@@ -1,0 +1,47 @@
+---
+id: 8cnc42kt
+kind: event
+lang: sna
+path: /sna/articles/event-coverage/2011/07-17-japan-national-championship-round-14-pairings
+title: Japan National Championship Round 14 Pairings
+published: '2011-07-17'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: sna
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/japan-national-championship-round-14-pairings-2011-07-17
+    lang_detected: sna
+    capture_id: 438410
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/japan-national-championship-round-14-pairings-2011-07-17
+    captured_at: '2021-12-09 02:27:59+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/japan-national-championship-round-14-pairings-2011-07-17
+    lang_detected: sna
+    capture_id: 438410
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/japan-national-championship-round-14-pairings-2011-07-17
+    captured_at: '2021-12-09 02:27:59+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: 8cnc42kt
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/japan-national-championship-round-14-pairings-2011-07-17
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/japan-national-championship-round-14-pairings-2011-07-17
+  lang: sna
+  template: drupal
+  captured_at: '2021-12-09 02:27:59+00'
+  capture_id: 438410
+  wayback_url: https://web.archive.org/web/20211209022759id_/https://magic.wizards.com/en/articles/archive/event-coverage/japan-national-championship-round-14-pairings-2011-07-17
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 8cnc42kt
+  capture_id: 438410
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/japan-national-championship-round-14-pairings-2011-07-17
+  wayback_url: https://web.archive.org/web/20211209022759id_/https://magic.wizards.com/en/articles/archive/event-coverage/japan-national-championship-round-14-pairings-2011-07-17
+  captured_at: '2021-12-09 02:27:59+00'
+  template: drupal
+  sha256: 8edd58662ee5e737eb43d3f66fea0bde7f06f911f429c27a9bc3fd5c7a3f7303
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Points</b></td><td><b>&#10;						</b></td><td><b>Opponent</b></td><td><b>Points</b></td></tr><tr><td> 40</td><td>Tamada, Ryoichi</td><td> 36</td><td>vs.</td><td>Fujimoto, Tomoya</td><td> 30</td></tr><tr><td> 21</td><td>Takao, Shouta</td><td> 33</td><td>vs.</td><td>Yasooka, Shouta</td><td> 33</td></tr><tr><td> 18</td><td>Mihara, Makihito</td><td> 33</td><td>vs.</td><td>Akiyama, Takashi</td><td> 30</td></tr><tr><td> 32</td><td>Ishida, Ryuuichirou</td><td> 30</td><td>vs.</td><td>Nishiwaki, Yuta</td><td> 30</td></tr><tr><td> 11</td><td>Shiozu, Ryouma</td><td> 30</td><td>vs.</td><td>Ikawa, Yoshihiko</td><td> 30</td></tr><tr><td> 67</td><td>Juumonji, Ryou</td><td> 30</td><td>vs.</td><td>Kimura, Kazuaki</td><td> 28</td></tr><tr><td> 36</td><td>Yamamoto, Yuuichirou</td><td> 30</td><td>vs.</td><td>Itou, Kouei</td><td> 30</td></tr><tr><td> 43</td><td>Shimada, Masahiko</td><td> 30</td><td>vs.</td><td>Higashino, Masayuki</td><td> 30</td></tr><tr><td> 8</td><td>Esaki, Keisuke</td><td> 27</td><td>vs.</td><td>Matsushima, Kouji</td><td> 27</td></tr><tr><td> 38</td><td>Yanase, Kaname</td><td> 27</td><td>vs.</td><td>Takagi, Takeshi</td><td> 27</td></tr><tr><td> 29</td><td>Mitsuya, Kazuhiko</td><td> 27</td><td>vs.</td><td>Imai, Satoshi</td><td> 27</td></tr><tr><td> 31</td><td>Hitomi, Masaaki</td><td> 27</td><td>vs.</td><td>Kaji, Tetsuya</td><td> 27</td></tr><tr><td> 20</td><td>Takeda, Harunobu</td><td> 27</td><td>vs.</td><td>Nakamura, Shuuhei</td><td> 27</td></tr><tr><td> 14</td><td>Asahara, Akira</td><td> 27</td><td>vs.</td><td>Koyanagi, Takashi</td><td> 27</td></tr><tr><td> 13</td><td>Morita, Masahiko</td><td> 27</td><td>vs.</td><td>Aoki, Shougo</td><td> 27</td></tr><tr><td> 6</td><td>Yamamoto, Shouhei</td><td> 27</td><td>vs.</td><td>Mori, Katsuhiro</td><td> 27</td></tr><tr><td> 27</td><td>Yokono, Yuusuke</td><td> 27</td><td>vs.</td><td>Aridome, Tomohiro</td><td> 27</td></tr><tr><td> 48</td><td>Yamamoto, Akimasa</td><td> 27</td><td>vs.</td><td>Wada, Yuuki</td><td> 27</td></tr><tr><td> 42</td><td>Kudou, Kouichi</td><td> 27</td><td>vs.</td><td>Nose, Kouji</td><td> 27</td></tr><tr><td> 17</td><td>Hirayama, Atsushi</td><td> 27</td><td>vs.</td><td>Komatsu, Satoshi</td><td> 27</td></tr><tr><td> 53</td><td>Harano, Takahiro</td><td> 27</td><td>vs.</td><td>Kawaguchi, Hikaru</td><td> 25</td></tr><tr><td> 61</td><td>Kuroda, Masashiro</td><td> 27</td><td>vs.</td><td>Fujimoto, Taichi</td><td> 27</td></tr><tr><td> 55</td><td>Abe, Motoki</td><td> 24</td><td>vs.</td><td>Date, Hiroshi</td><td> 24</td></tr><tr><td> 4</td><td>Arita, Ryuichi</td><td> 24</td><td>vs.</td><td>Tamura, Ryou</td><td> 24</td></tr><tr><td> 7</td><td>Ino, Kentaro</td><td> 24</td><td>vs.</td><td>Oguri, Fumiaki</td><td> 24</td></tr><tr><td> 24</td><td>Takebayashi, Tomo</td><td> 24</td><td>vs.</td><td>Kawamura, Kazushi</td><td> 24</td></tr><tr><td> 23</td><td>Furuya, Youhei</td><td> 24</td><td>vs.</td><td>Yamazaki, Hiroyuki</td><td> 24</td></tr><tr><td> 65</td><td>Kuwahara, Yoshiki</td><td> 24</td><td>vs.</td><td>Noguchi, Keita</td><td> 22</td></tr><tr><td> 2</td><td>Umezaki, Masanori</td><td> 24</td><td>vs.</td><td>Iyanaga, Jun'ya</td><td> 24</td></tr><tr><td> 22</td><td>Saitou, Takaya</td><td> 24</td><td>vs.</td><td>Yokoi, Masaki</td><td> 24</td></tr><tr><td> 9</td><td>Hasegawa, Kazuhiko</td><td> 24</td><td>vs.</td><td>Saitou, Keiichirou</td><td> 24</td></tr><tr><td> 50</td><td>Tanaka, Daisuke</td><td> 24</td><td>vs.</td><td>Takeda, Shin'ya</td><td> 24</td></tr><tr><td> 41</td><td>Nakashima, Toshihiko</td><td> 24</td><td>vs.</td><td>Kato, Tatsuya</td><td> 24</td></tr><tr><td> 44</td><td>Wakita, Tomoyuki</td><td> 24</td><td>vs.</td><td>Fukaya, Akihiro</td><td> 24</td></tr><tr><td> 52</td><td>Ikeda, Kazuki</td><td> 24</td><td>vs.</td><td>Shiota, Fumihiko</td><td> 24</td></tr><tr><td> 39</td><td>Tsuchiya, Hideaki</td><td> 24</td><td>vs.</td><td>Wada, Hiroya</td><td> 24</td></tr><tr><td> 60</td><td>Kitahara, Hiroaki</td><td> 22</td><td>vs.</td><td>Hiramatsu, Mamoru</td><td> 21</td></tr><tr><td> 54</td><td>Harada, Daisaku</td><td> 21</td><td>vs.</td><td>Abe, Yuuta</td><td> 21</td></tr><tr><td> 45</td><td>Harada, Masao</td><td> 21</td><td>vs.</td><td>Tajiri, Jun</td><td> 21</td></tr><tr><td> 64</td><td>Urasawa, Taiji</td><td> 21</td><td>vs.</td><td>Nakano, Shigeki</td><td> 21</td></tr><tr><td> 46</td><td>Okada, Yoshikazu</td><td> 21</td><td>vs.</td><td>I, Hiroyuki</td><td> 21</td></tr><tr><td> 5</td><td>Kondo, Masayoshi</td><td> 21</td><td>vs.</td><td>Hirose, Yuuki</td><td> 21</td></tr><tr><td> 56</td><td>Fukuta, Shingo</td><td> 21</td><td>vs.</td><td>Nakamura, Kousuke</td><td> 21</td></tr><tr><td> 30</td><td>Wada, Kazumasa</td><td> 21</td><td>vs.</td><td>Doi, Fumiaki</td><td> 21</td></tr><tr><td> 33</td><td>Imai, Ayato</td><td> 21</td><td>vs.</td><td>Fukumoto, Hiroaki</td><td> 21</td></tr><tr><td> 58</td><td>Sugimoto, Hiroaki</td><td> 21</td><td>vs.</td><td>yoshida, takuya</td><td> 21</td></tr><tr><td> 57</td><td>Terauchi, Tatsuya</td><td> 21</td><td>vs.</td><td>Nakamura, Jun'ya</td><td> 21</td></tr><tr><td> 10</td><td>S, Ryuuga</td><td> 21</td><td>vs.</td><td>Kawate, Junpei</td><td> 21</td></tr><tr><td> 15</td><td>Oikawa, Mutsuki</td><td> 18</td><td>vs.</td><td>Murata, Toshiaki</td><td> 18</td></tr><tr><td> 3</td><td>Nakano, Tatsuhito</td><td> 18</td><td>vs.</td><td>Matsuda, Yuuki</td><td> 18</td></tr><tr><td> 12</td><td>Kihara, Atsuki</td><td> 18</td><td>vs.</td><td>Natsume, Takuya</td><td> 18</td></tr><tr><td> 34</td><td>Saitou, Eiji</td><td> 18</td><td>vs.</td><td>Taira, Shun'ichi</td><td> 18</td></tr><tr><td> 37</td><td>Yoshida, Keisuke</td><td> 18</td><td>vs.</td><td>Nishimoto, Takuya</td><td> 18</td></tr><tr><td> 49</td><td>Kikuchi, Shou</td><td> 18</td><td>vs.</td><td>Yoshida, Shunsuke</td><td> 18</td></tr><tr><td> 66</td><td>Chijimi, Keiichi</td><td> 18</td><td>vs.</td><td>Saeki, Katsuhisa</td><td> 18</td></tr><tr><td> 51</td><td>Hashimoto, Masatoshi</td><td> 18</td><td>vs.</td><td>Kashima, Akihiro</td><td> 18</td></tr><tr><td> 47</td><td>Koshimura, Takeshi</td><td> 18</td><td>vs.</td><td>Hassaku, Jinpei</td><td> 18</td></tr><tr><td> 25</td><td>Yamauchi, Takashi</td><td> 18</td><td>vs.</td><td>Tezuka, Yuki</td><td> 18</td></tr><tr><td> 35</td><td>Arakida, Tomohito</td><td> 18</td><td>vs.</td><td>Yamada, Hiroki</td><td> 18</td></tr><tr><td> 1</td><td>Narita, Yasumasa</td><td> 16</td><td>vs.</td><td>Yamaguchi, Ryutaro</td><td> 15</td></tr><tr><td> 16</td><td>Brandon, Weaver</td><td> 15</td><td>vs.</td><td>Mitsuboshi, Daisuke</td><td> 15</td></tr><tr><td> 62</td><td>Yoda, Kazuya</td><td> 15</td><td>vs.</td><td>K, Masahiro</td><td> 15</td></tr><tr><td> 63</td><td>Ono, Yasuaki</td><td> 15</td><td>vs.</td><td>Kawano, Yuuya</td><td> 15</td></tr><tr><td> 28</td><td>Hattori, Taiki</td><td> 15</td><td>vs.</td><td>Tsukagoshi, Tadaki</td><td> 15</td></tr><tr><td> 19</td><td>Minobe, Shinya</td><td> 12</td><td>vs.</td><td>Sunada, Shougo</td><td> 15</td></tr><tr><td> 26</td><td>Shimizu, Akio</td><td> 12</td><td>vs.</td><td>Hidaka, Naoto</td><td> 12</td></tr><tr><td> 59</td><td>Nitta, Yuuki</td><td> 12</td><td>vs.</td><td>Taguchi, Shunsuke</td><td> 9</td></tr><tr><td>&#10;					</td><td>Koyama, Yuji</td><td> 12</td><td>&#10;					</td><td>* BYE *</td><td></td></tr></tbody></table>

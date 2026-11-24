@@ -1,0 +1,438 @@
+---
+id: fewrg9w9
+kind: event
+lang: en
+path: /en/events/2009/boston09/grand-prixboston-event-information
+title: Grand Prix–Boston Event Information
+published: '2009-06-23'
+column_slug: null
+column: null
+authors: []
+event_code: boston09
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/tcg/events.aspx?x=mtgcom/grandprix/boston09
+    lang_detected: en
+    capture_id: 3996521
+    url: http://www.wizards.com/Magic/TCG/Events.aspx?x=mtgcom/grandprix/boston09&dcmp=ILC-MTGFPEV
+    captured_at: '2013-10-19 21:06:15+00'
+    rule: aspx.article_heading
+  published:
+    page_key: wizards.com/magic/tcg/events.aspx?x=mtgcom/grandprix/boston09
+    lang_detected: en
+    capture_id: 3996521
+    url: http://www.wizards.com/Magic/TCG/Events.aspx?x=mtgcom/grandprix/boston09&dcmp=ILC-MTGFPEV
+    captured_at: '2013-10-19 21:06:15+00'
+    rule: aspx.byline_date
+  event_code:
+    page_key: wizards.com/magic/tcg/events.aspx?x=mtgcom/grandprix/boston09
+    lang_detected: en
+    capture_id: 3996521
+    url: http://www.wizards.com/Magic/TCG/Events.aspx?x=mtgcom/grandprix/boston09&dcmp=ILC-MTGFPEV
+    captured_at: '2013-10-19 21:06:15+00'
+    rule: url.event_code
+sources:
+- document_id: fewrg9w9
+  url: http://www.wizards.com/Magic/TCG/Events.aspx?x=mtgcom/grandprix/boston09&dcmp=ILC-MTGFPEV
+  page_key: wizards.com/magic/tcg/events.aspx?x=mtgcom/grandprix/boston09
+  lang: en
+  template: aspx
+  captured_at: '2013-10-19 21:06:15+00'
+  capture_id: 3996521
+  wayback_url: https://web.archive.org/web/20131019210615id_/http://www.wizards.com/Magic/TCG/Events.aspx?x=mtgcom/grandprix/boston09&dcmp=ILC-MTGFPEV
+- document_id: fewrg9w9
+  url: http://www.wizards.com/magic/magazine/Article.aspx?x=mtgcom/grandprix/boston09
+  page_key: wizards.com/magic/magazine/article.aspx?x=mtgcom/grandprix/boston09
+  lang: en
+  template: aspx
+  captured_at: '2012-09-15 04:10:24+00'
+  capture_id: 816210
+  wayback_url: https://web.archive.org/web/20120915041024id_/http://www.wizards.com/magic/magazine/Article.aspx?x=mtgcom/grandprix/boston09
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: fewrg9w9
+  capture_id: 3996521
+  url: http://www.wizards.com/Magic/TCG/Events.aspx?x=mtgcom/grandprix/boston09&dcmp=ILC-MTGFPEV
+  wayback_url: https://web.archive.org/web/20131019210615id_/http://www.wizards.com/Magic/TCG/Events.aspx?x=mtgcom/grandprix/boston09&dcmp=ILC-MTGFPEV
+  captured_at: '2013-10-19 21:06:15+00'
+  template: aspx
+  sha256: 4fc25cabad2810743fdf8df39fe42d494af1c5deff0908dfd251933383785ce9
+render_recovery: []
+---
+![](https://i.ormos.uk/a2/b9/a2b99be84289350a2345c800e6380b527394a0264fd98d8ad372524fad384517.jpg) 
+
+  
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;                 <b>Information</b></td>&#10;          <td> </td>&#10;          <td>&#10;            <img alt="" src="https://i.ormos.uk/7d/ea/7deab367d2187ba6dc0e8758afb21d975578affe86883947e65fa45de83cb2e0.jpg">&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td colspan="3">&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <ul>&#10;                    <li>&#10;                      <a href="#schedule">Tournament Schedule</a>&#10;                    </li>&#10;                    <li>&#10;                      <a href="#byes">Tournament Byes</a>&#10;                    </li>&#10;                    <li>&#10;                      <a href="#public">Public Events</a>&#10;                    </li>&#10;                    <li>&#10;                      <a href="#artist">Artist Information</a>&#10;                    </li>&#10;                    <li>&#10;                      <a href="#travel">Travel Information</a>&#10;                    </li>&#10;                    <li>&#10;                      <a href="#contact">Contact Information</a>&#10;                    </li>&#10;                  </ul>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;    </td>&#10;  </tr>&#10;</tbody></table>
+
+### Date: August 1-2, 2009
+
+### Format: ***Magic** 2010* Sealed Deck / Booster Draft Day 2
+
+**Tournament Location**  
+ Hynes Convention Center  
+ 900 Boylston Street  
+ Boston, MA 02115
+
+**Registration**: $40  
+ Friday, July 31: 2 p.m. – 11 p.m.  
+ Saturday, August 1: 7 a.m. – 9 a.m.
+
+* * *
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <div>&#10;        <img src="https://i.ormos.uk/7e/63/7e630099bab674ab16c544499bed615d1142fd65750a9242ed617a058011cdaf.jpg">&#10;      </div>&#10;      <div>&#10;        <i>Get your free promo card by playing in the Grand Prix (while supplies last).</i>&#10;      </div>&#10;    </td>&#10;  </tr>&#10;</tbody></table>
+
+The wizards are coming! The wizards are coming! Sail, ride, ‘walk, or fly to Boston this August for the next Battle of Bunker Hill in the warm New England summer. Bask in the breeze off the bay, visit the Freedom Trail and Plymouth Rock, then come back to the venue to rock faces with your ***Magic** 2010* Sealed Deck, and try to roll with the Great Powers in the Top 8.
+
+Rob Dougherty and Wizards of the Coast invite you to America’s first city for a weekend of battle and booty on the bay. Come and beat the best to earn your invite to Pro Tour–Austin, and meet your fellows at the negotiating table for trading, side events, and casual play. 
+
+*The **Magic: The Gathering** Grand Prix tournament series is a great reason to get out of the house, catch up with old friends, meet some new ones, and play **Magic**. Grand Prix tournaments are world-wide open events that allow all **Magic** players to participate and experience the thrill of a large-scale competition. In addition to $30,000 in cash prizes, Pro Tour invitations for the top 16 finishers, and exclusive foil promo cards for participants, Grand Prix feature a host of other activities, including public events and artist signings. Find out more about the Grand Prix [tournament schedule here](/en/events/2002/welcome/grand-prix#1).* 
+
+  
+
+* * *
+
+ 
+
+### Tournament Format and Schedule
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;                 <b>Prizes</b></td>&#10;          <td> </td>&#10;          <td>&#10;            <img alt="" src="https://i.ormos.uk/7d/ea/7deab367d2187ba6dc0e8758afb21d975578affe86883947e65fa45de83cb2e0.jpg">&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td colspan="3">&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <p>All prizes in U.S. Dollars. </p>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td>&#10;                        <b>Place</b>&#10;                      </td>&#10;                      <td>&#10;                        <b>Prize</b>&#10;                      </td>&#10;                      <td>&#10;                        <b>Pro Points</b>&#10;                      </td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>1</td>&#10;                      <td>$3,500 </td>&#10;                      <td>10</td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>2</td>&#10;                      <td>$2,300 </td>&#10;                      <td>8</td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>3-4</td>&#10;                      <td>$1,500 </td>&#10;                      <td>6</td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>5-8</td>&#10;                      <td>$1,000 </td>&#10;                      <td>5</td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>9-12</td>&#10;                      <td>$600 </td>&#10;                      <td>4</td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>13-16</td>&#10;                      <td>$500 </td>&#10;                      <td>3</td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>17-32</td>&#10;                      <td>$400 </td>&#10;                      <td>2</td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>33-64</td>&#10;                      <td>$200 </td>&#10;                      <td>1</td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td colspan="3">Top 16 finishers also earn invitations to Pro Tour–Austin.</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;    </td>&#10;  </tr>&#10;</tbody></table>
+
+**Format**: ***Magic** 2010* Sealed Deck / Booster Draft Day 2  
+**Participation Fee**: $40  
+ Grand Prix–Boston will feed Pro Tour–Austin.
+
+**Registration and Schedule** 
+
+*   Friday, July 31: Registration from 2 p.m. to 11 p.m.
+*   Saturday, August 1: Registration from 7 a.m. to 9 a.m.
+*   Saturday, August 1: Tournament begins at 9:30 a.m.
+*   Sunday, August 2: Day Two begins at 9 a.m.
+
+The main tournament at Grand Prix–Boston is open to **Magic** players of all ages.
+
+**Tournament Format**  
+ 
+
+*   Day 1: [Sealed Deck](https://web.archive.org/web/20131027120001/http://www.wizards.com/Magic/TCG/Resources.aspx?x=mtg/tcg/resources/formats-sanctioned#limited) (Product: 6 ***Magic** 2010* boosters)
+*   Day 2 and Top 8: [Booster Draft](https://web.archive.org/web/20131027120001/http://www.wizards.com/Magic/TCG/Resources.aspx?x=mtg/tcg/resources/formats-sanctioned#limited) (3 ***Magic** 2010* boosters)
+*   Deck lists are required
+*   If product is not stamped or preregistered, deck registration and deck swap will be performed for Swiss Sealed Deck.
+
+**Tournament Structure** 
+
+*   Modified Swiss-style (50-minute rounds).
+*   If 799 or fewer players register for the event, all players with an X-2-0 or better record OR the top 64 players—whichever number is greater—will advance to the second day of the event.
+*   If 800 or more players register for the event, all players with an X-2-0 or better record OR the top 128 players—whichever number is greater—will advance to the second day of the event.
+*   The Top 8 players after the final Swiss round on Day 2 will advance to the Top 8 single-elimination playoff round.
+*   Top 8 playoff matches will be best 2 of 3, and have no time limit. (Players are still expected to play at a normal pace and complete playoff matches in a reasonable amount of time.)
+*   The Top 8 players will be seated randomly at the draft table immediately prior to drafting. The Top 8 bracket will be determined using the random seating.
+*   Where necessary, the standings after the Swiss rounds will still be used to determine final order in the standings.
+
+**Judges**  
+ The Head Judge for Grand Prix–Boston is Frank Wareman. If you wish to volunteer as a judge at Grand Prix–Boston, please contact Eric Shukan at eshukan1@rcn.com.
+
+**Notes**  
+ 
+
+*   Grand Prix–Boston will be run with a KValue of 40. The Rules Enforcement Level will be Competitive on Day 1 and Professional on Day 2.
+*   All Universal Tournament Rules and **Magic: The Gathering** Floor Rules are in effect for this event unless specifically overruled by information in this Format Document. Rules documents can be found in the [DCI Document Center](/en/articles/event-coverage/undated/welcome-to-the-dci-document-center).
+*   Players must bring pen, paper, card sleeves and appropriate counters.
+*   In the event that a player who wins an invitation to a Pro Tour stop at a Grand Prix has already qualified for an invitation, the invitation does not pass down under any circumstances. Previous qualification may be through a Qualifier tournament, through performance at a professional tournament, or by being an invited DCI player (valid upon the date of the official rank announcement for the appropriate professional tournament).
+
+* * *
+
+ 
+
+### Tournament Byes
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;                 <b>Grand Prix Trials</b></td>&#10;          <td> </td>&#10;          <td>&#10;            <img alt="" src="https://i.ormos.uk/7d/ea/7deab367d2187ba6dc0e8758afb21d975578affe86883947e65fa45de83cb2e0.jpg">&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td colspan="3">&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <p>&#10;                    <b>Last Chance Trials</b>&#10;                    <br> Friday, July 31: Noon – 8 p.m.<br> Cost: $25<br> Format: <i><b>Magic</b> 2010</i> Sealed, 32-person single-elimination flights<br> Location: Hynes Convention Center <br> Prizes: Top player in each flight receives a Third-Round bye at the Grand Prix, Product Prizes</p>&#10;                  <p>Other Grand Prix–Boston Trials will be run throughout North America in the weeks leading up to the Grand Prix. Each offers at least 1 Third-Round bye to Grand Prix–Boston.</p>&#10;                  <ul>&#10;                    <li>&#10;                      <a href="https://web.archive.org/web/20090623000000/http://www.wizards.com/Magic/TCG/Events.aspx?x=mtg/event/grandprix/boston09/trials">Grand Prix–Boston Trial Schedule</a>&#10;                    </li>&#10;                    <li>&#10;                      <a href="/en/articles/event-coverage/undated/grand-prix-trial-tournament-series-3">More Information on Grand Prix Trials</a>&#10;                    </li>&#10;                  </ul>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;    </td>&#10;  </tr>&#10;</tbody></table>
+
+Byes will be given to players in the Grand Prix based on the following criteria *(Byes are not cumulative throughout the season or year. Byes do not pass down under any circumstances. Players that accumulate multiple byes to a particular Grand Prix tournament receive only the bye for the greatest number of rounds)*:
+
+**Third-Round Byes**  
+ 
+
+*   Players with a [Players Club](/en/events/2006/playersclub/pro-players-club-guidelines-and-procedures) level of 4 or higher
+*   Players with a DCI Total rating of 2050 or higher. Byes are based on DCI Total ratings published on July 29, 2009.
+*   Players with a DCI Limited rating of 2000 or higher. Byes are based on DCI Limited ratings published on July 29, 2009.
+*   Winners of Grand Prix–Boston Trial tournaments.
+
+**Second-Round Byes**  
+ 
+
+*   Players with a [Players Club](/en/events/2006/playersclub/pro-players-club-guidelines-and-procedures) level of 2 or 3
+*   Players with a DCI Total rating of 1950 or higher. Byes are based on DCI Total ratings published on July 29, 2009.
+*   Players with a DCI Limited rating of 1900 or higher. Byes are based on DCI Limited ratings published on July 29, 2009.
+
+**First-Round Byes**  
+ 
+
+*   Players with a [Players Club](/en/events/2006/playersclub/pro-players-club-guidelines-and-procedures) level of 1
+*   Players with a DCI Total rating of 1850 or higher. Byes are based on DCI Total ratings published on July 29, 2009.
+*   Players with a DCI Limited rating of 1800 or higher. Byes are based on DCI Limited ratings published on July 29, 2009.
+
+**Trial winners**  
+ People who win a Trial event are awarded 3 byes in the Grand Prix that it feeds. Trial byes are not cumulative with other byes and do not pass down.
+
+* * *
+
+ 
+
+### Public Events
+
+Public events will be available 9 AM – 11 PM at the Hynes Convention Center. Overnight gaming (Midnight to 7 AM) will take place at:  
+**The Fairmont Copley Plaza**  
+**138 St. James Avenue**  
+**Boston MA 02116**  
+**(800) 441-1414**
+
+**Grand Prix Boston Power Tickets** 
+
+Every time you sign up for a public event at the grand prix, you get a Power Ticket and $1 will be donated to the Boys and Girls Club of Boston. You can use these tickets to enter a drawings throughout the weekend for cool prizes like Uncut Magic sheets, a Foil *Magic 2010* set, *Portal Three Kingdom* packs, power cards, sealed boxes, or the ultimate prize: entry into the Lotus Draft!
+
+You may buy additional Power Tickets for $5 each, 100% of which is donated to the Boys and Girls Club of Boston.
+
+**Lotus Draft**  
+ Sunday at 4PM a Power Ticket drawing will be held for entry into the Lotus Draft. 8 Players will be selected to play a 2010 draft for fabulous prizes. You must be there at the time of the drawing to win entry into the Lotus Draft.  
+ Everyone in the Lotus Draft wins an awesome Prize:
+
+1st: Unlimited Black Lotus!  
+ 2nd: Unlimited Mox  
+ 3-4th: Foil *Magic 2010* Set and 2 *Portal Three Kingdoms* packs  
+ 5th-8th: 2 *Portal Three Kingdoms* packs
+
+Every public event you enter gets you a ticket. You can use the ticket to enter any drawing you want, including the drawing for the Lotus Draft!  
+ The more you play the better you chance to win, and the more we give the Boys and Girls Club!
+
+**8 Player Events**  
+ Single Elimination  
+ Available all weekend 
+
+Go Infinite 2010 Booster drafts - $18.00  
+ Prizes *– Magic 2010* packs 6/4/1/1 – and first place gets free entry into another booster draft!  
+ 1 Power Ticket free with entry!
+
+Go Infinite Alara Block Booster drafts - $18.00  
+ Prizes *– Magic 2010* packs 6/4/1/1 – and first place gets free entry into another booster draft!  
+ 1 Power Ticket free with entry!
+
+8 Player Legacy - $10.00  
+ Prizes: *Magic 2010* packs - 6/4/2/2  
+ 1 Power Ticket free with entry!
+
+8 Player Extended - $10.00  
+ Prizes: *Magic 2010* packs - 6/4/2/2  
+ 1 Power Ticket free with entry!
+
+8 Player Standard - $10.00  
+ Prizes: *Magic 2010* packs - 6/4/2/2  
+ 1 Power Ticket free with entry!
+
+8 Player EDH (Elder Dragon Highlander) - $10.00  
+[Rules](https://web.archive.org/web/20090623000000/http://ww2.wizards.com/Site/LeavingWizards.aspx?url=http://csclub.uwaterloo.ca/~geduggan/EDH_rules.html&origin=)  
+ Prizes: *Magic 2010* packs - 6/4/2/2  
+ 1 Power Ticket free with entry!
+
+8 player sides will also be available overnight (midnight to 6am) at:  
+ The Fairmont Copley Plaza  
+ 138 St. James Avenue  
+ Boston MA 02116
+
+ ***Friday Featured Public Events*** 
+
+**Grand Prix Trials - *Magic 2010* Sealed Deck** $25.00 entry - 32 Player Single Elimination  
+ Starting at noon, new events start every time we get 32 players!  
+**Win a 3 round bye to the Grand Prix and *Magic 2010* prize packs!**  
+ 1 Power Ticket free with entry! 
+
+**Boston Legacy -**$25 entry  
+ 1 p.m. registration – 2 p.m. start  
+ Format: Legacy. Swiss, cut to top 8.  
+ 1 Power Ticket free with entry!  
+ Prizes:  
+ 1st: **Collectors Edition Set (Factory Sealed!)**, 2 Italian *Legends* Packs, 1 *Portal Three Kingdoms* Pack and 10 power tickets.  
+ 2nd: Foil *Fifth Dawn* set, 2 Italian *Legends* Packs, 1 *Portal Three Kingdoms* Pack and 5 power tickets.  
+ 3rd – 4th: *Magic 2010* Box and 2 Italian *Legends* Packs.  
+ 5th – 8th: *Magic 2010* Box 
+
+ ***Saturday Featured Public events***  
+ ***EDH - Elder Dragon Highlander -* $20**  
+ [Rules](https://web.archive.org/web/20090623000000/http://ww2.wizards.com/Site/LeavingWizards.aspx?url=http://csclub.uwaterloo.ca/~geduggan/EDH_rules.html&origin=)  
+ 2 p.m. registration – 3 p.m. start  
+ Prizes:  
+ 1st: Foil *Darksteel* set and 10 power tickets  
+ Additional pack prizes to top finishers based on attendance.  
+ 1 Power Ticket free with entry! 
+
+**Foil 2010 tournament - $20**  
+ Format: Standard  
+ 3 p.m. registration – 4 p.m. start  
+ 1st: Foil *Magic 2010* set and 10 power tickets  
+ Additional pack prizes to top finishers based on attendance.  
+ 1 Power Ticket free with entry! 
+
+ ***Sunday Featured Public Events*** 
+
+**PTQ Austin – Win airfare and an invite to the Pro Tour!**  
+ Format: Standard - $25 entry  
+ 9 a.m. registration – 10 a.m. start  
+ Prizes: 1st Place – Pro Tour Invite and Travel\*  
+ Additional pack prizes to top finisher based on attendance.  
+ 1 Power Ticket free with entry! 
+
+The first 16 amateurs who drop get a free booster draft!
+
+**Boston Legacy 2 -**$25 entry  
+ 10 am registration – 11 am start  
+ Format: Legacy. Swiss, cut to top 8.  
+ 1 Power Ticket free with entry!  
+ Prizes:  
+ 1st: Mint Black Border German Revised Set! (Full set of Black Border Duals, Birds, Wrath, etc), 2 Italian *Legends* Packs, 1 *Portal Three Kingdoms* Pack  
+ 2nd: Foil *Champions of Kamigawa* set, 2 Italian *Legends* Packs, 1 *Portal Three Kingdoms* Pack  
+ 3rd – 4th: *Magic 2010* Box and 2 Italian *Legends* Packs.  
+ 5th – 8th: *Magic 2010* Box 
+
+**Weekly 1K** – $25 entry  
+ 1p.m. registration – 2 p.m. start  
+ Format: Standard  
+ 1 Power Ticket free with entry!  
+ Prizes:  
+ 1st: $500 Gift certificate  
+ 2nd: $250 Gift certificate  
+ 3rd – 4th $125 Gift certificate  
+ Additional pack prizes to top finisher based on attendance.
+
+  
+
+* * *
+
+ 
+
+### Artist Information
+
+Lars Grant-West  
+ Cyril van der Haegen
+
+  
+
+* * *
+
+ 
+
+### Travel Information
+
+**FROM Logan International Airport and Ted Williams Tunnel/I-90 Westbound:**  
+ Follow direction sign from terminals to Sumner Tunnel/Rte.93 North. Take the Rte. 93 North ramp as you exit the Sumner Tunnel. Exit at Storrow Drive (26 B). Follow Storrow Drive approximately 2 miles to the Fenway/Kenmore Exit (1st exit after Massachusetts Ave., on left). Stay left as you exit Storrow Drive going toward the Fenway. Continue to 1st set of lights, staying left, going onto Boylston Street. Go through 4 sets of lights on Boylston Street. The Hynes Convention Center's main entrance driveway will be immediately on the right.
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;                 <b>Hotel Information</b></td>&#10;          <td> </td>&#10;          <td>&#10;            <img alt="" src="https://i.ormos.uk/7d/ea/7deab367d2187ba6dc0e8758afb21d975578affe86883947e65fa45de83cb2e0.jpg">&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td colspan="3">&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <p>There are many hotels within walking distance of the site. A special $125 per night rate is available at Fairmont Copley Plaza and The Colonnade Hotel.</p>&#10;                  <p>The Fairmont Copley Plaza<br> 138 St. James Avenue<br> Boston MA 02116<br> 1-800-441-1414<br> This hotel will have our overnight gaming room for late night drafts and side events.</p>&#10;                  <p>75 rooms are available at $125 per night and an 50 additional rooms are available at $189 per night. Ask for the &quot;<a href="https://web.archive.org/web/20090623000000/http://ww2.wizards.com/Site/LeavingWizards.aspx?url=https://resweb.passkey.com/go/magicgrandprix&amp;origin=">Magic Grand Prix Boston</a>&quot; room block. <b>You must book by July 10 to take advantage of this special rate.</b></p>&#10;                  <hr>&#10;                  <p>The Colonnade Hotel<br> 120 Huntington Avenue<br> Boston, MA 02116<br> 800-962-3030 or 617-424-7000</p>&#10;                  <p>50 rooms are available at $125 per night. Ask for the &quot;<a href="https://web.archive.org/web/20090623000000/http://ww2.wizards.com/Site/LeavingWizards.aspx?url=https://gc.synxis.com/rez.aspx?Hotel=2&amp;Chain=2&amp;group=YMG30A&amp;origin=">Magic Grand Prix Boston</a>&quot; room block.<br><b>You must book by July 8 to take advantage of this special rate.</b></p>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;    </td>&#10;  </tr>&#10;</tbody></table>
+
+**FROM I-90 Eastbound:**  
+ Take Exit 22 (Prudential/Copley Place). Stay left as you exit and turn onto Huntington Avenue, staying left while on Huntington Avenue. At the next set of lights (Belvidere Street), take a right. Follow the curve in Belvedere Street to the next right hand turn in front of the Sheraton Boston Hotel driveway, bearing right onto Dalton Street. At lights turn right onto Boylston Street. The Hynes Convention Center's main entrance driveway will be immediately on the right.
+
+**FROM I-93 Southbound:**  
+ Follow Rte. 93 South staying to the far right as you get closer to Boston. Take Storrow Drive Exit (26 B). Follow Storrow Drive approximately 2 miles to the Fenway/Kenmore Exit (1st exit after Massachusetts Ave., on left). Stay left as you exit Storrow Drive going toward the Fenway. Continue to 1st set of lights, staying left, going onto Boylston Street. Go through 4 sets of lights on Boylston Street. The Hynes Convention Center's main entrance driveway will be immediately on the right.
+
+**FROM I-93 Northbound:**  
+ Take Exit 16 (Andrew Square Exit). Take left at traffic light at top of ramp. Continue straight about 1 mile to Boylston Street. At light take right onto Boylston Street. After next set of lights, the Hynes Convention Center's main entrance driveway will be on your immediate right.
+
+**Public Transportation** 
+
+**Via Logan Airport**  
+ For Hynes, take the subway bus from any terminal to the airport subway station, transfer to the Blue Line and board the westbound train (marked Bowdoin Station) to Government Center. Get off the train and follow signs to the Green Line and board Green Line train D (Riverside) to the Hynes Convention Ctr/ICA Stop. Once you get off the subway, choose any exit and follow the signs to the Hynes.
+
+**Via Amtrak and Commuter Rail**  
+ If traveling by Commuter rail or Amtrak from points west or south of Boston, get off at the Back Bay Station and walk through the Copley Place Mall to the Prudential Center and follow the signs to the Hynes Convention Center.  
+ For more information visit [www.amtrak.com](https://web.archive.org/web/20090623000000/http://ww2.wizards.com/Site/LeavingWizards.aspx?url=http://www.amtrak.com&origin=)
+
+**Via Subway**  
+ Take the Green Line train D (Riverside) to the Hynes Convention Ctr/ICA Stop. Once you get off the subway, choose any exit and follow the signs to the Hynes.  
+ For more information visit [www.mbta.com](https://web.archive.org/web/20090623000000/http://ww2.wizards.com/Site/LeavingWizards.aspx?url=http://www.mbta.com&origin=)
+
+**Via Bus (MBTA Silver Line to South Station)**  
+ Take the Silver Line Bus to South Station. As you depart the terminal, walk to the right and the Silver Line pick-up is at the head of the line at Terminal D. The Silver Line stop is along the roadway between Terminal C and D. Take Silver Line to South Station, transfer to Commuter Rail to Back Bay Station and walk through the Copley Place Mall to the Prudential Center and follow the signs to the Hynes.  
+ For more information visit [www.mbta.com](https://web.archive.org/web/20090623000000/http://ww2.wizards.com/Site/LeavingWizards.aspx?url=http://www.mbta.com&origin=)
+
+**Via Taxi**  
+ Taxi Associations in Boston:  
+ Boston Cab: 617.536.5010  
+ City Cab: 617.536.5100  
+ Independent Taxi (ITOA): 617.825.4000  
+ Metro Cab: 617.782.5500  
+ Top Cab: 617.266.4800  
+ Town Taxi: 617.536.5000  
+ For information on roadway closures in and around Boston, please visit the Massachusetts Turnpike Authority's website at www.masspike.com.
+
+**Parking**  
+ Parking can be pricy in Boston. You may want to park at one of the many MBTA lots on the outskirts of the city and come in via subway or commuter rail. For more information visit [www.mbta.com](https://web.archive.org/web/20090623000000/http://ww2.wizards.com/Site/LeavingWizards.aspx?url=http://www.mbta.com&origin=)
+
+Within a three-block walk of the Hynes Convention Center are numerous parking garages. There is limited meter parking available around the Hynes and adjacent streets.
+
+**Prudential Center Parking Garage**  
+ 800 Boylston Street, Boston  
+ Capacity = 2,000  
+ Contact: 617-236-3060
+
+**Sheraton Boston Hotel Parking Garage**  
+ 39 Dalton Street, Boston  
+ Contact: 617-236-6172
+
+**Copley Place Parking Garage**  
+ 100 Huntington Avenue, Boston  
+ (corner of Huntington Avenue & Dartmouth Street)  
+ Capacity = 830  
+ Contact: 617-369-5025
+
+**Boston Marriott Hotel Copley Place**  
+ 100 Huntington Avenue, Boston  
+ Capacity = Valet Parking 225 spaces  
+ Contact = 617-236-5800
+
+**Westin Copley Place Parking Garage**  
+ 10 Huntington Avenue, Boston  
+ Capacity = Valet Parking 265 spaces  
+ Contact: 617-262-9600
+
+**Colonnade Hotel Parking Garage**  
+ 120 Huntington Avenue, Boston  
+ Capacity = 160  
+ Contact: 617-424-7000
+
+**Back Bay Hilton Hotel Parking Garage**  
+ 40 Dalton Street, Boston  
+ Capacity = 220  
+ Contact: 617-236-1100
+
+**Things to do in Boston**  
+ [www.bostonvisitorsguide.com](https://web.archive.org/web/20090623000000/http://ww2.wizards.com/Site/LeavingWizards.aspx?url=http://www.bostonvisitorsguide.com&origin=) 
+
+**Sightseeing**  
+ The Freedom Trail - [www.thefreedomtrail.org/index.html](https://web.archive.org/web/20090623000000/http://ww2.wizards.com/Site/LeavingWizards.aspx?url=http://www.thefreedomtrail.org/index.html&origin=)  
+ USS Constitution "Old Ironsides” - [www.ussconstitution.navy.mil](https://web.archive.org/web/20090623000000/http://ww2.wizards.com/Site/LeavingWizards.aspx?url=http://www.ussconstitution.navy.mil&origin=)  
+ Museum of Fine Arts Boston - [www.mfa.org](https://web.archive.org/web/20090623000000/http://ww2.wizards.com/Site/LeavingWizards.aspx?url=http://www.mfa.org&origin=)  
+ New England Aquarium - [www.neaq.org](https://web.archive.org/web/20090623000000/http://ww2.wizards.com/Site/LeavingWizards.aspx?url=http://www.neaq.org&origin=)  
+ Museum of Science – [www.mos.org](https://web.archive.org/web/20090623000000/http://ww2.wizards.com/Site/LeavingWizards.aspx?url=http://www.mos.org&origin=)  
+ Faneuil Hall - [www.faneuilhallmarketplace.com](https://web.archive.org/web/20090623000000/http://ww2.wizards.com/Site/LeavingWizards.aspx?url=http://www.faneuilhallmarketplace.com&origin=) 
+
+**Nightlife**  
+ [www.bostonnightclubnews.com](https://web.archive.org/web/20090623000000/http://ww2.wizards.com/Site/LeavingWizards.aspx?url=http://www.bostonnightclubnews.com&origin=)  
+ [www.nightclubboston.com](https://web.archive.org/web/20090623000000/http://ww2.wizards.com/Site/LeavingWizards.aspx?url=http://www.nightclubboston.com&origin=)  
+ [www.bostonareanightlife.com](https://web.archive.org/web/20090623000000/http://ww2.wizards.com/Site/LeavingWizards.aspx?url=http://www.bostonareanightlife.com&origin=)  
+ [www.jilliansboston.com](https://web.archive.org/web/20090623000000/http://ww2.wizards.com/Site/LeavingWizards.aspx?url=http://www.jilliansboston.com&origin=) 
+
+* * *
+
+ 
+
+### Contact Information
+
+Rob Dougherty  
+ Email: GrandPrixBoston@gmail.com  
+ Telephone: 617-666-5799 (Your Move Games)
+
+**Venue Address** 
+
+Hynes Convention Center  
+ 900 Boylston Street  
+ Boston, MA 02115

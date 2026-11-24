@@ -1,0 +1,47 @@
+---
+id: 0m7t080h
+kind: event
+lang: en
+path: /en/articles/event-coverage/2007/07-28-round-10-pairings
+title: Round 10 Pairings
+published: '2007-07-28'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-10-pairings-2007-07-28-1
+    lang_detected: en
+    capture_id: 489353
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-10-pairings-2007-07-28-1
+    captured_at: '2022-07-06 08:07:28+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-10-pairings-2007-07-28-1
+    lang_detected: en
+    capture_id: 489353
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-10-pairings-2007-07-28-1
+    captured_at: '2022-07-06 08:07:28+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: 0m7t080h
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-10-pairings-2007-07-28-1
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/round-10-pairings-2007-07-28-1
+  lang: en
+  template: drupal
+  captured_at: '2022-07-06 08:07:28+00'
+  capture_id: 489353
+  wayback_url: https://web.archive.org/web/20220706080728id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-10-pairings-2007-07-28-1
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 0m7t080h
+  capture_id: 489353
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-10-pairings-2007-07-28-1
+  wayback_url: https://web.archive.org/web/20220706080728id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-10-pairings-2007-07-28-1
+  captured_at: '2022-07-06 08:07:28+00'
+  template: drupal
+  sha256: 4fa0fe9fbf2e1548637b0cf28c7f718f06676bc543690b9954bbd5c89d72b08c
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Points</b></td><td><b>&#10;						</b></td><td><b>Opponent</b></td><td><b>Points</b></td></tr><tr><td> 49</td><td>Drake, Thomas</td><td> 24</td><td>vs.</td><td>Yurchick, Adam</td><td> 24</td></tr><tr><td> 34</td><td>Sadin, Steven</td><td> 24</td><td>vs.</td><td>Jarvis, Steven</td><td> 22</td></tr><tr><td> 36</td><td>Lachmann, Chris</td><td> 21</td><td>vs.</td><td>Bennett, Michael A</td><td> 21</td></tr><tr><td> 18</td><td>Weitz, David</td><td> 21</td><td>vs.</td><td>Hill, Zac</td><td> 21</td></tr><tr><td> 33</td><td>Ewen, Andy</td><td> 21</td><td>vs.</td><td>Krempels, Craig</td><td> 21</td></tr><tr><td> 60</td><td>Nelson, Brad</td><td> 21</td><td>vs.</td><td>Golenda, Steve</td><td> 19</td></tr><tr><td> 16</td><td>Lebedowicz, Osyp</td><td> 21</td><td>vs.</td><td>Kolos, John</td><td> 21</td></tr><tr><td> 56</td><td>Jacob, Michael</td><td> 21</td><td>vs.</td><td>Chang, Fredrick</td><td> 21</td></tr><tr><td> 15</td><td>De Rosa, Antonino</td><td> 21</td><td>vs.</td><td>Cheon, Paul</td><td> 21</td></tr><tr><td> 14</td><td>Ochoa, David</td><td> 21</td><td>vs.</td><td>Majlaton, Alex</td><td> 18</td></tr><tr><td> 50</td><td>Scott-Vargas, Luis</td><td> 21</td><td>vs.</td><td>May, John</td><td> 21</td></tr><tr><td> 1</td><td>Phillips, Cedric</td><td> 19</td><td>vs.</td><td>Huteson, Thomas</td><td> 18</td></tr><tr><td> 24</td><td>Ripple, Chris</td><td> 18</td><td>vs.</td><td>Hron, Mike</td><td> 18</td></tr><tr><td> 52</td><td>Scheel, Brandon</td><td> 18</td><td>vs.</td><td>Thompson, Gerry</td><td> 18</td></tr><tr><td> 51</td><td>Locke, Steve</td><td> 18</td><td>vs.</td><td>Harvey, Eugene</td><td> 18</td></tr><tr><td> 35</td><td>mooney, clayton</td><td> 18</td><td>vs.</td><td>Ochoa, Dusty</td><td> 18</td></tr><tr><td> 53</td><td>Keulmann, Nick E</td><td> 18</td><td>vs.</td><td>DiPalma, Robert</td><td> 18</td></tr><tr><td> 38</td><td>Phelon, Tom</td><td> 18</td><td>vs.</td><td>Petterson, John</td><td> 16</td></tr><tr><td> 19</td><td>Douglass, Morgan</td><td> 18</td><td>vs.</td><td>Taulbee, Brad</td><td> 18</td></tr><tr><td> 21</td><td>Vidugiris, Gaudenis</td><td> 18</td><td>vs.</td><td>Mascioli, Chris</td><td> 18</td></tr><tr><td> 25</td><td>Davis, Jim</td><td> 18</td><td>vs.</td><td>Solari, Rafael</td><td> 18</td></tr><tr><td> 37</td><td>Walls, Gabe</td><td> 18</td><td>vs.</td><td>Manfield, Seth</td><td> 18</td></tr><tr><td> 57</td><td>Rosario Lamourt, Victor</td><td> 18</td><td>vs.</td><td>Blystone, Jeff</td><td> 16</td></tr><tr><td> 17</td><td>Fabiano, Gerard</td><td> 18</td><td>vs.</td><td>Van Lunen, Jacob</td><td> 18</td></tr><tr><td> 42</td><td>Moo Young, Laurence</td><td> 18</td><td>vs.</td><td>Chapin, Patrick</td><td> 18</td></tr><tr><td> 41</td><td>Stein, Sam</td><td> 18</td><td>vs.</td><td>Higdon, Nigel</td><td> 18</td></tr><tr><td> 20</td><td>McDaniel, Chris</td><td> 16</td><td>vs.</td><td>Lieberman, Alex</td><td> 15</td></tr><tr><td> 7</td><td>Petersen, Drew</td><td> 16</td><td>vs.</td><td>Beverley, Matthew</td><td> 15</td></tr><tr><td> 54</td><td>Gaster, Daniel</td><td> 15</td><td>vs.</td><td>Miyashiro, Justin G</td><td> 13</td></tr><tr><td> 22</td><td>Ligon, John</td><td> 15</td><td>vs.</td><td>Tormos, Ervin</td><td> 15</td></tr><tr><td> 23</td><td>Vandover, Sean</td><td> 15</td><td>vs.</td><td>Turk, Adam</td><td> 15</td></tr><tr><td> 58</td><td>sanchez, kyle</td><td> 15</td><td>vs.</td><td>Houston, Shawn</td><td> 15</td></tr><tr><td> 55</td><td>Irvine, David</td><td> 15</td><td>vs.</td><td>Goodman, Kyle</td><td> 15</td></tr><tr><td> 6</td><td>Hall, Zack</td><td> 15</td><td>vs.</td><td>Barnett, Noah</td><td> 14</td></tr><tr><td> 5</td><td>Kim, Alex</td><td> 15</td><td>vs.</td><td>George, Justin</td><td> 15</td></tr><tr><td> 39</td><td>Penick, John</td><td> 15</td><td>vs.</td><td>Weixler, Cliff</td><td> 15</td></tr><tr><td> 40</td><td>Greenlee, Mitchell</td><td> 15</td><td>vs.</td><td>Kandebo, James</td><td> 15</td></tr><tr><td> 43</td><td>Moreno, William</td><td> 15</td><td>vs.</td><td>Neal, Stephen</td><td> 15</td></tr><tr><td> 46</td><td>Sittner, John</td><td> 15</td><td>vs.</td><td>Eng, Chris</td><td> 12</td></tr><tr><td> 27</td><td>Lundquist, Benjamin</td><td> 15</td><td>vs.</td><td>King, Michael</td><td> 15</td></tr><tr><td> 4</td><td>Szleifer, Gadiel</td><td> 15</td><td>vs.</td><td>Rubin, Ben</td><td> 12</td></tr><tr><td> 2</td><td>Flores, Oscar</td><td> 15</td><td>vs.</td><td>Shapiro, Yakov</td><td> 15</td></tr><tr><td> 28</td><td>Brewer, Morgan</td><td> 15</td><td>vs.</td><td>Jones, Trevor</td><td> 15</td></tr><tr><td> 10</td><td>Birklid, Steven</td><td> 15</td><td>vs.</td><td>Winston, Alexander</td><td> 15</td></tr><tr><td> 59</td><td>Miguel, Andres</td><td> 15</td><td>vs.</td><td>Boyle, Josh</td><td> 15</td></tr><tr><td> 44</td><td>Ohlschwager, Andrew</td><td> 15</td><td>vs.</td><td>Stoffa, Gabriel</td><td> 12</td></tr><tr><td> 26</td><td>Morgan, Sean</td><td> 13</td><td>vs.</td><td>Seder, Robert D</td><td> 13</td></tr><tr><td> 3</td><td>Moore, John</td><td> 12</td><td>vs.</td><td>Stanton, Jack</td><td> 12</td></tr><tr><td> 8</td><td>Ding, Chong</td><td> 12</td><td>vs.</td><td>McAlexander, Matt</td><td> 12</td></tr><tr><td> 9</td><td>Doong, Allen</td><td> 12</td><td>vs.</td><td>Wu, Jia</td><td> 12</td></tr><tr><td> 30</td><td>Schwartz, Gabriel</td><td> 12</td><td>vs.</td><td>cole, newt</td><td> 11</td></tr><tr><td> 11</td><td>Price, Pat</td><td> 12</td><td>vs.</td><td>leveille, thomas</td><td> 10</td></tr><tr><td> 12</td><td>Eng, Warren</td><td> 12</td><td>vs.</td><td>Inoue, Sean</td><td> 12</td></tr><tr><td> 45</td><td>Fain, Kinny</td><td> 12</td><td>vs.</td><td>Horn, Kory</td><td> 12</td></tr><tr><td> 32</td><td>Ioli, Mark</td><td> 12</td><td>vs.</td><td>Gutierrez, Michael</td><td> 9</td></tr><tr><td> 29</td><td>Cai, Chenguang</td><td> 12</td><td>vs.</td><td>Janiszewski, Stefan</td><td> 12</td></tr><tr><td> 31</td><td>Moreno, Nicholas</td><td> 9</td><td>vs.</td><td>Flores, Derek</td><td> 9</td></tr><tr><td> 47</td><td>Peterson, Randy</td><td> 9</td><td>vs.</td><td>Gonzalez-Flores, Cesar</td><td> 6</td></tr><tr><td> 13</td><td>Kincaid, Tim</td><td> 9</td><td>vs.</td><td>Hodges, Christopher</td><td> 9</td></tr><tr><td> 48</td><td>Crabtree, John</td><td> 6</td><td>vs.</td><td>Randall, Jonas</td><td> 6</td></tr><tr><td>&#10;					</td><td>Chambers, Adam</td><td> 12</td><td>&#10;					</td><td>* BYE * Pod 7</td><td></td></tr><tr><td>&#10;					</td><td>Job, Jonathan</td><td> 12</td><td>&#10;					</td><td>* BYE * Pod 12</td><td></td></tr><tr><td>&#10;					</td><td>vick, jonathan</td><td> 9</td><td>&#10;					</td><td>* BYE * Pod 15</td><td></td></tr><tr><td>&#10;					</td><td>White, Mike</td><td> 9</td><td>&#10;					</td><td>* BYE * Pod 14</td><td></td></tr><tr><td>&#10;					</td><td>Kelly, Brian</td><td> 10</td><td>&#10;					</td><td>* BYE * Pod 13</td><td></td></tr><tr><td>&#10;					</td><td>Piazza, Brett</td><td> 9</td><td>&#10;					</td><td>* BYE * Pod 17</td><td></td></tr><tr><td>&#10;					</td><td>Collett, Steve</td><td> 15</td><td>&#10;					</td><td>* BYE * Pod 3</td><td></td></tr><tr><td>&#10;					</td><td>Hale, William</td><td> 3</td><td>&#10;					</td><td>* BYE * Pod 19</td><td></td></tr><tr><td>&#10;					</td><td>Adams, Chris</td><td> 12</td><td>&#10;					</td><td>* BYE * Pod 8</td><td></td></tr><tr><td>&#10;					</td><td>Chu, Kevin</td><td> 12</td><td>&#10;					</td><td>* BYE * Pod 10</td><td></td></tr><tr><td>&#10;					</td><td>Braden, Justin</td><td> 12</td><td>&#10;					</td><td>* BYE * Pod 16</td><td></td></tr></tbody></table>

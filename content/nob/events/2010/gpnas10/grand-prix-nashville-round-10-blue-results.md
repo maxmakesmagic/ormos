@@ -1,0 +1,55 @@
+---
+id: fgxb7aw0
+kind: event
+lang: nob
+path: /nob/events/2010/gpnas10/grand-prix-nashville-round-10-blue-results
+title: Grand Prix-Nashville Round 10 Blue Results
+published: '2010-11-20'
+column_slug: null
+column: null
+authors: []
+event_code: gpnas10
+detected_lang: nob
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gpnas10/resblue10
+    lang_detected: nob
+    capture_id: 449333
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gpnas10/resblue10
+    captured_at: '2013-06-25 06:10:42+00'
+    rule: aspx.article_heading
+  published:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gpnas10/resblue10
+    lang_detected: nob
+    capture_id: 449333
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gpnas10/resblue10
+    captured_at: '2013-06-25 06:10:42+00'
+    rule: aspx.byline_date
+  event_code:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gpnas10/resblue10
+    lang_detected: nob
+    capture_id: 449333
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gpnas10/resblue10
+    captured_at: '2013-06-25 06:10:42+00'
+    rule: url.event_code
+sources:
+- document_id: fgxb7aw0
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gpnas10/resblue10
+  page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gpnas10/resblue10
+  lang: nob
+  template: aspx
+  captured_at: '2013-06-25 06:10:42+00'
+  capture_id: 449333
+  wayback_url: https://web.archive.org/web/20130625061042id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gpnas10/resblue10
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: fgxb7aw0
+  capture_id: 449333
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gpnas10/resblue10
+  wayback_url: https://web.archive.org/web/20130625061042id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gpnas10/resblue10
+  captured_at: '2013-06-25 06:10:42+00'
+  template: aspx
+  sha256: c3a3b1fd6206d75e346287204854ab4951742b46e4ad89d77650ef4690335490
+render_recovery: []
+---
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130625061042/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gpnas10/resblue10">&#10;        <b>Table</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130625061042/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gpnas10/resblue10">&#10;        <b>Player</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130625061042/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gpnas10/resblue10">&#10;        <b>Result</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130625061042/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gpnas10/resblue10">&#10;        <b>&#10;      </b></a><b>&#10;    </b></td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130625061042/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gpnas10/resblue10">&#10;        <b>Opponent</b>&#10;      </a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>401</td>&#10;    <td>Rietzl, Paul R [USA]</td>&#10;    <td>Won 2-0</td>&#10;    <td>vs.</td>&#10;    <td>Price, Pat T [USA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>402</td>&#10;    <td>Stoll, Kyle [USA]</td>&#10;    <td>Won 2-1</td>&#10;    <td>vs.</td>&#10;    <td>Sharfman, David S [USA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>403</td>&#10;    <td>Yu, Jarvis K [USA]</td>&#10;    <td>Lost 1-2</td>&#10;    <td>vs.</td>&#10;    <td>Edwards, Craig J [USA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>404</td>&#10;    <td>Fabiano, Gerard [USA]</td>&#10;    <td>Won 2-1</td>&#10;    <td>vs.</td>&#10;    <td>Little, Christopher J [USA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>405</td>&#10;    <td>Ross, Tom R [USA]</td>&#10;    <td>Lost 1-2</td>&#10;    <td>vs.</td>&#10;    <td>Cunningham, Jeff W [CAN]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>406</td>&#10;    <td>Black, Samuel H [USA]</td>&#10;    <td>Lost 1-2</td>&#10;    <td>vs.</td>&#10;    <td>Faeder, Dustin M [USA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>407</td>&#10;    <td>Lebedowicz, Osyp I [USA]</td>&#10;    <td>Won 2-0</td>&#10;    <td>vs.</td>&#10;    <td>Sadin, Steven [USA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>408</td>&#10;    <td>Dao, Phu Q [USA]</td>&#10;    <td>Lost 1-2</td>&#10;    <td>vs.</td>&#10;    <td>Buchanan, Samuel [USA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>409</td>&#10;    <td>Mcneely, Aaron [USA]</td>&#10;    <td>Won 2-0</td>&#10;    <td>vs.</td>&#10;    <td>Phillips, Hunter [USA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>410</td>&#10;    <td>Vidugiris, Gaudenis [USA]</td>&#10;    <td>Drew 1-1-1</td>&#10;    <td>vs.</td>&#10;    <td>Juza, Martin [CZE]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>411</td>&#10;    <td>Anderson, Todd [USA]</td>&#10;    <td>Lost 1-2</td>&#10;    <td>vs.</td>&#10;    <td>Thompson, Gerry [USA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>412</td>&#10;    <td>White, Aaron R [USA]</td>&#10;    <td>Won 2-1</td>&#10;    <td>vs.</td>&#10;    <td>Dowse, Bryan [USA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>413</td>&#10;    <td>Self, Joshua R [USA]</td>&#10;    <td>Drew 1-1-1</td>&#10;    <td>vs.</td>&#10;    <td>Aintrazi, Ali I [USA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>414</td>&#10;    <td>Caudle, Clinton [USA]</td>&#10;    <td>Won 2-0</td>&#10;    <td>vs.</td>&#10;    <td>Blankenship, George A [USA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>415</td>&#10;    <td>Fulk, David C [USA]</td>&#10;    <td>Lost 1-2</td>&#10;    <td>vs.</td>&#10;    <td>Elliott, Scott [USA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>416</td>&#10;    <td>Grannan, Jack K [USA]</td>&#10;    <td>Won 2-0</td>&#10;    <td>vs.</td>&#10;    <td>Bragg, Tillman E [USA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>417</td>&#10;    <td>Riggs, Ben L [USA]</td>&#10;    <td>Lost 0-2</td>&#10;    <td>vs.</td>&#10;    <td>Forsythe, Jimmy [USA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>418</td>&#10;    <td>Matlock, Justin [USA]</td>&#10;    <td>Lost 0-2</td>&#10;    <td>vs.</td>&#10;    <td>Pozsgay, Michael T [USA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>419</td>&#10;    <td>Sieber, John [USA]</td>&#10;    <td>Lost 0-2</td>&#10;    <td>vs.</td>&#10;    <td>Smith, Phil C [USA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>420</td>&#10;    <td>Coffey, Evan [USA]</td>&#10;    <td>Won 2-1</td>&#10;    <td>vs.</td>&#10;    <td>Ley, Isaiah J [USA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>421</td>&#10;    <td>Rolen, Ryan R [USA]</td>&#10;    <td>Won 2-1</td>&#10;    <td>vs.</td>&#10;    <td>Hill, Cory M [USA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>422</td>&#10;    <td>Frazier, Matthew R [USA]</td>&#10;    <td>Won 2-1</td>&#10;    <td>vs.</td>&#10;    <td>Gagnon, Jake [USA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>423</td>&#10;    <td>Williams, David A [USA]</td>&#10;    <td>Lost 1-2</td>&#10;    <td>vs.</td>&#10;    <td>Kollipara, Siddhartha [USA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>424</td>&#10;    <td>Eddy, Austin W [USA]</td>&#10;    <td>Lost 1-2</td>&#10;    <td>vs.</td>&#10;    <td>Berg, Tim M [USA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>425</td>&#10;    <td>Aten, Timothy J [USA]</td>&#10;    <td>Lost 1-2</td>&#10;    <td>vs.</td>&#10;    <td>Baugh, Jacob A [USA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>426</td>&#10;    <td>Saito, Tomoharu [JPN]</td>&#10;    <td>Won 2-0</td>&#10;    <td>vs.</td>&#10;    <td>Hager, Jason A [USA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>427</td>&#10;    <td>Garcia Moreno-torres, [ESP]</td>&#10;    <td>Lost 0-2</td>&#10;    <td>vs.</td>&#10;    <td>Duke, Ian W [USA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>428</td>&#10;    <td>Waymon, Larry D [USA]</td>&#10;    <td>Lost 1-2</td>&#10;    <td>vs.</td>&#10;    <td>Kibler, Brian M [USA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>429</td>&#10;    <td>Leppert, Thomas W [USA]</td>&#10;    <td>Lost 0-2</td>&#10;    <td>vs.</td>&#10;    <td>Froehlich, Eric [USA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>430</td>&#10;    <td>Macdonald, Dylan N [CAN]</td>&#10;    <td>Won 2-0</td>&#10;    <td>vs.</td>&#10;    <td>Stechler, Kevin [USA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>431</td>&#10;    <td>Holland, Kitt P [USA]</td>&#10;    <td>Lost 1-2</td>&#10;    <td>vs.</td>&#10;    <td>Chreptyk, Brandon [CAN]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>432</td>&#10;    <td>Minard, Darin L [USA]</td>&#10;    <td>Won 2-1</td>&#10;    <td>vs.</td>&#10;    <td>Bott, Chris [USA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>433</td>&#10;    <td>Carlson, Johnathan A [USA]</td>&#10;    <td>Won 2-1</td>&#10;    <td>vs.</td>&#10;    <td>Powers, Michael T [USA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>434</td>&#10;    <td>Hawkins, Jesse A [USA]</td>&#10;    <td>Lost 0-2</td>&#10;    <td>vs.</td>&#10;    <td>Job, Jonathan M [USA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>435</td>&#10;    <td>Chu, Tony [USA]</td>&#10;    <td>Won 2-0</td>&#10;    <td>vs.</td>&#10;    <td>West, Alexander M [USA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>436</td>&#10;    <td>Zornes, James W [USA]</td>&#10;    <td>Won 2-0</td>&#10;    <td>vs.</td>&#10;    <td>Marr, Mat [USA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>437</td>&#10;    <td>Napoli, Phillip A [USA]</td>&#10;    <td>Lost 0-2</td>&#10;    <td>vs.</td>&#10;    <td>Henricks, J.t. [USA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>438</td>&#10;    <td>Stolbom, Zach [USA]</td>&#10;    <td>Lost 0-2</td>&#10;    <td>vs.</td>&#10;    <td>Cannon, Chris S [USA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>439</td>&#10;    <td>Reeves, Brian A [USA]</td>&#10;    <td>Won 2-0</td>&#10;    <td>vs.</td>&#10;    <td>Morrison, David [USA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>440</td>&#10;    <td>Long, Shon M [USA]</td>&#10;    <td>Won 2-1</td>&#10;    <td>vs.</td>&#10;    <td>Aden, Eli [USA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>441</td>&#10;    <td>Spagnolo, Nicholas [USA]</td>&#10;    <td>Won 2-0</td>&#10;    <td>vs.</td>&#10;    <td>Lorren, Phillip D [USA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>442</td>&#10;    <td>Conkle, Mark D [USA]</td>&#10;    <td>Lost 1-2</td>&#10;    <td>vs.</td>&#10;    <td>Hon, Alex [USA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>443</td>&#10;    <td>Calcano, Christian [USA]</td>&#10;    <td>Won 2-0</td>&#10;    <td>vs.</td>&#10;    <td>Wolfe, Brandt [USA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>444</td>&#10;    <td>Reiser, Adam L [USA]</td>&#10;    <td>Won 2-0</td>&#10;    <td>vs.</td>&#10;    <td>Malka, Sol [USA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>445</td>&#10;    <td>Jesse, Zach [USA]</td>&#10;    <td>Won 2-0</td>&#10;    <td>vs.</td>&#10;    <td>Chau, Phuong T [USA]</td>&#10;  </tr>&#10;</tbody></table>

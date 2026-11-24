@@ -1,0 +1,745 @@
+---
+id: gnrkb5wm
+kind: event
+lang: en
+path: /en/articles/event-coverage/undated/saitou-seizes-strasbourg
+title: Saitou Seizes Strasbourg!
+published: null
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtgevent_gpstra07_welcome
+    lang_detected: en
+    capture_id: 829376
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_gpstra07_welcome
+    captured_at: '2009-06-04 00:38:17+00'
+    rule: aspx.article_heading
+sources:
+- document_id: gnrkb5wm
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_gpstra07_welcome
+  page_key: wizards.com/magic/magazine/article.aspx?x=mtgevent_gpstra07_welcome
+  lang: en
+  template: aspx
+  captured_at: '2009-06-04 00:38:17+00'
+  capture_id: 829376
+  wayback_url: https://web.archive.org/web/20090604003817id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_gpstra07_welcome
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: gnrkb5wm
+  capture_id: 829376
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_gpstra07_welcome
+  wayback_url: https://web.archive.org/web/20090604003817id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_gpstra07_welcome
+  captured_at: '2009-06-04 00:38:17+00'
+  template: aspx
+  sha256: 4a3e3383df1ca21f2c739ad1acb426a4ece88d6916ff83b5d0acce807b583e4a
+render_recovery:
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Greater_Gargadon')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Greater Gargadon
+  occurrences: 21
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Calciform_Pools')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Calciform Pools
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Dreadship_Reef')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Dreadship Reef
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Island')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Island
+  occurrences: 11
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Plains')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Plains
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Swamp')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Swamp
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Terramorphic_Expanse')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Terramorphic Expanse
+  occurrences: 9
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Urborg,_Tomb_of_Yawgmoth')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Urborg, Tomb of Yawgmoth
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Urza[s_Factory')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Urza's Factory
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Aeon_Chronicler')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Aeon Chronicler
+  occurrences: 24
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Draining_Whelk')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Draining Whelk
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Dralnu,_Lich_Lord')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Dralnu, Lich Lord
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Teferi,_Mage_of_Zhalfir')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Teferi, Mage of Zhalfir
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Cancel')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Cancel
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Careful_Consideration')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Careful Consideration
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Damnation')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Damnation
+  occurrences: 10
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Dismal_Failure')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Dismal Failure
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Extirpate')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Extirpate
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Haunting_Hymn')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Haunting Hymn
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mystical_Teachings')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mystical Teachings
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Phyrexian_Totem')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Phyrexian Totem
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Prismatic_Lens')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Prismatic Lens
+  occurrences: 11
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Pull_from_Eternity')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Pull from Eternity
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sudden_Death')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sudden Death
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Tendrils_of_Corruption')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Tendrils of Corruption
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Brine_Elemental')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Brine Elemental
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Disenchant')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Disenchant
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Snapback')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Snapback
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Spell_Burst')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Spell Burst
+  occurrences: 8
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Temporal_Isolation')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Temporal Isolation
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Vesuvan_Shapeshifter')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Vesuvan Shapeshifter
+  occurrences: 18
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Willbender')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Willbender
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Forest')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Forest
+  occurrences: 8
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mountain')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mountain
+  occurrences: 17
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Pendelhaven')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Pendelhaven
+  occurrences: 10
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Fathom_Seer')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Fathom Seer
+  occurrences: 11
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mystic_Snake')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mystic Snake
+  occurrences: 11
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Riftwing_Cloudskate')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Riftwing Cloudskate
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Thelonite_Hermit')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Thelonite Hermit
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Wall_of_Roots')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Wall of Roots
+  occurrences: 21
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Harmonize')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Harmonize
+  occurrences: 12
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mwonvuli_Acid-Moss')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mwonvuli Acid-Moss
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Search_for_Tomorrow')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Search for Tomorrow
+  occurrences: 9
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Stormbind')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Stormbind
+  occurrences: 25
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Penumbra_Spider')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Penumbra Spider
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Riptide_Pilferer')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Riptide Pilferer
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Serrated_Arrows')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Serrated Arrows
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Spike_Feeder')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Spike Feeder
+  occurrences: 8
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Utopia_Vow')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Utopia Vow
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Blood_Knight')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Blood Knight
+  occurrences: 12
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Jaya_Ballard,_Task_Mage')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Jaya Ballard, Task Mage
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mogg_War_Marshal')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mogg War Marshal
+  occurrences: 15
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sulfur_Elemental')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sulfur Elemental
+  occurrences: 16
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Thick-Skinned_Goblin')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Thick-Skinned Goblin
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Timbermare')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Timbermare
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Dead')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Dead // Gone
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Fiery_Temper')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Fiery Temper
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Rift_Bolt')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Rift Bolt
+  occurrences: 14
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Word_of_Seizing')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Word of Seizing
+  occurrences: 12
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Avalanche_Riders')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Avalanche Riders
+  occurrences: 20
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Call_of_the_Herd')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Call of the Herd
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Wildfire_Emissary')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Wildfire Emissary
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Fungal_Reaches')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Fungal Reaches
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Akroma,_Angel_of_Fury')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Akroma, Angel of Fury
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Bogardan_Hellkite')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Bogardan Hellkite
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Radha,_Heir_to_Keld')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Radha, Heir to Keld
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Scryb_Ranger')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Scryb Ranger
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Spectral_Force')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Spectral Force
+  occurrences: 13
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Lotus_Bloom')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Lotus Bloom
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Molten_Slagheap')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Molten Slagheap
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Magus_of_the_Scroll')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Magus of the Scroll
+  occurrences: 9
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Browbeat')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Browbeat
+  occurrences: 8
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Disintegrate')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Disintegrate
+  occurrences: 16
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Keldon_Marauders')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Keldon Marauders
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Boom')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Boom // Bust
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Intet,_the_Dreamer')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Intet, the Dreamer
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Weatherseed_Totem')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Weatherseed Totem
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Ancient_Grudge')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Ancient Grudge
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Detritivore')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Detritivore
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Fortune_Thief')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Fortune Thief
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Desert')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Desert
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Brute_Force')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Brute Force
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Suq[Ata_Lancer')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Suq'Ata Lancer
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Vesuva')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Vesuva
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Dead_//_Gone')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Dead // Gone
+  occurrences: 9
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('snapback')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  occurrences: 1
+---
+![](https://i.ormos.uk/8b/2b/8b2b23bda20949c74b495013851bd5d30da0bc4eb569b9ad9e136540e60d03a2.jpg)
+
+Japanese level 6 pro Tomoharu Saitou is the Grand Prix Strasbourg champion 2007! On the strength of Greater Gargadon, the far-traveled Pro takes home 3000 US$. Much more important, Saitou grabs eight Pro points for his win, which puts him to 39 points and five points ahead of Raphael Levy in the Player of the Year race.
+
+The second place goes to German amateur Raul Porojan, who gets additional amateur prize money and earns a bigger purse than even the actual winner. For him, this top 8 is the gateway to Pro Tour Valencia, where he aims to lose his amateur-ship. The home country of France managed to put no players in the Top 8. Instead, German could be heard all over the top tables: Three Germans, one Austrian, one Swiss player made up more than half of the Top 8, the rest was filled out by one Czech and two Japanese.
+
+Deckwise, red- and green-based decks proved to be most popular and most resilient, with Saito's Mono Red taking the top spot. More than one fourth of all day-2-decks fell into the R/G Big Mana and Mono Red category. The "ramp" decks were most popular, but the Pro choice still was U/B, typically supported by a white splash. Shouta Yasooka piloted such a creation in the top 8. A surprisingly high number of players chose the rock-stable manabase of Mono Blue, among them Olivier Ruel, assuming that no White Weenie or fast aggro decks would impede their way. With just 15 White Weenie decks in day two, their assumption held true.
+
+Now it's up to Future Sight and updates to the decks that have held their worth from Yokohama to Strasbourg. The PTQ season is coming up just around the corner, as well as the National Qualifiers. But the next stop on the circuit is Grand Prix Montreal on June 23-24. *Time Spiral* Block Constructed with Future Sight is the format, so keep the Strasbourg results in mind and meet the **magicthegathering.com** coverage reporters in Montreal!
+
+  
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;    </td><td>Quarterfinals </td>&#10;    <td> </td>&#10;    <td>Semifinals </td>&#10;    <td> </td>&#10;    <td>Finals </td>&#10;    <td> </td>&#10;    <td>Champion </td>&#10;  </tr>&#10;  <tr>&#10;    <td>1</td>&#10;    <td>&#10;      Shouta Yasooka&#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Shouta Yasooka, 2-0&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3"> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>8</td>&#10;    <td>&#10;      Stefan Heigerer&#10;    </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3">&#10;      Tomoharu Saito, 2-0&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>4</td>&#10;    <td>&#10;      Tomoharu Saito&#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Tomoharu Saito, 2-0&#10;    </td>&#10;    <td rowspan="5"> </td>&#10;    <td rowspan="5">&#10;      Tomoharu Saito, 2-0&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>5</td>&#10;    <td>&#10;      Petr Martinek&#10;    </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3"> </td>&#10;  </tr>&#10;  <tr>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>2</td>&#10;    <td>&#10;      Klaus Joens&#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Raul Porojan, 2-1&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>7</td>&#10;    <td>&#10;      Raul Porojan&#10;    </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3">&#10;      Raul Porojan, 2-1&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>3</td>&#10;    <td>&#10;      Florian Pils&#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Florian Pils, 2-1&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>6</td>&#10;    <td>&#10;      Christoph Huber&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;</tbody></table>
+
+  
+  
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <b>EVENT COVERAGE</b>&#10;    </td>&#10;    <td>&#10;      <b>INFORMATION</b>&#10;      &#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <ul>&#10;        <br>&#10;        <li>&#10;          <a href="#10">Blog - 9:37 p.m.</a> - Podcast: The Final Showdown<div><i>by Rich Hagon</i></div></li>&#10;        <li>&#10;          <a href="#9">Blog - 9:22 p.m.</a> - Finals: Tomoharu Saito vs. Raul Porojan<div><i>by Hanno Terbuyken</i></div></li>&#10;        <li>&#10;          <a href="#8">Blog - 8:55 p.m.</a> - Semifinals: Shouta Yasooka vs. Tomoharu Saito<div><i>by Simon Görtzen</i></div></li>&#10;        <li>&#10;          <a href="#7">Blog - 8:47 p.m.</a> - Semifinals: Raul Porojan vs. Florian Pils<div><i>by Ben Coleman</i></div></li>&#10;        <li>&#10;          <a href="#6">Blog - 8:02 p.m.</a> - Quarterfinals: Stefan Heigerer vs. Shouta Yazooka<div><i>by Simon Görtzen</i></div></li>&#10;        <li>&#10;          <a href="#5">Blog - 7:51 p.m.</a> - Quarterfinals: Klaus Jöns vs. Raul Porojan<div><i>by Tobias Henke</i></div></li>&#10;        <li>&#10;          <a href="#4">Blog - 7:33 p.m.</a> - Quarterfinals: Tomoharu Saito vs. Petr Martinek<div><i>by Sebastian Abresch</i></div></li>&#10;        <li>&#10;          <a href="#3">Blog - 7:18 p.m.</a> - Quarterfinals: Florian Pils vs. Christoph Huber<div><i>by Hanno Terbuyken</i></div></li>&#10;        <li>&#10;          <a href="#2">Blog - 6:44 p.m.</a> - Decklists: The Top 8 Decks<div><i>by Staff</i></div></li>&#10;        <li>&#10;          <a href="#1">Blog - 6:00 p.m.</a> - The Top 8 Profiles<div><i>by Hanno Terbuyken</i></div></li>&#10;        <br>&#10;        <hr>&#10;        <br>&#10;        <li>&#10;          <a href="/en/events/2007/gpstra07/day-2-blog-archive">Day 2 Blog Archive</a>: Day 2 Podcasts, Metagame Breakdown, Stories from the Venue, Photos from Strasbourg, Feature Matches, and More!<div><i>by Hanno Terbuyken and Rich Hagon</i></div></li>&#10;        <br>&#10;        <hr>&#10;        <br>&#10;        <li>&#10;          <a href="/en/events/2007/gpstra07/day-1-blog-archive">Day 1 Blog Archive</a>: Day 1 Podcasts, Undefeated Decklists, Feature Match Madness, Metagame Watch, and More!<div><i>by Hanno Terbuyken and Rich Hagon</i></div></li>&#10;        <li>&#10;          <a href="/de/events/2007/gpstra07/day-1-player-list-green">Info</a>: Day 1 Player List (Green)<div><i>by Event Coverage Staff</i></div></li>&#10;        <li>&#10;          <a href="/de/events/2007/gpstra07/day-1-player-list-blue">Info</a>: Day 1 Player List (Blue)<div><i>by Event Coverage Staff</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2007/gpstra07/day-1-country-breakdown-green">Info</a>: Day 1 Country Breakdown (Green)<div><i>by Event Coverage Staff</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2007/gpstra07/day-1-country-breakdown-blue">Info</a>: Day 1 Country Breakdown (Blue)<div><i>by Event Coverage Staff</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2007/strasbourg07/tournament-information-side-events-entertainment-travel-information-contact">Info</a>: Fact Sheet<div><i>by Event Coverage Staff</i></div></li>&#10;      </ul>&#10;    </td>&#10;    <td colspan="2">&#10;      &#10;      <table>&#10;        <tbody><tr>&#10;          <td> 1.  <b>Tomoharu Saitou</b></td>&#10;          <td>$3,000</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 2.  <b>Raul Porojan *</b></td>&#10;          <td>$3,500</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 3.  <b>Shouta Yasooka</b></td>&#10;          <td>$1,400</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 4.  <b>Florian Pils</b></td>&#10;          <td>$1,300</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 5.  <b>Christoph Huber</b></td>&#10;          <td>$900</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 6.  <b>Klaus Joens</b></td>&#10;          <td>$900</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 7.  <b>Petr Martinek *</b></td>&#10;          <td>$1,900</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 8.  <b>Stefan Heigerer *</b></td>&#10;          <td>$1,650</td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            <p>* includes amateur award</p>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <b>Pairings</b>&#10;          </td>&#10;          <td>&#10;            <b>Results</b>&#10;          </td>&#10;          <td>&#10;            <b>Standings</b>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;          </td><td>&#10;          </td><td>&#10;            <a href="/de/events/2007/gpstra07/final-standings">Final</a>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <b>Day 2</b>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      &#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <a href="/de/events/2007/gpstra07/round-15-pairings">15</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-14-pairings">14</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-13-pairings">13</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-12-pairings">12</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-11-pairings">11</a>&#10;            <br>&#10;            10</td>&#10;          <td>&#10;            <a href="/it/events/2007/gpstra07/round-15-results">15</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-14-results">14</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-13-results">13</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-12-results">12</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-11-results">11</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-10-results">10</a>&#10;          </td>&#10;          <td>&#10;            <a href="/de/events/2007/gpstra07/round-15-standings">15</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-14-standings">14</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-13-standings">13</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-12-standings">12</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-11-standings">11</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-10-standings">10</a>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <b>Day 1</b>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <b>Green Bracket</b>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      &#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <a href="/de/events/2007/gpstra07/round-9-pairings-green">9</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-8-pairings-green">8</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-7-pairings-green">7</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-6-pairings-green">6</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-5-pairings-green">5</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-4-pairings-green">4</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-3-pairings-green">3</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-2-pairings-green">2</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-1-pairings-green">1</a>&#10;          </td>&#10;          <td>&#10;            <a href="/de/events/2007/gpstra07/round-9-results-green">9</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-8-results-green">8</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-7-results-green">7</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-6-results-green">6</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-5-results-green">5</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-4-results-green">4</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-3-results-green">3</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-2-results-green">2</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-1-results-green">1</a>&#10;          </td>&#10;          <td>&#10;            <a href="/de/events/2007/gpstra07/round-9-standings-green">9</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-8-standings-green">8</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-7-standings-green">7</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-6-standings-green">6</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-5-standings-green">5</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-4-standings-green">4</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-3-standings-green">3</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-2-standings-green">2</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-1-standings-green">1</a>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <b>Blue Bracket</b>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      &#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <a href="/de/events/2007/gpstra07/round-9-pairings-blue">9</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-8-pairings-blue">8</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-7-pairings-blue">7</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-6-pairings-blue">6</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-5-pairings-blue">5</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-4-pairings-blue">4</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-3-pairings-blue">3</a>&#10;            <br>&#10;            2<br>1</td>&#10;          <td>&#10;            <a href="/de/events/2007/gpstra07/round-9-results-blue">9</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-8-results-blue">8</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-7-results-blue">7</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-6-results-blue">6</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-5-results-blue">5</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-4-results-blue">4</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-3-results-blue">3</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-2-results-blue">2</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-1-results-blue">1</a>&#10;          </td>&#10;          <td>&#10;            <a href="/de/events/2007/gpstra07/round-9-standings-blue">9</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-8-standings-blue">8</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-7-standings-blue">7</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-6-standings-blue">6</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-5-standings-blue">5</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-4-standings-blue">4</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-3-standings-blue">3</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-2-standings-blue">2</a>&#10;            <br>&#10;            <a href="/de/events/2007/gpstra07/round-1-standings-blue">1</a>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;    </td>&#10;  </tr>&#10;</tbody></table>
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <b>BLOG</b>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <br>&#10;      <br>&#10;      <a name="1">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, May 20: 6:00 p.m. - The Top 8 Profiles</b>&#10;        <div>&#10;          <i>by Hanno Terbuyken</i>&#10;        </div>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <div>&#10;        <table>&#10;          <tbody><tr>&#10;            <td>&#10;              <img src="https://i.ormos.uk/13/67/1367002d64784d7c02ebdd225c6b20e68548d889c01fbda7bab75b3911763482.jpg">&#10;              <i>Shouta Yasooka</i>&#10;            </td>&#10;          </tr>&#10;        </tbody></table>&#10;      </div>&#10;      <br>&#10;      <p>Shouta Yasooka (Japan)<br> 3 Byes, Pro<br> 39 points, 1st after Swiss<br> His only losses: Tiago Chan (round 5), Benoit Verwaerde (round 7)</p>&#10;      <div>&#10;        <table>&#10;          <tbody><tr>&#10;            <td>&#10;              <img src="https://i.ormos.uk/b5/fc/b5fc4c9452d8ebc46cf1c3789b5324246d1bb15a3815b6cc315f88fde58b8468.jpg">&#10;              <i>Christoph Huber</i>&#10;            </td>&#10;          </tr>&#10;        </tbody></table>&#10;      </div>&#10;      <br>&#10;      <p>Christoph Huber (Austria)<br> 2 Byes, Pro<br> 38 points, 2nd after Swiss<br> His only losses: William Cavaglieri (round 10), ID in rounds 14 and 15</p>&#10;      <div>&#10;        <table>&#10;          <tbody><tr>&#10;            <td>&#10;              <img src="https://i.ormos.uk/0d/13/0d13d90237b49c9d528310b0daed0dddf88e5559d7833b639d210805f1ad65da.jpg">&#10;              <i>Klaus Jöns</i>&#10;            </td>&#10;          </tr>&#10;        </tbody></table>&#10;      </div>&#10;      <br>&#10;      <p>Klaus Jöns (Germany)<br> 3 Byes, Pro<br> 38 points, 3rd after Swiss<br> His only losses: Dimitri Reindermann (round 4), Draw against Gabriel Nassif (round 10), ID in round 15</p>&#10;      <div>&#10;        <table>&#10;          <tbody><tr>&#10;            <td>&#10;              <img src="https://i.ormos.uk/6f/40/6f40bea69cd0968e71fa86a2ef5e6dc032a12df3bf31a2ae24126a75763d0d76.jpg">&#10;              <i>Petr Martinek</i>&#10;            </td>&#10;          </tr>&#10;        </tbody></table>&#10;      </div>&#10;      <br>&#10;      <p>Petr Martinek (Czech Republic)<br> 1 Bye, Amateur<br> 38 points, 4th after Swiss<br> His only losses: Erik Schaffernicht (round 5), ID in rounds 14 and 15</p>&#10;      <div>&#10;        <table>&#10;          <tbody><tr>&#10;            <td>&#10;              <img src="https://i.ormos.uk/bc/81/bc813c94c5d816bba72c22cd678461dec005dd1713097c2b4d984a2134340433.jpg">&#10;              <i>Tomoharu Saitou</i>&#10;            </td>&#10;          </tr>&#10;        </tbody></table>&#10;      </div>&#10;      <br>&#10;      <p>Tomoharu Saitou (Japan)<br> 3 Byes, Pro<br> 37 points, 5th after Swiss<br> His only losses: Stefan Heigerer (round 7), Raul Porojan (round 9), ID in round 15</p>&#10;      <div>&#10;        <table>&#10;          <tbody><tr>&#10;            <td>&#10;              <img src="https://i.ormos.uk/57/60/57606259557f43f63c63d1c5176d2d8296ae54e21b668b237fc819775eacc9cc.jpg">&#10;              <i>Raul Porojan</i>&#10;            </td>&#10;          </tr>&#10;        </tbody></table>&#10;      </div>&#10;      <br>&#10;      <p>Raul Porojan (Germany)<br> 3 Byes, Amateur<br> 37 points, 6th after Swiss<br> His only losses: Ruud Warmenhoven (round 4), Florian Pils (round 12), ID in round 15</p>&#10;      <div>&#10;        <table>&#10;          <tbody><tr>&#10;            <td>&#10;              <img src="https://i.ormos.uk/9c/52/9c520526531151005f3587cb9692b1c7ef09facdf6971d95d780cc3c86672a8f.jpg">&#10;              <i>Florian Pils</i>&#10;            </td>&#10;          </tr>&#10;        </tbody></table>&#10;      </div>&#10;      <br>&#10;      <p>Florian Pils (Germany)<br> 3 Byes, Pro<br> 37 points, 7th after Swiss<br> His only losses: Ivan Floch (round 4), Christoph Huber (round 13), ID in round 15</p>&#10;      <div>&#10;        <table>&#10;          <tbody><tr>&#10;            <td>&#10;              <img src="https://i.ormos.uk/a8/50/a850b98906fcf36cee2d0c515dbbdc6a5ed4fc174ad31a8a6f0df189ad28c626.jpg">&#10;              <i>Stefan Heigerer</i>&#10;            </td>&#10;          </tr>&#10;        </tbody></table>&#10;      </div>&#10;      <br>&#10;      <p>Stefan Heigerer (Austria)<br> 1 Bye, Amateur<br> 37 points, 8th after Swiss<br> His only losses: Christoph Huber (round 8), Draw against Yann Massicard (round 9), Bojan Unko (round 10)</p>&#10;      <br>&#10;      <br>&#10;      <a name="2">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, May 20: 6:44 p.m. - Decklists: The Top 8 Decks</b>&#10;        <div>&#10;          <i>by Staff</i>&#10;        </div>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Shouta Yasooka – U/B/w&#10;              </div>&#10;              <div>GP Strasbourg Top 8</div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090604003817/https://www.wizards.com/magic/samplehand.asp?x=mtgevent_gpstra07_welcome&amp;decknum=1">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td colspan="2">&#10;                        <p>Main Deck</p>&#10;                        <p>60 cards&#10;                    </p>&#10;                      </td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>2 &#10;                      <a>Calciform Pools</a><br>4 &#10;                      <a>Dreadship Reef</a><br>9 &#10;                      <a>Island</a><br>1 &#10;                      <a>Plains</a><br>2 &#10;                      <a>Swamp</a><br>4 &#10;                      <a>Terramorphic Expanse</a><br>3 &#10;                      <a>Urborg, Tomb of Yawgmoth</a><br>2 &#10;                      <a>Urza's Factory</a><br><hr>27 lands<br><br><br>3 &#10;                      <a>Aeon Chronicler</a><br>1 &#10;                      <a>Draining Whelk</a><br>1 &#10;                      <a>Dralnu, Lich Lord</a><br>3 &#10;                      <a>Teferi, Mage of Zhalfir</a><br><hr>8 creatures</td>&#10;                      <td>4 &#10;                      <a>Cancel</a><br>2 &#10;                      <a>Careful Consideration</a><br>3 &#10;                      <a>Damnation</a><br>1 &#10;                      <a>Dismal Failure</a><br>1 &#10;                      <a>Extirpate</a><br>1 &#10;                      <a>Haunting Hymn</a><br>3 &#10;                      <a>Mystical Teachings</a><br>1 &#10;                      <a>Phyrexian Totem</a><br>4 &#10;                      <a>Prismatic Lens</a><br>1 &#10;                      <a>Pull from Eternity</a><br>2 &#10;                      <a>Sudden Death</a><br>2 &#10;                      <a>Tendrils of Corruption</a><br><hr>25 other spells</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td>&#10;                        <p>Sideboard</p>&#10;                        <p>&#10;                      </p></td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>1 &#10;                            <a>Aeon Chronicler</a><br>2 &#10;                            <a>Brine Elemental</a><br>1 &#10;                            <a>Disenchant</a><br>1 &#10;                            <a>Dismal Failure</a><br>1 &#10;                            <a>Extirpate</a><br>1 &#10;                            <a>Pull from Eternity</a><br>1 &#10;                            <a>Snapback</a><br>1 &#10;                            <a>Spell Burst</a><br>1 &#10;                            <a>Temporal Isolation</a><br>3 &#10;                            <a>Vesuvan Shapeshifter</a><br>2 &#10;                            <a>Willbender</a><br><hr>15 sideboard cards</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Christoph Huber – U/G Shifter&#10;              </div>&#10;              <div>GP Strasbourg Top 8</div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090604003817/https://www.wizards.com/magic/samplehand.asp?x=mtgevent_gpstra07_welcome&amp;decknum=2">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td colspan="2">&#10;                        <p>Main Deck</p>&#10;                        <p>60 cards&#10;                    </p>&#10;                      </td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>8 &#10;                      <a>Forest</a><br>8 &#10;                      <a>Island</a><br>1 &#10;                      <a>Mountain</a><br>1 &#10;                      <a>Pendelhaven</a><br>4 &#10;                      <a>Terramorphic Expanse</a><br><hr>22 lands<br><br><br>2 &#10;                      <a>Aeon Chronicler</a><br>3 &#10;                      <a>Fathom Seer</a><br>3 &#10;                      <a>Mystic Snake</a><br>4 &#10;                      <a>Riftwing Cloudskate</a><br>3 &#10;                      <a>Thelonite Hermit</a><br>4 &#10;                      <a>Vesuvan Shapeshifter</a><br>4 &#10;                      <a>Wall of Roots</a><br><hr>23 creatures</td>&#10;                      <td>2 &#10;                      <a>Harmonize</a><br>4 &#10;                      <a>Mwonvuli Acid-Moss</a><br>2 &#10;                      <a>Prismatic Lens</a><br>4 &#10;                      <a>Search for Tomorrow</a><br>3 &#10;                      <a>Stormbind</a><br><hr>15 other spells</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td>&#10;                        <p>Sideboard</p>&#10;                        <p>&#10;                      </p></td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>3 &#10;                            <a>Penumbra Spider</a><br>4 &#10;                            <a>Riptide Pilferer</a><br>3 &#10;                            <a>Serrated Arrows</a><br>2 &#10;                            <a>Spike Feeder</a><br>3 &#10;                            <a>Utopia Vow</a><br><hr>15 sideboard cards</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Klaus Jöns – R/g Beats&#10;              </div>&#10;              <div>GP Strasbourg Top 8</div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090604003817/https://www.wizards.com/magic/samplehand.asp?x=mtgevent_gpstra07_welcome&amp;decknum=3">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td colspan="2">&#10;                        <p>Main Deck</p>&#10;                        <p>60 cards&#10;                    </p>&#10;                      </td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>3 &#10;                      <a>Forest</a><br>15 &#10;                      <a>Mountain</a><br>2 &#10;                      <a>Pendelhaven</a><br>4 &#10;                      <a>Terramorphic Expanse</a><br><hr>24 lands<br><br><br>3 &#10;                      <a>Blood Knight</a><br>4 &#10;                      <a>Greater Gargadon</a><br>2 &#10;                      <a>Jaya Ballard, Task Mage</a><br>4 &#10;                      <a>Mogg War Marshal</a><br>3 &#10;                      <a>Sulfur Elemental</a><br>4 &#10;                      <a>Thick-Skinned Goblin</a><br>3 &#10;                      <a>Timbermare</a><br><hr>23 creatures</td>&#10;                      <td>3 &#10;                      <a>Dead // Gone</a><br>4 &#10;                      <a>Fiery Temper</a><br>4 &#10;                      <a>Rift Bolt</a><br>1 &#10;                      <a>Stormbind</a><br>1 &#10;                      <a>Word of Seizing</a><br><hr>13 other spells</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td>&#10;                        <p>Sideboard</p>&#10;                        <p>&#10;                      </p></td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>3 &#10;                            <a>Avalanche Riders</a><br>2 &#10;                            <a>Call of the Herd</a><br>2 &#10;                            <a>Serrated Arrows</a><br>1 &#10;                            <a>Stormbind</a><br>3 &#10;                            <a>Utopia Vow</a><br>3 &#10;                            <a>Wildfire Emissary</a><br>1 &#10;                            <a>Word of Seizing</a><br><hr>15 sideboard cards</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Petr Martinek – R/G Big Mana&#10;              </div>&#10;              <div>GP Strasbourg Top 8</div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090604003817/https://www.wizards.com/magic/samplehand.asp?x=mtgevent_gpstra07_welcome&amp;decknum=4">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td colspan="2">&#10;                        <p>Main Deck</p>&#10;                        <p>60 cards&#10;                    </p>&#10;                      </td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>9 &#10;                      <a>Forest</a><br>2 &#10;                      <a>Fungal Reaches</a><br>8 &#10;                      <a>Mountain</a><br>1 &#10;                      <a>Pendelhaven</a><br>2 &#10;                      <a>Terramorphic Expanse</a><br><hr>22 lands<br><br><br>2 &#10;                      <a>Akroma, Angel of Fury</a><br>4 &#10;                      <a>Bogardan Hellkite</a><br>3 &#10;                      <a>Radha, Heir to Keld</a><br>3 &#10;                      <a>Scryb Ranger</a><br>4 &#10;                      <a>Spectral Force</a><br>4 &#10;                      <a>Wall of Roots</a><br><hr>20 creatures</td>&#10;                      <td>3 &#10;                      <a>Harmonize</a><br>4 &#10;                      <a>Lotus Bloom</a><br>4 &#10;                      <a>Mwonvuli Acid-Moss</a><br>4 &#10;                      <a>Search for Tomorrow</a><br>3 &#10;                      <a>Stormbind</a><br><hr>18 other spells</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td>&#10;                        <p>Sideboard</p>&#10;                        <p>&#10;                      </p></td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>1 &#10;                            <a>Akroma, Angel of Fury</a><br>4 &#10;                            <a>Avalanche Riders</a><br>3 &#10;                            <a>Greater Gargadon</a><br>4 &#10;                            <a>Sulfur Elemental</a><br>3 &#10;                            <a>Utopia Vow</a><br><hr>15 sideboard cards</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Tomoharu Saito – Mono Red&#10;              </div>&#10;              <div>GP Strasbourg Top 8</div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090604003817/https://www.wizards.com/magic/samplehand.asp?x=mtgevent_gpstra07_welcome&amp;decknum=5">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td colspan="2">&#10;                        <p>Main Deck</p>&#10;                        <p>60 cards&#10;                    </p>&#10;                      </td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>3 &#10;                      <a>Molten Slagheap</a><br>20 &#10;                      <a>Mountain</a><br>2 &#10;                      <a>Pendelhaven</a><br><hr>25 lands<br><br><br>4 &#10;                      <a>Blood Knight</a><br>4 &#10;                      <a>Greater Gargadon</a><br>4 &#10;                      <a>Magus of the Scroll</a><br>4 &#10;                      <a>Mogg War Marshal</a><br>4 &#10;                      <a>Sulfur Elemental</a><br><hr>20 creatures</td>&#10;                      <td>4 &#10;                      <a>Browbeat</a><br>3 &#10;                      <a>Dead // Gone</a><br>4 &#10;                      <a>Disintegrate</a><br>4 &#10;                      <a>Rift Bolt</a><br><hr>15 other spells</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td>&#10;                        <p>Sideboard</p>&#10;                        <p>&#10;                      </p></td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>4 &#10;                            <a>Avalanche Riders</a><br>1 &#10;                            <a>Dead // Gone</a><br>4 &#10;                            <a>Keldon Marauders</a><br>3 &#10;                            <a>Wildfire Emissary</a><br>3 &#10;                            <a>Word of Seizing</a><br><hr>15 sideboard cards</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Raul Porojan – U/G/r Shifter&#10;              </div>&#10;              <div>GP Strasbourg Top 8</div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090604003817/https://www.wizards.com/magic/samplehand.asp?x=mtgevent_gpstra07_welcome&amp;decknum=6">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td colspan="2">&#10;                        <p>Main Deck</p>&#10;                        <p>60 cards&#10;                    </p>&#10;                      </td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>9 &#10;                      <a>Forest</a><br>8 &#10;                      <a>Island</a><br>1 &#10;                      <a>Mountain</a><br>1 &#10;                      <a>Pendelhaven</a><br>4 &#10;                      <a>Terramorphic Expanse</a><br><hr>23 lands<br><br><br>3 &#10;                      <a>Aeon Chronicler</a><br>3 &#10;                      <a>Fathom Seer</a><br>3 &#10;                      <a>Mystic Snake</a><br>4 &#10;                      <a>Riftwing Cloudskate</a><br>2 &#10;                      <a>Spectral Force</a><br>4 &#10;                      <a>Vesuvan Shapeshifter</a><br>4 &#10;                      <a>Wall of Roots</a><br><hr>23 creatures</td>&#10;                      <td>2 &#10;                      <a>Harmonize</a><br>3 &#10;                      <a>Prismatic Lens</a><br>4 &#10;                      <a>Search for Tomorrow</a><br>2 &#10;                      <a>Snapback</a><br>3 &#10;                      <a>Stormbind</a><br><hr>14 other spells</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td>&#10;                        <p>Sideboard</p>&#10;                        <p>&#10;                      </p></td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>1 &#10;                            <a>Aeon Chronicler</a><br>3 &#10;                            <a>Boom // Bust</a><br>1 &#10;                            <a>Mystic Snake</a><br>2 &#10;                            <a>Serrated Arrows</a><br>4 &#10;                            <a>Spike Feeder</a><br>4 &#10;                            <a>Sulfur Elemental</a><br><hr>15 sideboard cards</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Florian Pils – R/G/u Big Mana&#10;              </div>&#10;              <div>GP Strasbourg Top 8</div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090604003817/https://www.wizards.com/magic/samplehand.asp?x=mtgevent_gpstra07_welcome&amp;decknum=7">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td colspan="2">&#10;                        <p>Main Deck</p>&#10;                        <p>60 cards&#10;                    </p>&#10;                      </td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>11 &#10;                      <a>Forest</a><br>3 &#10;                      <a>Island</a><br>6 &#10;                      <a>Mountain</a><br>4 &#10;                      <a>Terramorphic Expanse</a><br><hr>24 lands<br><br><br>3 &#10;                      <a>Aeon Chronicler</a><br>2 &#10;                      <a>Avalanche Riders</a><br>4 &#10;                      <a>Bogardan Hellkite</a><br>1 &#10;                      <a>Intet, the Dreamer</a><br>2 &#10;                      <a>Spectral Force</a><br>2 &#10;                      <a>Vesuvan Shapeshifter</a><br>4 &#10;                      <a>Wall of Roots</a><br><hr>18 creatures</td>&#10;                      <td>3 &#10;                      <a>Disintegrate</a><br>4 &#10;                      <a>Harmonize</a><br>4 &#10;                      <a>Mwonvuli Acid-Moss</a><br>2 &#10;                      <a>Prismatic Lens</a><br>4 &#10;                      <a>Search for Tomorrow</a><br>1 &#10;                      <a>Weatherseed Totem</a><br><hr>18 other spells</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td>&#10;                        <p>Sideboard</p>&#10;                        <p>&#10;                      </p></td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>1 &#10;                            <a>Aeon Chronicler</a><br>1 &#10;                            <a>Ancient Grudge</a><br>4 &#10;                            <a>Dead // Gone</a><br>1 &#10;                            <a>Detritivore</a><br>3 &#10;                            <a>Fortune Thief</a><br>1 &#10;                            <a>Spell Burst</a><br>3 &#10;                            <a>Spike Feeder</a><br>1 &#10;                            <a>Vesuvan Shapeshifter</a><br><hr>15 sideboard cards</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Stefan Heigerer – Mono Red&#10;              </div>&#10;              <div>GP Strasbourg Top 8</div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090604003817/https://www.wizards.com/magic/samplehand.asp?x=mtgevent_gpstra07_welcome&amp;decknum=8">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td colspan="2">&#10;                        <p>Main Deck</p>&#10;                        <p>60 cards&#10;                    </p>&#10;                      </td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>3 &#10;                      <a>Desert</a><br>18 &#10;                      <a>Mountain</a><br>1 &#10;                      <a>Pendelhaven</a><br><hr>22 lands<br><br><br>4 &#10;                      <a>Avalanche Riders</a><br>4 &#10;                      <a>Blood Knight</a><br>4 &#10;                      <a>Greater Gargadon</a><br>4 &#10;                      <a>Magus of the Scroll</a><br>4 &#10;                      <a>Mogg War Marshal</a><br>4 &#10;                      <a>Sulfur Elemental</a><br>4 &#10;                      <a>Thick-Skinned Goblin</a><br><hr>28 creatures</td>&#10;                      <td>1 &#10;                      <a>Brute Force</a><br>1 &#10;                      <a>Disintegrate</a><br>4 &#10;                      <a>Fiery Temper</a><br>4 &#10;                      <a>Rift Bolt</a><br><hr>10 other spells</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td>&#10;                        <p>Sideboard</p>&#10;                        <p>&#10;                      </p></td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>4 &#10;                            <a>Dead // Gone</a><br>2 &#10;                            <a>Jaya Ballard, Task Mage</a><br>2 &#10;                            <a>Serrated Arrows</a><br>2 &#10;                            <a>Suq'Ata Lancer</a><br>1 &#10;                            <a>Vesuva</a><br>1 &#10;                            <a>Wildfire Emissary</a><br>3 &#10;                            <a>Word of Seizing</a><br><hr>15 sideboard cards</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <br>&#10;      <a name="3">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, May 20: 7:18 p.m. - Quarterfinals: Florian Pils vs. Christoph Huber</b>&#10;        <div>&#10;          <i>by Hanno Terbuyken</i>&#10;        </div>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <p>The top 8 started pretty early in the day, with the six rounds of Swiss on Sunday going very smooth. Florian Pils from Germany has fought his way to the Top 8 with a green-red-blue big mana deck, similar to the one Sebastian Thaler Top 8'ed in Yokohama. On the other side of the table, Christoph Huber has brought the same colors, only in different emphasis. He is playing U/G Shifter, only with added <a>Stormbind</a> goodness.</p>&#10;      <h3>Game 1</h3>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/c5/b2/c5b2f0b7826429e68c9b721a69679e3e4c413446a21357b1b532c38b8b75faf3.jpg">&#10;            <i>I sense the force is strong in you... but I am stronger still, young knight!</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Both players kept their initial hand and had mana-rich openings. Florian brought double <a>Search for Tomorrow</a>s, Christoph had <a>Wall of Roots</a>. Morph from Christoph took a counter off the Wall, leaving one <a>Island</a> untapped for the Austrian. Almost like a mirror, Florian played a morph of his own, only he used up all his lands. Christoph attacked with the morph and used the window of opportunity to Mwonvuli- Acid-Moss away Florian's only <a>Forest</a>. <a>Search for Tomorrow</a>s went to get an replacement, but the German was still behind. Christoph had a second morph.</p>&#10;      <p>The first mystery was revealed when Florian declared his Morph to be a <a>Vesuvan Shapeshifter</a>, copying the <a>Wall of Roots</a> on Christoph's side because he need the mana for <a>Harmonize</a>. Christoph unmophed end-of-turn <a>Thelonite Hermit</a>, gaining a sizeable attack force. If his second morph would also be Hermit, the Saprolings would be nigh unstoppable. And it was a <a>Vesuvan Shapeshifter</a>, copying the Hermit, so Florian went down to 7. Christoph then had <a>Stormbind</a>, and against three cards in hand Florian conceded.</p>&#10;      <p>Florian Pils 0 - 1 Christoph Huber</p>&#10;      <p>Florian brought in 2 <a>Dead // Gone</a>, 1 <a>Vesuvan Shapeshifter</a>, 1 <a>Spell Burst</a> and took out 2 <a>Avalanche Riders</a>, 1 <a>Aeon Chronicler</a>, 1 <a>Weatherseed Totem</a>.</p>&#10;      <p>Christoph brought in 3 <a>Utopia Vow</a>, taking out his 3 <a>Stormbind</a>.</p>&#10;      <h3>Game 2</h3>&#10;      <div>&#10;        <div>&#10;          <a>&#10;            <img alt="Spell Burst" src="https://i.ormos.uk/aa/86/aa8666e401a52dab380fd4368a4e1d8b7ed0b66f499d3b531f7c3facc15f1937.jpg">&#10;          </a>&#10;        </div>&#10;      </div>&#10;      <p>Christoph on the draw was faced with a mulligan, but his next six looked good. Openings identical to the last game, with Search and <a>Wall of Roots</a> respectively, promised no mana shortage in this game. Where Florian had <a>Harmonize</a>, Christoph had <a>Mwonvuli Acid-Moss</a>. Florian threatened first, suspending <a>Aeon Chronicler</a>, but when that came into play, Christoph had a timely <a>Mystic Snake</a> that Florian stopped with his single <a>Spell Burst</a> off his only <a>Island</a>. He came in for the full 7 off the Chronicler, taking Christoph to 13. </p>&#10;      <p>The Austrian fought back. Unmorphing <a>Fathom Seer</a> gave him extra cards, he suspended a Chronicler of his own for a turn and most importantly had <a>Utopia Vow</a> to incapacitate Florian's own Chronicler. Florian answered with brute force, hardcasting <a>Bogardan Hellkite</a> (thanks <a>Utopia Vow</a> for the eighth mana!) and doming Christoph for 5. Down to 8, Christoph cracked back with his <a>Aeon Chronicler</a>, taking Florian to 14, and had yet another <a>Utopia Vow</a> for the Hellkite! Bereft of Threats, Florian gunned down Christoph's only <a>Island</a> with <a>Mwonvuli Acid-Moss</a> and still had enough mana left to plunk down <a>Spectral Force</a>.</p>&#10;      <p>Christoph bounced it back to Florian's hand with <a>Riftwing Cloudskate</a>, but again Florian pulled out a big gun: <a>Disintegrate</a>, aimed at Christoph's head, ended the game in the German's favor.</p>&#10;      <p>Florian Pils 1 - 1 Christoph Huber</p>&#10;      <h3>Game 3</h3>&#10;      <p>Christoph was fast to announce &quot;keep&quot; on the play, but Florian had to go pack one step and reshuffle, as he preferred random six to his opening seven. Christoph opened with <a>Wall of Roots</a> again, and so did Florian, but where Christoph had just <a>Search for Tomorrow</a>s, Florian went for <a>Harmonize</a>.</p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/43/4e/434e6ed063d94c84b306d177ae1932f5eb04315de3b1d459bb635fa56317bf02.jpg">&#10;            <i>Huh... what now? I might just lose.</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>&#10;        <a>Riftwing Cloudskate</a> from Christoph set Florian back a turn, bouncing an <a>Island</a>, but it didn't get to do any damage as it ate the Dead half of <a>Dead // Gone</a>. Florian suspended <a>Aeon Chronicler</a> for a turn and an extra card,Christoph just kept making mana. Chronicler took him to 12, and he needed a solution of some kind, especially as Florian put <a>Intet, the Dreamer</a> next to the Chronicler.</p>&#10;      <p>Christoph made a morph, <a>Fathom Seer</a>, and drew cards just to find something. He went to 5 on the next attack, countered <a>Spectral Force</a> with <a>Mystic Snake</a>, but it was just not enough. When he saw his next draw, Christoph gave up a futile fight.</p>&#10;      <p>Florian Pils 2 - 1 Christoph Huber</p>&#10;      <br>&#10;      <br>&#10;      <a name="4">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, May 20: 7:33 p.m. - Quarterfinals: Tomoharu Saito vs. Petr Martinek</b>&#10;        <div>&#10;          <i>by Sebastian Abresch</i>&#10;        </div>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/63/51/6351b93a2cd548d911fe0877fe9aa5b44040060d900badb69aad01f9493acba8.jpg">&#10;            <i>Tomoharu Saito</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Finally, after 15 rounds of Swiss, the spirit - along with the temperature - got tense on site. We were off to the quarterfinal between Level 6 pro player Tomoharu Saito facing Czech Petr Martinek. Saito brought a greenless version of his Yokohama Top 8 'Pizza Stompy' deck, <a>Timbermare</a> and <a>Stormbind</a> made room for <a>Disintegrate</a>, <a>Browbeat</a> and even more lands (25!) - quite the 'in your face' build. Martinek played a classic R/G Mana Ramp, combining clunky monsters like <a>Bogardan Hellkite</a>, <a>Akroma, Angel of Fury</a> and <a>Spectral Force</a> (along with his girlfriend, <a>Scryb Ranger</a>) with <a>Radha, Heir to Keld</a>, <a>Stormbind</a> and <a>Lotus Bloom</a> as additional acceleration. </p>&#10;      <p>As both players shuffled up for Game 1, Saito did some gym and traditionally japanese face-slapping. That made him awake enough to win the die roll and choosing to play, keeping his opening seven. Petr Martinek, by contrast, went down to six before being happy with his opener. </p>&#10;      <p>The Japanese started by suspending <a>Greater Gargadon</a>, perhaps the key spell of his deck - Petr just had <a>Mountain</a>. Saito brought up some pressure by suspending <a>Rift Bolt</a> on turn two, which got to eat Martinek's freshly played Radha on turn three. Tomoharu tried to go for some damage with <a>Browbeat</a> - or did he want the cards? Either way seemed to be okay, Petr decided to give the pro player the possibility to draw more damage.</p>&#10;      <div>&#10;        <div>&#10;          <a>&#10;            <img alt="Greater Gargadon" src="https://i.ormos.uk/d0/2d/d02d00adfda35d7438e81509645b0e8c5003e4a3ba9c12a8c4aa87c4caddf514.jpg">&#10;          </a>&#10;        </div>&#10;      </div>&#10;      <p>Petr just cast <a>Wall of Roots</a> and a land, building up his mana for the big guys. Saito drew his card, thought for a long time, slapped his face a bit and decided to play <a>Browbeat</a> number two, again getting three more cards out of it. Saito seemed to be happy with this, playing a mountain and suspending another 9/7 beast. After that, Petr reached his fifth mana - <a>Spectral Force</a>, anyone? No, just <a>Stormbind</a>, go.</p>&#10;      <p>Saito went for another slap (these Japanese must love the pain), drew, cast a little <a>Magus of the Scroll</a> and shipped the turn. Funnily enough, the Czech just had another <a>Forest</a> and no further plays. Saito, in return, wanted some action. Hitting his sixth <a>Mountain</a>, he chose to burn away the 0/5 Wall with <a>Disintegrate</a> and went for first blood of the match! Brave little Magus hit Petr for one crucial damage. Martinek tried to accelerate his mana even more by pointing <a>Mwonvuli Acid-Moss</a> on one of Saito's <a>Mountain</a>s - but of course the land brought his older Gargadon closer to becoming reality. </p>&#10;      <p>Saito seemed to want to end the game in the next two turns as he disintegrated Petr for five, sacrificing two lands into <a>Greater Gargadon</a>, munching another 9 lifepoints out of the Czech, who drew no answer to the beast next turn and scooped up as Saito attacked for lethal damage. </p>&#10;      <p>Tomoharu Saito 1 - 0 Petr Martinek</p>&#10;      <p>Saito chose to get rid of his brave little Magi of the Scroll by replacing them with three <a>Word of Seizing</a> and one <a>Dead // Gone</a>, both being more efficient answers to Martinek's win conditions. The amateur took out his Acid-Mosses and sided in <a>Akroma, Angel of Fury</a> and three <a>Avalanche Riders</a>.</p>&#10;      <p>Of course, Petr chose to play, Saito answered with some more face slapping action. The Czech opening seven were quite strange: Three <a>Mountain</a>s, three <a>Avalanche Riders</a>, one Hellkite. Definetely a non-keeper, being complete defenseless. But his next six had other problems: too few lands. Although there was lots of acceleration with Radha and <a>Lotus Bloom</a>, the lone <a>Mountain</a> was under. But in spite of going down to five, Petr chose to keep, played his only land and suspended <a>Lotus Bloom</a>. Saito matched with <a>Mountain</a> and Gargadon - and Martinek ripped the badly needed <a>Forest</a> off the top! Radha immediately saw play... just to get killed by the Dead half of <a>Dead // Gone</a> next turn. A suspended <a>Rift Bolt</a> indicated that another Radha wouldn't live long also.</p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/ad/04/ad0459b43ffa5c228f0d1a4ee14b82670b76c1ee96dd03cbde955df870c3c730.jpg">&#10;            <i>Petr Martinek</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Petr drew his third land (<a>Pendelhaven</a>) and cast <a>Wall of Roots</a> as a solid defender. So, seeing no other targets, Saito's <a>Rift Bolt</a> hit his face, burning him to 17. As the Japanese tried a <a>Browbeat</a>, Martinek decided to take five this time, goind down to twelve. His Wall enabled him an end of turn <a>Scryb Ranger</a>, <a>Lotus Bloom</a> resolved in upkeep, <a>Harmonize</a> drew him 3 cards (which Saito didn't like). Ranger attacked and got in some damage, Tomoharu answered with <a>Blood Knight</a>, <a>Scryb Ranger</a> slapped for some more <a>Pendelhaven</a> powered beats. Next turn, <a>Blood Knight</a> walked right into <a>Wall of Roots</a>, so that it died off the end of turn Bogadan Hellkite from the Czech - too much -0/-1 counters out there. Dragon burned Saito for five, bringing him to twelve life. On his turn, Martinek wanted to hit for a massive seven, but Tomoharu bought himself more time by bouncing Hellkite back wih Gone. Spectral Fore saw play after combat - the game was getting very tight now. </p>&#10;      <p>Saito just pointed a <a>Disintegrate</a> for two at <a>Scryb Ranger</a>, stealing good ol' <a>Spectral Force</a>'s best friend. Petr just got seven lands out and attacked with the green monster, bringing Saito, who chose not to block, to a huffy two life, knowing that Petr didn't play any cheap burn. Martinek reinforced his defence with a fresh <a>Wall of Roots</a>. But end of turn, Saito brought in <a>Sulfur Elemental</a>, his last hand card. Either he would win now or getting stomped by <a>Bogardan Hellkite</a> next turn. </p>&#10;      <p>Guess what happened.</p>&#10;      <p>The Japanese Pro Player ripped <a>Disintegrate</a> off the top, burned away <a>Wall of Roots</a>, sacrificed four lands into <a>Greater Gargadon</a> and attacked with his red force for more than lethal damage. </p>&#10;      <p>Tomoharu Saito 2 - 0 Petr Martinek</p>&#10;      <br>&#10;      <br>&#10;      <a name="5">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, May 20: 7:51 p.m. - Quarterfinals: Klaus Jöns vs. Raul Porojan</b>&#10;        <div>&#10;          <i>by Tobias Henke</i>&#10;        </div>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/d3/84/d384a457ee69a80aafe5e47d1d7d20ae4aee20b6fe01d62b860d6cb4ab74e1e8.jpg">&#10;            <i>Klaus Jöns</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Level 3 pro Klaus Jöns from Germany made his second GP-Top8 in as many weeks, his third lifetime. Though he might have been the favorite against relative unknown German player Raul Pojoran, his red aggro deck with the usual green splash for <a>Timbermare</a> and <a>Stormbind</a> was about to experience a hard time against Raul's U/G-Shifter, splashing <a>Stormbind</a> as well.</p>&#10;      <h3>Game 1</h3>&#10;      <p>Klaus won the die-roll, chose to play first, and kept his opening seven, as was his opponent. He came out fast and furious, and by turn three Klaus' side of the table was getting crowded with Goblin tokens due to two <a>Mogg War Marshal</a>s and one suspended <a>Greater Gargadon</a>. By now Raul commented bitterly on his opponent's &quot;perfect draw&quot;.</p>&#10;      <p>But luck was about to swing back, as Klaus had no play, neither for turn 4 nor turn 5. Meanwhile, Raul acclerated with <a>Wall of Roots</a> into <a>Harmonize</a>, then put his massive hand size to good use by playing <a>Stormbind</a>. While Klaus still had no drop, Raul played a Morph. The initial offense came to an immediate stop, as Klaus had no way to kill it. Instead he played still more land, visibly frustrated.</p>&#10;      <div>&#10;        <div>&#10;          <a>&#10;            <img alt="snapback" src="https://i.ormos.uk/dd/ab/ddab6ff436f57c14d71dd866865c54ff0ff413a507c94c190fa603c0bc5bd366.jpg">&#10;          </a>&#10;        </div>&#10;      </div>&#10;      <p>At one point <a>Greater Gargadon</a> entered the game, but Raul had the <a>Snapback</a> ready... and his <a>Vesuvan Shapeshifter</a> as well. So instead of Klaus, now he controlled the fearsome 9/7 beatstick, which did exactly that on Raul's next turn. Klaus went down to eleven. Starting to chumpblock at this point could only result in a slow defeat, whereas the risky play might have given him the option to turn the table with a little help from <a>Timbermare</a>. </p>&#10;      <p>As it was, taking nine damage from &quot;the <a>Greater Gargadon</a> formerly known as Morph&quot;, turned out to be just a shortcut towards the inevitable, as Klaus' next draw steps provided no answer. Raul's <a>Stormbind</a> took care of the last points of damage.</p>&#10;      <p>Raul Porojan 1 - 0 Klaus Jöns</p>&#10;      <p>Raul's sideboarding: -1 <a>Mystic Snake</a>, -2 <a>Spectral Force</a>, -4 <a>Riftwing Cloudskate</a><br> +2 <a>Serrated Arrows</a>, + 4 <a>Spike Feeder</a>, +1 <a>Aeon Chronicler</a></p>&#10;      <p>Klaus' sideboarding: -1 <a>Stormbind</a>, -1 <a>Dead // Gone</a>, -2 <a>Sulfur Elemental</a><br> +3 <a>Avalanche Riders</a>, +1 <a>Word of Seizing</a></p>&#10;      <h3>Game 2</h3>&#10;      <p>Klaus lamented that he had hoped to at least win before sideboarding, but his mood soon changed, when his opponent took two mulligans. </p>&#10;      <p>Raul kept a five-card hand with one land. He found his second land in turn three, when his first turn <a>Search for Tomorrow</a> left the suspend zone, and his draw step gave him another one. </p>&#10;      <p>At this point Klaus already had <a>Thick-Skinned Goblin</a> and <a>Mogg War Marshal</a> in play, and <a>Avalanche Riders</a> followed. The synergy between the first Goblin and the two Echo- creatures might be noteworthy. But the synergy between mana screw on one side of the table and land destruction on the other probably was more important in this game.</p>&#10;      <p>Raul never got out of it. He finally found another land in <a>Terramorphic Expanse</a>, which only got a frown, but no mana. Although he was not technically out of options he conceded in disgust soon after.</p>&#10;      <p>Raul Porojan 1 - 1 Klaus Jöns</p>&#10;      <h3>Game 3</h3>&#10;      <p>Klaus started with <a>Greater Gargadon</a>, <a>Blood Knight</a> and <a>Jaya Ballard, Task Mage</a> in the first three turns. Many would have been impressed, especially by the red legend, which cannot always be handeled in time by a deck that's mainly blue and green. But Raul calmly dropped <a>Wall of Roots</a>, <a>Spike Feeder</a>, and <a>Serrated Arrows</a> on his first four turns, thus stopping Klaus' offense right in ist tracks.</p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/84/61/84613e0333702619e75ef8c4b6a26c7ec8e7618cb838ae9af5f0dcd6c983c59f.jpg">&#10;            <i>Raul Porojan</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Next up was a suspended <a>Aeon Chronicler</a> and a <a>Call of the Herd</a> from Klaus. (He boarded his <a>Avalanche Riders</a> out before the third game. He later told me, he always puts the elephants in when going second.) Chronicler entered play, the red zone, and the elite circle of creatures with seven power, when a freshly summoned Morph turned out to be <a>Fathom Seer</a>.</p>&#10;      <p>The extra cards included <a>Vesuvan Shapeshifter</a>, which went on to become yet another <a>Fathom Seer</a> (over and over again). Klaus was clearly in losing position by now. So he made one last attempt to get some damage in by removing the last counter from his suspended Gargadon. But no, <a>Snapback</a> was already waiting...</p>&#10;      <p>With the combo-ish triangle of <a>Aeon Chronicler</a>, <a>Fathom Seer</a>, and <a>Vesuvan Shapeshifter</a> firmly in place, Klaus conceded.</p>&#10;      <p>Raul Porojan 2 - 1 Klaus Jöns</p>&#10;      <br>&#10;      <br>&#10;      <a name="6">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, May 20: 8:02 p.m. - Quarterfinals: Stefan Heigerer vs. Shouta Yazooka</b>&#10;        <div>&#10;          <i>by Simon Görtzen</i>&#10;        </div>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <h3>Game 1</h3>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/85/c6/85c637350d8f54c0f451f777e19949977832210d0d31e15503ee03bcf3feabf3.jpg">&#10;            <i>Shouta Yazooka</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Both competitors start by taking a good look at each others decks, with Stefan, who is playing Mono Red, even laying out Shouta's U/B/r Herberholz-style deck. The match-up these two are about to play is one of the more interesting ones, as Stefan can't really afford to let Urborg-powered <a>Tendrils of Corruption</a>s resolve - the main reason to play <a>Greater Gargadon</a>. Shouta wins the die roll and obviously elects to play first. The Japanese is happy with his first 7, while Stefan takes a bit longer to decide, shuffling his starting hand thoughtfully. </p>&#10;      <p>The aggressive deck both wants early drops and a way to win against <a>Damnation</a> and/or Tendrils, which makes for some hard decisions. Finally Stefan decides to mulligan, and keeps a mediocre hand of lands, 2 <a>Thick-Skinned Goblin</a> and the uncounterable <a>Sulfur Elemental</a>. Shouta uses <a>Terramorphic Expanse</a> to fetch out an <a>Island</a>, dropping <a>Prismatic Lens</a> on turn 2. Stefan plays out his first Goblin, after which Shouta has another Lens, Urborg and <a>Sudden Death</a>, killing the Austrians first attacker. Stefan's second Goblin gets joined by <a>Magus of the Scroll</a>, which isn't much of a threat with Shouta on healthy 18.</p>&#10;      <p>After an end-of-turn <a>Fiery Temper</a> his life is down to 15, but Stefan has to hope his remaining three cards are not very good. The japanese pro has only played 2 Lenses and <a>Sudden Death</a> this far, but finally shows some action with the all-important <a>Mystical Teachings</a>, getting <a>Sudden Death</a> #2. Stefan makes a <a>Sulfur Elemental</a> and attacks with <a>Thick-Skinned Goblin</a> and the 3/2, only for the mana-accelerated Shouta to make a Factory token, blocking the Elemental. A <a>Mogg War Marshal</a> from Heigerer is the only creature on his side after a flashed out Teferi blocks Stefan's Goblin. Shouta is in no hurry, and with Teferi in play, passes his turn. </p>&#10;      <div>&#10;        <div>&#10;          <a>&#10;            <img alt="Avalanche Riders" src="https://i.ormos.uk/e0/69/e069657962b79b8fec4aa2e4392cfb4d861551d1bc0a7564598aa0aee13300b1.jpg">&#10;          </a>&#10;        </div>&#10;      </div>&#10;      <p>Stefan is rather surprised when his maindeck <a>Avalanche Riders</a> resolve, and takes a long time deciding on which land to destroy - Factory or Urborg? He settles for the Factory, maybe hoping to strand multiple Tombs of Yawgmoth's in Yasooka's hand. Shouta shows more Teachings, playing one to get another, which means we will most likely a Tendrils from the Japanese player to seal the game, if necessary. After some more reckless attacks from Stefan Shouta plays another Teachings and suspends a Chronicler at end of turn, not only taking complete control of the game but also putting a clock on Stefan. </p>&#10;      <p>A freshly cast <a>Blood Knight</a> gets hit by Tendrils for 8, putting Shouta at a very healthy 12 life against Stefan's 1/1 creatures. At this point he has to start blocking the Chronicler to stay alive, and Shouta even feels safe enough to play out the Dralnu in his deck, not fearing anything the Mono Red deck could do with these blue powerhouses on the table. In a last-ditch effort Stefan tries to play a <a>Sulfur Elemental</a> end of turn, only to be reminded by his opponent that Teferi does not only have flash. One turn later Shouta leads the match 1-0. It's interesting to note that Shouta didn't even have to counter a single spell to take control of the game, mostly due to the power of <a>Mystical Teachings</a> and his few creatures.</p>&#10;      <p>Stefan Heigerer 0 - Shouta Yazooka 1</p>&#10;      <p>Shouta brings in 2 <a>Willbender</a>, 2 <a>Brine Elemental</a>, 2 <a>Vesuvan Shapeshifter</a> and a <a>Temporal Isolation</a>, taking out his expensive and/or not very useful silver bullets in his maindeck, namely <a>Draining Whelk</a>, Teferi, <a>Dismal Failure</a>, <a>Extirpate</a>, Dralnu and <a>Phyrexian Totem</a>.</p>&#10;      <p>Stefan brings in 1 <a>Dead // Gone</a> against the Morphs he is expecting, <a>Vesuva</a>, 2 <a>Suq'Ata Lancer</a> and 2 Jaya Ballard for 4 <a>Mogg War Marshal</a>s, <a>Brute Force</a> and a <a>Mountain</a>.</p>&#10;      <h3>Game 2</h3>&#10;      <img src="https://i.ormos.uk/70/32/7032caccbe205e40a4e3983aa36a865a9143d766c7aeb3a2a09822fd6b009440.jpg">&#10;      <p>Stefan is happy to go first in game 2, and both players instantly keep their hands. A turn 2 <a>Blood Knight</a> is followed by another turn two Lens from Shouta. Heigerer piles on the pressure by playing his Suq'Ata-Lancer, attacking for 4. Shouta plays <a>Urborg, Tomb of Yawgmoth</a> but neither Tendrils nor <a>Damnation</a>. Instead he shows <a>Cancel</a> to prevent <a>Avalanche Riders</a> from destroying his Urborg. After going down to 12 he hardcasts a 4/4 <a>Aeon Chronicler</a> with the help of a <a>Swamp</a> called <a>Terramorphic Expanse</a>. Heigerer plays out <a>Magus of the Scroll</a> before pondering whether to attack, deciding to swing with his 2/2s, the Lancer getting blocked to death in the progress. </p>&#10;      <p>Shouta plays out a morph, but doesn't play another land, probably to keep his Chronicler 4/4. An end-of-turn <a>Sulfur Elemental</a> is too scared to attack though, only <a>Blood Knight</a> attacks. A block with the Chronicler prompts an activation of the walking Cursed Scroll, but a <a>Willbender</a> foils that plan. Heigerers second <a>Sulfur Elemental</a> doesn't look too impressive compared to another morph from Shouta, which turns out to be a <a>Vesuvan Shapeshifter</a>, which copies <a>Aeon Chronicler</a>. Looks like Shouta prefers big creatures over morph-trigger-shenanigans. Stefan plays his fourth creature in another <a>Blood Knight</a>, but Shouta just attacks with his creatures to follow up with <a>Damnation</a>. At that point Stefan is playing from the top of his deck, which coughs up two <a>Greater Gargadon</a> in a row, obviously not the card you want to draw in this situation.</p>&#10;      <p>Shoutas <a>Teferi, Mage of Zhalfir</a> doesn't improve the situation. <a>Careful Consideration</a> and <a>Mystical Teachings</a> for <a>Willbender</a> make sure Heigerer won't ever get rid of Teferi. Gargadon #3 of the top just adds insult to injury, but Shouta is not interested in playing much longer, suspending <a>Aeon Chronicler</a> for 1 at end of turn. This is enough for Stefan, who doesn't have any nonland permanents in play at this time.</p>&#10;      <p>Stefan Heigerer 0 - 2 Shouta Yazooka</p>&#10;      <br>&#10;      <br>&#10;      <a name="7">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, May 20: 8:47 p.m. - Semifinals: Raul Porojan vs. Florian Pils</b>&#10;        <div>&#10;          <i>by Ben Coleman</i>&#10;        </div>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/21/4d/214d29a4ad2968fb326c81467acaaf3ed30426874471c242a44d2b4033b5f915.jpg">&#10;            <i>Florian Pils</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>With this being the Top 8 stage, both players got a chance to look through their opponents' deck. Raul motions to the singleton <a>Intet, the Dreamer</a> and <a>Weatherseed Totem</a>: &quot;These main?&quot; - &quot;Yeah.&quot; - &quot;What a random deck!&quot;</p>&#10;      <p>Both players spent a lot of time thinking about their opponents' sideboard options, as well as problematic threats and the tricks that they needed to play around. Raul was be making sure to watch out for Florian's three <a>Disintegrate</a>s, and some judge discussion was involved in the interaction between the Totem and <a>Vesuvan Shapeshifter</a> (it does not become a 5/3, as that is an effect which is not copied).</p>&#10;      <p>A thorough shuffle and we were off in this GP Semi Final.</p>&#10;      <h3>Game 1</h3>&#10;      <p>Florian to start, and Raul was forced to mulligan to 6. Porojan made a turn two <a>Wall of Roots</a>, which is simply acceleration in this match-up, as unlike in the last round, there is not a whole lot for it to block! Pils made his own wall, which is unexciting, but Raul's <a>Stormbind</a> the following turn certainly was, as he had burned his quarterfinal opponent out with it. However, he looked to be short of mana to do the same this time, as Florian hammered him with double <a>Mwonvuli Acid-Moss</a> for the next two turns.</p>&#10;      <img src="https://i.ormos.uk/3f/b3/3fb3567ac2fe4e2a606a1ccccaa85bd05d4646623e868e172e7e215306bc9145.jpg">&#10;      <p>&#10;        <a>Wall of Roots</a> and <a>Prismatic Lens</a> meant Raul still had enough to <a>Harmonize</a> his way back into the game, and in fact it provided him with the first threat of the semi through an <a>Aeon Chronicler</a> suspended for one. It resolved and in it came for 6 - smashy, smashy!</p>&#10;      <p>Florian pulled a <a>Bogardan Hellkite</a> off the top, and although it is beloved of Standard players everywhere, the Chronicler dwarfs it. Disintegrating Raul's face for 7 made the Hellkite favourite in the damage race, though, which was clearly what Florian was aiming for, as that damage could have taken out the threatening <a>Aeon Chronicler</a>. He obviously felt that it can't be much of a threat if his opponent is dead!</p>&#10;      <p>Porojan made a morph after bashing Pils to 6 with the big blue Avatar, and it Shape-shifted into his very own hHellkite to block Florian's incoming monster. An extra <a>Island</a> and he could have played it face up to shoot the Dragon from the sky, alas, now he could simply trade. The tricksy morph sacrifice was for naught, though, as a second huge <a>Disintegrate</a> gave Pils the win.</p>&#10;      <p>Raul Porojan 0 - 1 Florian Pils</p>&#10;      <h3>Game 2</h3>&#10;      <p>Both players were happy with their opening seven and we were off, with Porojan needing a win to stay alive. Raul's early morph was hit by a bargain <a>Spell Burst</a> for a single blue, leaving him crying to the ceiling, &quot;I knew it!&quot;</p>&#10;      <div>&#10;        <div>&#10;          <a>&#10;            <img alt="Mystic Snake" src="https://i.ormos.uk/ce/8b/ce8b6d6f70bb5ad698fb0d417e1d3f7a0af3849f35f85a140942bc2dbdbd44f7.jpg">&#10;          </a>&#10;        </div>&#10;      </div>&#10;      <p>The ceiling didn't seem to care, though, and the <a>Fathom Seer</a> went into the bin. Florian had his own morph, but when he tried for the apparently &quot;random&quot; <a>Weatherseed Totem</a>, it was met with <a>Mystic Snake</a>.</p>&#10;      <p>A new morph for Raul got into play safely, as did big daddy <a>Spectral Force</a> the following turn. Both players' morphs traded after this when they both decided to become <a>Spectral Force</a>s (Forci?) Both <a>Vesuvan Shapeshifter</a>s ended up dead, but that's what you get for being a shape shifting copycat!</p>&#10;      <p>The real Force came in for Raul, but Florian made it &quot;Gone&quot; in order to buy a turn. No answer was forthcoming, though, as it came down again the following turn, along with <a>Harmonize</a> to refill the grip. Florian was continuously drawing land, which wasn't brilliant, but that sure comes in handy when you have to <a>Disintegrate</a> an 8/8 to clear the board.</p>&#10;      <p>Raul's next card off the top was <a>Stormbind</a>, however, and that plus plenty of mana plus a <a>Harmonize</a> stocked hand equals good game. Who would have thought it.</p>&#10;      <p>Raul Porojan 1 - 1 Florian Pils</p>&#10;      <h3>Game 3</h3>&#10;      <p>We saw early Wall action from both players, with Pils using his to bust out a turn 3 Acid-Moss. Raul wasn't worried, though, his turn three consisting of <a>Prismatic Lens</a>, <a>Wall of Roots</a> and suspending <a>Search for Tomorrow</a>. It looked exciting when compared with Florian's <a>Spectral Force</a> that came crashing down the next turn. Raul had the <a>Snapback</a> ready, but in his own words: &quot;Its always the <a>Spell Burst</a>!&quot; With Buyback this time, Raul!</p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/87/a5/87a5d627395ba5109abb739c25efc4f0c3605dde064a1cef66e95415536b0000.jpg">&#10;            <i>Raul Porojan</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Porojan was forced to &quot;Bust&quot; to prevent more <a>Spell Burst</a> shenanigans, which wasn't brilliant considering he was facing down an angry, 8-power green giant. He took 8 on the chin, but found a Force of his own to go on D (that's defence, non-sports fans!) before it could come in again. They traded and we were back to a fairly empty board, Raul having the post Bust edge due to the two <a>Prismatic Lens</a>es on his side.</p>&#10;      <p>&#10;        <a>Stormbind</a> off the top again for Porojan looked really bad for Pils, and <a>Aeon Chronicler</a> suspended for 4 did provide the enchantment with plenty of ammunition to fling at the opponents head. Florian was now so far behind in this one that it was amazing he could still see the table!</p>&#10;      <p>&#10;        <a>Disintegrate</a> for 2 dropped Porojan to 2 life, and had him worried about a second. Next turn Florian revealed that it already was in his hand, and it would be fatal. Fatal that is, unless <a>Mystic Snake</a> came to the rescue. Chronicler beats moved Pils into <a>Stormbind</a> range, and <a>Stormbind</a> moved Raul Porojan into the finals of GP Strasbourg.</p>&#10;      <p>Raul Porojan 2 - 1 Florian Pils</p>&#10;      <br>&#10;      <br>&#10;      <a name="8">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, May 20: 8:47 p.m. - Semifinals: Shouta Yasooka vs. Tomoharu Saito</b>&#10;        <div>&#10;          <i>by Simon Görtzen</i>&#10;        </div>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/9d/16/9d1671fb982da35cba0a3057d39d4ee40a8df10c442c7670ea7485f1287cb864.jpg">&#10;            <i>Shouta Yasooka</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Hello and welcome back to another Mono Red vs. U/B match-up. Tomoharu, who made Top 8 in Yokohama with his Red-Green deck that splashes <a>Stormbind</a> and <a>Timbermare</a> for additional damage potential, is back to playing Mono Red again. Tomoharu's only sources of non-red mana are <a>Pendelhaven</a> and <a>Molten Slagheap</a> to power out big <a>Disintegrate</a>s. Shouta easily won against his Mono Red quarterfinal opponent, but will he manage the same feat with Tomoharu Saito opposing him? After some shuffling and, in Saito's case, some more self-slapping, both players were ready to start. </p>&#10;      <h3>Game 1</h3>&#10;      <p>Saito won the die roll and chose to go first. He was not happy about his starting hand though, as <a>Magus of the Scroll</a> and two Gargadons just didn't put up much pressure. The 9/7 is great to counter <a>Tendrils of Corruption</a>, but you are usually happy if you just draw one. Saito's next six were much better, as multiple <a>Mogg War Marshal</a>s should allow him to put on some quick pressure while getting backup Goblin tokens in case of <a>Damnation</a>. To keep things fair, Shouta mulliganed, too, but had to go down to 5. </p>&#10;      <p>Tomoharu started the action with <a>Mogg War Marshal</a> and a miniature pig Goblin token, while Shouta had <a>Prismatic Lens</a> turn two for the third time in a row. Saito didn't pay Echo and just played out another Marshal to fill the board with creatures, taking advantage of Shouta's mulligan. His third land was <a>Pendelhaven</a> for one extra damage. Shouta just passed the turn with neither action nor Urborg. Saito, who was clearly in the driver's seat this game, payed the upkeep cost for his second Marshal, suspended a Gargadon, and attacked for 5 damage, which got reduced to 3 thanks to <a>Sudden Death</a> on <a>Mogg War Marshal</a>.</p>&#10;      <div>&#10;        <div>&#10;          <a>&#10;            <img alt="Damnation" src="https://i.ormos.uk/08/8d/088d5b345d9733384d8a905759a5ccb37ad5c482ac122eec38e7a1c010bac470.jpg">&#10;          </a>&#10;        </div>&#10;      </div>&#10;      <p>A <a>Damnation</a> from Shouta cleared the board, but the Gargadon was down to 5 time counters in Tomoharu's turn. Another Gargadon didn't look too threatening, but a third War-Marshal meant that Shouta had to take 9 from a hasty Gargadon. He just drew his card and conceded in face of the giant beast.</p>&#10;      <p>Shouta Yakooza 0 - Tomaharu Saito 1</p>&#10;      <p>Sideboarding:<br> Shouta: 2 <a>Willbender</a>, 2 <a>Vesuvan Shapeshifter</a> and <a>Brine Elemental</a> for <a>Draining Whelk</a>, <a>Teferi, Mage of Zhalfir</a>, <a>Extirpate</a>, Dralnu and <a>Phyrexian Totem</a></p>&#10;      <p>Tomoharu: 1 <a>Dead // Gone</a>, 3 <a>Word of Seizing</a> and 4 <a>Avalanche Riders</a> for 4 <a>Browbeat</a>s and 4 <a>Rift Bolt</a>s.</p>&#10;      <h3>Game 2</h3>&#10;      <p>After a mulligan to six by Shouta the match began. Shouta just played <a>Dreadship Reef</a> and <a>Island</a>s for a couple of turns while Saito had a good start with turn 1 Gargadon, turn 2 <a>Mogg War Marshal</a>. The Echo cost was payed and the Goblins took Shouta to 18. Shouta passed the turn with 4-5 mana open, factoring in his two Reef counters.</p>&#10;      <p>Tomoharu thought a long time about his turn 4 play, having the choice between <a>Avalanche Riders</a> right now or a <a>Sulfur Elemental</a> at Shoutas end-of-turn, maybe not giving his opponent a chance to use his mana this turn. Saito decided on the Riders, which resulted in a <a>Dismal Failure</a> and a discarded <a>Disintegrate</a> -- Saito had another one of these in hand though. Saito kept attacking for two but decided not to play anything the next turn, instead waiting for the aforementioned <a>Sulfur Elemental</a>, which unsurprisingly entered play unopposed. </p>&#10;      <p>Shouta, who had three cards in hand, now had to worry about the creatures on the board, the Gargadon, which was once again down to 5 counters, and the remaining cards in Saitos hand. <a>Disintegrate</a> was one of them, but the Japanese superstar also drew another <a>Avalanche Riders</a>. As Shouta didn't even have an <a>Urborg, Tomb of Yawgmoth</a>, there was no need to destroy a land and Saito attacked for 5, basically asking Shouta if he had Teferi to block or not. Indeed, Teferi flashed into play and blocked the <a>Sulfur Elemental</a>, but the Goblins took Shouta down to 12. Saito also played a postcombat <a>Avalanche Riders</a>, taking out <a>Dreadship Reef</a>, which could have enabled <a>Damnation</a>.</p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/bd/bd/bdbd7d8e86b9691b8b343924fcd33fc43fa413d3106c159856d84737ebbeff6a.jpg">&#10;            <i>Tomoharu Saito</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Saito was very interested in keeping Teferi alive, as a <a>Word of Seizing</a> on Teferi makes <a>Greater Gargadon</a> so much scarier. Interestingly he payed Echo for his <a>Avalanche Riders</a>, but also didn't have the fifth land needed for the Split Second Ray of Command. Shouta used the time this gave him to suspend <a>Aeon Chronicler</a> at end of turn, which drew him a card and would give him another blocker, even in case of <a>Word of Seizing</a>. Saito knew that and tried to <a>Disintegrate</a> the 3/3 Chronicler, but got <a>Dismal Failure</a>d. <a>Blood Knight</a> hit the bin. </p>&#10;      <p>Shouta meanwhile had found a <a>Swamp</a> to go with his <a>Prismatic Lens</a> to produce double black mana for <a>Damnation</a>, but he was in a tough position. Even if he had it he wouldn't want the Teferi to leave play, because that would enable Saito's Gargadon. Said Gargadon had two counters and Saito needed to draw a land to play <a>Word of Seizing</a>. After drawing a <a>Mountain</a> he took control of Teferi and proceeded to attack with <a>Greater Gargadon</a>, two Goblins, <a>Avalanche Riders</a> and Teferi. <a>Aeon Chronicler</a> had to chump block the Gargadon and Shouta took 7 damage.</p>&#10;      <p>In the following turn he attacked with Teferi and played the life-saving <a>Damnation</a>, killing off pig tokens and Gargadon alike. Another <a>Mogg War Marshal</a> meant Saito could still deal damage with his creatures, but a <a>Vesuvan Shapeshifter</a>, copying Mogg War-Marshal, and the token that comes with it, were planning to stop that. Dead took out the token, though, and Tomoharu's attack took his opponent down to 2. After <a>Careful Consideration</a> from Shouta didn't find him the cards he needed, a <a>Word of Seizing</a> on his lonely Goblin sealed the game.</p>&#10;      <p>Shouta Yakooza 0 - Tomoharu Saito 2</p>&#10;      <br>&#10;      <br>&#10;      <a name="9">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, May 20: 9:22 p.m. - Finals: Tomoharu Saito vs. Raul Porojan</b>&#10;        <div>&#10;          <i>by Hanno Terbuyken</i>&#10;        </div>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/1c/9c/1c9c6ab17a711941604e458f0cde0af31768dceb940de546932352ef88ac3fe5.jpg">&#10;            <i>The Finals was closely watched by the crowd and headjudge Frank Wareman.</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>It came down to this. The Japanese road warrior, here on the benefits of the player's club, against the German amateur, here by the grace of a GP Trial win, facing off in the feature match circle. A good 100 spectators stayed to watch the two players reach for the title.</p>&#10;      <h3>Game 1</h3>&#10;      <p>Saito's pre-game ceremony is well worth watching if you have never seen it. Countless shuffles, ceremonial looks to the ceiling, the traditional face-slap and the loud and clear announcement of the die roll results, it's all there. The two players had faced off in the last round of day 1 already, where Porojan had won. Saito of course remembered this and considered the final a nightmare matchup.</p>&#10;      <p>Saito won the roll and opened hard and fast, suspending a <a>Greater Gargadon</a> and dropping <a>Mogg War Marshal</a> on turn two. He didn't pay the echo cost, so his traditional plastic piglets representing 1/1 Goblins stood staring across the red zone, waiting for action. Raul was content to play <a>Prismatic Lens</a> and took the first pig beats calmly. Saito suspended <a>Rift Bolt</a>. On his turn, Raul joined the fun by suspending an <a>Aeon Chronicler</a> for a turn.</p>&#10;      <p>The <a>Rift Bolt</a> went to Raul's head, Saito's arms described a wide circle in his usual manner. The goblin piglets took Raul to 11 and Saito refilled by <a>Browbeat</a>ing himself. Raul's Chronicler came into play and took Saito to 14. A morph joined Raul's side, while Saito's Gargadon was just five turns away from regularly ticking into play. A loud &quot;snap&quot; filled the air - Saito had just slapped himself, and even though that tick is well known by now, most of the onlookers involuntarily smiled bemusedly.</p>&#10;      <p>Saito had to take some action, plunked down a land and a <a>Mogg War Marshal</a>. Three piglets now in play for the Japanese, almost a little herd. Raul attacked with a Chronicler and the Shapeshifter that was imitating it, threatening 10 damage to the Japanese at 14 life. One 1/1 piglet and the mother sow War Marshal stood in front of it, and the Gargadon happily gobbled them up. Raul had a second morph to the one already in play. If they all were Shapeshifters, he'd have a mighty army…</p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/45/e5/45e5b47331b0b10a483293b1adcad6cf34273736deadd153457b3b3d7ac048dc.jpg">&#10;            <i>Raul Porojan was behind from every turn one.</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>And he'd need it against the <a>Greater Gargadon</a> about to come into play in two turns or less. Raul was tapped out, not able to reveal a Shapeshifter to block an incoming Gargadon. If Saito sacrificed two permanents, he could come in for 7 and 3. The first morph, also a Shapeshifter, fell to Dead of <a>Dead // Gone</a> fame, the second morph blocked the Gargadon. It was <a>Fathom Seer</a>, setting Raul back on lands but fueling his Chronicler and the copied twin. Raul took four from piglet beats, going to 7, and Saito had two <a>Blood Knight</a>s left to block any possible attacks.</p>&#10;      <p>Raul saw his chance in Chronicler beatdown and suspended yet another one for a turn. Saito pressed in with everything, Raul blocked to stay alive, but Saito had <a>Rift Bolt</a> and nailed Raul to the flames.</p>&#10;      <p>Tomoharu Saito 1 - 0 Raul Porojan</p>&#10;      <p>Sideboarding:<br> Raul took out 4 Riftwing, 2 <a>Spectral Force</a>, 1 <a>Mystic Snake</a>, and brought in 4 <a>Spike Feeder</a>, 2 <a>Serrated Arrows</a>, 1 <a>Aeon Chronicler</a>.</p>&#10;      <p>Sideboarding proceeded, and again, the Saito gymnastics and the reverential look to the sky, or the hall's ceiling, as it were, came into play. Saito took out 4 <a>Browbeat</a> and brought in 1 <a>Dead // Gone</a> and 3 <a>Word of Seizing</a>.</p>&#10;      <h3>Game 2</h3>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/16/a7/16a752534a6e9d85316c4c884b2abc56c06c688b370acf888311f398957ad4fe.jpg">&#10;            <i>Look, a herd of tapped piglets!</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>All that praying apparently helped, because Saito opened with <a>Mountain</a> into <a>Greater Gargadon</a> for the sixth time in a row in this Top 8. And the goodness continued with another Gargadon and triple <a>Magus of the Scroll</a>. Raul had <a>Wall of Roots</a> and <a>Spike Feeder</a> to stave off the first wave of attacks, soon joined by a morph, but was clearly not amused. &quot;Slap&quot; made Saito's hands on his cheeks, and slap made <a>Mogg War Marshal</a>, mother sow to a little silver 1/1 plastic pig for Saito. Raul kept his arms akimbo and his face impassive. Saito would start Scrolling him soon, but first added a third pig from a second War Marshal to his army. His two Gargadons would soon be feasting on roast piglet, then, as Raul had nothing but <a>Stormbind</a> to combat them. Any pig he'd fry would end up as Gargadon fodder.</p>&#10;      <p>Saito had maneuvered Raul into a very difficult situation. Even under the assumption that the morph he had was a <a>Vesuvan Shapeshifter</a>, two Gargadons backed by one left-over <a>Magus of the Scroll</a> would make mincemeat of him. Raul was on 24 life, owing to the trusty <a>Spike Feeder</a>, but Saito suspended two <a>Rift Bolt</a>s. A collective sigh went through the audience. Raul was the underdog, crowd favorite, and even his second morph wouldn't save him - especially since Saito aimed a <a>Rift Bolt</a> at it (<a>Fathom Seer</a>).</p>&#10;      <p>The second <a>Rift Bolt</a> tried to fry the second morph, but that one was a Shapeshifter and took on the form of <a>Wall of Roots</a>. Still, Saito had a chance to kill it: <a>Magus of the Scroll</a>, naming <a>Sulfur Elemental</a>. The Scrolling hit, taking away the Shapeshifter, and now <a>Greater Gargadon</a> #1 came into play. Raul went to 12. He had to kill the Magus, and discarded <a>Fathom Seer</a> randomly to his <a>Stormbind</a> to do so. But his position nobody would envy.</p>&#10;      <img src="https://i.ormos.uk/6d/1d/6d1d19d2888f9e3debc0775cc423987b2a6939d4bbb917f9e960c139c9b2f4c1.jpg">&#10;      <p>Saito wanted to clear a way for his second Gargadon, still suspended, and <a>Rift Bolt</a>ed <a>Wall of Roots</a>. Raul's board was empty save for <a>Stormbind</a>. Discarding <a>Mystic Snake</a>, he killed a 1/1 piglet before Saito's combat phase. The Japanese player sacrificed two <a>Mountain</a>s to his suspended Gargadon, shoved everything into the red zone and seconds later, he could call himself GP Strasbourg winner and current leader in the Player of the Year race!</p>&#10;      <p>Tomoharu Saito 2 - 0 Raul Porojan</p>&#10;      <p>After the match, both players agreed that the match-up was in favor of Raul, but Saito's extraordinary luck carried him through to the title. Tomoharu Saito is the GP Strasbourg champion and the current leader in the Player of the Year race!</p>&#10;      <br>&#10;      <br>&#10;      <a name="10">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, May 20: 9:37 p.m. - Podcast: The Final Showdown</b>&#10;        <div>&#10;          <i>by Rich Hagon</i>&#10;        </div>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <p>A mammoth GP has come to a close, and great plays from a great player have combined to see a champion crowned with a LONG journey home ahead of him. Find out how the West was won, as we bring you exclusive commentary on every turn of the winner's journey from quarter final, to semi, to final, and to the undisputed winner of GP Strasbourg 2007. As ever, thanks for your company, and I'll speak to you soon from the rampant carnage that will be Pro Tour San Diego. Until then, play hard and play fair. Bye.</p>&#10;      <p>&#10;        </p><li>&#10;          <a href="https://media.ormos.uk/6d/25/6d257df1a6fb170a412c2386e6ec6e36ffb0fef3dbe0a9a757193c4fc69e149f.mp3">Click here for the Podcast</a>!</li>&#10;      <p></p>&#10;      <br>&#10;    </td>&#10;  </tr>&#10;</tbody></table>

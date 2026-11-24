@@ -1,0 +1,47 @@
+---
+id: 3sab1d0s
+kind: event
+lang: it
+path: /it/articles/event-coverage/2004/06-12-round-1-pairings
+title: Round 1 Pairings
+published: '2004-06-12'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: it
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-1-pairings-2004-06-12
+    lang_detected: it
+    capture_id: 479387
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-1-pairings-2004-06-12
+    captured_at: '2022-05-25 00:28:47+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-1-pairings-2004-06-12
+    lang_detected: it
+    capture_id: 479387
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-1-pairings-2004-06-12
+    captured_at: '2022-05-25 00:28:47+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: 3sab1d0s
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-1-pairings-2004-06-12
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/round-1-pairings-2004-06-12
+  lang: it
+  template: drupal
+  captured_at: '2022-05-25 00:28:47+00'
+  capture_id: 479387
+  wayback_url: https://web.archive.org/web/20220525002847id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-1-pairings-2004-06-12
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 3sab1d0s
+  capture_id: 479387
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-1-pairings-2004-06-12
+  wayback_url: https://web.archive.org/web/20220525002847id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-1-pairings-2004-06-12
+  captured_at: '2022-05-25 00:28:47+00'
+  template: drupal
+  sha256: fb2b1cfa1058ee6bd7900688a32b5f5357cec9798ca360207b6794bd70fd1712
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>&#10;						</b></td><td><b>Opponent</b></td></tr><tr><td> 1</td><td>Scudieri, Paolo</td><td>vs.</td><td>Esposito, Marco</td></tr><tr><td> 2</td><td>De Rosa, Antonino</td><td>vs.</td><td>Failla, Andrea</td></tr><tr><td> 3</td><td>D'Amico, Daniele</td><td>vs.</td><td>Sabbatini, Francesco</td></tr><tr><td> 4</td><td>Saba, Sergio</td><td>vs.</td><td>Koumoulis, Alessandro</td></tr><tr><td> 5</td><td>La Porta, Alessandro</td><td>vs.</td><td>Focherini, Roberto</td></tr><tr><td> 6</td><td>Calciati, Paolo</td><td>vs.</td><td>Parazzoli, Dario</td></tr><tr><td> 7</td><td>Verno, Gianluca</td><td>vs.</td><td>Chu, Yuang</td></tr><tr><td> 8</td><td>Pascoli, Mario</td><td>vs.</td><td>Floris, Filippo</td></tr><tr><td> 9</td><td>Beucci, Matteo</td><td>vs.</td><td>Natta, Albert</td></tr><tr><td> 10</td><td>Fornasari, Michele</td><td>vs.</td><td>Minieri, Dario</td></tr><tr><td> 11</td><td>Cattaneo, Gabriele</td><td>vs.</td><td>Cielo, Francesco</td></tr><tr><td> 12</td><td>Mirabile, Giulio</td><td>vs.</td><td>Baldoni, Danilo</td></tr><tr><td> 13</td><td>Forti, Andrea</td><td>vs.</td><td>Sbrozzi, Luigi</td></tr><tr><td> 14</td><td>Aiudi, Giovanni</td><td>vs.</td><td>Cabella, Andrea</td></tr><tr><td> 15</td><td>Zavan, Alessio</td><td>vs.</td><td>Albertini, Andrea</td></tr><tr><td> 16</td><td>Garofalo, Alessio</td><td>vs.</td><td>Ronchetti, Omar</td></tr><tr><td> 17</td><td>Di Marco, Mauro</td><td>vs.</td><td>Cantarutti, Nicola</td></tr><tr><td> 18</td><td>Magoga, Fabio</td><td>vs.</td><td>Dato, Federico</td></tr><tr><td> 19</td><td>Ricci, Matteo</td><td>vs.</td><td>Guglielmi, Vincenzo</td></tr><tr><td> 20</td><td>Fiori, Stefano</td><td>vs.</td><td>Di Leva, Ettore</td></tr><tr><td> 21</td><td>Saviori, Fabio</td><td>vs.</td><td>Piermaria, Federico</td></tr><tr><td> 22</td><td>Nai, Enrico</td><td>vs.</td><td>Santin, Andrea</td></tr><tr><td> 23</td><td>De Santis, Giovanni</td><td>vs.</td><td>Barbieri, Andrea</td></tr><tr><td> 24</td><td>Maffei, Fabrizio</td><td>vs.</td><td>Lee, Eal</td></tr><tr><td> 25</td><td>Patane', Luca</td><td>vs.</td><td>D'angella, Stefano</td></tr><tr><td> 26</td><td>Canavesi, Daniele</td><td>vs.</td><td>Stivoli, Mauro</td></tr><tr><td> 27</td><td>Mancuso, Antonino</td><td>vs.</td><td>Polo, Davide</td></tr><tr><td> 28</td><td>Pagano, Alessandro</td><td>vs.</td><td>Corgnale, Marco</td></tr><tr><td> 29</td><td>Freiles, Giuliano</td><td>vs.</td><td>Muratori, Giammaria</td></tr><tr><td> 30</td><td>Cavaglieri, William</td><td>vs.</td><td>Torazza, Enrico</td></tr><tr><td> 31</td><td>Querci, Lapo</td><td>vs.</td><td>Paselli, Andrea</td></tr><tr><td> 32</td><td>Salvini, Andrea</td><td>vs.</td><td>Giorgeschi, Gabriele</td></tr><tr><td> 33</td><td>Giusti, Norberto</td><td>vs.</td><td>Casadei, Luca</td></tr><tr><td> 34</td><td>Ottati, Domingo</td><td>vs.</td><td>Paiano, Daniele</td></tr><tr><td> 35</td><td>Conficoni, Alberto</td><td>vs.</td><td>Gesiot, Giovanni</td></tr><tr><td> 36</td><td>Marciano, Giancarlo</td><td>vs.</td><td>Busi, Yanez</td></tr><tr><td> 37</td><td>Besso, David</td><td>vs.</td><td>Acquaviva, Alessandro</td></tr><tr><td> 38</td><td>Mazzone, Luca</td><td>vs.</td><td>Costa, Fabrizio</td></tr><tr><td> 39</td><td>Solazzi, Vincenzo</td><td>vs.</td><td>Di Tomaso, Matteo</td></tr><tr><td> 40</td><td>De Archangelis, Andrea</td><td>vs.</td><td>Miglioranza, Nicola</td></tr><tr><td> 41</td><td>Fiorentino, Francesco</td><td>vs.</td><td>Cocco, Matteo</td></tr><tr><td> 42</td><td>Stillio, Francesco</td><td>vs.</td><td>Carboni, Simone</td></tr><tr><td> 43</td><td>Cirigliano, Matteo</td><td>vs.</td><td>Artuso, Emil</td></tr><tr><td> 44</td><td>Marchetti, Alessio</td><td>vs.</td><td>Freddo, Alessandro</td></tr><tr><td> 45</td><td>Pancini, Marco</td><td>vs.</td><td>Salemi, Claudio</td></tr><tr><td> 46</td><td>Sacchi, Simone</td><td>vs.</td><td>Atzeni, Michele</td></tr><tr><td> 47</td><td>Agriman, Paolo</td><td>vs.</td><td>Reale, Giuseppe</td></tr><tr><td> 48</td><td>Kagawa, Mido</td><td>vs.</td><td>Bronzetti, Massimo Paolo</td></tr><tr><td> 49</td><td>Gubert, Michel</td><td>vs.</td><td>Rossi, Simone</td></tr><tr><td> 50</td><td>Selvaggi, Alessandro</td><td>vs.</td><td>De Sanctis, Pietro</td></tr><tr><td> 51</td><td>Torresan, Alessandro</td><td>vs.</td><td>Tosana, Matteo</td></tr><tr><td> 52</td><td>Negrini, Claudio</td><td>vs.</td><td>Fiore, Stefano</td></tr><tr><td> 53</td><td>Khmayes, Omar</td><td>vs.</td><td>Asquini, Alessandro</td></tr><tr><td> 54</td><td>Lombardi, Marco</td><td>vs.</td><td>Polizia, Luigi</td></tr><tr><td> 55</td><td>Tassi, Matteo</td><td>vs.</td><td>Berti, Francesco</td></tr><tr><td> 56</td><td>Piernoli, Filiberto</td><td>vs.</td><td>Bissolino, Giovanni</td></tr><tr><td> 57</td><td>Albarelli, Nicola</td><td>vs.</td><td>Polo, Michele</td></tr><tr><td> 58</td><td>De Lorenzis, Antonio</td><td>vs.</td><td>Gubitta, Davide</td></tr><tr><td> 59</td><td>Barra, Giulio</td><td>vs.</td><td>Angeli, Alessio</td></tr><tr><td> 60</td><td>Del Gaudio, Alessandro</td><td>vs.</td><td>Lo Moro, Raffaele</td></tr><tr><td> 61</td><td>Betti, Alessandro</td><td>vs.</td><td>Nesi, Eugenio</td></tr><tr><td> 62</td><td>De Luca, Giuseppe</td><td>vs.</td><td>Bagni, Andrea</td></tr><tr><td> 63</td><td>Luongo, Nicola</td><td>vs.</td><td>Sponza, Marco</td></tr><tr><td> 64</td><td>Picciafuochi, Riccardo</td><td>vs.</td><td>Ognibene, Giovanni Maria</td></tr><tr><td> 65</td><td>Conte, Manuel</td><td>vs.</td><td>Bruno, Giovanni</td></tr><tr><td> 66</td><td>Nediani, Andrea</td><td>vs.</td><td>Cerasari, Andrea</td></tr><tr><td> 67</td><td>Chiera, Luca</td><td>vs.</td><td>Schiano Di Scioarro, Vincenz</td></tr><tr><td> 68</td><td>Quinto, Maurizio</td><td>vs.</td><td>Girolami, Mario</td></tr><tr><td> 69</td><td>Alvisi, Manuel</td><td>vs.</td><td>D'Apice, Pierluigi</td></tr><tr><td> 70</td><td>Mazzarino, Marcello</td><td>vs.</td><td>Calvanese, Pierluigi</td></tr><tr><td> 71</td><td>Chieco, Davide</td><td>vs.</td><td>Puoti, Armando</td></tr><tr><td> 72</td><td>Pandolfo, Marco</td><td>vs.</td><td>Fornara, Andrea</td></tr><tr><td> 73</td><td>Vernasca, Claudio</td><td>vs.</td><td>Spanu, Gianluca</td></tr><tr><td> 74</td><td>Guarino, Massimo</td><td>vs.</td><td>Canavesi, Emanuele</td></tr></tbody></table>

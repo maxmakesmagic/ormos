@@ -1,0 +1,47 @@
+---
+id: 8m5q1dy4
+kind: event
+lang: en
+path: /en/articles/event-coverage/2005/01-08-live-coverage-of-2005-grand-prix-osaka-9
+title: Live Coverage of 2005 Grand Prix Osaka
+published: '2005-01-08'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/live-coverage-2005-grand-prix-osaka-2005-01-08-1
+    lang_detected: en
+    capture_id: 448408
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/live-coverage-2005-grand-prix-osaka-2005-01-08-1
+    captured_at: '2022-06-30 13:55:01+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/live-coverage-2005-grand-prix-osaka-2005-01-08-1
+    lang_detected: en
+    capture_id: 448408
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/live-coverage-2005-grand-prix-osaka-2005-01-08-1
+    captured_at: '2022-06-30 13:55:01+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: 8m5q1dy4
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/live-coverage-2005-grand-prix-osaka-2005-01-08-1
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/live-coverage-2005-grand-prix-osaka-2005-01-08-1
+  lang: en
+  template: drupal
+  captured_at: '2022-06-30 13:55:01+00'
+  capture_id: 448408
+  wayback_url: https://web.archive.org/web/20220630135501id_/https://magic.wizards.com/en/articles/archive/event-coverage/live-coverage-2005-grand-prix-osaka-2005-01-08-1
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 8m5q1dy4
+  capture_id: 448408
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/live-coverage-2005-grand-prix-osaka-2005-01-08-1
+  wayback_url: https://web.archive.org/web/20220630135501id_/https://magic.wizards.com/en/articles/archive/event-coverage/live-coverage-2005-grand-prix-osaka-2005-01-08-1
+  captured_at: '2022-06-30 13:55:01+00'
+  template: drupal
+  sha256: 788f1d11bac7c73f0c9ee3166c41e26df037404da5e7146aa90ee3aa924d9a72
+render_recovery: []
+---
+<table><tbody><tr><td><b>Team</b></td><td><b>Points</b></td><td><b>&#10;						</b></td><td><b>Opponent</b></td><td><b>Points</b></td></tr><tr><td> 1</td><td>Triple Mulligan</td><td>12</td><td>vs</td><td>Maguro</td><td>12</td></tr><tr><td> 2</td><td>Tochigi Magic Network</td><td>12</td><td>vs</td><td><a href="http://www.shop-fireballplos.com/">www.Shop-Fireballplos.Com</a></td><td>12</td></tr><tr><td> 3</td><td>P.S.2</td><td>12</td><td>vs</td><td>Ogawa'S Stronghold</td><td>12</td></tr><tr><td> 4</td><td>MisoSoup</td><td>12</td><td>vs</td><td>Asayan</td><td>12</td></tr><tr><td> 5</td><td>BLACK Generation</td><td>12</td><td>vs</td><td>Yasagure Brothers</td><td>12</td></tr><tr><td> 6</td><td>Mropaganda</td><td>12</td><td>vs</td><td>Z3P-One</td><td>12</td></tr><tr><td> 7</td><td>Ton_Toro Demon</td><td>12</td><td>vs</td><td>Meisai</td><td>10</td></tr><tr><td> 8</td><td>Gatas Brilhantes</td><td>9</td><td>vs</td><td>TaMaYa</td><td>9</td></tr><tr><td> 9</td><td>TeamGongstaHaircut</td><td>9</td><td>vs</td><td>Kamikawa Sunburst</td><td>9</td></tr><tr><td> 10</td><td>Www.Shop-Fireball.Com/Gifu</td><td>9</td><td>vs</td><td>comming out</td><td>9</td></tr><tr><td> 11</td><td>Hana Takkadaka</td><td>9</td><td>vs</td><td>AAbeam</td><td>9</td></tr><tr><td> 12</td><td>Mindblaze</td><td>9</td><td>vs</td><td>Sannin-Ha-Purikyua</td><td>9</td></tr><tr><td> 13</td><td>Miracle Fight</td><td>9</td><td>vs</td><td>Kyh</td><td>9</td></tr><tr><td> 14</td><td>Nakamura-Junpei</td><td>9</td><td>vs</td><td>Mikirihassha</td><td>9</td></tr><tr><td> 15</td><td>Jingisukan</td><td>9</td><td>vs</td><td>Topplayerokayama</td><td>9</td></tr><tr><td> 16</td><td>Pana Wave Laboratory</td><td>9</td><td>vs</td><td>Fishonly</td><td>9</td></tr><tr><td> 17</td><td>One Spin</td><td>9</td><td>vs</td><td>Shino-K</td><td>9</td></tr><tr><td> 18</td><td>Nekoyan.net/ayaueto.htm</td><td>9</td><td>vs</td><td>Cuty Cony Returns</td><td>9</td></tr><tr><td> 19</td><td>Yabaton Yabaton</td><td>9</td><td>vs</td><td>inoken3-3w</td><td>9</td></tr><tr><td> 20</td><td>THE MELON SHOW</td><td>9</td><td>vs</td><td>Fuzen-No-Tomoshibi</td><td>9</td></tr><tr><td> 21</td><td>Team Mome Vol.2</td><td>9</td><td>vs</td><td>Goburei</td><td>9</td></tr><tr><td> 22</td><td>Heng Xing</td><td>9</td><td>vs</td><td>U.S.G</td><td>9</td></tr><tr><td> 23</td><td>Majestic</td><td>9</td><td>vs</td><td>7Plo</td><td>9</td></tr><tr><td> 24</td><td>Neo Derapin</td><td>9</td><td>vs</td><td>Rorix.Com</td><td>9</td></tr><tr><td> 25</td><td>Gre-Zone</td><td>9</td><td>vs</td><td>Junkies_Feat_Colonel</td><td>9</td></tr><tr><td> 26</td><td>Sato Dai Shougun</td><td>9</td><td>vs</td><td>Team Civastar Mk2</td><td>9</td></tr><tr><td> 27</td><td>Who Is Mawho</td><td>9</td><td>vs</td><td>Genius Mammoth</td><td>9</td></tr><tr><td> 28</td><td>Dokushin Megane</td><td>9</td><td>vs</td><td>S.O.A</td><td>8</td></tr><tr><td> 29</td><td>Sikasenbei</td><td>7</td><td>vs</td><td>Team Raou Feat Don</td><td>7</td></tr><tr><td> 30</td><td>Lemmings</td><td>7</td><td>vs</td><td>Tomo</td><td>7</td></tr><tr><td> 31</td><td>Sigagaga</td><td>7</td><td>vs</td><td>Triangle</td><td>7</td></tr><tr><td> 32</td><td>Puroresu Magic 2</td><td>7</td><td>vs</td><td>PIROPIRO</td><td>6</td></tr><tr><td> 33</td><td>Khimera</td><td>6</td><td>vs</td><td>Sagetarius</td><td>6</td></tr><tr><td> 34</td><td>Gaia</td><td>6</td><td>vs</td><td>Chatnoir</td><td>6</td></tr><tr><td> 35</td><td>Uhawwwwwwwwwwokwwwwwwwwww</td><td>6</td><td>vs</td><td>Team Wasa-Beam</td><td>6</td></tr><tr><td> 36</td><td>Dai-Chan Motto Shimete</td><td>6</td><td>vs</td><td>Happy Tree Friends</td><td>6</td></tr><tr><td> 37</td><td>Hachimaiaru!</td><td>6</td><td>vs</td><td>For the Horde</td><td>6</td></tr><tr><td> 38</td><td>Tok-tok</td><td>6</td><td>vs</td><td>Paler-Go!</td><td>6</td></tr><tr><td> 39</td><td>T</td><td>6</td><td>vs</td><td>Kikuzo Maji Fat</td><td>6</td></tr><tr><td> 40</td><td>TakeshiGundan</td><td>6</td><td>vs</td><td>E.U.M</td><td>6</td></tr><tr><td> 41</td><td>Team Mads Plus 1</td><td>6</td><td>vs</td><td>Zuberionn</td><td>6</td></tr><tr><td> 42</td><td>The Catcher in the Rye</td><td>6</td><td>vs</td><td>Team HNO3</td><td>6</td></tr><tr><td> 43</td><td>Kal Vas Flam</td><td>6</td><td>vs</td><td>WITZBOLDE</td><td>6</td></tr><tr><td> 44</td><td>Ta-Su-Ke-Te</td><td>6</td><td>vs</td><td>aiko.com</td><td>6</td></tr><tr><td> 45</td><td>Akio Sugaya Fun Club</td><td>6</td><td>vs</td><td>Mech-Chicken-Hermit</td><td>6</td></tr><tr><td> 46</td><td>Kamikaze</td><td>6</td><td>vs</td><td>Koby-Ken-Piyopoo</td><td>6</td></tr><tr><td> 47</td><td>Men's Salion Yuri</td><td>6</td><td>vs</td><td>Kemukujaraanal</td><td>6</td></tr><tr><td> 48</td><td>Trick Or Treat!</td><td>6</td><td>vs</td><td>Mahjong Fight Club</td><td>6</td></tr><tr><td> 49</td><td>Unknowns</td><td>6</td><td>vs</td><td>Snk</td><td>6</td></tr><tr><td> 50</td><td>Mystery Circle</td><td>6</td><td>vs</td><td>Kkb</td><td>6</td></tr><tr><td> 51</td><td>Team Kiisuido!!</td><td>6</td><td>vs</td><td>Under Dogs</td><td>6</td></tr><tr><td> 52</td><td>gets</td><td>6</td><td>vs</td><td>Team Genius</td><td>6</td></tr><tr><td> 53</td><td>Papa Ga Kami Kitteyo</td><td>6</td><td>vs</td><td>Matusmasa</td><td>6</td></tr><tr><td> 54</td><td>No_Money</td><td>6</td><td>vs</td><td>Y2T</td><td>6</td></tr><tr><td> 55</td><td>Ss2004</td><td>6</td><td>vs</td><td>No Yaburon</td><td>6</td></tr><tr><td> 56</td><td>Mauiisland</td><td>6</td><td>vs</td><td>Namikita!!!</td><td>6</td></tr><tr><td> 57</td><td>Royal_Guard</td><td>6</td><td>vs</td><td>Butasyabu</td><td>4</td></tr><tr><td> 58</td><td>J.A.P.</td><td>4</td><td>vs</td><td>God Of The Jyonirus</td><td>4</td></tr><tr><td> 59</td><td>Team Chicken</td><td>4</td><td>vs</td><td>Wakayamans</td><td>4</td></tr><tr><td> 60</td><td>Ao-Don</td><td>4</td><td>vs</td><td>Bsf</td><td>4</td></tr><tr><td> 61</td><td>Kobe</td><td>3</td><td>vs</td><td>Team-Nisioka</td><td>3</td></tr><tr><td> 62</td><td>Kise Fuan Club</td><td>3</td><td>vs</td><td>Aegis</td><td>3</td></tr><tr><td> 63</td><td>Garireonozyuunin</td><td>3</td><td>vs</td><td>True Emon Stories</td><td>3</td></tr><tr><td> 64</td><td>team AKP</td><td>3</td><td>vs</td><td>Team Hachibei</td><td>3</td></tr><tr><td> 65</td><td>Apprentice</td><td>3</td><td>vs</td><td>K.O.</td><td>3</td></tr><tr><td> 66</td><td>Betrayers of Takekawa</td><td>3</td><td>vs</td><td>BBB</td><td>3</td></tr><tr><td> 67</td><td>Silver</td><td>3</td><td>vs</td><td>Summoning Sickness</td><td>3</td></tr><tr><td> 68</td><td>PTM</td><td>3</td><td>vs</td><td>Valkyrie</td><td>3</td></tr><tr><td> 69</td><td>Polygonjunky</td><td>3</td><td>vs</td><td>Zzz Live It</td><td>3</td></tr><tr><td> 70</td><td>Uho!Iiotokotati!</td><td>3</td><td>vs</td><td>Tomo@</td><td>3</td></tr><tr><td> 71</td><td>TOP DECK</td><td>3</td><td>vs</td><td>Kanpo</td><td>3</td></tr><tr><td> 72</td><td>Mby2</td><td>3</td><td>vs</td><td>Hakkiriitte-I I</td><td>3</td></tr><tr><td> 73</td><td>Tooth &amp; Dile</td><td>3</td><td>vs</td><td>SF Ken</td><td>3</td></tr><tr><td> 74</td><td>Ultra Holy</td><td>1</td><td>vs</td><td>Tai_no_okashira</td><td>1</td></tr><tr><td> 75</td><td>Kotetsu</td><td>0</td><td>vs</td><td>AngelRabbie</td><td>0</td></tr><tr><td> 76</td><td>Kanzaki Kanari Go!</td><td>0</td><td>vs</td><td>Sun wry soul</td><td>0</td></tr><tr><td> 77</td><td>Tightrope</td><td>0</td><td>vs</td><td>Cop: Reality</td><td>0</td></tr></tbody></table>

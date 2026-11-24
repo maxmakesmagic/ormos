@@ -1,0 +1,51 @@
+---
+id: 2szzbc5t
+kind: event
+lang: en
+path: /en/articles/event-coverage/2005/09-09-magic-pro-tour-hall-of-fame-event-by-event-results
+title: Magic Pro Tour Hall of Fame Event by Event Results
+published: '2005-09-09'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/magic-pro-tour-hall-fame-event-event-results-2005-09-09-1
+    lang_detected: en
+    capture_id: 451433
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/magic-pro-tour-hall-fame-event-event-results-2005-09-09-1
+    captured_at: '2022-09-25 05:58:27+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/magic-pro-tour-hall-fame-event-event-results-2005-09-09-1
+    lang_detected: en
+    capture_id: 451433
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/magic-pro-tour-hall-fame-event-event-results-2005-09-09-1
+    captured_at: '2022-09-25 05:58:27+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: 2szzbc5t
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/magic-pro-tour-hall-fame-event-event-results-2005-09-09-1
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/magic-pro-tour-hall-fame-event-event-results-2005-09-09-1
+  lang: en
+  template: drupal
+  captured_at: '2022-09-25 05:58:27+00'
+  capture_id: 451433
+  wayback_url: https://web.archive.org/web/20220925055827id_/https://magic.wizards.com/en/articles/archive/event-coverage/magic-pro-tour-hall-fame-event-event-results-2005-09-09-1
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 2szzbc5t
+  capture_id: 451433
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/magic-pro-tour-hall-fame-event-event-results-2005-09-09-1
+  wayback_url: https://web.archive.org/web/20220925055827id_/https://magic.wizards.com/en/articles/archive/event-coverage/magic-pro-tour-hall-fame-event-event-results-2005-09-09-1
+  captured_at: '2022-09-25 05:58:27+00'
+  template: drupal
+  sha256: 42eb3d988a53fd672d24eba89057052249af755bdfd59d404a1e5860acc1fb62
+render_recovery: []
+---
+[![Magic Pro Tour Hall of Fame](https://i.ormos.uk/00/1f/001f40b2b7f920761f79e5da81f2daf4a7b30c397764152467a90768f6716cbe.jpg)](https://web.archive.org/web/20050909000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent/hof/welcome)
+
+Listed below are the event-by-event finishes of each member of the **Magic** Pro Tour Hall of Fame Class of 2005. Events are listed in chronological order. For individual event coverage, [click here](https://web.archive.org/web/20050909000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/coverage).
+
+<table id="generic_table"><tbody><tr><td><b>Event</b></td>&#10;			<td><b>Jon Finkel</b></td>&#10;			<td><b>Darwin Kastle</b></td>&#10;			<td><b>Tommi Hovi</b></td>&#10;			<td><b>Alan Comer</b></td>&#10;			<td><b>Olle Råde</b></td>&#10;		</tr><tr><td>PTNY96</td>&#10;			<td> </td>&#10;			<td>65</td>&#10;			<td> </td>&#10;			<td> </td>&#10;			<td> </td>&#10;		</tr><tr><td>PTLA96</td>&#10;			<td> </td>&#10;			<td>3</td>&#10;			<td> </td>&#10;			<td> </td>&#10;			<td> </td>&#10;		</tr><tr><td>PTCOL96</td>&#10;			<td> </td>&#10;			<td>65</td>&#10;			<td> </td>&#10;			<td>23</td>&#10;			<td>1</td>&#10;		</tr><tr><td>WORLDS96</td>&#10;			<td>9</td>&#10;			<td>30</td>&#10;			<td>8</td>&#10;			<td> </td>&#10;			<td>4</td>&#10;		</tr><tr><td>ATLANTA97</td>&#10;			<td>143</td>&#10;			<td>2</td>&#10;			<td>20</td>&#10;			<td>26</td>&#10;			<td>32</td>&#10;		</tr><tr><td>DALLAS97</td>&#10;			<td>116</td>&#10;			<td>192</td>&#10;			<td>230</td>&#10;			<td>74</td>&#10;			<td>6</td>&#10;		</tr><tr><td>LA97</td>&#10;			<td>13</td>&#10;			<td>81</td>&#10;			<td>1</td>&#10;			<td>3</td>&#10;			<td>107</td>&#10;		</tr><tr><td>PARIS97</td>&#10;			<td>194</td>&#10;			<td>3</td>&#10;			<td>15</td>&#10;			<td>25</td>&#10;			<td>188</td>&#10;		</tr><tr><td>NEWYORK97</td>&#10;			<td>15</td>&#10;			<td>88</td>&#10;			<td>188</td>&#10;			<td>63</td>&#10;			<td>108</td>&#10;		</tr><tr><td>WORLDS 97</td>&#10;			<td>13</td>&#10;			<td>82</td>&#10;			<td>15</td>&#10;			<td> </td>&#10;			<td>16</td>&#10;		</tr><tr><td>CHICAGO98</td>&#10;			<td>3</td>&#10;			<td>113</td>&#10;			<td>41</td>&#10;			<td>65</td>&#10;			<td>8</td>&#10;		</tr><tr><td>MAINZ98</td>&#10;			<td>20</td>&#10;			<td>192</td>&#10;			<td>133</td>&#10;			<td>48</td>&#10;			<td>82</td>&#10;		</tr><tr><td>LA98</td>&#10;			<td>23</td>&#10;			<td>25</td>&#10;			<td>17</td>&#10;			<td>177</td>&#10;			<td>59</td>&#10;		</tr><tr><td>NY98</td>&#10;			<td>1</td>&#10;			<td>228</td>&#10;			<td>24</td>&#10;			<td>27</td>&#10;			<td>19</td>&#10;		</tr><tr><td>WORLDS98</td>&#10;			<td>3</td>&#10;			<td>17</td>&#10;			<td>177</td>&#10;			<td>8</td>&#10;			<td>95</td>&#10;		</tr><tr><td>CHICAGO99</td>&#10;			<td>5</td>&#10;			<td>9</td>&#10;			<td>286</td>&#10;			<td>71</td>&#10;			<td> </td>&#10;		</tr><tr><td>ROME99</td>&#10;			<td>45</td>&#10;			<td>15</td>&#10;			<td>1</td>&#10;			<td>50</td>&#10;			<td>5</td>&#10;		</tr><tr><td>LA99</td>&#10;			<td>2</td>&#10;			<td>316</td>&#10;			<td>100</td>&#10;			<td>122</td>&#10;			<td>68</td>&#10;		</tr><tr><td>NY99</td>&#10;			<td>88</td>&#10;			<td>198</td>&#10;			<td>32</td>&#10;			<td>25</td>&#10;			<td> </td>&#10;		</tr><tr><td>WORLDS99</td>&#10;			<td>10</td>&#10;			<td>58</td>&#10;			<td>34</td>&#10;			<td>32</td>&#10;			<td> </td>&#10;		</tr><tr><td>DC00</td>&#10;			<td>3</td>&#10;			<td>1</td>&#10;			<td> </td>&#10;			<td>2</td>&#10;			<td> </td>&#10;		</tr><tr><td>LONDON00</td>&#10;			<td>178</td>&#10;			<td>8</td>&#10;			<td>12</td>&#10;			<td>99</td>&#10;			<td> </td>&#10;		</tr><tr><td>CHICAGO00</td>&#10;			<td>14</td>&#10;			<td>42</td>&#10;			<td>167</td>&#10;			<td>5</td>&#10;			<td> </td>&#10;		</tr><tr><td>LA00</td>&#10;			<td>251</td>&#10;			<td>10</td>&#10;			<td> </td>&#10;			<td>118</td>&#10;			<td> </td>&#10;		</tr><tr><td>NY00</td>&#10;			<td>85</td>&#10;			<td>121</td>&#10;			<td>35</td>&#10;			<td>29</td>&#10;			<td> </td>&#10;		</tr><tr><td>WORLDS00</td>&#10;			<td>1</td>&#10;			<td>29</td>&#10;			<td>19</td>&#10;			<td>209</td>&#10;			<td> </td>&#10;		</tr><tr><td>NY01</td>&#10;			<td>27</td>&#10;			<td>11</td>&#10;			<td> </td>&#10;			<td>63</td>&#10;			<td> </td>&#10;		</tr><tr><td>CHICAGO01</td>&#10;			<td>5</td>&#10;			<td>81</td>&#10;			<td> </td>&#10;			<td>111</td>&#10;			<td> </td>&#10;		</tr><tr><td>LA01</td>&#10;			<td>4</td>&#10;			<td>250</td>&#10;			<td> </td>&#10;			<td>166</td>&#10;			<td> </td>&#10;		</tr><tr><td>TOKYO01</td>&#10;			<td>162</td>&#10;			<td>109</td>&#10;			<td>19</td>&#10;			<td> </td>&#10;			<td>30</td>&#10;		</tr><tr><td>BARCELONA01</td>&#10;			<td>11</td>&#10;			<td>28</td>&#10;			<td>123</td>&#10;			<td>2</td>&#10;			<td>40</td>&#10;		</tr><tr><td>WORLDS01</td>&#10;			<td>17</td>&#10;			<td>70</td>&#10;			<td>7</td>&#10;			<td>42</td>&#10;			<td> </td>&#10;		</tr><tr><td>NICE02</td>&#10;			<td>214</td>&#10;			<td>201</td>&#10;			<td>316</td>&#10;			<td>73</td>&#10;			<td> </td>&#10;		</tr><tr><td>OSAKA02</td>&#10;			<td>248</td>&#10;			<td>51</td>&#10;			<td> </td>&#10;			<td>64</td>&#10;			<td> </td>&#10;		</tr><tr><td>SANDIEGO02</td>&#10;			<td>112</td>&#10;			<td>174</td>&#10;			<td>16</td>&#10;			<td>45</td>&#10;			<td> </td>&#10;		</tr><tr><td>NEWORLEANS02</td>&#10;			<td>65</td>&#10;			<td>7</td>&#10;			<td> </td>&#10;			<td>137</td>&#10;			<td> </td>&#10;		</tr><tr><td>NY02</td>&#10;			<td>80</td>&#10;			<td>125</td>&#10;			<td>63</td>&#10;			<td>20</td>&#10;			<td> </td>&#10;		</tr><tr><td>WORLDS02</td>&#10;			<td>99</td>&#10;			<td>93</td>&#10;			<td> </td>&#10;			<td> </td>&#10;			<td> </td>&#10;		</tr><tr><td>YOKOHAMA03</td>&#10;			<td>4</td>&#10;			<td>76</td>&#10;			<td> </td>&#10;			<td> </td>&#10;			<td> </td>&#10;		</tr><tr><td>VENICE03</td>&#10;			<td>132</td>&#10;			<td>6</td>&#10;			<td> </td>&#10;			<td> </td>&#10;			<td> </td>&#10;		</tr><tr><td>CHICAGO03</td>&#10;			<td>3</td>&#10;			<td>334</td>&#10;			<td> </td>&#10;			<td> </td>&#10;			<td> </td>&#10;		</tr><tr><td>HOUSTON03</td>&#10;			<td>53</td>&#10;			<td>3</td>&#10;			<td> </td>&#10;			<td> </td>&#10;			<td> </td>&#10;		</tr><tr><td>BOSTON03</td>&#10;			<td>58</td>&#10;			<td>84</td>&#10;			<td> </td>&#10;			<td> </td>&#10;			<td>23</td>&#10;		</tr><tr><td>WORLDS03</td>&#10;			<td>80</td>&#10;			<td>91</td>&#10;			<td>184</td>&#10;			<td> </td>&#10;			<td> </td>&#10;		</tr><tr><td>SEATTLE04</td>&#10;			<td>68</td>&#10;			<td>52</td>&#10;			<td>23</td>&#10;			<td> </td>&#10;			<td> </td>&#10;		</tr><tr><td>SANDIEGO04</td>&#10;			<td>165</td>&#10;			<td> </td>&#10;			<td> </td>&#10;			<td> </td>&#10;			<td> </td>&#10;		</tr><tr><td>KOBE04</td>&#10;			<td> </td>&#10;			<td>183</td>&#10;			<td> </td>&#10;			<td> </td>&#10;			<td> </td>&#10;		</tr><tr><td>AMSTERDAM04</td>&#10;			<td>293</td>&#10;			<td>307</td>&#10;			<td> </td>&#10;			<td> </td>&#10;			<td> </td>&#10;		</tr><tr><td>NEWORLEANS04</td>&#10;			<td>225</td>&#10;			<td>210</td>&#10;			<td> </td>&#10;			<td> </td>&#10;			<td> </td>&#10;		</tr><tr><td>BOSTON04</td>&#10;			<td>52</td>&#10;			<td>53</td>&#10;			<td>11</td>&#10;			<td> </td>&#10;			<td> </td>&#10;		</tr><tr><td>WORLDS04</td>&#10;			<td>63</td>&#10;			<td> </td>&#10;			<td> </td>&#10;			<td> </td>&#10;			<td> </td>&#10;		</tr><tr><td>COLUMBUS05</td>&#10;			<td> </td>&#10;			<td> </td>&#10;			<td> </td>&#10;			<td> </td>&#10;			<td> </td>&#10;		</tr><tr><td>NAGOYA05</td>&#10;			<td> </td>&#10;			<td> </td>&#10;			<td> </td>&#10;			<td> </td>&#10;			<td> </td>&#10;		</tr><tr><td>ATLANTA05</td>&#10;			<td> </td>&#10;			<td> </td>&#10;			<td> </td>&#10;			<td> </td>&#10;			<td> </td>&#10;		</tr><tr><td>PHILLY05</td>&#10;			<td> </td>&#10;			<td> </td>&#10;			<td> </td>&#10;			<td> </td>&#10;			<td> </td>&#10;		</tr><tr><td>LONDON05</td>&#10;			<td> </td>&#10;			<td> </td>&#10;			<td> </td>&#10;			<td> </td>&#10;			<td> </td>&#10;		</tr></tbody></table>

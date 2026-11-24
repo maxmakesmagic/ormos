@@ -1,0 +1,399 @@
+---
+id: s7ber72j
+kind: event
+lang: en
+path: /en/articles/event-coverage/undated/b-takes-chicago
+title: :B Takes Chicago!
+published: null
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtgevent_gpchic04_welcome
+    lang_detected: en
+    capture_id: 829308
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_gpchic04_welcome
+    captured_at: '2009-06-04 12:35:05+00'
+    rule: aspx.article_heading
+sources:
+- document_id: s7ber72j
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_gpchic04_welcome
+  page_key: wizards.com/magic/magazine/article.aspx?x=mtgevent_gpchic04_welcome
+  lang: en
+  template: aspx
+  captured_at: '2009-06-04 12:35:05+00'
+  capture_id: 829308
+  wayback_url: https://web.archive.org/web/20090604123505id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_gpchic04_welcome
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: s7ber72j
+  capture_id: 829308
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_gpchic04_welcome
+  wayback_url: https://web.archive.org/web/20090604123505id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_gpchic04_welcome
+  captured_at: '2009-06-04 12:35:05+00'
+  template: aspx
+  sha256: f0f5438e0f0e83954dbfac44b0f3bf9d8ac223565855b6aaaa153d1d37c9a294
+render_recovery:
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Strength_of_Cedars')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Strength of Cedars
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Painwracker_Oni')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Painwracker Oni
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Dampen_Thought')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Dampen Thought
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Yamabushi[s_Storm')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Yamabushi's Storm
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Frostwielder')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Frostwielder
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Moss_Kami')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Moss Kami
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Gale_Force')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Gale Force
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Orochi_Ranger')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Orochi Ranger
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Matsu-Tribe_Decoy')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Matsu-Tribe Decoy
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Dripping-Tongue_Zubera')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Dripping-Tongue Zubera
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Hundred-Talon_Kami')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Hundred-Talon Kami
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mothrider_Samurai')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mothrider Samurai
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sire_of_the_Storm')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sire of the Storm
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kami_of_Ancient_Law')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kami of Ancient Law
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mountain')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mountain
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Soratami_Rainshaper')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Soratami Rainshaper
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kitsune_Riftwalker')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kitsune Riftwalker
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Ronin_Houndmaster')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Ronin Houndmaster
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Call_to_Glory')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Call to Glory
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Blood_Rites')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Blood Rites
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Blessed_Breath')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Blessed Breath
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Ethereal_Haze')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Ethereal Haze
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Candles[_Glow')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Candles' Glow
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sift_Through_Sands')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sift Through Sands
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Peer_Through_Depths')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Peer Through Depths
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Distress')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Distress
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Yosei,_the_Morning_Star')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Yosei, the Morning Star
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Hideous_Laughter')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Hideous Laughter
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Nezumi_Cutthroat')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Nezumi Cutthroat
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Order_of_the_Sacred_Bell')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Order of the Sacred Bell
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Ashen-Skin_Zubera')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Ashen-Skin Zubera
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Island')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Island
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sachi,_Daughter_of_Seshiro')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sachi, Daughter of Seshiro
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Rootrunner')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Rootrunner
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Honden_of_Cleansing_Fire')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Honden of Cleansing Fire
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Lure')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Lure
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Feral_Deceiver')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Feral Deceiver
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Commune_with_Nature')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Commune with Nature
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Masako_the_Humorless')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Masako the Humorless
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Indomitable_Will')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Indomitable Will
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kami_of_the_Hunt')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kami of the Hunt
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Burr_Grafter')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Burr Grafter
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Ashen-skin_Zubera')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Ashen-skin Zubera
+  occurrences: 1
+---
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <img src="https://i.ormos.uk/50/e5/50e598439a1f7ddae8650055e40145d69130002805cdd867188a8c63b80124c2.jpg">&#10;      <i>Team :B -- Pelcak, Aten, and Szleifer (left to right)</i>&#10;    </td>&#10;  </tr>&#10;</tbody></table>
+
+When you're hot, you're hot! After two days of brutal competition and sub-zero windchills, :B has won Grand Prix--Chicago. With their 7th place finish at Pro Tour--Seattle, :B came into this tournament as one of the favorites and they proved the oddsmakers right, ending the tournament with only a single loss and a draw to their names. This Midwestern connection [smashed through Mike Hron-led Voracious Cobra](#3) in the semifinals to set up a finals matchup that was anything but a surprise to students of recent Magic history.
+
+On the other side of the bracket, Charlie Gindy and his team Gindy's Sister's Fan Club proved that having Charlie on your team at a Team GP is guaranteed money. The Fan Club swept The Max Fischer Players in the semifinals, putting Gindy in a Team GP finals for the third straight Grand Prix. 
+
+Unfortunately for the kids in the Club, that's where their luck ran out. The draft didn't go particularly well for them, so it was no surprise when [Gadiel Szleifer crushed Zack Parker](#5) in only ten minutes to put :B up a match. Gindy fought back on his end of the table to win a game against John Pelcak, but Tim Aten made sure that match was irrelevant by using Strength of Cedars on a Painwracker Oni to seal the first Premiere event Magic title for he and his team. Congratulations to :B, the 2005 Grand Prix Chicago champions!
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;    </td><td>Semifinals</td>&#10;    <td>&#10;    </td><td>Finals</td>&#10;    <td>&#10;    </td><td>Champion</td>&#10;  </tr>&#10;  <tr>&#10;    <td>1</td>&#10;    <td>:B</td>&#10;    <td rowspan="2">&#10;    </td><td rowspan="2">:B, 2-1</td>&#10;    <td>&#10;    </td><td>&#10;    </td><td rowspan="3">&#10;    </td><td rowspan="3">&#10;  </td></tr>&#10;  <tr>&#10;    <td>4</td>&#10;    <td>Voracious Cobra</td>&#10;    <td rowspan="3">&#10;    </td><td rowspan="3">:B, 3-0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>&#10;    </td><td>&#10;  </td></tr>&#10;  <tr>&#10;    <td>2</td>&#10;    <td>Gindy's Sister's Fan Club</td>&#10;    <td rowspan="2">&#10;    </td><td rowspan="2">Gindy's Sister's Fan Club, 3-0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>3</td>&#10;    <td>The Max Fischer Players</td>&#10;    <td rowspan="3">&#10;    </td><td rowspan="3">&#10;  </td></tr>&#10;</tbody></table>
+
+  
+  
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <b>EVENT COVERAGE</b>&#10;    </td>&#10;    <td>&#10;      <b>FINAL TOP 4 STANDINGS</b>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <ul>&#10;        <br>&#10;        <li>&#10;          <a href="#5">Blog - 11:17pm</a>: Finals - Gindy's Sister's Fan Club vs. :B <div><i>by Ted Knutson</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2004/gpchic04/live-coverage-of-2004-grand-prix-chicago-42">Decklists</a>: Finals Decks <div><i>by Event Coverage Staff</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2004/gpchic04/live-coverage-of-2004-grand-prix-chicago-4">Decklists</a>: Semifinals Decks <div><i>by Event Coverage Staff</i></div></li>&#10;        <li>&#10;          <a href="#4">Blog - 10:33pm</a>: <a>Dampen Thought</a>, Rochester Style <div><i>by Christopher Jablonski</i></div></li>&#10;        <li>&#10;          <a href="#3">Blog - 8:52pm</a>: Semifinals - The Max Fischer Players vs. Gindy's Sister's Fan Club <div><i>by Ted Knutson</i></div></li>&#10;        <li>&#10;          <a href="#2">Blog - 8:08pm</a>: Somewhere is Here <div><i>by Ted Knutson</i></div></li>&#10;        <li>&#10;          <a href="#1">Blog - 7:17pm</a>: Top 4 Team Profiles <div><i>by Ted Knutson</i></div></li>&#10;        <hr>&#10;        <li>&#10;          <a href="/en/events/2004/gpchic04/live-coverage-of-2004-grand-prix-chicago-2">Blog Archive - Day 2</a>: Judges, Kid's Corner, Rochester Strategy, and more <div><i>by Ted Knutson and Christopher Jablonski</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2004/gpchic04/live-coverage-of-2004-grand-prix-chicago-12">Decklists</a>: Type 1 Tournament - Top 4 Decks <div><i>by Event Coverage Staff</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2004/gpchic04/live-coverage-of-2004-grand-prix-chicago-28">Round 9</a>: Chris McDaniel vs. Larry Waymon <div><i>by Christopher Jablonski</i></div></li>&#10;        <hr>&#10;        <li>&#10;          <a href="/en/events/2004/gpchic04/live-coverage-of-2004-grand-prix-chicago-45">Decklists</a>: Day 1 Undefeated Decks <div><i>by Event Coverage Staff</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2004/gpchic04/live-coverage-of-2004-grand-prix-chicago-35">Blog Archive - Day 1</a>: Eugene the Slot Machine, Chicago eateries, the old guard, and more <div><i>by Ted Knutson</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2004/gpchic04/live-coverage-of-2004-grand-prix-chicago-30">Info</a>: Day 1 Team Roster/Player List <div><i>by Event Coverage Staff</i></div></li>&#10;        &#10;        <li>&#10;          <a href="/en/events/2004/chicago04/grand-prix-chicago">Info</a>: Fact Sheet <div><i>by Event Coverage Staff</i></div></li>&#10;      </ul>&#10;    </td>&#10;    <td colspan="2">&#10;      &#10;      <table>&#10;        <tbody><tr>&#10;          <td> 1.  <b>:B</b></td>&#10;          <td>$4,500</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 2.  <b>Gindy's Sister's Fan Club</b></td>&#10;          <td>$3,000</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 3.  <b>The Max Fischer Players</b></td>&#10;          <td>$2,100</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 4.  <b>Voracious Cobra</b></td>&#10;          <td>$2,000</td>&#10;        </tr>&#10;      </tbody></table>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <b>Pairings</b>&#10;          </td>&#10;          <td>&#10;            <b>Results</b>&#10;          </td>&#10;          <td>&#10;            <b>Standings</b>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;          </td><td>&#10;          </td><td>&#10;            <a href="/en/events/2004/gpchic04/live-coverage-of-2004-grand-prix-chicago-3">Final</a>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            <a href="/en/events/2004/gpchic04/live-coverage-of-2004-grand-prix-chicago-19">12</a>&#10;            <br>&#10;            <a href="/en/events/2004/gpchic04/live-coverage-of-2004-grand-prix-chicago-11">11</a>&#10;            <br>&#10;            <a href="/en/events/2004/gpchic04/live-coverage-of-2004-grand-prix-chicago-40">10</a>&#10;            <br>&#10;            <a href="/en/events/2004/gpchic04/live-coverage-of-2004-grand-prix-chicago-25">9</a>&#10;            <br>&#10;          </td>&#10;          <td>&#10;            <a href="/en/events/2004/gpchic04/live-coverage-of-2004-grand-prix-chicago-17">12</a>&#10;            <br>&#10;            <a href="/en/events/2004/gpchic04/live-coverage-of-2004-grand-prix-chicago-37">11</a>&#10;            <br>&#10;            <a href="/en/events/2004/gpchic04/live-coverage-of-2004-grand-prix-chicago-21">10</a>&#10;            <br>&#10;            <a href="/en/events/2004/gpchic04/live-coverage-of-2004-grand-prix-chicago-43">9</a>&#10;            <br>&#10;          </td>&#10;          <td>&#10;            <a href="/en/events/2004/gpchic04/live-coverage-of-2004-grand-prix-chicago-15">12</a>&#10;            <br>&#10;            <a href="/en/events/2004/gpchic04/live-coverage-of-2004-grand-prix-chicago-33">11</a>&#10;            <br>&#10;            <a href="/en/events/2004/gpchic04/live-coverage-of-2004-grand-prix-chicago-39">10</a>&#10;            <br>&#10;            <a href="/en/events/2004/gpchic04/live-coverage-of-2004-grand-prix-chicago-10">9</a>&#10;            <br>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            <a href="/en/events/2004/gpchic04/live-coverage-of-2004-grand-prix-chicago">8</a>&#10;            <br>&#10;            <a href="/en/events/2004/gpchic04/live-coverage-of-2004-grand-prix-chicago-31">7</a>&#10;            <br>&#10;            <a href="/en/events/2004/gpchic04/live-coverage-of-2004-grand-prix-chicago-18">6</a>&#10;            <br>&#10;            <a href="/en/events/2004/gpchic04/live-coverage-of-2004-grand-prix-chicago-34">5</a>&#10;            <br>&#10;            <a href="/en/events/2004/gpchic04/live-coverage-of-2004-grand-prix-chicago-6">4</a>&#10;            <br>&#10;            <a href="/en/events/2004/gpchic04/live-coverage-of-2004-grand-prix-chicago-9">3</a>&#10;            <br>&#10;            <a href="/en/events/2004/gpchic04/live-coverage-of-2004-grand-prix-chicago-23">2</a>&#10;            <br>&#10;            <a href="/en/events/2004/gpchic04/live-coverage-of-2004-grand-prix-chicago-24">1</a>&#10;          </td>&#10;          <td>&#10;            <a href="/en/events/2004/gpchic04/live-coverage-of-2004-grand-prix-chicago-44">8</a>&#10;            <br>&#10;            <a href="/en/events/2004/gpchic04/live-coverage-of-2004-grand-prix-chicago-8">7</a>&#10;            <br>&#10;            <a href="https://web.archive.org/web/20090603132413/http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpchic04/res6">6</a>&#10;            <br>&#10;            <a href="/en/events/2004/gpchic04/live-coverage-of-2004-grand-prix-chicago-29">5</a>&#10;            <br>&#10;            <a href="/en/events/2004/gpchic04/live-coverage-of-2004-grand-prix-chicago-16">4</a>&#10;            <br>&#10;            <a href="/en/events/2004/gpchic04/live-coverage-of-2004-grand-prix-chicago-22">3</a>&#10;            <br>&#10;            <a href="/en/events/2004/gpchic04/live-coverage-of-2004-grand-prix-chicago-36">2</a>&#10;            <br>&#10;            <a href="/en/events/2004/gpchic04/live-coverage-of-2004-grand-prix-chicago-41">1</a>&#10;          </td>&#10;          <td>&#10;            <a href="/en/events/2004/gpchic04/live-coverage-of-2004-grand-prix-chicago-32">8</a>&#10;            <br>&#10;            <a href="/en/events/2004/gpchic04/live-coverage-of-2004-grand-prix-chicago-27">7</a>&#10;            <br>&#10;            <a href="/en/events/2004/gpchic04/live-coverage-of-2004-grand-prix-chicago-26">6</a>&#10;            <br>&#10;            <a href="/en/events/2004/gpchic04/live-coverage-of-2004-grand-prix-chicago-7">5</a>&#10;            <br>&#10;            <a href="/en/events/2004/gpchic04/live-coverage-of-2004-grand-prix-chicago-5">4</a>&#10;            <br>&#10;            <a href="/en/events/2004/gpchic04/live-coverage-of-2004-grand-prix-chicago-13">3</a>&#10;            <br>&#10;            <a href="/en/events/2004/gpchic04/live-coverage-of-2004-grand-prix-chicago-20">2</a>&#10;            <br>&#10;            <a href="/en/events/2004/gpchic04/live-coverage-of-2004-grand-prix-chicago-38">1</a>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;    </td>&#10;  </tr>&#10;</tbody></table>
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <b>BLOG</b>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <br>&#10;      <a name="1">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, December 19: 7:17 pm - Top 4 Team Profiles</b>&#10;      </li>&#10;      <p>&#10;        <b>Gindy's Sister's Fan Club</b>&#10;        <br> This is Charlie Gindy's third Team GP Top 4 appearance in as many Grand Prix, and what makes it even more impressive is that he's doing it with his third different set of teammates, this time flanked by 16-year old Zack &quot;Baby-faced Assassin&quot; Parker and 18-year-old Alex Chambers.</p>&#10;      <p>&#10;        <b>The Max Fischer Players</b>&#10;        <br> If Charlie Gindy is the latest kid to be a Team Limited master, Josh Ravitz created the position. Still only 19, the running joke among friends is that Ravitz is the oldest player in New York, and he often acts considerably older than his dinosaur-esque teammates Igor Frayman and Chris &quot;Meddling Mage&quot; Pikula.</p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/aa/05/aa052043fdcc4f3bcb836651945b9edd19ce9758a5d0f73a318e240d7a4ee291.jpg">&#10;            <i>The men of Voracious Cobra.</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>&#10;        <b>:B</b>&#10;        <br> This team was one of the favorites coming in to the event and they did not disappoint, drawing in the last round to seal their spot in the Top 4. This Midwestern connection of Aten, Szleifer, and Pelcak has to face Mike Hron and his team of Wisconsonites in the Top 4.</p>&#10;      <p>&#10;        <b>Voracious Cobra</b>&#10;        <br> Mike Hron is the most notable name on this team of players from Wisconsin, though they are not completely without PT experience as his teammates have at least made an appearance on the PT. Since they are the only Top 4 team that we did not feature today, we've included a photo of their thug-like countenances for easy recognition.</p>&#10;      <br>&#10;      <a name="2">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, December 19: 8:08 pm - Somewhere is Here</b>&#10;      </li>&#10;      <p>We couldn't really find a convenient place to fit this photo in, but it is notable enough to include somewhere in the coverage. </p>&#10;      <div>&#10;        <table>&#10;          <tbody><tr>&#10;            <td>&#10;              <img src="https://i.ormos.uk/90/a9/90a9b3ad51584c7fcd1cc0fcb6dd462d77c2c6fe19a1dd050d5195f0daf838b5.jpg">&#10;              <i>Kate Stavola and Alana Burman face off in Round 11</i>&#10;            </td>&#10;          </tr>&#10;        </tbody></table>&#10;      </div>&#10;      <br>&#10;      <a name="3">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, December 19: 8:52 pm - Semifinals - The Max Fischer Players vs. Gindy's Sister's Fan Club</b>&#10;      </li>&#10;      <p>I've never covered a team draft where all four teams felt like their draft went completely awry, but that's the way things worked out here in the semifinals. Neither team was particularly confident in what they had drafted, and both teams on this side of the bracket still had some uncertainty as to what their opponents had drafted, signaling that they were having a hard enough time drafting their own decks, leaving little time to focus on their opponents.</p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/3e/8f/3e8f25142f7456bd079c7f5a19304f05b85d1af37551ae19b9091d59e8f00bac.jpg">&#10;            <i>The Max Fischer Players</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>The storyline between these two teams is an interesting one. Charlie Gindy is trying to make his third Team GP finals in as many Grand Prix, while Chris Pikula's team made up for missing out on the Top 4 at the Pro Tour by winning in the final round to make the Top 4 here. Looking at the decks during the deckbuilding period, it appeared that Gindy's team definitely had a leg up on The Fischer Players. Zack Parker's deck is filled with speedy beats, while Ravitz's R/G deck is strong but slow. If he draws his <a>Yamabushi's Storm</a> and then follows that up with <a>Frostwielder</a>, he'll be able to compete, but Ravitz stalls at all, he'll probably get destroyed. Chambers has a strong deck against Frayman and has blown up this weekend, earning accolades from friends and teammates for his excellent play. Finally we have the match at hand between Gindy and Pikula... Pikula's deck is actually pretty good and features solid tricks, ground-pounders, <i>and</i> fliers, but he also has no way to handle <a>Moss Kami</a> and could get wrecked by Gindy's maindeck <a>Gale Force</a>.</p>&#10;      <p>&#10;        <b>Seat C - Charlie Gindy vs. Chris Pikula</b>&#10;      </p>&#10;      <p>Chris and Charlie started playing and were three turns into the game before they realized that the clock hadn't kicked off yet. &quot;We started, we didn't know. I think the game should start over,&quot; was Pikula's response to the judge. Gindy had already played creatures on turns 2 and 3, while Chris was about to pass his third turn without a play.</p>&#10;      <p>&quot;Judge... my opponent started before the time,&quot; was Pikula's next tactic to try and even things up, earning some chuckles from the crowd, but no ruling from the judge. It's good to see Pikula back in front of a crowd.</p>&#10;      <p>Pikula actually had no plays for the first four turns, while Gindy blew out of the gates with <a>Orochi Ranger</a>, <a>Matsu-Tribe Decoy</a>, and <a>Dripping-Tongue Zubera</a>. &quot;Ramp to five... <a>Hundred-Talon Kami</a>. Look at that curve,&quot; went Pikula's turn 5. <a>Mothrider Samurai</a> joined the flying Kami on the board and Chris stabilized at eight life. <a>Gale Force</a> from Gindy made sure that didn't last, but <a>Sire of the Storm</a> joined <a>Kami of Ancient Law</a> on the board for Pikula, again forming a wall against Gindy's snakes. </p>&#10;      <p>Charlie began to get frustrated as his deck failed to serve up any <a>Mountain</a>s, giving Pikula plenty of chances to pull ahead. <a>Soratami Rainshaper</a> and <a>Kitsune Riftwalker</a> were recruited to Pikula's growing squad, while Gindy finally found a <a>Mountain</a> and played <a>Moss Kami</a> followed by <a>Ronin Houndmaster</a>. The life totals were 8 to 5 in favor of Gindy when he attacked with the Mossy and Houndmaster into only an untapped Riftwalker and <a>Kami of Ancient Law</a>. Chris cast <a>Call to Glory</a> to untap his Rainshaper and Sire, trading three creatures to Gindy's two and leaving him with a Riftwalker to Charlie's <a>Dripping-Tongue Zubera</a>. Unfortunately that used the last of Chris's gas, and Gindy ended the game by using <a>Blood Rites</a> plus an attack to put himself up a game.</p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/17/ac/17ac30953cd95499f8998b76dafa91015de778e474cf4610938e4d295e0a512a.jpg">&#10;            <i>Ganging up on Nagao</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Gindy 1 - Pikula 0</p>&#10;      <p>In the middle seat, Zack Parker's squad of weenies quickly overwhelmed Josh Ravitz, putting the Fan Club up a match and giving Parker his first win on Day 2.</p>&#10;      <p>Parker 2 - Ravitz 0</p>&#10;      <p>Game 2 saw Nagao make an appearance for Pikula, following a sad turn 3 <a>Kami of Ancient Law</a> onto the board. The game stalled for a while as Gindy played weenies, while Pikula sat safely behind Nagao, waiting for reinforcements to arrive. <a>Mothrider Samurai</a> answered the call, and Pikula's next attack wrecked Gindy's team. Charlie stacked his whole squad up against Nagao, but Pikula cast <a>Call to Glory</a> and <a>Blessed Breath</a>, putting three of Gindy's kids in the yard at no loss to his team.</p>&#10;      <p>Unfortunately for Chris, <a>Gale Force</a> and <a>Blood Rites</a> made a return engagement on Charlie's board, demolishing Pikula's offense and making good blocks impossible. A few swings from Charlie plus eight to the dome from <a>Blood Rites</a> put Charlie Gindy and his latest team in an unprecedented (the kids seem to like that word) back-to-back-to-back Team GP finals.</p>&#10;      <p>Gindy 2 - Pikula 0</p>&#10;      <p>Gindy's Sister's Fan Club 3 - The Max Fischer Players 0</p>&#10;      <br>&#10;      <a name="4">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, December 19: 10:33 pm - <a>Dampen Thought</a>, Rochester Style</b>&#10;      </li>&#10;      <p>You've come to expect it in Magic Online booster drafts, and once in a while a team'll crack it in Sealed. Its key elements have already been exposed here and on strategy sites like starcitygames.com, but a <a>Dampen Thought</a> deck in the top 4 of a Grand Prix? Obscene!</p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/d8/3f/d83f574de503ba51faa0702351c396f237d082a08c8516f13ed5c3e737a2c2c3.jpg">&#10;            <i>A Prototypical Dampen.dec</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Yet :B's (I pronounce that colon beez) Gadiel Szelfer (I pronounce that - okay, I try not to pronounce it) has done just that. For the two of you unfamiliar with how it works (and that includes me), the generally Blue-White build plays very few creatures, stalling the early game until it can cast one or two Arcane spells every turn, splicing <a>Dampen Thought</a> onto each until the opponent is decked. <a>Ethereal Haze</a> and <a>Candles' Glow</a> are the deck's major White contributions, while it relies on the Blue for card-quality Arcanes like <a>Sift Through Sands</a> and <a>Peer Through Depths</a>.</p>&#10;      <p>The deck's major weakness is naturally that if you see it coming, you can stop it in its tracks by counterdrafting a few of its more important spells, or by making your opponent discard Dampen itself with, namely, <a>Distress</a>. &quot;They just didn't try to stop it,&quot; said Tim Aten about his teammate's mise, although Mike Hron did manage a single <a>Distress</a>.</p>&#10;      <p>The deck also presents difficult (and certainly unusual) sideboarding decisions, as the judging staff was somewhat unprepared to deal with Hron's request to be separated from his opponent while 'boarding in case he wanted to put in every card he drafted. While that didn't become the case, the judges still honored the request to have them sideboard apart from each other.</p>&#10;      <p>Despite all this, Gadiel was unable to pull out the match win vs. Hron's Black/Green deck. Though Szelfer did deck him game 1, he succumbed to damage in games 2 and 3. :B, however, emerged victorious in a 2-1 victory.</p>&#10;      <br>&#10;      <a name="5">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, December 19: 11:17 pm - Finals - Gindy's Sister's Fan Club vs. :B</b>&#10;      </li>&#10;      <p>This is it, folks. The most grueling Grand Prix format of the year comes down to a battle of youth between : B and Gindy's Sister's Fan Club (GSFC). GSFC is led by Team Limited expert Charlie Gindy, who has made it to the finals or better in his last three Team Limited Grand Prix. His youth brigade (teammates Zack Parker and Adam Chambers are 16 and 18, respectively) made it this far with zero Byes to their names, sweeping The Max Fischer Players in the semis and giving Gindy a chance to be a repeat Team Grand Prix champion. </p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/94/e4/94e45867af609b502d1d8c78f75d41a18f5fe198f08b966490efcd8842ba637f.jpg">&#10;            <i>The tense final draft</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>On the other side of the table you have :B, a team of solid pros who are definitely on the rise. The finished in 7th as a team at Pro Tour: Seattle, Aten posted a strong finish at Worlds, and the Gadiel followed that with a Top 8 performance at Grand Prix: Columbus. With this finish Aten, Szleifer, and Pelcak are all on the gravy train, so the only thing left for them to accomplish this weekend is win the Grand Prix.</p>&#10;      <p>The draft looked like it went pretty solidly in :B's favor. Gadiel's U/W was pure gas surrounding <a>Yosei, the Morning Star</a>, and Pelcak's deck was a spicy B/R number that would give Gindy a hard time if his B/W deck didn't find an early <a>Hideous Laughter</a>. The Seat A battle of roommates (Tim Aten recently moved in with Chambers, Jill Costigan, and Aaron Lipczynski in Albany, NY) was definitely up in the air though. Chambers drafted a strong G/W deck with good beats, snakes, and some serious fatties plus solid mana acceleration. Aten matched most of Chambers' fat, but in place of some of the combat tricks, he had removal and <a>Strength of Cedars</a>. Little did I know that this would be one of the fastest team finals on record, and that the pace of place in the Aten - Chambers match would be almost too fast to follow, in spite of back-to-back games that were about as close as they come.</p>&#10;      <p>&#10;        <b>Seat A - Tim Aten vs. Adam Chambers</b>&#10;      </p>&#10;      <p>Aten told Adam to pick the face-down rare card in order to determine who went first. Chambers picked Boseiju, earning a rueful &quot;I should have known better to play that game with you&quot; and they were off. Aten's turn 2 <a>Nezumi Cutthroat</a> was trumped by a turn 3 <a>Order of the Sacred Bell</a> from Chambers. <a>Ashen-Skin Zubera</a> took one for the team the next turn, forcing Chambers to discard an <a>Island</a> before Adam cast <a>Sachi, Daughter of Seshiro</a>. Aten's <a>Rootrunner</a> traded with the Order, but things suddenly became very bad for Tim when Chambers cast <a>Honden of Cleansing Fire</a>, shutting down his only offense. </p>&#10;      <p>Tim answered back with big Scuttles and <a>Moss Kami</a> about the time Gadiel sealed game 1 of his match for :B. The change in momentum was clear, as it was now Aten's team of fat versus snakes, snakes, snakes. <a>Lure</a> made all of Adam's men/reptiles irrelevant, as Tim smashed for the win, giving :B a two games to none lead.</p>&#10;      <p>Aten 1 - Chambers 0<br> Szleifer 1 - Parker 0</p>&#10;      <p>Both players started slow this game, with the first action taking place when Adam's Order at Taco Bell trades with <a>Feral Deceiver</a>, but Chambers just cast another. Chambers's <a>Moss Kami</a> didn't even get a swing in as both players gummed up the board with men. <a>Commune with Nature</a> from Adam fetched <a>Masako the Humorless</a>, earning a wry chuckle from Tim. Tim cast <a>Painwracker Oni</a>, and it looked like the big demon might force the action a bit. </p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/50/e5/50e598439a1f7ddae8650055e40145d69130002805cdd867188a8c63b80124c2.jpg">&#10;            <i>We are the champions, my friend</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>About this time, Zack Parker informed his teammates that he'd lost his match to Gadiel, heaping the pressure of a win squarely on their shoulders.</p>&#10;      <p>Chambers thought hard about his next play before making the Oni block his Decoy, staving off a turn of beats in return for the life of his man. Adam once again shrugged and cast another Decoy. A turn later, the second Decoy forced <a>Feral Deceiver</a> to block and Chambers brought the lumber into the zone, using <a>Indomitable Will</a> on his <a>Moss Kami</a> to get rid of a <a>Kami of the Hunt</a> and <a>Burr Grafter</a>, losing only his second Decoy in the process. Aten cast Oathkeeper, and the next turn played <a>Rootrunner</a> and <a>Ashen-skin Zubera</a>. Rootie traded with an Order and Aten took six more, making the life totals Aten 10 - Chambers 15. Tim then activated <a>Feral Deceiver</a> during his upkeep, revealing a land that he drew and played. He attacked with his team and cast <a>Strength of Cedars</a> on his Oni, doing just enough damage to end Chambers's life and prevent Charlie Gindy from repeating as Team Grand Prix champion.</p>&#10;      <p>Aten 2 - Chambers 0</p>&#10;      <p>:B 3 - Gindy's Sister's Fan Club 0</p>&#10;      <p>:B are the 2005 Season Grand Prix: Chicago champions!</p>&#10;      <br>&#10;    </td>&#10;  </tr>&#10;</tbody></table>

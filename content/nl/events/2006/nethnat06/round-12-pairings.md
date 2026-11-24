@@ -1,0 +1,48 @@
+---
+id: nj98pwh9
+kind: event
+lang: nl
+path: /nl/events/2006/nethnat06/round-12-pairings
+title: Round 12 Pairings
+published: null
+column_slug: null
+column: null
+authors: []
+event_code: nethnat06
+detected_lang: nl
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/nethnat06/pair12
+    lang_detected: nl
+    capture_id: 1091339
+    url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/nethnat06/pair12
+    captured_at: '2013-06-28 13:37:01+00'
+    rule: aspx.article_heading
+  event_code:
+    page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/nethnat06/pair12
+    lang_detected: nl
+    capture_id: 1091339
+    url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/nethnat06/pair12
+    captured_at: '2013-06-28 13:37:01+00'
+    rule: url.event_code
+sources:
+- document_id: nj98pwh9
+  url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/nethnat06/pair12
+  page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/nethnat06/pair12
+  lang: nl
+  template: aspx
+  captured_at: '2013-06-28 13:37:01+00'
+  capture_id: 1091339
+  wayback_url: https://web.archive.org/web/20130628133701id_/https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/nethnat06/pair12
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: nj98pwh9
+  capture_id: 1091339
+  url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/nethnat06/pair12
+  wayback_url: https://web.archive.org/web/20130628133701id_/https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/nethnat06/pair12
+  captured_at: '2013-06-28 13:37:01+00'
+  template: aspx
+  sha256: dede25590087c6227986a503e6afd3683bb3e414fa8920abaf80e8a44b4938c2
+render_recovery: []
+---
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <a href="/nl/events/2006/nethnat06/round-12-pairings">&#10;        <b>Table</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/nl/events/2006/nethnat06/round-12-pairings">&#10;        <b>Player</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/nl/events/2006/nethnat06/round-12-pairings">&#10;        <b>Points</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/nl/events/2006/nethnat06/round-12-pairings">&#10;        <b>&#10;      </b></a><b>&#10;    </b></td>&#10;    <td>&#10;      <a href="/nl/events/2006/nethnat06/round-12-pairings">&#10;        <b>Opponent</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/nl/events/2006/nethnat06/round-12-pairings">&#10;        <b>Points</b>&#10;      </a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td> 1</td>&#10;    <td>Cornelissen, Kamiel K</td>&#10;    <td> 26</td>&#10;    <td>vs.</td>&#10;    <td>Maaten, Rogier</td>&#10;    <td> 25</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 2</td>&#10;    <td>Nuijten, Julien P</td>&#10;    <td> 26</td>&#10;    <td>vs.</td>&#10;    <td>van Medevoort, Robert J</td>&#10;    <td> 26</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 3</td>&#10;    <td>Palijama, Maurice</td>&#10;    <td> 25</td>&#10;    <td>vs.</td>&#10;    <td>Karsten, Frank</td>&#10;    <td> 25</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 4</td>&#10;    <td>Snijdewind, Ruben</td>&#10;    <td> 24</td>&#10;    <td>vs.</td>&#10;    <td>De Jong, Jasper</td>&#10;    <td> 24</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 5</td>&#10;    <td>Bongaards, Jasper E</td>&#10;    <td> 24</td>&#10;    <td>vs.</td>&#10;    <td>star, leon</td>&#10;    <td> 24</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 6</td>&#10;    <td>Remie, Jeroen</td>&#10;    <td> 24</td>&#10;    <td>vs.</td>&#10;    <td>De La Fosse, Sébastien A</td>&#10;    <td> 22</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 7</td>&#10;    <td>Kok, Christiaan P</td>&#10;    <td> 22</td>&#10;    <td>vs.</td>&#10;    <td>Niemeyer, Johnny J</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 8</td>&#10;    <td>Zwart, jan willem</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Rooij De, Danny</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 9</td>&#10;    <td>van Leeuwen, Arjan</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Huts, Roy</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 10</td>&#10;    <td>Blaas, Jasper</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Thijsen, Roy</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 11</td>&#10;    <td>Van De Veen, Steffen</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Pannekoek, Andre</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 12</td>&#10;    <td>Snepvangers, Bram</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Meertens, Job</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 13</td>&#10;    <td>van Veenendaal, Joeri</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Marbus, Piet</td>&#10;    <td> 19</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 14</td>&#10;    <td>Boskaljon, Willem H</td>&#10;    <td> 19</td>&#10;    <td>vs.</td>&#10;    <td>Epskamp, Yori</td>&#10;    <td> 19</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 15</td>&#10;    <td>Ziming, Chen</td>&#10;    <td> 18</td>&#10;    <td>vs.</td>&#10;    <td>Vos, Daniel M</td>&#10;    <td> 18</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 16</td>&#10;    <td>Wageningen, Mathijs v</td>&#10;    <td> 18</td>&#10;    <td>vs.</td>&#10;    <td>Reijke, Sjoerd A</td>&#10;    <td> 18</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 17</td>&#10;    <td>De Vries, Gideon</td>&#10;    <td> 18</td>&#10;    <td>vs.</td>&#10;    <td>Grove, Kevin M</td>&#10;    <td> 18</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 18</td>&#10;    <td>Poese, Arsjaad</td>&#10;    <td> 18</td>&#10;    <td>vs.</td>&#10;    <td>van Overbeek, Rene a</td>&#10;    <td> 18</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 19</td>&#10;    <td>De Vries, Hanjo</td>&#10;    <td> 18</td>&#10;    <td>vs.</td>&#10;    <td>Sondag, Guido</td>&#10;    <td> 18</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 20</td>&#10;    <td>Reijmersdal, Niels v</td>&#10;    <td> 17</td>&#10;    <td>vs.</td>&#10;    <td>Tromp, Sjors F</td>&#10;    <td> 15</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 21</td>&#10;    <td>Roelofs, Frank</td>&#10;    <td> 15</td>&#10;    <td>vs.</td>&#10;    <td>Smets, Daan</td>&#10;    <td> 15</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 22</td>&#10;    <td>Stapelkamp, Wouter</td>&#10;    <td> 15</td>&#10;    <td>vs.</td>&#10;    <td>Kroon, Renee</td>&#10;    <td> 15</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 23</td>&#10;    <td>ter Wal, Gerjan</td>&#10;    <td> 15</td>&#10;    <td>vs.</td>&#10;    <td>Smink, Robert H</td>&#10;    <td> 15</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 24</td>&#10;    <td>Van Den Brakel, Jeroen</td>&#10;    <td> 15</td>&#10;    <td>vs.</td>&#10;    <td>koornneef, kenny</td>&#10;    <td> 15</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 25</td>&#10;    <td>Steenhoek, Edwin H</td>&#10;    <td> 15</td>&#10;    <td>vs.</td>&#10;    <td>Nijk, Timo</td>&#10;    <td> 13</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 26</td>&#10;    <td>Drunen, Robbert v</td>&#10;    <td> 12</td>&#10;    <td>vs.</td>&#10;    <td>Kesteloo, Peter</td>&#10;    <td> 12</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 27</td>&#10;    <td>Hanenberg van de, Frank</td>&#10;    <td> 12</td>&#10;    <td>vs.</td>&#10;    <td>Groenstege, Ronald</td>&#10;    <td> 12</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>van Luijtelaar, Michael</td>&#10;    <td> 12</td>&#10;    <td>&#10;    </td><td>* BYE *</td>&#10;    <td>&#10;  </td></tr>&#10;</tbody></table>

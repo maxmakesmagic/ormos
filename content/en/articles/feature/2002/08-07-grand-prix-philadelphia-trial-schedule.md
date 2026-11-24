@@ -1,0 +1,69 @@
+---
+id: m9r495yy
+kind: article
+lang: en
+path: /en/articles/feature/2002/08-07-grand-prix-philadelphia-trial-schedule
+title: Grand Prix - Philadelphia Trial Schedule
+published: '2002-08-07'
+column_slug: feature
+column: Feature
+authors:
+- slug: wizardsofthecoast
+  name: Wizards of the Coast
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-trial-schedule-2002-08-07
+    lang_detected: en
+    capture_id: 631768
+    url: https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-trial-schedule-2002-08-07
+    captured_at: '2022-08-14 20:43:54+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-trial-schedule-2002-08-07
+    lang_detected: en
+    capture_id: 631768
+    url: https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-trial-schedule-2002-08-07
+    captured_at: '2022-08-14 20:43:54+00'
+    rule: drupal.posted_in_date
+  authors:
+    page_key: magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-trial-schedule-2002-08-07
+    lang_detected: en
+    capture_id: 631768
+    url: https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-trial-schedule-2002-08-07
+    captured_at: '2022-08-14 20:43:54+00'
+    rule: drupal.div_author
+  column:
+    page_key: magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-trial-schedule-2002-08-07
+    lang_detected: en
+    capture_id: 631768
+    url: https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-trial-schedule-2002-08-07
+    captured_at: '2022-08-14 20:43:54+00'
+    rule: url.article_section
+    registry_match: registry.explicit
+sources:
+- document_id: m9r495yy
+  url: https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-trial-schedule-2002-08-07
+  page_key: magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-trial-schedule-2002-08-07
+  lang: en
+  template: drupal
+  captured_at: '2022-08-14 20:43:54+00'
+  capture_id: 631768
+  wayback_url: https://web.archive.org/web/20220814204354id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-trial-schedule-2002-08-07
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: m9r495yy
+  capture_id: 631768
+  url: https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-trial-schedule-2002-08-07
+  wayback_url: https://web.archive.org/web/20220814204354id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-philadelphia-trial-schedule-2002-08-07
+  captured_at: '2022-08-14 20:43:54+00'
+  template: drupal
+  sha256: 8499437ee0aa8fb31c126b6fd831be68cab1dca158b474915f72c1962cdaa79f
+render_recovery: []
+---
+**Entry Fee:** Varies by location. Contact organizer for details  
+**Tournament Structure:** Modified Swiss  
+**Tournament Format:** Limited with Top 8 Rochester Draft  
+**Prizes:** At least 1 third-round bye at each tournament, plus product prizes determined by organizer.
+
+<table><tbody><tr><td><b>State/Province</b></td><td><b>City</b></td><td><b>Date</b></td><td><b>Byes</b></td><td><b>Location</b></td><td><b>Address</b></td><td><b>Phone</b></td><td><b>Website</b></td>&#10;				</tr><tr><td>Arkansas</td><td>Little Rock</td><td>10/6/2002</td><td>1</td><td>Family Games Center</td><td>9807 W. Markham</td><td>501-978-5310</td><td><a href="http://www.familygamescenter.com/">Website</a></td>&#10;				</tr><tr><td>California</td><td>Los Angeles</td><td>8/24/2002</td><td>1</td><td>Costa Mesa Women's Club</td><td>610 W. 18th St., Costa Mesa</td><td>818-787-3708</td><td><a href="http://www.aztlan-promotions.com/">Website</a></td>&#10;				</tr><tr><td>California</td><td>SF Bay Area</td><td>10/19/2002</td><td>1</td><td>Neutral Ground - San Francisco</td><td>560 Shower Drive, Ste #4, Mountain View, CA</td><td>650-947-0398</td><td><a href="http://www.matchplay.com/">Website</a></td>&#10;				</tr><tr><td>Colorado</td><td>Colorado Springs</td><td>9/14/2002</td><td>1</td><td>The Gamer's Gathering</td><td>3916 North Academy Blvd.</td><td>303-366-3977</td><td> </td>&#10;				</tr><tr><td>Connecticut</td><td>Milford</td><td>10/20/2002</td><td>1</td><td>Barrons Comics</td><td>232 Boston Post Rd.</td><td>203-783-1630</td><td> </td>&#10;				</tr><tr><td>Florida</td><td>Orlando</td><td>10/12/2002</td><td>1</td><td>Jenkin's Auditorium</td><td>691 W. Montrose, Clermont, FL</td><td>352-242-9755</td><td><a href="http://unityevents.tripod.com/">Website</a></td>&#10;				</tr><tr><td>Georgia</td><td>Atlanta</td><td>9/21/2002</td><td>1</td><td>The War Room</td><td>2055-G Beaver Ruin Rd., Norcross</td><td>770-729-9588</td><td><a href="http://www.southeastmagic.com/">Website</a></td>&#10;				</tr><tr><td>Illinois</td><td>Chicago</td><td>8/31/2002</td><td>1</td><td>Pastimes Sports Cards, Comics &amp; Games</td><td>8478 Golf Rd., Niles</td><td>847-724-9636</td><td><a href="http://www.moyevents.com/">Website</a></td>&#10;				</tr><tr><td>Indiana</td><td>Columbus</td><td>10/13/2002</td><td>1</td><td>Comic Cave</td><td>3221 17th St.</td><td>812-201-0663</td><td><a href="http://www.geocities.com/simplymtg/">Website</a></td>&#10;				</tr><tr><td>Kentucky</td><td>Louisville</td><td>9/7/2002</td><td>1</td><td>Book and Music Exchange</td><td>5400 Preston Hwy</td><td>502-969-4403</td><td><a href="http://skullman.home.insightbb.com/">Website</a></td>&#10;				</tr><tr><td>Maryland</td><td>Rockville</td><td>10/6/2002</td><td>1</td><td>Dream Wizards</td><td>11772 Parklawn Dr.</td><td>301-881-3530</td><td><a href="http://www.dreamwizards.com/">Website</a></td>&#10;				</tr><tr><td>Maryland</td><td>Rockville</td><td>10/20/2002</td><td>1</td><td>Dream Wizards</td><td>11772 Parklawn Dr.</td><td>301-881-3530</td><td><a href="http://www.dreamwizards.com/">Website</a></td>&#10;				</tr><tr><td>Massachusetts</td><td>Boston</td><td>9/15/2002</td><td>1</td><td>Your Move Games - Somerville</td><td>400 Highland Avenue, 2nd Floor, Somerville</td><td>617-666-5799</td><td><a href="http://www.yourmovegames.com/">Website</a></td>&#10;				</tr><tr><td>Massachusetts</td><td>Boston</td><td>9/27/2002</td><td>2</td><td>Pro Tour-Boston, Bayside Exposition Center</td><td>200 Mt. Vernon Street</td><td>800-324-6496</td><td><a href="https://web.archive.org/web/20020807000000/http://www.wizards.com/">Website</a></td>&#10;				</tr><tr><td>Massachusetts</td><td>Lenox</td><td>10/12/2002</td><td>1</td><td>Lenox Sportscards &amp; Games</td><td>55 Pittsfield Rd.</td><td>413-637-3243 </td><td> </td>&#10;				</tr><tr><td>Massachusetts</td><td>Milford</td><td>9/14/2002</td><td>1</td><td>TJ Collectibles</td><td>160 Main Street</td><td>508-473-5874</td><td><a href="http://www.tjcollect.com/">Website</a></td>&#10;				</tr><tr><td>Michigan</td><td>Detroit</td><td>9/14/2002</td><td>1</td><td>The Game Store - Pandemonium</td><td>1858 Middlebelt Rd., Garden City</td><td>877-913-8881</td><td><a href="http://www.professional-events.com/">Website</a></td>&#10;				</tr><tr><td>Missouri</td><td>St. Louis</td><td>10/19/2002</td><td>1</td><td>Comic City</td><td>8336 Watson Rd.</td><td>314-729-0018</td><td><a href="http://www.hannahsgames.com/">Website</a></td>&#10;				</tr><tr><td>Nebraska</td><td>Lincoln</td><td>10/12/2002</td><td>1</td><td>HobbyTown USA</td><td>220 N. 66th St.</td><td>402-434-5056</td><td><a href="http://www.hobbytown.com/store_locator/pages_store/Lincoln.htm">Website</a></td>&#10;				</tr><tr><td>New Jersey</td><td>Somerville</td><td>9/15/2002</td><td>1</td><td>The Only Game in Town</td><td>211 West Main Street</td><td>908-725-7077</td><td><a href="http://www.togit.com/">Website</a></td>&#10;				</tr><tr><td>New York</td><td>Brooklyn</td><td>8/31/2002</td><td>1</td><td>Kings Games</td><td>1724 East 12th St.</td><td>718-336-1955</td><td><a href="http://www.kingsgames.com/">Website</a></td>&#10;				</tr><tr><td>New York</td><td>Rochester</td><td>10/20/2002</td><td>1</td><td>Millennium Games &amp; Hobbies</td><td>3047 W. Henrietta Rd.</td><td>716-427-2190</td><td> </td>&#10;				</tr><tr><td>New York</td><td>Syracuse</td><td>10/19/2002</td><td>1</td><td>Altered States Game &amp; Hobby</td><td>689 N. Clinton St.</td><td>315-472-GAME</td><td><a href="http://www.alteredsts.com/">Website</a></td>&#10;				</tr><tr><td>North Carolina</td><td>Charlotte</td><td>9/14/2002</td><td>1</td><td>Underground Games</td><td>8316 Pineville-Matthews Rd.</td><td>888-543-8805</td><td><a href="http://www.underground-games.com/">Website</a></td>&#10;				</tr><tr><td>North Carolina</td><td>High Point</td><td>8/31/2002</td><td>1</td><td>DJ's Cards and Stuff</td><td>2619 S. Main St.</td><td>336-674-6708</td><td><a href="http://www.baileyscollectibles.com/">Website</a></td>&#10;				</tr><tr><td>Ohio</td><td>Cleveland</td><td>9/21/2002</td><td>1</td><td>Compendium Collectibles</td><td>19644 Center Ridge Rd., Rocky River, OH</td><td>440-895-1224</td><td><a href="http://www.compendiumohio.com/">Website</a></td>&#10;				</tr><tr><td>Ohio</td><td>Cleveland</td><td>10/13/2002</td><td>1</td><td>Compendium Collectibles</td><td>19644 Center Ridge Rd., Rocky River, OH</td><td>440-895-1224</td><td><a href="http://www.compendiumohio.com/">Website</a></td>&#10;				</tr><tr><td>Ohio</td><td>Columbus</td><td>10/5/2002</td><td>1</td><td>Ohio Wesleyan University, Hamilton-Williams Campus Center</td><td>40 Rowland Ave., Delaware, OH</td><td>877-913-8881</td><td><a href="http://www.professional-events.com/">Website</a></td>&#10;				</tr><tr><td>Ontario</td><td>Oshawa</td><td>10/13/2002</td><td>1</td><td>SkyFox Games</td><td>86 William St. E.</td><td>905-721-1521</td><td><a href="http://www.futquest.com/">Website</a></td>&#10;				</tr><tr><td>Oregon</td><td>Portland</td><td>9/7/2002</td><td>1</td><td>Free Your Mind</td><td>3200B Hawthorne Ave.</td><td>503-230-4843</td><td><a href="http://freeyourmind.org/">Website</a></td>&#10;				</tr><tr><td>Pennsylvania</td><td>Harrisburg</td><td>9/15/2002</td><td>1</td><td>Howard Johnson Inn</td><td>473 Eisenhower Blvd.</td><td>800-947-4470</td><td><a href="http://www.twctournaments.com/">Website</a></td>&#10;				</tr><tr><td>Pennsylvania</td><td>Harrisburg</td><td>10/12/2002</td><td>1</td><td>Howard Johnson Inn</td><td>473 Eisenhower Blvd.</td><td>800-947-4470</td><td><a href="http://www.twctournaments.com/">Website</a></td>&#10;				</tr><tr><td>Pennsylvania</td><td>Philadelphia</td><td>8/3/2002</td><td>1</td><td>Church on the Mall</td><td>Plymouth Meeting Mall, Plymouth Meeting</td><td>610-277-6494</td><td><a href="http://www.magicadvisor.com/">Website</a></td>&#10;				</tr><tr><td>Pennsylvania</td><td>Philadelphia</td><td>9/8/2002</td><td>1</td><td>Church on the Mall</td><td>Plymouth Meeting Mall, Plymouth Meeting</td><td>610-277-6494</td><td><a href="http://www.magicadvisor.com/">Website</a></td>&#10;				</tr><tr><td>Pennsylvania</td><td>Philadelphia</td><td>10/6/2002</td><td>1</td><td>Church on the Mall</td><td>Plymouth Meeting Mall, Plymouth Meeting</td><td>610-277-6494</td><td><a href="http://www.magicadvisor.com/">Website</a></td>&#10;				</tr><tr><td>Pennsylvania</td><td>Philadelphia</td><td>10/25/2002</td><td>4</td><td>GP-Philadelphia, Radisson Valley Forge Hotel</td><td>1160 First Ave., King of Prussia</td><td>800-852-2442</td><td><a href="http://www.graymatterconventions.com/">Website</a></td>&#10;				</tr><tr><td>Pennsylvania</td><td>Pittsburgh</td><td>10/6/2002</td><td>1</td><td>Butler-Day’s Inn Conf. Center</td><td>139 Pittsburgh Rd. (Rte 8), Butler, PA</td><td>877-913-8881</td><td><a href="http://www.professional-events.com/">Website</a></td>&#10;				</tr><tr><td>Puerto Rico</td><td>San Juan</td><td>9/7/2002</td><td>1</td><td>Universidad Interamericana de Puerto Rico</td><td>Recinto de Bayamon, Bayamon</td><td>787-409-6525</td><td> </td>&#10;				</tr><tr><td>Quebec</td><td>Montreal</td><td>8/31/2002</td><td>1</td><td>Carta Magica</td><td>7341 St. Denis St.</td><td>514-286-9099</td><td><a href="http://www.cartamagica.com/">Website</a></td>&#10;				</tr><tr><td>Quebec</td><td>Montreal</td><td>10/12/2002</td><td>1</td><td>Carta Magica</td><td>7341 St. Denis St.</td><td>514-286-9099</td><td><a href="http://www.cartamagica.com/">Website</a></td>&#10;				</tr><tr><td>Tennessee</td><td>Knoxville</td><td>9/21/2002</td><td>1</td><td>The Round Table</td><td>2800 Sutherland Ave.</td><td>865-719-4330</td><td><a href="http://www.flybyniteevents.com/">Website</a></td>&#10;				</tr><tr><td>Texas</td><td>Dallas</td><td>10/12/2002</td><td>1</td><td>Ramada Inn - Texas Stadium</td><td>1055 Regal Row</td><td>316-946-1055</td><td><a href="http://www.aussiefox.com/">Website</a></td>&#10;				</tr><tr><td>Texas</td><td>Houston</td><td>10/12/2002</td><td>1</td><td>Midnight Comics</td><td>13711 Westheimer, Suite Q</td><td>713-569-3936</td><td><a href="http://www.ehevents.com/">Website</a></td>&#10;				</tr><tr><td>Virginia</td><td>Richmond</td><td>9/15/2002</td><td>1</td><td>T.A.G. Ltd.</td><td>7217 Stonewall Pkwy., Mechanicsville, VA</td><td>540-362-4400</td><td><a href="http://www.starcitygames.com/">Website</a></td>&#10;				</tr><tr><td>Wisconsin</td><td>Madison</td><td>10/5/2002</td><td>1</td><td>Misty Mountain Games &amp; Diversions</td><td>4526 Monona Dr.</td><td>877-853-4466</td><td><a href="http://www.mistymountaingames.com/">Website</a></td>&#10;				</tr><tr><td>Wisconsin</td><td>Milwaukee</td><td>8/8/2002</td><td>1</td><td>GenCon - Milwaukee Midwest Express Center</td><td>400 W. Wisconsin Ave.</td><td>877-913-8881</td><td><a href="http://www.professional-events.com/">Website</a></td>&#10;				</tr></tbody></table>

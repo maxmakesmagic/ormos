@@ -1,0 +1,67 @@
+---
+id: 0v6c036a
+kind: article
+lang: en
+path: /en/articles/buildingonabudget/2009/12-15-2009-magic-online-player-of-the-year-standings
+title: 2009 Magic Online Player of the Year Standings
+published: '2009-12-15'
+column_slug: buildingonabudget
+column: Building on a Budget
+authors:
+- slug: wizardsofthecoast
+  name: Wizards of the Coast
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/building-budget/2009-magic-online-player-year-standings-2009-12-15-0
+    lang_detected: en
+    capture_id: 233609
+    url: https://magic.wizards.com/en/articles/archive/building-budget/2009-magic-online-player-year-standings-2009-12-15-0
+    captured_at: '2022-01-25 07:39:29+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/building-budget/2009-magic-online-player-year-standings-2009-12-15-0
+    lang_detected: en
+    capture_id: 233609
+    url: https://magic.wizards.com/en/articles/archive/building-budget/2009-magic-online-player-year-standings-2009-12-15-0
+    captured_at: '2022-01-25 07:39:29+00'
+    rule: drupal.posted_in_date
+  authors:
+    page_key: magic.wizards.com/en/articles/archive/building-budget/2009-magic-online-player-year-standings-2009-12-15-0
+    lang_detected: en
+    capture_id: 233609
+    url: https://magic.wizards.com/en/articles/archive/building-budget/2009-magic-online-player-year-standings-2009-12-15-0
+    captured_at: '2022-01-25 07:39:29+00'
+    rule: drupal.div_author
+  column:
+    page_key: magic.wizards.com/en/articles/archive/building-budget/2009-magic-online-player-year-standings-2009-12-15-0
+    lang_detected: en
+    capture_id: 233609
+    url: https://magic.wizards.com/en/articles/archive/building-budget/2009-magic-online-player-year-standings-2009-12-15-0
+    captured_at: '2022-01-25 07:39:29+00'
+    rule: url.article_section
+sources:
+- document_id: 0v6c036a
+  url: https://magic.wizards.com/en/articles/archive/building-budget/2009-magic-online-player-year-standings-2009-12-15-0
+  page_key: magic.wizards.com/en/articles/archive/building-budget/2009-magic-online-player-year-standings-2009-12-15-0
+  lang: en
+  template: drupal
+  captured_at: '2022-01-25 07:39:29+00'
+  capture_id: 233609
+  wayback_url: https://web.archive.org/web/20220125073929id_/https://magic.wizards.com/en/articles/archive/building-budget/2009-magic-online-player-year-standings-2009-12-15-0
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 0v6c036a
+  capture_id: 233609
+  url: https://magic.wizards.com/en/articles/archive/building-budget/2009-magic-online-player-year-standings-2009-12-15-0
+  wayback_url: https://web.archive.org/web/20220125073929id_/https://magic.wizards.com/en/articles/archive/building-budget/2009-magic-online-player-year-standings-2009-12-15-0
+  captured_at: '2022-01-25 07:39:29+00'
+  template: drupal
+  sha256: 2ee86464301449de750db16cbc58718e2e6b51ea11809445827afcf3a950fbaa
+render_recovery: []
+---
+### Classic
+
+In recognition of the end of the first Player of the Year season, we would like to offer top finishers some free drafts to relax with now that the race is over. As the week following the conclusion of the 2009 MOCS features OLS Nix Tix, we will be granting boosters (an equal amount of *Onslaught*, *Legions*, and *Scourge*) to the top finishers shown below.
+
+<table><tbody><tr><td><b>Place</b></td><td><b>Username</b></td><td><b>Points</b></td><td><b>Boosters</b></td>&#10;				</tr><tr><td>1</td><td>AthosTheMusketeer</td><td>93</td><td>9</td>&#10;				</tr><tr><td>2</td><td>prolepsis9</td><td>92</td><td>9</td>&#10;				</tr><tr><td>3</td><td>dunkle_stille</td><td>74</td><td>9</td>&#10;				</tr><tr><td>4</td><td>Ace of Drafts</td><td>53</td><td>9</td>&#10;				</tr><tr><td>5</td><td>m0x</td><td>41</td><td>6</td>&#10;				</tr><tr><td>6</td><td>jimdownside</td><td>34</td><td>6</td>&#10;				</tr><tr><td>7</td><td>AndersT</td><td>30</td><td>6</td>&#10;				</tr><tr><td>7</td><td>Kerrick_</td><td>30</td><td>6</td>&#10;				</tr><tr><td>7</td><td>Wizard not of the Coast</td><td>30</td><td>6</td>&#10;				</tr><tr><td>10</td><td>TheThirdMoon</td><td>25</td><td>3</td>&#10;				</tr><tr><td>11</td><td>rukcus</td><td>24</td><td>3</td>&#10;				</tr><tr><td>11</td><td>SICKSICKSICKSICKSICKSICKSICK</td><td>24</td><td>3</td>&#10;				</tr><tr><td>13</td><td>whiffy penguin</td><td>23</td><td> </td>&#10;				</tr><tr><td>14</td><td>Bazaar of Baghdad</td><td>22</td><td> </td>&#10;				</tr><tr><td>14</td><td>xkorpio</td><td>22</td><td> </td>&#10;				</tr><tr><td>16</td><td>Matkel</td><td>21</td><td> </td>&#10;				</tr><tr><td>16</td><td>siewca_wiatru</td><td>21</td><td> </td>&#10;				</tr><tr><td>16</td><td>tallandskinnyman</td><td>21</td><td> </td>&#10;				</tr><tr><td>19</td><td>eddie112</td><td>20</td><td> </td>&#10;				</tr><tr><td>20</td><td>JXClaytor</td><td>19</td><td> </td>&#10;				</tr><tr><td>20</td><td>Samwise_GeeGee</td><td>19</td><td> </td>&#10;				</tr><tr><td>22</td><td>Javasci</td><td>17</td><td> </td>&#10;				</tr><tr><td>23</td><td>DampingEngine</td><td>16</td><td> </td>&#10;				</tr><tr><td>23</td><td>TheUsualSuspect</td><td>16</td><td> </td>&#10;				</tr><tr><td>25</td><td>sneakattackkid</td><td>15</td><td> </td>&#10;				</tr><tr><td>26</td><td>M E L K O R</td><td>14</td><td> </td>&#10;				</tr><tr><td>26</td><td>nofxdarkside2</td><td>14</td><td> </td>&#10;				</tr><tr><td>28</td><td>Beckman</td><td>13</td><td> </td>&#10;				</tr><tr><td>28</td><td>FatManInALittleCoat</td><td>13</td><td> </td>&#10;				</tr><tr><td>28</td><td>Kikiijiki</td><td>13</td><td> </td>&#10;				</tr><tr><td>28</td><td>MtgCollector</td><td>13</td><td> </td>&#10;				</tr><tr><td>28</td><td>thekid</td><td>13</td><td> </td>&#10;				</tr><tr><td>33</td><td>sansantong</td><td>12</td><td> </td>&#10;				</tr><tr><td>34</td><td>Calavera</td><td>11</td><td> </td>&#10;				</tr><tr><td>34</td><td>GeMeister</td><td>11</td><td> </td>&#10;				</tr><tr><td>34</td><td>PDiddy</td><td>11</td><td> </td>&#10;				</tr><tr><td>34</td><td>Pumbles Mumbles</td><td>11</td><td> </td>&#10;				</tr><tr><td>38</td><td>bozidar2121</td><td>10</td><td> </td>&#10;				</tr><tr><td>38</td><td>Davorac</td><td>10</td><td> </td>&#10;				</tr><tr><td>38</td><td>Suczi</td><td>10</td><td> </td>&#10;				</tr><tr><td>41</td><td>dubz1337</td><td>9</td><td> </td>&#10;				</tr><tr><td>41</td><td>JJonasN</td><td>9</td><td> </td>&#10;				</tr><tr><td>41</td><td>Kaxon</td><td>9</td><td> </td>&#10;				</tr><tr><td>41</td><td>osmanozguney</td><td>9</td><td> </td>&#10;				</tr><tr><td>41</td><td>RenatoAmado</td><td>9</td><td> </td>&#10;				</tr><tr><td>41</td><td>RogueDesigner</td><td>9</td><td> </td>&#10;				</tr><tr><td>47</td><td>Bingo_bongo</td><td>7</td><td> </td>&#10;				</tr><tr><td>47</td><td>DynamicDoogle</td><td>7</td><td> </td>&#10;				</tr><tr><td>47</td><td>jarund</td><td>7</td><td> </td>&#10;				</tr><tr><td>47</td><td>jaspws344</td><td>7</td><td> </td>&#10;				</tr><tr><td>47</td><td>JavierLuna</td><td>7</td><td> </td>&#10;				</tr><tr><td>47</td><td>prof.chaos</td><td>7</td><td> </td>&#10;				</tr><tr><td>47</td><td>scoot</td><td>7</td><td> </td>&#10;				</tr><tr><td>47</td><td>TheBizzar</td><td>7</td><td> </td>&#10;				</tr><tr><td>47</td><td>yorick</td><td>7</td><td> </td>&#10;				</tr><tr><td>56</td><td>Bear Named Snuffy</td><td>6</td><td> </td>&#10;				</tr><tr><td>56</td><td>Blade</td><td>6</td><td> </td>&#10;				</tr><tr><td>56</td><td>DragonRider</td><td>6</td><td> </td>&#10;				</tr><tr><td>56</td><td>eggraid</td><td>6</td><td> </td>&#10;				</tr><tr><td>56</td><td>FishyFellow</td><td>6</td><td> </td>&#10;				</tr><tr><td>56</td><td>forthemagic</td><td>6</td><td> </td>&#10;				</tr><tr><td>56</td><td>IntoTheRain</td><td>6</td><td> </td>&#10;				</tr><tr><td>56</td><td>Marc_1978</td><td>6</td><td> </td>&#10;				</tr><tr><td>56</td><td>Mattalic</td><td>6</td><td> </td>&#10;				</tr><tr><td>56</td><td>Naoto</td><td>6</td><td> </td>&#10;				</tr><tr><td>56</td><td>rinazina</td><td>6</td><td> </td>&#10;				</tr><tr><td>56</td><td>savagebeatdown</td><td>6</td><td> </td>&#10;				</tr><tr><td>56</td><td>squirrel1231</td><td>6</td><td> </td>&#10;				</tr><tr><td>56</td><td>stabel</td><td>6</td><td> </td>&#10;				</tr><tr><td>56</td><td>thatsme</td><td>6</td><td> </td>&#10;				</tr><tr><td>56</td><td>theobill</td><td>6</td><td> </td>&#10;				</tr><tr><td>56</td><td>Tulio_Jaudy</td><td>6</td><td> </td>&#10;				</tr><tr><td>56</td><td>walkerdog</td><td>6</td><td> </td>&#10;				</tr><tr><td>56</td><td>ZZZSAN</td><td>6</td><td> </td>&#10;				</tr><tr><td>75</td><td>cdiegor</td><td>5</td><td> </td>&#10;				</tr><tr><td>75</td><td>Jeff Winters</td><td>5</td><td> </td>&#10;				</tr><tr><td>75</td><td>slearch</td><td>5</td><td> </td>&#10;				</tr><tr><td>75</td><td>ZeroUnlimited</td><td>5</td><td> </td>&#10;				</tr><tr><td>79</td><td>2005tazylua</td><td>4</td><td> </td>&#10;				</tr><tr><td>79</td><td>AndersMar</td><td>4</td><td> </td>&#10;				</tr><tr><td>79</td><td>Bard_Taliesin</td><td>4</td><td> </td>&#10;				</tr><tr><td>79</td><td>Chimney Imp</td><td>4</td><td> </td>&#10;				</tr><tr><td>79</td><td>djkensai</td><td>4</td><td> </td>&#10;				</tr><tr><td>79</td><td>intherain</td><td>4</td><td> </td>&#10;				</tr><tr><td>79</td><td>jontoft</td><td>4</td><td> </td>&#10;				</tr><tr><td>79</td><td>kane732</td><td>4</td><td> </td>&#10;				</tr><tr><td>79</td><td>mabgot7</td><td>4</td><td> </td>&#10;				</tr><tr><td>79</td><td>sandydogmtg</td><td>4</td><td> </td>&#10;				</tr><tr><td>79</td><td>SorryMsJackson</td><td>4</td><td> </td>&#10;				</tr><tr><td>79</td><td>the_crisp_one</td><td>4</td><td> </td>&#10;				</tr><tr><td>79</td><td>Tilt1983</td><td>4</td><td> </td>&#10;				</tr><tr><td>79</td><td>Timthehappy</td><td>4</td><td> </td>&#10;				</tr><tr><td>79</td><td>Trezpan</td><td>4</td><td> </td>&#10;				</tr><tr><td>79</td><td>Winston Smith</td><td>4</td><td> </td>&#10;				</tr><tr><td>79</td><td>zoranc</td><td>4</td><td> </td>&#10;				</tr><tr><td>96</td><td>alaskakid</td><td>3</td><td> </td>&#10;				</tr><tr><td>96</td><td>BrazilianDeadpool</td><td>3</td><td> </td>&#10;				</tr><tr><td>96</td><td>BugstepperToren</td><td>3</td><td> </td>&#10;				</tr><tr><td>96</td><td>COBuffs</td><td>3</td><td> </td>&#10;				</tr><tr><td>96</td><td>Danker</td><td>3</td><td> </td>&#10;				</tr><tr><td>96</td><td>DougieP</td><td>3</td><td> </td>&#10;				</tr><tr><td>96</td><td>Emeraldas</td><td>3</td><td> </td>&#10;				</tr><tr><td>96</td><td>fifey157</td><td>3</td><td> </td>&#10;				</tr><tr><td>96</td><td>gamemaster32</td><td>3</td><td> </td>&#10;				</tr><tr><td>96</td><td>GerryT</td><td>3</td><td> </td>&#10;				</tr><tr><td>96</td><td>ImpinAintEasy</td><td>3</td><td> </td>&#10;				</tr><tr><td>96</td><td>in5ano</td><td>3</td><td> </td>&#10;				</tr><tr><td>96</td><td>Jernhoeg</td><td>3</td><td> </td>&#10;				</tr><tr><td>96</td><td>Judah</td><td>3</td><td> </td>&#10;				</tr><tr><td>96</td><td>KwaaartzZ</td><td>3</td><td> </td>&#10;				</tr><tr><td>96</td><td>LalauWBA</td><td>3</td><td> </td>&#10;				</tr><tr><td>96</td><td>lanomike</td><td>3</td><td> </td>&#10;				</tr><tr><td>96</td><td>Lukinhas</td><td>3</td><td> </td>&#10;				</tr><tr><td>96</td><td>manu_chao</td><td>3</td><td> </td>&#10;				</tr><tr><td>96</td><td>meerkatj</td><td>3</td><td> </td>&#10;				</tr><tr><td>96</td><td>MilkShake75</td><td>3</td><td> </td>&#10;				</tr><tr><td>96</td><td>millennium9999</td><td>3</td><td> </td>&#10;				</tr><tr><td>96</td><td>Mishras Sweatshop</td><td>3</td><td> </td>&#10;				</tr><tr><td>96</td><td>Mowbli_Cat</td><td>3</td><td> </td>&#10;				</tr><tr><td>96</td><td>ncnxwrwk</td><td>3</td><td> </td>&#10;				</tr><tr><td>96</td><td>NimbleRooster</td><td>3</td><td> </td>&#10;				</tr><tr><td>96</td><td>obv</td><td>3</td><td> </td>&#10;				</tr><tr><td>96</td><td>opradvo</td><td>3</td><td> </td>&#10;				</tr><tr><td>96</td><td>PerfectPerfection</td><td>3</td><td> </td>&#10;				</tr><tr><td>96</td><td>petkos</td><td>3</td><td> </td>&#10;				</tr><tr><td>96</td><td>Playable</td><td>3</td><td> </td>&#10;				</tr><tr><td>96</td><td>reqsamurai</td><td>3</td><td> </td>&#10;				</tr><tr><td>96</td><td>ROLLED</td><td>3</td><td> </td>&#10;				</tr><tr><td>96</td><td>runeliger</td><td>3</td><td> </td>&#10;				</tr><tr><td>96</td><td>Sabberlod</td><td>3</td><td> </td>&#10;				</tr><tr><td>96</td><td>sandman1939</td><td>3</td><td> </td>&#10;				</tr><tr><td>96</td><td>speks</td><td>3</td><td> </td>&#10;				</tr><tr><td>96</td><td>Stasisffxi</td><td>3</td><td> </td>&#10;				</tr><tr><td>96</td><td>subzero9700</td><td>3</td><td> </td>&#10;				</tr><tr><td>96</td><td>Sunfish</td><td>3</td><td> </td>&#10;				</tr><tr><td>96</td><td>Thallid</td><td>3</td><td> </td>&#10;				</tr><tr><td>96</td><td>TheWilddog</td><td>3</td><td> </td>&#10;				</tr><tr><td>96</td><td>Tommstok</td><td>3</td><td> </td>&#10;				</tr><tr><td>96</td><td>Vainis</td><td>3</td><td> </td>&#10;				</tr><tr><td>96</td><td>Vicalis</td><td>3</td><td> </td>&#10;				</tr><tr><td>96</td><td>vpgorman</td><td>3</td><td> </td>&#10;				</tr><tr><td>96</td><td>WhiteTig3r</td><td>3</td><td> </td>&#10;				</tr><tr><td>96</td><td>wickedrh</td><td>3</td><td> </td>&#10;				</tr><tr><td>96</td><td>X_0m3G4_X</td><td>3</td><td> </td>&#10;				</tr><tr><td>96</td><td>YCBurninator</td><td>3</td><td> </td>&#10;				</tr></tbody></table>

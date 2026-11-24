@@ -1,0 +1,63 @@
+---
+id: c9q2nfb1
+kind: event
+lang: sna
+path: /sna/events/2011/gphir11/grand-prix-hiroshima-2011-round-13-pairings
+title: Grand Prix Hiroshima 2011 Round 13 Pairings
+published: '2011-10-30'
+column_slug: null
+column: null
+authors: []
+event_code: gphir11
+detected_lang: sna
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-hiroshima-2011-round-13-pairings-2011-10-30
+    lang_detected: sna
+    capture_id: 401435
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-hiroshima-2011-round-13-pairings-2011-10-30
+    captured_at: '2021-10-19 15:50:47+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-hiroshima-2011-round-13-pairings-2011-10-30
+    lang_detected: sna
+    capture_id: 401435
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-hiroshima-2011-round-13-pairings-2011-10-30
+    captured_at: '2021-10-19 15:50:47+00'
+    rule: drupal.posted_in_date
+  event_code:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gphir11/pair13
+    lang_detected: sna
+    capture_id: 428244
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gphir11/pair13
+    captured_at: '2013-07-01 07:54:39+00'
+    rule: url.event_code
+sources:
+- document_id: c9q2nfb1
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-hiroshima-2011-round-13-pairings-2011-10-30
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-hiroshima-2011-round-13-pairings-2011-10-30
+  lang: sna
+  template: drupal
+  captured_at: '2021-10-19 15:50:47+00'
+  capture_id: 401435
+  wayback_url: https://web.archive.org/web/20211019155047id_/https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-hiroshima-2011-round-13-pairings-2011-10-30
+- document_id: c9q2nfb1
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gphir11/pair13
+  page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gphir11/pair13
+  lang: sna
+  template: aspx
+  captured_at: '2013-07-01 07:54:39+00'
+  capture_id: 428244
+  wayback_url: https://web.archive.org/web/20130701075439id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gphir11/pair13
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: c9q2nfb1
+  capture_id: 401435
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-hiroshima-2011-round-13-pairings-2011-10-30
+  wayback_url: https://web.archive.org/web/20211019155047id_/https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-hiroshima-2011-round-13-pairings-2011-10-30
+  captured_at: '2021-10-19 15:50:47+00'
+  template: drupal
+  sha256: e80e0ace45663381a0e8c002f71163d07113dd8013e17392563976d7b6819251
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Points</b></td><td><b>&#10;						</b></td><td><b>Opponent</b></td><td><b>Points</b></td></tr><tr><td> 1</td><td>Onizuka, Hiroshi</td><td> 33</td><td>vs.</td><td>Juza, Martin</td><td> 33</td></tr><tr><td> 2</td><td>Shiraki, Takahiro</td><td> 33</td><td>vs.</td><td>Satou, Rin</td><td> 33</td></tr><tr><td> 3</td><td>Iwasaki, Yuusuke</td><td> 33</td><td>vs.</td><td>Asahara, Akira</td><td> 31</td></tr><tr><td> 4</td><td>Pham, Daniel H</td><td> 30</td><td>vs.</td><td>Oiso, Masashi</td><td> 30</td></tr><tr><td> 5</td><td>Yamasaki, Yoshitaka</td><td> 30</td><td>vs.</td><td>Naoki O.</td><td> 30</td></tr><tr><td> 6</td><td>Sasaki, Tsutomu</td><td> 30</td><td>vs.</td><td>Nakazono, Kouya</td><td> 30</td></tr><tr><td> 7</td><td>Nonaka, Kentarou</td><td> 30</td><td>vs.</td><td>Takahashi, Yuuta</td><td> 30</td></tr><tr><td> 8</td><td>Akimasa Y.</td><td> 30</td><td>vs.</td><td>Hirayama, Atsushi</td><td> 30</td></tr><tr><td> 9</td><td>Hiraga, Masahiro</td><td> 30</td><td>vs.</td><td>Jen, Chien-Ming</td><td> 30</td></tr><tr><td> 10</td><td>Kameyama, Takeshi</td><td> 30</td><td>vs.</td><td>Ikawa, Yoshihiko</td><td> 30</td></tr><tr><td> 11</td><td>Tashiro, Kouichi</td><td> 30</td><td>vs.</td><td>Shimizu, Naoki</td><td> 30</td></tr><tr><td> 12</td><td>Sui, Xin</td><td> 30</td><td>vs.</td><td>Senba, Koutarou</td><td> 30</td></tr><tr><td> 13</td><td>Tanaka, Kouichi</td><td> 30</td><td>vs.</td><td>Motiki A.</td><td> 28</td></tr><tr><td> 14</td><td>Hirabayashi, Kazuya</td><td> 28</td><td>vs.</td><td>Sakamoto, Sakito</td><td> 27</td></tr><tr><td> 15</td><td>Endou, Ryouta</td><td> 27</td><td>vs.</td><td>Wada, Hiroya</td><td> 27</td></tr><tr><td> 16</td><td>Kuwahara, Yoshiki</td><td> 27</td><td>vs.</td><td>Nakano, Yoshitaka</td><td> 27</td></tr><tr><td> 17</td><td>Yasuda, Masayuki</td><td> 27</td><td>vs.</td><td>Matsumura, Toshikazu</td><td> 27</td></tr><tr><td> 18</td><td>Ueyama, Yuji</td><td> 27</td><td>vs.</td><td>Nakajima, Chikara</td><td> 27</td></tr><tr><td> 19</td><td>Hitomi, Masaaki</td><td> 27</td><td>vs.</td><td>Kawamura, Kazushi</td><td> 27</td></tr><tr><td> 20</td><td>Terada, Shuuhei</td><td> 27</td><td>vs.</td><td>Sasaki, Yuusuke</td><td> 27</td></tr><tr><td> 21</td><td>Hiroshi I.</td><td> 27</td><td>vs.</td><td>Abe, Keisuke</td><td> 27</td></tr><tr><td> 22</td><td>Oohashi, Toshiya</td><td> 27</td><td>vs.</td><td>Morofuji, Takuma</td><td> 27</td></tr><tr><td> 23</td><td>Ami, Souichirou</td><td> 27</td><td>vs.</td><td>Takagi, Takeshi</td><td> 27</td></tr><tr><td> 24</td><td>Yamauchi, Satoshi</td><td> 27</td><td>vs.</td><td>Saitou, Takaya</td><td> 27</td></tr><tr><td> 25</td><td>Morita, Masahiko</td><td> 27</td><td>vs.</td><td>Kamo, Riki</td><td> 27</td></tr><tr><td> 26</td><td>Inoue, Tooru</td><td> 27</td><td>vs.</td><td>Matsuo, Yoshiyuki</td><td> 27</td></tr><tr><td> 27</td><td>Takebayashi, Tomo</td><td> 27</td><td>vs.</td><td>Ootsuka, Koutarou</td><td> 27</td></tr><tr><td> 28</td><td>Sugaya, Hironobu</td><td> 27</td><td>vs.</td><td>Nishizawa, Yasuhide</td><td> 27</td></tr><tr><td> 29</td><td>Tsumura, Kenji</td><td> 27</td><td>vs.</td><td>Ino, Kentarou</td><td> 27</td></tr><tr><td> 30</td><td>Ichikawa, Norikazu</td><td> 27</td><td>vs.</td><td>Murakami, Kazuya</td><td> 27</td></tr><tr><td> 31</td><td>Nakano, Tatsuhito</td><td> 27</td><td>vs.</td><td>Yamaguchi, Satoshi</td><td> 25</td></tr><tr><td> 32</td><td>Yanase, Kaname</td><td> 25</td><td>vs.</td><td>Honnami, Tomoyuki</td><td> 25</td></tr><tr><td> 33</td><td>Hiyoshi, Tastuhiko</td><td> 25</td><td>vs.</td><td>Akiyama, Takashi</td><td> 25</td></tr><tr><td> 34</td><td>Terauchi, Tatsuya</td><td> 24</td><td>vs.</td><td>Uchida, Momotarou</td><td> 24</td></tr><tr><td> 35</td><td>Miyata, Yuuya</td><td> 24</td><td>vs.</td><td>Naitou, Takashi</td><td> 24</td></tr><tr><td> 36</td><td>Hoshino, Masaaki</td><td> 24</td><td>vs.</td><td>Watanabe, Yuuya</td><td> 24</td></tr><tr><td> 37</td><td>Fujimoto, Takehiro</td><td> 24</td><td>vs.</td><td>Kanno, Masayoshi</td><td> 24</td></tr><tr><td> 38</td><td>Satou, Takashi</td><td> 24</td><td>vs.</td><td>Nakamura, Jun'ya</td><td> 24</td></tr><tr><td> 39</td><td>Moriya, Toshihiko</td><td> 24</td><td>vs.</td><td>Takeuchi, Ryouta</td><td> 24</td></tr><tr><td> 40</td><td>Imai, Satoshi</td><td> 24</td><td>vs.</td><td>Inoue, Shinta</td><td> 24</td></tr><tr><td> 41</td><td>Brumby, Gene</td><td> 24</td><td>vs.</td><td>Hiramatsu, Mamoru</td><td> 24</td></tr><tr><td> 42</td><td>Takahasshi, Kazuya</td><td> 24</td><td>vs.</td><td>Yamaguchi, Koutarou</td><td> 24</td></tr><tr><td> 43</td><td>Koyama, Yuuzi</td><td> 24</td><td>vs.</td><td>Takao, Shouta</td><td> 24</td></tr><tr><td> 44</td><td>Mori, Katsuhiro</td><td> 24</td><td>vs.</td><td>Sunaga, Masahiro</td><td> 24</td></tr><tr><td> 45</td><td>Kenta S.</td><td> 24</td><td>vs.</td><td>Shimada, Masahiko</td><td> 24</td></tr><tr><td> 46</td><td>Miura, Yuuki</td><td> 24</td><td>vs.</td><td>Harano, Takahiro</td><td> 24</td></tr><tr><td> 47</td><td>Matsuda, Tomohiro</td><td> 24</td><td>vs.</td><td>Iwaide, Yoshitaka</td><td> 24</td></tr><tr><td> 48</td><td>Oosawa, Jun</td><td> 22</td><td>vs.</td><td>Tasaki, Yasuhiro</td><td> 21</td></tr><tr><td> 49</td><td>Ogura, Takamasa</td><td> 21</td><td>vs.</td><td>Yuuya Y.</td><td> 21</td></tr><tr><td> 50</td><td>Kitayama, Masaya</td><td> 21</td><td>vs.</td><td>Kumazaki, Taisuke</td><td> 21</td></tr><tr><td> 51</td><td>Itou, Tomoya</td><td> 21</td><td>vs.</td><td>Sakai, Yoshitoki</td><td> 21</td></tr></tbody></table>
