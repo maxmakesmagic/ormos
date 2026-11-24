@@ -1,0 +1,1479 @@
+---
+id: ttmgqqkt
+kind: event
+lang: en
+path: /en/articles/event-coverage/2009/05-30-grand-prix-seatle-tacoma-day-1-archive
+title: 'Grand-Prix Seatle-Tacoma: Day 1 Archive'
+published: '2009-05-30'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtg_daily_eventcoverage_gpsea09_day1
+    lang_detected: en
+    capture_id: 724826
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg_daily_eventcoverage_gpsea09_day1
+    captured_at: '2009-06-03 13:43:29+00'
+    rule: aspx.article_heading
+  published:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtg_daily_eventcoverage_gpsea09_day1
+    lang_detected: en
+    capture_id: 724826
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg_daily_eventcoverage_gpsea09_day1
+    captured_at: '2009-06-03 13:43:29+00'
+    rule: aspx.byline_date
+sources:
+- document_id: ttmgqqkt
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg_daily_eventcoverage_gpsea09_day1
+  page_key: wizards.com/magic/magazine/article.aspx?x=mtg_daily_eventcoverage_gpsea09_day1
+  lang: en
+  template: aspx
+  captured_at: '2009-06-03 13:43:29+00'
+  capture_id: 724826
+  wayback_url: https://web.archive.org/web/20090603134329id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg_daily_eventcoverage_gpsea09_day1
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: ttmgqqkt
+  capture_id: 724826
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg_daily_eventcoverage_gpsea09_day1
+  wayback_url: https://web.archive.org/web/20090603134329id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg_daily_eventcoverage_gpsea09_day1
+  captured_at: '2009-06-03 13:43:29+00'
+  template: aspx
+  sha256: e60dc2779d186c978e0831c2d7848bfa13e47ec96f9e0711c749237496b69465
+render_recovery:
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Raven[s_Crime')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Raven’s Crime
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Fire-Lit_Thicket')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Fire-Lit Thicket
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Forest')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Forest
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Karplusan_Forest')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Karplusan Forest
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mosswort_Bridge')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mosswort Bridge
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mountain')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mountain
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Birds_of_Paradise')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Birds of Paradise
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Bloodbraid_Elf')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Bloodbraid Elf
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Boartusk_Liege')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Boartusk Liege
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Elvish_Champion')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Elvish Champion
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Figure_of_Destiny')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Figure of Destiny
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Llanowar_Elves')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Llanowar Elves
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Talara[s_Battalion')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Talara's Battalion
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Taurean_Mauler')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Taurean Mauler
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Vexing_Shusher')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Vexing Shusher
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Incinerate')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Incinerate
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sarkhan_Vol')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sarkhan Vol
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Cloudthresher')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Cloudthresher
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Everlasting_Torment')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Everlasting Torment
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Primal_Command')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Primal Command
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Thorn_of_Amethyst')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Thorn of Amethyst
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Volcanic_Fallout')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Volcanic Fallout
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Tattermunge_Maniac')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Tattermunge Maniac
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mogg_Fanatic')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mogg Fanatic
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Boggart_Ram-Gang')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Boggart Ram-Gang
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Fieldmist_Borderpost')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Fieldmist Borderpost
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Seismic_Assault')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Seismic Assault
+  occurrences: 8
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Pithing_Needle')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Pithing Needle
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Windborn_Muse')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Windborn Muse
+  occurrences: 2
+- code: unsupported_link
+  element: a
+  target: javascript:autoCardWindow2('Wrath_of_God','')
+  reason: The archived link runs JavaScript. The preview kept its text.
+  labels:
+  - Wrath
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Reveillark')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Reveillark
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mulldrifter')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mulldrifter
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Runed_Halo')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Runed Halo
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Maelstrom_Pulse')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Maelstrom Pulse
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Colossal_Might')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Colossal Might
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Meddling_Mage')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Meddling Mage
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Noble_Hierarch')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Noble Hierarch
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Knotvine_Paladin')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Knotvine Paladin
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Vivid_Crag')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Vivid Crag
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Treefolk_Harbinger')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Treefolk Harbinger
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Broken_Ambitions')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Broken Ambitions
+  occurrences: 10
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kitchen_Finks')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kitchen Finks
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Path_to_Exile')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Path to Exile
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Murmuring_Bosk')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Murmuring Bosk
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Hallowed_Burial')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Hallowed Burial
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Wilt-Leaf_Liege')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Wilt-Leaf Liege
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Plumeveil')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Plumeveil
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Broodmate_Dragon')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Broodmate Dragon
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Cryptic_Command')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Cryptic Command
+  occurrences: 11
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Knotvine_Mystic')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Knotvine Mystic
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Treetop_Village')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Treetop Village
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Esper_Charm')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Esper Charm
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Remove_Soul')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Remove Soul
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Secluded_Glen')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Secluded Glen
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Bitterblossom')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Bitterblossom
+  occurrences: 8
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Scion_of_Oona')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Scion of Oona
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Thoughtseize')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Thoughtseize
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Spellstutter_Sprite')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Spellstutter Sprite
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mutavault')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mutavault
+  occurrences: 17
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mistbind_Clique')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mistbind Clique
+  occurrences: 9
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Flashfreeze')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Flashfreeze
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Faerie_Conclave')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Faerie Conclave
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Windbrisk_Heights')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Windbrisk Heights
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Spectral_Procession')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Spectral Procession
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Terror')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Terror
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Wren[s_Run_Vanquisher')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Wren’s Run Vanquisher
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Chameleon_Colossus')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Chameleon Colossus
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Jace_Beleren')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Jace Beleren
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Puppeteer_Clique')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Puppeteer Clique
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Vanquish')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Vanquish
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Cruel_Ultimatum')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Cruel Ultimatum
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Goldmeadow_Stalwart')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Goldmeadow Stalwart
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Wizened_Cenn')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Wizened Cenn
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Swans_of_Bryn_Argoll')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Swans of Bryn Argoll
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Knight_of_Meadowgrain')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Knight of Meadowgrain
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Spinerock_Knoll')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Spinerock Knoll
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Aura_of_Silence')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Aura of Silence
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Reflecting_Pool')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Reflecting Pool
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Burrenton_Forge-Tender')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Burrenton Forge-Tender
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('The_Fallen')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - The Fallen
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Tromp_the_Domains')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Tromp the Domains
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Painter[s_Servant')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Painter’s Servant
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Tendrils_of_Corruption')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Tendrils of Corruption
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Blood_Moon')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Blood Moon
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Magus_of_the_Moon')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Magus of the Moon
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Earthquake')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Earthquake
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Disrupt')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Disrupt
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Scepter_of_Fugue')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Scepter of Fugue
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Oblivion_Ring')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Oblivion Ring
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Armillary_Sphere')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Armillary Sphere
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Virulent_Sliver')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Virulent Sliver
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Lightning_Angel')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Lightning Angel
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Fulminator_Mage')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Fulminator Mage
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Tidehollow_Sculler')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Tidehollow Sculler
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Covetous_Dragon')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Covetous Dragon
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Lin_Sivvi,_Defiant_Hero')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Lin Sivvi, Defiant Hero
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Simic_Sky_Swallower')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Simic Sky Swallower
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Morphling')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Morphling
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Haunting_Hymn')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Haunting Hymn
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Worship')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Worship
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Zur[s_Weirding')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Zur’s Weirding
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Serendib_Efreet')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Serendib Efreet
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sengir_Vampire')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sengir Vampire
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Nekrataal')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Nekrataal
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Loxodon_Warhammer')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Loxodon Warhammer
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Deathmark')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Deathmark
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Putrid_Leech')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Putrid Leech
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sower_of_Temptation')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sower of Temptation
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Nameless_Inversion')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Nameless Inversion
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Jund_Charm')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Jund Charm
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Magma_Spray')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Magma Spray
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Civic_Wayfinder')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Civic Wayfinder
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Agony_Warp')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Agony Warp
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Smash')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Smash
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Anathemancer')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Anathemancer
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Behemoth_Sledge')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Behemoth Sledge
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Murderous_Redcap')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Murderous Redcap
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Infest')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Infest
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sygg')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sygg
+  occurrences: 1
+---
+  
+  
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <b>EVENT COVERAGE</b>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <ul>&#10;        <br>&#10;        <li>&#10;          <div>&#10;            <i>by Brian David-Marshall</i>&#10;          </div>&#10;          <a href="#15">Saturday, 9:55p.m.</a>&#10;          <div>Round Nine Undefeated Round Up</div>&#10;          <br>&#10;        </li>&#10;        <li>&#10;          <div>&#10;            <i>by Rich Hagon</i>&#10;          </div>&#10;          <a href="#14">Feature Matches</a>: Round 9 <div>Gabriel Nassif vs. Luis Scott-Vargas</div><div>Tomaharu Saitou vs. AJ Sacher</div><br></li>&#10;        <li>&#10;          <div>&#10;            <i>by Brian David-Marshall</i>&#10;          </div>&#10;          <a href="#13">Feature Match</a>: Round 8 <div>Manuel Bucher vs. Paulo Vitor Damo da Rosa</div><br></li>&#10;        <li>&#10;          <div>&#10;            <i>by Rich Hagon</i>&#10;          </div>&#10;          <a href="#12">Saturday, 7:05pm</a>: <div>Art versus Art</div><br></li>&#10;        <li>&#10;          <div>&#10;            <i>by Rich Hagon</i>&#10;          </div>&#10;          <a href="#11">Feature Match</a>: Round 7 <div>Sean McKeown vs. Joel Calafell</div><br></li>&#10;        <li>&#10;          <div>&#10;            <i>by Brian David-Marshall</i>&#10;          </div>&#10;          <a href="#10">Feature Match</a>: Round 6 <div>Sam Black vs. Gabriel Nassif</div><br></li>&#10;        <li>&#10;          <div>&#10;            <i>by Rich Hagon</i>&#10;          </div>&#10;          <a href="#9">Saturday, 4:58 p.m.</a>&#10;          <div>Three Metagames</div>&#10;          <br>&#10;        </li>&#10;        <li>&#10;          <div>&#10;            <i>by Rich Hagon</i>&#10;          </div>&#10;          <a href="#8">Feature Match</a>: Round 5 <div>Luis Scott-Vargas vs Dan Lanthier</div><br></li>&#10;        <li>&#10;          <div>&#10;            <i>by Brian David-Marshall</i>&#10;          </div>&#10;          <a href="#7">Feature Match</a>: Round 4 <div>Raphael Levy vs Mark Herberholz</div><br></li>&#10;        <li>&#10;          <div>&#10;            <i>by Brian David-Marshal</i>&#10;          </div>&#10;          <a href="#6">Saturday, 3:19 p.m.</a>&#10;          <div>Your Champion Challengers</div>&#10;          <br>&#10;        </li>&#10;        <li>&#10;          <div>&#10;            <i>by Rich Hagon</i>&#10;          </div>&#10;          <a href="#5">Feature Match</a>: Round 3 <div>Anthony Ferraro vs Brian Kibler<br> David Colby vs Jeff Cunningham</div><br></li>&#10;        <li>&#10;          <div>&#10;            <i>by Brian David-Marshall</i>&#10;          </div>&#10;          <a href="#4">Saturday, 1:39 p.m.</a>&#10;          <div>Smells Like School Spirit</div>&#10;          <br>&#10;        </li>&#10;        <li>&#10;          <div>&#10;            <i>by Brian David-Marshall</i>&#10;          </div>&#10;          <a href="#3">Saturday, 12:47 p.m.</a>&#10;          <div>Trial and Error</div>&#10;          <br>&#10;        </li>&#10;        <li>&#10;          <div>&#10;            <i>by Brian David-Marshall</i>&#10;          </div>&#10;          <a href="#2">Saturday, 12:29 p.m.</a>&#10;          <div>The U.S. of A.</div>&#10;          <br>&#10;        </li>&#10;        <li>&#10;          <div>&#10;            <i>by Rich Hagon</i>&#10;          </div>&#10;          <a href="#1">Saturday, 12:29 p.m.</a>&#10;          <div>The Rest of the World</div>&#10;          <br>&#10;        </li>&#10;        <li>&#10;          <div>&#10;            <i>by Event Coverage Staff</i>&#10;          </div>&#10;          <a href="/nob/events/2009/gpsea09/grand-prix-seatle-tacoma-day-1-player-list">Info</a>: Day 1 Player List <div><br></div></li>&#10;        <li>&#10;          <div>&#10;            <i>by Event Coverage Staff</i>&#10;          </div>&#10;          <a href="/en/events/2009/seattle09/grand-prixseattle-tacoma-event-information">Info</a>: Fact Sheet <br></li>&#10;      </ul>&#10;    </td>&#10;  </tr>&#10;</tbody></table>
+
+* * *
+
+  
+  
+
+*   **Saturday, 12:29 p.m. – The Rest of the World**
+
+    *by Rich Hagon*
+
+Don’t get me wrong, Tacoma is a lovely place. It’s just that it doesn’t trip off the tongue in quite the same way as, say, Honolulu, scene of the second leg of the Pro Tour itself next week. At the last Grand Prix: Seattle, almost 400 players made the start line. This time around? More. A lot more, and Honolulu has a lot to do with it. For North Americans, the chance to play Magic in a tropical paradise is a lure many have chosen not to resist, and for the European contingent, Seattle-Tacoma Airport just happens to be a natural stopping-off point en route to the big show. Thus, we have arguably the finest field ever assembled for a Grand Prix. Whichever of the thousand-plus competitors finally gets over the line sometime late tomorrow night will have earned their stripes. 
+
+So who will dominate proceedings? There’s little doubt that the American Pro Tour Qualifier circuit breeds more decent players per head than any other testing ground in the world. There are literally hundreds of solid, technically-proficient players here that have yet to come to the attention of the global community. But while BDM can tell you all about the Home challenge, allow me to mark your card about the invading hordes of Europe and beyond, determined to steal the trophy away from America’s finest.
+
+France probably arrives with the strongest squad. Fresh from victories in Pro Tour: Kyoto and Grand Prix: Chicago, Gabriel Nassif is in the thick of the Player of the Year Race. Relentless traveller and Hall of Famer Raphael Levy will look to add another title to his GP list. Since winning Pro Tour: Yokohama in 2007, Guillaume Wafo-Tapa has been relatively quiet (Top 8 in Kuala Lumpur apart), but he remains a potent force in the Constructed game, and continues to work with an outstanding group in preparation for events. That leaves perennial fan favorites, the brothers Ruel. Antoine may be a Pro Tour winner (Los Angeles 2005), but it’s Olivier who has captured most of the recent headlines, with a deserved spot in the Hall of Fame at Memphis last December.
+
+A small Dutch contingent has a decidedly old school feel to it, with Grand Prix: Indianapolis winner Jelger Wiegersma, long-time Pro stalwart Bram Snepvangers and former Team World Champion Robert van Medevoort. Although he has yet to break the ice at Pro Tours, van Medevoort is one of the most consistent Grand Prix players in the world, and but for Shuuhei Nakamura would by now have multiple titles to his credit. Eastern Europe has been a growing force in recent times, and with players like Martin Juza, Matej Zatlkaj (both Top 8 from Pro Tour: Berlin last year), Arnost Zidek and Grand Prix: Hanover Top 8er Lukas Kraft, they must have a chance of a headline-grabbing performance. 
+
+For the rest of Europe, individuals stand out. Manuel Bucher has a big reputation, and will be looking to cement that with a title to go with his Team Championship from Worlds 2007. From Sweden, the Tezzerator Kenny Oberg often has a new wrinkle to bring to the Format, while Grand Prix: Hanover winner Lino Burgold will join fellow Germans Raul Porojan and Pro Tour: Hollywood runner-up Jan Ruess with three byes. Add in the number one Russian Nicolay Potovin, last week’s Grand Prix: Barcelona winner Joel Calafell of Spain, and the Finnish World Champion Antti Malin, and you have by far the biggest threat to Home dominance ever to set the proverbial sail across the Atlantic.
+
+As for players from further afield, two countries dominate. Paulo Vitor Damo Da Rosa is nothing short of a machine when it comes to high-place finishes at Grand Prix. With his picture right next to ‘consistency’ in the dictionary, he has racked up relentless numbers, that still tend to leave him just shy of the winner’s circle. This weekend he’s joined by one of the hottest players from 2005-6, Willy Edel, and Luiz Guilherme de Michielli, a member of the 2008 Brazilian team that made it all the way to the semi-finals at Worlds in Memphis. 
+
+That leaves the Japanese, and three of the biggest names have defied geography, time zones, jet lag, and arguably common sense, to shoehorn in yet another globe-trotting adventure before heading for Honolulu. Yuuya Watanabe is a former Rookie of the Year, and part of the 2008 Worlds Team. That he is comfortably the least-accomplished of the big three is indicative of some serious power around the corner, and it comes in the shape of the last two Players of the Year. Tomoharu Saitou lifted the title in 2007, not least thanks to dominating displays at the Grand Prix level that were sometimes masked by the brilliance of compatriot Kenji Tsumura. Meanwhile, Shuuhei Nakamura is the Reigning Champion, having led from pillar to post. 
+
+If the Home team are going to emerge victorious, they’re going to have to get past some serious opposition. Who is best placed to defend home turf and bragging rights? Here’s BDM to tell you all about them...
+
+  
+  
+
+*   **Saturday, 12:29 p.m. – The U.S. of A.**
+
+    *by Brian David-Marshall*
+
+We are in Magic’s backyard -- or at the very least the area that runs behind Magic’s backyard -- and much like Joel Calefell defended his home turf in Barcelona last weekend I fully expect a North American player to be in the last photo that gets taken for this event, which is a roundabout way of saying a North American player is going to win this event. There is certainly no shortage of local talent in the Seattle area with some rising stars looking to make a name for themselves on the Pro Tour scene. You would have to pick Bill Stark as a Seattle standout but his freelance workload has seeped into his weekend and he is on the sidelines cheering on Max McCall -- who will be looking to improve on his Top 8 finish from the last Grand Prix Seattle. 
+
+When you speak about rising stars it is hard to avoid the name Sam Black. Sam, who was a member of the U.S. National team that took home the Worlds Team Championship, currently sits in fifth place for the Player of the year title and has been traveling to just about every event he can manage. Fully anticipating the presence of Cascade Swans in Barcelona, Sam made the switch to Faeries last weekend and managed to sneak through a fresh crack in the metagame for his second GP Top 8 this season. His teammate, and last year’s National Champion, Michael Jacobs is also someone to watch. You may remember that earlier this year Michael gave Rock players reason to cheer when he made the Top 8 of GP Los Angeles with his Green-Black Raven’s Crime deck in Extended. 
+
+Walking around the room last night and listening to people prepare for this event the name Patrick Chapin came up time and time again from players looking to either complete lists suggested by the popular columnist and Worlds 2007 finalist or looking for strategies to combat his lists which will no doubt be very widely played. It will be pretty apparant once Patrick starts playing since there is usually a big crowd around his matches eager to see what innovations Patrick brings to the tournament. 2008’s Worlds Finalist Jamie Parke is also here looking to do a little pre-Honolulu mising in Seattle. 
+
+If you want former Grand Prix winners there are plenty of North American trophy holders in attendance. Gerard Fabiano tore up GP Philly last season with his homebrewed verison of The Rock. Recently returned Pro Brian Kibler knows a thing or two about winning a Grand Prix -- having done it twice -- and is backed by the deck building prowess of Hall of Famer Ben Rubin for this event. Limited Information author Steve Sadin won Grand Prix Columbus with a deck built by Billy Moreno and both halves of that Columbus tandem are in attendance this weekend. Gerry Thompson, winner of Grand Prix Denver last season, seemed confident in his survey of the metagame and promised something spicy for this event while disdaining popular deck choices such as Black-White Tokens and Cascade Swans. 
+
+If you want to choose from the Pro Tour winners in the field you can start with Pro Tour Honolulu winner -- and master brewer -- Mark Herberholz. Mark is at his very best when attacking known metagames and should have something spicy in store for this field. Pro Tour San Diego winner Chris Lachmann recently won a PTQ to requalify for the Pro Tour and is looking to pick up some momentum heading into Hawaii. The winner from Berlin is not too shabby a choice either. Few can arugue that Luis Scott-Vargas has been playing Magic at an elite level since his win in Berlin which includes winning two GPs, sweeping the Extended portion of Worlds, making the finals of Kyoto, and putting together a staggering 18 match win streak at the Pro Tour between Worlds and Kyoto. There have been few runs like this in the history of the game and you have to think he can to win every event he attends at this stage of his career. There are also a couple of players who run in LSV’s circle that I always keep an eye on and Josh Utter-Leyton and David Ochoa. 
+
+I have consciously said “North America” each time because there is a cadre of Canadians that have made the border crossing and a worth mentioning for all you handicappers out there. Jeff Fung -- who has won a Grand Prix in his day -- Terry Tsang, Murray “the Mauler” Evans, and everyone’s favorite Magic writer, Jeff Cunningham all know their way around a Feature Match and could be playing deep into Sunday. I am sure Rich has claimed Quentin Martin as his own but his name appears on the list of Canadian National eleigible competitors so on my list he goes! 
+
+Another group of players to keep an eye on is the former R&D members in attendance which include Devin Low, Nate Heiss, Noah Weil, and Andrea Shubert. Rounding out the list of players to watch on the North American side are AJ Sacher, Paul Rietzl, Patrick Sullivan, Cedric Phillips, Ben Stark, Owen Turtenwald, Mike Thompson, Guadenis Vidugris, Rashad Miller, and Brian Kowal. That does not even take into account the hundreds of grizzled PTQ veterans looking to make their bones against the game’s current best. I certainly mean no offense if I have left anyone out -- 1127 names is a lot to go through!
+
+  
+  
+
+*   **Saturday, 12:47 p.m. – Trial and Error**
+
+    *by Event Coverage Staff*
+
+Here are the results from the last set of European Grand Prix trials the night before the event:
+
+...
+
+And the ones before that:
+
+...
+
+Fact is, we’re a little bit slow in getting the party started at Grand Prix weekends. Not so here in Tacoma, where hundreds of players were taking advantage of a gorgeous day outside to, er, play cards inside. No fewer than 18 Grand Prix Trials took place last night, and handily for us, the Format was Standard. Let’s take a look at what generated three coveted Byes for the main event:
+
+James Burnham – Jund Elf  
+ Steve Griffin - ?!?!?  
+ Warren Eng - Bant  
+ Arthur Morris - Bant  
+ Jeff Huang - Swans  
+ Ian Kerr - Swans  
+ Chris Kelly – 5 Color Cascade  
+ Daniel Duterte – Bant +  
+ Vidianto Wijaya - Swans  
+ Dylan Macdonald - Swans  
+ Vincent Johnston – Dark Bant  
+ Tyler Downing – 5 Color Cascade  
+ Oswell Smith - Swans  
+ Alex Kalita – B/W Tokens  
+ Zack Krizian – 5 Color Control  
+ Tyler Hillman – 5 Color Control  
+ Wei Jian Ong - Elves  
+ DJ Digiacamo – Faeries
+
+One of the big questions coming into today is how resilient the Seismic Swans deck will be when faced with a prepared field packing hate out of the Sideboard. Whether or not the Trial fields reflect the main event is currently moot, but with five wins the deck certainly held its own yesterday. Bant fared well, with versions ranging from straightforward three color, to splashes left and right. Cascade makes a decent showing, and 5 color Control variants took home the prize late in the day. It was also interesting to see Elves and Faeries sneaking their pilots into good shape with the final wins of the day.
+
+But the winning decklist that stood out a mile came as early as flight two, with Steve Griffin running some cards that, to be perfectly honest, we needed Gatherer to check they really were what we thought they were. Here’s his list:
+
+Steve Griffin 
+
+[![View a sample hand of this deck](https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png)](https://web.archive.org/web/20090603033508/http://www.wizards.com/magic/samplehand.asp?x=mtg/daily/eventcoverage/gpsea09/day1&decknum=1) 
+
+  
+ 
+
+<table>&#10;          <tbody><tr>&#10;            <td>&#10;              <table>&#10;                <tbody><tr>&#10;                  <td colspan="2">&#10;                    <p>Main Deck</p>&#10;                    <p>60 cards&#10;                    </p>&#10;                  </td>&#10;                </tr>&#10;                <tr>&#10;                  <td>3 &#10;                      <a>Fire-Lit Thicket</a><br>5 &#10;                      <a>Forest</a><br>4 &#10;                      <a>Karplusan Forest</a><br>3 &#10;                      <a>Mosswort Bridge</a><br>6 &#10;                      <a>Mountain</a><br><hr>21 lands<br><br><br>4 &#10;                      <a>Birds of Paradise</a><br>4 &#10;                      <a>Bloodbraid Elf</a><br>2 &#10;                      <a>Boartusk Liege</a><br>3 &#10;                      <a>Elvish Champion</a><br>4 &#10;                      <a>Figure of Destiny</a><br>3 &#10;                      <a>Llanowar Elves</a><br>4 &#10;                      <a>Talara's Battalion</a><br>4 &#10;                      <a>Taurean Mauler</a><br>4 &#10;                      <a>Vexing Shusher</a><br><hr>32 creatures</td>&#10;                  <td>4 &#10;                      <a>Incinerate</a><br>3 &#10;                      <a>Sarkhan Vol</a><br><hr>7 other spells</td>&#10;                </tr>&#10;              </tbody></table>&#10;            </td>&#10;            <td>&#10;              <table>&#10;                <tbody><tr>&#10;                  <td>&#10;                    <p>Sideboard</p>&#10;                    <p>&#10;                  </p></td>&#10;                </tr>&#10;                <tr>&#10;                  <td>3 &#10;                            <a>Cloudthresher</a><br>4 &#10;                            <a>Everlasting Torment</a><br>2 &#10;                            <a>Primal Command</a><br>3 &#10;                            <a>Thorn of Amethyst</a><br>3 &#10;                            <a>Volcanic Fallout</a><br><hr>15 sideboard cards</td>&#10;                </tr>&#10;              </tbody></table>&#10;            </td>&#10;          </tr>&#10;        </tbody></table>
+
+  
+ 
+
+Well, I told you there were some surprises.
+
+  
+  
+
+*   **Saturday, 1:39 p.m. – Smells Like School Spirit**
+
+    *by Brian David-Marshall*
+
+<table>&#10;    <tbody><tr>&#10;      <td>&#10;        <img src="https://i.ormos.uk/f3/c3/f3c3d37f41bec71346c5a97174ee1cf5c6fc1eeddbdf8b1a98a150baf65742dc.jpg">&#10;        <i>Greg Leeds and Pat Kurz at GP Seattle</i>&#10;      </td>&#10;    </tr>&#10;  </tbody></table>
+
+Pat Kurz is one pretty amazing High School teacher. A Magic judge in her free time, Pat found a way to merge her hobby and her job to the benefit of her students. Pat organized an after school Magic club at Gig Harbor High School in Gig Harbor, Washington just across the bridge from the Convention Center and runs a weekly Wednesday event that has seen as many as 100 of her school’s students taking part.
+
+“Independantly I was a Magic judge and I was in the library one day and some kids were playing Magic. I was like, “I know that game and you can’t do that” and we decided to start a club,” ,” says Kurz of how she came to be involved in the Magic scene at Gig Harbor High School. “Kids were playing in my classroom after school and they asked if we could make it an official school club. The principal happened to be walking past and I told him what the game was about and why it was good for kids.”
+
+At the time there were a dozen kids in the club and the Principal asked her what would happen if they doubled in size. “We’ll get more chairs!” was her response and they have been getting more chair ever since. You may be wondering what a Magic Club does and Pat explained: “They learn to play Magic. Some of them are competitive, some are their just for fun. They come in and they talk about Magic and make friends. 
+
+<table>&#10;    <tbody><tr>&#10;      <td>&#10;        <img src="https://i.ormos.uk/5f/32/5f32e4f1834a8f38cdc518261f2c4b646c211f197163f4c7414226d412af84d9.jpg">&#10;        <i>Greg Leeds gets honorary membership to Gig Harbor High School Magic Club.</i>&#10;      </td>&#10;    </tr>&#10;  </tbody></table>
+
+Through her role as a Magic judge, Pat was at an event with Wizards of the Coast CEO Greg Leeds and she told him about the club and asked the exectutive -- who she had heard talk about a corpoprate desire to see the game become part of more after school programs -- if the company would show its support for her club by allowing them to use the artwork from some Magic cards to make official club t-shirts. She reasoned that all the other extracurricular activities -- from sports teams to cheerleading -- had official uniforms so why not the Magic Club? Greg was more than happy to oblige and Pat was able to surprise him just after the start of round one with a club member signed t-shirt of his very own. The t-shirts were warm off the press and several of the club members were sporting them for this weekend’s tournament.
+
+  
+  
+
+*   **Feature Match: Round 3 – Anthony Ferraro vs Brian Kibler, David Colby vs Jeff Cunningham**
+
+    *by Rich Hagon*
+
+While current Pros have three Byes, some illustrious names from the history books are already battling. Two such are Brian Kibler, a winner of Grand Prix as long ago as Toronto 1997, and Canadian Jeff Cunningham, victorious in 2002 in Philadelphia. Against fellow American Anthony Ferraro, Kibler conceded the opener after three brutal turns. Tattermunge Maniac, Tattermunge Maniac plus Mogg Fanatic, Boggart Ram-Gang...that’ll be that then, with only two Fieldmist Borderposts to show for it. Cunningham also fell one down, finding that his Seismic Swans deck couldn’t find an answer to David Colby, who managed to keep the Seismic Assaults locked out with Pithing Needle, a card expected to be much in evidence this weekend.
+
+<table>&#10;    <tbody><tr>&#10;      <td>&#10;        <img src="https://i.ormos.uk/c9/da/c9da36d14ef6b4a0b2185e99b6b3f05839d348e0494303751af590541bfb94b8.jpg">&#10;        <i>Brian Kibler</i>&#10;      </td>&#10;    </tr>&#10;  </tbody></table>
+
+Both players drew level, with Kibler making use of Windborn Muse – go on, look it up, you know you want to – and a timely Wrath Of God to keep in the game, before Evoking Reveillark to set up a Mulldrifter-led charge to victory. Cunningham meanwhile was carefully navigating his way past a minefield of Pithing Needle, Runed Halo and Tezzeret to equalise, thanks in part to Alara Reborn hotness Maelstrom Pulse.
+
+Unfortunately for the old timers (a phrase I’m sure Kibler, 28, will take issue with!) there was to be no winning start. Jundhackblade.dec is super-unforgiving, and a Colossal Might on the eponymous two-drop ensured victory for Ferraro, whilst Colby once again was able to strangle the life out of a Cunningham deck that does, by definition, have rather fewer spells than the average 60.
+
+After their matches, it was time to find out what keeps them coming back for more. Says Kibler, ‘Magic is not only intellectually challenging, it’s also creatively challenging, because there are definite rewards for being able to approach a Format from an innovative angle. With Magic Online, the availability of huge amounts of data is a luxury that simply didn’t exist back in the late 90’s. If you weren’t doing the playtesting yourself, or were attached to a particular group of Pros, the environment was often unexplored. Now the trick is to sift the information to find the gaps in the Format, but it has to be the expected Format to come, rather than the one just gone!’
+
+<table>&#10;    <tbody><tr>&#10;      <td>&#10;        <img src="https://i.ormos.uk/9c/7d/9c7db67ff1c69c19da365125be984249e2527450c811b7fb4b8ec1355647f71f.jpg">&#10;        <i>Jeff Cunningham</i>&#10;      </td>&#10;    </tr>&#10;  </tbody></table>
+
+With the ink barely dry on the results from Barcelona, Cunningham continued testing. ‘I tested a lot for this event, and it felt as if most things were struggling against Five Color Control.’ Both players agreed that the Metagame was changing week by week. With Regionals dominated by B/W Tokens, the window was open for decks like Turbo Fog and Seismic Swans to come to the fore. Isn’t Cunningham worried that people will have enough hate to rain on his Seismic parade? ‘Not really. The deck can come at you from multiple angles, and finding the cards to actually beat it, rather than just slow it down or make it work for the victory, are hard to find. They’re also not obvious in the way that they’re played, so unless you’re facing someone with the right cards who knows enough about the matchup to play them at the most inconvenient time, there’s still a good chance you’ll beat them.’
+
+For Kibler, his deck features a ton of Greatest Hits, as indicated by the name he’s jokingly given the deck: Pikulark. Chris Pikula is the player who features on the original version of Meddling Mage, now back in Alara Reborn, and Kibler found that the UW two-drop was a natural fit in a deck that also sports Wrath Of God, Mulldrifter and the mighty Reveillark. And as Kibler pointed out, ‘And by sheer chance, Windborn Muse just happens to have 2 power!’
+
+Cunningham is widely-known for his iconic work on The Magic Academy, a series that ran here on magicthegathering.com, introducing newer players to some of the fundamentals of the game in a way that has rarely been matched before or since. So what brings him back time after time to the highest levels of the game? ‘I have the fever’ he admits. And Kibler? What keeps him coming back for more? ‘I was playtesting for Honolulu with Ben Rubin – it might as well have been 2001 or something – and in one of our games he paused and said “You know, you could play the same Magic Format for a year, and still never figure it out”. That’s your answer right there.’
+
+  
+  
+
+*   **Saturday, 3:19 p.m. - Your Champion Challengers**
+
+    *by Brian David-Marshal*
+
+There are certainly advantages to having an event within driving distance of Wizards of the Coast main offices. The Champion Challenge -- you may know it by its old name, Gunslinging -- is always a popular event at any big tournament but rarely do you have the chance to play against the likes of Scott Johns, Mike Turian, and Aaron Forsythe. They are just a smattering of the Wizards personnel that have been tasked with guarding the supply of Alara Reborn packs one Standard match at a time. Players can face off against a variety of R&D members this weekend including the likes of Aaron Forsythe, Scott Johns, Mike Turian, Ken Nagle, and Tom LaPille, to name just a few. 
+
+![](https://i.ormos.uk/28/b5/28b57d3df15f8fcd81784ffa9c3300ea420a368b81649a326e977b90d6045ae8.jpg)Tom Lapille tries to find just the right play to protect the pack bounty that sits upon his red head. 
+
+  
+
+![](https://i.ormos.uk/db/29/db29599369a794e572953cf99237938d33d6e403781a6ebc0ac61f3dc434d15a.jpg)Five time Pro Tour Top 8 competitor, and Pro Tour New York Champion, Scott Johns gets the thumbs up from Ken Nagle.
+
+  
+
+![](https://i.ormos.uk/fc/3d/fc3d23a540164fe7937a2ea458ff07867f89c80cf7127e4ac96e461540e5e741.jpg)Mike Turian, who won Pro Tour New York alongside Scott Johns and who also has his fair share of Top 8 appearances, is always all smiles but never more so than when he is playing Magic!
+
+  
+
+![](https://i.ormos.uk/19/ff/19ffa24f843f01e359a11527409f35735ab5ec0c39da47a114224174221dfb0d.jpg)Director of Magic R&D Aaron Forsythe takes a break from playing to sign a playset of Bloodbraid Elf for a happy fan. 
+
+  
+  
+  
+
+*   **Feature Match: Round 4 – Raphael Levy vs Mark Herberholz**
+
+    *by Brian David-Marshall*
+
+“I am rocking Nassif’s bench today,” said Herberholz, who didn’t have the cards to build the efforts of his overnight brewing. He figured Gabriel Nassif’s alternate deck would be good enough to get him where he needed. It was good enough to win Nassif a Pro Tour -- the deck bore more than a passing resemblance to the Kyoto winning list -- and Mark hoped it still had a few wins left in it. 
+
+Until his brief, and succesful, flirtation with Zoo it seemed like Raphael Levy always played a deck that allowed him to power out a three drop on turn two via a Bird or Elf and his choice of Doran for this event reverted to that form. 
+
+### Game 1
+
+![](https://i.ormos.uk/76/07/7607102351305388437b69e9477faa7bd3c9f0362d76b1f7765ffe154a33d291.jpg) Raphael Levy led off with Noble Hierarch and followed up with another and a Knotvine Paladin while Mark had only played a Vivid Crag. A turn later Raph’s board had expanded to inlcude another Knotvine and a Treefolk Harbinger that foreshadowed Doran. He attacked Mark for eight with his Paladin. When Mark untapped he carefully laid his third land and inspected the Paladins: “That ability stacks, right?” Mark was looking at the Volcanic Fallout in his hand. Raph played Doran and attacked with both his Paladins and the Harbinger. Mark managed to sweep away four creatures but the Harbinger and Doran that were left in the wake of the Fallout were more than enough to eat away what little remained of Mark’s life total. 
+
+  
+
+### Game 2
+
+Raph oculd not find a second land in Game 2 but had all four Hierarchs in his deck in play on turn 3. Mark was sitting on Broken Ambitions but had nothing to use it on. Kitchen Finks resolved and a Noble Hierarch attacked for four. Mark played Volcanic Fallout on Raph’s next upkeep and the French player used Path to Exile on his own Hierarch to fetch a much needed third land -- he had played Murmuring Bosk the turn before. Treefolk Harbinger went looking for Doran and it resolved when Mark tapped out for Mulldrifter, which stepped in the path of the Harbinger on Raph’s next turn. Hallowed Burial from Herberholz cleared the board but Raph kept on coming playing a Wilt-Leaf Liege that ran into Plumeveil.
+
+Broodmate Dragon landed for Mark. Raph had Maelstrom Pulse to take out the original. Mark played another and Raph played a second Pulse but he still had to deal with what they left in their wake. When Mark revealed a Cryptic Command off of the clash for Broken Ambitions on a Doran, Raph gave up the struggle and they went to Game 3. 
+
+### Game 3
+
+![](https://i.ormos.uk/3e/32/3e32013417d357b70d8c14986aa57ccbb344c1d8dec4465744cecfd81e7a7553.jpg) After a mulligan Levy powered out a turn two Kitchen Finks off his Noble Hierarch. With the potential of Broken Ambitions for one online from Mark, Raph played Knotvine Mystic a turn later with mana to pay for it up. Mark had the Volcanic Blowout once again and, like last game, Raph used Path to Exile to dig mana out of his deck with his soon to be departed guys. When Raph animated his Treetop Village and moved to attack, Mark tapped down the meager squad with Cryptic Command and drew a card. A full priced Mulldrifter came down but it could not trade with the Finks after Levy played Wilt-Leaf Liege. Mark’s Pulse took care of it a turn later. When Raph Thoughtsiezed the Honolulu Champion he saw two Broken Ambitions, Cryptic Command, Esper Charm, and a couple of lands. He chose the Esper Charm over the Command and played Knotvine Paladin. Mark cast Broken Ambitions, despite Raph’s ability to pay the two mana, so he could clash. Raph visibly slumped when Mark revealed Volocanic Fallout off the clash. 
+
+Still, Raph’s Treetop Village was rumbling away and Mark soon found himslef at two but with some help from Mulldrifter he played Primal Command to gain seven and tutor up Broodmate Dragon. Mark could even afford to swing for two in the air with his Mulldrifter. He had Remove Soul for Raph’s Doran and fell to six when the Treetop attacked but had Broodmate in the wings and Raph extended the hand. 
+
+Final result: Mark Herberholz wins 2-1
+
+  
+  
+  
+
+*   **Feature Match: Round 5 – Luis Scott-Vargas vs Dan Lanthier**
+
+    *by Rich Hagon*
+
+<table>&#10;    <tbody><tr>&#10;      <td>&#10;        <img src="https://i.ormos.uk/62/b6/62b6cce83addd9cb8dc9a01a9b22f068277ec7c10f6221fb35259e7eeced3c80.jpg">&#10;        <i>Dan Lanthier</i>&#10;      </td>&#10;    </tr>&#10;  </tbody></table>
+
+The 2008 Canadian National Champion Dan Lanthier comes here ahead of a much-anticipated trip to Honolulu for the Pro Tour, but whoever he faces next week won’t come tougher than Luis Scott-Vargas. Gaining as many plaudits for his crisp no-misstep playstyle as his historic string of victories, Scott-Vargas is quickly establishing himself as one of the best ever to sleeve up 60, or 40 for that matter.
+
+Following a mulligan from Lanthier, and a less-than excited look at the six he kept, Secluded Glen opened for LSV. ‘Looks like Faeries’ from Lanthier was confirmed on the second turn with the signature Bitterblossom. Sygg River Cutthroat from Lanthier indicated 5 Color Blood, and the matchup was set. 
+
+Scion of Oona joined the American squad, and Thoughtseize revealed a pair of Boggart Ram-Gangs, two Cryptic Command and a Bloodbraid Elf, which LSV sent to the graveyard at the cost of two life. The subsequent Ram-Gang was countered by Spellstutter Sprite, and the beats continued, with the turn two Bitterblossom the key play in a comprehensive blowout. 
+
+LSV 1 – Lanthier 0.
+
+Game 2 started better for Lanthier, with a Turn Two Putrid Leech, pumped to deal four the following turn. Anathemancer was next, and that dropped LSV to 14. Bloodbraid Elf cascaded into Maelstrom Pulse, a less than stellar pull, and an instant-speed Plumeveil sent the Bloodbraid Elf to the graveyard. Maelstrom Pulse from Lanthier, destined for the Plumeveil, met Cryptic Command, and with damage on the stack LSV leveraged his dying Mutavault (about to trade with Anathemancer) into Mistbind Clique. 
+
+<table>&#10;    <tbody><tr>&#10;      <td>&#10;        <img src="https://i.ormos.uk/44/8d/448d2183181f31a36f5c3dc13a0a27ab75e5bf88ac12f939ae06356643e54cfd.jpg">&#10;        <i>Luis Scott-Vargas</i>&#10;      </td>&#10;    </tr>&#10;  </tbody></table>
+
+Suddenly the American had control of the board after the early game had been all Canada. In came the Clique once more, leaving Lanthier at 6. At end of turn, Lanthier bounced the Clique with Cryptic Command and drew. He next offered Boggart Ram-Gang, which Flashfreeze was able to counter. With Mutavault and Faerie Conclave ready to go into action, even the empty board favored LSV. In Lanthier’s upkeep, the Mistbind Clique appeared, but when LSV attempted to Champion his Mutavault, Lanthier revealed his one remaining card to be Volcanic Fallout, conveniently uncounterable.
+
+Unperturbed, LSV watched his Mutavault die, before calmly activating his Faerie Conclave, allowing that to be swallowed by the Mistbind Clique. From there Lanthier was done, and, just as he has done around the world for most of the last year of competitive Magic, Luis Scott-Vargas swept to victory in apparently-effortless fashion.
+
+Luis Scott-Vargas 2 Dan Lanthier 0.
+
+  
+  
+  
+
+*   **Saturday, 4:58pm - Three Metagames**
+
+    *by Rich Hagon*
+
+<table>&#10;    <tbody><tr>&#10;      <td>&#10;        <img src="https://i.ormos.uk/24/55/245568ac4a1eac043e5d3475cb83f27191e675842335789b531809012d9f8530.jpg">&#10;        <i>1100 decklists, but which one is the best?</i>&#10;      </td>&#10;    </tr>&#10;  </tbody></table>
+
+You already know that Metagames change by the week, but here in Tacoma they’re changing by the hour. With data steadily accumulating, here in Round Six is our first chance to catch our breath and see what trends might be developing. Our ‘poll of polls’ comes to you courtesy of three distinct, but potentially overlapping, groups. First we have the Rest of the World players written about by yours truly at the start of the day. Observant types will correctly guess that next up is the Home squad, as showcased by Brian David-Marshall. And our third group of crash test dummies? Well, for that we have the top tables, which feature a blend of experienced 2-0 Pros (plus their three Byes), some Trial winners still undefeated, and a lucky/skilful few who have actually vanquished five breathing opponents en route to this point. Let’s see how the numbers look:
+
+Rest of the World – Among the leading lights from lands afar, lands aplenty was the optimal choice, with almost a third of our sample running Seismic Swans. It seems clear that these players weren’t frightened off by the potential hate coming their way. Quite a way back in popularity come the Five Color Blood decks, and a surprisingly decent showing for Elves. BW Tokens, Reveillark and Faeries make a couple of appearances, leaving an intriguingly non-Metagame choice by one big name, who is attempting to run the gauntlet with Turbo Fog. Confidentiality forbids us mentioning the name, but rest assured it’s someone who generally gets things right, and that’s set us wondering if he knows something we don’t...(Actually, he clearly does know something we don’t, like the French soccer league champions of 1998.)
+
+The USA – There’s a clear difference of opinion on this side of the Atlantic. Whereas there’s no clear consensus about what the best deck likely is, there is a clear consensus about what the best deck isn’t, and that turns out to be Seismic Swans. Only two of our US sample are running the land machine, a negligible part of the group compared to the whopping 30%+ from the Rest of the World. A solid choice seems to be Faeries, with Five Color Blood and traditional Five Color Control also popular. As a card, Reveillark has always been powerful, and it’s once again seeing a resurgence. Plenty of players have gone their own way though, with Jund Ramp, Merfolk, Elves and even a mono-red burn deck featured.
+
+The Top Tables – On the face of it this should be our most reliable source, and as the tournament goes on that will certainly be true. However, we’re barely a third of the way through, and periodic Metagame breakdowns on the European circuit have taught us that Round Six and Round Sixteen look very, very different most of the time. Still, as things stand there’s a clear early pacesetter in the form of Five Color Blood. Sygg River Cutthroat is hitting plenty of tables on Turn Two, and then using cards like Broodbraid Elf and Anathemancer to ensure full value from the 1/3. Also showing stronger than either of our test groups are Token decks. Although still mostly BW, GW versions are doing well too, and in a sense this marks a return to the Metagame of Regionals, where creatures, and specifically Windbrisk Heights and Spectral Procession, dominated.
+
+By the time Sunday action starts, almost 90% of the field will be done, and then we’ll really be in a position to crunch those numbers. As ever, stay tuned to magicthegathering.com to help tune your next Metagame-breaker to perfection. 
+
+  
+  
+  
+
+*   **Feature Match: Round 6 – Sam Black vs. Gabriel Nassif**
+
+    *by Brian David-Marshall*
+
+<table>&#10;    <tbody><tr>&#10;      <td>&#10;        <img src="https://i.ormos.uk/9b/8a/9b8a6d4fe84036a3d6e73d3a27e50486a117e211420aae0b92428c3c6005afaa.jpg">&#10;        <i>Sam Black</i>&#10;      </td>&#10;    </tr>&#10;  </tbody></table>
+
+Sam Black has been busy traveling to pretty much every event he can manage thie year after a breakout 2008 season that culminated with him being on the U.S. National team and winning the Team Championship at Worlds. He is currently sitting at fifth in the Player of ther Year race with 19 points courtesy of a pair of GP Top 8s in Singapore and Barcelona as well as a Top 32 finish in Kyoto. It would be an impressive set of accomplisments that would almost certainly intimidate just about any player sitting across the table. Of course, the player sitting across from him was in no way “any player”.
+
+Gabriel Nassif is...well...Gabriel Nassif. He has nine Pro Tour Top 8 appearances, two Pro Tour titles, has won the Player of the Year, and is the proud owner of the most exciting topdeck moment in the history of the game when he “called his shot” in the quarterfinals of Pro Tour Kyoto. He is on the short list of short Magic names that goes Jon, Kai, and Gab and a dead lock to lead his class into the Hall of Fame -- next year, when he will actually have been playing on the Pro Tour for 10 years. 
+
+### Game 1
+
+“Is that a four face?” asked Sam Black as Gabriel Nassif tried to figure out if there was any way to justify keeping a five spell/no-land hand. 
+
+“I have won on mulligans to four before,” sighed Nassif as he shipped it back only to keep a four card hand with no lands. Sam Black dropped a Bitterlblossom before Gab’s deck delivered a Treetop Village. Sam was stuck on two lands himself but had enough room tpo maneuver past anything Gab had. Terror took down Wren’s Run Vanquisher and Spellstutter Sprite countered a pair of Chameleon Colossi as Gab’s deck had started to spit out lands. Sam was able to sit behind his tribal enchantment and finish off Gab without much effort. 
+
+**Game 2** 
+
+Sam played Thoughtsieze and saw a hand with a couple of lands, Putrid Leech, Ram-Gang, and Chameleon Colossus. He took the two drop. The Ram-Gang was countered with Flash Freeze two turns later and Sam played Jace Beleren. Nassif finished off the Planeswalker with Anathemancer after Sam drew a card. Nassif attacked with Treetop and Anathemancer only to have the land ambushed by Plumeveil. Nassif added Vaxing Shusher to his board. 
+
+Sam cracked back for two with his Mutavault. Nassif could not find a way around the wall and had to get his Colossus oinline. Despite a stretch of untapped lands and a fistful of cards Sam had no way to stop it from sticking thanks to the pesky Shusher. Colossus got in for four damage and a Putrid Leech joined the French player’s team. While Sam could not quite counter anything he was able to bounce the Colossus with Cryptic Command and dig into his deck. 
+
+Puppeteer Clique made use of the Ram-Gang in Nassif’s graveyard and hoped to stave off Nassif’s mounting army. Nassif untapped and sent in his Leech and the Colossus. Sam chose to block only the Leech with Plumeveil and Nassif paid two life to make the trade. Nassif also paid four to activate his unblocked Colossus. Sam attacked for three with his Clique and passed the turn back to Nassif.
+
+Nassic attacked with everyone. Black had Spellstutter Sprite to block the Colossus and took down the Shusher with Mutavault. Nassif attempted Wren’s Run Vanquisher revealing another copy and Sam played Broken Ambiutions for 0 just to clash. Nassif “paid” for it and then played the other Vanquisher. Sam scooped up his cards a turn later. 
+
+**Game 3** 
+
+<table>&#10;    <tbody><tr>&#10;      <td>&#10;        <img src="https://i.ormos.uk/45/83/45838a7e434333b91114b888fe5f08341e5dca169d3a14929995eff72d84dc66.jpg">&#10;        <i>Gabriel Nassif</i>&#10;      </td>&#10;    </tr>&#10;  </tbody></table>
+
+Nassif continued to tinker with his post-sideboard mix -- taking one or two cards in and out without seemingly liking either option. The two players had taken a warning from the judge earlier in the match when they exceeded the 3 minute mark for siding and shuffling between the first two games. Sam joked: “I wonder if if could have gotten a free win out of this. I should have written down the time you started.”
+
+Sam mulliganed to start things off in Game 3 but stuck with next six. He made a Spellstutter Sprite at the end of Nassif’s turn two and untapped into Thoughtsieze. He looked at Nassif’s hand and took Chameleon Colossus. He had to leave Bloodbraid Elf in hand to do so and Nassif played it and flipped into Putrid Leech. Sam countered the Leech and took three. He then nabbed the Colossus with Pupeteer Clique.
+
+Nassif attacked with Bloodbraid and pumped ith with Colossal Might. He then proceeded to play Kitchen Finks -- one of the sideboard decisions he had been agonizing over. Sam attacked back with only the Spellstutter and left his Clique back to block. Nassif played Pithing Needle and Sam activated his Mutavault in response. Nassif named Mutavault and passed the turn without attacking. Nassif’s Thoiughtsieze a turn later saw a hand with Flashfreeze and Broken Ambitions -- Nassif let him keep the latter. Nassif thought for a moment and finally decided to activate his Treetop Village and attack for the win. 
+
+“I did not want you to know I had nothing there,” sighed Sam.
+
+“I did not realize at first that you were dead on board.”
+
+While they were doing the end of round bookkeeping a player who had been waiting just out of sight pounced on the opportunity to get Nassif’s signature on a Cruel Ultimatum. 
+
+The judge made him wait until the match result slip was completley filled out first: “He has to sign mine first.”
+
+  
+  
+  
+
+*   **Feature Match: Round 7 – Sean McKeown vs. Joel Calafell**
+
+    *by Rich Hagon*
+
+Regular readers of Event Coverage will probably be able to guess what deck Joel Calafell is running here this weekend as he attempts to join an elite club by winning back-to-back Grand Prix. Using the ‘if it ain’t broke, don’t fix it’ approach, the Spaniard, who first came to prominence when making the Top 8 of Pro Tour Kuala Lumpur last year, is running Seismic Swans. Facing him across the table is starcitygames.com long-time columnist Sean McKeown. With both players undefeated (Calafell with three Byes, McKeown with just one), the winner of this match will be guaranteed a spot in Day Two.
+
+After a mulligan to six, which Calafell was forced to mirror, McKeown opened up strong on Goldmeadow Stalwart, revealing Figure Of Destiny. The Figure joined the fray the following turn, quickly growing to 2/2. Wizened Cenn powered up the team, and already Calafell was on just 8 life. Calafell came back into things with Bloodbraid Elf Cascading into Seismic Assault, which quickly offed the Wizened Cenn. McKeown managed one further attack, dropping Calafell to six, before....
+
+Swans of Bryn Argoll. If you want to go away and do something constructive with the next five minutes, feel free. I’m going to.
+
+...
+
+...
+
+Calafell 1 McKeown 0.
+
+For those inquiring minds who simply must know, Calafell pointed one of his many lands at the Swans, courtesy of Seismic Assault, and drew two cards. One of those cards was a land. So he did it again, and again, and again. Every so often, and actually it was rather more often than not, Calafell got two lands off the top, and that amounted to one spare, ready to point at McKeown when the time came. Nine lands in hand later, and 18 life had become zero. Now don’t you feel so much better now I’ve given you the actual play by play?
+
+Well....
+
+<table>&#10;    <tbody><tr>&#10;      <td>&#10;        <img src="https://i.ormos.uk/7b/e3/7be316155108ebda1b759449be0ea73617084962cdf085deabebdd785359e947.jpg">&#10;        <i>Sean McKeown</i>&#10;      </td>&#10;    </tr>&#10;  </tbody></table>
+
+Managing to start with a full seven, McKeown opened the second game with Figure of Destiny. After an attack for one, Knight of Meadowgrain joined the board. Calafell indulged in some Hideaway action via Spinerock Knoll, and then the Sideboard got involved, as McKeown attacked for three and dropped Aura of Silence, looking to slow and stop the Seismic Assaults. Windbrisk Heights stored away something for later, and a second Knight of Meadowgrain came down, meaning that ‘later’ might be as soon as the next turn.
+
+Calafell tapped out to drop Swans of Bryn Argoll, which in addition to being a Combo-enabler also turn out to have significant power and toughness. However big they are though, Path to Exile sends them packing, and McKeown slammed in for another six, leaving Calafell on exactly that total. McKeown kept the hammer down with Pithing Needle set to Seismic Assualt.
+
+Calafell next cast Bloodbraid Elf, and when Seismic Assault came up had to decide whether to pay the extra two. He did, but it was academic, as McKeown showed a second Path to Exile for the Bloodbraid Elf, leaving the way clear for his team of Kithkin weenies to power to victory.
+
+1-1.
+
+For the only time in the match Calafell would have the advantage of going first in the decider. That advantage was somewhat negated by a mulligan to six, and he opened with Reflecting Pool. McKeown brought Goldmeadow Stalwart to the red zone on turn two, with Figure of Destiny joining it, as he served up Windbrisk Heights.
+
+Turn three for Calafell was huge, with a straight-up Seismic Assault. ‘This isn’t going to be quite as fun’ said McKeown, and that might turn out to be an understatement. However, Spectral Procession kept the threat level high. Calafell added Treetop Village, tapped as it must be, and passed.
+
+<table>&#10;    <tbody><tr>&#10;      <td>&#10;        <img src="https://i.ormos.uk/5f/69/5f692aaabfd785d1f7566ecea4760fa94584d4264633aeb470f598ec3d70f631.jpg">&#10;        <i>Joel Calafell</i>&#10;      </td>&#10;    </tr>&#10;  </tbody></table>
+
+Burrenton Forge-Tender came down for McKeown, and that sent Calafell into the tank, trying to decide whether he needed to kill multiple monsters before it resolved. He took out the Figure of Destiny before allowing the Forge-Tender to resolve, but still took a fearful beating from the three Spectral Procession tokens and the Goldmeadow Stalwart.
+
+Tapping out, Calafell cast Bloodbraid Elf, and Cascaded into a second Seismic Assault. McKeown had Path to Exile ready for the Bloodbraid Elf, and Calafell pulled a mountain from his library. Back to Mckeown, and although Calafell killed the Goldmeadow Stalwart, McKeown was still able to activate the Windbrisk Heights and revealing Zealous Persecution, leaving Calafell at just 2 life. Captured Sunlight pushed him back up to 6, and a third Seismic Assault hit the table.
+
+McKeown activated his Mutavault and attacked for six, forcing Calafell to aim a land at it. That was the cue for McKeown to sacrifice the Burrenton Forge-Tender, and Calafell was back at just one life. What could he do?
+
+Primal Command was set to gain seven life and search for a creature, which left the Spanish Grand Prix champion with two cards in hand. Mutavault plus three tokens attacked, with Calafell back down again to just three. To add to the pressure, McKeown sent out another three Spectral Procession tokens. 
+
+Now it really was the last chance for Calafell. Captured Sunlight Cascaded into Maelstrom Pulse, and Calafell aimed it at one of the Spectral Procession tokens. Turns out, that was good enough to put all six monsters in the bin. Or at least, it would have been, but for a rather inconvenient instant sitting in McKeown’s hand. Path to Exile was able to vanquish the token in response, and so the Maelstrom Pulse fizzled. From there, Calafell had no answer, and McKeown’s doughty army of beaters was able – just – to get the job done. With two rounds to go, McKeown advances to Day Two.
+
+Sean McKeown 2 Joel Calafell 1.
+
+  
+  
+
+*   **Saturday, 7:05pm – Art versus Art**
+
+    *by Rich Hagon*
+
+Away from the main event, there’s a ton of good stuff to do here at the venue. Throughout the day, queues of fans have been forming at the artist booth. And the artist booth. And booth, and booth, and booth, and booth, and booth, and booth. Yes indeed, no fewer than eight fantasy artists have descended on the Grand Prix, representing some of the most iconic pieces in the game. But we got to thinking, what would happen if we had to build a deck from each artist? Now to make things fair, we allow any amount of basic land to be added to the deck, so mana issues should be no worse than usual. That said, when it comes to their Art Pool, these artists were not created equal. This is what we have to work with:
+
+Corey Macourek – 4 cards  
+ Chuck Lukacs – 14 cards  
+ Mike Dringenberg – 41 cards  
+ Franz Vohwinkel – 64 cards  
+ rk post – 100 cards  
+ Anson Maddocks – 112 cards  
+ Mark Tedin – 187 cards  
+ Pete Venters – 275 cards
+
+ ![Burrenton Forge-Tender](https://i.ormos.uk/f2/72/f272dc9918cbee1f14dd095af4b07ae00542cb16e278a9184ce63e560aea2adb.jpg) 
+
+I think it’s fair to say that Corey and Chuck aren’t going to make it to the start line. Although Sanctioning isn’t something we have to worry about, two of Corey’s four cards come from Unhinged – Kill!Destroy! And The Fallen Apart. Chuck has been making Magic cards since Lorwyn, and although Thorn of Amethyst saw play in the Magic Invitational 2007 in Vintage, the current pick of the crop is Burrenton Forge-Tender, which we saw do good things for Sean McKeown in the Feature Match Area.
+
+Once we reach Mike Dringenberg we’re starting to see possibilities for our artist deck of doom. Mike has some very helpful mana fixers/accelerators courtesy of the Mirrodin cycle of Talismen. Tromp the Domains has certainly seen Pro Tour action, with none other than Kai Budde casting Tromp on successive turns in one memorable match. Other Dringenberg highlights include Painter’s Servant, the counterspell Remove Soul, and the mighty Tendrils of Corruption. I’m not sure quite where the deck is going, but I’m sure you can come up with something.
+
+Franz Vohwinkel gives us 64 choices, and some of them are pretty tasty. Rob Alexander decks wouldn’t take kindly to Franz, since he has both Blood Moon and Magus of the Moon to thwart all those gorgeous Ravnica duels and such. Still in red, we get the delightful Fire/Ice, and boardsweeper Earthquake. We might get to use the Ice half of Fire/Ice too, since Broken Ambitions might be worth a slot. Disrupting our opponents is high on the agenda, with Scepter of Fugue and Oblivion Ring available, and our mana can be fixed in part by one of my favorite pieces ever, Armillary Sphere. I could be wrong, but I suspect there’s a copy of one particular card that Messrs. Lachmann and van Lunen would be happy to have signed – Vohwinkel is responsible for Virulent Sliver, which the so-called Sliver Kids used to such astonishing effect in Pro Tour San Diego.
+
+ ![Lightning Angel](https://i.ormos.uk/1a/5f/1a5f51de55e5bb0fed17b4e9c9a283628cc86224e918417e75780d2adc0a004d.jpg) 
+
+Now we’re into three figures, and the deckbuilding options are growing exponentially. Rk post begins with all the Avatars, so however we decide to get huge monsters at a massive discount, we can. In this tournament, there’s plenty of action for Fulminator Mage and Tidehollow Sculler, with the BW Tokens making something of a resurgence. Many of his most famous cards are format-defining creatures. Kai Budde won a Pro Tour with Covetous Dragon in his ‘mono-brown’ deck (note for our younger fans – this was back in the day when artifacts were brown, not, well, whatever they are now.) Seven out of eight Sunday decks at one Block Pro Tour featured the legendary Lin Sivvi, Defiant Hero. Tiago Chan showcased Lightning Angel in the Top 8 of Worlds 2006 in Paris. Simic Sky Swallower was the standout creature in Ravnica Block, while Morphling was the standout creature in, er, everything. Add in Haunting Hymn, the fantastically irritating Worship and the fantastically entertaining Zur’s Weirding, and I’m pretty sure there’s a deck full of fun, full of surprises, and full of awesome creatures.
+
+ ![Llanowar Elves](https://i.ormos.uk/a4/e0/a4e09e83ea1bb506cd5722f96e3993f3882eef558a163c6fc3553604a2a539b8.jpg) 
+
+Nudging ahead of rk post into third place in our group is Anson Maddocks with 112 cards that span the generations. One thing is for certain, with Anson there’s no problem putting a creature deck together, and a red one at that. When it comes to the kind of pointy ears that let Elves really know who’s boss, Anson’s your man. See, he does Minotaurs. I’m not sure whether he’s responsible for every Minotaur the game has ever seen, but critical mass can certainly be reached. Turns out that Orcs are on the agenda too, and of all our artists, this is the one with the most glaring possible decklist. The real question is, are you going to splash for Serendib Efreet, or Sengir Vampire, or is it just impossible to leave out one of the most famous pieces of Magic art ever, Llanowar Elves?
+
+Well at that point, with Round eight heading towards the end, it’s time to throw it open to you at home around the world. What’s the most broken deck you can come up with using each of these artists? And tomorrow, we’ll look at the Tier One decks, featuring 187 cards of Mark Tedin,(and no, that’s not a reference to creatures like Nekrataal, but the number of cards he’s depicted) and a whopping 275 of Pete Venters. Now if you can’t build a deck from that, you need some help.
+
+More tomorrow!
+
+  
+  
+
+*   **Feature Match: Round 8 – Manuel Bucher (5Color Bloodbraid) vs. Paulo Vitor Damo da Rosa**
+
+    *by Brian David-Marshall*
+
+<table>&#10;    <tbody><tr>&#10;      <td>&#10;        <img src="https://i.ormos.uk/98/66/986625549d1eeea8bd8b25748515148544877629f074abc9982f2f98d0196c25.jpg">&#10;        <i>Manuel Bucher</i>&#10;      </td>&#10;    </tr>&#10;  </tbody></table>
+
+Manuel Bucher is one of the more popular Magic writers in the game after bursting onto the scene over the 2007 and 2008 seasons as a member of the Swiss National World Champion Team and four Grand Prix Top 8s. He is playing the 5Color Bloodbraid Elf deck that has been advocated by Patrick Chapin and has all manner of powerful aggro cards such as Putrid Leech and Bloodbraid Elf backed up by Cryptic Command. He was 6-1 to this point and squaring off with another popular columnist who has had his fair share of tournament success. Just last weekend Paulo Vitor Damo da Rosa made the Top 8 of Barcelona with the Cascade Swans deck that he designed and which was taken the magic community by storm. While Barcelona winner Joel Calafell has not abandoned the 42-lanbd deck there were no Swans for Paulo this weekend. He has returned to his old faithful -- Faeries.
+
+### Game 1
+
+Manuel led off with Putrid Leech while Paulo had led off with Bitterblossom. Bucher’s second Leech was Spellstuttered but he was getting a lot of mileage from the first one. When Paulo’s board got swept by Volcanic Fallout -- the card that had driven Faeries into hiding in the first place -- the score was 14 - 11 in favor of Bucher. Paulo played Jace perhaps hoping it would distract Manuel from killing him but to no avail. Manuel attacked for four and Anathemancer’d Paulo as well. The Brazillian ticked down to one from Bitteerblossom. Paulo flashed the Mistbind Clique he hoped would save him as he played Secluded Glen but Bucher flashed Fallout.
+
+### Game 2
+
+Leech was countered with Broken Ambitions and back-to-back Ram-Gangs were met with Flash Freeze. Finally Paulo found something that was not a counterspell and played Bitterblossom. Manuel sat back for a couple of turns before clearing the token creatures with Volcanic Fallout. He untapped and attempted to do five to Paulo with Anathemancer. When that was met with Cryptic Command Manuel just played another one. Paulo shrugged and untapped to play and equip his Spellstutter Sprite with Loxodon Warhammer. Manuel had another Fallout and cleared the board once again only to have Paulo play Razormane Manuel used Cryptic Commmand to bounce the creature and draw a card. Paulo merely equppied Mutavault and rumbled in for five.
+
+Manuel attempted to buy some time with Kitchen Finks but it was countered and they went on to Game 3.
+
+### Game 3
+
+<table>&#10;    <tbody><tr>&#10;      <td>&#10;        <img src="https://i.ormos.uk/ec/de/ecdea7a51968f473746694cf5f118067e16a7783732b86c2504cfd018be892b1.jpg">&#10;        <i>Paulo Vitor Damo da Rosa</i>&#10;      </td>&#10;    </tr>&#10;  </tbody></table>
+
+Manuel had a turn two Leech -- on the play this time followed by Bitterblossom for Paulo. The explosive quality of the deck was on full display this game as a Ram-Gang allowed Manuel to attack for seven. This was the most punishing exhibition of the deck to this point. With a point of damage from his painland, and another from Bitterblossom, Paulo was already at 11. He fell to 8 on the next attack and had to chump block the Leech with a Faerie token. Manuel offered up Kitchen Finks but Paulo was able to animate Mutavault and Spellstutter Sprite it. Paulo used Mistbind Clique on Manuel’s next upkeep and was able to eat the Ram-Gang when Bucher attacked -- leaving him with just the Putrid Leech.
+
+Paulo was furiously trying to stay afloat and Deathmark killed the Putrid Leech and Broken Ambitions staved off Kitchen Finks. It looked grim for PV when Anathemancer dropped Paulo to 2 with Manuel holding Volcanic Fallout and another Anathemancer lurking in the bin -- but red mana was in short supply as he had used up his vivid land along the way. Eventually Paulo succumbed to the onslaught -- Bloodbraid Elf made a Sygg River Cutthroat. Maelstrom Pulse took out the Mistbind Clique and Paulo could not kill Bucher before he lost two life to his own enchantment.
+
+Final result: Manuel Bucher wins 2 -1
+
+Manuel talked about the deck afterwards, explaining that the deck featured contributions from Patrick Chapin and another player with two cards that he added to the mix. As we were talking he showed off the Cryptic Commands that spent the last two games on the bench.
+
+“I sideboard out this card every single round,” laughed Bucher. “It was not my addition.”
+
+  
+  
+
+*   **Feature Match: Round 9 – Gabriel Nassif (7-1) versus Luis Scott-Vargas (7-1) & Tomaharu Saitou(6-2) versus AJ Sacher (6-2)**
+
+    *by Rich Hagon*
+
+<table>&#10;    <tbody><tr>&#10;      <td>&#10;        <img src="https://i.ormos.uk/97/da/97daee4a847dec3c449964bbc0f06b5e210361536dc6ed68220b4fbb1f7df909.jpg">&#10;        <i>Gabriel Nassif</i>&#10;      </td>&#10;    </tr>&#10;  </tbody></table>
+
+A massive crowd of 100 or so eager onlookers came to see the best in the business go head to head. With both at 7-1 neither could be eliminated from Day Two, but this was a chance to steal a march ahead of a crucial Sunday of Standard action. Nassif opened with Putrid Leech, but LSV had the turn two Bitterblossom. After a second Putrid Leech, Bloodbraid Elf Cascaded into Colossal Might, which would have done serious damage to LSV had it landed. It did not, thanks to Spellstutter Sprite. Even so, with both Leeches pumped to 4/4, LSV was down to just 6 in his upkeep. Nassif chose not to pump the following turn, instead running out Wren’s Run Vanquisher, which met Terror. Upkeep, LSV to 3, desperate defence.....upkeep, LSV to 2, more desperate defence....upkeep, down to 1, Sower of Temptation stole a Nassif Chameleon Colossus, but Nameless Inversion immediately returned the fat green monster to Nassif’s side of the board. Even Mistbind Clique wasn’t enough for LSV, as Nassif smashed over for the win.
+
+Nassif 1 – Scott-Vargas 0
+
+On the other table, Tomaharu Saitou was overwhelming AJ Sacher in their opener. With double Putrid Leech in play, and an activated Mutavault, Saitou cast Nameless Inversion, turning his freshly-pumped Leech into a 7/1 killing machine. Sacher took 13 at a stroke, leaving him at just 1, and when Jace offered no miracle cure, he was one down.
+
+Saitou 1 Sacher 0.
+
+Luis opened the second with a straightforward mulligan, but Nassif had to drop all the way to five. Again LSV found the turn two Bitterblossom, and initially took the beatdown role in the game. Jund Charm for Nassif swept the board, and then Terror from LSV dealt with the subsequent Wren’s Run Vanquisher. Once again the board was empty, and Nassif attempted to fill it with Bloodbraid Elf. It Cascaded into a worthless Magma Spray, with LSV countering the Elf with Broken Ambitions. A second Bloodbraid Elf went the same way, this time falling to Flashfreeze. At least Nassif Cascaded profitably this time, with Nameless Inversion heading for an LSV Faerie....until Scion of Oona thwarted that plan at instant speed. An upkeep Mistbind Clique was enough, and we were heading for a decider.
+
+1-1.
+
+Across the way, Sacher looked in desperate shape. At 12 life, he faced two Mutavault, Llanowar Elves, Cloudthresher and Civic Wayfinder against his solitary Mutavault. There then followed what might be described politely as some ‘math-altering’ interactions. First, Sacher sent Agony Warp at the two opposing Mutavaults, killing one instantly and rendering the other ineffective. His remaining two mana dealt with the Cloudthresher via Terror, but Saitou wasn’t done, casting Nameless Inversion to bin Sacher’s Mutavault. When all was said and done, a potentially game-ending attack had dealt 3 damage. Even so, Saitou continued to press, dropping threat after threat, and once again the card draw of Jace was too slow to save Sacher, meaning that the former Player of the Year Saitou would advance to Day Two.
+
+Tomaharu Saitou 2 – AJ Sacher 0.
+
+<table>&#10;    <tbody><tr>&#10;      <td>&#10;        <img src="https://i.ormos.uk/e0/09/e0090d8680400f588fe13908af36e8d6eed6a7dd6ba143c1ac36041f4dd80d8e.jpg">&#10;        <i>Luis Scott-Vargas</i>&#10;      </td>&#10;    </tr>&#10;  </tbody></table>
+
+By this time, Nassif and Scott-Vargas were well into their final duel, and Nassif clearly had the upper hand, with Putrid Leech and Wren’s Run Vanquisher already on board. As before in the match though, Nassif couldn’t get Bloodbraid Elf to stick, first running into Flashfreeze, and then a Cryptic Command which also tapped the Wren’s Run Vanquisher for a turn. When Thoughtseize from Nassif left LSV with only Puppeteer Clique and two land in hand, it looked like the game was there for Nassif. However, there are times that even the best need a little help from the top of their deck, and this time it came for LSV. On the verge of defeat, Puppeteer Clique died on Nassif’s turn, allowing LSV to ‘borrow’ a Bloodbraid Elf. Untap, upkeep,draw.....six mana saw the game change completely, as LSV first cast, and then equipped Loxodon Warhammer. Smash! Suddenly, it was 10-3 in his favor, and Nassif was staring defeat in the face. The following turn, LSV equipped the Puppeteer Clique, and flew over unopposed for the final damage. While Nassif continues in the tournament, LSV goes into the second session in good shape at 8-1.
+
+Luis Scott-Vargas 2 – Gabriel Nassif 1.
+
+  
+  
+
+*   **Saturday, 9:55pm: Round Nine Undefeated Round Up**
+
+    *by Brian David-Marshall*
+
+While Rich Hagon was lost within the scrum of people clamoring to see LSV and Nassif in their Kyoto finals rematch I watched as the five matches with undefeated players took place on the top tables. Table one featured Sean KcKeown with Kithkin playing against Michael Jacob who was sporting the 5Color Bloodbraid deck that Patrick Chapin had a strong hand in building. After a quick Game 1 win by Sean, Jacob took the next two largely on the broad but inexpensive shoulders of Putrid Leech.
+
+<table>&#10;      <tbody><tr>&#10;        <td>&#10;          <img src="https://i.ormos.uk/a0/8d/a08dd02cfab0180d2422b5d9593f8062f1052eb0b0a48c8006c3cc36a74023d6.jpg">&#10;          <i>Sean KcKeown vs Michael Jacob</i>&#10;        </td>&#10;      </tr>&#10;    </tbody></table>
+
+At table two it was a Jund mirror between Josh Wludyka and Erin Brown. Anathemancers and Ran-Gangs were flying around and in the end Josh’s Loxodon Warhammmer outran Erin’s Behemoth Sledge. The power of Sygg was on display when it came down on turn two in the final game and was followed up by a cantriping Anathemancer.
+
+<table>&#10;      <tbody><tr>&#10;        <td>&#10;          <img src="https://i.ormos.uk/2c/d3/2cd39cda15c4193998e8ae88d292a4a61b299b806b3bc748719ad98c0dd911f3.jpg">&#10;          <i>Josh Wludyka</i>&#10;        </td>&#10;      </tr>&#10;    </tbody></table>
+
+Gabriel Carlton-Barnes and Steven Birklid were the last players sitting as their classic showdown of Faeries and Black-white Tokens went three long games. Gabe pulled out a close Game 1 when -- at two life -- he used his Agony Warp to reduce the power of a freshly cast Murderous Redcap and the toughness of his Mistbind Clique to have the Redcap do no damage. Game 2 went long and it looked like Gabe was going to live to fight another turn when he topdecked Infest against a swarm of black and white tokens but two Zealous persecutions said otherwise. Game 3 saw Steven emerge victorious with a deck that had been a dominating force in the metagame just a few weeks ago.
+
+<table>&#10;      <tbody><tr>&#10;        <td>&#10;          <img src="https://i.ormos.uk/36/00/36002604710b3da6092e9218c18e607d93cb78a3691b1fb00bdf3c14ead303d0.jpg">&#10;          <i>Steven Birklid</i>&#10;        </td>&#10;      </tr>&#10;    </tbody></table>
+
+While Gabe was unable to pilot Fairies to a perfect record on Day One, Russia’s Nicolay Potovin pulled it off. Potovin, considered to be one of the best players without a Pro Tour Top 8 finish, was playing Faeries and made short work of Simon Lee.
+
+<table>&#10;      <tbody><tr>&#10;        <td>&#10;          <img src="https://i.ormos.uk/17/34/17342e0b6ed553ddeaf92c63c48adac700403baecf7222b6441c6027b3f34bb6.jpg">&#10;          <i>Nicolay Potovin</i>&#10;        </td>&#10;      </tr>&#10;    </tbody></table>
+
+Former Limited Information columnist, and Northwest Magic veteran, Noah Weil was the fifth player to finish with a 9-0 record and the third player running a Jund build although his deck forsakes Sygg for the fatter Chameleon Colossus. He has been paired down against Steven Stadnicki.
+
+<table>&#10;      <tbody><tr>&#10;        <td>&#10;          <img src="https://i.ormos.uk/f2/00/f200af4de2a41f2f0ece26352f8cd13e6174aed7aed0d157e9f9233306ca90cf.jpg">&#10;          <i>Noah Weil</i>&#10;        </td>&#10;      </tr>&#10;    </tbody></table>

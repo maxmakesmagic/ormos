@@ -1,0 +1,81 @@
+---
+id: vc20cwf9
+kind: event
+lang: en
+path: /en/articles/event-coverage/2002/11-22-live-coverage-of-2002-grand-prix-melbourne
+title: Live Coverage of 2002 Grand Prix Melbourne
+published: '2002-11-22'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/article.aspx?x=sideboard/events/gpmel02
+    lang_detected: en
+    capture_id: 261768
+    url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/events/gpmel02&print=true
+    captured_at: '2013-07-01 20:27:38+00'
+    rule: aspx.article_heading
+  published:
+    page_key: wizards.com/magic/magazine/article.aspx?x=sideboard/events/gpmel02
+    lang_detected: en
+    capture_id: 261768
+    url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/events/gpmel02&print=true
+    captured_at: '2013-07-01 20:27:38+00'
+    rule: aspx.byline_date
+sources:
+- document_id: vc20cwf9
+  url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/events/gpmel02&print=true
+  page_key: wizards.com/magic/magazine/article.aspx?x=sideboard/events/gpmel02
+  lang: en
+  template: aspx
+  captured_at: '2013-07-01 20:27:38+00'
+  capture_id: 261768
+  wayback_url: https://web.archive.org/web/20130701202738id_/http://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/events/gpmel02&print=true
+- document_id: vc20cwf9
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard_events_gpmel02
+  page_key: wizards.com/magic/magazine/article.aspx?x=sideboard_events_gpmel02
+  lang: en
+  template: aspx
+  captured_at: '2009-06-03 22:31:23+00'
+  capture_id: 892796
+  wayback_url: https://web.archive.org/web/20090603223123id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard_events_gpmel02
+- document_id: vc20cwf9
+  url: http://www.wizards.com/default.asp?x=sideboard/events/gpmel02
+  page_key: wizards.com/default.asp?x=sideboard/events/gpmel02
+  lang: en
+  template: classic_asp
+  captured_at: '2006-01-17 02:27:17+00'
+  capture_id: 2180416
+  wayback_url: https://web.archive.org/web/20060117022717id_/http://www.wizards.com/default.asp?x=sideboard/events/gpmel02
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: vc20cwf9
+  capture_id: 261768
+  url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/events/gpmel02&print=true
+  wayback_url: https://web.archive.org/web/20130701202738id_/http://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/events/gpmel02&print=true
+  captured_at: '2013-07-01 20:27:38+00'
+  template: aspx
+  sha256: 618013ac5cf6247c44b06e871a6a1db08024f0a07c681d1fe89276248a0f11ce
+render_recovery: []
+---
+As yet another Australian GP runs to a close we find a an old favourite winning on a second GP title this home on his home turf.
+
+A diverse field with competitors travelling over from New Zealand and Singapore attempted to wrestle the title away from Australia but they were unsuccessful with GP Cape Town winner Ben Seck emerging triumphant. He ducked, swerved and weaved his way through the swiss portion of the tournament before beating Tristan Gall in the final match, his U/W/r draft deck proving too powerful for Gall's R/W beatdown deck.
+
+Congratulations to Ben Seck, all those who entered the tournament, and all the judges and staff who, as usual, made the event run excellently and smoothly.
+
+  
+
+<table>&#10;    <tbody><tr>&#10;      <td>&#10;        <h3>Top 8 Final Standing</h3>&#10;        <table>&#10;          <tbody><tr>&#10;            <td> 1.  <b>Ben Seck</b></td>&#10;            <td>$2,400</td>&#10;          </tr>&#10;          <tr>&#10;            <td> 2.  <b>Tristan Gall</b></td>&#10;            <td>$1,700</td>&#10;          </tr>&#10;          <tr>&#10;            <td> 3.  <b>Jarron Puszet</b></td>&#10;            <td>$1,200</td>&#10;          </tr>&#10;          <tr>&#10;            <td> 4.  <b>Shun Jiang</b></td>&#10;            <td>$1,000</td>&#10;          </tr>&#10;          <tr>&#10;            <td> 5.  <b>Richard Grace</b></td>&#10;            <td>$800</td>&#10;          </tr>&#10;          <tr>&#10;            <td> 6.  <b>Milton Jian Xiong Lin</b></td>&#10;            <td>$800</td>&#10;          </tr>&#10;          <tr>&#10;            <td> 7.  <b>Chris Allen</b></td>&#10;            <td>$800</td>&#10;          </tr>&#10;          <tr>&#10;            <td> 8.  <b>Jake Hart</b></td>&#10;            <td>$800</td>&#10;          </tr>&#10;        </tbody></table>&#10;        <p>(Click <a href="/nl/events/2002/gpmel02/2002-grand-prix-melbourne-final-standings">here</a> for complete final standings)</p>&#10;      </td>&#10;      <td>&#10;        <img src="https://i.ormos.uk/97/7f/977fa2a8514185cdf800f9618b738b8a38cb411347eac6af86fcb6c95acf14f8.jpg">&#10;      </td>&#10;    </tr>&#10;  </tbody></table>
+
+  
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;    </td><td>Quarterfinals</td>&#10;    <td>&#10;    </td><td>Semifinals</td>&#10;    <td>&#10;    </td><td>Finals</td>&#10;    <td>&#10;    </td><td>Champion</td>&#10;  </tr>&#10;  <tr>&#10;    <td>1</td>&#10;    <td>Ben Seck</td>&#10;    <td rowspan="2">&#10;    </td><td rowspan="2">Ben Seck, 2-1</td>&#10;    <td>&#10;    </td><td>&#10;    </td><td rowspan="3">&#10;    </td><td rowspan="3">&#10;  </td></tr>&#10;  <tr>&#10;    <td>8</td>&#10;    <td>Jake Hart</td>&#10;    <td rowspan="3">&#10;    </td><td rowspan="3">Ben Seck, 2-0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>&#10;    </td><td>&#10;  </td></tr>&#10;  <tr>&#10;    <td>4</td>&#10;    <td>Shun Jiang</td>&#10;    <td rowspan="2">&#10;    </td><td rowspan="2">Shun Jiang, 2-0</td>&#10;    <td rowspan="5">&#10;    </td><td rowspan="5">Ben Seck, 2-1</td>&#10;  </tr>&#10;  <tr>&#10;    <td>5</td>&#10;    <td>Richard Grace</td>&#10;    <td rowspan="3">&#10;    </td><td rowspan="3">&#10;  </td></tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>&#10;    </td><td>&#10;  </td></tr>&#10;  <tr>&#10;    <td>2</td>&#10;    <td>Jarron Puszet</td>&#10;    <td rowspan="2">&#10;    </td><td rowspan="2">Jarron Puszet, 2-0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>7</td>&#10;    <td>Chris Allen</td>&#10;    <td rowspan="3">&#10;    </td><td rowspan="3">Tristan Gall, 2-1</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>&#10;    </td><td>&#10;  </td></tr>&#10;  <tr>&#10;    <td>3</td>&#10;    <td>Tristan Gall</td>&#10;    <td rowspan="2">&#10;    </td><td rowspan="2">Tristan Gall, 2-1</td>&#10;  </tr>&#10;  <tr>&#10;    <td>6</td>&#10;    <td>Milton Jian Xiong Lin</td>&#10;    <td>&#10;    </td><td>&#10;  </td></tr>&#10;</tbody></table>
+
+  
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <img src="https://i.ormos.uk/a7/41/a741c16f2ab1af13d2711e02d14836d0835b76c6cb61ef7966cf3c53907c04c9.gif">&#10;    </td>&#10;    <td>&#10;      <a href="/en/events/2002/gpmel02/2002-grand-prix-melbourne-photo-coverage">Photo Coverage</a>&#10;    </td>&#10;  </tr>&#10;</tbody></table>
+
+<table>&#10;  <tbody><tr>&#10;    <td>EVENT COVERAGE</td>&#10;    <td>INFORMATION</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <ul>&#10;        <li>&#10;          <a href="/en/events/2002/gpmel02/finals-ben-seck-vs-tristan-gall">Finals</a>: Ben Seck vs. Tristan Gall<div><i>by Dan Gow</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2002/gpmel02/semifinals-ben-seck-vs-shun-jiang">Semifinals</a>: Ben Seck vs. Shun Jiang<div><i>by Dan Gow</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2002/gpmel02/quarterfinals-ben-seck-vs-jake-hart">Quarterfinals</a>: Ben Seck vs. Jake Hart<div><i>by Liam Coltman</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2002/gpmel02/quarterfinals-tristan-gall-vs-milton-jian-xiong-lin">Quarterfinals</a>: Tristan Gall vs. Milton Jian Xiong Lin<div><i>by Will Copeman</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2002/gpmel02/quarterfinals-chris-allen-vs-jarron-puszet">Quarterfinals</a>: Chris Allen vs. Jarron Puszet<div><i>by Peter Pohlman</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2002/gpmel02/top-8-draft-ben-seck">Top 8 Draft</a>: Ben Seck<div><i>by Liam Coltman</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2002/gpmel02/round-13-tristan-gall-vs-sam-kissajukian">Round 13</a>: Tristan Gall vs. Sam Kissajukian<div><i>by Dan Gow</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2002/gpmel02/round-12-dane-coltman-vs-shun-jiang">Round 12</a>: Dane Coltman vs. Shun Jiang<div><i>by Peter Pohlman</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2002/gpmel02/round-11-ben-seck-vs-albertus-law">Round 11</a>: Ben Seck vs. Albertus Law<div><i>by Liam Coltman</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2002/gpmel02/draft-2-albertus-law">Draft 2</a>: Albertus Law<div><i>by Liam Coltman</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2002/gpmel02/draft-2-pods">Draft 2</a>: Pods<div><i>by Sideboard Staff</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2002/gpmel02/round-10-scott-richards-vs-tim-he">Round 10</a>: Scott Richards vs. Tim He<div><i>by Dan Gow</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2002/gpmel02/round-9-nathan-russell-vs-simon-leung">Round 9</a>: Nathan Russell vs. Simon Leung<div><i>by Liam Coltman</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2002/gpmel02/round-8-albertus-law-vs-jake-hart">Round 8</a>: Albertus Law vs. Jake Hart<div><i>by Liam Coltman</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2002/gpmel02/draft-1-scott-richards">Draft 1</a>: Scott Richards<div><i>by Dan Gow</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2002/gpmel02/draft-1-pods">Draft 1</a>: Pods<div><i>by Sideboard Staff</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2002/gpmel02/round-7-justin-west-vs-chris-nadebaum">Round 7</a>: Justin West vs. Chris Nadebaum<div><i>by Liam Coltman</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2002/gpmel02/round-7-andrew-bailey-vs-mark-brown">Round 7</a>: Andrew Bailey vs. Mark Brown<div><i>by Dan Gow</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2002/gpmel02/round-6-andrew-lai-vs-ben-seck">Round 6</a>: Andrew Lai vs. Ben Seck<div><i>by Dan Gow</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2002/gpmel02/round-5-rob-nadebaum-vs-stephen-campbell">Round 5</a>: Rob Nadebaum vs. Stephen Campbell<div><i>by Liam Coltman</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2002/gpmel02/round-4-cole-swannack-vs-andrew-gordon">Round 4</a>: Cole Swannack vs. Andrew Gordon<div><i>by Dan Gow</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2002/gpmel02/round-3-merlyn-evans-vs-john-ou">Round 3</a>: Merlyn Evans vs. John Ou<div><i>by Liam Coltman</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2002/gpmel02/round-2-peter-pohlman-vs-adam-kemp">Round 2</a>: Peter Pohlman vs. Adam Kemp<div><i>by Dan Gow</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2002/gpmel02/round-1-egidio-de-gois-vs-anthony-ward">Round 1</a>: Egidio De Gois vs. Anthony War<div><i>by Liam Coltman</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2002/gpmel02/one-minute-with-cole-swannack">Interview</a>: Cole Swannack<div><i>by Liam Coltman</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2002/gpmel02/one-minute-with-justin-west">Interview</a>: Justin West<div><i>by Liam Coltman</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2002/melbourne02/grand-prix-melbourne">Info</a>: Fact Sheet<div><i>by Sideboard Staff</i></div></li>&#10;      </ul>&#10;    </td>&#10;    <td colspan="2">&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <b>Pairings</b>&#10;            <br>&#10;            <a href="/en/events/2002/gpmel02/round-13-pairings">13</a>&#10;            <br>&#10;            <a href="/en/events/2002/gpmel02/round-12-pairings">12</a>&#10;            <br>&#10;            <a href="/en/events/2002/gpmel02/round-11-pairings">11</a>&#10;            <br>&#10;            <a href="/en/events/2002/gpmel02/round-10-pairings">10</a>&#10;            <br>&#10;            <a href="/en/events/2002/gpmel02/round-9-pairings">9</a>&#10;            <br>&#10;            <a href="/de/events/2002/gpmel02/round-8-pairings">8</a>&#10;            <br>&#10;            <a href="/nl/events/2002/gpmel02/round-7-pairings">7</a>&#10;            <br>&#10;            <a href="/nl/events/2002/gpmel02/round-6-pairings">6</a>&#10;            <br>&#10;            <a href="/nl/events/2002/gpmel02/round-5-pairings">5</a>&#10;            <br>&#10;            <a href="/nl/events/2002/gpmel02/round-4-pairings">4</a>&#10;            <br>&#10;            <a href="/nl/events/2002/gpmel02/round-3-pairings">3</a>&#10;            <br>&#10;            <a href="/nl/events/2002/gpmel02/round-2-pairings">2</a>&#10;            <br>&#10;            <a href="/nl/events/2002/gpmel02/round-1-pairings">1</a>&#10;            <br>&#10;          </td>&#10;          <td>&#10;            <b>Results</b>&#10;            <br>&#10;            <a href="/en/events/2002/gpmel02/round-13-results">13</a>&#10;            <br>&#10;            <a href="/en/events/2002/gpmel02/round-12-results">12</a>&#10;            <br>&#10;            <a href="/en/events/2002/gpmel02/round-11-results">11</a>&#10;            <br>&#10;            <a href="/en/events/2002/gpmel02/round-10-results">10</a>&#10;            <br>&#10;            <a href="/en/events/2002/gpmel02/round-9-results">9</a>&#10;            <br>&#10;            <a href="/en/events/2002/gpmel02/round-8-results">8</a>&#10;            <br>&#10;            <a href="/en/events/2002/gpmel02/round-7-results">7</a>&#10;            <br>&#10;            <a href="/nl/events/2002/gpmel02/round-6-results">6</a>&#10;            <br>&#10;            <a href="/nl/events/2002/gpmel02/round-5-results">5</a>&#10;            <br>&#10;            <a href="/en/events/2002/gpmel02/round-4-results">4</a>&#10;            <br>&#10;            <a href="/nl/events/2002/gpmel02/round-3-results">3</a>&#10;            <br>&#10;            <a href="/nl/events/2002/gpmel02/round-2-results">2</a>&#10;            <br>&#10;            <a href="/nl/events/2002/gpmel02/round-1-results">1</a>&#10;            <br>&#10;          </td>&#10;          <td>&#10;            <b>Standings</b>&#10;            <br>&#10;            <a href="/nl/events/2002/gpmel02/2002-grand-prix-melbourne-final-standings">Final</a>&#10;            <br>&#10;            <a href="/nl/events/2002/gpmel02/round-13-standings">13</a>&#10;            <br>&#10;            <a href="/nl/events/2002/gpmel02/round-12-standings">12</a>&#10;            <br>&#10;            <a href="/nl/events/2002/gpmel02/round-11-standings">11</a>&#10;            <br>&#10;            <a href="/nl/events/2002/gpmel02/round-10-standings">10</a>&#10;            <br>&#10;            <a href="/nl/events/2002/gpmel02/round-9-standings">9</a>&#10;            <br>&#10;            <a href="/nl/events/2002/gpmel02/round-8-standings">8</a>&#10;            <br>&#10;            <a href="/nl/events/2002/gpmel02/round-7-standings">7</a>&#10;            <br>&#10;            <a href="/nl/events/2002/gpmel02/round-6-standings">6</a>&#10;            <br>&#10;            <a href="/nl/events/2002/gpmel02/round-5-standings">5</a>&#10;            <br>&#10;            <a href="/nl/events/2002/gpmel02/round-4-standings">4</a>&#10;            <br>&#10;            <a href="/nl/events/2002/gpmel02/round-3-standings">3</a>&#10;            <br>&#10;            <a href="/nl/events/2002/gpmel02/round-2-standings">2</a>&#10;            <br>&#10;            <a href="/nl/events/2002/gpmel02/round-1-standings">1</a>&#10;            <br>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;    </td>&#10;  </tr>&#10;</tbody></table>

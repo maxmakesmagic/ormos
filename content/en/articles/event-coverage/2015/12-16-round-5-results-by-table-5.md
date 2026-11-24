@@ -1,0 +1,47 @@
+---
+id: p4mvvrc4
+kind: event
+lang: en
+path: /en/articles/event-coverage/2015/12-16-round-5-results-by-table-5
+title: Round 5 Results (by Table)
+published: '2015-12-16'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-5-results-table-2015-12-16-2
+    lang_detected: en
+    capture_id: 550192
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-5-results-table-2015-12-16-2
+    captured_at: '2020-11-28 03:42:01+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-5-results-table-2015-12-16-2
+    lang_detected: en
+    capture_id: 550192
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-5-results-table-2015-12-16-2
+    captured_at: '2020-11-28 03:42:01+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: p4mvvrc4
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-5-results-table-2015-12-16-2
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/round-5-results-table-2015-12-16-2
+  lang: en
+  template: drupal
+  captured_at: '2020-11-28 03:42:01+00'
+  capture_id: 550192
+  wayback_url: https://web.archive.org/web/20201128034201id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-5-results-table-2015-12-16-2
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: p4mvvrc4
+  capture_id: 550192
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-5-results-table-2015-12-16-2
+  wayback_url: https://web.archive.org/web/20201128034201id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-5-results-table-2015-12-16-2
+  captured_at: '2020-11-28 03:42:01+00'
+  template: drupal
+  sha256: 3dff52e2837089af20f896029a707691c37457c7e2909a6311a9ac2ef237504e
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b> </td><td><b>Opponent</b></td><td><b>Result</b></td></tr><tr><td>1</td><td>Gilligan, Steve</td><td>Varga, Andrew</td><td>Lost 0-2</td></tr><tr><td>2</td><td>Puszet, Jarron</td><td>Lin, Gordon</td><td>Lost 0-2</td></tr><tr><td>3</td><td>Allen, Chris</td><td>Bruce, Bronwyn</td><td>Won  2-0</td></tr><tr><td>4</td><td>Turner, Daniel</td><td>Rogers, Brett</td><td>Lost 0-2</td></tr><tr><td>5</td><td>Ward, Sam</td><td>Russell, Nathan</td><td>Won  1-0</td></tr><tr><td>6</td><td>Crighton, Neil</td><td>Denz, John</td><td>Lost 0-2</td></tr><tr><td>7</td><td>Humpherys, David</td><td>Copeman, Will</td><td>Lost 0-2</td></tr><tr><td>8</td><td>Helvik, Torbjorn</td><td>Brebach, Kim</td><td>Lost 1-2</td></tr><tr><td>9</td><td>Chai Ming Huang, Royce</td><td>Nakamura, Satoshi</td><td>Won  2-0</td></tr><tr><td>10</td><td>Chieng, Willie</td><td>Lee, Anhtai</td><td>Won  2-1</td></tr><tr><td>11</td><td>Kazantzis, Michael</td><td>Ng, Soon Lye</td><td>Won  2-0</td></tr><tr><td>12</td><td>Tan, Beng</td><td>Lightfoot, Anatoli</td><td>Won  2-0</td></tr><tr><td>13</td><td>Trevilyan, Bryce</td><td>Parry, Mel</td><td>Won  2-0</td></tr><tr><td>14</td><td>Kinkade, Jay</td><td>Haddy, Thomas</td><td>Lost 1-2</td></tr><tr><td>15</td><td>Wong, Nicholas</td><td>Corney, Andrew</td><td>Lost 0-2</td></tr><tr><td>16</td><td>Barlow, Russell</td><td>Ou, John</td><td>Lost 1-2</td></tr><tr><td>17</td><td>Yamaguchi, Ryutaro</td><td>Smith, Nik</td><td>Lost 1-2</td></tr><tr><td>18</td><td>Seck, T. Ben</td><td>Nguyen, Early</td><td>Won  1-0</td></tr><tr><td>19</td><td>Gunawan, Alex</td><td>Darragh, Michael</td><td>Won  2-0</td></tr><tr><td>20</td><td>Coltman, Dane</td><td>Nguyen, Robert</td><td>Won  2-0</td></tr><tr><td>21</td><td>Yamakawa, Youichirou</td><td>Connolly, Joe</td><td>Won  2-1</td></tr><tr><td>22</td><td>Nippierd, Matthew</td><td>Howlett, Simon</td><td>Won  2-0</td></tr><tr><td>23</td><td>Sawkins, Dominic</td><td>Preston, Nick</td><td>Won  2-0</td></tr><tr><td>24</td><td>Ho, Rod</td><td>Gordon, Andrew</td><td>Lost 1-2</td></tr><tr><td>25</td><td>Dougherty, Robert</td><td>Ivas, Mark</td><td>Won  2-0</td></tr><tr><td>26</td><td>Trinh, Michael</td><td>Yuliadinata, Dennis</td><td>Drew 1-1</td></tr><tr><td>27</td><td>Livaic, Zelko</td><td>Starak, Yaro</td><td>Won  2-1</td></tr><tr><td>28</td><td>Fix, Wayne</td><td>Lim, Trevi</td><td>Won  2-1</td></tr><tr><td>29</td><td>Murnain, Alaric</td><td>Brumby, Gene</td><td>Won  2-1</td></tr><tr><td>30</td><td>Evans, Merlyn</td><td>Brugman, John</td><td>Lost 0-2</td></tr><tr><td>31</td><td>Butcherine, Gary</td><td>Hamilton, Berren</td><td>Lost 0-2</td></tr><tr><td>32</td><td>MacDonald, Andrew</td><td>Otton, Kieron</td><td>Won  2-0</td></tr><tr><td>33</td><td>Hart, Jacob</td><td>Jiang, Shun</td><td>Lost 1-2</td></tr><tr><td>34</td><td>Denkel, Wayne</td><td>Doecke, Michael</td><td>Lost 0-2</td></tr><tr><td>35</td><td>Schaumkell, Jeremy</td><td>Keys, Simon</td><td>Lost 0-2</td></tr><tr><td>36</td><td>Kwan, Chris</td><td>White, James</td><td>Won  2-0</td></tr><tr><td>37</td><td>Hui Chin, Albertus Law</td><td>Oks, Oliver</td><td>Won  2-1</td></tr><tr><td>38</td><td>Gaw, Dan</td><td>Goodall, Matthew</td><td>Lost 0-2</td></tr><tr><td>39</td><td>Tuckwell, Chris</td><td>Krings, Stefan</td><td>Lost 0-2</td></tr><tr><td>40</td><td>Poon, Andrew</td><td>Bennett, Andrew</td><td>Won  2-1</td></tr><tr><td>41</td><td>West, Justin</td><td>Karp, Hugh</td><td>Won  2-0</td></tr><tr><td>42</td><td>Hoang, Khoa</td><td>Fong, Gerard</td><td>Lost 1-2</td></tr><tr><td>43</td><td>Muir, Justin</td><td>Fingleton, Liam</td><td>Won  2-0</td></tr><tr><td>44</td><td>Hambleton, Peter</td><td>Nadebaum, Rob</td><td>Won  2-0</td></tr><tr><td>45</td><td>Leung, Simon</td><td>Nelson, Lucas</td><td>Lost 1-2</td></tr><tr><td>46</td><td>Pirie, James</td><td>Speller, Sam</td><td>Won  2-1</td></tr><tr><td>47</td><td>Fletcher, Andrew</td><td>Henry, Simon</td><td>Lost 1-2</td></tr><tr><td>48</td><td>Restel, Sven</td><td>Philp, Jared</td><td>Lost 1-2</td></tr><tr><td>49</td><td>Grain, Andrew</td><td>Purwandi, Jemmy</td><td>Lost 1-2</td></tr><tr><td>50</td><td>Taylor, Ian</td><td>Gall, Triston</td><td>Lost 0-2</td></tr><tr><td>51</td><td>Gillard, Stu</td><td>Romans, Greg</td><td>Lost 1-2</td></tr><tr><td>52</td><td>Mak, Howard</td><td>Alphey, Russell</td><td>Won  2-1</td></tr><tr><td>53</td><td>Hodges, Marcus</td><td>Linke, Johnny</td><td>Won  2-1</td></tr><tr><td>54</td><td>Steele, Wayne</td><td>Vinall, Chris</td><td>Lost 0-2</td></tr><tr><td>55</td><td>Kemp, Adam</td><td>Raslan, Anwar</td><td>Lost 1-2</td></tr><tr><td>56</td><td>Royle, Ian</td><td>Patterson, Stephen</td><td>Lost 0-2</td></tr><tr><td>57</td><td>Semmens, Matthew</td><td>Gress, Pete</td><td>Won  2-1</td></tr><tr><td>58</td><td>Heterick, Craig</td><td>Tatchell, Sam</td><td>Lost 0-2</td></tr><tr><td>59</td><td>Vacher, Stephen</td><td>Kabos, Guy</td><td>Won  2-0</td></tr><tr><td>60</td><td>George, Benjamin</td><td>Fabian, Mark</td><td>Lost 0-2</td></tr><tr><td>61</td><td>Keshow, Roj</td><td>Seymour, Michael</td><td>Lost 0-2</td></tr><tr><td>62</td><td>Pardoe, John</td><td>Romans, Dan</td><td>Won  2-0</td></tr><tr><td>63</td><td>Dunmill, Nick</td><td>Humphreys, Paul</td><td>Won  2-1</td></tr><tr><td>64</td><td>Chin Quan, Audrey</td><td>Collis, Barrie</td><td>Lost 0-2</td></tr><tr><td>65</td><td>Cantori, Greg</td><td>Royle, George</td><td>Lost 1-2</td></tr><tr><td>66</td><td>Lo, Chris</td><td>Connelly-Hansen, Allan</td><td>Won  2-0</td></tr><tr><td>67</td><td>McLeod, Jarrod</td><td>Smith, Bayden</td><td>Won  2-0</td></tr><tr><td>68</td><td>MacArthur, David</td><td>Casssar, Marcus</td><td>Lost 0-2</td></tr><tr><td>69</td><td>Wellington, Cheyne</td><td>Ellis, Dean</td><td>Lost 0-2</td></tr><tr><td>70</td><td>Barsing, Mal</td><td>Mircev, Christo</td><td>Lost 0-2</td></tr><tr><td>71</td><td>Scott, Jason</td><td>Copus, Lee</td><td>Lost 0-2</td></tr><tr><td>72</td><td>Martin, Michael</td><td>Swan, Daniel</td><td>Won  2-0</td></tr><tr><td>73</td><td>Glick, Tim</td><td>Dare, Ryan</td><td>Won  2-0</td></tr><tr><td>74</td><td>Rixon, Bryan</td><td>Searles, Oliver</td><td>Won  2-0</td></tr><tr><td>75</td><td>Ho, Roy</td><td>Nicholls, Justin</td><td>Won  2-0</td></tr><tr><td>76</td><td>Hepburn, Cameron</td><td>Duncan, Greg</td><td>Lost 1-2</td></tr><tr><td>77</td><td>Gawn, Karen</td><td>Burke, Tim</td><td>Lost 0-2</td></tr><tr><td>78</td><td>Tung, Nick</td><td>Bandas, Jim</td><td>Lost 0-2</td></tr><tr><td>79</td><td>Asanovski, Adam</td><td>West, Ben</td><td>Lost 0-2</td></tr><tr><td>80</td><td>Brown, Ken</td><td>Marovic, Ivan</td><td>Won  2-0</td></tr><tr><td>81</td><td>May, Aaron</td><td>Johnston, Glen</td><td>Lost 0-2</td></tr><tr><td>82</td><td>Bruckner, James</td><td>Hodson, Matthew</td><td>Won  2-1</td></tr><tr><td>83</td><td>Masters, Graham</td><td>Doyle, Glenn</td><td>Lost 0-2</td></tr><tr><td>84</td><td>Vine, Mitchell</td><td>Hay, Tom</td><td>Won  2-0</td></tr><tr><td>85</td><td>Sharpe, Allan</td><td>Light, Jens</td><td>Won  2-0</td></tr><tr><td>86</td><td>Koide, Motohiro</td><td>Markham, Warren</td><td>Lost 1-2</td></tr><tr><td>87</td><td>Rosewarne, Jacoby</td><td>Barry, Tyson</td><td>Lost 0-2</td></tr><tr><td>88</td><td>Swannack, Cole</td><td>Zivcic, Brendan</td><td>Won  2-0</td></tr><tr><td>89</td><td>Darragh, Timothy</td><td>Harith, Gibran</td><td>Lost 0-2</td></tr><tr><td></td></tr><tr><td></td><td>Ostrowski, Jaques</td><td></td><td>*** BYE ***</td></tr></tbody></table>

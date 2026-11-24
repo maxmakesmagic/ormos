@@ -1,0 +1,77 @@
+---
+id: yjh3bv1e
+kind: article
+lang: en
+path: /en/articles/feature/2004/04-21-grand-prix-orlando-trials
+title: Grand Prix - Orlando Trials
+published: '2004-04-21'
+column_slug: feature
+column: Feature
+authors:
+- slug: updated-6-14-04-1dc15f36
+  name: updated 6/14/04
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/feature/grand-prix-orlando-trials-2004-04-21
+    lang_detected: en
+    capture_id: 631678
+    url: https://magic.wizards.com/en/articles/archive/feature/grand-prix-orlando-trials-2004-04-21
+    captured_at: '2022-08-17 23:50:03+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/feature/grand-prix-orlando-trials-2004-04-21
+    lang_detected: en
+    capture_id: 631678
+    url: https://magic.wizards.com/en/articles/archive/feature/grand-prix-orlando-trials-2004-04-21
+    captured_at: '2022-08-17 23:50:03+00'
+    rule: drupal.posted_in_date
+  authors:
+    page_key: magic.wizards.com/en/articles/archive/feature/grand-prix-orlando-trials-2004-04-21
+    lang_detected: en
+    capture_id: 631678
+    url: https://magic.wizards.com/en/articles/archive/feature/grand-prix-orlando-trials-2004-04-21
+    captured_at: '2022-08-17 23:50:03+00'
+    rule: drupal.div_author
+  column:
+    page_key: magic.wizards.com/en/articles/archive/feature/grand-prix-orlando-trials-2004-04-21
+    lang_detected: en
+    capture_id: 631678
+    url: https://magic.wizards.com/en/articles/archive/feature/grand-prix-orlando-trials-2004-04-21
+    captured_at: '2022-08-17 23:50:03+00'
+    rule: url.article_section
+    registry_match: registry.explicit
+sources:
+- document_id: yjh3bv1e
+  url: https://magic.wizards.com/en/articles/archive/feature/grand-prix-orlando-trials-2004-04-21
+  page_key: magic.wizards.com/en/articles/archive/feature/grand-prix-orlando-trials-2004-04-21
+  lang: en
+  template: drupal
+  captured_at: '2022-08-17 23:50:03+00'
+  capture_id: 631678
+  wayback_url: https://web.archive.org/web/20220817235003id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-orlando-trials-2004-04-21
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: yjh3bv1e
+  capture_id: 631678
+  url: https://magic.wizards.com/en/articles/archive/feature/grand-prix-orlando-trials-2004-04-21
+  wayback_url: https://web.archive.org/web/20220817235003id_/https://magic.wizards.com/en/articles/archive/feature/grand-prix-orlando-trials-2004-04-21
+  captured_at: '2022-08-17 23:50:03+00'
+  template: drupal
+  sha256: 3ca8e6124b22e95154812bceff626c3a98efe8df7ea3a9c6bc0a78287b3ccf76
+render_recovery:
+- code: unsupported_link
+  element: a
+  target: http://www.groundzeromobile.com%20
+  reason: The archived link could not be resolved as a web address. The preview kept
+    its text.
+  labels:
+  - Website
+  occurrences: 1
+---
+**Entry Fees**: Varies by Location. Contact organizer for details  
+**Tournament Structure**: Mirrodin block limited  
+**Tournament format**: Block Constructed  
+**Prizes**: At least 1 3rd round bye at each tournament, plus product prizes determined by the organizer
+
+<table><tbody><tr><td><b>State</b></td><td><b>City</b></td><td><b>Event Date</b></td><td><b>3-round bye</b></td><td><b>Location</b></td><td><b>Address</b></td><td><b>Contact phone</b></td><td><b>URL</b></td></tr><tr><td>Illinois</td><td>Chicago</td><td>6/12/2004</td><td>1</td><td>Pastimes Sports Cards, Comics &amp; Games</td><td>8478 Golf Rd, Niles</td><td>847-470-9636</td><td><a href="http://www.pastimes.net/">Website</a></td></tr><tr><td>Georgia</td><td>Atlanta</td><td>6/5/2004</td><td>1</td><td>The War Room</td><td>2055-G Beaver Ruin Rd., Norcross</td><td>770-729-9588</td><td><a href="http://www.southeastmagic.com/">Website</a></td></tr><tr><td>Georgia</td><td>Atlanta</td><td>6/26/2004</td><td>1</td><td>The War Room</td><td>2055-G Beaver Ruin Rd., Norcross</td><td>770-729-9588</td><td><a href="http://www.southeastmagic.com/">Website</a></td></tr><tr><td>Missouri</td><td>St. Louis</td><td>6/5/2004</td><td>1</td><td>The Fantasy Shop</td><td>2426 W. Clay</td><td>847-998-9816</td><td><a href="http://www.moyevents.com/">Website</a></td></tr><tr><td>Kentucky</td><td>Louisville</td><td>7/3/2004</td><td>1</td><td>Book and Music Exchange</td><td>5400 Preston Hwy</td><td>502-969-4403</td><td><a href="http://www.bluegrassmagic.com/">Website</a></td></tr><tr><td>Florida</td><td>Naples</td><td>7/17/2004</td><td>1</td><td>Bigkatts</td><td>1029 Airport Rd. North</td><td>239-643-1020</td><td></td></tr><tr><td>Utah</td><td>Salt Lake City</td><td>6/26/2004</td><td>1</td><td>Sylvan Connection</td><td>1 N Main St, Tooele</td><td>801-518-9022</td><td><a href="http://www.theblackrose.com/">Website</a></td></tr><tr><td>California</td><td>SF Bay Area</td><td>7/10/2004</td><td>1</td><td>MatchPlay</td><td>560 Showers Dr., Suite #4, Mountain View</td><td>650-947-0398</td><td><a href="http://www.matchplay.com/">Website</a></td></tr><tr><td>California</td><td>Los Angeles</td><td>6/26/2004</td><td>1</td><td>Costa Mesa Womens Club</td><td>610 West 18th St. </td><td>818-787-3708</td><td><a href="http://www.aztlan-promotions.com/">Website</a></td></tr><tr><td>Ohio</td><td>Rocky River</td><td>7/11/2004</td><td>1</td><td>Rocky River Memorial Hall</td><td>21012 Hilliard Blvd</td><td>440-895-1224</td><td><a href="http://www.compendiumohio.com/">Website</a></td></tr><tr><td>Pennsylvania</td><td>Philadelphia</td><td>6/13/2004</td><td>1</td><td>Inn at Chester Springs</td><td>815 N. Pottstown Pike, Exton</td><td>610-277-6494</td><td><a href="http://www.magicadvisor.com/">Website</a></td></tr><tr><td>Oklahoma</td><td>Oklahoma City</td><td>6/26/2004</td><td>1</td><td>Game HQ</td><td>813 W Danforth Rd, Edmond, OK</td><td>620-584-6555</td><td><a href="http://www.aussiefox.com/">Website</a></td></tr><tr><td>Texas</td><td>Dallas</td><td>6/27/2004</td><td>1</td><td>Madness Games</td><td>511 N Central Expy , McKinney</td><td>620-584-6555</td><td><a href="http://www.aussiefox.com/">Website</a></td></tr><tr><td>Colorado</td><td>Denver</td><td>6/26/2004</td><td>1</td><td>Edwolf's Game Pit</td><td>4231 S. Natches Ct., Unit H, Sheridan</td><td>303-366-3977</td><td><a href="http://www.edwolf.com/">Website</a></td></tr><tr><td>North Carolina</td><td>Charlotte</td><td>6/12/2004</td><td>1</td><td>Charlotte Convention Center</td><td>501 South College St</td><td>888-543-8805</td><td><a href="http://www.undergroundgamesofcharlotte.com/">Website</a></td></tr><tr><td>Florida</td><td>Clermont</td><td>6/12/2004</td><td>1</td><td>Jenkins Auditorium</td><td>691 West Montrose St.</td><td>352-242-9755</td><td><a href="http://www.unityentertainment.net/">Website</a></td></tr><tr><td>Florida</td><td>Gainesville</td><td>6/5/2004</td><td>1</td><td>University of Florida</td><td>Museum Road, Reitz Union Rion Ballroom (2nd floor)</td><td>352-242-9755</td><td><a href="http://www.unityentertainment.net/">Website</a></td></tr><tr><td>Florida</td><td>Tampa </td><td>6/19/2004</td><td>1</td><td>Wonder Water V, Northdale</td><td>14743 N. Dale Mabry Hwy</td><td>352-242-9755</td><td><a href="http://www.unityentertainment.net/">Website</a></td></tr><tr><td>Florida</td><td>Orlando</td><td>7/23/2004</td><td>4</td><td>Expo Center</td><td>500 W. Livingston St., Halls 200 - 300</td><td>352-242-9755</td><td><a href="http://www.unityentertainment.net/">Website</a></td></tr><tr><td>North Carolina</td><td>High Point</td><td>7/17/2004</td><td>1</td><td>DJ's Cards &amp; Stuff</td><td>2619 S. Main St.</td><td>336-674-6708</td><td><a href="http://www.baileyscollectibles.com/">Website</a></td></tr><tr><td>Florida</td><td>Margate</td><td>7/10/2004</td><td>1</td><td>Comic Connection</td><td>1741 North S.R. 7 </td><td>954-973-0703</td><td><a href="http://www.comiccon.com/">Website</a></td></tr><tr><td>New Mexico</td><td>Albuquerque</td><td>7/17/2004</td><td>1</td><td>Active Imagination</td><td>11200 Montomgery NE #10</td><td>505-346-2232</td><td><a href="http://www.aigamestore.com/">Website</a></td></tr><tr><td>Tennessee</td><td>Knoxville</td><td>7/3/2004</td><td>1</td><td>The Round Table</td><td>2800 Sutherland Ave</td><td>800-584-2521</td><td><a href="http://www.flybyniteevents.com/">Website</a></td></tr><tr><td>Tennessee</td><td>Nashville</td><td>7/17/2004</td><td>1</td><td>Ourter Limits Hendersonville</td><td>115 Walton Ferry Rd #9, Hendersonville</td><td>800-584-2521</td><td><a href="http://www.flybyniteevents.com/">Website</a></td></tr><tr><td>Nevada</td><td>Las Vegas</td><td>7/3/2004</td><td>1</td><td>Game World</td><td>3455 S. Durango, Ste 104</td><td>702-990-0288</td><td><a href="http://www.ptegames.com/">Website</a></td></tr><tr><td>Maryland</td><td>Rockville</td><td>7/3/2004</td><td>1</td><td>Dream Wizards</td><td>11772 Parklawn Dr.</td><td>301-881-3530</td><td><a href="http://www.dreamwizards.com/">Website</a></td></tr><tr><td>Alabama</td><td>Mobile</td><td>6/19/2004</td><td>1</td><td>GroundZero Mobile</td><td>6850 Moffett Rd</td><td>251-645-8712</td><td><a>Website</a></td></tr><tr><td>Florida</td><td>Panama City</td><td>7/10/2004</td><td>1</td><td>Comic Eporium</td><td>2403 Hwy 231</td><td>850-769-2690</td><td><a href="http://www.comicemporium.net/">Website</a></td></tr><tr><td>New York</td><td>New York</td><td>6/12/2004</td><td>1</td><td>Neutral Ground</td><td>122 W. 26th St., 4th Floor</td><td>212-633-1288</td><td><a href="http://www.neutralground.net/">Website</a></td></tr><tr><td>Ontario</td><td>Toronto</td><td>7/2/2004</td><td>1</td><td>Canadian Nationals - Toronto Travelodge Yorkdale</td><td>227 Keele St., McDonald/Weston ballrooms</td><td>905-721-1521</td><td><a href="http://www.skyfoxgames.com/">Website</a></td></tr><tr><td>Ontario</td><td>Montreal</td><td>6/5/2004</td><td>1</td><td>Carta Magica</td><td>6360 St-Hubert, Metro Beaubien</td><td>514-286-9099</td><td><a href="http://www.cartamagica.com/">Website</a></td></tr><tr><td>Nebraska</td><td>Lincoln</td><td>6/6/2004</td><td>1</td><td>HobbyTown USA</td><td>3120 Pine Lake Rd., Ste 4</td><td>402-434-5040</td><td><a href="http://lincolnsouthne.hobbytown.com/custompages/?id=3107">Website</a></td></tr><tr><td>Ohio</td><td>Cincinnati</td><td>7/10/2004</td><td>1</td><td>Violet Vortex Games</td><td>1147 Main St.</td><td>877-913-8881</td><td><a href="http://www.professional-events.com/">Website</a></td></tr><tr><td>Ohio</td><td>Columbus</td><td>7/18/2004</td><td>1</td><td>Franklin County Veterans Memorial</td><td>300 W. Broad St.</td><td>877-913-8881</td><td><a href="http://www.professional-events.com/">Website</a></td></tr><tr><td>Michigan</td><td>Detroit</td><td>7/11/2004</td><td>1</td><td>Pandemonium</td><td>1858 Middlebelt Rd, Garden City</td><td>877-913-8881</td><td><a href="http://www.professional-events.com/">Website</a></td></tr><tr><td>West Virginia</td><td>Fairmont</td><td>7/10/2004</td><td>1</td><td>D&amp;S Collectibles</td><td>2500 Fairmont Ave, Middletown Mall</td><td>877-913-8881</td><td><a href="http://www.professional-events.com/">Website</a></td></tr><tr><td>Pennsylvania</td><td>Pittsburgh</td><td>6/13/2004</td><td>1</td><td>Butler-Days Inn Conference Center</td><td>139 Pittsburgh Rd.- Route 8, Butler</td><td>877-913-8881</td><td><a href="http://www.professional-events.com/">Website</a></td></tr><tr><td>Arkansas</td><td>Little Rock</td><td>7/3/2004</td><td>1</td><td>Family Games Center</td><td>9700B Rodney Parham</td><td>501-978-5310</td><td><a href="http://www.familygamescenter.com/">Website</a></td></tr><tr><td>Tennessee</td><td>Memphis</td><td>7/10/2004</td><td>1</td><td>Triple Play</td><td>2882 Wolf Creek Parkway</td><td>501-978-5310</td><td><a href="http://www.familygamescenter.com/">Website</a></td></tr><tr><td>Virginia</td><td>Roanoke</td><td>7/10/2004</td><td>1</td><td>Star City Games</td><td>5623 Williamson Rd. NW</td><td>540-362-4400</td><td><a href="http://www.starcitygames.com/">Website</a></td></tr><tr><td>Virginia</td><td>Charlottesville</td><td>6/26/2004</td><td>1</td><td>The End Game Center</td><td>722 West Rio Rd., Ste 8</td><td>540-362-4400</td><td><a href="http://www.starcitygames.com/">Website</a></td></tr><tr><td>California</td><td>San Diego</td><td>5/16/2004</td><td>1</td><td>PT San Diego - San Diego Convention Center</td><td>111 West Harbor Dr</td><td>800-324-6496</td><td><a href="https://web.archive.org/web/20040421000000/http://www.wizards.com/">Website</a></td></tr><tr><td>Arizona</td><td>Phoenix</td><td>7/17/2004</td><td>1</td><td>Gamer's Edge</td><td>2144 N. Arizona Ave #B-22, Chandler</td><td>480-326-0925</td><td><a href="http://www.monk.org/">Website</a></td></tr><tr><td>Massachusetts</td><td>Boston</td><td>6/6/2004</td><td>1</td><td>Your Move Games</td><td>389 Highland Ave</td><td>617-666-5799</td><td><a href="http://www.yourmovegames.com/">Website</a></td></tr><tr><td>Rhode Island</td><td>Providence</td><td>6/26/2004</td><td>1</td><td>Your Move Games</td><td>1670 Mineral Spring Ave</td><td>617-666-5799</td><td><a href="http://www.yourmovegames.com/">Website</a></td></tr><tr><td>Kansas</td><td>Kansas City</td><td>7/18/2004</td><td>1</td><td>Collector's Cache</td><td>10150 West 119th Street</td><td>913-208-6695</td><td><a href="http://www.feralevents.com/">Website</a></td></tr><tr><td>Wisconsin</td><td>Madison</td><td>7/17/2004</td><td>1</td><td>Misty Mountain Games</td><td>4526 Monona Dr.</td><td>877-853-4466</td><td><a href="http://www.mistymountaingames.com/">Website</a></td></tr><tr><td>Washington</td><td>Seattle</td><td>6/5/2004</td><td>1</td><td>Card Exchange Warehouse</td><td>14020 Aurora Ave N.</td><td>206-706-2626</td><td><a href="http://freeyourmind.biz/">Website</a></td></tr><tr><td>Oregon</td><td>Portland</td><td>6/26/2004</td><td>1</td><td>Ancient Wonders</td><td>19060 SW Boones Ferry Rd., Tualiton</td><td>503-727-3555</td><td><a href="http://freeyourmind.biz/">Website</a></td></tr><tr><td>Texas</td><td>Houston</td><td>6/12/2004</td><td>1</td><td>Midnight Comics</td><td>13711 Westheimer, Ste Q</td><td>713-569-3936</td><td><a href="http://www.ehevents.com/">Website</a></td></tr><tr><td>Louisiana</td><td>New Orleans</td><td>7/10/2004</td><td>1</td><td>Slammin Sam's</td><td>7770 Bluebonnett Blvd, Ste E</td><td>713-569-3936</td><td><a href="http://www.ehevents.com/">Website</a></td></tr><tr><td>Connecticut</td><td>Milford</td><td>6/12/2004</td><td>1</td><td>Barron's Games and Cards</td><td>232 Boston Post Rd</td><td>508-473-5874</td><td><a href="http://www.tjcollect.com/">Website</a></td></tr><tr><td>South Carolina</td><td>Myrtle Beach</td><td>7/10/2004</td><td>1</td><td>The Dueling Ground</td><td>4981 Socastee Blvd</td><td>843-293-1406</td><td><a href="http://www.duelingground.com/">Website</a></td></tr><tr><td>Indiana</td><td>Indianapolis</td><td>7/12/2004</td><td>1</td><td>The Game Preserve</td><td>1551 East Stop 12 Rd</td><td>812-201-0663</td><td><a href="http://www.geocities.com/simplymtg/">Website</a></td></tr><tr><td>Tennessee</td><td>Bristol</td><td>6/20/2004</td><td>1</td><td>Mr.Wayne's</td><td>2516 Volulnteer Parkway</td><td>423-764-1720</td><td><a href="https://web.archive.org/web/20040421000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=www.mrwaynes.com">Website</a></td></tr><tr><td>Mexico</td><td>Mexico City</td><td>5/1/2004</td><td>1</td><td>Plaza Rio Tamiahua #2</td><td>Col. Paseos de Churubusco</td><td>56-54-7572</td><td></td></tr></tbody></table>

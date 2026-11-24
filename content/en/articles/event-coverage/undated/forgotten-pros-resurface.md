@@ -1,0 +1,531 @@
+---
+id: 86mv2cnz
+kind: event
+lang: en
+path: /en/articles/event-coverage/undated/forgotten-pros-resurface
+title: Forgotten Pros Resurface!
+published: null
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtgevent_gplill05_welcome
+    lang_detected: en
+    capture_id: 829338
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_gplill05_welcome
+    captured_at: '2009-06-04 00:43:55+00'
+    rule: aspx.article_heading
+sources:
+- document_id: 86mv2cnz
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_gplill05_welcome
+  page_key: wizards.com/magic/magazine/article.aspx?x=mtgevent_gplill05_welcome
+  lang: en
+  template: aspx
+  captured_at: '2009-06-04 00:43:55+00'
+  capture_id: 829338
+  wayback_url: https://web.archive.org/web/20090604004355id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_gplill05_welcome
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 86mv2cnz
+  capture_id: 829338
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_gplill05_welcome
+  wayback_url: https://web.archive.org/web/20090604004355id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_gplill05_welcome
+  captured_at: '2009-06-04 00:43:55+00'
+  template: aspx
+  sha256: 97ea8024fef74d25f33013c049f8fad3fba680b29358c0e88c9c3a2a377ee56b
+render_recovery:
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Call')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Call
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Nimble_Mongoose')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Nimble Mongoose
+  occurrences: 13
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Psychatog')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Psychatog
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Worship')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Worship
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Werebear')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Werebear
+  occurrences: 20
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Gamekeeper')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Gamekeeper
+  occurrences: 10
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Auriok_Salvagers')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Auriok Salvagers
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Chromatic_Sphere')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Chromatic Sphere
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Pyrite_Spellbomb')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Pyrite Spellbomb
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Cabal_Therapy')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Cabal Therapy
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Counterspell')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Counterspell
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Serum_Visions')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Serum Visions
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Quirion_Dryad')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Quirion Dryad
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Ice')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Ice
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Living_Wish')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Living Wish
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Ritual')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Ritual
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mental_Note')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mental Note
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Tainted_Pact')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Tainted Pact
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Innocent_Blood')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Innocent Blood
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Night[s_Whisper')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Night's Whisper
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Dark_Ritual')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Dark Ritual
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Daze')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Daze
+  occurrences: 9
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Submerge')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Submerge
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Standstill')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Standstill
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Meddling_Mage')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Meddling Mage
+  occurrences: 10
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Brainstorm')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Brainstorm
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Wasteland')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Wasteland
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Exalted_Angel')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Exalted Angel
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Survival_of_the_Fittest')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Survival of the Fittest
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Goblin_Lackey')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Goblin Lackey
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Ravenous_Baloth')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Ravenous Baloth
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Triskelion')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Triskelion
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sphere_of_Law')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sphere of Law
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sword_of_Fire_and_Ice')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sword of Fire and Ice
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Pithing_Needle')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Pithing Needle
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Galina[s_Knight')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Galina's Knight
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Renewed_Faith')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Renewed Faith
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Swords_to_Plowshares')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Swords to Plowshares
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Force_of_Will')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Force of Will
+  occurrences: 8
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Decree_of_Justice')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Decree of Justice
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Akroma[s_Vengeance')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Akroma's Vengeance
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Pyroclasm')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Pyroclasm
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Slice_and_Dice')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Slice and Dice
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Eternal_Dragon')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Eternal Dragon
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Armageddon')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Armageddon
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mystic_Enforcer')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mystic Enforcer
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Humility')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Humility
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Birds_of_Paradise')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Birds of Paradise
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Fire')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Fire
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Duress')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Duress
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Birds')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Birds
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Viridian_Shaman')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Viridian Shaman
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Eternal_Witness')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Eternal Witness
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Wall_of_Roots')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Wall of Roots
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Solemn_Simulacrum')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Solemn Simulacrum
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Naturalize')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Naturalize
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Pernicious_Deed')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Pernicious Deed
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Predict')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Predict
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Stifle')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Stifle
+  occurrences: 1
+---
+![](https://www.wizards.com/sideboard/images/gplill05/win.jpg)
+
+Call pest control! There's little green critters are running all over the place. The two defining decks of this, the largest Legacy tournament ever, are Threshold and Goblins. In total I believe there were around 148 Nimble Mongooses running around today, making this innocuous little critter perhaps the defining creature of the format in the way Psychatog is for Extended.
+
+937 players came to Lille to try their hand at the novel Legacy format. In the end it wasn't so much about the Pro's holding their own as old Pro's coming back in from the cold. Nicolas Labarre and Helmut Summersberger, both names from the past, took an early lead over the field with their Threshold decks before cementing their places in the top 8. A final between the two old Pro's was denied as up-and-coming Czech player, Daniel Krutil overcame Labarre in the semi's with a Worship/Nimble Mongoose combo the French player couldn't handle.
+
+The final went the full three games and in a decider that swung back and forth Summersberger managed to exhaust Krutil's counter defences and swing back strongly with his own Werebears and Nimble Mongoose to take the game and match.
+
+Congratulations to Helmut Summersberger, the first Grand Prix winner of the new Magic year!
+
+  
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;    </td><td>Quarterfinals </td>&#10;    <td> </td>&#10;    <td>Semifinals </td>&#10;    <td> </td>&#10;    <td>Finals </td>&#10;    <td> </td>&#10;    <td>Champion </td>&#10;  </tr>&#10;  <tr>&#10;    <td>1</td>&#10;    <td>&#10;      Helmut Summersberger [AUT]&#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Helmut Summersberger, 2-0&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3"> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>8</td>&#10;    <td>&#10;      Nicolas Francois [FRA]&#10;    </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3">&#10;      Helmut Summersberger, 2-0&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>4</td>&#10;    <td>&#10;      Luca Verdiani [ITA[&#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Luca Verdiani, 2-0&#10;    </td>&#10;    <td rowspan="5"> </td>&#10;    <td rowspan="5">&#10;      Helmut Summersberger, 2-1&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>5</td>&#10;    <td>&#10;      Loic Le Briand [FRA]&#10;    </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3"> </td>&#10;  </tr>&#10;  <tr>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>2</td>&#10;    <td>&#10;      Nicolas Labarre [FRA]&#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Nicolas Labarre, 2-1&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>7</td>&#10;    <td>&#10;      Maximilian Bracht [DEU]&#10;    </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3">&#10;      Daniel Krutil, 2-1&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>3</td>&#10;    <td>&#10;      Martin Johannes Brenner [DEU]&#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Daniel Krutil, 2-0&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>6</td>&#10;    <td>&#10;      Daniel Krutil [CZE]&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;</tbody></table>
+
+  
+  
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <b>EVENT COVERAGE</b>&#10;    </td>&#10;    <td>&#10;      <b>INFORMATION</b>&#10;      &#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <ul>&#10;        <br>&#10;        <li>&#10;          <a href="#7">Blog - 11:19 p.m.</a>: Finals: Daniel Krutil vs. Helmut Summersberger<div><i>by Craig Jones</i></div></li>&#10;        <li>&#10;          <a href="#6">Blog - 10:22 p.m.</a>: Semifinals: Helmut Summersberger vs. Luca Verdiani<div><i>by Craig Jones</i></div></li>&#10;        <li>&#10;          <a href="#5">Blog - 9:47 p.m.</a>: Semifinals: Nicolas Labarre vs. Daniel Krutil<div><i>by Craig Jones</i></div></li>&#10;        <li>&#10;          <a href="#4">Blog - 9:14 p.m.</a>: Quarterfinals: Daniel Krutil vs. Martin Johannes Brenner<div><i>by Craig Jones</i></div></li>&#10;        <li>&#10;          <a href="#3">Blog - 8:57 p.m.</a>: Quarterfinals: Luca Verdiani vs. Loïc Le Briand<div><i>by Craig Jones</i></div></li>&#10;        <li>&#10;          <a href="#2">Blog - 8:48 p.m.</a>: Quarterfinals: Nicolas Francois vs. Helmut Summersberger<div><i>by Craig Jones</i></div></li>&#10;        <li>&#10;          <a href="#1">Blog - 8:31 p.m.</a>: Quarterfinals: Maximilian Bracht vs. Nicolas Labarre<div><i>by Craig Jones</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2006/gplill05/decklists-the-top-8-decks">Decklists</a>: The Top 8 Decks<div><i>by Event Coverage Staff</i></div></li>&#10;        <br>&#10;        <hr>&#10;        <br>&#10;        <li>&#10;          <a href="/en/events/2006/gplill05/day-2-blog-archive">Day 2 Blog Archive</a>: Day 1 Undefeated Decklists, Day 2 Archetype Breakdown, Last Round Roundup, and more!<div><i>by Craig Jones</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2006/gplill05/decklists-the-top-128-decks">Decklists</a>: The Top 128 Decks<div><i>by Event Coverage Staff</i></div></li>&#10;        <li>&#10;          <a href="/de/events/2006/gplill05/day-2-player-list">Info</a>: Day 2 Player List<div><i>by Event Coverage Staff</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2006/gplill05/day-2-country-breakdown">Info</a>: Day 2 Country Breakdown<div><i>by Event Coverage Staff</i></div></li>&#10;        <br>&#10;        <hr>&#10;        <br>&#10;        <li>&#10;          <a href="/en/events/2006/gplill05/day-1-blog-archive">Day 1 Blog Archive</a>: Round 9 Roundup, Combined Country Braekdown, Traders get Festive, and more!<div><i>by Craig Jones</i></div></li>&#10;        <li>&#10;          <a href="/nl/events/2006/gplill05/day-1-player-list-green-bracket">Info</a>: Day 1 Player List (Green Bracket)<div><i>by Event Coverage Staff</i></div></li>&#10;        <li>&#10;          <a href="/it/events/2006/gplill05/day-1-player-list-blue-bracket">Info</a>: Day 1 Player List (Blue Bracket)<div><i>by Event Coverage Staff</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2006/gplill05/round-1-country-breakdown-green-bracket">Info</a>: Day 1 Country Breakdown (Green Bracket)<div><i>by Event Coverage Staff</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2006/gplill05/round-1-country-breakdown-blue-bracket">Info</a>: Day 1 Country Breakdown (Blue Bracket)<div><i>by Event Coverage Staff</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2006/lille05/grand-prix-lille">Info</a>: Fact Sheet<div><i>by Event Coverage Staff</i></div></li>&#10;      </ul>&#10;    </td>&#10;    <td colspan="2">&#10;      &#10;      <table>&#10;        <tbody><tr>&#10;          <td> 1.  <b>Helmut Summersberger</b></td>&#10;          <td>$2,400</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 2.  <b>Daniel Krutil</b></td>&#10;          <td>$1,700</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 3.  <b>Nicholas Labarre</b></td>&#10;          <td>$1,200</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 4.  <b>Luca Verdiani</b></td>&#10;          <td>$1,000</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 5.  <b>Martin Brenner</b></td>&#10;          <td>$800</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 6.  <b>Loic Le Briand</b></td>&#10;          <td>$800</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 7.  <b>Maximillian Bracht</b></td>&#10;          <td>$800</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 8.  <b>Nicolas Francois</b></td>&#10;          <td>$800</td>&#10;        </tr>&#10;      </tbody></table>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <b>Pairings</b>&#10;          </td>&#10;          <td>&#10;            <b>Results</b>&#10;          </td>&#10;          <td>&#10;            <b>Standings</b>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;          </td><td>&#10;          </td><td>&#10;            <a href="/nl/events/2006/gplill05/final-standings">Final</a>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            <a href="/de/events/2006/gplill05/round-15-pairings">15</a>&#10;            <br>&#10;            <a href="/de/events/2006/gplill05/round-14-pairings">14</a>&#10;            <br>&#10;            <a href="/de/events/2006/gplill05/round-13-pairings">13</a>&#10;            <br>&#10;            <a href="/de/events/2006/gplill05/round-12-pairings">12</a>&#10;            <br>&#10;            <a href="/de/events/2006/gplill05/round-11-pairings">11</a>&#10;            <br>&#10;            <a href="/de/events/2006/gplill05/round-10-pairings">10</a>&#10;          </td>&#10;          <td>&#10;            <a href="/de/events/2006/gplill05/round-15-results">15</a>&#10;            <br>&#10;            <a href="/de/events/2006/gplill05/round-14-results">14</a>&#10;            <br>&#10;            <a href="/nl/events/2006/gplill05/round-13-results">13</a>&#10;            <br>&#10;            <a href="/nl/events/2006/gplill05/round-12-results">12</a>&#10;            <br>&#10;            <a href="/nl/events/2006/gplill05/round-11-results">11</a>&#10;            <br>&#10;            <a href="/nl/events/2006/gplill05/round-10-results">10</a>&#10;          </td>&#10;          <td>&#10;            <a href="/nl/events/2006/gplill05/round-15-standings">15</a>&#10;            <br>&#10;            <a href="/nl/events/2006/gplill05/round-14-standings">14</a>&#10;            <br>&#10;            <a href="/nl/events/2006/gplill05/round-13-standings">13</a>&#10;            <br>&#10;            <a href="/nl/events/2006/gplill05/round-12-standings">12</a>&#10;            <br>&#10;            <a href="/nl/events/2006/gplill05/round-11-standings">11</a>&#10;            <br>&#10;            <a href="/nl/events/2006/gplill05/round-10-standings">10</a>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            <a href="/de/events/2006/gplill05/round-9-pairings-blue-bracket">9b</a>&#10;            <br>&#10;            <a href="/de/events/2006/gplill05/round-8-pairings-blue-bracket">8b</a>&#10;            <br>&#10;            <a href="https://web.archive.org/web/20090603144205/http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gplill05/pair7b">7b</a>&#10;            <br>&#10;            <a href="/de/events/2006/gplill05/round-6-pairings-blue-bracket">6b</a>&#10;            <br>&#10;            <a href="/de/events/2006/gplill05/round-5-pairings-blue-bracket">5b</a>&#10;            <br>&#10;            <a href="/de/events/2006/gplill05/round-4-pairings-blue-bracket">4b</a>&#10;            <br>&#10;            <a href="/de/events/2006/gplill05/round-3-pairings-blue-bracket">3b</a>&#10;            <br>&#10;            <a href="/de/events/2006/gplill05/round-2-pairings-blue-bracket">2b</a>&#10;            <br>&#10;            <a href="/de/events/2006/gplill05/round-1-pairings-blue-bracket">1b</a>&#10;          </td>&#10;          <td>&#10;            <a href="/de/events/2006/gplill05/round-9-results-blue-bracket">9b</a>&#10;            <br>&#10;            <a href="/de/events/2006/gplill05/round-8-results-blue-bracket">8b</a>&#10;            <br>&#10;            <a href="/de/events/2006/gplill05/round-7-results-blue-bracket">7b</a>&#10;            <br>&#10;            <a href="/de/events/2006/gplill05/round-6-results-blue-bracket">6b</a>&#10;            <br>&#10;            <a href="/de/events/2006/gplill05/round-5-results-blue-bracket">5b</a>&#10;            <br>&#10;            <a href="/de/events/2006/gplill05/round-4-results-blue-bracket">4b</a>&#10;            <br>&#10;            <a href="/de/events/2006/gplill05/round-3-results-blue-bracket">3b</a>&#10;            <br>&#10;            <a href="/de/events/2006/gplill05/round-2-results-blue-bracket">2b</a>&#10;            <br>&#10;            <a href="/de/events/2006/gplill05/round-1-results-blue-bracket">1b</a>&#10;          </td>&#10;          <td>&#10;            <a href="/de/events/2006/gplill05/round-9-standings-blue-bracket">9b</a>&#10;            <br>&#10;            <a href="/de/events/2006/gplill05/round-8-standings-blue-bracket">8b</a>&#10;            <br>&#10;            <a href="/de/events/2006/gplill05/round-7-standings-blue-bracket">7b</a>&#10;            <br>&#10;            <a href="/de/events/2006/gplill05/round-6-standings-blue-bracket">6b</a>&#10;            <br>&#10;            <a href="/de/events/2006/gplill05/round-5-standings-blue-bracket">5b</a>&#10;            <br>&#10;            <a href="/de/events/2006/gplill05/round-4-standings-blue-bracket">4b</a>&#10;            <br>&#10;            <a href="/de/events/2006/gplill05/round-3-standings-blue-bracket">3b</a>&#10;            <br>&#10;            <a href="/de/events/2006/gplill05/round-2-standings-blue-bracket">2b</a>&#10;            <br>&#10;            <a href="/de/events/2006/gplill05/round-1-standings-blue-bracket">1b</a>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            <a href="/de/events/2006/gplill05/round-9-pairings-green-bracket">9g</a>&#10;            <br>&#10;            <a href="/nl/events/2006/gplill05/round-8-pairings-green-bracket">8g</a>&#10;            <br>&#10;            <a href="/nl/events/2006/gplill05/round-7-pairings-green-bracket">7g</a>&#10;            <br>&#10;            <a href="/nl/events/2006/gplill05/round-6-pairings-green-bracket">6g</a>&#10;            <br>&#10;            <a href="/nl/events/2006/gplill05/round-5-pairings-green-bracket">5g</a>&#10;            <br>&#10;            <a href="/nl/events/2006/gplill05/round-4-pairings-green-bracket">4g</a>&#10;            <br>&#10;            <a href="/nl/events/2006/gplill05/round-3-pairings-green-bracket">3g</a>&#10;            <br>&#10;            <a href="/nl/events/2006/gplill05/round-2-pairings-green-bracket">2g</a>&#10;            <br>&#10;            <a href="/nl/events/2006/gplill05/round-1-pairings-green-bracket">1g</a>&#10;          </td>&#10;          <td>&#10;            <a href="/de/events/2006/gplill05/round-9-results-green-bracket">9g</a>&#10;            <br>&#10;            <a href="/de/events/2006/gplill05/round-8-results-green-bracket">8g</a>&#10;            <br>&#10;            <a href="/nl/events/2006/gplill05/round-7-results-green-bracket">7g</a>&#10;            <br>&#10;            <a href="/nl/events/2006/gplill05/round-6-results-green-bracket">6g</a>&#10;            <br>&#10;            <a href="/nl/events/2006/gplill05/round-5-results-green-bracket">5g</a>&#10;            <br>&#10;            <a href="/nl/events/2006/gplill05/round-4-results-green-bracket">4g</a>&#10;            <br>&#10;            <a href="/nl/events/2006/gplill05/round-3-results-green-bracket">3g</a>&#10;            <br>&#10;            <a href="/nl/events/2006/gplill05/round-2-results-green-bracket">2g</a>&#10;            <br>&#10;            <a href="/nl/events/2006/gplill05/round-1-results-green-bracket">1g</a>&#10;          </td>&#10;          <td>&#10;            <a href="/nl/events/2006/gplill05/round-9-standings-green-bracket">9g</a>&#10;            <br>&#10;            <a href="/nl/events/2006/gplill05/round-8-standings-green-bracket">8g</a>&#10;            <br>&#10;            <a href="/nl/events/2006/gplill05/round-7-standings-green-bracket">7g</a>&#10;            <br>&#10;            <a href="/nl/events/2006/gplill05/round-6-standings-green-bracket">6g</a>&#10;            <br>&#10;            <a href="/nl/events/2006/gplill05/round-5-standings-green-bracket">5g</a>&#10;            <br>&#10;            <a href="/nl/events/2006/gplill05/round-4-standings-green-bracket">4g</a>&#10;            <br>&#10;            <a href="/nl/events/2006/gplill05/round-3-standings-green-bracket">3g</a>&#10;            <br>&#10;            <a href="/nl/events/2006/gplill05/round-2-standings-green-bracket">2g</a>&#10;            <br>&#10;            <a href="/nl/events/2006/gplill05/round-1-standings-green-bracket">1g</a>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;    </td>&#10;  </tr>&#10;</tbody></table>
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <b>BLOG</b>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <br>&#10;      <a name="1">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, December 18: 8:31 p.m. - Quarterfinals: Maximilian Bracht vs. Nicolas Labarre</b>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://www.wizards.com/sideboard/images/gplill05/qf1_1.jpg">&#10;            <i>The quarterfinals bear pit.</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Okay, so because we're critically short of both laptops and reporters it looks like it's just me for the quarters. Rather than just concentrate on one I'm going to try and float between the other matches so we at least have a record of what happened. My brain might melt, but fortunately I've got a very good judging team to bale me out and maybe mop up cranial matter off the floor if they have to.</p>&#10;      <p>The match I'm going to pay the most attention to is between Maximilian Bracht and Nicolas Labarre. Bracht is a young German player worth keeping an eye on while Labarre was making PT top 8's way back in 1999. Bracht as one of the more interesting decks in the top 8 as it's a combo deck that uses <a>Gamekeeper</a> to fetch <a>Auriok Salvagers</a>. The Salvagers generate infinite mana with Lion's Eye Diamond and then that infinite mana is used to draw the deck through the use of <a>Chromatic Sphere</a> before killing an opponent with infinite <a>Pyrite Spellbomb</a> recursion.</p>&#10;      <p>The start of the quarter-final was delayed as an error was noticed on Labarre's deck registration street. It was ruled as a clerical error in the translation from French to English and Labarre escaped with just a warning.</p>&#10;      <p>When the game finally began Bracht opened with a <a>Cabal Therapy</a> and plucked a <a>Counterspell</a> from Labarre's hand. He cycled a <a>Pyrite Spellbomb</a> and dropped a Lion's Eye Diamond. Meanwhile Labarre cast <a>Serum Visions</a> and then started his clock with <a>Quirion Dryad</a>. The Frenchman was stuck on two land and used <a>Ice</a> in Bracht's upkeep to shut down a forest, growing the Dryad in the process.</p>&#10;      <p>Bracht had a second <a>Cabal Therapy</a> and a second Lion's Eye Diamond. He checked the way was clear with the Therapy and then cast <a>Living Wish</a>, sacrificing both Lion's Eye Diamonds. The Wish fetched <a>Auriok Salvagers</a> and Bracht was able to generate infinite mana with the Diamonds and kill Labarre with Spellbomb recursion.</p>&#10;      <p>Bracht 1-0 Labarre</p>&#10;      <p>In the second game Labarre failed to find the turn one Mongoose again and went for a <a>Quirion Dryad</a> on turn two. Bracht took the opportunity of Labarre being tapped out to <a>Ritual</a> out Tsunami to wreck Labarre's mana. Fortunately for the Frenchman he appeared to be a little mana glutted and was able to recover enough to <a>Counterspell</a> the <a>Gamekeeper</a> Bracht fetched from his sideboard.</p>&#10;      <p>A <a>Mental Note</a> and the Dryad was now at 3/3. It was joined by a <a>Werebear</a> to put Bracht under a very quick clock. Labarre was again tapped out and this time Bracht successfully managed to resolve a <a>Gamekeeper</a>. He also had the Lion's Eye Diamond but he didn't have the Therapy to sacrifice the <a>Gamekeeper</a>. For the moment it would suffice as a virtual Moat.</p>&#10;      <p>Labarre was having none of that and tapped it with <a>Ice</a> before crashing in for eight damage. Bracht drew a <a>Pyrite Spellbomb</a> and considered his options. He could sacrifice the Lions Eye Diamond, losing the Tsunami in his hand, and use the red mana to kill his own <a>Gamekeeper</a> and then get the combo rolling with a Savannah providing he hit Salvagers and providing Labarre had no disruption. Instead Bracht burnt the card and scooped when he didn't draw anything. At first I thought I must have missed something or misunderstood how the deck worked but Bracht admitted after the match he just hadn't seen it. I imagine he'd been solely focused on trying to find <a>Cabal Therapy</a>.</p>&#10;      <p>Bracht 1-1 Labarre</p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://www.wizards.com/sideboard/images/gplill05/qf1_2.jpg">&#10;            <i>Maximilian Bracht, left, vs. Nicolas Labarre</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>In the deciding game Bracht mulliganed to five. Coming back would be tough although his five card hand was pretty solid. He had three land, a <a>Tainted Pact</a> and an <a>Innocent Blood</a> on hand to deal with Labarre's first creature. He drew into <a>Gamekeeper</a> and then used <a>Tainted Pact</a> to find a <a>Night's Whisper</a>. It seemed like he might recover fine from the double mulligan.</p>&#10;      <p>For the third time in a row Labarre had failed to make a <a>Nimble Mongoose</a> on turn one. However, for the third time he made a <a>Quirion Dryad</a> on turn two. He followed it up with a <a>Nimble Mongoose</a> as Bracht cast <a>Night's Whisper</a> and then dropped a Lion's Eye Diamond onto the table. With <a>Gamekeeper</a> and <a>Innocent Blood</a> in hand he was almost all set up. Assuming Labarre had no counter-magic of course. I didn't fancy Bracht's odds.</p>&#10;      <p>He cast <a>Dark Ritual</a> to avoid <a>Daze</a> and then went for <a>Gamekeeper</a>. Surprisingly it resolved. Bracht went for the <a>Innocent Blood</a> and Labarre responded with a lovely bit of play that used <a>Submerge</a> to bounce the <a>Gamekeeper</a> to the top of Bracht's library. Bracht was able to replay the <a>Gamekeeper</a> but was unable to find a way to sacrifice it before Labarre bashed him with his Dryad and another Mongoose</p>&#10;      <p>Nicolas Labarre beats Maximilian Bracht 2-1.</p>&#10;      <a name="2">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, December 18: 8:48 p.m. - Quarterfinals: Nicolas Francois vs. Helmut Summersberger</b>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://www.wizards.com/sideboard/images/gplill05/qf2_1.jpg">&#10;            <i>Nicolas Francois, left, vs. Helmut Summersberger</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Nicolas Francois managed to sneak into the top 8 as the only player with three losses. By contrast Helmut Summersberger led the tournament for much of the way and was comfortable into the top 8 with rounds to spare. Summersberger is running the Threshold deck that has dominated this tournament in various forms while Francois has a deck that is somewhere between Landstill and blue-white control.</p>&#10;      <p>The first game was an anticlimax as Francois couldn't get past land number two. A <a>Standstill</a> was Forced and Summersberger compounded the French player's misery with a <a>Meddling Mage</a> set to <a>Brainstorm</a>. A <a>Werebear</a> and <a>Nimble Mongoose</a> at threshold swiftly administered last rites.</p>&#10;      <p>Summersberger 1-0 Francois</p>&#10;      <p>Game 2 saw a savage land destruction start as Summersberger demolished Francois's mana base with three successive <a>Wasteland</a>s. Francois tried to pull back but eventually a <a>Counterspell</a> stopped his morphed <a>Exalted Angel</a> from entering play while <a>Werebear</a> finished him off.</p>&#10;      <p>Helmut Summersberger beats Nicolas Francois 2-0</p>&#10;      <a name="3">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, December 18: 8:57 p.m. - Quarterfinals: Luca Verdiani vs. Loïc Le Briand</b>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://www.wizards.com/sideboard/images/gplill05/qf3_1.jpg">&#10;            <i>Luca Verdiani</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Despite Goblins popularity Loïc Le Briand was the only player to take the little red men into the top 8. His opponent, Luca Verdiani of Italy is playing a much more unconventional <a>Survival of the Fittest</a> deck.</p>&#10;      <p>Game 1 was all about managing the Goblin offensive and preventing it from boiling over. A turn one Llanowar Elf provided an answer to <a>Goblin Lackey</a> and Therapy ripped out War-Chief from Le Briand's hand. Verdiani was able to prevent Le Briand from building up enough pressure. A <a>Ravenous Baloth</a> appeared to discourage any attacking. A Bone-Shredder took down a Ringleader to keep the Goblin Numbers down and Verdiani finally put a nail in the coffin with a <a>Triskelion</a>.</p>&#10;      <p>Verdiani 1-0 Le Briand</p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://www.wizards.com/sideboard/images/gplill05/qf3_2.jpg">&#10;            <i>Loic Le Briand</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>In Game 2 Verdiani was again able to successfully manage Le Briand's Goblins. An early <a>Sphere of Law</a> completely nullified the Goblin army and left Verdiani free to take control of the board position with a <a>Sword of Fire and Ice</a> on a Bird of Paradise. </p>&#10;      <p>Le Briand had found two <a>Pithing Needle</a>s and was able to lock down both Survival and Perncious Deed. But they weren't really relevant and eventually Verdiani Putrefied the Needle on survival and used the powerful enchantment to fetch a <a>Triskelion</a> for the win.</p>&#10;      <p>Luca Verdiani beats Loïc Le Briand 2-0.</p>&#10;      <a name="4">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, December 18: 9:14 p.m. - Quarterfinals: Daniel Krutil vs. Martin Johannes Brenner</b>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <p>Okay so I couldn't do all of the quarters. This one was typed up by table judge Eelco van Ruth after I ran off and cowered in a little ball behind the trade stands.</p>&#10;      <p>&#10;        <i>By Eelco van Ruth</i>&#10;      </p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://www.wizards.com/sideboard/images/gplill05/qf4_1.jpg">&#10;            <i>Daniel Krutil, left, vs. Martin Johannes Brenner</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>The first game is decided pretty fast as Daniel quickly develops his board into <a>Werebear</a>, <a>Werebear</a>, <a>Galina's Knight</a> and <a>Nimble Mongoose</a> with the help of 3 <a>Serum Visions</a> in turns 1 to 3.</p>&#10;      <p>Martin tries to keep up with cycling a <a>Renewed Faith</a> and a <a>Swords to Plowshares</a>, but the extra life gained is not sufficient and the Swords gets <a>Force of Will</a>'ed.</p>&#10;      <p>At 9 life a <a>Decree of Justice</a> holds off the army for one more turn, but the <a>Akroma's Vengeance</a> Martin tries later is countered, again with <a>Force of Will</a>.</p>&#10;      <p>Krutil 1-0 Brenner</p>&#10;      <p>Game 2 is a little more exciting because Daniel's threats are kept at bay with <a>Pyroclasm</a>s, <a>Swords to Plowshares</a>, <a>Akroma's Vengeance</a> and a hard-casted <a>Slice and Dice</a>. Martin seems in control of the match in turn 13 when he tries an <a>Eternal Dragon</a> with 1 mana open, but Daniel has two <a>Daze</a>s for the 5/5 flier.</p>&#10;      <p>A blatant topdeck for Daniel in his own turn 13 means a major setback for Martin: <a>Armageddon</a>. Recurring Dragons seem far away now and when a <a>Mystic Enforcer</a> enters play with Martin on 12 life, the clock starts ticking…</p>&#10;      <p>The Enforcer puts Martin to 6, but a topdeck from Martin gets him <a>Humility</a>; the curse for judges this weekend. Luckily for both judges involved and Daniel the only 2 cards in hand for the owner of the <a>Mystic Enforcer</a> are a random blue card and a <a>Force of Will</a>.</p>&#10;      <p>The 6\6 flier ends the match in turn 20 of game 2. The <a>Armageddon</a> for Daniel may very well be the MVP in this match.</p>&#10;      <p>Daniel Krutil beats Martin Brenner 2-0</p>&#10;      <a name="5">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, December 18: 9:47 p.m. - Semifinals: Nicolas Labarre vs. Daniel Krutil</b>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <p>Okay so I'm covering both semi-finals and taking the pictures. Some might find this a little troublesome.</p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://www.wizards.com/sideboard/images/gplill05/sf1_1.jpg">&#10;            <i>Daniel Krutil, left, vs. Nicolas Lebarre</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>This is a Threshold mirror (it had to happen - there are three in the top 4) between the experienced French player Nicolas Labarre and Daniel Krutil. This is Krutil's first top 8 but he's come as close as 9th before.</p>&#10;      <p>When I looked over at this game after the end of the first game in the other semi Krutil appeared to be in trouble. He'd managed to Swords a Dryad before it got dangerous but his basic problem was that Labarre had Threshold and he didn't. This meant his Mongoose and <a>Werebear</a> were significantly worse than his opponents'. He was forced to chump with a <a>Galina's Knight</a> to try and get the magical seven cards in his graveyard. The game then did a complete 360 as Krutil managed to resolve his main deck <a>Worship</a>. He already had a Mongoose in play and as Labarre had no way of removing either he had to concede because eventually he'd run out of cards first.</p>&#10;      <p>Krutil 1-0 Labarre</p>&#10;      <p>In Game 2 Krutil stuck on three land and tried to take his Mongoose to threshold the hard way by discarding at the end of each turn. Labarre took the better route and started winning the race. A submerge made sure he stayed in front.</p>&#10;      <p>Krutil 1-1 Labarre</p>&#10;      <p>After the other Semi had finished I caught the end of Game 3 and it looked like Krutil was again in a bad way. His sole Mongoose was slightly out-classed by the two on Labarre's side. But again the <a>Worship</a> showed up and Labarre had to scoop as he had no way in either main or board of dealing with the <a>Worship</a>/untargettable monster combo.</p>&#10;      <p>Daniel Krutil beats Nicolas Labarre 2-1.</p>&#10;      <a name="6">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, December 18: 10:22 p.m. - Semifinals: Helmut Summersberger vs. Luca Verdiani</b>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <p>Luca Verdiani of Italy is the only remaining amateur in the format. He's also the only player left not playing the Threshold deck. Instead he's playing a <a>Survival of the Fittest</a> deck that looks also looks a little like Rock. So far he's been munching through Threshold decks just fine, which might spell problems for his opponent Helmut Summersberger.</p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://www.wizards.com/sideboard/images/gplill05/sf2_1.jpg">&#10;            <i>Luca Verdiani, left, vs. Helmut Summersberger</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Verdiani's first turn <a>Birds of Paradise</a> was swiftly sent on its way with a <a>Fire</a>. A <a>Cabal Therapy</a> on <a>Force of Will</a> missed, but did reveal a <a>Daze</a>. Verdiani continued to pick at Summersberger's hand with Therapies and <a>Duress</a>, but it was the board state that was more of a concern as Summersberger was beating down with a <a>Meddling Mage</a> (set on Swords to Ploughshares) and then a <a>Nimble Mongoose</a>.</p>&#10;      <p>After losing two <a>Birds</a> Verdiani was a little screwed for mana. He had to go for a <a>Viridian Shaman</a> as a blocker even though he knew Summersberger was waiting with <a>Daze</a>. Still stuck on three land he then attempted <a>Eternal Witness</a>. Summersberger was waiting with a second <a>Daze</a>. The Austrian attacked again for five and then finished off his hapless opponent with a Lightning Bolt.</p>&#10;      <p>Summersberger 1-0 Verdiani.</p>&#10;      <p>Hostilities commenced early. A <a>Duress</a> plucked a <a>Force of Will</a> and Summersberger returned fire with a Lightning Bolt on a Bird of Paradise. No screw this time as Verdiani summoned a second bird.</p>&#10;      <p>Summersberger aimed to cause problems for Verdiani. He summoned a <a>Meddling Mage</a> and set it to Swords to Ploughshares and then followed up with a <a>Pithing Needle</a> to shut down <a>Survival of the Fittest</a>. A <a>Wall of Roots</a> at least would slow down the damage from the Mage and at least give Verdiani some time to find answers to Summersberger's niggling threats.</p>&#10;      <div>&#10;        <div>&#10;          <a>&#10;            <img alt="Meddling Mage" src="https://i.ormos.uk/11/e8/11e803a04e7d5827993c0950da0f3e66589a6e02670841ca6e8c12ac8a6c44e7.jpg">&#10;          </a>&#10;        </div>&#10;      </div>&#10;      <p>&#10;        <a>Ice</a> kept the Wall out of blocking commission and then the Italian player was very irritated when Summersberger countered first a <a>Solemn Simulacrum</a> and then a <a>Ravenous Baloth</a>. He finally got a <a>Triskelion</a> to stick although its only role was to kill the <a>Meddling Mage</a> in response to it being <a>Naturalize</a>d.</p>&#10;      <p>The game had sort of got to an even state except Verdiani suddenly seemed to have hit a massive glut of land. Summersberger was clearly coming out the better. The <a>Wall of Roots</a> held off a <a>Nimble Mongoose</a> for a while, but the Summersberger finished it off with a Lightning Bolt. Verdiani continued to draw land. A <a>Pithing Needle</a> gave the Austrian insurance against a topdecked <a>Pernicious Deed</a>. He then laid a second <a>Meddling Mage</a> and set it to <a>Cabal Therapy</a> to protect the counter-magic in his hand. When Verdiani finally found a non-land spell Summersberger was waiting with yet another <a>Counterspell</a>.</p>&#10;      <p>Helmut Summersberger beats Luca Verdiani 2-0.</p>&#10;      <a name="7">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, December 18: 11:19 p.m. - Finals: Daniel Krutil vs. Helmut Summersberger</b>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <p>Hurrah, finally we're down to the point where I only have to cover one match at a time. This is it, the last match to decide the winner of Grand Prix Lille. Fortress France has taken a beating as the final is being fought out between an Austrian, Helmut Summersberger, and the up and coming Czech player Daniel Krutil.</p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://www.wizards.com/sideboard/images/gplill05/f1.jpg">&#10;            <i>The stage was set. There could be only one.</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>It's a Threshold mirror match so you'd better turn away animal lovers as some furs going to fly in the red zone as little furry animals (and big furry <a>Werebear</a>s) are going to be ripping chunks out of each other. Krutil is splashing white and his main deck <a>Worship</a>s served him very well in the semi's. Summersberger's Threshold deck is looking for the best of both worlds as he's splashing both red and white.</p>&#10;      <p>Game 1 failed to see any early Mongoose on Mongoose action, which I'm sure will be a disappointment to all of you small furry animal fetishists out there. Instead it was Summersberger who got the early offence in with a <a>Meddling Mage</a> set on Swords to Ploughshares. He followed it with a second. This one wasn't going to allow any <a>Galina's Knight</a>s to enter play.</p>&#10;      <p>Krutil finally found a Mongoose but was a long way from Threshold with only a few cards in the graveyard. So at the moment his Mongoose was small, furry and rather harmless to Summersberger's Mages. Any moment though and it might suddenly turn into a savage throat-ripping beast.</p>&#10;      <p>Not quite yet though. Krutil added a <a>Werebear</a> but was still a card off threshold. Summersberger still held a slight advantage with his two 2/2's but that would change the moment another card entered Krutil's graveyard. Summersberger tried to force the issue with a Lightning Bolt only for Krutil to sort of counter it with a <a>Daze</a>. Summersberger could pay, but it didn't matter as now the <a>Werebear</a> was a fully fledged 4/4 monster and could shrug off Lightning Bolts as a slight bit of static.</p>&#10;      <p>Krutil went for a second <a>Werebear</a> in his turn. Summersberger had a <a>Counterspell</a> for that. He also had a <a>Force of Will</a> for the <a>Nimble Mongoose</a> that followed, but Krutil wanted his savage furry beater to resolve and Forced back. The game was slipping from Summersberger at this point. He'd found none of his threshold monsters and his 2/2's were now considerable smaller than Krutil's 3/3's and 4/4. A gang block with the Mages took down one of the Mongooses, but this freed up the Swords in Krutil's hand to take out the other.</p>&#10;      <p>Summersberger finally found his threshold monsters much too late. A <a>Nimble Mongoose</a> had to throw itself in the way of a <a>Werebear</a> and when his own <a>Werebear</a> showed up it wasn't enough as the Mongoose could still get through.</p>&#10;      <p>Krutil 1-0 Summersberger.</p>&#10;      <p>The format's signature card was again absent on the first turns and it was Summersberger who again summoned the first creature as a <a>Meddling Mage</a> appeared with a ban on Swords of Ploughshares. No farmers allowed to this bloodbath!</p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://www.wizards.com/sideboard/images/gplill05/f3.jpg">&#10;            <i>Daniel Krutil</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Summersberger tried to follow with a <a>Werebear</a>, but a <a>Force of Will</a> said no to that. Krutil got to resolve his own bear and Summersberger doubled his offence with a <a>Meddling Mage</a> on <a>Galina's Knight</a>. However neither Mage was 4/4 and Krutil's <a>Werebear</a> was as he had the magical seven cards in his graveyard. A <a>Pithing Needle</a> on Tormod's Crypt meant they'd be staying there as well.</p>&#10;      <p>Krutil summoned his own <a>Meddling Mage</a> and then tried to think of a card. He came up with Red Elemental Blast as a safe bet. I think he'd have like one of those himself at the moment. He had three Sword to Ploughshares in his hand and couldn't cast any because of the annoying Mage.</p>&#10;      <p>Summersberger found a <a>Werebear</a> of his own and the red zone ended up being splattered with blood as the two bears ripped each other apart. And there was me thinking bear baiting was illegal.</p>&#10;      <p>&#10;        <a>Fire</a> took down Krutil's sole Mage and now the Austrian was firmly in control. He countered first a <a>Serum Visions</a> and then had a second <a>Counterspell</a> to stop a <a>Nimble Mongoose</a> as Krutil succumbed to quick Mage beats.</p>&#10;      <p>Afterwards the Czech player showed the four Swords to Ploughshares he'd unfortunately drawn.</p>&#10;      <p>Krutil 1-1 Summersberger.</p>&#10;      <p>Summersberger had to mulligan for the deciding game, but it obviously wasn't good enough as he quickly found himself deficient in the Mongoose corps department. Krutil came racing out as he followed with a second turn <a>Werebear</a>. This could be fairly brutal. Providing Krutil actually managed to get seven cards in his graveyard of course. His two damage a turn wasn't exactly awe-inspiring at the moment.</p>&#10;      <p>The Austrian player was either feigning mana screw or wanted better options as to which land to lay as he allowed Krutil to blow a <a>Daze</a> on a main phase <a>Brainstorm</a>. His deck really wasn't doing anything exciting as he cast a second <a>Serum Visions</a> and failed to find a third land. He did manage to take down the <a>Werebear</a> with <a>Fire</a> before it mutated into a monster. A Tormod's Crypt meant Krutil would have to work for Threshold again, is he ever reached it the first time round. Summersberger could really do with some men at this point. Sometimes the Threshold deck flattens players with fast efficient monsters back up with counter-magic. Other times it just faffs about casting cantrips.</p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://www.wizards.com/sideboard/images/gplill05/f2.jpg">&#10;            <i>Helmut Summersberger</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Krutil hit four land and went for the jugular with a <a>Mystic Enforcer</a>. Summersberger <a>Daze</a>d. Krutil Forced back, pitching a <a>Predict</a>. Summersberger <a>Daze</a>d again.</p>&#10;      <p>Sensing he'd exhausted his opponent's defences Summersberger finally started to make his move. He came out slugging with <a>Nimble Mongoose</a> and a <a>Werebear</a>. With the threat of Tormod's Crypt to take away threshold at any moment Krutil couldn't safely block. It looked very bad for the Czech player.</p>&#10;      <p>A Brainstom hit gas for Krutil though. He found a <a>Stifle</a> and a <a>Force of Will</a> to protect it. He could at least deal with the Mongoose. But there was still the <a>Werebear</a> to deal with and that was a problem he never found an answer to.</p>&#10;      <p>Helmut Summersberger beats Daniel Krutil 2-1 and is champion of Grand Prix Lille. </p>&#10;      <br>&#10;    </td>&#10;  </tr>&#10;</tbody></table>

@@ -1,0 +1,48 @@
+---
+id: tn4mfw4e
+kind: event
+lang: it
+path: /it/events/2007/gpnott05/round-9-pods
+title: Round 9 Pods
+published: null
+column_slug: null
+column: null
+authors: []
+event_code: gpnott05
+detected_lang: it
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/gpnott05/pod9
+    lang_detected: it
+    capture_id: 1055583
+    url: http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpnott05/pod9
+    captured_at: '2013-07-01 03:56:51+00'
+    rule: aspx.article_heading
+  event_code:
+    page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/gpnott05/pod9
+    lang_detected: it
+    capture_id: 1055583
+    url: http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpnott05/pod9
+    captured_at: '2013-07-01 03:56:51+00'
+    rule: url.event_code
+sources:
+- document_id: tn4mfw4e
+  url: http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpnott05/pod9
+  page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/gpnott05/pod9
+  lang: it
+  template: aspx
+  captured_at: '2013-07-01 03:56:51+00'
+  capture_id: 1055583
+  wayback_url: https://web.archive.org/web/20130701035651id_/http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpnott05/pod9
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: tn4mfw4e
+  capture_id: 1055583
+  url: http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpnott05/pod9
+  wayback_url: https://web.archive.org/web/20130701035651id_/http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpnott05/pod9
+  captured_at: '2013-07-01 03:56:51+00'
+  template: aspx
+  sha256: ec626eacc015f9bcd76f1f88b31906d1f41179ce7edccf43d90a78ee9626b4f4
+render_recovery: []
+---
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <a href="/it/events/2007/gpnott05/round-9-pods">&#10;        <b>Pod</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/it/events/2007/gpnott05/round-9-pods">&#10;        <b>Seat</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/it/events/2007/gpnott05/round-9-pods">&#10;        <b>Player</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/it/events/2007/gpnott05/round-9-pods">&#10;        <b>Points</b>&#10;      </a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>1</td>&#10;    <td>1</td>&#10;    <td>Ruel, Antoine</td>&#10;    <td>24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>2</td>&#10;    <td>Vavra, Nikola</td>&#10;    <td>24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>3</td>&#10;    <td>Polgary, Mikael</td>&#10;    <td>22</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>4</td>&#10;    <td>Swan, Martin</td>&#10;    <td>22</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>5</td>&#10;    <td>Reich, Philip</td>&#10;    <td>22</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>6</td>&#10;    <td>Fritz, Ziga</td>&#10;    <td>22</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>7</td>&#10;    <td>Heeswijk, Roel</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>8</td>&#10;    <td>Wageningen, Mathijs</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>2</td>&#10;    <td>1</td>&#10;    <td>Bohny, Nico</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>2</td>&#10;    <td>Nuijten, Julien</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>3</td>&#10;    <td>Jedlicka, Niki</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>4</td>&#10;    <td>Eigner, Nikolaus</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>5</td>&#10;    <td>Koehler, Tim</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>6</td>&#10;    <td>Ta, Luc</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>7</td>&#10;    <td>Joebstl, Markus</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>8</td>&#10;    <td>bornarel, nicolas</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>3</td>&#10;    <td>1</td>&#10;    <td>Malin, Antti</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>2</td>&#10;    <td>Bonnotte, Julien</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>3</td>&#10;    <td>Benages, Alfred</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>4</td>&#10;    <td>Gerardi, Pierpaolo</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>5</td>&#10;    <td>Lee, Yu Hin</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>6</td>&#10;    <td>Thijsen, Roy</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>7</td>&#10;    <td>Lacroix, Yannick</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>8</td>&#10;    <td>Pinkster, Wilco</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>4</td>&#10;    <td>1</td>&#10;    <td>Grant, David</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>2</td>&#10;    <td>Rigby, Neil</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>3</td>&#10;    <td>Ghini, Davide</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>4</td>&#10;    <td>Goron, Julien</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>5</td>&#10;    <td>Saviori, Fabio</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>6</td>&#10;    <td>Jeudon, Florent</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>7</td>&#10;    <td>Sohnle, Dean</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>8</td>&#10;    <td>Salvin, Jean Charles</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>5</td>&#10;    <td>1</td>&#10;    <td>Moore, Richard</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>2</td>&#10;    <td>Yatsenko, Alex</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>3</td>&#10;    <td>Gattolin, Stefano</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>4</td>&#10;    <td>Stein, Harald</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>5</td>&#10;    <td>Tuduri, Ricard</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>6</td>&#10;    <td>Amundsen, Rune</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>7</td>&#10;    <td>Teh, Vincent</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>8</td>&#10;    <td>Snarheim, Dagfinnn</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>6</td>&#10;    <td>1</td>&#10;    <td>Rossiter, Christopher</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>2</td>&#10;    <td>Williams, Conrad</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>3</td>&#10;    <td>Padbury, James</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>4</td>&#10;    <td>Trunk, Jure</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>5</td>&#10;    <td>Harle, Tom</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>6</td>&#10;    <td>Taylor, Ryan</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>7</td>&#10;    <td>musso, mattia</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>8</td>&#10;    <td>Bain, Iain</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>7</td>&#10;    <td>1</td>&#10;    <td>Nassif, Gabriel</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>2</td>&#10;    <td>Stradner, Stefan</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>3</td>&#10;    <td>Pils, Florian</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>4</td>&#10;    <td>Skålevik, Tore</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>5</td>&#10;    <td>massart, philippe</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>6</td>&#10;    <td>West, Nicholas</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>7</td>&#10;    <td>Canali, Pierre</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>8</td>&#10;    <td>Middleton, Gareth</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>8</td>&#10;    <td>1</td>&#10;    <td>Clapton, Chris</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>2</td>&#10;    <td>Nai, Enrico</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>3</td>&#10;    <td>Meissner, Patrick</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>4</td>&#10;    <td>Béguin, Benoit</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>5</td>&#10;    <td>Lehnert, Heiko</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>6</td>&#10;    <td>Warmenhoven, Ruud</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>7</td>&#10;    <td>Davidson, Greig</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>8</td>&#10;    <td>Brackmann, Aaron</td>&#10;    <td>18</td>&#10;  </tr>&#10;</tbody></table>

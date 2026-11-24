@@ -1,0 +1,492 @@
+---
+id: dj0vg550
+kind: event
+lang: en
+path: /en/articles/event-coverage/undated/morofuji-oiso-shimura-form-team-japan
+title: Morofuji, Oiso, Shimura Form Team Japan
+published: null
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtgevent_jpnat05_welcome
+    lang_detected: en
+    capture_id: 829397
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_jpnat05_welcome
+    captured_at: '2009-06-04 05:51:05+00'
+    rule: aspx.article_heading
+sources:
+- document_id: dj0vg550
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_jpnat05_welcome
+  page_key: wizards.com/magic/magazine/article.aspx?x=mtgevent_jpnat05_welcome
+  lang: en
+  template: aspx
+  captured_at: '2009-06-04 05:51:05+00'
+  capture_id: 829397
+  wayback_url: https://web.archive.org/web/20090604055105id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_jpnat05_welcome
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: dj0vg550
+  capture_id: 829397
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_jpnat05_welcome
+  wayback_url: https://web.archive.org/web/20090604055105id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_jpnat05_welcome
+  captured_at: '2009-06-04 05:51:05+00'
+  template: aspx
+  sha256: c737688d49b780e2c2fbb52669b55f4fd77f94ca2542fe9d903dc0fe88092af4
+render_recovery:
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Condescend')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Condescend
+  occurrences: 10
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sensei[s_Divining_Top')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sensei's Divining Top
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Tooth_and_Nail')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Tooth and Nail
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Shifting_Borders')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Shifting Borders
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sylvan_Scrying')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sylvan Scrying
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Annul')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Annul
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Meloku_the_Clouded_Mirror')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Meloku the Clouded Mirror
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mana_Leak')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mana Leak
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Triskelion')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Triskelion
+  occurrences: 9
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Thirst_for_Knowledge')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Thirst for Knowledge
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sakura-Tribe_Elder')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sakura-Tribe Elder
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sundering_Titan')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sundering Titan
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Forest')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Forest
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Island')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Island
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Memnarch')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Memnarch
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mindslaver')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mindslaver
+  occurrences: 11
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Oblivion_Stone')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Oblivion Stone
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Reap_and_Sow')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Reap and Sow
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Okina,_Temple_to_the_Grandfathers')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Okina, Temple to the Grandfathers
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Granite_Shard')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Granite Shard
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mountain')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mountain
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Frostling')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Frostling
+  occurrences: 22
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Blinkmoth_Nexus')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Blinkmoth Nexus
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Chrome_Mox')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Chrome Mox
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Zo-Zu_the_Punisher')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Zo-Zu the Punisher
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sword_of_Fire_and_Ice')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sword of Fire and Ice
+  occurrences: 9
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Genju_of_the_Spires')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Genju of the Spires
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Magma_Jet')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Magma Jet
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Molten_Rain')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Molten Rain
+  occurrences: 9
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Arc-Slogger')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Arc-Slogger
+  occurrences: 11
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Jinxed_Choker')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Jinxed Choker
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Choke')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Choke
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Vulshok_Sorcerer')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Vulshok Sorcerer
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Electrostatic_Bolt')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Electrostatic Bolt
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Hearth_Kami')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Hearth Kami
+  occurrences: 14
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Slith_Firewalker')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Slith Firewalker
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Shrapnel_Blast')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Shrapnel Blast
+  occurrences: 8
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Serum_Visions')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Serum Visions
+  occurrences: 8
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Solemn_Simulacrum')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Solemn Simulacrum
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Urza[s_Tower')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Urza's Tower
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Culling_Scales')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Culling Scales
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kaijin_of_the_Vanishing_Touch')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kaijin of the Vanishing Touch
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Rewind')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Rewind
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Shatter')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Shatter
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Echoing_Truth')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Echoing Truth
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('culling_scales')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Darksteel_Colossus')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Darksteel Colossus
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Eternal_Witness')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Eternal Witness
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Pithing_Needle')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Pithing Needle
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Plains')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Plains
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Naturalize')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Naturalize
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Seething_Song')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Seething Song
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Urza[s_Mine')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Urza's Mine
+  occurrences: 1
+---
+[日本語の取材へ](/it/events/2005/jpnat05ja/morofuji-oiso-shimura-form-team-japan) 
+
+![](https://i.ormos.uk/cc/09/cc0976e3e15a8b5573b5d8bfef7dcfcd883c8c89c9c396e53b73433333bd10b3.jpg) 
+
+  
+
+"Mou kari makka?"
+
+It is a traditional Osakan greeting that literally translated means, "Have you earned money today?"
+
+"Bochi - bochi - denna," would be Takuma Morofuji's reply. Translation: "Not bad at all."
+
+Not bad, indeed! The Fukuoka pharmacist earned himself $20,000 by defeating Jun'ya Iyamaga in a five game finals. Five games and then some actually as it was an unprecedented finals in which the instant replay rule was instituted and the game was backed up with the help of video to rectify an incorrect ruling. 
+
+Originally both players in the finals had planned to rescind their invites but now that Takuma was the Japanese National Champion - the tenth time that award has been handed out - he was having second thoughts. Should Takuma be able to play he was have two wingmen that are more than capable. Masashi Oiso won the third/fourth playoff with Ichirou Shimura. With Jun'ya officially rescinding, Ichirou joined the team as well. The new alternate was fifth place finisher Makahito Mihara. 
+
+  
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;    </td><td>Quarterfinals </td>&#10;    <td> </td>&#10;    <td>Semifinals </td>&#10;    <td> </td>&#10;    <td>Finals </td>&#10;    <td> </td>&#10;    <td>Champion </td>&#10;  </tr>&#10;  <tr>&#10;    <td>1</td>&#10;    <td>&#10;      Jun'ya Iyanaga&#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Jun'ya Iyanaga, 3-1&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3"> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>8</td>&#10;    <td>&#10;      Yuuta Hirosawa&#10;    </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3">&#10;      Jun'ya Iyanaga, 3-1&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>4</td>&#10;    <td>&#10;      Ichirou Shimura&#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Ichirou Shimura, 3-2&#10;    </td>&#10;    <td rowspan="5"> </td>&#10;    <td rowspan="5">&#10;      Takuma Morofuji, 3-2&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>5</td>&#10;    <td>&#10;      Jun Nobushita&#10;    </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3"> </td>&#10;  </tr>&#10;  <tr>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>2</td>&#10;    <td>&#10;      Makihito Mihara&#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Masashi Oiso, 3-1&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>7</td>&#10;    <td>&#10;      Masashi Oiso&#10;    </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3">&#10;      Takuma Morofuji, 3-1&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>3</td>&#10;    <td>&#10;      Takuma Morofuji&#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Takuma Morofuji, 3-0&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>6</td>&#10;    <td>&#10;      Kazuhiko Mitsuya&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;</tbody></table>
+
+  
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;    </td><td>3rd Place Playoffs</td>&#10;  </tr>&#10;  <tr>&#10;    <td>1</td>&#10;    <td>Ichirou Shimura</td>&#10;    <td rowspan="2">&#10;    </td><td rowspan="2">Masashi Oiso, 3-2</td>&#10;  </tr>&#10;  <tr>&#10;    <td>2</td>&#10;    <td>Masashi Oiso</td>&#10;  </tr>&#10;</tbody></table>
+
+  
+  
+  
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <b>EVENT COVERAGE</b>&#10;    </td>&#10;    <td>&#10;      <b>INFORMATION</b>&#10;      &#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <ul>&#10;        <br>&#10;        <li>&#10;          <a href="#4">Blog - 4:39 p.m.</a> - Finals: Jun'ya Iyanaga (AggroRed) vs. Takuma Morofuji (RazorTron)<div><i>by Brian David-Marshall</i></div></li>&#10;        <li>&#10;          <a href="#3">Blog - 3:23 p.m.</a> - 3rd/4th Playoff: Ichirou Shimura (AggroRed) vs. Masashi Oiso (BlueTooth)<div><i>by Brian David-Marshall</i></div></li>&#10;        <li>&#10;          <a href="#2">Blog - 2:14 p.m.</a> - Semifinals: Ichirou Shimura (AggroRed) vs. Jun'ya Iyanaga (AggroRed)<div><i>by Brian David-Marshall</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2005/jpnat05/feature-the-top-8-player-profiles">Feature</a>: The Top 8 Player Profiles<div><i>by Event Coverage Staff</i></div></li>&#10;        <li>&#10;          <a href="#1">Blog - 12:02 p.m.</a> - Quarterfinals: Masashi Oiso (BlueTooth) vs. Makahito Mihara (RazorTron)<div><i>by Brian David-Marshall</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2005/jpnat05/decklists-the-top-8-decks">Decklists</a>: The Top 8 Decks<div><i>by Event Coverage Staff</i></div></li>&#10;        <br>&#10;        <hr>&#10;        <br>&#10;        <li>&#10;          <a href="/en/events/2005/jpnat05/day-2-blog-archive">Day 2 Blog Archive</a> - Setting the Standard, Revenge of the Old Timers, Top Pro Play, Morita Sticks To His Guns, and Much More!<div><i>by Brian David-Marshall</i></div></li>&#10;        <li>&#10;          <a href="/tgl/events/2005/jpnat05/round-8-pods">Round 8</a>: Pods<div><i>by Event Coverage Staff</i></div></li>&#10;        <br>&#10;        <hr>&#10;        <br>&#10;        <li>&#10;          <a href="/en/events/2005/jpnat05/day-1-blog-archive">Day 1 Blog Archive</a> - Rogue Reports, Top Pro Play, Last Place Emperor, and Much More!<div><i>by Brian David-Marshall</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2005/jpnat05/decklists-grinders-decklists">Decklists</a>: Grinders Decklists<div><i>by Event Coverage Staff</i></div></li>&#10;        <li>&#10;          <a href="/sna/events/2005/jpnat05/round-4-pods">Round 4</a>: Pods<div><i>by Event Coverage Staff</i></div></li>&#10;        <li>&#10;          <a href="https://web.archive.org/web/20090603070930/http://www.wizards.com/Magic/Magazine/Article.aspx?x=events/nationals/japan">Info</a>: Fact Sheet<div><i>by Event Coverage Staff</i></div></li>&#10;      </ul>&#10;    </td>&#10;    <td colspan="2">&#10;      &#10;      <table>&#10;        <tbody><tr>&#10;          <td> 1.  <b>Takuma Morofuji</b></td>&#10;          <td>$20,000</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 2.  <b>Jun'ya Iyanaga</b></td>&#10;          <td>$10,000</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 3.  <b>Masashi Oiso</b></td>&#10;          <td>$5,000</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 4.  <b>Ichirou Shimura</b></td>&#10;          <td>$3,000</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 5.  <b>Makihito Mihara</b></td>&#10;          <td>$2,000</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 6.  <b>Jun Nobushita</b></td>&#10;          <td>$2,000</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 7.  <b>Kazuhiko Mitsuya</b></td>&#10;          <td>$1,500</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 8.  <b>Yuuta Hirosawa</b></td>&#10;          <td>$1,500</td>&#10;        </tr>&#10;      </tbody></table>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <b>Pairings</b>&#10;          </td>&#10;          <td>&#10;            <b>Results</b>&#10;          </td>&#10;          <td>&#10;            <b>Standings</b>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;          </td><td>&#10;          </td><td>&#10;            <a href="/sna/events/2005/jpnat05/final-standings">Final</a>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            <a href="/sna/events/2005/jpnat05/round-14-pairings">14</a>&#10;            <br>&#10;            <a href="/sna/events/2005/jpnat05/round-13-pairings">13</a>&#10;            <br>&#10;            <a href="/sna/events/2005/jpnat05/round-12-pairings">12</a>&#10;            <br>&#10;            <a href="/sna/events/2005/jpnat05/round-11-pairings">11</a>&#10;            <br>&#10;            <a href="/sna/events/2005/jpnat05/round-10-pairings">10</a>&#10;            <br>&#10;            <a href="/tgl/events/2005/jpnat05/round-9-pairings">9</a>&#10;            <br>&#10;            <a href="/sna/events/2005/jpnat05/round-8-pairings">8</a>&#10;          </td>&#10;          <td>&#10;            <a href="/sna/events/2005/jpnat05/round-14-results">14</a>&#10;            <br>&#10;            <a href="/sna/events/2005/jpnat05/round-13-results">13</a>&#10;            <br>&#10;            <a href="/sna/events/2005/jpnat05/round-12-results">12</a>&#10;            <br>&#10;            <a href="/sna/events/2005/jpnat05/round-11-results">11</a>&#10;            <br>&#10;            <a href="/sna/events/2005/jpnat05/round-10-results">10</a>&#10;            <br>&#10;            <a href="/sna/events/2005/jpnat05/round-9-results">9</a>&#10;            <br>&#10;            <a href="/tgl/events/2005/jpnat05/round-8-results">8</a>&#10;          </td>&#10;          <td>&#10;            <a href="/sna/events/2005/jpnat05/round-14-standings">14</a>&#10;            <br>&#10;            <a href="/sna/events/2005/jpnat05/round-13-standings">13</a>&#10;            <br>&#10;            <a href="/sna/events/2005/jpnat05/round-12-standings">12</a>&#10;            <br>&#10;            <a href="/sna/events/2005/jpnat05/round-11-standings">11</a>&#10;            <br>&#10;            <a href="/sna/events/2005/jpnat05/round-10-standings">10</a>&#10;            <br>&#10;            <a href="/sna/events/2005/jpnat05/round-9-standings">9</a>&#10;            <br>&#10;            <a href="/sna/events/2005/jpnat05/round-8-standings">8</a>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            <a href="/sna/events/2005/jpnat05/round-7-pairings">7</a>&#10;            <br>&#10;            <a href="/sna/events/2005/jpnat05/round-6-pairings">6</a>&#10;            <br>&#10;            <a href="/sna/events/2005/jpnat05/round-5-pairings">5</a>&#10;            <br>&#10;            <a href="/sna/events/2005/jpnat05/round-4-pairings">4</a>&#10;            <br>&#10;            <a href="/sna/events/2005/jpnat05/round-3-pairings">3</a>&#10;            <br>&#10;            <a href="/sna/events/2005/jpnat05/round-2-pairings">2</a>&#10;            <br>&#10;            <a href="/sna/events/2005/jpnat05/round-1-pairings">1</a>&#10;          </td>&#10;          <td>&#10;            <a href="/sna/events/2005/jpnat05/round-7-results">7</a>&#10;            <br>&#10;            <a href="/sna/events/2005/jpnat05/round-6-results">6</a>&#10;            <br>&#10;            <a href="/sna/events/2005/jpnat05/round-5-results">5</a>&#10;            <br>&#10;            <a href="/sna/events/2005/jpnat05/round-4-results">4</a>&#10;            <br>&#10;            <a href="/sna/events/2005/jpnat05/round-3-results">3</a>&#10;            <br>&#10;            <a href="/sna/events/2005/jpnat05/round-2-results">2</a>&#10;            <br>&#10;            <a href="/sna/events/2005/jpnat05/round-1-results">1</a>&#10;          </td>&#10;          <td>&#10;            <a href="/sna/events/2005/jpnat05/round-7-standings">7</a>&#10;            <br>&#10;            <a href="/sna/events/2005/jpnat05/round-6-standings">6</a>&#10;            <br>&#10;            <a href="/sna/events/2005/jpnat05/round-5-standings">5</a>&#10;            <br>&#10;            <a href="/sna/events/2005/jpnat05/round-4-standings">4</a>&#10;            <br>&#10;            <a href="/sna/events/2005/jpnat05/round-3-standings">3</a>&#10;            <br>&#10;            <a href="/sna/events/2005/jpnat05/round-2-standings">2</a>&#10;            <br>&#10;            <a href="/sna/events/2005/jpnat05/round-1-standings">1</a>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;    </td>&#10;  </tr>&#10;</tbody></table>
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <b>BLOG</b>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <br>&#10;      <a name="1">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, September 4: 12:02 p.m. - Quarterfinals: Masashi Oiso (BlueTooth) vs. Makahito Mihara (RazorTron)</b>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/72/da/72daa79ea7860ffc08fb62448612036787d245c321827a67a7e5eef328e813ff.jpg">&#10;            <i>Makahito Mihara</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Makahito Mihara has reached the Top 8 of Japanese Nationals for three years running. He has yet to qualify for Worlds by winning that elusive quarterfinals match. (He has also made the Top 8 of two straight 'The Finals', a national Japanese year-end Constructed tournament)</p>&#10;      <p>Makahito had to overcome a one game deficit to Tsuyoshi Fujita in the last round of Swiss to earn a third shot at the invite and a chance to play when the World Championships come to Yokohama. In his path is the most challenging obstacle he has ever had to face. If he can win this quarterfinal match it will certainly wash away the bitterness of his past two defeats at this stage. And if he loses… well, there is no shame in losing to the very best.</p>&#10;      <p>Mashashi Oiso started out his career with a Rookie of the Year title and had never looked back Oiso has reached the Top 8 of a Pro Tour five times in his very young career. Despite first playing on the Pro Tour in 2002 he has already crossed the 100 Pro Point threshold needed for induction into the Hall of Fame in 2012 - the only player currently eligible in that class. He has many Grand Prix Top 8s and shocked the Magic community when he led a squad of Japanese players into Boston to win an Extended Grand Prix. He has recently started writing strategy articles for an English language strategy site as well.</p>&#10;      <p>What he has not accomplished in his career is any kind of Domestic title. He has never won a Prefectural title, Continental Championship, or been on the National team. Many people expect that to change this weekend. </p>&#10;      <h3>Game 1</h3>&#10;      <div>&#10;        <div>&#10;          <a>&#10;            <img alt="Condescend" src="https://i.ormos.uk/20/92/2092b79a90ab45320b42db64f83962be719bc873994a5427fcac30a87574a13e.jpg">&#10;          </a>&#10;        </div>&#10;      </div>&#10;      <p>Both players led off with <a>Sensei's Divining Top</a> although Mihara's was paid for with Yavimaya Coast. His deck is <a>Tooth and Nail</a> but it is by no means an ordinary version. He calls the deck RazorTron and it features green, blue, and white mana in the main deck. For Game 1 he mixes <a>Condescend</a> into the Tooth package and has <a>Shifting Borders</a> after board. (His white is for COP Red against the burn decks.)</p>&#10;      <p>Oiso kept the multicolored creation stalled at two mana by <a>Condescend</a>ing <a>Sylvan Scrying</a> and then <a>Annul</a>ling a green-white Talisman. He then kicked Mihara while he was down and untapped into <a>Meloku the Clouded Mirror</a>. When Mihara <a>Condescend</a>ed his own Top to look for help, Oiso <a>Mana Leak</a>ed the Top - and also countered the scry effect of the <a>Condescend</a> in the process. Oiso kept up his pressure and added a <a>Triskelion</a>. </p>&#10;      <p>By stunting Mihara's mana development Oiso had more than enough time to finish him off with those two BlueTooth staples. </p>&#10;      <p>Oiso - 1 Mihara - 0</p>&#10;      <h3>Game 2</h3>&#10;      <p>Katsuhiro Mori came over to watch his deck in action. Mori designed the deck that Oiso was playing this weekend and lost to his friend during the opening rounds of the tournament. Mihara was not without his own supporters and they cringed as he had to mulligan his first set of cards. He kept the next six and led off with <a>Sensei's Divining Top</a>. Oiso's draw seemed less menacing than last game without a Top of his own; although he did discard one to <a>Thirst for Knowledge</a> as Mihara began to assemble his pieces - including the counterstopping Boseiju.</p>&#10;      <p>Oiso drew into another Top and flipped it to complete his tron. Mihara, who had played a second Top on the previous turn, cycled it for a card and sacrificed his <a>Sakura-Tribe Elder</a>. He was one piece away from the tron himself and he got to see plenty of cards. He spun the Top into the missing Mine and cast an uncounterable, entwined <a>Tooth and Nail</a>. Oiso scryed for two with <a>Condescend</a> pushing the top two of his library to the bottom. </p>&#10;      <p>&#10;        <a>Tooth and Nail</a> brought forth Kiki-Jiki and <a>Sundering Titan</a>. Mihara lost both of his <a>Forest</a>s while Oiso took seven and lost his lone <a>Island</a>. Masashi found <a>Memnarch</a> but without any blue sources all it could do was chump block. It was soon on to Game 3.</p>&#10;      <p>Oiso - 1 Mihara - 1</p>&#10;      <h3>Game 3</h3>&#10;      <div>&#10;        <div>&#10;          <a>&#10;            <img alt="Mindslaver" src="https://i.ormos.uk/90/d1/90d1148877b6ec1ac407d8853d7c02bf60c9d7242871d442c1d99df810cfb663.jpg">&#10;          </a>&#10;        </div>&#10;      </div>&#10;      <p>Oiso wasted none of his usual mulligan deliberation on his opening hand. He looked at it for about fifteen seconds before sticking it back in his deck. Mihara threw his back as soon as Oiso seemed content with his six. </p>&#10;      <p>Oiso developed a board without tron pieces while Mihara had two-thirds of his tron but no green. He also had Bosieju which lent some urgency to Oiso's actions. He played <a>Mindslaver</a> on turn six and hoped for the best. Mihara passed without a play. Oiso drew a seventh land and played <a>Memnarch</a>. Mihara peeled back the top card of his library and…discarded without a play. </p>&#10;      <p>Oiso swung in for four and activated <a>Mindslaver</a>. He saw a hand with Dosan, <a>Mindslaver</a>, <a>Oblivion Stone</a>, <a>Sylvan Scrying</a>, <a>Reap and Sow</a>, Sakura-Trine Elder, <a>Shifting Borders</a>, and <a>Condescend</a>. Oiso tapped him out - losing two life from Boseiju - and made an Urza piece into an artifact. He stole it on his turn and completed his own tron. Mihara scooped a turn later.</p>&#10;      <p>Oiso - 2 Mihara - 1</p>&#10;      <h3>Game 4</h3>&#10;      <p>Mihara led the game off with Top and worked it to find a Talisman on turn three as his only green source but Oiso Mana leaked it. Mihara completed his tron on the next turn but had no colored mana to work with. </p>&#10;      <p>Oiso was two-thirds of the way to a tron himself when he played his own Top. Mihara had a ridiculous amount of mana available - he had three Towers, one Power Plant, and two Mines in play - but could do nothing. He was at the point that without shuffle effects he was only seeing one new card per turn. Oiso's missing piece was not churning near the top so he went into an aggressive style of play and cast <a>Meloku the Clouded Mirror</a>. </p>&#10;      <p>Oiso looked for a faster clock. He activated his Top and shuffled it into the top three cards of his deck and then discarded it to <a>Thirst for Knowledge</a> which he <a>Condescend</a>ed for zero. He found another Top but not the missing piece of his tron - he had 3 Towers and 2 Power Plants in play. </p>&#10;      <p>Mihara still had no colored mana and everything else he needed waiting for it in his hand. Oiso sensed his luck could soon change and flipped up his new Top and cast <a>Thirst for Knowledge</a> pitching two <a>Island</a>s. He then resolved the Top to see some fresh cards. </p>&#10;      <p>Oiso attacked Mihara down to 10 with Meloku and two tokens. He then tapped out to cast <a>Mindslaver</a>. Mihara worked his Top for a chance and beamed when his deck finally delivered Yavimaya Coast. He cast <a>Reap and Sow</a> for <a>Okina, Temple to the Grandfathers</a>. His other Top showed him three new cards for the first time since the beginning of the game and yielded <a>Mindslaver</a>. Mihara used another <a>Reap and Sow</a> to find Boseiju and then buried Oiso's <a>Mindslaver</a> with his own. </p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/68/8c/688c12bbcd2de377dc8381ded4751acd39764be83bbd76fdf8922e14dd17294d.jpg">&#10;            <i>Masashi Oiso</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Turnabout is fair play and Oiso had his own legendary wasteland ready for Boseiju. Oiso made a rare play mistake and went play an <a>Island</a> but the whole room screamed out before the game went any further. Oiso smiled sheepishly and the game continued unharmed. </p>&#10;      <p>Mihara looked over the board and tried to gauge Oiso's hand. He was going to die next turn to an all out attack by Oiso and all of his lands. He sculpted the top of his deck and ran through all the possibilities in his head. Finally he parlayed the Top into <a>Mindslaver</a> and offered it for approval. Oiso had the <a>Annul</a>. Mihara offered an entwined <a>Tooth and Nail</a>. Oiso gestured for him to look through his deck…it resolved. Now Mihara had to find the combination of two creatures that would keep him from losing in the quarterfinals for the third straight year. </p>&#10;      <p>There weren't any.</p>&#10;      <p>Final result: Masashi Oiso advanced to the semifinals and would have two more chances to give Japan one of the most formidable National teams in recent memory. </p>&#10;      <br>&#10;      <a name="2">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, September 4: 2:14 p.m. - Semifinals: Ichirou Shimura (AggroRed) vs. Jun'ya Iyanaga (AggroRed)</b>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/1a/6a/1a6a300a75d709edc100b841c11fb3edf9f99b3b4c3a68eed305dc29b127319d.jpg">&#10;            <i>Jun'ya Iyanaga</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Jun'ya Iyanaga is an 18-year old Tokyo player who just qualified for his first trip to the Pro Tour when he defeated Yuuta Hirosawa in the quarters. In all likelihood Jun'ya is already a member of the National team since Morofuji, who is a pharmacist, will have to rescind his spot due to work commitments should he beat Oiso. With college entrance exams looming for Jun'ya there is a good chance the he will have to rescind his invite as well. That does not mean he can't play for the money though and the youngster settled in for a firefight with the much more seasoned Ichirou Shimura</p>&#10;      <p>Both players were sporting agro red decks but Ichirou was playing the version designed by Tomohiro Kaji. Kaji piloted that deck to the only 7-0 record in the Standard portion. Ichirou only mustered a 4-2-1 record with the deck but with <a>Granite Shard</a>s in the sideboard it is supposed to have a significant edge in the mirror match. </p>&#10;      <p>Ichirou was also assured a berth on the National team should Morofuji and/or Jun'ya rescind. For that matter so was Masashi Oiso, which would make for a juggernaut of a team. Don't forget that Ichirou's best PT finish was at Pro Tout Seattle in team Rochester - the same format as the team event at Worlds. <br> Game 1</p>&#10;      <p>Ichirou led off with <a>Mountain</a> while Jun'ya topped him with <a>Mountain</a> and <a>Frostling</a>. Ichirou exploded with <a>Blinkmoth Nexus</a>, <a>Chrome Mox</a> (imprinting Slith) and <a>Zo-Zu the Punisher</a>. Jun'ya gladly took two to play a land and unsheathe <a>Sword of Fire and Ice</a>. </p>&#10;      <p>Ichirou stared at the board and at Jun'ya's hand, &quot;Only two cards?&quot; He animated his Nexus and sent it and the legend into the (very) red zone. Jun'ya blocked Zo-Zu with the <a>Frostling</a> and struck the killing blow after damage stacked. </p>&#10;      <p>&#10;        <a>Genju of the Spires</a> was <a>Magma Jet</a>ted after Jun'ya animated it. Ichirou pounced on Jun'ya's non-basic Nexus with <a>Molten Rain</a> forestalling the <a>Arc-Slogger</a> waiting in the wings. The two semifinalists started playing hot potato with <a>Jinxed Choker</a> and it quickly accumulated five counters by the time Jun'ya played his <a>Arc-Slogger</a> and the <a>Choke</a>r returned to Ichirou's control - he nudged it up to six EOT and fell to 12 on his upkeep. Jun'ya was at 9. <a>Blinkmoth Nexus</a> dropped him to eight. Ichirou put two more counters on the <a>Choke</a>r and sent it back over. </p>&#10;      <p>Ichirou - 1 Jun'ya - 0</p>&#10;      <h3>Game 2</h3>&#10;      <div>&#10;        <div>&#10;          <a>&#10;            <img alt="Genju of the Spires" src="https://i.ormos.uk/ed/18/ed188787e037abf53c4788882b8de1c73c6d000be06a46317f2e232827730a33.jpg">&#10;          </a>&#10;        </div>&#10;      </div>&#10;      <p>Ichirou sideboard featured all of his Zo-Zus, <a>Choke</a>rs, and Genjus when he was done transforming for Game 2. In addition to a full set of <a>Vulshok Sorcerer</a>s, Ichirou brought in three <a>Granite Shard</a>s specifically for this match-up. Jun'ya brought in <a>Molten Rain</a>, <a>Electrostatic Bolt</a> and a <a>Sword of Fire and Ice</a>. </p>&#10;      <p>Jun'ya stared at a five land hand and decided to keep. His plays were <a>Hearth Kami</a> and <a>Vulshok Sorcerer</a>. Ichirou did not keep his seven and was similarly unable to keep his six card hand that followed. </p>&#10;      <p>Ichirou's <a>Frostling</a> traded with <a>Hearth Kami</a> and cleared the way for <a>Slith Firewalker</a>. Jun'ya played his own <a>Frostling</a> and followed up with a pair of Sorcerers to kill the Slith. </p>&#10;      <p>Jun'ya's <a>Sword of Fire and Ice</a> never got online as Ichirou had <a>Hearth Kami</a> to kill it. Meanwhile Jun'ya's Sorcerers were chipping away as Ichirou played land after land. When Jun'ya added <a>Genju of the Spires</a> to the mix that was game.</p>&#10;      <p>Ichirou - 1 Jun'ya - 1</p>&#10;      <h3>Game 3</h3>&#10;      <p>On the draw Jun'ya sided out a pair of Sliths and brought in two <a>Shrapnel Blast</a>s.</p>&#10;      <p>Shimura sighed as he looked at his hand and sent it back for his third mulligan in the last two games. Jun'ya's hand looked pretty gassy on the other side of the table. Ichirou did get to play with six cards this game and led off with <a>Frostling</a> and followed up with <a>Hearth Kami</a>. Jun'ya made his own Kami but Ichirou did not use his <a>Frostling</a>; rather he just sent his <a>Hearth Kami</a> in and Jun'ya had no blocks. </p>&#10;      <p>&#10;        <a>Vulshok Sorcerer</a> was the rainy day that Ichirou saved his <a>Frostling</a> for and Jun'ya played one on turn three. Neither player made a move. Finally Ichirou sent both of his guys into battle. Jun'ya shot the <a>Hearth Kami</a> and took one from the <a>Frostling</a>. Ichirou killed the Sorcerer during his second main phase. </p>&#10;      <p>&#10;        <a>Hearth Kami</a> went to work on Ichirou who had nothing but lands. Jun'ya made <a>Arc-Slogger</a> and Ichirou killed with <a>Blinkmoth Nexus</a> via <a>Shrapnel Blast</a>. Jun'ya had another one for the following turn. Ichirou had no answer.</p>&#10;      <p>Ichirou - 1 Jun'ya - 2</p>&#10;      <h3>Game 4</h3>&#10;      <p>Tomaharu Saito came over to lend his support to Ichirou but deck designer Tomohiro Kaji could not bear to watch and led Saito away. Both players started this game off with the full compliment of cards. Ichirou's <a>Hearth Kami</a> was the game's first play. Jun'ya made a Mox on turn two and was able to sing a song of <a>Arc-Slogger</a>. </p>&#10;      <p>Ichirou passed the turn without a play. Jun'ya shot the <a>Hearth Kami</a> and Ichirou ate the Mox. <a>Arc-Slogger</a> got in for 4 damage and Jun'ya played a Sword. Ichirou used <a>Magma Jet</a> EOT to scry for an answer. He played a <a>Chrome Mox</a> without imprinting anything and passed the turn. </p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/96/e0/96e013d1791a76396d0525e961be4134644075c7e4c7efd04115a97707a6325d.jpg">&#10;            <i>Ichiro Shimura</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Jun'ya played his own Mox and imprinted <a>Genju of the Spires</a>. He then played <a>Slith Firewalker</a> - the last card in his hand. Ichirou need to think while it lingered on the stack - Jun'ya still had mana left open to equip something with his Sword. He moved it to the Slith. Ichirou rearranged his mana as if he had a response and again the game stopped mid-stack. He <a>Shrapnel Blast</a>ed the Slith and took four from the Slogger. Jun'ya was out of cards but with the Slogger, a Blinkmoth, and the Sword there was nothing for Ichirou to do but extend the hand. </p>&#10;      <p>Final result: After losing Game 1, Jun'ya Iyamaga wins 3 games to 1 and advances to the finals against the winner of the Oiso/Morofuji match. Ichirou will await the loser of that match to determine the roster of the National team prior to anyone rescinding an invite. </p>&#10;      <br>&#10;      <a name="3">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, September 4: 3:23 p.m. - 3rd/4th Playoff: Ichirou Shimura (AggroRed) vs. Masashi Oiso (BlueTooth)</b>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/e2/70/e2707044fd103e2b09b735e417bf790f000b777f8672b6b21f96e40ca37fcda0.jpg">&#10;            <i>Masashi Oiso</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Neither of these players requires much introduction at this point in the coverage (or at all to be frank). Ostensibly they were playing for a berth on the Japanese National team. With both players in the finals intending to rescind their invites the only thing left to determine about the composition of the team would be which of the quarterfinalists would be joining Ichirou and Masashi in Yokohama. </p>&#10;      <p>The two deck designers for this match-up stood behind their champions watching intently. Katsuhiro Mori designed Oiso's deck only to lose to him in the early rounds and miss the Top 8 by one match. Tomohiro Kaji designed Ichirou's deck and piloted his own copy of it to the only perfect Standard record in the tournament. He also finished one win out of the Top 8.</p>&#10;      <h3>Game 1</h3>&#10;      <p>Ichirou came on strong with a first turn <a>Hearth Kami</a> and offered a second turn <a>Slith Firewalker</a> which was <a>Condescend</a>ed. Despite scrying from the counterspell and a first turn <a>Serum Visions</a>, Oiso was stuck on two lands. He <a>Mana Leak</a>ed one of Ichirou's Genjus but could not handle both of them. </p>&#10;      <div>&#10;        <div>&#10;          <a>&#10;            <img alt="Sword of Fire and Ice" src="https://i.ormos.uk/52/84/5284305f0da10b51327c72b7b29d3b586795bf2201d492cba5184e4d8258b81d.jpg">&#10;          </a>&#10;        </div>&#10;      </div>&#10;      <p>Oiso's mana quickly righted itself. <a>Thirst for Knowledge</a> found him his fourth land and <a>Solemn Simulacrum</a> caught him up to where he should have been naturally. Shimura left his Genju back but sent in his <a>Hearth Kami</a>. Oiso blocked. Ichirou used <a>Molten Rain</a> on an <a>Urza's Tower</a> which was enough for Oiso to pack it in after a quick peek at the top of his deck with <a>Serum Visions</a>.</p>&#10;      <p>Ichirou - 1 Oiso - 0</p>&#10;      <h3>Game 2</h3>&#10;      <p>Oiso quickly excised the pricey stuff from his deck in favor of <a>Culling Scales</a>, <a>Kaijin of the Vanishing Touch</a>, Meloku, and an <a>Annul</a>. Gone were the <a>Memnarch</a>s, <a>Mindslaver</a>s, and <a>Rewind</a>s. </p>&#10;      <p>Both players srcyed on turn one. Oiso with <a>Serum Visions</a> while Ichirou made a Mox and used <a>Magma Jet</a>. Oiso had the two-drop wall for his second turn while Ichirou had no play. He did <a>Shatter</a> Oiso's <a>Culling Scales</a> and untap to <a>Molten Rain</a> a Power Plant. </p>&#10;      <p>Oiso's <a>Serum Visions</a> found him a third land with a little help from <a>Sensei's Divining Top</a>. Ichirou looked to punish the mana-light Oiso with Zo-Zu. Oiso activated his Top to draw a card and then discarded the artifact to <a>Thirst for Knowledge</a>; all of this to find a land and take two. </p>&#10;      <p>Ichirou was perfectly content with the situation and gave Oiso a <a>Jinxed Choker</a>. Oiso took two more and played Meloku but he needed an answer to that <a>Choke</a>r. To make matters worse for him, Ichirou played <a>Sword of Fire and Ice</a> - Zo-Zu would be skipping right by that Kaijin, Meloku, and any illusion tokens to the turn of six a turn. </p>&#10;      <p>Oiso looked for help with <a>Thirst for Knowledge</a> but he was being attacked on too many fronts. He quickly found himself in a two game hole. </p>&#10;      <p>Ichirou - 2 Oiso - 0</p>&#10;      <h3>Game 3</h3>&#10;      <img src="https://i.ormos.uk/73/01/730114144914b8aeab8f299686e0aa28270d2e94def8ed6d8333864e81a9d31b.jpg">&#10;      <p>Oiso kept a one-land hand on the strength of <a>Serum Visions</a>. He did not see any land near the top and pushed another <a>Serum Visions</a> and Kaijin to the bottom. He drew into an Urza piece and was able to <a>Mana Leak</a> a Slith and <a>Annul</a> a third turn <a>Jinxed Choker</a>. With no fourth land in hand he went digging with Thirst and passed the turn frustrated and tapped out. Ichirou brought forth <a>Hearth Kami</a> and attacked with a Nexus. </p>&#10;      <p>Oiso had another mainphase Thirst and was happy to find land this time. He took four from a pair of Nexi and the Kami. Oiso's fifth land summoned Meloku but it was promptly <a>Shrapnel Blast</a>ed out of the sky. Ichirou added Zo-Zu to his side of the board. </p>&#10;      <p>Oiso took some pain from a sixth land and conjured up <a>Triskelion</a>. Ichirou sat with his arms crossed over his Linkin Park T-shirt and did some math. He <a>Shatter</a>ed the Trike and Oiso killed the two red men. Ichirou got in for one with his Nexus. </p>&#10;      <p>Oiso suddenly had a little breathing room - he was at 9 - and played Meloku, bouncing and replaying a land. Ichirou was out of gas and sullenly played a fresh copy of Zo-Zu. Oiso used <a>Echoing Truth</a> to bounce the legend rather than take four for completing his tron and making a <a>Solemn Simulacrum</a>. With two Blinkmoths and plenty of mana on the other side of the table, Oiso could not attack without losing the flying legend. </p>&#10;      <p>The top of Ichirou's deck yielded <a>Sword of Fire and Ice</a>. Oiso furrowed his brow and could only <a>Mana Leak</a> it to keep Ichirou from having enough mana to replay Zo-Zu as well. Ichirou paid and passed the turn. Oiso went up to five tokens at the end of Ichirou's turn. He sent everything he had at Shimura. Shimura went to eleven. </p>&#10;      <div>&#10;        <div>&#10;          <a>&#10;            <img alt="culling scales" src="https://i.ormos.uk/8e/06/8e06106d71d57217ce0ebc8b505790f630e25347d10690c8204a976960faed21.jpg">&#10;          </a>&#10;        </div>&#10;      </div>&#10;      <p>Shimura sent a sword-wielding Nexus into battle and Oiso dropped to 6. He shot the <a>Solemn Simulacrum</a> and both players drew a card. Oiso picked up all his lands at the end of the turn and made five more guys. He sent everyone in and Ichirou had to block Meloku with his Nexus. He went to one and <a>Shatter</a>ed Oiso's Top. Oiso considered tapping the land he had played that turn but instead just flipped the Top up for a card. </p>&#10;      <p>Ichirou attacked Oiso down to one with his Nexus and drew a card from the Sword. He needed to draw a land to have enough mana to play a <a>Jinxed Choker</a> for the final point. He drew the <a>Mountain</a> but Oiso slapped down a game ending <a>Annul</a>.<br> Ichirou - 2 Oiso - 1</p>&#10;      <h3>Game 4</h3>&#10;      <p>Ichirou kept a land heavy draw that allowed for a turn two Zo-Zu. Oiso sighed as he took two and played <a>Kaijin of the Vanishing Touch</a>. Now it was Ichirou's turn to sigh as his Slith had to wait around for a chance to attack. </p>&#10;      <p>Oiso took two more and played <a>Culling Scales</a>. Shimura animated his Nexus and sent everyone in to attack. He got to play a pain free land when Oiso blocked the legend and it returned to his hand. <a>Culling Scales</a> killed the Mox on Oiso's upkeep.</p>&#10;      <p>Ichirou chose to only attack with his Nexus. Oiso killed the Slith with Scales on his upkeep and played Meloku. Ichirou passed with no play. The Kaijin went down to the Scales - Zo-Zu was next on it's to-do-list --and Oiso drew three with <a>Thirst for Knowledge</a>.</p>&#10;      <p>Ichirou sent the Nexus and Zo-Zu into battle. Oiso blocked the flier and <a>Condescend</a>ed the ensuing <a>Shrapnel Blast</a>. With Zo-Zu falling to the Scales on the next upkeep, Oiso had to decide if he wanted to keep his sideboard artifact around. He considered making some tokens. Ultimately he bounced the Scales with <a>Echoing Truth</a> and picked up four lands. </p>&#10;      <p>Ichirou offered up <a>Jinxed Choker</a> and when Oiso <a>Annul</a>led it he smiled and they were on to Game 5. Oiso had climbed out of his two game hole to even things up.</p>&#10;      <p>Ichirou - 2 Oiso - 2</p>&#10;      <h3>Game 5</h3>&#10;      <p>Ichirou's opening hand had one land and no <a>Mountain</a>s although he did have a Mox. He kept it and imprinted a Slith and passed the turn without any other play. Oiso cast <a>Serum Visions</a> and Ichirou had the instant speed red version EOT. He was able to make a <a>Jinxed Choker</a> on the second turn and started the game of hot potato with Oiso. </p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/8e/ed/8eed6828962eb02cc1a34e8976803370aebc280bc580d2f01e840fbce73ab1f9.jpg">&#10;            <i>Ichirou Shimura</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Oiso sent it back and had to <a>Mana Leak</a><a>Sword of Fire and Ice</a>. He fell to fourteen from the <a>Choke</a>r and played <a>Culling Scales</a>. Ichirou attacked for one his Blinkmoth and put out <a>Genju of the Spires</a> - he didn't want the Scales to come near his <a>Choke</a>r for a couple more turns. </p>&#10;      <p>Oiso dropped to 8 and Culled the Mox. He tried to figure out how to extricate himself from the situation and looked for help with <a>Serum Visions</a>. Shimura was playing a dangerous game with the aptly named <a>Choke</a>r and took six when it next changed hands. Oiso fell to one and sent it back to Shimura with a lethal number of counters to complete the comeback and secure the last spot on the National team.</p>&#10;      <p>Final result: Masashi Oiso earned the third spot on the Japanese National Team. Ichirou Shimura was the alternate and would take the spot if either of the two finalists had to rescind for school or job commitments. </p>&#10;      <br>&#10;      <br>&#10;      <a name="4">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, September 4: 4:39 p.m. - Finals: Jun'ya Iyanaga (AggroRed) vs. Takuma Morofuji (RazorTron)</b>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/e8/c2/e8c299d5ecdf5d36ebf2b598d0d72a92901e47f1db36a32201b92eccc5178184.jpg">&#10;            <i>Jun'ya Iyanaga</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>It was unclear if either of these players would be using the invite to the 2005 World Championships that they had already secured once they reached the semifinals. Takuma Morofuji has a full-time job as a pharmacist and did not think he could get the time off from work. 18-year old Jun'ya Iyanaga was staring down the barrel of college entrance exams and needed to take all of his time making sure he got into the best school possible.</p>&#10;      <p>That is not to say that there was nothing on the line here. There was the small matter of $30,000 and who would get to take home the lion's share and claim the title as 2005 Japanese National Champion - the tenth in Japan's history!</p>&#10;      <h3>Game 1</h3>&#10;      <p>Morofuji led off the finals with the most ubiquitous card in Standard these days - <a>Sensei's Divining Top</a>. Iyanaga cast <a>Genju of the Spires</a> and was hoping to get in for six on turn two with the help of a Mox but Takuma stymied that plan with Sukura-Tribe Elder. Instead, Iyanaga forged <a>Sword of Fire and Ice</a>. </p>&#10;      <p>The red player animated his Nexus on turn three and equipped it with the Sword. He got in for five and a card. Morofuji completed his tron and destroyed the flying land with <a>Reap and Sow</a> - he still had his Elder holding the Genju back. </p>&#10;      <div>&#10;        <div>&#10;          <a>&#10;            <img alt="Darksteel Colossus" src="https://i.ormos.uk/1f/ee/1fee9066fa4471923665e8c989c07e2042b96b59dea0e411dec56ef7e75029b7.jpg">&#10;          </a>&#10;        </div>&#10;      </div>&#10;      <p>Iyanaga had another Blinkmoth but it was hardly going to matter as Morofuji entwined <a>Tooth and Nail</a> and fetched himself <a>Darksteel Colossus</a> and <a>Eternal Witness</a>. He saved the Witness for later and deployed the giant artifact creature and Kiki-Jiki. Jun'ya took 11. He killed the Kiki-Jiki with a <a>Magma Jet</a> but still had an indestructible Colossus to contend with next turn. </p>&#10;      <p>Morofuji - 1 Iyanaga - 0</p>&#10;      <h3>Game 2</h3>&#10;      <p>In came <a>Molten Rain</a>s and <a>Pithing Needle</a>s for the young student; banishing <a>Vulshok Sorcerer</a>s and <a>Magma Jet</a>s to the sidelines for the remaining games. On the other side of the table Morofuji took out four <a>Reap and Sow</a>s for a <a>Plains</a> and 3 COP Reds. Two <a>Naturalize</a>s also came in to deal with <a>Pithing Needle</a>. </p>&#10;      <p>Jun'ya stared intently at his hand. &quot;Keep?&quot; urged Morofuji. After a moment more of intense thought the red player decided he would. He led off with Genju which was <a>Naturalize</a>d during combat on turn three - he still took six much to his chagrin. </p>&#10;      <p>&#10;        <a>Molten Rain</a> took down an Urza piece but it was replaced by a <a>Plains</a> thanks to Sukura-Tribe Elder. Morofuji had the COP. <a>Arc-Slogger</a> hit the table on the next turn for Iyamaga but unless he found <a>Pithing Needle</a> it would be little more than a minor annoyance. </p>&#10;      <p>Jun'ya decided to try and overwhelm the COP. <a>Molten Rain</a> fell on another Urza piece and <a>Frostling</a> joined the red team. Morofuji fell to five when he tapped out to use his circle and Jun'ya activated his <a>Arc-Slogger</a> four times. Morofuji was still on only four lands and Jun'ya added a Firewalker to the things he needed to worry about. Morofuji made the classic mistake of tapping out against red to activate his Top at the end of the turn and Iyamaga finished him off with <a>Shrapnel Blast</a>. </p>&#10;      <h3>Game 3</h3>&#10;      <p>Morofuji mulliganed on the play but kept his next six. Jun'ya put the pressure on him with a Mox and <a>Slith Firewalker</a>. The Tooth player made a Talisman and Top on the second turn. Jun'ya had Zo-Zu ready for his second turn. Morofuji played <a>Sakura-Tribe Elder</a> but he was already in critical condition. </p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/e9/44/e94411ca667d0299ab955729baa9c0f7cbc10556106564f6b55e0f7138488675.jpg">&#10;            <i>It all came down to this</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Jun'ya put <a>Pithing Needle</a> on the stack and waited to see if the Tribe Elder would stick around. The <a>Pithing Needle</a> remained in Jun'ya's hand to the point where he was having trouble keeping it steady. The Head Judge smiled and told him he could put it on the table while he was waiting. Morofuji flipped his Top for a card and then let it resolve. Jun'ya named COP Red. The Elder blocked the Slith and Morofuji elected to not find a land to put into play. Jun'ya added <a>Hearth Kami</a> to the team. </p>&#10;      <p>&#10;        <a>Sylvan Scrying</a> fetched the last piece of the tron for Morofuji. Jun'ya battered him with his creatures and then destroyed the Talisman with <a>Hearth Kami</a>. Morofuji untapped and cast <a>Tooth and Nail</a> for <a>Triskelion</a> and <a>Darksteel Colossus</a> but the red player showed him an <a>Arc-Slogger</a> in his hand to signal the end of the game. </p>&#10;      <h3>Game 4</h3>&#10;      <p>Jun'ya had the turn one Slith for the second game in a row. Morofuji slowed the bleeding for a turn with <a>Sakura-Tribe Elder</a> but Jun'ya set back his mana development to a normal rate with <a>Molten Rain</a> on one of his Urza pieces. <a>Eternal Witness</a> regrew the land for Takuma and had the added bonus of being able to tussle with the Slith. Jun'ya wasn't in the mood to make any trades so he used <a>Seething Song</a> to cast and equip a Sword onto the Slith. Takuma chump blocked. </p>&#10;      <p>Takuma played <a>Eternal Witness</a> getting back an <a>Eternal Witness</a>. Jun'ya killed the blocker with a <a>Frostling</a> and attacked Takuma down to 10. Morofuji solved his Urza equation with <a>Sylvan Scrying</a> and played a <a>Triskelion</a> which traded with the Slith on the next turn.</p>&#10;      <p>Jun'ya played another <a>Frostling</a> and equipped it with the Sword. Things were about to get interesting. . . </p>&#10;      <p>Takuma's deck churned up a <a>Mindslaver</a> and he sacrificed it to take Jun'ya's next turn. Not wanting to lose one of his Blinkmoth Nexi to his own <a>Frostling</a>, Jun'ya sacrificed his <a>Frostling</a> to itself. He looked to the table judge to make sure this was okay since the <a>Frostling</a> had protection from red and there were no other targets. The judge allowed it.</p>&#10;      <p>Takuma saw a hand with <a>Seething Song</a> and <a>Mountain</a> - there was little harm he could do and he simply burned the Song and tapped his opponent out. At this point the crowd of pros started to buzz about the judge allowing the <a>Frostling</a> ability at the end of the last turn. </p>&#10;      <p>Takuma cast <a>Eternal Witness</a> and regrew his <a>Triskelion</a> and replayed it. Jun'ya topdecked a third Blinkmoth and animated it and went to equip it with the Sword. Takuma shot it with his Trike and Jun'ya pumped it once. Takuma shot it again. </p>&#10;      <p>On the next turn Jun'ya drew another Nexus and this time it lived through the Trike's activation and he dropped Morofuji to four. Morofuji looked at the next card of his library but there was no help. Jun'ya Iyanaga was the 2005 National Champion…</p>&#10;      <p>Or was he? </p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/55/2b/552b761e86cb0d9b0fb57a69437566fb4b1ba0551f3f1e15388081147ef81e92.jpg">&#10;            <i>Game 4 was re-constructed because of a judging dispute.</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>The table judge had ruled that Jun'ya was able to sacrifice his <a>Frostling</a> to target itself despite having protection from red granted by the <a>Sword of Fire and Ice</a>. During the course of the game it seemed that it was too late to go back but after the match no one - Jun'ya included - seemed happy with the tenth Japanese Nationals ending on a botched call. </p>&#10;      <p>There was a full video crew covering the event for a Japanese documentary that was going to follow the National team to Worlds. Between the video tape and the judge's notations every card in hand, in the graveyard, and in play was documented. There was much debate about how to proceed and after lengthy conference between all the tournament officials it was decided that the game would be backed up to the point where the incorrect ruling was made. </p>&#10;      <p>The judges and video crew got together and recreated the game state right down to the <a>Mountain</a> on top of Jun'ya's library when he was 'Slavered. </p>&#10;      <h3>Game 4.1</h3>&#10;      <p>With no other targets for the <a>Frostling</a>, Jun'ya allowed Takuma to expend the energy of animating and killing a <a>Blinkmoth Nexus</a> on his 'Slaver turn. Morofuji also burnt the <a>Seething Song</a>. Morofuji used <a>Sylvan Scrying</a> on his actual turn for a <a>Forest</a>. <a>Eternal Witness</a> regrew the <a>Triskelion</a>. </p>&#10;      <p>The Witness and <a>Triskelion</a> beatdown for six over two turns and the score was 8-5 in favor of Morofuji. Jun'ya played a <a>Frostling</a> and attempted to equip it with Sword. When Takuma killed it, Jun'ya killed the Witness. He also attempted to equip his Blinkmoth to take another counter off of the <a>Triskelion</a>. </p>&#10;      <p>Takuma played a COP Red. Another <a>Frostling</a> from Jun'ya set off the equipment dance again. At the end of it the <a>Frostling</a> and the Trike were both dead. The game settled into draw-go for a while with a whole lot of nothing happening. Finally Morofuji chose to change the order of the top of his library and cashed in his Top for <a>Tooth and Nail</a>. </p>&#10;      <h3>Game 5</h3>&#10;      <p>Neither player said much as they intently shuffled their libraries for the final - we could only hope - game of the tenth Japanese National Championships. </p>&#10;      <p>Jun'ya led off with <a>Frostling</a>. There was a Talisman and Top for Morofuji. <a>Pithing Needle</a> shut down the Top for Jun'ya. Takuma used <a>Sylvan Scrying</a> to get the last piece of his tron in hand but he chose to play Yavimaya Coast instead. Jun'ya ripped <a>Molten Rain</a> and killed an <a>Urza's Mine</a>. Takuma <a>Naturalize</a>d the Needle EOT. Morofuji fell to 13 from his Talisman and Coast usage - not to mention the beats from <a>Frostling</a>. </p>&#10;      <p>Takuma topped into COP Red and went down to 12. He topped into the tron and <a>Triskelion</a> on the following turn. Jun'ya put an <a>Arc-Slogger</a> in its path and the two players did nothing. Another <a>Arc-Slogger</a> joined the red team next turn but they needed a Needle to get their job done. </p>&#10;      <p>Jun'ya did not have time to find one as Takuma cast and used <a>Mindslaver</a>. He saw a hand of <a>Seething Song</a>, <a>Shrapnel Blast</a>, and <a>Chrome Mox</a>. He made Jun'ya cast <a>Seething Song</a> and shot one of the <a>Arc-Slogger</a>s three times. He shot the other one once and finished it off with <a>Shrapnel Blast</a>. </p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/d6/4f/d64f5467ecb0a52d29556f2c1beb1f249152223acc50f2ee1c851b84f354e0e7.jpg">&#10;            <i>Takuma Morofuji is the 2005 Japan Nationals Champion.</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Jun'ya went by all of his <a>Pithing Needle</a>s on the 'Slaver turn and would be dead in six turns to decking. Takuma did not let it come to that and played <a>Darksteel Colossus</a>. </p>&#10;      <p>Final result: Despite some unprecedented events the tenth Japanese Nationals finally had a winner. Toshiki Tsukamoto won the title ten years ago at the very first National Championship in this country and last year it was Tsuyoshi Fujita. Fleetingly it seemed like this year's title belonged to Jun'ya Iyanaga but in the end it was Takuma Morofuji hoisting the trophy and winning $20,000!</p>&#10;    </td>&#10;  </tr>&#10;</tbody></table>

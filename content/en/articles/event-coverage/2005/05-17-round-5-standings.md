@@ -1,0 +1,47 @@
+---
+id: edkx28y6
+kind: event
+lang: en
+path: /en/articles/event-coverage/2005/05-17-round-5-standings
+title: Round 5 Standings
+published: '2005-05-17'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-5-standings-2005-05-17
+    lang_detected: en
+    capture_id: 550732
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-5-standings-2005-05-17
+    captured_at: '2022-08-17 19:54:31+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-5-standings-2005-05-17
+    lang_detected: en
+    capture_id: 550732
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-5-standings-2005-05-17
+    captured_at: '2022-08-17 19:54:31+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: edkx28y6
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-5-standings-2005-05-17
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/round-5-standings-2005-05-17
+  lang: en
+  template: drupal
+  captured_at: '2022-08-17 19:54:31+00'
+  capture_id: 550732
+  wayback_url: https://web.archive.org/web/20220817195431id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-5-standings-2005-05-17
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: edkx28y6
+  capture_id: 550732
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-5-standings-2005-05-17
+  wayback_url: https://web.archive.org/web/20220817195431id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-5-standings-2005-05-17
+  captured_at: '2022-08-17 19:54:31+00'
+  template: drupal
+  sha256: 80b02f67e76944ce79a97b294fbfca403837eaae761e5df1d8e29845483289f2
+render_recovery: []
+---
+<table><tbody><tr><td><b>Player</b></td><td><b>Standing</b></td>&#10;				</tr><tr><td> Tsuyoshi Fujita </td><td> 5 - 0 </td></tr><tr><td> Antoine Ruel </td><td> 4 - 1 </td></tr><tr><td> Terry Soh </td><td> 4 - 1 </td></tr><tr><td> Eugene Harvey </td><td> 4 - 1 </td></tr><tr><td> Olivier Ruel </td><td> 3 - 2 </td></tr><tr><td> Jeroen Remie </td><td> 3 - 2 </td></tr><tr><td> Kai Budde </td><td> 3 - 2 </td></tr><tr><td> Masashiro Kuroda </td><td> 3 - 2 </td></tr><tr><td> Pierre Canali </td><td> 3 - 2 </td></tr><tr><td> Bob Maher </td><td> 2 - 3 </td></tr><tr><td> Carlos Romao </td><td> 2 - 3 </td></tr><tr><td> Gabriel Nassif </td><td> 2 - 3 </td></tr><tr><td> Tim Aten </td><td> 1 - 4 </td></tr><tr><td> Julien Nuijten </td><td> 1 - 4 </td></tr><tr><td> Sam Gomersall </td><td> 0 - 5 </td></tr><tr><td> Osyp Lebedowicz </td><td> 0 - 5 </td></tr><tr><td> </td>&#10;				</tr></tbody></table>

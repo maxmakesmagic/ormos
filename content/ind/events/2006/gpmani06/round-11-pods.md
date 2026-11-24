@@ -1,0 +1,48 @@
+---
+id: c6wbsg7t
+kind: event
+lang: ind
+path: /ind/events/2006/gpmani06/round-11-pods
+title: Round 11 Pods
+published: null
+column_slug: null
+column: null
+authors: []
+event_code: gpmani06
+detected_lang: ind
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/gpmani06/pod11
+    lang_detected: ind
+    capture_id: 1049569
+    url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpmani06/pod11
+    captured_at: '2013-07-02 14:36:45+00'
+    rule: aspx.article_heading
+  event_code:
+    page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/gpmani06/pod11
+    lang_detected: ind
+    capture_id: 1049569
+    url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpmani06/pod11
+    captured_at: '2013-07-02 14:36:45+00'
+    rule: url.event_code
+sources:
+- document_id: c6wbsg7t
+  url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpmani06/pod11
+  page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/gpmani06/pod11
+  lang: ind
+  template: aspx
+  captured_at: '2013-07-02 14:36:45+00'
+  capture_id: 1049569
+  wayback_url: https://web.archive.org/web/20130702143645id_/https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpmani06/pod11
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: c6wbsg7t
+  capture_id: 1049569
+  url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpmani06/pod11
+  wayback_url: https://web.archive.org/web/20130702143645id_/https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpmani06/pod11
+  captured_at: '2013-07-02 14:36:45+00'
+  template: aspx
+  sha256: 9226bf6da9c895346d8a33aa45908b5874bb3ce3c4f35dc5b963f176a5f2895c
+render_recovery: []
+---
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <a href="/ind/events/2006/gpmani06/round-11-pods">&#10;        <b>Pod</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/ind/events/2006/gpmani06/round-11-pods">&#10;        <b>Seat</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/ind/events/2006/gpmani06/round-11-pods">&#10;        <b>Player</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/ind/events/2006/gpmani06/round-11-pods">&#10;        <b>Points</b>&#10;      </a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>1</td>&#10;    <td>1</td>&#10;    <td>Gonzales, Felix</td>&#10;    <td>27</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>2</td>&#10;    <td>Yuen, Lionel Weng Foong</td>&#10;    <td>27</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>3</td>&#10;    <td>Ortega, Dominic</td>&#10;    <td>27</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>4</td>&#10;    <td>Hart, Jake</td>&#10;    <td>25</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>5</td>&#10;    <td>Sun, Bo</td>&#10;    <td>25</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>6</td>&#10;    <td>Matousek, Pavel</td>&#10;    <td>25</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>7</td>&#10;    <td>Porter, James</td>&#10;    <td>25</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>8</td>&#10;    <td>Baeyens, Mark</td>&#10;    <td>24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>2</td>&#10;    <td>1</td>&#10;    <td>Kim, Cynic</td>&#10;    <td>24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>2</td>&#10;    <td>Gan, vincent</td>&#10;    <td>24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>3</td>&#10;    <td>Saito, Tomoharu</td>&#10;    <td>24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>4</td>&#10;    <td>Leung, Sze Lok</td>&#10;    <td>24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>5</td>&#10;    <td>Riphat, Aziz</td>&#10;    <td>24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>6</td>&#10;    <td>Basilio, Charles Martin</td>&#10;    <td>23</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>7</td>&#10;    <td>Famorcan, Caesar</td>&#10;    <td>23</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>8</td>&#10;    <td>Palao, Hadji</td>&#10;    <td>23</td>&#10;  </tr>&#10;  <tr>&#10;    <td>3</td>&#10;    <td>1</td>&#10;    <td>Minh, Bernard</td>&#10;    <td>22</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>2</td>&#10;    <td>Osawa, Takuya</td>&#10;    <td>22</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>3</td>&#10;    <td>Batac, Michael Tom</td>&#10;    <td>22</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>4</td>&#10;    <td>Mori, Katsuhiro</td>&#10;    <td>22</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>5</td>&#10;    <td>Nakamura, Shuuhei</td>&#10;    <td>22</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>6</td>&#10;    <td>Camangon, Lawrence</td>&#10;    <td>22</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>7</td>&#10;    <td>Cohun, Benson</td>&#10;    <td>22</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>8</td>&#10;    <td>Quiray, Ron Oliver</td>&#10;    <td>22</td>&#10;  </tr>&#10;  <tr>&#10;    <td>4</td>&#10;    <td>1</td>&#10;    <td>Francisco, Jiro</td>&#10;    <td>22</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>2</td>&#10;    <td>Ong, Fredrick</td>&#10;    <td>22</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>3</td>&#10;    <td>Potter, Michael</td>&#10;    <td>22</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>4</td>&#10;    <td>lorayes, antonio</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>5</td>&#10;    <td>Manansala, Bayani</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>6</td>&#10;    <td>Kiwanont, Sukhum</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>7</td>&#10;    <td>tan, xingyong</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>8</td>&#10;    <td>Lin, Milton Jian Xiong</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>5</td>&#10;    <td>1</td>&#10;    <td>Profeta, Francis_robert</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>2</td>&#10;    <td>Beley, Ronnie Paul</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>3</td>&#10;    <td>Lazaro, Paul Ernest</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>4</td>&#10;    <td>Tabin, Lorenzo II</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>5</td>&#10;    <td>Maglaya, Vincent</td>&#10;    <td>20</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>6</td>&#10;    <td>Semana, Randy</td>&#10;    <td>20</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>7</td>&#10;    <td>Jamir, Joselito Alberto</td>&#10;    <td>20</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>8</td>&#10;    <td>Camangon, Gerald</td>&#10;    <td>20</td>&#10;  </tr>&#10;  <tr>&#10;    <td>6</td>&#10;    <td>1</td>&#10;    <td>Deriquito, Rodolfo</td>&#10;    <td>20</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>2</td>&#10;    <td>Dela Cruz Jr., Ramon</td>&#10;    <td>20</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>3</td>&#10;    <td>Españo, Ryan</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>4</td>&#10;    <td>Serafica, Nick</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>5</td>&#10;    <td>Soh, Terry</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>6</td>&#10;    <td>Li, Jie</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>7</td>&#10;    <td>Dacasin, Jefferson E</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>8</td>&#10;    <td>Mercado, Emmanuel</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>7</td>&#10;    <td>1</td>&#10;    <td>Oiso, Masashi</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>2</td>&#10;    <td>Jaro, Ogie</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>3</td>&#10;    <td>Beley, Ryan Mark</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>4</td>&#10;    <td>soliveres, roel</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>5</td>&#10;    <td>Pagtakhan, Werick</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>6</td>&#10;    <td>Padua, Mario</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>7</td>&#10;    <td>Wong, Lucas</td>&#10;    <td>17</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>8</td>&#10;    <td>Amba, Howard</td>&#10;    <td>17</td>&#10;  </tr>&#10;  <tr>&#10;    <td>8</td>&#10;    <td>1</td>&#10;    <td>Santos, Jerome Glenn</td>&#10;    <td>17</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>2</td>&#10;    <td>Miranda, Ruby Louise</td>&#10;    <td>16</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>3</td>&#10;    <td>Pamintuan, Pio Johann Diaz</td>&#10;    <td>16</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>4</td>&#10;    <td>Ang, Earl Edison</td>&#10;    <td>16</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>5</td>&#10;    <td>Coscolluela, Erik</td>&#10;    <td>16</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>6</td>&#10;    <td>Jalijali, Alexis Brian</td>&#10;    <td>16</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>7</td>&#10;    <td>tan, richmond</td>&#10;    <td>16</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>8</td>&#10;    <td>Piechnick, Daniel</td>&#10;    <td>15</td>&#10;  </tr>&#10;</tbody></table>

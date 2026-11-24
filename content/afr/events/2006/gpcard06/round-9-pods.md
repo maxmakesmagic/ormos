@@ -1,0 +1,48 @@
+---
+id: bang09xh
+kind: event
+lang: afr
+path: /afr/events/2006/gpcard06/round-9-pods
+title: Round 9 Pods
+published: null
+column_slug: null
+column: null
+authors: []
+event_code: gpcard06
+detected_lang: afr
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/gpcard06/pod9
+    lang_detected: afr
+    capture_id: 1026629
+    url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpcard06/pod9
+    captured_at: '2013-06-30 01:31:04+00'
+    rule: aspx.article_heading
+  event_code:
+    page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/gpcard06/pod9
+    lang_detected: afr
+    capture_id: 1026629
+    url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpcard06/pod9
+    captured_at: '2013-06-30 01:31:04+00'
+    rule: url.event_code
+sources:
+- document_id: bang09xh
+  url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpcard06/pod9
+  page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/gpcard06/pod9
+  lang: afr
+  template: aspx
+  captured_at: '2013-06-30 01:31:04+00'
+  capture_id: 1026629
+  wayback_url: https://web.archive.org/web/20130630013104id_/https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpcard06/pod9
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: bang09xh
+  capture_id: 1026629
+  url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpcard06/pod9
+  wayback_url: https://web.archive.org/web/20130630013104id_/https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpcard06/pod9
+  captured_at: '2013-06-30 01:31:04+00'
+  template: aspx
+  sha256: d6e82d6c4208d260740f8b86fb64701ceee8d3c54521466de08d25514bafb8c5
+render_recovery: []
+---
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130630013104/https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpcard06/pod9">&#10;        <b>Pod</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130630013104/https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpcard06/pod9">&#10;        <b>Seat</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130630013104/https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpcard06/pod9">&#10;        <b>Player</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130630013104/https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpcard06/pod9">&#10;        <b>Points</b>&#10;      </a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>1</td>&#10;    <td>1</td>&#10;    <td>West, Nicholas B</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>2</td>&#10;    <td>Martin, Quentin</td>&#10;    <td>24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>3</td>&#10;    <td>Siron, Geoffrey</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>4</td>&#10;    <td>Al-Bacha, Wesimo</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>5</td>&#10;    <td>Levy, Raphael</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>6</td>&#10;    <td>Dingler, Martin</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>7</td>&#10;    <td>Karsten, Frank</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>8</td>&#10;    <td>Yatsenko, Alex</td>&#10;    <td>24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>2</td>&#10;    <td>1</td>&#10;    <td>Wiegersma, Jelger</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>2</td>&#10;    <td>Wright, Stuart</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>3</td>&#10;    <td>Ruel, Antoine</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>4</td>&#10;    <td>Nørgaard, Lasse</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>5</td>&#10;    <td>Costa, Nuno</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>6</td>&#10;    <td>Pizzey, Lian</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>7</td>&#10;    <td>Costa, Frederico</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>8</td>&#10;    <td>James, Nathaniel</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>3</td>&#10;    <td>1</td>&#10;    <td>Edbury, Richard</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>2</td>&#10;    <td>Garcia Copete, David</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>3</td>&#10;    <td>Hsia, Wei</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>4</td>&#10;    <td>Dach, Michèl</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>5</td>&#10;    <td>Ruel, Olivier</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>6</td>&#10;    <td>Barclay, Bradley</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>7</td>&#10;    <td>Jardine, Julian</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>8</td>&#10;    <td>Bernabeu-Edo, Jesus</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>4</td>&#10;    <td>1</td>&#10;    <td>Snepvangers, Bram</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>2</td>&#10;    <td>Ronaldson, Ben</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>3</td>&#10;    <td>Coleman, Ben</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>4</td>&#10;    <td>Demeranville, Tom</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>5</td>&#10;    <td>Nuijten, Julien</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>6</td>&#10;    <td>Maaten, Rogier</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>7</td>&#10;    <td>Jenkins, Dan</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>8</td>&#10;    <td>Barbero, Jose</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>5</td>&#10;    <td>1</td>&#10;    <td>Grant, David</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>2</td>&#10;    <td>Veron, Mathias</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>3</td>&#10;    <td>Heeswijk, Roel</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>4</td>&#10;    <td>McGovern, Mark</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>5</td>&#10;    <td>McClare, Alastair</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>6</td>&#10;    <td>Loeb, Davy</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>7</td>&#10;    <td>Lawrence, Martin</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>6</td>&#10;    <td>1</td>&#10;    <td>Williams, Roy</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>2</td>&#10;    <td>Polasek, Filip</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>3</td>&#10;    <td>Moore, Richard</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>4</td>&#10;    <td>Gilbey, Rachel</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>5</td>&#10;    <td>Hopkins, Jon</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>6</td>&#10;    <td>Tan, Ronnie</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>7</td>&#10;    <td>Chan, Tiago</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>7</td>&#10;    <td>1</td>&#10;    <td>Jenkins, Ross</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>2</td>&#10;    <td>Ruiz Martin, Daniel</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>3</td>&#10;    <td>Chaney, Mat</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>4</td>&#10;    <td>Nyfors, Mika</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>5</td>&#10;    <td>Rao, Wei</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>6</td>&#10;    <td>Andreasen, Dennis</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>7</td>&#10;    <td>Stokes, Sam</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>8</td>&#10;    <td>1</td>&#10;    <td>prosper, philippe</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>2</td>&#10;    <td>Jensen, David</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>3</td>&#10;    <td>McIntosh, Stephen</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>4</td>&#10;    <td>Noe, Benjamin</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>5</td>&#10;    <td>Højgaard, Bogi</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>6</td>&#10;    <td>McLellan, Scott</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>7</td>&#10;    <td>Keen, Jason</td>&#10;    <td>17</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>8</td>&#10;    <td>Le Campion, Marc</td>&#10;    <td>17</td>&#10;  </tr>&#10;</tbody></table>

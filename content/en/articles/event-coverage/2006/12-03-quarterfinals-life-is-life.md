@@ -1,0 +1,151 @@
+---
+id: rabrc6ty
+kind: event
+lang: en
+path: /en/articles/event-coverage/2006/12-03-quarterfinals-life-is-life
+title: 'Quarterfinals: Life Is Life'
+published: '2006-12-03'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/quarterfinals-life-life-2006-12-03
+    lang_detected: en
+    capture_id: 473955
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/quarterfinals-life-life-2006-12-03
+    captured_at: '2022-06-26 12:36:57+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/quarterfinals-life-life-2006-12-03
+    lang_detected: en
+    capture_id: 473955
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/quarterfinals-life-life-2006-12-03
+    captured_at: '2022-06-26 12:36:57+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: rabrc6ty
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/quarterfinals-life-life-2006-12-03
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/quarterfinals-life-life-2006-12-03
+  lang: en
+  template: drupal
+  captured_at: '2022-06-26 12:36:57+00'
+  capture_id: 473955
+  wayback_url: https://web.archive.org/web/20220626123657id_/https://magic.wizards.com/en/articles/archive/event-coverage/quarterfinals-life-life-2006-12-03
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: rabrc6ty
+  capture_id: 473955
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/quarterfinals-life-life-2006-12-03
+  wayback_url: https://web.archive.org/web/20220626123657id_/https://magic.wizards.com/en/articles/archive/event-coverage/quarterfinals-life-life-2006-12-03
+  captured_at: '2022-06-26 12:36:57+00'
+  template: drupal
+  sha256: d6dcf29901af89e8eb19294e2e33d9fc691976f34816eaf937c535f0a326bd58
+render_recovery: []
+---
+Gabriel Nassif and Tiago Chan squared off in a match that was expected to go long: Gabriel's Martyr-Tron against Tiago Chan's [Demonfire](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Demonfire) control deck. Talk of the day was the enormous amount of time the match could take, with Nassif gaining endless amounts of life with [Proclamation of Rebirth](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Proclamation+of+Rebirth) and [Martyr of Sands](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Martyr+of+Sands) but not actually winning. Tiago would have a hard time pushing through enough damage with his Angels, [Demonfire](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Demonfire)s, and [Sacred Mesa](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sacred+Mesa).
+
+### Game 1
+
+The feature match area heated up quickly under the glaring lights, but the match did not. Even though Tiago got an early [Lightning Angel](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lightning+Angel) down after both players led with Signets, Gabriel was not under any pressure with [Martyr of Sands](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Martyr+of+Sands) already in play.
+
+![](https://i.ormos.uk/83/c0/83c0c99fafca2bc357ef2a314c649de7113312de1cadc0f4b1d48db70548cf3a.jpg)*Tiago Chan of Portugal and Gabriel Nassif of France begin what all signs indicate will be a very long match.*
+
+When Tiago attacked, Gabriel threw his Martyr in harm's way and sacrificed it, revealing [Wrath of God](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wrath+of+God) and two [Proclamation of Rebirth](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Proclamation+of+Rebirth). He was already in recursion mode. Tiago pushed against the wall of life that Gabriel was building with a [Bogardan Hellkite](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bogardan+Hellkite), killing the Martyr, but there was no conceivable way Tiago would push through with the Proclamations in Gabriel's hand and the [Wrath of God](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wrath+of+God) there as a back-up.
+
+To win through Gabriel's lifegain, Tiago would have to deal more than 21 damage each turn - certainly possible, but not probable. He'd have to rack up Angels, Hellkites, [Assembly-Worker](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Assembly-Worker) and Pegasus tokens, eventually running over for a LOT of damage. Eventually. And he'd have to do that early in the game to make his [Demonfire](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Demonfire)s count, and to prevent Gabriel from getting to 14 mana and *two* Proclamations online. Once at that point, Gabriel would gain more than 40 life a turn.
+
+Game 1 progressed glacially. 91 life. 124 life. Head judge Jaap Brouwer asked Gabriel to play a bit faster. Tiago fired off a [Demonfire](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Demonfire) for 16, normally a game-ending play, but with Gabriel on 132 life, it didn't mean anything. Another [Demonfire](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Demonfire) for 18 managed to actually subtract something from Gabriel's life total, taking him down to a whopping 118 life.
+
+Tiago packed up, knowing he would never crack that wall.
+
+Gabriel Nassif 1 - 0 Tiago Chan
+
+"We were playing fast," Tiago noted with a smile to head judge Jaap Brouwer, who had been watching the match. The players sideboarded.
+
+Gabriel Nassif:  
+ In: 2 [Circle of Protection: Red](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Circle+of+Protection%3A+Red), 2 [Muse Vessel](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Muse+Vessel), 2 [Faith's Fetters](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Faith%27s+Fetters), 3 [Disenchant](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Disenchant), 1 [Vesuva](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vesuva)  
+ Out: 3 Wayfarer, 1 [Chronosavant](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chronosavant), 3 [Condemn](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Condemn), 2 [Spell Burst](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spell+Burst), 1 [Dizzy Spell](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dizzy+Spell)
+
+Tiago:  
+ In: 3 [Faith's Fetters](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Faith%27s+Fetters), 4 [Annex](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Annex), 2 [Ivory Mask](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ivory+Mask), 1 [Sacred Mesa](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sacred+Mesa), 2 [Giant Solifuge](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Giant+Solifuge)  
+ out: 2 [Bogardan Hellkite](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bogardan+Hellkite), 2 [Demonfire](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Demonfire), 4 [Wrath of God](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wrath+of+God), 4 [Lightning Helix](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lightning+Helix)
+
+### Game 2
+
+![Martyr of Sands](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Martyr+of+Sands)
+
+Gabriel brought out a [Martyr of Sands](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Martyr+of+Sands) as the only relevant play during the first few turns. With just four mana available, Tiago stole an Urza's Power Plant with [Annex](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Annex). Gabriel replied with [Muse Vessel](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Muse+Vessel), and [Court Hussar](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Court+Hussar) took him down to 16.
+
+Another [Annex](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Annex) from Tiago kept Gabriel two lands short of [Proclamation of Rebirth](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Proclamation+of+Rebirth) forecast mana, and Tiago smelled his chance to win this game. Gabriel had already sacked one Martyr, revealing no land in hand. A third [Annex](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Annex) was met by a frown from Gabriel, who was down to just three lands and the [Muse Vessel](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Muse+Vessel).
+
+[Giant Solifuge](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Giant+Solifuge) crashed in to bring Gabriel down to 26 life. [Martyr of Sands](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Martyr+of+Sands) resolved and staved off Tiago's next attack. It revealed three [Wrath of God](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wrath+of+God) and a [Proclamation of Rebirth](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Proclamation+of+Rebirth), taking Gabriel up to 33 life. But the French player was short on white mana as well as missing an Urzatron piece.
+
+Tiago intended to make it stay that way, drawing his fourth [Annex](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Annex) off a [Remand](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Remand) and taking [Hallowed Fountain](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hallowed+Fountain), Gabriel's only colored mana source. Tiago's sideboard strategy had paid off big time as the full suite of four [Annex](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Annex) brutally crippled Gabriel's manabase. Tiago started to produce [Urza's Factory](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Urza%27s+Factory) tokens every turn. Gabriel went to 19, not drawing land and discarding useless cards every turn, and when Tiago revealed the game-ending [Demonfire](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Demonfire), Gabriel just shrugged.
+
+Gabriel Nassif 1 - 1 Tiago Chan
+
+### Game 3
+
+Gabriel replaced a [Muse Vessel](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Muse+Vessel) in his deck with a third [Circle of Protection: Red](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Circle+of+Protection%3A+Red), noting that the discard spell was actually less effective in protecting his life total than the Circle of Protection from [Giant Solifuge](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Giant+Solifuge) and non-hellbent [Demonfire](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Demonfire)s. Tiago played right into that sideboard game, taking out a [Court Hussar](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Court+Hussar) from his deck and bringing a third [Demonfire](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Demonfire) back in.
+
+![](https://i.ormos.uk/6d/af/6daf40d393855fb8560528294735b8ed5d50b559557bda17d7e7ba8c941a88ec.jpg)*Tiago keeps the pressure on…*
+
+Gabriel played first, with the sideboarded Circle on his fourth turn. Tiago tried to [Annex](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Annex), but Gabriel had [Remand](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Remand), protecting his only source of blue mana. And when a second [Hallowed Fountain](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hallowed+Fountain), [Azorius Signet](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Azorius+Signet) and the [Martyr of Sands](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Martyr+of+Sands) came down next turn, the game was looking to go just like the first - long and methodical. Tiago annexed an Urza land, and Gabriel sacrificed his Martyr. He had Proclamation in hand but tapped out to play [Chronosavant](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chronosavant) instead of reclaiming the Martyr.
+
+Tiago killed the Giant with [Demonfire](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Demonfire), so Gabriel began the Martyr / Proclamation cycle. But [Sacred Mesa](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sacred+Mesa) promised to be devastating should Gabriel not find either an early [Disenchant](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Disenchant) or a timely [Wrath of God](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wrath+of+God). Tiago was making four tokens at the end of each of Gabriel's turns, siezing his chance.
+
+When Tiago ran out of space on his side of the board, he combined ten Pegasi into one token with a die on it - a big, burly, 10-power protector. Gabriel had only two white cards in hand - both Proclamations - and dejectedly said "go." Tiago was now adding six tokens a turn to his battalion. His 17 Pegasi took Gabriel down to 29, and he even broke up the 'tron with [Annex](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Annex). Gabriel could not afford to lose a turn to return his [Chronosavant](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chronosavant) and get hit for 21 damage by Tiago's flying army.
+
+Gabriel Martyred for 9 life at the end of Tiago's turn, going back to 17, and could potentially do it again on his turn, but he would be facing down 27 damage and still die. A desperate [Compulsive Research](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Compulsive+Research) caught a [Remand](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Remand) from Tiago. Gabriel tapped out for yet another Research, didn't find anything, and packed up his cards.
+
+Gabriel Nassif 1 - 2 Tiago Chan
+
+### Game 4
+
+Tiago put the [Court Hussar](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Court+Hussar) back into his deck, taking out a [Lightning Angel](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lightning+Angel). With the match still going on while all other quarterfinals were done, Tiago and Gabriel were moved to a back table. "This match could easily last another hour," head judge Jaap Brouwer explained, so the first semifinal was started while this match plodded on. "By all means, use all the shortcuts available to you," Jaap asked from the players.
+
+Gabriel discarded [Chronosavant](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chronosavant) to an early [Compulsive Research](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Compulsive+Research). Would he forego a turn just to get a quick, big attacker into play? No, but completing the Urzatron on his fourth turn seemed like an acceptable alternative. Gabriel made and activated [Muse Vessel](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Muse+Vessel), netting himself a [Remand](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Remand). Tiago had [Annex](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Annex) on Gabriel's only untapped land and only blue mana source ([Adarkar Wastes](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Adarkar+Wastes)). Gabriel tapped it to sink the mana into the second [Muse Vessel](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Muse+Vessel) ability and deny Tiago the immediate use of the land. He double checked with the judges that the [Remand](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Remand) would in fact still be available to him later.
+
+![Muse Vessel](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Muse+Vessel)
+
+[Muse Vessel](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Muse+Vessel) nabbed a [Demonfire](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Demonfire) next turn, but Gabriel was still out of colored mana. Tiago had yet another [Annex](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Annex) and rolled a die to figure out which Urza piece to take. Gabriel drew [Hallowed Fountain](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hallowed+Fountain) but remained short on mana. The ballsy play would have been to return [Chronosavant](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chronosavant) and hope that Tiago had no [Demonfire](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Demonfire). With one of the X-spells already under the [Muse Vessel](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Muse+Vessel), that particular risk was low, but Gabriel didn't want to give Tiago an opening that large.
+
+Tiago went for [Sacred Mesa](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sacred+Mesa). Gabriel played the [Remand](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Remand) from under the [Muse Vessel](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Muse+Vessel) to stop it, but Tiago had [Remand](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Remand) of his own. He looked questioningly at the judge: "Do I get my own [Remand](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Remand) back?" And yes, the Vesseled [Remand](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Remand) went back to its owner's hand! That was a welcome gift to stop the [Disenchant](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Disenchant) Gabriel had ready for the [Sacred Mesa](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sacred+Mesa), at least for a turn.
+
+The French pro sighed. With no relevant board and a [Sacred Mesa](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sacred+Mesa) across from him with lots of untapped mana supporting it, he had to go for the [Disenchant](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Disenchant) again. It resolved, with Tiago making three Pegasi in response. Thinking hard and long, Gabriel earned himself a slow play warning, but he needed to figure out what exactly to do here. His solution came in the form of another [Disenchant](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Disenchant) on [Annex](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Annex) to bring his 'tron back together, after which he cleared the board with [Wrath of God](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wrath+of+God) and tried for [Martyr of Sands](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Martyr+of+Sands). Tiago did not stop the sacrificial wonder, so Gabriel went back up to 17 with [Proclamation of Rebirth](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Proclamation+of+Rebirth) in hand.
+
+Tiago put [Faith's Fetters](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Faith%27s+Fetters) on Gabriel's Circle of Protection, but the French player declined to activate it in response. That's why he got smacked for 3 by [Lightning Angel](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lightning+Angel), but on enough life to roll with that punch. The match picked up pace, with Tiago searching for a way to win before the combo would kick into full gear.
+
+![](https://i.ormos.uk/dc/1c/dc1c67994a4a4841930b4672a3b7ebd04338587290eba33795595f284a794553.jpg)*…but Gabriel gains a \*lot\* of life.*
+
+Alas, his [Compulsive Research](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Compulsive+Research)es and [Court Hussar](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Court+Hussar)s failed to find anything beyond a useless [Ivory Mask](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ivory+Mask). Gabriel had Proclamation going: 38 life. 48 life. 54 life. Finally, Tiago found [Sacred Mesa](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sacred+Mesa), got it [Remand](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Remand)ed for a turn, and then made it stick with Gabriel on 62 life. Knowing fully well that Gabriel had revealed [Wrath of God](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wrath+of+God) on the Martyr activations, Tiago's plan was to make enough Pegasi to draw out the Wrath and then try to overwhelm Gabriel fast.
+
+Tiago did in fact get to make six Pegasi, but merely in response to [Faith's Fetters](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Faith%27s+Fetters), which shut off the white enchantment. Gabriel followed up with [Wrath of God](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wrath+of+God). Tiago, tapped out and with an empty board, found nothing on his next draw, so Gabriel evened out the match!
+
+Gabriel Nassif 2 - 2 Tiago Chan
+
+Headjudge Jaap Brouwer reminded Gabriel that he already had one warning for slow play. The player voiced his opinion that just because both players were with a slow deck, that shouldn't be a reason to gameloss someone out of a Worlds Top 8. Tiago chimed in, and agreed that he did not perceive slow play as such. He felt that Gabriel had taken just the time he needed to think through complicated game states.
+
+### Game 5
+
+Tiago shuffled up for the first mulligan of this match that had already gone on for two hours and ten minutes. Gabriel led with a turn two [Circle of Protection: Red](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Circle+of+Protection%3A+Red), much more defensive than Taigo's [Court Hussar](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Court+Hussar) - but that was the tone of the entire matchup, really.
+
+[Martyr of Sands](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Martyr+of+Sands) stuck, sandbagging a [Remand](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Remand) along the way. The little white man brought Gabriel back up to 24, and [Proclamation of Rebirth](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Proclamation+of+Rebirth) meant a happy dance among the lines of recurring saviors for the innocuous *Coldsnap* draft star.
+
+24 life. 33 life. 45 life. Tiago's double [Court Hussar](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Court+Hussar)s weren't getting much work done. 56 life and again, [Wrath of God](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wrath+of+God) and [Disenchant](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Disenchant) were in Gabriel's hand. Tiago had [Annex](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Annex) to break up Gabe's Urzatron. 67 life. Tiago also had [Ivory Mask](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ivory+Mask) and [Urza's Factory](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Urza%27s+Factory) down, but the slow stream of [Assembly-Worker](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Assembly-Worker)s wouldn't do it against a Martyr with six white cards in hand. 77 life. 88 life.
+
+![Annex](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Annex)
+
+An attack from Tiago actually dealt 8 damage, because Gabriel wanted his mana to go end of turn [Disenchant](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Disenchant) on the [Annex](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Annex). [Remand](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Remand) delayed it. So he dropped to a perilously low 80 life. The next [Disenchant](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Disenchant) made it and re-completed Gabriel's Urzatron, and the outlook became bleak for Tiago, even though he was making a 2/2 token each turn. Gabriel's ever-changing life total: 86. 91. 106.
+
+Three Proclamations in Gabriel's upkeep lead to a totally surprising life upswing in his upkeep, up to 136. What was Tiago's plan? To whittle away 178 life and counting with [Assembly-Worker](https://web.archive.org/web/20061203000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Assembly-Worker)s? He would deck himself before Gabriel would, having drawn far more cards than his French counterpart. 218 life. Gabriel had double Urzatron and an extra copy of each Mine and Power Plant.
+
+By now, Tiago was keeping track of Gabriel's life with the help of a calculator, and was able to actually attack for zero instead of Gabriel gaining life in combat. But the upkeep was still the French player's domain, and seven white cards meant that Tiago wasn't able to do actual damage. 341 life. That would be a big chunk to chew for Tiago. Gabriel smiled and remarked: "No shame in scooping!"
+
+Tiago did just that, ending the almost three-hour long match, and there was much rejoicing.
+
+![](https://i.ormos.uk/c6/59/c659a43f84cf6db4408b2a15099d451cc4921459f85ee452b971cd274ef541bf.jpg)
+
+Gabriel Nassif 3 - 2 Tiago Chan

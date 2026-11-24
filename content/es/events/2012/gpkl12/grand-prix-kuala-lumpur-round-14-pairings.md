@@ -1,0 +1,55 @@
+---
+id: mvm2a0tp
+kind: event
+lang: es
+path: /es/events/2012/gpkl12/grand-prix-kuala-lumpur-round-14-pairings
+title: Grand Prix Kuala Lumpur Round 14 Pairings
+published: '2012-03-25'
+column_slug: null
+column: null
+authors: []
+event_code: gpkl12
+detected_lang: es
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gpkl12/pair14
+    lang_detected: es
+    capture_id: 431830
+    url: https://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gpkl12/pair14
+    captured_at: '2013-07-03 00:36:03+00'
+    rule: aspx.article_heading
+  published:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gpkl12/pair14
+    lang_detected: es
+    capture_id: 431830
+    url: https://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gpkl12/pair14
+    captured_at: '2013-07-03 00:36:03+00'
+    rule: aspx.byline_date
+  event_code:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gpkl12/pair14
+    lang_detected: es
+    capture_id: 431830
+    url: https://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gpkl12/pair14
+    captured_at: '2013-07-03 00:36:03+00'
+    rule: url.event_code
+sources:
+- document_id: mvm2a0tp
+  url: https://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gpkl12/pair14
+  page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gpkl12/pair14
+  lang: es
+  template: aspx
+  captured_at: '2013-07-03 00:36:03+00'
+  capture_id: 431830
+  wayback_url: https://web.archive.org/web/20130703003603id_/https://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gpkl12/pair14
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: mvm2a0tp
+  capture_id: 431830
+  url: https://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gpkl12/pair14
+  wayback_url: https://web.archive.org/web/20130703003603id_/https://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gpkl12/pair14
+  captured_at: '2013-07-03 00:36:03+00'
+  template: aspx
+  sha256: f822652d666f659475ec44448bd1d6700bb5e2bcd9331fd12be6e55ca963999b
+render_recovery: []
+---
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130703003603/https://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gpkl12/pair14">&#10;        <b>Table</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130703003603/https://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gpkl12/pair14">&#10;        <b>Player</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130703003603/https://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gpkl12/pair14">&#10;        <b>Points</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130703003603/https://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gpkl12/pair14">&#10;        <b>&#10;      </b></a><b>&#10;    </b></td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130703003603/https://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gpkl12/pair14">&#10;        <b>Opponent</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130703003603/https://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gpkl12/pair14">&#10;        <b>Points</b>&#10;      </a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td> 1</td>&#10;    <td>Lee, Sutti [THA]</td>&#10;    <td> 36</td>&#10;    <td>vs.</td>&#10;    <td>Kiwanont, Sukhum [THA]</td>&#10;    <td> 34</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 2</td>&#10;    <td>Chan, Ho Shuen [HKG]</td>&#10;    <td> 33</td>&#10;    <td>vs.</td>&#10;    <td>Yap, Jason [MYS]</td>&#10;    <td> 33</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 3</td>&#10;    <td>Watanabe, Yuuya [JPN]</td>&#10;    <td> 33</td>&#10;    <td>vs.</td>&#10;    <td>Wong, Freddy C [MYS]</td>&#10;    <td> 33</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 4</td>&#10;    <td>Kuo, Tzu Ching C [TWN]</td>&#10;    <td> 33</td>&#10;    <td>vs.</td>&#10;    <td>Yang, Joshua [SGP]</td>&#10;    <td> 33</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 5</td>&#10;    <td>Tong, King Yim Kingsto [HKG]</td>&#10;    <td> 33</td>&#10;    <td>vs.</td>&#10;    <td>Choo, Yong Han [SGP]</td>&#10;    <td> 33</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 6</td>&#10;    <td>lu, chao [CHN]</td>&#10;    <td> 31</td>&#10;    <td>vs.</td>&#10;    <td>li, fabien [SGP]</td>&#10;    <td> 31</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 7</td>&#10;    <td>Ozaki, Zax R [PHL]</td>&#10;    <td> 31</td>&#10;    <td>vs.</td>&#10;    <td>Wong, Ronald [MYS]</td>&#10;    <td> 31</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 8</td>&#10;    <td>Sui, Xin [CHN]</td>&#10;    <td> 30</td>&#10;    <td>vs.</td>&#10;    <td>Poonsawat, Chayapol [THA]</td>&#10;    <td> 30</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 9</td>&#10;    <td>Gunarto, Steven [IDN]</td>&#10;    <td> 30</td>&#10;    <td>vs.</td>&#10;    <td>Li, Bo [CHN]</td>&#10;    <td> 30</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 10</td>&#10;    <td>Huang, Hao-Shan [TWN]</td>&#10;    <td> 30</td>&#10;    <td>vs.</td>&#10;    <td>Soh, Weng Heng [SGP]</td>&#10;    <td> 30</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 11</td>&#10;    <td>Yong, Kuo Fung [SGP]</td>&#10;    <td> 30</td>&#10;    <td>vs.</td>&#10;    <td>Siew, Han Liang [MYS]</td>&#10;    <td> 30</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 12</td>&#10;    <td>Nuanmanee, Kritsanapho [THA]</td>&#10;    <td> 30</td>&#10;    <td>vs.</td>&#10;    <td>Lim, Fang Zhen Joseph [SGP]</td>&#10;    <td> 30</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 13</td>&#10;    <td>Xin, Yin [CHN]</td>&#10;    <td> 30</td>&#10;    <td>vs.</td>&#10;    <td>Imai, Ayato [JPN]</td>&#10;    <td> 30</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 14</td>&#10;    <td>Quinto, Julius Caesar [PHL]</td>&#10;    <td> 30</td>&#10;    <td>vs.</td>&#10;    <td>Tay, Jun Hao [SGP]</td>&#10;    <td> 30</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 15</td>&#10;    <td>Keng, Wei Yang [SGP]</td>&#10;    <td> 30</td>&#10;    <td>vs.</td>&#10;    <td>Zhang, Meng Qiu [HKG]</td>&#10;    <td> 29</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 16</td>&#10;    <td>Kositaporn, Nonthakorn [THA]</td>&#10;    <td> 28</td>&#10;    <td>vs.</td>&#10;    <td>Nooryaldie, Renee [IDN]</td>&#10;    <td> 28</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 17</td>&#10;    <td>Chew, Kelvin [SGP]</td>&#10;    <td> 28</td>&#10;    <td>vs.</td>&#10;    <td>Santiago, Rainier Aubr [PHL]</td>&#10;    <td> 28</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 18</td>&#10;    <td>Camangon, Gerald C [PHL]</td>&#10;    <td> 28</td>&#10;    <td>vs.</td>&#10;    <td>Villanueva, John Franc [PHL]</td>&#10;    <td> 28</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 19</td>&#10;    <td>du, xue tong [CHN]</td>&#10;    <td> 28</td>&#10;    <td>vs.</td>&#10;    <td>Nam, Sung-wook [KOR]</td>&#10;    <td> 28</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 20</td>&#10;    <td>Salim, Wijaya Putra [MYS]</td>&#10;    <td> 27</td>&#10;    <td>vs.</td>&#10;    <td>Lai, Daniel [MYS]</td>&#10;    <td> 27</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 21</td>&#10;    <td>Endou, Ryouta [JPN]</td>&#10;    <td> 27</td>&#10;    <td>vs.</td>&#10;    <td>Ong, Chong Soon Simon [SGP]</td>&#10;    <td> 27</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 22</td>&#10;    <td>da, feng [CHN]</td>&#10;    <td> 27</td>&#10;    <td>vs.</td>&#10;    <td>Bayrante, Albert R [PHL]</td>&#10;    <td> 27</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 23</td>&#10;    <td>Chan, Alvin [MYS]</td>&#10;    <td> 27</td>&#10;    <td>vs.</td>&#10;    <td>Wong, Hudson [SGP]</td>&#10;    <td> 27</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 24</td>&#10;    <td>Jackway, Robert S [AUS]</td>&#10;    <td> 27</td>&#10;    <td>vs.</td>&#10;    <td>Lim Jia Tsen, Daryl [MYS]</td>&#10;    <td> 27</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 25</td>&#10;    <td>Kim, Cynic [KOR]</td>&#10;    <td> 27</td>&#10;    <td>vs.</td>&#10;    <td>Supapipat, Nuttawin [THA]</td>&#10;    <td> 27</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 26</td>&#10;    <td>Brumby, Gene [NZL]</td>&#10;    <td> 27</td>&#10;    <td>vs.</td>&#10;    <td>Toh, Michael [MYS]</td>&#10;    <td> 27</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 27</td>&#10;    <td>Tan, Wei Siong [SGP]</td>&#10;    <td> 27</td>&#10;    <td>vs.</td>&#10;    <td>Shu, Peter [TWN]</td>&#10;    <td> 27</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 28</td>&#10;    <td>Ong, Boon Kiat [MYS]</td>&#10;    <td> 27</td>&#10;    <td>vs.</td>&#10;    <td>Asiong, Rommel O [PHL]</td>&#10;    <td> 27</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 29</td>&#10;    <td>Popitukgul, Suttipong [THA]</td>&#10;    <td> 27</td>&#10;    <td>vs.</td>&#10;    <td>Lv, Jiachong [CHN]</td>&#10;    <td> 27</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 30</td>&#10;    <td>Nitta, Yuuki [JPN]</td>&#10;    <td> 25</td>&#10;    <td>vs.</td>&#10;    <td>Hiew, Chee Choong [MYS]</td>&#10;    <td> 25</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 31</td>&#10;    <td>Chia, Bing Hong [SGP]</td>&#10;    <td> 25</td>&#10;    <td>vs.</td>&#10;    <td>Chen, Liang [TWN]</td>&#10;    <td> 25</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 32</td>&#10;    <td>Lee, Rick Hup Beng [MYS]</td>&#10;    <td> 25</td>&#10;    <td>vs.</td>&#10;    <td>zhuang, che [CHN]</td>&#10;    <td> 24</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 33</td>&#10;    <td>Yan, Tao [CHN]</td>&#10;    <td> 24</td>&#10;    <td>vs.</td>&#10;    <td>Chiu, Jing Shen Andrew [MYS]</td>&#10;    <td> 24</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 34</td>&#10;    <td>Xu, Shi Wei [CHN]</td>&#10;    <td> 24</td>&#10;    <td>vs.</td>&#10;    <td>Loh, Ryan [SGP]</td>&#10;    <td> 24</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 35</td>&#10;    <td>Badaruddin, Arif [MYS]</td>&#10;    <td> 24</td>&#10;    <td>vs.</td>&#10;    <td>Wiriyaampon, Kampanart [THA]</td>&#10;    <td> 24</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 36</td>&#10;    <td>Soh, Joe [MYS]</td>&#10;    <td> 24</td>&#10;    <td>vs.</td>&#10;    <td>Fung, Ngan [HKG]</td>&#10;    <td> 24</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 37</td>&#10;    <td>Badlon, Richard A [PHL]</td>&#10;    <td> 24</td>&#10;    <td>vs.</td>&#10;    <td>Ng, Robin [SGP]</td>&#10;    <td> 24</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 38</td>&#10;    <td>Jackson, Paul A [AUS]</td>&#10;    <td> 24</td>&#10;    <td>vs.</td>&#10;    <td>Affandy, Muhammad [MYS]</td>&#10;    <td> 24</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 39</td>&#10;    <td>Mastilero, Oliver G [PHL]</td>&#10;    <td> 22</td>&#10;    <td>vs.</td>&#10;    <td>Soh, Kee Choon [MYS]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 40</td>&#10;    <td>Lim, Teng Chek [SGP]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Gan, Kian Keat Gary [MYS]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;</tbody></table>

@@ -1,0 +1,63 @@
+---
+id: sb93nvwq
+kind: event
+lang: en
+path: /en/events/2011/gbnat11/2011-great-britain-national-championship-round-1-results
+title: 2011 Great Britain National Championship - Round 1 Results
+published: '2011-08-19'
+column_slug: null
+column: null
+authors: []
+event_code: gbnat11
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/2011-great-britain-national-championship-round-1-results-2011-08-19
+    lang_detected: en
+    capture_id: 329869
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/2011-great-britain-national-championship-round-1-results-2011-08-19
+    captured_at: '2022-01-23 17:38:16+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/2011-great-britain-national-championship-round-1-results-2011-08-19
+    lang_detected: en
+    capture_id: 329869
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/2011-great-britain-national-championship-round-1-results-2011-08-19
+    captured_at: '2022-01-23 17:38:16+00'
+    rule: drupal.posted_in_date
+  event_code:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gbnat11/res1
+    lang_detected: en
+    capture_id: 397556
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gbnat11/res1
+    captured_at: '2013-07-02 17:47:45+00'
+    rule: url.event_code
+sources:
+- document_id: sb93nvwq
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/2011-great-britain-national-championship-round-1-results-2011-08-19
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/2011-great-britain-national-championship-round-1-results-2011-08-19
+  lang: en
+  template: drupal
+  captured_at: '2022-01-23 17:38:16+00'
+  capture_id: 329869
+  wayback_url: https://web.archive.org/web/20220123173816id_/https://magic.wizards.com/en/articles/archive/event-coverage/2011-great-britain-national-championship-round-1-results-2011-08-19
+- document_id: sb93nvwq
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gbnat11/res1
+  page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gbnat11/res1
+  lang: en
+  template: aspx
+  captured_at: '2013-07-02 17:47:45+00'
+  capture_id: 397556
+  wayback_url: https://web.archive.org/web/20130702174745id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gbnat11/res1
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: sb93nvwq
+  capture_id: 329869
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/2011-great-britain-national-championship-round-1-results-2011-08-19
+  wayback_url: https://web.archive.org/web/20220123173816id_/https://magic.wizards.com/en/articles/archive/event-coverage/2011-great-britain-national-championship-round-1-results-2011-08-19
+  captured_at: '2022-01-23 17:38:16+00'
+  template: drupal
+  sha256: 45d4bb749acd4946e8b4c0f0a1b84078af3e3c1a093ded9ff18b24178b44bd99
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Result</b></td><td><b>&#10;						</b></td><td><b>Opponent</b></td></tr><tr><td> 1</td><td>Maxwell, Michael</td><td>Lost 0-2</td><td>vs.</td><td>Silcock, Ross</td></tr><tr><td> 2</td><td>Mackie, Louis</td><td>Lost 1-2</td><td>vs.</td><td>SAUCET, SIMON</td></tr><tr><td> 3</td><td>Hughes, Edward</td><td>Won 2-1</td><td>vs.</td><td>Marlow, Jim</td></tr><tr><td> 4</td><td>Duignan, Thomas M</td><td>Won 2-0</td><td>vs.</td><td>Biltcliffe, Adam</td></tr><tr><td> 5</td><td>Dawes, Laura M</td><td>Won 2-0</td><td>vs.</td><td>Jackson, Joseph H</td></tr><tr><td> 6</td><td>Fraser, Adrian</td><td>Lost 0-2</td><td>vs.</td><td>Slowinski, Lukasz</td></tr><tr><td> 7</td><td>Ross, Edward J</td><td>Lost 0-2</td><td>vs.</td><td>Corwood, James</td></tr><tr><td> 8</td><td>Parker, Michael</td><td>Won 2-1</td><td>vs.</td><td>Bales, Cyrus R</td></tr><tr><td> 9</td><td>Johnson, Matthew</td><td>Won 2-0</td><td>vs.</td><td>Keen, Jason K</td></tr><tr><td> 10</td><td>Black, Dylan</td><td>Won 2-1</td><td>vs.</td><td>Foster, Joe M</td></tr><tr><td> 11</td><td>Savage, Jason P</td><td>Won 2-0</td><td>vs.</td><td>Jemmett, John</td></tr><tr><td> 12</td><td>Biddle, Mark A</td><td>Lost 0-2</td><td>vs.</td><td>Goldsworthy, Glenn</td></tr><tr><td> 13</td><td>Lip, Quinton</td><td>Won 2-1</td><td>vs.</td><td>Vincent, Chris</td></tr><tr><td> 14</td><td>Marsh, Tom</td><td>Won 2-0</td><td>vs.</td><td>Connolly, Bryan</td></tr><tr><td> 15</td><td>Choca, Joao M</td><td>Lost 1-2</td><td>vs.</td><td>Scoones, Ben</td></tr><tr><td> 16</td><td>Ball, Nick</td><td>Won 2-1</td><td>vs.</td><td>Lafferty, Ben P</td></tr><tr><td> 17</td><td>Grover, Charlie</td><td>Lost 0-2</td><td>vs.</td><td>Light, Matt</td></tr><tr><td> 18</td><td>Sajgalik, Eduardo</td><td>Won 2-0</td><td>vs.</td><td>Marsden, Alex</td></tr><tr><td> 19</td><td>HEATH, BEN</td><td>Won 2-0</td><td>vs.</td><td>Foster, James</td></tr><tr><td> 20</td><td>Harborne, Daniel J</td><td>Won 2-1</td><td>vs.</td><td>Sincock, Daniel</td></tr><tr><td> 21</td><td>Turner, Simon L</td><td>Lost 1-2</td><td>vs.</td><td>Scarr, Owen</td></tr><tr><td> 22</td><td>Coates, Richard S</td><td>Won 2-0</td><td>vs.</td><td>James, Russell A</td></tr><tr><td> 23</td><td>Greene, Mark</td><td>Lost 1-2</td><td>vs.</td><td>Kyriazis, Ioannis K</td></tr><tr><td> 24</td><td>John, Chris</td><td>Won 2-0</td><td>vs.</td><td>Dunn, Christian Z</td></tr><tr><td> 25</td><td>Clapton, Chris J</td><td>Lost 1-2</td><td>vs.</td><td>Lee, Wenjie</td></tr><tr><td> 26</td><td>Theobald, Mark C</td><td>Won 2-1</td><td>vs.</td><td>Orsini Jones, Marco</td></tr><tr><td> 27</td><td>Thanangadan, James P</td><td>Won 2-0</td><td>vs.</td><td>Allingham, James</td></tr><tr><td> 28</td><td>Taylor, Nicholas</td><td>Won 2-1</td><td>vs.</td><td>barclay, bradley</td></tr><tr><td> 29</td><td>Gwynne, Matthew</td><td>Won 2-0</td><td>vs.</td><td>Roebuck, Alex N</td></tr><tr><td> 30</td><td>Mitchell-Burns, Jack</td><td>Won 2-0</td><td>vs.</td><td>Chilcott, James</td></tr><tr><td> 31</td><td>Hensley, Carl D</td><td>Lost 0-2</td><td>vs.</td><td>Rodway, Joe J</td></tr><tr><td> 32</td><td>Flannigan, Dominic</td><td>Lost 1-2</td><td>vs.</td><td>Royde, Daniel</td></tr><tr><td> 33</td><td>Bland, Richard J</td><td>Lost 1-2</td><td>vs.</td><td>Bains, Steve</td></tr><tr><td> 34</td><td>Riley, Mark</td><td>Lost 0-2</td><td>vs.</td><td>McLeod, Lewis</td></tr><tr><td> 35</td><td>Copping, Aaron</td><td>Lost 0-2</td><td>vs.</td><td>Keenan, Stephen</td></tr><tr><td> 36</td><td>Richardson, Thom</td><td>Lost 1-2</td><td>vs.</td><td>Fletcher, Joe</td></tr><tr><td> 37</td><td>Watkins-Field, John-James</td><td>Won 2-0</td><td>vs.</td><td>Mills, James R</td></tr><tr><td> 38</td><td>Graziano, Nicolo</td><td>Won 2-1</td><td>vs.</td><td>McKeegan, Craig</td></tr><tr><td> 39</td><td>Behean, Tom</td><td>Lost 0-2</td><td>vs.</td><td>biddle, aaron</td></tr><tr><td> 40</td><td>Edwards, Andrew</td><td>Lost 0-2</td><td>vs.</td><td>Barnes, Matt J</td></tr><tr><td> 41</td><td>Mottram, Peter J</td><td>Won 2-0</td><td>vs.</td><td>Roberts, John</td></tr><tr><td> 42</td><td>Eyre, Steven</td><td>Won 2-1</td><td>vs.</td><td>Fairweather, Dave</td></tr><tr><td> 43</td><td>Samra, Baljeet</td><td>Won 2-0</td><td>vs.</td><td>Samra, MANVEER S</td></tr><tr><td> 44</td><td>Yates, Nathan</td><td>Won 2-1</td><td>vs.</td><td>Wilson, Ed c</td></tr><tr><td> 45</td><td>Goode, James M</td><td>Lost 0-2</td><td>vs.</td><td>Batten, Max S</td></tr><tr><td> 46</td><td>KENNERLEY, GRAEME</td><td>Won 2-0</td><td>vs.</td><td>Beaver, Paul</td></tr><tr><td> 47</td><td>Brown, MIKEY D</td><td>Lost 0-2</td><td>vs.</td><td>Penton*, Dominic</td></tr><tr><td> 48</td><td>Rouse, Andrew T</td><td>Won 2-0</td><td>vs.</td><td>Orsini Jones, Matteo</td></tr><tr><td> 49</td><td>Kettle, Jack</td><td>Won 2-1</td><td>vs.</td><td>Blake, Kevin</td></tr><tr><td> 50</td><td>Randle, Jonathan</td><td>Won 2-0</td><td>vs.</td><td>Hiscutt, Dan W</td></tr><tr><td> 51</td><td>Voisey, Mark</td><td>Won 2-1</td><td>vs.</td><td>Tinsley, Robert</td></tr><tr><td> 52</td><td>Purslow, Lee M</td><td>Won 2-1</td><td>vs.</td><td>Hodgson, Paul</td></tr><tr><td> 53</td><td>Lim, Timothy</td><td>Won 2-1</td><td>vs.</td><td>lambourne, jack</td></tr><tr><td> 54</td><td>Appleyard, Rob</td><td>Won 2-0</td><td>vs.</td><td>Barnett, Adam M</td></tr><tr><td> 55</td><td>Gardner, Daniel</td><td>Lost 0-2</td><td>vs.</td><td>Jenkins, Ross</td></tr><tr><td> 56</td><td>Murray, Stephen A</td><td>Won 2-0</td><td>vs.</td><td>Simmonds, Cameron</td></tr><tr><td> 57</td><td>Nonis, Paul</td><td>Won 2-0</td><td>vs.</td><td>Pirouet, Ian T</td></tr><tr><td> 58</td><td>Southcott, Guy</td><td>Won 2-1</td><td>vs.</td><td>Mcintyre, Graeme f</td></tr><tr><td> 59</td><td>Setsompop, Mingrerk</td><td>Drew 1-1-1</td><td>vs.</td><td>Hagan, Jonathan</td></tr><tr><td> 60</td><td>Bullough, James E</td><td>Lost 0-2</td><td>vs.</td><td>Norris, Pete</td></tr><tr><td> 61</td><td>macpherson, scott g</td><td>Won 2-1</td><td>vs.</td><td>Ravenshear, Stuart</td></tr><tr><td> 62</td><td>Atherton, Carl</td><td>Won 2-1</td><td>vs.</td><td>Rickell, Mark D</td></tr><tr><td> 63</td><td>Harris, Paul D</td><td>Lost 0-2</td><td>vs.</td><td>Cornell, Keith N</td></tr><tr><td> 64</td><td>Gower, Paul J</td><td>Won 2-0</td><td>vs.</td><td>Smyth, Rob</td></tr><tr><td> 65</td><td>quarmby, mark a</td><td>Lost 0-2</td><td>vs.</td><td>Greenwood, David M</td></tr><tr><td> 66</td><td>Adams, Graeme</td><td>Lost 1-2</td><td>vs.</td><td>Catton, Rob</td></tr><tr><td> 67</td><td>Atrill, Ian R</td><td>Lost 1-2</td><td>vs.</td><td>McHugh, Adam</td></tr><tr><td> 68</td><td>Dunn, William R</td><td>Won 2-1</td><td>vs.</td><td>Doropoulos, Marios-Isidoros</td></tr><tr><td> 69</td><td>Trindall, Matthew</td><td>Lost 0-2</td><td>vs.</td><td>Lailey, Mark J</td></tr><tr><td> 70</td><td>Fisher, Matthew K</td><td>Won 2-0</td><td>vs.</td><td>Hauchard, Francois</td></tr><tr><td> 71</td><td>Parker, Sebastian</td><td>Lost 0-2</td><td>vs.</td><td>Aylett, Mark</td></tr><tr><td> 72</td><td>Wright, Kyle</td><td>Lost 0-2</td><td>vs.</td><td>Hannah, Jamie</td></tr><tr><td> 73</td><td>Masetti, Nick</td><td>Lost 0-2</td><td>vs.</td><td>Brown, Gareth S</td></tr><tr><td> 74</td><td>Devine, Andrew</td><td>Lost 1-2</td><td>vs.</td><td>Quinn, Andrew J</td></tr><tr><td> 75</td><td>Dingler, Martin</td><td>Won 2-1</td><td>vs.</td><td>Debenham, Owen M</td></tr><tr><td> 76</td><td>Reeve, Thomas D</td><td>Won 2-1</td><td>vs.</td><td>Hyde, Rik</td></tr><tr><td> 77</td><td>Knight, Mark</td><td>Won 2-0</td><td>vs.</td><td>Sylvester, Martin R</td></tr><tr><td> 78</td><td>Bevan, David J</td><td>Won 2-0</td><td>vs.</td><td>Mitchell, Scott</td></tr><tr><td> 79</td><td>Gamble, Ben</td><td>Lost 0-2</td><td>vs.</td><td>Horwood, Barry D</td></tr><tr><td> 80</td><td>Henshaw, Christopher j</td><td>Won 2-1</td><td>vs.</td><td>Hogg, Chris</td></tr><tr><td> 81</td><td>Russell, Jason P</td><td>Won 2-0</td><td>vs.</td><td>Griffiths, Mark W</td></tr><tr><td> 82</td><td>Martin, Quentin</td><td>Won 2-1</td><td>vs.</td><td>Rickarby, Thomas</td></tr><tr><td> 83</td><td>Pinder, Tim P</td><td>Won 2-0</td><td>vs.</td><td>Tompsett, Paul P</td></tr><tr><td> 84</td><td>Green, Ken H</td><td>Won 2-0</td><td>vs.</td><td>Merritt, Daniel</td></tr><tr><td> 85</td><td>Jiang, Shuo</td><td>Lost 0-2</td><td>vs.</td><td>Parker, Matt R</td></tr><tr><td> 86</td><td>Cleak, James</td><td>Won 2-1</td><td>vs.</td><td>Doropoulos, Nick</td></tr><tr><td> 87</td><td>Oliver, Carrie H</td><td>Won 2-0</td><td>vs.</td><td>Burden, Christopher A</td></tr><tr><td> 88</td><td>Cullyer, Andy</td><td>Lost 0-2</td><td>vs.</td><td>Bateman, Patrick F</td></tr><tr><td> 89</td><td>Smith, Richard T</td><td>Lost 0-2</td><td>vs.</td><td>Hazlehurst, Tim S</td></tr><tr><td> 90</td><td>Alexander, Jon</td><td>Won 2-1</td><td>vs.</td><td>Wright, Stuart D</td></tr><tr><td> 91</td><td>Sanders, Benjamin M</td><td>Won 2-1</td><td>vs.</td><td>Silver Ford, Graham A</td></tr><tr><td> 92</td><td>Buchanan, Andrew G</td><td>Won 2-1</td><td>vs.</td><td>Cox, Simon</td></tr><tr><td>&#10;					</td><td>Young, Paul</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr></tbody></table>

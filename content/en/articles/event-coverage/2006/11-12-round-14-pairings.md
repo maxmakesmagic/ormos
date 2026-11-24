@@ -1,0 +1,47 @@
+---
+id: kcxwb33m
+kind: event
+lang: en
+path: /en/articles/event-coverage/2006/11-12-round-14-pairings
+title: Round 14 Pairings
+published: '2006-11-12'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-14-pairings-2006-11-12
+    lang_detected: en
+    capture_id: 508848
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-14-pairings-2006-11-12
+    captured_at: '2017-10-29 21:24:44+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-14-pairings-2006-11-12
+    lang_detected: en
+    capture_id: 508848
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-14-pairings-2006-11-12
+    captured_at: '2017-10-29 21:24:44+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: kcxwb33m
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-14-pairings-2006-11-12
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/round-14-pairings-2006-11-12
+  lang: en
+  template: drupal
+  captured_at: '2017-10-29 21:24:44+00'
+  capture_id: 508848
+  wayback_url: https://web.archive.org/web/20171029212444id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-14-pairings-2006-11-12
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: kcxwb33m
+  capture_id: 508848
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-14-pairings-2006-11-12
+  wayback_url: https://web.archive.org/web/20171029212444id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-14-pairings-2006-11-12
+  captured_at: '2017-10-29 21:24:44+00'
+  template: drupal
+  sha256: 64a1f0b19550d65d5485f2b9d2908f03f58071ae8dbb7bca9c3857c55108e434
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Points</b></td><td><b>&#10;						</b></td><td><b>Opponent</b></td><td><b>Points</b></td></tr><tr><td> 33</td><td>Thompson, Gerry W [USA]</td><td> 36</td><td>vs.</td><td>Pelcak, John T [USA]</td><td> 36</td></tr><tr><td> 17</td><td>Hoaen, Richard G [CAN]</td><td> 36</td><td>vs.</td><td>Lippincott, Don F [USA]</td><td> 34</td></tr><tr><td> 34</td><td>Wafo-tapa, Guillaume [FRA]</td><td> 33</td><td>vs.</td><td>Cardin, Guillaume [CAN]</td><td> 33</td></tr><tr><td> 48</td><td>Stokinger, Andrew T [USA]</td><td> 33</td><td>vs.</td><td>Moskovich, Valentin V [USA]</td><td> 33</td></tr><tr><td> 3</td><td>Dyke, Jim R [USA]</td><td> 33</td><td>vs.</td><td>McKenna, Timothy J [USA]</td><td> 33</td></tr><tr><td> 2</td><td>Warmenhoven, Ruud [NLD]</td><td> 33</td><td>vs.</td><td>Yasooka, Shouta [JPN]</td><td> 33</td></tr><tr><td> 35</td><td>Sandler, Josh [USA]</td><td> 33</td><td>vs.</td><td>Aten, Timothy J [USA]</td><td> 31</td></tr><tr><td> 20</td><td>Jordan, Paul [USA]</td><td> 31</td><td>vs.</td><td>Conway, Douglas R [USA]</td><td> 30</td></tr><tr><td> 51</td><td>Imperiale, Jason [USA]</td><td> 31</td><td>vs.</td><td>Wiegersma, Jelger [NLD]</td><td> 31</td></tr><tr><td> 18</td><td>Herberholz, Mark D [USA]</td><td> 30</td><td>vs.</td><td>Wolansky, Steven J [USA]</td><td> 30</td></tr><tr><td> 8</td><td>Sondike, Daniel [USA]</td><td> 30</td><td>vs.</td><td>Freedman, Jerry [USA]</td><td> 30</td></tr><tr><td> 5</td><td>Perez, Bastien [FRA]</td><td> 30</td><td>vs.</td><td>Hustad, James a [USA]</td><td> 30</td></tr><tr><td> 24</td><td>Shapiro, Yakov M [USA]</td><td> 30</td><td>vs.</td><td>Powelson, Jeff R [USA]</td><td> 28</td></tr><tr><td> 38</td><td>Chambers, Adam J [USA]</td><td> 30</td><td>vs.</td><td>Schwartz, Greg C [USA]</td><td> 30</td></tr><tr><td> 23</td><td>David-Marshall, Brian [USA]</td><td> 30</td><td>vs.</td><td>Manning, Christopher B [USA]</td><td> 30</td></tr><tr><td> 19</td><td>King, Stephen N [USA]</td><td> 30</td><td>vs.</td><td>Pryplesh, Jon m [USA]</td><td> 30</td></tr><tr><td> 22</td><td>Tormos, Ervin [USA]</td><td> 30</td><td>vs.</td><td>Fennell, Chris A [USA]</td><td> 30</td></tr><tr><td> 1</td><td>Coimbra, André [PRT]</td><td> 30</td><td>vs.</td><td>Vienneau, Matthew [CAN]</td><td> 30</td></tr><tr><td> 49</td><td>Manfield, Seth [USA]</td><td> 30</td><td>vs.</td><td>Watts, Lawrence P [USA]</td><td> 30</td></tr><tr><td> 52</td><td>Da Costa Cabral, Berna [BEL]</td><td> 30</td><td>vs.</td><td>Krempels, Craig C [USA]</td><td> 30</td></tr><tr><td> 54</td><td>Frangiosa, Richie A [USA]</td><td> 30</td><td>vs.</td><td>Donnelly, Thomas [USA]</td><td> 30</td></tr><tr><td> 50</td><td>Daoust, Guillaume [CAN]</td><td> 30</td><td>vs.</td><td>Kramer, Daniel [CAN]</td><td> 30</td></tr><tr><td> 56</td><td>Sprowls, Brandon A [USA]</td><td> 28</td><td>vs.</td><td>Phelan, John-Paul [USA]</td><td> 28</td></tr><tr><td> 26</td><td>Spring, Ryan [USA]</td><td> 28</td><td>vs.</td><td>Jacks, Eric [USA]</td><td> 28</td></tr><tr><td> 40</td><td>Navickas, Justin D [USA]</td><td> 28</td><td>vs.</td><td>fuentes, Calosso L [USA]</td><td> 27</td></tr><tr><td> 10</td><td>Glavin, Lucas [USA]</td><td> 28</td><td>vs.</td><td>Nuijten, Julien P [NLD]</td><td> 27</td></tr><tr><td> 36</td><td>Cormier, Francis [CAN]</td><td> 28</td><td>vs.</td><td>Lachmann, Chris D [USA]</td><td> 28</td></tr><tr><td> 41</td><td>Beasley, Orrin A [USA]</td><td> 28</td><td>vs.</td><td>Seck, Ben [AUS]</td><td> 28</td></tr><tr><td> 4</td><td>Martell, Tom [USA]</td><td> 28</td><td>vs.</td><td>Thoren, Erik [USA]</td><td> 28</td></tr><tr><td> 11</td><td>Chan, Tiago [PRT]</td><td> 27</td><td>vs.</td><td>Kolos, John C [USA]</td><td> 27</td></tr><tr><td> 55</td><td>wolff, zack J [USA]</td><td> 27</td><td>vs.</td><td>Szolopiak, James [CAN]</td><td> 26</td></tr><tr><td> 12</td><td>McDaniel, Chris T [USA]</td><td> 27</td><td>vs.</td><td>Lund, Martin D [USA]</td><td> 27</td></tr><tr><td> 21</td><td>Moore, John E [USA]</td><td> 27</td><td>vs.</td><td>De Rosa, Antonino [USA]</td><td> 27</td></tr><tr><td> 53</td><td>Jolin, Gregory [USA]</td><td> 27</td><td>vs.</td><td>Pikula, Chris P [USA]</td><td> 27</td></tr><tr><td> 13</td><td>Cortez, Micheal [USA]</td><td> 27</td><td>vs.</td><td>Merwin, Jason w [USA]</td><td> 27</td></tr><tr><td> 7</td><td>Kunkel, Jeremy [CAN]</td><td> 27</td><td>vs.</td><td>Neary, Nicholas J [CAN]</td><td> 27</td></tr><tr><td> 39</td><td>Morcate, Justin C [USA]</td><td> 27</td><td>vs.</td><td>Dougherty, Robert R [USA]</td><td> 27</td></tr><tr><td> 45</td><td>Berger, Eric [USA]</td><td> 27</td><td>vs.</td><td>DiTizio, Nick M [USA]</td><td> 27</td></tr><tr><td> 28</td><td>Ashman, Benji A [USA]</td><td> 27</td><td>vs.</td><td>Trepanier, Ryan J [CAN]</td><td> 27</td></tr><tr><td> 37</td><td>Garnelis, Kyle M [USA]</td><td> 27</td><td>vs.</td><td>Hall, Zack C [USA]</td><td> 27</td></tr><tr><td> 43</td><td>Doshi, Vishu P [USA]</td><td> 27</td><td>vs.</td><td>Martel, Jason [USA]</td><td> 27</td></tr><tr><td> 6</td><td>Shiels, David [USA]</td><td> 27</td><td>vs.</td><td>Sullivan, Patrick B [USA]</td><td> 27</td></tr><tr><td> 25</td><td>Faber, Shaun M [USA]</td><td> 26</td><td>vs.</td><td>Martin, Quentin [ENG]</td><td> 25</td></tr><tr><td> 42</td><td>Sharkey Jr, James B [USA]</td><td> 25</td><td>vs.</td><td>Denholm, Derek R [CAN]</td><td> 25</td></tr><tr><td> 30</td><td>Oresick, Eric [USA]</td><td> 25</td><td>vs.</td><td>Canali, Pierre [FRA]</td><td> 25</td></tr><tr><td> 9</td><td>Spotts, Steven V [USA]</td><td> 25</td><td>vs.</td><td>Buckingham, James R [USA]</td><td> 25</td></tr><tr><td> 14</td><td>Saitou, Tomoharu [JPN]</td><td> 25</td><td>vs.</td><td>Cowley, Bruce C [USA]</td><td> 25</td></tr><tr><td> 46</td><td>smart, tom [USA]</td><td> 25</td><td>vs.</td><td>Blackman, Brett [USA]</td><td> 25</td></tr><tr><td> 57</td><td>Taylor, Joshua d [USA]</td><td> 24</td><td>vs.</td><td>Ngo, Kiet T [USA]</td><td> 24</td></tr><tr><td> 29</td><td>Farrell, Michael K [USA]</td><td> 24</td><td>vs.</td><td>durney, ryan w [USA]</td><td> 24</td></tr><tr><td> 31</td><td>Fiorillo, John M [USA]</td><td> 24</td><td>vs.</td><td>Weiss, Gregory H [SWE]</td><td> 24</td></tr><tr><td> 27</td><td>McGee, Michael [USA]</td><td> 24</td><td>vs.</td><td>Paschover, Marc [USA]</td><td> 24</td></tr><tr><td> 44</td><td>Young, Mark M [USA]</td><td> 24</td><td>vs.</td><td>Schmaltz Tziritas, Mat [CAN]</td><td> 24</td></tr><tr><td> 47</td><td>Kovinsky, Stuart [CAN]</td><td> 24</td><td>vs.</td><td>Darland, Eric [USA]</td><td> 22</td></tr><tr><td> 15</td><td>asulin, jordan [USA]</td><td> 22</td><td>vs.</td><td>Gasik, Cheston M [USA]</td><td> 22</td></tr><tr><td> 16</td><td>Gotimer, Daniel D [USA]</td><td> 22</td><td>vs.</td><td>Bohlmann, Kevin [USA]</td><td> 21</td></tr><tr><td> 32</td><td>Austin, David [USA]</td><td> 22</td><td>vs.</td><td>Fleckenstein, James R [USA]</td><td> 22</td></tr><tr><td>&#10;					</td><td>Swan, Brad P [USA]</td><td> 24</td><td>&#10;					</td><td>* BYE * Pod 12</td><td></td></tr><tr><td>&#10;					</td><td>Irvine, David W [ENG]</td><td> 22</td><td>&#10;					</td><td>* BYE * Pod 14</td><td></td></tr><tr><td>&#10;					</td><td>Poverelli, Greg S [USA]</td><td> 21</td><td>&#10;					</td><td>* BYE * Pod 16</td><td></td></tr><tr><td>&#10;					</td><td>Purn, Michael J [USA]</td><td> 24</td><td>&#10;					</td><td>* BYE * Pod 13</td><td></td></tr><tr><td>&#10;					</td><td>Olsen, Erik J [USA]</td><td> 25</td><td>&#10;					</td><td>* BYE * Pod 10</td><td></td></tr></tbody></table>

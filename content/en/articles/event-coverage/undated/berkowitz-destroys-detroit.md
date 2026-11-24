@@ -1,0 +1,1468 @@
+---
+id: je2c8v3c
+kind: event
+lang: en
+path: /en/articles/event-coverage/undated/berkowitz-destroys-detroit
+title: Berkowitz Destroys Detroit!
+published: null
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtgevent_gpdetr05_welcome
+    lang_detected: en
+    capture_id: 829316
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_gpdetr05_welcome
+    captured_at: '2009-06-04 00:08:19+00'
+    rule: aspx.article_heading
+sources:
+- document_id: je2c8v3c
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_gpdetr05_welcome
+  page_key: wizards.com/magic/magazine/article.aspx?x=mtgevent_gpdetr05_welcome
+  lang: en
+  template: aspx
+  captured_at: '2009-06-04 00:08:19+00'
+  capture_id: 829316
+  wayback_url: https://web.archive.org/web/20090604000819id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_gpdetr05_welcome
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: je2c8v3c
+  capture_id: 829316
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_gpdetr05_welcome
+  wayback_url: https://web.archive.org/web/20090604000819id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_gpdetr05_welcome
+  captured_at: '2009-06-04 00:08:19+00'
+  template: aspx
+  sha256: 7689681f3f82d70012572203c33625a2469fe5975361db12431b24743dfd35be
+render_recovery:
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Bile_Urchin')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Bile Urchin
+  occurrences: 10
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Genju_of_the_Fields')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Genju of the Fields
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Frostwielder')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Frostwielder
+  occurrences: 9
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Honden_of_Life[s_Web')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Honden of Life's Web
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Long-Forgotten_Gohei')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Long-Forgotten Gohei
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Dance_of_Shadows')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Dance of Shadows
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Devouring_Greed')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Devouring Greed
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Order_of_the_Sacred_Bell')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Order of the Sacred Bell
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Rend_Flesh')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Rend Flesh
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kami_of_the_Hunt')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kami of the Hunt
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Cage_of_Hands')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Cage of Hands
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Wrath')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Wrath
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Burr_Grafter')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Burr Grafter
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kami_of_the_Waning_Moon')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kami of the Waning Moon
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Harbinger_of_Spring')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Harbinger of Spring
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Blood_Speaker')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Blood Speaker
+  occurrences: 8
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Feral_Deceiver')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Feral Deceiver
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Skullmane_Baku')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Skullmane Baku
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Bloodthirsty_Ogre')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Bloodthirsty Ogre
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mountain')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mountain
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Swamp')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Swamp
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Brothers_Yamazaki')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Brothers Yamazaki
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Ember-Fist_Zubera')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Ember-Fist Zubera
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Frost_Ogre')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Frost Ogre
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Frostling')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Frostling
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Goblin_Cohort')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Goblin Cohort
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Hearth_Kami')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Hearth Kami
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Nezumi_Cutthroat')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Nezumi Cutthroat
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Ogre_Marauder')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Ogre Marauder
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Pain_Kami')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Pain Kami
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Ronin_Houndmaster')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Ronin Houndmaster
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Scuttling_Death')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Scuttling Death
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Toshiro_Umezawa')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Toshiro Umezawa
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Villainous_Ogre')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Villainous Ogre
+  occurrences: 12
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Wicked_Akuba')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Wicked Akuba
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('First_Volley')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - First Volley
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Pull_Under')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Pull Under
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Rend_Spirit')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Rend Spirit
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Waking_Nightmare')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Waking Nightmare
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Yamabushi[s_Flame')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Yamabushi's Flame
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Forest')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Forest
+  occurrences: 9
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Plains')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Plains
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Tendo_Ice_Bridge')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Tendo Ice Bridge
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Faithful_Squire')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Faithful Squire
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Forked-Branch_Garami')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Forked-Branch Garami
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kami_of_Ancient_Law')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kami of Ancient Law
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kashi-Tribe_Reaver')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kashi-Tribe Reaver
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kitsune_Diviner')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kitsune Diviner
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kitsune_Riftwalker')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kitsune Riftwalker
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Lantern_Kami')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Lantern Kami
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Matsu-Tribe_Decoy')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Matsu-Tribe Decoy
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Matsu-Tribe_Sniper')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Matsu-Tribe Sniper
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Nagao,_Bound_by_Honor')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Nagao, Bound by Honor
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sakura-Tribe_Elder')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sakura-Tribe Elder
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Waxmane_Baku')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Waxmane Baku
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Blessed_Breath')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Blessed Breath
+  occurrences: 8
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Hundred-Talon_Strike')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Hundred-Talon Strike
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Indomitable_Will')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Indomitable Will
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kodama[s_Might')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kodama's Might
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mending_Hands')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mending Hands
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Island')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Island
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Ashen_Monstrosity')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Ashen Monstrosity
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Battle-Mad_Ronin')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Battle-Mad Ronin
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Blademane_Baku')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Blademane Baku
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Brutal_Deceiver')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Brutal Deceiver
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Cunning_Bandit')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Cunning Bandit
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Fumiko_the_Lowblood')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Fumiko the Lowblood
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kami_of_Fire[s_Roar')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kami of Fire's Roar
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Soratami_Mirror-Guard')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Soratami Mirror-Guard
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Teller_of_Tales')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Teller of Tales
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Consuming_Vortex')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Consuming Vortex
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Genju_of_the_Falls')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Genju of the Falls
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Honden_of_Infinite_Rage')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Honden of Infinite Rage
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Petals_of_Insight')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Petals of Insight
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Phantom_Wings')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Phantom Wings
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Reach_Through_Mists')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Reach Through Mists
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Tatsumasa,_the_Dragon[s_Fang')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Tatsumasa, the Dragon's Fang
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Uncontrollable_Anger')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Uncontrollable Anger
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Dripping-Tongue_Zubera')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Dripping-Tongue Zubera
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Floating-Dream_Zubera')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Floating-Dream Zubera
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Gnarled_Mass')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Gnarled Mass
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Keiga,_the_Tide_Star')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Keiga, the Tide Star
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Ninja_of_the_Deep_Hours')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Ninja of the Deep Hours
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Orochi_Sustainer')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Orochi Sustainer
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Petalmane_Baku')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Petalmane Baku
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sachi,_Daughter_of_Seshiro')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sachi, Daughter of Seshiro
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sakura-Tribe_Springcaller')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sakura-Tribe Springcaller
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Shimmering_Glasskite')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Shimmering Glasskite
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Soratami_Cloudskater')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Soratami Cloudskater
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Soratami_Mirror-Mage')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Soratami Mirror-Mage
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Soratami_Rainshaper')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Soratami Rainshaper
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Soratami_Savant')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Soratami Savant
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Teardrop_Kami')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Teardrop Kami
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Commune_with_Nature')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Commune with Nature
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Counsel_of_the_Soratami')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Counsel of the Soratami
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Roar_of_Jukai')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Roar of Jukai
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Serpent_Skin')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Serpent Skin
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Thoughtbind')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Thoughtbind
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Child_of_Thorns')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Child of Thorns
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Skullsnatcher')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Skullsnatcher
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sosuke,_Son_of_Seshiro')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sosuke, Son of Seshiro
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Takenuma_Bleeder')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Takenuma Bleeder
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Hideous_Laughter')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Hideous Laughter
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Horobi[s_Whisper')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Horobi's Whisper
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Shuriken')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Shuriken
+  occurrences: 11
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Eiganjo_Castle')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Eiganjo Castle
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Devoted_Retainer')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Devoted Retainer
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Eight-and-a-Half-Tails')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Eight-and-a-Half-Tails
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Hundred-Talon_Kami')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Hundred-Talon Kami
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Innocence_Kami')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Innocence Kami
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Konda[s_Hatamoto')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Konda's Hatamoto
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Moonlit_Strider')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Moonlit Strider
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mothrider_Samurai')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mothrider Samurai
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Samurai_of_the_Pale_Curtain')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Samurai of the Pale Curtain
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Torrent_of_Stone')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Torrent of Stone
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Ashen-Skin_Zubera')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Ashen-Skin Zubera
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Budoka_Pupil')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Budoka Pupil
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('He_Who_Hungers')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - He Who Hungers
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Moss_Kami')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Moss Kami
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Okiba-Gang_Shinobi')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Okiba-Gang Shinobi
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Soilshaper')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Soilshaper
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Hero[s_Demise')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Hero's Demise
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kodama[s_Reach')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kodama's Reach
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sensei[s_Divining_Top')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sensei's Divining Top
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sosuke[s_Summons')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sosuke's Summons
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Swallowing_Plague')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Swallowing Plague
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Floodbringer')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Floodbringer
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mistblade_Shinobi')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mistblade Shinobi
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Nezumi_Ronin')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Nezumi Ronin
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sire_of_the_Storm')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sire of the Storm
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Soratami_Mindsweeper')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Soratami Mindsweeper
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Genju_of_the_Fens')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Genju of the Fens
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Psychic_Puppetry')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Psychic Puppetry
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kami_of_Old_Stone')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kami of Old Stone
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mystic_Restraints')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mystic Restraints
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Devouring_Rage')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Devouring Rage
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kusari-Gama')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kusari-Gama
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('The_Unspeakable')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - The Unspeakable
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Akki_Avalanchers')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Akki Avalanchers
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('No-Dachi')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - No-Dachi
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Yamabushi[s_Storm')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Yamabushi's Storm
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Ethereal_Haze')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Ethereal Haze
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Through_the_Breach')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Through the Breach
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Terashi[s_Cry')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Terashi's Cry
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Unnatural_Speed')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Unnatural Speed
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Call_to_Glory')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Call to Glory
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kumano[s_Pupils')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kumano's Pupils
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Honor-Worn_Shaku')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Honor-Worn Shaku
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Shinka,_the_Bloodsoaked_Keep')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Shinka, the Bloodsoaked Keep
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kitsune_Healer')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kitsune Healer
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Stone_Rain')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Stone Rain
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Shell_of_the_Last_Kappa')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Shell of the Last Kappa
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Honden_of_Cleansing_Fire')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Honden of Cleansing Fire
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Candles[_Glow')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Candles' Glow
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Reverse_the_Sands')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Reverse the Sands
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sokenzan_Bruiser')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sokenzan Bruiser
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Cleanfall')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Cleanfall
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Lava_Spike')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Lava Spike
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Harsh_Deceiver')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Harsh Deceiver
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Dampen_Thought')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Dampen Thought
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Pious_Kitsune')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Pious Kitsune
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Strange_Inversion')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Strange Inversion
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Field_of_Reality')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Field of Reality
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Shinka_Gatekeeper')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Shinka Gatekeeper
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kitsune_Palliator')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kitsune Palliator
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Silverstorm_Samurai')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Silverstorm Samurai
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Indebted_Samurai')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Indebted Samurai
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Baku_Altar')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Baku Altar
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Shirei,_Shizo[s_Caretaker')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Shirei, Shizo's Caretaker
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Akki_Blizzard-Herder')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Akki Blizzard-Herder
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sowing_Salt')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sowing Salt
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Ire_of_Kaminari')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Ire of Kaminari
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Uproot')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Uproot
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Psychic_Spear')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Psychic Spear
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Wear_Away')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Wear Away
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Crawling_Filth')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Crawling Filth
+  occurrences: 4
+---
+![](https://i.ormos.uk/41/73/417306c4daa938131727615aab093770e0226621ca9fb827c0b2cd277b14d5ec.jpg)
+
+Jordan Berkowitz is the Grand Prix: Detroit Champion!
+
+Pro Tour Venice Top 8 finisher Jordan Berkowitz squared off with another Pro Tour Top 8 player in the finals of this Limited Grand Prix event. With a remarkable streak of strong money finishes at the last two years of Limited Pro Tours, Rich Hoaen was the favorite coming into this very experienced Top 8 field. Rich drafted a red-white deck and cruised past Sam Gomersall and Michael Krumb before falling to Jordan and his green-black, self-described "pile" in a grueling three-game match.
+
+Jordan drubbed Osyp Lebedowicz in two fast games in the quarterfinals and proceeded to Bile Urchin Jeroen Remie out twice in the semis. Against Hoaen he split the first two before an exacting drawn-out rubber game. Rich was gaining massive amounts of life via Genju of the Fields and plinking away with Frostwielder while Jordan attempted to reach critical mass. He built a Rube Goldbergian endgame that involved Honden of Life's Web, Long-Forgotten Gohei, Dance of Shadows, Devouring Greed, and some very tricky math. 
+
+Jordan nearly skipped out on the main event to go see his beloved 76ers in playoff action against the Detroit Pistons in the NBA playoffs. Between the $2,400 cash prize and the thumping his Sixers took in Game 1, it seemed like he made the right decision.
+
+  
+  
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;    </td><td>Quarterfinals </td>&#10;    <td> </td>&#10;    <td>Semifinals </td>&#10;    <td> </td>&#10;    <td>Finals </td>&#10;    <td> </td>&#10;    <td>Champion </td>&#10;  </tr>&#10;  <tr>&#10;    <td>1</td>&#10;    <td>&#10;      Osyp Lebedowicz&#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Jordan Berkowitz, 2-0&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3"> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>8</td>&#10;    <td>&#10;      Jordan Berkowitz&#10;    </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3">&#10;      Jordan Berkowitz, 2-0&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>4</td>&#10;    <td>&#10;      Jeroen Remie&#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Jeroen Remie, 2-1&#10;    </td>&#10;    <td rowspan="5"> </td>&#10;    <td rowspan="5">&#10;      Jordan Berkowitz, 2-1&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>5</td>&#10;    <td>&#10;      William Postlethwait&#10;    </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3"> </td>&#10;  </tr>&#10;  <tr>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>2</td>&#10;    <td>&#10;      Michael Krumb&#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Michael Krumb, 2-1&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>7</td>&#10;    <td>&#10;      Patrick Sullivan&#10;    </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3">&#10;      Richard Hoaen, 2-0&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>3</td>&#10;    <td>&#10;      Richard Hoaen&#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Richard Hoaen, 2-1&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>6</td>&#10;    <td>&#10;      Sam Gomersall&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;</tbody></table>
+
+  
+  
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <b>EVENT COVERAGE</b>&#10;    </td>&#10;    <td>&#10;      <b>INFORMATION</b>&#10;      &#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <ul>&#10;        <br>&#10;        <li>&#10;          <a href="#6">Blog - 9:26 pm</a>: Finals: Richard Hoaen vs. Jordan Berkowitz <div><i>by Duncan MacGregor</i></div></li>&#10;        <li>&#10;          <a href="#5">Blog - 9:02 pm</a>: Semifinals: Jeroen Remie vs. Jordan Berkowitz <div><i>by Brian David-Marshall</i></div></li>&#10;        <li>&#10;          <a href="#4">Blog - 8:40 pm</a>: Richard Hoaen Top 8 Draft Report <div><i>by Duncan MacGregor</i></div></li>&#10;        <li>&#10;          <a href="#3">Blog - 8:26 pm</a>: The Top 8 Decklists <div><i>by Brian David-Marshall</i></div></li>&#10;        <li>&#10;          <a href="#2">Blog - 8:19 pm</a>: Quarterfinals: Osyp Lebedowicz vs. Jordan Berkowitz <div><i>by Brian David-Marshall</i></div></li>&#10;        <li>&#10;          <a href="#1">Blog - 6:45 pm</a>: The Top 8 Players <div><i>by Brian David-Marshall</i></div></li>&#10;        <hr>&#10;        <li>&#10;          <a href="/en/events/2005/gpdetr05/grand-prix-detroit-05-day-2-blog-archive">Day 2 Blog Archive</a>: Last Chance Play, Top Pros Draft, Osyp Clowns on Camera and Much More! <div><i>by Brian David-Marshall</i></div></li>&#10;        <li>&#10;          <a href="/de/events/2005/gpdetr05/grand-prix-detroit-05-round-12-pods">Round 12</a>: Pods <div><i>by Event Coverage Staff</i></div></li>&#10;        <li>&#10;          <a href="/de/events/2005/gpdetr05/grand-prix-detroit-05-round-9-pods">Round 9</a>: Pods <div><i>by Event Coverage Staff</i></div></li>&#10;        <li>&#10;          <a href="/de/events/2005/gpdetr05/grand-prix-detroit-05-day-2-player-list">Info</a>: Day 2 Player List <div><i>by Event Coverage Staff</i></div></li>&#10;        <hr>&#10;        <li>&#10;          <a href="/en/events/2005/gpdetr05/grand-prix-detroit-05-day-1-blog-archive">Day 1 Blog Archive</a>: Gadiel Szleifer Makeover, PEST Control, Artist on Site, Top Pro Play and Much More! <div><i>by Brian David-Marshall</i></div></li>&#10;        <li>&#10;          <a href="/nl/events/2005/gpdetr05/grand-prix-detroit-05-day-1-player-list">Info</a>: Day 1 Player List <div><i>by Event Coverage Staff</i></div></li>&#10;        &#10;        <li>&#10;          <a href="/en/events/2004/detroit05/grand-prix-detroit">Info</a>: Fact Sheet <div><i>by Event Coverage Staff</i></div></li>&#10;      </ul>&#10;    </td>&#10;    <td colspan="2">&#10;      &#10;      <table>&#10;        <tbody><tr>&#10;          <td> 1.  <b>Jordan Berkowitz</b></td>&#10;          <td>$2,400</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 2.  <b>Richard Hoaen</b></td>&#10;          <td>$1,700</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 3.  <b>Michael Krumb</b></td>&#10;          <td>$1,200</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 4.  <b>Jeroen Remie</b></td>&#10;          <td>$1,000</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 5.  <b>Osyp Lebedowicz</b></td>&#10;          <td>$800</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 6.  <b>William Postlethwait</b></td>&#10;          <td>$800</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 7.  <b>Sam Gomersall</b></td>&#10;          <td>$800</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 8.  <b>Patrick Sullivan</b></td>&#10;          <td>$800</td>&#10;        </tr>&#10;      </tbody></table>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <b>Pairings</b>&#10;          </td>&#10;          <td>&#10;            <b>Results</b>&#10;          </td>&#10;          <td>&#10;            <b>Standings</b>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;          </td><td>&#10;          </td><td>&#10;            <a href="/nl/events/2005/gpdetr05/grand-prix-detroit-05-final-standings">Final</a>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            <a href="/de/events/2005/gpdetr05/grand-prix-detroit-05-round-14-pairings">14</a>&#10;            <br>&#10;            <a href="/de/events/2005/gpdetr05/grand-prix-detroit-05-round-13-pairings">13</a>&#10;            <br>&#10;            <a href="/de/events/2005/gpdetr05/grand-prix-detroit-05-round-12-pairings">12</a>&#10;            <br>&#10;            <a href="/de/events/2005/gpdetr05/grand-prix-detroit-05-round-11-pairings">11</a>&#10;            <br>&#10;            <a href="/de/events/2005/gpdetr05/grand-prix-detroit-05-round-10-pairings">10</a>&#10;            <br>&#10;            <a href="/de/events/2005/gpdetr05/grand-prix-detroit-05-round-9-pairings">9</a>&#10;          </td>&#10;          <td>&#10;            <a href="/de/events/2005/gpdetr05/grand-prix-detroit-05-round-14-results">14</a>&#10;            <br>&#10;            <a href="/de/events/2005/gpdetr05/grand-prix-detroit-05-round-13-results">13</a>&#10;            <br>&#10;            <a href="/de/events/2005/gpdetr05/grand-prix-detroit-05-round-12-results">12</a>&#10;            <br>&#10;            <a href="/de/events/2005/gpdetr05/grand-prix-detroit-05-round-11-results">11</a>&#10;            <br>&#10;            <a href="/de/events/2005/gpdetr05/grand-prix-detroit-05-round-10-results">10</a>&#10;            <br>&#10;            <a href="/de/events/2005/gpdetr05/grand-prix-detroit-05-round-9-results">9</a>&#10;          </td>&#10;          <td>&#10;            <a href="/nl/events/2005/gpdetr05/grand-prix-detroit-05-round-14-standings">14</a>&#10;            <br>&#10;            <a href="/nl/events/2005/gpdetr05/grand-prix-detroit-05-round-13-standings">13</a>&#10;            <br>&#10;            <a href="/nl/events/2005/gpdetr05/grand-prix-detroit-05-round-12-standings">12</a>&#10;            <br>&#10;            <a href="/nl/events/2005/gpdetr05/grand-prix-detroit-05-round-11-standings">11</a>&#10;            <br>&#10;            <a href="/nl/events/2005/gpdetr05/grand-prix-detroit-05-round-10-standings">10</a>&#10;            <br>&#10;            <a href="/nl/events/2005/gpdetr05/grand-prix-detroit-05-round-9-standings">9</a>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            <a href="/nl/events/2005/gpdetr05/grand-prix-detroit-05-round-8-pairings">8</a>&#10;            <br>&#10;            <a href="/nl/events/2005/gpdetr05/grand-prix-detroit-05-round-7-pairings">7</a>&#10;            <br>&#10;            <a href="/nl/events/2005/gpdetr05/grand-prix-detroit-05-round-6-pairings">6</a>&#10;            <br>&#10;            <a href="/nl/events/2005/gpdetr05/grand-prix-detroit-05-round-5-pairings">5</a>&#10;            <br>&#10;            <a href="/nl/events/2005/gpdetr05/grand-prix-detroit-05-round-4-pairings">4</a>&#10;            <br>&#10;            <a href="/nl/events/2005/gpdetr05/grand-prix-detroit-05-round-3-pairings">3</a>&#10;            <br>&#10;            <a href="/nl/events/2005/gpdetr05/grand-prix-detroit-05-round-2-pairings">2</a>&#10;            <br>&#10;            <a href="/nl/events/2005/gpdetr05/grand-prix-detroit-05-round-1-pairings">1</a>&#10;          </td>&#10;          <td>&#10;            <a href="/nl/events/2005/gpdetr05/grand-prix-detroit-05-round-8-results">8</a>&#10;            <br>&#10;            <a href="/nl/events/2005/gpdetr05/grand-prix-detroit-05-round-7-results">7</a>&#10;            <br>&#10;            <a href="/nl/events/2005/gpdetr05/grand-prix-detroit-05-round-6-results">6</a>&#10;            <br>&#10;            <a href="/nl/events/2005/gpdetr05/grand-prix-detroit-05-round-5-results">5</a>&#10;            <br>&#10;            <a href="/nl/events/2005/gpdetr05/grand-prix-detroit-05-round-4-results">4</a>&#10;            <br>&#10;            <a href="/nl/events/2005/gpdetr05/grand-prix-detroit-05-round-3-results">3</a>&#10;            <br>&#10;            <a href="/nl/events/2005/gpdetr05/grand-prix-detroit-05-round-2-results">2</a>&#10;            <br>&#10;            <a href="/nl/events/2005/gpdetr05/grand-prix-detroit-05-round-1-results">1</a>&#10;          </td>&#10;          <td>&#10;            <a href="/nl/events/2005/gpdetr05/grand-prix-detroit-05-round-8-standings">8</a>&#10;            <br>&#10;            <a href="/nl/events/2005/gpdetr05/grand-prix-detroit-05-round-7-standings">7</a>&#10;            <br>&#10;            <a href="/nl/events/2005/gpdetr05/grand-prix-detroit-05-round-6-standings">6</a>&#10;            <br>&#10;            <a href="/nl/events/2005/gpdetr05/grand-prix-detroit-05-round-5-standings">5</a>&#10;            <br>&#10;            <a href="/nl/events/2005/gpdetr05/grand-prix-detroit-05-round-4-standings">4</a>&#10;            <br>&#10;            <a href="/nl/events/2005/gpdetr05/grand-prix-detroit-05-round-3-standings">3</a>&#10;            <br>&#10;            <a href="/nl/events/2005/gpdetr05/grand-prix-detroit-05-round-2-standings">2</a>&#10;            <br>&#10;            <a href="/nl/events/2005/gpdetr05/grand-prix-detroit-05-round-1-standings">1</a>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;    </td>&#10;  </tr>&#10;</tbody></table>
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <b>BLOG</b>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <br>&#10;      <a name="1">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, April 24: 6:45 pm - The Top 8 Players</b>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <div>&#10;        <table>&#10;          <tbody><tr>&#10;            <td>&#10;              <img src="https://i.ormos.uk/5a/32/5a32e5cd761baac3942b74b8e20c8dcba01e109ec0c20720209a140459fab98d.jpg">&#10;              <i>Jordan Berkowitz.</i>&#10;            </td>&#10;          </tr>&#10;        </tbody></table>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <table>&#10;          <tbody><tr>&#10;            <td>&#10;              <img src="https://i.ormos.uk/6c/b7/6cb73fa316b0acf9af079719003d96ccd659b1504a8532f89d2deca1e04ffa5e.jpg">&#10;              <i>Osyp Lebedowicz.</i>&#10;            </td>&#10;          </tr>&#10;        </tbody></table>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <table>&#10;          <tbody><tr>&#10;            <td>&#10;              <img src="https://i.ormos.uk/dd/fa/ddfa910f4963e6ff6ca1549c2f491c89f2f601402c48d6c8f8781c66ea2fbf6e.jpg">&#10;              <i>Richard Hoaen.</i>&#10;            </td>&#10;          </tr>&#10;        </tbody></table>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <table>&#10;          <tbody><tr>&#10;            <td>&#10;              <img src="https://i.ormos.uk/41/5e/415e3cd56f71c4041640294f8dbc065534f20419658e9aadd4df9077400a44f3.jpg">&#10;              <i>William Postlethwait.</i>&#10;            </td>&#10;          </tr>&#10;        </tbody></table>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <table>&#10;          <tbody><tr>&#10;            <td>&#10;              <img src="https://i.ormos.uk/ae/5d/ae5d67b0a3723efd06a3cb0f765193064fc9384851e0eaa19a5c319bde9369f9.jpg">&#10;              <i>Michael Krumb.</i>&#10;            </td>&#10;          </tr>&#10;        </tbody></table>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <table>&#10;          <tbody><tr>&#10;            <td>&#10;              <img src="https://i.ormos.uk/ec/60/ec60cfd47f6909d63e27c92795497108abaef5395fb94123394ff1552b4a8cd6.jpg">&#10;              <i>Sam Gomersall.</i>&#10;            </td>&#10;          </tr>&#10;        </tbody></table>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <table>&#10;          <tbody><tr>&#10;            <td>&#10;              <img src="https://i.ormos.uk/bf/82/bf8213f4aa25418f01e5cd1790bf76bc4b2ef0a4f9c8d45401a9b9b73a9fbb10.jpg">&#10;              <i>Jeroen Remie</i>&#10;            </td>&#10;          </tr>&#10;        </tbody></table>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <table>&#10;          <tbody><tr>&#10;            <td>&#10;              <img src="https://i.ormos.uk/a6/86/a686ba49b79df293a3a8d4301dda27244b25229cbce7de8f1e70954fc54d6f0e.jpg">&#10;              <i>Patrick Sullivan.</i>&#10;            </td>&#10;          </tr>&#10;        </tbody></table>&#10;      </div>&#10;      <br>&#10;      <br>&#10;      <a name="2">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, April 24: 8:19 pm - Quarterfinals: Osyp Lebedowicz vs. Jordan Berkowitz</b>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <p>Osyp Lebedowicz was trying to reschedule his flight as the match got underway. He had his cell phone tucked between his shoulder and ear while he awkwardly pile-shuffled his cards. It was obvious that he was trapped in automated hell.</p>&#10;      <p>&quot;Newark!&quot;</p>&#10;      <p>&quot;Today!&quot;</p>&#10;      <p>&quot;Newark!&quot;</p>&#10;      <p>Finally he gave up and clicked the phone shut in frustration. &quot;I need to reschedule and I got a robot.&quot;</p>&#10;      <p>Jordan was also dealing with phone issues as Jon Becker was calling him at the same time. Berkowitz offered a solution, &quot;If you are going to miss your flight you should just concede to me.&quot;</p>&#10;      <p>Osyp laughed, &quot;Let's just say I am not going to be happy either way.&quot;</p>&#10;      <p>The judge put out a handful of change and Osyp was able to get into his game, &quot;You are never going to see that change again. I need lots of counters for this deck and when this is over I am going to get myself a nice cold soda.&quot;</p>&#10;      <p>The judge eyed him suspiciously and arranged the coins in a stack. Osyp shook his head. &quot;Look how he puts those dimes on top. I'm going straight for the quarters.&quot;</p>&#10;      <h3>Game 1</h3>&#10;      <p>Turn-two Tribe Elder for Osyp was parlayed into <a>Order of the Sacred Bell</a> but Jordan was ready with <a>Rend Flesh</a>. Berkowitz untapped and played Sosuke. Osyp had nothing and the next turn yielded <a>Kami of the Hunt</a> for Jordan. Osyp had <a>Cage of Hands</a> on the legend after it got its beat on for one turn. </p>&#10;      <p>Jordan eyed Osyp's board with suspicion and sniffed, &quot;Green-white? You have to have a <a>Wrath</a>. Why else would you draft those colors?&quot; <a>Burr Grafter</a> powered up his Kami and he beat for three more. Osyp continued to play nothing. <a>Kami of the Waning Moon</a> allowed Jordan to attack for five and he kept harping on the idea that Osyp might be sand-bagging him with a <a>Wrath</a> effect.</p>&#10;      <p>Osyp was exasperated. &quot;Yes, I am slow rolling a <a>Wrath</a>. You're an idiot.&quot; He laid his hand full of lands on the table and rolled his eyes. </p>&#10;      <p>The exchange between the two grew a little heated as there was some history there. &quot;I'm not allowed to talk?&quot; Jordan barked. &quot;Coming from the king of never-shuts-up?&quot;</p>&#10;      <h3>Game 2</h3>&#10;      <p>Osyp looked through his sideboard and singled out <a>Harbinger of Spring</a>. &quot;I got a sweet little piece of tech for you. I picked it up a couple of rounds ago from some kid I played. If it works I am going to buy him dinner.&quot; Osyp, who is notoriously…thrifty suddenly realized that he might be overheard and looked around the room. &quot;That kid's not actually here is he?&quot;</p>&#10;      <p>Jordan was still chaffing from the exchange a moment earlier and put the needle to Osyp, &quot;You get so mad when you lose.&quot;</p>&#10;      <p>Osyp smiled, &quot;I'm not mad.&quot;</p>&#10;      <p>&quot;Every time I beat you, you call me some kind of names.&quot; </p>&#10;      <p>&quot;I was nice to you when we played before.&quot;</p>&#10;      <p>&quot;You beat me that round.&quot;</p>&#10;      <p>&quot;Oh…besides I didn't call you any names.&quot;</p>&#10;      <div>&#10;        <div>&#10;          <a>&#10;            <img alt="Devouring Greed" src="https://i.ormos.uk/d7/35/d735bd05184144482e383dc011a872cbc5626a12ff939c749f981153d5d3641d.jpg">&#10;          </a>&#10;        </div>&#10;      </div>&#10;      <p>&quot;You just called me an idiot!&quot;</p>&#10;      <p>&quot;Oh…but I didn't mean it.&quot;</p>&#10;      <p>Berkowtiz led off Game 2 with <a>Bile Urchin</a> and neither player had a turn-two play. Osyp had a Decoy but Berkowitz used <a>Rend Flesh</a> and beat for one with the Urchin. Osyp missed his fourth land drop and passed without a play. Jordan dropped <a>Blood Speaker</a>. Osyp found his missing land and summoned a <a>Feral Deceiver</a>. He chose not to block which surprised Berkowitz, who was clearly offering a trade and Osyp went to 14. <a>Skullmane Baku</a> came down after the attack.</p>&#10;      <p>Osyp cracked back with the Deceiver and played Order of Sacred Bell. There was still no blocking going on for Osyp's team and Jordan got in for three more. His team welcomed <a>Bloodthirsty Ogre</a>. Osyp attacked with both his guys. Jordan considered a block and then decided to take seven. Osyp put down Forked Branch Garami. Jordan swung back in with everyone. The score was 10 to 11 in Osyp's favor. Osyp chose to block the Bloodspeaker and fell to 6. Jordan finished him off with <a>Devouring Greed</a>. </p>&#10;      <br>&#10;      <a name="3">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, April 24: 8:26 pm - The Top 8 Decklists</b>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Patrick Sullivan&#10;              </div>&#10;              <div>GP Detroit Top 8</div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090603061659/http://www.wizards.com/magic/samplehand.asp?x=mtgevent/gpdetr05/welcome&amp;decknum=1">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td colspan="3">&#10;                  <p>Main Deck</p>&#10;                  <p>40 cards&#10;                    </p>&#10;                </td>&#10;              </tr>&#10;              <tr>&#10;                <td>9 &#10;                      <a>Mountain</a><br>9 &#10;                      <a>Swamp</a><br><hr>18 lands</td>&#10;                <td>1 &#10;                      <a>Brothers Yamazaki</a><br>1 &#10;                      <a>Ember-Fist Zubera</a><br>2 &#10;                      <a>Frost Ogre</a><br>1 &#10;                      <a>Frostling</a><br>1 &#10;                      <a>Goblin Cohort</a><br>1 &#10;                      <a>Hearth Kami</a><br>1 &#10;                      <a>Nezumi Cutthroat</a><br>1 &#10;                      <a>Ogre Marauder</a><br>1 &#10;                      <a>Pain Kami</a><br>2 &#10;                      <a>Ronin Houndmaster</a><br>1 &#10;                      <a>Scuttling Death</a><br>1 &#10;                      <a>Toshiro Umezawa</a><br>1 &#10;                      <a>Villainous Ogre</a><br>1 &#10;                      <a>Wicked Akuba</a><br><hr>16 creatures</td>&#10;                <td>1 &#10;                      <a>Dance of Shadows</a><br>1 &#10;                      <a>First Volley</a><br>1 &#10;                      <a>Pull Under</a><br>1 &#10;                      <a>Rend Spirit</a><br>1 &#10;                      <a>Waking Nightmare</a><br>1 &#10;                      <a>Yamabushi's Flame</a><br><hr>6 other spells</td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Osyp Lebedowicz&#10;              </div>&#10;              <div>GP Detroit Top 8</div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090603061700/http://www.wizards.com/magic/samplehand.asp?x=mtgevent/gpdetr05/welcome&amp;decknum=2">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td colspan="3">&#10;                  <p>Main Deck</p>&#10;                  <p>40 cards&#10;                    </p>&#10;                </td>&#10;              </tr>&#10;              <tr>&#10;                <td>8 &#10;                      <a>Forest</a><br>9 &#10;                      <a>Plains</a><br>1 &#10;                      <a>Tendo Ice Bridge</a><br><hr>18 lands</td>&#10;                <td>1 &#10;                      <a>Faithful Squire</a><br>1 &#10;                      <a>Feral Deceiver</a><br>1 &#10;                      <a>Forked-Branch Garami</a><br>1 &#10;                      <a>Kami of Ancient Law</a><br>1 &#10;                      <a>Kashi-Tribe Reaver</a><br>1 &#10;                      <a>Kitsune Diviner</a><br>1 &#10;                      <a>Kitsune Riftwalker</a><br>1 &#10;                      <a>Lantern Kami</a><br>1 &#10;                      <a>Matsu-Tribe Decoy</a><br>1 &#10;                      <a>Matsu-Tribe Sniper</a><br>1 &#10;                      <a>Nagao, Bound by Honor</a><br>2 &#10;                      <a>Order of the Sacred Bell</a><br>1 &#10;                      <a>Sakura-Tribe Elder</a><br>1 &#10;                      <a>Waxmane Baku</a><br><hr>15 creatures</td>&#10;                <td>1 &#10;                      <a>Blessed Breath</a><br>2 &#10;                      <a>Cage of Hands</a><br>1 &#10;                      <a>Hundred-Talon Strike</a><br>1 &#10;                      <a>Indomitable Will</a><br>1 &#10;                      <a>Kodama's Might</a><br>1 &#10;                      <a>Mending Hands</a><br><hr>7 other spells</td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                William Postlethwaite&#10;              </div>&#10;              <div>GP Detroit Top 8</div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090603061755/http://www.wizards.com/magic/samplehand.asp?x=mtgevent/gpdetr05/welcome&amp;decknum=3">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td colspan="3">&#10;                  <p>Main Deck</p>&#10;                  <p>40 cards&#10;                    </p>&#10;                </td>&#10;              </tr>&#10;              <tr>&#10;                <td>7 &#10;                      <a>Island</a><br>10 &#10;                      <a>Mountain</a><br><hr>17 lands</td>&#10;                <td>1 &#10;                      <a>Ashen Monstrosity</a><br>1 &#10;                      <a>Battle-Mad Ronin</a><br>1 &#10;                      <a>Blademane Baku</a><br>2 &#10;                      <a>Brutal Deceiver</a><br>1 &#10;                      <a>Cunning Bandit</a><br>1 &#10;                      <a>Frostling</a><br>1 &#10;                      <a>Fumiko the Lowblood</a><br>1 &#10;                      <a>Hearth Kami</a><br>1 &#10;                      <a>Kami of Fire's Roar</a><br>1 &#10;                      <a>Pain Kami</a><br>1 &#10;                      <a>Soratami Mirror-Guard</a><br>1 &#10;                      <a>Teller of Tales</a><br><hr>13 creatures</td>&#10;                <td>1 &#10;                      <a>Consuming Vortex</a><br>1 &#10;                      <a>First Volley</a><br>1 &#10;                      <a>Genju of the Falls</a><br>1 &#10;                      <a>Honden of Infinite Rage</a><br>1 &#10;                      <a>Petals of Insight</a><br>1 &#10;                      <a>Phantom Wings</a><br>1 &#10;                      <a>Reach Through Mists</a><br>1 &#10;                      <a>Tatsumasa, the Dragon's Fang</a><br>1 &#10;                      <a>Uncontrollable Anger</a><br>1 &#10;                      <a>Yamabushi's Flame</a><br><hr>10 other spells</td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Michael Krumb&#10;              </div>&#10;              <div>GP Detroit Top 8</div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090603061805/http://www.wizards.com/magic/samplehand.asp?x=mtgevent/gpdetr05/welcome&amp;decknum=4">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td colspan="3">&#10;                  <p>Main Deck</p>&#10;                  <p>40 cards&#10;                    </p>&#10;                </td>&#10;              </tr>&#10;              <tr>&#10;                <td>10 &#10;                      <a>Forest</a><br>7 &#10;                      <a>Island</a><br><hr>17 lands</td>&#10;                <td>1 &#10;                      <a>Dripping-Tongue Zubera</a><br>1 &#10;                      <a>Floating-Dream Zubera</a><br>2 &#10;                      <a>Gnarled Mass</a><br>1 &#10;                      <a>Kami of the Hunt</a><br>1 &#10;                      <a>Keiga, the Tide Star</a><br>1 &#10;                      <a>Ninja of the Deep Hours</a><br>1 &#10;                      <a>Orochi Sustainer</a><br>1 &#10;                      <a>Petalmane Baku</a><br>1 &#10;                      <a>Sachi, Daughter of Seshiro</a><br>1 &#10;                      <a>Sakura-Tribe Springcaller</a><br>1 &#10;                      <a>Shimmering Glasskite</a><br>1 &#10;                      <a>Soratami Cloudskater</a><br>1 &#10;                      <a>Soratami Mirror-Mage</a><br>1 &#10;                      <a>Soratami Rainshaper</a><br>1 &#10;                      <a>Soratami Savant</a><br>1 &#10;                      <a>Teardrop Kami</a><br><hr>17 creatures</td>&#10;                <td>1 &#10;                      <a>Commune with Nature</a><br>1 &#10;                      <a>Counsel of the Soratami</a><br>1 &#10;                      <a>Kodama's Might</a><br>1 &#10;                      <a>Roar of Jukai</a><br>1 &#10;                      <a>Serpent Skin</a><br>1 &#10;                      <a>Thoughtbind</a><br><hr>6 other spells</td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Jordan Berkowitz&#10;              </div>&#10;              <div>GP Detroit Top 8</div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090603061705/http://www.wizards.com/magic/samplehand.asp?x=mtgevent/gpdetr05/welcome&amp;decknum=5">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td colspan="3">&#10;                  <p>Main Deck</p>&#10;                  <p>40 cards&#10;                    </p>&#10;                </td>&#10;              </tr>&#10;              <tr>&#10;                <td>7 &#10;                      <a>Forest</a><br>9 &#10;                      <a>Swamp</a><br><hr>16 lands</td>&#10;                <td>2 &#10;                      <a>Bile Urchin</a><br>1 &#10;                      <a>Blood Speaker</a><br>1 &#10;                      <a>Bloodthirsty Ogre</a><br>1 &#10;                      <a>Burr Grafter</a><br>1 &#10;                      <a>Child of Thorns</a><br>1 &#10;                      <a>Dripping-Tongue Zubera</a><br>1 &#10;                      <a>Kami of the Hunt</a><br>2 &#10;                      <a>Kami of the Waning Moon</a><br>1 &#10;                      <a>Skullmane Baku</a><br>1 &#10;                      <a>Skullsnatcher</a><br>1 &#10;                      <a>Sosuke, Son of Seshiro</a><br>1 &#10;                      <a>Takenuma Bleeder</a><br>2 &#10;                      <a>Villainous Ogre</a><br><hr>16 creatures</td>&#10;                <td>1 &#10;                      <a>Dance of Shadows</a><br>1 &#10;                      <a>Devouring Greed</a><br>1 &#10;                      <a>Hideous Laughter</a><br>1 &#10;                      <a>Honden of Life's Web</a><br>1 &#10;                      <a>Horobi's Whisper</a><br>1 &#10;                      <a>Long-Forgotten Gohei</a><br>1 &#10;                      <a>Rend Flesh</a><br>1 &#10;                      <a>Shuriken</a><br><hr>8 other spells</td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                 Richard Hoaen&#10;              </div>&#10;              <div>GP Detroit Top 8</div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090603061730/http://www.wizards.com/magic/samplehand.asp?x=mtgevent/gpdetr05/welcome&amp;decknum=6">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td colspan="3">&#10;                  <p>Main Deck</p>&#10;                  <p>40 cards&#10;                    </p>&#10;                </td>&#10;              </tr>&#10;              <tr>&#10;                <td>1 &#10;                      <a>Eiganjo Castle</a><br>8 &#10;                      <a>Mountain</a><br>9 &#10;                      <a>Plains</a><br><hr>18 lands</td>&#10;                <td>1 &#10;                      <a>Brutal Deceiver</a><br>1 &#10;                      <a>Devoted Retainer</a><br>1 &#10;                      <a>Eight-and-a-Half-Tails</a><br>1 &#10;                      <a>Ember-Fist Zubera</a><br>1 &#10;                      <a>Frostling</a><br>2 &#10;                      <a>Frostwielder</a><br>2 &#10;                      <a>Hundred-Talon Kami</a><br>1 &#10;                      <a>Innocence Kami</a><br>1 &#10;                      <a>Kitsune Diviner</a><br>1 &#10;                      <a>Konda's Hatamoto</a><br>2 &#10;                      <a>Moonlit Strider</a><br>1 &#10;                      <a>Mothrider Samurai</a><br>1 &#10;                      <a>Samurai of the Pale Curtain</a><br>1 &#10;                      <a>Waxmane Baku</a><br><hr>17 creatures</td>&#10;                <td>1 &#10;                      <a>Blessed Breath</a><br>2 &#10;                      <a>Genju of the Fields</a><br>1 &#10;                      <a>Hundred-Talon Strike</a><br>1 &#10;                      <a>Torrent of Stone</a><br><hr>5 other spells</td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Jeroen Remie &#10;              </div>&#10;              <div>GP Detroit Top 8</div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090603061738/http://www.wizards.com/magic/samplehand.asp?x=mtgevent/gpdetr05/welcome&amp;decknum=7">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td colspan="3">&#10;                  <p>Main Deck</p>&#10;                  <p>40 cards&#10;                    </p>&#10;                </td>&#10;              </tr>&#10;              <tr>&#10;                <td>9 &#10;                      <a>Forest</a><br>8 &#10;                      <a>Swamp</a><br><hr>17 lands</td>&#10;                <td>1 &#10;                      <a>Ashen-Skin Zubera</a><br>1 &#10;                      <a>Budoka Pupil</a><br>1 &#10;                      <a>He Who Hungers</a><br>1 &#10;                      <a>Moss Kami</a><br>2 &#10;                      <a>Okiba-Gang Shinobi</a><br>2 &#10;                      <a>Order of the Sacred Bell</a><br>1 &#10;                      <a>Orochi Sustainer</a><br>1 &#10;                      <a>Sakura-Tribe Elder</a><br>1 &#10;                      <a>Sakura-Tribe Springcaller</a><br>1 &#10;                      <a>Scuttling Death</a><br>1 &#10;                      <a>Soilshaper</a><br>1 &#10;                      <a>Takenuma Bleeder</a><br><hr>14 creatures</td>&#10;                <td>1 &#10;                      <a>Commune with Nature</a><br>1 &#10;                      <a>Hero's Demise</a><br>1 &#10;                      <a>Kodama's Reach</a><br>1 &#10;                      <a>Roar of Jukai</a><br>1 &#10;                      <a>Sensei's Divining Top</a><br>1 &#10;                      <a>Serpent Skin</a><br>1 &#10;                      <a>Sosuke's Summons</a><br>1 &#10;                      <a>Swallowing Plague</a><br>1 &#10;                      <a>Waking Nightmare</a><br><hr>9 other spells</td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                 Sam Gomersall&#10;              </div>&#10;              <div>GP Detroit Top 8</div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090603061825/http://www.wizards.com/magic/samplehand.asp?x=mtgevent/gpdetr05/welcome&amp;decknum=8">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td colspan="3">&#10;                  <p>Main Deck</p>&#10;                  <p>40 cards&#10;                    </p>&#10;                </td>&#10;              </tr>&#10;              <tr>&#10;                <td>9 &#10;                      <a>Island</a><br>9 &#10;                      <a>Swamp</a><br><hr>18 lands</td>&#10;                <td>2 &#10;                      <a>Floating-Dream Zubera</a><br>1 &#10;                      <a>Floodbringer</a><br>1 &#10;                      <a>Kami of the Waning Moon</a><br>1 &#10;                      <a>Mistblade Shinobi</a><br>2 &#10;                      <a>Nezumi Cutthroat</a><br>1 &#10;                      <a>Nezumi Ronin</a><br>1 &#10;                      <a>Okiba-Gang Shinobi</a><br>1 &#10;                      <a>Shimmering Glasskite</a><br>1 &#10;                      <a>Sire of the Storm</a><br>2 &#10;                      <a>Soratami Mindsweeper</a><br>1 &#10;                      <a>Soratami Mirror-Guard</a><br>1 &#10;                      <a>Teller of Tales</a><br>1 &#10;                      <a>Villainous Ogre</a><br>1 &#10;                      <a>Wicked Akuba</a><br><hr>17 creatures</td>&#10;                <td>1 &#10;                      <a>Genju of the Fens</a><br>1 &#10;                      <a>Psychic Puppetry</a><br>1 &#10;                      <a>Pull Under</a><br>1 &#10;                      <a>Shuriken</a><br>1 &#10;                      <a>Thoughtbind</a><br><hr>5 other spells</td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <br>&#10;      <a name="4">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, April 24: 8:40 pm - Richard Hoaen Top 8 Draft Report</b>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/c3/d8/c3d8adc05dde64a991b362e9f55f5b9c044af7cca092942406942f49437b373d.jpg">&#10;            <i>Richie Hoaen gets his draft on.</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Richard Hoaen is something of a phenomenon when it comes to Limited, with high finishes at all of the recent Limited Pro Tours. Even in a Top 8 draft as powerful as this one, he stands out as the best drafter at the table. His picks are listed below in bold, with other relevant cards from the pack also listed.</p>&#10;      <p>As the draft got under way, Rich found himself nestled in between Jeroen Remie to his left, and more importantly, Jordan Berkowitz to his right. </p>&#10;      <p>&#10;        <b>&#10;          <a>Eight-and-a-Half-Tails</a>&#10;        </b>, <a>Rend Spirit</a>, <a>Kami of the Hunt</a>, <a>Kodama's Might</a>, <a>Blessed Breath</a>, <a>Scuttling Death</a>, <a>Kami of Old Stone</a></p>&#10;      <p>It's always good to start on an up-note. While this was a very spicy pack, Richard really only flipped through it so he could figure out what might come back.</p>&#10;      <p>&#10;        <b>&#10;          <a>Samurai of the Pale Curtain</a>&#10;        </b>, <a>Orochi Sustainer</a>, <a>Ronin Houndmaster</a>, <a>Consuming Vortex</a>, <a>Villainous Ogre</a>, <a>Indomitable Will</a>, <a>Hundred-Talon Kami</a></p>&#10;      <p>&#10;        <b>&#10;          <a>Frostwielder</a>&#10;        </b>, <a>Devoted Retainer</a>, <a>Mystic Restraints</a>, <a>Brothers Yamazaki</a>, <a>Kitsune Riftwalker</a></p>&#10;      <p>Richard stayed in color with another WW creature - this time one that you actually want to play on turn two - before grabbing the pinger. Unfortunately, his picks started to go downhill from here.</p>&#10;      <p>&#10;        <b>&#10;          <a>Devoted Retainer</a>&#10;        </b>, <a>Kodama's Reach</a>, <a>Devouring Rage</a>, <a>Waking Nightmare</a></p>&#10;      <p>&#10;        <b>&#10;          <a>Hundred-Talon Kami</a>&#10;        </b>, <a>Uncontrollable Anger</a>, <a>Kusari-Gama</a>, <a>Pull Under</a>, <a>Villainous Ogre</a>, <a>Order of the Sacred Bell</a></p>&#10;      <p>&#10;        <b>&#10;          <a>Kitsune Diviner</a>&#10;        </b>, <a>Sensei's Divining Top</a>, <a>The Unspeakable</a>, <a>Villainous Ogre</a>, <a>Serpent Skin</a>, <a>Akki Avalanchers</a></p>&#10;      <p>Richard saw three relatively weak packs in a row, picking up reasonable but unexciting white cards. He did spend some time on pack four looking at the <a>Kodama's Reach</a> and at the Rage, but chose to take the one-drop instead.</p>&#10;      <p>&#10;        <b>&#10;          <a>Innocence Kami</a>&#10;        </b>, <a>Blessed Breath</a>, <a>No-Dachi</a>, <a>Hearth Kami</a></p>&#10;      <p>A welcome upturn, Richard paused at the Breath but took the tapper in the end.</p>&#10;      <p>&#10;        <b>&#10;          <a>Brutal Deceiver</a>&#10;        </b>, <a>Hundred-Talon Kami</a></p>&#10;      <p>&#10;        <b>&#10;          <a>Blessed Breath</a>&#10;        </b>, <a>Kami of Old Stone</a></p>&#10;      <p>After confirming himself in white-red, Richard's first pack came back with two white cards still present. Richard gladly helped himself to the Breath.</p>&#10;      <p>&#10;        <b>&#10;          <a>Hundred-Talon Kami</a>&#10;        </b>&#10;      </p>&#10;      <p>&#10;        <b>&#10;          <a>Devoted Retainer</a>&#10;        </b>, <a>Yamabushi's Storm</a>, <a>Ethereal Haze</a></p>&#10;      <p>The only pack near the end of the draft which actually gave Richard a choice, he took a second Retainer instead of the Storm or the Haze. </p>&#10;      <p>&#10;        <b>&#10;          <a>Through the Breach</a>&#10;        </b>&#10;      </p>&#10;      <p>&#10;        <b>&#10;          <a>Kusari-Gama</a>&#10;        </b>&#10;      </p>&#10;      <p>&#10;        <b>&#10;          <a>Terashi's Cry</a>&#10;        </b>&#10;      </p>&#10;      <p>&#10;        <b>&#10;          <a>Unnatural Speed</a>&#10;        </b>&#10;      </p>&#10;      <p>Heading into the second, pack, Richard had a reasonable selection of creatures, but only a few tricks and no removal outside of the <a>Frostwielder</a>. He had some work to do if he wanted a deck that could 3-0 at this table.</p>&#10;      <p>&#10;        <b>&#10;          <a>Frostwielder</a>&#10;        </b>, <a>Pain Kami</a>, <a>Kami of Ancient Law</a>, <a>Devouring Greed</a>, <a>Eiganjo Castle</a></p>&#10;      <p>An unusual pick, Richard explained later that he likes <a>Frostwielder</a>s in white-red due to their interaction with <a>Call to Glory</a>. </p>&#10;      <p>&#10;        <b>&#10;          <a>Mothrider Samurai</a>&#10;        </b>, <a>Brutal Deceiver</a>, <a>Indomitable Will</a>, <a>Konda's Hatamoto</a>, <a>Rend Spirit</a></p>&#10;      <p>&#10;        <b>&#10;          <a>Ember-Fist Zubera</a>&#10;        </b>, <a>Kitsune Riftwalker</a>, <a>Kumano's Pupils</a>, <a>Honor-Worn Shaku</a>, <a>Shinka, the Bloodsoaked Keep</a></p>&#10;      <p>&#10;        <b>&#10;          <a>Mystic Restraints</a>&#10;        </b>, <a>Kitsune Healer</a>, <a>Stone Rain</a>, <a>Shell of the Last Kappa</a></p>&#10;      <p>Richard's draft had hit the skids at this point. While Mothrider and Ember-Fist are both fine, they are not the cards you hope to get second and third picks, especially when Richard had taken as many white cards as he had in pack one. His fourth pack barely had any playables in color at all, and he elected to counterdraft the Restraints instead.</p>&#10;      <p>&#10;        <b>&#10;          <a>Honden of Cleansing Fire</a>&#10;        </b>, <a>Lantern Kami</a>, <a>Devoted Retainer</a></p>&#10;      <p>&#10;        <b>&#10;          <a>Candles' Glow</a>&#10;        </b>, <a>Reverse the Sands</a>, <a>Kitsune Diviner</a></p>&#10;      <p>Luckily, the dearth of playables was only temporary. The Honden is always welcome in white decks, as is <a>Candles' Glow</a>. Richard did think about the powerful rare, but elected to take the more economical trick instead.</p>&#10;      <p>&#10;        <b>&#10;          <a>Sokenzan Bruiser</a>&#10;        </b>, <a>Kitsune Diviner</a>, <a>Cleanfall</a></p>&#10;      <p>&#10;        <b>&#10;          <a>Call to Glory</a>&#10;        </b>, <a>Lava Spike</a></p>&#10;      <p>The only <a>Call to Glory</a> that Richard saw the whole draft. With <a>Blessed Breath</a> and <a>Candles' Glow</a> being his only splice spells, choosing it over the Spike was a no-brainer.</p>&#10;      <p>&#10;        <b>&#10;          <a>Eiganjo Castle</a>&#10;        </b>, <a>Kitsune Healer</a></p>&#10;      <p>&#10;        <b>&#10;          <a>Konda's Hatamoto</a>&#10;        </b>&#10;      </p>&#10;      <p>&#10;        <b>&#10;          <a>Harsh Deceiver</a>&#10;        </b>, <a>Kumano's Pupils</a>, <a>Honor-Worn Shaku</a></p>&#10;      <p>&#10;        <b>&#10;          <a>Dampen Thought</a>&#10;        </b>&#10;      </p>&#10;      <p>&#10;        <b>&#10;          <a>Pious Kitsune</a>&#10;        </b>&#10;      </p>&#10;      <p>&#10;        <b>&#10;          <a>Strange Inversion</a>&#10;        </b>&#10;      </p>&#10;      <p>&#10;        <b>&#10;          <a>Field of Reality</a>&#10;        </b>&#10;      </p>&#10;      <p>There were no real surprises in the last half of the pack. Richard's deck was still not shaping up as he had hoped, though.</p>&#10;      <p>&#10;        <b>&#10;          <a>Waxmane Baku</a>&#10;        </b>, <a>Shuriken</a>, <a>Frostling</a>, <a>Okiba-Gang Shinobi</a></p>&#10;      <p>&#10;        <b>&#10;          <a>Torrent of Stone</a>&#10;        </b>, <a>Frost Ogre</a>, Kami fo Tattered Shoji, <a>Mending Hands</a></p>&#10;      <p>Betrayers started Richard back on the path to respectability as he opened the best white common in the set followed by the best red common. The Baku would be a welcome addition, even in a deck like this with a number of non-Spirit creatures, and the Torrent was Richard's first piece of real removal.</p>&#10;      <p>&#10;        <b>&#10;          <a>Moonlit Strider</a>&#10;        </b>, <a>First Volley</a>, <a>Ashen Monstrosity</a>, <a>Shinka Gatekeeper</a>, <a>Kitsune Palliator</a></p>&#10;      <p>&#10;        <b>&#10;          <a>Moonlit Strider</a>&#10;        </b>, <a>Frost Ogre</a></p>&#10;      <p>&#10;        <b>&#10;          <a>Genju of the Fields</a>&#10;        </b>, <a>Hundred-Talon Strike</a>, <a>Shinka Gatekeeper</a></p>&#10;      <p>&#10;        <b>&#10;          <a>Genju of the Fields</a>&#10;        </b>, <a>Silverstorm Samurai</a></p>&#10;      <p>Richard picked up two pairs of defensive cards next. Striders have become high picks in Betrayers, with their useful ability and Soulshift proving hard to work around. The white Genjus are also very good, as the high toughness keeps then from being depleting your land as some of the others do, and the ability to sink extra mana into them to get their Spirit Link ability multiple times can lift your life out of danger.</p>&#10;      <p>&#10;        <b>&#10;          <a>Hundred-Talon Strike</a>&#10;        </b>, <a>Indebted Samurai</a>, <a>Goblin Cohort</a>, <a>Baku Altar</a></p>&#10;      <p>Richard's pick pace slowed down here as he took the full time to decide on the <a>Hundred-Talon Strike</a>, apparently deciding he needed tricks more than creatures at this point.</p>&#10;      <p>&#10;        <b>&#10;          <a>Silverstorm Samurai</a>&#10;        </b>&#10;      </p>&#10;      <div>&#10;        <div>&#10;          <a>&#10;            <img alt="Frostling" src="https://i.ormos.uk/9f/9f/9f9ff59566d0bd8e637d4a53507aae5d8cfef4c2a6a1ae20e59be300249952a9.jpg">&#10;          </a>&#10;        </div>&#10;      </div>&#10;      <p>&#10;        <b>&#10;          <a>Frostling</a>&#10;        </b>, <a>Silverstorm Samurai</a></p>&#10;      <p>&#10;        <b>&#10;          <a>Mending Hands</a>&#10;        </b>, <a>Shirei, Shizo's Caretaker</a></p>&#10;      <p>&#10;        <b>&#10;          <a>Shinka Gatekeeper</a>&#10;        </b>, <a>Mending Hands</a>, <a>Kitsune Palliator</a></p>&#10;      <p>The packs started to dry out here, but Richard found some playables. He took the overpriced samurai out of a pack with no other playables, and later decided to grab a <a>Mending Hands</a> rather than cut the recycling legend. The Gatekeeper was the last card that might make his main deck.</p>&#10;      <p>&#10;        <b>&#10;          <a>Akki Blizzard-Herder</a>&#10;        </b>&#10;      </p>&#10;      <p>&#10;        <b>&#10;          <a>Sowing Salt</a>&#10;        </b>, <a>Ire of Kaminari</a></p>&#10;      <p>&#10;        <b>&#10;          <a>Sowing Salt</a>&#10;        </b>&#10;      </p>&#10;      <p>&#10;        <b>&#10;          <a>Uproot</a>&#10;        </b>&#10;      </p>&#10;      <p>When asked if there was anything he had hoped to see but hadn't, Richard thought for a moment, before replying, &quot;A Jitte.&quot; His deck ended up, in his own words, &quot;Okay.&quot; He had hoped to get more removal than he ended up with, but has a solid creature base that might carry him through, with a little help from a certain fox.</p>&#10;      <br>&#10;      <br>&#10;      <a name="5">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, April 24: 9:02 pm - Semifinals: Jeroen Remie vs. Jordan Berkowitz</b>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <p>Jordan asked after the quality of Jeroen's deck as they shuffled for their match. Jeroen shrugged, &quot;My deck is alright. Not like your deck. I hear your deck is ridiculous.&quot;</p>&#10;      <p>Jordan denied any such charge, &quot;My deck is ridiculously bad.&quot;</p>&#10;      <p>Jeroen wasn't buying it, &quot;You won in like three seconds.&quot;</p>&#10;      <p>&quot;Osyp played badly. He wouldn't trade his guys for my <a>Blood Speaker</a> and I killed him. I asked about it after the match and he said I was wrong but I don't think so.&quot;</p>&#10;      <h3>Game 1</h3>&#10;      <div>&#10;        <div>&#10;          <a>&#10;            <img alt="Takenuma Bleeder" src="https://i.ormos.uk/0a/1f/0a1fa88e9ae15ed388bc9fee6781115cc083cd1553142a8045e7a038a4bfe930.jpg">&#10;          </a>&#10;        </div>&#10;      </div>&#10;      <p>Both players kept their hands. Jeroen played an <a>Ashen-Skin Zubera</a> on turn two and Jordan came back over the top with <a>Takenuma Bleeder</a>. Jeroen made some chumps with Sosuke Summons. He threw the Zubera in the way of the Bleeder and Jordan pondered which card to lose. He threw away a <a>Forest</a> and played Sosuke. </p>&#10;      <p>Jeroen had a <a>Sakura-Tribe Springcaller</a> to return the Summons. Remie had no blocks when Sosuke came across and he went to 17. Jordan second main-phased a <a>Skullmane Baku</a>. Jeroen came back across with his snakes and Jordan chose not to block. Jeroen had <a>Budoka Pupil</a> and his Summons. </p>&#10;      <p>&#10;        <a>Bile Urchin</a> fired up the <a>Skullmane Baku</a> and all Remie could do was chump block the Bleeder with a token and take three from Sosuke since the black spirit threw off the math. Jordan had a <a>Blood Speaker</a> post combat.</p>&#10;      <p>Jordan took five on the attack back. Jeroen played Sensei's Diving Top. <a>Soilshaper</a> put a counter on the Pupil and <a>Swallowing Plague</a> popped into his hand thanks to the Top to take out the Skullmane. Jeroen went up to 15 and flipped his Pupil. </p>&#10;      <p>Jordan showed him <a>Dance of Shadows</a> and shoved all his guys sideways. With damage on the stack he sacrificed <a>Bile Urchin</a> and it was exactly enough to finish off the disgusted Dutchman. &quot;<a>Bile Urchin</a> for the win. Sigh.&quot;</p>&#10;      <p>Jordan patted his deck appreciatively, &quot;C'mon little piece-of-crap deck. You can do it.&quot;</p>&#10;      <h3>Game 2</h3>&#10;      <p>Jeroen grimaced and sent his first seven back on the play. Jordan opened with the offending <a>Bile Urchin</a> from last game. Jeroen had nothing. Jordan wanted to see how much of nothing it was and cast <a>Psychic Spear</a>. He saw three lands, <a>Budoka Pupil</a> and <a>Hero's Demise</a>. He could take none of them.</p>&#10;      <p>Jordan played a Bleeder and Jeroen had ripped <a>Order of the Sacred Bell</a> for the fourth turn. <a>Bloodthirsty Ogre</a> came out for Jordan and he admired the <a>Sensei's Divining Top</a> that Jeroen put out and used on his next turn, &quot;I love that card.&quot;</p>&#10;      <div>&#10;        <div>&#10;          <a>&#10;            <img alt="Villainous Ogre" src="https://i.ormos.uk/f8/31/f831e5819b0686153db3f39610bef8357b9ec825004356933c0088de1101d015.jpg">&#10;          </a>&#10;        </div>&#10;      </div>&#10;      <p>Jordan attacked with his Ogres and Jeroen crunched them both in combat. Jordan made more with <a>Blood Speaker</a>. Jeroen made another Order of Sacred Bell. He chose not to block and Jordan restocked with <a>Kami of the Hunt</a>. Jeroen swung with the Order and ninja'd out Okiba-Gang. With the <a>Hero's Demise</a> on his mind Jordan smiled, &quot;I'll discard Sosuke and this Zubera.&quot;</p>&#10;      <p>He bashed in and dropped Remie to seven. <a>Villainous Ogre</a> joined the squad and Jordan emptied his hand. Jeroen got in for three with the ninja and tried to stop the beatings with his own Bleeder and the Sacred Bell. Jordan ripped <a>Long-Forgotten Gohei</a> off the top of his deck and swung with everyone. There was no way for Jeroen to block without taking exactly enough damage, so the <a>Bile Urchin</a> was able to finish him off again. </p>&#10;      <p>Jeroen extended the hand, &quot;Good luck. Your deck does seem pretty bad but it came out well. Do you even have a demon?&quot;</p>&#10;      <p>Jordan laughed, &quot;No and I have like five Ogres.&quot;</p>&#10;      <br>&#10;      <br>&#10;      <a name="6">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, April 24: 9:26 pm - Finals: Richard Hoaen vs. Jordan Berkowitz</b>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/c3/21/c32110f3cf75c73e0cc54b5ed6a87ff19fef08843a9530db813b9dca743f2298.jpg">&#10;            <i>Jordan Berkowitz feels the tension of the Finals.</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>There were four players in this Top 8 who had previously made Top 8 at Pro Tours. Three of them won their quarterfinals matches, and now two of them were meeting in the finals. Both Richard Hoaen and Jordan Berkowitz have made Top 8s in the last couple years, and while Jordan first came to attention in a Constructed format, he is no slouch at Limited. Now, after blindingly fast quarterfinals and semifinals in both brackets, he would see if he could match up against one of the best drafters in the world. </p>&#10;      <p>Jordan opened the first game with a <a>Bile Urchin</a>, while Richard's <a>Kitsune Diviner</a> promised it would not get to do very much. Jordan ninjutsu'd a <a>Skullsnatcher</a> into play on his second turn before replaying the Urchin, while Richard just played land. A <a>Long-Forgotten Gohei</a> made the Urchin bigger, but the Diviner didn't care. The <a>Skullsnatcher</a> continued to attack for a couple more turns, though, until Richard built up enough mana for a <a>Moonlit Strider</a>.</p>&#10;      <p>Jordan dropped a <a>Villainous Ogre</a>, but Richard trumped him with a <a>Hundred-Talon Kami</a>. A <a>Kami of the Waning Moon</a> drew the attention of the Diviner, and both players were just saying go, unable to waste the removal in their hands - a <a>Torrent of Stone</a> for Richard and a <a>Rend Spirit</a> and <a>Hideous Laughter</a> for Jordan - on their opponent's small creatures.</p>&#10;      <p>Richard advanced his board with a <a>Waxmane Baku</a>, which drew Jordan's Rend. Richard responded with <a>Blessed Breath</a> to save it, splicing on his <a>Torrent of Stone</a> to ax the <a>Kami of the Waning Moon</a>. A <a>Genju of the Fields</a> joined his team next turn, and his attack knocked Jordan to fourteen while raising his own to eighteen. Jordan played a <a>Takenuma Bleeder</a>, but that just drew Richard's Torrent. Richard kept swinging.</p>&#10;      <p>Jordan was on the ropes. He tried attacking with the <a>Villainous Ogre</a>, but when Richard blocked with the Strider he could only say go. Richard built up further with a <a>Devoted Retainer</a>. Jordan tried one last attack, swinging with <a>Skullsnatcher</a> and the Ogre, and asked of the judges if he could use <a>Skullsnatcher</a> to get around Soulshift by playing removal with damage on the stack. After trying to figure it out, he instead just scooped.</p>&#10;      <p>Both players sideboarded before Game 2. Richard cut a <a>Hundred-Talon Strike</a> for a <a>Candles' Glow</a>, while Jordan dropped both <a>Bile Urchin</a>s and a <a>Skullmane Baku</a> for a <a>Wear Away</a>, a <a>Psychic Spear</a> and the oft-maligned <a>Crawling Filth</a>. Jordan looked bad the next game when he mulliganed into a no-<a>Forest</a> hand, but with two <a>Swamp</a>s he couldn't go further down. His second-turn <a>Skullsnatcher</a> was answered by an <a>Ember-Fist Zubera</a>, but he found a <a>Forest</a> for a third-turn <a>Kami of the Hunt</a>. He swung into the Zubera with his rat, taking one in the process.</p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/ea/70/ea70e742a3aeaab09a1a42002448420f0623413fddc52ab3bbb3b2529144e60e.jpg">&#10;            <i>Richard Hoaen's game didn't go as planned.</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Richard dropped a <a>Brutal Deceiver</a> before saying go. Jordan drew, glanced at the board, and then attacked with his <a>Kami of the Hunt</a>. He had delayed a moment too long, though; Richard read his lack of Arcane spells and traded with the Deceiver. Jordan replaced it with <a>Bloodthirsty Ogre</a>. Richard found a Genju and said go, but he was still stuck on three land. Jordan raised the stakes with a <a>Honden of Life's Web</a>. Richard could only swing for two with his <a>Plains</a>.</p>&#10;      <p>After Jordan's attack, Richard managed to draw into another land and played <a>Moonlit Strider</a>. Jordan also drew into land - his sixth - and tapping all of them dramatically, played a <a>Crawling Filth</a>, surprising Richard into laughter. For all that it is usually disdained, though, the overpriced Severed Legion would keep pressure on Richard while his army of Spirits built up. Richard's <a>Frostwielder</a> drew a <a>Rend Flesh</a> from Jordan, but the Strider jumped in the way, shifting back the Zubera in the process. Richard found another land, swung with his Genju and replayed the Zubera.</p>&#10;      <p>Jordan attacked and said go, but responded to the <a>Frostwielder</a> killing his <a>Bloodthirsty Ogre</a> by <a>Horobi's Whisper</a>ing it. Richard drew again, and sighed when it was not more land. His hand was full of good cards, but without mana he couldn't both play them and attack with his Genju. Looking at the growing mass of Spirits on Jordan's side of the board, he commented, &quot;I really don't want to get Greeded out.&quot; He chose to swing again, setting the life totals at his sixteen to Jordan's thirteen. When Jordan attacked on the next turn, he used Candle's Glow to go up to eighteen. Jordan played a <a>Shuriken</a> and equipped one of his Spirits before passing it back.</p>&#10;      <p>Richard still did not find land, playing a <a>Mothrider Samurai</a> and a <a>Kitsune Diviner</a>. Jordan swung with <a>Crawling Filth</a> then used one of the &quot;<a>Shuriken</a> tricks.&quot; He paid to equip the <a>Shuriken</a> onto another of his Spirits, then used the one it was currently on to shoot the Mothrider. The equip ability then resolved, and that Spirit then shot one of the other Spirits, returning control of the <a>Shuriken</a> to Jordan. He augmented his team with a <a>Blood Speaker</a>. Richard swung in again and played both a <a>Moonlit Strider</a> and a <a>Devoted Retainer</a>.</p>&#10;      <p>Jordan then drew <a>Dance of Shadows</a> and attacked for eighteen, killing Richard.</p>&#10;      <p>Richard reboarded slightly for Game 3, adding <a>Honden of Cleansing Fire</a> for one of the <a>Moonlit Strider</a>s. As he did so, Jordan shuffled his deck, drew seven cards, then shuffled them back in, prompting Richard to ask in disbelief, &quot;You're goldfishing?&quot; Jordan left his deck as it was for Game 3.</p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/5d/e9/5de926c79755f4ac33fbc86764d637fe52e1da81e0c17db5e4c3d85953ca4564.jpg">&#10;            <i>Almost as good as meeting the President!</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Richard led with a <a>Genju of the Fields</a>, and when Jordan hit him with a <a>Psychic Spear</a> he discarded a <a>Torrent of Stone</a>, showing off his four land left in hand. He drew an Ember-Fist Zubera for turn two, though, and swung with that and a <a>Plains</a> on turn three. Jordan had a third <a>Swamp</a> but no <a>Forest</a>, but did have a <a>Long-Forgotten Gohei</a>. Richard laid more land and continued to swing. Jordan drew into a <a>Forest</a> and played a <a>Burr Grafter</a> to take them into the midgame. Richard answered with an <a>Innocence Kami</a>.</p>&#10;      <p>Jordan played a fifth land and dropped the <a>Honden of Life's Web</a> again. With the <a>Long-Forgotten Gohei</a> in play, the 2/2s it was pumping out would become significant very quickly. Richard attacked again, running his Genju into the <a>Burr Grafter</a> to gain some life, then played a <a>Konda's Hatamoto</a>. Jordan dropped his <a>Shuriken</a> and equipped his new Spirit, but Richard tapped the <a>Burr Grafter</a> before it could attack. Richard's attack knocked Jordan to 11, and after Richard activated his Genju multiple times, he was up to 30.</p>&#10;      <p>Jordan drew a <a>Villainous Ogre</a> but the <a>Innocence Kami</a> again made the <a>Burr Grafter</a>'s acquaintance. Richard's next attack saw the Hatamoto get double-blocked by two Spirits, killing one, while the Genju continued to peck away at Jordan. Jordan's Ogre started swinging in, but Richard - who had still not missed a land drop - was gaining six life a turn, keeping him safely ahead in life. Jordan finally built up enough spirits that he could block the Genju and kill the <a>Plains</a> it was on, keeping Richard busy replaying it. Richard was still gaining life, though, going up to 42 the turn that this happened. Jordan unfortunately did not notice that he could block and then <a>Shuriken</a> the token that was taking damage to prevent much of the life gain. His counterattack with the Ogre knocked Richard back down to 39.</p>&#10;      <p>Richard started holding the Genju back, playing a <a>Mothrider Samurai</a> - quickly Rended by Jordan - and then a <a>Waxmane Baku</a>. Jordan added a <a>Blood Speaker</a> to his team, then thought for a while before passing the turn. He also thought for quite a while on the next turn, trying to do some math about the cards in his hand. This felt particularly slow after their previous matches in the Top 8, which were extremely fast. After a couple turns of this Richard commented dejectedly, &quot;I'm so tired. Can't we just draw?&quot; Richard eventually swung in again with his Genju, gaining another eight life before passing the turn. Jordan still continued to think and then pass, and Richard played his newly drawn <a>Frostwielder</a>.</p>&#10;      <p>Jordan decided that the time had come for him to make his move. He played a <a>Dance of Shadows</a>, which brought Richard out of his stupor. Richard added up the total power facing him, and tapped the <a>Blood Speaker</a>. Jordan started to declare his attackers, but Richard stopped him, using a <a>Blessed Breath</a> to untap the <a>Innocence Kami</a> and give a counter to Waxmane. He also tapped the <a>Villainous Ogre</a> and the Spirit with the <a>Shuriken</a> before letting Jordan proceed. Jordan thought about his options and finally attacked with <a>Burr Grafter</a> and four tokens, knocking Richard to 31 and leaving him three tokens on defense. He also played a <a>Kami of the Waning Moon</a> and reequipped the <a>Shuriken</a> before passing.</p>&#10;      <p>Richard swung in again with his Genju to go back up to 35 and dropped a <a>Honden of Cleansing Fire</a>, drawing groans from the spectators. Jordan was undeterred, though, swinging with his entire team. Richard blocked, killing the two Ogres and one of the Spirits, but he fell to 18in the process, and <a>Crawling Filth</a> enabled a lethal <a>Devouring Greed</a>.</p>&#10;      <p>Jordan Berkowitz wins 2-1.</p>&#10;    </td>&#10;  </tr>&#10;</tbody></table>

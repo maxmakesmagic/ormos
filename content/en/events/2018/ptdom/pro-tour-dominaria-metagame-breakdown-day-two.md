@@ -1,0 +1,85 @@
+---
+id: ckteb34n
+kind: event
+lang: en
+path: /en/events/2018/ptdom/pro-tour-dominaria-metagame-breakdown-day-two
+title: Pro Tour Dominaria Metagame Breakdown – Day Two
+published: '2018-06-02'
+column_slug: null
+column: null
+authors: []
+event_code: ptdom
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/events/coverage/ptdom/pro-tour-dominaria-metagame-breakdown-day-two-2018-06-02
+    lang_detected: en
+    capture_id: 1452818
+    url: https://magic.wizards.com/en/events/coverage/ptdom/pro-tour-dominaria-metagame-breakdown-day-two-2018-06-02
+    captured_at: '2022-10-04 20:55:54+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/events/coverage/ptdom/pro-tour-dominaria-metagame-breakdown-day-two-2018-06-02
+    lang_detected: en
+    capture_id: 1452818
+    url: https://magic.wizards.com/en/events/coverage/ptdom/pro-tour-dominaria-metagame-breakdown-day-two-2018-06-02
+    captured_at: '2022-10-04 20:55:54+00'
+    rule: drupal.posted_in_date
+  event_code:
+    page_key: magic.wizards.com/en/events/coverage/ptdom/pro-tour-dominaria-metagame-breakdown-day-two-2018-06-02
+    lang_detected: en
+    capture_id: 1452818
+    url: https://magic.wizards.com/en/events/coverage/ptdom/pro-tour-dominaria-metagame-breakdown-day-two-2018-06-02
+    captured_at: '2022-10-04 20:55:54+00'
+    rule: url.event_code
+sources:
+- document_id: ckteb34n
+  url: https://magic.wizards.com/en/events/coverage/ptdom/pro-tour-dominaria-metagame-breakdown-day-two-2018-06-02
+  page_key: magic.wizards.com/en/events/coverage/ptdom/pro-tour-dominaria-metagame-breakdown-day-two-2018-06-02
+  lang: en
+  template: drupal
+  captured_at: '2022-10-04 20:55:54+00'
+  capture_id: 1452818
+  wayback_url: https://web.archive.org/web/20221004205554id_/https://magic.wizards.com/en/events/coverage/ptdom/pro-tour-dominaria-metagame-breakdown-day-two-2018-06-02
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: ckteb34n
+  capture_id: 1452818
+  url: https://magic.wizards.com/en/events/coverage/ptdom/pro-tour-dominaria-metagame-breakdown-day-two-2018-06-02
+  wayback_url: https://web.archive.org/web/20221004205554id_/https://magic.wizards.com/en/events/coverage/ptdom/pro-tour-dominaria-metagame-breakdown-day-two-2018-06-02
+  captured_at: '2022-10-04 20:55:54+00'
+  template: drupal
+  sha256: 5c2fd76dffb7cd39c7a5406d892008771fc3d1bea4a68ed85c0365180b08af46
+render_recovery: []
+---
+The start of Constructed rounds on Friday is always a tense moment for Pro Tour competitors. Seeing what everyone brought to bear—and how right or wrong they were in predicting it—sets the stage for who can make a Top 8 run and who will quickly melt in the crucible.
+
+At Pro Tour *Dominaria*, the [Day One metagame saw wide adoption of Red-Black strategies alongside a variety of control and other options](/en/events/2018/ptdom/pro-tour-dominaria-metagame-breakdown-day-one). Check out that breakdown for an overview of the key decks and their strategies. What we get to see today is how those players and their Constructed plans carried over into Day Two.
+
+<table><colgroup><col><col><col><col><col><col></colgroup><tbody><tr><td>Archetype</td>&#10;			<td>Day One Count</td>&#10;			<td>Day One % of Meta</td>&#10;			<td>Day Two Count</td>&#10;			<td>Day Two % of Meta</td>&#10;			<td>Day Two Conversion</td>&#10;		</tr><tr><td>Red-Black Midrange</td>&#10;			<td>57</td>&#10;			<td>12.4%</td>&#10;			<td>43</td>&#10;			<td>14.8%</td>&#10;			<td>75.4%</td>&#10;		</tr><tr><td>Red-Black Aggro</td>&#10;			<td>65</td>&#10;			<td>14.1%</td>&#10;			<td>41</td>&#10;			<td>14.1%</td>&#10;			<td>63.1%</td>&#10;		</tr><tr><td>Mono-Red Aggro</td>&#10;			<td>48</td>&#10;			<td>10.4%</td>&#10;			<td>38</td>&#10;			<td>13.1%</td>&#10;			<td>79.2%</td>&#10;		</tr><tr><td>Black-Green Constrictor</td>&#10;			<td>34</td>&#10;			<td>7.4%</td>&#10;			<td>23</td>&#10;			<td>7.9%</td>&#10;			<td>67.6%</td>&#10;		</tr><tr><td>Steel Leaf Stompy</td>&#10;			<td>40</td>&#10;			<td>8.7%</td>&#10;			<td>23</td>&#10;			<td>7.9%</td>&#10;			<td>57.5%</td>&#10;		</tr><tr><td>Esper Control</td>&#10;			<td>20</td>&#10;			<td>4.3%</td>&#10;			<td>15</td>&#10;			<td>5.2%</td>&#10;			<td>75.0%</td>&#10;		</tr><tr><td>White-Black Benalia</td>&#10;			<td>29</td>&#10;			<td>6.3%</td>&#10;			<td>14</td>&#10;			<td>4.8%</td>&#10;			<td>48.3%</td>&#10;		</tr><tr><td>White-Blue Teferi</td>&#10;			<td>22</td>&#10;			<td>4.8%</td>&#10;			<td>13</td>&#10;			<td>4.5%</td>&#10;			<td>59.1%</td>&#10;		</tr><tr><td>White-Blue Control</td>&#10;			<td>17</td>&#10;			<td>3.7%</td>&#10;			<td>10</td>&#10;			<td>3.4%</td>&#10;			<td>58.8%</td>&#10;		</tr><tr><td>Blue-Black Midrange</td>&#10;			<td>14</td>&#10;			<td>3.0%</td>&#10;			<td>9</td>&#10;			<td>3.1%</td>&#10;			<td>64.3%</td>&#10;		</tr><tr><td>Blue-Black Control</td>&#10;			<td>10</td>&#10;			<td>2.2%</td>&#10;			<td>7</td>&#10;			<td>2.4%</td>&#10;			<td>70.0%</td>&#10;		</tr><tr><td>Esper Benalia</td>&#10;			<td>7</td>&#10;			<td>1.5%</td>&#10;			<td>6</td>&#10;			<td>2.1%</td>&#10;			<td>85.7%</td>&#10;		</tr><tr><td>Green-Blue Karn</td>&#10;			<td>11</td>&#10;			<td>2.4%</td>&#10;			<td>5</td>&#10;			<td>1.7%</td>&#10;			<td>45.5%</td>&#10;		</tr><tr><td>Mono-Black Control</td>&#10;			<td>9</td>&#10;			<td>2.0%</td>&#10;			<td>4</td>&#10;			<td>1.4%</td>&#10;			<td>44.4%</td>&#10;		</tr><tr><td>Sultai Constrictor</td>&#10;			<td>5</td>&#10;			<td>1.1%</td>&#10;			<td>4</td>&#10;			<td>1.4%</td>&#10;			<td>80.0%</td>&#10;		</tr><tr><td>White-Blue Approach</td>&#10;			<td>7</td>&#10;			<td>1.5%</td>&#10;			<td>4</td>&#10;			<td>1.4%</td>&#10;			<td>57.1%</td>&#10;		</tr><tr><td>Black-Green Ramp</td>&#10;			<td>6</td>&#10;			<td>1.3%</td>&#10;			<td>3</td>&#10;			<td>1.0%</td>&#10;			<td>50.0%</td>&#10;		</tr><tr><td>Esper Midrange</td>&#10;			<td>7</td>&#10;			<td>1.5%</td>&#10;			<td>3</td>&#10;			<td>1.0%</td>&#10;			<td>42.9%</td>&#10;		</tr><tr><td>Bant Gift</td>&#10;			<td>2</td>&#10;			<td>0.4%</td>&#10;			<td>2</td>&#10;			<td>0.7%</td>&#10;			<td>100.0%</td>&#10;		</tr><tr><td>Black-Green Midrange</td>&#10;			<td>4</td>&#10;			<td>0.9%</td>&#10;			<td>2</td>&#10;			<td>0.7%</td>&#10;			<td>50.0%</td>&#10;		</tr><tr><td>Blue-Black Gift</td>&#10;			<td>3</td>&#10;			<td>0.7%</td>&#10;			<td>2</td>&#10;			<td>0.7%</td>&#10;			<td>66.7%</td>&#10;		</tr><tr><td>Green-White Midrange</td>&#10;			<td>4</td>&#10;			<td>0.9%</td>&#10;			<td>2</td>&#10;			<td>0.7%</td>&#10;			<td>50.0%</td>&#10;		</tr><tr><td>Mono-Red Flame</td>&#10;			<td>3</td>&#10;			<td>0.7%</td>&#10;			<td>2</td>&#10;			<td>0.7%</td>&#10;			<td>66.7%</td>&#10;		</tr><tr><td>White-Blue Benalia</td>&#10;			<td>3</td>&#10;			<td>0.7%</td>&#10;			<td>2</td>&#10;			<td>0.7%</td>&#10;			<td>66.7%</td>&#10;		</tr><tr><td>White-Blue Gift</td>&#10;			<td>3</td>&#10;			<td>0.7%</td>&#10;			<td>2</td>&#10;			<td>0.7%</td>&#10;			<td>66.7%</td>&#10;		</tr><tr><td>Blue-Black Improvise</td>&#10;			<td>2</td>&#10;			<td>0.4%</td>&#10;			<td>1</td>&#10;			<td>0.3%</td>&#10;			<td>50.0%</td>&#10;		</tr><tr><td>Blue-Red Gift</td>&#10;			<td>2</td>&#10;			<td>0.4%</td>&#10;			<td>1</td>&#10;			<td>0.3%</td>&#10;			<td>50.0%</td>&#10;		</tr><tr><td>Green-Blue Counters</td>&#10;			<td>1</td>&#10;			<td>0.2%</td>&#10;			<td>1</td>&#10;			<td>0.3%</td>&#10;			<td>100.0%</td>&#10;		</tr><tr><td>Green-Blue Gift</td>&#10;			<td>2</td>&#10;			<td>0.4%</td>&#10;			<td>1</td>&#10;			<td>0.3%</td>&#10;			<td>50.0%</td>&#10;		</tr><tr><td>Green-White Benalia</td>&#10;			<td>1</td>&#10;			<td>0.2%</td>&#10;			<td>1</td>&#10;			<td>0.3%</td>&#10;			<td>100.0%</td>&#10;		</tr><tr><td>Jeskai Control</td>&#10;			<td>2</td>&#10;			<td>0.4%</td>&#10;			<td>1</td>&#10;			<td>0.3%</td>&#10;			<td>50.0%</td>&#10;		</tr><tr><td>Mardu Vehicles</td>&#10;			<td>2</td>&#10;			<td>0.4%</td>&#10;			<td>1</td>&#10;			<td>0.3%</td>&#10;			<td>50.0%</td>&#10;		</tr><tr><td>Sultai Energy</td>&#10;			<td>2</td>&#10;			<td>0.4%</td>&#10;			<td>1</td>&#10;			<td>0.3%</td>&#10;			<td>50.0%</td>&#10;		</tr><tr><td>Sultai Midrange</td>&#10;			<td>1</td>&#10;			<td>0.2%</td>&#10;			<td>1</td>&#10;			<td>0.3%</td>&#10;			<td>100.0%</td>&#10;		</tr><tr><td>White-Black Knights</td>&#10;			<td>1</td>&#10;			<td>0.2%</td>&#10;			<td>1</td>&#10;			<td>0.3%</td>&#10;			<td>100.0%</td>&#10;		</tr><tr><td>White-Black Midrange</td>&#10;			<td>1</td>&#10;			<td>0.2%</td>&#10;			<td>1</td>&#10;			<td>0.3%</td>&#10;			<td>100.0%</td>&#10;		</tr><tr><td>White-Black Tokens</td>&#10;			<td>1</td>&#10;			<td>0.2%</td>&#10;			<td>1</td>&#10;			<td>0.3%</td>&#10;			<td>100.0%</td>&#10;		</tr><tr><td>Bant Approach</td>&#10;			<td>1</td>&#10;			<td>0.2%</td>&#10;			<td>0</td>&#10;			<td>0.0%</td>&#10;			<td>0.0%</td>&#10;		</tr><tr><td>Black-Red Aggro</td>&#10;			<td>1</td>&#10;			<td>0.2%</td>&#10;			<td>0</td>&#10;			<td>0.0%</td>&#10;			<td>0.0%</td>&#10;		</tr><tr><td>Black-Red Midrange</td>&#10;			<td>1</td>&#10;			<td>0.2%</td>&#10;			<td>0</td>&#10;			<td>0.0%</td>&#10;			<td>0.0%</td>&#10;		</tr><tr><td>Esper Conjecture</td>&#10;			<td>1</td>&#10;			<td>0.2%</td>&#10;			<td>0</td>&#10;			<td>0.0%</td>&#10;			<td>0.0%</td>&#10;		</tr><tr><td>Grixis Chainwhirler</td>&#10;			<td>1</td>&#10;			<td>0.2%</td>&#10;			<td>0</td>&#10;			<td>0.0%</td>&#10;			<td>0.0%</td>&#10;		</tr><tr><td>Mono-Black Midrange</td>&#10;			<td>1</td>&#10;			<td>0.2%</td>&#10;			<td>0</td>&#10;			<td>0.0%</td>&#10;			<td>0.0%</td>&#10;		</tr><tr><td>Red-Green Dinosaurs</td>&#10;			<td>1</td>&#10;			<td>0.2%</td>&#10;			<td>0</td>&#10;			<td>0.0%</td>&#10;			<td>0.0%</td>&#10;		</tr><tr><td>Red-Green Midrange</td>&#10;			<td>2</td>&#10;			<td>0.4%</td>&#10;			<td>0</td>&#10;			<td>0.0%</td>&#10;			<td>0.0%</td>&#10;		</tr><tr><td>Red-White Aggro</td>&#10;			<td>1</td>&#10;			<td>0.2%</td>&#10;			<td>0</td>&#10;			<td>0.0%</td>&#10;			<td>0.0%</td>&#10;		</tr><tr><td>Steel Leaf Vehicles</td>&#10;			<td>1</td>&#10;			<td>0.2%</td>&#10;			<td>0</td>&#10;			<td>0.0%</td>&#10;			<td>0.0%</td>&#10;		</tr><tr><td>White-Blue Cycling</td>&#10;			<td>2</td>&#10;			<td>0.4%</td>&#10;			<td>0</td>&#10;			<td>0.0%</td>&#10;			<td>0.0%</td>&#10;		</tr></tbody></table>
+
+And, summarizing as we did for Day One we see a few interesting trends.
+
+<table><colgroup><col><col><col><col><col><col></colgroup><tbody><tr><td>Archetype</td>&#10;			<td>Day One Count</td>&#10;			<td>Day One % of Meta</td>&#10;			<td>Day Two Count</td>&#10;			<td>Day Two % of Meta</td>&#10;			<td>Day Two Conversion</td>&#10;		</tr><tr><td>Red-Black Aggro &amp; Midrange</td>&#10;			<td>122</td>&#10;			<td>26.5%</td>&#10;			<td>84</td>&#10;			<td>28.9%</td>&#10;			<td>68.9%</td>&#10;		</tr><tr><td>Control Decks</td>&#10;			<td>90</td>&#10;			<td>19.5%</td>&#10;			<td>53</td>&#10;			<td>18.2%</td>&#10;			<td>58.9%</td>&#10;		</tr><tr><td>Mono-Red Aggro</td>&#10;			<td>48</td>&#10;			<td>10.4%</td>&#10;			<td>38</td>&#10;			<td>13.1%</td>&#10;			<td>79.2%</td>&#10;		</tr><tr><td>Steel Leaf Stompy</td>&#10;			<td>40</td>&#10;			<td>8.7%</td>&#10;			<td>23</td>&#10;			<td>7.9%</td>&#10;			<td>57.5%</td>&#10;		</tr><tr><td>Benalia Decks</td>&#10;			<td>39</td>&#10;			<td>8.5%</td>&#10;			<td>23</td>&#10;			<td>7.9%</td>&#10;			<td>59.0%</td>&#10;		</tr><tr><td>Constrictor Decks</td>&#10;			<td>39</td>&#10;			<td>8.5%</td>&#10;			<td>27</td>&#10;			<td>9.3%</td>&#10;			<td>69.2%</td>&#10;		</tr><tr><td>Other</td>&#10;			<td>83</td>&#10;			<td>18.0%</td>&#10;			<td>43</td>&#10;			<td>14.8%</td>&#10;			<td>51.8%</td>&#10;		</tr></tbody></table>
+
+**[Goblin Chainwhirler](https://web.archive.org/web/20180602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Chainwhirler) decks gained slightly in share of the metagame.** Unsurprisingly, when many of the game's best test for weeks and come to similar conclusions it's for good reasons. Red-Black Midrange and Mono-Red Aggro had among the highest conversion rates for Day Two.
+
+*   Between the two flavors of Red-Black, the Midrange deck leaning away from Aggro's one toughness creatures show the power of smart metagame predictions. Weakening opponents' Chainwhirlers and being prepared with them yourself paid off.
+*   Fascinating too is that Mono-Red Aggro featured one of the *highest* conversion rates among top-played decks. [Hazoret the Fervent](https://web.archive.org/web/20180602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hazoret+the+Fervent) is still a powerful card, and the ability of [Soul-Scar Mage](https://web.archive.org/web/20180602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Soul-Scar+Mage) to both amplify and avoid [Goblin Chainwhirler](https://web.archive.org/web/20180602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Chainwhirler) has proven a potent combination to reinvigorate straight up red decks.
+
+**Blue-Black Control decks are emerging victorious.** While [Teferi, Hero of Dominaria](https://web.archive.org/web/20180602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Teferi%2C+Hero+of+Dominaria) was among the most popular cards to play, it's [The Scarab God](https://web.archive.org/web/20180602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=The+Scarab+God) and other blue-black options are finding the greatest success this weekend.
+
+*   Esper and Blue-Black Control each posted 70%+ Day Two conversion rates, while the trio of White-Blue flavors featuring either [Approach of the Second Sun](https://web.archive.org/web/20180602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Approach+of+the+Second+Sun), all-in on Teferi, or more classical Control hover just below 60% conversion. It's solid but not out of the ordinary for a well-establish metagame deck choice.
+*   Mono-Black Control fared the worst out of all the options, despite having the most answers to opposing Planeswalkers and Gods.
+
+**[History of Benalia](https://web.archive.org/web/20180602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=History+of+Benalia) and [Steel Leaf Champion](https://web.archive.org/web/20180602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Steel+Leaf+Champion) decks are performing on average.** Just like the White-Blue Control variety, both Benalia decks and Steel Leaf Stompy converted as average rates.
+
+*   Within Benalia decks, Esper Benalia with—spoiler alert—[The Scarab God](https://web.archive.org/web/20180602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=The+Scarab+God) are out-performing other flavors. The popular successor to Vehicles decks, White-Black Benalia, was expected and is suffering a sub-50% conversion rate.
+*   Among Steel Leaf Stompy decks, those splashing blue are performing the best, though the expected black splash is right behind it. [Commit // Memory](https://web.archive.org/web/20180602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Commit+%2F%2F+Memory) can intervene against spells too, giving that angle more range to handle the Chainwhirlers, Gods and Teferis flying about.
+
+**[Winding Constrictor](https://web.archive.org/web/20180602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Winding+Constrictor) is making a case for its comeback tour.** Despite Constrictor itself being in an awkward position facing down [Soul-Scar Mage](https://web.archive.org/web/20180602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Soul-Scar+Mage)s, it's posting impressive conversions for Day Two.
+
+*   The Sultai Constrictor flavor with [Hadana's Climb](https://web.archive.org/web/20180602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hadana%27s+Climb) hit a mighty 80% carryover from Day One. A little countermagic and card draw gives it bigger midrange opportunity than straight Black-Green Constrictor decks (which are still performing well, to be fair).
+*   [Verdurous Gearhulk](https://web.archive.org/web/20180602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Verdurous+Gearhulk) is a card Standard collectively forgot about but pairs well with [Llanowar Elves](https://web.archive.org/web/20180602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Llanowar+Elves). The ability to upgrade a vulnerable 1/1 into a respectable 5/5 threat—or more with a Constrictor winding around—early in the game is a speed control decks must respect.
+
+**The Top 8 shape beyond [Goblin Chainwhirler](https://web.archive.org/web/20180602000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Chainwhirler) is unclear.** Things like God-Pharoah's Gift and a variety of specialist decks from tokens to midrange combinations continued onward into Day Two. Some of the spiciest decks may have left the building, but what remains in contention is where our eyes fall next.

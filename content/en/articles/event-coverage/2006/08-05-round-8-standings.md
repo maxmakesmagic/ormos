@@ -1,0 +1,47 @@
+---
+id: mh77ta96
+kind: event
+lang: en
+path: /en/articles/event-coverage/2006/08-05-round-8-standings
+title: Round 8 Standings
+published: '2006-08-05'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-8-standings-2006-08-05
+    lang_detected: en
+    capture_id: 569335
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-8-standings-2006-08-05
+    captured_at: '2021-10-25 20:47:27+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-8-standings-2006-08-05
+    lang_detected: en
+    capture_id: 569335
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-8-standings-2006-08-05
+    captured_at: '2021-10-25 20:47:27+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: mh77ta96
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-8-standings-2006-08-05
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/round-8-standings-2006-08-05
+  lang: en
+  template: drupal
+  captured_at: '2021-10-25 20:47:27+00'
+  capture_id: 569335
+  wayback_url: https://web.archive.org/web/20211025204727id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-8-standings-2006-08-05
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: mh77ta96
+  capture_id: 569335
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-8-standings-2006-08-05
+  wayback_url: https://web.archive.org/web/20211025204727id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-8-standings-2006-08-05
+  captured_at: '2021-10-25 20:47:27+00'
+  template: drupal
+  sha256: 700ec8bf7bb49ddbb416afc1ae8de55f7f6cc39d5194d05b67c874fbb9e7223d
+render_recovery: []
+---
+<table><tbody><tr><td><b>Rank</b></td><td><b>Player</b></td><td><b>Points</b></td><td><b>Op.Win%</b></td></tr><tr><td> 1 </td><td>Braymore, Nathon</td><td> 24</td><td> 73.43%</td></tr><tr><td> 2 </td><td>Noworaj, Andrew</td><td> 21</td><td> 63.54%</td></tr><tr><td> 3 </td><td>Cormier, Francis</td><td> 21</td><td> 58.48%</td></tr><tr><td> 4 </td><td>Vance, James</td><td> 18</td><td> 67.50%</td></tr><tr><td> 5 </td><td>Page, Benjamin</td><td> 18</td><td> 64.06%</td></tr><tr><td> 6 </td><td>Vasovski, Mike</td><td> 18</td><td> 64.06%</td></tr><tr><td> 7 </td><td>Kelly, Nathaniel</td><td> 18</td><td> 64.06%</td></tr><tr><td> 8 </td><td>Cardin, Guillaume</td><td> 18</td><td> 63.02%</td></tr><tr><td> 9 </td><td>McGregor, Duncan</td><td> 18</td><td> 62.87%</td></tr><tr><td> 10 </td><td>Green, Jayden</td><td> 18</td><td> 60.41%</td></tr><tr><td> 11 </td><td>Daoust, Guillaume</td><td> 18</td><td> 59.89%</td></tr><tr><td> 12 </td><td>DeBoer, Adam</td><td> 18</td><td> 50.46%</td></tr><tr><td> 13 </td><td>Hajduk, Filip</td><td> 18</td><td> 50.37%</td></tr><tr><td> 14 </td><td>Page, Nick</td><td> 18</td><td> 49.47%</td></tr><tr><td> 15 </td><td>Szelzki, Jeffrey</td><td> 18</td><td> 48.95%</td></tr><tr><td> 16 </td><td>Lee, Victor</td><td> 18</td><td> 45.16%</td></tr><tr><td> 17 </td><td>Samms, Phil</td><td> 16</td><td> 50.52%</td></tr><tr><td> 18 </td><td>Viner, Mike</td><td> 15</td><td> 65.10%</td></tr><tr><td> 19 </td><td>Lee, Mon</td><td> 15</td><td> 63.02%</td></tr><tr><td> 20 </td><td>Potter, Doug</td><td> 15</td><td> 61.60%</td></tr><tr><td> 21 </td><td>Chandra, Rahul</td><td> 15</td><td> 60.41%</td></tr><tr><td> 22 </td><td>Ganske, Drew</td><td> 15</td><td> 60.04%</td></tr><tr><td> 23 </td><td>Kavanagh, Kris</td><td> 15</td><td> 57.29%</td></tr><tr><td> 24 </td><td>Neufeld, Bryan</td><td> 15</td><td> 57.08%</td></tr><tr><td> 25 </td><td>Patterson, Jason</td><td> 15</td><td> 56.77%</td></tr><tr><td> 26 </td><td>Sage, Tyler</td><td> 15</td><td> 55.66%</td></tr><tr><td> 27 </td><td>MacGregor, Mark</td><td> 15</td><td> 55.20%</td></tr><tr><td> 28 </td><td>Hoaen, Richard</td><td> 15</td><td> 54.68%</td></tr><tr><td> 29 </td><td>Arenson, Mike</td><td> 15</td><td> 53.12%</td></tr><tr><td> 30 </td><td>Lorge, Curt</td><td> 15</td><td> 53.12%</td></tr><tr><td> 31 </td><td>Campbell, Mitchell</td><td> 15</td><td> 51.95%</td></tr><tr><td> 32 </td><td>Rodgers, Brent</td><td> 15</td><td> 50.66%</td></tr><tr><td> 33 </td><td>McCracken, Blake</td><td> 15</td><td> 48.75%</td></tr><tr><td> 34 </td><td>Walker, Liam</td><td> 15</td><td> 47.39%</td></tr><tr><td> 35 </td><td>Wolfman, Steven</td><td> 15</td><td> 45.31%</td></tr><tr><td> 36 </td><td>McWhaw, Andrew J</td><td> 15</td><td> 44.79%</td></tr><tr><td> 37 </td><td>Mclaren, Shaun</td><td> 15</td><td> 44.79%</td></tr><tr><td> 38 </td><td>Chan, Eric</td><td> 13</td><td> 53.57%</td></tr><tr><td> 39 </td><td>Langford, Chris</td><td> 13</td><td> 53.12%</td></tr><tr><td> 40 </td><td>Mok, Wilson</td><td> 13</td><td> 45.83%</td></tr><tr><td> 41 </td><td>Sun, Matthew</td><td> 12</td><td> 63.02%</td></tr><tr><td> 42 </td><td>Hague, James</td><td> 12</td><td> 61.97%</td></tr><tr><td> 43 </td><td>Di Piano, Michael</td><td> 12</td><td> 59.89%</td></tr><tr><td> 44 </td><td>Starling, Charles</td><td> 12</td><td> 57.29%</td></tr><tr><td> 45 </td><td>Gareau, Philippe</td><td> 12</td><td> 56.25%</td></tr><tr><td> 46 </td><td>Anderson, Robert</td><td> 12</td><td> 55.35%</td></tr><tr><td> 47 </td><td>Wheeler, Tyrell T</td><td> 12</td><td> 55.20%</td></tr><tr><td> 48 </td><td>Brager, Brandon</td><td> 12</td><td> 54.68%</td></tr><tr><td> 49 </td><td>Blum, Tyler</td><td> 12</td><td> 54.68%</td></tr><tr><td> 50 </td><td>Elgar, Jeremy</td><td> 12</td><td> 53.64%</td></tr><tr><td> 51 </td><td>Olynyk, Jason</td><td> 12</td><td> 51.61%</td></tr><tr><td> 52 </td><td>Allen, Brett</td><td> 12</td><td> 51.58%</td></tr><tr><td> 53 </td><td>Raymond, Ben</td><td> 12</td><td> 51.38%</td></tr><tr><td> 54 </td><td>Felske, David</td><td> 12</td><td> 51.04%</td></tr><tr><td> 55 </td><td>Rusaw, Ryan</td><td> 12</td><td> 50.68%</td></tr><tr><td> 56 </td><td>Kimola, Doug</td><td> 12</td><td> 50.59%</td></tr><tr><td> 57 </td><td>Davis, Robb</td><td> 12</td><td> 50.35%</td></tr><tr><td> 58 </td><td>Tse, Felix</td><td> 12</td><td> 49.47%</td></tr><tr><td> 59 </td><td>Breau, Josh</td><td> 12</td><td> 48.61%</td></tr><tr><td> 60 </td><td>Earnshaw, Ferguson</td><td> 12</td><td> 48.38%</td></tr><tr><td> 61 </td><td>Pham, Daniel H</td><td> 12</td><td> 47.80%</td></tr><tr><td> 62 </td><td>Smith, Kyle</td><td> 12</td><td> 47.61%</td></tr><tr><td> 63 </td><td>Ruskey, Albert</td><td> 12</td><td> 46.87%</td></tr><tr><td> 64 </td><td>Coleman, Shaye</td><td> 12</td><td> 46.87%</td></tr><tr><td> 65 </td><td>Dunn, Paul</td><td> 12</td><td> 46.85%</td></tr><tr><td> 66 </td><td>Dean, J. Evan</td><td> 12</td><td> 41.24%</td></tr><tr><td> 67 </td><td>Turner, William</td><td> 10</td><td> 56.62%</td></tr><tr><td> 68 </td><td>Johnstone, Terrence</td><td> 10</td><td> 53.79%</td></tr><tr><td> 69 </td><td>Henderson, Walter</td><td> 10</td><td> 53.79%</td></tr><tr><td> 70 </td><td>Richardson, Justin B</td><td> 9</td><td> 56.91%</td></tr><tr><td> 71 </td><td>Stoddart, William</td><td> 9</td><td> 56.44%</td></tr><tr><td> 72 </td><td>Dushnicky, Andrew</td><td> 9</td><td> 55.72%</td></tr><tr><td> 73 </td><td>Dewar, Norman E</td><td> 9</td><td> 55.55%</td></tr><tr><td> 74 </td><td>Conrad, Cory C</td><td> 9</td><td> 53.57%</td></tr><tr><td> 75 </td><td>Putnam, Taylor</td><td> 9</td><td> 51.04%</td></tr><tr><td> 76 </td><td>Bishop, Stephen</td><td> 9</td><td> 50.66%</td></tr><tr><td> 77 </td><td>Roberge, Pierre</td><td> 9</td><td> 49.23%</td></tr><tr><td> 78 </td><td>Giroux, Gordie</td><td> 9</td><td> 47.61%</td></tr><tr><td> 79 </td><td>Ford, Tim</td><td> 9</td><td> 47.19%</td></tr><tr><td> 80 </td><td>LaPierre, Matthew</td><td> 9</td><td> 46.93%</td></tr><tr><td> 81 </td><td>Robillard, Kyle</td><td> 9</td><td> 46.50%</td></tr><tr><td> 82 </td><td>Hurd, Adam</td><td> 9</td><td> 45.31%</td></tr><tr><td> 83 </td><td>Zizos, Jeff P.</td><td> 9</td><td> 45.06%</td></tr><tr><td> 84 </td><td>Woodley, Ian</td><td> 9</td><td> 41.29%</td></tr><tr><td> 85 </td><td>Selinger, Rick</td><td> 6</td><td> 63.26%</td></tr><tr><td> 86 </td><td>Cutcher, Greg</td><td> 6</td><td> 60.00%</td></tr><tr><td> 87 </td><td>Holowachuk, Derek</td><td> 6</td><td> 60.00%</td></tr><tr><td> 88 </td><td>Vickery, Darby</td><td> 6</td><td> 58.33%</td></tr><tr><td> 89 </td><td>Liu, Josef</td><td> 6</td><td> 55.35%</td></tr><tr><td> 90 </td><td>Cheng, Yi</td><td> 6</td><td> 54.44%</td></tr><tr><td> 91 </td><td>Brunet, Nikael</td><td> 6</td><td> 53.57%</td></tr><tr><td> 92 </td><td>Kerr, Ian</td><td> 6</td><td> 53.33%</td></tr><tr><td> 93 </td><td>Ferneyhough, Michael</td><td> 6</td><td> 53.33%</td></tr><tr><td> 94 </td><td>Boileau, Louis</td><td> 6</td><td> 50.66%</td></tr><tr><td> 95 </td><td>Faure, Stephane</td><td> 6</td><td> 50.00%</td></tr><tr><td> 96 </td><td>Mendoza, Carlo</td><td> 6</td><td> 46.14%</td></tr><tr><td> 97 </td><td>Iwaskiw, Roman</td><td> 6</td><td> 45.83%</td></tr><tr><td> 98 </td><td>Fiorino, Danny</td><td> 6</td><td> 41.66%</td></tr><tr><td> 99 </td><td>Hanson, James</td><td> 4</td><td> 51.11%</td></tr><tr><td>100 </td><td>Magnan, Patrick</td><td> 3</td><td> 50.00%</td></tr><tr><td>101 </td><td>Olteanu, Michael</td><td> 3</td><td> 44.44%</td></tr><tr><td>102 </td><td>Neary, Nicholas</td><td> 0</td><td> 47.91%</td></tr><tr><td>103 </td><td>Woodman, Jonathan</td><td> 0</td><td> 43.75%</td></tr></tbody></table>

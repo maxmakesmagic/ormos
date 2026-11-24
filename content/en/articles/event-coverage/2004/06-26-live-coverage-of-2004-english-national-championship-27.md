@@ -1,0 +1,47 @@
+---
+id: svcqxjm5
+kind: event
+lang: en
+path: /en/articles/event-coverage/2004/06-26-live-coverage-of-2004-english-national-championship-27
+title: Live Coverage of 2004 English National Championship
+published: '2004-06-26'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/live-coverage-2004-english-national-championship-2004-06-26-17
+    lang_detected: en
+    capture_id: 441524
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/live-coverage-2004-english-national-championship-2004-06-26-17
+    captured_at: '2022-07-03 20:55:37+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/live-coverage-2004-english-national-championship-2004-06-26-17
+    lang_detected: en
+    capture_id: 441524
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/live-coverage-2004-english-national-championship-2004-06-26-17
+    captured_at: '2022-07-03 20:55:37+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: svcqxjm5
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/live-coverage-2004-english-national-championship-2004-06-26-17
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/live-coverage-2004-english-national-championship-2004-06-26-17
+  lang: en
+  template: drupal
+  captured_at: '2022-07-03 20:55:37+00'
+  capture_id: 441524
+  wayback_url: https://web.archive.org/web/20220703205537id_/https://magic.wizards.com/en/articles/archive/event-coverage/live-coverage-2004-english-national-championship-2004-06-26-17
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: svcqxjm5
+  capture_id: 441524
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/live-coverage-2004-english-national-championship-2004-06-26-17
+  wayback_url: https://web.archive.org/web/20220703205537id_/https://magic.wizards.com/en/articles/archive/event-coverage/live-coverage-2004-english-national-championship-2004-06-26-17
+  captured_at: '2022-07-03 20:55:37+00'
+  template: drupal
+  sha256: e9d0257978dfa362259f2aa9e7e1cd3ace92138e30f7d0ba7feeecf7484766c9
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Points</b></td><td><b>&#10;						</b></td><td><b>Opponent</b></td><td><b>Points</b></td></tr><tr><td> 14</td><td>Duck, Jeremy</td><td> 16</td><td>vs.</td><td>Clarke, Jerry</td><td> 16</td></tr><tr><td> 42</td><td>Williams, Stephen</td><td> 16</td><td>vs.</td><td>Rigby, Neil</td><td> 16</td></tr><tr><td> 20</td><td>Willis, Paul</td><td> 15</td><td>vs.</td><td>Nunn, Richard</td><td> 15</td></tr><tr><td> 21</td><td>Stowers, Chris</td><td> 15</td><td>vs.</td><td>Easton, Steve</td><td> 15</td></tr><tr><td> 22</td><td>Shilling, Damian</td><td> 15</td><td>vs.</td><td>Morris, Matt J</td><td> 15</td></tr><tr><td> 27</td><td>West, Nicholas</td><td> 15</td><td>vs.</td><td>Lowish, Thomas</td><td> 15</td></tr><tr><td> 48</td><td>Price, Tom</td><td> 15</td><td>vs.</td><td>Bouton, Simon</td><td> 13</td></tr><tr><td> 60</td><td>Stocking, Chris</td><td> 15</td><td>vs.</td><td>Cadwallader, Aaron</td><td> 15</td></tr><tr><td> 2</td><td>Skinner, Anthony</td><td> 13</td><td>vs.</td><td>Voisey, Mark</td><td> 13</td></tr><tr><td> 13</td><td>Hodges, Simon G</td><td> 13</td><td>vs.</td><td>Cooper, Martyn</td><td> 13</td></tr><tr><td> 3</td><td>Richards, Robert</td><td> 12</td><td>vs.</td><td>Hopkins, Jon</td><td> 12</td></tr><tr><td> 33</td><td>Gomersall, Sam</td><td> 12</td><td>vs.</td><td>Knowles, Chris</td><td> 12</td></tr><tr><td> 41</td><td>Bailie, Matthew</td><td> 12</td><td>vs.</td><td>Gattolin, Stefano</td><td> 11</td></tr><tr><td> 46</td><td>Norris, Pete</td><td> 12</td><td>vs.</td><td>Whiting, Tom</td><td> 12</td></tr><tr><td> 47</td><td>Leonard, Micheal</td><td> 12</td><td>vs.</td><td>Ormerod, John</td><td> 12</td></tr><tr><td> 49</td><td>Clark, Nicholas</td><td> 12</td><td>vs.</td><td>Jones, Craig</td><td> 12</td></tr><tr><td> 53</td><td>Harper, Matthew</td><td> 12</td><td>vs.</td><td>Martin, Quentin</td><td> 12</td></tr><tr><td> 55</td><td>O'Connor, Kevin</td><td> 12</td><td>vs.</td><td>Moss, Gideon</td><td> 12</td></tr><tr><td> 57</td><td>Harle, Tom</td><td> 12</td><td>vs.</td><td>Smith, Craig</td><td> 12</td></tr><tr><td> 63</td><td>Groves, Michael</td><td> 12</td><td>vs.</td><td>Waterhouse, Mark</td><td> 12</td></tr><tr><td> 7</td><td>mcclare, alastair</td><td> 10</td><td>vs.</td><td>Jenkins, Dan</td><td> 10</td></tr><tr><td> 8</td><td>Oliver, James M</td><td> 10</td><td>vs.</td><td>Reid, Gavin</td><td> 10</td></tr><tr><td> 15</td><td>Chard, Alex</td><td> 10</td><td>vs.</td><td>Lowe, Mark</td><td> 10</td></tr><tr><td> 16</td><td>McCafferty, James</td><td> 10</td><td>vs.</td><td>Martin, Benedict</td><td> 10</td></tr><tr><td> 19</td><td>Fawkes, Anthony D</td><td> 10</td><td>vs.</td><td>Kakoschke, Nicholas W</td><td> 10</td></tr><tr><td> 30</td><td>Pashley, Stephen</td><td> 10</td><td>vs.</td><td>Hopewell, Carl</td><td> 10</td></tr><tr><td> 31</td><td>Davey, Clinton</td><td> 10</td><td>vs.</td><td>Turner, Peter</td><td> 10</td></tr><tr><td> 56</td><td>Hewett, Mike</td><td> 10</td><td>vs.</td><td>Harrold, Christopher P</td><td> 10</td></tr><tr><td> 6</td><td>Wray, Mark</td><td> 9</td><td>vs.</td><td>Cleary, Jamie</td><td> 9</td></tr><tr><td> 18</td><td>Saito, Yang</td><td> 9</td><td>vs.</td><td>Chapman, Jonny</td><td> 9</td></tr><tr><td> 23</td><td>Humphreys, Mark Brian</td><td> 9</td><td>vs.</td><td>Turner, William</td><td> 9</td></tr><tr><td> 25</td><td>Clapton, Chris</td><td> 9</td><td>vs.</td><td>Bain, Iain</td><td> 9</td></tr><tr><td> 32</td><td>Langton, Valerian</td><td> 9</td><td>vs.</td><td>Dunn, William</td><td> 9</td></tr><tr><td> 35</td><td>Madsen, Richard</td><td> 9</td><td>vs.</td><td>Moore, Richard</td><td> 9</td></tr><tr><td> 36</td><td>Cresswell, Stu</td><td> 9</td><td>vs.</td><td>Wright, Mick J</td><td> 9</td></tr><tr><td> 38</td><td>Newberry, Stephen</td><td> 9</td><td>vs.</td><td>Pauling, Owen</td><td> 9</td></tr><tr><td> 39</td><td>Pickering, Andy</td><td> 9</td><td>vs.</td><td>Schneider, Oliver</td><td> 9</td></tr><tr><td> 40</td><td>Janpiam, Kamman</td><td> 9</td><td>vs.</td><td>Paskins, Daniel</td><td> 9</td></tr><tr><td> 44</td><td>Wills, Scott</td><td> 9</td><td>vs.</td><td>Kiourtsoglou, Dimitris</td><td> 9</td></tr><tr><td> 50</td><td>Samra, Manveer</td><td> 9</td><td>vs.</td><td>Kyriazis, Ioannis</td><td> 9</td></tr><tr><td> 54</td><td>Ashby, Claire</td><td> 9</td><td>vs.</td><td>Glenister, Mark</td><td> 9</td></tr><tr><td> 58</td><td>O'Keeffe, Simon</td><td> 9</td><td>vs.</td><td>Ward, Colin D</td><td> 9</td></tr><tr><td> 61</td><td>Baker, Keef</td><td> 9</td><td>vs.</td><td>Barltrop, Steve J</td><td> 9</td></tr><tr><td> 62</td><td>Hillary, Paul</td><td> 9</td><td>vs.</td><td>Cheng, Chestor</td><td> 9</td></tr><tr><td> 65</td><td>Evans, Paul</td><td> 9</td><td>vs.</td><td>Hough, Ryan</td><td> 9</td></tr><tr><td> 24</td><td>Hampson, Martyn</td><td> 7</td><td>vs.</td><td>Boulton, Chris</td><td> 7</td></tr><tr><td> 28</td><td>Victor, Daniel</td><td> 7</td><td>vs.</td><td>Wilson, Kieran</td><td> 7</td></tr><tr><td> 29</td><td>Fawcett, Raymond</td><td> 7</td><td>vs.</td><td>Salmon, Robert</td><td> 7</td></tr><tr><td> 59</td><td>Theobalds, Graham</td><td> 7</td><td>vs.</td><td>Williams, Grant L</td><td> 7</td></tr><tr><td> 67</td><td>Dunn, James</td><td> 7</td><td>vs.</td><td>Grant, David</td><td> 7</td></tr><tr><td> 1</td><td>Pizzey, Lian</td><td> 6</td><td>vs.</td><td>Graham, Paul</td><td> 6</td></tr><tr><td> 9</td><td>Waterfield, Martin</td><td> 6</td><td>vs.</td><td>Stephenson, Calum</td><td> 6</td></tr><tr><td> 11</td><td>Papatsarouchas, Evangelos</td><td> 6</td><td>vs.</td><td>Jackson, Greg</td><td> 6</td></tr><tr><td> 17</td><td>Stevenson, Craig</td><td> 6</td><td>vs.</td><td>Powell, Ben</td><td> 6</td></tr><tr><td> 26</td><td>Colapinto, Daniel</td><td> 6</td><td>vs.</td><td>Mitchell, Andrew</td><td> 6</td></tr><tr><td> 34</td><td>Law, Thomas</td><td> 6</td><td>vs.</td><td>Cordell, Mathew</td><td> 6</td></tr><tr><td> 37</td><td>Baird, Stephen</td><td> 6</td><td>vs.</td><td>Lewis, David</td><td> 6</td></tr><tr><td> 43</td><td>Fryer-Kelsey, James</td><td> 6</td><td>vs.</td><td>Swan, Martin</td><td> 6</td></tr><tr><td> 45</td><td>Wright, Paul</td><td> 6</td><td>vs.</td><td>Connolly, Bryan</td><td> 6</td></tr><tr><td> 51</td><td>Walshaw, Ian</td><td> 6</td><td>vs.</td><td>Manuel, Gary</td><td> 6</td></tr><tr><td> 52</td><td>Tsarkov, Dmitry</td><td> 6</td><td>vs.</td><td>Glover, Tim</td><td> 6</td></tr><tr><td> 64</td><td>Mencarini, Alessandro</td><td> 6</td><td>vs.</td><td>Major, Mike</td><td> 6</td></tr><tr><td> 66</td><td>Clyne, Richard</td><td> 6</td><td>vs.</td><td>Doxey, James</td><td> 6</td></tr><tr><td> 4</td><td>Gatheral, David</td><td> 5</td><td>vs.</td><td>Stiles, David</td><td> 5</td></tr><tr><td> 5</td><td>O'donnell, Tim</td><td> 3</td><td>vs.</td><td>Bateman, Crispin F</td><td> 3</td></tr><tr><td> 10</td><td>Baker, Graham</td><td> 3</td><td>vs.</td><td>Smith, Andrew</td><td> 3</td></tr><tr><td> 12</td><td>Edwards, Ian</td><td> 3</td><td>vs.</td><td>White, Scott</td><td> 3</td></tr><tr><td> 68</td><td>Samra, Baljett</td><td> 3</td><td>vs.</td><td>Rithipuntharux, Art</td><td> 3</td></tr></tbody></table>

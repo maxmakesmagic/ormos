@@ -1,0 +1,55 @@
+---
+id: x432r1q0
+kind: event
+lang: en
+path: /en/events/2013/wmc13/world-magic-cup-2013-stage-1-round-3-team-standings
+title: World Magic Cup 2013 Stage 1 Round 3 Team Standings
+published: '2013-08-03'
+column_slug: null
+column: null
+authors: []
+event_code: wmc13
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/wmc13/stands1r3
+    lang_detected: en
+    capture_id: 558614
+    url: http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/wmc13/stands1r3
+    captured_at: '2014-02-15 04:33:39+00'
+    rule: aspx.article_heading
+  published:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/wmc13/stands1r3
+    lang_detected: en
+    capture_id: 558614
+    url: http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/wmc13/stands1r3
+    captured_at: '2014-02-15 04:33:39+00'
+    rule: aspx.byline_date
+  event_code:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/wmc13/stands1r3
+    lang_detected: en
+    capture_id: 558614
+    url: http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/wmc13/stands1r3
+    captured_at: '2014-02-15 04:33:39+00'
+    rule: url.event_code
+sources:
+- document_id: x432r1q0
+  url: http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/wmc13/stands1r3
+  page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/wmc13/stands1r3
+  lang: en
+  template: aspx
+  captured_at: '2014-02-15 04:33:39+00'
+  capture_id: 558614
+  wayback_url: https://web.archive.org/web/20140215043339id_/http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/wmc13/stands1r3
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: x432r1q0
+  capture_id: 558614
+  url: http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/wmc13/stands1r3
+  wayback_url: https://web.archive.org/web/20140215043339id_/http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/wmc13/stands1r3
+  captured_at: '2014-02-15 04:33:39+00'
+  template: aspx
+  sha256: 319a3cec5f2e72c302533a8bbf8ce666fb8aef9d5506850597ab059a407d09b1
+render_recovery: []
+---
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <a href="/en/events/2013/wmc13/world-magic-cup-2013-stage-1-round-3-team-standings">&#10;        <b>Pool</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/en/events/2013/wmc13/world-magic-cup-2013-stage-1-round-3-team-standings">&#10;        <b>Seed</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/en/events/2013/wmc13/world-magic-cup-2013-stage-1-round-3-team-standings">&#10;        <b>Team</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/en/events/2013/wmc13/world-magic-cup-2013-stage-1-round-3-team-standings">&#10;        <b>Pool Points</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/en/events/2013/wmc13/world-magic-cup-2013-stage-1-round-3-team-standings">&#10;        <b>Total Points</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/en/events/2013/wmc13/world-magic-cup-2013-stage-1-round-3-team-standings">&#10;        <b>Wins</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/en/events/2013/wmc13/world-magic-cup-2013-stage-1-round-3-team-standings">&#10;        <b>Losses</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/en/events/2013/wmc13/world-magic-cup-2013-stage-1-round-3-team-standings">&#10;        <b>Draws</b>&#10;      </a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>1</td>&#10;    <td>1</td>&#10;    <td>Ireland</td>&#10;    <td>6</td>&#10;    <td>25</td>&#10;    <td>Croatia, Malaysia</td>&#10;    <td>Estonia</td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>1</td>&#10;    <td>16</td>&#10;    <td>Estonia</td>&#10;    <td>6</td>&#10;    <td>19</td>&#10;    <td>Ireland, Croatia</td>&#10;    <td>Malaysia</td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>1</td>&#10;    <td>17</td>&#10;    <td>Croatia</td>&#10;    <td>3</td>&#10;    <td>16</td>&#10;    <td>Malaysia</td>&#10;    <td>Ireland, Estonia</td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>1</td>&#10;    <td>32</td>&#10;    <td>Malaysia</td>&#10;    <td>3</td>&#10;    <td>15</td>&#10;    <td>Estonia</td>&#10;    <td>Croatia, Ireland</td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>2</td>&#10;    <td>15</td>&#10;    <td>South Africa</td>&#10;    <td>5</td>&#10;    <td>18</td>&#10;    <td>Singapore</td>&#10;    <td> </td>&#10;    <td>Scotland, New Zealand</td>&#10;  </tr>&#10;  <tr>&#10;    <td>2</td>&#10;    <td>18</td>&#10;    <td>New Zealand</td>&#10;    <td>5</td>&#10;    <td>18</td>&#10;    <td>Scotland</td>&#10;    <td> </td>&#10;    <td>Singapore, South Africa</td>&#10;  </tr>&#10;  <tr>&#10;    <td>2</td>&#10;    <td>31</td>&#10;    <td>Scotland</td>&#10;    <td>4</td>&#10;    <td>16</td>&#10;    <td>Singapore</td>&#10;    <td>New Zealand</td>&#10;    <td>South Africa</td>&#10;  </tr>&#10;  <tr>&#10;    <td>2</td>&#10;    <td>2</td>&#10;    <td>Singapore</td>&#10;    <td>1</td>&#10;    <td>19</td>&#10;    <td> </td>&#10;    <td>South Africa, Scotland</td>&#10;    <td>New Zealand</td>&#10;  </tr>&#10;  <tr>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>3</td>&#10;    <td>19</td>&#10;    <td>Greece</td>&#10;    <td>6</td>&#10;    <td>19</td>&#10;    <td>Israel, Venezuela</td>&#10;    <td>United States</td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>3</td>&#10;    <td>30</td>&#10;    <td>Israel</td>&#10;    <td>6</td>&#10;    <td>18</td>&#10;    <td>Venezuela, United States</td>&#10;    <td>Greece</td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>3</td>&#10;    <td>3</td>&#10;    <td>United States</td>&#10;    <td>3</td>&#10;    <td>19</td>&#10;    <td>Greece</td>&#10;    <td>Venezuela, Israel</td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>3</td>&#10;    <td>14</td>&#10;    <td>Venezuela</td>&#10;    <td>3</td>&#10;    <td>16</td>&#10;    <td>United States</td>&#10;    <td>Israel, Greece</td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>4</td>&#10;    <td>4</td>&#10;    <td>France</td>&#10;    <td>9</td>&#10;    <td>25</td>&#10;    <td>Thailand, Luxembourg, Belgium</td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>4</td>&#10;    <td>29</td>&#10;    <td>Belgium</td>&#10;    <td>6</td>&#10;    <td>18</td>&#10;    <td>Luxembourg, Thailand</td>&#10;    <td>France, Belgium</td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>4</td>&#10;    <td>13</td>&#10;    <td>Thailand</td>&#10;    <td>3</td>&#10;    <td>16</td>&#10;    <td>Luxembourg</td>&#10;    <td>France, Belgium</td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>4</td>&#10;    <td>20</td>&#10;    <td>Luxembourg</td>&#10;    <td>0</td>&#10;    <td>13</td>&#10;    <td> </td>&#10;    <td>Belgium, France, Thailand</td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>5</td>&#10;    <td>5</td>&#10;    <td>Austria</td>&#10;    <td>9</td>&#10;    <td>25</td>&#10;    <td>Hungary, England, El Salvador</td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>5</td>&#10;    <td>12</td>&#10;    <td>Hungary</td>&#10;    <td>3</td>&#10;    <td>16</td>&#10;    <td>El Salvador</td>&#10;    <td>Austria, England</td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>5</td>&#10;    <td>21</td>&#10;    <td>England</td>&#10;    <td>3</td>&#10;    <td>16</td>&#10;    <td>Hungary</td>&#10;    <td>El Salvador, Austria</td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>5</td>&#10;    <td>28</td>&#10;    <td>El Salvador</td>&#10;    <td>3</td>&#10;    <td>15</td>&#10;    <td>England</td>&#10;    <td>Hungary, Austria</td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>6</td>&#10;    <td>22</td>&#10;    <td>Brazil</td>&#10;    <td>7</td>&#10;    <td>20</td>&#10;    <td>Australia, Iceland</td>&#10;    <td> </td>&#10;    <td>Slovenia</td>&#10;  </tr>&#10;  <tr>&#10;    <td>6</td>&#10;    <td>11</td>&#10;    <td>Iceland</td>&#10;    <td>6</td>&#10;    <td>19</td>&#10;    <td>Australia, Slovenia</td>&#10;    <td>Brazil</td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>6</td>&#10;    <td>6</td>&#10;    <td>Australia</td>&#10;    <td>3</td>&#10;    <td>19</td>&#10;    <td>Slovenia</td>&#10;    <td>Iceland, Brazil</td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>6</td>&#10;    <td>27</td>&#10;    <td>Slovenia</td>&#10;    <td>1</td>&#10;    <td>13</td>&#10;    <td> </td>&#10;    <td>Iceland, Australia</td>&#10;    <td>Brazil</td>&#10;  </tr>&#10;  <tr>&#10;    <td>7</td>&#10;    <td>23</td>&#10;    <td>Czech Republic</td>&#10;    <td>9</td>&#10;    <td>21</td>&#10;    <td>Ukraine, Mexico, Turkey</td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>7</td>&#10;    <td>26</td>&#10;    <td>Ukraine</td>&#10;    <td>6</td>&#10;    <td>18</td>&#10;    <td>Turkei, Mexico</td>&#10;    <td>Czech Republic</td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>7</td>&#10;    <td>10</td>&#10;    <td>Turkey</td>&#10;    <td>3</td>&#10;    <td>17</td>&#10;    <td>Mexico</td>&#10;    <td>Ukraine, Czech Republic</td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>7</td>&#10;    <td>7</td>&#10;    <td>Mexico</td>&#10;    <td>0</td>&#10;    <td>15</td>&#10;    <td> </td>&#10;    <td>Turkey, Czech Republic, Ukraine</td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>8</td>&#10;    <td>8</td>&#10;    <td>Chile</td>&#10;    <td>7</td>&#10;    <td>22</td>&#10;    <td>Slovak Republic, Finland</td>&#10;    <td> </td>&#10;    <td>Belarus</td>&#10;  </tr>&#10;  <tr>&#10;    <td>8</td>&#10;    <td>25</td>&#10;    <td>Belarus</td>&#10;    <td>7</td>&#10;    <td>19</td>&#10;    <td>Finland, Slovak Republic</td>&#10;    <td> </td>&#10;    <td>Chile</td>&#10;  </tr>&#10;  <tr>&#10;    <td>8</td>&#10;    <td>9</td>&#10;    <td>Slovak Republic</td>&#10;    <td>3</td>&#10;    <td>18</td>&#10;    <td>Finland</td>&#10;    <td>Chile, Belarus</td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>8</td>&#10;    <td>24</td>&#10;    <td>Finland</td>&#10;    <td>0</td>&#10;    <td>12</td>&#10;    <td> </td>&#10;    <td>Belarus, Chile, Slovak Republic</td>&#10;    <td> </td>&#10;  </tr>&#10;</tbody></table>

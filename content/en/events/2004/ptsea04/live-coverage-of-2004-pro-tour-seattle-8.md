@@ -1,0 +1,105 @@
+---
+id: 3ggfx568
+kind: event
+lang: en
+path: /en/events/2004/ptsea04/live-coverage-of-2004-pro-tour-seattle-8
+title: Live Coverage of 2004 Pro Tour Seattle
+published: null
+column_slug: null
+column: null
+authors: []
+event_code: ptsea04
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/ptsea04/feat5
+    lang_detected: en
+    capture_id: 1120292
+    url: http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/ptsea04/feat5
+    captured_at: '2013-06-26 20:38:25+00'
+    rule: aspx.article_heading
+  event_code:
+    page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/ptsea04/feat5
+    lang_detected: en
+    capture_id: 1120292
+    url: http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/ptsea04/feat5
+    captured_at: '2013-06-26 20:38:25+00'
+    rule: url.event_code
+sources:
+- document_id: 3ggfx568
+  url: http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/ptsea04/feat5
+  page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/ptsea04/feat5
+  lang: en
+  template: aspx
+  captured_at: '2013-06-26 20:38:25+00'
+  capture_id: 1120292
+  wayback_url: https://web.archive.org/web/20130626203825id_/http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/ptsea04/feat5
+- document_id: 3ggfx568
+  url: http://www.wizards.com/default.asp?x=mtgevent/ptsea04/feat5
+  page_key: wizards.com/default.asp?x=mtgevent/ptsea04/feat5
+  lang: en
+  template: classic_asp
+  captured_at: '2006-01-03 18:32:20+00'
+  capture_id: 2109302
+  wayback_url: https://web.archive.org/web/20060103183220id_/http://www.wizards.com/default.asp?x=mtgevent/ptsea04/feat5
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 3ggfx568
+  capture_id: 1120292
+  url: http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/ptsea04/feat5
+  wayback_url: https://web.archive.org/web/20130626203825id_/http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/ptsea04/feat5
+  captured_at: '2013-06-26 20:38:25+00'
+  template: aspx
+  sha256: 1a9d36749182dd2d98d0f92562a834cd0285cf931ff890bb997aea94887ecbae
+render_recovery:
+- code: unsupported_link
+  element: a
+  target: javascript:void()
+  reason: The link uses a JavaScript placeholder. The preview kept any visible label.
+  labels:
+  - Myr Matrix
+  occurrences: 2
+---
+ ![One Dozen Eyes](http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=One%20Dozen%20Eyes&options=) 
+
+One of the cool things about attending a Pro Tour or a Grand Prix is that there is usually an artist or two in attendance to meet and sign your favorite Magic cards. U.S. Nationals was considered a special event for Magic art fans because there were four artists in Kansas City. All of that pales, however, when compared to what happens when you hold an event in Seattle.
+
+When talking to Pro Tour show manager Renee Roub, she said that Wizards initially solicited a couple of local artists to attend, but when word got out to the community, a flood of requests came in. By the time they printed up the signs for the artist schedule, there were eight confirmed artists on the list, and by mid-day Saturday another three had shown up, making for an astounding eleven artists at the event. 
+
+Take a look at this powerhouse lineup of artists scheduled to sign, including Anson Maddocks (who was originally unscheduled, but showed up anyway):
+
+Rob Alexander  
+ Mark Tedin  
+ rk post  
+ Pete Venters  
+ Anson Maddocks  
+ Brian Snoddy  
+ Darrell Riche  
+ Martine Pilcerova  
+ Sam Wood
+
+As I noted earlier, since most of the early Magic artists were recruited locally, there's a lot of Magic history in attendance here as well. We chatted with a few of the artists to find out how they got involved in doing art for the game, and to check in on what they are doing now.
+
+### Rob Alexander
+
+![](http://www.wizards.com/sideboard/images/ptsea04/feat5_2.jpg)
+
+Rob has been involved (as he put it) "since the beginning. I actually did some artwork for Wizards of the Coast before Magic, back when they were working on roleplaying books." He used to live in Seattle in Magic's early days, but has since relocated south to Eugene, Ore. Many of you know Rob for his brilliant work on the lands of Magic, but more recently he's been branching out into some character art (or as we would call them, spells and creatures). 
+
+"It's funny. I used to play Magic a lot back in the early days, but I kind of faded away from the game about the time it became a competitive phenomenon," Alexander said. "Way back in the day, there used to be a Friday night poker night where a bunch of us would gather at Phil Foglio's place to play, but for the first couple of years after Magic came out, all we would do is sling spells."
+
+Rob is actually one of the artistic designers for the upcoming Champions of Kamigawa series, and it's his work that is actually on the giant Champions banner displayed in the tournament hall this weekend. Rob says he still loves working with the game, and the vibrant fan base is one of the things that continues to be rewarding.
+
+### Mark Tedin
+
+If you talk to Vintage players, there are few artists that they would be happier to see at a show than Mark Tedin. Mark left a huge mark on the early days of Magic through his illustrations on Timetwister and Sol Ring, and his work can be seen on new cards such as Myr Matrix as well.
+
+"I've been involved since 1992.," Tedin said. "Anson (Maddox) called me when I was in grad school and told me this company was looking for artists, and that I should check into it. I knew I wanted to live in the Northwest anyway, so I decided to move to Seattle, and started doing work for Wizards. Twelve years later (minus a year or two off), I'm still working for them."
+
+He said he finds it a little strange that people bring him large stacks of Alpha cards to sign, but it's interesting that those cards are still around and have increased in value so much. When I asked him whether it felt a little weird signing his name to what can essentially be one hundred and five hundred dollar bills, he responded, "Nah, but it makes me wish I'd kept a few more of them for myself."
+
+### rk post
+
+![](http://www.wizards.com/sideboard/images/ptsea04/feat5_1.jpg)
+
+rk post is actually a personal favorite of mine, and it was a pleasure to meet him. He currently resides in Tacoma, Wash., so it was a short trip for him to come up and attend the show. He's been working on Magic art since Exodus and is most famous for his artwork on cards like Morphling, and the awesome Avatar series from Prophecy. When asked what he particularly liked about working on Magic art, he stated that the immense fan base was a nice bonus for artists to have, since it gives their art widespread publicity. rk works on a variety of other gaming and movie projects outside of Magic the Gathering, but he confirmed that he too will have some new pieces on display in the upcoming Champions of Kamigawa block.

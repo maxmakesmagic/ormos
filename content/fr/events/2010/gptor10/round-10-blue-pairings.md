@@ -1,0 +1,55 @@
+---
+id: yyjg8dgs
+kind: event
+lang: fr
+path: /fr/events/2010/gptor10/round-10-blue-pairings
+title: Round 10 Blue Pairings
+published: '2010-10-23'
+column_slug: null
+column: null
+authors: []
+event_code: gptor10
+detected_lang: fr
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gptor10/pairblue10
+    lang_detected: fr
+    capture_id: 482684
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gptor10/pairblue10
+    captured_at: '2013-07-03 02:39:08+00'
+    rule: aspx.article_heading
+  published:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gptor10/pairblue10
+    lang_detected: fr
+    capture_id: 482684
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gptor10/pairblue10
+    captured_at: '2013-07-03 02:39:08+00'
+    rule: aspx.byline_date
+  event_code:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gptor10/pairblue10
+    lang_detected: fr
+    capture_id: 482684
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gptor10/pairblue10
+    captured_at: '2013-07-03 02:39:08+00'
+    rule: url.event_code
+sources:
+- document_id: yyjg8dgs
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gptor10/pairblue10
+  page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gptor10/pairblue10
+  lang: fr
+  template: aspx
+  captured_at: '2013-07-03 02:39:08+00'
+  capture_id: 482684
+  wayback_url: https://web.archive.org/web/20130703023908id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gptor10/pairblue10
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: yyjg8dgs
+  capture_id: 482684
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gptor10/pairblue10
+  wayback_url: https://web.archive.org/web/20130703023908id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gptor10/pairblue10
+  captured_at: '2013-07-03 02:39:08+00'
+  template: aspx
+  sha256: aa9788dc944b3d40a6215d355a9db4ca66d1b0a7d693b9d81a032b06e1fc48d4
+render_recovery: []
+---
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130703023908/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gptor10/pairblue10">&#10;        <b>Table</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130703023908/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gptor10/pairblue10">&#10;        <b>Player</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130703023908/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gptor10/pairblue10">&#10;        <b>Points</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130703023908/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gptor10/pairblue10">&#10;        <b>&#10;      </b></a><b>&#10;    </b></td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130703023908/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gptor10/pairblue10">&#10;        <b>Opponent</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130703023908/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gptor10/pairblue10">&#10;        <b>Points</b>&#10;      </a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>325</td>&#10;    <td>Smithers, Jonathan [CAN]</td>&#10;    <td> 27</td>&#10;    <td>vs.</td>&#10;    <td>Woods, Conley L [USA]</td>&#10;    <td> 27</td>&#10;  </tr>&#10;  <tr>&#10;    <td>326</td>&#10;    <td>Hicks, Steven T [CAN]</td>&#10;    <td> 27</td>&#10;    <td>vs.</td>&#10;    <td>Franzini, Giancarlo E [CAN]</td>&#10;    <td> 24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>327</td>&#10;    <td>Szelzki, Jeffrey P [CAN]</td>&#10;    <td> 24</td>&#10;    <td>vs.</td>&#10;    <td>Nass, Matthew L [CAN]</td>&#10;    <td> 24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>328</td>&#10;    <td>Williams, David A [USA]</td>&#10;    <td> 24</td>&#10;    <td>vs.</td>&#10;    <td>Howard, David C [CAN]</td>&#10;    <td> 24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>329</td>&#10;    <td>Bax, Will C [CAN]</td>&#10;    <td> 24</td>&#10;    <td>vs.</td>&#10;    <td>Ravitz, Joshua P [USA]</td>&#10;    <td> 24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>330</td>&#10;    <td>Chen, Danny [USA]</td>&#10;    <td> 24</td>&#10;    <td>vs.</td>&#10;    <td>Dos Remedios, Aaron K [CAN]</td>&#10;    <td> 24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>331</td>&#10;    <td>St-amour, Joel [CAN]</td>&#10;    <td> 24</td>&#10;    <td>vs.</td>&#10;    <td>Nelson, Brad J [CAN]</td>&#10;    <td> 24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>332</td>&#10;    <td>Watanabe, Yuuya [CAN]</td>&#10;    <td> 24</td>&#10;    <td>vs.</td>&#10;    <td>Froehlich, Eric [USA]</td>&#10;    <td> 24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>333</td>&#10;    <td>Wemyss, Ceilyn [CAN]</td>&#10;    <td> 24</td>&#10;    <td>vs.</td>&#10;    <td>Marsan, Thomas [CAN]</td>&#10;    <td> 22</td>&#10;  </tr>&#10;  <tr>&#10;    <td>334</td>&#10;    <td>Gottlieb, Bryan M [CAN]</td>&#10;    <td> 22</td>&#10;    <td>vs.</td>&#10;    <td>Bray, Shawn M [USA]</td>&#10;    <td> 22</td>&#10;  </tr>&#10;  <tr>&#10;    <td>335</td>&#10;    <td>Plurkowski, Luke [USA]</td>&#10;    <td> 22</td>&#10;    <td>vs.</td>&#10;    <td>O'donnell, Brendan A [CAN]</td>&#10;    <td> 22</td>&#10;  </tr>&#10;  <tr>&#10;    <td>336</td>&#10;    <td>Howden, Jason [CAN]</td>&#10;    <td> 22</td>&#10;    <td>vs.</td>&#10;    <td>Stolze, Philip [USA]</td>&#10;    <td> 22</td>&#10;  </tr>&#10;  <tr>&#10;    <td>337</td>&#10;    <td>Held, Jeffrey R [CAN]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Toussaint, Francis [CAN]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>338</td>&#10;    <td>Imperiale, Jason [CAN]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Mitamura, Kazuya [CAN]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>339</td>&#10;    <td>Tharmaratnam, Samuel [CAN]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Baglio, Matthew D [CAN]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>340</td>&#10;    <td>Johnson, Paul [CAN]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Dumanski, Lukasz E [USA]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>341</td>&#10;    <td>Fisher, Chris A [USA]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Sonne, Jonathan E [USA]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>342</td>&#10;    <td>Gallagher, Eugene [CAN]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Le, Vincent [USA]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>343</td>&#10;    <td>Parker, Brock R [USA]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Baxter, Jeff [CAN]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>344</td>&#10;    <td>Held, Eric J [CAN]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Rietze, Robert J [CAN]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>345</td>&#10;    <td>Sulla, Aaron M [CAN]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Ross, Jonathan D [USA]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>346</td>&#10;    <td>Visconti, Tom [CAN]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Potvin, Guillaumo [CAN]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>347</td>&#10;    <td>Côté, Samuel [CAN]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Pathirana, Madhushan [CAN]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>348</td>&#10;    <td>Christensen, Kyle [USA]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Turtenwald, Owen [CAN]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>349</td>&#10;    <td>Kramer, Daniel [CAN]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Quinton, Shayne A [USA]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>350</td>&#10;    <td>Bates, Josh C [CAN]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Renton, Stephen [USA]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>351</td>&#10;    <td>Nakamura, Shuuhei [CAN]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Savoie, Alexandre [CAN]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>352</td>&#10;    <td>Wood, Matthew E [CAN]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Brown, Duncan [USA]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>353</td>&#10;    <td>Patterson, Luke [USA]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Mcwhaw, Andrew J [USA]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>354</td>&#10;    <td>Calcano, Christian [CAN]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Kestenberg, Lee [USA]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>355</td>&#10;    <td>Kolos, John C [CAN]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Fabiano, Gerard [USA]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>356</td>&#10;    <td>Wells, Brian D [CAN]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Tomik, Steve M [CAN]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>357</td>&#10;    <td>Saito, Tomoharu [CAN]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Schnayer, David G [CAN]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>358</td>&#10;    <td>Rietzl, Paul R [USA]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Moore, John E [CAN]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>359</td>&#10;    <td>Mclaughlin, Morgan [USA]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Jurkovic, Stan [USA]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>360</td>&#10;    <td>Kuo, Tzu Ching C [CAN]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Antonescu, Christian L [USA]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>361</td>&#10;    <td>Fiorilli, Richard [USA]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Fujino, Mitchell T [CAN]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>362</td>&#10;    <td>Muraca, Nick [USA]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Lee, Albert [CAN]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>Locke, Matt [USA]</td>&#10;    <td> 21</td>&#10;    <td>&#10;    </td><td>* BYE *</td>&#10;    <td>&#10;  </td></tr>&#10;</tbody></table>

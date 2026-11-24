@@ -1,0 +1,176 @@
+---
+id: ye56t6xq
+kind: article
+lang: en
+path: /en/articles/learningcurve/2003/03-12-tale-of-the-tape
+title: Tale of the Tape
+published: '2003-03-12'
+column_slug: learningcurve
+column: Learning Curve
+authors:
+- slug: briandavidmarshall
+  name: Brian David-Marshall
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/learning-curve/tale-tape-2003-03-12
+    lang_detected: en
+    capture_id: 738485
+    url: https://magic.wizards.com/en/articles/archive/learning-curve/tale-tape-2003-03-12
+    captured_at: '2022-01-27 12:37:08+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/learning-curve/tale-tape-2003-03-12
+    lang_detected: en
+    capture_id: 738485
+    url: https://magic.wizards.com/en/articles/archive/learning-curve/tale-tape-2003-03-12
+    captured_at: '2022-01-27 12:37:08+00'
+    rule: drupal.posted_in_date
+  authors:
+    page_key: magic.wizards.com/en/articles/archive/learning-curve/tale-tape-2003-03-12
+    lang_detected: en
+    capture_id: 738485
+    url: https://magic.wizards.com/en/articles/archive/learning-curve/tale-tape-2003-03-12
+    captured_at: '2022-01-27 12:37:08+00'
+    rule: drupal.div_author
+  column:
+    page_key: magic.wizards.com/en/articles/archive/learning-curve/tale-tape-2003-03-12
+    lang_detected: en
+    capture_id: 738485
+    url: https://magic.wizards.com/en/articles/archive/learning-curve/tale-tape-2003-03-12
+    captured_at: '2022-01-27 12:37:08+00'
+    rule: url.article_section
+    registry_match: registry.separator_and_case
+sources:
+- document_id: ye56t6xq
+  url: https://magic.wizards.com/en/articles/archive/learning-curve/tale-tape-2003-03-12
+  page_key: magic.wizards.com/en/articles/archive/learning-curve/tale-tape-2003-03-12
+  lang: en
+  template: drupal
+  captured_at: '2022-01-27 12:37:08+00'
+  capture_id: 738485
+  wayback_url: https://web.archive.org/web/20220127123708id_/https://magic.wizards.com/en/articles/archive/learning-curve/tale-tape-2003-03-12
+- document_id: ye56t6xq
+  url: http://www.wizards.com/default.asp?x=mtgcom/daily/bd62,,it,0
+  page_key: wizards.com/default.asp?x=mtgcom/daily/bd62
+  lang: en
+  template: classic_asp
+  captured_at: '2004-12-26 17:45:53+00'
+  capture_id: 1943448
+  wayback_url: https://web.archive.org/web/20041226174553id_/http://www.wizards.com/default.asp?x=mtgcom/daily/bd62,,it,0
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: ye56t6xq
+  capture_id: 738485
+  url: https://magic.wizards.com/en/articles/archive/learning-curve/tale-tape-2003-03-12
+  wayback_url: https://web.archive.org/web/20220127123708id_/https://magic.wizards.com/en/articles/archive/learning-curve/tale-tape-2003-03-12
+  captured_at: '2022-01-27 12:37:08+00'
+  template: drupal
+  sha256: 35c0618602759bc7588a468aa2d24bebd0ddcfe3c8c78630222d6dd23b0e1e08
+render_recovery: []
+---
+Wow.
+
+I received more feedback on my "[Ancient Art of Decking](/en/articles/learningcurve/2003/02-26-the-ancient-art-of-decking)" column than any two of my previous columns combined. Almost all of my correspondents wondered why I had overlooked their favorite methods of decking. According to my utterly unscientific polling, **MagicTheGathering.com** readers feel the top five overlooked methods, in order, were: 
+
+*   [Ambassador Laquatus](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ambassador+Laquatus)
+*   [Traumatize](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Traumatize)/[Haunting Echoes](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Haunting+Echoes)
+*   [Scalpelexis](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Scalpelexis)
+*   [Cephalid Broker](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cephalid+Broker)
+*   [Dreamborn Muse](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dreamborn+Muse)
+
+The article was not intended to be a comprehensive overview of every possible method to deck your opponent, but rather an introduction to the concept of decking. I am always grateful when readers write in with feedback -- this time, this was doubly true. Not just because of the volume of letters but because -- as I suggested in the opening of that column -- it gave me the inspiration for this week's topic. 
+
+It is interesting that four of the top five methods mentioned were creature-based -- a strategy I deliberately avoided when writing the article. Personally, I want to avoid using creatures in a -- well let's actually compare the top contenders from each category and see how they hold up against each other. 
+
+If you get the chance to choose between two similar effects for a deck -- one generated by a creature and the other by an artifact or enchantment -- which one do you want to choose for your deck? [Phyrexian Arena](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Phyrexian+Arena) or [Graveborn Muse](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Graveborn+Muse)? [Smokestack](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Smokestack) or [Braids, Cabal Minion](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Braids%2C+Cabal+Minion)? Or the title bout on today's fight card: 
+
+![Millstone](https://i.ormos.uk/17/20/1720a3f7005968c890b719c795ed625ee91dc5ab7fc06652f0c5f79911d594aa.jpg)
+
+![Ambassador Laquatus](https://i.ormos.uk/92/b1/92b1a0e04e7811edbd43a610d612252aa7588ff0ff1236053908da77bebc551f.jpg)
+
+### [Millstone](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Millstone)  
+vs.  
+[Ambassador Laquatus](https://web.archive.org/web/20030312000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Ambassador%2BLaquatus)
+
+Round one: Mana Cost
+
+[Millstone](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Millstone) is the clear winner in this category, as it requires only two mana to the Ambassador's three. If you are playing first and play the [Millstone](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Millstone) on turn two, your opponent has to have a [Force Spike](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Force+Spike) or an alternative-cost counterspell in order to counter it. If you are playing first with Ambassador, your opponent could have any number of counters, from the above mentioned [Force Spike](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Force+Spike) to [Remove Soul](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Remove+Soul).
+
+Advantage: [Millstone](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Millstone)
+
+Round two: Colored Mana Cost
+
+Again, [Millstone](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Millstone) is going to be the clear winner here. Two colorless mana is virtually impossible to miss on turn two. In a two-color deck you cannot guarantee having the 1 ![](https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/blue.gif)![](https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/blue.gif) required to play the popular Merfolk Legend by turn three. Obviously, you could play a monocolored deck and be assured of casting [Ambassador Laquatus](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ambassador+Laquatus), but that only underscores my point. You could play with [Millstone](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Millstone) in a five-color deck and always have two colorless mana for the 'Stone -- you do not need to adjust your mana for an artifact. 
+
+Advantage: [Millstone](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Millstone)
+
+Round three: Activation Cost
+
+The first three categories are all slam dunks for our friend the [Millstone](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Millstone). If you want to use your decking device the turn you play it, then you can slap the [Millstone](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Millstone) down on turn four -- two to cast and another two to activate. [Ambassador Laquatus](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ambassador+Laquatus) would not be able to see play until turn six -- and still only if you have the two blue mana you need to play him. [Millstone](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Millstone)'s cheaper activation cost also makes protecting your victory condition easier to do. At two mana, you will still have ample mana to protect your artifact with counterspells. 
+
+Advantage: [Millstone](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Millstone)
+
+Round four: Attacking and Blocking
+
+No contest here. With very few historical exceptions, [Millstone](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Millstone)s don't attack or block. It's unlikely that you will want to use your Ambassador in such a fashion, but it is conceivable that it could win a game for you by swinging in for the final point of damage -- unlikely but conceivable. 
+
+Advantage: [Ambassador Laquatus](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ambassador+Laquatus)
+
+Round five: Legendary Status
+
+An opening hand with multiple Merfolk diplomats is essentially a mulligan, as you can have only one in play at a time because it's a Legend. You can play all the [Millstone](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Millstone)s you draw without fear of the Legend rule sending the latecomers to the graveyard. On the other hand, you need only one Ambassador to do the work of multiple [Millstone](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Millstone)s. If you can Wish or Tutor for it . . . 
+
+Advantage: Push
+
+Round six: Wish-Accessible
+
+[Living Wish](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Living+Wish) is several million times better than the impossibly expensive [Golden Wish](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Golden+Wish). If you are relying on Wishes to get a lone copy from your sideboard, the Ambassador{Ambassador Laquatus} is clearly going to win this round. 
+
+Advantage: [Ambassador Laquatus](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ambassador+Laquatus)
+
+Round seven: Tutor-ability
+
+This is tough to evaluate. Both cards can be sought with [Vampiric Tutor](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vampiric+Tutor), [Diabolic Tutor](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Diabolic+Tutor), and so on. I guess it comes down to [Enlightened Tutor](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Enlightened+Tutor) vs. [Worldly Tutor](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Worldly+Tutor). I know it is going to be an unpopular decision, but I have to give the edge to [Enlightened Tutor](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Enlightened+Tutor) because of the color restrictions. Suddenly you're playing ![](https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/blue.gif)-![](https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/green.gif) if you use Worldly Tutor or ![](https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/blue.gif)-![](https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/white.gif)-![](https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/green.gif) if you are using Eladam![](https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/red.gif)![](https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/infinity.gif)'![](https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/snow.gif)![](https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/chaos.gif)all. Once again, the Ambassador's colored-mana commitment works against it here. 
+
+Advantage: [Millstone](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Millstone)
+
+Round eight: Removal (Your Opponent's) 
+
+The list of spells that can eliminate an Ambassador are endless. From Innocent Blood to [Dregs of Sorrow](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dregs+of+Sorrow), from [Lightning Bolt](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lightning+Bolt) to [Inferno](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Inferno), there are countless spells that can eliminate a 1/3 with a converted mana cost of three. I would venture to say there are literally hundreds of spells that can kill a creature. I would further venture that that class of spells forms the second largest component of the majority of decks (after creatures). How often do you find a deck that doesn't have some answer to a creature? Now think about how often you can say that about an artifact. If there are hundreds of answers to creatures in the **Magic** game, then I would guess there are merely dozens that can deal with an artifact. Often, these spells don't make a maindeck appearance and are instead relegated to the sideboard, conceding game one to the artifact. 
+
+Advantage: [Millstone](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Millstone)
+
+Round nine: Removal (Your Own) 
+
+Traditionally, a deck that relies on running your opponent out of cards has to have an answer to creatures. Unless your answer is [Moat](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Moat), the Ambassador will get caught in the fallout. [Wrath of God](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wrath+of+God) and [Rout](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rout) are two cards commonly seen in conjunction with [Millstone](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Millstone) that would also take out your decking mechanism if you opted for the Ambassador. Interestingly, the recently printed Wrath variant [Akroma's Vengeance](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Akroma%27s+Vengeance) also destroys enchantments and artifacts -- probably not a good choice with either card. 
+
+Advantage: [Millstone](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Millstone)
+
+Round ten: The Big Turn
+
+[Millstone](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Millstone) is definitely the tortoise to the Ambassador's hare. [Millstone](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Millstone) tends to come down early and chip away at your opponent's deck when the mana is available. If it gets destroyed you shrug and play another. Even if it does not finish the game in play, a few turns of milling will allow you to win the game if you can survive the threats your opponent throws at you. Ambassador on the other hand tends to come out and sprint like crazy, activating multiple times a turn. Often, a player relying on an Ambassador strategy will win the turn it comes into play. This usually requires a lot of mana fueled by some type of card combination. 
+
+While I prefer the tortoise style of play outlined in the former example, the criteria for this category has to favor the hare. 
+
+Advantage: [Ambassador Laquatus](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ambassador+Laquatus)
+
+Final round count: [Millstone](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Millstone) -- 6; [Ambassador Laquatus](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ambassador+Laquatus) -- 3; Undecided -- 1
+
+If you are going to build a deck around one of these two cards I would almost always favor the [Millstone](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Millstone) for the reasons outlined above. 
+
+*   The [Millstone](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Millstone) is cheaper to play and activate.
+*   You can play with multiple copies of Millstone without fear of redundant draws that are virtual mulligans due to the fact that [Ambassador Laquatus](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ambassador+Laquatus) is a Legend.
+*   Even though the Ambassador has some of the benefits of creature-dom, such as attacking and blocking, it will be hard pressed to fight through the spot- and mass-creature removal that your opponents will likely have. Plus, decks that win by "milling" generally will not benefit from a random small attacker.
+*   [Ambassador Laquatus](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ambassador+Laquatus) also has difficulty getting past any mass-creature removal you are likely to be running to support a deck depletion strategy.
+
+This is not to say that there aren't going to be specific decks that the Ambassador will not be more suited for. 
+
+*   Decks that rely on Living Wish will often have an excellent target in a sideboarded Legend.
+*   Combo decks that generate arbitrarily large amounts of mana will better exploit the Ambassador than the slow and steady [Millstone](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Millstone).
+
+Before I sign off, I would like to dedicate a paragraph to the proponents of a [Traumatize](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Traumatize)/[Haunting Echoes](https://web.archive.org/web/20030312000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Haunting+Echoes) strategy. Many of you felt that this was a powerful plan to defeat an opponent. While it is a lot of fun, it relies on two separate five-mana-cost sorceries. Traumatize really does very little to help you win by itself if your opponent has the upper hand. If you replace your Traumatizes with mass-removal spells and maybe add some targeted hand removal, you will find that the Haunting Echoes are pretty darn good all by themselves. 
+
+Thanks again to everyone that wrote. I am bracing myself for a similar volume of mail this week, which will undoubtedly allow me to throw you another learning curve.
+
+*Brian may be reached at brian@fightlikeapes.com.*

@@ -1,0 +1,91 @@
+---
+id: mcq0x067
+kind: event
+lang: en
+path: /en/events/2003/gpatl03/from-worlds-to-boston-magics-grand-tour
+title: 'From Worlds to Boston: Magic''s Grand Tour'
+published: null
+column_slug: null
+column: null
+authors: []
+event_code: gpatl03
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/article.aspx?x=sideboard/gpatl03/intl
+    lang_detected: en
+    capture_id: 839701
+    url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/gpatl03/intl
+    captured_at: '2013-07-06 02:17:46+00'
+    rule: aspx.article_heading
+  event_code:
+    page_key: wizards.com/magic/magazine/article.aspx?x=sideboard/gpatl03/intl
+    lang_detected: en
+    capture_id: 839701
+    url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/gpatl03/intl
+    captured_at: '2013-07-06 02:17:46+00'
+    rule: url.event_code
+sources:
+- document_id: mcq0x067
+  url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/gpatl03/intl
+  page_key: wizards.com/magic/magazine/article.aspx?x=sideboard/gpatl03/intl
+  lang: en
+  template: aspx
+  captured_at: '2013-07-06 02:17:46+00'
+  capture_id: 839701
+  wayback_url: https://web.archive.org/web/20130706021746id_/http://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/gpatl03/intl
+- document_id: mcq0x067
+  url: http://www.wizards.com/default.asp?x=sideboard/gpatl03/intl,,it
+  page_key: wizards.com/default.asp?x=sideboard/gpatl03/intl
+  lang: en
+  template: classic_asp
+  captured_at: '2005-01-24 16:32:29+00'
+  capture_id: 2200860
+  wayback_url: https://web.archive.org/web/20050124163229id_/http://www.wizards.com/default.asp?x=sideboard/gpatl03/intl,,it
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: mcq0x067
+  capture_id: 839701
+  url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/gpatl03/intl
+  wayback_url: https://web.archive.org/web/20130706021746id_/http://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/gpatl03/intl
+  captured_at: '2013-07-06 02:17:46+00'
+  template: aspx
+  sha256: d4a393d84c85cd273fb66f6654f4164bfaaa4549f1d6971a8413f1768c33869b
+render_recovery: []
+---
+There are several players here in Atlanta from different countries: Argentina, Germany, Brazil, the Netherlands, even Australia! This high international turnout for a U.S. Grand Prix is probably due to the fact that Pro Tour: Boston is scheduled for the weekend of Sept. 12th, and many players were already planning on traveling to the U.S. for that. It's not difficult for people already traveling for Magic to stay in different cities for a few extra days, or even a week, and these players here for the Grand Prix are all going to take advantage of the pro Magic player's uniquely flexible schedule.
+
+**The South Americans: Carlos Romão, Diego Ostrovich** 
+
+![](https://i.ormos.uk/fa/55/fa55be614aceb1f675ecbdaf3a8fd62ba211c1d7a671d30a8d70b7151f9c2f0e.jpg)Former World Champion Carlos Romão plans to be in Atlanta with his team for the next two weeks, and from there, he'll be flying to Boston. "They told me that the Coca-Cola museum \[in Atlanta\] is neat," he commented. Until he leaves for Boston, though, he'll be hanging around Atlanta testing with the Dutch and the Germans. The current plan is for them to play a great deal of Magic – we should all be so lucky as to have the chance to test Team Sealed with Phoenix Foundation and the Dutch! 
+
+  
+  
+
+**The Australian: The Ben Seck** 
+
+![](https://i.ormos.uk/99/54/9954f3c66b753db108d76bb9d16596e333c8519ef9b86bba2189b1d59b799cf8.jpg)Ben Seck's own personal Grand Tour began in Bangkok, Thailand at GP: Bangkok, and will finish up the week after Pro Tour: Boston. His destinations have been varied and his pace has been nothing short of hectic. From Bangkok, he went to London, then to The Netherlands, to Germany for Worlds, from there to London for GP: London, then New York City, then here in Atlanta. He'll spend a week in Atlanta, and then head back to New York City before ending up in Boston for the Pro Tour.
+
+Seck will be headlining a team that includes Daniel Zink, the reigning World Champion and his good friend Andy Wolf. The members of this team ("team name to be revealed in Boston," Seck jokes) have never tested together before, but with both Zink and Dirk Baberowski arriving in the coming week, they'll be sure to get a lot of excellent practice in. "I'm mostly here to hang around, though - I'm not the testing machines that the Dutch are," Seck said.
+
+  
+  
+
+**The Dutch: Victor van den Broek, Jeroen Remie, Jelger Wiegersma, Frank Karsten** 
+
+![](https://i.ormos.uk/fc/61/fc611e571988aa0013e6d75abb54a5c44636b5c145622f3dadfe2dc7109f3e5b.jpg)The often-aforementioned Dutch contingency will also be hanging around Atlanta for these next two weeks. "We're going to Six Flags!" Jeroen said excitedly while shuffling for the second game of a match. 
+
+"We're going to be doing a lot of team drafts and Team Sealed," Victor corrected. Regardless of what they find to occupy their time in Atlanta, lots of Magic will probably figure into the schedule. They're staying the next few weeks in an insanely cheap hotel room (I won't tell you what they paid, but it's an amazing deal) with Kai Budde and Marco Blume. 
+
+Their plans may include a stop at Brian Kibler's place, since everyone's favorite Dragon Master will be turning 23 this year. "If I have a place to live, I will definitely throw a party," Brian said. Other than that, there's a great deal of Magic on the agenda for the diligent Dutch team.
+
+  
+  
+
+**Ze Germans: Kai Budde, Marco Blume** 
+
+![](https://i.ormos.uk/9c/e8/9ce8db0a465beb200c40cee348ee655336ad5ae84fec30b433ddc8657adf8d19.jpg)Everyone knows by now that there's a horde of people staying, with the most prominent being the members of Phoenix Foundation. "We're not doing anything interesting, just playing all the time," Kai commented. They did a similar thing last year, staying in the Atlanta to prepare for the upcoming team Pro Tour.
+
+"I hate traveling," Marco Blume interjected. "I travel so much, and I'm getting sick of it." He may be quitting the frantic pace of competitive Magic after Boston, but time will tell if this resolution will stick. Either way, we won't be seeing the last of Magic's lovable juggernauts.
+
+It's truly a treat to have these international players at this event. It gives local players from Atlanta the chance to meet some of the best-known Magic players from around the world, and to realize just how diverse and interesting Magic players are. Good luck to all the teams testing in Atlanta for Boston!

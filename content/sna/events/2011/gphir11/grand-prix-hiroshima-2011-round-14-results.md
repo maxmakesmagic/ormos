@@ -1,0 +1,63 @@
+---
+id: fxcqb7va
+kind: event
+lang: sna
+path: /sna/events/2011/gphir11/grand-prix-hiroshima-2011-round-14-results
+title: Grand Prix Hiroshima 2011 Round 14 Results
+published: '2011-10-30'
+column_slug: null
+column: null
+authors: []
+event_code: gphir11
+detected_lang: sna
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-hiroshima-2011-round-14-results-2011-10-30
+    lang_detected: sna
+    capture_id: 401444
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-hiroshima-2011-round-14-results-2011-10-30
+    captured_at: '2022-01-25 14:46:01+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-hiroshima-2011-round-14-results-2011-10-30
+    lang_detected: sna
+    capture_id: 401444
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-hiroshima-2011-round-14-results-2011-10-30
+    captured_at: '2022-01-25 14:46:01+00'
+    rule: drupal.posted_in_date
+  event_code:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gphir11/res14
+    lang_detected: sna
+    capture_id: 428307
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gphir11/res14
+    captured_at: '2013-07-01 02:45:45+00'
+    rule: url.event_code
+sources:
+- document_id: fxcqb7va
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-hiroshima-2011-round-14-results-2011-10-30
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-hiroshima-2011-round-14-results-2011-10-30
+  lang: sna
+  template: drupal
+  captured_at: '2022-01-25 14:46:01+00'
+  capture_id: 401444
+  wayback_url: https://web.archive.org/web/20220125144601id_/https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-hiroshima-2011-round-14-results-2011-10-30
+- document_id: fxcqb7va
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gphir11/res14
+  page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gphir11/res14
+  lang: sna
+  template: aspx
+  captured_at: '2013-07-01 02:45:45+00'
+  capture_id: 428307
+  wayback_url: https://web.archive.org/web/20130701024545id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gphir11/res14
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: fxcqb7va
+  capture_id: 401444
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-hiroshima-2011-round-14-results-2011-10-30
+  wayback_url: https://web.archive.org/web/20220125144601id_/https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-hiroshima-2011-round-14-results-2011-10-30
+  captured_at: '2022-01-25 14:46:01+00'
+  template: drupal
+  sha256: 10ec23e6fdb699a010cfd02c9b84ca58d0a0bdee6587f9d1aedfbf9b41087799
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Result</b></td><td><b>&#10;						</b></td><td><b>Opponent</b></td></tr><tr><td> 1</td><td>Shiraki, Takahiro</td><td>Drew 0-0-0</td><td>vs.</td><td>Juza, Martin</td></tr><tr><td> 2</td><td>Asahara, Akira</td><td>Won 2-1</td><td>vs.</td><td>Ikawa, Yoshihiko</td></tr><tr><td> 3</td><td>Senba, Koutarou</td><td>Lost 1-2</td><td>vs.</td><td>Oiso, Masashi</td></tr><tr><td> 4</td><td>Iwasaki, Yuusuke</td><td>Lost 1-2</td><td>vs.</td><td>Onizuka, Hiroshi</td></tr><tr><td> 5</td><td>Nonaka, Kentarou</td><td>Lost 1-2</td><td>vs.</td><td>Tanaka, Kouichi</td></tr><tr><td> 6</td><td>Naoki O.</td><td>Won 2-0</td><td>vs.</td><td>Sasaki, Tsutomu</td></tr><tr><td> 7</td><td>Satou, Rin</td><td>Won 2-1</td><td>vs.</td><td>Jen, Chien-Ming</td></tr><tr><td> 8</td><td>Tashiro, Kouichi</td><td>Won 2-0</td><td>vs.</td><td>Akimasa Y.</td></tr><tr><td> 9</td><td>Hirabayashi, Kazuya</td><td>Lost 0-2</td><td>vs.</td><td>Hiroshi I.</td></tr><tr><td> 10</td><td>Ueyama, Yuji</td><td>Won 2-1</td><td>vs.</td><td>Yamauchi, Satoshi</td></tr><tr><td> 11</td><td>Pham, Daniel H</td><td>Lost 0-2</td><td>vs.</td><td>Hirayama, Atsushi</td></tr><tr><td> 12</td><td>Kameyama, Takeshi</td><td>Won 2-0</td><td>vs.</td><td>Yamasaki, Yoshitaka</td></tr><tr><td> 13</td><td>Takahashi, Yuuta</td><td>Lost 0-2</td><td>vs.</td><td>Hiraga, Masahiro</td></tr><tr><td> 14</td><td>Terada, Shuuhei</td><td>Won 2-1</td><td>vs.</td><td>Tsumura, Kenji</td></tr><tr><td> 15</td><td>Sui, Xin</td><td>Won 2-1</td><td>vs.</td><td>Takagi, Takeshi</td></tr><tr><td> 16</td><td>Kawamura, Kazushi</td><td>Lost 0-2</td><td>vs.</td><td>Ootsuka, Koutarou</td></tr><tr><td> 17</td><td>Shimizu, Naoki</td><td>Won 2-0</td><td>vs.</td><td>Murakami, Kazuya</td></tr><tr><td> 18</td><td>Nakano, Yoshitaka</td><td>Won 2-0</td><td>vs.</td><td>Nishizawa, Yasuhide</td></tr><tr><td> 19</td><td>Oohashi, Toshiya</td><td>Won 2-0</td><td>vs.</td><td>Kamo, Riki</td></tr><tr><td> 20</td><td>Endou, Ryouta</td><td>Won 2-0</td><td>vs.</td><td>Inoue, Tooru</td></tr><tr><td> 21</td><td>Nakazono, Kouya</td><td>Won 2-0</td><td>vs.</td><td>Yasuda, Masayuki</td></tr><tr><td> 22</td><td>Honnami, Tomoyuki</td><td>Won 2-0</td><td>vs.</td><td>Motiki A.</td></tr><tr><td> 23</td><td>Yamaguchi, Satoshi</td><td>Lost 1-2</td><td>vs.</td><td>Akiyama, Takashi</td></tr><tr><td> 24</td><td>Abe, Keisuke</td><td>Won 2-1</td><td>vs.</td><td>Satou, Takashi</td></tr><tr><td> 25</td><td>Sugaya, Hironobu</td><td>Won 2-0</td><td>vs.</td><td>Sakamoto, Sakito</td></tr><tr><td> 26</td><td>Morita, Masahiko</td><td>Lost 1-2</td><td>vs.</td><td>Watanabe, Yuuya</td></tr><tr><td> 27</td><td>Nakano, Tatsuhito</td><td>Won 2-1</td><td>vs.</td><td>Saitou, Takaya</td></tr><tr><td> 28</td><td>Ami, Souichirou</td><td>Lost 1-2</td><td>vs.</td><td>Mori, Katsuhiro</td></tr><tr><td> 29</td><td>Ino, Kentarou</td><td>Lost 1-2</td><td>vs.</td><td>Harano, Takahiro</td></tr><tr><td> 30</td><td>Matsumura, Toshikazu</td><td>Won 2-1</td><td>vs.</td><td>Wada, Hiroya</td></tr><tr><td> 31</td><td>Matsuda, Tomohiro</td><td>Won 2-0</td><td>vs.</td><td>Matsuo, Yoshiyuki</td></tr><tr><td> 32</td><td>Takebayashi, Tomo</td><td>Won 2-1</td><td>vs.</td><td>Uchida, Momotarou</td></tr><tr><td> 33</td><td>Morofuji, Takuma</td><td>Lost 1-2</td><td>vs.</td><td>Kenta S.</td></tr><tr><td> 34</td><td>Miyata, Yuuya</td><td>Lost 0-2</td><td>vs.</td><td>Nakajima, Chikara</td></tr><tr><td> 35</td><td>Ichikawa, Norikazu</td><td>Won 2-1</td><td>vs.</td><td>Takahasshi, Kazuya</td></tr><tr><td> 36</td><td>Fujimoto, Takehiro</td><td>Lost 0-2</td><td>vs.</td><td>Hitomi, Masaaki</td></tr><tr><td> 37</td><td>Imai, Satoshi</td><td>Lost 0-2</td><td>vs.</td><td>Takeuchi, Ryouta</td></tr><tr><td> 38</td><td>Koyama, Yuuzi</td><td>Lost 1-2</td><td>vs.</td><td>Sasaki, Yuusuke</td></tr><tr><td> 39</td><td>Hiramatsu, Mamoru</td><td>Lost 1-2</td><td>vs.</td><td>Kuwahara, Yoshiki</td></tr><tr><td> 40</td><td>Yanase, Kaname</td><td>Lost 1-2</td><td>vs.</td><td>Hiyoshi, Tastuhiko</td></tr><tr><td> 41</td><td>Oosawa, Jun</td><td>Won 2-1</td><td>vs.</td><td>Hoshino, Masaaki</td></tr><tr><td> 42</td><td>Sunaga, Masahiro</td><td>Lost 1-2</td><td>vs.</td><td>Inoue, Shinta</td></tr><tr><td> 43</td><td>Kitayama, Masaya</td><td>Won 2-1</td><td>vs.</td><td>Moriya, Toshihiko</td></tr><tr><td> 44</td><td>Yamaguchi, Koutarou</td><td>Lost 0-2</td><td>vs.</td><td>Nakamura, Jun'ya</td></tr><tr><td> 45</td><td>Kanno, Masayoshi</td><td>Lost 1-2</td><td>vs.</td><td>Takao, Shouta</td></tr><tr><td> 46</td><td>Terauchi, Tatsuya</td><td>Lost 0-2</td><td>vs.</td><td>Brumby, Gene</td></tr><tr><td> 47</td><td>Shimada, Masahiko</td><td>Lost 0-2</td><td>vs.</td><td>Miura, Yuuki</td></tr><tr><td> 48</td><td>Ogura, Takamasa</td><td>Won 2-1</td><td>vs.</td><td>Iwaide, Yoshitaka</td></tr><tr><td> 49</td><td>Naitou, Takashi</td><td>Lost 0-2</td><td>vs.</td><td>Sakai, Yoshitoki</td></tr><tr><td> 50</td><td>Itou, Tomoya</td><td>Won 2-0</td><td>vs.</td><td>Kumazaki, Taisuke</td></tr></tbody></table>

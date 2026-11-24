@@ -1,0 +1,160 @@
+---
+id: 4c3avg8e
+kind: article
+lang: en
+path: /en/articles/feature/2012/08-22-planeswalkers-guide-to-part-1
+title: 'Planeswalker''s Guide to : Part 1'
+published: '2012-08-22'
+column_slug: feature
+column: Feature
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-part-1-2012-08-22
+    lang_detected: en
+    capture_id: 656300
+    url: https://magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-part-1-2012-08-22
+    captured_at: '2022-06-27 02:14:22+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-part-1-2012-08-22
+    lang_detected: en
+    capture_id: 656300
+    url: https://magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-part-1-2012-08-22
+    captured_at: '2022-06-27 02:14:22+00'
+    rule: drupal.posted_in_date
+  column:
+    page_key: magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-part-1-2012-08-22
+    lang_detected: en
+    capture_id: 656300
+    url: https://magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-part-1-2012-08-22
+    captured_at: '2022-06-27 02:14:22+00'
+    rule: url.article_section
+    registry_match: registry.explicit
+sources:
+- document_id: 4c3avg8e
+  url: https://magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-part-1-2012-08-22
+  page_key: magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-part-1-2012-08-22
+  lang: en
+  template: drupal
+  captured_at: '2022-06-27 02:14:22+00'
+  capture_id: 656300
+  wayback_url: https://web.archive.org/web/20220627021422id_/https://magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-part-1-2012-08-22
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 4c3avg8e
+  capture_id: 656300
+  url: https://magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-part-1-2012-08-22
+  wayback_url: https://web.archive.org/web/20220627021422id_/https://magic.wizards.com/en/articles/archive/feature/planeswalkers-guide-part-1-2012-08-22
+  captured_at: '2022-06-27 02:14:22+00'
+  template: drupal
+  sha256: 87d15a6d4d5c6cdd58fa8f94782158968cedde8dd087c8a4b8fa83be3525fe7e
+render_recovery: []
+---
+![](https://i.ormos.uk/ed/24/ed2466a92d3038154aa7508ba6e5bccc62c3eaa38340917f5d9af39082bc9908.png)
+
+[![](https://i.ormos.uk/0b/df/0bdf4fe8c4ad55fd67d5da49e57ecbf0178ff11de879bb8f62f7c5a7dcbce6ba.jpg)](https://web.archive.org/web/20120822000000/http://archive.wizards.com/magic/magazine/article.aspx?x=mtg/daily/feature/213a#azorius) [![](https://i.ormos.uk/a6/e7/a6e79595b38719d7fcf4c7a17f00cd45cd1ea859e2576239998bec8044349dc3.jpg)](https://web.archive.org/web/20120822000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/feature/211c#izzet) [![](https://i.ormos.uk/81/ec/81ec3d1cca4b8d0e5844ddbf60fb1a6c6c108d2c746e692e2153e7cadc22744e.jpg)](https://web.archive.org/web/20120822000000/http://archive.wizards.com/magic/magazine/article.aspx?x=mtg/daily/feature/213a#rakdos) [![](https://i.ormos.uk/75/e2/75e20330d804a4b5a5db13636fc881f11c05d907e245364e37be7ff59a908cfa.jpg)](https://web.archive.org/web/20120822000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/feature/211c#golgari) [![](https://i.ormos.uk/ee/ce/eeceb46de3509cbb7a846520222e3f6d9a0dfd834a9cf05d118b9d067b4ffc46.jpg)](https://web.archive.org/web/20120822000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/feature/209#selesnya) [![](https://i.ormos.uk/93/86/93862801462be60308b4e7ed0d2eb333a7244471954ba746c2048fd13c9f0df6.jpg)](https://web.archive.org/web/20120822000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/feature/225#orzhov) [![](https://i.ormos.uk/9d/00/9d00f15fafe0911b2cb790e513a14032a87f9fd0d21aa5d8d4a52d36911ff7ce.jpg)](https://web.archive.org/web/20120822000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/feature/224#dimir) [![](https://i.ormos.uk/3a/4d/3a4d2acb41e11707e066a1e84599f9efc1c83b94fd4c0f90cdcfd0c1e3669fb9.jpg)](https://web.archive.org/web/20120822000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/feature/225#gruul) [![](https://i.ormos.uk/cb/d9/cbd95c1dfaa2b4a28453bad7843423978f0358e3f05e389119c81811581054c8.jpg)](https://web.archive.org/web/20120822000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/feature/224#boros) [![](https://i.ormos.uk/b8/3a/b83a4a1435adbd54365bf168d659f21dfe470909149d2a993f9ba97e119be075.jpg)](https://web.archive.org/web/20120822000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/feature/225#simic) 
+
+  
+  
+
+![](https://i.ormos.uk/7d/f5/7df5e17da314c5db5e88571b74f5d202fa04245bcc5caa2ff54146e77906a9e1.jpg)
+
+[Plains](https://web.archive.org/web/20120822000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Plains) | Art by [Richard Wright](https://web.archive.org/web/20120822000000/http://gatherer.wizards.com/pages/search/default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22richard+wright%22%5D) 
+
+Ravnica is a sprawling cityscape so vast that it covers the entire world. This mosaic of Gothic spires, cobblestone plazas, dangerous slums, and ancient ruins is home to races and cultures of incredible diversity. From the smallest insect crawling through the Undercity to the majestic dragons circling on the horizon, an immeasurable population resides in this metropolis. A traveler could spend a lifetime exploring the open-air markets where anything is for sale, the awe-inspiring cathedrals that dominate the horizon, or the gilded museums showcasing archeological finds from Ravnica's ancient past. All walks of life can be found in this city, and there is a sharp contrast between places like the austere and immaculate Azorius Senate and the chaotic slums of the have-nots. Back-alley deals, crime syndicates, and the black market thrive on Ravnica, but the true power resides with the guilds.
+
+The ten guilds are the foundation of power on Ravnica, each with its own identity and civic function. The guilds have existed for centuries. Their history is a web of wars, intrigue, and political machinations as they have vied for control of the plane. As the wild places of the world vanished under layers of stonework and resources grew scarce, each guild carved out its own sphere of influence. For millennia, the Guildpact, a magical accord, helped maintain a relative peace on the plane. The Guildpact has been dispelled, and for a time the guilds fell into chaos. But the ten-thousand-year-old guild culture and division of duties has reasserted itself, and the ten guilds are once again dominant. However, tensions between them are building and rumors of trouble can be heard in both the hallowed guildhalls and rustic taverns of the unguilded citizens.
+
+![](https://i.ormos.uk/ea/d2/ead26ee373f28f322deabfb10999c711ef9e62309a27369f7b098f62cdf5bc2c.jpg)
+
+Art by [Nic Klein](https://web.archive.org/web/20120822000000/http://gatherer.wizards.com/pages/search/default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22nic+klein%22%5D) 
+
+The planeswalker Jace Beleren has made Ravnica his adoptive home. But he's not the only planeswalker drawn to this diverse and complex plane. Tezzeret, Garruk Wildspeaker, Liliana Vess, Gideon Jura, and Chandra Nalaar have all visited here, drawn by its secrets and possibilities, and the plane boasts more than one planeswalker native as well.
+
+The average Ravnican is ignorant of the existence of planeswalkers, but some beings on Ravnica are so ancient that they have encountered them personally. Such is the case with the parun and guildmaster of the Izzet League, the dragon Niv-Mizzet. After a years-long absence, the ancient dragon has returned to his aerie and has recently sent his guild into a frenzy of research and projects, which no one seems to understand but him. The League's activities haven't gone unnoticed—that many explosions are hard to miss—and the other guilds are beginning to worry if there is a method behind the Firemind's madness.
+
+ ![](https://i.ormos.uk/28/8c/288c66a00c31b4c0706a043680e860ac8e5ffac97914bda9389ca663ea642049.png)
+
+The Selesnya guild believes itself to be the voice of Mat'Selesnya—a mysterious consciousness they believe to be the manifestation of nature itself. All within the guild are considered mouthpieces of that singular voice, and they seek to expand their guild by evangelizing their message and adding members. The Selesnya message is personal as well as public; they believe that by silencing the consciousness of the individual, they can become aware of the murmurings of the Conclave, a group of dryads who serve as the spiritual transmitters of Mat'Selesnya's consciousness. The guild's goal is to subsume the identities of individual members, transforming them into instruments of the Conclave. The Selesnyans are organized into vernadi, which are small communes throughout Ravnica. Each is organized around a central tree and led by a dryad leader.
+
+Trostani, the Selesnya Guildmaster. The triune dryad, Trostani, rules the guild. The Selesnyans, however, would say she is ultimately led by the will of Mat'Selesnya herself. Each of the three dryad identities that comprise Trostani embodies a particular Selesnya value. The rightmost head is Order, who speaks in a metered, plain chant. The leftmost head is Life, and speaks in a lilting, singsong voice. The central head is Harmony, who speaks in a silvery whisper. Each head is adorned in its own unique manner, with eyes that range from verdant green to shimmering silver. The central head of Harmony rarely speaks, but when she does, her counsel is considered by all to be sacrosanct.
+
+Although Selesnyans believe that power is not centered in any one location, the massive world-tree Vitu-Ghazi still serves as the focus and guildhall of the Selesnya guild. Vitu-Ghazi's trunk acts as the cathedral where worshippers come from all around Ravnica, and also serves as home to the guildmaster Trostani and the Dryad Conclave.
+
+![](https://i.ormos.uk/51/06/5106e72fc6eda0553b6aac55f0d26ae9620b7b8fc6ee0940d7a89c14e1cba737.jpg)
+
+Art by [Chase Stone](https://web.archive.org/web/20120822000000/http://gatherer.wizards.com/pages/search/default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22chase+stone%22%5D) 
+
+**Selesnya Locations** 
+
+**The Ivory Oaks.** This stand of massive trees is guarded by an order of albino loxodon warrior-priests. The priests wear silver armor with green tabards emblazoned with the insignia of their order. Their weapons are generally blunt and made from the Ivory Oaks themselves. The strength, purity, and longevity of the oaks are the reason why they are considered sacred. Oaths and ceremonies are conducted among the gleaming limbs of the Ivory Oaks. Marriages, treaties, rites of passage, and contracts take place within the grove under the auspices of the priests. The cleric who oversees the entire site is Troslon, a rugged loxodon who is a bit of a rebel by Selesnyan standards in that he puts the natural world before the desires of the guild. This is illustrated in his defense of the sacred tree of Belokos. High ranks in Selesnyan leadership would love to claim this tree for their own, but Troslon adamantly keeps the tree open to all Ravnicans, guilded or unguilded, who wish to pay respects to the tree or utilize the properties of its magical auras. 
+
+**Sumala, the Topiary Grove.** Imagine a massive, dense forest that has been meticulously kept so that every plant and tree is left in place but has been manicured and sculpted so that it is not entangled or encroaching upon the space of another. Sumala is a giant meditation garden and home to some of the most magnificent Selesnyan architecture and scenic artistry. The Topiary Grove of Sumala is known across Ravnica and is the masterwork of an elf woodshaper named Sadruna. Sadruna's designs and techniques are sought after, copied, and duplicated throughout Selesnya and other guilds. 
+
+![](https://i.ormos.uk/37/f2/37f272102f490cff06ab874224217cfc78f852ffef1184a80f1ec6163b74c53b.jpg)
+
+Art by [Volkan Baga](https://web.archive.org/web/20120822000000/http://gatherer.wizards.com/pages/search/default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22volkan+baga%22%5D) 
+
+**The Great Concourse.** This is a massive series of interwoven roadways that are elevated through and high above the forest canopy. Built from polished Bijan limestone (the purest and whitest), the Great Concourse gleams in the sun. Inlaid with dark granite into the central hub is the symbol of Selesnya, and this marks the area where massive gatherings of devotees are held as well as some high religious holidays. On most days, the concourse is just used as a marketplace and highway to transport goods and move enormous beasts without destroying the immaculately manicured forest below. 
+
+**Selesnya Creatures** 
+
+**Wurms.** Selesnyans are quite proud of their wurms. With Ravnica being a crowded bustle aboveground, travel belowground is something that gives Selesnya an advantage in locomotion about the plane. Wurmcallers are a particular branch of shamans who have found a way to harness and ride upon these massive beasts. On Ravnica, wurms shift the earth with powerful, subsonic emissions that displace the soil, rendering it into a liquid-like state and allowing the wurm to move through it at great speed. Shamans have attached armored chariot cabs to the wurms capable of holding several passengers on a subterranean trip. Mostly, wurms are used for defense, where the shamans direct the wurms' movements from within their armored cabs. 
+
+![](https://i.ormos.uk/2c/49/2c49b43c04c75a5efbd298f71060cfb52d3929717fdcc558fd3e140509e0f4dd.jpg)
+
+Art by [Volkan Baga](https://web.archive.org/web/20120822000000/http://gatherer.wizards.com/pages/search/default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22volkan+baga%22%5D) 
+
+**Elementals.** Elementals within Selesnya are usually comprised of roots and brambles intertwined together. Sometimes, with the larger elementals, white marble chunks or slabs of limestone are wielded as weapons or worn as armor. If elementals are sufficiently large enough, they are often used as public buildings and temples that can uproot themselves and move to other locations or defend a vernadi. 
+
+**Living temples.** These are moderately sized to enormous organic elementals that dwell beneath the ground and exist for most of their lives as root structures with their aboveground vines and tendrils holding masonry in place. This masonry is often a temple or an amphitheater that Selesnyans use in day-to-day life. If threatened, a priest or shaman can summon the living temple and the whole elemental rises from under the earth, the chunks and pieces of masonry still incorporated into its body for use as armor or weapons. After it defeats its foes, the living temple then returns under the earth and assembles its stonework back into place as if nothing had happened. 
+
+![](https://i.ormos.uk/f5/9a/f59a092fdd8e4f4d83acaf589b1409e57f45d644abc3ad372582e7fa5c6e4c68.jpg)
+
+Art by [Chase Stone](https://web.archive.org/web/20120822000000/http://gatherer.wizards.com/pages/search/default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22chase+stone%22%5D) 
+
+**Selesnya Philosophy** 
+
+**The Worldmind.** The Worldmind, also known as the Voice of the Conclave, is the subtle transmission of Mat'Selesnya's consciousness. The Conclave also picks up on experiences and wisdom from members of the guild which they then transmit. The clarity of this wisdom is proportional to the depth of a member's devotion to meditation and his or her service to the guild. Through a magical ceremony upon death, a Selesnyan guild member's full experience (spirit) is "uploaded" into the Worldmind. The deeper a guild member's devotion, the deeper his or her access to the Worldmind. Some of the most devout Selesnyans have the capacity to wield immense power thanks to their connection to the Worldmind. 
+
+**Temptations of Power.** In a perfect world, the Selesnyans consider all of their leaders, no matter how tenured, to be fallible and mortal teachers, nothing more. However, some of the Selesnyan elders are prone to a bit of self-aggrandizement, due to their own personal ambition ,and take pride in the growth and beauty of their own particular vernadi. 
+
+![](https://i.ormos.uk/1c/8d/1c8d48f63641720dad4605550951c2830836616b3e5fb2514317709e56f61925.jpg)
+
+Art by [Ryan Barger](https://web.archive.org/web/20120822000000/http://gatherer.wizards.com/pages/search/default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22ryan+barger%22%5D) 
+
+**Violence and Hypocrisy.** A not-so-well-kept secret is Selesnya's hypocrisy about the taking of life. Because of their doctrine about the sanctity of life, one might believe that they would be stringent pacifists. On the contrary, they have no problem with throwing away countless lives in combat. One of Selesnya's main tactics in battle is to create a living shield of bodies to stall opponents until one of their massive elementals or avatars can show up to destroy en masse. Post mortem, Selesnyans make a large, ceremonial fuss about the sacrifice of noble warriors and how all life returns to Mat'Selesnya, but a mound of corpses is hard evidence to cover. 
+
+**Keepers of Beauty.** The Selesnya guild is the guardian of natural and structural beauty. There are entire sections of scrolls and codices within Vitu-Ghazi about the correct way to order the landscape, the best stone to use, how to arrange specific kinds of trees, and the most pleasing way to layer foliage. There are some who believe in keeping every stone clean of debris and some who want to arrange without there being noticeable signs, but all agree that beauty is a crucial value of life. 
+
+![](https://i.ormos.uk/14/84/1484e5f4c85fab367dd3aa066ecdbfcaa6fe24d853676595002ddb32b38f4fb6.jpg)
+
+Art by [Nils Hamm](https://web.archive.org/web/20120822000000/http://gatherer.wizards.com/pages/search/default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22nils+hamm%22%5D) 
+
+**Selesnya Attitudes Toward Other Guilds** 
+
+**Boros:** "They shall tire of their fighting and, when they do, the gentle embrace of Selesnya will be waiting." 
+
+**Azorius:** "One day, they will free their minds from foolish, external laws and learn to obey the voice of the Conclave." 
+
+**Rakdos:** "Until they submit, they must be contained." 
+
+**Golgari:** "These rot-grovelers could stand to learn more from our ways instead of mucking about with their bugs and death." 
+
+**Dimir:** "A ghastly horde of disconnected murderers who never fully tasted life's true gifts." 
+
+**Simic:** "Warpers of life and nature whose downfall will be their lack of community and compassion." 
+
+**Gruul:** "Such a waste… and a smelly, unreasonable, destructive waste at that." 
+
+**Izzet:** "Tinkerers and meddlers under the control of one oppressive ego. Doomed for failure." 
+
+**Orzhov:** "They are lost in a lifeless prison of their own individual ambitions." 
+
+![](https://i.ormos.uk/f1/96/f1964be2b8e80ad8e4d31762bc9755a18df663613885932a477f8651b48d5d00.png)
+
+[![](https://i.ormos.uk/0b/df/0bdf4fe8c4ad55fd67d5da49e57ecbf0178ff11de879bb8f62f7c5a7dcbce6ba.jpg)](https://web.archive.org/web/20120822000000/http://archive.wizards.com/magic/magazine/article.aspx?x=mtg/daily/feature/213a#azorius) [![](https://i.ormos.uk/a6/e7/a6e79595b38719d7fcf4c7a17f00cd45cd1ea859e2576239998bec8044349dc3.jpg)](https://web.archive.org/web/20120822000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/feature/211c#izzet) [![](https://i.ormos.uk/81/ec/81ec3d1cca4b8d0e5844ddbf60fb1a6c6c108d2c746e692e2153e7cadc22744e.jpg)](https://web.archive.org/web/20120822000000/http://archive.wizards.com/magic/magazine/article.aspx?x=mtg/daily/feature/213a#rakdos) [![](https://i.ormos.uk/75/e2/75e20330d804a4b5a5db13636fc881f11c05d907e245364e37be7ff59a908cfa.jpg)](https://web.archive.org/web/20120822000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/feature/211c#golgari) [![](https://i.ormos.uk/ee/ce/eeceb46de3509cbb7a846520222e3f6d9a0dfd834a9cf05d118b9d067b4ffc46.jpg)](https://web.archive.org/web/20120822000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/feature/209#selesnya) [![](https://i.ormos.uk/93/86/93862801462be60308b4e7ed0d2eb333a7244471954ba746c2048fd13c9f0df6.jpg)](https://web.archive.org/web/20120822000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/feature/225#orzhov) [![](https://i.ormos.uk/9d/00/9d00f15fafe0911b2cb790e513a14032a87f9fd0d21aa5d8d4a52d36911ff7ce.jpg)](https://web.archive.org/web/20120822000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/feature/224#dimir) [![](https://i.ormos.uk/3a/4d/3a4d2acb41e11707e066a1e84599f9efc1c83b94fd4c0f90cdcfd0c1e3669fb9.jpg)](https://web.archive.org/web/20120822000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/feature/225#gruul) [![](https://i.ormos.uk/cb/d9/cbd95c1dfaa2b4a28453bad7843423978f0358e3f05e389119c81811581054c8.jpg)](https://web.archive.org/web/20120822000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/feature/224#boros) [![](https://i.ormos.uk/b8/3a/b83a4a1435adbd54365bf168d659f21dfe470909149d2a993f9ba97e119be075.jpg)](https://web.archive.org/web/20120822000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/feature/225#simic) 
+
+![](https://i.ormos.uk/bf/d6/bfd6b8f0bde6c031232d964e16cb86035f8c846b3129aa428127ca3c2074d217.jpg)[![](https://i.ormos.uk/d6/c6/d6c66353d9840be2a16926c460d42b0dd8e64c093ef40a98258d8e70c4c47ddb.jpg)](https://web.archive.org/web/20120822000000/http://archive.wizards.com/Magic/TCG/ProductArticle.aspx?x=mtg/tcg/izzetvsgolgari/productinfo)

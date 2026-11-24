@@ -1,0 +1,47 @@
+---
+id: 8vpj1bza
+kind: event
+lang: en
+path: /en/articles/event-coverage/2008/08-15-round-3-results
+title: Round 3 Results
+published: '2008-08-15'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-3-results-2008-08-15
+    lang_detected: en
+    capture_id: 526953
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-3-results-2008-08-15
+    captured_at: '2021-10-22 12:41:57+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-3-results-2008-08-15
+    lang_detected: en
+    capture_id: 526953
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-3-results-2008-08-15
+    captured_at: '2021-10-22 12:41:57+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: 8vpj1bza
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-3-results-2008-08-15
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/round-3-results-2008-08-15
+  lang: en
+  template: drupal
+  captured_at: '2021-10-22 12:41:57+00'
+  capture_id: 526953
+  wayback_url: https://web.archive.org/web/20211022124157id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-3-results-2008-08-15
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 8vpj1bza
+  capture_id: 526953
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-3-results-2008-08-15
+  wayback_url: https://web.archive.org/web/20211022124157id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-3-results-2008-08-15
+  captured_at: '2021-10-22 12:41:57+00'
+  template: drupal
+  sha256: 704e2bad02f19ad2cf1da986b6b367176d35fe17bb0c4e6f4c4115683875f9e5
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Result</b></td><td><b>&#10;						</b></td><td><b>Opponent</b></td></tr><tr><td> 1</td><td>Walker, Stewart</td><td>Lost 0-2</td><td>vs.</td><td>Griffiths, Philip C</td></tr><tr><td> 2</td><td>Jarvis, Catherine E</td><td>Lost 1-2</td><td>vs.</td><td>Squire, Gregory</td></tr><tr><td> 3</td><td>Light, Matt</td><td>Won 2-0</td><td>vs.</td><td>Grafham, Darren V</td></tr><tr><td> 4</td><td>Martin, Quentin</td><td>Won 2-1</td><td>vs.</td><td>Dunn, William R</td></tr><tr><td> 5</td><td>Green, Chris</td><td>Won 2-0</td><td>vs.</td><td>Pizzey, Lian</td></tr><tr><td> 6</td><td>Harrold, Christopher</td><td>Lost 1-2</td><td>vs.</td><td>Yendall, David</td></tr><tr><td> 7</td><td>Stevenson, Craig</td><td>Won 2-0</td><td>vs.</td><td>Leeder, Andrew M</td></tr><tr><td> 8</td><td>Holden, Dan</td><td>Won 2-1</td><td>vs.</td><td>Kyriazis, Ioannis K</td></tr><tr><td> 9</td><td>Gattolin, Stefano</td><td>Lost 0-2</td><td>vs.</td><td>Bland, Richard</td></tr><tr><td> 10</td><td>Wright, Stuart</td><td>Lost 0-2</td><td>vs.</td><td>Randle, Jonathan</td></tr><tr><td> 11</td><td>Orsini Jones, Matteo</td><td>Lost 0-2</td><td>vs.</td><td>Brookes, Oliver R</td></tr><tr><td> 12</td><td>Sebastian, Bryan J</td><td>Lost 1-2</td><td>vs.</td><td>Komanicky, Vladimir</td></tr><tr><td> 13</td><td>Davies, Russ J</td><td>Won 2-0</td><td>vs.</td><td>Mahrwald, Valentin</td></tr><tr><td> 14</td><td>Sanders, Benjamin M</td><td>Won 2-0</td><td>vs.</td><td>Teng, Shifeng</td></tr><tr><td> 15</td><td>Moore, Richard N</td><td>Won 2-1</td><td>vs.</td><td>Battcock, Thomas</td></tr><tr><td> 16</td><td>Dimakos, Michail G</td><td>Won 2-1</td><td>vs.</td><td>Duke, Michael</td></tr><tr><td> 17</td><td>Murray, Stephen</td><td>Won 2-1</td><td>vs.</td><td>Keen, Jason K</td></tr><tr><td> 18</td><td>Dawes, Laura M</td><td>Lost 1-2</td><td>vs.</td><td>Norris, Pete</td></tr><tr><td> 19</td><td>Wat, Raymond</td><td>Won 2-1</td><td>vs.</td><td>Barclay, Bradley</td></tr><tr><td> 20</td><td>Latham, Scott A</td><td>Lost 1-2</td><td>vs.</td><td>Bonfield, Rebecca D</td></tr><tr><td> 21</td><td>Prentice, Daniel</td><td>Lost 0-2</td><td>vs.</td><td>O'Keeffe, Simon</td></tr><tr><td> 22</td><td>Parker, Matt R</td><td>Lost 0-2</td><td>vs.</td><td>Moate, Matthew</td></tr><tr><td> 23</td><td>Smith, Sean A</td><td>Won 2-0</td><td>vs.</td><td>Roebuck, Alex N</td></tr><tr><td> 24</td><td>Dattani, Amar</td><td>Lost 0-2</td><td>vs.</td><td>Lote, Nick</td></tr><tr><td> 25</td><td>James, Nathaniel</td><td>Won 2-1</td><td>vs.</td><td>Gartland, Kevin</td></tr><tr><td> 26</td><td>Mansfield, Jeremy</td><td>Won 2-1</td><td>vs.</td><td>McMail, Kevin J</td></tr><tr><td> 27</td><td>Hanratty, Tom W</td><td>Won 2-0</td><td>vs.</td><td>Black, Dylan</td></tr><tr><td> 28</td><td>Stephenson, Calum R</td><td>Won 2-0</td><td>vs.</td><td>Grover, Charlie</td></tr><tr><td> 29</td><td>Rigby, Neil</td><td>Lost 0-2</td><td>vs.</td><td>Carey, Max</td></tr><tr><td> 30</td><td>Clapton, Chris J</td><td>Drew 1-1-1</td><td>vs.</td><td>Royde, Daniel</td></tr><tr><td> 31</td><td>Cook, Dave J</td><td>Lost 0-2</td><td>vs.</td><td>Calver, Paul J</td></tr><tr><td> 32</td><td>Cabrelli, Ben</td><td>Lost 0-1-1</td><td>vs.</td><td>Lee, Simon</td></tr><tr><td> 33</td><td>Bernstein, Steve</td><td>Won 1-0-1</td><td>vs.</td><td>Cadwallader, Aaron</td></tr><tr><td> 34</td><td>Ross, Edward</td><td>Won 2-1</td><td>vs.</td><td>Mcintyre, Graeme</td></tr><tr><td> 35</td><td>Coutts, Jonathan R</td><td>Won 2-0</td><td>vs.</td><td>Marriot, Richard P</td></tr><tr><td> 36</td><td>Lubarr, Robin</td><td>Lost 0-2</td><td>vs.</td><td>Stocking, Chris J</td></tr><tr><td> 37</td><td>Kasinski, Tomas</td><td>Won 2-0</td><td>vs.</td><td>Williams, Anthony</td></tr><tr><td> 38</td><td>Reynolds, Matthew</td><td>Won 2-0</td><td>vs.</td><td>Connolly, Bryan</td></tr><tr><td> 39</td><td>Vaughan, Daniel J</td><td>Won 2-1</td><td>vs.</td><td>McLauchlan, Paul</td></tr><tr><td> 40</td><td>Lunde, James</td><td>Won 2-1</td><td>vs.</td><td>davey, ian T</td></tr><tr><td> 41</td><td>Scoones, Ben</td><td>Won 2-1</td><td>vs.</td><td>Leonard, Micheal</td></tr><tr><td> 42</td><td>Voisey, Mark</td><td>Won 2-1</td><td>vs.</td><td>Brown, Gareth S</td></tr><tr><td> 43</td><td>Edwards, Andrew</td><td>Lost 0-2</td><td>vs.</td><td>Lowe, Mark</td></tr><tr><td> 44</td><td>Van Doorsselaere, Tom</td><td>Won 2-0</td><td>vs.</td><td>Tsaknias, Panagiotis</td></tr><tr><td> 45</td><td>Goldsworthy, Glenn</td><td>Lost 1-2</td><td>vs.</td><td>Coen, Elliot</td></tr><tr><td> 46</td><td>Stiles, David W</td><td>Lost 0-2</td><td>vs.</td><td>Bremner, Paul A</td></tr><tr><td> 47</td><td>Woodward, Stephen A</td><td>Lost 1-2</td><td>vs.</td><td>Shepherd, Iain</td></tr><tr><td> 48</td><td>Parker, Sebastian</td><td>Lost 0-2</td><td>vs.</td><td>Marko, Vladimir</td></tr><tr><td> 49</td><td>Bresland, Noel P</td><td>Won 2-1</td><td>vs.</td><td>Stone, Alex</td></tr><tr><td> 50</td><td>Willis, Paul</td><td>Lost 1-2</td><td>vs.</td><td>Ravenshear, Stuart</td></tr><tr><td> 51</td><td>McIntosh, Stephen</td><td>Won 2-1</td><td>vs.</td><td>Graham, Paul</td></tr><tr><td> 52</td><td>Clark, Nicholas</td><td>Won 2-1</td><td>vs.</td><td>Gower, Paul J</td></tr><tr><td> 53</td><td>Grover, James A</td><td>Lost 1-2</td><td>vs.</td><td>Lim, Paul Qi-En</td></tr><tr><td> 54</td><td>Ratcliffe, Miles D</td><td>Lost 0-2</td><td>vs.</td><td>Harvey, Dom</td></tr><tr><td> 55</td><td>Burgess, Mark Roy</td><td>Lost 1-2</td><td>vs.</td><td>Buchanan, Andrew G</td></tr><tr><td> 56</td><td>Hawker, Matthew</td><td>Lost 1-2</td><td>vs.</td><td>Spragg, Keith R</td></tr><tr><td> 57</td><td>Orsini Jones, Marco</td><td>Lost 0-2</td><td>vs.</td><td>Smith, Craig D</td></tr><tr><td> 58</td><td>McGowan, Martin T</td><td>Lost 0-2</td><td>vs.</td><td>Hodgson, Paul</td></tr><tr><td> 59</td><td>Ruiz Martin, Daniel</td><td>Lost 1-2</td><td>vs.</td><td>Barnett, Adam</td></tr><tr><td> 60</td><td>Martire, Roque O</td><td>Lost 0-2</td><td>vs.</td><td>Gardner, Daniel</td></tr><tr><td> 61</td><td>Harris, Paul D</td><td>Won 2-1</td><td>vs.</td><td>Samra, Manveer S</td></tr><tr><td> 62</td><td>Bullard, Ashley R</td><td>Won 2-1</td><td>vs.</td><td>Edwards, Matthew P</td></tr><tr><td> 63</td><td>Bennett, Ian</td><td>Lost 0-2</td><td>vs.</td><td>Noott, James E</td></tr><tr><td> 64</td><td>Harle, Tom</td><td>Lost 0-2</td><td>vs.</td><td>Evans, Paul</td></tr><tr><td> 65</td><td>Pinder, Mark S</td><td>Drew 1-1</td><td>vs.</td><td>Godfrey, Daniel</td></tr><tr><td> 66</td><td>Knight, Mark</td><td>Won 2-0</td><td>vs.</td><td>Thearle, Roy W</td></tr><tr><td> 67</td><td>Lovett, Nicholas A</td><td>Lost 0-2</td><td>vs.</td><td>Davis, Joe</td></tr><tr><td> 68</td><td>Reeve, Thomas</td><td>Lost 0-2</td><td>vs.</td><td>Cooper, Christopher J</td></tr><tr><td> 69</td><td>Ling, Daniel</td><td>Lost 1-2</td><td>vs.</td><td>Lee, Yu Hin</td></tr><tr><td> 70</td><td>Nemeth, Steven</td><td>Drew 1-1-1</td><td>vs.</td><td>Murphy, Paul N</td></tr><tr><td> 71</td><td>Kneeshaw, Louis J</td><td>Lost 0-1</td><td>vs.</td><td>Barham, Nigel</td></tr><tr><td> 72</td><td>Behean, Thomas</td><td>Won 2-0</td><td>vs.</td><td>Fletcher, Geoff L</td></tr><tr><td> 73</td><td>Corwood, James A</td><td>Lost 0-2</td><td>vs.</td><td>Kwan, Wen Ching</td></tr><tr><td> 74</td><td>Scott, Phil</td><td>Won 2-1</td><td>vs.</td><td>Parker, Michael</td></tr><tr><td> 75</td><td>Tan, Ronnie</td><td>Won 2-0</td><td>vs.</td><td>Pocock, Matt</td></tr><tr><td> 76</td><td>Southcott, Guy</td><td>Won 2-0</td><td>vs.</td><td>DAVIS, IAN</td></tr></tbody></table>

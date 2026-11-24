@@ -1,0 +1,234 @@
+---
+id: vmcx5xcy
+kind: article
+lang: en
+path: /en/articles/daily-magic-update/2016/05-31-the-may-31-2016-update
+title: The May 31, 2016 Update
+published: '2016-05-31'
+column_slug: daily-magic-update
+column: Daily Magic Update
+authors:
+- slug: blake-rasmussen-d7ec22f7
+  name: Blake Rasmussen
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/daily-magic-update/update-2016-05-31
+    lang_detected: en
+    capture_id: 287972
+    url: http://magic.wizards.com/en/articles/archive/daily-magic-update/update-2016-05-31
+    captured_at: '2016-08-06 06:30:17+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/daily-magic-update/update-2016-05-31
+    lang_detected: en
+    capture_id: 287972
+    url: http://magic.wizards.com/en/articles/archive/daily-magic-update/update-2016-05-31
+    captured_at: '2016-08-06 06:30:17+00'
+    rule: drupal.posted_in_date
+  authors:
+    page_key: magic.wizards.com/en/articles/archive/daily-magic-update/update-2016-05-31
+    lang_detected: en
+    capture_id: 287972
+    url: http://magic.wizards.com/en/articles/archive/daily-magic-update/update-2016-05-31
+    captured_at: '2016-08-06 06:30:17+00'
+    rule: drupal.div_author
+  column:
+    page_key: magic.wizards.com/en/articles/archive/daily-magic-update/update-2016-05-31
+    lang_detected: en
+    capture_id: 287972
+    url: http://magic.wizards.com/en/articles/archive/daily-magic-update/update-2016-05-31
+    captured_at: '2016-08-06 06:30:17+00'
+    rule: url.article_section
+sources:
+- document_id: vmcx5xcy
+  url: http://magic.wizards.com/en/articles/archive/daily-magic-update/update-2016-05-31
+  page_key: magic.wizards.com/en/articles/archive/daily-magic-update/update-2016-05-31
+  lang: en
+  template: drupal
+  captured_at: '2016-08-06 06:30:17+00'
+  capture_id: 287972
+  wayback_url: https://web.archive.org/web/20160806063017id_/http://magic.wizards.com/en/articles/archive/daily-magic-update/update-2016-05-31
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: vmcx5xcy
+  capture_id: 287972
+  url: http://magic.wizards.com/en/articles/archive/daily-magic-update/update-2016-05-31
+  wayback_url: https://web.archive.org/web/20160806063017id_/http://magic.wizards.com/en/articles/archive/daily-magic-update/update-2016-05-31
+  captured_at: '2016-08-06 06:30:17+00'
+  template: drupal
+  sha256: 11f0e6cb0228eb598240cccebe2bc79d156efb4020edf108ceeaedc5644a50f6
+render_recovery:
+- code: deck_widget_requires_review
+  element: a
+  reason: The archived deck widget has no visible card rows. The source capture may
+    contain data to recover it.
+  labels:
+  - Decklist
+  occurrences: 1
+---
+The Daily *Magic* Update is a roundup of everything *Magic* you should know on May 31, 2016. Today's Update is brought to you by long weekends. Sorry we were off yesterday (for Memorial Day in the US), but meat won't barbecue itself.
+
+# Today's Must
+
+1.  A double dose of *Eternal Masters*-influenced Pauper | PureMTGO
+
+Two articles on PureMTGO dive right into the implications for Pauper with all of the rarity shifts in *Eternal Masters*. Anthony Davis writes about [*Eternal Masters* in the Current Pauper Metagame](http://puremtgo.com/articles/eternal-masters-current-pauper-metagame) while Fragoel2 (wait...was Fragoel1 taken?) tackles an [*Eternal Masters* Classic Pauper review](http://puremtgo.com/articles/eternal-masters-classic-pauper-review). They're totally different articles. Really. Mostly.
+
+And if you want even more *EMA* Pauper action, [The Professor picked his Top 5](https://www.youtube.com/watch?v=OdhvukSnQ4c) a few days ago.
+
+# After Those, Read, Watch, or Listen to These
+
+1.  [Would You Rather? *Eternal Masters* Art Edition (Part 1)](http://www.mtggoldfish.com/articles/would-you-rather-eternal-masters-art-edition-part-1) | MTGGoldfish | SaffronOlive
+
+In this video article, SaffronOlive and Chaz discuss and debate the new art of *Eternal Masters*. It goes much better than "Never Have I Ever *Homelands* Edition" and "Truth or Dare *New Phyrexia*."
+
+1.  [Channel Reid—Modern Time Walks](http://www.channelfireball.com/videos/channel-reid-modern-time-walks/) | ChannelFireball | Reid Duke
+
+Reid takes a walk on the Modern side with this brew that tries to take all of the turns. It was inevitable. You have to give the people what they want, and what the people want is more turns of Reid Duke playing *Magic*.
+
+1.  [On Shuffling](https://www.magicmadhouse.co.uk/articles/2016/05/on-shuffling-2/) | Magic Madhouse | Tim Willoughby
+
+If you don't know why this is a hot topic after this weekend, check out item 7 below. In this piece, Willoughby, an amateur magician who knows a thing or two about shuffling techniques, walks you through what shuffling should be and how to watch for cheating.
+
+1.  [Fat Stacks—Eternal Wanderer](http://magic.tcgplayer.com/db/article.asp?ID=13306&writer=Cassidy+Silver&articledate=5-31-2016) | TCGPlayer | Cassidy Silver
+
+There's been a lot of talk about *Eternal Masters*'s influence on Pauper, but Cassidy Silver is here to tell you about what it will do to the Commander world. Sure, Commander doesn't gain anything in the way of newly legal cards, but it does up the supply of a lot of Commander staples. I mean, how many Commander decks have you seen with [Mana Crypt](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mana+Crypt) in them? (I have merely two in my twelve decks. Feel bad for me.)
+
+# What People Are Talking About
+
+1.  > WE CANNOT BE STOPPED! BEST COMMUNITY EVER! Friggin unbelievable. [#mtg](https://twitter.com/hashtag/mtg?src=hash) [#StJudePLAYLIVE](https://twitter.com/hashtag/StJudePLAYLIVE?src=hash) [pic.twitter.com/bleXZDZoW5](https://t.co/bleXZDZoW5)
+    >
+    > — Wedge#StJudePLAYLIVE (@TheManaSource) [May 31, 2016](https://twitter.com/TheManaSource/status/737459176029331456)
+
+Over the weekend, Wedge at The Mana Source hosted a stream for St. Jude's Children's Research Hospital. After offering to shave various parts of his body on stream (ew, gross, no, not there) he helped raise more than $31,000 for the charity. And, as a result, Wedge is pretty much hairless at this point. You can check out videos from the stream as well as Wedge's new aerodynamic look on [The Mana Source's video page](https://www.youtube.com/user/TheManaSource/videos).
+
+1.  > The official Team EUreka statement about the Disqualification of Fabrizio Anteri[#teamEUreka](https://twitter.com/hashtag/teamEUreka?src=hash) [pic.twitter.com/GeUNfB2GLg](https://t.co/GeUNfB2GLg)
+    >
+    > — Joel Larsson (@JoelLarsson1991) [May 30, 2016](https://twitter.com/JoelLarsson1991/status/737333439142236164)
+
+There's a lot to unpack here if you took the weekend off to move two apartments into one house, while hosting family and attending a reunion. No one else? Just me? Fair enough. At any rate, there's still a lot to unpack here. Over the weekend, Fabrizio Anteri—multiple Grand Prix winner—was disqualified from [Grand Prix Manchester](/en/articles/event-coverage/undated/grand-prix-manchester-2016) for deck manipulation. You can read [the official statement here](/en/events/2016/gpman16/fabrizio-anteri-disqualified-from-grand-prix-manchester). Anteri took to Facebook to respond, but his teammates on Team EUreka moved to suspend him from the team anyway. Watch for this one to develop more. The story is likely not over.
+
+# Community Spotlight
+
+1.  [GAM Podcast](https://soundcloud.com/user-121566285/gam-e1) | Gerry Thompson, Andrew Brown, and Michael Majors
+
+This podcast is meant for the spikiest of Spikes only, as one Platinum and two Gold pros get together and don't mess around. Episode one was published last week and covers both Modern and Standard.
+
+# What to Watch Tonight
+
+1.  [Vintage Super League](https://vintagesuperleague.com/)
+
+Eight players, one slot left to qualify for the Vintage Super League. The final round of qualifying takes place tonight at 5 p.m. PT/ 8 p.m. ET on [twitch.tv/magic](https://www.twitch.tv/magic).
+
+# Deck of the Day
+
+1.  [Bant Humans](https://web.archive.org/web/20160801081401/http://magic.wizards.com/en/events/coverage/gpmin16/top-8-decklists-2016-05-29)
+
+Yuuya Watanabe might not have won [Grand Prix Minneapolis](/en/articles/event-coverage/undated/grand-prix-minneapolis-2016), but he came pretty close. And his deck—a three-color version of Humans—was certainly the talk of the tournament after. Finding a way to add in some powerful green Humans to the white-blue shell, Watanabe was able to utilize cards like [Reflector Mage](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Reflector+Mage), [Tireless Tracker](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tireless+Tracker), [Lambholt Pacifist](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lambholt+Pacifist), and [Duskwatch Recruiter](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Duskwatch+Recruiter)—Humans all—with [Thalia's Lieutenant](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Thalia%27s+Lieutenant), [Dromoka's Command](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dromoka%27s+Command), [Collected Company](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Collected+Company), and [Ojutai's Command](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ojutai%27s+Command).
+
+[Ojutai's Command](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ojutai%27s+Command) is especially spicy in a deck with so many two-drops, particularly [Thalia's Lieutenant](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Thalia%27s+Lieutenant). Now if your opponent has four mana up and a Lieutenant in the graveyard, you have to worry about two different ways they could pop one into play at instant speed (the other being [Collected Company](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Collected+Company)).
+
+Watanabe sacrificed the speed of the mono-white and white-blue Human options for a powerful late game for this creature deck. As a decedent of the Bant Company decks that were all the rage, like, last week, I would expect this deck to have quite a bit of staying power.
+
+#### Yuuya Watanabe's Bant Humans
+
+##### 
+
+ ![](http://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+[Decklist](#none) [Stats](#none) [Sample Hand](#none) 
+
+Sort by: 
+
+##### Creature (25)
+
+4 [Thraben Inspector](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThraben%5D+%5BInspector%5D) 2 [Knight of the White Orchid](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKnight%5D+%5Bof%5D+%5Bthe%5D+%5BWhite%5D+%5BOrchid%5D) 3 [Duskwatch Recruiter](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuskwatch%5D+%5BRecruiter%5D) 4 [Lambholt Pacifist](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLambholt%5D+%5BPacifist%5D) 4 [Thalia's Lieutenant](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThalia%5D+%5BLieutenant%5D) 4 [Reflector Mage](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReflector%5D+%5BMage%5D) 4 [Tireless Tracker](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTireless%5D+%5BTracker%5D) 
+
+##### Instant (10)
+
+4 [Dromoka's Command](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D) 2 [Ojutai's Command](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOjutai%5D+%5BCommand%5D) 4 [Collected Company](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCollected%5D+%5BCompany%5D) 
+
+##### Land (25)
+
+1 [Island](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D) 2 [Canopy Vista](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCanopy%5D+%5BVista%5D) 2 [Yavimaya Coast](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYavimaya%5D+%5BCoast%5D) 3 [Forest](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D) 3 [Prairie Stream](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPrairie%5D+%5BStream%5D) 4 [Evolving Wilds](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEvolving%5D+%5BWilds%5D) 4 [Fortified Village](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFortified%5D+%5BVillage%5D) 6 [Plains](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D) 
+
+60 Cards 
+
+##### Sideboard (15)
+
+1 [Knight of the White Orchid](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKnight%5D+%5Bof%5D+%5Bthe%5D+%5BWhite%5D+%5BOrchid%5D) 3 [Gryff's Boon](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGryff%5D+%5BBoon%5D) 2 [Den Protector](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D) 3 [Negate](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D) 2 [Nissa, Vastwood Seer](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNissa,%5D+%5BVastwood%5D+%5BSeer%5D) 1 [Sigarda, Heron's Grace](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSigarda,%5D+%5BHeron%5D+%5BGrace%5D) 3 [Tragic Arrogance](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTragic%5D+%5BArrogance%5D) 
+
+##### White (17)
+
+4 [Thraben Inspector](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThraben%5D+%5BInspector%5D) 3 [Knight of the White Orchid](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKnight%5D+%5Bof%5D+%5Bthe%5D+%5BWhite%5D+%5BOrchid%5D) 4 [Thalia's Lieutenant](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThalia%5D+%5BLieutenant%5D) 3 [Gryff's Boon](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGryff%5D+%5BBoon%5D) 3 [Tragic Arrogance](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTragic%5D+%5BArrogance%5D) 
+
+##### Blue (3)
+
+3 [Negate](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D) 
+
+##### Green (19)
+
+3 [Duskwatch Recruiter](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuskwatch%5D+%5BRecruiter%5D) 4 [Lambholt Pacifist](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLambholt%5D+%5BPacifist%5D) 4 [Tireless Tracker](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTireless%5D+%5BTracker%5D) 4 [Collected Company](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCollected%5D+%5BCompany%5D) 2 [Den Protector](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D) 2 [Nissa, Vastwood Seer](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNissa,%5D+%5BVastwood%5D+%5BSeer%5D) 
+
+##### Multi colored (11)
+
+4 [Reflector Mage](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReflector%5D+%5BMage%5D) 4 [Dromoka's Command](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D) 2 [Ojutai's Command](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOjutai%5D+%5BCommand%5D) 1 [Sigarda, Heron's Grace](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSigarda,%5D+%5BHeron%5D+%5BGrace%5D) 
+
+##### Colorless (25)
+
+1 [Island](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D) 2 [Canopy Vista](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCanopy%5D+%5BVista%5D) 2 [Yavimaya Coast](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYavimaya%5D+%5BCoast%5D) 3 [Forest](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D) 3 [Prairie Stream](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPrairie%5D+%5BStream%5D) 4 [Evolving Wilds](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEvolving%5D+%5BWilds%5D) 4 [Fortified Village](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFortified%5D+%5BVillage%5D) 6 [Plains](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D) 
+
+75 Cards 
+
+##### 1 (7)
+
+4 [Thraben Inspector](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThraben%5D+%5BInspector%5D) 3 [Gryff's Boon](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGryff%5D+%5BBoon%5D) 
+
+##### 2 (23)
+
+3 [Knight of the White Orchid](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKnight%5D+%5Bof%5D+%5Bthe%5D+%5BWhite%5D+%5BOrchid%5D) 3 [Duskwatch Recruiter](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuskwatch%5D+%5BRecruiter%5D) 4 [Lambholt Pacifist](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLambholt%5D+%5BPacifist%5D) 4 [Thalia's Lieutenant](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThalia%5D+%5BLieutenant%5D) 4 [Dromoka's Command](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D) 2 [Den Protector](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D) 3 [Negate](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D) 
+
+##### 3 (10)
+
+4 [Reflector Mage](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReflector%5D+%5BMage%5D) 4 [Tireless Tracker](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTireless%5D+%5BTracker%5D) 2 [Nissa, Vastwood Seer](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNissa,%5D+%5BVastwood%5D+%5BSeer%5D) 
+
+##### 4 (6)
+
+2 [Ojutai's Command](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOjutai%5D+%5BCommand%5D) 4 [Collected Company](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCollected%5D+%5BCompany%5D) 
+
+##### 5 (4)
+
+1 [Sigarda, Heron's Grace](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSigarda,%5D+%5BHeron%5D+%5BGrace%5D) 3 [Tragic Arrogance](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTragic%5D+%5BArrogance%5D) 
+
+50 Cards 
+
+##### Common (21)
+
+4 [Thraben Inspector](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThraben%5D+%5BInspector%5D) 1 [Island](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D) 3 [Forest](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D) 4 [Evolving Wilds](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEvolving%5D+%5BWilds%5D) 6 [Plains](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D) 3 [Negate](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D) 
+
+##### Uncommon (14)
+
+3 [Duskwatch Recruiter](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuskwatch%5D+%5BRecruiter%5D) 4 [Lambholt Pacifist](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLambholt%5D+%5BPacifist%5D) 4 [Reflector Mage](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReflector%5D+%5BMage%5D) 3 [Gryff's Boon](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGryff%5D+%5BBoon%5D) 
+
+##### Rare (32)
+
+3 [Knight of the White Orchid](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKnight%5D+%5Bof%5D+%5Bthe%5D+%5BWhite%5D+%5BOrchid%5D) 4 [Thalia's Lieutenant](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThalia%5D+%5BLieutenant%5D) 4 [Tireless Tracker](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTireless%5D+%5BTracker%5D) 4 [Dromoka's Command](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDromoka%5D+%5BCommand%5D) 2 [Ojutai's Command](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOjutai%5D+%5BCommand%5D) 4 [Collected Company](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCollected%5D+%5BCompany%5D) 2 [Yavimaya Coast](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYavimaya%5D+%5BCoast%5D) 4 [Fortified Village](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFortified%5D+%5BVillage%5D) 2 [Den Protector](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDen%5D+%5BProtector%5D) 3 [Tragic Arrogance](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTragic%5D+%5BArrogance%5D) 
+
+##### Mythic (8)
+
+2 [Canopy Vista](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCanopy%5D+%5BVista%5D) 3 [Prairie Stream](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPrairie%5D+%5BStream%5D) 2 [Nissa, Vastwood Seer](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNissa,%5D+%5BVastwood%5D+%5BSeer%5D) 1 [Sigarda, Heron's Grace](https://web.archive.org/web/20160531000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSigarda,%5D+%5BHeron%5D+%5BGrace%5D) 
+
+75 Cards 
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Thraben+Inspector)
+
+[Deal Another Hand](https://web.archive.org/web/20160531000000/http://magic.wizards.com/en)
+
+*   ![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Reflector+Mage)
+*   ![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Dromoka%27s+Command)
+*   ![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Prairie+Stream)
+*   ![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Plains)
+*   ![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Lambholt+Pacifist)
+*   ![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Thalia%27s+Lieutenant)
+*   ![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Thalia%27s+Lieutenant)

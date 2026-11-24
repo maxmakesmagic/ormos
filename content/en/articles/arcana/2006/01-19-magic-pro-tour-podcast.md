@@ -1,0 +1,82 @@
+---
+id: tasg4k1t
+kind: article
+lang: en
+path: /en/articles/arcana/2006/01-19-magic-pro-tour-podcast
+title: Magic Pro Tour Podcast
+published: '2006-01-19'
+column_slug: arcana
+column: Arcana
+authors:
+- slug: wizardsofthecoast
+  name: Wizards of the Coast
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/arcana/magic-pro-tour-podcast-2006-01-19
+    lang_detected: en
+    capture_id: 179591
+    url: https://magic.wizards.com/en/articles/archive/arcana/magic-pro-tour-podcast-2006-01-19
+    captured_at: '2022-01-21 18:17:58+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/arcana/magic-pro-tour-podcast-2006-01-19
+    lang_detected: en
+    capture_id: 179591
+    url: https://magic.wizards.com/en/articles/archive/arcana/magic-pro-tour-podcast-2006-01-19
+    captured_at: '2022-01-21 18:17:58+00'
+    rule: drupal.posted_in_date
+  authors:
+    page_key: magic.wizards.com/en/articles/archive/arcana/magic-pro-tour-podcast-2006-01-19
+    lang_detected: en
+    capture_id: 179591
+    url: https://magic.wizards.com/en/articles/archive/arcana/magic-pro-tour-podcast-2006-01-19
+    captured_at: '2022-01-21 18:17:58+00'
+    rule: drupal.div_author
+  column:
+    page_key: magic.wizards.com/en/articles/archive/arcana/magic-pro-tour-podcast-2006-01-19
+    lang_detected: en
+    capture_id: 179591
+    url: https://magic.wizards.com/en/articles/archive/arcana/magic-pro-tour-podcast-2006-01-19
+    captured_at: '2022-01-21 18:17:58+00'
+    rule: url.article_section
+    registry_match: registry.explicit
+sources:
+- document_id: tasg4k1t
+  url: https://magic.wizards.com/en/articles/archive/arcana/magic-pro-tour-podcast-2006-01-19
+  page_key: magic.wizards.com/en/articles/archive/arcana/magic-pro-tour-podcast-2006-01-19
+  lang: en
+  template: drupal
+  captured_at: '2022-01-21 18:17:58+00'
+  capture_id: 179591
+  wayback_url: https://web.archive.org/web/20220121181758id_/https://magic.wizards.com/en/articles/archive/arcana/magic-pro-tour-podcast-2006-01-19
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: tasg4k1t
+  capture_id: 179591
+  url: https://magic.wizards.com/en/articles/archive/arcana/magic-pro-tour-podcast-2006-01-19
+  wayback_url: https://web.archive.org/web/20220121181758id_/https://magic.wizards.com/en/articles/archive/arcana/magic-pro-tour-podcast-2006-01-19
+  captured_at: '2022-01-21 18:17:58+00'
+  template: drupal
+  sha256: c61ddeaea9be67c022888e2906a8876124e1e1f021eea080fac7ddf888901a7f
+render_recovery: []
+---
+Hey! It's 2006…if you're not subscribed to at least one podcast, get your lazy butt out of the 20th Century and into the future! And if you're still looking for that first podcast, we strongly suggest the **Magic: The Gathering** Pro Tour podcast. 
+
+<table><tbody><tr><td>&#10;						<p><b>WHAT IS PODCASTING?</b></p>&#10;						<p>Podcasting is delivering audio and video content on demand so that it can be enjoyed at the user's convenience. The main benefit of podcasting is that listeners can sync content to their media player and take it with them to listen whenever they want to. But they're not just for iPods…the files are ready to watch or listen to on just about any computer.</p>&#10;					</td></tr></tbody></table>
+
+Let Randy Buehler be your guide to a new audioscape as he brings you news and interviews from the world of **Magic** with monthly installments from the halls of Wizards of the Coast. During Pro Tours, Randy becomes your eyes and ears on the floor of the event hall with multiple updates during each day of action. 
+
+This month, Randy previews the Orzhov, Izzet and Gruul guilds, all ready for their debuts at the [*Guildpact* Prerelease events Jan. 21-22](https://web.archive.org/web/20060119000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/prerelease/guildpact). Plus, he reveals some super-secret March Champs promo-card information. Not only does your subscription get you these monthly reports plus Randy's multiple daily updates during Pro Tours, but you'll also get our video segments from Pro Tours as video podcast downloads. Subscribe now and you can download the entire podcast catalog from the 2005 Pro Tour season, plus select video clips from throughout the season. 
+
+To subscribe to the **Magic: The Gathering** podcast, follow these easy steps.
+
+1.  Go to [http://www.apple.com/podcasting/](http://www.apple.com/podcasting/)
+2.  Download iTunes version 6
+3.  Launch iTunes.
+4.  From the dropdown menus, select Advanced -- Subscribe to Podcast
+5.  When prompted for a URL, enter **[http://www.wizards.com/magic/rsspodcast.xml](https://web.archive.org/web/20060119000000/http://www.wizards.com/magic/rsspodcast.xml)** and click OK.
+
+You can also find the **Magic: The Gathering** Pro Tour podcast in the iTunes directory under "Podcasts -- Arts & Entertainment" -- “Games”.
+
+Once you subscribe to the podcast, iTunes will automatically check for new files and download them to your computer. To ensure that you get timely updates, set your Podcast Settings to check for new episodes every hour (the Settings button is in the lower-right corner of the iTunes window, or you can find it under Edit -- Preferences -- Podcast).

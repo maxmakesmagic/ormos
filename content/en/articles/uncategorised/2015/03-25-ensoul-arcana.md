@@ -1,0 +1,107 @@
+---
+id: 2fdvgs9x
+kind: article
+lang: en
+path: /en/articles/uncategorised/2015/03-25-ensoul-arcana
+title: Ensoul Arcana
+published: '2015-03-25'
+column_slug: uncategorised
+column: uncategorised
+authors:
+- slug: mike-mcartor-6d39e5d6
+  name: Mike McArtor
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/best-mike/ensoul-arcana-2015-03-25
+    lang_detected: en
+    capture_id: 226397
+    url: http://magic.wizards.com/en/articles/archive/best-mike/ensoul-arcana-2015-03-25
+    captured_at: '2016-05-01 13:41:47+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/best-mike/ensoul-arcana-2015-03-25
+    lang_detected: en
+    capture_id: 226397
+    url: http://magic.wizards.com/en/articles/archive/best-mike/ensoul-arcana-2015-03-25
+    captured_at: '2016-05-01 13:41:47+00'
+    rule: drupal.posted_in_date
+  authors:
+    page_key: magic.wizards.com/en/articles/archive/best-mike/ensoul-arcana-2015-03-25
+    lang_detected: en
+    capture_id: 226397
+    url: http://magic.wizards.com/en/articles/archive/best-mike/ensoul-arcana-2015-03-25
+    captured_at: '2016-05-01 13:41:47+00'
+    rule: drupal.div_author
+  column:
+    page_key: magic.wizards.com/en/articles/archive/best-mike/ensoul-arcana-2015-03-25
+    lang_detected: en
+    capture_id: 226397
+    url: http://magic.wizards.com/en/articles/archive/best-mike/ensoul-arcana-2015-03-25
+    captured_at: '2016-05-01 13:41:47+00'
+    rule: url.article_section
+sources:
+- document_id: 2fdvgs9x
+  url: http://magic.wizards.com/en/articles/archive/best-mike/ensoul-arcana-2015-03-25
+  page_key: magic.wizards.com/en/articles/archive/best-mike/ensoul-arcana-2015-03-25
+  lang: en
+  template: drupal
+  captured_at: '2016-05-01 13:41:47+00'
+  capture_id: 226397
+  wayback_url: https://web.archive.org/web/20160501134147id_/http://magic.wizards.com/en/articles/archive/best-mike/ensoul-arcana-2015-03-25
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 2fdvgs9x
+  capture_id: 226397
+  url: http://magic.wizards.com/en/articles/archive/best-mike/ensoul-arcana-2015-03-25
+  wayback_url: https://web.archive.org/web/20160501134147id_/http://magic.wizards.com/en/articles/archive/best-mike/ensoul-arcana-2015-03-25
+  captured_at: '2016-05-01 13:41:47+00'
+  template: drupal
+  sha256: a2825e85a552dc667671dfa5150d7fb0021f21ccb1c6d8ba7335431bdae6a6fc
+render_recovery: []
+---
+*We are remembering Mike McArtor by taking a look at some of the best articles he produced while working a job he clearly loved. This is only a glimpse into Mike’s world, but as we all reflect on this loss, we wanted to highlight some of the joy he brought to us through his own words.*
+
+* * *
+
+Let's talk about soul. Or rather, "soul." Or actually, let's back up a little bit. Hi, I'm Mike, your DailyMTG copy editor. I love this language of ours (and also hate it on some levels, because wow, what a mess). This love comes out mostly in the etymology entries I've written for Card of the Day in the past (it's coming back, I promise!) and [an Arcana about the word "Æther."](https://web.archive.org/web/20150325000000/http://archive.wizards.com/Magic/magazine/article.aspx?x=mtg/daily/arcana/1455) 
+
+This Arcana therefore follows a similar line, but it's about the word "soul."
+
+The Multiverse
+
+A couple months ago, Custodi Soulbinders was included as an entry for Card of the Day:
+
+**Custodi Soulbinders** – Conspiracy. The Custodi were an order of priests who served King Brago. They unnaturally prolonged his life to preserve their own power, with [unintended consequences](https://web.archive.org/web/20150325000000/http://archive.wizards.com/Magic/magazine/article.aspx?x=mtg/daily/ur/299). Soul has held its meaning since roughly Old English, which got it from [Proto-Germanic](http://en.wikipedia.org/wiki/Proto-Germanic_language). Bind also has pretty consistent meaning all the way back to [Proto-Indo-European](http://en.wikipedia.org/wiki/Proto-Indo-European_language).
+
+Here in August, most of us are thinking about other cards with ["Soul of"](https://web.archive.org/web/20150325000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&name=+%5BSoul%5D+%5Bof%5D&set=+%5B%22) cycle definitely gets attention.
+
+![](http://media.wizards.com/images/magic/daily/mm/2014/en_afvqwhtqoq_souls.jpg)
+
+The Souls of *Magic 2015* have been written about by esteemed Limited expert [Marshall Sutcliffe](/en/articles/limitedinformation/2014/08-06-predators-of-the-format), R&D insiders [Aaron Forsythe](/en/articles/feature/2014/06-23-magic-2015its-in-there) and [Gavin Verhey](/en/articles/reconstructed/2014/06-24-dark-souls), and Pro Tour Hall of Famers [Luis Scott-Vargas](/en/articles/feature/2014/07-04-the-heart-and-souls-of-standard) and [William Jensen](http://www.channelfireball.com/articles/first-impressions-of-magic-2015-limited/), among others.
+
+Of course, there is more soul in *Magic* than in *Conspiracy* or the newest core set, going all the way back to Alpha:
+
+[![](http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=41&type=card)](https://web.archive.org/web/20150325000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=41)
+
+Cards with Soul in the name appeared in all five colors (and colorless) long before *Magic 2015*.
+
+[White's Soul cards](https://web.archive.org/web/20150325000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&name=+%5BSoul%5D&color=+%40%28+%5BW%5D%29) tend to deal with Spirits, increasing your life total, and caring about creatures dying.
+
+There aren't really any trends yet in [blue's few Soul cards](https://web.archive.org/web/20150325000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&name=+%5BSoul%5D&color=+%40%28+%5BU%5D%29).
+
+Graveyard and life-total shenanigans dominate [black's Soul cards](https://web.archive.org/web/20150325000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&name=+%5BSoul%5D&color=+%40%28+%5BB%5D%29), with a sizeable subset of them caring greatly about 3 life.
+
+Making creatures bigger and dealing damage right to the opponent's face largely define what [red's Soul cards](https://web.archive.org/web/20150325000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&name=+%5BSoul%5D&color=+%40%28+%5BR%5D%29) do.
+
+Finally, [green's handful of Soul cards](https://web.archive.org/web/20150325000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&name=+%5BSoul%5D&color=+%40%28+%5BG%5D%29) primarily give +1/+1 counters and let you draw cards.
+
+The [multicolor](https://web.archive.org/web/20150325000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&name=+%5BSoul%5D&color=+%5E%28%7C%5BW%5D%7C%5BU%5D%7C%5BB%5D%7C%5BR%5D%7C%5BG%5D%29) and [colorless](https://web.archive.org/web/20150325000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&name=+%5BSoul%5D&color=+%5BC%5D) Soul cards produce all kinds of cool effects.
+
+The Word
+
+We can expand a little bit upon what the Card of the Day entry said about the origin of soul. It is first attested (meaning it first appeared in writing) in the well-known Old English epic, [Beowulf](http://en.wikisource.org/wiki/The_Oldest_English_Epic/Chapter_1/Beowulf_38). It came to Old English (also known as Anglo-Saxon) from the Proto-Germanic language and was related to similar words from other Germanic tongues (including Old Norse, Dutch, and Gothic).
+
+And that's about all we know. Beyond that, there exist some theories about the word's origin in lost mists of Proto-Germanic's history, but little that suggests agreement.
+
+Thus ends this Arcana—not with a soulful speculation, but a doleful declaration.

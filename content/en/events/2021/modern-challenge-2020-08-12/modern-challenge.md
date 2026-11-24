@@ -1,0 +1,1436 @@
+---
+id: gtb0apaj
+kind: event
+lang: en
+path: /en/events/2021/modern-challenge-2020-08-12/modern-challenge
+title: Modern Challenge
+published: '2020-08-12'
+column_slug: null
+column: null
+authors: []
+event_code: modern-challenge-2020-08-12
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/mtgo-standings/modern-challenge-2020-08-12
+    lang_detected: en
+    capture_id: 1003172
+    url: https://magic.wizards.com/en/articles/archive/mtgo-standings/modern-challenge-2020-08-12
+    captured_at: '2022-10-03 04:12:07+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/mtgo-standings/modern-challenge-2020-08-12
+    lang_detected: en
+    capture_id: 1003172
+    url: https://magic.wizards.com/en/articles/archive/mtgo-standings/modern-challenge-2020-08-12
+    captured_at: '2022-10-03 04:12:07+00'
+    rule: drupal.posted_in_date
+  event_code:
+    page_key: magic.wizards.com/en/articles/archive/mtgo-standings/modern-challenge-2020-08-12
+    lang_detected: en
+    capture_id: 1003172
+    url: https://magic.wizards.com/en/articles/archive/mtgo-standings/modern-challenge-2020-08-12
+    captured_at: '2022-10-03 04:12:07+00'
+    rule: url.mtgo_event_slug
+sources:
+- document_id: gtb0apaj
+  url: https://magic.wizards.com/en/articles/archive/mtgo-standings/modern-challenge-2020-08-12
+  page_key: magic.wizards.com/en/articles/archive/mtgo-standings/modern-challenge-2020-08-12
+  lang: en
+  template: drupal
+  captured_at: '2022-10-03 04:12:07+00'
+  capture_id: 1003172
+  wayback_url: https://web.archive.org/web/20221003041207id_/https://magic.wizards.com/en/articles/archive/mtgo-standings/modern-challenge-2020-08-12
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: gtb0apaj
+  capture_id: 1003172
+  url: https://magic.wizards.com/en/articles/archive/mtgo-standings/modern-challenge-2020-08-12
+  wayback_url: https://web.archive.org/web/20221003041207id_/https://magic.wizards.com/en/articles/archive/mtgo-standings/modern-challenge-2020-08-12
+  captured_at: '2022-10-03 04:12:07+00'
+  template: drupal
+  sha256: 488089febbf5071875737a1c4610d63957a64415302b9382a5e176d319a5a14c
+render_recovery:
+- code: deck_widget_requires_review
+  element: a
+  reason: The archived deck widget has no visible card rows. The source capture may
+    contain data to recover it.
+  labels:
+  - Decklist
+  occurrences: 12
+---
+*   [Bracket](#bracket)
+*   [Decklists](#decklists)
+*   [Standings](#standings)
+
+## Bracket
+
+### Quarterfinals
+
+**(1) Gerschi, 2-0** 
+
+(8) MrRaeb 
+
+**(4) HouseOfManaMTG, 2-0** 
+
+(5) dsissowin 
+
+**(2) TSPJendrek, 2-1** 
+
+(7) sakuragi21722749 
+
+**(3) Yooisa, 2-0** 
+
+(6) \_\_matsugan 
+
+### Semifinals
+
+**(1) Gerschi, 2-1** 
+
+(4) HouseOfManaMTG 
+
+**(2) TSPJendrek, 2-0** 
+
+(3) Yooisa 
+
+### Finals
+
+**(1) Gerschi, 2-1** 
+
+(2) TSPJendrek 
+
+## Decklists
+
+#### Gerschi (1st Place)
+
+##### Modern Challenge #12189343 on 08/02/2020
+
+ ![Download Arena Decklist](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png) ![](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+[Decklist](#none) [Stats](#none) [Sample Hand](#none) 
+
+Sort by: 
+
+##### Creature (16)
+
+4 [Abbot of Keral Keep](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbbot%5D+%5Bof%5D+%5BKeral%5D+%5BKeep%5D) 4 [Kiln Fiend](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKiln%5D+%5BFiend%5D) 4 [Monastery Swiftspear](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BSwiftspear%5D) 4 [Soul-Scar Mage](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoul-Scar%5D+%5BMage%5D) 
+
+##### Sorcery (4)
+
+4 [Thoughtseize](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D) 
+
+##### Instant (15)
+
+2 [Cling to Dust](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCling%5D+%5Bto%5D+%5BDust%5D) 1 [Gut Shot](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGut%5D+%5BShot%5D) 4 [Lava Dart](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLava%5D+%5BDart%5D) 4 [Lightning Bolt](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBolt%5D) 2 [Manamorphose](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BManamorphose%5D) 2 [Mutagenic Growth](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMutagenic%5D+%5BGrowth%5D) 
+
+##### Artifact (4)
+
+4 [Mishra's Bauble](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMishra%5D+%5BBauble%5D) 
+
+##### Enchantment (2)
+
+2 [Seal of Fire](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeal%5D+%5Bof%5D+%5BFire%5D) 
+
+##### Land (19)
+
+4 [Blackcleave Cliffs](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlackcleave%5D+%5BCliffs%5D) 2 [Blood Crypt](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlood%5D+%5BCrypt%5D) 4 [Bloodstained Mire](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D) 3 [Mountain](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D) 1 [Sacred Foundry](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSacred%5D+%5BFoundry%5D) 1 [Scalding Tarn](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScalding%5D+%5BTarn%5D) 3 [Sunbaked Canyon](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSunbaked%5D+%5BCanyon%5D) 1 [Swamp](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D) 
+
+60 Cards 
+
+##### Sideboard (15)
+
+1 [Boil](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBoil%5D) 2 [Dragon's Claw](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragon%5D+%5BClaw%5D) 2 [Fatal Push](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFatal%5D+%5BPush%5D) 2 [Flame Slash](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlame%5D+%5BSlash%5D) 1 Lurrus of the Dream-Den 3 [Molten Rain](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMolten%5D+%5BRain%5D) 2 [Nihil Spellbomb](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNihil%5D+%5BSpellbomb%5D) 2 [Wear // Tear](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWear%5D+%5B&%5D+%5BTear%5D) 
+
+##### White (2)
+
+2 [Wear // Tear](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWear%5D+%5B&%5D+%5BTear%5D) 
+
+##### Black (8)
+
+2 [Cling to Dust](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCling%5D+%5Bto%5D+%5BDust%5D) 4 [Thoughtseize](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D) 2 [Fatal Push](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFatal%5D+%5BPush%5D) 
+
+##### Red (33)
+
+4 [Abbot of Keral Keep](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbbot%5D+%5Bof%5D+%5BKeral%5D+%5BKeep%5D) 4 [Kiln Fiend](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKiln%5D+%5BFiend%5D) 4 [Monastery Swiftspear](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BSwiftspear%5D) 4 [Soul-Scar Mage](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoul-Scar%5D+%5BMage%5D) 1 [Gut Shot](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGut%5D+%5BShot%5D) 4 [Lava Dart](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLava%5D+%5BDart%5D) 4 [Lightning Bolt](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBolt%5D) 2 [Seal of Fire](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeal%5D+%5Bof%5D+%5BFire%5D) 1 [Boil](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBoil%5D) 2 [Flame Slash](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlame%5D+%5BSlash%5D) 3 [Molten Rain](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMolten%5D+%5BRain%5D) 
+
+##### Green (2)
+
+2 [Mutagenic Growth](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMutagenic%5D+%5BGrowth%5D) 
+
+##### Multi colored (2)
+
+2 [Manamorphose](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BManamorphose%5D) 
+
+##### Colorless (28)
+
+4 [Blackcleave Cliffs](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlackcleave%5D+%5BCliffs%5D) 2 [Blood Crypt](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlood%5D+%5BCrypt%5D) 4 [Bloodstained Mire](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D) 3 [Mountain](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D) 1 [Sacred Foundry](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSacred%5D+%5BFoundry%5D) 1 [Scalding Tarn](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScalding%5D+%5BTarn%5D) 3 [Sunbaked Canyon](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSunbaked%5D+%5BCanyon%5D) 1 [Swamp](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D) 4 [Mishra's Bauble](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMishra%5D+%5BBauble%5D) 2 [Dragon's Claw](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragon%5D+%5BClaw%5D) 1 Lurrus of the Dream-Den 2 [Nihil Spellbomb](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNihil%5D+%5BSpellbomb%5D) 
+
+75 Cards 
+
+##### 1 (35)
+
+4 [Monastery Swiftspear](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BSwiftspear%5D) 4 [Soul-Scar Mage](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoul-Scar%5D+%5BMage%5D) 2 [Cling to Dust](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCling%5D+%5Bto%5D+%5BDust%5D) 1 [Gut Shot](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGut%5D+%5BShot%5D) 4 [Lava Dart](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLava%5D+%5BDart%5D) 4 [Lightning Bolt](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBolt%5D) 2 [Mutagenic Growth](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMutagenic%5D+%5BGrowth%5D) 2 [Seal of Fire](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeal%5D+%5Bof%5D+%5BFire%5D) 4 [Thoughtseize](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D) 2 [Fatal Push](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFatal%5D+%5BPush%5D) 2 [Flame Slash](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlame%5D+%5BSlash%5D) 2 [Nihil Spellbomb](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNihil%5D+%5BSpellbomb%5D) 2 [Wear // Tear](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWear%5D+%5B&%5D+%5BTear%5D) 
+
+##### 2 (12)
+
+4 [Abbot of Keral Keep](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbbot%5D+%5Bof%5D+%5BKeral%5D+%5BKeep%5D) 4 [Kiln Fiend](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKiln%5D+%5BFiend%5D) 2 [Manamorphose](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BManamorphose%5D) 2 [Dragon's Claw](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragon%5D+%5BClaw%5D) 
+
+##### 3 (3)
+
+3 [Molten Rain](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMolten%5D+%5BRain%5D) 
+
+##### 4 (1)
+
+1 [Boil](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBoil%5D) 
+
+51 Cards 
+
+##### Common (28)
+
+3 [Mountain](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D) 1 [Swamp](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D) 4 [Kiln Fiend](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKiln%5D+%5BFiend%5D) 4 [Monastery Swiftspear](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BSwiftspear%5D) 1 [Gut Shot](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGut%5D+%5BShot%5D) 4 [Lava Dart](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLava%5D+%5BDart%5D) 2 [Seal of Fire](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeal%5D+%5Bof%5D+%5BFire%5D) 1 [Boil](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBoil%5D) 2 [Flame Slash](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlame%5D+%5BSlash%5D) 1 Lurrus of the Dream-Den 3 [Molten Rain](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMolten%5D+%5BRain%5D) 2 [Nihil Spellbomb](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNihil%5D+%5BSpellbomb%5D) 
+
+##### Uncommon (20)
+
+2 [Cling to Dust](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCling%5D+%5Bto%5D+%5BDust%5D) 4 [Lightning Bolt](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBolt%5D) 2 [Manamorphose](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BManamorphose%5D) 4 [Mishra's Bauble](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMishra%5D+%5BBauble%5D) 2 [Mutagenic Growth](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMutagenic%5D+%5BGrowth%5D) 2 [Dragon's Claw](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragon%5D+%5BClaw%5D) 2 [Fatal Push](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFatal%5D+%5BPush%5D) 2 [Wear // Tear](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWear%5D+%5B&%5D+%5BTear%5D) 
+
+##### Rare (19)
+
+2 [Blood Crypt](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlood%5D+%5BCrypt%5D) 1 [Sacred Foundry](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSacred%5D+%5BFoundry%5D) 1 [Scalding Tarn](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScalding%5D+%5BTarn%5D) 3 [Sunbaked Canyon](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSunbaked%5D+%5BCanyon%5D) 4 [Abbot of Keral Keep](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbbot%5D+%5Bof%5D+%5BKeral%5D+%5BKeep%5D) 4 [Soul-Scar Mage](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoul-Scar%5D+%5BMage%5D) 4 [Thoughtseize](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D) 
+
+##### Mythic (8)
+
+4 [Blackcleave Cliffs](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlackcleave%5D+%5BCliffs%5D) 4 [Bloodstained Mire](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D) 
+
+75 Cards 
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Blackcleave+Cliffs)
+
+[Deal Another Hand](https://web.archive.org/web/20200812000000/https://magic.wizards.com/en)
+
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Mountain)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Soul-Scar+Mage)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Blackcleave+Cliffs)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Soul-Scar+Mage)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Sunbaked+Canyon)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Mishra%27s+Bauble)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Mountain)
+
+a:29:{i:0;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:18:"Blackcleave Cliffs";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:1;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Blood Crypt";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"2";}i:2;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Bloodstained Mire";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:3;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:8:"Mountain";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"3";}i:4;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Sacred Foundry";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:5;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Scalding Tarn";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:6;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Sunbaked Canyon";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"3";}i:7;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:5:"Swamp";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:8;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:19:"Abbot of Keral Keep";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:9;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:10:"Kiln Fiend";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:10;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:20:"Monastery Swiftspear";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:11;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Soul-Scar Mage";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:12;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Cling to Dust";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"2";}i:13;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:8:"Gut Shot";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"1";}i:14;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:9:"Lava Dart";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"4";}i:15;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Lightning Bolt";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"4";}i:16;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Manamorphose";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"2";}i:17;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Mishra's Bauble";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";s:1:"4";}i:18;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Mutagenic Growth";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"2";}i:19;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Seal of Fire";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:11:"enchantment";s:10:"deck\_count";s:1:"2";}i:20;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Thoughtseize";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"4";}i:21;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:4:"Boil";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}i:22;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Dragon's Claw";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";i:0;}i:23;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:10:"Fatal Push";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}i:24;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Flame Slash";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";i:0;}i:25;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":0:{}s:4:"type";s:5:"Other";s:10:"deck\_count";i:0;}i:26;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Molten Rain";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";i:0;}i:27;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Nihil Spellbomb";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";i:0;}i:28;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Wear // Tear";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}} 
+
+#### TSPJendrek (2nd Place)
+
+##### Modern Challenge #12189343 on 08/02/2020
+
+ ![Download Arena Decklist](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png) ![](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+[Decklist](#none) [Stats](#none) [Sample Hand](#none) 
+
+Sort by: 
+
+##### Planeswalker (3)
+
+3 [Jace, the Mind Sculptor](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5Bthe%5D+%5BMind%5D+%5BSculptor%5D) 
+
+##### Creature (5)
+
+2 [Snapcaster Mage](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSnapcaster%5D+%5BMage%5D) 3 [Uro, Titan of Nature's Wrath](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUro,%5D+%5BTitan%5D+%5Bof%5D+%5BNature%5D+%5BWrath%5D) 
+
+##### Instant (25)
+
+1 [Abrupt Decay](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbrupt%5D+%5BDecay%5D) 1 [Aether Gust](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAether%5D+%5BGust%5D) 2 [Assassin's Trophy](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAssassin%5D+%5BTrophy%5D) 2 [Cling to Dust](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCling%5D+%5Bto%5D+%5BDust%5D) 3 [Cryptic Command](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCryptic%5D+%5BCommand%5D) 1 [Dismember](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDismember%5D) 4 [Fatal Push](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFatal%5D+%5BPush%5D) 3 [Force of Negation](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BNegation%5D) 4 [Growth Spiral](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrowth%5D+%5BSpiral%5D) 3 [Mana Leak](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BLeak%5D) 1 [Spell Snare](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpell%5D+%5BSnare%5D) 
+
+##### Enchantment (1)
+
+1 [Shark Typhoon](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShark%5D+%5BTyphoon%5D) 
+
+##### Land (26)
+
+2 [Breeding Pool](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBreeding%5D+%5BPool%5D) 2 [Field of Ruin](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BField%5D+%5Bof%5D+%5BRuin%5D) 1 [Flooded Strand](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D) 2 [Forest](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D) 3 [Island](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D) 4 [Misty Rainforest](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMisty%5D+%5BRainforest%5D) 3 [Mystic Sanctuary](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystic%5D+%5BSanctuary%5D) 4 [Polluted Delta](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D) 1 [Scalding Tarn](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScalding%5D+%5BTarn%5D) 1 [Swamp](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D) 2 [Watery Grave](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWatery%5D+%5BGrave%5D) 1 [Zagoth Triome](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZagoth%5D+%5BTriome%5D) 
+
+60 Cards 
+
+##### Sideboard (15)
+
+3 [Aether Gust](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAether%5D+%5BGust%5D) 2 [Ashiok, Dream Render](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAshiok,%5D+%5BDream%5D+%5BRender%5D) 2 [Ceremonious Rejection](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCeremonious%5D+%5BRejection%5D) 1 [Damnation](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDamnation%5D) 2 [Engineered Explosives](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEngineered%5D+%5BExplosives%5D) 2 [Nihil Spellbomb](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNihil%5D+%5BSpellbomb%5D) 2 [Veil of Summer](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVeil%5D+%5Bof%5D+%5BSummer%5D) 1 [Vendilion Clique](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVendilion%5D+%5BClique%5D) 
+
+##### Blue (23)
+
+2 [Snapcaster Mage](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSnapcaster%5D+%5BMage%5D) 4 [Aether Gust](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAether%5D+%5BGust%5D) 3 [Cryptic Command](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCryptic%5D+%5BCommand%5D) 3 [Force of Negation](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BNegation%5D) 3 [Jace, the Mind Sculptor](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5Bthe%5D+%5BMind%5D+%5BSculptor%5D) 3 [Mana Leak](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BLeak%5D) 1 [Shark Typhoon](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShark%5D+%5BTyphoon%5D) 1 [Spell Snare](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpell%5D+%5BSnare%5D) 2 [Ceremonious Rejection](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCeremonious%5D+%5BRejection%5D) 1 [Vendilion Clique](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVendilion%5D+%5BClique%5D) 
+
+##### Black (8)
+
+2 [Cling to Dust](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCling%5D+%5Bto%5D+%5BDust%5D) 1 [Dismember](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDismember%5D) 4 [Fatal Push](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFatal%5D+%5BPush%5D) 1 [Damnation](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDamnation%5D) 
+
+##### Green (2)
+
+2 [Veil of Summer](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVeil%5D+%5Bof%5D+%5BSummer%5D) 
+
+##### Multi colored (12)
+
+3 [Uro, Titan of Nature's Wrath](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUro,%5D+%5BTitan%5D+%5Bof%5D+%5BNature%5D+%5BWrath%5D) 1 [Abrupt Decay](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbrupt%5D+%5BDecay%5D) 2 [Assassin's Trophy](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAssassin%5D+%5BTrophy%5D) 4 [Growth Spiral](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrowth%5D+%5BSpiral%5D) 2 [Ashiok, Dream Render](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAshiok,%5D+%5BDream%5D+%5BRender%5D) 
+
+##### Colorless (30)
+
+2 [Breeding Pool](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBreeding%5D+%5BPool%5D) 2 [Field of Ruin](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BField%5D+%5Bof%5D+%5BRuin%5D) 1 [Flooded Strand](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D) 2 [Forest](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D) 3 [Island](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D) 4 [Misty Rainforest](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMisty%5D+%5BRainforest%5D) 3 [Mystic Sanctuary](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystic%5D+%5BSanctuary%5D) 4 [Polluted Delta](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D) 1 [Scalding Tarn](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScalding%5D+%5BTarn%5D) 1 [Swamp](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D) 2 [Watery Grave](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWatery%5D+%5BGrave%5D) 1 [Zagoth Triome](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZagoth%5D+%5BTriome%5D) 2 [Engineered Explosives](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEngineered%5D+%5BExplosives%5D) 2 [Nihil Spellbomb](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNihil%5D+%5BSpellbomb%5D) 
+
+75 Cards 
+
+##### 1 (13)
+
+2 [Cling to Dust](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCling%5D+%5Bto%5D+%5BDust%5D) 4 [Fatal Push](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFatal%5D+%5BPush%5D) 1 [Spell Snare](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpell%5D+%5BSnare%5D) 2 [Ceremonious Rejection](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCeremonious%5D+%5BRejection%5D) 2 [Nihil Spellbomb](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNihil%5D+%5BSpellbomb%5D) 2 [Veil of Summer](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVeil%5D+%5Bof%5D+%5BSummer%5D) 
+
+##### 2 (16)
+
+2 [Snapcaster Mage](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSnapcaster%5D+%5BMage%5D) 1 [Abrupt Decay](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbrupt%5D+%5BDecay%5D) 4 [Aether Gust](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAether%5D+%5BGust%5D) 2 [Assassin's Trophy](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAssassin%5D+%5BTrophy%5D) 4 [Growth Spiral](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrowth%5D+%5BSpiral%5D) 3 [Mana Leak](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BLeak%5D) 
+
+##### 3 (10)
+
+3 [Uro, Titan of Nature's Wrath](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUro,%5D+%5BTitan%5D+%5Bof%5D+%5BNature%5D+%5BWrath%5D) 1 [Dismember](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDismember%5D) 3 [Force of Negation](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BNegation%5D) 2 [Ashiok, Dream Render](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAshiok,%5D+%5BDream%5D+%5BRender%5D) 1 [Vendilion Clique](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVendilion%5D+%5BClique%5D) 
+
+##### 4 (7)
+
+3 [Cryptic Command](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCryptic%5D+%5BCommand%5D) 3 [Jace, the Mind Sculptor](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5Bthe%5D+%5BMind%5D+%5BSculptor%5D) 1 [Damnation](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDamnation%5D) 
+
+##### 6 (1)
+
+1 [Shark Typhoon](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShark%5D+%5BTyphoon%5D) 
+
+47 Cards 
+
+##### Common (20)
+
+2 [Forest](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D) 3 [Island](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D) 3 [Mystic Sanctuary](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystic%5D+%5BSanctuary%5D) 1 [Swamp](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D) 1 [Abrupt Decay](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbrupt%5D+%5BDecay%5D) 1 [Dismember](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDismember%5D) 4 [Growth Spiral](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrowth%5D+%5BSpiral%5D) 3 [Mana Leak](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BLeak%5D) 2 [Nihil Spellbomb](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNihil%5D+%5BSpellbomb%5D) 
+
+##### Uncommon (19)
+
+2 [Field of Ruin](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BField%5D+%5Bof%5D+%5BRuin%5D) 4 [Aether Gust](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAether%5D+%5BGust%5D) 2 [Cling to Dust](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCling%5D+%5Bto%5D+%5BDust%5D) 4 [Fatal Push](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFatal%5D+%5BPush%5D) 1 [Spell Snare](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpell%5D+%5BSnare%5D) 2 [Ashiok, Dream Render](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAshiok,%5D+%5BDream%5D+%5BRender%5D) 2 [Ceremonious Rejection](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCeremonious%5D+%5BRejection%5D) 2 [Veil of Summer](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVeil%5D+%5Bof%5D+%5BSummer%5D) 
+
+##### Rare (24)
+
+2 [Breeding Pool](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBreeding%5D+%5BPool%5D) 4 [Misty Rainforest](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMisty%5D+%5BRainforest%5D) 1 [Scalding Tarn](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScalding%5D+%5BTarn%5D) 2 [Watery Grave](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWatery%5D+%5BGrave%5D) 1 [Zagoth Triome](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZagoth%5D+%5BTriome%5D) 2 [Snapcaster Mage](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSnapcaster%5D+%5BMage%5D) 2 [Assassin's Trophy](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAssassin%5D+%5BTrophy%5D) 3 [Cryptic Command](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCryptic%5D+%5BCommand%5D) 3 [Force of Negation](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BNegation%5D) 1 [Shark Typhoon](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShark%5D+%5BTyphoon%5D) 1 [Damnation](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDamnation%5D) 2 [Engineered Explosives](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEngineered%5D+%5BExplosives%5D) 
+
+##### Mythic (12)
+
+1 [Flooded Strand](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D) 4 [Polluted Delta](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D) 3 [Uro, Titan of Nature's Wrath](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUro,%5D+%5BTitan%5D+%5Bof%5D+%5BNature%5D+%5BWrath%5D) 3 [Jace, the Mind Sculptor](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BJace,%5D+%5Bthe%5D+%5BMind%5D+%5BSculptor%5D) 1 [Vendilion Clique](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVendilion%5D+%5BClique%5D) 
+
+75 Cards 
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Breeding+Pool)
+
+[Deal Another Hand](https://web.archive.org/web/20200812000000/https://magic.wizards.com/en)
+
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Growth+Spiral)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Misty+Rainforest)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Growth+Spiral)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Fatal+Push)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Aether+Gust)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Dismember)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Polluted+Delta)
+
+a:34:{i:0;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Breeding Pool";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"2";}i:1;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Field of Ruin";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"2";}i:2;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Flooded Strand";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:3;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:6:"Forest";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"2";}i:4;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:6:"Island";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"3";}i:5;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Misty Rainforest";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:6;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Mystic Sanctuary";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"3";}i:7;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Polluted Delta";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:8;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Scalding Tarn";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:9;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:5:"Swamp";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:10;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Watery Grave";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"2";}i:11;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Zagoth Triome";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:12;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Snapcaster Mage";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"2";}i:13;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:28:"Uro, Titan of Nature's Wrath";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"3";}i:14;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Abrupt Decay";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"1";}i:15;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Aether Gust";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"1";}i:16;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Assassin's Trophy";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"2";}i:17;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Cling to Dust";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"2";}i:18;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Cryptic Command";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"3";}i:19;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:9:"Dismember";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"1";}i:20;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:10:"Fatal Push";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"4";}i:21;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Force of Negation";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"3";}i:22;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Growth Spiral";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"4";}i:23;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:23:"Jace, the Mind Sculptor";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:12:"planeswalker";s:10:"deck\_count";s:1:"3";}i:24;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:9:"Mana Leak";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"3";}i:25;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Shark Typhoon";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:11:"enchantment";s:10:"deck\_count";s:1:"1";}i:26;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Spell Snare";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"1";}i:27;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:20:"Ashiok, Dream Render";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:12:"planeswalker";s:10:"deck\_count";i:0;}i:28;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:21:"Ceremonious Rejection";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}i:29;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:9:"Damnation";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";i:0;}i:30;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:21:"Engineered Explosives";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";i:0;}i:31;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Nihil Spellbomb";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";i:0;}i:32;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Veil of Summer";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}i:33;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Vendilion Clique";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";i:0;}} 
+
+#### Yooisa (3rd Place)
+
+##### Modern Challenge #12189343 on 08/02/2020
+
+ ![Download Arena Decklist](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png) ![](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+[Decklist](#none) [Stats](#none) [Sample Hand](#none) 
+
+Sort by: 
+
+##### Creature (14)
+
+4 [Blighted Agent](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlighted%5D+%5BAgent%5D) 4 [Glistener Elf](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlistener%5D+%5BElf%5D) 4 [Noble Hierarch](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNoble%5D+%5BHierarch%5D) 1 [Spellskite](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpellskite%5D) 1 [Uro, Titan of Nature's Wrath](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUro,%5D+%5BTitan%5D+%5Bof%5D+%5BNature%5D+%5BWrath%5D) 
+
+##### Sorcery (6)
+
+2 [Distortion Strike](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDistortion%5D+%5BStrike%5D) 4 [Scale Up](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScale%5D+%5BUp%5D) 
+
+##### Instant (19)
+
+4 [Blossoming Defense](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlossoming%5D+%5BDefense%5D) 2 [Groundswell](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGroundswell%5D) 4 [Might of Old Krosa](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMight%5D+%5Bof%5D+%5BOld%5D+%5BKrosa%5D) 3 [Mutagenic Growth](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMutagenic%5D+%5BGrowth%5D) 2 [Spell Pierce](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpell%5D+%5BPierce%5D) 4 [Vines of Vastwood](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVines%5D+%5Bof%5D+%5BVastwood%5D) 
+
+##### Land (21)
+
+3 [Breeding Pool](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBreeding%5D+%5BPool%5D) 3 [Forest](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D) 4 [Inkmoth Nexus](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInkmoth%5D+%5BNexus%5D) 4 [Misty Rainforest](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMisty%5D+%5BRainforest%5D) 1 [Pendelhaven](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPendelhaven%5D) 2 [Verdant Catacombs](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVerdant%5D+%5BCatacombs%5D) 2 [Waterlogged Grove](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWaterlogged%5D+%5BGrove%5D) 1 [Windswept Heath](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D) 1 [Wooded Foothills](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D) 
+
+60 Cards 
+
+##### Sideboard (15)
+
+2 [Spellskite](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpellskite%5D) 1 [Uro, Titan of Nature's Wrath](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUro,%5D+%5BTitan%5D+%5Bof%5D+%5BNature%5D+%5BWrath%5D) 2 [Dismember](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDismember%5D) 2 [Force of Vigor](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BVigor%5D) 1 [Grafdigger's Cage](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrafdigger%5D+%5BCage%5D) 1 [Island](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D) 1 [Miscast](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMiscast%5D) 1 [Mystical Dispute](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BDispute%5D) 1 [Pithing Needle](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D) 2 [Veil of Summer](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVeil%5D+%5Bof%5D+%5BSummer%5D) 1 [Wilt](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWilt%5D) 
+
+##### Blue (10)
+
+4 [Blighted Agent](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlighted%5D+%5BAgent%5D) 2 [Distortion Strike](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDistortion%5D+%5BStrike%5D) 2 [Spell Pierce](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpell%5D+%5BPierce%5D) 1 [Miscast](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMiscast%5D) 1 [Mystical Dispute](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BDispute%5D) 
+
+##### Black (2)
+
+2 [Dismember](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDismember%5D) 
+
+##### Green (34)
+
+4 [Glistener Elf](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlistener%5D+%5BElf%5D) 4 [Noble Hierarch](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNoble%5D+%5BHierarch%5D) 4 [Blossoming Defense](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlossoming%5D+%5BDefense%5D) 2 [Groundswell](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGroundswell%5D) 4 [Might of Old Krosa](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMight%5D+%5Bof%5D+%5BOld%5D+%5BKrosa%5D) 3 [Mutagenic Growth](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMutagenic%5D+%5BGrowth%5D) 4 [Scale Up](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScale%5D+%5BUp%5D) 4 [Vines of Vastwood](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVines%5D+%5Bof%5D+%5BVastwood%5D) 2 [Force of Vigor](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BVigor%5D) 2 [Veil of Summer](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVeil%5D+%5Bof%5D+%5BSummer%5D) 1 [Wilt](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWilt%5D) 
+
+##### Multi colored (2)
+
+2 [Uro, Titan of Nature's Wrath](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUro,%5D+%5BTitan%5D+%5Bof%5D+%5BNature%5D+%5BWrath%5D) 
+
+##### Colorless (27)
+
+3 [Breeding Pool](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBreeding%5D+%5BPool%5D) 3 [Forest](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D) 4 [Inkmoth Nexus](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInkmoth%5D+%5BNexus%5D) 4 [Misty Rainforest](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMisty%5D+%5BRainforest%5D) 1 [Pendelhaven](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPendelhaven%5D) 2 [Verdant Catacombs](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVerdant%5D+%5BCatacombs%5D) 2 [Waterlogged Grove](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWaterlogged%5D+%5BGrove%5D) 1 [Windswept Heath](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D) 1 [Wooded Foothills](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D) 3 [Spellskite](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpellskite%5D) 1 [Grafdigger's Cage](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrafdigger%5D+%5BCage%5D) 1 [Island](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D) 1 [Pithing Needle](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D) 
+
+75 Cards 
+
+##### 1 (38)
+
+4 [Glistener Elf](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlistener%5D+%5BElf%5D) 4 [Noble Hierarch](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNoble%5D+%5BHierarch%5D) 4 [Blossoming Defense](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlossoming%5D+%5BDefense%5D) 2 [Distortion Strike](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDistortion%5D+%5BStrike%5D) 2 [Groundswell](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGroundswell%5D) 4 [Might of Old Krosa](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMight%5D+%5Bof%5D+%5BOld%5D+%5BKrosa%5D) 3 [Mutagenic Growth](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMutagenic%5D+%5BGrowth%5D) 4 [Scale Up](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScale%5D+%5BUp%5D) 2 [Spell Pierce](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpell%5D+%5BPierce%5D) 4 [Vines of Vastwood](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVines%5D+%5Bof%5D+%5BVastwood%5D) 1 [Grafdigger's Cage](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrafdigger%5D+%5BCage%5D) 1 [Miscast](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMiscast%5D) 1 [Pithing Needle](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D) 2 [Veil of Summer](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVeil%5D+%5Bof%5D+%5BSummer%5D) 
+
+##### 2 (8)
+
+4 [Blighted Agent](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlighted%5D+%5BAgent%5D) 3 [Spellskite](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpellskite%5D) 1 [Wilt](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWilt%5D) 
+
+##### 3 (5)
+
+2 [Uro, Titan of Nature's Wrath](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUro,%5D+%5BTitan%5D+%5Bof%5D+%5BNature%5D+%5BWrath%5D) 2 [Dismember](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDismember%5D) 1 [Mystical Dispute](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BDispute%5D) 
+
+##### 4 (2)
+
+2 [Force of Vigor](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BVigor%5D) 
+
+53 Cards 
+
+##### Common (27)
+
+3 [Forest](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D) 4 [Blighted Agent](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlighted%5D+%5BAgent%5D) 4 [Glistener Elf](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlistener%5D+%5BElf%5D) 2 [Groundswell](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGroundswell%5D) 4 [Might of Old Krosa](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMight%5D+%5Bof%5D+%5BOld%5D+%5BKrosa%5D) 2 [Spell Pierce](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpell%5D+%5BPierce%5D) 4 [Vines of Vastwood](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVines%5D+%5Bof%5D+%5BVastwood%5D) 2 [Dismember](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDismember%5D) 1 [Island](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D) 1 [Wilt](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWilt%5D) 
+
+##### Uncommon (17)
+
+4 [Blossoming Defense](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlossoming%5D+%5BDefense%5D) 2 [Distortion Strike](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDistortion%5D+%5BStrike%5D) 3 [Mutagenic Growth](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMutagenic%5D+%5BGrowth%5D) 4 [Scale Up](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScale%5D+%5BUp%5D) 1 [Miscast](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMiscast%5D) 1 [Mystical Dispute](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystical%5D+%5BDispute%5D) 2 [Veil of Summer](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVeil%5D+%5Bof%5D+%5BSummer%5D) 
+
+##### Rare (27)
+
+3 [Breeding Pool](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBreeding%5D+%5BPool%5D) 4 [Inkmoth Nexus](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInkmoth%5D+%5BNexus%5D) 4 [Misty Rainforest](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMisty%5D+%5BRainforest%5D) 1 [Pendelhaven](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPendelhaven%5D) 2 [Verdant Catacombs](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVerdant%5D+%5BCatacombs%5D) 2 [Waterlogged Grove](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWaterlogged%5D+%5BGrove%5D) 4 [Noble Hierarch](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNoble%5D+%5BHierarch%5D) 3 [Spellskite](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpellskite%5D) 2 [Force of Vigor](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5Bof%5D+%5BVigor%5D) 1 [Grafdigger's Cage](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrafdigger%5D+%5BCage%5D) 1 [Pithing Needle](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D) 
+
+##### Mythic (4)
+
+1 [Windswept Heath](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D) 1 [Wooded Foothills](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D) 2 [Uro, Titan of Nature's Wrath](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUro,%5D+%5BTitan%5D+%5Bof%5D+%5BNature%5D+%5BWrath%5D) 
+
+75 Cards 
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Breeding+Pool)
+
+[Deal Another Hand](https://web.archive.org/web/20200812000000/https://magic.wizards.com/en)
+
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Pendelhaven)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Uro%2C+Titan+of+Nature%27s+Wrath)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Scale+Up)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Distortion+Strike)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Glistener+Elf)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Scale+Up)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Breeding+Pool)
+
+a:31:{i:0;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Breeding Pool";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"3";}i:1;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:6:"Forest";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"3";}i:2;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Inkmoth Nexus";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:3;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Misty Rainforest";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:4;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Pendelhaven";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:5;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Verdant Catacombs";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"2";}i:6;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Waterlogged Grove";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"2";}i:7;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Windswept Heath";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:8;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Wooded Foothills";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:9;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Blighted Agent";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:10;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Glistener Elf";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:11;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Noble Hierarch";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:12;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:10:"Spellskite";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"1";}i:13;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:28:"Uro, Titan of Nature's Wrath";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"1";}i:14;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:18:"Blossoming Defense";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"4";}i:15;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Distortion Strike";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"2";}i:16;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Groundswell";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"2";}i:17;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:18:"Might of Old Krosa";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"4";}i:18;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Mutagenic Growth";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"3";}i:19;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:8:"Scale Up";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"4";}i:20;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Spell Pierce";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"2";}i:21;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Vines of Vastwood";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"4";}i:22;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:9:"Dismember";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}i:23;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Force of Vigor";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}i:24;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Grafdigger's Cage";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";i:0;}i:25;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:6:"Island";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";i:0;}i:26;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:7:"Miscast";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}i:27;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Mystical Dispute";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}i:28;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Pithing Needle";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";i:0;}i:29;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Veil of Summer";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}i:30;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:4:"Wilt";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}} 
+
+#### HouseOfManaMTG (4th Place)
+
+##### Modern Challenge #12189343 on 08/02/2020
+
+ ![Download Arena Decklist](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png) ![](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+[Decklist](#none) [Stats](#none) [Sample Hand](#none) 
+
+Sort by: 
+
+##### Planeswalker (12)
+
+4 [Karn Liberated](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarn%5D+%5BLiberated%5D) 4 [Karn, the Great Creator](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarn,%5D+%5Bthe%5D+%5BGreat%5D+%5BCreator%5D) 2 [Ugin, the Ineffable](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BIneffable%5D) 2 [Ugin, the Spirit Dragon](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D) 
+
+##### Creature (9)
+
+1 [Emrakul, the Promised End](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEmrakul,%5D+%5Bthe%5D+%5BPromised%5D+%5BEnd%5D) 1 [Kozilek, Butcher of Truth](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKozilek,%5D+%5BButcher%5D+%5Bof%5D+%5BTruth%5D) 1 [Ulamog, the Ceaseless Hunger](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUlamog,%5D+%5Bthe%5D+%5BCeaseless%5D+%5BHunger%5D) 2 [Walking Ballista](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWalking%5D+%5BBallista%5D) 4 [Wurmcoil Engine](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWurmcoil%5D+%5BEngine%5D) 
+
+##### Sorcery (9)
+
+1 [All Is Dust](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAll%5D+%5BIs%5D+%5BDust%5D) 4 [Ancient Stirrings](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BStirrings%5D) 4 [Sylvan Scrying](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSylvan%5D+%5BScrying%5D) 
+
+##### Artifact (12)
+
+4 [Chromatic Sphere](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChromatic%5D+%5BSphere%5D) 4 [Chromatic Star](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChromatic%5D+%5BStar%5D) 4 [Expedition Map](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExpedition%5D+%5BMap%5D) 
+
+##### Land (18)
+
+1 [Blast Zone](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlast%5D+%5BZone%5D) 1 [Sanctum of Ugin](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSanctum%5D+%5Bof%5D+%5BUgin%5D) 4 [Snow-Covered Forest](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSnow-Covered%5D+%5BForest%5D) 4 [Urza's Mine](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BMine%5D) 4 [Urza's Power Plant](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BPower%5D+%5BPlant%5D) 4 [Urza's Tower](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BTower%5D) 
+
+60 Cards 
+
+##### Sideboard (15)
+
+2 [Dismember](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDismember%5D) 1 [Elixir of Immortality](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElixir%5D+%5Bof%5D+%5BImmortality%5D) 1 [Ensnaring Bridge](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnsnaring%5D+%5BBridge%5D) 2 [Leyline of Sanctity](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5BSanctity%5D) 1 [Liquimetal Coating](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLiquimetal%5D+%5BCoating%5D) 1 [Relic of Progenitus](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5Bof%5D+%5BProgenitus%5D) 1 [Sorcerous Spyglass](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSorcerous%5D+%5BSpyglass%5D) 1 [Sundering Titan](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSundering%5D+%5BTitan%5D) 1 [Trinisphere](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrinisphere%5D) 2 [Veil of Summer](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVeil%5D+%5Bof%5D+%5BSummer%5D) 2 [Wilt](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWilt%5D) 
+
+##### White (2)
+
+2 [Leyline of Sanctity](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5BSanctity%5D) 
+
+##### Black (2)
+
+2 [Dismember](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDismember%5D) 
+
+##### Green (12)
+
+4 [Ancient Stirrings](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BStirrings%5D) 4 [Sylvan Scrying](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSylvan%5D+%5BScrying%5D) 2 [Veil of Summer](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVeil%5D+%5Bof%5D+%5BSummer%5D) 2 [Wilt](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWilt%5D) 
+
+##### Colorless (59)
+
+1 [Blast Zone](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlast%5D+%5BZone%5D) 1 [Sanctum of Ugin](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSanctum%5D+%5Bof%5D+%5BUgin%5D) 4 [Snow-Covered Forest](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSnow-Covered%5D+%5BForest%5D) 4 [Urza's Mine](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BMine%5D) 4 [Urza's Power Plant](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BPower%5D+%5BPlant%5D) 4 [Urza's Tower](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BTower%5D) 1 [Emrakul, the Promised End](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEmrakul,%5D+%5Bthe%5D+%5BPromised%5D+%5BEnd%5D) 1 [Kozilek, Butcher of Truth](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKozilek,%5D+%5BButcher%5D+%5Bof%5D+%5BTruth%5D) 1 [Ulamog, the Ceaseless Hunger](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUlamog,%5D+%5Bthe%5D+%5BCeaseless%5D+%5BHunger%5D) 2 [Walking Ballista](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWalking%5D+%5BBallista%5D) 4 [Wurmcoil Engine](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWurmcoil%5D+%5BEngine%5D) 1 [All Is Dust](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAll%5D+%5BIs%5D+%5BDust%5D) 4 [Chromatic Sphere](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChromatic%5D+%5BSphere%5D) 4 [Chromatic Star](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChromatic%5D+%5BStar%5D) 4 [Expedition Map](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExpedition%5D+%5BMap%5D) 4 [Karn Liberated](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarn%5D+%5BLiberated%5D) 4 [Karn, the Great Creator](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarn,%5D+%5Bthe%5D+%5BGreat%5D+%5BCreator%5D) 2 [Ugin, the Ineffable](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BIneffable%5D) 2 [Ugin, the Spirit Dragon](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D) 1 [Elixir of Immortality](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElixir%5D+%5Bof%5D+%5BImmortality%5D) 1 [Ensnaring Bridge](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnsnaring%5D+%5BBridge%5D) 1 [Liquimetal Coating](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLiquimetal%5D+%5BCoating%5D) 1 [Relic of Progenitus](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5Bof%5D+%5BProgenitus%5D) 1 [Sorcerous Spyglass](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSorcerous%5D+%5BSpyglass%5D) 1 [Sundering Titan](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSundering%5D+%5BTitan%5D) 1 [Trinisphere](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrinisphere%5D) 
+
+75 Cards 
+
+##### 1 (20)
+
+4 [Ancient Stirrings](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BStirrings%5D) 4 [Chromatic Sphere](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChromatic%5D+%5BSphere%5D) 4 [Chromatic Star](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChromatic%5D+%5BStar%5D) 4 [Expedition Map](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExpedition%5D+%5BMap%5D) 1 [Elixir of Immortality](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElixir%5D+%5Bof%5D+%5BImmortality%5D) 1 [Relic of Progenitus](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5Bof%5D+%5BProgenitus%5D) 2 [Veil of Summer](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVeil%5D+%5Bof%5D+%5BSummer%5D) 
+
+##### 2 (8)
+
+4 [Sylvan Scrying](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSylvan%5D+%5BScrying%5D) 1 [Liquimetal Coating](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLiquimetal%5D+%5BCoating%5D) 1 [Sorcerous Spyglass](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSorcerous%5D+%5BSpyglass%5D) 2 [Wilt](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWilt%5D) 
+
+##### 3 (4)
+
+2 [Dismember](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDismember%5D) 1 [Ensnaring Bridge](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnsnaring%5D+%5BBridge%5D) 1 [Trinisphere](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrinisphere%5D) 
+
+##### 4 (6)
+
+4 [Karn, the Great Creator](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarn,%5D+%5Bthe%5D+%5BGreat%5D+%5BCreator%5D) 2 [Leyline of Sanctity](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5BSanctity%5D) 
+
+##### 6 (6)
+
+4 [Wurmcoil Engine](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWurmcoil%5D+%5BEngine%5D) 2 [Ugin, the Ineffable](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BIneffable%5D) 
+
+##### 7 (5)
+
+1 [All Is Dust](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAll%5D+%5BIs%5D+%5BDust%5D) 4 [Karn Liberated](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarn%5D+%5BLiberated%5D) 
+
+##### 8 (3)
+
+2 [Ugin, the Spirit Dragon](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D) 1 [Sundering Titan](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSundering%5D+%5BTitan%5D) 
+
+##### 10 (2)
+
+1 [Kozilek, Butcher of Truth](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKozilek,%5D+%5BButcher%5D+%5Bof%5D+%5BTruth%5D) 1 [Ulamog, the Ceaseless Hunger](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUlamog,%5D+%5Bthe%5D+%5BCeaseless%5D+%5BHunger%5D) 
+
+##### 13 (1)
+
+1 [Emrakul, the Promised End](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEmrakul,%5D+%5Bthe%5D+%5BPromised%5D+%5BEnd%5D) 
+
+55 Cards 
+
+##### Common (38)
+
+4 [Snow-Covered Forest](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSnow-Covered%5D+%5BForest%5D) 4 [Urza's Mine](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BMine%5D) 4 [Urza's Power Plant](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BPower%5D+%5BPlant%5D) 4 [Urza's Tower](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BTower%5D) 4 [Ancient Stirrings](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BStirrings%5D) 4 [Chromatic Sphere](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChromatic%5D+%5BSphere%5D) 4 [Chromatic Star](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChromatic%5D+%5BStar%5D) 4 [Sylvan Scrying](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSylvan%5D+%5BScrying%5D) 2 [Dismember](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDismember%5D) 1 [Relic of Progenitus](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5Bof%5D+%5BProgenitus%5D) 1 [Sorcerous Spyglass](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSorcerous%5D+%5BSpyglass%5D) 2 [Wilt](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWilt%5D) 
+
+##### Uncommon (8)
+
+4 [Expedition Map](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExpedition%5D+%5BMap%5D) 1 [Elixir of Immortality](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElixir%5D+%5Bof%5D+%5BImmortality%5D) 1 [Liquimetal Coating](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLiquimetal%5D+%5BCoating%5D) 2 [Veil of Summer](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVeil%5D+%5Bof%5D+%5BSummer%5D) 
+
+##### Rare (14)
+
+1 [Blast Zone](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlast%5D+%5BZone%5D) 1 [Sanctum of Ugin](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSanctum%5D+%5Bof%5D+%5BUgin%5D) 2 [Walking Ballista](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWalking%5D+%5BBallista%5D) 1 [All Is Dust](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAll%5D+%5BIs%5D+%5BDust%5D) 4 [Karn, the Great Creator](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarn,%5D+%5Bthe%5D+%5BGreat%5D+%5BCreator%5D) 2 [Ugin, the Ineffable](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BIneffable%5D) 2 [Leyline of Sanctity](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5BSanctity%5D) 1 [Sundering Titan](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSundering%5D+%5BTitan%5D) 
+
+##### Mythic (15)
+
+1 [Emrakul, the Promised End](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEmrakul,%5D+%5Bthe%5D+%5BPromised%5D+%5BEnd%5D) 1 [Kozilek, Butcher of Truth](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKozilek,%5D+%5BButcher%5D+%5Bof%5D+%5BTruth%5D) 1 [Ulamog, the Ceaseless Hunger](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUlamog,%5D+%5Bthe%5D+%5BCeaseless%5D+%5BHunger%5D) 4 [Wurmcoil Engine](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWurmcoil%5D+%5BEngine%5D) 4 [Karn Liberated](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarn%5D+%5BLiberated%5D) 2 [Ugin, the Spirit Dragon](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D) 1 [Ensnaring Bridge](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnsnaring%5D+%5BBridge%5D) 1 [Trinisphere](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrinisphere%5D) 
+
+75 Cards 
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Blast+Zone)
+
+[Deal Another Hand](https://web.archive.org/web/20200812000000/https://magic.wizards.com/en)
+
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Expedition+Map)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Urza%27s+Mine)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Ulamog%2C+the+Ceaseless+Hunger)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Karn+Liberated)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Urza%27s+Tower)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Chromatic+Star)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Sanctum+of+Ugin)
+
+a:32:{i:0;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:10:"Blast Zone";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:1;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Sanctum of Ugin";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:2;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:19:"Snow-Covered Forest";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:3;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Urza's Mine";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:4;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:18:"Urza's Power Plant";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:5;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Urza's Tower";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:6;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:25:"Emrakul, the Promised End";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"1";}i:7;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:25:"Kozilek, Butcher of Truth";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"1";}i:8;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:28:"Ulamog, the Ceaseless Hunger";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"1";}i:9;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Walking Ballista";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"2";}i:10;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Wurmcoil Engine";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:11;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"All Is Dust";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"1";}i:12;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Ancient Stirrings";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"4";}i:13;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Chromatic Sphere";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";s:1:"4";}i:14;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Chromatic Star";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";s:1:"4";}i:15;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Expedition Map";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";s:1:"4";}i:16;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Karn Liberated";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:12:"planeswalker";s:10:"deck\_count";s:1:"4";}i:17;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:23:"Karn, the Great Creator";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:12:"planeswalker";s:10:"deck\_count";s:1:"4";}i:18;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Sylvan Scrying";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"4";}i:19;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:19:"Ugin, the Ineffable";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:12:"planeswalker";s:10:"deck\_count";s:1:"2";}i:20;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:23:"Ugin, the Spirit Dragon";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:12:"planeswalker";s:10:"deck\_count";s:1:"2";}i:21;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:9:"Dismember";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}i:22;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:21:"Elixir of Immortality";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";i:0;}i:23;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Ensnaring Bridge";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";i:0;}i:24;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:19:"Leyline of Sanctity";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:11:"enchantment";s:10:"deck\_count";i:0;}i:25;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:18:"Liquimetal Coating";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";i:0;}i:26;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:19:"Relic of Progenitus";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";i:0;}i:27;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:18:"Sorcerous Spyglass";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";i:0;}i:28;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Sundering Titan";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";i:0;}i:29;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Trinisphere";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";i:0;}i:30;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Veil of Summer";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}i:31;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:4:"Wilt";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}} 
+
+#### dsissowin (5th Place)
+
+##### Modern Challenge #12189343 on 08/02/2020
+
+ ![Download Arena Decklist](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png) ![](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+[Decklist](#none) [Stats](#none) [Sample Hand](#none) 
+
+Sort by: 
+
+##### Creature (17)
+
+2 [Bedlam Reveler](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBedlam%5D+%5BReveler%5D) 4 [Monastery Swiftspear](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BSwiftspear%5D) 4 [Soul-Scar Mage](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoul-Scar%5D+%5BMage%5D) 3 [Sprite Dragon](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSprite%5D+%5BDragon%5D) 4 [Stormwing Entity](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStormwing%5D+%5BEntity%5D) 
+
+##### Sorcery (4)
+
+4 [Light Up the Stage](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLight%5D+%5BUp%5D+%5Bthe%5D+%5BStage%5D) 
+
+##### Instant (21)
+
+3 [Gut Shot](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGut%5D+%5BShot%5D) 4 [Lava Dart](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLava%5D+%5BDart%5D) 4 [Lightning Bolt](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBolt%5D) 4 [Manamorphose](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BManamorphose%5D) 3 [Mutagenic Growth](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMutagenic%5D+%5BGrowth%5D) 3 [Opt](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOpt%5D) 
+
+##### Land (18)
+
+3 [Arid Mesa](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArid%5D+%5BMesa%5D) 3 [Fiery Islet](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFiery%5D+%5BIslet%5D) 3 [Mountain](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D) 4 [Spirebluff Canal](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpirebluff%5D+%5BCanal%5D) 2 [Steam Vents](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteam%5D+%5BVents%5D) 3 [Wooded Foothills](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D) 
+
+60 Cards 
+
+##### Sideboard (15)
+
+3 [Abrade](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbrade%5D) 3 [Aether Gust](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAether%5D+%5BGust%5D) 2 [Blood Moon](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlood%5D+%5BMoon%5D) 3 [Dragon's Claw](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragon%5D+%5BClaw%5D) 2 [Spell Pierce](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpell%5D+%5BPierce%5D) 2 [Surgical Extraction](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSurgical%5D+%5BExtraction%5D) 
+
+##### Blue (12)
+
+4 [Stormwing Entity](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStormwing%5D+%5BEntity%5D) 3 [Opt](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOpt%5D) 3 [Aether Gust](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAether%5D+%5BGust%5D) 2 [Spell Pierce](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpell%5D+%5BPierce%5D) 
+
+##### Black (2)
+
+2 [Surgical Extraction](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSurgical%5D+%5BExtraction%5D) 
+
+##### Red (30)
+
+2 [Bedlam Reveler](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBedlam%5D+%5BReveler%5D) 4 [Monastery Swiftspear](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BSwiftspear%5D) 4 [Soul-Scar Mage](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoul-Scar%5D+%5BMage%5D) 3 [Gut Shot](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGut%5D+%5BShot%5D) 4 [Lava Dart](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLava%5D+%5BDart%5D) 4 [Light Up the Stage](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLight%5D+%5BUp%5D+%5Bthe%5D+%5BStage%5D) 4 [Lightning Bolt](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBolt%5D) 3 [Abrade](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbrade%5D) 2 [Blood Moon](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlood%5D+%5BMoon%5D) 
+
+##### Green (3)
+
+3 [Mutagenic Growth](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMutagenic%5D+%5BGrowth%5D) 
+
+##### Multi colored (7)
+
+3 [Sprite Dragon](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSprite%5D+%5BDragon%5D) 4 [Manamorphose](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BManamorphose%5D) 
+
+##### Colorless (21)
+
+3 [Arid Mesa](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArid%5D+%5BMesa%5D) 3 [Fiery Islet](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFiery%5D+%5BIslet%5D) 3 [Mountain](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D) 4 [Spirebluff Canal](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpirebluff%5D+%5BCanal%5D) 2 [Steam Vents](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteam%5D+%5BVents%5D) 3 [Wooded Foothills](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D) 3 [Dragon's Claw](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragon%5D+%5BClaw%5D) 
+
+75 Cards 
+
+##### 1 (29)
+
+4 [Monastery Swiftspear](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BSwiftspear%5D) 4 [Soul-Scar Mage](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoul-Scar%5D+%5BMage%5D) 3 [Gut Shot](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGut%5D+%5BShot%5D) 4 [Lava Dart](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLava%5D+%5BDart%5D) 4 [Lightning Bolt](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBolt%5D) 3 [Mutagenic Growth](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMutagenic%5D+%5BGrowth%5D) 3 [Opt](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOpt%5D) 2 [Spell Pierce](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpell%5D+%5BPierce%5D) 2 [Surgical Extraction](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSurgical%5D+%5BExtraction%5D) 
+
+##### 2 (16)
+
+3 [Sprite Dragon](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSprite%5D+%5BDragon%5D) 4 [Manamorphose](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BManamorphose%5D) 3 [Abrade](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbrade%5D) 3 [Aether Gust](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAether%5D+%5BGust%5D) 3 [Dragon's Claw](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragon%5D+%5BClaw%5D) 
+
+##### 3 (6)
+
+4 [Light Up the Stage](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLight%5D+%5BUp%5D+%5Bthe%5D+%5BStage%5D) 2 [Blood Moon](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlood%5D+%5BMoon%5D) 
+
+##### 5 (4)
+
+4 [Stormwing Entity](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStormwing%5D+%5BEntity%5D) 
+
+##### 8 (2)
+
+2 [Bedlam Reveler](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBedlam%5D+%5BReveler%5D) 
+
+57 Cards 
+
+##### Common (16)
+
+3 [Mountain](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D) 4 [Monastery Swiftspear](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BSwiftspear%5D) 3 [Gut Shot](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGut%5D+%5BShot%5D) 4 [Lava Dart](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLava%5D+%5BDart%5D) 2 [Spell Pierce](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpell%5D+%5BPierce%5D) 
+
+##### Uncommon (30)
+
+3 [Sprite Dragon](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSprite%5D+%5BDragon%5D) 4 [Light Up the Stage](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLight%5D+%5BUp%5D+%5Bthe%5D+%5BStage%5D) 4 [Lightning Bolt](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBolt%5D) 4 [Manamorphose](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BManamorphose%5D) 3 [Mutagenic Growth](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMutagenic%5D+%5BGrowth%5D) 3 [Opt](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOpt%5D) 3 [Abrade](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbrade%5D) 3 [Aether Gust](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAether%5D+%5BGust%5D) 3 [Dragon's Claw](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDragon%5D+%5BClaw%5D) 
+
+##### Rare (26)
+
+3 [Arid Mesa](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArid%5D+%5BMesa%5D) 3 [Fiery Islet](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFiery%5D+%5BIslet%5D) 4 [Spirebluff Canal](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpirebluff%5D+%5BCanal%5D) 2 [Steam Vents](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteam%5D+%5BVents%5D) 2 [Bedlam Reveler](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBedlam%5D+%5BReveler%5D) 4 [Soul-Scar Mage](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoul-Scar%5D+%5BMage%5D) 4 [Stormwing Entity](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStormwing%5D+%5BEntity%5D) 2 [Blood Moon](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlood%5D+%5BMoon%5D) 2 [Surgical Extraction](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSurgical%5D+%5BExtraction%5D) 
+
+##### Mythic (3)
+
+3 [Wooded Foothills](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D) 
+
+75 Cards 
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Arid+Mesa)
+
+[Deal Another Hand](https://web.archive.org/web/20200812000000/https://magic.wizards.com/en)
+
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Mountain)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Spirebluff+Canal)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Gut+Shot)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Mutagenic+Growth)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Sprite+Dragon)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Monastery+Swiftspear)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Opt)
+
+a:24:{i:0;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:9:"Arid Mesa";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"3";}i:1;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Fiery Islet";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"3";}i:2;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:8:"Mountain";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"3";}i:3;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Spirebluff Canal";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:4;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Steam Vents";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"2";}i:5;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Wooded Foothills";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"3";}i:6;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Bedlam Reveler";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"2";}i:7;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:20:"Monastery Swiftspear";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:8;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Soul-Scar Mage";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:9;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Sprite Dragon";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"3";}i:10;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Stormwing Entity";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:11;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:8:"Gut Shot";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"3";}i:12;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:9:"Lava Dart";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"4";}i:13;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:18:"Light Up the Stage";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"4";}i:14;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Lightning Bolt";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"4";}i:15;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Manamorphose";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"4";}i:16;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Mutagenic Growth";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"3";}i:17;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:3:"Opt";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"3";}i:18;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:6:"Abrade";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}i:19;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Aether Gust";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}i:20;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:10:"Blood Moon";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:11:"enchantment";s:10:"deck\_count";i:0;}i:21;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Dragon's Claw";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";i:0;}i:22;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Spell Pierce";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}i:23;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:19:"Surgical Extraction";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}} 
+
+#### \_\_matsugan (6th Place)
+
+##### Modern Challenge #12189343 on 08/02/2020
+
+ ![Download Arena Decklist](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png) ![](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+[Decklist](#none) [Stats](#none) [Sample Hand](#none) 
+
+Sort by: 
+
+##### Creature (18)
+
+4 [Allosaurus Rider](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAllosaurus%5D+%5BRider%5D) 2 [Autochthon Wurm](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAutochthon%5D+%5BWurm%5D) 4 [Chancellor of the Tangle](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChancellor%5D+%5Bof%5D+%5Bthe%5D+%5BTangle%5D) 1 [Griselbrand](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGriselbrand%5D) 1 [Laboratory Maniac](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLaboratory%5D+%5BManiac%5D) 4 [Simian Spirit Guide](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSimian%5D+%5BSpirit%5D+%5BGuide%5D) 1 [Street Wraith](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStreet%5D+%5BWraith%5D) 1 [Wild Cantor](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BCantor%5D) 
+
+##### Sorcery (13)
+
+1 [Edge of Autumn](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEdge%5D+%5Bof%5D+%5BAutumn%5D) 4 [Eldritch Evolution](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEldritch%5D+%5BEvolution%5D) 4 [Neoform](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNeoform%5D) 4 [Serum Visions](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSerum%5D+%5BVisions%5D) 
+
+##### Instant (16)
+
+1 [Life Goes On](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLife%5D+%5BGoes%5D+%5BOn%5D) 4 [Manamorphose](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BManamorphose%5D) 4 [Nourishing Shoal](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNourishing%5D+%5BShoal%5D) 4 [Summoner's Pact](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSummoner%5D+%5BPact%5D) 3 [Veil of Summer](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVeil%5D+%5Bof%5D+%5BSummer%5D) 
+
+##### Land (13)
+
+4 [Botanical Sanctum](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBotanical%5D+%5BSanctum%5D) 4 [Gemstone Mine](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGemstone%5D+%5BMine%5D) 1 [Island](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D) 4 [Waterlogged Grove](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWaterlogged%5D+%5BGrove%5D) 
+
+60 Cards 
+
+##### Sideboard (15)
+
+1 [Veil of Summer](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVeil%5D+%5Bof%5D+%5BSummer%5D) 4 [Dissenter's Deliverance](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDissenter%5D+%5BDeliverance%5D) 1 [Hope of Ghirapur](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHope%5D+%5Bof%5D+%5BGhirapur%5D) 3 [Leyline of Sanctity](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5BSanctity%5D) 4 [Pact of Negation](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPact%5D+%5Bof%5D+%5BNegation%5D) 1 [Remand](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRemand%5D) 1 [Slaughter Pact](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSlaughter%5D+%5BPact%5D) 
+
+##### White (3)
+
+3 [Leyline of Sanctity](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5BSanctity%5D) 
+
+##### Blue (10)
+
+1 [Laboratory Maniac](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLaboratory%5D+%5BManiac%5D) 4 [Serum Visions](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSerum%5D+%5BVisions%5D) 4 [Pact of Negation](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPact%5D+%5Bof%5D+%5BNegation%5D) 1 [Remand](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRemand%5D) 
+
+##### Black (3)
+
+1 [Griselbrand](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGriselbrand%5D) 1 [Street Wraith](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStreet%5D+%5BWraith%5D) 1 [Slaughter Pact](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSlaughter%5D+%5BPact%5D) 
+
+##### Red (4)
+
+4 [Simian Spirit Guide](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSimian%5D+%5BSpirit%5D+%5BGuide%5D) 
+
+##### Green (30)
+
+4 [Allosaurus Rider](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAllosaurus%5D+%5BRider%5D) 4 [Chancellor of the Tangle](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChancellor%5D+%5Bof%5D+%5Bthe%5D+%5BTangle%5D) 1 [Edge of Autumn](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEdge%5D+%5Bof%5D+%5BAutumn%5D) 4 [Eldritch Evolution](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEldritch%5D+%5BEvolution%5D) 1 [Life Goes On](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLife%5D+%5BGoes%5D+%5BOn%5D) 4 [Nourishing Shoal](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNourishing%5D+%5BShoal%5D) 4 [Summoner's Pact](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSummoner%5D+%5BPact%5D) 4 [Veil of Summer](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVeil%5D+%5Bof%5D+%5BSummer%5D) 4 [Dissenter's Deliverance](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDissenter%5D+%5BDeliverance%5D) 
+
+##### Multi colored (11)
+
+2 [Autochthon Wurm](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAutochthon%5D+%5BWurm%5D) 1 [Wild Cantor](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BCantor%5D) 4 [Manamorphose](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BManamorphose%5D) 4 [Neoform](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNeoform%5D) 
+
+##### Colorless (14)
+
+4 [Botanical Sanctum](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBotanical%5D+%5BSanctum%5D) 4 [Gemstone Mine](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGemstone%5D+%5BMine%5D) 1 [Island](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D) 4 [Waterlogged Grove](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWaterlogged%5D+%5BGrove%5D) 1 [Hope of Ghirapur](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHope%5D+%5Bof%5D+%5BGhirapur%5D) 
+
+75 Cards 
+
+##### 1 (11)
+
+1 [Wild Cantor](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BCantor%5D) 1 [Life Goes On](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLife%5D+%5BGoes%5D+%5BOn%5D) 4 [Serum Visions](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSerum%5D+%5BVisions%5D) 4 [Veil of Summer](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVeil%5D+%5Bof%5D+%5BSummer%5D) 1 [Hope of Ghirapur](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHope%5D+%5Bof%5D+%5BGhirapur%5D) 
+
+##### 2 (18)
+
+1 [Edge of Autumn](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEdge%5D+%5Bof%5D+%5BAutumn%5D) 4 [Manamorphose](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BManamorphose%5D) 4 [Neoform](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNeoform%5D) 4 [Nourishing Shoal](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNourishing%5D+%5BShoal%5D) 4 [Dissenter's Deliverance](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDissenter%5D+%5BDeliverance%5D) 1 [Remand](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRemand%5D) 
+
+##### 3 (9)
+
+1 [Laboratory Maniac](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLaboratory%5D+%5BManiac%5D) 4 [Simian Spirit Guide](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSimian%5D+%5BSpirit%5D+%5BGuide%5D) 4 [Eldritch Evolution](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEldritch%5D+%5BEvolution%5D) 
+
+##### 4 (3)
+
+3 [Leyline of Sanctity](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5BSanctity%5D) 
+
+##### 5 (1)
+
+1 [Street Wraith](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStreet%5D+%5BWraith%5D) 
+
+##### 7 (8)
+
+4 [Allosaurus Rider](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAllosaurus%5D+%5BRider%5D) 4 [Chancellor of the Tangle](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChancellor%5D+%5Bof%5D+%5Bthe%5D+%5BTangle%5D) 
+
+##### 8 (1)
+
+1 [Griselbrand](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGriselbrand%5D) 
+
+##### 15 (2)
+
+2 [Autochthon Wurm](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAutochthon%5D+%5BWurm%5D) 
+
+53 Cards 
+
+##### Common (18)
+
+4 [Gemstone Mine](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGemstone%5D+%5BMine%5D) 1 [Island](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D) 1 [Laboratory Maniac](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLaboratory%5D+%5BManiac%5D) 4 [Simian Spirit Guide](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSimian%5D+%5BSpirit%5D+%5BGuide%5D) 1 [Wild Cantor](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BCantor%5D) 1 [Edge of Autumn](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEdge%5D+%5Bof%5D+%5BAutumn%5D) 1 [Life Goes On](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLife%5D+%5BGoes%5D+%5BOn%5D) 4 [Dissenter's Deliverance](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDissenter%5D+%5BDeliverance%5D) 1 [Remand](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRemand%5D) 
+
+##### Uncommon (17)
+
+1 [Street Wraith](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStreet%5D+%5BWraith%5D) 4 [Manamorphose](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BManamorphose%5D) 4 [Neoform](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNeoform%5D) 4 [Serum Visions](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSerum%5D+%5BVisions%5D) 4 [Veil of Summer](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVeil%5D+%5Bof%5D+%5BSummer%5D) 
+
+##### Rare (39)
+
+4 [Botanical Sanctum](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBotanical%5D+%5BSanctum%5D) 4 [Waterlogged Grove](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWaterlogged%5D+%5BGrove%5D) 4 [Allosaurus Rider](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAllosaurus%5D+%5BRider%5D) 2 [Autochthon Wurm](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAutochthon%5D+%5BWurm%5D) 4 [Chancellor of the Tangle](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChancellor%5D+%5Bof%5D+%5Bthe%5D+%5BTangle%5D) 4 [Eldritch Evolution](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEldritch%5D+%5BEvolution%5D) 4 [Nourishing Shoal](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNourishing%5D+%5BShoal%5D) 4 [Summoner's Pact](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSummoner%5D+%5BPact%5D) 1 [Hope of Ghirapur](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHope%5D+%5Bof%5D+%5BGhirapur%5D) 3 [Leyline of Sanctity](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5BSanctity%5D) 4 [Pact of Negation](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPact%5D+%5Bof%5D+%5BNegation%5D) 1 [Slaughter Pact](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSlaughter%5D+%5BPact%5D) 
+
+##### Mythic (1)
+
+1 [Griselbrand](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGriselbrand%5D) 
+
+75 Cards 
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Botanical+Sanctum)
+
+[Deal Another Hand](https://web.archive.org/web/20200812000000/https://magic.wizards.com/en)
+
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Summoner%27s+Pact)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Laboratory+Maniac)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Nourishing+Shoal)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Griselbrand)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Simian+Spirit+Guide)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Chancellor+of+the+Tangle)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Neoform)
+
+a:27:{i:0;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Botanical Sanctum";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:1;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Gemstone Mine";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:2;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:6:"Island";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:3;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Waterlogged Grove";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:4;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Allosaurus Rider";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:5;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Autochthon Wurm";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"2";}i:6;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:24:"Chancellor of the Tangle";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:7;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Griselbrand";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"1";}i:8;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Laboratory Maniac";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"1";}i:9;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:19:"Simian Spirit Guide";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:10;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Street Wraith";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"1";}i:11;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Wild Cantor";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"1";}i:12;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Edge of Autumn";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"1";}i:13;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:18:"Eldritch Evolution";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"4";}i:14;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Life Goes On";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"1";}i:15;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Manamorphose";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"4";}i:16;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:7:"Neoform";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"4";}i:17;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Nourishing Shoal";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"4";}i:18;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Serum Visions";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"4";}i:19;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Summoner's Pact";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"4";}i:20;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Veil of Summer";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"3";}i:21;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:23:"Dissenter's Deliverance";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}i:22;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Hope of Ghirapur";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";i:0;}i:23;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:19:"Leyline of Sanctity";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:11:"enchantment";s:10:"deck\_count";i:0;}i:24;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Pact of Negation";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}i:25;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:6:"Remand";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}i:26;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Slaughter Pact";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}} 
+
+#### sakuragi21722749 (7th Place)
+
+##### Modern Challenge #12189343 on 08/02/2020
+
+ ![Download Arena Decklist](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png) ![](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+[Decklist](#none) [Stats](#none) [Sample Hand](#none) 
+
+Sort by: 
+
+##### Planeswalker (6)
+
+1 [Karn Liberated](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarn%5D+%5BLiberated%5D) 4 [Karn, the Great Creator](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarn,%5D+%5Bthe%5D+%5BGreat%5D+%5BCreator%5D) 1 [Ugin, the Ineffable](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BIneffable%5D) 
+
+##### Creature (16)
+
+1 [Endbringer](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEndbringer%5D) 4 [Matter Reshaper](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMatter%5D+%5BReshaper%5D) 4 [Reality Smasher](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReality%5D+%5BSmasher%5D) 4 [Thought-Knot Seer](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThought-Knot%5D+%5BSeer%5D) 3 [Walking Ballista](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWalking%5D+%5BBallista%5D) 
+
+##### Sorcery (1)
+
+1 [All Is Dust](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAll%5D+%5BIs%5D+%5BDust%5D) 
+
+##### Instant (4)
+
+2 [Dismember](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDismember%5D) 2 [Warping Wail](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWarping%5D+%5BWail%5D) 
+
+##### Artifact (9)
+
+4 [Chalice of the Void](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChalice%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D) 4 [Expedition Map](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExpedition%5D+%5BMap%5D) 1 [Mind Stone](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMind%5D+%5BStone%5D) 
+
+##### Land (24)
+
+2 [Blast Zone](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlast%5D+%5BZone%5D) 1 [Cavern of Souls](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCavern%5D+%5Bof%5D+%5BSouls%5D) 4 [Eldrazi Temple](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEldrazi%5D+%5BTemple%5D) 1 [Ghost Quarter](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhost%5D+%5BQuarter%5D) 1 [Scavenger Grounds](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScavenger%5D+%5BGrounds%5D) 1 [Tectonic Edge](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTectonic%5D+%5BEdge%5D) 4 [Urza's Mine](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BMine%5D) 4 [Urza's Power Plant](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BPower%5D+%5BPlant%5D) 4 [Urza's Tower](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BTower%5D) 2 [Wastes](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWastes%5D) 
+
+60 Cards 
+
+##### Sideboard (15)
+
+1 [Walking Ballista](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWalking%5D+%5BBallista%5D) 1 [Ensnaring Bridge](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnsnaring%5D+%5BBridge%5D) 1 [Grafdigger's Cage](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrafdigger%5D+%5BCage%5D) 1 [Liquimetal Coating](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLiquimetal%5D+%5BCoating%5D) 1 [Pithing Needle](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D) 2 [Relic of Progenitus](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5Bof%5D+%5BProgenitus%5D) 1 [Skysovereign, Consul Flagship](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkysovereign,%5D+%5BConsul%5D+%5BFlagship%5D) 1 [Sorcerous Spyglass](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSorcerous%5D+%5BSpyglass%5D) 2 [Spatial Contortion](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpatial%5D+%5BContortion%5D) 1 [Tormod's Crypt](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTormod%5D+%5BCrypt%5D) 1 [Torpor Orb](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTorpor%5D+%5BOrb%5D) 1 [Witchbane Orb](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWitchbane%5D+%5BOrb%5D) 1 [Wurmcoil Engine](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWurmcoil%5D+%5BEngine%5D) 
+
+##### Black (2)
+
+2 [Dismember](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDismember%5D) 
+
+##### Colorless (73)
+
+2 [Blast Zone](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlast%5D+%5BZone%5D) 1 [Cavern of Souls](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCavern%5D+%5Bof%5D+%5BSouls%5D) 4 [Eldrazi Temple](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEldrazi%5D+%5BTemple%5D) 1 [Ghost Quarter](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhost%5D+%5BQuarter%5D) 1 [Scavenger Grounds](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScavenger%5D+%5BGrounds%5D) 1 [Tectonic Edge](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTectonic%5D+%5BEdge%5D) 4 [Urza's Mine](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BMine%5D) 4 [Urza's Power Plant](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BPower%5D+%5BPlant%5D) 4 [Urza's Tower](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BTower%5D) 2 [Wastes](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWastes%5D) 1 [Endbringer](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEndbringer%5D) 4 [Matter Reshaper](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMatter%5D+%5BReshaper%5D) 4 [Reality Smasher](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReality%5D+%5BSmasher%5D) 4 [Thought-Knot Seer](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThought-Knot%5D+%5BSeer%5D) 4 [Walking Ballista](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWalking%5D+%5BBallista%5D) 1 [All Is Dust](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAll%5D+%5BIs%5D+%5BDust%5D) 4 [Chalice of the Void](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChalice%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D) 4 [Expedition Map](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExpedition%5D+%5BMap%5D) 1 [Karn Liberated](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarn%5D+%5BLiberated%5D) 4 [Karn, the Great Creator](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarn,%5D+%5Bthe%5D+%5BGreat%5D+%5BCreator%5D) 1 [Mind Stone](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMind%5D+%5BStone%5D) 1 [Ugin, the Ineffable](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BIneffable%5D) 2 [Warping Wail](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWarping%5D+%5BWail%5D) 1 [Ensnaring Bridge](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnsnaring%5D+%5BBridge%5D) 1 [Grafdigger's Cage](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrafdigger%5D+%5BCage%5D) 1 [Liquimetal Coating](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLiquimetal%5D+%5BCoating%5D) 1 [Pithing Needle](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D) 2 [Relic of Progenitus](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5Bof%5D+%5BProgenitus%5D) 1 [Skysovereign, Consul Flagship](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkysovereign,%5D+%5BConsul%5D+%5BFlagship%5D) 1 [Sorcerous Spyglass](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSorcerous%5D+%5BSpyglass%5D) 2 [Spatial Contortion](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpatial%5D+%5BContortion%5D) 1 [Tormod's Crypt](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTormod%5D+%5BCrypt%5D) 1 [Torpor Orb](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTorpor%5D+%5BOrb%5D) 1 [Witchbane Orb](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWitchbane%5D+%5BOrb%5D) 1 [Wurmcoil Engine](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWurmcoil%5D+%5BEngine%5D) 
+
+75 Cards 
+
+##### 1 (8)
+
+4 [Expedition Map](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExpedition%5D+%5BMap%5D) 1 [Grafdigger's Cage](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrafdigger%5D+%5BCage%5D) 1 [Pithing Needle](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D) 2 [Relic of Progenitus](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5Bof%5D+%5BProgenitus%5D) 
+
+##### 2 (8)
+
+1 [Mind Stone](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMind%5D+%5BStone%5D) 2 [Warping Wail](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWarping%5D+%5BWail%5D) 1 [Liquimetal Coating](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLiquimetal%5D+%5BCoating%5D) 1 [Sorcerous Spyglass](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSorcerous%5D+%5BSpyglass%5D) 2 [Spatial Contortion](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpatial%5D+%5BContortion%5D) 1 [Torpor Orb](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTorpor%5D+%5BOrb%5D) 
+
+##### 3 (7)
+
+4 [Matter Reshaper](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMatter%5D+%5BReshaper%5D) 2 [Dismember](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDismember%5D) 1 [Ensnaring Bridge](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnsnaring%5D+%5BBridge%5D) 
+
+##### 4 (9)
+
+4 [Thought-Knot Seer](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThought-Knot%5D+%5BSeer%5D) 4 [Karn, the Great Creator](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarn,%5D+%5Bthe%5D+%5BGreat%5D+%5BCreator%5D) 1 [Witchbane Orb](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWitchbane%5D+%5BOrb%5D) 
+
+##### 5 (5)
+
+4 [Reality Smasher](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReality%5D+%5BSmasher%5D) 1 [Skysovereign, Consul Flagship](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkysovereign,%5D+%5BConsul%5D+%5BFlagship%5D) 
+
+##### 6 (3)
+
+1 [Endbringer](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEndbringer%5D) 1 [Ugin, the Ineffable](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BIneffable%5D) 1 [Wurmcoil Engine](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWurmcoil%5D+%5BEngine%5D) 
+
+##### 7 (2)
+
+1 [All Is Dust](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAll%5D+%5BIs%5D+%5BDust%5D) 1 [Karn Liberated](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarn%5D+%5BLiberated%5D) 
+
+42 Cards 
+
+##### Common (23)
+
+4 [Urza's Mine](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BMine%5D) 4 [Urza's Power Plant](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BPower%5D+%5BPlant%5D) 4 [Urza's Tower](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BTower%5D) 2 [Wastes](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWastes%5D) 4 [Chalice of the Void](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChalice%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D) 2 [Dismember](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDismember%5D) 2 [Relic of Progenitus](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5Bof%5D+%5BProgenitus%5D) 1 [Sorcerous Spyglass](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSorcerous%5D+%5BSpyglass%5D) 
+
+##### Uncommon (16)
+
+4 [Eldrazi Temple](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEldrazi%5D+%5BTemple%5D) 1 [Ghost Quarter](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhost%5D+%5BQuarter%5D) 4 [Expedition Map](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExpedition%5D+%5BMap%5D) 1 [Mind Stone](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMind%5D+%5BStone%5D) 2 [Warping Wail](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWarping%5D+%5BWail%5D) 1 [Liquimetal Coating](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLiquimetal%5D+%5BCoating%5D) 2 [Spatial Contortion](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpatial%5D+%5BContortion%5D) 1 [Tormod's Crypt](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTormod%5D+%5BCrypt%5D) 
+
+##### Rare (30)
+
+2 [Blast Zone](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlast%5D+%5BZone%5D) 1 [Scavenger Grounds](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScavenger%5D+%5BGrounds%5D) 1 [Endbringer](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEndbringer%5D) 4 [Matter Reshaper](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMatter%5D+%5BReshaper%5D) 4 [Reality Smasher](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReality%5D+%5BSmasher%5D) 4 [Thought-Knot Seer](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThought-Knot%5D+%5BSeer%5D) 4 [Walking Ballista](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWalking%5D+%5BBallista%5D) 1 [All Is Dust](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAll%5D+%5BIs%5D+%5BDust%5D) 4 [Karn, the Great Creator](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarn,%5D+%5Bthe%5D+%5BGreat%5D+%5BCreator%5D) 1 [Ugin, the Ineffable](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BIneffable%5D) 1 [Grafdigger's Cage](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrafdigger%5D+%5BCage%5D) 1 [Pithing Needle](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D) 1 [Torpor Orb](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTorpor%5D+%5BOrb%5D) 1 [Witchbane Orb](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWitchbane%5D+%5BOrb%5D) 
+
+##### Mythic (6)
+
+1 [Cavern of Souls](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCavern%5D+%5Bof%5D+%5BSouls%5D) 1 [Tectonic Edge](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTectonic%5D+%5BEdge%5D) 1 [Karn Liberated](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarn%5D+%5BLiberated%5D) 1 [Ensnaring Bridge](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnsnaring%5D+%5BBridge%5D) 1 [Skysovereign, Consul Flagship](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkysovereign,%5D+%5BConsul%5D+%5BFlagship%5D) 1 [Wurmcoil Engine](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWurmcoil%5D+%5BEngine%5D) 
+
+75 Cards 
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Blast+Zone)
+
+[Deal Another Hand](https://web.archive.org/web/20200812000000/https://magic.wizards.com/en)
+
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Karn%2C+the+Great+Creator)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Reality+Smasher)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Karn+Liberated)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Urza%27s+Mine)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Urza%27s+Mine)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Ghost+Quarter)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Karn%2C+the+Great+Creator)
+
+a:36:{i:0;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:10:"Blast Zone";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"2";}i:1;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Cavern of Souls";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:2;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Eldrazi Temple";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:3;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Ghost Quarter";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:4;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Scavenger Grounds";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:5;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Tectonic Edge";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:6;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Urza's Mine";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:7;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:18:"Urza's Power Plant";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:8;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Urza's Tower";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:9;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:6:"Wastes";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"2";}i:10;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:10:"Endbringer";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"1";}i:11;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Matter Reshaper";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:12;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Reality Smasher";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:13;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Thought-Knot Seer";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:14;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Walking Ballista";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"3";}i:15;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"All Is Dust";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"1";}i:16;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:19:"Chalice of the Void";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";s:1:"4";}i:17;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:9:"Dismember";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"2";}i:18;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Expedition Map";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";s:1:"4";}i:19;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Karn Liberated";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:12:"planeswalker";s:10:"deck\_count";s:1:"1";}i:20;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:23:"Karn, the Great Creator";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:12:"planeswalker";s:10:"deck\_count";s:1:"4";}i:21;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:10:"Mind Stone";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";s:1:"1";}i:22;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:19:"Ugin, the Ineffable";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:12:"planeswalker";s:10:"deck\_count";s:1:"1";}i:23;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Warping Wail";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"2";}i:24;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Ensnaring Bridge";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";i:0;}i:25;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Grafdigger's Cage";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";i:0;}i:26;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:18:"Liquimetal Coating";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";i:0;}i:27;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Pithing Needle";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";i:0;}i:28;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:19:"Relic of Progenitus";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";i:0;}i:29;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:29:"Skysovereign, Consul Flagship";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";i:0;}i:30;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:18:"Sorcerous Spyglass";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";i:0;}i:31;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:18:"Spatial Contortion";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}i:32;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Tormod's Crypt";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";i:0;}i:33;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:10:"Torpor Orb";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";i:0;}i:34;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Witchbane Orb";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";i:0;}i:35;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Wurmcoil Engine";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";i:0;}} 
+
+#### MrRaeb (8th Place)
+
+##### Modern Challenge #12189343 on 08/02/2020
+
+ ![Download Arena Decklist](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png) ![](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+[Decklist](#none) [Stats](#none) [Sample Hand](#none) 
+
+Sort by: 
+
+##### Planeswalker (3)
+
+3 [Chandra, Torch of Defiance](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChandra,%5D+%5BTorch%5D+%5Bof%5D+%5BDefiance%5D) 
+
+##### Creature (20)
+
+4 [Arbor Elf](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArbor%5D+%5BElf%5D) 4 [Bloodbraid Elf](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodbraid%5D+%5BElf%5D) 3 [Glorybringer](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlorybringer%5D) 3 [Klothys, God of Destiny](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKlothys,%5D+%5BGod%5D+%5Bof%5D+%5BDestiny%5D) 2 [Scavenging Ooze](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScavenging%5D+%5BOoze%5D) 4 [Seasoned Pyromancer](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeasoned%5D+%5BPyromancer%5D) 
+
+##### Sorcery (2)
+
+2 [Pillage](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPillage%5D) 
+
+##### Instant (7)
+
+3 [Bonecrusher Giant](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBonecrusher%5D+%5BGiant%5D) 4 [Lightning Bolt](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBolt%5D) 
+
+##### Enchantment (8)
+
+4 [Blood Moon](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlood%5D+%5BMoon%5D) 4 [Utopia Sprawl](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUtopia%5D+%5BSprawl%5D) 
+
+##### Land (20)
+
+4 [Misty Rainforest](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMisty%5D+%5BRainforest%5D) 6 [Snow-Covered Forest](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSnow-Covered%5D+%5BForest%5D) 1 [Snow-Covered Mountain](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSnow-Covered%5D+%5BMountain%5D) 4 [Stomping Ground](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStomping%5D+%5BGround%5D) 1 [Verdant Catacombs](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVerdant%5D+%5BCatacombs%5D) 4 [Wooded Foothills](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D) 
+
+60 Cards 
+
+##### Sideboard (15)
+
+1 [Pillage](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPillage%5D) 2 [Abrade](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbrade%5D) 2 [Choke](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChoke%5D) 1 [Cindervines](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCindervines%5D) 2 [Collector Ouphe](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCollector%5D+%5BOuphe%5D) 3 [Obstinate Baloth](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BObstinate%5D+%5BBaloth%5D) 2 [Relic of Progenitus](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5Bof%5D+%5BProgenitus%5D) 2 [Veil of Summer](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVeil%5D+%5Bof%5D+%5BSummer%5D) 
+
+##### Red (26)
+
+3 [Bonecrusher Giant](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBonecrusher%5D+%5BGiant%5D) 3 [Glorybringer](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlorybringer%5D) 4 [Seasoned Pyromancer](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeasoned%5D+%5BPyromancer%5D) 4 [Blood Moon](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlood%5D+%5BMoon%5D) 3 [Chandra, Torch of Defiance](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChandra,%5D+%5BTorch%5D+%5Bof%5D+%5BDefiance%5D) 4 [Lightning Bolt](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBolt%5D) 3 [Pillage](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPillage%5D) 2 [Abrade](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbrade%5D) 
+
+##### Green (19)
+
+4 [Arbor Elf](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArbor%5D+%5BElf%5D) 2 [Scavenging Ooze](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScavenging%5D+%5BOoze%5D) 4 [Utopia Sprawl](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUtopia%5D+%5BSprawl%5D) 2 [Choke](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChoke%5D) 2 [Collector Ouphe](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCollector%5D+%5BOuphe%5D) 3 [Obstinate Baloth](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BObstinate%5D+%5BBaloth%5D) 2 [Veil of Summer](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVeil%5D+%5Bof%5D+%5BSummer%5D) 
+
+##### Multi colored (8)
+
+4 [Bloodbraid Elf](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodbraid%5D+%5BElf%5D) 3 [Klothys, God of Destiny](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKlothys,%5D+%5BGod%5D+%5Bof%5D+%5BDestiny%5D) 1 [Cindervines](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCindervines%5D) 
+
+##### Colorless (22)
+
+4 [Misty Rainforest](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMisty%5D+%5BRainforest%5D) 6 [Snow-Covered Forest](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSnow-Covered%5D+%5BForest%5D) 1 [Snow-Covered Mountain](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSnow-Covered%5D+%5BMountain%5D) 4 [Stomping Ground](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStomping%5D+%5BGround%5D) 1 [Verdant Catacombs](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVerdant%5D+%5BCatacombs%5D) 4 [Wooded Foothills](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D) 2 [Relic of Progenitus](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5Bof%5D+%5BProgenitus%5D) 
+
+75 Cards 
+
+##### 1 (16)
+
+4 [Arbor Elf](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArbor%5D+%5BElf%5D) 4 [Lightning Bolt](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBolt%5D) 4 [Utopia Sprawl](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUtopia%5D+%5BSprawl%5D) 2 [Relic of Progenitus](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5Bof%5D+%5BProgenitus%5D) 2 [Veil of Summer](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVeil%5D+%5Bof%5D+%5BSummer%5D) 
+
+##### 2 (10)
+
+3 [Bonecrusher Giant](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBonecrusher%5D+%5BGiant%5D) 2 [Scavenging Ooze](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScavenging%5D+%5BOoze%5D) 2 [Abrade](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbrade%5D) 1 [Cindervines](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCindervines%5D) 2 [Collector Ouphe](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCollector%5D+%5BOuphe%5D) 
+
+##### 3 (16)
+
+3 [Klothys, God of Destiny](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKlothys,%5D+%5BGod%5D+%5Bof%5D+%5BDestiny%5D) 4 [Seasoned Pyromancer](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeasoned%5D+%5BPyromancer%5D) 4 [Blood Moon](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlood%5D+%5BMoon%5D) 3 [Pillage](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPillage%5D) 2 [Choke](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChoke%5D) 
+
+##### 4 (10)
+
+4 [Bloodbraid Elf](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodbraid%5D+%5BElf%5D) 3 [Chandra, Torch of Defiance](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChandra,%5D+%5BTorch%5D+%5Bof%5D+%5BDefiance%5D) 3 [Obstinate Baloth](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BObstinate%5D+%5BBaloth%5D) 
+
+##### 5 (3)
+
+3 [Glorybringer](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlorybringer%5D) 
+
+55 Cards 
+
+##### Common (19)
+
+6 [Snow-Covered Forest](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSnow-Covered%5D+%5BForest%5D) 1 [Snow-Covered Mountain](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSnow-Covered%5D+%5BMountain%5D) 4 [Arbor Elf](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArbor%5D+%5BElf%5D) 4 [Utopia Sprawl](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUtopia%5D+%5BSprawl%5D) 2 [Choke](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChoke%5D) 2 [Relic of Progenitus](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5Bof%5D+%5BProgenitus%5D) 
+
+##### Uncommon (15)
+
+4 [Bloodbraid Elf](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodbraid%5D+%5BElf%5D) 4 [Lightning Bolt](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBolt%5D) 3 [Pillage](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPillage%5D) 2 [Abrade](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbrade%5D) 2 [Veil of Summer](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVeil%5D+%5Bof%5D+%5BSummer%5D) 
+
+##### Rare (27)
+
+4 [Misty Rainforest](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMisty%5D+%5BRainforest%5D) 4 [Stomping Ground](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStomping%5D+%5BGround%5D) 1 [Verdant Catacombs](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVerdant%5D+%5BCatacombs%5D) 3 [Bonecrusher Giant](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBonecrusher%5D+%5BGiant%5D) 3 [Glorybringer](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlorybringer%5D) 2 [Scavenging Ooze](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScavenging%5D+%5BOoze%5D) 4 [Blood Moon](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlood%5D+%5BMoon%5D) 1 [Cindervines](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCindervines%5D) 2 [Collector Ouphe](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCollector%5D+%5BOuphe%5D) 3 [Obstinate Baloth](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BObstinate%5D+%5BBaloth%5D) 
+
+##### Mythic (14)
+
+4 [Wooded Foothills](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D) 3 [Klothys, God of Destiny](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKlothys,%5D+%5BGod%5D+%5Bof%5D+%5BDestiny%5D) 4 [Seasoned Pyromancer](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeasoned%5D+%5BPyromancer%5D) 3 [Chandra, Torch of Defiance](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChandra,%5D+%5BTorch%5D+%5Bof%5D+%5BDefiance%5D) 
+
+75 Cards 
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Misty+Rainforest)
+
+[Deal Another Hand](https://web.archive.org/web/20200812000000/https://magic.wizards.com/en)
+
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Misty+Rainforest)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Utopia+Sprawl)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Arbor+Elf)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Arbor+Elf)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Seasoned+Pyromancer)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Glorybringer)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Bonecrusher+Giant)
+
+a:25:{i:0;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Misty Rainforest";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:1;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:19:"Snow-Covered Forest";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"6";}i:2;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:21:"Snow-Covered Mountain";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:3;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Stomping Ground";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:4;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Verdant Catacombs";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:5;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Wooded Foothills";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:6;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:9:"Arbor Elf";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:7;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Bloodbraid Elf";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:8;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Bonecrusher Giant";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"3";}i:9;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Glorybringer";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"3";}i:10;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:23:"Klothys, God of Destiny";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"3";}i:11;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Scavenging Ooze";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"2";}i:12;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:19:"Seasoned Pyromancer";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:13;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:10:"Blood Moon";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:11:"enchantment";s:10:"deck\_count";s:1:"4";}i:14;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:26:"Chandra, Torch of Defiance";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:12:"planeswalker";s:10:"deck\_count";s:1:"3";}i:15;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Lightning Bolt";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"4";}i:16;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:7:"Pillage";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"2";}i:17;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Utopia Sprawl";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:11:"enchantment";s:10:"deck\_count";s:1:"4";}i:18;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:6:"Abrade";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}i:19;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:5:"Choke";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:11:"enchantment";s:10:"deck\_count";i:0;}i:20;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Cindervines";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:11:"enchantment";s:10:"deck\_count";i:0;}i:21;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Collector Ouphe";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";i:0;}i:22;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Obstinate Baloth";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";i:0;}i:23;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:19:"Relic of Progenitus";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";i:0;}i:24;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Veil of Summer";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}} 
+
+#### Predicted (9th Place)
+
+##### Modern Challenge #12189343 on 08/02/2020
+
+ ![Download Arena Decklist](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png) ![](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+[Decklist](#none) [Stats](#none) [Sample Hand](#none) 
+
+Sort by: 
+
+##### Creature (27)
+
+4 [Birds of Paradise](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBirds%5D+%5Bof%5D+%5BParadise%5D) 1 [Blood Artist](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlood%5D+%5BArtist%5D) 1 [Cavalier of Night](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCavalier%5D+%5Bof%5D+%5BNight%5D) 3 [Geralf's Messenger](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGeralf%5D+%5BMessenger%5D) 1 [Noble Hierarch](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNoble%5D+%5BHierarch%5D) 1 [Phyrexian Revoker](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPhyrexian%5D+%5BRevoker%5D) 4 [Strangleroot Geist](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStrangleroot%5D+%5BGeist%5D) 4 [Wall of Roots](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWall%5D+%5Bof%5D+%5BRoots%5D) 4 [Yawgmoth, Thran Physician](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYawgmoth,%5D+%5BThran%5D+%5BPhysician%5D) 4 [Young Wolf](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYoung%5D+%5BWolf%5D) 
+
+##### Sorcery (4)
+
+4 [Eldritch Evolution](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEldritch%5D+%5BEvolution%5D) 
+
+##### Instant (4)
+
+4 [Chord of Calling](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChord%5D+%5Bof%5D+%5BCalling%5D) 
+
+##### Artifact (4)
+
+4 [Aether Vial](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAether%5D+%5BVial%5D) 
+
+##### Land (21)
+
+3 [Blooming Marsh](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlooming%5D+%5BMarsh%5D) 1 [Dryad Arbor](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDryad%5D+%5BArbor%5D) 2 [Forest](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D) 1 [Khalni Garden](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKhalni%5D+%5BGarden%5D) 1 [Nurturing Peatland](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNurturing%5D+%5BPeatland%5D) 2 [Overgrown Tomb](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOvergrown%5D+%5BTomb%5D) 1 [Swamp](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D) 1 [Temple Garden](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5BGarden%5D) 4 [Twilight Mire](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTwilight%5D+%5BMire%5D) 1 [Urborg, Tomb of Yawgmoth](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D) 4 [Verdant Catacombs](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVerdant%5D+%5BCatacombs%5D) 
+
+60 Cards 
+
+##### Sideboard (15)
+
+1 [Abrupt Decay](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbrupt%5D+%5BDecay%5D) 1 [Assassin's Trophy](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAssassin%5D+%5BTrophy%5D) 1 [Aven Mindcensor](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAven%5D+%5BMindcensor%5D) 1 [Collector Ouphe](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCollector%5D+%5BOuphe%5D) 1 [Eidolon of Rhetoric](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEidolon%5D+%5Bof%5D+%5BRhetoric%5D) 1 [Grand Abolisher](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrand%5D+%5BAbolisher%5D) 1 [Knight of Autumn](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKnight%5D+%5Bof%5D+%5BAutumn%5D) 2 [Leyline of Sanctity](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5BSanctity%5D) 1 [Plague Engineer](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlague%5D+%5BEngineer%5D) 1 [Scavenging Ooze](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScavenging%5D+%5BOoze%5D) 1 [Thoughtseize](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D) 2 [Veil of Summer](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVeil%5D+%5Bof%5D+%5BSummer%5D) 1 [Zulaport Cutthroat](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZulaport%5D+%5BCutthroat%5D) 
+
+##### White (5)
+
+1 [Aven Mindcensor](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAven%5D+%5BMindcensor%5D) 1 [Eidolon of Rhetoric](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEidolon%5D+%5Bof%5D+%5BRhetoric%5D) 1 [Grand Abolisher](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrand%5D+%5BAbolisher%5D) 2 [Leyline of Sanctity](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5BSanctity%5D) 
+
+##### Black (12)
+
+1 [Blood Artist](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlood%5D+%5BArtist%5D) 1 [Cavalier of Night](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCavalier%5D+%5Bof%5D+%5BNight%5D) 3 [Geralf's Messenger](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGeralf%5D+%5BMessenger%5D) 4 [Yawgmoth, Thran Physician](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYawgmoth,%5D+%5BThran%5D+%5BPhysician%5D) 1 [Plague Engineer](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlague%5D+%5BEngineer%5D) 1 [Thoughtseize](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D) 1 [Zulaport Cutthroat](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZulaport%5D+%5BCutthroat%5D) 
+
+##### Green (30)
+
+1 [Dryad Arbor](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDryad%5D+%5BArbor%5D) 4 [Birds of Paradise](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBirds%5D+%5Bof%5D+%5BParadise%5D) 1 [Noble Hierarch](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNoble%5D+%5BHierarch%5D) 4 [Strangleroot Geist](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStrangleroot%5D+%5BGeist%5D) 4 [Wall of Roots](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWall%5D+%5Bof%5D+%5BRoots%5D) 4 [Young Wolf](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYoung%5D+%5BWolf%5D) 4 [Chord of Calling](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChord%5D+%5Bof%5D+%5BCalling%5D) 4 [Eldritch Evolution](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEldritch%5D+%5BEvolution%5D) 1 [Collector Ouphe](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCollector%5D+%5BOuphe%5D) 1 [Scavenging Ooze](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScavenging%5D+%5BOoze%5D) 2 [Veil of Summer](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVeil%5D+%5Bof%5D+%5BSummer%5D) 
+
+##### Multi colored (3)
+
+1 [Abrupt Decay](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbrupt%5D+%5BDecay%5D) 1 [Assassin's Trophy](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAssassin%5D+%5BTrophy%5D) 1 [Knight of Autumn](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKnight%5D+%5Bof%5D+%5BAutumn%5D) 
+
+##### Colorless (25)
+
+3 [Blooming Marsh](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlooming%5D+%5BMarsh%5D) 2 [Forest](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D) 1 [Khalni Garden](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKhalni%5D+%5BGarden%5D) 1 [Nurturing Peatland](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNurturing%5D+%5BPeatland%5D) 2 [Overgrown Tomb](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOvergrown%5D+%5BTomb%5D) 1 [Swamp](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D) 1 [Temple Garden](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5BGarden%5D) 4 [Twilight Mire](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTwilight%5D+%5BMire%5D) 1 [Urborg, Tomb of Yawgmoth](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D) 4 [Verdant Catacombs](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVerdant%5D+%5BCatacombs%5D) 1 [Phyrexian Revoker](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPhyrexian%5D+%5BRevoker%5D) 4 [Aether Vial](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAether%5D+%5BVial%5D) 
+
+75 Cards 
+
+##### 1 (16)
+
+4 [Birds of Paradise](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBirds%5D+%5Bof%5D+%5BParadise%5D) 1 [Noble Hierarch](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNoble%5D+%5BHierarch%5D) 4 [Young Wolf](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYoung%5D+%5BWolf%5D) 4 [Aether Vial](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAether%5D+%5BVial%5D) 1 [Thoughtseize](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D) 2 [Veil of Summer](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVeil%5D+%5Bof%5D+%5BSummer%5D) 
+
+##### 2 (16)
+
+1 [Blood Artist](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlood%5D+%5BArtist%5D) 1 [Phyrexian Revoker](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPhyrexian%5D+%5BRevoker%5D) 4 [Strangleroot Geist](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStrangleroot%5D+%5BGeist%5D) 4 [Wall of Roots](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWall%5D+%5Bof%5D+%5BRoots%5D) 1 [Abrupt Decay](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbrupt%5D+%5BDecay%5D) 1 [Assassin's Trophy](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAssassin%5D+%5BTrophy%5D) 1 [Collector Ouphe](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCollector%5D+%5BOuphe%5D) 1 [Grand Abolisher](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrand%5D+%5BAbolisher%5D) 1 [Scavenging Ooze](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScavenging%5D+%5BOoze%5D) 1 [Zulaport Cutthroat](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZulaport%5D+%5BCutthroat%5D) 
+
+##### 3 (15)
+
+3 [Geralf's Messenger](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGeralf%5D+%5BMessenger%5D) 4 [Chord of Calling](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChord%5D+%5Bof%5D+%5BCalling%5D) 4 [Eldritch Evolution](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEldritch%5D+%5BEvolution%5D) 1 [Aven Mindcensor](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAven%5D+%5BMindcensor%5D) 1 [Eidolon of Rhetoric](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEidolon%5D+%5Bof%5D+%5BRhetoric%5D) 1 [Knight of Autumn](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKnight%5D+%5Bof%5D+%5BAutumn%5D) 1 [Plague Engineer](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlague%5D+%5BEngineer%5D) 
+
+##### 4 (6)
+
+4 [Yawgmoth, Thran Physician](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYawgmoth,%5D+%5BThran%5D+%5BPhysician%5D) 2 [Leyline of Sanctity](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5BSanctity%5D) 
+
+##### 5 (1)
+
+1 [Cavalier of Night](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCavalier%5D+%5Bof%5D+%5BNight%5D) 
+
+54 Cards 
+
+##### Common (17)
+
+2 [Forest](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D) 1 [Khalni Garden](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKhalni%5D+%5BGarden%5D) 1 [Swamp](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D) 4 [Wall of Roots](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWall%5D+%5Bof%5D+%5BRoots%5D) 4 [Yawgmoth, Thran Physician](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYawgmoth,%5D+%5BThran%5D+%5BPhysician%5D) 4 [Young Wolf](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYoung%5D+%5BWolf%5D) 1 [Abrupt Decay](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbrupt%5D+%5BDecay%5D) 
+
+##### Uncommon (10)
+
+1 [Blood Artist](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlood%5D+%5BArtist%5D) 4 [Strangleroot Geist](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStrangleroot%5D+%5BGeist%5D) 1 [Aven Mindcensor](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAven%5D+%5BMindcensor%5D) 1 [Eidolon of Rhetoric](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEidolon%5D+%5Bof%5D+%5BRhetoric%5D) 2 [Veil of Summer](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVeil%5D+%5Bof%5D+%5BSummer%5D) 1 [Zulaport Cutthroat](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZulaport%5D+%5BCutthroat%5D) 
+
+##### Rare (47)
+
+3 [Blooming Marsh](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlooming%5D+%5BMarsh%5D) 1 [Dryad Arbor](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDryad%5D+%5BArbor%5D) 1 [Nurturing Peatland](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNurturing%5D+%5BPeatland%5D) 2 [Overgrown Tomb](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOvergrown%5D+%5BTomb%5D) 1 [Temple Garden](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5BGarden%5D) 4 [Twilight Mire](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTwilight%5D+%5BMire%5D) 1 [Urborg, Tomb of Yawgmoth](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrborg,%5D+%5BTomb%5D+%5Bof%5D+%5BYawgmoth%5D) 4 [Verdant Catacombs](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVerdant%5D+%5BCatacombs%5D) 4 [Birds of Paradise](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBirds%5D+%5Bof%5D+%5BParadise%5D) 3 [Geralf's Messenger](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGeralf%5D+%5BMessenger%5D) 1 [Noble Hierarch](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNoble%5D+%5BHierarch%5D) 1 [Phyrexian Revoker](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPhyrexian%5D+%5BRevoker%5D) 4 [Aether Vial](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAether%5D+%5BVial%5D) 4 [Chord of Calling](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChord%5D+%5Bof%5D+%5BCalling%5D) 4 [Eldritch Evolution](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEldritch%5D+%5BEvolution%5D) 1 [Assassin's Trophy](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAssassin%5D+%5BTrophy%5D) 1 [Collector Ouphe](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCollector%5D+%5BOuphe%5D) 1 [Grand Abolisher](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrand%5D+%5BAbolisher%5D) 1 [Knight of Autumn](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKnight%5D+%5Bof%5D+%5BAutumn%5D) 2 [Leyline of Sanctity](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLeyline%5D+%5Bof%5D+%5BSanctity%5D) 1 [Plague Engineer](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlague%5D+%5BEngineer%5D) 1 [Scavenging Ooze](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScavenging%5D+%5BOoze%5D) 1 [Thoughtseize](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D) 
+
+##### Mythic (1)
+
+1 [Cavalier of Night](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCavalier%5D+%5Bof%5D+%5BNight%5D) 
+
+75 Cards 
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Blooming+Marsh)
+
+[Deal Another Hand](https://web.archive.org/web/20200812000000/https://magic.wizards.com/en)
+
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Blood+Artist)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Verdant+Catacombs)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Eldritch+Evolution)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Nurturing+Peatland)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Yawgmoth%2C+Thran+Physician)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Eldritch+Evolution)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Cavalier+of+Night)
+
+a:37:{i:0;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Blooming Marsh";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"3";}i:1;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Dryad Arbor";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:2;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:6:"Forest";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"2";}i:3;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Khalni Garden";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:4;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:18:"Nurturing Peatland";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:5;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Overgrown Tomb";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"2";}i:6;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:5:"Swamp";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:7;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Temple Garden";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:8;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Twilight Mire";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:9;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:24:"Urborg, Tomb of Yawgmoth";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:10;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Verdant Catacombs";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:11;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Birds of Paradise";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:12;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Blood Artist";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"1";}i:13;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Cavalier of Night";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"1";}i:14;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:18:"Geralf's Messenger";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"3";}i:15;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Noble Hierarch";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"1";}i:16;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Phyrexian Revoker";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"1";}i:17;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:18:"Strangleroot Geist";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:18;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Wall of Roots";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:19;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:25:"Yawgmoth, Thran Physician";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:20;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:10:"Young Wolf";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:21;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Aether Vial";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";s:1:"4";}i:22;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Chord of Calling";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"4";}i:23;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:18:"Eldritch Evolution";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"4";}i:24;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Abrupt Decay";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}i:25;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Assassin's Trophy";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}i:26;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Aven Mindcensor";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";i:0;}i:27;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Collector Ouphe";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";i:0;}i:28;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:19:"Eidolon of Rhetoric";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";i:0;}i:29;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Grand Abolisher";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";i:0;}i:30;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Knight of Autumn";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";i:0;}i:31;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:19:"Leyline of Sanctity";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:11:"enchantment";s:10:"deck\_count";i:0;}i:32;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Plague Engineer";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";i:0;}i:33;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Scavenging Ooze";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";i:0;}i:34;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Thoughtseize";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";i:0;}i:35;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Veil of Summer";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}i:36;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:18:"Zulaport Cutthroat";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";i:0;}} 
+
+#### gazmon48 (10th Place)
+
+##### Modern Challenge #12189343 on 08/02/2020
+
+ ![Download Arena Decklist](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png) ![](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+[Decklist](#none) [Stats](#none) [Sample Hand](#none) 
+
+Sort by: 
+
+##### Planeswalker (12)
+
+4 [Karn Liberated](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarn%5D+%5BLiberated%5D) 4 [Karn, the Great Creator](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarn,%5D+%5Bthe%5D+%5BGreat%5D+%5BCreator%5D) 2 [Ugin, the Ineffable](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BIneffable%5D) 2 [Ugin, the Spirit Dragon](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D) 
+
+##### Creature (10)
+
+1 [Emrakul, the Promised End](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEmrakul,%5D+%5Bthe%5D+%5BPromised%5D+%5BEnd%5D) 2 [Ulamog, the Ceaseless Hunger](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUlamog,%5D+%5Bthe%5D+%5BCeaseless%5D+%5BHunger%5D) 3 [Walking Ballista](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWalking%5D+%5BBallista%5D) 4 [Wurmcoil Engine](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWurmcoil%5D+%5BEngine%5D) 
+
+##### Sorcery (8)
+
+4 [Ancient Stirrings](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BStirrings%5D) 4 [Sylvan Scrying](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSylvan%5D+%5BScrying%5D) 
+
+##### Artifact (12)
+
+4 [Chromatic Sphere](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChromatic%5D+%5BSphere%5D) 4 [Chromatic Star](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChromatic%5D+%5BStar%5D) 4 [Expedition Map](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExpedition%5D+%5BMap%5D) 
+
+##### Land (18)
+
+1 [Blast Zone](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlast%5D+%5BZone%5D) 1 [Sanctum of Ugin](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSanctum%5D+%5Bof%5D+%5BUgin%5D) 4 [Snow-Covered Forest](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSnow-Covered%5D+%5BForest%5D) 4 [Urza's Mine](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BMine%5D) 4 [Urza's Power Plant](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BPower%5D+%5BPlant%5D) 4 [Urza's Tower](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BTower%5D) 
+
+60 Cards 
+
+##### Sideboard (15)
+
+1 [Ensnaring Bridge](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnsnaring%5D+%5BBridge%5D) 1 [Liquimetal Coating](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLiquimetal%5D+%5BCoating%5D) 1 [Relic of Progenitus](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5Bof%5D+%5BProgenitus%5D) 1 [Sorcerous Spyglass](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSorcerous%5D+%5BSpyglass%5D) 1 [Spatial Contortion](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpatial%5D+%5BContortion%5D) 1 [Sundering Titan](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSundering%5D+%5BTitan%5D) 3 [Thragtusk](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThragtusk%5D) 1 [Trinisphere](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrinisphere%5D) 2 [Veil of Summer](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVeil%5D+%5Bof%5D+%5BSummer%5D) 3 [Wilt](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWilt%5D) 
+
+##### Green (16)
+
+4 [Ancient Stirrings](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BStirrings%5D) 4 [Sylvan Scrying](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSylvan%5D+%5BScrying%5D) 3 [Thragtusk](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThragtusk%5D) 2 [Veil of Summer](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVeil%5D+%5Bof%5D+%5BSummer%5D) 3 [Wilt](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWilt%5D) 
+
+##### Colorless (59)
+
+1 [Blast Zone](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlast%5D+%5BZone%5D) 1 [Sanctum of Ugin](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSanctum%5D+%5Bof%5D+%5BUgin%5D) 4 [Snow-Covered Forest](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSnow-Covered%5D+%5BForest%5D) 4 [Urza's Mine](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BMine%5D) 4 [Urza's Power Plant](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BPower%5D+%5BPlant%5D) 4 [Urza's Tower](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BTower%5D) 1 [Emrakul, the Promised End](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEmrakul,%5D+%5Bthe%5D+%5BPromised%5D+%5BEnd%5D) 2 [Ulamog, the Ceaseless Hunger](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUlamog,%5D+%5Bthe%5D+%5BCeaseless%5D+%5BHunger%5D) 3 [Walking Ballista](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWalking%5D+%5BBallista%5D) 4 [Wurmcoil Engine](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWurmcoil%5D+%5BEngine%5D) 4 [Chromatic Sphere](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChromatic%5D+%5BSphere%5D) 4 [Chromatic Star](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChromatic%5D+%5BStar%5D) 4 [Expedition Map](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExpedition%5D+%5BMap%5D) 4 [Karn Liberated](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarn%5D+%5BLiberated%5D) 4 [Karn, the Great Creator](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarn,%5D+%5Bthe%5D+%5BGreat%5D+%5BCreator%5D) 2 [Ugin, the Ineffable](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BIneffable%5D) 2 [Ugin, the Spirit Dragon](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D) 1 [Ensnaring Bridge](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnsnaring%5D+%5BBridge%5D) 1 [Liquimetal Coating](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLiquimetal%5D+%5BCoating%5D) 1 [Relic of Progenitus](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5Bof%5D+%5BProgenitus%5D) 1 [Sorcerous Spyglass](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSorcerous%5D+%5BSpyglass%5D) 1 [Spatial Contortion](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpatial%5D+%5BContortion%5D) 1 [Sundering Titan](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSundering%5D+%5BTitan%5D) 1 [Trinisphere](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrinisphere%5D) 
+
+75 Cards 
+
+##### 1 (19)
+
+4 [Ancient Stirrings](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BStirrings%5D) 4 [Chromatic Sphere](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChromatic%5D+%5BSphere%5D) 4 [Chromatic Star](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChromatic%5D+%5BStar%5D) 4 [Expedition Map](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExpedition%5D+%5BMap%5D) 1 [Relic of Progenitus](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5Bof%5D+%5BProgenitus%5D) 2 [Veil of Summer](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVeil%5D+%5Bof%5D+%5BSummer%5D) 
+
+##### 2 (10)
+
+4 [Sylvan Scrying](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSylvan%5D+%5BScrying%5D) 1 [Liquimetal Coating](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLiquimetal%5D+%5BCoating%5D) 1 [Sorcerous Spyglass](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSorcerous%5D+%5BSpyglass%5D) 1 [Spatial Contortion](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpatial%5D+%5BContortion%5D) 3 [Wilt](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWilt%5D) 
+
+##### 3 (2)
+
+1 [Ensnaring Bridge](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnsnaring%5D+%5BBridge%5D) 1 [Trinisphere](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrinisphere%5D) 
+
+##### 4 (4)
+
+4 [Karn, the Great Creator](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarn,%5D+%5Bthe%5D+%5BGreat%5D+%5BCreator%5D) 
+
+##### 5 (3)
+
+3 [Thragtusk](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThragtusk%5D) 
+
+##### 6 (6)
+
+4 [Wurmcoil Engine](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWurmcoil%5D+%5BEngine%5D) 2 [Ugin, the Ineffable](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BIneffable%5D) 
+
+##### 7 (4)
+
+4 [Karn Liberated](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarn%5D+%5BLiberated%5D) 
+
+##### 8 (3)
+
+2 [Ugin, the Spirit Dragon](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D) 1 [Sundering Titan](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSundering%5D+%5BTitan%5D) 
+
+##### 10 (2)
+
+2 [Ulamog, the Ceaseless Hunger](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUlamog,%5D+%5Bthe%5D+%5BCeaseless%5D+%5BHunger%5D) 
+
+##### 13 (1)
+
+1 [Emrakul, the Promised End](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEmrakul,%5D+%5Bthe%5D+%5BPromised%5D+%5BEnd%5D) 
+
+54 Cards 
+
+##### Common (37)
+
+4 [Snow-Covered Forest](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSnow-Covered%5D+%5BForest%5D) 4 [Urza's Mine](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BMine%5D) 4 [Urza's Power Plant](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BPower%5D+%5BPlant%5D) 4 [Urza's Tower](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BTower%5D) 4 [Ancient Stirrings](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BStirrings%5D) 4 [Chromatic Sphere](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChromatic%5D+%5BSphere%5D) 4 [Chromatic Star](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChromatic%5D+%5BStar%5D) 4 [Sylvan Scrying](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSylvan%5D+%5BScrying%5D) 1 [Relic of Progenitus](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5Bof%5D+%5BProgenitus%5D) 1 [Sorcerous Spyglass](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSorcerous%5D+%5BSpyglass%5D) 3 [Wilt](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWilt%5D) 
+
+##### Uncommon (8)
+
+4 [Expedition Map](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExpedition%5D+%5BMap%5D) 1 [Liquimetal Coating](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLiquimetal%5D+%5BCoating%5D) 1 [Spatial Contortion](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpatial%5D+%5BContortion%5D) 2 [Veil of Summer](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVeil%5D+%5Bof%5D+%5BSummer%5D) 
+
+##### Rare (15)
+
+1 [Blast Zone](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlast%5D+%5BZone%5D) 1 [Sanctum of Ugin](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSanctum%5D+%5Bof%5D+%5BUgin%5D) 3 [Walking Ballista](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWalking%5D+%5BBallista%5D) 4 [Karn, the Great Creator](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarn,%5D+%5Bthe%5D+%5BGreat%5D+%5BCreator%5D) 2 [Ugin, the Ineffable](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BIneffable%5D) 1 [Sundering Titan](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSundering%5D+%5BTitan%5D) 3 [Thragtusk](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThragtusk%5D) 
+
+##### Mythic (15)
+
+1 [Emrakul, the Promised End](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEmrakul,%5D+%5Bthe%5D+%5BPromised%5D+%5BEnd%5D) 2 [Ulamog, the Ceaseless Hunger](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUlamog,%5D+%5Bthe%5D+%5BCeaseless%5D+%5BHunger%5D) 4 [Wurmcoil Engine](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWurmcoil%5D+%5BEngine%5D) 4 [Karn Liberated](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarn%5D+%5BLiberated%5D) 2 [Ugin, the Spirit Dragon](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BSpirit%5D+%5BDragon%5D) 1 [Ensnaring Bridge](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnsnaring%5D+%5BBridge%5D) 1 [Trinisphere](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTrinisphere%5D) 
+
+75 Cards 
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Blast+Zone)
+
+[Deal Another Hand](https://web.archive.org/web/20200812000000/https://magic.wizards.com/en)
+
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Wurmcoil+Engine)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Expedition+Map)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Urza%27s+Power+Plant)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Karn%2C+the+Great+Creator)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Chromatic+Sphere)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Ulamog%2C+the+Ceaseless+Hunger)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Ugin%2C+the+Spirit+Dragon)
+
+a:29:{i:0;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:10:"Blast Zone";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:1;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Sanctum of Ugin";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:2;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:19:"Snow-Covered Forest";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:3;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Urza's Mine";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:4;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:18:"Urza's Power Plant";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:5;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Urza's Tower";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:6;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:25:"Emrakul, the Promised End";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"1";}i:7;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:28:"Ulamog, the Ceaseless Hunger";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"2";}i:8;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Walking Ballista";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"3";}i:9;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Wurmcoil Engine";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:10;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Ancient Stirrings";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"4";}i:11;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Chromatic Sphere";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";s:1:"4";}i:12;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Chromatic Star";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";s:1:"4";}i:13;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Expedition Map";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";s:1:"4";}i:14;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Karn Liberated";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:12:"planeswalker";s:10:"deck\_count";s:1:"4";}i:15;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:23:"Karn, the Great Creator";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:12:"planeswalker";s:10:"deck\_count";s:1:"4";}i:16;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Sylvan Scrying";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"4";}i:17;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:19:"Ugin, the Ineffable";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:12:"planeswalker";s:10:"deck\_count";s:1:"2";}i:18;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:23:"Ugin, the Spirit Dragon";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:12:"planeswalker";s:10:"deck\_count";s:1:"2";}i:19;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Ensnaring Bridge";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";i:0;}i:20;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:18:"Liquimetal Coating";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";i:0;}i:21;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:19:"Relic of Progenitus";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";i:0;}i:22;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:18:"Sorcerous Spyglass";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";i:0;}i:23;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:18:"Spatial Contortion";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}i:24;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Sundering Titan";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";i:0;}i:25;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:9:"Thragtusk";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";i:0;}i:26;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Trinisphere";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";i:0;}i:27;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Veil of Summer";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}i:28;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:4:"Wilt";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}} 
+
+#### Mateusf34 (11th Place)
+
+##### Modern Challenge #12189343 on 08/02/2020
+
+ ![Download Arena Decklist](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png) ![](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+[Decklist](#none) [Stats](#none) [Sample Hand](#none) 
+
+Sort by: 
+
+##### Planeswalker (6)
+
+1 [Karn Liberated](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarn%5D+%5BLiberated%5D) 4 [Karn, the Great Creator](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarn,%5D+%5Bthe%5D+%5BGreat%5D+%5BCreator%5D) 1 [Ugin, the Ineffable](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BIneffable%5D) 
+
+##### Creature (15)
+
+4 [Matter Reshaper](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMatter%5D+%5BReshaper%5D) 4 [Reality Smasher](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReality%5D+%5BSmasher%5D) 4 [Thought-Knot Seer](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThought-Knot%5D+%5BSeer%5D) 3 [Walking Ballista](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWalking%5D+%5BBallista%5D) 
+
+##### Sorcery (1)
+
+1 [All Is Dust](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAll%5D+%5BIs%5D+%5BDust%5D) 
+
+##### Instant (4)
+
+2 [Dismember](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDismember%5D) 2 [Warping Wail](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWarping%5D+%5BWail%5D) 
+
+##### Artifact (10)
+
+4 [Chalice of the Void](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChalice%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D) 4 [Expedition Map](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExpedition%5D+%5BMap%5D) 2 [Mazemind Tome](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMazemind%5D+%5BTome%5D) 
+
+##### Land (24)
+
+2 [Blast Zone](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlast%5D+%5BZone%5D) 2 [Cavern of Souls](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCavern%5D+%5Bof%5D+%5BSouls%5D) 4 [Eldrazi Temple](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEldrazi%5D+%5BTemple%5D) 1 [Scavenger Grounds](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScavenger%5D+%5BGrounds%5D) 1 [Tectonic Edge](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTectonic%5D+%5BEdge%5D) 4 [Urza's Mine](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BMine%5D) 4 [Urza's Power Plant](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BPower%5D+%5BPlant%5D) 4 [Urza's Tower](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BTower%5D) 2 [Wastes](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWastes%5D) 
+
+60 Cards 
+
+##### Sideboard (15)
+
+1 [Walking Ballista](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWalking%5D+%5BBallista%5D) 1 [Ensnaring Bridge](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnsnaring%5D+%5BBridge%5D) 1 [Grafdigger's Cage](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrafdigger%5D+%5BCage%5D) 1 [Liquimetal Coating](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLiquimetal%5D+%5BCoating%5D) 1 [Mystic Forge](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystic%5D+%5BForge%5D) 1 [Pithing Needle](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D) 2 [Relic of Progenitus](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5Bof%5D+%5BProgenitus%5D) 1 [Skysovereign, Consul Flagship](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkysovereign,%5D+%5BConsul%5D+%5BFlagship%5D) 1 [Sorcerous Spyglass](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSorcerous%5D+%5BSpyglass%5D) 2 [Spatial Contortion](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpatial%5D+%5BContortion%5D) 1 [Sundering Titan](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSundering%5D+%5BTitan%5D) 1 [Tormod's Crypt](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTormod%5D+%5BCrypt%5D) 1 [Wurmcoil Engine](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWurmcoil%5D+%5BEngine%5D) 
+
+##### Black (2)
+
+2 [Dismember](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDismember%5D) 
+
+##### Colorless (73)
+
+2 [Blast Zone](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlast%5D+%5BZone%5D) 2 [Cavern of Souls](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCavern%5D+%5Bof%5D+%5BSouls%5D) 4 [Eldrazi Temple](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEldrazi%5D+%5BTemple%5D) 1 [Scavenger Grounds](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScavenger%5D+%5BGrounds%5D) 1 [Tectonic Edge](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTectonic%5D+%5BEdge%5D) 4 [Urza's Mine](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BMine%5D) 4 [Urza's Power Plant](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BPower%5D+%5BPlant%5D) 4 [Urza's Tower](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BTower%5D) 2 [Wastes](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWastes%5D) 4 [Matter Reshaper](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMatter%5D+%5BReshaper%5D) 4 [Reality Smasher](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReality%5D+%5BSmasher%5D) 4 [Thought-Knot Seer](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThought-Knot%5D+%5BSeer%5D) 4 [Walking Ballista](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWalking%5D+%5BBallista%5D) 1 [All Is Dust](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAll%5D+%5BIs%5D+%5BDust%5D) 4 [Chalice of the Void](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChalice%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D) 4 [Expedition Map](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExpedition%5D+%5BMap%5D) 1 [Karn Liberated](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarn%5D+%5BLiberated%5D) 4 [Karn, the Great Creator](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarn,%5D+%5Bthe%5D+%5BGreat%5D+%5BCreator%5D) 2 [Mazemind Tome](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMazemind%5D+%5BTome%5D) 1 [Ugin, the Ineffable](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BIneffable%5D) 2 [Warping Wail](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWarping%5D+%5BWail%5D) 1 [Ensnaring Bridge](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnsnaring%5D+%5BBridge%5D) 1 [Grafdigger's Cage](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrafdigger%5D+%5BCage%5D) 1 [Liquimetal Coating](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLiquimetal%5D+%5BCoating%5D) 1 [Mystic Forge](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystic%5D+%5BForge%5D) 1 [Pithing Needle](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D) 2 [Relic of Progenitus](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5Bof%5D+%5BProgenitus%5D) 1 [Skysovereign, Consul Flagship](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkysovereign,%5D+%5BConsul%5D+%5BFlagship%5D) 1 [Sorcerous Spyglass](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSorcerous%5D+%5BSpyglass%5D) 2 [Spatial Contortion](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpatial%5D+%5BContortion%5D) 1 [Sundering Titan](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSundering%5D+%5BTitan%5D) 1 [Tormod's Crypt](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTormod%5D+%5BCrypt%5D) 1 [Wurmcoil Engine](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWurmcoil%5D+%5BEngine%5D) 
+
+75 Cards 
+
+##### 1 (8)
+
+4 [Expedition Map](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExpedition%5D+%5BMap%5D) 1 [Grafdigger's Cage](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrafdigger%5D+%5BCage%5D) 1 [Pithing Needle](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D) 2 [Relic of Progenitus](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5Bof%5D+%5BProgenitus%5D) 
+
+##### 2 (8)
+
+2 [Mazemind Tome](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMazemind%5D+%5BTome%5D) 2 [Warping Wail](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWarping%5D+%5BWail%5D) 1 [Liquimetal Coating](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLiquimetal%5D+%5BCoating%5D) 1 [Sorcerous Spyglass](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSorcerous%5D+%5BSpyglass%5D) 2 [Spatial Contortion](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpatial%5D+%5BContortion%5D) 
+
+##### 3 (7)
+
+4 [Matter Reshaper](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMatter%5D+%5BReshaper%5D) 2 [Dismember](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDismember%5D) 1 [Ensnaring Bridge](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnsnaring%5D+%5BBridge%5D) 
+
+##### 4 (9)
+
+4 [Thought-Knot Seer](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThought-Knot%5D+%5BSeer%5D) 4 [Karn, the Great Creator](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarn,%5D+%5Bthe%5D+%5BGreat%5D+%5BCreator%5D) 1 [Mystic Forge](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystic%5D+%5BForge%5D) 
+
+##### 5 (5)
+
+4 [Reality Smasher](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReality%5D+%5BSmasher%5D) 1 [Skysovereign, Consul Flagship](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkysovereign,%5D+%5BConsul%5D+%5BFlagship%5D) 
+
+##### 6 (2)
+
+1 [Ugin, the Ineffable](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BIneffable%5D) 1 [Wurmcoil Engine](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWurmcoil%5D+%5BEngine%5D) 
+
+##### 7 (2)
+
+1 [All Is Dust](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAll%5D+%5BIs%5D+%5BDust%5D) 1 [Karn Liberated](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarn%5D+%5BLiberated%5D) 
+
+##### 8 (1)
+
+1 [Sundering Titan](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSundering%5D+%5BTitan%5D) 
+
+42 Cards 
+
+##### Common (23)
+
+4 [Urza's Mine](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BMine%5D) 4 [Urza's Power Plant](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BPower%5D+%5BPlant%5D) 4 [Urza's Tower](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUrza%5D+%5BTower%5D) 2 [Wastes](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWastes%5D) 4 [Chalice of the Void](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChalice%5D+%5Bof%5D+%5Bthe%5D+%5BVoid%5D) 2 [Dismember](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDismember%5D) 2 [Relic of Progenitus](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRelic%5D+%5Bof%5D+%5BProgenitus%5D) 1 [Sorcerous Spyglass](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSorcerous%5D+%5BSpyglass%5D) 
+
+##### Uncommon (14)
+
+4 [Eldrazi Temple](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEldrazi%5D+%5BTemple%5D) 4 [Expedition Map](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExpedition%5D+%5BMap%5D) 2 [Warping Wail](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWarping%5D+%5BWail%5D) 1 [Liquimetal Coating](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLiquimetal%5D+%5BCoating%5D) 2 [Spatial Contortion](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpatial%5D+%5BContortion%5D) 1 [Tormod's Crypt](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTormod%5D+%5BCrypt%5D) 
+
+##### Rare (31)
+
+2 [Blast Zone](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlast%5D+%5BZone%5D) 1 [Scavenger Grounds](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScavenger%5D+%5BGrounds%5D) 4 [Matter Reshaper](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMatter%5D+%5BReshaper%5D) 4 [Reality Smasher](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReality%5D+%5BSmasher%5D) 4 [Thought-Knot Seer](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThought-Knot%5D+%5BSeer%5D) 4 [Walking Ballista](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWalking%5D+%5BBallista%5D) 1 [All Is Dust](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAll%5D+%5BIs%5D+%5BDust%5D) 4 [Karn, the Great Creator](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarn,%5D+%5Bthe%5D+%5BGreat%5D+%5BCreator%5D) 2 [Mazemind Tome](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMazemind%5D+%5BTome%5D) 1 [Ugin, the Ineffable](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUgin,%5D+%5Bthe%5D+%5BIneffable%5D) 1 [Grafdigger's Cage](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrafdigger%5D+%5BCage%5D) 1 [Mystic Forge](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystic%5D+%5BForge%5D) 1 [Pithing Needle](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPithing%5D+%5BNeedle%5D) 1 [Sundering Titan](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSundering%5D+%5BTitan%5D) 
+
+##### Mythic (7)
+
+2 [Cavern of Souls](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCavern%5D+%5Bof%5D+%5BSouls%5D) 1 [Tectonic Edge](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTectonic%5D+%5BEdge%5D) 1 [Karn Liberated](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKarn%5D+%5BLiberated%5D) 1 [Ensnaring Bridge](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEnsnaring%5D+%5BBridge%5D) 1 [Skysovereign, Consul Flagship](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkysovereign,%5D+%5BConsul%5D+%5BFlagship%5D) 1 [Wurmcoil Engine](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWurmcoil%5D+%5BEngine%5D) 
+
+75 Cards 
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Blast+Zone)
+
+[Deal Another Hand](https://web.archive.org/web/20200812000000/https://magic.wizards.com/en)
+
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=All+Is+Dust)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Thought-Knot+Seer)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Mazemind+Tome)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Warping+Wail)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Mazemind+Tome)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Eldrazi+Temple)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Warping+Wail)
+
+a:34:{i:0;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:10:"Blast Zone";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"2";}i:1;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Cavern of Souls";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"2";}i:2;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Eldrazi Temple";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:3;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Scavenger Grounds";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:4;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Tectonic Edge";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:5;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Urza's Mine";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:6;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:18:"Urza's Power Plant";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:7;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Urza's Tower";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:8;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:6:"Wastes";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"2";}i:9;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Matter Reshaper";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:10;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Reality Smasher";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:11;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Thought-Knot Seer";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:12;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Walking Ballista";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"3";}i:13;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"All Is Dust";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"1";}i:14;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:19:"Chalice of the Void";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";s:1:"4";}i:15;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:9:"Dismember";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"2";}i:16;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Expedition Map";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";s:1:"4";}i:17;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Karn Liberated";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:12:"planeswalker";s:10:"deck\_count";s:1:"1";}i:18;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:23:"Karn, the Great Creator";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:12:"planeswalker";s:10:"deck\_count";s:1:"4";}i:19;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Mazemind Tome";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";s:1:"2";}i:20;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:19:"Ugin, the Ineffable";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:12:"planeswalker";s:10:"deck\_count";s:1:"1";}i:21;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Warping Wail";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"2";}i:22;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Ensnaring Bridge";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";i:0;}i:23;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Grafdigger's Cage";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";i:0;}i:24;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:18:"Liquimetal Coating";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";i:0;}i:25;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Mystic Forge";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";i:0;}i:26;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Pithing Needle";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";i:0;}i:27;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:19:"Relic of Progenitus";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";i:0;}i:28;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:29:"Skysovereign, Consul Flagship";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";i:0;}i:29;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:18:"Sorcerous Spyglass";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";i:0;}i:30;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:18:"Spatial Contortion";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}i:31;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Sundering Titan";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";i:0;}i:32;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Tormod's Crypt";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";i:0;}i:33;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Wurmcoil Engine";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";i:0;}} 
+
+#### Maox (12th Place)
+
+##### Modern Challenge #12189343 on 08/02/2020
+
+ ![Download Arena Decklist](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png) ![](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+[Decklist](#none) [Stats](#none) [Sample Hand](#none) 
+
+Sort by: 
+
+##### Creature (17)
+
+2 [Bedlam Reveler](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBedlam%5D+%5BReveler%5D) 4 [Monastery Swiftspear](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BSwiftspear%5D) 4 [Soul-Scar Mage](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoul-Scar%5D+%5BMage%5D) 3 [Sprite Dragon](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSprite%5D+%5BDragon%5D) 4 [Stormwing Entity](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStormwing%5D+%5BEntity%5D) 
+
+##### Sorcery (4)
+
+4 [Light Up the Stage](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLight%5D+%5BUp%5D+%5Bthe%5D+%5BStage%5D) 
+
+##### Instant (21)
+
+3 [Gut Shot](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGut%5D+%5BShot%5D) 4 [Lava Dart](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLava%5D+%5BDart%5D) 4 [Lightning Bolt](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBolt%5D) 4 [Manamorphose](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BManamorphose%5D) 3 [Mutagenic Growth](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMutagenic%5D+%5BGrowth%5D) 3 [Opt](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOpt%5D) 
+
+##### Land (18)
+
+2 [Arid Mesa](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArid%5D+%5BMesa%5D) 2 [Bloodstained Mire](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D) 3 [Fiery Islet](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFiery%5D+%5BIslet%5D) 3 [Mountain](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D) 4 [Spirebluff Canal](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpirebluff%5D+%5BCanal%5D) 2 [Steam Vents](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteam%5D+%5BVents%5D) 2 [Wooded Foothills](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D) 
+
+60 Cards 
+
+##### Sideboard (15)
+
+2 [Abrade](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbrade%5D) 2 [Aether Gust](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAether%5D+%5BGust%5D) 2 [Blood Moon](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlood%5D+%5BMoon%5D) 1 [Dismember](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDismember%5D) 2 [Flame Slash](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlame%5D+%5BSlash%5D) 1 [Kozilek's Return](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKozilek%5D+%5BReturn%5D) 3 [Spell Pierce](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpell%5D+%5BPierce%5D) 2 [Surgical Extraction](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSurgical%5D+%5BExtraction%5D) 
+
+##### Blue (12)
+
+4 [Stormwing Entity](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStormwing%5D+%5BEntity%5D) 3 [Opt](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOpt%5D) 2 [Aether Gust](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAether%5D+%5BGust%5D) 3 [Spell Pierce](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpell%5D+%5BPierce%5D) 
+
+##### Black (3)
+
+1 [Dismember](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDismember%5D) 2 [Surgical Extraction](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSurgical%5D+%5BExtraction%5D) 
+
+##### Red (31)
+
+2 [Bedlam Reveler](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBedlam%5D+%5BReveler%5D) 4 [Monastery Swiftspear](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BSwiftspear%5D) 4 [Soul-Scar Mage](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoul-Scar%5D+%5BMage%5D) 3 [Gut Shot](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGut%5D+%5BShot%5D) 4 [Lava Dart](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLava%5D+%5BDart%5D) 4 [Light Up the Stage](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLight%5D+%5BUp%5D+%5Bthe%5D+%5BStage%5D) 4 [Lightning Bolt](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBolt%5D) 2 [Abrade](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAbrade%5D) 2 [Blood Moon](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlood%5D+%5BMoon%5D) 2 [Flame Slash](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlame%5D+%5BSlash%5D) 
+
+##### Green (3)
+
+3 [Mutagenic Growth](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMutagenic%5D+%5BGrowth%5D) 
+
+##### Multi colored (7)
+
+3 [Sprite Dragon](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSprite%5D+%5BDragon%5D) 4 [Manamorphose](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BManamorphose%5D) 
+
+##### Colorless (19)
+
+2 [Arid Mesa](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArid%5D+%5BMesa%5D) 2 [Bloodstained Mire](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D) 3 [Fiery Islet](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFiery%5D+%5BIslet%5D) 3 [Mountain](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D) 4 [Spirebluff Canal](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpirebluff%5D+%5BCanal%5D) 2 [Steam Vents](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteam%5D+%5BVents%5D) 2 [Wooded Foothills](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D) 1 [Kozilek's Return](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKozilek%5D+%5BReturn%5D) 
+
+75 Cards 
+
+##### 1 (32)
+
+4 [Monastery Swiftspear](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMonastery%5D+%5BSwiftspear%5D) 4 [Soul-Scar Mage](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSoul-Scar%5D+%5BMage%5D) 3 [Gut Shot](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGut%5D+%5BShot%5D) 4 [Lava Dart](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLava%5D+%5BDart%5D) 4 [Lightning Bolt](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBolt%5D) 3 [Mutagenic Growth](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMutagenic%5D+%5BGrowth%5D) 3 [Opt](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOpt%5D) 2 [Flame Slash](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlame%5D+%5BSlash%5D) 3 [Spell Pierce](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpell%5D+%5BPierce%5D) 2 [Surgical Extraction](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSurgical%5D+%5BExtraction%5D) 
+
+##### 2 (11)
+
+3 [Sprite Dragon](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSprite%5D+%5BDragon%5D) 4 [Manamorphose](https://web.archive.org/web/20200812000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BManamorphose%5D) 2

@@ -1,0 +1,66 @@
+---
+id: xg72h22v
+kind: event
+lang: en
+path: /en/articles/event-coverage/undated/2009-pro-tour-rookie-of-the-year-standings
+title: 2009 Pro Tour Rookie of the Year Standings
+published: null
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/article.aspx?x=protour/standings/roy09
+    lang_detected: en
+    capture_id: 829982
+    url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=protour/standings/roy09
+    captured_at: '2013-02-22 01:14:40+00'
+    rule: aspx.article_heading
+sources:
+- document_id: xg72h22v
+  url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=protour/standings/roy09
+  page_key: wizards.com/magic/magazine/article.aspx?x=protour/standings/roy09
+  lang: en
+  template: aspx
+  captured_at: '2013-02-22 01:14:40+00'
+  capture_id: 829982
+  wayback_url: https://web.archive.org/web/20130222011440id_/http://www.wizards.com/Magic/Magazine/Article.aspx?x=protour/standings/roy09
+- document_id: xg72h22v
+  url: http://www.wizards.com/magic/Magazine/Events.aspx?x=protour/standings/roy09
+  page_key: wizards.com/magic/magazine/events.aspx?x=protour/standings/roy09
+  lang: en
+  template: aspx
+  captured_at: '2010-06-16 23:33:58+00'
+  capture_id: 1153765
+  wayback_url: https://web.archive.org/web/20100616233358id_/http://www.wizards.com/magic/Magazine/Events.aspx?x=protour/standings/roy09
+- document_id: xg72h22v
+  url: http://www.wizards.com/Magic/TCG/Events.aspx?x=protour/standings/roy09
+  page_key: wizards.com/magic/tcg/events.aspx?x=protour/standings/roy09
+  lang: en
+  template: aspx
+  captured_at: '2009-06-02 04:57:15+00'
+  capture_id: 4011515
+  wayback_url: https://web.archive.org/web/20090602045715id_/http://www.wizards.com/Magic/TCG/Events.aspx?x=protour/standings/roy09
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: xg72h22v
+  capture_id: 829982
+  url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=protour/standings/roy09
+  wayback_url: https://web.archive.org/web/20130222011440id_/http://www.wizards.com/Magic/Magazine/Article.aspx?x=protour/standings/roy09
+  captured_at: '2013-02-22 01:14:40+00'
+  template: aspx
+  sha256: c29b8a95a81276dd93eee532da38394e81518777adb4d11863e54e646aac5e10
+render_recovery: []
+---
+*Updated November 25, 2009* 
+
+![Magic: the Gathering Pro Tour](http://www.wizards.com/protour/images/pt_lg.gif "Magic: the Gathering Pro Tour")
+
+Congratulations to [Germany's Lino Burgold, the 2009 Pro Tour Rookie of the Year](https://web.archive.org/web/20130222011440/http://www.wizards.com/Magic/Magazine/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/worlds09/feature/roy)! Burgold passed Akimasa Yamamoto in the final event of the year to take home the title.
+
+The player with the most Pro Points at the end of a tournament season that has not participated in a Pro Tour or World Championship tournament in any previous season is identified as the Rookie of the Year. In addition to the title, the Rookie of the Year receives travel and accommodations to his or her choice of one of the next season’s Pro Tour events (for which that player has an invitation) or to the World Championships.
+
+This page shows all players who have received at least 10 Pro Points in the 2009 season. 
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <a href="/en/articles/event-coverage/undated/2009-pro-tour-rookie-of-the-year-standings">&#10;        <b>Place</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/en/articles/event-coverage/undated/2009-pro-tour-rookie-of-the-year-standings">&#10;        <b>First </b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/en/articles/event-coverage/undated/2009-pro-tour-rookie-of-the-year-standings">&#10;        <b>Last</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/en/articles/event-coverage/undated/2009-pro-tour-rookie-of-the-year-standings">&#10;        <b>Country</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/en/articles/event-coverage/undated/2009-pro-tour-rookie-of-the-year-standings">&#10;        <b>Pro Points</b>&#10;      </a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>1</td>&#10;    <td>Lino</td>&#10;    <td>Burgold</td>&#10;    <td>Gremany</td>&#10;    <td>32</td>&#10;  </tr>&#10;  <tr>&#10;    <td>2</td>&#10;    <td>Akimasa</td>&#10;    <td>Yamamoto</td>&#10;    <td>Japan</td>&#10;    <td>31</td>&#10;  </tr>&#10;  <tr>&#10;    <td>3</td>&#10;    <td>Brad</td>&#10;    <td>Nelson</td>&#10;    <td>United States</td>&#10;    <td>27</td>&#10;  </tr>&#10;  <tr>&#10;    <td>3</td>&#10;    <td>Brian</td>&#10;    <td>Robinson</td>&#10;    <td>United States</td>&#10;    <td>27</td>&#10;  </tr>&#10;  <tr>&#10;    <td>5</td>&#10;    <td>Shi Tian</td>&#10;    <td>Lee</td>&#10;    <td>Hong Kong</td>&#10;    <td>25</td>&#10;  </tr>&#10;  <tr>&#10;    <td>6</td>&#10;    <td>Ari</td>&#10;    <td>Lax</td>&#10;    <td>United States</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>6</td>&#10;    <td>Hajime</td>&#10;    <td>Nakamura</td>&#10;    <td>Japan</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>6</td>&#10;    <td>Ken</td>&#10;    <td>Yukuhiro</td>&#10;    <td>Japan</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>9</td>&#10;    <td>Reinhold</td>&#10;    <td>Kohl</td>&#10;    <td>Germany</td>&#10;    <td>20</td>&#10;  </tr>&#10;  <tr>&#10;    <td>10</td>&#10;    <td>Bernhard</td>&#10;    <td>Lehner</td>&#10;    <td>Austria</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>10</td>&#10;    <td>Robbert</td>&#10;    <td>Menten</td>&#10;    <td>Belgium</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>10</td>&#10;    <td>Lucas</td>&#10;    <td>Siow</td>&#10;    <td>United States</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>10</td>&#10;    <td>Katsuya</td>&#10;    <td>Ueda</td>&#10;    <td>Japan</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>14</td>&#10;    <td>Gilles</td>&#10;    <td>Mongilardi</td>&#10;    <td>France</td>&#10;    <td>17</td>&#10;  </tr>&#10;  <tr>&#10;    <td>14</td>&#10;    <td>Luca</td>&#10;    <td>Ravagli</td>&#10;    <td>Italy</td>&#10;    <td>17</td>&#10;  </tr>&#10;  <tr>&#10;    <td>16</td>&#10;    <td>Slawomir</td>&#10;    <td>Jabs</td>&#10;    <td>Poland</td>&#10;    <td>16</td>&#10;  </tr>&#10;  <tr>&#10;    <td>16</td>&#10;    <td>Jan</td>&#10;    <td>Schmidt</td>&#10;    <td>Germany</td>&#10;    <td>16</td>&#10;  </tr>&#10;  <tr>&#10;    <td>16</td>&#10;    <td>Jakguy</td>&#10;    <td>Subcharoen</td>&#10;    <td>Thailand</td>&#10;    <td>16</td>&#10;  </tr>&#10;  <tr>&#10;    <td>19</td>&#10;    <td>Christian</td>&#10;    <td>Bakkehaug</td>&#10;    <td>Norway</td>&#10;    <td>15</td>&#10;  </tr>&#10;  <tr>&#10;    <td>19</td>&#10;    <td>Chris</td>&#10;    <td>Black</td>&#10;    <td>Northern Ireland</td>&#10;    <td>15</td>&#10;  </tr>&#10;  <tr>&#10;    <td>19</td>&#10;    <td>Hao-Shan</td>&#10;    <td>Huang</td>&#10;    <td>Taiwan</td>&#10;    <td>15</td>&#10;  </tr>&#10;  <tr>&#10;    <td>22</td>&#10;    <td>Cristian A.</td>&#10;    <td>Cespedes H.</td>&#10;    <td>Chile</td>&#10;    <td>14</td>&#10;  </tr>&#10;  <tr>&#10;    <td>22</td>&#10;    <td>Marlon</td>&#10;    <td>Egolf</td>&#10;    <td>United States</td>&#10;    <td>14</td>&#10;  </tr>&#10;  <tr>&#10;    <td>22</td>&#10;    <td>Wei-chun</td>&#10;    <td>Fang</td>&#10;    <td>Taiwan</td>&#10;    <td>14</td>&#10;  </tr>&#10;  <tr>&#10;    <td>22</td>&#10;    <td>Tore</td>&#10;    <td>Hedbäck</td>&#10;    <td>Sweden</td>&#10;    <td>14</td>&#10;  </tr>&#10;  <tr>&#10;    <td>22</td>&#10;    <td>Tommy</td>&#10;    <td>Kolowith</td>&#10;    <td>United States</td>&#10;    <td>14</td>&#10;  </tr>&#10;  <tr>&#10;    <td>22</td>&#10;    <td>Cerag</td>&#10;    <td>Kucukcaglayan</td>&#10;    <td>Turkey</td>&#10;    <td>14</td>&#10;  </tr>&#10;  <tr>&#10;    <td>22</td>&#10;    <td>Remi</td>&#10;    <td>Pearce</td>&#10;    <td>New Zealand</td>&#10;    <td>14</td>&#10;  </tr>&#10;  <tr>&#10;    <td>22</td>&#10;    <td>Masayasu</td>&#10;    <td>Tanahashi</td>&#10;    <td>Japan</td>&#10;    <td>14</td>&#10;  </tr>&#10;  <tr>&#10;    <td>30</td>&#10;    <td>Mikko</td>&#10;    <td>Airaksinen</td>&#10;    <td>Finland</td>&#10;    <td>13</td>&#10;  </tr>&#10;  <tr>&#10;    <td>30</td>&#10;    <td>Daniel</td>&#10;    <td>Almeida Alves</td>&#10;    <td>Brazil</td>&#10;    <td>13</td>&#10;  </tr>&#10;  <tr>&#10;    <td>30</td>&#10;    <td>Brian</td>&#10;    <td>Boss</td>&#10;    <td>United States</td>&#10;    <td>13</td>&#10;  </tr>&#10;  <tr>&#10;    <td>30</td>&#10;    <td>Michael</td>&#10;    <td>Eberhard</td>&#10;    <td>Switzerland</td>&#10;    <td>13</td>&#10;  </tr>&#10;  <tr>&#10;    <td>30</td>&#10;    <td>Andres</td>&#10;    <td>Monsalve</td>&#10;    <td>Argentina</td>&#10;    <td>13</td>&#10;  </tr>&#10;  <tr>&#10;    <td>30</td>&#10;    <td>Juan Carlos</td>&#10;    <td>Vargas Carreras</td>&#10;    <td>Bolivia</td>&#10;    <td>13</td>&#10;  </tr>&#10;  <tr>&#10;    <td>36</td>&#10;    <td>Yoav</td>&#10;    <td>Amir</td>&#10;    <td>Israel</td>&#10;    <td>12</td>&#10;  </tr>&#10;  <tr>&#10;    <td>36</td>&#10;    <td>Jose</td>&#10;    <td>Arrieta</td>&#10;    <td>Peru</td>&#10;    <td>12</td>&#10;  </tr>&#10;  <tr>&#10;    <td>36</td>&#10;    <td>Zohar</td>&#10;    <td>Bhagat</td>&#10;    <td>United States</td>&#10;    <td>12</td>&#10;  </tr>&#10;  <tr>&#10;    <td>36</td>&#10;    <td>Nikolay</td>&#10;    <td>Bogdev</td>&#10;    <td>Bulgaria</td>&#10;    <td>12</td>&#10;  </tr>&#10;  <tr>&#10;    <td>36</td>&#10;    <td>Paulo</td>&#10;    <td>Cortez</td>&#10;    <td>Brazil</td>&#10;    <td>12</td>&#10;  </tr>&#10;  <tr>&#10;    <td>36</td>&#10;    <td>Janos</td>&#10;    <td>Csomos</td>&#10;    <td>Slovak Republic</td>&#10;    <td>12</td>&#10;  </tr>&#10;  <tr>&#10;    <td>36</td>&#10;    <td>Jens</td>&#10;    <td>Erickson</td>&#10;    <td>United States</td>&#10;    <td>12</td>&#10;  </tr>&#10;  <tr>&#10;    <td>36</td>&#10;    <td>Peter</td>&#10;    <td>Ingram</td>&#10;    <td>United States</td>&#10;    <td>12</td>&#10;  </tr>&#10;  <tr>&#10;    <td>36</td>&#10;    <td>Jang-hong</td>&#10;    <td>Kim</td>&#10;    <td>Korea (South)</td>&#10;    <td>12</td>&#10;  </tr>&#10;  <tr>&#10;    <td>36</td>&#10;    <td>Mariano</td>&#10;    <td>Lemus Hernández</td>&#10;    <td>Guatemala</td>&#10;    <td>12</td>&#10;  </tr>&#10;  <tr>&#10;    <td>36</td>&#10;    <td>Jamie</td>&#10;    <td>Mackintosh</td>&#10;    <td>Australia</td>&#10;    <td>12</td>&#10;  </tr>&#10;  <tr>&#10;    <td>36</td>&#10;    <td>Paulius</td>&#10;    <td>Petkunas</td>&#10;    <td>Lithuania</td>&#10;    <td>12</td>&#10;  </tr>&#10;  <tr>&#10;    <td>36</td>&#10;    <td>Sergio</td>&#10;    <td>Vegas</td>&#10;    <td>Venezuela</td>&#10;    <td>12</td>&#10;  </tr>&#10;  <tr>&#10;    <td>36</td>&#10;    <td>Bogdan</td>&#10;    <td>Voda</td>&#10;    <td>Romania</td>&#10;    <td>12</td>&#10;  </tr>&#10;  <tr>&#10;    <td>36</td>&#10;    <td>Jonas</td>&#10;    <td>Wallendorf</td>&#10;    <td>Germany</td>&#10;    <td>12</td>&#10;  </tr>&#10;  <tr>&#10;    <td>51</td>&#10;    <td>Ondrej</td>&#10;    <td>Posolda</td>&#10;    <td>Czech Republic</td>&#10;    <td>11</td>&#10;  </tr>&#10;  <tr>&#10;    <td>52</td>&#10;    <td>Jon</td>&#10;    <td>Boutin</td>&#10;    <td>Canada</td>&#10;    <td>10</td>&#10;  </tr>&#10;  <tr>&#10;    <td>52</td>&#10;    <td>Bradley</td>&#10;    <td>Carpenter</td>&#10;    <td>United States</td>&#10;    <td>10</td>&#10;  </tr>&#10;  <tr>&#10;    <td>52</td>&#10;    <td>Jason</td>&#10;    <td>Chung</td>&#10;    <td>New Zealand</td>&#10;    <td>10</td>&#10;  </tr>&#10;  <tr>&#10;    <td>52</td>&#10;    <td>Shane</td>&#10;    <td>Dalliston</td>&#10;    <td>Australia</td>&#10;    <td>10</td>&#10;  </tr>&#10;  <tr>&#10;    <td>52</td>&#10;    <td>Taichi</td>&#10;    <td>Fujimoto</td>&#10;    <td>Japan</td>&#10;    <td>10</td>&#10;  </tr>&#10;  <tr>&#10;    <td>52</td>&#10;    <td>Claude</td>&#10;    <td>Hurlimaar</td>&#10;    <td>South Africa</td>&#10;    <td>10</td>&#10;  </tr>&#10;  <tr>&#10;    <td>52</td>&#10;    <td>Taufik</td>&#10;    <td>Indrakesuma</td>&#10;    <td>Singapore</td>&#10;    <td>10</td>&#10;  </tr>&#10;  <tr>&#10;    <td>52</td>&#10;    <td>Daniel</td>&#10;    <td>Parra Heron</td>&#10;    <td>Colombia</td>&#10;    <td>10</td>&#10;  </tr>&#10;  <tr>&#10;    <td>52</td>&#10;    <td>Adrian</td>&#10;    <td>Rosada</td>&#10;    <td>Germany</td>&#10;    <td>10</td>&#10;  </tr>&#10;  <tr>&#10;    <td>52</td>&#10;    <td>Tyler</td>&#10;    <td>Sage</td>&#10;    <td>Canada</td>&#10;    <td>10</td>&#10;  </tr>&#10;  <tr>&#10;    <td>52</td>&#10;    <td>Dejan</td>&#10;    <td>Sibul</td>&#10;    <td>Serbia</td>&#10;    <td>10</td>&#10;  </tr>&#10;  <tr>&#10;    <td>52</td>&#10;    <td>Bradley</td>&#10;    <td>Wojceshonek</td>&#10;    <td>United States</td>&#10;    <td>10</td>&#10;  </tr>&#10;  <tr>&#10;    <td>52</td>&#10;    <td>Liang</td>&#10;    <td>Zhu</td>&#10;    <td>China</td>&#10;    <td>10</td>&#10;  </tr>&#10;  <tr>&#10;    <td> </td>&#10;  </tr>&#10;</tbody></table>

@@ -1,0 +1,47 @@
+---
+id: 4va4me58
+kind: event
+lang: en
+path: /en/articles/event-coverage/undated/round-8-standings-by-team-2
+title: Round 8 Standings (by Team)
+published: null
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-8-standings-team-2000-01-01-1
+    lang_detected: en
+    capture_id: 571953
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-8-standings-team-2000-01-01-1
+    captured_at: '2021-11-28 09:33:34+00'
+    rule: meta.og_title
+sources:
+- document_id: 4va4me58
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-8-standings-team-2000-01-01-1
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/round-8-standings-team-2000-01-01-1
+  lang: en
+  template: drupal
+  captured_at: '2021-11-28 09:33:34+00'
+  capture_id: 571953
+  wayback_url: https://web.archive.org/web/20211128093334id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-8-standings-team-2000-01-01-1
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 4va4me58
+  capture_id: 571953
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-8-standings-team-2000-01-01-1
+  wayback_url: https://web.archive.org/web/20211128093334id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-8-standings-team-2000-01-01-1
+  captured_at: '2021-11-28 09:33:34+00'
+  template: drupal
+  sha256: b412fbfc7f33e10a9d9e64408c7105126068c0482878080314771a2f95e3081c
+render_recovery:
+- code: unsupported_link
+  element: a
+  target: mailto:Tomguevin@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Tomguevin@aol.com
+  occurrences: 1
+---
+<table><tbody><tr><td><b>Rank</b></td><td><b>Name</b></td><td><b>Points</b></td><td><b>Op-Match</b></td></tr><tr><td>66</td><td>:)</td><td>7</td><td>50.00%</td></tr><tr><td>42</td><td>1 Bourbon,1 Scotch,1 Beer</td><td>10</td><td>47.22%</td></tr><tr><td>50</td><td>2 men and a sideboard</td><td>9</td><td>57.41%</td></tr><tr><td>18</td><td>40 oz ALL STARS</td><td>15</td><td>56.42%</td></tr><tr><td>52</td><td>504 Boys</td><td>9</td><td>53.70%</td></tr><tr><td>106</td><td>Aachen Fantastics 1</td><td>3</td><td>41.67%</td></tr><tr><td>30</td><td>Absolute Samuels</td><td>12</td><td>48.09%</td></tr><tr><td>94</td><td>Aixelsyd maet</td><td>4</td><td>37.33%</td></tr><tr><td>79</td><td>Alien Nation</td><td>6</td><td>50.67%</td></tr><tr><td>11</td><td>AlphaBetaUnlimited.com</td><td>17</td><td>54.34%</td></tr><tr><td>21</td><td>Antartica</td><td>15</td><td>49.79%</td></tr><tr><td>40</td><td>Ayumi gumi</td><td>10</td><td>49.07%</td></tr><tr><td>3</td><td>B.I.G.</td><td>19</td><td>58.85%</td></tr><tr><td>60</td><td>Baku</td><td>8</td><td>56.48%</td></tr><tr><td>54</td><td>Bavarian Nabobs</td><td>9</td><td>50.93%</td></tr><tr><td>77</td><td>Bearly Legal</td><td>6</td><td>52.78%</td></tr><tr><td>33</td><td>Being Zvi Mowshowitz</td><td>10</td><td>57.12%</td></tr><tr><td>32</td><td>Big Dogs</td><td>10</td><td>57.41%</td></tr><tr><td>87</td><td>Big Mana Birds</td><td>5</td><td>52.96%</td></tr><tr><td>24</td><td>Black Ops</td><td>14</td><td>47.57%</td></tr><tr><td>69</td><td>Bread Delivery</td><td>7</td><td>49.07%</td></tr><tr><td>75</td><td>Brothers Parker</td><td>6</td><td>56.48%</td></tr><tr><td>1</td><td>Car Acrobatic Team</td><td>22</td><td>58.13%</td></tr><tr><td>35</td><td>Corporate Elbow</td><td>10</td><td>56.48%</td></tr><tr><td>71</td><td>Cracker Crunch</td><td>7</td><td>46.30%</td></tr><tr><td>83</td><td>Daddy's Little Ladies</td><td>6</td><td>45.56%</td></tr><tr><td>98</td><td>Dan Gray is my Hero</td><td>3</td><td>50.67%</td></tr><tr><td>15</td><td>Dark Side of the Moon</td><td>16</td><td>55.17%</td></tr><tr><td>92</td><td>Dogmas</td><td>4</td><td>44.00%</td></tr><tr><td>4</td><td>Draften Und Spielen</td><td>18</td><td>60.59%</td></tr><tr><td>102</td><td>Duck Trio</td><td>3</td><td>47.22%</td></tr><tr><td>84</td><td>Dwarven Demolition Team</td><td>6</td><td>45.37%</td></tr><tr><td>107</td><td>ECA</td><td>1</td><td>43.75%</td></tr><tr><td>96</td><td>Egghead Games</td><td>3</td><td>54.17%</td></tr><tr><td>31</td><td>Excuse my French</td><td>11</td><td>59.90%</td></tr><tr><td>36</td><td>Farm, The</td><td>10</td><td>54.63%</td></tr><tr><td>8</td><td>Fearless Hurloonies</td><td>18</td><td>50.69%</td></tr><tr><td>46</td><td>Fever for Cowbell</td><td>10</td><td>40.74%</td></tr><tr><td>9</td><td>Fix, The</td><td>17</td><td>59.55%</td></tr><tr><td>63</td><td>Game Empire</td><td>7</td><td>57.41%</td></tr><tr><td>48</td><td>Gix Pix</td><td>9</td><td>57.59%</td></tr><tr><td>13</td><td>Goblin Gate Aarhus</td><td>16</td><td>60.42%</td></tr><tr><td>74</td><td>Grrr</td><td>6</td><td>58.67%</td></tr><tr><td>56</td><td>Hammer of Brno</td><td>9</td><td>42.59%</td></tr><tr><td>6</td><td>HCP</td><td>18</td><td>56.94%</td></tr><tr><td>61</td><td>Hubbo</td><td>8</td><td>53.70%</td></tr><tr><td>14</td><td>Huey, Ben and Casey</td><td>16</td><td>58.16%</td></tr><tr><td>20</td><td>III Heroes</td><td>15</td><td>51.01%</td></tr><tr><td>80</td><td>Italians do it Better</td><td>6</td><td>49.33%</td></tr><tr><td>22</td><td>Juggernaut</td><td>15</td><td>46.88%</td></tr><tr><td>91</td><td>Jumble</td><td>4</td><td>49.33%</td></tr><tr><td>64</td><td>Just for Men</td><td>7</td><td>53.70%</td></tr><tr><td>73</td><td>Latin Lovers</td><td>7</td><td>45.37%</td></tr><tr><td>16</td><td>Les Videurs des quais</td><td>16</td><td>52.95%</td></tr><tr><td>25</td><td>Logikens Mastare</td><td>14</td><td>46.35%</td></tr><tr><td>44</td><td>London</td><td>10</td><td>44.44%</td></tr><tr><td>90</td><td>Lucious Nectar</td><td>4</td><td>49.33%</td></tr><tr><td>12</td><td>Metropolis</td><td>17</td><td>51.22%</td></tr><tr><td>72</td><td>Mickey Parade</td><td>7</td><td>45.37%</td></tr><tr><td>65</td><td>Minions of Atog</td><td>7</td><td>51.85%</td></tr><tr><td>49</td><td>Min's Late</td><td>9</td><td>57.59%</td></tr><tr><td>41</td><td>Monkey Dog</td><td>10</td><td>48.33%</td></tr><tr><td>27</td><td>Monster Rod</td><td>13</td><td>62.15%</td></tr><tr><td>99</td><td>Mother</td><td>3</td><td>50.67%</td></tr><tr><td>67</td><td>Occult System</td><td>7</td><td>50.00%</td></tr><tr><td>100</td><td>Out on Bail</td><td>3</td><td>48.33%</td></tr><tr><td>88</td><td>Pantalons De Singe</td><td>5</td><td>47.22%</td></tr><tr><td>55</td><td>Paradox</td><td>9</td><td>50.00%</td></tr><tr><td>2</td><td>Potato Nation</td><td>20</td><td>63.19%</td></tr><tr><td>37</td><td>Ray Force</td><td>10</td><td>54.63%</td></tr><tr><td>109</td><td>Right Brothers, The</td><td>1</td><td>33.33%</td></tr><tr><td>10</td><td>Rolled-up Aces</td><td>17</td><td>56.56%</td></tr><tr><td>34</td><td>S.M - R.</td><td>10</td><td>56.48%</td></tr><tr><td>23</td><td>Slim Shady &amp;  Marks Bros</td><td>14</td><td>52.95%</td></tr><tr><td>97</td><td>Snap Crakle Pop</td><td>3</td><td>54.17%</td></tr><tr><td>19</td><td>Sol Malka Fan Club</td><td>15</td><td>56.22%</td></tr><tr><td>104</td><td>Spunk Monkey</td><td>3</td><td>42.67%</td></tr><tr><td>86</td><td>Staines Massive</td><td>5</td><td>58.33%</td></tr><tr><td>81</td><td>Team Advanced Formula</td><td>6</td><td>49.07%</td></tr><tr><td>38</td><td>Team Bort</td><td>10</td><td>52.78%</td></tr><tr><td>47</td><td>Team Cream</td><td>9</td><td>60.19%</td></tr><tr><td>78</td><td>Team Diesel</td><td>6</td><td>50.93%</td></tr><tr><td>51</td><td>Team Dueling Ground</td><td>9</td><td>53.89%</td></tr><tr><td>53</td><td>Team Erase</td><td>9</td><td>51.11%</td></tr><tr><td>70</td><td>Team Harvard</td><td>7</td><td>47.22%</td></tr><tr><td>93</td><td>Team K</td><td>4</td><td>41.33%</td></tr><tr><td>29</td><td>Team Olari</td><td>12</td><td>56.60%</td></tr><tr><td>5</td><td>Team Outland</td><td>18</td><td>57.99%</td></tr><tr><td>108</td><td>Team Ralph</td><td>1</td><td>41.67%</td></tr><tr><td>105</td><td>Team Rocket</td><td>3</td><td>42.67%</td></tr><tr><td>39</td><td>Team Sped</td><td>10</td><td>50.93%</td></tr><tr><td>110</td><td>Team Thirties</td><td>0</td><td>34.26%</td></tr><tr><td>26</td><td>Team TnT</td><td>13</td><td>62.67%</td></tr><tr><td>57</td><td>Team Tucson</td><td>9</td><td>41.67%</td></tr><tr><td>17</td><td>Team Work</td><td>15</td><td>58.33%</td></tr><tr><td>82</td><td>Team Zero Tolerance Policy</td><td>6</td><td>48.15%</td></tr><tr><td>89</td><td>Th1</td><td>4</td><td>50.00%</td></tr><tr><td>85</td><td>TLC</td><td>6</td><td>40.93%</td></tr><tr><td>103</td><td>TN Connection</td><td>3</td><td>46.67%</td></tr><tr><td>62</td><td><a>Tomguevin@aol.com</a></td><td>8</td><td>44.44%</td></tr><tr><td>76</td><td>Trash A</td><td>6</td><td>56.00%</td></tr><tr><td>95</td><td>Trash B</td><td>3</td><td>68.75%</td></tr><tr><td>28</td><td>Tronderbataljonen</td><td>12</td><td>59.55%</td></tr><tr><td>43</td><td>US</td><td>10</td><td>44.44%</td></tr><tr><td>101</td><td>Whatever</td><td>3</td><td>47.92%</td></tr><tr><td>68</td><td>What's That funny smell</td><td>7</td><td>50.00%</td></tr><tr><td>58</td><td>Woodpusherz</td><td>9</td><td>38.89%</td></tr><tr><td>59</td><td>Yalta</td><td>9</td><td>38.89%</td></tr><tr><td>7</td><td>Your Moves Games</td><td>18</td><td>52.95%</td></tr><tr><td>45</td><td>Zagrev Sol</td><td>10</td><td>43.52%</td></tr></tbody></table>

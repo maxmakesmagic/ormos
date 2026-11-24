@@ -1,0 +1,320 @@
+---
+id: hq3whr96
+kind: article
+lang: en
+path: /en/articles/card-image-gallery/2020/09-18-zendikar-rising-art-cards
+title: Zendikar Rising Art Cards
+published: '2020-09-18'
+column_slug: card-image-gallery
+column: Card Image Gallery
+authors:
+- slug: wizardsofthecoast
+  name: Wizards of the Coast
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/card-image-gallery/zendikar-rising-art-cards-2020-09-18
+    lang_detected: en
+    capture_id: 252729
+    url: https://magic.wizards.com/en/articles/archive/card-image-gallery/zendikar-rising-art-cards-2020-09-18
+    captured_at: '2022-09-27 20:51:56+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/card-image-gallery/zendikar-rising-art-cards-2020-09-18
+    lang_detected: en
+    capture_id: 252729
+    url: https://magic.wizards.com/en/articles/archive/card-image-gallery/zendikar-rising-art-cards-2020-09-18
+    captured_at: '2022-09-27 20:51:56+00'
+    rule: drupal.posted_in_date
+  authors:
+    page_key: magic.wizards.com/en/articles/archive/card-image-gallery/zendikar-rising-art-cards-2020-09-18
+    lang_detected: en
+    capture_id: 252729
+    url: https://magic.wizards.com/en/articles/archive/card-image-gallery/zendikar-rising-art-cards-2020-09-18
+    captured_at: '2022-09-27 20:51:56+00'
+    rule: drupal.div_author
+  column:
+    page_key: magic.wizards.com/en/articles/archive/card-image-gallery/zendikar-rising-art-cards-2020-09-18
+    lang_detected: en
+    capture_id: 252729
+    url: https://magic.wizards.com/en/articles/archive/card-image-gallery/zendikar-rising-art-cards-2020-09-18
+    captured_at: '2022-09-27 20:51:56+00'
+    rule: url.article_section
+sources:
+- document_id: hq3whr96
+  url: https://magic.wizards.com/en/articles/archive/card-image-gallery/zendikar-rising-art-cards-2020-09-18
+  page_key: magic.wizards.com/en/articles/archive/card-image-gallery/zendikar-rising-art-cards-2020-09-18
+  lang: en
+  template: drupal
+  captured_at: '2022-09-27 20:51:56+00'
+  capture_id: 252729
+  wayback_url: https://web.archive.org/web/20220927205156id_/https://magic.wizards.com/en/articles/archive/card-image-gallery/zendikar-rising-art-cards-2020-09-18
+- document_id: hq3whr96
+  url: https://magic.wizards.com/en/articles/archive/card-image-gallery/zendikar-rising-art-cards-2020-09-18?ub
+  page_key: magic.wizards.com/en/articles/archive/card-image-gallery/zendikar-rising-art-cards-2020-09-18?ub
+  lang: en
+  template: drupal
+  captured_at: '2020-11-01 02:08:34+00'
+  capture_id: 252731
+  wayback_url: https://web.archive.org/web/20201101020834id_/https://magic.wizards.com/en/articles/archive/card-image-gallery/zendikar-rising-art-cards-2020-09-18?ub
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: hq3whr96
+  capture_id: 252729
+  url: https://magic.wizards.com/en/articles/archive/card-image-gallery/zendikar-rising-art-cards-2020-09-18
+  wayback_url: https://web.archive.org/web/20220927205156id_/https://magic.wizards.com/en/articles/archive/card-image-gallery/zendikar-rising-art-cards-2020-09-18
+  captured_at: '2022-09-27 20:51:56+00'
+  template: drupal
+  sha256: 10f59a1f258210995b79dbef4eb297c823dafe9d85e7f17d6c48b1f0e3353074
+render_recovery: []
+---
+*Zendikar Rising* art cards will be available in *Zendikar Rising* Set Boosters. Cards will appear in both their signature form and non-signature form. The signature versions are shown below. Non-signature versions look the same just without the signature. Approximately 1 in 20 art cards will have the gold artist signature. For more on Set Boosters, [click here](/en/articles/makingmagic/2020/07-26-set-boosters).
+
+ 
+
+## ART CARDS
+
+![Jace, Mirror Mage 1 Art Card](https://media.wizards.com/2020/znr/en_uXovtDdaMj.png)  
+ Jace, Mirror Mage 1 Art Card
+
+![Jace, Mirror Mage 2 Art Card](https://media.wizards.com/2020/znr/en_puqyqpB8xj.png)  
+ Jace, Mirror Mage 2 Art Card
+
+![Nahiri, Heir of the Ancients 1 Art Card](https://media.wizards.com/2020/znr/en_XwxNBKzymZ.png)  
+ Nahiri, Heir of the Ancients 1 Art Card
+
+![Nahiri, Heir of the Ancients 2 Art Card](https://media.wizards.com/2020/znr/en_37y1Ooi5As.png)  
+ Nahiri, Heir of the Ancients 2 Art Card
+
+![Nissa of Shadowed Boughs 1 Art Card](https://media.wizards.com/2020/znr/en_G66BIRyysh.png)  
+ Nissa of Shadowed Boughs 1 Art Card
+
+![Nissa of Shadowed Boughs 2 Art Card](https://media.wizards.com/2020/znr/en_F6xh6NbDwN.png)  
+ Nissa of Shadowed Boughs 2 Art Card
+
+![Plains 1 Art Card](https://media.wizards.com/2020/znr/en_7RsdCcA7x4.png)  
+ Plains 1 Art Card
+
+![Plains 2 Art Card](https://media.wizards.com/2020/znr/en_DfE9sFjlW2.png)  
+ Plains 2 Art Card
+
+![Plains 3  Art Card](https://media.wizards.com/2020/znr/en_xwQh17LW7b.png)  
+ Plains 3 Art Card
+
+![Island 1 Art Card](https://media.wizards.com/2020/znr/en_DmBQTdA3ib.png)  
+ Island 1 Art Card
+
+![Island 2 Art Card](https://media.wizards.com/2020/znr/en_wPFULbPmnU.png)  
+ Island 2 Art Card
+
+![Island 3 Art Card](https://media.wizards.com/2020/znr/en_vZlHI5bheW.png)  
+ Island 3 Art Card
+
+![Swamp 1 Art Card](https://media.wizards.com/2020/znr/en_JBnsw7dLNJ.png)  
+ Swamp 1 Art Card
+
+![Swamp 2 Art Card](https://media.wizards.com/2020/znr/en_n6F5C1iUQK.png)  
+ Swamp 2 Art Card
+
+![Swamp 3 Art Card](https://media.wizards.com/2020/znr/en_h9stGemyP0.png)  
+ Swamp 3 Art Card
+
+![Mountain 1 Art Card](https://media.wizards.com/2020/znr/en_6gbisUNP5v.png)  
+ Mountain 1 Art Card
+
+![Mountain 2 Art Card](https://media.wizards.com/2020/znr/en_HKiqJhgzMH.png)  
+ Mountain 2 Art Card
+
+![Mountain 3 Art Card](https://media.wizards.com/2020/znr/en_kv6ghKp9r8.png)  
+ Mountain 3 Art Card
+
+![Forest 1 Art Card](https://media.wizards.com/2020/znr/en_XpjKNtVPii.png)  
+ Forest 1 Art Card
+
+![Forest 2 Art Card](https://media.wizards.com/2020/znr/en_KEbUiRL7yz.png)  
+ Forest 2 Art Card
+
+![Forest 3 Art Card](https://media.wizards.com/2020/znr/en_L2qc3et33C.png)  
+ Forest 3 Art Card
+
+![Boulderloft Pathway Art Card](https://media.wizards.com/2020/znr/en_gmkJZqGdOz.png)  
+ Boulderloft Pathway Art Card
+
+![Brightclimb Pathway Art Card](https://media.wizards.com/2020/znr/en_vbAiJqoy6i.png)  
+ Brightclimb Pathway Art Card
+
+![Grimclimb Pathway Art Card](https://media.wizards.com/2020/znr/en_lWTtLQoYwT.png)  
+ Grimclimb Pathway Art Card
+
+![Clearwater Pathway Art Card](https://media.wizards.com/2020/znr/en_XW2UZ8VqdT.png)  
+ Clearwater Pathway Art Card
+
+![Murkwater Pathway Art Card](https://media.wizards.com/2020/znr/en_ivUKUEj0S9.png)  
+ Murkwater Pathway Art Card
+
+![Needleverge Pathway Art Card](https://media.wizards.com/2020/znr/en_Tx33QUiABJ.png)  
+ Needleverge Pathway Art Card
+
+![Pillarverge Pathway Art Card](https://media.wizards.com/2020/znr/en_yjh5UZftRJ.png)  
+ Pillarverge Pathway Art Card
+
+![Flooded Strand Art Card](https://media.wizards.com/2020/znr/en_gdXPEuTK0M.png)  
+ Flooded Strand Art Card
+
+![Windswept Heath Art Card](https://media.wizards.com/2020/znr/en_xZgznthJtw.png)  
+ Windswept Heath Art Card
+
+![Seachrome Coast Art Card](https://media.wizards.com/2020/znr/en_6KyCQnTIYP.png)  
+ Seachrome Coast Art Card
+
+![Morphic Pool Art Card](https://media.wizards.com/2020/znr/en_Hjn2G0QQZa.png)  
+ Morphic Pool Art Card
+
+![Celestial Colonnade Art Card](https://media.wizards.com/2020/znr/en_UakR3oANVo.png)  
+ Celestial Colonnade Art Card
+
+![Grove of the Burnwillows Art Card](https://media.wizards.com/2020/znr/en_T8q89Nl37T.png)  
+ Grove of the Burnwillows Art Card
+
+![Prismatic Vista Art Card](https://media.wizards.com/2020/znr/en_aNqdJ32eZO.png)  
+ Prismatic Vista Art Card
+
+![Wasteland Art Card](https://media.wizards.com/2020/znr/en_E1eZyKeYqd.png)  
+ Wasteland Art Card
+
+![Angel of Destiny Art Card](https://media.wizards.com/2020/znr/en_HF2gQ3HENG.png)  
+ Angel of Destiny Art Card
+
+![Cliffhaven Sell-Sword Art Card](https://media.wizards.com/2020/znr/en_7n9Ev4hKCi.png)  
+ Cliffhaven Sell-Sword Art Card
+
+![Expedition Healer Art Card](https://media.wizards.com/2020/znr/en_AaW1PhvlkG.png)  
+ Expedition Healer Art Card
+
+![Kitesail Cleric Art Card](https://media.wizards.com/2020/znr/en_qC8R4qXbwD.png)  
+ Kitesail Cleric Art Card
+
+![Kor Celebrant Art Card](https://media.wizards.com/2020/znr/en_ilfeIInKMq.png)  
+ Kor Celebrant Art Card
+
+![Nahiri's Binding Art Card](https://media.wizards.com/2020/znr/en_So1jF6tsd7.png)  
+ Nahiri's Binding Art Card
+
+![Sea Gate Banneret Art Card](https://media.wizards.com/2020/znr/en_15tbAHnBct.png)  
+ Sea Gate Banneret Art Card
+
+![Skyclave Basilica Art Card](https://media.wizards.com/2020/znr/en_bDVY9SgAr3.png)  
+ Skyclave Basilica Art Card
+
+![Tazri, Beacon of Unity Art Card](https://media.wizards.com/2020/znr/en_tGeRaNMFLg.png)  
+ Tazri, Beacon of Unity Art Card
+
+![Anticognition Art Card](https://media.wizards.com/2020/znr/en_W5rjCaYBDv.png)  
+ Anticognition Art Card
+
+![Expedition Diviner Art Card](https://media.wizards.com/2020/znr/en_cotzfTob4X.png)  
+ Expedition Diviner Art Card
+
+![Maddening Cacophony Art Card](https://media.wizards.com/2020/znr/en_n22hRFMmLJ.png)  
+ Maddening Cacophony Art Card
+
+![Sea Gate Restoration Art Card](https://media.wizards.com/2020/znr/en_Jhb0GbUj2T.png)  
+ Sea Gate Restoration Art Card
+
+![Sea Gate Stormcaller Art Card](https://media.wizards.com/2020/znr/en_Fy30ZhgGzb.png)  
+ Sea Gate Stormcaller Art Card
+
+![Tazeem Roilmage Art Card](https://media.wizards.com/2020/znr/en_vetcVQWXGL.png)  
+ Tazeem Roilmage Art Card
+
+![Umara Wizard Art Card](https://media.wizards.com/2020/znr/en_yFeKZe3dUU.png)  
+ Umara Wizard Art Card
+
+![Blackbloom Rogue Art Card](https://media.wizards.com/2020/znr/en_FGUHamBckh.png)  
+ Blackbloom Rogue Art Card
+
+![Drana, the Last Bloodchief Art Card](https://media.wizards.com/2020/znr/en_gfZRZEKkUf.png)  
+ Drana, the Last Bloodchief Art Card
+
+![Highborn Vampire Art Card](https://media.wizards.com/2020/znr/en_01D4pguKRm.png)  
+ Highborn Vampire Art Card
+
+![Malakir Blood-Priest Art Card](https://media.wizards.com/2020/znr/en_Yvs8Uo7w2B.png)  
+ Malakir Blood-Priest Art Card
+
+![Mind Carver Art Card](https://media.wizards.com/2020/znr/en_Ixt2m1fLBL.png)  
+ Mind Carver Art Card
+
+![Nighthawk Scavenger Art Card](https://media.wizards.com/2020/znr/en_BPdgfT0vff.png)  
+ Nighthawk Scavenger Art Card
+
+![Scion of the Swarm Art Card](https://media.wizards.com/2020/znr/en_e3nndfVL80.png)  
+ Scion of the Swarm Art Card
+
+![Scourge of the Skyclaves Art Card](https://media.wizards.com/2020/znr/en_WL9eLVoPTd.png)  
+ Scourge of the Skyclaves Art Card
+
+![Skyclave Shade Art Card](https://media.wizards.com/2020/znr/en_jsbIERgyi8.png)  
+ Skyclave Shade Art Card
+
+![Soul Shatter Art Card](https://media.wizards.com/2020/znr/en_SN9FizJ1MM.png)  
+ Soul Shatter Art Card
+
+![Taborax, Hope's Demise Art Card](https://media.wizards.com/2020/znr/en_qUuZdMW3Vv.png)  
+ Taborax, Hope's Demise Art Card
+
+![Thwart the Grave Art Card](https://media.wizards.com/2020/znr/en_ZzSpuywrqk.png)  
+ Thwart the Grave Art Card
+
+![Magmatic Channeler Art Card](https://media.wizards.com/2020/znr/en_zGc6i91EP1.png)  
+ Magmatic Channeler Art Card
+
+![Moraug, Fury of Akoum Art Card](https://media.wizards.com/2020/znr/en_CV6N0DP4Pv.png)  
+ Moraug, Fury of Akoum Art Card
+
+![Teeterpeak Ambusher Art Card](https://media.wizards.com/2020/znr/en_aWRYCqElmb.png)  
+ Teeterpeak Ambusher Art Card
+
+![Thundering Rebuke Art Card](https://media.wizards.com/2020/znr/en_EJxPnVqaVD.png)  
+ Thundering Rebuke Art Card
+
+![Ashaya, Soul of the Wild Art Card](https://media.wizards.com/2020/znr/en_MJN9vSBvHW.png)  
+ Ashaya, Soul of the Wild Art Card
+
+![Canopy Baloth Art Card](https://media.wizards.com/2020/znr/en_DYDBm82HWC.png)  
+ Canopy Baloth Art Card
+
+![Lotus Cobra Art Card](https://media.wizards.com/2020/znr/en_pDyvSYGNqz.png)  
+ Lotus Cobra Art Card
+
+![Reclaim the Wastes Art Card](https://media.wizards.com/2020/znr/en_gaoFMEOLtS.png)  
+ Reclaim the Wastes Art Card
+
+![Swarm Shambler Art Card](https://media.wizards.com/2020/znr/en_bthgeNtp2r.png)  
+ Swarm Shambler Art Card
+
+![Akiri, Fearless Voyager Art Card](https://media.wizards.com/2020/znr/en_idPrIFv1pt.png)  
+ Akiri, Fearless Voyager Art Card
+
+![Anowon, the Ruin Thief Art Card](https://media.wizards.com/2020/znr/en_7uVNmW7Wah.png)  
+ Anowon, the Ruin Thief Art Card
+
+![Grakmaw, Skyclave Ravager Art Card](https://media.wizards.com/2020/znr/en_zDA4hyJNpD.png)  
+ Grakmaw, Skyclave Ravager Art Card
+
+![Linvala, Shield of Sea Gate Art Card](https://media.wizards.com/2020/znr/en_eW6S1rz4c9.png)  
+ Linvala, Shield of Sea Gate Art Card
+
+![Omnath, Locus of Creation Art Card](https://media.wizards.com/2020/znr/en_pkuQha2x9U.png)  
+ Omnath, Locus of Creation Art Card
+
+![Orah, Skyclave Hierophant Art Card](https://media.wizards.com/2020/znr/en_5RXzfePrDk.png)  
+ Orah, Skyclave Hierophant Art Card
+
+![Umara Mystic Art Card](https://media.wizards.com/2020/znr/en_R9k9jEoxEI.png)  
+ Umara Mystic Art Card
+
+![Yasharn, Implacable Earth Art Card](https://media.wizards.com/2020/znr/en_ZQTvP4tHli.png)  
+ Yasharn, Implacable Earth Art Card
+
+ 

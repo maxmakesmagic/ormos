@@ -1,0 +1,47 @@
+---
+id: 4gcpwd5c
+kind: event
+lang: en
+path: /en/articles/event-coverage/2009/02-21-grand-prix-rotterdam-round-15-results
+title: 'Grand-Prix Rotterdam: Round 15 Results'
+published: '2009-02-21'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-rotterdam-round-15-results-2009-02-21
+    lang_detected: en
+    capture_id: 424515
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-rotterdam-round-15-results-2009-02-21
+    captured_at: '2017-10-29 16:00:59+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-rotterdam-round-15-results-2009-02-21
+    lang_detected: en
+    capture_id: 424515
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-rotterdam-round-15-results-2009-02-21
+    captured_at: '2017-10-29 16:00:59+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: 4gcpwd5c
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-rotterdam-round-15-results-2009-02-21
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-rotterdam-round-15-results-2009-02-21
+  lang: en
+  template: drupal
+  captured_at: '2017-10-29 16:00:59+00'
+  capture_id: 424515
+  wayback_url: https://web.archive.org/web/20171029160059id_/https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-rotterdam-round-15-results-2009-02-21
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 4gcpwd5c
+  capture_id: 424515
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-rotterdam-round-15-results-2009-02-21
+  wayback_url: https://web.archive.org/web/20171029160059id_/https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-rotterdam-round-15-results-2009-02-21
+  captured_at: '2017-10-29 16:00:59+00'
+  template: drupal
+  sha256: f8640a8e5b1abb720cc7ca9af471645ade96ed44dd2c2be2237fec908eb41970
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Result</b></td><td><b>&#10;						</b></td><td><b>Opponent</b></td></tr><tr><td> 1</td><td>Berthoux, Jeremy [FRA]</td><td>Won 2-1</td><td>vs.</td><td>Stelder, Sacha [NLD]</td></tr><tr><td> 2</td><td>Eberhard, Michi [CHE]</td><td>Won 2-0</td><td>vs.</td><td>Zatlkaj, Matej [SVK]</td></tr><tr><td> 3</td><td>Ruel, Olivier [FRA]</td><td>Lost 1-2</td><td>vs.</td><td>Van Der Ploeg, Tobie [NLD]</td></tr><tr><td> 4</td><td>Brodzak, Jan [CZE]</td><td>Lost 0-2</td><td>vs.</td><td>Wigge, Mathias [DEU]</td></tr><tr><td> 5</td><td>Papatsarouchas, Evange [GRC]</td><td>Drew 0-0-0</td><td>vs.</td><td>Ruess, Jan H [DEU]</td></tr><tr><td> 6</td><td>Spruyt, Braam [BEL]</td><td>Lost 0-2</td><td>vs.</td><td>Birth, Michael [DEU]</td></tr><tr><td> 7</td><td>Lindroos, Jani [FIN]</td><td>Lost 0-2</td><td>vs.</td><td>Hollmann, Marc [DEU]</td></tr><tr><td> 8</td><td>Andersen, Rune Martens [DNK]</td><td>Won 2-0</td><td>vs.</td><td>Van Noordenburg, Douwe [NLD]</td></tr><tr><td> 9</td><td>Burtscher, Emanuel [AUT]</td><td>Won 2-0</td><td>vs.</td><td>Cardoso, Ricardo [PRT]</td></tr><tr><td> 10</td><td>Tran, Minh [BEL]</td><td>Lost 1-2</td><td>vs.</td><td>Roelofs, Frank [NLD]</td></tr><tr><td> 11</td><td>Dolstra, Menno [NLD]</td><td>Lost 0-2</td><td>vs.</td><td>De Kler, Tijs [NLD]</td></tr><tr><td> 12</td><td>Van Medevoort, Robert [NLD]</td><td>Won 2-0</td><td>vs.</td><td>Fletcher, Geoff L [NLD]</td></tr><tr><td> 13</td><td>Nouchi, Jonathan [NLD]</td><td>Won 2-0</td><td>vs.</td><td>Vanrie, Wim [BEL]</td></tr><tr><td> 14</td><td>Lorenz, Jan [DEU]</td><td>Lost 1-2</td><td>vs.</td><td>Brueggemann, Julian A [DEU]</td></tr><tr><td> 15</td><td>Le Montagner, Mathieu [FRA]</td><td>Lost 1-2</td><td>vs.</td><td>Wollaert, Kjell [BEL]</td></tr><tr><td> 16</td><td>Brackmann, Aaron [DEU]</td><td>Drew 0-0-0</td><td>vs.</td><td>Nakamura, Shuuhei [JPN]</td></tr><tr><td> 17</td><td>De Sio, Jakub [CZE]</td><td>Won 2-1</td><td>vs.</td><td>Snijdewind, Ruben [NLD]</td></tr><tr><td> 18</td><td>Ströh, Kim [DNK]</td><td>Won 2-0</td><td>vs.</td><td>Burgold, Lino [DEU]</td></tr><tr><td> 19</td><td>Zhang, Yin [LUX]</td><td>Lost 0-2</td><td>vs.</td><td>Langer, Tomas [CZE]</td></tr><tr><td> 20</td><td>Karsten, Frank [NLD]</td><td>Won 2-0</td><td>vs.</td><td>Musial, Lukasz [POL]</td></tr><tr><td> 21</td><td>Maaten, Rogier [NLD]</td><td>Won 2-1</td><td>vs.</td><td>Thorén, Jens [SWE]</td></tr><tr><td> 22</td><td>Summersberger, Helmut [AUT]</td><td>Won 2-1</td><td>vs.</td><td>Zimmermann, Martin [DEU]</td></tr><tr><td> 23</td><td>Birner, Armin [AUT]</td><td>Won 2-0</td><td>vs.</td><td>Schreurs, Jos [NLD]</td></tr><tr><td> 24</td><td>De Haan, Floris [NLD]</td><td>Lost 1-2</td><td>vs.</td><td>Cabezas Munoz, Jose [ESP]</td></tr><tr><td> 25</td><td>Saiyasely, Liking [FRA]</td><td>Won 2-1</td><td>vs.</td><td>Van Zutphen, Ronald [NLD]</td></tr><tr><td> 26</td><td>Boning, Matthias [DEU]</td><td>Lost 0-2</td><td>vs.</td><td>Frederiksen, Anders [DNK]</td></tr><tr><td> 27</td><td>Geißler, Gunnar [DEU]</td><td>Won 2-1</td><td>vs.</td><td>Kirilov, Kaloyan T [BGR]</td></tr><tr><td> 28</td><td>Doropoulos, Nick [GRC]</td><td>Lost 1-2</td><td>vs.</td><td>Baert, Jiri [BEL]</td></tr><tr><td> 29</td><td>Schwass, Mark [CHE]</td><td>Lost 0-2</td><td>vs.</td><td>De Bruijn, Vincent [NLD]</td></tr><tr><td> 30</td><td>Mezhoud, Hakim [FRA]</td><td>Won 2-1</td><td>vs.</td><td>Van Der Made, Allard [NLD]</td></tr><tr><td> 31</td><td>Doropoulos, Marios-isi [NLD]</td><td>Drew 1-1-1</td><td>vs.</td><td>Magdalena Aguin, Eduar [ESP]</td></tr><tr><td> 32</td><td>Picciafuochi, Riccardo [ITA]</td><td>Won 2-0</td><td>vs.</td><td>Van Der Beek, Johan [NLD]</td></tr><tr><td> 33</td><td>Prost, Andrejs [USA]</td><td>Drew 0-0-0</td><td>vs.</td><td>Kohl, Reinhold [DEU]</td></tr><tr><td> 34</td><td>Boeken, Noah P [NLD]</td><td>Won 2-0</td><td>vs.</td><td>De Graat, Julien [DEU]</td></tr><tr><td> 35</td><td>Maij, Rosario [DEU]</td><td>Won 2-1</td><td>vs.</td><td>Borba, Rodrigo [PRT]</td></tr><tr><td> 36</td><td>Pedersen, Kristian [NOR]</td><td>Won 2-1</td><td>vs.</td><td>Boudaoud, Hakim M [FRA]</td></tr><tr><td> 37</td><td>Frilund, Michael [DNK]</td><td>Lost 1-2</td><td>vs.</td><td>Lemoine, Vincent [BEL]</td></tr><tr><td> 38</td><td>Nørgaard, Lasse [DNK]</td><td>Won 2-1</td><td>vs.</td><td>Vieren, Peter [BEL]</td></tr><tr><td> 39</td><td>Melis, Bas [NLD]</td><td>Lost 1-2</td><td>vs.</td><td>Nahodil, Petr [CZE]</td></tr><tr><td> 40</td><td>Drobny, Radoslav [SVK]</td><td>Won 2-1</td><td>vs.</td><td>Knoerr, Sebastian [DEU]</td></tr><tr><td> 41</td><td>Ohlhof, Frank [DEU]</td><td>Lost 1-2</td><td>vs.</td><td>Dang, Martin P [DNK]</td></tr><tr><td> 42</td><td>Dobis, David [CZE]</td><td>Won 2-0</td><td>vs.</td><td>Engleitner, Herbert [AUT]</td></tr><tr><td> 43</td><td>Korsell, Samuel [SWE]</td><td>Lost 1-2</td><td>vs.</td><td>Willefert, Malo [FRA]</td></tr><tr><td> 44</td><td>Dubuisson, Aurelien [BEL]</td><td>Lost 0-2</td><td>vs.</td><td>De Jong, Hugo [NLD]</td></tr><tr><td> 45</td><td>Perpete, Fabrice [BEL]</td><td>Lost 0-2</td><td>vs.</td><td>Fatouros, Vasilis N [GRC]</td></tr><tr><td> 46</td><td>Topel, Frank [DEU]</td><td>Lost 1-2</td><td>vs.</td><td>Thomson, Nicholas R [CAN]</td></tr><tr><td> 47</td><td>Cnossen, Anne [NLD]</td><td>Lost 1-2</td><td>vs.</td><td>Van Der Vaart, Martijn [NLD]</td></tr><tr><td> 48</td><td>Hebky, Michal [CZE]</td><td>Won 2-0</td><td>vs.</td><td>Ruel, Antoine [FRA]</td></tr><tr><td> 49</td><td>Winter, Sascha [DEU]</td><td>Lost 1-2</td><td>vs.</td><td>Görtzen, Simon M [DEU]</td></tr><tr><td> 50</td><td>Hofmann, Mike [DEU]</td><td>Lost 0-2</td><td>vs.</td><td>Mauger, Guillaume [FRA]</td></tr><tr><td> 51</td><td>Horváth, Tamás [HUN]</td><td>Lost 0-2</td><td>vs.</td><td>Lippi, Alessandro [ITA]</td></tr><tr><td> 52</td><td>Disconzi, Romolo [BRA]</td><td>Lost 1-2</td><td>vs.</td><td>Kuben, Petr [CZE]</td></tr><tr><td> 53</td><td>Douda, Ondrej [CZE]</td><td>Lost 0-2</td><td>vs.</td><td>Matignon, Guillaume [FRA]</td></tr><tr><td> 54</td><td>Kowalczyk, Romain [FRA]</td><td>Won 2-0</td><td>vs.</td><td>Baglin, Arnaud [FRA]</td></tr><tr><td> 55</td><td>Fanghaenel, Alex [DEU]</td><td>Drew 0-0-0</td><td>vs.</td><td>Van Leeuwen, Arjan [NLD]</td></tr><tr><td> 56</td><td>Estratti, Samuele [ITA]</td><td>Lost 0-2</td><td>vs.</td><td>Juza, Martin [CZE]</td></tr><tr><td> 57</td><td>Thaler, Sebastian [DEU]</td><td>Lost 0-2</td><td>vs.</td><td>Pascoli, Mario [ITA]</td></tr><tr><td>&#10;					</td><td>Rosenberger, Alexander [DEU]</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr><tr><td>&#10;					</td><td>De Marelle, Anthony [BEL]</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr><tr><td>&#10;					</td><td>Lüthje, Benjamin [DEU]</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr><tr><td>&#10;					</td><td>Helmich, Arnout [NLD]</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr><tr><td>&#10;					</td><td>Van Roy, Thomas [BEL]</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr><tr><td>&#10;					</td><td>Caffier, Aurelien [FRA]</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr><tr><td>&#10;					</td><td>Van De Veen, Steffen [NLD]</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr><tr><td>&#10;					</td><td>De Rooij, Danny [NLD]</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr></tbody></table>

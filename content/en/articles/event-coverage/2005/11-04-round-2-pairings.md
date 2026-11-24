@@ -1,0 +1,47 @@
+---
+id: br2m9g4t
+kind: event
+lang: en
+path: /en/articles/event-coverage/2005/11-04-round-2-pairings
+title: Round 2 Pairings
+published: '2005-11-04'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-2-pairings-2005-11-04-0
+    lang_detected: en
+    capture_id: 519021
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-2-pairings-2005-11-04-0
+    captured_at: '2022-07-02 11:02:59+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-2-pairings-2005-11-04-0
+    lang_detected: en
+    capture_id: 519021
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-2-pairings-2005-11-04-0
+    captured_at: '2022-07-02 11:02:59+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: br2m9g4t
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-2-pairings-2005-11-04-0
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/round-2-pairings-2005-11-04-0
+  lang: en
+  template: drupal
+  captured_at: '2022-07-02 11:02:59+00'
+  capture_id: 519021
+  wayback_url: https://web.archive.org/web/20220702110259id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-2-pairings-2005-11-04-0
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: br2m9g4t
+  capture_id: 519021
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-2-pairings-2005-11-04-0
+  wayback_url: https://web.archive.org/web/20220702110259id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-2-pairings-2005-11-04-0
+  captured_at: '2022-07-02 11:02:59+00'
+  template: drupal
+  sha256: 75a544349238b8d2a7358ac75a51dab065eec4785b73698231451391c193f7e3
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b></b></td><td><b>Opponent</b></td>&#10;				</tr><tr><td>1</td><td>Rolf, Harry</td><td>vs.</td><td>Sim, Alvin</td>&#10;				</tr><tr><td>2</td><td>Baulderstone, Daniel</td><td>vs.</td><td>Wong, Garry</td>&#10;				</tr><tr><td>3</td><td>Hinz, Levi</td><td>vs.</td><td>Seaton, John</td>&#10;				</tr><tr><td>4</td><td>Egan, Owen</td><td>vs.</td><td>Chalder, Paul</td>&#10;				</tr><tr><td>5</td><td>Witton, Adam</td><td>vs.</td><td>Pirie, Andrew</td>&#10;				</tr><tr><td>6</td><td>nicastri, aaron</td><td>vs.</td><td>Kelly, John-Paul</td>&#10;				</tr><tr><td>7</td><td>Ng, Jackie</td><td>vs.</td><td>wilson, shaun</td>&#10;				</tr><tr><td>8</td><td>Veigel, Cam</td><td>vs.</td><td>Bandas, Jim</td>&#10;				</tr><tr><td>9</td><td>Adams-Bedford, Joel</td><td>vs.</td><td>simoni, thomas m</td>&#10;				</tr><tr><td>10</td><td>Nadebaum, Chris</td><td>vs.</td><td>Clancy, David</td>&#10;				</tr><tr><td>11</td><td>Wong, Wai Bien</td><td>vs.</td><td>Canning, Tony</td>&#10;				</tr><tr><td>12</td><td>Canning, Tiffany</td><td>vs.</td><td>Pickett, Adam</td>&#10;				</tr><tr><td>13</td><td>Eyre, Shayne</td><td>vs.</td><td>Lawson, Dimitry</td>&#10;				</tr><tr><td>14</td><td>Kuzmanovski, Joseph</td><td>vs.</td><td>simon, michael</td>&#10;				</tr><tr><td>15</td><td>Pickering, Peter</td><td>vs.</td><td>Puszet, Jarron</td>&#10;				</tr><tr><td>16</td><td>Mladenoski, Bill</td><td>vs.</td><td>Pye, Gareth</td>&#10;				</tr><tr><td>17</td><td>harris, colin</td><td>vs.</td><td>Shanley, Glenn</td>&#10;				</tr><tr><td>18</td><td>Lamb, Matthew</td><td>vs.</td><td>Neeman, Jeremy</td>&#10;				</tr><tr><td>19</td><td>feng, dennis</td><td>vs.</td><td>Pirie, James</td>&#10;				</tr><tr><td>20</td><td>Vance, Andrew</td><td>vs.</td><td>Dowse, Daniel</td>&#10;				</tr><tr><td>21</td><td>Hunn, Philip</td><td>vs.</td><td>Crockart, James</td>&#10;				</tr><tr><td>22</td><td>Pigram, Wayne</td><td>vs.</td><td>Hortle, Linden</td>&#10;				</tr><tr><td>23</td><td>Wilkins, Lee</td><td>vs.</td><td>Stevens, Llewellyn</td>&#10;				</tr><tr><td>24</td><td>Deanovic, Andrew</td><td>vs.</td><td>Parry, Mel</td>&#10;				</tr><tr><td>25</td><td>Sherwood, John</td><td>vs.</td><td>Doyle, Justin</td>&#10;				</tr><tr><td>26</td><td>Goodall, Jen</td><td>vs.</td><td>Davey, Philip</td>&#10;				</tr><tr><td>27</td><td>Varga, Andrew</td><td>vs.</td><td>Nonneman, Jesse</td>&#10;				</tr><tr><td>28</td><td>Light, Jens</td><td>vs.</td><td>Kane, Neil</td>&#10;				</tr><tr><td>29</td><td>Lehmann, Andrew</td><td>vs.</td><td>Webb, Ashley</td>&#10;				</tr><tr><td>30</td><td>Roe, Bridges</td><td>vs.</td><td>Bagnall, Luke</td>&#10;				</tr><tr><td>31</td><td>Winter, Jonathan</td><td>vs.</td><td>Donnelly, Katherine</td>&#10;				</tr><tr><td>32</td><td>Chan, Daryl</td><td>vs.</td><td>Gelfand, Jesse</td>&#10;				</tr><tr><td>33</td><td>Otton, Kieren</td><td>vs.</td><td>Ngan, Ho Kwong</td>&#10;				</tr><tr><td>34</td><td>Koh, Charles</td><td>vs.</td><td>Niedelman, Benjamin</td>&#10;				</tr><tr><td>35</td><td>Clancy, Aaron</td><td>vs.</td><td>Seet, Ian</td>&#10;				</tr><tr><td>36</td><td>Selvendran, Mitheran</td><td>vs.</td><td>Reunis, Ace</td>&#10;				</tr><tr><td>37</td><td>Penney, Benjamin</td><td>vs.</td><td>Maud, Glenn</td>&#10;				</tr><tr><td>38</td><td>Kluger-wynne, Danil</td><td>vs.</td><td>Proctor, Kristel L</td>&#10;				</tr><tr><td>39</td><td>Moyer, Alexander</td><td>vs.</td><td>Hansford, Brad</td>&#10;				</tr><tr><td>40</td><td>Ryan, Shaun</td><td>vs.</td><td>Villanueva, Dean</td>&#10;				</tr><tr><td>41</td><td>Crawley, Robert</td><td>vs.</td><td>Dunne, Matthew</td>&#10;				</tr><tr><td>42</td><td>Tso, Ken</td><td>vs.</td><td>Graham, Henry</td>&#10;				</tr><tr><td>43</td><td>Iswara, Gerald</td><td>vs.</td><td>Pollock, Gary</td>&#10;				</tr><tr><td>44</td><td>Gurney, Traci</td><td>vs.</td><td>Mulcahy, Luke</td>&#10;				</tr><tr><td>45</td><td>Lam, Chi Han</td><td>vs.</td><td>Huberman, Dave</td>&#10;				</tr><tr><td>46</td><td>Hindsley, Sean</td><td>vs.</td><td>Ye, James</td>&#10;				</tr><tr><td>47</td><td>Benson, Max</td><td>vs.</td><td>Lewis, Tristan</td>&#10;				</tr><tr><td>48</td><td>Thyssen, Jan</td><td>vs.</td><td>Haddy, Tom</td>&#10;				</tr><tr><td>49</td><td>Webb, Cameron</td><td>vs.</td><td>Foggin, Chris</td>&#10;				</tr><tr><td>50</td><td>Patterson, Stephen</td><td>vs.</td><td>Cottrell, Jamie</td>&#10;				</tr><tr><td>51</td><td>Peeler, Bruce</td><td>vs.</td><td>Hughes, Brett</td>&#10;				</tr><tr><td>52</td><td>Chong, Ted</td><td>vs.</td><td>Kitingan, Nathanael</td>&#10;				</tr><tr><td></td><td>Aitchison, Christopher</td><td></td><td>* Awarded Bye *</td>&#10;				</tr><tr><td></td><td>Allen, Chris</td><td></td><td>* Awarded Bye *</td>&#10;				</tr><tr><td></td><td>Atkinson, Sam</td><td></td><td>* Awarded Bye *</td>&#10;				</tr><tr><td></td><td>Cheung, Justin</td><td></td><td>* Awarded Bye *</td>&#10;				</tr><tr><td></td><td>Connolly, Joe</td><td></td><td>* Awarded Bye *</td>&#10;				</tr><tr><td></td><td>Copus, Lee</td><td></td><td>* Awarded Bye *</td>&#10;				</tr><tr><td></td><td>Crewe, David</td><td></td><td>* Awarded Bye *</td>&#10;				</tr><tr><td></td><td>Fleming, Ben</td><td></td><td>* Awarded Bye *</td>&#10;				</tr><tr><td></td><td>Glanville, Hugh</td><td></td><td>* Awarded Bye *</td>&#10;				</tr><tr><td></td><td>Graham, (j) Eliot</td><td></td><td>* Awarded Bye *</td>&#10;				</tr><tr><td></td><td>Hay, Tom</td><td></td><td>* Awarded Bye *</td>&#10;				</tr><tr><td></td><td>He, Tim</td><td></td><td>* Awarded Bye *</td>&#10;				</tr><tr><td></td><td>Janik, Fabian</td><td></td><td>* Awarded Bye *</td>&#10;				</tr><tr><td></td><td>Jedlicka, Stefan</td><td></td><td>* Awarded Bye *</td>&#10;				</tr><tr><td></td><td>Lightfoot, Anatoli</td><td></td><td>* Awarded Bye *</td>&#10;				</tr><tr><td></td><td>Lo, Dominic</td><td></td><td>* Awarded Bye *</td>&#10;				</tr><tr><td></td><td>Loft, Alexander</td><td></td><td>* Awarded Bye *</td>&#10;				</tr><tr><td></td><td>Mariner, David</td><td></td><td>* Awarded Bye *</td>&#10;				</tr><tr><td></td><td>moloney, christopher</td><td></td><td>* Awarded Bye *</td>&#10;				</tr><tr><td></td><td>Nadebaum, Rob</td><td></td><td>* Awarded Bye *</td>&#10;				</tr><tr><td></td><td>Pepper, Patrick</td><td></td><td>* Awarded Bye *</td>&#10;				</tr><tr><td></td><td>Richards, Scott</td><td></td><td>* Awarded Bye *</td>&#10;				</tr><tr><td></td><td>Richey, Charles</td><td></td><td>* Awarded Bye *</td>&#10;				</tr><tr><td></td><td>Rolf, Nicolas</td><td></td><td>* Awarded Bye *</td>&#10;				</tr><tr><td></td><td>Saitou, Tomoharu</td><td></td><td>* Awarded Bye *</td>&#10;				</tr><tr><td></td><td>Simmons, Benjamin</td><td></td><td>* Awarded Bye *</td>&#10;				</tr><tr><td></td><td>Smith, Hayden</td><td></td><td>* Awarded Bye *</td>&#10;				</tr><tr><td></td><td>Soh, Terry Han Chuen</td><td></td><td>* Awarded Bye *</td>&#10;				</tr><tr><td></td><td>Steele, Wayne</td><td></td><td>* Awarded Bye *</td>&#10;				</tr><tr><td></td><td>Tung, Nick</td><td></td><td>* Awarded Bye *</td>&#10;				</tr><tr><td></td><td>Veigel, Andrew</td><td></td><td>* Awarded Bye *</td>&#10;				</tr><tr><td></td><td>Zhang, James</td><td></td><td>* Awarded Bye *</td>&#10;				</tr><tr><td></td><td>Zhao, David</td><td></td><td>* Awarded Bye *</td>&#10;				</tr><tr><td></td><td>han, liwei</td><td></td><td>* Awarded Bye *</td>&#10;				</tr><tr><td></td><td>Powell, Adam</td><td></td><td>* BYE *</td>&#10;				</tr></tbody></table>

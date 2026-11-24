@@ -1,0 +1,56 @@
+---
+id: y6rhnfxm
+kind: event
+lang: nl
+path: /nl/events/2003/dutchnat03/round-12-pairings
+title: Round 12 Pairings
+published: null
+column_slug: null
+column: null
+authors: []
+event_code: dutchnat03
+detected_lang: nl
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/article.aspx?x=sideboard/dutchnat03/pair12
+    lang_detected: nl
+    capture_id: 830627
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/dutchnat03/pair12
+    captured_at: '2013-07-07 03:04:20+00'
+    rule: aspx.article_heading
+  event_code:
+    page_key: wizards.com/magic/magazine/article.aspx?x=sideboard/dutchnat03/pair12
+    lang_detected: nl
+    capture_id: 830627
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/dutchnat03/pair12
+    captured_at: '2013-07-07 03:04:20+00'
+    rule: url.event_code
+sources:
+- document_id: y6rhnfxm
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/dutchnat03/pair12
+  page_key: wizards.com/magic/magazine/article.aspx?x=sideboard/dutchnat03/pair12
+  lang: nl
+  template: aspx
+  captured_at: '2013-07-07 03:04:20+00'
+  capture_id: 830627
+  wayback_url: https://web.archive.org/web/20130707030420id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/dutchnat03/pair12
+- document_id: y6rhnfxm
+  url: http://www.wizards.com/default.asp?x=sideboard/dutchnat03/pair12,,ja&amp
+  page_key: wizards.com/default.asp?x=sideboard/dutchnat03/pair12
+  lang: nl
+  template: classic_asp
+  captured_at: '2005-03-18 22:53:29+00'
+  capture_id: 1291481
+  wayback_url: https://web.archive.org/web/20050318225329id_/http://www.wizards.com/default.asp?x=sideboard/dutchnat03/pair12,,ja&amp
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: y6rhnfxm
+  capture_id: 830627
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/dutchnat03/pair12
+  wayback_url: https://web.archive.org/web/20130707030420id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/dutchnat03/pair12
+  captured_at: '2013-07-07 03:04:20+00'
+  template: aspx
+  sha256: c1a1afe0c9b95b73c22b803b1142c34c6c323921db25062d8b334c06f77843cf
+render_recovery: []
+---
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130707030420/https://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/dutchnat03/pair12">&#10;        <b>Table</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130707030420/https://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/dutchnat03/pair12">&#10;        <b>Player</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130707030420/https://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/dutchnat03/pair12">&#10;        <b>&#10;      </b></a><b>&#10;    </b></td>&#10;    <td>&#10;      <a href="https://web.archive.org/web/20130707030420/https://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/dutchnat03/pair12">&#10;        <b>Opponent</b>&#10;      </a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td> 6</td>&#10;    <td>Van Wageningen, Matthijs</td>&#10;    <td>vs.</td>&#10;    <td>Boeken, Noah</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 11</td>&#10;    <td>van Ravesteijn, Tom</td>&#10;    <td>vs.</td>&#10;    <td>Wiegersma, Jelger</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 16</td>&#10;    <td>Karsten, Frank</td>&#10;    <td>vs.</td>&#10;    <td>Maaten, Rogier</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 17</td>&#10;    <td>Ferguson, Maarten</td>&#10;    <td>vs.</td>&#10;    <td>Van de Hanenberg, Frank</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 2</td>&#10;    <td>van den Broek, Victor</td>&#10;    <td>vs.</td>&#10;    <td>Assen, Jonne</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 4</td>&#10;    <td>Dijt, Sven</td>&#10;    <td>vs.</td>&#10;    <td>Witt, Alexander</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 18</td>&#10;    <td>Lindeman, Lennart</td>&#10;    <td>vs.</td>&#10;    <td>Smulders, Nick</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 24</td>&#10;    <td>Schreurs, Jos</td>&#10;    <td>vs.</td>&#10;    <td>van de Logt, Tom</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 13</td>&#10;    <td>van Heeswijk, Roel</td>&#10;    <td>vs.</td>&#10;    <td>Kleinveld, Leendert Willem</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 3</td>&#10;    <td>Cornelissen, Kamiel</td>&#10;    <td>vs.</td>&#10;    <td>Knapen, Bas</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 7</td>&#10;    <td>Sasburg, Roelof</td>&#10;    <td>vs.</td>&#10;    <td>Genders, Bart</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 8</td>&#10;    <td>Claessen, Tim</td>&#10;    <td>vs.</td>&#10;    <td>van Leeuwen, Arjan</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 9</td>&#10;    <td>Remie, Jeroen</td>&#10;    <td>vs.</td>&#10;    <td>Vliegenthart, Benjamin</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 10</td>&#10;    <td>Blaas, Jasper</td>&#10;    <td>vs.</td>&#10;    <td>Lautan, Matourbah</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 12</td>&#10;    <td>Postema, Bas</td>&#10;    <td>vs.</td>&#10;    <td>Vruggink, Joop</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 14</td>&#10;    <td>Cheung, Ka-Way</td>&#10;    <td>vs.</td>&#10;    <td>Alink, Daniel</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 25</td>&#10;    <td>Rieff, Menno</td>&#10;    <td>vs.</td>&#10;    <td>ter Wal, Gerjan</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 26</td>&#10;    <td>Snepvangers, Bram</td>&#10;    <td>vs.</td>&#10;    <td>Kesteloo, Peter</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 15</td>&#10;    <td>Heijmans, Remke</td>&#10;    <td>vs.</td>&#10;    <td>Geuze, Henk-Jan</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 27</td>&#10;    <td>van Binsbergen, Adri</td>&#10;    <td>vs.</td>&#10;    <td>Miltenburg, Alexander</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 22</td>&#10;    <td>Gijsbers, Harrie</td>&#10;    <td>vs.</td>&#10;    <td>Dragstra, Mark</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 23</td>&#10;    <td>Schepel, Wim</td>&#10;    <td>vs.</td>&#10;    <td>Van Den Brink, Peter</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 28</td>&#10;    <td>Lagas, Joost</td>&#10;    <td>vs.</td>&#10;    <td>Wessels, Frank</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 21</td>&#10;    <td>Surisay, Mickey</td>&#10;    <td>vs.</td>&#10;    <td>Dini, Charles</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 29</td>&#10;    <td>ter Horst, Rick</td>&#10;    <td>vs.</td>&#10;    <td>Helmich, Paul</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 1</td>&#10;    <td>Elfrink, Peter</td>&#10;    <td>vs.</td>&#10;    <td>Spijker, Jarno</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 5</td>&#10;    <td>Pan, Jimmy</td>&#10;    <td>vs.</td>&#10;    <td>Coenen, Rob</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 20</td>&#10;    <td>Tabak, Jack</td>&#10;    <td>vs.</td>&#10;    <td>van Noordenburg, Douwe</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 19</td>&#10;    <td>Ernste, Gerard</td>&#10;    <td>vs.</td>&#10;    <td>Hoogendijk, Gijsbert</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>Deurloo, Didier</td>&#10;    <td>&#10;    </td><td>* BYE * Pod 5</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>van Beek, Hugo</td>&#10;    <td>&#10;    </td><td>* BYE * Pod 11</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>Hagen, Michiel</td>&#10;    <td>&#10;    </td><td>* BYE * Pod 10</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>Detmers, Rob</td>&#10;    <td>&#10;    </td><td>* BYE * Pod 9</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>Sikkema, Klaas Jan</td>&#10;    <td>&#10;    </td><td>* BYE * Pod 2</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>Poell, Johan</td>&#10;    <td>&#10;    </td><td>* BYE * Pod 8</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>de Jong, Jasper</td>&#10;    <td>&#10;    </td><td>* BYE * Pod 7</td>&#10;  </tr>&#10;</tbody></table>

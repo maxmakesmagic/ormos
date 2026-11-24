@@ -1,0 +1,47 @@
+---
+id: 1k6a7stp
+kind: event
+lang: en
+path: /en/articles/event-coverage/2004/06-26-live-coverage-of-2004-english-national-championship-3
+title: Live Coverage of 2004 English National Championship
+published: '2004-06-26'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/live-coverage-2004-english-national-championship-2004-06-26-22
+    lang_detected: en
+    capture_id: 441543
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/live-coverage-2004-english-national-championship-2004-06-26-22
+    captured_at: '2022-06-26 16:59:57+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/live-coverage-2004-english-national-championship-2004-06-26-22
+    lang_detected: en
+    capture_id: 441543
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/live-coverage-2004-english-national-championship-2004-06-26-22
+    captured_at: '2022-06-26 16:59:57+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: 1k6a7stp
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/live-coverage-2004-english-national-championship-2004-06-26-22
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/live-coverage-2004-english-national-championship-2004-06-26-22
+  lang: en
+  template: drupal
+  captured_at: '2022-06-26 16:59:57+00'
+  capture_id: 441543
+  wayback_url: https://web.archive.org/web/20220626165957id_/https://magic.wizards.com/en/articles/archive/event-coverage/live-coverage-2004-english-national-championship-2004-06-26-22
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 1k6a7stp
+  capture_id: 441543
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/live-coverage-2004-english-national-championship-2004-06-26-22
+  wayback_url: https://web.archive.org/web/20220626165957id_/https://magic.wizards.com/en/articles/archive/event-coverage/live-coverage-2004-english-national-championship-2004-06-26-22
+  captured_at: '2022-06-26 16:59:57+00'
+  template: drupal
+  sha256: 2e1a198fd39951f1f9c3601cf391611e355026c7335e05ccf03eca5fd214782f
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Result</b></td><td><b>&#10;						</b></td><td><b>Opponent</b></td></tr><tr><td> 1</td><td>Williams, Stephen</td><td>Won 2-1</td><td>vs.</td><td>Hodges, Simon G</td></tr><tr><td> 2</td><td>Groves, Michael</td><td>Lost 0-2</td><td>vs.</td><td>Willis, Paul</td></tr><tr><td> 3</td><td>Duck, Jeremy</td><td>Won 2-1</td><td>vs.</td><td>Hough, Ryan</td></tr><tr><td> 4</td><td>Leonard, Micheal</td><td>Lost 1-2</td><td>vs.</td><td>Waterhouse, Mark</td></tr><tr><td> 5</td><td>Pashley, Stephen</td><td>Lost 1-2</td><td>vs.</td><td>Harle, Tom</td></tr><tr><td> 6</td><td>Wright, Paul</td><td>Lost 0-2</td><td>vs.</td><td>Morris, Matt J</td></tr><tr><td> 7</td><td>Richards, Robert</td><td>Lost 0-2</td><td>vs.</td><td>Hopkins, Jon</td></tr><tr><td> 8</td><td>Ward, Colin D</td><td>Lost 0-2</td><td>vs.</td><td>Stowers, Chris</td></tr><tr><td> 9</td><td>Cadwallader, Aaron</td><td>Won 2-1</td><td>vs.</td><td>Easton, Steve</td></tr><tr><td> 10</td><td>Skinner, Anthony</td><td>Drew 1-1-1</td><td>vs.</td><td>Chard, Alex</td></tr><tr><td> 11</td><td>Boulton, Chris</td><td>Drew 0-0-1</td><td>vs.</td><td>Clarke, Jerry</td></tr><tr><td> 12</td><td>Martin, Benedict</td><td>Drew 0-0-0</td><td>vs.</td><td>Lowe, Mark</td></tr><tr><td> 13</td><td>Dunn, William</td><td>Lost 1-2</td><td>vs.</td><td>Hillary, Paul</td></tr><tr><td> 14</td><td>Stocking, Chris</td><td>Won 2-1</td><td>vs.</td><td>Clark, Nicholas</td></tr><tr><td> 15</td><td>Theobalds, Graham</td><td>Lost 0-2</td><td>vs.</td><td>Aubrey, Nick</td></tr><tr><td> 16</td><td>Cooper, Martyn</td><td>Won 1-0</td><td>vs.</td><td>Gattolin, Stefano</td></tr><tr><td> 17</td><td>Reid, Gavin</td><td>Won 2-0</td><td>vs.</td><td>Hampson, Martyn</td></tr><tr><td> 18</td><td>Jenkins, Dan</td><td>Lost 1-2</td><td>vs.</td><td>Rigby, Neil</td></tr><tr><td> 19</td><td>Harrold, Christopher P</td><td>Lost 1-2</td><td>vs.</td><td>Nguyen, Dinh</td></tr><tr><td> 20</td><td>McCafferty, James</td><td>Won 2-0</td><td>vs.</td><td>Oliver, James M</td></tr><tr><td> 21</td><td>Hopewell, Carl</td><td>Won 2-0</td><td>vs.</td><td>Salmon, Robert</td></tr><tr><td> 22</td><td>Voisey, Mark</td><td>Lost 1-2</td><td>vs.</td><td>Bouton, Simon</td></tr><tr><td> 23</td><td>Moore, Richard</td><td>Won 2-1</td><td>vs.</td><td>Janpiam, Kamman</td></tr><tr><td> 24</td><td>Bateman, Crispin F</td><td>Lost 1-2</td><td>vs.</td><td>Pauling, Owen</td></tr><tr><td> 25</td><td>Scott, Kelly</td><td>Lost 0-2</td><td>vs.</td><td>Romero, Ellis</td></tr><tr><td> 26</td><td>Gomersall, Sam</td><td>Lost 1-2</td><td>vs.</td><td>Ormerod, John</td></tr><tr><td> 27</td><td>Smith, Craig</td><td>Lost 1-2</td><td>vs.</td><td>Nunn, Richard</td></tr><tr><td> 28</td><td>Swan, Martin</td><td>Lost 1-2</td><td>vs.</td><td>Clapton, Chris</td></tr><tr><td> 29</td><td>Evans, Paul</td><td>Won 2-1</td><td>vs.</td><td>Glenister, Mark</td></tr><tr><td> 30</td><td>Bain, Iain</td><td>Lost 1-2</td><td>vs.</td><td>West, Nicholas</td></tr><tr><td> 31</td><td>Turner, William</td><td>Lost 1-2</td><td>vs.</td><td>Whiting, Tom</td></tr><tr><td> 32</td><td>Knowles, Chris</td><td>Lost 0-2</td><td>vs.</td><td>Connolly, Bryan</td></tr><tr><td> 33</td><td>Glover, Tim</td><td>Lost 0-2</td><td>vs.</td><td>Langton, Valerian</td></tr><tr><td> 34</td><td>Lewis, David</td><td>Lost 0-2</td><td>vs.</td><td>Kyriazis, Ioannis</td></tr><tr><td> 35</td><td>Stephenson, Calum</td><td>Lost 0-2</td><td>vs.</td><td>Harper, Matthew</td></tr><tr><td> 36</td><td>Baker, Keef</td><td>Lost 0-2</td><td>vs.</td><td>Dunn, James</td></tr><tr><td> 37</td><td>Fawkes, Anthony D</td><td>Won 2-1</td><td>vs.</td><td>Newberry, Stephen</td></tr><tr><td> 38</td><td>Grant, David</td><td>Lost 1-2</td><td>vs.</td><td>Martin, Quentin</td></tr><tr><td> 39</td><td>Mitchell, Andrew</td><td>Won 2-0</td><td>vs.</td><td>Baird, Stephen</td></tr><tr><td> 40</td><td>Law, Thomas</td><td>Lost 0-2</td><td>vs.</td><td>Moss, Gideon</td></tr><tr><td> 41</td><td>Walshaw, Ian</td><td>Lost 0-2</td><td>vs.</td><td>Fawcett, Raymond</td></tr><tr><td> 42</td><td>Powell, Ben</td><td>Lost 0-2</td><td>vs.</td><td>Wills, Scott</td></tr><tr><td> 43</td><td>Jones, Craig</td><td>Won 2-0</td><td>vs.</td><td>O'Keeffe, Simon</td></tr><tr><td> 44</td><td>Price, Tom</td><td>Won 2-0</td><td>vs.</td><td>Pizzey, Lian</td></tr><tr><td> 45</td><td>Davey, Clinton</td><td>Won 2-0</td><td>vs.</td><td>Edwards, Ian</td></tr><tr><td> 46</td><td>Wraith, Mark</td><td>Won 2-1</td><td>vs.</td><td>Smith, Jake</td></tr><tr><td> 47</td><td>Wright, Mick J</td><td>Won 2-0</td><td>vs.</td><td>Paskins, Daniel</td></tr><tr><td> 48</td><td>Bailie, Matthew</td><td>Lost 0-2</td><td>vs.</td><td>Cheng, Chestor</td></tr><tr><td> 49</td><td>Kiourtsoglou, Dimitris</td><td>Lost 1-2</td><td>vs.</td><td>Lowish, Thomas</td></tr><tr><td> 50</td><td>Chapman, Jonny</td><td>Lost 0-2</td><td>vs.</td><td>Barltrop, Steve J</td></tr><tr><td> 51</td><td>Ashby, Claire</td><td>Lost 0-2</td><td>vs.</td><td>mcclare, alastair</td></tr><tr><td> 52</td><td>White, Scott</td><td>Lost 0-2</td><td>vs.</td><td>O'Connor, Kevin</td></tr><tr><td> 53</td><td>Shilling, Damian</td><td>Won 2-0</td><td>vs.</td><td>Doxey, James</td></tr><tr><td> 54</td><td>Madsen, Richard</td><td>Won 2-0</td><td>vs.</td><td>Kakoschke, Nicholas W</td></tr><tr><td> 55</td><td>Skauge, Frederick</td><td>Lost 0-2</td><td>vs.</td><td>Hewett, Mike</td></tr><tr><td> 56</td><td>Saito, Yang</td><td>Drew 0-0-1</td><td>vs.</td><td>Stiles, David</td></tr><tr><td> 57</td><td>Norris, Pete</td><td>Won 2-1</td><td>vs.</td><td>Rithipuntharux, Art</td></tr><tr><td> 58</td><td>Samra, Manveer</td><td>Won 2-0</td><td>vs.</td><td>Clyne, Richard</td></tr><tr><td> 59</td><td>Cordell, Mathew</td><td>Won 2-0</td><td>vs.</td><td>Wray, Mark</td></tr><tr><td> 60</td><td>Victor, Daniel</td><td>Lost 1-2</td><td>vs.</td><td>Humphreys, Mark Brian</td></tr><tr><td> 61</td><td>Wilson, Kieran</td><td>Drew 1-1-1</td><td>vs.</td><td>Gatheral, David</td></tr><tr><td> 62</td><td>Colapinto, Daniel</td><td>Won 2-0</td><td>vs.</td><td>Tsarkov, Dmitry</td></tr><tr><td> 63</td><td>Papatsarouchas, Evangelos</td><td>Lost 0-2</td><td>vs.</td><td>Fryer-Kelsey, James</td></tr><tr><td> 64</td><td>Cresswell, Stu</td><td>Won 2-1</td><td>vs.</td><td>Samra, Baljett</td></tr><tr><td> 65</td><td>Cleary, Jamie</td><td>Won 2-0</td><td>vs.</td><td>Gardner, Vini</td></tr><tr><td> 66</td><td>Manuel, Gary</td><td>Won 2-1</td><td>vs.</td><td>Caunce, Graham</td></tr><tr><td> 67</td><td>Major, Mike</td><td>Won 2-0</td><td>vs.</td><td>Jackson, Greg</td></tr><tr><td> 68</td><td>Baker, Graham</td><td>Lost 1-2</td><td>vs.</td><td>Stevenson, Craig</td></tr><tr><td> 69</td><td>Pickering, Andy</td><td>Won 2-1</td><td>vs.</td><td>Williams, Grant L</td></tr><tr><td> 70</td><td>Waterfield, Martin</td><td>Won 2-0</td><td>vs.</td><td>Mencarini, Alessandro</td></tr><tr><td> 71</td><td>Graham, Paul</td><td>Won 2-0</td><td>vs.</td><td>Smith, Andrew</td></tr><tr><td> 72</td><td>Schneider, Oliver</td><td>Won 2-0</td><td>vs.</td><td>O'donnell, Tim</td></tr><tr><td> 73</td><td>Swiers, John</td><td>Lost 1-2</td><td>vs.</td><td>Turner, Peter</td></tr></tbody></table>

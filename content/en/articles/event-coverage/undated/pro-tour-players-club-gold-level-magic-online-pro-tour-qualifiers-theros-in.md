@@ -1,0 +1,125 @@
+---
+id: pw0sks4v
+kind: event
+lang: en
+path: /en/articles/event-coverage/undated/pro-tour-players-club-gold-level-magic-online-pro-tour-qualifiers-theros-in
+title: 'Pro Tour Players Club – Gold Level Magic Online Pro Tour Qualifiers: Theros
+  in Dublin'
+published: null
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/tcg/events.aspx?x=mtg/protour/qualifiers/dublin13-mtgogold
+    lang_detected: en
+    capture_id: 4004734
+    url: http://www.wizards.com/magic/tcg/events.aspx?x=mtg/protour/qualifiers/dublin13-mtgogold
+    captured_at: '2013-07-30 16:21:42+00'
+    rule: aspx.article_heading
+sources:
+- document_id: pw0sks4v
+  url: http://www.wizards.com/magic/tcg/events.aspx?x=mtg/protour/qualifiers/dublin13-mtgogold
+  page_key: wizards.com/magic/tcg/events.aspx?x=mtg/protour/qualifiers/dublin13-mtgogold
+  lang: en
+  template: aspx
+  captured_at: '2013-07-30 16:21:42+00'
+  capture_id: 4004734
+  wayback_url: https://web.archive.org/web/20130730162142id_/http://www.wizards.com/magic/tcg/events.aspx?x=mtg/protour/qualifiers/dublin13-mtgogold
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: pw0sks4v
+  capture_id: 4004734
+  url: http://www.wizards.com/magic/tcg/events.aspx?x=mtg/protour/qualifiers/dublin13-mtgogold
+  wayback_url: https://web.archive.org/web/20130730162142id_/http://www.wizards.com/magic/tcg/events.aspx?x=mtg/protour/qualifiers/dublin13-mtgogold
+  captured_at: '2013-07-30 16:21:42+00'
+  template: aspx
+  sha256: 3fe95a3e85c7527d3aad4522c029675b424f81eca18ae5d72187fdf5f0a84dc1
+render_recovery: []
+---
+Open **only** to [Gold-level Pro Tour Players Club](/en/articles/event-coverage/undated/pro-players-club) members. Eligible players can earn an invitation to [Pro Tour *Theros* in Dublin](/en/articles/event-coverage/undated/qualifiers-for-pro-tour-theros-in-dublin) and an invitation to compete in the Pro Tour *Theros* in Dublin Challenge. Pro Tour *Theros* takes place October 11-13, 2013. 
+
+**Magic Online** will host one (1) Gold-level Pro Tour Qualifier event on **Saturday July 20, 2013 at 9:00 AM PDT (16:00 UTC)**. This tournament format will be *Return to Ravnica* Sealed Deck with a Top 8 *Return to Ravnica* Booster Draft single-elimination playoff. 
+
+ **Magic Online Pro Tour Qualifier – Pro Tour Players Club**  
+ **(Gold Level ONLY)** 
+
+*START TIME:* Saturday, July 20 at 9:00 AM PDT (16:00 UTC)  
+*LOCATION:* Scheduled Events room.  
+*ENTRY RESTRICTIONS:* This event is **only** open to [Pro Tour Players Club Gold-level](/en/articles/event-coverage/undated/pro-players-club) members  
+*ENTRY OPTION(S):* None (Complementary Entry)  
+*PRODUCT:* None (boosters will be provided)  
+*SIZE:* 8 players minimum  
+*DURATION:* A number of 50-minute [Swiss Pairing rounds determined by attendance](http://wizards.custhelp.com/cgi-bin/wizards.cfg/php/enduser/std_adp.php?p_faqid=465). The "Top 8" playoff will be 3 rounds, single elimination.  
+*PRIZES:* Prizes are based on final standings at the end of the tournament. The booster pack prizes for each Pro Tour Qualifier will be selected by Wizards of the Coast from a current **Magic: The Gathering** set or expansion available in **Magic Online** at the time of the event. 
+
+<table>&#10;  <tbody><tr>&#10;    <td>Place </td>&#10;    <td>Prize </td>&#10;    <td>QPs </td>&#10;  </tr>&#10;  <tr>&#10;    <td>1st</td>&#10;    <td> Pro Tour <i>Theros</i> Invitation, Pro Tour <i>Theros</i> Challenge Invitation, 1 complete premium foil set, and 54 Booster Packs </td>&#10;    <td>6</td>&#10;  </tr>&#10;  <tr>&#10;    <td>2nd</td>&#10;    <td>1 complete standard non-foil set and 54 Booster Packs</td>&#10;    <td>5</td>&#10;  </tr>&#10;  <tr>&#10;    <td>3rd-4th</td>&#10;    <td>54 Booster Packs</td>&#10;    <td>4</td>&#10;  </tr>&#10;  <tr>&#10;    <td>5th-8th</td>&#10;    <td>36 Booster Packs</td>&#10;    <td>3</td>&#10;  </tr>&#10;  <tr>&#10;    <td>9th-16th</td>&#10;    <td>24 Booster Packs</td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>17th-32nd</td>&#10;    <td>12 Booster Packs</td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>33rd-64th</td>&#10;    <td>6 Booster Packs</td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>65th-128th</td>&#10;    <td>3 Booster Packs</td>&#10;    <td>0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>129th-256th</td>&#10;    <td>1 Booster Pack</td>&#10;    <td>0</td>&#10;  </tr>&#10;</tbody></table>
+
+  
+
+**Pro Tour Qualifier Eligibility**   
+ Invitations to the Pro Tour (including those awarded by participation in tournaments) are governed by the **Magic: The Gathering** Premier Event Invitation Policy. The latest version can be viewed [here](https://web.archive.org/web/20130730162142/http://www.wizards.com/wpn/document.aspx?x=magic_the_gathering_premier_event_invitation_policy). 
+
+Players who already hold invitations awarded at a Pro Tour Qualifier (including **Magic Online** Qualifiers) to the Pro Tour *Theros* in Dublin tournament may not compete in Pro Tour Qualifier tournaments (including **Magic Online** Qualifiers for Pro Tour *Theros* in Dublin ) that award invitations to Pro Tour *Theros* in Dublin. 
+
+Players who compete in Qualifier tournaments (including **Magic Online** Qualifier tournaments) for which they already hold an invitation will be subject to appropriate penalties, up to and including suspension. 
+
+Note: Players with Pro Tour Players Club level of “Gold” do not receive their invitations until the Thursday before the Pro Tour.
+
+**Important information regarding event crashes for the Pro Tour Qualifiers:** If, in the sole judgment of **Wizards of the Coast** and its representatives, a system error, tournament or rules bug, or other issue has significantly compromised the integrity of the event, **Wizards of the Coast** retains the right to modify the tournament structure as needed to maintain as fair and *competitive an experience as possible for all players.*
+
+ **Pro Tour *Theros* Challenge** 
+
+*START TIME:\** To be determined. Pro Tour *Theros* Challenges will be scheduled around the other events at Pro Tour *Theros* so that registered players will be able to participate in both events.  
+*LOCATION:* Live event at Pro Tour *Theros*  
+*ENTRY FEE:* Free – Invitation only  
+*FORMAT:* Standard Constructed  
+*STRUCTURE:* Each qualified Pro Tour *Theros* Challenge player will be randomly paired against one other qualified Pro Tour *Theros* Challenge player.  
+*SIZE:* Multiple tournaments, 2 players per tournament  
+*DURATION:* 1 match, single-elimination  
+*PRIZES:\** Prizes are based on final standings at the end of each challenge. 
+
+<table>&#10;  <tbody><tr>&#10;    <td>Place</td>&#10;    <td>Prize</td>&#10;  </tr>&#10;  <tr>&#10;    <td>1 </td>&#10;    <td>$1,000 &amp; 36 digital boosters</td>&#10;  </tr>&#10;  <tr>&#10;    <td>2</td>&#10;    <td>$1,000 &amp; 27 digital boosters</td>&#10;  </tr>&#10;</tbody></table>
+
+  
+
+ **IMPORTANT NOTE: *Pro Tour Theros Challenge qualification does not guarantee prizes. Players must participate in a Challenge event at Pro Tour Theros in order to be eligible for the Challenge prizes.*** 
+
+Players must have a signed waiver and consent form to compete in the Pro Tour *Theros* in Dublin Challenge. Forms can be downloaded [here](https://web.archive.org/web/20130730162142/http://www.wizards.com/protour) and will be available onsite. **Minors must have a parent or guardian's signature on these forms. Minors will not be able to register or play unless we receive a waiver signed by a parent or guardian. No exceptions!**
+
+Bring these forms with you to registration. We will make forms available for competitors at registration, if necessary. 
+
+To register, all participants must present one of the following forms of identification:  
+
+*   a driver's license, or
+*   a passport, or
+*   a copy of a birth certificate and photo IDs (school IDs are acceptable).
+
+**OTHER RULES, TERMS, AND CONDITIONS** 
+
+\*Wizards of the Coast may modify, suspend, and/or cancel an event, substitute prizes, or change the costs and/or schedule for an event without notice, at its sole discretion. 
+
+Occasionally while playing **Magic Online**, Wizards of the Coast staff (marked by a Wizards of the Coast logo beside their online name) may ask players for their name and/or contact information. Failure to provide accurate information may result in significant penalties, up to and including disqualification with no refund of product and/or event tickets, suspension of the offending account(s), and/or termination of the offending account(s). 
+
+Do not give out your information to anyone who is not Wizards of the Coast Staff. Wizards of the Coast staff members will never ask for your password.
+
+Players are not permitted to have more than one of their accounts entered in any single event at one time. Players are not permitted to have any accounts entered in events played by other players for any reason. If a player is discovered to have more than one account playing in any Pro Tour Qualifier event before, during, or after the event, Wizards may take action against that player's account(s), up to and including disqualification with no refund of product and/or event tickets, suspension of the offending account(s), and/or termination of the offending account(s). Using an account other than your own, allowing any other player to use your account, selling your account, and other similar actions are all violations of the [**Magic Online** User Agreement](http://wizards.custhelp.com/app/answers/detail/a_id/1358) . If you play in **Magic Online** events, win, and expect to get your prize, be very, very sure you are playing on your own account. We do not recognize excuses, such as "I and a friend jointly own the account," "It's my brother's account but he gave it to me," or similar. The only exception is an adult may authorize a single dependent child age 13-18 to play on an account that the adult has established. 
+
+If a player wins that is ineligible to play in sanctioned tournaments (such as he or she is suspended and/or a paid contractor), then the Pro Tour invitation will pass down to the player with the next best finish in that event. The final Swiss standings of the Pro Tour Qualifier tournament will determine the difference between third and fourth place and the difference between fifth through eighth place, should that be necessary. 
+
+In either of the above cases, the booster pack prizes will not pass down to the next player.
+
+Determination of the eligibility of a person under age 18 to participate in a **Magic Online** Pro Tour Qualifier is based on the permission granted to said person by his/her parent or legal guardian. All prizes are awarded "AS IS" and WITHOUT WARRANTY OF ANY KIND, express or implied, (including, without limitation, any implied warranty of merchantability or fitness for a particular purpose). This is a contest of skill and, therefore, there are no odds of winning as is the case with a game of chance. All applicable taxes, fees, duties, tariffs, passport or visa costs, and any license, destination, entry, exit and/or delivery charges are the sole responsibility of each player. 
+
+All taxes are the responsibility of the members, and members acknowledge Wizards' recommendation that they consult a tax advisor in their jurisdiction for questions regarding their tax liabilities.
+
+Release: By entering (or consenting to the entry of a person under 18) a **Magic Online** Pro Tour Qualifier , each participant (or the participant's parent or legal guardian, if the participant is under 18) and the winner (or the winner's parent or legal guardian, if winner is under 18) thereby releases **Wizards of the Coast** LLC, Hasbro, and their respective parent companies, subsidiaries, affiliates, directors, officers, employees and agencies from any liability whatsoever, and waive any and all causes of action, related to any claims, costs, injuries, losses, or damages of any kind arising out of or in connection with a **Magic Online** Pro Tour Qualifier or delivery, misdelivery, acceptance, possession, use of or inability to use any prize (including, without limitation, claims, costs, injuries, losses and damages related to personal injuries, death, damage to or destruction of property, rights of publicity or privacy, defamation or portrayal in a false light, whether intentional or unintentional), whether under a theory of contract, tort (including negligence), warranty or other theory. Except where prohibited, you agree that any and all disputes, claims and causes of action arising out of or connected with this contest or any prize awarded shall be resolved under the laws of the State of Washington, without respect to any conflict of law issues, and participants agree that such shall be resolved properly, without resort to any form of class action, and exclusively by the U.S. Federal and State Courts of King County, Washington, U.S.A. All of Sponsor's decisions regarding the application and interpretation of the Rules are final. 
+
+**Disclaimer of Liability; Certain Risks** 
+
+Sponsors, and any of their respective parent companies, subsidiaries, affiliates, directors, officers, professional advisors, employees and agencies will not be responsible for: (a) any late, lost, misrouted, garbled, distorted, or damaged transmissions or entries; (b) telephone, electronic, hardware, software, network, Internet, or other computer- or communications-related malfunctions or failures; (c) any event disruptions, losses or damages caused by events beyond the control of Sponsors; or (d) any printing or typographical errors in any materials associated with **Magic Online** Pro Tour Qualifier. 
+
+Participation in a **Magic Online** Pro Tour Qualifier is void where restricted, taxed or prohibited by law. 
+
+The winners of this Tournament will be posted on [www.wizards.com](https://web.archive.org/web/20130730162142/http://www.wizards.com/).

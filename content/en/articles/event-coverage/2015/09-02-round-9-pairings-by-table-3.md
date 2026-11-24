@@ -1,0 +1,47 @@
+---
+id: z5c983jv
+kind: event
+lang: en
+path: /en/articles/event-coverage/2015/09-02-round-9-pairings-by-table-3
+title: Round 9 Pairings (by Table)
+published: '2015-09-02'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-9-pairings-table-2015-09-02-0
+    lang_detected: en
+    capture_id: 577238
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-9-pairings-table-2015-09-02-0
+    captured_at: '2017-10-30 20:07:44+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-9-pairings-table-2015-09-02-0
+    lang_detected: en
+    capture_id: 577238
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-9-pairings-table-2015-09-02-0
+    captured_at: '2017-10-30 20:07:44+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: z5c983jv
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-9-pairings-table-2015-09-02-0
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/round-9-pairings-table-2015-09-02-0
+  lang: en
+  template: drupal
+  captured_at: '2017-10-30 20:07:44+00'
+  capture_id: 577238
+  wayback_url: https://web.archive.org/web/20171030200744id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-9-pairings-table-2015-09-02-0
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: z5c983jv
+  capture_id: 577238
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-9-pairings-table-2015-09-02-0
+  wayback_url: https://web.archive.org/web/20171030200744id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-9-pairings-table-2015-09-02-0
+  captured_at: '2017-10-30 20:07:44+00'
+  template: drupal
+  sha256: f4e95350cc177f481f3bef41ee3e5c286933ff15aa3592bbc87be9a403a4e310
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Points</b></td><td><b> </b></td><td><b>Opponent</b></td><td><b>Points</b></td></tr><tr><td>  1</td><td>Brinkmann, Jan</td><td> 24</td><td>vs.</td><td>Zemke, Mario</td><td> 21</td></tr><tr><td>  2</td><td>Mello, Patrick</td><td> 21</td><td>vs.</td><td>Budde, Kai</td><td> 19</td></tr><tr><td>  3</td><td>Reinhardt, Fabio</td><td> 19</td><td>vs.</td><td>Neumaier, Michael</td><td> 19</td></tr><tr><td>  4</td><td>Roth, Dirk</td><td> 18</td><td>vs.</td><td>Baberowski, Dirk</td><td> 18</td></tr><tr><td>  5</td><td>Schneiders, Felix</td><td> 18</td><td>vs.</td><td>Yeh, Gottlieb</td><td> 18</td></tr><tr><td>  6</td><td>Ziegner, Mark</td><td> 18</td><td>vs.</td><td>Platt, Karl-Florian</td><td> 18</td></tr><tr><td>  7</td><td>Schulze-Kadelbach, Matthias</td><td> 18</td><td>vs.</td><td>Winkelhaus, Bastian</td><td> 18</td></tr><tr><td>  8</td><td>Herold, Jim</td><td> 18</td><td>vs.</td><td>Meinecke, Holger</td><td> 18</td></tr><tr><td>  9</td><td>Lührs, Christian</td><td> 18</td><td>vs.</td><td>Wendt, Nico</td><td> 16</td></tr><tr><td> 10</td><td>Peters, Martin Alexander</td><td> 16</td><td>vs.</td><td>Kruschel, Andreas</td><td> 16</td></tr><tr><td> 11</td><td>Heim, Andreas</td><td> 15</td><td>vs.</td><td>Sprenger, Marco</td><td> 15</td></tr><tr><td> 12</td><td>Menke, Thomas</td><td> 15</td><td>vs.</td><td>Hitzwebel, Torsten</td><td> 15</td></tr><tr><td> 13</td><td>Brackmann, Aaron</td><td> 15</td><td>vs.</td><td>Weizenbeck, Thomas</td><td> 15</td></tr><tr><td> 14</td><td>Lee, Sok-Yong</td><td> 15</td><td>vs.</td><td>Keler, Matthias</td><td> 15</td></tr><tr><td> 15</td><td>Ottovordemgentschenfelde, Ro</td><td> 15</td><td>vs.</td><td>Brucker, David</td><td> 15</td></tr><tr><td> 16</td><td>Blume, Marco</td><td> 15</td><td>vs.</td><td>Henke, Mark</td><td> 15</td></tr><tr><td> 17</td><td>Petersen, Jens</td><td> 15</td><td>vs.</td><td>Kockott, Kristian</td><td> 15</td></tr><tr><td> 18</td><td>Müller, Andre</td><td> 15</td><td>vs.</td><td>Eder, Wolfgang</td><td> 15</td></tr><tr><td> 19</td><td>Kastner, Stefan</td><td> 15</td><td>vs.</td><td>Valkyser, Stephan J</td><td> 15</td></tr><tr><td> 20</td><td>Lauber, Philip</td><td> 15</td><td>vs.</td><td>Kühn, Janosch</td><td> 15</td></tr><tr><td> 21</td><td>Zink, Daniel</td><td> 15</td><td>vs.</td><td>Bosselmann, Tobias</td><td> 15</td></tr><tr><td> 22</td><td>Schröder, Alexander</td><td> 13</td><td>vs.</td><td>Oruc, Ozgür</td><td> 13</td></tr><tr><td> 23</td><td>Tran, Khanh Quan</td><td> 13</td><td>vs.</td><td>Spode, Matthias</td><td> 13</td></tr><tr><td> 24</td><td>Refsdal, Gunnar</td><td> 13</td><td>vs.</td><td>Pech, René</td><td> 12</td></tr><tr><td> 25</td><td>Kroker, Kolja</td><td> 12</td><td>vs.</td><td>Kraft, René</td><td> 12</td></tr><tr><td> 26</td><td>Keil, Ottmar</td><td> 12</td><td>vs.</td><td>Tietze, Sascha</td><td> 12</td></tr><tr><td> 27</td><td>Schünemann, Marco</td><td> 12</td><td>vs.</td><td>Mack, Alex</td><td> 12</td></tr><tr><td> 28</td><td>Pischner, Andreas A</td><td> 12</td><td>vs.</td><td>Schraut, Andreas</td><td> 12</td></tr><tr><td> 29</td><td>Deinert, Sascha</td><td> 12</td><td>vs.</td><td>Richter, Sebastian R</td><td> 12</td></tr><tr><td> 30</td><td>Schoch, Marc</td><td> 12</td><td>vs.</td><td>Wolff, Janpeter</td><td> 12</td></tr><tr><td> 31</td><td>Männert, Ken</td><td> 12</td><td>vs.</td><td>Lippert, Christoph A</td><td> 12</td></tr><tr><td> 32</td><td>Schmeykal, Moritz</td><td> 12</td><td>vs.</td><td>Ullrich, Frank</td><td> 12</td></tr><tr><td> 33</td><td>Hyb, Tomasz</td><td> 12</td><td>vs.</td><td>Buchmann, Nico</td><td> 10</td></tr><tr><td> 34</td><td>Pagenkemper, Udo</td><td> 10</td><td>vs.</td><td>Diezel, Michael</td><td> 10</td></tr><tr><td> 35</td><td>Goede, Felix</td><td> 10</td><td>vs.</td><td>Wollny, Gregor</td><td>  9</td></tr><tr><td> 36</td><td>Bode, Roland</td><td>  9</td><td>vs.</td><td>Hesse, Rüdiger A.</td><td>  9</td></tr><tr><td> 37</td><td>Pohl, Sven</td><td>  9</td><td>vs.</td><td>Duin, Karl-Heinz</td><td>  9</td></tr><tr><td> 38</td><td>Albrecht, Jens</td><td>  9</td><td>vs.</td><td>Kretzschmar, Henry</td><td>  9</td></tr><tr><td> 39</td><td>Ta, Luc</td><td>  9</td><td>vs.</td><td>Nickel, Robert</td><td>  9</td></tr><tr><td> 40</td><td>Barth, Joachim</td><td>  9</td><td>vs.</td><td>Rall, Oliver</td><td>  9</td></tr><tr><td> 41</td><td>Gehring, Peter</td><td>  9</td><td>vs.</td><td>Müller, Ronald</td><td>  7</td></tr><tr><td> 42</td><td>Brodner, Alexander</td><td>  6</td><td>vs.</td><td>Adams, Patrick</td><td>  6</td></tr><tr><td>   </td><td>Cordes, Menso</td><td>  3</td><td> </td><td>* BYE *</td><td></td></tr></tbody></table>

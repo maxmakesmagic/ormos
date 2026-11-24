@@ -1,0 +1,14654 @@
+---
+id: 5bnansat
+kind: event
+lang: en
+path: /en/articles/event-coverage/undated/dragons-maze-booster-box-promotion-locations
+title: Dragon's Maze Booster Box Promotion Locations
+published: null
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/tcg/events.aspx?x=mtg/daily/events/dgmbuyaboxpromolocations
+    lang_detected: en
+    capture_id: 4001036
+    url: http://www.wizards.com/magic/tcg/events.aspx?x=mtg/daily/events/dgmbuyaboxpromolocations
+    captured_at: '2013-05-21 10:22:56+00'
+    rule: aspx.article_heading
+sources:
+- document_id: 5bnansat
+  url: http://www.wizards.com/magic/tcg/events.aspx?x=mtg/daily/events/dgmbuyaboxpromolocations
+  page_key: wizards.com/magic/tcg/events.aspx?x=mtg/daily/events/dgmbuyaboxpromolocations
+  lang: en
+  template: aspx
+  captured_at: '2013-05-21 10:22:56+00'
+  capture_id: 4001036
+  wayback_url: https://web.archive.org/web/20130521102256id_/http://www.wizards.com/magic/tcg/events.aspx?x=mtg/daily/events/dgmbuyaboxpromolocations
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 5bnansat
+  capture_id: 4001036
+  url: http://www.wizards.com/magic/tcg/events.aspx?x=mtg/daily/events/dgmbuyaboxpromolocations
+  wayback_url: https://web.archive.org/web/20130521102256id_/http://www.wizards.com/magic/tcg/events.aspx?x=mtg/daily/events/dgmbuyaboxpromolocations
+  captured_at: '2013-05-21 10:22:56+00'
+  template: aspx
+  sha256: 32a5ee76be69524e0a6774e7307a8395385bb78e958f8e8ea1f241aa2e42038f
+render_recovery:
+- code: unsupported_link
+  element: a
+  target: mailto:downtownbooksktn@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:games@boscos.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:tier1cardsandgames@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:comicshop@gci.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:nicholas.dinnis@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:topendgaming@ymail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:industrialrevelations@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:QCJasper@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:marvelousmuncy@thecomicshop.biz
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:fanatix.llc@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:crimson@crimsoncastlegames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:haven@knology.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:farfirecomics@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:empirecomics@centurytel.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:munfordcardsandgames@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:cjsportscards@att.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 2
+- code: unsupported_link
+  element: a
+  target: mailto:all-american-1@att.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:wiregrasscards36360@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:visonscards@live.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Ken_Oswald2@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:flutterbye6767@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gamersngeeks@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:store@freedomcardboard.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sales@cardboardcrack.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:thedeepcomics@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Blue_and_lost@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mwghelp@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@maddoctorgameshop.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:staticagegames@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:ncarraway@bighitsportscards.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@ftwgamestore.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:after_dark_Art@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gamingetcetera@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:lenlockhobbies@cableone.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:unknownhybrid@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sales@gamezonealpha.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:cybersharkz@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@gamegoblins.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:the_pumpkin_queen777@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:griffin_games@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:dheader@msn.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:bearscardshop@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:arkansasgaming@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:thegamerutopia@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:support@xplodetechnologies.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:magestavern@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:chris@portalmh.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: 'mailto:brian@gamezonealpha.com '
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mikeboze@hawgheadcomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:thebatcave2009@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:manawerx@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:pyrimid@msn.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:javidsark.comics@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@gamerstradingpost.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@hotacecomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:empiregamesaz@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Geekeryflagstaff@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Evan@howies.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:orbitalgamescafe@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:pp_store@gamedaze.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:ss_store@gamedaze.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:miguel.gccomicsncoffee@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:amazingmtg@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mike@samuraicomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:scooter@gamersinnaz.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:adam@manawerx.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 2
+- code: unsupported_link
+  element: a
+  target: mailto:games@thea2zgames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@gameonarizona.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:desertskygames@me.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:samuraiwest@samuraicomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 2
+- code: unsupported_link
+  element: a
+  target: mailto:Pettitdp@msn.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:cabcomics@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:bad.moons@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:the.arena.games@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:themoosecave@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:crusadersretreat@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:morethancomics@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:hcomics@qwestoffice.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:showtimecards@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:tm_store@gamedaze.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:jjsgamelounge@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@gameqore.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:chibichibiotaku_store@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:rddracewayhobbies@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:hobbytownfolsom@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:cosmicodysseysd@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sales@gamekastle.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 2
+- code: unsupported_link
+  element: a
+  target: mailto:comicbookhideout@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:galaxyofcomics@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:buddhabears@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:books@bbbsellers.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:customerservice@bstgames.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gmigames@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@gomythic.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:cardsandmemorabilia@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:coretcg@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:ahiddenfortress@sbcglobal.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:fun@pairadicegames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:anna@illusivecomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:clockworkkenny@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@brookhursthobbies.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:store@comicsandcards.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:awk1@msn.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:therealmgames@sbcglobal.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:ansportscard@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:battlegroundz1@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mrmike7@comcast.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@4colorfantasies.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:villainouslairgaming@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sales@thegameogre.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:three-j@sbcglobal.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@epicgcc.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:fresnomagic@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gamescapesf@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:legacycomics@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:villainouslaircomics@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:webmaster@knight-ware.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:thecomiccultist@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:cryhavocgaming@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gary@greatescapegames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:wileys@sbcglobal.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:xtreamgamepit@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:twocatcomics@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@epicadventuregames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gatorgames@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Gamingevents@superspacecat.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:jberzon120@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:tier1games@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:contactundercity@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:jvuinc@sbcglobal.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@thecomicbug.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:har_keo@msn.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:freebooterz.net@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:HTUPETALUMACA@COMCAST.NET
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Richard@aaaanime.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gamealotsantacruz@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:events@comiccardsetc.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:portlyn@bravenewworldcomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Gamersrealm@live.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:occardrush@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:hypnocomics@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:triplecrown07@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@thebookjuggler.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:metropoliscomix@comcast.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sales@stone-leaf.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:oss1ncrp@northcoast.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:d1sports@sbcglobal.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:metrocomix@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:jedifreak422@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:russosbooks@bak.rr.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:otto@ottosvideogamesandmore.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:bat@batcomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gene@comicsandcollectible.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:bbc@cornerstorecomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:missionviejo@howies.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:iecomicsandgames@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:krazynicks@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:magicandmonsters@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:jonsaso@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:contact@legendscomicsandgames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sdgamescomics@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: 'mailto:sales@animeimports.net '
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@eudemonia.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:store@ekcomicsandgames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:andrew@outerplanesgames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:toybuffx2@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sales@themonstore.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@hidehocomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:ADVENTURES9860@SBCGLOBAL.NET
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:jeff@cjcollectables.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gameempire@gameempire.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:manager@gamesofberkeley.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gameologystaff@googlegroups.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:ahutchek@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:games@paladingaming.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gamersguild@att.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gray@blackdiamondgames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:bryanjhsieh@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:bobg50@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:kjggames@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:droms@live.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:pauls_socalmagic@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:nugamesonline@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:oldeworldgaming@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sales@plusevgames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 2
+- code: unsupported_link
+  element: a
+  target: mailto:info@nextgenvideogames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:jesse@thoushaltgame.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:melrosemusic@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:galaxygames@verizon.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@d20alameda.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:customerservice@gamecenteronline.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:leeters.gaming@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@abbycatcomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:rivalsccg@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sethbradley@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:comics2@earthlink.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:fangmwrld@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:service@njoy.us
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:teamevo@evogamingstore.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:c_mcnamara@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:alluringtreasures@verizon.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:majestixccg@att.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 2
+- code: unsupported_link
+  element: a
+  target: mailto:endgame@endgameoakland.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:dicehousegames@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:comcult@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:contact@thearcanelab.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:rivercitycomicsandcollectibles@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:a1roseville@a-1comics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:allstarcards@earthlink.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:michael@redskycomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:admin@mtgdeals.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:staff@paperheroscomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:RoninGames@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:ateasegames@att.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:chaz.robbins@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:thegamehub@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:customerservice@desperate4cards.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:aplacetogame@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:magesrealm2920@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:cardaddictions@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:customerservice@JSAnime.biz
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gamerspath@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:bullpensportscards@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:the.game.habitat@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:oldeworldgames@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:comicquestdon@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:crazyfred@crazyfreds.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:a1comics@a-1comics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:metrohero@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:leesports2001@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:battlegroundsm@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:dave@skyhighcomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@gamesandcards.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:calcardco@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:lb.comicsplus@att.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Matt@ShuffleandCut.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:ourplayz@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:typezerocollectibles@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:store@allwaysgaming.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@ashopcalledquest.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:admin@crazysquirrelgamestore.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:wtf@gamescape-north.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:tappedoutgamingscv@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:inklingsbooks@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:trinitycomics@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:bob@leftyssportscards.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:justimagine1940@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:support@mercenary-market.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:www.epicgamesca@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@gryphongamesandcomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:thewizard@wizardschest.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:lindabwillow@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:ghosts@hauntedgamecafe.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:collectormaniaparker@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:aosquirrels@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:john@chaosgamesandmore.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:PetriesFG@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@durangogamespace.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:jamie@atomicgoblingames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:ddgreeley@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:dungeonmasterslair@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:crit.castle@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:dragonsanddragoons@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:thyellowking@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:timewarp1@time-warp.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:shawno01@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:bonniebrae@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:ariacdc816@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gamershavenco@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gg@gamersguildboulder.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:musecomics@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:jeff@enchantedgrounds.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:karliquin@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:zach@iwantmorecomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:ryan.dorsey@dmgcolorado.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:albatross44@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:azrielsdad@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:events@totalescapegames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:thejesterscourtgames@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:fanman@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:atomicgames@atomicgameswest.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@enchanted-realms.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mhc.lakewood@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:admin@trollcountrygames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 2
+- code: unsupported_link
+  element: a
+  target: mailto:gameheroesonline@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:dalezkardz@earthlink.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:btcomics@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:omnicc@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:battlegrounds.sales@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:wonderlandcomics@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:heather@sargescomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:therez66@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:coliseumgh@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gamingetc@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:iceimportswaterford@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:shop@connecticon.org
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:cardandcomicshop@cox.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:legends@legendsofsuperheros.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:the_grid@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:friendlyfiregc@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sales@thebattlestandard.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:howie@cardempire.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:ma2829@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:heroescomics95@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@timemachinehobby.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:thegameloungeonline@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:reedcollectibles@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:store@myhallofgaming.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:cave.comics@snet.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:kathleen@labyrinthgameshop.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:daysofknights@comcast.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:cloud9292@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:shivams.paradise@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mycomicmania@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:scarecrow@scarecrowsgames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:auwilmington@comcast.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:kathystroh@ourgametable.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:support@happyvikinggames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:ronnielaneve@bellsouth.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:undeadgaming2010@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:bradstcgs@att.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@game-onstores.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:campuscardsandgames@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:piratechest@ymail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:homefielda@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:ppfcomics@msn.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:rpgs@bellsouth.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:overlord928@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:thegatheringplacegames@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 2
+- code: unsupported_link
+  element: a
+  target: mailto:crrozenblad@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sales@2d10games.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:dana@gamechangerstores.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Kissimmee@coliseumofcomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:BRINGIT@COMICEMPORIUM.NET
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:islandercomics@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:superherobeach@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:tgatampa@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:wizardswallgames@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@heroeslanding.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:millenia@coliseumofcomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:support@paladintag.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:urbananthrop@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:geeksheekhobbies@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:seminole@coliseumofcomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:ericpsc@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:fashionsquare@coliseumofcomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gmgcrestview@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:GoodFellasGames@earthlink.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:ron@comicsdirect.gccoxmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:events@sci-fi-city.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:getsumtcgandanime@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:management@gamershqstore.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:wordofmag@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:bigkattbooks@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:dave@breakpointbooks.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:popcitycomics@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Lakeland@coliseumofcomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:javery2099@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:acollectorsparadise@embarqmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:thestore@armadagames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:support@gamescape.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mega@megagamingandcomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@coolstuffgames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gaming@gxegames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:bpolizzi@darksidecomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:hammerhallchris@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@taraanglesmagic.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: 'mailto:kathleen@birdsofparadisegames.com '
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:admin@anthem-games.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:pwnagegames@cfl.rr.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gamerapocalypse@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:rockgameshop1@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Shortstopsmtg@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sfl@coolstuffgames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Joe@cardboardhoard.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:contact@tatesgaming.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:colossalcomics@tampabay.rr.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:DogsofWarGaming@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:shopkeeper@getyourfunon.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:tcsc@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:serenitygames23@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@wizardscupboard.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:arenacomics@knology.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:avalonmangashop@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:coolcomicsandgames@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:comicsandgames@comcast.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:easypeasylemonsqueezyx10@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:lookitscarl@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@hnvcomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:seventhinning2000@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:edtbscomics@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 2
+- code: unsupported_link
+  element: a
+  target: mailto:thecomicshack@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@we-are-gamers.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:danscardz@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@amorousarmadillo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:WayneRoznakOrganizer@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mark@warpzonegames.biz
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Galaxygamesdeland@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:thebattlegroundsgames@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:avaloncomics@cox.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:ps_bookend@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:andrew@thetowergamecenter.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:manager@drnos.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mbm.heroesandvillains@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:nlsc@mindspring.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:helpcustomer@thedragonshorde.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:jason@junglejakes.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:kyle@galacticquest.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 2
+- code: unsupported_link
+  element: a
+  target: mailto:hitekgaming@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:magiccardsandgames@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@otherworld-games.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:titanduluth@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:manning4567@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sarah@gameoverbeyond.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sales@fastestdog.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:tyche@tychesgames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:titansmyrna@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:supergamesinc@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:thegamingpitga@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:ravensnestgames@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Morningstargames@comcast.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:heroesccg@mindspring.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:animezingescape@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:greg@questcomicshop.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:tjmov@windstream.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:galacticcg@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:bavarianbattlegrounds@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:kapowcomic@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:wizardskeep@bellsouth.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:fcbcomicsgames@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:web@moxiepaintball.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:games@htukennesaw.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:aworldofheroes@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:treefortgames@bellsouth.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:yourgadgetplace@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Randylandgaming@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Gigabitescafe@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:hobbyhouse@windstream.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:justinblakehicks@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:paul.augustabookexchange.rogers@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:southerncrafts671@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:aschuler@netpci.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:toys4uhilo@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mauitoyworks@hawaii.rr.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:findzhawaii@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:otherrealms@hawaii.rr.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:uhfans@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:planethawaiian@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@multiversecomicshop.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:chg@criticalhitgames.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:jeremybement@msn.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:shop@mayhemcomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@jayscdandhobby.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:peityr462@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:starsandstrikes@mchsi.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:rodmancomics@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:jmcdowell9057@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:rich@tempestgames.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:cjvoyles319@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:vgeassistant@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:battlezonegames@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:lecomics@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:moonschire@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:magic@msmmm.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:HERMIT987@AOL.COM
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:nathen@qwestoffice.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:miagaminglounge@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:thecore@cfu.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gameexchange01@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@phoenixfiregames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:jonbeckmon@earthlink.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:comments@hobbytownnampa.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:astreetgames@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:support@wondertrail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:john@goblintowngames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:strategyngames@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:abu@abugames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:allaboutgames@cableone.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:safaripearl@moscow.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:outland@outlandcomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:dragonslayergamesllc@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:fantasyandtactics@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:johnm@hobbytownboise.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:LightningComics@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:galesburggaming@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:cjdarkness@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:whatnotcollectiblesshop@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:customerservice@gameknightgaming.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:dwight_kong@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mindgames4u2@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mtg@grahamcrackers.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gryfalia@gryfaliasaerie.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:newgame.intown@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 2
+- code: unsupported_link
+  element: a
+  target: mailto:info@thedragonsrefuge.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:BIGPOD47@YAHOO.COM
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gooddeal2000@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:castlep@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@topcutcomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 2
+- code: unsupported_link
+  element: a
+  target: mailto:internetcollector@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Keonard@comcast.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gamersworldvernonhills@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@topcutgaming.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sales@fortresspc.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@wanderingdragon.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:deans_dugout@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:jamesnurss@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:aileen@wanderersrefuge.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:KYLERWEBER@AOL.COM
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:steve@hobbytownorland.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Alton@slackers.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:capitalcitygames@comcast.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:CTsHobbies@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:tenthplanetcomics@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:lasallemetropolis@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:arcomics@msn.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gamers1986@sbcglobal.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mainstrt@htc.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:tomfirstaidcomics@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mstanley32@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:elsewhere-comics@comcast.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:fantasybooks1@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 2
+- code: unsupported_link
+  element: a
+  target: mailto:heyanthony123@webtv.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:offonthesquare@frontier.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:dreamland95@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sales@quincyhobby.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:thezonecomics@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:journey_comics@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:store@alleycatcomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:modernagecomics@ymail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:kflsales@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sales@pastimes.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@thegaminggoat.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Sales@hotsaucegames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:diehardgames@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Chicagolandgames@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Xtremegames2199@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@twilightcomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:pojo56@msn.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:jeff@thegaminggoat.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:store@armored-gopher.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@fantasybooksinc.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:justforfungames@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gamersfnm@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Tournaments@DizzyDugout.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:chancex@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gamestormgaming@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:centraliagameroom@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@everything-games.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:rbnest667@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@nerdragegaming.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:lansing@lichslair.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:fairgamestore@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Bccollectibles21@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:asgardkeep@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@thechicagoclubhouse.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:galacticforcetoys@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:curt@games-plus.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gemcomics@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:midwestgamez@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:kryptoscomix12@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:indygameroom@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:btstore@gamepreserve.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:empirecomics@sbcglobal.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:bbr1975@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Wizkeepmuncie@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:TCBHuntington@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:dzgaming1@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:HometownComics@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:store@commonroomgames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:jmcwho4997@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sales@comicquest.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Bowerstreet@verizon.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:raymond@danger-room.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:galacticgregs@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:pat@heroeshavenmc.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:j_lingg@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:tt-gaming@live.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Questions@chimpscomix.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gcscs95@att.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gameknightstore@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:bobscomic@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gamerdmz@comcast.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:creativecomics@sbcglobal.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:krypton_comics@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:comiccarnival@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:fantasygamessb@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:warboss@games2d4.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Dartrider1@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@thesagesshoppe.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@saltiregames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:vallowery@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:jeremy@gametimeindy.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sales@topshelfgaming.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gildorxix@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sales@fullmoongames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:tmstore@gamepreserve.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gwstore@gamepreserve.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:readercopies@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:lu@gamequestfw.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:redhawk9000@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Silvercreekgameshop@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:ninedragonsden@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:kenhockeyman@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:goblin_games@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:benisjamino@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:rpgandrew@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:clemscollectibles@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:thekeep1@frontier.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gameemporiumbusiness@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:fmstore@gamepreserve.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gravitywell1971@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gatekeeperhobbies@sbcglobal.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gamer@hometown-games.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:midknightgames@live.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:arena2@cox.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:pdc@pdcomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:bigpatstoys@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:winmoregameskc@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:teamcache@collectorscache.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:CRCOMICS@GMAIL.COM
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:herocomplexgames@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:agentscomics@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gamehounds@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:ldlgator@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:astrokittycomicsmore@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:edictgames@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mat.rothwell@vintagestock.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:tru_gamer@live.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:shelbysmiles@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:curtscards@live.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:jwsuber@comcast.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mainphase@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:support@localgamingstore.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Something2dogames@insightbb.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:throughthedecades@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:princecringer@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:hobbycrossing@insightbb.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:israel@justgamesevents.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:webminister.dhall@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:jim@littlemonstercomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:support@monkeypunchrepairs.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:manatoburn@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:cardquest@live.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:thecardexchange@zoomtown.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:garrickcrump@bellsouth.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:desmond.swafford@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:hardknoxgames@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Mwb0820@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@illluminaudi.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:cosmicoasis@ymail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:apluscomicshop@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:risner@lokkak.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:skullman@bluegrassmagic.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:comicbw@one.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:jhirt@murraystate.edu
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:comicCosmos@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:roleofthedie@insightbb.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:londonmgr@trollandtoad.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:dwhitwo254@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:na_lawrence@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Heroesrealm@insightbb.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Arcadian.Comics@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:wamadden1@tvscable.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:computer363@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:petshopcomics@windstream.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:us@page3sgamezone.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:dpierce01@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gulfcoastgamersllc@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mac@go4gamesnola.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@plus1gaming.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:service@bigeasycomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gamersparadise7@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:syrcen@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Cinquemano@xpedius.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sam@ugam3.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:nexusgaming@suddenlinkmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:ANDBOOKS2@AOL.COM
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:galacticgoods@cox.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:chucksfieldofdreams@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:dragonsnestgaming@att.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:April@rocketshideout.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:nowplaying2010@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:jaimie@bayoustatesportscards.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:manager@littlewars.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:aplace2play@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:x9games@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:fitch@thatse.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@nerdzforhire.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:events@pandemoniumbooks.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Chris@whiznet.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:rivendellbooksandgames@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:games@greenfieldgames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:vendor-desk@scholarsgames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:lman66@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Ben@Newenglandmagicgroup.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:hrsportsandgames@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:starship@medievalstarship.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:george@thatse.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:jingororoshi@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:jp.comic.games@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mitsuguy18@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:spectrumhobby@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:allen@shopg33k.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:complstrat@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:slapshotsport@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:contact@battlegroundgames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@onthestackgames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mike@lostharbor.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:stillpoint@stillpointcomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:harrisonscomics@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 3
+- code: unsupported_link
+  element: a
+  target: mailto:bobomutt@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:webstore@tabletoparena.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:toysnthingsdanvers@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:erik@phyrexiangames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:pvgaming@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:hiddenhobbies@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:maverrick77@verizon.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:centralcitycards@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:emcity@verizon.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:wiz@wizduel.comcastbiz.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:offthewallgamestore@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:modernmyths@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:jimsaintpeter@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:chrisr@gamenight.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:tom@tjcollect.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:interrpg@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:support@newenglandcomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 2
+- code: unsupported_link
+  element: a
+  target: mailto:baseball_etc@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:hightidegames@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:titangamesandhobbies@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:laurel@dreamwizards.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@familygamestore.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:comics2u@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:whitman@crit-hit.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:manager@lanslide.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:legenddan@cantongames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:pat@novelplacesusa.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:store@beyondcomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 2
+- code: unsupported_link
+  element: a
+  target: mailto:xanadusupport@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:legends503@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:arkhamgames@verizon.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:shelmanr@AmazingSpiral.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:easternshoredraftleague@ymail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:dugoutzonemd@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Chuck@ChucksComics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:iansayre@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:keith@chesapeakesportscards.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:dwbarn@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:altworldstore@comcast.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@gamesandstuffonline.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:eric@icfx.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:dorsey@phoenixrisinggames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:washbks@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:squabblesmtg@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:thegamestore@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:david.e.gress@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:collectorscornermd@comcast.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@jmcomicsandgames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:garion1999@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:bigplanetcollegepark@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:biglarryscomics@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gothamcomics@juno.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:thegamesarename@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:falange36@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@weekendanime.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gameonaugusta@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:dirigohobbies@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:jfireyoungheart@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mainelymagic@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@gameboxvideogames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:dragons.lair@ymail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: 'mailto:admin@gamecitadel.com '
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:brendenhill63@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:comicsplusellsworth@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:nextlevelgamesme@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Math_dog06@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:aaron@grindersgames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:ohtrouble@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:spell_bound@spellbnd.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:eaglehill@mfx.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mouthofthedragon@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:odysseygameskzoo@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:aaron@theboardroomgamecenter.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:bramleybj@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Adamczykcgs@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:events@thegamerssanctuary.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:whitecapcomics@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 2
+- code: unsupported_link
+  element: a
+  target: mailto:gamersgauntletmi@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:warriors3tom@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@pandemonium-online.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gaming@fanfareland.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:coolcitygames@att.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:toymaniac@comcast.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:realdealcollectibles@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:bctitanscafe@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gildhaus@comcast.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gobretail@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:grand.poobah@alphaomegacandg.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:paradoxgamingcenter@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:rduck39@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:pontiac@comiccity.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:foxbattlegrounds@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:alibigames@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:brian@brianscomicsandgames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:tcfunfactory@tcfunfactory.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:clemslansing@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:spratke@alma.edu
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:normshobby@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:orcgamingcaro@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:tcpaintball@gamailc.om
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mark@thedugoutsportsshop.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:phil_stone@comcast.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Scott@GalaxyComicsOnline.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@hallofheroesllc.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:bccomix@comcast.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:pam@riwhobbies.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:alex@getyourgameonline.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:fun4rn@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:cardsinthecorner@mail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:ccornermi@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:events@bigkidzgames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@grandlan.info
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:fennydude@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:superiorgameworks@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:jlplesco@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:cobblestoinc@att.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mailevolution@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:toppstrade@sbcglobal.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:dumars1935@charter.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:realrpgfan@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:premiercoin@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mikescomics@sbcglobal.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:ourhousegames@att.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:promatchracer@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mtg@tgwgrandville.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:excelsiorgamer@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:magicbattlegrounds@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:thomasloss@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:jmiller@wargamesnorth.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gamelinksmi@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:thebarracksllc@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:collectibletreasure2011@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:tcz@att.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:stevescoyscomics@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:bw900@bookworldstores.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:shoreline.minis@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@gamesbyjames.biz
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:ep@atraffic.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:orders@legiongames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:bill@outpost2000.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:bobsource@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:worldofgamesonline@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:ajwolf29@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:hobbygoblins@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sales@universegames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:dblplay@hickorytech.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:orders@meadhallgames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:jimmyjams@charter.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@gamesbyjames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 3
+- code: unsupported_link
+  element: a
+  target: mailto:cnhotchkiss@msn.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:john@fedtel.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sales@collectorsconnectionduluth.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mail@roguerobotgames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:jason54@comcast.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 2
+- code: unsupported_link
+  element: a
+  target: mailto:lites2000@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:dungeonsend@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@gamersden.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mikemarohl@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:tom@twincitycomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:paddy@paddysgameshoppe.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:thefanzone@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:tami.friborg@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:thedorkden@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:misplayllc@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:LegacyCaG@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:theshop.owatonna@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@yourmomsbasementonline.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:deathangl13@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:john@crimsondragongames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:nigel.brks@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:contactus@phantasyhobbies.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:books@anovelplace.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@lanworldgaming.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:istal@stolaf.edu
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:tom@frantzensports.comcastbiz.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:galaxygamesstjoe@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@manticoregameshop.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:holeinthewallgames@centurylink.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:donwallace@fantasyshoponline.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gameniteshop@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:valkyrie@valhallasgate.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:pfcomics@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:FantasyShopSoCo@Gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:nixagamemaster@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:belisarius@sbcglobal.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:admin@thegamingctr.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gamezonecomics@sbcglobal.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:zsbookgame@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:ogres.gaming@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:ganqllc@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:tiptongamer@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:fantasyshopmap@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:brandon.bond@vintagestock.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sales@collectorstore.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:atozcomics@sbcglobal.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:firespirit1701@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gerald@bigcitycomix.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:k2games@clgw.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:dirtroadcomics@centurytel.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:julie@playgamecafe.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:customerservice@mguinc.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:dbinz@juno.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:nat@magelings.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:fans@action-sports.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:jcts@iland.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:newcastle.comics@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:hourotd@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:fantasyshopflo@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:craig@zaniville.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:kevin.f.brewer@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:spanky@spankyscardshop.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:bandbgameshop@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Ken@thebasementkc.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:thenextlevelmo@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Sales@limitedfigures.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:talk2slackers@slackers.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:COMICS@FIDNET.COM
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:grovegamersguild@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@yetigaming.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:zedd5859@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gamershideout@embarqmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:pewpewcardandgame@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:bigunshouseofgames@sbcglobal.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:hurleysheroes@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:service@miniaturemarket.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:patrickleaman@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:jakstoys@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:dale.heroes@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gregspanier@cableone.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:van@vanscomicsandcards.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sportscards@bellsouth.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:oxfordsportscards@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gcc39402@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:wrathofb@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@scheerbros.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:rook@rookscomicsandgames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:kabsportscards@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@heroicrealms.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:know.dice.games@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Goodgamesmontana@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sammpell187@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:stlcard25@msn.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:funtrademt@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:events@musecomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:phelps@wtp.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Thegamesmithllp@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:billings39@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@reimannbooks.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 2
+- code: unsupported_link
+  element: a
+  target: mailto:stores@acrosstheboardgames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:snsgandc@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:betheregames@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 2
+- code: unsupported_link
+  element: a
+  target: mailto:Timetunnelcomics@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@gametheorystore.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@gamersarmory.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:store@atomicempire.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:contact@gamershaunt.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:warlordonelowman@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:kidcurrync@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:cardznthings@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:shepherdnd@msn.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:john@thetoyfactory.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:plan9boone@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:comicmonstore@bellsouth.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mikewyant@redplanethobbies.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:desertdunecomics@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:heroesheadquarters@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:iberollin20s@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:zero@abubikagaming.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:john@hitpointhobbies.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:fozzybear5487@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:battlegroundgame@ymail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:paperbacktraders@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:micheal.lokrosh@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:thelastwordcharlotte@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:hobbytown2010@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:contact@strafegaming.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:earth383comicsandgames@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:eandecardshopnc@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:rebelbasecomics@bellsouth.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:customerservice@multiversegamers.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:tanksrampbayllc@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:matt@pbkwcomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@capefeargames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Luckyscardshop@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:theunknowndroid@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:tim@hickorydugout.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:kindofalotofcards@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:nate@hillsidegames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:harry@blueoxgames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:service@spandexcity.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:afng@allfunngames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:GamingUndergroundLLC@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:ronald@thegameconnection.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:SylvaNexus@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:tierzer0gaming@mail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:lmitche1@embarqmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:diecastcars@windstream.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@thehobbyshopofwilson.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sportscardsandall@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gamershaven@suddenlink.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:timmymac1971@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:apennyworths@alltell.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mrey@srt.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:paradoxcnc@702com.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:createac@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:andrew@parallaxgames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:grandcitiesgames@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@cardsgamesandmore.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:dean@kryptoncomicsomaha.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:hobbytownlincoln@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:homestake_coins@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:kearneytrolltrader@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gzhobby@cox.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:smohr@ez-gamer.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:fantasygift@windstream.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:clbcards@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Shawn@coliseumgaming.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gamegeek@thegameshoppe.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gameon@gameongames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:legendcomicsomaha@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gameongames@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gzbellevue@cox.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Treasureaisle2010@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:store@elitecardshop.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:jeremysammons@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:chris@dmcomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Events@MyriadGames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 2
+- code: unsupported_link
+  element: a
+  target: mailto:info@tripleplaynh.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:joek2006@myfairpoint.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:hoppitty@myfairpoint.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:charliescomicsandcards@myfairpoint.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:collectiblesunlimited@comcast.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sethk@harrisonsgaming.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:dntb2001@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@jetpackcomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:comicboom@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@relentlessdragon.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:updogcomics@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:comicsplusnh@comcast.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:shieldcomics@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:chriscomics@comcast.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:wayne.comicstore@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:shadowgearcomics@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:manifestcomics@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:dave@timewarpcomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:togitnj@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:marco_seajay@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:comic-lair@comic-lair.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:themangarat@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:comycgyrl@live.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:amazingheroes@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Heather@hobbyshopnj.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gamersedge498@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:hmsupport@hobbymasters.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:nmartinez@mightytitanshobbiesandgames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:hobbytownusa@embarqmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:adventurelandstore@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gamersgambit@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:nickcoss@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:alex@thecomicbookstore.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:jiffyphoto@msn.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:comicworld@comcast.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:edevans@allthingsfun.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@littleshopofcomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:rich@jestersplayhouse.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gamersrealm@verizon.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mary@timezonegaming.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@comicfusion.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sales@atkmgames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:fantasygamesandhobbies@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sales@familyfunhobbies.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@falloutsheltercomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:apemasterus@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:marc@comicsntoys.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:njgameon@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:trottascardsandhobbies@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:maplewoodhobby.gaming@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gear@getsomelongboards.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:dan@deweyscomiccity.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mailzombie@thecomiccrypt.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:tabletopscollectables@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:ziacomics@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:jakequintana2@msn.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:kaboomtestlabs@q.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:thatgamestore@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:staff@true-believers.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sportsangle@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mgodard@gdnet.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Twinsunscomics@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:truegameshobbyshop@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Realmofpossibiliites@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:playerzzone1021@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:ichaseimaginarymice@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:maximummtg@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:stephenjanecka@sbcglobal.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:bzc@battlezonecomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:dkscomics@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:merwin@merwinsgameshoppe.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:cwcheeseboy@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:comicoasis@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:otkgaminglv@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gameworld@cox.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:vegaschess@msn.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:shop@shopofmagic.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:wiiplaygames@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:comickingdomreno@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:People@theenchantedbadger.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:theplayersnook@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Magic@beyondnerd.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:stomping_ground2012@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:hobbiesdragonsden@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:information@jupitergames.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:zombiekhan@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:comicdep@comicdepotllc.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@odyssey-gamer.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:empiregamingny@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:stand1410@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:aspiz@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:3rdUniverseComics@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sorrange@dacardworld.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:dirtygoblingames@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:darkforestgamesnt@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:pwilliams@magenyc.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:steve@JestersCapGames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:beardeddragon@mail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:jwtfgs@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sales@cooperscavepaintball.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:pairadicegames@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:killinocards@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:royalsports@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:PocketPuppiesandLittleLions@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:comic2@windstream.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:the_poet@verizon.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gslam@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:htusa.nanuet@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:comicbookjones@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:clockworkcomicsgames@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:dialcard@nycap.rr.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@goblinscavern.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:infinitelives@verizon.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:legacygamingco@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Shawn@letsplaywaverly.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:urza_90@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:james@battlegroundsli.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:redkevlar5@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:smittysco@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:ffclassicgaming@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Mahopac.Cards@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:contact@bpsportscards.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mikeyg41@octobercountrycomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Jeremy.frenyea@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:npurpura@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Info@jhuniverse.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mike@millenniumgames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Info@playthegamereadthestory.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@twentysidedstore.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:BJPaskoff@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gamercrazecanton@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:undiscoveredrealmNY@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:lupir@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:khazad777@netscape.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Kingsgames@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:serra3@optonline.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:fof.net@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@gettheregames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Admin@kirwansgamestore.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:montasychapter2@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:comdepot@optonline.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:fncsfb@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:duelzone@verizon.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:events@foambrain.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mythicgameselmira@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:dragon_snack@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:thegametable@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:crimsonimpgames@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:store@grimfoegames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:collectorsinn@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:montasy@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: 'mailto:StorytellersCNY@aol.com '
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:cloudcitygames@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:boldos@frontiernet.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sanctuarycomics@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:madhatterni@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:alkiesvac@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:alexbarker116@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:moneyg6782@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mindgamesny@ymail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:masterson1178@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:service@championcard.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:alterniverse2@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:clarksonscorner@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:NY Sports @Yankee Dugout
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:nysportscrossgates@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:fscardgalaxy@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:darwinp1125@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Seeleyandkanescomics@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:modern.myths.ny@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@nycnextlevel.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:support@gadgetguysupny.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:supersportcards@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:largerthanlifetoys@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:bluplanetonline@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:triplecrownsportscards@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gregv@comixzone.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:operations@ravenbloodgames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:animationodyssey@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:edoran@ix.netcom.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 2
+- code: unsupported_link
+  element: a
+  target: mailto:gameswapmason@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:davesclubhouse@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:support@alteregocomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:davidpbaum@TgAExchange.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:bellbookcomic@sbcglobal.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:joshs@oldschoolgaming.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:rockinrooster17@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:brelo1990@sbcglobal.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gzcomics@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:packratcomics@sbcglobal.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:puzzlesplaneswalkers@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:videoalley@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:realmcomics@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:magicatgameroom@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:centervillegamingco@live.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:iuz22000@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 2
+- code: unsupported_link
+  element: a
+  target: mailto:gameemporium@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:jackmavericks@sbcglobal.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:superflycomics@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:bmore@cinci.rr.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sales@toystimeforgot.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:ScificityCincinnati@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:disposableheroescomics@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:doccletus@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:psuedopip@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:grandpassports@neohio.twcbc.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:fantasy8399@sbcglobal.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mgabel32@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:alphagega555@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:don@whatevercards.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:rhg@DiffwareRiverside.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:wingswheelswaves@sssnet.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 2
+- code: unsupported_link
+  element: a
+  target: mailto:davidcoyan@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:ravenstonegames@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:familylockerroom@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:comictowniii@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:allen@epiclootgames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mail@thesoldiery.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:syoder1@neo.rr.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:kidforce7@att.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:contact@deriums.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gtower5886@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:thewizardsguild@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:checkmategames@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mzone@sbcglobal.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:alterealitygames@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:wholesale@thegamehaven.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:deanscards@sbcglobal.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:cjd@diversions-online.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Shrapnel323@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:duelinggrounds@att.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:David@ctrlaltelitegaming.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:carnesscards@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:illuminaudiamelia@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Matthewm@yottaquest.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:fantasticgamesonline@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:eastsidegames@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Froberts5@localnet.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mtravisscc@woh.rr.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mamapanzone@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Immortalsinc@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gameswapeastgate@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:tazsgaming@neo.rr.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:fogofdusk@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:dragon9207@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:darren.keathley@capitalgames.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@gamescapegames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:grayhousegames@woh.rr.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:cardsforu@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:steelywill5@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:heath_hensel@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:carl@empirecards.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:ccampbell@gamingxgrounds.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@underhillsgames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:contact@infinitemonkeyonline.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:wizardsasylum@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:ghqokc@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:KnightArmsInc@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:alscards7599@sbcglobal.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:tcking23@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:kirbewld@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mcalestergamerz@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:thecodebiz@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:betaraydave@gamil.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:tappedoutgaming@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:wizardsasylum_ebay@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:myaliengames@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:thegatheringoftq@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@valhalla-gaming.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sales@okgamersguild.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:BBCcomics@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:tdged@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:jeremy@gamestarinc.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 2
+- code: unsupported_link
+  element: a
+  target: mailto:omnigamerz@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:tillamook@rvgnet.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mbcgamestore@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:ancient_wonders@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:deschbil@earthlink.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:ron@bluedragonwares.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:habit@eoni.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:wicked.comics@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:rush@wild-things.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:thechrisfox@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:delightcg@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:beaverton@tfaw.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gamestar.tigard@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:legacygamingllc@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:iguanacomics@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:shop@alternateuniversegames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:cascadehobbies@comcast.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:orders@hopscotchtoys.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:pantheongames1@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:roo37@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:hobogbo@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:shadowboy327@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mainstreetcomicsandgames.chris@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:guardiangames@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@rainy-day-games.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sales@ccgobsession.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:manager@redcastlegames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:daniel@epicgamingpdx.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Timevaultgames@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:borderlandsgames@live.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:thenexusgames@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@hoodriverhobbies.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:tournaments@mystical-mayhem.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Sales@ilovespidey.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:david.thomason@ymail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:AstralgamesKF@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:seth@topdeckhobbies.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:staytonshobbyhut@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:questions@oregontrailgames.biz
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:tomdole@ymail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gotgamestore@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:hayloesm@minetfiber.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:astralgamersrv@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:comiccollectibles503@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:nickm@funagain.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:videogamesplus@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:milwaukie@tfaw.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:comical@woolverinegames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:jables@fatmancomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:comics101@zoominternet.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:thegamemaster-pittsburgh@live.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:warlords_den@msn.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:redcapscorner@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:johnpgallo@tapnatkgames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:dono928@comcast.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:geaglecomics@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:geekadrome@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@alternateu.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:five_ds@verizon.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:winnie.keener@topdeckcardsandgames.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:potalert@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:butler@ndcomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:dealmeingames@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:kastkreations@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:thenerdherder@gatehouse-games.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:michaelg@theportalcomicsandgaming.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gamesatswrandall@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:comicstorewest@comcast.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@sggamesandhobbies.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:whiteknights637@comcast.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:epsilonindinc@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mills@ndcomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:enck.diamond@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:brynmawrcomics@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gatewaygames1@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:cranberry@ndcomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:neverlandgamestore@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:keystonecards@plexicomm.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:TGRCEO@comcast.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:comicsandmore@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:jkownack@lhup.edu
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:steventice@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:funcard@comcast.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:loki@valhallas.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:stevecomicrelief@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:brad-elliott@rcn.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gamerskingdom@ymail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sixfeetundergames@frontiernet.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:duncan@legionsgames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:j.charles@mvpsportsandgames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:aubluebell@comcast.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:donwar@verizon.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:GameCorpsHQ@Gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:theadvguild@comcast.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:ron@mrniceguygames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@goldstaranime.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:comments@cyborg1.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:jakescardsandgames@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:comixuniverse@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:7thdimensiongames@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:theplayersguild@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:century3@ndcomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:ericBNW@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:phantomofattic@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:spacewheel@comcast.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gaming@evilgenius13.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@comicswap.biz
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@fullofwingames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:playerzden@live.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gameedge@ptd.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:indianasportscards@indcards.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:shadow72@centurylink.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:biglerhouse@atlanticbb.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gauntletmagic@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Rabbitrungames@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gameskeep@cavtel.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:scott@vaultcomicsandgames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:cardstadium@comcast.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:comicsandmore.pm@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:kim@welcometoplanetx.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:ultimatecomicsqmart1@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gardened@comcast.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:alliedhobbies@verizon.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:contact@thetemplegames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Allsportri@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:support@untappedgames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:annexcomics@cox.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:patrick@gameonri.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:store@themanacore.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:theincrediblepulp@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:onestop_collectibles@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:DHGRI@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:da-niners-rule@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:daniel@twebcomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:apocalypsecomics@peoplepc.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:max@madmaxscomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:knarfandkram@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@thatcomputerstore.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@g2kgames.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 4
+- code: unsupported_link
+  element: a
+  target: mailto:bismark40@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:fireflytoysandgames@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:cornermagic@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:store@boardwalkgreenville.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@aboveboardgames.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:comicbookcollege@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:readytoplaymtg@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:whitewidowgames@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:nxsgaming@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:dperdue99@shtc.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:bigrobotgames@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:dotgames31@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:strongholdgaming@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:steve@realmsfantasygames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:playntradeggc@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:planetcomics@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:coastalcomics@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:greendragongoddess@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:jasonhepola@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:rrakness@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:themuzeexperience@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:lurveyj@itctel.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:dragonsdensd@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sales@fclcgames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mtg_heroes@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:cmgamesandtoys1@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 5
+- code: unsupported_link
+  element: a
+  target: mailto:collectorsalleyllc@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sales@thenextlevelgames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:cco@comiccellaronline.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:outerlimitsonline@comcast.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:admin@hobbytownknoxville.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:rollthedicegames@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:BlackthornGC@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:outer_limits_comics@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:collectorsconnection@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:jasonleelatham@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:admin@showcasecgc.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:nevensto@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mrhodes@k12tn.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:evermorecomics@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:ehtoys2@comcast.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:store@masterworkgames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:heroeslegacycomics@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:events@themagicarena.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:geeksetc@lighttube.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:HFFlood@bellsouth.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:bden05@charter.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sales@dicehead.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:smack311magic@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:nerdvanastore@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:otomatic@charter.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:powerplay@communicomm.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:chris@grandadventurescomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:comixcitytoo@bellsouth.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:bandmorders@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:owner@organizedplay.org
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:zantrax@att.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:ironcladcomics@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sunrisegandc@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:badwolfgaming@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:whirlwindcomics@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:chris.hutchinson@thetablesedge.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:contact@whoseturnisitgames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mego1@ix.netcom.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:madhatters@suddenlinkmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:heroescollectables00@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@dlair.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 2
+- code: unsupported_link
+  element: a
+  target: mailto:Leonard@lyonsdengames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:contactus@westtexascards.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:genxcomics@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:skirmish_games@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gunslingergamesvj@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:tboreltam1@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:thestrongholdrgv@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@asgardgames.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:montagsgames@sbcglobal.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:randrcomics@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:bfgstore@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:evogamez@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:scififactory@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:magic@astralcastle.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@fatogre.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:truebyleth@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:portalhunters@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:allstar.comics@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:texasbattlebunker@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:miguelsilva@maverickbbs.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:glorfindel@jomioandrueliete.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:bigworldcomics@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Thegatheringgrounds@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@beanie-planet.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@galaxycomics.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:store06@lonestarcomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:comicsunlimited@sbcglobal.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:geekworldconsignment@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:jakins4409@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:manager@pegloft.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sunblastcomics@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:theknixcg@att.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:morefun@keithsneatstuff.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:dog@blackdogent.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sabby_marvin@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:swordsandsup@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@8thdimensioncomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gerardsonestop@sbcglobal.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@kaboom-comics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:austincards@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sales@madnessgames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:franklin@ooples.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:comicasylum@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:suncitygames@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:events@clockworkgaming.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gus@reapermini.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:dustindj@strikezoneonline.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:adam@heroesandfantasies.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 2
+- code: unsupported_link
+  element: a
+  target: mailto:info@wonkos.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Area51Store@Hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@topdeckgamers.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@3rdcoastcards.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:james@gamers-grove.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:dqwatson@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:bookstantx@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:dnacomics@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:kosmic@flash.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:store01@lonestarcomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:weare@badwolftrading.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:zmetty@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:bcsbooksandcomics@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:tjblack7@black7comics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:operations@tenthplanetstore.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Legendstc1@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gamelot@satx.rr.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:jonishamas@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:excalicom1@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:cardstore@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sales@manafix.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:black_hole_gaming@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:specialtiesgames@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:onlinesales@gamersdenshop.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:madnesscomics@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:store07@lonestarcomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:store03@lonestarcomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gamemastertx@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:robrobber@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sales@varmsgameroom.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:thegatheringplaceabilene@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@groundzerocomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:davidcmcclendon@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:diamondsports@juno.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mythadventures@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:alphastrikegames@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:samrockmountain@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:bigbtoys@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sjgames@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:crdtrade@swbell.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:store@roll2play.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:roguesgallerytx@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@boomerangcomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sportslinecards@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:dsctexas@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@buymagicsingles.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:toadandtricyclegames@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:thedragonskeep@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 3
+- code: unsupported_link
+  element: a
+  target: mailto:blakfyregames@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:heebeegeebeez@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 2
+- code: unsupported_link
+  element: a
+  target: mailto:info@gamenightgames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:shop@gamelandworld.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:wildonhobbies@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:drvolts@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:questions@boardgamerevolution.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:travis@offcenterga.me
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:theendzone@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@yourgamehaven.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:jordan@epicpug.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@epicpug.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gamedenwvc@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gameden@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:alex@oasisccg.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gamersasylumUT@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:bountiful@yourgamehaven.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:admin@cardcavern.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:heebeegeebeezogden@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:hajomaje@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gamegridgaming@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:hastur@hasturgames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gunjahthebeadforest@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:bkecorp@bkecorp.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:contact@fongobongo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gmail@comicsplus.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:stgeorge@yourgamehaven.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gamegridgames@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:espinal_maynor@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:cgoinc@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:jeffweaver@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Kit@kaboomkollectibles.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:huhncc@comcast.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:games@lostshade.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@gameoncomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:roseta2collect@verizon.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:cavaliercomics@verizon.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:bardictalesinc@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:jerseyshampton@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:trainsetc@trainsetc.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:tony@fivemanagames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:store@animepavilion.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:leeniece@g2kgames.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:tracyashepherd@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mat.johnson2357@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:amazfantasy3@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:BulldogHOF@juno.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:vgexchange@embarqmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:comickungfu@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:events@starcitygames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:oneeyedjacques1@verizon.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:richmix@richmondcomix.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:natefrantz@towerofgames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:omegagamesllc@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:ace@atmcmx.hrcoxmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:atmcmx@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:ac1@atlantis-comics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:FunNGames@blacksburg.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:rbaer0002@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:comikings@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@untamedworlds.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:silverunicorn001@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:rweigend@gameparlor.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:rickralsten@verizon.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:jason.pizzino@pcs.k12.va.us
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:jerseysgloucestr@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 2
+- code: unsupported_link
+  element: a
+  target: mailto:fantasy2@cox.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:tom@curiocavern.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:organized-play@atlantis-comics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:hobbiesgamesandtoys@embarqmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:k6MURPH@AOL.COM
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:qstaffvt@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:vtcollectibles@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:admin@darktowergaming.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:the_gamers_grotto@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:allencf@comcast.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:shadowwalkers@shadowwalkers.biz
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:olympiccardsandcomics@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:events@cardkingdom.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:shanesbigleague@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:thegamershaven@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:moondragongames@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:books@advunderground.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Whitney.gameon@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:darktowergames@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gandgorders@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:discordia@mcleodusa.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:captain@fantasiumcomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:centralcitycomics@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:ewugamersclub@eagles.ewu.edu
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:jeremy@blitzhobbies.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:thaddeus@sanctuarygamer.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Ronscoin@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:bookandgame@bmi.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:zeroexhobbies@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:goodtimepoker@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:valley@unclesgames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:dragonrail.orpa@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:animekat@email.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:stevenus@ureach.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:thecuriouschild@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:phoenixco.llc@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:platinumcomixgames@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mr.billscollectibleworld@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:customerservice@blueskyhobbies.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:delanor@dreamstrands.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mirkwoodstore@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:hero.support@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:burning.reality@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mail@garysgamesandhobbies.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:wishestoysbooksgames@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:heroesresource@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mail.sunkentreasures@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:scotsw.acton@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:anthony@avacomicsgames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:downtown@unclesgames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@dangerous-gentlemen.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:lynnwood@comicstoponline.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Sportsryter@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Bellevue@unclesgames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: 'mailto:dan@greenlakegames.com '
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:unclesredmond@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:northwestsportscards@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:ebay@ccghouse.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mugugames@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:goribob@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:matt@batcavegames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@cosmiccomicsonline.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@mathnificent.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:comicscubeLLC@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:events@phoenixgamesandgifts.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:jen@exaltedgames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:lukesbargainbin@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:bimmerboiz3@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:johnks@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:nerdystuffs@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:ben@crazytimmy.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:cbsnorthtown@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:palousegames@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:store@cardadvantagegames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@wanderinghavoc.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:wizardslibrary@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:DragonsHonorFivePillars@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:db932007@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:millgeekcomics@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:liquidor@live.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:spokanehobbytown@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: 'mailto:shopgameplay@gmail.com '
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:boxesandbears@comcast.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gamesplus@isomedia.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:the.dreaming.comics@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@calicocattoys.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gammaraygamestore@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:erniesgames@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:cbsspokane@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:jmagneson6@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:test2@wizards.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:ffegames@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:netherworldgames@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:htunewberlin@sbcglobal.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:corey@thelabrynthgames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:bryant@atomicfun.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:rivercityhobbieslacrosse@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:ashlandfunandgames@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:victorygames@rocketmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:dino@nomadgamecenter.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:edge.collectibles@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:planetchaoswi@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:bbdugout@centurylink.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:askrockheads@rockheads.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:chris@westlabs.biz
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:akcomics27@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:totally_mighty@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:scott@arcade-entertainment.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:flyingmonkeyking@kowabungacomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:epicquestgames@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:toblave1969@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:candyman53172@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:hotlapsrc@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gbeast@gnomegames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Events@BoardGameBarrister.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:elpacifismo@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Chimera@charter.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 2
+- code: unsupported_link
+  element: a
+  target: mailto:jledtke@lakegenevagames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@imboardgamestore.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:galaxycomicsstevenspoint@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:webmaster@game-universe.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:matt@game-universe.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 2
+- code: unsupported_link
+  element: a
+  target: mailto:johnnycee@johnnyceecards.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:colosseumgamesofwi@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sales@fdlmagic.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:highlandentertainment@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@moxmania.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:2010@silverspringhobby.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:thegameboard@sbcglobal.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mail@gnomegames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:KKRYPTON@AOL.COM
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:southridge@boardgamebarrister.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:amber@animefanzone.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gamer@gamequestusa.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 2
+- code: unsupported_link
+  element: a
+  target: mailto:toyriffichudson@comcast.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:herosink@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:toymankaukauna@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:toyriffic@centurytel.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:outpostgaming@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:dave@mistymountaingames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:eviljess1975@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:pegasus@pegasusgames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@nerducopia.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sal9524@netzero.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:thegathering25177@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:BRogers@Jt3Corp.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:badbenne3@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@fourhorsemencomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:ascarter@stormfrontsolutions.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:dave@yourhobbyplace.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:lostlegiongamesandcomics@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 4
+- code: unsupported_link
+  element: a
+  target: mailto:info@windrivergames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:dragonslair.codywy@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:billleiker@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sportsalley@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Caseybruder@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:ctolliver1@bresnan.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Douglasgamers@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:adalton@diversionsgamestore.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:imelsportscards@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:davsdarts@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:matt@gamersalley.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:kapowltd@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sentrybox@sentrybox.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:adventurersguild@mail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@trilogygamingclub.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:savagebeatings@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sandra.anderson1970@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:cory@mythgames.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Dickscollectables@shaw.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:treachst@telusplanet.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:daveb22@telusplanet.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sherwood@wizards-comics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:uofa@wizards-comics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:phoenixcomics@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:wide.choice@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:warpgames@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:rrwowk@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:tcove@telus.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:readers1@telusplanet.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:strangeideas@eastlink.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:kidalog@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:metalgalaxy@live.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@boardgames.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:toys@wonderlandtoys.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:ane685@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@redclawgaming.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:hhv1@happyharborcomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:tacticalmagicgames@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@imaginarywars.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:orders@gamestars.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:highoctanecomics@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:contact@thrivelifestyle.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sales@magicstronghold.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:nelsonsalahub@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:wiserscollectibles@shaw.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:quantum.games@shaw.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:ted_yee@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:derekjohnson@allaboardgames.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@tcgaa.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:buck@cravingforagame.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:SKYHAVENVICTORIA@SHAW.CA
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:greyhaven@telus.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:orders@imperialhobbies.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:stanryker@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:pastime@telus.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:onestopshopcardsandgames@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sales@armouryhobbies.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:goobs@dicebaggames.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gamesandgrounds@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:question@comic-encounters.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:goodtimes@citywest.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:dspopculture@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:bigpetes@shawcable.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:ebenezers@shaw.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:beaubird@shaw.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:wallace_leung@telus.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:coregames@shaw.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:treschest_03@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:solkin2k@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:les.toth@shaw.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:puzzlefactory@shaw.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:chilliwackslotcarpalace@yahoo.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:thamre@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@mostlymusic.biz
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sales@greatwhite.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@warcraftgames.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:kirby@boardgamewarriors.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Cloudascollectibles@yahoo.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:fun@fascinationstreet.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sean@hourglasscomics.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:k_max@telus.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:galaxy-comics@shaw.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:fusiongaming@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@gameknight.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:pghmb@shaw.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Hiddencitycomics@shaw.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:FACEOFF@MTS.NET
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@imaginegames.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:jsavoy@gamezilla.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sandylindsay@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:thecomichunter@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Mroyale4@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:rballard@gamezilla.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:store@midgardgaming.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:jason@buzzonjon.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sean@thelair.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gamespeopleplay@live.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mikedean@strictlysinglessports.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:thegamingedge@live.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:quantumfrontier@eastlink.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:thelocalnpc@eastlink.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:shop@giantrobotcomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:thebattersbox@eastlink.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:breakout@eastlink.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sales@gator-byte.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gametronics@ns.aliantzinc.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:hhcpetawawa@me.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mrsuit_77@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sequencecafe@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@thegamechamber.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mgoshawa@mindgames.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@silversnail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:cbmemories@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:barrhaven@wizardtower.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:401games@bellnet.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:kellytarantula@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sales@legendswarehouse.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:dollys115@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:store@omggamesonline.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mozmagic@sympatico.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:kanata@wizardtower.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:comicconnection_ca@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:cba1@rogers.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sales@jjcards.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:thecgrealm@live.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@friendlytroll.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:cards@coinsunlimited.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:logan@dungeoncomics.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@blackknightgames.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:justbychancegames@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:jeffscardsandcomics@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:comics@worldscollide.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:forbeshobbiesinc@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@korosgames.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:chrisn@conspiracycomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:andrew@thecomicwarehouse.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:jstrahl3@cogeco.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:matt@heavysupport.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:teddynme@rogers.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 2
+- code: unsupported_link
+  element: a
+  target: mailto:mpaguiriga@aol.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:the_gme@canada.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@thetoytrove.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:ellen.a@sympatico.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:brian@phoenixrisinggames.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:comicconnectionnews@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:newtechnologystore@algonquincollege.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:heroesworld@rogers.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:bill@phoenixgames.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:store@sketchbookcomics.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gamebreakers@bellnet.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:inquiries@heroic-dreams.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:fournierkevin!@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:inquiry@conspiracycomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@jacksonqueen.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@dueling-grounds.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:support@untouchables.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:futurepastimes@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:actionpackedcomics@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:goodsellcollectables@hotmail.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@4c8b.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:cns@main-phase.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:greatcanadiancardcompany@bellnet.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mailbox@lamoodcomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:tech502000@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:entertainment_ink@yahoo.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:fyreworkgirl@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:jackie@thunderbay.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 2
+- code: unsupported_link
+  element: a
+  target: mailto:imperialhobbiesgames@rogers.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:billsfan56@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@HairyT.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:hootbot@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:fanofthesport@hotmail.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sales@xtremecollectables.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:houseofcomics@shaw.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:shoppe2@thecomicbookshoppe.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:k_os.collectibles@rogers.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:service@huginmunin.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:giddygoblingames@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:leve1_up@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:bookscounter@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sceniccitygames@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:steve@littleshopofheroes.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:burlington@thehobbykingdom.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gamedome@hotmail.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:thehobbyshark@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:craftsnthings@cogeco.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:contact@atomicagecomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gary@burdinscomics.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:billingsbridge@yahoo.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:chatnoir@ntl.sympatico.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:kingstonnexus@cogeco.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:avidreader@eagle.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@pulpcomics.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:wgamemasters@rogers.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gameonsummerside@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:comichunter@pei.eastlink.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:thebolt@eastlink.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:cafejeux@aux2legendes.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gamersspottr@hotmail.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:magic@levalet.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@facetofacegames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@lebeginner.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@legriffon.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@gamekeeper.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gamekeeperverdun@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@auxjeux.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@maitredejeu.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:sthubert@cartamagica.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:bdcosmos@magnistudios.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:placemagicglp@b2b2c.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:lefouduroi@globetrotter.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gchezgeeks@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:hobbygame@live.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:spoutnikchambly@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@labyss.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:le.donjon.quebec@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:zonevideo@hotmail.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@gamersvault.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@boutiquefdb.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:tome2inc@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:kovalev279@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:thecardpalace1991@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:hof_cards@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:hof_west@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:gamersspot@hotmail.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mrobitaillecmb@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 2
+- code: unsupported_link
+  element: a
+  target: mailto:cartomanie@qc.aira.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:multizone@bellnet.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:decarie@cartamagica.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:soussolhobby@videotron.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:dhoom_god@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@heylecomic.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:Info@boutiquelechevalier.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:anneaux@anneaux.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mordus08@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:menardcomics@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:lecoindulivre@videotron.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:orthanc@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@imaginaire.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@boutique-mobius.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:fullpa@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:collectedition@gmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@lageekshop.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:dominictremblay98@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:niddduragon@hotmail.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:freegame@sympatico.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@galandorium.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@portaildujeu.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:info@ramjaksports.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:trampspa@sasktel.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:readers2@sasktel.net
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:mrduck@shaw.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:amazingstories@mac.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:chrisr005@trampscomicsandgames.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:thepatman@shaw.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:dragonsdengames@shaw.ca
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: mailto:shawn_titan@hotmail.com
+  reason: The archived link opens an email client. The preview kept its text.
+  labels:
+  - Email
+  occurrences: 1
+---
+### [United States](#us) | [Canada](#canada) | [Other](https://web.archive.org/web/20130521095849/http://www.wizards.com/magic/tcg/events.aspx?x=mtg/daily/events/dgmbuyaboxpromolocations/other)
+
+ 
+
+### United States
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <a href="/en/articles/event-coverage/undated/dragons-maze-booster-box-promotion-locations">&#10;        <b>Location</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/en/articles/event-coverage/undated/dragons-maze-booster-box-promotion-locations">&#10;        <b>Address</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/en/articles/event-coverage/undated/dragons-maze-booster-box-promotion-locations">&#10;        <b>City</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/en/articles/event-coverage/undated/dragons-maze-booster-box-promotion-locations">&#10;        <b>State</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/en/articles/event-coverage/undated/dragons-maze-booster-box-promotion-locations">&#10;        <b>Zip Code</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/en/articles/event-coverage/undated/dragons-maze-booster-box-promotion-locations">&#10;        <b>Phone</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/en/articles/event-coverage/undated/dragons-maze-booster-box-promotion-locations">&#10;        <b>Email</b>&#10;      </a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Downtown Books</td>&#10;    <td>5 Salmon Landing Ste 214</td>&#10;    <td>Ketchikan</td>&#10;    <td>AK</td>&#10;    <td>99901</td>&#10;    <td>907-225-2665</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Bosco's</td>&#10;    <td>2606 Spenard Rd </td>&#10;    <td>Anchorage</td>&#10;    <td>AK</td>&#10;    <td>99503-2309</td>&#10;    <td>907-274-4112</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Tier 1 Cards &amp; Games</td>&#10;    <td>1921 W Diamond Blvd Ste B-3</td>&#10;    <td>Anchorage</td>&#10;    <td>AK</td>&#10;    <td>99515</td>&#10;    <td>907-929-7878</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comic Shop, The</td>&#10;    <td>418 3rd St </td>&#10;    <td>Fairbanks</td>&#10;    <td>AK</td>&#10;    <td>99701</td>&#10;    <td>907-452-5780</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Metagame, The</td>&#10;    <td>619 S Knik Goose Bay Rd Ste C</td>&#10;    <td>Wasilla</td>&#10;    <td>AK</td>&#10;    <td>99654</td>&#10;    <td>907-414-1998</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Top End Gaming</td>&#10;    <td>902 20th St </td>&#10;    <td>Haleyville</td>&#10;    <td>AL</td>&#10;    <td>35565</td>&#10;    <td>205-269-4090</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Foundry, The</td>&#10;    <td>7914 Memorial Pkwy SW </td>&#10;    <td>Huntsville</td>&#10;    <td>AL</td>&#10;    <td>35802</td>&#10;    <td>256-213-7467</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Quality Collectibles</td>&#10;    <td>541 Hwy 78 W </td>&#10;    <td>Jasper</td>&#10;    <td>AL</td>&#10;    <td>35501</td>&#10;    <td>205-295-9621</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comic Shop, The</td>&#10;    <td>1815 D 6th Ave SE </td>&#10;    <td>Decatur</td>&#10;    <td>AL</td>&#10;    <td>35601</td>&#10;    <td>256-351-0225</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Fanatix</td>&#10;    <td>2855 Ross Clark Cir Ste 113</td>&#10;    <td>Dothan</td>&#10;    <td>AL</td>&#10;    <td>36301</td>&#10;    <td>334-446-0178</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Crimson Castle Chess &amp; Games</td>&#10;    <td>618 15th St </td>&#10;    <td>Tuscaloosa</td>&#10;    <td>AL</td>&#10;    <td>35401</td>&#10;    <td>205-758-6402</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Haven Comics</td>&#10;    <td>1871-S Slaughter Road </td>&#10;    <td>Madison</td>&#10;    <td>AL</td>&#10;    <td>35758</td>&#10;    <td>256-430-0505</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dragon Quills</td>&#10;    <td>506 Broad St </td>&#10;    <td>Gadsden</td>&#10;    <td>AL</td>&#10;    <td>35901</td>&#10;    <td>256-549-1979</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Empire Comics</td>&#10;    <td>414 Glover Ave </td>&#10;    <td>Enterprise</td>&#10;    <td>AL</td>&#10;    <td>36330</td>&#10;    <td>334-308-1204</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Munford Cards &amp; Games</td>&#10;    <td>485 Lions Road </td>&#10;    <td>Munford</td>&#10;    <td>AL</td>&#10;    <td>36268</td>&#10;    <td>256-358-4548</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>CJ Cards &amp; Games - Hoover</td>&#10;    <td>5192 Caldwell Mill Rd Ste 103</td>&#10;    <td>Hoover</td>&#10;    <td>AL</td>&#10;    <td>35244</td>&#10;    <td>205-980-3041</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>All American Sports Cards and Comics</td>&#10;    <td>106 S Water St </td>&#10;    <td>Tuscumbia</td>&#10;    <td>AL</td>&#10;    <td>35674</td>&#10;    <td>256-381-0007</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Wiregrass Cards</td>&#10;    <td>412 E Andrews Ave </td>&#10;    <td>Ozark</td>&#10;    <td>AL</td>&#10;    <td>36360</td>&#10;    <td>334-403-8837</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Visions Cards &amp; Games</td>&#10;    <td>107 N Burbank Drive </td>&#10;    <td>Montgomery</td>&#10;    <td>AL</td>&#10;    <td>36117</td>&#10;    <td>334-215-3334</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Excelsior</td>&#10;    <td>3150 B Lorna Rd </td>&#10;    <td>Hoover</td>&#10;    <td>AL</td>&#10;    <td>35216</td>&#10;    <td>205-822-0227</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Bud's Place</td>&#10;    <td>8044 Parkway Drive </td>&#10;    <td>Leeds</td>&#10;    <td>AL</td>&#10;    <td>35094</td>&#10;    <td>205-699-1066</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gamers N Geeks</td>&#10;    <td>6710 Old Shell Rd Ste A</td>&#10;    <td>Mobile</td>&#10;    <td>AL</td>&#10;    <td>36608</td>&#10;    <td>251-725-6640</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>FCB Comics &amp; Games</td>&#10;    <td>650 Creekside Dr </td>&#10;    <td>Oxford</td>&#10;    <td>AL</td>&#10;    <td>36203</td>&#10;    <td>256-770-7180</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>House of Cards</td>&#10;    <td>951 Schillinger Rd N </td>&#10;    <td>Mobile</td>&#10;    <td>AL</td>&#10;    <td>36608</td>&#10;    <td>251-202-4545</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Deep Comics &amp; Games, The</td>&#10;    <td>2312 Memorial Pkwy SW Ste A</td>&#10;    <td>Huntsville</td>&#10;    <td>AL</td>&#10;    <td>35801</td>&#10;    <td>256-532-1292</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Legion</td>&#10;    <td>3248 Cahaba Hieghts Road </td>&#10;    <td>Birmingham</td>&#10;    <td>AL</td>&#10;    <td>35243</td>&#10;    <td>205-970-0999</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>CJ Sports Cards</td>&#10;    <td>790 Montgomery Hwy Ste 116</td>&#10;    <td>Vestavia Hills</td>&#10;    <td>AL</td>&#10;    <td>35216</td>&#10;    <td>205-822-0408</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Mini War Games</td>&#10;    <td>210 Fairhope Ave </td>&#10;    <td>Fairhope</td>&#10;    <td>AL</td>&#10;    <td>36532</td>&#10;    <td>251-279-0204</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Mad Doctor</td>&#10;    <td>1318 20th St S Ste 100</td>&#10;    <td>Birmingham</td>&#10;    <td>AL</td>&#10;    <td>35205</td>&#10;    <td>205-933-0154</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Static Age Games &amp; Comics</td>&#10;    <td>655 US HWY 72 W </td>&#10;    <td>Athens</td>&#10;    <td>AL</td>&#10;    <td>35611</td>&#10;    <td>256-262-9034</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Big Hit Sports Cards</td>&#10;    <td>6450 Hwy 90 Ste L</td>&#10;    <td>Spanish Fort</td>&#10;    <td>AL</td>&#10;    <td>36527</td>&#10;    <td>251-626-5050</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>FTW</td>&#10;    <td>2209 County Road 41 </td>&#10;    <td>Florence</td>&#10;    <td>AL</td>&#10;    <td>35633</td>&#10;    <td>256-335-3357</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Top Games</td>&#10;    <td>1058 Main St </td>&#10;    <td>Gardendale</td>&#10;    <td>AL</td>&#10;    <td>35071</td>&#10;    <td>205-285-8500</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gaming, Etc</td>&#10;    <td>12155B Hwy 35 W </td>&#10;    <td>Fort Payne</td>&#10;    <td>AL</td>&#10;    <td>35968</td>&#10;    <td>256-996-4236</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Lenlock Hobbies</td>&#10;    <td>5818 Mcclellan Blvd Ste 8 </td>&#10;    <td>Anniston</td>&#10;    <td>AL</td>&#10;    <td>36206</td>&#10;    <td>256-820-7304</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>HobbyTown USA</td>&#10;    <td>1550 Opelika Rd Ste 23</td>&#10;    <td>Auburn</td>&#10;    <td>AL</td>&#10;    <td>36830</td>&#10;    <td>334-826-8216</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Zone Alpha - Beebe</td>&#10;    <td>1502 Dewitt Henry Dr Ste B</td>&#10;    <td>Beebe</td>&#10;    <td>AR</td>&#10;    <td>72012</td>&#10;    <td>501-246-1185</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Cybersharkz</td>&#10;    <td>1403 W Main St </td>&#10;    <td>Clarksville</td>&#10;    <td>AR</td>&#10;    <td>72830</td>&#10;    <td>479-647-9771</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Goblins</td>&#10;    <td>1101 S Bowman Rd Ste A3</td>&#10;    <td>Little Rock</td>&#10;    <td>AR</td>&#10;    <td>72211</td>&#10;    <td>501-224-4263</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Curiosity Shoppe, The</td>&#10;    <td>821 N 10th </td>&#10;    <td>Fort Smith</td>&#10;    <td>AR</td>&#10;    <td>72901</td>&#10;    <td>479-782-6373</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Griffin Games</td>&#10;    <td>1100 Hwy 71 N Ste G</td>&#10;    <td>Mena</td>&#10;    <td>AR</td>&#10;    <td>71953</td>&#10;    <td>479-394-6400</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Double Header Video Games &amp; Hobbies</td>&#10;    <td>5316 Dollarway Rd Ste C</td>&#10;    <td>Pine Bluff</td>&#10;    <td>AR</td>&#10;    <td>71602</td>&#10;    <td>870-247-5966</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>BEARS by the Maul</td>&#10;    <td>6302 Wilkerson Ste E</td>&#10;    <td>Fayetteville</td>&#10;    <td>AR</td>&#10;    <td>72704</td>&#10;    <td>501-291-3816</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Imagine! Hobbies &amp; Games</td>&#10;    <td>8122 Kennedy Blvd Ste C</td>&#10;    <td>Sherwood</td>&#10;    <td>AR</td>&#10;    <td>72120</td>&#10;    <td>501-833-3423</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gamer Utopia, The</td>&#10;    <td>100 N Dixieland Rd Ste A6-7</td>&#10;    <td>Rogers</td>&#10;    <td>AR</td>&#10;    <td>72756</td>&#10;    <td>479-202-5177</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Xplode Technologies</td>&#10;    <td>2505 S Thompson St Ste 8</td>&#10;    <td>Springdale</td>&#10;    <td>AR</td>&#10;    <td>72764</td>&#10;    <td>479-966-9832</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Mage's Tavern, The</td>&#10;    <td>2410 E Pkwy Dr Ste 2</td>&#10;    <td>Russellville</td>&#10;    <td>AR</td>&#10;    <td>72801</td>&#10;    <td>479-223-9176</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Portal, The</td>&#10;    <td>1106 Hwy 62 E Ste 1</td>&#10;    <td>Mountain Home</td>&#10;    <td>AR</td>&#10;    <td>72653</td>&#10;    <td>870-424-9090</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Zone Alpha</td>&#10;    <td>620 W Main St </td>&#10;    <td>Jacksonville</td>&#10;    <td>AR</td>&#10;    <td>72076</td>&#10;    <td>501-985-4263</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hawghead Comics</td>&#10;    <td>1600 S Greenwood Ave </td>&#10;    <td>Fort Smith</td>&#10;    <td>AR</td>&#10;    <td>72901</td>&#10;    <td>479-783-6008</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Bat Cave, The</td>&#10;    <td>1155 N Front St Ste 5</td>&#10;    <td>Conway</td>&#10;    <td>AR</td>&#10;    <td>72032</td>&#10;    <td>501-329-2939</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Manawerx East</td>&#10;    <td>933 E University Dr Ste 110</td>&#10;    <td>Tempe</td>&#10;    <td>AZ</td>&#10;    <td>85281</td>&#10;    <td>480-584-6427</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Pyrimid Comics &amp; Games</td>&#10;    <td>108 W Fry Blvd </td>&#10;    <td>Sierra Vista</td>&#10;    <td>AZ</td>&#10;    <td>85635</td>&#10;    <td>520-458-2786</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Heroes &amp; Villains - Tucson</td>&#10;    <td>4533 E Broadway Blvd </td>&#10;    <td>Tucson</td>&#10;    <td>AZ</td>&#10;    <td>85711</td>&#10;    <td>520-321-4376</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gamers Trading Post</td>&#10;    <td>947 Fair St </td>&#10;    <td>Prescott</td>&#10;    <td>AZ</td>&#10;    <td>86301</td>&#10;    <td>928-273-6433</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hot Ace Comics &amp; Collectibles</td>&#10;    <td>10839 E Apache Trl Ste 131</td>&#10;    <td>Apache Junction</td>&#10;    <td>AZ</td>&#10;    <td>85120</td>&#10;    <td>480-582-6642</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Empire Games</td>&#10;    <td>1766 S Greenfield Rd </td>&#10;    <td>Mesa</td>&#10;    <td>AZ</td>&#10;    <td>85206</td>&#10;    <td>480-813-1525</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Geekery, The</td>&#10;    <td>1800 S Milton Rd Ste 110 &amp; 111</td>&#10;    <td>Flagstaff</td>&#10;    <td>AZ</td>&#10;    <td>86001</td>&#10;    <td>928-225-5803</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Howie's Game Shack - Mesa</td>&#10;    <td>1033 N Dobson Rd Ste 110</td>&#10;    <td>Mesa</td>&#10;    <td>AZ</td>&#10;    <td>85201</td>&#10;    <td>480-248-2507</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Orbital Games Cafe</td>&#10;    <td>691 E Fry Blvd. </td>&#10;    <td>Sierra Vista</td>&#10;    <td>AZ</td>&#10;    <td>85635</td>&#10;    <td>520-335-2440</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Daze - Park Place</td>&#10;    <td>5870 E Broadway Blvd Ste 258</td>&#10;    <td>Tucson</td>&#10;    <td>AZ</td>&#10;    <td>85711</td>&#10;    <td>520-745-0468</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Daze - Mesa</td>&#10;    <td>6555 E Southern Ave </td>&#10;    <td>Mesa</td>&#10;    <td>AZ</td>&#10;    <td>85206</td>&#10;    <td>480-981-4850</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gotham City Comics &amp; Coffee</td>&#10;    <td>46 W Main </td>&#10;    <td>Mesa</td>&#10;    <td>AZ</td>&#10;    <td>85201</td>&#10;    <td>480-649-3065</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Amazing Discoveries</td>&#10;    <td>2410 E Broadway Blvd </td>&#10;    <td>Tucson</td>&#10;    <td>AZ</td>&#10;    <td>85719</td>&#10;    <td>520-320-0338</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Samurai Comics - Central</td>&#10;    <td>1051 E Camelback Rd </td>&#10;    <td>Phoenix</td>&#10;    <td>AZ</td>&#10;    <td>85014</td>&#10;    <td>602-265-8886</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gamer's Inn</td>&#10;    <td>1232 E Southern Ave </td>&#10;    <td>Mesa</td>&#10;    <td>AZ</td>&#10;    <td>85204</td>&#10;    <td>480-507-0509</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>ManaWerx</td>&#10;    <td>4920 W Thunderbird #122</td>&#10;    <td>Glendale</td>&#10;    <td>AZ</td>&#10;    <td>85306</td>&#10;    <td>602-795-7333</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>A2Z Games</td>&#10;    <td>4235 W Ina Rd Ste 111</td>&#10;    <td>Tucson</td>&#10;    <td>AZ</td>&#10;    <td>85741</td>&#10;    <td>520-989-3455</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game On</td>&#10;    <td>2982 N Park Ave Ste D</td>&#10;    <td>Prescott Valley</td>&#10;    <td>AZ</td>&#10;    <td>86314</td>&#10;    <td>928-554-3649</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Desert Sky Games</td>&#10;    <td>2531 S Gilbert Rd Ste 106</td>&#10;    <td>Gilbert</td>&#10;    <td>AZ</td>&#10;    <td>85295</td>&#10;    <td>602-615-5214</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Samurai Comics - Mesa</td>&#10;    <td>1120 S Country Club Dr Ste 107</td>&#10;    <td>Mesa</td>&#10;    <td>AZ</td>&#10;    <td>85210</td>&#10;    <td>480-962-1123</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Depot, The</td>&#10;    <td>3136 S. McClintock Dr. #11 </td>&#10;    <td>Tempe</td>&#10;    <td>AZ</td>&#10;    <td>85282</td>&#10;    <td>480-966-4727</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Rookies 2 Legends</td>&#10;    <td>4920 W Thunderbird Ste 123</td>&#10;    <td>Glendale</td>&#10;    <td>AZ</td>&#10;    <td>85306</td>&#10;    <td>602-795-7333</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Cab Comics</td>&#10;    <td>1471 S Milton Rd </td>&#10;    <td>Flagstaff</td>&#10;    <td>AZ</td>&#10;    <td>86001</td>&#10;    <td>928-774-1655</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Samurai Comics - West</td>&#10;    <td>10720 W Indian School Rd Ste 61</td>&#10;    <td>Phoenix</td>&#10;    <td>AZ</td>&#10;    <td>85037</td>&#10;    <td>623-872-8886</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Bad Moons Gaming</td>&#10;    <td>2015 W Apache Trail Ste A</td>&#10;    <td>Apache Junction</td>&#10;    <td>AZ</td>&#10;    <td>85120</td>&#10;    <td>480-983-1060</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Arena Games, The</td>&#10;    <td>1350 S 3rd Ave </td>&#10;    <td>Yuma</td>&#10;    <td>AZ</td>&#10;    <td>85364</td>&#10;    <td>928-488-2009</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Moose Cave, The</td>&#10;    <td>181 E McNeil </td>&#10;    <td>Show Low</td>&#10;    <td>AZ</td>&#10;    <td>85901</td>&#10;    <td>928-537-5537</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Crusader's Retreat</td>&#10;    <td>13825 N 32nd St Ste 11</td>&#10;    <td>Phoenix</td>&#10;    <td>AZ</td>&#10;    <td>85032</td>&#10;    <td>602-482-3156</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Pop Culture Paradise</td>&#10;    <td>715 S. Forest Ave </td>&#10;    <td>Tempe</td>&#10;    <td>AZ</td>&#10;    <td>85281</td>&#10;    <td>480-557-6640</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hero Comics</td>&#10;    <td>3415 W. Thunderbird Rd. #1 </td>&#10;    <td>Phoenix</td>&#10;    <td>AZ</td>&#10;    <td>85308</td>&#10;    <td>602-843-6320</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Showtime Cards</td>&#10;    <td>5801 E. Speedway </td>&#10;    <td>Tucson</td>&#10;    <td>AZ</td>&#10;    <td>85712</td>&#10;    <td>520-296-5512</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Daze - Tucson</td>&#10;    <td>4500 N Oracle Rd Ste 166</td>&#10;    <td>Tucson</td>&#10;    <td>AZ</td>&#10;    <td>85705</td>&#10;    <td>520-293-7940</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>JJ's Game Lounge</td>&#10;    <td>10174 Mason Ave </td>&#10;    <td>Chatsworth</td>&#10;    <td>CA</td>&#10;    <td>91311</td>&#10;    <td>818-717-8558</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>GameQore</td>&#10;    <td>107 E Main St </td>&#10;    <td>Visalia</td>&#10;    <td>CA</td>&#10;    <td>93291</td>&#10;    <td>559-732-3969</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Chibi Chibi Otaku</td>&#10;    <td>2623 Saturn Ave </td>&#10;    <td>Huntington Park</td>&#10;    <td>CA</td>&#10;    <td>90255</td>&#10;    <td>323-895-4090</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>RDD Raceway Hobbies</td>&#10;    <td>1301 W Olive Ave Ste E</td>&#10;    <td>Madera</td>&#10;    <td>CA</td>&#10;    <td>93637</td>&#10;    <td>559-673-3644</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>HobbyTown USA - Folsom</td>&#10;    <td>2761 East Bidwell St Ste 400</td>&#10;    <td>Folsom</td>&#10;    <td>CA</td>&#10;    <td>95630</td>&#10;    <td>916-984-6266</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Cosmic Odyssey</td>&#10;    <td>1235 Highland Ave </td>&#10;    <td>National City</td>&#10;    <td>CA</td>&#10;    <td>91950</td>&#10;    <td>619-773-7195</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Kastle - Fremont</td>&#10;    <td>3911 Washington Blvd </td>&#10;    <td>Fremont</td>&#10;    <td>CA</td>&#10;    <td>94538</td>&#10;    <td>510-651-4263</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comic Book Hideout</td>&#10;    <td>1105 S Lemon St </td>&#10;    <td>Fullerton</td>&#10;    <td>CA</td>&#10;    <td>92832</td>&#10;    <td>714-350-5211</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Galaxy of Comics</td>&#10;    <td>17306 Saticoy </td>&#10;    <td>Van Nuys</td>&#10;    <td>CA</td>&#10;    <td>91406</td>&#10;    <td>818-578-8559</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Buddhabears Comics &amp; Collectibles</td>&#10;    <td>3534 Mt Pinos Way </td>&#10;    <td>Frazier Park</td>&#10;    <td>CA</td>&#10;    <td>93225</td>&#10;    <td>661-245-1150</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>B &amp; B Booksellers</td>&#10;    <td>PO Box 1807 </td>&#10;    <td>Chester</td>&#10;    <td>CA</td>&#10;    <td>96020</td>&#10;    <td>530-258-2150</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>BST Games</td>&#10;    <td>244 E Bellevue Rd </td>&#10;    <td>Atwater</td>&#10;    <td>CA</td>&#10;    <td>95301</td>&#10;    <td>209-812-4311</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>GMI Games &amp; Collectables</td>&#10;    <td>8300 Limonite Ave Ste F</td>&#10;    <td>Riverside</td>&#10;    <td>CA</td>&#10;    <td>92509</td>&#10;    <td>951-681-8270</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Mythic Games</td>&#10;    <td>145 S River St Ste B</td>&#10;    <td>Santa Cruz</td>&#10;    <td>CA</td>&#10;    <td>95060</td>&#10;    <td>831-600-7451</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Baseball Cards &amp; Memorabilia</td>&#10;    <td>5681 Redwood Dr Ste 12</td>&#10;    <td>Rohnert Park</td>&#10;    <td>CA</td>&#10;    <td>94928</td>&#10;    <td>707-584-4001</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comic Odyssey</td>&#10;    <td>319 S. Arroyo Parkway STE 3 </td>&#10;    <td>Pasadena</td>&#10;    <td>CA</td>&#10;    <td>91105</td>&#10;    <td>626-577-6696</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>A Hidden Fortress</td>&#10;    <td>1960-9 Sequoia Ave </td>&#10;    <td>Simi Valley</td>&#10;    <td>CA</td>&#10;    <td>93063</td>&#10;    <td>805-526-6457</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Pair A Dice Games</td>&#10;    <td>2020 Hacienda Dr Ste A</td>&#10;    <td>Vista</td>&#10;    <td>CA</td>&#10;    <td>92081</td>&#10;    <td>760-940-0139</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Illusive Comics &amp; Cards</td>&#10;    <td>2725 El Camino Real Ste 105</td>&#10;    <td>Santa Clara</td>&#10;    <td>CA</td>&#10;    <td>95051</td>&#10;    <td>408-985-7481</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Big Brother Comics</td>&#10;    <td>1722 J St </td>&#10;    <td>Sacramento</td>&#10;    <td>CA</td>&#10;    <td>95814</td>&#10;    <td>916-441-6461</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Brookhurst Hobbies</td>&#10;    <td>12188 Brookhurst St </td>&#10;    <td>Garden Grove</td>&#10;    <td>CA</td>&#10;    <td>92840</td>&#10;    <td>714-636-3580</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Collector's Paradise</td>&#10;    <td>7131 Winnetka Ave </td>&#10;    <td>Winnetka</td>&#10;    <td>CA</td>&#10;    <td>91306</td>&#10;    <td>818-999-9455</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Krier's Cards &amp; Comics</td>&#10;    <td>3900 Pelandale Ave Ste 305</td>&#10;    <td>Modesto</td>&#10;    <td>CA</td>&#10;    <td>95356</td>&#10;    <td>209-522-0511</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Realm Games &amp; Comics, The</td>&#10;    <td>1033 E Imperial Hwy Ste E3</td>&#10;    <td>Brea</td>&#10;    <td>CA</td>&#10;    <td>92821</td>&#10;    <td>714-990-8450</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>A &amp; N Sports Cards</td>&#10;    <td>105 W Arrow Hwy Ste 2</td>&#10;    <td>San Dimas</td>&#10;    <td>CA</td>&#10;    <td>91773</td>&#10;    <td>909-394-2375</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Battlegrounds - Lancaster</td>&#10;    <td>755 W Lancaster Blvd </td>&#10;    <td>Lancaster</td>&#10;    <td>CA</td>&#10;    <td>93534</td>&#10;    <td>661-951-3839</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Bullpen, The</td>&#10;    <td>7727 N First St </td>&#10;    <td>Fresno</td>&#10;    <td>CA</td>&#10;    <td>93720</td>&#10;    <td>559-436-1102</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>4 Color Fantasies</td>&#10;    <td>7172 Archibald Ave </td>&#10;    <td>Rancho Cucamonga</td>&#10;    <td>CA</td>&#10;    <td>91701</td>&#10;    <td>909-563-8751</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Villainous Lair Gaming</td>&#10;    <td>3342 Adams Ave </td>&#10;    <td>San Diego</td>&#10;    <td>CA</td>&#10;    <td>92116</td>&#10;    <td>619-281-1600</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Ogre, The</td>&#10;    <td>19524 Nordhoff St Ste 1</td>&#10;    <td>Northridge</td>&#10;    <td>CA</td>&#10;    <td>91324</td>&#10;    <td>818-341-8040</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Three J's Sportscards</td>&#10;    <td>1231 S Euclid </td>&#10;    <td>Anaheim</td>&#10;    <td>CA</td>&#10;    <td>92802</td>&#10;    <td>714-758-3803</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Epic Games Comics &amp; Collectibles</td>&#10;    <td>9299 Thornton Rd Ste 4</td>&#10;    <td>Stockton</td>&#10;    <td>CA</td>&#10;    <td>95209</td>&#10;    <td>209-952-9303</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Collector's Paradise</td>&#10;    <td>1075 E. Bullard #104 </td>&#10;    <td>Fresno</td>&#10;    <td>CA</td>&#10;    <td>93710</td>&#10;    <td>559-439-3511</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gamescape</td>&#10;    <td>333 Divisidero St </td>&#10;    <td>San Francisco</td>&#10;    <td>CA</td>&#10;    <td>94117</td>&#10;    <td>415-621-4263</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Legacy Comics &amp; Cards</td>&#10;    <td>123 W Wilson Ave </td>&#10;    <td>Glendale</td>&#10;    <td>CA</td>&#10;    <td>91203-2605</td>&#10;    <td>818-247-8803</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Villainous Lair Comics</td>&#10;    <td>3371 Adams Ave </td>&#10;    <td>San Diego</td>&#10;    <td>CA</td>&#10;    <td>92116</td>&#10;    <td>619-487-1340</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Knight Ware</td>&#10;    <td>3709 Cahuenga Blvd W </td>&#10;    <td>Studio City</td>&#10;    <td>CA</td>&#10;    <td>91604</td>&#10;    <td>818-769-7830</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comic Cult - Norwalk</td>&#10;    <td>12329 Imperial Hwy Ste C8</td>&#10;    <td>Norwalk</td>&#10;    <td>CA</td>&#10;    <td>90650</td>&#10;    <td>562-868-2772</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Cry Havoc Gaming</td>&#10;    <td>5671 Historic Plaza </td>&#10;    <td>Twentynine Palms</td>&#10;    <td>CA</td>&#10;    <td>92277</td>&#10;    <td>760-361-1780</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Great Escape Games</td>&#10;    <td>1250 Howe Ave Ste 3A</td>&#10;    <td>Sacramento</td>&#10;    <td>CA</td>&#10;    <td>95825</td>&#10;    <td>916-927-0810</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>BJ's Cards &amp; Collectibles</td>&#10;    <td>45 S Washington St </td>&#10;    <td>Sonora</td>&#10;    <td>CA</td>&#10;    <td>95370</td>&#10;    <td>209-533-0823</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>X-Tream Game Pit</td>&#10;    <td>2122 Brundage Ln </td>&#10;    <td>Bakersfield</td>&#10;    <td>CA</td>&#10;    <td>93304</td>&#10;    <td>661-323-4263</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Two Cats Comic Book Store</td>&#10;    <td>320 W Portal Ave </td>&#10;    <td>San Francisco</td>&#10;    <td>CA</td>&#10;    <td>94127</td>&#10;    <td>415-566-8190</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Epic Adventure Games</td>&#10;    <td>222 Mt Hermon Rd Ste A</td>&#10;    <td>Scotts Valley</td>&#10;    <td>CA</td>&#10;    <td>95066</td>&#10;    <td>831-438-2032</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gator Games &amp; Hobby</td>&#10;    <td>4212 Olympic Ave </td>&#10;    <td>San Mateo</td>&#10;    <td>CA</td>&#10;    <td>94403</td>&#10;    <td>650-571-7529</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Space Cat Comics &amp; Cards</td>&#10;    <td>536 S Bascom Ave </td>&#10;    <td>San Jose</td>&#10;    <td>CA</td>&#10;    <td>95128-2211</td>&#10;    <td>408-280-7257</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>JB Sports</td>&#10;    <td>78115 Calle Estado Ste 102</td>&#10;    <td>La Quita</td>&#10;    <td>CA</td>&#10;    <td>92253</td>&#10;    <td>760-771-2600</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Tier1 Games</td>&#10;    <td>28860 Old Town Front St Ste B-2</td>&#10;    <td>Temecula</td>&#10;    <td>CA</td>&#10;    <td>92590</td>&#10;    <td>951-694-8437</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Kastle - Santa Clara</td>&#10;    <td>1350 Coleman Ave. </td>&#10;    <td>Santa Clara</td>&#10;    <td>CA</td>&#10;    <td>95050</td>&#10;    <td>408-243-4263</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Undercity</td>&#10;    <td>11219 1st. Ave. </td>&#10;    <td>Whittier</td>&#10;    <td>CA</td>&#10;    <td>90603</td>&#10;    <td>562-902-0162</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Zone</td>&#10;    <td>1013 Robertson Blvd </td>&#10;    <td>Chowchilla</td>&#10;    <td>CA</td>&#10;    <td>93610</td>&#10;    <td>559-201-9215</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comic Bug, The</td>&#10;    <td>1807 Manhattan Beach Blvd </td>&#10;    <td>Manhattan Beach</td>&#10;    <td>CA</td>&#10;    <td>90266</td>&#10;    <td>310-372-6704</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>PJ's Sports Center</td>&#10;    <td>1324 3rd Ave Ste 3</td>&#10;    <td>Chula vista</td>&#10;    <td>CA</td>&#10;    <td>91911</td>&#10;    <td>619-420-8176</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Freebooterz.Net</td>&#10;    <td>245 Price Mall </td>&#10;    <td>Crescent City</td>&#10;    <td>CA</td>&#10;    <td>95531</td>&#10;    <td>707-464-0061</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>HobbyTown USA - Petaluma</td>&#10;    <td>171 N McDowel Blvd </td>&#10;    <td>Petaluma</td>&#10;    <td>CA</td>&#10;    <td>94954</td>&#10;    <td>707-762-2176</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Orbit Comics</td>&#10;    <td>115 S San Gabriel Blvd </td>&#10;    <td>San Gabriel</td>&#10;    <td>CA</td>&#10;    <td>91776</td>&#10;    <td>626-237-0099</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Alot Toys &amp; Games</td>&#10;    <td>835 Front St </td>&#10;    <td>Santa Cruz</td>&#10;    <td>CA</td>&#10;    <td>95060</td>&#10;    <td>831-429-9009</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comic Cards Etc</td>&#10;    <td>2529 San Pablo Ave Ste A</td>&#10;    <td>Pinole</td>&#10;    <td>CA</td>&#10;    <td>94564</td>&#10;    <td>510-724-7587</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Brave New World</td>&#10;    <td>22722 Lyons Ave Ste 6</td>&#10;    <td>Newhall</td>&#10;    <td>CA</td>&#10;    <td>91321</td>&#10;    <td>661-259-4745</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gamer's Realm</td>&#10;    <td>1526 N Palm Ave </td>&#10;    <td>Fresno</td>&#10;    <td>CA</td>&#10;    <td>93728</td>&#10;    <td>559-266-4263</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Card Rush</td>&#10;    <td>12096 Brookhurst St </td>&#10;    <td>Garden Grove</td>&#10;    <td>CA</td>&#10;    <td>92840</td>&#10;    <td>714-537-2455</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hypno Comics &amp; Games</td>&#10;    <td>1803 E Main St </td>&#10;    <td>Ventura</td>&#10;    <td>CA</td>&#10;    <td>93001</td>&#10;    <td>805-651-9767</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Triple Crown Comic Card Collectibles</td>&#10;    <td>1671 Anaheim St </td>&#10;    <td>Harbor City</td>&#10;    <td>CA</td>&#10;    <td>90710</td>&#10;    <td>310-326-8967</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>The Book Juggler</td>&#10;    <td>182 S. Main Street </td>&#10;    <td>Willits</td>&#10;    <td>CA</td>&#10;    <td>95490</td>&#10;    <td>707-459-4075</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Metropolis Comix</td>&#10;    <td>8241 Bruceville Rd </td>&#10;    <td>Sacramento</td>&#10;    <td>CA</td>&#10;    <td>95823</td>&#10;    <td>916-689-2009</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Stone Leaf</td>&#10;    <td>411 Main St </td>&#10;    <td>Quincy</td>&#10;    <td>CA</td>&#10;    <td>95971</td>&#10;    <td>530-283-9809</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>North Coast Role Playing</td>&#10;    <td>1846 Broadway </td>&#10;    <td>Eureka</td>&#10;    <td>CA</td>&#10;    <td>95501</td>&#10;    <td>707-444-2288</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>D1 Sports</td>&#10;    <td>2775 Highland Ave Ste 103</td>&#10;    <td>Selma</td>&#10;    <td>CA</td>&#10;    <td>93662</td>&#10;    <td>559-896-5383</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Metro Entertainment</td>&#10;    <td>6 W Anapamu St </td>&#10;    <td>Santa Barbara</td>&#10;    <td>CA</td>&#10;    <td>93101-3108</td>&#10;    <td>805-963-2168</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comic Grapevine</td>&#10;    <td>9 West Pine St </td>&#10;    <td>Lodi</td>&#10;    <td>CA</td>&#10;    <td>95240</td>&#10;    <td>209-368-1096</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Russo's Books &amp; Sports Collectibles</td>&#10;    <td>9000 Ming Ave Ste I-4 </td>&#10;    <td>Bakersfield</td>&#10;    <td>CA</td>&#10;    <td>93311</td>&#10;    <td>661-665-4686</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Otto's Video Games &amp; More</td>&#10;    <td>7701 White Ln Ste A1</td>&#10;    <td>Bakersfield</td>&#10;    <td>CA</td>&#10;    <td>93309</td>&#10;    <td>661-381-7686</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Bat Comics &amp; Games</td>&#10;    <td>218 Broadway St </td>&#10;    <td>Chico</td>&#10;    <td>CA</td>&#10;    <td>95928</td>&#10;    <td>530-898-0550</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comics &amp; Collectibles</td>&#10;    <td>1904 Fruitridge Rd </td>&#10;    <td>Sacramento</td>&#10;    <td>CA</td>&#10;    <td>95822-3115</td>&#10;    <td>916-392-2467</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Beach Ball Comics</td>&#10;    <td>3024 W Ball Rd Ste G</td>&#10;    <td>Anaheim</td>&#10;    <td>CA</td>&#10;    <td>92804-3881</td>&#10;    <td>714-826-6127</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Howie's Game Shack - Mission Viejo</td>&#10;    <td>27741 Crown Valley Pkwy Ste 223</td>&#10;    <td>Mission Viejo</td>&#10;    <td>CA</td>&#10;    <td>92691</td>&#10;    <td>949-309-3424</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>I E Comics &amp; Games</td>&#10;    <td>2807 W Florida Ave </td>&#10;    <td>Hemet</td>&#10;    <td>CA</td>&#10;    <td>92545</td>&#10;    <td>951-378-9021</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Jimmys USA Sportscards</td>&#10;    <td>12327 Whittier Blvd </td>&#10;    <td>Whittier</td>&#10;    <td>CA</td>&#10;    <td>90602</td>&#10;    <td>562-688-4735</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Magic &amp; Monsters</td>&#10;    <td>24001 Via Fabricante Unit 906</td>&#10;    <td>Mission Viejo</td>&#10;    <td>CA</td>&#10;    <td>92691</td>&#10;    <td>949-829-9809</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>ChannelFireball Game Center</td>&#10;    <td>1650 Coleman Ave </td>&#10;    <td>Santa Clara</td>&#10;    <td>CA</td>&#10;    <td>95050</td>&#10;    <td>408-777-8277</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Legends Comics &amp; Games</td>&#10;    <td>10123 N Wolfe Rd Ste 2108 </td>&#10;    <td>Cupertino</td>&#10;    <td>CA</td>&#10;    <td>95014</td>&#10;    <td>408-253-2643</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>San Diego Games &amp; Comics</td>&#10;    <td>9910 Mira Mesa Blvd Ste C</td>&#10;    <td>San Diego</td>&#10;    <td>CA</td>&#10;    <td>92131</td>&#10;    <td>858-566-0506</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Anime Imports</td>&#10;    <td>1305 Palmetto Ave Ste C</td>&#10;    <td>Pacifica</td>&#10;    <td>CA</td>&#10;    <td>94044</td>&#10;    <td>650-488-7900</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Eudemonia</td>&#10;    <td>2154 University Ave </td>&#10;    <td>Berkeley</td>&#10;    <td>CA</td>&#10;    <td>94704</td>&#10;    <td>510-883-0814</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Emerald Knights</td>&#10;    <td>4116 W Burbank Blvd </td>&#10;    <td>Burbank</td>&#10;    <td>CA</td>&#10;    <td>91505</td>&#10;    <td>818-588-3631</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Outer Planes</td>&#10;    <td>519 Mendocino Ave Ste A</td>&#10;    <td>Santa Rosa</td>&#10;    <td>CA</td>&#10;    <td>95401</td>&#10;    <td>707-546-2000</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Chico Magic Sports Play</td>&#10;    <td>300 Broadway Ste C3 </td>&#10;    <td>Chico</td>&#10;    <td>CA</td>&#10;    <td>95928</td>&#10;    <td>530-899-1886</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Monstore. The</td>&#10;    <td>5404 Moreno St Ste A</td>&#10;    <td>Montclair</td>&#10;    <td>CA</td>&#10;    <td>91763</td>&#10;    <td>909-920-5000</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hi De Ho Comics - Santa Monica</td>&#10;    <td>1431 Lincoln Blvd </td>&#10;    <td>Santa Monica</td>&#10;    <td>CA</td>&#10;    <td>90401</td>&#10;    <td>310-394-2820</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Adventures In Comics &amp; Games</td>&#10;    <td>6026 Fair Oaks Blvd </td>&#10;    <td>Carmichael</td>&#10;    <td>CA</td>&#10;    <td>95608</td>&#10;    <td>916-973-9064</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>C &amp; J Collectables</td>&#10;    <td>5409 Central Ave Ste 20</td>&#10;    <td>Newark</td>&#10;    <td>CA</td>&#10;    <td>94560</td>&#10;    <td>510-796-5790</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Empire - San Diego</td>&#10;    <td>7051 Clairemont Mesa Blvd Ste 306</td>&#10;    <td>San Diego</td>&#10;    <td>CA</td>&#10;    <td>92111</td>&#10;    <td>858-576-1525</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Games Of Berkeley</td>&#10;    <td>2151 Shattuck Ave </td>&#10;    <td>Berkeley</td>&#10;    <td>CA</td>&#10;    <td>94704</td>&#10;    <td>510-540-7822</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gameology</td>&#10;    <td>9742 Central Ave. </td>&#10;    <td>Montclair</td>&#10;    <td>CA</td>&#10;    <td>91763</td>&#10;    <td>909-626-6926</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Matrix Cards &amp; Games</td>&#10;    <td>1185 Hilltop Dr </td>&#10;    <td>Redding</td>&#10;    <td>CA</td>&#10;    <td>96003</td>&#10;    <td>530-222-1436</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Paladins Game Castle</td>&#10;    <td>5630 District Blvd Ste 117</td>&#10;    <td>Bakersfield</td>&#10;    <td>CA</td>&#10;    <td>93313</td>&#10;    <td>661-832-1982</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gamer's Guild</td>&#10;    <td>1203 Auto Center Dr </td>&#10;    <td>Antioch</td>&#10;    <td>CA</td>&#10;    <td>94509</td>&#10;    <td>925-753-5219</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Black Diamond Games</td>&#10;    <td>1950 Market St Ste E</td>&#10;    <td>Concord</td>&#10;    <td>CA</td>&#10;    <td>94520</td>&#10;    <td>925-681-0600</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hobbies &amp; More</td>&#10;    <td>15819 Main St </td>&#10;    <td>La Puente</td>&#10;    <td>CA</td>&#10;    <td>91744</td>&#10;    <td>626-369-3157</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Current Comics - Salinas</td>&#10;    <td>1287 N Main St Suite D </td>&#10;    <td>Salinas</td>&#10;    <td>CA</td>&#10;    <td>93906</td>&#10;    <td>831-443-3900</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Leisure Time Games</td>&#10;    <td>159 Town Center E </td>&#10;    <td>Santa Maria</td>&#10;    <td>CA</td>&#10;    <td>93454</td>&#10;    <td>805-614-4263</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Drom's C &amp; C</td>&#10;    <td>231 G St Sutie 4 </td>&#10;    <td>Davids</td>&#10;    <td>CA</td>&#10;    <td>95616</td>&#10;    <td>530-758-2280</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>SoCalMagic</td>&#10;    <td>1818 W. Chapman Ave. Suite B </td>&#10;    <td>Orange</td>&#10;    <td>CA</td>&#10;    <td>92868</td>&#10;    <td>714-634-1818</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Nugames</td>&#10;    <td>1075 K St </td>&#10;    <td>Arcata</td>&#10;    <td>CA</td>&#10;    <td>95521</td>&#10;    <td>707-826-1228</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Olde World Gaming</td>&#10;    <td>6624 Laguna Blvd </td>&#10;    <td>Elk Grove</td>&#10;    <td>CA</td>&#10;    <td>95758</td>&#10;    <td>916-691-2333</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>+EV GAMES - SANTA BARBARA</td>&#10;    <td>4141 State St Ste F4</td>&#10;    <td>Santa Barbara</td>&#10;    <td>CA</td>&#10;    <td>93110</td>&#10;    <td>805-845-6717</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Next-Gen Video Games</td>&#10;    <td>5001 Wilshire Blvd </td>&#10;    <td>Los Angeles</td>&#10;    <td>CA</td>&#10;    <td>90036</td>&#10;    <td>323-938-3400</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Thou Shalt Game</td>&#10;    <td>27314 Jefferson Ave Ste 9</td>&#10;    <td>Temecula</td>&#10;    <td>CA</td>&#10;    <td>92590</td>&#10;    <td>951-296-2266</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Melrose Music &amp; Comics</td>&#10;    <td>7301 Melrose Ave </td>&#10;    <td>Los Angeles</td>&#10;    <td>CA</td>&#10;    <td>90046</td>&#10;    <td>323-934-3373</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Galaxy Games</td>&#10;    <td>6743 Dublin Blvd Ste 35</td>&#10;    <td>Dublin</td>&#10;    <td>CA</td>&#10;    <td>94568</td>&#10;    <td>925-829-4600</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>D20 Games</td>&#10;    <td>2311 Santa Clara Ave </td>&#10;    <td>Alameda</td>&#10;    <td>CA</td>&#10;    <td>94501</td>&#10;    <td>510-522-2109</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Master</td>&#10;    <td>24155 Laguna Hills Mall </td>&#10;    <td>Laguna Hills</td>&#10;    <td>CA</td>&#10;    <td>92653</td>&#10;    <td>949-457-0290</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Leeters</td>&#10;    <td>3000 Mall View Rd Ste B65</td>&#10;    <td>Bakersfield</td>&#10;    <td>CA</td>&#10;    <td>93306</td>&#10;    <td>877-661-5338</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>AbbyCat Comics</td>&#10;    <td>7209 Arlington Ave Ste A</td>&#10;    <td>Riverside</td>&#10;    <td>CA</td>&#10;    <td>92503</td>&#10;    <td>951-353-0095</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Rivals CCG</td>&#10;    <td>2501 E 28th St Ste 101</td>&#10;    <td>Signal Hill</td>&#10;    <td>CA</td>&#10;    <td>90755</td>&#10;    <td>562-595-0173</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Seth's Games &amp; Anime</td>&#10;    <td>2379 E Main St </td>&#10;    <td>Ventura</td>&#10;    <td>CA</td>&#10;    <td>93003</td>&#10;    <td>805-653-2732</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Cards &amp; Comics Central</td>&#10;    <td>5424 Geary Blvd </td>&#10;    <td>San Francisco</td>&#10;    <td>CA</td>&#10;    <td>94121</td>&#10;    <td>415-668-3544</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Fantasy Game World</td>&#10;    <td>2503 El Paso Way </td>&#10;    <td>Chico</td>&#10;    <td>CA</td>&#10;    <td>95973</td>&#10;    <td>530-345-3115</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Njoy Games &amp; Comics</td>&#10;    <td>8415 Reseda Blvd Ste 4 </td>&#10;    <td>Northridge</td>&#10;    <td>CA</td>&#10;    <td>91324</td>&#10;    <td>818-709-0599</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Evolution Cards &amp; Comics</td>&#10;    <td>9005 Elk Grove Blvd #1 </td>&#10;    <td>Elk Grove</td>&#10;    <td>CA</td>&#10;    <td>95624</td>&#10;    <td>916-226-2446</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Sword &amp; Board</td>&#10;    <td>295 N State St </td>&#10;    <td>Ukiah</td>&#10;    <td>CA</td>&#10;    <td>95482</td>&#10;    <td>707-463-1539</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Alluring Treasures</td>&#10;    <td>506 N Union Rd </td>&#10;    <td>Manteca</td>&#10;    <td>CA</td>&#10;    <td>95337</td>&#10;    <td>209-824-7777</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Majestix CCG - Huntington Beach</td>&#10;    <td>7561 Center Ave Unit 7</td>&#10;    <td>Huntington Beach</td>&#10;    <td>CA</td>&#10;    <td>92647</td>&#10;    <td>714-622-5707</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Endgame</td>&#10;    <td>921 Washington St </td>&#10;    <td>Oakland</td>&#10;    <td>CA</td>&#10;    <td>94607</td>&#10;    <td>510-465-3637</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dicehouse Games</td>&#10;    <td>2493 E Chapman Ave </td>&#10;    <td>Fullerton</td>&#10;    <td>CA</td>&#10;    <td>92831</td>&#10;    <td>714-871-6494</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comic Cult - Torance</td>&#10;    <td>1047 W Carson St Ste 4</td>&#10;    <td>Torrance</td>&#10;    <td>CA</td>&#10;    <td>90502</td>&#10;    <td>310-328-5830</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Arcane Lab, The</td>&#10;    <td>1636 Canal St </td>&#10;    <td>Merced</td>&#10;    <td>CA</td>&#10;    <td>95340</td>&#10;    <td>209-725-1588</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>River City Comics &amp; Games</td>&#10;    <td>4740 Natomas Blvd Ste 130</td>&#10;    <td>Sacramento</td>&#10;    <td>CA</td>&#10;    <td>95835</td>&#10;    <td>916-285-9808</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>A-1 Comics - Roseville</td>&#10;    <td>818 Sunrise Ave </td>&#10;    <td>Roseville</td>&#10;    <td>CA</td>&#10;    <td>95661</td>&#10;    <td>916-783-8005</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>All Star Baseball Cards</td>&#10;    <td>912 S Robertson Blvd </td>&#10;    <td>Los Angeles</td>&#10;    <td>CA</td>&#10;    <td>90035</td>&#10;    <td>310-652-2904</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Red Sky Comics</td>&#10;    <td>617 W Main St </td>&#10;    <td>Merced</td>&#10;    <td>CA</td>&#10;    <td>95340</td>&#10;    <td>209-726-0667</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>+EV GAMES - CAMARILLO</td>&#10;    <td>300 N Lantana St Ste 38</td>&#10;    <td>Camarillo</td>&#10;    <td>CA</td>&#10;    <td>93010</td>&#10;    <td>805-389-7428</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>MTG Deals</td>&#10;    <td>702 S Del Mar Blvd Ste B</td>&#10;    <td>San Gabriel</td>&#10;    <td>CA</td>&#10;    <td>91776</td>&#10;    <td>626-614-5919</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Majestix CCG</td>&#10;    <td>2075 Newport Blvd Ste 104</td>&#10;    <td>Costa Mesa</td>&#10;    <td>CA</td>&#10;    <td>92627</td>&#10;    <td>949-650-6100</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Paper Hero's Comics</td>&#10;    <td>26771 Bouquet Canyon Rd </td>&#10;    <td>Saugus</td>&#10;    <td>CA</td>&#10;    <td>91350</td>&#10;    <td>661-513-9700</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Ronin Games &amp; Hobbies</td>&#10;    <td>19601 Center St </td>&#10;    <td>Castro Valley</td>&#10;    <td>CA</td>&#10;    <td>94546</td>&#10;    <td>510-733-5094</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>At Ease Games</td>&#10;    <td>12373 Poway Rd Ste A B</td>&#10;    <td>Poway</td>&#10;    <td>CA</td>&#10;    <td>92064</td>&#10;    <td>858-679-3273</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Empire - Pasadena</td>&#10;    <td>1795 E Colorado Blvd </td>&#10;    <td>Pasadena</td>&#10;    <td>CA</td>&#10;    <td>91106</td>&#10;    <td>626-304-9333</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Hub, The</td>&#10;    <td>9800 Hwy 53 #H</td>&#10;    <td>Lower Lake</td>&#10;    <td>CA</td>&#10;    <td>95457</td>&#10;    <td>707-994-9909</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>D4C Gaming</td>&#10;    <td>8432 Laurel Ave Ste C</td>&#10;    <td>Whittier</td>&#10;    <td>CA</td>&#10;    <td>90605</td>&#10;    <td>626-840-4891</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>A Place To Game</td>&#10;    <td>502 J St </td>&#10;    <td>Marysville</td>&#10;    <td>CA</td>&#10;    <td>95901</td>&#10;    <td>530-870-8119</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Mage's Realm, The</td>&#10;    <td>2920 Arden Way </td>&#10;    <td>Sacramento</td>&#10;    <td>CA</td>&#10;    <td>95825</td>&#10;    <td>916-993-8461</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Card Addiction</td>&#10;    <td>2445 E Orangethorpe </td>&#10;    <td>Fullerton</td>&#10;    <td>CA</td>&#10;    <td>92831</td>&#10;    <td>714-870-1194</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>JS Anime</td>&#10;    <td>2563 Chino Hills Pkwy Ste B</td>&#10;    <td>Chino Hills</td>&#10;    <td>CA</td>&#10;    <td>91709</td>&#10;    <td>909-597-7654</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gamer's Path</td>&#10;    <td>234 W Yosemite Ave </td>&#10;    <td>Manteca</td>&#10;    <td>CA</td>&#10;    <td>95336</td>&#10;    <td>209-239-8573</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Bullpen 2.0, The</td>&#10;    <td>13470 Washington blvd Ste 100</td>&#10;    <td>Marina Del Rey</td>&#10;    <td>CA</td>&#10;    <td>90292</td>&#10;    <td>424-228-2830</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Habitat, The</td>&#10;    <td>724 Abrego St </td>&#10;    <td>Monterey</td>&#10;    <td>CA</td>&#10;    <td>93940</td>&#10;    <td>831-655-5240</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Olde World Games</td>&#10;    <td>123 Peabody Rd </td>&#10;    <td>Vacaville</td>&#10;    <td>CA</td>&#10;    <td>95687</td>&#10;    <td>707-455-8445</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comic Quest</td>&#10;    <td>23811 Bridger Rd Ste 100</td>&#10;    <td>Lake Forest</td>&#10;    <td>CA</td>&#10;    <td>92630</td>&#10;    <td>949-951-9668</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Crazy Fred's Comicbook Lounge</td>&#10;    <td>5648 Lake Murray Rd </td>&#10;    <td>La Mesa</td>&#10;    <td>CA</td>&#10;    <td>91942</td>&#10;    <td>619-303-6597</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>A-1 Comics - Sacramento</td>&#10;    <td>5361 Auburn Blvd </td>&#10;    <td>Sacramento</td>&#10;    <td>CA</td>&#10;    <td>95841</td>&#10;    <td>916-331-9203</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Metropolis Comics</td>&#10;    <td>16509 Bellflower Blvd </td>&#10;    <td>Bellflower</td>&#10;    <td>CA</td>&#10;    <td>90706</td>&#10;    <td>562-263-0277</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Lee Sports</td>&#10;    <td>510 Main St Ste 215</td>&#10;    <td>El Centro</td>&#10;    <td>CA</td>&#10;    <td>92243</td>&#10;    <td>760-353-5148</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Battleground</td>&#10;    <td>323 C Town Center W </td>&#10;    <td>Santa Maria</td>&#10;    <td>CA</td>&#10;    <td>93458</td>&#10;    <td>805-720-2450</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Sky High Comics - San Marcos</td>&#10;    <td>625 S Rancho Santa Fe Rd </td>&#10;    <td>San Marcos</td>&#10;    <td>CA</td>&#10;    <td>92078</td>&#10;    <td>760-471-0649</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Games &amp; Cards Superstore</td>&#10;    <td>1716 Colorado Blvd </td>&#10;    <td>Eagle Rock</td>&#10;    <td>CA</td>&#10;    <td>90041</td>&#10;    <td>323-341-5600</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>California Card Company</td>&#10;    <td>9139 E Stockton Blvd Suite 2 </td>&#10;    <td>Elk Grove</td>&#10;    <td>CA</td>&#10;    <td>95624-9507</td>&#10;    <td>916-685-1052</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comics Plus</td>&#10;    <td>1305 Center Ave Ste B</td>&#10;    <td>Los Banos</td>&#10;    <td>CA</td>&#10;    <td>93635</td>&#10;    <td>209-827-8847</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Shuffle &amp; Cut Games - La Habra</td>&#10;    <td>2121 E Lambert Rd Ste 305</td>&#10;    <td>La Habra</td>&#10;    <td>CA</td>&#10;    <td>90631</td>&#10;    <td>562-694-9500</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Our Playz</td>&#10;    <td>1405 El Camino Real Ste 113-A</td>&#10;    <td>Oceanside</td>&#10;    <td>CA</td>&#10;    <td>92054</td>&#10;    <td>760-721-3204</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Legendary Lotus, The - Orange</td>&#10;    <td>1230 N Tustin St </td>&#10;    <td>Orange</td>&#10;    <td>CA</td>&#10;    <td>92867</td>&#10;    <td>714-914-3884</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>All Ways Gaming</td>&#10;    <td>21032 Devonshire St Ste 109</td>&#10;    <td>Chatsworth</td>&#10;    <td>CA</td>&#10;    <td>91311</td>&#10;    <td>818-886-4263</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comic Quest</td>&#10;    <td>5 E Citrus Ave Ste 101</td>&#10;    <td>Redlands</td>&#10;    <td>CA</td>&#10;    <td>92373</td>&#10;    <td>909-798-1262</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Crazy Squirrel Game Store</td>&#10;    <td>464 E Bullard Ave Ste 105</td>&#10;    <td>Fresno</td>&#10;    <td>CA</td>&#10;    <td>93710</td>&#10;    <td>559-431-0188</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gamescape North</td>&#10;    <td>1225 4th St </td>&#10;    <td>San Rafael</td>&#10;    <td>CA</td>&#10;    <td>94901</td>&#10;    <td>415-457-8698</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Tapped Out Gaming</td>&#10;    <td>28410 Ave Stanford </td>&#10;    <td>Santa Clarita</td>&#10;    <td>CA</td>&#10;    <td>91355</td>&#10;    <td>661-294-2736</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Inklings Books &amp;Things</td>&#10;    <td>1855 41st Ave </td>&#10;    <td>Capitola</td>&#10;    <td>CA</td>&#10;    <td>95010</td>&#10;    <td>831-475-3700</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Trinity Comics</td>&#10;    <td>18814 Brookhurst St </td>&#10;    <td>Fountain Valley</td>&#10;    <td>CA</td>&#10;    <td>92708</td>&#10;    <td>714-963-4196</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Lefty's Sports Cards</td>&#10;    <td>1859 El Camino Real </td>&#10;    <td>Burlingame</td>&#10;    <td>CA</td>&#10;    <td>94010</td>&#10;    <td>650-697-2274</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Just Imagine!</td>&#10;    <td>827 N China Lake Blvd </td>&#10;    <td>Ridgecrest</td>&#10;    <td>CA</td>&#10;    <td>93555</td>&#10;    <td>760-371-3031</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Mercenary Market</td>&#10;    <td>2263 Fairview Rd </td>&#10;    <td>Costa Mesa</td>&#10;    <td>CA</td>&#10;    <td>92627</td>&#10;    <td>949-722-8342</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Epic Games</td>&#10;    <td>785 Tucker Rd Ste D</td>&#10;    <td>Tehachapi</td>&#10;    <td>CA</td>&#10;    <td>93561</td>&#10;    <td>661-822-3742</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gryphon Games &amp; Comics</td>&#10;    <td>2020 S College Ave Ste B</td>&#10;    <td>Fort Collins</td>&#10;    <td>CO</td>&#10;    <td>80525</td>&#10;    <td>970-224-3599</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Wizard's Chest, The</td>&#10;    <td>230 Filmore St </td>&#10;    <td>Denver</td>&#10;    <td>CO</td>&#10;    <td>80206-5004</td>&#10;    <td>303-321-4304</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Castle Games &amp; Gifts</td>&#10;    <td>5975 N Academy Blvd Ste 208</td>&#10;    <td>Colorado Springs</td>&#10;    <td>CO</td>&#10;    <td>80918</td>&#10;    <td>719-266-6140</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Haunted Game Cafe</td>&#10;    <td>3307 S College Ave Suite 107 </td>&#10;    <td>Fort Collins</td>&#10;    <td>CO</td>&#10;    <td>80525</td>&#10;    <td>970-402-2466</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Collectormania</td>&#10;    <td>19555 E Parker Square Dr Ste 101</td>&#10;    <td>Parker</td>&#10;    <td>CO</td>&#10;    <td>80134</td>&#10;    <td>303-766-3530</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Black Gold</td>&#10;    <td>8501 W Bowles Ave Southwest Plaza Mall</td>&#10;    <td>Littleton</td>&#10;    <td>CO</td>&#10;    <td>80123</td>&#10;    <td>303-936-3660</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Chaos Games &amp; More</td>&#10;    <td>901 W 8th St Ste B1</td>&#10;    <td>Pueblo</td>&#10;    <td>CO</td>&#10;    <td>81003</td>&#10;    <td>719-542-1237</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Petrie's Family Games</td>&#10;    <td>3502 Hartsel Dr Ste 100</td>&#10;    <td>Colorado Springs</td>&#10;    <td>CO</td>&#10;    <td>80918</td>&#10;    <td>719-522-1099</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Space</td>&#10;    <td>736 Main Ave Ste 100</td>&#10;    <td>Durango</td>&#10;    <td>CO</td>&#10;    <td>81301</td>&#10;    <td>970-403-3610</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Atomic Goblin Games</td>&#10;    <td>1801 Hover St Ste D</td>&#10;    <td>Longmont</td>&#10;    <td>CO</td>&#10;    <td>80501</td>&#10;    <td>720-684-6074</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Digital Dungeon</td>&#10;    <td>1705 9th St </td>&#10;    <td>Greeley</td>&#10;    <td>CO</td>&#10;    <td>80631-5617</td>&#10;    <td>970-352-8202</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dungeon Master's Lair</td>&#10;    <td>1220 W Elizabeth St Ste F</td>&#10;    <td>Fort Collins</td>&#10;    <td>CO</td>&#10;    <td>80521</td>&#10;    <td>970-689-3197</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Crit Castle Games</td>&#10;    <td>323 Airport Blvd </td>&#10;    <td>Aurora</td>&#10;    <td>CO</td>&#10;    <td>80011</td>&#10;    <td>303-366-9313</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dragons &amp; Dragoons</td>&#10;    <td>6510 S Academy Blvd Ste B</td>&#10;    <td>Colorado Springs</td>&#10;    <td>CO</td>&#10;    <td>80906</td>&#10;    <td>719-576-0549</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Yellow King, The</td>&#10;    <td>25 N Iowa Ave </td>&#10;    <td>Colorado Springs</td>&#10;    <td>CO</td>&#10;    <td>80909</td>&#10;    <td>719-217-7229</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Time Warp Comics &amp; Cards</td>&#10;    <td>3105 28th St </td>&#10;    <td>Boulder</td>&#10;    <td>CO</td>&#10;    <td>80301</td>&#10;    <td>303-443-4500</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Aamazing Fantasy Comics</td>&#10;    <td>6721 W Ken Caryl Ave </td>&#10;    <td>Littleton</td>&#10;    <td>CO</td>&#10;    <td>80128</td>&#10;    <td>303-933-4604</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Bonnie Brae Hobby Shop</td>&#10;    <td>3421 S Broadway </td>&#10;    <td>Englewood</td>&#10;    <td>CO</td>&#10;    <td>80113</td>&#10;    <td>303-806-6526</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Mirage Games</td>&#10;    <td>8340 W Coal Mine Ave </td>&#10;    <td>Littleton</td>&#10;    <td>CO</td>&#10;    <td>80123</td>&#10;    <td>303-818-2072</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gamer's Haven</td>&#10;    <td>5730 N Academy Blvd </td>&#10;    <td>Colorado Springs</td>&#10;    <td>CO</td>&#10;    <td>80918</td>&#10;    <td>719-531-9863</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gamer's Guild</td>&#10;    <td>4550 Broadway St </td>&#10;    <td>Boulder</td>&#10;    <td>CO</td>&#10;    <td>80304</td>&#10;    <td>303-997-6496</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Muse Comics + Games</td>&#10;    <td>1350 N Academy Blvd </td>&#10;    <td>Colorado Springs</td>&#10;    <td>CO</td>&#10;    <td>80909</td>&#10;    <td>719-573-7096</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Enchanted Grounds</td>&#10;    <td>8800 S Colroado Blvd Ste A</td>&#10;    <td>Highlands Ranch</td>&#10;    <td>CO</td>&#10;    <td>80126</td>&#10;    <td>303-470-1010</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Karliquin's Game Knight</td>&#10;    <td>2085 30th Street </td>&#10;    <td>Boulder</td>&#10;    <td>CO</td>&#10;    <td>80301</td>&#10;    <td>303-545-1745</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>I Want More Comics</td>&#10;    <td>1020 W 104th Ave </td>&#10;    <td>Northglenn</td>&#10;    <td>CO</td>&#10;    <td>80234</td>&#10;    <td>303-460-7226</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dark Matter Games</td>&#10;    <td>1050 S Wadsworth Blvd Ste N</td>&#10;    <td>Lakewood</td>&#10;    <td>CO</td>&#10;    <td>80226</td>&#10;    <td>720-583-1392</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Above &amp; Beyond Games</td>&#10;    <td>1012 W 104th Ave </td>&#10;    <td>Northglenn</td>&#10;    <td>CO</td>&#10;    <td>80234</td>&#10;    <td>303-452-5419</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>J &amp; J Pac N Ship</td>&#10;    <td>6322 S. Highway 85/87 </td>&#10;    <td>Fountain</td>&#10;    <td>CO</td>&#10;    <td>80817</td>&#10;    <td>719-392-2050</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Total Escape Games</td>&#10;    <td>6831 W 120th Ave Ste C</td>&#10;    <td>Broomfield</td>&#10;    <td>CO</td>&#10;    <td>80020</td>&#10;    <td>303-482-1829</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Jester's Court, The</td>&#10;    <td>1000 N 5th St </td>&#10;    <td>Grand Junction</td>&#10;    <td>CO</td>&#10;    <td>81501</td>&#10;    <td>970-208-4071</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Grand Slam Sportscards &amp; Comic Books</td>&#10;    <td>1730 W Eisenhower Blvd </td>&#10;    <td>Loveland</td>&#10;    <td>CO</td>&#10;    <td>80537</td>&#10;    <td>970-667-8713</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Atomic Games West</td>&#10;    <td>1921 Youngfield St Ste 206</td>&#10;    <td>Golden</td>&#10;    <td>CO</td>&#10;    <td>80401</td>&#10;    <td>303-237-4509</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Enchanted Realms Games &amp; Gifts</td>&#10;    <td>6799 Bismark Rd </td>&#10;    <td>Colorado Springs</td>&#10;    <td>CO</td>&#10;    <td>80922</td>&#10;    <td>719-418-2187</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Mile High Comics - Lakewood</td>&#10;    <td>98 Wadsworth Blvd Unit 111A</td>&#10;    <td>Lakewood</td>&#10;    <td>CO</td>&#10;    <td>80226</td>&#10;    <td>303-238-8125</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Denver Central Games</td>&#10;    <td>6780 E Hampden Ave </td>&#10;    <td>Denver</td>&#10;    <td>CO</td>&#10;    <td>80224</td>&#10;    <td>720-514-9911</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Heroes</td>&#10;    <td>6680 Wadsworth Blvd Ste B</td>&#10;    <td>Arvada</td>&#10;    <td>CO</td>&#10;    <td>80003</td>&#10;    <td>720-879-2780</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dale'z Kardz &amp; Komicz</td>&#10;    <td>4341 N Academy Blvd </td>&#10;    <td>Colorado Springs</td>&#10;    <td>CO</td>&#10;    <td>80918</td>&#10;    <td>719-528-5959</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Bartertown Comics</td>&#10;    <td>800 Englewood Pkwy Ste C-106</td>&#10;    <td>Englewood</td>&#10;    <td>CO</td>&#10;    <td>80110</td>&#10;    <td>303-761-1440</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Good Game Lan - Troll Country</td>&#10;    <td>16744 E Iliff Ave </td>&#10;    <td>Aurora</td>&#10;    <td>CO</td>&#10;    <td>80013</td>&#10;    <td>720-514-9911</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Omni Comics &amp; Cards</td>&#10;    <td>681 Silas Deane Hwy </td>&#10;    <td>Wethersfield</td>&#10;    <td>CT</td>&#10;    <td>6109</td>&#10;    <td>860-571-0138</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Battlegrounds Gaming</td>&#10;    <td>267 Main Ave </td>&#10;    <td>Norwalk</td>&#10;    <td>CT</td>&#10;    <td>6851</td>&#10;    <td>203-295-8181</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Wonderland Comics</td>&#10;    <td>112 Main Street, Suite 15 </td>&#10;    <td>Putnam</td>&#10;    <td>CT</td>&#10;    <td>06260-1922</td>&#10;    <td>860-963-1027</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Sarge's Comics</td>&#10;    <td>124 State St </td>&#10;    <td>New London</td>&#10;    <td>CT</td>&#10;    <td>6320</td>&#10;    <td>860-443-2004</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>SBK Inc.</td>&#10;    <td>61 East Main St </td>&#10;    <td>Bristol</td>&#10;    <td>CT</td>&#10;    <td>6010</td>&#10;    <td>860-517-8369</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Coliseum Games &amp; Hobbies</td>&#10;    <td>276 W Main St </td>&#10;    <td>Norwich</td>&#10;    <td>CT</td>&#10;    <td>6360</td>&#10;    <td>860-859-9848</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gaming Etc Tournament Center</td>&#10;    <td>555 Lordship Blvd </td>&#10;    <td>Stratford</td>&#10;    <td>CT</td>&#10;    <td>6615</td>&#10;    <td>203-296-9961</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Ice Imports</td>&#10;    <td>500 Evergreen Way Unit 528</td>&#10;    <td>South Windsor</td>&#10;    <td>CT</td>&#10;    <td>6074</td>&#10;    <td>860-432-3533</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>ConnectiCon Member's Shop &amp; Tournament Center</td>&#10;    <td>705 N Mountain Rd Ste B115 / B116</td>&#10;    <td>Newington</td>&#10;    <td>CT</td>&#10;    <td>6111</td>&#10;    <td>860-372-4062</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Matt's Sports Cards &amp; Comics</td>&#10;    <td>169 Elm St </td>&#10;    <td>Enfield</td>&#10;    <td>CT</td>&#10;    <td>6082</td>&#10;    <td>860-741-2522</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Legends Of Superheros</td>&#10;    <td>1655 Straits Tpke </td>&#10;    <td>Middlebury</td>&#10;    <td>CT</td>&#10;    <td>6762</td>&#10;    <td>203-577-2445</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Grid Games, The</td>&#10;    <td>52 Purnell Pl </td>&#10;    <td>Manchester</td>&#10;    <td>CT</td>&#10;    <td>06040-5109</td>&#10;    <td>860-645-9006</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Friendly Fire Game Center</td>&#10;    <td>591 Middle Turnpike </td>&#10;    <td>Storrs</td>&#10;    <td>CT</td>&#10;    <td>6268</td>&#10;    <td>860-429-0011</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Battle Standard, The</td>&#10;    <td>1540 Pleasant Valley Rd Ste F</td>&#10;    <td>Manchester</td>&#10;    <td>CT</td>&#10;    <td>6082</td>&#10;    <td>860-783-5334</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Card Empire</td>&#10;    <td>636 Migeon Ave </td>&#10;    <td>Torrington</td>&#10;    <td>CT</td>&#10;    <td>6790</td>&#10;    <td>860-618-5354</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Most Excellent Gaming</td>&#10;    <td>920 Enfield St </td>&#10;    <td>Enfield</td>&#10;    <td>CT</td>&#10;    <td>6082</td>&#10;    <td>860-253-9520</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Heroes Comics &amp; Cards</td>&#10;    <td>197 WESTPORT AVE </td>&#10;    <td>Norwalk</td>&#10;    <td>CT</td>&#10;    <td>06851-4158</td>&#10;    <td>203-750-0505</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Time Machine Hobby</td>&#10;    <td>71 Hilliard St </td>&#10;    <td>Manchester</td>&#10;    <td>CT</td>&#10;    <td>6040</td>&#10;    <td>860-646-0610</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Lounge, The</td>&#10;    <td>850 Hartford Tpke Crystal Mall</td>&#10;    <td>Waterford</td>&#10;    <td>CT</td>&#10;    <td>6385</td>&#10;    <td>860-440-3703</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Reed Comics &amp; Cards</td>&#10;    <td>16 Main St </td>&#10;    <td>Durham</td>&#10;    <td>CT</td>&#10;    <td>6422</td>&#10;    <td>860-349-5400</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hall of Gaming</td>&#10;    <td>220 N Colony St Ste B</td>&#10;    <td>Wallingford</td>&#10;    <td>CT</td>&#10;    <td>6492</td>&#10;    <td>203-793-7712</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Cave Comics</td>&#10;    <td>57 Church Hill Rd </td>&#10;    <td>Newtown</td>&#10;    <td>CT</td>&#10;    <td>6470</td>&#10;    <td>203-426-4346</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Labyrinth Games &amp; Puzzles</td>&#10;    <td>645 Pennsylvania Ave SE </td>&#10;    <td>Washington</td>&#10;    <td>DC</td>&#10;    <td>20003</td>&#10;    <td>202-544-1059</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Days Of Knights, The</td>&#10;    <td>173 E Main St </td>&#10;    <td>Newark</td>&#10;    <td>DE</td>&#10;    <td>19711</td>&#10;    <td>302-366-0963</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>US Games Plus</td>&#10;    <td>287 Christiana Rd #25 </td>&#10;    <td>New Castle</td>&#10;    <td>DE</td>&#10;    <td>19720</td>&#10;    <td>302-328-7755</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Shivam's Paradise</td>&#10;    <td>710 N Market St </td>&#10;    <td>Wilmington</td>&#10;    <td>DE</td>&#10;    <td>19801</td>&#10;    <td>302-656-0988</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comicmania</td>&#10;    <td>4381 Kirkwood Hwy </td>&#10;    <td>Wilmington</td>&#10;    <td>DE</td>&#10;    <td>19808</td>&#10;    <td>302-995-1971</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Scarecrow's Games</td>&#10;    <td>28150 Chief Rd </td>&#10;    <td>Millsboro</td>&#10;    <td>DE</td>&#10;    <td>19966</td>&#10;    <td>302-947-1267</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Alternate Universes - Wilmington</td>&#10;    <td>3615 Silverside Rd Ste A</td>&#10;    <td>Wilmington</td>&#10;    <td>DE</td>&#10;    <td>19810</td>&#10;    <td>302-482-3480</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Our Game Table</td>&#10;    <td>1030 Forrest Ave </td>&#10;    <td>Dover</td>&#10;    <td>DE</td>&#10;    <td>19904</td>&#10;    <td>302-735-1859</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Happy Viking Games</td>&#10;    <td>3142 Beach Blvd </td>&#10;    <td>Jacksonville</td>&#10;    <td>FL</td>&#10;    <td>32207</td>&#10;    <td>904-379-2042</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Play N Trade</td>&#10;    <td>2780 NW Federal Hwy </td>&#10;    <td>Stuart</td>&#10;    <td>FL</td>&#10;    <td>34994</td>&#10;    <td>772-692-6926</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Undead Gaming</td>&#10;    <td>279 Airport Pulling Rd S </td>&#10;    <td>Naples</td>&#10;    <td>FL</td>&#10;    <td>34104</td>&#10;    <td>239-234-6472</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>BRAD'S TCGS</td>&#10;    <td>10548 Wiles Rd </td>&#10;    <td>Coral Springs</td>&#10;    <td>FL</td>&#10;    <td>33076</td>&#10;    <td>954-255-2109</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game On, Movies &amp; Games</td>&#10;    <td>7500 Ulmerton Rd Ste 14</td>&#10;    <td>Largo</td>&#10;    <td>FL</td>&#10;    <td>33771</td>&#10;    <td>727-532-4263</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Campus Cards &amp; Games</td>&#10;    <td>12226 Corporate Blvd Ste 130</td>&#10;    <td>Orlando</td>&#10;    <td>FL</td>&#10;    <td>32817</td>&#10;    <td>407-730-3161</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Pirate Chest Hobby</td>&#10;    <td>226 King St Ste 140</td>&#10;    <td>Cocoa</td>&#10;    <td>FL</td>&#10;    <td>32922</td>&#10;    <td>321-305-4542</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Home Field Cards and Games</td>&#10;    <td>620 N New Warrington Rd </td>&#10;    <td>Pensacola</td>&#10;    <td>FL</td>&#10;    <td>32506</td>&#10;    <td>850-458-1972</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Past Present Future Comics &amp; Gaming Superstore</td>&#10;    <td>1387 N Military Trail </td>&#10;    <td>West Palm Beach</td>&#10;    <td>FL</td>&#10;    <td>33409</td>&#10;    <td>561-697-2554</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Sunshine Adventure Gaming</td>&#10;    <td>7931 Bird Rd Ste 30</td>&#10;    <td>Miami</td>&#10;    <td>FL</td>&#10;    <td>33155</td>&#10;    <td>305-264-1250</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Cloak &amp; Dagger Comics</td>&#10;    <td>799 S Nova Rd </td>&#10;    <td>Ormond Beach</td>&#10;    <td>FL</td>&#10;    <td>32174</td>&#10;    <td>386-672-4980</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gathering Place Games - Lakeland</td>&#10;    <td>1226 E Lime St </td>&#10;    <td>Lakeland</td>&#10;    <td>FL</td>&#10;    <td>33801</td>&#10;    <td>863-686-1200</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Villains Comics &amp; Games</td>&#10;    <td>1788 NE 163rd St </td>&#10;    <td>North Miami Beach</td>&#10;    <td>FL</td>&#10;    <td>33162</td>&#10;    <td>305-944-4773</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>2d10 Games</td>&#10;    <td>2040 Collier Ave Ste C</td>&#10;    <td>Fort Myers</td>&#10;    <td>FL</td>&#10;    <td>33901</td>&#10;    <td>239-690-2310</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>GameChanger</td>&#10;    <td>991 E Eau Gallie Blvd Ste C</td>&#10;    <td>Indian Harbour Beach</td>&#10;    <td>FL</td>&#10;    <td>32937</td>&#10;    <td>321-622-8525</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Coliseum of Comics - Kissimmee</td>&#10;    <td>3159 W Vine St </td>&#10;    <td>Kissimmee</td>&#10;    <td>FL</td>&#10;    <td>34741</td>&#10;    <td>407-870-5322</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comic Emporium</td>&#10;    <td>2403 Hwy 231 </td>&#10;    <td>Panama City</td>&#10;    <td>FL</td>&#10;    <td>32405</td>&#10;    <td>850-769-2690</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gathering Place Games - Casselberry</td>&#10;    <td>953 E Semoran Blvd </td>&#10;    <td>Casselberry</td>&#10;    <td>FL</td>&#10;    <td>32707</td>&#10;    <td>407-515-0405</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Islander Comics</td>&#10;    <td>777 E Merritt Island Cswy Ste 301</td>&#10;    <td>Merritt Island</td>&#10;    <td>FL</td>&#10;    <td>32952</td>&#10;    <td>321-452-4225</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Superhero Beach</td>&#10;    <td>1124 3rd St N Ste 3</td>&#10;    <td>Jacksonville Beach</td>&#10;    <td>FL</td>&#10;    <td>32250</td>&#10;    <td>904-372-0400</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Academy, The - Tampa</td>&#10;    <td>5721 E Fowler Ave </td>&#10;    <td>Tampa</td>&#10;    <td>FL</td>&#10;    <td>33617</td>&#10;    <td>813-914-7000</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Wizard's Wall</td>&#10;    <td>747 S Apollo Blvd </td>&#10;    <td>Melbourne</td>&#10;    <td>FL</td>&#10;    <td>32901</td>&#10;    <td>321-727-2599</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Heroes Landing</td>&#10;    <td>12348 Roper Blvd </td>&#10;    <td>Clermont</td>&#10;    <td>FL</td>&#10;    <td>34711</td>&#10;    <td>352-242-9636</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Coliseum Of Comics - Millenia</td>&#10;    <td>4672 Millenia Plaza Way </td>&#10;    <td>Orlando</td>&#10;    <td>FL</td>&#10;    <td>32839</td>&#10;    <td>407-363-7676</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Paladin Tech &amp; Game</td>&#10;    <td>12001 Avalon Lake Dr Suite D </td>&#10;    <td>Orlando</td>&#10;    <td>FL</td>&#10;    <td>32828</td>&#10;    <td>407-249-1001</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Urban Anthropology</td>&#10;    <td>84 Theatre Dr Ste 400</td>&#10;    <td>Saint Augustine</td>&#10;    <td>FL</td>&#10;    <td>32086</td>&#10;    <td>904-687-2166</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Geek Sheek Hobbies</td>&#10;    <td>618 S Marion Ave Ste 103</td>&#10;    <td>Lake City</td>&#10;    <td>FL</td>&#10;    <td>32025</td>&#10;    <td>386-243-5517</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Coliseum of Comics - Sanford</td>&#10;    <td>177 Towne Center Circle </td>&#10;    <td>Sanford</td>&#10;    <td>FL</td>&#10;    <td>32771</td>&#10;    <td>407-324-1800</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Premier Sports Cards</td>&#10;    <td>2411 E Graves Ave Ste 8</td>&#10;    <td>Orange City</td>&#10;    <td>FL</td>&#10;    <td>32763</td>&#10;    <td>386-775-1662</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Coliseum of Comics - Orlando</td>&#10;    <td>3201 E Colonial Dr #U-18</td>&#10;    <td>Orlando</td>&#10;    <td>FL</td>&#10;    <td>32803</td>&#10;    <td>407-228-1210</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>GameMasters Guild</td>&#10;    <td>148 E Woodruff Ave Ste B</td>&#10;    <td>Crestview</td>&#10;    <td>FL</td>&#10;    <td>32536</td>&#10;    <td>850-682-0022</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>GoodFellas Games</td>&#10;    <td>1428 E Semoran Blvd Ste 108</td>&#10;    <td>Apopka</td>&#10;    <td>FL</td>&#10;    <td>32712</td>&#10;    <td>407-886-4193</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comics Direct</td>&#10;    <td>768 John Sims Pkwy E </td>&#10;    <td>Niceville</td>&#10;    <td>FL</td>&#10;    <td>32578-2032</td>&#10;    <td>850-678-0026</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Sci-Fi City</td>&#10;    <td>6006 E Colonial Dr </td>&#10;    <td>Orlando</td>&#10;    <td>FL</td>&#10;    <td>32807</td>&#10;    <td>407-282-2292</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Get Sum TCG N' Anime</td>&#10;    <td>700 Armenia Dr Ste D</td>&#10;    <td>Pensacola</td>&#10;    <td>FL</td>&#10;    <td>32505</td>&#10;    <td>850-776-6116</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gamers HQ - Inverness</td>&#10;    <td>2977 E Gulf to Lake Hwy 441 </td>&#10;    <td>Inverness</td>&#10;    <td>FL</td>&#10;    <td>34453</td>&#10;    <td>352-860-2030</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Alter Ego's</td>&#10;    <td>400 Maddison Ave Ste 104</td>&#10;    <td>Orange Park</td>&#10;    <td>FL</td>&#10;    <td>32065</td>&#10;    <td>904-213-4007</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Big Katts</td>&#10;    <td>1029 Airport Rd N. #6 </td>&#10;    <td>Naples</td>&#10;    <td>FL</td>&#10;    <td>34104</td>&#10;    <td>239-643-1020</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>BreakPoint Books</td>&#10;    <td>3767 Lake Center Dr </td>&#10;    <td>Mount Dora</td>&#10;    <td>FL</td>&#10;    <td>32757</td>&#10;    <td>352-383-4656</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Pop City Comics</td>&#10;    <td>5628 International Dr </td>&#10;    <td>Orlando</td>&#10;    <td>FL</td>&#10;    <td>32819</td>&#10;    <td>407-354-9898</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Coliseum of Comics - Lakeland</td>&#10;    <td>122 W Main St </td>&#10;    <td>Lakeland</td>&#10;    <td>FL</td>&#10;    <td>33815</td>&#10;    <td>863-686-1350</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>DaVinci's Dreamworks 2</td>&#10;    <td>1504 NE Jensen Blvd </td>&#10;    <td>Jensen Beach</td>&#10;    <td>FL</td>&#10;    <td>34957</td>&#10;    <td>772-225-2295</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Collectors Paradise, A</td>&#10;    <td>4901 E Silver Springs Blvd Ste 605</td>&#10;    <td>Ocala</td>&#10;    <td>FL</td>&#10;    <td>34470</td>&#10;    <td>352-236-8899</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Armada Games</td>&#10;    <td>10910 N 56th St </td>&#10;    <td>Tampa</td>&#10;    <td>FL</td>&#10;    <td>33617</td>&#10;    <td>813-980-6080</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gamescape</td>&#10;    <td>2415 N Monroe St Ste 303</td>&#10;    <td>Tallahassee</td>&#10;    <td>FL</td>&#10;    <td>32303</td>&#10;    <td>850-325-6600</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Mega Gaming and Comics</td>&#10;    <td>4000 W Newberry Rd. Suite K </td>&#10;    <td>Gainesville</td>&#10;    <td>FL</td>&#10;    <td>32607</td>&#10;    <td>352-505-3933</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Cool Stuff Games - Maitland</td>&#10;    <td>8550 S US Hwy 17/92 </td>&#10;    <td>Maitland</td>&#10;    <td>FL</td>&#10;    <td>32751</td>&#10;    <td>954-895-7124</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>GXE Games</td>&#10;    <td>2501 NW 17th Ln Ste A</td>&#10;    <td>Pompano Beach</td>&#10;    <td>FL</td>&#10;    <td>33064</td>&#10;    <td>954-591-8855</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dark Side, The</td>&#10;    <td>501 N Beneva Rd Ste 260</td>&#10;    <td>Sarasota</td>&#10;    <td>FL</td>&#10;    <td>34232</td>&#10;    <td>941-363-0840</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hammer Hall Gaming</td>&#10;    <td>3325 Plymouth St </td>&#10;    <td>Jacksonville</td>&#10;    <td>FL</td>&#10;    <td>32205</td>&#10;    <td>904-240-1011</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Tara Angel's Magic</td>&#10;    <td>2415 N Monroe St Ste 2060</td>&#10;    <td>Tallahassee</td>&#10;    <td>FL</td>&#10;    <td>32303</td>&#10;    <td>850-878-4555</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Birds of Paradise Games</td>&#10;    <td>1425 Main St Ste E</td>&#10;    <td>Dunedin</td>&#10;    <td>FL</td>&#10;    <td>34698</td>&#10;    <td>727-286-6233</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Anthem Games</td>&#10;    <td>5383 Ehrlich Rd Ste 203</td>&#10;    <td>Tampa</td>&#10;    <td>FL</td>&#10;    <td>33625</td>&#10;    <td>813-333-5386</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Pwnage Games</td>&#10;    <td>2783 Elkcam Blvd Ste 206</td>&#10;    <td>Deltona</td>&#10;    <td>FL</td>&#10;    <td>32738</td>&#10;    <td>386-473-7963</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gamer Apocalypse</td>&#10;    <td>2177 Kingsley Ave Ste 29</td>&#10;    <td>Orange Park</td>&#10;    <td>FL</td>&#10;    <td>32073</td>&#10;    <td>904-382-5225</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Rock Game Shop</td>&#10;    <td>7600 SW 117th Ave </td>&#10;    <td>Miami</td>&#10;    <td>FL</td>&#10;    <td>33183</td>&#10;    <td>305-456-1151</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Shortstops Sports Cards</td>&#10;    <td>34290 US Hwy 19 N </td>&#10;    <td>Palm Harbor</td>&#10;    <td>FL</td>&#10;    <td>34684</td>&#10;    <td>727-789-2273</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Cool Stuff Games - Hollywood</td>&#10;    <td>6867 Taft St </td>&#10;    <td>Hollywood</td>&#10;    <td>FL</td>&#10;    <td>33024</td>&#10;    <td>954-962-2593</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Cardboard Hoard</td>&#10;    <td>2221 S Pine Ave Unit D</td>&#10;    <td>Ocala</td>&#10;    <td>FL</td>&#10;    <td>34471</td>&#10;    <td>352-433-2151</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Tate's Gaming Satellite</td>&#10;    <td>4588 N University Dr </td>&#10;    <td>Fort Lauderdale</td>&#10;    <td>FL</td>&#10;    <td>33351</td>&#10;    <td>954-742-5141</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Colossal Comics</td>&#10;    <td>7010 US Hwy 19 </td>&#10;    <td>New Port Richey</td>&#10;    <td>FL</td>&#10;    <td>34652</td>&#10;    <td>727-849-1208</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dogs of War Gaming</td>&#10;    <td>5270 Babcock St NE Ste 25</td>&#10;    <td>Palm Bay</td>&#10;    <td>FL</td>&#10;    <td>32905</td>&#10;    <td>321-951-9700</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Get Your Fun On</td>&#10;    <td>3030 W New Haven Ave </td>&#10;    <td>West Melbourne</td>&#10;    <td>FL</td>&#10;    <td>32904</td>&#10;    <td>321-327-7937</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Treasure Coast Baseball &amp; Sportcards</td>&#10;    <td>7222 S US Hwy 1 </td>&#10;    <td>Port St Lucie</td>&#10;    <td>FL</td>&#10;    <td>34952</td>&#10;    <td>772-878-0228</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Serenity Games</td>&#10;    <td>6151 Central Ave </td>&#10;    <td>Saint Petersburg</td>&#10;    <td>FL</td>&#10;    <td>33710</td>&#10;    <td>727-803-6841</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Wizard's Cupboard</td>&#10;    <td>10525 Park Blvd Ste 106</td>&#10;    <td>Seminole</td>&#10;    <td>FL</td>&#10;    <td>33772</td>&#10;    <td>727-599-0448</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Arena Comics &amp; Gaming</td>&#10;    <td>1360 W. 15th St </td>&#10;    <td>Panama City</td>&#10;    <td>FL</td>&#10;    <td>32401</td>&#10;    <td>850-215-9939</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Avalon Manga Shop</td>&#10;    <td>20321 Old Cutler Rd </td>&#10;    <td>Miami</td>&#10;    <td>FL</td>&#10;    <td>33189</td>&#10;    <td>305-255-6900</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Cool Comics &amp; Games</td>&#10;    <td>231 Del Prado Blvd S Ste 3</td>&#10;    <td>Cape Coral</td>&#10;    <td>FL</td>&#10;    <td>33990</td>&#10;    <td>239-573-7468</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Docking Bay 94 Comics &amp; Games</td>&#10;    <td>7710 NW 56th Way Ste 100</td>&#10;    <td>Coconut Creek</td>&#10;    <td>FL</td>&#10;    <td>33073</td>&#10;    <td>954-427-1694</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Zion</td>&#10;    <td>327-B Tamiami Trail </td>&#10;    <td>Port Charlotte</td>&#10;    <td>FL</td>&#10;    <td>33953</td>&#10;    <td>941-626-4883</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Carl's Game Station</td>&#10;    <td>203 Burns Ln </td>&#10;    <td>Winter Haven</td>&#10;    <td>FL</td>&#10;    <td>33884</td>&#10;    <td>863-293-0764</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Heroes &amp; Villains Comics and Games</td>&#10;    <td>7517 W Sample Road </td>&#10;    <td>Coral Springs</td>&#10;    <td>FL</td>&#10;    <td>33065</td>&#10;    <td>954-227-8482</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>7th Inning Stretch</td>&#10;    <td>11941 Bostic St Ste D </td>&#10;    <td>Dunnellon</td>&#10;    <td>FL</td>&#10;    <td>34432</td>&#10;    <td>352-489-7555</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>TBS Comics - Fort Walton Beach</td>&#10;    <td>550 Mary Esther Blvd </td>&#10;    <td>Fort Walton Beach</td>&#10;    <td>FL</td>&#10;    <td>32548</td>&#10;    <td>850-244-5441</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comic Shack, The</td>&#10;    <td>5602 14th St W </td>&#10;    <td>Bradenton</td>&#10;    <td>FL</td>&#10;    <td>34207</td>&#10;    <td>941-751-4845</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gamers United Shop</td>&#10;    <td>17416 7th St </td>&#10;    <td>Montverde</td>&#10;    <td>FL</td>&#10;    <td>34756</td>&#10;    <td>407-544-2066</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dan's Sportscards &amp; Games</td>&#10;    <td>6415 Blanding Blvd </td>&#10;    <td>Jacksonville</td>&#10;    <td>FL</td>&#10;    <td>32244</td>&#10;    <td>904-777-4548</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Amorous Armadillo Game Shoppe</td>&#10;    <td>2555 N Forsyth Rd Ste A</td>&#10;    <td>Orlando</td>&#10;    <td>FL</td>&#10;    <td>32807</td>&#10;    <td>407-309-2247</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Big Dog Comics</td>&#10;    <td>4804 S US Hwy 1 Delrio Plz</td>&#10;    <td>Fort Pierce</td>&#10;    <td>FL</td>&#10;    <td>34982</td>&#10;    <td>772-466-7323</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>TBS Comics</td>&#10;    <td>6873 N 9th Ave </td>&#10;    <td>Pensacola</td>&#10;    <td>FL</td>&#10;    <td>32504</td>&#10;    <td>850-474-1419</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Plug And Play</td>&#10;    <td>1871 N Nova Rd </td>&#10;    <td>Holly Hill</td>&#10;    <td>FL</td>&#10;    <td>32117</td>&#10;    <td>386-675-3169</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Galaxy Games</td>&#10;    <td>207 N Woodland Blvd </td>&#10;    <td>DeLand</td>&#10;    <td>FL</td>&#10;    <td>32720</td>&#10;    <td>386-279-0153</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Battlegrounds Games &amp; Movies, The</td>&#10;    <td>816 Walnut Square Blvd Ste 51</td>&#10;    <td>Dalton</td>&#10;    <td>GA</td>&#10;    <td>30721</td>&#10;    <td>706-259-9704</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Avalon-Comics Sports Cards</td>&#10;    <td>2384 Ingleside Ave </td>&#10;    <td>Macon</td>&#10;    <td>GA</td>&#10;    <td>31204</td>&#10;    <td>478-254-2749</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Book End, The</td>&#10;    <td>6041 N Henry Blvd Ste C</td>&#10;    <td>Stockbidge</td>&#10;    <td>GA</td>&#10;    <td>30281</td>&#10;    <td>770-474-1032</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Tower Game Center, The</td>&#10;    <td>145 Satellite Blvd NE Ste A</td>&#10;    <td>Suwanee</td>&#10;    <td>GA</td>&#10;    <td>30024</td>&#10;    <td>770-904-3000</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dr No's Comics &amp; Games</td>&#10;    <td>3428 Canton Rd </td>&#10;    <td>Marietta</td>&#10;    <td>GA</td>&#10;    <td>30066-2615</td>&#10;    <td>770-422-4642</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Heroes &amp; Villains - Warner</td>&#10;    <td>117 Russell Pkwy Ste F</td>&#10;    <td>Warner Robins</td>&#10;    <td>GA</td>&#10;    <td>31088</td>&#10;    <td>478-322-0004</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Northlake Stamp &amp; Coin</td>&#10;    <td>4800 Briarcliff Rd NE Ste 2040</td>&#10;    <td>Atlanta</td>&#10;    <td>GA</td>&#10;    <td>30345</td>&#10;    <td>770-939-7842</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dragons Horde, The</td>&#10;    <td>5615 Memorial Drive Ste E </td>&#10;    <td>Stone Mountain</td>&#10;    <td>GA</td>&#10;    <td>30083-3242</td>&#10;    <td>404-298-1188</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Jungle Jake's Comics &amp; Games</td>&#10;    <td>321 W Memorial Dr Ste B</td>&#10;    <td>Hinesville</td>&#10;    <td>GA</td>&#10;    <td>31313</td>&#10;    <td>912-344-1338</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Galactic Quest - Buford</td>&#10;    <td>4264 Suddereth Rd Ste C</td>&#10;    <td>Buford</td>&#10;    <td>GA</td>&#10;    <td>30518</td>&#10;    <td>770-614-4804</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hi-Tek Gaming</td>&#10;    <td>2917 Altama Ave </td>&#10;    <td>Brunswick</td>&#10;    <td>GA</td>&#10;    <td>31520</td>&#10;    <td>912-265-3105</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Galactic Quest - Lawrenceville</td>&#10;    <td>481 W Pike St </td>&#10;    <td>Lawrenceville</td>&#10;    <td>GA</td>&#10;    <td>30045</td>&#10;    <td>770-339-3001</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Grandslam Sportscards</td>&#10;    <td>130 Commerce Blvd </td>&#10;    <td>Bogart</td>&#10;    <td>GA</td>&#10;    <td>30622</td>&#10;    <td>706-613-6698</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Otherworld Games</td>&#10;    <td>202 Main St </td>&#10;    <td>Dallas</td>&#10;    <td>GA</td>&#10;    <td>30132</td>&#10;    <td>770-445-4830</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Titan Games &amp; Comics - Duluth</td>&#10;    <td>2103 Pleasant Hill Rd </td>&#10;    <td>Duluth</td>&#10;    <td>GA</td>&#10;    <td>30096</td>&#10;    <td>770-497-0202</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comics &amp; !</td>&#10;    <td>124 W Jackson St </td>&#10;    <td>Dublin</td>&#10;    <td>GA</td>&#10;    <td>31021</td>&#10;    <td>478-275-3791</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Over</td>&#10;    <td>146 B Professional Circle </td>&#10;    <td>St. Marys</td>&#10;    <td>GA</td>&#10;    <td>31558</td>&#10;    <td>912-576-2122</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Fastest Dog Inc, The</td>&#10;    <td>706 W Church St Ste 900</td>&#10;    <td>Jasper</td>&#10;    <td>GA</td>&#10;    <td>30143</td>&#10;    <td>770-656-7961</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Tyche's Games</td>&#10;    <td>1056 S Lumpkin St </td>&#10;    <td>Athens</td>&#10;    <td>GA</td>&#10;    <td>30605</td>&#10;    <td>706-354-4500</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Titan Games &amp; Comics - Smyrna</td>&#10;    <td>2585 Spring Rd Ste C</td>&#10;    <td>Smyrna</td>&#10;    <td>GA</td>&#10;    <td>30080-3875</td>&#10;    <td>770-433-8226</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Super Games</td>&#10;    <td>11060 Alpharetta Hwy Ste 172</td>&#10;    <td>Roswell</td>&#10;    <td>GA</td>&#10;    <td>30076</td>&#10;    <td>770-518-4888</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gaming Pit, The</td>&#10;    <td>3700 Satellite Blvd Ste 7B</td>&#10;    <td>Duluth</td>&#10;    <td>GA</td>&#10;    <td>30096</td>&#10;    <td>770-921-5511</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Raven's Nest, The</td>&#10;    <td>688 Whitlock Ave NW Ste 400</td>&#10;    <td>Marietta</td>&#10;    <td>GA</td>&#10;    <td>30064</td>&#10;    <td>678-637-8000</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Morningstar Games</td>&#10;    <td>30 W Montgomery Xrd </td>&#10;    <td>Savannah</td>&#10;    <td>GA</td>&#10;    <td>31406</td>&#10;    <td>912-927-2770</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Heroes Cards, Comics &amp; Games</td>&#10;    <td>211 Bullsboro Dr Ste A</td>&#10;    <td>Newnan</td>&#10;    <td>GA</td>&#10;    <td>30263</td>&#10;    <td>770-251-5754</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Anime-zing Escape</td>&#10;    <td>1082 Jonesboro Rd </td>&#10;    <td>McDonough</td>&#10;    <td>GA</td>&#10;    <td>30253</td>&#10;    <td>770-914-8282</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Quest Comic Shop</td>&#10;    <td>225 Lovvorn Rd </td>&#10;    <td>Carrollton</td>&#10;    <td>GA</td>&#10;    <td>30117</td>&#10;    <td>770-832-0172</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>TJ's Media Center</td>&#10;    <td>3090 E Walnut Ave Ste B</td>&#10;    <td>Dalton</td>&#10;    <td>GA</td>&#10;    <td>30721</td>&#10;    <td>706-370-4541</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Galactic Comics &amp; Games - Statesboro</td>&#10;    <td>25 Siebald St </td>&#10;    <td>Statesboro</td>&#10;    <td>GA</td>&#10;    <td>30458</td>&#10;    <td>912-489-3123</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Bavarian Battlegrounds</td>&#10;    <td>81 Cemetery st </td>&#10;    <td>Cleveland</td>&#10;    <td>GA</td>&#10;    <td>30528</td>&#10;    <td>706-219-2273</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Kapow Comics</td>&#10;    <td>2611 Freedom Pkwy </td>&#10;    <td>Cumming</td>&#10;    <td>GA</td>&#10;    <td>30041</td>&#10;    <td>770-781-3212</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Wizard's Keep - Valdosta</td>&#10;    <td>2905 N Patterson St </td>&#10;    <td>Valdosta</td>&#10;    <td>GA</td>&#10;    <td>31602</td>&#10;    <td>229-244-0774</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>FCB Sports Cards, Comics &amp; Games</td>&#10;    <td>9850 Nesbit Ferry Rd Ste 17</td>&#10;    <td>Alpharetta</td>&#10;    <td>GA</td>&#10;    <td>30022</td>&#10;    <td>770-993-6955</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Moxie Paintball</td>&#10;    <td>7519 Fortson Rd Ste 1C</td>&#10;    <td>Columbus</td>&#10;    <td>GA</td>&#10;    <td>31909</td>&#10;    <td>706-221-6700</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>HobbyTown USA - Kennesaw</td>&#10;    <td>840 Ernest W Barrett Pkwy NW Ste 650</td>&#10;    <td>Kennesaw</td>&#10;    <td>GA</td>&#10;    <td>30144</td>&#10;    <td>770-426-8800</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>World of Heroes, A</td>&#10;    <td>2464 Winder Hwy Ste J1</td>&#10;    <td>Dacula</td>&#10;    <td>GA</td>&#10;    <td>30019</td>&#10;    <td>678-373-3723</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Treefort Games</td>&#10;    <td>720 Glynn Street N </td>&#10;    <td>Fayetteville</td>&#10;    <td>GA</td>&#10;    <td>30214</td>&#10;    <td>770-719-3400</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Harley Electronics</td>&#10;    <td>417 Blue Ridge St Ste E</td>&#10;    <td>Blairsville</td>&#10;    <td>GA</td>&#10;    <td>30512</td>&#10;    <td>706-745-7832</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Randyland Gaming</td>&#10;    <td>3311 Highway 5, Suite G </td>&#10;    <td>Douglasville</td>&#10;    <td>GA</td>&#10;    <td>30135</td>&#10;    <td>770-485-5897</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Giga-Bites Cafe</td>&#10;    <td>2197 Roswell Rd Ste 101</td>&#10;    <td>Marietta</td>&#10;    <td>GA</td>&#10;    <td>30062</td>&#10;    <td>770-578-1497</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hobby House</td>&#10;    <td>4564 HWY 411 N </td>&#10;    <td>Chatsworth</td>&#10;    <td>GA</td>&#10;    <td>30705</td>&#10;    <td>706-517-8699</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Fables</td>&#10;    <td>1110 Red Bud Rd NE </td>&#10;    <td>Calhoun</td>&#10;    <td>GA</td>&#10;    <td>30701</td>&#10;    <td>706-263-7308</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Augusta Book Exchange #1</td>&#10;    <td>1650 Gordon Hwy </td>&#10;    <td>Augusta</td>&#10;    <td>GA</td>&#10;    <td>30906-2292</td>&#10;    <td>706-860-6553</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Southern Crafts - Agana</td>&#10;    <td>302 S Rt 4 Ste 4</td>&#10;    <td>Agana</td>&#10;    <td>GU</td>&#10;    <td>96932</td>&#10;    <td>671-989-4580</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>New Box Seats</td>&#10;    <td>1060 Rt 16 Avery Comm Bldg Suite 102 </td>&#10;    <td>Barrigada</td>&#10;    <td>GU</td>&#10;    <td>96931</td>&#10;    <td>671-633-3334</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Toys 4 U</td>&#10;    <td>1289 Kilauea Ave Ste F</td>&#10;    <td>Hilo</td>&#10;    <td>HI</td>&#10;    <td>96720</td>&#10;    <td>808-961-1795</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Toy Lynx</td>&#10;    <td>650 Iwilei Rd #120 </td>&#10;    <td>HONOLULU</td>&#10;    <td>HI</td>&#10;    <td>96817</td>&#10;    <td>808-529-8697</td>&#10;    <td>&#10;  </td></tr>&#10;  <tr>&#10;    <td>Maui Toyworks</td>&#10;    <td>1221 Honoapiilani Hwy Ste E5</td>&#10;    <td>Lahaina</td>&#10;    <td>HI</td>&#10;    <td>96761</td>&#10;    <td>808-661-4766</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>OlliePop</td>&#10;    <td>275 W Kaahumanu Ave Ste 1B03</td>&#10;    <td>Kahului</td>&#10;    <td>HI</td>&#10;    <td>96732</td>&#10;    <td>808-877-0902</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Other Realms</td>&#10;    <td>1050 Ala Moana Blvd Ste 2300</td>&#10;    <td>HONOLULU</td>&#10;    <td>HI</td>&#10;    <td>96814</td>&#10;    <td>808-596-8236</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Paula's Sports Cards Etc</td>&#10;    <td>1231 Wilder Ave Ste 206</td>&#10;    <td>HONOLULU</td>&#10;    <td>HI</td>&#10;    <td>96822</td>&#10;    <td>808-533-4886</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Da Planet - HONOLULU</td>&#10;    <td>1423 Kapiolani BLVD 2nd Floor </td>&#10;    <td>HONOLULU</td>&#10;    <td>HI</td>&#10;    <td>96814</td>&#10;    <td>808-791-2345</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Multiverse Comics &amp; Games</td>&#10;    <td>815 1/2 5th Ave </td>&#10;    <td>Grinnell</td>&#10;    <td>IA</td>&#10;    <td>50112</td>&#10;    <td>641-275-8172</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Critical Hits Games</td>&#10;    <td>702 S Gilbert St Ste 104</td>&#10;    <td>Iowa City</td>&#10;    <td>IA</td>&#10;    <td>52240</td>&#10;    <td>319-333-1260</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Mayhem Collectibles - Des Moines</td>&#10;    <td>7500 University Ave #D</td>&#10;    <td>Des Moines</td>&#10;    <td>IA</td>&#10;    <td>50325</td>&#10;    <td>515-271-8104</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Mayhem Collectibles - Ames</td>&#10;    <td>2532 Lincoln Way </td>&#10;    <td>Ames</td>&#10;    <td>IA</td>&#10;    <td>50014</td>&#10;    <td>515-292-3510</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Jay's CD &amp; Hobby</td>&#10;    <td>5921 SE 14th St Ste. 700 </td>&#10;    <td>Des Moines</td>&#10;    <td>IA</td>&#10;    <td>50315</td>&#10;    <td>515-287-4578</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>2nd Act Comics &amp; Games</td>&#10;    <td>109 E Main St </td>&#10;    <td>Ottumwa</td>&#10;    <td>IA</td>&#10;    <td>52501-2917</td>&#10;    <td>641-682-9228</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Stars &amp; Strikes</td>&#10;    <td>204 Main Ave </td>&#10;    <td>Clinton</td>&#10;    <td>IA</td>&#10;    <td>52732</td>&#10;    <td>563-243-8298</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Rodman Comics</td>&#10;    <td>318 Ankeny Blvd </td>&#10;    <td>Ankeny</td>&#10;    <td>IA</td>&#10;    <td>50021</td>&#10;    <td>515-965-4592</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Craft &amp; Hobby Connection</td>&#10;    <td>404 Church St </td>&#10;    <td>Ottumwa</td>&#10;    <td>IA</td>&#10;    <td>52501</td>&#10;    <td>641-954-1737</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Tempest Games</td>&#10;    <td>212 Edgewood Rd NW Ste K</td>&#10;    <td>Cedar Rapids</td>&#10;    <td>IA</td>&#10;    <td>52405</td>&#10;    <td>319-390-6441</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hawkeye Baseball Cards</td>&#10;    <td>419 Jefferson Street </td>&#10;    <td>Burlington</td>&#10;    <td>IA</td>&#10;    <td>52601</td>&#10;    <td>319-753-5585</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Video Games Etc!</td>&#10;    <td>3005 Wiley Blvd SW </td>&#10;    <td>Cedar Rapids</td>&#10;    <td>IA</td>&#10;    <td>52403</td>&#10;    <td>319-396-7100</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>BattleZone Games</td>&#10;    <td>4333 Czech Ln Ste B5</td>&#10;    <td>Cedar Rapids</td>&#10;    <td>IA</td>&#10;    <td>52402</td>&#10;    <td>319-378-9663</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Limited Edition</td>&#10;    <td>2225 College St </td>&#10;    <td>Cedar Falls</td>&#10;    <td>IA</td>&#10;    <td>50613</td>&#10;    <td>319-273-8969</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Games Plus One</td>&#10;    <td>4621 Cheyenne Ave Ste. B </td>&#10;    <td>Davenport</td>&#10;    <td>IA</td>&#10;    <td>52806</td>&#10;    <td>563-391-1680</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Main Street Magic, Miniatures &amp; More</td>&#10;    <td>330 Main St Ste 110</td>&#10;    <td>Ames</td>&#10;    <td>IA</td>&#10;    <td>50010</td>&#10;    <td>515-232-2325</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comic World</td>&#10;    <td>2300 JFK Rd </td>&#10;    <td>Dubuque</td>&#10;    <td>IA</td>&#10;    <td>52001</td>&#10;    <td>563-584-1762</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Now &amp; Then</td>&#10;    <td>1314 4th St SW #130 </td>&#10;    <td>Mason City</td>&#10;    <td>IA</td>&#10;    <td>50401-2742</td>&#10;    <td>641-423-3839</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>MIA Gaming Lounge</td>&#10;    <td>1523 Geneva </td>&#10;    <td>Sioux City</td>&#10;    <td>IA</td>&#10;    <td>51103</td>&#10;    <td>712-204-1837</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Core, The</td>&#10;    <td>1926 Valley Park Dr </td>&#10;    <td>Cedar Falls</td>&#10;    <td>IA</td>&#10;    <td>50613</td>&#10;    <td>319-277-1835</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Exchange, The</td>&#10;    <td>122 Winnebago St </td>&#10;    <td>Decorah</td>&#10;    <td>IA</td>&#10;    <td>52101</td>&#10;    <td>563-382-4966</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Phoenix Fire Games</td>&#10;    <td>62 E Fairview Ave </td>&#10;    <td>Meridian</td>&#10;    <td>ID</td>&#10;    <td>83642</td>&#10;    <td>208-629-4686</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Beckmon's Gaming Paradise</td>&#10;    <td>1037 Blue Lakes Blvd N </td>&#10;    <td>Twin Falls</td>&#10;    <td>ID</td>&#10;    <td>83301</td>&#10;    <td>208-733-3901</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>HobbyTown USA - Nampa</td>&#10;    <td>2117 N Cassia St </td>&#10;    <td>Nampa</td>&#10;    <td>ID</td>&#10;    <td>83651</td>&#10;    <td>208-442-1942</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>A Street Games</td>&#10;    <td>489 Park Ave </td>&#10;    <td>Idaho Falls</td>&#10;    <td>ID</td>&#10;    <td>83402</td>&#10;    <td>208-542-2824</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Wondertrail</td>&#10;    <td>705 Airbase Rd </td>&#10;    <td>Mountain Home</td>&#10;    <td>ID</td>&#10;    <td>83647</td>&#10;    <td>208-587-2297</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Goblin Town Games</td>&#10;    <td>1800 Garret Way Ste 9</td>&#10;    <td>Pocatello</td>&#10;    <td>ID</td>&#10;    <td>83201</td>&#10;    <td>208-242-3237</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Strategy &amp; Games</td>&#10;    <td>200 W Hanley Ave Ste B207</td>&#10;    <td>Coeur D'alene</td>&#10;    <td>ID</td>&#10;    <td>83815</td>&#10;    <td>208-762-7764</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>ABU Games</td>&#10;    <td>1825 N Wildwood </td>&#10;    <td>Boise</td>&#10;    <td>ID</td>&#10;    <td>83713</td>&#10;    <td>208-376-6019</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>All About Games</td>&#10;    <td>7079 Overland </td>&#10;    <td>Boise</td>&#10;    <td>ID</td>&#10;    <td>83709</td>&#10;    <td>208-343-5653</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Safari Pearl Comics</td>&#10;    <td>221 E 3rd St </td>&#10;    <td>Moscow</td>&#10;    <td>ID</td>&#10;    <td>83843</td>&#10;    <td>208-882-9499</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Outland Comics</td>&#10;    <td>2095 E 17th St </td>&#10;    <td>Idaho Falls</td>&#10;    <td>ID</td>&#10;    <td>83404</td>&#10;    <td>208-529-5717</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dragonslayer Games</td>&#10;    <td>52 E Main St </td>&#10;    <td>Rexburg</td>&#10;    <td>ID</td>&#10;    <td>83440</td>&#10;    <td>208-437-8060</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Strategy &amp; Games - Moscow</td>&#10;    <td>317 W 6th St Ste 105</td>&#10;    <td>Moscow</td>&#10;    <td>ID</td>&#10;    <td>83843</td>&#10;    <td>509-332-9513</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>HobbyTown USA - Boise</td>&#10;    <td>3415 N Cole Rd </td>&#10;    <td>Boise</td>&#10;    <td>ID</td>&#10;    <td>83704</td>&#10;    <td>208-376-1942</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Lightning Comics &amp; Games</td>&#10;    <td>411 W Haycraft Ave Unit C-1</td>&#10;    <td>Coeur D'alene</td>&#10;    <td>ID</td>&#10;    <td>83815</td>&#10;    <td>208-667-2400</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Alternate Realities - Galesburg</td>&#10;    <td>238 E Main St </td>&#10;    <td>Galesburg</td>&#10;    <td>IL</td>&#10;    <td>61401</td>&#10;    <td>309-351-7372</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gamers World - Aurora</td>&#10;    <td>195 Fox Valley Center Dr Ste D-001</td>&#10;    <td>Aurora</td>&#10;    <td>IL</td>&#10;    <td>60504</td>&#10;    <td>630-375-9210</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Whatnot Collectibles</td>&#10;    <td>105 N Market St </td>&#10;    <td>Chatham</td>&#10;    <td>IL</td>&#10;    <td>62629</td>&#10;    <td>217-697-0045</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Knight, The</td>&#10;    <td>481 N Commons Dr Ste G</td>&#10;    <td>Aurora</td>&#10;    <td>IL</td>&#10;    <td>60504</td>&#10;    <td>630-340-5246</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Kong's Imagination Emporium</td>&#10;    <td>216 S 2nd St </td>&#10;    <td>Greenville</td>&#10;    <td>IL</td>&#10;    <td>62246</td>&#10;    <td>618-799-6739</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Mind Games Hobby</td>&#10;    <td>511 1st St </td>&#10;    <td>La Salle</td>&#10;    <td>IL</td>&#10;    <td>61301</td>&#10;    <td>815-349-4440</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Graham Crackers Comics - Naperville</td>&#10;    <td>1271 Rickert Dr Ste 135</td>&#10;    <td>Naperville</td>&#10;    <td>IL</td>&#10;    <td>60540</td>&#10;    <td>630-355-4310</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gryfalia's Aerie</td>&#10;    <td>309 N Main St </td>&#10;    <td>Bloomington</td>&#10;    <td>IL</td>&#10;    <td>61701</td>&#10;    <td>309-533-9720</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>New Game in Town</td>&#10;    <td>811 W Lincoln Hwy Ste A</td>&#10;    <td>Dekalb</td>&#10;    <td>IL</td>&#10;    <td>60115</td>&#10;    <td>815-517-0003</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dragon's Refuge, The</td>&#10;    <td>122 W Main St </td>&#10;    <td>Peotone</td>&#10;    <td>IL</td>&#10;    <td>60468</td>&#10;    <td>708-258-9040</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Prime Time Sports</td>&#10;    <td>35 Berkshire Dr Ste 14 </td>&#10;    <td>Crystal Lake</td>&#10;    <td>IL</td>&#10;    <td>60014</td>&#10;    <td>815-356-7756</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Trade Mart</td>&#10;    <td>4500 16th St </td>&#10;    <td>Moline</td>&#10;    <td>IL</td>&#10;    <td>61265</td>&#10;    <td>309-764-0173</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Castle Perilous Games &amp; Books</td>&#10;    <td>207 West Main St. </td>&#10;    <td>Carbondale</td>&#10;    <td>IL</td>&#10;    <td>62901-2919</td>&#10;    <td>618-529-5317</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Top Cut Comics - Chicago</td>&#10;    <td>6810 W Archer Ave </td>&#10;    <td>Chicago</td>&#10;    <td>IL</td>&#10;    <td>60638</td>&#10;    <td>773-229-0824</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>End Zone, The</td>&#10;    <td>1622 Broadway Ave </td>&#10;    <td>Mattoon</td>&#10;    <td>IL</td>&#10;    <td>61938</td>&#10;    <td>217-235-2960</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Unique Gifts and Games</td>&#10;    <td>82 Center St </td>&#10;    <td>Grayslake</td>&#10;    <td>IL</td>&#10;    <td>60030</td>&#10;    <td>847-548-8270</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gamers World - Vernon Hills</td>&#10;    <td>814 Hawthorne Ctr </td>&#10;    <td>Vernon Hills</td>&#10;    <td>IL</td>&#10;    <td>60061</td>&#10;    <td>847-573-1270</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Top Cut Gaming</td>&#10;    <td>15420 S Route 59 Ste 120</td>&#10;    <td>Plainfield</td>&#10;    <td>IL</td>&#10;    <td>60544</td>&#10;    <td>815-267-6078</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Fortress PC</td>&#10;    <td>2 E Main St Ste 14</td>&#10;    <td>Danville</td>&#10;    <td>IL</td>&#10;    <td>61832</td>&#10;    <td>217-442-3234</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Wandering Dragon Game Shoppe, The</td>&#10;    <td>24026 W. Lockport St. Suite #200 </td>&#10;    <td>Plainfield</td>&#10;    <td>IL</td>&#10;    <td>60544</td>&#10;    <td>815-267-6245</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dean's Dugout</td>&#10;    <td>2035 S Washington St Ste 155-159</td>&#10;    <td>Naperville</td>&#10;    <td>IL</td>&#10;    <td>60565</td>&#10;    <td>630-527-8888</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>First Aid Comics</td>&#10;    <td>1617 E 55th St Hyde Park</td>&#10;    <td>Chicago</td>&#10;    <td>IL</td>&#10;    <td>60615</td>&#10;    <td>773-752-6642</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Wanderers' Refuge</td>&#10;    <td>4546 N Western Ave </td>&#10;    <td>Chicago</td>&#10;    <td>IL</td>&#10;    <td>60625</td>&#10;    <td>773-661-4440</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Cataclysm Games &amp; Collectibles</td>&#10;    <td>5069 Edgemere Ct </td>&#10;    <td>Roscoe</td>&#10;    <td>IL</td>&#10;    <td>61073</td>&#10;    <td>779-200-0600</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>HobbyTown USA - Orland Park</td>&#10;    <td>15551 S 94th Ave </td>&#10;    <td>Orland Park</td>&#10;    <td>IL</td>&#10;    <td>60462</td>&#10;    <td>708-349-8697</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Slackers CD's &amp; Games - Alton</td>&#10;    <td>317 Homer Adams Pkwy Ste K</td>&#10;    <td>Alton</td>&#10;    <td>IL</td>&#10;    <td>62002</td>&#10;    <td>618-462-2005</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Capital City Games</td>&#10;    <td>1305 W Wabash Ave Ste L</td>&#10;    <td>Springfield</td>&#10;    <td>IL</td>&#10;    <td>62704</td>&#10;    <td>217-793-5229</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>CT's Hobbies</td>&#10;    <td>508 S State St </td>&#10;    <td>Belvidere</td>&#10;    <td>IL</td>&#10;    <td>61008</td>&#10;    <td>815-323-0098</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Tenth Planet</td>&#10;    <td>5005 W 95th St </td>&#10;    <td>Oak Lawn</td>&#10;    <td>IL</td>&#10;    <td>60453</td>&#10;    <td>708-636-0806</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Metropolis</td>&#10;    <td>821 1st St </td>&#10;    <td>La Salle</td>&#10;    <td>IL</td>&#10;    <td>61301</td>&#10;    <td>815-223-9433</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Alternate Reality</td>&#10;    <td>3149 W 111th St </td>&#10;    <td>Chicago</td>&#10;    <td>IL</td>&#10;    <td>60655-2205</td>&#10;    <td>773-881-4376</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gamers World - Lombard</td>&#10;    <td>203 Yorktown Shopping Center Ste 265</td>&#10;    <td>Lombard</td>&#10;    <td>IL</td>&#10;    <td>60148</td>&#10;    <td>630-424-0344</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Main Street Music</td>&#10;    <td>108 N Market Street </td>&#10;    <td>Waterloo</td>&#10;    <td>IL</td>&#10;    <td>62298-1529</td>&#10;    <td>618-939-4676</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>First Aid Comics</td>&#10;    <td>1142 W Taylor St </td>&#10;    <td>Chicago</td>&#10;    <td>IL</td>&#10;    <td>60607</td>&#10;    <td>312-733-2080</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hobby Horse</td>&#10;    <td>208 W Market St </td>&#10;    <td>Taylorville</td>&#10;    <td>IL</td>&#10;    <td>62568</td>&#10;    <td>217-824-9400</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Elsewhere Comics</td>&#10;    <td>2361 Vermont St. </td>&#10;    <td>Blue Island</td>&#10;    <td>IL</td>&#10;    <td>60406</td>&#10;    <td>708-489-1454</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Fantasy Books Inc</td>&#10;    <td>1977 W Hwy 50 </td>&#10;    <td>Fairview Heights</td>&#10;    <td>IL</td>&#10;    <td>62208</td>&#10;    <td>618-624-0920</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Galaxy Comic Zone</td>&#10;    <td>3804 N Western Ave </td>&#10;    <td>Chicago</td>&#10;    <td>IL</td>&#10;    <td>60618</td>&#10;    <td>773-267-1043</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Off On The Square</td>&#10;    <td>228 E State St </td>&#10;    <td>Jacksonville</td>&#10;    <td>IL</td>&#10;    <td>62650</td>&#10;    <td>217-245-0306</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dreamland Comics</td>&#10;    <td>105 W Rockland Rd </td>&#10;    <td>Libertyville</td>&#10;    <td>IL</td>&#10;    <td>60048-2709</td>&#10;    <td>847-680-0727</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Quincy Hobby Center</td>&#10;    <td>3632 Maine St </td>&#10;    <td>Quincy</td>&#10;    <td>IL</td>&#10;    <td>62301-5876</td>&#10;    <td>217-223-8498</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Zone Comics, The</td>&#10;    <td>18107 Dixie Hwy </td>&#10;    <td>Homewood</td>&#10;    <td>IL</td>&#10;    <td>60430</td>&#10;    <td>708-798-1006</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Journey Comics</td>&#10;    <td>206 N Lafayette St </td>&#10;    <td>Macomb</td>&#10;    <td>IL</td>&#10;    <td>61455-2206</td>&#10;    <td>309-837-7300</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>AlleyCat Comics</td>&#10;    <td>5304 N Clark St Rear </td>&#10;    <td>Chicago</td>&#10;    <td>IL</td>&#10;    <td>60640</td>&#10;    <td>773-907-3404</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Underdark Comics &amp; Games</td>&#10;    <td>508 S 9th St </td>&#10;    <td>Quincy</td>&#10;    <td>IL</td>&#10;    <td>62301</td>&#10;    <td>217-214-0634</td>&#10;    <td>&#10;  </td></tr>&#10;  <tr>&#10;    <td>Modern Age Comics</td>&#10;    <td>1180 Dundee Ave </td>&#10;    <td>Elgin</td>&#10;    <td>IL</td>&#10;    <td>60120</td>&#10;    <td>847-409-6295</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>KFL Sales</td>&#10;    <td>714 Cottage St </td>&#10;    <td>Shorewood</td>&#10;    <td>IL</td>&#10;    <td>60404</td>&#10;    <td>815-744-5570</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Pastimes</td>&#10;    <td>8502 Golf Rd </td>&#10;    <td>Niles</td>&#10;    <td>IL</td>&#10;    <td>60714</td>&#10;    <td>847-470-9636</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gaming Goat, The - Schaumburg</td>&#10;    <td>1115 N Salem Dr </td>&#10;    <td>Schaumburg</td>&#10;    <td>IL</td>&#10;    <td>60194</td>&#10;    <td>847-260-8316</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hotsauce Games</td>&#10;    <td>34 N Cass Ave </td>&#10;    <td>Westmont</td>&#10;    <td>IL</td>&#10;    <td>60559</td>&#10;    <td>630-324-6365</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Die Hard Games</td>&#10;    <td>1039 Junction Circle </td>&#10;    <td>Springfield</td>&#10;    <td>IL</td>&#10;    <td>62704</td>&#10;    <td>217-698-4343</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Chicagoland Games</td>&#10;    <td>5550 N Broadway Ave </td>&#10;    <td>Chicago</td>&#10;    <td>IL</td>&#10;    <td>60640</td>&#10;    <td>773-728-3656</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Xtreme Games</td>&#10;    <td>2108 E Grand Ave </td>&#10;    <td>Lindenhurst</td>&#10;    <td>IL</td>&#10;    <td>60046</td>&#10;    <td>224-372-7560</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Twilight Comics</td>&#10;    <td>3760 Green Mount Crossing Dr </td>&#10;    <td>Shiloh</td>&#10;    <td>IL</td>&#10;    <td>62269</td>&#10;    <td>618-622-0085</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dragons Table, The</td>&#10;    <td>205 N Market </td>&#10;    <td>Champaign</td>&#10;    <td>IL</td>&#10;    <td>61820</td>&#10;    <td>217-359-0503</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gaming Goat, The - Elgin</td>&#10;    <td>2090 Larkin Ave </td>&#10;    <td>Elgin</td>&#10;    <td>IL</td>&#10;    <td>60123</td>&#10;    <td>224-325-4309</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Armored Gopher Games</td>&#10;    <td>1502 N Cunningham Ave Ste E</td>&#10;    <td>Urbana</td>&#10;    <td>IL</td>&#10;    <td>61802</td>&#10;    <td>217-344-4263</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Heroic Adventures</td>&#10;    <td>1031 Century Dr </td>&#10;    <td>Edwardsville</td>&#10;    <td>IL</td>&#10;    <td>62025</td>&#10;    <td>618-659-0099</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Just For Fun</td>&#10;    <td>3010 N Sterling Ave </td>&#10;    <td>Peoria</td>&#10;    <td>IL</td>&#10;    <td>61604</td>&#10;    <td>309-686-7720</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gamers World - Schaumburg</td>&#10;    <td>5 Woodfield Shopping Ctr Space F-209</td>&#10;    <td>Schaumburg</td>&#10;    <td>IL</td>&#10;    <td>60173</td>&#10;    <td>847-517-1103</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dizzy Dugout</td>&#10;    <td>121 E Main St </td>&#10;    <td>Collinsville</td>&#10;    <td>IL</td>&#10;    <td>62234</td>&#10;    <td>618-345-6453</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>North Shore Comics</td>&#10;    <td>3155 1/2 W Dundee Rd </td>&#10;    <td>Northbrook</td>&#10;    <td>IL</td>&#10;    <td>60062</td>&#10;    <td>847-480-1996</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gamestorm</td>&#10;    <td>1056 State St </td>&#10;    <td>Lemont</td>&#10;    <td>IL</td>&#10;    <td>60439</td>&#10;    <td>630-243-9330</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Centralia Game Room</td>&#10;    <td>213 S Locust St </td>&#10;    <td>Centralia</td>&#10;    <td>IL</td>&#10;    <td>62801</td>&#10;    <td>618-300-2684</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Everything Games</td>&#10;    <td>316 W Half Day Rd </td>&#10;    <td>Buffalo Grove</td>&#10;    <td>IL</td>&#10;    <td>60089</td>&#10;    <td>224-676-1114</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Robin's Nest</td>&#10;    <td>3925 East State St </td>&#10;    <td>Rockford</td>&#10;    <td>IL</td>&#10;    <td>61108</td>&#10;    <td>815-395-0526</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Nerd Rage Gaming</td>&#10;    <td>1493 W Dundee Rd </td>&#10;    <td>Buffalo Grove</td>&#10;    <td>IL</td>&#10;    <td>60089</td>&#10;    <td>847-254-7070</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Fantasy Books</td>&#10;    <td>1113 E Main St </td>&#10;    <td>Belleville</td>&#10;    <td>IL</td>&#10;    <td>62220</td>&#10;    <td>618-235-0844</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Lich's Lair Games, The</td>&#10;    <td>3517 Ridge Rd </td>&#10;    <td>Lansing</td>&#10;    <td>IL</td>&#10;    <td>60438</td>&#10;    <td>708-251-2500</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Fair Game</td>&#10;    <td>5150 Main St Ste C</td>&#10;    <td>Downers Grove</td>&#10;    <td>IL</td>&#10;    <td>60515</td>&#10;    <td>630-963-0640</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>BC Collectibles</td>&#10;    <td>2917 N Vermilion St </td>&#10;    <td>Danville</td>&#10;    <td>IL</td>&#10;    <td>61832-1366</td>&#10;    <td>217-431-1422</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Asgard Keep</td>&#10;    <td>1001 Olin Ln </td>&#10;    <td>Mount Vernon</td>&#10;    <td>IL</td>&#10;    <td>62864</td>&#10;    <td>618-244-3441</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Chicago Clubhouse, The</td>&#10;    <td>1627 Waukegan Rd </td>&#10;    <td>Glenview</td>&#10;    <td>IL</td>&#10;    <td>60025</td>&#10;    <td>847-440-2150</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Galactic Force Toys</td>&#10;    <td>1121 W Belmont Ave </td>&#10;    <td>Chicago</td>&#10;    <td>IL</td>&#10;    <td>60657</td>&#10;    <td>773-327-1369</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Top Cut Comics - Loves Park</td>&#10;    <td>5600 N 2nd St </td>&#10;    <td>Loves Park</td>&#10;    <td>IL</td>&#10;    <td>61111</td>&#10;    <td>815-633-0330</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Games Plus</td>&#10;    <td>101 W Prospect Ave </td>&#10;    <td>Mt Prospect</td>&#10;    <td>IL</td>&#10;    <td>60056-3216</td>&#10;    <td>847-577-9656</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gem Comics</td>&#10;    <td>125 W 1st St </td>&#10;    <td>Elmhurst</td>&#10;    <td>IL</td>&#10;    <td>60126</td>&#10;    <td>630-833-8787</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Midwest Gamez</td>&#10;    <td>3924 W Washington St </td>&#10;    <td>Indianapolis</td>&#10;    <td>IN</td>&#10;    <td>46241</td>&#10;    <td>317-493-9536</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Krypto's Comix</td>&#10;    <td>311 2nd St </td>&#10;    <td>Aurora</td>&#10;    <td>IN</td>&#10;    <td>47001</td>&#10;    <td>513-479-1820</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gamerz</td>&#10;    <td>8735 US 31 South </td>&#10;    <td>Indianapolis</td>&#10;    <td>IN</td>&#10;    <td>46227</td>&#10;    <td>317-865-1500</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Preserve - Bloomington</td>&#10;    <td>101 W Kirkswood Ave Ste 117</td>&#10;    <td>Bloomington</td>&#10;    <td>IN</td>&#10;    <td>47404</td>&#10;    <td>812-332-6602</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Empire Comics</td>&#10;    <td>1636 Slate Run Rd </td>&#10;    <td>New Albany</td>&#10;    <td>IN</td>&#10;    <td>47150</td>&#10;    <td>812-948-9290</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Book Broker, The</td>&#10;    <td>2717 Covert Ave </td>&#10;    <td>Evansville</td>&#10;    <td>IN</td>&#10;    <td>47714</td>&#10;    <td>812-479-3677</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Wizard's Keep - Muncie</td>&#10;    <td>2144 W White River Blvd </td>&#10;    <td>Muncie</td>&#10;    <td>IN</td>&#10;    <td>47303</td>&#10;    <td>765-286-5145</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>TCB Games Inc</td>&#10;    <td>515 N Jefferson St </td>&#10;    <td>Huntington</td>&#10;    <td>IN</td>&#10;    <td>46750</td>&#10;    <td>260-358-0690</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>DZ Gaming</td>&#10;    <td>241 N 2nd St </td>&#10;    <td>Decatur</td>&#10;    <td>IN</td>&#10;    <td>46733</td>&#10;    <td>260-724-2665</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hometown Comics</td>&#10;    <td>14 W. Main St. </td>&#10;    <td>Greenfield</td>&#10;    <td>IN</td>&#10;    <td>46140</td>&#10;    <td>317-467-9050</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Common Room Games</td>&#10;    <td>2642 E 10th St </td>&#10;    <td>Bloomington</td>&#10;    <td>IN</td>&#10;    <td>47408</td>&#10;    <td>812-333-4263</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dugout, The</td>&#10;    <td>5707 W Morris St </td>&#10;    <td>Indianapolis</td>&#10;    <td>IN</td>&#10;    <td>46241</td>&#10;    <td>317-247-5158</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comic Quest</td>&#10;    <td>2260 Morgan Ave </td>&#10;    <td>Evansville</td>&#10;    <td>IN</td>&#10;    <td>47711</td>&#10;    <td>812-474-1133</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Bower Street Cards &amp; Games</td>&#10;    <td>717 Bower St </td>&#10;    <td>Elkhart</td>&#10;    <td>IN</td>&#10;    <td>46514</td>&#10;    <td>574-295-7534</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Danger Room Games &amp; Comics</td>&#10;    <td>2213 S Scatterfield Rd Ste 6</td>&#10;    <td>Anderson</td>&#10;    <td>IN</td>&#10;    <td>46016</td>&#10;    <td>765-646-6341</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Galactic Gregs, Inc</td>&#10;    <td>1407 E Lincoln Way </td>&#10;    <td>Valparaiso</td>&#10;    <td>IN</td>&#10;    <td>46383</td>&#10;    <td>219-464-0119</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Heroes Haven Comics &amp; Games</td>&#10;    <td>296-A E US Hwy 20 </td>&#10;    <td>Michigan City</td>&#10;    <td>IN</td>&#10;    <td>46360</td>&#10;    <td>219-809-9191</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Andrew's Gaming</td>&#10;    <td>3140 1/2 Ohio Ave </td>&#10;    <td>Connersville</td>&#10;    <td>IN</td>&#10;    <td>47331</td>&#10;    <td>765-403-1415</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>T &amp; T Gaming Center</td>&#10;    <td>209 Broadway </td>&#10;    <td>Chesterton</td>&#10;    <td>IN</td>&#10;    <td>46304</td>&#10;    <td>219-395-1500</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Chimp's Comix</td>&#10;    <td>919 E Winona Ave Ste 4 &amp; 5</td>&#10;    <td>Warsaw</td>&#10;    <td>IN</td>&#10;    <td>46580</td>&#10;    <td>574-268-2274</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gas City Sports Cards</td>&#10;    <td>114 E Main St </td>&#10;    <td>Gas City</td>&#10;    <td>IN</td>&#10;    <td>46933</td>&#10;    <td>765-674-7540</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Knight</td>&#10;    <td>411 E 4th St </td>&#10;    <td>Huntingburg</td>&#10;    <td>IN</td>&#10;    <td>47542</td>&#10;    <td>812-661-1844</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Bob's Comic Castle</td>&#10;    <td>2150 W White River Blvd </td>&#10;    <td>Muncie</td>&#10;    <td>IN</td>&#10;    <td>47303-5241</td>&#10;    <td>765-282-1563</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gamer DMZ</td>&#10;    <td>1233 W Jackson St Ste A </td>&#10;    <td>Kokomo</td>&#10;    <td>IN</td>&#10;    <td>46901</td>&#10;    <td>765-868-8330</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Creative Comics</td>&#10;    <td>216 E Main St </td>&#10;    <td>Griffith</td>&#10;    <td>IN</td>&#10;    <td>46319</td>&#10;    <td>219-924-1600</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Krypton Comics</td>&#10;    <td>136 E Washington St </td>&#10;    <td>Martinsville</td>&#10;    <td>IN</td>&#10;    <td>46151</td>&#10;    <td>765-318-6904</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comic Carnival</td>&#10;    <td>7255 N. Keystone </td>&#10;    <td>Indianapolis</td>&#10;    <td>IN</td>&#10;    <td>46240</td>&#10;    <td>317-253-8882</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Fantasy Games</td>&#10;    <td>52025 State Rd 933 </td>&#10;    <td>South Bend</td>&#10;    <td>IN</td>&#10;    <td>46637</td>&#10;    <td>574-277-1133</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Games to Die For</td>&#10;    <td>55 South Raceway Rd. #1100 </td>&#10;    <td>Indianapolis</td>&#10;    <td>IN</td>&#10;    <td>46231</td>&#10;    <td>317-271-4234</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gotta Have It Collectibles</td>&#10;    <td>739 Central Ave </td>&#10;    <td>Lake Station</td>&#10;    <td>IN</td>&#10;    <td>46405</td>&#10;    <td>219-962-1900</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Sage's Shoppe, The</td>&#10;    <td>1009 Sagamore Pkwy W </td>&#10;    <td>West Lafayette</td>&#10;    <td>IN</td>&#10;    <td>47906</td>&#10;    <td>765-463-4841</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Saltire Games</td>&#10;    <td>11723 Pendleton Pike </td>&#10;    <td>Indianapolis</td>&#10;    <td>IN</td>&#10;    <td>46236</td>&#10;    <td>317-823-1645</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Castle Comics &amp; Cards</td>&#10;    <td>2133 S 4th St </td>&#10;    <td>Lafayette</td>&#10;    <td>IN</td>&#10;    <td>47905</td>&#10;    <td>765-474-1110</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Time</td>&#10;    <td>8244 Center Run Dr </td>&#10;    <td>Indianapolis</td>&#10;    <td>IN</td>&#10;    <td>46250</td>&#10;    <td>317-577-0900</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Top Shelf Games</td>&#10;    <td>6742 E State Blvd </td>&#10;    <td>Fort Wayne</td>&#10;    <td>IN</td>&#10;    <td>46815</td>&#10;    <td>260-749-6669</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>10th Planet, The</td>&#10;    <td>200 W Lincoln Hwy </td>&#10;    <td>Schererville</td>&#10;    <td>IN</td>&#10;    <td>46375</td>&#10;    <td>219-322-2902</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Full Moon Games</td>&#10;    <td>1103 S 25th St </td>&#10;    <td>Terre Haute</td>&#10;    <td>IN</td>&#10;    <td>47803</td>&#10;    <td>812-235-6666</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Preserve - Lafayette</td>&#10;    <td>100 S Creasy Ln Ste 1030</td>&#10;    <td>Lafayette</td>&#10;    <td>IN</td>&#10;    <td>47905</td>&#10;    <td>765-448-4200</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Preserve - Greenwood</td>&#10;    <td>1551 E Stop 12 Road </td>&#10;    <td>Indy</td>&#10;    <td>IN</td>&#10;    <td>46227</td>&#10;    <td>317-881-4263</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Reader Copies - Scatterfield</td>&#10;    <td>1610 S Scatterfield Rd </td>&#10;    <td>Anderson</td>&#10;    <td>IN</td>&#10;    <td>46016</td>&#10;    <td>765-649-5767</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>GameQuest</td>&#10;    <td>3631 N Clinton St </td>&#10;    <td>Fort Wayne</td>&#10;    <td>IN</td>&#10;    <td>46805</td>&#10;    <td>260-482-4983</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Redhawk Gaming</td>&#10;    <td>20 E Main St </td>&#10;    <td>Mooresville</td>&#10;    <td>IN</td>&#10;    <td>46158</td>&#10;    <td>317-831-5501</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Silver Creek Game Shop</td>&#10;    <td>947 S Indiana Ave </td>&#10;    <td>Sellersburg</td>&#10;    <td>IN</td>&#10;    <td>47172</td>&#10;    <td>812-748-9898</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Power Nine Gaming</td>&#10;    <td>1010 W Coliseum Blvd Ste B</td>&#10;    <td>Fort Wayne</td>&#10;    <td>IN</td>&#10;    <td>46808</td>&#10;    <td>260-387-6136</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hockeyman's</td>&#10;    <td>125 E Maple St </td>&#10;    <td>Jeffersonville</td>&#10;    <td>IN</td>&#10;    <td>47130</td>&#10;    <td>812-285-8806</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Goblin Games</td>&#10;    <td>113 E Sycamore St </td>&#10;    <td>Kokomo</td>&#10;    <td>IN</td>&#10;    <td>46901</td>&#10;    <td>765-450-8467</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Downtown Comics - West</td>&#10;    <td>7301 W 10th St </td>&#10;    <td>Indianapolis</td>&#10;    <td>IN</td>&#10;    <td>46214</td>&#10;    <td>317-271-7610</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Arsenal Game Room</td>&#10;    <td>874 Virginia Ave </td>&#10;    <td>Indianapolis</td>&#10;    <td>IN</td>&#10;    <td>46203</td>&#10;    <td>317-822-4263</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Clem's Collectibles - Fort Wayne</td>&#10;    <td>4240 W Jefferson Blvd Ste M-8</td>&#10;    <td>Fort Wayne</td>&#10;    <td>IN</td>&#10;    <td>46804</td>&#10;    <td>260-436-2719</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Keep, The</td>&#10;    <td>1505 Goshen Ave </td>&#10;    <td>Fort Wayne</td>&#10;    <td>IN</td>&#10;    <td>46808</td>&#10;    <td>260-471-4336</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Emporium</td>&#10;    <td>325 J St </td>&#10;    <td>LaPorte</td>&#10;    <td>IN</td>&#10;    <td>46350</td>&#10;    <td>219-873-6725</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Preserve, The - Fashion Mall</td>&#10;    <td>8487 Union Chapel Rd Ste 660</td>&#10;    <td>Indianapolis</td>&#10;    <td>IN</td>&#10;    <td>46240</td>&#10;    <td>317-257-9110</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Lightspeed Hobbies</td>&#10;    <td>5884 US Highway 6 </td>&#10;    <td>Portage</td>&#10;    <td>IN</td>&#10;    <td>46368</td>&#10;    <td>219-764-7314</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gatekeeper Hobbies</td>&#10;    <td>4123 SW Gage Center Dr Ste 100</td>&#10;    <td>Topeka</td>&#10;    <td>KS</td>&#10;    <td>66604</td>&#10;    <td>785-232-3429</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hometown Games</td>&#10;    <td>711 W 23nd Suit 31 </td>&#10;    <td>Lawrence</td>&#10;    <td>KS</td>&#10;    <td>66046</td>&#10;    <td>785-830-8011</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>MidKnight Games</td>&#10;    <td>128 W 5th St </td>&#10;    <td>Hutchinson</td>&#10;    <td>KS</td>&#10;    <td>67501</td>&#10;    <td>620-259-7352</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Arena, The</td>&#10;    <td>127 N Santa Fe </td>&#10;    <td>Salina</td>&#10;    <td>KS</td>&#10;    <td>67401</td>&#10;    <td>785-823-3177</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Prairie Dog Comics</td>&#10;    <td>4800 W Maple St Ste 122</td>&#10;    <td>Wichita</td>&#10;    <td>KS</td>&#10;    <td>67209</td>&#10;    <td>316-942-3456</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Big Pat's Toys</td>&#10;    <td>425 Delaware St Unit B</td>&#10;    <td>Leavenworth</td>&#10;    <td>KS</td>&#10;    <td>66048</td>&#10;    <td>913-240-0306</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Win More Games</td>&#10;    <td>12108 W 87th St </td>&#10;    <td>Lenexa</td>&#10;    <td>KS</td>&#10;    <td>66215</td>&#10;    <td>913-541-1740</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Collector's Cache</td>&#10;    <td>13354 College Blvd </td>&#10;    <td>Lenexa</td>&#10;    <td>KS</td>&#10;    <td>66210</td>&#10;    <td>913-338-2273</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>C &amp; R Comics</td>&#10;    <td>2518 E Douglas Ave </td>&#10;    <td>Wichita</td>&#10;    <td>KS</td>&#10;    <td>67214</td>&#10;    <td>316-260-4522</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hero Complex Games &amp; Entertainment</td>&#10;    <td>2120 N Woodlawn St Ste 314</td>&#10;    <td>Wichita</td>&#10;    <td>KS</td>&#10;    <td>67208</td>&#10;    <td>316-425-7713</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Wizards Asylum - Wichita</td>&#10;    <td>1309 W 31st St S </td>&#10;    <td>Wichita</td>&#10;    <td>KS</td>&#10;    <td>67217</td>&#10;    <td>316-262-6642</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gamehounds</td>&#10;    <td>1620 Fort Riley Blvd Ste 111</td>&#10;    <td>Manhattan</td>&#10;    <td>KS</td>&#10;    <td>66502</td>&#10;    <td>785-320-2850</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gators Video</td>&#10;    <td>720 Shawnee St </td>&#10;    <td>Leavenworth</td>&#10;    <td>KS</td>&#10;    <td>66048</td>&#10;    <td>913-682-0220</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Astrokitty Comics &amp; More</td>&#10;    <td>15 E 7th St </td>&#10;    <td>Lawrence</td>&#10;    <td>KS</td>&#10;    <td>66044</td>&#10;    <td>785-856-8607</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Edict Games</td>&#10;    <td>913 N Broadway St </td>&#10;    <td>Pittsburg</td>&#10;    <td>KS</td>&#10;    <td>66762-3909</td>&#10;    <td>620-875-1259</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Vintage Stock - Topeka</td>&#10;    <td>1930 SW Wanamaker Rd Ste B </td>&#10;    <td>Topeka</td>&#10;    <td>KS</td>&#10;    <td>66604</td>&#10;    <td>785-273-3530</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Tru Gamer</td>&#10;    <td>822 Walnut St </td>&#10;    <td>Coffeyville</td>&#10;    <td>KS</td>&#10;    <td>67337</td>&#10;    <td>620-251-4262</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Shelby's Comics &amp; Games</td>&#10;    <td>110 E 9th Ave </td>&#10;    <td>Winfield</td>&#10;    <td>KS</td>&#10;    <td>67156</td>&#10;    <td>620-221-3155</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Curt's Cards &amp; Cars</td>&#10;    <td>1222 Grant Ave </td>&#10;    <td>Junction City</td>&#10;    <td>KS</td>&#10;    <td>66441</td>&#10;    <td>785-539-4773</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>31st Century Games &amp; Hobby</td>&#10;    <td>2113 E 151st St Ste B</td>&#10;    <td>Olathe</td>&#10;    <td>KS</td>&#10;    <td>66062</td>&#10;    <td>913-397-7706</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Main Phase Games</td>&#10;    <td>202 Irene St Ste 104</td>&#10;    <td>Prestonsburg</td>&#10;    <td>KY</td>&#10;    <td>41653</td>&#10;    <td>606-886-8767</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Local Gaming Store</td>&#10;    <td>1249 US 31 W Bypass Ste A</td>&#10;    <td>Bowling Green</td>&#10;    <td>KY</td>&#10;    <td>42101</td>&#10;    <td>432-637-7764</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Something 2 Do</td>&#10;    <td>7900 Shelbyville Rd Oxmoor Mall</td>&#10;    <td>Louisville</td>&#10;    <td>KY</td>&#10;    <td>40222</td>&#10;    <td>502-425-5257</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Through The Decades Sports Cards &amp; Gaming</td>&#10;    <td>9002 Taylorsville Rd </td>&#10;    <td>Louisville</td>&#10;    <td>KY</td>&#10;    <td>40299</td>&#10;    <td>502-554-7222</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Big Bang</td>&#10;    <td>4786 Frederica St </td>&#10;    <td>Owensboro</td>&#10;    <td>KY</td>&#10;    <td>42301</td>&#10;    <td>270-688-5800</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hobby Crossing</td>&#10;    <td>2345 Russellville Rd </td>&#10;    <td>Bowling Green</td>&#10;    <td>KY</td>&#10;    <td>42101</td>&#10;    <td>270-904-6100</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Just Games</td>&#10;    <td>553 American Greeting Card Rd </td>&#10;    <td>Corbin</td>&#10;    <td>KY</td>&#10;    <td>40701</td>&#10;    <td>606-280-7562</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Lucky Bard Games</td>&#10;    <td>209 W Stephen Foster Ave </td>&#10;    <td>Bardstown</td>&#10;    <td>KY</td>&#10;    <td>40004</td>&#10;    <td>502-348-4998</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Little Monster Comics</td>&#10;    <td>4440 S Hwy 27 </td>&#10;    <td>Somerset</td>&#10;    <td>KY</td>&#10;    <td>42501</td>&#10;    <td>606-678-8599</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Monkey Punch Repairs</td>&#10;    <td>282 Village Ln </td>&#10;    <td>Hazard</td>&#10;    <td>KY</td>&#10;    <td>41701</td>&#10;    <td>606-436-6989</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Mana To Burn</td>&#10;    <td>120 Drexler Circle Ste 1</td>&#10;    <td>Elizabethtown</td>&#10;    <td>KY</td>&#10;    <td>42701</td>&#10;    <td>270-763-1915</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Cardquest Hobby Shop</td>&#10;    <td>106 W Center St </td>&#10;    <td>Madisonville</td>&#10;    <td>KY</td>&#10;    <td>42431</td>&#10;    <td>270-836-9818</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Sports Card &amp; Gaming Exchange</td>&#10;    <td>300 Arbor Dr Ste 3</td>&#10;    <td>Dry Ridge</td>&#10;    <td>KY</td>&#10;    <td>41035</td>&#10;    <td>859-823-2777</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>G's Comics</td>&#10;    <td>605 S 12th St #B </td>&#10;    <td>Murray</td>&#10;    <td>KY</td>&#10;    <td>42071</td>&#10;    <td>270-759-4896</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game King</td>&#10;    <td>454 Manchester Square Shpg Ctr </td>&#10;    <td>Manchester</td>&#10;    <td>KY</td>&#10;    <td>40962</td>&#10;    <td>606-598-4263</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hard Knox Games</td>&#10;    <td>647 Knox Blvd </td>&#10;    <td>Radcliff</td>&#10;    <td>KY</td>&#10;    <td>40160</td>&#10;    <td>270-352-5669</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Battleforge, The</td>&#10;    <td>1777 Alexandria Dr </td>&#10;    <td>Lexington</td>&#10;    <td>KY</td>&#10;    <td>40504</td>&#10;    <td>859-277-3937</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Illuminaudi</td>&#10;    <td>2899 Alexandria Pike </td>&#10;    <td>Highland Heights</td>&#10;    <td>KY</td>&#10;    <td>41076</td>&#10;    <td>859-448-3200</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Cosmic Oasis</td>&#10;    <td>208 W Main St </td>&#10;    <td>Richmond</td>&#10;    <td>KY</td>&#10;    <td>40475</td>&#10;    <td>859-771-6244</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>A+ Comics &amp; Collectibles</td>&#10;    <td>466 Southland Dr </td>&#10;    <td>Lexington</td>&#10;    <td>KY</td>&#10;    <td>40503</td>&#10;    <td>859-276-1118</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>D20 Hobbies</td>&#10;    <td>361 Southland Dr </td>&#10;    <td>Lexington</td>&#10;    <td>KY</td>&#10;    <td>40503</td>&#10;    <td>859-280-3865</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Bluegrass Magic Gameshop</td>&#10;    <td>5629 Outer Loop </td>&#10;    <td>Louisville</td>&#10;    <td>KY</td>&#10;    <td>40219</td>&#10;    <td>502-964-1170</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comic Book World - Florence</td>&#10;    <td>7130 Turfway Rd </td>&#10;    <td>Florence</td>&#10;    <td>KY</td>&#10;    <td>41042-2002</td>&#10;    <td>859-371-9562</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Wizard of Sportscards, The</td>&#10;    <td>502 Maple St </td>&#10;    <td>Murray</td>&#10;    <td>KY</td>&#10;    <td>42071</td>&#10;    <td>270-226-4000</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comic Cosmos</td>&#10;    <td>1560 Hustonville Rd Suite 101 </td>&#10;    <td>Danville</td>&#10;    <td>KY</td>&#10;    <td>40422</td>&#10;    <td>859-236-3031</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Role of the Die</td>&#10;    <td>1950 Bonnycastle Ave </td>&#10;    <td>Louisville</td>&#10;    <td>KY</td>&#10;    <td>40205</td>&#10;    <td>502-409-6552</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Troll &amp; Toad - London</td>&#10;    <td>103 London Shopping Center </td>&#10;    <td>London</td>&#10;    <td>KY</td>&#10;    <td>40741</td>&#10;    <td>606-877-1450</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Moonlite Comics</td>&#10;    <td>1100 US 127 South </td>&#10;    <td>Frankfort</td>&#10;    <td>KY</td>&#10;    <td>40601</td>&#10;    <td>502-223-1684</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Lotus Guardian, The</td>&#10;    <td>527 Emory Dr Ste 110</td>&#10;    <td>Owensboro</td>&#10;    <td>KY</td>&#10;    <td>42301</td>&#10;    <td>270-926-6765</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Heroes Realm</td>&#10;    <td>1624 Old Paris Rd </td>&#10;    <td>Lexington</td>&#10;    <td>KY</td>&#10;    <td>40505</td>&#10;    <td>859-268-0097</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Arcadian Comics &amp; Games</td>&#10;    <td>627 Monmouth St </td>&#10;    <td>Newport</td>&#10;    <td>KY</td>&#10;    <td>41071</td>&#10;    <td>859-291-5071</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Madd Movies/Back-Up Plan</td>&#10;    <td>16 Logan Dr </td>&#10;    <td>Jeff</td>&#10;    <td>KY</td>&#10;    <td>41751</td>&#10;    <td>606-435-2089</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Computer &amp; Gaming World</td>&#10;    <td>363 N Hwy 27 </td>&#10;    <td>Whitley City</td>&#10;    <td>KY</td>&#10;    <td>42653</td>&#10;    <td>606-376-9272</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Pet Shop Comics &amp; Collectibles</td>&#10;    <td>6234 N Preston Hwy Ste F</td>&#10;    <td>Louisville</td>&#10;    <td>KY</td>&#10;    <td>40229</td>&#10;    <td>502-957-3188</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Page-3 s GameZone</td>&#10;    <td>547 North Mayo Trail </td>&#10;    <td>Pikeville</td>&#10;    <td>KY</td>&#10;    <td>41501</td>&#10;    <td>606-432-9403</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Collectibles &amp; More</td>&#10;    <td>905 N 12th St Ste 3</td>&#10;    <td>Middlesboro</td>&#10;    <td>KY</td>&#10;    <td>40965</td>&#10;    <td>606-302-5948</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Anime &amp; Games</td>&#10;    <td>141 Arnould Blvd </td>&#10;    <td>Lafayette</td>&#10;    <td>LA</td>&#10;    <td>70506</td>&#10;    <td>337-456-6887</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Go 4 Games</td>&#10;    <td>701 David Dr Ste D</td>&#10;    <td>Metairie</td>&#10;    <td>LA</td>&#10;    <td>70003</td>&#10;    <td>504-324-8335</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>+1 Gaming</td>&#10;    <td>4201 Veterans Blvd Ste A-3</td>&#10;    <td>Metairie</td>&#10;    <td>LA</td>&#10;    <td>70006</td>&#10;    <td>504-322-3411</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Big Easy Comics</td>&#10;    <td>5150 Hwy 22 Ste C-3</td>&#10;    <td>Mandeville</td>&#10;    <td>LA</td>&#10;    <td>70471</td>&#10;    <td>985-792-7800</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gamers Paradise</td>&#10;    <td>17540 Airline Hwy Ste G</td>&#10;    <td>Prairieville</td>&#10;    <td>LA</td>&#10;    <td>70769</td>&#10;    <td>225-673-1766</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dragon's Lair</td>&#10;    <td>2212 Benton Rd </td>&#10;    <td>Bossier City</td>&#10;    <td>LA</td>&#10;    <td>71111</td>&#10;    <td>318-742-3007</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Paper Heroes</td>&#10;    <td>3941 Ryan St </td>&#10;    <td>Lake Charles</td>&#10;    <td>LA</td>&#10;    <td>70605-2835</td>&#10;    <td>337-478-2143</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>uGam3</td>&#10;    <td>6298 W Park Ave </td>&#10;    <td>Houma</td>&#10;    <td>LA</td>&#10;    <td>70364</td>&#10;    <td>985-262-1353</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Nexus Gaming Empire</td>&#10;    <td>1804 S 5th St Ste C</td>&#10;    <td>Leesville</td>&#10;    <td>LA</td>&#10;    <td>71446</td>&#10;    <td>337-404-7725</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>And Books II</td>&#10;    <td>3315 Johnston St </td>&#10;    <td>Lafayette</td>&#10;    <td>LA</td>&#10;    <td>70503-5138</td>&#10;    <td>337-984-3405</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Galactic Goods Cards &amp; Comics</td>&#10;    <td>343 W Esplanade Ave # 347</td>&#10;    <td>Kenner</td>&#10;    <td>LA</td>&#10;    <td>70065</td>&#10;    <td>504-466-8470</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Chuck's Field of Dreams - Albany</td>&#10;    <td>28550 LA Hwy 43 </td>&#10;    <td>Albany</td>&#10;    <td>LA</td>&#10;    <td>70711</td>&#10;    <td>225-567-9200</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dragon's Nest Gaming</td>&#10;    <td>5129 Hwy 28 E Ste H</td>&#10;    <td>Pineville</td>&#10;    <td>LA</td>&#10;    <td>71360</td>&#10;    <td>318-487-6613</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Rocket's Hideout Cards &amp; Games</td>&#10;    <td>13847 Coursey Blvd Ste 1</td>&#10;    <td>Baton Rouge</td>&#10;    <td>LA</td>&#10;    <td>70817</td>&#10;    <td>225-291-8020</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Now Playing</td>&#10;    <td>1235 Texas Ave </td>&#10;    <td>Alexandria</td>&#10;    <td>LA</td>&#10;    <td>71301</td>&#10;    <td>318-623-4157</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Jaimie's Sportscards of Louisiana</td>&#10;    <td>4715 Pecanland Mall Dr </td>&#10;    <td>Monroe</td>&#10;    <td>LA</td>&#10;    <td>71203</td>&#10;    <td>318-812-2900</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Little Wars</td>&#10;    <td>7517 Jefferson Hwy </td>&#10;    <td>Baton Rouge</td>&#10;    <td>LA</td>&#10;    <td>70806</td>&#10;    <td>225-924-6304</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>A Place to Play</td>&#10;    <td>1211 Arkansas Rd </td>&#10;    <td>West Monroe</td>&#10;    <td>LA</td>&#10;    <td>71291</td>&#10;    <td>318-547-3464</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>X9 Games</td>&#10;    <td>367 Russel St Ste 44</td>&#10;    <td>Hadley</td>&#10;    <td>MA</td>&#10;    <td>1035</td>&#10;    <td>413-582-0310</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>That's Entertainment - Fitchburg</td>&#10;    <td>56 John Fitch Hwy </td>&#10;    <td>Fitchburg</td>&#10;    <td>MA</td>&#10;    <td>1420</td>&#10;    <td>978-342-8607</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Nerdz For Hire</td>&#10;    <td>146 S St </td>&#10;    <td>Pittsfield</td>&#10;    <td>MA</td>&#10;    <td>1201</td>&#10;    <td>413-499-9297</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Pandemonium Books &amp; Games</td>&#10;    <td>4 Pleasant St </td>&#10;    <td>Cambridge</td>&#10;    <td>MA</td>&#10;    <td>2139</td>&#10;    <td>617-547-3721</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Whiz, The</td>&#10;    <td>122 Turnpike Rd </td>&#10;    <td>Westborough</td>&#10;    <td>MA</td>&#10;    <td>1581</td>&#10;    <td>508-366-2030</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Rivendell Books &amp; Games</td>&#10;    <td>224 Winthrop St (Route 44) </td>&#10;    <td>Rehoboth</td>&#10;    <td>MA</td>&#10;    <td>2769</td>&#10;    <td>508-252-5798</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Greenfield Games</td>&#10;    <td>228 Main St </td>&#10;    <td>Greenfield</td>&#10;    <td>MA</td>&#10;    <td>1301</td>&#10;    <td>413-774-5225</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Scholars'</td>&#10;    <td>34 Central Square </td>&#10;    <td>Bridgewater</td>&#10;    <td>MA</td>&#10;    <td>2324</td>&#10;    <td>508-279-1712</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Larry's Comics</td>&#10;    <td>66 Lakeview Ave </td>&#10;    <td>Lowell</td>&#10;    <td>MA</td>&#10;    <td>01850-2324</td>&#10;    <td>978-459-5323</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Batter Up</td>&#10;    <td>1875 Main St </td>&#10;    <td>Tewksbury</td>&#10;    <td>MA</td>&#10;    <td>1876</td>&#10;    <td>978-549-2769</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hit &amp; Run Sports &amp; Games</td>&#10;    <td>8 Camellia Pl </td>&#10;    <td>Lexington</td>&#10;    <td>MA</td>&#10;    <td>2420</td>&#10;    <td>781-863-2255</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Medieval Starship Games &amp; Hobbies Inc</td>&#10;    <td>295 Old Oak St </td>&#10;    <td>Pembroke</td>&#10;    <td>MA</td>&#10;    <td>2359</td>&#10;    <td>781-826-6554</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>That's Entertainment</td>&#10;    <td>244 Park Ave </td>&#10;    <td>Worcester</td>&#10;    <td>MA</td>&#10;    <td>1609</td>&#10;    <td>508-755-4207</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Legends Comix &amp; Games</td>&#10;    <td>94 Main St Ste A</td>&#10;    <td>Maynard</td>&#10;    <td>MA</td>&#10;    <td>1754</td>&#10;    <td>508-808-9124</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>JP Comics &amp; Games</td>&#10;    <td>603 Centre St </td>&#10;    <td>Jamaica Plain</td>&#10;    <td>MA</td>&#10;    <td>02130-2025</td>&#10;    <td>617-553-4247</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Sports Zone</td>&#10;    <td>50 Holyoke St </td>&#10;    <td>Holyoke</td>&#10;    <td>MA</td>&#10;    <td>1040</td>&#10;    <td>413-532-9988</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Spectrum Hobby</td>&#10;    <td>697 Main St </td>&#10;    <td>Dennisport</td>&#10;    <td>MA</td>&#10;    <td>2639</td>&#10;    <td>508-694-7701</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>G33K</td>&#10;    <td>130 Main St </td>&#10;    <td>Gloucester</td>&#10;    <td>MA</td>&#10;    <td>1930</td>&#10;    <td>978-865-3259</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Compleat Strategist, The - Boston</td>&#10;    <td>957 Commonwealth Ave # VII </td>&#10;    <td>Boston</td>&#10;    <td>MA</td>&#10;    <td>2115</td>&#10;    <td>617-254-1166</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Slapshot Sports Cards</td>&#10;    <td>184 Broadway Ste 16</td>&#10;    <td>Saugus</td>&#10;    <td>MA</td>&#10;    <td>1906</td>&#10;    <td>781-231-1800</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Battleground Games &amp; Hobbies - Plainville</td>&#10;    <td>25 Taunton St </td>&#10;    <td>Plainville</td>&#10;    <td>MA</td>&#10;    <td>2762</td>&#10;    <td>508-316-1195</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>On The Stack Games</td>&#10;    <td>868 Washington St </td>&#10;    <td>Norwood</td>&#10;    <td>MA</td>&#10;    <td>2062</td>&#10;    <td>781-352-3159</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Lost Harbor Games &amp; Hobbies</td>&#10;    <td>61 Southwick Rd </td>&#10;    <td>Westfield</td>&#10;    <td>MA</td>&#10;    <td>1085</td>&#10;    <td>413-564-0070</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>StillPoint Comics, Cards, Games</td>&#10;    <td>120 S Main St </td>&#10;    <td>Fall River</td>&#10;    <td>MA</td>&#10;    <td>2721</td>&#10;    <td>508-674-5569</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Harrison's Comics &amp; Collectibles - Salem</td>&#10;    <td>252 Essex St </td>&#10;    <td>Salem</td>&#10;    <td>MA</td>&#10;    <td>1970</td>&#10;    <td>978-741-0786</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>AJ's Gaming</td>&#10;    <td>425 East St </td>&#10;    <td>Chicopee</td>&#10;    <td>MA</td>&#10;    <td>1020</td>&#10;    <td>413-331-2335</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Tabletop Arena</td>&#10;    <td>99 Market St </td>&#10;    <td>Lowell</td>&#10;    <td>MA</td>&#10;    <td>1852</td>&#10;    <td>617-396-7104</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Toys N Things</td>&#10;    <td>66 Maple St </td>&#10;    <td>Danvers</td>&#10;    <td>MA</td>&#10;    <td>1923</td>&#10;    <td>978-777-1879</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Phyrexian Games</td>&#10;    <td>444 Central St </td>&#10;    <td>Leominster</td>&#10;    <td>MA</td>&#10;    <td>1453</td>&#10;    <td>978-537-5939</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Worlds Apart Games</td>&#10;    <td>48 North Pleasant St #B2 </td>&#10;    <td>Amherst</td>&#10;    <td>MA</td>&#10;    <td>1002</td>&#10;    <td>413-259-6893</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hidden Hobbies</td>&#10;    <td>3065 Cranberry Unit 16</td>&#10;    <td>East Wareham</td>&#10;    <td>MA</td>&#10;    <td>2538</td>&#10;    <td>508-295-5800</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game King</td>&#10;    <td>115 Anawan St </td>&#10;    <td>Fall River</td>&#10;    <td>MA</td>&#10;    <td>2721</td>&#10;    <td>508-676-0635</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>LJ Sportscards</td>&#10;    <td>18 Central Street </td>&#10;    <td>Southbridge</td>&#10;    <td>MA</td>&#10;    <td>1550</td>&#10;    <td>508-765-0533</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Webhead Enterprises</td>&#10;    <td>239 North Avenue </td>&#10;    <td>Wakefield</td>&#10;    <td>MA</td>&#10;    <td>1880</td>&#10;    <td>781-246-1797</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Wizards Duel, The</td>&#10;    <td>675 Centre St </td>&#10;    <td>Brockton</td>&#10;    <td>MA</td>&#10;    <td>2302</td>&#10;    <td>508-584-9572</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Off the Wall</td>&#10;    <td>41 Russell St Ste E</td>&#10;    <td>Hadley</td>&#10;    <td>MA</td>&#10;    <td>1035</td>&#10;    <td>413-586-5451</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Modern Myths</td>&#10;    <td>34 Bridge St Ste 4</td>&#10;    <td>Northampton</td>&#10;    <td>MA</td>&#10;    <td>1060</td>&#10;    <td>413-582-6973</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gathering Place, The</td>&#10;    <td>128 Main St </td>&#10;    <td>Spencer</td>&#10;    <td>MA</td>&#10;    <td>1562</td>&#10;    <td>774-745-8585</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>GameNight.net</td>&#10;    <td>1611 Main St Rte 6A</td>&#10;    <td>West Barnstable</td>&#10;    <td>MA</td>&#10;    <td>2668</td>&#10;    <td>508-477-1073</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Harrison's Comics &amp; Collectibles - Medford</td>&#10;    <td>3850 Mystic Vly Pkwy </td>&#10;    <td>Medford</td>&#10;    <td>MA</td>&#10;    <td>2155</td>&#10;    <td>781-391-6111</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>TJ Collectibles</td>&#10;    <td>160 Main St </td>&#10;    <td>Milford</td>&#10;    <td>MA</td>&#10;    <td>1757</td>&#10;    <td>508-473-5874</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Fantasy Realms</td>&#10;    <td>222 Elm St </td>&#10;    <td>Pittsfield</td>&#10;    <td>MA</td>&#10;    <td>1201</td>&#10;    <td>413-445-8809</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>New England Comics - Brookline</td>&#10;    <td>316 Harvard St </td>&#10;    <td>Brookline</td>&#10;    <td>MA</td>&#10;    <td>02446-2917</td>&#10;    <td>617-566-0115</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>New England Comics - Norwood</td>&#10;    <td>732 Washington St </td>&#10;    <td>Norwood</td>&#10;    <td>MA</td>&#10;    <td>2062</td>&#10;    <td>781-769-4552</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Baseball Etc</td>&#10;    <td>380 Watertown St </td>&#10;    <td>Newton</td>&#10;    <td>MA</td>&#10;    <td>2458</td>&#10;    <td>617-965-5519</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>High Tide Games</td>&#10;    <td>22599 MacArthur Blv Ste 374</td>&#10;    <td>California</td>&#10;    <td>MD</td>&#10;    <td>20619</td>&#10;    <td>240-587-0791</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Titan Games &amp; Hobbies</td>&#10;    <td>1924-C Greenspring Dr </td>&#10;    <td>Lutherville Timonium</td>&#10;    <td>MD</td>&#10;    <td>21093</td>&#10;    <td>315-651-6346</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dream Wizards</td>&#10;    <td>11772 Parklawn Drive </td>&#10;    <td>Rockville</td>&#10;    <td>MD</td>&#10;    <td>20852</td>&#10;    <td>301-881-3530</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Family Game Store</td>&#10;    <td>8600 Foundry St </td>&#10;    <td>Savage</td>&#10;    <td>MD</td>&#10;    <td>20763</td>&#10;    <td>301-776-5980</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comics To Astonish</td>&#10;    <td>9400 Snowden River Pkwy Ste 112</td>&#10;    <td>Columbia</td>&#10;    <td>MD</td>&#10;    <td>21045</td>&#10;    <td>410-381-2732</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Critical Hit Games - Abingdon</td>&#10;    <td>3101 Emmorton Rd Ste A4</td>&#10;    <td>Abingdon</td>&#10;    <td>MD</td>&#10;    <td>21009</td>&#10;    <td>410-569-2438</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>LANslide Gamecenter</td>&#10;    <td>6449 Old Alex Ferry Rd </td>&#10;    <td>Clinton</td>&#10;    <td>MD</td>&#10;    <td>20735</td>&#10;    <td>301-576-3380</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Canton Games</td>&#10;    <td>2101 Essex St </td>&#10;    <td>Baltimore</td>&#10;    <td>MD</td>&#10;    <td>21231</td>&#10;    <td>410-276-2640</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Novel Places</td>&#10;    <td>23341 Frederick Rd </td>&#10;    <td>Clarksburg</td>&#10;    <td>MD</td>&#10;    <td>20871</td>&#10;    <td>301-972-3060</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Beyond Comics - Gaithersburg</td>&#10;    <td>18749 B N Frederick Rd </td>&#10;    <td>Gaithersburg</td>&#10;    <td>MD</td>&#10;    <td>20879</td>&#10;    <td>301-216-0007</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Beyond Comics - Frederick</td>&#10;    <td>5632 Buckeystown Pike </td>&#10;    <td>Frederick</td>&#10;    <td>MD</td>&#10;    <td>21704</td>&#10;    <td>301-668-8202</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Xanadu Games</td>&#10;    <td>3921 Vero Rd. Suite B </td>&#10;    <td>Baltimore</td>&#10;    <td>MD</td>&#10;    <td>21227</td>&#10;    <td>410-501-5040</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Legends Games &amp; Comics</td>&#10;    <td>1220 E Joppa Rd #106</td>&#10;    <td>Towson</td>&#10;    <td>MD</td>&#10;    <td>21286</td>&#10;    <td>410-321-7607</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Arkham Games</td>&#10;    <td>1068 National Hwy </td>&#10;    <td>LaVale</td>&#10;    <td>MD</td>&#10;    <td>21502</td>&#10;    <td>301-697-7208</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Amazing Spiral Books &amp; More</td>&#10;    <td>711 W 40th St Rotunda Mall</td>&#10;    <td>Baltimore</td>&#10;    <td>MD</td>&#10;    <td>21211</td>&#10;    <td>410-889-6005</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>ES Draft League</td>&#10;    <td>933 S Talbot St </td>&#10;    <td>Saint Michaels</td>&#10;    <td>MD</td>&#10;    <td>21663</td>&#10;    <td>302-858-7398</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dugout Zone</td>&#10;    <td>9210 Baltimore National Pike </td>&#10;    <td>Ellicott City</td>&#10;    <td>MD</td>&#10;    <td>21042</td>&#10;    <td>410-461-8664</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Chuck's Comics</td>&#10;    <td>530 Eastern Blvd </td>&#10;    <td>Essex</td>&#10;    <td>MD</td>&#10;    <td>21221</td>&#10;    <td>410-574-1496</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gorilla King Comics</td>&#10;    <td>1711 Aliceanna St </td>&#10;    <td>Baltimore</td>&#10;    <td>MD</td>&#10;    <td>21231</td>&#10;    <td>410-327-0181</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Chesapeake Sports Cards</td>&#10;    <td>2135 Defense Hwy Unit 1</td>&#10;    <td>Crofton</td>&#10;    <td>MD</td>&#10;    <td>21114</td>&#10;    <td>443-292-8185</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Walt's Cards</td>&#10;    <td>7620 German Hill Rd </td>&#10;    <td>Baltimore</td>&#10;    <td>MD</td>&#10;    <td>21222</td>&#10;    <td>410-288-7044</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Alternate Worlds</td>&#10;    <td>72 Cranbrook Rd </td>&#10;    <td>Cockeysville</td>&#10;    <td>MD</td>&#10;    <td>21030</td>&#10;    <td>410-666-3290</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Games &amp; Stuff</td>&#10;    <td>7476 Baltimore Annapolis Blvd </td>&#10;    <td>Glen Burnie</td>&#10;    <td>MD</td>&#10;    <td>21061</td>&#10;    <td>410-863-7418</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hackers Ink ManCave</td>&#10;    <td>3715 Old Columbia Pike </td>&#10;    <td>Ellicott City</td>&#10;    <td>MD</td>&#10;    <td>21043</td>&#10;    <td>410-744-6512</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Phoenix Rising Games &amp; Comics</td>&#10;    <td>327 B Civic Ave </td>&#10;    <td>Salisbury</td>&#10;    <td>MD</td>&#10;    <td>21804</td>&#10;    <td>443-944-8207</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Washington Street Books</td>&#10;    <td>131 N Washington St </td>&#10;    <td>Havre DeGrace</td>&#10;    <td>MD</td>&#10;    <td>21078</td>&#10;    <td>410-939-6215</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Squabbles Trading Cards</td>&#10;    <td>6711 Ritchie Hwy </td>&#10;    <td>Glen Burnie</td>&#10;    <td>MD</td>&#10;    <td>21061</td>&#10;    <td>410-863-5858</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Illusions Games &amp; Comics</td>&#10;    <td>726 S Salisbury Blvd Ste D </td>&#10;    <td>Salisbury</td>&#10;    <td>MD</td>&#10;    <td>21801</td>&#10;    <td>410-742-0172</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Thanks For Playing</td>&#10;    <td>9607 Doctor Perry Rd Ste 99</td>&#10;    <td>Ijamsville</td>&#10;    <td>MD</td>&#10;    <td>21754</td>&#10;    <td>240-344-2954</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Collectors Corner</td>&#10;    <td>7911 Harford Rd </td>&#10;    <td>Parkville</td>&#10;    <td>MD</td>&#10;    <td>21234</td>&#10;    <td>410-668-3353</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>J &amp; M Comics &amp; Games</td>&#10;    <td>1213 Liberty Rd </td>&#10;    <td>Eldersburg</td>&#10;    <td>MD</td>&#10;    <td>21784</td>&#10;    <td>410-552-5245</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Mystikal Keep, The</td>&#10;    <td>18 W Franklin St </td>&#10;    <td>Hagerstown</td>&#10;    <td>MD</td>&#10;    <td>21740</td>&#10;    <td>301-791-6101</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Big Planet Comics</td>&#10;    <td>7315 Baltimore Ave </td>&#10;    <td>College Park</td>&#10;    <td>MD</td>&#10;    <td>20740</td>&#10;    <td>301-699-0498</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Big Larry's Comic Book Cafe</td>&#10;    <td>22745 Washington St </td>&#10;    <td>Leonardtown</td>&#10;    <td>MD</td>&#10;    <td>20650</td>&#10;    <td>301-475-1860</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gotham Comics</td>&#10;    <td>15 E Main St Ste B-1</td>&#10;    <td>Westminster</td>&#10;    <td>MD</td>&#10;    <td>21157</td>&#10;    <td>410-848-7447</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>The Games Arena</td>&#10;    <td>770 Main Street Unit 3</td>&#10;    <td>Lewiston</td>&#10;    <td>ME</td>&#10;    <td>4240</td>&#10;    <td>207-333-3041</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Greenhouse Games</td>&#10;    <td>279 Harrison Ave </td>&#10;    <td>Gardiner</td>&#10;    <td>ME</td>&#10;    <td>4345</td>&#10;    <td>207-582-6486</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Weekend Anime</td>&#10;    <td>492 Main St </td>&#10;    <td>Westbrook</td>&#10;    <td>ME</td>&#10;    <td>4092</td>&#10;    <td>207-591-7070</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game On Cafe</td>&#10;    <td>49 Water St Ste 1</td>&#10;    <td>Augusta</td>&#10;    <td>ME</td>&#10;    <td>4333</td>&#10;    <td>207-512-8798</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dirigo Hobbies</td>&#10;    <td>438 US Route 1 </td>&#10;    <td>Yarmouth</td>&#10;    <td>ME</td>&#10;    <td>4096</td>&#10;    <td>207-847-3990</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Magic City's Mages &amp; Sages</td>&#10;    <td>215 Penobscot Ave </td>&#10;    <td>Millinocket</td>&#10;    <td>ME</td>&#10;    <td>4462</td>&#10;    <td>207-447-8613</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Mainely Magic</td>&#10;    <td>133 Bridge St </td>&#10;    <td>West Farmington</td>&#10;    <td>ME</td>&#10;    <td>4992</td>&#10;    <td>207-809-2722</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Box Video Games &amp; Comics</td>&#10;    <td>49 Topsham Fair Mall Rd Ste 5</td>&#10;    <td>Topsham</td>&#10;    <td>ME</td>&#10;    <td>4086</td>&#10;    <td>207-373-1136</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dragon's Lair, The</td>&#10;    <td>273 Main St </td>&#10;    <td>Norway</td>&#10;    <td>ME</td>&#10;    <td>4268</td>&#10;    <td>207-739-2286</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Citadel</td>&#10;    <td>720 Broadway Ste A</td>&#10;    <td>Bangor</td>&#10;    <td>ME</td>&#10;    <td>4401</td>&#10;    <td>207-907-7887</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Crossroad Games</td>&#10;    <td>15 Fort Hill Rd </td>&#10;    <td>Standish</td>&#10;    <td>ME</td>&#10;    <td>4084</td>&#10;    <td>207-642-2612</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comics Plus</td>&#10;    <td>25 Eastward Ln Eastward Plz Ste 8</td>&#10;    <td>Ellsworth</td>&#10;    <td>ME</td>&#10;    <td>4605</td>&#10;    <td>207-667-6061</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>3 Geek Gaming</td>&#10;    <td>677 Hogan Rd </td>&#10;    <td>Bangor</td>&#10;    <td>ME</td>&#10;    <td>4401</td>&#10;    <td>207-659-7509</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Knowledge Vault</td>&#10;    <td>17 Mechanic St </td>&#10;    <td>Camden</td>&#10;    <td>ME</td>&#10;    <td>4849</td>&#10;    <td>207-236-8887</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Grinders Games</td>&#10;    <td>1517 Post Rd Ste 9</td>&#10;    <td>Wells</td>&#10;    <td>ME</td>&#10;    <td>4090</td>&#10;    <td>602-918-3057</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>J &amp; R Cards</td>&#10;    <td>42 Cushing St </td>&#10;    <td>Brunswick</td>&#10;    <td>ME</td>&#10;    <td>4011</td>&#10;    <td>207-729-1577</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Spell Bound</td>&#10;    <td>67 E Concourse </td>&#10;    <td>Waterville</td>&#10;    <td>ME</td>&#10;    <td>4901</td>&#10;    <td>207-872-8200</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Eagle Hill</td>&#10;    <td>351 Main St </td>&#10;    <td>Presque Isle</td>&#10;    <td>ME</td>&#10;    <td>04769-2811</td>&#10;    <td>207-764-5701</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dragon's Mouth, The</td>&#10;    <td>201 Main St </td>&#10;    <td>Lewiston</td>&#10;    <td>ME</td>&#10;    <td>4240</td>&#10;    <td>207-782-5025</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Odyssey Games</td>&#10;    <td>1504 West Michigan </td>&#10;    <td>Kalamazoo</td>&#10;    <td>MI</td>&#10;    <td>49006</td>&#10;    <td>269-382-3050</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Board Room Game Center, The</td>&#10;    <td>3085-11 Bay Rd </td>&#10;    <td>Saginaw</td>&#10;    <td>MI</td>&#10;    <td>48603</td>&#10;    <td>989-295-0522</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>New Game North</td>&#10;    <td>333 S Stephenson Ave </td>&#10;    <td>Iron Mountain</td>&#10;    <td>MI</td>&#10;    <td>49801</td>&#10;    <td>906-239-9769</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Stay &amp; Play Games &amp; Hobby</td>&#10;    <td>31374 Harper Ave </td>&#10;    <td>Saint Clair Shores</td>&#10;    <td>MI</td>&#10;    <td>48082</td>&#10;    <td>586-359-6652</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Adamczyk Computer &amp; Gaming Solutions</td>&#10;    <td>1960 West Houghton Lake DR </td>&#10;    <td>Prudenville</td>&#10;    <td>MI</td>&#10;    <td>48651</td>&#10;    <td>989-202-4270</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gamers Sanctuary</td>&#10;    <td>4290 Miller Rd Ste G</td>&#10;    <td>Flint</td>&#10;    <td>MI</td>&#10;    <td>48507</td>&#10;    <td>810-720-8280</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>White Cap Comics</td>&#10;    <td>430 Cummings Ave NW Ste A</td>&#10;    <td>Grand Rapids</td>&#10;    <td>MI</td>&#10;    <td>49534</td>&#10;    <td>616-785-8518</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gamer's Gauntlet</td>&#10;    <td>20564 Hall Rd </td>&#10;    <td>Clinton Township</td>&#10;    <td>MI</td>&#10;    <td>48038</td>&#10;    <td>586-412-6677</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Warriors 3 Comics and Games</td>&#10;    <td>35613 Michigan Ave. </td>&#10;    <td>Wayne</td>&#10;    <td>MI</td>&#10;    <td>48184</td>&#10;    <td>734-895-9069</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Pandemonium</td>&#10;    <td>1858 Middlebelt Rd </td>&#10;    <td>Garden City</td>&#10;    <td>MI</td>&#10;    <td>48135</td>&#10;    <td>734-427-2451</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Fanfare Sports &amp; Entertainment</td>&#10;    <td>4415 S Westnedge Ave </td>&#10;    <td>Kalamazoo</td>&#10;    <td>MI</td>&#10;    <td>49008</td>&#10;    <td>269-349-8866</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Cool City Games</td>&#10;    <td>720 Huron Ave </td>&#10;    <td>Port Huron</td>&#10;    <td>MI</td>&#10;    <td>48060</td>&#10;    <td>810-985-9225</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Goldmine Comics &amp; Cards</td>&#10;    <td>65 54th St SW </td>&#10;    <td>Wyoming</td>&#10;    <td>MI</td>&#10;    <td>49548-5682</td>&#10;    <td>616-534-7227</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Time Travelers</td>&#10;    <td>3277 12 Mile Rd </td>&#10;    <td>Berkley</td>&#10;    <td>MI</td>&#10;    <td>48072-1341</td>&#10;    <td>248-548-7213</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Titan's Entertainment Cafe - Battle Creek</td>&#10;    <td>669 Capital Ave SW </td>&#10;    <td>Battle Creek</td>&#10;    <td>MI</td>&#10;    <td>49015</td>&#10;    <td>269-963-3773</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comic Relief</td>&#10;    <td>4050 Fenton Rd Ste G</td>&#10;    <td>Flint</td>&#10;    <td>MI</td>&#10;    <td>48507</td>&#10;    <td>810-238-7221</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>GOB Retail</td>&#10;    <td>28736 John R Rd </td>&#10;    <td>Madison Heights</td>&#10;    <td>MI</td>&#10;    <td>48071</td>&#10;    <td>248-430-4980</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Alpha Omega Coffee &amp; Games</td>&#10;    <td>32 S Main St </td>&#10;    <td>Cedar Springs</td>&#10;    <td>MI</td>&#10;    <td>49319</td>&#10;    <td>616-696-2910</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Paradox Gaming</td>&#10;    <td>28405 Harper Ave </td>&#10;    <td>Saint Clair Shores</td>&#10;    <td>MI</td>&#10;    <td>48081</td>&#10;    <td>586-218-7958</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Alpha Players</td>&#10;    <td>4318 South Division Ave </td>&#10;    <td>Kentwood</td>&#10;    <td>MI</td>&#10;    <td>49548</td>&#10;    <td>616-301-9455</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comic City - Pontiac</td>&#10;    <td>466 N Telegraph Rd </td>&#10;    <td>Pontiac</td>&#10;    <td>MI</td>&#10;    <td>48341</td>&#10;    <td>248-334-4139</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Battle Grounds, The</td>&#10;    <td>4 S Howell St </td>&#10;    <td>Hillsdale</td>&#10;    <td>MI</td>&#10;    <td>49242</td>&#10;    <td>517-610-5369</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Alibi Games</td>&#10;    <td>204 W Grand River Ave Ste 190</td>&#10;    <td>Howell</td>&#10;    <td>MI</td>&#10;    <td>48843</td>&#10;    <td>517-552-5995</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Brian’s Comics &amp; Games</td>&#10;    <td>135 W Main St </td>&#10;    <td>Harrison</td>&#10;    <td>MI</td>&#10;    <td>48625</td>&#10;    <td>989-630-0390</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Fun Factory, The</td>&#10;    <td>1043 S. Airport Rd W </td>&#10;    <td>Traverse City</td>&#10;    <td>MI</td>&#10;    <td>49686-4737</td>&#10;    <td>231-946-4064</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Wargames North - Alpena</td>&#10;    <td>2324 US Hwy 23 S </td>&#10;    <td>Alpena</td>&#10;    <td>MI</td>&#10;    <td>49707</td>&#10;    <td>989-354-4354</td>&#10;    <td>&#10;  </td></tr>&#10;  <tr>&#10;    <td>Clem's Collectibles - Lansing</td>&#10;    <td>216 S Washington Ave Suite B</td>&#10;    <td>Lansing</td>&#10;    <td>MI</td>&#10;    <td>48933</td>&#10;    <td>517-485-2369</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Cardboard Addiction</td>&#10;    <td>116 E. Superior </td>&#10;    <td>Alma</td>&#10;    <td>MI</td>&#10;    <td>48801</td>&#10;    <td>989-463-1760</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Norm's Hobby</td>&#10;    <td>223 N Ball St </td>&#10;    <td>Owosso</td>&#10;    <td>MI</td>&#10;    <td>48867</td>&#10;    <td>989-720-6608</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>ORC Gaming</td>&#10;    <td>247 S State St </td>&#10;    <td>Caro</td>&#10;    <td>MI</td>&#10;    <td>48723</td>&#10;    <td>989-286-1886</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>TC Paintball - The War Room</td>&#10;    <td>849 US 31 S </td>&#10;    <td>Traverse City</td>&#10;    <td>MI</td>&#10;    <td>49684</td>&#10;    <td>231-943-0248</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Outer Limits, The</td>&#10;    <td>1120 Burton St SW </td>&#10;    <td>Wyoming</td>&#10;    <td>MI</td>&#10;    <td>49509-5509</td>&#10;    <td>616-452-1348</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dugout Sports Shop, The</td>&#10;    <td>600 S Mill St Ste C</td>&#10;    <td>Clio</td>&#10;    <td>MI</td>&#10;    <td>48420</td>&#10;    <td>810-640-7253</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>POP! Comics Gaming &amp; Caffeine</td>&#10;    <td>45163 Cass Ave </td>&#10;    <td>Utica</td>&#10;    <td>MI</td>&#10;    <td>48317</td>&#10;    <td>586-991-0071</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Galaxy Comics</td>&#10;    <td>2620 State St </td>&#10;    <td>Saginaw</td>&#10;    <td>MI</td>&#10;    <td>48602</td>&#10;    <td>989-799-6334</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hall Of Heroes</td>&#10;    <td>316 N Mission St Ste A</td>&#10;    <td>Mount Pleasant</td>&#10;    <td>MI</td>&#10;    <td>48858</td>&#10;    <td>989-773-8464</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>BC Comix &amp; Games</td>&#10;    <td>17125 Silver Pkwy </td>&#10;    <td>Fenton</td>&#10;    <td>MI</td>&#10;    <td>48430</td>&#10;    <td>810-208-7100</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>RIW Hobbies</td>&#10;    <td>29116 Five Mile Rd </td>&#10;    <td>Livonia</td>&#10;    <td>MI</td>&#10;    <td>48154</td>&#10;    <td>734-261-7233</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Get Your Game On</td>&#10;    <td>310 S State St </td>&#10;    <td>Ann Arbor</td>&#10;    <td>MI</td>&#10;    <td>48104</td>&#10;    <td>734-786-3746</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Fun 4 All</td>&#10;    <td>2742 Washtenaw Ave </td>&#10;    <td>Ypsilanti</td>&#10;    <td>MI</td>&#10;    <td>48197</td>&#10;    <td>734-434-7440</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Cards In The Corner</td>&#10;    <td>3519 S Cedar St </td>&#10;    <td>Lansing</td>&#10;    <td>MI</td>&#10;    <td>48910</td>&#10;    <td>517-394-1287</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Collector's Corner</td>&#10;    <td>4011 Jefferson Ave </td>&#10;    <td>Midland</td>&#10;    <td>MI</td>&#10;    <td>48640</td>&#10;    <td>989-839-2060</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Big Kidz Games</td>&#10;    <td>3661 Plainfield Ave NE Ste B</td>&#10;    <td>Grand Rapids</td>&#10;    <td>MI</td>&#10;    <td>49525</td>&#10;    <td>616-608-3532</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Grand Lan</td>&#10;    <td>56 N Division Ave </td>&#10;    <td>Grand Rapids</td>&#10;    <td>MI</td>&#10;    <td>49503</td>&#10;    <td>616-975-7911</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Stadium Card &amp; Comics</td>&#10;    <td>2061 Golfside Dr </td>&#10;    <td>Ypsilanti</td>&#10;    <td>MI</td>&#10;    <td>48197</td>&#10;    <td>734-434-0283</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Superior Game Works</td>&#10;    <td>1015 N 3rd St Ste 3</td>&#10;    <td>Marquette</td>&#10;    <td>MI</td>&#10;    <td>49855</td>&#10;    <td>906-273-1407</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Fortress Comics &amp; Games</td>&#10;    <td>425 Albert Ave </td>&#10;    <td>East Lansing</td>&#10;    <td>MI</td>&#10;    <td>48823</td>&#10;    <td>517-333-0435</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Cobblestone Crafts &amp; Hobbies</td>&#10;    <td>367 E Lakewood Blvd </td>&#10;    <td>Holland</td>&#10;    <td>MI</td>&#10;    <td>49424</td>&#10;    <td>616-396-3029</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Evolution Games</td>&#10;    <td>6323 W Saginaw Hwy Ste D</td>&#10;    <td>Lansing</td>&#10;    <td>MI</td>&#10;    <td>48917</td>&#10;    <td>517-323-8600</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Topps Trade Center</td>&#10;    <td>1609 Mall Dr </td>&#10;    <td>Benton Harbor</td>&#10;    <td>MI</td>&#10;    <td>49022</td>&#10;    <td>269-925-3010</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Stadium, The</td>&#10;    <td>3980 E Wilder Rd </td>&#10;    <td>Bay City</td>&#10;    <td>MI</td>&#10;    <td>48706</td>&#10;    <td>989-667-0450</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dot Games</td>&#10;    <td>559 Ashmun St </td>&#10;    <td>Sault Sainte Marie</td>&#10;    <td>MI</td>&#10;    <td>49783</td>&#10;    <td>906-253-1818</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Premier Coins &amp; Collectibles</td>&#10;    <td>7050 W Saginaw Hwy Ste 4</td>&#10;    <td>Lansing</td>&#10;    <td>MI</td>&#10;    <td>48917</td>&#10;    <td>517-886-2646</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Mike's Comics</td>&#10;    <td>51075 Washington St </td>&#10;    <td>New Baltimore</td>&#10;    <td>MI</td>&#10;    <td>48047</td>&#10;    <td>586-716-9511</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Our House Games</td>&#10;    <td>403 E Front Street </td>&#10;    <td>Monroe</td>&#10;    <td>MI</td>&#10;    <td>48161</td>&#10;    <td>734-242-4263</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>KC Hobbies</td>&#10;    <td>110 N State St </td>&#10;    <td>Saint Ignace</td>&#10;    <td>MI</td>&#10;    <td>49781</td>&#10;    <td>906-643-9372</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gaming Warehouse, The</td>&#10;    <td>4365 Canal Ave Ste A</td>&#10;    <td>Grandville</td>&#10;    <td>MI</td>&#10;    <td>49418</td>&#10;    <td>616-214-8262</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Excelsior Games &amp; Comics</td>&#10;    <td>500 N Lafayette </td>&#10;    <td>Greenville</td>&#10;    <td>MI</td>&#10;    <td>48838</td>&#10;    <td>616-225-3350</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Battle Grounds</td>&#10;    <td>2085 N. US Hwy 31 </td>&#10;    <td>Petoskey</td>&#10;    <td>MI</td>&#10;    <td>49770</td>&#10;    <td>231-753-2053</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Lange's Sports and Comic Books</td>&#10;    <td>1068 E. Sternberg </td>&#10;    <td>Muskegon</td>&#10;    <td>MI</td>&#10;    <td>49441</td>&#10;    <td>231-798-3097</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Wargames North - Cadillac</td>&#10;    <td>313 N Mitchell St </td>&#10;    <td>Cadillac</td>&#10;    <td>MI</td>&#10;    <td>49601</td>&#10;    <td>231-775-2522</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Links</td>&#10;    <td>140 E Grand River Ave </td>&#10;    <td>Fowlerville</td>&#10;    <td>MI</td>&#10;    <td>48836</td>&#10;    <td>517-861-4263</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Barracks, The</td>&#10;    <td>84 E Center St Ste 2</td>&#10;    <td>Petersburg</td>&#10;    <td>MI</td>&#10;    <td>49270</td>&#10;    <td>734-279-1565</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Collectible Treasure/Mythical Realms</td>&#10;    <td>31620 Grand River Ave </td>&#10;    <td>Farmington</td>&#10;    <td>MI</td>&#10;    <td>48336</td>&#10;    <td>248-426-0733</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Collector's Zone, The</td>&#10;    <td>1425 Wildwood Ave </td>&#10;    <td>Jackson</td>&#10;    <td>MI</td>&#10;    <td>49202-4026</td>&#10;    <td>517-788-8498</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Coy's Comics</td>&#10;    <td>301 S Hamilton </td>&#10;    <td>Saginaw</td>&#10;    <td>MI</td>&#10;    <td>48602</td>&#10;    <td>989-790-1810</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Geniehobbies</td>&#10;    <td>137 W. Main Street </td>&#10;    <td>Gaylord</td>&#10;    <td>MI</td>&#10;    <td>49735</td>&#10;    <td>231-238-7488</td>&#10;    <td>&#10;  </td></tr>&#10;  <tr>&#10;    <td>Book World</td>&#10;    <td>1104 S Stevenson Hwy </td>&#10;    <td>Iron Mountain</td>&#10;    <td>MI</td>&#10;    <td>49801</td>&#10;    <td>906-779-1416</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Shoreline Minis</td>&#10;    <td>6516 Schamber Dr </td>&#10;    <td>Muskegon</td>&#10;    <td>MI</td>&#10;    <td>49444</td>&#10;    <td>231-760-4913</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Games by James - Rochester</td>&#10;    <td>111 S Broadway Ste 207</td>&#10;    <td>Rochester</td>&#10;    <td>MN</td>&#10;    <td>55904-6511</td>&#10;    <td>507-280-8828</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Air Traffic Kites &amp; Games - Eden Prairie</td>&#10;    <td>8251 Flying Cloud Dr </td>&#10;    <td>Eden Prairie</td>&#10;    <td>MN</td>&#10;    <td>55344</td>&#10;    <td>952-941-3335</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Legion Games</td>&#10;    <td>3128 Hwy 13 W </td>&#10;    <td>Burnsville</td>&#10;    <td>MN</td>&#10;    <td>55337</td>&#10;    <td>952-895-1989</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Outpost 2000 &amp; Beyond</td>&#10;    <td>536 Northdale Blvd NW </td>&#10;    <td>Coon Rapids</td>&#10;    <td>MN</td>&#10;    <td>55448</td>&#10;    <td>763-585-1049</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Source Comics &amp; Games</td>&#10;    <td>2057 Snelling Ave N </td>&#10;    <td>Roseville</td>&#10;    <td>MN</td>&#10;    <td>55113</td>&#10;    <td>651-645-0386</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>World of Games</td>&#10;    <td>20777 Holyoke Ave </td>&#10;    <td>Lakeville</td>&#10;    <td>MN</td>&#10;    <td>55044</td>&#10;    <td>952-469-1830</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hi-Score Video Games - St Paul</td>&#10;    <td>2130 11th Ave. E </td>&#10;    <td>North St Paul</td>&#10;    <td>MN</td>&#10;    <td>55109</td>&#10;    <td>651-777-3011</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hobby Goblins</td>&#10;    <td>297 37th St NE </td>&#10;    <td>Rochester</td>&#10;    <td>MN</td>&#10;    <td>55906</td>&#10;    <td>507-226-8669</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Universe Games</td>&#10;    <td>711 W Lake St #103</td>&#10;    <td>Minneapolis</td>&#10;    <td>MN</td>&#10;    <td>55408</td>&#10;    <td>612-825-4066</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Double Play</td>&#10;    <td>1850 Adams St Ste 701</td>&#10;    <td>Mankato</td>&#10;    <td>MN</td>&#10;    <td>56001</td>&#10;    <td>507-345-7208</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Mead Hall Games &amp; Comics</td>&#10;    <td>1425 Lasalle Ave Ste B2</td>&#10;    <td>Minneapolis</td>&#10;    <td>MN</td>&#10;    <td>55403</td>&#10;    <td>612-315-3945</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Jimmy Jams</td>&#10;    <td>113 E 3rd St </td>&#10;    <td>Winona</td>&#10;    <td>MN</td>&#10;    <td>55987</td>&#10;    <td>507-453-0271</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Games By James - Edina</td>&#10;    <td>2510 Southdale Ctr </td>&#10;    <td>Edina</td>&#10;    <td>MN</td>&#10;    <td>55435</td>&#10;    <td>952-925-9656</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Village Games</td>&#10;    <td>2665 4th Ave N Suite 1 </td>&#10;    <td>Anoka</td>&#10;    <td>MN</td>&#10;    <td>55303</td>&#10;    <td>763-506-0303</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>John's Total Entertainment</td>&#10;    <td>510 Atlantic Ave </td>&#10;    <td>Morris</td>&#10;    <td>MN</td>&#10;    <td>56267-1314</td>&#10;    <td>320-589-3875</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Collector's Connection</td>&#10;    <td>2322 Mountain Shadow Drive </td>&#10;    <td>Duluth</td>&#10;    <td>MN</td>&#10;    <td>55811-3809</td>&#10;    <td>218-726-1360</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Rogue Robot Games &amp; Comics</td>&#10;    <td>3 S 4th Ave W </td>&#10;    <td>Duluth</td>&#10;    <td>MN</td>&#10;    <td>55802</td>&#10;    <td>218-727-8101</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Games By James - Roseville</td>&#10;    <td>327 Rosedale Shopping Ctr Ste 135</td>&#10;    <td>Roseville</td>&#10;    <td>MN</td>&#10;    <td>55113</td>&#10;    <td>651-636-0701</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dreamers Cards &amp; Games</td>&#10;    <td>3015 Utah Ave S </td>&#10;    <td>St Louis Park</td>&#10;    <td>MN</td>&#10;    <td>55426</td>&#10;    <td>952-938-8163</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Level Up Games</td>&#10;    <td>609 Marie Ave. </td>&#10;    <td>South Saint Paul</td>&#10;    <td>MN</td>&#10;    <td>55075</td>&#10;    <td>651-493-9176</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Monster Den</td>&#10;    <td>1815 East 41st Street, Ste B </td>&#10;    <td>Minneapolis</td>&#10;    <td>MN</td>&#10;    <td>55407</td>&#10;    <td>612-724-4543</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dungeon's End</td>&#10;    <td>325 N Central Ave </td>&#10;    <td>Duluth</td>&#10;    <td>MN</td>&#10;    <td>55807</td>&#10;    <td>218-624-4121</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gamers Den, The</td>&#10;    <td>140 N Buchanan St Ste 142</td>&#10;    <td>Cambridge</td>&#10;    <td>MN</td>&#10;    <td>55008</td>&#10;    <td>763-689-5370</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Armored Ogre Games</td>&#10;    <td>9074 Buchanan Tr. </td>&#10;    <td>Inver Grove Heights</td>&#10;    <td>MN</td>&#10;    <td>55076</td>&#10;    <td>651-330-3493</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Twin City Comics</td>&#10;    <td>3954 Central Ave NE </td>&#10;    <td>Columbia Heights</td>&#10;    <td>MN</td>&#10;    <td>55421-1950</td>&#10;    <td>763-706-0857</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Paddy's Game Shoppe</td>&#10;    <td>706 W St Germain St </td>&#10;    <td>Saint Cloud</td>&#10;    <td>MN</td>&#10;    <td>56301</td>&#10;    <td>320-229-7545</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Fan Zone, The</td>&#10;    <td>1605 1st St S </td>&#10;    <td>Willmar</td>&#10;    <td>MN</td>&#10;    <td>56201</td>&#10;    <td>320-222-9663</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Accidentally Cool Games</td>&#10;    <td>407 Algoma St NW </td>&#10;    <td>Bemidji</td>&#10;    <td>MN</td>&#10;    <td>56601</td>&#10;    <td>218-444-3141</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dork Den, The</td>&#10;    <td>515 N Riverfront Dr Ste 150</td>&#10;    <td>Mankato</td>&#10;    <td>MN</td>&#10;    <td>56001</td>&#10;    <td>507-386-1406</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Misplay</td>&#10;    <td>2141 Division St N </td>&#10;    <td>North Saint Paul</td>&#10;    <td>MN</td>&#10;    <td>55109</td>&#10;    <td>651-278-0456</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Legacy, Comics &amp; Games</td>&#10;    <td>1301 18th ave nw suite 328 </td>&#10;    <td>Austin</td>&#10;    <td>MN</td>&#10;    <td>55912</td>&#10;    <td>507-320-4263</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Shop Gaming &amp; Entertainment, The</td>&#10;    <td>129 W Broadway St </td>&#10;    <td>Owatonna</td>&#10;    <td>MN</td>&#10;    <td>55060</td>&#10;    <td>507-214-3126</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Your Mom's Basement</td>&#10;    <td>1011 Meadowlands Dr Ste 1</td>&#10;    <td>Saint Paul</td>&#10;    <td>MN</td>&#10;    <td>55127</td>&#10;    <td>651-414-0375</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Magic Lotus</td>&#10;    <td>206 S 7th St </td>&#10;    <td>Brainerd</td>&#10;    <td>MN</td>&#10;    <td>56401</td>&#10;    <td>320-279-0200</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Crimson Dragon Games / Cottage Gifts</td>&#10;    <td>12710 Lake Blvd </td>&#10;    <td>Lindstrom</td>&#10;    <td>MN</td>&#10;    <td>55045</td>&#10;    <td>651-257-6199</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Tower Games</td>&#10;    <td>4807 Nicollet Ave </td>&#10;    <td>Minneapolis</td>&#10;    <td>MN</td>&#10;    <td>55419</td>&#10;    <td>612-823-4477</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Phantasy Hobbies</td>&#10;    <td>120 1st Ave East </td>&#10;    <td>Shakopee</td>&#10;    <td>MN</td>&#10;    <td>55379</td>&#10;    <td>952-402-0291</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>A Novel Place</td>&#10;    <td>202 County Rd 81 </td>&#10;    <td>Osseo</td>&#10;    <td>MN</td>&#10;    <td>55369</td>&#10;    <td>763-424-4122</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>LAN World Gaming</td>&#10;    <td>2645 White Bear Ave Ste 3</td>&#10;    <td>Maplewood</td>&#10;    <td>MN</td>&#10;    <td>55109</td>&#10;    <td>651-770-0207</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>St Olaf College Bookstore</td>&#10;    <td>1520 Saint Olaf Ave </td>&#10;    <td>Northfield</td>&#10;    <td>MN</td>&#10;    <td>55057</td>&#10;    <td>507-786-3234</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Tom Frantzen Sports Collectibles</td>&#10;    <td>2559 County Rd 10 Moundsview Square Shopping Center</td>&#10;    <td>Mounds View</td>&#10;    <td>MN</td>&#10;    <td>55112</td>&#10;    <td>763-786-0014</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Galaxy Games</td>&#10;    <td>3618 Charles St </td>&#10;    <td>Saint Joseph</td>&#10;    <td>MO</td>&#10;    <td>64507</td>&#10;    <td>816-232-4263</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Manticore Game Shop</td>&#10;    <td>258 Fort Zumwalt Sq </td>&#10;    <td>O Fallon</td>&#10;    <td>MO</td>&#10;    <td>63366</td>&#10;    <td>636-294-7529</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hole In The Wall Games &amp; Comics</td>&#10;    <td>112 N Oak St </td>&#10;    <td>Mountain View</td>&#10;    <td>MO</td>&#10;    <td>65548</td>&#10;    <td>417-934-0093</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Fantasy Shop, The - St Charles</td>&#10;    <td>2426 W Clay St </td>&#10;    <td>St Charles</td>&#10;    <td>MO</td>&#10;    <td>63301</td>&#10;    <td>636-947-8330</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Nite</td>&#10;    <td>8330 Watson Rd </td>&#10;    <td>St Louis</td>&#10;    <td>MO</td>&#10;    <td>63119</td>&#10;    <td>314-270-8440</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Valhalla's Gate</td>&#10;    <td>2525 Bernadette Dr </td>&#10;    <td>Columbia</td>&#10;    <td>MO</td>&#10;    <td>65203</td>&#10;    <td>573-442-9909</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Pulp Fiction Comics &amp; Games</td>&#10;    <td>1100 SE Blue Pkwy </td>&#10;    <td>Lee's Summit</td>&#10;    <td>MO</td>&#10;    <td>64063</td>&#10;    <td>816-554-7333</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Fantasy Shop, The - South County</td>&#10;    <td>10560 Baptist Church Rd </td>&#10;    <td>St Louis</td>&#10;    <td>MO</td>&#10;    <td>63128</td>&#10;    <td>314-842-8228</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gamemaster</td>&#10;    <td>1439 S Glenstone Ave </td>&#10;    <td>Springfield</td>&#10;    <td>MO</td>&#10;    <td>65804</td>&#10;    <td>417-719-4271</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Changing Hands Book Shoppe</td>&#10;    <td>528 S Virginia Ave </td>&#10;    <td>Joplin</td>&#10;    <td>MO</td>&#10;    <td>64801-2327</td>&#10;    <td>417-623-6699</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gaming Center, The</td>&#10;    <td>302 Perry Plz </td>&#10;    <td>Perryville</td>&#10;    <td>MO</td>&#10;    <td>63775</td>&#10;    <td>573-547-6260</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Zone Comics &amp; Games</td>&#10;    <td>229 S Ohio Ave </td>&#10;    <td>Sedalia</td>&#10;    <td>MO</td>&#10;    <td>65301</td>&#10;    <td>660-826-8063</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Zielinski's</td>&#10;    <td>288 Merchant St </td>&#10;    <td>Sainte Genevieve</td>&#10;    <td>MO</td>&#10;    <td>63670</td>&#10;    <td>573-883-7551</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Ogre's Games</td>&#10;    <td>4501 South Kingshighway Blvd. </td>&#10;    <td>St Louis</td>&#10;    <td>MO</td>&#10;    <td>63109</td>&#10;    <td>314-353-6473</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Geeks &amp; Nerds Quarter</td>&#10;    <td>215 S Maple St </td>&#10;    <td>Eldon</td>&#10;    <td>MO</td>&#10;    <td>65026</td>&#10;    <td>573-280-8119</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Tipton Gamer</td>&#10;    <td>106 w Moniteau St box72 </td>&#10;    <td>Tipton</td>&#10;    <td>MO</td>&#10;    <td>65081</td>&#10;    <td>660-433-2028</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Fantasy Shop, The - Maplewood</td>&#10;    <td>7238 Manchester Rd </td>&#10;    <td>Maplewood</td>&#10;    <td>MO</td>&#10;    <td>63143-2440</td>&#10;    <td>314-644-3070</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Vintage Stock - Joplin</td>&#10;    <td>101 N Range Line Rd #401A</td>&#10;    <td>Joplin</td>&#10;    <td>MO</td>&#10;    <td>64801</td>&#10;    <td>417-206-3530</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Collector Store</td>&#10;    <td>2404 Hwy 94 South Outer Road </td>&#10;    <td>St. Charles</td>&#10;    <td>MO</td>&#10;    <td>63303</td>&#10;    <td>636-477-7800</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>A To Z Comics</td>&#10;    <td>1300 SW US 40 </td>&#10;    <td>Blue Springs</td>&#10;    <td>MO</td>&#10;    <td>64015</td>&#10;    <td>816-224-0505</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Games, Comics, Etc</td>&#10;    <td>2746 S Campbell St </td>&#10;    <td>Springfield</td>&#10;    <td>MO</td>&#10;    <td>65807</td>&#10;    <td>417-831-4263</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Big City Comix &amp; Games</td>&#10;    <td>12317 State Line Rd </td>&#10;    <td>Kansas City</td>&#10;    <td>MO</td>&#10;    <td>64145</td>&#10;    <td>816-326-7759</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>K2 Games</td>&#10;    <td>1512 St Francis St </td>&#10;    <td>Kennett</td>&#10;    <td>MO</td>&#10;    <td>63857</td>&#10;    <td>573-888-9930</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dirt Road Comics &amp; Collectibles</td>&#10;    <td>117 E Main St </td>&#10;    <td>Willow Springs</td>&#10;    <td>MO</td>&#10;    <td>65793</td>&#10;    <td>417-469-1904</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Cafe</td>&#10;    <td>107 West Lexington </td>&#10;    <td>Independence</td>&#10;    <td>MO</td>&#10;    <td>64050</td>&#10;    <td>816-252-7529</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Meta Games Unlimited</td>&#10;    <td>3309 E Sunshine St </td>&#10;    <td>Springfield</td>&#10;    <td>MO</td>&#10;    <td>65804</td>&#10;    <td>417-881-9390</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Mr D's Gaming &amp; Cards</td>&#10;    <td>3102 Highridge Bvld </td>&#10;    <td>Highridge</td>&#10;    <td>MO</td>&#10;    <td>63049</td>&#10;    <td>636-376-3215</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Magelings</td>&#10;    <td>1906 N Providence Rd Ste C</td>&#10;    <td>Columbia</td>&#10;    <td>MO</td>&#10;    <td>65202</td>&#10;    <td>573-416-0808</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Action Sports</td>&#10;    <td>6041 B NE Antioc Rd. </td>&#10;    <td>Gladstone</td>&#10;    <td>MO</td>&#10;    <td>64119</td>&#10;    <td>816-455-6319</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Thompson Productions</td>&#10;    <td>207 N Holden St </td>&#10;    <td>Warrensburg</td>&#10;    <td>MO</td>&#10;    <td>64093</td>&#10;    <td>660-747-3830</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Newcastle Comics &amp; Games</td>&#10;    <td>2294 McKelvey Rd </td>&#10;    <td>Maryland Heights</td>&#10;    <td>MO</td>&#10;    <td>63043</td>&#10;    <td>314-392-9322</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hour of the Dragon Comics</td>&#10;    <td>801 S Main St </td>&#10;    <td>Sikeston</td>&#10;    <td>MO</td>&#10;    <td>63801</td>&#10;    <td>573-475-9568</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Fantasy Shop, The - Florissant</td>&#10;    <td>8232 N Lindbergh Blvd </td>&#10;    <td>Florissant</td>&#10;    <td>MO</td>&#10;    <td>63031</td>&#10;    <td>314-831-5211</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Zani Coins &amp; Collectibles</td>&#10;    <td>2201 N Westwood Blvd Ste 2</td>&#10;    <td>Poplar Bluff</td>&#10;    <td>MO</td>&#10;    <td>63901</td>&#10;    <td>573-686-2200</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Kevin's Gamers Bazaar</td>&#10;    <td>447 E Karcsh Blvd </td>&#10;    <td>Farmington</td>&#10;    <td>MO</td>&#10;    <td>63640</td>&#10;    <td>573-366-0385</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Spanky's Card Shop</td>&#10;    <td>9914 Holmes Rd Ste B</td>&#10;    <td>Kansas City</td>&#10;    <td>MO</td>&#10;    <td>64131</td>&#10;    <td>816-941-2702</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>B &amp; B Game Shop</td>&#10;    <td>109 Hilltop Village Center </td>&#10;    <td>Eureka</td>&#10;    <td>MO</td>&#10;    <td>63025</td>&#10;    <td>636-938-9989</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Basement Games &amp; Hobbies, The</td>&#10;    <td>6109 NW 63rd Terrrace </td>&#10;    <td>Kansas City</td>&#10;    <td>MO</td>&#10;    <td>64151</td>&#10;    <td>816-841-2905</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Next-Level Games, Inc</td>&#10;    <td>1914 S Glenstone </td>&#10;    <td>Springfield</td>&#10;    <td>MO</td>&#10;    <td>65804</td>&#10;    <td>417-888-0909</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Limited Figures Toys &amp; Comics</td>&#10;    <td>7000 NW Prairie View Rd Ste 140</td>&#10;    <td>Kansas City</td>&#10;    <td>MO</td>&#10;    <td>64151</td>&#10;    <td>816-746-5757</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Slackers CD's &amp; Games - Jefferson City</td>&#10;    <td>744 W Stadium Blvd Ste A</td>&#10;    <td>Jefferson City</td>&#10;    <td>MO</td>&#10;    <td>65109</td>&#10;    <td>573-635-7271</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Eclipse Books &amp; Comics</td>&#10;    <td>814 N Pine St </td>&#10;    <td>ROLLA</td>&#10;    <td>MO</td>&#10;    <td>65401</td>&#10;    <td>573-364-4301</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Grove Gamers Guild</td>&#10;    <td>430 N Chapman </td>&#10;    <td>Mountain Grove</td>&#10;    <td>MO</td>&#10;    <td>65711</td>&#10;    <td>417-926-0027</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Yeti Gaming</td>&#10;    <td>361 Watson Plaza </td>&#10;    <td>Crestwood</td>&#10;    <td>MO</td>&#10;    <td>63126</td>&#10;    <td>314-909-9196</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Book Nook, The</td>&#10;    <td>203 Washington Ave </td>&#10;    <td>West Plains</td>&#10;    <td>MO</td>&#10;    <td>65775</td>&#10;    <td>417-257-7962</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gamer's Hideout</td>&#10;    <td>1018 Missouri Ave Ste 9</td>&#10;    <td>St Robert</td>&#10;    <td>MO</td>&#10;    <td>65584</td>&#10;    <td>573-336-2148</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Pew! Pew! Card &amp; Game</td>&#10;    <td>1404 S Broadway Suite A</td>&#10;    <td>Oak Grove</td>&#10;    <td>MO</td>&#10;    <td>64075</td>&#10;    <td>816-690-2157</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Bigun's House of Games</td>&#10;    <td>2186 N Westwood Blvd </td>&#10;    <td>Poplar Bluff</td>&#10;    <td>MO</td>&#10;    <td>63901</td>&#10;    <td>573-686-8873</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hurley's Heroes</td>&#10;    <td>824 S Main St </td>&#10;    <td>Joplin</td>&#10;    <td>MO</td>&#10;    <td>64801</td>&#10;    <td>417-782-6642</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Miniature Market</td>&#10;    <td>2061 Congressional Dr </td>&#10;    <td>Maryland Heights</td>&#10;    <td>MO</td>&#10;    <td>63146</td>&#10;    <td>877-326-4429</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Elder Dragon Games</td>&#10;    <td>2621 Lincoln Rd </td>&#10;    <td>Hattiesburg</td>&#10;    <td>MS</td>&#10;    <td>39402</td>&#10;    <td>601-602-4736</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Jak's Cards Toys &amp; Games</td>&#10;    <td>1670 Pass Rd Ste G</td>&#10;    <td>Biloxi</td>&#10;    <td>MS</td>&#10;    <td>39531</td>&#10;    <td>228-435-7744</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Heroes &amp; Dreams</td>&#10;    <td>5352 Hwy 25 Ste 1700</td>&#10;    <td>Flowood</td>&#10;    <td>MS</td>&#10;    <td>39232</td>&#10;    <td>601-992-3100</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>maCnarB Gaming</td>&#10;    <td>2800 Hwy 90 Ste 1314</td>&#10;    <td>Gautier</td>&#10;    <td>MS</td>&#10;    <td>39553</td>&#10;    <td>228-327-1817</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Van's Comics &amp; Cards</td>&#10;    <td>398 Hwy 51 Ste 202</td>&#10;    <td>Ridgeland</td>&#10;    <td>MS</td>&#10;    <td>39157</td>&#10;    <td>601-898-9950</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Tupelo Sportscards</td>&#10;    <td>499 Gloster Creek Village Suite F-1 </td>&#10;    <td>Tupelo</td>&#10;    <td>MS</td>&#10;    <td>38801</td>&#10;    <td>662-620-0980</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Oxford Sports Cards</td>&#10;    <td>2617 W Oxford Loop Ste 5</td>&#10;    <td>Oxford</td>&#10;    <td>MS</td>&#10;    <td>38655</td>&#10;    <td>662-380-5007</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gulf Coast Cards - Hattiesburg</td>&#10;    <td>1000 Turtle Creek Dr Turtle Creek Mall Ste 800</td>&#10;    <td>Hattiesburg</td>&#10;    <td>MS</td>&#10;    <td>39402</td>&#10;    <td>601-599-2273</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Barnes &amp; Noble Booksellers</td>&#10;    <td>75 BS Hood Dr. </td>&#10;    <td>Mississippi State</td>&#10;    <td>MS</td>&#10;    <td>39762</td>&#10;    <td>228-216-1755</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Scheer Bros Hobbies</td>&#10;    <td>803 California Ave Ste 1</td>&#10;    <td>Libby</td>&#10;    <td>MT</td>&#10;    <td>59923</td>&#10;    <td>406-293-9362</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Rook's Comics &amp; Games</td>&#10;    <td>2740 W Main St </td>&#10;    <td>Bozeman</td>&#10;    <td>MT</td>&#10;    <td>59718</td>&#10;    <td>406-556-2153</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>KAB Sports Cards &amp; Collectables</td>&#10;    <td>710 Grand Ave Ste 13</td>&#10;    <td>Billings</td>&#10;    <td>MT</td>&#10;    <td>59101</td>&#10;    <td>406-702-1509</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Heroic Realms</td>&#10;    <td>2181 US Hwy 2 E Ste 5</td>&#10;    <td>Kalispell</td>&#10;    <td>MT</td>&#10;    <td>59901</td>&#10;    <td>406-755-4376</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Know Dice</td>&#10;    <td>8 5th St S </td>&#10;    <td>Great Falls</td>&#10;    <td>MT</td>&#10;    <td>59405</td>&#10;    <td>406-315-1166</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Good Games</td>&#10;    <td>27 W Park St </td>&#10;    <td>Butte</td>&#10;    <td>MT</td>&#10;    <td>59701</td>&#10;    <td>406-723-2141</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Stay &amp; Play! Games &amp; Collectables</td>&#10;    <td>421 Willow Ave Ste B</td>&#10;    <td>Colstrip</td>&#10;    <td>MT</td>&#10;    <td>59323</td>&#10;    <td>406-720-0077</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Action Cards &amp; Collectibles</td>&#10;    <td>909 13th St S </td>&#10;    <td>Great Falls</td>&#10;    <td>MT</td>&#10;    <td>59405</td>&#10;    <td>406-453-6629</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Fun Trade - Helena</td>&#10;    <td>515 N Sanders St </td>&#10;    <td>Helena</td>&#10;    <td>MT</td>&#10;    <td>59601</td>&#10;    <td>406-422-1204</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Muse Comics</td>&#10;    <td>2100 Stephens #107 </td>&#10;    <td>Missoula</td>&#10;    <td>MT</td>&#10;    <td>59801</td>&#10;    <td>406-543-9944</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Splash Page</td>&#10;    <td>2545 Central Ave Ste C</td>&#10;    <td>Billings</td>&#10;    <td>MT</td>&#10;    <td>59102</td>&#10;    <td>406-652-9444</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gamesmith, The</td>&#10;    <td>901 Main St </td>&#10;    <td>Miles City</td>&#10;    <td>MT</td>&#10;    <td>59301</td>&#10;    <td>406-232-1509</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Fun Trade - Missoula</td>&#10;    <td>2432 Central Ave </td>&#10;    <td>Missoula</td>&#10;    <td>MT</td>&#10;    <td>59804</td>&#10;    <td>406-317-1112</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Reimann Books &amp; Games - Four Oaks NC</td>&#10;    <td>108 N Main St </td>&#10;    <td>Four Oaks</td>&#10;    <td>NC</td>&#10;    <td>27524</td>&#10;    <td>910-238-9367</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Across the Board Games</td>&#10;    <td>449 N Andy Griffith Pkwy </td>&#10;    <td>Mount Airy</td>&#10;    <td>NC</td>&#10;    <td>27030</td>&#10;    <td>336-410-4517</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Stuff N Such</td>&#10;    <td>1301 C Buck Jones Rd </td>&#10;    <td>Raleigh</td>&#10;    <td>NC</td>&#10;    <td>27606</td>&#10;    <td>919-380-8222</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Be There Games - Belmont</td>&#10;    <td>507 Woodlawn Ave </td>&#10;    <td>Belmont</td>&#10;    <td>NC</td>&#10;    <td>28012</td>&#10;    <td>704-226-0071</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Time Tunnel Comics</td>&#10;    <td>1734 Highway 70 SE </td>&#10;    <td>Hickory</td>&#10;    <td>NC</td>&#10;    <td>28602</td>&#10;    <td>828-325-9858</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Theory</td>&#10;    <td>6260 Glenwood Ave Suite 109 </td>&#10;    <td>Raleigh</td>&#10;    <td>NC</td>&#10;    <td>27612</td>&#10;    <td>919-787-4449</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gamer's Armory, The</td>&#10;    <td>684 Cary Towne Blvd </td>&#10;    <td>Cary</td>&#10;    <td>NC</td>&#10;    <td>27511</td>&#10;    <td>919-238-4817</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Atomic Empire</td>&#10;    <td>3400 Westgate Dr #14B</td>&#10;    <td>Durham</td>&#10;    <td>NC</td>&#10;    <td>27707</td>&#10;    <td>919-490-7900</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gamer's Haunt</td>&#10;    <td>211 Merrimon Ave Ste 241</td>&#10;    <td>Asheville</td>&#10;    <td>NC</td>&#10;    <td>28801</td>&#10;    <td>828-251-1500</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gamer's Guild</td>&#10;    <td>1052 Lillington HWY </td>&#10;    <td>Spring Lake</td>&#10;    <td>NC</td>&#10;    <td>28390</td>&#10;    <td>910-497-2354</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Topdeck Games - Kernersville</td>&#10;    <td>244 N Main St </td>&#10;    <td>Kernersville</td>&#10;    <td>NC</td>&#10;    <td>27284</td>&#10;    <td>336-996-8088</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>CardZ-N-Things</td>&#10;    <td>5512 Raeford Rd </td>&#10;    <td>Fayetteville</td>&#10;    <td>NC</td>&#10;    <td>28311</td>&#10;    <td>910-487-4222</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hypermind</td>&#10;    <td>3396 S Church St </td>&#10;    <td>Burlington</td>&#10;    <td>NC</td>&#10;    <td>27215</td>&#10;    <td>336-584-1760</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Toy Factory, The</td>&#10;    <td>110 Boone Square St Ste 19</td>&#10;    <td>Hillsborough</td>&#10;    <td>NC</td>&#10;    <td>27278</td>&#10;    <td>919-732-2155</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Plan 9 Comics</td>&#10;    <td>1586 US Hwy 421 S Ste D</td>&#10;    <td>Boone</td>&#10;    <td>NC</td>&#10;    <td>28607</td>&#10;    <td>828-265-2002</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>The Comic Monstore</td>&#10;    <td>813 South Jake Alexander Blvd </td>&#10;    <td>Salisbury</td>&#10;    <td>NC</td>&#10;    <td>28147</td>&#10;    <td>704-636-0049</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Red Planet Games &amp; Hobbies</td>&#10;    <td>118 East Main St </td>&#10;    <td>Forest City</td>&#10;    <td>NC</td>&#10;    <td>28043</td>&#10;    <td>828-248-3002</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Desert Dune Comics &amp; Games</td>&#10;    <td>955 E Broad St </td>&#10;    <td>Fuquay Varina</td>&#10;    <td>NC</td>&#10;    <td>27526</td>&#10;    <td>919-557-5649</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Heroes Headquarters Comics &amp; Games</td>&#10;    <td>810 Valley Rd </td>&#10;    <td>Mocksville</td>&#10;    <td>NC</td>&#10;    <td>27028</td>&#10;    <td>336-409-1416</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Critical Hit, The</td>&#10;    <td>649 Andrews Road Ste B</td>&#10;    <td>Murphy</td>&#10;    <td>NC</td>&#10;    <td>28906</td>&#10;    <td>828-516-2215</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Abubika Gaming</td>&#10;    <td>3131 Union Rd Ste 8</td>&#10;    <td>Gastonia</td>&#10;    <td>NC</td>&#10;    <td>28056</td>&#10;    <td>704-671-2102</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hit Point Hobbies</td>&#10;    <td>118 W Main St </td>&#10;    <td>Aberdeen</td>&#10;    <td>NC</td>&#10;    <td>28315</td>&#10;    <td>910-692-8447</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Haven Games</td>&#10;    <td>210 Oak Ave </td>&#10;    <td>Spruce Pine</td>&#10;    <td>NC</td>&#10;    <td>28777</td>&#10;    <td>828-765-4563</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Battleground Games</td>&#10;    <td>671 East Court St </td>&#10;    <td>Marion</td>&#10;    <td>NC</td>&#10;    <td>28752</td>&#10;    <td>828-559-1031</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Paperback Trader</td>&#10;    <td>131 S Main St </td>&#10;    <td>Marion</td>&#10;    <td>NC</td>&#10;    <td>28752-4548</td>&#10;    <td>828-652-1606</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Cyber Realms</td>&#10;    <td>613 Highlands Rd </td>&#10;    <td>Franklin</td>&#10;    <td>NC</td>&#10;    <td>28734</td>&#10;    <td>828-349-4831</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Last Word, The</td>&#10;    <td>230 E W T Harris Blvd Ste B11</td>&#10;    <td>Charlotte</td>&#10;    <td>NC</td>&#10;    <td>28262</td>&#10;    <td>704-966-9673</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>HobbyTown USA - Spring Lake</td>&#10;    <td>630 Lillington Hwy Ste 124</td>&#10;    <td>Spring Lake</td>&#10;    <td>NC</td>&#10;    <td>28390</td>&#10;    <td>910-436-3700</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Strafe Gaming Lounge</td>&#10;    <td>101 S Main St Ste 220</td>&#10;    <td>Fuquay Varina</td>&#10;    <td>NC</td>&#10;    <td>27526</td>&#10;    <td>919-552-2939</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Earth 383 Comics &amp; Games</td>&#10;    <td>113 N Water St </td>&#10;    <td>Elizabeth City</td>&#10;    <td>NC</td>&#10;    <td>27909</td>&#10;    <td>252-331-7686</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>E &amp; E Baseball Card Shop</td>&#10;    <td>416 S Main St </td>&#10;    <td>Rolesville</td>&#10;    <td>NC</td>&#10;    <td>27571-9663</td>&#10;    <td>919-556-6898</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Rebel Base Comics &amp; Toys</td>&#10;    <td>701-CS Sharon Amity </td>&#10;    <td>Charlotte</td>&#10;    <td>NC</td>&#10;    <td>28211</td>&#10;    <td>704-442-9660</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>MultiVerse Gamers</td>&#10;    <td>137 E Franklin St Ste103</td>&#10;    <td>Chapel Hill</td>&#10;    <td>NC</td>&#10;    <td>27514</td>&#10;    <td>919-904-7534</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Stronghold Games &amp; Comics</td>&#10;    <td>115C Henderson Dr </td>&#10;    <td>Jacksonville</td>&#10;    <td>NC</td>&#10;    <td>28540</td>&#10;    <td>910-333-9161</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Parker, Banner, Kent &amp; Wayne</td>&#10;    <td>21500 Catawba Ave Ste A</td>&#10;    <td>Cornelius</td>&#10;    <td>NC</td>&#10;    <td>28031</td>&#10;    <td>704-892-4263</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Cape Fear Games</td>&#10;    <td>3608 Oleander Dr Ste E</td>&#10;    <td>Wilmington</td>&#10;    <td>NC</td>&#10;    <td>28403</td>&#10;    <td>910-798-6006</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Lucky's Card Shop</td>&#10;    <td>3929 High Point Road </td>&#10;    <td>Greensboro</td>&#10;    <td>NC</td>&#10;    <td>27407</td>&#10;    <td>336-834-4644</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Get Some Game</td>&#10;    <td>1224 Commercial Ave </td>&#10;    <td>Charlotte</td>&#10;    <td>NC</td>&#10;    <td>28205</td>&#10;    <td>704-728-5025</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Be There Games</td>&#10;    <td>2710 Chamber Dr Unit A</td>&#10;    <td>Monroe</td>&#10;    <td>NC</td>&#10;    <td>28110</td>&#10;    <td>704-226-0071</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dugout Cards &amp; Games, The</td>&#10;    <td>2109 Catawba Valley Blvd SE </td>&#10;    <td>Hickory</td>&#10;    <td>NC</td>&#10;    <td>28602</td>&#10;    <td>828-322-4164</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Deck Box, The</td>&#10;    <td>5360 Hendersonville Rd Ste 201</td>&#10;    <td>Fletcher</td>&#10;    <td>NC</td>&#10;    <td>28732</td>&#10;    <td>828-681-1861</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hillside Games</td>&#10;    <td>611 C Tunnel Rd </td>&#10;    <td>Asheville</td>&#10;    <td>NC</td>&#10;    <td>28805</td>&#10;    <td>828-505-1195</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Blue Ox Games</td>&#10;    <td>504 W 9th St </td>&#10;    <td>Greenville</td>&#10;    <td>NC</td>&#10;    <td>27834</td>&#10;    <td>252-695-6442</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Spandex City Comic Book Lounge</td>&#10;    <td>3611 Mount Holly Huntersville Rd Ste 202</td>&#10;    <td>Charlotte</td>&#10;    <td>NC</td>&#10;    <td>28216</td>&#10;    <td>704-909-7168</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>All Fun &amp; Games</td>&#10;    <td>487 James Jackson Ave </td>&#10;    <td>Cary</td>&#10;    <td>NC</td>&#10;    <td>27513</td>&#10;    <td>919-468-6322</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gaming Underground</td>&#10;    <td>2619 S Main St Ste 125</td>&#10;    <td>High Point</td>&#10;    <td>NC</td>&#10;    <td>27263</td>&#10;    <td>336-883-0086</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Connection, The</td>&#10;    <td>6727-B Knightdale Blvd </td>&#10;    <td>Knightdale</td>&#10;    <td>NC</td>&#10;    <td>27545</td>&#10;    <td>919-217-5795</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Nexus, The</td>&#10;    <td>158 E Sylva Shopping Ctr </td>&#10;    <td>Sylva</td>&#10;    <td>NC</td>&#10;    <td>28779</td>&#10;    <td>828-586-8439</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Reimann Books - Richlands</td>&#10;    <td>103 N Wilmington St </td>&#10;    <td>Richlands</td>&#10;    <td>NC</td>&#10;    <td>28574</td>&#10;    <td>910-324-3088</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Tier Zer0 Gaming</td>&#10;    <td>223 W Walnut St Ste A</td>&#10;    <td>Goldsboro</td>&#10;    <td>NC</td>&#10;    <td>27530</td>&#10;    <td>919-330-5620</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Lew's Rod &amp; Reel</td>&#10;    <td>506 E Main St </td>&#10;    <td>Havelock</td>&#10;    <td>NC</td>&#10;    <td>28532</td>&#10;    <td>252-447-8880</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Scott's Collectibles</td>&#10;    <td>934 Cloverleaf Plaza </td>&#10;    <td>Kannapolis</td>&#10;    <td>NC</td>&#10;    <td>28083</td>&#10;    <td>704-784-2277</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hobby Shop, The</td>&#10;    <td>1501 Ward Blvd #254 Wilson Mall </td>&#10;    <td>Wilson</td>&#10;    <td>NC</td>&#10;    <td>27893</td>&#10;    <td>252-291-3384</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>All Things Collectible</td>&#10;    <td>4520 wilkinson blvd </td>&#10;    <td>Gastonia</td>&#10;    <td>NC</td>&#10;    <td>28056</td>&#10;    <td>704-824-0010</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gamer's Haven</td>&#10;    <td>1101 Charles Blvd </td>&#10;    <td>Greenville</td>&#10;    <td>NC</td>&#10;    <td>27858</td>&#10;    <td>252-353-4263</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Timmy Macs</td>&#10;    <td>904 W Union St </td>&#10;    <td>Morganton</td>&#10;    <td>NC</td>&#10;    <td>28655</td>&#10;    <td>828-433-6322</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>A Pennyworth's</td>&#10;    <td>11025 Monroe Rd Ste C</td>&#10;    <td>Matthews</td>&#10;    <td>NC</td>&#10;    <td>28105</td>&#10;    <td>704-849-2287</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Force of Habit</td>&#10;    <td>9 Central Ave E </td>&#10;    <td>Minot</td>&#10;    <td>ND</td>&#10;    <td>58701</td>&#10;    <td>701-837-0032</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Paradox Comics-N-Cards</td>&#10;    <td>26 Roberts St </td>&#10;    <td>Fargo</td>&#10;    <td>ND</td>&#10;    <td>58102-4928</td>&#10;    <td>701-239-9505</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Grand Slam Sports Cards</td>&#10;    <td>13 2nd Ave SE Ste A</td>&#10;    <td>Minot</td>&#10;    <td>ND</td>&#10;    <td>58701</td>&#10;    <td>701-833-5244</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Parallax Computers &amp; Games</td>&#10;    <td>231 W Broadway Ave </td>&#10;    <td>Bismarck</td>&#10;    <td>ND</td>&#10;    <td>58501</td>&#10;    <td>701-323-7842</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Grand Cities Games</td>&#10;    <td>120 N Washington St </td>&#10;    <td>Grand Forks</td>&#10;    <td>ND</td>&#10;    <td>58203</td>&#10;    <td>701-775-8602</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Cards Games &amp; More</td>&#10;    <td>200 W Main St </td>&#10;    <td>Bismarck</td>&#10;    <td>ND</td>&#10;    <td>58501</td>&#10;    <td>701-751-4545</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Krypton Comics</td>&#10;    <td>2819 S 125th Ave STE 261 </td>&#10;    <td>Omaha</td>&#10;    <td>NE</td>&#10;    <td>68144</td>&#10;    <td>402-391-4131</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>HobbyTown USA - Lincoln</td>&#10;    <td>3120 Pinelake Rd Ste N</td>&#10;    <td>Lincoln</td>&#10;    <td>NE</td>&#10;    <td>68516</td>&#10;    <td>402-434-5040</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Time Cards &amp; Collectibles</td>&#10;    <td>1509 Broadway </td>&#10;    <td>Scottsbluff</td>&#10;    <td>NE</td>&#10;    <td>69361</td>&#10;    <td>308-633-4263</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Troll's Den, The</td>&#10;    <td>527 E 25th St Ste 5</td>&#10;    <td>Kearney</td>&#10;    <td>NE</td>&#10;    <td>68847</td>&#10;    <td>308-224-3733</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Ground Zero Hobby</td>&#10;    <td>4601 S. 50th St. Suite 103 </td>&#10;    <td>Omaha</td>&#10;    <td>NE</td>&#10;    <td>68117</td>&#10;    <td>402-733-7212</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>EZGamer</td>&#10;    <td>2002 23rd St </td>&#10;    <td>Columbus</td>&#10;    <td>NE</td>&#10;    <td>68601</td>&#10;    <td>402-570-7061</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Fantasy Gifts</td>&#10;    <td>501 Easy St </td>&#10;    <td>North Platte</td>&#10;    <td>NE</td>&#10;    <td>69101</td>&#10;    <td>308-534-5929</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>C&amp;L Baseball Cards</td>&#10;    <td>320 Court Street </td>&#10;    <td>Beatrice</td>&#10;    <td>NE</td>&#10;    <td>68310</td>&#10;    <td>402-228-2280</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Coliseum Gaming &amp; Collectables</td>&#10;    <td>8434 Park Dr </td>&#10;    <td>Omaha</td>&#10;    <td>NE</td>&#10;    <td>68127-3620</td>&#10;    <td>402-331-3488</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Shoppe, The</td>&#10;    <td>1406 Harlan Dr </td>&#10;    <td>Bellevue</td>&#10;    <td>NE</td>&#10;    <td>68005</td>&#10;    <td>402-292-4263</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game On - Kearney</td>&#10;    <td>5012 3rd Ave Ste 140</td>&#10;    <td>Kearney</td>&#10;    <td>NE</td>&#10;    <td>68845</td>&#10;    <td>308-455-1080</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Legend Comics &amp; Coffee</td>&#10;    <td>5207 Leavenworth St </td>&#10;    <td>Omaha</td>&#10;    <td>NE</td>&#10;    <td>68106</td>&#10;    <td>402-391-2377</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game On - McCook</td>&#10;    <td>220 Westview Plaza </td>&#10;    <td>Mccook</td>&#10;    <td>NE</td>&#10;    <td>69001</td>&#10;    <td>308-345-8888</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Ground Zero Hobby</td>&#10;    <td>794 Fort Crook Rd S </td>&#10;    <td>Bellevue</td>&#10;    <td>NE</td>&#10;    <td>68005-2964</td>&#10;    <td>402-292-3750</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Treasure Aisle</td>&#10;    <td>2250 N Webb Rd Ste F7</td>&#10;    <td>Grand Island</td>&#10;    <td>NE</td>&#10;    <td>68803</td>&#10;    <td>308-675-1500</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Elite Card Shop</td>&#10;    <td>7586 S 84th St </td>&#10;    <td>LaVista</td>&#10;    <td>NE</td>&#10;    <td>68128</td>&#10;    <td>402-502-7464</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Orcs for Hire</td>&#10;    <td>4855 S 137th St </td>&#10;    <td>Omaha</td>&#10;    <td>NE</td>&#10;    <td>68137</td>&#10;    <td>402-998-5100</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Double Midnight Comics</td>&#10;    <td>245 Maple St Unit 11</td>&#10;    <td>Manchester</td>&#10;    <td>NH</td>&#10;    <td>3103</td>&#10;    <td>603-669-9636</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Myriad Games - Salem</td>&#10;    <td>8 Stiles Rd </td>&#10;    <td>Salem</td>&#10;    <td>NH</td>&#10;    <td>3079</td>&#10;    <td>603-681-0355</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Myriad Games - Manchester</td>&#10;    <td>1525 S Willow St Unit 4</td>&#10;    <td>Manchester</td>&#10;    <td>NH</td>&#10;    <td>3103</td>&#10;    <td>603-623-4263</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Triple Play</td>&#10;    <td>1 Glen Rd. Unit #3 </td>&#10;    <td>West Lebanon</td>&#10;    <td>NH</td>&#10;    <td>3784</td>&#10;    <td>603-298-3364</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Castle, The</td>&#10;    <td>123 Nashua Rd #5 </td>&#10;    <td>Londonderry</td>&#10;    <td>NH</td>&#10;    <td>3053</td>&#10;    <td>603-425-7400</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Harrison's Comics &amp; Collectibles - Manchester</td>&#10;    <td>1500 S Willow St </td>&#10;    <td>Manchester</td>&#10;    <td>NH</td>&#10;    <td>3103</td>&#10;    <td>603-626-3003</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Raging Goblin Games</td>&#10;    <td>54 Pleasant St. </td>&#10;    <td>Berlin</td>&#10;    <td>NH</td>&#10;    <td>3570</td>&#10;    <td>603-752-1438</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Charlie's Comics Cards &amp; Games</td>&#10;    <td>1675 White Mountain Hwy </td>&#10;    <td>North Conway</td>&#10;    <td>NH</td>&#10;    <td>3860</td>&#10;    <td>603-356-7020</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Collectibles Unlimited</td>&#10;    <td>25 South St </td>&#10;    <td>Concord</td>&#10;    <td>NH</td>&#10;    <td>3301</td>&#10;    <td>603-228-3712</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Harrison's Comics &amp; Collectibles - Nashua</td>&#10;    <td>293 Daniel Webster Hwy </td>&#10;    <td>Nashua</td>&#10;    <td>NH</td>&#10;    <td>3060</td>&#10;    <td>603-626-3003</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Toys From The Attic</td>&#10;    <td>2 Somersworth Plaza </td>&#10;    <td>Somersworth</td>&#10;    <td>NH</td>&#10;    <td>3878</td>&#10;    <td>603-692-4562</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Jetpack Comics</td>&#10;    <td>37 North Main St </td>&#10;    <td>Rochester</td>&#10;    <td>NH</td>&#10;    <td>3867</td>&#10;    <td>603-330-9636</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comic Boom</td>&#10;    <td>22 West St </td>&#10;    <td>Keene</td>&#10;    <td>NH</td>&#10;    <td>3431</td>&#10;    <td>603-352-4261</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Relentless Dragon, The</td>&#10;    <td>493 Amherst St </td>&#10;    <td>Nashua</td>&#10;    <td>NH</td>&#10;    <td>3063</td>&#10;    <td>603-204-5275</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Updog Comics</td>&#10;    <td>160 Plaistow Rd </td>&#10;    <td>Plaistow</td>&#10;    <td>NH</td>&#10;    <td>3865</td>&#10;    <td>603-974-2425</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comics Plus</td>&#10;    <td>3 Church St </td>&#10;    <td>Goffstown</td>&#10;    <td>NH</td>&#10;    <td>3045</td>&#10;    <td>603-384-1646</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Shield Comics</td>&#10;    <td>1 High St </td>&#10;    <td>Meredith</td>&#10;    <td>NH</td>&#10;    <td>3253</td>&#10;    <td>603-707-6067</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Chris's Comics &amp; Cards</td>&#10;    <td>919 Lafayette Rd </td>&#10;    <td>Seabrook</td>&#10;    <td>NH</td>&#10;    <td>03874-4276</td>&#10;    <td>603-474-2283</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comic Store</td>&#10;    <td>115 Northeastern Blvd </td>&#10;    <td>Nashua</td>&#10;    <td>NH</td>&#10;    <td>3062</td>&#10;    <td>603-881-4855</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Shadowgear Comics</td>&#10;    <td>148 Front St </td>&#10;    <td>Exeter</td>&#10;    <td>NH</td>&#10;    <td>3833</td>&#10;    <td>603-608-8135</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Manifest Comics &amp; Cards</td>&#10;    <td>762 Broadway </td>&#10;    <td>Bayonne</td>&#10;    <td>NJ</td>&#10;    <td>7002</td>&#10;    <td>201-535-5330</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Time Warp Comics &amp; Games</td>&#10;    <td>555A Pompton Ave </td>&#10;    <td>Cedar Grove</td>&#10;    <td>NJ</td>&#10;    <td>7009</td>&#10;    <td>973-857-9788</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Only Game in Town, The</td>&#10;    <td>211 W Main St </td>&#10;    <td>Somerville</td>&#10;    <td>NJ</td>&#10;    <td>8876</td>&#10;    <td>908-725-7077</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Close Encounters Comics</td>&#10;    <td>1861 Hooper Ave </td>&#10;    <td>Toms River</td>&#10;    <td>NJ</td>&#10;    <td>8753</td>&#10;    <td>732-503-4672</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comic Lair</td>&#10;    <td>1606 S Broad St </td>&#10;    <td>Trenton</td>&#10;    <td>NJ</td>&#10;    <td>08610-6036</td>&#10;    <td>609-695-8855</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>New World Manga</td>&#10;    <td>93 E Mount Pleasant Ave </td>&#10;    <td>Livingston</td>&#10;    <td>NJ</td>&#10;    <td>07039-3005</td>&#10;    <td>973-597-0625</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Aunt Lee's Auction House</td>&#10;    <td>224 Stockton St Ste 5</td>&#10;    <td>Phillipsburg</td>&#10;    <td>NJ</td>&#10;    <td>8865</td>&#10;    <td>870-208-5233</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Amazing Heroes</td>&#10;    <td>966 Stuyvesant Ave </td>&#10;    <td>Union</td>&#10;    <td>NJ</td>&#10;    <td>7083</td>&#10;    <td>908-687-4338</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hobby Shop, The</td>&#10;    <td>1077C Highway 34 </td>&#10;    <td>Aberdeen</td>&#10;    <td>NJ</td>&#10;    <td>7747</td>&#10;    <td>732-583-0505</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gamer's Edge</td>&#10;    <td>498 Kearny Ave </td>&#10;    <td>Kearny</td>&#10;    <td>NJ</td>&#10;    <td>7032</td>&#10;    <td>201-955-0100</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hobbymasters</td>&#10;    <td>62 White St </td>&#10;    <td>Red Bank</td>&#10;    <td>NJ</td>&#10;    <td>7701</td>&#10;    <td>732-842-6020</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Mighty Titans Hobbies &amp; Games</td>&#10;    <td>125 Landing Rd </td>&#10;    <td>Landing</td>&#10;    <td>NJ</td>&#10;    <td>7850</td>&#10;    <td>973-398-9600</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>HobbyTown USA - Newton</td>&#10;    <td>17 Hampton House Rd Ste 5</td>&#10;    <td>Newton</td>&#10;    <td>NJ</td>&#10;    <td>7860</td>&#10;    <td>973-300-9799</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Adventureland Store</td>&#10;    <td>2120 Voorhees Town Center </td>&#10;    <td>Voorhees</td>&#10;    <td>NJ</td>&#10;    <td>8043</td>&#10;    <td>856-772-5900</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gamer's Gambit, The</td>&#10;    <td>446 Market St </td>&#10;    <td>Saddle Brook</td>&#10;    <td>NJ</td>&#10;    <td>7663</td>&#10;    <td>201-796-7377</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Top Deck Games</td>&#10;    <td>55 Haddon Ave </td>&#10;    <td>Westmont</td>&#10;    <td>NJ</td>&#10;    <td>8108</td>&#10;    <td>856-858-2700</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comic Book Store, The</td>&#10;    <td>30 N Main St </td>&#10;    <td>Glassboro</td>&#10;    <td>NJ</td>&#10;    <td>8028</td>&#10;    <td>856-442-0402</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Jiffy Photo &amp; Baseball Cards</td>&#10;    <td>1753 Rt. 88 </td>&#10;    <td>Brick</td>&#10;    <td>NJ</td>&#10;    <td>8724</td>&#10;    <td>732-836-0547</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Ron's Comic World</td>&#10;    <td>1690 Rte 38 </td>&#10;    <td>Mount Holly</td>&#10;    <td>NJ</td>&#10;    <td>8060</td>&#10;    <td>609-267-6999</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>All Things Fun</td>&#10;    <td>185 C Route 73 N </td>&#10;    <td>West Berlin</td>&#10;    <td>NJ</td>&#10;    <td>8091</td>&#10;    <td>856-719-1414</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Little Shop Of Comics, A</td>&#10;    <td>393 Park Ave </td>&#10;    <td>Scotch Plains</td>&#10;    <td>NJ</td>&#10;    <td>7076</td>&#10;    <td>908-322-9402</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Jester's Playhouse</td>&#10;    <td>545 Tilton Rd </td>&#10;    <td>Northfield</td>&#10;    <td>NJ</td>&#10;    <td>8225</td>&#10;    <td>609-677-9088</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gamer's Realm, The</td>&#10;    <td>1750 Whitehorse Mercerville Rd </td>&#10;    <td>Hamilton</td>&#10;    <td>NJ</td>&#10;    <td>8619</td>&#10;    <td>609-584-6979</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Timezone Gaming</td>&#10;    <td>430 New Brunswick Ave </td>&#10;    <td>Fords</td>&#10;    <td>NJ</td>&#10;    <td>8863</td>&#10;    <td>732-738-5111</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comic Fusion</td>&#10;    <td>16 Turntable Jct </td>&#10;    <td>Flemington</td>&#10;    <td>NJ</td>&#10;    <td>8822</td>&#10;    <td>908-788-0599</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>All the King's Men Chess &amp; Games</td>&#10;    <td>62 S Broadway </td>&#10;    <td>Pitman</td>&#10;    <td>NJ</td>&#10;    <td>8071</td>&#10;    <td>856-582-8222</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Fantasy Games</td>&#10;    <td>107 Miller Rd </td>&#10;    <td>Mahwah</td>&#10;    <td>NJ</td>&#10;    <td>7430</td>&#10;    <td>201-252-8421</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Family Fun Hobbies</td>&#10;    <td>731 Hwy 33 </td>&#10;    <td>Hamilton</td>&#10;    <td>NJ</td>&#10;    <td>8619</td>&#10;    <td>609-838-2049</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Fallout Shelter: Comics Games &amp; Collectibles, The</td>&#10;    <td>320 Raritan Ave </td>&#10;    <td>Highland Park</td>&#10;    <td>NJ</td>&#10;    <td>8904</td>&#10;    <td>732-354-4520</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Aetherstorm Gaming</td>&#10;    <td>3860 Bayshore Rd </td>&#10;    <td>North Cape May</td>&#10;    <td>NJ</td>&#10;    <td>8204</td>&#10;    <td>609-770-8326</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comics N Toys</td>&#10;    <td>26 River Edge Rd. </td>&#10;    <td>River Edge</td>&#10;    <td>NJ</td>&#10;    <td>7661</td>&#10;    <td>201-483-8905</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game On</td>&#10;    <td>120 Market St </td>&#10;    <td>Clifton</td>&#10;    <td>NJ</td>&#10;    <td>7012</td>&#10;    <td>973-777-3675</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Trotta's Hobbies &amp; Collectibles</td>&#10;    <td>325 S Main St </td>&#10;    <td>Barnegat</td>&#10;    <td>NJ</td>&#10;    <td>08005-2350</td>&#10;    <td>609-698-1334</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Maplewood Hobby</td>&#10;    <td>1970 Springfield Ave </td>&#10;    <td>Maplewood</td>&#10;    <td>NJ</td>&#10;    <td>7040</td>&#10;    <td>973-378-3839</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>GetSome Longboards</td>&#10;    <td>5-20 Hartley Pl </td>&#10;    <td>Fair Lawn</td>&#10;    <td>NJ</td>&#10;    <td>7410</td>&#10;    <td>201-503-4327</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dewey's Comic City</td>&#10;    <td>13 Park Ave. </td>&#10;    <td>Madison</td>&#10;    <td>NJ</td>&#10;    <td>7940</td>&#10;    <td>973-593-0042</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comic Crypt, The</td>&#10;    <td>55 White Rd Ste A</td>&#10;    <td>Shrewsbury</td>&#10;    <td>NJ</td>&#10;    <td>7702</td>&#10;    <td>732-747-8686</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Tabletops Collectables</td>&#10;    <td>306 N Main Ave </td>&#10;    <td>Aztec</td>&#10;    <td>NM</td>&#10;    <td>87410</td>&#10;    <td>505-609-1078</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Zia Comics</td>&#10;    <td>1300 El Paseo Rd Ste E1</td>&#10;    <td>Las Cruces</td>&#10;    <td>NM</td>&#10;    <td>88001</td>&#10;    <td>575-405-0461</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Popolo's Games</td>&#10;    <td>729 Paseo Del Pueblo Sur Suite E</td>&#10;    <td>Taos</td>&#10;    <td>NM</td>&#10;    <td>87571</td>&#10;    <td>575-770-6197</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Kaboom Test Labs</td>&#10;    <td>10250 Cottonwood Park NW Ste E</td>&#10;    <td>Albuquerque</td>&#10;    <td>NM</td>&#10;    <td>87114</td>&#10;    <td>505-792-1786</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>That Game Store</td>&#10;    <td>111 W Broadway </td>&#10;    <td>Hobbs</td>&#10;    <td>NM</td>&#10;    <td>88240</td>&#10;    <td>575-393-6469</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Big Adventure Comics</td>&#10;    <td>801 Cerrillos Rd Ste B</td>&#10;    <td>Santa Fe</td>&#10;    <td>NM</td>&#10;    <td>87505</td>&#10;    <td>505-992-8783</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Sports Angle</td>&#10;    <td>522 N Main St </td>&#10;    <td>Clovis</td>&#10;    <td>NM</td>&#10;    <td>88101</td>&#10;    <td>575-762-8441</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Active Imagination Family &amp; Arena</td>&#10;    <td>11200 Montgomery Ne Ste #7 </td>&#10;    <td>Albuquerque</td>&#10;    <td>NM</td>&#10;    <td>87111</td>&#10;    <td>505-299-2019</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Twin Suns Comics &amp; Games</td>&#10;    <td>6301 Riverside Plz NW Ste L-1</td>&#10;    <td>Albuquerque</td>&#10;    <td>NM</td>&#10;    <td>87120</td>&#10;    <td>505-433-9490</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>True Games Hobby Shop</td>&#10;    <td>513 N Main St </td>&#10;    <td>Clovis</td>&#10;    <td>NM</td>&#10;    <td>88101</td>&#10;    <td>575-218-3844</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Realm of Possibilities</td>&#10;    <td>1700 St Michaels Dr Ste 118</td>&#10;    <td>Santa Fe</td>&#10;    <td>NM</td>&#10;    <td>87505</td>&#10;    <td>505-473-0544</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Playerz Zone</td>&#10;    <td>2117 Suddreth Dr #15 </td>&#10;    <td>Ruidoso</td>&#10;    <td>NM</td>&#10;    <td>88345</td>&#10;    <td>575-257-0559</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Avatar Comics &amp; Games</td>&#10;    <td>881 S Rainbow Blvd </td>&#10;    <td>Las Vegas</td>&#10;    <td>NV</td>&#10;    <td>89145</td>&#10;    <td>702-795-8700</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Maximum Comics</td>&#10;    <td>520 S Marks St Ste 130</td>&#10;    <td>Henderson</td>&#10;    <td>NV</td>&#10;    <td>89014</td>&#10;    <td>702-242-6642</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Games Galore &amp; Casino Emporium</td>&#10;    <td>5460 Meadowood Mall Circle </td>&#10;    <td>Reno</td>&#10;    <td>NV</td>&#10;    <td>89502</td>&#10;    <td>775-826-7788</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Battlezone Comics</td>&#10;    <td>7910 Tropical Pkwy Ste 120</td>&#10;    <td>Las Vegas</td>&#10;    <td>NV</td>&#10;    <td>89149</td>&#10;    <td>702-645-7249</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>DK's Sierra Mountain Comics</td>&#10;    <td>1801 US Hwy 50 E Ste J</td>&#10;    <td>Carson City</td>&#10;    <td>NV</td>&#10;    <td>89701</td>&#10;    <td>775-841-4263</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Merwins Game Shoppe</td>&#10;    <td>4104 Kietzke ln </td>&#10;    <td>Reno</td>&#10;    <td>NV</td>&#10;    <td>89502</td>&#10;    <td>775-826-0288</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Cheese Boy Comics</td>&#10;    <td>8060 S Rainbow Blvd Ste 125</td>&#10;    <td>Las Vegas</td>&#10;    <td>NV</td>&#10;    <td>89139</td>&#10;    <td>702-938-5020</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comic Oasis</td>&#10;    <td>3121 N Rainbow Blvd </td>&#10;    <td>Las Vegas</td>&#10;    <td>NV</td>&#10;    <td>89108</td>&#10;    <td>702-212-8885</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>OTK Gaming, Anime &amp; Sports Cards</td>&#10;    <td>1419 N Boulder Hwy Ste D</td>&#10;    <td>Henderson</td>&#10;    <td>NV</td>&#10;    <td>89011</td>&#10;    <td>702-561-9585</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gameworld</td>&#10;    <td>5620 W Charleston Blvd Ste A</td>&#10;    <td>Las Vegas</td>&#10;    <td>NV</td>&#10;    <td>89146</td>&#10;    <td>702-307-1440</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Action Comics &amp; Games</td>&#10;    <td>210 N Boulder Hwy Ste 110</td>&#10;    <td>Henderson</td>&#10;    <td>NV</td>&#10;    <td>89015</td>&#10;    <td>702-387-5566</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Little Shop of Magic</td>&#10;    <td>4160 S Durango Dr Ste 120</td>&#10;    <td>Las Vegas</td>&#10;    <td>NV</td>&#10;    <td>89147</td>&#10;    <td>702-307-6127</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Wii Play Games</td>&#10;    <td>3310 S Nellis Blvd Ste 10</td>&#10;    <td>Las Vegas</td>&#10;    <td>NV</td>&#10;    <td>89121</td>&#10;    <td>702-485-6100</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comic Kingdom</td>&#10;    <td>595 E Moana Ln </td>&#10;    <td>Reno</td>&#10;    <td>NV</td>&#10;    <td>89502</td>&#10;    <td>775-827-2928</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Enchanted Badger, The</td>&#10;    <td>335 Elmira Rd Ste 3A</td>&#10;    <td>Ithaca</td>&#10;    <td>NY</td>&#10;    <td>14850</td>&#10;    <td>607-319-0139</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Players Nook, The</td>&#10;    <td>468 E Main St Ste A</td>&#10;    <td>Malone</td>&#10;    <td>NY</td>&#10;    <td>12953</td>&#10;    <td>518-521-3695</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>BeyondNerd</td>&#10;    <td>146 Arsenal St Ste 3</td>&#10;    <td>Watertown</td>&#10;    <td>NY</td>&#10;    <td>13601</td>&#10;    <td>315-681-6982</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Stomping Grounds</td>&#10;    <td>181 Seneca St Ste 3</td>&#10;    <td>Hornell</td>&#10;    <td>NY</td>&#10;    <td>14843</td>&#10;    <td>607-382-9083</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dragon's Den Comics &amp; Cards</td>&#10;    <td>2600 South Rd Poughkeepsie Plaza Mall</td>&#10;    <td>Poughkeepsie</td>&#10;    <td>NY</td>&#10;    <td>12601</td>&#10;    <td>845-471-1401</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Jupiter Games</td>&#10;    <td>3701 Vestal Pkwy E Ste 7</td>&#10;    <td>Vestal</td>&#10;    <td>NY</td>&#10;    <td>13850</td>&#10;    <td>607-729-5910</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Zombie Planet</td>&#10;    <td>1238 Central Ave </td>&#10;    <td>Albany</td>&#10;    <td>NY</td>&#10;    <td>12205</td>&#10;    <td>518-438-7202</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comic Depot</td>&#10;    <td>3065 Route 50 Ste D12</td>&#10;    <td>Saratoga Springs</td>&#10;    <td>NY</td>&#10;    <td>12866</td>&#10;    <td>518-581-2363</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Odyssey Game &amp; Tournament Center</td>&#10;    <td>210 Marble Ave </td>&#10;    <td>Pleasantville</td>&#10;    <td>NY</td>&#10;    <td>10570</td>&#10;    <td>914-495-3297</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Empire Gaming &amp; Comics</td>&#10;    <td>337 Main St </td>&#10;    <td>Farmingdale</td>&#10;    <td>NY</td>&#10;    <td>11735</td>&#10;    <td>516-845-4500</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Stand, The</td>&#10;    <td>1410 Gravesend Neck Rd </td>&#10;    <td>Brooklyn</td>&#10;    <td>NY</td>&#10;    <td>11229</td>&#10;    <td>718-646-9281</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comic Shop, The</td>&#10;    <td>112 E Bridge St </td>&#10;    <td>Oswego</td>&#10;    <td>NY</td>&#10;    <td>13126</td>&#10;    <td>315-343-8435</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>3rd Universe Comic Emporium</td>&#10;    <td>35 N Riverside Ave </td>&#10;    <td>Croton On Hudson</td>&#10;    <td>NY</td>&#10;    <td>10520</td>&#10;    <td>914-827-3600</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dave &amp; Adam's Card World - Williamsville</td>&#10;    <td>4235 Transit Rd </td>&#10;    <td>Williamsville</td>&#10;    <td>NY</td>&#10;    <td>14221</td>&#10;    <td>716-857-0752</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dirty Goblin Games</td>&#10;    <td>4 Southwestern Ave Ste D</td>&#10;    <td>Queensbury</td>&#10;    <td>NY</td>&#10;    <td>12804</td>&#10;    <td>518-636-3076</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dark Forest Games</td>&#10;    <td>196 Oliver st </td>&#10;    <td>North Tonawanda</td>&#10;    <td>NY</td>&#10;    <td>14120</td>&#10;    <td>716-243-2849</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>MAGE Gaming</td>&#10;    <td>112 East 31 st </td>&#10;    <td>New York</td>&#10;    <td>NY</td>&#10;    <td>10016</td>&#10;    <td>646-535-8066</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Two Kings Gaming</td>&#10;    <td>3571 Walden Ave </td>&#10;    <td>Lancaster</td>&#10;    <td>NY</td>&#10;    <td>14086</td>&#10;    <td>716-681-5545</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Bearded Dragon</td>&#10;    <td>19 Ford Ave Ste C</td>&#10;    <td>Oneonta</td>&#10;    <td>NY</td>&#10;    <td>13820</td>&#10;    <td>607-432-5722</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Nebulous Gaming NYC</td>&#10;    <td>6A Elizabeth St </td>&#10;    <td>New York</td>&#10;    <td>NY</td>&#10;    <td>10013</td>&#10;    <td>212-608-7963</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Cooper's Cave Games &amp; Paintball</td>&#10;    <td>1607 Route 9 </td>&#10;    <td>Fort Edward</td>&#10;    <td>NY</td>&#10;    <td>12828</td>&#10;    <td>518-745-4263</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Pair-A-Dice Games</td>&#10;    <td>274 N Goodman St </td>&#10;    <td>Rochester</td>&#10;    <td>NY</td>&#10;    <td>14607</td>&#10;    <td>585-442-8506</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Killino's Cards &amp; Coin</td>&#10;    <td>8376 Seneca Tpke </td>&#10;    <td>New Hartford</td>&#10;    <td>NY</td>&#10;    <td>13413-4956</td>&#10;    <td>315-724-6000</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Royal Collectibles</td>&#10;    <td>96-01 Metropolitan Ave </td>&#10;    <td>Forest Hills</td>&#10;    <td>NY</td>&#10;    <td>11375-6624</td>&#10;    <td>718-793-0542</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Lilachouse</td>&#10;    <td>4469 E Genesee St </td>&#10;    <td>Syracuse</td>&#10;    <td>NY</td>&#10;    <td>13214</td>&#10;    <td>315-446-4461</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Chautauqua Comics</td>&#10;    <td>214 Fairmont Ave </td>&#10;    <td>Jamestown</td>&#10;    <td>NY</td>&#10;    <td>14701</td>&#10;    <td>716-664-2287</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>10th Planet</td>&#10;    <td>2776 Main St </td>&#10;    <td>Newfane</td>&#10;    <td>NY</td>&#10;    <td>14108</td>&#10;    <td>716-778-7789</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Grand Slam</td>&#10;    <td>212 W State St </td>&#10;    <td>Olean</td>&#10;    <td>NY</td>&#10;    <td>14760</td>&#10;    <td>716-373-6343</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>HobbyTown USA - Nanuet</td>&#10;    <td>57 Rockland Center </td>&#10;    <td>Nanuet</td>&#10;    <td>NY</td>&#10;    <td>10954</td>&#10;    <td>845-623-3261</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comic Book Jones</td>&#10;    <td>2220 Forest Ave </td>&#10;    <td>Staten Island</td>&#10;    <td>NY</td>&#10;    <td>10303</td>&#10;    <td>718-448-1234</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Clockwork Comics &amp; Games</td>&#10;    <td>212 S Main St </td>&#10;    <td>Newark</td>&#10;    <td>NY</td>&#10;    <td>14513</td>&#10;    <td>315-690-1087</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Collector's Friend, the</td>&#10;    <td>470 N Greenbush Rd </td>&#10;    <td>Rensselaer</td>&#10;    <td>NY</td>&#10;    <td>12144</td>&#10;    <td>518-238-3818</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Goblin's Cavern, The</td>&#10;    <td>611 2nd Ave </td>&#10;    <td>Troy</td>&#10;    <td>NY</td>&#10;    <td>12182</td>&#10;    <td>518-874-4574</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Infinite Lives</td>&#10;    <td>1305 State St </td>&#10;    <td>Watertown</td>&#10;    <td>NY</td>&#10;    <td>13601</td>&#10;    <td>315-782-7529</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Legacy Gaming Company</td>&#10;    <td>25 Main St </td>&#10;    <td>Camillus</td>&#10;    <td>NY</td>&#10;    <td>13031</td>&#10;    <td>315-715-1480</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Let's Play</td>&#10;    <td>445 Waverly Street </td>&#10;    <td>Waverly</td>&#10;    <td>NY</td>&#10;    <td>14892</td>&#10;    <td>607-948-4891</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Phoenix Gaming</td>&#10;    <td>9 Anthony St. </td>&#10;    <td>Hillsdale</td>&#10;    <td>NY</td>&#10;    <td>12529</td>&#10;    <td>518-821-0451</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>BattleGrounds</td>&#10;    <td>199A Mastic Beach Rd </td>&#10;    <td>Mastic Beach</td>&#10;    <td>NY</td>&#10;    <td>11951</td>&#10;    <td>631-772-6786</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Bulletproof Comics &amp; Games</td>&#10;    <td>2178 Nostrand Ave </td>&#10;    <td>Brooklyn</td>&#10;    <td>NY</td>&#10;    <td>11210</td>&#10;    <td>718-434-1800</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Smitty's Cards &amp; Coins</td>&#10;    <td>80 South Main St </td>&#10;    <td>Canandaigua</td>&#10;    <td>NY</td>&#10;    <td>14424</td>&#10;    <td>585-394-3650</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Forgotten Freshness Classic Gaming</td>&#10;    <td>377 Hudson Ave </td>&#10;    <td>Mechanicville</td>&#10;    <td>NY</td>&#10;    <td>12118</td>&#10;    <td>518-664-1003</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Mahopac Cards &amp; Comics</td>&#10;    <td>50 Miller Rd </td>&#10;    <td>Mahopac</td>&#10;    <td>NY</td>&#10;    <td>10541</td>&#10;    <td>877-624-6722</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>BP Sports Cards &amp; Memorabilia, Inc</td>&#10;    <td>38 N Main St </td>&#10;    <td>Florida</td>&#10;    <td>NY</td>&#10;    <td>10921</td>&#10;    <td>845-651-1660</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>October Country Comics, The</td>&#10;    <td>246 Main St Ste 5</td>&#10;    <td>New Paltz</td>&#10;    <td>NY</td>&#10;    <td>12561</td>&#10;    <td>845-255-1115</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Jim's Sports</td>&#10;    <td>60 Smithfield Blvd </td>&#10;    <td>Plattsburgh</td>&#10;    <td>NY</td>&#10;    <td>12901</td>&#10;    <td>518-572-5467</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Jim Hanley's Universe - New York</td>&#10;    <td>4 W 33rd St </td>&#10;    <td>New York</td>&#10;    <td>NY</td>&#10;    <td>10001</td>&#10;    <td>212-268-7088</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Jim Hanley's Universe - Staten Island</td>&#10;    <td>299 B New Dorp Ln </td>&#10;    <td>Staten Island</td>&#10;    <td>NY</td>&#10;    <td>10306</td>&#10;    <td>718-351-6299</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Millennium Games &amp; Hobbies</td>&#10;    <td>3047 West Henrietta Rd. </td>&#10;    <td>Rochester</td>&#10;    <td>NY</td>&#10;    <td>14623</td>&#10;    <td>585-427-2190</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Play the Game Read the Story</td>&#10;    <td>689 N Clinton St </td>&#10;    <td>Syracuse</td>&#10;    <td>NY</td>&#10;    <td>13204</td>&#10;    <td>315-472-4263</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Twenty Sided Store</td>&#10;    <td>362 Grand St </td>&#10;    <td>Brooklyn</td>&#10;    <td>NY</td>&#10;    <td>11211</td>&#10;    <td>718-963-1578</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Brothers Grim Games &amp; Collectibles</td>&#10;    <td>1244 Middle Country Rd. </td>&#10;    <td>Selden</td>&#10;    <td>NY</td>&#10;    <td>11784</td>&#10;    <td>631-698-2805</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gamer Craze</td>&#10;    <td>47 Main St </td>&#10;    <td>Canton</td>&#10;    <td>NY</td>&#10;    <td>13617</td>&#10;    <td>315-386-8616</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Undiscovered Realm</td>&#10;    <td>44 N Central Park Ave </td>&#10;    <td>Hartsdale</td>&#10;    <td>NY</td>&#10;    <td>10530</td>&#10;    <td>914-437-8278</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Aquilonia Comics, Cards &amp; More</td>&#10;    <td>412 Fulton St </td>&#10;    <td>Troy</td>&#10;    <td>NY</td>&#10;    <td>12180</td>&#10;    <td>518-271-1069</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Toy Wiz</td>&#10;    <td>347 West Route 59 </td>&#10;    <td>Nanuet</td>&#10;    <td>NY</td>&#10;    <td>10954</td>&#10;    <td>845-624-2224</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Kings Games</td>&#10;    <td>1685 East 15th St </td>&#10;    <td>Brooklyn</td>&#10;    <td>NY</td>&#10;    <td>11229</td>&#10;    <td>718-336-1955</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Mark's Comics &amp; Collectibles</td>&#10;    <td>291 N Central Ave </td>&#10;    <td>Valley Stream</td>&#10;    <td>NY</td>&#10;    <td>11580</td>&#10;    <td>516-872-5919</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Flights Of Fantasy</td>&#10;    <td>381 Sand Creek Rd </td>&#10;    <td>Albany</td>&#10;    <td>NY</td>&#10;    <td>12205</td>&#10;    <td>518-435-9337</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Get There Games, Inc</td>&#10;    <td>1759 Victory Blvd </td>&#10;    <td>Staten Island</td>&#10;    <td>NY</td>&#10;    <td>10314</td>&#10;    <td>718-816-4100</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Kirwan's Game Store</td>&#10;    <td>369 Main St </td>&#10;    <td>Catskill</td>&#10;    <td>NY</td>&#10;    <td>12414</td>&#10;    <td>518-719-0091</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Montasy Comics - Midtown Chapter</td>&#10;    <td>431 5th Ave Fl 2</td>&#10;    <td>New York</td>&#10;    <td>NY</td>&#10;    <td>10016</td>&#10;    <td>212-683-2018</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comic Book Depot</td>&#10;    <td>2847 Jerusalem Ave </td>&#10;    <td>Wantagh</td>&#10;    <td>NY</td>&#10;    <td>11793</td>&#10;    <td>516-221-9337</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Arena, The</td>&#10;    <td>983 Little East Neck Rd </td>&#10;    <td>West Babylon</td>&#10;    <td>NY</td>&#10;    <td>11704</td>&#10;    <td>631-539-6395</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Duel Zone Collectibles</td>&#10;    <td>37-11 Main St Ste B12</td>&#10;    <td>Flushing</td>&#10;    <td>NY</td>&#10;    <td>11354</td>&#10;    <td>718-358-8333</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Foam Brain Games</td>&#10;    <td>39 2nd St </td>&#10;    <td>Troy</td>&#10;    <td>NY</td>&#10;    <td>12180</td>&#10;    <td>877-765-5320</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Mythic Games</td>&#10;    <td>2024 Lake Rd Ste A</td>&#10;    <td>Elmira</td>&#10;    <td>NY</td>&#10;    <td>14903</td>&#10;    <td>607-873-7318</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dragon Snack Games</td>&#10;    <td>42 Main Street </td>&#10;    <td>Mount Morris</td>&#10;    <td>NY</td>&#10;    <td>14510</td>&#10;    <td>585-230-1731</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Master Games</td>&#10;    <td>954 S Broadway </td>&#10;    <td>Hicksville</td>&#10;    <td>NY</td>&#10;    <td>11801</td>&#10;    <td>516-597-5555</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Crimson Imp Games</td>&#10;    <td>78 Fall St </td>&#10;    <td>Seneca Falls</td>&#10;    <td>NY</td>&#10;    <td>13148</td>&#10;    <td>315-568-0078</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Grimfoe Games</td>&#10;    <td>598 Columbia Turnpike </td>&#10;    <td>East Greenbush</td>&#10;    <td>NY</td>&#10;    <td>12061</td>&#10;    <td>518-479-4746</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Collector's Inn</td>&#10;    <td>2931 Delaware Ave </td>&#10;    <td>Buffalo</td>&#10;    <td>NY</td>&#10;    <td>14217</td>&#10;    <td>716-873-8633</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Montasy Comics</td>&#10;    <td>70-17C Austin St 2nd Floor</td>&#10;    <td>Forest Hills</td>&#10;    <td>NY</td>&#10;    <td>11375</td>&#10;    <td>718-575-8815</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Storytellers</td>&#10;    <td>214 Oriskany Blvd Ste 214</td>&#10;    <td>Whitesboro</td>&#10;    <td>NY</td>&#10;    <td>13492</td>&#10;    <td>315-601-1998</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Cloud City Comics &amp; Toys</td>&#10;    <td>3649 Erie Blvd E Shoppingtown Mall</td>&#10;    <td>Syracuse</td>&#10;    <td>NY</td>&#10;    <td>13214</td>&#10;    <td>315-449-0003</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Boldo's Armory</td>&#10;    <td>891 Monroe Ave </td>&#10;    <td>Rochester</td>&#10;    <td>NY</td>&#10;    <td>14620</td>&#10;    <td>585-271-3880</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Sanctuary Comics</td>&#10;    <td>750 Bradley St. </td>&#10;    <td>Watertown</td>&#10;    <td>NY</td>&#10;    <td>13601</td>&#10;    <td>315-779-9636</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Vast Abyss, The</td>&#10;    <td>1177 Rte 9 </td>&#10;    <td>Wappingers Falls</td>&#10;    <td>NY</td>&#10;    <td>12590</td>&#10;    <td>845-632-6331</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Imperial Games</td>&#10;    <td>213 S Main St </td>&#10;    <td>Herkimer</td>&#10;    <td>NY</td>&#10;    <td>13350</td>&#10;    <td>315-823-0914</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Professor Bond's Emporium</td>&#10;    <td>37 Prospect St </td>&#10;    <td>Amsterdam</td>&#10;    <td>NY</td>&#10;    <td>12010</td>&#10;    <td>518-810-5727</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>MoneyG Cards &amp; Collectibles</td>&#10;    <td>150 Bloomingburg Rd </td>&#10;    <td>Middletown</td>&#10;    <td>NY</td>&#10;    <td>10940</td>&#10;    <td>845-733-1824</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Mind Games - Oneida</td>&#10;    <td>114 Madison St </td>&#10;    <td>Oneida</td>&#10;    <td>NY</td>&#10;    <td>13421-1636</td>&#10;    <td>315-363-2448</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Highland Hobby</td>&#10;    <td>6853 Erie Rd </td>&#10;    <td>Derby</td>&#10;    <td>NY</td>&#10;    <td>14047</td>&#10;    <td>716-947-9130</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Champion Card Collector</td>&#10;    <td>43 Vassar Road Red Oaks Mill Plaza </td>&#10;    <td>Poughkeepsie</td>&#10;    <td>NY</td>&#10;    <td>12603</td>&#10;    <td>845-462-9292</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Alterniverse</td>&#10;    <td>2510 Route 44 Ste 7</td>&#10;    <td>Salt Point</td>&#10;    <td>NY</td>&#10;    <td>12578</td>&#10;    <td>845-677-1004</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Clarkson's Corner</td>&#10;    <td>4 Grayrock Rd </td>&#10;    <td>Scarsdale</td>&#10;    <td>NY</td>&#10;    <td>10583</td>&#10;    <td>914-409-2245</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;    <td>1 Crossgates Mall Rd </td>&#10;    <td>Albany</td>&#10;    <td>NY</td>&#10;    <td>12203</td>&#10;    <td>518-869-4403</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Father &amp; Son Card Galaxy</td>&#10;    <td>8408 N Main St </td>&#10;    <td>Eden</td>&#10;    <td>NY</td>&#10;    <td>14057</td>&#10;    <td>716-575-6002</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Fordham Comics</td>&#10;    <td>390 E Fordham Rd #3</td>&#10;    <td>Bronx</td>&#10;    <td>NY</td>&#10;    <td>10458</td>&#10;    <td>718-563-8505</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Seeley &amp; Kanes Comics</td>&#10;    <td>2480 Elmwood Ave </td>&#10;    <td>Kenmore</td>&#10;    <td>NY</td>&#10;    <td>14217</td>&#10;    <td>716-876-7168</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Modern Myths - Mamaroneck</td>&#10;    <td>822 Mamaroneck Ave </td>&#10;    <td>Mamaroneck</td>&#10;    <td>NY</td>&#10;    <td>10543</td>&#10;    <td>914-630-4246</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Next Level</td>&#10;    <td>4013 8th Ave </td>&#10;    <td>Brooklyn</td>&#10;    <td>NY</td>&#10;    <td>11232</td>&#10;    <td>347-618-8813</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gadget Guys</td>&#10;    <td>227 Main St </td>&#10;    <td>Corinth</td>&#10;    <td>NY</td>&#10;    <td>12822</td>&#10;    <td>518-796-8015</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Super Sport Cards</td>&#10;    <td>383 Main St </td>&#10;    <td>Center Moriches</td>&#10;    <td>NY</td>&#10;    <td>11934</td>&#10;    <td>631-878-4807</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Larger Than Life Toys &amp; Comics</td>&#10;    <td>4155 Rte 31 Ste E112</td>&#10;    <td>Clay</td>&#10;    <td>NY</td>&#10;    <td>13041</td>&#10;    <td>315-622-1891</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Blu Planet</td>&#10;    <td>509 Central Ave </td>&#10;    <td>Massapequa</td>&#10;    <td>NY</td>&#10;    <td>11758</td>&#10;    <td>631-565-7005</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Triple Crown Sports Cards</td>&#10;    <td>23 E Main St </td>&#10;    <td>Westfield</td>&#10;    <td>NY</td>&#10;    <td>14787</td>&#10;    <td>716-753-0411</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Grandslam Collectibles</td>&#10;    <td>282 Higbie Lane </td>&#10;    <td>West Islip</td>&#10;    <td>NY</td>&#10;    <td>11795</td>&#10;    <td>631-482-1382</td>&#10;    <td>&#10;  </td></tr>&#10;  <tr>&#10;    <td>Comix Zone</td>&#10;    <td>628 S Main St </td>&#10;    <td>Syracuse</td>&#10;    <td>NY</td>&#10;    <td>13212</td>&#10;    <td>315-452-1037</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Ravenblood Games</td>&#10;    <td>1163 Old Country Rd </td>&#10;    <td>Plainview</td>&#10;    <td>NY</td>&#10;    <td>11803</td>&#10;    <td>516-935-7400</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Animation Odyssey</td>&#10;    <td>1327 Surf Ave </td>&#10;    <td>Brooklyn</td>&#10;    <td>NY</td>&#10;    <td>11224</td>&#10;    <td>718-688-2213</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Great Lakes Game Emporium</td>&#10;    <td>7249 Center St </td>&#10;    <td>Mentor</td>&#10;    <td>OH</td>&#10;    <td>44060</td>&#10;    <td>440-290-8950</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Swap - Mason</td>&#10;    <td>1065 Reading Rd Ste E</td>&#10;    <td>Mason</td>&#10;    <td>OH</td>&#10;    <td>45040</td>&#10;    <td>513-770-0170</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dave's Clubhouse</td>&#10;    <td>1538 Brice Rd </td>&#10;    <td>Reynoldsburg</td>&#10;    <td>OH</td>&#10;    <td>43068</td>&#10;    <td>614-751-5008</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Alter Ego Comics</td>&#10;    <td>230 N Main </td>&#10;    <td>Lima</td>&#10;    <td>OH</td>&#10;    <td>45801</td>&#10;    <td>419-224-6700</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>POP!</td>&#10;    <td>404 E Perkins Ave </td>&#10;    <td>Sandusky</td>&#10;    <td>OH</td>&#10;    <td>44870</td>&#10;    <td>419-621-1127</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Bell, Book &amp; Comic</td>&#10;    <td>458 Patterson Rd </td>&#10;    <td>Dayton</td>&#10;    <td>OH</td>&#10;    <td>45419</td>&#10;    <td>937-643-9006</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Old School Gaming</td>&#10;    <td>5660 Southwyck Blvd Ste 250</td>&#10;    <td>Toledo</td>&#10;    <td>OH</td>&#10;    <td>43614</td>&#10;    <td>419-906-5268</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Rockin' Rooster Comics &amp; Games</td>&#10;    <td>5000 Glenway Ave. </td>&#10;    <td>Cincinnati</td>&#10;    <td>OH</td>&#10;    <td>45238</td>&#10;    <td>513-661-7625</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Universal Comics</td>&#10;    <td>6980 Whipple Ave NW </td>&#10;    <td>North Canton</td>&#10;    <td>OH</td>&#10;    <td>44720</td>&#10;    <td>330-453-5985</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Ground Zero Comics</td>&#10;    <td>13349 Pearl Rd </td>&#10;    <td>Strongsville</td>&#10;    <td>OH</td>&#10;    <td>44136-3403</td>&#10;    <td>440-572-9599</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Packrat Comics</td>&#10;    <td>3864 Lattimer St </td>&#10;    <td>Hilliard</td>&#10;    <td>OH</td>&#10;    <td>43026</td>&#10;    <td>614-527-8450</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Puzzles &amp; Planeswalkers</td>&#10;    <td>7 N Main St </td>&#10;    <td>Englewood</td>&#10;    <td>OH</td>&#10;    <td>45322</td>&#10;    <td>937-540-9047</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Video Alley</td>&#10;    <td>411 E Main St </td>&#10;    <td>Bainbridge</td>&#10;    <td>OH</td>&#10;    <td>45612</td>&#10;    <td>740-634-2878</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Realm Comics &amp; Games, The</td>&#10;    <td>1500B W 4th St </td>&#10;    <td>Mansfield</td>&#10;    <td>OH</td>&#10;    <td>44906</td>&#10;    <td>419-528-3008</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Room</td>&#10;    <td>3001 W Sylvania Ave </td>&#10;    <td>Toledo</td>&#10;    <td>OH</td>&#10;    <td>43613</td>&#10;    <td>419-475-3775</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gem City Games</td>&#10;    <td>6342 Far Hills Ave Ste B</td>&#10;    <td>Centerville</td>&#10;    <td>OH</td>&#10;    <td>45459</td>&#10;    <td>937-433-5110</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>All American Cards &amp; Comics - Warren</td>&#10;    <td>161 W Market St </td>&#10;    <td>Warren</td>&#10;    <td>OH</td>&#10;    <td>44481</td>&#10;    <td>330-393-3137</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Emporium</td>&#10;    <td>8015 State St </td>&#10;    <td>Garrettsville</td>&#10;    <td>OH</td>&#10;    <td>44231</td>&#10;    <td>330-527-8010</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Maverick's</td>&#10;    <td>2312 E Dorothy Ln </td>&#10;    <td>Kettering</td>&#10;    <td>OH</td>&#10;    <td>45420</td>&#10;    <td>937-294-4900</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Super-Fly Comics &amp; Games</td>&#10;    <td>132 Dayton St </td>&#10;    <td>Yellow Springs</td>&#10;    <td>OH</td>&#10;    <td>45387</td>&#10;    <td>937-767-1445</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Books 'N' More</td>&#10;    <td>28 W Main St </td>&#10;    <td>Wilmington</td>&#10;    <td>OH</td>&#10;    <td>45177</td>&#10;    <td>937-383-7323</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Toys Time Forgot, The</td>&#10;    <td>137 E Cherry St </td>&#10;    <td>Canal Fulton</td>&#10;    <td>OH</td>&#10;    <td>44614</td>&#10;    <td>330-854-1700</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Sci Fi City</td>&#10;    <td>9527 Cole Rain Ave </td>&#10;    <td>Cincinnati</td>&#10;    <td>OH</td>&#10;    <td>45251</td>&#10;    <td>513-245-9105</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Disposable Heroes</td>&#10;    <td>4618 Navarre Rd SW </td>&#10;    <td>Canton</td>&#10;    <td>OH</td>&#10;    <td>44706</td>&#10;    <td>330-715-2319</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Table Adventures</td>&#10;    <td>74 S 30th St </td>&#10;    <td>Newark</td>&#10;    <td>OH</td>&#10;    <td>43055</td>&#10;    <td>740-403-4738</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Games!</td>&#10;    <td>114 E Perry St. R </td>&#10;    <td>Port Clinton</td>&#10;    <td>OH</td>&#10;    <td>43452</td>&#10;    <td>419-341-8753</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Grandpa's Sportscards</td>&#10;    <td>631 Vienna Ave, Ste 8 </td>&#10;    <td>Niles</td>&#10;    <td>OH</td>&#10;    <td>44446</td>&#10;    <td>330-544-9442</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Fantasy Sportscards</td>&#10;    <td>126 N 7th St </td>&#10;    <td>Marietta</td>&#10;    <td>OH</td>&#10;    <td>45750</td>&#10;    <td>740-373-8399</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Rookie's Den</td>&#10;    <td>112-114 S Main St </td>&#10;    <td>Clyde</td>&#10;    <td>OH</td>&#10;    <td>43410</td>&#10;    <td>419-547-7626</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Bargain Box</td>&#10;    <td>3575 Maple Ave </td>&#10;    <td>Zanesville</td>&#10;    <td>OH</td>&#10;    <td>43701</td>&#10;    <td>740-455-7402</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Whatever Cards &amp; Games</td>&#10;    <td>122 S Front St </td>&#10;    <td>St Marys</td>&#10;    <td>OH</td>&#10;    <td>45885</td>&#10;    <td>419-394-1900</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Riverside Hobbies &amp; Games</td>&#10;    <td>184 S Main St </td>&#10;    <td>Mount Gilead</td>&#10;    <td>OH</td>&#10;    <td>43338</td>&#10;    <td>614-500-8153</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Line Drive Sports Cards</td>&#10;    <td>112 S Washington St </td>&#10;    <td>Tiffin</td>&#10;    <td>OH</td>&#10;    <td>44883</td>&#10;    <td>419-447-1864</td>&#10;    <td>&#10;  </td></tr>&#10;  <tr>&#10;    <td>Wings, Wheels, &amp; Waves - Alliance</td>&#10;    <td>1360 W State St </td>&#10;    <td>Alliance</td>&#10;    <td>OH</td>&#10;    <td>44601</td>&#10;    <td>330-680-8028</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Epic Books &amp; Games</td>&#10;    <td>1024 S Pennsylvania Ave Ste 4</td>&#10;    <td>Wellston</td>&#10;    <td>OH</td>&#10;    <td>45692</td>&#10;    <td>740-988-0451</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Ravenstone Games</td>&#10;    <td>1675 Karl Ct </td>&#10;    <td>Columbus</td>&#10;    <td>OH</td>&#10;    <td>43229-3657</td>&#10;    <td>614-844-6463</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Locker Room, The</td>&#10;    <td>501 Market St </td>&#10;    <td>East Liverpool</td>&#10;    <td>OH</td>&#10;    <td>43920</td>&#10;    <td>330-386-4416</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comic Town</td>&#10;    <td>1249 Morse Rd </td>&#10;    <td>Columbus</td>&#10;    <td>OH</td>&#10;    <td>43229</td>&#10;    <td>614-262-5006</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Epic Loot</td>&#10;    <td>9130 Dayton-Lebanon Pike </td>&#10;    <td>Centerville</td>&#10;    <td>OH</td>&#10;    <td>45458</td>&#10;    <td>937-436-7305</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Soldiery, The</td>&#10;    <td>4256 N High St </td>&#10;    <td>Columbus</td>&#10;    <td>OH</td>&#10;    <td>43214</td>&#10;    <td>614-267-1957</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Freedom Gaming</td>&#10;    <td>7857 Freedom Ave </td>&#10;    <td>North Canton</td>&#10;    <td>OH</td>&#10;    <td>44720</td>&#10;    <td>330-936-7815</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Kidforce Collectibles</td>&#10;    <td>50 Front St </td>&#10;    <td>Berea</td>&#10;    <td>OH</td>&#10;    <td>44017</td>&#10;    <td>440-239-7777</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Derium's CCGs</td>&#10;    <td>1928 Portage Trl </td>&#10;    <td>Cuyahoga Falls</td>&#10;    <td>OH</td>&#10;    <td>44223</td>&#10;    <td>330-929-2247</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Guardtower</td>&#10;    <td>3600 Trabue Rd </td>&#10;    <td>Columbus</td>&#10;    <td>OH</td>&#10;    <td>43204</td>&#10;    <td>614-488-4311</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Wizard's Guild, The</td>&#10;    <td>19 W Washington St </td>&#10;    <td>Athens</td>&#10;    <td>OH</td>&#10;    <td>45701</td>&#10;    <td>740-594-5300</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Checkmate</td>&#10;    <td>6725 W Central Ave Ste P</td>&#10;    <td>Toledo</td>&#10;    <td>OH</td>&#10;    <td>43617</td>&#10;    <td>419-720-6901</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Warzone Matrix</td>&#10;    <td>4704 Rocky River Dr </td>&#10;    <td>Cleveland</td>&#10;    <td>OH</td>&#10;    <td>44135</td>&#10;    <td>216-433-1316</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Alter Reality Games - Medina</td>&#10;    <td>2795 Medina Rd </td>&#10;    <td>Medina</td>&#10;    <td>OH</td>&#10;    <td>44256</td>&#10;    <td>330-952-0936</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Haven / AKA Sepco Entertainment</td>&#10;    <td>5570 Airway RD </td>&#10;    <td>Dayton</td>&#10;    <td>OH</td>&#10;    <td>45431</td>&#10;    <td>937-252-5635</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Cards &amp; Games</td>&#10;    <td>19 S Saint Clair St </td>&#10;    <td>Painesville</td>&#10;    <td>OH</td>&#10;    <td>44077</td>&#10;    <td>440-358-1212</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Diversions</td>&#10;    <td>10643 Kinsman Rd </td>&#10;    <td>Newbury</td>&#10;    <td>OH</td>&#10;    <td>44065-0503</td>&#10;    <td>440-564-9142</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Illuminaudi Cards &amp; Comics</td>&#10;    <td>7865 Cin Day Road </td>&#10;    <td>West Chester</td>&#10;    <td>OH</td>&#10;    <td>45069</td>&#10;    <td>513-847-4952</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dueling Grounds</td>&#10;    <td>441 E Sandusky St </td>&#10;    <td>Findlay</td>&#10;    <td>OH</td>&#10;    <td>45840</td>&#10;    <td>419-424-1112</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Ctrl Alt Elite Gaming</td>&#10;    <td>5204 Detroit Rd </td>&#10;    <td>Sheffield Village</td>&#10;    <td>OH</td>&#10;    <td>44035</td>&#10;    <td>440-934-1713</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Carnes' Cards &amp; Gaming</td>&#10;    <td>9 Willipie St </td>&#10;    <td>Wapakoneta</td>&#10;    <td>OH</td>&#10;    <td>45895</td>&#10;    <td>419-738-1156</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Illuminaudi - Cincinnati</td>&#10;    <td>834 Ohio Pike Ste 322</td>&#10;    <td>Cincinnati</td>&#10;    <td>OH</td>&#10;    <td>45245</td>&#10;    <td>513-752-6700</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Yottaquest</td>&#10;    <td>7607 Hamilton Ave </td>&#10;    <td>Cincinnati</td>&#10;    <td>OH</td>&#10;    <td>45231</td>&#10;    <td>513-923-1985</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Fantastic Games</td>&#10;    <td>104 1/2 S Main St </td>&#10;    <td>Columbiana</td>&#10;    <td>OH</td>&#10;    <td>44408</td>&#10;    <td>330-482-9161</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Eastside Games N Cards</td>&#10;    <td>1151 Main St </td>&#10;    <td>Milford</td>&#10;    <td>OH</td>&#10;    <td>45150</td>&#10;    <td>513-239-8191</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Steve's Sportscards</td>&#10;    <td>67800 Mall Ring Rd, #645 </td>&#10;    <td>St. Clairsville</td>&#10;    <td>OH</td>&#10;    <td>43950-1758</td>&#10;    <td>740-517-3487</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>SC Collectibles</td>&#10;    <td>987 E Ash St Miami Valley Centre Mall</td>&#10;    <td>Piquia</td>&#10;    <td>OH</td>&#10;    <td>45356</td>&#10;    <td>937-773-0950</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Esther's Sports Cards &amp; Collectibles</td>&#10;    <td>3315 N Ridge E Ste 405</td>&#10;    <td>Ashtabula</td>&#10;    <td>OH</td>&#10;    <td>44004</td>&#10;    <td>440-812-5723</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Immortals Inc</td>&#10;    <td>20950 Center Ridge Rd Ste 214</td>&#10;    <td>Rocky River</td>&#10;    <td>OH</td>&#10;    <td>44116</td>&#10;    <td>216-712-7169</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Swap - Amelia</td>&#10;    <td>1258 W Ohio Pike </td>&#10;    <td>Amelia</td>&#10;    <td>OH</td>&#10;    <td>45102</td>&#10;    <td>513-947-9400</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Taz's Gaming</td>&#10;    <td>2500 W State St </td>&#10;    <td>Alliance</td>&#10;    <td>OH</td>&#10;    <td>44601</td>&#10;    <td>330-680-4500</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Fog of Dusk</td>&#10;    <td>1057 Bethel Rd </td>&#10;    <td>Columbus</td>&#10;    <td>OH</td>&#10;    <td>43220</td>&#10;    <td>614-900-1209</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hero Zone</td>&#10;    <td>127 E Market St </td>&#10;    <td>Sandusky</td>&#10;    <td>OH</td>&#10;    <td>44870</td>&#10;    <td>419-621-0282</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Capital Games</td>&#10;    <td>216 Granville St </td>&#10;    <td>Gahanna</td>&#10;    <td>OH</td>&#10;    <td>43230</td>&#10;    <td>614-418-4705</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gamescape</td>&#10;    <td>855 Coshocton Ave, Ste O </td>&#10;    <td>Mount Vernon</td>&#10;    <td>OH</td>&#10;    <td>43050</td>&#10;    <td>740-392-4263</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Wings, Wheels, &amp; Waves - Massillon</td>&#10;    <td>14 Lincoln Way E </td>&#10;    <td>Massillon</td>&#10;    <td>OH</td>&#10;    <td>44646</td>&#10;    <td>330-830-7755</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gray House Comics &amp; Games</td>&#10;    <td>322 S Broadway </td>&#10;    <td>Greenville</td>&#10;    <td>OH</td>&#10;    <td>45331</td>&#10;    <td>937-459-0778</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Medina Sportscards</td>&#10;    <td>110 W Washington St </td>&#10;    <td>Medina</td>&#10;    <td>OH</td>&#10;    <td>44256</td>&#10;    <td>330-725-2273</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Wargear</td>&#10;    <td>165 N Broadway </td>&#10;    <td>New Philadelphia</td>&#10;    <td>OH</td>&#10;    <td>44663</td>&#10;    <td>330-343-8161</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Bubbyman's Games</td>&#10;    <td>131 W Center St </td>&#10;    <td>Marion</td>&#10;    <td>OH</td>&#10;    <td>43302</td>&#10;    <td>740-996-1793</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Empire Game Center</td>&#10;    <td>9258 Market Square Dr </td>&#10;    <td>Streetsboro</td>&#10;    <td>OH</td>&#10;    <td>44241</td>&#10;    <td>330-346-0847</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gaming Grounds</td>&#10;    <td>416 Stinaff St </td>&#10;    <td>Kent</td>&#10;    <td>OH</td>&#10;    <td>44240</td>&#10;    <td>330-677-8075</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Mr. Cards &amp; Comics</td>&#10;    <td>5646 Mayfield Rd </td>&#10;    <td>Lyndhurst</td>&#10;    <td>OH</td>&#10;    <td>44124</td>&#10;    <td>440-461-1191</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>All American - Boardman</td>&#10;    <td>1295 Boardman Canfield Rd </td>&#10;    <td>Boardman</td>&#10;    <td>OH</td>&#10;    <td>44512</td>&#10;    <td>330-629-8754</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Underhill's Games</td>&#10;    <td>1747 State Rd </td>&#10;    <td>Cuyahoga Falls</td>&#10;    <td>OH</td>&#10;    <td>44223</td>&#10;    <td>330-923-3845</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Infinite Monkey Comics &amp; Games</td>&#10;    <td>65 E College St </td>&#10;    <td>Oberlin</td>&#10;    <td>OH</td>&#10;    <td>44074</td>&#10;    <td>440-775-4263</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Wizards Games</td>&#10;    <td>749 Jenkins Ave </td>&#10;    <td>Norman</td>&#10;    <td>OK</td>&#10;    <td>73069</td>&#10;    <td>405-292-4263</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game HQ, Inc.</td>&#10;    <td>1620 SW 89th Suite J</td>&#10;    <td>Oklahoma City</td>&#10;    <td>OK</td>&#10;    <td>73159</td>&#10;    <td>405-691-0509</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Knight Arms</td>&#10;    <td>221 S Perkins Rd </td>&#10;    <td>Stillwater</td>&#10;    <td>OK</td>&#10;    <td>74074</td>&#10;    <td>405-533-3666</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Al's Sports Cards</td>&#10;    <td>116 E 15th St </td>&#10;    <td>Edmond</td>&#10;    <td>OK</td>&#10;    <td>73013</td>&#10;    <td>405-348-7583</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Tom's Card Kingdom</td>&#10;    <td>1507 NW Sheridan Rd </td>&#10;    <td>Lawton</td>&#10;    <td>OK</td>&#10;    <td>73505</td>&#10;    <td>580-353-7694</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Kirby's World - Warr Accres</td>&#10;    <td>5908 NW 38th </td>&#10;    <td>Warr Accres</td>&#10;    <td>OK</td>&#10;    <td>73122</td>&#10;    <td>405-440-2200</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Mcalester Gamerz</td>&#10;    <td>207A E Chickasaw </td>&#10;    <td>Mcalester</td>&#10;    <td>OK</td>&#10;    <td>74501</td>&#10;    <td>918-329-1310</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Code, The</td>&#10;    <td>616 N Main St </td>&#10;    <td>Guymon</td>&#10;    <td>OK</td>&#10;    <td>73942</td>&#10;    <td>580-338-4263</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hall Of Heroes - Ponca City</td>&#10;    <td>119 E Grand Ave </td>&#10;    <td>Ponca City</td>&#10;    <td>OK</td>&#10;    <td>74601-5208</td>&#10;    <td>580-765-7437</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Allen Variety Store</td>&#10;    <td>105 S Easton St </td>&#10;    <td>Allen</td>&#10;    <td>OK</td>&#10;    <td>74825</td>&#10;    <td>580-857-2977</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Wizards Asylum - Tulsa</td>&#10;    <td>7165 S Mingo Rd </td>&#10;    <td>Tulsa</td>&#10;    <td>OK</td>&#10;    <td>74133-3242</td>&#10;    <td>918-250-2077</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Alien Games</td>&#10;    <td>508 E &quot;A&quot; Street </td>&#10;    <td>Jenks</td>&#10;    <td>OK</td>&#10;    <td>74037</td>&#10;    <td>918-296-7111</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gathering Place, The</td>&#10;    <td>225 S Muskogee Ave </td>&#10;    <td>Tahlequah</td>&#10;    <td>OK</td>&#10;    <td>74464</td>&#10;    <td>918-453-1129</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Valhalla Gaming &amp; Entertainment</td>&#10;    <td>214 W 10th Ave </td>&#10;    <td>Stillwater</td>&#10;    <td>OK</td>&#10;    <td>74075</td>&#10;    <td>405-332-0261</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gamers Guild</td>&#10;    <td>221 SE Frank Phillips Blvd </td>&#10;    <td>Bartlesville</td>&#10;    <td>OK</td>&#10;    <td>74003</td>&#10;    <td>918-876-1079</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Bibliotech Books &amp; Comics</td>&#10;    <td>123 E Main St </td>&#10;    <td>Shawnee</td>&#10;    <td>OK</td>&#10;    <td>74801-6905</td>&#10;    <td>405-275-9494</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Top Deck Games - OK</td>&#10;    <td>5970 E 31 St K </td>&#10;    <td>Tulsa</td>&#10;    <td>OK</td>&#10;    <td>74135</td>&#10;    <td>918-665-7529</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>GameStar - Beaverton</td>&#10;    <td>13607 NW Cornell Rd </td>&#10;    <td>Portland</td>&#10;    <td>OR</td>&#10;    <td>97229</td>&#10;    <td>503-469-0650</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>EXP Room, The</td>&#10;    <td>439 SW 6th St </td>&#10;    <td>Redmond</td>&#10;    <td>OR</td>&#10;    <td>97756</td>&#10;    <td>541-504-2843</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Recycle Video Games - Tillamook</td>&#10;    <td>2203 Main Ave N Ste E</td>&#10;    <td>Tillamook</td>&#10;    <td>OR</td>&#10;    <td>97141</td>&#10;    <td>503-354-2220</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>MBC Gaming</td>&#10;    <td>5008 Commercial St S </td>&#10;    <td>Salem</td>&#10;    <td>OR</td>&#10;    <td>97306</td>&#10;    <td>971-225-5157</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Ancient Wonders</td>&#10;    <td>19060 SW Boones Ferry Rd </td>&#10;    <td>Tualatin</td>&#10;    <td>OR</td>&#10;    <td>97062</td>&#10;    <td>503-692-0753</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>His Junk / Her Treasures</td>&#10;    <td>92498 Cape Arago Hwy </td>&#10;    <td>Coos Bay</td>&#10;    <td>OR</td>&#10;    <td>97420-9704</td>&#10;    <td>541-888-5690</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Other Worlds Games</td>&#10;    <td>6350 SW Capitol Hwy </td>&#10;    <td>Portland</td>&#10;    <td>OR</td>&#10;    <td>97239</td>&#10;    <td>503-244-0290</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hobby Habit, The</td>&#10;    <td>411 Fir St </td>&#10;    <td>La Grande</td>&#10;    <td>OR</td>&#10;    <td>97850-3005</td>&#10;    <td>541-963-9602</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Wicked Comics &amp; Collectibles</td>&#10;    <td>920 Clay St </td>&#10;    <td>Albany</td>&#10;    <td>OR</td>&#10;    <td>97322</td>&#10;    <td>541-520-1642</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Wild Things Games</td>&#10;    <td>1288 State St </td>&#10;    <td>Salem</td>&#10;    <td>OR</td>&#10;    <td>97301</td>&#10;    <td>503-364-4263</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Main Phase Gaming</td>&#10;    <td>61419 S Hwy 97 Ste N</td>&#10;    <td>Bend</td>&#10;    <td>OR</td>&#10;    <td>97702</td>&#10;    <td>541-788-9652</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Delight</td>&#10;    <td>811 E Main St Ste C</td>&#10;    <td>Cottage Grove</td>&#10;    <td>OR</td>&#10;    <td>97424</td>&#10;    <td>541-946-3132</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Things From Another World - Beaverton</td>&#10;    <td>4390 SW Lloyd Ave </td>&#10;    <td>Beaverton</td>&#10;    <td>OR</td>&#10;    <td>97005-2011</td>&#10;    <td>503-643-4222</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game On - Tigard</td>&#10;    <td>14285 SW Pacific Hwy </td>&#10;    <td>Tigard</td>&#10;    <td>OR</td>&#10;    <td>97224</td>&#10;    <td>503-598-0200</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game On - Newberg</td>&#10;    <td>406 E 1st St </td>&#10;    <td>Newberg</td>&#10;    <td>OR</td>&#10;    <td>97132</td>&#10;    <td>503-487-6651</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Legacy Gaming</td>&#10;    <td>782 NW 3rd St </td>&#10;    <td>Prineville</td>&#10;    <td>OR</td>&#10;    <td>97754</td>&#10;    <td>541-447-8121</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Iguana Comics</td>&#10;    <td>329 NE 6th St </td>&#10;    <td>Grants Pass</td>&#10;    <td>OR</td>&#10;    <td>97526</td>&#10;    <td>541-474-9730</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Alternate Universe</td>&#10;    <td>12559 SW Main St </td>&#10;    <td>Tigard</td>&#10;    <td>OR</td>&#10;    <td>97223</td>&#10;    <td>503-443-1076</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>HobbyTown USA - Wilsonville</td>&#10;    <td>25699 SW Argyle Ave Ste F</td>&#10;    <td>Wilsonville</td>&#10;    <td>OR</td>&#10;    <td>97070</td>&#10;    <td>503-685-7333</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hopscotch Toys &amp; Games</td>&#10;    <td>103 SE Baker St </td>&#10;    <td>McMinnville</td>&#10;    <td>OR</td>&#10;    <td>97128</td>&#10;    <td>503-472-3702</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Pantheon Games</td>&#10;    <td>2013 Pacific Ave </td>&#10;    <td>Forest Grove</td>&#10;    <td>OR</td>&#10;    <td>97116</td>&#10;    <td>503-679-5611</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Pegasus Games</td>&#10;    <td>155 NW 4th Street </td>&#10;    <td>Corvallis</td>&#10;    <td>OR</td>&#10;    <td>97330</td>&#10;    <td>541-738-8266</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Ronpal Discount Sales</td>&#10;    <td>130 NE F St </td>&#10;    <td>Grants Pass</td>&#10;    <td>OR</td>&#10;    <td>97526</td>&#10;    <td>541-472-9364</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>P3 Gaming</td>&#10;    <td>419 S Coast Hwy 101 </td>&#10;    <td>Newport</td>&#10;    <td>OR</td>&#10;    <td>97365</td>&#10;    <td>541-264-8428</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Main Street Comics &amp; Games</td>&#10;    <td>333 N Main St </td>&#10;    <td>Toledo</td>&#10;    <td>OR</td>&#10;    <td>97391</td>&#10;    <td>541-336-2877</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Guardian Games</td>&#10;    <td>303 SE 3rd Ave </td>&#10;    <td>Portland</td>&#10;    <td>OR</td>&#10;    <td>97214</td>&#10;    <td>503-238-4000</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Rainy Day Games</td>&#10;    <td>18105 SW Tualatin Valley Hwy </td>&#10;    <td>Aloha</td>&#10;    <td>OR</td>&#10;    <td>97006</td>&#10;    <td>503-642-4100</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Addictive Behaviors</td>&#10;    <td>26 E 11th Ave </td>&#10;    <td>Eugene</td>&#10;    <td>OR</td>&#10;    <td>97401</td>&#10;    <td>541-684-8547</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Red Castle Games</td>&#10;    <td>6406 SE Foster Rd </td>&#10;    <td>Portland</td>&#10;    <td>OR</td>&#10;    <td>97206</td>&#10;    <td>503-774-4263</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Epic Gaming</td>&#10;    <td>17185 SE McLoughlin Blvd </td>&#10;    <td>Milwaukie</td>&#10;    <td>OR</td>&#10;    <td>97267</td>&#10;    <td>503-850-4756</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Time Vault Games</td>&#10;    <td>1224 SW Broadway </td>&#10;    <td>Portland</td>&#10;    <td>OR</td>&#10;    <td>97205</td>&#10;    <td>503-575-4887</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Borderlands</td>&#10;    <td>546 High St NE </td>&#10;    <td>Salem</td>&#10;    <td>OR</td>&#10;    <td>97301</td>&#10;    <td>503-485-2554</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Nexus Games</td>&#10;    <td>1440 NW Garden Valley Blvd suite 200 </td>&#10;    <td>Roseburg</td>&#10;    <td>OR</td>&#10;    <td>97471</td>&#10;    <td>541-680-3433</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hood River Hobbies</td>&#10;    <td>110 4th St </td>&#10;    <td>Hood River</td>&#10;    <td>OR</td>&#10;    <td>97031</td>&#10;    <td>541-386-1223</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Mystical Mayhem</td>&#10;    <td>3305 Main St #106</td>&#10;    <td>Springfield</td>&#10;    <td>OR</td>&#10;    <td>97478</td>&#10;    <td>541-746-5501</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Matt's Cavalcade of Comics</td>&#10;    <td>2075 NW Buchanan Ave </td>&#10;    <td>Corvallis</td>&#10;    <td>OR</td>&#10;    <td>97330</td>&#10;    <td>541-752-6757</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Castle Hill Games</td>&#10;    <td>1867 Redwood Ave Ste 8</td>&#10;    <td>Grants Pass</td>&#10;    <td>OR</td>&#10;    <td>97527</td>&#10;    <td>541-956-5996</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Astral Games - Klamath Falls</td>&#10;    <td>737 Main St </td>&#10;    <td>Klamath Falls</td>&#10;    <td>OR</td>&#10;    <td>97601</td>&#10;    <td>541-882-3030</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Top Deck Hobbies</td>&#10;    <td>54 W Sherman St #A</td>&#10;    <td>Lebanon</td>&#10;    <td>OR</td>&#10;    <td>97355</td>&#10;    <td>541-409-4582</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Stayton's Hobby Hut</td>&#10;    <td>715 N 1st St </td>&#10;    <td>Stayton</td>&#10;    <td>OR</td>&#10;    <td>97383</td>&#10;    <td>503-767-4595</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Oregon Trail Games</td>&#10;    <td>319 E 2nd St </td>&#10;    <td>The Dalles</td>&#10;    <td>OR</td>&#10;    <td>97058</td>&#10;    <td>541-296-1000</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Sports Card Stuff &amp; Comics</td>&#10;    <td>937 SE Stephens St. </td>&#10;    <td>Roseburg</td>&#10;    <td>OR</td>&#10;    <td>97470</td>&#10;    <td>541-672-5444</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Got Game Inc</td>&#10;    <td>106 E Central Ave </td>&#10;    <td>Sutherlin</td>&#10;    <td>OR</td>&#10;    <td>97479</td>&#10;    <td>541-459-1280</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>My Mom's Basement</td>&#10;    <td>303 Main Street E </td>&#10;    <td>Monmouth</td>&#10;    <td>OR</td>&#10;    <td>97361</td>&#10;    <td>503-837-0945</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Seaside Video Game Shop, The</td>&#10;    <td>1706 S Roosevelt </td>&#10;    <td>Seaside</td>&#10;    <td>OR</td>&#10;    <td>97138</td>&#10;    <td>503-739-2233</td>&#10;    <td>&#10;  </td></tr>&#10;  <tr>&#10;    <td>Astral Games - Medford</td>&#10;    <td>207 E Barnett Rd </td>&#10;    <td>Medford</td>&#10;    <td>OR</td>&#10;    <td>97501</td>&#10;    <td>541-776-7888</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comic Collectibles</td>&#10;    <td>15010 SE McLoughlin Blvd Ste 8</td>&#10;    <td>Milwaukie</td>&#10;    <td>OR</td>&#10;    <td>97267</td>&#10;    <td>503-344-6765</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Fun Again Games</td>&#10;    <td>1660 Ashland Street </td>&#10;    <td>Ashland</td>&#10;    <td>OR</td>&#10;    <td>97520</td>&#10;    <td>541-482-1939</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Video Games Plus</td>&#10;    <td>1143 NE Stephens St </td>&#10;    <td>Roseburg</td>&#10;    <td>OR</td>&#10;    <td>97470</td>&#10;    <td>541-673-0795</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Things From Another World</td>&#10;    <td>10977 SE Main St </td>&#10;    <td>Milwaukie</td>&#10;    <td>OR</td>&#10;    <td>97222</td>&#10;    <td>503-284-4693</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Pop's Culture Shoppe</td>&#10;    <td>2 East Ave </td>&#10;    <td>Wellsboro</td>&#10;    <td>PA</td>&#10;    <td>16901</td>&#10;    <td>570-723-4263</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Fatman Comics &amp; Games</td>&#10;    <td>218 S Main st </td>&#10;    <td>Athens</td>&#10;    <td>PA</td>&#10;    <td>18810</td>&#10;    <td>570-886-2355</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comic Books 101</td>&#10;    <td>106 N Kerr St </td>&#10;    <td>Titusville</td>&#10;    <td>PA</td>&#10;    <td>16354</td>&#10;    <td>814-657-6372</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Masters</td>&#10;    <td>3439 Babcock Blvd </td>&#10;    <td>Pittsburgh</td>&#10;    <td>PA</td>&#10;    <td>15237-2400</td>&#10;    <td>412-367-4414</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Warlord's Den</td>&#10;    <td>541 Weidman St </td>&#10;    <td>Lebanon</td>&#10;    <td>PA</td>&#10;    <td>17046</td>&#10;    <td>717-277-0494</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Redcap's Corner</td>&#10;    <td>3617 Lancaster Ave First Floor</td>&#10;    <td>Philadelphia</td>&#10;    <td>PA</td>&#10;    <td>19104</td>&#10;    <td>215-387-4040</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Tap N Atk Games</td>&#10;    <td>1104 Carlisle Rd </td>&#10;    <td>Camp Hill</td>&#10;    <td>PA</td>&#10;    <td>17011</td>&#10;    <td>717-525-7535</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gaming Dungeon, The</td>&#10;    <td>63 N Main ST </td>&#10;    <td>Washington</td>&#10;    <td>PA</td>&#10;    <td>15301</td>&#10;    <td>724-222-7270</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Golden Eagle Comics</td>&#10;    <td>3050 N 5th St Hwy </td>&#10;    <td>Reading</td>&#10;    <td>PA</td>&#10;    <td>19605</td>&#10;    <td>610-921-3160</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Geekadrome, The</td>&#10;    <td>534 Brookline Blvd </td>&#10;    <td>Pittsburgh</td>&#10;    <td>PA</td>&#10;    <td>15226</td>&#10;    <td>412-344-2494</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Alternate Universes - Holmes</td>&#10;    <td>2034 Parker Ave </td>&#10;    <td>Holmes</td>&#10;    <td>PA</td>&#10;    <td>19043</td>&#10;    <td>610-583-9960</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>5 D's Collectibles &amp; Gifts</td>&#10;    <td>170 WYOMING AVE </td>&#10;    <td>Wyoming</td>&#10;    <td>PA</td>&#10;    <td>18644</td>&#10;    <td>570-693-1282</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Top Deck Cards &amp; Games</td>&#10;    <td>5797 Library Rd Bldg 2 Ste 1</td>&#10;    <td>Bethel Park</td>&#10;    <td>PA</td>&#10;    <td>15102</td>&#10;    <td>412-835-4603</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Phantom of the Attic</td>&#10;    <td>406 S Craig St </td>&#10;    <td>Pittsburgh</td>&#10;    <td>PA</td>&#10;    <td>15213</td>&#10;    <td>412-682-6290</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>New Dimension Comics - Butler</td>&#10;    <td>101 Clearview Circle </td>&#10;    <td>Butler</td>&#10;    <td>PA</td>&#10;    <td>16001</td>&#10;    <td>724-282-5283</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Deal Me In Games</td>&#10;    <td>1100 E Philadelphia Ave </td>&#10;    <td>Gilbertsville</td>&#10;    <td>PA</td>&#10;    <td>19525</td>&#10;    <td>484-369-8276</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Showcase Comics - Media</td>&#10;    <td>1067 W Baltimore Pike Granite Run Mall Ste 185</td>&#10;    <td>Media</td>&#10;    <td>PA</td>&#10;    <td>19063</td>&#10;    <td>610-891-9229</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gatehouse Games</td>&#10;    <td>208 Hollidaysburg Plaza </td>&#10;    <td>Duncansville</td>&#10;    <td>PA</td>&#10;    <td>16635</td>&#10;    <td>814-693-9271</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Portal Comics &amp; Gaming, The</td>&#10;    <td>2005 Willow Park Rd </td>&#10;    <td>Bethlehem</td>&#10;    <td>PA</td>&#10;    <td>18020</td>&#10;    <td>610-419-8004</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>SW Randall Toyes &amp; Gifts - Squirrel Hill</td>&#10;    <td>5856 Forbes Ave </td>&#10;    <td>Pittsburgh</td>&#10;    <td>PA</td>&#10;    <td>15217</td>&#10;    <td>412-422-7009</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comic Store West</td>&#10;    <td>2111 Industrial Hwy </td>&#10;    <td>York</td>&#10;    <td>PA</td>&#10;    <td>17402</td>&#10;    <td>717-845-9198</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Stomping Grounds Games &amp; Hobbies</td>&#10;    <td>1005 W County Line Rd </td>&#10;    <td>Hatboro</td>&#10;    <td>PA</td>&#10;    <td>19040</td>&#10;    <td>267-387-6719</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>White Knight's Game Room, The</td>&#10;    <td>637 Rose St </td>&#10;    <td>Williamsport</td>&#10;    <td>PA</td>&#10;    <td>17701</td>&#10;    <td>570-567-7539</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Bushkill Cards &amp; Games</td>&#10;    <td>31 W 1st St </td>&#10;    <td>Wind Gap</td>&#10;    <td>PA</td>&#10;    <td>18091</td>&#10;    <td>610-881-4156</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>New Dimension Comics - Pittsburgh Mills</td>&#10;    <td>590 Pittsburgh Mills Cir </td>&#10;    <td>Tarentum</td>&#10;    <td>PA</td>&#10;    <td>15084</td>&#10;    <td>724-758-1560</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Enck &amp; Diamond Arcade &amp; Card Shop</td>&#10;    <td>625 Cumberland St </td>&#10;    <td>Lebanon</td>&#10;    <td>PA</td>&#10;    <td>17042</td>&#10;    <td>717-450-3640</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Showcase Comics - Bryn Mawr</td>&#10;    <td>874 W Lancaster Ave </td>&#10;    <td>Bryn Mawr</td>&#10;    <td>PA</td>&#10;    <td>19010</td>&#10;    <td>610-527-6236</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gateway Games</td>&#10;    <td>930 West Erie Plaza </td>&#10;    <td>ERIE</td>&#10;    <td>PA</td>&#10;    <td>16505</td>&#10;    <td>814-874-3772</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>New Dimension Comics - Cranberry</td>&#10;    <td>20550 Rt 19 </td>&#10;    <td>Cranberry Township</td>&#10;    <td>PA</td>&#10;    <td>16066</td>&#10;    <td>724-776-0433</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Neverland Games - Lost Boys Hideout, The</td>&#10;    <td>69 W Main St </td>&#10;    <td>Waynesboro</td>&#10;    <td>PA</td>&#10;    <td>17268</td>&#10;    <td>717-655-5347</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Keystone Cards</td>&#10;    <td>515 S Keystone Ave </td>&#10;    <td>Sayre</td>&#10;    <td>PA</td>&#10;    <td>18840-1529</td>&#10;    <td>570-888-6331</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gamemasters Realm, The</td>&#10;    <td>2284 Brodhead Rd Ste 18</td>&#10;    <td>Aliquippa</td>&#10;    <td>PA</td>&#10;    <td>15001</td>&#10;    <td>724-378-2440</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comics &amp; More - King of Prussia</td>&#10;    <td>690 W Dekalb Pike </td>&#10;    <td>King of Prussia</td>&#10;    <td>PA</td>&#10;    <td>19406</td>&#10;    <td>610-337-1555</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Lock Haven University Bookstore</td>&#10;    <td>401 N Fairview St </td>&#10;    <td>Lock Haven</td>&#10;    <td>PA</td>&#10;    <td>17745</td>&#10;    <td>570-484-2460</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Calliope Comics</td>&#10;    <td>519 Valentine Hill Road </td>&#10;    <td>Bellefonte</td>&#10;    <td>PA</td>&#10;    <td>16823</td>&#10;    <td>814-355-9830</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Funtastic Cards</td>&#10;    <td>1106 Allegheny St </td>&#10;    <td>New Brighton</td>&#10;    <td>PA</td>&#10;    <td>15066-1549</td>&#10;    <td>724-846-4078</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Laurel Mountain Comics</td>&#10;    <td>258 West Patriot St </td>&#10;    <td>Somerset</td>&#10;    <td>PA</td>&#10;    <td>15501</td>&#10;    <td>814-444-1058</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Steve's Comic Relief</td>&#10;    <td>4153 Woerner Ave </td>&#10;    <td>Levittown</td>&#10;    <td>PA</td>&#10;    <td>19057-2703</td>&#10;    <td>215-945-7954</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Encounter, The - Allentown</td>&#10;    <td>811 Union Blvd </td>&#10;    <td>Allentown</td>&#10;    <td>PA</td>&#10;    <td>18109</td>&#10;    <td>610-774-9565</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Paul's Sports Collectibles - PA</td>&#10;    <td>197 S First St </td>&#10;    <td>Lehighton</td>&#10;    <td>PA</td>&#10;    <td>18235</td>&#10;    <td>484-707-9526</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Six Feet Under Games</td>&#10;    <td>844 W Main St Brookshire Plaza</td>&#10;    <td>New Holland</td>&#10;    <td>PA</td>&#10;    <td>17557</td>&#10;    <td>717-351-0359</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Legions Hobbies &amp; Games</td>&#10;    <td>1130 Perry Highway </td>&#10;    <td>Pittsburgh</td>&#10;    <td>PA</td>&#10;    <td>15237</td>&#10;    <td>412-366-3725</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>MVP Sports &amp; Games</td>&#10;    <td>50 Redwood Drive </td>&#10;    <td>Lancaster</td>&#10;    <td>PA</td>&#10;    <td>17603</td>&#10;    <td>717-435-4964</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Alternate Universes - Blue Bell</td>&#10;    <td>1530 Dekalb Pike Ste 5</td>&#10;    <td>Blue Bell</td>&#10;    <td>PA</td>&#10;    <td>19422</td>&#10;    <td>610-277-7251</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>All Stars</td>&#10;    <td>18 Oxford Valley Mall </td>&#10;    <td>Langhorne</td>&#10;    <td>PA</td>&#10;    <td>19047</td>&#10;    <td>215-752-4500</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Corps</td>&#10;    <td>2920 Buffalo Rd </td>&#10;    <td>ERIE</td>&#10;    <td>PA</td>&#10;    <td>16510</td>&#10;    <td>814-899-2673</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Adventurer's Guild, The</td>&#10;    <td>3878 Union Deposit Rd </td>&#10;    <td>Harrisburg</td>&#10;    <td>PA</td>&#10;    <td>17109</td>&#10;    <td>717-561-8140</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Mr Nice Guy Games</td>&#10;    <td>802 Allegheny River Blvd </td>&#10;    <td>Oakmont</td>&#10;    <td>PA</td>&#10;    <td>15139</td>&#10;    <td>412-828-3390</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gold Star Anime</td>&#10;    <td>5540 Route 6N </td>&#10;    <td>Edinboro</td>&#10;    <td>PA</td>&#10;    <td>16412</td>&#10;    <td>814-734-1890</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Cyborg One</td>&#10;    <td>44 E State St Rear</td>&#10;    <td>Doylestown</td>&#10;    <td>PA</td>&#10;    <td>18901</td>&#10;    <td>215-348-1451</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Jake's Cards &amp; Games</td>&#10;    <td>131 W High St </td>&#10;    <td>Bellefonte</td>&#10;    <td>PA</td>&#10;    <td>16823</td>&#10;    <td>814-355-1137</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comix Universe</td>&#10;    <td>130 Eisenhower Drive Ste C </td>&#10;    <td>Hanover</td>&#10;    <td>PA</td>&#10;    <td>17331</td>&#10;    <td>717-637-1637</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>7th Dimension Games</td>&#10;    <td>491 York Rd </td>&#10;    <td>Jenkintown</td>&#10;    <td>PA</td>&#10;    <td>19046</td>&#10;    <td>215-887-9550</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Players Guild, The</td>&#10;    <td>225 Columbia Mall Dr </td>&#10;    <td>Bloomsburg</td>&#10;    <td>PA</td>&#10;    <td>17815</td>&#10;    <td>570-441-4333</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>New Dimension Comics - West Mifflin</td>&#10;    <td>3075 Clairton Rd Ste 940</td>&#10;    <td>West Mifflin</td>&#10;    <td>PA</td>&#10;    <td>15123</td>&#10;    <td>412-655-8661</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Brave New Worlds</td>&#10;    <td>433 W. Moreland Rd. </td>&#10;    <td>Willow Grove</td>&#10;    <td>PA</td>&#10;    <td>19090</td>&#10;    <td>215-657-8838</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Phantom of the Attic - PCM</td>&#10;    <td>2351 Noblestown Road </td>&#10;    <td>Pittsburgh</td>&#10;    <td>PA</td>&#10;    <td>15205</td>&#10;    <td>412-921-6229</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Lovelight Boutique &amp; Yoga Studio</td>&#10;    <td>114 E Washington St </td>&#10;    <td>New Castle</td>&#10;    <td>PA</td>&#10;    <td>16101</td>&#10;    <td>724-698-7220</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Evil Genius</td>&#10;    <td>340 3rd St </td>&#10;    <td>California</td>&#10;    <td>PA</td>&#10;    <td>15419</td>&#10;    <td>724-330-5775</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comic Swap</td>&#10;    <td>110 S Fraser St </td>&#10;    <td>State College</td>&#10;    <td>PA</td>&#10;    <td>16801</td>&#10;    <td>814-234-6005</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Full of Win Games</td>&#10;    <td>320 S State St </td>&#10;    <td>Clarks Summit</td>&#10;    <td>PA</td>&#10;    <td>18411</td>&#10;    <td>570-406-4392</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Playerz Den</td>&#10;    <td>890 Scalp Ave </td>&#10;    <td>Johnstown</td>&#10;    <td>PA</td>&#10;    <td>15904</td>&#10;    <td>814-341-2225</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gamer's Edge Comics &amp; Games, The</td>&#10;    <td>424 Main St </td>&#10;    <td>Stroudsburg</td>&#10;    <td>PA</td>&#10;    <td>18360</td>&#10;    <td>570-421-3343</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Indiana Sportscards</td>&#10;    <td>1506 Oakland Ave </td>&#10;    <td>Indiana</td>&#10;    <td>PA</td>&#10;    <td>15701</td>&#10;    <td>724-349-1769</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Shadowblade Hobbies</td>&#10;    <td>902 Chambersburg Mall </td>&#10;    <td>Chambersburg</td>&#10;    <td>PA</td>&#10;    <td>17201</td>&#10;    <td>717-264-0333</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Bigler House of Hobbies</td>&#10;    <td>5330 Allport Cutoff </td>&#10;    <td>Woodland</td>&#10;    <td>PA</td>&#10;    <td>16881</td>&#10;    <td>814-290-6301</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gauntlet Comics &amp; Games</td>&#10;    <td>47 Dansbury Ter </td>&#10;    <td>East Stroudsburg</td>&#10;    <td>PA</td>&#10;    <td>18301</td>&#10;    <td>570-421-2273</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Rabbitrun Games</td>&#10;    <td>912 North Reading Rd </td>&#10;    <td>Ephrata</td>&#10;    <td>PA</td>&#10;    <td>17522</td>&#10;    <td>717-336-2002</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Games Keep, The</td>&#10;    <td>929 S High St Parkway Center </td>&#10;    <td>West Chester</td>&#10;    <td>PA</td>&#10;    <td>19382</td>&#10;    <td>484-905-5533</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Vault, The</td>&#10;    <td>5274 Rte 30 Westmoreland Crossing Ste 16</td>&#10;    <td>Greensburg</td>&#10;    <td>PA</td>&#10;    <td>15601</td>&#10;    <td>724-834-4045</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Card Stadium</td>&#10;    <td>3715 Walnut ST </td>&#10;    <td>Harrisburg</td>&#10;    <td>PA</td>&#10;    <td>17109</td>&#10;    <td>717-234-0655</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comics &amp; More - PA</td>&#10;    <td>500 West Germantown Pike Ste 2015</td>&#10;    <td>Plymouth Meeting</td>&#10;    <td>PA</td>&#10;    <td>19462</td>&#10;    <td>610-828-5848</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Planet X Comics &amp; Collectibles</td>&#10;    <td>2085 Springwood Rd </td>&#10;    <td>York</td>&#10;    <td>PA</td>&#10;    <td>17403</td>&#10;    <td>717-747-1092</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Ultimate Comics</td>&#10;    <td>201 Station Rd Ste 401</td>&#10;    <td>Quakertown</td>&#10;    <td>PA</td>&#10;    <td>18951</td>&#10;    <td>267-261-0194</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Garden Of Earthly Delights</td>&#10;    <td>7907 Bustleton Ave </td>&#10;    <td>Philadelphia</td>&#10;    <td>PA</td>&#10;    <td>19152</td>&#10;    <td>215-332-3321</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Allied Hobbies - Philadelphia</td>&#10;    <td>9475 Roosevelt Blvd </td>&#10;    <td>Philadelphia</td>&#10;    <td>PA</td>&#10;    <td>19114</td>&#10;    <td>215-677-1123</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Temple Games, The</td>&#10;    <td>167 Columbus Ave </td>&#10;    <td>Pawtucket</td>&#10;    <td>RI</td>&#10;    <td>2860</td>&#10;    <td>401-305-0836</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Allsport Collectibles</td>&#10;    <td>8 Market St </td>&#10;    <td>Warren</td>&#10;    <td>RI</td>&#10;    <td>2885</td>&#10;    <td>401-245-2273</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Untapped Games</td>&#10;    <td>545 Pawtucket Ave Ste A104</td>&#10;    <td>Pawtucket</td>&#10;    <td>RI</td>&#10;    <td>2906</td>&#10;    <td>401-368-1619</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Annex Comics</td>&#10;    <td>314 Broadway </td>&#10;    <td>Newport</td>&#10;    <td>RI</td>&#10;    <td>2840</td>&#10;    <td>401-847-4607</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game On!</td>&#10;    <td>943 Namquid Dr </td>&#10;    <td>Warwick</td>&#10;    <td>RI</td>&#10;    <td>2888</td>&#10;    <td>401-739-4263</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Mana Core</td>&#10;    <td>239 Oak St Ste 2L</td>&#10;    <td>Providence</td>&#10;    <td>RI</td>&#10;    <td>2909</td>&#10;    <td>888-584-4263</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Incredible Pulp, The</td>&#10;    <td>140 Point Judith Rd Unit 40</td>&#10;    <td>Narragansett</td>&#10;    <td>RI</td>&#10;    <td>2882</td>&#10;    <td>401-788-1007</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>1 Stop Collectibles</td>&#10;    <td>15 Sandy Bottom Rd Unit 101</td>&#10;    <td>Coventry</td>&#10;    <td>RI</td>&#10;    <td>2816</td>&#10;    <td>401-615-5322</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Die Hard Games</td>&#10;    <td>101 Higginson Ave Ste 111</td>&#10;    <td>Lincoln</td>&#10;    <td>RI</td>&#10;    <td>2865</td>&#10;    <td>401-312-3407</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Sports Cards Unlimited</td>&#10;    <td>1351 Ribaut Rd Ste C</td>&#10;    <td>Port Royal</td>&#10;    <td>SC</td>&#10;    <td>29935</td>&#10;    <td>843-522-9699</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Tangled Web</td>&#10;    <td>414 W Blackstock Rd </td>&#10;    <td>Spartanburg</td>&#10;    <td>SC</td>&#10;    <td>29301</td>&#10;    <td>864-574-1713</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Apocalypse Comics</td>&#10;    <td>710 Hwy 17 S Ste H</td>&#10;    <td>North Myrtle Beach</td>&#10;    <td>SC</td>&#10;    <td>29582</td>&#10;    <td>843-272-8500</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Mad Max's Comics &amp; Games</td>&#10;    <td>178 E Main St </td>&#10;    <td>Spartanburg</td>&#10;    <td>SC</td>&#10;    <td>29306</td>&#10;    <td>864-585-0374</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Knarf &amp; Kram Sports Memorabilia Plus</td>&#10;    <td>780 Coastal Grand Cr V-04</td>&#10;    <td>Myrtle Beach</td>&#10;    <td>SC</td>&#10;    <td>29577</td>&#10;    <td>843-916-4376</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>That Computer Store</td>&#10;    <td>1085-B Lake Murray Blvd </td>&#10;    <td>Irmo</td>&#10;    <td>SC</td>&#10;    <td>29063</td>&#10;    <td>803-462-4199</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>G2K Games - Rock Hill</td>&#10;    <td>4811 Old York Rd Ste 102</td>&#10;    <td>Rock Hill</td>&#10;    <td>SC</td>&#10;    <td>29732</td>&#10;    <td>803-329-4263</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>HobbyTown USA - Charleston</td>&#10;    <td>1559 Sam Rittenburg Blvd </td>&#10;    <td>Charleston</td>&#10;    <td>SC</td>&#10;    <td>29407</td>&#10;    <td>843-769-5808</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Firefly Toys &amp; Games</td>&#10;    <td>5060 Sunset Blvd </td>&#10;    <td>Lexington</td>&#10;    <td>SC</td>&#10;    <td>29072</td>&#10;    <td>803-996-3473</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Cornermagic Gaming Center</td>&#10;    <td>2615 Hwy 153 Unit B1</td>&#10;    <td>Piedmont</td>&#10;    <td>SC</td>&#10;    <td>29673</td>&#10;    <td>864-248-4838</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Boardwalk</td>&#10;    <td>1175 Woods Crossing Rd Ste 2</td>&#10;    <td>Greenville</td>&#10;    <td>SC</td>&#10;    <td>29607</td>&#10;    <td>864-297-6924</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Above Board Games</td>&#10;    <td>985 Market St Ste 103</td>&#10;    <td>Fort Mill</td>&#10;    <td>SC</td>&#10;    <td>29703</td>&#10;    <td>803-792-4786</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Fine Art of Baseball, The</td>&#10;    <td>7201 Two Notch Rd Columbia Place Mall Ste BU-648</td>&#10;    <td>Columbia</td>&#10;    <td>SC</td>&#10;    <td>29223</td>&#10;    <td>803-736-6889</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Ready to Play Trading Cards</td>&#10;    <td>910-B Knox Abbott Dr </td>&#10;    <td>Cayce</td>&#10;    <td>SC</td>&#10;    <td>29033</td>&#10;    <td>803-834-6336</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>White Widow Games</td>&#10;    <td>4971 Socastee Blvd </td>&#10;    <td>Myrtle Beach</td>&#10;    <td>SC</td>&#10;    <td>29588</td>&#10;    <td>843-503-0727</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Nexus</td>&#10;    <td>814 Hwy 1 S Unit 12</td>&#10;    <td>Lugoff</td>&#10;    <td>SC</td>&#10;    <td>29078</td>&#10;    <td>803-438-9732</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Scarlet Moon Gaming</td>&#10;    <td>1109 S 5th St Ste D</td>&#10;    <td>Hartsville</td>&#10;    <td>SC</td>&#10;    <td>29584</td>&#10;    <td>843-383-4747</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Big Robot Games</td>&#10;    <td>201-C W Wade Hampton Blvd </td>&#10;    <td>Greer</td>&#10;    <td>SC</td>&#10;    <td>29650</td>&#10;    <td>864-977-1354</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dotgames - SC</td>&#10;    <td>946 Orleans Rd Ste B10</td>&#10;    <td>Charleston</td>&#10;    <td>SC</td>&#10;    <td>29407</td>&#10;    <td>843-763-3111</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Stronghold Gaming</td>&#10;    <td>830 S Pike Rd Ste 4</td>&#10;    <td>Sumter</td>&#10;    <td>SC</td>&#10;    <td>29150</td>&#10;    <td>803-938-5792</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Realms Fantasy Games</td>&#10;    <td>908 Bacons Bridge Rd Ste 10</td>&#10;    <td>Summerville</td>&#10;    <td>SC</td>&#10;    <td>29485</td>&#10;    <td>843-879-9218</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Next Gen Trading</td>&#10;    <td>215 W Antrim Dr Ste B</td>&#10;    <td>Greenville</td>&#10;    <td>SC</td>&#10;    <td>29607</td>&#10;    <td>864-283-6533</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Planet Comics</td>&#10;    <td>2704 N Main St </td>&#10;    <td>Anderson</td>&#10;    <td>SC</td>&#10;    <td>29621</td>&#10;    <td>864-261-3578</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Coastal Comics</td>&#10;    <td>9261 Hwy 707 Ste D</td>&#10;    <td>Myrtle Beach</td>&#10;    <td>SC</td>&#10;    <td>29588</td>&#10;    <td>843-750-0330</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Green Dragon</td>&#10;    <td>7671 Northwoods Blvd Ste 5-RST</td>&#10;    <td>North Charleston</td>&#10;    <td>SC</td>&#10;    <td>29406</td>&#10;    <td>843-797-2052</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gallery Go</td>&#10;    <td>126 S Main St </td>&#10;    <td>Aberdeen</td>&#10;    <td>SD</td>&#10;    <td>57401</td>&#10;    <td>605-262-2026</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>World Of Sports</td>&#10;    <td>245 Dakota Ave </td>&#10;    <td>Huron</td>&#10;    <td>SD</td>&#10;    <td>57350</td>&#10;    <td>605-352-9440</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Muze Experience, The</td>&#10;    <td>415 S Pierre St </td>&#10;    <td>Pierre</td>&#10;    <td>SD</td>&#10;    <td>57501</td>&#10;    <td>605-494-1000</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Brost's Game &amp; Hobby</td>&#10;    <td>323 Main Ave </td>&#10;    <td>Brookings</td>&#10;    <td>SD</td>&#10;    <td>57006</td>&#10;    <td>605-692-7341</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dragon's Den</td>&#10;    <td>5403 W 41st St </td>&#10;    <td>Sioux Falls</td>&#10;    <td>SD</td>&#10;    <td>57106</td>&#10;    <td>605-361-4343</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Who's Game House</td>&#10;    <td>512 Main St Ste 910</td>&#10;    <td>Rapid City</td>&#10;    <td>SD</td>&#10;    <td>57701</td>&#10;    <td>605-342-4263</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Mtg Heroes</td>&#10;    <td>102 3rd Ave SW </td>&#10;    <td>Aberdeen</td>&#10;    <td>SD</td>&#10;    <td>57401</td>&#10;    <td>605-262-2226</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>CM Games - Morristown</td>&#10;    <td>2550 E Morris Blvd </td>&#10;    <td>Morristown</td>&#10;    <td>TN</td>&#10;    <td>37813</td>&#10;    <td>423-254-1537</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>CM Games - Maryville</td>&#10;    <td>197 Foothills Mall Dr </td>&#10;    <td>Maryville</td>&#10;    <td>TN</td>&#10;    <td>37801</td>&#10;    <td>865-981-2756</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>CM Games - Cedar Bluff</td>&#10;    <td>440 North Cedar Bluff Rd </td>&#10;    <td>Knoxville</td>&#10;    <td>TN</td>&#10;    <td>37923</td>&#10;    <td>865-531-9873</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Collector's Alley</td>&#10;    <td>915 S Garden St </td>&#10;    <td>Columbia</td>&#10;    <td>TN</td>&#10;    <td>38401</td>&#10;    <td>931-922-4137</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Next Level Games, The - TNLG</td>&#10;    <td>2064 Gallatin Rd N </td>&#10;    <td>Madison</td>&#10;    <td>TN</td>&#10;    <td>37115</td>&#10;    <td>615-859-8654</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comic Cellar Cards, Comics &amp; Games</td>&#10;    <td>3620 Austin Peay Hwy Ste 2</td>&#10;    <td>Memphis</td>&#10;    <td>TN</td>&#10;    <td>38128</td>&#10;    <td>901-382-8623</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Outer Limits Comics - Murfreesboro</td>&#10;    <td>810 NW Broad St Ste 248</td>&#10;    <td>Murfreesboro</td>&#10;    <td>TN</td>&#10;    <td>37129</td>&#10;    <td>615-867-4211</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>HobbyTown USA - Knoxville</td>&#10;    <td>11364 Parkside Dr </td>&#10;    <td>Knoxville</td>&#10;    <td>TN</td>&#10;    <td>37934</td>&#10;    <td>865-675-1975</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Roll the Dice</td>&#10;    <td>215 Robert Rose Dr Ste F </td>&#10;    <td>Murfreesboro</td>&#10;    <td>TN</td>&#10;    <td>37129</td>&#10;    <td>615-818-4219</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Blackthorn Game Center</td>&#10;    <td>1430 Hwy 70 E </td>&#10;    <td>Dickson</td>&#10;    <td>TN</td>&#10;    <td>37055-2220</td>&#10;    <td>615-446-6057</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Outer Limits Comics - Franklin</td>&#10;    <td>209 S Royal Oaks Blvd Ste 116</td>&#10;    <td>Franklin</td>&#10;    <td>TN</td>&#10;    <td>37064</td>&#10;    <td>615-790-2392</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Collector's Connection</td>&#10;    <td>1663 Hwy 51 Bypass </td>&#10;    <td>Dyersburg</td>&#10;    <td>TN</td>&#10;    <td>38024</td>&#10;    <td>731-285-6262</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Goose's Computers &amp; Games</td>&#10;    <td>56 Lee Ave </td>&#10;    <td>McKenzie</td>&#10;    <td>TN</td>&#10;    <td>38201</td>&#10;    <td>731-393-0337</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Showcase Comics, Games &amp; Collectibles</td>&#10;    <td>1511 E Andrew Johnson Hwy </td>&#10;    <td>Greeneville</td>&#10;    <td>TN</td>&#10;    <td>37745</td>&#10;    <td>423-638-6332</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Neverending Stories</td>&#10;    <td>1302 Hwy 100 </td>&#10;    <td>Centerville</td>&#10;    <td>TN</td>&#10;    <td>37033</td>&#10;    <td>931-729-2255</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Mike's Video Exchange</td>&#10;    <td>116 E Main St </td>&#10;    <td>Linden</td>&#10;    <td>TN</td>&#10;    <td>37096</td>&#10;    <td>731-549-6418</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Evermore Comics &amp; Games</td>&#10;    <td>1139 N Eastman Rd </td>&#10;    <td>Kingsport</td>&#10;    <td>TN</td>&#10;    <td>37664</td>&#10;    <td>423-245-0364</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Midsouth Hobbies &amp; Games</td>&#10;    <td>5130 Old Summer </td>&#10;    <td>Memphis</td>&#10;    <td>TN</td>&#10;    <td>38122</td>&#10;    <td>901-682-9402</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Masterwork Games</td>&#10;    <td>2547 Nashville Hwy Ste A</td>&#10;    <td>Columbia</td>&#10;    <td>TN</td>&#10;    <td>38401</td>&#10;    <td>931-451-5251</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Heroes Legacy</td>&#10;    <td>134 University Ave </td>&#10;    <td>Clarksville</td>&#10;    <td>TN</td>&#10;    <td>37040</td>&#10;    <td>931-378-7631</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Greater Memphis Magic Arena</td>&#10;    <td>5796 Shelby Oaks Dr Ste 2</td>&#10;    <td>Memphis</td>&#10;    <td>TN</td>&#10;    <td>38134</td>&#10;    <td>901-264-5708</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Geeks Etc</td>&#10;    <td>461 W LIncoln St </td>&#10;    <td>Tullahoma</td>&#10;    <td>TN</td>&#10;    <td>37388</td>&#10;    <td>931-563-2305</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Epikos Comics, Cards, &amp; Games</td>&#10;    <td>9408 Apison Pike Ste 9</td>&#10;    <td>Ooltewah</td>&#10;    <td>TN</td>&#10;    <td>37363</td>&#10;    <td>423-531-4184</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Bob's Collectors Den</td>&#10;    <td>206 E 9th St </td>&#10;    <td>Cookeville</td>&#10;    <td>TN</td>&#10;    <td>38501</td>&#10;    <td>931-526-2311</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dicehead Games</td>&#10;    <td>200 Paul Huff Pkwy Bradley Square Mall Ste 12</td>&#10;    <td>Cleveland</td>&#10;    <td>TN</td>&#10;    <td>37312</td>&#10;    <td>423-473-7125</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>CM Games &amp; Toys - Kingston Pike #1</td>&#10;    <td>7600 Kingston Pike Ste 1436</td>&#10;    <td>Knoxville</td>&#10;    <td>TN</td>&#10;    <td>37919</td>&#10;    <td>865-470-7774</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>MWO Games</td>&#10;    <td>2516 Volunteer Pkwy </td>&#10;    <td>Bristol</td>&#10;    <td>TN</td>&#10;    <td>37620</td>&#10;    <td>423-764-1720</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Nerdvana</td>&#10;    <td>1923 Emporium Dr Ste F</td>&#10;    <td>Jackson</td>&#10;    <td>TN</td>&#10;    <td>38305</td>&#10;    <td>731-868-1331</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>CM Games &amp; Toys - Knoxville</td>&#10;    <td>3001 Knoxville Center Dr Ste 2220</td>&#10;    <td>Knoxville</td>&#10;    <td>TN</td>&#10;    <td>37924</td>&#10;    <td>865-673-9271</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Rick's Cards &amp; Collectibles</td>&#10;    <td>2026 Ft Campbell Blvd Ste B</td>&#10;    <td>Clarksville</td>&#10;    <td>TN</td>&#10;    <td>37042</td>&#10;    <td>931-647-9843</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>G2K Games Inc - Johnson City</td>&#10;    <td>3101 Brown's Mill Rd Suite 16 </td>&#10;    <td>Johnson City</td>&#10;    <td>TN</td>&#10;    <td>37604</td>&#10;    <td>423-915-1000</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Power Play Cards &amp; Games</td>&#10;    <td>134 Main St Suite #1 </td>&#10;    <td>New Tazewell</td>&#10;    <td>TN</td>&#10;    <td>37825-6634</td>&#10;    <td>865-585-9292</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Grand Adventures Comics</td>&#10;    <td>803 N Thompson Ln Ste 102A</td>&#10;    <td>Murfreesboro</td>&#10;    <td>TN</td>&#10;    <td>37129</td>&#10;    <td>615-867-0838</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comix City Too!</td>&#10;    <td>1440 Gallatin Rd N </td>&#10;    <td>Madison</td>&#10;    <td>TN</td>&#10;    <td>37115</td>&#10;    <td>615-868-3339</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>B&amp;M Amusement</td>&#10;    <td>5036 Hwy 58 </td>&#10;    <td>Chattanooga</td>&#10;    <td>TN</td>&#10;    <td>37416</td>&#10;    <td>423-490-1162</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Organized Play</td>&#10;    <td>131 S Central St </td>&#10;    <td>Knoxville</td>&#10;    <td>TN</td>&#10;    <td>37902</td>&#10;    <td>865-521-0690</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>HobbyTown USA - Bartlett</td>&#10;    <td>8000 US Hwy 64 Ste 104</td>&#10;    <td>Bartlett</td>&#10;    <td>TN</td>&#10;    <td>38133</td>&#10;    <td>901-870-1268</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>IronClad Comics</td>&#10;    <td>504 W Main St Ste 103</td>&#10;    <td>Sevierville</td>&#10;    <td>TN</td>&#10;    <td>37862</td>&#10;    <td>865-774-7400</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Sunrise Games &amp; Comics</td>&#10;    <td>8500 Dyer St Ste 16</td>&#10;    <td>El Paso</td>&#10;    <td>TX</td>&#10;    <td>79904</td>&#10;    <td>915-757-0700</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Bad Wolf Gaming</td>&#10;    <td>216 E Burke Ave </td>&#10;    <td>Lufkin</td>&#10;    <td>TX</td>&#10;    <td>75901</td>&#10;    <td>936-632-5069</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Whirlwind Comics</td>&#10;    <td>3933 Boat Club rd Ste B</td>&#10;    <td>Lake Worth</td>&#10;    <td>TX</td>&#10;    <td>76135</td>&#10;    <td>817-237-5080</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Table's Edge, The</td>&#10;    <td>4515 S Georgia St Ste 131</td>&#10;    <td>Amarillo</td>&#10;    <td>TX</td>&#10;    <td>79110</td>&#10;    <td>806-373-5508</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Whose Turn Is It? Games</td>&#10;    <td>2708 S Lamar Blvd Ste 100B</td>&#10;    <td>Austin</td>&#10;    <td>TX</td>&#10;    <td>78704</td>&#10;    <td>512-294-2740</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Bo's Restaurant &amp; Games</td>&#10;    <td>15155 Bellaire Blvd </td>&#10;    <td>Houston</td>&#10;    <td>TX</td>&#10;    <td>77083</td>&#10;    <td>281-731-2661</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Alien Worlds - San Pedro</td>&#10;    <td>6900 San Pedro Ave Ste 121</td>&#10;    <td>San Antonio</td>&#10;    <td>TX</td>&#10;    <td>78216</td>&#10;    <td>210-826-3800</td>&#10;    <td>&#10;  </td></tr>&#10;  <tr>&#10;    <td>Mad Hatter's House Of Games</td>&#10;    <td>5015 University Ave Ste A-9</td>&#10;    <td>Lubbock</td>&#10;    <td>TX</td>&#10;    <td>79413</td>&#10;    <td>806-763-4054</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Heroes Collectibles</td>&#10;    <td>1570 S Dairy Ashford Rd Ste 109</td>&#10;    <td>Houston</td>&#10;    <td>TX</td>&#10;    <td>77077</td>&#10;    <td>281-497-0221</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dragon's Lair Comics &amp; Fantasy - Austin</td>&#10;    <td>6111 Burnet Rd </td>&#10;    <td>Austin</td>&#10;    <td>TX</td>&#10;    <td>78757</td>&#10;    <td>512-454-2399</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Lyons Den, The</td>&#10;    <td>365 N Main St </td>&#10;    <td>Vidor</td>&#10;    <td>TX</td>&#10;    <td>77662</td>&#10;    <td>409-783-3393</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>West Texas Cards &amp; Games</td>&#10;    <td>2622 N Grandview Ave </td>&#10;    <td>Odessa</td>&#10;    <td>TX</td>&#10;    <td>79761</td>&#10;    <td>432-366-0550</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Generation X Comics, Cards, &amp; Games</td>&#10;    <td>239 N Industrial Blvd </td>&#10;    <td>Bedford</td>&#10;    <td>TX</td>&#10;    <td>76021-6103</td>&#10;    <td>817-540-5556</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Skirmish Games</td>&#10;    <td>8317 Spencer Hwy </td>&#10;    <td>Deer Park</td>&#10;    <td>TX</td>&#10;    <td>77536</td>&#10;    <td>281-542-6500</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gunslinger Games</td>&#10;    <td>10354 Miller Rd </td>&#10;    <td>Dallas</td>&#10;    <td>TX</td>&#10;    <td>75238</td>&#10;    <td>214-553-5873</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Castle, The</td>&#10;    <td>5615 Troup Hwy Ste 101</td>&#10;    <td>Tyler</td>&#10;    <td>TX</td>&#10;    <td>75707</td>&#10;    <td>903-581-2278</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Stronghold Games, Cards &amp; Collectibles, The</td>&#10;    <td>418 S Missouri Ave </td>&#10;    <td>Weslaco</td>&#10;    <td>TX</td>&#10;    <td>78596</td>&#10;    <td>956-975-0996</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Asgard Games</td>&#10;    <td>3302 S Shepherd </td>&#10;    <td>Houston</td>&#10;    <td>TX</td>&#10;    <td>77098</td>&#10;    <td>713-677-0699</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Montag's Games</td>&#10;    <td>9430 Broadway St #128 </td>&#10;    <td>Pearland</td>&#10;    <td>TX</td>&#10;    <td>77584</td>&#10;    <td>281-412-4100</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>R &amp; R Comics &amp; Games</td>&#10;    <td>13429 Woodforest Blvd </td>&#10;    <td>Houston</td>&#10;    <td>TX</td>&#10;    <td>77015</td>&#10;    <td>713-455-3704</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Battlefield Games</td>&#10;    <td>4200 E Stan Schlueter Loop Ste A</td>&#10;    <td>Killeen</td>&#10;    <td>TX</td>&#10;    <td>76542</td>&#10;    <td>254-554-5596</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Evolution Games</td>&#10;    <td>6212 McCart Ave </td>&#10;    <td>Fort Worth</td>&#10;    <td>TX</td>&#10;    <td>76133</td>&#10;    <td>817-585-1399</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Sci Fi-Factory</td>&#10;    <td>10716 N Beach St </td>&#10;    <td>Fort Worth</td>&#10;    <td>TX</td>&#10;    <td>76244</td>&#10;    <td>682-231-3228</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Astral Castle</td>&#10;    <td>10 Meta Dr </td>&#10;    <td>Midland</td>&#10;    <td>TX</td>&#10;    <td>79701</td>&#10;    <td>432-520-6463</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Fat Ogre Games &amp; Comics</td>&#10;    <td>525 Sawdust Rd Ste 101</td>&#10;    <td>Spring</td>&#10;    <td>TX</td>&#10;    <td>77380</td>&#10;    <td>281-292-8444</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Juniors</td>&#10;    <td>2110 Slaughter Ln Ste 147</td>&#10;    <td>Austin</td>&#10;    <td>TX</td>&#10;    <td>78748</td>&#10;    <td>512-282-1302</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Fantasy Quest</td>&#10;    <td>1010 Lasalle Dr Ste W-2</td>&#10;    <td>Sherman</td>&#10;    <td>TX</td>&#10;    <td>75090</td>&#10;    <td>903-487-6650</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>All Star Comics</td>&#10;    <td>3520 Highway 365 </td>&#10;    <td>Nederland</td>&#10;    <td>TX</td>&#10;    <td>77627</td>&#10;    <td>409-724-6077</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Texas Battle Bunker</td>&#10;    <td>1964 Northpark Dr Ste C</td>&#10;    <td>Kingwood</td>&#10;    <td>TX</td>&#10;    <td>77339</td>&#10;    <td>281-359-3168</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Heart of the Cards</td>&#10;    <td>1810 Junction Hwy #106 </td>&#10;    <td>Kerrville</td>&#10;    <td>TX</td>&#10;    <td>78028</td>&#10;    <td>830-257-1155</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Jomio &amp; Rueliete's Cards &amp; Comics</td>&#10;    <td>2101 CR 381 </td>&#10;    <td>Early</td>&#10;    <td>TX</td>&#10;    <td>76802</td>&#10;    <td>325-998-5783</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Big World Comics</td>&#10;    <td>1104 E Beltline Rd Ste 104</td>&#10;    <td>Carrollton</td>&#10;    <td>TX</td>&#10;    <td>75006</td>&#10;    <td>972-245-0968</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gathering Grounds, The</td>&#10;    <td>601 Pecan Blvd Ste C</td>&#10;    <td>McAllen</td>&#10;    <td>TX</td>&#10;    <td>78501</td>&#10;    <td>956-686-2044</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Beanie Planet</td>&#10;    <td>4126-D N Mesa St </td>&#10;    <td>El Paso</td>&#10;    <td>TX</td>&#10;    <td>79902</td>&#10;    <td>915-543-9696</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Galaxy Books &amp; Comics</td>&#10;    <td>3308 Kemp Blvd Ste 2</td>&#10;    <td>Wichita Falls</td>&#10;    <td>TX</td>&#10;    <td>76308</td>&#10;    <td>940-692-3200</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Lone Star Comics - Hurst</td>&#10;    <td>931 Melbourne Rd </td>&#10;    <td>Hurst</td>&#10;    <td>TX</td>&#10;    <td>76053</td>&#10;    <td>817-595-4375</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comics Unlimited</td>&#10;    <td>623 N 77 Sunshine Strip </td>&#10;    <td>Harlingen</td>&#10;    <td>TX</td>&#10;    <td>78550</td>&#10;    <td>956-412-7808</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Geek World</td>&#10;    <td>410 W Southwest Loop 323 Ste B</td>&#10;    <td>Tyler</td>&#10;    <td>TX</td>&#10;    <td>75701</td>&#10;    <td>903-363-9751</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Harbor Games</td>&#10;    <td>1642 S Meadows Dr </td>&#10;    <td>Granbury</td>&#10;    <td>TX</td>&#10;    <td>76048</td>&#10;    <td>682-936-6819</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Pegasus Loft</td>&#10;    <td>4128 Burkburnett Rd Ste 6</td>&#10;    <td>Wichita Falls</td>&#10;    <td>TX</td>&#10;    <td>76306</td>&#10;    <td>940-855-5020</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Sunblast Comics</td>&#10;    <td>525 S Texas Blvd </td>&#10;    <td>Weslaco</td>&#10;    <td>TX</td>&#10;    <td>78596</td>&#10;    <td>956-969-2200</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Knix Comics &amp; Games, The</td>&#10;    <td>1302 Sam Houston Ave Ste B</td>&#10;    <td>Huntsville</td>&#10;    <td>TX</td>&#10;    <td>77340</td>&#10;    <td>936-291-2216</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>More Fun Comics &amp; Games - Lancaster</td>&#10;    <td>3250 W Pleasant Rd Ste 235</td>&#10;    <td>Lancaster</td>&#10;    <td>TX</td>&#10;    <td>75146</td>&#10;    <td>972-223-8386</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Black Dog Enterprises</td>&#10;    <td>1301 University Av </td>&#10;    <td>Lubbock</td>&#10;    <td>TX</td>&#10;    <td>79401</td>&#10;    <td>806-749-3060</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Millennium Starr</td>&#10;    <td>1110 E US Hwy 83 </td>&#10;    <td>Rio Grande</td>&#10;    <td>TX</td>&#10;    <td>78582</td>&#10;    <td>956-263-1522</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Swords &amp; Superheroes - Kingwood</td>&#10;    <td>2515 Chestnut Ridge Dr </td>&#10;    <td>Kingwood</td>&#10;    <td>TX</td>&#10;    <td>77339</td>&#10;    <td>936-650-7900</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>8th Dimension Comics &amp; Games</td>&#10;    <td>8475 Hwy 6 N Ste C2</td>&#10;    <td>Houston</td>&#10;    <td>TX</td>&#10;    <td>77095</td>&#10;    <td>281-856-6506</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gerard's One Stop Gaming Shop</td>&#10;    <td>349 El Dorado Blvd </td>&#10;    <td>Webster</td>&#10;    <td>TX</td>&#10;    <td>77598</td>&#10;    <td>281-984-7139</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Ka-Boom Comics &amp; Collectibles</td>&#10;    <td>801 Pecan Blvd Ste A</td>&#10;    <td>McAllen</td>&#10;    <td>TX</td>&#10;    <td>78501</td>&#10;    <td>956-630-2666</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Pat's Games</td>&#10;    <td>2308 Hancock Dr </td>&#10;    <td>Austin</td>&#10;    <td>TX</td>&#10;    <td>78756</td>&#10;    <td>512-451-2223</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Madness Games &amp; Comics - Plano</td>&#10;    <td>3000 Custer Rd, Ste 150 </td>&#10;    <td>Plano</td>&#10;    <td>TX</td>&#10;    <td>75075</td>&#10;    <td>972-943-8135</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Ooples</td>&#10;    <td>7460 Callaghan Rd Ste 410</td>&#10;    <td>San Antonio</td>&#10;    <td>TX</td>&#10;    <td>78229</td>&#10;    <td>210-370-3203</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comic Asylum</td>&#10;    <td>905 N Jupiter Rd #170</td>&#10;    <td>Richardson</td>&#10;    <td>TX</td>&#10;    <td>75081</td>&#10;    <td>972-231-8939</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Sun City Games</td>&#10;    <td>1716 East Yandell, Ste A </td>&#10;    <td>El Paso</td>&#10;    <td>TX</td>&#10;    <td>79902</td>&#10;    <td>915-546-2733</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Clockwork Games &amp; Events</td>&#10;    <td>903 A Harvey Rd </td>&#10;    <td>College Station</td>&#10;    <td>TX</td>&#10;    <td>77840</td>&#10;    <td>979-703-1838</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Reaper Game Store</td>&#10;    <td>9062 Teasley Ln </td>&#10;    <td>Denton</td>&#10;    <td>TX</td>&#10;    <td>76210</td>&#10;    <td>940-484-9512</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Strike Zone - Houston</td>&#10;    <td>10904 Scarsdale Blvd Ste 280 </td>&#10;    <td>Houston</td>&#10;    <td>TX</td>&#10;    <td>77089-6068</td>&#10;    <td>281-484-7875</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Heroes &amp; Fantasies - Universal City</td>&#10;    <td>914 Pat Booker Rd </td>&#10;    <td>Universal City</td>&#10;    <td>TX</td>&#10;    <td>78148</td>&#10;    <td>210-945-4376</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Wonko's Toys &amp; Games</td>&#10;    <td>13776 N Hwy 183 Ste 116</td>&#10;    <td>Austin</td>&#10;    <td>TX</td>&#10;    <td>78750</td>&#10;    <td>512-335-1000</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Area 51 Games</td>&#10;    <td>201 N Barton St </td>&#10;    <td>Grapevine</td>&#10;    <td>TX</td>&#10;    <td>76051</td>&#10;    <td>817-416-2595</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Heroes &amp; Fantasies - San Antonio</td>&#10;    <td>4923 NW Loop 410 </td>&#10;    <td>San Antonio</td>&#10;    <td>TX</td>&#10;    <td>78229</td>&#10;    <td>210-340-0074</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Top Deck Gamers</td>&#10;    <td>2379 NE Loop 410 Ste 110</td>&#10;    <td>San Antonio</td>&#10;    <td>TX</td>&#10;    <td>78217</td>&#10;    <td>210-485-4307</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>3rd Coast Cards</td>&#10;    <td>20829 Kingsland Blvd Ste C</td>&#10;    <td>Katy</td>&#10;    <td>TX</td>&#10;    <td>77450</td>&#10;    <td>281-599-7050</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gamers Grove</td>&#10;    <td>1518 University Ave </td>&#10;    <td>Huntsville</td>&#10;    <td>TX</td>&#10;    <td>77340</td>&#10;    <td>936-435-1119</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Closet, The</td>&#10;    <td>3122 Franklin Ave </td>&#10;    <td>Waco</td>&#10;    <td>TX</td>&#10;    <td>76710</td>&#10;    <td>254-751-7251</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Book Stan - Killeen</td>&#10;    <td>204 N Fort Hood Rd Ste D</td>&#10;    <td>Killeen</td>&#10;    <td>TX</td>&#10;    <td>76541</td>&#10;    <td>254-628-1515</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>DNA Comics &amp; Collectibles</td>&#10;    <td>20032 Hwy 59 N </td>&#10;    <td>Humble</td>&#10;    <td>TX</td>&#10;    <td>77338</td>&#10;    <td>281-446-4131</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Cosmic Comics &amp; Cards</td>&#10;    <td>728 E Marshall Dr </td>&#10;    <td>Grand Prairie</td>&#10;    <td>TX</td>&#10;    <td>75051</td>&#10;    <td>972-264-0617</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Lone Star Comics - Arlington Central</td>&#10;    <td>1215 S Cooper St </td>&#10;    <td>Arlington</td>&#10;    <td>TX</td>&#10;    <td>76010</td>&#10;    <td>817-265-0491</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Bad Wolf Trading</td>&#10;    <td>16911 Old Louetta Rd </td>&#10;    <td>Houston</td>&#10;    <td>TX</td>&#10;    <td>77070</td>&#10;    <td>832-717-4298</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hobby House, The</td>&#10;    <td>822 E King Ave </td>&#10;    <td>Kingsville</td>&#10;    <td>TX</td>&#10;    <td>78363</td>&#10;    <td>361-516-1380</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>BCS Books &amp; Comics</td>&#10;    <td>701 Inwood Dr </td>&#10;    <td>Bryan</td>&#10;    <td>TX</td>&#10;    <td>77802-4028</td>&#10;    <td>979-846-7412</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dragon's Lair Comics &amp; Fantasy - San Antonio</td>&#10;    <td>7959 Fredericksburg Rd Suite 129</td>&#10;    <td>San Antonio</td>&#10;    <td>TX</td>&#10;    <td>78229</td>&#10;    <td>210-615-1229</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Black 7 Comics</td>&#10;    <td>1110 W Main St </td>&#10;    <td>Lewisville</td>&#10;    <td>TX</td>&#10;    <td>75067</td>&#10;    <td>972-420-0161</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Tenth Planet Games &amp; Comics</td>&#10;    <td>200 S Bell Blvd Ste F1</td>&#10;    <td>Cedar Park</td>&#10;    <td>TX</td>&#10;    <td>78613</td>&#10;    <td>512-506-8500</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Legends Tournament Center</td>&#10;    <td>2813 Central dr </td>&#10;    <td>Bedford</td>&#10;    <td>TX</td>&#10;    <td>76021</td>&#10;    <td>817-685-0855</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gamelot - San Antonio</td>&#10;    <td>7007 Bandera Rd Ste #3 </td>&#10;    <td>San Antonio</td>&#10;    <td>TX</td>&#10;    <td>78238</td>&#10;    <td>210-684-0101</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Cards &amp; Crafts</td>&#10;    <td>8104 Tezel Rd </td>&#10;    <td>San Antonio</td>&#10;    <td>TX</td>&#10;    <td>78250</td>&#10;    <td>210-647-9949</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Excalibur Comics Cards &amp; Games</td>&#10;    <td>2811 N State Line Ave </td>&#10;    <td>Texarkana</td>&#10;    <td>TX</td>&#10;    <td>75503</td>&#10;    <td>903-792-5767</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Card Store</td>&#10;    <td>104 W Hallmark Ave </td>&#10;    <td>Killeen</td>&#10;    <td>TX</td>&#10;    <td>76541</td>&#10;    <td>254-634-1636</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Mana Fix, The</td>&#10;    <td>1481 W South Loop Ste 6</td>&#10;    <td>Stephenville</td>&#10;    <td>TX</td>&#10;    <td>76401</td>&#10;    <td>254-965-4684</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Black Hole Gaming</td>&#10;    <td>130 Valiant St Bldg 222 Ste 103</td>&#10;    <td>Goodfellow AFB</td>&#10;    <td>TX</td>&#10;    <td>76908</td>&#10;    <td>325-262-6621</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Specialties</td>&#10;    <td>2011 Knickerbocker Rd </td>&#10;    <td>San Angelo</td>&#10;    <td>TX</td>&#10;    <td>76904</td>&#10;    <td>325-947-5234</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gamers Den, The</td>&#10;    <td>6410 Weber Rd Ste 7</td>&#10;    <td>Corpus Christi</td>&#10;    <td>TX</td>&#10;    <td>78413</td>&#10;    <td>361-853-5337</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Madness Comics &amp; Games - Denton</td>&#10;    <td>111 E University Dr Ste 112</td>&#10;    <td>Denton</td>&#10;    <td>TX</td>&#10;    <td>76209</td>&#10;    <td>940-591-9771</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Lone Star Comics - Fort Worth</td>&#10;    <td>5429 S Hulen St </td>&#10;    <td>Fort Worth</td>&#10;    <td>TX</td>&#10;    <td>76132</td>&#10;    <td>817-346-7773</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Lone Star Comics - Mesquite</td>&#10;    <td>3501 Gus Thomasson Rd #51</td>&#10;    <td>Mesquite</td>&#10;    <td>TX</td>&#10;    <td>75150</td>&#10;    <td>972-681-2040</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Master</td>&#10;    <td>5111 Rowlett Rd </td>&#10;    <td>Rowlett</td>&#10;    <td>TX</td>&#10;    <td>75088</td>&#10;    <td>972-412-1778</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Cards &amp; Comics Connection</td>&#10;    <td>1201 North Loop 336 West Ste B</td>&#10;    <td>Conroe</td>&#10;    <td>TX</td>&#10;    <td>77301</td>&#10;    <td>936-756-4839</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Varm's Gameroom</td>&#10;    <td>422 Plantation Drive </td>&#10;    <td>Lake Jackson</td>&#10;    <td>TX</td>&#10;    <td>77566</td>&#10;    <td>979-529-9380</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gathering Place, The</td>&#10;    <td>710 Butternut St Ste C</td>&#10;    <td>Abilene</td>&#10;    <td>TX</td>&#10;    <td>79602</td>&#10;    <td>325-669-5576</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Ground Zero Comics</td>&#10;    <td>2714 East Fifth St </td>&#10;    <td>Tyler</td>&#10;    <td>TX</td>&#10;    <td>75701</td>&#10;    <td>903-566-1185</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>T-House</td>&#10;    <td>10826 Grant Rd Ste B</td>&#10;    <td>Houston</td>&#10;    <td>TX</td>&#10;    <td>77070</td>&#10;    <td>832-881-7198</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>DSC Toys</td>&#10;    <td>5300 San Dario Ave Ste 113</td>&#10;    <td>Laredo</td>&#10;    <td>TX</td>&#10;    <td>78041</td>&#10;    <td>956-722-8888</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Myth Adventures</td>&#10;    <td>4617 N 10th St </td>&#10;    <td>McAllen</td>&#10;    <td>TX</td>&#10;    <td>78504</td>&#10;    <td>956-687-3104</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Alpha Strike Games</td>&#10;    <td>829 N LBJ Dr Ste 105</td>&#10;    <td>San Marcos</td>&#10;    <td>TX</td>&#10;    <td>78666</td>&#10;    <td>512-749-1093</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gameday Cards &amp; Comics</td>&#10;    <td>1814 US Hwy 281 </td>&#10;    <td>Marble Falls</td>&#10;    <td>TX</td>&#10;    <td>78654</td>&#10;    <td>830-798-2787</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Quest - Amarillo</td>&#10;    <td>2811 SW 6th Ave </td>&#10;    <td>Amarillo</td>&#10;    <td>TX</td>&#10;    <td>79106</td>&#10;    <td>806-342-4263</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Silver Jem Games</td>&#10;    <td>301 E 12th St Ste B</td>&#10;    <td>Joshua</td>&#10;    <td>TX</td>&#10;    <td>76058</td>&#10;    <td>817-526-3754</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Card Traders of Austin</td>&#10;    <td>8650 Spicewood Springs Rd Ste 128</td>&#10;    <td>Austin</td>&#10;    <td>TX</td>&#10;    <td>78759</td>&#10;    <td>512-250-0958</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Roll2Play</td>&#10;    <td>150 S Denton Tap Rd Ste 111</td>&#10;    <td>Coppell</td>&#10;    <td>TX</td>&#10;    <td>75019</td>&#10;    <td>972-462-7788</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Rogues Gallery Comics and Games</td>&#10;    <td>1601 IH-35 #360 </td>&#10;    <td>Round Rock</td>&#10;    <td>TX</td>&#10;    <td>78664</td>&#10;    <td>512-279-8888</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Boomerang Comics</td>&#10;    <td>729 Hebron Pkwy #190</td>&#10;    <td>Lewisville</td>&#10;    <td>TX</td>&#10;    <td>75057</td>&#10;    <td>972-315-5291</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Sports Maniac Cards &amp; Collectibles</td>&#10;    <td>4001 Sunset Dr Ste 1142</td>&#10;    <td>San Angelo</td>&#10;    <td>TX</td>&#10;    <td>76904</td>&#10;    <td>325-224-8310</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>DSC Hobby</td>&#10;    <td>2370 N Expressway Ste 1010</td>&#10;    <td>Brownsville</td>&#10;    <td>TX</td>&#10;    <td>78521</td>&#10;    <td>956-572-8652</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Haven - Tooele</td>&#10;    <td>762 N Main St </td>&#10;    <td>Tooele</td>&#10;    <td>UT</td>&#10;    <td>84074</td>&#10;    <td>435-248-0644</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Toad &amp; Tricycle Games</td>&#10;    <td>77 N Main St </td>&#10;    <td>Logan</td>&#10;    <td>UT</td>&#10;    <td>84321</td>&#10;    <td>801-369-1561</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dragon's Keep - Orem</td>&#10;    <td>48 W 300 North </td>&#10;    <td>Orem</td>&#10;    <td>UT</td>&#10;    <td>84057</td>&#10;    <td>801-225-5039</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Blakfyre Games</td>&#10;    <td>391 S Main St </td>&#10;    <td>Pleasant Grove</td>&#10;    <td>UT</td>&#10;    <td>84062</td>&#10;    <td>801-785-9713</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Heebeegeebeez - Layton</td>&#10;    <td>1986 N Hill Field Rd Ste 2</td>&#10;    <td>Layton</td>&#10;    <td>UT</td>&#10;    <td>84041</td>&#10;    <td>801-779-4965</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Night Games</td>&#10;    <td>2148 S 900 E Ste 2 </td>&#10;    <td>Salt Lake City</td>&#10;    <td>UT</td>&#10;    <td>84106</td>&#10;    <td>801-467-2400</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gameland World</td>&#10;    <td>32 E Utah Ave </td>&#10;    <td>Payson</td>&#10;    <td>UT</td>&#10;    <td>84651</td>&#10;    <td>801-465-4605</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Wild On Hobbies</td>&#10;    <td>81 W Main St </td>&#10;    <td>Vernal</td>&#10;    <td>UT</td>&#10;    <td>84078</td>&#10;    <td>435-789-9285</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dr Volts Comics</td>&#10;    <td>2043 E 3300 S </td>&#10;    <td>Salt Lake City</td>&#10;    <td>UT</td>&#10;    <td>84109</td>&#10;    <td>801-485-6114</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Boardgame Revolution</td>&#10;    <td>411 E 1400 S </td>&#10;    <td>Orem</td>&#10;    <td>UT</td>&#10;    <td>84058</td>&#10;    <td>801-765-7535</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>OffCenter Games</td>&#10;    <td>61 N 100 W #B</td>&#10;    <td>Moab</td>&#10;    <td>UT</td>&#10;    <td>84532</td>&#10;    <td>435-260-2123</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>End Zone Hobby Center</td>&#10;    <td>133 S State St Ste 5</td>&#10;    <td>Clearfield</td>&#10;    <td>UT</td>&#10;    <td>84015</td>&#10;    <td>801-774-5050</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Haven - West Jordan</td>&#10;    <td>1609 W 9000 S </td>&#10;    <td>West Jordan</td>&#10;    <td>UT</td>&#10;    <td>84088</td>&#10;    <td>801-304-4263</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Epic Puzzles &amp; Games - Lehi</td>&#10;    <td>785 E 200 S Ste 1</td>&#10;    <td>Lehi</td>&#10;    <td>UT</td>&#10;    <td>84043</td>&#10;    <td>801-477-7680</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Epic Puzzles &amp; Games</td>&#10;    <td>3612 W 4700 S Ste 4</td>&#10;    <td>West Valley City</td>&#10;    <td>UT</td>&#10;    <td>84118</td>&#10;    <td>801-982-0167</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Den, The - Taylorsville</td>&#10;    <td>2590 W 4700 S </td>&#10;    <td>Salt Lake City</td>&#10;    <td>UT</td>&#10;    <td>84129</td>&#10;    <td>801-969-0074</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Den, The - Provo</td>&#10;    <td>2255 N University Pkway #43</td>&#10;    <td>Provo</td>&#10;    <td>UT</td>&#10;    <td>84604</td>&#10;    <td>801-852-4123</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Oasis Games</td>&#10;    <td>145 E 200 S </td>&#10;    <td>Salt Lake City</td>&#10;    <td>UT</td>&#10;    <td>84111</td>&#10;    <td>801-738-4413</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dragon's Keep - Provo</td>&#10;    <td>260 N University Ave </td>&#10;    <td>Provo</td>&#10;    <td>UT</td>&#10;    <td>84601</td>&#10;    <td>801-373-3482</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gamer's Asylum</td>&#10;    <td>2671 Washington Blvd </td>&#10;    <td>Ogden</td>&#10;    <td>UT</td>&#10;    <td>84401</td>&#10;    <td>801-621-4752</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Heebeegeebeez - Logan</td>&#10;    <td>541 N Main St </td>&#10;    <td>Logan</td>&#10;    <td>UT</td>&#10;    <td>84321</td>&#10;    <td>435-752-6642</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Haven - Bountiful</td>&#10;    <td>273 W 500 S Ste 6</td>&#10;    <td>Bountiful</td>&#10;    <td>UT</td>&#10;    <td>84010</td>&#10;    <td>801-298-3261</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Card Cavern, The</td>&#10;    <td>525 W State St </td>&#10;    <td>Hurricane</td>&#10;    <td>UT</td>&#10;    <td>84737</td>&#10;    <td>801-362-2751</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Heebeegeebeez - Ogden</td>&#10;    <td>2574 Washington Blvd </td>&#10;    <td>Ogden</td>&#10;    <td>UT</td>&#10;    <td>84401</td>&#10;    <td>801-392-5094</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>HaJoMaJe Games &amp; Comics</td>&#10;    <td>12 S Main St </td>&#10;    <td>Kaysville</td>&#10;    <td>UT</td>&#10;    <td>84037</td>&#10;    <td>801-544-2899</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Grid - North Ogden</td>&#10;    <td>2576 N 400 E </td>&#10;    <td>North Ogden</td>&#10;    <td>UT</td>&#10;    <td>84414</td>&#10;    <td>801-782-6242</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hastur Games &amp; Comics</td>&#10;    <td>6831 South State St. </td>&#10;    <td>Midvale</td>&#10;    <td>UT</td>&#10;    <td>84047</td>&#10;    <td>801-352-2605</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gunjah the Bead Forest</td>&#10;    <td>41 N Main St </td>&#10;    <td>Cedar City</td>&#10;    <td>UT</td>&#10;    <td>84720</td>&#10;    <td>435-865-7774</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>BK Eternity Corp</td>&#10;    <td>96 W Hoover Ave </td>&#10;    <td>Cedar City</td>&#10;    <td>UT</td>&#10;    <td>84720</td>&#10;    <td>435-267-2497</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Fongo Bongo Games</td>&#10;    <td>1733 W 12600 S Ste 110</td>&#10;    <td>Riverton</td>&#10;    <td>UT</td>&#10;    <td>84065</td>&#10;    <td>801-938-5962</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comics Plus</td>&#10;    <td>348 W St George Blvd </td>&#10;    <td>St George</td>&#10;    <td>UT</td>&#10;    <td>84770</td>&#10;    <td>435-673-3229</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Haven - Saint George</td>&#10;    <td>2376 E Redcliffs Dr Ste 311</td>&#10;    <td>Saint George</td>&#10;    <td>UT</td>&#10;    <td>84790</td>&#10;    <td>435-627-0616</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dragon's Keep - Lehi</td>&#10;    <td>189 E State St </td>&#10;    <td>Lehi</td>&#10;    <td>UT</td>&#10;    <td>84043</td>&#10;    <td>801-766-8098</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Grid</td>&#10;    <td>3585 Washington Blvd </td>&#10;    <td>Ogden</td>&#10;    <td>UT</td>&#10;    <td>84403</td>&#10;    <td>801-689-3558</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comic Book Heaven</td>&#10;    <td>4221 Pleasant Valley Rd Ste 104</td>&#10;    <td>Virginia Beach</td>&#10;    <td>VA</td>&#10;    <td>23464</td>&#10;    <td>757-222-9511</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comics &amp; Games Outpost</td>&#10;    <td>7556 Gardner Park Dr </td>&#10;    <td>Gainesville</td>&#10;    <td>VA</td>&#10;    <td>20155</td>&#10;    <td>571-248-6722</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Victory Comics</td>&#10;    <td>586 So. Washington St. </td>&#10;    <td>Falls Church</td>&#10;    <td>VA</td>&#10;    <td>22046</td>&#10;    <td>703-241-9393</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Kaboom</td>&#10;    <td>859 S Lynnhaven Rd </td>&#10;    <td>Virginia Beach</td>&#10;    <td>VA</td>&#10;    <td>23452</td>&#10;    <td>757-301-9187</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Huzzah Hobbies</td>&#10;    <td>44927 George Washington Blvd Ste 135</td>&#10;    <td>Ashburn</td>&#10;    <td>VA</td>&#10;    <td>20147</td>&#10;    <td>703-466-0460</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Lostshade Games &amp; Hobbies</td>&#10;    <td>182 Neff Ave Ste W-1</td>&#10;    <td>Harrisonburg</td>&#10;    <td>VA</td>&#10;    <td>22801</td>&#10;    <td>540-438-5678</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game On! Comics</td>&#10;    <td>310 Dominion Rd NE </td>&#10;    <td>Vienna</td>&#10;    <td>VA</td>&#10;    <td>22180</td>&#10;    <td>703-242-3838</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Collector's Heaven</td>&#10;    <td>6112 Lakeside Ave </td>&#10;    <td>Richmond</td>&#10;    <td>VA</td>&#10;    <td>23228</td>&#10;    <td>804-673-1127</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Cavalier Comics</td>&#10;    <td>109 Glade Street SE Unit E</td>&#10;    <td>Wise</td>&#10;    <td>VA</td>&#10;    <td>24293</td>&#10;    <td>276-328-9312</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Bardic Tales Inc</td>&#10;    <td>3512 Oaklawn Blvd Ste C</td>&#10;    <td>Hopewell</td>&#10;    <td>VA</td>&#10;    <td>23860</td>&#10;    <td>804-541-0231</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Jersey's Cards &amp; Comics - Hampton</td>&#10;    <td>1818-G Todds Ln </td>&#10;    <td>Hampton</td>&#10;    <td>VA</td>&#10;    <td>23666</td>&#10;    <td>757-825-0097</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hobbies Etc</td>&#10;    <td>251 W Lee Hwy Ste 699</td>&#10;    <td>Warrenton</td>&#10;    <td>VA</td>&#10;    <td>20186</td>&#10;    <td>540-347-9212</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Five Mana Games</td>&#10;    <td>2234 W Beverley St </td>&#10;    <td>Staunton</td>&#10;    <td>VA</td>&#10;    <td>24401</td>&#10;    <td>540-414-6305</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Anime Pavilion</td>&#10;    <td>115 Hillwood Ave Ste 10 </td>&#10;    <td>Falls Church</td>&#10;    <td>VA</td>&#10;    <td>22046</td>&#10;    <td>703-534-1544</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>G2K Games Inc - Abingdon</td>&#10;    <td>721 East Main Street </td>&#10;    <td>Abingdon</td>&#10;    <td>VA</td>&#10;    <td>24210</td>&#10;    <td>276-676-4263</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Rachel &amp; Roberts Sports Cards</td>&#10;    <td>937 Starling Ave </td>&#10;    <td>Martinsville</td>&#10;    <td>VA</td>&#10;    <td>24112</td>&#10;    <td>336-348-4274</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Compleat Strategist, The - Falls Church</td>&#10;    <td>103 East Broad St </td>&#10;    <td>Falls Church</td>&#10;    <td>VA</td>&#10;    <td>22046</td>&#10;    <td>703-532-2477</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Amazing Fantasy Comics 3</td>&#10;    <td>209-C Village Ave </td>&#10;    <td>Yorktown</td>&#10;    <td>VA</td>&#10;    <td>23693</td>&#10;    <td>757-874-0600</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>AJ's Sports Stop</td>&#10;    <td>255 W Maple Ave </td>&#10;    <td>Vienna</td>&#10;    <td>VA</td>&#10;    <td>22180</td>&#10;    <td>703-938-1688</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Video Game Exchange</td>&#10;    <td>207 W Main St </td>&#10;    <td>Wytheville</td>&#10;    <td>VA</td>&#10;    <td>24382-2331</td>&#10;    <td>276-228-9222</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>G2K Games - Waynesboro</td>&#10;    <td>801-C Town Center Dr Waynesboro - Town Center</td>&#10;    <td>Waynesboro</td>&#10;    <td>VA</td>&#10;    <td>22980</td>&#10;    <td>540-943-4399</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>G2K Games - Lebanon</td>&#10;    <td>1074 Regional Park Rd Ste 787</td>&#10;    <td>Lebanon</td>&#10;    <td>VA</td>&#10;    <td>24266</td>&#10;    <td>276-889-2828</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comic Kung Fu</td>&#10;    <td>672 N Loudoun St </td>&#10;    <td>Winchester</td>&#10;    <td>VA</td>&#10;    <td>22601</td>&#10;    <td>540-667-5497</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Star City Comics &amp; Games</td>&#10;    <td>5728 Williamson Rd </td>&#10;    <td>Roanoke</td>&#10;    <td>VA</td>&#10;    <td>24012</td>&#10;    <td>540-767-4263</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>One Eyed Jacques'</td>&#10;    <td>3104 W Carry Street </td>&#10;    <td>Richmond</td>&#10;    <td>VA</td>&#10;    <td>23221</td>&#10;    <td>804-359-5163</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Richmond Comix</td>&#10;    <td>14249 Midlothian Turnpike </td>&#10;    <td>Midlothian</td>&#10;    <td>VA</td>&#10;    <td>23113</td>&#10;    <td>804-594-2845</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Tower of Games</td>&#10;    <td>1400 Kempsville Rd. Suite 110 </td>&#10;    <td>Chesapeake</td>&#10;    <td>VA</td>&#10;    <td>23320</td>&#10;    <td>757-819-7913</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>End Game Center, The</td>&#10;    <td>143 Zan Road </td>&#10;    <td>Charlottesville</td>&#10;    <td>VA</td>&#10;    <td>22901</td>&#10;    <td>434-973-2205</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Atomic Comics - Hampton</td>&#10;    <td>50 W Mercury Blvd </td>&#10;    <td>Hampton</td>&#10;    <td>VA</td>&#10;    <td>23669-2509</td>&#10;    <td>757-723-5003</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Atomic Comics - Newport News</td>&#10;    <td>452 C Denbigh Blvd </td>&#10;    <td>Newport News</td>&#10;    <td>VA</td>&#10;    <td>23608</td>&#10;    <td>757-877-3756</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Atlantis Games &amp; Comics - Portsmouth</td>&#10;    <td>6231 Portsmouth Blvd </td>&#10;    <td>Portsmouth</td>&#10;    <td>VA</td>&#10;    <td>23701</td>&#10;    <td>757-465-1617</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Fun-N-Games</td>&#10;    <td>420 N Main St </td>&#10;    <td>Blacksburg</td>&#10;    <td>VA</td>&#10;    <td>24060</td>&#10;    <td>540-552-2204</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>FTW Games</td>&#10;    <td>13176 Midlothian Tpke </td>&#10;    <td>Midlothian</td>&#10;    <td>VA</td>&#10;    <td>23113</td>&#10;    <td>804-464-1873</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comic Kings</td>&#10;    <td>4404 Holland Plz Shopping Ctr </td>&#10;    <td>Virginia Beach</td>&#10;    <td>VA</td>&#10;    <td>23452</td>&#10;    <td>757-467-2254</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Untamed Worlds</td>&#10;    <td>20722 Timberlake Rd Ste K</td>&#10;    <td>Lynchburg</td>&#10;    <td>VA</td>&#10;    <td>24502</td>&#10;    <td>434-237-7115</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Silver Unicorn, The</td>&#10;    <td>205 E Broadway Ave </td>&#10;    <td>Hopewell</td>&#10;    <td>VA</td>&#10;    <td>23860</td>&#10;    <td>804-357-1525</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Parlor - Chantilly</td>&#10;    <td>13936 Metrotech Dr </td>&#10;    <td>Chantilly</td>&#10;    <td>VA</td>&#10;    <td>20151-3238</td>&#10;    <td>703-803-3114</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Time Capsule, The</td>&#10;    <td>205 1/2 E Broadway Ave </td>&#10;    <td>Hopewell</td>&#10;    <td>VA</td>&#10;    <td>23860</td>&#10;    <td>804-458-4002</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>J &amp; J Gaming</td>&#10;    <td>3240 Riverside Dr Ste 42</td>&#10;    <td>Danville</td>&#10;    <td>VA</td>&#10;    <td>24540</td>&#10;    <td>434-710-0122</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Jersey's Cards &amp; Comics - Yorktown</td>&#10;    <td>8100-D George Washington Mem Hwy </td>&#10;    <td>Yorktown</td>&#10;    <td>VA</td>&#10;    <td>23692</td>&#10;    <td>757-890-2842</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Jersey's Cards &amp; Comics - Hayes</td>&#10;    <td>4852 Rt. 17 </td>&#10;    <td>Hayes</td>&#10;    <td>VA</td>&#10;    <td>23072</td>&#10;    <td>804-824-9790</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Fantasy Escape Comics &amp; Cards</td>&#10;    <td>309 Aragona Blvd Ste 117</td>&#10;    <td>Virginia Beach</td>&#10;    <td>VA</td>&#10;    <td>23462</td>&#10;    <td>757-497-5977</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Curio Cavern</td>&#10;    <td>6701 Loisdale Rd Ste F</td>&#10;    <td>Springfield</td>&#10;    <td>VA</td>&#10;    <td>22150</td>&#10;    <td>703-347-6474</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Atlantis Games &amp; Comics - Norfolk</td>&#10;    <td>9649 1st View St </td>&#10;    <td>Norfolk</td>&#10;    <td>VA</td>&#10;    <td>23503</td>&#10;    <td>757-502-8954</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Cville's Hobbies, Games &amp; Toys</td>&#10;    <td>243B Ridge McIntire Rd </td>&#10;    <td>Charlottesville</td>&#10;    <td>VA</td>&#10;    <td>22903</td>&#10;    <td>434-984-1040</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Collectors Corner</td>&#10;    <td>47024 Harry Byrd Hwy Ste 106</td>&#10;    <td>Sterling</td>&#10;    <td>VA</td>&#10;    <td>20164</td>&#10;    <td>703-450-7280</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Quarterstaff Games</td>&#10;    <td>152 Church St </td>&#10;    <td>Burlington</td>&#10;    <td>VT</td>&#10;    <td>05401-8412</td>&#10;    <td>802-863-3666</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Rutland Collectibles</td>&#10;    <td>640 Diamond Run Mall route 7 </td>&#10;    <td>Rutland</td>&#10;    <td>VT</td>&#10;    <td>5701</td>&#10;    <td>802-747-3344</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dark Tower Gaming Shop</td>&#10;    <td>161 Western Ave </td>&#10;    <td>St Johnsbury</td>&#10;    <td>VT</td>&#10;    <td>5819</td>&#10;    <td>802-274-6382</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gamer's Grotto - VT</td>&#10;    <td>457 Main St </td>&#10;    <td>Bennington</td>&#10;    <td>VT</td>&#10;    <td>5201</td>&#10;    <td>802-447-0091</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Moon Dragon - North</td>&#10;    <td>2531 Broadway Ave Ste G</td>&#10;    <td>Everett</td>&#10;    <td>WA</td>&#10;    <td>98201</td>&#10;    <td>206-414-6037</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Shadowwalkers</td>&#10;    <td>607 E Main St </td>&#10;    <td>Battle Ground</td>&#10;    <td>WA</td>&#10;    <td>98604</td>&#10;    <td>360-687-2097</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Olympic Cards &amp; Comics</td>&#10;    <td>4230 Pacific Avenue </td>&#10;    <td>Lacey</td>&#10;    <td>WA</td>&#10;    <td>98503</td>&#10;    <td>360-459-7721</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Card Kingdom</td>&#10;    <td>5105 Leary Ave NW </td>&#10;    <td>Seattle</td>&#10;    <td>WA</td>&#10;    <td>98107</td>&#10;    <td>206-523-9605</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Shane's Big League</td>&#10;    <td>601 S Grady Way Ste R</td>&#10;    <td>Renton</td>&#10;    <td>WA</td>&#10;    <td>98057</td>&#10;    <td>425-277-3717</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gamer's Haven, The</td>&#10;    <td>2114 N Pines Rd </td>&#10;    <td>Spokane Valley</td>&#10;    <td>WA</td>&#10;    <td>99206</td>&#10;    <td>509-443-5992</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Moon Dragon Games</td>&#10;    <td>607 SE Everett Mall Way #Q</td>&#10;    <td>Everett</td>&#10;    <td>WA</td>&#10;    <td>98208</td>&#10;    <td>206-414-6137</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Adventures Underground</td>&#10;    <td>1391 George Washington Way </td>&#10;    <td>Richland</td>&#10;    <td>WA</td>&#10;    <td>99354</td>&#10;    <td>509-946-9893</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game On! - Puyallup</td>&#10;    <td>3500 S Meridian South Hill Mall Ste 135</td>&#10;    <td>Puyallup</td>&#10;    <td>WA</td>&#10;    <td>98373</td>&#10;    <td>253-848-4416</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dark Tower Games</td>&#10;    <td>1431 Railroad Ave </td>&#10;    <td>Bellingham</td>&#10;    <td>WA</td>&#10;    <td>98225</td>&#10;    <td>360-599-5127</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Games &amp; Gizmos</td>&#10;    <td>16150 NE 87th St </td>&#10;    <td>Redmond</td>&#10;    <td>WA</td>&#10;    <td>98052</td>&#10;    <td>425-497-9579</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Discordia Games</td>&#10;    <td>630 N Callow Ave </td>&#10;    <td>Bremerton</td>&#10;    <td>WA</td>&#10;    <td>98312</td>&#10;    <td>360-415-9419</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Fantasium Comics &amp; Games</td>&#10;    <td>1500 S 336th St Ste 12A</td>&#10;    <td>Federal Way</td>&#10;    <td>WA</td>&#10;    <td>98003</td>&#10;    <td>253-874-3084</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Central City Comics</td>&#10;    <td>113 E 4th Ave </td>&#10;    <td>Ellensburg</td>&#10;    <td>WA</td>&#10;    <td>98926</td>&#10;    <td>509-962-4376</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>EWU Bookstore</td>&#10;    <td>152 Pence Union Building Eastern Washington University</td>&#10;    <td>Cheney</td>&#10;    <td>WA</td>&#10;    <td>99004</td>&#10;    <td>509-359-2531</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Blitz Hobbies</td>&#10;    <td>620 S Tower Ave </td>&#10;    <td>Centralia</td>&#10;    <td>WA</td>&#10;    <td>98531</td>&#10;    <td>360-464-2352</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Sanctuary</td>&#10;    <td>509 N Western Ave Ste 111 </td>&#10;    <td>Wenatchee</td>&#10;    <td>WA</td>&#10;    <td>98801</td>&#10;    <td>509-667-2626</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Ron's Coin and book</td>&#10;    <td>6 NORTH 3RD ST </td>&#10;    <td>Yakima</td>&#10;    <td>WA</td>&#10;    <td>98901</td>&#10;    <td>509-248-1117</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Book &amp; Game Company</td>&#10;    <td>38 E Main St Ste 101</td>&#10;    <td>Walla Walla</td>&#10;    <td>WA</td>&#10;    <td>99362</td>&#10;    <td>509-529-9963</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Zero Ex Hobbies</td>&#10;    <td>5612 Ocean Beach Hwy Ste 106</td>&#10;    <td>Longview</td>&#10;    <td>WA</td>&#10;    <td>98632</td>&#10;    <td>360-353-3211</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dark Steel Cards &amp; Gaming</td>&#10;    <td>200 W Market St </td>&#10;    <td>Aberdeen</td>&#10;    <td>WA</td>&#10;    <td>98520</td>&#10;    <td>360-533-8106</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Uncle's Games - Spokane Valley</td>&#10;    <td>14700 E Indiana </td>&#10;    <td>Spokane Valley</td>&#10;    <td>WA</td>&#10;    <td>99216</td>&#10;    <td>509-891-7620</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dragonrail</td>&#10;    <td>803 E 1st St </td>&#10;    <td>Port Angeles</td>&#10;    <td>WA</td>&#10;    <td>98362</td>&#10;    <td>360-775-2844</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Anime Kat</td>&#10;    <td>110 W First St </td>&#10;    <td>Port Angeles</td>&#10;    <td>WA</td>&#10;    <td>98362</td>&#10;    <td>360-797-1313</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Whistle Stop Toys</td>&#10;    <td>1005 Water St </td>&#10;    <td>Port Townsend</td>&#10;    <td>WA</td>&#10;    <td>98368</td>&#10;    <td>360-385-9616</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Curious Child, The</td>&#10;    <td>1050 Hildebrand Ln NE Ste 101</td>&#10;    <td>Bainbridge Island</td>&#10;    <td>WA</td>&#10;    <td>98110</td>&#10;    <td>206-842-2793</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Phoenix Company Cards &amp; Games</td>&#10;    <td>401 Creek St </td>&#10;    <td>Yelm</td>&#10;    <td>WA</td>&#10;    <td>98597</td>&#10;    <td>360-960-8373</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Platinum Comix</td>&#10;    <td>239 SW 153rd St </td>&#10;    <td>Burien</td>&#10;    <td>WA</td>&#10;    <td>98166</td>&#10;    <td>206-242-1948</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Mr Bill's Collectible World</td>&#10;    <td>23692 NE State Rt 3 </td>&#10;    <td>Belfair</td>&#10;    <td>WA</td>&#10;    <td>98528</td>&#10;    <td>360-275-9383</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Wizard &amp; Blue Sky Hobbies, The</td>&#10;    <td>603 4th St </td>&#10;    <td>Bremerton</td>&#10;    <td>WA</td>&#10;    <td>98337</td>&#10;    <td>360-782-1176</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>DreamStrands Comics</td>&#10;    <td>115 N 85 St Ste 102</td>&#10;    <td>Seattle</td>&#10;    <td>WA</td>&#10;    <td>98103</td>&#10;    <td>206-297-3737</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Mirkwood</td>&#10;    <td>117 E Division St </td>&#10;    <td>Arlington</td>&#10;    <td>WA</td>&#10;    <td>98223</td>&#10;    <td>360-403-9020</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hero Support</td>&#10;    <td>823 E St </td>&#10;    <td>Washougal</td>&#10;    <td>WA</td>&#10;    <td>98671</td>&#10;    <td>360-210-7434</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Diversified Games</td>&#10;    <td>551 N Market Blvd </td>&#10;    <td>Chehalis</td>&#10;    <td>WA</td>&#10;    <td>98532</td>&#10;    <td>360-740-7750</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gary's Games &amp; Hobbies</td>&#10;    <td>8539 Greenwood Ave N </td>&#10;    <td>Seattle</td>&#10;    <td>WA</td>&#10;    <td>98103</td>&#10;    <td>206-789-8891</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Wishes</td>&#10;    <td>1402 SE Everett Mall Way #335</td>&#10;    <td>Everett</td>&#10;    <td>WA</td>&#10;    <td>98208</td>&#10;    <td>425-265-7005</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Heroes Resource</td>&#10;    <td>103 3rd st </td>&#10;    <td>Lynden</td>&#10;    <td>WA</td>&#10;    <td>98264</td>&#10;    <td>360-473-9223</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Sunken Treasures Games</td>&#10;    <td>1341 B George Washington Way </td>&#10;    <td>Richland</td>&#10;    <td>WA</td>&#10;    <td>99354</td>&#10;    <td>509-943-4564</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Battle Den Games</td>&#10;    <td>676 W Oak St Ste B</td>&#10;    <td>Oak Harbor</td>&#10;    <td>WA</td>&#10;    <td>98277</td>&#10;    <td>360-391-1964</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Avalon Comics &amp; Games</td>&#10;    <td>10408 Silverdale Way Ste A102</td>&#10;    <td>Silverdale</td>&#10;    <td>WA</td>&#10;    <td>98383</td>&#10;    <td>360-698-1501</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Uncle's Games - Spokane</td>&#10;    <td>404 W Main Ave </td>&#10;    <td>Spokane</td>&#10;    <td>WA</td>&#10;    <td>99201</td>&#10;    <td>509-456-4607</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dangerous Gentlemen</td>&#10;    <td>1327 Broadway St </td>&#10;    <td>Longview</td>&#10;    <td>WA</td>&#10;    <td>98632</td>&#10;    <td>360-636-8585</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comic Stop, The - Lynnwood</td>&#10;    <td>3333 184th St SW Ste G</td>&#10;    <td>Lynnwood</td>&#10;    <td>WA</td>&#10;    <td>98037</td>&#10;    <td>425-744-2767</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Card Exchange</td>&#10;    <td>14020 Aurora Ave N </td>&#10;    <td>Seattle</td>&#10;    <td>WA</td>&#10;    <td>98133</td>&#10;    <td>206-440-5467</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Uncle's Games - Bellevue</td>&#10;    <td>15600 NE 8th Ave Ste K10</td>&#10;    <td>Bellevue</td>&#10;    <td>WA</td>&#10;    <td>98008</td>&#10;    <td>425-746-1539</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Green Lake Games</td>&#10;    <td>7509 Aurora Ave N </td>&#10;    <td>Seattle</td>&#10;    <td>WA</td>&#10;    <td>98103</td>&#10;    <td>206-922-3146</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Uncle's Games - Redmond</td>&#10;    <td>16507 NE 74th St </td>&#10;    <td>Redmond</td>&#10;    <td>WA</td>&#10;    <td>98052</td>&#10;    <td>425-497-9180</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Northwest Sportscards</td>&#10;    <td>3816 Bridgeport Way W </td>&#10;    <td>University Place</td>&#10;    <td>WA</td>&#10;    <td>98466</td>&#10;    <td>253-564-9204</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>ccghouse.com</td>&#10;    <td>10411 NE Fourth Plain Rd Ste 127</td>&#10;    <td>Vancouver</td>&#10;    <td>WA</td>&#10;    <td>98662</td>&#10;    <td>360-891-0866</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>MuGu Games</td>&#10;    <td>4610 Evergreen Way Ste 6</td>&#10;    <td>Everett</td>&#10;    <td>WA</td>&#10;    <td>98203</td>&#10;    <td>425-322-4826</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Merlyns</td>&#10;    <td>19 W Main St </td>&#10;    <td>Spokane</td>&#10;    <td>WA</td>&#10;    <td>99201</td>&#10;    <td>509-624-0957</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>BatCave Games</td>&#10;    <td>7415 E Mill Plain Blvd Ste A</td>&#10;    <td>Vancouver</td>&#10;    <td>WA</td>&#10;    <td>98664</td>&#10;    <td>360-980-8138</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Cosmic Comics</td>&#10;    <td>1905 Cornwall Ave </td>&#10;    <td>Bellingham</td>&#10;    <td>WA</td>&#10;    <td>98225-4308</td>&#10;    <td>360-734-8058</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Math 'n' Stuff</td>&#10;    <td>8926 Roosevelt Way NE </td>&#10;    <td>Seattle</td>&#10;    <td>WA</td>&#10;    <td>98115</td>&#10;    <td>206-522-8891</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comics Cube</td>&#10;    <td>20950 State Rte 410 E </td>&#10;    <td>Bonney Lake</td>&#10;    <td>WA</td>&#10;    <td>98391</td>&#10;    <td>253-862-4129</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Phoenix Games</td>&#10;    <td>11811 Mukilteo Speedway Ste 110</td>&#10;    <td>Mukilteo</td>&#10;    <td>WA</td>&#10;    <td>98275</td>&#10;    <td>425-353-5584</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Exalted Games</td>&#10;    <td>4020 S Steele St Ste 104</td>&#10;    <td>Tacoma</td>&#10;    <td>WA</td>&#10;    <td>98409</td>&#10;    <td>253-472-2585</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Luke's Gaming Shop</td>&#10;    <td>9123 Evergreen Way </td>&#10;    <td>Everett</td>&#10;    <td>WA</td>&#10;    <td>98204</td>&#10;    <td>425-645-1151</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Trade Winds Gaming Zone</td>&#10;    <td>7413 E Trent Ave </td>&#10;    <td>Spokane Valley</td>&#10;    <td>WA</td>&#10;    <td>99212</td>&#10;    <td>509-808-2672</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>A World Of Collections Comics &amp; Cards</td>&#10;    <td>22611 76th Ave W Ste 101</td>&#10;    <td>Edmonds</td>&#10;    <td>WA</td>&#10;    <td>98026</td>&#10;    <td>425-778-2678</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Nerdy Stuffs</td>&#10;    <td>115 176th St S Ste F</td>&#10;    <td>Spanaway</td>&#10;    <td>WA</td>&#10;    <td>98387</td>&#10;    <td>253-267-1850</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Crazy Timmy Games</td>&#10;    <td>12645 NE 85th St </td>&#10;    <td>Kirkland</td>&#10;    <td>WA</td>&#10;    <td>98033</td>&#10;    <td>859-979-7919</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comic Book Shop, The - #2</td>&#10;    <td>4750 N Division Northtown Mall 1st Floor</td>&#10;    <td>Spokane</td>&#10;    <td>WA</td>&#10;    <td>99205</td>&#10;    <td>509-487-4175</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Palouse Games</td>&#10;    <td>141 N Grand Ave </td>&#10;    <td>Pullman</td>&#10;    <td>WA</td>&#10;    <td>99163</td>&#10;    <td>509-339-6408</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Card Advantage Games</td>&#10;    <td>17851 1st Ave S </td>&#10;    <td>Normandy Park</td>&#10;    <td>WA</td>&#10;    <td>98148</td>&#10;    <td>206-274-6070</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Wandering Havoc Games</td>&#10;    <td>514 State Ave Ste 108</td>&#10;    <td>Marysville</td>&#10;    <td>WA</td>&#10;    <td>98270</td>&#10;    <td>425-609-4527</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Wizards Library, The</td>&#10;    <td>1414 Broadway STE F </td>&#10;    <td>Bellingham</td>&#10;    <td>WA</td>&#10;    <td>98225</td>&#10;    <td>360-510-8039</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dragon's Horde Games</td>&#10;    <td>9960 Silverdale Way NW Ste 11 </td>&#10;    <td>Silverdale</td>&#10;    <td>WA</td>&#10;    <td>98383-8984</td>&#10;    <td>360-698-3550</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Docking Bay 93</td>&#10;    <td>224 STEWART RD STE 115 </td>&#10;    <td>Mount Vernon</td>&#10;    <td>WA</td>&#10;    <td>98273</td>&#10;    <td>360-428-5808</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Mill Geek Comics</td>&#10;    <td>17928 Bothell Everett Hwy Unit C</td>&#10;    <td>Bothell</td>&#10;    <td>WA</td>&#10;    <td>98012</td>&#10;    <td>206-427-9663</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Who's On First Sports Cards</td>&#10;    <td>401 State Ave </td>&#10;    <td>Marysville</td>&#10;    <td>WA</td>&#10;    <td>98270</td>&#10;    <td>360-653-9014</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>HobbyTown USA - Spokane</td>&#10;    <td>9324 N Division </td>&#10;    <td>Spokane</td>&#10;    <td>WA</td>&#10;    <td>99218</td>&#10;    <td>509-465-3267</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Play</td>&#10;    <td>838 6th Street </td>&#10;    <td>Clarkston</td>&#10;    <td>WA</td>&#10;    <td>99403</td>&#10;    <td>509-758-9800</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Boxes and Bears</td>&#10;    <td>907 Commercial Ave </td>&#10;    <td>Anacortes</td>&#10;    <td>WA</td>&#10;    <td>98221</td>&#10;    <td>360-299-9593</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Games Plus</td>&#10;    <td>1805 Main St PO Box 903</td>&#10;    <td>Lake Stevens</td>&#10;    <td>WA</td>&#10;    <td>98258</td>&#10;    <td>425-377-2850</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dreaming Comics &amp; Games, The</td>&#10;    <td>5226 University Way NE </td>&#10;    <td>Seattle</td>&#10;    <td>WA</td>&#10;    <td>98105</td>&#10;    <td>206-525-9394</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Calico Cat Toy Shoppe</td>&#10;    <td>104 Winslow Way W </td>&#10;    <td>Bainbridge Island</td>&#10;    <td>WA</td>&#10;    <td>98110</td>&#10;    <td>206-842-7720</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gamma Ray Games</td>&#10;    <td>411 E Pine St </td>&#10;    <td>Seattle</td>&#10;    <td>WA</td>&#10;    <td>98122</td>&#10;    <td>206-838-9445</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Ernie's Games</td>&#10;    <td>17705 140th Ave NE Ste A-14 </td>&#10;    <td>Woodinville</td>&#10;    <td>WA</td>&#10;    <td>98072</td>&#10;    <td>425-424-0500</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comic Book Shop, The</td>&#10;    <td>3207 N Division St </td>&#10;    <td>Spokane</td>&#10;    <td>WA</td>&#10;    <td>99207</td>&#10;    <td>509-326-7018</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Jeanne's Trading Cards</td>&#10;    <td>2901 Perry Ave #7 </td>&#10;    <td>Bremerton</td>&#10;    <td>WA</td>&#10;    <td>98310</td>&#10;    <td>360-373-5357</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>TESTWOTC - Game Support Test Org - Core</td>&#10;    <td>5555 Main St </td>&#10;    <td>Renton</td>&#10;    <td>WA</td>&#10;    <td>98057</td>&#10;    <td>999-123-4444</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Fire For Effect Games</td>&#10;    <td>605 S Main St </td>&#10;    <td>Oshkosh</td>&#10;    <td>WI</td>&#10;    <td>54902</td>&#10;    <td>920-231-3473</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Netherworld Games</td>&#10;    <td>334 W Mifflin St </td>&#10;    <td>Madison</td>&#10;    <td>WI</td>&#10;    <td>53703</td>&#10;    <td>608-255-4263</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>GameTown</td>&#10;    <td>3830 S Moorland Rd Ste A</td>&#10;    <td>New Berlin</td>&#10;    <td>WI</td>&#10;    <td>53151</td>&#10;    <td>262-784-9230</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Labrynth Games, The</td>&#10;    <td>123 3rd Ave </td>&#10;    <td>Baraboo</td>&#10;    <td>WI</td>&#10;    <td>53913</td>&#10;    <td>608-448-4263</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Atomic Games</td>&#10;    <td>114 N 8th St </td>&#10;    <td>Manitowoc</td>&#10;    <td>WI</td>&#10;    <td>54220</td>&#10;    <td>920-682-1057</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>River City Hobbies</td>&#10;    <td>313 Main St </td>&#10;    <td>La Crosse</td>&#10;    <td>WI</td>&#10;    <td>54601</td>&#10;    <td>608-782-5540</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Ashland Fun &amp; Games</td>&#10;    <td>112 W Main St </td>&#10;    <td>Ashland</td>&#10;    <td>WI</td>&#10;    <td>54806</td>&#10;    <td>715-292-6555</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Victory Games</td>&#10;    <td>1310 Union Ave </td>&#10;    <td>Sheboygan</td>&#10;    <td>WI</td>&#10;    <td>53081</td>&#10;    <td>920-207-7529</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Nomad Game Center</td>&#10;    <td>303 E Clairemont Ave </td>&#10;    <td>Eau Claire</td>&#10;    <td>WI</td>&#10;    <td>54701</td>&#10;    <td>715-514-2744</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Edge Comics &amp; Games</td>&#10;    <td>4 E Fulton St </td>&#10;    <td>Edgerton</td>&#10;    <td>WI</td>&#10;    <td>53534</td>&#10;    <td>608-884-0300</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Planet Chaos</td>&#10;    <td>1117 Whitewater Ave </td>&#10;    <td>Fort Atkinson</td>&#10;    <td>WI</td>&#10;    <td>53538</td>&#10;    <td>920-563-2664</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Bob's Baseball Dugout</td>&#10;    <td>75 W Main </td>&#10;    <td>Platteville</td>&#10;    <td>WI</td>&#10;    <td>53818</td>&#10;    <td>608-348-6877</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Rockhead's Comics &amp; Games</td>&#10;    <td>2225 63rd St </td>&#10;    <td>Kenosha</td>&#10;    <td>WI</td>&#10;    <td>53143-1407</td>&#10;    <td>262-657-5655</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Black Lotus Computer / Magic</td>&#10;    <td>52 N Brown St </td>&#10;    <td>Rhinelander</td>&#10;    <td>WI</td>&#10;    <td>54501</td>&#10;    <td>715-420-0520</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Toyriffic - Rice Lake</td>&#10;    <td>2304 S Main St </td>&#10;    <td>Rice Lake</td>&#10;    <td>WI</td>&#10;    <td>54868</td>&#10;    <td>715-736-4263</td>&#10;    <td>&#10;  </td></tr>&#10;  <tr>&#10;    <td>AK Comics</td>&#10;    <td>2000 Sutler Ave </td>&#10;    <td>Beloit</td>&#10;    <td>WI</td>&#10;    <td>53511</td>&#10;    <td>608-364-0442</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game On</td>&#10;    <td>134 Front St </td>&#10;    <td>Beaver Dam</td>&#10;    <td>WI</td>&#10;    <td>53916</td>&#10;    <td>920-885-9525</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Arcade Entertainment</td>&#10;    <td>N90W16933 Appleton Ave </td>&#10;    <td>Menomonee Falls</td>&#10;    <td>WI</td>&#10;    <td>53051</td>&#10;    <td>262-253-9003</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Kowabunga Comics</td>&#10;    <td>102 N Main St </td>&#10;    <td>Oconomowoc</td>&#10;    <td>WI</td>&#10;    <td>53066</td>&#10;    <td>262-569-9999</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Epic Quest Games</td>&#10;    <td>117 Hill St </td>&#10;    <td>Hartland</td>&#10;    <td>WI</td>&#10;    <td>53029</td>&#10;    <td>262-361-8238</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Games by James - Oakwood Mall</td>&#10;    <td>4800 Golf Rd #122</td>&#10;    <td>Eau Claire</td>&#10;    <td>WI</td>&#10;    <td>54701</td>&#10;    <td>715-835-3669</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Vanguard Games</td>&#10;    <td>46 E Main St </td>&#10;    <td>Reedsburg</td>&#10;    <td>WI</td>&#10;    <td>53959</td>&#10;    <td>608-415-5500</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>PJ's Variety</td>&#10;    <td>921 Milwaukee Ave </td>&#10;    <td>South Milwaukee</td>&#10;    <td>WI</td>&#10;    <td>53172</td>&#10;    <td>414-704-6622</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hotlaps RC Hobby</td>&#10;    <td>503 E Ives St Ste 309</td>&#10;    <td>Marshfield</td>&#10;    <td>WI</td>&#10;    <td>54449</td>&#10;    <td>715-207-0633</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gnome Games - Green Bay East</td>&#10;    <td>2255 Main St </td>&#10;    <td>Green Bay</td>&#10;    <td>WI</td>&#10;    <td>54302</td>&#10;    <td>920-965-1380</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Board Game Barrister - Glendale</td>&#10;    <td>5738 N Bayshore Dr Ste D-100</td>&#10;    <td>Milwaukee</td>&#10;    <td>WI</td>&#10;    <td>53217</td>&#10;    <td>414-963-2100</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Pink Bunny Games</td>&#10;    <td>1204 Minnesota Ave Front</td>&#10;    <td>South Milwaukee</td>&#10;    <td>WI</td>&#10;    <td>53172</td>&#10;    <td>414-304-5305</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Chimera Hobby Shop - Appleton</td>&#10;    <td>808 W Wisconsin Ave Ste C</td>&#10;    <td>Appleton</td>&#10;    <td>WI</td>&#10;    <td>54914</td>&#10;    <td>920-735-1201</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Lake Geneva Games</td>&#10;    <td>918 S. Wells St. </td>&#10;    <td>Lake Geneva</td>&#10;    <td>WI</td>&#10;    <td>53147</td>&#10;    <td>262-885-1515</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>I m Board! Games &amp; Family Fun</td>&#10;    <td>6771 University Ave #107</td>&#10;    <td>Middleton</td>&#10;    <td>WI</td>&#10;    <td>53562</td>&#10;    <td>608-831-6631</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Galaxy Comics Games &amp; More</td>&#10;    <td>925 Clark St </td>&#10;    <td>Stevens Point</td>&#10;    <td>WI</td>&#10;    <td>54481</td>&#10;    <td>715-544-0857</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Universe - Greenfield</td>&#10;    <td>4631 S 108th St </td>&#10;    <td>Greenfield</td>&#10;    <td>WI</td>&#10;    <td>53228</td>&#10;    <td>414-427-8800</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Universe - Menomonee Falls</td>&#10;    <td>N89 W16829 Appleton Ave </td>&#10;    <td>Menomonee Falls</td>&#10;    <td>WI</td>&#10;    <td>53051</td>&#10;    <td>262-257-0800</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Johnny Cee Cards</td>&#10;    <td>536 Grand Ave </td>&#10;    <td>Shofield</td>&#10;    <td>WI</td>&#10;    <td>54476</td>&#10;    <td>715-843-9632</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Colosseum Games</td>&#10;    <td>5719 75th St Prairie Plaza</td>&#10;    <td>Kenosha</td>&#10;    <td>WI</td>&#10;    <td>53142</td>&#10;    <td>262-909-6121</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Mana Vault, The</td>&#10;    <td>16 N Brooke St Ste 188</td>&#10;    <td>Fond Du Lac</td>&#10;    <td>WI</td>&#10;    <td>54935</td>&#10;    <td>920-251-4989</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Chimera Hobby Shop - Fond Du Lac</td>&#10;    <td>820 S Main St Ste A</td>&#10;    <td>Fond Du Lac</td>&#10;    <td>WI</td>&#10;    <td>54935</td>&#10;    <td>920-922-8338</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Fountain Of Youth Games</td>&#10;    <td>216 Water St </td>&#10;    <td>Eau Claire</td>&#10;    <td>WI</td>&#10;    <td>54703</td>&#10;    <td>715-563-3428</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Mox Mania</td>&#10;    <td>6039 Odana Rd </td>&#10;    <td>Madison</td>&#10;    <td>WI</td>&#10;    <td>53719</td>&#10;    <td>608-630-2188</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Silver Spring Hobby</td>&#10;    <td>1935 W Silver Spring Dr Ste 1</td>&#10;    <td>Milwaukee</td>&#10;    <td>WI</td>&#10;    <td>53209</td>&#10;    <td>414-352-3000</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gameboard, The</td>&#10;    <td>1832 N 8th St </td>&#10;    <td>Sheboygan</td>&#10;    <td>WI</td>&#10;    <td>53081</td>&#10;    <td>920-453-4263</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gnome Games - Tournament Center</td>&#10;    <td>2160 S Ridge Rd </td>&#10;    <td>Green Bay</td>&#10;    <td>WI</td>&#10;    <td>54304</td>&#10;    <td>920-499-4263</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Kryptonite Kollectibles Inc.</td>&#10;    <td>1441 Plainfield Ave </td>&#10;    <td>Janesville</td>&#10;    <td>WI</td>&#10;    <td>53545</td>&#10;    <td>608-758-2100</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Board Game Barrister - Southridge</td>&#10;    <td>5300 S 76th St Ste 1760</td>&#10;    <td>Greendale</td>&#10;    <td>WI</td>&#10;    <td>53129</td>&#10;    <td>414-423-7100</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Anime Fan Zone</td>&#10;    <td>932 E Rawson Ave </td>&#10;    <td>Oak Creek</td>&#10;    <td>WI</td>&#10;    <td>53154</td>&#10;    <td>414-434-8624</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Universe - Brookfield</td>&#10;    <td>19035 W Bluemound Rd </td>&#10;    <td>Brookfield</td>&#10;    <td>WI</td>&#10;    <td>53045</td>&#10;    <td>262-786-9800</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Quest - Menomonie</td>&#10;    <td>1400 N Broadway St </td>&#10;    <td>Menomonie</td>&#10;    <td>WI</td>&#10;    <td>54751</td>&#10;    <td>715-235-9353</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Toyriffic - Hudson</td>&#10;    <td>2113 Coulee Rd </td>&#10;    <td>Hudson</td>&#10;    <td>WI</td>&#10;    <td>54016</td>&#10;    <td>715-386-0003</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Quest USA - River Falls</td>&#10;    <td>1585 Paulson Rd </td>&#10;    <td>River Falls</td>&#10;    <td>WI</td>&#10;    <td>54022</td>&#10;    <td>715-426-7725</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hero's Ink</td>&#10;    <td>635 E Wisconsin St </td>&#10;    <td>Delavan</td>&#10;    <td>WI</td>&#10;    <td>53115</td>&#10;    <td>262-728-7071</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>ToyMan Collectables, Comics &amp; Games</td>&#10;    <td>319 Lawe St </td>&#10;    <td>Kaukauna</td>&#10;    <td>WI</td>&#10;    <td>54130</td>&#10;    <td>920-462-0002</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Toyriffic - St Croix Falls</td>&#10;    <td>2161 US Hwy 8 </td>&#10;    <td>St Croix Falls</td>&#10;    <td>WI</td>&#10;    <td>54024</td>&#10;    <td>715-483-1773</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Outpost Gaming</td>&#10;    <td>5621 6th ave </td>&#10;    <td>Kenosha</td>&#10;    <td>WI</td>&#10;    <td>53140</td>&#10;    <td>262-653-1170</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Misty Mountain Games</td>&#10;    <td>4672 Cottage Grove Rd </td>&#10;    <td>Madison</td>&#10;    <td>WI</td>&#10;    <td>53716</td>&#10;    <td>608-441-0312</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>HobbyTown USA - Oshkosh</td>&#10;    <td>807 Oregon St </td>&#10;    <td>Oshkosh</td>&#10;    <td>WI</td>&#10;    <td>54902</td>&#10;    <td>920-426-1840</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Pegasus Games</td>&#10;    <td>6640 Odana Rd </td>&#10;    <td>Madison</td>&#10;    <td>WI</td>&#10;    <td>53719</td>&#10;    <td>608-833-4263</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Nerducopia</td>&#10;    <td>34 E Main St </td>&#10;    <td>Buckhannon</td>&#10;    <td>WV</td>&#10;    <td>26201</td>&#10;    <td>304-300-0762</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>D &amp; S Collectibles</td>&#10;    <td>9479 Middletown Mall </td>&#10;    <td>Fairmont</td>&#10;    <td>WV</td>&#10;    <td>26554</td>&#10;    <td>304-363-4363</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gathering, The</td>&#10;    <td>64 Olde Main Plz </td>&#10;    <td>Saint Albans</td>&#10;    <td>WV</td>&#10;    <td>25177</td>&#10;    <td>304-729-0969</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Eagle Electronics - Radio Shack</td>&#10;    <td>416 N State Rt 2 </td>&#10;    <td>New Martinsville</td>&#10;    <td>WV</td>&#10;    <td>26155</td>&#10;    <td>304-455-5700</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Counter Culture Concepts</td>&#10;    <td>114 3rd St </td>&#10;    <td>Elkins</td>&#10;    <td>WV</td>&#10;    <td>26241</td>&#10;    <td>304-614-4701</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Four Horsemen Comics &amp; Gaming</td>&#10;    <td>9201 Mall Rd </td>&#10;    <td>Morgantown</td>&#10;    <td>WV</td>&#10;    <td>26501</td>&#10;    <td>304-983-2735</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hometown Hobbies</td>&#10;    <td>1119 4th Ave </td>&#10;    <td>Huntington</td>&#10;    <td>WV</td>&#10;    <td>25701</td>&#10;    <td>304-523-4263</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Your Hobby Place</td>&#10;    <td>57 Meadow Ln </td>&#10;    <td>Martinsburg</td>&#10;    <td>WV</td>&#10;    <td>25404</td>&#10;    <td>304-267-3110</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Lost Legion Games &amp; Comics, The Rifleman</td>&#10;    <td>600 D St </td>&#10;    <td>South Charleston</td>&#10;    <td>WV</td>&#10;    <td>25303</td>&#10;    <td>304-205-7919</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Lost Legion Games &amp; Comics, The Castle</td>&#10;    <td>406 2nd St </td>&#10;    <td>Beckley</td>&#10;    <td>WV</td>&#10;    <td>25801</td>&#10;    <td>304-253-1974</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Lost Legion Games &amp; Comics, The Keep</td>&#10;    <td>706 Thorn St </td>&#10;    <td>Princeton</td>&#10;    <td>WV</td>&#10;    <td>24740</td>&#10;    <td>304-431-0021</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Lost Legion Games &amp; Comics, The Vault</td>&#10;    <td>517 21st St Ste B</td>&#10;    <td>Vienna</td>&#10;    <td>WV</td>&#10;    <td>26105</td>&#10;    <td>304-917-4840</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Wind River Computers/Game &amp; Hobby</td>&#10;    <td>254 Main St </td>&#10;    <td>Lander</td>&#10;    <td>WY</td>&#10;    <td>82520</td>&#10;    <td>307-335-4292</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dragons Lair Games</td>&#10;    <td>1934 E Sheridan Ave </td>&#10;    <td>Cody</td>&#10;    <td>WY</td>&#10;    <td>82414</td>&#10;    <td>307-527-4263</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Mind Works</td>&#10;    <td>1721 Philips Cir </td>&#10;    <td>Gillette</td>&#10;    <td>WY</td>&#10;    <td>82718</td>&#10;    <td>307-670-0708</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Sports Alley</td>&#10;    <td>709 N Main St </td>&#10;    <td>Sheridan</td>&#10;    <td>WY</td>&#10;    <td>82801</td>&#10;    <td>307-674-9886</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Beasts &amp; Barbarians</td>&#10;    <td>648 Pilot Butte Ave </td>&#10;    <td>Rock Springs</td>&#10;    <td>WY</td>&#10;    <td>82901</td>&#10;    <td>307-382-2452</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Crossing</td>&#10;    <td>221 W 1st St Ste 1</td>&#10;    <td>Casper</td>&#10;    <td>WY</td>&#10;    <td>82601</td>&#10;    <td>307-265-6160</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Glenire's Corner</td>&#10;    <td>401 S 3rd St </td>&#10;    <td>Douglas</td>&#10;    <td>WY</td>&#10;    <td>82633</td>&#10;    <td>307-351-4730</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Diversions</td>&#10;    <td>927 Main St Ste 700</td>&#10;    <td>Evanston</td>&#10;    <td>WY</td>&#10;    <td>82930</td>&#10;    <td>307-444-4263</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>T &amp; R Sportscards &amp; More</td>&#10;    <td>201 W 17th St </td>&#10;    <td>Cheyenne</td>&#10;    <td>WY</td>&#10;    <td>82001</td>&#10;    <td>307-635-9101</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dave's Darts 'N Billiards</td>&#10;    <td>601 E 2nd St </td>&#10;    <td>Casper</td>&#10;    <td>WY</td>&#10;    <td>82601</td>&#10;    <td>307-234-4893</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;</tbody></table>
+
+ 
+
+### Canada
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <a href="/en/articles/event-coverage/undated/dragons-maze-booster-box-promotion-locations">&#10;        <b>Location</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/en/articles/event-coverage/undated/dragons-maze-booster-box-promotion-locations">&#10;        <b>Address</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/en/articles/event-coverage/undated/dragons-maze-booster-box-promotion-locations">&#10;        <b>City</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/en/articles/event-coverage/undated/dragons-maze-booster-box-promotion-locations">&#10;        <b>State</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/en/articles/event-coverage/undated/dragons-maze-booster-box-promotion-locations">&#10;        <b>Zip Code</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/en/articles/event-coverage/undated/dragons-maze-booster-box-promotion-locations">&#10;        <b>Phone</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/en/articles/event-coverage/undated/dragons-maze-booster-box-promotion-locations">&#10;        <b>Email</b>&#10;      </a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gamers Alley</td>&#10;    <td>10 H Main Blvd </td>&#10;    <td>Sherwood Park</td>&#10;    <td>AB</td>&#10;    <td>T8H 3W8</td>&#10;    <td>780-449-4267</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Kapow Comics, Cards, &amp; Games</td>&#10;    <td>320 6th St S </td>&#10;    <td>Lethbridge</td>&#10;    <td>AB</td>&#10;    <td>T1J 2C8</td>&#10;    <td>403-328-8003</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Sentry Box, The</td>&#10;    <td>1835-10th Ave SW </td>&#10;    <td>Calgary</td>&#10;    <td>AB</td>&#10;    <td>T3C 0K2</td>&#10;    <td>403-245-2121</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Adventurer's Guild, The</td>&#10;    <td>15211 Stony Plain Rd NW </td>&#10;    <td>Edmonton</td>&#10;    <td>AB</td>&#10;    <td>T5P 3Y4</td>&#10;    <td>780-484-5606</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Trilogy Gaming Club</td>&#10;    <td>7005 18th St SE #2 </td>&#10;    <td>Calgary</td>&#10;    <td>AB</td>&#10;    <td>T2C 1Y1</td>&#10;    <td>403-279-2290</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Warp 2</td>&#10;    <td>12863 97th St </td>&#10;    <td>Edmonton</td>&#10;    <td>AB</td>&#10;    <td>T5E 4C3</td>&#10;    <td>780-478-7767</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Revolution Games &amp; Music</td>&#10;    <td>3400 14th St NW Ste 100</td>&#10;    <td>Calgary</td>&#10;    <td>AB</td>&#10;    <td>T2K 1H9</td>&#10;    <td>403-282-5200</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Myth Games</td>&#10;    <td>4-3434 34 Ave NE </td>&#10;    <td>Calgary</td>&#10;    <td>AB</td>&#10;    <td>T1Y 6X3</td>&#10;    <td>403-769-1909</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dick's Collectables</td>&#10;    <td>19-13750 Bow Bottom Trail SE </td>&#10;    <td>Calgary</td>&#10;    <td>AB</td>&#10;    <td>T2J 6T5</td>&#10;    <td>403-278-5380</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Treasure Chest Comics &amp; Games</td>&#10;    <td>1506 2 Ave S </td>&#10;    <td>Lethbridge</td>&#10;    <td>AB</td>&#10;    <td>T1J 0G1</td>&#10;    <td>403-320-6055</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Warp 3</td>&#10;    <td>2331 66th St Mill Woods Town Centre</td>&#10;    <td>Edmonton</td>&#10;    <td>AB</td>&#10;    <td>T6K 4B5</td>&#10;    <td>780-462-5767</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Wizard's Comics &amp; Collectibles - Sherwood Park</td>&#10;    <td>2008 C Sherwood Dr </td>&#10;    <td>Sherwood Park</td>&#10;    <td>AB</td>&#10;    <td>T8A 0Z1</td>&#10;    <td>780-467-7737</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Wizard's Comics &amp; Collectibles - Edmonton</td>&#10;    <td>8619 109th St </td>&#10;    <td>Edmonton</td>&#10;    <td>AB</td>&#10;    <td>T6G 1E7</td>&#10;    <td>780-436-6611</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Phoenix Comics NW Limited</td>&#10;    <td>1010 16th Ave Nw </td>&#10;    <td>Calgary</td>&#10;    <td>AB</td>&#10;    <td>T2M 0K5</td>&#10;    <td>403-220-1399</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hangar 19</td>&#10;    <td>9922 100th Ave </td>&#10;    <td>Grande Prairie</td>&#10;    <td>AB</td>&#10;    <td>T8V 0T9</td>&#10;    <td>780-539-5622</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Warp 1 Comics &amp; Games</td>&#10;    <td>9917 82nd Ave NW </td>&#10;    <td>Edmonton</td>&#10;    <td>AB</td>&#10;    <td>T6E 1Z1</td>&#10;    <td>780-433-7119</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>DJ's Sportscards</td>&#10;    <td>E13 5560, 45th St </td>&#10;    <td>Red Deer</td>&#10;    <td>AB</td>&#10;    <td>T4N 1L1</td>&#10;    <td>403-343-0620</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Treasure Cove Collectables</td>&#10;    <td>805 Eastlake Blvd, Bay 8 Big Springs Plaza</td>&#10;    <td>Airdrie</td>&#10;    <td>AB</td>&#10;    <td>T4A 2G4</td>&#10;    <td>403-948-3214</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comic Readers - Medicine Hat</td>&#10;    <td>924 B SE Railway </td>&#10;    <td>Medicine Hat</td>&#10;    <td>AB</td>&#10;    <td>T1A 2W2</td>&#10;    <td>403-528-9474</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Strange Ideas Comics &amp; Collectibles</td>&#10;    <td>11601 99 St Ste 507</td>&#10;    <td>Grande Prairie</td>&#10;    <td>AB</td>&#10;    <td>T8V 6Z1</td>&#10;    <td>780-533-3334</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Anime Hypercubed</td>&#10;    <td>5015-46 St </td>&#10;    <td>Camrose</td>&#10;    <td>AB</td>&#10;    <td>T4V 3G3</td>&#10;    <td>780-672-1763</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Metal Galaxy</td>&#10;    <td>200 Haddon Rd SW </td>&#10;    <td>Calgary</td>&#10;    <td>AB</td>&#10;    <td>T2V 2Y6</td>&#10;    <td>403-253-1414</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Mission: Fun &amp; Games</td>&#10;    <td>560 St Albert Trail </td>&#10;    <td>St. Albert</td>&#10;    <td>AB</td>&#10;    <td>T8N 5Z1</td>&#10;    <td>780-459-1055</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Wonderland Toy &amp; Hobby</td>&#10;    <td>10032 100th Ave </td>&#10;    <td>Grande Prairie</td>&#10;    <td>AB</td>&#10;    <td>T8V 0V3</td>&#10;    <td>780-532-1963</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>ANYTHING &amp; EVERYTHING</td>&#10;    <td>5027 51st Ave </td>&#10;    <td>Whitecourt</td>&#10;    <td>AB</td>&#10;    <td>T7S 1A4</td>&#10;    <td>780-779-5288</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Red Claw Gaming</td>&#10;    <td>12820 64 St </td>&#10;    <td>Edmonton</td>&#10;    <td>AB</td>&#10;    <td>T5A 0X7</td>&#10;    <td>780-757-7655</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Happy Harbor Comics</td>&#10;    <td>10729 104th Ave </td>&#10;    <td>Edmonton</td>&#10;    <td>AB</td>&#10;    <td>T5J 3K1</td>&#10;    <td>780-452-8211</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Tactical Magic Games</td>&#10;    <td>3-8302 Fraser Ave </td>&#10;    <td>Fort McMurray</td>&#10;    <td>AB</td>&#10;    <td>T9H 1X1</td>&#10;    <td>780-715-5535</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Imaginary Wars Gaming &amp; Hobbies</td>&#10;    <td>10233 Elbow Dr SW Unit 150</td>&#10;    <td>Calgary</td>&#10;    <td>AB</td>&#10;    <td>T2W 1E8</td>&#10;    <td>587-351-1939</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Quantum Comics</td>&#10;    <td>6416 28th Ave </td>&#10;    <td>Edmonton</td>&#10;    <td>AB</td>&#10;    <td>T6L 6N3</td>&#10;    <td>780-756-6346</td>&#10;    <td>&#10;  </td></tr>&#10;  <tr>&#10;    <td>Gamestars</td>&#10;    <td>120-19860 Langley Bypass </td>&#10;    <td>Langley</td>&#10;    <td>BC</td>&#10;    <td>V3A 4Y1</td>&#10;    <td>604-510-5148</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>High Octane Comics &amp; Collectibles</td>&#10;    <td>#250 3rd Ave </td>&#10;    <td>Kamloops</td>&#10;    <td>BC</td>&#10;    <td>V2C 3M3</td>&#10;    <td>250-377-8444</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Thrive Lifestyle</td>&#10;    <td>113-109 McPhillips Ave </td>&#10;    <td>Salt Spring Island</td>&#10;    <td>BC</td>&#10;    <td>V8K 2T6</td>&#10;    <td>250-931-5433</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Magic Stronghold Games</td>&#10;    <td>5558 Lane St </td>&#10;    <td>Burnaby</td>&#10;    <td>BC</td>&#10;    <td>V5H 2H5</td>&#10;    <td>604-568-6030</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Yellowjacket Comics &amp; Toys</td>&#10;    <td>649 Johnson St </td>&#10;    <td>Victoria</td>&#10;    <td>BC</td>&#10;    <td>V8W 1M7</td>&#10;    <td>250-480-0049</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Wiser's Wilde World Of Collectibles</td>&#10;    <td>Unit B2 9640 201st </td>&#10;    <td>Langley</td>&#10;    <td>BC</td>&#10;    <td>V1M 3E8</td>&#10;    <td>604-882-7616</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Quantum Games &amp; Cards</td>&#10;    <td>3-190 Hollywood Rd S </td>&#10;    <td>Kelowna</td>&#10;    <td>BC</td>&#10;    <td>V1X 3S9</td>&#10;    <td>250-763-1806</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>T&amp;N Games</td>&#10;    <td>2849 North Rd Ste 102</td>&#10;    <td>Burnaby</td>&#10;    <td>BC</td>&#10;    <td>V3J 1R6</td>&#10;    <td>604-558-2211</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>All Aboard Games</td>&#10;    <td>334 Seymour St </td>&#10;    <td>Kamloops</td>&#10;    <td>BC</td>&#10;    <td>V2C 2G2</td>&#10;    <td>250-377-0745</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Connection Games &amp; Accessories 2, The</td>&#10;    <td>2945 Renfrew St </td>&#10;    <td>Vancouver</td>&#10;    <td>BC</td>&#10;    <td>V5M 3K5</td>&#10;    <td>604-327-4585</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Craving For A Game</td>&#10;    <td>2520 - 10153 King George Hwy </td>&#10;    <td>Surrey</td>&#10;    <td>BC</td>&#10;    <td>V3T 2W1</td>&#10;    <td>604-580-2856</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Skyhaven Games</td>&#10;    <td>3458 Tillicum Rd </td>&#10;    <td>Victoria</td>&#10;    <td>BC</td>&#10;    <td>V8Z 4H3</td>&#10;    <td>250-477-1519</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Grey Haven Hobbies</td>&#10;    <td>1289 A Johnston Rd </td>&#10;    <td>White Rock</td>&#10;    <td>BC</td>&#10;    <td>V4B 3Y9</td>&#10;    <td>604-535-5051</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Imperial Hobbies</td>&#10;    <td>5451 No 3 Rd </td>&#10;    <td>Richmond</td>&#10;    <td>BC</td>&#10;    <td>V6X 2C7</td>&#10;    <td>604-273-4427</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Sector 2814 Comics &amp; Toys</td>&#10;    <td>109-22550 Dewdney Trunk Rd </td>&#10;    <td>Maple Ridge</td>&#10;    <td>BC</td>&#10;    <td>V2X 3J9</td>&#10;    <td>604-467-4913</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Pastime Sports &amp; Games</td>&#10;    <td>20378 Fraser Hwy </td>&#10;    <td>Langley</td>&#10;    <td>BC</td>&#10;    <td>V3A 4G1</td>&#10;    <td>604-530-5507</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>One Stop Cards &amp; Games</td>&#10;    <td>1083-88 W Pender </td>&#10;    <td>Vancouver</td>&#10;    <td>BC</td>&#10;    <td>V6B 6N9</td>&#10;    <td>778-373-0365</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Armoury Toys &amp; Hobbies</td>&#10;    <td>1249 4th Ave </td>&#10;    <td>Prince George</td>&#10;    <td>BC</td>&#10;    <td>V2L 3J5</td>&#10;    <td>250-596-3065</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dice Bag Games</td>&#10;    <td>#1-60 queens road </td>&#10;    <td>Duncan</td>&#10;    <td>BC</td>&#10;    <td>V9L 2W4</td>&#10;    <td>250-597-1992</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Games &amp; Grounds Coffee House</td>&#10;    <td>Ste 4-239 Puntledge Rd </td>&#10;    <td>Courtenay</td>&#10;    <td>BC</td>&#10;    <td>V9N 3P9</td>&#10;    <td>250-871-1171</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comic Encounters</td>&#10;    <td>102-4435 Lakelse Ave </td>&#10;    <td>Terrace</td>&#10;    <td>BC</td>&#10;    <td>V8G 1P1</td>&#10;    <td>250-638-7293</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Good Times Games &amp; Electronics</td>&#10;    <td>302 2nd W </td>&#10;    <td>Prince Rupert</td>&#10;    <td>BC</td>&#10;    <td>V8J 1G6</td>&#10;    <td>250-622-2665</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dave's Pop Culture</td>&#10;    <td>4962 Bridge St </td>&#10;    <td>Delta</td>&#10;    <td>BC</td>&#10;    <td>V4K 2K1</td>&#10;    <td>604-952-4480</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Big Pete's</td>&#10;    <td>149 Lonsdale Ave </td>&#10;    <td>North Vancouver</td>&#10;    <td>BC</td>&#10;    <td>V7M 2E7</td>&#10;    <td>604-983-2325</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Ebenezer's</td>&#10;    <td>3110 29th Ave </td>&#10;    <td>Vernon</td>&#10;    <td>BC</td>&#10;    <td>V1T 1Z1</td>&#10;    <td>250-542-0980</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Drop Zone Games</td>&#10;    <td>4176 Departure Bay Rd Ste B</td>&#10;    <td>Nanaimo</td>&#10;    <td>BC</td>&#10;    <td>V9T 4B7</td>&#10;    <td>250-758-1934</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Pro Sportscards</td>&#10;    <td>2646 E Hastings St </td>&#10;    <td>Vancouver</td>&#10;    <td>BC</td>&#10;    <td>V5K 1Z6</td>&#10;    <td>604-255-8955</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Mishra's Game Factory</td>&#10;    <td>4567 Lougheed Hwy #202</td>&#10;    <td>Burnaby</td>&#10;    <td>BC</td>&#10;    <td>V5C 3Z6</td>&#10;    <td>604-320-0933</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Treasure Chest Games &amp; Collectibles</td>&#10;    <td>3274 COAST MERIDIAN RD </td>&#10;    <td>Port Coquitlam</td>&#10;    <td>BC</td>&#10;    <td>V3B 3N6</td>&#10;    <td>604-941-9313</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Galaxy Games</td>&#10;    <td>48 Oliver St </td>&#10;    <td>Williams Lake</td>&#10;    <td>BC</td>&#10;    <td>V2G 1L7</td>&#10;    <td>250-392-1121</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Card Corner &amp; Collectables, The</td>&#10;    <td>D-5262 Argyle St </td>&#10;    <td>Port Alberni</td>&#10;    <td>BC</td>&#10;    <td>V9Y 1T9</td>&#10;    <td>778-421-0141</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Puzzle Factory, The</td>&#10;    <td>170 Hudson Ave </td>&#10;    <td>Salmon Arm</td>&#10;    <td>BC</td>&#10;    <td>V1E 4N5</td>&#10;    <td>250-832-0539</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Chilliwack SlotCar Palace</td>&#10;    <td>45929 Wellington Ave </td>&#10;    <td>Chilliwack</td>&#10;    <td>BC</td>&#10;    <td>V2P 2C6</td>&#10;    <td>604-393-7568</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Bizarre Entertainment</td>&#10;    <td>PO Box 736 </td>&#10;    <td>Golden</td>&#10;    <td>BC</td>&#10;    <td>V0A 1H0</td>&#10;    <td>250-344-6633</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Mostly Music</td>&#10;    <td>2646 Shaughnessy St </td>&#10;    <td>Port Coquitlam</td>&#10;    <td>BC</td>&#10;    <td>V3C 3G6</td>&#10;    <td>604-552-8055</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Sid's Vids</td>&#10;    <td>4330 Sunshine Coast HWY #5</td>&#10;    <td>Sechelt</td>&#10;    <td>BC</td>&#10;    <td>V0N 3A1</td>&#10;    <td>604-885-8900</td>&#10;    <td>&#10;  </td></tr>&#10;  <tr>&#10;    <td>Great White Entertainment</td>&#10;    <td>178-3005- Massey Dr </td>&#10;    <td>Prince George</td>&#10;    <td>BC</td>&#10;    <td>V2N 2S9</td>&#10;    <td>250-563-5299</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Warcraft Interactive hobbies</td>&#10;    <td>33232 1ST AVE </td>&#10;    <td>Mission</td>&#10;    <td>BC</td>&#10;    <td>V2V 1G6</td>&#10;    <td>604-826-5181</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Board Game Warriors</td>&#10;    <td>708 Clarkson St </td>&#10;    <td>New Westminster</td>&#10;    <td>BC</td>&#10;    <td>V3M 1E2</td>&#10;    <td>604-540-6322</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>C4 Clouda's Cards Comics Coffee &amp; More</td>&#10;    <td>7084 Vedder Rd Ste 103</td>&#10;    <td>Chilliwack</td>&#10;    <td>BC</td>&#10;    <td>V2R 3T6</td>&#10;    <td>604-393-7369</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Fascination Street Toys &amp; Games</td>&#10;    <td>225 Birch Ave </td>&#10;    <td>100 Mile House</td>&#10;    <td>BC</td>&#10;    <td>V0K 2E0</td>&#10;    <td>250-395-1133</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hourglass Comics</td>&#10;    <td>2343 Clarke St </td>&#10;    <td>Port Moody</td>&#10;    <td>BC</td>&#10;    <td>V3H 1Y9</td>&#10;    <td>604-931-4588</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>K-Max Games &amp; Videos</td>&#10;    <td>246 Saint Laurent Ave Ste 101</td>&#10;    <td>Quesnel</td>&#10;    <td>BC</td>&#10;    <td>V2J 2C9</td>&#10;    <td>250-992-8343</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Galaxy Comics &amp; Collectibles</td>&#10;    <td>200-1109 Henderson Hwy </td>&#10;    <td>Winnipeg</td>&#10;    <td>MB</td>&#10;    <td>R2G 1L4</td>&#10;    <td>204-338-5216</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Fusion Gaming</td>&#10;    <td>1473 Pembina Hwy </td>&#10;    <td>Winnipeg</td>&#10;    <td>MB</td>&#10;    <td>R3T 2C5</td>&#10;    <td>204-452-3121</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Knight</td>&#10;    <td>726 Osborne St </td>&#10;    <td>Winnipeg</td>&#10;    <td>MB</td>&#10;    <td>R3L 2C2</td>&#10;    <td>204-487-4263</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Pendragon Games &amp; Hobbies</td>&#10;    <td>1354 Main St </td>&#10;    <td>Winnipeg</td>&#10;    <td>MB</td>&#10;    <td>R2W 3T8</td>&#10;    <td>204-772-5415</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hidden City Comics</td>&#10;    <td>845 Henderson Hwy </td>&#10;    <td>Winnipeg</td>&#10;    <td>MB</td>&#10;    <td>R2K 2L4</td>&#10;    <td>204-421-9336</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Face Off Sport Cards</td>&#10;    <td>3043 NESS AVENUE </td>&#10;    <td>Winnipeg</td>&#10;    <td>MB</td>&#10;    <td>R2Y 0G1</td>&#10;    <td>204-832-3921</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Imagine Games &amp; Hobby</td>&#10;    <td>246 McDermont Ave </td>&#10;    <td>Winnipeg</td>&#10;    <td>MB</td>&#10;    <td>R2W 1P4</td>&#10;    <td>204-452-8711</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gamezilla - Fredricton</td>&#10;    <td>1211 Prospect St </td>&#10;    <td>Fredericton</td>&#10;    <td>NB</td>&#10;    <td>E3B 3B9</td>&#10;    <td>506-450-9028</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gamezilla - St. John</td>&#10;    <td>77 Catherwood St </td>&#10;    <td>Saint John</td>&#10;    <td>NB</td>&#10;    <td>E2M 7X1</td>&#10;    <td>506-657-7529</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comic Hunter #2</td>&#10;    <td>465 Main St </td>&#10;    <td>Moncton</td>&#10;    <td>NB</td>&#10;    <td>E1C 1C2</td>&#10;    <td>506-855-4950</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>B&amp;T Sportscards &amp; Gaming</td>&#10;    <td>275 Douglas Ave </td>&#10;    <td>Bathurst</td>&#10;    <td>NB</td>&#10;    <td>E2A 1N1</td>&#10;    <td>506-549-4327</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>GameZilla - Moncton</td>&#10;    <td>511 Mountain Rd </td>&#10;    <td>Moncton</td>&#10;    <td>NB</td>&#10;    <td>E1C 2N4</td>&#10;    <td>506-855-7101</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Midgard Gaming</td>&#10;    <td>7 Commonwealth Ave. </td>&#10;    <td>Mount Pearl</td>&#10;    <td>NL</td>&#10;    <td>A1N 1W3</td>&#10;    <td>709-364-7529</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Buzzonjon</td>&#10;    <td>19 Cromer Ave </td>&#10;    <td>Grand Falls Windsor</td>&#10;    <td>NL</td>&#10;    <td>A2A 2K5</td>&#10;    <td>709-489-1818</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Lair, The</td>&#10;    <td>85 Broadway </td>&#10;    <td>Corner Brook</td>&#10;    <td>NL</td>&#10;    <td>A2H 4E1</td>&#10;    <td>709-634-2699</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Games People Play</td>&#10;    <td>1587 Barrington St </td>&#10;    <td>Halifax</td>&#10;    <td>NS</td>&#10;    <td>B3J 1Z7</td>&#10;    <td>902-489-0363</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Strictly Singles Sportscards</td>&#10;    <td>6160 Almon St </td>&#10;    <td>Halifax</td>&#10;    <td>NS</td>&#10;    <td>B3K 1V1</td>&#10;    <td>902-455-2132</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gaming Edge, The</td>&#10;    <td>10 Havelock St </td>&#10;    <td>Amherst</td>&#10;    <td>NS</td>&#10;    <td>B4H 3J7</td>&#10;    <td>902-660-3366</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Quantum Frontier Games &amp; Comics</td>&#10;    <td>3087 - A Robie St </td>&#10;    <td>Halifax</td>&#10;    <td>NS</td>&#10;    <td>B3K 4P7</td>&#10;    <td>902-446-8233</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Monster Comic Lounge, The</td>&#10;    <td>2089 Gottingen St </td>&#10;    <td>Halifax</td>&#10;    <td>NS</td>&#10;    <td>B3K 3B2</td>&#10;    <td>902-429-2398</td>&#10;    <td>&#10;  </td></tr>&#10;  <tr>&#10;    <td>The Local NPC Games &amp; Comics</td>&#10;    <td>311 Charlotte St </td>&#10;    <td>Sydney</td>&#10;    <td>NS</td>&#10;    <td>B1P1C6</td>&#10;    <td>902-270-8006</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Giant Robot Comics</td>&#10;    <td>114 Woodlawn Rd </td>&#10;    <td>Dartmouth</td>&#10;    <td>NS</td>&#10;    <td>B2W 2S7</td>&#10;    <td>9024048400</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Batter's Box Collectibles, The</td>&#10;    <td>100 Esplanade Truro Centre </td>&#10;    <td>Truro</td>&#10;    <td>NS</td>&#10;    <td>B2N 2K3</td>&#10;    <td>902-893-0369</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Zilla</td>&#10;    <td>6 Havelock St </td>&#10;    <td>Truro</td>&#10;    <td>NS</td>&#10;    <td>B2N 4B7</td>&#10;    <td>902-895-6233</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gator Byte Computers &amp; Entertainment</td>&#10;    <td>298 Main Street </td>&#10;    <td>Yarmouth</td>&#10;    <td>NS</td>&#10;    <td>B5A 1E4</td>&#10;    <td>902-742-2287</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>GameTronics</td>&#10;    <td>9116 A Commercial St </td>&#10;    <td>New Minas</td>&#10;    <td>NS</td>&#10;    <td>B4N 3E5</td>&#10;    <td>902-681-7529</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hydra Hobbies &amp; Comics</td>&#10;    <td>1158 Victoria Street Ste B</td>&#10;    <td>Petawawa</td>&#10;    <td>ON</td>&#10;    <td>K8H 2E7</td>&#10;    <td>613-687-0535</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>P Market</td>&#10;    <td>109 N Front St </td>&#10;    <td>Belleville</td>&#10;    <td>ON</td>&#10;    <td>K8P 3B5</td>&#10;    <td>613-962-6959</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Sequence Comics &amp; Gaming</td>&#10;    <td>25 Perth St </td>&#10;    <td>Brockville</td>&#10;    <td>ON</td>&#10;    <td>K6V 5C3</td>&#10;    <td>613-345-4349</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Chamber, The</td>&#10;    <td>1700 Dundas St Ste 2</td>&#10;    <td>London</td>&#10;    <td>ON</td>&#10;    <td>N5W 3C9</td>&#10;    <td>519-601-4263</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Mind Games - Oshawa</td>&#10;    <td>419 King St W # 1060</td>&#10;    <td>Oshawa</td>&#10;    <td>ON</td>&#10;    <td>L1J 2K5</td>&#10;    <td>905-434-6463</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Silver Snail - Toronto</td>&#10;    <td>329 Yonge St 2nd Floor</td>&#10;    <td>Toronto</td>&#10;    <td>ON</td>&#10;    <td>M5B 1R7</td>&#10;    <td>416-593-0889</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Cardboard Memories Inc.</td>&#10;    <td>230 Sandalwood Pkwy E # 2 </td>&#10;    <td>Brampton</td>&#10;    <td>ON</td>&#10;    <td>L6Z 1R3</td>&#10;    <td>905-846-1058</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Wizard's Tower - Nepean</td>&#10;    <td>3350 Fallowfield Rd Ste 4A</td>&#10;    <td>Nepean</td>&#10;    <td>ON</td>&#10;    <td>K2J 5L1</td>&#10;    <td>613-843-0705</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>401 Games, Toys, Sportscards</td>&#10;    <td>401 Yonge St </td>&#10;    <td>Toronto</td>&#10;    <td>ON</td>&#10;    <td>M5B 1S9</td>&#10;    <td>416-599-6446</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hairy Tarantula - North</td>&#10;    <td>6979 Yonge St - Basement </td>&#10;    <td>Toronto</td>&#10;    <td>ON</td>&#10;    <td>M2M 3X9</td>&#10;    <td>647-430-1263</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Legends Warehouse.ca</td>&#10;    <td>643 Chrislea Rd Unit 1</td>&#10;    <td>Vaughan</td>&#10;    <td>ON</td>&#10;    <td>L4L 8A3</td>&#10;    <td>905-264-8830</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dolly's Crafts &amp; Gifts Ltd</td>&#10;    <td>115 Montezuma Trl </td>&#10;    <td>Toronto</td>&#10;    <td>ON</td>&#10;    <td>M1V 1K4</td>&#10;    <td>416-299-1522</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>OMG Games &amp; Collectibles</td>&#10;    <td>130 Bell Farm Rd Unit 10</td>&#10;    <td>Barrie</td>&#10;    <td>ON</td>&#10;    <td>L4M 6J4</td>&#10;    <td>705-721-4263</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Moz Magic</td>&#10;    <td>8895 Erin Garafaxia Tline RR1</td>&#10;    <td>Orton</td>&#10;    <td>ON</td>&#10;    <td>L0N 1N0</td>&#10;    <td>519-855-6365</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Kobold's Corner</td>&#10;    <td>430 Hazeldean Rd Ste 10</td>&#10;    <td>Kanata</td>&#10;    <td>ON</td>&#10;    <td>K2L 1T9</td>&#10;    <td>613-836-3030</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comic Connection - Oakville</td>&#10;    <td>490 Speers Rd Unit 1</td>&#10;    <td>Oakville</td>&#10;    <td>ON</td>&#10;    <td>L6K 2G3</td>&#10;    <td>905-338-2209</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comic Book Addiction</td>&#10;    <td>1022 Brock St S </td>&#10;    <td>Whitby</td>&#10;    <td>ON</td>&#10;    <td>L1N 4L8</td>&#10;    <td>905-666-0011</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>J &amp; J Cards &amp; Collectibles</td>&#10;    <td>230 Weber St N </td>&#10;    <td>Waterloo</td>&#10;    <td>ON</td>&#10;    <td>N2J 3H4</td>&#10;    <td>519-725-0443</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>CG Realm, The</td>&#10;    <td>3147 Tecumseh Rd. E </td>&#10;    <td>Windsor</td>&#10;    <td>ON</td>&#10;    <td>N8W 1G9</td>&#10;    <td>226-347-8700</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Friendly Troll</td>&#10;    <td>5298 Yonge St </td>&#10;    <td>Toronto</td>&#10;    <td>ON</td>&#10;    <td>M2N 5P9</td>&#10;    <td>416-221-5004</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Coins Unlimited</td>&#10;    <td>150 Thorold Rd </td>&#10;    <td>Welland</td>&#10;    <td>ON</td>&#10;    <td>L3C 3V4</td>&#10;    <td>905-788-0376</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dungeon Comics, Cards, &amp; Collectibles</td>&#10;    <td>8 King ST E </td>&#10;    <td>Dundas </td>&#10;    <td>ON</td>&#10;    <td>L9H 1B8</td>&#10;    <td>905-628-6111</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Black Knight Games</td>&#10;    <td>868 Mohawk Rd E </td>&#10;    <td>Hamilton</td>&#10;    <td>ON</td>&#10;    <td>L8T 2R5</td>&#10;    <td>905-296-3401</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Just by Chance Games</td>&#10;    <td>465 Phillip St Ste 13</td>&#10;    <td>Waterloo</td>&#10;    <td>ON</td>&#10;    <td>N2L 6L7</td>&#10;    <td>519-804-0468</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Jeff's Cards &amp; Comics</td>&#10;    <td>422 George St N </td>&#10;    <td>Peterborough</td>&#10;    <td>ON</td>&#10;    <td>K9H 3R5</td>&#10;    <td>705-876-0127</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Worlds Collide Games</td>&#10;    <td>80 Simcoe St N </td>&#10;    <td>Oshawa</td>&#10;    <td>ON</td>&#10;    <td>L1G 4S2</td>&#10;    <td>905-436-8999</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Forbes Hobbies</td>&#10;    <td>100 Sheldon Dr Unit 1</td>&#10;    <td>Cambridge</td>&#10;    <td>ON</td>&#10;    <td>N1R 7S7</td>&#10;    <td>519-621-1556</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Koros Games</td>&#10;    <td>113 Broadway Ave </td>&#10;    <td>Orangeville</td>&#10;    <td>ON</td>&#10;    <td>L9W 1K2</td>&#10;    <td>519-341-7080</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Conspiracy Comics - Burlington</td>&#10;    <td>2388 Fairview St </td>&#10;    <td>Burlington</td>&#10;    <td>ON</td>&#10;    <td>L7R 2E4</td>&#10;    <td>905-333-1552</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comic Warehouse</td>&#10;    <td>20 Strathern Ave </td>&#10;    <td>Brampton</td>&#10;    <td>ON</td>&#10;    <td>L6T 4P7</td>&#10;    <td>905-799-3509</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Millennium Comics &amp; Cards</td>&#10;    <td>1949 Ottawa St </td>&#10;    <td>Windsor</td>&#10;    <td>ON</td>&#10;    <td>N8Y 1R6</td>&#10;    <td>519-257-5588</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Heavy Support Games</td>&#10;    <td>1120 The Queensway </td>&#10;    <td>Toronto</td>&#10;    <td>ON</td>&#10;    <td>M8Z 1P7</td>&#10;    <td>647-343-5436</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Teddy 'N' Me - Mississauga</td>&#10;    <td>2150 Burnhamthorpe Rd W </td>&#10;    <td>Mississauga</td>&#10;    <td>ON</td>&#10;    <td>L5L 3A2</td>&#10;    <td>905-607-4436</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Skyfox Games</td>&#10;    <td>86 William St E </td>&#10;    <td>Oshawa</td>&#10;    <td>ON</td>&#10;    <td>L1G 1K6</td>&#10;    <td>905-720-3377</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Master's Emporium</td>&#10;    <td>2-55 St Clair St </td>&#10;    <td>Chatham</td>&#10;    <td>ON</td>&#10;    <td>N7L 3H8</td>&#10;    <td>519-358-1441</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Toy Trove, The</td>&#10;    <td>2 St Paul St W </td>&#10;    <td>St Catharines</td>&#10;    <td>ON</td>&#10;    <td>L2R 3N7</td>&#10;    <td>289-362-4401</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Teddy 'N' Me - Brampton</td>&#10;    <td>499 Main St S #85</td>&#10;    <td>Brampton</td>&#10;    <td>ON</td>&#10;    <td>L6Y 1N7</td>&#10;    <td>905-654-6393</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Worlds Away</td>&#10;    <td>666 Dundas St </td>&#10;    <td>London</td>&#10;    <td>ON</td>&#10;    <td>N5W 2Y8</td>&#10;    <td>519-433-1267</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Phoenix Rising</td>&#10;    <td>325 St Paul St </td>&#10;    <td>St. Catherines</td>&#10;    <td>ON</td>&#10;    <td>L2R 3N1</td>&#10;    <td>905-688-0119</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comic Connection - Hamilton</td>&#10;    <td>895 King St W </td>&#10;    <td>Hamilton</td>&#10;    <td>ON</td>&#10;    <td>L8S 1K5</td>&#10;    <td>905-522-2357</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Algonquin College Bookstore</td>&#10;    <td>1385 Woodroff Ave H Bldg </td>&#10;    <td>Ottawa</td>&#10;    <td>ON</td>&#10;    <td>K2G 1V8</td>&#10;    <td>613-727-4723</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Heroes World Comic Shop Of The New Millennium</td>&#10;    <td>8601 Warden Ave Unit 13</td>&#10;    <td>Markham</td>&#10;    <td>ON</td>&#10;    <td>L3R 0B5</td>&#10;    <td>905-948-1949</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Phoenix Games &amp; Hobbies</td>&#10;    <td>86 Queen St S </td>&#10;    <td>Kitchener</td>&#10;    <td>ON</td>&#10;    <td>N2G 1V9</td>&#10;    <td>519-576-3896</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Sketchbook Comics &amp; Games</td>&#10;    <td>224 Glenridge Ave Unit 9</td>&#10;    <td>St Catharines</td>&#10;    <td>ON</td>&#10;    <td>L2T 3J9</td>&#10;    <td>905-682-0111</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Breakers Sports Cards</td>&#10;    <td>780 Baseline Rd </td>&#10;    <td>Ottawa</td>&#10;    <td>ON</td>&#10;    <td>K2C 3V8</td>&#10;    <td>613-228-9554</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Heroic Dreams</td>&#10;    <td>417 Kingstoon Rd </td>&#10;    <td>Pickering</td>&#10;    <td>ON</td>&#10;    <td>L1V 1A3</td>&#10;    <td>905-492-1240</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Fandom II</td>&#10;    <td>162 Laurier Ave W </td>&#10;    <td>Ottawa</td>&#10;    <td>ON</td>&#10;    <td>K1P 5J2</td>&#10;    <td>613-236-2972</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Conspiracy Comics - Hamilton</td>&#10;    <td>844 King St W </td>&#10;    <td>Hamilton</td>&#10;    <td>ON</td>&#10;    <td>L8S 1K3</td>&#10;    <td>905-540-9700</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Jack's on Queen</td>&#10;    <td>18 Queen St W </td>&#10;    <td>Elmvale</td>&#10;    <td>ON</td>&#10;    <td>L0L 1P0</td>&#10;    <td>705-515-1300</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dueling Grounds</td>&#10;    <td>1193 Bloor St W-Rear </td>&#10;    <td>Toronto</td>&#10;    <td>ON</td>&#10;    <td>M6H 1N4</td>&#10;    <td>416-534-3835</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Untouchables Sports Cards &amp; Gaming</td>&#10;    <td>377 Burnhamthorpe Rd E </td>&#10;    <td>Mississauga</td>&#10;    <td>ON</td>&#10;    <td>L5A 3Y1</td>&#10;    <td>905-275-0708</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Future Pastimes</td>&#10;    <td>163 Lochiel St </td>&#10;    <td>Sarnia</td>&#10;    <td>ON</td>&#10;    <td>N7T 4C3</td>&#10;    <td>519-383-6967</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Action Packed Comics - Kingston</td>&#10;    <td>728 Princess St </td>&#10;    <td>Kingston</td>&#10;    <td>ON</td>&#10;    <td>K7L 1G2</td>&#10;    <td>613-547-5730</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Goodsell Collectables</td>&#10;    <td>307 Front St </td>&#10;    <td>Belleville</td>&#10;    <td>ON</td>&#10;    <td>K8N 2Z9</td>&#10;    <td>613-210-0011</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>4-Colour 8-Bit Comics &amp; Games</td>&#10;    <td>208 Wellington St </td>&#10;    <td>Kingston</td>&#10;    <td>ON</td>&#10;    <td>K7L 5R2</td>&#10;    <td>613-542-1200</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Main Phase</td>&#10;    <td>1010 Dufferin Ave </td>&#10;    <td>Wallaceburg</td>&#10;    <td>ON</td>&#10;    <td>N8A 2W1</td>&#10;    <td>519-480-0433</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Great Canadian Card Company</td>&#10;    <td>1410 Lasalle Blvd </td>&#10;    <td>Sudbury</td>&#10;    <td>ON</td>&#10;    <td>P3A 1Z6</td>&#10;    <td>705-566-5093</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>LA Mood Comics &amp; Games</td>&#10;    <td>350 Richmond St </td>&#10;    <td>London</td>&#10;    <td>ON</td>&#10;    <td>N6A 3C3</td>&#10;    <td>519-432-3987</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>North Bay Games &amp; Hobbies</td>&#10;    <td>393 Main St E </td>&#10;    <td>North Bay</td>&#10;    <td>ON</td>&#10;    <td>P1B 1B3</td>&#10;    <td>705-476-2008</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Entertainment Ink</td>&#10;    <td>110 Pl D'Orleans Dr #157</td>&#10;    <td>Ottawa</td>&#10;    <td>ON</td>&#10;    <td>K1E 1Z3</td>&#10;    <td>613-841-5531</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dragon, The</td>&#10;    <td>55 Wyndham St N Unit T 12</td>&#10;    <td>Guelph</td>&#10;    <td>ON</td>&#10;    <td>N1H 7T8</td>&#10;    <td>519-763-5544</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Bookshelf, The - Memorial AVE</td>&#10;    <td>920 Memorial Ave Ste D</td>&#10;    <td>Thunder Bay</td>&#10;    <td>ON</td>&#10;    <td>P7B 3Z9</td>&#10;    <td>807-345-1159</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Imperial Hobbies</td>&#10;    <td>256 Dundas St </td>&#10;    <td>London</td>&#10;    <td>ON</td>&#10;    <td>N6A 1H3</td>&#10;    <td>519-434-8822</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Fresher Sports Cards</td>&#10;    <td>639 Southdale rd </td>&#10;    <td>London</td>&#10;    <td>ON</td>&#10;    <td>N6E 3M2</td>&#10;    <td>519-649-6116</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hairy Tarantula, The - Downtown</td>&#10;    <td>354 Yonge St 2nd Floor</td>&#10;    <td>Toronto</td>&#10;    <td>ON</td>&#10;    <td>M5B 1S5</td>&#10;    <td>416-596-8002</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Bookshelf, The - May ST</td>&#10;    <td>132 N May St </td>&#10;    <td>Thunder Bay</td>&#10;    <td>ON</td>&#10;    <td>P7C 3P2</td>&#10;    <td>807-623-3811</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Fan of the Sport</td>&#10;    <td>571 Talbot St </td>&#10;    <td>St Thomas</td>&#10;    <td>ON</td>&#10;    <td>N5P 1C5</td>&#10;    <td>519-631-5063</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Xtreme Collectables</td>&#10;    <td>48 Main St W </td>&#10;    <td>Grimsby</td>&#10;    <td>ON</td>&#10;    <td>L3M 1R4</td>&#10;    <td>905-945-2100</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>House of Comics</td>&#10;    <td>220 Queen St E </td>&#10;    <td>Sault Ste Marie</td>&#10;    <td>ON</td>&#10;    <td>P6A 1Y7</td>&#10;    <td>705-946-4392</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comic Book Shoppe, The - Ottawa</td>&#10;    <td>228 Bank St </td>&#10;    <td>Ottawa</td>&#10;    <td>ON</td>&#10;    <td>K2P 1X1</td>&#10;    <td>613-594-3042</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>GameShelf, The</td>&#10;    <td>920 Memorial Ave Ste I</td>&#10;    <td>Thunder Bay</td>&#10;    <td>ON</td>&#10;    <td>P7B 3Z9</td>&#10;    <td>807-768-8748</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>K-OS Collectibles Incorporated</td>&#10;    <td>3636 Steeles Ave E Unit # 135</td>&#10;    <td>Markham</td>&#10;    <td>ON</td>&#10;    <td>L3R 1K9</td>&#10;    <td>905-944-9393</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hugin &amp; Munin</td>&#10;    <td>1664 Tecumseh Rd. E. </td>&#10;    <td>Windsor</td>&#10;    <td>ON</td>&#10;    <td>N8W 1C5</td>&#10;    <td>519-974-7898</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Giddy Goblin Games &amp; Goodies, The</td>&#10;    <td>321 10th Street </td>&#10;    <td>Hanover</td>&#10;    <td>ON</td>&#10;    <td>N4N 3B8</td>&#10;    <td>519-506-4256</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Leve1 UP</td>&#10;    <td>517 Dundas St </td>&#10;    <td>Woodstock</td>&#10;    <td>ON</td>&#10;    <td>N4S 1C3</td>&#10;    <td>226-228-0762</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Book Bin, The</td>&#10;    <td>260 Third Ave </td>&#10;    <td>Timmins</td>&#10;    <td>ON</td>&#10;    <td>P4N 1E3</td>&#10;    <td>705-268-7199</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Scenic City Games</td>&#10;    <td>953 2nd Ave East </td>&#10;    <td>Owen Sound</td>&#10;    <td>ON</td>&#10;    <td>N4K 2H5</td>&#10;    <td>519-416-1230</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Little Shop Of Heroes</td>&#10;    <td>160 Wallace Ave South </td>&#10;    <td>Listowel</td>&#10;    <td>ON</td>&#10;    <td>N4W 1X9</td>&#10;    <td>519-291-2281</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hobby Kingdom, The</td>&#10;    <td>1160 Blair Rd Unit A</td>&#10;    <td>Burlington</td>&#10;    <td>ON</td>&#10;    <td>L7M 1K9</td>&#10;    <td>905-592-1120</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gamedom</td>&#10;    <td>55 Ontario St S </td>&#10;    <td>Milton</td>&#10;    <td>ON</td>&#10;    <td>L9T 2M3</td>&#10;    <td>905-299-3663</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hobby Shark, The</td>&#10;    <td>49 Main St S </td>&#10;    <td>Georgetown</td>&#10;    <td>ON</td>&#10;    <td>L7G 3G2</td>&#10;    <td>905-873-9991</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Crafts N' Things Hobbies &amp; Games</td>&#10;    <td>21 James Bay Junction Rd </td>&#10;    <td>Seguin</td>&#10;    <td>ON</td>&#10;    <td>P2A 0B2</td>&#10;    <td>705-746-6107</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>R &amp; D Comics &amp; Collectables</td>&#10;    <td>2 Orchard Heights Blvd Unit 39</td>&#10;    <td>Aurora</td>&#10;    <td>ON</td>&#10;    <td>L4G 6T5</td>&#10;    <td>905-841-1804</td>&#10;    <td>&#10;  </td></tr>&#10;  <tr>&#10;    <td>Atomic Age Comics</td>&#10;    <td>497 Pape Ave </td>&#10;    <td>Toronto</td>&#10;    <td>ON</td>&#10;    <td>M4K 3R1</td>&#10;    <td>416-778-5131</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Burdin's Comics</td>&#10;    <td>1369 Main Street East </td>&#10;    <td>Hamilton</td>&#10;    <td>ON</td>&#10;    <td>L8K 1B8</td>&#10;    <td>905-312-6642</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>EI Sports</td>&#10;    <td>2269 Riverside Drive Unit 177 </td>&#10;    <td>Ottawa</td>&#10;    <td>ON</td>&#10;    <td>K1H 8K2</td>&#10;    <td>613-247-1154</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Chat Noir Books</td>&#10;    <td>57 Whitewood Ave. </td>&#10;    <td>New Liskeard</td>&#10;    <td>ON</td>&#10;    <td>P0J 1P0</td>&#10;    <td>705-647-8215</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Kingston Gaming NeXus</td>&#10;    <td>270 Bagot St </td>&#10;    <td>Kingston</td>&#10;    <td>ON</td>&#10;    <td>K7L 3G5</td>&#10;    <td>613-546-2565</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Avid Reader Bookstore, The</td>&#10;    <td>513 Division St </td>&#10;    <td>Cobourg</td>&#10;    <td>ON</td>&#10;    <td>K9A 5G6</td>&#10;    <td>905-372-7233</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Pulp Comics</td>&#10;    <td>4559 Queen St </td>&#10;    <td>Niagara Falls</td>&#10;    <td>ON</td>&#10;    <td>L2E 2L4</td>&#10;    <td>905-353-0666</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Alternate Icons</td>&#10;    <td>257 Malbrough St </td>&#10;    <td>Brantford</td>&#10;    <td>ON</td>&#10;    <td>N3S 4T4</td>&#10;    <td>519-720-0771</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game On!</td>&#10;    <td>251 Water St </td>&#10;    <td>Summerside</td>&#10;    <td>PEI</td>&#10;    <td>C1N 1B5</td>&#10;    <td>902-303-3667</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comic Hunter, The</td>&#10;    <td>181 Queen St </td>&#10;    <td>Charlottetown</td>&#10;    <td>PEI</td>&#10;    <td>C1A 4B4</td>&#10;    <td>902-566-2926</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Lightning Bolt Comics</td>&#10;    <td>99 Grafton St </td>&#10;    <td>Charlottetown</td>&#10;    <td>PEI</td>&#10;    <td>C1A 1K9</td>&#10;    <td>902-894-4000</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Aux 2 Légendes</td>&#10;    <td>1915 Blvd Talbot Bureau: 2</td>&#10;    <td>Chicoutimi</td>&#10;    <td>QC</td>&#10;    <td>G7H 7Y4</td>&#10;    <td>418-973-1536</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gamer's Spot - Trois-Rivières</td>&#10;    <td>926 Du Saint-Maurcie Blvd </td>&#10;    <td>Trois-Rivières</td>&#10;    <td>QC</td>&#10;    <td>G9A 3P9</td>&#10;    <td>819-841-5329</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Le Valet d'Coeur</td>&#10;    <td>4408 Saint-Denis St </td>&#10;    <td>Montréal</td>&#10;    <td>QC</td>&#10;    <td>H2J 2L1</td>&#10;    <td>514-499-9970</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Le Multivers</td>&#10;    <td>55 Rue Simard </td>&#10;    <td>Saint-Ambroise</td>&#10;    <td>QC</td>&#10;    <td>G7P 2R6</td>&#10;    <td>581-235-3678</td>&#10;    <td>&#10;  </td></tr>&#10;  <tr>&#10;    <td>Jeux Face a Face</td>&#10;    <td>4425 Wellington </td>&#10;    <td>Verdun (Montréal)</td>&#10;    <td>QC</td>&#10;    <td>H4G 1W6</td>&#10;    <td>514-769-7007</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Le Beginner</td>&#10;    <td>899 Cure Poirier W Ste 200</td>&#10;    <td>Longueuil</td>&#10;    <td>QC</td>&#10;    <td>J4K 2C5</td>&#10;    <td>450-396-6252</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Le Griffon Jeux Et Fantasies</td>&#10;    <td>19 Wellington Nord </td>&#10;    <td>Sherbrooke</td>&#10;    <td>QC</td>&#10;    <td>J1H 5A9</td>&#10;    <td>819-566-0036</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Keeper</td>&#10;    <td>10810 Lajeunesse </td>&#10;    <td>Montreal</td>&#10;    <td>QC</td>&#10;    <td>H3L 2E8</td>&#10;    <td>438-380-3939</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Game Keeper - Verdun</td>&#10;    <td>4430 Wellington </td>&#10;    <td>Verdun</td>&#10;    <td>QC</td>&#10;    <td>H4G 1W5</td>&#10;    <td>438-381-1010</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Aux Jeux</td>&#10;    <td>1000 SAINT-JEAN BLVD STE 40</td>&#10;    <td>POINTE-CLAIRE</td>&#10;    <td>QC</td>&#10;    <td>H9R 5P1</td>&#10;    <td>514-505-9111</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Maitre de Jeu</td>&#10;    <td>14 Rue Saint Joseph </td>&#10;    <td>Granby</td>&#10;    <td>QC</td>&#10;    <td>J2G 6T6</td>&#10;    <td>450-776-6669</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Carta Magica - Montreal</td>&#10;    <td>6360 Saint-Hubert St </td>&#10;    <td>Montreal</td>&#10;    <td>QC</td>&#10;    <td>H2S 2M2</td>&#10;    <td>514-286-9099</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>BD Cosmos</td>&#10;    <td>1884 St-Martin W </td>&#10;    <td>LAVAL</td>&#10;    <td>QC</td>&#10;    <td>H7S 1M9</td>&#10;    <td>450-934-3922</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Place Magic GLP</td>&#10;    <td>714 King St E Ste 200</td>&#10;    <td>Sherbrooke</td>&#10;    <td>QC</td>&#10;    <td>J1G 1C4</td>&#10;    <td>819-780-2864</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Le Fou De Roi</td>&#10;    <td>20 St. Germain Est </td>&#10;    <td>Rimouski</td>&#10;    <td>QC</td>&#10;    <td>G5L 1A2</td>&#10;    <td>418-721-3669</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Chez Geeks</td>&#10;    <td>1663 St-Denis </td>&#10;    <td>Montreal</td>&#10;    <td>QC</td>&#10;    <td>H2X 3K4</td>&#10;    <td>514-903-3433</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hobbygame</td>&#10;    <td>30 rue Turgeon </td>&#10;    <td>St-Thérèse</td>&#10;    <td>QC</td>&#10;    <td>J7E 3H2</td>&#10;    <td>450-818-0118</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Spoutnik Chambly</td>&#10;    <td>820 Boul de Perigny </td>&#10;    <td>Chambly</td>&#10;    <td>QC</td>&#10;    <td>J3L 1W3</td>&#10;    <td>4504033344</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>L'Abyss</td>&#10;    <td>7355 St-Michel </td>&#10;    <td>Montreal</td>&#10;    <td>QC</td>&#10;    <td>H2A 2Z9</td>&#10;    <td>5145079636</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Librairie Donjon - Quebec City</td>&#10;    <td>320 ST-JOSEPH EST, STE 14 </td>&#10;    <td>Quebec City</td>&#10;    <td>QC</td>&#10;    <td>G1K 8G5</td>&#10;    <td>418-523-1511</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Club Video Zone</td>&#10;    <td>401 Rue du Sud </td>&#10;    <td>Cowansville</td>&#10;    <td>QC</td>&#10;    <td>J2K 2X6</td>&#10;    <td>450-263-5389</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gamers' Vault</td>&#10;    <td>4986 Ch Queen-Mary </td>&#10;    <td>Montréal</td>&#10;    <td>QC</td>&#10;    <td>H3W 1X2</td>&#10;    <td>514-564-0445</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Boutique FDB Store</td>&#10;    <td>35 Dumas </td>&#10;    <td>Gatineau</td>&#10;    <td>QC</td>&#10;    <td>J8Y 2N1</td>&#10;    <td>8192054263</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Tome2</td>&#10;    <td>42 Saint-Jacques St </td>&#10;    <td>Saint-Jean-Sur-Richelieu</td>&#10;    <td>QC</td>&#10;    <td>J3B 2J7</td>&#10;    <td>450-376-6106</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>La Coupe Stanley</td>&#10;    <td>562 Saint-Georges St </td>&#10;    <td>Saint-Jerome</td>&#10;    <td>QC</td>&#10;    <td>J7Z 5B8</td>&#10;    <td>450-565-0369</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Le Palais Des Cartes (Card Palace)</td>&#10;    <td>932 Ste. Croix St. </td>&#10;    <td>St. Laurent</td>&#10;    <td>QC</td>&#10;    <td>H4L 3Y6</td>&#10;    <td>514-747-3986</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Sports Card Hall of Fame - Montréal</td>&#10;    <td>5155 Decarie Blvd </td>&#10;    <td>Montréal</td>&#10;    <td>QC</td>&#10;    <td>H3W 3C2</td>&#10;    <td>514-488-8881</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Sports Card Hall of Fame - DDO</td>&#10;    <td>4065 St-Jean Blvd </td>&#10;    <td>West Island</td>&#10;    <td>QC</td>&#10;    <td>H9G 2R4</td>&#10;    <td>514-696-2273</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Gamer's Spot - Drummondville</td>&#10;    <td>350 Rue Heriot </td>&#10;    <td>Drummondville</td>&#10;    <td>QC</td>&#10;    <td>J2B 1B2</td>&#10;    <td>819-472-5389</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Freegame - Carrefour Charlesbourg</td>&#10;    <td>8500, Boul. Henri-Bourassa #122 </td>&#10;    <td>Québec</td>&#10;    <td>QC</td>&#10;    <td>G1G 5X1</td>&#10;    <td>418-624-4224</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Cartomanie</td>&#10;    <td>2408 St-Dominique </td>&#10;    <td>Jonquiere</td>&#10;    <td>QC</td>&#10;    <td>G7X 6K6</td>&#10;    <td>418-695-8031</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Multizone</td>&#10;    <td>1100 Boul Maloney </td>&#10;    <td>Gatineau</td>&#10;    <td>QC</td>&#10;    <td>J8T 6G3</td>&#10;    <td>819-561-1411</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Carta Magica - Saint Laurent</td>&#10;    <td>916 Boulevard Décarie </td>&#10;    <td>Saint Laurent</td>&#10;    <td>QC</td>&#10;    <td>H4L 3M4</td>&#10;    <td>514-508-9099</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Sous Sol Hobby</td>&#10;    <td>147 Maple Boulevard </td>&#10;    <td>Chateauguay</td>&#10;    <td>QC</td>&#10;    <td>J6J 3R1</td>&#10;    <td>450-692-6060</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Freegame - Promenades du Sud</td>&#10;    <td>940, Chemin du Sault </td>&#10;    <td>St-Romuald</td>&#10;    <td>QC</td>&#10;    <td>G6W 5M6</td>&#10;    <td>418-834-1234</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Hey, le Comic!</td>&#10;    <td>4-3000 boul. des Laurentides </td>&#10;    <td>LAVAL</td>&#10;    <td>QC</td>&#10;    <td>H7K 3G5</td>&#10;    <td>450-933-7493</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Le Chevalier</td>&#10;    <td>516 Boul. Lacombe </td>&#10;    <td>Le Gardeur</td>&#10;    <td>QC</td>&#10;    <td>J5Z 1P6</td>&#10;    <td>450-585-7373</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Anneaux Du Temps</td>&#10;    <td>2061 Cherrier </td>&#10;    <td>St-Hyacinthe</td>&#10;    <td>QC</td>&#10;    <td>J2S 1G7</td>&#10;    <td>450-261-9119</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Les Mordus De La Carte</td>&#10;    <td>549 De Lanaudiere </td>&#10;    <td>Joliette</td>&#10;    <td>QC</td>&#10;    <td>J6E 3M3</td>&#10;    <td>450-759-2362</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Magasin Ménard Comics</td>&#10;    <td>1483 Saint-Charles O </td>&#10;    <td>Longueuil</td>&#10;    <td>QC</td>&#10;    <td>J4K 1A7</td>&#10;    <td>450-679-2221</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Le Coin du Livre</td>&#10;    <td>419 Ave St-Charles </td>&#10;    <td>Vaudreuil-Dorion</td>&#10;    <td>QC</td>&#10;    <td>J7V 2M9</td>&#10;    <td>450-510-9880</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Orthanc La Forteresse</td>&#10;    <td>26 A Notre-Dame Est. </td>&#10;    <td>Victoriaville</td>&#10;    <td>QC</td>&#10;    <td>G6P 3Z5</td>&#10;    <td>819-751-2727</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>L'imaginaire</td>&#10;    <td>2740 boul Centre d'achats </td>&#10;    <td>Laurier</td>&#10;    <td>QC</td>&#10;    <td>G1V 4P7</td>&#10;    <td>418-658-5639</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Boutique Mobius</td>&#10;    <td>12200 1st Ave </td>&#10;    <td>Saint-Georges</td>&#10;    <td>QC</td>&#10;    <td>G5Y 2E2</td>&#10;    <td>418-221-7797</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Freegame - Les Promenades Beauport</td>&#10;    <td>3333, rue du Carrefour </td>&#10;    <td>Québec</td>&#10;    <td>QC</td>&#10;    <td>G1C 5R9</td>&#10;    <td>418-624-4224</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Joubec</td>&#10;    <td>149 Ave Principale </td>&#10;    <td>Rouyn-Noranda</td>&#10;    <td>QC</td>&#10;    <td>J9X 4P3</td>&#10;    <td>819-762-0234</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Collect-Edition</td>&#10;    <td>555 Notre-Dame Local B</td>&#10;    <td>La Prairie</td>&#10;    <td>QC</td>&#10;    <td>J5R 5E5</td>&#10;    <td>450-444-9005</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>La Geek Shop</td>&#10;    <td>300 King Ouest </td>&#10;    <td>Sherbrooke</td>&#10;    <td>QC</td>&#10;    <td>j1h1r3</td>&#10;    <td>819-861-2551</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>La Place Du Collectionneur</td>&#10;    <td>C-2685 CH Sainte-Marie </td>&#10;    <td>Mascouche</td>&#10;    <td>QC</td>&#10;    <td>J7K 1M8</td>&#10;    <td>450-474-3487</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Le Nid du Dragon</td>&#10;    <td>91 Saint-Andre St Sous-Sol</td>&#10;    <td>Metabetchouan</td>&#10;    <td>QC</td>&#10;    <td>G8G 1V5</td>&#10;    <td>418-349-3447</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Les Entreprises Free-Game - Levis</td>&#10;    <td>44 Route Du Président Kennedy </td>&#10;    <td>Levis</td>&#10;    <td>QC</td>&#10;    <td>G6V 6C5</td>&#10;    <td>4188384823</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Galandorium</td>&#10;    <td>1219 Rue Sherbrooke </td>&#10;    <td>Magog</td>&#10;    <td>QC</td>&#10;    <td>J1X 2T2</td>&#10;    <td>819-340-3068</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Le Portail Du Jeu</td>&#10;    <td>20 Boulevard Georges-Gagne Ste 101</td>&#10;    <td>Delson</td>&#10;    <td>QC</td>&#10;    <td>J5B 2E2</td>&#10;    <td>450-632-3456</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Ramjak Sports</td>&#10;    <td>2801 Miners Ave Ste A</td>&#10;    <td>Saskatoon</td>&#10;    <td>SK</td>&#10;    <td>S7K 4Z4</td>&#10;    <td>306-974-7778</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Tramp's - Street West</td>&#10;    <td>29 12th Street West </td>&#10;    <td>Prince Albert</td>&#10;    <td>SK</td>&#10;    <td>S6V 3B4</td>&#10;    <td>306-764-3816</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Comic Readers - Downtown</td>&#10;    <td>2125 11th Ave Ste 105</td>&#10;    <td>Regina</td>&#10;    <td>SK</td>&#10;    <td>S4P 3X3</td>&#10;    <td>306-779-0900</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Collector's Lane</td>&#10;    <td>2325 Preston Ave #34</td>&#10;    <td>Saskatoon</td>&#10;    <td>SK</td>&#10;    <td>S7J 2G2</td>&#10;    <td>306-373-9911</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Amazing Stories</td>&#10;    <td>270-2600 8th St E </td>&#10;    <td>Saskatoon</td>&#10;    <td>SK</td>&#10;    <td>S7H 0V7</td>&#10;    <td>306-242-8996</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Tramp's Music &amp; Books</td>&#10;    <td>1828 Scarth St </td>&#10;    <td>Regina</td>&#10;    <td>SK</td>&#10;    <td>S4P 2G3</td>&#10;    <td>306-757-8616</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>8th Street Books &amp; Comics</td>&#10;    <td>1006 8th St. E </td>&#10;    <td>Saskatoon</td>&#10;    <td>SK</td>&#10;    <td>S7H 0R9</td>&#10;    <td>306-343-6624</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Dragon's Den</td>&#10;    <td>1026 Louise Ave </td>&#10;    <td>Saskatoon</td>&#10;    <td>SK</td>&#10;    <td>S7H 2P6</td>&#10;    <td>306-955-3826</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>Titan Gaming &amp; Collectibles</td>&#10;    <td>3106 3rd Ave Ste 10</td>&#10;    <td>Whitehorse</td>&#10;    <td>YT</td>&#10;    <td>Y1A 5G1</td>&#10;    <td>867-668-5750</td>&#10;    <td>&#10;      <a>Email</a>&#10;    </td>&#10;  </tr>&#10;</tbody></table>

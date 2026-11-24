@@ -1,0 +1,324 @@
+---
+id: fm3dfmcg
+kind: article
+lang: en
+path: /en/articles/makingmagic/2012/09-17-return-on-investment-part-3
+title: Return on Investment, Part 3
+published: '2012-09-17'
+column_slug: makingmagic
+column: Making Magic
+authors:
+- slug: markrosewater
+  name: Mark Rosewater
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/news/making-magic/return-investment-part-3-2012-09-13
+    lang_detected: en
+    capture_id: 228846
+    url: https://magic.wizards.com/en/news/making-magic/return-investment-part-3-2012-09-13
+    captured_at: '2024-05-18 03:51:38+00'
+    rule: jsonld.headline
+  published:
+    page_key: magic.wizards.com/en/news/making-magic/return-investment-part-3-2012-09-13
+    lang_detected: en
+    capture_id: 228846
+    url: https://magic.wizards.com/en/news/making-magic/return-investment-part-3-2012-09-13
+    captured_at: '2024-05-18 03:51:38+00'
+    rule: jsonld.date_published
+  authors:
+    page_key: magic.wizards.com/en/news/making-magic/return-investment-part-3-2012-09-13
+    lang_detected: en
+    capture_id: 228846
+    url: https://magic.wizards.com/en/news/making-magic/return-investment-part-3-2012-09-13
+    captured_at: '2024-05-18 03:51:38+00'
+    rule: jsonld.author
+  column:
+    page_key: magic.wizards.com/en/news/making-magic/return-investment-part-3-2012-09-13
+    lang_detected: en
+    capture_id: 228846
+    url: https://magic.wizards.com/en/news/making-magic/return-investment-part-3-2012-09-13
+    captured_at: '2024-05-18 03:51:38+00'
+    rule: url.article_section
+    registry_match: registry.separator_and_case
+sources:
+- document_id: fm3dfmcg
+  url: https://magic.wizards.com/en/news/making-magic/return-investment-part-3-2012-09-13
+  page_key: magic.wizards.com/en/news/making-magic/return-investment-part-3-2012-09-13
+  lang: en
+  template: contentful
+  captured_at: '2024-05-18 03:51:38+00'
+  capture_id: 228846
+  wayback_url: https://web.archive.org/web/20240518035138id_/https://magic.wizards.com/en/news/making-magic/return-investment-part-3-2012-09-13
+- document_id: fm3dfmcg
+  url: http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/mm/213
+  page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/mm/213
+  lang: en
+  template: aspx
+  captured_at: '2014-04-08 15:08:21+00'
+  capture_id: 649856
+  wayback_url: https://web.archive.org/web/20140408150821id_/http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/mm/213
+- document_id: fm3dfmcg
+  url: https://magic.wizards.com/en/articles/archive/making-magic/return-investment-part-3-2012-09-13
+  page_key: magic.wizards.com/en/articles/archive/making-magic/return-investment-part-3-2012-09-13
+  lang: en
+  template: drupal
+  captured_at: '2022-09-27 07:42:20+00'
+  capture_id: 906410
+  wayback_url: https://web.archive.org/web/20220927074220id_/https://magic.wizards.com/en/articles/archive/making-magic/return-investment-part-3-2012-09-13
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: fm3dfmcg
+  capture_id: 228846
+  url: https://magic.wizards.com/en/news/making-magic/return-investment-part-3-2012-09-13
+  wayback_url: https://web.archive.org/web/20240518035138id_/https://magic.wizards.com/en/news/making-magic/return-investment-part-3-2012-09-13
+  captured_at: '2024-05-18 03:51:38+00'
+  template: contentful
+  sha256: d17919ba82152c94ca695ffcddd7d446f2dd3deeea4c6dfbf578440e36ed0852
+render_recovery:
+- code: image_without_source
+  element: img
+  reason: The preview omitted the image because it had no usable source address.
+  occurrences: 1
+---
+Welcome to Week 3 of *Return to Ravnica* previews. [Two weeks ago](https://web.archive.org/web/20120917000000/https://magic.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/mm/211), I explained how we came up with the overall block plan of large/large/small and the guild breakdown of 5/5/10, as well as how we decided what guilds went into what sets. [Last week](https://web.archive.org/web/20120917000000/https://magic.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/mm/212), I talked about how we designed the keyword for each guild. This is the week I talk about some of the stuff I haven't gotten to yet. Note that the card-by-card column is next week, so for today I'll be talking about larger aspects of the set rather than the stories of individual cards. With that out of the way, let's get to it.
+
+The Guild Charms
+
+![](https://i.ormos.uk/a3/f5/a3f5715858d69d4f6e2499745b96361aa82b7ce98ba677749c49865a7bbc73c3.jpg)
+
+*Azorius Charm | Izzet Charm | Rakdos Charm | Golgari Charm (Coming Soon) | Selesnya Charm*
+
+Once upon a time, **Magic** was created. In order to make the game, [Richard Garfield](https://web.archive.org/web/20120917000000/https://magic.wizards.com/Magic/Magazine/Archive.aspx?author=Richard%20Garfield) made use of playtesters who were friends he had met through various gaming circles. One such venue was the local bridge club. There, Richard met some people who would go on to become the core of the group that designed the set *Mirage* (known as *Menagerie* in design). The team included [Bill Rose](https://web.archive.org/web/20120917000000/https://magic.wizards.com/Magic/Magazine/Archive.aspx?author=Bill%20Rose) (current vice president of Ramp;D), Charlie Catino (currently in Ramp;D in charge of the games **Duel Masters** and its American spinoff **Kaijudo**), and Joel Mick (former **Magic** brand manager and onetime head designer/developer).
+
+The set was full of fun designs, but today I'm going to talk about these five cards:
+
+![](https://i.ormos.uk/29/f0/29f0e08f3bde909ea9c0528bd0fbcac7435f88319eb83b0bcbdcc478ac432fb4.jpg)
+
+*[Ivory Charm](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ivory+Charm) | [Sapphire Charm](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sapphire+Charm) | [Ebony Charm](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ebony+Charm) | [Chaos Charm](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chaos+Charm) | [Seedling Charm](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Seedling+Charm)*
+
+These were the very first charms. The idea behind them was simple. Instead of having one larger effect, charms had three small effects. Each individual effect was too small to warrant a card unto itself, but by having the three together, the flexibility justified having a card.
+
+The same design team would create another cycle of charms in the next set of the block, *Visions*:
+
+![](https://i.ormos.uk/d8/4c/d84c0b736550973a0ce99a532f6db46afef3e430d554b1828c3ed87d6126cdf0.jpg)
+
+*[Hope Charm](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hope+Charm) | [Vision Charm](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vision+Charm) | [Funeral Charm](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Funeral+Charm) | [Hearth Charm](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hearth+Charm) | [Emerald Charm](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Emerald+Charm)*
+
+Charms proved very popular and, as such, have been done many times since then. *Planeshift* introduced the idea of three-color charms, where each effect was a small effect from one of the three colors in the mana cost. Because the cheapest it could be was three mana (hybrid hadn't been invented yet), the effects were a bit bigger than previous charms.
+
+![](https://i.ormos.uk/a7/e8/a7e81cbe156d6c663bae56d151d1d69fb9f82f222822e88565338c63d10d8965.jpg)
+
+*[Dromar's Charm](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dromar%27s+Charm) | [Crosis's Charm](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crosis%27s+Charm) | [Darigaaz's Charm](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Darigaaz%27s+Charm) | [Rith's Charm](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rith%27s+Charm) | [Treva's Charm](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Treva%27s+Charm)*
+
+*Onslaught* went back to monocolored charms, except this time making sure one effect of each charm was tribal (i.e., it cared about one of the creature types the set was focused on).
+
+![](https://i.ormos.uk/08/79/0879750dfbb97849686adeda1a4d8c7218d05e5cf3002f5fc42d693cf195006a.jpg)
+
+*[Piety Charm](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Piety+Charm) | [Trickery Charm](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Trickery+Charm) | [Misery Charm](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Misery+Charm) | [Fever Charm](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fever+Charm) | [Vitality Charm](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vitality+Charm)*
+
+*Planar Chaos* made use of charms to demonstrate how the color pie was different in this alternative present (fit in between the past of *Time Spiral* and the future of *Future Sight*). The *Planar Chaos* charms were set up such that one ability was a core ability for the color (something the color always does), one was a mantle ability (something the color normally could stretch to do), and one was a crust ability (this was an ability not in that color's part of the color pie but something that still made sense with the color's base philosophy—this was the space *Planar Chaos* was messing around in with its alternative color pie). For more on core, mantle, and crust, I suggest [reading this column](https://web.archive.org/web/20120917000000/https://magic.wizards.com/magic/magazine/article.aspx?x=mtg/daily/mm/147).
+
+![](https://i.ormos.uk/de/1b/de1bce73a72bb0e2edce51eaa7ffc2f03870576fb305c34ff67d2499adcaaed9.jpg)
+
+*[Dawn Charm](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dawn+Charm) | [Piracy Charm](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Piracy+Charm) | [Midnight Charm](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Midnight+Charm+) | [Fury Charm](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fury+Charm) | [Evolution Charm](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Evolution+Charm)*
+
+*Shards of Alara* was all about the ally-connected three-color shards. *Planeshift* had covered this space before, but it had been a while and the *Shards of Alara* design team really wanted to hit the shard design space as hard as it could.
+
+![](https://i.ormos.uk/0f/c7/0fc7bb60ce7d69eaf6fd5869e6f89c08b20415660e8c87cb06b9a3c588830769.jpg)
+
+*[Bant Charm](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bant+Charm) | [Esper Charm](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Esper+Charm) | [Grixis Charm](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grixis+Charm) | [Jund Charm](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Jund+Charm) | [Naya Charm](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Naya+Charm)*
+
+Which brings us to *Gatecrash* design. Wait a minute, isn't this column about *Return to Ravnica* design? It is, but this story actually starts in *Gatecrash* design. Normally, the winter set doesn't start design until the fall design wraps up, but because *Gatecrash* is a large set, the two sets overlapped design for about six months.
+
+Anyway, I was in the middle of leading *Gatecrash* design and I was trying to come up with some new ideas for cycles. *Ravnica* had a lot of exciting cycles and we knew we were going to revisit some of them, but I wanted to make sure we had some cycles in *Return to Ravnica* block that hadn't been in *Ravnica* block. I wanted us to explore some different space.
+
+I should stress that I wasn't necessarily looking for ten-card cycles, because *Return to Ravnica* design was well underway. I was just interested in finding something I could use as a cycle for just my set. I'll point out that some of the cycles in *Return to Ravnica* were created as ten-card cycles and will be finished up in *Gatecrash* while others were designed solely for *Return to Ravnica* and only appear for the five guilds in it.
+
+I'm not sure how or why, but one day it just hit me: we've never done two-color charms! I mentally scrolled through my head (you guys just have to scroll up) and realized we had done numerous monocolored charms and even two sets of three-colored charms, but we'd never done two-color. Well, that seemed like an oversight.
+
+There were two problems to solve with the charms. One, how do you have three effects if you only have two colors (probably the thing, by the way, that had kept this from being done before)? Two, how did I put charms in my set without them being in *Return to Ravnica*? Some cycles people will accept to be broken, but it would be impossible to do something as iconic as charms and not have all ten appear.
+
+The first problem proved easy to crack. Two-color charms have one ability the first color can do, one ability the second color can do, and a third ability that both colors can do. The third ability could be thought of as an effect we would do in a hybrid card of these two colors.
+
+The second problem simply took a little boldness on my part. Here's how it went (creative license applies):
+
+> **Me:** Just so you know. I put guild charms in *Gatecrash*.  
+> **Ken:** I don't know about that. I'm not sure if we need guild charms.  
+> **Me:** Do whatever you want to do. I'm just giving you a heads up. *Gatecrash* is going to have them.  
+> (pause)  
+> **Ken:** Fine. I'll put them in.
+
+And that is how the guilds got their charms.
+
+A quick bit of trivia before we move on to the next section:
+
+What is the only Charm (aka a spell with the word "Charm"—not a word with "charm" as a component—in its name) in **Magic** to not be a charm (aka a spell giving you three choices when you cast it)?
+
+See the answer here.
+
+[![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Freyalise%27s+Charm)](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Freyalise%27s+Charm)
+
+  
+  
+
+The Guildmages
+
+![](https://i.ormos.uk/73/58/7358c8e0547549ca1faf249a762d2d15bf235a764e33bb94eae390b7e302a4ed.jpg)
+
+*New Prahv Guildmage (Coming Soon) | Nivix Guildmage | Korozda Guildmage | Rix Maadi Guildmage | Vitu-Ghazi Guildmage (Coming 9/19)*
+
+Charms weren't the only cool thing the *Mirage* design team thought up. Another was this cycle:
+
+![](https://i.ormos.uk/ab/1e/ab1ee0ef2a62000afa56760d344acde6afe91854da07b4d53ba9f8bb68f492d5.jpg)
+
+*[Civic Guildmage](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Civic+Guildmage) | [Shaper Guildmage](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shaper+Guildmage+) | [Shadow Guildmage](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shadow+Guildmage) | [Armorer Guildmage](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Armorer+Guildmage) | [Granger Guildmage](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Granger+Guildmage)*
+
+The guildmages were a tight cycle. They were all 1/1 Human Wizards with two activated abilities. Each activated ability cost one colored mana, the first from one ally and the second from the other. They were designed to help push multicolor play.
+
+In *Ravnica* block, we decided to revisit the guildmages.
+
+![](https://i.ormos.uk/0c/cf/0ccfad3ea1834a142911dfcfc0e31dcbcb7cc8f0abbbff1b6740472984cb5d48.jpg)
+
+*[Azorius Guildmage](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Azorius+Guildmage) | [Dimir Guildmage](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dimir+Guildmage) | [Rakdos Guildmage](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rakdos+Guildmage) | [Gruul Guildmage](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gruul+Guildmage) | [Selesnya Guildmage](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Selesnya+Guildmage) | [Orzhov Guildmage](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Orzhov+Guildmage) | [Izzet Guildmage](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Izzet+Guildmage) | [Golgari Guildmage](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Golgari+Guildmage) | [Boros Guildmage](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Boros+Guildmage) | [Simic Guildmage](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Simic+Guildmage)*
+
+We liked the idea of small creatures with two activated abilities, but we thought this time we'd make a few key changes:
+
+1.  The creatures made use of the brand-new hybrid mana. This allowed you to play the creature in any deck that had either color. Because each activated ability was monocolored, this ensured the creature had value even if you only had one of the two colors available. Between the hybrid mana and the second activated ability, the guildmages got better when you played both colors of the guild.
+2.  Instead of one-drop 1/1 creatures, we chose to give the *Ravnica* guildmages a better body. As hybrid mana was already forcing our hand to have all colored mana in the mana cost, we were able to make them HH (HH stands for two hybrid mana of the same colors) 2/2 creatures.
+3.  The activated abilities didn't have a tap so you could use them multiple times in a turn.
+4.  While we chose to keep having the two activations be at the same cost, we removed the restriction of that being one mana. We also removed the restriction that all guildmages had to have the same activation costs.
+
+It took a while for players to understand the value of the guildmages, but once they did, they embraced them. We knew, in coming back to Ravnica, that we'd have to have some form of guildmages, as they ended up being one of the most iconic cycles of the *Ravnica* block.
+
+This is where we run into the old Nostalgia vs. Novelty issue. We wanted the cards to feel enough like guildmages that we could call them guildmages but different enough that it didn't feel like we were just giving the old guildmages a new coat of paint.
+
+We started by trying to find new ways to do the guildmages as hybrid cards. We tried different sizes and we experimented with having different-costed activations. Eventually, we decided we needed to take a more drastic step. The idea came up about making them gold cards as opposed to hybrid. Rather than needing one of the colors in the guild, you would need both.
+
+Once we made that decision, we then tried to figure out how we could do a small activated ability and a large one. Rather than separate them by color, we thought, why not have each activation use both colors? The mana cost already forced the player to have both colors and this way we could make a small effect using both colors for the early game and a large effect using both colors for the mid- to late game.
+
+Development messed around with a bunch of different sizes, ending up with the CD (C being the first color of the guild and D being the second) 2/2 model. Development also spent a great deal of time fine-tuning what effects the small and big activations would be.
+
+In the end, I'm very happy that we came up with something that still felt like guildmages yet had a completely different play pattern.
+
+Special Preview Aside
+
+Speaking of taking iconic *Ravnica* block things and revamping them for *Return to Ravnica* block, I want to show off my preview card for today. The guildmages were famous two-drops from *Ravnica* block. What was another famous two-drop? This card:
+
+[![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Watchwolf)](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Watchwolf)
+
+  
+
+My preview card today does *Return to Ravnica*'s take on [Watchwolf](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Watchwolf).
+
+![Call of the Conclave](https://i.ormos.uk/63/6b/636b9f7c41c615cfbff114d5589d16345bb64d51ef2e661245be0b7a06820caa.jpg)  
+
+If you're familiar with Selesnya in *Return to Ravnica*, this card probably makes sense. If not, let me show my preview card from last week to explain:
+
+![Trostani, Selesnya's Voice](https://i.ormos.uk/10/ac/10ac0f86b788b5a3390e71815b30236fc412b9c95888ac482591db5c3073bcd0.jpg)  
+
+The guild mechanic from Selesnya is populate. It allows you to copy a creature token you control. Part of making populate (as I talked about more in detail [last week](https://web.archive.org/web/20120917000000/https://magic.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/mm/212)) was that we had to make sure that there were enough token makers in the set. That meant we had to look for opportunities.
+
+When this card was first pitched, there was concern that it was confusing. I now present a four-line play entitled *The Design Team Tries To Make Call of the Conclave*:
+
+> **Them:** Why isn't it just a creature?  
+> **Us:** Populate.  
+> **Them:** But the player might not know that.  
+> **Us:** This card makes sense in a vacuum. Sure, it's odd that it makes the token but it's not nonsensical. Plus, players have learned that when something doesn't make sense, they need to explore more of the set to learn why we did what we did. It's not a bug, it's a feature.
+> 
+> The End
+
+And with that, one of Populate's best friends was born.
+
+We now return to our regularly scheduled article.
+
+The Guildgates
+
+![](https://i.ormos.uk/a9/62/a962330c1a8595010339648fd59b02eb172b25a3057306b1af9e205173d04845.jpg)
+
+*Azorius Guildgate | Izzet Guildgate | Golgari Guildgate | Rakdos Guildgate | Selesnya Guildgate*
+
+One of the expressions used in Ramp;D is the term "strictly better." By Ramp;D's definition, if you compare two cards and one card is generally better in all reasonable cases (I say "reasonable" because you can always concoct a scenario where one card is better—the definition has to have a practical application, otherwise it's worthless as a term) then it is dubbed "strictly better."
+
+Anyway, **Magic** has many strictly betters. The ebb and flow of the game demand that the power level of different aspects of the game go up and down. Sometimes, these strictly betters even appear in the same set. For example, the following two cards appeared in Alpha:
+
+<table><tbody><tr><td><div><div><a href="https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=204"><img alt="" src="https://gatherer.wizards.com/Handlers/Image.ashx?type=card&amp;name=204"></a></div></div></td><td><div><div><a href="https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=203"><img alt="" src="https://gatherer.wizards.com/Handlers/Image.ashx?type=card&amp;name=203"></a></div></div></td></tr></tbody></table>
+
+But although strictly betters exist, we try to be sensitive about them because some players get very bothered by them, especially when they appear in the same set. So we try to be conscious whenever they pop up in sets. This brings us to the common cycle of dual lands.
+
+Before I talk common dual lands, let me spend a few paragraphs talking about rare dual lands. Here's how they got into the set.
+
+> **Everyone in Ramp;D:** You know what we should do—put the shocklands in *Return to Ravnica* block.  
+> **Everyone in Ramp;D:** We know. We just said it.
+
+![](https://i.ormos.uk/e6/c7/e6c7f90ed8918086e6d299727ae814c99c2ad3f5a85bc163925a14085d924559.jpg)
+
+*[Hallowed Fountain](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hallowed+Fountain) | [Steam Vents](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Steam+Vents) | [Overgrown Tomb](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Overgrown+Tomb) | [Blood Crypt](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Blood+Crypt) | [Temple Garden](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Temple+Garden)*
+
+The shocklands were a huge part of original *Ravnica* block. We've promised we would try to reprint key cards in Modern to help the format. They were just a perfect fit and everyone knew it from Day One, so there was never much of a discussion. The common dual land cycle, on the other hand...
+
+We knew the shocklands were coming back, but they were rare. We also knew we wanted a cycle of common dual lands to help make Limited work. On top of that, we knew we wanted to have different lands than the "karoo lands." For those unfamiliar with the karoo lands, I'm talking about these:
+
+![](https://i.ormos.uk/db/1d/db1d58edd345c59690c1201a0e1ca2673ed5bd0b6523a1126605ab10b9ef40c5.jpg)
+
+*[Boros Garrison](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Boros+Garrison) | [Dimir Aqueduct](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dimir+Aqueduct) | [Golgari Rot Farm](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Golgari+Rot+Farm+) | [Selesnya Sanctuary](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Selesnya+Sanctuary)*
+
+We wanted to change them out for three reasons. One, they were a little more powerful than we wanted for Limited (this was development talking). Two, the cards are a little more complex than we like at common, both in the unsummoning cost and the production of two mana—and two different colors at that. Three, we knew we were repeating the shocklands (hitting the nostalgia), so we wanted the common duals to be something new (hitting the novelty).
+
+Here was the problem. We wanted the common duals to be simple. The simplest version was just dual lands that tapped for one of two different colors of mana and entered the battlefield tapped. We had made these lands during *Invasion*:
+
+![](https://i.ormos.uk/b5/cb/b5cba1d064dc3f92037a5b0221cf820c3ad71187e7ff9a37751a179a9c7efe3f.jpg)
+
+*[Coastal Tower](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Coastal+Tower) | [Salt Marsh](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Salt+Marsh) | [Urborg Volcano](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Urborg+Volcano) | [Shivan Oasis](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shivan+Oasis+) | [Elfhame Palace](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Elfhame+Palace)*
+
+These lands, with new names, were exactly what the common lands wanted to be. The problem was that these lands were "strictly worse" than the shocklands. First off, the shocklands had the option of paying 2 life to come into play untapped, an option the *Invasion* duals never had. Second, the shocklands have basic land types that are a huge upside the vast majority of the time.
+
+We're willing to make strictly better cards in a set, but as I said earlier we try to avoid it when we feel it will upset the players. This seemed exactly like the kind of strictly better that would rile feathers, so we decided we needed to come up with other common duals.
+
+The design team designed and designed new common duals. Development tried making new common duals. Other members of Ramp;D tried making common duals. Nothing worked. Finally, one day in a cardcrafting meeting (a weekly meeting where the designers and developers talk nuts-and-bolts issues) we were lamenting the lack of a good answer when [Zac Hill](https://web.archive.org/web/20120917000000/https://magic.wizards.com/magic/magazine/archive.aspx?author=Zac%20Hill) said, "What if we just did the *Invasion* lands but added a marker?"
+
+"Go on," the room said.
+
+"Imagine if these lands had special meaning to the guilds and they had a subtype. Then we could make a few cards that cared about the subtype and they wouldn't be strictly worse anymore."
+
+Everyone latched onto the idea fast. Doug suggested that maybe they could be some kind of guildgates marking the entrance to a guild's territory. The creative team would then run with the idea of the guildgates and turned them into a major part of the story.
+
+The design team put in the guildgates and started making the cards that cared. We made a lot of cards but ended up only putting in a few, allowing us to stretch them across the block. As you will see, the guildgates snowballed a little as we wove them into the set.
+
+And that is how the guildgates came to be.
+
+The Guild Leaders
+
+*Ravnica* block had two legendary creatures for each guild, a guild leader and a guild champion. The guild champions cost one mana of each of its guild's colors (plus some amount of colorless mana) and had a mechanic that called out each of the colors of the guild by name. The guild leaders cost two of each color mana of the guild (also along with some amount of colorless mana) but weren't as mechanically connected as the champions.
+
+When we went back to Ravnica, we knew it would be important to check back in on the guild leaders. As with the original *Ravnica* block, each guild leader costs two mana of each of its colors (along with colorless mana in some cases). What about the guild champions? Let's just say that we chose to not put the champions in *Return to Ravnica* or *Gatecrash*, but I wouldn't count them out just yet.
+
+Once we knew we wanted the guild leaders back, we turned to the creative team to find out who exactly the new guild leaders were. Izzet and Rakdos were two of four guilds to maintain their original leaders (Orzhov and Gruul being the other two). Izzet still had the dragon Niv-Mizzet, while Rakdos still had the demon Rakdos. Note that that these are the two guilds named after their leaders. ("Izzet" comes from Niv-M"izzet").
+
+<table><tbody><tr><td><img alt="Niv-Mizzet, Dracogenius" src="https://i.ormos.uk/d6/53/d653baf7128415b23f04afbb0a34ce3f67da5358ba1724087ca34c249f41cd54.jpg"></td><td><img alt="" src="https://i.ormos.uk/0c/04/0c048065f86cd86653d4ac57616efafbf8ad1018c035b8295bb719262c817c90.jpg"></td></tr></tbody></table>
+
+Azorius and Golgari has guild leaders that were around during the original *Ravnica* block but hadn't yet become their guilds' leaders.
+
+Azorius has Isperia, Supreme Judge, last seen in *Dissension* as [Isperia the Inscrutable](https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Isperia+the+Inscrutable).
+
+<table><tbody><tr><td><div><div><a href="https://web.archive.org/web/20120917000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Isperia+the+Inscrutable"><img alt="" src="https://gatherer.wizards.com/Handlers/Image.ashx?type=card&amp;name=Isperia+the+Inscrutable"></a></div></div></td><td><img alt="" src="https://i.ormos.uk/92/13/9213cc3a4d164c328b42173dcf60eb2e76337e5ba22b1a17a60c8c5fb08bc26c.jpg"><br></td><td><img alt="Isperia, Supreme Judge" src="https://i.ormos.uk/b8/74/b874a7d652f27128564a58210534523d77947b719ff099470222343cea3a66f7.jpg"></td></tr></tbody></table>
+
+Golgari has Jarad, Golgari Lich Lord. Jarad appeared in the *Ravnica* novel, although he wasn't yet a zombie.
+
+![Jarad, Golgari Lich Lord](https://i.ormos.uk/92/ad/92ad3500eed800b5f1991a26c7ed063329f7ce57146d2fc4234a829a348efce1.jpg)  
+
+The last guild leader is a brand-new character created by the creative team, Trostani, Selesnya's Voice (see earlier). She is an interesting character in that she is a dryad who, while being a single creature, is made up of three different dryads. (If you look at the art, you can see each is connected by roots to one another.) I have dubbed her the "triad dryad."
+
+![](https://i.ormos.uk/d0/88/d08832ce5e9a211d493a10a42e34459bcc8945608f4739162ca552c0bc82a696.jpg)
+
+Trostani, Selesnya's Voice | Art by [Chippy](https://web.archive.org/web/20120917000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoileramp;method=visualamp;action=advancedamp;artist=%5B%22Chippy%22%5D)
+
+![Trostani, Selesnya's Voice](https://i.ormos.uk/10/ac/10ac0f86b788b5a3390e71815b30236fc412b9c95888ac482591db5c3073bcd0.jpg)  
+
+The design team (and later the development team) spent a lot of time making sure each guild leader was as exciting as possible. Next week, when I do my card-by-card article, I'll tell a few design stories about some of them.
+
+"If You Guild It..."
+
+That's all the time I have for today. I hope you enjoyed this three-week peek at the *Return to Ravnica* design process. Join me next week when I'll dig in deeper and tell you some design stories about individual cards.
+
+Until then, may you have fun finding the guild that speaks to you.

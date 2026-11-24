@@ -1,0 +1,47 @@
+---
+id: b7b5c2gf
+kind: event
+lang: en
+path: /en/articles/event-coverage/2000/01-01-type-1-standings
+title: Type 1 Standings
+published: '2000-01-01'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/type-1-standings-2000-01-01
+    lang_detected: en
+    capture_id: 593429
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/type-1-standings-2000-01-01
+    captured_at: '2021-11-27 20:24:11+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/type-1-standings-2000-01-01
+    lang_detected: en
+    capture_id: 593429
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/type-1-standings-2000-01-01
+    captured_at: '2021-11-27 20:24:11+00'
+    rule: url.date_slug
+sources:
+- document_id: b7b5c2gf
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/type-1-standings-2000-01-01
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/type-1-standings-2000-01-01
+  lang: en
+  template: drupal
+  captured_at: '2021-11-27 20:24:11+00'
+  capture_id: 593429
+  wayback_url: https://web.archive.org/web/20211127202411id_/https://magic.wizards.com/en/articles/archive/event-coverage/type-1-standings-2000-01-01
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: b7b5c2gf
+  capture_id: 593429
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/type-1-standings-2000-01-01
+  wayback_url: https://web.archive.org/web/20211127202411id_/https://magic.wizards.com/en/articles/archive/event-coverage/type-1-standings-2000-01-01
+  captured_at: '2021-11-27 20:24:11+00'
+  template: drupal
+  sha256: e44c1ab05232ae04eff80b68407ffc847e42f1323f33db95c3239f4a3e22c4a7
+render_recovery: []
+---
+<table><tbody><tr><td><b>Rank</b></td><td><b>Player</b></td><td><b>Score</b></td></tr><tr><td>1</td><td>Kai Budde</td><td>3-0</td></tr><tr><td>1</td><td>Gary Wise</td><td>3-0</td></tr><tr><td>3</td><td>Ben Rubin</td><td>2-1</td></tr><tr><td>3</td><td>Yoshikazu Ishii</td><td>2-1</td></tr><tr><td>3</td><td>Dave Price</td><td>2-1</td></tr><tr><td>3</td><td>Jon Finkel</td><td>2-1</td></tr><tr><td>3</td><td>Darwin Kastle</td><td>2-1</td></tr><tr><td>3</td><td>Chris Pikula</td><td>2-1</td></tr><tr><td>9</td><td>Gerardo Godinez Estrada</td><td>1-2</td></tr><tr><td>9</td><td>Trevor Blackwell</td><td>1-2</td></tr><tr><td>9</td><td>Bob Maher, Jr.</td><td>1-2</td></tr><tr><td>9</td><td>Noah Boeken</td><td>1-2</td></tr><tr><td>9</td><td>Mike Long</td><td>1-2</td></tr><tr><td>9</td><td>Zvi Mowshowitz</td><td>1-2</td></tr><tr><td>15</td><td>Ryan Fuller</td><td>0-3</td></tr><tr><td>15</td><td>Alex Shvartsman</td><td>0-3</td></tr></tbody></table>

@@ -1,0 +1,48 @@
+---
+id: svbyhzc5
+kind: event
+lang: en
+path: /en/events/2007/gpphx06/round-9-pods
+title: Round 9 Pods
+published: null
+column_slug: null
+column: null
+authors: []
+event_code: gpphx06
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/gpphx06/pod9
+    lang_detected: en
+    capture_id: 1061484
+    url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpphx06/pod9
+    captured_at: '2013-06-28 07:50:18+00'
+    rule: aspx.article_heading
+  event_code:
+    page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/gpphx06/pod9
+    lang_detected: en
+    capture_id: 1061484
+    url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpphx06/pod9
+    captured_at: '2013-06-28 07:50:18+00'
+    rule: url.event_code
+sources:
+- document_id: svbyhzc5
+  url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpphx06/pod9
+  page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/gpphx06/pod9
+  lang: en
+  template: aspx
+  captured_at: '2013-06-28 07:50:18+00'
+  capture_id: 1061484
+  wayback_url: https://web.archive.org/web/20130628075018id_/https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpphx06/pod9
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: svbyhzc5
+  capture_id: 1061484
+  url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpphx06/pod9
+  wayback_url: https://web.archive.org/web/20130628075018id_/https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpphx06/pod9
+  captured_at: '2013-06-28 07:50:18+00'
+  template: aspx
+  sha256: 3086b0f6732003424240188a427e1783305d5e610c09934123c181799f820a73
+render_recovery: []
+---
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <a href="/en/events/2007/gpphx06/round-9-pods">&#10;        <b>Pod</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/en/events/2007/gpphx06/round-9-pods">&#10;        <b>Seat</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/en/events/2007/gpphx06/round-9-pods">&#10;        <b>Player</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/en/events/2007/gpphx06/round-9-pods">&#10;        <b>Points</b>&#10;      </a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>1</td>&#10;    <td>01</td>&#10;    <td>Inoue, Sean</td>&#10;    <td>24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>02</td>&#10;    <td>Romão, Carlos E</td>&#10;    <td>24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>03</td>&#10;    <td>Szleifer, Gadiel</td>&#10;    <td>24</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>04</td>&#10;    <td>Hayes, David G</td>&#10;    <td>22</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>05</td>&#10;    <td>Brockway, Brian A</td>&#10;    <td>22</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>06</td>&#10;    <td>Levy, Raphael</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>07</td>&#10;    <td>Stein, Sam A</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>08</td>&#10;    <td>Komuro, Shuu</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>2</td>&#10;    <td>01</td>&#10;    <td>Viviani, Matthew</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>02</td>&#10;    <td>Nuijten, Julien P</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>03</td>&#10;    <td>Sonne, Jonathan E</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>04</td>&#10;    <td>Fiorillo, John</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>05</td>&#10;    <td>Hoaen, Richard G</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>06</td>&#10;    <td>Sittner, John A</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>07</td>&#10;    <td>Siron, Geoffrey</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>08</td>&#10;    <td>Mourssali, Riad</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>3</td>&#10;    <td>01</td>&#10;    <td>Thompson, Gerry W</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>02</td>&#10;    <td>Bertelsen, Nathan J</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>03</td>&#10;    <td>Dean, J. Evan W</td>&#10;    <td>21</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>04</td>&#10;    <td>Bucknelo, Jimmy</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>05</td>&#10;    <td>Bracht, Maximilian</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>06</td>&#10;    <td>Scales, Zach</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>07</td>&#10;    <td>Michaels, Lucas W</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>08</td>&#10;    <td>Ochoa, David A</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>4</td>&#10;    <td>01</td>&#10;    <td>Yasooka, Shouta</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>02</td>&#10;    <td>Gates, James F</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>03</td>&#10;    <td>Benedict, Michael B</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>04</td>&#10;    <td>Loh, Lanston</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>05</td>&#10;    <td>Lund, Martin D</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>06</td>&#10;    <td>Pagliocco, Tony</td>&#10;    <td>19</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>07</td>&#10;    <td>rand, justin t</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>08</td>&#10;    <td>Oosawa, Takuya</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>5</td>&#10;    <td>01</td>&#10;    <td>McDaniel, Chris T</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>02</td>&#10;    <td>De Rosa, Antonino</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>03</td>&#10;    <td>Rietzl, Paul R</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>04</td>&#10;    <td>Ho, Ken B</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>05</td>&#10;    <td>Stokes, Darren</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>06</td>&#10;    <td>Harvey, Eugene B</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>07</td>&#10;    <td>Pelcak, John T</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>08</td>&#10;    <td>Bailey, Jake B</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>6</td>&#10;    <td>01</td>&#10;    <td>Herberholz, Mark D</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>02</td>&#10;    <td>Sandler, Noah B</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>03</td>&#10;    <td>Rubin, Ben E</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>04</td>&#10;    <td>Walls, Gabe R</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>05</td>&#10;    <td>Coimbra, André</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>06</td>&#10;    <td>Saito, Tomoharu</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>07</td>&#10;    <td>Smith, Brian C</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>08</td>&#10;    <td>Swarowski, Robert J</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>7</td>&#10;    <td>01</td>&#10;    <td>Garrett, Jack K</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>02</td>&#10;    <td>Fine, Marshall D</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>03</td>&#10;    <td>McKay, Brian P</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>04</td>&#10;    <td>da Rosa, Paulo Vitor D</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>05</td>&#10;    <td>Vyhmeister, Eduardo B</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>06</td>&#10;    <td>Nakamura, Shuuhei</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>07</td>&#10;    <td>Hatch, Greg A</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>08</td>&#10;    <td>Tamblyn, Mitchell E</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>8</td>&#10;    <td>01</td>&#10;    <td>Speranza, Joshua S</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>02</td>&#10;    <td>Romero, Bill</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>03</td>&#10;    <td>Sullivan, Patrick B</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>04</td>&#10;    <td>Fabiano, Gerard</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>05</td>&#10;    <td>Andersen, Victor</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>06</td>&#10;    <td>Wijaya, Vidianto</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>07</td>&#10;    <td>Swarowski, Peter J</td>&#10;    <td>18</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>08</td>&#10;    <td>Jarvis, Steven S</td>&#10;    <td>18</td>&#10;  </tr>&#10;</tbody></table>

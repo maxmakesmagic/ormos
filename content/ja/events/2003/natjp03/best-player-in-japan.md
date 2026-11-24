@@ -1,0 +1,116 @@
+---
+id: ep42nxec
+kind: event
+lang: ja
+path: /ja/events/2003/natjp03/best-player-in-japan
+title: Best Player in Japan
+published: null
+column_slug: null
+column: null
+authors: []
+event_code: natjp03
+detected_lang: ja
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/article.aspx?x=sideboard/natjp03/bestplayer
+    lang_detected: ja
+    capture_id: 876513
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/natjp03/bestplayer
+    captured_at: '2009-06-04 09:00:33+00'
+    rule: aspx.article_heading
+  event_code:
+    page_key: wizards.com/magic/magazine/article.aspx?x=sideboard/natjp03/bestplayer
+    lang_detected: ja
+    capture_id: 876513
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/natjp03/bestplayer
+    captured_at: '2009-06-04 09:00:33+00'
+    rule: url.event_code
+sources:
+- document_id: ep42nxec
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/natjp03/bestplayer
+  page_key: wizards.com/magic/magazine/article.aspx?x=sideboard/natjp03/bestplayer
+  lang: ja
+  template: aspx
+  captured_at: '2009-06-04 09:00:33+00'
+  capture_id: 876513
+  wayback_url: https://web.archive.org/web/20090604090033id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/natjp03/bestplayer
+- document_id: ep42nxec
+  url: http://www.wizards.com/default.asp?x=sideboard/natjp03/bestplayer
+  page_key: wizards.com/default.asp?x=sideboard/natjp03/bestplayer
+  lang: ja
+  template: classic_asp
+  captured_at: '2005-11-11 16:19:21+00'
+  capture_id: 2343516
+  wayback_url: https://web.archive.org/web/20051111161921id_/http://www.wizards.com/default.asp?x=sideboard/natjp03/bestplayer
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: ep42nxec
+  capture_id: 876513
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/natjp03/bestplayer
+  wayback_url: https://web.archive.org/web/20090604090033id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/natjp03/bestplayer
+  captured_at: '2009-06-04 09:00:33+00'
+  template: aspx
+  sha256: 9636cfa65b7ded6993c85ce450940f00e53b87c7b2fe980f655dd26d8da01666
+render_recovery: []
+---
+　「誰が一番強いのか？」
+
+<table>&#10;    <tbody><tr>&#10;      <td>&#10;        <img src="https://www.wizards.com/sideboard/images/ptyok03/a677.jpg">&#10;        <i>強豪たちが選んだ「現在の日本最強」</i>&#10;      </td>&#10;    </tr>&#10;  </tbody></table>
+
+　もちろん、「その年の日本王者」という回答こそがこの質問に対する模範解答と言うべきものなのかもしれない。しかし、一時の華々しい戦果よりも継続して安定したパフォーマンスを残すことこそが実力の証左である…という考え方も根強いだろう。人それぞれ、様々な回答があってしかるべきことでもある。
+
+　それにしても、長いスパンで日本のマジックシーンを振り返ってみると、やはりその時々を代表する「顔」ともいうべきプレイヤーがやはり時代ごとに存在していることに気がつくだろう。塚本俊樹に先導されてプロツアーという大海原へ挑戦し始めた黎明の時代、藤田剛史がツアー決勝ラウンドという扉をこじあけた時代、森雅也がAPACを連覇して日本がアジアのリーダーとして認められた時代、森勝洋が新人王を掴み取った時代…。やはり、登場人物なしに物語は成立しないものなのだ。そういう意味で、いまの日本の顔は誰なのだろう？
+
+　そこで、実際にいまのマジックシーンで活躍する人々がどのような考えをもっているのかを尋ねてみようということになった。アンケートを行ったのは選手権の第一回戦開始前で、回答者は40人のプレイヤーとスタッフだ。これでファイナルアンサーが出るというわけでもないが、きっと参考になるのではないだろうか。
+
+◆質問内容：*「今、日本でもっとも強いプレイヤーは誰だと思いますか？」*
+
+**回答者**（五十音順）：「回答内容」  
+**会田孝**：「松尾悟郎」  
+**浅原晃**：「大礒正嗣」  
+**荒堀和明**：「石田格」  
+**石田格**：「池田剛」  
+**射場本正巳**：「石田格」  
+**大礒正嗣**：「藤田剛史」  
+**大塚高太郎**：「藤田剛史」  
+**大橋竜二**(Head Judge)：「大礒正嗣」  
+**岡本尋**：「大礒正嗣」  
+**小倉陵**：「大礒正嗣」  
+**小野田倫久**：「藤田剛史」  
+**鹿島彰浩**：「大礒正嗣」  
+**黒田正城**：「森田雅彦」  
+**小宮忠義**：「池田剛」  
+**斉藤友晴**：「森勝洋」  
+**塩津龍馬**：「大礒正嗣」  
+**鹿田暢亮**：「藤田剛史」  
+**田中久也**：「浅原晃」  
+**中村修平**：「藤田剛史」  
+**長岡崇之**：「大礒正嗣」  
+**信下淳**：「池田剛」  
+**八朔人平**：「大礒正嗣」  
+**林眞右**：「森田雅彦」  
+**東野将幸**：「藤田剛史」  
+**平林和哉**：「石田格」  
+**深田崇聖**：「藤田剛史」  
+**檜垣貴生**：「藤田剛史」  
+**藤枝勇**：「石田格」  
+**藤田修**：「藤田剛史」  
+**藤田憲一**：「石田格」  
+**藤田剛史**：「大礒正嗣」  
+**真木孝一郎**：「この選手権の優勝者」  
+**松井健治**：「大礒正嗣」  
+**百瀬和之**：「石田格」  
+**森慶太**：「大礒正嗣」  
+**森田雅彦**：「大礒正嗣」  
+**八十岡翔太**：「森勝洋」  
+**山田屋公平**：「石田格」  
+**Ron Foster**(Wizards of the Coast)：「石田格」  
+**Toby Wachter**(Sideboard Writer)：「石田格」
+
+　…やはりというか、今季絶好調の若武者である大礒正嗣を挙げる声が圧倒的だった。あの藤田剛史をして「おそらく、このオンスロート・ブロックをもっとも深く理解しているプレイヤー」といわしめたあたり流石だろう。新人王資格保有者だけにプレイヤーキャリアは決して長くは無いわけが、プロツアー横浜の決勝ラウンドで見せ付けたあの勝負強さが強豪たちにの目に焼きついているということだろうか。質問のキーポイントは「今現在の」というところだったわけでもあり、妥当な結果だろうか。
+
+　ついで多かったのが東西の雄である石田格と藤田剛史。それぞれのコロニーに中心的な役割を果たしているプレイヤーであり、やはり長く安定したキャリアを評価されたということのようだ。この二人をあげたプレイヤーたちは「総合力という観点で」と強調していたのも印象的だ。また、最近のパフォーマンス、総合力といった意味で池田剛や森田雅彦の名前もあがっている。森勝洋に関しては「なんだかんだで天才肌、他人に真似は出来ない」というところが選出理由らしい。なるほど。
+
+　ところで、個人的にもっとも印象深かったのは、「日本のプレイヤーをもっとも熟知している」スタッフとして高名なDCI Japanの会田氏が松尾悟郎の名前をあげていること。『北陸の雄』松尾も今現在の最前線でバリバリ活躍しているというプレイヤーではないわけだが、「八年間日本のマジックを見てきて、彼が敗北しているマッチを数度しか見ていないし、やはり強さといったら悟郎」という会田氏の選出理由を聞いて、なるほど一昨年はなるべくしてなった結果だったのだな…と我が意を得たような思いだった。
+
+　ともあれ、この週末に「日本の顔」が選び出されることになる。はたしてそれは超新星の誕生ということになるか、はたまた強豪がその地力を見せ付けるのか、実に興味深いところだ。

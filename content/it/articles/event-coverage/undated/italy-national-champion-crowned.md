@@ -1,0 +1,609 @@
+---
+id: z700jpt5
+kind: event
+lang: it
+path: /it/articles/event-coverage/undated/italy-national-champion-crowned
+title: Italy National Champion Crowned!
+published: null
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: it
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtgevent_itnat07_welcome
+    lang_detected: it
+    capture_id: 829394
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_itnat07_welcome
+    captured_at: '2009-06-04 10:20:06+00'
+    rule: aspx.article_heading
+sources:
+- document_id: z700jpt5
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_itnat07_welcome
+  page_key: wizards.com/magic/magazine/article.aspx?x=mtgevent_itnat07_welcome
+  lang: it
+  template: aspx
+  captured_at: '2009-06-04 10:20:06+00'
+  capture_id: 829394
+  wayback_url: https://web.archive.org/web/20090604102006id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_itnat07_welcome
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: z700jpt5
+  capture_id: 829394
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_itnat07_welcome
+  wayback_url: https://web.archive.org/web/20090604102006id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_itnat07_welcome
+  captured_at: '2009-06-04 10:20:06+00'
+  template: aspx
+  sha256: 6aa5689cca94a1cb3e1d9b5b7146beb11471a0c10fe53cb12d1a51d24e5512f7
+render_recovery:
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('phyrexian_ironfoot')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Court_Hussar')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Court Hussar
+  occurrences: 11
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Dreadship_Reef')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Dreadship Reef
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Terror')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Terror
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Momentary_Blink')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Momentary Blink
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Avalanche_Riders')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Avalanche Riders
+  occurrences: 9
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Riftwing_Cloudskate')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Riftwing Cloudskate
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Phyrexian_Ironfoot')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Phyrexian Ironfoot
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Cryoclasm')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Cryoclasm
+  occurrences: 22
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Cancel')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Cancel
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Remand')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Remand
+  occurrences: 19
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Ghost_Quarter')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Ghost Quarter
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mountain')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mountain
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Seal_of_Fire')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Seal of Fire
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Treetop_Village')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Treetop Village
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Call_of_the_Herd')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Call of the Herd
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Lightning_Helix')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Lightning Helix
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Numot,_the_Devastator')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Numot, the Devastator
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Flashfreeze')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Flashfreeze
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Aven_Riftwatcher')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Aven Riftwatcher
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mogg_Fanatic')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mogg Fanatic
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Lightning_Angel')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Lightning Angel
+  occurrences: 14
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Char')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Char
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Giant_Solifuge')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Giant Solifuge
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Rift_Bolt')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Rift Bolt
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sidewinder_Sliver')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sidewinder Sliver
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sinew_Sliver')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sinew Sliver
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Castigate')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Castigate
+  occurrences: 13
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Cautery_Sliver')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Cautery Sliver
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Incinerate')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Incinerate
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Soltari_Priest')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Soltari Priest
+  occurrences: 10
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Wrath_of_God')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Wrath of God
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Serra_Avenger')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Serra Avenger
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Aeon_Chronicler')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Aeon Chronicler
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Griffin_Guide')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Griffin Guide
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Manabarbs')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Manabarbs
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Damnation')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Damnation
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Body_Double')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Body Double
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Urza[s_Factory')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Urza's Factory
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Condemn')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Condemn
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Wall_of_Roots')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Wall of Roots
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Repeal')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Repeal
+  occurrences: 11
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Chord_of_Calling')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Chord of Calling
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Dark_Confidant')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Dark Confidant
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Loxodon_Hierarch')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Loxodon Hierarch
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Glittering_Wish')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Glittering Wish
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Slaughter_Pact')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Slaughter Pact
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Putrefy')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Putrefy
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Essence_Warden')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Essence Warden
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Withered_Wretch')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Withered Wretch
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Electrolyze')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Electrolyze
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Birds_of_Paradise')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Birds of Paradise
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Crypt_Champion')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Crypt Champion
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('crypt_Champion')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Pendelhaven')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Pendelhaven
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Horizon_Canopy')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Horizon Canopy
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Overgrown_Tomb')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Overgrown Tomb
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Saffi_Eriksdotter')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Saffi Eriksdotter
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Forest')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Forest
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Elves_of_Deep_Shadow')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Elves of Deep Shadow
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Glare_of_Subdual')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Glare of Subdual
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Pyroclasm')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Pyroclasm
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Odds/Ends')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Odds/Ends
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Guerrilla_Tactics')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Guerrilla Tactics
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Ronom_Unicorn')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Ronom Unicorn
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('ronom_unicorn')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Azorius_Signet')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Azorius Signet
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Island')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Island
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Grand_Arbiter_Augustin_IV')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Grand Arbiter Augustin IV
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Venser,_Shaper_Savant')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Venser, Shaper Savant
+  occurrences: 1
+---
+![](https://i.ormos.uk/35/2b/352b8b2c73332ab33115cc1f3346bca7c77c2ed3aa041bf3354842d2f65f6844.jpg)
+
+Abbiamo il nuovo campione italiano: Mario Pascoli firma il Grimorio del Potere e diventa a tutti gli effetti Campione Nazionale del 2007. Grande sportività durante la finale e nessun grosso problema riguardo squalifiche e penalità. Rimane secondo classificato (per due anni di fila) Gianluca Filippini e, chissà… magari il prossimo Nazionale sarà il suo!
+
+Adesso appuntamento ai Mondiali, sperando che la nostra squadra tenga alta la bandiera!
+
+  
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;    </td><td>Quarterfinals </td>&#10;    <td> </td>&#10;    <td>Semifinals </td>&#10;    <td> </td>&#10;    <td>Finals </td>&#10;    <td> </td>&#10;    <td>Champion </td>&#10;  </tr>&#10;  <tr>&#10;    <td>1</td>&#10;    <td>&#10;      Mario Pascoli&#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Mario Pascoli, 2-0&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3"> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>8</td>&#10;    <td>&#10;      David Besso&#10;    </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3">&#10;      Mario Pascoli, 2-1&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>4</td>&#10;    <td>&#10;      Andrea Garella&#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Davide Fenu, 2-0&#10;    </td>&#10;    <td rowspan="5"> </td>&#10;    <td rowspan="5">&#10;      Mario Pascoli, 2-0&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>5</td>&#10;    <td>&#10;      Davide Fenu&#10;    </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3"> </td>&#10;  </tr>&#10;  <tr>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>2</td>&#10;    <td>&#10;      Norberto Giusti&#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Dario Parazzoli, 2-1&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>7</td>&#10;    <td>&#10;      Dario Parazzoli&#10;    </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3">&#10;      Gianluca Filippini, 2-0&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>3</td>&#10;    <td>&#10;      Mido Kagawa&#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Gianluca Filippini, 2-0&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>6</td>&#10;    <td>&#10;      Gianluca Filippini&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;</tbody></table>
+
+  
+  
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <b>EVENT COVERAGE</b>&#10;    </td>&#10;    <td>&#10;      <b>INFORMATION</b>&#10;      &#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <ul>&#10;        <br>&#10;        <li>&#10;          <a href="#8">Blog - 7:21 p.m.</a> - Final Mario Pascoli vs Gianluca Filippini (English)<div><i>by Bruno Panara</i></div></li>&#10;        <li>&#10;          <a href="#7">Blog - 7:20 p.m.</a> - Final: Mario Pascoli vs Gianluca Filippini<div><i>by Manlio Palena</i></div></li>&#10;        <li>&#10;          <a href="#6">Blog - 6:04 p.m.</a> - Semi Finals: Dario Parazzoli vs Gianluca Filippini<div><i>by Federico Trobia</i></div></li>&#10;        <li>&#10;          <a href="#5">Blog - 6:01 p.m.</a> - Semi Finals: Mario Pascoli vs Davide Fenu <div><i>by Manlio Palena</i></div></li>&#10;        <li>&#10;          <a href="#4">Blog - 4:51 p.m.</a> - Quarter Finals: Andrea Garella vs Davide Fenu<div><i>by Luca Chiera</i></div></li>&#10;        <li>&#10;          <a href="#3">Blog - 4:45 p.m.</a> - Quarter Finals: Dario Parazzoli vs Norberto Giusti<div><i>by Andrea &quot;Vitello&quot; Vitali</i></div></li>&#10;        <li>&#10;          <a href="#2">Blog - 4:41 p.m.</a> - Quarter Finals Mario Pascoli vs David Besso<div><i>by Manlio Palena</i></div></li>&#10;        <li>&#10;          <a href="#1">Blog - 4:30 p.m.</a> - Quarti di Finale: Mido Kagawa vs Gianluca Filippini<div><i>by Staff</i></div></li>&#10;        <br>&#10;        <hr>&#10;        <br>&#10;        <li>&#10;          <a href="/it/events/2007/itnat07/day-2-blog-archive">Day 2 Blog Archive</a>: Read all the Stories from Day 2<div><i>by Event Coverage Staff</i></div></li>&#10;        <br>&#10;        <hr>&#10;        <br>&#10;        <li>&#10;          <a href="/it/events/2007/itnat07/day-1-blog-archive">Day 1 Blog Archive</a>: Read all the Stories from Day 1<div><i>by Event Coverage Staff</i></div></li>&#10;        <li>&#10;          <a href="https://web.archive.org/web/20090604102006/http://ww2.wizards.com/Site/LeavingWizards.aspx?url=http://www.clickcaster.com/magicnaz2007&amp;origin=">Podcast</a>: Il PodCast audio in diretta da Rimini<div><i></i></div></li><i>&#10;        <br>&#10;        <li>&#10;          <a href="https://web.archive.org/web/20090603124304/http://www.wizards.com/Magic/Magazine/Article.aspx?x=events/nationals/italy">Info</a>: Fact Sheet<div><i>by Event Coverage Staff</i></div></li>&#10;      </i></ul><i>&#10;    </i></td>&#10;    <td colspan="2">&#10;      &#10;      <table>&#10;        <tbody><tr>&#10;          <td> 1.  <b>Mario Pascoli </b></td>&#10;          <td>€ 3000 </td>&#10;        </tr>&#10;        <tr>&#10;          <td> 2.  <b>Gianluca Filippini </b></td>&#10;          <td>€ 2000</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 3.  <b>Davide Fenu </b></td>&#10;          <td>€ 1500</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 4.  <b>Dario Parazzoli </b></td>&#10;          <td>€ 1000</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 5.  <b>Norberto Giusti </b></td>&#10;          <td>€ 800</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 6.  <b>Mido Kagawa </b></td>&#10;          <td>€ 650</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 7.  <b>Andrea Garella </b></td>&#10;          <td>€ 550</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 8.  <b>David Besso </b></td>&#10;          <td>€ 500</td>&#10;        </tr>&#10;      </tbody></table>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <b>Pairings</b>&#10;          </td>&#10;          <td>&#10;            <b>Results</b>&#10;          </td>&#10;          <td>&#10;            <b>Standings</b>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;          </td><td>&#10;          </td><td>&#10;            <a href="/it/events/2007/itnat07/final-standings">Final</a>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            <a href="/it/events/2007/itnat07/round-14-pairings">14</a>&#10;            <br>&#10;            <a href="/it/events/2007/itnat07/round-13-pairings">13</a>&#10;            <br>&#10;            <a href="/it/events/2007/itnat07/round-12-pairings">12</a>&#10;            <br>&#10;            <a href="/it/events/2007/itnat07/round-11-pairings">11</a>&#10;            <br>&#10;            <a href="/it/events/2007/itnat07/round-10-pairings">10</a>&#10;            <br>&#10;            <a href="/it/events/2007/itnat07/round-9-pairings">9</a>&#10;          </td>&#10;          <td>&#10;            <a href="/it/events/2007/itnat07/round-14-results">14</a>&#10;            <br>&#10;            <a href="/it/events/2007/itnat07/round-13-results">13</a>&#10;            <br>&#10;            <a href="/it/events/2007/itnat07/round-12-results">12</a>&#10;            <br>&#10;            <a href="/it/events/2007/itnat07/round-11-results">11</a>&#10;            <br>&#10;            <a href="/it/events/2007/itnat07/round-10-results">10</a>&#10;            <br>&#10;            <a href="/it/events/2007/itnat07/round-9-results">9</a>&#10;          </td>&#10;          <td>&#10;            <a href="/it/events/2007/itnat07/round-14-standings">14</a>&#10;            <br>&#10;            <a href="/it/events/2007/itnat07/round-13-standings">13</a>&#10;            <br>&#10;            <a href="/it/events/2007/itnat07/round-12-standings">12</a>&#10;            <br>&#10;            <a href="/it/events/2007/itnat07/round-11-standings">11</a>&#10;            <br>&#10;            <a href="/it/events/2007/itnat07/round-10-standings">10</a>&#10;            <br>&#10;            <a href="/it/events/2007/itnat07/round-9-standings">9</a>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            <a href="/it/events/2007/itnat07/round-8-pairings">8</a>&#10;            <br>&#10;            <a href="/it/events/2007/itnat07/round-7-pairings">7</a>&#10;            <br>&#10;            <a href="/it/events/2007/itnat07/round-6-pairings">6</a>&#10;            <br>&#10;            <a href="/it/events/2007/itnat07/round-5-pairings">5</a>&#10;            <br>&#10;            <a href="/it/events/2007/itnat07/round-4-pairings">4</a>&#10;            <br>&#10;            <a href="/it/events/2007/itnat07/round-3-pairings">3</a>&#10;            <br>&#10;            <a href="/it/events/2007/itnat07/round-2-pairings">2</a>&#10;            <br>&#10;            <a href="/it/events/2007/itnat07/round-1-pairings">1</a>&#10;          </td>&#10;          <td>&#10;            <a href="/it/events/2007/itnat07/round-8-results">8</a>&#10;            <br>&#10;            <a href="/it/events/2007/itnat07/round-7-results">7</a>&#10;            <br>&#10;            <a href="/it/events/2007/itnat07/round-6-results">6</a>&#10;            <br>&#10;            <a href="/it/events/2007/itnat07/round-5-results">5</a>&#10;            <br>&#10;            <a href="/it/events/2007/itnat07/round-4-results">4</a>&#10;            <br>&#10;            <a href="/it/events/2007/itnat07/round-3-results">3</a>&#10;            <br>&#10;            <a href="/it/events/2007/itnat07/round-2-results">2</a>&#10;            <br>&#10;            <a href="/it/events/2007/itnat07/round-1-results">1</a>&#10;          </td>&#10;          <td>&#10;            <a href="/it/events/2007/itnat07/round-8-standings">8</a>&#10;            <br>&#10;            <a href="/it/events/2007/itnat07/round-7-standings">7</a>&#10;            <br>&#10;            <a href="/it/events/2007/itnat07/round-6-standings">6</a>&#10;            <br>&#10;            <a href="/it/events/2007/itnat07/round-5-standings">5</a>&#10;            <br>&#10;            <a href="/it/events/2007/itnat07/round-4-standings">4</a>&#10;            <br>&#10;            <a href="/it/events/2007/itnat07/round-3-standings">3</a>&#10;            <br>&#10;            <a href="/it/events/2007/itnat07/round-2-standings">2</a>&#10;            <br>&#10;            <a href="/it/events/2007/itnat07/round-1-standings">1</a>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;    </td>&#10;  </tr>&#10;</tbody></table>
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <b>BLOG</b>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <br>&#10;      <br>&#10;      <a name="1">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, July 22: 4:30 p.m. - Quarti di Finale: Mido Kagawa vs Gianluca Filippini</b>&#10;        <div>&#10;          <i>by Staff</i>&#10;        </div>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <p> La gente chiacchiera e rumoreggia mentre inizia a riunirsi attorno ai tavoli dei feature match. In questa zona verrà disputato il top8 e verrà formata la squadra italiana per i mondiali di <b>Magic</b>, nonché deciso il nuovo campione nazionale.<br> I due giocatori siedono ai tavoli concentrati e attenti. Con silenzio spulciano il mazzo dell'avversario valutandone le carte più pericolose e studiandone la side, i judge hanno infatti dato disponibilità di controllare il mazzo avversario prima di iniziare.<br> Per la seconda volta in due anni, Mido kagawa e Gianluca Filippini si scontrano ai quarti di finale del Campionato nazionale italiano di <b>Magic</b>. L'anno precedente il giocatore bresciano aveva avuto la meglio in un mirror di Solar Flare. Quest anno Kagawa cercherà di riavere la sua rivincita ed entrare a far parte del team italiano ai mondiali che si disputeranno a New York e cercare di strappare il titolo a Manuel Alvisi, campione dei due anni precedenti. Questa volta i due mazzi a scontrarsi saranno un Angelfire con blink portato da Filippini e Teferi control UB,per cui ha optato Kagawa.</p>&#10;      <h3>Game 1</h3>&#10;      <div>&#10;        <div>&#10;          <a>&#10;            <img alt="phyrexian ironfoot" src="https://i.ormos.uk/23/61/2361df5da666061d1e6441c58842bbf5f0a01fae5b37f5af6a326230f115c4b4.jpg">&#10;          </a>&#10;        </div>&#10;      </div>&#10;      <p>Kagawa vince il toss e rimescola le sue prime sette carte, ma sembra soddisfatto della sua nuova mano. Anche Filippini decide per nuove sei carte. Mido salta il suo terzo land drop mentre l'avversario prova a castare un <a>Court Hussar</a> che viene prontamente &quot;rimandato&quot;. Il fiorentino trova così la sua terza terra, una <a>Dreadship Reef</a>, ma lascia risolvere l'ussaro il turno successivo. Gianluca prova a quel punto un Grand Arbiter August IV che risolve, per poi salvarlo nello stesso turno da un tempestivo <a>Terror</a> grazie a <a>Momentary Blink</a>. L'angelfire inizia la sua lenta race mentre l'avversario ancora più in difficoltà per le terre carica la storage e gioca un Dimir Acqueduct, che verrà bouncerata il turno successivo da un Venser,Shaper Savant. Filippini si porta rapidamente in vantaggio attaccando così la mana base dell'avversario rallentandolo terribilmente. Alla scesa in campo di un <a>Avalanche Riders</a>, Kagawa decide di ammucchiare.</p>&#10;      <p>Filippini 1 Kagawa 0</p>&#10;      <h3>Game 2</h3>&#10;      <p>Entrambi i giocatori tengono la loro prima mano. Si studiano mentre calano terre per i primi turni. Filippini sospende una <a>Riftwing Cloudskate</a> al secondo turno mentre l'avversario inizia a caricare una <a>Dreadship Reef</a>. Scende in campo un <a>Court Hussar</a> ma viene subito posto un <a>Phyrexian Ironfoot</a> a fronteggiarlo. Al quarto turno Gianluca prova un <a>Cryoclasm</a> che viene subito rimandato, la stessa sorte toccherà alla manta il turno successivo. Il giocatore bresciano rigioca a quel punto lo spacca terre che questa volta risolve rompendo un'isola innevata. Un nuovo <a>Court Hussar</a> viene castato il turno successivo. I due giocatori pensano molto durante i loro turni anche se Mido appare leggermente in difficoltà con le terre. Filippini cerca di aggravarne la situazione con una Riftwong Cloudskate su una bounceland, che viene cercata inutilmente di counterare con un <a>Cancel</a>, però a sua volta annullato da un <a>Remand</a>. Gianluca insiste il turno successivo con un Venser su una nuova bounceland per poi blinkarlo e rimbalzare un'altra terra. La situazione precipita per Mido,ora bloccato a sole due terre mentre l'avversario possiede quattro creature e sette terre in gioco. Il <a>Phyrexian Ironfoot</a>, unico baluardo di difesa limita un po' i danni ma un altro impietoso <a>Cryoclasm</a> si abbatte sull'unica isola rimasta, il giocatore fiorentino però la auto-distrugge in risposta con il proprio <a>Ghost Quarter</a> evitando così tre danni. Il Blink viene Flashbackato e l'Ironfoot rispedito in mano. Il vantaggio tempo per Filippini ormai è incolmabile e Kagawa dà la mano all'avversario pochi turni dopo.</p>&#10;      <p>Filippini 2 Kagawa 0</p>&#10;      <br>&#10;      <br>&#10;      <a name="2">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, July 22: 4:41 p.m. - Quarter Finals Mario Pascoli vs David Besso</b>&#10;        <div>&#10;          <i>by Manlio Palena</i>&#10;        </div>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <img src="https://i.ormos.uk/c9/cd/c9cd48bcc10de0e88b11387ed7e07629bdc6d40f862e16a52b14e3fb8468f537.jpg">&#10;      <p>Siamo arrivati finalmente ai top 8. Ai quarti di finale seguiamo l'incontro tra Mario Pascoli, di Roma, qualificatosi al primo posto dopo i quattordici turni con 11 vittorie, 2 sconfitte e una patta, e David Besso, di Imperia, ma vive a Milano, qualificatosi ovviamente all'ottavo posto. L'imbattuto Blink Raiders di &quot;Marione&quot; contro il Gruul, Rosso Verde, di David Besso.<br> David vince il tiro del dado e decide di cominciare. <br> Nel frattempo ha tirato fuori e ha posato sul tavolo dei token molto particolari. Il primo della pila reca proprio l'immagine di Mario che diffida subito il suo avversario dall'attaccarlo con il suo token. Parte il match. David cala <a>Mountain</a> e <a>Seal of Fire</a>. Biancorossa per Mario. <a>Treetop Village</a> scende sul board per David. e un signet bianco blu per il romano. David gioca <a>Call of the Herd</a>, altro Signet per Mario che cala un'altra Foundry e un <a>Lightning Helix</a> su <a>Call of the Herd</a>. Scab -Clan mauler per David al turno successivo. Mario risponde con un delicato <a>Numot, the Devastator</a>. David attacca di Mauler e Treetop, Mario non blocca e va a 15. Il turno dopo Numot colpisce. David va a 14, e perde 2 Lande tra cui il Treetop. Altro Helix sul Mauler e David concede.<br> David toglie <a>Call of the Herd</a>, Rusalka e 2 Mauler, e mette dentro Tin Sreet Hooligan, magus of the Moon e <a>Cryoclasm</a>. Mario inserisce un Dead Gone 3 <a>Flashfreeze</a> e un <a>Aven Riftwatcher</a>.<br> Parte il secondo match. Subito <a>Mogg Fanatic</a> per David che il turno dopo attacca e cala uno dei Mauler rimasti nel mazzo. Secondo attacco di David, Mario prende tutto e scende a 15 punti vita. Altri due Fanatic per David. A fine turno Mario Gioca Helix sul Mauler. Restano sul board tre fanatic. Al suo turno il romano mette a terra un <a>Court Hussar</a> e passa. David attacca, perde un Fanatic e Mario va a 13, dopodichè cala un <a>Treetop Village</a>. Mario prende danni dalle sue lande e va a 10, per calare un <a>Lightning Angel</a>. Doppio attacco volante di Mario, David prende l'Hussar e gioca <a>Char</a> per uccidere l'Angel, alla fine è a 12 punti vita. Al suo turno attiva il Treetop e attacca con tutto. Mario blocca un Fanatic, david sacrifica entrambi i Mogg ed elimina l'Hussar. Un danno di mana per Mario che cala un altro <a>Lightning Angel</a>, che si schianta il turno successivo su un <a>Giant Solifuge</a>. David sospende un <a>Rift Bolt</a>. Mario è a 6, David a 9. E' il turno del <a>Rift Bolt</a> che porta Mario a 3 punti vita. Il romano rischia il tutto per tutto calando ancora Numot. Il turno successivo il terzo Angel chiude la partita a favore di Mario Pascoli che approda, con il tipo 2 sempre più imbattuto, in semifinale.</p>&#10;      <br>&#10;      <br>&#10;      <a name="3">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, July 22: 4:45 p.m. - Quarter Finals: Dario Parazzoli vs Norberto Giusti</b>&#10;        <div>&#10;          <i>by Andrea &quot;Vitello&quot; Vitali</i>&#10;        </div>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <img src="https://i.ormos.uk/0e/d4/0ed46b4dcc4732484f5c942d15a0e3c2ddd6c4d7bd4208d79ae665ecd1f86dde.jpg">&#10;      <p>Sono Dario Parazzoli, a.k.a. Sbirulino, di Milano e Norberto Giusti di Bologna, due degli 8 giocatori che avranno la possibilità di qualificarsi ai Campionati del Mondo 2007, che si terranno a Dicembre negli Stati Uniti. Sbiru proverà a gudagnarsi la vittoria con il suo Boros Sliver, mentre Giusti affiderà le sue speranze di qualificazioni ad un Solar Flare personalizzato. </p>&#10;      <p>Dario vince il tiro di dado e sceglie di iniziare. Apre con un <a>Sidewinder Sliver</a>, facendolo seguire con un <a>Sinew Sliver</a>. Giusti si limita a lanciare un <a>Castigate</a> con cui rimuove un <a>Cautery Sliver</a> (su <a>Incinerate</a> e <a>Soltari Priest</a>.) Il prete pro-red entra in gioco al turno successivo, e Giusti con il secondo <a>Castigate</a> priva Parazzoli di un <a>Incinerate</a>. A 7 vite il bolognese riesce a lanciare una <a>Wrath of God</a> e a pulire il board.. Dario però insiste nella sua azione con un <a>Serra Avenger</a>, che viene stoppato da un Faith Fetters (Giusti sale a 11 punti vita). Dario prova a mettere danni sul board con un <a>Soltari Priest</a>,, mentre Giusti sospende un <a>Aeon Chronicler</a> a 1. Il prete viene incantato da una <a>Griffin Guide</a> ed entra per 4, mentre il Chronicler contrattacca per 5 (7 - 13). Giusti non trova una soluzione al 4/3 volante, che termina la prima partita assieme ad un <a>Lightning Helix</a>.</p>&#10;      <p>E' il turno di Giusti di partire, solo dopo aver atteso il mulligan a 5 dell'avversario. Nonostante ciò a Sbiru non manca il drop a 2 nella forma di un <a>Soltari Priest</a>, seguito da un <a>Sinew Sliver</a>. il bolognese prima toglie con un <a>Castigate</a> un <a>Manabarbs</a>, poi con una <a>Wrath of God</a> resetta il board. Un <a>Soltari Priest</a> entra in gioco in tempo in tempo per prendersi una <a>Damnation</a>. Sbiru ci prova ancora con un <a>Sinew Sliver</a>. Norberto copia con un <a>Body Double</a> un <a>Soltari Priest</a> e grazie ad un'<a>Urza's Factory</a> inizia a produrre pupazzi 2/2. Parazzoli prova a resistere guadagnando punti vita con dei <a>Lightning Helix</a>, e calando un <a>Serra Avenger</a>., che viene spedito in fondo al cimitero da un <a>Condemn</a>, quando prova un blando attacco. I pupazzi meccanici fanno guadagnare a Giusti la possibilità di giocare la terza partita.</p>&#10;      <p>Questa volta è Giusti a dover prendere un mulligan. Sbiru apre le ostilità con un <a>Cautery Sliver</a>. Norberto di secondo fa il solito <a>Castigate</a>, che porta via un <a>Sinew Sliver</a> (su doppio <a>Serra Avenger</a>). Dario topdekka un <a>Soltari Priest</a>, solo per vederselo mandare a casa da un <a>Condemn</a>. Sbiru si gioca l'accesso alla semifinale e decide di mettere in gioco 2 <a>Serra Avenger</a>. Se il suo avversario ha un'ira la sua partita è virtualmente finita, avendo una mano praticamente nulla. E gli va bene. Norberto infatti non pesca la quarta terra per giocare Ira e passa. Sbiru esulta dopo aver pescato, e cala Mana Barbs, che sigilla la partita. Uno sconsolato Giusti concede mostrando 2 <a>Wrath of God</a> e 1 <a>Damnation</a>.</p>&#10;      <p>Dario Parazzoli 2 - Norberto Giusti 1</p>&#10;      <br>&#10;      <br>&#10;      <a name="4">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, July 22: 4:51 p.m. - Quarter Finals: Andrea Garella vs Davide Fenu</b>&#10;        <div>&#10;          <i>by Luca Chiera</i>&#10;        </div>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <h3>Game 1</h3>&#10;      <p>Derby piemontese fra 2 compagni di test in questo quarto di finale che vede opposti Andrea Garella e Davide Fenu. Garella gioca Blink Riders, una versione molto simile a quella vincitrice dei nazionali francesi mentre Fenu si presenta al tavolo con Project X una mazzo che sembra aver incontrato difficoltà maggiori con l'arrivo della decima edizione ma che si è dimostrato competitivo durante questo week end ed è stata la scelta di diversi giocatori.<br> Davide vince il tiro del dado ed esordisce con un <a>Wall of Roots</a> cercando di difendersi dagli imminenti attacchi al suo mana, attacchi che non arrivano fondamentalmente perché Andrea salta il suo terzo land drop ed interagisce con il suo opponent solo giocando un <a>Remand</a> su Teysa al turno 4.<br> Nonostante abbia pescato la terza terra non può far altro che giocare un <a>Repeal</a> sul <a>Wall of Roots</a> di Fenu durante il suo turno problema che si ripropone nelle medesime fattezze. <br> Il quinto turno di Garella vede solo la giocata di una terra mentre Fenu gioca un <a>Castigate</a> ed Andrea rivela una mano di <a>Remand</a>, Helix, Grand Arbiter Augustin e Venser per impedire la sua combo e la scelta cade sul miglior rimpiazzo di Lightning Bolt da quando sono uscite le Alpha.<br> Alla fine del turno seguente Fenu gioca <a>Chord of Calling</a> e Garella decide di non contrastarlo, la scelta ricade su <a>Dark Confidant</a> che regala un <a>Wall of Roots</a> durante il mantenimento. Nel frattempo Teysa e Saffi continuano il loro lavoro e Garella si trova velocemente a 12 e pesantemente in svantaggio sul board che successivamente ad una fase d'attacco che ha visto Venser come protagonista vede ora Fenu controllore di Teysa, <a>Dark Confidant</a> e <a>Loxodon Hierarch</a>. Solo un Grand Arbiter Augustin per Garella che si vede proporre un altro Hierarch e lo contrasta con <a>Remand</a>; dopo aver giocato nel suo turno un <a>Lightning Angel</a>, Andrea si prepara ad accogliere altri 4 danni da uno Hierarch parte dei quali però li recupera giocando un Helix su Teysa a fine turno che lo riporta a 5. E' Numot a lasciare tappato il giocatore di Blink Riders che finalmente propone una difesa convincente nei confronti degli elefanti avversari che durante il turno di Fenu diventano ben 3. 10 Sono le vite di Fenu complice un uso un po' spregiudicato di delle shock lands e quando un Angelo lo attacca si sceglie di chumpbloccare con un Bird. Nel turno successivo però Confidant rivela un <a>Glittering Wish</a> che permette al giocatore di Project X di andare a prendere un Glare e chiudere il game tappando i 3 blocchi del suo compagno di playtest.</p>&#10;      <p>Garella 0 Fenu 1</p>&#10;      <p>Per la seconda partita Fenu sostituisce con 2 <a>Slaughter Pact</a> ed un <a>Putrefy</a> 2 <a>Essence Warden</a> ed un <a>Withered Wretch</a> mentre Garella sida out i Boom/Burst per aggiungere un <a>Repeal</a> addizionale e degli <a>Electrolyze</a>.</p>&#10;      <h3>Game 2</h3>&#10;      <p>Garella mulliga mentre Fenu ha un'ottima mano che vede accellarazione un <a>Castigate</a> ed un <a>Dark Confidant</a> come highlights. Confidant e <a>Birds of Paradise</a> vengono uccisi da un <a>Electrolyze</a> di Garella durante il suo terzo turno ed il successivo Bob cade vittima di un Helix. Un <a>Crypt Champion</a> senza istinti suicidi riporta in gioco una copia del nostro wizard preferito ma un secondo Helix rispedisce da dove era venuto. Un <a>Castigate</a> costringe a rivelare una composta da <a>Repeal</a> e <a>Court Hussar</a> Garella ed una Saffi entra in gioco.<br></p><div><div><a><img alt="crypt Champion" src="https://i.ormos.uk/c6/8b/c68ba6da0f0beb161c66f7462b66ae268ea8effa6dbada2ea660f0e4afc3c955.jpg"></a></div></div><a>Crypt Champion</a> in una delle sue rare esperienze in combat phase continua a danneggiare Garella e Fenu gioca uno Hierarch; il dinamico duo porta Andrea a 7 durante l'attacco successivo ed un <a>Glittering Wish</a> gli fornisce diverse opzioni e la scelta ricade su Teysa. <br> Un <a>Repeal</a> sullo Hierarch e l'arrivo di una <a>Riftwing Cloudskate</a> sembrano stabilizzare il board per il giocatore di Cirié mentre Fenu gioca <a>Slaughter Pact</a> in risposta ad un <a>Momentary Blink</a> che targettava la Cloudskate e ripropone lo Hierarch. Durante la successiva combat phase Fenu porta l'avversario a 3 e lascia una piccola speranza ad Andrea che avrebbe la possibilità di vincere pescando Venser ma sembra che l'unica cosa che riesca a fare sia rallentare la sua agonia giocando <a>Remand</a> e <a>Riftwing Cloudskate</a> sulle creature avversarie. Non domo però Garella gioca un Blink sulla Cloudskate per farla sopravvivere dopo aver bloccato uno Hierarch e Fenu cala Teysa. Un <a>Lightning Angel</a> fa la sua apparizione. Proprio quando sembrava che Fenu avesse deciso di accantonare tutti i piani di combo a causa dei Blink nel cimitero di Garella e della Cloudskate presente un Patto gli permette di calare il <a>Crypt Champion</a> in tranquillità e creare in collaborazione con Teysa e Saffi un numero di pedine sicuramente sufficienti ad uccidere Garella ed alcuni altri opponents presenti nei top8.<p></p>&#10;      <p>Garella 0 Fenu 2</p>&#10;      <br>&#10;      <br>&#10;      <a name="5">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, July 22: 6:01 p.m. - Semi Finals: Mario Pascoli vs Davide Fenu </b>&#10;        <div>&#10;          <i>by Manlio Palena</i>&#10;        </div>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <img src="https://i.ormos.uk/46/81/46819bb51f0dbb28ea351c75d34411646f8edacec9f469ec87d7cb10ede427b9.jpg">&#10;      <p>A questo punto sono rimasti solo in quattro a contendersi il titolo di Campione Italiano di <b>Magic</b> per il 2007. Siamo in semifinale e al mio tavolo si siede ancora una volta Mario Pascoli che in questi Nazionali ha portato il suo Blink Raiders all'invidiabile primato di 8 vittorie e una patta all'ultimo turno della svizzera. A contendergli la finale arriva da Torino Davide Fenu con un Project X, un mazzo Verde, Bianco e Nero.<br> Prima della partita i giocatori consultano la lista del mazzo dell'avversario. Entrambi sembrano preoccupati, d'altra parte siamo in semifinale. Finalmente si parte. Il tiro dei dadi premia Mario. Ma il primo a muoversi, purtroppo per lui in questo caso, è Davide, che si vede costretto a prendere un mulligan. Davide tiene sei. In ogni caso è ancora lui a muoversi aprendo con <a>Pendelhaven</a> <a>Birds of Paradise</a> e poi con un <a>Castigate</a> che si merita un <a>Remand</a>. Mario approfitta del turno in più per giocare un <a>Lightning Helix</a> sul Birds e poi passa. Ora arriva il <a>Castigate</a>. Intanto Davide va a 18 per aver usato due volteun <a>Horizon Canopy</a>. Il <a>Castigate</a> rimuove un <a>Avalanche Riders</a>, ma Mario ne ha un altro in mano che puntuale cala sul board il turno successivo rompendo il Canopy. Il turno successivo Davide cala un <a>Crypt Champion</a>e un altro Birds. Mario non paga l'eco del Riders ma ne cala un altro rompendo una painland verde nera. L'Avalanche si immola il turno successivo sul Champion. A questo punto Davide gioca un <a>Glittering Wish</a> con cui prende un altro <a>Castigate</a> che gioca subito. In risposta Mario cala un Venser ma Davide gli rimuove <a>Numot, the Devastator</a>. Mario ha una carta, è un <a>Court Hussar</a> che cala. Davide continua ad attaccare con il Champion, L'Hussar si sacrifica. Al turno successivo Mario cala <a>Lightning Angel</a> con cui attacca. davide è a 9 e il turno dopo attacca ancora portando Mario a 13. Ultimo Riders per Mario che rompe <a>Pendelhaven</a>, l'Angel attacca e Davide va a 6 e nel turno successivo non fa nulla. Mario gioca un altro Angel, attacca, ma è fermato dai due Birds che diventano dei blocchi fondamentali- Davide gioca un altro Wish e prende Saffi. Ma non serve con due <a>Lightning Angel</a> a terra. Davide concede.<br> Cambi di side : Davide toglie <a>Withered Wretch</a> e 2 <a>Essence Warden</a> e mette dentro 3 <a>Slaughter Pact</a>. Mario toglie i 4 Riders, un Signet e un'altra creatura e mette 3 <a>Flashfreeze</a> e 3 Dead/Gone. Inizia la seconda partita, comincia Davide ma stavolta è Mario a prendere un mulligan. Anche Mario tiene sei. Davide inizia bene. <a>Overgrown Tomb</a>, <a>Birds of Paradise</a> e al turno dopo mana <a>Wall of Roots</a>, <a>Saffi Eriksdotter</a>. Saffi attacca. Con i vari danni di mana siamo 18 pari. davide cala un altro Birds e attacca ancora con Saffi. Altri danni di landa portano Mario a 14 e a 12 con l'ennesimo attacco di Saffi. Il turno dopo Mario gioca Dead/Gone su Saffi, Davide risponde con una <a>Chord of Calling</a> e Mario con <a>Remand</a>. Saffi va nel cimitero. Mario cala il primo <a>Lightning Angel</a> e attacca. Davide è a 15 punti vita e il turno dopo elimina l'Angel con uno <a>Slaughter Pact</a> e scende un <a>Crypt Champion</a>. Saffi rientra in gioco. Il turno dopo Mario gioca un Dead/Gone su Saffi, in risposta arriva una Chord da 4 cui segue un <a>Remand</a> di Mario. Davide sacrifica Saffi. Altro <a>Lightning Angel</a> per Mario che porta Davide a 12. Il torinese a questo punto attacca con il Champio, Mario para con l'Angel e tutte e due vanno nel cimitero. Finalmente davide riesce a fare Chord da 4 e subito dopo cala un <a>Loxodon Hierarch</a> che lo riporta a 16 punti vita. Mario gioca un Hussar e passa. Al suo turno davide attacca con il Loxodon parato dall'Hussar e passa. Ma prima della fine del turno gioca un Helix sul Loxodon. In risposta altra Chord di Davide che salva la sua creatura. Mario cala solo un Signet e il turno successivo prende l'attacco del Loxodon che lo porta a 4. Poi cala un Angel. <a>Slaughter Pact</a> di Davide e la partita si chiude. uno pari e si va alla terza.<br> Comincia Mario, ma anche stavolta è costretto al mulligan. A fatica tiene sei, ma non finisce qui, perchè anche Davide prende il suo mulligan. Pesca sei, zero terre e altro mulligan. Pesca cinque e tiene. Comunque non inizia male con <a>Forest</a> <a>Elves of Deep Shadow</a> e subito dopo <a>Castigate</a>, che si attira un <a>Remand</a>, ma arriva a segno il turno dopo. Davide cala un <a>Wall of Roots</a>. Mario cala il quinto mana e passa. Il turno successivo arriva in gioco un <a>Crypt Champion</a> per Davide che muore colpito da un Helix di Mario. davide attacca con l'Elves e cala altri due <a>Wall of Roots</a>. Mario è a sette mana e gioca un Riftwing di mana. L'Elves torna in mano a Davide che lo ricala il turno dopo insieme al quarto Wall. Il Riftwing attacca e Davide va a 13. poi si infligge danno con una terra e gioca <a>Castigate</a>, Venser in risposta sull'Elves che ricala subito. Mario ha in mano tre terre. Secondo castigate a vuoto. Altro Riftwing per Mario, Davide è a 10 e gioca un Wish su <a>Glare of Subdual</a>. Al turno successivo lo gioca. Blink di Mario su Venser e Chord da quattro per Davide su Hierarch. Il Glare torna in mano con il Venser. Davide lo ricala il turno dopo, Blink di flashback e Glare di nuovo in mano. Davide prova a calarlo di nuovo ma stavolta subisce un <a>Flashfreeze</a>. Intanto è a tre con i danni di Elves. Mario vince ed è in finale.</p>&#10;      <br>&#10;      <br>&#10;      <a name="6">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, July 22: 6:04 p.m. - Semi Finals: Dario Parazzoli vs Gianluca Filippini</b>&#10;        <div>&#10;          <i>by Federico Trobia</i>&#10;        </div>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <p>La semifinale vede Dario &quot;Sbiru&quot; Parazzoli con il suo Boros contro Gianluca Filippini con Angelfire. Il vincitore accederà alla finale e potrà giocare per il titolo di Campione Nazionale 2007.</p>&#10;      <h3>Game 1</h3>&#10;      <img src="https://i.ormos.uk/04/e1/04e1f4200241cb95cdef63e708c7bd82ba708c8bbef2648b603888bf78dfeda7.jpg">&#10;      <p>Filippini vince il toss e decide di partire. Entrambi i giocatori tengono le loro prime sette carte. Sbiru inizia subito mettendo in campo un <a>Mogg Fanatic</a>, seguito il turno successivo da un <a>Soltari Priest</a> che viene prontamente &quot;rimandato&quot; . Il fanatico porta intanto a 18 Gianluca quando il Soltari riesce ad entrare in campo, un turno dopo. Filippini gioca poi un <a>Lightning Angel</a> e comincia la sua race, ma il turno successivo Sbiru risolve subito il problema con un <a>Incinerate</a> aiutato dall'immolazione del mogg. Contemporaneamente viene aggiunta pressione al board da parte del milanese con un <a>Serra Avenger</a>. Per nulla spaventato Gianluca casta un altro Lighting Angel. I punti di vita dei due sono 13 a 12 per Filippini quando il secondo <a>Soltari Priest</a> entra in campo. Un veloce scambio di magie arriva per Gianluca nel momento in cui Sbiru decide di attaccare con tutte le sue creature. Una Lightining Helix si infrange sul <a>Serra Avenger</a> mentre un Venser bouncera un <a>Soltari Priest</a>. L'angelfire comanda la race portando a 6 punti vita l'avversario nei successivi due attacchi. Ad aggravare la situazione per Parazzoli una <a>Riftwing Cloudskate</a> rispedisce in mano un altro <a>Soltari Priest</a>, rallentandone decisamente la pressione sul board. Il priest tornerà poi in campo accompagnato da un nuovo <a>Serra Avenger</a>. Il turno successivo Gianluca casta un <a>Court Hussar</a> e spacca una montagna all'avversario con un <a>Avalanche Riders</a>, portandolo a 1 nel seguente attacco. Il vantaggio dell'angelfire è ormai evidente e irrecuperabile, la partita si chiude pochi secondi dopo.</p>&#10;      <p>Filippini 1 Parazzoli 0</p>&#10;      <p>SIDE:<br> Filippini: -4 <a>Remand</a>, -2 <a>Avalanche Riders</a>, -2 Boom/Burst, +4 <a>Pyroclasm</a>, +1 <a>Odds/Ends</a>, +3 <a>Guerrilla Tactics</a>.<br> Parazzoli: -4 <a>Griffin Guide</a>,-3 <a>Sidewinder Sliver</a> +4 <a>Cryoclasm</a> +3 <a>Ronom Unicorn</a>.</p>&#10;      <div>&#10;        <div>&#10;          <a>&#10;            <img alt="ronom unicorn" src="https://i.ormos.uk/fb/be/fbbe6bf0b1f5846b1bfc2e8ee9510e4b3cf61b3be181c1bbdffc869b1e657ee6.jpg">&#10;          </a>&#10;        </div>&#10;      </div>&#10;      <h3>Game 2</h3>&#10;      <p>Nessuno dei due mulliga e Sbiru inizia a mettere rapidamente pressione castando un <a>Sidewinder Sliver</a> seguito da un <a>Sinew Sliver</a>. Ma il turno successivo tutto sembra spegnersi rapidamente quando una <a>Lightning Helix</a> uccide il Sinew e Dario non casta nessuna creatura al terzo turno. Filippini sospende allora una <a>Riftwing Cloudskate</a> subendo subito dopo un'Helix scendendo a 14. A quel punto un <a>Mogg Fanatic</a> fa la sua comparsa sul board a dare una mano al sidewinder nella race. Alla fine del turno un Venser,Shaper Savant rispedisce in mano il fanatico e una seconda helix spedisce il sidewinder nel cimitero. Sbiru spara un incinerate su Gianluca, ma il board volge ormai notevolmente a favore dell'angelfire. Quando la manta si risolve, e una nuova helix riporta il bresciano a 14, Sbiru dà la mano all'avversario e per la seconda volta consecutivamente Gianluca Filippini accede alle finali del Nazionale italiano di <b>Magic</b>!</p>&#10;      <p>Filippini 2 Parazzoli 0</p>&#10;      <br>&#10;      <br>&#10;      <a name="7">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, July 22: 7:20 p.m. - Final: Mario Pascoli vs Gianluca Filippini</b>&#10;        <div>&#10;          <i>by Manlio Palena</i>&#10;        </div>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <p>E siamo arrivati infine all'ultimo atto dell'estenuante maratona iniziata ieri di prima mattina. Arrivano in finale Mario Pascoli di Roma che in questo Nazionale è il giocatore che ha vinto di più, ben 13 partite, e Gianluca Filippini di Brescia. A chi andrà il titolo di Campione Italiano di <b>Magic</b>? Pazientate ancora un pò. Quello che è certo è che il mazzo della finale è un Blink Raiders, infatti quello che sta per iniziare è un Mirror Match, anche se i due mazzi ovviamente non sono del tutto uguali. Anche stavolta prima della partita i giocatori consultano la lista del mazzo dell'avversario. Mario vince il tiro del dado e comincia, ma anche stavolta non si inizia indenni. Gianluca prende un mulligan. Pesca sei e tiene. Tutti e due i giocatori cominciano con una doppia terra tappata. Al secondo turno <a>Azorius Signet</a> per Mario che al terzo turno ha quattro mana e un piccolo vantaggio che gli permette di calare il primo <a>Lightning Angel</a>. Gianluca è a 17 punti vita. Cala una terra doppia stappata e va a 15. Poi gioca <a>Repeal</a> sul Signet. L'Angel attacca e Gianluca scende a 12 riproponendo la stessa giocata del turno successivo. <a>Repeal</a> su Signet. Al turno dopo secondo Angel e Gianluca precipita a 6 punti vita e concede. </p>&#10;      <img src="https://i.ormos.uk/c6/5b/c65b11cf01c4839c93620ca904d7c76a966b35575bec8d5902a132245dac1576.jpg">&#10;      <p>Cambi di side : Gianluca toglie 2 <a>Repeal</a>, 1 Hussar, 1 Numot e 1 Boom/Bust e mette <a>Odds/Ends</a> e 4 <a>Cryoclasm</a>. Mario toglie 2 Numot, 4 Helix e 1 Venser e mette 4 <a>Cryoclasm</a> e 3 <a>Flashfreeze</a>. Cambi di side abbastanza diversi a parte il <a>Cryoclasm</a> a conferma che i due mazzi non sono proprio uguali.</p>&#10;      <p>Parte il secondo match. Entrambi i giocatori stavolta tengono la mano di apertura. Si comincia con le solite doppie lande, e al secondo turno arriva il primo Signet di Mario. Al terzo turno Mario ha anche stavolta quattro mana e può calare un <a>Avalanche Riders</a>. Gianluca è a 18 punti vita e a due lande. Cala <a>Island</a> e passa. Mario non paga l'eco dei Riders e gioca un <a>Cryoclasm</a>. Gianluca è ancora a due lande e a 15 punti vita. Al suo turno cala terra e gioca a sua volta un <a>Cryoclasm</a>. Anche Mario scende a 15 punti vita e al turno successivo giocaa un <a>Court Hussar</a>. Prende altri due danni calando una doppia terra stappata, va a 13 e passa. Gianluca gioca il suo secondo <a>Cryoclasm</a> sulla terra appena calata da Mario che va a 10. Nel suo nuovo turno Mario attacca di Hussar e passa. Gianluca è a 12 e, dopo aver calato la quarta terra propone all'avversario il terzo <a>Cryoclasm</a> consecutivo, che stavolta viene contrastato da un <a>Remand</a>. Il turno successivo l'Hussar attacca ancora e Mario ne cala un altro. Gianluca scende a 11 punti vita, dopodichè comincia il suo nuovo turno, durante il quale cala un <a>Grand Arbiter Augustin IV</a>. <a>Remand</a> di Mario, seguito da un <a>Remand</a> di Gianluca. La creatura è sul board ma al turno dopo un provvidenziale Riftwing la fa tornare in mano al proprietario. Mario attacca e Gianluca scende a 9 punti vita e il turno successivo prova a rimettere a terra Augustin. E' il turno di Mario che attacca con tutto. Gianluca para un Hussar e va a 4. Mario gioca <a>Momentary Blink</a> sul suo Riftwing, e in risposta Gianluca gioca un Venser subendo un <a>Remand</a>. Augustin torna ancora una volta in mano al proprietario quando rientra in gioco il Riftwing. Al successivo turno Gianluca cala ancora una volta Augustin e subito dopo il Venser. Il Riftwing torna in mano a Mario che non perde tempo a rigiocarlo al turno dopo e Augustin torna di nuovo tra le carte in mano a Gianluca che intanto è a 3 punti vita. Altro turno per lui che prova una strategia diversa calando a sua volta un Riftwing su quello dell'avversario. Mario stappa e gioca un terzo Hussar, Gianluca risponde con un <a>Remand</a>. Con il restante mana libero però Mario lo cala lo stesso. E' ora Gianluca a stappare e a cominciare un nuovo turno nel quale decide di riproporre Augustin, dopodichè passa. Mario nel suo turno gioca un Venser che rimbalza ancora Augustin in mano all'avversario ed elimina anche il suo Venser. Mario attacca con gli Hussar. Uno è bloccato dal Riftwing, l'altro subisce un Helix. Gianluca è a 4 punti vita e nel suo turno scende per l'ennesima volta Augustin e gioca il suo ultimo <a>Cryoclasm</a>. Mario è a 7 punti vita e stappa. E' il momento di un <a>Lightning Angel</a>. Mario attacca con i suoi tre volanti e Gianluca è costretto a bloccare. Sceglie il blocco sui due Hussar, per salvare le sue creature e va ad un punto vita. Nel suo turno cala a sua volta un Angel, poi un <a>Avalanche Riders</a> e si chiude in difesa. Gianluca passa, Mario pesca <a>Cryoclasm</a> e vince. E' lui il Campione Italiano di <b>Magic</b> 2007, e l'anno prossimo si torna a Roma.</p>&#10;      <br>&#10;      <br>&#10;      <a name="8">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, July 22: 7:21 p.m. - Final Mario Pascoli vs Gianluca Filippini (English)</b>&#10;        <div>&#10;          <i>by Bruno Panara</i>&#10;        </div>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <p>Welcome to the final of the 2007 Italian National Championship. After two days and fourteen rounds of play the top8 was a showcase of Italian talent. It is now time for the final and long time veteran Mario Pascoli will play Emanuele Filippini in a Blink Riders mirror match.</p>&#10;      <p>Mario Pascoli comes from Rome and has been playing <b>Magic</b> for a long time. In 12 years he's been to more than a dozen Pro-Tours, including a top16 at PT New Orleans and a couple of top32 appearances. He was in two GP Top8s and this is his second Top8 at Nationals. The first time, in 2004, he was crowned National Champion. Mario will also play in PT Valencia, as he won a 255 player PTQ less than a month ago.<br> Gianluca Filippini is a younger player from Brescia, near Milan. He only started playing with Champions of Kamigawa, but this last season has been very good for him: he was already finalist at last year's Nationals and he has played in PT San Diego.</p>&#10;      <p>As a small crowd gathers to see the match, Mario wins the toss and chooses to play first. His hand is pretty good, with lands, a signet, a pair of <a>Lightning Angel</a>s and a <a>Lightning Helix</a>. His opponent isn't as lucky and has to mulligan; his hand of six contains a couple of lands, two four-drops, a Helix and a <a>Repeal</a>, enough to be a keeper.<br> Mario accelerates into a turn four <a>Lightning Angel</a> which starts the beatdown right away. In the meantime Gianluca has drawn his third land and <a>Repeal</a>s Mario's Signet in order to draw a card and slow his opponent down. The signet comes back into play but is bounced again with a second <a>Repeal</a>. The extra card isn't a land though, and when a second Angel is summoned on Mario's Side, Gianluca can only concede.</p>&#10;      <p>Sideboarding starts, these are the players choices:<br> Mario: -4 <a>Lightning Helix</a>, -2 Numot the Devastator, -1 Venser Shaper Savant, +4 <a>Cryoclasm</a> +3 <a>Flashfreeze</a><br> Gianluca: -2 <a>Repeal</a>, .1 Numot the Devastator, -1 Boom/Burst -1 <a>Court Hussar</a> +4 <a>Cryoclasm</a> +1 <a>Odds/Ends</a></p>&#10;      <img src="https://i.ormos.uk/c6/5b/c65b11cf01c4839c93620ca904d7c76a966b35575bec8d5902a132245dac1576.jpg">&#10;      <p>The second game starts and Gianluca will play first. His hand is ok this time, with three lands, triple <a>Cryoclasm</a> and <a>Avalanche Riders</a>. Mario unknowingly keeps a hand that is very good in this situation: 5 lands, a signet and a <a>Court Hussar</a>. <br> Pascoli's first drops are painlands, so Gianluca can't play any of his <a>Cryoclasm</a>s on his third turn. Mario continues to complicate Gianluca's strategy accelerating into a turn three <a>Avalanche Riders</a>, taking away his opponent's only red mana. No echo was payed and <a>Cryoclasm</a> takes out another of Gianluca's lands. The following turn comes and Filippini finally draws a red mana and gets to destroy one of Mario's lands. <a>Court Hussar</a> comes to the rescue and the roman passes the turn with two mana and a hand of <a>Remand</a>s, <a>Flashfreeze</a> and <a>Momentary Blink</a>. A second <a>Cryoclasm</a> from Gianluca resolves but his opponent promptly replaces the land and counters the third <a>Cryoclasm</a> with a <a>Remand</a>.<br> A second Hussar resolves on Mario's side, and he then tries to <a>Remand</a> his opponent's <a>Grand Arbiter Augustin IV</a>, only to have his spell remanded instead. The <i>Dissension</i> bomb is only a slight problem for Mario, who returns it to his opponent's hand with a <a>Riftwing Cloudskate</a>. When it comes back down it can only block one of the Hussars and the attack brings Gianluca down to four. <a>Momentary Blink</a> does its job with Cloudskate, facing some feeble opposition from <a>Venser, Shaper Savant</a>, but another <a>Remand</a> from Mario helps solve that problem. Gianluca is in a tough situation now: facing four damage on the board he casts the Arbiter for the third time as well as the Venser targeting <a>Riftwing Cloudskate</a>. <br> The turns keep repeating themselves as the <i><i>Time Spiral</i></i> uncommon returns Augustin to Gianluca's hand once again. Another Cloudskate comes into play, but his time under Filippini's control. His opponent's 2/2 flyer is returned to his hand and when he plays Augustin - again - Mario had already resolved his third Hussar. A Venser comes down for Pascoli, bouncing the Arbiter and killing his legendary &quot;twin&quot;. A Helix from Gianluca thwarts his next attack, and at the end of the turn Augustin is in play again and Mario lost another land to <a>Cryoclasm</a>. Unfazed by his opponent's plays Mario summons <a>Lightning Angel</a> and enters the red zone. His opponent is on four and thinks long and hard before deciding to block the two Hussars and going down to one. &quot;Miss America&quot; comes into play for Gianluca's team as well, followed by an <a>Avalanche Riders</a>. This isn't enough though: Mario plays <a>Cryoclasm</a>, killing his opponent and becoming National Champion for the second Time!</p>&#10;      <p>Mario and Gianluca will be in New York in December for the World Championships playing as the Italian National Team together with Davide Fenu and Dario Parazzoli.</p>&#10;      <br>&#10;    </td>&#10;  </tr>&#10;</tbody></table>

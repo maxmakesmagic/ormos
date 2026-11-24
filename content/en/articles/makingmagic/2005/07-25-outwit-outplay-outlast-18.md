@@ -1,0 +1,66 @@
+---
+id: kcn25cmf
+kind: article
+lang: en
+path: /en/articles/makingmagic/2005/07-25-outwit-outplay-outlast-18
+title: Outwit, Outplay, Outlast
+published: '2005-07-25'
+column_slug: makingmagic
+column: Making Magic
+authors:
+- slug: markrosewater
+  name: Mark Rosewater
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/making-magic/outwit-outplay-outlast-2005-07-25-6
+    lang_detected: en
+    capture_id: 903484
+    url: https://magic.wizards.com/en/articles/archive/making-magic/outwit-outplay-outlast-2005-07-25-6
+    captured_at: '2022-05-18 23:07:16+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/making-magic/outwit-outplay-outlast-2005-07-25-6
+    lang_detected: en
+    capture_id: 903484
+    url: https://magic.wizards.com/en/articles/archive/making-magic/outwit-outplay-outlast-2005-07-25-6
+    captured_at: '2022-05-18 23:07:16+00'
+    rule: drupal.posted_in_date
+  authors:
+    page_key: magic.wizards.com/en/articles/archive/making-magic/outwit-outplay-outlast-2005-07-25-6
+    lang_detected: en
+    capture_id: 903484
+    url: https://magic.wizards.com/en/articles/archive/making-magic/outwit-outplay-outlast-2005-07-25-6
+    captured_at: '2022-05-18 23:07:16+00'
+    rule: drupal.div_author
+  column:
+    page_key: magic.wizards.com/en/articles/archive/making-magic/outwit-outplay-outlast-2005-07-25-6
+    lang_detected: en
+    capture_id: 903484
+    url: https://magic.wizards.com/en/articles/archive/making-magic/outwit-outplay-outlast-2005-07-25-6
+    captured_at: '2022-05-18 23:07:16+00'
+    rule: drupal.posted_in_link
+    registry_match: registry.explicit
+sources:
+- document_id: kcn25cmf
+  url: https://magic.wizards.com/en/articles/archive/making-magic/outwit-outplay-outlast-2005-07-25-6
+  page_key: magic.wizards.com/en/articles/archive/making-magic/outwit-outplay-outlast-2005-07-25-6
+  lang: en
+  template: drupal
+  captured_at: '2022-05-18 23:07:16+00'
+  capture_id: 903484
+  wayback_url: https://web.archive.org/web/20220518230716id_/https://magic.wizards.com/en/articles/archive/making-magic/outwit-outplay-outlast-2005-07-25-6
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: kcn25cmf
+  capture_id: 903484
+  url: https://magic.wizards.com/en/articles/archive/making-magic/outwit-outplay-outlast-2005-07-25-6
+  wayback_url: https://web.archive.org/web/20220518230716id_/https://magic.wizards.com/en/articles/archive/making-magic/outwit-outplay-outlast-2005-07-25-6
+  captured_at: '2022-05-18 23:07:16+00'
+  template: drupal
+  sha256: ea4b2d26dabd7ac93d19e21bb89129ea34ca50dc53e439ee649992c9035fdd37
+render_recovery: []
+---
+### Fifth Edition - Out: (60)
+
+<table><tbody><tr><td><b>Card</b></td><td><b>Color</b></td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Animate+Artifact">Animate Artifact</a></td><td>Blue</td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Balance">Balance</a></td><td>White</td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Black+Vise">Black Vise</a></td><td>Artifact</td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Black+Ward">Black Ward</a></td><td>White</td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Blessing">Blessing</a></td><td>White</td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Blue+Elemental+Blast">Blue Elemental Blast</a></td><td>Blue</td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Blue+Ward">Blue Ward</a></td><td>White</td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Burrowing">Burrowing</a></td><td>Red</td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Celestial+Prism">Celestial Prism</a></td><td>Artifact</td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Channel">Channel</a></td><td>Green</td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chaoslace">Chaoslace</a></td><td>Red</td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Conservator">Conservator</a></td><td>Artifact</td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Control+Magic">Control Magic</a></td><td>Blue</td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Conversion">Conversion</a></td><td>White</td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Creature+Bond">Creature Bond</a></td><td>Blue</td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Deathlace">Deathlace</a></td><td>Black</td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dragon+Whelp">Dragon Whelp</a></td><td>Red</td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Earth+Elemental">Earth Elemental</a></td><td>Red</td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fire+Elemental">Fire Elemental</a></td><td>Red</td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gaea%27s+Liege">Gaea's Liege</a></td><td>Green</td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+Balloon+Brigade">Goblin Balloon Brigade</a></td><td>Red</td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gray+Ogre">Gray Ogre</a></td><td>Red</td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Green+Ward">Green Ward</a></td><td>White</td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Holy+Armor">Holy Armor</a></td><td>White</td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hypnotic+Specter">Hypnotic Specter</a></td><td>Black</td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Jump">Jump</a></td><td>Blue</td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kormus+Bell">Kormus Bell</a></td><td>Artifact</td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lifelace">Lifelace</a></td><td>Green</td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lightning+Bolt">Lightning Bolt</a></td><td>Red</td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mahamoti+Djinn">Mahamoti Djinn</a></td><td>Blue</td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mana+Short">Mana Short</a></td><td>Blue</td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mind+Twist">Mind Twist</a></td><td>Black</td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Northern+Paladin">Northern Paladin</a></td><td>White</td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Obsianus+Golem">Obsianus Golem</a></td><td>Artifact</td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Power+Leak">Power Leak</a></td><td>Blue</td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Power+Surge">Power Surge</a></td><td>Red</td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Purelace">Purelace</a></td><td>White</td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Red+Elemental+Blast">Red Elemental Blast</a></td><td>Red</td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Red+Ward">Red Ward</a></td><td>White</td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Royal+Assassin">Royal Assassin</a></td><td>Black</td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Savannah+Lions">Savannah Lions</a></td><td>White</td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Scavenging+Ghoul">Scavenging Ghoul</a></td><td>Black</td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sengir+Vampire">Sengir Vampire</a></td><td>Black</td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Serra+Angel">Serra Angel</a></td><td>White</td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Simulacrum">Simulacrum</a></td><td>Black</td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Siren%27s+Call">Siren's Call</a></td><td>Blue</td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sunglasses+of+Urza">Sunglasses of Urza</a></td><td>Artifact</td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Swords+to+Plowshares">Swords to Plowshares</a></td><td>White</td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Thoughtlace">Thoughtlace</a></td><td>Blue</td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Timber+Wolves">Timber Wolves</a></td><td>Green</td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tunnel">Tunnel</a></td><td>Red</td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Uthden+Troll">Uthden Troll</a></td><td>Red</td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Volcanic+Eruption">Volcanic Eruption</a></td><td>Blue</td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wall+of+Ice">Wall of Ice</a></td><td>Green</td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wall+of+Water">Wall of Water</a></td><td>Blue</td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wall+of+Wood">Wall of Wood</a></td><td>Green</td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Water+Elemental">Water Elemental</a></td><td>Blue</td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Web">Web</a></td><td>Green</td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=White+Ward">White Ward</a></td><td>White</td></tr><tr><td><a href="https://web.archive.org/web/20050725000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Will-O%27-The-Wisp">Will-O'-The-Wisp</a></td><td>Black</td></tr></tbody></table>

@@ -1,0 +1,47 @@
+---
+id: mjj6s1p6
+kind: event
+lang: en
+path: /en/articles/event-coverage/2010/02-20-pro-toursan-diego-round-16-results
+title: Pro Tour–San Diego Round 16 Results
+published: '2010-02-20'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/pro-tour%E2%80%93san-diego-round-16-results-2010-02-20
+    lang_detected: en
+    capture_id: 464746
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/pro-tour%E2%80%93san-diego-round-16-results-2010-02-20
+    captured_at: '2022-10-03 15:47:02+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/pro-tour%E2%80%93san-diego-round-16-results-2010-02-20
+    lang_detected: en
+    capture_id: 464746
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/pro-tour%E2%80%93san-diego-round-16-results-2010-02-20
+    captured_at: '2022-10-03 15:47:02+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: mjj6s1p6
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/pro-tour%E2%80%93san-diego-round-16-results-2010-02-20
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/pro-tour%E2%80%93san-diego-round-16-results-2010-02-20
+  lang: en
+  template: drupal
+  captured_at: '2022-10-03 15:47:02+00'
+  capture_id: 464746
+  wayback_url: https://web.archive.org/web/20221003154702id_/https://magic.wizards.com/en/articles/archive/event-coverage/pro-tour%E2%80%93san-diego-round-16-results-2010-02-20
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: mjj6s1p6
+  capture_id: 464746
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/pro-tour%E2%80%93san-diego-round-16-results-2010-02-20
+  wayback_url: https://web.archive.org/web/20221003154702id_/https://magic.wizards.com/en/articles/archive/event-coverage/pro-tour%E2%80%93san-diego-round-16-results-2010-02-20
+  captured_at: '2022-10-03 15:47:02+00'
+  template: drupal
+  sha256: 3cdadf2b5748fa14bec45de628f3870db3708c5e702990922fadbd142e530362
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Result</b></td><td><b>&#10;						</b></td><td><b>Opponent</b></td></tr><tr><td> 1</td><td>Scott-Vargas, Luis [USA]</td><td>Won 2-0</td><td>vs.</td><td>Elfgren, Bertil [SWE]</td></tr><tr><td> 2</td><td>Gräfensteiner, Daniel [DEU]</td><td>Drew 0-0-0</td><td>vs.</td><td>Ikawa, Yoshihiko [JPN]</td></tr><tr><td> 3</td><td>Boggemes, Kyle [USA]</td><td>Drew 0-0-0</td><td>vs.</td><td>Görtzen, Simon [DEU]</td></tr><tr><td> 4</td><td>Viaene, Niels [BEL]</td><td>Won 2-0</td><td>vs.</td><td>Gardner, Daniel [ENG]</td></tr><tr><td> 5</td><td>Kitayama, Masaya [JPN]</td><td>Lost 0-2</td><td>vs.</td><td>Wescoe, Craig [USA]</td></tr><tr><td> 6</td><td>Kanis, Jeroen [NLD]</td><td>Won 2-1</td><td>vs.</td><td>Nassif, Gabriel [FRA]</td></tr><tr><td> 7</td><td>Vieren, Pascal [BEL]</td><td>Lost 1-2</td><td>vs.</td><td>Ross, Tom [USA]</td></tr><tr><td> 8</td><td>Peebles-Mundy, Benjami [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Coqueiro, Rafael [BRA]</td></tr><tr><td> 9</td><td>Chen, Jeffrey [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Senyuz, Aras [TUR]</td></tr><tr><td> 10</td><td>Juza, Martin [CZE]</td><td>Lost 0-2</td><td>vs.</td><td>Nakamura, Hajime [JPN]</td></tr><tr><td> 11</td><td>Mulcahy, Luke [AUS]</td><td>Drew 0-0-0</td><td>vs.</td><td>Johannsen, Dennis [DEU]</td></tr><tr><td> 12</td><td>Corbett, Justin [USA]</td><td>Drew 0-0-0</td><td>vs.</td><td>Cormier, Francis [CAN]</td></tr><tr><td> 13</td><td>Chapin, Patrick [USA]</td><td>Won 2-0</td><td>vs.</td><td>Heitzmann, Russell [CAN]</td></tr><tr><td> 14</td><td>Shackett, Thomas [USA]</td><td>Lost 1-2</td><td>vs.</td><td>Rietzl, Paul [USA]</td></tr><tr><td> 15</td><td>Black, Samuel [USA]</td><td>Won 2-0</td><td>vs.</td><td>Mori, Katsuhiro [JPN]</td></tr><tr><td> 16</td><td>Wallendorf, Jonas [DEU]</td><td>Lost 0-2</td><td>vs.</td><td>Turtenwald, Owen [USA]</td></tr><tr><td> 17</td><td>Vieren, Peter [BEL]</td><td>Drew 0-0-0</td><td>vs.</td><td>Florent, Lucas [FRA]</td></tr><tr><td> 18</td><td>Vidugiris, Gaudenis [USA]</td><td>Won 2-0</td><td>vs.</td><td>Beasley, Orrin [USA]</td></tr><tr><td> 19</td><td>Kesteloo, Peter [NLD]</td><td>Lost 1-2</td><td>vs.</td><td>Long, Noah [CAN]</td></tr><tr><td> 20</td><td>Ziesche, Sebastian [DEU]</td><td>Lost 1-2</td><td>vs.</td><td>Malin, Antti [FIN]</td></tr><tr><td> 21</td><td>Noorlander, Niels [NLD]</td><td>Drew 0-0-0</td><td>vs.</td><td>Froehlich, Eric [USA]</td></tr><tr><td> 22</td><td>Sternbauer, Bernhard [AUT]</td><td>Drew 0-0-0</td><td>vs.</td><td>Batarseh, Sammy [USA]</td></tr><tr><td> 23</td><td>Nakamura, Shuuhei [JPN]</td><td>Drew 0-0-0</td><td>vs.</td><td>van Medevoort, Robert [NLD]</td></tr><tr><td> 24</td><td>Piazza, Brett [USA]</td><td>Drew 0-0-0</td><td>vs.</td><td>Komuro, Shuu [JPN]</td></tr><tr><td> 25</td><td>Watanabe, Yuuya [JPN]</td><td>Lost 0-2</td><td>vs.</td><td>King, Stephen [USA]</td></tr><tr><td> 26</td><td>Blohon, Lucas [CZE]</td><td>Lost 1-2</td><td>vs.</td><td>Shiraishi, Tomomi [JPN]</td></tr><tr><td> 27</td><td>Satou, Rin [JPN]</td><td>Won 2-1</td><td>vs.</td><td>Gordon, Hamish [NZL]</td></tr><tr><td> 28</td><td>Tsatsos, Demostenes [GRC]</td><td>Lost 0-2</td><td>vs.</td><td>Ford, Jason [USA]</td></tr><tr><td> 29</td><td>Stone, Dennis [BEL]</td><td>Won 2-1</td><td>vs.</td><td>Nakajima, Chikara [JPN]</td></tr><tr><td> 30</td><td>Iwasaki, Yuusuke [JPN]</td><td>Lost 0-2</td><td>vs.</td><td>Schalin, Ville [FIN]</td></tr><tr><td> 31</td><td>Ho, Jun Feng Jack [SGP]</td><td>Won 2-0</td><td>vs.</td><td>Burgold, Lino [DEU]</td></tr><tr><td> 32</td><td>Bohny, Nico [CHE]</td><td>Won 2-1</td><td>vs.</td><td>Raney, Tom [USA]</td></tr><tr><td> 33</td><td>Aintrazi, Ali [USA]</td><td>Won 2-1</td><td>vs.</td><td>Marr, Mat [USA]</td></tr><tr><td> 34</td><td>Adebo Diaz, Juan Carlo [ESP]</td><td>Lost 0-2</td><td>vs.</td><td>Landale, Tim [USA]</td></tr><tr><td> 35</td><td>Gregoir, Christophe [BEL]</td><td>Lost 0-2</td><td>vs.</td><td>Kludka, Petr [CZE]</td></tr><tr><td> 36</td><td>Paquette, Aeo [CAN]</td><td>Won 2-0</td><td>vs.</td><td>Lundquist, Benjamin [USA]</td></tr><tr><td> 37</td><td>Hirabayashi, Kazuya [JPN]</td><td>Lost 1-2</td><td>vs.</td><td>Simón Martin, Alain [ESP]</td></tr><tr><td> 38</td><td>Lybaert, Marijn [BEL]</td><td>Lost 1-2</td><td>vs.</td><td>Golia, Patrizio [ITA]</td></tr><tr><td> 39</td><td>Herberholz, Mark [USA]</td><td>Won 2-0</td><td>vs.</td><td>Koska, Adam [CZE]</td></tr><tr><td> 40</td><td>Higa, Hiroto [JPN]</td><td>Drew 0-0-0</td><td>vs.</td><td>Ikeda, Tsuyoshi [JPN]</td></tr><tr><td> 41</td><td>Orsini Jones, Matteo [ENG]</td><td>Won 2-0</td><td>vs.</td><td>Zatlkaj, Matej [SVK]</td></tr><tr><td> 42</td><td>Brozek, Petr [CZE]</td><td>Lost 0-2</td><td>vs.</td><td>Padilla, Travis [USA]</td></tr><tr><td> 43</td><td>Bucher, Manuel [CHE]</td><td>Won 2-1</td><td>vs.</td><td>Wafo-tapa, Guillaume [FRA]</td></tr><tr><td> 44</td><td>Gendron Dupont, Charle [USA]</td><td>Won 2-1</td><td>vs.</td><td>Yasooka, Shouta [JPN]</td></tr><tr><td> 45</td><td>Coons, Kyle [USA]</td><td>Won 2-1</td><td>vs.</td><td>Kolos, John [USA]</td></tr><tr><td> 46</td><td>Stark, Ben [USA]</td><td>Won 2-0</td><td>vs.</td><td>Ecker, Danny [DEU]</td></tr><tr><td> 47</td><td>Ruess, Jan [DEU]</td><td>Won 2-1</td><td>vs.</td><td>Romano, Slone [CAN]</td></tr><tr><td> 48</td><td>Massicard, Yann [FRA]</td><td>Lost 0-2</td><td>vs.</td><td>Saitou, Tomoharu [JPN]</td></tr><tr><td> 49</td><td>Murray, Stephen [ENG]</td><td>Lost 1-2</td><td>vs.</td><td>Yukuhiro, Ken [JPN]</td></tr><tr><td> 50</td><td>Patnik, Michael [USA]</td><td>Lost 0-2</td><td>vs.</td><td>Phillips, Cedric [USA]</td></tr><tr><td> 51</td><td>Boss, Brian [USA]</td><td>Lost 0-2</td><td>vs.</td><td>Mitamura, Kazuya [JPN]</td></tr><tr><td> 52</td><td>Allouchery, Gonzague [FRA]</td><td>Lost 1-2</td><td>vs.</td><td>da Rosa, Paulo Vitor [BRA]</td></tr><tr><td> 53</td><td>Nakano, Yoshitaka [JPN]</td><td>Won 2-0</td><td>vs.</td><td>Katayama, Hidenori [JPN]</td></tr><tr><td> 54</td><td>Garcia, Sergio [ESP]</td><td>Lost 0-2</td><td>vs.</td><td>Yurchick, Adam [USA]</td></tr><tr><td> 55</td><td>Estratti, Samuele [ITA]</td><td>Won 2-1</td><td>vs.</td><td>Imai, Hideaki [JPN]</td></tr><tr><td> 56</td><td>Nikitin, Dmitry [RUS]</td><td>Lost 1-2</td><td>vs.</td><td>Schwarz, Sascha [DEU]</td></tr><tr><td> 57</td><td>Kopec, Mateusz [POL]</td><td>Lost 0-2</td><td>vs.</td><td>Ootsuka, Koutarou [JPN]</td></tr><tr><td> 58</td><td>Calhoun, Justin [USA]</td><td>Won 2-1</td><td>vs.</td><td>Grimaldi, Davide [ITA]</td></tr><tr><td> 59</td><td>Künzler, Matthias [CHE]</td><td>Won 2-1</td><td>vs.</td><td>Lax, Ari [USA]</td></tr><tr><td> 60</td><td>Romanos, Theodoros [GRC]</td><td>Won 2-1</td><td>vs.</td><td>Goldman-Kirst, Martin [USA]</td></tr><tr><td> 61</td><td>Inoue, Tooru [JPN]</td><td>Lost 0-2</td><td>vs.</td><td>Akaike, You [JPN]</td></tr><tr><td> 62</td><td>Veigel, Cameron [AUS]</td><td>Lost 0-2</td><td>vs.</td><td>Randle, Jonathan [ENG]</td></tr><tr><td>&#10;					</td><td>Creel, Austin [USA]</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr></tbody></table>

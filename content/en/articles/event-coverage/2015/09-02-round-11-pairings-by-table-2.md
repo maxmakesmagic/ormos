@@ -1,0 +1,47 @@
+---
+id: k3kywcav
+kind: event
+lang: en
+path: /en/articles/event-coverage/2015/09-02-round-11-pairings-by-table-2
+title: Round 11 Pairings (by Table)
+published: '2015-09-02'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-11-pairings-table-2015-09-02-0
+    lang_detected: en
+    capture_id: 494444
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-11-pairings-table-2015-09-02-0
+    captured_at: '2022-01-28 06:04:19+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-11-pairings-table-2015-09-02-0
+    lang_detected: en
+    capture_id: 494444
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-11-pairings-table-2015-09-02-0
+    captured_at: '2022-01-28 06:04:19+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: k3kywcav
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-11-pairings-table-2015-09-02-0
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/round-11-pairings-table-2015-09-02-0
+  lang: en
+  template: drupal
+  captured_at: '2022-01-28 06:04:19+00'
+  capture_id: 494444
+  wayback_url: https://web.archive.org/web/20220128060419id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-11-pairings-table-2015-09-02-0
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: k3kywcav
+  capture_id: 494444
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-11-pairings-table-2015-09-02-0
+  wayback_url: https://web.archive.org/web/20220128060419id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-11-pairings-table-2015-09-02-0
+  captured_at: '2022-01-28 06:04:19+00'
+  template: drupal
+  sha256: 44ca14795f3f5fb82c2d5f23bda0254ce97a8243f4a03341723b92eb0f5b8384
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td></td><td><b>Opponent</b></td></tr><tr><td>1</td><td>Nitter, Eivind (NO)          (277)</td><td>vs.</td><td>Shvartsman, Alex (US)        (121)</td></tr><tr><td>2</td><td>Budde, Kai (DE)              (112)</td><td>vs.</td><td>Manne Thrane, Jesper (DK)    (394)</td></tr><tr><td>3</td><td>Geertsen, Svend (DK)         (330)</td><td>vs.</td><td>Jobstl, Markus (AT)          (361)</td></tr><tr><td>4</td><td>Angelin, Marcus (SE)         (335)</td><td>vs.</td><td>Schraut, Andreas (GE)        (270)</td></tr><tr><td>5</td><td>Alshamn, Albert (SE)         ( 86)</td><td>vs.</td><td>Vollebregt, Joost (NL)       ( 36)</td></tr><tr><td>6</td><td>Levy, Raphael (FR)           (449)</td><td>vs.</td><td>Schreurs, Jos (NL)           ( 15)</td></tr><tr><td>7</td><td>Jensen, Niels S. (DK)        (267)</td><td>vs.</td><td>Nieminen, Tuomo (FI)         ( 42)</td></tr><tr><td>8</td><td>Ellingvåg, Sondre (NO)*      (166)</td><td>vs.</td><td>Sadegphour, Johan (SE)       (208)</td></tr><tr><td>9</td><td>Eskeland, Sigurd (NO)        (338)</td><td>vs.</td><td>Jocumsen, Bjorn P. (NO)      (307)</td></tr><tr><td>10</td><td>Bailadeira, Pedro (PT)       ( 26)</td><td>vs.</td><td>Malmi, Leif (SE)             (221)</td></tr><tr><td>11</td><td>Öman, Jimmy (SE)             (145)</td><td>vs.</td><td>v d Broek, Victor (NL)       (313)</td></tr><tr><td>12</td><td>Farington, Frederik (DK)     (272)</td><td>vs.</td><td>Magnusson, Mikael (SE)       (464)</td></tr><tr><td>13</td><td>Canu, Franck (FR)            (373)</td><td>vs.</td><td>Refsdal, Thomas (NO)         (265)</td></tr><tr><td>14</td><td>Jarnegren, Carl (SE)*        (194)</td><td>vs.</td><td>Persson, Andreas (SE)*       (  8)</td></tr><tr><td>15</td><td>Lund, Kim Robin (NO)         (390)</td><td>vs.</td><td>Norris, Pete (UK)            (125)</td></tr><tr><td>16</td><td>Jönsson, Torbjörn (SE)*      (186)</td><td>vs.</td><td>Wills, Scott (UK)            (115)</td></tr><tr><td>17</td><td>Mowshowitz, Zvi (US)         (258)</td><td>vs.</td><td>Rosholm, Thomas (SE)         (325)</td></tr><tr><td>18</td><td>Hothow, Dominik (DE)         (113)</td><td>vs.</td><td>Walamies, Tomi (FI)          ( 44)</td></tr><tr><td>19</td><td>Magnusson, Janek (SE)*       (157)</td><td>vs.</td><td>Parker, Brock (US)           (102)</td></tr><tr><td>20</td><td>Mansson, Daniel (SE)         ( 62)</td><td>vs.</td><td>Nielsen, Michael S (DK)      (459)</td></tr><tr><td>21</td><td>Anesten, Fredrik (SE)*       (380)</td><td>vs.</td><td>Helvik, Snorre (NO)          (381)</td></tr><tr><td>22</td><td>Herlitz, Anders (SE)*        (191)</td><td>vs.</td><td>Hoppe, Karsten (DK)          (246)</td></tr><tr><td>23</td><td>Foldevi, Jonas (SE)*         (229)</td><td>vs.</td><td>Mathiasson, Jonas (SE)*      (378)</td></tr><tr><td>24</td><td>Dejaeghere, Evelien (BE)*    (234)</td><td>vs.</td><td>Gundersen, Thomas (NO)       (207)</td></tr><tr><td>25</td><td>Cedercrantz, Johan (SE)      ( 77)</td><td>vs.</td><td>Svendsen, Sören N (DK)       (187)</td></tr><tr><td>26</td><td>Herzog, Nicolai (NO)         (308)</td><td>vs.</td><td>Szigeti, Peter (US)          (158)</td></tr><tr><td>27</td><td>Jorstedt, Mattias (SE)       (450)</td><td>vs.</td><td>Wallin, Johnny (SE)          (104)</td></tr><tr><td>28</td><td>Karaszewski, Pawel (PL)      ( 97)</td><td>vs.</td><td>Stenberg, David (SE)*        (402)</td></tr><tr><td>29</td><td>Ivanov, Sergei (RU)*         ( 78)</td><td>vs.</td><td>Stannå, Paul (SE)*           (417)</td></tr><tr><td>30</td><td>Hammer, Tommy (NO)           (146)</td><td>vs.</td><td>Steinaa, Jakob (DK)          (331)</td></tr><tr><td>31</td><td>Olsen, Alexander (NO)        (400)</td><td>vs.</td><td>Sjöberg, Perry (SE)*         (284)</td></tr><tr><td>32</td><td>Isaksen, Anders (NO)         (349)</td><td>vs.</td><td>Punakallio, Mikko (FI)       ( 24)</td></tr></tbody></table>

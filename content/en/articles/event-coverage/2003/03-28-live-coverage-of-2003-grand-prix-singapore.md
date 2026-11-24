@@ -1,0 +1,81 @@
+---
+id: q4k7j4vj
+kind: event
+lang: en
+path: /en/articles/event-coverage/2003/03-28-live-coverage-of-2003-grand-prix-singapore
+title: Live Coverage of 2003 Grand Prix Singapore
+published: '2003-03-28'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/article.aspx?x=sideboard/events/gpsin03
+    lang_detected: en
+    capture_id: 262857
+    url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/events/gpsin03&print=true
+    captured_at: '2013-07-02 01:53:23+00'
+    rule: aspx.article_heading
+  published:
+    page_key: wizards.com/magic/magazine/article.aspx?x=sideboard/events/gpsin03
+    lang_detected: en
+    capture_id: 262857
+    url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/events/gpsin03&print=true
+    captured_at: '2013-07-02 01:53:23+00'
+    rule: aspx.byline_date
+sources:
+- document_id: q4k7j4vj
+  url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/events/gpsin03&print=true
+  page_key: wizards.com/magic/magazine/article.aspx?x=sideboard/events/gpsin03
+  lang: en
+  template: aspx
+  captured_at: '2013-07-02 01:53:23+00'
+  capture_id: 262857
+  wayback_url: https://web.archive.org/web/20130702015323id_/http://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/events/gpsin03&print=true
+- document_id: q4k7j4vj
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard_events_gpsin03
+  page_key: wizards.com/magic/magazine/article.aspx?x=sideboard_events_gpsin03
+  lang: en
+  template: aspx
+  captured_at: '2009-06-03 22:22:10+00'
+  capture_id: 892811
+  wayback_url: https://web.archive.org/web/20090603222210id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard_events_gpsin03
+- document_id: q4k7j4vj
+  url: http://www.wizards.com/default.asp?x=sideboard/events/gpsin03
+  page_key: wizards.com/default.asp?x=sideboard/events/gpsin03
+  lang: en
+  template: classic_asp
+  captured_at: '2006-01-16 18:29:35+00'
+  capture_id: 2181855
+  wayback_url: https://web.archive.org/web/20060116182935id_/http://www.wizards.com/default.asp?x=sideboard/events/gpsin03
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: q4k7j4vj
+  capture_id: 262857
+  url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/events/gpsin03&print=true
+  wayback_url: https://web.archive.org/web/20130702015323id_/http://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/events/gpsin03&print=true
+  captured_at: '2013-07-02 01:53:23+00'
+  template: aspx
+  sha256: 37573dfe08a0ee7150e369c37a1445177a4aa90608bc83ad14258a4d4d5d6188
+render_recovery: []
+---
+Mikael Polgary blitzed his way thorough the top 8 field with his amazing red green beats deck, sporting 4 Timberwatch Elves he failed to drop a game during the 3 matches he played. Terry Soh and his Akroma tried hard in the final to take the championship away from him but it was not to be.
+
+After piloting his sealed deck to an undefeated 7-0 top of Swiss ranking after day one, he fought his way through the 6 day 2 rounds and into the top 8, proving that it wasn't just luck that was getting him through round after round.
+
+Congratulations to Mikael Polgary, Grand Prix Singapore Champion!
+
+  
+
+<table>&#10;    <tbody><tr>&#10;      <td>&#10;        <h3>Top 8 Final Standing</h3>&#10;        <table>&#10;          <tbody><tr>&#10;            <td> 1.  <b>Mikael Polgary</b> (Sweden)</td>&#10;            <td>$2,400</td>&#10;          </tr>&#10;          <tr>&#10;            <td> 2.  <b>Terry Soh</b> (Malaysia)</td>&#10;            <td>$1,700</td>&#10;          </tr>&#10;          <tr>&#10;            <td> 3.  <b>Kelvin Yew Teck Hoon</b> (Singapore)</td>&#10;            <td>$1,200</td>&#10;          </tr>&#10;          <tr>&#10;            <td> 4.  <b>Sam Lau</b> (Singapore)</td>&#10;            <td>$1,000</td>&#10;          </tr>&#10;          <tr>&#10;            <td> 5.  <b>Chang Chua</b> (Singapore)</td>&#10;            <td>$800</td>&#10;          </tr>&#10;          <tr>&#10;            <td> 6.  <b>Kai Cheong Tang</b> (Hong Kong)</td>&#10;            <td>$800</td>&#10;          </tr>&#10;          <tr>&#10;            <td> 7.  <b>Gary Talim</b> (USA)</td>&#10;            <td>$800</td>&#10;          </tr>&#10;          <tr>&#10;            <td> 8.  <b>Antonino De Rosa</b> (USA)</td>&#10;            <td>$800</td>&#10;          </tr>&#10;        </tbody></table>&#10;        <p>(Click <a href="/jav/events/2003/gpsin03/2003-grand-prix-singapore-final-standings">here</a> for complete final standings)</p>&#10;      </td>&#10;      <td>&#10;        <img src="https://i.ormos.uk/e7/b3/e7b32964daffeed4759b8eac034b4f2f25879801b16ec43618d809ee69c1bf92.jpg">&#10;      </td>&#10;    </tr>&#10;  </tbody></table>
+
+  
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;    </td><td>Quarterfinals</td>&#10;    <td>&#10;    </td><td>Semifinals</td>&#10;    <td>&#10;    </td><td>Finals</td>&#10;    <td>&#10;    </td><td>Champion</td>&#10;  </tr>&#10;  <tr>&#10;    <td>1</td>&#10;    <td>Kelvin Yew Teck Hoon</td>&#10;    <td rowspan="2">&#10;    </td><td rowspan="2">Kelvin Yew Teck Hoon,<br>2-1</td>&#10;    <td>&#10;    </td><td>&#10;    </td><td rowspan="3">&#10;    </td><td rowspan="3">&#10;  </td></tr>&#10;  <tr>&#10;    <td>8</td>&#10;    <td>Antonino De Rosa</td>&#10;    <td rowspan="3">&#10;    </td><td rowspan="3">Mikael Polgary, 2-0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>&#10;    </td><td>&#10;  </td></tr>&#10;  <tr>&#10;    <td>4</td>&#10;    <td>Mikael Polgary</td>&#10;    <td rowspan="2">&#10;    </td><td rowspan="2">Mikael Polgary,<br>2-0</td>&#10;    <td rowspan="5">&#10;    </td><td rowspan="5">Mikael Polgary, 2-0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>5</td>&#10;    <td>Kai Cheong Tang</td>&#10;    <td rowspan="3">&#10;    </td><td rowspan="3">&#10;  </td></tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>&#10;    </td><td>&#10;  </td></tr>&#10;  <tr>&#10;    <td>2</td>&#10;    <td>Chang Chua</td>&#10;    <td rowspan="2">&#10;    </td><td rowspan="2">Terry Soh,<br>2-0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>7</td>&#10;    <td>Terry Soh</td>&#10;    <td rowspan="3">&#10;    </td><td rowspan="3">Terry Soh, 2-1</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>&#10;    </td><td>&#10;    </td><td>&#10;  </td></tr>&#10;  <tr>&#10;    <td>3</td>&#10;    <td>Sam Lau</td>&#10;    <td rowspan="2">&#10;    </td><td rowspan="2">Sam Lau,<br>2-0</td>&#10;  </tr>&#10;  <tr>&#10;    <td>6</td>&#10;    <td>Gary Talim</td>&#10;    <td>&#10;    </td><td>&#10;  </td></tr>&#10;</tbody></table>
+
+  
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <img src="https://i.ormos.uk/a7/41/a741c16f2ab1af13d2711e02d14836d0835b76c6cb61ef7966cf3c53907c04c9.gif">&#10;    </td>&#10;    <td>&#10;      <a href="/en/events/2003/gpsin03/2003-grand-prix-singapore-photo-coverage">Photo Coverage</a>&#10;    </td>&#10;  </tr>&#10;</tbody></table>
+
+<table>&#10;  <tbody><tr>&#10;    <td>EVENT COVERAGE</td>&#10;    <td>INFORMATION</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <ul>&#10;        <li>&#10;          <a href="/en/events/2003/gpsin03/finals-mikael-polgary-vs-terry-soh">Finals</a>: Mikael Polgary vs. Terry Soh<div><i>by Dan Gow</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2003/gpsin03/semifinals-kelvin-hoon-vs-mikael-polgary">Semifinals</a>: Kelvin Hoon vs. Mikael Polgary<div><i>by Liam Coltman</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2003/gpsin03/quarterfinals-mikael-polgary-vs-kai-cheong-tang">Quarterfinals</a>: Mikael Polgary vs. Kai Cheong Tang<div><i>by Liam Coltman</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2003/gpsin03/quarterfinals-sam-lau-vs-gary-talim">Quarterfinals</a>: Sam Lau vs. Gary Talim<div><i>by Dan Gow</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2003/gpsin03/top-8-decks">Decklists</a>: Top 8 Decks<div><i>by Sideboard Staff</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2003/gpsin03/top-8-draft-mikael-polgary-and-chang-chua">Top 8 Draft</a>: Mikael Polgary and Chang Chua<div><i>by Liam Coltman</i></div></li>&#10;        <hr>&#10;        <li>&#10;          <a href="/en/events/2003/gpsin03/round-13-yujian-zhou-vs-antonino-de-rosa">Round 13</a>: Yujian Zhou vs. Antonino De Rosa<div><i>by Dan Gow</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2003/gpsin03/round-11-rob-nadebaum-vs-wei-san-ng">Round 11</a>: Rob Nadebaum vs. Wei San Ng<div><i>by Liam Coltman</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2003/gpsin03/draft-2-rob-nadebaum">Draft 2</a>: Rob Nadebaum<div><i>by Liam Coltman</i></div></li>&#10;        <li>&#10;          <a href="/tgl/events/2003/gpsin03/draft-2-pods">Info</a>: Draft 2 Pods<div><i>by Sideboard Staff</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2003/gpsin03/round-10-john-lagges-vs-albertus-law">Round 10</a>: John Lagges vs. Albertus Law<div><i>by Dan Gow</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2003/gpsin03/round-9-peter-szigeti-vs-jing-yang-yap">Round 9</a>: Peter Szigeti vs. Jing Yang Yap<div><i>by Liam Coltman</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2003/gpsin03/round-8-wei-ren-khoo-vs-chau-cheng">Round 8</a>: Wei Ren Khoo vs. Chau Cheng<div><i>by Dan Gow</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2003/gpsin03/draft-1-wei-ren-khoo">Draft 1</a>: Wei Ren Khoo<div><i>by Dan Gow</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2003/gpsin03/draft-1-peter-szigeti">Draft 1</a>: Peter Szigeti<div><i>by Liam Coltman</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2003/gpsin03/draft-1-pods">Info</a>: Draft 1 Pods<div><i>by Sideboard Staff</i></div></li>&#10;        <hr>&#10;        <li>&#10;          <a href="/en/events/2003/gpsin03/day-1-undefeated-decks">Decklists</a>: Day 1 Undefeated Decks<div><i>by Sideboard Staff</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2003/gpsin03/round-7-nick-wong-vs-leck-koon-yeo">Round 7</a>: Nick Wong vs. Leck Koon Yeo<div><i>by Liam Coltman</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2003/gpsin03/round-6-gary-talim-vs-ben-seck">Round 6</a>: Gary Talim vs. Ben Seck<div><i>by Dan Gow</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2003/gpsin03/round-5-antonino-de-rosa-vs-xuan-ji-wang">Round 5</a>: Antonino De Rosa vs. Xuan-Ji Wang<div><i>by Liam Coltman</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2003/gpsin03/round-4-vincent-gan-vs-sam-lau">Round 4</a>: Vincent Gan vs. Sam Lau<div><i>by Dan Gow</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2003/gpsin03/sealed-deck-sam-lau">Sealed Deck</a>: Sam Lau<div><i>by Dan Gow</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2003/gpsin03/round-3-kelvin-hoon-vs-takeshi-miyasaka">Round 3</a>: Kelvin Hoon vs. Takeshi Miyasaka<div><i>by Liam Coltman</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2003/gpsin03/round-2-kevin-di-yao-goh-vs-nick-chin-wee-cher">Round 2</a>: Kevin Di Yao Goh vs. Nick Chin Wee Cher<div><i>by Dan Gow</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2003/gpsin03/sealed-deck-antonino-de-rosa">Sealed Deck</a>: Antonino De Rosa<div><i>by Liam Coltman</i></div></li>&#10;        <li>&#10;          <a href="/de/events/2003/gpsin03/2003-grand-prix-singapore-player-list">Info</a>: Player List<div><i>by Sideboard Staff</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2003/gpsin03/country-breakdown">Info</a>: Attendance Breakdown<div><i>by Sideboard Staff</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2003/singapore03/grand-prix-singapore">Info</a>: Fact Sheet<div><i>by Sideboard Staff</i></div></li>&#10;      </ul>&#10;    </td>&#10;    <td colspan="2">&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <b>Pairings</b>&#10;            <br>&#10;            <a href="/en/events/2003/gpsin03/round-13-pairings">13</a>&#10;            <br>&#10;            <a href="/en/events/2003/gpsin03/round-12-pairings">12</a>&#10;            <br>&#10;            <a href="/en/events/2003/gpsin03/round-11-pairings">11</a>&#10;            <br>&#10;            <a href="/en/events/2003/gpsin03/round-10-pairings">10</a>&#10;            <br>&#10;            <a href="/en/events/2003/gpsin03/round-9-pairings">9</a>&#10;            <br>&#10;            <a href="/en/events/2003/gpsin03/round-8-pairings">8</a>&#10;            <br>&#10;            <a href="/jav/events/2003/gpsin03/round-7-pairings">7</a>&#10;            <br>&#10;            <a href="/jav/events/2003/gpsin03/round-6-pairings">6</a>&#10;            <br>&#10;            <a href="/ind/events/2003/gpsin03/round-5-pairings">5</a>&#10;            <br>&#10;            <a href="/ind/events/2003/gpsin03/round-4-pairings">4</a>&#10;            <br>&#10;            <a href="/ind/events/2003/gpsin03/round-3-pairings">3</a>&#10;            <br>&#10;            <a href="/ind/events/2003/gpsin03/round-2-pairings">2</a>&#10;            <br>&#10;            <a href="/ind/events/2003/gpsin03/round-1-pairings">1</a>&#10;            <br>&#10;          </td>&#10;          <td>&#10;            <b>Results</b>&#10;            <br>&#10;            <a href="/en/events/2003/gpsin03/round-13-results">13</a>&#10;            <br>&#10;            <a href="/en/events/2003/gpsin03/round-12-results">12</a>&#10;            <br>&#10;            <a href="/en/events/2003/gpsin03/round-11-results">11</a>&#10;            <br>&#10;            <a href="/en/events/2003/gpsin03/round-10-results">10</a>&#10;            <br>&#10;            <a href="/en/events/2003/gpsin03/round-9-results">9</a>&#10;            <br>&#10;            <a href="/en/events/2003/gpsin03/round-8-results-2">8</a>&#10;            <br>&#10;            <a href="/jav/events/2003/gpsin03/round-7-results">7</a>&#10;            <br>&#10;            <a href="/jav/events/2003/gpsin03/round-6-results">6</a>&#10;            <br>&#10;            <a href="/ind/events/2003/gpsin03/round-5-results">5</a>&#10;            <br>&#10;            <a href="/ind/events/2003/gpsin03/round-4-results">4</a>&#10;            <br>&#10;            <a href="/ind/events/2003/gpsin03/round-3-results">3</a>&#10;            <br>&#10;            <a href="/de/events/2003/gpsin03/round-2-results">2</a>&#10;            <br>&#10;            <a href="/de/events/2003/gpsin03/round-1-results">1</a>&#10;            <br>&#10;          </td>&#10;          <td>&#10;            <b>Standings</b>&#10;            <br>&#10;            <a href="/jav/events/2003/gpsin03/2003-grand-prix-singapore-final-standings">Final</a>&#10;            <br>&#10;            <a href="/jav/events/2003/gpsin03/round-13-standings">13</a>&#10;            <br>&#10;            <a href="/jav/events/2003/gpsin03/round-12-standings">12</a>&#10;            <br>&#10;            <a href="/jav/events/2003/gpsin03/round-11-standings">11</a>&#10;            <br>&#10;            <a href="/jav/events/2003/gpsin03/round-10-standings">10</a>&#10;            <br>&#10;            <a href="/jav/events/2003/gpsin03/round-9-standings">9</a>&#10;            <br>&#10;            <a href="/jav/events/2003/gpsin03/round-8-standings">8</a>&#10;            <br>&#10;            <a href="/jav/events/2003/gpsin03/round-7-standings">7</a>&#10;            <br>&#10;            <a href="/jav/events/2003/gpsin03/round-6-standings">6</a>&#10;            <br>&#10;            <a href="/jav/events/2003/gpsin03/round-5-standings">5</a>&#10;            <br>&#10;            <a href="/jav/events/2003/gpsin03/round-4-standings">4</a>&#10;            <br>&#10;            <a href="/jav/events/2003/gpsin03/round-3-standings">3</a>&#10;            <br>&#10;            <a href="/jav/events/2003/gpsin03/round-2-standings">2</a>&#10;            <br>&#10;            <a href="/jav/events/2003/gpsin03/round-1-standings">1</a>&#10;            <br>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;    </td>&#10;  </tr>&#10;</tbody></table>

@@ -1,0 +1,47 @@
+---
+id: fdvy3cbw
+kind: event
+lang: en
+path: /en/articles/event-coverage/2013/01-13-grand-prix-singapore-round-14-results
+title: Grand Prix Singapore Round 14 Results
+published: '2013-01-13'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-singapore-round-14-results-2013-01-13
+    lang_detected: en
+    capture_id: 430577
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-singapore-round-14-results-2013-01-13
+    captured_at: '2021-10-28 17:41:05+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-singapore-round-14-results-2013-01-13
+    lang_detected: en
+    capture_id: 430577
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-singapore-round-14-results-2013-01-13
+    captured_at: '2021-10-28 17:41:05+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: fdvy3cbw
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-singapore-round-14-results-2013-01-13
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-singapore-round-14-results-2013-01-13
+  lang: en
+  template: drupal
+  captured_at: '2021-10-28 17:41:05+00'
+  capture_id: 430577
+  wayback_url: https://web.archive.org/web/20211028174105id_/https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-singapore-round-14-results-2013-01-13
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: fdvy3cbw
+  capture_id: 430577
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-singapore-round-14-results-2013-01-13
+  wayback_url: https://web.archive.org/web/20211028174105id_/https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-singapore-round-14-results-2013-01-13
+  captured_at: '2021-10-28 17:41:05+00'
+  template: drupal
+  sha256: 0950326a85f2db741fe7c54402e9cc8509ebbd2bd63755fe066be8a7477bd32c
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Result</b></td><td><b>&#10;						</b></td><td><b>Opponent</b></td></tr><tr><td> 1</td><td>yeo, leck k [SGP]</td><td>Lost 0-2</td><td>vs.</td><td>Soewanda, Benny [IDN]</td></tr><tr><td> 2</td><td>Luces, Jonathan Justin [PHL]</td><td>Lost 1-2</td><td>vs.</td><td>Ip, Gama [HKG]</td></tr><tr><td> 3</td><td>Tang, Xavier [SGP]</td><td>Won 2-0</td><td>vs.</td><td>Kwak, Dong An [SGP]</td></tr><tr><td> 4</td><td>Yap, Shawn, Jun liang [SGP]</td><td>Won 2-0</td><td>vs.</td><td>Sy, Daniel A [PHL]</td></tr><tr><td> 5</td><td>Cantillana, Andrew R [PHL]</td><td>Won 2-0</td><td>vs.</td><td>Fong, Clement Yu Mun [SGP]</td></tr><tr><td> 6</td><td>Kuo, Tzu Ching C [TWN]</td><td>Won 2-0</td><td>vs.</td><td>chow, clarence [TWN]</td></tr><tr><td> 7</td><td>Yeo, Jason [SGP]</td><td>Won 2-0</td><td>vs.</td><td>jin shuen, toh [SGP]</td></tr><tr><td> 8</td><td>Ong, Desmond Wei Liang [SGP]</td><td>Lost 0-2</td><td>vs.</td><td>Jeffrey, Chan [SGP]</td></tr><tr><td> 9</td><td>Santoso, Hari [IDN]</td><td>Lost 1-2</td><td>vs.</td><td>Mokhtaruddin, Mohd Haf [MYS]</td></tr><tr><td> 10</td><td>Lee, Ju-Min [KOR]</td><td>Lost 1-2</td><td>vs.</td><td>Nam, Sung-wook [KOR]</td></tr><tr><td> 11</td><td>Ibrahim, Khairil N [MYS]</td><td>Lost 1-2</td><td>vs.</td><td>Choo, Yong Han [SGP]</td></tr><tr><td> 12</td><td>Poonsawat, Chayapol [THA]</td><td>Won 2-0</td><td>vs.</td><td>Juza, Martin [CZE]</td></tr><tr><td> 13</td><td>Abella, Reynald I [PHL]</td><td>Lost 0-2</td><td>vs.</td><td>Sugaya, Hironobu [JPN]</td></tr><tr><td> 14</td><td>Huang, Shiqin [SGP]</td><td>Lost 1-2</td><td>vs.</td><td>Ong, Hak Tiong [SGP]</td></tr><tr><td> 15</td><td>Ong, Sze Tat [MYS]</td><td>Won 2-0</td><td>vs.</td><td>Saito, Tomoharu [JPN]</td></tr><tr><td> 16</td><td>Harrington, Chris [USA]</td><td>Lost 0-2</td><td>vs.</td><td>Lin, Samuel [SGP]</td></tr><tr><td> 17</td><td>erlangga, Reza [IDN]</td><td>Lost 0-2</td><td>vs.</td><td>Yue Ethan, Jun De [SGP]</td></tr><tr><td> 18</td><td>Tan, richmond h [PHL]</td><td>Won 2-0</td><td>vs.</td><td>Law, Albertus [SGP]</td></tr><tr><td> 19</td><td>Koh, Joon Hao [SGP]</td><td>Lost 1-2</td><td>vs.</td><td>Ong, Calvin [SGP]</td></tr><tr><td> 20</td><td>Oca, Ramon Allan O [PHL]</td><td>Won 2-0</td><td>vs.</td><td>Narayanan, Murali [SGP]</td></tr><tr><td> 21</td><td>Yukuhiro, Ken [JPN]</td><td>Won 2-1</td><td>vs.</td><td>Loh, ChuanHan [SGP]</td></tr><tr><td> 22</td><td>Lee, Shi Tian [HKG]</td><td>Lost 0-2</td><td>vs.</td><td>Sim, Chapman [SGP]</td></tr><tr><td> 23</td><td>Yang, Joshua [SGP]</td><td>Lost 0-2</td><td>vs.</td><td>Tokoli, Zsolt [HUN]</td></tr><tr><td> 24</td><td>Arai, Kenichiro [JPN]</td><td>Lost 0-2</td><td>vs.</td><td>yin, liu l [CHN]</td></tr><tr><td> 25</td><td>Pai, Bruce [TWN]</td><td>Lost 0-2</td><td>vs.</td><td>Pranoto, Andreas B [AUS]</td></tr><tr><td> 26</td><td>Leong, Ding y [SGP]</td><td>Won 2-0</td><td>vs.</td><td>Teo, Sian Ming [SGP]</td></tr><tr><td> 27</td><td>Tan, Ian Keng Huat [SGP]</td><td>Won 2-1</td><td>vs.</td><td>Wirontono, Victor [IDN]</td></tr><tr><td> 28</td><td>Zhao, Geoff [AUS]</td><td>Lost 0-2</td><td>vs.</td><td>Xu, Shi Wei [CHN]</td></tr><tr><td> 29</td><td>Lee, Rick Hup Beng [MYS]</td><td>Won 2-1</td><td>vs.</td><td>Camangon, Gerald C [PHL]</td></tr><tr><td> 30</td><td>Sugiki, Takafumi [JPN]</td><td>Lost 0-2</td><td>vs.</td><td>Ch'ng, Jonathan [SGP]</td></tr><tr><td> 31</td><td>Yang, Ming Jen [TWN]</td><td>Lost 0-2</td><td>vs.</td><td>Ang, Jan K [PHL]</td></tr><tr><td> 32</td><td>Hew, Jun-Wei [SGP]</td><td>Won 2-0</td><td>vs.</td><td>Shung, Siao G [TWN]</td></tr><tr><td> 33</td><td>LunYi, Tan [SGP]</td><td>Lost 0-2</td><td>vs.</td><td>Mohd Nasir, Mohd Ikmal [MYS]</td></tr><tr><td> 34</td><td>Jinyuan, Ken Hu [SGP]</td><td>Lost 0-2</td><td>vs.</td><td>Yasooka, Shouta [JPN]</td></tr><tr><td> 35</td><td>Tantono, Dennison [IDN]</td><td>Lost 0-2</td><td>vs.</td><td>wang, yuexin [CHN]</td></tr><tr><td> 36</td><td>Pek, Dennis [SGP]</td><td>Won 2-0</td><td>vs.</td><td>Chia, Dave [SGP]</td></tr><tr><td> 37</td><td>Nugroho, Samuel [IDN]</td><td>Lost 0-2</td><td>vs.</td><td>Chanpleng, Weranart [THA]</td></tr><tr><td> 38</td><td>gu, fengwen [CHN]</td><td>Lost 0-2</td><td>vs.</td><td>Kanchanawaleekul, Worr [THA]</td></tr><tr><td> 39</td><td>Tang, Mun Wye [MYS]</td><td>Lost 0-2</td><td>vs.</td><td>Lin, Ruizi [SGP]</td></tr><tr><td> 40</td><td>Huang, Hao-Shan [TWN]</td><td>Won 2-1</td><td>vs.</td><td>Beley, Ronnie Paul T [PHL]</td></tr><tr><td> 41</td><td>Semura, Jun'ichi [JPN]</td><td>Won 2-1</td><td>vs.</td><td>Sui, Xin [CHN]</td></tr><tr><td> 42</td><td>Salazar, Frederick [PHL]</td><td>Lost 0-2</td><td>vs.</td><td>Chang, Eugene Ong Yeng [MYS]</td></tr><tr><td> 43</td><td>Hiew, Chee Choong [MYS]</td><td>Lost 1-2</td><td>vs.</td><td>Wong Pu Siong, Alex [SGP]</td></tr><tr><td> 44</td><td>Krish, Rondy [SGP]</td><td>Won 2-1</td><td>vs.</td><td>Wang, Ray [SGP]</td></tr><tr><td> 45</td><td>Charoanwoodtipong, Tar [THA]</td><td>Lost 1-2</td><td>vs.</td><td>Lim, Shaun [SGP]</td></tr><tr><td> 46</td><td>Manansala, Bayani R [PHL]</td><td>Won 2-1</td><td>vs.</td><td>Tan, Chin Heng [SGP]</td></tr><tr><td> 47</td><td>Md Noor, Noor Afandi [MYS]</td><td>Lost 1-2</td><td>vs.</td><td>Sirilertvorakul, Veera [THA]</td></tr><tr><td> 48</td><td>Wong, Wei Quan [SGP]</td><td>Won 2-0</td><td>vs.</td><td>Pe, Damien Hang Rui [SGP]</td></tr><tr><td> 49</td><td>Sun, Fang Zhou [SGP]</td><td>Won 2-0</td><td>vs.</td><td>Ng, Clarence [SGP]</td></tr><tr><td> 50</td><td>Teo, Justin [MYS]</td><td>Lost 0-2</td><td>vs.</td><td>Kwok Siang, Neo [SGP]</td></tr><tr><td> 51</td><td>Liew Don, Kok Yang [SGP]</td><td>Lost 0-2</td><td>vs.</td><td>Beley, Ryan Mark T [PHL]</td></tr><tr><td> 52</td><td>Kanegawa, Toshiya [JPN]</td><td>Drew 1-1-1</td><td>vs.</td><td>Nakamura, Jun'ya [JPN]</td></tr><tr><td> 53</td><td>Gao, Zhen Xing [CHN]</td><td>Won 2-1</td><td>vs.</td><td>Dunsford, Denny R [SGP]</td></tr><tr><td> 54</td><td>Lim, Fang Zhen, Joseph [SGP]</td><td>Won 2-1</td><td>vs.</td><td>Chen, Yen Chou [TWN]</td></tr><tr><td> 55</td><td>Chua, Lowell Jun Ming [SGP]</td><td>Won 2-0</td><td>vs.</td><td>Imai, Ayato [JPN]</td></tr><tr><td> 56</td><td>Nakamura, Shuuhei [JPN]</td><td>Won 2-1</td><td>vs.</td><td>Mihara, Makihito [JPN]</td></tr><tr><td> 57</td><td>Au Yong, Wai Kin [MYS]</td><td>Lost 1-2</td><td>vs.</td><td>Wong, Steven [HKG]</td></tr><tr><td> 58</td><td>Chan, Alvin [MYS]</td><td>Lost 0-2</td><td>vs.</td><td>Si Jin, Chen [SGP]</td></tr><tr><td> 59</td><td>saw, teck boon [MYS]</td><td>Won 2-1</td><td>vs.</td><td>Chee, Crisler H [PHL]</td></tr><tr><td> 60</td><td>Ong, Christopher U [SGP]</td><td>Won 2-0</td><td>vs.</td><td>Tsang, Derek - [HKG]</td></tr><tr><td> 61</td><td>Yacob, Johan Jamal [MYS]</td><td>Lost 1-2</td><td>vs.</td><td>Hsi, Han Yin [SGP]</td></tr><tr><td> 62</td><td>Teh, Vincent [MYS]</td><td>Lost 0-2</td><td>vs.</td><td>Ryuichi, Shirakihara [SGP]</td></tr><tr><td>&#10;					</td><td>Neo, You Wei [SGP]</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr><tr><td>&#10;					</td><td>Koh, charles m [SGP]</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr></tbody></table>

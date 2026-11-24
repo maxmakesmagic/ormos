@@ -1,0 +1,87 @@
+---
+id: b5p6s8qw
+kind: event
+lang: en
+path: /en/events/2018/pt25a/modern-metagame-breakdown
+title: Modern Metagame Breakdown
+published: '2018-08-03'
+column_slug: null
+column: null
+authors: []
+event_code: pt25a
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/events/coverage/pt25a/modern-metagame-breakdown-2018-08-03
+    lang_detected: en
+    capture_id: 1442462
+    url: https://magic.wizards.com/en/events/coverage/pt25a/modern-metagame-breakdown-2018-08-03
+    captured_at: '2022-11-03 04:29:26+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/events/coverage/pt25a/modern-metagame-breakdown-2018-08-03
+    lang_detected: en
+    capture_id: 1442462
+    url: https://magic.wizards.com/en/events/coverage/pt25a/modern-metagame-breakdown-2018-08-03
+    captured_at: '2022-11-03 04:29:26+00'
+    rule: drupal.posted_in_date
+  event_code:
+    page_key: magic.wizards.com/en/events/coverage/pt25a/modern-metagame-breakdown-2018-08-03
+    lang_detected: en
+    capture_id: 1442462
+    url: https://magic.wizards.com/en/events/coverage/pt25a/modern-metagame-breakdown-2018-08-03
+    captured_at: '2022-11-03 04:29:26+00'
+    rule: url.event_code
+sources:
+- document_id: b5p6s8qw
+  url: https://magic.wizards.com/en/events/coverage/pt25a/modern-metagame-breakdown-2018-08-03
+  page_key: magic.wizards.com/en/events/coverage/pt25a/modern-metagame-breakdown-2018-08-03
+  lang: en
+  template: drupal
+  captured_at: '2022-11-03 04:29:26+00'
+  capture_id: 1442462
+  wayback_url: https://web.archive.org/web/20221103042926id_/https://magic.wizards.com/en/events/coverage/pt25a/modern-metagame-breakdown-2018-08-03
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: b5p6s8qw
+  capture_id: 1442462
+  url: https://magic.wizards.com/en/events/coverage/pt25a/modern-metagame-breakdown-2018-08-03
+  wayback_url: https://web.archive.org/web/20221103042926id_/https://magic.wizards.com/en/events/coverage/pt25a/modern-metagame-breakdown-2018-08-03
+  captured_at: '2022-11-03 04:29:26+00'
+  template: drupal
+  sha256: 861e2be3aa107619c1c3f96c6d2aeb7f9fbfb4ed2de6ba2f93a5187bbcf43bf9
+render_recovery: []
+---
+Modern has been a hugely popular format for years now, and earlier this year it made its return to the Pro Tour after a long hiatus. While that tournament helped to establish a metagame—it was won by Lantern Control and featured the rise of Mardu Pryomancer, Humans, and Hollow One—Modern is famous for constantly shifting, and 2018 has been no exception. With *Dominaria* and *Core Set 2019* entering the mix in recent months, things have continued to shake up, and that left things in flux entering Pro Tour 25th Anniversary.
+
+Let's start with the full breakdown.
+
+<table><tbody><tr><td>Archetype</td>&#10;			<td>Copies</td>&#10;			<td>Percentage of Field</td>&#10;		</tr><tr><td>Humans</td>&#10;			<td>27</td>&#10;			<td>16.36%</td>&#10;		</tr><tr><td>WU Control</td>&#10;			<td>18</td>&#10;			<td>10.91%</td>&#10;		</tr><tr><td>Ironworks Combo</td>&#10;			<td>17</td>&#10;			<td>10.30%</td>&#10;		</tr><tr><td>Mono-Green Tron</td>&#10;			<td>17</td>&#10;			<td>10.30%</td>&#10;		</tr><tr><td>Hollow One</td>&#10;			<td>13</td>&#10;			<td>7.88%</td>&#10;		</tr><tr><td>BR Vengevine</td>&#10;			<td>10</td>&#10;			<td>6.06%</td>&#10;		</tr><tr><td>Bant Spirits</td>&#10;			<td>6</td>&#10;			<td>3.64%</td>&#10;		</tr><tr><td>Jeskai Control</td>&#10;			<td>6</td>&#10;			<td>3.64%</td>&#10;		</tr><tr><td>Mardu Pyromancer</td>&#10;			<td>6</td>&#10;			<td>3.64%</td>&#10;		</tr><tr><td>Storm</td>&#10;			<td>5</td>&#10;			<td>3.03%</td>&#10;		</tr><tr><td>RW Burn</td>&#10;			<td>4</td>&#10;			<td>2.42%</td>&#10;		</tr><tr><td>Affinity</td>&#10;			<td>3</td>&#10;			<td>1.82%</td>&#10;		</tr><tr><td>Bant Company</td>&#10;			<td>3</td>&#10;			<td>1.82%</td>&#10;		</tr><tr><td>Grixis Shadow</td>&#10;			<td>3</td>&#10;			<td>1.82%</td>&#10;		</tr><tr><td>Dredge</td>&#10;			<td>2</td>&#10;			<td>1.21%</td>&#10;		</tr><tr><td>Modular Affinity</td>&#10;			<td>2</td>&#10;			<td>1.21%</td>&#10;		</tr><tr><td>RG Scapeshift</td>&#10;			<td>2</td>&#10;			<td>1.21%</td>&#10;		</tr><tr><td>WU Spirits</td>&#10;			<td>2</td>&#10;			<td>1.21%</td>&#10;		</tr><tr><td>Abzan</td>&#10;			<td>1</td>&#10;			<td>0.61%</td>&#10;		</tr><tr><td>Ad Nauseum</td>&#10;			<td>1</td>&#10;			<td>0.61%</td>&#10;		</tr><tr><td>Amulet Titan</td>&#10;			<td>1</td>&#10;			<td>0.61%</td>&#10;		</tr><tr><td>Blue Moon</td>&#10;			<td>1</td>&#10;			<td>0.61%</td>&#10;		</tr><tr><td>Eldrazi and Taxes</td>&#10;			<td>1</td>&#10;			<td>0.61%</td>&#10;		</tr><tr><td>Elves</td>&#10;			<td>1</td>&#10;			<td>0.61%</td>&#10;		</tr><tr><td>Grishoalbrand</td>&#10;			<td>1</td>&#10;			<td>0.61%</td>&#10;		</tr><tr><td>Grixis Control</td>&#10;			<td>1</td>&#10;			<td>0.61%</td>&#10;		</tr><tr><td>GW Hexproof</td>&#10;			<td>1</td>&#10;			<td>0.61%</td>&#10;		</tr><tr><td>Jund</td>&#10;			<td>1</td>&#10;			<td>0.61%</td>&#10;		</tr><tr><td>Jund Vengevine</td>&#10;			<td>1</td>&#10;			<td>0.61%</td>&#10;		</tr><tr><td>Living End</td>&#10;			<td>1</td>&#10;			<td>0.61%</td>&#10;		</tr><tr><td>Mardu Superfriends</td>&#10;			<td>1</td>&#10;			<td>0.61%</td>&#10;		</tr><tr><td>Naya Burn</td>&#10;			<td>1</td>&#10;			<td>0.61%</td>&#10;		</tr><tr><td>RG Hollow One</td>&#10;			<td>1</td>&#10;			<td>0.61%</td>&#10;		</tr><tr><td>RG Tron</td>&#10;			<td>1</td>&#10;			<td>0.61%</td>&#10;		</tr><tr><td>Taking Turns</td>&#10;			<td>1</td>&#10;			<td>0.61%</td>&#10;		</tr><tr><td>Temur Scapeshift</td>&#10;			<td>1</td>&#10;			<td>0.61%</td>&#10;		</tr><tr><td>UR Control</td>&#10;			<td>1</td>&#10;			<td>0.61%</td>&#10;		</tr></tbody></table>
+
+As has become the norm, Humans is the most-played deck in the room, and seeing Tron, Hollow One and Krark-Clan Ironworks in the top five decks won't shock anyone, but the second-most played the deck in the room is almost entirely unexpected: White-Blue Control.
+
+[![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Field+of+Ruin)](https://web.archive.org/web/20180803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Field+of+Ruin)
+
+The Modern metagame has been notoriously difficult for Control in recent years, as the field was so wide open that control decks struggled to keep pace with the multitude of threats they might face. The addition that may have made all the difference might surprise some, but [Field of Ruin](https://web.archive.org/web/20180803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Field+of+Ruin) has helped clear up several of the archetype's issues. While the ability to take down creature lands like [Inkmoth Nexus](https://web.archive.org/web/20180803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Inkmoth+Nexus) or [Mutavault](https://web.archive.org/web/20180803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mutavault) is certainly one huge benefit, perhaps where it matters most is against Tron. Taking out the Urzatron combo without costing yourself a land drop has been pivotal in swinging the matchup, and allows the control decks to focus more of their main deck and sideboard for the rest of the field. [Terminus](https://web.archive.org/web/20180803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Terminus), [Wrath of God](https://web.archive.org/web/20180803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wrath+of+God) and [Supreme Verdict](https://web.archive.org/web/20180803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Supreme+Verdict) clean up most of the field—frustrating [Meddling Mage](https://web.archive.org/web/20180803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Meddling+Mage) card selections—while [Search for Azcanta](https://web.archive.org/web/20180803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Search+for+Azcanta) and [Teferi, Hero of Dominaria](https://web.archive.org/web/20180803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Teferi%2C+Hero+of+Dominaria) give the control decks inevitability to close out games once they turn the corner.
+
+It's a welcome development in a Modern format that has in the past been saturated by aggro or combo, and at this tournament all the classic divisions are represented.
+
+<table><tbody><tr><td>Deck Type</td>&#10;			<td># of Copies</td>&#10;			<td>% of Field</td>&#10;		</tr><tr><td>Aggro</td>&#10;			<td>75</td>&#10;			<td>45.45%</td>&#10;		</tr><tr><td>Control</td>&#10;			<td>38</td>&#10;			<td>23.03%</td>&#10;		</tr><tr><td>Combo</td>&#10;			<td>34</td>&#10;			<td>20.61%</td>&#10;		</tr><tr><td>Tron</td>&#10;			<td>18</td>&#10;			<td>10.91%</td>&#10;		</tr></tbody></table>
+
+While there is some subjectivity no matter how you break up the decks—is Green-White Hexproof (Bogles) a combo deck or an aggro deck for instance—these are the broad strokes of the format. The 23% metagame share for control decks, led by White-Blue Control but followed in a distant second by Jeskai, is a huge step up from previous metagame, as the archetype has succeeded largely by preying on Humans, the most popular deck in the field.
+
+Other takeaways:
+
+*   Krark-Clan Ironworks is the combo deck of choice. Thanks in large part to Matt Nass—who has Top 8'ed three Grand Prix and won two with the incredibly complex combo deck—17 players picked it up in Minneapolis. While the deck is far from unbeatable, it is enormously resilient to hate thanks to the (too complicated to get into, [but here you go](/en/events/2018/gppho18/highlights-of-grand-prix-phoenix-day-one)) way the deck works, with [Krark-Clan Ironworks](https://web.archive.org/web/20180803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Krark-Clan+Ironworks) and [Scrap Trawler](https://web.archive.org/web/20180803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Scrap+Trawler) teaming up to beat most hate cards, including [Surgical Extraction](https://web.archive.org/web/20180803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Surgical+Extraction) and even [Extirpate](https://web.archive.org/web/20180803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Extirpate). [Engineered Explosives](https://web.archive.org/web/20180803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Engineered+Explosives) cleans up the rest of the hate, and thanks to its ability to shrug off typical shutdown cards like [Stony Silence](https://web.archive.org/web/20180803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stony+Silence), it is the premier combo deck this weekend.
+
+[![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Krark-Clan+Ironworks)](https://web.archive.org/web/20180803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Krark-Clan+Ironworks)
+
+*   Tron, as always, is a popular choice, but with more [Field of Ruin](https://web.archive.org/web/20180803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Field+of+Ruin) and [Damping Sphere](https://web.archive.org/web/20180803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Damping+Sphere) than ever before, it may face an uphill battle this weekend.
+*   The Modern format, as ever, is renowned for its simply endless available archetypes, and Pro Tour 25th Anniversary is no exception. 37 individual archetypes were represented, with decks like Taking Turns, Living End and even Mardu Superfriends making appearances.
+*   There are several candidates for breakout deck of the tournament. The first one that must be mentioned is Spirits, which got an enormous boost in *Core Set 2019* with [Supreme Phantom](https://web.archive.org/web/20180803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Supreme+Phantom). Eight players brought the deck, with six of them opting to play green for [Noble Hierarch](https://web.archive.org/web/20180803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Noble+Hierarch) and [Collected Company](https://web.archive.org/web/20180803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Collected+Company), which plays perfectly alongside the many flash creatures like [Spell Queller](https://web.archive.org/web/20180803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spell+Queller) and whatever [Rattlechains](https://web.archive.org/web/20180803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rattlechains) gives flash to. The players that stuck to two colors enjoy a more streamlined mana base with access to [Moorland Haunt](https://web.archive.org/web/20180803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Moorland+Haunt), as well as another *Core Set 2019* standout in [Remorseful Cleric](https://web.archive.org/web/20180803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Remorseful+Cleric).
+*   Vengevine is back. The *Rise of the Eldrazi* beater has floated in and out of eternal formats since its printing, but it's back with a vengeance after an extended break from Modern. Again, it's *Core Set 2019* making it possible, with [Stitcher's Supplier](https://web.archive.org/web/20180803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stitcher%27s+Supplier) enabling decks that never existed before. It's reminiscent of the Dredgevine decks of old, and players are using [Bridge from Below](https://web.archive.org/web/20180803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bridge+from+Below) and zero-cost creatures with upside like [Walking Ballista](https://web.archive.org/web/20180803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Walking+Ballista) and [Hangarback Walker](https://web.archive.org/web/20180803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hangarback+Walker) to trigger [Vengevine](https://web.archive.org/web/20180803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vengevine) as early as the first turn. Some adventurous players even went so far as to play [Reckless Bushwhacker](https://web.archive.org/web/20180803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Reckless+Bushwhacker) to make the deck even more explosive. As of now it's an unproven deck, but keep an eye on it over the weekend.
+
+[![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Vengevine)](https://web.archive.org/web/20180803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Vengevine)
+
+*   [Militia Bugler](https://web.archive.org/web/20180803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Militia+Bugler) seems to be a new staple in Humans decks. The archetype had been experimenting with ways to keep the early pressure flowing, from [Restoration Angel](https://web.archive.org/web/20180803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Restoration+Angel) to [Whirler Rogue](https://web.archive.org/web/20180803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Whirler+Rogue). [Militia Bugler](https://web.archive.org/web/20180803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Militia+Bugler) seems to be the new default for the deck as yet another *Core Set 2019* card impacting Modern. What it offers the deck is much more than it appears on the surface. Yes, it often amounts to drawing a card, but it's much more than that. Humans employs a ton of disruptive creatures, from [Thalia, Guardian of Thraben](https://web.archive.org/web/20180803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Thalia%2C+Guardian+of+Thraben) to [Kitesail Freebooter](https://web.archive.org/web/20180803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kitesail+Freebooter) to [Meddling Mage](https://web.archive.org/web/20180803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Meddling+Mage), and [Militia Bugler](https://web.archive.org/web/20180803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Militia+Bugler) finds them all. For a deck that's been weak to control decks and a steady of flow of removal spells, the ability to not just reload but do so by digging into the deck for whatever creature is needed in the moment has been enough to keep Humans at the top of the metagame.
+*   Of the five Affinity players in the room, two chose to deviate from the tried-and-true strategy and go for the newer build of the deck that uses [Hardened Scales](https://web.archive.org/web/20180803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hardened+Scales), [Arcbound Worker](https://web.archive.org/web/20180803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Arcbound+Worker) and even [Throne of Geth](https://web.archive.org/web/20180803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Throne+of+Geth) to build up counters across its creatures. Most of the Affinity decks also dipped into [Karn, Scion of Urza](https://web.archive.org/web/20180803000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Karn%2C+Scion+of+Urza) in either the main or sideboard.

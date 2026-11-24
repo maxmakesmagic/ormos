@@ -1,0 +1,277 @@
+---
+id: 91egm3mg
+kind: article
+lang: en
+path: /en/articles/seriousfun/2014/05-20-never-forget
+title: Never Forget
+published: '2014-05-20'
+column_slug: seriousfun
+column: Serious Fun
+authors:
+- slug: bruce-richard-409ac6d0
+  name: Bruce Richard
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/serious-fun/never-forget-2014-05-20-0
+    lang_detected: en
+    capture_id: 1176743
+    url: https://magic.wizards.com/en/articles/archive/serious-fun/never-forget-2014-05-20-0
+    captured_at: '2022-05-27 19:25:49+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/serious-fun/never-forget-2014-05-20-0
+    lang_detected: en
+    capture_id: 1176743
+    url: https://magic.wizards.com/en/articles/archive/serious-fun/never-forget-2014-05-20-0
+    captured_at: '2022-05-27 19:25:49+00'
+    rule: drupal.posted_in_date
+  authors:
+    page_key: magic.wizards.com/en/articles/archive/serious-fun/never-forget-2014-05-20-0
+    lang_detected: en
+    capture_id: 1176743
+    url: https://magic.wizards.com/en/articles/archive/serious-fun/never-forget-2014-05-20-0
+    captured_at: '2022-05-27 19:25:49+00'
+    rule: drupal.div_author
+  column:
+    page_key: magic.wizards.com/en/articles/archive/serious-fun/never-forget-2014-05-20-0
+    lang_detected: en
+    capture_id: 1176743
+    url: https://magic.wizards.com/en/articles/archive/serious-fun/never-forget-2014-05-20-0
+    captured_at: '2022-05-27 19:25:49+00'
+    rule: url.article_section
+    registry_match: registry.separator_and_case
+  duplicate_sources:
+  - vvygzg15
+sources:
+- document_id: 91egm3mg
+  url: https://magic.wizards.com/en/articles/archive/serious-fun/never-forget-2014-05-20-0
+  page_key: magic.wizards.com/en/articles/archive/serious-fun/never-forget-2014-05-20-0
+  lang: en
+  template: drupal
+  captured_at: '2022-05-27 19:25:49+00'
+  capture_id: 1176743
+  wayback_url: https://web.archive.org/web/20220527192549id_/https://magic.wizards.com/en/articles/archive/serious-fun/never-forget-2014-05-20-0
+- document_id: vvygzg15
+  url: https://magic.wizards.com/en/articles/archive/serious-fun/never-forget-2014-05-20
+  page_key: magic.wizards.com/en/articles/archive/serious-fun/never-forget-2014-05-20
+  lang: en
+  template: drupal
+  captured_at: '2022-01-29 13:55:01+00'
+  capture_id: 1176741
+  wayback_url: https://web.archive.org/web/20220129135501id_/https://magic.wizards.com/en/articles/archive/serious-fun/never-forget-2014-05-20
+source_selection: Kept this article's selected capture and recorded the matching captures.
+archive_source:
+  document_id: 91egm3mg
+  capture_id: 1176743
+  url: https://magic.wizards.com/en/articles/archive/serious-fun/never-forget-2014-05-20-0
+  wayback_url: https://web.archive.org/web/20220527192549id_/https://magic.wizards.com/en/articles/archive/serious-fun/never-forget-2014-05-20-0
+  captured_at: '2022-05-27 19:25:49+00'
+  template: drupal
+  sha256: df992dc16f6badbd3749d9ebd6a1cc524994f864686ba74bab841cb74f7e6891
+render_recovery:
+- code: deck_widget_requires_review
+  element: a
+  reason: The archived deck widget has no visible card rows. The source capture may
+    contain data to recover it.
+  labels:
+  - Decklist
+  occurrences: 1
+---
+I have been waiting for this set to come out since I first heard about it. A dedicated multiplayer set? That you can draft!? Count me in! Given that, I've been impatiently waiting for this preview card, and I'm excited for all of you to see it too!
+
+...
+
+In spite of that, I'm going to slow-roll this a little. You'll see the entire card at the end, but stick with me and you'll see why I'm showing you the card the way I am. While I do enjoy upping the anxiety level in my readers, trust that I've got a good reason to do so (this time!).
+
+![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/sf/2014/mjhshb4kov_sf300_1.jpg)
+
+So we removed all the text from this version of Drakestown [Forgotten](http://www.imdb.com/title/tt0024031/). I wanted to start here because I wanted to emphasize the five-mana casting cost for a 0/0 creature. Obviously, the text is going to provide some increase to the power and toughness, but keep in mind that you are paying five mana and will want to get some bang for your buck. 
+
+Oh, and ZOOOOOOOOMBIE!
+
+All right, let's get a look at some of that text box:
+
+![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/sf/2014/mjhshb4kov_sf300_2.jpg)
+
+ **"Ach! Hans, run! It's the [Lhurgoyf](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lhurgoyf)! With counters!"** 
+
+Drakestown [Forgotten](http://www.imdb.com/title/tt0069994/) is a unique version of the [Lhurgoyf](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lhurgoyf) in that it provides +1/+1 counters. Rather than get bigger or smaller as the contents of graveyards change, Drakestown Forgotten takes a snapshot and locks in its size when it enters the battlefield. As the number of cards that exile all graveyards from the game increases,[1](#1) cards like [Lhurgoyf](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lhurgoyf), [Bonehoard](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bonehoard), and [Exoskeletal Armor](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Exoskeletal+Armor) lose some of their strength, since this can dwindle in size at any time. 
+
+So does getting counters make Drakestown [Forgotten](http://www.imdb.com/title/tt0272092/) better or worse? Whenever creatures die, a [Mortivore](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mortivore) gets bigger, while the Drakestown Forgotten doesn't change. Graveyard recursion or an exiled graveyard (even just one), can reduce the size of [Mortivore](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mortivore), but again, Drakestown Forgotten doesn't change. Based solely on that, I think I'd prefer the [Mortivore](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mortivore). Graveyards tend to get bigger rather than smaller, so I would tend to prefer a card that grows with them to one that stays static. 
+
+If only there was a way to double counters on a creature... I'll leave you to consider the multitude of cards out there than can turn this into a completely miserable creature for your opponents.
+
+So how big will Drakestown [Forgotten](http://www.imdb.com/title/tt0356618/) be when you cast it?[2](#2) You likely already have experience with a similar card, so you can probably answer that yourself. When I cast it, I'm looking for this to be at least a 5/5. If I'm paying five mana, I think I'm looking for a 5/5. That shouldn't be too difficult, either. By the time I have five mana to cast this, I would expect there to already be five creatures in graveyards. 
+
+So while I've mentioned cards that double your counters as a great way to make Drakestown [Forgotten](http://en.wikipedia.org/wiki/The_Forgotten_%28Animorphs%29) huge, the other, more direct way is to load up graveyards! Removal spells are a little more valuable for you, as your future Drakestown Forgotten will be just that little bit bigger. Running cards that load your graveyard with creatures is another way, although I'm not a big fan of that strategy. I know it makes sense when running graveyard-recursion decks, but I prefer to get some use out of those creatures before they become bodies to jack up another creature. 
+
+Consider the five-mana cost here as well. Many mass-removal options land in that four- to six-mana sweet zone, so you can expect someone to wipe the board before you cast your Drakestown Forgotten, making your card that much better. Five mana means the early part of the game has gone as well, so over the course of the game, creatures will have died in combat or were sacrificed. And all that is assuming you were casting it in the midgame. If you are casting this in the late game, Drakestown Forgotten becomes Drakestown Fuhgeddaboudit.
+
+So we have a pretty decent card right here. Assuming that last box of text is just gravy, this card could be drifting into awesomeness! Let's get a look at Drakestown Forgotten in all its glory. 
+
+![](https://i.ormos.uk/20/aa/20aa8ae95fc9529605fc330e369c4b697959ab70ec38fe2177885513c51d512a.jpg)
+
+So now Drakestown Forgotten gets a little more memorable!
+
+This makes combat math very difficult. Your opponents will have to constantly consider whether their creatures will be a little smaller than their current sizes.
+
+What you need to realize is that you are rarely going to be able to kill a creature with a toughness greater than 2. Three mana is not a particularly cheap way to give a creature -1/-1 until the end of a turn. You are not switching +1/+1 counters for -1/-1 counters here. This only lasts until the end of the turn, so make it count. To give a creature -3/-3 you are looking at nine mana. That is a hefty cost that you probably don't want to pay unless you are in dire circumstances.
+
+![](https://media.magic.wizards.com/image_legacy_migration/images/magic/daily/sf/2014/mjhshb4kov_sf300_art.jpg)
+
+Drakestown Forgotten | Art by [Steve Prescott](https://web.archive.org/web/20140520000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?output=spoiler&method=visual&action=advanced&artist=%5B%22Steve+Prescott%22%5D) 
+
+Once you step past that limitation, you accept that Drakestown [Forgotten](http://www.imdb.com/title/tt1420425/)'s ability to shrink a target creature is not a sledgehammer-style weapon, but instead a scalpel. 
+
+Another joy is the ability to go all [Dale Carnegie](http://en.wikipedia.org/wiki/Dale_Carnegie) in your games. Someone needs an opponent's creature to be just a little smaller? You can help. Too often, this kind of interaction in multiplayer games is underestimated or outright ignored. You should be considering every option. You won't want to meddle with your opponents' fighting all the time, but every once in a while, it is in your best interests to do so. 
+
+When you consider the -1/-1 ability, running Drakestown [Forgotten](http://en.wikipedia.org/wiki/The_Forgotten_%28Batman:_The_Animated_Series%29#Season_One) out as a 3/3 or 4/4 becomes viable. Without the ability, you would want a creature that gives you a power at least equal to its casting cost, but the -1/-1 ability makes it viable to cast when it will be smaller. You would have a way to give out a couple -1/-1 activations and still have a creature that can chump and add to your graveyard count when it dies. 
+
+If you are looking to get a little more out of your -1/-1 ability, look at trying to reduce the cost. [Heartstone](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Heartstone) and [Training Grounds](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Training+Grounds) can turn Drakestown Forgotten into a killing machine, provided you have the counters. [Illusionist's Bracers](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Illusionist%27s+Bracers) gives you an extra -1/-1 to throw around. 
+
+If you are trying to maximize in this way, keep in mind your creature will likely be dying very quickly as the +1/+1 counters come flying off. Perhaps a [Flicker](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flicker) effect might work well? You are killing off more creatures, so your Drakestown Forgotten should get a little bigger every time you make him disappear and reappear.[3](#3) 
+
+Perhaps you could try this deck on for size?
+
+#### Can Wurms Climb Stairs?
+
+##### 
+
+ ![Download Arena Decklist](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png) ![](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+[Decklist](#none) [Stats](#none) [Sample Hand](#none) 
+
+Sort by: 
+
+##### Planeswalker (2)
+
+2 [Liliana Vess](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLiliana%5D+%5BVess%5D) 
+
+##### Creature (21)
+
+2 [Deadeye Navigator](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeadeye%5D+%5BNavigator%5D) 1 [Avatar of Woe](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAvatar%5D+%5Bof%5D+%5BWoe%5D) 1 [Carrion Feeder](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCarrion%5D+%5BFeeder%5D) 1 [Extractor Demon](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExtractor%5D+%5BDemon%5D) 2 [Falkenrath Noble](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFalkenrath%5D+%5BNoble%5D) 1 [Mindslicer](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMindslicer%5D) 1 [Necrotic Ooze](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNecrotic%5D+%5BOoze%5D) 1 [Sangromancer](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSangromancer%5D) 2 [Vampire Nighthawk](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVampire%5D+%5BNighthawk%5D) 4 [Massacre Wurm](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMassacre%5D+%5BWurm%5D) 1 [Silver Myr](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSilver%5D+%5BMyr%5D) 4 [Drakestown Forgotten](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrakestown%5D+%5BForgotten%5D) 
+
+##### Sorcery (2)
+
+1 [Recall](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRecall%5D) 1 [Windfall](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindfall%5D) 
+
+##### Instant (6)
+
+2 [Dark Ritual](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BRitual%5D) 3 [Fact or Fiction](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D) 1 [Noxious Revival](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNoxious%5D+%5BRevival%5D) 
+
+##### Artifact (2)
+
+1 [Dimir Signet](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDimir%5D+%5BSignet%5D) 1 [Nevinyrral's Disk](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNevinyrral%5D+%5BDisk%5D) 
+
+##### Enchantment (3)
+
+3 [Tombstone Stairwell](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTombstone%5D+%5BStairwell%5D) 
+
+##### Land (24)
+
+16 [Swamp](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D) 4 [Watery Grave](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWatery%5D+%5BGrave%5D) 4 [Temple of Deceit](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BDeceit%5D) 
+
+60 Cards 
+
+##### Blue (7)
+
+2 [Deadeye Navigator](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeadeye%5D+%5BNavigator%5D) 3 [Fact or Fiction](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D) 1 [Recall](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRecall%5D) 1 [Windfall](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindfall%5D) 
+
+##### Black (25)
+
+1 [Avatar of Woe](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAvatar%5D+%5Bof%5D+%5BWoe%5D) 1 [Carrion Feeder](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCarrion%5D+%5BFeeder%5D) 1 [Extractor Demon](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExtractor%5D+%5BDemon%5D) 2 [Falkenrath Noble](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFalkenrath%5D+%5BNoble%5D) 1 [Mindslicer](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMindslicer%5D) 1 [Necrotic Ooze](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNecrotic%5D+%5BOoze%5D) 1 [Sangromancer](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSangromancer%5D) 2 [Vampire Nighthawk](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVampire%5D+%5BNighthawk%5D) 4 [Massacre Wurm](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMassacre%5D+%5BWurm%5D) 4 [Drakestown Forgotten](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrakestown%5D+%5BForgotten%5D) 3 [Tombstone Stairwell](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTombstone%5D+%5BStairwell%5D) 2 [Dark Ritual](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BRitual%5D) 2 [Liliana Vess](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLiliana%5D+%5BVess%5D) 
+
+##### Green (1)
+
+1 [Noxious Revival](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNoxious%5D+%5BRevival%5D) 
+
+##### Colorless (27)
+
+16 [Swamp](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D) 4 [Watery Grave](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWatery%5D+%5BGrave%5D) 4 [Temple of Deceit](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BDeceit%5D) 1 [Silver Myr](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSilver%5D+%5BMyr%5D) 1 [Dimir Signet](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDimir%5D+%5BSignet%5D) 1 [Nevinyrral's Disk](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNevinyrral%5D+%5BDisk%5D) 
+
+60 Cards 
+
+##### 1 (5)
+
+1 [Carrion Feeder](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCarrion%5D+%5BFeeder%5D) 2 [Dark Ritual](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BRitual%5D) 1 [Recall](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRecall%5D) 1 [Noxious Revival](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNoxious%5D+%5BRevival%5D) 
+
+##### 2 (2)
+
+1 [Silver Myr](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSilver%5D+%5BMyr%5D) 1 [Dimir Signet](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDimir%5D+%5BSignet%5D) 
+
+##### 3 (3)
+
+2 [Vampire Nighthawk](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVampire%5D+%5BNighthawk%5D) 1 [Windfall](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindfall%5D) 
+
+##### 4 (12)
+
+2 [Falkenrath Noble](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFalkenrath%5D+%5BNoble%5D) 1 [Mindslicer](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMindslicer%5D) 1 [Necrotic Ooze](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNecrotic%5D+%5BOoze%5D) 1 [Sangromancer](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSangromancer%5D) 3 [Tombstone Stairwell](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTombstone%5D+%5BStairwell%5D) 3 [Fact or Fiction](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D) 1 [Nevinyrral's Disk](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNevinyrral%5D+%5BDisk%5D) 
+
+##### 5 (6)
+
+4 [Drakestown Forgotten](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrakestown%5D+%5BForgotten%5D) 2 [Liliana Vess](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLiliana%5D+%5BVess%5D) 
+
+##### 6 (7)
+
+2 [Deadeye Navigator](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeadeye%5D+%5BNavigator%5D) 1 [Extractor Demon](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExtractor%5D+%5BDemon%5D) 4 [Massacre Wurm](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMassacre%5D+%5BWurm%5D) 
+
+##### 8 (1)
+
+1 [Avatar of Woe](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAvatar%5D+%5Bof%5D+%5BWoe%5D) 
+
+36 Cards 
+
+##### Common (19)
+
+16 [Swamp](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D) 1 [Avatar of Woe](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAvatar%5D+%5Bof%5D+%5BWoe%5D) 1 [Silver Myr](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSilver%5D+%5BMyr%5D) 1 [Dimir Signet](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDimir%5D+%5BSignet%5D) 
+
+##### Uncommon (11)
+
+1 [Carrion Feeder](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCarrion%5D+%5BFeeder%5D) 2 [Falkenrath Noble](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFalkenrath%5D+%5BNoble%5D) 2 [Vampire Nighthawk](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVampire%5D+%5BNighthawk%5D) 3 [Fact or Fiction](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D) 1 [Recall](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRecall%5D) 1 [Windfall](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindfall%5D) 1 [Noxious Revival](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNoxious%5D+%5BRevival%5D) 
+
+##### Rare (24)
+
+4 [Watery Grave](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWatery%5D+%5BGrave%5D) 4 [Temple of Deceit](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5Bof%5D+%5BDeceit%5D) 2 [Deadeye Navigator](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeadeye%5D+%5BNavigator%5D) 1 [Extractor Demon](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExtractor%5D+%5BDemon%5D) 1 [Mindslicer](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMindslicer%5D) 1 [Necrotic Ooze](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNecrotic%5D+%5BOoze%5D) 1 [Sangromancer](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSangromancer%5D) 4 [Drakestown Forgotten](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDrakestown%5D+%5BForgotten%5D) 3 [Tombstone Stairwell](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTombstone%5D+%5BStairwell%5D) 2 [Dark Ritual](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDark%5D+%5BRitual%5D) 1 [Nevinyrral's Disk](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNevinyrral%5D+%5BDisk%5D) 
+
+##### Mythic (6)
+
+4 [Massacre Wurm](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMassacre%5D+%5BWurm%5D) 2 [Liliana Vess](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLiliana%5D+%5BVess%5D) 
+
+60 Cards 
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Swamp)
+
+[Deal Another Hand](https://web.archive.org/web/20140520000000/https://magic.wizards.com/en)
+
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Drakestown+Forgotten)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Fact+or+Fiction)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Swamp)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Nevinyrral%27s+Disk)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Massacre+Wurm)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Massacre+Wurm)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Fact+or+Fiction)
+
+a:24:{i:0;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:5:"Swamp";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:2:"16";}i:1;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Watery Grave";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:2;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Temple of Deceit";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:3;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Deadeye Navigator";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"2";}i:4;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Avatar of Woe";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"1";}i:5;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Carrion Feeder";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"1";}i:6;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Extractor Demon";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"1";}i:7;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Falkenrath Noble";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"2";}i:8;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:10:"Mindslicer";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"1";}i:9;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Necrotic Ooze";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"1";}i:10;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Sangromancer";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"1";}i:11;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Vampire Nighthawk";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"2";}i:12;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Massacre Wurm";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:13;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:10:"Silver Myr";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"1";}i:14;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:20:"Drakestown Forgotten";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:15;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:19:"Tombstone Stairwell";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:11:"enchantment";s:10:"deck\_count";s:1:"3";}i:16;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Dark Ritual";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"2";}i:17;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Fact or Fiction";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"3";}i:18;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:6:"Recall";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"1";}i:19;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:8:"Windfall";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"1";}i:20;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Dimir Signet";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";s:1:"1";}i:21;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Nevinyrral's Disk";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";s:1:"1";}i:22;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Noxious Revival";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"1";}i:23;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Liliana Vess";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:12:"planeswalker";s:10:"deck\_count";s:1:"2";}} 
+
+This is a deck I already run, with a few changes in it. The purpose of the deck is to fill graveyards with creatures, then get [Tombstone Stairwell](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tombstone+Stairwell) out, with a [Massacre Wurm](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Massacre+Wurm). As the tokens enter the battlefield and die each turn, everyone's life total dwindles dramatically. Drakestown [Forgotten](http://en.wikipedia.org/wiki/The_Forgotten_%28Star_Trek:_Enterprise%29) provides another way to kill creatures, while taking advantage of the thick graveyards to become huge and the deck's ability to get significant mana in the later game to use the -1/-1 ability multiple times. [Deadeye Navigator](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Deadeye+Navigator) can bring the Forgotten back onto the battlefield repeatedly (or bring the [Massacre Wurm](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Massacre+Wurm) back repeatedly if that is what needs to happen). Drakestown Forgotten is not the feature of this deck, but it is a perfect role player for what the deck wants to do. 
+
+### Why the Slow Roll?
+
+Many players are simply going to want to use this card as a way to kill off a creature. Drakestown Forgotten can be a good card with only the first ability. If you treat the second ability as a bonus add-on, Drakestown [Forgotten](http://www.imdb.com/title/tt2255474/) will play a memorable part in your future games. 
+
+Bruce Richard
+
+[@manaburned](https://twitter.com/manaburned) 
+
+  
+
+* * *
+
+  
+
+[1](#4): My group has seen [Honor the Fallen](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Honor+the+Fallen) and [Relic of Progenitus](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Relic+of+Progenitus) appear lately. [Rest in Peace](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rest+in+Peace); *Morningtide*; Ashiok, [Nightmare](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nightmare) Weaver; and even [Bazaar of Wonders](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bazaar+of+Wonders) are all viable options. 
+
+[2](#5): I'd like to tell you how big I think this will be in your *Conspiracy* draft games, but right now, I just don't know. As I write this, I've only seen two cards from the set. If it turns out to be predominantly creature-based, expect this card to be better. If the power in the set lies with spells, not so much. If there are plenty of ways to exile graveyards or bring creatures back from graveyards, this card may not have the raw power you are looking for. Right now, I just can't say. 
+
+[3](#6): As with any creature that has a benefit when it enters the battlefield, pairing Drakestown Forgotten with [Deadeye Navigator](https://web.archive.org/web/20140520000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Deadeye+Navigator) is probably a good thing.

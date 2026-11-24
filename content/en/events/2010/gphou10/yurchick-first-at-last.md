@@ -1,0 +1,535 @@
+---
+id: 8cstngmr
+kind: event
+lang: en
+path: /en/events/2010/gphou10/yurchick-first-at-last
+title: Yurchick First at Last!
+published: '2010-04-03'
+column_slug: null
+column: null
+authors: []
+event_code: gphou10
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gphou10/welcome
+    lang_detected: en
+    capture_id: 207564
+    url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gphou10/welcome&print=true
+    captured_at: '2013-07-06 22:11:25+00'
+    rule: aspx.article_heading
+  published:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gphou10/welcome
+    lang_detected: en
+    capture_id: 207564
+    url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gphou10/welcome&print=true
+    captured_at: '2013-07-06 22:11:25+00'
+    rule: aspx.byline_date
+  event_code:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gphou10/welcome
+    lang_detected: en
+    capture_id: 207564
+    url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gphou10/welcome&print=true
+    captured_at: '2013-07-06 22:11:25+00'
+    rule: url.event_code
+sources:
+- document_id: 8cstngmr
+  url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gphou10/welcome&print=true
+  page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gphou10/welcome
+  lang: en
+  template: aspx
+  captured_at: '2013-07-06 22:11:25+00'
+  capture_id: 207564
+  wayback_url: https://web.archive.org/web/20130706221125id_/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gphou10/welcome&print=true
+- document_id: 8cstngmr
+  url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtg/daily/eventcoverage/gphou10/welcome
+  page_key: wizards.com/magic/magazine/events.aspx?x=mtg/daily/eventcoverage/gphou10/welcome
+  lang: en
+  template: aspx
+  captured_at: '2013-07-02 11:31:10+00'
+  capture_id: 987578
+  wayback_url: https://web.archive.org/web/20130702113110id_/https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtg/daily/eventcoverage/gphou10/welcome
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 8cstngmr
+  capture_id: 207564
+  url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gphou10/welcome&print=true
+  wayback_url: https://web.archive.org/web/20130706221125id_/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gphou10/welcome&print=true
+  captured_at: '2013-07-06 22:11:25+00'
+  template: aspx
+  sha256: 550a55e64a56721d4db31fdcbfd4f7ad0046d161b5e8fab0a159b39ab2a45816
+render_recovery:
+- code: unsupported_embedded_media
+  element: embed
+  target: http://twitter.com/flash/twitter_badge.swf
+  reason: The preview omitted this legacy embedded object.
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: javascript:void()
+  reason: The link uses a JavaScript placeholder. The preview kept any visible label.
+  labels:
+  - Tarmogoyf
+  - Steam Vents
+  - Remand
+  - Wild Nacatl
+  - Bloodbraid Elf
+  - Lightning Helix
+  - Sakura-Tribe Elder
+  - Repeal
+  - Blood Moon
+  - Scapeshift
+  - Cryptic Command
+  - Lightning Bolt
+  - Ponder
+  - Noble Hierarch
+  - Thoughtseize
+  - Thirst for Knowledge
+  - Chrome Mox
+  - Dark Depths
+  - River of Tears
+  - Swamp
+  - Smallpox
+  - Bloodghast
+  - Dark Confidant
+  - Vampire Hexmage
+  - Baneslayer Angel
+  - Gatekeeper of Malakir
+  - Thopter Foundry
+  - Sword of Fire and Ice
+  - Sword of Light and Shadow
+  - Sword of the Meek
+  - Tidehollow Sculler
+  - Urborg, Tomb of Yawgmoth
+  - Extirpate
+  - Hypergenesis
+  - Urborg
+  - Violent Outburst
+  - Simian Spirit Guide
+  - Oblivion Ring
+  - Angel of Despair
+  - Bogardan Hellkite
+  - Progenitus
+  - Gemstone Caverns
+  - Duress
+  - Venser, Shaper Savant
+  - Chalice of the Void
+  - Jace, the Mind Sculptor
+  - Damnation
+  - Ghost Quarter
+  - Zektar Shrine Expedition
+  - Refraction Trap
+  - Searing Blaze
+  - Arid Mesa
+  - Sacred Foundry
+  - Steppe Lynx
+  - Scalding Tarn
+  - Mountain
+  - Lynx
+  - Goblin Guide
+  - Engineered Explosives
+  - Faerie Conclave
+  - Plated Geopede
+  - Path to Exile
+  - Mind Spring
+  - Celestial Purge
+  - Glen Elendra Archmage
+  - Negate
+  - Smash to Smithereens
+  - Island
+  - Seat of the Synod
+  - Muddle the Mixture
+  - Knight of the Reliquary
+  - Echoing Truth
+  - Brainstorm
+  - Damping Matrix
+  - Mystic Gate
+  - Ancient Grudge
+  - Smother
+  - Fog
+  - Compulsive Research
+  - Tolaria West
+  - Temporal Isolation
+  - Rite of Consumption
+  - Deathmark
+  - Academy Ruins
+  - Hex
+  - Slaughter Pact
+  occurrences: 291
+---
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <div>&#10;        <img src="https://i.ormos.uk/10/34/1034104be67f0b595b9e7e9c7c900b6e1b474611e8697f8f1bafe2cea8d3241b.jpg">&#10;      </div>&#10;      <div>&#10;        <i>Adam Yurchick</i>&#10;      </div>&#10;    </td>&#10;  </tr>&#10;</tbody></table>
+
+After two second-place Grand Prix finishes—including the last North American event—second place at Nationals, and a ninth place at Pro Tour–Hollywood there was hardly anyone in the room who was not pulling for Adam Yurchick to win Grand Prix–Houston. Playing the ubiquitous Thopter Depths combo deck, Adam had navigated a Top 8 gauntlet that started with Shuhei Nakamura and continued with Todd Anderson leaving him a Goliath-sized favorite with all the other name players falling by the wayside. 
+
+Shaun Rodriguez was not one of those players rooting for Adam—and he certainly would not have minded playing the role of David. He had already taken down Paulo Vitor Damo da Rosa and Ken Ellis on his side of the bracket largely on the strength of cascading into the Armageddon-y goodness of Boom//Bust with his Bloodbraid Elves. Goliath was more than up to the challenge as Adam mulliganed into a turn-one Dark Confidant and followed it up with an early Thopter combo to hold off a meager army from the Zoo player. In the second game Adam used the ultimate ability of Jace—for the first time ever in his experience—to wrap up the game, the match, and hoist the trophy as the Grand Prix–Houston Champion
+
+The tournament began with 662 players hoping to nab one of 16 precious invites to Pro Tour–San Juan, their share of $30,000 in prizes, and the Pro Points necessary to fuel their trips around the world. There were plenty of big names in attendance and many of them huddled near the top of the standings. The Top 8 included Shuhei Nakamura, Paulo Vitor Damo da Rosa, and Adam Yurchick while the next 8 spots included the likes of Patrick Chapin, Sam Black, Gabe Walls, David Ochoa, and Craig Wescoe with even more names in the Top 32. All of the Top 32 decks are available for anyone looking for some last-minute inspiration for the few PTQs that are left in the San Juan season. 
+
+Congratulations to Adam Yurchick, the Grand Prix–Houston 2010 champion! 
+
+  
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;    </td><td>Quarterfinals </td>&#10;    <td> </td>&#10;    <td>Semifinals </td>&#10;    <td> </td>&#10;    <td>Finals </td>&#10;    <td> </td>&#10;    <td>Champion </td>&#10;  </tr>&#10;  <tr>&#10;    <td>1</td>&#10;    <td>&#10;      Ken Ellis&#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Ken Ellis, 2-0&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3"> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>8</td>&#10;    <td>&#10;      Pete Picard&#10;    </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3">&#10;      Shaun Rodriquez, 2-0&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>4</td>&#10;    <td>&#10;      Paulo Vitor Dama da Rosa&#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Shaun Rodriquez, 2-0&#10;    </td>&#10;    <td rowspan="5"> </td>&#10;    <td rowspan="5">&#10;      Adam Yurchick, 2-0&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>5</td>&#10;    <td>&#10;      Shaun Rodriquez&#10;    </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3"> </td>&#10;  </tr>&#10;  <tr>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>2</td>&#10;    <td>&#10;      Todd Anderson&#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Todd Anderson, 2-1&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>7</td>&#10;    <td>&#10;      Charles Lancaster&#10;    </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3">&#10;      Adam Yurchick, 2-1&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>3</td>&#10;    <td>&#10;      Shuuhei Nakamura&#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Adam Yurchick, 2-0&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>6</td>&#10;    <td>&#10;      Adam Yurchick&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;</tbody></table>
+
+  
+
+* * *
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <a href="http://www.ggslive.com/">&#10;        <img src="https://i.ormos.uk/97/f0/97f01864124b9ad0f257e4983580f761c47988754319dfe0b3074768b0dd963d.jpg">&#10;      </a>&#10;    </td>&#10;    <td>Follow live streaming video coverage of Grand Prix–Houston at <a href="http://www.ggslive.com/">ggslive.com</a> with Rashad Miller, Ben Sw, and Nate Price. </td>&#10;  </tr>&#10;</tbody></table>
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <b>EVENT COVERAGE</b>&#10;    </td>&#10;    <td>&#10;      <b>TWITTER</b>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <ul>&#10;        <li>&#10;          <div>&#10;            <i>by Brian David-Marshall </i>&#10;          </div>&#10;          <a href="#7">Finals</a>: <div>Adam Yurchick vs. Shaun Rodriguez</div><br></li>&#10;        <li>&#10;          <div>&#10;            <i>by Steve Sadin</i>&#10;          </div>&#10;          <a href="#6">Semifinals</a>: <div>Todd Anderson vs. Adam Yurchick</div><br></li>&#10;        <li>&#10;          <div>&#10;            <i>by Zaiem Beg</i>&#10;          </div>&#10;          <a href="#5">Semifinals</a>: <div>Ken Ellis vs. Shaun Rodriguez</div><br></li>&#10;        <li>&#10;          <div>&#10;            <i>by Jared Sylva </i>&#10;          </div>&#10;          <a href="#4">Quarterfinals</a>: <div>Pete Picard ( Thopters) vs. Kenneth Ellis (R/W Aggro)</div><br></li>&#10;        <li>&#10;          <div>&#10;            <i>by Riki Hayashi </i>&#10;          </div>&#10;          <a href="#3">Quarterfinals</a>: <div>Shuuhei Nakamura versus Adam Yurchick</div><br></li>&#10;        <li>&#10;          <div>&#10;            <i>by Steve Sadin </i>&#10;          </div>&#10;          <a href="#2">Quarterfinals</a>: <div>Todd Anderson vs. Charles Lancaster</div><br></li>&#10;        <li>&#10;          <div>&#10;            <i>by Zaiem Beg</i>&#10;          </div>&#10;          <a href="#1">Quarterfinals</a>: <div>Shaun Rodriguez vs. Paulo Vitor Damo da Rosa </div><br></li>&#10;        <li>&#10;          <div>&#10;            <i>by Event Coverage Staff</i>&#10;          </div>&#10;          <a href="/en/events/2010/gphou10/grand-prixhouston-top-8-player-profiles">Top 8</a>: <div>Player Profiles</div><br></li>&#10;        <li>&#10;          <div>&#10;            <i>by Event Coverage Staff</i>&#10;          </div>&#10;          <a href="/en/events/2010/gphou10/grand-prixhouston-top-8-decklists">Top 8</a>: <div> Decklists</div><br></li>&#10;        <hr>&#10;        <li>&#10;          <div>&#10;            <i>by Event Coverage Staff</i>&#10;          </div>&#10;          <a href="/en/events/2010/gphou10/grand-prixhouston-day-2-top-32-decklists">Day 2 Coverage</a>: <div>Top 32 Decklists</div><br></li>&#10;        <li>&#10;          <div>&#10;            <i>by Event Coverage Staff</i>&#10;          </div>&#10;          <a href="/en/events/2010/gphou10/grand-prixhouston-day-2-coverage">Day 2 Coverage</a>&#10;          <div>&#10;          <br>&#10;        </div></li>&#10;        <hr>&#10;        <li>&#10;          <div>&#10;            <i>by Event Coverage Staff</i>&#10;          </div>&#10;          <a href="/en/events/2010/gphou10/grand-prixhouston-day-2-player-list">Day 2 Player List</a>&#10;          <div>&#10;          <br>&#10;        </div></li>&#10;        <li>&#10;          <div>&#10;            <i>by Event Coverage Staff</i>&#10;          </div>&#10;          <a href="/en/events/2010/gphou10/grand-prixhouston-day-1-coverage">Day 1 Coverage</a>&#10;          <div>&#10;          <br>&#10;        </div></li>&#10;        <li>&#10;          <div>&#10;            <i>by Event Coverage Staff</i>&#10;          </div>&#10;          <a href="#6">Deck Lists</a>: <div>Day 1 Undefeated Decks</div><br></li>&#10;      </ul>&#10;    </td>&#10;    <td colspan="2">&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <div>&#10;              &#10;              <a href="http://twitter.com/magicprotour">Follow the Magic Pro Tour at http://twitter.com</a>&#10;            </div>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            <hr>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <table>&#10;        <tbody><tr>&#10;          <td colspan="2">&#10;            <b>INFORMATION</b>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td> 1.  <b>Adam Yurchick</b></td>&#10;          <td>$3,500 </td>&#10;        </tr>&#10;        <tr>&#10;          <td> 2.  <b>Shaun Rodriquez</b></td>&#10;          <td>$2,300 </td>&#10;        </tr>&#10;        <tr>&#10;          <td> 3.  <b>Ken Ellis</b></td>&#10;          <td>$1,500 </td>&#10;        </tr>&#10;        <tr>&#10;          <td> 4.  <b>Todd Anderson</b></td>&#10;          <td>$1,500 </td>&#10;        </tr>&#10;        <tr>&#10;          <td> 5.  <b>Shuuhei Nakamura</b></td>&#10;          <td>$1,000</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 6.  <b>Paulo Vitor Dama da Rosa</b></td>&#10;          <td>$1,000</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 7.  <b>Charles Lancaster</b></td>&#10;          <td>$1,000 </td>&#10;        </tr>&#10;        <tr>&#10;          <td> 8.  <b>Pete Picard</b></td>&#10;          <td>$1,000 </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <b>Pairings</b>&#10;          </td>&#10;          <td>&#10;            <b>Results</b>&#10;          </td>&#10;          <td>&#10;            <b>Standings</b>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;          </td><td>&#10;          </td><td>&#10;            <a href="/en/events/2010/gphou10/grand-prixhouston-final-standings">Final</a>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td colspan="3">&#10;            <hr>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            &#10;            <a href="/en/events/2010/gphou10/grand-prixhouston-round-15-pairings">15</a>&#10;            <br>&#10;            <a href="/en/events/2010/gphou10/grand-prixhouston-round-14-pairings">14</a>&#10;            <br>&#10;            <a href="/en/events/2010/gphou10/grand-prixhouston-round-13-pairings">13</a>&#10;            <br>&#10;            <a href="/en/events/2010/gphou10/grand-prixhouston-round-12-pairings">12</a>&#10;            <br>&#10;            <a href="/en/events/2010/gphou10/grand-prixhouston-round-11-pairings">11</a>&#10;            <br>&#10;            <a href="/en/events/2010/gphou10/grand-prixhouston-round-10-pairings">10</a>&#10;            <br>&#10;            <a href="/en/events/2010/gphou10/grand-prixhouston-round-9-pairings">9</a>&#10;          </td>&#10;          <td>&#10;            &#10;            <a href="/en/events/2010/gphou10/grand-prixhouston-round-15-results">15</a>&#10;            <br>&#10;            <a href="/en/events/2010/gphou10/grand-prixhouston-round-14-results">14</a>&#10;            <br>&#10;            <a href="/en/events/2010/gphou10/grand-prixhouston-round-13-results">13</a>&#10;            <br>&#10;            <a href="/en/events/2010/gphou10/grand-prixhouston-round-12-results">12</a>&#10;            <br>&#10;            <a href="/en/events/2010/gphou10/grand-prixhouston-round-11-results">11</a>&#10;            <br>&#10;            <a href="/en/events/2010/gphou10/grand-prixhouston-round-10-results">10</a>&#10;            <br>&#10;            <a href="/en/events/2010/gphou10/grand-prixhouston-round-9-results">9</a>&#10;          </td>&#10;          <td>&#10;            &#10;            <a href="/en/events/2010/gphou10/grand-prixhouston-round-15-standings">15</a>&#10;            <br>&#10;            <a href="/en/events/2010/gphou10/grand-prixhouston-round-14-standings">14</a>&#10;            <br>&#10;            <a href="/en/events/2010/gphou10/grand-prixhouston-round-13-standings">13</a>&#10;            <br>&#10;            <a href="/en/events/2010/gphou10/grand-prixhouston-round-12-standings">12</a>&#10;            <br>&#10;            <a href="/en/events/2010/gphou10/grand-prixhouston-round-11-standings">11</a>&#10;            <br>&#10;            <a href="/en/events/2010/gphou10/grand-prixhouston-round-10-standings">10</a>&#10;            <br>&#10;            <a href="/en/events/2010/gphou10/grand-prixhouston-round-9-standings">9</a>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td colspan="3">&#10;            <hr>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            &#10;            <a href="/en/events/2010/gphou10/grand-prixhouston-round-9-pairings">9</a>&#10;            <br>&#10;            <a href="/en/events/2010/gphou10/grand-prixhouston-round-8-pairings">8</a>&#10;            <br>&#10;            <a href="/en/events/2010/gphou10/grand-prixhouston-round-7-pairings">7</a>&#10;            <br>&#10;            <a href="/en/events/2010/gphou10/grand-prixhouston-round-6-pairings">6</a>&#10;            <br>&#10;            <a href="/en/events/2010/gphou10/grand-prixhouston-round-5-pairings">5</a>&#10;            <br>&#10;            <a href="/en/events/2010/gphou10/grand-prixhouston-round-4-pairings">4</a>&#10;            <br>&#10;            <a href="/en/events/2010/gphou10/grand-prixhouston-round-3-pairings">3</a>&#10;            <br>&#10;            <a href="/en/events/2010/gphou10/grand-prixhouston-round-2-pairings">2</a>&#10;            <br>&#10;            <a href="/nl/events/2010/gphou10/grand-prixhouston-round-1-pairings">1</a>&#10;          </td>&#10;          <td>&#10;            &#10;            <a href="/en/events/2010/gphou10/grand-prixhouston-round-9-results">9</a>&#10;            <br>&#10;            <a href="/en/events/2010/gphou10/grand-prixhouston-round-8-results">8</a>&#10;            <br>&#10;            <a href="/en/events/2010/gphou10/grand-prixhouston-round-7-results">7</a>&#10;            <br>&#10;            <a href="/en/events/2010/gphou10/grand-prixhouston-round-6-results">6</a>&#10;            <br>&#10;            <a href="/en/events/2010/gphou10/grand-prixhouston-round-5-results">5</a>&#10;            <br>&#10;            <a href="/en/events/2010/gphou10/grand-prixhouston-round-4-results">4</a>&#10;            <br>&#10;            <a href="/nl/events/2010/gphou10/grand-prixhouston-round-3-results">3</a>&#10;            <br>&#10;            <a href="/nl/events/2010/gphou10/grand-prixhouston-round-2-results">2</a>&#10;            <br>&#10;            <a href="/en/events/2010/gphou10/grand-prixhouston-round-1-results">1</a>&#10;          </td>&#10;          <td>&#10;            &#10;            <a href="/en/events/2010/gphou10/grand-prixhouston-round-9-standings">9</a>&#10;            <br>&#10;            <a href="/en/events/2010/gphou10/grand-prixhouston-round-8-standings">8</a>&#10;            <br>&#10;            <a href="/en/events/2010/gphou10/grand-prixhouston-round-7-standings">7</a>&#10;            <br>&#10;            <a href="/en/events/2010/gphou10/grand-prixhouston-round-6-standings">6</a>&#10;            <br>&#10;            <a href="/en/events/2010/gphou10/grand-prixhouston-round-5-standings">5</a>&#10;            <br>&#10;            <a href="/en/events/2010/gphou10/grand-prixhouston-round-4-standings">4</a>&#10;            <br>&#10;            <a href="/en/events/2010/gphou10/grand-prixhouston-round-3-standings">3</a>&#10;            <br>&#10;            <a href="/en/events/2010/gphou10/grand-prixhouston-round-2-standings">2</a>&#10;            <br>&#10;            <a href="/en/events/2010/gphou10/grand-prixhouston-round-1-standings">1</a>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;    </td>&#10;  </tr>&#10;</tbody></table>
+
+ 
+
+* * *
+
+  
+  
+
+*   **Quarterfinals: Shaun Rodriguez vs. Paulo Vitor Damo da Rosa**
+
+    *by Zaiem Beg*
+
+Rodriguez is a Houston-area native making top eight in his hometown, and was faced against Brazilian superstar Paulo Vitor. 
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <div>&#10;        <img src="https://i.ormos.uk/f3/66/f366287edc29f11edc0763bbad5238b4378a0f9eb7d165284d27bd74e24350b0.jpg">&#10;      </div>&#10;      <div>&#10;        <i>Shaun Rodriguez </i>&#10;      </div>&#10;    </td>&#10;  </tr>&#10;</tbody></table>
+
+### Game 1
+
+Shaun won the die roll and kept his seven, while Paulo didn’t like his opening hand, and kept his six cards only after a lot of deliberation. Shaun led off with turn two Tarmogoyf, then played the Boom side of Boom//Bust targeting his own fetchland and PV’s Steam Vents, but PV Remanded it. 
+
+PV played a Sakura Tribe-Elder, but Shaun continued to attack PV’s manabase, this time resolving the Boom. But Shaun continued to mount an assault on the following turns, playing Wild Nacatl, followed by Bloodbraid Elf, which revealed a Lightning Helix, killing the Sakura-Tribe Elder that was slated to block an attacking creature. PV tried to stop the bleeding by Repealing a Wild Nacatl, but when Shaun played a second Bloodbraid Elf into Blood Moon, he not only had a lot of damage on the table, but the Blood Moon was detrimental to PV’s Scapeshift combo. 
+
+With PV at three and an army of creatures staring at him, he had to use Cryptic Command as a fog effect, which let Rodriguez play a Lightning Bolt to take down the first game. 
+
+### Game 2
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <div>&#10;        <img src="https://i.ormos.uk/c2/5d/c25db3366de96e854f26a84cf360f1f602affdff43bd8570b3e326fd1e78d399.jpg">&#10;      </div>&#10;      <div>&#10;        <i>Paulo Vitor Damo da Rosa</i>&#10;      </div>&#10;    </td>&#10;  </tr>&#10;</tbody></table>
+
+Both players liked their opening hands, and PV played a turn one Ponder, but he didn’t like the cards on top, so he chose to shuffle his library. Shaun did not have a turn one creature, and PV played a second Ponder, but did not see a land in those three cards, and had to shuffle again and he missed his second land drop. 
+
+Shaun did not have a turn two creature, giving PV time to recover from his land light situation. PV played yet a third Ponder, and this time he did see a land, but Shaun Boomed it on his turn, and PV was back to one land. PV drew a second land and Remanded another Boom, but Shaun had the mana to recast it, and PV was back to just one mana source yet again. 
+
+Then Shaun started bringing pressure, playing Bloodbraid Elf into Noble Hierarch, then Bloodbraid Elf into Wild Nacatl. PV did find a second land to Remand the Wild Nacatl, but could not play any more spells for the rest of the game and was dead to the pair of attacking Bloodbraid Elves in short order. 
+
+Shaun Rodriguez wins 2-0 and advances to the semifinals! 
+
+ 
+
+* * *
+
+  
+  
+
+*   **S**Quarterfinals: Todd Anderson vs. Charles Lancaster****
+
+    *by Steve Sadin*
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <div>&#10;        <img src="https://i.ormos.uk/74/53/745374d8b111e492d5ec8ae85d9d4bdd053f118c50805f3113ddd9ac927f2eb9.jpg">&#10;      </div>&#10;      <div>&#10;        <i>Todd Anderson </i>&#10;      </div>&#10;    </td>&#10;  </tr>&#10;</tbody></table>
+
+Todd Anderson was a member of last year’s US Nationals team alongside fellow Top 8er Adam Yurchick. Anderson to let the world know that his performance at Nationals last year was no fluke, and he’s gone a long way towards proving that this weekend by picking up his second premier event Top 8 in less than a year. Charles Lancaster has been playing for a long time, having played in the first Pro Tour: LA way back in 1996. While Charles hasn’t been playing nearly as much as he used to during the 90’s, he was clearly very happy to make his first premier event Top 8.  
+ With their Top 8 finishes, both of these married players picked up their invitations to Pro Tour: San Juan this weekend and began discussing the possibility of taking their wives on a trip to Puerto Rico this Summer. Charles was planning on going on a trip with his wife and six month old daughter to Florida this summer, but it looks like he’s going to have to change their vacation destination. 
+
+### Game 1
+
+Charles won the die roll and Thoughtseized away a Thirst for Knowledge leaving Todd with Thoughtseize, 2 Chrome Moxes, a Dark Depths, a River of Tears and a Swamp. 
+
+“For the record, mulliganing against Smallpox is very bad,” said Todd, justifying an otherwise awkward keep. Todd’s Thoughtseize took an Umezawa’s Jitte leaving Charles with a Bloodghast and land. Charles drew and cast a Dark Confidant that he followed with another copy of Bob Maher’s Invitational card on turn three. 
+
+“Let’s gamble a bit,” said Todd before playing out a Dark Depths and casting a Vampire Hexmage. 
+
+Charles fell down to 10 when one of his Bobs flipped up Baneslayer Angel, but he was ready with a Gatekeeper of Malakir to take out Todd’s Vampire Hexmage. 
+
+Todd tapped both of his mana producing lands and plopped down a Thopter Foundry. 
+
+Two Dark Confidant activations flipped up a Sword of Fire and Ice and a Sword of Light and Shadow knocking Charles down to 4. Charles attacked with his three creatures to put Todd on 6, and his followup play of Smallpox allowed Charles to get rid of a Bob 
+
+“One time!” Shouted Todd, hoping that Charles’ Dark Confidant would finish him off. But it was not to be as Charles remained on three life by flipping up a land. 
+
+While Todd was able to live through the turn by making chump blockers with Thopter Foundry, but without a Sword of the Meek he couldn’t keep up the token generation and he succumbed to Charles’ army of two power guys and equipment a mere turn later. 
+
+### Game 2
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <div>&#10;        <img src="https://i.ormos.uk/0a/f6/0af6fb3e5cf8d9100633458dba2f20eedbded2ec09d3bc88e08eddc7849729bc.jpg">&#10;      </div>&#10;      <div>&#10;        <i>Charles Lancaster</i>&#10;      </div>&#10;    </td>&#10;  </tr>&#10;</tbody></table>
+
+The first few turns saw the players trade Thoughtseize after Thoughtseize without making any plays to further their boards. After a number of actionless turns, Todd was able to use two straight Thirst for Knowledges, discarding a Chrome Mox and then a Sword of the Meek to insure that he would have plenty of gas as the game progressed. Todd’s third Thoughtseize of the game took out a Smallpox leaving Charles with only a Gatekeeper of Malakir. 
+
+Tidehollow Sculler took out one of Todd’s two Thopter Foundries, but that wasn’t nearly enough to stop Todd’s token generating combo. While Charles was able to drag the game out for a few turns, he simply couldn’t do anything to keep up with Todd’s ever-growing flying army. 
+
+### Game 3
+
+Charles had to mulligan to start Game 3 and Todd’s turn two Thoughtseize (which was powered by Charles’ Urborg, Tomb of Yawgmoth) left Charles with only a Gatekeeper of Malakir and lands. A Thopter Foundry for Todd was followed a turn later by a Sword of the Meek. Todd again got to making tokens, and when Charles missed his one turn window to draw an Extirpate he was soon shaking Todd’s hand and wishing him good luck in the semifinals. 
+
+**Final Result: Todd wins two games to one and advances to the semifinals!** 
+
+   
+  
+
+*   **Quarterfinals: Shuuhei Nakamura versus Adam Yurchick**
+
+    *by Riki Hayashi*
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <div>&#10;        <img src="https://i.ormos.uk/41/f4/41f4ad83c302ccc1f442d75fa6cab22a2743750821f4ea34927161dd3711aeb2.jpg">&#10;      </div>&#10;      <div>&#10;        <i>Shuuhei Nakamura</i>&#10;      </div>&#10;    </td>&#10;  </tr>&#10;</tbody></table>
+
+Shuuhei Nakamura is an annual Player of the Year candidate, and a regular in GP Top 8s. He has put down his usual Zoo after a poor showing at GP Yokohama against combo decks, and brewed up a Hypergenesis list, consulting with countryman Tomoharu Saito. Adam Yurchick is an American stalwart finally making his mark. Last year, he made the United States National team with fellow Top 8er Todd Anderson, and this is his second consecutive GP Top 8 in the Extended format with the bread and butter of the format, Dark Depths Thopter (DDT). He’ll be holding a special wake for the format now that it is on its last event. 
+
+Game 1 
+
+Shuuhei stopped during shuffling to admire Adam’s Tim Aten Pro Player card tokens. Asked if he remembered the American Pro, Shuuhei admitted that he had played against Tim twice during Pro Tour London and lost both matches. 
+
+“Then he wrote about the matches in his article.” 
+
+Adam won the roll and opened with a Thoughtseize off of Urborg, revealing Shuuhei’s Violent Outburst, Simian Spirit Guide, Oblivion Ring, Angel of Despair, Bogardan Hellkite, Progenitus, and Calciform Pool. Adam took the Spirit Guide rather than the cascade spell, and it soon became apparent why. Adam had the nuts with Dark Depths into Vampire Hexmage on turn two. The Violent Outburst was “too slow” without the monkey mana. Shuuhei scooped sheepishly. Adam told me he had gotten the nuts opening twice before in the tournament, but this was the first time he had won with it on turn three. 
+
+“Usually, I wait for a Muddle, but against him, go for it.” 
+
+Game 2 
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <div>&#10;        <img src="https://i.ormos.uk/df/3a/df3ae733bc06c13cf95c55b894108f92cf928748a36a5a5ba9aae757af813133.jpg">&#10;      </div>&#10;      <div>&#10;        <i>Adam Yurchick</i>&#10;      </div>&#10;    </td>&#10;  </tr>&#10;</tbody></table>
+
+Adam got turn two Dark Confidant, the secret “combo” in the deck. Shuuhei was stuck on two lands, Gemstone Caverns no less, and had to discard on turn four. Adam played Dark Depths into Duress and saw the all-clear to call forth the power of Marit Lage, the Feature-Match-Ender. Adam admitted that it was the fastest match of the weekend by far. 
+
+Final result: Yurchick 2 – Nakamura 0 
+
+Since the actual game play was so quick, I asked Shuuhei to stick around and give me his thoughts on the matchup and his opening hands in the two games. 
+
+“The matchup is 40-60 maybe. I can’t stop him from making the 20/20.”
+
+Asked about his sideboarding, Shuuhei sheepishly showed me two Venser, Shaper Savants and an Oblivion Ring. I was somewhat surprised at the less-than stellar sideboard options against the consensus “best deck.” Adam seemed a little bit more prepared, albeit somewhat accidentally, showing a full boat of Chalice of the Void, Jace, the Mind Sculptor, Damnation, and Duress as his options. 
+
+“Since the matchup was not favorable, I felt I had to gamble a little. My opening hands were weak to discard, but the deck is generally weak to discard and it seemed better than mulliganing on the chance that he didn’t have discard,” said Shuuhei. 
+
+“If there were a GP next week, I would not choose this deck again. This deck depends too much on luck and whether the opponent has appropriate hate. I wouldn’t want to take that chance two tournaments in a row because I think more people would have Chalice against me.” 
+
+ ![Ghost Quarter](http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Ghost%20Quarter&options=) 
+
+One fun story he shared from his weekend: “Twice I responded to Vampire Hexmage targeting Dark Depths with Violent Outburst into Hypergenesis to put Angel of Despair into play to break it up.” That’s the most convoluted “Ghost Quarter” ever. 
+
+Shuuhei also told me that he was not using his own deck. Staying with a friend for a day in Tokyo while he waited for his flight to the US, Shuuhei opened his deck box and saw his Standard deck from GP Brussels. Realizing he had left his Extended deck on his desk back home in Osaka, he called his friend, Shuu Komuro, and borrowed his version of the deck. Short two Progeniti, he hit up the dealers on site to finish his deck on the way to yet another Top 8. 
+
+ 
+
+* * *
+
+  
+  
+
+*   **Quarterfinals: Pete Picard ( Thopters) vs. Kenneth Ellis (R/W Aggro)**
+
+    *by Jared Sylva*
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <div>&#10;        <img src="https://i.ormos.uk/95/01/95017c572d65d667222520720fec5f4b142cb61277b78b6e40eab4576b7aa93d.jpg">&#10;      </div>&#10;      <div>&#10;        <i>Kenneth Ellis</i>&#10;      </div>&#10;    </td>&#10;  </tr>&#10;</tbody></table>
+
+“So, I guess that my mind games won’t work on you since we are exchanging lists...” Ken said while laying down his Marit Lage token. “Zektar Shrine Expedition? Refraction Trap? How have those been for you?” 
+
+“Pretty good against Zoo: Searing Blaze you? Nope. Searing Blaze you,” Pete replied. “Those are some neat Thopters. Chinese? Japanese?”  
+ And with that, the tone was set for a very friendly Top 8 match. 
+
+### Game 1
+
+Ken won the die roll and considered his hand before keeping. Pete immediately mulliganed a one land hand and kept the resulting six. Ken opened with a land and Pete drew first blood from himself with an Arid Mesa into an untapped Sacred Foundry for a Steppe Lynx. No action on Ken’s turn, but Pete’s Scalding Tarn for a Mountain pumped his Lynx to 4 and it was joined by a Goblin Guide for a trip to the Red Zone. After combat Pete added another Steppe Lynx and was looking to be in good shape until Ken untapped and dropped Engineered Explosives for 1.  
+ Pete forced Ken to blow the explosives, but not before Goblin Guide had given the Thopters player a Faerie Conclave from the top of his Library. Ken played the Conclave and passed. Pete played a Steppe Lynx and Plated Geopede, hoping to turn the pressure back on, but Ken had and Oblivion Ring for the Geopede on his turn and, after checking life totals with the judge, a Path to Exile for the Lynx. On his turn, Ken dropped Jace, the Mind Sculptor and fatesealed Pete, adding 2 counters. “You can keep that.” After a couple of turns of Land – Go from Pete and Ken fatesealing, Jace was approaching Critical Mass and Ken had started the Thopter Foundry / Sword of the Meek engine. It is simply a question of how and when, but Pete never let us find out as he looked at his next draw and reached for his sideboard. 
+
+### Game 2
+
+Ken and Pete agreed that this was one of the toughest match-ups that Pete could be facing in the Top 8 and Ken congratulated Pete for making it this far with a deck that he couldn’t get to work in testing. “I think my bad match-ups are Scapeshift and Elves” Ken said as he sideboarded out 2 Jace, the Mindsculptor, 2 Cryptic Command, and Oblivion Ring and a Mind Spring for 2 Celestial Purge, 2 Glen Elendra Archmage, a Chalice of the Void and a Negate. 
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <div>&#10;        <img src="https://i.ormos.uk/de/c4/dec42e52ce304b82575f3de880f5e3339360b8ebd5090d26010f20baaad8057e.jpg">&#10;      </div>&#10;      <div>&#10;        <i>Pete Picard</i>&#10;      </div>&#10;    </td>&#10;  </tr>&#10;</tbody></table>
+
+Pete sent 3 Path to Exile and 2 Searing Blaze to the side for 3 Duergar Hedge Mage and 2 Smash to Smithereens, hoping to control Ken’s Foundry combo. After shuffling, Pete kept his opening 7, but then it got exciting. Ken dropped to six after some consideration and looked at the top cards. “Totally would have got there.” Pete gave a good hearted fist pump as Ken shuffled up and acknowledged that he will need all the luck he can get to pull this match-up out. 
+
+Six cards gave Ken only one land, but looking again reveals the nuts on the top. “Oh my God! Eh, my philosophy is that against good match-ups, you have to be more aggressive with your mulligans. I’ve kept some sketchy hands against Hypergenesis...” 
+
+The 5 card hand showed no lands, but again two lands off the top would have made it playable on the draw. “2 lands, 1 land, no lands – I guess we start over – I call four lands in the next hand. I probably keep it.” 
+
+“I keep.” 
+
+Pete opened with a Goblin Guide and gave Ken an Island. On turn two, Pete missed his land drop, but had another Goblin Guide. After happily taking the revealed Seat of the Synod, Ken had a Path to Exile for each of them. “Now you have land.” 
+
+Ken had Thopter Foundry, but an angry Duergar Hedgemage smashed it to bits on Pete’s turn. Ken had Negate and Celestial Purge to keep Pete at bay over the next few turns as he assembled his combo with a transmuted Muddle the Mixture. Pete’s attacks had chipped away at Ken’s life total and Lightning Bolt and Lightning Helix brought Ken down to 4. That’s as far as he ever got as the next turn Ken assembled the combo and started to build his life back up and build an army of Thopters. 
+
+Finally, Ken started counting damage and the next turn Pete extended the hand and Ken had pulled out of a mulligan to four. “Good Luck.” 
+
+Kenneth Ellis defeats Pete Picard, 2-0 
+
+ 
+
+* * *
+
+  
+  
+
+*   **Semifinals: Ken Ellis vs. Shaun Rodriguez**
+
+    *by Zaiem Beg*
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <div>&#10;        <img src="https://i.ormos.uk/14/33/1433f7dc98d0806052c5d0ea31ef792eb223c0e61061dc0e99796bc4159c7a94.jpg">&#10;      </div>&#10;      <div>&#10;        <i>Ken Ellis</i>&#10;      </div>&#10;    </td>&#10;  </tr>&#10;</tbody></table>
+
+Ken is from Northern California, facing off against NASA employee Shaun Rodriguez. “Wait, you work for NASA,” Ken asked. “I’m facing off against a rocket scientist.”
+
+“I’m an application developer,” Shaun said.
+
+“I’m going to call you a rocket scientist anyway,” Ken said. That way if I win, I can say I beat a rocket scientist. And if I lose, I can say I lost to a rocket scientist.”
+
+Both players liked their seven card hands, and Ken played turn two Thopter Foundry on the play when Shaun did nothing on turn one.
+
+“When Zoo doesn’t play a one drop, I feel good about that,” Ken said.
+
+But Shaun played a turn two Tarmogoyf, and Ken said, “ah, it’s a timelyGoyf,” though nobody at the table seemed to know exactly what that meant. What was not timely, however, was Ken’s inability to draw lands, as he missed his third land drop. When Shaun attacked with Tarmogoyf, Ken sacrificed his Thopter Foundry to itself to gain a life and block the Tarmogoyf, then he Path to Exiled his own token to get a land. Shaun followed that up with a Knight of the Reliquary. 
+
+“Knight’s pretty big, right?” Ken asked.  
+ “Knight’s a 5/5,” Shaun said.  
+ “That’s pretty big,” Ken said, somewhat glumly.
+
+Ken dug for more lands when he played Thirst for Knowledge, but didn’t see one, and had to pass the turn, staring down nine damage from the Tarmogoyf and Knight of the Reliquary. Shaun made the situation worse by adding a second Knight of the Reliquary.
+
+When Shaun played Bloodbraid Elf (cascading into a relatively harmless Noble Hierarch), more than enough damage was being represented to kill Ken, but Ken was able to buy a turn by playing Echoing Truth on Knight of the Reliquary.
+
+Desperately digging for answers, Ken played a Jace, the Mind Sculptor and used the “Brainstorm” ability, but saw nothing he liked and conceded.
+
+“I can’t draw lands if my life depended on it, which it did,” Ken complained.
+
+**Shaun 1 – Ken 0** 
+
+### Game 2
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <div>&#10;        <img src="https://i.ormos.uk/ef/d9/efd96f85791d1b206d860e71b56ea9385f635baaf31e449c447d8cb90d8e23ea.jpg">&#10;      </div>&#10;      <div>&#10;        <i>Shaun Rodriguez</i>&#10;      </div>&#10;    </td>&#10;  </tr>&#10;</tbody></table>
+
+Both players started out slowly, with Ken playing a turn three Thopter Foundry and with Shaun playing the ultimate answer for Thopter Foundry in the form of Damping Matrix. But Shaun’s innocuous board of Noble Hierarch and Damping Matrix suddenly looked more ominous when Shaun cast Bloodbraid Elf, revealing Boom//Bust, and he chose to play Bust.
+
+“Why don’t you like lands? What’s wrong with lands?” Ken inquired. Ken Echoing Truthed the Bloodbraid Elf in response to the Bust, and the only mana source on the table was a lonely Noble Hierarch. “I hope you have zero lands.” 
+
+Ken tried to recover by playing a Mystic Gate, followed by an Azorious Chancery to bounce the Mystic Gate. However, Shaun did not have zero lands, and played the Boom side of Boom//Bust, destroying Ken’s Azorious Chancery and his own fetchland.
+
+The rest was a formality. Shaun didn’t miss a land drop in the post Bust era, and when he recast the Bloodbraid Elf, it cascaded into Blood Moon. An Ancient Grudge on the Thopter Foundry only pushed victory further out of Ken’s reach, and the attacking Bloodbraid Elf ended the game soon thereafter.
+
+**Final result: Shaun Rodriguez wins 2-0 and advances to the finals!** 
+
+ 
+
+* * *
+
+  
+  
+
+*   **Semifinals: Todd Anderson vs. Adam Yurchick**
+
+    *by Steve Sadin*
+
+Friends and former United States Nationals teammates Adam Yurchick and Todd Anderson were both extremely happy to have made it to the semifinals. Adam was pleased to pick up a bunch more precious Pro Points (in what is shaping up to be a very good season) and to have another chance to finally break through and win a champion’s trophy after so many near misses. While Todd was excited to qualify for San Juan and to pick up a good chunk of Pro Points that he is hoping to build on during the rest of the season.
+
+While Adam and Todd were both glad that the other had made it so far, it was clear that these two former teammates weren’t going to be pulling any punches in their Thepths mirror match.
+
+**Game 1**  
+ 
+
+<table>&#10;    <tbody><tr>&#10;      <td>&#10;        <div>&#10;          <img src="https://i.ormos.uk/d1/a0/d1a0aff7e912fe8a585b0e2374f4ebb29fbdcb7e1edece0dfeb14eed5193660e.jpg">&#10;        </div>&#10;        <div>&#10;          <i>Todd Anderson</i>&#10;        </div>&#10;      </td>&#10;    </tr>&#10;  </tbody></table>
+
+Todd mulliganed down to five on the play and agonized for a bit before keeping a hand of Dark Depths, Vampire Hexmage, Thoughtseize, Thoughtseize and Smother. Adam was able to wasteland Todd’s only land with a Dark Depths of his own, and while Todd was fortunate enough to draw a Urborg, Tomb of Yawgmoth, Adam was again ready to legend rule away Todd’s only land with an Urborg, Tomb of Yawgmoth of his own.
+
+Todd failed to draw any more lands before being beaten to death by a Vampire Hexmage and a Dark Confidant.
+
+**Yurchick 1 – Anderson 0** 
+
+“Want to go to Fogo de Chao (a delicious Brazilian all you can eat steak restaurant that is very popular amongst the Pro Tour crowd) after this?” asked Todd.  
+ “Nah, I’m a vegetarian now,” replied Adam.  
+ “Really?” asked a surprised Todd.  
+ “Yep, I actually became one right after Nationals,” said Adam.  
+ “Well, I’ve eaten two bananas today so I’m looking forward to chowing down,” said Todd. “Hopefully you will enjoy whatever meatless meal you end up with.”
+
+**Game 2**  
+ Adam Thoughtseized a Dark Confidant leaving Todd with a Vampire Hexmage, a Thirst for Knowledge and some lands. Todd cast his Vampire Hexmage, then followed it up a turn later with a Dark Confidant. Adam’s deck was nice enough to offer him a Dark Confidant of his own.
+
+Todd’s Thoughtseize took Gatekeeper of Malakir and left Adam with a Duress, an Extirpate and a Dark Depths. Todd attacked Adam down to 12 and then grew his army even further by casting a second Vampire Hexmage. Adam fell to 10 when his Dark Confidant flipped up a Smother that he immediately used to off one of Todd’s Vampire Hexmages in an effort to buy some more time.
+
+Todd Thoughtseized away a Jace, the Mind Sculptor before attacking Adam down to 6 and adding a Thopter Foundry to his board. Adam could only offer up a Duress to take Todd’s Thirst for Knowledge.
+
+Even without Sword of the Meek, Todd was able to sacrifice a Chrome Mox to give himself an extra attacker, and when Yurchick’s next two draw steps failed to offer him anything that could stop Todd’s pint sized attackers from killing him the players were off to a deciding third game.
+
+**Yurchick 1 – Anderson 1** 
+
+**Game 3**  
+ 
+
+<table>&#10;    <tbody><tr>&#10;      <td>&#10;        <div>&#10;          <img src="https://i.ormos.uk/73/2e/732ee811c6fd04dabbb1fdec29d86dc4cc966994bce2ce0f58ab4ca249d80c47.jpg">&#10;        </div>&#10;        <div>&#10;          <i>Adam Yurchick</i>&#10;        </div>&#10;      </td>&#10;    </tr>&#10;  </tbody></table>
+
+The third and final game began with both players casting copies of Dark Confidant, which they followed up with high powered draw spells like Compulsive Research and Thirst for Knowledge. Adam Yurchick cast a Jace, the Mind Sculptor that he used to bounce Todd’s Dark Confidant. Todd continued mirroring Adam’s plays when he ran out a Jace, the Mind Sculptor of his own.
+
+A Thopter Foundry for Adam prompted Todd to use a Tolaria West to fetch Engineered Explosives. Adam untapped and played a replacement Jace, the Mind Sculptor that he immediately used to bury the top card of Todd’s library. Adam then cast a Vampire Hexmage to go with his Dark Depths. 
+
+Todd played Engineered Explosives and popped it for two, prompting Adam to sacrifice his Thopter Foundry to itself, and his Vampire Hexmage to make a 20/20 flier. Todd was ready with a Repeal and after playing a Chrome Mox finally got the chance to recast his Dark Confidant.
+
+Adam again manipulated the top of Todd’s library with Jace before transmuting a Muddle the Mixture for a Gatekeeper of Malakir to take out Todd’s Dark Confidant.
+
+Todd transmuted a Muddle the Mixture to find a Vampire Hexmage that he used to get rid of Adam’s Jace, the Mind Sculptor. An Extirpate took out Adam’s Thopter Foundries.
+
+Adam’s Compulsive Research drew him into a fresh Jace, the Mind Sculptor that he used to look at the top of Todd’s library. Todd drew a blank and played Duress, the last unknown card in Todd’s hand.
+
+Adam looked at the top of Todd’s library with Jace, and once Adam had confirmed that the coast was clear he used a Vampire Hexmage and a Dark Depths to make a 20/20 flier to finish off his friend and advance to his second Grand Prix finals of the season.
+
+**Final result: Adam Yurchick wins two games to one and advances to the finals of Grand Prix: Houston!** 
+
+ 
+
+* * *
+
+  
+  
+
+*   **Finals: Adam Yurchick vs. Shaun Rodriguez**
+
+    *by Brian David-Marshall*
+
+“C’mon Adam...if you don’t win this one...” Todd Anderson let the thought trail off as he finished his post loss discussion with Adam while they waited for Shaun Rodriguez to come over to determine who would be the Grand Prix Houston Champion. 
+
+“Yeah get this done,” said another onlooker. 
+
+<table>&#10;    <tbody><tr>&#10;      <td>&#10;        <div>&#10;          <img src="https://i.ormos.uk/de/91/de9128f64449b4c409856a9184acba7ad3abc8922ce518c2d80bb49eb1798c14.jpg">&#10;        </div>&#10;        <div>&#10;          <i>Adam Yurchick vs. Shaun Rodriguez </i>&#10;        </div>&#10;      </td>&#10;    </tr>&#10;  </tbody></table>
+
+Despite an impressive run of finishes over the past couple of seasons it is easy to understand why his friends were spurring him on. He has finished second at two Grand Prix events, second at Nationals, and also finished a hair out of the Top 8 in Pro Tour Hollywood. DJ Kastner had no torn allegiances despite being one of the creators of the Boom//Bust Zoo deck that was being played by the local Shaun Rodriguez; he was pulling for his friend to shed the mantle of Silver Surfer. 
+
+“Adam for sure,” said DJ when asked who he was rooting for. “We have been here since Wednesday testing, testing, testing. If Rodriguez is playing with Temporal Isolation then the Rite of Consumption is going to get him for sure.” 
+
+The players settled in for their match, and after fumbling with the audio equipment for the GGSLive feed they were almost ready to determine who would hoist the GP Houston trophy. 
+
+“Testing, testing,” said Adam as Rashad walked by. 
+
+“If the light is on it is working,” said Rashad. 
+
+“I know but I dropped it and this little piece broke off,” said Adam. 
+
+“You broke it?” exclaimed Rashad but neither player was paying any attention at that point as they were engrossed in looking over each other’s decklists. Adam was playing Dark Depths combo while Shaun was playing Boom//Bust Zoo -- fittingly the two most successful Extended archetypes down the stretch of this PTQ season. 
+
+<table>&#10;    <tbody><tr>&#10;      <td>&#10;        <div>&#10;          <img src="https://i.ormos.uk/73/2e/732ee811c6fd04dabbb1fdec29d86dc4cc966994bce2ce0f58ab4ca249d80c47.jpg">&#10;        </div>&#10;        <div>&#10;          <i>Adam Yurchick</i>&#10;        </div>&#10;      </td>&#10;    </tr>&#10;  </tbody></table>
+
+**Game 1** 
+
+Both players mulliganed their opening seven and they briskly shuffled up 12 new cards that they were mutually comfortable with. Adam promised to dig himself out of his card-hole with a first turn Dark Confidant -- off of a Chrome Mox imprinting Jace. Shaun went to 17 to play Wild Nacatl on his first turn. Adam matched him when he flipped Compulsive Research and played it, ditching Sword of the Meek and another Chrome Mox. Shaun played a pair of Noble Hierarchs and attacked for five. Adam flipped Thopter Foundry and fell to 10. He went to 8 from a Thoughtseize and saw lands and a Knight. He took the creature and played the Foundry. 
+
+Shaun played Temporal Isolation on the Bob and attack. Adam made a token and blocked putting the machinery of inevitability into motion. Adam was able to keep the Nacatl at bay and then some. Shaun drew and played Lightning Helix to take out the Dark Confidant -- which was later pointed out to actually not work -- but the life totals were going in the wrong direction for the aggro player as Adam’s air force kept signing up new recruits. Adam did not even blink at Tarmogoyf -- especially from an empty-handed opponent. By the time Shaun untapped with Tarmogoyf the life totals were 19 to 5 in Adam’s favor. Shaun swept up his cards and went for his sideboard. he took out most of his Boom//Bust and Blood Moon package to make way for Path to Exile, Damping Matrix, and Ancient Grudge. It looked like Adam brought in most of the creature control cards in his sideboard such as Damnation, Deathmark, Jace, the Mind Sculptor, and a Gatekeeper. 
+
+<table>&#10;    <tbody><tr>&#10;      <td>&#10;        <div>&#10;          <img src="https://i.ormos.uk/16/aa/16aabb65799fa26dda60470d35fd8d914d66f1976235aaeb5873ac0f0af6cfe3.jpg">&#10;        </div>&#10;        <div>&#10;          <i>Shaun Rodriguez</i>&#10;        </div>&#10;      </td>&#10;    </tr>&#10;  </tbody></table>
+
+**Game 2** 
+
+Shaun went to 18 to play a Wild Nacatl only to have it Deathmarked. Shaun followed up on turn three with Tarmogoyf and Adam had no response -- and no third land on his turn. He took three from the ‘Goyf but found a land waiting for his next turn. He took another three from the Goyf and played Thirst for Knowledge at the end of Shaun’s turn -- pitching a Sword of the Meek. He untapped and thought for awhile before playing his land and aiming a Deathmark at the future shifted fattie. 
+
+The score was tied at 14 all when Shaun broke a fetch land to play Bloodbraid Elf. His cascade scratched a Temporal Isolation off the top of his deck and he promptly pushed it to the bottom. Adam played Jace and saw a Damping Matrix on top of Shaun’s deck which he sent to join the Aura. Shaun attacked Jace and finished it off with a Lightning Bolt -- the score was 14 to 11 in Shaun’s favor. Adam dug three cards deep with Compulsive Research and ditched Confidant and Research. Shaun got in for another 3 and bloodied Adam down to 8. Adam played Urborg and kicked a Gatekeeper of Malakir. 
+
+The Gatekeeper picked up Temporal Isolation and Adam’s Thoughtseize nabbed Lightning Bolt from a hand of Ancient Grudges. Adam played Jace onto the empty board and left a card on top of Shaun’s deck. Shaun drew nothing -- as expected -- and then Adam let him keep another card which turned out to be Noble Hierarch. He left a Tarmogoyf on top a turn later and played Engineered Explosives for one to kill the Hierarch -- with Academy Ruins online if need be. Compulsive Research pitching a redundant Urborg. 
+
+Adam was thinking about recurring the Expolosives to deal with the freshly cast Tarmogoyf but decided to look at a fresh card instead. He then left Pridemage on top of Shaun’s deck and got Jace up to 11 counters. Damnation cleared the ‘Goyf and Adam played Vampire Hexmage. Shaun deployed the Pridemage and on Adam’s next turn he let the local player keep a Lightning Bolt before playing another Hexmage. Shaun had to deal with the looming Jace and cast Path on one of the Hexmages at end of turn. 
+
+Shaun attacked Jace with Pridemage but Adam had Slaughter Pact -- and reached for a pen to place on top of his deck to remember to pay his upkeep. When Shaun tried to Bolt the Jace Adam showed him Muddle the Mixture. 
+
+Adam untapped and checked the ultimate ability on Jace: “So it removes the library then he shuffles in the hand?” 
+
+That was all Shaun, who was holding two cards, needed to hear: “You got it.” 
+
+The mantle of the Silver Surfer was lifted from Adam’s shoulders as his friends and fans rushed in to congratulate the first time Champion.
+
+“Jace feels pretty good!” Adam marveled. “That is the first time I have ever ultimated it in my life!” 
+
+Congratulations to Grand Prix Houston 2010 Champion Adam Yurchick!
+
+<table>&#10;    <tbody><tr>&#10;      <td>&#10;        <div>&#10;          <img src="https://i.ormos.uk/22/57/22573d0bfa71a2c5e9b02c99495869623041ab18fc54719ff2b75aab6ab5dffc.jpg">&#10;        </div>&#10;        <div>&#10;          <i>Adam Yurchick</i>&#10;        </div>&#10;      </td>&#10;    </tr>&#10;  </tbody></table>

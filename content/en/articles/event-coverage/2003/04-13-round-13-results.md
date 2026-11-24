@@ -1,0 +1,47 @@
+---
+id: yfr31g06
+kind: event
+lang: en
+path: /en/articles/event-coverage/2003/04-13-round-13-results
+title: Round 13 Results
+published: '2003-04-13'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-13-results-2003-04-13
+    lang_detected: en
+    capture_id: 504602
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-13-results-2003-04-13
+    captured_at: '2022-08-11 15:17:24+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-13-results-2003-04-13
+    lang_detected: en
+    capture_id: 504602
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-13-results-2003-04-13
+    captured_at: '2022-08-11 15:17:24+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: yfr31g06
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-13-results-2003-04-13
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/round-13-results-2003-04-13
+  lang: en
+  template: drupal
+  captured_at: '2022-08-11 15:17:24+00'
+  capture_id: 504602
+  wayback_url: https://web.archive.org/web/20220811151724id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-13-results-2003-04-13
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: yfr31g06
+  capture_id: 504602
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-13-results-2003-04-13
+  wayback_url: https://web.archive.org/web/20220811151724id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-13-results-2003-04-13
+  captured_at: '2022-08-11 15:17:24+00'
+  template: drupal
+  sha256: 285ee7b88d9e467c73fdcdb832ff1891e4016a96fc1a206d3d50a35e1c1fdceb
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Result</b></td><td><b></b></td><td><b>Opponent</b></td></tr><tr><td> 1</td><td>Lebeda, Jiri [CZE]</td><td>Lost 0-2</td><td>vs.</td><td>Birner, Armin [AUT]</td></tr><tr><td> 2</td><td>Brucker, David [DEU]</td><td>Lost 1-2</td><td>vs.</td><td>Klimes, Tomas [CZE]</td></tr><tr><td> 3</td><td>Wache, Paul [DEU]</td><td>Lost 1-2</td><td>vs.</td><td>Haim, Christophe [FRA]</td></tr><tr><td> 4</td><td>Reitbauer, David [AUT]</td><td>Lost 0-2</td><td>vs.</td><td>Gruber, Tobias [DEU]</td></tr><tr><td> 5</td><td>Kruschel, Andreas [DEU]</td><td>Drew 1-1-1</td><td>vs.</td><td>Loeb, Davy [FRA]</td></tr><tr><td> 6</td><td>Wiegersma, Jelger [NLD]</td><td>Lost 1-2</td><td>vs.</td><td>Jedlicka, Stefan [AUT]</td></tr><tr><td> 7</td><td>Wolf, Jürgen [DEU]</td><td>Won 2-1</td><td>vs.</td><td>Herbstreuth, Sebastian [DEU]</td></tr><tr><td> 8</td><td>Gromko, Radoslaw [POL]</td><td>Won 2-1</td><td>vs.</td><td>Dahl, Aleksander [NOR]</td></tr><tr><td> 9</td><td>Fegert, Klaus [DEU]</td><td>Lost 0-2</td><td>vs.</td><td>Horemans, Michiel [BEL]</td></tr><tr><td> 10</td><td>Tomcani, Jan [SVK]</td><td>Lost 0-2</td><td>vs.</td><td>Brinkmann, Jan [DEU]</td></tr><tr><td> 11</td><td>Mazzurco, Carlo [DEU]</td><td>Lost 0-2</td><td>vs.</td><td>Schatz, Markus [DEU]</td></tr><tr><td> 12</td><td>Heeswijk, Roel [NLD]</td><td>Lost 1-2</td><td>vs.</td><td>Nolting, Christoph [DEU]</td></tr><tr><td> 13</td><td>Rizner, Andrej [SVN]</td><td>Won 2-0</td><td>vs.</td><td>Henke, Tobias [DEU]</td></tr><tr><td> 14</td><td>Will, Robert [DEU]</td><td>Won 2-0</td><td>vs.</td><td>Gawrilowicz, Christian [AUT]</td></tr><tr><td> 15</td><td>Brodzák, Jan [CZE]</td><td>Won 2-0</td><td>vs.</td><td>Canavesi, Emanuele [ITA]</td></tr><tr><td> 16</td><td>Hajnisz, Aleksander [POL]</td><td>Won 2-1</td><td>vs.</td><td>Vlach, Josef [CZE]</td></tr><tr><td> 17</td><td>Lührs, Christian [DEU]</td><td>Lost 1-2</td><td>vs.</td><td>Aguado, Saul [ESP]</td></tr><tr><td> 18</td><td>Wolowiec, Przemek [POL]</td><td>Lost 0-2</td><td>vs.</td><td>Bertelsen, Daniel [DNK]</td></tr><tr><td> 19</td><td>Nassif, Gabriel [FRA]</td><td>Drew 1-1-1</td><td>vs.</td><td>Levy, Raphael [FRA]</td></tr><tr><td> 20</td><td>Bayer, Patrick [DEU]</td><td>Lost 0-2</td><td>vs.</td><td>Jensen, David [DNK]</td></tr><tr><td> 21</td><td>Suwald, Michael [CHE]</td><td>Won 2-0</td><td>vs.</td><td>Schulze, Mike [DEU]</td></tr><tr><td> 22</td><td>Casnji, Daniel [YUG]</td><td>Lost 1-2</td><td>vs.</td><td>Boberg, Fredrik [SWE]</td></tr><tr><td> 23</td><td>Canavesi, Daniele [ITA]</td><td>Lost 1-2</td><td>vs.</td><td>Ziegner, Mark [DEU]</td></tr><tr><td> 24</td><td>Meyer, Stephan [DEU]</td><td>Won 2-1</td><td>vs.</td><td>Jonsson, Anton [SWE]</td></tr><tr><td> 25</td><td>Canu, Franck [FRA]</td><td>Lost 0-2</td><td>vs.</td><td>Preyer, Thomas [AUT]</td></tr><tr><td> 26</td><td>Christensen, Allan [DNK]</td><td>Drew 1-1-1</td><td>vs.</td><td>van der Velden, Stan [NLD]</td></tr><tr><td> 27</td><td>Barbero, Jose [ARG]</td><td>Won 2-0</td><td>vs.</td><td>Eigner, Nikolaus [AUT]</td></tr><tr><td> 28</td><td>Gundersen, Thomas [NOR]</td><td>Won 2-1</td><td>vs.</td><td>Mack, Alex [DEU]</td></tr><tr><td> 29</td><td>Gomersall, Sam [ENG]</td><td>Won 2-1</td><td>vs.</td><td>Joebstl, Markus [AUT]</td></tr><tr><td> 30</td><td>Ionescu, Eugen [DEU]</td><td>Lost 0-2</td><td>vs.</td><td>Baberowski, Dirk [DEU]</td></tr><tr><td> 31</td><td>Witt, Alexander [NLD]</td><td>Won 2-0</td><td>vs.</td><td>Shvartsman, Alex [USA]</td></tr><tr><td></td><td>Doise, Jan [BEL]</td><td></td><td></td><td>* BYE *</td></tr></tbody></table>

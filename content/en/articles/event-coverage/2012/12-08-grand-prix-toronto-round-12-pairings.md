@@ -1,0 +1,47 @@
+---
+id: 7b5zf43y
+kind: event
+lang: en
+path: /en/articles/event-coverage/2012/12-08-grand-prix-toronto-round-12-pairings
+title: Grand Prix Toronto Round 12 Pairings
+published: '2012-12-08'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-toronto-round-12-pairings-2012-12-08
+    lang_detected: en
+    capture_id: 433184
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-toronto-round-12-pairings-2012-12-08
+    captured_at: '2022-08-12 02:35:11+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-toronto-round-12-pairings-2012-12-08
+    lang_detected: en
+    capture_id: 433184
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-toronto-round-12-pairings-2012-12-08
+    captured_at: '2022-08-12 02:35:11+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: 7b5zf43y
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-toronto-round-12-pairings-2012-12-08
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-toronto-round-12-pairings-2012-12-08
+  lang: en
+  template: drupal
+  captured_at: '2022-08-12 02:35:11+00'
+  capture_id: 433184
+  wayback_url: https://web.archive.org/web/20220812023511id_/https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-toronto-round-12-pairings-2012-12-08
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 7b5zf43y
+  capture_id: 433184
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-toronto-round-12-pairings-2012-12-08
+  wayback_url: https://web.archive.org/web/20220812023511id_/https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-toronto-round-12-pairings-2012-12-08
+  captured_at: '2022-08-12 02:35:11+00'
+  template: drupal
+  sha256: 86512e972562ac456593acf0d2e2f62b9c3516cf725c319e541e56880de87181
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Points</b></td><td><b>&#10;						</b></td><td><b>Opponent</b></td><td><b>Points</b></td></tr><tr><td> 1</td><td>Pardee, Sam M</td><td> 33</td><td>vs.</td><td>Majlaton, Alex S</td><td> 30</td></tr><tr><td> 2</td><td>Chitiz, Alon</td><td> 30</td><td>vs.</td><td>Lax, Ari M</td><td> 30</td></tr><tr><td> 3</td><td>Brown, Maxwell R</td><td> 30</td><td>vs.</td><td>Elenbogan, Andrew</td><td> 30</td></tr><tr><td> 4</td><td>Moskal, Erik</td><td> 30</td><td>vs.</td><td>Stern, Jon</td><td> 30</td></tr><tr><td> 5</td><td>Archer, Will</td><td> 30</td><td>vs.</td><td>Hurst, Brendan J</td><td> 28</td></tr><tr><td> 6</td><td>Schnayer, David G</td><td> 28</td><td>vs.</td><td>Stenborg, Mike</td><td> 28</td></tr><tr><td> 7</td><td>Wiper, Charles M</td><td> 28</td><td>vs.</td><td>Jette, Jonathan</td><td> 27</td></tr><tr><td> 8</td><td>Sharfman, David S</td><td> 27</td><td>vs.</td><td>Fanara, Kody</td><td> 27</td></tr><tr><td> 9</td><td>Goud, Michael T</td><td> 27</td><td>vs.</td><td>Vance, James E</td><td> 27</td></tr><tr><td> 10</td><td>Morton, Collin R</td><td> 27</td><td>vs.</td><td>Stark, Ben S</td><td> 27</td></tr><tr><td> 11</td><td>Battistelli, Alex</td><td> 27</td><td>vs.</td><td>Danylyshen, Nicholas J</td><td> 27</td></tr><tr><td> 12</td><td>Beasley, Orrin A</td><td> 27</td><td>vs.</td><td>Wilson, Jacob A</td><td> 27</td></tr><tr><td> 13</td><td>Luk, Andrew</td><td> 27</td><td>vs.</td><td>Bilz, Dean C</td><td> 27</td></tr><tr><td> 14</td><td>Demars, Brian m</td><td> 27</td><td>vs.</td><td>Meckes, Josh A</td><td> 27</td></tr><tr><td> 15</td><td>Smith, Robert</td><td> 27</td><td>vs.</td><td>Feingersh, Ben</td><td> 27</td></tr><tr><td> 16</td><td>Cecchetti, Daniel A</td><td> 27</td><td>vs.</td><td>Savoie, Alexandre</td><td> 27</td></tr><tr><td> 17</td><td>Hardie, Boyd</td><td> 27</td><td>vs.</td><td>Neufeldt, Alexander A</td><td> 27</td></tr><tr><td> 18</td><td>Edel, Willy</td><td> 27</td><td>vs.</td><td>Thompson, Kale</td><td> 27</td></tr><tr><td> 19</td><td>Cole, James J</td><td> 27</td><td>vs.</td><td>Goldfarb, Mat</td><td> 27</td></tr><tr><td> 20</td><td>Duke, reid</td><td> 27</td><td>vs.</td><td>da Rosa, Paulo Vitor D</td><td> 27</td></tr><tr><td> 21</td><td>Phan, Lam N</td><td> 27</td><td>vs.</td><td>Jordan, Dan</td><td> 27</td></tr><tr><td> 22</td><td>arcega, deo marco g</td><td> 27</td><td>vs.</td><td>Mercier, Mat</td><td> 27</td></tr><tr><td> 23</td><td>Tao, Justin</td><td> 27</td><td>vs.</td><td>Mcdonough, Adam R</td><td> 27</td></tr><tr><td> 24</td><td>Moir, Ben</td><td> 27</td><td>vs.</td><td>Tom, Kar Yung E</td><td> 27</td></tr><tr><td> 25</td><td>Wawrzenczyk, Michal</td><td> 27</td><td>vs.</td><td>Johnson-Epstein, Jasper A</td><td> 27</td></tr><tr><td> 26</td><td>Brott, John</td><td> 26</td><td>vs.</td><td>Naylor, Andrew</td><td> 25</td></tr><tr><td> 27</td><td>Paterson, Matthew</td><td> 25</td><td>vs.</td><td>DeTora, Melissa J</td><td> 25</td></tr><tr><td> 28</td><td>Duncan, Kyle A</td><td> 25</td><td>vs.</td><td>Dunkelman, Steven J</td><td> 25</td></tr><tr><td> 29</td><td>Lanthier, Dan</td><td> 24</td><td>vs.</td><td>Asselin, Philippe</td><td> 24</td></tr><tr><td> 30</td><td>Wdowiasz, Jon</td><td> 24</td><td>vs.</td><td>Bastos, Frederico</td><td> 24</td></tr><tr><td> 31</td><td>RICHARD, FRANCOIS</td><td> 24</td><td>vs.</td><td>Prephan, David</td><td> 24</td></tr><tr><td> 32</td><td>MacDonald, Dan J</td><td> 24</td><td>vs.</td><td>McIelwain, Glenn T</td><td> 24</td></tr><tr><td> 33</td><td>Dixon, Jason A</td><td> 24</td><td>vs.</td><td>Johnson, Jon T</td><td> 24</td></tr><tr><td> 34</td><td>Taschner, Ian</td><td> 24</td><td>vs.</td><td>Dzandzalas, Peter B</td><td> 24</td></tr><tr><td> 35</td><td>Katz, Aaron J</td><td> 24</td><td>vs.</td><td>Rafih, Joddat J</td><td> 24</td></tr><tr><td> 36</td><td>Walter, Royce</td><td> 24</td><td>vs.</td><td>Magill, Sean</td><td> 24</td></tr><tr><td> 37</td><td>Tse, Felix</td><td> 24</td><td>vs.</td><td>Scott-Vargas, Luis D</td><td> 24</td></tr><tr><td> 38</td><td>Yang, Guang</td><td> 24</td><td>vs.</td><td>Allinson, Chris J</td><td> 24</td></tr><tr><td> 39</td><td>Bentley, Johnathan M</td><td> 24</td><td>vs.</td><td>Carvalho, Pedro</td><td> 24</td></tr><tr><td> 40</td><td>Hennessey, Jamie</td><td> 24</td><td>vs.</td><td>Jones, Donny</td><td> 24</td></tr><tr><td> 41</td><td>ZEMAN, TYSON</td><td> 24</td><td>vs.</td><td>Neganiwina, David G</td><td> 24</td></tr><tr><td> 42</td><td>Fournier, Daniel</td><td> 24</td><td>vs.</td><td>Anctil, Kevin</td><td> 24</td></tr><tr><td> 43</td><td>Julie, Yvon</td><td> 24</td><td>vs.</td><td>Giles, Devon A</td><td> 24</td></tr><tr><td> 44</td><td>McWhaw, Andrew J</td><td> 24</td><td>vs.</td><td>Reid, James</td><td> 24</td></tr><tr><td> 45</td><td>Woo, Kenneth H</td><td> 24</td><td>vs.</td><td>Naylor, Jamie M</td><td> 24</td></tr><tr><td> 46</td><td>Tharmaratnam, Samuel</td><td> 24</td><td>vs.</td><td>Fung, Kenny</td><td> 24</td></tr><tr><td> 47</td><td>NORMANDEAU, JULIEN</td><td> 24</td><td>vs.</td><td>Mealing, Matt K</td><td> 24</td></tr><tr><td> 48</td><td>Hamel, Olivier</td><td> 24</td><td>vs.</td><td>Hayne, Alexander</td><td> 24</td></tr><tr><td> 49</td><td>Kwok, Dale</td><td> 24</td><td>vs.</td><td>Gaudreault, Eric</td><td> 24</td></tr><tr><td> 50</td><td>Schwarz, Micheal P</td><td> 24</td><td>vs.</td><td>Grant, Andrew</td><td> 24</td></tr><tr><td> 51</td><td>Murley, Bradley j</td><td> 24</td><td>vs.</td><td>Flavell, Steven J</td><td> 24</td></tr><tr><td> 52</td><td>Fabiano, Gerard</td><td> 24</td><td>vs.</td><td>Moran, Stephen</td><td> 24</td></tr><tr><td> 53</td><td>Ouimet, Guillaume</td><td> 24</td><td>vs.</td><td>Turtenwald, Owen</td><td> 24</td></tr><tr><td> 54</td><td>Brooks, Daniel</td><td> 24</td><td>vs.</td><td>Stewart, Shawn</td><td> 23</td></tr><tr><td> 55</td><td>Duncan, Jason R</td><td> 22</td><td>vs.</td><td>Blondon, William A</td><td> 22</td></tr><tr><td> 56</td><td>KASHMAR, ALI</td><td> 22</td><td>vs.</td><td>Platt, Cameron W</td><td> 22</td></tr><tr><td> 57</td><td>Miller, Dylan</td><td> 21</td><td>vs.</td><td>Sagermann, Christian</td><td> 21</td></tr><tr><td> 58</td><td>Bunyan, Joseph J</td><td> 21</td><td>vs.</td><td>Reardon, Justin</td><td> 21</td></tr><tr><td> 59</td><td>Ogreenc, Greg A</td><td> 21</td><td>vs.</td><td>Rosman-Simionescu, Tobias A</td><td> 21</td></tr><tr><td> 60</td><td>Schofield, Graham K</td><td> 21</td><td>vs.</td><td>Cox, Patrick B</td><td> 21</td></tr><tr><td> 61</td><td>Noworaj, Andrew</td><td> 21</td><td>vs.</td><td>brierley, mike j</td><td> 21</td></tr><tr><td> 62</td><td>Casselman, Jeffrey</td><td> 21</td><td>vs.</td><td>Norek, Craig D</td><td> 21</td></tr><tr><td> 63</td><td>Lloyd, Alex C</td><td> 21</td><td>vs.</td><td>Fang, Harrison</td><td> 21</td></tr><tr><td> 64</td><td>Tietze, Max B</td><td> 21</td><td>vs.</td><td>Johnston, Vincent A</td><td> 21</td></tr><tr><td> 65</td><td>Brown, Steven</td><td> 21</td><td>vs.</td><td>Maynard, Pascal</td><td> 21</td></tr><tr><td> 66</td><td>Leber, Adam</td><td> 21</td><td>vs.</td><td>Dafoe, Braden K</td><td> 21</td></tr><tr><td>&#10;					</td><td>tundo, vincent e</td><td> 21</td><td>&#10;					</td><td>* BYE *</td><td></td></tr></tbody></table>

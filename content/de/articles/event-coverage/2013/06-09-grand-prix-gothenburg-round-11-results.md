@@ -1,0 +1,47 @@
+---
+id: 57aftj5g
+kind: event
+lang: de
+path: /de/articles/event-coverage/2013/06-09-grand-prix-gothenburg-round-11-results
+title: Grand Prix Gothenburg Round 11 Results
+published: '2013-06-09'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: de
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-gothenburg-round-11-results-2013-06-09
+    lang_detected: de
+    capture_id: 400987
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-gothenburg-round-11-results-2013-06-09
+    captured_at: '2017-10-30 14:15:30+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-gothenburg-round-11-results-2013-06-09
+    lang_detected: de
+    capture_id: 400987
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-gothenburg-round-11-results-2013-06-09
+    captured_at: '2017-10-30 14:15:30+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: 57aftj5g
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-gothenburg-round-11-results-2013-06-09
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-gothenburg-round-11-results-2013-06-09
+  lang: de
+  template: drupal
+  captured_at: '2017-10-30 14:15:30+00'
+  capture_id: 400987
+  wayback_url: https://web.archive.org/web/20171030141530id_/https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-gothenburg-round-11-results-2013-06-09
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 57aftj5g
+  capture_id: 400987
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-gothenburg-round-11-results-2013-06-09
+  wayback_url: https://web.archive.org/web/20171030141530id_/https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-gothenburg-round-11-results-2013-06-09
+  captured_at: '2017-10-30 14:15:30+00'
+  template: drupal
+  sha256: 9332246457e4d9bda0c123039904165fe33ac9571e59bca433cbc31e1e20d090
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Result</b></td><td><b>&#10;						</b></td><td><b>Opponent</b></td></tr><tr><td> 1</td><td>Zimmermann, Martin [DEU]</td><td>Won 2-1</td><td>vs.</td><td>Nobari, Poya [SWE]</td></tr><tr><td> 2</td><td>Bank, Elias [SWE]</td><td>Lost 1-2</td><td>vs.</td><td>Haglund, John E [SWE]</td></tr><tr><td> 3</td><td>Estratti, Samuele [ITA]</td><td>Won 2-1</td><td>vs.</td><td>Bergström, Jonathan [SWE]</td></tr><tr><td> 4</td><td>Chatley, Amiy [ENG]</td><td>Lost 0-2</td><td>vs.</td><td>Fourreau, Sébastien [FRA]</td></tr><tr><td> 5</td><td>Ekebom, Erno [FIN]</td><td>Won 2-0</td><td>vs.</td><td>Von Kalkstein, Christi [DEU]</td></tr><tr><td> 6</td><td>Wahlquist, Alex [SWE]</td><td>Won 2-1</td><td>vs.</td><td>Artamonova, Maria [FRA]</td></tr><tr><td> 7</td><td>Vazquez, Francisco Fid [ESP]</td><td>Lost 1-2</td><td>vs.</td><td>Poikela, Pasi [FIN]</td></tr><tr><td> 8</td><td>Jessen, Kristian [DNK]</td><td>Won 2-0</td><td>vs.</td><td>Nilsson, Erik [SWE]</td></tr><tr><td> 9</td><td>Say, Ian [SWE]</td><td>Won 2-1</td><td>vs.</td><td>Svedby, Fredrik [SWE]</td></tr><tr><td> 10</td><td>Persson 5557, Fredrik [SWE]</td><td>Lost 0-2</td><td>vs.</td><td>Floderus, Anders [SWE]</td></tr><tr><td> 11</td><td>Sigurdsson, Ragnar [ISL]</td><td>Won 2-0</td><td>vs.</td><td>Hitz, Michael [CHE]</td></tr><tr><td> 12</td><td>Jönsson, Andreas [SWE]</td><td>Won 2-1</td><td>vs.</td><td>Mortensen, Pål Berg [NOR]</td></tr><tr><td> 13</td><td>Oberg, Kenny [SWE]</td><td>Lost 0-2</td><td>vs.</td><td>Espensen, Espen [SWE]</td></tr><tr><td> 14</td><td>Høglund, Kim [NOR]</td><td>Lost 1-2</td><td>vs.</td><td>Dahl, Tina [DNK]</td></tr><tr><td> 15</td><td>Vindoy, Audun [NOR]</td><td>Lost 0-2</td><td>vs.</td><td>Larsson, Joel [SWE]</td></tr><tr><td> 16</td><td>Kask, Rasmus [EST]</td><td>Lost 0-2</td><td>vs.</td><td>Dang, Martin P [DNK]</td></tr><tr><td> 17</td><td>Schultze, Max [DEU]</td><td>Lost 0-2</td><td>vs.</td><td>Gajewski, Michal [POL]</td></tr><tr><td> 18</td><td>Pedersen, Erik Dyhr [DNK]</td><td>Lost 1-2</td><td>vs.</td><td>Reale, Riccardo [ITA]</td></tr><tr><td> 19</td><td>Skärlund, Harry [SWE]</td><td>Won 2-0</td><td>vs.</td><td>Martinez, Alexis [ESP]</td></tr><tr><td> 20</td><td>Englund, Simon E [SWE]</td><td>Won 2-0</td><td>vs.</td><td>Karlsson, Rasmus [SWE]</td></tr><tr><td> 21</td><td>Berg, Edvin [SWE]</td><td>Lost 0-2</td><td>vs.</td><td>Stok, Alex L [NLD]</td></tr><tr><td> 22</td><td>Pakka, Esko [FIN]</td><td>Won 2-0</td><td>vs.</td><td>Põldsam, Ismo [EST]</td></tr><tr><td> 23</td><td>Messow, Philip [DEU]</td><td>Lost 1-2</td><td>vs.</td><td>Zander, Bernhard [SWE]</td></tr><tr><td> 24</td><td>Lundberg, Robin [SWE]</td><td>Lost 1-2</td><td>vs.</td><td>Molin, Christian [SWE]</td></tr><tr><td> 25</td><td>Ziegner, Mark [DEU]</td><td>Won 2-1</td><td>vs.</td><td>Bergen, Wesley [NLD]</td></tr><tr><td> 26</td><td>Angeli, Alessio [ITA]</td><td>Won 2-0</td><td>vs.</td><td>Rood, Dennis [DEU]</td></tr><tr><td> 27</td><td>Radloff, Tobias [DEU]</td><td>Won 2-0</td><td>vs.</td><td>Asanov, Marat [RUS]</td></tr><tr><td> 28</td><td>Christensen, Oscar [DNK]</td><td>Won 2-0</td><td>vs.</td><td>Utzon, Mads [DNK]</td></tr><tr><td> 29</td><td>Forestier, Nicolas [FRA]</td><td>Won 2-0</td><td>vs.</td><td>Wehner, Lasse W [DNK]</td></tr><tr><td> 30</td><td>Milis, Michael [BEL]</td><td>Lost 0-2</td><td>vs.</td><td>Telarov, Aleksa [SCG]</td></tr><tr><td> 31</td><td>Schwarz, Stephan [DEU]</td><td>Lost 1-2</td><td>vs.</td><td>Le Briand, Loic [FRA]</td></tr><tr><td> 32</td><td>Driessen, Thomas [NLD]</td><td>Won 2-0</td><td>vs.</td><td>Klevtsov, Alexander [RUS]</td></tr><tr><td> 33</td><td>Summersberger, Helmut [AUT]</td><td>Won 2-0</td><td>vs.</td><td>Mueller, Andre [DEU]</td></tr><tr><td> 34</td><td>Greenwood, David M [ENG]</td><td>Lost 0-2</td><td>vs.</td><td>Andersen, Emil [DNK]</td></tr><tr><td> 35</td><td>Perin, Lionel [FRA]</td><td>Lost 1-2</td><td>vs.</td><td>Disenborg, Johan [SWE]</td></tr><tr><td> 36</td><td>Van Holsbeeck, Kristof [BEL]</td><td>Won 2-0</td><td>vs.</td><td>Persson, Christoffer [SWE]</td></tr><tr><td> 37</td><td>Feyand, Florian F [DEU]</td><td>Lost 0-2</td><td>vs.</td><td>Hodzic, Said [SWE]</td></tr><tr><td> 38</td><td>Larsson, David K [SWE]</td><td>Won 2-0</td><td>vs.</td><td>Liljefeldt, Olle M [SWE]</td></tr><tr><td> 39</td><td>Vila, Ferran F [ESP]</td><td>Won 2-0</td><td>vs.</td><td>Hall, Felix [SWE]</td></tr><tr><td> 40</td><td>Thorén, Jens [SWE]</td><td>Won 2-1</td><td>vs.</td><td>Karlsen, Markus Alexan [NOR]</td></tr><tr><td> 41</td><td>Fagerberg, Nils [SWE]</td><td>Lost 1-2</td><td>vs.</td><td>Ljungberg, Ludwig [SWE]</td></tr><tr><td> 42</td><td>Van Der Vegt, Jan [NLD]</td><td>Won 2-0</td><td>vs.</td><td>Severin, Thoralf [DEU]</td></tr><tr><td> 43</td><td>Hjembæk, Jesper [DNK]</td><td>Won 2-1</td><td>vs.</td><td>Habtezion, Jonatan [SWE]</td></tr><tr><td> 44</td><td>Kieckhäfer, Ferdinand [DEU]</td><td>Won 2-0</td><td>vs.</td><td>Jansson, Simon [SWE]</td></tr><tr><td> 45</td><td>Radesater, Tobias [SWE]</td><td>Lost 0-2</td><td>vs.</td><td>Wall, Oscar [SWE]</td></tr><tr><td> 46</td><td>Ulfendhal, Christian [SWE]</td><td>Lost 0-2</td><td>vs.</td><td>Smith, Jake [ENG]</td></tr><tr><td> 47</td><td>Westberg, Jon [SWE]</td><td>Lost 0-2</td><td>vs.</td><td>Davidsson, Simon [SWE]</td></tr><tr><td> 48</td><td>Mellberg, Eric [SWE]</td><td>Won 2-0</td><td>vs.</td><td>Elfgren, Bertil [SWE]</td></tr><tr><td> 49</td><td>Björklund, Mattias [SWE]</td><td>Won 2-1</td><td>vs.</td><td>Israelsson, Daniel [SWE]</td></tr><tr><td> 50</td><td>Janse, Love [SWE]</td><td>Lost 1-2</td><td>vs.</td><td>Nyberg, Gusten [SWE]</td></tr><tr><td> 51</td><td>Kin, Jedrzej [POL]</td><td>Won 2-0</td><td>vs.</td><td>Hansen, Magnus [DNK]</td></tr><tr><td> 52</td><td>Tomici, Sergio [ITA]</td><td>Lost 0-2</td><td>vs.</td><td>Dictus, Mark [BEL]</td></tr><tr><td> 53</td><td>Nielsen, Simon [DNK]</td><td>Won 2-0</td><td>vs.</td><td>Jocumsen, Bjørn P [NOR]</td></tr><tr><td> 54</td><td>Bouchaib, Messaoud [SWE]</td><td>Lost 0-2</td><td>vs.</td><td>Melin, Anders [SWE]</td></tr><tr><td> 55</td><td>Linden, Mikael N [SWE]</td><td>Lost 1-2</td><td>vs.</td><td>Lehner, Bernhard [AUT]</td></tr><tr><td> 56</td><td>Karlsson, Robin [SWE]</td><td>Lost 1-2</td><td>vs.</td><td>Kjellström, Gustav [SWE]</td></tr><tr><td> 57</td><td>Eriksson, Niklas [SWE]</td><td>Won 2-0</td><td>vs.</td><td>Rugtveit, Marius [NOR]</td></tr><tr><td> 58</td><td>Sköld, Oskar [SWE]</td><td>Won 2-0</td><td>vs.</td><td>Boudaoud, Hakim M [FRA]</td></tr><tr><td> 59</td><td>Cammilluzzi, Marco [ITA]</td><td>Won 2-0</td><td>vs.</td><td>Shrout, Andrew T [USA]</td></tr><tr><td> 60</td><td>Steinborn, Robin [DEU]</td><td>Won 2-1</td><td>vs.</td><td>Bjørnerud, Sveinung [NOR]</td></tr><tr><td> 61</td><td>Varhimo, Antti [FIN]</td><td>Won 2-0</td><td>vs.</td><td>Skjetne, Endre H [NOR]</td></tr><tr><td> 62</td><td>Törnros, Mats [SWE]</td><td>Won 2-1</td><td>vs.</td><td>Brolin, Nisse [SWE]</td></tr><tr><td> 63</td><td>Haugum, Andreas [NOR]</td><td>Lost 1-2</td><td>vs.</td><td>Rachid, Denniz [SWE]</td></tr><tr><td> 64</td><td>Korsell, Samuel [SWE]</td><td>Lost 1-2</td><td>vs.</td><td>Olsson, Marcus [SWE]</td></tr></tbody></table>

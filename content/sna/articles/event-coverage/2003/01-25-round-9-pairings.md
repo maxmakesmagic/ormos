@@ -1,0 +1,47 @@
+---
+id: 57fy7tcg
+kind: event
+lang: sna
+path: /sna/articles/event-coverage/2003/01-25-round-9-pairings
+title: Round 9 Pairings
+published: '2003-01-25'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: sna
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-9-pairings-2003-01-25
+    lang_detected: sna
+    capture_id: 575759
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-9-pairings-2003-01-25
+    captured_at: '2017-11-01 01:31:00+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-9-pairings-2003-01-25
+    lang_detected: sna
+    capture_id: 575759
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-9-pairings-2003-01-25
+    captured_at: '2017-11-01 01:31:00+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: 57fy7tcg
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-9-pairings-2003-01-25
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/round-9-pairings-2003-01-25
+  lang: sna
+  template: drupal
+  captured_at: '2017-11-01 01:31:00+00'
+  capture_id: 575759
+  wayback_url: https://web.archive.org/web/20171101013100id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-9-pairings-2003-01-25
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 57fy7tcg
+  capture_id: 575759
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-9-pairings-2003-01-25
+  wayback_url: https://web.archive.org/web/20171101013100id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-9-pairings-2003-01-25
+  captured_at: '2017-11-01 01:31:00+00'
+  template: drupal
+  sha256: 0f8b234eec325a0c5f8436d832af2486c999184753f121eaac67066a83bfde24
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Points</b></td><td><b></b></td><td><b>Opponent</b></td><td><b>Points</b></td></tr><tr><td> 1</td><td>Kinoshita, Junichi</td><td> 24</td><td>vs.</td><td>Fujita, Tsuyoshi</td><td> 24</td></tr><tr><td> 2</td><td>Umeno, Yosihiro</td><td> 24</td><td>vs.</td><td>Hwang, Chi-Chung C.</td><td> 21</td></tr><tr><td> 3</td><td>Arita, Ryuichi</td><td> 21</td><td>vs.</td><td>Mikawa, Kazuya</td><td> 21</td></tr><tr><td> 4</td><td>Hirosawa, Yuuta</td><td> 21</td><td>vs.</td><td>Itou, Akitsugu</td><td> 21</td></tr><tr><td> 5</td><td>Nakamura, Shuuhei</td><td> 21</td><td>vs.</td><td>Lee, Ji-hoon</td><td> 21</td></tr><tr><td> 6</td><td>Mukuno, Yuuji</td><td> 21</td><td>vs.</td><td>Sasanuma, Kiyoshi</td><td> 21</td></tr><tr><td> 7</td><td>Higaki, Takao</td><td> 21</td><td>vs.</td><td>Furuichi, Takenori</td><td> 21</td></tr><tr><td> 8</td><td>Kato, Kazuki</td><td> 19</td><td>vs.</td><td>Takahashi, Kenji</td><td> 19</td></tr><tr><td> 9</td><td>Ueno, Kazuki</td><td> 19</td><td>vs.</td><td>Asahara, Akira</td><td> 19</td></tr><tr><td> 10</td><td>Higashino, Masayuki</td><td> 19</td><td>vs.</td><td>Nakano, Yoshitaka</td><td> 19</td></tr><tr><td> 11</td><td>Okita, Kenichiro</td><td> 19</td><td>vs.</td><td>Ito, Yuichi</td><td> 19</td></tr><tr><td> 12</td><td>Mori, Katsuhiro</td><td> 19</td><td>vs.</td><td>Ando, Nobuhiro</td><td> 19</td></tr><tr><td> 13</td><td>Onishi, Kouji</td><td> 19</td><td>vs.</td><td>Tanaka, Kazuyuki</td><td> 19</td></tr><tr><td> 14</td><td>Nishimura, Norihito</td><td> 19</td><td>vs.</td><td>Okada, Hiroaki</td><td> 19</td></tr><tr><td> 15</td><td>Komiyama, Hideki</td><td> 19</td><td>vs.</td><td>Jisang, Kang</td><td> 19</td></tr><tr><td> 16</td><td>Ikedo, Masakazu</td><td> 19</td><td>vs.</td><td>Yuasa, Kentarou</td><td> 19</td></tr><tr><td> 17</td><td>Takagi, Takeshi</td><td> 18</td><td>vs.</td><td>Kawasaki, Yasuhiro</td><td> 18</td></tr><tr><td> 18</td><td>Taru, Genki</td><td> 18</td><td>vs.</td><td>Yun, Suhan</td><td> 18</td></tr><tr><td> 19</td><td>Ikeda, Kei</td><td> 18</td><td>vs.</td><td>Nakauchi, Mayumi</td><td> 18</td></tr><tr><td> 20</td><td>Ishida, Itaru</td><td> 18</td><td>vs.</td><td>Nomiti, Hideki</td><td> 18</td></tr><tr><td> 21</td><td>Hojo, Naomasa</td><td> 18</td><td>vs.</td><td>Kakumae, Teruya</td><td> 18</td></tr><tr><td> 22</td><td>Iwai, Tsuyoshi</td><td> 18</td><td>vs.</td><td>Fujita, Osamu</td><td> 18</td></tr><tr><td> 23</td><td>Ikeda, Tsuyoshi</td><td> 18</td><td>vs.</td><td>Nose, Koji</td><td> 18</td></tr><tr><td> 24</td><td>Nakajima, Jun-Ichi</td><td> 18</td><td>vs.</td><td>Kobashi, Hideto</td><td> 18</td></tr><tr><td> 25</td><td>Kasima, Akihiro</td><td> 18</td><td>vs.</td><td>Matoba, Takashi</td><td> 18</td></tr><tr><td> 26</td><td>Nobushita, Jun</td><td> 18</td><td>vs.</td><td>Tabuchi, Atsushi</td><td> 18</td></tr><tr><td> 27</td><td>Morita, Masahiko</td><td> 18</td><td>vs.</td><td>Ohbayashi, Naoki</td><td> 18</td></tr><tr><td> 28</td><td>Iwasaki, Akira</td><td> 18</td><td>vs.</td><td>Azuma, Motokiyo</td><td> 18</td></tr><tr><td> 29</td><td>Nakamura, Satoshi</td><td> 18</td><td>vs.</td><td>Tashiro, Yoshiaki</td><td> 18</td></tr><tr><td> 30</td><td>Osaki, Motohiro</td><td> 18</td><td>vs.</td><td>Mihara, Makihito</td><td> 18</td></tr><tr><td> 31</td><td>Terasawa, Kazuya</td><td> 18</td><td>vs.</td><td>Shikatake, Naoki</td><td> 18</td></tr><tr><td> 32</td><td>Maeba, Hideaki</td><td> 18</td><td>vs.</td><td>Yano, Ryuji</td><td> 18</td></tr></tbody></table>

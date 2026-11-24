@@ -1,0 +1,47 @@
+---
+id: 2p60bhpq
+kind: event
+lang: en
+path: /en/articles/event-coverage/2007/12-16-round-14-pairings
+title: Round 14 Pairings
+published: '2007-12-16'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-14-pairings-2007-12-16
+    lang_detected: en
+    capture_id: 508916
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-14-pairings-2007-12-16
+    captured_at: '2021-10-15 20:41:55+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-14-pairings-2007-12-16
+    lang_detected: en
+    capture_id: 508916
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-14-pairings-2007-12-16
+    captured_at: '2021-10-15 20:41:55+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: 2p60bhpq
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-14-pairings-2007-12-16
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/round-14-pairings-2007-12-16
+  lang: en
+  template: drupal
+  captured_at: '2021-10-15 20:41:55+00'
+  capture_id: 508916
+  wayback_url: https://web.archive.org/web/20211015204155id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-14-pairings-2007-12-16
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 2p60bhpq
+  capture_id: 508916
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-14-pairings-2007-12-16
+  wayback_url: https://web.archive.org/web/20211015204155id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-14-pairings-2007-12-16
+  captured_at: '2021-10-15 20:41:55+00'
+  template: drupal
+  sha256: dc96722936116b42680f70a4f951717357eadba9ee7c1ed9735b54e9c4233b31
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Points</b></td><td><b>&#10;						</b></td><td><b>Opponent</b></td><td><b>Points</b></td></tr><tr><td> 1</td><td>Rohner, Omar [ESP]</td><td> 28</td><td>vs.</td><td>Randle, Jonathan [DEU]</td><td> 28</td></tr><tr><td> 2</td><td>Mazzurco, Carlo [DEU]</td><td> 28</td><td>vs.</td><td>Joens, Klaus [DEU]</td><td> 27</td></tr><tr><td> 3</td><td>Grover, James A [DEU]</td><td> 24</td><td>vs.</td><td>Leka, Laszlo [HUN]</td><td> 24</td></tr><tr><td> 4</td><td>Fehr, Christian [CHE]</td><td> 24</td><td>vs.</td><td>Clemedtson, Chritopher [SWE]</td><td> 24</td></tr><tr><td> 5</td><td>Kocks, Sung [BEL]</td><td> 27</td><td>vs.</td><td>Reitbauer, David E [AUT]</td><td> 27</td></tr><tr><td> 6</td><td>Schneiber, Benedikt [AUT]</td><td> 25</td><td>vs.</td><td>Summersberger, Helmut [AUT]</td><td> 25</td></tr><tr><td> 7</td><td>Spode, Matthias [DEU]</td><td> 24</td><td>vs.</td><td>Bokor, Peter [HUN]</td><td> 21</td></tr><tr><td> 8</td><td>Vogt, Marc [DEU]</td><td> 36</td><td>vs.</td><td>Bergström, Jonathan [SWE]</td><td> 36</td></tr><tr><td> 9</td><td>Calafell, Joel [ESP]</td><td> 33</td><td>vs.</td><td>Rohde, Karl Heinz [DEU]</td><td> 33</td></tr><tr><td> 10</td><td>Boehmler, Aaron [DEU]</td><td> 33</td><td>vs.</td><td>Preto, Sérgio [PRT]</td><td> 33</td></tr><tr><td> 11</td><td>Stradner, Stefan [AUT]</td><td> 33</td><td>vs.</td><td>Dolstra, Menno [NLD]</td><td> 33</td></tr><tr><td> 12</td><td>Surkamp, Florian [DEU]</td><td> 28</td><td>vs.</td><td>Southcott, Guy [DEU]</td><td> 28</td></tr><tr><td> 13</td><td>Ritter, Simon [DEU]</td><td> 30</td><td>vs.</td><td>Zidek, Arnost [CZE]</td><td> 30</td></tr><tr><td> 14</td><td>De Wael, Tom [BEL]</td><td> 27</td><td>vs.</td><td>Dahlke, Philipp [DEU]</td><td> 27</td></tr><tr><td> 15</td><td>Bourdoux, Arnaud [BEL]</td><td> 30</td><td>vs.</td><td>Van Riet, Luis [BEL]</td><td> 30</td></tr><tr><td> 16</td><td>Meissner, Patrick [DEU]</td><td> 27</td><td>vs.</td><td>Kopec, Mateusz [POL]</td><td> 27</td></tr><tr><td> 17</td><td>Wallner, Johann [DEU]</td><td> 27</td><td>vs.</td><td>Manuel, Marco [PRT]</td><td> 26</td></tr><tr><td> 18</td><td>Görtzen, Simon M [DEU]</td><td> 28</td><td>vs.</td><td>Coleman, Ben [DEU]</td><td> 28</td></tr><tr><td> 19</td><td>Sajgalik, Eduardo [FRA]</td><td> 27</td><td>vs.</td><td>Jährling, Torben [DEU]</td><td> 27</td></tr><tr><td> 20</td><td>Vaglin, Mattias [SWE]</td><td> 27</td><td>vs.</td><td>Krieger, Philipp [DEU]</td><td> 27</td></tr><tr><td> 21</td><td>Goh, Gavin [DEU]</td><td> 24</td><td>vs.</td><td>Barclay, Allan [NZL]</td><td> 24</td></tr><tr><td> 22</td><td>Fuentes, Samuel [DEU]</td><td> 24</td><td>vs.</td><td>Erinin, Dimityr A [BGR]</td><td> 22</td></tr><tr><td> 23</td><td>Samuele, Estratti [ITA]</td><td> 24</td><td>vs.</td><td>Buggeneers, Lorenz [BEL]</td><td> 24</td></tr><tr><td> 24</td><td>Oberg, Kenny [SWE]</td><td> 34</td><td>vs.</td><td>Martin, Vasicek [SVK]</td><td> 33</td></tr><tr><td> 25</td><td>Lefebvre, Gaetan [FRA]</td><td> 30</td><td>vs.</td><td>Ruel, Olivier [FRA]</td><td> 30</td></tr><tr><td> 26</td><td>Gardill, Joerg A [DEU]</td><td> 30</td><td>vs.</td><td>Sovago, Philipp [AUT]</td><td> 30</td></tr><tr><td> 27</td><td>Golia, Patrizio [ITA]</td><td> 33</td><td>vs.</td><td>Grafensteiner, Daniel [DEU]</td><td> 31</td></tr><tr><td> 28</td><td>Farkas, Andrej [SVK]</td><td> 28</td><td>vs.</td><td>Lombardi, Paolo B [ITA]</td><td> 28</td></tr><tr><td> 29</td><td>Gregoir, Christophe [BEL]</td><td> 30</td><td>vs.</td><td>Wafo-tapa, Guillaume [FRA]</td><td> 30</td></tr><tr><td> 30</td><td>Pereira, Nuno J [PRT]</td><td> 27</td><td>vs.</td><td>Verbeken, Dirk [BEL]</td><td> 27</td></tr><tr><td> 31</td><td>Ortega, Andres A [ESP]</td><td> 27</td><td>vs.</td><td>Garcia Copete, David [ESP]</td><td> 27</td></tr><tr><td> 32</td><td>Nahodil, Petr [CZE]</td><td> 30</td><td>vs.</td><td>Kapalas, Georgios [GRC]</td><td> 30</td></tr><tr><td> 33</td><td>Klaue, Alexander [DEU]</td><td> 30</td><td>vs.</td><td>Ganz, Andreas [CHE]</td><td> 29</td></tr><tr><td> 34</td><td>Oey, Oliver [DEU]</td><td> 25</td><td>vs.</td><td>Mueller, Andre [DEU]</td><td> 24</td></tr><tr><td> 35</td><td>Bäz, Andre [DEU]</td><td> 27</td><td>vs.</td><td>Sznigir, Filip [POL]</td><td> 27</td></tr><tr><td> 36</td><td>Bonnet, Remi [FRA]</td><td> 27</td><td>vs.</td><td>Mosholen, André [DEU]</td><td> 27</td></tr><tr><td> 37</td><td>Avsec, Anze [SVN]</td><td> 24</td><td>vs.</td><td>Holtz, Jens [CHE]</td><td> 24</td></tr><tr><td> 38</td><td>Schraut, Andreas [DEU]</td><td> 27</td><td>vs.</td><td>Diez, Mikel [ESP]</td><td> 25</td></tr><tr><td> 39</td><td>Hoaen, Richard G [CAN]</td><td> 33</td><td>vs.</td><td>Nakamura, Shuuhei [JPN]</td><td> 31</td></tr><tr><td> 40</td><td>Lybaert, Marijn [BEL]</td><td> 30</td><td>vs.</td><td>Ruess, Jan H [DEU]</td><td> 30</td></tr><tr><td> 41</td><td>Levy, Raphael [FRA]</td><td> 33</td><td>vs.</td><td>Meulders, Fried [BEL]</td><td> 33</td></tr><tr><td> 42</td><td>Fischer, Stefan [AUT]</td><td> 30</td><td>vs.</td><td>Theunis, Johan [BEL]</td><td> 29</td></tr><tr><td> 43</td><td>Biessmann, Oliver [DEU]</td><td> 31</td><td>vs.</td><td>Saitou, Tomoharu [JPN]</td><td> 31</td></tr><tr><td> 44</td><td>De Sio, Jakub [CZE]</td><td> 27</td><td>vs.</td><td>Dorle, Anthony [FRA]</td><td> 27</td></tr><tr><td> 45</td><td>Salvin, Jean Charles [FRA]</td><td> 30</td><td>vs.</td><td>Juza, Martin [CZE]</td><td> 30</td></tr><tr><td> 46</td><td>Hermann, Manfred [DEU]</td><td> 30</td><td>vs.</td><td>Strom, Tobias [SWE]</td><td> 30</td></tr><tr><td> 47</td><td>Kocsis, Gabor [HUN]</td><td> 27</td><td>vs.</td><td>Sanchez, Eugeni [ESP]</td><td> 27</td></tr><tr><td> 48</td><td>Fuchs, Lucas A [AUT]</td><td> 25</td><td>vs.</td><td>Konrady, Benjamin W [USA]</td><td> 25</td></tr><tr><td> 49</td><td>Boerschinger, Holger [DEU]</td><td> 25</td><td>vs.</td><td>Bauschbach, Philip [DEU]</td><td> 25</td></tr><tr><td> 50</td><td>Rispal, Jonathan [FRA]</td><td> 27</td><td>vs.</td><td>Gruenenwald, Christian [DEU]</td><td> 27</td></tr><tr><td> 51</td><td>Porojan, Raul [DEU]</td><td> 36</td><td>vs.</td><td>Van Medevoort, Robert [NLD]</td><td> 36</td></tr><tr><td> 52</td><td>Doise, Jan [BEL]</td><td> 33</td><td>vs.</td><td>Wolf, Christopher [AUT]</td><td> 33</td></tr><tr><td> 53</td><td>Kohl, Reinhold [DEU]</td><td> 30</td><td>vs.</td><td>Ziesche, Sebastian [DEU]</td><td> 30</td></tr><tr><td> 54</td><td>Bartuska, Arved [AUT]</td><td> 30</td><td>vs.</td><td>Aubert, Alban [FRA]</td><td> 30</td></tr><tr><td> 55</td><td>Steinert, Roman [DEU]</td><td> 31</td><td>vs.</td><td>Nassif, Gabriel [FRA]</td><td> 30</td></tr><tr><td> 56</td><td>Wolfensberger, Daniel [CHE]</td><td> 27</td><td>vs.</td><td>Fromm, Felix [DEU]</td><td> 27</td></tr><tr><td> 57</td><td>Blohon, Lucas [CZE]</td><td> 30</td><td>vs.</td><td>Bode, Roland [DEU]</td><td> 30</td></tr><tr><td> 58</td><td>Grafensteiner, Tobias [DEU]</td><td> 27</td><td>vs.</td><td>Buhl, Eric [FRA]</td><td> 27</td></tr><tr><td> 59</td><td>Eger, Markus [AUT]</td><td> 30</td><td>vs.</td><td>Meckel, Christian [DEU]</td><td> 30</td></tr><tr><td>&#10;					</td><td>Trallero, Ivan [ESP]</td><td> 22</td><td>&#10;					</td><td>* BYE * Pod 15</td><td></td></tr><tr><td>&#10;					</td><td>Kobliha, Jan [CZE]</td><td> 21</td><td>&#10;					</td><td>* BYE * Pod 16</td><td></td></tr><tr><td>&#10;					</td><td>Sommerlade, Jan Philip [DEU]</td><td> 24</td><td>&#10;					</td><td>* BYE * Pod 12</td><td></td></tr></tbody></table>

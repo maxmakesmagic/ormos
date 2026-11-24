@@ -1,0 +1,55 @@
+---
+id: 0z40ney1
+kind: event
+lang: it
+path: /it/events/2015/gplil15/round-13-results
+title: ROUND 13 RESULTS
+published: '2015-07-05'
+column_slug: null
+column: null
+authors: []
+event_code: gplil15
+detected_lang: it
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/events/coverage/gplil15/round-13-results-2015-07-05
+    lang_detected: it
+    capture_id: 63242
+    url: http://magic.wizards.com/en/events/coverage/gplil15/round-13-results-2015-07-05
+    captured_at: '2015-09-13 16:46:36+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/events/coverage/gplil15/round-13-results-2015-07-05
+    lang_detected: it
+    capture_id: 63242
+    url: http://magic.wizards.com/en/events/coverage/gplil15/round-13-results-2015-07-05
+    captured_at: '2015-09-13 16:46:36+00'
+    rule: drupal.posted_in_date
+  event_code:
+    page_key: magic.wizards.com/en/events/coverage/gplil15/round-13-results-2015-07-05
+    lang_detected: it
+    capture_id: 63242
+    url: http://magic.wizards.com/en/events/coverage/gplil15/round-13-results-2015-07-05
+    captured_at: '2015-09-13 16:46:36+00'
+    rule: url.event_code
+sources:
+- document_id: 0z40ney1
+  url: http://magic.wizards.com/en/events/coverage/gplil15/round-13-results-2015-07-05
+  page_key: magic.wizards.com/en/events/coverage/gplil15/round-13-results-2015-07-05
+  lang: it
+  template: drupal
+  captured_at: '2015-09-13 16:46:36+00'
+  capture_id: 63242
+  wayback_url: https://web.archive.org/web/20150913164636id_/http://magic.wizards.com/en/events/coverage/gplil15/round-13-results-2015-07-05
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 0z40ney1
+  capture_id: 63242
+  url: http://magic.wizards.com/en/events/coverage/gplil15/round-13-results-2015-07-05
+  wayback_url: https://web.archive.org/web/20150913164636id_/http://magic.wizards.com/en/events/coverage/gplil15/round-13-results-2015-07-05
+  captured_at: '2015-09-13 16:46:36+00'
+  template: drupal
+  sha256: d24bbf3d8ba80b73c44125a0ed003d97ec2ec0715076e1b0261a84a4aac8c968
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Result</b></td><td><b> </b></td><td><b>Opponent</b></td></tr><tr><td>  1</td><td>Sochurek, Petr [CZE]</td><td>Lost 0-2</td><td>vs.</td><td>Bonanni, Claudio [ITA]</td></tr><tr><td>  2</td><td>neirynck, branco [BEL]</td><td>Lost 1-2</td><td>vs.</td><td>Boucek, Jaroslav [CZE]</td></tr><tr><td>  3</td><td>Van der Paelt, Thomas [BEL]</td><td>Won  2-1</td><td>vs.</td><td>Brusaferri, Matteo [ITA]</td></tr><tr><td>  4</td><td>VARDARAMATOS, SPIROS [GRC]</td><td>Lost 0-2</td><td>vs.</td><td>Alsheimer, Christoph [DEU]</td></tr><tr><td>  5</td><td>Holzschneider, Kai [DEU]</td><td>Lost 0-2</td><td>vs.</td><td>Nielsen, Martin [DNK]</td></tr><tr><td>  6</td><td>Vonasek, Martin [CZE]</td><td>Won  2-1</td><td>vs.</td><td>Peretz, Daniel [DNK]</td></tr><tr><td>  7</td><td>Ellingsen, Mats Ole Al [NOR]</td><td>Won  2-0</td><td>vs.</td><td>Knoll, Jonas [DEU]</td></tr><tr><td>  8</td><td>Kesseler, Marco [DEU]</td><td>Won  2-0</td><td>vs.</td><td>Fidziñski, Maciej [POL]</td></tr><tr><td>  9</td><td>THOLANCE, NICOLAS [FRA]</td><td>Lost 1-2</td><td>vs.</td><td>Cooman, Andy [NLD]</td></tr><tr><td> 10</td><td>Collomb-Muret, Frédéri [FRA]</td><td>Won  2-1</td><td>vs.</td><td>Dudognon, Yohan [FRA]</td></tr><tr><td> 11</td><td>Le Briand, Loic [FRA]</td><td>Lost 1-2</td><td>vs.</td><td>Potier, Julien [FRA]</td></tr><tr><td> 12</td><td>RUEL, Olivier [FRA]</td><td>Won  2-0</td><td>vs.</td><td>Larsen, Christoffer E [DNK]</td></tr><tr><td> 13</td><td>Rayner, Andrew [ENG]</td><td>Drew 1-1-1</td><td>vs.</td><td>Law, Tom [ENG]</td></tr><tr><td> 14</td><td>Sawatari, Kai [JPN]</td><td>Lost 1-2</td><td>vs.</td><td>Saito, Tomoharu [JPN]</td></tr><tr><td> 15</td><td>Sánchez, Ricardo [ESP]</td><td>Won  2-0</td><td>vs.</td><td>Lauri, Pispa [FIN]</td></tr><tr><td> 16</td><td>Dagen, Pierre [FRA]</td><td>Won  2-0</td><td>vs.</td><td>Chiche, Kevin [FRA]</td></tr><tr><td> 17</td><td>Kronberger, Niklas [DEU]</td><td>Lost 1-2</td><td>vs.</td><td>Gregoir, christophe [BEL]</td></tr><tr><td> 18</td><td>Rizzi, Nicolo [ITA]</td><td>Won  2-0</td><td>vs.</td><td>Schneider, Mischa [CHE]</td></tr><tr><td> 19</td><td>Alex, Mortimer [ENG]</td><td>Won  2-0</td><td>vs.</td><td>Hercezi, Mario [SVN]</td></tr><tr><td> 20</td><td>Euser, Kasper [NLD]</td><td>Won  2-0</td><td>vs.</td><td>Riccio, Stefano [ISR]</td></tr><tr><td> 21</td><td>Lamzin, Sergey [RUS]</td><td>Won  2-0</td><td>vs.</td><td>Reuschel, Christian [DEU]</td></tr><tr><td> 22</td><td>Berna, Brice [FRA]</td><td>Lost 0-2</td><td>vs.</td><td>Gonzalez, Serafin [ESP]</td></tr><tr><td> 23</td><td>Heidemueller, Susann [IRL]</td><td>Won  2-1</td><td>vs.</td><td>McHugh, Evan [IRL]</td></tr><tr><td> 24</td><td>Mar, Tomas [CZE]</td><td>Won  2-1</td><td>vs.</td><td>Tetzlaff, Leonard [DEU]</td></tr><tr><td> 25</td><td>Perez, Ruben [ESP]</td><td>Won  2-0</td><td>vs.</td><td>Schulhof, leo [FRA]</td></tr><tr><td> 26</td><td>Jebali, Alaiddine [FRA]</td><td>Lost 1-2</td><td>vs.</td><td>Hostettler, Christophe [FRA]</td></tr><tr><td> 27</td><td>Goldberg, Nicolas [FRA]</td><td>Won  2-0</td><td>vs.</td><td>Moral, Carlos [ESP]</td></tr><tr><td> 28</td><td>Wagner, Kevin [DEU]</td><td>Lost 0-2</td><td>vs.</td><td>schuetz, stefan [AUT]</td></tr><tr><td> 29</td><td>Descamps, Benjamin [BEL]</td><td>Lost 0-2</td><td>vs.</td><td>Müller, Martin [DNK]</td></tr><tr><td> 30</td><td>Ramsden, Aston [ENG]</td><td>Lost 1-2</td><td>vs.</td><td>Codausi, Karl-Heinz [DEU]</td></tr><tr><td> 31</td><td>Dennis, Scherpenzeel [NLD]</td><td>Won  2-1</td><td>vs.</td><td>Kihl, Mads [NOR]</td></tr><tr><td> 32</td><td>sommen, pierre [FRA]</td><td>Lost 1-2</td><td>vs.</td><td>Von Schönberg, Michael [DEU]</td></tr><tr><td> 33</td><td>Carlouet, Mathieu [FRA]</td><td>Lost 0-2</td><td>vs.</td><td>Cibak, Andrea [ITA]</td></tr><tr><td> 34</td><td>Lévy, Raphael [FRA]</td><td>Lost 1-2</td><td>vs.</td><td>Lopes, Joao [PRT]</td></tr><tr><td> 35</td><td>Hengefeld, Jasper [NLD]</td><td>Lost 0-2</td><td>vs.</td><td>BITTNER, JACQUES [FRA]</td></tr><tr><td> 36</td><td>Mialaret, Gary [FRA]</td><td>Lost 0-2</td><td>vs.</td><td>Blohon, Lukas [CZE]</td></tr><tr><td> 37</td><td>van den Bogaard, Ricar [NLD]</td><td>Lost 1-2</td><td>vs.</td><td>Andrzejewski, Alan [POL]</td></tr><tr><td> 38</td><td>l'hopital, sonia [FRA]</td><td>Lost 0-2</td><td>vs.</td><td>Tolvanen, Juha [FIN]</td></tr><tr><td> 39</td><td>Fuseri, Ivan [ITA]</td><td>Won  2-1</td><td>vs.</td><td>Romano, Luca [ITA]</td></tr><tr><td> 40</td><td>Box, Jesper [NLD]</td><td>Lost 0-2</td><td>vs.</td><td>Rouw, Alex [NLD]</td></tr><tr><td> 41</td><td>Aliberti, Giulio [ITA]</td><td>Lost 0-2</td><td>vs.</td><td>Schrijvers, Alexander [BEL]</td></tr><tr><td> 42</td><td>MANGENOT, Maxime [FRA]</td><td>Lost 1-2</td><td>vs.</td><td>Ketels, Frederik [BEL]</td></tr><tr><td> 43</td><td>Elez, Goran [HRV]</td><td>Won  2-1</td><td>vs.</td><td>Rothen, Christian [CHE]</td></tr><tr><td> 44</td><td>Westlake, Jamie [NLD]</td><td>Won  2-0</td><td>vs.</td><td>Yvetot, Johann [FRA]</td></tr><tr><td> 45</td><td>Hauck, Christian [DEU]</td><td>Won  2-0</td><td>vs.</td><td>Omrcen, Ante [HRV]</td></tr><tr><td> 46</td><td>ROBIN, Mickael [FRA]</td><td>Won  2-0</td><td>vs.</td><td>Giannoulas, Chistos [NLD]</td></tr><tr><td> 47</td><td>Broeke, Luke [NLD]</td><td>Won  2-0</td><td>vs.</td><td>BERTEAUX, Julien [FRA]</td></tr><tr><td> 48</td><td>HOSEJKA, Vadim [FRA]</td><td>Lost 1-2</td><td>vs.</td><td>VITRY, Anthony [FRA]</td></tr><tr><td> 49</td><td>Pedersen, Frederik Hol [DNK]</td><td>Lost 1-2</td><td>vs.</td><td>Ballestin, Daniel [ESP]</td></tr><tr><td> 50</td><td>Zubovich, Stanislau [BLR]</td><td>Lost 0-2</td><td>vs.</td><td>Burchett, Ben [USA]</td></tr><tr><td> 51</td><td>Dolar, Robin [SVN]</td><td>Lost 1-2</td><td>vs.</td><td>CHABRIER, Damien [FRA]</td></tr><tr><td> 52</td><td>Wellinger, Serafin [CHE]</td><td>Won  2-1</td><td>vs.</td><td>Aguzzi, Evan [CHE]</td></tr><tr><td> 53</td><td>pensa, nicolo [ITA]</td><td>Won  2-0</td><td>vs.</td><td>Fischetti, Andrea [ITA]</td></tr><tr><td> 54</td><td>Scaon, Erwan [FRA]</td><td>Lost 1-2</td><td>vs.</td><td>Raabe, David [DEU]</td></tr><tr><td> 55</td><td>Haingärtner, Florian [DEU]</td><td>Won  2-1</td><td>vs.</td><td>Tang, Duncan [ENG]</td></tr><tr><td> 56</td><td>Karlinski, Anton [DEU]</td><td>Lost 0-2</td><td>vs.</td><td>Diem, Lukas [DEU]</td></tr><tr><td> 57</td><td>Grint, Richard [ENG]</td><td>Lost 0-2</td><td>vs.</td><td>Lippmann, Robert [DEU]</td></tr><tr><td> 58</td><td>rivoire, jean-luc [FRA]</td><td>Won  2-0</td><td>vs.</td><td>Patel, Kayure [ENG]</td></tr><tr><td> 59</td><td>horev, ori [ISR]</td><td>Lost 0-2</td><td>vs.</td><td>Pilgaard, Michael Bond [DNK]</td></tr><tr><td> 60</td><td>BAGLIN, ARNAUD [FRA]</td><td>Won  2-0</td><td>vs.</td><td>Molle, Niels [IRL]</td></tr><tr><td> 61</td><td>Pasek, Maciej [POL]</td><td>Won  2-0</td><td>vs.</td><td>Bonaventura, Ciro [ITA]</td></tr><tr><td> 62</td><td>Alveirinho, Joao [PRT]</td><td>Won  2-0</td><td>vs.</td><td>Gilligan, Daniel [IRL]</td></tr><tr><td> 63</td><td>Van Damme, Cliff [BEL]</td><td>Lost 1-2</td><td>vs.</td><td>Lachaud, Rémy [FRA]</td></tr><tr><td> 64</td><td>Berger, Meciek [POL]</td><td>Won  2-0</td><td>vs.</td><td>Pekurinen, Antti [FIN]</td></tr><tr><td> 65</td><td>Siwoñ, Andrzej [POL]</td><td>Lost 1-2</td><td>vs.</td><td>Fortier, Remi [FRA]</td></tr><tr><td> 66</td><td>Pavin, Olivier [FRA]</td><td>Won  2-1</td><td>vs.</td><td>Scherer, Daniel [DEU]</td></tr><tr><td> 67</td><td>QUIEVREUX, ANTOINE [FRA]</td><td>Lost 1-2</td><td>vs.</td><td>Tumpach, Markus [DEU]</td></tr><tr><td> 68</td><td>Kuzmanic, Tomislav [HRV]</td><td>Lost 1-2</td><td>vs.</td><td>Frerard, David [FRA]</td></tr><tr><td> 69</td><td>Rossi, Manuel Carlo [ITA]</td><td>Lost 0-2</td><td>vs.</td><td>Hottmann, Alexander [DEU]</td></tr><tr><td> 70</td><td>Sourcin, Christoph [DEU]</td><td>Won  2-1</td><td>vs.</td><td>MARCHAND, Antoine [FRA]</td></tr><tr><td> 71</td><td>MAZZARESE, ROMAIN [FRA]</td><td>Lost 1-2</td><td>vs.</td><td>Lundberg, Viktor [SWE]</td></tr><tr><td> 72</td><td>Nelson, Andy [ENG]</td><td>Lost 0-2</td><td>vs.</td><td>Kuchta, Tomas [CZE]</td></tr><tr><td> 73</td><td>sobanski, pascal [FRA]</td><td>Lost 1-2</td><td>vs.</td><td>van Nes, Sven [NLD]</td></tr><tr><td> 74</td><td>DAMBRON, Antoine [FRA]</td><td>Won  2-0</td><td>vs.</td><td>Vair, Enrico [ITA]</td></tr><tr><td> 75</td><td>Gutbrod, Johannes [DEU]</td><td>Lost 1-2</td><td>vs.</td><td>VEROUGSTRAETE, Björn [BEL]</td></tr><tr><td> 76</td><td>Simonot, Timothée [FRA]</td><td>Won  2-1</td><td>vs.</td><td>MATTHIESEN, OUILID [FRA]</td></tr><tr><td> 77</td><td>Vnukov, Artem [RUS]</td><td>Lost 0-2</td><td>vs.</td><td>MONET, Yves [FRA]</td></tr><tr><td>   </td><td>Czolk, Stefan [DEU]</td><td> </td><td> </td><td>* BYE *</td></tr></tbody></table>

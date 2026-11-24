@@ -1,0 +1,47 @@
+---
+id: 59t3n5vp
+kind: event
+lang: en
+path: /en/articles/event-coverage/2005/03-13-final-standings
+title: Final Standings
+published: '2005-03-13'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/final-standings-2005-03-13
+    lang_detected: en
+    capture_id: 354137
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/final-standings-2005-03-13
+    captured_at: '2022-01-25 11:14:28+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/final-standings-2005-03-13
+    lang_detected: en
+    capture_id: 354137
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/final-standings-2005-03-13
+    captured_at: '2022-01-25 11:14:28+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: 59t3n5vp
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/final-standings-2005-03-13
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/final-standings-2005-03-13
+  lang: en
+  template: drupal
+  captured_at: '2022-01-25 11:14:28+00'
+  capture_id: 354137
+  wayback_url: https://web.archive.org/web/20220125111428id_/https://magic.wizards.com/en/articles/archive/event-coverage/final-standings-2005-03-13
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 59t3n5vp
+  capture_id: 354137
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/final-standings-2005-03-13
+  wayback_url: https://web.archive.org/web/20220125111428id_/https://magic.wizards.com/en/articles/archive/event-coverage/final-standings-2005-03-13
+  captured_at: '2022-01-25 11:14:28+00'
+  template: drupal
+  sha256: 00f894e500c8b40cb9accd47385d6bb4d04bf4c4090f228fc86bfcda40433a4d
+render_recovery: []
+---
+<table><tbody><tr><td><b>Rank</b></td><td><b>Team</b></td><td><b>Winnings</b></td>&#10;				</tr><tr><td>1</td><td>Nova</td><td>$60,000 </td>&#10;				</tr><tr><td>2</td><td>We Add</td><td>$30,000 </td>&#10;				</tr><tr><td>3</td><td>Les baltringues de Ludipia</td><td>$18,000 </td>&#10;				</tr><tr><td>4</td><td>One Spin</td><td>$16,200 </td>&#10;				</tr><tr><td>5</td><td>No Links</td><td>$12,600 </td>&#10;				</tr><tr><td>6</td><td>Chicken Ranch</td><td>$10,500 </td>&#10;				</tr><tr><td>7</td><td>The Rhinettes</td><td>$8,700 </td>&#10;				</tr><tr><td>8</td><td>Roel hou je smoel</td><td>$7,200 </td>&#10;				</tr><tr><td>9</td><td>Gatas Brilhantes</td><td>$6,000 </td>&#10;				</tr><tr><td>10</td><td>Big-Tyming w/ A.DeRosa</td><td>$5,100 </td>&#10;				</tr><tr><td>11</td><td>Les Pantins Cariou</td><td>$4,200 </td>&#10;				</tr><tr><td>12</td><td>Paul Jordan LOL</td><td>$3,600 </td>&#10;				</tr><tr><td>13</td><td>Last Minute</td><td>$3,300 </td>&#10;				</tr><tr><td>14</td><td>Boat</td><td>$3,000 </td>&#10;				</tr><tr><td>15</td><td>Shonichide Pon</td><td>$2,700 </td>&#10;				</tr><tr><td>16</td><td>Muerte y destruccion</td><td>$2,400 </td>&#10;				</tr><tr><td>17</td><td>Squads, Packs, Souls…</td><td>$2,100 </td>&#10;				</tr><tr><td>18</td><td>V.S.</td><td>$1,800 </td>&#10;				</tr><tr><td>19</td><td>Rosholmarfartillallabarns</td><td>$1,500 </td>&#10;				</tr><tr><td>20</td><td>von Dutch</td><td>$1,200 </td>&#10;				</tr><tr><td>21</td><td>Thaaaat's Me</td><td></td>&#10;				</tr><tr><td>22</td><td>Shermans March</td><td></td>&#10;				</tr><tr><td>23</td><td>Team to Beat</td><td></td>&#10;				</tr><tr><td>24</td><td>Albuquerque Isotopes</td><td></td>&#10;				</tr><tr><td>25</td><td>GG Unit</td><td></td>&#10;				</tr><tr><td>26</td><td>Chris Jarmak</td><td></td>&#10;				</tr><tr><td>27</td><td>NFC</td><td></td>&#10;				</tr><tr><td>28</td><td>The Mark Zadjner All-Stars</td><td></td>&#10;				</tr><tr><td>29</td><td>Richadillyotch</td><td></td>&#10;				</tr><tr><td>30</td><td>Lab Who</td><td></td>&#10;				</tr><tr><td>31</td><td>Daves the Boss</td><td></td>&#10;				</tr><tr><td>32</td><td>Free Yayo</td><td></td>&#10;				</tr><tr><td>33</td><td>Outta Left Field</td><td></td>&#10;				</tr><tr><td>34</td><td>Lord Miguel De La Cippa</td><td></td>&#10;				</tr><tr><td>35</td><td>Chimera</td><td></td>&#10;				</tr><tr><td>36</td><td>He's Not Our Dad</td><td></td>&#10;				</tr><tr><td>37</td><td>Desperate Ritual Seething So</td><td></td>&#10;				</tr><tr><td>38</td><td>Team Work with Josh</td><td></td>&#10;				</tr><tr><td>39</td><td>Hired Muscle</td><td></td>&#10;				</tr><tr><td>40</td><td>Stardust Boys</td><td></td>&#10;				</tr><tr><td>41</td><td>Succession</td><td></td>&#10;				</tr><tr><td>42</td><td>SUPER-STOMPINATORS OF INVINC</td><td></td>&#10;				</tr><tr><td>43</td><td>LNT Super Dario Bros.</td><td></td>&#10;				</tr><tr><td>44</td><td>3 Card Monty</td><td></td>&#10;				</tr><tr><td>45</td><td><a href="http://www.cardshark.com/">www.cardshark.com</a></td><td></td>&#10;				</tr><tr><td>46</td><td>Gee Squared</td><td></td>&#10;				</tr><tr><td>47</td><td>Snert</td><td></td>&#10;				</tr><tr><td>48</td><td>Ligers</td><td></td>&#10;				</tr><tr><td>49</td><td>Bold Calimero Sisters</td><td></td>&#10;				</tr><tr><td>50</td><td>The Real Deal</td><td></td>&#10;				</tr><tr><td>51</td><td>The Dendrologists</td><td></td>&#10;				</tr><tr><td>52</td><td>SOH-SOH-(AND) THE PUNISHER</td><td></td>&#10;				</tr><tr><td>53</td><td>Valencia Yuca</td><td></td>&#10;				</tr><tr><td>54</td><td>$mir</td><td></td>&#10;				</tr><tr><td>55</td><td>Bury team</td><td></td>&#10;				</tr><tr><td>56</td><td>Pocket Rockets</td><td></td>&#10;				</tr><tr><td>57</td><td>Unsponsored</td><td></td>&#10;				</tr><tr><td>58</td><td>Pro Castle Team</td><td></td>&#10;				</tr><tr><td>59</td><td>Rock Paper Scissors</td><td></td>&#10;				</tr><tr><td>60</td><td>N.A.I.</td><td></td>&#10;				</tr><tr><td>61</td><td>Illuminati</td><td></td>&#10;				</tr><tr><td>62</td><td>Top Set</td><td></td>&#10;				</tr><tr><td>63</td><td>KV Deckmasters III</td><td></td>&#10;				</tr><tr><td>64</td><td>I Magnifici</td><td></td>&#10;				</tr><tr><td>65</td><td>The Gee-Bees</td><td></td>&#10;				</tr><tr><td>66</td><td>Fbi</td><td></td>&#10;				</tr><tr><td>67</td><td>CMA Darmstadt V1.30</td><td></td>&#10;				</tr><tr><td>68</td><td>Kleenix Foundation</td><td></td>&#10;				</tr><tr><td>69</td><td><a href="http://www.outpost-gamecenter.be/">www.outpost-gamecenter.be</a></td><td></td>&#10;				</tr><tr><td>70</td><td>Panda Foundation</td><td></td>&#10;				</tr><tr><td>71</td><td>Eteliose</td><td></td>&#10;				</tr><tr><td>72</td><td>Agence Touristes</td><td></td>&#10;				</tr><tr><td>73</td><td>Amigos del Cole</td><td></td>&#10;				</tr><tr><td>74</td><td>Hamburg Hammelpristers</td><td></td>&#10;				</tr><tr><td>75</td><td>152 Snow Ninjas</td><td></td>&#10;				</tr><tr><td>76</td><td>riwhobbies.net</td><td></td>&#10;				</tr><tr><td>77</td><td>His Grumpy</td><td></td>&#10;				</tr><tr><td>78</td><td>I Blame Bung</td><td></td>&#10;				</tr><tr><td>79</td><td>Eight and a Half Dales</td><td></td>&#10;				</tr><tr><td>80</td><td>:B</td><td></td>&#10;				</tr><tr><td>81</td><td>Smaaash</td><td></td>&#10;				</tr><tr><td>82</td><td>Static Posse</td><td></td>&#10;				</tr><tr><td>83</td><td>RIW Redux</td><td></td>&#10;				</tr><tr><td>84</td><td>The Max Fischer PLayers</td><td></td>&#10;				</tr><tr><td>85</td><td>Aes Sedai</td><td></td>&#10;				</tr><tr><td>86</td><td>Cosmopolis</td><td></td>&#10;				</tr><tr><td>87</td><td>Grandad's Day Out</td><td></td>&#10;				</tr><tr><td>88</td><td>Jass Power</td><td></td>&#10;				</tr><tr><td>89</td><td>The Good The Bad &amp; The Ugly</td><td></td>&#10;				</tr><tr><td>90</td><td>Marc H</td><td></td>&#10;				</tr><tr><td>91</td><td>Short Lean and Mean</td><td></td>&#10;				</tr><tr><td>92</td><td>FireBall.Pros</td><td></td>&#10;				</tr><tr><td>93</td><td>Scrubicus</td><td></td>&#10;				</tr><tr><td>94</td><td>Veggie Check</td><td></td>&#10;				</tr><tr><td>95</td><td>Bmh</td><td></td>&#10;				</tr><tr><td>96</td><td>Nürnberg Nightmares</td><td></td>&#10;				</tr><tr><td>97</td><td>Brain Surgeons</td><td></td>&#10;				</tr><tr><td>98</td><td>Red Label</td><td></td>&#10;				</tr><tr><td>99</td><td>Team Civastar Mk2</td><td></td>&#10;				</tr><tr><td>100</td><td>BLACK Generation Take 2</td><td></td>&#10;				</tr><tr><td>101</td><td>Big Decks</td><td></td>&#10;				</tr><tr><td>102</td><td>Goodbye NAGAOKA</td><td></td>&#10;				</tr><tr><td>103</td><td>GWalls Soaking Wet</td><td></td>&#10;				</tr><tr><td>104</td><td>Jun Nobushita Fan Club</td><td></td>&#10;				</tr><tr><td>105</td><td>Metagame's Tout Court</td><td></td>&#10;				</tr><tr><td>106</td><td>Dar Fluggen Taggen</td><td></td>&#10;				</tr><tr><td>107</td><td>Frisørlandslaget</td><td></td>&#10;				</tr><tr><td>108</td><td>Team Kwan</td><td></td>&#10;				</tr><tr><td>109</td><td>Corbett &amp; Sons</td><td></td>&#10;				</tr><tr><td>110</td><td>Wizard Asylum</td><td></td>&#10;				</tr><tr><td>111</td><td>Mannheim Dragons</td><td></td>&#10;				</tr><tr><td>112</td><td>Mammoth Teikoku</td><td></td>&#10;				</tr><tr><td>113</td><td>Care Bear Stare</td><td></td>&#10;				</tr><tr><td>114</td><td>Team Super Taco</td><td></td>&#10;				</tr><tr><td>115</td><td>Slightly Better Than Average</td><td></td>&#10;				</tr><tr><td>116</td><td>Grumpy Old Men</td><td></td>&#10;				</tr><tr><td>117</td><td>uh-oh oreo</td><td></td>&#10;				</tr><tr><td>118</td><td>TeamGongstaHaircut</td><td></td>&#10;				</tr><tr><td>119</td><td>Rounders</td><td></td>&#10;				</tr></tbody></table>

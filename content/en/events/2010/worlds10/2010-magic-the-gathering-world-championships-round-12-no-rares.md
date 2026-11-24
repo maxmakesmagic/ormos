@@ -1,0 +1,115 @@
+---
+id: vd6zh4dw
+kind: event
+lang: en
+path: /en/events/2010/worlds10/2010-magic-the-gathering-world-championships-round-12-no-rares
+title: '2010 Magic: The Gathering World Championships Round 12: "No, Rares!"'
+published: '2010-12-10'
+column_slug: null
+column: null
+authors: []
+event_code: worlds10
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/2010-magic-gathering-world-championships-round-12-no-rares-2010-12
+    lang_detected: en
+    capture_id: 327677
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/2010-magic-gathering-world-championships-round-12-no-rares-2010-12
+    captured_at: '2022-05-28 05:39:59+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/2010-magic-gathering-world-championships-round-12-no-rares-2010-12
+    lang_detected: en
+    capture_id: 327677
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/2010-magic-gathering-world-championships-round-12-no-rares-2010-12
+    captured_at: '2022-05-28 05:39:59+00'
+    rule: drupal.posted_in_date
+  event_code:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/worlds10/fm12
+    lang_detected: en
+    capture_id: 570248
+    url: http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/worlds10/fm12
+    captured_at: '2013-06-30 09:38:53+00'
+    rule: url.event_code
+sources:
+- document_id: vd6zh4dw
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/2010-magic-gathering-world-championships-round-12-no-rares-2010-12
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/2010-magic-gathering-world-championships-round-12-no-rares-2010-12
+  lang: en
+  template: drupal
+  captured_at: '2022-05-28 05:39:59+00'
+  capture_id: 327677
+  wayback_url: https://web.archive.org/web/20220528053959id_/https://magic.wizards.com/en/articles/archive/event-coverage/2010-magic-gathering-world-championships-round-12-no-rares-2010-12
+- document_id: vd6zh4dw
+  url: http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/worlds10/fm12
+  page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/worlds10/fm12
+  lang: en
+  template: aspx
+  captured_at: '2013-06-30 09:38:53+00'
+  capture_id: 570248
+  wayback_url: https://web.archive.org/web/20130630093853id_/http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/worlds10/fm12
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: vd6zh4dw
+  capture_id: 327677
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/2010-magic-gathering-world-championships-round-12-no-rares-2010-12
+  wayback_url: https://web.archive.org/web/20220528053959id_/https://magic.wizards.com/en/articles/archive/event-coverage/2010-magic-gathering-world-championships-round-12-no-rares-2010-12
+  captured_at: '2022-05-28 05:39:59+00'
+  template: drupal
+  sha256: d30c78c38e7cc6e8fe1cadb434bd648735026b208d487e8307be3e58650e8e63
+render_recovery: []
+---
+### Lukas Jaklovsky vs. Mateusz Kopec
+
+"What do you need to make Level 4?" Lukas Jaklovsky asked his opponent as they sat down to face one another in the feature match arena, referring to the fourth tier of the Pro Player's Club and all its attendant benefits.
+
+"I need to Top 8 after my wonderful performances this year," Mateusz Kopec laughed.
+
+"I need a draw, and I think I can get it!" Lukas said, with a grin.
+
+**Game 1**
+
+On the draw, Lukas opened on a mulligan while his opponent opened on [Embersmith](https://web.archive.org/web/20101210000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Embersmith) for the second turn. The 2/1 was soon joined by a [Glint Hawk Idol](https://web.archive.org/web/20101210000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Glint+Hawk+Idol), which dinged Jaklovsky for 1 as it entered the battlefield. A [Neurok Replica](https://web.archive.org/web/20101210000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Neurok+Replica) slowed Mateusz Kopec's beats and he passed his fourth turn without hitting his land drop.
+
+![](https://i.ormos.uk/3d/3f/3d3f8d8b6455b0c73d5dd42fb159f34c7a3d3aa05abc3c09ae5b3180c571d3fa.jpg)*Lukas Jaklovsky and Maeusz Kopec have their eye on the Pro Club.*
+
+The 1/4 did a good job keeping the ground stalled, but Mateusz worked on taking to the skies with his Idol. The 2/2 took repeat bites out of his opponent's life total before Jaklovsky stopped those beats as well via Sky Eel School. That creature was frightening enough for Kopec to use [Arrest](https://web.archive.org/web/20101210000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Arrest) on it, and he was able to attack with his entire team. The big swing left his opponent at 8, but Lukas had been setting up the turn the entire game. The reason? [Sunblast Angel](https://web.archive.org/web/20101210000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sunblast+Angel). The 4/5 hit the battlefield as a one-sided [Day of Judgment](https://web.archive.org/web/20101210000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Day+of+Judgment).
+
+"Ouch," said Mateusz Kopec, dutifully dumping his entire team into the graveyard.
+
+A [Glimmerpoint Stag](https://web.archive.org/web/20101210000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Glimmerpoint+Stag) flipped the [Arrest](https://web.archive.org/web/20101210000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Arrest) over to the Angel but down to just two cards in his hand, the Polish Kopec found himself suddenly behind after his aggressive early start. The two battled, each trying to one-up the other with additional creatures but it was a [True Conviction](https://web.archive.org/web/20101210000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=True+Conviction) that sealed the first game for Jaklovsky. The powerful enchantment allowed him to freely attack with all of his creatures, Mateusz unable to profitably block them and prevented from attacking back for any gains as a result of the enchantment's gift of lifelink. After two big attacks fueled by the card, the players headed to the second game with Lukas in the lead.
+
+"Nice rares," opined Mateusz.
+
+Jaklovsky 1, Kopec 0
+
+**Game 2**
+
+The second game started a bit comically as the players played out the exact same first turn: [Plains](https://web.archive.org/web/20101210000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Plains), [Darksteel Axe](https://web.archive.org/web/20101210000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Darksteel+Axe). Making things even more comical, as Lukas noted with a smile, was the fact that their [Plains](https://web.archive.org/web/20101210000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Plains) even had the same art. But it was Mateusz who was able to pair a creature with his Equipment, casting and equipping [Sunspear Shikari](https://web.archive.org/web/20101210000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sunspear+Shikari). His opponent was slower out of the gates, waiting until his third turn to cast [Neurok Replica](https://web.archive.org/web/20101210000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Neurok+Replica).
+
+Kopec's aggressive red-white deck simply cast [Glint Hawk](https://web.archive.org/web/20101210000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Glint+Hawk) and continued attacking, though he started keeping the 2/2 Bird back after a [Darkslick Drake](https://web.archive.org/web/20101210000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Darkslick+Drake) from Jaklovsky. A [Sky-Eel School](https://web.archive.org/web/20101210000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sky-Eel+School) also threatened to put the brakes on the Polish player's air force, but he cast [Bladed Pinions](https://web.archive.org/web/20101210000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bladed+Pinions) and [Strider Harness](https://web.archive.org/web/20101210000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Strider+Harness) to turbo-charge his [Leonin Shikari](https://web.archive.org/web/20101210000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Leonin+Shikari) and continued getting in anyway. That settled the pace of the game into attacks from Mateusz with heavily equipped white creatures and blocks from his opponent that occasionally traded.
+
+![](https://i.ormos.uk/e0/48/e0481104a357f67098fe45777b233f8aace995703863477d1df3dfc84703a94a.jpg)*Hmmmmmmmm.*
+
+The grinding inevitability of his opponent's creatures became a drain on Jaklovsky's forces. He was struggling to get ahead because he had to keep trading too many creatures to keep his life total above negative without taking out Kopec's creatures in return. When his rares didn't show up to save him, he found himself in a match with an even game count.
+
+Jaklovsky 1, Kopec 1
+
+"No rares!" Mateusz Kopec smiled at his opponent while shuffling for the third game.
+
+**Game 3**
+
+After starting off on a mulligan, Lukas Jaklovsky cast his first spell on the third turn in the form of [Kemba's Skyguard](https://web.archive.org/web/20101210000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kemba%27s+Skyguard). The 2/2 flyer was a powerful opening salvo against his opponent's very aggressive red and white deck, allowing Lukas to cushion his life while also casting a blocker for possible evasive threats out of Kopec. Instead of flyers, however, Mateusz opened on [Gold Myr](https://web.archive.org/web/20101210000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gold+Myr), then [Myr Galvanizer](https://web.archive.org/web/20101210000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Myr+Galvanizer). He soon traded the 2/2 Galvanizer for a [Lumengrid Drake](https://web.archive.org/web/20101210000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lumengrid+Drake) his opponent cast as a follow-up to the Skyguard.
+
+[Saberclaw Golem](https://web.archive.org/web/20101210000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Saberclaw+Golem) hit the battlefield for Mateusz while [Sky-Eel School](https://web.archive.org/web/20101210000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sky-Eel+School) hit for his opponent. That settled the game into a race, Mateusz attacking with his Golem while his opponent attacked with flyers. To add to the size of his clock, Jaklovsky even dropped a [Razor Hippogriff](https://web.archive.org/web/20101210000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Razor+Hippogriff) to the table despite not having any artifacts in his graveyard to get back. A [Darksteel Sentinel](https://web.archive.org/web/20101210000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Darksteel+Sentinel) flashed in for Mateusz, who exhaled sharply and proclaimed, "It's gonna be close."
+
+Using his [Gold Myr](https://web.archive.org/web/20101210000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gold+Myr), Mateusz tapped just enough mana to cast [Glint Hawk](https://web.archive.org/web/20101210000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Glint+Hawk) and [Strider Harness](https://web.archive.org/web/20101210000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Strider+Harness) to equip the flyer. That enabled him to attack for 7 damage that got through, leaving his opponent at 9 life. The race was indeed going to be close, and if Jaklovsky didn't have some solutions for his opponent's team upon getting the turn back, said race was going to end in his opponent's favor.
+
+![](https://i.ormos.uk/ab/e4/abe42ca836c1760194f4649e592a23ba63549f7a8199076f342ab1ac788084a4.jpg)*Jaklovsky looks for a way out.*
+
+A second [Razor Hippogriff](https://web.archive.org/web/20101210000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Razor+Hippogriff) was Jaklovsky's "answer" as he attacked his opponent back to drop him to 6. Kopec fired back casting a [Glint Hawk Idol](https://web.archive.org/web/20101210000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Glint+Hawk+Idol), then activating it, equipping his [Strider Harness](https://web.archive.org/web/20101210000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Strider+Harness), and attacking with the now 3/3 flyer. The attack dropped Jaklovsky to 1 and cost him his Hippogriff meaning he needed a topdeck to get him out of the situation he was in. With only 5 points of attacking power, he was 1 short of killing his opponent.
+
+Lukas didn't have anything to win and instead cast [Myrsmith](https://web.archive.org/web/20101210000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Myrsmith) before passing. His opponent sent to the Red Zone with his [Saberclaw Golem](https://web.archive.org/web/20101210000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Saberclaw+Golem) and [Darksteel Sentinel](https://web.archive.org/web/20101210000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Darksteel+Sentinel), forcing Jaklovsky to chump twice. That gave Lukas one more turn to topdeck a big spell, but when he drew an [Island](https://web.archive.org/web/20101210000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Island) instead, he extended his hand in defeat.
+
+Kopec 2, Jaklovsky 1

@@ -1,0 +1,55 @@
+---
+id: pbqqhcqf
+kind: event
+lang: pt
+path: /pt/events/2015/gppoa15/round-15-standings
+title: Round 15 Standings
+published: '2015-11-01'
+column_slug: null
+column: null
+authors: []
+event_code: gppoa15
+detected_lang: pt
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/events/coverage/gppoa15/round-15-standings-2015-11-01
+    lang_detected: pt
+    capture_id: 1345710
+    url: http://magic.wizards.com/en/events/coverage/gppoa15/round-15-standings-2015-11-01
+    captured_at: '2016-05-03 08:04:15+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/events/coverage/gppoa15/round-15-standings-2015-11-01
+    lang_detected: pt
+    capture_id: 1345710
+    url: http://magic.wizards.com/en/events/coverage/gppoa15/round-15-standings-2015-11-01
+    captured_at: '2016-05-03 08:04:15+00'
+    rule: drupal.posted_in_date
+  event_code:
+    page_key: magic.wizards.com/en/events/coverage/gppoa15/round-15-standings-2015-11-01
+    lang_detected: pt
+    capture_id: 1345710
+    url: http://magic.wizards.com/en/events/coverage/gppoa15/round-15-standings-2015-11-01
+    captured_at: '2016-05-03 08:04:15+00'
+    rule: url.event_code
+sources:
+- document_id: pbqqhcqf
+  url: http://magic.wizards.com/en/events/coverage/gppoa15/round-15-standings-2015-11-01
+  page_key: magic.wizards.com/en/events/coverage/gppoa15/round-15-standings-2015-11-01
+  lang: pt
+  template: drupal
+  captured_at: '2016-05-03 08:04:15+00'
+  capture_id: 1345710
+  wayback_url: https://web.archive.org/web/20160503080415id_/http://magic.wizards.com/en/events/coverage/gppoa15/round-15-standings-2015-11-01
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: pbqqhcqf
+  capture_id: 1345710
+  url: http://magic.wizards.com/en/events/coverage/gppoa15/round-15-standings-2015-11-01
+  wayback_url: https://web.archive.org/web/20160503080415id_/http://magic.wizards.com/en/events/coverage/gppoa15/round-15-standings-2015-11-01
+  captured_at: '2016-05-03 08:04:15+00'
+  template: drupal
+  sha256: 9c39f1f7f7aaa719c99757de2f09edd883bb2747fac23759175fc4faf8a69a80
+render_recovery: []
+---
+<table><tbody><tr><th><b>Rank</b></th>&#10;			<th><b>Player</b></th>&#10;			<th><b>Points</b></th>&#10;			<th><b>OMW%</b></th>&#10;		</tr><tr><td>1</td>&#10;			<td>(19) Thiago Saporito [BR]</td>&#10;			<td>40</td>&#10;			<td>0.7241</td>&#10;		</tr><tr><td>2</td>&#10;			<td>Marcos Paulo De Jesus Freitas [BR]</td>&#10;			<td>40</td>&#10;			<td>0.7072</td>&#10;		</tr><tr><td>3</td>&#10;			<td>Gabriel Fehr [BR]</td>&#10;			<td>38</td>&#10;			<td>0.6545</td>&#10;		</tr><tr><td>4</td>&#10;			<td>Caio Amaral [BR]</td>&#10;			<td>37</td>&#10;			<td>0.6950</td>&#10;		</tr><tr><td>5</td>&#10;			<td>Guilherme Merjam [BR]</td>&#10;			<td>37</td>&#10;			<td>0.6874</td>&#10;		</tr><tr><td>6</td>&#10;			<td>Alejandro Cesa [AR]</td>&#10;			<td>37</td>&#10;			<td>0.6237</td>&#10;		</tr><tr><td>7</td>&#10;			<td>Diego Marquez [AR]</td>&#10;			<td>36</td>&#10;			<td>0.6722</td>&#10;		</tr><tr><td>8</td>&#10;			<td>Vagner William Casatti [BR]</td>&#10;			<td>36</td>&#10;			<td>0.6685</td>&#10;		</tr><tr><td>9</td>&#10;			<td>Allison Nakazora Abe [BR]</td>&#10;			<td>36</td>&#10;			<td>0.6577</td>&#10;		</tr><tr><td>10</td>&#10;			<td>Victor Fernando Silva [BR]</td>&#10;			<td>36</td>&#10;			<td>0.6543</td>&#10;		</tr><tr><td>11</td>&#10;			<td>Bruno Muller [BR]</td>&#10;			<td>36</td>&#10;			<td>0.6175</td>&#10;		</tr><tr><td>12</td>&#10;			<td>Matias Rosas [AR]</td>&#10;			<td>36</td>&#10;			<td>0.6128</td>&#10;		</tr><tr><td>13</td>&#10;			<td>Walter Coquemala Filho [BR]</td>&#10;			<td>36</td>&#10;			<td>0.6109</td>&#10;		</tr><tr><td>14</td>&#10;			<td>Matheus Daniel Da Silveira [BR]</td>&#10;			<td>34</td>&#10;			<td>0.6957</td>&#10;		</tr><tr><td>15</td>&#10;			<td>Marcos Portugal [BR]</td>&#10;			<td>34</td>&#10;			<td>0.6440</td>&#10;		</tr><tr><td>16</td>&#10;			<td>Roger William Landim [BR]</td>&#10;			<td>34</td>&#10;			<td>0.6096</td>&#10;		</tr><tr><td>17</td>&#10;			<td>Bruno Volpato [BR]</td>&#10;			<td>33</td>&#10;			<td>0.7315</td>&#10;		</tr><tr><td>18</td>&#10;			<td>Gabriel Wood [BR]</td>&#10;			<td>33</td>&#10;			<td>0.6818</td>&#10;		</tr><tr><td>19</td>&#10;			<td>Pedro Manzoni [BR]</td>&#10;			<td>33</td>&#10;			<td>0.6698</td>&#10;		</tr><tr><td>20</td>&#10;			<td>Frank William [BR]</td>&#10;			<td>33</td>&#10;			<td>0.6620</td>&#10;		</tr><tr><td>21</td>&#10;			<td>Caua Roca [BR]</td>&#10;			<td>33</td>&#10;			<td>0.6610</td>&#10;		</tr><tr><td>22</td>&#10;			<td>Daniel Morin Ocampo [BR]</td>&#10;			<td>33</td>&#10;			<td>0.6563</td>&#10;		</tr><tr><td>23</td>&#10;			<td>Pedro Carvalho [BR]</td>&#10;			<td>33</td>&#10;			<td>0.6541</td>&#10;		</tr><tr><td>24</td>&#10;			<td>Gonzalo Ferrari Spampinato [AR]</td>&#10;			<td>33</td>&#10;			<td>0.6519</td>&#10;		</tr><tr><td>25</td>&#10;			<td>Eduardo Borges [BR]</td>&#10;			<td>33</td>&#10;			<td>0.6456</td>&#10;		</tr><tr><td>26</td>&#10;			<td>Gilmour Laier [BR]</td>&#10;			<td>33</td>&#10;			<td>0.6369</td>&#10;		</tr><tr><td>27</td>&#10;			<td>Phelipe Salaroli [BR]</td>&#10;			<td>33</td>&#10;			<td>0.6337</td>&#10;		</tr><tr><td>28</td>&#10;			<td>Bruno Vieira [BR]</td>&#10;			<td>33</td>&#10;			<td>0.6287</td>&#10;		</tr><tr><td>29</td>&#10;			<td>Martin Sebastian Dominguez [AR]</td>&#10;			<td>33</td>&#10;			<td>0.6286</td>&#10;		</tr><tr><td>30</td>&#10;			<td>Max Macedo Carvalho [BR]</td>&#10;			<td>33</td>&#10;			<td>0.6234</td>&#10;		</tr><tr><td>31</td>&#10;			<td>Rodrigo De Quadros Leal [BR]</td>&#10;			<td>33</td>&#10;			<td>0.6211</td>&#10;		</tr><tr><td>32</td>&#10;			<td>Matheus Crusius [BR]</td>&#10;			<td>33</td>&#10;			<td>0.6128</td>&#10;		</tr><tr><td>33</td>&#10;			<td>Joaquim Damasceno [PT]</td>&#10;			<td>33</td>&#10;			<td>0.6094</td>&#10;		</tr><tr><td>34</td>&#10;			<td>Marcelo Rodrigues Cavalcante [BR]</td>&#10;			<td>31</td>&#10;			<td>0.6885</td>&#10;		</tr><tr><td>35</td>&#10;			<td>Daniel Felipe Galvao Pires [BR]</td>&#10;			<td>31</td>&#10;			<td>0.6720</td>&#10;		</tr><tr><td>36</td>&#10;			<td>Rafael Negrini [BR]</td>&#10;			<td>31</td>&#10;			<td>0.6041</td>&#10;		</tr><tr><td>37</td>&#10;			<td>Murilo Malta Porto [BR]</td>&#10;			<td>30</td>&#10;			<td>0.7182</td>&#10;		</tr><tr><td>38</td>&#10;			<td>Fabio Alves Barroso [BR]</td>&#10;			<td>30</td>&#10;			<td>0.6994</td>&#10;		</tr><tr><td>39</td>&#10;			<td>Ricardo Pereira Batista [BR]</td>&#10;			<td>30</td>&#10;			<td>0.6664</td>&#10;		</tr><tr><td>40</td>&#10;			<td>MUHAMMAD AQEL [BR]</td>&#10;			<td>30</td>&#10;			<td>0.6658</td>&#10;		</tr><tr><td>41</td>&#10;			<td>Mariano Libonatti [AR]</td>&#10;			<td>30</td>&#10;			<td>0.6636</td>&#10;		</tr><tr><td>42</td>&#10;			<td>Ruben Lobo [AR]</td>&#10;			<td>30</td>&#10;			<td>0.6559</td>&#10;		</tr><tr><td>43</td>&#10;			<td>Joao Zimmer Xavier [BR]</td>&#10;			<td>30</td>&#10;			<td>0.6521</td>&#10;		</tr><tr><td>44</td>&#10;			<td>Artur Villela [BR]</td>&#10;			<td>30</td>&#10;			<td>0.6520</td>&#10;		</tr><tr><td>45</td>&#10;			<td>Gustavo Siqueira Julio [PT]</td>&#10;			<td>30</td>&#10;			<td>0.6484</td>&#10;		</tr><tr><td>46</td>&#10;			<td>Pedro Henrique Miranda [BR]</td>&#10;			<td>30</td>&#10;			<td>0.6469</td>&#10;		</tr><tr><td>47</td>&#10;			<td>Nahuel Roson [AR]</td>&#10;			<td>30</td>&#10;			<td>0.6425</td>&#10;		</tr><tr><td>48</td>&#10;			<td>Carlos Eduardo Tiberio Junior [BR]</td>&#10;			<td>30</td>&#10;			<td>0.6308</td>&#10;		</tr><tr><td>49</td>&#10;			<td>Rafael Toro [BR]</td>&#10;			<td>30</td>&#10;			<td>0.6271</td>&#10;		</tr><tr><td>50</td>&#10;			<td>Lucas Esper Berthoud [BR]</td>&#10;			<td>30</td>&#10;			<td>0.6177</td>&#10;		</tr><tr><td>51</td>&#10;			<td>Mariano Cartechini [AR]</td>&#10;			<td>30</td>&#10;			<td>0.6168</td>&#10;		</tr><tr><td>52</td>&#10;			<td>Matheus Rosseto [BR]</td>&#10;			<td>30</td>&#10;			<td>0.6100</td>&#10;		</tr><tr><td>53</td>&#10;			<td>Fabricio Miranda [BR]</td>&#10;			<td>30</td>&#10;			<td>0.6000</td>&#10;		</tr><tr><td>54</td>&#10;			<td>Enriquez Mayoral Edgar [MX]</td>&#10;			<td>30</td>&#10;			<td>0.5793</td>&#10;		</tr><tr><td>55</td>&#10;			<td>Juliano Da Rocha Dutra [BR]</td>&#10;			<td>30</td>&#10;			<td>0.5666</td>&#10;		</tr><tr><td>56</td>&#10;			<td>Ivo Rafael Da Costa Mihicic [BR]</td>&#10;			<td>29</td>&#10;			<td>0.6687</td>&#10;		</tr><tr><td>57</td>&#10;			<td>Paulo Ricardo Cortez [BR]</td>&#10;			<td>29</td>&#10;			<td>0.6658</td>&#10;		</tr><tr><td>58</td>&#10;			<td>Edson Teixeira Junior [BR]</td>&#10;			<td>29</td>&#10;			<td>0.6655</td>&#10;		</tr><tr><td>59</td>&#10;			<td>Luiz Silva Neto [BR]</td>&#10;			<td>29</td>&#10;			<td>0.6400</td>&#10;		</tr><tr><td>60</td>&#10;			<td>Joao Caludio Souza [BR]</td>&#10;			<td>29</td>&#10;			<td>0.6149</td>&#10;		</tr><tr><td>61</td>&#10;			<td>Jean Hubner [BR]</td>&#10;			<td>29</td>&#10;			<td>0.5925</td>&#10;		</tr><tr><td>62</td>&#10;			<td>Sebastian Pozzo [AR]</td>&#10;			<td>28</td>&#10;			<td>0.6558</td>&#10;		</tr><tr><td>63</td>&#10;			<td>Matheus Lemos Mota [BR]</td>&#10;			<td>27</td>&#10;			<td>0.6744</td>&#10;		</tr><tr><td>64</td>&#10;			<td>Fausto Velho De Quadros [BR]</td>&#10;			<td>27</td>&#10;			<td>0.6615</td>&#10;		</tr><tr><td>65</td>&#10;			<td>Rafael Silva [BR]</td>&#10;			<td>27</td>&#10;			<td>0.6448</td>&#10;		</tr><tr><td>66</td>&#10;			<td>Alexandre Conrado [BR]</td>&#10;			<td>27</td>&#10;			<td>0.6416</td>&#10;		</tr><tr><td>67</td>&#10;			<td>David Greene [US]</td>&#10;			<td>27</td>&#10;			<td>0.6400</td>&#10;		</tr><tr><td>68</td>&#10;			<td>Pablo Zamorano [CL]</td>&#10;			<td>27</td>&#10;			<td>0.6261</td>&#10;		</tr><tr><td>69</td>&#10;			<td>Nicolas Bonamigo [BR]</td>&#10;			<td>27</td>&#10;			<td>0.6199</td>&#10;		</tr><tr><td>70</td>&#10;			<td>Luis Gustavo Bezerra De Assis Republicano [BR]</td>&#10;			<td>27</td>&#10;			<td>0.6118</td>&#10;		</tr><tr><td>71</td>&#10;			<td>Guilherme Zonatto [BR]</td>&#10;			<td>27</td>&#10;			<td>0.6091</td>&#10;		</tr><tr><td>72</td>&#10;			<td>Christian Arenas [PE]</td>&#10;			<td>27</td>&#10;			<td>0.6057</td>&#10;		</tr><tr><td>73</td>&#10;			<td>Cristian Rabaglia [AR]</td>&#10;			<td>27</td>&#10;			<td>0.6032</td>&#10;		</tr><tr><td>74</td>&#10;			<td>Adriano Peixoto Simoes Lopes [BR]</td>&#10;			<td>27</td>&#10;			<td>0.5717</td>&#10;		</tr><tr><td>75</td>&#10;			<td>Victor Souza [BR]</td>&#10;			<td>27</td>&#10;			<td>0.5285</td>&#10;		</tr><tr><td>76</td>&#10;			<td>Gabriel Souza1109 [BR]</td>&#10;			<td>25</td>&#10;			<td>0.6175</td>&#10;		</tr><tr><td>77</td>&#10;			<td>Ertom Acres Teixeira [BR]</td>&#10;			<td>24</td>&#10;			<td>0.6300</td>&#10;		</tr><tr><td>78</td>&#10;			<td>Fabricio Flores [AR]</td>&#10;			<td>24</td>&#10;			<td>0.6202</td>&#10;		</tr><tr><td>79</td>&#10;			<td>Marcelo Oliveira [BR]</td>&#10;			<td>24</td>&#10;			<td>0.6042</td>&#10;		</tr><tr><td>80</td>&#10;			<td>Lucas Andrade4011 [BR]</td>&#10;			<td>24</td>&#10;			<td>0.5984</td>&#10;		</tr></tbody></table>

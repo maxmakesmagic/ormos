@@ -1,0 +1,63 @@
+---
+id: 7ft32x0k
+kind: event
+lang: de
+path: /de/events/2009/gernat09/round-5-results-2009-germany-national-championship
+title: Round 5 Results -- 2009 Germany National Championship
+published: '2009-08-14'
+column_slug: null
+column: null
+authors: []
+event_code: gernat09
+detected_lang: de
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-5-results-2009-germany-national-championship-2009-08-14
+    lang_detected: de
+    capture_id: 545638
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-5-results-2009-germany-national-championship-2009-08-14
+    captured_at: '2022-01-17 04:20:20+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-5-results-2009-germany-national-championship-2009-08-14
+    lang_detected: de
+    capture_id: 545638
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-5-results-2009-germany-national-championship-2009-08-14
+    captured_at: '2022-01-17 04:20:20+00'
+    rule: drupal.posted_in_date
+  event_code:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gernat09/res5
+    lang_detected: de
+    capture_id: 398522
+    url: http://www.wizards.com/Magic/Magazine/article.aspx?x=mtg/daily/eventcoverage/gernat09/res5
+    captured_at: '2013-07-01 16:35:00+00'
+    rule: url.event_code
+sources:
+- document_id: 7ft32x0k
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-5-results-2009-germany-national-championship-2009-08-14
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/round-5-results-2009-germany-national-championship-2009-08-14
+  lang: de
+  template: drupal
+  captured_at: '2022-01-17 04:20:20+00'
+  capture_id: 545638
+  wayback_url: https://web.archive.org/web/20220117042020id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-5-results-2009-germany-national-championship-2009-08-14
+- document_id: 7ft32x0k
+  url: http://www.wizards.com/Magic/Magazine/article.aspx?x=mtg/daily/eventcoverage/gernat09/res5
+  page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gernat09/res5
+  lang: de
+  template: aspx
+  captured_at: '2013-07-01 16:35:00+00'
+  capture_id: 398522
+  wayback_url: https://web.archive.org/web/20130701163500id_/http://www.wizards.com/Magic/Magazine/article.aspx?x=mtg/daily/eventcoverage/gernat09/res5
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 7ft32x0k
+  capture_id: 545638
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-5-results-2009-germany-national-championship-2009-08-14
+  wayback_url: https://web.archive.org/web/20220117042020id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-5-results-2009-germany-national-championship-2009-08-14
+  captured_at: '2022-01-17 04:20:20+00'
+  template: drupal
+  sha256: baa97a969bb32792d297cf0453f26ceebec10cdcb242e5f8238d7aeed831ea87
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Result</b></td><td><b>&#10;						</b></td><td><b>Opponent</b></td></tr><tr><td> 1</td><td>Dalbke, Dennis</td><td>Lost 0-2</td><td>vs.</td><td>Lindner, Marcus</td></tr><tr><td> 2</td><td>Simon, Swen</td><td>Lost 0-2</td><td>vs.</td><td>Luff, Andre</td></tr><tr><td> 3</td><td>Reichel-Dittes, Christopher</td><td>Lost 0-2</td><td>vs.</td><td>Wilkens, Jens</td></tr><tr><td> 4</td><td>Muecke, Sebastian</td><td>Lost 0-2</td><td>vs.</td><td>Sappl, Josef</td></tr><tr><td> 5</td><td>Maij, Rosario</td><td>Lost 0-2</td><td>vs.</td><td>Görtzen, Simon</td></tr><tr><td> 6</td><td>Maurer, Tobias</td><td>Lost 1-2</td><td>vs.</td><td>Eder, Wolfgang</td></tr><tr><td> 7</td><td>Stöter, Erik</td><td>Won 2-1</td><td>vs.</td><td>Juergens, Dorian</td></tr><tr><td> 8</td><td>Müller, Andreas</td><td>Won 2-0</td><td>vs.</td><td>Krzikalla, Olaf</td></tr><tr><td> 9</td><td>Spenner, Dennis</td><td>Won 2-1</td><td>vs.</td><td>Nägele, Niclas</td></tr><tr><td> 10</td><td>Porojan, Raul</td><td>Won 2-1</td><td>vs.</td><td>Paulmaier, Benjamin</td></tr><tr><td> 11</td><td>Schulmerich, Felix</td><td>Lost 1-2</td><td>vs.</td><td>Rueß, Jan</td></tr><tr><td> 12</td><td>Oehler, Martin</td><td>Won 2-1</td><td>vs.</td><td>Blumm, Christian</td></tr><tr><td> 13</td><td>Rosenberger, Alexander</td><td>Lost 1-2</td><td>vs.</td><td>Passin, Philip</td></tr><tr><td> 14</td><td>Jell, Phillip</td><td>Lost 0-2</td><td>vs.</td><td>Dosch, Sven</td></tr><tr><td> 15</td><td>Oeser, Jens</td><td>Won 2-0</td><td>vs.</td><td>Hubacsek, Christian</td></tr><tr><td> 16</td><td>Libkin, Eugen</td><td>Lost 0-2</td><td>vs.</td><td>Jungmann, Thomas</td></tr><tr><td> 17</td><td>Fromm, Felix</td><td>Lost 1-2</td><td>vs.</td><td>Stephan, Jürgen</td></tr><tr><td> 18</td><td>Müller, Michael</td><td>Lost 1-2</td><td>vs.</td><td>Gruenenwald, Christian</td></tr><tr><td> 19</td><td>von Kalkstein, Christian</td><td>Lost 0-2</td><td>vs.</td><td>Baruti, Xhemil</td></tr><tr><td> 20</td><td>Joens, Klaus</td><td>Lost 1-2</td><td>vs.</td><td>Gräfensteiner, Tobias</td></tr><tr><td> 21</td><td>Grudowski, Dennis</td><td>Lost 0-2</td><td>vs.</td><td>Thomsen, Sascha</td></tr><tr><td> 22</td><td>Zimmermann, Martin</td><td>Won 2-1</td><td>vs.</td><td>Schmittbuettner, Markus</td></tr><tr><td> 23</td><td>Thaler, Sebastian</td><td>Won 2-0</td><td>vs.</td><td>Brenner, Martin</td></tr><tr><td> 24</td><td>Fischer-Gundlach, Moritz</td><td>Won 2-0</td><td>vs.</td><td>Wolf, Manuel</td></tr><tr><td> 25</td><td>Holzhey, Christoph</td><td>Won 2-0</td><td>vs.</td><td>Sparwald, Hannu</td></tr><tr><td> 26</td><td>Brandt, Sebastian</td><td>Won 2-1</td><td>vs.</td><td>Gerber, Christoph</td></tr><tr><td> 27</td><td>Ritter, Simon</td><td>Lost 1-2</td><td>vs.</td><td>Schäfer, Carsten</td></tr><tr><td> 28</td><td>Löchert, Johannes</td><td>Won 2-1</td><td>vs.</td><td>Wagner, Stefan</td></tr><tr><td> 29</td><td>Materne, Philipp</td><td>Lost 1-2</td><td>vs.</td><td>Luy, Theo</td></tr><tr><td> 30</td><td>Schnider, Jakob</td><td>Lost 1-2</td><td>vs.</td><td>Ecker, Danny</td></tr><tr><td> 31</td><td>Geißler, Gunnar</td><td>Lost 0-2</td><td>vs.</td><td>Grimmer, Jasper</td></tr><tr><td> 32</td><td>Rauer, Jörg</td><td>Lost 0-2</td><td>vs.</td><td>Loger, Sascha</td></tr><tr><td> 33</td><td>Soude, Vincent</td><td>Won 2-1</td><td>vs.</td><td>Frey, Alexander</td></tr><tr><td> 34</td><td>Hofmann, Mike</td><td>Lost 1-2</td><td>vs.</td><td>Lorenz, Konstantin</td></tr><tr><td> 35</td><td>Durka, Kilian</td><td>Lost 0-2</td><td>vs.</td><td>Meissner, Patrick</td></tr><tr><td> 36</td><td>Knabe, Fabian</td><td>Lost 1-2</td><td>vs.</td><td>Radzom, Gunnar</td></tr><tr><td> 37</td><td>Creutz, Christian</td><td>Won 2-0</td><td>vs.</td><td>Gerecke, Piet</td></tr><tr><td> 38</td><td>Blanco Trillo, Roberto</td><td>Lost 0-2</td><td>vs.</td><td>Bosselmann, Daniel</td></tr><tr><td> 39</td><td>Altensen, Tim</td><td>Lost 0-2</td><td>vs.</td><td>Strobach, Patrick</td></tr><tr><td> 40</td><td>Ludewig, Matthias</td><td>Lost 1-2</td><td>vs.</td><td>Steeger, Thomas</td></tr><tr><td> 41</td><td>Brade, Raphael</td><td>Lost 0-2</td><td>vs.</td><td>Schraut, Andreas</td></tr><tr><td> 42</td><td>Mitschang, Thomas</td><td>Won 2-0</td><td>vs.</td><td>Geist, Jonathan</td></tr><tr><td> 43</td><td>Keppel, Marco</td><td>Won 2-1</td><td>vs.</td><td>Wahl, Oliver</td></tr><tr><td> 44</td><td>Gerstmayer, Thorsten</td><td>Won 2-0</td><td>vs.</td><td>Drenger, Frieder-Michel</td></tr><tr><td> 45</td><td>Brackmann, Aaron</td><td>Won 2-1</td><td>vs.</td><td>Johannsen, Dennis</td></tr><tr><td> 46</td><td>Sabel, Dion</td><td>Lost 0-2</td><td>vs.</td><td>Passin, Mathias</td></tr><tr><td> 47</td><td>Bamberger, Sven</td><td>Won 2-0</td><td>vs.</td><td>Diezel, Michael</td></tr><tr><td> 48</td><td>Hauck, Christian</td><td>Won 2-0</td><td>vs.</td><td>Plagge, Julian</td></tr><tr><td> 49</td><td>Mostek, Sten-Magnus</td><td>Won 2-0</td><td>vs.</td><td>Kohl, Reinhold</td></tr><tr><td> 50</td><td>Steinert, Roman</td><td>Lost 1-2</td><td>vs.</td><td>Kempf, Bastian</td></tr><tr><td> 51</td><td>Kovacs, Christof</td><td>Won 2-0</td><td>vs.</td><td>Bisterfeld, Martin</td></tr><tr><td> 52</td><td>Fanghaenel, Alex</td><td>Won 2-1</td><td>vs.</td><td>Stahl, Gerry</td></tr><tr><td> 53</td><td>Kuchenbecker, Sebastian</td><td>Lost 1-2</td><td>vs.</td><td>Sinner, Denis</td></tr><tr><td> 54</td><td>Götze, Felix</td><td>Lost 1-2</td><td>vs.</td><td>Sauter, Franz</td></tr><tr><td> 55</td><td>Kalkmann, Tim</td><td>Won 2-1</td><td>vs.</td><td>Mazzurco, Carlo</td></tr><tr><td> 56</td><td>Thomas, Niklas</td><td>Lost 1-2</td><td>vs.</td><td>Steinborn, Robin</td></tr><tr><td> 57</td><td>Wildner, Eric</td><td>Lost 0-2</td><td>vs.</td><td>Arndt, Georg</td></tr><tr><td> 58</td><td>Weller, Jonas</td><td>Won 2-0</td><td>vs.</td><td>Schumacher, Jens</td></tr><tr><td> 59</td><td>Kreuz, Alexander</td><td>Lost 0-2</td><td>vs.</td><td>Baris, Dennis</td></tr><tr><td> 60</td><td>Hittel, Matthias</td><td>Lost 1-2</td><td>vs.</td><td>Ehrismann, Tobias</td></tr><tr><td> 61</td><td>Lewandowski, Mathias</td><td>Lost 0-2</td><td>vs.</td><td>Schmeußer, Simon</td></tr><tr><td> 62</td><td>Heruth, Martin</td><td>Lost 1-2</td><td>vs.</td><td>Gräfensteiner, Daniel</td></tr><tr><td> 63</td><td>Silny, Andre</td><td>Won 2-0</td><td>vs.</td><td>Morys, Stefan</td></tr><tr><td> 64</td><td>Leigh, Simon</td><td>Lost 0-2</td><td>vs.</td><td>Pils, Florian</td></tr><tr><td> 65</td><td>Hübner, Sebastian</td><td>Lost 1-2</td><td>vs.</td><td>Martin, Malik</td></tr><tr><td> 66</td><td>Wörner, Jürgen</td><td>Lost 1-2</td><td>vs.</td><td>Fischer, Florian</td></tr><tr><td> 67</td><td>Langner, Matthias</td><td>Lost 1-2</td><td>vs.</td><td>Hüttenberger, Christian</td></tr><tr><td> 68</td><td>Hollmann, Marc</td><td>Lost 0-2</td><td>vs.</td><td>Staat, Philipp</td></tr><tr><td> 69</td><td>Knoerr, Sebastian</td><td>Lost 0-2</td><td>vs.</td><td>Wallendorf, Jonas</td></tr><tr><td> 70</td><td>Koksch, Florian</td><td>Won 2-0</td><td>vs.</td><td>Trunk, Marcel</td></tr><tr><td> 71</td><td>Bauche, Marcel</td><td>Won 2-0</td><td>vs.</td><td>Geiger, Jürgen</td></tr><tr><td> 72</td><td>Koller, Tobias</td><td>Won 2-1</td><td>vs.</td><td>Stevens, Henk</td></tr><tr><td> 73</td><td>Michels, Tim</td><td>Lost 1-2</td><td>vs.</td><td>Rösner, Bodo</td></tr><tr><td> 74</td><td>Reinschmidt, Christian</td><td>Lost 0-2</td><td>vs.</td><td>Habermann, Marvin</td></tr><tr><td> 75</td><td>Hagedorn, David</td><td>Won 2-0</td><td>vs.</td><td>Burgos, Christian</td></tr><tr><td> 76</td><td>Schreiber, Andreas</td><td>Lost 0-2</td><td>vs.</td><td>Knauf, Daniel</td></tr><tr><td> 77</td><td>Filler, Michael</td><td>Won 2-0</td><td>vs.</td><td>Al-Bacha, Wesimo</td></tr><tr><td> 78</td><td>Kracker, Nikolai</td><td>Won 2-1</td><td>vs.</td><td>Marksfeld, René</td></tr><tr><td> 79</td><td>Weidemann, Paul</td><td>Lost 1-2</td><td>vs.</td><td>Reinhardt, Fabio</td></tr><tr><td> 80</td><td>Rechthaler, Dominik</td><td>Drew 1-1-1</td><td>vs.</td><td>Heinrich, Artie</td></tr><tr><td> 81</td><td>Sonnenschein, Benedikt</td><td>Won 2-0</td><td>vs.</td><td>Wels, Tobias</td></tr><tr><td> 82</td><td>Passow, Christopher</td><td>Lost 1-2</td><td>vs.</td><td>Gierse, Alexander</td></tr><tr><td> 83</td><td>Unfried, Jörg</td><td>Won 2-1</td><td>vs.</td><td>Anders, Torsten</td></tr><tr><td> 84</td><td>Jeschke, Benjamin</td><td>Won 2-0</td><td>vs.</td><td>Wirkus, Kai</td></tr><tr><td> 85</td><td>Surkamp, Florian</td><td>Won 2-1</td><td>vs.</td><td>Sudmann, Jan</td></tr><tr><td> 86</td><td>Dreger, Tobias</td><td>Lost 0-2</td><td>vs.</td><td>Budde, Jan-Philipp</td></tr><tr><td> 87</td><td>Ortmann, Christoph</td><td>Lost 0-2</td><td>vs.</td><td>von Drehle, Christian</td></tr><tr><td> 88</td><td>Darnhofer, Robert</td><td>Won 2-0</td><td>vs.</td><td>Vogt, Marc</td></tr><tr><td> 89</td><td>Ohlhof, Frank</td><td>Won 2-0</td><td>vs.</td><td>Winter, Sascha</td></tr><tr><td> 90</td><td>Ziesche, Sebastian</td><td>Lost 0-2</td><td>vs.</td><td>Burgold, Lino</td></tr><tr><td> 91</td><td>Brendemühl, Bernd</td><td>Won 2-0</td><td>vs.</td><td>Scholz, Hannes</td></tr><tr><td> 92</td><td>Baum, Philipp</td><td>Won 2-1</td><td>vs.</td><td>Beckmann, Bertram</td></tr><tr><td> 93</td><td>Klings, Rüdiger</td><td>Lost 0-2</td><td>vs.</td><td>Schild, Stefan</td></tr><tr><td>&#10;					</td><td>Drewes, David</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr><tr><td>&#10;					</td><td>Kirchner, David</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr><tr><td>&#10;					</td><td>Severin, Thoralf</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr></tbody></table>

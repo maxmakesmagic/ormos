@@ -1,0 +1,40 @@
+---
+id: mthkcp7h
+kind: event
+lang: it
+path: /it/articles/event-coverage/undated/final-standings
+title: Final Standings
+published: null
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: it
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/final-standings-2000-01-01-13
+    lang_detected: it
+    capture_id: 354002
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/final-standings-2000-01-01-13
+    captured_at: '2022-05-27 13:54:26+00'
+    rule: meta.og_title
+sources:
+- document_id: mthkcp7h
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/final-standings-2000-01-01-13
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/final-standings-2000-01-01-13
+  lang: it
+  template: drupal
+  captured_at: '2022-05-27 13:54:26+00'
+  capture_id: 354002
+  wayback_url: https://web.archive.org/web/20220527135426id_/https://magic.wizards.com/en/articles/archive/event-coverage/final-standings-2000-01-01-13
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: mthkcp7h
+  capture_id: 354002
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/final-standings-2000-01-01-13
+  wayback_url: https://web.archive.org/web/20220527135426id_/https://magic.wizards.com/en/articles/archive/event-coverage/final-standings-2000-01-01-13
+  captured_at: '2022-05-27 13:54:26+00'
+  template: drupal
+  sha256: 176b7d9018b3734b339bd41e724c79fc7ad8181c8233915f0be844f7d107fedf
+render_recovery: []
+---
+<table><tbody><tr><td><b>Rank</b></td>&#10;			<td><b>Name</b></td>&#10;		</tr><tr><td>1</td>&#10;			<td>Chapela Gaxiola, Gustavo</td>&#10;		</tr><tr><td>2</td>&#10;			<td>Le Saux, Rafael</td>&#10;		</tr><tr><td>3</td>&#10;			<td>Godinez-Estrada, Gerardo</td>&#10;		</tr><tr><td>4</td>&#10;			<td>Romao, Carlos E</td>&#10;		</tr><tr><td>5</td>&#10;			<td>Garcia Barbosa, Francisco</td>&#10;		</tr><tr><td>6</td>&#10;			<td>Sousa, Alex</td>&#10;		</tr><tr><td>7</td>&#10;			<td>Simao Teixeira, Eduardo</td>&#10;		</tr><tr><td>8</td>&#10;			<td>Felsberg, Thomas E</td>&#10;		</tr><tr><td>9</td>&#10;			<td>Biasotti, Franco</td>&#10;		</tr><tr><td>10</td>&#10;			<td>del Gerbo Actis, Gustavo</td>&#10;		</tr><tr><td>11</td>&#10;			<td>Araiza, Hugo</td>&#10;		</tr><tr><td>12</td>&#10;			<td>Sousa, Erico T</td>&#10;		</tr><tr><td>13</td>&#10;			<td>Alvarenga, Rafael A</td>&#10;		</tr><tr><td>14</td>&#10;			<td>Mignorance, Ernesto</td>&#10;		</tr><tr><td>15</td>&#10;			<td>Barbosa de Castro, Rodrigo C</td>&#10;		</tr><tr><td>16</td>&#10;			<td>Galimbertti, Victor U</td>&#10;		</tr><tr><td>17</td>&#10;			<td>San Juan, Basilio</td>&#10;		</tr><tr><td>18</td>&#10;			<td>de Lima Filho, Joao Roberto</td>&#10;		</tr><tr><td>19</td>&#10;			<td>Soares, Marcus V</td>&#10;		</tr><tr><td>20</td>&#10;			<td>Vazquez Ayala, Julio C</td>&#10;		</tr><tr><td>21</td>&#10;			<td>Huerta, Pablo</td>&#10;		</tr><tr><td>22</td>&#10;			<td>Neiman, Luis G</td>&#10;		</tr><tr><td>23</td>&#10;			<td>Maioli, Douglas</td>&#10;		</tr><tr><td>24</td>&#10;			<td>Hernandez, Cesar</td>&#10;		</tr><tr><td>25</td>&#10;			<td>Longo, Sergio</td>&#10;		</tr><tr><td>26</td>&#10;			<td>Mamczyc Haro, Leandro</td>&#10;		</tr><tr><td>27</td>&#10;			<td>Rodamilans, Enric</td>&#10;		</tr><tr><td>28</td>&#10;			<td>Lima, Eduardo L</td>&#10;		</tr><tr><td>29</td>&#10;			<td>Svaldi, Guilherme D</td>&#10;		</tr><tr><td>30</td>&#10;			<td>Possato, Dawton</td>&#10;		</tr><tr><td>31</td>&#10;			<td>Hino, Celso M</td>&#10;		</tr><tr><td>32</td>&#10;			<td>Hojman, Andres</td>&#10;		</tr><tr><td>33</td>&#10;			<td>Edel, Willy</td>&#10;		</tr><tr><td>34</td>&#10;			<td>Barbero, Jose</td>&#10;		</tr><tr><td>35</td>&#10;			<td>Monteavaro, Ignacio</td>&#10;		</tr><tr><td>36</td>&#10;			<td>Moro, Andres</td>&#10;		</tr><tr><td>37</td>&#10;			<td>Alvarez Rivera, Joaquin</td>&#10;		</tr><tr><td>38</td>&#10;			<td>Kim, Jong-Won</td>&#10;		</tr><tr><td>39</td>&#10;			<td>Costanza, Rodrigo J</td>&#10;		</tr><tr><td>40</td>&#10;			<td>Svaldi, Rafael D</td>&#10;		</tr><tr><td>41</td>&#10;			<td>Reutter, Juan</td>&#10;		</tr><tr><td>42</td>&#10;			<td>Sacal, Alexander</td>&#10;		</tr><tr><td>43</td>&#10;			<td>Peraza, Edward</td>&#10;		</tr><tr><td>44</td>&#10;			<td>Rafael, Miguel</td>&#10;		</tr><tr><td>45</td>&#10;			<td>Sanchez, Rodrigo</td>&#10;		</tr><tr><td>46</td>&#10;			<td>Possato, William C</td>&#10;		</tr><tr><td>47</td>&#10;			<td>Luncumilla, Mario</td>&#10;		</tr><tr><td>48</td>&#10;			<td>Baptista, Marco</td>&#10;		</tr><tr><td>49</td>&#10;			<td>Chacon, Salomon</td>&#10;		</tr><tr><td>50</td>&#10;			<td>Pereira, Christiano</td>&#10;		</tr><tr><td>51</td>&#10;			<td>Veiga, Fernando</td>&#10;		</tr><tr><td>52</td>&#10;			<td>De la Riva Fort, Juan Carlos</td>&#10;		</tr><tr><td>53</td>&#10;			<td>Ostrovich, Diego</td>&#10;		</tr><tr><td>54</td>&#10;			<td>Alejos, Franz</td>&#10;		</tr><tr><td>55</td>&#10;			<td>Albareda, Eduardo</td>&#10;		</tr><tr><td>56</td>&#10;			<td>Gomez, Matias</td>&#10;		</tr><tr><td>57</td>&#10;			<td>Zagalsky, Alejo</td>&#10;		</tr><tr><td>58</td>&#10;			<td>Remersaro, Santiago</td>&#10;		</tr><tr><td>59</td>&#10;			<td>Alvarez, Fernando</td>&#10;		</tr><tr><td>60</td>&#10;			<td>Undurraga, Christian</td>&#10;		</tr></tbody></table>

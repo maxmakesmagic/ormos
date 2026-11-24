@@ -1,0 +1,912 @@
+---
+id: czet7ypr
+kind: event
+lang: en
+path: /en/articles/event-coverage/2005/11-14-pro-tourhonolulu-qualifying-season-top-8-decklists-8
+title: 'Pro Tour–Honolulu Qualifying Season: Top 8 Decklists'
+published: '2005-11-14'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/pro-tour%E2%80%93honolulu-qualifying-season-top-8-decklists-2005-11-14-6
+    lang_detected: en
+    capture_id: 460272
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/pro-tour%E2%80%93honolulu-qualifying-season-top-8-decklists-2005-11-14-6
+    captured_at: '2022-08-15 08:01:52+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/pro-tour%E2%80%93honolulu-qualifying-season-top-8-decklists-2005-11-14-6
+    lang_detected: en
+    capture_id: 460272
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/pro-tour%E2%80%93honolulu-qualifying-season-top-8-decklists-2005-11-14-6
+    captured_at: '2022-08-15 08:01:52+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: czet7ypr
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/pro-tour%E2%80%93honolulu-qualifying-season-top-8-decklists-2005-11-14-6
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/pro-tour%E2%80%93honolulu-qualifying-season-top-8-decklists-2005-11-14-6
+  lang: en
+  template: drupal
+  captured_at: '2022-08-15 08:01:52+00'
+  capture_id: 460272
+  wayback_url: https://web.archive.org/web/20220815080152id_/https://magic.wizards.com/en/articles/archive/event-coverage/pro-tour%E2%80%93honolulu-qualifying-season-top-8-decklists-2005-11-14-6
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: czet7ypr
+  capture_id: 460272
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/pro-tour%E2%80%93honolulu-qualifying-season-top-8-decklists-2005-11-14-6
+  wayback_url: https://web.archive.org/web/20220815080152id_/https://magic.wizards.com/en/articles/archive/event-coverage/pro-tour%E2%80%93honolulu-qualifying-season-top-8-decklists-2005-11-14-6
+  captured_at: '2022-08-15 08:01:52+00'
+  template: drupal
+  sha256: ddb1d2b46f399ba2133c598022194713f393e055d364ac91edab041c7ebb7d7a
+render_recovery:
+- code: deck_widget_requires_review
+  element: a
+  reason: The archived deck widget has no visible card rows. The source capture may
+    contain data to recover it.
+  labels:
+  - Decklist
+  occurrences: 8
+---
+*Thanks to tournament organizer Larry Kohlman for the decklists.*
+
+#### Matt Hansen - Psychatog
+
+##### 
+
+ ![Download Arena Decklist](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png) ![](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+[Decklist](#none) [Stats](#none) [Sample Hand](#none) 
+
+Sort by: 
+
+##### Creature (6)
+
+1 [Meloku the Clouded Mirror](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMeloku%5D+%5Bthe%5D+%5BClouded%5D+%5BMirror%5D) 1 [Wonder](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWonder%5D) 4 [Psychatog](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPsychatog%5D) 
+
+##### Sorcery (1)
+
+1 [Deep Analysis](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeep%5D+%5BAnalysis%5D) 
+
+##### Instant (30)
+
+2 [Opt](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOpt%5D) 4 [Counterspell](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCounterspell%5D) 4 [Force Spike](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5BSpike%5D) 2 [Mana Leak](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BLeak%5D) 4 [Mental Note](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMental%5D+%5BNote%5D) 3 [Smother](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSmother%5D) 1 [Thirst for Knowledge](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThirst%5D+%5Bfor%5D+%5BKnowledge%5D) 1 [Gifts Ungiven](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGifts%5D+%5BUngiven%5D) 4 [Circular Logic](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCircular%5D+%5BLogic%5D) 3 [Fact or Fiction](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D) 2 [Boomerang](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBoomerang%5D) 
+
+##### Land (23)
+
+1 [Seat of the Synod](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeat%5D+%5Bof%5D+%5Bthe%5D+%5BSynod%5D) 8 [Island](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D) 1 [Swamp](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D) 1 [Vault of Whispers](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVault%5D+%5Bof%5D+%5BWhispers%5D) 3 [Watery Grave](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWatery%5D+%5BGrave%5D) 2 [Stalking Stones](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStalking%5D+%5BStones%5D) 2 [Cephalid Coliseum](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCephalid%5D+%5BColiseum%5D) 1 [Oboro, Palace in the Clouds](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOboro,%5D+%5BPalace%5D+%5Bin%5D+%5Bthe%5D+%5BClouds%5D) 4 [Polluted Delta](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D) 
+
+60 Cards 
+
+##### Sideboard (15)
+
+1 [Stalking Stones](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStalking%5D+%5BStones%5D) 2 [Meloku the Clouded Mirror](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMeloku%5D+%5Bthe%5D+%5BClouded%5D+%5BMirror%5D) 4 [Duress](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D) 1 [Skeletal Scrying](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkeletal%5D+%5BScrying%5D) 3 [Darkblast](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarkblast%5D) 4 [Ghastly Demise](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhastly%5D+%5BDemise%5D) 
+
+##### Blue (32)
+
+3 [Meloku the Clouded Mirror](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMeloku%5D+%5Bthe%5D+%5BClouded%5D+%5BMirror%5D) 1 [Wonder](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWonder%5D) 2 [Opt](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOpt%5D) 4 [Counterspell](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCounterspell%5D) 4 [Force Spike](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5BSpike%5D) 2 [Mana Leak](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BLeak%5D) 4 [Mental Note](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMental%5D+%5BNote%5D) 1 [Thirst for Knowledge](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThirst%5D+%5Bfor%5D+%5BKnowledge%5D) 1 [Gifts Ungiven](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGifts%5D+%5BUngiven%5D) 1 [Deep Analysis](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeep%5D+%5BAnalysis%5D) 4 [Circular Logic](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCircular%5D+%5BLogic%5D) 3 [Fact or Fiction](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D) 2 [Boomerang](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBoomerang%5D) 
+
+##### Black (15)
+
+3 [Smother](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSmother%5D) 4 [Duress](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D) 1 [Skeletal Scrying](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkeletal%5D+%5BScrying%5D) 3 [Darkblast](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarkblast%5D) 4 [Ghastly Demise](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhastly%5D+%5BDemise%5D) 
+
+##### Multi colored (4)
+
+4 [Psychatog](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPsychatog%5D) 
+
+##### Colorless (24)
+
+1 [Seat of the Synod](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeat%5D+%5Bof%5D+%5Bthe%5D+%5BSynod%5D) 8 [Island](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D) 1 [Swamp](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D) 1 [Vault of Whispers](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVault%5D+%5Bof%5D+%5BWhispers%5D) 3 [Watery Grave](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWatery%5D+%5BGrave%5D) 3 [Stalking Stones](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStalking%5D+%5BStones%5D) 2 [Cephalid Coliseum](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCephalid%5D+%5BColiseum%5D) 1 [Oboro, Palace in the Clouds](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOboro,%5D+%5BPalace%5D+%5Bin%5D+%5Bthe%5D+%5BClouds%5D) 4 [Polluted Delta](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D) 
+
+75 Cards 
+
+##### 1 (22)
+
+2 [Opt](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOpt%5D) 4 [Force Spike](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5BSpike%5D) 4 [Mental Note](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMental%5D+%5BNote%5D) 4 [Duress](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D) 1 [Skeletal Scrying](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkeletal%5D+%5BScrying%5D) 3 [Darkblast](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarkblast%5D) 4 [Ghastly Demise](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhastly%5D+%5BDemise%5D) 
+
+##### 2 (11)
+
+4 [Counterspell](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCounterspell%5D) 2 [Mana Leak](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BLeak%5D) 3 [Smother](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSmother%5D) 2 [Boomerang](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBoomerang%5D) 
+
+##### 3 (9)
+
+4 [Psychatog](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPsychatog%5D) 1 [Thirst for Knowledge](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThirst%5D+%5Bfor%5D+%5BKnowledge%5D) 4 [Circular Logic](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCircular%5D+%5BLogic%5D) 
+
+##### 4 (6)
+
+1 [Wonder](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWonder%5D) 1 [Gifts Ungiven](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGifts%5D+%5BUngiven%5D) 1 [Deep Analysis](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeep%5D+%5BAnalysis%5D) 3 [Fact or Fiction](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D) 
+
+##### 5 (3)
+
+3 [Meloku the Clouded Mirror](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMeloku%5D+%5Bthe%5D+%5BClouded%5D+%5BMirror%5D) 
+
+51 Cards 
+
+##### Common (36)
+
+1 [Seat of the Synod](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeat%5D+%5Bof%5D+%5Bthe%5D+%5BSynod%5D) 8 [Island](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D) 1 [Swamp](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D) 1 [Vault of Whispers](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVault%5D+%5Bof%5D+%5BWhispers%5D) 4 [Force Spike](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForce%5D+%5BSpike%5D) 2 [Mana Leak](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BLeak%5D) 4 [Mental Note](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMental%5D+%5BNote%5D) 1 [Deep Analysis](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeep%5D+%5BAnalysis%5D) 4 [Circular Logic](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCircular%5D+%5BLogic%5D) 2 [Boomerang](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBoomerang%5D) 4 [Duress](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D) 4 [Ghastly Demise](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhastly%5D+%5BDemise%5D) 
+
+##### Uncommon (24)
+
+3 [Stalking Stones](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStalking%5D+%5BStones%5D) 4 [Psychatog](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPsychatog%5D) 2 [Opt](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOpt%5D) 4 [Counterspell](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCounterspell%5D) 3 [Smother](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSmother%5D) 1 [Thirst for Knowledge](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThirst%5D+%5Bfor%5D+%5BKnowledge%5D) 3 [Fact or Fiction](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D) 1 [Skeletal Scrying](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSkeletal%5D+%5BScrying%5D) 3 [Darkblast](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarkblast%5D) 
+
+##### Rare (9)
+
+3 [Watery Grave](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWatery%5D+%5BGrave%5D) 1 [Oboro, Palace in the Clouds](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOboro,%5D+%5BPalace%5D+%5Bin%5D+%5Bthe%5D+%5BClouds%5D) 3 [Meloku the Clouded Mirror](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMeloku%5D+%5Bthe%5D+%5BClouded%5D+%5BMirror%5D) 1 [Wonder](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWonder%5D) 1 [Gifts Ungiven](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGifts%5D+%5BUngiven%5D) 
+
+##### Mythic (6)
+
+2 [Cephalid Coliseum](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCephalid%5D+%5BColiseum%5D) 4 [Polluted Delta](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D) 
+
+75 Cards 
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Seat+of+the+Synod)
+
+[Deal Another Hand](https://web.archive.org/web/20051114000000/https://magic.wizards.com/en)
+
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Boomerang)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Psychatog)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Polluted+Delta)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Island)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Gifts+Ungiven)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Fact+or+Fiction)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Mental+Note)
+
+a:28:{i:0;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Seat of the Synod";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:1;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:6:"Island";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"8";}i:2;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:5:"Swamp";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:3;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Vault of Whispers";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:4;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Watery Grave";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"3";}i:5;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Stalking Stones";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"2";}i:6;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Cephalid Coliseum";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"2";}i:7;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:27:"Oboro, Palace in the Clouds";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:8;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Polluted Delta";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:9;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:25:"Meloku the Clouded Mirror";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"1";}i:10;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:6:"Wonder";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"1";}i:11;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:9:"Psychatog";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:12;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:3:"Opt";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"2";}i:13;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Counterspell";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"4";}i:14;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Force Spike";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"4";}i:15;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:9:"Mana Leak";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"2";}i:16;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Mental Note";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"4";}i:17;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:7:"Smother";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"3";}i:18;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:20:"Thirst for Knowledge";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"1";}i:19;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Gifts Ungiven";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"1";}i:20;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Deep Analysis";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"1";}i:21;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Circular Logic";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"4";}i:22;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Fact or Fiction";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"3";}i:23;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:9:"Boomerang";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"2";}i:24;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:6:"Duress";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";i:0;}i:25;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Skeletal Scrying";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}i:26;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:9:"Darkblast";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}i:27;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Ghastly Demise";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}} 
+
+  
+
+#### Justin Meyer - Tog Madness
+
+##### 
+
+ ![Download Arena Decklist](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png) ![](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+[Decklist](#none) [Stats](#none) [Sample Hand](#none) 
+
+Sort by: 
+
+##### Creature (20)
+
+4 [Wild Mongrel](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BMongrel%5D) 4 [Arrogant Wurm](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArrogant%5D+%5BWurm%5D) 4 [Basking Rootwalla](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBasking%5D+%5BRootwalla%5D) 3 [Aquamoeba](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAquamoeba%5D) 3 [Psychatog](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPsychatog%5D) 1 [Merfolk Looter](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMerfolk%5D+%5BLooter%5D) 1 [Wonder](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWonder%5D) 
+
+##### Sorcery (6)
+
+1 [Deep Analysis](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeep%5D+%5BAnalysis%5D) 1 [Life from the Loam](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLife%5D+%5Bfrom%5D+%5Bthe%5D+%5BLoam%5D) 4 [Careful Study](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCareful%5D+%5BStudy%5D) 
+
+##### Instant (7)
+
+4 [Circular Logic](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCircular%5D+%5BLogic%5D) 2 [Gifts Ungiven](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGifts%5D+%5BUngiven%5D) 1 [Darkblast](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarkblast%5D) 
+
+##### Artifact (6)
+
+3 [Chrome Mox](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChrome%5D+%5BMox%5D) 3 [Umezawa's Jitte](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUmezawa%5D+%5BJitte%5D) 
+
+##### Land (21)
+
+4 [Polluted Delta](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D) 2 [Bloodstained Mire](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D) 2 [Overgrown Tomb](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOvergrown%5D+%5BTomb%5D) 2 [Watery Grave](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWatery%5D+%5BGrave%5D) 2 [Forest](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D) 2 [Island](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D) 4 [Yavimaya Coast](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYavimaya%5D+%5BCoast%5D) 1 [Centaur Garden](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCentaur%5D+%5BGarden%5D) 1 [Cephalid Coliseum](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCephalid%5D+%5BColiseum%5D) 1 [Lonely Sandbar](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLonely%5D+%5BSandbar%5D) 
+
+60 Cards 
+
+##### Sideboard (15)
+
+4 [Naturalize](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNaturalize%5D) 4 [Smother](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSmother%5D) 4 [Cabal Therapy](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCabal%5D+%5BTherapy%5D) 3 [Pernicious Deed](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPernicious%5D+%5BDeed%5D) 
+
+##### Blue (16)
+
+3 [Aquamoeba](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAquamoeba%5D) 1 [Merfolk Looter](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMerfolk%5D+%5BLooter%5D) 1 [Wonder](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWonder%5D) 4 [Circular Logic](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCircular%5D+%5BLogic%5D) 2 [Gifts Ungiven](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGifts%5D+%5BUngiven%5D) 1 [Deep Analysis](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeep%5D+%5BAnalysis%5D) 4 [Careful Study](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCareful%5D+%5BStudy%5D) 
+
+##### Black (9)
+
+1 [Darkblast](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarkblast%5D) 4 [Smother](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSmother%5D) 4 [Cabal Therapy](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCabal%5D+%5BTherapy%5D) 
+
+##### Green (17)
+
+4 [Wild Mongrel](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BMongrel%5D) 4 [Arrogant Wurm](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArrogant%5D+%5BWurm%5D) 4 [Basking Rootwalla](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBasking%5D+%5BRootwalla%5D) 1 [Life from the Loam](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLife%5D+%5Bfrom%5D+%5Bthe%5D+%5BLoam%5D) 4 [Naturalize](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNaturalize%5D) 
+
+##### Multi colored (6)
+
+3 [Psychatog](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPsychatog%5D) 3 [Pernicious Deed](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPernicious%5D+%5BDeed%5D) 
+
+##### Colorless (27)
+
+4 [Polluted Delta](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D) 2 [Bloodstained Mire](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D) 2 [Overgrown Tomb](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOvergrown%5D+%5BTomb%5D) 2 [Watery Grave](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWatery%5D+%5BGrave%5D) 2 [Forest](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D) 2 [Island](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D) 4 [Yavimaya Coast](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYavimaya%5D+%5BCoast%5D) 1 [Centaur Garden](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCentaur%5D+%5BGarden%5D) 1 [Cephalid Coliseum](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCephalid%5D+%5BColiseum%5D) 1 [Lonely Sandbar](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLonely%5D+%5BSandbar%5D) 3 [Chrome Mox](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChrome%5D+%5BMox%5D) 3 [Umezawa's Jitte](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUmezawa%5D+%5BJitte%5D) 
+
+75 Cards 
+
+##### 1 (13)
+
+4 [Basking Rootwalla](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBasking%5D+%5BRootwalla%5D) 4 [Careful Study](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCareful%5D+%5BStudy%5D) 1 [Darkblast](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarkblast%5D) 4 [Cabal Therapy](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCabal%5D+%5BTherapy%5D) 
+
+##### 2 (20)
+
+4 [Wild Mongrel](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BMongrel%5D) 3 [Aquamoeba](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAquamoeba%5D) 1 [Merfolk Looter](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMerfolk%5D+%5BLooter%5D) 3 [Umezawa's Jitte](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUmezawa%5D+%5BJitte%5D) 1 [Life from the Loam](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLife%5D+%5Bfrom%5D+%5Bthe%5D+%5BLoam%5D) 4 [Naturalize](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNaturalize%5D) 4 [Smother](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSmother%5D) 
+
+##### 3 (10)
+
+3 [Psychatog](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPsychatog%5D) 4 [Circular Logic](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCircular%5D+%5BLogic%5D) 3 [Pernicious Deed](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPernicious%5D+%5BDeed%5D) 
+
+##### 4 (4)
+
+1 [Wonder](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWonder%5D) 2 [Gifts Ungiven](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGifts%5D+%5BUngiven%5D) 1 [Deep Analysis](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeep%5D+%5BAnalysis%5D) 
+
+##### 5 (4)
+
+4 [Arrogant Wurm](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArrogant%5D+%5BWurm%5D) 
+
+51 Cards 
+
+##### Common (33)
+
+2 [Forest](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D) 2 [Island](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D) 4 [Wild Mongrel](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BMongrel%5D) 4 [Arrogant Wurm](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArrogant%5D+%5BWurm%5D) 4 [Basking Rootwalla](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBasking%5D+%5BRootwalla%5D) 3 [Aquamoeba](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAquamoeba%5D) 1 [Merfolk Looter](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMerfolk%5D+%5BLooter%5D) 4 [Circular Logic](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCircular%5D+%5BLogic%5D) 1 [Deep Analysis](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeep%5D+%5BAnalysis%5D) 4 [Careful Study](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCareful%5D+%5BStudy%5D) 4 [Naturalize](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNaturalize%5D) 
+
+##### Uncommon (14)
+
+1 [Centaur Garden](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCentaur%5D+%5BGarden%5D) 1 [Lonely Sandbar](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLonely%5D+%5BSandbar%5D) 3 [Psychatog](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPsychatog%5D) 1 [Darkblast](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDarkblast%5D) 4 [Smother](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSmother%5D) 4 [Cabal Therapy](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCabal%5D+%5BTherapy%5D) 
+
+##### Rare (21)
+
+2 [Overgrown Tomb](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOvergrown%5D+%5BTomb%5D) 2 [Watery Grave](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWatery%5D+%5BGrave%5D) 4 [Yavimaya Coast](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYavimaya%5D+%5BCoast%5D) 1 [Wonder](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWonder%5D) 3 [Chrome Mox](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChrome%5D+%5BMox%5D) 3 [Umezawa's Jitte](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUmezawa%5D+%5BJitte%5D) 2 [Gifts Ungiven](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGifts%5D+%5BUngiven%5D) 1 [Life from the Loam](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLife%5D+%5Bfrom%5D+%5Bthe%5D+%5BLoam%5D) 3 [Pernicious Deed](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPernicious%5D+%5BDeed%5D) 
+
+##### Mythic (7)
+
+4 [Polluted Delta](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D) 2 [Bloodstained Mire](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D) 1 [Cephalid Coliseum](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCephalid%5D+%5BColiseum%5D) 
+
+75 Cards 
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Polluted+Delta)
+
+[Deal Another Hand](https://web.archive.org/web/20051114000000/https://magic.wizards.com/en)
+
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Overgrown+Tomb)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Arrogant+Wurm)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Arrogant+Wurm)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Island)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Watery+Grave)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Arrogant+Wurm)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Gifts+Ungiven)
+
+a:29:{i:0;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Polluted Delta";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:1;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Bloodstained Mire";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"2";}i:2;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Overgrown Tomb";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"2";}i:3;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Watery Grave";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"2";}i:4;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:6:"Forest";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"2";}i:5;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:6:"Island";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"2";}i:6;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Yavimaya Coast";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:7;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Centaur Garden";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:8;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Cephalid Coliseum";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:9;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Lonely Sandbar";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:10;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Wild Mongrel";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:11;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Arrogant Wurm";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:12;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Basking Rootwalla";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:13;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:9:"Aquamoeba";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"3";}i:14;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:9:"Psychatog";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"3";}i:15;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Merfolk Looter";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"1";}i:16;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:6:"Wonder";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"1";}i:17;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Circular Logic";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"4";}i:18;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:10:"Chrome Mox";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";s:1:"3";}i:19;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Umezawa's Jitte";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";s:1:"3";}i:20;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Gifts Ungiven";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"2";}i:21;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Deep Analysis";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"1";}i:22;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:18:"Life from the Loam";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"1";}i:23;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Careful Study";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"4";}i:24;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:9:"Darkblast";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"1";}i:25;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:10:"Naturalize";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}i:26;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:7:"Smother";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}i:27;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Cabal Therapy";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";i:0;}i:28;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Pernicious Deed";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:11:"enchantment";s:10:"deck\_count";i:0;}} 
+
+  
+
+#### Dave Washenberger - Boros Deck Wins
+
+##### 
+
+ ![Download Arena Decklist](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png) ![](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+[Decklist](#none) [Stats](#none) [Sample Hand](#none) 
+
+Sort by: 
+
+##### Creature (18)
+
+4 [Savannah Lions](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSavannah%5D+%5BLions%5D) 4 [Goblin Legionnaire](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BLegionnaire%5D) 3 [Kataki, War's Wage](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKataki,%5D+%5BWar%5D+%5BWage%5D) 4 [Grim Lavamancer](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrim%5D+%5BLavamancer%5D) 3 [Isamaru, Hound of Konda](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsamaru,%5D+%5BHound%5D+%5Bof%5D+%5BKonda%5D) 
+
+##### Sorcery (8)
+
+4 [Pillage](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPillage%5D) 4 [Molten Rain](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMolten%5D+%5BRain%5D) 
+
+##### Instant (13)
+
+4 [Lightning Helix](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BHelix%5D) 4 [Lava Dart](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLava%5D+%5BDart%5D) 4 [Fireblast](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFireblast%5D) 1 [Pulse of the Forge](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPulse%5D+%5Bof%5D+%5Bthe%5D+%5BForge%5D) 
+
+##### Land (21)
+
+2 [Windswept Heath](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D) 1 [Shinka, the Bloodsoaked Keep](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShinka,%5D+%5Bthe%5D+%5BBloodsoaked%5D+%5BKeep%5D) 3 [Bloodstained Mire](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D) 3 [Wooded Foothills](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D) 4 [Sacred Foundry](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSacred%5D+%5BFoundry%5D) 4 [Mountain](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D) 2 [Plains](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D) 1 [Eiganjo Castle](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEiganjo%5D+%5BCastle%5D) 1 [Flooded Strand](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D) 
+
+60 Cards 
+
+##### Sideboard (15)
+
+2 [Umezawa's Jitte](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUmezawa%5D+%5BJitte%5D) 4 [Purge](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPurge%5D) 3 [Fledgling Dragon](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFledgling%5D+%5BDragon%5D) 3 [Flametongue Kavu](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlametongue%5D+%5BKavu%5D) 3 [Blood Moon](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlood%5D+%5BMoon%5D) 
+
+##### White (14)
+
+4 [Savannah Lions](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSavannah%5D+%5BLions%5D) 3 [Kataki, War's Wage](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKataki,%5D+%5BWar%5D+%5BWage%5D) 3 [Isamaru, Hound of Konda](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsamaru,%5D+%5BHound%5D+%5Bof%5D+%5BKonda%5D) 4 [Purge](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPurge%5D) 
+
+##### Red (30)
+
+4 [Grim Lavamancer](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrim%5D+%5BLavamancer%5D) 4 [Pillage](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPillage%5D) 4 [Molten Rain](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMolten%5D+%5BRain%5D) 4 [Lava Dart](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLava%5D+%5BDart%5D) 4 [Fireblast](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFireblast%5D) 1 [Pulse of the Forge](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPulse%5D+%5Bof%5D+%5Bthe%5D+%5BForge%5D) 3 [Fledgling Dragon](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFledgling%5D+%5BDragon%5D) 3 [Flametongue Kavu](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlametongue%5D+%5BKavu%5D) 3 [Blood Moon](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlood%5D+%5BMoon%5D) 
+
+##### Multi colored (8)
+
+4 [Goblin Legionnaire](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BLegionnaire%5D) 4 [Lightning Helix](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BHelix%5D) 
+
+##### Colorless (23)
+
+2 [Windswept Heath](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D) 1 [Shinka, the Bloodsoaked Keep](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShinka,%5D+%5Bthe%5D+%5BBloodsoaked%5D+%5BKeep%5D) 3 [Bloodstained Mire](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D) 3 [Wooded Foothills](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D) 4 [Sacred Foundry](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSacred%5D+%5BFoundry%5D) 4 [Mountain](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D) 2 [Plains](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D) 1 [Eiganjo Castle](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEiganjo%5D+%5BCastle%5D) 1 [Flooded Strand](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D) 2 [Umezawa's Jitte](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUmezawa%5D+%5BJitte%5D) 
+
+75 Cards 
+
+##### 1 (15)
+
+4 [Savannah Lions](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSavannah%5D+%5BLions%5D) 4 [Grim Lavamancer](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrim%5D+%5BLavamancer%5D) 3 [Isamaru, Hound of Konda](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsamaru,%5D+%5BHound%5D+%5Bof%5D+%5BKonda%5D) 4 [Lava Dart](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLava%5D+%5BDart%5D) 
+
+##### 2 (17)
+
+4 [Goblin Legionnaire](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BLegionnaire%5D) 3 [Kataki, War's Wage](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKataki,%5D+%5BWar%5D+%5BWage%5D) 4 [Lightning Helix](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BHelix%5D) 2 [Umezawa's Jitte](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUmezawa%5D+%5BJitte%5D) 4 [Purge](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPurge%5D) 
+
+##### 3 (12)
+
+4 [Pillage](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPillage%5D) 4 [Molten Rain](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMolten%5D+%5BRain%5D) 1 [Pulse of the Forge](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPulse%5D+%5Bof%5D+%5Bthe%5D+%5BForge%5D) 3 [Blood Moon](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlood%5D+%5BMoon%5D) 
+
+##### 4 (6)
+
+3 [Fledgling Dragon](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFledgling%5D+%5BDragon%5D) 3 [Flametongue Kavu](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlametongue%5D+%5BKavu%5D) 
+
+##### 6 (4)
+
+4 [Fireblast](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFireblast%5D) 
+
+54 Cards 
+
+##### Common (22)
+
+4 [Mountain](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D) 2 [Plains](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D) 4 [Savannah Lions](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSavannah%5D+%5BLions%5D) 4 [Goblin Legionnaire](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BLegionnaire%5D) 4 [Molten Rain](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMolten%5D+%5BRain%5D) 4 [Lava Dart](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLava%5D+%5BDart%5D) 
+
+##### Uncommon (19)
+
+4 [Lightning Helix](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BHelix%5D) 4 [Pillage](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPillage%5D) 4 [Fireblast](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFireblast%5D) 4 [Purge](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPurge%5D) 3 [Flametongue Kavu](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlametongue%5D+%5BKavu%5D) 
+
+##### Rare (25)
+
+1 [Shinka, the Bloodsoaked Keep](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShinka,%5D+%5Bthe%5D+%5BBloodsoaked%5D+%5BKeep%5D) 4 [Sacred Foundry](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSacred%5D+%5BFoundry%5D) 1 [Eiganjo Castle](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEiganjo%5D+%5BCastle%5D) 3 [Kataki, War's Wage](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKataki,%5D+%5BWar%5D+%5BWage%5D) 4 [Grim Lavamancer](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrim%5D+%5BLavamancer%5D) 3 [Isamaru, Hound of Konda](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsamaru,%5D+%5BHound%5D+%5Bof%5D+%5BKonda%5D) 1 [Pulse of the Forge](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPulse%5D+%5Bof%5D+%5Bthe%5D+%5BForge%5D) 2 [Umezawa's Jitte](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUmezawa%5D+%5BJitte%5D) 3 [Fledgling Dragon](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFledgling%5D+%5BDragon%5D) 3 [Blood Moon](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlood%5D+%5BMoon%5D) 
+
+##### Mythic (9)
+
+2 [Windswept Heath](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D) 3 [Bloodstained Mire](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D) 3 [Wooded Foothills](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D) 1 [Flooded Strand](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlooded%5D+%5BStrand%5D) 
+
+75 Cards 
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Windswept+Heath)
+
+[Deal Another Hand](https://web.archive.org/web/20051114000000/https://magic.wizards.com/en)
+
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Lava+Dart)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Flooded+Strand)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Sacred+Foundry)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Bloodstained+Mire)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Wooded+Foothills)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Kataki%2C+War%27s+Wage)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Pillage)
+
+a:25:{i:0;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Windswept Heath";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"2";}i:1;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:28:"Shinka, the Bloodsoaked Keep";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:2;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Bloodstained Mire";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"3";}i:3;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Wooded Foothills";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"3";}i:4;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Sacred Foundry";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:5;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:8:"Mountain";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:6;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:6:"Plains";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"2";}i:7;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Eiganjo Castle";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:8;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Flooded Strand";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:9;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Savannah Lions";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:10;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:18:"Goblin Legionnaire";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:11;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:18:"Kataki, War's Wage";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"3";}i:12;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Grim Lavamancer";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:13;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:23:"Isamaru, Hound of Konda";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"3";}i:14;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Lightning Helix";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"4";}i:15;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:7:"Pillage";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"4";}i:16;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Molten Rain";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"4";}i:17;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:9:"Lava Dart";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"4";}i:18;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:9:"Fireblast";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"4";}i:19;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:18:"Pulse of the Forge";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"1";}i:20;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Umezawa's Jitte";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";i:0;}i:21;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:5:"Purge";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}i:22;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Fledgling Dragon";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";i:0;}i:23;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Flametongue Kavu";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";i:0;}i:24;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:10:"Blood Moon";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:11:"enchantment";s:10:"deck\_count";i:0;}} 
+
+  
+
+#### Jack Ewing - Heartbeat Desire
+
+##### 
+
+ ![Download Arena Decklist](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png) ![](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+[Decklist](#none) [Stats](#none) [Sample Hand](#none) 
+
+Sort by: 
+
+##### Creature (4)
+
+4 [Sakura-Tribe Elder](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSakura-Tribe%5D+%5BElder%5D) 
+
+##### Sorcery (13)
+
+3 [Rampant Growth](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRampant%5D+%5BGrowth%5D) 4 [Nostalgic Dreams](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNostalgic%5D+%5BDreams%5D) 4 [Mind's Desire](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMind%5D+%5BDesire%5D) 1 [Revive](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRevive%5D) 1 [Deep Analysis](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeep%5D+%5BAnalysis%5D) 
+
+##### Instant (17)
+
+4 [Cunning Wish](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCunning%5D+%5BWish%5D) 4 [Gifts Ungiven](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGifts%5D+%5BUngiven%5D) 3 [Fact or Fiction](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D) 3 [Early Harvest](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEarly%5D+%5BHarvest%5D) 2 [Moment's Peace](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMoment%5D+%5BPeace%5D) 1 [Brain Freeze](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrain%5D+%5BFreeze%5D) 
+
+##### Enchantment (4)
+
+4 [Heartbeat of Spring](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHeartbeat%5D+%5Bof%5D+%5BSpring%5D) 
+
+##### Land (22)
+
+12 [Forest](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D) 10 [Island](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D) 
+
+60 Cards 
+
+##### Sideboard (15)
+
+1 [Fact or Fiction](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D) 1 [Early Harvest](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEarly%5D+%5BHarvest%5D) 2 [Moment's Peace](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMoment%5D+%5BPeace%5D) 2 [Brain Freeze](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrain%5D+%5BFreeze%5D) 4 [Mana Short](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BShort%5D) 1 [Echoing Truth](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEchoing%5D+%5BTruth%5D) 1 [Naturalize](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNaturalize%5D) 1 [Words of Wisdom](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWords%5D+%5Bof%5D+%5BWisdom%5D) 1 [Memory Lapse](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMemory%5D+%5BLapse%5D) 1 [Seedtime](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeedtime%5D) 
+
+##### Blue (27)
+
+4 [Cunning Wish](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCunning%5D+%5BWish%5D) 4 [Gifts Ungiven](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGifts%5D+%5BUngiven%5D) 4 [Fact or Fiction](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D) 4 [Mind's Desire](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMind%5D+%5BDesire%5D) 1 [Deep Analysis](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeep%5D+%5BAnalysis%5D) 3 [Brain Freeze](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrain%5D+%5BFreeze%5D) 4 [Mana Short](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BShort%5D) 1 [Echoing Truth](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEchoing%5D+%5BTruth%5D) 1 [Words of Wisdom](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWords%5D+%5Bof%5D+%5BWisdom%5D) 1 [Memory Lapse](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMemory%5D+%5BLapse%5D) 
+
+##### Green (26)
+
+4 [Sakura-Tribe Elder](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSakura-Tribe%5D+%5BElder%5D) 3 [Rampant Growth](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRampant%5D+%5BGrowth%5D) 4 [Nostalgic Dreams](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNostalgic%5D+%5BDreams%5D) 4 [Heartbeat of Spring](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHeartbeat%5D+%5Bof%5D+%5BSpring%5D) 4 [Early Harvest](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEarly%5D+%5BHarvest%5D) 4 [Moment's Peace](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMoment%5D+%5BPeace%5D) 1 [Revive](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRevive%5D) 1 [Naturalize](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNaturalize%5D) 1 [Seedtime](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeedtime%5D) 
+
+##### Colorless (22)
+
+12 [Forest](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D) 10 [Island](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D) 
+
+75 Cards 
+
+##### 2 (24)
+
+4 [Sakura-Tribe Elder](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSakura-Tribe%5D+%5BElder%5D) 3 [Rampant Growth](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRampant%5D+%5BGrowth%5D) 4 [Nostalgic Dreams](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNostalgic%5D+%5BDreams%5D) 4 [Moment's Peace](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMoment%5D+%5BPeace%5D) 1 [Revive](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRevive%5D) 3 [Brain Freeze](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrain%5D+%5BFreeze%5D) 1 [Echoing Truth](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEchoing%5D+%5BTruth%5D) 1 [Naturalize](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNaturalize%5D) 1 [Words of Wisdom](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWords%5D+%5Bof%5D+%5BWisdom%5D) 1 [Memory Lapse](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMemory%5D+%5BLapse%5D) 1 [Seedtime](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeedtime%5D) 
+
+##### 3 (16)
+
+4 [Heartbeat of Spring](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHeartbeat%5D+%5Bof%5D+%5BSpring%5D) 4 [Cunning Wish](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCunning%5D+%5BWish%5D) 4 [Early Harvest](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEarly%5D+%5BHarvest%5D) 4 [Mana Short](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BShort%5D) 
+
+##### 4 (9)
+
+4 [Gifts Ungiven](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGifts%5D+%5BUngiven%5D) 4 [Fact or Fiction](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D) 1 [Deep Analysis](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeep%5D+%5BAnalysis%5D) 
+
+##### 6 (4)
+
+4 [Mind's Desire](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMind%5D+%5BDesire%5D) 
+
+53 Cards 
+
+##### Common (37)
+
+12 [Forest](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D) 10 [Island](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D) 4 [Sakura-Tribe Elder](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSakura-Tribe%5D+%5BElder%5D) 3 [Rampant Growth](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRampant%5D+%5BGrowth%5D) 4 [Moment's Peace](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMoment%5D+%5BPeace%5D) 1 [Deep Analysis](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeep%5D+%5BAnalysis%5D) 1 [Echoing Truth](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEchoing%5D+%5BTruth%5D) 1 [Naturalize](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNaturalize%5D) 1 [Words of Wisdom](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWords%5D+%5Bof%5D+%5BWisdom%5D) 
+
+##### Uncommon (12)
+
+4 [Nostalgic Dreams](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNostalgic%5D+%5BDreams%5D) 4 [Fact or Fiction](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D) 1 [Revive](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRevive%5D) 3 [Brain Freeze](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrain%5D+%5BFreeze%5D) 
+
+##### Rare (26)
+
+4 [Heartbeat of Spring](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHeartbeat%5D+%5Bof%5D+%5BSpring%5D) 4 [Cunning Wish](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCunning%5D+%5BWish%5D) 4 [Gifts Ungiven](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGifts%5D+%5BUngiven%5D) 4 [Early Harvest](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEarly%5D+%5BHarvest%5D) 4 [Mind's Desire](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMind%5D+%5BDesire%5D) 4 [Mana Short](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BShort%5D) 1 [Memory Lapse](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMemory%5D+%5BLapse%5D) 1 [Seedtime](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeedtime%5D) 
+
+75 Cards 
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Forest)
+
+[Deal Another Hand](https://web.archive.org/web/20051114000000/https://magic.wizards.com/en)
+
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Cunning+Wish)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Island)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Island)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Forest)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Island)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Moment%27s+Peace)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Fact+or+Fiction)
+
+a:21:{i:0;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:6:"Forest";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:2:"12";}i:1;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:6:"Island";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:2:"10";}i:2;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:18:"Sakura-Tribe Elder";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:3;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Rampant Growth";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"3";}i:4;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Nostalgic Dreams";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"4";}i:5;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:19:"Heartbeat of Spring";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:11:"enchantment";s:10:"deck\_count";s:1:"4";}i:6;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Cunning Wish";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"4";}i:7;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Gifts Ungiven";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"4";}i:8;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Fact or Fiction";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"3";}i:9;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Early Harvest";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"3";}i:10;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Mind's Desire";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"4";}i:11;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Moment's Peace";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"2";}i:12;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:6:"Revive";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"1";}i:13;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Deep Analysis";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"1";}i:14;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Brain Freeze";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"1";}i:15;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:10:"Mana Short";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}i:16;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Echoing Truth";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}i:17;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:10:"Naturalize";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}i:18;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Words of Wisdom";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}i:19;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Memory Lapse";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}i:20;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:8:"Seedtime";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}} 
+
+  
+
+#### Tim Larsen - Boros Deck Wins
+
+##### 
+
+ ![Download Arena Decklist](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png) ![](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+[Decklist](#none) [Stats](#none) [Sample Hand](#none) 
+
+Sort by: 
+
+##### Creature (18)
+
+4 [Savannah Lions](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSavannah%5D+%5BLions%5D) 4 [Grim Lavamancer](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrim%5D+%5BLavamancer%5D) 4 [Goblin Legionnaire](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BLegionnaire%5D) 3 [Kataki, War's Wage](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKataki,%5D+%5BWar%5D+%5BWage%5D) 3 [Isamaru, Hound of Konda](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsamaru,%5D+%5BHound%5D+%5Bof%5D+%5BKonda%5D) 
+
+##### Sorcery (12)
+
+4 [Pillage](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPillage%5D) 4 [Molten Rain](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMolten%5D+%5BRain%5D) 4 [Firebolt](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFirebolt%5D) 
+
+##### Instant (9)
+
+4 [Lava Dart](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLava%5D+%5BDart%5D) 4 [Lightning Helix](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BHelix%5D) 1 [Char](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChar%5D) 
+
+##### Land (21)
+
+1 [Plains](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D) 4 [Mountain](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D) 4 [Bloodstained Mire](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D) 4 [Wooded Foothills](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D) 2 [Windswept Heath](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D) 4 [Sacred Foundry](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSacred%5D+%5BFoundry%5D) 1 [Eiganjo Castle](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEiganjo%5D+%5BCastle%5D) 1 [Shinka, the Bloodsoaked Keep](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShinka,%5D+%5Bthe%5D+%5BBloodsoaked%5D+%5BKeep%5D) 
+
+60 Cards 
+
+##### Sideboard (15)
+
+3 [Disenchant](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisenchant%5D) 2 [Fledgling Dragon](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFledgling%5D+%5BDragon%5D) 3 [Blood Moon](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlood%5D+%5BMoon%5D) 3 [Umezawa's Jitte](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUmezawa%5D+%5BJitte%5D) 4 [Purge](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPurge%5D) 
+
+##### White (17)
+
+4 [Savannah Lions](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSavannah%5D+%5BLions%5D) 3 [Kataki, War's Wage](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKataki,%5D+%5BWar%5D+%5BWage%5D) 3 [Isamaru, Hound of Konda](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsamaru,%5D+%5BHound%5D+%5Bof%5D+%5BKonda%5D) 3 [Disenchant](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisenchant%5D) 4 [Purge](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPurge%5D) 
+
+##### Red (26)
+
+4 [Grim Lavamancer](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrim%5D+%5BLavamancer%5D) 4 [Pillage](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPillage%5D) 4 [Molten Rain](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMolten%5D+%5BRain%5D) 4 [Lava Dart](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLava%5D+%5BDart%5D) 4 [Firebolt](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFirebolt%5D) 1 [Char](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChar%5D) 2 [Fledgling Dragon](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFledgling%5D+%5BDragon%5D) 3 [Blood Moon](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlood%5D+%5BMoon%5D) 
+
+##### Multi colored (8)
+
+4 [Goblin Legionnaire](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BLegionnaire%5D) 4 [Lightning Helix](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BHelix%5D) 
+
+##### Colorless (24)
+
+1 [Plains](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D) 4 [Mountain](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D) 4 [Bloodstained Mire](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D) 4 [Wooded Foothills](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D) 2 [Windswept Heath](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D) 4 [Sacred Foundry](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSacred%5D+%5BFoundry%5D) 1 [Eiganjo Castle](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEiganjo%5D+%5BCastle%5D) 1 [Shinka, the Bloodsoaked Keep](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShinka,%5D+%5Bthe%5D+%5BBloodsoaked%5D+%5BKeep%5D) 3 [Umezawa's Jitte](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUmezawa%5D+%5BJitte%5D) 
+
+75 Cards 
+
+##### 1 (19)
+
+4 [Savannah Lions](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSavannah%5D+%5BLions%5D) 4 [Grim Lavamancer](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrim%5D+%5BLavamancer%5D) 3 [Isamaru, Hound of Konda](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsamaru,%5D+%5BHound%5D+%5Bof%5D+%5BKonda%5D) 4 [Lava Dart](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLava%5D+%5BDart%5D) 4 [Firebolt](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFirebolt%5D) 
+
+##### 2 (21)
+
+4 [Goblin Legionnaire](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BLegionnaire%5D) 3 [Kataki, War's Wage](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKataki,%5D+%5BWar%5D+%5BWage%5D) 4 [Lightning Helix](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BHelix%5D) 3 [Disenchant](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisenchant%5D) 3 [Umezawa's Jitte](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUmezawa%5D+%5BJitte%5D) 4 [Purge](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPurge%5D) 
+
+##### 3 (12)
+
+4 [Pillage](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPillage%5D) 4 [Molten Rain](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMolten%5D+%5BRain%5D) 1 [Char](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChar%5D) 3 [Blood Moon](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlood%5D+%5BMoon%5D) 
+
+##### 4 (2)
+
+2 [Fledgling Dragon](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFledgling%5D+%5BDragon%5D) 
+
+54 Cards 
+
+##### Common (24)
+
+1 [Plains](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D) 4 [Mountain](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D) 4 [Savannah Lions](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSavannah%5D+%5BLions%5D) 4 [Goblin Legionnaire](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGoblin%5D+%5BLegionnaire%5D) 4 [Molten Rain](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMolten%5D+%5BRain%5D) 4 [Lava Dart](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLava%5D+%5BDart%5D) 3 [Disenchant](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisenchant%5D) 
+
+##### Uncommon (16)
+
+4 [Pillage](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPillage%5D) 4 [Lightning Helix](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BHelix%5D) 4 [Firebolt](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFirebolt%5D) 4 [Purge](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPurge%5D) 
+
+##### Rare (24)
+
+4 [Sacred Foundry](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSacred%5D+%5BFoundry%5D) 1 [Eiganjo Castle](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEiganjo%5D+%5BCastle%5D) 1 [Shinka, the Bloodsoaked Keep](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BShinka,%5D+%5Bthe%5D+%5BBloodsoaked%5D+%5BKeep%5D) 4 [Grim Lavamancer](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrim%5D+%5BLavamancer%5D) 3 [Kataki, War's Wage](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKataki,%5D+%5BWar%5D+%5BWage%5D) 3 [Isamaru, Hound of Konda](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsamaru,%5D+%5BHound%5D+%5Bof%5D+%5BKonda%5D) 2 [Fledgling Dragon](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFledgling%5D+%5BDragon%5D) 3 [Blood Moon](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlood%5D+%5BMoon%5D) 3 [Umezawa's Jitte](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUmezawa%5D+%5BJitte%5D) 
+
+##### Mythic (11)
+
+4 [Bloodstained Mire](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBloodstained%5D+%5BMire%5D) 4 [Wooded Foothills](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWooded%5D+%5BFoothills%5D) 2 [Windswept Heath](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D) 1 [Char](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChar%5D) 
+
+75 Cards 
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Plains)
+
+[Deal Another Hand](https://web.archive.org/web/20051114000000/https://magic.wizards.com/en)
+
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Savannah+Lions)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Char)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Molten+Rain)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Lightning+Helix)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Molten+Rain)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Kataki%2C+War%27s+Wage)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Isamaru%2C+Hound+of+Konda)
+
+a:24:{i:0;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:6:"Plains";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:1;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:8:"Mountain";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:2;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Bloodstained Mire";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:3;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Wooded Foothills";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:4;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Windswept Heath";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"2";}i:5;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Sacred Foundry";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:6;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Eiganjo Castle";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:7;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:28:"Shinka, the Bloodsoaked Keep";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:8;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Savannah Lions";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:9;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Grim Lavamancer";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:10;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:18:"Goblin Legionnaire";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:11;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:18:"Kataki, War's Wage";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"3";}i:12;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:23:"Isamaru, Hound of Konda";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"3";}i:13;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:7:"Pillage";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"4";}i:14;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Molten Rain";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"4";}i:15;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:9:"Lava Dart";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"4";}i:16;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Lightning Helix";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"4";}i:17;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:8:"Firebolt";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"4";}i:18;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:4:"Char";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"1";}i:19;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:10:"Disenchant";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}i:20;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Fledgling Dragon";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";i:0;}i:21;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:10:"Blood Moon";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:11:"enchantment";s:10:"deck\_count";i:0;}i:22;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Umezawa's Jitte";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";i:0;}i:23;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:5:"Purge";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}} 
+
+  
+
+#### Sean Sutton - The Rock
+
+##### 
+
+ ![Download Arena Decklist](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png) ![](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+[Decklist](#none) [Stats](#none) [Sample Hand](#none) 
+
+Sort by: 
+
+##### Creature (16)
+
+1 [Grave-Shell Scarab](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrave-Shell%5D+%5BScarab%5D) 1 [Spiritmonger](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpiritmonger%5D) 1 [Genesis](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGenesis%5D) 1 [Ravenous Baloth](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRavenous%5D+%5BBaloth%5D) 1 [Loxodon Hierarch](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLoxodon%5D+%5BHierarch%5D) 3 [Eternal Witness](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEternal%5D+%5BWitness%5D) 4 [Sakura-Tribe Elder](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSakura-Tribe%5D+%5BElder%5D) 4 [Birds of Paradise](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBirds%5D+%5Bof%5D+%5BParadise%5D) 
+
+##### Sorcery (11)
+
+1 [Plow Under](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlow%5D+%5BUnder%5D) 3 [Living Wish](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLiving%5D+%5BWish%5D) 4 [Cabal Therapy](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCabal%5D+%5BTherapy%5D) 2 [Duress](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D) 1 [Haunting Echoes](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHaunting%5D+%5BEchoes%5D) 
+
+##### Instant (8)
+
+3 [Gifts Ungiven](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGifts%5D+%5BUngiven%5D) 4 [Putrefy](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPutrefy%5D) 1 [Smother](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSmother%5D) 
+
+##### Enchantment (4)
+
+4 [Pernicious Deed](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPernicious%5D+%5BDeed%5D) 
+
+##### Land (22)
+
+5 [Forest](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D) 2 [Yavimaya Coast](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYavimaya%5D+%5BCoast%5D) 2 [Polluted Delta](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D) 1 [Temple Garden](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5BGarden%5D) 1 [Watery Grave](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWatery%5D+%5BGrave%5D) 4 [Windswept Heath](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D) 3 [Overgrown Tomb](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOvergrown%5D+%5BTomb%5D) 1 [Llanowar Wastes](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BWastes%5D) 1 [Swamp](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D) 1 [Plains](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D) 1 [Island](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D) 
+
+61 Cards 
+
+##### Sideboard (15)
+
+1 [Loxodon Hierarch](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLoxodon%5D+%5BHierarch%5D) 1 [Eternal Witness](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEternal%5D+%5BWitness%5D) 3 [Smother](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSmother%5D) 1 [Kami of Ancient Law](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKami%5D+%5Bof%5D+%5BAncient%5D+%5BLaw%5D) 1 [Kataki, War's Wage](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKataki,%5D+%5BWar%5D+%5BWage%5D) 1 [Exile into Darkness](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExile%5D+%5Binto%5D+%5BDarkness%5D) 1 [Duplicant](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuplicant%5D) 1 [Withered Wretch](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWithered%5D+%5BWretch%5D) 1 [Kokusho, the Evening Star](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKokusho,%5D+%5Bthe%5D+%5BEvening%5D+%5BStar%5D) 2 [Oxidize](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOxidize%5D) 2 [Cranial Extraction](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCranial%5D+%5BExtraction%5D) 
+
+##### White (2)
+
+1 [Kami of Ancient Law](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKami%5D+%5Bof%5D+%5BAncient%5D+%5BLaw%5D) 1 [Kataki, War's Wage](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKataki,%5D+%5BWar%5D+%5BWage%5D) 
+
+##### Blue (3)
+
+3 [Gifts Ungiven](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGifts%5D+%5BUngiven%5D) 
+
+##### Black (16)
+
+4 [Smother](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSmother%5D) 4 [Cabal Therapy](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCabal%5D+%5BTherapy%5D) 2 [Duress](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D) 1 [Haunting Echoes](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHaunting%5D+%5BEchoes%5D) 1 [Exile into Darkness](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExile%5D+%5Binto%5D+%5BDarkness%5D) 1 [Withered Wretch](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWithered%5D+%5BWretch%5D) 1 [Kokusho, the Evening Star](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKokusho,%5D+%5Bthe%5D+%5BEvening%5D+%5BStar%5D) 2 [Cranial Extraction](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCranial%5D+%5BExtraction%5D) 
+
+##### Green (20)
+
+1 [Genesis](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGenesis%5D) 1 [Ravenous Baloth](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRavenous%5D+%5BBaloth%5D) 4 [Eternal Witness](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEternal%5D+%5BWitness%5D) 4 [Sakura-Tribe Elder](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSakura-Tribe%5D+%5BElder%5D) 4 [Birds of Paradise](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBirds%5D+%5Bof%5D+%5BParadise%5D) 1 [Plow Under](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlow%5D+%5BUnder%5D) 3 [Living Wish](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLiving%5D+%5BWish%5D) 2 [Oxidize](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOxidize%5D) 
+
+##### Multi colored (12)
+
+1 [Grave-Shell Scarab](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrave-Shell%5D+%5BScarab%5D) 1 [Spiritmonger](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpiritmonger%5D) 2 [Loxodon Hierarch](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLoxodon%5D+%5BHierarch%5D) 4 [Pernicious Deed](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPernicious%5D+%5BDeed%5D) 4 [Putrefy](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPutrefy%5D) 
+
+##### Colorless (23)
+
+5 [Forest](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D) 2 [Yavimaya Coast](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYavimaya%5D+%5BCoast%5D) 2 [Polluted Delta](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D) 1 [Temple Garden](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5BGarden%5D) 1 [Watery Grave](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWatery%5D+%5BGrave%5D) 4 [Windswept Heath](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D) 3 [Overgrown Tomb](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOvergrown%5D+%5BTomb%5D) 1 [Llanowar Wastes](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BWastes%5D) 1 [Swamp](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D) 1 [Plains](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D) 1 [Island](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D) 1 [Duplicant](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuplicant%5D) 
+
+76 Cards 
+
+##### 1 (12)
+
+4 [Birds of Paradise](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBirds%5D+%5Bof%5D+%5BParadise%5D) 4 [Cabal Therapy](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCabal%5D+%5BTherapy%5D) 2 [Duress](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D) 2 [Oxidize](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOxidize%5D) 
+
+##### 2 (14)
+
+4 [Sakura-Tribe Elder](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSakura-Tribe%5D+%5BElder%5D) 4 [Smother](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSmother%5D) 3 [Living Wish](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLiving%5D+%5BWish%5D) 1 [Kami of Ancient Law](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKami%5D+%5Bof%5D+%5BAncient%5D+%5BLaw%5D) 1 [Kataki, War's Wage](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKataki,%5D+%5BWar%5D+%5BWage%5D) 1 [Withered Wretch](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWithered%5D+%5BWretch%5D) 
+
+##### 3 (12)
+
+4 [Eternal Witness](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEternal%5D+%5BWitness%5D) 4 [Pernicious Deed](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPernicious%5D+%5BDeed%5D) 4 [Putrefy](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPutrefy%5D) 
+
+##### 4 (8)
+
+1 [Ravenous Baloth](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRavenous%5D+%5BBaloth%5D) 2 [Loxodon Hierarch](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLoxodon%5D+%5BHierarch%5D) 3 [Gifts Ungiven](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGifts%5D+%5BUngiven%5D) 2 [Cranial Extraction](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCranial%5D+%5BExtraction%5D) 
+
+##### 5 (6)
+
+1 [Grave-Shell Scarab](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrave-Shell%5D+%5BScarab%5D) 1 [Spiritmonger](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpiritmonger%5D) 1 [Genesis](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGenesis%5D) 1 [Plow Under](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlow%5D+%5BUnder%5D) 1 [Haunting Echoes](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHaunting%5D+%5BEchoes%5D) 1 [Exile into Darkness](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExile%5D+%5Binto%5D+%5BDarkness%5D) 
+
+##### 6 (2)
+
+1 [Duplicant](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuplicant%5D) 1 [Kokusho, the Evening Star](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKokusho,%5D+%5Bthe%5D+%5BEvening%5D+%5BStar%5D) 
+
+54 Cards 
+
+##### Common (15)
+
+5 [Forest](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D) 1 [Swamp](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D) 1 [Plains](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D) 1 [Island](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D) 4 [Sakura-Tribe Elder](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSakura-Tribe%5D+%5BElder%5D) 2 [Duress](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D) 1 [Kami of Ancient Law](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKami%5D+%5Bof%5D+%5BAncient%5D+%5BLaw%5D) 
+
+##### Uncommon (16)
+
+4 [Eternal Witness](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEternal%5D+%5BWitness%5D) 4 [Smother](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSmother%5D) 4 [Cabal Therapy](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCabal%5D+%5BTherapy%5D) 1 [Exile into Darkness](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BExile%5D+%5Binto%5D+%5BDarkness%5D) 1 [Withered Wretch](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWithered%5D+%5BWretch%5D) 2 [Oxidize](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOxidize%5D) 
+
+##### Rare (39)
+
+2 [Yavimaya Coast](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BYavimaya%5D+%5BCoast%5D) 1 [Temple Garden](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5BGarden%5D) 1 [Watery Grave](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWatery%5D+%5BGrave%5D) 3 [Overgrown Tomb](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOvergrown%5D+%5BTomb%5D) 1 [Llanowar Wastes](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BWastes%5D) 1 [Grave-Shell Scarab](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrave-Shell%5D+%5BScarab%5D) 1 [Spiritmonger](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpiritmonger%5D) 1 [Genesis](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGenesis%5D) 1 [Ravenous Baloth](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRavenous%5D+%5BBaloth%5D) 2 [Loxodon Hierarch](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLoxodon%5D+%5BHierarch%5D) 4 [Birds of Paradise](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBirds%5D+%5Bof%5D+%5BParadise%5D) 1 [Plow Under](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlow%5D+%5BUnder%5D) 3 [Gifts Ungiven](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGifts%5D+%5BUngiven%5D) 4 [Pernicious Deed](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPernicious%5D+%5BDeed%5D) 4 [Putrefy](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPutrefy%5D) 3 [Living Wish](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLiving%5D+%5BWish%5D) 1 [Haunting Echoes](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHaunting%5D+%5BEchoes%5D) 1 [Kataki, War's Wage](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKataki,%5D+%5BWar%5D+%5BWage%5D) 1 [Duplicant](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuplicant%5D) 1 [Kokusho, the Evening Star](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKokusho,%5D+%5Bthe%5D+%5BEvening%5D+%5BStar%5D) 2 [Cranial Extraction](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCranial%5D+%5BExtraction%5D) 
+
+##### Mythic (6)
+
+2 [Polluted Delta](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPolluted%5D+%5BDelta%5D) 4 [Windswept Heath](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D) 
+
+76 Cards 
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Forest)
+
+[Deal Another Hand](https://web.archive.org/web/20051114000000/https://magic.wizards.com/en)
+
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Yavimaya+Coast)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Gifts+Ungiven)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Haunting+Echoes)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Eternal+Witness)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Birds+of+Paradise)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Windswept+Heath)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Pernicious+Deed)
+
+a:36:{i:0;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:6:"Forest";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"5";}i:1;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Yavimaya Coast";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"2";}i:2;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Polluted Delta";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"2";}i:3;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Temple Garden";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:4;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Watery Grave";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:5;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Windswept Heath";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:6;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Overgrown Tomb";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"3";}i:7;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Llanowar Wastes";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:8;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:5:"Swamp";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:9;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:6:"Plains";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:10;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:6:"Island";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:11;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:18:"Grave-Shell Scarab";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"1";}i:12;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Spiritmonger";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"1";}i:13;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:7:"Genesis";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"1";}i:14;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Ravenous Baloth";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"1";}i:15;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Loxodon Hierarch";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"1";}i:16;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Eternal Witness";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"3";}i:17;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:18:"Sakura-Tribe Elder";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:18;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Birds of Paradise";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:19;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:10:"Plow Under";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"1";}i:20;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Gifts Ungiven";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"3";}i:21;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Pernicious Deed";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:11:"enchantment";s:10:"deck\_count";s:1:"4";}i:22;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:7:"Putrefy";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"4";}i:23;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:7:"Smother";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"1";}i:24;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Living Wish";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"3";}i:25;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Cabal Therapy";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"4";}i:26;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:6:"Duress";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"2";}i:27;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Haunting Echoes";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"1";}i:28;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:19:"Kami of Ancient Law";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";i:0;}i:29;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:18:"Kataki, War's Wage";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";i:0;}i:30;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:19:"Exile into Darkness";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";i:0;}i:31;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:9:"Duplicant";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";i:0;}i:32;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Withered Wretch";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";i:0;}i:33;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:25:"Kokusho, the Evening Star";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";i:0;}i:34;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:7:"Oxidize";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}i:35;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:18:"Cranial Extraction";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";i:0;}} 
+
+  
+
+#### Bryan Lord - Heartbeat Desire
+
+##### 
+
+ ![Download Arena Decklist](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png) ![](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+[Decklist](#none) [Stats](#none) [Sample Hand](#none) 
+
+Sort by: 
+
+##### Creature (5)
+
+4 [Sakura-Tribe Elder](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSakura-Tribe%5D+%5BElder%5D) 1 [Eternal Witness](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEternal%5D+%5BWitness%5D) 
+
+##### Sorcery (12)
+
+3 [Nostalgic Dreams](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNostalgic%5D+%5BDreams%5D) 2 [Mind's Desire](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMind%5D+%5BDesire%5D) 2 [Rampant Growth](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRampant%5D+%5BGrowth%5D) 3 [Sleight of Hand](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSleight%5D+%5Bof%5D+%5BHand%5D) 1 [Recollect](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRecollect%5D) 1 [Deep Analysis](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeep%5D+%5BAnalysis%5D) 
+
+##### Instant (17)
+
+3 [Moment's Peace](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMoment%5D+%5BPeace%5D) 4 [Cunning Wish](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCunning%5D+%5BWish%5D) 3 [Gifts Ungiven](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGifts%5D+%5BUngiven%5D) 3 [Fact or Fiction](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D) 3 [Early Harvest](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEarly%5D+%5BHarvest%5D) 1 [Brain Freeze](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrain%5D+%5BFreeze%5D) 
+
+##### Enchantment (4)
+
+4 [Heartbeat of Spring](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHeartbeat%5D+%5Bof%5D+%5BSpring%5D) 
+
+##### Land (22)
+
+10 [Island](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D) 12 [Forest](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D) 
+
+60 Cards 
+
+##### Sideboard (15)
+
+1 [Moment's Peace](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMoment%5D+%5BPeace%5D) 1 [Gifts Ungiven](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGifts%5D+%5BUngiven%5D) 1 [Early Harvest](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEarly%5D+%5BHarvest%5D) 1 [Brain Freeze](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrain%5D+%5BFreeze%5D) 1 [Echoing Truth](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEchoing%5D+%5BTruth%5D) 1 [Nourish](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNourish%5D) 1 [Seedtime](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeedtime%5D) 1 [Words of Wisdom](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWords%5D+%5Bof%5D+%5BWisdom%5D) 2 [Counterspell](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCounterspell%5D) 3 [Mana Short](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BShort%5D) 2 [Naturalize](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNaturalize%5D) 
+
+##### Blue (26)
+
+4 [Cunning Wish](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCunning%5D+%5BWish%5D) 4 [Gifts Ungiven](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGifts%5D+%5BUngiven%5D) 3 [Fact or Fiction](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D) 2 [Mind's Desire](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMind%5D+%5BDesire%5D) 3 [Sleight of Hand](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSleight%5D+%5Bof%5D+%5BHand%5D) 2 [Brain Freeze](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrain%5D+%5BFreeze%5D) 1 [Deep Analysis](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeep%5D+%5BAnalysis%5D) 1 [Echoing Truth](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEchoing%5D+%5BTruth%5D) 1 [Words of Wisdom](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWords%5D+%5Bof%5D+%5BWisdom%5D) 2 [Counterspell](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCounterspell%5D) 3 [Mana Short](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BShort%5D) 
+
+##### Green (27)
+
+4 [Sakura-Tribe Elder](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSakura-Tribe%5D+%5BElder%5D) 1 [Eternal Witness](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEternal%5D+%5BWitness%5D) 4 [Moment's Peace](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMoment%5D+%5BPeace%5D) 4 [Heartbeat of Spring](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHeartbeat%5D+%5Bof%5D+%5BSpring%5D) 3 [Nostalgic Dreams](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNostalgic%5D+%5BDreams%5D) 2 [Rampant Growth](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRampant%5D+%5BGrowth%5D) 4 [Early Harvest](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEarly%5D+%5BHarvest%5D) 1 [Recollect](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRecollect%5D) 1 [Nourish](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNourish%5D) 1 [Seedtime](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeedtime%5D) 2 [Naturalize](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNaturalize%5D) 
+
+##### Colorless (22)
+
+10 [Island](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D) 12 [Forest](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D) 
+
+75 Cards 
+
+##### 1 (3)
+
+3 [Sleight of Hand](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSleight%5D+%5Bof%5D+%5BHand%5D) 
+
+##### 2 (23)
+
+4 [Sakura-Tribe Elder](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSakura-Tribe%5D+%5BElder%5D) 4 [Moment's Peace](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMoment%5D+%5BPeace%5D) 3 [Nostalgic Dreams](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNostalgic%5D+%5BDreams%5D) 2 [Rampant Growth](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRampant%5D+%5BGrowth%5D) 2 [Brain Freeze](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrain%5D+%5BFreeze%5D) 1 [Echoing Truth](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEchoing%5D+%5BTruth%5D) 1 [Nourish](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNourish%5D) 1 [Seedtime](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeedtime%5D) 1 [Words of Wisdom](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWords%5D+%5Bof%5D+%5BWisdom%5D) 2 [Counterspell](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCounterspell%5D) 2 [Naturalize](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNaturalize%5D) 
+
+##### 3 (17)
+
+1 [Eternal Witness](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEternal%5D+%5BWitness%5D) 4 [Heartbeat of Spring](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHeartbeat%5D+%5Bof%5D+%5BSpring%5D) 4 [Cunning Wish](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCunning%5D+%5BWish%5D) 4 [Early Harvest](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEarly%5D+%5BHarvest%5D) 1 [Recollect](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRecollect%5D) 3 [Mana Short](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BShort%5D) 
+
+##### 4 (8)
+
+4 [Gifts Ungiven](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGifts%5D+%5BUngiven%5D) 3 [Fact or Fiction](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D) 1 [Deep Analysis](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeep%5D+%5BAnalysis%5D) 
+
+##### 6 (2)
+
+2 [Mind's Desire](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMind%5D+%5BDesire%5D) 
+
+53 Cards 
+
+##### Common (41)
+
+10 [Island](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D) 12 [Forest](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D) 4 [Sakura-Tribe Elder](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSakura-Tribe%5D+%5BElder%5D) 4 [Moment's Peace](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMoment%5D+%5BPeace%5D) 2 [Rampant Growth](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRampant%5D+%5BGrowth%5D) 3 [Sleight of Hand](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSleight%5D+%5Bof%5D+%5BHand%5D) 1 [Deep Analysis](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeep%5D+%5BAnalysis%5D) 1 [Echoing Truth](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEchoing%5D+%5BTruth%5D) 1 [Nourish](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNourish%5D) 1 [Words of Wisdom](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWords%5D+%5Bof%5D+%5BWisdom%5D) 2 [Naturalize](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNaturalize%5D) 
+
+##### Uncommon (12)
+
+1 [Eternal Witness](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEternal%5D+%5BWitness%5D) 3 [Fact or Fiction](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFact%5D+%5Bor%5D+%5BFiction%5D) 3 [Nostalgic Dreams](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNostalgic%5D+%5BDreams%5D) 1 [Recollect](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRecollect%5D) 2 [Brain Freeze](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBrain%5D+%5BFreeze%5D) 2 [Counterspell](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCounterspell%5D) 
+
+##### Rare (22)
+
+4 [Heartbeat of Spring](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHeartbeat%5D+%5Bof%5D+%5BSpring%5D) 4 [Cunning Wish](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCunning%5D+%5BWish%5D) 4 [Gifts Ungiven](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGifts%5D+%5BUngiven%5D) 2 [Mind's Desire](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMind%5D+%5BDesire%5D) 4 [Early Harvest](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEarly%5D+%5BHarvest%5D) 1 [Seedtime](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeedtime%5D) 3 [Mana Short](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMana%5D+%5BShort%5D) 
+
+75 Cards 
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Island)
+
+[Deal Another Hand](https://web.archive.org/web/20051114000000/https://magic.wizards.com/en)
+
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Island)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Forest)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Nostalgic+Dreams)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Early+Harvest)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Sleight+of+Hand)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Sleight+of+Hand)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Rampant+Growth)
+
+a:24:{i:0;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:6:"Island";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:2:"10";}i:1;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:6:"Forest";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:2:"12";}i:2;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:18:"Sakura-Tribe Elder";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:3;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Eternal Witness";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"1";}i:4;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Moment's Peace";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"3";}i:5;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:19:"Heartbeat of Spring";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:11:"enchantment";s:10:"deck\_count";s:1:"4";}i:6;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Cunning Wish";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"4";}i:7;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Gifts Ungiven";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"3";}i:8;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Fact or Fiction";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"3";}i:9;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Nostalgic Dreams";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"3";}i:10;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Mind's Desire";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"2";}i:11;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Rampant Growth";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"2";}i:12;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Early Harvest";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"3";}i:13;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Sleight of Hand";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"3";}i:14;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:9:"Recollect";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"1";}i:15;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Brain Freeze";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"1";}i:16;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Deep Analysis";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"1";}i:17;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Echoing Truth";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}i:18;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:7:"Nourish";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}i:19;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:8:"Seedtime";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}i:20;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Words of Wisdom";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}i:21;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Counterspell";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}i:22;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:10:"Mana Short";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}i:23;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:10:"Naturalize";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}} 
+
+  
+
+#### Kyle Mechler - The Rock
+
+##### 
+
+ ![Download Arena Decklist](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png) ![](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+[Decklist](#none) [Stats](#none) [Sample Hand](#none) 
+
+Sort by: 
+
+##### Creature (19)
+
+4 [Birds of Paradise](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBirds%5D+%5Bof%5D+%5BParadise%5D) 4 [Loxodon Hierarch](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLoxodon%5D+%5BHierarch%5D) 3 [Phantom Centaur](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPhantom%5D+%5BCentaur%5D) 3 [Troll Ascetic](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTroll%5D+%5BAscetic%5D) 3 [Llanowar Elves](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BElves%5D) 2 [Genesis](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGenesis%5D) 
+
+##### Sorcery (15)
+
+4 [Decree of Justice](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDecree%5D+%5Bof%5D+%5BJustice%5D) 4 [Vindicate](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVindicate%5D) 4 [Cabal Therapy](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCabal%5D+%5BTherapy%5D) 3 [Life from the Loam](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLife%5D+%5Bfrom%5D+%5Bthe%5D+%5BLoam%5D) 
+
+##### Enchantment (3)
+
+3 [Solitary Confinement](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSolitary%5D+%5BConfinement%5D) 
+
+##### Land (23)
+
+3 [Nantuko Monastery](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNantuko%5D+%5BMonastery%5D) 2 [Secluded Steppe](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSecluded%5D+%5BSteppe%5D) 4 [Windswept Heath](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D) 4 [Forest](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D) 4 [Tranquil Thicket](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTranquil%5D+%5BThicket%5D) 2 [Caves of Koilos](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCaves%5D+%5Bof%5D+%5BKoilos%5D) 1 [Swamp](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D) 1 [Plains](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D) 1 [Temple Garden](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5BGarden%5D) 1 [Overgrown Tomb](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOvergrown%5D+%5BTomb%5D) 
+
+60 Cards 
+
+##### Sideboard (15)
+
+4 [Kataki, War's Wage](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKataki,%5D+%5BWar%5D+%5BWage%5D) 3 [Duress](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D) 2 [Pernicious Deed](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPernicious%5D+%5BDeed%5D) 2 [Naturalize](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNaturalize%5D) 1 [Disenchant](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisenchant%5D) 3 [Gilded Light](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGilded%5D+%5BLight%5D) 
+
+##### White (15)
+
+4 [Decree of Justice](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDecree%5D+%5Bof%5D+%5BJustice%5D) 3 [Solitary Confinement](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSolitary%5D+%5BConfinement%5D) 4 [Kataki, War's Wage](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKataki,%5D+%5BWar%5D+%5BWage%5D) 1 [Disenchant](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisenchant%5D) 3 [Gilded Light](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGilded%5D+%5BLight%5D) 
+
+##### Black (7)
+
+4 [Cabal Therapy](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCabal%5D+%5BTherapy%5D) 3 [Duress](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D) 
+
+##### Green (20)
+
+4 [Birds of Paradise](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBirds%5D+%5Bof%5D+%5BParadise%5D) 3 [Phantom Centaur](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPhantom%5D+%5BCentaur%5D) 3 [Troll Ascetic](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTroll%5D+%5BAscetic%5D) 3 [Llanowar Elves](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BElves%5D) 2 [Genesis](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGenesis%5D) 3 [Life from the Loam](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLife%5D+%5Bfrom%5D+%5Bthe%5D+%5BLoam%5D) 2 [Naturalize](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNaturalize%5D) 
+
+##### Multi colored (10)
+
+4 [Loxodon Hierarch](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLoxodon%5D+%5BHierarch%5D) 4 [Vindicate](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVindicate%5D) 2 [Pernicious Deed](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPernicious%5D+%5BDeed%5D) 
+
+##### Colorless (23)
+
+3 [Nantuko Monastery](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNantuko%5D+%5BMonastery%5D) 2 [Secluded Steppe](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSecluded%5D+%5BSteppe%5D) 4 [Windswept Heath](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D) 4 [Forest](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D) 4 [Tranquil Thicket](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTranquil%5D+%5BThicket%5D) 2 [Caves of Koilos](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCaves%5D+%5Bof%5D+%5BKoilos%5D) 1 [Swamp](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D) 1 [Plains](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D) 1 [Temple Garden](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5BGarden%5D) 1 [Overgrown Tomb](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOvergrown%5D+%5BTomb%5D) 
+
+75 Cards 
+
+##### 1 (14)
+
+4 [Birds of Paradise](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBirds%5D+%5Bof%5D+%5BParadise%5D) 3 [Llanowar Elves](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BElves%5D) 4 [Cabal Therapy](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCabal%5D+%5BTherapy%5D) 3 [Duress](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D) 
+
+##### 2 (13)
+
+3 [Life from the Loam](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLife%5D+%5Bfrom%5D+%5Bthe%5D+%5BLoam%5D) 4 [Kataki, War's Wage](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKataki,%5D+%5BWar%5D+%5BWage%5D) 2 [Naturalize](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNaturalize%5D) 1 [Disenchant](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisenchant%5D) 3 [Gilded Light](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGilded%5D+%5BLight%5D) 
+
+##### 3 (12)
+
+3 [Troll Ascetic](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTroll%5D+%5BAscetic%5D) 4 [Vindicate](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVindicate%5D) 3 [Solitary Confinement](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSolitary%5D+%5BConfinement%5D) 2 [Pernicious Deed](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPernicious%5D+%5BDeed%5D) 
+
+##### 4 (11)
+
+4 [Loxodon Hierarch](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLoxodon%5D+%5BHierarch%5D) 3 [Phantom Centaur](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPhantom%5D+%5BCentaur%5D) 4 [Decree of Justice](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDecree%5D+%5Bof%5D+%5BJustice%5D) 
+
+##### 5 (2)
+
+2 [Genesis](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGenesis%5D) 
+
+52 Cards 
+
+##### Common (18)
+
+4 [Forest](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D) 1 [Swamp](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D) 1 [Plains](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D) 3 [Llanowar Elves](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLlanowar%5D+%5BElves%5D) 3 [Duress](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDuress%5D) 2 [Naturalize](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNaturalize%5D) 1 [Disenchant](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDisenchant%5D) 3 [Gilded Light](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGilded%5D+%5BLight%5D) 
+
+##### Uncommon (16)
+
+3 [Nantuko Monastery](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNantuko%5D+%5BMonastery%5D) 2 [Secluded Steppe](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSecluded%5D+%5BSteppe%5D) 4 [Tranquil Thicket](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTranquil%5D+%5BThicket%5D) 3 [Phantom Centaur](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPhantom%5D+%5BCentaur%5D) 4 [Cabal Therapy](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCabal%5D+%5BTherapy%5D) 
+
+##### Rare (37)
+
+2 [Caves of Koilos](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCaves%5D+%5Bof%5D+%5BKoilos%5D) 1 [Temple Garden](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5BGarden%5D) 1 [Overgrown Tomb](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOvergrown%5D+%5BTomb%5D) 4 [Birds of Paradise](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBirds%5D+%5Bof%5D+%5BParadise%5D) 4 [Loxodon Hierarch](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLoxodon%5D+%5BHierarch%5D) 3 [Troll Ascetic](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTroll%5D+%5BAscetic%5D) 2 [Genesis](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGenesis%5D) 4 [Decree of Justice](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDecree%5D+%5Bof%5D+%5BJustice%5D) 4 [Vindicate](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVindicate%5D) 3 [Life from the Loam](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLife%5D+%5Bfrom%5D+%5Bthe%5D+%5BLoam%5D) 3 [Solitary Confinement](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSolitary%5D+%5BConfinement%5D) 4 [Kataki, War's Wage](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKataki,%5D+%5BWar%5D+%5BWage%5D) 2 [Pernicious Deed](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPernicious%5D+%5BDeed%5D) 
+
+##### Mythic (4)
+
+4 [Windswept Heath](https://web.archive.org/web/20051114000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWindswept%5D+%5BHeath%5D) 
+
+75 Cards 
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Nantuko+Monastery)
+
+[Deal Another Hand](https://web.archive.org/web/20051114000000/https://magic.wizards.com/en)
+
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Secluded+Steppe)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Forest)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Llanowar+Elves)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Troll+Ascetic)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Life+from+the+Loam)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Tranquil+Thicket)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Windswept+Heath)
+
+a:27:{i:0;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Nantuko Monastery";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"3";}i:1;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Secluded Steppe";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"2";}i:2;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Windswept Heath";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:3;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:6:"Forest";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:4;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Tranquil Thicket";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:5;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Caves of Koilos";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"2";}i:6;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:5:"Swamp";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:7;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:6:"Plains";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:8;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Temple Garden";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:9;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Overgrown Tomb";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:10;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Birds of Paradise";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:11;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Loxodon Hierarch";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:12;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Phantom Centaur";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"3";}i:13;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Troll Ascetic";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"3";}i:14;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Llanowar Elves";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"3";}i:15;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:7:"Genesis";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"2";}i:16;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Decree of Justice";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"4";}i:17;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:9:"Vindicate";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"4";}i:18;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Cabal Therapy";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"4";}i:19;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:18:"Life from the Loam";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"3";}i:20;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:20:"Solitary Confinement";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:11:"enchantment";s:10:"deck\_count";s:1:"3";}i:21;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:18:"Kataki, War's Wage";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";i:0;}i:22;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:6:"Duress";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";i:0;}i:23;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Pernicious Deed";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:11:"enchantment";s:10:"deck\_count";i:0;}i:24;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:10:"Naturalize";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}i:25;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:10:"Disenchant";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}i:26;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Gilded Light";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}}

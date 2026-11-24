@@ -1,0 +1,48 @@
+---
+id: zbf8nrpk
+kind: event
+lang: sna
+path: /sna/events/2006/jpnat06/round-14-pairings
+title: Round 14 Pairings
+published: null
+column_slug: null
+column: null
+authors: []
+event_code: jpnat06
+detected_lang: sna
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/jpnat06/pair14
+    lang_detected: sna
+    capture_id: 1085624
+    url: http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/jpnat06/pair14
+    captured_at: '2013-06-30 20:43:31+00'
+    rule: aspx.article_heading
+  event_code:
+    page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/jpnat06/pair14
+    lang_detected: sna
+    capture_id: 1085624
+    url: http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/jpnat06/pair14
+    captured_at: '2013-06-30 20:43:31+00'
+    rule: url.event_code
+sources:
+- document_id: zbf8nrpk
+  url: http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/jpnat06/pair14
+  page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/jpnat06/pair14
+  lang: sna
+  template: aspx
+  captured_at: '2013-06-30 20:43:31+00'
+  capture_id: 1085624
+  wayback_url: https://web.archive.org/web/20130630204331id_/http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/jpnat06/pair14
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: zbf8nrpk
+  capture_id: 1085624
+  url: http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/jpnat06/pair14
+  wayback_url: https://web.archive.org/web/20130630204331id_/http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/jpnat06/pair14
+  captured_at: '2013-06-30 20:43:31+00'
+  template: aspx
+  sha256: 5971c4e5c92212f7bf7ca4663f0f47021171b114bd1d5cd607f4425493a14353
+render_recovery: []
+---
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <a href="/sna/events/2006/jpnat06/round-14-pairings">&#10;        <b>Table</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/sna/events/2006/jpnat06/round-14-pairings">&#10;        <b>Player</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/sna/events/2006/jpnat06/round-14-pairings">&#10;        <b>Points</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/sna/events/2006/jpnat06/round-14-pairings">&#10;        <b>&#10;      </b></a><b>&#10;    </b></td>&#10;    <td>&#10;      <a href="/sna/events/2006/jpnat06/round-14-pairings">&#10;        <b>Opponent</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/sna/events/2006/jpnat06/round-14-pairings">&#10;        <b>Points</b>&#10;      </a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td> 29</td>&#10;    <td>Suzuki, Takahiro [JPN]</td>&#10;    <td> 34</td>&#10;    <td>vs.</td>&#10;    <td>Saitou, Tomoharu [JPN]</td>&#10;    <td> 31</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 16</td>&#10;    <td>Kurihara, Shingou [JPN]</td>&#10;    <td> 31</td>&#10;    <td>vs.</td>&#10;    <td>Katayama, Hidenori [JPN]</td>&#10;    <td> 30</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 17</td>&#10;    <td>Shimizu, Naoki [JPN]</td>&#10;    <td> 31</td>&#10;    <td>vs.</td>&#10;    <td>Asahara, Akira [JPN]</td>&#10;    <td> 28</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 8</td>&#10;    <td>Hirayama, Daisuke [JPN]</td>&#10;    <td> 30</td>&#10;    <td>vs.</td>&#10;    <td>Ishimaru, Ken [JPN]</td>&#10;    <td> 28</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 10</td>&#10;    <td>Mori, Katsuhiro [JPN]</td>&#10;    <td> 30</td>&#10;    <td>vs.</td>&#10;    <td>Aoki, Ryousuke [JPN]</td>&#10;    <td> 27</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 21</td>&#10;    <td>Hayashi, Hiroki [JPN]</td>&#10;    <td> 27</td>&#10;    <td>vs.</td>&#10;    <td>Kaji, Tomohiro [JPN]</td>&#10;    <td> 27</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 31</td>&#10;    <td>Kitayama, Masaya [JPN]</td>&#10;    <td> 27</td>&#10;    <td>vs.</td>&#10;    <td>Morita, Masahiko [JPN]</td>&#10;    <td> 27</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 33</td>&#10;    <td>Yamaguchi, Yuuichi [JPN]</td>&#10;    <td> 27</td>&#10;    <td>vs.</td>&#10;    <td>Ikeda, Kei [JPN]</td>&#10;    <td> 27</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 35</td>&#10;    <td>Yamamoto, Shouhei [JPN]</td>&#10;    <td> 27</td>&#10;    <td>vs.</td>&#10;    <td>Mitamura, Kazuya [JPN]</td>&#10;    <td> 27</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 25</td>&#10;    <td>kim, minsu [JPN]</td>&#10;    <td> 25</td>&#10;    <td>vs.</td>&#10;    <td>Yasooka, Shouta [JPN]</td>&#10;    <td> 24</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 26</td>&#10;    <td>Oomori, Tomoaki [JPN]</td>&#10;    <td> 25</td>&#10;    <td>vs.</td>&#10;    <td>Tsumura, Kenji [JPN]</td>&#10;    <td> 24</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 3</td>&#10;    <td>tomii, tsubasa [JPN]</td>&#10;    <td> 24</td>&#10;    <td>vs.</td>&#10;    <td>Ishida, Itaru [JPN]</td>&#10;    <td> 24</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 4</td>&#10;    <td>Yamauchi, Shou [JPN]</td>&#10;    <td> 24</td>&#10;    <td>vs.</td>&#10;    <td>Koyano, Hirofumi [JPN]</td>&#10;    <td> 24</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 9</td>&#10;    <td>Komuro, Shuu [JPN]</td>&#10;    <td> 24</td>&#10;    <td>vs.</td>&#10;    <td>Ohmura, Takashi [JPN]</td>&#10;    <td> 24</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 11</td>&#10;    <td>Arai, Tomoya [JPN]</td>&#10;    <td> 24</td>&#10;    <td>vs.</td>&#10;    <td>Nomichi, Hideki [JPN]</td>&#10;    <td> 24</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 13</td>&#10;    <td>Mihara, Makihito [JPN]</td>&#10;    <td> 24</td>&#10;    <td>vs.</td>&#10;    <td>Sakai, Yoshitoki [JPN]</td>&#10;    <td> 24</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 15</td>&#10;    <td>Ushie, Yuuta [JPN]</td>&#10;    <td> 24</td>&#10;    <td>vs.</td>&#10;    <td>Fujita, Osamu [JPN]</td>&#10;    <td> 24</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 19</td>&#10;    <td>Matsuda, Yuuki [JPN]</td>&#10;    <td> 24</td>&#10;    <td>vs.</td>&#10;    <td>Takahashi, Jun'ya [JPN]</td>&#10;    <td> 24</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 2</td>&#10;    <td>Kurashima, Kazuki [JPN]</td>&#10;    <td> 23</td>&#10;    <td>vs.</td>&#10;    <td>Sugimura, Yoshiyasu [JPN]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 5</td>&#10;    <td>Kashima, Akihiro [JPN]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Matsumoto, Yoshifumi [JPN]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 6</td>&#10;    <td>Nakazuka, Yuuki [JPN]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Tsuneeda, Toshiichi [JPN]</td>&#10;    <td> 19</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 7</td>&#10;    <td>Okada, Naoya [JPN]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Murakami (Miyagi), Yuu [JPN]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 12</td>&#10;    <td>Bandou, Jun'ichirou [JPN]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Mori, Satoshi [JPN]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 20</td>&#10;    <td>Hosono, Yasuto [JPN]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>fukumoto, hiroaki [JPN]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 24</td>&#10;    <td>Yun, Suhan [JPN]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Matsuki, Hitoshi [JPN]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 27</td>&#10;    <td>Masuno, Ryosuke [JPN]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Suzuki, Akiyoshi [JPN]</td>&#10;    <td> 21</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 32</td>&#10;    <td>Kogane, Katsuyoshi [JPN]</td>&#10;    <td> 21</td>&#10;    <td>vs.</td>&#10;    <td>Tsuchiya, Shigetaka [JPN]</td>&#10;    <td> 19</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 1</td>&#10;    <td>Suginaka, Toshio [JPN]</td>&#10;    <td> 19</td>&#10;    <td>vs.</td>&#10;    <td>Kuniyoshi, Yasuhiro [JPN]</td>&#10;    <td> 18</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 18</td>&#10;    <td>Tezuka, Yuuki [JPN]</td>&#10;    <td> 18</td>&#10;    <td>vs.</td>&#10;    <td>Oks, Oliver J [JPN]</td>&#10;    <td> 18</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 22</td>&#10;    <td>Hamada, Takahiro [JPN]</td>&#10;    <td> 18</td>&#10;    <td>vs.</td>&#10;    <td>Arita, Ryuuichi [JPN]</td>&#10;    <td> 18</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 23</td>&#10;    <td>Hassaku, Jinpei [JPN]</td>&#10;    <td> 18</td>&#10;    <td>vs.</td>&#10;    <td>Suzuki, Michihiro [JPN]</td>&#10;    <td> 18</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 28</td>&#10;    <td>Watanabe, Ryouta [JPN]</td>&#10;    <td> 18</td>&#10;    <td>vs.</td>&#10;    <td>Nonaka, Kentarou [JPN]</td>&#10;    <td> 18</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 14</td>&#10;    <td>Sakamoto, Takurou [JPN]</td>&#10;    <td> 16</td>&#10;    <td>vs.</td>&#10;    <td>Taru, Genki [JPN]</td>&#10;    <td> 16</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 34</td>&#10;    <td>Yuki, Keiichiro [JPN]</td>&#10;    <td> 15</td>&#10;    <td>vs.</td>&#10;    <td>Kubota, Kenta [JPN]</td>&#10;    <td> 15</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 30</td>&#10;    <td>Endou, Nozomu [JPN]</td>&#10;    <td> 12</td>&#10;    <td>vs.</td>&#10;    <td>Ikawa, Yoshihiko [JPN]</td>&#10;    <td> 15</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>Yamazaki, Yuuki [JPN]</td>&#10;    <td> 15</td>&#10;    <td>&#10;    </td><td>* BYE *</td>&#10;    <td>&#10;  </td></tr>&#10;</tbody></table>

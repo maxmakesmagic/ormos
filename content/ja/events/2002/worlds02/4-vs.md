@@ -1,0 +1,359 @@
+---
+id: fwk11v9x
+kind: event
+lang: ja
+path: /ja/events/2002/worlds02/4-vs
+title: '国別対抗戦ラウンド４: 日本代表 vs イタリア代表'
+published: null
+column_slug: null
+column: null
+authors: []
+event_code: worlds02
+detected_lang: ja
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/article.aspx?x=sideboard/worlds02/fmt4ja
+    lang_detected: ja
+    capture_id: 887854
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/worlds02/fmt4ja
+    captured_at: '2009-06-04 10:46:32+00'
+    rule: aspx.article_heading
+  event_code:
+    page_key: wizards.com/magic/magazine/article.aspx?x=sideboard/worlds02/fmt4ja
+    lang_detected: ja
+    capture_id: 887854
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/worlds02/fmt4ja
+    captured_at: '2009-06-04 10:46:32+00'
+    rule: url.event_code
+sources:
+- document_id: fwk11v9x
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/worlds02/fmt4ja
+  page_key: wizards.com/magic/magazine/article.aspx?x=sideboard/worlds02/fmt4ja
+  lang: ja
+  template: aspx
+  captured_at: '2009-06-04 10:46:32+00'
+  capture_id: 887854
+  wayback_url: https://web.archive.org/web/20090604104632id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/worlds02/fmt4ja
+- document_id: fwk11v9x
+  url: http://www.wizards.com/default.asp?x=sideboard/worlds02/fmt4ja
+  page_key: wizards.com/default.asp?x=sideboard/worlds02/fmt4ja
+  lang: ja
+  template: classic_asp
+  captured_at: '2005-03-22 01:16:46+00'
+  capture_id: 2411209
+  wayback_url: https://web.archive.org/web/20050322011646id_/http://www.wizards.com/default.asp?x=sideboard/worlds02/fmt4ja
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: fwk11v9x
+  capture_id: 887854
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/worlds02/fmt4ja
+  wayback_url: https://web.archive.org/web/20090604104632id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/worlds02/fmt4ja
+  captured_at: '2009-06-04 10:46:32+00'
+  template: aspx
+  sha256: db51a5742f50e13828e75e66828f75f0c14beec405da4f805d1fc8fe4358cc12
+render_recovery:
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Phantom_Tiger')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Phantom Tiger
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Angelic_Wall')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Angelic Wall
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Krosan_Beast')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Krosan Beast
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Ember_Shot')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Ember Shot
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Refresh')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Refresh
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Soulcatcher')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Soulcatcher
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Skywing_Aven')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Skywing Aven
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Escape_Artist')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Escape Artist
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Second_Thoughts')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Second Thoughts
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Scrivener')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Scrivener
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Circular_Logic')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Circular Logic
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Grip_of_Amnesia')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Grip of Amnesia
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Organ_Grinder')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Organ Grinder
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Cabal_Torturer')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Cabal Torturer
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mesmeric_Fiend')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mesmeric Fiend
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Krosan_Archer')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Krosan Archer
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Pilgrim_of_Justice')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Pilgrim of Justice
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Nantuko_Calmer')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Nantuko Calmer
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Rancid_Earth')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Rancid Earth
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Guided_Strike')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Guided Strike
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kirtar[s_Desire')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kirtar's Desire
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Vengeful_Dreams')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Vengeful Dreams
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Pardic_Collaborator')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Pardic Collaborator
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Bog Wreckage(OD)》！
+  - えーと、さくったらフィズりますね。胸中のざわざわ感はクライマックス。あ、相手は何か狙いがあったんでしょうか、普通にその漂流物をタップしています。何かスペルを唱えました。《リフレッシュ/
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Caustic_Tar')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Caustic Tar
+  occurrences: 1
+---
+　個人戦では今一つ揮わなかった日本チームだが、実はここまで三連勝と密かに絶好調。  
+ この試合に勝てばついに一桁順位も、と前日までの 38 カ国中 24 位という成績が嘘のよう。  
+ 　さて問題のドラフトだが、これまで通り基本的な指示を、常に冷静沈着で「マシーン」改め「彼女とのラブラブプリクラ持ち歩きマシーン」小野田が。その両脇が適時必要と思われる合図を出す感じで進む。ちなみに、このプリクラが対戦相手のイタリアチームに大ヒット。試合中に見るやいなや「くれくれ、俺にもくれ」の大攻勢だったり。
+
+　問題というか見ていて面白かったのが、そのイタリアチームの暴れっぷり。ドラフト中も、あれくれこれくれと身振り手振りだけの大合唱。あげくは、なんでそれとるねんと半ば喧嘩をしてみたり、ちょっとふてくされてみたり。日本チームがちょっと引くぐらいの大活躍ぶり。
+
+**■　三津家 vs Rossi, Simone　Game 2** 
+
+　一本目を相手に取られた二本目。
+
+　相手の《幻影の虎/Phantom Tiger(JU)》と三津家の《天使の壁/Angelic Wall(OD)》ががっちり睨みあう中、気付けば三津家の墓地が七枚へ。というよりはマッドサイエンティストの計画が成就したというべきか。
+
+　ニヤリと笑みを浮かべながら《クローサの獣/Krosan Beast(OD)》を召喚。
+
+　！
+
+　その大きさが全てを圧倒。相手も《燃えさしの火弾/Ember Shot(JU)》や《リフレッシュ/Refresh(OD)》で地味に凌ぎつつドローを進めるが。
+
+　一時しのぎは一時しか持たないわけで。
+
+　**三津家 1 - Rossi 1** 
+
+**■　佐々木佑介 vs Fiore, Stefano　Game 3** 
+
+　ちょっとみかけたいい話。
+
+　カウンターを一つ載せた《集魂者/Soulcatcher(OD)》《空翼のエイヴン/Skywing Aven(TO)》《縄抜け名人/Escape Artist(OD)》の三体で攻撃する佐々木。互いに飛行生物の多い白青対決。集魂者を舐めたら死にますよ。
+
+　で、殴ったわけです。相手の白青は全ての土地がアンタップ。何かあってもおかしくないわけですが...
+
+　《考え直し/Second Thoughts(OD)》⇒　集魂者
+
+　あれ？　ちょっと小首を傾げる佐々木。手札を墓地を順番に眺めてみたり。えーと手札には《公証人/Scrivener(OD)》、墓地には《堂々巡り/Circular Logic(TO)》とたくさんのカード。ほほぉ。場に並ぶのは七枚の土地。あ、先ほど書いたとおり《空翼のエイヴン/Skywing Aven(TO)》も場にいますね。
+
+　えーと、えーと。
+
+　あれれ？　ちょっと苦笑いする佐々木。いやぁやっちゃったのかなぁ。ま、いっかぁと照れ笑いを浮かべながら、集魂者があの世に飛んでいってから公証人を召喚です。対象は勿論、堂々巡り。長い人生そういうこともありますよねぇ。
+
+　あれ、なんか相手がキャストしてます。
+
+　《忘却の掌握/Grip of Amnesia(JU)》
+
+　墓地を全てリムーブしないとカウンターされてしまうらしいのです。ほほぉ。
+
+　良く解らないけど、結果は一緒。
+
+　結局、これとはまったく関係ないところで、縄抜けが抜けまくり。
+
+　**佐々木 2 - Fiore 1**
+
+**■　三津家 vs Rossi, Simone Game 3** 
+
+　気が付けば、佐々木が勝利し、小野田が敗北。勝負の行方は全てがこの試合にいつのまにか、かかっていたわけです。
+
+　そんな場の状況。
+
+　相手。《臓器をすり砕く者/Organ Grinder(TO)》、《陰謀団の拷問者/Cabal Torturer(TO)》《催眠の悪鬼/Mesmeric Fiend(TO)》《クローサの射手/Krosan Archer(OD)》
+
+　三津家。《正義の巡礼者/Pilgrim of Justice(OD)》《ナントゥーコの鎮め役/Nantuko Calmer(TO)》
+
+　拷問者と射手に行く手を塞がれた格好の三津家。その隙にじわじわとすり砕く人がずりずりと三津家のライフを攻めようかという構え。ちなみに、この時三津屋の墓地は五枚、場にはタップインランドと沼ｘ２、平地ｘ３、森ｘ２。
+
+　そして手札にあるのが、《腐臭の地/Rancid Earth(TO)》《狙い撃ち/Guided Strike(JU)》その他三枚。ライフが15。ちなみに悪鬼が隠しているのが《カーターの願望/Kirtar's Desire(OD)》。
+
+　ざっと考えると、狙い撃ちを空撃ちし、タップインランドをさくってスレッショルドを達成、腐臭の地を使用してその一点効果で相手のタフネス１軍団を一掃としたいところです。しかし、三津家は動かず。完全にその気配を断っています。更に劇的な場面を演出しようとしているのでしょうか。
+
+　そうこうしていると、相手の場には《幻影の虎/Phantom Tiger(JU)》が。三津家の手札には《復讐に燃えた夢/Vengeful Dreams(TO)》が。なるほど、空撃ちなどという資源の無駄遣いはせずに、これで自然とスレッショルドを達成可能です。さすが腰の据わった肝っ玉スタイルの持ち主。
+
+　調子に乗って攻撃してきた虎と射手がご退場。どこに行くのか知りませんが達者で暮らして欲しいものです。
+
+　さて、ついにその時が着ました。今こそ相手に食らわせてやるときです。丁度こちらにはタフネス二以下の生物がいない完璧な状況。よくぞこの場を作ったもの。さすがです。
+
+　隊長！　全く動く気配がありません！
+
+　これ以上、何を演出しようというのでしょうか。既に手札を見ているものの胸中に広がる微妙なざわざわ感。その間にもすり砕かれる三津家のライフ。13 が 10 へ。10 は 7 へ。そして 4 へと。
+
+　耐えすぎです。
+
+　もう表裏で死んじゃうよ。そんな時、ついに三津家に動きが。相手の場に出た《パーディック山の協力者/Pardic Collaborator(TO)》を見ると相手の黒マナの量を数え始めます。お、なにか違和感を感じたのでしょうか。お、沼二つ、森を一つタップしました。おぉぉぉ、ついに腐臭の地に手がかかったじゃないですか。そのターゲットは...
+
+　アンタップ状態の《沼の漂流物/Bog Wreckage(OD)》！
+
+　えーと、さくったらフィズりますね。胸中のざわざわ感はクライマックス。あ、相手は何か狙いがあったんでしょうか、普通にその漂流物をタップしています。何かスペルを唱えました。《リフレッシュ/Refresh(OD)》です、どうやらわざわざダメージを発生させてから生物を守っています。ということは、何か三津家のライフを３にしたい理由でもあったのでしょうか。
+
+　ターンが相手に渡り。
+
+　《苛性タール/Caustic Tar(OD)》がぺたり。ぴこっと発動。三津家は、ばたり。
+
+　**三津家 1 - Rossi 2**
+
+![](https://i.ormos.uk/a4/cf/a4cf95fc4036f0d1478d5c86cb93a9df4100a1c9f47a6da486731b9810de1c6b.jpg) **■　ヒーローインタビュー** 
+
+　SBJ 「全く気付いてませんでした？」  
+ 　三津家　「え、だって、あれ。」  
+ 　SBJ 「有難うございました。早速ネタとして使用させて頂きます。」  
+ 　三津家　「えー、勘弁してくださいよ。」  
+ 　SBJ 「勿論ですよ、まかせてください」
+
+　何を。
+
+　以上、責任を持って、SBJ がお送りしました。
+
+**Final Result: イタリア代表 Wins**

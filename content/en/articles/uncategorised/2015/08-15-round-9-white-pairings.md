@@ -1,0 +1,58 @@
+---
+id: 9sak4e90
+kind: article
+lang: en
+path: /en/articles/uncategorised/2015/08-15-round-9-white-pairings
+title: ROUND 9 WHITE PAIRINGS
+published: '2015-08-15'
+column_slug: uncategorised
+column: uncategorised
+authors:
+- slug: wizardsofthecoast
+  name: Wizards of the Coast
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/node/508196
+    lang_detected: en
+    capture_id: 2518066
+    url: http://magic.wizards.com/en/node/508196
+    captured_at: '2016-06-04 14:56:04+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/node/508196
+    lang_detected: en
+    capture_id: 2518066
+    url: http://magic.wizards.com/en/node/508196
+    captured_at: '2016-06-04 14:56:04+00'
+    rule: drupal.posted_in_date
+  authors:
+    page_key: magic.wizards.com/en/node/508196
+    lang_detected: en
+    capture_id: 2518066
+    url: http://magic.wizards.com/en/node/508196
+    captured_at: '2016-06-04 14:56:04+00'
+    rule: drupal.div_author
+sources:
+- document_id: 9sak4e90
+  url: http://magic.wizards.com/en/node/508196
+  page_key: magic.wizards.com/en/node/508196
+  lang: en
+  template: drupal
+  captured_at: '2016-06-04 14:56:04+00'
+  capture_id: 2518066
+  wayback_url: https://web.archive.org/web/20160604145604id_/http://magic.wizards.com/en/node/508196
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 9sak4e90
+  capture_id: 2518066
+  url: http://magic.wizards.com/en/node/508196
+  wayback_url: https://web.archive.org/web/20160604145604id_/http://magic.wizards.com/en/node/508196
+  captured_at: '2016-06-04 14:56:04+00'
+  template: drupal
+  sha256: 1daf3db131bb5eb1d5b8fd986cc442c042b46508721abc634b4671be6fab817d
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td>&#10;			<td><b>Team</b></td>&#10;			<td><b>Points</b></td>&#10;			<td> </td>&#10;			<td><b>Opponent</b></td>&#10;			<td><b>Points</b></td>&#10;		</tr><tr><td>1</td>&#10;			<td>Turtenwald/Jensen/Duke</td>&#10;			<td>24</td>&#10;			<td>vs</td>&#10;			<td>Hampton/Sigrist/Damo da Rosa</td>&#10;			<td>24</td>&#10;		</tr><tr><td>2</td>&#10;			<td>Solon/Solon/Fruth</td>&#10;			<td>21</td>&#10;			<td>vs</td>&#10;			<td>Ford/Snook/Gemme</td>&#10;			<td>21</td>&#10;		</tr><tr><td>3</td>&#10;			<td>Wu/Soorani/Beasley</td>&#10;			<td>21</td>&#10;			<td>vs</td>&#10;			<td>D'Agostino/Tharmaratnam/Moul</td>&#10;			<td>21</td>&#10;		</tr><tr><td>4</td>&#10;			<td>Shenhar/Costa/Parker</td>&#10;			<td>21</td>&#10;			<td>vs</td>&#10;			<td>Dupont/McVety/Chang</td>&#10;			<td>21</td>&#10;		</tr><tr><td>5</td>&#10;			<td>Maine/Sachs/Scholten</td>&#10;			<td>21</td>&#10;			<td>vs</td>&#10;			<td>Brostoff/Rasmussen/Baker</td>&#10;			<td>21</td>&#10;		</tr><tr><td>6</td>&#10;			<td>Stewart/Snyder/Andrews</td>&#10;			<td>19</td>&#10;			<td>vs</td>&#10;			<td>Cubr/Cubr/Schuchaskie</td>&#10;			<td>19</td>&#10;		</tr><tr><td>7</td>&#10;			<td>Lu/Hui/Wan</td>&#10;			<td>19</td>&#10;			<td>vs</td>&#10;			<td>Fang/Pan/Wu</td>&#10;			<td>18</td>&#10;		</tr><tr><td>8</td>&#10;			<td>Brocklehurst/Jerry/Holt</td>&#10;			<td>18</td>&#10;			<td>vs</td>&#10;			<td>Coffman/Wilburn/Alsept</td>&#10;			<td>18</td>&#10;		</tr><tr><td>9</td>&#10;			<td>Demestrio/Friedman/Calcano</td>&#10;			<td>18</td>&#10;			<td>vs</td>&#10;			<td>Han/Chok/Martinez</td>&#10;			<td>18</td>&#10;		</tr><tr><td>10</td>&#10;			<td>Sadd/Postigo/Powell</td>&#10;			<td>18</td>&#10;			<td>vs</td>&#10;			<td>Nostrant/Stob/Walters</td>&#10;			<td>18</td>&#10;		</tr><tr><td>11</td>&#10;			<td>Geer/Nwachukwu/Kormendi</td>&#10;			<td>18</td>&#10;			<td>vs</td>&#10;			<td>Hercliff/Schunn/Hartley</td>&#10;			<td>18</td>&#10;		</tr><tr><td>12</td>&#10;			<td>Barr/Doty/Monroe</td>&#10;			<td>18</td>&#10;			<td>vs</td>&#10;			<td>Falcioni/Rodrigues/Stenborg</td>&#10;			<td>18</td>&#10;		</tr><tr><td>13</td>&#10;			<td>McCamish/Rill/Kronenberger</td>&#10;			<td>18</td>&#10;			<td>vs</td>&#10;			<td>Abrahams/Snyder/Huang</td>&#10;			<td>18</td>&#10;		</tr><tr><td>14</td>&#10;			<td>Hula/Shaffer/Shaffer</td>&#10;			<td>18</td>&#10;			<td>vs</td>&#10;			<td>Holland/Seck/Liu</td>&#10;			<td>18</td>&#10;		</tr><tr><td>15</td>&#10;			<td>Bulnes/Berrios/Havlovic</td>&#10;			<td>18</td>&#10;			<td>vs</td>&#10;			<td>Edelman/Juul/Sivak</td>&#10;			<td>18</td>&#10;		</tr><tr><td>16</td>&#10;			<td>Kubis/Rocha/Gathman</td>&#10;			<td>18</td>&#10;			<td>vs</td>&#10;			<td>Bianchi/Stella/Ratajczak</td>&#10;			<td>18</td>&#10;		</tr><tr><td>17</td>&#10;			<td>Farnung/Dobbin/Punzalan</td>&#10;			<td>18</td>&#10;			<td>vs</td>&#10;			<td>Bedsole/Jones/Segal</td>&#10;			<td>18</td>&#10;		</tr><tr><td>18</td>&#10;			<td>reinke/Heinrich/cao</td>&#10;			<td>18</td>&#10;			<td>vs</td>&#10;			<td>Arguelles/Glick/Turpin</td>&#10;			<td>18</td>&#10;		</tr><tr><td>19</td>&#10;			<td>Parson/Walker/Garnier</td>&#10;			<td>18</td>&#10;			<td>vs</td>&#10;			<td>Deluca/Greer/Foster</td>&#10;			<td>18</td>&#10;		</tr><tr><td>20</td>&#10;			<td>Schneider/Lepine/Berkowitz</td>&#10;			<td>18</td>&#10;			<td>vs</td>&#10;			<td>Nagy/Peebles-Mundy/Yu</td>&#10;			<td>18</td>&#10;		</tr><tr><td>21</td>&#10;			<td>Scafuri/Stepp/Reiter</td>&#10;			<td>18</td>&#10;			<td>vs</td>&#10;			<td>Danielson/Johnson/Bogner</td>&#10;			<td>18</td>&#10;		</tr><tr><td>22</td>&#10;			<td>McCord/Higginbotham/Cook</td>&#10;			<td>18</td>&#10;			<td>vs</td>&#10;			<td>Eckart-Frank/Elias/Heck</td>&#10;			<td>18</td>&#10;		</tr><tr><td>23</td>&#10;			<td>Cowles/ladouceur/Smith</td>&#10;			<td>18</td>&#10;			<td>vs</td>&#10;			<td>Lyons/Hill/Peters</td>&#10;			<td>18</td>&#10;		</tr><tr><td>24</td>&#10;			<td>Liu/Fournier/Mealing</td>&#10;			<td>16</td>&#10;			<td>vs</td>&#10;			<td>Hinks/German/Krawz</td>&#10;			<td>16</td>&#10;		</tr><tr><td>25</td>&#10;			<td>Kopp/kopp/Miller</td>&#10;			<td>16</td>&#10;			<td>vs</td>&#10;			<td>Bonjour/Kretz/Mayes ~</td>&#10;			<td>16</td>&#10;		</tr><tr><td>26</td>&#10;			<td>Waymon/Gabbert/Conard</td>&#10;			<td>16</td>&#10;			<td>vs</td>&#10;			<td>boonstra/agius/fons</td>&#10;			<td>15</td>&#10;		</tr><tr><td>27</td>&#10;			<td>Schulz/Mackenzie/Nastase ~</td>&#10;			<td>15</td>&#10;			<td>vs</td>&#10;			<td>Roberts/Pupura/Miller</td>&#10;			<td>15</td>&#10;		</tr><tr><td>28</td>&#10;			<td>Goldfarb/Magalhaes/Repta</td>&#10;			<td>15</td>&#10;			<td>vs</td>&#10;			<td>Xu/Wohns/Vieira</td>&#10;			<td>15</td>&#10;		</tr><tr><td>29</td>&#10;			<td>Lombardi/Berlingieri/MacLean</td>&#10;			<td>15</td>&#10;			<td>vs</td>&#10;			<td>Bu-Mansour/Moskal/Moskal</td>&#10;			<td>15</td>&#10;		</tr><tr><td>30</td>&#10;			<td>Hill/Vidugiris/Mowshowitz</td>&#10;			<td>15</td>&#10;			<td>vs</td>&#10;			<td>chapman/lloyd/kambourakis</td>&#10;			<td>15</td>&#10;		</tr><tr><td>31</td>&#10;			<td>Eshghy/Gold/Wagner</td>&#10;			<td>15</td>&#10;			<td>vs</td>&#10;			<td>Ni/Schwartz/Schwartz</td>&#10;			<td>15</td>&#10;		</tr><tr><td>32</td>&#10;			<td>Wong/Cheung/Kong</td>&#10;			<td>15</td>&#10;			<td>vs</td>&#10;			<td>Song/Dilks/Burningham</td>&#10;			<td>15</td>&#10;		</tr><tr><td>33</td>&#10;			<td>Monteleone/Ekleberry/Webster</td>&#10;			<td>15</td>&#10;			<td>vs</td>&#10;			<td>Haukereid/Graham/Gourley</td>&#10;			<td>15</td>&#10;		</tr><tr><td>34</td>&#10;			<td>Labuda/Poltorak/Bellotti</td>&#10;			<td>15</td>&#10;			<td>vs</td>&#10;			<td>Henry/Taimla/Bocking</td>&#10;			<td>15</td>&#10;		</tr><tr><td>35</td>&#10;			<td>Demsich/Scamihorn/Reiter</td>&#10;			<td>15</td>&#10;			<td>vs</td>&#10;			<td>Watkins/Orts/Stewart</td>&#10;			<td>15</td>&#10;		</tr><tr><td>36</td>&#10;			<td>Landale/Lewis/Morgan</td>&#10;			<td>13</td>&#10;			<td>vs</td>&#10;			<td>Kastel/Irvine/Efland</td>&#10;			<td>12</td>&#10;		</tr><tr><td>37</td>&#10;			<td>Urban/Houk/Kaiser</td>&#10;			<td>12</td>&#10;			<td>vs</td>&#10;			<td>Rogan/Carey/Gibbs</td>&#10;			<td>12</td>&#10;		</tr><tr><td>38</td>&#10;			<td>Cornely/Bruce/Ingram</td>&#10;			<td>12</td>&#10;			<td>vs</td>&#10;			<td>Ha/Teigesser/Starke</td>&#10;			<td>12</td>&#10;		</tr><tr><td>39</td>&#10;			<td>Girard/Fram/Damore</td>&#10;			<td>12</td>&#10;			<td>vs</td>&#10;			<td>Mayernick/Byrd/Warren</td>&#10;			<td>12</td>&#10;		</tr><tr><td>40</td>&#10;			<td>Rominske/Rominske/Cunningham</td>&#10;			<td>7</td>&#10;			<td>vs</td>&#10;			<td>Waugh/Montgomery/Forster ~</td>&#10;			<td>12</td>&#10;		</tr><tr><td>41</td>&#10;			<td>Strasler/Strasler/Conrad</td>&#10;			<td>12</td>&#10;			<td>vs</td>&#10;			<td>Zack/Roy/Nyeste</td>&#10;			<td>9</td>&#10;		</tr><tr><td> </td>&#10;			<td>Payne/Barror/Ricci</td>&#10;			<td>0</td>&#10;			<td> </td>&#10;			<td>* BYE *</td>&#10;		</tr></tbody></table>
+
+ 

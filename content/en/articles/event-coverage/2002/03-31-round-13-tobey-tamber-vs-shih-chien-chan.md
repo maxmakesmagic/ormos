@@ -1,0 +1,84 @@
+---
+id: 9k7rwm39
+kind: event
+lang: en
+path: /en/articles/event-coverage/2002/03-31-round-13-tobey-tamber-vs-shih-chien-chan
+title: 'Round 13: Tobey Tamber vs. Shih Chien Chan'
+published: '2002-03-31'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-13-tobey-tamber-vs-shih-chien-chan-2002-03-31
+    lang_detected: en
+    capture_id: 508093
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-13-tobey-tamber-vs-shih-chien-chan-2002-03-31
+    captured_at: '2020-12-02 04:26:41+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-13-tobey-tamber-vs-shih-chien-chan-2002-03-31
+    lang_detected: en
+    capture_id: 508093
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-13-tobey-tamber-vs-shih-chien-chan-2002-03-31
+    captured_at: '2020-12-02 04:26:41+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: 9k7rwm39
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-13-tobey-tamber-vs-shih-chien-chan-2002-03-31
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/round-13-tobey-tamber-vs-shih-chien-chan-2002-03-31
+  lang: en
+  template: drupal
+  captured_at: '2020-12-02 04:26:41+00'
+  capture_id: 508093
+  wayback_url: https://web.archive.org/web/20201202042641id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-13-tobey-tamber-vs-shih-chien-chan-2002-03-31
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 9k7rwm39
+  capture_id: 508093
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-13-tobey-tamber-vs-shih-chien-chan-2002-03-31
+  wayback_url: https://web.archive.org/web/20201202042641id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-13-tobey-tamber-vs-shih-chien-chan-2002-03-31
+  captured_at: '2020-12-02 04:26:41+00'
+  template: drupal
+  sha256: 45e6abd71306f711fa5c4e03cdc4fa837bbb4da7db8eaa1da310052a2a6f5fe2
+render_recovery: []
+---
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpkl02/a942.jpg)Grand Prix - Kaohsiung Champion Tobey Tamber's deck is B/G with Chainer and [Roar of the Wurm](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Roar+of+the+Wurm). Shih Chien's deck is a top-heavy R/G with 18 land, featuring copious amounts of burn and [Chainflinger](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chainflinger). The winner of this match will get to fight it out for the big bucks in the Top 8.
+
+### Game 1
+
+Playing second, Tamber held two swamps, [Werebear](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Werebear) and some black cards. He drew into the [Forest](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Forest) and the Bear was the first to enter the arena, and after a [Flame Burst](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flame+Burst), it was the first to leave. Chan drew and played [Wild Mongrel](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wild+Mongrel). Tamber had removal of his own in the form of [Innocent Blood](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Innocent+Blood) and used [Morgue Theft](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Morgue+Theft) to bring the [Werebear](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Werebear) back to his hand.
+
+A Shih Chien [Chainflinger](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chainflinger) got [Ghastly Demise](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ghastly+Demise)d and Tobey made a shortlived [Soul Scourge](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Soul+Scourge) that got hit by [Acceptable Losses](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Acceptable+Losses). Over the course of the next few turns the Scourge was brought back into the game via [Morgue Theft](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Morgue+Theft), a Farmhand was played and [Mesmeric Fiend](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mesmeric+Fiend) took away Chan's [Demoralize](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Demoralize). It was the only non-land spell he had for the rest of the game.
+
+Tamber 1 Chan 0
+
+Sideboarding: Tamber: -1 Chainer -1 [Sandstone Deadfall](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sandstone+Deadfall) +2 [Innocent Blood](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Innocent+Blood)  
+ Chan: -1 [Whipkeeper](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Whipkeeper) +1 [Krosan Constrictor](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Krosan+Constrictor)
+
+### Game 2
+
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpkl02/a943.jpg)Chan started with [Skyshooter](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skyshooter) on turn two and [Krosan Constrictor](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Krosan+Constrictor) on turn four. Combined, they played havoc with Tamber's life total and he was brought down to 12 before he stabilized with [Nantuko Calmer](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nantuko+Calmer), [Nantuko Disciple](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nantuko+Disciple) and [Innocent Blood](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Innocent+Blood). The advantage still remained with Chan however as these were the only spells he had for about five turns - apparently Chan's mana flood was contagious.
+
+Chan, meanwhile, had business spells and used [Flame Burst](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flame+Burst) to burn the Disciple and cast [Limestone Golem](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Limestone+Golem), which socked Tobey in the face once, and then on the next turn made [Centaur Veteran](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Centaur+Veteran). He cleverly used [Magma Vein](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Magma+Vein) to gain Threshold and played [Demoralize](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Demoralize), attacking Tamber down to three. Tobey found blockers, but [Fledgling Imp](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fledgling+Imp)s and [Werebear](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Werebear)s don't stop [Scorching Missile](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Scorching+Missile).
+
+Tamber 1 Chan 1
+
+### Game 3
+
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpkl02/a944.jpg)Tobey Tamber's attentive sideboarding was key in this game. He used the two [Innocent Blood](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Innocent+Blood)s in his opening hand to dispose of Shih Chien's [Wild Mongrel](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wild+Mongrel) and [Seton's Scout](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Seton%27s+Scout). He followed up the second Blood with [Mesmeric Fiend](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mesmeric+Fiend), hoping to further blunt Chan's attempts at being the aggressor. He chose to remove [Magma Vein](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Magma+Vein) over [Elephant Ambush](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Elephant+Ambush). Knowing Chan's hand, on his next turn he enchanted the Fiend with [Shade's Form](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shade%27s+Form). An elephant token came into play on Chan's side and started the beatdown. Tamber took the damage and played [Werebear](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Werebear) and [Diligent Farmhand](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Diligent+Farmhand). He send the Fiend in and pumped it with all the Black mana he had, which was growing by the turn.
+
+The Farmhand held the Elephant off for a turn and went to look for more [Swamp](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Swamp)s. It was pretty clear after Tamber attacked for the third time with the Fiend that the he was winning the race. Shih Chien's hand was not useful. He held [Demoralize](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Demoralize) and land. [Scorching Missile](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Scorching+Missile) was used to try and even out the race but the deity of Mana Flood mananged a hat-trick. The Elephant gave its life to save its master for one more turn, but Chan could not deliver.
+
+**Final Result:** Tamber 2 Chan 1
+
+Tobey Tamber
+
+### GP Kuala Lumpur 2002
+
+1 [Fledgling Imp](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fledgling+Imp) 2 [Diligent Farmhand](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Diligent+Farmhand) 1 [Krosan Avenger](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Krosan+Avenger) 2 [Nantuko Disciple](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nantuko+Disciple) 2 [Werebear](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Werebear) 1 [Chainer, Dementia Master](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chainer%2C+Dementia+Master) 1 [Faceless Butcher](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Faceless+Butcher) 1 [Mesmeric Fiend](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mesmeric+Fiend) 1 [Soul Scourge](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Soul+Scourge+) 1 [Nantuko Calmer](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nantuko+Calmer) 1 [Ghastly Demise](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ghastly+Demise) 1 [Innocent Blood](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Innocent+Blood) 1 [Morgue Theft](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Morgue+Theft) 1 [Muscle Burst](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Muscle+Burst) 1 [Roar of the Wurm](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Roar+of+the+Wurm) 1 [Crippling Fatigue](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crippling+Fatigue) 1 [Shade's Form](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shade%27s+Form) 1 [Waste Away](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Waste+Away) 1 [Mossfire Egg](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mossfire+Egg) 1 [Sandstone Deadfall](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sandstone+Deadfall) 8 [Forest](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Forest) 8 [Swamp](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Swamp) 1 [Tainted Wood](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tainted+Wood+) Shih Chien Chan
+
+### GP Kuala Lumpur 2002
+
+1 [Limestone Golem](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Limestone+Golem) 1 [Chainflinger](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chainflinger) 1 [Whipkeeper](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Whipkeeper) 1 [Krosan Archer](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Krosan+Archer) 2 [Krosan Avenger](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Krosan+Avenger) 1 [Skyshooter](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Skyshooter) 1 [Wild Mongrel](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wild+Mongrel) 1 [Petravark](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Petravark) 1 [Anurid Scavenger](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Anurid+Scavenger) 2 [Centaur Veteran](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Centaur+Veteran) 1 [Seton's Scout](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Seton%27s+Scout) 2 [Fiery Temper](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fiery+Temper) 1 [Elephant Ambush](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Elephant+Ambush) 1 [Thermal Blast](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Thermal+Blast) 1 [Scorching Missile](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Scorching+Missile) 1 [Magma Vein](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Magma+Vein) 1 [Flame Burst](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flame+Burst) 2 [Demoralize](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Demoralize) 1 [Blazing Salvo](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Blazing+Salvo) 1 [Acceptable Losses](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Acceptable+Losses) 9 [Forest](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Forest) 9 [Mountain](https://web.archive.org/web/20020331000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mountain)

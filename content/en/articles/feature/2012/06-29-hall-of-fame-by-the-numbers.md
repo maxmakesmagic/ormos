@@ -1,0 +1,123 @@
+---
+id: a2rybana
+kind: article
+lang: en
+path: /en/articles/feature/2012/06-29-hall-of-fame-by-the-numbers
+title: Hall of Fame, By The Numbers
+published: '2012-06-29'
+column_slug: feature
+column: Feature
+authors:
+- slug: pauljordan
+  name: Paul Jordan
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/week-was/hall-fame-numbers-2012-06-29
+    lang_detected: en
+    capture_id: 1236450
+    url: https://magic.wizards.com/en/articles/archive/week-was/hall-fame-numbers-2012-06-29
+    captured_at: '2022-01-17 22:00:19+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/week-was/hall-fame-numbers-2012-06-29
+    lang_detected: en
+    capture_id: 1236450
+    url: https://magic.wizards.com/en/articles/archive/week-was/hall-fame-numbers-2012-06-29
+    captured_at: '2022-01-17 22:00:19+00'
+    rule: drupal.posted_in_date
+  authors:
+    page_key: magic.wizards.com/en/articles/archive/week-was/hall-fame-numbers-2012-06-29
+    lang_detected: en
+    capture_id: 1236450
+    url: https://magic.wizards.com/en/articles/archive/week-was/hall-fame-numbers-2012-06-29
+    captured_at: '2022-01-17 22:00:19+00'
+    rule: drupal.div_author
+  column:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/twtw/201a
+    lang_detected: en
+    capture_id: 244282
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/twtw/201a&print=true
+    captured_at: '2013-07-03 11:41:58+00'
+    rule: aspx.archive_link_column
+    registry_match: registry.explicit
+sources:
+- document_id: a2rybana
+  url: https://magic.wizards.com/en/articles/archive/week-was/hall-fame-numbers-2012-06-29
+  page_key: magic.wizards.com/en/articles/archive/week-was/hall-fame-numbers-2012-06-29
+  lang: en
+  template: drupal
+  captured_at: '2022-01-17 22:00:19+00'
+  capture_id: 1236450
+  wayback_url: https://web.archive.org/web/20220117220019id_/https://magic.wizards.com/en/articles/archive/week-was/hall-fame-numbers-2012-06-29
+- document_id: a2rybana
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/twtw/201a&print=true
+  page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/twtw/201a
+  lang: en
+  template: aspx
+  captured_at: '2013-07-03 11:41:58+00'
+  capture_id: 244282
+  wayback_url: https://web.archive.org/web/20130703114158id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/twtw/201a&print=true
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: a2rybana
+  capture_id: 1236450
+  url: https://magic.wizards.com/en/articles/archive/week-was/hall-fame-numbers-2012-06-29
+  wayback_url: https://web.archive.org/web/20220117220019id_/https://magic.wizards.com/en/articles/archive/week-was/hall-fame-numbers-2012-06-29
+  captured_at: '2022-01-17 22:00:19+00'
+  template: drupal
+  sha256: a06d326a9a476cc2339e6e13693b5f94573a9fff0fd2ef46a04a2c37404dbdd4
+render_recovery: []
+---
+A Hall of Fame means many things to many people. Is it a way to congratulate and honor those who have excelled at a game over their career? But what if that career wasn't very long? Can excellence during a single year—or even a single event—warrant enshrinement from an otherwise undistinguished career? Different people will rally for those who contributed to the game from the outside, or at least away from the actual competition. Many want a large Hall, honoring anyone who was ever recognizable. Others favor a small Hall, reserving the nominations for only those who were truly legendary.
+
+[![](https://i.ormos.uk/57/cc/57cca9c43d91f55b1c6b33e41bd5178c7d1c45cd893654a30df80524510179e1.jpg)](https://web.archive.org/web/20120629000000/https://magic.wizards.com/en/node/574031)
+
+This is true of most, if not all Halls of Fame. In general, I personally lean more toward a small Hall. Thinking about baseball, I don't think Andre Dawson should have the same honor as Babe Ruth. Nothing against Dawson; he was a fine player. But I suspect it would be hard to find someone arguing he was on the same level as the Babe. But that's what I'm talking about, anyway. Baseball has a pretty big head start on **Magic** in any number of areas (history, publicity, revenue, and record-keeping, to name a few). Baseball relies on statistics—new and old, mainstream and modern—to measure its players. **Magic**, however, has relied primarily on narrative when judging players for the Hall of Fame, with only a few key stats regularly coming up in debates.
+
+The first stat many people look to is lifetime Pro Points. That gets a little thorny when we look back through Pro Tour history because points were awarded on a different scale than they are today for Pro Tours and Grand Prix. Some National Championships awarded Pro Points in some years. All told, there were significantly fewer points awarded in the early days of the Pro Tour than there are today. This has been brought up in many discussions when comparing players from the early days of the Pro Tour to more recent players.
+
+In addition to varying point payouts, there's an argument that Pro Points are merely a counting stat—meaning that someone could move along, getting 20–25 points per year, never excelling, maybe getting a Top 8 here or there but nothing consistent, and still end up with a massive number of points (for example, Masahiko Morita has 213 career points but not a single Pro Tour Top 8, only one Top 16, but seven Top 32s). Some will argue that this level of consistency is exactly what the Hall of Fame should recognize, while others would be turned off by a Pro Tour career that lacks truly memorable moments. Some discount the value of Pro Points earned in Grand Prix versus those earned in Pro Tours. Some Grand Prix are certainly less competitive than others; there is no debate there. So does flying around the world to attend as many GPs as possible diminish the accomplishments in those tournaments? Or does that level of commitment add to the narrative of a great career? There is a lot of subjectivism in even looking at a simple number such as Pro Points earned in a career.
+
+I'm not certain there will ever be a single metric that can measure a player's career in **Magic**. Definitely not one that measures "the player's performances, playing ability, integrity, sportsmanship, and contributions to the game in general" that Hall of Fame voters are instructed to examine. But by looking a little deeper into the numbers—both those earned by Hall of Famers in their careers prior to induction and those Hall of Fame hopefuls on this year's ballot—we can draw some conclusions about the first criteria: the players' performances.
+
+I began by looking at the Pro Tour accomplishments of each of the twenty-nine current Hall of Fame members. When I say "Pro Tour" I am referring to only the Tour—not Grand Prix, not Nationals, not the Masters Series, not APAC Championships, and not FNM. This does include the individual portion of World Championships, as those have always been considered Pro Tours. I took the results from all eighty-six Pro Tours that have been played for each of those numbers and ran them through Excel to arrive at some Hall of Fame baselines. (Thanks to Greg Collins for the stats, who, as always, was a wealth of help on this.)These are numbers that, historically, voters have said are what makes a Hall of Famer.
+
+Before we get to that, though, it is important to emphasize that these numbers are only reflective of *performance* at Pro Tour tournaments. While they might serve as a barometer for playing ability, they have no relation to integrity, sportsmanship, or contributions to the game. So, even if we could boil everything down to a single number and sort by that number, we still would not have the entire picture. What I'm trying to say here is to be careful with these numbers. They start a dialogue on a player—they do not represent the entire dialogue.
+
+Here are the ten stats tracked for each player:
+
+> *   Pro Points, which we've already discussed
+> *   Pro Tours played in
+> *   Pro Tour wins
+> *   Pro Tour Top 8 finishes (or Top 4 for teams)
+> *   Pro Tour Top 16 finishes (or Top 8 for teams)
+> *   Pro Tour Top 32 finishes (or Top 16 for teams)
+> *   Pro Tour Top 64 finishes (or Top 32 for teams)
+> *   Career median finish
+> *   Peak median finish over fifteen events. (This is a little different from what has been published previously. Previous calculations asked the question, "What was the best median finish for all events across a three-season period for this player?" while I'm asking "What was the best median finish for all events across a fifteen-event period for this player?" The main difference is that this method allows for a player's peak to begin in the middle of a season.)
+> *   Player of the Year Top 10 finishes
+
+Team events complicate things somewhat when doing these counting stats. Generally, when talking about a Top 8 finish, we mean Top 4 for teams. To account for this, I simply multiply the finish for every team event by 2 when counting Top 8, Top 16, and so forth, as well as for calculating median finishes. It is not the best method in all likelihood, but it serves a purpose and is much better than simply doing nothing. Of course, winning still counts as first place, so I left those alone.
+
+For all ten of these categories across all twenty-nine Hall of Fame members, I derived the average, median, minimum, and maximum results. I also excluded any results and Pro Points accrued from players after the year in which they were voted in, since those results were not available for voters at the time of voting (meaning Finkel's back-to-back Top 8s in 2012 did not count for these and neither did his win in 2008, since he was elected in 2005... Jon has as a win, two other Top 8s, a Top 16, and a Top 64 since being elected and "retiring." He's on his way to a second election!).
+
+<table><tbody><tr><td></td>&#10;					<td>Pro Points</td>&#10;					<td># of PTs</td>&#10;					<td>MEDIAN</td>&#10;					<td>15-event Median</td>&#10;					<td>POY Top 10</td>&#10;					<td>Wins</td>&#10;					<td>Top 8</td>&#10;					<td>Top 16</td>&#10;					<td>Top 32</td>&#10;					<td>Top 64 </td>&#10;				</tr><tr><td>Median</td>&#10;					<td>274</td>&#10;					<td>42</td>&#10;					<td>56</td>&#10;					<td>30</td>&#10;					<td>2</td>&#10;					<td>1</td>&#10;					<td>4</td>&#10;					<td>7</td>&#10;					<td>13</td>&#10;					<td>20 </td>&#10;				</tr><tr><td>Average</td>&#10;					<td>279.8</td>&#10;					<td>40.3</td>&#10;					<td>61.5</td>&#10;					<td>32.8</td>&#10;					<td>2</td>&#10;					<td>1.1</td>&#10;					<td>4.8</td>&#10;					<td>7.8</td>&#10;					<td>12.9</td>&#10;					<td>19.5 </td>&#10;				</tr><tr><td>Best</td>&#10;					<td>475</td>&#10;					<td>62</td>&#10;					<td>17</td>&#10;					<td>10</td>&#10;					<td>5</td>&#10;					<td>7</td>&#10;					<td>11</td>&#10;					<td>18</td>&#10;					<td>21</td>&#10;					<td>28 </td>&#10;				</tr><tr><td>Worst</td>&#10;					<td>126</td>&#10;					<td>12</td>&#10;					<td>97.5</td>&#10;					<td>76.5</td>&#10;					<td>0</td>&#10;					<td>0</td>&#10;					<td>1</td>&#10;					<td>4</td>&#10;					<td>5</td>&#10;					<td>10 </td>&#10;				</tr></tbody></table>
+
+  
+
+The way to read this is that if you took all twenty-nine players in the Hall of Fame and looked at only the "worst" performer in each category, you would end up with a player with 126 career Pro Points over twelve PTs with a single Top 8, four Top 16s, five Top 32s, and ten Top 64s who never finished in the Top 10 of the Player of the Year race and never won a Pro Tour. This hypothetical player's median finish was 97.5, with a peak of 76.5. Of course, not all of that translates into a single person, since you probably can't have a median finish of 97.5 over twelve PTs while still getting ten Top 64 finishes, but you get the point. Through seven years of voting, the voting committees have decided that those are the "minimum" requirements for enshrinement.
+
+These minimums are likely not what people have in mind when voting. I don't have a vote so I can't say for sure, but I doubt there are people out there saying anything along the lines of, "OK, let's limit this down to only people who have a median finish better than 98 and at least one Top 8." They might be doing similar things, but I highly doubt these are the numbers they are using. And that's not to say that these are the "right" numbers to use, either. But these are the numbers that, at the very least, have some precedent behind them, and something to compare potential Hall of Famers' careers against. But as pointed out above, these numbers have limitations and are only a piece of the puzzle.
+
+With a statistical baseline established, we can examine the Pro Tour performances of current Hall of Fame-eligible players. To do this, I did the same calculations for the seventy-four players on the ballot as I did for the twenty-nine Hall of Fame players. All of the same rules applied.
+
+There are twenty-five of the seventy-four players on the ballot who meet the minimum requirements stated above. If I had a vote, I would use this as a solid starting point. There are ten other people who meet nine of the thresholds, the most common missing threshold being Top 16s. Including these ten fine players is certainly reasonable—scanning the list there are several names appearing that have appeared prominently in Hall of Fame conversations. The barrier for entry is very likely a moving target and likely to change throughout time. For the sake of completeness, I'm including the twenty-five who meet all categories and the ten who meet all but one.
+
+The numbers in green represent instances where the players in question have as-good-or-better-than the Hall of Fame median. Meaning, they were either better than or at least the same as the "average" Hall of Famer, which is an impressive thing in my eye. The numbers in red are the ones below the current Hall of Fame "minimums."
+
+<table><tbody><tr><td>First</td>&#10;					<td>Last</td>&#10;					<td>Pro Points</td>&#10;					<td># of PTs</td>&#10;					<td>MEDIAN</td>&#10;					<td>15-event Median</td>&#10;					<td>POY Top 10</td>&#10;					<td>Top 8</td>&#10;					<td>Top 16</td>&#10;					<td>Top 32</td>&#10;					<td>Top 64</td>&#10;					<td>Wins </td>&#10;				</tr><tr><td><b>Hall of Fame</b></td>&#10;					<td><b>Median</b></td>&#10;					<td>274</td>&#10;					<td>42</td>&#10;					<td>56</td>&#10;					<td>30</td>&#10;					<td>2</td>&#10;					<td>4</td>&#10;					<td>7</td>&#10;					<td>13</td>&#10;					<td>20</td>&#10;					<td>1 </td>&#10;				</tr><tr><td><b>Hall of Fame</b></td>&#10;					<td><b>&quot;Minimum&quot;</b></td>&#10;					<td> 126</td>&#10;					<td> 12</td>&#10;					<td> 97.5</td>&#10;					<td> 76.5</td>&#10;					<td> 0</td>&#10;					<td> 1</td>&#10;					<td> 4</td>&#10;					<td> 5</td>&#10;					<td> 10</td>&#10;					<td> 0 </td>&#10;				</tr><tr><td>Akira</td>&#10;					<td>Asahara</td>&#10;					<td>226</td>&#10;					<td>38</td>&#10;					<td>83.5</td>&#10;					<td>48</td>&#10;					<td>0</td>&#10;					<td>2</td>&#10;					<td>4</td>&#10;					<td>6</td>&#10;					<td>13</td>&#10;					<td>0 </td>&#10;				</tr><tr><td>Patrick</td>&#10;					<td>Chapin</td>&#10;					<td>217</td>&#10;					<td>38</td>&#10;					<td> 103.5</td>&#10;					<td>53</td>&#10;					<td>0</td>&#10;					<td> 4</td>&#10;					<td> 7</td>&#10;					<td>7</td>&#10;					<td>13</td>&#10;					<td>0 </td>&#10;				</tr><tr><td>Bernardo</td>&#10;					<td>Da Costa Cabral</td>&#10;					<td>148</td>&#10;					<td>30</td>&#10;					<td>85</td>&#10;					<td>57.5</td>&#10;					<td>0</td>&#10;					<td> 0</td>&#10;					<td>4</td>&#10;					<td>8</td>&#10;					<td>11</td>&#10;					<td>0 </td>&#10;				</tr><tr><td>Paulo Vitor</td>&#10;					<td>Damo da Rosa</td>&#10;					<td> 358</td>&#10;					<td>31</td>&#10;					<td> 55</td>&#10;					<td>36</td>&#10;					<td> 5</td>&#10;					<td> 9</td>&#10;					<td> 9</td>&#10;					<td>11</td>&#10;					<td>19</td>&#10;					<td> 1 </td>&#10;				</tr><tr><td>Antonino</td>&#10;					<td>De Rosa</td>&#10;					<td>269</td>&#10;					<td> 50</td>&#10;					<td>82</td>&#10;					<td>50</td>&#10;					<td>0</td>&#10;					<td>1</td>&#10;					<td> 1</td>&#10;					<td>8</td>&#10;					<td> 20</td>&#10;					<td>0 </td>&#10;				</tr><tr><td>Gerard</td>&#10;					<td>Fabiano</td>&#10;					<td>235</td>&#10;					<td>45</td>&#10;					<td>85</td>&#10;					<td>56</td>&#10;					<td>0</td>&#10;					<td>1</td>&#10;					<td>4</td>&#10;					<td>7</td>&#10;					<td>17</td>&#10;					<td>0 </td>&#10;				</tr><tr><td>Eric</td>&#10;					<td>Froehlich</td>&#10;					<td>176</td>&#10;					<td>31</td>&#10;					<td>82</td>&#10;					<td>16.5</td>&#10;					<td>1</td>&#10;					<td>2</td>&#10;					<td>6</td>&#10;					<td>8</td>&#10;					<td>12</td>&#10;					<td>0 </td>&#10;				</tr><tr><td>Justin</td>&#10;					<td>Gary</td>&#10;					<td>252</td>&#10;					<td>44</td>&#10;					<td>56</td>&#10;					<td>21</td>&#10;					<td>2</td>&#10;					<td>3</td>&#10;					<td>8</td>&#10;					<td>17</td>&#10;					<td>23</td>&#10;					<td>1 </td>&#10;				</tr><tr><td>Eugene</td>&#10;					<td>Harvey</td>&#10;					<td>202</td>&#10;					<td>33</td>&#10;					<td>74</td>&#10;					<td>59</td>&#10;					<td>1</td>&#10;					<td>4</td>&#10;					<td>9</td>&#10;					<td>10</td>&#10;					<td>13</td>&#10;					<td>0 </td>&#10;				</tr><tr><td>Mark</td>&#10;					<td>Herberholz</td>&#10;					<td>198</td>&#10;					<td>35</td>&#10;					<td>88</td>&#10;					<td>57.5</td>&#10;					<td>2</td>&#10;					<td>4</td>&#10;					<td>4</td>&#10;					<td>5</td>&#10;					<td>13</td>&#10;					<td>1 </td>&#10;				</tr><tr><td>Richard</td>&#10;					<td>Hoaen</td>&#10;					<td>205</td>&#10;					<td>35</td>&#10;					<td>65</td>&#10;					<td>33</td>&#10;					<td>0</td>&#10;					<td>1</td>&#10;					<td>4</td>&#10;					<td>8</td>&#10;					<td>16</td>&#10;					<td>0 </td>&#10;				</tr><tr><td>Tsuyoshi</td>&#10;					<td>Ikeda</td>&#10;					<td>313</td>&#10;					<td>59</td>&#10;					<td>123</td>&#10;					<td>62</td>&#10;					<td>0</td>&#10;					<td>4</td>&#10;					<td>7</td>&#10;					<td>12</td>&#10;					<td>17</td>&#10;					<td>0 </td>&#10;				</tr><tr><td>William</td>&#10;					<td>Jensen</td>&#10;					<td>214</td>&#10;					<td>34</td>&#10;					<td>56</td>&#10;					<td>38.5</td>&#10;					<td>1</td>&#10;					<td>4</td>&#10;					<td>4</td>&#10;					<td>10</td>&#10;					<td>17</td>&#10;					<td>1 </td>&#10;				</tr><tr><td>Scott</td>&#10;					<td>Johns</td>&#10;					<td>164</td>&#10;					<td>27</td>&#10;					<td>52</td>&#10;					<td>32.5</td>&#10;					<td>1</td>&#10;					<td>5</td>&#10;					<td>6</td>&#10;					<td>10</td>&#10;					<td>17</td>&#10;					<td>1 </td>&#10;				</tr><tr><td>Mark</td>&#10;					<td>Justice</td>&#10;					<td>133</td>&#10;					<td>18</td>&#10;					<td>32</td>&#10;					<td>17</td>&#10;					<td>2</td>&#10;					<td>4</td>&#10;					<td>7</td>&#10;					<td>10</td>&#10;					<td>13</td>&#10;					<td>0 </td>&#10;				</tr><tr><td>Shuu</td>&#10;					<td>Komuro</td>&#10;					<td>183</td>&#10;					<td>31</td>&#10;					<td>92</td>&#10;					<td>69</td>&#10;					<td>1</td>&#10;					<td>1</td>&#10;					<td>2</td>&#10;					<td>5</td>&#10;					<td>12</td>&#10;					<td>1 </td>&#10;				</tr><tr><td>Osyp</td>&#10;					<td>Lebedowicz</td>&#10;					<td>226</td>&#10;					<td>36</td>&#10;					<td>55.5</td>&#10;					<td>26.5</td>&#10;					<td>2</td>&#10;					<td>3</td>&#10;					<td>5</td>&#10;					<td>11</td>&#10;					<td>19</td>&#10;					<td>1 </td>&#10;				</tr><tr><td>Michael</td>&#10;					<td>Long</td>&#10;					<td>191</td>&#10;					<td>33</td>&#10;					<td>40.5</td>&#10;					<td>25</td>&#10;					<td>1</td>&#10;					<td>4</td>&#10;					<td>7</td>&#10;					<td>14</td>&#10;					<td>17</td>&#10;					<td>1 </td>&#10;				</tr><tr><td>Makihito</td>&#10;					<td>Mihara</td>&#10;					<td>233</td>&#10;					<td>31</td>&#10;					<td>97.5</td>&#10;					<td>22</td>&#10;					<td>1</td>&#10;					<td>3</td>&#10;					<td>5</td>&#10;					<td>8</td>&#10;					<td>12</td>&#10;					<td>1 </td>&#10;				</tr><tr><td>Katsuhiro</td>&#10;					<td>Mori</td>&#10;					<td>282</td>&#10;					<td>34</td>&#10;					<td>64.5</td>&#10;					<td>39</td>&#10;					<td>1</td>&#10;					<td>3</td>&#10;					<td>6</td>&#10;					<td>10</td>&#10;					<td>16</td>&#10;					<td>1 </td>&#10;				</tr><tr><td>Eivind</td>&#10;					<td>Nitter</td>&#10;					<td>167</td>&#10;					<td>27</td>&#10;					<td>72</td>&#10;					<td>50.5</td>&#10;					<td>1</td>&#10;					<td>1</td>&#10;					<td>3</td>&#10;					<td>6</td>&#10;					<td>11</td>&#10;					<td>1 </td>&#10;				</tr><tr><td>Masashi</td>&#10;					<td>Oiso</td>&#10;					<td>257</td>&#10;					<td>31</td>&#10;					<td>58</td>&#10;					<td>40</td>&#10;					<td>3</td>&#10;					<td>6</td>&#10;					<td>6</td>&#10;					<td>9</td>&#10;					<td>14</td>&#10;					<td>0 </td>&#10;				</tr><tr><td>Koutarou</td>&#10;					<td>Ootsuka</td>&#10;					<td>184</td>&#10;					<td>26</td>&#10;					<td>64</td>&#10;					<td>41</td>&#10;					<td>1</td>&#10;					<td>2</td>&#10;					<td>3</td>&#10;					<td>7</td>&#10;					<td>12</td>&#10;					<td>0 </td>&#10;				</tr><tr><td>Chris</td>&#10;					<td>Pikula</td>&#10;					<td>135</td>&#10;					<td>30</td>&#10;					<td>82.5</td>&#10;					<td>51.5</td>&#10;					<td>1</td>&#10;					<td>3</td>&#10;					<td>4</td>&#10;					<td>8</td>&#10;					<td>11</td>&#10;					<td>0 </td>&#10;				</tr><tr><td>Jeroen</td>&#10;					<td>Remie</td>&#10;					<td>175</td>&#10;					<td>28</td>&#10;					<td>59</td>&#10;					<td>23</td>&#10;					<td>0</td>&#10;					<td>3</td>&#10;					<td>5</td>&#10;					<td>8</td>&#10;					<td>13</td>&#10;					<td>1 </td>&#10;				</tr><tr><td>Paul</td>&#10;					<td>Rietzl</td>&#10;					<td>225</td>&#10;					<td>31</td>&#10;					<td>82</td>&#10;					<td>47.5</td>&#10;					<td>0</td>&#10;					<td>3</td>&#10;					<td>4</td>&#10;					<td>8</td>&#10;					<td>11</td>&#10;					<td>1 </td>&#10;				</tr><tr><td>Johan</td>&#10;					<td>Sadeghpour</td>&#10;					<td>176</td>&#10;					<td>36</td>&#10;					<td>111</td>&#10;					<td>64.5</td>&#10;					<td>0</td>&#10;					<td>1</td>&#10;					<td>5</td>&#10;					<td>7</td>&#10;					<td>12</td>&#10;					<td>0 </td>&#10;				</tr><tr><td>Tomoharu</td>&#10;					<td>Saito</td>&#10;					<td>348</td>&#10;					<td>32</td>&#10;					<td>65</td>&#10;					<td>25</td>&#10;					<td>4</td>&#10;					<td>5</td>&#10;					<td>5</td>&#10;					<td>10</td>&#10;					<td>14</td>&#10;					<td>1 </td>&#10;				</tr><tr><td>Terry</td>&#10;					<td>Soh</td>&#10;					<td>155</td>&#10;					<td>22</td>&#10;					<td>58</td>&#10;					<td>57.5</td>&#10;					<td>0</td>&#10;					<td>3</td>&#10;					<td>5</td>&#10;					<td>6</td>&#10;					<td>10</td>&#10;					<td>0 </td>&#10;				</tr><tr><td>Jonathan</td>&#10;					<td>Sonne</td>&#10;					<td>207</td>&#10;					<td>35</td>&#10;					<td>53.5</td>&#10;					<td>44</td>&#10;					<td>0</td>&#10;					<td>1</td>&#10;					<td>2</td>&#10;					<td>6</td>&#10;					<td>16</td>&#10;					<td>0 </td>&#10;				</tr><tr><td>Ben</td>&#10;					<td>Stark</td>&#10;					<td>232</td>&#10;					<td>35</td>&#10;					<td>86.5</td>&#10;					<td>33</td>&#10;					<td>2</td>&#10;					<td>3</td>&#10;					<td>5</td>&#10;					<td>7</td>&#10;					<td>12</td>&#10;					<td>1 </td>&#10;				</tr><tr><td>Helmut</td>&#10;					<td>Summersberger</td>&#10;					<td>198</td>&#10;					<td>35</td>&#10;					<td>91</td>&#10;					<td>39</td>&#10;					<td>0</td>&#10;					<td>1</td>&#10;					<td>3</td>&#10;					<td>7</td>&#10;					<td>11</td>&#10;					<td>0 </td>&#10;				</tr><tr><td>Kenji</td>&#10;					<td>Tsumura</td>&#10;					<td>250</td>&#10;					<td>29</td>&#10;					<td>90</td>&#10;					<td>21</td>&#10;					<td>3</td>&#10;					<td>6</td>&#10;					<td>7</td>&#10;					<td>9</td>&#10;					<td>12</td>&#10;					<td>0 </td>&#10;				</tr><tr><td>Ruud</td>&#10;					<td>Warmenhoven</td>&#10;					<td>151</td>&#10;					<td>33</td>&#10;					<td>103</td>&#10;					<td>64</td>&#10;					<td>0</td>&#10;					<td>1</td>&#10;					<td>5</td>&#10;					<td>8</td>&#10;					<td>11</td>&#10;					<td>0 </td>&#10;				</tr><tr><td>Shouta</td>&#10;					<td>Yasooka</td>&#10;					<td>288</td>&#10;					<td>33</td>&#10;					<td>52</td>&#10;					<td>33.5</td>&#10;					<td>2</td>&#10;					<td>1</td>&#10;					<td>6</td>&#10;					<td>11</td>&#10;					<td>17</td>&#10;					<td>1</td>&#10;				</tr></tbody></table>
+
+  
+
+By putting the candidates' Pro Tour performances into the context of Hall of Fame members' careers, we can see their accomplishments through the lens of history perhaps a little clearer. To those of you with a vote, happy voting. For the rest of us, we're looking forward to your decisions.

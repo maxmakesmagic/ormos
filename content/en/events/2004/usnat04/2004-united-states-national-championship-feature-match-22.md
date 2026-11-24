@@ -1,0 +1,56 @@
+---
+id: qtxv3627
+kind: event
+lang: en
+path: /en/events/2004/usnat04/2004-united-states-national-championship-feature-match-22
+title: 2004 United States National Championship Feature Match
+published: null
+column_slug: null
+column: null
+authors: []
+event_code: usnat04
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/usnat04/top8profs
+    lang_detected: en
+    capture_id: 1132040
+    url: http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/usnat04/top8profs
+    captured_at: '2013-06-30 05:00:51+00'
+    rule: aspx.article_heading
+  event_code:
+    page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/usnat04/top8profs
+    lang_detected: en
+    capture_id: 1132040
+    url: http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/usnat04/top8profs
+    captured_at: '2013-06-30 05:00:51+00'
+    rule: url.event_code
+sources:
+- document_id: qtxv3627
+  url: http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/usnat04/top8profs
+  page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/usnat04/top8profs
+  lang: en
+  template: aspx
+  captured_at: '2013-06-30 05:00:51+00'
+  capture_id: 1132040
+  wayback_url: https://web.archive.org/web/20130630050051id_/http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/usnat04/top8profs
+- document_id: qtxv3627
+  url: http://www.wizards.com/default.asp?x=mtgevent/usnat04/top8profs
+  page_key: wizards.com/default.asp?x=mtgevent/usnat04/top8profs
+  lang: en
+  template: classic_asp
+  captured_at: '2005-03-02 21:43:00+00'
+  capture_id: 2117230
+  wayback_url: https://web.archive.org/web/20050302214300id_/http://www.wizards.com/default.asp?x=mtgevent/usnat04/top8profs
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: qtxv3627
+  capture_id: 1132040
+  url: http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/usnat04/top8profs
+  wayback_url: https://web.archive.org/web/20130630050051id_/http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/usnat04/top8profs
+  captured_at: '2013-06-30 05:00:51+00'
+  template: aspx
+  sha256: ccea04e5e3957e61a237805e56bc3b12482b87555820568eca505fa17e970bf6
+render_recovery: []
+---
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <img alt="William Postlethewait" src="https://i.ormos.uk/77/ac/77ac71ad13a182b7e58e6023abd8553fccb84be5d4eea829c60b019e4ce29209.jpg" title="William Postlethewait">&#10;    </td>&#10;    <td>&#10;      <h3>William Postlethewait</h3>&#10;      <p>&#10;        <b>Age:</b> 18<br><b>Hometown:</b> Orlando, FL<br><b>Occupation:</b> student<br><b>Number of times playing US Nationals:</b> 2<br><b>How did you qualify for Nats?</b> Regionals<br><b>How did you do in each format?</b> Standard: 6-0-1, Booster Draft: 4-3<br><b>What was your draft strategy?</b> Draft colors that come to me. Try to draft Green or White<br><b>What kind of Standard deck are you playing?</b> Affinity<br><b>Why did you choose to play that deck?</b> I qualified with it at Regionals and it does well against every deck.<br><b>Where did you get your deck? / Who built it? / What did you base your design on? </b><br> Past tourneys and I built it with the help of friends<br><b>What do you think of your chances on Sunday?</b> Good. Hope for good draws.</p>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td colspan="2">&#10;      <hr>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <h3>Bill Stead</h3>&#10;      <p>&#10;        <b>Age:</b> 20<br><b>Hometown:</b> Gainesville<br><b>Occupation:</b> Student<br><b>Number of times playing US Nationals:</b> 2<br><b>How did you qualify for Nats?</b> Rating / Pro Points<br><b>Previous Magic accomplishments:</b> 2 Grand Prix wins, 4 Pro Tour Top 16s last year<br><b>How did you do in each format?</b> Standard: 4-1-2, Booster Draft: 6-1<br><b>What was your draft strategy?</b> Draft B/U, W/U, or Sunburst<br><b>What kind of Standard deck are you playing?</b> W/G Control<br><b>Why did you choose to play that deck?</b> Beats Affinity and Goblins, and after sideboard it sets up for control.<br><b>Where did you get your deck? / Who built it? / What did you base your design on?<br></b> Here. Don't know. A Goblin/Affinity field<br><b>What do you think of your chances on Sunday?</b> I will win the first round, and then my chances are solid.</p>&#10;    </td>&#10;    <td>&#10;      <img alt="Bill Stead" src="http://www.wizards.com/sideboard/images/usnat04/stead8.jpg" title="Bill Stead">&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td colspan="2">&#10;      <hr>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <img alt="David Humpherys" src="http://www.wizards.com/sideboard/images/usnat04/humpherys8.jpg" title="David Humpherys">&#10;    </td>&#10;    <td>&#10;      <h3>David Humpherys</h3>&#10;      <p>&#10;        <b>Age:</b> 32<br><b>Hometown:</b> Encinitas, CA<br><b>Occupation:</b> Game Developer<br><b>Number of times playing US Nationals:</b> 6?<br><b>How did you qualify for Nats?</b> Pro Points<br><b>Previous Magic accomplishments:</b> PT: DC Champ, 4th at Worlds and 2 PTs<br><b>How did you do in each format?</b> Standard: 4-2-1, Booster Draft: 6-1<br><b>What was your draft strategy?</b> Flexible<br><b>What kind of Standard deck are you playing?</b> Fujita's winning deck from Japanese Nationals<br><b>Why did you choose to play that deck?</b> It looked like it would beat a lot of decks<br><b>Where did you get your deck? / Who built it? / What did you base your design on? </b><br> I got it off the web. The rest is explained above.<br><b>What do you think of your chances on Sunday?</b><br> I may need a miracle in the quarters.</p>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td colspan="2">&#10;      <hr>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <h3>Brian Kibler</h3>&#10;      <p>&#10;        <b>Age:</b> 23<br><b>Hometown:</b> Dairy, NH/ Atlanta, GA<br><b>Occupation:</b> Professional Gamer<br><b>Number of times playing US Nationals:</b> 5<br><b>How did you qualify for Nats?</b> Pro Tour Points<br><b>Previous Magic accomplishments:</b> 1st GP Toronto, GP Boston, 3rd PT Chicago, T8 2003 US Nats, 7 GP Top 8s<br><b>How did you do in each format?</b> Standard: 5-1-1, Booster Draft: 5-2<br><b>What was your draft strategy?</b> W/G with a potential sunburst splash<br><b>What kind of Standard deck are you playing?</b> W/g Control<br><b>Why did you choose to play that deck?</b> It has no really bad matchups, it's powerful and has good chances against all the decks in the field<br><b>Where did you get your deck? / Who built it? / What did you base your design on? </b> Based on Mike Flores's deck, modified by me.<br><b>What do you think of your chances on Sunday?</b> This time I'm going to finish the job. I like my quarterfinals matchup and then we'll just have to see.</p>&#10;    </td>&#10;    <td>&#10;      <img alt="Brian Kibler" src="https://i.ormos.uk/a2/2e/a22e50bcd3e9a5d827ed3ba86fb109842639da3f9b914fd8b95995e01b5dba26.jpg" title="Brian Kibler">&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td colspan="2">&#10;      <hr>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <img src="http://www.wizards.com/sideboard/images/usnat04/melnikow8.jpg">&#10;    </td>&#10;    <td>&#10;      <h3>Alex Melnikow</h3>&#10;      <p>&#10;        <b>Age:</b> 19<br><b>Hometown:</b> Syracuse, NY<br><b>Occupation:</b> Student<br><b>Number of times playing US Nationals:</b> 2<br><b>How did you qualify for Nats?</b> Rating<br><b>Previous Magic accomplishments:</b> 19th at Nats. 55th in SD<br><b>How did you do in each format?</b> Standard: 6-1, Booster Draft: 5-2<br><b>What was your draft strategy?</b> Green<br><b>What kind of Standard deck are you playing?</b> Elf and Nail<br><b>Why did you choose to play that deck?</b> I was playing Goblins, but my testing showed it was terrible. My roommate suggested this deck.<br><b>Where did you get your deck? / Who built it? / What did you base your design on? </b><br> We threw it together in the room the night before.<br><b>What do you think of your chances on Sunday?</b> I don't have a great matchup, but my chances are good.</p>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td colspan="2">&#10;      <hr>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <h3>Ben Zoz</h3>&#10;      <p>&#10;        <b>Age:</b> 18<br><b>Hometown:</b> Lincoln, NE<br><b>Occupation:</b> none<br><b>Number of times playing US Nationals:</b> 1<br><b>How did you qualify for Nats?</b> Rating<br><b>Previous Magic accomplishments:</b> PTQ Win. 2 GP day 2s<br><b>How did you do in each format?</b> Standard: 5-0-2, Booster Draft: 5-2<br><b>What was your draft strategy?</b> Green<br><b>What kind of Standard deck are you playing?</b> U/W March of the Machines<br><b>Why did you choose to play that deck?</b> It crushes Affinity and Goblins<br><b>Where did you get your deck? / Who built it? / What did you base your design on? </b> Other DCI tournaments<br><b>What do you think of your chances on Sunday?</b> Great.</p>&#10;    </td>&#10;    <td>&#10;      <img src="http://www.wizards.com/sideboard/images/usnat04/zoz8.jpg">&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td colspan="2">&#10;      <hr>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <img src="http://www.wizards.com/sideboard/images/usnat04/krempels8.jpg">&#10;    </td>&#10;    <td>&#10;      <h3>Craig Krempels</h3>&#10;      <p>(picture coming soon)<br><b>Age:</b> 22<br><b>Hometown:</b> Hackettstown<br><b>Occupation:</b> I work in a liquor store<br><b>Number of times playing US Nationals:</b> 2<br><b>How did you qualify for Nats?</b> Rating<br><b>Previous Magic accomplishments:</b> PT 9th, 2 GP Top 8s including GP: Columbus<br><b>How did you do in each format?</b> Standard: 5-1-1, Booster Draft: 5-2<br><b>What was your draft strategy?</b> Pick better and play better than my opponents<br><b>What kind of Standard deck are you playing?</b> Elf and Nail<br><b>Why did you choose to play that deck?</b> My Teammates tested and Eugene Harvey said to trust them.<br><b>What do you think of your chances on Sunday?</b> I'm a gamblin' man</p>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td colspan="2">&#10;      <hr>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <h3>Michael Aitchison</h3>&#10;      <p>(picture coming soon)<br><b>Age:</b> 18<br><b>Hometown:</b> Beaverton, OR<br><b>Occupation:</b> Student<br><b>Number of times playing US Nationals:</b> 1<br><b>How did you qualify for Nats?</b> NW Regionals<br><b>Previous Magic accomplishments:</b> I suck. 0-4 at PT New Orleans<br><b>How did you do in each format?</b> Standard: 5-1-1, Booster Draft: 5-2<br><b>What was your draft strategy?</b> Green Sucks<br><b>What kind of Standard deck are you playing?</b> Beasts!<br><b>Why did you choose to play that deck?</b> It beat Elf and Nail, Goblins, AND Affinity<br><b>Where did you get your deck? / Who built it? / What did you base your design on?</b> Mike Thompson - R/G Land D<br><b>What do you think of your chances on Sunday?</b> Horrible</p>&#10;    </td>&#10;    <td>&#10;      <img src="https://i.ormos.uk/a6/61/a661fbda57eb0e9ebe4098d8e37b1c8fb4a729618f50d0146dd8894e541fc318.jpg">&#10;    </td>&#10;  </tr>&#10;</tbody></table>

@@ -1,0 +1,56 @@
+---
+id: rppac4gy
+kind: event
+lang: en
+path: /en/events/2003/ptbos03/round-1-pairings
+title: Round 1 Pairings
+published: null
+column_slug: null
+column: null
+authors: []
+event_code: ptbos03
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/article.aspx?x=sideboard/ptbos03/pair1
+    lang_detected: en
+    capture_id: 880968
+    url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/ptbos03/pair1
+    captured_at: '2013-07-06 04:46:46+00'
+    rule: aspx.article_heading
+  event_code:
+    page_key: wizards.com/magic/magazine/article.aspx?x=sideboard/ptbos03/pair1
+    lang_detected: en
+    capture_id: 880968
+    url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/ptbos03/pair1
+    captured_at: '2013-07-06 04:46:46+00'
+    rule: url.event_code
+sources:
+- document_id: rppac4gy
+  url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/ptbos03/pair1
+  page_key: wizards.com/magic/magazine/article.aspx?x=sideboard/ptbos03/pair1
+  lang: en
+  template: aspx
+  captured_at: '2013-07-06 04:46:46+00'
+  capture_id: 880968
+  wayback_url: https://web.archive.org/web/20130706044646id_/http://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/ptbos03/pair1
+- document_id: rppac4gy
+  url: http://www.wizards.com/default.asp?x=sideboard/ptbos03/pair1
+  page_key: wizards.com/default.asp?x=sideboard/ptbos03/pair1
+  lang: en
+  template: classic_asp
+  captured_at: '2009-06-04 08:37:16+00'
+  capture_id: 2359515
+  wayback_url: https://web.archive.org/web/20090604083716id_/http://www.wizards.com/default.asp?x=sideboard/ptbos03/pair1
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: rppac4gy
+  capture_id: 880968
+  url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/ptbos03/pair1
+  wayback_url: https://web.archive.org/web/20130706044646id_/http://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/ptbos03/pair1
+  captured_at: '2013-07-06 04:46:46+00'
+  template: aspx
+  sha256: a15b4e5d6cbfbb1d9ba6a53cf588d1236dc9482a552979382d1288f00c6e91ed
+render_recovery: []
+---
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <a href="/en/events/2003/ptbos03/round-1-pairings">&#10;        <b>Team</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/en/events/2003/ptbos03/round-1-pairings">&#10;        <b>&#10;      </b></a><b>&#10;    </b></td>&#10;    <td>&#10;      <a href="/en/events/2003/ptbos03/round-1-pairings">&#10;        <b>Opponent</b>&#10;      </a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td> 1</td>&#10;    <td>Kogamodan</td>&#10;    <td>vs</td>&#10;    <td>Mackachin</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 2</td>&#10;    <td>How Teamful</td>&#10;    <td>vs</td>&#10;    <td>Gus Macker</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 3</td>&#10;    <td>RIWHobbies.net</td>&#10;    <td>vs</td>&#10;    <td>The Mixed Bag</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 4</td>&#10;    <td>www.shop-fireball.com</td>&#10;    <td>vs</td>&#10;    <td>Team Quisling</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 5</td>&#10;    <td>Sam has a Nightmare</td>&#10;    <td>vs</td>&#10;    <td>.be</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 6</td>&#10;    <td>No Yaburon</td>&#10;    <td>vs</td>&#10;    <td>Mlmgb</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 7</td>&#10;    <td>Juggernaut</td>&#10;    <td>vs</td>&#10;    <td>30+</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 8</td>&#10;    <td>Lynch Mob</td>&#10;    <td>vs</td>&#10;    <td>The Cutting Crew</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 9</td>&#10;    <td>Ziegler</td>&#10;    <td>vs</td>&#10;    <td>Bæstisk Held</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 10</td>&#10;    <td>Portal four</td>&#10;    <td>vs</td>&#10;    <td>Trogdor the Burninator</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 11</td>&#10;    <td>Bury Team 1</td>&#10;    <td>vs</td>&#10;    <td>Schietkoe</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 12</td>&#10;    <td>Cyanide</td>&#10;    <td>vs</td>&#10;    <td>Disciples of Wesh</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 13</td>&#10;    <td>www.riwhobbies.net</td>&#10;    <td>vs</td>&#10;    <td>Sooooo Hooks and Jeroen</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 14</td>&#10;    <td>www.mtgmetropolis.com</td>&#10;    <td>vs</td>&#10;    <td>Watch Out for Timberwatch</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 15</td>&#10;    <td>(3 x 1) -1 +1</td>&#10;    <td>vs</td>&#10;    <td>de Smurfen</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 16</td>&#10;    <td>Wizards Asylum</td>&#10;    <td>vs</td>&#10;    <td>3rdCMD</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 17</td>&#10;    <td>2318</td>&#10;    <td>vs</td>&#10;    <td>Outland Love</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 18</td>&#10;    <td>Venga Venga Carta Roja</td>&#10;    <td>vs</td>&#10;    <td>I Blame Bung</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 19</td>&#10;    <td>Funk Soul Brothers</td>&#10;    <td>vs</td>&#10;    <td>Illuminati</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 20</td>&#10;    <td>Team Ratpack.dk</td>&#10;    <td>vs</td>&#10;    <td>CGNU</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 21</td>&#10;    <td>F Vince</td>&#10;    <td>vs</td>&#10;    <td>Kameel John and Erik</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 22</td>&#10;    <td>Que parezca un accidente</td>&#10;    <td>vs</td>&#10;    <td>Rollin Deep</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 23</td>&#10;    <td>Bottom Set</td>&#10;    <td>vs</td>&#10;    <td>Drei Engel fuer Charlie</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 24</td>&#10;    <td>www.MagicDoneRight.com</td>&#10;    <td>vs</td>&#10;    <td>A.G.A.R.</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 25</td>&#10;    <td>Ayumi Gundan</td>&#10;    <td>vs</td>&#10;    <td>Team Work with Josh</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 26</td>&#10;    <td>Mr. Nice Guy</td>&#10;    <td>vs</td>&#10;    <td>Two Turntables and a Mic</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 27</td>&#10;    <td>Pappa Betalar</td>&#10;    <td>vs</td>&#10;    <td>The Fun Police</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 28</td>&#10;    <td>The Matrix</td>&#10;    <td>vs</td>&#10;    <td>A.A beam</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 29</td>&#10;    <td>Potato Foundation</td>&#10;    <td>vs</td>&#10;    <td>Barns and Noble</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 30</td>&#10;    <td>Despite Pfeiffer</td>&#10;    <td>vs</td>&#10;    <td>LNT Super Dario Bros.</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 31</td>&#10;    <td>Auenland Avengers Dortmund 1</td>&#10;    <td>vs</td>&#10;    <td>Wessh Wesh Crew</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 32</td>&#10;    <td>Angstschreeuw</td>&#10;    <td>vs</td>&#10;    <td>Outta Left Field</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 33</td>&#10;    <td>Touch 'em All</td>&#10;    <td>vs</td>&#10;    <td>We Q'd in Phoenix</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 34</td>&#10;    <td>Jay Z feat. Lil Mo</td>&#10;    <td>vs</td>&#10;    <td>Boys of Summer</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 35</td>&#10;    <td>2020</td>&#10;    <td>vs</td>&#10;    <td>Phoenix Foundation</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 36</td>&#10;    <td>Pink Pride</td>&#10;    <td>vs</td>&#10;    <td>Team Vayatrapo</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 37</td>&#10;    <td>The JC Experience</td>&#10;    <td>vs</td>&#10;    <td>www.lowlandgames.com</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 38</td>&#10;    <td>YMMV</td>&#10;    <td>vs</td>&#10;    <td>Awarded Bye It's All about l</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 39</td>&#10;    <td>Clown Connection</td>&#10;    <td>vs</td>&#10;    <td>Gallop's Comics and Games</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 40</td>&#10;    <td>Stalking Tiger Hidden Shark</td>&#10;    <td>vs</td>&#10;    <td>Istari</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 41</td>&#10;    <td>My Giants</td>&#10;    <td>vs</td>&#10;    <td>Scarecrow</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 42</td>&#10;    <td>Krunked Up</td>&#10;    <td>vs</td>&#10;    <td>Boston Tea Party</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 43</td>&#10;    <td>Lose Weight Feel Great</td>&#10;    <td>vs</td>&#10;    <td>Gindy's Sister Fan Club</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 44</td>&#10;    <td>Bas</td>&#10;    <td>vs</td>&#10;    <td>BMH</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 45</td>&#10;    <td>Les Poinconneurs des Lilas</td>&#10;    <td>vs</td>&#10;    <td>Ubermenschen</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 46</td>&#10;    <td>The Brockafellars</td>&#10;    <td>vs</td>&#10;    <td>Maquina de Raspados</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 47</td>&#10;    <td>Your Move Games</td>&#10;    <td>vs</td>&#10;    <td>Team Cosmo</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 48</td>&#10;    <td>Battery Powered Monsters</td>&#10;    <td>vs</td>&#10;    <td>MrWaynes.com</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 49</td>&#10;    <td>Mammoth Teikoku</td>&#10;    <td>vs</td>&#10;    <td>2614wb93</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 50</td>&#10;    <td>Boat</td>&#10;    <td>vs</td>&#10;    <td>Hobby One</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 51</td>&#10;    <td>Team Scrub A</td>&#10;    <td>vs</td>&#10;    <td>Die Überspitzen</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 52</td>&#10;    <td>Panda Foundation</td>&#10;    <td>vs</td>&#10;    <td>Fungusaur et les Frenchies</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 53</td>&#10;    <td>Fat Ninjas</td>&#10;    <td>vs</td>&#10;    <td>RDU</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 54</td>&#10;    <td>Mushrooms</td>&#10;    <td>vs</td>&#10;    <td>Team TOGIT</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 55</td>&#10;    <td>Mount Cleverest</td>&#10;    <td>vs</td>&#10;    <td>flatthree</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 56</td>&#10;    <td>Hola les Stupids</td>&#10;    <td>vs</td>&#10;    <td>Mort Subite</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 57</td>&#10;    <td>50...1K Ben Wessels</td>&#10;    <td>vs</td>&#10;    <td>I Lika Doo Da Cha Cha</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 58</td>&#10;    <td>Zabutan Nemonaut</td>&#10;    <td>vs</td>&#10;    <td>Green Monsters II</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 59</td>&#10;    <td>Inquisition Mark</td>&#10;    <td>vs</td>&#10;    <td>Anan Go is Best Player</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 60</td>&#10;    <td>I Thought You Quit</td>&#10;    <td>vs</td>&#10;    <td>Take No Prisoners</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 61</td>&#10;    <td>Slay Pillage Gerard</td>&#10;    <td>vs</td>&#10;    <td>Wingaardium Frangiosa</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 62</td>&#10;    <td>Two on Three</td>&#10;    <td>vs</td>&#10;    <td>Ubernova</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 63</td>&#10;    <td>CCG-Pro</td>&#10;    <td>vs</td>&#10;    <td>Free Traficant</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 64</td>&#10;    <td>Original Slackers</td>&#10;    <td>vs</td>&#10;    <td>Rimini Dream Team</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 65</td>&#10;    <td>Tight huh?</td>&#10;    <td>vs</td>&#10;    <td>Animal Vegemite Mineral</td>&#10;  </tr>&#10;  <tr>&#10;    <td> 66</td>&#10;    <td>vGG</td>&#10;    <td>vs</td>&#10;    <td>Just Kidding</td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;    </td><td>Jojo Doctors</td>&#10;    <td>&#10;    </td><td>* BYE *</td>&#10;  </tr>&#10;</tbody></table>

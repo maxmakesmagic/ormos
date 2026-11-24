@@ -1,0 +1,47 @@
+---
+id: jq233rtq
+kind: event
+lang: en
+path: /en/articles/event-coverage/2011/07-22-australia-nationals-round-3-pairings
+title: 'Australia Nationals: Round 3 Pairings'
+published: '2011-07-22'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/australia-nationals-round-3-pairings-2011-07-22
+    lang_detected: en
+    capture_id: 332450
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/australia-nationals-round-3-pairings-2011-07-22
+    captured_at: '2022-05-20 10:43:28+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/australia-nationals-round-3-pairings-2011-07-22
+    lang_detected: en
+    capture_id: 332450
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/australia-nationals-round-3-pairings-2011-07-22
+    captured_at: '2022-05-20 10:43:28+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: jq233rtq
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/australia-nationals-round-3-pairings-2011-07-22
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/australia-nationals-round-3-pairings-2011-07-22
+  lang: en
+  template: drupal
+  captured_at: '2022-05-20 10:43:28+00'
+  capture_id: 332450
+  wayback_url: https://web.archive.org/web/20220520104328id_/https://magic.wizards.com/en/articles/archive/event-coverage/australia-nationals-round-3-pairings-2011-07-22
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: jq233rtq
+  capture_id: 332450
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/australia-nationals-round-3-pairings-2011-07-22
+  wayback_url: https://web.archive.org/web/20220520104328id_/https://magic.wizards.com/en/articles/archive/event-coverage/australia-nationals-round-3-pairings-2011-07-22
+  captured_at: '2022-05-20 10:43:28+00'
+  template: drupal
+  sha256: fba6c9035759384c48418ef4a42cec319c77cab80dff055f3eb74f7556dcb0c5
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Points</b></td><td><b>&#10;						</b></td><td><b>Opponent</b></td><td><b>Points</b></td></tr><tr><td> 1</td><td>Jois, Vidya</td><td> 6</td><td>vs.</td><td>Chapman, Craig</td><td> 6</td></tr><tr><td> 14</td><td>Amy, Adam</td><td> 6</td><td>vs.</td><td>Cameron, Maitland W.</td><td> 6</td></tr><tr><td> 12</td><td>Oks, Oliver</td><td> 6</td><td>vs.</td><td>Ryan, Matthew L.</td><td> 6</td></tr><tr><td> 13</td><td>Anderson, Matthew</td><td> 6</td><td>vs.</td><td>Steele, Wayne</td><td> 6</td></tr><tr><td> 15</td><td>Rayner, Hugh N</td><td> 6</td><td>vs.</td><td>Hinz, Levi</td><td> 6</td></tr><tr><td> 10</td><td>Chin, Jiann Hua J.</td><td> 6</td><td>vs.</td><td>Mulcahy, Luke</td><td> 6</td></tr><tr><td> 17</td><td>Aherne, Ricky</td><td> 6</td><td>vs.</td><td>Lam, Francis</td><td> 6</td></tr><tr><td> 18</td><td>Hare, Matthew</td><td> 6</td><td>vs.</td><td>Last, Sam R</td><td> 3</td></tr><tr><td> 11</td><td>Low, Jia Yan, Matthew</td><td> 6</td><td>vs.</td><td>Ding, Jack</td><td> 6</td></tr><tr><td> 16</td><td>Fung, Chris B</td><td> 6</td><td>vs.</td><td>Jacobs, Andrew S.</td><td> 6</td></tr><tr><td> 9</td><td>Veigel, Cameron J</td><td> 6</td><td>vs.</td><td>Horig, Wilfy</td><td> 6</td></tr><tr><td> 4</td><td>Zegveld, Malcolm</td><td> 6</td><td>vs.</td><td>Phillips, Russell J.</td><td> 6</td></tr><tr><td> 8</td><td>Nicoll, Aaron</td><td> 6</td><td>vs.</td><td>Nonneman, Jesse</td><td> 6</td></tr><tr><td> 2</td><td>Glanville, Hugh</td><td> 6</td><td>vs.</td><td>Pan, Jasen</td><td> 6</td></tr><tr><td> 3</td><td>Hallett, Anthony</td><td> 6</td><td>vs.</td><td>Pranoto, Andreas B</td><td> 6</td></tr><tr><td> 5</td><td>Unwin, Daniel</td><td> 6</td><td>vs.</td><td>cole, chifley</td><td> 6</td></tr><tr><td> 6</td><td>Swords, Chester</td><td> 6</td><td>vs.</td><td>Gustafsson, Erik</td><td> 6</td></tr><tr><td> 7</td><td>Rolf, Nicolas</td><td> 6</td><td>vs.</td><td>Zhang, Jacky</td><td> 6</td></tr><tr><td> 27</td><td>Ruan, Yi-Fei</td><td> 3</td><td>vs.</td><td>Jazwinski, Adam S</td><td> 3</td></tr><tr><td> 28</td><td>Larsen-Scott, James</td><td> 3</td><td>vs.</td><td>Chiu, Rick</td><td> 3</td></tr><tr><td> 29</td><td>Gray, Scott</td><td> 3</td><td>vs.</td><td>Camm, Tim</td><td> 3</td></tr><tr><td> 31</td><td>Gaylor, Julian</td><td> 3</td><td>vs.</td><td>Cubit, Ryan</td><td> 3</td></tr><tr><td> 30</td><td>Anderson, Nathan P</td><td> 3</td><td>vs.</td><td>Holtzman, Paul W.</td><td> 3</td></tr><tr><td> 25</td><td>Guilfoyle, Ezekiel j.</td><td> 3</td><td>vs.</td><td>Pirie, James G</td><td> 3</td></tr><tr><td> 26</td><td>Jackway, Robert</td><td> 3</td><td>vs.</td><td>Chen, Cameron T.</td><td> 3</td></tr><tr><td> 21</td><td>Christiansen, Sam</td><td> 3</td><td>vs.</td><td>Hunstad, Scott</td><td> 3</td></tr><tr><td> 24</td><td>Mack, Jarred R.</td><td> 3</td><td>vs.</td><td>Widana-Pathirana, Pradeep</td><td> 3</td></tr><tr><td> 19</td><td>Lee, Arnold</td><td> 3</td><td>vs.</td><td>Wong, Garry</td><td> 3</td></tr><tr><td> 33</td><td>Hoskin, Elliot</td><td> 3</td><td>vs.</td><td>Lynch, James</td><td> 3</td></tr><tr><td> 20</td><td>Hicks, Jason</td><td> 3</td><td>vs.</td><td>Chonka, Dwaine</td><td> 3</td></tr><tr><td> 23</td><td>Schafer, Ross P</td><td> 3</td><td>vs.</td><td>Crawley, Robert</td><td> 3</td></tr><tr><td> 22</td><td>Scriven, Jarrod</td><td> 3</td><td>vs.</td><td>Fitzpatrick, Adam</td><td> 3</td></tr><tr><td> 32</td><td>Oliver, Gareth</td><td> 3</td><td>vs.</td><td>Bennett, Andrew</td><td> 3</td></tr><tr><td> 34</td><td>Deze, Allan</td><td> 3</td><td>vs.</td><td>Crewe, David</td><td> 3</td></tr><tr><td> 51</td><td>Ng, Desmond</td><td> 3</td><td>vs.</td><td>L'Estrange, John</td><td> 3</td></tr><tr><td> 49</td><td>Van Der Werk, Paul</td><td> 3</td><td>vs.</td><td>Rafferty, Thomas</td><td> 3</td></tr><tr><td> 47</td><td>Pepper, Patrick</td><td> 3</td><td>vs.</td><td>Posner, Daniel</td><td> 3</td></tr><tr><td> 48</td><td>Fondum, Tim</td><td> 3</td><td>vs.</td><td>Williamson, David</td><td> 3</td></tr><tr><td> 50</td><td>Yue, Aaron</td><td> 3</td><td>vs.</td><td>Hughes, Brett</td><td> 3</td></tr><tr><td> 44</td><td>Mladenoski, Bill</td><td> 3</td><td>vs.</td><td>Kelly, John-Paul K.</td><td> 3</td></tr><tr><td> 35</td><td>Egan, Isaac J</td><td> 3</td><td>vs.</td><td>Cox, Kevin J.</td><td> 3</td></tr><tr><td> 52</td><td>Puszet, Jarron</td><td> 3</td><td>vs.</td><td>Hill, Corey</td><td> 0</td></tr><tr><td> 45</td><td>Pettit, Joel</td><td> 3</td><td>vs.</td><td>McAllister, Richard</td><td> 3</td></tr><tr><td> 46</td><td>Jones, Edwin</td><td> 3</td><td>vs.</td><td>Willing, Daniel</td><td> 3</td></tr><tr><td> 43</td><td>Smith, Scott</td><td> 3</td><td>vs.</td><td>Aplin, Steven S.</td><td> 3</td></tr><tr><td> 42</td><td>Martin, Brodie</td><td> 3</td><td>vs.</td><td>Choong, Win Aun</td><td> 3</td></tr><tr><td> 36</td><td>SANDERSON-MILLER, JAMES</td><td> 3</td><td>vs.</td><td>Wood, Ian</td><td> 3</td></tr><tr><td> 39</td><td>Winter, Jonathan</td><td> 3</td><td>vs.</td><td>TYRRELL, MATTHEW</td><td> 3</td></tr><tr><td> 38</td><td>Sclauzero, Joseph</td><td> 3</td><td>vs.</td><td>Sanderson, Anthony</td><td> 3</td></tr><tr><td> 37</td><td>Cheung, Justin</td><td> 3</td><td>vs.</td><td>Jarvis, Peter</td><td> 3</td></tr><tr><td> 40</td><td>Brown, Dylan</td><td> 3</td><td>vs.</td><td>Evans, Merlyn R.</td><td> 3</td></tr><tr><td> 41</td><td>bian, guochen</td><td> 3</td><td>vs.</td><td>Ball, Daniel</td><td> 3</td></tr><tr><td> 64</td><td>Danaro, Paul</td><td> 0</td><td>vs.</td><td>Witton, Adam</td><td> 0</td></tr><tr><td> 63</td><td>Lee, Anthony</td><td> 0</td><td>vs.</td><td>Williams, Luke</td><td> 0</td></tr><tr><td> 62</td><td>Sati, Pratik D.</td><td> 0</td><td>vs.</td><td>Hewitt, Ben</td><td> 0</td></tr><tr><td> 65</td><td>Lokan, Greg r.</td><td> 0</td><td>vs.</td><td>Jamieson, Chris</td><td> 0</td></tr><tr><td> 66</td><td>Man, Timothy</td><td> 0</td><td>vs.</td><td>Holloway, Matthew J</td><td> 0</td></tr><tr><td> 60</td><td>Lee Wenyi, John</td><td> 0</td><td>vs.</td><td>Runic, Michael</td><td> 0</td></tr><tr><td> 61</td><td>Gordon, Taylor V.</td><td> 0</td><td>vs.</td><td>Maikhu, Suripat</td><td> 0</td></tr><tr><td> 67</td><td>McCormick, Alex</td><td> 0</td><td>vs.</td><td>King, Graham</td><td> 0</td></tr><tr><td> 59</td><td>Hobden, Kyle</td><td> 0</td><td>vs.</td><td>Restel, Sven</td><td> 0</td></tr><tr><td> 58</td><td>Cullen, Fion</td><td> 0</td><td>vs.</td><td>Stoddart, Thomas G.</td><td> 0</td></tr><tr><td> 53</td><td>MOFFLIN, CHRIS</td><td> 0</td><td>vs.</td><td>Jackson, Paul</td><td> 0</td></tr><tr><td> 54</td><td>Lynch, Jason</td><td> 0</td><td>vs.</td><td>Lennon, Scott</td><td> 0</td></tr><tr><td> 55</td><td>Lark, Robert i.</td><td> 0</td><td>vs.</td><td>Rayson, Shawn L</td><td> 0</td></tr><tr><td> 56</td><td>Markovic, Sasha</td><td> 0</td><td>vs.</td><td>Talbot, Mathew</td><td> 0</td></tr><tr><td> 57</td><td>Vance, Andrew E.</td><td> 0</td><td>vs.</td><td>Fogl-Kulich, Daniel</td><td> 0</td></tr><tr><td> 68</td><td>Quenoy, John D</td><td> 0</td><td>vs.</td><td>Randeni, Harshana</td><td> 0</td></tr><tr><td>&#10;					</td><td>Saez, Marco</td><td> 0</td><td>&#10;					</td><td>* BYE *</td><td></td></tr></tbody></table>

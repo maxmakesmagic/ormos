@@ -1,0 +1,47 @@
+---
+id: 4z48a133
+kind: event
+lang: es
+path: /es/articles/event-coverage/2014/03-16-grand-prix-buenos-aires-coverage-round-13-pairings
+title: Grand Prix Buenos Aires Coverage Round 13 Pairings
+published: '2014-03-16'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: es
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-buenos-aires-coverage-round-13-pairings-2014-03-16
+    lang_detected: es
+    capture_id: 367266
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-buenos-aires-coverage-round-13-pairings-2014-03-16
+    captured_at: '2021-10-16 09:56:53+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-buenos-aires-coverage-round-13-pairings-2014-03-16
+    lang_detected: es
+    capture_id: 367266
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-buenos-aires-coverage-round-13-pairings-2014-03-16
+    captured_at: '2021-10-16 09:56:53+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: 4z48a133
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-buenos-aires-coverage-round-13-pairings-2014-03-16
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-buenos-aires-coverage-round-13-pairings-2014-03-16
+  lang: es
+  template: drupal
+  captured_at: '2021-10-16 09:56:53+00'
+  capture_id: 367266
+  wayback_url: https://web.archive.org/web/20211016095653id_/https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-buenos-aires-coverage-round-13-pairings-2014-03-16
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 4z48a133
+  capture_id: 367266
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-buenos-aires-coverage-round-13-pairings-2014-03-16
+  wayback_url: https://web.archive.org/web/20211016095653id_/https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-buenos-aires-coverage-round-13-pairings-2014-03-16
+  captured_at: '2021-10-16 09:56:53+00'
+  template: drupal
+  sha256: b662ab317f236dab21d27fdd9afdcfa6432cffe34aec30679c2b961c223c1dc8
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Points</b></td><td><b>&#10;						</b></td><td><b>Opponent</b></td><td><b>Points</b></td></tr><tr><td> 1</td><td>Dos Anjos, Mateus A</td><td> 36</td><td>vs.</td><td>VIP_da Rosa, Paulo Vitor D</td><td> 33</td></tr><tr><td> 2</td><td>Rodriguez, Axel Arian</td><td> 33</td><td>vs.</td><td>Pietragallo, Fernando</td><td> 33</td></tr><tr><td> 3</td><td>Nagy, Ariel</td><td> 30</td><td>vs.</td><td>Echeverría Paredes, José Lui</td><td> 30</td></tr><tr><td> 4</td><td>Ramadan, Sergio R</td><td> 30</td><td>vs.</td><td>Paletta, Lucas M</td><td> 30</td></tr><tr><td> 5</td><td>Monlevade, Philippe S</td><td> 30</td><td>vs.</td><td>Rodriguez, Javier</td><td> 30</td></tr><tr><td> 6</td><td>Fernandez Savoy, Ramiro</td><td> 30</td><td>vs.</td><td>Tejo, Demian</td><td> 30</td></tr><tr><td> 7</td><td>Chilperico, Matias</td><td> 30</td><td>vs.</td><td>Castro, Eduardo</td><td> 30</td></tr><tr><td> 8</td><td>Oiene, Nicolás</td><td> 30</td><td>vs.</td><td>Dominguez, Gonzalo</td><td> 30</td></tr><tr><td> 9</td><td>Prado, Julian</td><td> 30</td><td>vs.</td><td>López, Felipe</td><td> 30</td></tr><tr><td> 10</td><td>Martinez, Sebastian</td><td> 30</td><td>vs.</td><td>Cortada, Jose</td><td> 30</td></tr><tr><td> 11</td><td>Gutierrez, Luis</td><td> 29</td><td>vs.</td><td>Lobo, Ruben</td><td> 28</td></tr><tr><td> 12</td><td>Zuniga, Edgardo</td><td> 28</td><td>vs.</td><td>Giambartolomei, Orlando Luis</td><td> 28</td></tr><tr><td> 13</td><td>Gonzalez, Jose Luis</td><td> 28</td><td>vs.</td><td>Zah, Adrian</td><td> 28</td></tr><tr><td> 14</td><td>Laplaza, Pedro</td><td> 27</td><td>vs.</td><td>Alvarez, Matias</td><td> 27</td></tr><tr><td> 15</td><td>Orcaizaguirre, Alejandro M</td><td> 27</td><td>vs.</td><td>Hlowackij, Nicolas</td><td> 27</td></tr><tr><td> 16</td><td>Komañski, Nicolas</td><td> 27</td><td>vs.</td><td>Melo Miranda, Pedro Henrique</td><td> 27</td></tr><tr><td> 17</td><td>Salvatto, Luis A</td><td> 27</td><td>vs.</td><td>Ferreira, Rafael</td><td> 27</td></tr><tr><td> 18</td><td>Calvo, Fernando</td><td> 27</td><td>vs.</td><td>Longhi, Fabricio Augusto</td><td> 27</td></tr><tr><td> 19</td><td>Rodriguez, Juan P</td><td> 27</td><td>vs.</td><td>Eduardo, Carlos</td><td> 27</td></tr><tr><td> 20</td><td>Sala, Ryan J</td><td> 27</td><td>vs.</td><td>Lanzi, Mariano</td><td> 27</td></tr><tr><td> 21</td><td>Martinez, Hernan J</td><td> 27</td><td>vs.</td><td>Posse, Tomas</td><td> 27</td></tr><tr><td> 22</td><td>Gozzo, Giuliano</td><td> 27</td><td>vs.</td><td>Araujo, Renato Henrique A</td><td> 27</td></tr><tr><td> 23</td><td>Sanabio, Sergio</td><td> 27</td><td>vs.</td><td>VIP_Velarde Gallegos, José R</td><td> 27</td></tr><tr><td> 24</td><td>Silva, Danilo F</td><td> 27</td><td>vs.</td><td>Martins Gomes, Leandro</td><td> 27</td></tr><tr><td> 25</td><td>Martinez, Julian</td><td> 27</td><td>vs.</td><td>Cesar Siqueira, Jorge Henriq</td><td> 27</td></tr><tr><td> 26</td><td>Trujillo, Rodrigo</td><td> 27</td><td>vs.</td><td>Argimón, Iván</td><td> 27</td></tr><tr><td> 27</td><td>Vassallo, Javier</td><td> 27</td><td>vs.</td><td>Raggio, Emilio D</td><td> 27</td></tr><tr><td> 28</td><td>Quiroga, MartÃ¬n</td><td> 27</td><td>vs.</td><td>Sasso, Mauro</td><td> 27</td></tr><tr><td> 29</td><td>Gerez, Alejandro</td><td> 27</td><td>vs.</td><td>D'Esposito, David</td><td> 26</td></tr><tr><td> 30</td><td>Alico, Christian</td><td> 26</td><td>vs.</td><td>Ramirez, Adolfo</td><td> 26</td></tr><tr><td> 31</td><td>VIP_Pena, Alejandro</td><td> 26</td><td>vs.</td><td>Casano, Julian</td><td> 25</td></tr><tr><td> 32</td><td>Zurita, David</td><td> 25</td><td>vs.</td><td>Capello, Mauro</td><td> 25</td></tr><tr><td> 33</td><td>Monsalve, Andres F</td><td> 25</td><td>vs.</td><td>Nuñez, Sebastian</td><td> 25</td></tr><tr><td> 34</td><td>Rojas, Benjamin</td><td> 25</td><td>vs.</td><td>Gimenez, Marcos</td><td> 25</td></tr><tr><td> 35</td><td>Carrizo, Alejandro</td><td> 25</td><td>vs.</td><td>Mopty, Eduardo</td><td> 25</td></tr><tr><td> 36</td><td>Betschart, Mauro C</td><td> 24</td><td>vs.</td><td>VIP_Orsomarso, Marcelo</td><td> 24</td></tr><tr><td> 37</td><td>Libonatti, Mariano A</td><td> 24</td><td>vs.</td><td>Garcia Howlin, Victor Damian</td><td> 24</td></tr><tr><td> 38</td><td>Paredes, Marcos</td><td> 24</td><td>vs.</td><td>Chiappa, Renzo</td><td> 24</td></tr><tr><td> 39</td><td>Ober, Joaquin</td><td> 24</td><td>vs.</td><td>Capello, Matias R</td><td> 24</td></tr><tr><td> 40</td><td>Porfirio Da Silva, Gabriel</td><td> 24</td><td>vs.</td><td>Iannizzotto, Gustavo A</td><td> 24</td></tr><tr><td> 41</td><td>Itani, Hiroshi</td><td> 24</td><td>vs.</td><td>Oliveira, Thiago</td><td> 24</td></tr><tr><td> 42</td><td>Atencio, Elio</td><td> 24</td><td>vs.</td><td>Alcalde, Juan Pablo</td><td> 24</td></tr><tr><td> 43</td><td>Villela, Artur S</td><td> 24</td><td>vs.</td><td>Floresta, Leandro d</td><td> 24</td></tr><tr><td> 44</td><td>Ieasari, Ezequiel M</td><td> 24</td><td>vs.</td><td>Magalhaes, breno</td><td> 24</td></tr><tr><td> 45</td><td>Guzman, Diego</td><td> 24</td><td>vs.</td><td>Lemos, Tulio A</td><td> 24</td></tr><tr><td> 46</td><td>Ioppolo, Pablo</td><td> 24</td><td>vs.</td><td>Veliz, Juan</td><td> 24</td></tr><tr><td> 47</td><td>De Santis, Luciano</td><td> 24</td><td>vs.</td><td>Urban, Matias</td><td> 24</td></tr><tr><td> 48</td><td>Morales Molina, Rodrigo</td><td> 24</td><td>vs.</td><td>Pozzo, Sebastian</td><td> 24</td></tr><tr><td> 49</td><td>Esperidioni, Emiliano</td><td> 24</td><td>vs.</td><td>Casatti, Vagner W</td><td> 24</td></tr><tr><td> 50</td><td>Matoso Mendes, Luiz Fernando</td><td> 24</td><td>vs.</td><td>Mopty, Agustin</td><td> 23</td></tr><tr><td> 51</td><td>Passanante, Sebastian</td><td> 23</td><td>vs.</td><td>Muller, Gonzalo</td><td> 23</td></tr><tr><td> 52</td><td>Espinoza, Roberto</td><td> 23</td><td>vs.</td><td>Sagula, Cristian</td><td> 23</td></tr><tr><td> 53</td><td>Venini, Ignacio</td><td> 23</td><td>vs.</td><td>Beraldo, Eduardo</td><td> 22</td></tr><tr><td> 54</td><td>Giudice, Ariel</td><td> 22</td><td>vs.</td><td>Abadal, Matias</td><td> 22</td></tr><tr><td> 55</td><td>Crescenzi, Lautaro</td><td> 22</td><td>vs.</td><td>Morales, Nicolas</td><td> 22</td></tr><tr><td> 56</td><td>Fernando Silva, Victor</td><td> 22</td><td>vs.</td><td>Lazet, Alvaro</td><td> 22</td></tr><tr><td> 57</td><td>Bossaneli Araujo, William B</td><td> 21</td><td>vs.</td><td>Espinoza, Mauricio</td><td> 21</td></tr><tr><td> 58</td><td>Rego, Fabio T</td><td> 21</td><td>vs.</td><td>Avenda–o, Alvaro</td><td> 21</td></tr><tr><td> 59</td><td>Orge, Fernando G</td><td> 21</td><td>vs.</td><td>Montoto, Rodrigo</td><td> 21</td></tr><tr><td> 60</td><td>Vazquez, Maximiliano</td><td> 21</td><td>vs.</td><td>Barrientos Ochoa, Claudio</td><td> 21</td></tr><tr><td> 61</td><td>Salas, Juan M</td><td> 21</td><td>vs.</td><td>Navas, Luis</td><td> 21</td></tr><tr><td> 62</td><td>Betschart, Alejandro M</td><td> 21</td><td>vs.</td><td>Perrollas, Ezequiel</td><td> 19</td></tr><tr><td> 63</td><td>Melgarejo, Juan</td><td> 19</td><td>vs.</td><td>Rivas, Joaquin</td><td> 18</td></tr></tbody></table>

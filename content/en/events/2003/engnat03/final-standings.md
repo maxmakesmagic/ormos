@@ -1,0 +1,56 @@
+---
+id: ar1ks93y
+kind: event
+lang: en
+path: /en/events/2003/engnat03/final-standings
+title: Final Standings
+published: null
+column_slug: null
+column: null
+authors: []
+event_code: engnat03
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/article.aspx?x=sideboard/engnat03/finstand
+    lang_detected: en
+    capture_id: 830863
+    url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/engnat03/finstand
+    captured_at: '2013-07-07 09:32:05+00'
+    rule: aspx.article_heading
+  event_code:
+    page_key: wizards.com/magic/magazine/article.aspx?x=sideboard/engnat03/finstand
+    lang_detected: en
+    capture_id: 830863
+    url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/engnat03/finstand
+    captured_at: '2013-07-07 09:32:05+00'
+    rule: url.event_code
+sources:
+- document_id: ar1ks93y
+  url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/engnat03/finstand
+  page_key: wizards.com/magic/magazine/article.aspx?x=sideboard/engnat03/finstand
+  lang: en
+  template: aspx
+  captured_at: '2013-07-07 09:32:05+00'
+  capture_id: 830863
+  wayback_url: https://web.archive.org/web/20130707093205id_/http://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/engnat03/finstand
+- document_id: ar1ks93y
+  url: http://www.wizards.com/default.asp?x=sideboard/engnat03/finstand
+  page_key: wizards.com/default.asp?x=sideboard/engnat03/finstand
+  lang: en
+  template: classic_asp
+  captured_at: '2005-01-27 15:40:49+00'
+  capture_id: 2173707
+  wayback_url: https://web.archive.org/web/20050127154049id_/http://www.wizards.com/default.asp?x=sideboard/engnat03/finstand
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: ar1ks93y
+  capture_id: 830863
+  url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/engnat03/finstand
+  wayback_url: https://web.archive.org/web/20130707093205id_/http://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/engnat03/finstand
+  captured_at: '2013-07-07 09:32:05+00'
+  template: aspx
+  sha256: b32495bd26ea966db880b1309fe310be0ed5d01c5fd9e87cd97dfba162d52bde
+render_recovery: []
+---
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <a href="/en/events/2003/engnat03/final-standings">Rank</a>&#10;    </td>&#10;    <td>&#10;      <a href="/en/events/2003/engnat03/final-standings">Player</a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>1</td>&#10;    <td>Artturi Björk</td>&#10;  </tr>&#10;  <tr>&#10;    <td>2</td>&#10;    <td>Michael Groves</td>&#10;  </tr>&#10;  <tr>&#10;    <td>3</td>&#10;    <td>Chris Clapton</td>&#10;  </tr>&#10;  <tr>&#10;    <td>4</td>&#10;    <td>William Turner</td>&#10;  </tr>&#10;  <tr>&#10;    <td>5</td>&#10;    <td>Oliver Schneider</td>&#10;  </tr>&#10;  <tr>&#10;    <td>6</td>&#10;    <td>Mike Major</td>&#10;  </tr>&#10;  <tr>&#10;    <td>7</td>&#10;    <td>Tom Harle</td>&#10;  </tr>&#10;  <tr>&#10;    <td>8</td>&#10;    <td>Simon Marshall-Unitt</td>&#10;  </tr>&#10;  <tr>&#10;    <td>9</td>&#10;    <td>Kevin O'Connor</td>&#10;  </tr>&#10;  <tr>&#10;    <td>10</td>&#10;    <td>Scott Wills</td>&#10;  </tr>&#10;  <tr>&#10;    <td>11</td>&#10;    <td>Martin Swan</td>&#10;  </tr>&#10;  <tr>&#10;    <td>12</td>&#10;    <td>Jonny Chapman</td>&#10;  </tr>&#10;  <tr>&#10;    <td>13</td>&#10;    <td>Chris Hardy</td>&#10;  </tr>&#10;  <tr>&#10;    <td>14</td>&#10;    <td>Jon Hopkins</td>&#10;  </tr>&#10;  <tr>&#10;    <td>15</td>&#10;    <td>Nicholas Clark</td>&#10;  </tr>&#10;  <tr>&#10;    <td>16</td>&#10;    <td>Paul Benjamin</td>&#10;  </tr>&#10;  <tr>&#10;    <td>17</td>&#10;    <td>Quentin Martin</td>&#10;  </tr>&#10;  <tr>&#10;    <td>18</td>&#10;    <td>Benedict Martin</td>&#10;  </tr>&#10;  <tr>&#10;    <td>19</td>&#10;    <td>David Grant</td>&#10;  </tr>&#10;  <tr>&#10;    <td>20</td>&#10;    <td>Seb Dolling</td>&#10;  </tr>&#10;  <tr>&#10;    <td>21</td>&#10;    <td>Martyn Cooper</td>&#10;  </tr>&#10;  <tr>&#10;    <td>22</td>&#10;    <td>Mark Glenister</td>&#10;  </tr>&#10;  <tr>&#10;    <td>23</td>&#10;    <td>David Lewis</td>&#10;  </tr>&#10;  <tr>&#10;    <td>24</td>&#10;    <td>Craig Stevenson</td>&#10;  </tr>&#10;  <tr>&#10;    <td>25</td>&#10;    <td>Neil Rigby</td>&#10;  </tr>&#10;  <tr>&#10;    <td>26</td>&#10;    <td>Nat James</td>&#10;  </tr>&#10;  <tr>&#10;    <td>27</td>&#10;    <td>Andy Ashwood</td>&#10;  </tr>&#10;  <tr>&#10;    <td>28</td>&#10;    <td>Paul Hillary</td>&#10;  </tr>&#10;  <tr>&#10;    <td>29</td>&#10;    <td>Gihan Bandaranaike</td>&#10;  </tr>&#10;  <tr>&#10;    <td>30</td>&#10;    <td>Paul Hawkins</td>&#10;  </tr>&#10;  <tr>&#10;    <td>31</td>&#10;    <td>John Ormerod</td>&#10;  </tr>&#10;  <tr>&#10;    <td>32</td>&#10;    <td>Stuart Wright</td>&#10;  </tr>&#10;  <tr>&#10;    <td>33</td>&#10;    <td>Ronald Leacy</td>&#10;  </tr>&#10;  <tr>&#10;    <td>34</td>&#10;    <td>Barry Horwood</td>&#10;  </tr>&#10;  <tr>&#10;    <td>35</td>&#10;    <td>Andrew Mitchell</td>&#10;  </tr>&#10;  <tr>&#10;    <td>36</td>&#10;    <td>Simon Hodges</td>&#10;  </tr>&#10;  <tr>&#10;    <td>37</td>&#10;    <td>Richard Moore</td>&#10;  </tr>&#10;  <tr>&#10;    <td>38</td>&#10;    <td>Conrad Williams</td>&#10;  </tr>&#10;  <tr>&#10;    <td>39</td>&#10;    <td>Paul Graham</td>&#10;  </tr>&#10;  <tr>&#10;    <td>40</td>&#10;    <td>Chris Stocking</td>&#10;  </tr>&#10;  <tr>&#10;    <td>41</td>&#10;    <td>Ben Twitchen</td>&#10;  </tr>&#10;  <tr>&#10;    <td>42</td>&#10;    <td>David Ball</td>&#10;  </tr>&#10;  <tr>&#10;    <td>43</td>&#10;    <td>Stefano Gattolin</td>&#10;  </tr>&#10;  <tr>&#10;    <td>44</td>&#10;    <td>Steve Barltrop</td>&#10;  </tr>&#10;  <tr>&#10;    <td>45</td>&#10;    <td>Mark Lowe</td>&#10;  </tr>&#10;  <tr>&#10;    <td>46</td>&#10;    <td>Chi Hung Liu</td>&#10;  </tr>&#10;  <tr>&#10;    <td>47</td>&#10;    <td>Craig Jones</td>&#10;  </tr>&#10;  <tr>&#10;    <td>48</td>&#10;    <td>Richard Nunn</td>&#10;  </tr>&#10;  <tr>&#10;    <td>49</td>&#10;    <td>Dan Jenkins</td>&#10;  </tr>&#10;  <tr>&#10;    <td>50</td>&#10;    <td>Richard Madsen</td>&#10;  </tr>&#10;  <tr>&#10;    <td>51</td>&#10;    <td>Daniel Victor</td>&#10;  </tr>&#10;  <tr>&#10;    <td>52</td>&#10;    <td>Matthew Bailie</td>&#10;  </tr>&#10;  <tr>&#10;    <td>53</td>&#10;    <td>Pete Norris</td>&#10;  </tr>&#10;  <tr>&#10;    <td>54</td>&#10;    <td>Wesley Hall</td>&#10;  </tr>&#10;  <tr>&#10;    <td>55</td>&#10;    <td>Paul McKibbin</td>&#10;  </tr>&#10;  <tr>&#10;    <td>56</td>&#10;    <td>Larry Devis</td>&#10;  </tr>&#10;  <tr>&#10;    <td>57</td>&#10;    <td>Ben Ronaldson</td>&#10;  </tr>&#10;  <tr>&#10;    <td>58</td>&#10;    <td>Marco Orsini-jones</td>&#10;  </tr>&#10;  <tr>&#10;    <td>59</td>&#10;    <td>Sam Gomersall</td>&#10;  </tr>&#10;  <tr>&#10;    <td>60</td>&#10;    <td>Matthew Williams</td>&#10;  </tr>&#10;  <tr>&#10;    <td>61</td>&#10;    <td>Jason Chaplin</td>&#10;  </tr>&#10;  <tr>&#10;    <td>62</td>&#10;    <td>Mark Wraith</td>&#10;  </tr>&#10;  <tr>&#10;    <td>63</td>&#10;    <td>Jason Thornton</td>&#10;  </tr>&#10;  <tr>&#10;    <td>64</td>&#10;    <td>Craig Smith</td>&#10;  </tr>&#10;  <tr>&#10;    <td>65</td>&#10;    <td>Rachel Gilbey</td>&#10;  </tr>&#10;  <tr>&#10;    <td>66</td>&#10;    <td>Daniel Thomas</td>&#10;  </tr>&#10;  <tr>&#10;    <td>67</td>&#10;    <td>Martin Till</td>&#10;  </tr>&#10;  <tr>&#10;    <td>68</td>&#10;    <td>Greg Jackson</td>&#10;  </tr>&#10;  <tr>&#10;    <td>69</td>&#10;    <td>alastair mcclare</td>&#10;  </tr>&#10;  <tr>&#10;    <td>70</td>&#10;    <td>Lian Pizzey</td>&#10;  </tr>&#10;  <tr>&#10;    <td>71</td>&#10;    <td>Graham Theobalds</td>&#10;  </tr>&#10;  <tr>&#10;    <td>72</td>&#10;    <td>Peter Bowden</td>&#10;  </tr>&#10;  <tr>&#10;    <td>73</td>&#10;    <td>Keith Spragg</td>&#10;  </tr>&#10;  <tr>&#10;    <td>74</td>&#10;    <td>Tim Hows</td>&#10;  </tr>&#10;  <tr>&#10;    <td>75</td>&#10;    <td>Paul Turfrey</td>&#10;  </tr>&#10;  <tr>&#10;    <td>76</td>&#10;    <td>Ioannis Kyriazis</td>&#10;  </tr>&#10;  <tr>&#10;    <td>77</td>&#10;    <td>Mick Wright</td>&#10;  </tr>&#10;  <tr>&#10;    <td>78</td>&#10;    <td>Thomas Butler</td>&#10;  </tr>&#10;  <tr>&#10;    <td>79</td>&#10;    <td>Christopher Burden</td>&#10;  </tr>&#10;  <tr>&#10;    <td>80</td>&#10;    <td>Mark Voisey</td>&#10;  </tr>&#10;  <tr>&#10;    <td>81</td>&#10;    <td>Martin Bruwer</td>&#10;  </tr>&#10;  <tr>&#10;    <td>82</td>&#10;    <td>Bryan Connolly</td>&#10;  </tr>&#10;  <tr>&#10;    <td>83</td>&#10;    <td>Alan Mai</td>&#10;  </tr>&#10;  <tr>&#10;    <td>84</td>&#10;    <td>Richard Clyne</td>&#10;  </tr>&#10;  <tr>&#10;    <td>85</td>&#10;    <td>Mathew Cordell</td>&#10;  </tr>&#10;  <tr>&#10;    <td>86</td>&#10;    <td>James Larner</td>&#10;  </tr>&#10;  <tr>&#10;    <td>87</td>&#10;    <td>Geoff Ball</td>&#10;  </tr>&#10;  <tr>&#10;    <td>88</td>&#10;    <td>Lee Garner</td>&#10;  </tr>&#10;  <tr>&#10;    <td>89</td>&#10;    <td>Jon Eadie</td>&#10;  </tr>&#10;  <tr>&#10;    <td>90</td>&#10;    <td>Dinh Nguyen</td>&#10;  </tr>&#10;  <tr>&#10;    <td>91</td>&#10;    <td>Daniel Danvers-Jukes</td>&#10;  </tr>&#10;  <tr>&#10;    <td>92</td>&#10;    <td>George Dowse-Brenan</td>&#10;  </tr>&#10;  <tr>&#10;    <td>93</td>&#10;    <td>Bojan Tamburic</td>&#10;  </tr>&#10;  <tr>&#10;    <td>94</td>&#10;    <td>Stephen Warne</td>&#10;  </tr>&#10;  <tr>&#10;    <td>95</td>&#10;    <td>Paul Willis</td>&#10;  </tr>&#10;  <tr>&#10;    <td>96</td>&#10;    <td>Jim Grimmett</td>&#10;  </tr>&#10;  <tr>&#10;    <td>97</td>&#10;    <td>Calum Stephenson</td>&#10;  </tr>&#10;  <tr>&#10;    <td>98</td>&#10;    <td>Andy McNish</td>&#10;  </tr>&#10;  <tr>&#10;    <td>99</td>&#10;    <td>Colin Smith</td>&#10;  </tr>&#10;  <tr>&#10;    <td>100</td>&#10;    <td>Steve Easton</td>&#10;  </tr>&#10;  <tr>&#10;    <td>101</td>&#10;    <td>Brett Antill</td>&#10;  </tr>&#10;  <tr>&#10;    <td>102</td>&#10;    <td>David Connell</td>&#10;  </tr>&#10;  <tr>&#10;    <td>103</td>&#10;    <td>Philip Williams</td>&#10;  </tr>&#10;  <tr>&#10;    <td>104</td>&#10;    <td>Robert Salmon</td>&#10;  </tr>&#10;  <tr>&#10;    <td>105</td>&#10;    <td>Tony Dobson</td>&#10;  </tr>&#10;  <tr>&#10;    <td>106</td>&#10;    <td>Daniel Paskins</td>&#10;  </tr>&#10;  <tr>&#10;    <td>107</td>&#10;    <td>Tim Willoughby</td>&#10;  </tr>&#10;  <tr>&#10;    <td>108</td>&#10;    <td>Christopher Wankling</td>&#10;  </tr>&#10;  <tr>&#10;    <td>109</td>&#10;    <td>Stewart Cowan</td>&#10;  </tr>&#10;  <tr>&#10;    <td>110</td>&#10;    <td>Tom Hay</td>&#10;  </tr>&#10;  <tr>&#10;    <td>111</td>&#10;    <td>Jon Alexander</td>&#10;  </tr>&#10;  <tr>&#10;    <td>112</td>&#10;    <td>Mike Lowery</td>&#10;  </tr>&#10;  <tr>&#10;    <td>113</td>&#10;    <td>Philip Pettifer</td>&#10;  </tr>&#10;  <tr>&#10;    <td>114</td>&#10;    <td>Adam Freeman</td>&#10;  </tr>&#10;  <tr>&#10;    <td>115</td>&#10;    <td>Jason Savage</td>&#10;  </tr>&#10;  <tr>&#10;    <td>116</td>&#10;    <td>Mark Waterhouse</td>&#10;  </tr>&#10;  <tr>&#10;    <td>117</td>&#10;    <td>Tom Rigg</td>&#10;  </tr>&#10;  <tr>&#10;    <td>118</td>&#10;    <td>Jonathan Vickers</td>&#10;  </tr>&#10;  <tr>&#10;    <td>119</td>&#10;    <td>Darius Pearce</td>&#10;  </tr>&#10;  <tr>&#10;    <td>120</td>&#10;    <td>David Hoskin</td>&#10;  </tr>&#10;</tbody></table>

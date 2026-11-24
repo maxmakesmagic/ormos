@@ -1,0 +1,1899 @@
+---
+id: 0cx647za
+kind: event
+lang: en
+path: /en/articles/event-coverage/undated/japan-strikes-again
+title: Japan Strikes Again!
+published: null
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtgevent_gpbost05_welcome
+    lang_detected: en
+    capture_id: 829300
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_gpbost05_welcome
+    captured_at: '2009-06-04 08:33:50+00'
+    rule: aspx.article_heading
+sources:
+- document_id: 0cx647za
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_gpbost05_welcome
+  page_key: wizards.com/magic/magazine/article.aspx?x=mtgevent_gpbost05_welcome
+  lang: en
+  template: aspx
+  captured_at: '2009-06-04 08:33:50+00'
+  capture_id: 829300
+  wayback_url: https://web.archive.org/web/20090604083350id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_gpbost05_welcome
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 0cx647za
+  capture_id: 829300
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_gpbost05_welcome
+  wayback_url: https://web.archive.org/web/20090604083350id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgevent_gpbost05_welcome
+  captured_at: '2009-06-04 08:33:50+00'
+  template: aspx
+  sha256: d39cda92cb4059da2faa79e3e7def77fc51024eecc2857f1097bbe25c67e3d45
+render_recovery:
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sutured_Ghoul')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sutured Ghoul
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Time_Stop')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Time Stop
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Meloku_the_Clouded_Mirror')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Meloku the Clouded Mirror
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Ancient_Hydra')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Ancient Hydra
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Balancing_Act')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Balancing Act
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Burning_Wish')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Burning Wish
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Careful_Study')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Careful Study
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Coat_of_Arms')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Coat of Arms
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Corrupt')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Corrupt
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Goblin_Welder')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Goblin Welder
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Incinerate')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Incinerate
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mother_of_Runes')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mother of Runes
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Oxidize')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Oxidize
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Pariah')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Pariah
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Phyrexian_Scuta')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Phyrexian Scuta
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Pristine_Angel')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Pristine Angel
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Rampant_Growth')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Rampant Growth
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Rebel_Informer')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Rebel Informer
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Rising_Water')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Rising Water
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Shivan_Wurm')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Shivan Wurm
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sickening_Dreams')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sickening Dreams
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Solitary_Confinement')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Solitary Confinement
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sylvan_Scrying')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sylvan Scrying
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Viridian_Shaman')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Viridian Shaman
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Intuition')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Intuition
+  occurrences: 12
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Reanimate')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Reanimate
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Exhume')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Exhume
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sundering_Titan')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sundering Titan
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Platinum_Angel')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Platinum Angel
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Bosh,_Iron_Golem')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Bosh, Iron Golem
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mindslaver')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mindslaver
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('City_of_Brass')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - City of Brass
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Great_Furnace')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Great Furnace
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Seat_of_Synod')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Seat of Synod
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sulfurous_Springs')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sulfurous Springs
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Underground_River')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Underground River
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Vault_of_Whispers')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Vault of Whispers
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Cabal_Therapy')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Cabal Therapy
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mox_Diamond')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mox Diamond
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Vampiric_Tutor')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Vampiric Tutor
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Gilded_Drake')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Gilded Drake
+  occurrences: 10
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Petradon')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Petradon
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Pyroclasm')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Pyroclasm
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Shattering_Pulse')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Shattering Pulse
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Show_And_Tell')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Show And Tell
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Ancient_Den')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Ancient Den
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Blinkmoth_Nexus')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Blinkmoth Nexus
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Darksteel_Citadel')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Darksteel Citadel
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Glimmervoid')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Glimmervoid
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Arcbound_Ravager')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Arcbound Ravager
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Arcbound_Worker')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Arcbound Worker
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Disciple_of_the_Vault')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Disciple of the Vault
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Frogmite')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Frogmite
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Myr_Enforcer')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Myr Enforcer
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Myr_Retriever')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Myr Retriever
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Aether_Vial')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Aether Vial
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Chromatic_Sphere')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Chromatic Sphere
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Cranial_Plating')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Cranial Plating
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Thoughtcast')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Thoughtcast
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Welding_Jar')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Welding Jar
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Chill')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Chill
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Meddling_Mage')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Meddling Mage
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Smother')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Smother
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Barbarian_Ring')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Barbarian Ring
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Bloodstained_Mire')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Bloodstained Mire
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Forest')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Forest
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mountain')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mountain
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Wasteland')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Wasteland
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Wooded_Foothills')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Wooded Foothills
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Gempalm_Incinerator')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Gempalm Incinerator
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Goblin_Matron')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Goblin Matron
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Goblin_Piledriver')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Goblin Piledriver
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Goblin_Pyromancer')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Goblin Pyromancer
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Goblin_Ringleader')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Goblin Ringleader
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Goblin_Sharpshooter')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Goblin Sharpshooter
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Goblin_Sledder')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Goblin Sledder
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Goblin_Warchief')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Goblin Warchief
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mogg_Fanatic')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mogg Fanatic
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Siege-Gang_Commander')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Siege-Gang Commander
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Skirk_Prospector')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Skirk Prospector
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sparksmith')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sparksmith
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Chrome_Mox')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Chrome Mox
+  occurrences: 10
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Land_Grant')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Land Grant
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Artifact_Mutation')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Artifact Mutation
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Crumbling_Sanctuary')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Crumbling Sanctuary
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Engineered_Plague')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Engineered Plague
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Ensnaring_Bridge')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Ensnaring Bridge
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Grafted_Wargear')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Grafted Wargear
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Naturalize')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Naturalize
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Adarkar_Wastes')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Adarkar Wastes
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Flooded_Strand')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Flooded Strand
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Island')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Island
+  occurrences: 8
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Plains')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Plains
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Shivan_Reef')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Shivan Reef
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Skycloud_Expanse')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Skycloud Expanse
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Exalted_Angel')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Exalted Angel
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Accumulated_Knowledge')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Accumulated Knowledge
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Brainstorm')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Brainstorm
+  occurrences: 7
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Counterspell')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Counterspell
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Cunning_Wish')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Cunning Wish
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Fire/Ice')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Fire/Ice
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Force_Spike')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Force Spike
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Isochron_Scepter')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Isochron Scepter
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mana_Leak')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mana Leak
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Orim[s_Chant')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Orim's Chant
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Disenchant')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Disenchant
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Echoing_Truth')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Echoing Truth
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Enlightened_Tutor')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Enlightened Tutor
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Forbid')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Forbid
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Last_Breath')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Last Breath
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Powder_Keg')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Powder Keg
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Pulse_of_the_Fields')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Pulse of the Fields
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Stroke_of_Genius')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Stroke of Genius
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Polluted_Delta')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Polluted Delta
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Cloud_of_Faeries')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Cloud of Faeries
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sunscape_Familiar')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sunscape Familiar
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Brain_Freeze')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Brain Freeze
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Deep_Analysis')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Deep Analysis
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Merchant_Scroll')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Merchant Scroll
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mind[s_Desire')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mind's Desire
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sapphire_Medallion')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sapphire Medallion
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Snap')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Snap
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Turnabout')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Turnabout
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Meditate')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Meditate
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Prismatic_Strand')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Prismatic Strand
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Rebuild')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Rebuild
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Stiffle')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Stiffle
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Silver_Knight')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Silver Knight
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Waterfront_Bouncer')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Waterfront Bouncer
+  occurrences: 6
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Energy_Flux')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Energy Flux
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Engineered_Explosives')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Engineered Explosives
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Parallax_Tide')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Parallax Tide
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Parallax_Wave')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Parallax Wave
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Stifle')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Stifle
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Worship')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Worship
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Seal_of_Cleansing')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Seal of Cleansing
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Seal_of_Removal')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Seal of Removal
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Flametongue_Kavu')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Flametongue Kavu
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Grim_Lavamancer')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Grim Lavamancer
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Spiketail_Hatchling')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Spiketail Hatchling
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Voidmage_Prodigy')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Voidmage Prodigy
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Daze')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Daze
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Standstill')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Standstill
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Sword_of_Fire_and_Ice')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Sword of Fire and Ice
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Cursed_Totem')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Cursed Totem
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Submerge')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Submerge
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Swamp')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Swamp
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Volrath[s_Stronghold')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Volrath's Stronghold
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Braids,_Cabal_Minion')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Braids, Cabal Minion
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mesmeric_Fiend')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mesmeric Fiend
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Mortivore')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Mortivore
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Phyrexian_Rager')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Phyrexian Rager
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Rotlung_Reanimator')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Rotlung Reanimator
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Solemn_Simulacrum')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Solemn Simulacrum
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Withered_Wretch')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Withered Wretch
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Death_Cloud')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Death Cloud
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Diabolic_Edict')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Diabolic Edict
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Duress')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Duress
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Faceless_Butcher')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Faceless Butcher
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('False_Cure')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - False Cure
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kill_Switch')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kill Switch
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Perish')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Perish
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Brushland')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Brushland
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Starlit_Sanctum')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Starlit Sanctum
+  occurrences: 4
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Windswept_Heath')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Windswept Heath
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Academy_Rector')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Academy Rector
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Daru_Spiritualist')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Daru Spiritualist
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Devout_Witness')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Devout Witness
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Monk_Realist')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Monk Realist
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Nomads_En-Kor')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Nomads En-Kor
+  occurrences: 5
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Shaman_En-Kor')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Shaman En-Kor
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Task_Force')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Task Force
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Uktabi_Orangutan')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Uktabi Orangutan
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Wall_of_Blossoms')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Wall of Blossoms
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Animal_Boneyard')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Animal Boneyard
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Eladamri[s_Call')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Eladamri's Call
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Living_Wish')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Living Wish
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Test_of_Endurance')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Test of Endurance
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Worthy_Cause')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Worthy Cause
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Eternal_Witness')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Eternal Witness
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Genesis')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Genesis
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Serra_Avatar')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Serra Avatar
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Starlit_Sanctuim')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Starlit Sanctuim
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Hapless_Researcher')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Hapless Researcher
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Masticore')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Masticore
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Karn,_Silver_Golem')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Karn, Silver Golem
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Overload')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Overload
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Caves_of_Koilos')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Caves of Koilos
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Dromar[s_Cavern')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Dromar's Cavern
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Warrior_En-Kor')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Warrior En-Kor
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Unspeakable_Symbol')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Unspeakable Symbol
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Cranial_Extraction')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Cranial Extraction
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Phyrexian_Negator')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Phyrexian Negator
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Rule_of_Law')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Rule of Law
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Serenity')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Serenity
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Forbidden_Orchard')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Forbidden Orchard
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Llanowar_Wastes')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Llanowar Wastes
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Tarnished_Citadel')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Tarnished Citadel
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Yavimaya_Coast')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Yavimaya Coast
+  occurrences: 3
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Cephalid_Illusionist')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Cephalid Illusionist
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Korsan_Cloudscraper')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Korsan Cloudscraper
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Dragon_Breath')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Dragon Breath
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Krosan_Reclamation')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Krosan Reclamation
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Worldly_Tutor')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Worldly Tutor
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Battlefield_Scrounger')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Battlefield Scrounger
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Bone_Shredder')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Bone Shredder
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Dragon_Shadow')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Dragon Shadow
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Energy_Field')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Energy Field
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Forsaken_City')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Forsaken City
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Kami_of_Ancient_Law')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Kami of Ancient Law
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Rootwater_Thief')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Rootwater Thief
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Uktabi_Orangantun')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Uktabi Orangantun
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Aquamoeba')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Aquamoeba
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Arrogant_Wurm')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Arrogant Wurm
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Basking_Rootwalla')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Basking Rootwalla
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Wild_Mongrel')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Wild Mongrel
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Wonder')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Wonder
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Circular_Logic')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Circular Logic
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Roar_of_the_Wurm')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Roar of the Wurm
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Rushing_River')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Rushing River
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Havenwood_Battleground')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Havenwood Battleground
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Reflecting_Pool')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Reflecting Pool
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Auriok_Champion')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Auriok Champion
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Birds_of_Paradise')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Birds of Paradise
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Cavern_Harpy')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Cavern Harpy
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Raven_Familiar')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Raven Familiar
+  occurrences: 2
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Aluren')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Aluren
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Maggot_Carrier')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Maggot Carrier
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Pernicious_Deed')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Pernicious Deed
+  occurrences: 1
+- code: legacy_card_link
+  element: a
+  target: javascript:autoCardWindow('Stern_Proctor')
+  reason: The archived link uses the old Wizards card popup. The preview kept the
+    card text.
+  labels:
+  - Stern Proctor
+  occurrences: 1
+---
+![](https://i.ormos.uk/de/b8/deb841043692ff9303d681f7d4351ad8596e788aa147614fe418daa76d8dfd15.jpg)
+
+Just as Rodney Harrison plucked a first-quarter pass to stop a Philadelphia touchdown, Masashi Oiso pulled an amazing win out of what looked like a imminent defeat. With Lucas Glavin's deck promising a huge Sutured Ghoul, the theatrical Japanese walked the huge American into a trap.
+
+It was a dramatic end to a Extended Grand Prix that did little to help solve the riddle of the Qualifying season. It's doubtful anyone left this room with any decent idea of what to play, and what to expect from events this season. There are a lot of cool new decks -- check Glavin's, Dempsey's or McLaughlin's just in the Top 8 -- but no clear "deck to beat."
+
+The Grand Prix was clearly marked by that and the Japanese Road Trip. Are the big names in Asia about to flex their muscle all over the world? Or did they just come to see the Super Bowl? Congratulations to Masashi Oiso for his brilliant win and please don't be too harsh on Lucas Glavin. Playing in a premier event Top 8 is never easy. Just ask Brian "No Blocks" Davis.
+
+**Congratulations to Masashi Oiso -- the 2005 Pro Tour Boston champion!** 
+
+  
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;    </td><td>Quarterfinals </td>&#10;    <td> </td>&#10;    <td>Semifinals </td>&#10;    <td> </td>&#10;    <td>Finals </td>&#10;    <td> </td>&#10;    <td>Champion </td>&#10;  </tr>&#10;  <tr>&#10;    <td>1</td>&#10;    <td>&#10;      Osyp Lebedowicz&#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Lucas Glavin, 2-0&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3"> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>8</td>&#10;    <td>&#10;      Lucas Glavin&#10;    </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3">&#10;      Lucas Glavin, 2-1&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>4</td>&#10;    <td>&#10;      Benjamin Dempsey&#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Benjamin Dempsey, 2-0&#10;    </td>&#10;    <td rowspan="5"> </td>&#10;    <td rowspan="5">&#10;      Masashi Oiso, 2-1&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>5</td>&#10;    <td>&#10;      Anthony Impellizzieri&#10;    </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3"> </td>&#10;  </tr>&#10;  <tr>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>2</td>&#10;    <td>&#10;      Masahiko Morita&#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Masashi Oiso, 2-0&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>7</td>&#10;    <td>&#10;      Masashi Oiso&#10;    </td>&#10;    <td rowspan="3"> </td>&#10;    <td rowspan="3">&#10;      Masashi Oiso, 2-0&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;  <tr>&#10;    <td>3</td>&#10;    <td>&#10;      Daniel O'Mahoney-Schwartz&#10;    </td>&#10;    <td rowspan="2"> </td>&#10;    <td rowspan="2">&#10;      Keith McLaughlin, 2-0&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>6</td>&#10;    <td>&#10;      Keith McLaughlin&#10;    </td>&#10;    <td> </td>&#10;    <td> </td>&#10;  </tr>&#10;</tbody></table>
+
+  
+  
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <b>EVENT COVERAGE</b>&#10;    </td>&#10;    <td>&#10;      <b>FINAL TOP 8 STANDINGS</b>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <ul>&#10;        <li>&#10;          <a href="/en/events/2005/gpbost05/live-coverage-of-2005-grand-prix-boston-12">Finals</a>: Toolbox vs. Toolbox<div><i>by Rui Oliveira</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2005/gpbost05/live-coverage-of-2005-grand-prix-boston-37">Semifinals</a>: Bosh Bash<div><i>by Rui Oliveira</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2005/gpbost05/live-coverage-of-2005-grand-prix-boston-38">Quarterfinals</a>: Thousands of Miles to Play a Friend<div><i>by Rui Oliveira</i></div></li>&#10;        <li>&#10;          <a href="#8">Blog - 4:01 pm</a>: The Top 8 Decklists<div><i>by Rui Oliveira</i></div></li>&#10;        <hr>&#10;        <li>&#10;          <a href="/en/events/2005/gpbost05/live-coverage-of-2005-grand-prix-boston-35">Round 13</a>: Veterans From Two Continents<div><i>by Rui Oliveira</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2005/gpbost05/live-coverage-of-2005-grand-prix-boston-32">Round 10</a>: Top Table Rumble<div><i>by Rui Oliveira</i></div></li>&#10;        <li>&#10;          <a href="#7">Blog - 11:37 am</a>: Metagame Decks<div><i>by Rui Oliveira</i></div></li>&#10;        <li>&#10;          <a href="#6">Blog - 11:28 am</a>: Day 2 Metagame<div><i>by Rui Oliveira</i></div></li>&#10;        <li>&#10;          <a href="/it/events/2005/gpbost05/live-coverage-of-2005-grand-prix-boston-9">Info</a>: Day 2 Player List<div><i>by Event Coverage Staff</i></div></li>&#10;        <hr>&#10;        <li>&#10;          <a href="#5">Blog - 11:59 pm</a>: Judging Staff<div><i>by Rui Oliveira</i></div></li>&#10;        <li>&#10;          <a href="#4">Blog - 11:55 pm</a>: The Undefeated Decklists<div><i>by Rui Oliveira</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2005/gpbost05/live-coverage-of-2005-grand-prix-boston">Round 7</a>: Run Hans, it's the Japanese!<div><i>by Rui Oliveira</i></div></li>&#10;        <li>&#10;          <a href="#3">Blog - 9:23 pm</a>: Gabe Walls, the Matchmaker<div><i>by Rui Oliveira</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2005/gpbost05/live-coverage-of-2005-grand-prix-boston-40">Round 5</a>: The Timeless Clash<div><i>by Rui Oliveira</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2005/gpbost05/live-coverage-of-2005-grand-prix-boston-20">Round 4</a>: It's all about the Contrast<div><i>by Rui Oliveira</i></div></li>&#10;        <li>&#10;          <a href="#2">Blog - 3:34 pm</a>: The Three Bye Metagame<div><i>by Rui Oliveira</i></div></li>&#10;        <li>&#10;          <a href="#1">Blog - 2:57 pm</a>: Artist on site, Scott M. Fischer<div><i>by Rui Oliveira</i></div></li>&#10;        <li>&#10;          <a href="/de/events/2005/gpbost05/live-coverage-of-2005-grand-prix-boston">Info</a>: Day 1 Player List<div><i>by Event Coverage Staff</i></div></li>&#10;        &#10;        <li>&#10;          <a href="/en/events/2004/boston05/grand-prix-boston-2">Info</a>: Fact Sheet<div><i>by Event Coverage Staff</i></div></li>&#10;      </ul>&#10;    </td>&#10;    <td colspan="2">&#10;      &#10;      <table>&#10;        <tbody><tr>&#10;          <td> 1.  <b>Masashi Oiso</b></td>&#10;          <td>$2,400</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 2.  <b>Lucas Glavin</b></td>&#10;          <td>$1,700</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 3.  <b>Keith McLaughlin</b></td>&#10;          <td>$1,200</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 4.  <b>Benjamin Dempsey</b></td>&#10;          <td>$1,000</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 5.  <b>Osyp Lebedowicz</b></td>&#10;          <td>$800</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 6.  <b>Masahiko Morita</b></td>&#10;          <td>$800</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 7.  <b>Anthony Impellizzieri</b></td>&#10;          <td>$800</td>&#10;        </tr>&#10;        <tr>&#10;          <td> 8.  <b>Daniel O'Mahoney-Schwartz</b></td>&#10;          <td>$800</td>&#10;        </tr>&#10;      </tbody></table>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <b>Pairings</b>&#10;          </td>&#10;          <td>&#10;            <b>Results</b>&#10;          </td>&#10;          <td>&#10;            <b>Standings</b>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;          </td><td>&#10;          </td><td>&#10;            <a href="/de/events/2005/gpbost05/live-coverage-of-2005-grand-prix-boston-19">Final</a>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            <a href="/it/events/2005/gpbost05/live-coverage-of-2005-grand-prix-boston-4">15</a>&#10;            <br>&#10;            <a href="/it/events/2005/gpbost05/live-coverage-of-2005-grand-prix-boston-16">14</a>&#10;            <br>&#10;            <a href="/it/events/2005/gpbost05/live-coverage-of-2005-grand-prix-boston-11">13</a>&#10;            <br>&#10;            <a href="/it/events/2005/gpbost05/live-coverage-of-2005-grand-prix-boston-7">12</a>&#10;            <br>&#10;            <a href="/it/events/2005/gpbost05/live-coverage-of-2005-grand-prix-boston-6">11</a>&#10;            <br>&#10;            <a href="/it/events/2005/gpbost05/live-coverage-of-2005-grand-prix-boston-15">10</a>&#10;          </td>&#10;          <td>&#10;            <a href="/nob/events/2005/gpbost05/live-coverage-of-2005-grand-prix-boston">15</a>&#10;            <br>&#10;            <a href="/it/events/2005/gpbost05/live-coverage-of-2005-grand-prix-boston-3">14</a>&#10;            <br>&#10;            <a href="/it/events/2005/gpbost05/live-coverage-of-2005-grand-prix-boston-5">13</a>&#10;            <br>&#10;            <a href="/it/events/2005/gpbost05/live-coverage-of-2005-grand-prix-boston-13">12</a>&#10;            <br>&#10;            <a href="/it/events/2005/gpbost05/live-coverage-of-2005-grand-prix-boston-14">11</a>&#10;            <br>&#10;            <a href="/it/events/2005/gpbost05/live-coverage-of-2005-grand-prix-boston-10">10</a>&#10;          </td>&#10;          <td>&#10;            <a href="/de/events/2005/gpbost05/live-coverage-of-2005-grand-prix-boston-14">15</a>&#10;            <br>&#10;            <a href="/de/events/2005/gpbost05/live-coverage-of-2005-grand-prix-boston-21">14</a>&#10;            <br>&#10;            <a href="/de/events/2005/gpbost05/live-coverage-of-2005-grand-prix-boston-12">13</a>&#10;            <br>&#10;            <a href="/de/events/2005/gpbost05/live-coverage-of-2005-grand-prix-boston-11">12</a>&#10;            <br>&#10;            <a href="/de/events/2005/gpbost05/live-coverage-of-2005-grand-prix-boston-7">11</a>&#10;            <br>&#10;            <a href="/de/events/2005/gpbost05/live-coverage-of-2005-grand-prix-boston-20">10</a>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            <a href="/it/events/2005/gpbost05/live-coverage-of-2005-grand-prix-boston">9</a>&#10;            <br>&#10;            <a href="/en/events/2005/gpbost05/live-coverage-of-2005-grand-prix-boston-23">8</a>&#10;            <br>&#10;            <a href="/nl/events/2005/gpbost05/live-coverage-of-2005-grand-prix-boston">7</a>&#10;            <br>&#10;            <a href="/de/events/2005/gpbost05/live-coverage-of-2005-grand-prix-boston-2">6</a>&#10;            <br>&#10;            <a href="https://web.archive.org/web/20090603104057/http://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpbost05/pair5">5</a>&#10;            <br>&#10;            <a href="/en/events/2005/gpbost05/live-coverage-of-2005-grand-prix-boston-11">4</a>&#10;            <br>&#10;            <a href="/de/events/2005/gpbost05/live-coverage-of-2005-grand-prix-boston-23">3</a>&#10;            <br>&#10;            <a href="/de/events/2005/gpbost05/live-coverage-of-2005-grand-prix-boston-6">2</a>&#10;            <br>&#10;            <a href="/de/events/2005/gpbost05/live-coverage-of-2005-grand-prix-boston-26">1</a>&#10;          </td>&#10;          <td>&#10;            <a href="/en/events/2005/gpbost05/live-coverage-of-2005-grand-prix-boston-4">9</a>&#10;            <br>&#10;            <a href="/en/events/2005/gpbost05/live-coverage-of-2005-grand-prix-boston-36">8</a>&#10;            <br>&#10;            <a href="/nl/events/2005/gpbost05/live-coverage-of-2005-grand-prix-boston-3">7</a>&#10;            <br>&#10;            <a href="/de/events/2005/gpbost05/live-coverage-of-2005-grand-prix-boston-16">6</a>&#10;            <br>&#10;            <a href="/en/events/2005/gpbost05/live-coverage-of-2005-grand-prix-boston-28">5</a>&#10;            <br>&#10;            <a href="/de/events/2005/gpbost05/live-coverage-of-2005-grand-prix-boston-9">4</a>&#10;            <br>&#10;            <a href="/de/events/2005/gpbost05/live-coverage-of-2005-grand-prix-boston-13">3</a>&#10;            <br>&#10;            <a href="/de/events/2005/gpbost05/live-coverage-of-2005-grand-prix-boston-18">2</a>&#10;            <br>&#10;            <a href="/en/events/2005/gpbost05/live-coverage-of-2005-grand-prix-boston-7">1</a>&#10;          </td>&#10;          <td>&#10;            <a href="/de/events/2005/gpbost05/live-coverage-of-2005-grand-prix-boston-5">9</a>&#10;            <br>&#10;            <a href="/de/events/2005/gpbost05/live-coverage-of-2005-grand-prix-boston-30">8</a>&#10;            <br>&#10;            <a href="/de/events/2005/gpbost05/live-coverage-of-2005-grand-prix-boston-28">7</a>&#10;            <br>&#10;            <a href="/de/events/2005/gpbost05/live-coverage-of-2005-grand-prix-boston-10">6</a>&#10;            <br>&#10;            <a href="/de/events/2005/gpbost05/live-coverage-of-2005-grand-prix-boston-4">5</a>&#10;            <br>&#10;            <a href="/de/events/2005/gpbost05/live-coverage-of-2005-grand-prix-boston-17">4</a>&#10;            <br>&#10;            <a href="/de/events/2005/gpbost05/live-coverage-of-2005-grand-prix-boston-25">3</a>&#10;            <br>&#10;            <a href="/de/events/2005/gpbost05/live-coverage-of-2005-grand-prix-boston-22">2</a>&#10;            <br>&#10;            <a href="/de/events/2005/gpbost05/live-coverage-of-2005-grand-prix-boston-8">1</a>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;    </td>&#10;  </tr>&#10;</tbody></table>
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <b>BLOG</b>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <br>&#10;      <a name="1">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Saturday, Feb. 5: 2:57 pm - Artist on Site, Scott M. Fischer</b>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/a4/80/a4805ad1ab91968e067166b22bc86f14a4fc13663da64409b636a3b37dde918d.jpg">&#10;            <i>Scott M. Fischer has created some of Magic's most stunning.</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>The artist on site today is a veteran of premier event signing. I clearly remember him doing his trademark &quot;fish&quot; signature in Europe more than once. He has a few cards in the Kamigawa block (<a>Time Stop</a> and <a>Meloku the Clouded Mirror</a>) so players should have some news one to sign.</p>&#10;      <p>Here's a quick list of some of Fischer's cards you might have come accross in Constructed matches.</p>&#10;      <p>&#10;        <a>Ancient Hydra</a>&#10;        <br>&#10;        <a>Balancing Act</a>&#10;        <br>&#10;        <a>Burning Wish</a>&#10;        <br>&#10;        <a>Careful Study</a>&#10;        <br>&#10;        <a>Coat of Arms</a> (Eight Edition)<br><a>Corrupt</a><br><a>Goblin Welder</a><br><a>Incinerate</a> (Fifth Edition)<br><a>Mother of Runes</a><br><a>Oxidize</a><br><a>Pariah</a><br><a>Phyrexian Scuta</a><br><a>Pristine Angel</a><br><a>Rampant Growth</a><br><a>Rebel Informer</a><br><a>Rising Water</a><br><a>Shivan Wurm</a><br><a>Sickening Dreams</a><br><a>Solitary Confinement</a><br><a>Sylvan Scrying</a><br><a>Viridian Shaman</a></p>&#10;      <br>&#10;      <a name="2">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Saturday, Feb. 5: 3:34 pm - The Three Bye Metagame</b>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/85/61/8561e8b57364ff32891a8c54218927781c2b699e86d799c1eb8b86e20a649cf8.jpg">&#10;            <i>That's a lot of decklists.</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>While most players are out there slugging it out on the third round, sixty lucky players are kicking it back at the hotel or in the side events area. Their three free wins will sure come in handy on a nine-round day like today. So I took a deep breath and went through the huge decklist folder looking for their decklists.</p>&#10;      <p>Here's the the archetype breakdown for those players, apart from three lists that I couldn't seem to find. I clumped together some decks that might be a bit different (let's say Goblins with Black and straight-Red Goblins or Scepter-Chant and Scepter-Chant with Black).</p>&#10;      <p>Affinity: 3<br> Aluren: 2<br> Black-White: 1<br> Scepter-Chant: 2<br> Confinement: 2<br> Desire: 10<br> Dump Truck: 1<br> Elves: 1<br> Enchantress: 3<br> Goblins: 6<br> Life: 4<br> RDW: 9<br> Reanimator: 3<br> Rock: 5<br> UG: 3<br> WWu: 1<br> Welder-Reanimator: 1</p>&#10;      <p>More on that Welder-Reanimator deck later.</p>&#10;      <br>&#10;      <a name="3">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Saturday, Feb. 5: 9:23 pm - Gabe Walls, the Matchmaker</b>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/59/56/595603fccb896d689c8a1690b44f281dad737f821ec95a94af046846057b0bd3.jpg">&#10;            <i>Gabe Walls and his creation.</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Probably the most unusual decklist I saw so far certainly belongs to Gabe Walls. The veteran Pro Tour player took a page from a Columbus PTQ and brought mix of Welder.dec and... Reanimator.dec. First he uses <a>Careful Study</a> and <a>Intuition</a> to get the a huge monster into his graveyard and then <a>Reanimate</a>, <a>Goblin Welder</a> or <a>Exhume</a> bring in them to the playing area.</p>&#10;      <p>This plan allows him to bring in <a>Sundering Titan</a><a>Platinum Angel</a> or <a>Bosh, Iron Golem</a>. With the Welder he can keep things going... and if he starts recurring <a>Mindslaver</a>... you probably just want to scoop and save yourself any further beatings.</p>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;              <div></div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090603103957/http://www.wizards.com/magic/samplehand.asp?x=mtgevent/gpbost05/welcome&amp;decknum=1">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td colspan="2">&#10;                        <p>Main Deck</p>&#10;                        <p>59 cards&#10;                    </p>&#10;                      </td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>4 &#10;                      <a>City of Brass</a><br>2 &#10;                      <a>Great Furnace</a><br>3 &#10;                      <a>Seat of Synod</a><br>4 &#10;                      <a>Sulfurous Springs</a><br>4 &#10;                      <a>Underground River</a><br>3 &#10;                      <a>Vault of Whispers</a><br><hr>20 lands<br><br><br>2 &#10;                      <a>Bosh, Iron Golem</a><br>4 &#10;                      <a>Goblin Welder</a><br>4 &#10;                      <a>Platinum Angel</a><br>4 &#10;                      <a>Sundering Titan</a><br><hr>14 creatures</td>&#10;                      <td>3 &#10;                      <a>Cabal Therapy</a><br>4 &#10;                      <a>Careful Study</a><br>4 &#10;                      <a>Exhume</a><br>2 &#10;                      <a>Intuition</a><br>1 &#10;                      <a>Mindslaver</a><br>3 &#10;                      <a>Mox Diamond</a><br>4 &#10;                      <a>Reanimate</a><br>4 &#10;                      <a>Vampiric Tutor</a><br><hr>25 other spells</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td>&#10;                        <p>Sideboard</p>&#10;                        <p>&#10;                      </p></td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>1 &#10;                            <a>Cabal Therapy</a><br>3 &#10;                            <a>Gilded Drake</a><br>1 &#10;                            <a>Intuition</a><br>4 &#10;                            <a>Petradon</a><br>3 &#10;                            <a>Pyroclasm</a><br>2 &#10;                            <a>Shattering Pulse</a><br>1 &#10;                            <a>Show And Tell</a><br><hr>15 sideboard cards</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <br>&#10;      <a name="4">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Saturday, Feb. 5: 11:55 pm - The Undefeated Decks</b>&#10;      </li>&#10;      <p>Four players survived the first day with no losses. One of them - Osyp Lebedowicz - swept the nine rounds. He leads the field with 27 points. Here are the four undefeated decklists:</p>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Ty Dobbertin &#10;              </div>&#10;              <div></div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090603103949/http://www.wizards.com/magic/samplehand.asp?x=mtgevent/gpbost05/welcome&amp;decknum=2">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td colspan="2">&#10;                        <p>Main Deck</p>&#10;                        <p>60 cards&#10;                    </p>&#10;                      </td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>3 &#10;                      <a>Ancient Den</a><br>4 &#10;                      <a>Blinkmoth Nexus</a><br>3 &#10;                      <a>Darksteel Citadel</a><br>2 &#10;                      <a>Glimmervoid</a><br>4 &#10;                      <a>Seat of Synod</a><br>4 &#10;                      <a>Vault of Whispers</a><br><hr>20 lands<br><br><br>4 &#10;                      <a>Arcbound Ravager</a><br>4 &#10;                      <a>Arcbound Worker</a><br>4 &#10;                      <a>Disciple of the Vault</a><br>4 &#10;                      <a>Frogmite</a><br>4 &#10;                      <a>Myr Enforcer</a><br>1 &#10;                      <a>Myr Retriever</a><br><hr>21 creatures</td>&#10;                      <td>4 &#10;                      <a>Aether Vial</a><br>4 &#10;                      <a>Chromatic Sphere</a><br>3 &#10;                      <a>Cranial Plating</a><br>4 &#10;                      <a>Thoughtcast</a><br>4 &#10;                      <a>Welding Jar</a><br><hr>19 other spells</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td>&#10;                        <p>Sideboard</p>&#10;                        <p>&#10;                      </p></td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>4 &#10;                            <a>Chill</a><br>3 &#10;                            <a>Gilded Drake</a><br>4 &#10;                            <a>Meddling Mage</a><br>4 &#10;                            <a>Smother</a><br><hr>15 sideboard cards</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Vincent Chow &#10;              </div>&#10;              <div></div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090603104045/http://www.wizards.com/magic/samplehand.asp?x=mtgevent/gpbost05/welcome&amp;decknum=3">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td colspan="2">&#10;                        <p>Main Deck</p>&#10;                        <p>59 cards&#10;                    </p>&#10;                      </td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>2 &#10;                      <a>Barbarian Ring</a><br>4 &#10;                      <a>Bloodstained Mire</a><br>2 &#10;                      <a>Forest</a><br>6 &#10;                      <a>Mountain</a><br>3 &#10;                      <a>Wasteland</a><br>4 &#10;                      <a>Wooded Foothills</a><br><hr>21 lands<br><br><br>3 &#10;                      <a>Gempalm Incinerator</a><br>4 &#10;                      <a>Goblin Matron</a><br>4 &#10;                      <a>Goblin Piledriver</a><br>1 &#10;                      <a>Goblin Pyromancer</a><br>4 &#10;                      <a>Goblin Ringleader</a><br>2 &#10;                      <a>Goblin Sharpshooter</a><br>3 &#10;                      <a>Goblin Sledder</a><br>4 &#10;                      <a>Goblin Warchief</a><br>4 &#10;                      <a>Mogg Fanatic</a><br>1 &#10;                      <a>Siege-Gang Commander</a><br>3 &#10;                      <a>Skirk Prospector</a><br>1 &#10;                      <a>Sparksmith</a><br><hr>34 creatures</td>&#10;                      <td>3 &#10;                      <a>Chrome Mox</a><br>1 &#10;                      <a>Land Grant</a><br><hr>4 other spells</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td>&#10;                        <p>Sideboard</p>&#10;                        <p>&#10;                      </p></td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>1 &#10;                            <a>Artifact Mutation</a><br>1 &#10;                            <a>Crumbling Sanctuary</a><br>2 &#10;                            <a>Engineered Plague</a><br>4 &#10;                            <a>Ensnaring Bridge</a><br>1 &#10;                            <a>Gempalm Incinerator</a><br>2 &#10;                            <a>Grafted Wargear</a><br>4 &#10;                            <a>Naturalize</a><br><hr>15 sideboard cards</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Kenji Tsumura &#10;              </div>&#10;              <div></div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090603103952/http://www.wizards.com/magic/samplehand.asp?x=mtgevent/gpbost05/welcome&amp;decknum=4">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td colspan="2">&#10;                        <p>Main Deck</p>&#10;                        <p>61 cards&#10;                    </p>&#10;                      </td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>4 &#10;                      <a>Adarkar Wastes</a><br>4 &#10;                      <a>Flooded Strand</a><br>7 &#10;                      <a>Island</a><br>4 &#10;                      <a>Plains</a><br>2 &#10;                      <a>Shivan Reef</a><br>1 &#10;                      <a>Skycloud Expanse</a><br><hr>22 lands<br><br><br>2 &#10;                      <a>Exalted Angel</a><br><hr>2 creatures</td>&#10;                      <td>4 &#10;                      <a>Accumulated Knowledge</a><br>4 &#10;                      <a>Brainstorm</a><br>4 &#10;                      <a>Chrome Mox</a><br>4 &#10;                      <a>Counterspell</a><br>3 &#10;                      <a>Cunning Wish</a><br>3 &#10;                      <a>Fire/Ice</a><br>3 &#10;                      <a>Force Spike</a><br>2 &#10;                      <a>Intuition</a><br>4 &#10;                      <a>Isochron Scepter</a><br>3 &#10;                      <a>Mana Leak</a><br>3 &#10;                      <a>Orim's Chant</a><br><hr>37 other spells</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td>&#10;                        <p>Sideboard</p>&#10;                        <p>&#10;                      </p></td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>1 &#10;                            <a>Disenchant</a><br>1 &#10;                            <a>Echoing Truth</a><br>1 &#10;                            <a>Enlightened Tutor</a><br>1 &#10;                            <a>Exalted Angel</a><br>1 &#10;                            <a>Fire/Ice</a><br>1 &#10;                            <a>Forbid</a><br>1 &#10;                            <a>Intuition</a><br>1 &#10;                            <a>Last Breath</a><br>1 &#10;                            <a>Mana Leak</a><br>1 &#10;                            <a>Orim's Chant</a><br>3 &#10;                            <a>Powder Keg</a><br>1 &#10;                            <a>Pulse of the Fields</a><br>1 &#10;                            <a>Stroke of Genius</a><br><hr>15 sideboard cards</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Osyp Lebedowicz &#10;              </div>&#10;              <div></div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090603103957/http://www.wizards.com/magic/samplehand.asp?x=mtgevent/gpbost05/welcome&amp;decknum=5">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td colspan="2">&#10;                        <p>Main Deck</p>&#10;                        <p>60 cards&#10;                    </p>&#10;                      </td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>4 &#10;                      <a>Adarkar Wastes</a><br>4 &#10;                      <a>Flooded Strand</a><br>7 &#10;                      <a>Island</a><br>1 &#10;                      <a>Plains</a><br>1 &#10;                      <a>Polluted Delta</a><br><hr>17 lands<br><br><br>4 &#10;                      <a>Cloud of Faeries</a><br>3 &#10;                      <a>Sunscape Familiar</a><br><hr>7 creatures</td>&#10;                      <td>4 &#10;                      <a>Accumulated Knowledge</a><br>1 &#10;                      <a>Brain Freeze</a><br>4 &#10;                      <a>Brainstorm</a><br>4 &#10;                      <a>Chrome Mox</a><br>3 &#10;                      <a>Cunning Wish</a><br>2 &#10;                      <a>Deep Analysis</a><br>3 &#10;                      <a>Intuition</a><br>2 &#10;                      <a>Merchant Scroll</a><br>4 &#10;                      <a>Mind's Desire</a><br>4 &#10;                      <a>Sapphire Medallion</a><br>3 &#10;                      <a>Snap</a><br>2 &#10;                      <a>Turnabout</a><br><hr>36 other spells</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td>&#10;                        <p>Sideboard</p>&#10;                        <p>&#10;                      </p></td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>3 &#10;                            <a>Brain Freeze</a><br>2 &#10;                            <a>Echoing Truth</a><br>1 &#10;                            <a>Intuition</a><br>1 &#10;                            <a>Mana Leak</a><br>1 &#10;                            <a>Meditate</a><br>1 &#10;                            <a>Prismatic Strand</a><br>1 &#10;                            <a>Rebuild</a><br>1 &#10;                            <a>Snap</a><br>1 &#10;                            <a>Stiffle</a><br>1 &#10;                            <a>Stroke of Genius</a><br>2 &#10;                            <a>Turnabout</a><br><hr>15 sideboard cards</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <br>&#10;      <a name="5">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Saturday, Feb. 5: 11:59 pm - Judging Staff</b>&#10;      </li>&#10;      <p>Here they are, the few, the proud, the clearly insane. The &quot;zebras&quot; who held the tournament together during this first day, led by the Head Judge Bruno Barracosa. The scorekeeper is Reid Schmadeka, still alive after a full day of entering results.</p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://i.ormos.uk/18/5e/185ed681054123efaafc9f7bded0e5b819bae76a5f5c02eef8b82e4f3a47bd05.jpg">&#10;            <i>The wonderful judging staff!</i>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Bruno Barracosa - Head Judge<br> Scott Marshall<br> Toby Elliott<br> Eric Shukan<br> Suzy Life<br> James Searles<br> Ian Taylor<br> Michael Canu<br> Jeremy Smith<br> Evan Blake<br> Benjamin Klein<br> Gavin Duggan<br> Peter Cooper<br> Joe Davis<br> Martha Lufkin<br> James Benjamen<br> Nick Sabin<br> Greg Schwartz<br> Chris Dawns<br> Matt Stone<br> Justin Miso</p>&#10;      <br>&#10;      <a name="6">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, Feb. 6: 11:28 am - Day Two Metagame</b>&#10;      </li>&#10;      <p>Here's the metagame for the second day:</p>&#10;      <p>Goblins - 10<br> Life - 9<br> Desire - 7<br> Reanimator - 5<br> Aluren - 4<br> Scepter Chant - 4<br> Red Deck Wins - 4<br> UG - 4<br> Welder Reanimator - 3<br> Opposition - 3<br> Welder Control - 2<br> Affinity - 2<br> Rock - 2<br> Enchantress - 1<br> Blue-Red - 1<br> Green-Black-Red - 1<br> Braids - 1<br> UW Prison - 1<br> WW - 1</p>&#10;      <br>&#10;      <a name="7">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Sunday, Feb. 6: 11:37 am - Metagame Decks</b>&#10;      </li>&#10;      <p> While I was going through the Top 64 decklists to give you a metagame breakdown I came across several decks I found interesting. Maybe you already know them, but to me they seem like three curious metagame decks. </p>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Ben Dempsey &#10;              </div>&#10;              <div></div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090603104053/http://www.wizards.com/magic/samplehand.asp?x=mtgevent/gpbost05/welcome&amp;decknum=6">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td colspan="2">&#10;                        <p>Main Deck</p>&#10;                        <p>60 cards&#10;                    </p>&#10;                      </td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>4 &#10;                      <a>Adarkar Wastes</a><br>1 &#10;                      <a>Ancient Den</a><br>4 &#10;                      <a>Flooded Strand</a><br>6 &#10;                      <a>Island</a><br>7 &#10;                      <a>Plains</a><br>1 &#10;                      <a>Seat of Synod</a><br><hr>23 lands<br><br><br>3 &#10;                      <a>Exalted Angel</a><br>4 &#10;                      <a>Gilded Drake</a><br>4 &#10;                      <a>Meddling Mage</a><br>4 &#10;                      <a>Silver Knight</a><br>3 &#10;                      <a>Waterfront Bouncer</a><br><hr>18 creatures</td>&#10;                      <td>4 &#10;                      <a>Brainstorm</a><br>1 &#10;                      <a>Energy Flux</a><br>1 &#10;                      <a>Engineered Explosives</a><br>4 &#10;                      <a>Enlightened Tutor</a><br>1 &#10;                      <a>Parallax Tide</a><br>3 &#10;                      <a>Parallax Wave</a><br>4 &#10;                      <a>Stifle</a><br>1 &#10;                      <a>Worship</a><br><hr>19 other spells</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td>&#10;                        <p>Sideboard</p>&#10;                        <p>&#10;                      </p></td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>3 &#10;                            <a>Chill</a><br>2 &#10;                            <a>Energy Flux</a><br>2 &#10;                            <a>Engineered Explosives</a><br>1 &#10;                            <a>Meloku the Clouded Mirror</a><br>3 &#10;                            <a>Parallax Tide</a><br>1 &#10;                            <a>Parallax Wave</a><br>1 &#10;                            <a>Seal of Cleansing</a><br>1 &#10;                            <a>Seal of Removal</a><br>1 &#10;                            <a>Waterfront Bouncer</a><br><hr>15 sideboard cards</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Jesse Marczyk &#10;              </div>&#10;              <div></div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090603104010/http://www.wizards.com/magic/samplehand.asp?x=mtgevent/gpbost05/welcome&amp;decknum=7">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td colspan="2">&#10;                        <p>Main Deck</p>&#10;                        <p>60 cards&#10;                    </p>&#10;                      </td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>10 &#10;                      <a>Island</a><br>4 &#10;                      <a>Mountain</a><br>4 &#10;                      <a>Shivan Reef</a><br><hr>18 lands<br><br><br>4 &#10;                      <a>Cloud of Faeries</a><br>3 &#10;                      <a>Flametongue Kavu</a><br>4 &#10;                      <a>Grim Lavamancer</a><br>4 &#10;                      <a>Mogg Fanatic</a><br>3 &#10;                      <a>Spiketail Hatchling</a><br>4 &#10;                      <a>Voidmage Prodigy</a><br><hr>22 creatures</td>&#10;                      <td>4 &#10;                      <a>Aether Vial</a><br>4 &#10;                      <a>Daze</a><br>4 &#10;                      <a>Mana Leak</a><br>2 &#10;                      <a>Snap</a><br>3 &#10;                      <a>Standstill</a><br>3 &#10;                      <a>Sword of Fire and Ice</a><br><hr>20 other spells</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td>&#10;                        <p>Sideboard</p>&#10;                        <p>&#10;                      </p></td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>3 &#10;                            <a>Chill</a><br>3 &#10;                            <a>Cursed Totem</a><br>2 &#10;                            <a>Gilded Drake</a><br>3 &#10;                            <a>Stifle</a><br>3 &#10;                            <a>Submerge</a><br>1 &#10;                            <a>Sword of Fire and Ice</a><br><hr>15 sideboard cards</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Taylor Parnell &#10;              </div>&#10;              <div></div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090603104036/http://www.wizards.com/magic/samplehand.asp?x=mtgevent/gpbost05/welcome&amp;decknum=8">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td colspan="2">&#10;                        <p>Main Deck</p>&#10;                        <p>60 cards&#10;                    </p>&#10;                      </td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>20 &#10;                      <a>Swamp</a><br>1 &#10;                      <a>Volrath's Stronghold</a><br><hr>21 lands<br><br><br>4 &#10;                      <a>Braids, Cabal Minion</a><br>4 &#10;                      <a>Mesmeric Fiend</a><br>2 &#10;                      <a>Mortivore</a><br>2 &#10;                      <a>Phyrexian Rager</a><br>4 &#10;                      <a>Rotlung Reanimator</a><br>2 &#10;                      <a>Solemn Simulacrum</a><br>3 &#10;                      <a>Withered Wretch</a><br><hr>21 creatures</td>&#10;                      <td>4 &#10;                      <a>Cabal Therapy</a><br>3 &#10;                      <a>Chrome Mox</a><br>1 &#10;                      <a>Death Cloud</a><br>1 &#10;                      <a>Diabolic Edict</a><br>2 &#10;                      <a>Duress</a><br>1 &#10;                      <a>Engineered Plague</a><br>4 &#10;                      <a>Smother</a><br>2 &#10;                      <a>Vampiric Tutor</a><br><hr>18 other spells</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td>&#10;                        <p>Sideboard</p>&#10;                        <p>&#10;                      </p></td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>2 &#10;                            <a>Engineered Plague</a><br>4 &#10;                            <a>Faceless Butcher</a><br>1 &#10;                            <a>False Cure</a><br>4 &#10;                            <a>Kill Switch</a><br>1 &#10;                            <a>Perish</a><br>3 &#10;                            <a>Powder Keg</a><br><hr>15 sideboard cards</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <br>&#10;      <a name="8">&#10;        &#10;      </a>&#10;      <li>&#10;        <b>Saturday, Feb. 5: 4:01 pm - The Top 8 Decklists</b>&#10;      </li>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Osyp Lebedowicz &#10;              </div>&#10;              <div></div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090603104008/http://www.wizards.com/magic/samplehand.asp?x=mtgevent/gpbost05/welcome&amp;decknum=9">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td colspan="2">&#10;                        <p>Main Deck</p>&#10;                        <p>60 cards&#10;                    </p>&#10;                      </td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>4 &#10;                      <a>Adarkar Wastes</a><br>4 &#10;                      <a>Flooded Strand</a><br>7 &#10;                      <a>Island</a><br>1 &#10;                      <a>Plains</a><br>1 &#10;                      <a>Polluted Delta</a><br><hr>17 lands<br><br><br>4 &#10;                      <a>Cloud of Faeries</a><br>3 &#10;                      <a>Sunscape Familiar</a><br><hr>7 creatures</td>&#10;                      <td>4 &#10;                      <a>Accumulated Knowledge</a><br>1 &#10;                      <a>Brain Freeze</a><br>4 &#10;                      <a>Brainstorm</a><br>4 &#10;                      <a>Chrome Mox</a><br>3 &#10;                      <a>Cunning Wish</a><br>2 &#10;                      <a>Deep Analysis</a><br>3 &#10;                      <a>Intuition</a><br>2 &#10;                      <a>Merchant Scroll</a><br>4 &#10;                      <a>Mind's Desire</a><br>4 &#10;                      <a>Sapphire Medallion</a><br>3 &#10;                      <a>Snap</a><br>2 &#10;                      <a>Turnabout</a><br><hr>36 other spells</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td>&#10;                        <p>Sideboard</p>&#10;                        <p>&#10;                      </p></td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>3 &#10;                            <a>Brain Freeze</a><br>2 &#10;                            <a>Echoing Truth</a><br>1 &#10;                            <a>Intuition</a><br>1 &#10;                            <a>Mana Leak</a><br>1 &#10;                            <a>Meditate</a><br>1 &#10;                            <a>Prismatic Strand</a><br>1 &#10;                            <a>Rebuild</a><br>1 &#10;                            <a>Snap</a><br>1 &#10;                            <a>Stifle</a><br>1 &#10;                            <a>Stroke of Genius</a><br>2 &#10;                            <a>Turnabout</a><br><hr>15 sideboard cards</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Masahiko Morita &#10;              </div>&#10;              <div></div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090603103951/http://www.wizards.com/magic/samplehand.asp?x=mtgevent/gpbost05/welcome&amp;decknum=10">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td colspan="2">&#10;                        <p>Main Deck</p>&#10;                        <p>60 cards&#10;                    </p>&#10;                      </td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>4 &#10;                      <a>Brushland</a><br>4 &#10;                      <a>City of Brass</a><br>2 &#10;                      <a>Forest</a><br>6 &#10;                      <a>Plains</a><br>3 &#10;                      <a>Starlit Sanctum</a><br>4 &#10;                      <a>Windswept Heath</a><br><hr>23 lands<br><br><br>1 &#10;                      <a>Academy Rector</a><br>3 &#10;                      <a>Daru Spiritualist</a><br>1 &#10;                      <a>Devout Witness</a><br>1 &#10;                      <a>Monk Realist</a><br>3 &#10;                      <a>Nomads En-Kor</a><br>4 &#10;                      <a>Shaman En-Kor</a><br>4 &#10;                      <a>Task Force</a><br>1 &#10;                      <a>Uktabi Orangutan</a><br>1 &#10;                      <a>Wall of Blossoms</a><br><hr>19 creatures</td>&#10;                      <td>4 &#10;                      <a>Aether Vial</a><br>1 &#10;                      <a>Animal Boneyard</a><br>4 &#10;                      <a>Eladamri's Call</a><br>4 &#10;                      <a>Living Wish</a><br>1 &#10;                      <a>Test of Endurance</a><br>4 &#10;                      <a>Worthy Cause</a><br><hr>18 other spells</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td>&#10;                        <p>Sideboard</p>&#10;                        <p>&#10;                      </p></td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>1 &#10;                            <a>Academy Rector</a><br>1 &#10;                            <a>Daru Spiritualist</a><br>1 &#10;                            <a>Eternal Witness</a><br>1 &#10;                            <a>Genesis</a><br>2 &#10;                            <a>Gilded Drake</a><br>4 &#10;                            <a>Meddling Mage</a><br>1 &#10;                            <a>Monk Realist</a><br>1 &#10;                            <a>Nomads En-Kor</a><br>1 &#10;                            <a>Serra Avatar</a><br>1 &#10;                            <a>Starlit Sanctuim</a><br>1 &#10;                            <a>Viridian Shaman</a><br><hr>15 sideboard cards</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Keith McLaughlin &#10;              </div>&#10;              <div></div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090603104014/http://www.wizards.com/magic/samplehand.asp?x=mtgevent/gpbost05/welcome&amp;decknum=11">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td colspan="2">&#10;                        <p>Main Deck</p>&#10;                        <p>59 cards&#10;                    </p>&#10;                      </td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>3 &#10;                      <a>City of Brass</a><br>2 &#10;                      <a>Great Furnace</a><br>4 &#10;                      <a>Seat of Synod</a><br>2 &#10;                      <a>Shivan Reef</a><br>4 &#10;                      <a>Underground River</a><br>4 &#10;                      <a>Vault of Whispers</a><br><hr>19 lands<br><br><br>1 &#10;                      <a>Bosh, Iron Golem</a><br>4 &#10;                      <a>Goblin Welder</a><br>4 &#10;                      <a>Hapless Researcher</a><br>1 &#10;                      <a>Masticore</a><br>2 &#10;                      <a>Platinum Angel</a><br>4 &#10;                      <a>Sundering Titan</a><br><hr>16 creatures</td>&#10;                      <td>1 &#10;                      <a>Cabal Therapy</a><br>4 &#10;                      <a>Careful Study</a><br>2 &#10;                      <a>Chrome Mox</a><br>4 &#10;                      <a>Exhume</a><br>4 &#10;                      <a>Fire/Ice</a><br>4 &#10;                      <a>Intuition</a><br>3 &#10;                      <a>Reanimate</a><br>2 &#10;                      <a>Vampiric Tutor</a><br><hr>24 other spells</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td>&#10;                        <p>Sideboard</p>&#10;                        <p>&#10;                      </p></td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>1 &#10;                            <a>Chill</a><br>4 &#10;                            <a>Engineered Plague</a><br>1 &#10;                            <a>False Cure</a><br>2 &#10;                            <a>Gilded Drake</a><br>1 &#10;                            <a>Karn, Silver Golem</a><br>3 &#10;                            <a>Overload</a><br>3 &#10;                            <a>Stifle</a><br><hr>15 sideboard cards</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Benjamin Dempsey &#10;              </div>&#10;              <div></div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090603104035/http://www.wizards.com/magic/samplehand.asp?x=mtgevent/gpbost05/welcome&amp;decknum=12">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td colspan="2">&#10;                        <p>Main Deck</p>&#10;                        <p>60 cards&#10;                    </p>&#10;                      </td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>4 &#10;                      <a>Adarkar Wastes</a><br>1 &#10;                      <a>Ancient Den</a><br>4 &#10;                      <a>Flooded Strand</a><br>6 &#10;                      <a>Island</a><br>7 &#10;                      <a>Plains</a><br>1 &#10;                      <a>Seat of Synod</a><br><hr>23 lands<br><br><br>3 &#10;                      <a>Exalted Angel</a><br>4 &#10;                      <a>Gilded Drake</a><br>4 &#10;                      <a>Meddling Mage</a><br>4 &#10;                      <a>Silver Knight</a><br>3 &#10;                      <a>Waterfront Bouncer</a><br><hr>18 creatures</td>&#10;                      <td>4 &#10;                      <a>Brainstorm</a><br>1 &#10;                      <a>Energy Flux</a><br>1 &#10;                      <a>Engineered Explosives</a><br>4 &#10;                      <a>Enlightened Tutor</a><br>1 &#10;                      <a>Parallax Tide</a><br>3 &#10;                      <a>Parallax Wave</a><br>4 &#10;                      <a>Stifle</a><br>1 &#10;                      <a>Worship</a><br><hr>19 other spells</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td>&#10;                        <p>Sideboard</p>&#10;                        <p>&#10;                      </p></td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>3 &#10;                            <a>Chill</a><br>2 &#10;                            <a>Energy Flux</a><br>2 &#10;                            <a>Engineered Explosives</a><br>1 &#10;                            <a>Meloku the Clouded Mirror</a><br>3 &#10;                            <a>Parallax Tide</a><br>1 &#10;                            <a>Parallax Wave</a><br>1 &#10;                            <a>Seal of Cleansing</a><br>1 &#10;                            <a>Seal of Removal</a><br>1 &#10;                            <a>Waterfront Bouncer</a><br><hr>15 sideboard cards</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Anthony Impellizzieri &#10;              </div>&#10;              <div></div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090603103934/http://www.wizards.com/magic/samplehand.asp?x=mtgevent/gpbost05/welcome&amp;decknum=13">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td colspan="2">&#10;                        <p>Main Deck</p>&#10;                        <p>56 cards&#10;                    </p>&#10;                      </td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>4 &#10;                      <a>Caves of Koilos</a><br>4 &#10;                      <a>City of Brass</a><br>2 &#10;                      <a>Dromar's Cavern</a><br>3 &#10;                      <a>Plains</a><br>4 &#10;                      <a>Starlit Sanctum</a><br>1 &#10;                      <a>Volrath's Stronghold</a><br><hr>18 lands<br><br><br>4 &#10;                      <a>Daru Spiritualist</a><br>4 &#10;                      <a>Nomads En-Kor</a><br>3 &#10;                      <a>Shaman En-Kor</a><br>4 &#10;                      <a>Task Force</a><br>1 &#10;                      <a>Warrior En-Kor</a><br><hr>16 creatures</td>&#10;                      <td>4 &#10;                      <a>Aether Vial</a><br>4 &#10;                      <a>Cabal Therapy</a><br>2 &#10;                      <a>Chrome Mox</a><br>3 &#10;                      <a>Duress</a><br>1 &#10;                      <a>Unspeakable Symbol</a><br>4 &#10;                      <a>Vampiric Tutor</a><br>4 &#10;                      <a>Worthy Cause</a><br><hr>22 other spells</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td>&#10;                        <p>Sideboard</p>&#10;                        <p>&#10;                      </p></td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>1 &#10;                            <a>Cranial Extraction</a><br>1 &#10;                            <a>Devout Witness</a><br>2 &#10;                            <a>Disenchant</a><br>3 &#10;                            <a>Orim's Chant</a><br>4 &#10;                            <a>Phyrexian Negator</a><br>1 &#10;                            <a>Rule of Law</a><br>3 &#10;                            <a>Serenity</a><br><hr>15 sideboard cards</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Lucas Glavin &#10;              </div>&#10;              <div></div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090603104051/http://www.wizards.com/magic/samplehand.asp?x=mtgevent/gpbost05/welcome&amp;decknum=14">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td colspan="2">&#10;                        <p>Main Deck</p>&#10;                        <p>60 cards&#10;                    </p>&#10;                      </td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>1 &#10;                      <a>Adarkar Wastes</a><br>1 &#10;                      <a>Brushland</a><br>1 &#10;                      <a>Caves of Koilos</a><br>4 &#10;                      <a>City of Brass</a><br>4 &#10;                      <a>Forbidden Orchard</a><br>2 &#10;                      <a>Llanowar Wastes</a><br>2 &#10;                      <a>Starlit Sanctum</a><br>2 &#10;                      <a>Tarnished Citadel</a><br>1 &#10;                      <a>Underground River</a><br>1 &#10;                      <a>Yavimaya Coast</a><br><hr>19 lands<br><br><br>3 &#10;                      <a>Cephalid Illusionist</a><br>3 &#10;                      <a>Daru Spiritualist</a><br>1 &#10;                      <a>Korsan Cloudscraper</a><br>3 &#10;                      <a>Nomads En-Kor</a><br>1 &#10;                      <a>Shaman En-Kor</a><br>1 &#10;                      <a>Sutured Ghoul</a><br><hr>12 creatures</td>&#10;                      <td>4 &#10;                      <a>Aether Vial</a><br>4 &#10;                      <a>Brainstorm</a><br>3 &#10;                      <a>Cabal Therapy</a><br>2 &#10;                      <a>Chrome Mox</a><br>1 &#10;                      <a>Dragon Breath</a><br>1 &#10;                      <a>Exhume</a><br>1 &#10;                      <a>Krosan Reclamation</a><br>3 &#10;                      <a>Living Wish</a><br>1 &#10;                      <a>Reanimate</a><br>4 &#10;                      <a>Vampiric Tutor</a><br>4 &#10;                      <a>Worldly Tutor</a><br>1 &#10;                      <a>Worthy Cause</a><br><hr>29 other spells</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td>&#10;                        <p>Sideboard</p>&#10;                        <p>&#10;                      </p></td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>1 &#10;                            <a>Battlefield Scrounger</a><br>1 &#10;                            <a>Bone Shredder</a><br>1 &#10;                            <a>Cephalid Illusionist</a><br>1 &#10;                            <a>Daru Spiritualist</a><br>1 &#10;                            <a>Dragon Shadow</a><br>1 &#10;                            <a>Energy Field</a><br>1 &#10;                            <a>Forsaken City</a><br>2 &#10;                            <a>Gilded Drake</a><br>2 &#10;                            <a>Kami of Ancient Law</a><br>1 &#10;                            <a>Nomads En-Kor</a><br>1 &#10;                            <a>Rootwater Thief</a><br>1 &#10;                            <a>Starlit Sanctum</a><br>1 &#10;                            <a>Uktabi Orangantun</a><br><hr>15 sideboard cards</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Daniel O'Mahoney-Schwartz &#10;              </div>&#10;              <div></div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090603104030/http://www.wizards.com/magic/samplehand.asp?x=mtgevent/gpbost05/welcome&amp;decknum=15">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td colspan="2">&#10;                        <p>Main Deck</p>&#10;                        <p>60 cards&#10;                    </p>&#10;                      </td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>7 &#10;                      <a>Forest</a><br>9 &#10;                      <a>Island</a><br>4 &#10;                      <a>Yavimaya Coast</a><br><hr>20 lands<br><br><br>4 &#10;                      <a>Aquamoeba</a><br>4 &#10;                      <a>Arrogant Wurm</a><br>4 &#10;                      <a>Basking Rootwalla</a><br>1 &#10;                      <a>Waterfront Bouncer</a><br>4 &#10;                      <a>Wild Mongrel</a><br>2 &#10;                      <a>Wonder</a><br><hr>19 creatures</td>&#10;                      <td>4 &#10;                      <a>Careful Study</a><br>2 &#10;                      <a>Chrome Mox</a><br>4 &#10;                      <a>Circular Logic</a><br>3 &#10;                      <a>Daze</a><br>2 &#10;                      <a>Deep Analysis</a><br>2 &#10;                      <a>Intuition</a><br>2 &#10;                      <a>Roar of the Wurm</a><br>1 &#10;                      <a>Rushing River</a><br>1 &#10;                      <a>Worldly Tutor</a><br><hr>21 other spells</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td>&#10;                        <p>Sideboard</p>&#10;                        <p>&#10;                      </p></td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>4 &#10;                            <a>Chill</a><br>1 &#10;                            <a>Genesis</a><br>2 &#10;                            <a>Gilded Drake</a><br>3 &#10;                            <a>Oxidize</a><br>3 &#10;                            <a>Powder Keg</a><br>1 &#10;                            <a>Rushing River</a><br>1 &#10;                            <a>Waterfront Bouncer</a><br><hr>15 sideboard cards</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <div>&#10;        <div>&#10;          <div>&#10;            <div>&#10;              <div>&#10;                Masashi Oiso &#10;              </div>&#10;              <div></div>&#10;            </div>&#10;            <div>&#10;              <a href="https://web.archive.org/web/20090603104115/http://www.wizards.com/magic/samplehand.asp?x=mtgevent/gpbost05/welcome&amp;decknum=16">&#10;                <img alt="View a sample hand of this deck" src="https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png">&#10;              </a>&#10;            </div>&#10;            <br>&#10;          </div>&#10;        </div>&#10;        <div>&#10;          <div>&#10;            <table>&#10;              <tbody><tr>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td colspan="2">&#10;                        <p>Main Deck</p>&#10;                        <p>60 cards&#10;                    </p>&#10;                      </td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>4 &#10;                      <a>City of Brass</a><br>4 &#10;                      <a>Havenwood Battleground</a><br>2 &#10;                      <a>Island</a><br>4 &#10;                      <a>Llanowar Wastes</a><br>3 &#10;                      <a>Polluted Delta</a><br>1 &#10;                      <a>Reflecting Pool</a><br>2 &#10;                      <a>Swamp</a><br>2 &#10;                      <a>Yavimaya Coast</a><br><hr>22 lands<br><br><br>1 &#10;                      <a>Auriok Champion</a><br>4 &#10;                      <a>Birds of Paradise</a><br>3 &#10;                      <a>Cavern Harpy</a><br>1 &#10;                      <a>Cloud of Faeries</a><br>1 &#10;                      <a>Eternal Witness</a><br>3 &#10;                      <a>Raven Familiar</a><br>4 &#10;                      <a>Wall of Blossoms</a><br><hr>17 creatures</td>&#10;                      <td>4 &#10;                      <a>Aluren</a><br>4 &#10;                      <a>Brainstorm</a><br>4 &#10;                      <a>Cabal Therapy</a><br>1 &#10;                      <a>Chrome Mox</a><br>2 &#10;                      <a>Intuition</a><br>3 &#10;                      <a>Living Wish</a><br>3 &#10;                      <a>Vampiric Tutor</a><br><hr>21 other spells</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;                <td>&#10;                  <table>&#10;                    <tbody><tr>&#10;                      <td>&#10;                        <p>Sideboard</p>&#10;                        <p>&#10;                      </p></td>&#10;                    </tr>&#10;                    <tr>&#10;                      <td>1 &#10;                            <a>Auriok Champion</a><br>1 &#10;                            <a>Bone Shredder</a><br>1 &#10;                            <a>Cavern Harpy</a><br>1 &#10;                            <a>Eternal Witness</a><br>1 &#10;                            <a>Gilded Drake</a><br>1 &#10;                            <a>Maggot Carrier</a><br>3 &#10;                            <a>Naturalize</a><br>3 &#10;                            <a>Pernicious Deed</a><br>1 &#10;                            <a>Raven Familiar</a><br>1 &#10;                            <a>Stern Proctor</a><br>1 &#10;                            <a>Volrath's Stronghold</a><br><hr>15 sideboard cards</td>&#10;                    </tr>&#10;                  </tbody></table>&#10;                </td>&#10;              </tr>&#10;            </tbody></table>&#10;            <br>&#10;          </div>&#10;        </div>&#10;      </div>&#10;      <br>&#10;      <br>&#10;    </div></td>&#10;  </tr>&#10;</tbody></table>

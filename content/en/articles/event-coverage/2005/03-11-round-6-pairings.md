@@ -1,0 +1,47 @@
+---
+id: dzb458ny
+kind: event
+lang: en
+path: /en/articles/event-coverage/2005/03-11-round-6-pairings
+title: Round 6 Pairings
+published: '2005-03-11'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-6-pairings-2005-03-11
+    lang_detected: en
+    capture_id: 553478
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-6-pairings-2005-03-11
+    captured_at: '2022-01-20 15:29:41+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-6-pairings-2005-03-11
+    lang_detected: en
+    capture_id: 553478
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-6-pairings-2005-03-11
+    captured_at: '2022-01-20 15:29:41+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: dzb458ny
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-6-pairings-2005-03-11
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/round-6-pairings-2005-03-11
+  lang: en
+  template: drupal
+  captured_at: '2022-01-20 15:29:41+00'
+  capture_id: 553478
+  wayback_url: https://web.archive.org/web/20220120152941id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-6-pairings-2005-03-11
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: dzb458ny
+  capture_id: 553478
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-6-pairings-2005-03-11
+  wayback_url: https://web.archive.org/web/20220120152941id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-6-pairings-2005-03-11
+  captured_at: '2022-01-20 15:29:41+00'
+  template: drupal
+  sha256: fc981691b2a14fd52ebb7739416d8f66f43b7ff7558f2483117a2f23c30e770f
+render_recovery: []
+---
+<table><tbody><tr><td> </td>&#10;&#10;			<td><b>Team</b></td>&#10;			<td><b>Points</b></td>&#10;			<td> </td>&#10;			<td><b>Opponent</b></td>&#10;			<td><b>Points</b></td>&#10;		</tr><tr><td>1</td>&#10;			<td>Paul Jordan LOL</td>&#10;			<td>15</td>&#10;			<td>vs</td>&#10;			<td>Boat</td>&#10;			<td>15</td>&#10;		</tr><tr><td>2</td>&#10;			<td>No Links</td>&#10;			<td>15</td>&#10;			<td>vs</td>&#10;			<td>Les baltringues de Ludipia</td>&#10;			<td>13</td>&#10;		</tr><tr><td>3</td>&#10;			<td>Roel hou je smoel</td>&#10;			<td>12</td>&#10;			<td>vs</td>&#10;			<td>V.S.</td>&#10;			<td>12</td>&#10;		</tr><tr><td>4</td>&#10;			<td>Gatas Brilhantes</td>&#10;			<td>12</td>&#10;			<td>vs</td>&#10;			<td>Muerte y destruccion</td>&#10;			<td>12</td>&#10;		</tr><tr><td>5</td>&#10;			<td>Hired Muscle</td>&#10;			<td>12</td>&#10;			<td>vs</td>&#10;			<td>Chris Jarmak</td>&#10;			<td>12</td>&#10;		</tr><tr><td>6</td>&#10;			<td>The Rhinettes</td>&#10;			<td>12</td>&#10;			<td>vs</td>&#10;			<td>von Dutch</td>&#10;			<td>12</td>&#10;		</tr><tr><td>7</td>&#10;			<td>Rosholmarfartillallabarns</td>&#10;			<td>12</td>&#10;			<td>vs</td>&#10;			<td>One Spin</td>&#10;			<td>12</td>&#10;		</tr><tr><td>8</td>&#10;			<td>Shermans March</td>&#10;			<td>12</td>&#10;			<td>vs</td>&#10;			<td>Last Minute</td>&#10;			<td>12</td>&#10;		</tr><tr><td>9</td>&#10;			<td>Shonichide Pon</td>&#10;			<td>12</td>&#10;			<td>vs</td>&#10;			<td>Squads, Packs, Souls…</td>&#10;			<td>12</td>&#10;		</tr><tr><td>10</td>&#10;			<td>We Add</td>&#10;			<td>12</td>&#10;			<td>vs</td>&#10;			<td>Desperate Ritual Seething So</td>&#10;			<td>12</td>&#10;		</tr><tr><td>11</td>&#10;			<td>Outta Left Field</td>&#10;			<td>12</td>&#10;			<td>vs</td>&#10;			<td>GG Unit</td>&#10;			<td>10</td>&#10;		</tr><tr><td>12</td>&#10;			<td>Lord Miguel De La Cippa</td>&#10;			<td>10</td>&#10;			<td>vs</td>&#10;			<td>Stardust Boys</td>&#10;			<td>10</td>&#10;		</tr><tr><td>13</td>&#10;			<td>Chicken Ranch</td>&#10;			<td>10</td>&#10;			<td>vs</td>&#10;			<td>3 Card Monty</td>&#10;			<td>9</td>&#10;		</tr><tr><td>14</td>&#10;			<td>Ligers</td>&#10;			<td>9</td>&#10;			<td>vs</td>&#10;			<td>Chimera</td>&#10;			<td>9</td>&#10;		</tr><tr><td>15</td>&#10;			<td>Daves the Boss</td>&#10;			<td>9</td>&#10;			<td>vs</td>&#10;			<td>Bold Calimero Sisters</td>&#10;			<td>9</td>&#10;		</tr><tr><td>16</td>&#10;			<td>Gee Squared</td>&#10;			<td>9</td>&#10;			<td>vs</td>&#10;			<td>He's Not Our Dad</td>&#10;			<td>9</td>&#10;		</tr><tr><td>17</td>&#10;			<td>Les Pantins Cariou</td>&#10;			<td>9</td>&#10;			<td>vs</td>&#10;			<td>Unsponsored</td>&#10;			<td>9</td>&#10;		</tr><tr><td>18</td>&#10;			<td>N.A.I.</td>&#10;			<td>9</td>&#10;			<td>vs</td>&#10;			<td>The Mark Zadjner All-Stars</td>&#10;			<td>9</td>&#10;		</tr><tr><td>19</td>&#10;			<td>I Magnifici</td>&#10;			<td>9</td>&#10;			<td>vs</td>&#10;			<td>Team to Beat</td>&#10;			<td>9</td>&#10;		</tr><tr><td>20</td>&#10;			<td>Snert</td>&#10;			<td>9</td>&#10;			<td>vs</td>&#10;			<td>Thaaaat's Me</td>&#10;			<td>9</td>&#10;		</tr><tr><td>21</td>&#10;			<td>Lab Who</td>&#10;			<td>9</td>&#10;			<td>vs</td>&#10;			<td>Top Set</td>&#10;			<td>9</td>&#10;		</tr><tr><td>22</td>&#10;			<td>Albuquerque Isotopes</td>&#10;			<td>9</td>&#10;			<td>vs</td>&#10;			<td><a href="http://www.cardshark.com/">www.cardshark.com</a></td>&#10;			<td>9</td>&#10;		</tr><tr><td>23</td>&#10;			<td>$mir</td>&#10;			<td>9</td>&#10;			<td>vs</td>&#10;			<td>Free Yayo</td>&#10;			<td>9</td>&#10;		</tr><tr><td>24</td>&#10;			<td>The Dendrologists</td>&#10;			<td>9</td>&#10;			<td>vs</td>&#10;			<td>Nova</td>&#10;			<td>9</td>&#10;		</tr><tr><td>25</td>&#10;			<td>Big-Tyming w/ A.DeRosa</td>&#10;			<td>9</td>&#10;			<td>vs</td>&#10;			<td>Bury team</td>&#10;			<td>9</td>&#10;		</tr><tr><td>26</td>&#10;			<td>Rock Paper Scissors</td>&#10;			<td>9</td>&#10;			<td>vs</td>&#10;			<td>Team Work with Josh</td>&#10;			<td>9</td>&#10;		</tr><tr><td>27</td>&#10;			<td>Richadillyotch</td>&#10;			<td>9</td>&#10;			<td>vs</td>&#10;			<td>The Real Deal</td>&#10;			<td>9</td>&#10;		</tr><tr><td>28</td>&#10;			<td>N.F.C.</td>&#10;			<td>9</td>&#10;			<td>vs</td>&#10;			<td>Pro Castle Team</td>&#10;			<td>9</td>&#10;		</tr><tr><td>29</td>&#10;			<td>Agence Touristes</td>&#10;			<td>7</td>&#10;			<td>vs</td>&#10;			<td>SUPER-STOMPINATORS OF INVINC</td>&#10;			<td>7</td>&#10;		</tr><tr><td>30</td>&#10;			<td>Succession</td>&#10;			<td>7</td>&#10;			<td>vs</td>&#10;			<td>Amigos del Cole</td>&#10;			<td>7</td>&#10;		</tr><tr><td>31</td>&#10;			<td>Hamburg Hammelpristers</td>&#10;			<td>7</td>&#10;			<td>vs</td>&#10;			<td>LNT Super Dario Bros.</td>&#10;			<td>7</td>&#10;		</tr><tr><td>32</td>&#10;			<td>RIW Redux</td>&#10;			<td>6</td>&#10;			<td>vs</td>&#10;			<td>Fbi</td>&#10;			<td>6</td>&#10;		</tr><tr><td>33</td>&#10;			<td>Panda Foundation</td>&#10;			<td>6</td>&#10;			<td>vs</td>&#10;			<td>Marc H</td>&#10;			<td>6</td>&#10;		</tr><tr><td>34</td>&#10;			<td>Pocket Rockets</td>&#10;			<td>6</td>&#10;			<td>vs</td>&#10;			<td>Scrubicus</td>&#10;			<td>6</td>&#10;		</tr><tr><td>35</td>&#10;			<td>The Good The Bad &amp; The Ugly</td>&#10;			<td>6</td>&#10;			<td>vs</td>&#10;			<td><a href="http://www.outpost-gamecenter.be/">www.outpost-gamecenter.be</a></td>&#10;			<td>6</td>&#10;		</tr><tr><td>36</td>&#10;			<td>Valencia Yuca</td>&#10;			<td>6</td>&#10;			<td>vs</td>&#10;			<td>Grandad's Day Out</td>&#10;			<td>6</td>&#10;		</tr><tr><td>37</td>&#10;			<td>152 Snow Ninjas</td>&#10;			<td>6</td>&#10;			<td>vs</td>&#10;			<td>Kleenix Foundation</td>&#10;			<td>6</td>&#10;		</tr><tr><td>38</td>&#10;			<td>The Gee-Bees</td>&#10;			<td>6</td>&#10;			<td>vs</td>&#10;			<td>Aes Sedai</td>&#10;			<td>6</td>&#10;		</tr><tr><td>39</td>&#10;			<td>I Blame Bung</td>&#10;			<td>6</td>&#10;			<td>vs</td>&#10;			<td>KV Deckmasters III</td>&#10;			<td>6</td>&#10;		</tr><tr><td>40</td>&#10;			<td>CMA Darmstadt V1.30</td>&#10;			<td>6</td>&#10;			<td>vs</td>&#10;			<td>Static Posse</td>&#10;			<td>6</td>&#10;		</tr><tr><td>41</td>&#10;			<td>Cosmopolis</td>&#10;			<td>6</td>&#10;			<td>vs</td>&#10;			<td>SOH-SOH-(AND) THE PUNISHER</td>&#10;			<td>6</td>&#10;		</tr><tr><td>42</td>&#10;			<td>Illuminati</td>&#10;			<td>6</td>&#10;			<td>vs</td>&#10;			<td>Mammoth Teikoku</td>&#10;			<td>3</td>&#10;		</tr><tr><td>43</td>&#10;			<td>Veggie Check</td>&#10;			<td>3</td>&#10;			<td>vs</td>&#10;			<td>Corbett &amp; Sons</td>&#10;			<td>3</td>&#10;		</tr><tr><td>44</td>&#10;			<td>Jass Power</td>&#10;			<td>3</td>&#10;			<td>vs</td>&#10;			<td>Mannheim Dragons</td>&#10;			<td>3</td>&#10;		</tr><tr><td> </td>&#10;			<td>Team Kwan</td>&#10;			<td>0</td>&#10;			<td> </td>&#10;			<td>* BYE *</td>&#10;		</tr></tbody></table>

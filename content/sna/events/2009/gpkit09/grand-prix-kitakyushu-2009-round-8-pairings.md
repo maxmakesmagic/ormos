@@ -1,0 +1,63 @@
+---
+id: 5xenfpr7
+kind: event
+lang: sna
+path: /sna/events/2009/gpkit09/grand-prix-kitakyushu-2009-round-8-pairings
+title: 'Grand Prix Kitakyushu 2009: Round 8 Pairings'
+published: '2009-10-24'
+column_slug: null
+column: null
+authors: []
+event_code: gpkit09
+detected_lang: sna
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-kitakyushu-2009-round-8-pairings-2009-10-24
+    lang_detected: sna
+    capture_id: 403765
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-kitakyushu-2009-round-8-pairings-2009-10-24
+    captured_at: '2022-01-25 01:25:49+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-kitakyushu-2009-round-8-pairings-2009-10-24
+    lang_detected: sna
+    capture_id: 403765
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-kitakyushu-2009-round-8-pairings-2009-10-24
+    captured_at: '2022-01-25 01:25:49+00'
+    rule: drupal.posted_in_date
+  event_code:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gpkit09/pair8
+    lang_detected: sna
+    capture_id: 431218
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gpkit09/pair8
+    captured_at: '2013-07-03 01:04:58+00'
+    rule: url.event_code
+sources:
+- document_id: 5xenfpr7
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-kitakyushu-2009-round-8-pairings-2009-10-24
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-kitakyushu-2009-round-8-pairings-2009-10-24
+  lang: sna
+  template: drupal
+  captured_at: '2022-01-25 01:25:49+00'
+  capture_id: 403765
+  wayback_url: https://web.archive.org/web/20220125012549id_/https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-kitakyushu-2009-round-8-pairings-2009-10-24
+- document_id: 5xenfpr7
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gpkit09/pair8
+  page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gpkit09/pair8
+  lang: sna
+  template: aspx
+  captured_at: '2013-07-03 01:04:58+00'
+  capture_id: 431218
+  wayback_url: https://web.archive.org/web/20130703010458id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gpkit09/pair8
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 5xenfpr7
+  capture_id: 403765
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-kitakyushu-2009-round-8-pairings-2009-10-24
+  wayback_url: https://web.archive.org/web/20220125012549id_/https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-kitakyushu-2009-round-8-pairings-2009-10-24
+  captured_at: '2022-01-25 01:25:49+00'
+  template: drupal
+  sha256: 531e1a2db222def5b59836b7d46332e60090d3b88ce7a1fe3a8418154a10afeb
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Points</b></td><td><b>&#10;						</b></td><td><b>Opponent</b></td><td><b>Points</b></td></tr><tr><td> 1</td><td>Oiso, Masashi</td><td>vs.</td><td>Asahara, Akira</td></tr><tr><td> 2</td><td>Shimizu, Naoki</td><td>vs.</td><td>Iyanaga, Jun'ya</td></tr><tr><td> 3</td><td>Kawada, Chihiro</td><td>vs.</td><td>Watanabe, Yuuya</td></tr><tr><td> 4</td><td>Ishii, Taisuke</td><td>vs.</td><td>Nakamura, Hajime</td></tr><tr><td> 5</td><td>Yukuhiro, Ken</td><td>vs.</td><td>Yamamoto, Akimasa</td></tr><tr><td> 6</td><td>Imura, Satoshi</td><td>vs.</td><td>Ikawa, Yoshihiko</td></tr><tr><td> 7</td><td>Hirashima, Yuutarou</td><td>vs.</td><td>Fujita, Tsuyoshi</td></tr><tr><td> 8</td><td>Kubouchi, Naoki</td><td>vs.</td><td>Ishimaru, Ken</td></tr><tr><td> 9</td><td>Oosaka, Yuusuke</td><td>vs.</td><td>Ikeda, Tsuyoshi</td></tr><tr><td> 10</td><td>Suzuki, Takaaki</td><td>vs.</td><td>Takagi, Takayuki</td></tr><tr><td> 11</td><td>Saitou, Tomoharu</td><td>vs.</td><td>Yamano, Tomoya</td></tr><tr><td> 12</td><td>Aono, Yoshio</td><td>vs.</td><td>Momiki, Hayami</td></tr><tr><td> 13</td><td>Mori, Katsuhiro</td><td>vs.</td><td>Yasooka, Shouta</td></tr><tr><td> 14</td><td>Kurihara, Shingou</td><td>vs.</td><td>Ueda, Katsuya</td></tr><tr><td> 15</td><td>Shiraishi, Tomomi</td><td>vs.</td><td>Ozawa, Takeshi</td></tr><tr><td> 16</td><td>Sugaya, Hironobu</td><td>vs.</td><td>Black, Samuel H</td></tr><tr><td> 17</td><td>Seki, Keita</td><td>vs.</td><td>Imai, Hideaki</td></tr><tr><td> 18</td><td>Kitazono, Kensuke</td><td>vs.</td><td>Okamoto, Jin</td></tr><tr><td> 19</td><td>Dan, Takuya</td><td>vs.</td><td>Shiraishi, Hiroaki</td></tr><tr><td> 20</td><td>Vidugiris, Gaudenis</td><td>vs.</td><td>Juza, Martin</td></tr><tr><td> 21</td><td>Aritaka, Ryouichi</td><td>vs.</td><td>Kotouge, Tatsuya</td></tr><tr><td> 22</td><td>Kuroda, Masashiro</td><td>vs.</td><td>Yasuda, Masayuki</td></tr><tr><td> 23</td><td>Kawanaka, Yoshiaki</td><td>vs.</td><td>Yamada, Yasushi</td></tr><tr><td> 24</td><td>Kitayama, Masaya</td><td>vs.</td><td>Shibuya, Takuma</td></tr><tr><td> 25</td><td>Chen, Liang</td><td>vs.</td><td>Aka, shunsuke</td></tr><tr><td> 26</td><td>Wachi, Shin'ya</td><td>vs.</td><td>Sugita, Toshihiko</td></tr><tr><td> 27</td><td>Yao, Shunsuke</td><td>vs.</td><td>Nitta, Kazuta</td></tr><tr><td> 28</td><td>Motoyama, Kazuhiko</td><td>vs.</td><td>Nakano, Yoshitaka</td></tr><tr><td> 29</td><td>Kawashima, Yuuki</td><td>vs.</td><td>Kyo, Ifu</td></tr><tr><td> 30</td><td>arakawa, yasuaki</td><td>vs.</td><td>Mihara, Makihito</td></tr><tr><td> 31</td><td>Yasufuku, Akihiro</td><td>vs.</td><td>ARYABHIMA, RAHMAN A</td></tr><tr><td> 32</td><td>Kamei, Shunsuke</td><td>vs.</td><td>Ogura, Ryou</td></tr><tr><td> 33</td><td>Harada, Toshiyuki</td><td>vs.</td><td>Ouchi, Akimasa</td></tr><tr><td> 34</td><td>Takagi, Takeshi</td><td>vs.</td><td>Morita, Masahiko</td></tr><tr><td> 35</td><td>Nishiwaki, Akito</td><td>vs.</td><td>Kawano, Jun'ya</td></tr><tr><td> 36</td><td>Kim, Min-su (Japan)</td><td>vs.</td><td>Hirayama, Atsushi</td></tr><tr><td> 37</td><td>Kurihara, Tomo</td><td>vs.</td><td>Kawate, Junpei</td></tr><tr><td> 38</td><td>Furutate, Mikihiko</td><td>vs.</td><td>Juumonji, Ryou</td></tr><tr><td> 39</td><td>Hirabayashi, Kazuya</td><td>vs.</td><td>Umeno, Kengo</td></tr><tr><td> 40</td><td>Saitou, Kazuya</td><td>vs.</td><td>Kikuchi, Yuuji</td></tr><tr><td> 41</td><td>Okabayashi, Masanao</td><td>vs.</td><td>Ootsuka, Koutarou</td></tr><tr><td> 42</td><td>Kodama, Hironori</td><td>vs.</td><td>Katayama, Hidenori</td></tr><tr><td> 43</td><td>Kanegawa, Toshiya</td><td>vs.</td><td>Matousek, Pavel</td></tr><tr><td> 44</td><td>Fujimoto, Yousuke</td><td>vs.</td><td>Komuro, Shuu</td></tr><tr><td> 45</td><td>Ueda, Sunao</td><td>vs.</td><td>Arai, Ken'ichirou</td></tr><tr><td> 46</td><td>Osawa, Takuya</td><td>vs.</td><td>Minami, Masashi</td></tr><tr><td> 47</td><td>Tanaka, Ryohei</td><td>vs.</td><td>Senba, Koutarou</td></tr><tr><td> 48</td><td>Neigel, Barrett</td><td>vs.</td><td>Nakamura, Atsushi</td></tr><tr><td> 49</td><td>Ishii, Hayato</td><td>vs.</td><td>Matsuyama, Satoshi</td></tr><tr><td> 50</td><td>Koshiba, Norihiko</td><td>vs.</td><td>Saitou, Takaya</td></tr><tr><td> 51</td><td>Suzuki, Ryuuichi</td><td>vs.</td><td>Kamizono, Naoki</td></tr><tr><td> 52</td><td>Hassaku, Jinpei</td><td>vs.</td><td>Kumoura, Daisuke</td></tr><tr><td> 53</td><td>Tanaka, Hisaya</td><td>vs.</td><td>Nakamura, Jun'ya</td></tr><tr><td> 54</td><td>Akaike, You</td><td>vs.</td><td>hayashi, shota</td></tr><tr><td> 55</td><td>Kitahara, Hiroaki</td><td>vs.</td><td>Shiroza, Shinichiro</td></tr><tr><td> 56</td><td>Sawada, Ken</td><td>vs.</td><td>Ogawa, Hikaru</td></tr><tr><td> 57</td><td>Kubo, Ryoutarou</td><td>vs.</td><td>Iritani, Ken'ichi</td></tr><tr><td> 58</td><td>Kuniyoshi, Yasuhiro</td><td>vs.</td><td>Yanaseko, Kentarou</td></tr><tr><td> 59</td><td>Morita, Kouki</td><td>vs.</td><td>Nakamura, Yuusuke</td></tr><tr><td> 60</td><td>Lee, Sung-Bum</td><td>vs.</td><td>Katayama, Takahiro</td></tr><tr><td> 61</td><td>Minoshima, Takenori</td><td>vs.</td><td>Yamashita, Hidetoshi</td></tr><tr><td> 62</td><td>Sawade, Makoto</td><td>vs.</td><td>Sasaki, Yuusuke (TO)</td></tr><tr><td> 63</td><td>Narumiya, Ryuuma</td><td>vs.</td><td>Yamamoto, Daichi</td></tr><tr><td> 64</td><td>Shiozu, Ryouma</td><td>vs.</td><td>Kai, Tsubasa</td></tr><tr><td> 65</td><td>Yoshinaga, Mitsuteru</td><td>vs.</td><td>Satou, Takatoshi</td></tr><tr><td> 66</td><td>Yamamoto, Kentarou</td><td>vs.</td><td>moriya, jun</td></tr><tr><td> 67</td><td>Sasahara, Yasufumi</td><td>vs.</td><td>Sumikawa, Youhei</td></tr><tr><td> 68</td><td>Tsuruta, Takayuki</td><td>vs.</td><td>Hasegawa, Tsuyoshi</td></tr><tr><td> 69</td><td>Kim, Cynic</td><td>vs.</td><td>Yamada, Ryuuichirou</td></tr><tr><td> 70</td><td>Nakajima, Chikara</td><td>vs.</td><td>Kobayashi, Masanori</td></tr><tr><td> 71</td><td>Inoue, Shinta</td><td>vs.</td><td>Uchida, Momotarou</td></tr><tr><td> 72</td><td>Kudou, Kouichi</td><td>vs.</td><td>Miyaoka, Hiroyuki</td></tr><tr><td> 73</td><td>Kobayashi, Takahito</td><td>vs.</td><td>Yashiki, Kouichi</td></tr><tr><td> 74</td><td>Saitou, Tomoya</td><td>vs.</td><td>Hagiwara, Genta</td></tr><tr><td> 75</td><td>Inoue, Toru</td><td>vs.</td><td>Sakamoto, Takurou</td></tr><tr><td> 76</td><td>Tang, Ronald</td><td>vs.</td><td>Tashiro, Yoshiaki</td></tr><tr><td> 77</td><td>Sakaguchi, Naoki</td><td>vs.</td><td>Juumonji, Tarou</td></tr><tr><td> 78</td><td>sakamoto, yuki</td><td>vs.</td><td>Iino, Ryuji</td></tr><tr><td> 79</td><td>yamaguchi, tetuya</td><td>vs.</td><td>Hayashi, Hiroki</td></tr><tr><td> 80</td><td>Taira, Shun'ichi</td><td>vs.</td><td>kimura, kazuaki</td></tr><tr><td> 81</td><td>Matsumura, Takehiko</td><td>vs.</td><td>Fukushige, Hirofumi</td></tr><tr><td> 82</td><td>Kawakami, Hiroshi</td><td>vs.</td><td>Inanaga, Nobuyuki</td></tr><tr><td> 83</td><td>Ruel, Olivier</td><td>vs.</td><td>Takakura, Takeshi</td></tr><tr><td> 84</td><td>Yamamoto, Kazuhide</td><td>vs.</td><td>Hibino, Yasutaka</td></tr><tr><td> 85</td><td>Kimura, Shigeki</td><td>vs.</td><td>Fukushige, Masanori</td></tr><tr><td> 86</td><td>Kataoka, Asami</td><td>vs.</td><td>Ishida, Ryuichiro</td></tr><tr><td> 87</td><td>Kimura, Kazuki</td><td>vs.</td><td>miura, tadayuki</td></tr><tr><td> 88</td><td>Arakawa, Tatsuya</td><td>vs.</td><td>Nakaoka, Koushirou</td></tr><tr><td> 89</td><td>Minobe, Yoshihiro</td><td>vs.</td><td>Hirami, Tomonori</td></tr><tr><td> 90</td><td>Takahashi, Keisuke</td><td>vs.</td><td>Umezaki, Masanori</td></tr><tr><td> 91</td><td>Suzuki, Nobuyoshi</td><td>vs.</td><td>Nakagawa, Tsukasa</td></tr><tr><td> 92</td><td>Furukawa, Kazuya</td><td>vs.</td><td>Oono, Hirofumi</td></tr><tr><td> 93</td><td>Watabe, Kazunori</td><td>vs.</td><td>Yoshii, Tatsuo</td></tr><tr><td> 94</td><td>Inoue, Makoto</td><td>vs.</td><td>Marcik, Michal</td></tr><tr><td> 95</td><td>Kondou, Keiichi</td><td>vs.</td><td>Sakamoto, Sakito</td></tr><tr><td> 96</td><td>Kadono, Takayuki</td><td>vs.</td><td>Ko, Changsu</td></tr><tr><td> 97</td><td>Nitta, Yuuki</td><td>vs.</td><td>Takeuchi, Hidehito</td></tr><tr><td> 98</td><td>Kobayashi, Satoshi</td><td>vs.</td><td>Goto, Satoshi</td></tr><tr><td> 99</td><td>Shimodouzono, Shintarou</td><td>vs.</td><td>Yamada, Hiroki</td></tr><tr><td>100</td><td>Asikari, Yuuki</td><td>vs.</td><td>Seo, Asako</td></tr><tr><td>101</td><td>Sasaki, Satoru</td><td>vs.</td><td>Shimada, Hiroya</td></tr><tr><td>102</td><td>Kajitani, Tsuyoshi</td><td>vs.</td><td>Inoue, Masanao</td></tr><tr><td>103</td><td>Sasaki, Yuusuke (HG)</td><td>vs.</td><td>Nishi, Kouichirou</td></tr><tr><td>104</td><td>Uesugi, Fumiya</td><td>vs.</td><td>Hisaki, Yuu</td></tr><tr><td>105</td><td>Shibata, Yuki</td><td>vs.</td><td>Satou, Takashi</td></tr><tr><td>106</td><td>Furukawa, Tadataka</td><td>vs.</td><td>Kawashima, Youichi</td></tr><tr><td>107</td><td>Susanto, Samuel</td><td>vs.</td><td>Tanaka, Kazuhiko</td></tr><tr><td>108</td><td>matsuo, takafumi</td><td>vs.</td><td>Kaneko, Hiroyuki</td></tr><tr><td>109</td><td>Yamasaki, Sadaharu</td><td>vs.</td><td>Lemmon, Andrew L</td></tr><tr><td>&#10;					</td><td>Shitakubo, Hiroyuki</td><td>&#10;					</td><td>* BYE *</td></tr></tbody></table>

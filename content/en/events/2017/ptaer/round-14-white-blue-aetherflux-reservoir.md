@@ -1,0 +1,197 @@
+---
+id: j657zmeh
+kind: event
+lang: en
+path: /en/events/2017/ptaer/round-14-white-blue-aetherflux-reservoir
+title: 'Round 14: White-Blue Aetherflux Reservoir'
+published: '2017-02-04'
+column_slug: null
+column: null
+authors: []
+event_code: ptaer
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/events/coverage/ptaer/round-14-white-blue-aetherflux-reservoir-2017-02-04
+    lang_detected: en
+    capture_id: 1445780
+    url: https://magic.wizards.com/en/events/coverage/ptaer/round-14-white-blue-aetherflux-reservoir-2017-02-04
+    captured_at: '2020-08-15 06:19:37+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/events/coverage/ptaer/round-14-white-blue-aetherflux-reservoir-2017-02-04
+    lang_detected: en
+    capture_id: 1445780
+    url: https://magic.wizards.com/en/events/coverage/ptaer/round-14-white-blue-aetherflux-reservoir-2017-02-04
+    captured_at: '2020-08-15 06:19:37+00'
+    rule: drupal.posted_in_date
+  event_code:
+    page_key: magic.wizards.com/en/events/coverage/ptaer/round-14-white-blue-aetherflux-reservoir-2017-02-04
+    lang_detected: en
+    capture_id: 1445780
+    url: https://magic.wizards.com/en/events/coverage/ptaer/round-14-white-blue-aetherflux-reservoir-2017-02-04
+    captured_at: '2020-08-15 06:19:37+00'
+    rule: url.event_code
+sources:
+- document_id: j657zmeh
+  url: https://magic.wizards.com/en/events/coverage/ptaer/round-14-white-blue-aetherflux-reservoir-2017-02-04
+  page_key: magic.wizards.com/en/events/coverage/ptaer/round-14-white-blue-aetherflux-reservoir-2017-02-04
+  lang: en
+  template: drupal
+  captured_at: '2020-08-15 06:19:37+00'
+  capture_id: 1445780
+  wayback_url: https://web.archive.org/web/20200815061937id_/https://magic.wizards.com/en/events/coverage/ptaer/round-14-white-blue-aetherflux-reservoir-2017-02-04
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: j657zmeh
+  capture_id: 1445780
+  url: https://magic.wizards.com/en/events/coverage/ptaer/round-14-white-blue-aetherflux-reservoir-2017-02-04
+  wayback_url: https://web.archive.org/web/20200815061937id_/https://magic.wizards.com/en/events/coverage/ptaer/round-14-white-blue-aetherflux-reservoir-2017-02-04
+  captured_at: '2020-08-15 06:19:37+00'
+  template: drupal
+  sha256: fce52f4ebb85683e26081de956bd3a90b3e700021aabdb474007ebb130aef5f7
+render_recovery:
+- code: deck_widget_requires_review
+  element: a
+  reason: The archived deck widget has no visible card rows. The source capture may
+    contain data to recover it.
+  labels:
+  - Decklist
+  occurrences: 1
+---
+Yesterday, I wrote about Mono-Blue [Paradoxical Outcome](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Paradoxical+Outcome) Storm, a deck that didn't quite make it to the Pro Tour. Though Marc Tobiasch's idea didn't show up in Dublin, a "storm" deck built around [Aetherflux Reservoir](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aetherflux+Reservoir) did, and it performed well enough to show up on Day Two as well.
+
+Bai Hualin is playing White-Blue [Aetherflux Reservoir](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aetherflux+Reservoir) at Pro Tour *Aether Revolt*. It too relies on [Paradoxical Outcome](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Paradoxical+Outcome) to bounce a lot of zero-cost artifacts, such as [Bone Saw](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bone+Saw), [Ornithopter](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ornithopter), and Cather's Shield, back to your hand. Like Tobiasch, the deck uses [Whir of Invention](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Whir+of+Invention) to turn these cheap artifacts into necessary [Aetherflux Reservoir](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aetherflux+Reservoir)s.
+
+Bai added white to his deck for three copies of [Sram, Senior Edificer](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sram%2C+Senior+Edificer). With Sram in play, each of those cheap equipment cards also draws a card, further fueling the deck's storm count. In his sideboard, Bai's white splash gives him access to [Fumigate](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fumigate), a good option for creature-heavy matchups, and a copy of [Fragmentize](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fragmentize), key against decks like Mardu Vehicles.
+
+[![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Sram%2C+Senior+Edificer)](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sram%2C+Senior+Edificer)
+
+*Sram was yet another way to draw through your deck with 0-mana artifacts.*
+
+To the creature count, Bai also added [Glint-Nest Crane](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Glint-Nest+Crane), an artifact loving bird who will help find copies of the artifacts you need most. He also added a single copy of [Baral's Expertise](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Baral%27s+Expertise), a smaller [Paradoxical Outcome](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Paradoxical+Outcome)-like effect that can also cast copies of [Aetherflux Reservoir](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aetherflux+Reservoir).
+
+I had the opportunity to watch his deck in action versus Jund during Round 14. A few turns into the game, Bai had an [Ornithopter](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ornithopter), a pair of Cather's Shields, a [Bone Saw](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bone+Saw), and a [Renegade Map](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Renegade+Map) in play. He was facing down an ever-growing [Tireless Tracker](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tireless+Tracker), but with a [Whir of Invention](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Whir+of+Invention) in hand, he was able to fetch the [Aetherflux Reservoir](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aetherflux+Reservoir) he needed to start boosting his life total.
+
+A [Glint-Nest Crane](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Glint-Nest+Crane) found him a second copy of the Reservoir, and despite being attacked by a 7/6 Tracker, Bai brought his life total into the forties by casting [Baral's Expertise](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Baral%27s+Expertise) on the Tracker and two of his own zero-mana artifacts and putting a third Reservoir into play. The recast [Cathar's Shield](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cathar%27s+Shield) and [Bone Saw](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bone+Saw) net him a total of 15 life.
+
+His opponent, Iurii Babych, was in trouble if he couldn't start applying pressure to Bai's growing life total. Luckily, Babych's recast [Tireless Tracker](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tireless+Tracker) was joined by a [Kalitas, Traitor of Ghet](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kalitas%2C+Traitor+of+Ghet), and a [Sylvan Advocate](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sylvan+Advocate).
+
+![](http://media.wizards.com/2017/events/ptaer/bai_decktech.jpg)  
+*Bai Hualin fought as hard as he could with his interesting concoction. While he's coming up a bit short this weekend, his deck proves to be an excellent starting point for tinkerers worldwide.*
+
+Bai was out of gas. He held a [Cathar's Shield](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cathar%27s+Shield), hoping to cast it on a turn with more than one spell to play, but his draw step continued to turn up only lands. Eventually, Bai had to cast the Cather's Shield alone, netting 3 life, to prevent himself from dying on the following turn.
+
+Babych attach Bai to 3 and passed the turn. Bai held his breath as he drew. "One card, and I win," he said without looking at it. He turned the card up and laughed. It was another land.
+
+Unfortunately, in game two Bai had to mulligan to three cards without seeing a single land. Though an early [Negate](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Negate) protected the [Fumigate](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fumigate) in his hand from a [Transgress the Mind](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Transgress+the+Mind), an early [Herald of Anguish](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Herald+of+Anguish) from Babych sealed Bai's fate.
+
+For those hoping that a version of [Paradoxical Outcome](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Paradoxical+Outcome) and [Aetherflux Reservoir](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aetherflux+Reservoir) storm is possible in Standard, Bai's deck is both reason for hope and a starting point for discovery and deck crafting. I, for one, will not be satisfied until I've seen someone dealt 50 damage by an [Aetherflux Reservoir](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aetherflux+Reservoir).
+
+#### Hualin Bai - White-Blue Paradoxical Outcome
+
+##### 
+
+ ![Download Arena Decklist](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png) ![](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+[Decklist](#none) [Stats](#none) [Sample Hand](#none) 
+
+Sort by: 
+
+##### Creature (11)
+
+3 [Sram, Senior Edificer](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSram,%5D+%5BSenior%5D+%5BEdificer%5D) 4 [Glint-Nest Crane](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlint-Nest%5D+%5BCrane%5D) 4 [Ornithopter](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrnithopter%5D) 
+
+##### Sorcery (5)
+
+4 [Reverse Engineer](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReverse%5D+%5BEngineer%5D) 1 [Baral's Expertise](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBaral%5D+%5BExpertise%5D) 
+
+##### Instant (10)
+
+2 [Whir of Invention](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWhir%5D+%5Bof%5D+%5BInvention%5D) 4 [Metallic Rebuke](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMetallic%5D+%5BRebuke%5D) 4 [Paradoxical Outcome](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BParadoxical%5D+%5BOutcome%5D) 
+
+##### Artifact (17)
+
+3 [Renegade Map](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRenegade%5D+%5BMap%5D) 4 [Aetherflux Reservoir](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAetherflux%5D+%5BReservoir%5D) 4 [Bone Saw](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBone%5D+%5BSaw%5D) 2 [Stitcher's Graft](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStitcher%5D+%5BGraft%5D) 4 [Cathar's Shield](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCathar%5D+%5BShield%5D) 
+
+##### Land (17)
+
+4 [Spire of Industry](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpire%5D+%5Bof%5D+%5BIndustry%5D) 1 [Plains](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D) 8 [Island](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D) 4 [Port Town](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPort%5D+%5BTown%5D) 
+
+60 Cards 
+
+##### Sideboard (15)
+
+4 [Bastion Inventor](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBastion%5D+%5BInventor%5D) 2 [Dispel](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDispel%5D) 3 [Fumigate](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFumigate%5D) 1 [Torrential Gearhulk](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTorrential%5D+%5BGearhulk%5D) 3 [Walking Ballista](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWalking%5D+%5BBallista%5D) 1 [Negate](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D) 1 [Fragmentize](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFragmentize%5D) 
+
+##### White (7)
+
+3 [Sram, Senior Edificer](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSram,%5D+%5BSenior%5D+%5BEdificer%5D) 3 [Fumigate](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFumigate%5D) 1 [Fragmentize](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFragmentize%5D) 
+
+##### Blue (27)
+
+4 [Glint-Nest Crane](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlint-Nest%5D+%5BCrane%5D) 2 [Whir of Invention](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWhir%5D+%5Bof%5D+%5BInvention%5D) 4 [Reverse Engineer](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReverse%5D+%5BEngineer%5D) 4 [Metallic Rebuke](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMetallic%5D+%5BRebuke%5D) 4 [Paradoxical Outcome](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BParadoxical%5D+%5BOutcome%5D) 1 [Baral's Expertise](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBaral%5D+%5BExpertise%5D) 4 [Bastion Inventor](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBastion%5D+%5BInventor%5D) 2 [Dispel](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDispel%5D) 1 [Torrential Gearhulk](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTorrential%5D+%5BGearhulk%5D) 1 [Negate](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D) 
+
+##### Colorless (41)
+
+4 [Spire of Industry](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpire%5D+%5Bof%5D+%5BIndustry%5D) 1 [Plains](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D) 8 [Island](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D) 4 [Port Town](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPort%5D+%5BTown%5D) 4 [Ornithopter](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrnithopter%5D) 3 [Renegade Map](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRenegade%5D+%5BMap%5D) 4 [Aetherflux Reservoir](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAetherflux%5D+%5BReservoir%5D) 4 [Bone Saw](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBone%5D+%5BSaw%5D) 2 [Stitcher's Graft](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStitcher%5D+%5BGraft%5D) 4 [Cathar's Shield](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCathar%5D+%5BShield%5D) 3 [Walking Ballista](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWalking%5D+%5BBallista%5D) 
+
+75 Cards 
+
+##### 1 (8)
+
+3 [Renegade Map](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRenegade%5D+%5BMap%5D) 2 [Stitcher's Graft](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStitcher%5D+%5BGraft%5D) 2 [Dispel](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDispel%5D) 1 [Fragmentize](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFragmentize%5D) 
+
+##### 2 (8)
+
+3 [Sram, Senior Edificer](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSram,%5D+%5BSenior%5D+%5BEdificer%5D) 4 [Glint-Nest Crane](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlint-Nest%5D+%5BCrane%5D) 1 [Negate](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D) 
+
+##### 3 (6)
+
+2 [Whir of Invention](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWhir%5D+%5Bof%5D+%5BInvention%5D) 4 [Metallic Rebuke](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMetallic%5D+%5BRebuke%5D) 
+
+##### 4 (8)
+
+4 [Aetherflux Reservoir](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAetherflux%5D+%5BReservoir%5D) 4 [Paradoxical Outcome](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BParadoxical%5D+%5BOutcome%5D) 
+
+##### 5 (8)
+
+4 [Reverse Engineer](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReverse%5D+%5BEngineer%5D) 1 [Baral's Expertise](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBaral%5D+%5BExpertise%5D) 3 [Fumigate](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFumigate%5D) 
+
+##### 6 (5)
+
+4 [Bastion Inventor](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBastion%5D+%5BInventor%5D) 1 [Torrential Gearhulk](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTorrential%5D+%5BGearhulk%5D) 
+
+43 Cards 
+
+##### Common (32)
+
+1 [Plains](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D) 8 [Island](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D) 4 [Metallic Rebuke](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMetallic%5D+%5BRebuke%5D) 3 [Renegade Map](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRenegade%5D+%5BMap%5D) 4 [Bone Saw](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBone%5D+%5BSaw%5D) 4 [Cathar's Shield](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCathar%5D+%5BShield%5D) 4 [Bastion Inventor](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBastion%5D+%5BInventor%5D) 2 [Dispel](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDispel%5D) 1 [Negate](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNegate%5D) 1 [Fragmentize](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFragmentize%5D) 
+
+##### Uncommon (12)
+
+4 [Glint-Nest Crane](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGlint-Nest%5D+%5BCrane%5D) 4 [Reverse Engineer](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BReverse%5D+%5BEngineer%5D) 4 [Ornithopter](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BOrnithopter%5D) 
+
+##### Rare (30)
+
+4 [Spire of Industry](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSpire%5D+%5Bof%5D+%5BIndustry%5D) 4 [Port Town](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPort%5D+%5BTown%5D) 3 [Sram, Senior Edificer](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSram,%5D+%5BSenior%5D+%5BEdificer%5D) 2 [Whir of Invention](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWhir%5D+%5Bof%5D+%5BInvention%5D) 4 [Aetherflux Reservoir](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAetherflux%5D+%5BReservoir%5D) 4 [Paradoxical Outcome](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BParadoxical%5D+%5BOutcome%5D) 2 [Stitcher's Graft](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStitcher%5D+%5BGraft%5D) 1 [Baral's Expertise](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBaral%5D+%5BExpertise%5D) 3 [Fumigate](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFumigate%5D) 3 [Walking Ballista](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWalking%5D+%5BBallista%5D) 
+
+##### Mythic (1)
+
+1 [Torrential Gearhulk](https://web.archive.org/web/20170204000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTorrential%5D+%5BGearhulk%5D) 
+
+75 Cards 
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Spire+of+Industry)
+
+[Deal Another Hand](https://web.archive.org/web/20170204000000/https://magic.wizards.com/en)
+
+*   ![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Aetherflux+Reservoir)
+*   ![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Stitcher%27s+Graft)
+*   ![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Bone+Saw)
+*   ![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Cathar%27s+Shield)
+*   ![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Spire+of+Industry)
+*   ![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Cathar%27s+Shield)
+*   ![](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Baral%27s+Expertise)
+
+a:24:{i:0;O:8:"stdClass":3:{s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Spire of Industry";s:22:"field\_card\_image\_front";a:0:{}}}i:1;O:8:"stdClass":3:{s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:6:"Plains";s:22:"field\_card\_image\_front";a:0:{}}}i:2;O:8:"stdClass":3:{s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"8";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:6:"Island";s:22:"field\_card\_image\_front";a:0:{}}}i:3;O:8:"stdClass":3:{s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:9:"Port Town";s:22:"field\_card\_image\_front";a:0:{}}}i:4;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"3";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:21:"Sram, Senior Edificer";s:22:"field\_card\_image\_front";a:0:{}}}i:5;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Glint-Nest Crane";s:22:"field\_card\_image\_front";a:0:{}}}i:6;O:8:"stdClass":3:{s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"2";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Whir of Invention";s:22:"field\_card\_image\_front";a:0:{}}}i:7;O:8:"stdClass":3:{s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"4";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Reverse Engineer";s:22:"field\_card\_image\_front";a:0:{}}}i:8;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Ornithopter";s:22:"field\_card\_image\_front";a:0:{}}}i:9;O:8:"stdClass":3:{s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"4";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Metallic Rebuke";s:22:"field\_card\_image\_front";a:0:{}}}i:10;O:8:"stdClass":3:{s:4:"type";s:8:"artifact";s:10:"deck\_count";s:1:"3";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Renegade Map";s:22:"field\_card\_image\_front";a:0:{}}}i:11;O:8:"stdClass":3:{s:4:"type";s:8:"artifact";s:10:"deck\_count";s:1:"4";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:20:"Aetherflux Reservoir";s:22:"field\_card\_image\_front";a:0:{}}}i:12;O:8:"stdClass":3:{s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"4";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:19:"Paradoxical Outcome";s:22:"field\_card\_image\_front";a:0:{}}}i:13;O:8:"stdClass":3:{s:4:"type";s:8:"artifact";s:10:"deck\_count";s:1:"4";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:8:"Bone Saw";s:22:"field\_card\_image\_front";a:0:{}}}i:14;O:8:"stdClass":3:{s:4:"type";s:8:"artifact";s:10:"deck\_count";s:1:"2";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Stitcher's Graft";s:22:"field\_card\_image\_front";a:0:{}}}i:15;O:8:"stdClass":3:{s:4:"type";s:8:"artifact";s:10:"deck\_count";s:1:"4";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Cathar's Shield";s:22:"field\_card\_image\_front";a:0:{}}}i:16;O:8:"stdClass":3:{s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"1";s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Baral's Expertise";s:22:"field\_card\_image\_front";a:0:{}}}i:17;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";i:0;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Bastion Inventor";s:22:"field\_card\_image\_front";a:0:{}}}i:18;O:8:"stdClass":3:{s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:6:"Dispel";s:22:"field\_card\_image\_front";a:0:{}}}i:19;O:8:"stdClass":3:{s:4:"type";s:7:"sorcery";s:10:"deck\_count";i:0;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:8:"Fumigate";s:22:"field\_card\_image\_front";a:0:{}}}i:20;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";i:0;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:19:"Torrential Gearhulk";s:22:"field\_card\_image\_front";a:0:{}}}i:21;O:8:"stdClass":3:{s:4:"type";s:8:"creature";s:10:"deck\_count";i:0;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Walking Ballista";s:22:"field\_card\_image\_front";a:0:{}}}i:22;O:8:"stdClass":3:{s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:6:"Negate";s:22:"field\_card\_image\_front";a:0:{}}}i:23;O:8:"stdClass":3:{s:4:"type";s:7:"sorcery";s:10:"deck\_count";i:0;s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Fragmentize";s:22:"field\_card\_image\_front";a:0:{}}}}

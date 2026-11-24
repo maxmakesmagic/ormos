@@ -1,0 +1,47 @@
+---
+id: 7swjd1cc
+kind: event
+lang: en
+path: /en/articles/event-coverage/2005/01-28-live-coverage-of-2005-pro-tour-nagoya-3
+title: Live Coverage of 2005 Pro Tour Nagoya
+published: '2005-01-28'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/live-coverage-2005-pro-tour-nagoya-2005-01-28-17
+    lang_detected: en
+    capture_id: 450241
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/live-coverage-2005-pro-tour-nagoya-2005-01-28-17
+    captured_at: '2022-01-19 22:37:12+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/live-coverage-2005-pro-tour-nagoya-2005-01-28-17
+    lang_detected: en
+    capture_id: 450241
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/live-coverage-2005-pro-tour-nagoya-2005-01-28-17
+    captured_at: '2022-01-19 22:37:12+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: 7swjd1cc
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/live-coverage-2005-pro-tour-nagoya-2005-01-28-17
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/live-coverage-2005-pro-tour-nagoya-2005-01-28-17
+  lang: en
+  template: drupal
+  captured_at: '2022-01-19 22:37:12+00'
+  capture_id: 450241
+  wayback_url: https://web.archive.org/web/20220119223712id_/https://magic.wizards.com/en/articles/archive/event-coverage/live-coverage-2005-pro-tour-nagoya-2005-01-28-17
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 7swjd1cc
+  capture_id: 450241
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/live-coverage-2005-pro-tour-nagoya-2005-01-28-17
+  wayback_url: https://web.archive.org/web/20220119223712id_/https://magic.wizards.com/en/articles/archive/event-coverage/live-coverage-2005-pro-tour-nagoya-2005-01-28-17
+  captured_at: '2022-01-19 22:37:12+00'
+  template: drupal
+  sha256: aef5d83fcb7cb9f9b751603ff8b2438deae35af17b454c90d18226b3e4a42204
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Points</b></td><td><b>&#10;						</b></td><td><b>Opponent</b></td><td><b>Points</b></td></tr><tr><td> 33</td><td>Shiozu, Ryouma [JPN]</td><td> 21</td><td>vs.</td><td>Jonsson, Anton [SWE]</td><td> 21</td></tr><tr><td> 6</td><td>Soh, Terry Han Chuen [MYS]</td><td> 18</td><td>vs.</td><td>Sonne, Jonathan [USA]</td><td> 18</td></tr><tr><td> 12</td><td>Harkonen, Jarno [FIN]</td><td> 18</td><td>vs.</td><td>Remie, Jeroen [NLD]</td><td> 18</td></tr><tr><td> 19</td><td>Levin, Eugene [USA]</td><td> 18</td><td>vs.</td><td>Cannistraro, Michael [USA]</td><td> 15</td></tr><tr><td> 21</td><td>Evans, Murray [CAN]</td><td> 18</td><td>vs.</td><td>Atsuta, Nao [JPN]</td><td> 18</td></tr><tr><td> 34</td><td>Chan, Tiago [PRT]</td><td> 18</td><td>vs.</td><td>Komuro, Shuu [JPN]</td><td> 18</td></tr><tr><td> 35</td><td>Wiegersma, Jelger [NLD]</td><td> 18</td><td>vs.</td><td>Kuroda, Masashiro [JPN]</td><td> 18</td></tr><tr><td> 37</td><td>Fatouros, Vasilis [GRC]</td><td> 18</td><td>vs.</td><td>Karsten, Frank [NLD]</td><td> 18</td></tr><tr><td> 1</td><td>Da Costa Cabral, Berna [BEL]</td><td> 15</td><td>vs.</td><td>Bandou, Jun'ichirou [JPN]</td><td> 13</td></tr><tr><td> 2</td><td>Sakajou, Yasuhisa [JPN]</td><td> 15</td><td>vs.</td><td>Carlsson, Simon [SWE]</td><td> 15</td></tr><tr><td> 3</td><td>Cunningham, Jeff [CAN]</td><td> 15</td><td>vs.</td><td>Ino, Kentarou [JPN]</td><td> 15</td></tr><tr><td> 4</td><td>Dal Farra, Gionata [ITA]</td><td> 15</td><td>vs.</td><td>Saito, Tomoharu [JPN]</td><td> 15</td></tr><tr><td> 7</td><td>Gomersall, Sam [ENG]</td><td> 15</td><td>vs.</td><td>Lia, Fredrik [NOR]</td><td> 15</td></tr><tr><td> 8</td><td>Hoaen, Richard [CAN]</td><td> 15</td><td>vs.</td><td>Morita, Masahiko [JPN]</td><td> 15</td></tr><tr><td> 9</td><td>Lacroix, Damien [FRA]</td><td> 15</td><td>vs.</td><td>Chai, Ming Huang [SGP]</td><td> 15</td></tr><tr><td> 10</td><td>Sasagawa, Tomohide [JPN]</td><td> 15</td><td>vs.</td><td>Nai, Enrico [ITA]</td><td> 15</td></tr><tr><td> 13</td><td>Johannsen, Dennis [DEU]</td><td> 15</td><td>vs.</td><td>Lebedowicz, Osyp [USA]</td><td> 15</td></tr><tr><td> 15</td><td>Krempels, Craig [USA]</td><td> 15</td><td>vs.</td><td>Refsdal, Thomas [NOR]</td><td> 15</td></tr><tr><td> 17</td><td>Scriven, Jarrod [AUS]</td><td> 15</td><td>vs.</td><td>Ausserre, Manuel [FRA]</td><td> 15</td></tr><tr><td> 18</td><td>Yuichi, Aizawa [USA]</td><td> 15</td><td>vs.</td><td>Huber, Christoph [CHE]</td><td> 15</td></tr><tr><td> 23</td><td>Hata, Hirotaka [JPN]</td><td> 15</td><td>vs.</td><td>Jeong, HyunWoo [KOR]</td><td> 15</td></tr><tr><td> 24</td><td>Wang, Ming-Chih [TWN]</td><td> 15</td><td>vs.</td><td>Häyrynen, Andrei [FIN]</td><td> 15</td></tr><tr><td> 27</td><td>Goron, Julien [FRA]</td><td> 15</td><td>vs.</td><td>Nishino, Kenta [JPN]</td><td> 15</td></tr><tr><td> 30</td><td>Ikeda, Tsuyoshi [JPN]</td><td> 15</td><td>vs.</td><td>Malin, Antti [FIN]</td><td> 13</td></tr><tr><td> 32</td><td>Dictus, Mark [BEL]</td><td> 15</td><td>vs.</td><td>Cloete, Werner [ZAF]</td><td> 15</td></tr><tr><td> 36</td><td>Jacob, Michael [USA]</td><td> 15</td><td>vs.</td><td>Hwang, Chi Chung [TWN]</td><td> 15</td></tr><tr><td> 38</td><td>Horvath, Adam [USA]</td><td> 15</td><td>vs.</td><td>Ravitz, Joshua [USA]</td><td> 15</td></tr><tr><td> 22</td><td>Meyerson, Jeffrey [USA]</td><td> 13</td><td>vs.</td><td>Olivieri, Nicolas [FRA]</td><td> 12</td></tr><tr><td> 5</td><td>Sanguinetti, James [USA]</td><td> 12</td><td>vs.</td><td>Salvin, Jean Charles [FRA]</td><td> 12</td></tr><tr><td> 11</td><td>Ruel, Olivier [FRA]</td><td> 12</td><td>vs.</td><td>Dominguez, Javier [ESP]</td><td> 12</td></tr><tr><td> 14</td><td>Hauptmann, Aaron [USA]</td><td> 12</td><td>vs.</td><td>Martinez, Manuel [ESP]</td><td> 12</td></tr><tr><td> 16</td><td>Zidek, Arnost [CZE]</td><td> 12</td><td>vs.</td><td>Stein, Sam [USA]</td><td> 12</td></tr><tr><td> 20</td><td>Gundersen, Thomas [NOR]</td><td> 12</td><td>vs.</td><td>Reale, Giuseppe [ITA]</td><td> 12</td></tr><tr><td> 25</td><td>Zajdner, Mark [CAN]</td><td> 12</td><td>vs.</td><td>Aten, Timothy [USA]</td><td> 12</td></tr><tr><td> 26</td><td>Blaas, Jasper [NLD]</td><td> 12</td><td>vs.</td><td>Bertos, Nicolas [FRA]</td><td> 12</td></tr><tr><td> 28</td><td>Siron, Geoffrey [BEL]</td><td> 12</td><td>vs.</td><td>Ishida, Itaru [JPN]</td><td> 12</td></tr><tr><td> 29</td><td>Mori, Katsuhiro [JPN]</td><td> 12</td><td>vs.</td><td>Rietzl, Paul [USA]</td><td> 12</td></tr><tr><td> 31</td><td>Nakamura, Shuuhei [JPN]</td><td> 12</td><td>vs.</td><td>Kakumae, Teruya [JPN]</td><td> 12</td></tr><tr><td> 39</td><td>De Rosa, Antonino [USA]</td><td> 12</td><td>vs.</td><td>Ogura, Ryou [JPN]</td><td> 12</td></tr><tr><td> 40</td><td>Nam, Kkyoung Geun [KOR]</td><td> 12</td><td>vs.</td><td>Perez, Bastien [FRA]</td><td> 12</td></tr></tbody></table>

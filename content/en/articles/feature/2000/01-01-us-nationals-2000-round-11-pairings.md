@@ -1,0 +1,64 @@
+---
+id: gsnemgfd
+kind: article
+lang: en
+path: /en/articles/feature/2000/01-01-us-nationals-2000-round-11-pairings
+title: US Nationals 2000 Round 11 Pairings
+published: '2000-01-01'
+column_slug: feature
+column: Feature
+authors:
+- slug: wizardsofthecoast
+  name: Wizards of the Coast
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-11-pairings-2000-01-01
+    lang_detected: en
+    capture_id: 688301
+    url: https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-11-pairings-2000-01-01
+    captured_at: '2021-11-29 05:15:10+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-11-pairings-2000-01-01
+    lang_detected: en
+    capture_id: 688301
+    url: https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-11-pairings-2000-01-01
+    captured_at: '2021-11-29 05:15:10+00'
+    rule: url.date_slug
+  authors:
+    page_key: magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-11-pairings-2000-01-01
+    lang_detected: en
+    capture_id: 688301
+    url: https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-11-pairings-2000-01-01
+    captured_at: '2021-11-29 05:15:10+00'
+    rule: drupal.div_author
+  column:
+    page_key: magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-11-pairings-2000-01-01
+    lang_detected: en
+    capture_id: 688301
+    url: https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-11-pairings-2000-01-01
+    captured_at: '2021-11-29 05:15:10+00'
+    rule: url.article_section
+    registry_match: registry.explicit
+sources:
+- document_id: gsnemgfd
+  url: https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-11-pairings-2000-01-01
+  page_key: magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-11-pairings-2000-01-01
+  lang: en
+  template: drupal
+  captured_at: '2021-11-29 05:15:10+00'
+  capture_id: 688301
+  wayback_url: https://web.archive.org/web/20211129051510id_/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-11-pairings-2000-01-01
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: gsnemgfd
+  capture_id: 688301
+  url: https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-11-pairings-2000-01-01
+  wayback_url: https://web.archive.org/web/20211129051510id_/https://magic.wizards.com/en/articles/archive/feature/us-nationals-2000-round-11-pairings-2000-01-01
+  captured_at: '2021-11-29 05:15:10+00'
+  template: drupal
+  sha256: 98716db0ad4ea32fafcb55268a0f8d6dc627d6e2ac98cd4f655ab61f49a4696a
+render_recovery: []
+---
+<table><tbody><tr><td>Player</td>&#10;			<td>Pts</td>&#10;			<td>Table</td>&#10;			<td>Opponent</td>&#10;			<td>Pts</td>&#10;		</tr><tr><td>Aubertin, Justin ( 3)</td>&#10;			<td>12</td>&#10;			<td>31</td>&#10;			<td>Flores, Micheal ( 42)</td>&#10;			<td>12</td>&#10;		</tr><tr><td>Beckmon, Jon ( 15)</td>&#10;			<td>16</td>&#10;			<td>20</td>&#10;			<td>Morales, Manuel (105)</td>&#10;			<td>16</td>&#10;		</tr><tr><td>Benafel, Chris ( 50)</td>&#10;			<td>25</td>&#10;			<td>2</td>&#10;			<td>Mowshowitz, Zvi ( 28)</td>&#10;			<td>24</td>&#10;		</tr><tr><td>Bhattacharyya, Sayan ( 39)</td>&#10;			<td>19</td>&#10;			<td>12</td>&#10;			<td>Ho, Ken ( 27)</td>&#10;			<td>19</td>&#10;		</tr><tr><td>Bragg, Tillman ( 4)</td>&#10;			<td>11</td>&#10;			<td>33</td>&#10;			<td>Winkelstien, Jerry ( 1)</td>&#10;			<td>10</td>&#10;		</tr><tr><td>Bunsongsikul, Ped ( 82)</td>&#10;			<td>13</td>&#10;			<td>28</td>&#10;			<td>Burghy, Jeff ( 23)</td>&#10;			<td>12</td>&#10;		</tr><tr><td>Burghy, Jeff ( 23)</td>&#10;			<td>12</td>&#10;			<td>28</td>&#10;			<td>Bunsongsikul, Ped ( 82)</td>&#10;			<td>13</td>&#10;		</tr><tr><td>Clauss, Micheal ( 43)</td>&#10;			<td>18</td>&#10;			<td>18</td>&#10;			<td>Keffer, Philip (148)</td>&#10;			<td>18</td>&#10;		</tr><tr><td>Clegg, Daniel ( 65)</td>&#10;			<td>15</td>&#10;			<td>24</td>&#10;			<td>Zimmerman, Steve (117)</td>&#10;			<td>15</td>&#10;		</tr><tr><td>Comer, Alan ( 93)</td>&#10;			<td>21</td>&#10;			<td>8</td>&#10;			<td>Fung, Elliot ( 46)</td>&#10;			<td>21</td>&#10;		</tr><tr><td>Connell, Warren ( 73)</td>&#10;			<td>18</td>&#10;			<td>16</td>&#10;			<td>Curtis, Lee ( 67)</td>&#10;			<td>18</td>&#10;		</tr><tr><td>Curtis, Lee ( 67)</td>&#10;			<td>18</td>&#10;			<td>16</td>&#10;			<td>Connell, Warren ( 73)</td>&#10;			<td>18</td>&#10;		</tr><tr><td>Davis, Brian ( 17)</td>&#10;			<td>19</td>&#10;			<td>13</td>&#10;			<td>Fink, Jeffery ( 37)</td>&#10;			<td>18</td>&#10;		</tr><tr><td>Dougherty, Robert (115)</td>&#10;			<td>17</td>&#10;			<td>19</td>&#10;			<td>Swoyer, Mark ( 63)</td>&#10;			<td>17</td>&#10;		</tr><tr><td>Fink, Jeffery ( 37)</td>&#10;			<td>18</td>&#10;			<td>13</td>&#10;			<td>Davis, Brian ( 17)</td>&#10;			<td>19</td>&#10;		</tr><tr><td>Finkel, Jon (100)</td>&#10;			<td>27</td>&#10;			<td>1</td>&#10;			<td>Rose, Kyle ( 70)</td>&#10;			<td>25</td>&#10;		</tr><tr><td>Flores, Micheal ( 42)</td>&#10;			<td>12</td>&#10;			<td>31</td>&#10;			<td>Aubertin, Justin ( 3)</td>&#10;			<td>12</td>&#10;		</tr><tr><td>Forsythe, Aaron (151)</td>&#10;			<td>21</td>&#10;			<td>10</td>&#10;			<td>Stirler, Jacob (106)</td>&#10;			<td>21</td>&#10;		</tr><tr><td>Fortenberry, Joe (113)</td>&#10;			<td>12</td>&#10;			<td>30</td>&#10;			<td>Mitchell Jr., Bruce ( 79)</td>&#10;			<td>12</td>&#10;		</tr><tr><td>Frangiosa, Rich ( 99)</td>&#10;			<td>21</td>&#10;			<td>9</td>&#10;			<td>Nishioka, Andrew ( 44)</td>&#10;			<td>21</td>&#10;		</tr><tr><td>Fung, Elliot ( 46)</td>&#10;			<td>21</td>&#10;			<td>8</td>&#10;			<td>Comer, Alan ( 93)</td>&#10;			<td>21</td>&#10;		</tr><tr><td>Gallitz, Donald (146)</td>&#10;			<td>15</td>&#10;			<td>26</td>&#10;			<td>Lovin, Mark (140)</td>&#10;			<td>15</td>&#10;		</tr><tr><td>Gary, Justin ( 38)</td>&#10;			<td>24</td>&#10;			<td>3</td>&#10;			<td>Hernandez, Frank ( 40)</td>&#10;			<td>24</td>&#10;		</tr><tr><td>Guevin, Tom ( 2)</td>&#10;			<td>21</td>&#10;			<td>6</td>&#10;			<td>Maher Jr., Bob ( 89)</td>&#10;			<td>21</td>&#10;		</tr><tr><td>Hernandez, Frank ( 40)</td>&#10;			<td>24</td>&#10;			<td>3</td>&#10;			<td>Gary, Justin ( 38)</td>&#10;			<td>24</td>&#10;		</tr><tr><td>Ho, Ken ( 27)</td>&#10;			<td>19</td>&#10;			<td>12</td>&#10;			<td>Bhattacharyya, Sayan ( 39)</td>&#10;			<td>19</td>&#10;		</tr><tr><td>Humpherys, David (107)</td>&#10;			<td>22</td>&#10;			<td>5</td>&#10;			<td>Turian, Michael (152)</td>&#10;			<td>22</td>&#10;		</tr><tr><td>Jafari, David (125)</td>&#10;			<td>18</td>&#10;			<td>14</td>&#10;			<td>Price, David ( 35)</td>&#10;			<td>18</td>&#10;		</tr><tr><td>Kastle, Darwin (120)</td>&#10;			<td>18</td>&#10;			<td>17</td>&#10;			<td>Kuenal, Zack ( 14)</td>&#10;			<td>18</td>&#10;		</tr><tr><td>Kauffman, Thomas (142)</td>&#10;			<td>15</td>&#10;			<td>21</td>&#10;			<td>Sangiamvongse, Prasong ( 12)</td>&#10;			<td>16</td>&#10;		</tr><tr><td>Keffer, Philip (148)</td>&#10;			<td>18</td>&#10;			<td>18</td>&#10;			<td>Clauss, Micheal ( 43)</td>&#10;			<td>18</td>&#10;		</tr><tr><td>Kuenal, Zack ( 14)</td>&#10;			<td>18</td>&#10;			<td>17</td>&#10;			<td>Kastle, Darwin (120)</td>&#10;			<td>18</td>&#10;		</tr><tr><td>La Beau, Mike ( 62)</td>&#10;			<td>12</td>&#10;			<td>29</td>&#10;			<td>Mcnelly, Marc ( 91)</td>&#10;			<td>12</td>&#10;		</tr><tr><td>Lane, Adam ( 11)</td>&#10;			<td>10</td>&#10;			<td>32</td>&#10;			<td>Van Vleet, Matt ( 83)</td>&#10;			<td>12</td>&#10;		</tr><tr><td>Lewis, Aaron ( 84)</td>&#10;			<td>15</td>&#10;			<td>23</td>&#10;			<td>Robles, Robert ( 80)</td>&#10;			<td>15</td>&#10;		</tr><tr><td>Lim, Donald ( 26)</td>&#10;			<td>15</td>&#10;			<td>22</td>&#10;			<td>York, Kenny (149)</td>&#10;			<td>15</td>&#10;		</tr><tr><td>Long, Mike (114)</td>&#10;			<td>22</td>&#10;			<td>4</td>&#10;			<td>Pustilnik, Michael ( 94)</td>&#10;			<td>24</td>&#10;		</tr><tr><td>Lovell, Brian ( 87)</td>&#10;			<td>9</td>&#10;			<td>34</td>&#10;			<td>Shvartsman, Alex ( 72)</td>&#10;			<td>9</td>&#10;		</tr><tr><td>Lovin, Mark (140)</td>&#10;			<td>15</td>&#10;			<td>26</td>&#10;			<td>Gallitz, Donald (146)</td>&#10;			<td>15</td>&#10;		</tr><tr><td>Maher Jr., Bob ( 89)</td>&#10;			<td>21</td>&#10;			<td>6</td>&#10;			<td>Guevin, Tom ( 2)</td>&#10;			<td>21</td>&#10;		</tr><tr><td>Manning, Chris ( 31)</td>&#10;			<td>18</td>&#10;			<td>15</td>&#10;			<td>Mindes, Michael (111)</td>&#10;			<td>18</td>&#10;		</tr><tr><td>Mcnelly, Marc ( 91)</td>&#10;			<td>12</td>&#10;			<td>29</td>&#10;			<td>La Beau, Mike ( 62)</td>&#10;			<td>12</td>&#10;		</tr><tr><td>Mindes, Michael (111)</td>&#10;			<td>18</td>&#10;			<td>15</td>&#10;			<td>Manning, Chris ( 31)</td>&#10;			<td>18</td>&#10;		</tr><tr><td>Mitchell Jr., Bruce ( 79)</td>&#10;			<td>12</td>&#10;			<td>30</td>&#10;			<td>Fortenberry, Joe (113)</td>&#10;			<td>12</td>&#10;		</tr><tr><td>Morales, Manuel (105)</td>&#10;			<td>16</td>&#10;			<td>20</td>&#10;			<td>Beckmon, Jon ( 15)</td>&#10;			<td>16</td>&#10;		</tr><tr><td>Mourssali, Riad (103)</td>&#10;			<td>15</td>&#10;			<td>25</td>&#10;			<td>Stampke, Ryan ( 18)</td>&#10;			<td>15</td>&#10;		</tr><tr><td>Mowshowitz, Zvi ( 28)</td>&#10;			<td>24</td>&#10;			<td>2</td>&#10;			<td>Benafel, Chris ( 50)</td>&#10;			<td>25</td>&#10;		</tr><tr><td>Nishioka, Andrew ( 44)</td>&#10;			<td>21</td>&#10;			<td>9</td>&#10;			<td>Frangiosa, Rich ( 99)</td>&#10;			<td>21</td>&#10;		</tr><tr><td>OMS, Steven (118)</td>&#10;			<td>19</td>&#10;			<td>11</td>&#10;			<td>Regnier, Shawn ( 90)</td>&#10;			<td>19</td>&#10;		</tr><tr><td>Pitz, Jesse ( 5)</td>&#10;			<td>13</td>&#10;			<td>27</td>&#10;			<td>Strand, Ryan ( 45)</td>&#10;			<td>13</td>&#10;		</tr><tr><td>Price, David ( 35)</td>&#10;			<td>18</td>&#10;			<td>14</td>&#10;			<td>Jafari, David (125)</td>&#10;			<td>18</td>&#10;		</tr><tr><td>Pustilnik, Michael ( 94)</td>&#10;			<td>24</td>&#10;			<td>4</td>&#10;			<td>Long, Mike (114)</td>&#10;			<td>22</td>&#10;		</tr><tr><td>Regnier, Shawn ( 90)</td>&#10;			<td>19</td>&#10;			<td>11</td>&#10;			<td>OMS, Steven (118)</td>&#10;			<td>19</td>&#10;		</tr><tr><td>Robles, Robert ( 80)</td>&#10;			<td>15</td>&#10;			<td>23</td>&#10;			<td>Lewis, Aaron ( 84)</td>&#10;			<td>15</td>&#10;		</tr><tr><td>Rose, Kyle ( 70)</td>&#10;			<td>25</td>&#10;			<td>1</td>&#10;			<td>Finkel, Jon (100)</td>&#10;			<td>27</td>&#10;		</tr><tr><td>Sangiamvongse, Prasong ( 12)</td>&#10;			<td>16</td>&#10;			<td>21</td>&#10;			<td>Kauffman, Thomas (142)</td>&#10;			<td>15</td>&#10;		</tr><tr><td>Shvartsman, Alex ( 72)</td>&#10;			<td>9</td>&#10;			<td>34</td>&#10;			<td>Lovell, Brian ( 87)</td>&#10;			<td>9</td>&#10;		</tr><tr><td>Soo, Waiken (112)</td>&#10;			<td>21</td>&#10;			<td>7</td>&#10;			<td>Wells, Sean (134)</td>&#10;			<td>21</td>&#10;		</tr><tr><td>Stampke, Ryan ( 18)</td>&#10;			<td>15</td>&#10;			<td>25</td>&#10;			<td>Mourssali, Riad (103)</td>&#10;			<td>15</td>&#10;		</tr><tr><td>Stirler, Jacob (106)</td>&#10;			<td>21</td>&#10;			<td>10</td>&#10;			<td>Forsythe, Aaron (151)</td>&#10;			<td>21</td>&#10;		</tr><tr><td>Strand, Ryan ( 45)</td>&#10;			<td>13</td>&#10;			<td>27</td>&#10;			<td>Pitz, Jesse ( 5)</td>&#10;			<td>13</td>&#10;		</tr><tr><td>Swoyer, Mark ( 63)</td>&#10;			<td>17</td>&#10;			<td>19</td>&#10;			<td>Dougherty, Robert (115)</td>&#10;			<td>17</td>&#10;		</tr><tr><td>Turian, Michael (152)</td>&#10;			<td>22</td>&#10;			<td>5</td>&#10;			<td>Humpherys, David (107)</td>&#10;			<td>22</td>&#10;		</tr><tr><td>Van Vleet, Matt ( 83)</td>&#10;			<td>12</td>&#10;			<td>32</td>&#10;			<td>Lane, Adam ( 11)</td>&#10;			<td>10</td>&#10;		</tr><tr><td>Wells, Sean (134)</td>&#10;			<td>21</td>&#10;			<td>7</td>&#10;			<td>Soo, Waiken (112)</td>&#10;			<td>21</td>&#10;		</tr><tr><td>Winkelstien, Jerry ( 1)</td>&#10;			<td>10</td>&#10;			<td>33</td>&#10;			<td>Bragg, Tillman ( 4)</td>&#10;			<td>11</td>&#10;		</tr><tr><td>York, Kenny (149)</td>&#10;			<td>15</td>&#10;			<td>22</td>&#10;			<td>Lim, Donald ( 26)</td>&#10;			<td>15</td>&#10;		</tr><tr><td>Zimmerman, Steve (117)</td>&#10;			<td>15</td>&#10;			<td>24</td>&#10;			<td>Clegg, Daniel ( 65)</td>&#10;			<td>15</td>&#10;		</tr></tbody></table>

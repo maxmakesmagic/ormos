@@ -1,0 +1,47 @@
+---
+id: cdqndnm3
+kind: event
+lang: sna
+path: /sna/articles/event-coverage/2015/12-16-round-14-results-by-table
+title: Round 14 Results (By Table)
+published: '2015-12-16'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: sna
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-14-results-table-2015-12-16-0
+    lang_detected: sna
+    capture_id: 511704
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-14-results-table-2015-12-16-0
+    captured_at: '2020-09-29 01:58:55+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-14-results-table-2015-12-16-0
+    lang_detected: sna
+    capture_id: 511704
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-14-results-table-2015-12-16-0
+    captured_at: '2020-09-29 01:58:55+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: cdqndnm3
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-14-results-table-2015-12-16-0
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/round-14-results-table-2015-12-16-0
+  lang: sna
+  template: drupal
+  captured_at: '2020-09-29 01:58:55+00'
+  capture_id: 511704
+  wayback_url: https://web.archive.org/web/20200929015855id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-14-results-table-2015-12-16-0
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: cdqndnm3
+  capture_id: 511704
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-14-results-table-2015-12-16-0
+  wayback_url: https://web.archive.org/web/20200929015855id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-14-results-table-2015-12-16-0
+  captured_at: '2020-09-29 01:58:55+00'
+  template: drupal
+  sha256: e62c077ef4bc8633bb817705079b3b1bea255ca65acc07a3325bf7667977ae3d
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td> <b>Player</b> </td><td>Result</td><td></td><td><b>Opponent</b></td></tr><tr><td>1</td><td>Itadani, Eisaku</td><td>0-0-3</td><td>vs.</td><td>Doyama, Tsuyoshi</td></tr><tr><td>2</td><td>Mori, Katsuhiro</td><td>0-0-3</td><td>vs.</td><td>Tamber, Tobey</td></tr><tr><td>3</td><td>Murakami, Yuki</td><td>0-0-3</td><td>vs.</td><td>Maruyama, Tomohiro</td></tr><tr><td>4</td><td>Nakamura, Shuhei</td><td>0-2-0</td><td>vs.</td><td>Fujita, Tsuyoshi</td></tr><tr><td>5</td><td>Tsukamoto, Toshiki</td><td>2-0-0</td><td>vs.</td><td>Nobushita, Jun</td></tr><tr><td>6</td><td>Sanno, Naoki</td><td>0-2-0</td><td>vs.</td><td>Fuller, Ryan</td></tr><tr><td>7</td><td>Miyamae, Tsuyoshi</td><td>2-0-0</td><td>vs.</td><td>Momose, Kazuyuki</td></tr><tr><td>8</td><td>Ohe, Yoji</td><td>0-2-0</td><td>vs.</td><td>Yamamoto, Nao</td></tr><tr><td>9</td><td>Takayama, Reona</td><td>2-1-0</td><td>vs.</td><td>Shiozu, Ryoma</td></tr><tr><td>10</td><td>Matsuzuki, Kyosuke</td><td>0-2-0</td><td>vs.</td><td>Hirabayashi, Kazuya</td></tr><tr><td>11</td><td>Yamakawa, Yoichiro</td><td>2-0-0</td><td>vs.</td><td>Asahara, Akira</td></tr><tr><td>12</td><td>Otani, Akiyuki</td><td>2-0-0</td><td>vs.</td><td>Yamasaki, Yudai</td></tr><tr><td>13</td><td>Imamichi, Takashi</td><td>2-0-0</td><td>vs.</td><td>Kagawa, Hiroyuki</td></tr><tr><td>14</td><td>Takezawa, Tsutomu</td><td>1/1/01</td><td>vs.</td><td>Ito, Kenshiro</td></tr><tr><td>15</td><td>Kuroda, Masashiro</td><td>2-0-0</td><td>vs.</td><td>Michitani, Tsunenobu</td></tr><tr><td>16</td><td>Sano, Fumihiko</td><td>1-2-0</td><td>vs.</td><td>Matsuo, Goro</td></tr><tr><td>17</td><td>Takeda, Takamichi</td><td>1/1/00</td><td>vs.</td><td>Adachi, Takatsugu</td></tr><tr><td>18</td><td>Nishiwaki, Masahiro</td><td>0-2-0</td><td>vs.</td><td>Tanaka, Fusatoshi</td></tr><tr><td>19</td><td>Kubouchi, Naoki</td><td>2-0-0</td><td>vs.</td><td>Akase, Kohei</td></tr><tr><td>20</td><td>Mori, Masaya</td><td>0-2-0</td><td>vs.</td><td>Nakamura, Satoshi</td></tr><tr><td>21</td><td>Kageyama, Kiyotomo</td><td>1/1/01</td><td>vs.</td><td>Ando, Kotaro</td></tr><tr><td>22</td><td>Higaki, Takao</td><td>2-1-0</td><td>vs.</td><td>Doi, Koji</td></tr><tr><td>23</td><td>Higashino, Masayuki</td><td>2-0-0</td><td>vs.</td><td>Hidaka, Ayumi</td></tr><tr><td>24</td><td>Noda, Koji</td><td>0-2-0</td><td>vs.</td><td>Teruya, Hirokazu</td></tr><tr><td>25</td><td>Kagami, Gen</td><td>2-0-0</td><td>vs.</td><td>Yokoyama, Tadashi</td></tr><tr><td>26</td><td>Sasanuma, Kiyoshi</td><td>2-1-0</td><td>vs.</td><td>Nakamura, Hirobumi</td></tr><tr><td>27</td><td>Nishio, Yoshiaki</td><td>2-0-0</td><td>vs.</td><td>Yamahara, Toshihisa</td></tr><tr><td>28</td><td>Yanagawa, Tetsuji</td><td>1-2-0</td><td>vs.</td><td>Okada, Wataru</td></tr><tr><td>29</td><td>Yokoyama, Shigehisa</td><td>2-0-0</td><td>vs.</td><td>Sasaki, Yusuke (Tokyo)</td></tr></tbody></table>

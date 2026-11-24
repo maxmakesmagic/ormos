@@ -1,0 +1,47 @@
+---
+id: e5yxvvk2
+kind: event
+lang: en
+path: /en/articles/event-coverage/2011/05-21-grand-prix-prague-round-15-results
+title: Grand Prix Prague Round 15 Results
+published: '2011-05-21'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-prague-round-15-results-2011-05-21
+    lang_detected: en
+    capture_id: 422843
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-prague-round-15-results-2011-05-21
+    captured_at: '2017-10-30 09:05:40+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-prague-round-15-results-2011-05-21
+    lang_detected: en
+    capture_id: 422843
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-prague-round-15-results-2011-05-21
+    captured_at: '2017-10-30 09:05:40+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: e5yxvvk2
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-prague-round-15-results-2011-05-21
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-prague-round-15-results-2011-05-21
+  lang: en
+  template: drupal
+  captured_at: '2017-10-30 09:05:40+00'
+  capture_id: 422843
+  wayback_url: https://web.archive.org/web/20171030090540id_/https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-prague-round-15-results-2011-05-21
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: e5yxvvk2
+  capture_id: 422843
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-prague-round-15-results-2011-05-21
+  wayback_url: https://web.archive.org/web/20171030090540id_/https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-prague-round-15-results-2011-05-21
+  captured_at: '2017-10-30 09:05:40+00'
+  template: drupal
+  sha256: fab52eb6d0cbc4dd3efdd9b9b290617001b930df15587f97524f4484543f5400
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Result</b></td><td><b>&#10;						</b></td><td><b>Opponent</b></td></tr><tr><td> 1</td><td>Tagi-zade, Eldar [RUS]</td><td>Lost 1-2</td><td>vs.</td><td>Downs, Austin [USA]</td></tr><tr><td> 2</td><td>Woltjes, Geertjan [NLD]</td><td>Lost 0-2</td><td>vs.</td><td>Meyer, Tony [DEU]</td></tr><tr><td> 3</td><td>Hajfler, Miroslav [CZE]</td><td>Won 2-0</td><td>vs.</td><td>Gruson, Pierre [FRA]</td></tr><tr><td> 4</td><td>Kotov, Anton [RUS]</td><td>Won 2-1</td><td>vs.</td><td>Halga, Bogdan [AUT]</td></tr><tr><td> 5</td><td>Brade, Raphael [DEU]</td><td>Lost 1-2</td><td>vs.</td><td>Szegho, Dalibor [SVK]</td></tr><tr><td> 6</td><td>Larsson, Joel [SWE]</td><td>Drew 0-0-0</td><td>vs.</td><td>Sappl, Josef [DEU]</td></tr><tr><td> 7</td><td>Rikola, Markku [FIN]</td><td>Drew 1-1-1</td><td>vs.</td><td>Sele, Yves [CHE]</td></tr><tr><td> 8</td><td>Holzinger, Thomas [AUT]</td><td>Lost 1-2</td><td>vs.</td><td>Lindroos, Jani [FIN]</td></tr><tr><td> 9</td><td>Mikuscak, Daniel [SVK]</td><td>Drew 0-0-0</td><td>vs.</td><td>Hofmann, Mike [DEU]</td></tr><tr><td> 10</td><td>Le Briand, Loic [FRA]</td><td>Won 2-0</td><td>vs.</td><td>Lamprecht, Benjamin [AUT]</td></tr><tr><td> 11</td><td>Zunko, Bojan [SVN]</td><td>Lost 0-2</td><td>vs.</td><td>Ulatowski, Przemyslaw [POL]</td></tr><tr><td> 12</td><td>Nahodil, Petr [CZE]</td><td>Won 2-1</td><td>vs.</td><td>Mucha, Eddie [IRL]</td></tr><tr><td> 13</td><td>Hrubisko, Mikulas [SVK]</td><td>Won 2-0</td><td>vs.</td><td>Stocking, Chris J [ENG]</td></tr><tr><td> 14</td><td>Szczepkowski, Michal [POL]</td><td>Lost 1-2</td><td>vs.</td><td>Wagner, Stefan [DEU]</td></tr><tr><td> 15</td><td>Frezard, Julien M [FRA]</td><td>Lost 1-2</td><td>vs.</td><td>De Decker, Tom [BEL]</td></tr><tr><td> 16</td><td>Venchiarutti, Philippe [FRA]</td><td>Lost 0-2</td><td>vs.</td><td>Knoerr, Sebastian [DEU]</td></tr><tr><td> 17</td><td>Ton, Jonathan [CZE]</td><td>Won 2-0</td><td>vs.</td><td>Jakubec, Štìpán [CZE]</td></tr><tr><td> 18</td><td>Geiger, Juergen T [DEU]</td><td>Won 2-1</td><td>vs.</td><td>Juza, Martin [CZE]</td></tr><tr><td> 19</td><td>Jetmundsen, Kristoffer [NOR]</td><td>Lost 0-2</td><td>vs.</td><td>Jaklovsky, Lukas [CZE]</td></tr><tr><td> 20</td><td>Ristovský, Tom [CZE]</td><td>Lost 1-2</td><td>vs.</td><td>Steeger, Thomas [DEU]</td></tr><tr><td> 21</td><td>Rosenberger, Alexander [DEU]</td><td>Lost 1-2</td><td>vs.</td><td>Uschner, Friedemann [DEU]</td></tr><tr><td> 22</td><td>Mayer, Manuel F [DEU]</td><td>Lost 0-2</td><td>vs.</td><td>Varady, Balazs [HUN]</td></tr><tr><td> 23</td><td>Cichecki, Lukasz [POL]</td><td>Won 2-1</td><td>vs.</td><td>Czapor, Grzegorz [POL]</td></tr><tr><td> 24</td><td>Deltour, Louis [FRA]</td><td>Won 2-0</td><td>vs.</td><td>Loor, Steve [BEL]</td></tr><tr><td> 25</td><td>Reitbauer, David E [AUT]</td><td>Drew 0-0-0</td><td>vs.</td><td>Baumert, Martin [DEU]</td></tr><tr><td> 26</td><td>Driessen, Thomas [NLD]</td><td>Drew 0-0-0</td><td>vs.</td><td>Rozhon, Benjamin [AUT]</td></tr><tr><td> 27</td><td>Bland, Richard J [ENG]</td><td>Lost 0-2</td><td>vs.</td><td>Summersberger, Helmut [AUT]</td></tr><tr><td> 28</td><td>Kuchenbecker, Sebastia [DEU]</td><td>Won 2-0</td><td>vs.</td><td>West, Alexander M [USA]</td></tr><tr><td> 29</td><td>Boruvka, Petr [CZE]</td><td>Lost 1-2</td><td>vs.</td><td>Mazzurco, Carlo [DEU]</td></tr><tr><td> 30</td><td>Seibold, Christian [DEU]</td><td>Won 2-1</td><td>vs.</td><td>Wolf, Christopher [AUT]</td></tr><tr><td> 31</td><td>Box, Jesper [NLD]</td><td>Lost 0-2</td><td>vs.</td><td>Neave, Jesse [AUS]</td></tr><tr><td> 32</td><td>Clemente, Stefano [ITA]</td><td>Lost 1-2</td><td>vs.</td><td>Kozak, Jonas [CZE]</td></tr><tr><td> 33</td><td>Wijnen, Marc [NLD]</td><td>Won 2-0</td><td>vs.</td><td>Fyssas, Antonis [GRC]</td></tr><tr><td> 34</td><td>Wall, Oscar [SWE]</td><td>Lost 0-2</td><td>vs.</td><td>Bakkehaug, Christian [NOR]</td></tr><tr><td> 35</td><td>Weidemann, Felix [DEU]</td><td>Lost 1-2</td><td>vs.</td><td>Rizzi, Mattia [ITA]</td></tr><tr><td> 36</td><td>Sokolowski, Konrad [POL]</td><td>Won 2-0</td><td>vs.</td><td>De Coster, Jan [BEL]</td></tr><tr><td> 37</td><td>Nakamura, Shuuhei [JPN]</td><td>Drew 0-0-0</td><td>vs.</td><td>Brozek, Petr [CZE]</td></tr><tr><td> 38</td><td>Jurkovic, Robert [SVK]</td><td>Drew 0-0-0</td><td>vs.</td><td>Blohon, Lucas [CZE]</td></tr><tr><td> 39</td><td>Belogrivs, Imants [LVA]</td><td>Won 2-0</td><td>vs.</td><td>Yatsenko, Alex [USA]</td></tr><tr><td> 40</td><td>Baudys, Ondrej [CZE]</td><td>Won 2-0</td><td>vs.</td><td>Jacobs, Maarten [NLD]</td></tr><tr><td> 41</td><td>Babych, Iurii [UKR]</td><td>Lost 1-2</td><td>vs.</td><td>Hoydonckx, Yves [BEL]</td></tr><tr><td> 42</td><td>Lehner, Bernhard [AUT]</td><td>Won 2-1</td><td>vs.</td><td>Porojan, Raul [DEU]</td></tr><tr><td> 43</td><td>Kocis, Denes [HRV]</td><td>Lost 1-2</td><td>vs.</td><td>Reiter, Florian [DEU]</td></tr><tr><td> 44</td><td>Hrbacek, Jakub [CZE]</td><td>Lost 0-2</td><td>vs.</td><td>Strasky, Ondrej [CZE]</td></tr><tr><td> 45</td><td>Nikitin, Dmitry [RUS]</td><td>Won 2-1</td><td>vs.</td><td>Poliak, Jakub [CZE]</td></tr><tr><td> 46</td><td>Kytka, Petr [CZE]</td><td>Lost 0-2</td><td>vs.</td><td>Nowak, Kamil [POL]</td></tr><tr><td> 47</td><td>Rosenkranz, Ondrej [CZE]</td><td>Lost 1-2</td><td>vs.</td><td>Janse, Love [SWE]</td></tr><tr><td> 48</td><td>Bangert, Jan [DEU]</td><td>Lost 1-2</td><td>vs.</td><td>Oberg, Kenny [SWE]</td></tr><tr><td> 49</td><td>Grabnar, Tomaz [SVN]</td><td>Lost 0-2</td><td>vs.</td><td>Mueller, Andre [DEU]</td></tr><tr><td> 50</td><td>Canavesi, Daniele [ITA]</td><td>Lost 0-2</td><td>vs.</td><td>Paslavskyy, Igor [UKR]</td></tr><tr><td> 51</td><td>Melin, Anders [SWE]</td><td>Won 2-0</td><td>vs.</td><td>Vávra, Nikola [CZE]</td></tr><tr><td> 52</td><td>Martin, Wolfram [DEU]</td><td>Won 2-0</td><td>vs.</td><td>Stückler, Thomas [AUT]</td></tr><tr><td> 53</td><td>Pekala, Szymon [POL]</td><td>Won 2-1</td><td>vs.</td><td>Ruess, Jan H [DEU]</td></tr><tr><td> 54</td><td>Corwood, James [ENG]</td><td>Won 2-0</td><td>vs.</td><td>Van De Veen, Steffen [NLD]</td></tr><tr><td> 55</td><td>Dagen, Pierre [FRA]</td><td>Won 2-0</td><td>vs.</td><td>Koska, Adam [CZE]</td></tr><tr><td> 56</td><td>Martineau, Jerome [FRA]</td><td>Won 2-1</td><td>vs.</td><td>Hanzálek Z, Jan [CZE]</td></tr><tr><td> 57</td><td>Wicher, Adam [POL]</td><td>Won 2-1</td><td>vs.</td><td>Vantuch, Mates [CZE]</td></tr><tr><td>&#10;					</td><td>Colson, Flavien [FRA]</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr><tr><td>&#10;					</td><td>Pedrosa, Patrick [FRA]</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr><tr><td>&#10;					</td><td>Bielsa, David [ESP]</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr><tr><td>&#10;					</td><td>Molokanov, Alexander Y [RUS]</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr><tr><td>&#10;					</td><td>Perbet, Guillaume [FRA]</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr><tr><td>&#10;					</td><td>Skoda, Jan [CZE]</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr><tr><td>&#10;					</td><td>Yeh, Gottlieb [DEU]</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr></tbody></table>

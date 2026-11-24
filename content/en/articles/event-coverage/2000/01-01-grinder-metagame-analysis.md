@@ -1,0 +1,53 @@
+---
+id: 9cr4d2nm
+kind: event
+lang: en
+path: /en/articles/event-coverage/2000/01-01-grinder-metagame-analysis
+title: Grinder Metagame Analysis
+published: '2000-01-01'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/grinder-metagame-analysis-2000-01-01
+    lang_detected: en
+    capture_id: 437474
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/grinder-metagame-analysis-2000-01-01
+    captured_at: '2022-05-18 20:20:52+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/grinder-metagame-analysis-2000-01-01
+    lang_detected: en
+    capture_id: 437474
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/grinder-metagame-analysis-2000-01-01
+    captured_at: '2022-05-18 20:20:52+00'
+    rule: url.date_slug
+sources:
+- document_id: 9cr4d2nm
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/grinder-metagame-analysis-2000-01-01
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/grinder-metagame-analysis-2000-01-01
+  lang: en
+  template: drupal
+  captured_at: '2022-05-18 20:20:52+00'
+  capture_id: 437474
+  wayback_url: https://web.archive.org/web/20220518202052id_/https://magic.wizards.com/en/articles/archive/event-coverage/grinder-metagame-analysis-2000-01-01
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 9cr4d2nm
+  capture_id: 437474
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/grinder-metagame-analysis-2000-01-01
+  wayback_url: https://web.archive.org/web/20220518202052id_/https://magic.wizards.com/en/articles/archive/event-coverage/grinder-metagame-analysis-2000-01-01
+  captured_at: '2022-05-18 20:20:52+00'
+  template: drupal
+  sha256: 6d2f87021836699ad016d8a540fa177aba4052d66ca7d36fd9172d7d7d041b34
+render_recovery: []
+---
+As Japanese Nationals is one of the last National Championship tournaments to be held, Japanese players have access to a wealth of data on the metagame. Although Fires and its variants was the most popular deck in the grinders, there was a large variety of decks, with [Opposition](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Opposition)-[Static Orb](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Static+Orb) making a strong showing. Aside from Fires, the most popular decks contained blue, which is not surprising, as Japanese players generally tend to prefer blue over other colors (last year's National finals featured two mono-blue decks facing off against each other).
+
+Many players were experimenting with established archtypes and coming up with some original creations. Some Opp-Orb decks included green to generate creatures with [Saproling Burst](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Saproling+Burst), some used Fish as the base, while others stuck to the standard mono-blue format with Magpies and [Temporal Adept](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Temporal+Adept)s. A popular deck from the second grinder was the BRG beatdown deck, which combines the best of Machinehead and Fires, with [Pyre Zombies](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pyre+Zombies), [Plague Spitter](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Plague+Spitter)s, direct damage, and Saproling Burst (with a Darigaaz thrown in for kicks). One original deck that almost made it contained no creatures-it won by playing [Spontaneous Generation](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spontaneous+Generation) to produce Saprolings, then dropping [Coat of Arms](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Coat+of+Arms) for a crushing attack, all backed up with counter support. Another deck type that popped up a few times throughout the day was Turbo-Fire, which uses cards like [Harrow](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Harrow), [Early Harvest](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Early+Harvest), and [Restock](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Restock) to generate massive amounts of mana quickly to throw [Ghitu Fire](https://web.archive.org/web/20000101000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ghitu+Fire) at the opponent repeatedly.
+
+As could be expected, the metagame evolved throughout the day, as players reacted and adapted to the decks winning earlier grinder tournaments. Below is a breakdown of the decks used in each grinder; to see the winners from each grinder, click [here](https://web.archive.org/web/20000101000000/http://archive.wizards.com/sideboard/article.asp?x=JPNAT01/opendecks). It remains to be seen what effect the grinders will have on the metagame for Sunday.
+
+<table><tbody><tr><td>&#10;			<p><b>Grinder 1</b></p>&#10;&#10;			<pre>Fires: 18&#10;NetherGo: 6&#10;Classic UW Control: 6&#10;Mono U Control: 6&#10;CounterRebels: 5&#10;OppOrb: 5&#10;Machinehead: 4&#10;Sligh: 2&#10;TurboChant: 2&#10;5CG: 2&#10;UW Weenie: 1&#10;Mono B Control: 1&#10;BR Control: 1&#10;Ponza: 1&#10;Black Weenie: 1&#10;WG Beatdown: 1&#10;Merfolk: 1&#10;Other: 1&#10;</pre>&#10;			</td>&#10;			<td>&#10;			<p><b>Grinder 2</b></p>&#10;&#10;			<pre>Fires: 13&#10;Machinehead: 5&#10;Opp-Orb: 11&#10;NetherGo: 5&#10;Rebels: 4&#10;CounterRebels: 4&#10;TurboChant: 4&#10;BRG Beatdown: 4&#10;Classic UW Control: 3&#10;GW Beatdown: 1&#10;BU Beatdown: 1&#10;UR: 1&#10;5CG: 1&#10;UB Control: 1&#10;GR Steroid: 1&#10;Mono B Control: 1&#10;Mono U Control: 1&#10;WG Rebels: 1&#10;UG Opposition (No Orb): 1&#10;</pre>&#10;			</td>&#10;		</tr><tr><td>&#10;			<p><b>Grinder 3</b></p>&#10;&#10;			<pre>Fires: 14&#10;CounterRebel: 9&#10;Opp-Orb: 8&#10;NetherGo: 7&#10;Machinehead: 6&#10;Mono U Control: 4&#10;Rebels: 3&#10;UB Control: 2&#10;UW Control: 1&#10;TurboChant: 1&#10;Ponza: 2&#10;Merfolk: 1&#10;UB Beatdown: 2&#10;Skies: 1&#10;5CG: 2&#10;GW Beatdown: 1&#10;</pre>&#10;			</td>&#10;			<td>&#10;			<p><b>Grinder 4</b></p>&#10;&#10;			<pre>Fires: 18&#10;Rebels: 10&#10;NetherGo: 7&#10;Opp-Orb: 6&#10;CounterRebels: 4&#10;Machinehead: 3&#10;5CG: 2&#10;Mono U Control: 2&#10;Classic UW Control: 2&#10;Turbo-Fire: 2&#10;GR Steroid: 2&#10;Skies: 2&#10;Burn: 1&#10;Sligh: 1&#10;TurboChant: 1&#10;Mono B Control: 1&#10;</pre>&#10;			</td>&#10;		</tr><tr><td>&#10;			<p><b>Grinder 5</b></p>&#10;&#10;			<pre>Machinehead: 14&#10;Fires: 11&#10;NetherGo: 10&#10;Opp-Orb: 8&#10;CounterRebels: 6&#10;5CG: 3&#10;Rebels: 3&#10;GR Steroid: 3&#10;Mono B Control: 3&#10;TurboObliterate: 1&#10;Skies: 2&#10;Ponza: 2&#10;Classic UW Control: 2&#10;GW Beatdown: 1&#10;Mono U Control: 1&#10;TurboChant: 1&#10;Turbo-Fire: 1&#10;</pre>&#10;			</td>&#10;			<td>&#10;			<p><b>Grinder 6</b></p>&#10;&#10;			<pre>Fires: 15&#10;Machinehead: 9&#10;Rebels: 7&#10;NetherGo: 7&#10;CounterRebels: 6&#10;Opp-Orb: 4&#10;GR Steroid: 3&#10;Mono U Control: 2&#10;Mono B Beatdown: 2&#10;BRG: 2&#10;Classic UW Control: 1&#10;Mono B Control: 1&#10;Turbo-Fire: 1&#10;Burn: 1&#10;UB Beatdown: 1&#10;Other: 2&#10;</pre>&#10;			</td>&#10;		</tr><tr><td>&#10;			<p><b>Grinder 7</b></p>&#10;&#10;			<pre>Fires: 14&#10;Opp-Orb: 8&#10;Machinehead: 8&#10;UB Beatdown: 6&#10;CounterRebels: 6&#10;Rebel: 5&#10;Mono U Control: 3&#10;TurboChant: 2&#10;NetherGo: 2&#10;GP Steroid: 2&#10;5CG: 2&#10;Mono B Beatdown: 2&#10;Classic UW Control: 2&#10;Stompy: 1&#10;Mono W Control: 1&#10;Turbo-Fire: 1&#10;Sligh: 1&#10;BG Beatdown: 1&#10;UG Spontaneous Generation: 1&#10;WG Beatdown: 1&#10;BRG: 1&#10;Mono B Control: 1&#10;</pre>&#10;			</td>&#10;			<td>&#10;			<p><b>Grinder 8</b></p>&#10;&#10;			<pre>GR Steroid: 6&#10;Rebels: 6&#10;Fires: 6&#10;CounterRebels: 5&#10;NetherGo: 5&#10;Opp-Orb: 3&#10;Classic UW Control: 4&#10;Sligh: 3&#10;Mono U Control: 3&#10;BRG: 2&#10;Machinehead: 2&#10;WR Control: 2&#10;Burn: 2&#10;UW Beatdown: 2&#10;UBR: 2&#10;5CG: 1&#10;BR Control: 1&#10;Mono U Static Orb (No Opp): 1&#10;Skies: 1&#10;UB Beatdown: 1&#10;TurboChant: 1&#10;Mono W Control: 1&#10;Mono B Control: 1&#10;UB Control: 1&#10;Skies: 1&#10;Mono W Beatdown: 1&#10;</pre>&#10;			</td>&#10;		</tr><tr><td>&#10;			<p><b>Grinder 9</b></p>&#10;&#10;			<pre>NetherGo: 8&#10;Fires: 7&#10;Rebels: 6&#10;OppOrb: 6&#10;CounterRebels: 5&#10;5CG: 4&#10;GR Steroid: 3&#10;TurboChant: 3&#10;Machinehead: 3&#10;BRG: 2&#10;UBR: 2&#10;Turbo-Fire: 2&#10;UG Spontaneous Generation: 2&#10;Mono B Control: 2&#10;WG Beatdown: 2&#10;Sligh: 1&#10;Mono B Beatdown: 1&#10;BU Control: 1&#10;UB Beatdown: 1&#10;UW Beatdown: 1&#10;Mono U Control: 1&#10;Mono U Static Orb (No Opp): 1&#10;</pre>&#10;			</td>&#10;			<td>&#10;			<p><b>Grinder 10</b></p>&#10;&#10;			<pre>Fires: 12&#10;Opp-Orb: 6&#10;Rebels: 5&#10;GR Steroid: 6&#10;NetherGo: 6&#10;CounterRebels: 4&#10;Machinehead: 4&#10;TurboChant: 3&#10;Classic UW Control: 3&#10;5CG: 3&#10;BRG: 2&#10;Mono B Control: 1&#10;BR Control: 1&#10;Skies: 1&#10;UBR: 1&#10;Mono U Control: 1&#10;WR Control: 1&#10;Ponza: 1&#10;Turbo-Fire: 1&#10;UG Spontaneous Generation: 1&#10;Mono U Static Orb (No Opp): 1&#10;</pre>&#10;			</td>&#10;		</tr><tr><td>&#10;			<p><b>Grinder 11</b></p>&#10;&#10;			<pre>Opp-Orb: 10&#10;GR Steroid: 6&#10;UB Control: 6&#10;Rebels: 7&#10;Fires: 6&#10;Machinehead: 5&#10;NetherGo: 4&#10;CounterRebels: 4&#10;UBR: 3&#10;TurboChant: 2&#10;5CG: 2&#10;Ponza: 1&#10;Skies: 1&#10;UB Beatdown: 1&#10;Mono B Control: 1&#10;Burn: 1&#10;WG Beatdown: 1&#10;Classic UW Control: 1&#10;WR Control: 1&#10;Sligh: 1&#10;Mono U Control: 1&#10;</pre>&#10;			</td>&#10;			<td>&#10;			<p><b>Grinder 12</b></p>&#10;&#10;			<pre>CounterRebels: 4&#10;Fires: 13&#10;Machinehead: 4&#10;GR Steroid: 3&#10;Classic UW Control: 4&#10;NetherGo: 9&#10;5CG: 5&#10;BG Beatdown: 1&#10;TurboChant: 2&#10;UB Control: 1&#10;OptOrb: 6&#10;Rebels: 4&#10;UB Beatdown: 1&#10;Skies: 1&#10;Mono U Control: 1&#10;BRG: 1&#10;Sligh: 1&#10;AggroWaters: 1&#10;UBR: 1&#10;</pre>&#10;			</td>&#10;		</tr></tbody></table>

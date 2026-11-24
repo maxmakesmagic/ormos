@@ -1,0 +1,47 @@
+---
+id: 97srw0qr
+kind: event
+lang: en
+path: /en/articles/event-coverage/2004/07-03-live-coverage-of-2004-canada-national-championship-7
+title: Live Coverage of 2004 Canada National Championship
+published: '2004-07-03'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/live-coverage-2004-canada-national-championship-2004-07-03-22
+    lang_detected: en
+    capture_id: 441428
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/live-coverage-2004-canada-national-championship-2004-07-03-22
+    captured_at: '2022-08-17 07:31:47+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/live-coverage-2004-canada-national-championship-2004-07-03-22
+    lang_detected: en
+    capture_id: 441428
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/live-coverage-2004-canada-national-championship-2004-07-03-22
+    captured_at: '2022-08-17 07:31:47+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: 97srw0qr
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/live-coverage-2004-canada-national-championship-2004-07-03-22
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/live-coverage-2004-canada-national-championship-2004-07-03-22
+  lang: en
+  template: drupal
+  captured_at: '2022-08-17 07:31:47+00'
+  capture_id: 441428
+  wayback_url: https://web.archive.org/web/20220817073147id_/https://magic.wizards.com/en/articles/archive/event-coverage/live-coverage-2004-canada-national-championship-2004-07-03-22
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 97srw0qr
+  capture_id: 441428
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/live-coverage-2004-canada-national-championship-2004-07-03-22
+  wayback_url: https://web.archive.org/web/20220817073147id_/https://magic.wizards.com/en/articles/archive/event-coverage/live-coverage-2004-canada-national-championship-2004-07-03-22
+  captured_at: '2022-08-17 07:31:47+00'
+  template: drupal
+  sha256: 38acab2b02c016052292d51c8f3b75c1c943123f74249287c6bc85fc267ff8c9
+render_recovery: []
+---
+<table><tbody><tr><td><b>Rank</b></td><td><b>Player</b></td><td><b>Points</b></td><td><b>Op.Win%</b></td></tr><tr><td> 1 </td><td>Thicke, Michael</td><td> 29</td><td>61.4325%</td></tr><tr><td> 2 </td><td>Bakht, Sacha</td><td> 27</td><td>57.3022%</td></tr><tr><td> 3 </td><td>Viner, Mike D</td><td> 27</td><td>55.4714%</td></tr><tr><td> 4 </td><td>Howden, Jason</td><td> 26</td><td>60.7660%</td></tr><tr><td> 5 </td><td>Evans, Murray</td><td> 26</td><td>59.7222%</td></tr><tr><td> 6 </td><td>Zhang, Jingpeng</td><td> 26</td><td>55.4609%</td></tr><tr><td> 7 </td><td>Rood, David</td><td> 26</td><td>55.3241%</td></tr><tr><td> 8 </td><td>Tse, Felix</td><td> 25</td><td>61.6288%</td></tr><tr><td> 9 </td><td>Belanger, Guillaume</td><td> 24</td><td>61.1231%</td></tr><tr><td> 10 </td><td>Hoaen, Richard</td><td> 24</td><td>58.1313%</td></tr><tr><td> 11 </td><td>Cormier, Francis</td><td> 24</td><td>58.1019%</td></tr><tr><td> 12 </td><td>Lecky, Alex</td><td> 24</td><td>57.0707%</td></tr><tr><td> 13 </td><td>Broe, Greg</td><td> 24</td><td>50.9028%</td></tr><tr><td> 14 </td><td>Babin, Jean-Marc</td><td> 24</td><td>47.0679%</td></tr><tr><td> 15 </td><td>Ma, Will(iam)</td><td> 23</td><td>54.4907%</td></tr><tr><td> 16 </td><td>Tsang, Gabriel</td><td> 23</td><td>52.3148%</td></tr><tr><td> 17 </td><td>Gray, Jason</td><td> 22</td><td>60.2413%</td></tr><tr><td> 18 </td><td>Page, Nick</td><td> 22</td><td>58.9502%</td></tr><tr><td> 19 </td><td>Boileau, Louis</td><td> 21</td><td>64.6465%</td></tr><tr><td> 20 </td><td>D'auteuil, Miguel</td><td> 21</td><td>62.4495%</td></tr><tr><td> 21 </td><td>Page, Benjamin</td><td> 21</td><td>56.7130%</td></tr><tr><td> 22 </td><td>Zajdner, Mark</td><td> 21</td><td>56.5572%</td></tr><tr><td> 23 </td><td>Felske, David</td><td> 21</td><td>55.9343%</td></tr><tr><td> 24 </td><td>Oreta, Jeff</td><td> 21</td><td>55.2083%</td></tr><tr><td> 25 </td><td>Lorge, Curt</td><td> 21</td><td>53.3058%</td></tr><tr><td> 26 </td><td>Hahn, Jürgen</td><td> 21</td><td>51.2075%</td></tr><tr><td> 27 </td><td>Phelan, Kevin L</td><td> 21</td><td>48.0640%</td></tr><tr><td> 28 </td><td>Samms, Phil</td><td> 20</td><td>52.1759%</td></tr><tr><td> 29 </td><td>Chandra, Rahul</td><td> 19</td><td>57.1549%</td></tr><tr><td> 30 </td><td>Arenson, Mike</td><td> 19</td><td>54.7068%</td></tr><tr><td> 31 </td><td>Hurd, Adam J</td><td> 19</td><td>54.6507%</td></tr><tr><td> 32 </td><td>Hunt, Paul</td><td> 19</td><td>54.3981%</td></tr><tr><td> 33 </td><td>Turner, William</td><td> 19</td><td>51.0954%</td></tr><tr><td> 34 </td><td>Piasecki, Chris</td><td> 19</td><td>48.7833%</td></tr><tr><td> 35 </td><td>Wang, Kaixin</td><td> 18</td><td>65.3333%</td></tr><tr><td> 36 </td><td>Richey, Charles</td><td> 18</td><td>55.6408%</td></tr><tr><td> 37 </td><td>Zheng, Yuanshan</td><td> 18</td><td>55.3535%</td></tr><tr><td> 38 </td><td>Lloyd, James</td><td> 18</td><td>53.4199%</td></tr><tr><td> 39 </td><td>Davis, Robb W</td><td> 18</td><td>52.7778%</td></tr><tr><td> 40 </td><td>Enss, Mattt</td><td> 18</td><td>50.0000%</td></tr><tr><td> 41 </td><td>DeAngelo, Joel</td><td> 18</td><td>48.7037%</td></tr><tr><td> 42 </td><td>Sokolofsky, Chris</td><td> 18</td><td>42.4769%</td></tr><tr><td> 43 </td><td>Liew, Carl</td><td> 18</td><td>38.6364%</td></tr><tr><td> 44 </td><td>Thiessen, Paul C</td><td> 17</td><td>51.2346%</td></tr><tr><td> 45 </td><td>Wastle, Ben P</td><td> 16</td><td>57.7778%</td></tr><tr><td> 46 </td><td>Olynyk, Jason</td><td> 16</td><td>51.2860%</td></tr><tr><td> 47 </td><td>Monast, David</td><td> 16</td><td>50.1082%</td></tr><tr><td> 48 </td><td>Lau, Sam</td><td> 15</td><td>57.2016%</td></tr><tr><td> 49 </td><td>Adams, Jason M</td><td> 15</td><td>57.1759%</td></tr><tr><td> 50 </td><td>Baldry, Mike</td><td> 15</td><td>50.6173%</td></tr><tr><td> 51 </td><td>Hardie, Boyd</td><td> 15</td><td>48.3218%</td></tr><tr><td> 52 </td><td>Cunningham, Jeff</td><td> 15</td><td>47.3251%</td></tr><tr><td> 53 </td><td>Whitehead, Adam</td><td> 15</td><td>45.6152%</td></tr><tr><td> 54 </td><td>MacLaughlin, Daniel</td><td> 15</td><td>45.3704%</td></tr><tr><td> 55 </td><td>Baker, Michael</td><td> 15</td><td>44.6573%</td></tr><tr><td> 56 </td><td>Sweezey, Scott</td><td> 14</td><td>49.3196%</td></tr><tr><td> 57 </td><td>Potvin, Christian</td><td> 13</td><td>49.9197%</td></tr><tr><td> 58 </td><td>Walker, Liam</td><td> 12</td><td>56.0185%</td></tr><tr><td> 59 </td><td>Hajduk, Filip</td><td> 12</td><td>54.5556%</td></tr><tr><td> 60 </td><td>Sage, Tyler</td><td> 12</td><td>53.7374%</td></tr><tr><td> 61 </td><td>MacDonald, Dan</td><td> 12</td><td>51.2500%</td></tr><tr><td> 62 </td><td>Russell, Paul</td><td> 12</td><td>51.1905%</td></tr><tr><td> 63 </td><td>Wregget, Jordan</td><td> 12</td><td>50.0000%</td></tr><tr><td> 64 </td><td>Goud, Michael</td><td> 12</td><td>49.5370%</td></tr><tr><td> 65 </td><td>Noworaj, Andrew</td><td> 12</td><td>49.4342%</td></tr><tr><td> 66 </td><td>Shwaikoski, Brian</td><td> 12</td><td>49.3827%</td></tr><tr><td> 67 </td><td>Leung, Yu Yau</td><td> 12</td><td>44.0329%</td></tr><tr><td> 68 </td><td>Levy, Al</td><td> 12</td><td>43.4524%</td></tr><tr><td> 69 </td><td>Darkeff, Gregory</td><td> 11</td><td>49.4048%</td></tr><tr><td> 70 </td><td>Frac, Robert</td><td> 10</td><td>59.1837%</td></tr><tr><td> 71 </td><td>Braymore, Nathon</td><td> 10</td><td>45.8333%</td></tr><tr><td> 72 </td><td>Labute, John J</td><td> 9</td><td>50.4630%</td></tr><tr><td> 73 </td><td>Tait, Geordie</td><td> 9</td><td>50.3401%</td></tr><tr><td> 74 </td><td>DeRoche, Adrian</td><td> 9</td><td>47.6190%</td></tr><tr><td> 75 </td><td>Priest, Eli</td><td> 9</td><td>47.2222%</td></tr><tr><td> 76 </td><td>Wolfman, Steven</td><td> 9</td><td>46.9136%</td></tr><tr><td> 77 </td><td>White, Mike C</td><td> 9</td><td>46.2449%</td></tr><tr><td> 78 </td><td>Patterson, Jason</td><td> 9</td><td>45.9563%</td></tr><tr><td> 79 </td><td>Hamelin, Matthieu</td><td> 9</td><td>44.7917%</td></tr><tr><td> 80 </td><td>Kelly, Nathan</td><td> 6</td><td>48.4127%</td></tr><tr><td> 81 </td><td>Bédard, Mathieu</td><td> 6</td><td>46.6667%</td></tr><tr><td> 82 </td><td>Quance, Owen</td><td> 6</td><td>46.4286%</td></tr><tr><td> 83 </td><td>Wong, Jay</td><td> 6</td><td>46.0565%</td></tr><tr><td> 84 </td><td>Vance, James</td><td> 6</td><td>45.3704%</td></tr><tr><td> 85 </td><td>Vasovski, Mike</td><td> 6</td><td>42.1811%</td></tr><tr><td> 86 </td><td>Bongiovanni, Mauro</td><td> 6</td><td>42.1769%</td></tr><tr><td> 87 </td><td>Lee, Mon</td><td> 6</td><td>41.8367%</td></tr><tr><td> 88 </td><td>Ribeiro, David</td><td> 5</td><td>38.6905%</td></tr><tr><td> 89 </td><td>Pollock, Elijah</td><td> 3</td><td>75.0000%</td></tr><tr><td> 90 </td><td>St Pierre, Aaron</td><td> 3</td><td>62.5000%</td></tr><tr><td> 91 </td><td>Chambers, Chris</td><td> 3</td><td>47.2222%</td></tr><tr><td> 92 </td><td>Henry, Liam</td><td> 3</td><td>46.6667%</td></tr><tr><td> 93 </td><td>Wise, Joseph Gary</td><td> 3</td><td>42.6667%</td></tr><tr><td> 94 </td><td>Paquette, Aeo</td><td> 0</td><td>55.5556%</td></tr><tr><td> 95 </td><td>Stern, Jon</td><td> 0</td><td>44.4444%</td></tr></tbody></table>

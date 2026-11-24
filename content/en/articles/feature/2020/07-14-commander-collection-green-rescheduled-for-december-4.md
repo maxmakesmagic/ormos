@@ -1,0 +1,66 @@
+---
+id: pxtd1p9s
+kind: article
+lang: en
+path: /en/articles/feature/2020/07-14-commander-collection-green-rescheduled-for-december-4
+title: 'Commander Collection: Green Rescheduled for December 4'
+published: '2020-07-14'
+column_slug: feature
+column: Feature
+authors:
+- slug: wizardsofthecoast
+  name: Wizards of the Coast
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/news/commander-collection-green-rescheduled-december-4-2020-07-13
+    lang_detected: en
+    capture_id: 1095130
+    url: https://magic.wizards.com/en/articles/archive/news/commander-collection-green-rescheduled-december-4-2020-07-13
+    captured_at: '2022-08-15 21:30:02+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/news/commander-collection-green-rescheduled-december-4-2020-07-13
+    lang_detected: en
+    capture_id: 1095130
+    url: https://magic.wizards.com/en/articles/archive/news/commander-collection-green-rescheduled-december-4-2020-07-13
+    captured_at: '2022-08-15 21:30:02+00'
+    rule: drupal.posted_in_date
+  authors:
+    page_key: magic.wizards.com/en/articles/archive/news/commander-collection-green-rescheduled-december-4-2020-07-13
+    lang_detected: en
+    capture_id: 1095130
+    url: https://magic.wizards.com/en/articles/archive/news/commander-collection-green-rescheduled-december-4-2020-07-13
+    captured_at: '2022-08-15 21:30:02+00'
+    rule: drupal.div_author
+  column:
+    page_key: magic.wizards.com/en/articles/archive/news/commander-collection-green-rescheduled-december-4-2020-07-13
+    lang_detected: en
+    capture_id: 1095130
+    url: https://magic.wizards.com/en/articles/archive/news/commander-collection-green-rescheduled-december-4-2020-07-13
+    captured_at: '2022-08-15 21:30:02+00'
+    rule: url.article_section
+    registry_match: registry.explicit
+sources:
+- document_id: pxtd1p9s
+  url: https://magic.wizards.com/en/articles/archive/news/commander-collection-green-rescheduled-december-4-2020-07-13
+  page_key: magic.wizards.com/en/articles/archive/news/commander-collection-green-rescheduled-december-4-2020-07-13
+  lang: en
+  template: drupal
+  captured_at: '2022-08-15 21:30:02+00'
+  capture_id: 1095130
+  wayback_url: https://web.archive.org/web/20220815213002id_/https://magic.wizards.com/en/articles/archive/news/commander-collection-green-rescheduled-december-4-2020-07-13
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: pxtd1p9s
+  capture_id: 1095130
+  url: https://magic.wizards.com/en/articles/archive/news/commander-collection-green-rescheduled-december-4-2020-07-13
+  wayback_url: https://web.archive.org/web/20220815213002id_/https://magic.wizards.com/en/articles/archive/news/commander-collection-green-rescheduled-december-4-2020-07-13
+  captured_at: '2022-08-15 21:30:02+00'
+  template: drupal
+  sha256: 84f8bf41f90e599bd1244738e98382489fbf4df922ad8e6c28ff58269d926904
+render_recovery: []
+---
+Due to production delays, *Commander Collection: Green* will now release Dec. 4.
+
+The delay is unfortunate, especially during the [Year of Commander](/en/articles/feature/2019/10-31-big-things-are-coming-for-commander-in-2020). But it's been a year of many things, and this delay is unfortunately out of our control. We regret any inconvenience this may cause. Learn more about *Commander Collection: Green* [here](https://web.archive.org/web/20200714000000/https://wpn.wizards.com/article/gavin-verhey-big-things-are-coming-commander-2020).

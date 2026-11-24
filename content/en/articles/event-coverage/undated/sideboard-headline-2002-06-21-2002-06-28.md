@@ -1,0 +1,202 @@
+---
+id: 7gfx0y2x
+kind: event
+lang: en
+path: /en/articles/event-coverage/undated/sideboard-headline-2002-06-21-2002-06-28
+title: SideBoard Headline [2002/06/21 - 2002/06/28]
+published: null
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: wizards.com/default.asp?x=sideboard/jpfeature/20020716a,,ja
+    lang_detected: en
+    capture_id: 1556711
+    url: http://www.wizards.com/default.asp?x=sideboard/jpfeature/20020716a,,ja&tablesort=4
+    captured_at: '2003-07-08 07:45:36+00'
+    rule: html.title
+sources:
+- document_id: 7gfx0y2x
+  url: http://www.wizards.com/default.asp?x=sideboard/jpfeature/20020716a,,ja&tablesort=4
+  page_key: wizards.com/default.asp?x=sideboard/jpfeature/20020716a,,ja
+  lang: en
+  template: classic_asp
+  captured_at: '2003-07-08 07:45:36+00'
+  capture_id: 1556711
+  wayback_url: https://web.archive.org/web/20030708074536id_/http://www.wizards.com/default.asp?x=sideboard/jpfeature/20020716a,,ja&tablesort=4
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 7gfx0y2x
+  capture_id: 1556711
+  url: http://www.wizards.com/default.asp?x=sideboard/jpfeature/20020716a,,ja&tablesort=4
+  wayback_url: https://web.archive.org/web/20030708074536id_/http://www.wizards.com/default.asp?x=sideboard/jpfeature/20020716a,,ja&tablesort=4
+  captured_at: '2003-07-08 07:45:36+00'
+  template: classic_asp
+  sha256: 209216b1cd191690259754b9e477ec059503742fb627dc9ebe513899230c3459
+render_recovery:
+- code: unsupported_link
+  element: a
+  target: javascript:autoCardWindowJP('Overrun')
+  reason: The archived link runs JavaScript. The preview kept its text.
+  labels:
+  - Overrun
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: javascript:autoCardWindowJP('Nantuko[Disciple')
+  reason: The archived link runs JavaScript. The preview kept its text.
+  labels:
+  - Nantuko Disciple
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: javascript:autoCardWindowJP('Metamorphic[Wurm')
+  reason: The archived link runs JavaScript. The preview kept its text.
+  labels:
+  - Metamorphic Wurm
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: javascript:autoCardWindowJP('Wild[Mongrel')
+  reason: The archived link runs JavaScript. The preview kept its text.
+  labels:
+  - Wild Mongrel
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: javascript:autoCardWindowJP('Mad[Dog')
+  reason: The archived link runs JavaScript. The preview kept its text.
+  labels:
+  - Mad Dog
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: javascript:autoCardWindowJP('Basking[Rootwalla')
+  reason: The archived link runs JavaScript. The preview kept its text.
+  labels:
+  - Basking Rootwalla
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: javascript:autoCardWindowJP('Nostalgic[Dreams')
+  reason: The archived link runs JavaScript. The preview kept its text.
+  labels:
+  - Nostalgic Dreams
+  occurrences: 2
+- code: unsupported_link
+  element: a
+  target: javascript:autoCardWindowJP('Longhorn[Firebeast')
+  reason: The archived link runs JavaScript. The preview kept its text.
+  labels:
+  - Longhorn Firebeast
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: javascript:autoCardWindowJP('Glory')
+  reason: The archived link runs JavaScript. The preview kept its text.
+  labels:
+  - Glory
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: javascript:autoCardWindowJP('Laquatus@s[Champion')
+  reason: The archived link runs JavaScript. The preview kept its text.
+  labels:
+  - Laquatus's Champion
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: javascript:autoCardWindowJP('Gurzigost')
+  reason: The archived link runs JavaScript. The preview kept its text.
+  labels:
+  - Gurzigost
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: javascript:autoCardWindowJP('Ambassador[Laquatus')
+  reason: The archived link runs JavaScript. The preview kept its text.
+  labels:
+  - Ambassador Laquatus
+  occurrences: 1
+- code: unsupported_link
+  element: a
+  target: javascript:autoCardWindowJP('Phantom[Nishoba')
+  reason: The archived link runs JavaScript. The preview kept its text.
+  labels:
+  - Phantom Nishoba
+  occurrences: 1
+---
+### 
+
+ういっす！
+
+Judgement が正式に導入され、徐々にその効果が世界に蔓延を初めています。世界のあちこちで新たに俺テクが開発されては切磋琢磨し、またドラフトでも次々に方法論が固まってきているようです。今回はそんなドラフトに関する記事からお送りしてみたいと思います。
+
+### ■ [Judgment Limited Review](/en/articles/event-coverage/undated/judgment-limited-review)
+
+単なるおもろいおっちゃんかと思いきや。Potato Nation で Team Pro Tour 優勝実績を持つのが Gary Wise 。最初に、筆者より年下と聞いた時には**どんな嘘つき**かと思いましたが、まごうことなき事実でかなりしょぼんとした記憶があります。でも、ゲームの途中でピザを一枚、しかも日本でいうラージサイズを嬉しそうにたいらげるのはどうかと思います。思っただけでなく、口にしてみたんですが 
+
+![](http://www.wizards.com/sideboard/images/euro02/984.jpg)羨ましいか、やせっぽっち
+
+と素で返されちゃって、**これがイデの力なのか**と異世界見聞録。
+
+そんな彼自身のドラフト用評価を纏めたのが恒例記事となっている Limited Review シリーズ。今回のネタは以前に発表した Judgement に関する評価修正内容。
+
+### ■ [2002 European Championship Coverage](/nl/articles/event-coverage/2002/06-28-2002-european-championship-coverage)
+
+　ドラフト一回目。いきなりあちこちのパックから[マークドカードがこんちはっす](/en/events/2002/euro02/draft-1-gary-wise)。あらやだ奥様な展開で始まった今年のヨーロッパ選手権。しかし、そこで思わず男惚れしそうなヘッドジャッジ Gijsbert Hoogendijk の大英断
+
+全員にスリーブやるから気にするな
+
+いやぁ素敵です。どれだけトラブルを的確に速やかに処理できるかってのはジャッジの腕がでますよね。**ワールドカップ某試合の某審判も見習って欲しい**と思います。珍しく**見てもいない時事ネタ**で媚びを売ってみましたがいかがでしょうか。
+
+　上のリンクは Gary Wise の 1st Draft に貼ったものですが、良く見るとかなりの豪快デッキ。初手《踏み荒らし/Overrun（OD）》に始まり《ナントゥーコの信奉者/Nantuko Disciple（OD）》《変態するワーム/Metamorphic Wurm（OD）》《野生の雑種犬/Wild Mongrel（OD）》そして《狂犬/Mad Dog（OD）》と非常に強力な赤緑デッキを作成しています。　Torment に入り、ちょっとクリーチャーが少なめだったので、初手に《日を浴びるルートワラ/Basking Rootwalla（TO）》二手目には《郷愁的な夢/Nostalgic Dreams(TO)》を諦めてまで《長角火獣/Longhorn Firebeast(TO)》を選択。きっちりと自分のデッキを把握し、的確にカードを補充していく姿にさすが Gary とちょっと感嘆してみようかと思いましたが、よく見たら一番最後に掲載されているデッキリストには《郷愁的な夢/Nostalgic Dreams(TO)》が入っていて
+
+一周してんじゃねーか
+
+とちょっぴり**石を投げてみようかと思いました**。思いましたが、今気が付いたら文中に書いてあったのは内緒です。
+
+[「無敗のドラフトデッキ」](/en/events/2002/euro02/day-1-undefeated-decks)
+
+なにしろ無敗です。間違いなくそこには何か**キラリと光るデッキ構築理論**があるに違いありません。その１断片なりともご紹介してみたいと思います。
+
+*   Roland Bode, Germany \[Draft 1\]　…　《栄光/Glory(JU)》《ラクァタスのチャンピオン/Laquatus's Champion(TO)》
+*   Roland Bode, Germany \[Draft 2\]　…　《ガージゴスト/Gurzigost(TO)》　×　２
+*   Victor van den Broek, the Netherlands \[Draft 1\] …　《ラクァタス大使/Ambassador Laquatus(TO)》《幻影のニショーバ/Phantom Nishoba(JU)》
+
+<table><tbody><tr><td><img src="https://i.ormos.uk/23/d4/23d4a40abbbcb3b0df807126e4acab8c7773826340b24ce0b10fc5f055bea897.jpg"></td>&#10;<td><img src="https://i.ormos.uk/0b/a8/0ba82fe35d405b8043556fb8af39a11f9684f4c08ae8ece025d87548037260f8.jpg"></td>&#10;<td><img src="https://i.ormos.uk/2a/9d/2a9da47510d30c2a409902268a9ec2562d20ae3d9154cf0cef6376ba803094f0.jpg"></td>&#10;<td><img src="https://i.ormos.uk/38/ea/38ea23aeb0a48f79c501fdbc78c130972d4d828444d7a895a4e4d5b3d1e07d28.jpg"></td>&#10;<td><img src="https://i.ormos.uk/5e/93/5e936a17f7f23fe7038e22252b722c60af695c721d0c4240a6643e2a504d5d11.jpg"></td>&#10;</tr>&#10;</tbody></table>
+
+石の用意はいいですか？
+
+**「Top 8」**
+
+Top 8 の初日・二日目の成績を表にまとめてみよう。
+
+<table><tbody><tr><td><b>名前</b></td>&#10;<td><b>一日目</b></td>&#10;<td><b>二日目</b></td>&#10;</tr>&#10;<tr><td> Tenenbaum, Amiel [FRA]</td>&#10;<td>6-1</td>&#10;<td>5-1-1</td>&#10;</tr>&#10;<tr><td> Jonsson, Anton [SWE]</td>&#10;<td>6-1</td>&#10;<td>5-1-1</td>&#10;</tr>&#10;<tr><td> van den Broek, Victor [NLD]</td>&#10;<td>7-0</td>&#10;<td>4-3</td>&#10;</tr>&#10;<tr><td> Lombardi, Marco [ITA] </td>&#10;<td>6-1</td>&#10;<td>4-0-3</td>&#10;</tr>&#10;<tr><td> Bode, Roland [DEU]</td>&#10;<td>7-0</td>&#10;<td>3-1-3</td>&#10;</tr>&#10;<tr><td> Geertsen, Svend [DNK]</td>&#10;<td>6-1</td>&#10;<td>4-0-3</td>&#10;</tr>&#10;<tr><td> Brucker, David [DEU]</td>&#10;<td>6-1</td>&#10;<td>5-2</td>&#10;</tr>&#10;<tr><td> Haim, Christophe [FRA]</td>&#10;<td>5-2</td>&#10;<td>6-1</td>&#10;</tr>&#10;</tbody></table>
+
+一部で**引分けっぷりには定評のある**筆者としては気になるのが、二日目に三人いる**三分け軍団**。最後までもつれにもつれた日本選手権と異なり、14回戦のヨーロッパ選手権ではいきなり Round 12 からトップを走っていた Lombardi Marco と Bode Roland が戦略的 ID。Round 13 でも一部で ID とかなりまったり。Round 13 終了時の Standing が次の表。
+
+<table><tbody><tr><td><a href="/en/articles/event-coverage/undated/sideboard-headline-2002-06-21-2002-06-28"><b>Rank</b></a></td>&#10;<td><a href="/en/articles/event-coverage/undated/sideboard-headline-2002-06-21-2002-06-28"><b>Player</b></a></td>&#10;<td><a href="/en/articles/event-coverage/undated/sideboard-headline-2002-06-21-2002-06-28"><b>Points</b></a></td>&#10;<td><a href="/en/articles/event-coverage/undated/sideboard-headline-2002-06-21-2002-06-28"><b>Op.Win%</b></a></td>&#10;</tr>&#10;<tr><td>14 </td>&#10;<td>O'Connor, Kevin [ENG]</td>&#10;<td>30</td>&#10;<td>53.1708%</td>&#10;</tr>&#10;<tr><td>13 </td>&#10;<td>Haim, Christophe [FRA]</td>&#10;<td>30</td>&#10;<td>54.9955%</td>&#10;</tr>&#10;<tr><td>12 </td>&#10;<td>Ruel, Olivier [FRA]</td>&#10;<td>30</td>&#10;<td>56.4823%</td>&#10;</tr>&#10;<tr><td>4 </td>&#10;<td>Geertsen, Svend [DNK]</td>&#10;<td>32</td>&#10;<td>60.4138%</td>&#10;</tr>&#10;<tr><td>11 </td>&#10;<td>Brucker, David [DEU]</td>&#10;<td>30</td>&#10;<td>60.7293%</td>&#10;</tr>&#10;<tr><td>3 </td>&#10;<td>Bode, Roland [DEU]</td>&#10;<td>32</td>&#10;<td>61.0992%</td>&#10;</tr>&#10;<tr><td>10 </td>&#10;<td>Henstra, Matt [NLD]</td>&#10;<td>30</td>&#10;<td>61.2886%</td>&#10;</tr>&#10;<tr><td>5 </td>&#10;<td>Jonsson, Anton [SWE]</td>&#10;<td>31</td>&#10;<td>61.2964%</td>&#10;</tr>&#10;<tr><td>2 </td>&#10;<td>Lombardi, Marco [ITA]</td>&#10;<td>32</td>&#10;<td>61.8343%</td>&#10;</tr>&#10;<tr><td>9 </td>&#10;<td>Remie, Jeroen [NLD]</td>&#10;<td>30</td>&#10;<td>61.9210%</td>&#10;</tr>&#10;<tr><td>8 </td>&#10;<td>Caumes, Benjamin [FRA]</td>&#10;<td>30</td>&#10;<td>62.1302%</td>&#10;</tr>&#10;<tr><td>7 </td>&#10;<td>Balsby, Jeppe [DNK]</td>&#10;<td>30</td>&#10;<td>62.8250%</td>&#10;</tr>&#10;<tr><td>1 </td>&#10;<td>Tenenbaum, Amiel [FRA]</td>&#10;<td>33</td>&#10;<td>62.9191%</td>&#10;</tr>&#10;<tr><td>6 </td>&#10;<td>van den Broek, Victor [NLD]</td>&#10;<td>30</td>&#10;<td>65.7343%</td>&#10;</tr>&#10;</tbody></table>
+
+30点が勝っても33点。上位四名を除いた10人がガチで勝負するとして、その中から33点以上になる可能性があるのは最大で五名。仮に上位四名が引分けたとすると九名が33点以上となり、オポネント・マッチ・ウィン・パーセンテージで一人脱落することに。その場合は、引分けで33点に到達したほうが、勝利して33点になるよりも有利。何故なら、オポネント・マッチ・ウィン・パーセンテージは次のように計算されちゃうからです。
+
+プレイヤーＡのマッチ・ウィン・パーセンテージ　＝　Ａの得点　÷　（Ａがプレイしたラウンド数ｘ３）
+
+プレイヤーＢのオポネント・マッチ・ウィン・パーセンテージ　＝  
+ （Σ（対戦相手のマッチ・ウィン・パーセンテージ））÷　対戦者数
+
+つまり
+
+最終戦引分け ⇒　全対戦者のうち、最低一人が一点獲得  
+ 最終戦勝ち　⇒　全対戦者のうち、最低一人は０点獲得
+
+となるため。最終戦対戦者以外の結果によっては勿論逆転もあるんですが、基本的には ID 組のほうが有利ってこってす。こういった計算はトーナメント終盤においてできるのとできないのとで、心の安心感が全く変わってくるので、覚えておくと吉。  
+ 結果から書くと、最終戦で10位の Henstra, Matt と14位の O'Connor, Kevin が引分けに終わったため、33点以上は八名しか誕生しませんでした。
+
+**「またもや」**
+
+<table><tbody><tr><td><img src="https://i.ormos.uk/fc/d3/fcd303e216c832a96e5657bf356203e657af86193465daa8f87aac71517049b4.jpg"></td>&#10;<td><p>世界に唯一残った大陸選手権の覇者となったのは、David Brucker。ベスト８に残ったただ一人のサイカ使い。</p>&#10;<p>7/13-14には Grand Prix 台北が開催されます。そう、いよいよ Judgemnt が導入されちゃうのです。はたして、この白緑のパックはどのような変化を環境にもたらしてくれるのでしょうか。ちょっと期待しながら結果を待ちたいと思います。</p>&#10;</td>&#10;<td><img src="https://i.ormos.uk/6f/ca/6fca76cec347582fc12ec44947c3d7102a76bdc62d03a3c6a89f560a8545aab5.jpg"></td>&#10;</tr>&#10;</tbody></table>
+
+では、また来週。

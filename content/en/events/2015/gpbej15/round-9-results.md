@@ -1,0 +1,55 @@
+---
+id: e3p8c268
+kind: event
+lang: en
+path: /en/events/2015/gpbej15/round-9-results
+title: Round 9 Results
+published: '2015-10-24'
+column_slug: null
+column: null
+authors: []
+event_code: gpbej15
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/events/coverage/gpbej15/round-9-results-2015-10-24
+    lang_detected: en
+    capture_id: 26475
+    url: https://magic.wizards.com/en/events/coverage/gpbej15/round-9-results-2015-10-24
+    captured_at: '2022-09-29 09:17:02+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/events/coverage/gpbej15/round-9-results-2015-10-24
+    lang_detected: en
+    capture_id: 26475
+    url: https://magic.wizards.com/en/events/coverage/gpbej15/round-9-results-2015-10-24
+    captured_at: '2022-09-29 09:17:02+00'
+    rule: drupal.posted_in_date
+  event_code:
+    page_key: magic.wizards.com/en/events/coverage/gpbej15/round-9-results-2015-10-24
+    lang_detected: en
+    capture_id: 26475
+    url: https://magic.wizards.com/en/events/coverage/gpbej15/round-9-results-2015-10-24
+    captured_at: '2022-09-29 09:17:02+00'
+    rule: url.event_code
+sources:
+- document_id: e3p8c268
+  url: https://magic.wizards.com/en/events/coverage/gpbej15/round-9-results-2015-10-24
+  page_key: magic.wizards.com/en/events/coverage/gpbej15/round-9-results-2015-10-24
+  lang: en
+  template: drupal
+  captured_at: '2022-09-29 09:17:02+00'
+  capture_id: 26475
+  wayback_url: https://web.archive.org/web/20220929091702id_/https://magic.wizards.com/en/events/coverage/gpbej15/round-9-results-2015-10-24
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: e3p8c268
+  capture_id: 26475
+  url: https://magic.wizards.com/en/events/coverage/gpbej15/round-9-results-2015-10-24
+  wayback_url: https://web.archive.org/web/20220929091702id_/https://magic.wizards.com/en/events/coverage/gpbej15/round-9-results-2015-10-24
+  captured_at: '2022-09-29 09:17:02+00'
+  template: drupal
+  sha256: 1aa8ce735632383cbb842b81a4c0b6dfae74453bdc8647cfbbceb545d045fba0
+render_recovery: []
+---
+<table><tbody><tr><td><b>Team</b></td>&#10;			<td><b>Result</b></td>&#10;			<td> </td>&#10;			<td> </td>&#10;			<td><b>Opponent</b></td>&#10;		</tr><tr><td>1</td>&#10;			<td>Wescoe/Hoaen/Hron</td>&#10;			<td>030</td>&#10;			<td>vs.</td>&#10;			<td>Ding/Jia/Xu</td>&#10;		</tr><tr><td>2</td>&#10;			<td>Shashov/Georgiy/Medvedev</td>&#10;			<td>030</td>&#10;			<td>vs.</td>&#10;			<td>Saito/Tsumura/Takahashi</td>&#10;		</tr><tr><td>3</td>&#10;			<td>Ishimura/Ikawa/Takimura</td>&#10;			<td>300</td>&#10;			<td>vs.</td>&#10;			<td>Yang/Ge/Xu</td>&#10;		</tr><tr><td>4</td>&#10;			<td>Tashima/Shinoda/Kawaguchi</td>&#10;			<td>030</td>&#10;			<td>vs.</td>&#10;			<td>Liu/Ji/Du</td>&#10;		</tr><tr><td>5</td>&#10;			<td>Benafel/LePine/Berkowitz</td>&#10;			<td>300</td>&#10;			<td>vs.</td>&#10;			<td>Wei/Zhong/Jin</td>&#10;		</tr><tr><td>6</td>&#10;			<td>Gao/Yan/Liu</td>&#10;			<td>030</td>&#10;			<td>vs.</td>&#10;			<td>Watanabe/Mihara/Ichikawa</td>&#10;		</tr><tr><td>7</td>&#10;			<td>Seet/Law/Lee</td>&#10;			<td>003</td>&#10;			<td>vs.</td>&#10;			<td>Soh/Chew/Li</td>&#10;		</tr><tr><td>8</td>&#10;			<td>Kang/Zhao/Liu</td>&#10;			<td>300</td>&#10;			<td>vs.</td>&#10;			<td>Wang/Feng/Xiao</td>&#10;		</tr><tr><td>9</td>&#10;			<td>Wang/Li/Jiang</td>&#10;			<td>003</td>&#10;			<td>vs.</td>&#10;			<td>Peng/Song/Niu</td>&#10;		</tr><tr><td>10</td>&#10;			<td>Xu/An/Song</td>&#10;			<td>111</td>&#10;			<td>vs.</td>&#10;			<td>Liu/Long/Wang</td>&#10;		</tr><tr><td>11</td>&#10;			<td>Kamo/Inoue/Takao</td>&#10;			<td>300</td>&#10;			<td>vs.</td>&#10;			<td>Cheng/Gu/Lu</td>&#10;		</tr><tr><td>12</td>&#10;			<td>Liu/He/Zhang</td>&#10;			<td>003</td>&#10;			<td>vs.</td>&#10;			<td>Tu/Qi/Sui</td>&#10;		</tr><tr><td>13</td>&#10;			<td>Fujimura/Hirami/Harane</td>&#10;			<td>111</td>&#10;			<td>vs.</td>&#10;			<td>Ouyang/Liu/Feng</td>&#10;		</tr><tr><td>14</td>&#10;			<td>Zhou/Wang/Gao</td>&#10;			<td>003</td>&#10;			<td>vs.</td>&#10;			<td>Lin/Miao/Jin</td>&#10;		</tr><tr><td>15</td>&#10;			<td>Yamamoto/Yukuhiro/Kitahara</td>&#10;			<td>300</td>&#10;			<td>vs.</td>&#10;			<td>Kashiwa/Iwasaki/Tamada</td>&#10;		</tr><tr><td>16</td>&#10;			<td>Kato/Yasooka/Kakumae</td>&#10;			<td>030</td>&#10;			<td>vs.</td>&#10;			<td>Strautz/Grimmer/Passow</td>&#10;		</tr><tr><td>17</td>&#10;			<td>Wang/Ren/Feng</td>&#10;			<td>030</td>&#10;			<td>vs.</td>&#10;			<td>Li/Yu/Zhang</td>&#10;		</tr><tr><td>18</td>&#10;			<td>Li/Xu/Li</td>&#10;			<td>030</td>&#10;			<td>vs.</td>&#10;			<td>Qiu/Zhong/Zhang</td>&#10;		</tr><tr><td>19</td>&#10;			<td>Shimada/Kanegawa/Saeki</td>&#10;			<td>030</td>&#10;			<td>vs.</td>&#10;			<td>Telarov/Sucic/Koch</td>&#10;		</tr><tr><td>20</td>&#10;			<td>Ji/Zhao/Zhu</td>&#10;			<td>030</td>&#10;			<td>vs.</td>&#10;			<td>Huang/Lin/Yang</td>&#10;		</tr><tr><td>21</td>&#10;			<td>Gao/Hu/Xiong</td>&#10;			<td>030</td>&#10;			<td>vs.</td>&#10;			<td>Myers/Latinov/Schaffner</td>&#10;		</tr><tr><td>22</td>&#10;			<td>Du/Liu/Gao</td>&#10;			<td>300</td>&#10;			<td>vs.</td>&#10;			<td>Gao/Yu/Yao</td>&#10;		</tr><tr><td>23</td>&#10;			<td>Tao/Zhao/Feng</td>&#10;			<td>300</td>&#10;			<td>vs.</td>&#10;			<td>Zhang/Sun/He</td>&#10;		</tr><tr><td>24</td>&#10;			<td>Yasufuku/Kodama/Suzuki</td>&#10;			<td>111</td>&#10;			<td>vs.</td>&#10;			<td>Tong/Lai/Yu</td>&#10;		</tr><tr><td>25</td>&#10;			<td>Zhi/Song/Lu</td>&#10;			<td>030</td>&#10;			<td>vs.</td>&#10;			<td>Ye/Liu/Gan</td>&#10;		</tr><tr><td>26</td>&#10;			<td>Xiong/Wang/Zhou</td>&#10;			<td>300</td>&#10;			<td>vs.</td>&#10;			<td>Tomomura/Yamagami/Morofuji</td>&#10;		</tr><tr><td>27</td>&#10;			<td>Wu/Zhang/Gao</td>&#10;			<td>030</td>&#10;			<td>vs.</td>&#10;			<td>Yan/Sun/Hu</td>&#10;		</tr><tr><td>28</td>&#10;			<td>Ootsuka/Hayashi/Nose</td>&#10;			<td>300</td>&#10;			<td>vs.</td>&#10;			<td>Lei/Sun/Gao</td>&#10;		</tr><tr><td>29</td>&#10;			<td>Choi/Jung/Jung</td>&#10;			<td>030</td>&#10;			<td>vs.</td>&#10;			<td>Zhu/Liu/Fu</td>&#10;		</tr><tr><td>30</td>&#10;			<td>Han/Kang/Yin</td>&#10;			<td>300</td>&#10;			<td>vs.</td>&#10;			<td>Lu/Zuo/Meng</td>&#10;		</tr><tr><td>31</td>&#10;			<td>Zhang/Lu/Ma</td>&#10;			<td>300</td>&#10;			<td>vs.</td>&#10;			<td>Hao/Liu/Liu</td>&#10;		</tr><tr><td>32</td>&#10;			<td>Zhang/Gong/Zhang</td>&#10;			<td>030</td>&#10;			<td>vs.</td>&#10;			<td>Levin/Hart/Pelcak</td>&#10;		</tr><tr><td>33</td>&#10;			<td>Lee/Chan/Tsang</td>&#10;			<td>300</td>&#10;			<td>vs.</td>&#10;			<td>Wang/Yao/Guo</td>&#10;		</tr><tr><td>34</td>&#10;			<td>Li/Kuo/Han</td>&#10;			<td>030</td>&#10;			<td>vs.</td>&#10;			<td>Wang/Zhang/Wang</td>&#10;		</tr><tr><td>35</td>&#10;			<td>Yang/Chu/Zhang</td>&#10;			<td>300</td>&#10;			<td>vs.</td>&#10;			<td>Jiang/Chen/Wang</td>&#10;		</tr><tr><td>36</td>&#10;			<td>Deng/Hu/He</td>&#10;			<td>300</td>&#10;			<td>vs.</td>&#10;			<td>Mao/Lei/Luo</td>&#10;		</tr><tr><td>37</td>&#10;			<td>Jia/Sun/Ai</td>&#10;			<td>300</td>&#10;			<td>vs.</td>&#10;			<td>Kaji/Nakamura/Juza</td>&#10;		</tr><tr><td>38</td>&#10;			<td>Chen/Xu/Wang</td>&#10;			<td>300</td>&#10;			<td>vs.</td>&#10;			<td>Katsubayashi/Matsuda/Nisio</td>&#10;		</tr><tr><td>39</td>&#10;			<td>He/Han/Yang</td>&#10;			<td>030</td>&#10;			<td>vs.</td>&#10;			<td>Xiao/Zhang/Zhang</td>&#10;		</tr><tr><td>40</td>&#10;			<td>Wang/Jia/Wang</td>&#10;			<td>300</td>&#10;			<td>vs.</td>&#10;			<td>Ji/Xiao/Zhai</td>&#10;		</tr><tr><td>41</td>&#10;			<td>Gao/Liu/Guo</td>&#10;			<td>300</td>&#10;			<td>vs.</td>&#10;			<td>Han/Zhang/Song</td>&#10;		</tr><tr><td>42</td>&#10;			<td>Zha/Xu/Wang</td>&#10;			<td>030</td>&#10;			<td>vs.</td>&#10;			<td>Qi/Chen/Cui</td>&#10;		</tr><tr><td>43</td>&#10;			<td>Cui/Gao/Ma</td>&#10;			<td>030</td>&#10;			<td>vs.</td>&#10;			<td>Lu/Lv/Li</td>&#10;		</tr><tr><td>44</td>&#10;			<td>An/Qian/Li</td>&#10;			<td>030</td>&#10;			<td>vs.</td>&#10;			<td>Jin/Jin/Rao</td>&#10;		</tr><tr><td>45</td>&#10;			<td>Lee/Park/Cho</td>&#10;			<td>030</td>&#10;			<td>vs.</td>&#10;			<td>Liu/Li/Luo</td>&#10;		</tr><tr><td>46</td>&#10;			<td>Zhang/Chen/Zhou</td>&#10;			<td>300</td>&#10;			<td>vs.</td>&#10;			<td>Li/Zhang/Yue</td>&#10;		</tr><tr><td>47</td>&#10;			<td>Zhang/Song/Li</td>&#10;			<td>030</td>&#10;			<td>vs.</td>&#10;			<td>Wang/Zhang/Yu</td>&#10;		</tr><tr><td>48</td>&#10;			<td>Bin/Yan/Cui</td>&#10;			<td>030</td>&#10;			<td>vs.</td>&#10;			<td>Takeshita/Matsumoto/Takao</td>&#10;		</tr><tr><td>49</td>&#10;			<td>Porto/Bittencourt/Amigo</td>&#10;			<td>300</td>&#10;			<td>vs.</td>&#10;			<td>Shang/Liu/Shang</td>&#10;		</tr><tr><td>50</td>&#10;			<td>Shen/Xu/Li</td>&#10;			<td>300</td>&#10;			<td>vs.</td>&#10;			<td>Teng/Li/Zhao</td>&#10;		</tr><tr><td>51</td>&#10;			<td>Wang/Zhou/Su</td>&#10;			<td>030</td>&#10;			<td>vs.</td>&#10;			<td>Xu/Liu/Zhao</td>&#10;		</tr><tr><td>52</td>&#10;			<td>Chen/Yen/Chang</td>&#10;			<td>300</td>&#10;			<td>vs.</td>&#10;			<td>Min/Liang/Cao</td>&#10;		</tr><tr><td>53</td>&#10;			<td>Yu/Yang/Li</td>&#10;			<td>300</td>&#10;			<td>vs.</td>&#10;			<td>Wang/Ma/Yin</td>&#10;		</tr><tr><td>54</td>&#10;			<td>Sun/Xu/Guan</td>&#10;			<td>0099</td>&#10;			<td>vs.</td>&#10;			<td>Luo/Wu/Zhang</td>&#10;		</tr><tr><td>55</td>&#10;			<td>Gao/Wang/Sun</td>&#10;			<td>300</td>&#10;			<td>vs.</td>&#10;			<td>Fang/Bai/Si</td>&#10;		</tr><tr><td>56</td>&#10;			<td>Yang/Lu/Xu</td>&#10;			<td>300</td>&#10;			<td>vs.</td>&#10;			<td>Zhou/Zhao/Zhang</td>&#10;		</tr><tr><td>57</td>&#10;			<td>Lu/Song/Li</td>&#10;			<td>030</td>&#10;			<td>vs.</td>&#10;			<td>Wang/Li/Wu</td>&#10;		</tr><tr><td>58</td>&#10;			<td>Zhang/Wang/Wang</td>&#10;			<td>030</td>&#10;			<td>vs.</td>&#10;			<td>Zheng/Ma/Xu</td>&#10;		</tr><tr><td>59</td>&#10;			<td>Li/Li/Qian</td>&#10;			<td>030</td>&#10;			<td>vs.</td>&#10;			<td>Wang/Chu/Ling</td>&#10;		</tr><tr><td>60</td>&#10;			<td>Mao/Xie/Che</td>&#10;			<td>300</td>&#10;			<td>vs.</td>&#10;			<td>Zhang/Wang/Fang</td>&#10;		</tr><tr><td>61</td>&#10;			<td>Wu/Han/Wang</td>&#10;			<td>030</td>&#10;			<td>vs.</td>&#10;			<td>Yao/Dai/Zhang</td>&#10;		</tr><tr><td>62</td>&#10;			<td>Li/Zhang/Zhang</td>&#10;			<td>300</td>&#10;			<td>vs.</td>&#10;			<td>Zhang/Wang/Yv</td>&#10;		</tr><tr><td>63</td>&#10;			<td>Li/Liu/Ma</td>&#10;			<td>030</td>&#10;			<td>vs.</td>&#10;			<td>Kang/Liu/Sun</td>&#10;		</tr><tr><td>64</td>&#10;			<td>Xiang/Fei/Du</td>&#10;			<td>030</td>&#10;			<td>vs.</td>&#10;			<td>Xia/Dong/Cao</td>&#10;		</tr></tbody></table>

@@ -1,0 +1,86 @@
+---
+id: 4gfx59pt
+kind: event
+lang: en
+path: /en/events/2015/gpliv15/drafting-with-nicolai-herzog
+title: Drafting with Nicolai Herzog
+published: '2015-03-08'
+column_slug: null
+column: null
+authors: []
+event_code: gpliv15
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/events/coverage/gpliv15/drafting-nicolai-herzog-2015-03-08
+    lang_detected: en
+    capture_id: 64909
+    url: http://magic.wizards.com/en/events/coverage/gpliv15/drafting-nicolai-herzog-2015-03-08
+    captured_at: '2016-05-03 21:47:15+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/events/coverage/gpliv15/drafting-nicolai-herzog-2015-03-08
+    lang_detected: en
+    capture_id: 64909
+    url: http://magic.wizards.com/en/events/coverage/gpliv15/drafting-nicolai-herzog-2015-03-08
+    captured_at: '2016-05-03 21:47:15+00'
+    rule: drupal.posted_in_date
+  event_code:
+    page_key: magic.wizards.com/en/events/coverage/gpliv15/drafting-nicolai-herzog-2015-03-08
+    lang_detected: en
+    capture_id: 64909
+    url: http://magic.wizards.com/en/events/coverage/gpliv15/drafting-nicolai-herzog-2015-03-08
+    captured_at: '2016-05-03 21:47:15+00'
+    rule: url.event_code
+sources:
+- document_id: 4gfx59pt
+  url: http://magic.wizards.com/en/events/coverage/gpliv15/drafting-nicolai-herzog-2015-03-08
+  page_key: magic.wizards.com/en/events/coverage/gpliv15/drafting-nicolai-herzog-2015-03-08
+  lang: en
+  template: drupal
+  captured_at: '2016-05-03 21:47:15+00'
+  capture_id: 64909
+  wayback_url: https://web.archive.org/web/20160503214715id_/http://magic.wizards.com/en/events/coverage/gpliv15/drafting-nicolai-herzog-2015-03-08
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 4gfx59pt
+  capture_id: 64909
+  url: http://magic.wizards.com/en/events/coverage/gpliv15/drafting-nicolai-herzog-2015-03-08
+  wayback_url: https://web.archive.org/web/20160503214715id_/http://magic.wizards.com/en/events/coverage/gpliv15/drafting-nicolai-herzog-2015-03-08
+  captured_at: '2016-05-03 21:47:15+00'
+  template: drupal
+  sha256: 9243431d84edaa7dabff3233287f627285d41e484c2bd1a9903c00f97f2f6c87
+render_recovery: []
+---
+Having finished Day 1 with but one loss, Norway's Hall of Famer Nicolai Herzog was in a good position to make a run at the Top 8 this weekend. To do so, however, he first needed to draft a deck that would allow him to win at least two of his next three matches. Several years ago, Herzog had made the Top 8 of five Pro Tours and won two consecutive Limited Pro Tours, meaning, on one hand, that he really didn't need to prove his ability at the game anymore, but also suggesting that he might be one of the better players to bet on.
+
+Herzog opened his *Fate Reforged* pack and saw: [Sandblast](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sandblast), Sultai Skullkeeeper, [Bloodfell Caves](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bloodfell+Caves), [Pressure Point](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pressure+Point), [Shock](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shock)maw Dragon, [Hunt the Weak](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hunt+the+Weak), [Grim Contest](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grim+Contest), [Hewed Stone Retainers](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hewed+Stone+Retainers), but most interesting, of course, was [Warden of the First Tree](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Warden+of+the+First+Tree). It didn't take long for him to snatch the powerful rare card.
+
+![](http://media.wizards.com/2015/events/gpliv15/drafting_herzog1.jpg)  
+*Nicolai Herzog*
+
+The next pack included another rare, [Frontier Siege](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Frontier+Siege), as well as [Scoured Barrens](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Scoured+Barrens), [Wardscale Dragon](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wardscale+Dragon), [Sultai Emissary](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sultai+Emissary), and [Hunt the Weak](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hunt+the+Weak). Herzog took some time weighing his options and ended up with [Hunt the Weak](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hunt+the+Weak), settling into green. Next came [Orc Sureshot](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Orc+Sureshot), taken over [Frontier Mastodon](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Frontier+Mastodon), [Bathe in Light](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bathe+in+Light), Bossoming Sands, and [Merciless Executioner](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Merciless+Executioner).
+
+For his fourth pick, he could have gone with [Qarsi High Priest](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Qarsi+High+Priest), [Harsh Sustenance](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Harsh+Sustenance), or [Formless Nurturing](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Formless+Nurturing), but took [Jungle Hollow](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Jungle+Hollow). Next came [Reach of Shadows](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Reach+of+Shadows) over [Formless Nurturing](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Formless+Nurturing), and a sixth-pick [Gurmag Angler](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gurmag+Angler) further cemented his colors. Herzog had apparently firmly settled into green-black, at least for now.
+
+The rest of *Fate Reforged* didn't challenge that either, as he picked up [Cached Defenses](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cached+Defenses), Ghastly Conscrition, [Ruthless Instincts](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ruthless+Instincts), [Winds of Qal Sisma](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Winds+of+Qal+Sisma), [Ainok Guide](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ainok+Guide), Sudden [Reclamation](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Reclamation), two [Abzan Runemark](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Abzan+Runemark)s, and finally a [Sultai Runemark](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sultai+Runemark).
+
+Then came *Khans of Tarkir* and offered a choice of dipping into white for [Ainok Bond-Kin](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ainok+Bond-Kin) or with [Sandsteppe Citadel](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sandsteppe+Citadel), but the pack also included [Savage Punch](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Savage+Punch) and [Throttle](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Throttle), and Herzog took the Punch.
+
+No green or black option presented itself for his second pick, though, with [Blossoming Sands](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Blossoming+Sands), [Rugged Highlands](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rugged+Highlands), [Feat of Resistance](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Feat+of+Resistance), [Burn Away](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Burn+Away), [Icefeather Aven](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Icefeather+Aven), and [Snowhorn Rider](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Snowhorn+Rider) being the most likely alternatives. After some deliberation, Herzog took [Icefeather Aven](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Icefeather+Aven), his first foray into Sultai, though it wouldn't be his last. His third pick was another [Savage Punch](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Savage+Punch) rather than [Abzan Guide](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Abzan+Guide) or [Debilitating Injury](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Debilitating+Injury) and his fourth pick was [Mardu Skullhunter](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mardu+Skullhunter) picked over [Archers' Parapet](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Archers%27+Parapet) and [Sagu Archer](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sagu+Archer).
+
+Pick five came down to a choice between [Sultai Scavenger](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sultai+Scavenger) and [Sultai Charm](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sultai+Charm), and Herzog took the latter. Then he picked up [Dismal Backwater](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dismal+Backwater), followed by [Disowned Ancestor](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Disowned+Ancestor) and [Glacial Stalker](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Glacial+Stalker). Pick nine was [Krumar Bond-Kin](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Krumar+Bond-Kin), followed by [Awaken the Bear](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Awaken+the+Bear) over [Shambling Attendants](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shambling+Attendants). Then came two off-color cards in [War Behemoth](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=War+Behemoth) and [Bloodfire Expert](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bloodfire+Expert), but, for his 13th pick, Herzog was surprisingly faced with a tough decision again, having to choose between [Kheru Bloodsucker](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kheru+Bloodsucker) and [Whirlwind Adept](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Whirlwind+Adept). At the moment blue was going to be a minimal splash, but on the other hand his deck could really have used another creature with power 4 for his two [Savage Punch](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Savage+Punch)es ... Herzog went back and forth between the two cards and finally went with the more safe choice of [Kheru Bloodsucker](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kheru+Bloodsucker).
+
+Last pick of the pack was [Cancel](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cancel) and then it was time for booster number three ... which put Herzog into blue for good, when he rejected Hooting Mandrils, [Sultai Scavenger](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sultai+Scavenger), as well as [Jungle Hollow](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Jungle+Hollow) in favor of [Sagu Mauler](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sagu+Mauler).
+
+One blue card came after the other now, as he took a second [Sultai Charm](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sultai+Charm) over [Jungle Hollow](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Jungle+Hollow) and [Death Frenzy](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Death+Frenzy). With his deck's blue component growing, Herzog was also in need of additional mana fixing, and he was happy to see [Thornwood Falls](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Thornwood+Falls) in the next booster. However, the pack also held one [Dead Drop](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dead+Drop) and he just couldn't pass up such an opportunity. His fourth pick was [Archers' Parapet](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Archers%27+Parapet) over [Sultai Scavenger](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sultai+Scavenger), his fifth was an off-color [Chief of the Edge](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chief+of+the+Edge) from an empty pack.
+
+The Sultai cards should soon return, however, and the next pack gave him [Sultai Charm](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sultai+Charm) number three, followed by [Krumar Bond-Kin](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Krumar+Bond-Kin) and yet another [Sultai Charm](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sultai+Charm)! Herzog now had four copies of the card and was probably happy to see another [Jungle Hollow](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Jungle+Hollow) which he took as his ninth pick, passing yet another [Sultai Scavenger](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sultai+Scavenger).
+
+The final cards to wrap up the draft were a pair of [Tusked Colossodon](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tusked+Colossodon)s, [Sage-Eye Harrier](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sage-Eye+Harrier), and a pair of [Molting Snakeskin](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Molting+Snakeskin)s.
+
+The deck he ended up building from this selection of cards featured quite a number of powerful cards as well as the incomparable flexibility of four [Sultai Charm](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sultai+Charm)s, but the mana could have been better and there one might have liked to have more creatures to deliver all of those [Savage Punch](https://web.archive.org/web/20150308000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?name=Savage+Punch)es ...
+
+![](http://media.wizards.com/2015/events/gpliv15/drafting_herzog2.jpg)
+
+*   [Complete coverage of Grand Prix Liverpool](https://web.archive.org/web/20150308000000/http://magic.wizards.com/node/350801)

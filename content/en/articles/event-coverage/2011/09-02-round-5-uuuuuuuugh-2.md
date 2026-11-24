@@ -1,0 +1,342 @@
+---
+id: 9gp94w6w
+kind: event
+lang: en
+path: /en/articles/event-coverage/2011/09-02-round-5-uuuuuuuugh-2
+title: 'Round 5: "Uuuuuuuugh"'
+published: '2011-09-02'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-5-uuuuuuuugh-2011-09-02-0
+    lang_detected: en
+    capture_id: 552504
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-5-uuuuuuuugh-2011-09-02-0
+    captured_at: '2022-05-25 07:57:21+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-5-uuuuuuuugh-2011-09-02-0
+    lang_detected: en
+    capture_id: 552504
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-5-uuuuuuuugh-2011-09-02-0
+    captured_at: '2022-05-25 07:57:21+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: 9gp94w6w
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-5-uuuuuuuugh-2011-09-02-0
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/round-5-uuuuuuuugh-2011-09-02-0
+  lang: en
+  template: drupal
+  captured_at: '2022-05-25 07:57:21+00'
+  capture_id: 552504
+  wayback_url: https://web.archive.org/web/20220525075721id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-5-uuuuuuuugh-2011-09-02-0
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 9gp94w6w
+  capture_id: 552504
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-5-uuuuuuuugh-2011-09-02-0
+  wayback_url: https://web.archive.org/web/20220525075721id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-5-uuuuuuuugh-2011-09-02-0
+  captured_at: '2022-05-25 07:57:21+00'
+  template: drupal
+  sha256: feb35792317f0741c7883ed4714d7ba6c9a1d69deb671d488be47f8e92bebc42
+render_recovery:
+- code: deck_widget_requires_review
+  element: a
+  reason: The archived deck widget has no visible card rows. The source capture may
+    contain data to recover it.
+  labels:
+  - Decklist
+  occurrences: 2
+---
+[Zvi Mowshowitz vs. Chris Pikula](https://web.archive.org/web/20110902000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/ptphi11/fm4)
+
+## Owen Turtenwald (Naya Zoo) vs. Ben Wienburg (Naya Zoo)
+
+[Jeremy Neeman vs. Sebastian Thaler](https://web.archive.org/web/20110902000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/ptphi11/fm6)
+
+Owen Turtenwald is the man everyone's chasing. He leads the Player of the Year race with 45 points heading into this weekend. Like many of his ChannelFireball.com teammates, he's playing their brew of Naya Zoo. Asking him about his choice, he said "Well, if you asked me yesterday, I wouldn't have been confident, but seeing the field today I'm really glad with my choice. We're really good against the creature decks, and a lot of the combo decks rely on creatures (poison, [Splinter Twin](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Splinter+Twin)) so our removal is good there. Plus we have four [Green Sun's Zenith](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Green+Sun%27s+Zenith) and [Gaddock Teeg](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gaddock+Teeg). We might be a little weak to [Pyromancer's Swath](https://web.archive.org/web/20110902000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Pyromancer%2527s%2BSwath) decks, but I think they're pretty inconsistent."
+
+Ben Wienburg is a PT regular who's been doing well on the StarCityGames.com Open circuit, hoisting at least one Legacy trophy. He's also playing the Naya colors, but his Zoo skews much more towards the aggressive. He chose it because of its quick clock, and because of a perceived fragility in the field's combo decks. He believes that just a little bit of disruption is all it takes to knock them down.
+
+![](https://i.ormos.uk/ed/37/ed37185594d42afa77490667aa97d9c465703e9d43776084c5cd7b9753f3bef2.jpg)
+
+*Ben Wienburg and Owen Turtenwald spend a day at the Zoo.*
+
+While they were shuffling they compared losses. Both were at a comfortable 3-1. Wienburg's loss was at the hands of [Pyromancer Ascension](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pyromancer+Ascension), Turtenwald's to Twelvepost. While they chatted, Turtenwald mulliganed to six, then to five with a frown.
+
+ 
+
+### Game One
+
+Wienburg kicked off with [Arid Mesa](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Arid+Mesa) into [Stomping Ground](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stomping+Ground) and [Kird Ape](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kird+Ape). Turtenwald answered with a fetched [Temple Garden](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Temple+Garden) into [Wild Nacatl](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wild+Nacatl). He got a breather when Wienburg spent his second turn simply attacking for 2 and playing a [Verdant Catacombs](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Verdant+Catacombs). He untapped, dropped a tapped [Steam Vents](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Steam+Vents) to fully charge up his Nacatl, and held back. Wienburg not only had no play at end of turn, but simply played another land and passed.
+
+That was a big break for Tutenwald. He swung in for 3, played a [Steam Vents](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Steam+Vents), then cast a [Green Sun's Zenith](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Green+Sun%27s+Zenith) for a second Nacatl. This one was met with [Path to Exile](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Path+to+Exile), and Turtenwald got himself a [Plains](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Plains).
+
+Wienburg hit for another 2, leaving Turtenwald at 13. He fetched again, this time for a [Plains](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Plains) and spent his four mana on [Tarmogoyf](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tarmogoyf) and a [Tribal Flames](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tribal+Flames) that went to the dome for the full 5. Turtenwald took a defensive stance behind [Elspeth, Knight-Errant](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Elspeth%2C+Knight-Errant), her Soldier token, and his [Wild Nacatl](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wild+Nacatl). Wienburg untapped and paused, seemingly torn between lines of play. He chose to shoot down Elspeth with [Tribal Flames](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tribal+Flames), attack with his [Tarmogoyf](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tarmogoyf) (eating the Soldier), and cast a second [Kird Ape](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kird+Ape).
+
+Unfortunately for him, Turtenwald had a second Elspeth to get his shields back up. Wienburg swung in with all three creatures, knocking Turtenwald to just 5 life but losing a [Kird Ape](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kird+Ape) to the Nacatl in the process. He had nothing to add to the board. Turtenwald sent his Nacatl skyward with Elspeth, evening things at 5 apiece. He added [Knight of the Reliquary](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Knight+of+the+Reliquary) and passed it back. Wienburg sent his [Tarmogoyf](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tarmogoyf), but Turtenwald was ready with [Path to Exile](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Path+to+Exile). With no way to stop the boosted Nacatl on the next turn, Wienburg scooped.
+
+Turtenwald 1, Wienburg 0
+
+ 
+
+### Game Two
+
+Again Wienburg opened the action by taking 3, this time for a fetched [Stomping Ground](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stomping+Ground) and [Wild Nacatl](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wild+Nacatl). Turtenwald took 3 himself to dispatch it with [Lightning Bolt](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lightning+Bolt). Wienburg went to fourteen to get himself a white source for [Loam Lion](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Loam+Lion). Turtenwald made a Nacatl, but Wienburg had the Bolt ready.
+
+![](https://i.ormos.uk/2f/8b/2f8b0f33853d47523b4f013d2869afb89ea875b0bc6d3840a3ce5a541d56a609.jpg)
+
+*Wienburg goes Ape.*
+
+Wienburg hit for two and played a second [Loam Lion](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Loam+Lion). Turtenwald did nothing but play a tapped sacred foundry. Wienburg hit for four and added [Kird Ape](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kird+Ape) to the mix. Once again Turtenwald tried to hide behind [Elspeth, Knight-Errant](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Elspeth%2C+Knight-Errant), but this time Wienburg had a [Lightning Helix](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lightning+Helix) for the token, and then after his attack, a [Tribal Flames](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tribal+Flames) for 5 to seal the deal.
+
+Turtenwald 1, Wienburg 1
+
+Now it was Wienburg's turn to mulligan. He joked, "Have to go down to five to have a chance in this match-up," but stayed at a reasonable six.
+
+ 
+
+### Game Three
+
+Turtenwald opened with [Temple Garden](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Temple+Garden) and [Noble Hierarch](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Noble+Hierarch). Wienburg took 2 for [Stomping Ground](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stomping+Ground) into [Kird Ape](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kird+Ape). Turtenwald played a [Misty Rainforest](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Misty+Rainforest) and a [Wild Nacatl](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wild+Nacatl). Wienburg untapped and binned the Cat with a [Lightning Bolt](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lightning+Bolt). He hit for 2 and played a [Scalding Tarn](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Scalding+Tarn).
+
+Four mana for Turtenwald meant [Elspeth, Knight-Errant](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Elspeth%2C+Knight-Errant) and her helpful Soldier token. Wienburg fetched at end of turn for [Sacred Foundry](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sacred+Foundry) and [Path to Exile](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Path+to+Exile)d the token, giving Turtenwald a [Forest](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Forest). He swung at Elspeth and finished her off with a low-power [Tribal Flames](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tribal+Flames). He had no follow-up, however. Turtenwald untapped, and played [Path to Exile](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Path+to+Exile) on the Ape when it attacked a second time. Still Wienburg had nothing.
+
+![](https://i.ormos.uk/04/a1/04a17c496dc160db14793039317ddfccdef783e292782844316da82d1345c284.jpg)
+
+*Turtenwald gets Catty.*
+
+Turtenwald went on the offensive with a fetched-out [Dryad Arbor](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dryad+Arbor), hitting for 2 thanks to [Noble Hierarch](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Noble+Hierarch). Wienburg was down to just 11, while Turtenwald was at a comfortable 18. Turtenwald tried to increase his clock with [Wild Nacatl](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wild+Nacatl), but [Path to Exile](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Path+to+Exile) got rid of it handily.
+
+For a couple turns they pushed each other back and forth. [Lightning Bolt](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lightning+Bolt) took care of the [Dryad Arbor](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dryad+Arbor), and then [Deathmark](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Deathmark) killed the Hierarch. Wienburg's attempted [Kird Ape](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kird+Ape) was Pathed, and he couldn't find another threat.
+
+Not so for Turtenwald, who tapped five for [Gideon Jura](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gideon+Jura). The strangled "Uuuuuuuugh" from Wienburg said it all. He drew one card, confirmed his life total was 6, and packed up.
+
+Turtenwald 2, Wienburg 1
+
+#### Owen Turtenwald's Naya Zoo (ChannelFireball version)
+
+##### 
+
+ ![Download Arena Decklist](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png) ![](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+[Decklist](#none) [Stats](#none) [Sample Hand](#none) 
+
+Sort by: 
+
+##### Planeswalker (2)
+
+2 [Elspeth, Knight-Errant](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BKnight-Errant%5D) 
+
+##### Creature (18)
+
+4 [Noble Hierarch](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNoble%5D+%5BHierarch%5D) 4 [Wild Nacatl](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BNacatl%5D) 4 [Tarmogoyf](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTarmogoyf%5D) 4 [Knight of the Reliquary](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKnight%5D+%5Bof%5D+%5Bthe%5D+%5BReliquary%5D) 1 [Qasali Pridemage](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BQasali%5D+%5BPridemage%5D) 1 [Gaddock Teeg](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGaddock%5D+%5BTeeg%5D) 
+
+##### Sorcery (4)
+
+4 [Green Sun's Zenith](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGreen%5D+%5BSun%5D+%5BZenith%5D) 
+
+##### Instant (14)
+
+4 [Lightning Bolt](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBolt%5D) 3 [Bant Charm](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBant%5D+%5BCharm%5D) 4 [Path to Exile](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPath%5D+%5Bto%5D+%5BExile%5D) 3 [Lightning Helix](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BHelix%5D) 
+
+##### Land (21)
+
+1 [Dryad Arbor](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDryad%5D+%5BArbor%5D) 1 [Horizon Canopy](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHorizon%5D+%5BCanopy%5D) 1 [Plains](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D) 1 [Forest](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D) 4 [Misty Rainforest](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMisty%5D+%5BRainforest%5D) 4 [Arid Mesa](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArid%5D+%5BMesa%5D) 1 [Scalding Tarn](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScalding%5D+%5BTarn%5D) 2 [Marsh Flats](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMarsh%5D+%5BFlats%5D) 1 [Steam Vents](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteam%5D+%5BVents%5D) 1 [Hallowed Fountain](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHallowed%5D+%5BFountain%5D) 2 [Stomping Ground](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStomping%5D+%5BGround%5D) 1 [Temple Garden](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5BGarden%5D) 1 [Tectonic Edge](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTectonic%5D+%5BEdge%5D) 
+
+59 Cards 
+
+##### Sideboard (15)
+
+1 [Tectonic Edge](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTectonic%5D+%5BEdge%5D) 1 [Qasali Pridemage](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BQasali%5D+%5BPridemage%5D) 3 [Aven Mindcensor](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAven%5D+%5BMindcensor%5D) 3 [Flashfreeze](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlashfreeze%5D) 2 [Unified Will](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnified%5D+%5BWill%5D) 2 [Gideon Jura](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGideon%5D+%5BJura%5D) 1 [Rule of Law](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRule%5D+%5Bof%5D+%5BLaw%5D) 1 [Grim Lavamancer](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrim%5D+%5BLavamancer%5D) 1 [Bribery](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBribery%5D) 
+
+##### White (12)
+
+2 [Elspeth, Knight-Errant](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BKnight-Errant%5D) 4 [Path to Exile](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPath%5D+%5Bto%5D+%5BExile%5D) 3 [Aven Mindcensor](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAven%5D+%5BMindcensor%5D) 2 [Gideon Jura](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGideon%5D+%5BJura%5D) 1 [Rule of Law](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRule%5D+%5Bof%5D+%5BLaw%5D) 
+
+##### Blue (6)
+
+3 [Flashfreeze](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlashfreeze%5D) 2 [Unified Will](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnified%5D+%5BWill%5D) 1 [Bribery](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBribery%5D) 
+
+##### Red (5)
+
+4 [Lightning Bolt](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBolt%5D) 1 [Grim Lavamancer](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrim%5D+%5BLavamancer%5D) 
+
+##### Green (17)
+
+1 [Dryad Arbor](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDryad%5D+%5BArbor%5D) 4 [Noble Hierarch](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNoble%5D+%5BHierarch%5D) 4 [Wild Nacatl](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BNacatl%5D) 4 [Tarmogoyf](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTarmogoyf%5D) 4 [Green Sun's Zenith](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGreen%5D+%5BSun%5D+%5BZenith%5D) 
+
+##### Multi colored (13)
+
+4 [Knight of the Reliquary](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKnight%5D+%5Bof%5D+%5Bthe%5D+%5BReliquary%5D) 2 [Qasali Pridemage](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BQasali%5D+%5BPridemage%5D) 1 [Gaddock Teeg](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGaddock%5D+%5BTeeg%5D) 3 [Bant Charm](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBant%5D+%5BCharm%5D) 3 [Lightning Helix](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BHelix%5D) 
+
+##### Colorless (21)
+
+1 [Horizon Canopy](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHorizon%5D+%5BCanopy%5D) 1 [Plains](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D) 1 [Forest](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D) 4 [Misty Rainforest](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMisty%5D+%5BRainforest%5D) 4 [Arid Mesa](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArid%5D+%5BMesa%5D) 1 [Scalding Tarn](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScalding%5D+%5BTarn%5D) 2 [Marsh Flats](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMarsh%5D+%5BFlats%5D) 1 [Steam Vents](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteam%5D+%5BVents%5D) 1 [Hallowed Fountain](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHallowed%5D+%5BFountain%5D) 2 [Stomping Ground](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStomping%5D+%5BGround%5D) 1 [Temple Garden](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5BGarden%5D) 2 [Tectonic Edge](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTectonic%5D+%5BEdge%5D) 
+
+74 Cards 
+
+##### 1 (21)
+
+4 [Noble Hierarch](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNoble%5D+%5BHierarch%5D) 4 [Wild Nacatl](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BNacatl%5D) 4 [Green Sun's Zenith](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGreen%5D+%5BSun%5D+%5BZenith%5D) 4 [Lightning Bolt](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBolt%5D) 4 [Path to Exile](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPath%5D+%5Bto%5D+%5BExile%5D) 1 [Grim Lavamancer](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrim%5D+%5BLavamancer%5D) 
+
+##### 2 (15)
+
+4 [Tarmogoyf](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTarmogoyf%5D) 2 [Qasali Pridemage](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BQasali%5D+%5BPridemage%5D) 1 [Gaddock Teeg](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGaddock%5D+%5BTeeg%5D) 3 [Lightning Helix](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BHelix%5D) 3 [Flashfreeze](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlashfreeze%5D) 2 [Unified Will](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnified%5D+%5BWill%5D) 
+
+##### 3 (11)
+
+4 [Knight of the Reliquary](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKnight%5D+%5Bof%5D+%5Bthe%5D+%5BReliquary%5D) 3 [Bant Charm](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBant%5D+%5BCharm%5D) 3 [Aven Mindcensor](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAven%5D+%5BMindcensor%5D) 1 [Rule of Law](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRule%5D+%5Bof%5D+%5BLaw%5D) 
+
+##### 4 (2)
+
+2 [Elspeth, Knight-Errant](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BKnight-Errant%5D) 
+
+##### 5 (3)
+
+2 [Gideon Jura](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGideon%5D+%5BJura%5D) 1 [Bribery](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBribery%5D) 
+
+52 Cards 
+
+##### Common (8)
+
+1 [Plains](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D) 1 [Forest](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D) 4 [Wild Nacatl](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BNacatl%5D) 2 [Qasali Pridemage](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BQasali%5D+%5BPridemage%5D) 
+
+##### Uncommon (13)
+
+3 [Bant Charm](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBant%5D+%5BCharm%5D) 4 [Path to Exile](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPath%5D+%5Bto%5D+%5BExile%5D) 3 [Flashfreeze](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlashfreeze%5D) 2 [Unified Will](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BUnified%5D+%5BWill%5D) 1 [Rule of Law](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRule%5D+%5Bof%5D+%5BLaw%5D) 
+
+##### Rare (38)
+
+1 [Dryad Arbor](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDryad%5D+%5BArbor%5D) 4 [Misty Rainforest](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMisty%5D+%5BRainforest%5D) 4 [Arid Mesa](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArid%5D+%5BMesa%5D) 1 [Scalding Tarn](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScalding%5D+%5BTarn%5D) 2 [Marsh Flats](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMarsh%5D+%5BFlats%5D) 1 [Steam Vents](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteam%5D+%5BVents%5D) 1 [Hallowed Fountain](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHallowed%5D+%5BFountain%5D) 2 [Stomping Ground](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStomping%5D+%5BGround%5D) 1 [Temple Garden](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5BGarden%5D) 4 [Noble Hierarch](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNoble%5D+%5BHierarch%5D) 4 [Knight of the Reliquary](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKnight%5D+%5Bof%5D+%5Bthe%5D+%5BReliquary%5D) 1 [Gaddock Teeg](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGaddock%5D+%5BTeeg%5D) 4 [Lightning Bolt](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBolt%5D) 3 [Lightning Helix](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BHelix%5D) 3 [Aven Mindcensor](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAven%5D+%5BMindcensor%5D) 1 [Grim Lavamancer](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGrim%5D+%5BLavamancer%5D) 1 [Bribery](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBribery%5D) 
+
+##### Mythic (15)
+
+1 [Horizon Canopy](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BHorizon%5D+%5BCanopy%5D) 2 [Tectonic Edge](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTectonic%5D+%5BEdge%5D) 4 [Tarmogoyf](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTarmogoyf%5D) 4 [Green Sun's Zenith](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGreen%5D+%5BSun%5D+%5BZenith%5D) 2 [Elspeth, Knight-Errant](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BKnight-Errant%5D) 2 [Gideon Jura](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGideon%5D+%5BJura%5D) 
+
+74 Cards 
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Dryad+Arbor)
+
+[Deal Another Hand](https://web.archive.org/web/20110902000000/https://magic.wizards.com/en)
+
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Path+to+Exile)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Tarmogoyf)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Green+Sun%27s+Zenith)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Tarmogoyf)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Gaddock+Teeg)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Noble+Hierarch)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Lightning+Bolt)
+
+a:32:{i:0;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Dryad Arbor";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:1;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Horizon Canopy";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:2;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:6:"Plains";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:3;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:6:"Forest";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:4;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Misty Rainforest";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:5;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:9:"Arid Mesa";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:6;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Scalding Tarn";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:7;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Marsh Flats";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"2";}i:8;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Steam Vents";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:9;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Hallowed Fountain";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:10;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Stomping Ground";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"2";}i:11;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Temple Garden";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:12;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Tectonic Edge";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:13;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Noble Hierarch";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:14;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Wild Nacatl";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:15;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:9:"Tarmogoyf";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:16;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:23:"Knight of the Reliquary";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:17;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Qasali Pridemage";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"1";}i:18;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Gaddock Teeg";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"1";}i:19;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:18:"Green Sun's Zenith";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"4";}i:20;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Lightning Bolt";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"4";}i:21;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:10:"Bant Charm";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"3";}i:22;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:22:"Elspeth, Knight-Errant";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:12:"planeswalker";s:10:"deck\_count";s:1:"2";}i:23;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Path to Exile";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"4";}i:24;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Lightning Helix";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"3";}i:25;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Aven Mindcensor";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";i:0;}i:26;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Flashfreeze";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}i:27;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Unified Will";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}i:28;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Gideon Jura";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:12:"planeswalker";s:10:"deck\_count";i:0;}i:29;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Rule of Law";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:11:"enchantment";s:10:"deck\_count";i:0;}i:30;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Grim Lavamancer";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";i:0;}i:31;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:7:"Bribery";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";i:0;}} 
+
+#### Ben Wienburg's Naya Zoo (Aggro Version)
+
+##### 
+
+ ![Download Arena Decklist](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png) ![](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+[Decklist](#none) [Stats](#none) [Sample Hand](#none) 
+
+Sort by: 
+
+##### Creature (22)
+
+4 [Wild Nacatl](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BNacatl%5D) 4 [Steppe Lynx](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteppe%5D+%5BLynx%5D) 4 [Kird Ape](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKird%5D+%5BApe%5D) 4 [Loam Lion](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLoam%5D+%5BLion%5D) 4 [Tarmogoyf](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTarmogoyf%5D) 2 [Gaddock Teeg](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGaddock%5D+%5BTeeg%5D) 
+
+##### Sorcery (7)
+
+3 [Thoughtseize](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D) 4 [Tribal Flames](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTribal%5D+%5BFlames%5D) 
+
+##### Instant (10)
+
+4 [Lightning Bolt](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBolt%5D) 4 [Path to Exile](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPath%5D+%5Bto%5D+%5BExile%5D) 2 [Lightning Helix](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BHelix%5D) 
+
+##### Land (21)
+
+4 [Verdant Catacombs](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVerdant%5D+%5BCatacombs%5D) 4 [Scalding Tarn](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScalding%5D+%5BTarn%5D) 4 [Arid Mesa](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArid%5D+%5BMesa%5D) 1 [Misty Rainforest](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMisty%5D+%5BRainforest%5D) 1 [Plains](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D) 1 [Forest](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D) 1 [Blood Crypt](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlood%5D+%5BCrypt%5D) 1 [Sacred Foundry](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSacred%5D+%5BFoundry%5D) 1 [Temple Garden](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5BGarden%5D) 1 [Stomping Ground](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStomping%5D+%5BGround%5D) 1 [Godless Shrine](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGodless%5D+%5BShrine%5D) 1 [Steam Vents](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteam%5D+%5BVents%5D) 
+
+60 Cards 
+
+##### Sideboard (15)
+
+1 [Gaddock Teeg](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGaddock%5D+%5BTeeg%5D) 1 [Thoughtseize](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D) 1 [Lightning Helix](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BHelix%5D) 1 [Ranger of Eos](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRanger%5D+%5Bof%5D+%5BEos%5D) 1 [Sword of Body and Mind](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSword%5D+%5Bof%5D+%5BBody%5D+%5Band%5D+%5BMind%5D) 1 [Elspeth, Knight-Errant](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BKnight-Errant%5D) 2 [Qasali Pridemage](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BQasali%5D+%5BPridemage%5D) 1 [Ancient Grudge](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BGrudge%5D) 2 [Seal of Primordium](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeal%5D+%5Bof%5D+%5BPrimordium%5D) 2 [Ethersworn Canonist](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEthersworn%5D+%5BCanonist%5D) 2 [Deathmark](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeathmark%5D) 
+
+##### White (16)
+
+4 [Steppe Lynx](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteppe%5D+%5BLynx%5D) 4 [Loam Lion](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLoam%5D+%5BLion%5D) 4 [Path to Exile](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPath%5D+%5Bto%5D+%5BExile%5D) 1 [Ranger of Eos](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRanger%5D+%5Bof%5D+%5BEos%5D) 1 [Elspeth, Knight-Errant](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BKnight-Errant%5D) 2 [Ethersworn Canonist](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEthersworn%5D+%5BCanonist%5D) 
+
+##### Black (6)
+
+4 [Thoughtseize](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D) 2 [Deathmark](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeathmark%5D) 
+
+##### Red (13)
+
+4 [Kird Ape](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKird%5D+%5BApe%5D) 4 [Tribal Flames](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTribal%5D+%5BFlames%5D) 4 [Lightning Bolt](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBolt%5D) 1 [Ancient Grudge](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BGrudge%5D) 
+
+##### Green (10)
+
+4 [Wild Nacatl](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BNacatl%5D) 4 [Tarmogoyf](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTarmogoyf%5D) 2 [Seal of Primordium](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeal%5D+%5Bof%5D+%5BPrimordium%5D) 
+
+##### Multi colored (8)
+
+3 [Gaddock Teeg](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGaddock%5D+%5BTeeg%5D) 3 [Lightning Helix](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BHelix%5D) 2 [Qasali Pridemage](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BQasali%5D+%5BPridemage%5D) 
+
+##### Colorless (22)
+
+4 [Verdant Catacombs](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVerdant%5D+%5BCatacombs%5D) 4 [Scalding Tarn](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScalding%5D+%5BTarn%5D) 4 [Arid Mesa](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArid%5D+%5BMesa%5D) 1 [Misty Rainforest](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMisty%5D+%5BRainforest%5D) 1 [Plains](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D) 1 [Forest](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D) 1 [Blood Crypt](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlood%5D+%5BCrypt%5D) 1 [Sacred Foundry](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSacred%5D+%5BFoundry%5D) 1 [Temple Garden](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5BGarden%5D) 1 [Stomping Ground](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStomping%5D+%5BGround%5D) 1 [Godless Shrine](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGodless%5D+%5BShrine%5D) 1 [Steam Vents](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteam%5D+%5BVents%5D) 1 [Sword of Body and Mind](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSword%5D+%5Bof%5D+%5BBody%5D+%5Band%5D+%5BMind%5D) 
+
+75 Cards 
+
+##### 1 (30)
+
+4 [Wild Nacatl](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BNacatl%5D) 4 [Steppe Lynx](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteppe%5D+%5BLynx%5D) 4 [Kird Ape](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKird%5D+%5BApe%5D) 4 [Loam Lion](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLoam%5D+%5BLion%5D) 4 [Thoughtseize](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D) 4 [Lightning Bolt](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBolt%5D) 4 [Path to Exile](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPath%5D+%5Bto%5D+%5BExile%5D) 2 [Deathmark](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeathmark%5D) 
+
+##### 2 (21)
+
+4 [Tarmogoyf](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTarmogoyf%5D) 3 [Gaddock Teeg](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGaddock%5D+%5BTeeg%5D) 4 [Tribal Flames](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTribal%5D+%5BFlames%5D) 3 [Lightning Helix](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BHelix%5D) 2 [Qasali Pridemage](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BQasali%5D+%5BPridemage%5D) 1 [Ancient Grudge](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BGrudge%5D) 2 [Seal of Primordium](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeal%5D+%5Bof%5D+%5BPrimordium%5D) 2 [Ethersworn Canonist](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEthersworn%5D+%5BCanonist%5D) 
+
+##### 3 (1)
+
+1 [Sword of Body and Mind](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSword%5D+%5Bof%5D+%5BBody%5D+%5Band%5D+%5BMind%5D) 
+
+##### 4 (2)
+
+1 [Ranger of Eos](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRanger%5D+%5Bof%5D+%5BEos%5D) 1 [Elspeth, Knight-Errant](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BKnight-Errant%5D) 
+
+54 Cards 
+
+##### Common (19)
+
+1 [Plains](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D) 1 [Forest](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BForest%5D) 4 [Wild Nacatl](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWild%5D+%5BNacatl%5D) 4 [Steppe Lynx](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteppe%5D+%5BLynx%5D) 4 [Tribal Flames](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTribal%5D+%5BFlames%5D) 2 [Qasali Pridemage](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BQasali%5D+%5BPridemage%5D) 1 [Ancient Grudge](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAncient%5D+%5BGrudge%5D) 2 [Seal of Primordium](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeal%5D+%5Bof%5D+%5BPrimordium%5D) 
+
+##### Uncommon (14)
+
+4 [Kird Ape](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKird%5D+%5BApe%5D) 4 [Loam Lion](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLoam%5D+%5BLion%5D) 4 [Path to Exile](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPath%5D+%5Bto%5D+%5BExile%5D) 2 [Deathmark](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDeathmark%5D) 
+
+##### Rare (36)
+
+4 [Verdant Catacombs](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BVerdant%5D+%5BCatacombs%5D) 4 [Scalding Tarn](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BScalding%5D+%5BTarn%5D) 4 [Arid Mesa](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BArid%5D+%5BMesa%5D) 1 [Misty Rainforest](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMisty%5D+%5BRainforest%5D) 1 [Blood Crypt](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBlood%5D+%5BCrypt%5D) 1 [Sacred Foundry](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSacred%5D+%5BFoundry%5D) 1 [Temple Garden](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTemple%5D+%5BGarden%5D) 1 [Stomping Ground](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BStomping%5D+%5BGround%5D) 1 [Godless Shrine](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGodless%5D+%5BShrine%5D) 1 [Steam Vents](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSteam%5D+%5BVents%5D) 3 [Gaddock Teeg](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGaddock%5D+%5BTeeg%5D) 4 [Thoughtseize](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BThoughtseize%5D) 4 [Lightning Bolt](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BBolt%5D) 3 [Lightning Helix](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLightning%5D+%5BHelix%5D) 1 [Ranger of Eos](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BRanger%5D+%5Bof%5D+%5BEos%5D) 2 [Ethersworn Canonist](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BEthersworn%5D+%5BCanonist%5D) 
+
+##### Mythic (6)
+
+4 [Tarmogoyf](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BTarmogoyf%5D) 1 [Sword of Body and Mind](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSword%5D+%5Bof%5D+%5BBody%5D+%5Band%5D+%5BMind%5D) 1 [Elspeth, Knight-Errant](https://web.archive.org/web/20110902000000/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BElspeth,%5D+%5BKnight-Errant%5D) 
+
+75 Cards 
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Verdant+Catacombs)
+
+[Deal Another Hand](https://web.archive.org/web/20110902000000/https://magic.wizards.com/en)
+
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Tribal+Flames)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Wild+Nacatl)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Path+to+Exile)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Arid+Mesa)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Kird+Ape)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Thoughtseize)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Scalding+Tarn)
+
+a:31:{i:0;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Verdant Catacombs";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:1;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Scalding Tarn";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:2;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:9:"Arid Mesa";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"4";}i:3;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Misty Rainforest";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:4;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:6:"Plains";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:5;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:6:"Forest";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:6;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Blood Crypt";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:7;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Sacred Foundry";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:8;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Temple Garden";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:9;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Stomping Ground";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:10;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Godless Shrine";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:11;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Steam Vents";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"1";}i:12;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Wild Nacatl";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:13;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Steppe Lynx";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:14;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:8:"Kird Ape";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:15;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:9:"Loam Lion";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:16;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:9:"Tarmogoyf";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:17;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Gaddock Teeg";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"2";}i:18;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Thoughtseize";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"3";}i:19;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Tribal Flames";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"4";}i:20;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Lightning Bolt";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"4";}i:21;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Path to Exile";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"4";}i:22;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Lightning Helix";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";s:1:"2";}i:23;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Ranger of Eos";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";i:0;}i:24;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:22:"Sword of Body and Mind";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"artifact";s:10:"deck\_count";i:0;}i:25;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:22:"Elspeth, Knight-Errant";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:12:"planeswalker";s:10:"deck\_count";i:0;}i:26;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Qasali Pridemage";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";i:0;}i:27;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Ancient Grudge";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:0;}i:28;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:18:"Seal of Primordium";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:11:"enchantment";s:10:"deck\_count";i:0;}i:29;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:19:"Ethersworn Canonist";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";i:0;}i:30;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:9:"Deathmark";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";i:0;}}

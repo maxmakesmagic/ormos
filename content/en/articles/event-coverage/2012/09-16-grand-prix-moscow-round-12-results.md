@@ -1,0 +1,47 @@
+---
+id: 2sdgtg2b
+kind: event
+lang: en
+path: /en/articles/event-coverage/2012/09-16-grand-prix-moscow-round-12-results
+title: Grand Prix Moscow Round 12 Results
+published: '2012-09-16'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-moscow-round-12-results-2012-09-16
+    lang_detected: en
+    capture_id: 415286
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-moscow-round-12-results-2012-09-16
+    captured_at: '2022-06-26 04:46:37+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-moscow-round-12-results-2012-09-16
+    lang_detected: en
+    capture_id: 415286
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-moscow-round-12-results-2012-09-16
+    captured_at: '2022-06-26 04:46:37+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: 2sdgtg2b
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-moscow-round-12-results-2012-09-16
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-moscow-round-12-results-2012-09-16
+  lang: en
+  template: drupal
+  captured_at: '2022-06-26 04:46:37+00'
+  capture_id: 415286
+  wayback_url: https://web.archive.org/web/20220626044637id_/https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-moscow-round-12-results-2012-09-16
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 2sdgtg2b
+  capture_id: 415286
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-moscow-round-12-results-2012-09-16
+  wayback_url: https://web.archive.org/web/20220626044637id_/https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-moscow-round-12-results-2012-09-16
+  captured_at: '2022-06-26 04:46:37+00'
+  template: drupal
+  sha256: 39cf48f7915cea764f7ef10927ef22613be1969a3a959cc24a492947f2a25514
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Result</b></td><td><b>&#10;						</b></td><td><b>Opponent</b></td></tr><tr><td> 1</td><td>Masaladzhiu, Roman [RUS]</td><td>Won 2-0</td><td>vs.</td><td>Voronovskiy, Sergey [RUS]</td></tr><tr><td> 2</td><td>Van Rijn, Frank [NLD]</td><td>Won 2-0</td><td>vs.</td><td>Mickevicius, Martynas [LTU]</td></tr><tr><td> 3</td><td>Pizzoccheri, Stefano [ITA]</td><td>Won 2-0</td><td>vs.</td><td>Bonaventura, Ciro [ITA]</td></tr><tr><td> 4</td><td>Mironov, Dmitry [RUS]</td><td>Won 2-1</td><td>vs.</td><td>Nazarityan, Peter [RUS]</td></tr><tr><td> 5</td><td>Kolesnikov, Vasiliy M [RUS]</td><td>Lost 0-2</td><td>vs.</td><td>De Rosa, Antonino [USA]</td></tr><tr><td> 6</td><td>Plisov, Oleg [UKR]</td><td>Lost 1-2</td><td>vs.</td><td>Vangdal, Ida [NOR]</td></tr><tr><td> 7</td><td>Gurevich, Alexander [RUS]</td><td>Lost 1-2</td><td>vs.</td><td>Maratkanov, Timofey [RUS]</td></tr><tr><td> 8</td><td>Enduraev, Pavel [RUS]</td><td>Won 2-1</td><td>vs.</td><td>Lisovsky, Maksim [RUS]</td></tr><tr><td> 9</td><td>Kagarmanov, Sergey [RUS]</td><td>Lost 1-2</td><td>vs.</td><td>Menkov, Mikhail [RUS]</td></tr><tr><td> 10</td><td>Tsarkov, Kirill [RUS]</td><td>Lost 0-2</td><td>vs.</td><td>Belyov, Alexey [RUS]</td></tr><tr><td> 11</td><td>Arhipov, Dima [RUS]</td><td>Lost 1-2</td><td>vs.</td><td>Jaklovsky, Lukas [CZE]</td></tr><tr><td> 12</td><td>Magnell, Stian Marcuss [NOR]</td><td>Lost 1-2</td><td>vs.</td><td>Rozin, Arseny [RUS]</td></tr><tr><td> 13</td><td>Dubovik, Evgeny [RUS]</td><td>Lost 0-2</td><td>vs.</td><td>Filimonov, Alexey [RUS]</td></tr><tr><td> 14</td><td>Glinin, Timofey [RUS]</td><td>Won 2-1</td><td>vs.</td><td>Gusiev, Andrii [UKR]</td></tr><tr><td> 15</td><td>Votintsev, Vladimir [RUS]</td><td>Lost 0-2</td><td>vs.</td><td>Yarosh, Konstantin [UKR]</td></tr><tr><td> 16</td><td>Vinogradov, Valeriy [RUS]</td><td>Lost 0-2</td><td>vs.</td><td>Kuznetsov, Petr [RUS]</td></tr><tr><td> 17</td><td>Kerem, Hannes [EST]</td><td>Won 2-1</td><td>vs.</td><td>xiao, lau [CHN]</td></tr><tr><td> 18</td><td>Smirnov, Ivan [RUS]</td><td>Lost 0-2</td><td>vs.</td><td>Vila Ferrer, Ferran [ESP]</td></tr><tr><td> 19</td><td>Casadei, Luca [ITA]</td><td>Won 2-0</td><td>vs.</td><td>Saarinen, Olli [FIN]</td></tr><tr><td> 20</td><td>Mohov, Alexei [RUS]</td><td>Won 2-1</td><td>vs.</td><td>Takeda, Hiroki [JPN]</td></tr><tr><td> 21</td><td>Soroca, Alexey [RUS]</td><td>Lost 1-2</td><td>vs.</td><td>Moiseev, Dmitry S [RUS]</td></tr><tr><td> 22</td><td>Golia, Patrizio [ITA]</td><td>Lost 0-2</td><td>vs.</td><td>Pomazkov, Alexander [RUS]</td></tr><tr><td> 23</td><td>Pronik, Dmitry [RUS]</td><td>Lost 0-2</td><td>vs.</td><td>Buylov, Kirill [RUS]</td></tr><tr><td> 24</td><td>Kashapov, Efim [RUS]</td><td>Won 2-0</td><td>vs.</td><td>Sangadji-Goryaev, Elve [RUS]</td></tr><tr><td> 25</td><td>Dietl, Christian [DEU]</td><td>Lost 0-2</td><td>vs.</td><td>Smirnov, Igor [RUS]</td></tr><tr><td> 26</td><td>Lipay, Dmitriy [BLR]</td><td>Won 2-1</td><td>vs.</td><td>Caillaba, Germain [FRA]</td></tr><tr><td> 27</td><td>Antikainen, Tomi P [FIN]</td><td>Won 2-1</td><td>vs.</td><td>Belyaev, Dmitry [RUS]</td></tr><tr><td> 28</td><td>Trushin, Dmitry [RUS]</td><td>Lost 1-2</td><td>vs.</td><td>Balev, Grigory [RUS]</td></tr><tr><td> 29</td><td>Gruslis, Vlad [BLR]</td><td>Won 2-0</td><td>vs.</td><td>Gorbunov, Igor [RUS]</td></tr><tr><td> 30</td><td>Kuhtuyk, Viachaslav [BLR]</td><td>Lost 0-2</td><td>vs.</td><td>Cifka, Stanislav [CZE]</td></tr><tr><td> 31</td><td>Chuhwichev, Anatoly [RUS]</td><td>Won 2-1</td><td>vs.</td><td>Levy, Raphael [FRA]</td></tr><tr><td> 32</td><td>Mostovich, Petr [RUS]</td><td>Lost 0-2</td><td>vs.</td><td>Andreev, Nikita [RUS]</td></tr><tr><td> 33</td><td>Tolkatchov, Dmitriy [RUS]</td><td>Won 2-1</td><td>vs.</td><td>Zamula, Alexander [RUS]</td></tr><tr><td> 34</td><td>Klevtsov, Alexander [RUS]</td><td>Won 2-1</td><td>vs.</td><td>Collinet, Patrick [DEU]</td></tr><tr><td> 35</td><td>Shabalov, Mikhail [RUS]</td><td>Won 2-1</td><td>vs.</td><td>Kanegawa, Toshiya [JPN]</td></tr><tr><td> 36</td><td>Cammilluzzi, marco [ITA]</td><td>Won 2-0</td><td>vs.</td><td>Dolmatov, Dmitry [UKR]</td></tr><tr><td> 37</td><td>Lagerspetz, Simo E [FIN]</td><td>Lost 0-2</td><td>vs.</td><td>Juza, Martin [CZE]</td></tr><tr><td> 38</td><td>Shalamov, Eugene V [RUS]</td><td>Lost 1-2</td><td>vs.</td><td>Zlotoiabko, Boris S [UKR]</td></tr><tr><td> 39</td><td>Charugin, Vadim [RUS]</td><td>Lost 1-2</td><td>vs.</td><td>Blaas, Jasper [NLD]</td></tr><tr><td> 40</td><td>Netaliev, Oleg [RUS]</td><td>Won 2-0</td><td>vs.</td><td>Skrypov, Igor A [UKR]</td></tr><tr><td> 41</td><td>Pusanov, Konstantin A [RUS]</td><td>Won 2-0</td><td>vs.</td><td>Barinov, Michail [RUS]</td></tr><tr><td> 42</td><td>Kharchuk, Pavel [RUS]</td><td>Lost 0-2</td><td>vs.</td><td>Kuzin, Vladimir [RUS]</td></tr><tr><td> 43</td><td>Shramko, Alexander [RUS]</td><td>Won 2-1</td><td>vs.</td><td>Soderqvist, Joakim [SWE]</td></tr><tr><td> 44</td><td>Egorov, Anatoliy [RUS]</td><td>Won 2-1</td><td>vs.</td><td>Sinkevich, Maxim [RUS]</td></tr><tr><td> 45</td><td>Kolesnikov, Genady [RUS]</td><td>Won 2-0</td><td>vs.</td><td>Stolyarov 7212360911, [RUS]</td></tr><tr><td> 46</td><td>Privalov, Alexander [RUS]</td><td>Won 2-0</td><td>vs.</td><td>Biela, Marius [DEU]</td></tr><tr><td> 47</td><td>Idzikovsky, Eugene [RUS]</td><td>Lost 1-2</td><td>vs.</td><td>Rausch, Oliver [DEU]</td></tr><tr><td> 48</td><td>Kim, Nikolaj [DEU]</td><td>Lost 0-2</td><td>vs.</td><td>Onosov, Oleksandr E [UKR]</td></tr><tr><td> 49</td><td>Gorilenko, Igor [RUS]</td><td>Won 2-0</td><td>vs.</td><td>Bornelöv, Susanne [SWE]</td></tr><tr><td> 50</td><td>Nikitin, Dmitry [RUS]</td><td>Won 2-0</td><td>vs.</td><td>Stroev, Mikhail [RUS]</td></tr><tr><td> 51</td><td>Telipko, Sergey [BLR]</td><td>Won 2-0</td><td>vs.</td><td>Benages, Alfred [ESP]</td></tr><tr><td> 52</td><td>Trushin, Kirill [RUS]</td><td>Won 2-0</td><td>vs.</td><td>Smirnov 1072801482, Dm [RUS]</td></tr><tr><td> 53</td><td>de Graat, Julien [DEU]</td><td>Won 2-0</td><td>vs.</td><td>Caballero Martínez, Ju [ESP]</td></tr><tr><td> 54</td><td>Shalashov, Artem [RUS]</td><td>Won 2-0</td><td>vs.</td><td>Fjellander, Tobias [SWE]</td></tr><tr><td> 55</td><td>Morozov, Anton [RUS]</td><td>Won 2-0</td><td>vs.</td><td>Golubkin, Sergey [RUS]</td></tr><tr><td> 56</td><td>Ryabikov, Peter S [RUS]</td><td>Won 2-1</td><td>vs.</td><td>Petrykin, Alexey V [RUS]</td></tr><tr><td> 57</td><td>Vikharev, Ilya [RUS]</td><td>Lost 1-2</td><td>vs.</td><td>Chepkyi, Mykola [UKR]</td></tr><tr><td> 58</td><td>Smirnov, Denis [RUS]</td><td>Won 2-0</td><td>vs.</td><td>Kluyev, Mikhail [RUS]</td></tr><tr><td> 59</td><td>Grechishkin, Vitaly [RUS]</td><td>Won 2-1</td><td>vs.</td><td>Sciesinski, Marcin [IRL]</td></tr><tr><td> 60</td><td>Babych, Iurii [UKR]</td><td>Lost 0-2</td><td>vs.</td><td>Krautmann, Wenzel [DEU]</td></tr><tr><td>&#10;					</td><td>Merkulov, Andre [RUS]</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr><tr><td>&#10;					</td><td>Stepanov, Denis [RUS]</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr><tr><td>&#10;					</td><td>Kuklin, Alexander [RUS]</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr><tr><td>&#10;					</td><td>Habert, Alexandre [FRA]</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr></tbody></table>

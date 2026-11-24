@@ -1,0 +1,47 @@
+---
+id: tcv0zaf5
+kind: event
+lang: en
+path: /en/articles/event-coverage/2011/08-05-2011-u-s-national-championship-round-13-results
+title: 2011 U.S. National Championship - Round 13 Results
+published: '2011-08-05'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/2011-us-national-championship-round-13-results-2011-08-05
+    lang_detected: en
+    capture_id: 330507
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/2011-us-national-championship-round-13-results-2011-08-05
+    captured_at: '2022-05-18 22:14:30+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/2011-us-national-championship-round-13-results-2011-08-05
+    lang_detected: en
+    capture_id: 330507
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/2011-us-national-championship-round-13-results-2011-08-05
+    captured_at: '2022-05-18 22:14:30+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: tcv0zaf5
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/2011-us-national-championship-round-13-results-2011-08-05
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/2011-us-national-championship-round-13-results-2011-08-05
+  lang: en
+  template: drupal
+  captured_at: '2022-05-18 22:14:30+00'
+  capture_id: 330507
+  wayback_url: https://web.archive.org/web/20220518221430id_/https://magic.wizards.com/en/articles/archive/event-coverage/2011-us-national-championship-round-13-results-2011-08-05
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: tcv0zaf5
+  capture_id: 330507
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/2011-us-national-championship-round-13-results-2011-08-05
+  wayback_url: https://web.archive.org/web/20220518221430id_/https://magic.wizards.com/en/articles/archive/event-coverage/2011-us-national-championship-round-13-results-2011-08-05
+  captured_at: '2022-05-18 22:14:30+00'
+  template: drupal
+  sha256: 1a4266646a2c198060340b72e3319ee78cfb9bf0743d1a5e8399177227dbcc3e
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Result</b></td><td><b>&#10;						</b></td><td><b>Opponent</b></td></tr><tr><td> 1</td><td>Ochoa, David</td><td>Drew 0-0-0</td><td>vs.</td><td>Aintrazi, Ali</td></tr><tr><td> 2</td><td>Hu, Haibing</td><td>Won 2-1</td><td>vs.</td><td>McLeod, James</td></tr><tr><td> 3</td><td>Scott-Vargas, Luis</td><td>Won 2-1</td><td>vs.</td><td>Edgerle, Nick</td></tr><tr><td> 4</td><td>Nelson, Brandon</td><td>Won 2-1</td><td>vs.</td><td>Valenti, Christian</td></tr><tr><td> 5</td><td>Koessel, Noah</td><td>Won 2-0</td><td>vs.</td><td>McCaslin, Aaron</td></tr><tr><td> 6</td><td>Tidd, David</td><td>Lost 0-2</td><td>vs.</td><td>Chapin, Patrick</td></tr><tr><td> 7</td><td>Soorani, Shaheen</td><td>Won 2-1</td><td>vs.</td><td>Wise, Wesley</td></tr><tr><td> 8</td><td>Stokes, Eliott</td><td>Lost 0-2</td><td>vs.</td><td>Kolos, John</td></tr><tr><td> 9</td><td>Howe, Joshua</td><td>Lost 0-2</td><td>vs.</td><td>Turtenwald, Owen</td></tr><tr><td> 10</td><td>Napoli, Phillip</td><td>Won 2-1</td><td>vs.</td><td>Hayes, Ben</td></tr><tr><td> 11</td><td>Long, Shon</td><td>Lost 1-2</td><td>vs.</td><td>dela Cruz, Jimmy</td></tr><tr><td> 12</td><td>Nass, Matthew</td><td>Won 2-0</td><td>vs.</td><td>Petrov, Matt</td></tr><tr><td> 13</td><td>Schelling, Christopher</td><td>Lost 1-2</td><td>vs.</td><td>Buckingham, James</td></tr><tr><td> 14</td><td>Yurchick, Adam</td><td>Won 2-0</td><td>vs.</td><td>Spindler, Ryan</td></tr><tr><td> 15</td><td>Hurst, Brendan</td><td>Lost 0-2</td><td>vs.</td><td>Kubilis, John L</td></tr><tr><td> 16</td><td>Cape, Phil</td><td>Lost 1-2</td><td>vs.</td><td>Ruan, Kai</td></tr><tr><td> 17</td><td>Bertoncini, alex s</td><td>Won 2-0</td><td>vs.</td><td>Sears, Isaac</td></tr><tr><td> 18</td><td>King, Byron</td><td>Won 2-1</td><td>vs.</td><td>Pacifico, Andrew</td></tr><tr><td> 19</td><td>booher, Julian</td><td>Lost 0-2</td><td>vs.</td><td>Rennard, Nick</td></tr><tr><td> 20</td><td>krohm, brandon w</td><td>Lost 0-2</td><td>vs.</td><td>Keaveny, Joseph</td></tr><tr><td> 21</td><td>Merriam, Ross</td><td>Won 2-1</td><td>vs.</td><td>Wadsack-stewart, Patrick</td></tr><tr><td> 22</td><td>Raney, Tom</td><td>Won 2-0</td><td>vs.</td><td>Kibler, Brian</td></tr><tr><td> 23</td><td>Calcano, Christian</td><td>Won 2-1</td><td>vs.</td><td>Moses, Jason</td></tr><tr><td> 24</td><td>Baumeister, Corey</td><td>Won 2-0</td><td>vs.</td><td>Lederman, CJ</td></tr><tr><td> 25</td><td>Edwards, Kyle</td><td>Won 2-1</td><td>vs.</td><td>Hakakian, Joshua A</td></tr><tr><td> 26</td><td>Anderson, Todd</td><td>Lost 1-2</td><td>vs.</td><td>Denniser, Andrew</td></tr><tr><td> 27</td><td>Daniel, David</td><td>Won 2-1</td><td>vs.</td><td>Majors, Michael</td></tr><tr><td> 28</td><td>Lorren, Phillip</td><td>Lost 0-2</td><td>vs.</td><td>Wood, Matthew E</td></tr><tr><td> 29</td><td>Cullum, Travis H</td><td>Lost 1-2</td><td>vs.</td><td>Boyd, Adam</td></tr><tr><td> 30</td><td>Jerman, James</td><td>Lost 0-2</td><td>vs.</td><td>hickox, tyler</td></tr><tr><td> 31</td><td>Steele, Christopher</td><td>Won 2-1</td><td>vs.</td><td>Siu, Brian</td></tr><tr><td> 32</td><td>Wadsack-Stewart, Jordan</td><td>Won 2-1</td><td>vs.</td><td>Herr, Shawn</td></tr><tr><td> 33</td><td>Khanin, Alex</td><td>Lost 0-2</td><td>vs.</td><td>Edmunds, Ellis</td></tr><tr><td> 34</td><td>Faeder, Dustin</td><td>Lost 0-2</td><td>vs.</td><td>Lytle, Tyler</td></tr><tr><td> 35</td><td>Black, Samuel</td><td>Lost 0-2</td><td>vs.</td><td>Duke, reid</td></tr><tr><td> 36</td><td>Koenig, Robert</td><td>Lost 1-2</td><td>vs.</td><td>Beasley, Orrin</td></tr><tr><td> 37</td><td>Phillips, Cedric</td><td>Won 2-1</td><td>vs.</td><td>Forrest, Brad</td></tr><tr><td> 38</td><td>Ravitz, Joshua</td><td>Won 2-0</td><td>vs.</td><td>Lochridge, Jeremey</td></tr><tr><td> 39</td><td>Eleyet, Bryan</td><td>Won 2-0</td><td>vs.</td><td>Radsliff, Elliot</td></tr><tr><td> 40</td><td>Pawelzik, Gery</td><td>Won 2-1</td><td>vs.</td><td>Tinney, Bradley R</td></tr><tr><td> 41</td><td>Samson, Daniel E</td><td>Won 2-0</td><td>vs.</td><td>Flores, Charles</td></tr><tr><td> 42</td><td>Kastle Mess, Darwin</td><td>Lost 1-2</td><td>vs.</td><td>Warbington, Justin</td></tr><tr><td> 43</td><td>Wescoe, Craig</td><td>Lost 1-2</td><td>vs.</td><td>Nguyen, Quan</td></tr><tr><td> 44</td><td>Towers, Robert</td><td>Lost 1-2</td><td>vs.</td><td>Costantini, Mark</td></tr><tr><td> 45</td><td>Nemeth, Mark</td><td>Lost 0-2</td><td>vs.</td><td>Nelson, Jon</td></tr><tr><td> 46</td><td>Codman, John</td><td>Lost 1-2</td><td>vs.</td><td>Nettles, Logan</td></tr><tr><td> 47</td><td>Edelson, Adam</td><td>Won 2-0</td><td>vs.</td><td>Pitz, Jesse</td></tr></tbody></table>

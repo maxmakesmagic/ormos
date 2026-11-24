@@ -1,0 +1,47 @@
+---
+id: 5wzv2ace
+kind: event
+lang: it
+path: /it/articles/event-coverage/2004/06-12-round-3-results
+title: Round 3 Results
+published: '2004-06-12'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: it
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-3-results-2004-06-12
+    lang_detected: it
+    capture_id: 525897
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-3-results-2004-06-12
+    captured_at: '2022-05-25 02:06:28+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-3-results-2004-06-12
+    lang_detected: it
+    capture_id: 525897
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-3-results-2004-06-12
+    captured_at: '2022-05-25 02:06:28+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: 5wzv2ace
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-3-results-2004-06-12
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/round-3-results-2004-06-12
+  lang: it
+  template: drupal
+  captured_at: '2022-05-25 02:06:28+00'
+  capture_id: 525897
+  wayback_url: https://web.archive.org/web/20220525020628id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-3-results-2004-06-12
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 5wzv2ace
+  capture_id: 525897
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-3-results-2004-06-12
+  wayback_url: https://web.archive.org/web/20220525020628id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-3-results-2004-06-12
+  captured_at: '2022-05-25 02:06:28+00'
+  template: drupal
+  sha256: 8e650679f0e423cd6e02e8d1c14b291afec94160d193597b3891e4af328b5d96
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Result</b></td><td><b>&#10;						</b></td><td><b>Opponent</b></td></tr><tr><td> 1</td><td>Artuso, Emil</td><td>Won 2-1</td><td>vs.</td><td>Conficoni, Alberto</td></tr><tr><td> 2</td><td>Sbrozzi, Luigi</td><td>Lost 1-2</td><td>vs.</td><td>Sacchi, Simone</td></tr><tr><td> 3</td><td>De Rosa, Antonino</td><td>Lost 1-2</td><td>vs.</td><td>Nai, Enrico</td></tr><tr><td> 4</td><td>Mirabile, Giulio</td><td>Won 2-1</td><td>vs.</td><td>Negrini, Claudio</td></tr><tr><td> 5</td><td>Ottati, Domingo</td><td>Lost 1-2</td><td>vs.</td><td>Carboni, Simone</td></tr><tr><td> 6</td><td>Parazzoli, Dario</td><td>Won 2-0</td><td>vs.</td><td>Guglielmi, Vincenzo</td></tr><tr><td> 7</td><td>Zavan, Alessio</td><td>Won 2-1</td><td>vs.</td><td>Kagawa, Mido</td></tr><tr><td> 8</td><td>Gubitta, Davide</td><td>Won 2-1</td><td>vs.</td><td>Natta, Albert</td></tr><tr><td> 9</td><td>Paselli, Andrea</td><td>Lost 1-2</td><td>vs.</td><td>Cerasari, Andrea</td></tr><tr><td> 10</td><td>Muratori, Giammaria</td><td>Lost 1-2</td><td>vs.</td><td>Besso, David</td></tr><tr><td> 11</td><td>Marchetti, Alessio</td><td>Won 2-0</td><td>vs.</td><td>Gubert, Michel</td></tr><tr><td> 12</td><td>Pancini, Marco</td><td>Won 2-1</td><td>vs.</td><td>Albarelli, Nicola</td></tr><tr><td> 13</td><td>Pascoli, Mario</td><td>Lost 1-2</td><td>vs.</td><td>Aiudi, Giovanni</td></tr><tr><td> 14</td><td>Giorgeschi, Gabriele</td><td>Won 2-1</td><td>vs.</td><td>Stivoli, Mauro</td></tr><tr><td> 15</td><td>Dato, Federico</td><td>Won 2-1</td><td>vs.</td><td>Barbieri, Andrea</td></tr><tr><td> 16</td><td>Conte, Manuel</td><td>Lost 0-2</td><td>vs.</td><td>De Luca, Giuseppe</td></tr><tr><td> 17</td><td>Chu, Yuang</td><td>Lost 1-2</td><td>vs.</td><td>Berti, Francesco</td></tr><tr><td> 18</td><td>Ognibene, Giovanni Maria</td><td>Won 2-0</td><td>vs.</td><td>Angeli, Alessio</td></tr><tr><td> 19</td><td>Garofalo, Alessio</td><td>Won 2-0</td><td>vs.</td><td>Reale, Giuseppe</td></tr><tr><td> 20</td><td>Baldoni, Danilo</td><td>Lost 1-2</td><td>vs.</td><td>Chiera, Luca</td></tr><tr><td> 21</td><td>Marciano, Giancarlo</td><td>Lost 1-2</td><td>vs.</td><td>Guarino, Massimo</td></tr><tr><td> 22</td><td>De Archangelis, Andrea</td><td>Lost 0-2</td><td>vs.</td><td>Cocco, Matteo</td></tr><tr><td> 23</td><td>Salvini, Andrea</td><td>Lost 0-2</td><td>vs.</td><td>Mazzarino, Marcello</td></tr><tr><td> 24</td><td>Lo Moro, Raffaele</td><td>Won 2-0</td><td>vs.</td><td>Nediani, Andrea</td></tr><tr><td> 25</td><td>Stillio, Francesco</td><td>Lost 0-2</td><td>vs.</td><td>Magoga, Fabio</td></tr><tr><td> 26</td><td>Torresan, Alessandro</td><td>Won 2-0</td><td>vs.</td><td>Chieco, Davide</td></tr><tr><td> 27</td><td>Quinto, Maurizio</td><td>Lost 1-2</td><td>vs.</td><td>Selvaggi, Alessandro</td></tr><tr><td> 28</td><td>Cielo, Francesco</td><td>Lost 1-2</td><td>vs.</td><td>Fiori, Stefano</td></tr><tr><td> 29</td><td>Giusti, Norberto</td><td>Won 2-0</td><td>vs.</td><td>De Sanctis, Pietro</td></tr><tr><td> 30</td><td>D'Amico, Daniele</td><td>Won 2-1</td><td>vs.</td><td>Verno, Gianluca</td></tr><tr><td> 31</td><td>Rossi, Simone</td><td>Lost 1-2</td><td>vs.</td><td>Lombardi, Marco</td></tr><tr><td> 32</td><td>Betti, Alessandro</td><td>Lost 1-2</td><td>vs.</td><td>Santin, Andrea</td></tr><tr><td> 33</td><td>Cirigliano, Matteo</td><td>Lost 0-2</td><td>vs.</td><td>Piernoli, Filiberto</td></tr><tr><td> 34</td><td>Torazza, Enrico</td><td>Won 2-0</td><td>vs.</td><td>Pagano, Alessandro</td></tr><tr><td> 35</td><td>Gesiot, Giovanni</td><td>Lost 1-2</td><td>vs.</td><td>Focherini, Roberto</td></tr><tr><td> 36</td><td>Di Tomaso, Matteo</td><td>Lost 1-2</td><td>vs.</td><td>Minieri, Dario</td></tr><tr><td> 37</td><td>Koumoulis, Alessandro</td><td>Lost 1-2</td><td>vs.</td><td>Luongo, Nicola</td></tr><tr><td> 38</td><td>Mancuso, Antonino</td><td>Won 2-0</td><td>vs.</td><td>Fornasari, Michele</td></tr><tr><td> 39</td><td>Cattaneo, Gabriele</td><td>Won 2-0</td><td>vs.</td><td>Piermaria, Federico</td></tr><tr><td> 40</td><td>De Santis, Giovanni</td><td>Won 2-1</td><td>vs.</td><td>Costa, Fabrizio</td></tr><tr><td> 41</td><td>Khmayes, Omar</td><td>Lost 0-2</td><td>vs.</td><td>Fiore, Stefano</td></tr><tr><td> 42</td><td>Beucci, Matteo</td><td>Lost 1-2</td><td>vs.</td><td>Saviori, Fabio</td></tr><tr><td> 43</td><td>Freddo, Alessandro</td><td>Won 2-1</td><td>vs.</td><td>Lee, Eal</td></tr><tr><td> 44</td><td>Asquini, Alessandro</td><td>Drew 1-1-1</td><td>vs.</td><td>Nesi, Eugenio</td></tr><tr><td> 45</td><td>Albertini, Andrea</td><td>Won 2-1</td><td>vs.</td><td>Corgnale, Marco</td></tr><tr><td> 46</td><td>Solazzi, Vincenzo</td><td>Lost 1-2</td><td>vs.</td><td>Polizia, Luigi</td></tr><tr><td> 47</td><td>Fornara, Andrea</td><td>Lost 0-2</td><td>vs.</td><td>Canavesi, Daniele</td></tr><tr><td> 48</td><td>Vernasca, Claudio</td><td>Lost 0-2</td><td>vs.</td><td>Bissolino, Giovanni</td></tr><tr><td> 49</td><td>Canavesi, Emanuele</td><td>Won 2-1</td><td>vs.</td><td>Barra, Giulio</td></tr><tr><td> 50</td><td>Alvisi, Manuel</td><td>Won 2-1</td><td>vs.</td><td>Acquaviva, Alessandro</td></tr><tr><td> 51</td><td>Casadei, Luca</td><td>Won 2-0</td><td>vs.</td><td>Fiorentino, Francesco</td></tr><tr><td> 52</td><td>Patane', Luca</td><td>Lost 1-2</td><td>vs.</td><td>Cavaglieri, William</td></tr><tr><td> 53</td><td>Esposito, Marco</td><td>Lost 0-2</td><td>vs.</td><td>Agriman, Paolo</td></tr><tr><td> 54</td><td>Bronzetti, Massimo Paolo</td><td>Won 2-1</td><td>vs.</td><td>Di Marco, Mauro</td></tr><tr><td> 55</td><td>Saba, Sergio</td><td>Won 2-0</td><td>vs.</td><td>Polo, Davide</td></tr><tr><td> 56</td><td>Picciafuochi, Riccardo</td><td>Won 2-1</td><td>vs.</td><td>De Lorenzis, Antonio</td></tr><tr><td> 57</td><td>Bruno, Giovanni</td><td>Lost 1-2</td><td>vs.</td><td>Ronchetti, Omar</td></tr><tr><td> 58</td><td>Miglioranza, Nicola</td><td>Won 2-1</td><td>vs.</td><td>Bagni, Andrea</td></tr><tr><td> 59</td><td>Busi, Yanez</td><td>Won 2-1</td><td>vs.</td><td>Calciati, Paolo</td></tr><tr><td> 60</td><td>Scudieri, Paolo</td><td>Lost 0-2</td><td>vs.</td><td>Salemi, Claudio</td></tr><tr><td> 61</td><td>La Porta, Alessandro</td><td>Lost 1-2</td><td>vs.</td><td>Paiano, Daniele</td></tr><tr><td> 62</td><td>Del Gaudio, Alessandro</td><td>Lost 1-2</td><td>vs.</td><td>Atzeni, Michele</td></tr><tr><td> 63</td><td>Sponza, Marco</td><td>Won 2-1</td><td>vs.</td><td>Cabella, Andrea</td></tr><tr><td> 64</td><td>Pandolfo, Marco</td><td>Won 2-1</td><td>vs.</td><td>Polo, Michele</td></tr><tr><td> 65</td><td>Querci, Lapo</td><td>Lost 1-2</td><td>vs.</td><td>Failla, Andrea</td></tr><tr><td> 66</td><td>Girolami, Mario</td><td>Won 2-1</td><td>vs.</td><td>Forti, Andrea</td></tr><tr><td> 67</td><td>Tosana, Matteo</td><td>Lost 1-2</td><td>vs.</td><td>Freiles, Giuliano</td></tr><tr><td> 68</td><td>D'angella, Stefano</td><td>Won 2-0</td><td>vs.</td><td>Ricci, Matteo</td></tr><tr><td> 69</td><td>Maffei, Fabrizio</td><td>Won 2-1</td><td>vs.</td><td>Floris, Filippo</td></tr><tr><td> 70</td><td>Spanu, Gianluca</td><td>Lost 1-2</td><td>vs.</td><td>Tassi, Matteo</td></tr><tr><td> 71</td><td>Mazzone, Luca</td><td>Won 2-1</td><td>vs.</td><td>Puoti, Armando</td></tr><tr><td> 72</td><td>Cantarutti, Nicola</td><td>Lost 0-2</td><td>vs.</td><td>Di Leva, Ettore</td></tr><tr><td> 73</td><td>Schiano Di Scioarro, Vincenz</td><td>Won 2-1</td><td>vs.</td><td>Sabbatini, Francesco</td></tr><tr><td> 74</td><td>D'Apice, Pierluigi</td><td>Won 2-1</td><td>vs.</td><td>Calvanese, Pierluigi</td></tr></tbody></table>

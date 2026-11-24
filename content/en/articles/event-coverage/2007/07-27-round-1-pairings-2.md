@@ -1,0 +1,47 @@
+---
+id: 5h9panvx
+kind: event
+lang: en
+path: /en/articles/event-coverage/2007/07-27-round-1-pairings-2
+title: Round 1 Pairings
+published: '2007-07-27'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-1-pairings-2007-07-27
+    lang_detected: en
+    capture_id: 479582
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-1-pairings-2007-07-27
+    captured_at: '2021-10-17 01:43:08+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-1-pairings-2007-07-27
+    lang_detected: en
+    capture_id: 479582
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-1-pairings-2007-07-27
+    captured_at: '2021-10-17 01:43:08+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: 5h9panvx
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-1-pairings-2007-07-27
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/round-1-pairings-2007-07-27
+  lang: en
+  template: drupal
+  captured_at: '2021-10-17 01:43:08+00'
+  capture_id: 479582
+  wayback_url: https://web.archive.org/web/20211017014308id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-1-pairings-2007-07-27
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 5h9panvx
+  capture_id: 479582
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-1-pairings-2007-07-27
+  wayback_url: https://web.archive.org/web/20211017014308id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-1-pairings-2007-07-27
+  captured_at: '2021-10-17 01:43:08+00'
+  template: drupal
+  sha256: 3001b62902b6bb95ea35cb8e6c9f67630baf35400142fd9ddf2d3441ed6f0550
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>&#10;						</b></td><td><b>Opponent</b></td></tr><tr><td> 89</td><td>Keilloh, John A</td><td>vs.</td><td>Nuttall, Daniel</td></tr><tr><td> 88</td><td>Davis, Ian</td><td>vs.</td><td>Davidson, Greig</td></tr><tr><td> 87</td><td>Fawcett, Raymond</td><td>vs.</td><td>Boyd, Gerard</td></tr><tr><td> 86</td><td>Brett, Philip J</td><td>vs.</td><td>harpin, jonathan</td></tr><tr><td> 85</td><td>Archer, Toby</td><td>vs.</td><td>Chapman, Jonny L</td></tr><tr><td> 84</td><td>Williams, Anthony</td><td>vs.</td><td>Graham, Paul S</td></tr><tr><td> 83</td><td>Grafham, Darren V</td><td>vs.</td><td>Victor, Daniel</td></tr><tr><td> 82</td><td>O Keeffe, Simon</td><td>vs.</td><td>Foulkes, Stephen</td></tr><tr><td> 81</td><td>Dick, Chris</td><td>vs.</td><td>Valteris, Mantas</td></tr><tr><td> 80</td><td>Richardson, Ella</td><td>vs.</td><td>Hedley, David</td></tr><tr><td> 79</td><td>Jalkanen, Lauri</td><td>vs.</td><td>Stephenson, Calum R</td></tr><tr><td> 78</td><td>Coutts, Jonathan</td><td>vs.</td><td>Henley, Russell D</td></tr><tr><td> 77</td><td>Savage, JasonP</td><td>vs.</td><td>Davies, Russ J</td></tr><tr><td> 76</td><td>Josh, Knight</td><td>vs.</td><td>payne, rikki</td></tr><tr><td> 75</td><td>Gattolin, Stefano</td><td>vs.</td><td>Clark, Matthew E</td></tr><tr><td> 74</td><td>Bain, Iain</td><td>vs.</td><td>Wright, Stuart</td></tr><tr><td> 73</td><td>Walker, Stewart</td><td>vs.</td><td>Smith, Craig</td></tr><tr><td> 72</td><td>Cooper, Thomas E</td><td>vs.</td><td>Hanratty, Tom W</td></tr><tr><td> 71</td><td>Lovatt, Philip</td><td>vs.</td><td>Rownes, SimonG</td></tr><tr><td> 70</td><td>Dun, Peter</td><td>vs.</td><td>Newberry, Stephen</td></tr><tr><td> 69</td><td>Lovett, Nicholas A</td><td>vs.</td><td>Zacks, Tim E</td></tr><tr><td> 68</td><td>Veale, Lyndon</td><td>vs.</td><td>Noott, James E</td></tr><tr><td> 67</td><td>Chung, Jimmy S</td><td>vs.</td><td>Eves, Thomas</td></tr><tr><td> 66</td><td>Woodward, Stephen A</td><td>vs.</td><td>McLauchlan, Paul</td></tr><tr><td> 65</td><td>Jones, Ed</td><td>vs.</td><td>Battcock, Thomas</td></tr><tr><td> 64</td><td>davey, ianT</td><td>vs.</td><td>Bowker, Anthony</td></tr><tr><td> 63</td><td>Dom, Harvey</td><td>vs.</td><td>Barnes, Craig</td></tr><tr><td> 62</td><td>Pizzey, Lian</td><td>vs.</td><td>Spragg, Keith R</td></tr><tr><td> 61</td><td>Price, TomW</td><td>vs.</td><td>Wright, Simon</td></tr><tr><td> 60</td><td>Archibold, Perran</td><td>vs.</td><td>Lailey, Mark J</td></tr><tr><td> 59</td><td>Power, Tim</td><td>vs.</td><td>Thompson, Andrew J</td></tr><tr><td> 58</td><td>Henderson, Graham</td><td>vs.</td><td>Green, Chris</td></tr><tr><td> 57</td><td>Kitt, Justin A</td><td>vs.</td><td>Goldsworthy, Glenn</td></tr><tr><td> 56</td><td>Fletcher, Geoff</td><td>vs.</td><td>Gardner, Daniel</td></tr><tr><td> 55</td><td>Lowe, Mark</td><td>vs.</td><td>Back, James</td></tr><tr><td> 54</td><td>Card, Philip A</td><td>vs.</td><td>Kiourtsoglou, Vasilis</td></tr><tr><td> 53</td><td>Swanson, Erik</td><td>vs.</td><td>Bonfield, Rebecca D</td></tr><tr><td> 52</td><td>Leeder, AndrewM</td><td>vs.</td><td>O'Neill, Richard</td></tr><tr><td> 51</td><td>Lim, Paul Qi-En</td><td>vs.</td><td>Paschali, Chris</td></tr><tr><td> 50</td><td>Nguyen, Tan-tai</td><td>vs.</td><td>Silcock, Ross</td></tr><tr><td> 49</td><td>Clark, Nicholas</td><td>vs.</td><td>Isaacs, Jonathan l</td></tr><tr><td> 48</td><td>Tang, Duncan</td><td>vs.</td><td>Nonis, Paul</td></tr><tr><td> 47</td><td>Stiles, David W</td><td>vs.</td><td>Sajgalik, Eduardo</td></tr><tr><td> 46</td><td>Cabrelli, Ben</td><td>vs.</td><td>Jenkins, Ross</td></tr><tr><td> 45</td><td>Moore, Richard</td><td>vs.</td><td>barclay, Bradley</td></tr><tr><td> 44</td><td>Sanders, Benjamin M</td><td>vs.</td><td>Barnes, Gordon J</td></tr><tr><td> 43</td><td>Harrold, Christopher</td><td>vs.</td><td>Samra, Baljeet</td></tr><tr><td> 42</td><td>Hauchard, Francois</td><td>vs.</td><td>Huggins, Dan</td></tr><tr><td> 41</td><td>Morrison, Andrew</td><td>vs.</td><td>Brooks, Sean</td></tr><tr><td> 40</td><td>Bland, Richard</td><td>vs.</td><td>Hymers, Jeff</td></tr><tr><td> 39</td><td>Keen, Jason K</td><td>vs.</td><td>Janpiam, Kamman</td></tr><tr><td> 38</td><td>Jones, Craig</td><td>vs.</td><td>Godfery, Daniel</td></tr><tr><td> 37</td><td>McIntosh, Stephen</td><td>vs.</td><td>Paskins, Daniel</td></tr><tr><td> 36</td><td>Burgess, Mark Roy</td><td>vs.</td><td>Jardine, Julian</td></tr><tr><td> 35</td><td>Cresswell, Stu</td><td>vs.</td><td>Glenister, Mark</td></tr><tr><td> 34</td><td>Stanjer, Robert</td><td>vs.</td><td>Parker, Richard</td></tr><tr><td> 33</td><td>Carey, Max</td><td>vs.</td><td>Tabet, Basam</td></tr><tr><td> 32</td><td>Griffiths, Philip C</td><td>vs.</td><td>Coles, DarrylI</td></tr><tr><td> 31</td><td>Li, Eric</td><td>vs.</td><td>Samuel, Lewis J</td></tr><tr><td> 30</td><td>Voisey, Mark</td><td>vs.</td><td>King, James G</td></tr><tr><td> 29</td><td>Orsini-Jones, Marco</td><td>vs.</td><td>Coleman, Ben</td></tr><tr><td> 28</td><td>Garner, Lee I</td><td>vs.</td><td>Royde, Daniel</td></tr><tr><td> 27</td><td>Bateman, Crispin F</td><td>vs.</td><td>Coen, Elliot</td></tr><tr><td> 26</td><td>Jagger, Andrew G</td><td>vs.</td><td>Gower, Paul J</td></tr><tr><td> 25</td><td>Llewellyn, Chris</td><td>vs.</td><td>Clayton, Andrew</td></tr><tr><td> 24</td><td>Stevenson, Craig</td><td>vs.</td><td>Martin, Quentin</td></tr><tr><td> 23</td><td>Southcott, Guy</td><td>vs.</td><td>Ribchester, Graham</td></tr><tr><td> 22</td><td>Leka, Laszlo</td><td>vs.</td><td>Murphy, Paul N</td></tr><tr><td> 21</td><td>Kajala, Kaisa</td><td>vs.</td><td>Vaughan, Daniel J</td></tr><tr><td> 20</td><td>Murray, StephenA</td><td>vs.</td><td>Hardy, Matthew P</td></tr><tr><td> 19</td><td>Dimitris, Kiourtsoglou</td><td>vs.</td><td>Højgaard, Bogi</td></tr><tr><td> 18</td><td>Reece-Heal, Marco</td><td>vs.</td><td>Chalk, Aidan</td></tr><tr><td> 17</td><td>Lyford-Smith, David R</td><td>vs.</td><td>Barnett, Adam</td></tr><tr><td> 16</td><td>Grant, David</td><td>vs.</td><td>Morgan, Geraint</td></tr><tr><td> 15</td><td>Nicholas, Alexander</td><td>vs.</td><td>Latham, ScottA</td></tr><tr><td> 14</td><td>Hows, Tim</td><td>vs.</td><td>David, Yendall</td></tr><tr><td> 13</td><td>Darlet, Florent</td><td>vs.</td><td>RuizMartin, Daniel</td></tr><tr><td> 12</td><td>Thearle, RoyW</td><td>vs.</td><td>Elkin, Robert D</td></tr><tr><td> 11</td><td>Young, Paul</td><td>vs.</td><td>Leung, KaC</td></tr><tr><td> 10</td><td>Ratcliffe, MilesD</td><td>vs.</td><td>Light, Matt</td></tr><tr><td> 9</td><td>Harle, Tom</td><td>vs.</td><td>samra, manveers</td></tr><tr><td> 8</td><td>Howard, Michael R</td><td>vs.</td><td>Dee, Aaron</td></tr><tr><td> 7</td><td>Dattani, Amar</td><td>vs.</td><td>Kyriazis, IoannisK</td></tr><tr><td> 6</td><td>mcintyre, graemef</td><td>vs.</td><td>Orsini-Jones, Matteo</td></tr><tr><td> 5</td><td>Dingler, Martin</td><td>vs.</td><td>Willis, Paul</td></tr><tr><td> 4</td><td>mcclare, alastair j</td><td>vs.</td><td>Midjely, Kyle</td></tr><tr><td> 3</td><td>Allen, Ben</td><td>vs.</td><td>Pirouet, Ian T</td></tr><tr><td> 2</td><td>Connolly, Bryan</td><td>vs.</td><td>Hall, Kenneth Martin</td></tr><tr><td> 1</td><td>Love, James D</td><td>vs.</td><td>Hackett, Jack S</td></tr><tr><td>&#10;					</td><td>Ross, Edward J</td><td>&#10;					</td><td>* BYE *</td></tr></tbody></table>

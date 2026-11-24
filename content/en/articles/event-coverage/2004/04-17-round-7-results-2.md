@@ -1,0 +1,47 @@
+---
+id: 3kw7ttp4
+kind: event
+lang: en
+path: /en/articles/event-coverage/2004/04-17-round-7-results-2
+title: Round 7 Results
+published: '2004-04-17'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-7-results-2004-04-17-0
+    lang_detected: en
+    capture_id: 562443
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-7-results-2004-04-17-0
+    captured_at: '2022-10-01 08:44:27+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-7-results-2004-04-17-0
+    lang_detected: en
+    capture_id: 562443
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-7-results-2004-04-17-0
+    captured_at: '2022-10-01 08:44:27+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: 3kw7ttp4
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-7-results-2004-04-17-0
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/round-7-results-2004-04-17-0
+  lang: en
+  template: drupal
+  captured_at: '2022-10-01 08:44:27+00'
+  capture_id: 562443
+  wayback_url: https://web.archive.org/web/20221001084427id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-7-results-2004-04-17-0
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 3kw7ttp4
+  capture_id: 562443
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-7-results-2004-04-17-0
+  wayback_url: https://web.archive.org/web/20221001084427id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-7-results-2004-04-17-0
+  captured_at: '2022-10-01 08:44:27+00'
+  template: drupal
+  sha256: c0b8d0e6f864d76a79f4628f2e555d76fb8cdf3ad030b06debe4f5d0ced99317
+render_recovery: []
+---
+<table><thead><tr><th> </th>&#10;		<th>Team</th>&#10;		<th>Result</th>&#10;		<th> </th>&#10;		<th>Opponent</th>&#10;	</tr></thead><tbody><tr><td>1</td>&#10;			<td>Amazing-O</td>&#10;			<td>030</td>&#10;			<td>vs.</td>&#10;			<td>Your Move Games</td>&#10;		</tr><tr><td>2</td>&#10;			<td>Aquamoebas Anonymous</td>&#10;			<td>210</td>&#10;			<td>vs.</td>&#10;			<td>Zabutan Nemonaut</td>&#10;		</tr><tr><td>3</td>&#10;			<td>Gaming Tower</td>&#10;			<td>120</td>&#10;			<td>vs.</td>&#10;			<td>Shenanigans</td>&#10;		</tr><tr><td>4</td>&#10;			<td>Out on Bail</td>&#10;			<td>120</td>&#10;			<td>vs.</td>&#10;			<td>TRD</td>&#10;		</tr><tr><td>5</td>&#10;			<td>The Chicken Sandwiches</td>&#10;			<td>210</td>&#10;			<td>vs.</td>&#10;			<td><a href="http://www.westcoastgames.com/">www.westcoastgames.com</a></td>&#10;		</tr><tr><td>6</td>&#10;			<td>Re-Elect Gore</td>&#10;			<td>210</td>&#10;			<td>vs.</td>&#10;			<td>Such Cuts</td>&#10;		</tr><tr><td>7</td>&#10;			<td>369 a pack</td>&#10;			<td>210</td>&#10;			<td>vs.</td>&#10;			<td>Peg Leg and Barns</td>&#10;		</tr><tr><td>8</td>&#10;			<td>Truely Lazy Men</td>&#10;			<td>120</td>&#10;			<td>vs.</td>&#10;			<td>Skeet Skeet Skeet</td>&#10;		</tr><tr><td>9</td>&#10;			<td>Mox Jet Lag</td>&#10;			<td>030</td>&#10;			<td>vs.</td>&#10;			<td>Owls and Bungee Cords</td>&#10;		</tr><tr><td>10</td>&#10;			<td>AJJ</td>&#10;			<td>030</td>&#10;			<td>vs.</td>&#10;			<td>Thaaaat's Me</td>&#10;		</tr><tr><td>11</td>&#10;			<td>Arrest over Grab the Reins</td>&#10;			<td>030</td>&#10;			<td>vs.</td>&#10;			<td>Team Tilt</td>&#10;		</tr><tr><td>12</td>&#10;			<td>Irish Roosters</td>&#10;			<td>120</td>&#10;			<td>vs.</td>&#10;			<td>Demented Mustard</td>&#10;		</tr><tr><td>13</td>&#10;			<td>The Herbalists</td>&#10;			<td>210</td>&#10;			<td>vs.</td>&#10;			<td>GG Unit</td>&#10;		</tr><tr><td>14</td>&#10;			<td>The Black Hole</td>&#10;			<td>120</td>&#10;			<td>vs.</td>&#10;			<td>Word of Mouth</td>&#10;		</tr><tr><td>15</td>&#10;			<td>P.H.D.</td>&#10;			<td>030</td>&#10;			<td>vs.</td>&#10;			<td>Kicks are for trids!</td>&#10;		</tr><tr><td>16</td>&#10;			<td>Uh-Oh Oreos!</td>&#10;			<td>210</td>&#10;			<td>vs.</td>&#10;			<td>League of Ordinary Gentlemen</td>&#10;		</tr><tr><td>17</td>&#10;			<td>Frayman 3: Katzless in DC</td>&#10;			<td>120</td>&#10;			<td>vs.</td>&#10;			<td>:B</td>&#10;		</tr><tr><td>18</td>&#10;			<td>100% Pure</td>&#10;			<td>210</td>&#10;			<td>vs.</td>&#10;			<td>Drop It Like It's Hot</td>&#10;		</tr><tr><td>19</td>&#10;			<td>Rastafarian Conniption</td>&#10;			<td>210</td>&#10;			<td>vs.</td>&#10;			<td>The Notorious L.C.G.</td>&#10;		</tr><tr><td>20</td>&#10;			<td>M and M's</td>&#10;			<td>300</td>&#10;			<td>vs.</td>&#10;			<td>Weapons of Mass. Destruction</td>&#10;		</tr><tr><td>21</td>&#10;			<td>Fold PreFlop</td>&#10;			<td>300</td>&#10;			<td>vs.</td>&#10;			<td>I Forfeit</td>&#10;		</tr><tr><td>22</td>&#10;			<td>Speeding Tix</td>&#10;			<td>030</td>&#10;			<td>vs.</td>&#10;			<td>Hi!! We're the Warlords</td>&#10;		</tr><tr><td>23</td>&#10;			<td>Team Cream Dream</td>&#10;			<td>030</td>&#10;			<td>vs.</td>&#10;			<td>Goochie in the Trunk</td>&#10;		</tr><tr><td>24</td>&#10;			<td>Team Outpost</td>&#10;			<td>300</td>&#10;			<td>vs.</td>&#10;			<td>The Black Guy and his Barns</td>&#10;		</tr><tr><td>25</td>&#10;			<td>Walking on Moonshine</td>&#10;			<td>120</td>&#10;			<td>vs.</td>&#10;			<td>Allan Can't Think of a Name</td>&#10;		</tr><tr><td>26</td>&#10;			<td>Hopkins</td>&#10;			<td>030</td>&#10;			<td>vs.</td>&#10;			<td>D.G. in D.C.</td>&#10;		</tr><tr><td>27</td>&#10;			<td>Under World Legends</td>&#10;			<td>030</td>&#10;			<td>vs.</td>&#10;			<td>The Incredible Hall</td>&#10;		</tr><tr><td>28</td>&#10;			<td>The 888 Collective</td>&#10;			<td>120</td>&#10;			<td>vs.</td>&#10;			<td>Funbox Inc</td>&#10;		</tr><tr><td>29</td>&#10;			<td>Masters of the Universe</td>&#10;			<td>300</td>&#10;			<td>vs.</td>&#10;			<td>Team Butters</td>&#10;		</tr><tr><td>30</td>&#10;			<td>How Teamful</td>&#10;			<td>210</td>&#10;			<td>vs.</td>&#10;			<td>Stephanie Robert and Jessica</td>&#10;		</tr><tr><td>31</td>&#10;			<td>The Trailer Park Boys</td>&#10;			<td>120</td>&#10;			<td>vs.</td>&#10;			<td>Fourth Baby</td>&#10;		</tr><tr><td>32</td>&#10;			<td>Aristocrats</td>&#10;			<td>210</td>&#10;			<td>vs.</td>&#10;			<td>C.O.P. Barn</td>&#10;		</tr><tr><td>33</td>&#10;			<td>Therapists for $1000</td>&#10;			<td>210</td>&#10;			<td>vs.</td>&#10;			<td>RIW Redux</td>&#10;		</tr><tr><td>34</td>&#10;			<td>Air Pustilnik</td>&#10;			<td>300</td>&#10;			<td>vs.</td>&#10;			<td>Kill Bill Oppenheimer</td>&#10;		</tr><tr><td>35</td>&#10;			<td>Chambers of Manipulation</td>&#10;			<td>300</td>&#10;			<td>vs.</td>&#10;			<td>end school zone</td>&#10;		</tr><tr><td>36</td>&#10;			<td>Digital Meghem</td>&#10;			<td>210</td>&#10;			<td>vs.</td>&#10;			<td>Ribs Sushi Pizza</td>&#10;		</tr><tr><td>37</td>&#10;			<td>Visible Weakness</td>&#10;			<td>120</td>&#10;			<td>vs.</td>&#10;			<td>Whiskey Tango Foxtrot</td>&#10;		</tr><tr><td>38</td>&#10;			<td>Yeah! What! Okay!</td>&#10;			<td>120</td>&#10;			<td>vs.</td>&#10;			<td>Chola, Josh, and Dan</td>&#10;		</tr><tr><td>39</td>&#10;			<td>Mongoloid Imperialists</td>&#10;			<td>111</td>&#10;			<td>vs.</td>&#10;			<td>Rhymes w/Orange</td>&#10;		</tr><tr><td>40</td>&#10;			<td>The Untouchables</td>&#10;			<td>120</td>&#10;			<td>vs.</td>&#10;			<td>Stuck in Traffic</td>&#10;		</tr><tr><td>41</td>&#10;			<td>Never Tell Me the Odds</td>&#10;			<td>210</td>&#10;			<td>vs.</td>&#10;			<td>Ipon Jimport</td>&#10;		</tr><tr><td>42</td>&#10;			<td>Crazy with the Cheese Whiz</td>&#10;			<td>120</td>&#10;			<td>vs.</td>&#10;			<td>Sweeter the Juuus</td>&#10;		</tr><tr><td>43</td>&#10;			<td>He's Bigger, We're Better</td>&#10;			<td>120</td>&#10;			<td>vs.</td>&#10;			<td>South Pole All-Stars</td>&#10;		</tr><tr><td>44</td>&#10;			<td>HCAS Epsilon</td>&#10;			<td>210</td>&#10;			<td>vs.</td>&#10;			<td>Team (Insert Name Here)</td>&#10;		</tr><tr><td>45</td>&#10;			<td>Here's Your Sign!</td>&#10;			<td>210</td>&#10;			<td>vs.</td>&#10;			<td>Bizarro</td>&#10;		</tr><tr><td>46</td>&#10;			<td>Jim, Jake + Johnny</td>&#10;			<td>300</td>&#10;			<td>vs.</td>&#10;			<td>Serious Crew Airways</td>&#10;		</tr><tr><td>47</td>&#10;			<td>HCAS Delta</td>&#10;			<td>030</td>&#10;			<td>vs.</td>&#10;			<td>Team Axis Powers</td>&#10;		</tr><tr><td>48</td>&#10;			<td>PB and the real J</td>&#10;			<td>300</td>&#10;			<td>vs.</td>&#10;			<td>Black Dragon Society</td>&#10;		</tr><tr><td>49</td>&#10;			<td>Drag Your Luggage</td>&#10;			<td>300</td>&#10;			<td>vs.</td>&#10;			<td>Rodman Team</td>&#10;		</tr><tr><td>50</td>&#10;			<td>Wrong Way</td>&#10;			<td>300</td>&#10;			<td>vs.</td>&#10;			<td>El Duderinos</td>&#10;		</tr><tr><td>51</td>&#10;			<td>3's a Crowd</td>&#10;			<td>210</td>&#10;			<td>vs.</td>&#10;			<td>WTF</td>&#10;		</tr><tr><td>52</td>&#10;			<td>Team Camelot</td>&#10;			<td>300</td>&#10;			<td>vs.</td>&#10;			<td>Solar Tide with Bleach</td>&#10;		</tr><tr><td>53</td>&#10;			<td>Team Evilmonkey</td>&#10;			<td>120</td>&#10;			<td>vs.</td>&#10;			<td>Sag One</td>&#10;		</tr><tr><td>54</td>&#10;			<td>The Froggers</td>&#10;			<td>111</td>&#10;			<td>vs.</td>&#10;			<td>Fast Orange</td>&#10;		</tr><tr><td>55</td>&#10;			<td>Underdogs</td>&#10;			<td>210</td>&#10;			<td>vs.</td>&#10;			<td>Team Conclave</td>&#10;		</tr></tbody></table>

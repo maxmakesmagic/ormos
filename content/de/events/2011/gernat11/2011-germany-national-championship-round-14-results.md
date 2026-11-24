@@ -1,0 +1,63 @@
+---
+id: vsrg7ypb
+kind: event
+lang: de
+path: /de/events/2011/gernat11/2011-germany-national-championship-round-14-results
+title: 2011 Germany National Championship - Round 14 Results
+published: '2011-08-13'
+column_slug: null
+column: null
+authors: []
+event_code: gernat11
+detected_lang: de
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/2011-germany-national-championship-round-14-results-2011-08-13
+    lang_detected: de
+    capture_id: 328680
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/2011-germany-national-championship-round-14-results-2011-08-13
+    captured_at: '2022-01-22 18:38:07+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/2011-germany-national-championship-round-14-results-2011-08-13
+    lang_detected: de
+    capture_id: 328680
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/2011-germany-national-championship-round-14-results-2011-08-13
+    captured_at: '2022-01-22 18:38:07+00'
+    rule: drupal.posted_in_date
+  event_code:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gernat11/res14
+    lang_detected: de
+    capture_id: 399108
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gernat11/res14
+    captured_at: '2013-07-02 09:48:03+00'
+    rule: url.event_code
+sources:
+- document_id: vsrg7ypb
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/2011-germany-national-championship-round-14-results-2011-08-13
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/2011-germany-national-championship-round-14-results-2011-08-13
+  lang: de
+  template: drupal
+  captured_at: '2022-01-22 18:38:07+00'
+  capture_id: 328680
+  wayback_url: https://web.archive.org/web/20220122183807id_/https://magic.wizards.com/en/articles/archive/event-coverage/2011-germany-national-championship-round-14-results-2011-08-13
+- document_id: vsrg7ypb
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gernat11/res14
+  page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gernat11/res14
+  lang: de
+  template: aspx
+  captured_at: '2013-07-02 09:48:03+00'
+  capture_id: 399108
+  wayback_url: https://web.archive.org/web/20130702094803id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/gernat11/res14
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: vsrg7ypb
+  capture_id: 328680
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/2011-germany-national-championship-round-14-results-2011-08-13
+  wayback_url: https://web.archive.org/web/20220122183807id_/https://magic.wizards.com/en/articles/archive/event-coverage/2011-germany-national-championship-round-14-results-2011-08-13
+  captured_at: '2022-01-22 18:38:07+00'
+  template: drupal
+  sha256: 243c3999a2aacb198f43c150f1f7fe44fb48e57fdda54988059ee20aa134deec
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Result</b></td><td><b>&#10;						</b></td><td><b>Opponent</b></td></tr><tr><td> 1</td><td>Görzgen, Fabian</td><td>Drew 0-0-0</td><td>vs.</td><td>Diezel, Michael</td></tr><tr><td> 2</td><td>Nelson, Helge</td><td>Drew 0-0-0</td><td>vs.</td><td>Zimmermann, Martin</td></tr><tr><td> 3</td><td>Hammerich, Jan</td><td>Drew 0-0-0</td><td>vs.</td><td>Brendemühl, Bernd</td></tr><tr><td> 4</td><td>Müller, Michael</td><td>Won 2-0</td><td>vs.</td><td>Faber, Manuel</td></tr><tr><td> 5</td><td>Kovacs, Christof</td><td>Lost 0-2</td><td>vs.</td><td>Dreger, Tobias</td></tr><tr><td> 6</td><td>Bauche, Marcel</td><td>Won 2-0</td><td>vs.</td><td>Hofmann, Florian</td></tr><tr><td> 7</td><td>Jessen, Johannes</td><td>Won 2-1</td><td>vs.</td><td>Schmidt, Steffen</td></tr><tr><td> 8</td><td>Geiger, Frederic</td><td>Lost 1-2</td><td>vs.</td><td>Sinner, Denis</td></tr><tr><td> 9</td><td>Wallendorf, Jonas</td><td>Won 2-1</td><td>vs.</td><td>Beckmann, Bertram</td></tr><tr><td> 10</td><td>Fischer, Florian</td><td>Lost 0-2</td><td>vs.</td><td>Pils, Florian</td></tr><tr><td> 11</td><td>Hermann, Manfred</td><td>Lost 1-2</td><td>vs.</td><td>Reiter, Florian</td></tr><tr><td> 12</td><td>Gamper, Max</td><td>Won 2-0</td><td>vs.</td><td>Dornick, Jonas</td></tr><tr><td> 13</td><td>Sutor, Emanuel</td><td>Won 2-0</td><td>vs.</td><td>Koch, Florian</td></tr><tr><td> 14</td><td>Riffert, Till W</td><td>Lost 1-2</td><td>vs.</td><td>Reitenauer, Adrian</td></tr><tr><td> 15</td><td>Martin, Wolfram</td><td>Lost 0-2</td><td>vs.</td><td>Burgold, Lino</td></tr><tr><td> 16</td><td>Stahl, Gerry</td><td>Won 2-0</td><td>vs.</td><td>Seibold, Christian</td></tr><tr><td> 17</td><td>Schmittbüttner, Markus</td><td>Lost 0-2</td><td>vs.</td><td>Gräfensteiner, Daniel</td></tr><tr><td> 18</td><td>Steeger, Thomas</td><td>Won 2-1</td><td>vs.</td><td>Mueller, Andre</td></tr><tr><td> 19</td><td>Müller, Ronald</td><td>Lost 0-2</td><td>vs.</td><td>Uyman, Muhammed</td></tr><tr><td> 20</td><td>Surkamp, Florian</td><td>Lost 1-2</td><td>vs.</td><td>Valentino, Bruno</td></tr><tr><td> 21</td><td>Lutz, Patrick A</td><td>Won 2-0</td><td>vs.</td><td>Görtzen, Simon M</td></tr><tr><td> 22</td><td>Voigt, Enrico</td><td>Lost 1-2</td><td>vs.</td><td>Kreuz, Alexander</td></tr><tr><td> 23</td><td>Philippczyk, Björn</td><td>Won 2-1</td><td>vs.</td><td>Passow, Christopher</td></tr><tr><td> 24</td><td>Schmidt, Thomas</td><td>Lost 1-2</td><td>vs.</td><td>Muller, Martin</td></tr><tr><td> 25</td><td>Haefeker, Jan Erik</td><td>Lost 0-2</td><td>vs.</td><td>Eder, Wolfgang R</td></tr><tr><td> 26</td><td>Plagge, Julian</td><td>Won 2-1</td><td>vs.</td><td>Brueggemann, Julian A</td></tr><tr><td> 27</td><td>Petersdorf, Benjamin</td><td>Won 2-1</td><td>vs.</td><td>Budde, Christopher</td></tr><tr><td> 28</td><td>Thomsen, Sascha</td><td>Won 2-1</td><td>vs.</td><td>Peter, Manuel</td></tr><tr><td> 29</td><td>Geiger, Juergen T</td><td>Won 2-0</td><td>vs.</td><td>Feyand, Florian F</td></tr><tr><td> 30</td><td>Fritsch, Bernd</td><td>Lost 0-2</td><td>vs.</td><td>Fingerhut, Florian</td></tr><tr><td> 31</td><td>Kolp, Heiner</td><td>Lost 0-2</td><td>vs.</td><td>Hauck, Christian</td></tr><tr><td> 32</td><td>Steinfort, Philipp</td><td>Lost 0-2</td><td>vs.</td><td>Sabel, Dion</td></tr><tr><td> 33</td><td>Schwager, Marcel</td><td>Won 2-0</td><td>vs.</td><td>Schramm, Markus</td></tr><tr><td> 34</td><td>Diekjobst, Lukas</td><td>Won 2-0</td><td>vs.</td><td>Frenster, Jochen</td></tr><tr><td> 35</td><td>Grund, Daniel</td><td>Lost 0-2</td><td>vs.</td><td>Wolff, Morten</td></tr><tr><td> 36</td><td>von Beschwitz, Bastian</td><td>Lost 0-2</td><td>vs.</td><td>Diaz, Simon</td></tr><tr><td> 37</td><td>Tobiasch, Marc</td><td>Lost 0-2</td><td>vs.</td><td>Kraft, Rene</td></tr><tr><td> 38</td><td>Schmidt, Martin</td><td>Won 2-0</td><td>vs.</td><td>Sommerlade, Jan Philip</td></tr><tr><td> 39</td><td>Bakhtari, Edris</td><td>Lost 0-2</td><td>vs.</td><td>Gierse, Alexander</td></tr><tr><td> 40</td><td>Rosada, Adrian</td><td>Won 2-1</td><td>vs.</td><td>Anders, Torsten</td></tr><tr><td> 41</td><td>Meyer, Tony</td><td>Won 2-0</td><td>vs.</td><td>Gaul, Alexander</td></tr><tr><td> 42</td><td>Simon, Swen</td><td>Won 2-0</td><td>vs.</td><td>Ellwanger, Thomas</td></tr><tr><td> 43</td><td>Reiter, Vincent</td><td>Lost 1-2</td><td>vs.</td><td>Wiesner, Dirk</td></tr><tr><td> 44</td><td>Dittmar, Domink</td><td>Won 2-1</td><td>vs.</td><td>Reichel-Dittes, Christopher</td></tr><tr><td> 45</td><td>Weidemann, Felix</td><td>Won 2-1</td><td>vs.</td><td>Hauck, Manuel</td></tr><tr><td> 46</td><td>Hart, Stefan</td><td>Won 2-0</td><td>vs.</td><td>Knoll, Sami</td></tr></tbody></table>

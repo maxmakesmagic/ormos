@@ -1,0 +1,293 @@
+---
+id: s6fbnbny
+kind: event
+lang: en
+path: /en/articles/event-coverage/undated/round-10-vs
+title: 'Round 10: 森勝洋 Vs. 平林和哉'
+published: null
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-10-%E6%A3%AE%E5%8B%9D%E6%B4%8B-vs-%E5%B9%B3%E6%9E%97%E5%92%8C%E5%93%89-2000-01-01-0
+    lang_detected: en
+    capture_id: 487258
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-10-%E6%A3%AE%E5%8B%9D%E6%B4%8B-vs-%E5%B9%B3%E6%9E%97%E5%92%8C%E5%93%89-2000-01-01-0
+    captured_at: '2022-05-20 08:30:41+00'
+    rule: meta.og_title
+sources:
+- document_id: s6fbnbny
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-10-%E6%A3%AE%E5%8B%9D%E6%B4%8B-vs-%E5%B9%B3%E6%9E%97%E5%92%8C%E5%93%89-2000-01-01-0
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/round-10-%E6%A3%AE%E5%8B%9D%E6%B4%8B-vs-%E5%B9%B3%E6%9E%97%E5%92%8C%E5%93%89-2000-01-01-0
+  lang: en
+  template: drupal
+  captured_at: '2022-05-20 08:30:41+00'
+  capture_id: 487258
+  wayback_url: https://web.archive.org/web/20220520083041id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-10-%E6%A3%AE%E5%8B%9D%E6%B4%8B-vs-%E5%B9%B3%E6%9E%97%E5%92%8C%E5%93%89-2000-01-01-0
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: s6fbnbny
+  capture_id: 487258
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-10-%E6%A3%AE%E5%8B%9D%E6%B4%8B-vs-%E5%B9%B3%E6%9E%97%E5%92%8C%E5%93%89-2000-01-01-0
+  wayback_url: https://web.archive.org/web/20220520083041id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-10-%E6%A3%AE%E5%8B%9D%E6%B4%8B-vs-%E5%B9%B3%E6%9E%97%E5%92%8C%E5%93%89-2000-01-01-0
+  captured_at: '2022-05-20 08:30:41+00'
+  template: drupal
+  sha256: 8aacb46b8d29883b0f523df590ada01003256c2c5de7bdc90cf071cdb24f0232
+render_recovery:
+- code: deck_widget_requires_review
+  element: a
+  reason: The archived deck widget has no visible card rows. The source capture may
+    contain data to recover it.
+  labels:
+  - Decklist
+  occurrences: 2
+---
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpshi01/922.jpg)
+
+### Game 1
+
+　先攻森。互いに初手土地二枚をキープ。森の初手にはプロテクション黒を持った《 Pilgrim of Virtue / 美徳の巡礼者 》が。卓の他の７人中４人が黒を使っている。確かにこれは十分メインに投入してしかるべきだ。そして、それが火を吹いた。これは黒ヘビーの平林にはきつい展開となるであろう。
+
+　だが、森は二ターン目こそ《 Angelic Wall / 天使の壁 》を出したものの、三ターン目土地を出せずに終了する。これに対し平林の《 Filthy Cur / 汚い野犬 》と《 Dusk Imp / 薄暮のインプ 》が攻撃しかける。森はすかさず《 Gallantry / 勇敢な行為 》を使用し除去を行いつつドローを進める。そして待望の土地。
+
+　《 Pilgrim of Virtue / 美徳の巡礼者 》、《 Nomad Decoy / 遊牧の民のおとり 》。  
+ 　十分な布陣を並べる森。
+
+　ここからは森の独壇場。平林が出すクリーチャーを次々と《 Firebolt / 炎の稲妻 》《 Anarchist / 無政府主義者 》から《 Firebolt / 炎の稲妻 》そして、更にはフラッシュバックでと稲妻づくし。
+
+　平林はなすがままに次々と生物を葬りさられていく。このアドバンテージは正直きつい。  
+ 　なんとか数枚の除去を引いた平林も森のを数体除去に成功するが、既にライフは２。しかもプロ黒が全くどうにもならない。
+
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpshi01/921.jpg)
+
+　思わず苦笑。
+
+　あっけなく一本目を森が先取する。
+
+　さすがに、卓に二人きりの白と三人しかいない赤をドラフトした森と、四人いる青と黒-黒-黒ラインの最後尾についた平林のデッキの差か。
+
+　森勝洋 1 vs 平林和哉 0
+
+### Game 2
+
+　《 Filthy Cur / 汚い野犬 》に対し《 Patrol Hound / 巡視犬 》。 《 Dusk Imp / 薄暮のインプ 》には《 Nomad Decoy / 遊牧の民のおとり 》。英文の煙の《 Aven Smokeweaver / エイヴンの煙の紡ぎ手 》に《 Chainflinger / 投鎖獣 》。
+
+　「 . . . いちいち性能が違ってむかつく」
+
+　苦笑まじりに平林が一人愚痴る。
+
+　仕方なく、《 Innocent Blood / 無垢の血 》を使用しマニアックに白犬を除去する平林。どのみちPingで死ぬimpを墓地に送り、次なる《 Psychatog / サイカトグ 》のために墓地を肥やす。そして、《 Puppeteer / くぐつ師 》。
+
+![](https://media.magic.wizards.com/image_legacy_migration/sideboard/images/gpshi01/923.jpg)
+
+　場が膠着したところで、平林19、森14。  
+ 　  
+ 　だが、その膠着を打ち破ったのはやはり森。デッキに三枚！投入された《 Firebolt / 炎の稲妻 》を引き当て、まずは《 Puppeteer / くぐつ師 》を除去。そのまま《 Pianna, Nomad Captain / 遊牧の民の長ピアナ 》と数体を攻撃に。
+
+　「えーと、凄い痛い。」
+
+　再び平林が、もはや笑顔を浮かべながらその状況を見やる。その手の中には延々と引き続けた《 Chainflinger / 投鎖獣 》に殺される以外全く役に立たない《 Dusk Imp / 薄暮のインプ 》が . . . 。
+
+　森勝洋 2 - 平林和哉 0
+
+#### Mori Katsuhiro
+
+##### 
+
+ ![Download Arena Decklist](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png) ![](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+[Decklist](#none) [Stats](#none) [Sample Hand](#none) 
+
+Sort by: 
+
+##### Creature (13)
+
+1 [Angelic Wall](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAngelic%5D+%5BWall%5D) 1 [Aven Flock](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAven%5D+%5BFlock%5D) 1 [Master Apothecary](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMaster%5D+%5BApothecary%5D) 1 [Mystic Visionary](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystic%5D+%5BVisionary%5D) 1 [Nomad Decoy](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNomad%5D+%5BDecoy%5D) 1 [Patrol Hound](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPatrol%5D+%5BHound%5D) 1 [Pilgrim of Virtue](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPilgrim%5D+%5Bof%5D+%5BVirtue%5D) 1 [Resilient Wanderer](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BResilient%5D+%5BWanderer%5D) 1 [Anarchist](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnarchist%5D) 2 [Barbarian Lunatic](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBarbarian%5D+%5BLunatic%5D) 1 [Chainflinger](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChainflinger%5D) 1 [Pardic Firecat](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPardic%5D+%5BFirecat%5D) 
+
+##### Sorcery (3)
+
+3 [Firebolt](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFirebolt%5D) 
+
+##### Instant (2)
+
+1 [Gallantry](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGallantry%5D) 1 [Flame Burst](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlame%5D+%5BBurst%5D) 
+
+##### Enchantment (2)
+
+1 [Divine Sacrament](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDivine%5D+%5BSacrament%5D) 1 [Kirtar's Desire](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKirtar%5D+%5BDesire%5D) 
+
+##### Land (17)
+
+7 [Mountain](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D) 10 [Plains](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D) 
+
+##### Other (3)
+
+1 Aven Croudchaser 1 Harrowed Healer 1 Pianna,Nomad Captain 
+
+40 Cards 
+
+##### White (11)
+
+1 [Angelic Wall](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAngelic%5D+%5BWall%5D) 1 [Aven Flock](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAven%5D+%5BFlock%5D) 1 [Master Apothecary](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMaster%5D+%5BApothecary%5D) 1 [Mystic Visionary](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystic%5D+%5BVisionary%5D) 1 [Nomad Decoy](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNomad%5D+%5BDecoy%5D) 1 [Patrol Hound](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPatrol%5D+%5BHound%5D) 1 [Pilgrim of Virtue](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPilgrim%5D+%5Bof%5D+%5BVirtue%5D) 1 [Resilient Wanderer](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BResilient%5D+%5BWanderer%5D) 1 [Divine Sacrament](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDivine%5D+%5BSacrament%5D) 1 [Gallantry](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGallantry%5D) 1 [Kirtar's Desire](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKirtar%5D+%5BDesire%5D) 
+
+##### Red (9)
+
+1 [Anarchist](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnarchist%5D) 2 [Barbarian Lunatic](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBarbarian%5D+%5BLunatic%5D) 1 [Chainflinger](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChainflinger%5D) 1 [Pardic Firecat](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPardic%5D+%5BFirecat%5D) 3 [Firebolt](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFirebolt%5D) 1 [Flame Burst](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlame%5D+%5BBurst%5D) 
+
+##### Colorless (20)
+
+7 [Mountain](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D) 10 [Plains](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D) 1 Aven Croudchaser 1 Harrowed Healer 1 Pianna,Nomad Captain 
+
+40 Cards 
+
+##### 1 (4)
+
+1 [Kirtar's Desire](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKirtar%5D+%5BDesire%5D) 3 [Firebolt](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFirebolt%5D) 
+
+##### 2 (5)
+
+1 [Angelic Wall](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAngelic%5D+%5BWall%5D) 1 [Mystic Visionary](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystic%5D+%5BVisionary%5D) 1 [Patrol Hound](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPatrol%5D+%5BHound%5D) 1 [Gallantry](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGallantry%5D) 1 [Flame Burst](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlame%5D+%5BBurst%5D) 
+
+##### 3 (6)
+
+1 [Master Apothecary](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMaster%5D+%5BApothecary%5D) 1 [Nomad Decoy](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNomad%5D+%5BDecoy%5D) 1 [Pilgrim of Virtue](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPilgrim%5D+%5Bof%5D+%5BVirtue%5D) 2 [Barbarian Lunatic](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBarbarian%5D+%5BLunatic%5D) 1 [Divine Sacrament](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDivine%5D+%5BSacrament%5D) 
+
+##### 4 (3)
+
+1 [Resilient Wanderer](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BResilient%5D+%5BWanderer%5D) 1 [Chainflinger](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChainflinger%5D) 1 [Pardic Firecat](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPardic%5D+%5BFirecat%5D) 
+
+##### 5 (2)
+
+1 [Aven Flock](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAven%5D+%5BFlock%5D) 1 [Anarchist](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnarchist%5D) 
+
+20 Cards 
+
+##### Common (32)
+
+7 [Mountain](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMountain%5D) 10 [Plains](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPlains%5D) 1 [Angelic Wall](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAngelic%5D+%5BWall%5D) 1 Aven Croudchaser 1 [Aven Flock](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAven%5D+%5BFlock%5D) 1 Harrowed Healer 1 [Mystic Visionary](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMystic%5D+%5BVisionary%5D) 1 [Patrol Hound](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPatrol%5D+%5BHound%5D) 1 Pianna,Nomad Captain 1 [Pilgrim of Virtue](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPilgrim%5D+%5Bof%5D+%5BVirtue%5D) 1 [Anarchist](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAnarchist%5D) 2 [Barbarian Lunatic](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BBarbarian%5D+%5BLunatic%5D) 1 [Chainflinger](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BChainflinger%5D) 1 [Pardic Firecat](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPardic%5D+%5BFirecat%5D) 1 [Kirtar's Desire](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BKirtar%5D+%5BDesire%5D) 1 [Flame Burst](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFlame%5D+%5BBurst%5D) 
+
+##### Uncommon (6)
+
+1 [Nomad Decoy](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BNomad%5D+%5BDecoy%5D) 1 [Resilient Wanderer](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BResilient%5D+%5BWanderer%5D) 1 [Gallantry](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGallantry%5D) 3 [Firebolt](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFirebolt%5D) 
+
+##### Rare (2)
+
+1 [Master Apothecary](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMaster%5D+%5BApothecary%5D) 1 [Divine Sacrament](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDivine%5D+%5BSacrament%5D) 
+
+40 Cards 
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Mountain)
+
+[Deal Another Hand](https://web.archive.org/web/20220520083041/https://magic.wizards.com/en)
+
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Mountain)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Plains)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Plains)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Plains)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Firebolt)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Plains)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Firebolt)
+
+a:22:{i:0;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:8:"Mountain";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"7";}i:1;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:6:"Plains";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:2:"10";}i:2;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Angelic Wall";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;}i:3;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":0:{}s:4:"type";s:5:"Other";s:10:"deck\_count";i:1;}i:4;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:10:"Aven Flock";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;}i:5;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":0:{}s:4:"type";s:5:"Other";s:10:"deck\_count";i:1;}i:6;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Master Apothecary";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;}i:7;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Mystic Visionary";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;}i:8;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Nomad Decoy";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;}i:9;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Patrol Hound";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;}i:10;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":0:{}s:4:"type";s:5:"Other";s:10:"deck\_count";i:1;}i:11;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Pilgrim of Virtue";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;}i:12;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:18:"Resilient Wanderer";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;}i:13;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:9:"Anarchist";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;}i:14;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:17:"Barbarian Lunatic";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"2";}i:15;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Chainflinger";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;}i:16;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Pardic Firecat";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;}i:17;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Divine Sacrament";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:11:"enchantment";s:10:"deck\_count";i:1;}i:18;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:9:"Gallantry";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:1;}i:19;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Kirtar's Desire";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:11:"enchantment";s:10:"deck\_count";i:1;}i:20;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:8:"Firebolt";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";s:1:"3";}i:21;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:11:"Flame Burst";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:1;}} 
+
+#### Hirabayashi Kazuya
+
+##### 
+
+ ![Download Arena Decklist](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download_arena.png) ![](https://magic.wizards.com/sites/all/modules/features/wiz_bean_content_deck_list/icons/decklist_download.png)
+
+[Decklist](#none) [Stats](#none) [Sample Hand](#none) 
+
+Sort by: 
+
+##### Creature (14)
+
+1 [Psychatog](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPsychatog%5D) 1 [Aven Smokeweaver](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAven%5D+%5BSmokeweaver%5D) 1 [Cephalid Looter](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCephalid%5D+%5BLooter%5D) 1 [Puppeteer](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPuppeteer%5D) 1 [Crypt Creeper](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrypt%5D+%5BCreeper%5D) 4 [Dusk Imp](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDusk%5D+%5BImp%5D) 1 [Filthy Cur](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFilthy%5D+%5BCur%5D) 1 [Fledgling Imp](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFledgling%5D+%5BImp%5D) 1 [Infected Vermin](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInfected%5D+%5BVermin%5D) 2 [Whispering Shade](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWhispering%5D+%5BShade%5D) 
+
+##### Sorcery (5)
+
+1 [Dematerialize](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDematerialize%5D) 1 [Last Rites](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLast%5D+%5BRites%5D) 1 [Morbid Hunger](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMorbid%5D+%5BHunger%5D) 1 [Morgue Theft](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMorgue%5D+%5BTheft%5D) 1 [Zombify](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZombify%5D) 
+
+##### Instant (2)
+
+1 [Syncopate](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSyncopate%5D) 1 [Ghastly Demise](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhastly%5D+%5BDemise%5D) 
+
+##### Enchantment (2)
+
+1 [Psionic Gift](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPsionic%5D+%5BGift%5D) 1 [Patriarch's Desire](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPatriarch%5D+%5BDesire%5D) 
+
+##### Land (16)
+
+5 [Island](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D) 10 [Swamp](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D) 1 [Seafloor Debris](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeafloor%5D+%5BDebris%5D) 
+
+##### Other (1)
+
+1 Affict 
+
+40 Cards 
+
+##### Blue (6)
+
+1 [Aven Smokeweaver](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAven%5D+%5BSmokeweaver%5D) 1 [Cephalid Looter](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCephalid%5D+%5BLooter%5D) 1 [Puppeteer](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPuppeteer%5D) 1 [Dematerialize](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDematerialize%5D) 1 [Psionic Gift](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPsionic%5D+%5BGift%5D) 1 [Syncopate](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSyncopate%5D) 
+
+##### Black (16)
+
+1 [Crypt Creeper](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrypt%5D+%5BCreeper%5D) 4 [Dusk Imp](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDusk%5D+%5BImp%5D) 1 [Filthy Cur](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFilthy%5D+%5BCur%5D) 1 [Fledgling Imp](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFledgling%5D+%5BImp%5D) 1 [Infected Vermin](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInfected%5D+%5BVermin%5D) 2 [Whispering Shade](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWhispering%5D+%5BShade%5D) 1 [Ghastly Demise](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhastly%5D+%5BDemise%5D) 1 [Last Rites](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLast%5D+%5BRites%5D) 1 [Morbid Hunger](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMorbid%5D+%5BHunger%5D) 1 [Morgue Theft](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMorgue%5D+%5BTheft%5D) 1 [Patriarch's Desire](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPatriarch%5D+%5BDesire%5D) 1 [Zombify](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZombify%5D) 
+
+##### Multi colored (1)
+
+1 [Psychatog](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPsychatog%5D) 
+
+##### Colorless (17)
+
+5 [Island](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D) 10 [Swamp](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D) 1 [Seafloor Debris](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeafloor%5D+%5BDebris%5D) 1 Affict 
+
+40 Cards 
+
+##### 1 (2)
+
+1 [Syncopate](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSyncopate%5D) 1 [Ghastly Demise](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhastly%5D+%5BDemise%5D) 
+
+##### 2 (4)
+
+1 [Crypt Creeper](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrypt%5D+%5BCreeper%5D) 1 [Filthy Cur](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFilthy%5D+%5BCur%5D) 1 [Psionic Gift](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPsionic%5D+%5BGift%5D) 1 [Morgue Theft](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMorgue%5D+%5BTheft%5D) 
+
+##### 3 (10)
+
+1 [Psychatog](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPsychatog%5D) 1 [Cephalid Looter](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCephalid%5D+%5BLooter%5D) 1 [Puppeteer](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPuppeteer%5D) 4 [Dusk Imp](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDusk%5D+%5BImp%5D) 1 [Fledgling Imp](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFledgling%5D+%5BImp%5D) 1 [Infected Vermin](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInfected%5D+%5BVermin%5D) 1 [Last Rites](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLast%5D+%5BRites%5D) 
+
+##### 4 (6)
+
+1 [Aven Smokeweaver](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAven%5D+%5BSmokeweaver%5D) 2 [Whispering Shade](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWhispering%5D+%5BShade%5D) 1 [Dematerialize](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDematerialize%5D) 1 [Patriarch's Desire](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPatriarch%5D+%5BDesire%5D) 1 [Zombify](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZombify%5D) 
+
+##### 6 (1)
+
+1 [Morbid Hunger](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMorbid%5D+%5BHunger%5D) 
+
+23 Cards 
+
+##### Common (35)
+
+5 [Island](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BIsland%5D) 10 [Swamp](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSwamp%5D) 1 [Seafloor Debris](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSeafloor%5D+%5BDebris%5D) 1 [Cephalid Looter](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCephalid%5D+%5BLooter%5D) 1 [Crypt Creeper](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BCrypt%5D+%5BCreeper%5D) 4 [Dusk Imp](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDusk%5D+%5BImp%5D) 1 [Filthy Cur](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFilthy%5D+%5BCur%5D) 1 [Fledgling Imp](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BFledgling%5D+%5BImp%5D) 2 [Whispering Shade](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BWhispering%5D+%5BShade%5D) 1 [Dematerialize](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BDematerialize%5D) 1 [Psionic Gift](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPsionic%5D+%5BGift%5D) 1 [Syncopate](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BSyncopate%5D) 1 Affict 1 [Ghastly Demise](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BGhastly%5D+%5BDemise%5D) 1 [Last Rites](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BLast%5D+%5BRites%5D) 1 [Morbid Hunger](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMorbid%5D+%5BHunger%5D) 1 [Morgue Theft](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BMorgue%5D+%5BTheft%5D) 1 [Patriarch's Desire](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPatriarch%5D+%5BDesire%5D) 
+
+##### Uncommon (5)
+
+1 [Psychatog](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPsychatog%5D) 1 [Aven Smokeweaver](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BAven%5D+%5BSmokeweaver%5D) 1 [Puppeteer](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BPuppeteer%5D) 1 [Infected Vermin](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BInfected%5D+%5BVermin%5D) 1 [Zombify](https://web.archive.org/web/20220520083041/https://gatherer.wizards.com/Pages/Search/Default.aspx?name=+%5BZombify%5D) 
+
+40 Cards 
+
+![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Island)
+
+[Deal Another Hand](https://web.archive.org/web/20220520083041/https://magic.wizards.com/en)
+
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Psychatog)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Swamp)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Whispering+Shade)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Cephalid+Looter)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Ghastly+Demise)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Morbid+Hunger)
+*   ![](https://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=Last+Rites)
+
+a:23:{i:0;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:6:"Island";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:1:"5";}i:1;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:5:"Swamp";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";s:2:"10";}i:2;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Seafloor Debris";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:4:"land";s:10:"deck\_count";i:1;}i:3;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:9:"Psychatog";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;}i:4;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Aven Smokeweaver";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;}i:5;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Cephalid Looter";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;}i:6;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:9:"Puppeteer";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;}i:7;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Crypt Creeper";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;}i:8;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:8:"Dusk Imp";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"4";}i:9;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:10:"Filthy Cur";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;}i:10;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Fledgling Imp";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;}i:11;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:15:"Infected Vermin";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";i:1;}i:12;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:16:"Whispering Shade";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:8:"creature";s:10:"deck\_count";s:1:"2";}i:13;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Dematerialize";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";i:1;}i:14;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Psionic Gift";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:11:"enchantment";s:10:"deck\_count";i:1;}i:15;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:9:"Syncopate";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:1;}i:16;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":0:{}s:4:"type";s:5:"Other";s:10:"deck\_count";i:1;}i:17;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:14:"Ghastly Demise";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"instant";s:10:"deck\_count";i:1;}i:18;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:10:"Last Rites";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";i:1;}i:19;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:13:"Morbid Hunger";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";i:1;}i:20;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:12:"Morgue Theft";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";i:1;}i:21;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:18:"Patriarch's Desire";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:11:"enchantment";s:10:"deck\_count";i:1;}i:22;O:8:"stdClass":3:{s:9:"card\_meta";O:8:"stdClass":2:{s:5:"title";s:7:"Zombify";s:22:"field\_card\_image\_front";a:0:{}}s:4:"type";s:7:"sorcery";s:10:"deck\_count";i:1;}}

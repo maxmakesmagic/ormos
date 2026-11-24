@@ -1,0 +1,102 @@
+---
+id: hvzvgc3e
+kind: article
+lang: en
+path: /en/articles/arcana/2002/10-31-revising-the-base-set
+title: '"Revising" the base set'
+published: '2002-10-31'
+column_slug: arcana
+column: Arcana
+authors:
+- slug: wizardsofthecoast
+  name: Wizards of the Coast
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/arcana/revising-base-set-2002-10-31
+    lang_detected: en
+    capture_id: 190890
+    url: https://magic.wizards.com/en/articles/archive/arcana/revising-base-set-2002-10-31
+    captured_at: '2022-09-29 22:03:55+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/arcana/revising-base-set-2002-10-31
+    lang_detected: en
+    capture_id: 190890
+    url: https://magic.wizards.com/en/articles/archive/arcana/revising-base-set-2002-10-31
+    captured_at: '2022-09-29 22:03:55+00'
+    rule: drupal.posted_in_date
+  authors:
+    page_key: magic.wizards.com/en/articles/archive/arcana/revising-base-set-2002-10-31
+    lang_detected: en
+    capture_id: 190890
+    url: https://magic.wizards.com/en/articles/archive/arcana/revising-base-set-2002-10-31
+    captured_at: '2022-09-29 22:03:55+00'
+    rule: drupal.div_author
+  column:
+    page_key: magic.wizards.com/en/articles/archive/arcana/revising-base-set-2002-10-31
+    lang_detected: en
+    capture_id: 190890
+    url: https://magic.wizards.com/en/articles/archive/arcana/revising-base-set-2002-10-31
+    captured_at: '2022-09-29 22:03:55+00'
+    rule: url.article_section
+    registry_match: registry.explicit
+sources:
+- document_id: hvzvgc3e
+  url: https://magic.wizards.com/en/articles/archive/arcana/revising-base-set-2002-10-31
+  page_key: magic.wizards.com/en/articles/archive/arcana/revising-base-set-2002-10-31
+  lang: en
+  template: drupal
+  captured_at: '2022-09-29 22:03:55+00'
+  capture_id: 190890
+  wayback_url: https://web.archive.org/web/20220929220355id_/https://magic.wizards.com/en/articles/archive/arcana/revising-base-set-2002-10-31
+- document_id: hvzvgc3e
+  url: http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/arcana/217
+  page_key: wizards.com/magic/magazine/article.aspx?x=mtgcom/arcana/217
+  lang: en
+  template: aspx
+  captured_at: '2009-01-19 13:15:48+00'
+  capture_id: 751760
+  wayback_url: https://web.archive.org/web/20090119131548id_/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtgcom/arcana/217
+- document_id: hvzvgc3e
+  url: http://www.wizards.com/default.asp?x=mtgcom/arcana/217
+  page_key: wizards.com/default.asp?x=mtgcom/arcana/217
+  lang: en
+  template: classic_asp
+  captured_at: '2008-05-03 19:00:16+00'
+  capture_id: 1866173
+  wayback_url: https://web.archive.org/web/20080503190016id_/http://www.wizards.com/default.asp?x=mtgcom/arcana/217
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: hvzvgc3e
+  capture_id: 190890
+  url: https://magic.wizards.com/en/articles/archive/arcana/revising-base-set-2002-10-31
+  wayback_url: https://web.archive.org/web/20220929220355id_/https://magic.wizards.com/en/articles/archive/arcana/revising-base-set-2002-10-31
+  captured_at: '2022-09-29 22:03:55+00'
+  template: drupal
+  sha256: 62d848ebb317123490ef80cc380192dbb004cc51b285b74091c6c0bc745bc04a
+render_recovery: []
+---
+Our recent "Selecting *Eighth Edition*" activities have a lot of people thinking about base set rotations and why certain cards are added or taken away.
+
+On that note, we've unearthed a little gem that explains some of the rationale behind the *first* base set rotation, which happened between Unlimited and Revised. The following article snippet (everything below the line) is from a rare *Duelist Supplement* that was published in May of 1994. It lists the Unlimited/Revised substitutions, and some explanations as to a few of the changes specifically.
+
+It's interesting to look back at how certain cards' power levels were viewed nine years ago.
+
+Think of this list every time you stumble across a Revised [Island Fish Jasconius](https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Island+Fish+Jasconius) in your collection…
+
+### Card Substitutions
+
+Some cards that appeared in the Limited and Unlimited editions have been replaced in the Revised Edition with cards from *Arabian Nights* and *Antiquities*, the first two **Magic: The Gathering** expansion sets. There are several reasons for these substitutions. According to **Magic**'s creator, Richard Garfield, and the original design team, cards being replaced fall into three broad categories: There are the "mystifiers"--cards that were too confusing for most players, or led to too many paradoxes, or defied too many of the basic Magic rules. Then there are the "spoilers", the cards whose effects were out of proportion. These cards had a tendency to throw entire games out of whack, and were only fun when they were on your side. It is no coincidence that many of these cards appear on the Duelists' Convocation Restricted or Banned list. Finally there are the "retirees", cards which are simply being phased out. Richard always intended for the card set to be fluid and for some of the old cards to be replaced by new ones. So some of the cards were selected for "retirement." This is not to say they will never be back, or similar cards won't show up in future expansions.
+
+<table><tbody><tr><td><b>Original Card</b></td><td><b>Category</b></td><td><b>Replacement Card</b></td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ancestral+Recall">Ancestral Recall</a></td><td>spoiler</td><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Serendib+Efreet">Serendib Efreet</a></td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Berserk">Berserk</a></td><td>spoiler</td><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Desert+Twister">Desert Twister</a></td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Black+Lotus">Black Lotus</a></td><td>spoiler</td><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aladdin%27s+Lamp">Aladdin's Lamp</a></td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Blaze+of+Glory">Blaze of Glory</a></td><td>mystifier</td><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Eye+for+an+Eye">Eye for an Eye</a></td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Camouflage">Camouflage</a></td><td>mystifier</td><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shatterstorm">Shatterstorm</a></td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chaos+Orb">Chaos Orb</a></td><td>retiree</td><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bottle+of+Suleiman">Bottle of Suleiman</a></td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Consecrate+Land">Consecrate Land</a></td><td>retiree</td><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Reverse+Polarity">Reverse Polarity</a></td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Copper+Tablet">Copper Tablet</a></td><td>retiree</td><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ornithopter">Ornithopter</a></td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cyclopean+Tomb">Cyclopean Tomb</a></td><td>retiree</td><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mishra%27s+War+Machine">Mishra's War Machine</a></td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dwarven+Demolition+Team">Dwarven Demolition Team</a></td><td>retiree</td><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dwarven+Weaponsmith">Dwarven Weaponsmith</a></td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=False+Orders">False Orders</a></td><td>retiree</td><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kird+Ape">Kird Ape</a></td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Forcefield">Forcefield</a></td><td>spoiler</td><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Armageddon+Clock">Armageddon Clock</a></td>&#10;				</tr><tr><td>Four &quot;rare&quot; <a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Island">Island</a>s</td><td>retiree</td><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Millstone">Millstone</a>, <a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dragon+Engine">Dragon Engine</a>, <a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Primal+Clay">Primal Clay</a>, <a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Rocket+Launcher">Rocket Launcher</a></td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Gauntlet+of+Might">Gauntlet of Might</a></td><td>spoiler</td><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Jandor%27s+Ring">Jandor's Ring</a></td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ice+Stor">Ice Stor</a>m</td><td>spoiler</td><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Crumble">Crumble</a></td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Icy+Manipulator">Icy Manipulator</a></td><td>retiree</td><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=The+Rack">The Rack</a></td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Illusionary+Mask">Illusionary Mask</a></td><td>mystifier</td><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ivory+Tower">Ivory Tower</a></td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Invisibility">Invisibility</a></td><td>retiree</td><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Reconstruction">Reconstruction</a></td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ironclaw+Orcs">Ironclaw Orcs</a></td><td>retiree</td><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Atog">Atog</a></td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Jade+Statue">Jade Statue</a></td><td>mystifier</td><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Brass+Man">Brass Man</a></td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lich">Lich</a></td><td>mystifier</td><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=El-Hajjaj">El-Hajjaj</a></td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mox+Emerald">Mox Emerald</a></td><td>spoiler</td><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Dancing+Scimitar">Dancing Scimitar</a></td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mox+Jet">Mox Jet</a></td><td>spoiler</td><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Onulet">Onulet</a></td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mox+Pearl">Mox Pearl</a></td><td>spoiler</td><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Jandor%27s+Saddlebags">Jandor's Saddlebags</a></td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mox+Ruby">Mox Ruby</a></td><td>spoiler</td><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ebony+Horse">Ebony Horse</a></td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mox+Sapphire">Mox Sapphire</a></td><td>spoiler</td><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Flying+Carpet">Flying Carpet</a></td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Natural+Selection">Natural Selection</a></td><td>retiree</td><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Titania%27s+Song">Titania's Song</a></td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Psionic+Blast">Psionic Blast</a></td><td>retiree</td><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Energy+Flux">Energy Flux</a></td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Raging+River">Raging River</a></td><td>mystifier</td><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Magnetic+Mountain">Magnetic Mountain</a></td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sinkhole">Sinkhole</a></td><td>spoiler</td><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Erg+Raiders">Erg Raiders</a></td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Time+Vault">Time Vault</a></td><td>spoiler</td><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Aladdin%27s+Ring">Aladdin's Ring</a></td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Time+Walk">Time Walk</a></td><td>spoiler</td><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Island+Fish+Jasconius">Island Fish Jasconius</a></td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Timetwister">Timetwister</a></td><td>spoiler</td><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hurkyl%27s+Recall">Hurkyl's Recall</a></td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Twiddle">Twiddle</a></td><td>mystifier</td><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Unstable+Mutation">Unstable Mutation</a></td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Two-Headed+Giant+of+Foriys">Two-Headed Giant of Foriys</a></td><td>mystifier</td><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mijae+Djinn">Mijae Djinn</a></td>&#10;				</tr><tr><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Word+of+Command">Word of Command</a></td><td>mystifier</td><td><a href="https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Sorceress+Queen">Sorceress Queen</a></td>&#10;				</tr></tbody></table>
+
+### What do you MEAN you took it out?
+
+1.  **[Berserk](https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Berserk).** Says Richard Garfield: "Anything which multiplies is potentially abusive. Failure to have a [Fog](https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fog) should not warrant 80 damage."
+2.  **[Chaos Orb](https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Chaos+Orb).** "No, we didn't can the concept," says Garfield. "There will always be weirdo cards like this floating around, but the same old one gets passé."
+3.  **[Illusionary Mask](https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Illusionary+Mask).** According to Garfield, "This one will probably resurface in a slightly more clarified form sometime."
+4.  **Four "rare" [Island](https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Island)s.** "Are you kidding?" says Garfield. "Actually it is worth noting people were never meant to know they had rare islands. We were under the impression your rares would appear randomly in the deck and in random numbers. Had we known, they would have been something else; this is just the soonest we could really correct the mistake."
+5.  **[Time Vault](https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Time+Vault).** "Not in and of itself," explains Dave Pettey. "It just limits what you can do without creating 'spoiler' combinations from 'non-spoiler' cards. It's different from the 'real spoilers' like [Ancestral Recall](https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ancestral+Recall)."
+6.  **[Twiddle](https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Twiddle).** "Twiddle was badly miscorrected after Alpha, were it wasn't really well written anyway," says Garfield. "Rather than recorrect it when it was pretty confusing anyway we decided to drop it. Eventually, you can expect it back again."
+7.  **[Word of Command](https://web.archive.org/web/20021031000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Word+of+Command).** According to Garfield, "This one is buggier than a high school FORTRAN class."

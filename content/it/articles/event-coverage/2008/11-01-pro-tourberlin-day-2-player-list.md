@@ -1,0 +1,47 @@
+---
+id: ykgdsjzd
+kind: event
+lang: it
+path: /it/articles/event-coverage/2008/11-01-pro-tourberlin-day-2-player-list
+title: Pro Tour–Berlin Day 2 Player List
+published: '2008-11-01'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: it
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/pro-tour%E2%80%93berlin-day-2-player-list-2008-11-01
+    lang_detected: it
+    capture_id: 456445
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/pro-tour%E2%80%93berlin-day-2-player-list-2008-11-01
+    captured_at: '2022-10-07 03:33:04+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/pro-tour%E2%80%93berlin-day-2-player-list-2008-11-01
+    lang_detected: it
+    capture_id: 456445
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/pro-tour%E2%80%93berlin-day-2-player-list-2008-11-01
+    captured_at: '2022-10-07 03:33:04+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: ykgdsjzd
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/pro-tour%E2%80%93berlin-day-2-player-list-2008-11-01
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/pro-tour%E2%80%93berlin-day-2-player-list-2008-11-01
+  lang: it
+  template: drupal
+  captured_at: '2022-10-07 03:33:04+00'
+  capture_id: 456445
+  wayback_url: https://web.archive.org/web/20221007033304id_/https://magic.wizards.com/en/articles/archive/event-coverage/pro-tour%E2%80%93berlin-day-2-player-list-2008-11-01
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: ykgdsjzd
+  capture_id: 456445
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/pro-tour%E2%80%93berlin-day-2-player-list-2008-11-01
+  wayback_url: https://web.archive.org/web/20221007033304id_/https://magic.wizards.com/en/articles/archive/event-coverage/pro-tour%E2%80%93berlin-day-2-player-list-2008-11-01
+  captured_at: '2022-10-07 03:33:04+00'
+  template: drupal
+  sha256: 1a0be850d477f0dba9af5b7e37422fa4afb37f32aa25bbbca0d54d7c75d3e98b
+render_recovery: []
+---
+<table><tbody><tr><td><b>Active Players round 9</b></td><td><b>Country</b></td></tr><tr><td>Akaike, You</td><td>JPN</td></tr><tr><td>Alarcón, Jorge</td><td>ESP</td></tr><tr><td>Almgren, Oscar</td><td>SWE</td></tr><tr><td>Alvarado, Saul</td><td>PAN</td></tr><tr><td>Amaya Troncoso, Carlos</td><td>COL</td></tr><tr><td>Andersen, Rune Martens</td><td>DNK</td></tr><tr><td>Aridome, Tomohiro</td><td>JPN</td></tr><tr><td>Arita, Ryuuichi</td><td>JPN</td></tr><tr><td>Baglin, Arnaud</td><td>FRA</td></tr><tr><td>Bartolomei, Iain</td><td>USA</td></tr><tr><td>Bergström, Jonathan</td><td>SWE</td></tr><tr><td>Bernabe, Julio</td><td>CHL</td></tr><tr><td>Bernat, Michael</td><td>USA</td></tr><tr><td>Bevacqua, Nicolas</td><td>ARG</td></tr><tr><td>Bildner, Orr</td><td>ISR</td></tr><tr><td>Birner, Armin</td><td>AUT</td></tr><tr><td>Bland, Richard</td><td>ENG</td></tr><tr><td>Bode, Roland</td><td>DEU</td></tr><tr><td>Boonyasatian, Surachaste</td><td>THA</td></tr><tr><td>Borges, Bruno</td><td>BRA</td></tr><tr><td>Brodzak, Jan</td><td>CZE</td></tr><tr><td>Bucher, Manuel</td><td>CHE</td></tr><tr><td>Buckley, Damian</td><td>ARG</td></tr><tr><td>Calafell, Joel</td><td>ESP</td></tr><tr><td>Calvetto, Marcello</td><td>ITA</td></tr><tr><td>Carboni, Simone</td><td>ITA</td></tr><tr><td>Carleton-Barnes, Gabriel</td><td>USA</td></tr><tr><td>Carvalho, Marcio</td><td>PRT</td></tr><tr><td>Carvalho, Paulo</td><td>PRT</td></tr><tr><td>Chapin, Patrick</td><td>USA</td></tr><tr><td>Chen, Liang</td><td>TWN</td></tr><tr><td>Chen, Ziming</td><td>NLD</td></tr><tr><td>Chiappe, Matías A</td><td>ARG</td></tr><tr><td>Chufarin, Denys</td><td>UKR</td></tr><tr><td>Coimbra, André</td><td>PRT</td></tr><tr><td>Cox, Patrick</td><td>USA</td></tr><tr><td>D'Angella, Stefano</td><td>ITA</td></tr><tr><td>da Rosa, Paulo Vitor</td><td>BRA</td></tr><tr><td>Darnhofer, Robert</td><td>DEU</td></tr><tr><td>Dembinski, Kyle</td><td>USA</td></tr><tr><td>DeTora, Melissa</td><td>USA</td></tr><tr><td>Dictus, Mark</td><td>BEL</td></tr><tr><td>Doise, Jan</td><td>BEL</td></tr><tr><td>Dolbeer, Jed</td><td>USA</td></tr><tr><td>Dominguez Roldan, Alfredo</td><td>MEX</td></tr><tr><td>Eigner, Nikolaus</td><td>AUT</td></tr><tr><td>Faber, Manuel</td><td>DEU</td></tr><tr><td>Felske, David</td><td>CAN</td></tr><tr><td>Fletcher, Geoff</td><td>ENG</td></tr><tr><td>Gindy, Charles</td><td>USA</td></tr><tr><td>Gorzkowski, Shawn</td><td>USA</td></tr><tr><td>Gregoir, Christophe</td><td>BEL</td></tr><tr><td>grouiller, brian</td><td>FRA</td></tr><tr><td>Guedj, Thomas</td><td>FRA</td></tr><tr><td>Gurney, Michael</td><td>USA</td></tr><tr><td>Havlik, Michal</td><td>SVK</td></tr><tr><td>Heinrich, Artie</td><td>DEU</td></tr><tr><td>Hill, Zac</td><td>USA</td></tr><tr><td>hoaen, Richard</td><td>CAN</td></tr><tr><td>Hron, Mike</td><td>USA</td></tr><tr><td>Itou, Atsushi</td><td>JPN</td></tr><tr><td>Iyanaga, Jun'ya</td><td>JPN</td></tr><tr><td>Jackson, Ben</td><td>USA</td></tr><tr><td>Johannsen, Dennis</td><td>DEU</td></tr><tr><td>Juza, Martin</td><td>CZE</td></tr><tr><td>Kannegiesser, Thomas</td><td>DEU</td></tr><tr><td>Karsten, Frank</td><td>NLD</td></tr><tr><td>Keren, Tom</td><td>FRA</td></tr><tr><td>Kitayama, Masaya</td><td>JPN</td></tr><tr><td>Kiwanont, Sukhum</td><td>THA</td></tr><tr><td>Kochurov, Andrey</td><td>RUS</td></tr><tr><td>Kocsis, Gabor</td><td>HUN</td></tr><tr><td>Kopec, Mateusz</td><td>POL</td></tr><tr><td>Kristensen, David Kai</td><td>NOR</td></tr><tr><td>Krutil, Daniel</td><td>CZE</td></tr><tr><td>Künzler, Matthias</td><td>CHE</td></tr><tr><td>Landale, Tim</td><td>USA</td></tr><tr><td>lane, marshall</td><td>USA</td></tr><tr><td>Lau, Brandon</td><td>AUS</td></tr><tr><td>Layne, Josh</td><td>CAN</td></tr><tr><td>Lemaitre, Clément</td><td>FRA</td></tr><tr><td>Levy, Raphael</td><td>FRA</td></tr><tr><td>Loeb, Davy</td><td>POL</td></tr><tr><td>Lundquist, Benjamin</td><td>USA</td></tr><tr><td>Lybaert, Marijn</td><td>BEL</td></tr><tr><td>Majlaton, Alex</td><td>USA</td></tr><tr><td>Mantey, Tyler</td><td>USA</td></tr><tr><td>Marcucci, Federico</td><td>ITA</td></tr><tr><td>Marion, Damien</td><td>FRA</td></tr><tr><td>Martin Bermejo, Daniel</td><td>ESP</td></tr><tr><td>Massart, Philippe</td><td>BEL</td></tr><tr><td>Matignon, Guillaume</td><td>FRA</td></tr><tr><td>McHugh, Michael</td><td>USA</td></tr><tr><td>Miller, Rashad</td><td>USA</td></tr><tr><td>Mitamura, Kazuya</td><td>JPN</td></tr><tr><td>Moiseev, Dmitry</td><td>RUS</td></tr><tr><td>Morita, Masahiko</td><td>JPN</td></tr><tr><td>Müller, Andreas</td><td>DEU</td></tr><tr><td>Nakamura, Shuuhei</td><td>JPN</td></tr><tr><td>Nakano, Yoshitaka</td><td>JPN</td></tr><tr><td>Nassif, Gabriel</td><td>FRA</td></tr><tr><td>Nelson, Brandon</td><td>USA</td></tr><tr><td>Neufeld, Bryan</td><td>CAN</td></tr><tr><td>Nørgaard, Lasse</td><td>DNK</td></tr><tr><td>Oberg, Kenny</td><td>SWE</td></tr><tr><td>Ootsuka, Koutarou</td><td>JPN</td></tr><tr><td>Orsini Jones, Marco</td><td>ENG</td></tr><tr><td>Pagnard, Fabien</td><td>FRA</td></tr><tr><td>Pascoli, Mario</td><td>ITA</td></tr><tr><td>Pasek, Maciej</td><td>POL</td></tr><tr><td>Passa, Maria</td><td>GRC</td></tr><tr><td>Petric Maretic, Grgur</td><td>HRV</td></tr><tr><td>Pils, Florian</td><td>DEU</td></tr><tr><td>Pinazo, Jorge</td><td>ESP</td></tr><tr><td>Pincus, Max</td><td>USA</td></tr><tr><td>Pirkey, James</td><td>USA</td></tr><tr><td>Polak-Rottmann, Oliver</td><td>AUT</td></tr><tr><td>Potovin, Nicolay</td><td>RUS</td></tr><tr><td>Pozzo, Sebastian</td><td>ARG</td></tr><tr><td>Prinsloo, Coenraad</td><td>ZAF</td></tr><tr><td>Puszet, Jarron</td><td>AUS</td></tr><tr><td>RANDLE, JONATHAN</td><td>ENG</td></tr><tr><td>Renedo, Rodrigo</td><td>ESP</td></tr><tr><td>Rico Bleda, Alejandro</td><td>ESP</td></tr><tr><td>Rodi, Daniel</td><td>DEU</td></tr><tr><td>Ruel, Olivier</td><td>FRA</td></tr><tr><td>Sacher, Aj</td><td>USA</td></tr><tr><td>Sadeghpour, Johan</td><td>SWE</td></tr><tr><td>Saitou, Tomoharu</td><td>JPN</td></tr><tr><td>santiago, carlos</td><td>ESP</td></tr><tr><td>Scheinin, Martin</td><td>ESP</td></tr><tr><td>Scott-Vargas, Luis</td><td>USA</td></tr><tr><td>Seder, Robert</td><td>USA</td></tr><tr><td>Senyuz, Aras</td><td>TKL</td></tr><tr><td>Shimizu, Naoki</td><td>JPN</td></tr><tr><td>Sidher, Ricky</td><td>USA</td></tr><tr><td>Sinner, Denis</td><td>DEU</td></tr><tr><td>Six, Brian</td><td>USA</td></tr><tr><td>Sköld, Oskar</td><td>SWE</td></tr><tr><td>Stoddard, Samuel</td><td>USA</td></tr><tr><td>Ströh, Kim</td><td>DNK</td></tr><tr><td>Sugaya, Hironobu</td><td>JPN</td></tr><tr><td>Summereder, Philipp</td><td>AUT</td></tr><tr><td>Summersberger, Helmut</td><td>AUT</td></tr><tr><td>Szleifer, Gadiel</td><td>USA</td></tr><tr><td>Tenenbaum, Amiel</td><td>FRA</td></tr><tr><td>Thaler, Sebastian</td><td>DEU</td></tr><tr><td>Thomsen, Sascha</td><td>DEU</td></tr><tr><td>Torstensson, Benny</td><td>SWE</td></tr><tr><td>Valori, Kim</td><td>FIN</td></tr><tr><td>van Heeswijk, Roel</td><td>NLD</td></tr><tr><td>Vieren, Pascal</td><td>BEL</td></tr><tr><td>Warmenhoven, Ruud</td><td>NLD</td></tr><tr><td>Webb, Taylor</td><td>USA</td></tr><tr><td>Wichlacz, Zbigniew</td><td>POL</td></tr><tr><td>Würtz, Alexander</td><td>DEU</td></tr><tr><td>Yasooka, Shouta</td><td>JPN</td></tr><tr><td>Yoshida, Hiroshi</td><td>JPN</td></tr><tr><td>Yurchick, Adam M</td><td>USA</td></tr><tr><td>Zatlkaj, Matej</td><td>SVK</td></tr><tr><td><b>Total Players</b></td><td><b>160</b></td></tr></tbody></table>

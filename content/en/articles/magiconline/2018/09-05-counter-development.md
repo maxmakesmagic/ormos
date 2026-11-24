@@ -1,0 +1,80 @@
+---
+id: jf167cqe
+kind: article
+lang: en
+path: /en/articles/magiconline/2018/09-05-counter-development
+title: Counter Development
+published: '2018-09-05'
+column_slug: magiconline
+column: Magic Online
+authors:
+- slug: christopher-bellach-36e01f58
+  name: Christopher Bellach
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/magic-online/counter-development-2018-09-05
+    lang_detected: en
+    capture_id: 780464
+    url: https://magic.wizards.com/en/articles/archive/magic-online/counter-development-2018-09-05
+    captured_at: '2022-10-11 13:09:33+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/magic-online/counter-development-2018-09-05
+    lang_detected: en
+    capture_id: 780464
+    url: https://magic.wizards.com/en/articles/archive/magic-online/counter-development-2018-09-05
+    captured_at: '2022-10-11 13:09:33+00'
+    rule: drupal.posted_in_date
+  authors:
+    page_key: magic.wizards.com/en/articles/archive/magic-online/counter-development-2018-09-05
+    lang_detected: en
+    capture_id: 780464
+    url: https://magic.wizards.com/en/articles/archive/magic-online/counter-development-2018-09-05
+    captured_at: '2022-10-11 13:09:33+00'
+    rule: drupal.div_author
+  column:
+    page_key: magic.wizards.com/en/articles/archive/magic-online/counter-development-2018-09-05
+    lang_detected: en
+    capture_id: 780464
+    url: https://magic.wizards.com/en/articles/archive/magic-online/counter-development-2018-09-05
+    captured_at: '2022-10-11 13:09:33+00'
+    rule: url.article_section
+    registry_match: registry.separator_and_case
+sources:
+- document_id: jf167cqe
+  url: https://magic.wizards.com/en/articles/archive/magic-online/counter-development-2018-09-05
+  page_key: magic.wizards.com/en/articles/archive/magic-online/counter-development-2018-09-05
+  lang: en
+  template: drupal
+  captured_at: '2022-10-11 13:09:33+00'
+  capture_id: 780464
+  wayback_url: https://web.archive.org/web/20221011130933id_/https://magic.wizards.com/en/articles/archive/magic-online/counter-development-2018-09-05
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: jf167cqe
+  capture_id: 780464
+  url: https://magic.wizards.com/en/articles/archive/magic-online/counter-development-2018-09-05
+  wayback_url: https://web.archive.org/web/20221011130933id_/https://magic.wizards.com/en/articles/archive/magic-online/counter-development-2018-09-05
+  captured_at: '2022-10-11 13:09:33+00'
+  template: drupal
+  sha256: 3036af8baeb4d879ecc7a10f829e28e6ac9c9fe7ab97eb0b7abb23d17c3c3d38
+render_recovery: []
+---
+Welcome, my fellow Planeswalkers and fans of *Magic Online*. My name is Christopher Bellach, and I am one of the client developers for *Magic Online*. Today, I'm excited to share with you the details for an update I have been working on to the *Magic Online* counter system. But before we get to those details, I would like to give you all some of the history on how I came to work on the *Magic Online* client.
+
+I've been playing *Magic: The Gathering* since around when *Mirage* was released and have been a fan ever since. I started playing *Magic Online* around the time *Mirrodin* was released, and it quickly became one of my favorite games. When I started my career as a software developer, I began dreaming of working on *Magic Online* with the hopes that I could help *Magic Online* continue to be the great game we all love to play. When I finally committed to getting a job working on *Magic Online*, I scoured the [Wizards job page](https://web.archive.org/web/20180905000000/http://company.wizards.com/content/jobs) until I found a post that matched my skill set. Once I had zeroed in on my target, I did everything within my power to earn the job. I even went so far as to find the contact information of the recruiter to ensure I was on their radar. Finally, in February of 2014, I accepted a position at Wizards of the Coast. I've been living the dream ever since.
+
+Now, let's talk about counters. Historically, *Magic Online* hasn't had a whole lot of variety with its counter icons. Before this update, we had five different types of counter icons: plus, minus, loyalty, charge, and generic. With this update, we have 28 distinct icons with a possibility of 84 different variations. This makes it clearer at a glance what counters are on your cards and gives a little personality to the menagerie of counters in *Magic: The Gathering*. We also designed the new counter icons to increase visibility for streamers and their fans, with clear shapes and large numerals.
+
+![](https://media.wizards.com/2018/images/daily/tLOMsmehCX_02.jpg)
+
+Below is a table that details each new counter icon and what they will be used to represent. In general, green counters are used for positive effects, orange counters are used for negative effects, and blue counters are used for neutral effects. I also took some liberties on a couple counters for thematic reasons: the blaze counter is always orange, and the flood counter is blue. If there's only one counter on a card, you won't see a number on the counter icon, but once there are multiple counters on a card, the count will show up.
+
+While updating the way that counters looked like in general, I took the opportunity to improve the visibility of counters in other zones. In the past, counters were hard to access on cards in other zones outside the battlefield or on cards that are attached to other cards. So, I found some solutions that should help alleviate those frustrations. For cards in other zones, like suspend cards, the cards will now detect that they have counters and claim more vertical space to display them fully. For cards attached to other cards, like [Umezawa's Jitte](https://web.archive.org/web/20180905000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Umezawa%27s+Jitte), the counters will now move to the left side of the card, so you can easily view the counter without zooming in on the card. To accomplish this, I had to flip the rendering of the graphic and adjust the placement of the elements of the counter.
+
+![](https://media.wizards.com/2018/images/daily/7dmx7l9HBs_01.jpg)![](https://media.wizards.com/2018/images/daily/8hIlqQOKjG_03.jpg)
+
+That is all I have for today. Thanks for taking the time to read my article, and I am excited for everyone to get an opportunity to use these new counters. We have some more exciting updates in the pipeline, so stay tuned, and I look forward to sharing those with you all once they are ready. See you next time, and may all of your packs have epic foils!
+
+<table><tbody><tr><td>&#10;			<p> </p>&#10;			</td>&#10;			<td>&#10;			<p> </p>&#10;&#10;			<p><img alt="" src="https://media.wizards.com/2018/images/daily/blue.png"></p>&#10;&#10;			<p> </p>&#10;			</td>&#10;			<td>&#10;			<p> </p>&#10;&#10;			<p><img alt="" src="https://media.wizards.com/2018/images/daily/green.png"></p>&#10;&#10;			<p> </p>&#10;			</td>&#10;			<td>&#10;			<p> </p>&#10;&#10;			<p><img alt="" src="https://media.wizards.com/2018/images/daily/orange.png"></p>&#10;&#10;			<p> </p>&#10;			</td>&#10;		</tr><tr><td>&#10;			<p> </p>&#10;&#10;			<p><img alt="" src="https://media.wizards.com/2018/images/daily/plus.png"></p>&#10;&#10;			<p> </p>&#10;			</td>&#10;			<td>&#10;			<p>—</p>&#10;			</td>&#10;			<td>&#10;			<p>+1/+1</p>&#10;			</td>&#10;			<td>&#10;			<p>—</p>&#10;			</td>&#10;		</tr><tr><td>&#10;			<p> </p>&#10;&#10;			<p><img alt="" src="https://media.wizards.com/2018/images/daily/minus.png"></p>&#10;&#10;			<p> </p>&#10;			</td>&#10;			<td>&#10;			<p>—</p>&#10;			</td>&#10;			<td>&#10;			<p>—</p>&#10;			</td>&#10;			<td>&#10;			<p>-1/-1</p>&#10;			</td>&#10;		</tr><tr><td>&#10;			<p> </p>&#10;&#10;			<p><img alt="" src="https://media.wizards.com/2018/images/daily/paw.png"></p>&#10;&#10;			<p> </p>&#10;			</td>&#10;			<td>&#10;			<p>—</p>&#10;			</td>&#10;			<td>&#10;			<p>Egg, Hatchling, Hoofprint</p>&#10;			</td>&#10;			<td>&#10;			<p>Prey, Shell</p>&#10;			</td>&#10;		</tr><tr><td>&#10;			<p> </p>&#10;&#10;			<p><img alt="" src="https://media.wizards.com/2018/images/daily/skull.png"></p>&#10;&#10;			<p> </p>&#10;			</td>&#10;			<td>&#10;			<p>—</p>&#10;			</td>&#10;			<td>&#10;			<p>Credit, Theft, Wage</p>&#10;			</td>&#10;			<td>&#10;			<p>Bounty, Hit</p>&#10;			</td>&#10;		</tr><tr><td>&#10;			<p> </p>&#10;&#10;			<p><img alt="" src="https://media.wizards.com/2018/images/daily/flame.png"></p>&#10;&#10;			<p> </p>&#10;			</td>&#10;			<td>&#10;			<p>—</p>&#10;			</td>&#10;			<td>&#10;			<p>Flame, Fury, Fuse, Shred, Spite, Strife</p>&#10;			</td>&#10;			<td>&#10;			<p>Blaze</p>&#10;			</td>&#10;		</tr><tr><td>&#10;			<p> </p>&#10;&#10;			<p><img alt="" src="https://media.wizards.com/2018/images/daily/brick.png"></p>&#10;&#10;			<p> </p>&#10;			</td>&#10;			<td>&#10;			<p>—</p>&#10;			</td>&#10;			<td>&#10;			<p>Brick, Cage, Tower</p>&#10;			</td>&#10;			<td>&#10;			<p>—</p>&#10;			</td>&#10;		</tr><tr><td>&#10;			<p> </p>&#10;&#10;			<p><img alt="" src="https://media.wizards.com/2018/images/daily/uneven_plus.png"></p>&#10;&#10;			<p> </p>&#10;			</td>&#10;			<td>&#10;			<p>—</p>&#10;			</td>&#10;			<td>&#10;			<p>+1/+2, +1/+0, +2/+2, +0/+1</p>&#10;			</td>&#10;			<td>&#10;			<p>—</p>&#10;			</td>&#10;		</tr><tr><td>&#10;			<p> </p>&#10;&#10;			<p><img alt="" src="https://media.wizards.com/2018/images/daily/charge.png"></p>&#10;&#10;			<p> </p>&#10;			</td>&#10;			<td>&#10;			<p>—</p>&#10;			</td>&#10;			<td>&#10;			<p>Charge, Crystal, Gem</p>&#10;			</td>&#10;			<td>&#10;			<p>—</p>&#10;			</td>&#10;		</tr><tr><td>&#10;			<p> </p>&#10;&#10;			<p><img alt="" src="https://media.wizards.com/2018/images/daily/doom.png"></p>&#10;&#10;			<p> </p>&#10;			</td>&#10;			<td>&#10;			<p>Doom</p>&#10;			</td>&#10;			<td>&#10;			<p>Despair</p>&#10;			</td>&#10;			<td>&#10;			<p>Death, Mannequin, Paralyzation, Petrification</p>&#10;			</td>&#10;		</tr><tr><td>&#10;			<p> </p>&#10;&#10;			<p><img alt="" src="https://media.wizards.com/2018/images/daily/uneven_minus.png"></p>&#10;&#10;			<p> </p>&#10;			</td>&#10;			<td>&#10;			<p>—</p>&#10;			</td>&#10;			<td>&#10;			<p>-</p>&#10;			</td>&#10;			<td>&#10;			<p>-1/-0, -2/-1, -2/-2, -0/-1, -0/-2</p>&#10;			</td>&#10;		</tr><tr><td>&#10;			<p> </p>&#10;&#10;			<p><img alt="" src="https://media.wizards.com/2018/images/daily/devotion.png"></p>&#10;&#10;			<p> </p>&#10;			</td>&#10;			<td>&#10;			<p>—</p>&#10;			</td>&#10;			<td>&#10;			<p>Devotion, Divinity, Dream, Elixir, Fate, Healing, Intervention, Omen, Unity, Wish, Hunger</p>&#10;			</td>&#10;			<td>&#10;			<p>—</p>&#10;			</td>&#10;		</tr><tr><td>&#10;			<p> </p>&#10;&#10;			<p><img alt="" src="https://media.wizards.com/2018/images/daily/flood.png"></p>&#10;&#10;			<p> </p>&#10;			</td>&#10;			<td>&#10;			<p>Flood, Ice, Tide</p>&#10;			</td>&#10;			<td>&#10;			<p>—</p>&#10;			</td>&#10;			<td>&#10;			<p>—</p>&#10;			</td>&#10;		</tr><tr><td>&#10;			<p> </p>&#10;&#10;			<p><img alt="" src="https://media.wizards.com/2018/images/daily/skeleton.png"></p>&#10;&#10;			<p> </p>&#10;			</td>&#10;			<td>&#10;			<p>—</p>&#10;			</td>&#10;			<td>&#10;			<p>Blood, Carrion, Corpse, Eyeball, Infection, Plague</p>&#10;			</td>&#10;			<td>&#10;			<p>—</p>&#10;			</td>&#10;		</tr><tr><td>&#10;			<p> </p>&#10;&#10;			<p><img alt="" src="https://media.wizards.com/2018/images/daily/fungus.png"></p>&#10;&#10;			<p> </p>&#10;			</td>&#10;			<td>&#10;			<p>—</p>&#10;			</td>&#10;			<td>&#10;			<p>Fungus, Growth, Petal, Polyp, Spore, Vitality, Matrix</p>&#10;			</td>&#10;			<td>&#10;			<p>Pupa, Rust</p>&#10;			</td>&#10;		</tr><tr><td>&#10;			<p> </p>&#10;&#10;			<p><img alt="" src="https://media.wizards.com/2018/images/daily/echo.png"></p>&#10;&#10;			<p> </p>&#10;			</td>&#10;			<td>&#10;			<p>—</p>&#10;			</td>&#10;			<td>&#10;			<p>Awakening, Echo, Luck</p>&#10;			</td>&#10;			<td>&#10;			<p>Glyph</p>&#10;			</td>&#10;		</tr><tr><td>&#10;			<p> </p>&#10;&#10;			<p><img alt="" src="https://media.wizards.com/2018/images/daily/ki.png"></p>&#10;&#10;			<p> </p>&#10;			</td>&#10;			<td>&#10;			<p>—</p>&#10;			</td>&#10;			<td>&#10;			<p>Ki, Manifestation</p>&#10;			</td>&#10;			<td>&#10;			<p>Sleight</p>&#10;			</td>&#10;		</tr><tr><td>&#10;			<p> </p>&#10;&#10;			<p><img alt="" src="https://media.wizards.com/2018/images/daily/loyalty.png"></p>&#10;&#10;			<p> </p>&#10;			</td>&#10;			<td>&#10;			<p>—</p>&#10;			</td>&#10;			<td>&#10;			<p>Loyalty</p>&#10;			</td>&#10;			<td>&#10;			<p>—</p>&#10;			</td>&#10;		</tr><tr><td>&#10;			<p> </p>&#10;&#10;			<p><img alt="" src="https://media.wizards.com/2018/images/daily/pin.png"></p>&#10;&#10;			<p> </p>&#10;			</td>&#10;			<td>&#10;			<p>—</p>&#10;			</td>&#10;			<td>&#10;			<p>Pin, Training</p>&#10;			</td>&#10;			<td>&#10;			<p>Net</p>&#10;			</td>&#10;		</tr><tr><td>&#10;			<p> </p>&#10;&#10;			<p><img alt="" src="https://media.wizards.com/2018/images/daily/mining.png"></p>&#10;&#10;			<p> </p>&#10;			</td>&#10;			<td>&#10;			<p>—</p>&#10;			</td>&#10;			<td>&#10;			<p>Mining, Pressure, Winch, Silver, Storage, Trap</p>&#10;			</td>&#10;			<td>&#10;			<p>Magnet, Mine, Ore</p>&#10;			</td>&#10;		</tr><tr><td>&#10;			<p> </p>&#10;&#10;			<p><img alt="" src="https://media.wizards.com/2018/images/daily/verse.png"></p>&#10;&#10;			<p> </p>&#10;			</td>&#10;			<td>&#10;			<p>—</p>&#10;			</td>&#10;			<td>&#10;			<p>Scroll, Verse</p>&#10;			</td>&#10;			<td>&#10;			<p>Music, Sleep</p>&#10;			</td>&#10;		</tr><tr><td>&#10;			<p> </p>&#10;&#10;			<p><img alt="" src="https://media.wizards.com/2018/images/daily/lore.png"></p>&#10;&#10;			<p> </p>&#10;			</td>&#10;			<td>&#10;			<p>—</p>&#10;			</td>&#10;			<td>&#10;			<p>Filibuster, Landmark, Level, Lore, Page, Plot, Quest, Sturdy</p>&#10;			</td>&#10;			<td>&#10;			<p>—</p>&#10;			</td>&#10;		</tr><tr><td>&#10;			<p> </p>&#10;&#10;			<p><img alt="" src="https://media.wizards.com/2018/images/daily/scream.png"></p>&#10;&#10;			<p> </p>&#10;			</td>&#10;			<td>&#10;			<p>Scream</p>&#10;			</td>&#10;			<td>&#10;			<p>Pain</p>&#10;			</td>&#10;			<td>&#10;			<p>—</p>&#10;			</td>&#10;		</tr><tr><td>&#10;			<p> </p>&#10;&#10;			<p><img alt="" src="https://media.wizards.com/2018/images/daily/arrow.png"></p>&#10;&#10;			<p> </p>&#10;			</td>&#10;			<td>&#10;			<p>—</p>&#10;			</td>&#10;			<td>&#10;			<p>Aim, Arrow, Arrowhead, Javelin</p>&#10;			</td>&#10;			<td>&#10;			<p>—</p>&#10;			</td>&#10;		</tr><tr><td>&#10;			<p> </p>&#10;&#10;			<p><img alt="" src="https://media.wizards.com/2018/images/daily/muster.png"></p>&#10;&#10;			<p> </p>&#10;			</td>&#10;			<td>&#10;			<p>—</p>&#10;			</td>&#10;			<td>&#10;			<p>Muster, Phylactery, Shield</p>&#10;			</td>&#10;			<td>&#10;			<p>—</p>&#10;			</td>&#10;		</tr><tr><td>&#10;			<p> </p>&#10;&#10;			<p><img alt="" src="https://media.wizards.com/2018/images/daily/slime.png"></p>&#10;&#10;			<p> </p>&#10;			</td>&#10;			<td>&#10;			<p>—</p>&#10;			</td>&#10;			<td>&#10;			<p>Slime, Soot</p>&#10;			</td>&#10;			<td>&#10;			<p>Mire</p>&#10;			</td>&#10;		</tr><tr><td>&#10;			<p> </p>&#10;&#10;			<p><img alt="" src="https://media.wizards.com/2018/images/daily/time.png"></p>&#10;&#10;			<p> </p>&#10;			</td>&#10;			<td>&#10;			<p>Delay, Time</p>&#10;			</td>&#10;			<td>&#10;			<p>Age, Eon, Fade, Hour, Isolation</p>&#10;			</td>&#10;			<td>&#10;			<p>Depletion, Hourglass</p>&#10;			</td>&#10;		</tr><tr><td>&#10;			<p> </p>&#10;&#10;			<p><img alt="" src="https://media.wizards.com/2018/images/daily/gold.png"></p>&#10;&#10;			<p> </p>&#10;			</td>&#10;			<td>&#10;			<p>—</p>&#10;			</td>&#10;			<td>&#10;			<p>Treasure</p>&#10;			</td>&#10;			<td>&#10;			<p>Bribery, Gold</p>&#10;			</td>&#10;		</tr><tr><td>&#10;			<p> </p>&#10;&#10;			<p><img alt="" src="https://media.wizards.com/2018/images/daily/vortex.png"></p>&#10;&#10;			<p> </p>&#10;			</td>&#10;			<td>&#10;			<p>—</p>&#10;			</td>&#10;			<td>&#10;			<p>Feather, Vortex</p>&#10;			</td>&#10;			<td>&#10;			<p>Velocity, Wind</p>&#10;			</td>&#10;		</tr></tbody></table>

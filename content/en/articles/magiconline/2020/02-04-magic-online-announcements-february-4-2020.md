@@ -1,0 +1,146 @@
+---
+id: qmvp7h1n
+kind: article
+lang: en
+path: /en/articles/magiconline/2020/02-04-magic-online-announcements-february-4-2020
+title: Magic Online Announcements, February 4, 2020
+published: '2020-02-04'
+column_slug: magiconline
+column: Magic Online
+authors:
+- slug: wizardsofthecoast
+  name: Wizards of the Coast
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/magic-online/magic-online-announcements-february-4-2020
+    lang_detected: en
+    capture_id: 790045
+    url: https://magic.wizards.com/en/articles/archive/magic-online/magic-online-announcements-february-4-2020
+    captured_at: '2022-05-22 05:53:25+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/magic-online/magic-online-announcements-february-4-2020
+    lang_detected: en
+    capture_id: 790045
+    url: https://magic.wizards.com/en/articles/archive/magic-online/magic-online-announcements-february-4-2020
+    captured_at: '2022-05-22 05:53:25+00'
+    rule: drupal.posted_in_date
+  authors:
+    page_key: magic.wizards.com/en/articles/archive/magic-online/magic-online-announcements-february-4-2020
+    lang_detected: en
+    capture_id: 790045
+    url: https://magic.wizards.com/en/articles/archive/magic-online/magic-online-announcements-february-4-2020
+    captured_at: '2022-05-22 05:53:25+00'
+    rule: drupal.div_author
+  column:
+    page_key: magic.wizards.com/en/articles/archive/magic-online/magic-online-announcements-february-4-2020
+    lang_detected: en
+    capture_id: 790045
+    url: https://magic.wizards.com/en/articles/archive/magic-online/magic-online-announcements-february-4-2020
+    captured_at: '2022-05-22 05:53:25+00'
+    rule: url.article_section
+    registry_match: registry.separator_and_case
+sources:
+- document_id: qmvp7h1n
+  url: https://magic.wizards.com/en/articles/archive/magic-online/magic-online-announcements-february-4-2020
+  page_key: magic.wizards.com/en/articles/archive/magic-online/magic-online-announcements-february-4-2020
+  lang: en
+  template: drupal
+  captured_at: '2022-05-22 05:53:25+00'
+  capture_id: 790045
+  wayback_url: https://web.archive.org/web/20220522055325id_/https://magic.wizards.com/en/articles/archive/magic-online/magic-online-announcements-february-4-2020
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: qmvp7h1n
+  capture_id: 790045
+  url: https://magic.wizards.com/en/articles/archive/magic-online/magic-online-announcements-february-4-2020
+  wayback_url: https://web.archive.org/web/20220522055325id_/https://magic.wizards.com/en/articles/archive/magic-online/magic-online-announcements-february-4-2020
+  captured_at: '2022-05-22 05:53:25+00'
+  template: drupal
+  sha256: 03695602a0e4ff3c0281892022f10141d48aa89edd32d4f8551c97dc3bfc2a9e
+render_recovery: []
+---
+***Magic Online*** **Announcements, February 4, 2020**
+
+**What Is the *Magic Online* Weekly Announcements Blog?**
+
+Every Tuesday, we round up all the biggest *Magic Online* news for the Weekly Announcements Blog.
+
+Check in weekly for the latest updates!
+
+* * *
+
+# Quick Links
+
+[CHAOS DRAFT! February 5](#chaos)
+
+[Limited PTQ Saturday](#sat)
+
+[Standard PTQ Sunday](#sun)
+
+[*Magic Online* Format Challenges Every Weekend](#fcs)
+
+[Downtime February 26](#down)
+
+[Build Notes](#notes)
+
+* * *
+
+## CHAOS DRAFT! February 5
+
+Flex your deck-building skills during this week's CHAOS DRAFT!, a format that requires players to contemplate meta-archetypes over the curated archetypes typically found in a cube. CHAOS DRAFT! starts tomorrow, February 5, and runs for two whole weeks—plenty of time to smash face amidst the [Pandemonium](https://web.archive.org/web/20200204000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pandemonium).
+
+Sets that can be opened in this CHAOS DRAFT! include:
+
+*Visions*, *Weatherlight*, *Stronghold*, *Exodus*, *Urza's Legacy*, *Urza's Destiny*, *Planeshift*, *Apocalypse*, *Torment*, *Judgment*, *Legions*, *Scourge*, *Darksteel*, *Fifth Dawn*, *Betrayers of Kamigawa*, *Saviors of Kamigawa*, *Guildpact*, *Dissension*, *Coldsnap*, *Planar Chaos*, *Future Sight*, *Morningtide*, *Eventide*, *Conflux*, *Alara Reborn*, *Worldwake*, *Mirrodin Besieged*, *New Phyrexia*, *Dark Ascension*, *Dragon's Maze*, *Born of the Gods*, *Journey Into Nyx*, *Fate Reforged*, *Oath of the Gatewatch*, *Eldritch* *Moon*, *Aether Revolt*, *Hour of Devastation*, and *Rivals of Ixalan*
+
+* * *
+
+## Limited PTQ Saturday
+
+On Saturday, February 8, there will be a Limited PTQ at 7 a.m. PT! The set will be *Theros Beyond Death*, and the event will cost 1 Red Limited PTQ Token. You can also join with 40 [MOCS Qualifier Points](/en/articles/uncategorised/undated/mtgo-premier-play-2020). The winner qualifies for their choice of events in Series 2 of the [2020 Players Tour](https://magic.gg/players-tour) in May.
+
+Learn more about Players Tour Qualifier events [here](/en/articles/uncategorised/undated/mtgo-premier-play-2020#ptq).
+
+* * *
+
+## Standard PTQ Sunday
+
+On Sunday, February 9, there will be a Standard PTQ at 9 a.m. PT! The entry fee is 1 Red PTQ Finals Token or 40 [MOCS Qualifier Points](/en/articles/uncategorised/undated/mtgo-premier-play-2020). The winner qualifies for their choice of events in Series 2 of the [2020 Players Tour](https://magic.gg/players-tour) in May.
+
+Learn more about Players Tour Qualifier events [here](/en/articles/uncategorised/undated/mtgo-premier-play-2020#ptq).
+
+* * *
+
+## *Magic Online* Format Challenges Every Weekend
+
+Format Challenges are the first step toward qualifying for Premier Play through your favorite *Magic* formats. To learn more about Premier Play qualification, click [here](/en/articles/uncategorised/undated/mtgo-premier-play-2020).
+
+The *Magic Online* Format Challenges continue every weekend for Standard, Pioneer, Modern, Vintage, Legacy, and Pauper formats except when replaced by Showcase Challenges during scheduled Showcase Challenge dates. *NOTE: The Vintage Challenge happens every weekend regardless of scheduled Showcase Challenges.*
+
+**Pacific Time (-8 from UTC)**
+
+<table><thead><tr><th>Start Time</th>&#10;			<th>Event Type</th>&#10;		</tr></thead><tbody><tr><td>&#10;			<p>Saturday, 6 a.m.</p>&#10;			</td>&#10;			<td>&#10;			<p><a href="https://web.archive.org/web/20200204000000/https://magic.wizards.com/en/content/standard-formats-magic-gathering">Standard Challenge</a></p>&#10;			</td>&#10;		</tr><tr><td>&#10;			<p>Saturday, 8 a.m.</p>&#10;			</td>&#10;			<td>&#10;			<p><a href="https://web.archive.org/web/20200204000000/http://magic.wizards.com/en/game-info/gameplay/formats/modern">Modern Challenge</a></p>&#10;			</td>&#10;		</tr><tr><td>&#10;			<p>Saturday, 10 a.m.</p>&#10;			</td>&#10;			<td>&#10;			<p><a href="https://web.archive.org/web/20200204000000/http://magic.wizards.com/en/game-info/gameplay/formats/vintage">Vintage Challenge</a></p>&#10;			</td>&#10;		</tr><tr><td>&#10;			<p>Sunday, 6 a.m.</p>&#10;			</td>&#10;			<td>&#10;			<p><a href="https://web.archive.org/web/20200204000000/https://magic.wizards.com/en/game-info/gameplay/formats/pioneer">Pioneer Challenge</a></p>&#10;			</td>&#10;		</tr><tr><td>&#10;			<p>Sunday, 8 a.m.</p>&#10;			</td>&#10;			<td>&#10;			<p><a href="https://web.archive.org/web/20200204000000/http://magic.wizards.com/en/game-info/gameplay/formats/legacy">Legacy Challenge</a></p>&#10;			</td>&#10;		</tr><tr><td>&#10;			<p>Sunday, 10 a.m.</p>&#10;			</td>&#10;			<td>&#10;			<p><a href="https://web.archive.org/web/20200204000000/http://magic.wizards.com/en/game-info/gameplay/formats/pauper">Pauper Challenge</a></p>&#10;			</td>&#10;		</tr></tbody></table>
+
+Check out [this page](https://web.archive.org/web/20200204000000/http://magic.wizards.com/en/content/magic-online-format-challenges) for further event details.
+
+* * *
+
+## Downtime February 26
+
+The next downtime will be on February 26, beginning at 3 a.m. and continuing until noon. All times listed are Pacific time (UTC-8).
+
+* * *
+
+## Build Notes
+
+Collection | *Throne of Eldraine* prestige avatars are being distributed on February 5.
+
+Duel Scene | [Fires of Invention](https://web.archive.org/web/20200204000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Fires+of+Invention) will no longer slow the Duel Scene down in most cases.
+
+Duel Scene | Yielding to a copy of [Bronzehide Lion](https://web.archive.org/web/20200204000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bronzehide+Lion) will no longer cause a game server crash.
+
+Duel Scene | Returning a split card to your hand with [Seasons Past](https://web.archive.org/web/20200204000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Seasons+Past) will no longer cause a game server crash.
+
+Account | Password requirements are now displayed during the password reset process.

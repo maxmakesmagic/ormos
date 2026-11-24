@@ -1,0 +1,57 @@
+---
+id: ferx13wa
+kind: event
+lang: en
+path: /en/events/2014/gpsto14/round-14-results
+title: ROUND 14 RESULTS
+published: '2014-10-26'
+column_slug: null
+column: null
+authors: []
+event_code: gpsto14
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/events/coverage/gpsto14/round-14-results-2014-10-26
+    lang_detected: en
+    capture_id: 1400637
+    url: https://magic.wizards.com/en/events/coverage/gpsto14/round-14-results-2014-10-26
+    captured_at: '2022-08-15 07:49:57+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/events/coverage/gpsto14/round-14-results-2014-10-26
+    lang_detected: en
+    capture_id: 1400637
+    url: https://magic.wizards.com/en/events/coverage/gpsto14/round-14-results-2014-10-26
+    captured_at: '2022-08-15 07:49:57+00'
+    rule: drupal.posted_in_date
+  event_code:
+    page_key: magic.wizards.com/en/events/coverage/gpsto14/round-14-results-2014-10-26
+    lang_detected: en
+    capture_id: 1400637
+    url: https://magic.wizards.com/en/events/coverage/gpsto14/round-14-results-2014-10-26
+    captured_at: '2022-08-15 07:49:57+00'
+    rule: url.event_code
+sources:
+- document_id: ferx13wa
+  url: https://magic.wizards.com/en/events/coverage/gpsto14/round-14-results-2014-10-26
+  page_key: magic.wizards.com/en/events/coverage/gpsto14/round-14-results-2014-10-26
+  lang: en
+  template: drupal
+  captured_at: '2022-08-15 07:49:57+00'
+  capture_id: 1400637
+  wayback_url: https://web.archive.org/web/20220815074957id_/https://magic.wizards.com/en/events/coverage/gpsto14/round-14-results-2014-10-26
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: ferx13wa
+  capture_id: 1400637
+  url: https://magic.wizards.com/en/events/coverage/gpsto14/round-14-results-2014-10-26
+  wayback_url: https://web.archive.org/web/20220815074957id_/https://magic.wizards.com/en/events/coverage/gpsto14/round-14-results-2014-10-26
+  captured_at: '2022-08-15 07:49:57+00'
+  template: drupal
+  sha256: 6889655d3643db960136c40e2a9ba6dfe40ee842f1b3f0ae7ca1c761175c1f07
+render_recovery: []
+---
+*   [Complete coverage of Grand Prix Stockholm](/en/articles/event-coverage/undated/grand-prix-stockholm-2014-coverage-events)
+
+<table><tbody><tr><td><b>Table</b></td>&#10;			<td><b>Player</b></td>&#10;			<td><b>Result</b></td>&#10;			<td></td>&#10;			<td><b>Opponent</b></td>&#10;		</tr><tr><td>1</td>&#10;			<td>Rodrigues, Thiago [FRA]</td>&#10;			<td>Drew 0-0-3</td>&#10;			<td>vs.</td>&#10;			<td>Blohon, Lukas [CZE]</td>&#10;		</tr><tr><td>2</td>&#10;			<td>Seibold, Christian [DEU]</td>&#10;			<td>Lost 0-2</td>&#10;			<td>vs.</td>&#10;			<td>Cirigliano, Matteo [ITA]</td>&#10;		</tr><tr><td>3</td>&#10;			<td>Eikenes, Lasse [NOR]</td>&#10;			<td>Won 2-0</td>&#10;			<td>vs.</td>&#10;			<td>Äärelä, Tommi [FIN]</td>&#10;		</tr><tr><td>4</td>&#10;			<td>Luff, Andre [DEU]</td>&#10;			<td>Lost 1-2</td>&#10;			<td>vs.</td>&#10;			<td>Oberg, Kenny [SWE]</td>&#10;		</tr><tr><td>5</td>&#10;			<td>Sjöblom, Max [FIN]</td>&#10;			<td>Lost 1-2</td>&#10;			<td>vs.</td>&#10;			<td>Zatlkaj, Matej [SVK]</td>&#10;		</tr><tr><td>6</td>&#10;			<td>Baldvinsson, Einar Agu [ISL]</td>&#10;			<td>Won 2-0</td>&#10;			<td>vs.</td>&#10;			<td>Mcmartin, Robert [USA]</td>&#10;		</tr><tr><td>7</td>&#10;			<td>Tomelitsch, Patrick [AUT]</td>&#10;			<td>Lost 1-2</td>&#10;			<td>vs.</td>&#10;			<td>Rosi, Giovanni [ITA]</td>&#10;		</tr><tr><td>8</td>&#10;			<td>Pasgaard, Alexander [DNK]</td>&#10;			<td>Won 2-0</td>&#10;			<td>vs.</td>&#10;			<td>Sköld, Oskar [SWE]</td>&#10;		</tr><tr><td>9</td>&#10;			<td>Andersson, Gordon [SWE]</td>&#10;			<td>Won 2-1</td>&#10;			<td>vs.</td>&#10;			<td>Larsen, Christoffer E [DNK]</td>&#10;		</tr><tr><td>10</td>&#10;			<td>Lindström, Martin [SWE]</td>&#10;			<td>Won 2-1</td>&#10;			<td>vs.</td>&#10;			<td>Krzysztalowicz, Dawid [POL]</td>&#10;		</tr><tr><td>11</td>&#10;			<td>Gudjenson, Omar [SWE]</td>&#10;			<td>Won 2-1</td>&#10;			<td>vs.</td>&#10;			<td>Volakis, George [GRC]</td>&#10;		</tr><tr><td>12</td>&#10;			<td>Fyssas, Antonis [GRC]</td>&#10;			<td>Lost 0-2</td>&#10;			<td>vs.</td>&#10;			<td>Knocinski, Przemyslaw [POL]</td>&#10;		</tr><tr><td>13</td>&#10;			<td>Krautmann, Wenzel [DEU]</td>&#10;			<td>Won 2-0</td>&#10;			<td>vs.</td>&#10;			<td>Palmason, Heimir [ISL]</td>&#10;		</tr><tr><td>14</td>&#10;			<td>Forslund, Fredrik [SWE]</td>&#10;			<td>Won 2-0</td>&#10;			<td>vs.</td>&#10;			<td>Severin, Thoralf [DEU]</td>&#10;		</tr><tr><td>15</td>&#10;			<td>Juza, Martin [CZE]</td>&#10;			<td>Won 2-0</td>&#10;			<td>vs.</td>&#10;			<td>Bietighoefer, Jerome [SWE]</td>&#10;		</tr><tr><td>16</td>&#10;			<td>Rachid, Denniz [SWE]</td>&#10;			<td>Won 2-0</td>&#10;			<td>vs.</td>&#10;			<td>Karström, Kristoffer K [SWE]</td>&#10;		</tr><tr><td>17</td>&#10;			<td>Lindroos, Jani [FIN]</td>&#10;			<td>Lost 1-2</td>&#10;			<td>vs.</td>&#10;			<td>Lukes, Bretislav [CZE]</td>&#10;		</tr><tr><td>18</td>&#10;			<td>Tyndeskov, Nicholas [DNK]</td>&#10;			<td>Lost 0-2</td>&#10;			<td>vs.</td>&#10;			<td>Rasmussen, Mikkel [SWE]</td>&#10;		</tr><tr><td>19</td>&#10;			<td>Dagen, Pierre [FRA]</td>&#10;			<td>Won 2-1</td>&#10;			<td>vs.</td>&#10;			<td>Rabie, Mikaël [FRA]</td>&#10;		</tr><tr><td>20</td>&#10;			<td>Grindborg, Björn [SWE]</td>&#10;			<td>Lost 0-2</td>&#10;			<td>vs.</td>&#10;			<td>Utzon, Mads [DNK]</td>&#10;		</tr><tr><td>21</td>&#10;			<td>Hofmann, Mike [DEU]</td>&#10;			<td>Lost 1-2</td>&#10;			<td>vs.</td>&#10;			<td>Londos, Ludvig [SWE]</td>&#10;		</tr><tr><td>22</td>&#10;			<td>Kirchler, Mattia [AUT]</td>&#10;			<td>Won 2-1</td>&#10;			<td>vs.</td>&#10;			<td>Larsson, David [SWE]</td>&#10;		</tr><tr><td>23</td>&#10;			<td>Briceno, Paul [FRA]</td>&#10;			<td>Lost 0-2</td>&#10;			<td>vs.</td>&#10;			<td>Salomonsson, Egil [SWE]</td>&#10;		</tr><tr><td>24</td>&#10;			<td>Strasky, Ondrej [CZE]</td>&#10;			<td>Won 2-1</td>&#10;			<td>vs.</td>&#10;			<td>Koch, Florian [DEU]</td>&#10;		</tr><tr><td>25</td>&#10;			<td>Pettersson, Thomas [SWE]</td>&#10;			<td>Won 2-1</td>&#10;			<td>vs.</td>&#10;			<td>Näslund, Jonas [NOR]</td>&#10;		</tr><tr><td>26</td>&#10;			<td>Hamann, Andreas [DEU]</td>&#10;			<td>Won 2-0</td>&#10;			<td>vs.</td>&#10;			<td>Karlsson, Rickard A [SWE]</td>&#10;		</tr><tr><td>27</td>&#10;			<td>Gilligan, Daniel [IRL]</td>&#10;			<td>Won 2-1</td>&#10;			<td>vs.</td>&#10;			<td>Janda, Kristián [CZE]</td>&#10;		</tr><tr><td>28</td>&#10;			<td>Cohen, Amit [ISR]</td>&#10;			<td>Lost 1-2</td>&#10;			<td>vs.</td>&#10;			<td>Landgraf, Svante [SWE]</td>&#10;		</tr><tr><td>29</td>&#10;			<td>Heiß, Marvin [DEU]</td>&#10;			<td>Won 2-1</td>&#10;			<td>vs.</td>&#10;			<td>Dardaillon, Roman [FIN]</td>&#10;		</tr><tr><td>30</td>&#10;			<td>Valkamaa, Sami [FIN]</td>&#10;			<td>Lost 1-2</td>&#10;			<td>vs.</td>&#10;			<td>Kjellström, Gustav [SWE]</td>&#10;		</tr><tr><td>31</td>&#10;			<td>Schwarz, Sascha [DEU]</td>&#10;			<td>Won 2-1</td>&#10;			<td>vs.</td>&#10;			<td>Wild, Jimmy [ENG]</td>&#10;		</tr><tr><td>32</td>&#10;			<td>Imbesi, Salvatore [ITA]</td>&#10;			<td>Lost 0-2</td>&#10;			<td>vs.</td>&#10;			<td>Tzirinis, Panagiotis [GRC]</td>&#10;		</tr><tr><td>33</td>&#10;			<td>Müller, Martin [DNK]</td>&#10;			<td>Lost 0-2</td>&#10;			<td>vs.</td>&#10;			<td>Van Der Vegt, Jan [NLD]</td>&#10;		</tr><tr><td>34</td>&#10;			<td>Andrieu, Thibault [FRA]</td>&#10;			<td>Won 2-0</td>&#10;			<td>vs.</td>&#10;			<td>Rauma, Tony [FIN]</td>&#10;		</tr><tr><td>35</td>&#10;			<td>Tsorbatzidis, Vasilis [GRC]</td>&#10;			<td>Won 2-0</td>&#10;			<td>vs.</td>&#10;			<td>Tchernomazov, Ilja [DEU]</td>&#10;		</tr><tr><td>36</td>&#10;			<td>Patel, Kayure [ENG]</td>&#10;			<td>Won 2-0</td>&#10;			<td>vs.</td>&#10;			<td>Lihoreau, Ibai [FRA]</td>&#10;		</tr><tr><td>37</td>&#10;			<td>Korpela, Jussi [FIN]</td>&#10;			<td>Won 2-0</td>&#10;			<td>vs.</td>&#10;			<td>Põldsam, Ismo [EST]</td>&#10;		</tr><tr><td>38</td>&#10;			<td>Alkio, Anssi [FIN]</td>&#10;			<td>Lost 1-2</td>&#10;			<td>vs.</td>&#10;			<td>Saarinen, Olli [FIN]</td>&#10;		</tr><tr><td>39</td>&#10;			<td>Horosiewicz, Lukas [SWE]</td>&#10;			<td>Lost 0-2</td>&#10;			<td>vs.</td>&#10;			<td>Kowalski, Grzegorz [POL]</td>&#10;		</tr><tr><td>40</td>&#10;			<td>Fokker, Maurits [NLD]</td>&#10;			<td>Won 2-1</td>&#10;			<td>vs.</td>&#10;			<td>Kaukoranta, Ville [FIN]</td>&#10;		</tr><tr><td>41</td>&#10;			<td>Sundberg, Erik [SWE]</td>&#10;			<td>Won 2-1</td>&#10;			<td>vs.</td>&#10;			<td>Soumet, Arnaud [FRA]</td>&#10;		</tr><tr><td>42</td>&#10;			<td>Gustafson, Lasse [DNK]</td>&#10;			<td>Won 2-0</td>&#10;			<td>vs.</td>&#10;			<td>Schuringa, Sebastiaan [NLD]</td>&#10;		</tr><tr><td>43</td>&#10;			<td>Bausch, Joshua [DEU]</td>&#10;			<td>Lost 1-2</td>&#10;			<td>vs.</td>&#10;			<td>Perttula, Eetu [FIN]</td>&#10;		</tr><tr><td>44</td>&#10;			<td>Renner, Mark [AUT]</td>&#10;			<td>Lost 0-2</td>&#10;			<td>vs.</td>&#10;			<td>Klein, Fabian [DEU]</td>&#10;		</tr><tr><td>45</td>&#10;			<td>Larsson, Anders [SWE]</td>&#10;			<td>Lost 1-2</td>&#10;			<td>vs.</td>&#10;			<td>Lindholm, Christofer [SWE]</td>&#10;		</tr><tr><td>46</td>&#10;			<td>Magnusson, Mikael [SWE]</td>&#10;			<td>Won 2-0</td>&#10;			<td>vs.</td>&#10;			<td>Nocci, Federico [ITA]</td>&#10;		</tr><tr><td>47</td>&#10;			<td>Jansson 3340, Simon [SWE]</td>&#10;			<td>Lost 0-2</td>&#10;			<td>vs.</td>&#10;			<td>Neumann, Mats [SWE]</td>&#10;		</tr><tr><td>48</td>&#10;			<td>Bruno, Gerardo [ITA]</td>&#10;			<td>Won 2-0</td>&#10;			<td>vs.</td>&#10;			<td>Lundkvist, Martin [SWE]</td>&#10;		</tr><tr><td>49</td>&#10;			<td>Andersen, Rasmus [DNK]</td>&#10;			<td>Lost 0-2</td>&#10;			<td>vs.</td>&#10;			<td>Chiche, Kevin [FRA]</td>&#10;		</tr><tr><td>50</td>&#10;			<td>Semkin, Alexander [RUS]</td>&#10;			<td>Won 2-1</td>&#10;			<td>vs.</td>&#10;			<td>Berg, Niclas [SWE]</td>&#10;		</tr><tr><td>51</td>&#10;			<td>Olofsson, Tobias [SWE]</td>&#10;			<td>Won 2-0</td>&#10;			<td>vs.</td>&#10;			<td>Nemeghaire, Julien [BEL]</td>&#10;		</tr><tr><td>52</td>&#10;			<td>Svenhard, Robin [SWE]</td>&#10;			<td>Won 2-0</td>&#10;			<td>vs.</td>&#10;			<td>Nilsson, Andreas [DNK]</td>&#10;		</tr><tr><td>53</td>&#10;			<td>Wigstrand, Peter [SWE]</td>&#10;			<td>Won 2-0</td>&#10;			<td>vs.</td>&#10;			<td>Lepeytre, Florent [FRA]</td>&#10;		</tr><tr><td>54</td>&#10;			<td>Calligaro, Laurent [LUX]</td>&#10;			<td>Won 2-1</td>&#10;			<td>vs.</td>&#10;			<td>Ljungdahl, Thomas [SWE]</td>&#10;		</tr><tr><td>55</td>&#10;			<td>Törnros, Mats [SWE]</td>&#10;			<td>Won 2-1</td>&#10;			<td>vs.</td>&#10;			<td>Mueller, Dominic [DEU]</td>&#10;		</tr><tr><td>56</td>&#10;			<td>Markos, Dániel [HUN]</td>&#10;			<td>Won 2-0</td>&#10;			<td>vs.</td>&#10;			<td>Raland, Andreas [SWE]</td>&#10;		</tr><tr><td>57</td>&#10;			<td>Örnberg, Frej [SWE]</td>&#10;			<td>Lost 1-2</td>&#10;			<td>vs.</td>&#10;			<td>Dickmann, Patrick [DEU]</td>&#10;		</tr><tr><td>58</td>&#10;			<td>Seils, Normann [DEU]</td>&#10;			<td>Lost 0-2</td>&#10;			<td>vs.</td>&#10;			<td>Johansson, Elias [SWE]</td>&#10;		</tr><tr><td></td>&#10;			<td>Piroddi, Dario [DEU]</td>&#10;			<td></td>&#10;			<td></td>&#10;			<td>* BYE *</td>&#10;		</tr></tbody></table>

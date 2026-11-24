@@ -1,0 +1,322 @@
+---
+id: h3c3a2zt
+kind: event
+lang: en
+path: /en/events/2009/pthon09/pro-tourhonolulu-blog-day-2
+title: 'Pro Tour–Honolulu Blog: Day 2'
+published: '2009-06-06'
+column_slug: null
+column: null
+authors: []
+event_code: pthon09
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/pthon09/blog2
+    lang_detected: en
+    capture_id: 532352
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/pthon09/blog2
+    captured_at: '2013-07-02 06:41:42+00'
+    rule: aspx.article_heading
+  published:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/pthon09/blog2
+    lang_detected: en
+    capture_id: 532352
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/pthon09/blog2
+    captured_at: '2013-07-02 06:41:42+00'
+    rule: aspx.byline_date
+  event_code:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/pthon09/blog2
+    lang_detected: en
+    capture_id: 532352
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/pthon09/blog2
+    captured_at: '2013-07-02 06:41:42+00'
+    rule: url.event_code
+sources:
+- document_id: h3c3a2zt
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/pthon09/blog2
+  page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/pthon09/blog2
+  lang: en
+  template: aspx
+  captured_at: '2013-07-02 06:41:42+00'
+  capture_id: 532352
+  wayback_url: https://web.archive.org/web/20130702064142id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/pthon09/blog2
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: h3c3a2zt
+  capture_id: 532352
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/pthon09/blog2
+  wayback_url: https://web.archive.org/web/20130702064142id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/pthon09/blog2
+  captured_at: '2013-07-02 06:41:42+00'
+  template: aspx
+  sha256: 1b1ea4ca74dc43f52f966f170f6291e7c58cf2dcfe0903c23c1090ace4491da3
+render_recovery:
+- code: unsupported_link
+  element: a
+  target: javascript:void()
+  reason: The link uses a JavaScript placeholder. The preview kept any visible label.
+  labels:
+  - Cruel Ultimatum
+  - Esper Stormblade
+  - Armillary Sphere
+  - Spellbound Dragon
+  - Cumber Stone
+  - Fusion Elemental
+  - Jund Charm
+  - Igneous Pouncer
+  - Gleam of Resistance
+  - Esperzoa
+  - Tidehollow Sculler
+  - Ethersworn Canonist
+  - Bituminous Blast
+  - Bloodbraid Elf
+  - Broodmate Dragon
+  - Terminate
+  - Maelstrom Pulse
+  - Putrid Leech
+  - Sprouting Thrinax
+  - Enlisted Wurm
+  - Agony Warp
+  - Vedalken Outlander
+  - Sphinx of the Steel Wind
+  - Martial Coup
+  - Tezzeret the Seeker
+  - Ranger of Eos
+  - Wild Nacatl
+  - Elspeth, Knight-Errant
+  - Ajani Vengeant
+  - Sarkhan Vol
+  - Ancient Ziggurat
+  - Crumbling Necropolis
+  - Exotic Orchard
+  - Forest
+  - Mountain
+  - Rupture Spire
+  - Savage Lands
+  - Swamp
+  - Fleshbag Marauder
+  - Madrush Cyclops
+  - Sedraxis Specter
+  - Blightning
+  - Anathemancer
+  - Infest
+  - Realm Razer
+  - Thought Hemorrhage
+  - Vithian Renegades
+  occurrences: 68
+---
+Welcome to [Pro Tour–Honolulu](/en/events/2009/pthon09/mitamura-finds-gold-in-paradise)! The crack reporting squad of Bill Stark, Rich Hagon, Tim Willoughby, Tom LaPille, and Craig Gibson are combing the halls of the Hawaii Convention Center for all the inside information.
+
+  
+  
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <b>TABLE OF CONTENTS</b>&#10;    </td>&#10;  </tr>&#10;</tbody></table>
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <ul>&#10;        <li>&#10;          <a href="#8">6:08 p.m.</a> – Standard Diversity<div><i>by Bill Stark</i></div></li>&#10;        <li>&#10;          <a href="#7">5:26 p.m.</a> – Jonathan Loucks<div><i>by Tom LaPille</i></div></li>&#10;        <li>&#10;          <a href="#6">4:29 p.m.</a> – Top Five Tables in Round 14<div><i>by Tom LaPille</i></div></li>&#10;        <li>&#10;          <a href="#5">3:10 p.m.</a> – Under the Radar<div><i>by Rich Hagon</i></div></li>&#10;        <li>&#10;          <a href="#4">2:56 p.m.</a> – Lost, Season 3<div><i>by Rich Hagon</i></div></li>&#10;        <li>&#10;          <a href="#3">2:24 p.m.</a> – A Look at the Player of the Year Race<div><i>by Bill Stark</i></div></li>&#10;        <li>&#10;          <a href="#2">2:02 p.m.</a> – Affinity for Alara<div><i>by Tim Willoughby</i></div></li>&#10;        <li>&#10;          <a href="#1">9:56 a.m.</a> – Lost, Season Two <div><i>by Rich Hagon</i></div></li>&#10;        <li>&#10;          <a href="/en/events/2009/pthon09/pro-tourhonolulu-blog-day-1">Day 1 Blog</a> - Catch up on yesterday's blog entries!<div><i>by Event Coverage Staff</i></div></li>&#10;      </ul>&#10;    </td>&#10;  </tr>&#10;</tbody></table>
+
+  
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <b>BLOG</b>&#10;    </td>&#10;  </tr>&#10;</tbody></table>
+
+ 
+*   **Saturday, June 6, 9:56 a.m. – Lost, Season Two**
+
+    *by Rich Hagon*
+
+![](https://i.ormos.uk/81/f7/81f7a56d8b76a2c45effef60452baa79ebd0cb8935382e87fb64e81a5391fab0.jpg) 
+
+*Previously on Lost...* 
+
+396 players made it to the island. Of those, 143 remain for a second season of three rounds of *Shards of Alara* / *Conflux* / *Alara Reborn* Draft and five rounds of Block Constructed action. Meanwhile, the 253 Others will have to make plans back in the real world. So what plotlines can we expect to find in Season Two?
+
+Heading the pack are the man with an American past and a Malaysian present, Zac Hill, and The Man In The White Suit, Brian Kibler. Hill’s path through Block Constructed was relatively untroubled, with Christophe Gregoir the only big name in his way. In Draft, however, he had to overcome the twin Japanese threat of Makahito Mihara and Osamu Fujita, using his super-aggressive green-white deck to ace his pod. Kibler’s Limited clean sweep saw him vanquish Europeans Christoph Huber and Sebastian Thaler and fellow American Matt Hansen. 
+
+Hansen, Thaler, Kazuya Mitamura, and Rasmus Sibast headline a group of eleven players with just one Loss, a group that includes Taufik Indrakesuma, the lone Indonesian in the field, and representing his country with honor at the halfway mark.
+
+At 6-2, 40 players will believe that a similar record will see them right on the brink of coming back for Sunday. A strong Japanese group are highlighted by Osamu Fujita, Makahito Mihara, Koutarou Ootsuka, and Jun’ya Iyanaga. For the Europeans, Hall of Famer Raphael Levy is joined by perennially consistent Robert van Medevoort, Austrian Helmut Summersberger, and Martin Juza from the Czech Republic, plus beach house Belgian Jan Doise. 
+
+Then comes a home team stacked with talent. Brad Nelson continues to trade online for success for paper **Magic** victories. Paul Rietzl is one of the highest ranked players in the world. David Irvine has been a consistent Pro in recent years, and Osyp Lebedowicz has a Pro Tour victory to his name. Then—of course—there’s Luis Scott-Vargas, The Man Who Does Not Lose.
+
+As for the rest, there’s no room left for error. Sitting on the minimum five wins required to come back for Season Two are Paul Cheon, Tomaharu Saito, The Tezzerator Kenny Öberg, Pro Tour–Kyoto winner Gabriel Nassif, Geneva PT winner Mike Hron, former Player of the Year Shouta Yasooka, San Diego title-winner Chris Lachmann, The Innovator Patrick Chapin, Hall of Famer Jelger Wiegersma, the reigning World Champion Antti Malin, plus more than 60 others who must fight tooth and nail all the way if they are to see Sunday action.
+
+The Man Who Does Not Lose.  
+ The Hat.  
+ The Innovator.  
+ The Man In The White Suit.  
+ The First Timers.
+
+Who will make it?
+
+World Champions, Team World Champions, Individual Pro Tour winners, Grand Prix winners, Hall of Famers, Invitational winners .... Make no mistake, the team at **magicthegathering.com** have assembled an exciting cast of characters ready to go head to head on your screens. Appointment to view like no other .... It’s the Pro Tour, Day Two!
+
+ 
+*   **Saturday, June 6, 2:02 p.m. – Affinity for Alara**
+
+    *by Tim Willoughby*
+
+<table>&#10;    <tbody><tr>&#10;      <td>&#10;        <div>&#10;          <img src="https://i.ormos.uk/3e/0c/3e0cc4951f99608a32b8ca57c2bc2556d696b9d1451deb00ad5078ae7d31d74b.jpg">&#10;        </div>&#10;        <div>&#10;          <i>The PT competitors draft on Saturday morning.</i>&#10;        </div>&#10;      </td>&#10;    </tr>&#10;  </tbody></table>
+
+Watching the top tables here at Pro Tour–Honolulu, I noticed an amusing trend among some of the Pro players in the competition. Due perhaps to particular opinions formed from playing a lot of Constructed, or perhaps just to dumb luck, there seemed to be a surprising amount of players whose Draft decks looked suspiciously like their Block Constructed choices.
+
+Luis Scott-Vargas, in his first draft, opened a Cruel Ultimatum. At this point it was hard for him not to see his way clear to playing the powerful finisher. With plenty of experience casting the seven-mana sorcery, Luis proudly declared at the end of the draft that Cruel Ultimatum had been instrumental in every game win he’d had across the whole of Day One.
+
+Meanwhile, Brian Kibler went undefeated on Day One thanks in large part to Esper Stormblade and his kin. While in the Day 2 draft Kibler was in a different shard, he was still rocking the same essential strategy: getting stuck in there with quick beats in the air. Moving away from Esper didn’t help his win percentage, but when you are trying to keep up an unbeaten record against the best in the world, things can be tough.
+
+Finally we have Zac Hill and Patrick Chapin. These two were both playing Patrick’s Five-Colour Control build in the Constructed portion of the event, and found themselves going in a similar direction for the Saturday draft. Each found himself with a very solid deck, with Zac using a pair of copies of Armillary Sphere to fix his mana for such hits as Spellbound Dragon and a pair of Cumber Stones, while Patrick went utterly crazy with a pair of Fusion Elementals and a Wall of Reverance. In total over the three matches he played, Patrick had gained over 200 life with this little Wall, and was very happy to be still in the race for Top 8 moving back over to Constructed. When asked if Five-Colour was just the rule for *Shards of Alara* block, he laughed.
+
+“Better players than me don’t need to do clever things with all five colours to win. I just do what I’ve got to do to get there.”
+
+ 
+*   **Saturday, June 6, 2:24 p.m. – A Look at the Player of the Year Race**
+
+    *by Bill Stark*
+
+<table>&#10;    <tbody><tr>&#10;      <td>&#10;        <div>&#10;          <img src="https://i.ormos.uk/5a/53/5a538bc17202e92e816693106d9f3d2ab477d3835fc2af68ca4067750fe9178b.jpg">&#10;        </div>&#10;        <div>&#10;          <i>Player of the Year front-runner Luis Scott-Vargas watches a Magic Online tournament between matches.</i>&#10;        </div>&#10;      </td>&#10;    </tr>&#10;  </tbody></table>
+
+At nearly the exact midway point in the 2009 Pro Tour season, the coverage team is bringing you a quick check on the Player and Rookie of the Year races. Headed in to the weekend, Shuhei Nakamura, Tomoharo Saito, Luis Scott-Vargas, and Gabriel Nassif were the big names everyone was watching, and the top four frontrunners in the Player of the Year race. All four made the cut to the second day of competition here in Honolulu.
+
+As we end the draft portion of the Pro Tour’s Swiss rounds, here’s how things shook out. Luis leads the Player of the Year pack in 22nd place with 24 points in the Swiss. Nipping at his heels is Nassif with the same number of points (24) but in 28th place overall thanks to slightly worse tiebreakers. Meanwhile Shuhei and Saito are just one match win behind the two in 58th and 66th place respectively on 21 Swiss points. If the race ended right now, the top four Player of the Year contenders would finish in exactly the same position as they were in coming into the weekend!
+
+The Rookie of the Year race has also started heating up at Pro Tour–Honolulu. Ari Lax made a Top 8 at Grand Prix–Seattle last weekend, netting him a handful of points and pushing him closer to the lead. He remained in second behind Brian Robinson and Japan’s Akimasa Yamamoto, who are tied. All three players were qualified for Honolulu, but much to Ari’s chagrin, he found himself the only one that didn’t make the cut to the second day of play. At the end of the second draft, Brian remains ahead of Akimasa, 53rd place to 59th. Both are tied at 21 Swiss points each.
+
+The Pro Player and Rookie of the Year races; just one more element of excitement added to each and every Pro Tour and Grand Prix stop! Find out who will be crowned champion for both at Worlds in Rome later this season.
+
+ 
+*   **Saturday, June 6, 2:56 p.m. – Lost, Season 3**
+
+    *by Rich Hagon*
+
+![](https://i.ormos.uk/81/f7/81f7a56d8b76a2c45effef60452baa79ebd0cb8935382e87fb64e81a5391fab0.jpg) 
+
+Who is Tom Ross? He’s emerged as the leader on the island. He shares his nebulous grasp on authority with two Japanese players, Kazuya Mitamura (a second place finish behind him at Pro Tour–Yokohama, also a Block Constructed PT) and Kentarou Nonaka. Mitamura won his Draft pod this morning playing Jund, despite shipping back-to-back Jund Charms early in the Draft. All three return to Block Constructed with just one defeat to their name, all of them registering perfect 6-0 records in Draft. 
+
+<table>&#10;      <tbody><tr>&#10;        <td>&#10;          <div>&#10;            <img src="https://i.ormos.uk/63/e1/63e10f3410fd2b48934f415f8d0b0354a31f807a79e953941b19cd25ceb36059.jpg">&#10;          </div>&#10;          <div>&#10;            <i>Kentarou Nonaka, Tom Ross, and Kazuya Mitamura have suffered just one defeat each, and are undefeated in Draft—the Top 8 format</i>&#10;          </div>&#10;        </td>&#10;      </tr>&#10;    </tbody></table>
+
+Nine players follow on 9-2, including overnight leaders Brian Kibler and Zac Hill, both of whom will be glad to get back to Block, where they are currently unblemished. A stack of Americans sit on this mark—Matt Hansen, Brad Nelson, Conley Woods, Paul Rietzl and Donald Kastner—plus European regulars Christophe Gregoir and Rasmus Sibast. Taylor Webb stalks the leaders on 25 points, as does Englishman Mark Glenister. 
+
+Among the 8-3 crowd—and it is a crowd of more than 25 players—sit players with huge reputations they’ve earned across multiple events. Raphael Levy continues to ride high, along with Makahito Mihara, Gaudenis Vidugiris, Kenny Öberg, Patrick Chapin, Jan Doise, Helmut Summersberger, and new Czech talent Lucas Blohon, a man Martin Juza rates very highly. 
+
+Also with three strikes against them are the two leaders in the Player of the Year race. Luis Scott-Vargas has had the air of a man battling uphill all weekend, with the trademark crispness and flawless execution seen in Kyoto seemingly missing. And he’s still at 8-3, having posted a 5-1 record in the Draft. As for Gabriel Nassif, he turned a barely acceptable 2-3 in Block into a 6-0 perfect Draft run, but now he must get out the 60 cards he came in with once more, and hope to turn round at least two of those defeats if he is to make the Top 8. 
+
+As always on Pro Tour Lost, the big cliffhanger remains essentially the same: how many times can you suffer defeat and yet still remain in contention? 43 players sit at 3 losses or fewer coming back into the Constructed rounds. Will anyone with X-4 make it in? X-3-1? X-3? And who will be guaranteed a berth in Super Sunday with rounds to spare, making them a John Lock for the Top 8 Draft in the fabled Arena?
+
+Keep it here, or you don’t know Jack. Or Kate.
+
+ 
+*   **Saturday, June 6, 3:10 p.m. – Under the Radar**
+
+    *by Rich Hagon*
+
+With the best part of 400 players taking part in a typical Pro Tour, and sometimes well over four figures trying their luck and skill on the Grand Prix circuit, you just can’t find the time to tell all the stories. Or even most of them. To be honest, we’re hard pressed to bring you news of the Pro Tour Champions, Hall of Famers and famous faces from the game that litter the standings. Today, I go a small way to putting that right, as we shine the spotlight on a man whose name most of you won’t know, and even fewer of you will be able to spell. Here he is, from Thailand, it’s ...
+
+![](https://i.ormos.uk/95/96/95966fe4ecab62903386bb91c7390b400706d1cb1255a21eab77686b16e10eba.jpg) 
+
+... Veerapat Sirilertvorakul, who at nine syllables still only just ties with Paulo Vitor Damo da Rosa of Brazil. Now you’d never confuse those two, but I wouldn’t want you to confuse this Veerapat with Veerapat Pinyovitayawong, also of Thailand—something I’m sure many of you have done frequently. This feature is not about him. Sorry.
+
+So why focus on Mr. Sirilertvorakul? Is he the statistically improbable number-one ranked player in the world? No. Is he in fact the owner of the world’s largest collection of Igneous Pouncers? No. At least I don’t think so. Is it because he has an epic command of the English language that puts me to shame? No. The phrase “language barrier” exists for just such interviews. V.S. is our subject today because he wins even when he doesn’t win. 
+
+Allow me to explain.
+
+You see, it turns out that you don’t have to be the best of the best all the time in order to play the game and see the world. Veerapat might never win a Pro Tour. Come to that, there’s a reasonable chance he will never attain full-time membership of the Tour. Every so often, though, he puts together results that lead to yet another free holiday. Here are his career highlights:
+
+His first Pro Tour came in 2002, when he came from his home 30 miles outside Bangkok to [Nice in France](/en/articles/event-coverage/2002/05-04-pro-tour-nice-coverage), a mere 11,440 mile round trip. He finished 238th there, missing out on Day Two. Becoming National Champion that year led him to [Worlds in Sydney](/en/articles/event-coverage/2002/08-18-2002-world-championships-coverage). Thailand finished 20th there, with Veerapat coming in exactly 200th, clocking up another 16,220 miles. 
+
+Two years later he was back at [Worlds, this time in San Francisco](/en/events/2004/worlds04/nuijten-nassif-dominate-worlds), courtesy of a 4th place finish in Nationals. 211th in the main event and a spectacular trip to the Golden Gate bridge, 15,820 miles there and back again. A 26th place finish in [Grand Prix–Bangkok ‘07](/en/events/2007/gpban07/morita-bounces-to-victory-in-bangkok) apart, V.S. had a quiet few years, before returning to the global stage last year with a 37th place finish at [Pro Tour–Hollywood](/en/events/2008/pthol08/gindy-puts-name-in-lights), surely one of the most glamorous locations on Earth. Round trip, 16,500 miles.
+
+In 2008 he made the Semifinals of Nationals, but narrowly missed out on a trip to [Memphis for Worlds](/en/events/2008/worlds08/malin-team-usa-crowned-kings-of-magic). Now he finds himself here in Honolulu, and for the second time running he’s made Day Two, 13,160 miles later. 
+
+We bring you as many moments as we can here on the Coverage team, but we all know that what makes **Magic** great is that somewhere in the room, every single round, someone is carving themselves a slice of personal history. Maybe it’s a gargantuan mistake. Maybe it’s their fifth consecutive mulligan. Maybe it’s a killer topdeck, or the first time they’ve beaten a Pro. And Veerapat? We took his photo just as he was about to cast Gleam of Resistance to defeat Russia’s Nicolay Potovin. At the time of writing, the smiling Thai is on course for a Top 50 finish that would guarantee him an invite to continue his globe-trotting adventures at Pro Tour–Austin.
+
+So if you’re thinking that maybe you don’t quite have what it takes to consistently beat Scott-Vargas, Nassif, Nakamura or Saitou, maybe you don’t quite have to. The Pro Tour is an exclusive club to be sure, but as Veerapat Sirilertvorakul proves, the invite can sometimes have your name on it. Get testing!
+
+ 
+*   **Saturday, June 6, 4:29 p.m. – Top Five Tables in Round 14**
+
+    *by Tom LaPille*
+
+We’re now in Round 14 of 16, which is the third of five rounds of *Shards of Alara* Block Constructed here on Day Two. Tomorrow’s Top 8 playoff will use *Shards of Alara* Block Draft, but I checked out the decks being played at tables one through five to get a sense of what the Top 8 players’ Constructed decks might look like. Here are the matchups: 
+
+Table 1: Kazuya Mitamura (Naya-Jund Control) vs. Paul Reitzl (Esper Aggro)  
+  
+ Table 2: Brian Kibler (Esper Aggro) vs. Christophe Gregoir (Jund Control)  
+  
+ Table 3: Tom Ross (Naya Aggro) vs. Jan Doise (Esper Control)  
+  
+ Table 4: Donald Kastner (Five-Color Control) vs. Lucas Blohon (Five-Color Control)  
+  
+ Table 5: Zac Hill (Five-Color Control) vs. Kentaro Nonaka (Jund Control) 
+
+Three of the top ten players brought Five-Color Control decks. Both Donald Kastner and Zac Hill decks benefited from collaboration with Patrick Chapin, who played at table 13 this round. Blohon’s deck was an independent creation. All three of them use the copious mana fixing available in the format to cast the best spells in the format of every color, going all the way up to Cruel Ultimatum. 
+
+ ![Cruel Ultimatum](http://gatherer.wizards.com/Handlers/Image.ashx?size=small&type=card&name=Cruel%20Ultimatum&options=) 
+
+Kibler and Reitzl both brought Esper Aggro decks to the table. They use aggressive creatures like Esper Stormblade and Esperzoa to attack quickly. They also pack Tidehollow Scullers to take their opponents’ best cards away and Ethersworn Canonists to keep opponents from gaining card advantage from cascade spells. 
+
+<table>&#10;    <tbody><tr>&#10;      <td>&#10;        <div>&#10;          <div>&#10;            <a>&#10;              <img alt="Esper Stormblade" src="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&amp;type=card&amp;name=Esper%20Stormblade&amp;options=">&#10;            </a>&#10;          </div>&#10;        </div>&#10;      </td>&#10;      <td>&#10;        <div>&#10;          <div>&#10;            <a>&#10;              <img alt="Ethersworn Canonist" src="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&amp;type=card&amp;name=Ethersworn%20Canonist&amp;options=">&#10;            </a>&#10;          </div>&#10;        </div>&#10;      </td>&#10;    </tr>&#10;  </tbody></table>
+
+Christophe Gregoir and Kentaro Nonaka are playing Jund Control decks similar to the ones that dominated the **Magic Online** Championship Series last weekend. They use Bituminous Blast, Bloodbraid Elf, and Broodmate Dragon to gain card advantage while Terminate, Maelstrom Pulse, Putrid Leech, and Sprouting Thrinax keep the opponent busy. 
+
+<table>&#10;    <tbody><tr>&#10;      <td>&#10;        <div>&#10;          <div>&#10;            <a>&#10;              <img alt="Bituminous Blast" src="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&amp;type=card&amp;name=Bituminous%20Blast&amp;options=">&#10;            </a>&#10;          </div>&#10;        </div>&#10;      </td>&#10;      <td>&#10;        <div>&#10;          <div>&#10;            <a>&#10;              <img alt="Bloodbraid Elf" src="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&amp;type=card&amp;name=Bloodbraid%20Elf&amp;options=">&#10;            </a>&#10;          </div>&#10;        </div>&#10;      </td>&#10;    </tr>&#10;  </tbody></table>
+
+Kazuya Mitamura’s Naya-Jund control looks very similar to the previous two Jund Control decks, but stretches its mana a little bit more to play a few copies of Enlisted Wurm. 
+
+Jan Doise’s Esper Control deck has escaped the coverage so far, but it is quite unique. He uses Agony Warp and Vedalken Outlander to keep the early game under control, then wins the late game with Sphinx of the Steel Wind and Martial Coup. His deck also features Tezzeret the Seeker, a card that previously has only experienced the lights of the Pro Tour in Extended. 
+
+<table>&#10;    <tbody><tr>&#10;      <td>&#10;        <div>&#10;          <div>&#10;            <a>&#10;              <img alt="Sphinx of the Steel Wind" src="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&amp;type=card&amp;name=Sphinx%20of%20the%20Steel%20Wind&amp;options=">&#10;            </a>&#10;          </div>&#10;        </div>&#10;      </td>&#10;      <td>&#10;        <div>&#10;          <div>&#10;            <a>&#10;              <img alt="Tezzeret the Seeker" src="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&amp;type=card&amp;name=Tezzeret%20the%20Seeker&amp;options=">&#10;            </a>&#10;          </div>&#10;        </div>&#10;      </td>&#10;    </tr>&#10;  </tbody></table>
+
+Tom Ross’s Naya Aggro deck makes the unconventional choice of eschewing Bloodbraid Elf entirely. Instead, he uses Ranger of Eos as his card advantage engine, searching up Wild Nacatls. He also has tons of planeswalkers, with four copies of Elspeth, Knight-Errant, a pair of Ajani Vengeants, and singleton Sarkhan Vol. 
+
+<table>&#10;    <tbody><tr>&#10;      <td>&#10;        <div>&#10;          <div>&#10;            <a>&#10;              <img alt="Ranger of Eos" src="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&amp;type=card&amp;name=Ranger%20of%20Eos&amp;options=">&#10;            </a>&#10;          </div>&#10;        </div>&#10;      </td>&#10;      <td>&#10;        <div>&#10;          <div>&#10;            <a>&#10;              <img alt="Elspeth, Knight-Errant" src="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&amp;type=card&amp;name=Elspeth,%20Knight-Errant&amp;options=">&#10;            </a>&#10;          </div>&#10;        </div>&#10;      </td>&#10;    </tr>&#10;  </tbody></table>
+
+At the end of Round 14, Ross, Mitamura, Gregoir, and Reitzl have already clinched top eight berths. Stay tuned to find out who will take the other four! 
+
+ 
+*   **Saturday, June 6, 5:26 p.m. – Jonathan Loucks**
+
+    *by Tom LaPille*
+
+<table>&#10;    <tbody><tr>&#10;      <td>&#10;        <div>&#10;          <img src="https://i.ormos.uk/99/8b/998bd14d3dae69a8e55cb6f305d78135f09149f6b547d9254f817df102746274.jpg">&#10;        </div>&#10;        <div>&#10;          <i>First-time pro player Jonathan Loucks is well known in the U.S. Northwest Magic scene.</i>&#10;        </div>&#10;      </td>&#10;    </tr>&#10;  </tbody></table>
+
+Yesterday, I caught up with first-time Pro Tour player Jonathan Loucks. Jonathan has earned a reputation in the United States Northwest as someone who is not afraid to play decks that are off the beaten path, and he was playing just such a deck at the tournament in Seattle that he won to qualify for this event. He was going to play a Martyr of Sands / Proclamation of Rebirth deck, but a metagame shift caused him to rethink that decision. A friend asked him to come up with a combination deck that used neither storm nor the graveyard. Jon’s solution to this puzzle was a five-color deck that used Pestermite and Kiki-Jiki, Mirror Breaker to create infinite creatures and Gifts Ungiven with Reveillark to put the combo together. Testing eventually pared the deck down to three colors from five, and by the end of the process he liked the deck so much that he also chose to play it. That was a good decision, and it took him to his first Pro Tour qualification.
+
+This weekend, Jonathan is playing a Jund deck with an aggressive twist. He told me that the decks that did well in the **Magic Online** Championship Series felt like piles of good cards without a theme. His version uses most of the good cards that those decks have but plays like a cohesive unit, not a pile of unconnected cards. Of the deck, Jonathan said that “I beat decks that were worse than mine and lost to decks that were better than mine.” He doesn’t think it’s the best deck in the room, but its 3-2 performance combined with a 2-1 draft deck gave him the five wins he needed to make Day Two. 
+
+Jonathan Loucks's Jund Aggro 
+
+[![View a sample hand of this deck](https://i.ormos.uk/b4/b1/b4b1cd4db83413dd60cb392a5774d1cb699cdbad1c855057956f91e70ab413bc.png)](https://web.archive.org/web/20121111154437/http://www.wizards.com/magic/samplehand.asp?x=mtg/daily/eventcoverage/pthon09/blog2&decknum=1) 
+
+[![Download a .dek file for use in Magic Online](https://i.ormos.uk/7d/67/7d67a37edff07800cb466fa53a1880fe4f5a9f5af21d4a85210e22956ee20ec0.png)](https://web.archive.org/web/20090606000000/https://www.wizards.com/magic/mtgdailyeventcoveragepthon09blog2x1.dek?x=mtg/daily/eventcoverage/pthon09/blog2&decknum=1) 
+
+  
+ 
+
+<table>&#10;          <tbody><tr>&#10;            <td colspan="2">&#10;              <p>Main Deck</p>&#10;              <p>60 cards&#10;									</p>&#10;            </td>&#10;            <td>&#10;          </td></tr>&#10;          <tr>&#10;            <td>4 &#10;&#10;		<a>Ancient Ziggurat</a><br>3 &#10;&#10;		<a>Crumbling Necropolis</a><br>4 &#10;&#10;		<a>Exotic Orchard</a><br>2 &#10;&#10;		<a>Forest</a><br>2 &#10;&#10;		<a>Mountain</a><br>4 &#10;&#10;		<a>Rupture Spire</a><br>4 &#10;&#10;		<a>Savage Lands</a><br>3 &#10;&#10;		<a>Swamp</a><br><hr>26 lands<br><br>4 &#10;&#10;		<a>Bloodbraid Elf</a><br>3 &#10;&#10;		<a>Broodmate Dragon</a><br>2 &#10;&#10;		<a>Fleshbag Marauder</a><br>3 &#10;&#10;		<a>Madrush Cyclops</a><br>4 &#10;&#10;		<a>Putrid Leech</a><br>4 &#10;&#10;		<a>Sedraxis Specter</a><br>4 &#10;&#10;		<a>Sprouting Thrinax</a><br><hr>24 creatures<br><br></td>&#10;            <td>4 &#10;&#10;		<a>Blightning</a><br>4 &#10;&#10;		<a>Maelstrom Pulse</a><br>2 &#10;&#10;		<a>Sarkhan Vol</a><br><hr>10 other spells<br><br><div><b><i>Sideboard</i></b></div>3 &#10;&#10;		<a>Anathemancer</a><br>1 &#10;&#10;		<a>Fleshbag Marauder</a><br>2 &#10;&#10;		<a>Infest</a><br>2 &#10;&#10;		<a>Realm Razer</a><br>2 &#10;&#10;		<a>Terminate</a><br>2 &#10;&#10;		<a>Thought Hemorrhage</a><br>3 &#10;&#10;		<a>Vithian Renegades</a><br><hr>15 sideboard cards<br><br></td>&#10;            <td>&#10;              <div>&#10;                &#10;              </div>&#10;            </td>&#10;          </tr>&#10;        </tbody></table>
+
+![](http://gatherer.wizards.com/Handlers/Image.ashx?size=small&multiverseid=10100000&type=card) 
+
+  
+ 
+
+Jonathan was radiant while he talked about his experience this weekend. He loved the atmosphere; the high-quality set pieces, judges in uniform, and spectacular feature match area created a serious vibe that Grand Prix don’t replicate. He was excited about interacting with **Magic** players and writers from around the world, including names like Paul Cheon, Zac Hill, and Brian David-Marshall and seeing people here he’s never before seen in person. “It’s crazy to see Jon Finkel just walking around.” 
+
+The free trip to Hawaii that comes with winning a Pro Tour Qualifier was also exciting for Jonathan. Unfortunately, the timing of his university finals meant that he couldn’t get here earlier than Thursday afternoon and will have to leave on Monday. He could have arranged to take his finals before the event, but “That was when I needed to test!” 
+
+Jonathan is hooked on the Pro Tour and is hungry to return to **Magic**‘s biggest show. We hope that some of you back home will join him and us for the next Pro Tour stop in Austin! 
+
+ 
+*   **Saturday, June 6, 6:08 p.m. – Standard Diversity**
+
+    *by Bill Stark*
+
+With the final rounds of the Pro Tour winding down, buzz in the Public Events space has centered around the PTQ for Austin. Qualifiers at Pro Tours are notoriously challenging; every talented player who missed the cut to the second day of the Pro Tour is bound to turn up. This event was no different, but the Standard format proved how vibrant it is with no less than *eight* different archetypes making the cut to the single elimination rounds. Here are the players, and the deck archetypes they played, in no particular order:
+
+Jonathan Hom – White-Green Tokens  
+ Hajime Nakamura – Mono-White Kithkin  
+ Daisuke Muramatsu – Three-Color Doran  
+ Philip Yam – Red-Black Aggro  
+ Ben Wienburg – EsperLark  
+ Charles Lau – Black-White Tokens  
+ Alec Nezin – Cascade Swans  
+ Ervan Maisauewe – Faeries
+
+A fantastic degree of diversity that bears high marks for the impending Pro Tour Qualifier Austin season! Check out the full Top 8 decklists soon in a Decks of the Week installment here on **magicthegathering.com**!

@@ -1,0 +1,47 @@
+---
+id: aqv766a4
+kind: event
+lang: en
+path: /en/articles/event-coverage/2011/08-19-2011-canada-national-championship-round-4-results
+title: 2011 Canada National Championship - Round 4 Results
+published: '2011-08-19'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/2011-canada-national-championship-round-4-results-2011-08-19
+    lang_detected: en
+    capture_id: 328386
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/2011-canada-national-championship-round-4-results-2011-08-19
+    captured_at: '2022-01-22 08:27:19+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/2011-canada-national-championship-round-4-results-2011-08-19
+    lang_detected: en
+    capture_id: 328386
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/2011-canada-national-championship-round-4-results-2011-08-19
+    captured_at: '2022-01-22 08:27:19+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: aqv766a4
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/2011-canada-national-championship-round-4-results-2011-08-19
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/2011-canada-national-championship-round-4-results-2011-08-19
+  lang: en
+  template: drupal
+  captured_at: '2022-01-22 08:27:19+00'
+  capture_id: 328386
+  wayback_url: https://web.archive.org/web/20220122082719id_/https://magic.wizards.com/en/articles/archive/event-coverage/2011-canada-national-championship-round-4-results-2011-08-19
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: aqv766a4
+  capture_id: 328386
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/2011-canada-national-championship-round-4-results-2011-08-19
+  wayback_url: https://web.archive.org/web/20220122082719id_/https://magic.wizards.com/en/articles/archive/event-coverage/2011-canada-national-championship-round-4-results-2011-08-19
+  captured_at: '2022-01-22 08:27:19+00'
+  template: drupal
+  sha256: 74306989b8eb2ed929dfb5c4159deaa6d4eed0423c551fd5770a528c26220936
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>Result</b></td><td><b>&#10;						</b></td><td><b>Opponent</b></td></tr><tr><td> 1</td><td>Hirsche-Smith, Wes D</td><td>Won 2-1</td><td>vs.</td><td>Tremblay, Mathieu</td></tr><tr><td> 2</td><td>SILVA, ERIC</td><td>Lost 0-2</td><td>vs.</td><td>Wells, Mark A</td></tr><tr><td> 3</td><td>Kasunich, Rodney K</td><td>Won 2-0</td><td>vs.</td><td>Herstead, Nicholas R</td></tr><tr><td> 4</td><td>Baines, David J</td><td>Won 2-1</td><td>vs.</td><td>Berry, Evan C</td></tr><tr><td> 5</td><td>Gibson, Chris n</td><td>Lost 1-2</td><td>vs.</td><td>Be, Ronald</td></tr><tr><td> 6</td><td>Mealing, Matt K</td><td>Lost 0-2</td><td>vs.</td><td>Zafra, Marcel Angelo C</td></tr><tr><td> 7</td><td>Boutin, Jon</td><td>Won 2-1</td><td>vs.</td><td>Elarar, Jasar S</td></tr><tr><td> 8</td><td>Noworaj, Andrew</td><td>Lost 1-2</td><td>vs.</td><td>Ketita, Nassim</td></tr><tr><td> 9</td><td>Mckenzie-Sasges, Brendan P</td><td>Won 2-0</td><td>vs.</td><td>McLaren, Dean K</td></tr><tr><td> 10</td><td>Long, Noah</td><td>Won 2-0</td><td>vs.</td><td>LeBlanc, Nicholas M</td></tr><tr><td> 11</td><td>Budgell, Lane J</td><td>Lost 1-2</td><td>vs.</td><td>Anderson, Marc</td></tr><tr><td> 12</td><td>Ingram, Michael F</td><td>Lost 0-2</td><td>vs.</td><td>MCCULLOCH, MITCHELL</td></tr><tr><td> 13</td><td>Last, Ian I</td><td>Won 2-0</td><td>vs.</td><td>Crevar, Steven G</td></tr><tr><td> 14</td><td>Toussaint, Francis</td><td>Lost 0-2</td><td>vs.</td><td>Maynard, Pascal</td></tr><tr><td> 15</td><td>Bax, Will c</td><td>Won 2-0</td><td>vs.</td><td>Murdoch, Blake</td></tr><tr><td> 16</td><td>Spence, Zack</td><td>Lost 1-2</td><td>vs.</td><td>Maes, Michel T</td></tr><tr><td> 17</td><td>Boudrias Plouffe, Jeremi</td><td>Lost 1-2</td><td>vs.</td><td>whelan, stephen p</td></tr><tr><td> 18</td><td>Chehowy, Greg J</td><td>Lost 1-2</td><td>vs.</td><td>Houghton, Derek</td></tr><tr><td> 19</td><td>Wojtowicz, Michael J</td><td>Lost 0-2</td><td>vs.</td><td>Morton, Collin R</td></tr><tr><td> 20</td><td>Page, Nick</td><td>Won 2-1</td><td>vs.</td><td>Naylor, Jamie M</td></tr><tr><td> 21</td><td>Wong, David K</td><td>Lost 0-2</td><td>vs.</td><td>Fournier, Daniel</td></tr><tr><td> 22</td><td>Gilks, Greg</td><td>Lost 0-2</td><td>vs.</td><td>Godmaire, Marc M</td></tr><tr><td> 23</td><td>Tharmaratnam, Samuel</td><td>Won 2-0</td><td>vs.</td><td>Smith, Kyle T</td></tr><tr><td> 24</td><td>Chan, Charlie</td><td>Won 2-0</td><td>vs.</td><td>Schwarz, Micheal P</td></tr><tr><td> 25</td><td>Van Leeuwen, Andrew C</td><td>Won 2-1</td><td>vs.</td><td>Stern, Jon</td></tr><tr><td> 26</td><td>Savoie, Alexandre</td><td>Won 2-1</td><td>vs.</td><td>Huska, Andrew</td></tr><tr><td> 27</td><td>Fox, Christopher R</td><td>Lost 0-2</td><td>vs.</td><td>Szelzki, Jeffrey P</td></tr><tr><td> 28</td><td>Illingworth, Nina</td><td>Won 2-1</td><td>vs.</td><td>Wells, Brian D</td></tr><tr><td> 29</td><td>Chreptyk, Brandon</td><td>Lost 0-2</td><td>vs.</td><td>Richardson, Justin B</td></tr><tr><td> 30</td><td>blaschek, stuart</td><td>Lost 0-2</td><td>vs.</td><td>MacDonald, Dan J</td></tr><tr><td> 31</td><td>brierley, mike j</td><td>Won 2-0</td><td>vs.</td><td>Turchansky, Zak R</td></tr><tr><td> 32</td><td>Ramalho, Paul</td><td>Lost 0-2</td><td>vs.</td><td>Bishop, Stephen T</td></tr><tr><td> 33</td><td>Oyen, Andrew</td><td>Won 2-0</td><td>vs.</td><td>Fenwick, Tim</td></tr><tr><td> 34</td><td>Morelli, Mike</td><td>Lost 1-2</td><td>vs.</td><td>Shmanka, Peter M</td></tr><tr><td> 35</td><td>Ferneyhough, Michael F</td><td>Won 2-0</td><td>vs.</td><td>Pickell, Joel R</td></tr><tr><td> 36</td><td>Bisson, Stephane A</td><td>Lost 0-2</td><td>vs.</td><td>Olsen, Jeff B</td></tr><tr><td> 37</td><td>Vetta, Lucas</td><td>Lost 1-2</td><td>vs.</td><td>Szawlowski, Matthew</td></tr><tr><td> 38</td><td>Fisher, Chris A</td><td>Lost 0-2</td><td>vs.</td><td>Teitel, Trevor</td></tr><tr><td> 39</td><td>Herr, Thomas W</td><td>Lost 1-2</td><td>vs.</td><td>Beldon, Omar</td></tr><tr><td> 40</td><td>Gifford, Sean</td><td>Lost 1-2</td><td>vs.</td><td>Lansche, Derek S</td></tr><tr><td> 41</td><td>Cormier, Jason R</td><td>Lost 1-2</td><td>vs.</td><td>Moir, Ben</td></tr><tr><td> 42</td><td>Smithers, Jonathan</td><td>Won 2-0</td><td>vs.</td><td>Davoudi, Mani</td></tr><tr><td> 43</td><td>SEIFERT, CHRIS</td><td>Lost 0-2</td><td>vs.</td><td>Daoust, Guillaume</td></tr><tr><td> 44</td><td>Gaudreault, Eric</td><td>Won 2-1</td><td>vs.</td><td>Taimla, Christopher J</td></tr><tr><td> 45</td><td>Mclaren, Shaun G</td><td>Won 2-0</td><td>vs.</td><td>Peters, Andy</td></tr><tr><td> 46</td><td>Siow, Lucas E</td><td>Lost 0-2</td><td>vs.</td><td>Hetherington, Sean P</td></tr><tr><td> 47</td><td>Schnayer, David G</td><td>Won 2-0</td><td>vs.</td><td>Kelly, Nathaniel S</td></tr><tr><td> 48</td><td>Chabot, Pier-alexis</td><td>Lost 0-2</td><td>vs.</td><td>Tom, Kar Yung E</td></tr><tr><td> 49</td><td>Traikov, Erik K</td><td>Lost 0-2</td><td>vs.</td><td>Sauvé, Ian</td></tr><tr><td> 50</td><td>Gareau, Adrian</td><td>Won 2-0</td><td>vs.</td><td>Kellar, Nathan</td></tr><tr><td> 51</td><td>Rider, Joshua H</td><td>Won 2-1</td><td>vs.</td><td>Rood, David</td></tr><tr><td> 52</td><td>Sheffield, Randy 'Sway' s</td><td>Lost 0-2</td><td>vs.</td><td>Hanlon, Mark R</td></tr><tr><td> 53</td><td>Cormier, Francis</td><td>Lost 0-2</td><td>vs.</td><td>Switzer, Paul D</td></tr><tr><td> 54</td><td>Sutherland, Matt</td><td>Lost 1-2</td><td>vs.</td><td>Mcknight, Nathan</td></tr><tr><td> 55</td><td>Ross-Latour, Jeremie</td><td>Won 2-0</td><td>vs.</td><td>Hitchcock, Nathan B</td></tr><tr><td> 56</td><td>Lanthier, Dan</td><td>Won 2-1</td><td>vs.</td><td>Goldfarb, Mat</td></tr><tr><td> 57</td><td>Samms, Phil</td><td>Lost 1-2</td><td>vs.</td><td>Thibeault, Vincent</td></tr><tr><td> 58</td><td>Thibeau, Markus R</td><td>Lost 0-2</td><td>vs.</td><td>Culligan, Michael J</td></tr><tr><td> 59</td><td>MacKinnon, Paul</td><td>Won 2-0</td><td>vs.</td><td>MacMullin, Matthew</td></tr><tr><td> 60</td><td>Ciarroni, Steven</td><td>Lost 1-2</td><td>vs.</td><td>Fernandes, Paulo A</td></tr><tr><td> 61</td><td>Clairmont, Matthew D</td><td>Won 2-0</td><td>vs.</td><td>Lombardi, Robert J</td></tr><tr><td> 62</td><td>CROSSMAN, CODY J</td><td>Lost 1-2</td><td>vs.</td><td>Smith, Joey J</td></tr><tr><td> 63</td><td>Vance, James E</td><td>Lost 1-2</td><td>vs.</td><td>Hayne, Alexander</td></tr><tr><td> 64</td><td>Kraehling, Arend R</td><td>Lost 0-2</td><td>vs.</td><td>Ziemba, Brian J</td></tr><tr><td> 65</td><td>Berlingieri, Anthony</td><td>Won 2-0</td><td>vs.</td><td>Vasovski, Mike</td></tr><tr><td> 66</td><td>Galves, Victor S</td><td>Lost 0-2</td><td>vs.</td><td>Slinger, Daniel</td></tr><tr><td> 67</td><td>Duncan, Kyle A</td><td>Lost 1-2</td><td>vs.</td><td>Schaub, Halley</td></tr><tr><td>&#10;					</td><td>Patelakis, Steve</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr><tr><td>&#10;					</td><td>Cantin, Maxime</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr><tr><td>&#10;					</td><td>Murphy, Ben</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr><tr><td>&#10;					</td><td>Tse, Felix</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr><tr><td>&#10;					</td><td>Hoaen, Richard G</td><td>&#10;					</td><td>&#10;					</td><td>* BYE *</td></tr></tbody></table>

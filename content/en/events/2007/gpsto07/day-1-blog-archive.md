@@ -1,0 +1,228 @@
+---
+id: ta873x5h
+kind: event
+lang: en
+path: /en/events/2007/gpsto07/day-1-blog-archive
+title: Day 1 Blog Archive
+published: null
+column_slug: null
+column: null
+authors: []
+event_code: gpsto07
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/gpsto07/blog1
+    lang_detected: en
+    capture_id: 1069065
+    url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpsto07/blog1
+    captured_at: '2013-06-26 11:53:31+00'
+    rule: aspx.article_heading
+  event_code:
+    page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/gpsto07/blog1
+    lang_detected: en
+    capture_id: 1069065
+    url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpsto07/blog1
+    captured_at: '2013-06-26 11:53:31+00'
+    rule: url.event_code
+sources:
+- document_id: ta873x5h
+  url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpsto07/blog1
+  page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/gpsto07/blog1
+  lang: en
+  template: aspx
+  captured_at: '2013-06-26 11:53:31+00'
+  capture_id: 1069065
+  wayback_url: https://web.archive.org/web/20130626115331id_/https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpsto07/blog1
+- document_id: ta873x5h
+  url: http://www.wizards.com/default.asp?x=mtgevent/gpsto07/blog1
+  page_key: wizards.com/default.asp?x=mtgevent/gpsto07/blog1
+  lang: en
+  template: classic_asp
+  captured_at: '2007-09-05 10:13:32+00'
+  capture_id: 2076284
+  wayback_url: https://web.archive.org/web/20070905101332id_/http://www.wizards.com/default.asp?x=mtgevent/gpsto07/blog1
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: ta873x5h
+  capture_id: 1069065
+  url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpsto07/blog1
+  wayback_url: https://web.archive.org/web/20130626115331id_/https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/gpsto07/blog1
+  captured_at: '2013-06-26 11:53:31+00'
+  template: aspx
+  sha256: 47786d5dc02e3379e7167776c62fc790cd2201a75ae14e68216ca6b1360fbceb
+render_recovery:
+- code: unsupported_link
+  element: a
+  target: javascript:void()
+  reason: The link uses a JavaScript placeholder. The preview kept any visible label.
+  labels:
+  - Aeon Chronicler
+  - Stormbind
+  - Griffin Guide
+  - Soltari Priest
+  - Shade of Trokair
+  - Serrated Arrows
+  - Savage Thallid
+  - Goldmeadow Lookout
+  - Fathom Seer
+  - Thallid
+  - Lightning Axe
+  - Nantuko Shaman
+  - Malach of the Dawn
+  - Amrou Scout
+  - Magus of the Disk
+  - Temporal Isolation
+  - Stonecloaker
+  - Castle Raptors
+  - Second Wind
+  - Momentary Blink
+  - Logic Knot
+  - Fatal Attraction
+  - Saltblast
+  - Magus of the Jar
+  - Plains
+  - Gift of Granite
+  - Thelonite Hermit
+  - Dawn Charm
+  - Crookclaw Transmuter
+  - Looter il-Kor
+  - Uktabi Drake
+  - Mana Tithe
+  - Shaper Parasite
+  - Duskrider Peregrine
+  - Infiltrator il -Kor
+  - Cavalry Master
+  - Whip-Spine Drake
+  - Brine Elemental
+  - Snapback
+  - Riptide Pilferer
+  - Dream Stalker
+  - Prodigal Pyromancer
+  - Coal Stoker
+  - Sulfur Elemental
+  - Tolarian Sentinel
+  - Swamp
+  - Island
+  - Mountain
+  - Ovinize
+  - Mindstab
+  - Psionic Blast
+  - Firemaw Kavu
+  - Emberwilde Augur
+  - Think Twice
+  - Foresee
+  - Prismatic Lens
+  - Revered Dead
+  - Sulfurous Blast
+  - Evangelize
+  - Corpulent Corpse
+  - Ghostfire
+  - Cancel
+  - Orcish Cannonade
+  - Gathan Raiders
+  - Grove of the Burnwillows
+  - Whitemane Lion
+  - Errant Ephemeron
+  - Durkwood Baloth
+  - Ashcoat Bear
+  - Ivory Giant
+  - Errant Doomsayers
+  - Lost Auramancers
+  - Defiant Vanguard
+  - Nessian Courser
+  - Lymph Sliver
+  - Citanul Woodreaders
+  - Verdant Embrace
+  - Subterranean Shambler
+  - Rift Elemental
+  - Coral Trickster
+  - Forest
+  - Baru, Fist of Krosa
+  - Bonesplitter Sliver
+  - Chronosavant
+  - Herd Gnarr
+  - Venser's Sliver
+  - Conflagrate
+  - Uthden Troll
+  - Strangling Soot
+  - Riddle of Lightning
+  - Sengir Nosferatu
+  - Damnation
+  - Mystical Teachings
+  - Giant Dustwasp
+  - Slipstream Serpent
+  - Flowstone Embrace
+  - Urborg Syphon-Mage
+  - Maelstrom Djinn
+  - Deepcavern Imp
+  - Spitting Slug
+  - Aquamorph Entity
+  - Sprout Swarm
+  - Infiltrator il-Kor
+  - Weatherseed Totem
+  - Careful Consideration
+  - Stuffy Doll
+  - Bogardan Rager
+  - Primal Plasma
+  - Rift Bolt
+  - Spiketail Drakeling
+  - Might of Old Krosa
+  - Evolution Charm
+  - Fomori Nomad
+  - Temporal Eddy
+  - Riftwing Cloudskate
+  - Lightning Angel
+  - Flowstone Channeler
+  - Llanowar Empath
+  - Unblinking Bleb
+  - Aven Augur
+  - Akroma, Angel of Wrath
+  - Pardic Dragon
+  occurrences: 251
+---
+  
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <b>TABLE OF CONTENTS</b>&#10;    </td>&#10;  </tr>&#10;</tbody></table>
+
+  
+  
+
+*   [Blog - 6:47 p.m.](#9) - Round 9 and Fighting
+
+    *by Tim Willoughby and Julien Nuijten*
+
+*   [Blog - 6:16 p.m.](#8) - Round 8: Shuuhei Nakamura vs. Olle Rade
+
+    *by Tim Willoughby*
+
+*   [Blog - 5:35 p.m.](#7) - Quick Questions
+
+    *by Staff*
+
+*   [Blog - 4:04 p.m.](#6) - Round 6: Rogier Maaten vs. Richard Hoaen
+
+    *by Tim Willoughby*
+
+*   [Blog - 1:58 p.m.](#5) - Round 4: Raphael Levy vs. Kamiel Cornelissen
+
+    *by Tim Willoughby*
+
+*   [Blog - 12:25 p.m.](#4) - Round 4: Olle Rade vs. Geoffrey Siron
+
+    *by Tim Willoughby*
+
+*   [Blog - 11:47 a.m.](#3) - Round 3: Christian Flaaten vs. Daniel Kramer
+
+    *by Tim Willoughby*
+
+*   [Blog - 10:33 a.m.](#2) - Picture This
+
+    *by Tim Willoughby*
+
+*   [Blog - 10:01 a.m.](#1) - Spot the Pro
+
+    *by Tim Willoughby*
+  
+
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <b>BLOG</b>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>&#10;      <br>&#10;      <br>&#10;      <a name="1"> </a>&#10;      <li>&#10;        <b>Saturday, May 5: 10:01 a.m. - Spot the Pro</b>&#10;        <div>&#10;          <i>by Tim Willoughby</i>&#10;        </div>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <div>&#10;              <img src="https://www.wizards.com/sideboard/images/gpsto07/crowd.jpg">&#10;            </div>&#10;            <div>&#10;              <i>Rich Hoean's camoflage proves ineffectual</i>&#10;            </div>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>When I first get to the venue of an event, there are a few things I'm looking to check out. The first thing I want to know is where the caffeinated beverages can be found, but right as soon as that kicks in, I'm on a crazy Pro hunt. You can't have a game without players, and there are always plenty of great players at every Grand Prix. </p>&#10;      <p>Some can be tricky to spot. Your Kenji Tsumura's of this world are a little too little to easily pick out in a crowd. Frank Karsten and Shouta Yasooka aren't normally the guys running around making a lot of noise before round 1. Of those that do stand out though there are a few that <i>really</i> stand out. </p>&#10;      <p>Limited powerhouse Rich Hoaen rocked up to Grand Prix Stockholm with a new shocking blue haircut which quickly spawned the 'Where's Waldo'-esque game of 'Where's Richie?'. Suffice to say that after the difficult decisions of deckbuilding with <i>Future Sight </i>in the mix, this game is quite a lot easier.</p>&#10;      <div>&#10;        <table>&#10;          <tbody><tr>&#10;            <td>&#10;              <div>&#10;                <img src="https://www.wizards.com/sideboard/images/gpsto07/hoen.jpg">&#10;              </div>&#10;              <div>&#10;                <i>Rich was feeling a little blue about his deck.</i>&#10;              </div>&#10;            </td>&#10;          </tr>&#10;        </tbody></table>&#10;      </div>&#10;      <br>&#10;      <br>&#10;      <a name="2"> </a>&#10;      <li>&#10;        <b>Saturday, May 5: 10:33 a.m. - Picture This</b>&#10;        <div>&#10;          <i>by Tim Willoughby</i>&#10;        </div>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <img src="https://www.wizards.com/sideboard/images/gpsto07/artist.jpg">&#10;      <p>There can be a fair amount of down-time at Grand Prix's between rounds, particularly in limited events where you have some matches quickly being decided by one player's mana issues. Fortunately there is plenty to do at most venues, and for those who came prepared, there is the opportunity to get their cards signed by the artist. </p>&#10;      <p>When I heard that for this event the artist would be Alan Pollock, I personally was pretty excited. Us writers don't very often get to toot our horns about our own achievements, but one of the early highlights of my <b>Magic</b> career was designing the Alan Pollock only deck for the 2004 Invitational. While the R.K.Post deck was doing naughty things with Morphling, Lightning Angel and Teferi's Moat, my little blue/black deck contented itself with playing quick guys, card drawing and removal, ideally doing naughty things with Cephalid Constable. Sure, it didn't do very well, starting with 5 cards in hand for Dirk Baberowski, but it remained a lot of fun. </p>&#10;      <p>Alan Pollock has been signing cards all morning, from Snapbacks and Sudden Spoilings to his older cards like the Wurm Tokens given out in the Player Rewards program. My Cephalid Constable's now bear the mark of their creator, and all of a sudden I can't help but look for a way of playing them again. </p>&#10;      <br>&#10;      <br>&#10;      <a name="3"> </a>&#10;      <li>&#10;        <b>Saturday, May 5: 11:47 a.m. - Round 3: Christian Flaaten vs. Daniel Kramer</b>&#10;        <div>&#10;          <i>by Tim Willoughby</i>&#10;        </div>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <div>&#10;              <img src="https://www.wizards.com/sideboard/images/gpsto07/r1flaaten.jpg">&#10;            </div>&#10;            <div>&#10;              <i>Christian Flaaten</i>&#10;            </div>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>While round 4 is where we see the big swathe of Pros coming off their 3 bye morning break, there are a few who have snuck in a round early. Christian Flaaten, the bridesmaid from both Worlds last year and Yokohama two weeks ago is just one such player.</p>&#10;      <p>&quot;I lost the roll…&quot; remarked Christian about his deck before the match with a sigh. </p>&#10;      <p>He had rolled a die with the player opposite him to pick which card pool each would open and build. Clearly Christian would rather have had the pile of cards with mana fixing and bombs like <a>Aeon Chronicler</a> and <a>Stormbind</a>. As it stood, he would have to work with more reasonable cards to get to draft day. </p>&#10;      <p>&quot;Do you have the <a>Griffin Guide</a>?&quot; Flaaten asked with a shrug as he opponent ran in with <a>Soltari Priest</a>, after a suspended <a>Shade of Trokair</a> the turn before. Kramer was having a constructed quality start, where Flaaten had only a morph off his mulligan. </p>&#10;      <p>Flaaten found a <a>Serrated Arrows</a> to deal with the shadow, and was off to the races, though racing a fresh <a>Savage Thallid</a> looked a little tricky. Flaaten drew and shrugged - he had <a>Goldmeadow Lookout</a> with which to eventually deal with any number of beaters on the other side of the board… in time. </p>&#10;      <p>Christian's morph (a <a>Fathom Seer</a> who couldn't flip) traded with the <a>Thallid</a>, and the Lookout fell to <a>Lightning Axe</a> before Daniel suspended a <a>Nantuko Shaman</a>. Christian had a <a>Malach of the Dawn</a> to answer, and in turn an <a>Amrou Scout</a>. The scout allowed for Flaaten to build his board up a little, fetching a Zealot <i>il-</i>Vec one turn, though the following turn it couldn't find anything at all. </p>&#10;      <p>The race was not in Flaaten's favour. A Whip-Spire Drake unmorphed and got stuck in to take Christian to 7, while Daniel was at 13. Now he would have to keep his <a>Malach of the Dawn</a> back on defence. Could Christian's Zealot break the stall? The Norwegian rather hoped so, though he played a <a>Magus of the Disk</a> just in case. <a>Temporal Isolation</a> on <a>Malach of the Dawn</a> met a small shrug and a thumbs up from the Norwegian, and the <a>Stonecloaker</a> that came out suddenly made things look dicey for him. </p>&#10;      <p>He had a <a>Temporal Isolation</a> to allow his Malach to block and kill <a>Stonecloaker</a>, Isolation free, but still dropped to 4 on Daniel's attacks. Another flyer, in the form of <a>Castle Raptors</a>, brought a <a>Second Wind</a> from Christian, who used it after losing his Scout in Combat, along with a Zealot ping. Daniel tried a <a>Momentary Blink</a>, but Flaaten was ready with <a>Logic Knot</a>.</p>&#10;      <div>&#10;        <div>&#10;          <a>&#10;            <img alt="Logic Knot" src="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&amp;type=card&amp;name=Logic%20Knot&amp;options=">&#10;          </a>&#10;        </div>&#10;      </div>&#10;      <p>Kramer was fighting for the final points, and used <a>Fatal Attraction</a> after combat to kill <a>Malach of the Dawn</a> who wasn't able to regenerate. He had an opening in the air. It was closed by a <a>Saltblast</a> on his flyer. He tried an <a>Amrou Scout</a>, only for it to die to Flaaten's Zealot. </p>&#10;      <p>Flaaten played a <a>Magus of the Jar</a>, naming himself 'Magus Boy' with a grin. He was establishing control - and his board was slowly becoming pretty scary. <a>Shade of Trokair</a> with 5 <a>Plains</a> up made it scarier. The Shade spectacularly failed to kill <a>Nantuko Shaman</a>, thanks to a <a>Gift of Granite</a>, but Flaaten seemed none too concerned.</p>&#10;      <p>'At least you're playing that card - I can't feel too bad. </p>&#10;      <p>He felt a little worse when a <a>Thelonite Hermit</a> unmorphed against him, but had a <a>Dawn Charm</a> to Fog for a turn such that there was no need to pop his <a>Magus of the Disk</a>. Attacks back took Daniel down to 4, and forced <a>Thelonite Hermit</a> to chump block. For the first time in the match, it was Kramer on the defensive. </p>&#10;      <p>He had shifted roles too slow though, a quick <a>Crookclaw Transmuter</a> was enough to finish things off.</p>&#10;      <p>Christian Flaaten 1 - 0 Daniel Kramer</p>&#10;      <p>After a mammoth Game 1, there was quite a bit of pressure on Kramer to fight back quickly in the second. He had an early <a>Amrou Scout</a>, a <a>Fatal Attraction</a> to kill a <a>Looter il-Kor</a>, and an <a>Uktabi Drake</a> early, smashing into the red zone at every opportunity. There was even a <a>Mana Tithe</a> to stop Flaaten's <a>Serrated Arrows</a>. </p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <div>&#10;              <img src="https://www.wizards.com/sideboard/images/gpsto07/r1kramer.jpg">&#10;            </div>&#10;            <div>&#10;              <i>Daniel Kramer</i>&#10;            </div>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>In no time Christian was on 10 life. He had to hold back a morph who had been trying to race, as all of a sudden he really needed to block. Even this though was trumped by <a>Stonecloaker</a> protecting <a>Amrou Scout</a>. Flaaten killed the 3/2 Gargoyle with <a>Shaper Parasite</a>, and played a <a>Magus of the Disk</a>. <a>Uktabi Drake</a> was the only creature for Kramer, but it didn't have too much work to do. </p>&#10;      <p>Flaaten worked on building a big combo turn, suspending <a>Duskrider Peregrine</a> and <a>Shade of Trokair</a>, presumably with a mind to popping his Magus before they came into play. Ultimately this was too slow though, as Kramer played out a <a>Stormbind</a> which went straight to the head for enough.</p>&#10;      <p>Christian Flaaten 1 - 1 Daniel Kramer</p>&#10;      <p>It was Christian that was piling on the pressure for Game 3, with an <a>Infiltrator <i>il</i>-Kor</a> and a morph beating down early, soon joined by <a>Cavalry Master</a>. Kramer's <a>Whip-Spine Drake</a> traded with a <a>Brine Elemental</a> while both were face down, and the beats continued. Kramer never managed to stabilise as his <a>Nantuko Shaman</a> got hit by <a>Snapback</a>. <a>Stonecloaker</a> saved the Shaman but it was not enough. The quick beats got it done.</p>&#10;      <p>Christian Flaaten wins 2 -1!</p>&#10;      <br>&#10;      <br>&#10;      <a name="4"> </a>&#10;      <li>&#10;        <b>Saturday, May 5: 12:25 p.m. - Round 4: Olle Rade vs. Geoffrey Siron</b>&#10;        <div>&#10;          <i>by Tim Willoughby</i>&#10;        </div>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <div>&#10;              <img src="https://www.wizards.com/sideboard/images/gpsto07/r4siron.jpg">&#10;            </div>&#10;            <div>&#10;              <i>Geoffrey Siron</i>&#10;            </div>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>When the byes all finish up at Grand Prix's all of a sudden there is a rush of Pros at the top of the standings. As such, finding a good feature match is not too tough.</p>&#10;      <p>For this round, it was local boy and Hall of Famer Olle Rade vs Pro Tour London winner Geoffrey Siron. </p>&#10;      <p>Olle had a mulligan, but the man who used to be known as The Little Viking was happy with his 6. Geoffrey was the first with action, in the form of <a>Riptide Pilferer</a>, though the chances of it getting through unimpeded were small as Olle had an early <a>Dream Stalker</a>, setting him back on a land drop. Rade followed up with <a>Prodigal Pyromancer</a>, to his opponent's morph, looking to take things slowly. </p>&#10;      <p>This was not Geoffrey's plan. He had a <a>Coal Stoker</a> and <a>Sulfur Elemental</a> to make for a busy board, and just as soon as he could deal with either one of Rade's men, he'd be in great shape to attack for lots. The Swede played <a>Tolarian Sentinel</a> and passed to Siron, who, after playing a <a>Swamp</a> to go with his <a>Island</a>s and <a>Mountain</a>s, was on the attack.</p>&#10;      <p>Rade sat on his side of the table, drew, and calmly said go. From his face there was no way of knowing if he'd drawn a bomb or just another land. When Siron's morph attacked, it was blocked by <a>Dream Stalker</a>, only for it to turn out to be <a>Brine Elemental</a>. Rade had the <a>Ovinize</a> to take down the 5/4 and keep his Illusion alive, but thought better of using <a>Prodigal Pyromancer</a> at the end of turn.</p>&#10;      <p>The next turn, Geoffrey fired another bullet, in the form of <a>Mindstab</a>, against Olle's hand of 3 cards. Rade played <a>Psionic Blast</a> in response to kill <a>Coal Stoker</a>, but could do nothing with the <a>Firemaw Kavu</a> and <a>Island</a> in his hand, losing them to the powerful sorcery. </p>&#10;      <p>In spite of living off the top of his deck, Rade was beginning to get into favourable position. His board was nicely full compared with a lone <a>Sulfur Elemental</a> for Siron, and he drew a Forisian Totem and a Fomori Nomad in his next turns. Spin Into Myth seemed a perfect answer to such topdeckery, and suddenly Olle just had to make do with just what he had on the board, minus the 4/4 who ended up on the bottom of his deck. Swings took Geoffrey to 9, and Siron put an <a>Emberwilde Augur</a> into play for his turn. </p>&#10;      <p>Rade went on the attack. A Bogardan Rager meant that the lack of blocks from Siron would put him to 3. Suddenly the game was beyond Siron, and after drawing for his turn he scooped up his cards, and went looking to his sideboard for answers.</p>&#10;      <div>&#10;        <div>&#10;          <a>&#10;            <img alt="Emberwilde Augur" src="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&amp;type=card&amp;name=Emberwilde%20Augur&amp;options=">&#10;          </a>&#10;        </div>&#10;      </div>&#10;      <p>Olle Rade 1 - 0 Geoffrey Siron </p>&#10;      <p>For game 2, Olle again had a mulligan, but this time he had to go down to five. Suddenly Siron looked happy for his feature match picture.</p>&#10;      <p>Geoffrey led off with a morph, while Olle tried to draw back out of his mulligan with <a>Think Twice</a>. His Errant Doomsayer bought him a little time, but while he had small card drawing spells, Siron was using <a>Foresee</a> to get the most out of his deck. </p>&#10;      <p>Olle was still stuck with just 2 land, but at least had a <a>Dream Stalker</a> with which to hold down his defences. The <a>Prismatic Lens</a> and morph that came down for Siron almost seemed to mock his land issues. The mockery continued when it turned out that the morph was <a>Brine Elemental</a>. </p>&#10;      <p>Siron applied maximum beats while Olle was nearly locked down on mana, playing <a>Coal Stoker</a>, and then filtering the red mana though <a>Prismatic Lens</a> to unmorph <a>Whip-Spine Drake</a>. Olle had <a>Ovinize</a> to kill the flyer, but still dropped to 8 from the Elemental, while Siron was still riding high on 20. </p>&#10;      <p>A <a>Revered Dead</a> proved a helpful ally to Rade briefly, though it died, along with the rest of his board, to an attack step <a>Sulfurous Blast</a>. Suddenly there was just one creature on the board, the <a>Brine Elemental</a>. Olle played <a>Evangelize</a>. Spin Into Myth proved spectacular here, putting <a>Brine Elemental</a> back onto Siron's deck, and allowing him to Fateseal Olle.</p>&#10;      <p>Siron played a morph and <a>Corpulent Corpse</a> for his turn and passed. Olle was at 6 and in a lot of trouble. <a>Ghostfire</a> killed the <a>Brine Elemental</a> before it could flip again, but the Hall of Famer was still facing a two-turn clock from the Corpse. After taking one hit, Olle tried a <a>Psionic Blast</a> on the 3/3, but a <a>Cancel</a> was enough for him to scoop it up. </p>&#10;      <p>Olle Rade 1 - 1 Geoffrey Siron </p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <div>&#10;              <img src="https://www.wizards.com/sideboard/images/gpsto07/r4rade.jpg">&#10;            </div>&#10;            <div>&#10;              <i>Olle Rade</i>&#10;            </div>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Olle let off with a morph on turn three, which was hit by <a>Orcish Cannonade</a> before it could hit the red zone. Unfortunately for Siron, that morph was <a>Gathan Raiders</a>, who survived to smash into the red zone for three the following turn. The fact that the Cannonade was cast off <a>Grove of the Burnwillows</a> only served to compound the gap in life totals. <a>Tolarian Sentinel</a> joined the party for Olle, who after being the control in game 1 was looking to win as the beatdown for the decider. Geoffrey flashed out <a>Sulfur Elemental</a> to block <a>Gathan Raiders</a>, only for them to be returned by <a>Whitemane Lion</a> with damage on the stack, and replayed by and unrelenting Olle. </p>&#10;      <p>Siron tapped out for <a>Errant Ephemeron</a>, and looked across at the Hall of Famer opposite him nervously. Tricks here would not be good for him. Olle swung with <a>Tolarian Sentinel</a>, <a>Whitemane Lion</a>, and his morph. He had 3 cards in hand, and access to 6 mana. The Ephemeron had to block the morph. <a>Ovinize</a> again was not Siron's friend. </p>&#10;      <p>He was scooping up his cards shortly later, and to compound things, Olle showed a <a>Firemaw Kavu</a> in his hand. The Little Viking had done it again. </p>&#10;      <p>Olle Rade 2 - 1 Geoffrey Siron</p>&#10;      <br>&#10;      <br>&#10;      <a name="5"> </a>&#10;      <li>&#10;        <b>Saturday, May 5: 1:58 p.m. - Round 4: Raphael Levy vs. Kamiel Cornelissen</b>&#10;        <div>&#10;          <i>by Tim Willoughby</i>&#10;        </div>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <div>&#10;              <img src="https://www.wizards.com/sideboard/images/gpsto07/r4Cornellison.jpg">&#10;            </div>&#10;            <div>&#10;              <i>Kamiel Cornelissen</i>&#10;            </div>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Raphael Levy lived in Gothenburg in Sweded for some time, but it was not until moving back to Toulouse that he found himself having his best year in <b>Magic</b> ever. Taking a step up after making the Hall of Fame is some achievement, but with back to back GP wins, and a top 8 showing in Yokohama, Levy leads the Player of the Year race, and sits undefeated thus far here in Sweden on the weekend. </p>&#10;      <p>Just one round off finishing his byes, this is not yet a huge achievement, and to get any further, Raph would have to take down a member of the current reigning World Champion team from the Netherlands. Kamiel Cornelissen is just one of the stable of Dutch Pros who are here this weekend.</p>&#10;      <p>Kamiel led off with a suspended <a>Durkwood Baloth</a>, and followed up with a flashed in <a>Ashcoat Bear</a>s in short order. Meanwhile Levy had a big suspend guy of his own in the form of <a>Ivory Giant</a>, and looked likely to get full value out of his Giant by playing <a>Errant Doomsayers</a>, <a>Lost Auramancers</a> and <a>Defiant Vanguard</a> on successive turns. The Auramancers traded with a <a>Nessian Courser</a> of Cornelissen's, before <a>Ivory Giant</a> tapped out the Dutch team, allowing the Giant to come in unimpeded. <br> In spite of having <a>Mountain</a>s and a <a>Swamp</a>, Levy was mono-white on board, playing a <a>Lymph Sliver</a>,with Cornelissen representing mono-Green in spite of a <a>Mountain</a> of this own. With a <a>Prismatic Lens</a> in play, his morph could have been any number of things, but while <a>Errant Doomsayers</a> were keeping it tapped down, Kamiel was hesitant to do much with it. </p>&#10;      <div>&#10;        <div>&#10;          <a>&#10;            <img alt="Baru, Fist of Krosa" src="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&amp;type=card&amp;name=Baru,%20Fist%20of%20Krosa&amp;options=">&#10;          </a>&#10;        </div>&#10;      </div>&#10;      <p>He played a <a>Citanul Woodreaders</a> to draw some cards, and the following turn used Ghostflame on <a>Defiant Vanguard</a>. Without the Vanguard around, <a>Durkwood Baloth</a> was free to swing, killing off the Sliver. Kamiel then dropped <a>Verdant Embrace</a>, and began churning out Saprolings. </p>&#10;      <p>Raph had a <a>Subterranean Shambler</a> to keep these in check for a while, and a <a>Rift Elemental</a> that implied he intended to pay echo. Levy was on the losing side of the big green race though, and Kamiel unmorphed <a>Coral Trickster</a> to force through more damage to further pressure the Hall of Famer. </p>&#10;      <p>Raphael drew his card for the turn and scooped them up. It was on to game 2. </p>&#10;      <p>Raphael Levy 0 - 1 Kamiel Cornelissen</p>&#10;      <p>For game 2, Kamiel's third turn morph was pretty mysterious, in that he had a <a>Mountain</a>, <a>Forest</a> and <a>Island</a> up. He followed with <a>Coal Stoker</a>, and eventually a <a>Baru, Fist of Krosa</a>. </p>&#10;      <p>'I didn't know you had that!' declared Raph, who had played a bunch of games against Kamiel during the byes. </p>&#10;      <p>The Frenchman had a <a>Bonesplitter Sliver</a>, that traded with <a>Coal Stoker</a>, and followed with <a>Lymph Sliver</a> and <a>Chronosavant</a> on consecutive turns. Neither of these would fully deal with either the Baru that Kamiel had, nor the <a>Durkwood Baloth</a>. For Baru duty, it was <a>Fatal Attraction</a> that was Levy's removal of choice. </p>&#10;      <p>It looked a little late though when Kamiel unmorphed <a>Coral Trickster</a>, played a <a>Forest</a> and attacked for 11, taking Levy to 7. A <a>Herd Gnarr</a> from Kamiel followed.</p>&#10;      <p>In his upkeep, Raph's <a>Fatal Attraction</a> killed off Baru, but the damage was done. He played a <a>Venser's Sliver</a>, and passed, very much on the defensive. For now the ground was stalled, with the only deciding factor being the 10 point life buffer that Cornelissen held over his opponent. </p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <div>&#10;              <img src="https://www.wizards.com/sideboard/images/gpsto07/r4levy.jpg">&#10;            </div>&#10;            <div>&#10;              <i>Raphael Levy</i>&#10;            </div>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>When Raph attacked with <a>Chronosavant</a>, Kamiel thought a little and chose not to block. His buffer was halved. Levy then used <a>Conflagrate</a> to kill off <a>Herd Gnarr</a> and the <a>Coral Trickster</a>. The following turn, Kamiel had an <a>Uthden Troll</a> with which to block, but it could only regenerate once, so the flashed back <a>Conflagrate</a> was enough to take it out of the game. </p>&#10;      <p>For the third time <a>Chronosavant</a> attacked. This time Kamiel had an <a>Ashcoat Bear</a>, which along with <a>Nessian Courser</a> looked to trade. Levy had a <a>Strangling Soot</a> though, and his 5/5 lived to swing again. It wasn't until the 4th swing that <a>Durkwood Baloth</a> jumped in the way. By now Kamiel's board had been whittled down to nothing.</p>&#10;      <p>All looked lost for Cornelissen in the second game, until he played a <a>Riddle of Lightning</a>, putting all the cards he could to the bottom of his deck. He crossed his fingers and flipped over a card. <a>Errant Ephemeron</a> sealed it.</p>&#10;      <p>Kamiel Cornelissen wins 2-0!</p>&#10;      <br>&#10;      <br>&#10;      <a name="6"> </a>&#10;      <li>&#10;        <b>Saturday, May 5: 4:04 p.m. - Round 6: Rogier Maaten vs. Richard Hoaen</b>&#10;        <div>&#10;          <i>by Tim Willoughby</i>&#10;        </div>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <div>&#10;              <img src="https://www.wizards.com/sideboard/images/gpsto07/r6Maaten.jpg">&#10;            </div>&#10;            <div>&#10;              <i>Rogier Maaten</i>&#10;            </div>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Round 6 saw an interesting feature match, with Richard Hoaen, trying to blend in with the tablecloth in the feature match area thanks to all the blue he's sporting (making a mockery of our 'Where's Richie' game), playing against Rogier Maaten, whose deck is one of the most interesting around today.</p>&#10;      <p>Rogier has a deck with spectacularly few creatures. Fortunately for him, those that he does have are pretty stellar. <a>Sengir Nosferatu</a>, Bogardan Hellkite and <a>Firemaw Kavu</a> are all pretty solid inclusions, and <a>Fathom Seer</a> and <a>Aeon Chronicler</a> are hardly chaff either. What Rogier's deck doesn't lack is removal. With <a>Damnation</a> and <a>Mystical Teachings</a> for such hits as <a>Strangling Soot</a> and <a>Snapback</a> as just the beginning for Rogier's spells, it was unsurprising that he walked into round 6 undefeated. </p>&#10;      <p>Hoaen was pretty quick to take the first game, powering out a selection of beaters faster than Rogier could feasibly deal with them. Stalling slightly on lands such that <a>Sengir Nosferatu</a> couldn't dominate things, Rogier found himself assaulted by a <a>Giant Dustwasp</a> with <a>Griffin Guide</a> to protect against Vampires and <a>Strangling Soot</a>, and succumbed when it was joined by friends.</p>&#10;      <p>Rogier Maaten 0 - 1 Richard Hoaen</p>&#10;      <p>Both players began game 2 with morphs, but Rich seemed aware that Rogier could not afford to trade, and got his hits in first. His <a>Ashcoat Bear</a> as a flashed in blocker took down what was a hefty percentage of the creatures in Rogier's deck by blocking, and survived thanks to <a>Momentary Blink</a>. The morph turned out to be <a>Slipstream Serpent</a> as it went to the graveyard.</p>&#10;      <p>&#10;        <a>Flowstone Embrace</a> did for Hoaen's morphed <a>Whip-Spine Drake</a>, but Rich still had a <a>Giant Dustwasp</a> to play as a 3/3 flyer, and looked to have the early advantage against Rogier with a lone morph. </p>&#10;      <p>Digging for answers, Maaten unmorphed <a>Fathom Seer</a>, then used <a>Firemaw Kavu</a> to kill <a>Ashcoat Bear</a>. A <a>Snapback</a> on it allowed it to kill the Dustwasp, and Rogier got to nip in for 1. <a>Urborg Syphon-Mage</a> followed. </p>&#10;      <p>It was then time for Rich to make and reveal some morphs. He had a <a>Fathom Seer</a> of his own, and a scary looking <a>Maelstrom Djinn</a>, who threatened to be a double Lava Axe unless Rogier could find one of only a few feasible removal spells to deal with it. The big flyer would be tough to kill with damage, and horrible to bounce. </p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <div>&#10;              <img src="https://www.wizards.com/sideboard/images/gpsto07/r6Hoaen.jpg">&#10;            </div>&#10;            <div>&#10;              <i>Richard Hoaen</i>&#10;            </div>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Rogier used a <a>Deepcavern Imp</a> for a hasty 2 damage, but let it die to echo the following turn. He was now in bad shape, as Rich had a <a>Momentary Blink</a> to keep his big flyer with Vanishing alive indefinitely by blinking it before it could vanish. <a>Urborg Syphon-Mage</a> just kept Maaten's head above water for a turn, and finally he was forced to play <a>Damnation</a>, sat at just 2 life. </p>&#10;      <p>Rich appeared to have been waiting for the Wrath effect, and played Drifter <i>il</i>-Dal and <a>Durkwood Baloth</a> to follow. Rogier had <a>Firemaw Kavu</a> to kill the smaller guy, and block and kill the bigger. Rich just played a <a>Spitting Slug</a> and another morph. </p>&#10;      <p>In his upkeep Rogier let the Kavu die to kill the morph (an <a>Aquamorph Entity</a>), but didn't draw anything to get him out of the mess he was in. </p>&#10;      <p>&quot;No Dragon?&quot; asked Rich, knowing that somewhere in Maaten's pile lay a Bogardan Hellkite. </p>&#10;      <p>The extended hand said it all.</p>&#10;      <p>Richard Hoaen wins 2- 0!</p>&#10;      <br>&#10;      <br>&#10;      <a name="7"> </a>&#10;      <li>&#10;        <b>Saturday, May 5: 5:35 p.m. - Quick Questions</b>&#10;        <div>&#10;          <i>by Staff</i>&#10;        </div>&#10;      </li>&#10;      <br>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <h3>What is the best common in Future Sight?</h3>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://www.wizards.com/sideboard/images/gpsto07/QQ_ruel.jpg">&#10;          </td>&#10;          <td>&#10;            <img src="https://www.wizards.com/sideboard/images/gpsto07/QQ_tsumura.jpg">&#10;          </td>&#10;          <td>&#10;            <img src="https://www.wizards.com/sideboard/images/gpsto07/QQ_warmenhoven.jpg">&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>&#10;            <b>Olivier Ruel :</b>&#10;          </td>&#10;          <td>&#10;            <b>Kenji Tsumura :</b>&#10;          </td>&#10;          <td>&#10;            <b>Ruud Warmenhoven :</b>&#10;          </td>&#10;        </tr>&#10;        <tr>&#10;          <td>Either <a>Sprout Swarm</a> or <a>Infiltrator il-Kor</a></td>&#10;          <td>&#10;            <a>Sprout Swarm</a>! Green is the best!</td>&#10;          <td>&#10;            <a>Sprout Swarm</a>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <br>&#10;      <br>&#10;      <br>&#10;      <br>&#10;      <a name="8"> </a>&#10;      <li>&#10;        <b>Saturday, May 5: 6:16 p.m. - Round 8: Shuuhei Nakamura vs. Olle Rade</b>&#10;        <div>&#10;          <i>by Tim Willoughby</i>&#10;        </div>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <p>Olle won the roll and chose to keep his opening grip. For Shuuhei though, it was a double mulligan before he found what he was looking for.</p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <div>&#10;              <img src="https://www.wizards.com/sideboard/images/gpsto07/r8radde.jpg">&#10;            </div>&#10;            <div>&#10;              <i>Olle Rade</i>&#10;            </div>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Considering how many cards he was missing to begin, Shuuhei had a good start for lands, playing out 3 on his first three turns, and a <a>Weatherseed Totem</a>. He had access to red, blue and green mana - it was just a question of what he could do with it. While Olle was playing a <a>Tolarian Sentinel</a> and a morph, for a small amount of beats, Shuuhei had a <a>Careful Consideration</a>. </p>&#10;      <p>&quot;Nice draw&quot; remarked Olle, seeing his opponent get past his mulligan.</p>&#10;      <p>&quot;Maybe&quot; smile Nakamura, eyeing up Rade's board. </p>&#10;      <p>He played a <a>Stuffy Doll</a> and passed. </p>&#10;      <p>Suddenly Olle's attacks were blunted a little, though he had a <a>Bogardan Rager</a> to get more damage through in the air with <a>Tolarian Sentinel</a>. Shuuhei played a Sentinel of his own the turn later, along with a Cloudseeker. These two were quickly put in the bin though, as through a big attack from Olle, <a>Momentary Blink</a> pumped things with the Rager to kill all blockers. </p>&#10;      <p>Shuuhei was at just 8, to Olle's perfect 20, and the Japanese pro played a <a>Primal Plasma</a> as a 2/2 flyer, along with a morph, on the back foot. Olle continued to beat, showing a <a>Gathan Raiders</a> on the ground, and the Sentinel killing Shuuhei's flyer thanks to flashed back blink on Rager. Rade had another flyer in Spiketail Hatchling, making things look very tough for Nakamura.</p>&#10;      <p>Shuuhei's calm professional manner was unchanging, even as Olle used <a>Dream Stalker</a> to bounce his <a>Bogardan Rager</a>, allowing for a <i>fourth</i> go at pumping flying attackers to force trades. Shuuhei tried a trick to stay in it, but when Olle flashed a <a>Rift Bolt</a>, he knew that for the first game he was beaten.</p>&#10;      <p>Shuuhei Nakamura 0 - 1 Olle Rade</p>&#10;      <div>&#10;        <div>&#10;          <a>&#10;            <img alt="Careful Consideration" src="http://gatherer.wizards.com/Handlers/Image.ashx?size=small&amp;type=card&amp;name=Careful%20Consideration&amp;options=">&#10;          </a>&#10;        </div>&#10;      </div>&#10;      <p>For game 2, Shuuhei kept his grip, and led with <a>Nessian Courser</a>, which swiftly died to Ghostflame. Next up <a>Spiketail Drakeling</a> came down, but rather than trading with Aven Augur, it was a <a>Might of Old Krosa</a> that went to the bin for Shuuhei. He played a morph, and attacked the next turn into a <a>Spiketail Drakeling</a> from Rade. This time Nakamura had an <a>Evolution Charm</a> to get his flyer back </p>&#10;      <p>Rade played a big <a>Fomori Nomad</a>, only to have it held back by <a>Second Wind</a>. Both players then committed <a>Tolarian Sentinel</a> to the board - with Olle's looking more powerful as it could effectively save the Nomad from the troublesome enchantment. Just as it looked that the game would stall, Shuuhei again had a <a>Careful Consideration</a> to manoeuvre into position. The name proved apt as Shuuhei planned out what to discard before making his attacks. After combat he suspended <a>Infiltrator <i>il</i>-Kor</a>, and passed. </p>&#10;      <p>Olle had a <a>Rift Bolt</a> to take out Shuuhei's <a>Tolarian Sentinel</a> while it could not bounce itself, but Shuuhei had a response in kind, with <a>Temporal Eddy</a> to bounce one of Olle's creatures to allow for a swing in. </p>&#10;      <p>&#10;        <a>Fomori Nomad</a> briefly came down, only to be bounced by Shuuhei's <a>Riftwing Cloudskate</a>. Olle could still not really get an offence together, and eventually had to bring out the big guns in the form of <a>Lightning Angel</a> to get some damage in. Unfortunately, by this point, he had been whittled by small swings from a growing Nakamura team which were enough to leave him dead to one final swing from Shuuhei.</p>&#10;      <p>Shuuhei Nakamura 1 - 1 Olle Rade</p>&#10;      <p>For the decider, Olle had the first creature on board, with a <a>Flowstone Channeler</a>, but Shuuhei had a threatening <a>Riftwing Cloudskate</a> waiting to come in, and a <a>Llanowar Empath</a>, revealing <a>Unblinking Bleb</a> to follow. Olle played an <a>Aven Augur</a>, and <a>Tolarian Sentinel</a> which was soon bounced by <a>Riftwing Cloudskate</a>. </p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <div>&#10;              <img src="https://www.wizards.com/sideboard/images/gpsto07/r8nakamura.jpg">&#10;            </div>&#10;            <div>&#10;              <i>Shuuhei Nakamura</i>&#10;            </div>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>It came back, but by the time it got there, it was also facing a <a>Crookclaw Transmuter</a>. Shuuhei sent with his entire team, and had <a>Might of Old Krosa</a> to force <a>Tolarian Sentinel</a>'s demise. Olle had a <a>Momentary Blink</a>, but chose to use it to save his Aven Augur rather than the Sentinel. The Blink was flashed back by Rade the following turn to save the 2/2 flyer again. Shuuhei simply shrugged and played more monsters. </p>&#10;      <p>Olle shrugged in turn, and fired a <a>Psionic Blast</a> at the fresh 3/3 that had come out for Shuuhei. He had an <a>Ovinize</a> to kill off another monster in combat, and was suddenly ahead on the board. Shuuhei played <a>Second Wind</a> on Olle's <a>Flowstone Channeler</a>, before committing a morph and <a>Primal Plasma</a> (as a 2/2 flyer) to the board. </p>&#10;      <p>This flyer finally traded with Aven Augur, and attacks made the life totals 10 each. At this point Shuuhei played his bomb - Jedit Ojanjen of Ofrava. By now Olle was out of removal, and the very first 2/2 Cat he faced was his own Hall of Fame card. Next out was John Finkel. Before Darwin Kastle could join the team it was all over.</p>&#10;      <p>Shuuhei Nakamura wins 2-1!</p>&#10;      <br>&#10;      <br>&#10;      <a name="9"> </a>&#10;      <li>&#10;        <b>Saturday, May 5: 6:47 p.m. - Round 9 and Fighting</b>&#10;        <div>&#10;          <i>by Tim Willoughby and Julien Nuijten</i>&#10;        </div>&#10;      </li>&#10;      <br>&#10;      <br>&#10;      <p>Ding ding! </p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <img src="https://www.wizards.com/sideboard/images/gpsto07/nuij.jpg">&#10;          </td>&#10;          <td>&#10;            <img src="https://www.wizards.com/sideboard/images/gpsto07/nuij2.jpg">&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Julien Nujiten is officially the king of the play-fight, but coming into the final round of the day, there are were still a good few pros fighting for their place in day 2. The final round of day 1 of a GP can be a pretty tense time. Going into the round there were quite a few big names on X-2, who, by virtue of their 3 byes, are in good shape to fight for day 2 if they win, but will be relaxing on Sunday (and likely having more fun tonight) if they lose. </p>&#10;      <p>Johan Sadeghpour had not had to travel as far as many, as he has family local to Stockholm, but he was still pretty disappointed not to get there in the final round. A mulligan to four in Game 1 sealed his fate.</p>&#10;      <table>&#10;        <tbody><tr>&#10;          <td>&#10;            <div>&#10;              <img src="https://www.wizards.com/sideboard/images/gpsto07/teeth.jpg">&#10;            </div>&#10;            <div>&#10;              <i>Quentin Martin is in by the skin of his teeth</i>&#10;            </div>&#10;          </td>&#10;        </tr>&#10;      </tbody></table>&#10;      <p>Quentin Martin was another battler, though for him the result was a little happier. While there were some concerning moments in his match, after the dust settled he had the 2-0 he needed to allow him to sneak in at exactly 64th place. </p>&#10;      <p>Craig Jones, after a draw earlier in the day, found himself again going to time, and fell short by a single point. </p>&#10;      <p>With his seven-creature-special, Rogier Maaten got in after a scary couple of losses earlier in the day. With the number of bombs in his deck, he would have been pretty disappointed to miss out on drafting. He had lost one match earlier in the day where he killed <a>Akroma, Angel of Wrath</a> with <a>Damnation</a>, Teferi and <a>Pardic Dragon</a> with <a>Firemaw Kavu</a> + <a>Momentary Blink</a>, and <i>still</i> lost. In the final round he pulled it out though, and got in with a final round win. </p>&#10;      <p>Finally we have Richard Hoaen. Surreal as it looks, the picture says it all. Grumpy Rich he is not. </p>&#10;      <div>&#10;        <img src="https://www.wizards.com/sideboard/images/gpsto07/hoaen.jpg">&#10;      </div>&#10;      <br>&#10;    </td>&#10;  </tr>&#10;</tbody></table>

@@ -1,0 +1,56 @@
+---
+id: 8yqhrjvk
+kind: event
+lang: jav
+path: /jav/events/2008/ptkl08/round-13-pairings
+title: Round 13 Pairings
+published: null
+column_slug: null
+column: null
+authors: []
+event_code: ptkl08
+detected_lang: jav
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/ptkl08/pair13
+    lang_detected: jav
+    capture_id: 1104514
+    url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/ptkl08/pair13
+    captured_at: '2013-07-07 15:07:40+00'
+    rule: aspx.article_heading
+  event_code:
+    page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/ptkl08/pair13
+    lang_detected: jav
+    capture_id: 1104514
+    url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/ptkl08/pair13
+    captured_at: '2013-07-07 15:07:40+00'
+    rule: url.event_code
+sources:
+- document_id: 8yqhrjvk
+  url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/ptkl08/pair13
+  page_key: wizards.com/magic/magazine/events.aspx?x=mtgevent/ptkl08/pair13
+  lang: jav
+  template: aspx
+  captured_at: '2013-07-07 15:07:40+00'
+  capture_id: 1104514
+  wayback_url: https://web.archive.org/web/20130707150740id_/https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/ptkl08/pair13
+- document_id: 8yqhrjvk
+  url: http://www.wizards.com/default.asp?x=mtgevent/ptkl08/pair13
+  page_key: wizards.com/default.asp?x=mtgevent/ptkl08/pair13
+  lang: jav
+  template: classic_asp
+  captured_at: '2008-03-14 00:12:59+00'
+  capture_id: 2095796
+  wayback_url: https://web.archive.org/web/20080314001259id_/http://www.wizards.com/default.asp?x=mtgevent/ptkl08/pair13
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 8yqhrjvk
+  capture_id: 1104514
+  url: https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/ptkl08/pair13
+  wayback_url: https://web.archive.org/web/20130707150740id_/https://www.wizards.com/Magic/Magazine/Events.aspx?x=mtgevent/ptkl08/pair13
+  captured_at: '2013-07-07 15:07:40+00'
+  template: aspx
+  sha256: 603b4e83d765839312779f31c2988cdf608bd4663afd375209ecf5c306bf1ce8
+render_recovery: []
+---
+<table>&#10;  <tbody><tr>&#10;    <td>&#10;      <a href="/jav/events/2008/ptkl08/round-13-pairings">&#10;        <b>Table</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/jav/events/2008/ptkl08/round-13-pairings">&#10;        <b>Player</b>&#10;      </a>&#10;    </td>&#10;    <td>&#10;      <a href="/jav/events/2008/ptkl08/round-13-pairings">&#10;        <b>&#10;      </b></a><b>&#10;    </b></td>&#10;    <td>&#10;      <a href="/jav/events/2008/ptkl08/round-13-pairings">&#10;        <b>Opponent</b>&#10;      </a>&#10;    </td>&#10;  </tr>&#10;  <tr>&#10;    <td>1</td>&#10;    <td>Trembley, Chris [USA]</td>&#10;    <td>vs.</td>&#10;    <td>Kubo, Ryoutarou [JPN]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>2</td>&#10;    <td>Sanchez, Eugeni [ESP]</td>&#10;    <td>vs.</td>&#10;    <td>Sibast, Rasmus [DNK]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>3</td>&#10;    <td>saiyasely, liking [FRA]</td>&#10;    <td>vs.</td>&#10;    <td>Nassif, Gabriel [FRA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>4</td>&#10;    <td>Dun, Peter [ENG]</td>&#10;    <td>vs.</td>&#10;    <td>Stolzmann, John [USA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>5</td>&#10;    <td>Asahara, Akira [JPN]</td>&#10;    <td>vs.</td>&#10;    <td>Petric Maretic, Grgur [HRV]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>6</td>&#10;    <td>Flaaten, Christian [NOR]</td>&#10;    <td>vs.</td>&#10;    <td>Eberbach, Wolf [DEU]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>7</td>&#10;    <td>Hajnisz, Aleksander [POL]</td>&#10;    <td>vs.</td>&#10;    <td>Raphaël, Gennari [CHE]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>8</td>&#10;    <td>Loeb, Davy [POL]</td>&#10;    <td>vs.</td>&#10;    <td>Jacks, Andy [USA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>9</td>&#10;    <td>Finkel, Jon [USA]</td>&#10;    <td>vs.</td>&#10;    <td>Carvalho, Marcio [PRT]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>10</td>&#10;    <td>Komuro, Shuu [JPN]</td>&#10;    <td>vs.</td>&#10;    <td>Cheon, Paul [USA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>11</td>&#10;    <td>Sadin, Steven [USA]</td>&#10;    <td>vs.</td>&#10;    <td>Demazeau, Fabien [FRA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>12</td>&#10;    <td>Howard, David [USA]</td>&#10;    <td>vs.</td>&#10;    <td>Scheel, Brandon [USA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>13</td>&#10;    <td>Hu, Haibing [USA]</td>&#10;    <td>vs.</td>&#10;    <td>Senyuz, Aras [TKL]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>14</td>&#10;    <td>Preyer, Thomas [AUT]</td>&#10;    <td>vs.</td>&#10;    <td>Mains, Michael [USA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>15</td>&#10;    <td>Zatlkaj, Matej [SVK]</td>&#10;    <td>vs.</td>&#10;    <td>Martin, Quentin [ENG]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>16</td>&#10;    <td>Mueller, Andre [DEU]</td>&#10;    <td>vs.</td>&#10;    <td>Stanoev, Ivan [CZE]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>17</td>&#10;    <td>Jobstl, Markus [AUT]</td>&#10;    <td>vs.</td>&#10;    <td>perin, lionel [FRA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>18</td>&#10;    <td>Tanaka, Hisaya [JPN]</td>&#10;    <td>vs.</td>&#10;    <td>Ruess, Jan [DEU]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>19</td>&#10;    <td>Johnson, Jacob [USA]</td>&#10;    <td>vs.</td>&#10;    <td>Netterstrøm, No [DNK]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>20</td>&#10;    <td>Tagi-Zade, Eldar [RUS]</td>&#10;    <td>vs.</td>&#10;    <td>Wintermantel, Thomas [FRA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>21</td>&#10;    <td>Kim, Cynic [KOR]</td>&#10;    <td>vs.</td>&#10;    <td>phanchaicharoen, Viroj [THA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>22</td>&#10;    <td>Jia, Bin [CHN]</td>&#10;    <td>vs.</td>&#10;    <td>Park, Jun Young [KOR]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>23</td>&#10;    <td>Thaler, Sebastian [DEU]</td>&#10;    <td>vs.</td>&#10;    <td>Rus, Tine [SVN]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>24</td>&#10;    <td>Hahn, Jurgen [CAN]</td>&#10;    <td>vs.</td>&#10;    <td>Wafo-tapa, Guillaume [FRA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>25</td>&#10;    <td>Xu, Ming [CHN]</td>&#10;    <td>vs.</td>&#10;    <td>Gräfensteiner, Daniel [DEU]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>26</td>&#10;    <td>Conkle, Mark [USA]</td>&#10;    <td>vs.</td>&#10;    <td>Hron, Mike [USA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>27</td>&#10;    <td>Shapiro, Jeremy [USA]</td>&#10;    <td>vs.</td>&#10;    <td>Golia, Patrizio [ITA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>28</td>&#10;    <td>Kitayama, Masaya [JPN]</td>&#10;    <td>vs.</td>&#10;    <td>carson-wenmoth, paul [NZL]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>29</td>&#10;    <td>Rico Bleda, Alejandro [ESP]</td>&#10;    <td>vs.</td>&#10;    <td>Locke, Steve [USA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>30</td>&#10;    <td>Nakamura, Shuuhei [JPN]</td>&#10;    <td>vs.</td>&#10;    <td>Blackwell, Conan [USA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>31</td>&#10;    <td>Sjoblom, Max [FIN]</td>&#10;    <td>vs.</td>&#10;    <td>Potovin, Nicolay [RUS]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>32</td>&#10;    <td>Karsten, Frank [NLD]</td>&#10;    <td>vs.</td>&#10;    <td>Romão, Carlos [BRA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>33</td>&#10;    <td>Stein, Sam [USA]</td>&#10;    <td>vs.</td>&#10;    <td>Hung, Chi Hang [SGP]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>34</td>&#10;    <td>Lombardi, Paolo [ITA]</td>&#10;    <td>vs.</td>&#10;    <td>Menard, Antoine [FRA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>35</td>&#10;    <td>Torstensson, Benny [SWE]</td>&#10;    <td>vs.</td>&#10;    <td>Van Goethem, Stijn [BEL]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>36</td>&#10;    <td>Youn Ming, Hwung [TWN]</td>&#10;    <td>vs.</td>&#10;    <td>Shiozu, Ryouma [JPN]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>37</td>&#10;    <td>Ruel, Antoine [FRA]</td>&#10;    <td>vs.</td>&#10;    <td>Chijimi, Keiichi [JPN]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>38</td>&#10;    <td>Vidugiris, Gaudenis [USA]</td>&#10;    <td>vs.</td>&#10;    <td>Baussaron, Pierre [FRA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>39</td>&#10;    <td>Massicard, Yann [FRA]</td>&#10;    <td>vs.</td>&#10;    <td>Chua, Chang [SGP]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>40</td>&#10;    <td>Maaten, Rogier [NLD]</td>&#10;    <td>vs.</td>&#10;    <td>Kettil, Mattias [SWE]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>41</td>&#10;    <td>Profeta, Francis Rober [PHL]</td>&#10;    <td>vs.</td>&#10;    <td>Bernabe, Julio [CHL]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>42</td>&#10;    <td>Levy, Raphael [FRA]</td>&#10;    <td>vs.</td>&#10;    <td>Webb, Taylor [USA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>43</td>&#10;    <td>Kurihara, Shingou [JPN]</td>&#10;    <td>vs.</td>&#10;    <td>Bohny, Nico [CHE]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>44</td>&#10;    <td>Mitamura, Kazuya [JPN]</td>&#10;    <td>vs.</td>&#10;    <td>Piechnick, Daniel [AUS]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>45</td>&#10;    <td>Barra, Giulio [ITA]</td>&#10;    <td>vs.</td>&#10;    <td>Sadeghpour, Johan [SWE]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>46</td>&#10;    <td>Cape, Phil [USA]</td>&#10;    <td>vs.</td>&#10;    <td>Lippi, Alessandro [ITA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>47</td>&#10;    <td>Nakano, Fumiki [JPN]</td>&#10;    <td>vs.</td>&#10;    <td>Rohner, Adriano [ESP]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>48</td>&#10;    <td>Hermes, Maxime [FRA]</td>&#10;    <td>vs.</td>&#10;    <td>Sissala, Paavo [FIN]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>49</td>&#10;    <td>Rayner, Hugh [AUS]</td>&#10;    <td>vs.</td>&#10;    <td>Krish, Rondy [SGP]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>50</td>&#10;    <td>Osawa, Takuya [JPN]</td>&#10;    <td>vs.</td>&#10;    <td>Koska, Adam [CZE]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>51</td>&#10;    <td>Satou, Rei [JPN]</td>&#10;    <td>vs.</td>&#10;    <td>Pisawong, Surapong [THA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>52</td>&#10;    <td>Pascoli, Mario [ITA]</td>&#10;    <td>vs.</td>&#10;    <td>Calafell, Joel [ESP]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>53</td>&#10;    <td>Herzog, Nicolai [NOR]</td>&#10;    <td>vs.</td>&#10;    <td>Juza, Martin [CZE]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>54</td>&#10;    <td>van Medevoort, Robert [NLD]</td>&#10;    <td>vs.</td>&#10;    <td>Bucher, Manuel [CHE]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>55</td>&#10;    <td>Nakano, Yoshitaka [JPN]</td>&#10;    <td>vs.</td>&#10;    <td>Takahashi, Yuuta [JPN]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>56</td>&#10;    <td>Greene, Christopher [USA]</td>&#10;    <td>vs.</td>&#10;    <td>Siftar, Nate [USA]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>57</td>&#10;    <td>DeTora, Melissa [USA]</td>&#10;    <td>vs.</td>&#10;    <td>Ang, Junyang [SGP]</td>&#10;  </tr>&#10;  <tr>&#10;    <td>58</td>&#10;    <td>Ruel, Olivier [FRA]</td>&#10;    <td>vs.</td>&#10;    <td>Nan, Tu [CHN]</td>&#10;  </tr>&#10;  <tr>&#10;    <td> </td>&#10;    <td>Bertelsen, Nathan [USA]</td>&#10;    <td> </td>&#10;    <td>* BYE *</td>&#10;  </tr>&#10;  <tr>&#10;    <td> </td>&#10;    <td>Kunnen, Rudie [NLD]</td>&#10;    <td> </td>&#10;    <td>* BYE </td>&#10;  </tr>&#10;</tbody></table>

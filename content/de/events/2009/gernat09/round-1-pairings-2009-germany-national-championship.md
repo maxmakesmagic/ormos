@@ -1,0 +1,63 @@
+---
+id: e22x4hbh
+kind: event
+lang: de
+path: /de/events/2009/gernat09/round-1-pairings-2009-germany-national-championship
+title: Round 1 Pairings -- 2009 Germany National Championship
+published: '2009-08-14'
+column_slug: null
+column: null
+authors: []
+event_code: gernat09
+detected_lang: de
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-1-pairings-2009-germany-national-championship-2009-08-14
+    lang_detected: de
+    capture_id: 479675
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-1-pairings-2009-germany-national-championship-2009-08-14
+    captured_at: '2022-01-18 10:58:27+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/round-1-pairings-2009-germany-national-championship-2009-08-14
+    lang_detected: de
+    capture_id: 479675
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/round-1-pairings-2009-germany-national-championship-2009-08-14
+    captured_at: '2022-01-18 10:58:27+00'
+    rule: drupal.posted_in_date
+  event_code:
+    page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gernat09/pair1
+    lang_detected: de
+    capture_id: 398392
+    url: http://www.wizards.com/Magic/Magazine/article.aspx?x=mtg/daily/eventcoverage/gernat09/pair1
+    captured_at: '2013-07-01 18:24:52+00'
+    rule: url.event_code
+sources:
+- document_id: e22x4hbh
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-1-pairings-2009-germany-national-championship-2009-08-14
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/round-1-pairings-2009-germany-national-championship-2009-08-14
+  lang: de
+  template: drupal
+  captured_at: '2022-01-18 10:58:27+00'
+  capture_id: 479675
+  wayback_url: https://web.archive.org/web/20220118105827id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-1-pairings-2009-germany-national-championship-2009-08-14
+- document_id: e22x4hbh
+  url: http://www.wizards.com/Magic/Magazine/article.aspx?x=mtg/daily/eventcoverage/gernat09/pair1
+  page_key: wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/gernat09/pair1
+  lang: de
+  template: aspx
+  captured_at: '2013-07-01 18:24:52+00'
+  capture_id: 398392
+  wayback_url: https://web.archive.org/web/20130701182452id_/http://www.wizards.com/Magic/Magazine/article.aspx?x=mtg/daily/eventcoverage/gernat09/pair1
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: e22x4hbh
+  capture_id: 479675
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/round-1-pairings-2009-germany-national-championship-2009-08-14
+  wayback_url: https://web.archive.org/web/20220118105827id_/https://magic.wizards.com/en/articles/archive/event-coverage/round-1-pairings-2009-germany-national-championship-2009-08-14
+  captured_at: '2022-01-18 10:58:27+00'
+  template: drupal
+  sha256: ad247a4d8c02c0bb20040aba9303a30317712e5d2ac0164a7affd8f0d088aa6b
+render_recovery: []
+---
+<table><tbody><tr><td><b>Table</b></td><td><b>Player</b></td><td><b>&#10;						</b></td><td><b>Opponent</b></td></tr><tr><td> 48</td><td>Sparwald, Hannu</td><td>vs.</td><td>Silny, Andre</td></tr><tr><td> 19</td><td>Sabel, Dion</td><td>vs.</td><td>Ehrismann, Tobias</td></tr><tr><td> 57</td><td>Brendemühl, Bernd</td><td>vs.</td><td>Durka, Kilian</td></tr><tr><td> 56</td><td>Hüttenberger, Christian</td><td>vs.</td><td>Wirkus, Kai</td></tr><tr><td> 55</td><td>Ritter, Simon</td><td>vs.</td><td>Paulmaier, Benjamin</td></tr><tr><td> 20</td><td>Steeger, Thomas</td><td>vs.</td><td>Gruenenwald, Christian</td></tr><tr><td> 18</td><td>Passow, Christopher</td><td>vs.</td><td>Mazzurco, Carlo</td></tr><tr><td> 22</td><td>Sudmann, Jan</td><td>vs.</td><td>Ohlhof, Frank</td></tr><tr><td> 61</td><td>Mitschang, Thomas</td><td>vs.</td><td>Lorenz, Konstantin</td></tr><tr><td> 15</td><td>Hollmann, Marc</td><td>vs.</td><td>Rueß, Jan</td></tr><tr><td> 17</td><td>Martin, Malik</td><td>vs.</td><td>Kohl, Reinhold</td></tr><tr><td> 62</td><td>Frey, Alexander</td><td>vs.</td><td>Muecke, Sebastian</td></tr><tr><td> 21</td><td>Scholz, Hannes</td><td>vs.</td><td>Kirchner, David</td></tr><tr><td> 52</td><td>Brandt, Sebastian</td><td>vs.</td><td>Sauter, Franz</td></tr><tr><td> 14</td><td>Stevens, Henk</td><td>vs.</td><td>Severin, Thoralf</td></tr><tr><td> 41</td><td>Wahl, Oliver</td><td>vs.</td><td>Habermann, Marvin</td></tr><tr><td> 39</td><td>Drenger, Frieder-Michel</td><td>vs.</td><td>Materne, Philipp</td></tr><tr><td> 37</td><td>Darnhofer, Robert</td><td>vs.</td><td>Gerber, Christoph</td></tr><tr><td> 30</td><td>Brade, Raphael</td><td>vs.</td><td>Unfried, Jörg</td></tr><tr><td> 40</td><td>Stephan, Jürgen</td><td>vs.</td><td>Sappl, Josef</td></tr><tr><td> 29</td><td>Diezel, Michael</td><td>vs.</td><td>Schreiber, Andreas</td></tr><tr><td> 51</td><td>Libkin, Eugen</td><td>vs.</td><td>Fischer-Gundlach, Moritz</td></tr><tr><td> 45</td><td>Hauck, Christian</td><td>vs.</td><td>Bamberger, Sven</td></tr><tr><td> 49</td><td>Fischer, Florian</td><td>vs.</td><td>Michels, Tim</td></tr><tr><td> 24</td><td>Pils, Florian</td><td>vs.</td><td>Schumacher, Jens</td></tr><tr><td> 25</td><td>Wörner, Jürgen</td><td>vs.</td><td>Holzhey, Christoph</td></tr><tr><td> 66</td><td>Brenner, Martin</td><td>vs.</td><td>Grimmer, Jasper</td></tr><tr><td> 16</td><td>Thaler, Sebastian</td><td>vs.</td><td>Hemmer, Philipp</td></tr><tr><td> 68</td><td>Ludewig, Matthias</td><td>vs.</td><td>Müller, Andreas</td></tr><tr><td> 9</td><td>Schraut, Andreas</td><td>vs.</td><td>Passin, Mathias</td></tr><tr><td> 7</td><td>Leigh, Simon</td><td>vs.</td><td>Keppel, Marco</td></tr><tr><td> 82</td><td>Knauf, Daniel</td><td>vs.</td><td>Marksfeld, René</td></tr><tr><td> 81</td><td>Budde, Jan-Philipp</td><td>vs.</td><td>Winter, Sascha</td></tr><tr><td> 6</td><td>Geist, Jonathan</td><td>vs.</td><td>Reinhardt, Fabio</td></tr><tr><td> 85</td><td>Schäfer, Carsten</td><td>vs.</td><td>Hubacsek, Christian</td></tr><tr><td> 86</td><td>Vogt, Marc</td><td>vs.</td><td>Kuchenbecker, Sebastian</td></tr><tr><td> 90</td><td>Hittel, Matthias</td><td>vs.</td><td>Stöter, Erik</td></tr><tr><td> 3</td><td>Gräfensteiner, Tobias</td><td>vs.</td><td>Kracker, Nikolai</td></tr><tr><td> 87</td><td>Schild, Stefan</td><td>vs.</td><td>Maij, Rosario</td></tr><tr><td> 4</td><td>von Kalkstein, Christian</td><td>vs.</td><td>Strobach, Patrick</td></tr><tr><td> 92</td><td>Joens, Klaus</td><td>vs.</td><td>Jell, Phillip</td></tr><tr><td> 78</td><td>Kreuz, Alexander</td><td>vs.</td><td>Ecker, Danny</td></tr><tr><td> 12</td><td>Grudowski, Dennis</td><td>vs.</td><td>Reichel-Dittes, Christopher</td></tr><tr><td> 70</td><td>Johannsen, Dennis</td><td>vs.</td><td>Rosenberger, Alexander</td></tr><tr><td> 77</td><td>Koller, Tobias</td><td>vs.</td><td>Schulmerich, Felix</td></tr><tr><td> 11</td><td>Wilkens, Jens</td><td>vs.</td><td>Rechthaler, Dominik</td></tr><tr><td> 73</td><td>Geiger, Jürgen</td><td>vs.</td><td>Blumm, Christian</td></tr><tr><td> 2</td><td>Surkamp, Florian</td><td>vs.</td><td>Rösner, Bodo</td></tr><tr><td> 76</td><td>Luff, Andre</td><td>vs.</td><td>Schmeußer, Simon</td></tr><tr><td> 75</td><td>Krzikalla, Olaf</td><td>vs.</td><td>Koksch, Florian</td></tr><tr><td> 5</td><td>Ziesche, Sebastian</td><td>vs.</td><td>Kalkmann, Tim</td></tr><tr><td> 13</td><td>Bosselmann, Daniel</td><td>vs.</td><td>Thomas, Niklas</td></tr><tr><td> 38</td><td>Bauche, Marcel</td><td>vs.</td><td>Heinrich, Artie</td></tr><tr><td> 31</td><td>Morys, Stefan</td><td>vs.</td><td>Knabe, Fabian</td></tr><tr><td> 23</td><td>Gerecke, Piet</td><td>vs.</td><td>Simon, Swen</td></tr><tr><td> 28</td><td>Burgos, Christian</td><td>vs.</td><td>von Drehle, Christian</td></tr><tr><td> 10</td><td>Oehler, Martin</td><td>vs.</td><td>Sinner, Denis</td></tr><tr><td> 33</td><td>Kempf, Bastian</td><td>vs.</td><td>Jungmann, Thomas</td></tr><tr><td> 8</td><td>Löchert, Johannes</td><td>vs.</td><td>Beckmann, Bertram</td></tr><tr><td> 27</td><td>Görtzen, Simon</td><td>vs.</td><td>Klings, Rüdiger</td></tr><tr><td> 26</td><td>Wildner, Eric</td><td>vs.</td><td>Hübner, Sebastian</td></tr><tr><td> 32</td><td>Creutz, Christian</td><td>vs.</td><td>Wels, Tobias</td></tr><tr><td> 95</td><td>Sonnenschein, Benedikt</td><td>vs.</td><td>Baruti, Xhemil</td></tr><tr><td> 34</td><td>Trunk, Marcel</td><td>vs.</td><td>Rauer, Jörg</td></tr><tr><td> 35</td><td>Geißler, Gunnar</td><td>vs.</td><td>Steinert, Roman</td></tr><tr><td> 74</td><td>Arndt, Georg</td><td>vs.</td><td>Langner, Matthias</td></tr><tr><td> 72</td><td>Schmittbuettner, Markus</td><td>vs.</td><td>Steinborn, Robin</td></tr><tr><td> 71</td><td>Wallendorf, Jonas</td><td>vs.</td><td>Dalbke, Dennis</td></tr><tr><td> 69</td><td>Stahl, Gerry</td><td>vs.</td><td>Bisterfeld, Martin</td></tr><tr><td> 67</td><td>Porojan, Raul</td><td>vs.</td><td>Brackmann, Aaron</td></tr><tr><td> 79</td><td>Blanco Trillo, Roberto</td><td>vs.</td><td>Soude, Vincent</td></tr><tr><td> 80</td><td>Kovacs, Christof</td><td>vs.</td><td>Knoerr, Sebastian</td></tr><tr><td> 83</td><td>Anders, Torsten</td><td>vs.</td><td>Fromm, Felix</td></tr><tr><td> 91</td><td>Heruth, Martin</td><td>vs.</td><td>Nägele, Niclas</td></tr><tr><td> 93</td><td>Eder, Wolfgang</td><td>vs.</td><td>Weller, Jonas</td></tr><tr><td> 89</td><td>Jeschke, Benjamin</td><td>vs.</td><td>Wolf, Manuel</td></tr><tr><td> 84</td><td>Loger, Sascha</td><td>vs.</td><td>Filler, Michael</td></tr><tr><td> 88</td><td>Drewes, David</td><td>vs.</td><td>Dreger, Tobias</td></tr><tr><td> 65</td><td>Weidemann, Paul</td><td>vs.</td><td>Baum, Philipp</td></tr><tr><td> 64</td><td>Meissner, Patrick</td><td>vs.</td><td>Staat, Philipp</td></tr><tr><td> 63</td><td>Wagner, Stefan</td><td>vs.</td><td>Burgold, Lino</td></tr><tr><td> 43</td><td>Juergens, Dorian</td><td>vs.</td><td>Gierse, Alexander</td></tr><tr><td> 44</td><td>Oeser, Jens</td><td>vs.</td><td>Lindner, Marcus</td></tr><tr><td> 42</td><td>Götze, Felix</td><td>vs.</td><td>Spenner, Dennis</td></tr><tr><td> 47</td><td>Lewandowski, Mathias</td><td>vs.</td><td>Mostek, Sten-Magnus</td></tr><tr><td> 36</td><td>Dosch, Sven</td><td>vs.</td><td>Hagedorn, David</td></tr><tr><td> 46</td><td>Gräfensteiner, Daniel</td><td>vs.</td><td>Hofmann, Mike</td></tr><tr><td> 94</td><td>Maurer, Tobias</td><td>vs.</td><td>Müller, Michael</td></tr><tr><td> 60</td><td>Luy, Theo</td><td>vs.</td><td>Ortmann, Christoph</td></tr><tr><td> 58</td><td>Reinschmidt, Christian</td><td>vs.</td><td>Gerstmayer, Thorsten</td></tr><tr><td> 59</td><td>Altensen, Tim</td><td>vs.</td><td>Thomsen, Sascha</td></tr><tr><td> 54</td><td>Radzom, Gunnar</td><td>vs.</td><td>Fanghaenel, Alex</td></tr><tr><td> 50</td><td>Baris, Dennis</td><td>vs.</td><td>Al-Bacha, Wesimo</td></tr><tr><td> 53</td><td>Zimmermann, Martin</td><td>vs.</td><td>Plagge, Julian</td></tr><tr><td> 1</td><td>Passin, Philip</td><td>vs.</td><td>Schnider, Jakob</td></tr></tbody></table>

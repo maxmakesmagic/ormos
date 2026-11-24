@@ -1,0 +1,117 @@
+---
+id: h7fkny2g
+kind: event
+lang: en
+path: /en/events/2003/gpgen03/round-five-feature-match-jan-doise-bel-vs-sylvain-lauriol-fra
+title: 'Round Five Feature Match: Jan Doise (BEL) vs. Sylvain Lauriol (FRA)'
+published: null
+column_slug: null
+column: null
+authors: []
+event_code: gpgen03
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: wizards.com/magic/magazine/article.aspx?x=sideboard/gpgen03/fm5a
+    lang_detected: en
+    capture_id: 847556
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/gpgen03/fm5a
+    captured_at: '2013-07-01 17:57:52+00'
+    rule: aspx.article_heading
+  event_code:
+    page_key: wizards.com/magic/magazine/article.aspx?x=sideboard/gpgen03/fm5a
+    lang_detected: en
+    capture_id: 847556
+    url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/gpgen03/fm5a
+    captured_at: '2013-07-01 17:57:52+00'
+    rule: url.event_code
+sources:
+- document_id: h7fkny2g
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/gpgen03/fm5a
+  page_key: wizards.com/magic/magazine/article.aspx?x=sideboard/gpgen03/fm5a
+  lang: en
+  template: aspx
+  captured_at: '2013-07-01 17:57:52+00'
+  capture_id: 847556
+  wayback_url: https://web.archive.org/web/20130701175752id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/gpgen03/fm5a
+- document_id: h7fkny2g
+  url: http://www.wizards.com/default.asp?x=sideboard/gpgen03/fm5a,,fr
+  page_key: wizards.com/default.asp?x=sideboard/gpgen03/fm5a
+  lang: en
+  template: classic_asp
+  captured_at: '2005-12-01 04:28:37+00'
+  capture_id: 2222763
+  wayback_url: https://web.archive.org/web/20051201042837id_/http://www.wizards.com/default.asp?x=sideboard/gpgen03/fm5a,,fr
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: h7fkny2g
+  capture_id: 847556
+  url: https://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/gpgen03/fm5a
+  wayback_url: https://web.archive.org/web/20130701175752id_/https://www.wizards.com/Magic/Magazine/Article.aspx?x=sideboard/gpgen03/fm5a
+  captured_at: '2013-07-01 17:57:52+00'
+  template: aspx
+  sha256: 2c5f5a9991a9e7edfbb05098936b36a0602d2dbb844d859990915546bc60649f
+render_recovery: []
+---
+Two former National Champions who speak the same language. Thankfully I do understand a bit of French (which normally means listening to a lot of cursing at Feature Matches). Being Pro Tour regulars it's somewhat strange to find them here instead of seeing their names on the Pro Tour Boston lists, but such is the life of a Pro Tour player.
+
+### Game One
+
+![](https://www.wizards.com/sideboard/images/gpgen03/a981.jpg)Sylvain Had to send his first hand back. Still he was the first turn move with a second turn Piledriver. Doise played a first turn Island and went into "Vas-Y" ("Go") mode. He cycled Eternal Dragon for the second Plains to drop Sliver Knight and decided to sit behind it.
+
+Across the table Lauriol dropped Incinerator and showed his true colors, fetching a Swamp and Smothering the blocker out of the way. Doise returned the favor with Wing Shards getting the Piledriver.
+
+The Frenchman slowed only to fetch his second Swamp and played Skirk Prospector. Jan Doise got himself two Soldiers with a cycled Decree of Justice and sent them back at Sylvain before playing another Silver Knight. Again Lauriol had Smother.
+
+Doise cycled a Complicate but his opponent had enough mana. The incoming swing dropped him to seven and Lauriol added a Goblin Piledriver to his army. The Soldiers sat back in defense but Lauriol didn't even blink: he sent EVERYONE in.
+
+A Wing Shards got the Prospector and after some thought a second Shards took out the two remaining attackers. Lauriol laughed it off and played Siege-Gang Commander with his opponent at seven and seven lands. The Belgium put on his thinking hat and after a few moments played Exalted Angel. Just like that.
+
+Lauriol hardly noticed. He drew, played the eight land and his opponent promptly reached for the sideboard.
+
+Sylvain 1-0 Jan.
+
+### Game Two
+
+![](https://www.wizards.com/sideboard/images/gpgen03/a983.jpg)Sylvain's first turn Sledder quickly went to work on the Red Zone but his second creature was the real danger: Interrogator. Doise tried to fight back with a morphed Angel but as any good played Lauriol had the timely Smother.
+
+Eager to stop the bleeding Jan Doise tapped four mana and played Windborn Muse. Almost locked out of the Red Zone Lauriol let his Interrogator do the talking, costing Doise two Akroma's Vengeance.
+
+A second Muse not only clearly locked the Frenchman out of the Red Zone but gave Doise a potent air threat. A Polluted Delta revealed Lauriol's third color, Blue. He used it to cast Read The Runes for two. After a Kamielesque (ie. very long) deliberation he discarded Commander and Smother.
+
+The Belgium went on a cycling rampage, reaching seven lands in play and brought Lauriol within two Double-Muse strikes of losing the game. Across the table Lauriol hunched over his cards for a few moments eventually playing Sharpshooter and Prospector.
+
+Chain of Vapor bounced the Sharpshooter and Doise played a third Muse and Silver Knight giving Lauriol a big puzzle to solve. The Frenchman surveyed the table and found no way to deal sixteen damage of stop Jan unblockable army.
+
+Sylvain 1-1 Jan.
+
+### Game Three
+
+Again the first turn Sledder had the Red Zone all to himself and again Doise shut it down with a second turn Silver Knight. Lauriol tried to branch out with Piledriver and Doise decided to bluff the Wing Shards or the Complicate he had instead of playing another Knight. 
+
+Sylvain decided to try Goblin Warchief and sure enough Doise used Complicate to counter it. Interrogator came into play and the Belgium surprised Lauriol by attacking the Knight. The Interrogator blocked it and two Goblins died to save the Black creature. Still, Doise felt he needed to get the Interrogator out of the table: Akroma's Vengeance did just that.
+
+Sylvain: "He is so small!"  
+ Jan: "He is scary..."
+
+Lauriol was down to two cards, no creatures and an opponent at nineteen. Things did not look good for the Frenchman. Swiftly Doise tried to press that advantage. He played Silver Knight with mana open for a possible counter (who would have thought we would be discussing counters in a Onslaught Block Constructed event?).
+
+He followed it with a morph and still had just enough mana to Complicate a Read The Runes for five. Sylvian Lauriol thought about it and played Siege-Gang Commander. A sacrificed token later the morphed died. It was Chromeshell Crab. Chain of Vapor took out another token before Lauriol could untap and the Silver Knight continued his lonely damage race.
+
+At this rate Sylvian would catch and overtake Doise quickly. The Belgium needed to slow things down. He kept his Knight back bidding his time. On the following turn - still one White mana short of casting Akroma - he played another morph. Lauriol tried to ice the morph but Jan Doise revealed Exalted Angel.
+
+A quick graveyard consultation revealed Doise had already used two Complicates. Lauriol did, and redid his math staring at his graveyard. Finally he made up his mind. He threw his two remaining Goblins at Doise's head, untapped and tried the Patriarch's Bidding.
+
+Doise shrugged. In came a Silver Knight and a gazillion Goblins. Well, actually a Commander, two Incinerators, Warchief, Piledriver and the Commander gangs.
+
+Sylvain: "Can I attack?"  
+ Jan(doing the math): "Wait... that's just enough damage."
+
+Again, and again, and again, Jan Doise did the math. He always came out on the losing side of it. Finally convinced he had lost the game he conceded. Then Sylvain Lauriol explain how he could have used the Chain of Vapor to survive.
+
+He should have used it during the combat step before the declaration of attackers. That would take out the haste from everyone and give Doise and extra draw step to find some help.
+
+Jan: "I can't believe I missed that!"
+
+Final Result:  
+ Sylvain 2-1 Jan.

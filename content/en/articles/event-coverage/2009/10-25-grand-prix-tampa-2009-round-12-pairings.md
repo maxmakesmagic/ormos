@@ -1,0 +1,47 @@
+---
+id: 3pctrr84
+kind: event
+lang: en
+path: /en/articles/event-coverage/2009/10-25-grand-prix-tampa-2009-round-12-pairings
+title: 'Grand Prix Tampa 2009: Round 12 Pairings'
+published: '2009-10-25'
+column_slug: event-coverage
+column: Event Coverage
+authors: []
+detected_lang: en
+metadata_evidence:
+  title:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-tampa-2009-round-12-pairings-2009-10-25
+    lang_detected: en
+    capture_id: 432700
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-tampa-2009-round-12-pairings-2009-10-25
+    captured_at: '2022-07-05 04:23:33+00'
+    rule: meta.og_title
+  published:
+    page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-tampa-2009-round-12-pairings-2009-10-25
+    lang_detected: en
+    capture_id: 432700
+    url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-tampa-2009-round-12-pairings-2009-10-25
+    captured_at: '2022-07-05 04:23:33+00'
+    rule: drupal.posted_in_date
+sources:
+- document_id: 3pctrr84
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-tampa-2009-round-12-pairings-2009-10-25
+  page_key: magic.wizards.com/en/articles/archive/event-coverage/grand-prix-tampa-2009-round-12-pairings-2009-10-25
+  lang: en
+  template: drupal
+  captured_at: '2022-07-05 04:23:33+00'
+  capture_id: 432700
+  wayback_url: https://web.archive.org/web/20220705042333id_/https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-tampa-2009-round-12-pairings-2009-10-25
+source_selection: The catalog's primary source rendered.
+archive_source:
+  document_id: 3pctrr84
+  capture_id: 432700
+  url: https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-tampa-2009-round-12-pairings-2009-10-25
+  wayback_url: https://web.archive.org/web/20220705042333id_/https://magic.wizards.com/en/articles/archive/event-coverage/grand-prix-tampa-2009-round-12-pairings-2009-10-25
+  captured_at: '2022-07-05 04:23:33+00'
+  template: drupal
+  sha256: 6a5a7d0df80d2075a6dbeb5949eb399b00ce00f38f0eb028c51f3027ef79c073
+render_recovery: []
+---
+<table><thead><tr><th>Table</th>&#10;			<th>Player</th>&#10;			<th> </th>&#10;			<th>Opponent</th>&#10;		</tr></thead><tbody></tbody><tbody><tr><td>47</td>&#10;			<td>Vidugiris, Gaudenis</td>&#10;			<td>vs.</td>&#10;			<td>Juza, Martin</td>&#10;		</tr><tr><td>48</td>&#10;			<td>massicard, yann</td>&#10;			<td>vs.</td>&#10;			<td>Majlaton, Alex S</td>&#10;		</tr><tr><td>62</td>&#10;			<td>Nassif, Gabriel</td>&#10;			<td>vs.</td>&#10;			<td>Woods, Conley L</td>&#10;		</tr><tr><td>1</td>&#10;			<td>Siow, Lucas E</td>&#10;			<td>vs.</td>&#10;			<td>Lundquist, Benjamin R</td>&#10;		</tr><tr><td>19</td>&#10;			<td>Ross, Tom R</td>&#10;			<td>vs.</td>&#10;			<td>vieira, guilherme b</td>&#10;		</tr><tr><td>40</td>&#10;			<td>Skinner, John</td>&#10;			<td>vs.</td>&#10;			<td>Jones, Glenn C</td>&#10;		</tr><tr><td>16</td>&#10;			<td>Marr, Mat</td>&#10;			<td>vs.</td>&#10;			<td>Littlefield, Mark E</td>&#10;		</tr><tr><td>33</td>&#10;			<td>Stark, Ben S</td>&#10;			<td>vs.</td>&#10;			<td>Calafell, Joel</td>&#10;		</tr><tr><td>17</td>&#10;			<td>Waxer, Nathan J</td>&#10;			<td>vs.</td>&#10;			<td>May, John</td>&#10;		</tr><tr><td>34</td>&#10;			<td>Calderon, Andrew</td>&#10;			<td>vs.</td>&#10;			<td>Carpenter, Bradley</td>&#10;		</tr><tr><td>15</td>&#10;			<td>Ruess, Jan H</td>&#10;			<td>vs.</td>&#10;			<td>Ong, Brian J</td>&#10;		</tr><tr><td>5</td>&#10;			<td>Kopec, Mateusz</td>&#10;			<td>vs.</td>&#10;			<td>Franco, André</td>&#10;		</tr><tr><td>13</td>&#10;			<td>McNeeley, Sheamus</td>&#10;			<td>vs.</td>&#10;			<td>Valenti, Christian</td>&#10;		</tr><tr><td>30</td>&#10;			<td>Hebky, Michal</td>&#10;			<td>vs.</td>&#10;			<td>Baldy, Paul A</td>&#10;		</tr><tr><td>27</td>&#10;			<td>Vargas, Andrew R</td>&#10;			<td>vs.</td>&#10;			<td>Casatti, Vagner W</td>&#10;		</tr><tr><td>6</td>&#10;			<td>Blankenship, George A</td>&#10;			<td>vs.</td>&#10;			<td>Turning, Travis G</td>&#10;		</tr><tr><td>2</td>&#10;			<td>Denmark, Brad</td>&#10;			<td>vs.</td>&#10;			<td>steinwachs, alex</td>&#10;		</tr><tr><td>25</td>&#10;			<td>Gosche, Jacob</td>&#10;			<td>vs.</td>&#10;			<td>Mason, Chris A</td>&#10;		</tr><tr><td>26</td>&#10;			<td>Fennell, Chris A</td>&#10;			<td>vs.</td>&#10;			<td>Shrake, David</td>&#10;		</tr><tr><td>24</td>&#10;			<td>Sadin, Steven</td>&#10;			<td>vs.</td>&#10;			<td>Majors, Michael J</td>&#10;		</tr><tr><td>18</td>&#10;			<td>Shapiro, Jeremy G</td>&#10;			<td>vs.</td>&#10;			<td>Moo Young, Laurence d</td>&#10;		</tr><tr><td>22</td>&#10;			<td>Dalton, Kirk R</td>&#10;			<td>vs.</td>&#10;			<td>Weixler, Cliff S</td>&#10;		</tr><tr><td>36</td>&#10;			<td>Ruel, Olivier</td>&#10;			<td>vs.</td>&#10;			<td>Tautic, Raymond J</td>&#10;		</tr><tr><td>8</td>&#10;			<td>Loeb, Davy</td>&#10;			<td>vs.</td>&#10;			<td>Selivyorstov, Nikita N</td>&#10;		</tr><tr><td>23</td>&#10;			<td>Chapin, Patrick A</td>&#10;			<td>vs.</td>&#10;			<td>Dobis, David</td>&#10;		</tr><tr><td>7</td>&#10;			<td>keaveny, joseph J</td>&#10;			<td>vs.</td>&#10;			<td>Boccio, Matthew T</td>&#10;		</tr><tr><td>21</td>&#10;			<td>Manfield, Seth</td>&#10;			<td>vs.</td>&#10;			<td>Raflowitz, Taylor</td>&#10;		</tr><tr><td>63</td>&#10;			<td>Hoaen, Richard G</td>&#10;			<td>vs.</td>&#10;			<td>Ochoa, David A</td>&#10;		</tr><tr><td>32</td>&#10;			<td>Wafo-tapa, Guillaume</td>&#10;			<td>vs.</td>&#10;			<td>Watanabe, Yuuya</td>&#10;		</tr><tr><td>50</td>&#10;			<td>Aintrazi, Ali I</td>&#10;			<td>vs.</td>&#10;			<td>Liboni Sella, Eduardo L</td>&#10;		</tr><tr><td>54</td>&#10;			<td>Hessel, Agustin</td>&#10;			<td>vs.</td>&#10;			<td>Pargh, David J</td>&#10;		</tr><tr><td>58</td>&#10;			<td>Bazhanov, Vlad</td>&#10;			<td>vs.</td>&#10;			<td>Postlethwait, William S</td>&#10;		</tr><tr><td>59</td>&#10;			<td>Strunk, Michael M</td>&#10;			<td>vs.</td>&#10;			<td>Cho, Joshua J</td>&#10;		</tr><tr><td>53</td>&#10;			<td>Kibler, Brian M</td>&#10;			<td>vs.</td>&#10;			<td>Jackson, Conrad</td>&#10;		</tr><tr><td>52</td>&#10;			<td>Mitamura, Kazuya</td>&#10;			<td>vs.</td>&#10;			<td>De Los Santos, Julian L</td>&#10;		</tr><tr><td>41</td>&#10;			<td>Wakefield, Andrew C</td>&#10;			<td>vs.</td>&#10;			<td>Hostutler, Justin</td>&#10;		</tr><tr><td>44</td>&#10;			<td>Saitou, Tomoharu</td>&#10;			<td>vs.</td>&#10;			<td>Newberger, Justin</td>&#10;		</tr><tr><td>31</td>&#10;			<td>Yatsenko, Alex</td>&#10;			<td>vs.</td>&#10;			<td>King, Stephen N</td>&#10;		</tr><tr><td>29</td>&#10;			<td>Nakamura, Shuuhei</td>&#10;			<td>vs.</td>&#10;			<td>Buckingham, James R</td>&#10;		</tr><tr><td>55</td>&#10;			<td>Racht, Adam</td>&#10;			<td>vs.</td>&#10;			<td>Potovin, Nicolay N</td>&#10;		</tr><tr><td>28</td>&#10;			<td>Barsness, Jake</td>&#10;			<td>vs.</td>&#10;			<td>Cottrell, Scott</td>&#10;		</tr><tr><td>42</td>&#10;			<td>Duguid, James W</td>&#10;			<td>vs.</td>&#10;			<td>Locapo, Nick</td>&#10;		</tr><tr><td>39</td>&#10;			<td>Edel, Willy</td>&#10;			<td>vs.</td>&#10;			<td>Michielli, Luiz G</td>&#10;		</tr><tr><td>56</td>&#10;			<td>Cone, Robert</td>&#10;			<td>vs.</td>&#10;			<td>Penick, John A</td>&#10;		</tr><tr><td>51</td>&#10;			<td>Mechler, Kyle D</td>&#10;			<td>vs.</td>&#10;			<td>Melamed, Jonathan L</td>&#10;		</tr><tr><td>9</td>&#10;			<td>Pardo, Alex V</td>&#10;			<td>vs.</td>&#10;			<td>Blohon, Lucas</td>&#10;		</tr><tr><td>10</td>&#10;			<td>Hurst, Greg</td>&#10;			<td>vs.</td>&#10;			<td>Luong, Bao T</td>&#10;		</tr><tr><td>43</td>&#10;			<td>Valerio, Michael J</td>&#10;			<td>vs.</td>&#10;			<td>Buchanan, Samuel -</td>&#10;		</tr><tr><td>3</td>&#10;			<td>Parke, Jamie J</td>&#10;			<td>vs.</td>&#10;			<td>Cortez, Paulo R</td>&#10;		</tr><tr><td>4</td>&#10;			<td>Dumanski, Drew P</td>&#10;			<td>vs.</td>&#10;			<td>Mabie, Bryan B</td>&#10;		</tr><tr><td>49</td>&#10;			<td>De Biasi, Julio S</td>&#10;			<td>vs.</td>&#10;			<td>Jacob, Michael A</td>&#10;		</tr><tr><td>20</td>&#10;			<td>mathis, jeremy</td>&#10;			<td>vs.</td>&#10;			<td>Tudor, George N</td>&#10;		</tr><tr><td>60</td>&#10;			<td>Krug, Andrew</td>&#10;			<td>vs.</td>&#10;			<td>Littman, Fai d</td>&#10;		</tr><tr><td>14</td>&#10;			<td>cantrell, carl</td>&#10;			<td>vs.</td>&#10;			<td>Mantey, Tyler</td>&#10;		</tr><tr><td>12</td>&#10;			<td>Piazza, Brett C</td>&#10;			<td>vs.</td>&#10;			<td>Sprowls, Brandon A</td>&#10;		</tr><tr><td>57</td>&#10;			<td>McFadden, Robert E</td>&#10;			<td>vs.</td>&#10;			<td>Woodley, Ian R</td>&#10;		</tr><tr><td>11</td>&#10;			<td>Vizaro, Justin C</td>&#10;			<td>vs.</td>&#10;			<td>Guss, Max</td>&#10;		</tr><tr><td>46</td>&#10;			<td>Bucher, Manuel</td>&#10;			<td>vs.</td>&#10;			<td>Morris, Andrew</td>&#10;		</tr><tr><td>37</td>&#10;			<td>Ostrovich, Diego</td>&#10;			<td>vs.</td>&#10;			<td>Cuvelier, John P</td>&#10;		</tr><tr><td>38</td>&#10;			<td>Mahaffey, Christopher</td>&#10;			<td>vs.</td>&#10;			<td>Quinn, Daniel J</td>&#10;		</tr><tr><td>35</td>&#10;			<td>Efland, Zach M</td>&#10;			<td>vs.</td>&#10;			<td>Ketita, Nassim</td>&#10;		</tr><tr><td>45</td>&#10;			<td>Lapinski, Michael N</td>&#10;			<td>vs.</td>&#10;			<td>Kasliner, Scott J</td>&#10;		</tr><tr><td>61</td>&#10;			<td>Butler, Jessie</td>&#10;			<td>vs.</td>&#10;			<td>Beasley, Orrin A</td>&#10;		</tr><tr><td> </td>&#10;			<td>Lum, Jonathan L</td>&#10;			<td> </td>&#10;			<td>* BYE * Pod 14</td>&#10;		</tr></tbody></table>
