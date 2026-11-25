@@ -1,0 +1,45 @@
+[site]
+name = "Ormos"
+archive_origin = "https://archive.ormos.uk"
+
+[home]
+title = "Magic: The Gathering Archive"
+description = "An archive of Magic: The Gathering articles and events."
+supporters = ["Max Makes Magic"]
+
+[footer]
+text = "An independent archive of Magic: The Gathering articles and events."
+report_email = "reports@ormos.uk"
+report_subject = "Ormos archive problem"
+support_url = "https://ko-fi.com/maxmakesmagic/tiers"
+
+[media]
+route = "/videos"
+origin = "https://media.ormos.uk"
+
+[security]
+content_security_policy = "default-src 'none'; style-src 'self'; script-src 'self' 'wasm-unsafe-eval'; connect-src 'self'; img-src 'self' https: http:; base-uri 'none'; form-action 'self'"
+
+[[navigation]]
+path = "/articles"
+label = "Articles"
+
+[[navigation]]
+path = "/columns"
+label = "Columns"
+
+[[navigation]]
+path = "/authors"
+label = "Authors"
+
+[[navigation]]
+path = "/years"
+label = "Years"
+
+[[navigation]]
+path = "/events"
+label = "Events"
+
+[[navigation]]
+path = "/search"
+label = "Search"

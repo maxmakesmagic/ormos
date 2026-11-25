@@ -1,0 +1,55 @@
+[build-system]
+requires = ["uv_build>=0.13.6,<0.14"]
+build-backend = "uv_build"
+
+[project]
+name = "ormos-archive"
+version = "0.1.0"
+description = "Static site builder for the Ormos archive"
+readme = "README.md"
+license-files = ["LICENSE"]
+requires-python = ">=3.10"
+dependencies = [
+    "cmarkgfm==2024.11.20",
+    "jinja2>=3.1.6",
+    "markupsafe>=3.0.4",
+    "nh3==0.3.2",
+    "PyYAML==6.0.3",
+    "tomli>=2.5.0",
+]
+
+[project.scripts]
+ormos-build = "ormos.build:main"
+ormos-deploy = "ormos.deploy:main"
+ormos-inventory = "ormos.upload_plan:inventory_main"
+ormos-upload-plan = "ormos.upload_plan:main"
+
+[tool.uv.build-backend]
+module-name = "ormos"
+
+[[tool.uv.index]]
+url = "https://pypi.org/simple"
+default = true
+
+[dependency-groups]
+deploy = [
+    "boto3>=1.44.11",
+]
+dev = [
+    "boto3-stubs[s3]>=1.44.11",
+    "mypy>=2.4.1",
+    "pytest>=9.2.0",
+    "ruff>=0.17.6",
+    "types-pyyaml>=6.0.12.20261122",
+]
+
+[tool.mypy]
+python_version = "3.10"
+files = ["src"]
+mypy_path = "$MYPY_CONFIG_FILE_DIR/stubs"
+disallow_untyped_defs = true
+warn_return_any = true
+warn_unused_configs = true
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

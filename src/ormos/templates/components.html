@@ -1,0 +1,21 @@
+{% macro link(href, label, attributes={}) -%}
+<a href="{{ href | escape_html }}"
+{%- for name, value in attributes.items() %} {{ name }}="{{ value | escape_html }}"{% endfor -%}
+>{{ label | escape_html }}</a>
+{%- endmacro %}
+
+{% macro footer(report_url) -%}
+<footer class="site-footer">{{ config.footer.text | escape_html }} · {{ link(report_url, "Report problems") }} · {{ link(config.footer.support_url, "Support " ~ config.site.name) }}</footer>
+{%- endmacro %}
+
+{% macro home_description() -%}
+<p class="home-description">{{ config.home.description | escape_html }}</p>
+{%- endmacro %}
+
+{% macro home_supporters() -%}
+<section aria-labelledby="supporters-heading"><h2 id="supporters-heading">Supporters</h2><p>{{ config.site.name | escape_html }} is only possible thanks to our Supporters. {{ link(config.footer.support_url, "Join them") }}</p><ul>
+{%- for name in config.home.supporters -%}
+<li>{{ name | escape_html }}</li>
+{%- endfor -%}
+</ul></section>
+{%- endmacro %}

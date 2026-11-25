@@ -1,0 +1,654 @@
+"""Generate archive navigation pages and redirects."""
+
+import json
+import re
+from collections import defaultdict
+from dataclasses import asdict, dataclass
+from datetime import date
+from html import escape
+from pathlib import Path
+
+from .content import Document, publication_day, time_element
+from .html import (
+    SITE_NAME,
+    VIDEO_ROUTE,
+    home_description,
+    home_supporters,
+    layout,
+    link,
+)
+from .paths import component, legacy_redirect_route, route, site_file, write_new
+from .videos import VideoLibrary
+
+PAGE_SIZE = 200
+
+
+def listing(title: str, records: list[Document]) -> str:
+    """Render a list of documents with dates and column links."""
+    rows = []
+    for entry in records:
+        details = time_element(entry.published)
+        if entry.column_slug:
+            details += link(f"/columns/{entry.column_slug}", entry.column)
+        detail_html = f'<div class="record-meta">{details}</div>' if details else ""
+        rows.append(f"<li>{link(entry.path, entry.title)}{detail_html}</li>")
+    return f'<ol class="records" aria-label="{escape(title)}">{"".join(rows)}</ol>'
+
+
+def publication_order(entry: Document) -> tuple[bool, date | None]:
+    """Return a sort key that puts undated documents last."""
+    published = publication_day(entry.published)
+    return published is None, published
+
+
+def column_table(title: str, records: list[Document], *, paginated: bool) -> str:
+    """Render a sortable table of articles in a column."""
+    headers = []
+    for key, label in (
+        ("date", "Publication date"),
+        ("title", "Article"),
+        ("author", "Author"),
+    ):
+        order = ' aria-sort="ascending"' if key == "date" else ""
+        headers.append(
+            f'<th scope="col"{order}><span data-sort-label>{label}</span>'
+            f'<button type="button" data-sort-key="{key}" hidden>{label}'
+            '<span class="sort-indicator" aria-hidden="true"></span></button></th>'
+        )
+    rows = []
+    for entry in records:
+        day = publication_day(entry.published)
+        date_value = day.isoformat() if day else ""
+        date_label = time_element(entry.published) or "Undated"
+        authors = ", ".join(
+            link(f"/{entry.lang}/authors/{person.slug}", person.name)
+            for person in entry.authors
+        )
+        author_value = "" if authors else ' data-sort-value=""'
+        rows.append(
+            f'<tr><td data-sort-value="{date_value}">{date_label}</td>'
+            f"<td>{link(entry.path, entry.title)}</td>"
+            f"<td{author_value}>{authors or '—'}</td></tr>"
+        )
+    scope = (
+        '<p class="sort-scope" data-sort-scope hidden>Sorting applies to the rows on this page.</p>'
+        if paginated
+        else ""
+    )
+    return (
+        "<section data-column-table>"
+        f'{scope}<div class="table-scroll" tabindex="0" role="region" aria-label="{escape(title)} articles">'
+        f'<table class="column-table"><caption class="visually-hidden">{escape(title)}</caption>'
+        f"<thead><tr>{''.join(headers)}</tr></thead><tbody>{''.join(rows)}</tbody></table></div>"
+        '<p class="visually-hidden" data-sort-status role="status"></p></section>'
+    )
+
+
+def pagination(path: str, index: int, total: int) -> str:
+    """Render links to the adjacent pages when they exist."""
+    if total <= 1:
+        return ""
+    prev = ""
+    if index > 1:
+        previous = path if index == 2 else f"{path}/page/{index - 1}"
+        prev = link(previous, "Previous page", rel="prev")
+    next_page = (
+        link(f"{path}/page/{index + 1}", "Next page", rel="next")
+        if index < total
+        else ""
+    )
+    return f'<nav class="pagination" aria-label="Pages">{prev}<span>Page {index} of {total}</span>{next_page}</nav>'
+
+
+EVENT_TYPES = {
+    "leagues": "Leagues",
+    "preliminaries": "Preliminaries",
+    "challenges": "Challenges",
+    "showcases": "Showcases",
+    "daily-events": "Daily events",
+    "premier-events": "Premier events",
+    "qualifiers": "Qualifiers",
+    "pro-tours": "Pro Tours",
+    "players-tours": "Players Tours",
+    "grand-prix": "Grand Prix",
+    "trials": "Grand Prix Trials",
+    "world-championships": "World Championships",
+    "world-magic-cups": "World Magic Cups",
+    "regional-championships": "Regional Championships",
+    "nationals": "National Championships",
+    "mythic-championships": "Mythic Championships",
+    "championships": "Other championships",
+    "opens": "Opens",
+    "other": "Other events",
+}
+EVENT_RULES = tuple(
+    (kind, re.compile(rf"\b(?:{pattern})\b"))
+    for kind, pattern in (
+        ("showcases", "showcases?"),
+        ("qualifiers", "qualifiers?|ptq|pptq|champ qual"),
+        ("preliminaries", "preliminar(?:y|ies)|prelims?"),
+        ("leagues", "leagues?"),
+        ("challenges", "challenges?"),
+        ("daily-events", "daily"),
+        ("premier-events", "premier"),
+        ("world-championships", "world championships?|worlds"),
+        ("world-magic-cups", "world magic cups?"),
+        ("regional-championships", "regional championships?|regionals"),
+        ("nationals", "national championships?|nationals"),
+        ("pro-tours", "pro tours?"),
+        ("players-tours", "players tours?"),
+        ("trials", "grand prix trials?"),
+        ("grand-prix", "grand prix"),
+        ("mythic-championships", "mythic championships?"),
+        ("championships", "championships?|mocs"),
+        ("opens", "opens?"),
+    )
+)
+LEGACY_EVENT_RULES = tuple(
+    (kind, re.compile(pattern))
+    for kind, pattern in (
+        ("grand-prix", r"gp[a-z][a-z0-9]{1,}(?: [a-z0-9]+)?"),
+        ("pro-tours", r"pt(?!q|tq)[a-z][a-z0-9]{1,}(?: [a-z0-9]+)?"),
+        ("world-championships", r"worlds(?: ?\d{2,4})?"),
+        ("nationals", r"[a-z]{2}nat(?:\d{2,4})?(?:[a-z]{2})?"),
+    )
+)
+EVENT_FORMATS = {
+    "alchemy": "Alchemy",
+    "block": "Block Constructed",
+    "brawl": "Brawl",
+    "commander": "Commander",
+    "draft": "Draft",
+    "explorer": "Explorer",
+    "historic": "Historic",
+    "legacy": "Legacy",
+    "limited": "Limited",
+    "modern": "Modern",
+    "pauper": "Pauper",
+    "pioneer": "Pioneer",
+    "sealed": "Sealed",
+    "standard": "Standard",
+    "vintage": "Vintage",
+}
+EVENT_FORMAT = re.compile(
+    rf"^(?:team )?({'|'.join(EVENT_FORMATS)})\b(?! horizons\b| masters\b)"
+)
+EVENT_NAME_PREFIX = re.compile(
+    r"^(?:(?:19|20)\d{2}(?: \d{1,2} \d{1,2})? |magic online |mtgo |competitive |friendly )+"
+)
+FORMATTED_EVENT_TYPES = {
+    "leagues",
+    "preliminaries",
+    "challenges",
+    "showcases",
+    "daily-events",
+    "premier-events",
+    "opens",
+}
+
+
+def event_evidence(value: str, *, code: bool = False) -> tuple[str | None, str | None]:
+    """Find an event type and game format in a title or event code."""
+    name = EVENT_NAME_PREFIX.sub(
+        "", re.sub(r"[^a-z0-9]+", " ", value.casefold()).strip()
+    )
+    match = EVENT_FORMAT.match(name)
+    format_slug = match[1] if match else None
+    if code:
+        kind = next((kind for kind, rule in EVENT_RULES if rule.search(name)), None)
+        legacy = next(
+            (kind for kind, rule in LEGACY_EVENT_RULES if rule.fullmatch(name)), None
+        )
+        return kind or legacy, format_slug
+
+    if match:
+        name = re.sub(
+            r"^(?:constructed |1 v 1 |festival |[a-z0-9]+ block )+",
+            "",
+            name[match.end() :].lstrip(),
+        )
+    for kind, rule in EVENT_RULES:
+        if rule.match(name) and (format_slug or kind not in FORMATTED_EVENT_TYPES):
+            return kind, format_slug
+    return None, format_slug
+
+
+def classify_event(code: str, records: list[Document]) -> tuple[str, str | None]:
+    """Classify an event by its code and the titles of its documents."""
+    kind, format_slug = event_evidence(code, code=True)
+    if kind and format_slug:
+        return kind, format_slug
+    title_evidence = {event_evidence(record.title) for record in records}
+    if not kind:
+        title_kinds = {candidate for candidate, _ in title_evidence if candidate}
+        if len(title_kinds) == 1:
+            kind = title_kinds.pop()
+    if not format_slug:
+        formats = {
+            candidate
+            for title_kind, candidate in title_evidence
+            if title_kind == kind and candidate
+        }
+        if len(formats) == 1:
+            format_slug = formats.pop()
+    return kind or "other", format_slug
+
+
+@dataclass(frozen=True, slots=True)
+class Redirect:
+    """A source path, its canonical destination, and the reason for the move."""
+
+    path: str
+    target: str
+    kind: str
+
+
+class Site:
+    """Track the pages and redirects written to one site directory."""
+
+    def __init__(self, output: Path):
+        """Start with an empty page registry for the output directory."""
+        self.output = output
+        self.entries: dict[str, Document] = {}
+        self.paths: set[str] = set()
+        self.redirects: dict[str, Redirect] = {}
+
+    def _record_path(self, path: str) -> None:
+        if path in self.paths:
+            raise ValueError(f"Multiple pages use {path}")
+        self.paths.add(path)
+
+    def page(self, path: str, html: str, *, legacy: bool = False) -> None:
+        """Register the page path and write its HTML file."""
+        path = legacy_redirect_route(path) if legacy else route(path)
+        self._record_path(path)
+        write_new(site_file(self.output, path), html)
+
+    def add_document(self, document: Document) -> None:
+        """Register a document after its page is written."""
+        if document.id in self.entries:
+            raise ValueError(f"Duplicate document ID {document.id}")
+        self._record_path(document.path)
+        self.entries[document.id] = document
+
+    def entries_page(
+        self,
+        path: str,
+        title: str,
+        entries: list[Document],
+        lead: str = "",
+        *,
+        lang: str = "en",
+        table: bool = False,
+    ) -> None:
+        """Sort documents in place and write their pages as lists or tables."""
+        # Stable path ordering breaks ties between documents with the same publication day.
+        entries.sort(key=lambda entry: entry.path)
+        if table:
+            entries.sort(key=publication_order)
+        else:
+            entries.sort(key=lambda entry: entry.published, reverse=True)
+        pages = max(1, (len(entries) + PAGE_SIZE - 1) // PAGE_SIZE)
+        for index in range(1, pages + 1):
+            page = path if index == 1 else f"{path}/page/{index}"
+            selected = entries[(index - 1) * PAGE_SIZE : index * PAGE_SIZE]
+            heading = f"<h1>{escape(title)}</h1>"
+            if index == 1:
+                heading += lead
+            scripts = ""
+            if table and selected:
+                items = column_table(title, selected, paginated=pages > 1)
+                scripts = '<script type="module" src="/assets/column-sort.js"></script>'
+            else:
+                items = listing(title, selected) if selected else ""
+            page_title = title if index == 1 else f"{title} (page {index})"
+            self.page(
+                page,
+                layout(
+                    page_title,
+                    page,
+                    heading + items + pagination(path, index, pages),
+                    lang=lang,
+                    scripts=scripts,
+                ),
+            )
+
+    def groups_page(
+        self,
+        path: str,
+        title: str,
+        groups: list[tuple[str, str, int]],
+        *,
+        lang: str = "en",
+        column_directory: bool = False,
+    ) -> None:
+        """Write a directory page with links and document counts for each group."""
+        items = "".join(
+            f'<li>{link(href, label)} <span class="count">{count:,}</span></li>'
+            for href, label, count in groups
+        )
+        css_class = "directory column-directory" if column_directory else "directory"
+        description = home_description() if path == "/" else ""
+        supporters = home_supporters() if path == "/" else ""
+        content = f'<h1>{escape(title)}</h1>{description}<ul class="{css_class}">{items}</ul>{supporters}'
+        self.page(path, layout(title, path, content, lang=lang))
+
+    def column_year_pages(
+        self,
+        path: str,
+        title: str,
+        years: dict[str, list[Document]],
+        *,
+        lang: str = "en",
+        segment: str = "",
+    ) -> str:
+        """Write the yearly article tables and return links to them."""
+        links = []
+        for year, records in sorted(years.items(), reverse=True):
+            year_path = f"{path}/{segment}{year}"
+            label = "Undated" if year == "undated" else year
+            links.append(f"<li>{link(year_path, label)}</li>")
+            self.entries_page(
+                year_path, f"{title} · {label}", records, lang=lang, table=True
+            )
+        return (
+            f'<ul class="inline-links" aria-label="Years">{"".join(links)}</ul>'
+            if links
+            else ""
+        )
+
+    def column_pages(
+        self, slug: str, title: str, records: list[Document]
+    ) -> list[tuple[str, tuple[str, str, int]]]:
+        """Write pages for a column and return its entries in each language directory."""
+        years = defaultdict(list)
+        localized = defaultdict(list)
+        localized_years: defaultdict[str, defaultdict[str, list[Document]]] = (
+            defaultdict(lambda: defaultdict(list))
+        )
+        for entry in records:
+            if day := publication_day(entry.published):
+                years[str(day.year)].append(entry)
+            parts = entry.path.split("/")
+            if len(parts) == 6 and parts[1:4] == [entry.lang, "articles", slug]:
+                localized[entry.lang].append(entry)
+                localized_years[entry.lang][parts[4]].append(entry)
+
+        path = f"/columns/{slug}"
+        lead = self.column_year_pages(path, title, years, segment="year/")
+        self.entries_page(path, title, records, lead, table=True)
+
+        choices = []
+        for lang, language_records in localized.items():
+            path = f"/{lang}/articles/{slug}"
+            lead = self.column_year_pages(path, title, localized_years[lang], lang=lang)
+            self.entries_page(
+                path, title, language_records, lead, lang=lang, table=True
+            )
+            choices.append((lang, (path, title, len(language_records))))
+        return choices
+
+    def column_navigation(self, columns: dict[str, list[Document]]) -> None:
+        """Write column pages and the directories that link to them."""
+        names = {
+            slug: min(records, key=lambda entry: entry.path).column
+            for slug, records in columns.items()
+        }
+        slugs = sorted(names, key=lambda slug: (names[slug].casefold(), slug))
+        self.groups_page(
+            "/columns",
+            "Columns",
+            [(f"/columns/{slug}", names[slug], len(columns[slug])) for slug in slugs],
+            column_directory=True,
+        )
+        language_columns = defaultdict(list)
+        for slug in slugs:
+            for lang, choice in self.column_pages(slug, names[slug], columns[slug]):
+                language_columns[lang].append(choice)
+        for lang, groups in language_columns.items():
+            self.groups_page(
+                f"/{lang}/articles",
+                "Columns",
+                sorted(groups, key=lambda row: (row[1].casefold(), row[0])),
+                lang=lang,
+                column_directory=True,
+            )
+
+    def event_navigation(
+        self,
+        events: list[Document],
+        *,
+        has_decks: bool = False,
+        has_videos: bool = False,
+    ) -> None:
+        """Write event directories by name, type, and game format."""
+        event_groups = defaultdict(list)
+        event_types: defaultdict[str, defaultdict[str | None, list[Document]]] = (
+            defaultdict(lambda: defaultdict(list))
+        )
+        for event in events:
+            if group := event.event_group():
+                event_groups[group].append(event)
+            else:
+                kind, format_slug = classify_event("", [event])
+                event_types[kind][format_slug].append(event)
+
+        event_choices = []
+        for group, records in sorted(
+            event_groups.items(), key=lambda item: item[0].split("/")[3:], reverse=True
+        ):
+            _, lang, _, year, code = group.split("/")
+            kind, format_slug = classify_event(code, records)
+            event_types[kind][format_slug].extend(records)
+            title = f"{code.replace('-', ' ')} ({year})"
+            self.entries_page(group, title, records, lang=lang)
+            label = title if lang == "en" else f"{title} · {lang}"
+            event_choices.append((group, label, len(records)))
+        if event_choices:
+            self.groups_page("/events/by-event", "Browse by event", event_choices)
+
+        sections = []
+        for kind, title in EVENT_TYPES.items():
+            buckets = event_types.get(kind)
+            if not buckets:
+                continue
+            path = f"/events/by-type/{kind}"
+            records = [entry for bucket in buckets.values() for entry in bucket]
+            formats = ""
+            if any(buckets):
+                options = []
+                for format_slug in sorted(
+                    buckets, key=lambda value: (value is None, value or "")
+                ):
+                    format_title = EVENT_FORMATS.get(
+                        format_slug or "", "Format not recorded"
+                    )
+                    format_path = f"{path}/{format_slug or 'unknown-format'}"
+                    matches = buckets[format_slug]
+                    self.entries_page(format_path, f"{format_title} · {title}", matches)
+                    options.append(
+                        f'<li>{link(format_path, format_title)} <span class="count">{len(matches):,}</span></li>'
+                    )
+                formats = f'<ul class="event-formats" aria-label="Formats">{"".join(options)}</ul>'
+            self.entries_page(path, title, records, formats)
+            count = "document" if len(records) == 1 else "documents"
+            sections.append(
+                f'<li><h2>{link(path, title)}</h2><p class="count">{len(records):,} {count}</p>{formats}</li>'
+            )
+
+        links = [("/events/all", "All event documents")]
+        if event_choices:
+            links.append(("/events/by-event", "Browse by event name"))
+        if has_decks:
+            links.append(("/decks", "Decks"))
+        if has_videos:
+            links.append((VIDEO_ROUTE, "Videos"))
+        menu = "".join(f"<li>{link(path, label)}</li>" for path, label in links)
+        content = (
+            f'<h1>Events</h1><nav aria-label="Other ways to browse"><ul class="inline-links">{menu}</ul></nav>'
+            f'<ul class="event-types">{"".join(sections)}</ul>'
+        )
+        self.page("/events", layout("Events", "/events", content))
+        self.entries_page("/events/all", "All event documents", events)
+        pages = (len(events) + PAGE_SIZE - 1) // PAGE_SIZE
+        for index in range(2, pages + 1):
+            self.redirect(
+                f"/events/page/{index}",
+                f"/events/all/page/{index}",
+                "events-pagination",
+            )
+
+    def navigation(self, library: VideoLibrary) -> None:
+        """Write the home page, archive directories, and search pages."""
+        videos = library.videos
+        authors = defaultdict(list)
+        author_names: dict[str, str] = {}
+        columns = defaultdict(list)
+        years = defaultdict(list)
+        articles = []
+        events = []
+        decks = []
+        localized_authors = defaultdict(list)
+        for entry in sorted(self.entries.values(), key=lambda value: value.path):
+            if entry.kind == "event":
+                events.append(entry)
+            elif entry.kind.startswith("deck"):
+                decks.append(entry)
+            else:
+                articles.append(entry)
+            if day := publication_day(entry.published):
+                years[str(day.year)].append(entry)
+            if entry.column_slug:
+                columns[entry.column_slug].append(entry)
+            for person in dict.fromkeys(entry.authors):
+                authors[person.slug].append(entry)
+                author_names.setdefault(person.slug, person.name)
+                localized_authors[(entry.lang, person.slug)].append(entry)
+
+        self.entries_page("/articles", "Articles", articles)
+        self.event_navigation(events, has_decks=bool(decks), has_videos=bool(videos))
+        if decks:
+            self.entries_page("/decks", "Decks", decks)
+
+        author_slugs = sorted(
+            author_names, key=lambda slug: (author_names[slug].casefold(), slug)
+        )
+        self.groups_page(
+            "/authors",
+            "Authors",
+            [
+                (f"/authors/{slug}", author_names[slug], len(authors[slug]))
+                for slug in author_slugs
+            ],
+        )
+        for slug in author_slugs:
+            self.entries_page(f"/authors/{slug}", author_names[slug], authors[slug])
+        for (lang, slug), records in localized_authors.items():
+            self.entries_page(
+                f"/{lang}/authors/{slug}", author_names[slug], records, lang=lang
+            )
+
+        self.column_navigation(columns)
+
+        self.groups_page(
+            "/years",
+            "Years",
+            [
+                (f"/years/{year}", year, len(records))
+                for year, records in sorted(years.items(), reverse=True)
+            ],
+        )
+        for year, records in years.items():
+            self.entries_page(f"/years/{year}", year, records)
+
+        choices = [
+            ("/articles", "Articles", len(articles)),
+            ("/columns", "Columns", len(columns)),
+            ("/authors", "Authors", len(authors)),
+            ("/years", "Years", len(years)),
+            ("/events", "Events", len(events)),
+        ]
+        if decks:
+            choices.append(("/decks", "Decks", len(decks)))
+        if videos:
+            library.write(self)
+            choices.append((VIDEO_ROUTE, "Videos", len(videos)))
+        self.groups_page("/", SITE_NAME, choices)
+        search = """
+<h1>Search the archive</h1>
+<form id="search" role="search" action="{path}">
+<label for="query">Search article and event text</label>
+<div class="search-input"><input type="search" id="query" name="q" required>
+<button type="submit">Search</button></div>
+</form>
+<p id="search-status" role="status"></p>
+<ol id="search-results" class="records" aria-label="Search results"></ol>
+<noscript><p>Enable JavaScript to use full-text search.</p></noscript>
+"""
+        languages = sorted(
+            {component(entry.lang).lower() for entry in self.entries.values()} | {"en"}
+        )
+        search_pages = {
+            lang: ("/search" if lang == "en" else f"/search/{lang}")
+            for lang in languages
+        }
+        for language, path in search_pages.items():
+            language_menu = ""
+            if len(languages) > 1:
+                language_links = "".join(
+                    f"<li>{link(href, lang.upper(), **({'aria-current': 'page'} if lang == language else {}))}</li>"
+                    for lang, href in search_pages.items()
+                )
+                language_menu = f'<nav aria-label="Document language"><p>Document language</p><ul class="inline-links">{language_links}</ul></nav>'
+            self.page(
+                path,
+                layout(
+                    "Search",
+                    path,
+                    language_menu + search.format(path=path),
+                    lang=language,
+                    scripts='<script type="module" src="/assets/search.js"></script>',
+                ),
+            )
+
+    def redirect(self, source: str, target: str, kind: str) -> None:
+        """Write a redirect page to an existing canonical destination."""
+        legacy = kind == "old-repo-path"
+        source = legacy_redirect_route(source) if legacy else route(source)
+        target = route(target)
+        if source == target:
+            return
+        previous = self.redirects.get(source)
+        if previous:
+            if previous.target != target:
+                raise ValueError(
+                    f"Conflicting redirect targets for {source}: {previous.target} and {target}"
+                )
+            return
+        if target not in self.paths or target in self.redirects:
+            raise ValueError(
+                f"Redirect {source} needs a canonical destination, got {target}"
+            )
+        if source in self.paths:
+            raise ValueError(f"Redirect {source} conflicts with a site page")
+        escaped = escape(target)
+        self.page(
+            source,
+            f"""<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="refresh" content="0; url={escaped}"><link rel="canonical" href="{escaped}">
+<title>Page moved · {SITE_NAME}</title></head><body><main><h1>Page moved</h1>
+<p>{link(target, "Continue to the archived page")}</p></main></body></html>
+""",
+            legacy=legacy,
+        )
+        self.redirects[source] = Redirect(source, target, kind)
+
+    def write_redirects(self, path: Path) -> None:
+        """Write the redirect table as JSON lines in source path order."""
+        with path.open("w", encoding="utf-8", newline="\n") as stream:
+            for source in sorted(self.redirects):
+                stream.write(
+                    json.dumps(asdict(self.redirects[source]), ensure_ascii=False)
+                    + "\n"
+                )
