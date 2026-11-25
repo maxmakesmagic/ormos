@@ -1,0 +1,79 @@
+name: Pull request upload plan
+
+on:
+  workflow_run:
+    workflows: [Archive site]
+    types: [completed]
+
+permissions:
+  contents: read
+  actions: read
+
+jobs:
+  plan:
+    if: >-
+      ${{
+        github.repository == 'maxmakesmagic/ormos' &&
+        github.event.workflow_run.event == 'pull_request' &&
+        github.event.workflow_run.conclusion == 'success'
+      }}
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Check out trusted planner from the default branch
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: ${{ github.sha }}
+          sparse-checkout: |
+            src
+            .github/scripts
+          persist-credentials: false
+      - name: Locate candidate inventory
+        id: candidate
+        env:
+          GH_TOKEN: ${{ github.token }}
+          SOURCE_RUN_ID: ${{ github.event.workflow_run.id }}
+          SOURCE_RUN_ATTEMPT: ${{ github.event.workflow_run.run_attempt }}
+        run: bash .github/scripts/find-candidate.sh
+      - name: Download candidate archive
+        if: ${{ steps.candidate.outputs.artifact_id != '' }}
+        uses: actions/download-artifact@9000827ccba6bdab643e8b6fd33ac0654aef8333 # v8.0.2
+        with:
+          artifact-ids: ${{ steps.candidate.outputs.artifact_id }}
+          path: ${{ runner.temp }}/candidate-download
+          github-token: ${{ github.token }}
+          run-id: ${{ github.event.workflow_run.id }}
+          skip-decompress: true
+      - name: Extract inventory data
+        if: ${{ steps.candidate.outputs.artifact_id != '' }}
+        run: >-
+          python3 .github/scripts/extract-candidate.py
+          "$RUNNER_TEMP/candidate-download" "$RUNNER_TEMP/candidate.ndjson"
+      - name: Set up uv
+        if: ${{ steps.candidate.outputs.artifact_id != '' }}
+        uses: astral-sh/setup-uv@1db35dd8eee11c5894872e0b383ae6c406cf738d # v10.4.0
+        with:
+          version: '0.13.6'
+          python-version: '3.12'
+          enable-cache: false
+      - name: Install locked dependencies
+        if: ${{ steps.candidate.outputs.artifact_id != '' }}
+        run: uv sync --locked --no-dev --group deploy
+      - name: Calculate upload plan
+        if: ${{ steps.candidate.outputs.artifact_id != '' }}
+        env:
+          ORMOS_R2_ACCOUNT_ID: ${{ vars.ORMOS_R2_ACCOUNT_ID }}
+          ORMOS_R2_STATE_BUCKET: ${{ vars.ORMOS_R2_STATE_BUCKET }}
+          ORMOS_R2_SITE_BUCKET: ${{ vars.ORMOS_R2_SITE_BUCKET || 'ormos-site' }}
+          AWS_ACCESS_KEY_ID: ${{ secrets.R2_STATE_READ_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_STATE_READ_SECRET_ACCESS_KEY }}
+        run: >-
+          uv run --locked --no-sync ormos-deploy
+          --inventory "$RUNNER_TEMP/candidate.ndjson" --output "$RUNNER_TEMP/upload-plan"
+      - name: Save upload plan
+        if: ${{ steps.candidate.outputs.artifact_id != '' }}
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        with:
+          name: upload-plan-${{ github.run_attempt }}
+          path: ${{ runner.temp }}/upload-plan/upload.ndjson
+          if-no-files-found: error
+          retention-days: 7

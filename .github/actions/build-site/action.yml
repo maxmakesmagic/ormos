@@ -1,0 +1,33 @@
+name: Build archive site
+description: Check out the full archive and build the static site
+
+runs:
+  using: composite
+  steps:
+    - name: Prepare runner disk space
+      run: bash .github/scripts/prepare-runner.sh
+      shell: bash
+    - name: Check out full archive
+      uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      with:
+        persist-credentials: false
+    - name: Set up Node.js
+      uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+      with:
+        node-version: '24.22.2'
+        package-manager-cache: false
+    - name: Set up uv
+      uses: astral-sh/setup-uv@1db35dd8eee11c5894872e0b383ae6c406cf738d # v10.4.0
+      with:
+        version: '0.13.6'
+        python-version: '3.12'
+        enable-cache: false
+    - name: Install locked dependencies
+      run: uv sync --locked --no-dev --group deploy
+      shell: bash
+    - name: Install Pagefind
+      run: npm ci --ignore-scripts --no-audit --no-fund
+      shell: bash
+    - name: Render and index the archive
+      run: uv run --locked --no-sync ormos-build --output "$RUNNER_TEMP/site"
+      shell: bash

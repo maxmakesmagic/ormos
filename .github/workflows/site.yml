@@ -1,0 +1,180 @@
+name: Archive site
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ormos-site-${{ github.ref }}
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
+
+env:
+  ORMOS_R2_ACCOUNT_ID: ${{ vars.ORMOS_R2_ACCOUNT_ID }}
+  ORMOS_R2_STATE_BUCKET: ${{ vars.ORMOS_R2_STATE_BUCKET }}
+  ORMOS_R2_SITE_BUCKET: ${{ vars.ORMOS_R2_SITE_BUCKET || 'ormos-site' }}
+
+jobs:
+  lint:
+    name: Lint
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Check out Python sources
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          sparse-checkout: |
+            .github
+            src
+            stubs
+            tests
+          persist-credentials: false
+      - name: Set up uv
+        uses: astral-sh/setup-uv@1db35dd8eee11c5894872e0b383ae6c406cf738d # v10.4.0
+        with:
+          version: '0.13.6'
+          python-version: '3.10'
+          enable-cache: false
+      - name: Install locked dependencies
+        run: uv sync --locked
+      - name: Check lint rules
+        run: uv run --locked --no-sync ruff check
+      - name: Check formatting
+        run: uv run --locked --no-sync ruff format --check
+      - name: Check types
+        run: uv run --locked --no-sync mypy
+
+  test:
+    name: Test
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Check out Python sources
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          sparse-checkout: |
+            src
+            tests
+          persist-credentials: false
+      - name: Set up Node.js
+        uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version: '24.22.2'
+          package-manager-cache: false
+      - name: Set up uv
+        uses: astral-sh/setup-uv@1db35dd8eee11c5894872e0b383ae6c406cf738d # v10.4.0
+        with:
+          version: '0.13.6'
+          python-version: '3.10'
+          enable-cache: false
+      - name: Install locked dependencies
+        run: uv sync --locked --group deploy
+      - name: Install Pagefind
+        run: npm ci --ignore-scripts --no-audit --no-fund
+      - name: Run pytest
+        run: uv run --locked --no-sync pytest
+
+  plan:
+    name: Build pull request
+    needs: [lint, test]
+    if: ${{ github.repository == 'maxmakesmagic/ormos' && github.event_name == 'pull_request' }}
+    runs-on: >-
+      ${{
+        (github.event.pull_request.head.repo.full_name == github.repository &&
+        github.event.pull_request.user.login != 'dependabot[bot]' &&
+        vars.ORMOS_RUNNER) || 'ubuntu-24.04'
+      }}
+    steps:
+      - name: Check out workflow files
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          sparse-checkout: .github
+          persist-credentials: false
+      - name: Build archive site
+        uses: ./.github/actions/build-site
+      - name: Calculate upload plan
+        id: plan
+        if: >-
+          ${{
+            github.event.pull_request.head.repo.full_name == github.repository &&
+            github.event.pull_request.user.login != 'dependabot[bot]'
+          }}
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.R2_STATE_READ_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_STATE_READ_SECRET_ACCESS_KEY }}
+        run: >-
+          uv run --locked --no-sync ormos-deploy
+          --site "$RUNNER_TEMP/site" --output "$RUNNER_TEMP/upload-plan"
+      - name: Save upload plan
+        if: ${{ !cancelled() && steps.plan.outcome != 'skipped' }}
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        with:
+          name: upload-plan-${{ github.run_attempt }}
+          path: |
+            ${{ runner.temp }}/upload-plan/upload.ndjson
+            ${{ runner.temp }}/upload-plan/removed.ndjson
+          if-no-files-found: ignore
+          retention-days: 7
+      - name: Record candidate inventory
+        id: inventory
+        if: >-
+          ${{
+            github.event.pull_request.head.repo.full_name != github.repository ||
+            github.event.pull_request.user.login == 'dependabot[bot]'
+          }}
+        run: >-
+          uv run --locked --no-sync ormos-inventory
+          --site "$RUNNER_TEMP/site" --output "$RUNNER_TEMP/candidate.ndjson"
+      - name: Save candidate inventory
+        if: ${{ steps.inventory.outcome == 'success' }}
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        with:
+          name: candidate-inventory-${{ github.run_attempt }}
+          path: ${{ runner.temp }}/candidate.ndjson
+          if-no-files-found: error
+          retention-days: 7
+
+  deploy:
+    name: Build and deploy archive
+    needs: [lint, test]
+    if: >-
+      ${{
+        github.repository == 'maxmakesmagic/ormos' &&
+        github.event_name == 'push' && github.event.deleted != true &&
+        github.ref == 'refs/heads/main'
+      }}
+    runs-on: ${{ vars.ORMOS_RUNNER || 'ubuntu-24.04' }}
+    environment:
+      name: production
+      url: https://archive.ormos.uk
+    steps:
+      - name: Check out workflow files
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          sparse-checkout: .github
+          persist-credentials: false
+      - name: Build archive site
+        uses: ./.github/actions/build-site
+      - name: Check current main commit
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: bash .github/scripts/check-main.sh
+      - name: Apply site plan
+        id: deploy
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.R2_DEPLOY_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_DEPLOY_SECRET_ACCESS_KEY }}
+        run: >-
+          uv run --locked --no-sync ormos-deploy
+          --site "$RUNNER_TEMP/site" --output "$RUNNER_TEMP/upload-plan" --apply
+      - name: Save upload plan
+        if: ${{ !cancelled() && steps.deploy.outcome != 'skipped' }}
+        uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        with:
+          name: upload-plan-${{ github.run_attempt }}
+          path: |
+            ${{ runner.temp }}/upload-plan/upload.ndjson
+            ${{ runner.temp }}/upload-plan/removed.ndjson
+          if-no-files-found: ignore
+          retention-days: 7

@@ -1,0 +1,92 @@
+WEBVTT
+
+00:00:00.230 --> 00:00:19.560
+<v Speaker 1>A card that's caused a lot of confusing ruling this weekend is a is a momentary blink because it has some very odd timing involved with and it's kind of kind of intuitive how when you cast it, things actually happen in a different way you think they might. We have a Level 3 Judge Russ lineman with us and he's going to explain to us exactly what happens in a bunch of these sticky situations. Hi, Russ.</v>
+
+00:00:20.230 --> 00:00:20.880
+<v Speaker 2>Hi, John.</v>
+
+00:00:21.070 --> 00:00:25.630
+<v Speaker 1>OK. When we put down a couple of situations on the board and see if you can educate us on how this works.</v>
+
+00:00:27.070 --> 00:00:27.950
+<v Speaker 2>What's your first one?</v>
+
+00:00:27.960 --> 00:00:36.630
+<v Speaker 1>OK I have a token in play and you try to kill it with a lightning axe and I decide I wanna save it so I momentary blink my token. Is it gone or does it live?</v>
+
+00:00:37.260 --> 00:00:54.730
+<v Speaker 2>Your token leaves play, and then it comes back to play as a new token, and so when the lightning acts goes to resolve, it's going to find that it was trying to target the original token, but that token's not there anymore. Your lightning axe is going to be countered and your token will come back to play and will survive.</v>
+
+00:00:54.840 --> 00:01:01.980
+<v Speaker 1>OK, now this seems counterintuitive because everybody kind of learns that whenever tokens which zones it leaves the game. Why isn't that the case here?</v>
+
+00:01:02.640 --> 00:01:11.200
+<v Speaker 2>When a token leaves play as a state based effect which are the games Basically the games cleanup crew to fix things that</v>
+
+00:01:11.890 --> 00:01:40.200
+<v Speaker 2>situations that shouldn't exist, then that's what causes the token to leave play or token to cease to exist. But those are only checked at a very specific time. Those are only checked right before a player would receive priority. And in this case the token leaves play and comes back all during the resolution of the exact same spell. And since players don't get priority in the middle of playing a spell the the cleanup crew, the state based effects don't actually get a chance to get rid of the token.</v>
+
+00:01:40.270 --> 00:01:41.930
+<v Speaker 1>OK, how about this? How about if I have</v>
+
+00:01:42.000 --> 00:01:49.320
+<v Speaker 1>enchantment on my token and same thing happens but I wanna save it because I really like this video and I am I gonna get to use the video and I or is that thing gone?</v>
+
+00:01:49.550 --> 00:02:11.590
+<v Speaker 2>That thing's actually going to be gone. The same thing is going to happen. The tokens going to leave play, then the tokens going to come back. But because this is a new version of the token, the affinity and I doesn't isn't attached to it. The ophidian is sitting here wondering where the original token went. And then when the state based effects are checked, they see here's an enchantment, an aura</v>
+
+00:02:12.010 --> 00:02:14.850
+<v Speaker 2>enchanting nothing and and it goes to the graveyard.</v>
+
+00:02:14.860 --> 00:02:16.760
+<v Speaker 1>Is it different if have a token on my token?</v>
+
+00:02:17.050 --> 00:02:30.570
+<v Speaker 2>Because plus 1 + 1 counter, it'll leave play, and when it leaves play and changes zones, it becomes a new object. It loses all memory of its previous existence, which includes that it had a counter on it, so it's going to come back</v>
+
+00:02:31.740 --> 00:02:32.450
+<v Speaker 2>normally.</v>
+
+00:02:32.580 --> 00:02:46.990
+<v Speaker 1>Same same situation. OK, this one actually came up today during the tournament and it cost somebody a game because they didn't know the rule. On this side we have a watcher sliver that gives all sorts plus O + 2 on the other side of Plague sliver. That's the 55 sliver.</v>
+
+00:02:48.330 --> 00:03:04.780
+<v Speaker 1>Watch your slipper guy wants to kill plague sliver so he casts lightning axe on it doing 5 points of damage. It doesn't die because the water sliver is in play, so he takes the momentary blink and and blinks out watcher sliver believing that in fact it will cause the flakes over to die. Does flakes over die or does it live and why?</v>
+
+00:03:05.130 --> 00:03:14.570
+<v Speaker 2>The place Oliver actually lives, and this is similar to the last question. So once the lightning acts resolves, this guy has five damage on it, but he's a 57 creature.</v>
+
+00:03:15.230 --> 00:03:16.610
+<v Speaker 2>Now when this leaves play</v>
+
+00:03:17.240 --> 00:03:42.230
+<v Speaker 2>for a very small amount of time, this is going to be a 55 with five damage on it. But because creatures with lethal damage are only killed a state based effects, and as we've already determined, no player gets priority while the spells resolving before another player would get priority, this guy's back in play. This guy is a 57 again and so he'll never actually have lethal damage which state based effects her checks and he'll live.</v>
+
+00:03:42.540 --> 00:03:47.130
+<v Speaker 1>Because state basics are not checked. This doesn't work for poor watcher sliver guy,</v>
+
+00:03:47.390 --> 00:03:48.230
+<v Speaker 1>correct? OK.</v>
+
+00:03:48.270 --> 00:03:50.750
+<v Speaker 2>Just wasted two cars and got absolutely nothing.</v>
+
+00:03:50.760 --> 00:04:17.470
+<v Speaker 1>Happened alright, I cast this is lemurs on my opponent with swamps and I'm feeling very happy. He doesn't want that to happen so he's gonna draining whelk my viscid lemures and hopefully get a big guy. Now I I don't want him getting a big 66 flyer so I decide to in response to the tokens going on to the the draining well to strangling soot his welk so it will die first. He still wants tokens on that welk, so he decides to momentary blink the welk out and comes back in targeting</v>
+
+00:04:17.560 --> 00:04:23.320
+<v Speaker 1>Strangling Soot. What cards get countered? What cards fizzle? How many tokens on the Welk and why?</v>
+
+00:04:24.010 --> 00:04:43.880
+<v Speaker 2>OK, the stack resolves in last in first out order, and so once this comes into play, this ability triggers. Now he has to pick a spell to counter and he's going to pick the Strangling Soot. So the first thing that's going to happen is this Strangling Soot's going to get countered and the Draining Whelk is going to get 3 counters on it.</v>
+
+00:04:45.300 --> 00:05:16.840
+<v Speaker 2>Then the next thing that resolves is we still have the trigger for when the previous Draining Whelk came into play and it still says to counter the viscid lemures and it's going to do that. It's still going to counter the spell. But the other part of the effect which says to put X + 1 + 1 counters on the Draining Whelk, well that doesn't do anything because that draining Whelk has long left play. So the spells, the lemurs are also going to be countered, but the training, well the new one is actually only going to have three counters from when it</v>
+
+00:05:16.940 --> 00:05:18.260
+<v Speaker 2>encountered the strangling sub.</v>
+
+00:05:20.360 --> 00:05:22.230
+<v Speaker 1>OK. Thanks a lot, Ross. I really appreciate your.</v>
+
