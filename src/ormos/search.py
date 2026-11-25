@@ -13,7 +13,6 @@ from collections.abc import Iterable, Iterator
 from concurrent.futures import ThreadPoolExecutor
 from itertools import islice
 from pathlib import Path
-from tempfile import TemporaryDirectory
 from typing import TYPE_CHECKING
 
 from .paths import site_file, write_new
@@ -58,10 +57,14 @@ class SearchIndex:
                 indexes = [search / name for name, _ in batch]
                 if first is None:
                     first = indexes[0]
-                results = [
-                    pool.submit(self._build_shard, index, sources, threads)
-                    for index, (_, sources) in zip(indexes, batch, strict=True)
-                ]
+                results = []
+                for index, (_, sources) in zip(indexes, batch, strict=True):
+                    logger.info(
+                        "Indexing %s (%s documents)", index.name, f"{len(sources):,}"
+                    )
+                    results.append(
+                        pool.submit(self._build_shard, index, sources, threads)
+                    )
                 for index, result in zip(indexes, results, strict=True):
                     for language in result.result():
                         manifest[language].append(f"/pagefind/{index.name}/")
@@ -145,41 +148,56 @@ class SearchIndex:
                 f"Search plan is missing {len(expected - seen):,} canonical paths in {path}"
             )
         for name, members in shards:
+            # Pagefind assigns page numbers in the order recorded in the plan.
             yield name, [site_file(self.output, member) for member in members]
 
     def _build_shard(self, index: Path, sources: list[Path], threads: int) -> list[str]:
-        logger.info("Indexing %s (%s documents)", index.name, f"{len(sources):,}")
-        with TemporaryDirectory(prefix=".search-", dir=self.output.parent) as directory:
-            scan_root = Path(directory)
-            for html in sources:
-                scan_file = scan_root / html.relative_to(self.output)
-                scan_file.parent.mkdir(parents=True, exist_ok=True)
-                scan_file.hardlink_to(html)
-            command = [
-                "npx",
-                "--yes",
-                f"pagefind@{PAGEFIND_VERSION}",
-                "--site",
-                str(scan_root),
-                "--output-path",
+        index.mkdir()
+        environment = {**os.environ, "RAYON_NUM_THREADS": str(threads)}
+        # Keep the selected executable and index settings tied to the lockfile.
+        for override in (
+            "PAGEFIND_BINARY_PATH",
+            "PAGEFIND_EXTENDED_BINARY_PATH",
+            "PAGEFIND_UNSTABLE_INDEX_CHUNK_SIZE",
+            "npm_config_arch",
+        ):
+            environment.pop(override, None)
+        driver = Path(__file__).with_name("pagefind.mjs")
+        # Resolve the locked Node package from the checkout, even when the
+        # Python package is installed into a virtual environment elsewhere.
+        result = subprocess.run(
+            [
+                "node",
+                "--input-type=module",
+                "--eval",
+                driver.read_text(encoding="utf-8"),
+                "--",
+                str(self.output),
                 str(index),
-            ]
-            environment = {**os.environ, "RAYON_NUM_THREADS": str(threads)}
-            result = subprocess.run(
-                command,
-                env=environment,
-                stdout=subprocess.PIPE,
-                stderr=subprocess.STDOUT,
-                text=True,
-                check=False,
+            ],
+            env=environment,
+            input=json.dumps(
+                [source.relative_to(self.output).as_posix() for source in sources]
+            ),
+            stdout=subprocess.PIPE,
+            stderr=subprocess.STDOUT,
+            encoding="utf-8",
+            check=False,
+        )
+        level = logging.ERROR if result.returncode else logging.INFO
+        for line in result.stdout.splitlines():
+            if line.strip():
+                logger.log(level, "%s: %s", index.name, line)
+        if result.returncode:
+            raise ValueError(
+                f"Pagefind failed for {index.name} (exit {result.returncode})"
             )
-            level = logging.ERROR if result.returncode else logging.INFO
-            for line in result.stdout.splitlines():
-                if line.strip():
-                    logger.log(level, "%s: %s", index.name, line)
-            result.check_returncode()
 
         entry = json.loads((index / "pagefind-entry.json").read_text(encoding="utf-8"))
+        if entry["version"] != PAGEFIND_VERSION:
+            raise ValueError(
+                f"Search shard {index.name} used Pagefind {entry['version']}"
+            )
         languages = entry["languages"]
         indexed = sum(language["page_count"] for language in languages.values())
         if indexed != len(sources):

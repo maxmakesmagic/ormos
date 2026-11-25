@@ -8,3 +8,4 @@ __pycache__/
 .wrangler/
 /dist/
 /site/
+/node_modules/

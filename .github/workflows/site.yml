@@ -57,6 +57,11 @@ jobs:
             src
             tests
           persist-credentials: false
+      - name: Set up Node.js
+        uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version: '24.22.2'
+          package-manager-cache: false
       - name: Set up uv
         uses: astral-sh/setup-uv@1db35dd8eee11c5894872e0b383ae6c406cf738d # v10.4.0
         with:
@@ -65,6 +70,8 @@ jobs:
           enable-cache: false
       - name: Install locked dependencies
         run: uv sync --locked --group deploy
+      - name: Install Pagefind
+        run: npm ci --ignore-scripts --no-audit --no-fund
       - name: Run pytest
         run: uv run --locked --no-sync pytest
 

@@ -9,6 +9,7 @@ Install uv, Node.js, and npm. The builder uses Pagefind to create the search ind
 Run these commands from the checkout.
 
 ```sh
+npm ci --ignore-scripts
 uv run --locked ormos-build --output ../ormos-site
 uv run --locked python -m http.server 8000 --directory ../ormos-site
 ```
@@ -16,6 +17,9 @@ uv run --locked python -m http.server 8000 --directory ../ormos-site
 Open http://localhost:8000/. Choose a new output directory for each build.
 
 The builder reads redirects, Wizards URL mappings, the search shard list, and video transcripts from `data/`. The checkout contains these files.
+
+The search plan records the order of pages within each shard. Keep that order when you edit `data/search-plan.json` because Pagefind uses it to assign page numbers.
+When you add a canonical page, append its path to a shard or add a shard for it.
 
 `data/media-urls.jsonl` records the public destinations of archived image and media URLs. Each line contains `original_url`, `target_url`, and `kind`. An original URL can have several entries when the archive holds different versions. The Markdown links directly to those destinations.
 

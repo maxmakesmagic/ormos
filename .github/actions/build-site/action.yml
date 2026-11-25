@@ -25,6 +25,9 @@ runs:
     - name: Install locked dependencies
       run: uv sync --locked --no-dev --group deploy
       shell: bash
+    - name: Install Pagefind
+      run: npm ci --ignore-scripts --no-audit --no-fund
+      shell: bash
     - name: Render and index the archive
       run: uv run --locked --no-sync ormos-build --output "$RUNNER_TEMP/site"
       shell: bash
