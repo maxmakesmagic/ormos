@@ -17,7 +17,7 @@ from .html import (
     layout,
     link,
 )
-from .paths import component, legacy_redirect_route, route, site_file, write_new
+from .paths import component, route, site_file, write_new
 from .videos import VideoLibrary
 
 PAGE_SIZE = 200
@@ -258,9 +258,9 @@ class Site:
             raise ValueError(f"Multiple pages use {path}")
         self.paths.add(path)
 
-    def page(self, path: str, html: str, *, legacy: bool = False) -> None:
+    def page(self, path: str, html: str) -> None:
         """Register the page path and write its HTML file."""
-        path = legacy_redirect_route(path) if legacy else route(path)
+        path = route(path)
         self._record_path(path)
         write_new(site_file(self.output, path), html)
 
@@ -613,8 +613,7 @@ class Site:
 
     def redirect(self, source: str, target: str, kind: str) -> None:
         """Write a redirect page to an existing canonical destination."""
-        legacy = kind == "old-repo-path"
-        source = legacy_redirect_route(source) if legacy else route(source)
+        source = route(source)
         target = route(target)
         if source == target:
             return
@@ -640,7 +639,6 @@ class Site:
 <title>Page moved · {SITE_NAME}</title></head><body><main><h1>Page moved</h1>
 <p>{link(target, "Continue to the archived page")}</p></main></body></html>
 """,
-            legacy=legacy,
         )
         self.redirects[source] = Redirect(source, target, kind)
 

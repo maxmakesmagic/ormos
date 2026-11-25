@@ -160,7 +160,7 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: bash .github/scripts/check-main.sh
-      - name: Upload changed files
+      - name: Apply site plan
         id: deploy
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.R2_DEPLOY_ACCESS_KEY_ID }}

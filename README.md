@@ -38,7 +38,7 @@ If the deployment matches `inventory.ndjson`, use that file as the next baseline
 
 ## GitHub deployment
 
-Pushes to `main` build the site and upload new and changed files in the `production` environment. Removed keys stay in R2.
+Pushes to `main` build and deploy the site in the `production` environment. The deploy uploads new and changed files first. It then deletes files in the deployment inventory that the new build omits.
 
 Pull requests build the site and produce a dry upload plan. Pull requests from forks and Dependabot build without R2 credentials. A follow-up workflow on `main` compares their build inventory using read-only credentials. It saves the upload list and logs the removal count.
 
@@ -53,6 +53,6 @@ To pack a verified inventory for the first deployment, run this command from the
 uv run --locked python -m zipfile -c ../ormos-upload-plan/deployment.zip ../ormos-upload-plan/inventory.ndjson
 ```
 
-If a deployment stops partway through, dry runs use the last completed inventory. The next production run checks the pending uploads before it plans new changes. If you update site objects directly in R2, refresh the deployment inventory before the next run.
+If a deployment stops partway through, dry runs use the last completed inventory. The next production run checks pending uploads and deletions before it plans new changes. If you update site objects directly in R2, do it between deployments. Refresh the deployment inventory before the next run.
 
 The default Ubuntu runner clears unused toolchains before checkout. If it lacks enough free disk, set `ORMOS_RUNNER` to a GitHub-hosted Linux runner label with at least 40 GiB free. Fork and Dependabot builds use `ubuntu-24.04`.

@@ -117,9 +117,9 @@ class ArchiveBuilder:
         source = data / "redirects.jsonl"
         if source.is_file():
             for record in read_json_lines(source):
-                site.redirect(
-                    record["path"], record["target"], record.get("kind") or "old-path"
-                )
+                kind = record.get("kind") or "old-path"
+                if kind != "old-repo-path":
+                    site.redirect(record["path"], record["target"], kind)
         for document in site.entries.values():
             site.redirect(f"/id/{document.id}", document.path, "permanent-id")
         site.write_redirects(site.output / "redirects.jsonl")

@@ -16,7 +16,7 @@ from operator import attrgetter
 from pathlib import Path
 from shutil import copyfileobj
 from tempfile import TemporaryDirectory
-from typing import TYPE_CHECKING, TypeVar
+from typing import TYPE_CHECKING, Any, TypeVar
 from zipfile import ZIP_DEFLATED, BadZipFile, ZipFile
 
 import boto3
@@ -35,6 +35,7 @@ INVENTORY = "inventory.ndjson"
 UPLOAD = "upload.ndjson"
 REMOVED = "removed.ndjson"
 WORKERS = 16
+DELETE_BATCH_SIZE = 1_000
 logger = logging.getLogger(__name__)
 Result = TypeVar("Result")
 
@@ -81,15 +82,21 @@ def _matches(
 
 @dataclass(frozen=True, slots=True)
 class DeploymentState:
-    """A local snapshot of the committed inventory and any pending uploads."""
+    """A local snapshot of the committed inventory and pending changes."""
 
     etag: str
     inventory: Path
-    pending: Path | None
+    pending_uploads: Path | None = None
+    pending_removals: Path | None = None
+
+    @property
+    def has_pending(self) -> bool:
+        """Return whether a deployment journal needs reconciliation."""
+        return self.pending_uploads is not None or self.pending_removals is not None
 
     def dry_baseline(self) -> Path:
         """Return the inventory from the last completed deployment."""
-        if self.pending is not None:
+        if self.has_pending:
             logger.warning(
                 "Dry plan uses the last completed inventory while a deployment is pending"
             )
@@ -115,10 +122,14 @@ class R2Deployment:
         with closing(response["Body"]) as body, archive_path.open("wb") as archive:
             copyfileobj(body, archive, 1024 * 1024)
         with ZipFile(archive_path) as archive:
-            names = sorted(archive.namelist())
-            if names not in ([INVENTORY], [INVENTORY, UPLOAD]):
+            names = archive.namelist()
+            if (
+                INVENTORY not in names
+                or len(names) != len(set(names))
+                or set(names) - {INVENTORY, UPLOAD, REMOVED}
+            ):
                 raise ValueError(
-                    f"Expected {INVENTORY} and an optional {UPLOAD} in {STATE_KEY}"
+                    f"Expected {INVENTORY} and optional {UPLOAD} and {REMOVED} in {STATE_KEY}"
                 )
             for name in names:
                 with (
@@ -129,8 +140,12 @@ class R2Deployment:
         inventory = directory / INVENTORY
         if next(_objects(inventory), None) is None:
             raise ValueError("The deployment inventory is empty")
-        pending = directory / UPLOAD if UPLOAD in names else None
-        return DeploymentState(response["ETag"], inventory, pending)
+        return DeploymentState(
+            response["ETag"],
+            inventory,
+            pending_uploads=directory / UPLOAD if UPLOAD in names else None,
+            pending_removals=directory / REMOVED if REMOVED in names else None,
+        )
 
     def _head(self, key: str) -> "HeadObjectOutputTypeDef | None":
         try:
@@ -169,33 +184,52 @@ class R2Deployment:
         self,
         etag: str,
         inventory: Path,
-        pending: Path | None = None,
+        *,
+        pending_uploads: Path | None = None,
+        pending_removals: Path | None = None,
     ) -> str:
-        archive_path = inventory.parent / STATE_KEY
-        with ZipFile(archive_path, "w", ZIP_DEFLATED) as archive:
-            archive.write(inventory, INVENTORY)
-            if pending is not None:
-                archive.write(pending, UPLOAD)
-        return self._put_file(
-            archive_path,
-            {
-                "Bucket": self.state_bucket,
-                "Key": STATE_KEY,
-                "ContentType": "application/zip",
-                "CacheControl": "no-store",
-                "IfMatch": etag,
-            },
-        )
+        with TemporaryDirectory(prefix="ormos-state-") as directory:
+            archive_path = Path(directory) / STATE_KEY
+            with ZipFile(archive_path, "w", ZIP_DEFLATED) as archive:
+                archive.write(inventory, INVENTORY)
+                if pending_uploads is not None:
+                    archive.write(pending_uploads, UPLOAD)
+                if pending_removals is not None:
+                    archive.write(pending_removals, REMOVED)
+            return self._put_file(
+                archive_path,
+                {
+                    "Bucket": self.state_bucket,
+                    "Key": STATE_KEY,
+                    "ContentType": "application/zip",
+                    "CacheControl": "no-store",
+                    "IfMatch": etag,
+                },
+            )
 
     def _reconcile(self, state: DeploymentState) -> Path:
-        if state.pending is None:
+        if not state.has_pending:
             return state.inventory
-        pending = {record.key: record for record in _objects(state.pending)}
+        uploads = (
+            {record.key: record for record in _objects(state.pending_uploads)}
+            if state.pending_uploads is not None
+            else {}
+        )
+        removals = (
+            {record.key: record for record in _objects(state.pending_removals)}
+            if state.pending_removals is not None
+            else {}
+        )
+        if uploads.keys() & removals.keys():
+            raise ValueError("Deployment journal lists a key for upload and removal")
+        affected = uploads.keys() | removals.keys()
         previous = {
             record.key: record
             for record in _objects(state.inventory)
-            if record.key in pending
+            if record.key in affected
         }
+        if any(previous.get(key) != record for key, record in removals.items()):
+            raise ValueError("Deployment journal removals differ from the inventory")
 
         def live_update(record: SiteObject) -> SiteObject | None:
             remote = self._head(record.key)
@@ -209,17 +243,28 @@ class R2Deployment:
 
         applied = {
             record.key: record
-            for record in _parallel(live_update, pending.values())
+            for record in _parallel(live_update, uploads.values())
             if record is not None
         }
-        logger.info("Recovered %s prior uploads", f"{len(applied):,}")
+        removed = {
+            key
+            for key, present in zip(
+                removals, _parallel(self._needs_removal, removals.values()), strict=True
+            )
+            if not present
+        }
+        logger.info(
+            "Recovered %s uploads and %s removals",
+            f"{len(applied):,}",
+            f"{len(removed):,}",
+        )
         inventory = state.inventory.with_name("reconciled.ndjson")
         _write_inventory(
             inventory,
             (
                 record
                 for record in _objects(state.inventory)
-                if record.key not in applied
+                if record.key not in applied and record.key not in removed
             ),
             applied.values(),
         )
@@ -257,22 +302,80 @@ class R2Deployment:
             raise ValueError(f"R2 did not return the expected upload: {record.key}")
         return True
 
+    def _needs_removal(self, record: SiteObject) -> bool:
+        remote = self._head(record.key)
+        if remote is None:
+            return False
+        if not _matches(remote, record):
+            raise ValueError(
+                f"Live object differs from the deployment inventory: {record.key}"
+            )
+        return True
+
+    def _verify_removal(self, key: str) -> None:
+        if self._head(key) is not None:
+            raise ValueError(f"R2 still has the object after deletion: {key}")
+
+    def _remove(self, records: Iterator[SiteObject]) -> None:
+        # R2 deletes are unconditional. The production workflow serializes writes.
+        removed = 0
+        checked = 0
+        with ThreadPoolExecutor(max_workers=WORKERS) as pool:
+            while batch := list(islice(records, DELETE_BATCH_SIZE)):
+                keys = [
+                    record.key
+                    for record, present in zip(
+                        batch, pool.map(self._needs_removal, batch), strict=True
+                    )
+                    if present
+                ]
+                if keys:
+                    response = self.client.delete_objects(
+                        Bucket=self.site_bucket,
+                        Delete={
+                            "Objects": [{"Key": key} for key in keys],
+                            "Quiet": True,
+                        },
+                    )
+                    if errors := response.get("Errors"):
+                        first = errors[0]
+                        raise ValueError(
+                            f"R2 failed to delete {len(errors):,} objects. "
+                            f"{first.get('Key')} returned {first.get('Code')}"
+                        )
+                    for _ in pool.map(self._verify_removal, keys):
+                        pass
+                    removed += len(keys)
+                checked += len(batch)
+                if checked % 10_000 == 0:
+                    logger.info("Verified %s planned removals", f"{checked:,}")
+        logger.info("Deleted %s files", f"{removed:,}")
+
     def _apply(
         self, state: DeploymentState, baseline: Path, site: Path, plan: Path
     ) -> None:
         upload = plan / UPLOAD
-        if upload.stat().st_size == 0 and state.pending is None:
-            logger.info("No uploads needed")
+        removals = plan / REMOVED
+        has_uploads = upload.stat().st_size > 0
+        has_removals = removals.stat().st_size > 0
+        if not (has_uploads or has_removals or state.has_pending):
+            logger.info("No deployment changes needed")
             return
         etag = state.etag
-        if upload.stat().st_size:
+        if has_uploads or has_removals:
+            etag = self._put_state(
+                etag,
+                baseline,
+                pending_uploads=upload if has_uploads else None,
+                pending_removals=removals if has_removals else None,
+            )
+        if has_uploads:
             keys = {record.key for record in _objects(upload)}
             previous = {
                 record.key: record
                 for record in _objects(baseline)
                 if record.key in keys
             }
-            etag = self._put_state(etag, baseline, upload)
 
             def publish(record: SiteObject) -> bool:
                 return self._upload(site, record, previous.get(record.key))
@@ -286,12 +389,9 @@ class R2Deployment:
                     logger.info("Verified %s planned uploads", f"{completed:,}")
             logger.info("Uploaded %s files", f"{uploaded:,}")
 
-        # The next baseline includes objects that this run leaves online.
-        inventory = baseline.with_name("published.ndjson")
-        _write_inventory(
-            inventory, _objects(plan / INVENTORY), _objects(plan / REMOVED)
-        )
-        self._put_state(etag, inventory)
+        if has_removals:
+            self._remove(_objects(removals))
+        self._put_state(etag, plan / INVENTORY)
         logger.info("Published the verified deployment inventory")
 
     def run(self, site: Path, output: Path, *, apply: bool) -> None:
@@ -308,6 +408,14 @@ class R2Deployment:
         with TemporaryDirectory(prefix="ormos-deployment-") as temp:
             state = self._get_state(Path(temp))
             InventoryPlan(candidate, state.dry_baseline(), output).write()
+
+
+def _delete_batch_checksum(params: dict[str, Any], **_kwargs: object) -> None:
+    """Use the classic S3 Content-MD5 header for R2 bulk deletes."""
+    # Botocore assigns a flexible CRC32 checksum even in when_required mode.
+    params["context"].pop("checksum", None)
+    digest = md5(params["body"], usedforsecurity=False).digest()
+    params["headers"]["Content-MD5"] = b64encode(digest).decode("ascii")
 
 
 def _deployment() -> R2Deployment:
@@ -340,6 +448,7 @@ def _deployment() -> R2Deployment:
             response_checksum_validation="when_required",
         ),
     )
+    client.meta.events.register("before-call.s3.DeleteObjects", _delete_batch_checksum)
     return R2Deployment(client, state, site)
 
 
@@ -353,7 +462,9 @@ def main() -> int:
     )
     parser.add_argument("--output", type=Path, required=True, help="New plan directory")
     parser.add_argument(
-        "--apply", action="store_true", help="Upload and verify planned objects"
+        "--apply",
+        action="store_true",
+        help="Apply and verify planned uploads and removals",
     )
     args = parser.parse_args()
     if args.apply and args.inventory is not None:
