@@ -15,9 +15,9 @@ if (process.argv.length < 3 || !siteRoot || !outputPath) {
 }
 
 // Read piped input as bytes to avoid Node's UTF-8 pipe bug (nodejs/node#66341).
-const paths = JSON.parse(readFileSync(0).toString("utf8"));
-if (!Array.isArray(paths) || paths.some((path) => typeof path !== "string")) {
-  throw new Error("Pass an array of relative HTML paths on standard input.");
+const sources = JSON.parse(readFileSync(0).toString("utf8"));
+if (!Array.isArray(sources)) {
+  throw new Error("Pass an array of HTML paths or title records on standard input.");
 }
 
 try {
@@ -25,10 +25,15 @@ try {
   checkErrors(created, "Create Pagefind index");
   const { index } = created;
 
-  for (const sourcePath of paths) {
-    const content = await readFile(join(siteRoot, sourcePath), "utf8");
-    const added = await index.addHTMLFile({ sourcePath, content });
-    checkErrors(added, `Index ${sourcePath}`);
+  for (const source of sources) {
+    if (typeof source === "string") {
+      const content = await readFile(join(siteRoot, source), "utf8");
+      const added = await index.addHTMLFile({ sourcePath: source, content });
+      checkErrors(added, `Index ${source}`);
+    } else {
+      const added = await index.addCustomRecord(source);
+      checkErrors(added, `Index title at ${source.url}`);
+    }
   }
 
   const written = await index.writeFiles({ outputPath });

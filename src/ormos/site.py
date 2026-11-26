@@ -532,6 +532,24 @@ class Site:
         if media:
             choices.append((MEDIA_ROUTE, "Media", sum(count for _, _, count in media)))
         self.groups_page("/", SITE_NAME, choices)
+        self.search_navigation(articles)
+
+    def search_navigation(self, articles: list[Document]) -> None:
+        """Write localized search pages with filters for archived articles."""
+        columns: defaultdict[str, dict[str, str]] = defaultdict(dict)
+        authors: defaultdict[str, dict[str, str]] = defaultdict(dict)
+        years: defaultdict[str, set[int | None]] = defaultdict(set)
+        for article in articles:
+            if article.kind != "article":
+                continue
+            lang = article.lang.lower()
+            if article.column_slug:
+                columns[lang].setdefault(article.column_slug, article.column)
+            for author in article.authors:
+                authors[lang].setdefault(author.slug, author.name)
+            day = article.day
+            years[lang].add(day.year if day else None)
+
         languages = sorted(
             {component(entry.lang).lower() for entry in self.entries.values()} | {"en"}
         )
@@ -540,6 +558,27 @@ class Site:
             for lang in languages
         }
         for language, path in search_pages.items():
+            known_years = sorted(
+                (year for year in years[language] if year is not None), reverse=True
+            )
+            year_options = [(str(year), str(year)) for year in known_years]
+            if None in years[language]:
+                year_options.append(("undated", "Undated"))
+            filter_options = [
+                (
+                    name,
+                    label,
+                    sorted(
+                        values[language].items(),
+                        key=lambda option: (option[1].casefold(), option[0]),
+                    ),
+                )
+                for name, label, values in (
+                    ("column", "Column", columns),
+                    ("author", "Author", authors),
+                )
+            ]
+            filter_options.append(("year", "Publication year", year_options))
             self.page(
                 path,
                 render_page(
@@ -549,6 +588,7 @@ class Site:
                     lang=language,
                     script="/assets/search.js",
                     search_pages=search_pages,
+                    filter_options=filter_options,
                 ),
             )
 

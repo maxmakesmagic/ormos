@@ -1,6 +1,7 @@
 """Check the Pagefind bundle produced for the archive."""
 
 import json
+from gzip import decompress
 from hashlib import sha256
 from pathlib import Path
 
@@ -124,3 +125,65 @@ def test_search_uses_the_planned_page_order(tmp_path: Path, search_plan: Path) -
 
     entry = "part-001/pagefind-entry.json"
     assert (before / entry).read_bytes() != (after / entry).read_bytes()
+    assert _bundle_files(before / "titles") == _bundle_files(after / "titles")
+
+
+def test_title_index_has_only_article_titles_and_filter_values(tmp_path: Path) -> None:
+    """Keep body text and searchable author names out of the title index."""
+    article = Document.read(
+        {
+            "id": "lotus",
+            "kind": "article",
+            "path": "/en/articles/lotus",
+            "title": "Black Lotus",
+            "published": "2004-02-03",
+            "authors": [
+                {"slug": "alice", "name": "Alice Example"},
+                {"slug": "bob", "name": "Bob Example"},
+            ],
+            "column_slug": "feature",
+            "column": "Feature",
+        }
+    )
+    undated = Document.read(
+        {
+            "id": "mox",
+            "kind": "article",
+            "path": "/en/articles/mox",
+            "title": "Mox Sapphire",
+            "published": "1969-12-31",
+        }
+    )
+    event = Document.read(
+        {
+            "id": "finals",
+            "kind": "event",
+            "path": "/en/events/finals",
+            "title": "Finals",
+        }
+    )
+    for document in (article, undated, event):
+        source = ArticleSource(document, "Only articles can win the tournament.")
+        write_new(site_file(tmp_path, document.path), source.render())
+
+    SearchIndex(tmp_path).build(document for document in (article, undated, event))
+    bundle = tmp_path / "pagefind" / "titles"
+    assert json.loads((bundle / "shards.json").read_text(encoding="utf-8")) == {
+        "en": ["/pagefind/titles/en-001/"]
+    }
+    fragments = {}
+    for path in bundle.rglob("*.pf_fragment"):
+        payload = decompress(path.read_bytes())
+        assert payload.startswith(b"pagefind_dcd")
+        fragment = json.loads(payload.removeprefix(b"pagefind_dcd"))
+        fragments[fragment["url"]] = fragment
+    assert set(fragments) == {article.path, undated.path}
+    indexed = fragments[article.path]
+    assert indexed["content"] == article.title
+    assert indexed["meta"] == {"title": article.title}
+    assert indexed["filters"] == {
+        "author": ["alice", "bob"],
+        "column": ["feature"],
+        "year": ["2004"],
+    }
+    assert fragments[undated.path]["filters"]["year"] == ["undated"]
