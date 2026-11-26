@@ -51,11 +51,15 @@ Pull requests build the site and produce a dry upload plan. Pull requests from f
 3. Create an R2 Object Read token for the state bucket only. Store the key pair as the repository secrets `R2_STATE_READ_ACCESS_KEY_ID` and `R2_STATE_READ_SECRET_ACCESS_KEY`.
 4. Create the `production` environment. Restrict its deployment branches to `main`. Create an R2 Object Read & Write token for the site and state buckets. Store the key pair as the environment secrets `R2_DEPLOY_ACCESS_KEY_ID` and `R2_DEPLOY_SECRET_ACCESS_KEY`.
 
+To batch metadata checks before and after uploads, add the optional `R2_LIST_API_TOKEN` secret to `production`. Use a Cloudflare R2 Admin Read only bearer token. This token grants read access across the account's R2 buckets. The deploy uses batching for plans with at least 10,000 uploads. It uses S3 HEAD when the token is absent or the list cannot verify an object. Keep the bucket-scoped S3 key pair for deploy writes.
+
 To pack a verified inventory for the first deployment, run this command from the checkout.
 
 ```sh
 uv run --locked python -m zipfile -c ../ormos-upload-plan/deployment.zip ../ormos-upload-plan/inventory.ndjson
 ```
+
+The deploy command runs up to 32 R2 requests at a time. Use `--workers` to set the concurrency when you run it locally.
 
 If a deployment stops partway through, dry runs use the last completed inventory. The next production run checks pending uploads and deletions before it plans new changes. If you update site objects directly in R2, do it between deployments. Refresh the deployment inventory before the next run.
 

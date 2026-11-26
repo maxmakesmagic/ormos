@@ -165,6 +165,7 @@ jobs:
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.R2_DEPLOY_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_DEPLOY_SECRET_ACCESS_KEY }}
+          ORMOS_R2_LIST_TOKEN: ${{ secrets.R2_LIST_API_TOKEN }}
         run: >-
           uv run --locked --no-sync ormos-deploy
           --site "$RUNNER_TEMP/site" --output "$RUNNER_TEMP/upload-plan" --apply
