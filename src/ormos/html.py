@@ -1,4 +1,4 @@
-"""Render the shared HTML page layout."""
+"""Render archive templates with shared page metadata."""
 
 from html import escape
 from importlib.resources import files
@@ -33,22 +33,14 @@ _TEMPLATES = Environment(
 )
 _TEMPLATES.globals["config"] = _CONFIG
 _TEMPLATES.filters["escape_html"] = _escape_html
-_COMPONENTS = _TEMPLATES.get_template("components.html").module
-_PAGE = _TEMPLATES.get_template("page.html")
 
 
-def _component(name: str, *args: object) -> str:
-    return str(getattr(_COMPONENTS, name)(*args))
+def render_template(template: str, **context: object) -> str:
+    """Render a Jinja2 template with its data."""
+    return _TEMPLATES.get_template(template).render(**context)
 
 
-def link(href: str, label: str, **attributes: str) -> str:
-    """Render a link with escaped text and attribute values."""
-    return _component("link", href, label, attributes)
-
-
-def site_footer(path: str) -> str:
-    """Render the footer with a report link for this page."""
-    route(path)
+def _report_url(path: str) -> str:
     parameters = urlencode(
         {
             "subject": _CONFIG["footer"]["report_subject"],
@@ -56,15 +48,20 @@ def site_footer(path: str) -> str:
         },
         quote_via=quote,
     )
-    return _component(
-        "footer", f"mailto:{_CONFIG['footer']['report_email']}?{parameters}"
-    )
+    return f"mailto:{_CONFIG['footer']['report_email']}?{parameters}"
 
 
-def layout(
-    title: str, path: str, content: str, *, lang: str = "en", scripts: str = ""
+def render_page(
+    template: str,
+    title: str,
+    path: str,
+    *,
+    lang: str = "en",
+    script: str = "",
+    **context: object,
 ) -> str:
-    """Wrap page content in the shared HTML layout."""
+    """Render a page with its title, security policy, and report link."""
+    path = route(path)
     home_title = _CONFIG["home"]["title"]
     browser_title = (
         f"{SITE_NAME} · {home_title}" if path == "/" else f"{title} · {SITE_NAME}"
@@ -74,22 +71,14 @@ def layout(
         policy += f"; media-src 'self' {VIDEO_ORIGIN}"
     # Apostrophes can appear as-is inside a double-quoted attribute.
     attribute_value = Markup(escape(policy, quote=False).replace('"', "&quot;"))
-    return _PAGE.render(
-        title=browser_title,
+    return render_template(
+        template,
+        title=title,
+        browser_title=browser_title,
         path=path,
         lang=lang,
         policy=attribute_value,
-        scripts=scripts,
-        content=content,
-        footer=site_footer(path),
+        script=script,
+        report_url=_report_url(path),
+        **context,
     )
-
-
-def home_description() -> str:
-    """Render the introduction on the home page."""
-    return _component("home_description")
-
-
-def home_supporters() -> str:
-    """Render the home page list of supporters."""
-    return _component("home_supporters")

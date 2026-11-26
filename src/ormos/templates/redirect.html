@@ -1,0 +1,6 @@
+{% from "components.html" import link -%}
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="refresh" content="0; url={{ target | escape_html }}"><link rel="canonical" href="{{ target | escape_html }}">
+<title>Page moved · {{ config.site.name | escape_html }}</title></head><body><main><h1>Page moved</h1>
+<p>{{ link(target, "Continue to the archived page") }}</p></main></body></html>

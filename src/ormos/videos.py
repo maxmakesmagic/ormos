@@ -7,15 +7,16 @@ import re
 from collections.abc import Iterator
 from dataclasses import dataclass
 from hashlib import sha256
-from html import escape, unescape
+from html import unescape
 from math import isfinite
 from pathlib import Path
 from typing import TYPE_CHECKING, Any
 
-from .html import VIDEO_ORIGIN, VIDEO_ROUTE, layout, link
+from .html import VIDEO_ORIGIN, VIDEO_ROUTE, render_page
 from .paths import component
 
 if TYPE_CHECKING:
+    from .content import Document
     from .site import Site
 
 
@@ -70,6 +71,15 @@ class Video:
     def media_stem(self) -> str:
         """Return the media path without its origin or file extension."""
         return self.url.removeprefix(f"{VIDEO_ORIGIN}/").removesuffix(".mp4")
+
+    @property
+    def duration(self) -> str:
+        """Return the display duration, or an empty string when it is unknown."""
+        return (
+            duration_label(self.duration_seconds)
+            if self.duration_seconds is not None
+            else ""
+        )
 
     @classmethod
     def from_record(cls, row: dict[str, Any]) -> Video:
@@ -196,26 +206,11 @@ class VideoTranscript:
         if start is not None:
             yield start, speaker, " ".join(words)
 
-    def render(self) -> str:
-        """Render transcript sections with links to their positions in the video."""
-        sections = []
+    def blocks(self) -> Iterator[tuple[str, str, str | None, str]]:
+        """Yield each transcript block with a seek offset and display time."""
         for milliseconds, speaker, words in self._blocks():
             position = f"{milliseconds // 1000}.{milliseconds % 1000:03}"
-            time = duration_label(milliseconds // 1000)
-            seek = link(
-                "#t=" + position,
-                time,
-                **{"data-video-seek": "", "aria-label": f"Seek to {time}"},
-            )
-            label = (
-                f'<p class="transcript-speaker" data-video-speaker>{escape(speaker)}</p>'
-                if speaker
-                else ""
-            )
-            sections.append(
-                f'<div class="transcript-block">{seek}<div>{label}<p>{escape(words)}</p></div></div>'
-            )
-        return "\n".join(sections)
+            yield position, duration_label(milliseconds // 1000), speaker, words
 
 
 @dataclass(frozen=True, slots=True)
@@ -265,120 +260,57 @@ class VideoLibrary:
                 (site.entries[identifier] for identifier in video.article_ids),
                 key=lambda entry: (entry.title.casefold(), entry.path),
             )
-            related = ", ".join(
-                link(entry.path, entry.title, **{"data-video-article": ""})
-                for entry in entries
-            )
-            coverage = (
-                f'<p class="record-meta"><span>Archive coverage</span><span>{related}</span></p>'
-                if related
-                else ""
-            )
-            duration = "Unknown"
-            if video.duration_seconds is not None:
-                duration = f'<time datetime="PT{video.duration_seconds}S">{duration_label(video.duration_seconds)}</time>'
-            note = (
-                '<span class="count video-alternate">Alternate encoding</span>'
-                if video.alternate
-                else ""
-            )
-            terms = escape(
-                " ".join(
-                    (
-                        *video.filenames,
-                        *(f"{entry.title} {entry.published}" for entry in entries),
-                    )
+            terms = " ".join(
+                (
+                    *video.filenames,
+                    *(f"{entry.title} {entry.published}" for entry in entries),
                 )
             )
-            title = link(video.path, video.title, **{"data-video-page": ""})
-            rows.append(
-                f'<tr data-video-entry data-video-search="{terms}"><td>{title}{note}</td>'
-                f'<td class="video-duration">{duration}</td></tr>'
-            )
-            self._write_page(site, video, coverage)
+            rows.append((video, terms))
+            self._write_page(site, video, entries)
 
-        noun = "video" if len(rows) == 1 else "videos"
-        content = f"""
-<h1>Videos</h1>
-<div class="video-filter" hidden>
-<label for="video-query">Filter by title, filename, or archive coverage</label>
-<input id="video-query" type="search" data-video-filter autocomplete="off">
-</div>
-<p class="count" role="status" data-video-count>{len(rows):,} {noun}</p>
-<table class="video-table">
-<caption class="visually-hidden">Videos</caption>
-<thead><tr><th scope="col">Video</th><th scope="col">Duration</th></tr></thead>
-<tbody>{"".join(rows)}</tbody>
-</table>
-"""
-        scripts = f'<script type="module" src="/assets/{VIDEO_SCRIPT}"></script>'
-        site.page(VIDEO_ROUTE, layout("Videos", VIDEO_ROUTE, content, scripts=scripts))
+        site.page(
+            VIDEO_ROUTE,
+            render_page(
+                "videos.html",
+                "Videos",
+                VIDEO_ROUTE,
+                script=f"/assets/{VIDEO_SCRIPT}",
+                rows=rows,
+            ),
+        )
 
-    def _write_page(self, site: Site, video: Video, coverage: str) -> None:
+    def _write_page(self, site: Site, video: Video, coverage: list[Document]) -> None:
         transcript = self.transcripts.get(video.url)
-        name = escape(video.title)
-        download = link(video.url, "Download MP4")
-        track = ""
-        actions = [download]
-        transcript_body = "<p>No transcript is available for this video.</p>"
-        audio_note = ""
+        captions_path = ""
+        captions_language = ""
+        audio_end = ""
         if transcript is not None:
             if (
                 video.duration_seconds is not None
                 and video.duration_seconds - transcript.audio_duration_seconds > 5
             ):
                 audio_end = duration_label(round(transcript.audio_duration_seconds))
-                full_length = duration_label(video.duration_seconds)
-                audio_note = f'<p class="record-meta">The archived audio ends at {audio_end} of this {full_length} video.</p>'
             if transcript.captions_key and transcript.text_key:
                 captions_path = f"{TRANSCRIPT_ROUTE}/{transcript.captions_key}"
-                language = {"en": "English", "nl": "Nederlands"}.get(
+                captions_language = {"en": "English", "nl": "Nederlands"}.get(
                     transcript.locale.split("-")[0], transcript.locale
                 )
-                track = (
-                    f'<track kind="captions" src="{escape(captions_path)}" srclang="{escape(transcript.locale)}"'
-                    f' label="{escape(language)}">'
-                )
-                actions.append(
-                    link(captions_path, "Download transcript (.vtt)", download="")
-                )
-                transcript_body = (
-                    f'<div class="article-body" lang="{escape(transcript.locale)}" data-video-transcript>'
-                    f"\n{transcript.render()}\n</div>"
-                )
-                if site.output is not None:
-                    transcript.write_sidecars(
-                        site.output / TRANSCRIPT_ROUTE.lstrip("/")
-                    )
+                transcript.write_sidecars(site.output / TRANSCRIPT_ROUTE.lstrip("/"))
 
-        details = []
-        if video.duration_seconds is not None:
-            details.append(
-                f'<span aria-label="Duration">{duration_label(video.duration_seconds)}</span>'
-            )
-        if video.alternate:
-            details.append("<span>Alternate encoding</span>")
-        metadata = f'<p class="record-meta">{"".join(details)}</p>' if details else ""
-        action_list = "".join(f"<li>{action}</li>" for action in actions)
-        content = f"""
-<p>{link(VIDEO_ROUTE, "All videos")}</p>
-<h1>{name}</h1>
-{metadata}
-<video class="video-player" src="{escape(video.url)}" aria-label="{name}" controls playsinline preload="metadata">
-{track}
-{download}
-</video>
-<ul class="inline-links video-actions">{action_list}</ul>
-<section class="video-transcript" aria-labelledby="transcript-heading">
-<h2 id="transcript-heading">Transcript</h2>
-{audio_note}
-{transcript_body}
-</section>
-{coverage}
-"""
-        scripts = (
-            f'<script type="module" src="/assets/{VIDEO_SCRIPT}"></script>'
-            if track
-            else ""
+        site.page(
+            video.path,
+            render_page(
+                "video.html",
+                video.title,
+                video.path,
+                script=f"/assets/{VIDEO_SCRIPT}" if captions_path else "",
+                video=video,
+                coverage=coverage,
+                audio_end=audio_end,
+                captions_path=captions_path,
+                captions_language=captions_language,
+                locale=transcript.locale if transcript else "",
+                blocks=transcript.blocks() if transcript and captions_path else (),
+            ),
         )
-        site.page(video.path, layout(video.title, video.path, content, scripts=scripts))

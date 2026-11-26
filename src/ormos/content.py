@@ -3,7 +3,6 @@
 import re
 from dataclasses import dataclass
 from datetime import date
-from html import escape
 from pathlib import Path
 from typing import Any
 from urllib.parse import urlsplit
@@ -11,8 +10,9 @@ from urllib.parse import urlsplit
 import cmarkgfm
 import nh3
 import yaml
+from markupsafe import Markup
 
-from .html import layout, link
+from .html import render_page
 from .paths import component, route, site_file, write_new
 
 _FRONT_MATTER_START = "---\n"
@@ -97,14 +97,6 @@ def publication_day(value: str | None) -> date | None:
     return None if day in _UNKNOWN_PUBLICATION_DAYS else day
 
 
-def time_element(value: str) -> str:
-    """Render a time element for a known publication date."""
-    day = publication_day(value)
-    if day is None:
-        return ""
-    return f'<time datetime="{day.isoformat()}">{day.day} {day:%B %Y}</time>'
-
-
 def web_url(value: str) -> bool:
     """Return whether the URL uses HTTP or HTTPS and names a host."""
     try:
@@ -125,6 +117,7 @@ def render_body(markdown: str) -> str:
         options=cmarkgfm.Options.CMARK_OPT_UNSAFE,
     )
     clean = _BODY_CLEANER.clean(html)
+    # Adjust the converted markup before inserting it into the page template.
     clean = clean.replace("<img ", '<img loading="lazy" decoding="async" ')
     return clean.replace(
         "<table>",
@@ -174,6 +167,11 @@ class Document:
             authors=authors,
         )
 
+    @property
+    def day(self) -> date | None:
+        """Return the publication day if it is known."""
+        return publication_day(self.published)
+
     def column_route(self) -> str:
         """Return the archive path for the document's column."""
         local = f"/{self.lang}/articles/{self.column_slug}"
@@ -199,6 +197,8 @@ class ArticleSource:
     markdown: str
     wayback_url: str = ""
     event_code: str = ""
+    description: str = ""
+    image_url: str = ""
 
     @classmethod
     def read(cls, source: Path) -> "ArticleSource":
@@ -225,54 +225,43 @@ class ArticleSource:
             raise ValueError(  # noqa: TRY004
                 f"Expected the archive source to be a mapping in {source}"
             )
+        description = metadata.get("description")
+        image_url = metadata.get("image")
         return cls(
             Document.read(metadata),
             markdown,
             wayback_url=str(archive_source.get("wayback_url") or ""),
             event_code=str(metadata.get("event_code") or ""),
+            description=description.strip() if isinstance(description, str) else "",
+            image_url=image_url.strip() if isinstance(image_url, str) else "",
         )
 
     def render(self) -> str:
         """Render the article page with its byline and source links."""
         document = self.document
-        details = []
-        if document.authors:
-            people = ", ".join(
-                link(f"/{document.lang}/authors/{person.slug}", person.name)
-                for person in document.authors
-            )
-            byline = f'<span data-pagefind-meta="author">{people}</span>'
-            details.append(f"<span>By {byline}</span>")
-        if published := time_element(document.published):
-            details.append(published)
-        if document.column_slug:
-            details.append(
-                link(
-                    document.column_route(),
-                    document.column,
-                    **{"data-pagefind-meta": "column"},
-                )
-            )
-        elif group := document.event_group():
-            label = (self.event_code or group.rpartition("/")[2]).replace("_", " ")
-            details.append(link(group, label, **{"data-pagefind-meta": "event"}))
-        metadata = f'<div class="byline">{"".join(details)}</div>' if details else ""
-        source_links = [link(f"/id/{document.id}", "Permanent link")]
-        if web_url(self.wayback_url):
-            source_links.append(
-                link(self.wayback_url, "Archived capture", rel="nofollow")
-            )
-        provenance = " · ".join(source_links)
-        content = f"""
-<article data-pagefind-body>
-<header class="article-header">
-<h1 data-pagefind-meta="title">{escape(document.title)}</h1>
-{metadata}
-</header>
-<div class="article-body">{render_body(self.markdown)}</div>
-<footer class="article-footer" data-pagefind-ignore>{provenance}</footer>
-</article>"""
-        return layout(document.title, document.path, content, lang=document.lang)
+        event_path = document.event_group() if not document.column_slug else ""
+        event_label = (
+            (self.event_code or event_path.rpartition("/")[2]).replace("_", " ")
+            if event_path
+            else ""
+        )
+        description = self.description
+        if not description and document.authors:
+            description = "By " + ", ".join(person.name for person in document.authors)
+        return render_page(
+            "article.html",
+            document.title,
+            document.path,
+            lang=document.lang,
+            document=document,
+            day=document.day,
+            body=Markup(render_body(self.markdown)),
+            event_path=event_path,
+            event_label=event_label,
+            wayback_url=self.wayback_url if web_url(self.wayback_url) else "",
+            description=description,
+            image_url=self.image_url if web_url(self.image_url) else "",
+        )
 
 
 def render_document(job: tuple[Path, Path]) -> Document:

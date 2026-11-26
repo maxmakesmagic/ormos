@@ -1,0 +1,23 @@
+{% extends "page.html" %}
+{% from "components.html" import link %}
+{% from "listings.html" import column_table, counted_links, records_list %}
+
+{% block content -%}
+<h1>{{ heading | escape_html }}</h1>
+{%- if year_links -%}
+  <ul class="inline-links" aria-label="Years">
+  {%- for href, label in year_links %}<li>{{ link(href, label) }}</li>{% endfor -%}
+  </ul>
+{%- endif -%}
+{%- if formats %}{{ counted_links(formats, "event-formats", "Formats") }}{% endif -%}
+{%- if records -%}
+  {{ column_table(heading, records, pages > 1) if table else records_list(heading, records) }}
+{%- endif -%}
+{%- if pages > 1 -%}
+  <nav class="pagination" aria-label="Pages">
+  {%- if previous %}{{ link(previous, "Previous page", {"rel": "prev"}) }}{% endif -%}
+  <span>Page {{ index }} of {{ pages }}</span>
+  {%- if next_page %}{{ link(next_page, "Next page", {"rel": "next"}) }}{% endif -%}
+  </nav>
+{%- endif -%}
+{%- endblock %}

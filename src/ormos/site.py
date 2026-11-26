@@ -3,101 +3,28 @@
 import json
 import re
 from collections import defaultdict
+from collections.abc import Sequence
 from dataclasses import asdict, dataclass
 from datetime import date
-from html import escape
 from pathlib import Path
 
-from .content import Document, publication_day, time_element
-from .html import (
-    SITE_NAME,
-    VIDEO_ROUTE,
-    home_description,
-    home_supporters,
-    layout,
-    link,
-)
+from .content import Document
+from .html import SITE_NAME, VIDEO_ROUTE, render_page, render_template
 from .paths import component, route, site_file, write_new
 from .videos import VideoLibrary
 
 PAGE_SIZE = 200
-
-
-def listing(title: str, records: list[Document]) -> str:
-    """Render a list of documents with dates and column links."""
-    rows = []
-    for entry in records:
-        details = time_element(entry.published)
-        if entry.column_slug:
-            details += link(f"/columns/{entry.column_slug}", entry.column)
-        detail_html = f'<div class="record-meta">{details}</div>' if details else ""
-        rows.append(f"<li>{link(entry.path, entry.title)}{detail_html}</li>")
-    return f'<ol class="records" aria-label="{escape(title)}">{"".join(rows)}</ol>'
+CountedLink = tuple[str, str, int]
 
 
 def publication_order(entry: Document) -> tuple[bool, date | None]:
     """Return a sort key that puts undated documents last."""
-    published = publication_day(entry.published)
+    published = entry.day
     return published is None, published
 
 
-def column_table(title: str, records: list[Document], *, paginated: bool) -> str:
-    """Render a sortable table of articles in a column."""
-    headers = []
-    for key, label in (
-        ("date", "Publication date"),
-        ("title", "Article"),
-        ("author", "Author"),
-    ):
-        order = ' aria-sort="ascending"' if key == "date" else ""
-        headers.append(
-            f'<th scope="col"{order}><span data-sort-label>{label}</span>'
-            f'<button type="button" data-sort-key="{key}" hidden>{label}'
-            '<span class="sort-indicator" aria-hidden="true"></span></button></th>'
-        )
-    rows = []
-    for entry in records:
-        day = publication_day(entry.published)
-        date_value = day.isoformat() if day else ""
-        date_label = time_element(entry.published) or "Undated"
-        authors = ", ".join(
-            link(f"/{entry.lang}/authors/{person.slug}", person.name)
-            for person in entry.authors
-        )
-        author_value = "" if authors else ' data-sort-value=""'
-        rows.append(
-            f'<tr><td data-sort-value="{date_value}">{date_label}</td>'
-            f"<td>{link(entry.path, entry.title)}</td>"
-            f"<td{author_value}>{authors or '—'}</td></tr>"
-        )
-    scope = (
-        '<p class="sort-scope" data-sort-scope hidden>Sorting applies to the rows on this page.</p>'
-        if paginated
-        else ""
-    )
-    return (
-        "<section data-column-table>"
-        f'{scope}<div class="table-scroll" tabindex="0" role="region" aria-label="{escape(title)} articles">'
-        f'<table class="column-table"><caption class="visually-hidden">{escape(title)}</caption>'
-        f"<thead><tr>{''.join(headers)}</tr></thead><tbody>{''.join(rows)}</tbody></table></div>"
-        '<p class="visually-hidden" data-sort-status role="status"></p></section>'
-    )
-
-
-def pagination(path: str, index: int, total: int) -> str:
-    """Render links to the adjacent pages when they exist."""
-    if total <= 1:
-        return ""
-    prev = ""
-    if index > 1:
-        previous = path if index == 2 else f"{path}/page/{index - 1}"
-        prev = link(previous, "Previous page", rel="prev")
-    next_page = (
-        link(f"{path}/page/{index + 1}", "Next page", rel="next")
-        if index < total
-        else ""
-    )
-    return f'<nav class="pagination" aria-label="Pages">{prev}<span>Page {index} of {total}</span>{next_page}</nav>'
+def _page_path(path: str, index: int) -> str:
+    return path if index == 1 else f"{path}/page/{index}"
 
 
 EVENT_TYPES = {
@@ -276,12 +203,13 @@ class Site:
         path: str,
         title: str,
         entries: list[Document],
-        lead: str = "",
         *,
         lang: str = "en",
         table: bool = False,
-    ) -> None:
-        """Sort documents in place and write their pages as lists or tables."""
+        year_links: Sequence[tuple[str, str]] = (),
+        formats: Sequence[CountedLink] = (),
+    ) -> int:
+        """Sort documents in place, write their pages, and return the page count."""
         # Stable path ordering breaks ties between documents with the same publication day.
         entries.sort(key=lambda entry: entry.path)
         if table:
@@ -290,48 +218,51 @@ class Site:
             entries.sort(key=lambda entry: entry.published, reverse=True)
         pages = max(1, (len(entries) + PAGE_SIZE - 1) // PAGE_SIZE)
         for index in range(1, pages + 1):
-            page = path if index == 1 else f"{path}/page/{index}"
+            page = _page_path(path, index)
             selected = entries[(index - 1) * PAGE_SIZE : index * PAGE_SIZE]
-            heading = f"<h1>{escape(title)}</h1>"
-            if index == 1:
-                heading += lead
-            scripts = ""
-            if table and selected:
-                items = column_table(title, selected, paginated=pages > 1)
-                scripts = '<script type="module" src="/assets/column-sort.js"></script>'
-            else:
-                items = listing(title, selected) if selected else ""
             page_title = title if index == 1 else f"{title} (page {index})"
             self.page(
                 page,
-                layout(
+                render_page(
+                    "entries.html",
                     page_title,
                     page,
-                    heading + items + pagination(path, index, pages),
                     lang=lang,
-                    scripts=scripts,
+                    script="/assets/column-sort.js" if table and selected else "",
+                    heading=title,
+                    records=selected,
+                    table=table,
+                    year_links=year_links if index == 1 else (),
+                    formats=formats if index == 1 else (),
+                    index=index,
+                    pages=pages,
+                    previous=_page_path(path, index - 1) if index > 1 else "",
+                    next_page=_page_path(path, index + 1) if index < pages else "",
                 ),
             )
+        return pages
 
     def groups_page(
         self,
         path: str,
         title: str,
-        groups: list[tuple[str, str, int]],
+        groups: list[CountedLink],
         *,
         lang: str = "en",
         column_directory: bool = False,
     ) -> None:
         """Write a directory page with links and document counts for each group."""
-        items = "".join(
-            f'<li>{link(href, label)} <span class="count">{count:,}</span></li>'
-            for href, label, count in groups
+        self.page(
+            path,
+            render_page(
+                "directory.html",
+                title,
+                path,
+                lang=lang,
+                groups=groups,
+                column_directory=column_directory,
+            ),
         )
-        css_class = "directory column-directory" if column_directory else "directory"
-        description = home_description() if path == "/" else ""
-        supporters = home_supporters() if path == "/" else ""
-        content = f'<h1>{escape(title)}</h1>{description}<ul class="{css_class}">{items}</ul>{supporters}'
-        self.page(path, layout(title, path, content, lang=lang))
 
     def column_year_pages(
         self,
@@ -341,25 +272,21 @@ class Site:
         *,
         lang: str = "en",
         segment: str = "",
-    ) -> str:
+    ) -> list[tuple[str, str]]:
         """Write the yearly article tables and return links to them."""
         links = []
         for year, records in sorted(years.items(), reverse=True):
             year_path = f"{path}/{segment}{year}"
             label = "Undated" if year == "undated" else year
-            links.append(f"<li>{link(year_path, label)}</li>")
+            links.append((year_path, label))
             self.entries_page(
                 year_path, f"{title} · {label}", records, lang=lang, table=True
             )
-        return (
-            f'<ul class="inline-links" aria-label="Years">{"".join(links)}</ul>'
-            if links
-            else ""
-        )
+        return links
 
     def column_pages(
         self, slug: str, title: str, records: list[Document]
-    ) -> list[tuple[str, tuple[str, str, int]]]:
+    ) -> list[tuple[str, CountedLink]]:
         """Write pages for a column and return its entries in each language directory."""
         years = defaultdict(list)
         localized = defaultdict(list)
@@ -367,7 +294,7 @@ class Site:
             defaultdict(lambda: defaultdict(list))
         )
         for entry in records:
-            if day := publication_day(entry.published):
+            if day := entry.day:
                 years[str(day.year)].append(entry)
             parts = entry.path.split("/")
             if len(parts) == 6 and parts[1:4] == [entry.lang, "articles", slug]:
@@ -375,15 +302,22 @@ class Site:
                 localized_years[entry.lang][parts[4]].append(entry)
 
         path = f"/columns/{slug}"
-        lead = self.column_year_pages(path, title, years, segment="year/")
-        self.entries_page(path, title, records, lead, table=True)
+        year_links = self.column_year_pages(path, title, years, segment="year/")
+        self.entries_page(path, title, records, year_links=year_links, table=True)
 
         choices = []
         for lang, language_records in localized.items():
             path = f"/{lang}/articles/{slug}"
-            lead = self.column_year_pages(path, title, localized_years[lang], lang=lang)
+            year_links = self.column_year_pages(
+                path, title, localized_years[lang], lang=lang
+            )
             self.entries_page(
-                path, title, language_records, lead, lang=lang, table=True
+                path,
+                title,
+                language_records,
+                lang=lang,
+                year_links=year_links,
+                table=True,
             )
             choices.append((lang, (path, title, len(language_records))))
         return choices
@@ -413,6 +347,21 @@ class Site:
                 lang=lang,
                 column_directory=True,
             )
+
+    def article_navigation(self, articles: list[Document]) -> None:
+        """Write the Articles landing page and the full chronological list."""
+        all_path = "/articles/all"
+        self.entries_page(all_path, "All articles", articles)
+        self.page(
+            "/articles",
+            render_page(
+                "articles.html",
+                "Articles",
+                "/articles",
+                all_path=all_path,
+                count=len(articles),
+            ),
+        )
 
     def event_navigation(
         self,
@@ -454,9 +403,8 @@ class Site:
                 continue
             path = f"/events/by-type/{kind}"
             records = [entry for bucket in buckets.values() for entry in bucket]
-            formats = ""
+            formats: list[CountedLink] = []
             if any(buckets):
-                options = []
                 for format_slug in sorted(
                     buckets, key=lambda value: (value is None, value or "")
                 ):
@@ -466,15 +414,9 @@ class Site:
                     format_path = f"{path}/{format_slug or 'unknown-format'}"
                     matches = buckets[format_slug]
                     self.entries_page(format_path, f"{format_title} · {title}", matches)
-                    options.append(
-                        f'<li>{link(format_path, format_title)} <span class="count">{len(matches):,}</span></li>'
-                    )
-                formats = f'<ul class="event-formats" aria-label="Formats">{"".join(options)}</ul>'
-            self.entries_page(path, title, records, formats)
-            count = "document" if len(records) == 1 else "documents"
-            sections.append(
-                f'<li><h2>{link(path, title)}</h2><p class="count">{len(records):,} {count}</p>{formats}</li>'
-            )
+                    formats.append((format_path, format_title, len(matches)))
+            self.entries_page(path, title, records, formats=formats)
+            sections.append((path, title, len(records), formats))
 
         links = [("/events/all", "All event documents")]
         if event_choices:
@@ -483,14 +425,13 @@ class Site:
             links.append(("/decks", "Decks"))
         if has_videos:
             links.append((VIDEO_ROUTE, "Videos"))
-        menu = "".join(f"<li>{link(path, label)}</li>" for path, label in links)
-        content = (
-            f'<h1>Events</h1><nav aria-label="Other ways to browse"><ul class="inline-links">{menu}</ul></nav>'
-            f'<ul class="event-types">{"".join(sections)}</ul>'
+        self.page(
+            "/events",
+            render_page(
+                "events.html", "Events", "/events", links=links, sections=sections
+            ),
         )
-        self.page("/events", layout("Events", "/events", content))
-        self.entries_page("/events/all", "All event documents", events)
-        pages = (len(events) + PAGE_SIZE - 1) // PAGE_SIZE
+        pages = self.entries_page("/events/all", "All event documents", events)
         for index in range(2, pages + 1):
             self.redirect(
                 f"/events/page/{index}",
@@ -516,7 +457,7 @@ class Site:
                 decks.append(entry)
             else:
                 articles.append(entry)
-            if day := publication_day(entry.published):
+            if day := entry.day:
                 years[str(day.year)].append(entry)
             if entry.column_slug:
                 columns[entry.column_slug].append(entry)
@@ -525,7 +466,7 @@ class Site:
                 author_names.setdefault(person.slug, person.name)
                 localized_authors[(entry.lang, person.slug)].append(entry)
 
-        self.entries_page("/articles", "Articles", articles)
+        self.article_navigation(articles)
         self.event_navigation(events, has_decks=bool(decks), has_videos=bool(videos))
         if decks:
             self.entries_page("/decks", "Decks", decks)
@@ -574,17 +515,6 @@ class Site:
             library.write(self)
             choices.append((VIDEO_ROUTE, "Videos", len(videos)))
         self.groups_page("/", SITE_NAME, choices)
-        search = """
-<h1>Search the archive</h1>
-<form id="search" role="search" action="{path}">
-<label for="query">Search article and event text</label>
-<div class="search-input"><input type="search" id="query" name="q" required>
-<button type="submit">Search</button></div>
-</form>
-<p id="search-status" role="status"></p>
-<ol id="search-results" class="records" aria-label="Search results"></ol>
-<noscript><p>Enable JavaScript to use full-text search.</p></noscript>
-"""
         languages = sorted(
             {component(entry.lang).lower() for entry in self.entries.values()} | {"en"}
         )
@@ -593,21 +523,15 @@ class Site:
             for lang in languages
         }
         for language, path in search_pages.items():
-            language_menu = ""
-            if len(languages) > 1:
-                language_links = "".join(
-                    f"<li>{link(href, lang.upper(), **({'aria-current': 'page'} if lang == language else {}))}</li>"
-                    for lang, href in search_pages.items()
-                )
-                language_menu = f'<nav aria-label="Document language"><p>Document language</p><ul class="inline-links">{language_links}</ul></nav>'
             self.page(
                 path,
-                layout(
+                render_page(
+                    "search.html",
                     "Search",
                     path,
-                    language_menu + search.format(path=path),
                     lang=language,
-                    scripts='<script type="module" src="/assets/search.js"></script>',
+                    script="/assets/search.js",
+                    search_pages=search_pages,
                 ),
             )
 
@@ -630,16 +554,7 @@ class Site:
             )
         if source in self.paths:
             raise ValueError(f"Redirect {source} conflicts with a site page")
-        escaped = escape(target)
-        self.page(
-            source,
-            f"""<!doctype html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-<meta http-equiv="refresh" content="0; url={escaped}"><link rel="canonical" href="{escaped}">
-<title>Page moved · {SITE_NAME}</title></head><body><main><h1>Page moved</h1>
-<p>{link(target, "Continue to the archived page")}</p></main></body></html>
-""",
-        )
+        self.page(source, render_template("redirect.html", target=target))
         self.redirects[source] = Redirect(source, target, kind)
 
     def write_redirects(self, path: Path) -> None:

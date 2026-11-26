@@ -1,0 +1,15 @@
+{% extends "page.html" %}
+{% from "components.html" import link %}
+
+{% block content -%}
+<h1>{{ title | escape_html }}</h1>
+<p class="article-index-intro">Browse {{ "{:,}".format(count) }} archived {{ "article" if count == 1 else "articles" }}.</p>
+<nav class="article-browse" aria-label="Browse articles">
+  <ul>
+    <li>{{ link("/columns", "By column") }}<span>Series and recurring features</span></li>
+    <li>{{ link("/authors", "By author") }}<span>Writers and their work</span></li>
+    <li>{{ link("/years", "By year") }}<span>Articles and events over time</span></li>
+  </ul>
+  <p>{{ link(all_path, "All articles") }}</p>
+</nav>
+{% endblock %}

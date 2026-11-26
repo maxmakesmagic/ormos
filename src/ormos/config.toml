@@ -5,7 +5,7 @@ archive_origin = "https://archive.ormos.uk"
 [home]
 title = "Magic: The Gathering Archive"
 description = "An archive of Magic: The Gathering articles and events."
-supporters = ["Max Makes Magic"]
+supporters = ["MaxMakesMagic"]
 
 [footer]
 text = "An independent archive of Magic: The Gathering articles and events."

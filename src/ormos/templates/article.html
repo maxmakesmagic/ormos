@@ -1,0 +1,39 @@
+{% extends "page.html" %}
+{% from "components.html" import author_links, link, publication_time %}
+
+{% block metadata -%}
+<meta property="og:title" content="{{ title | escape_html }}">
+<meta property="og:type" content="article">
+<meta property="og:url" content="{{ (config.site.archive_origin ~ path) | escape_html }}">
+<meta property="og:site_name" content="{{ config.site.name | escape_html }}">
+{% if description -%}
+<meta property="og:description" content="{{ description | escape_html }}">
+{% endif -%}
+{% if image_url -%}
+<meta property="og:image" content="{{ image_url | escape_html }}">
+{% endif -%}
+{% if day -%}
+<meta property="article:published_time" content="{{ day.isoformat() }}">
+{% endif -%}
+{% if document.column_slug -%}
+<meta property="article:section" content="{{ document.column | escape_html }}">
+{% endif -%}
+{% endblock %}
+
+{% block content %}
+<article data-pagefind-body>
+<header class="article-header">
+<h1 data-pagefind-meta="title">{{ title | escape_html }}</h1>
+{% if document.authors or day or document.column_slug or event_path %}<div class="byline">
+{%- if document.authors %}<span>By <span data-pagefind-meta="author">{{ author_links(document) }}</span></span>{% endif -%}
+{{ publication_time(day) }}
+{%- if document.column_slug -%}
+{{ link(document.column_route(), document.column, {"data-pagefind-meta": "column"}) }}
+{%- elif event_path -%}
+{{ link(event_path, event_label, {"data-pagefind-meta": "event"}) }}
+{%- endif -%}
+</div>{% endif %}
+</header>
+<div class="article-body">{{ body }}</div>
+<footer class="article-footer" data-pagefind-ignore>{{ link("/id/" ~ document.id, "Permanent link") }}{% if wayback_url %} · {{ link(wayback_url, "Archived capture", {"rel": "nofollow"}) }}{% endif %}</footer>
+</article>{% endblock %}
