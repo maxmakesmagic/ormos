@@ -80,16 +80,6 @@ render_recovery:
   element: img
   reason: The preview omitted the image because it had no usable source address.
   occurrences: 1
-- code: unsupported_embedded_media
-  element: embed
-  target: /mtg/images/daily/li/li65_packOne.swf
-  reason: The preview omitted this legacy embedded object.
-  occurrences: 1
-- code: unsupported_embedded_media
-  element: embed
-  target: /mtg/images/daily/li/li65_pack2.swf
-  reason: The preview omitted this legacy embedded object.
-  occurrences: 1
 ---
 While it's true that you can't know with 100% certainty what your neighbor to your right is taking, in many situations, you actually have a better chance of figuring out what your neighbor to your right has been taking than you have of figuring out what your neighbor to your left will take out of the pack(s) that you've passed.
 
@@ -101,9 +91,13 @@ But if you have a good knowledge of the set, and the pack is just right, there a
 
 Last week's bonus exercise put you in an 8-4 draft on **Magic Online**. You had just taken a [Trusty Machete](https://web.archive.org/web/20091124000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Trusty+Machete) out of your first pack, which contained:
 
+![li65 packOne](/flash/cc99b45c83be14173da04c7a5059bafa442595a2b84691728922b8c7690881d6)
+
 [Adventuring Gear](https://web.archive.org/web/20091124000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Adventuring+Gear), [Blood Seeker](https://web.archive.org/web/20091124000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Blood+Seeker), [Goblin War Paint](https://web.archive.org/web/20091124000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Goblin+War+Paint), [Brave the Elements](https://web.archive.org/web/20091124000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Brave+the+Elements), [Grazing Gladehart](https://web.archive.org/web/20091124000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grazing+Gladehart), [Disfigure](https://web.archive.org/web/20091124000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Disfigure), [Spire Barrage](https://web.archive.org/web/20091124000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spire+Barrage), [Lethargy Trap](https://web.archive.org/web/20091124000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Lethargy+Trap), [Murasa Pyromancer](https://web.archive.org/web/20091124000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Murasa+Pyromancer), [Piranha Marsh](https://web.archive.org/web/20091124000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Piranha+Marsh), [Tanglesap](https://web.archive.org/web/20091124000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tanglesap), [Tuktuk Grunts](https://web.archive.org/web/20091124000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tuktuk+Grunts), [Trusty Machete](https://web.archive.org/web/20091124000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Trusty+Machete), [Armament Master](https://web.archive.org/web/20091124000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Armament+Master)
 
 You then got passed a pack that contains:
+
+![li65 pack2](/flash/a8036e7c499b66c7859b2168762e8d5d0fa4cab6628bd23a76e20ce1328b1e09)
 
 [Adventuring Gear](https://web.archive.org/web/20091124000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Adventuring+Gear), [Burst Lightning](https://web.archive.org/web/20091124000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Burst+Lightning), [Hideous End](https://web.archive.org/web/20091124000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hideous+End), [Bold Defense](https://web.archive.org/web/20091124000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bold+Defense), [Blood Seeker](https://web.archive.org/web/20091124000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Blood+Seeker), [Paralyzing Grasp](https://web.archive.org/web/20091124000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Paralyzing+Grasp), [Shoal Serpent](https://web.archive.org/web/20091124000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shoal+Serpent), [Beast Hunt](https://web.archive.org/web/20091124000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Beast+Hunt), [Joraga Bard](https://web.archive.org/web/20091124000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Joraga+Bard), [Relic Crush](https://web.archive.org/web/20091124000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Relic+Crush), [Kor Aeronaut](https://web.archive.org/web/20091124000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Kor+Aeronaut), [Quest for the Holy Relic](https://web.archive.org/web/20091124000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Quest+for+the+Holy+Relic), [Cosi's Trickster](https://web.archive.org/web/20091124000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cosi%27s+Trickster)
 

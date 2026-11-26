@@ -78,11 +78,6 @@ archive_source:
   template: drupal
   sha256: dfae4d7f1574201e8648d7aafa4ea148ee35498b2571d3ec8d33a5d38dc94034
 render_recovery:
-- code: unsupported_embedded_media
-  element: object
-  target: /sites/mtg/files/image_legacy_migration/mtg/images/daily/ftl/ftl46_hannibal.swf
-  reason: The preview omitted this legacy embedded object.
-  occurrences: 1
 - code: deck_widget_requires_review
   element: a
   reason: The archived deck widget has no visible card rows. The source capture may
@@ -94,6 +89,8 @@ render_recovery:
 Last week I watched *The Silence of the Lambs* for probably the umpteenth time. (Don't worry, though. I spread my viewings out between months.) The film is undoubtedly one of my favorite movies of all time, and when watching it I always seem to pick up on something that I had missed in previous viewings.
 
 I was mulling over today's preview card while in the midst of the film, puzzling over how best to strategize it. I mean, it's not completely groundbreaking, like last week's Hive Mind reveal, but much like *The Silence of the Lambs*, it seems to have multiple possible agendas. This is despite some relatively short card text, which appears narrow only on the surface.
+
+![Hannibal animation](/flash/2f65669eaeb15d72dd5d9f81260b7720ab8eae18817d02ec4151f9dbb7d27aa4)
 
 Like I said, I was wondering how to begin, when a scene from the movie answered my question for me. Clarice Starling (played by my favorite actress, Jodie [Foster](https://web.archive.org/web/20090709000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Foster)) reads a note left to her by the tantalizingly mysterious Dr. Hannibal Lecter (one of Anthony Hopkins's finest performances): "Clarice, doesn't this random scattering of sites seem desperately random, like the elaboration of a bad liar?" When Starling ponders what "desperately random" could mean, her partner offers, "Not random at all, maybe."
 

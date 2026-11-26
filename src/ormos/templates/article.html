@@ -34,6 +34,6 @@
 {%- endif -%}
 </div>{% endif %}
 </header>
-<div class="article-body">{{ body }}</div>
+<div class="article-body">{{ body }}</div>{{ flash_after_body }}
 <footer class="article-footer" data-pagefind-ignore>{{ link("/id/" ~ document.id, "Permanent link") }}{% if wayback_url %} · {{ link(wayback_url, "Archived capture", {"rel": "nofollow"}) }}{% endif %}</footer>
 </article>{% endblock %}

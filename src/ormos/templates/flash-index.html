@@ -1,0 +1,15 @@
+{% extends "page.html" %}
+{% from "components.html" import link %}
+
+{% block content %}
+<p>{{ link(config.media.landing_route, "Media") }}</p>
+<h1>{{ title | escape_html }}</h1>
+{% for label, items in (("Jigsaws", jigsaws), ("Other Flash", movies)) %}
+{% if items %}
+<h2>{{ label }}</h2>
+<ul class="directory">
+  {% for item in items %}<li>{{ link(item.path, item.title) }}</li>{% endfor %}
+</ul>
+{% endif %}
+{% endfor %}
+{% endblock %}

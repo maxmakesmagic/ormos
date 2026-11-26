@@ -80,11 +80,6 @@ render_recovery:
   element: img
   reason: The preview omitted the image because it had no usable source address.
   occurrences: 1
-- code: unsupported_embedded_media
-  element: embed
-  target: /mtg/images/daily/twtw/twtw96_saitoNelson.swf
-  reason: The preview omitted this legacy embedded object.
-  occurrences: 1
 ---
 When Japan's Naoki Nakada played [Jace, the Mind Sculptor](https://web.archive.org/web/20100625000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Jace%2C+the+Mind+Sculptor) and used it to bounce Taufik Indrakesuma's freshly grown [Emrakul, the Aeons Torn](https://web.archive.org/web/20100625000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Emrakul%2C+the+Aeons+Torn) then swing in for the title of Grand Prix–Manila Champion we reached the unofficial halfway mark of the 2010 Pro Tour season. Two Pro Tours and twelve Grand Prix are in the books and the races for the Player of the Year and Rookie of the Year titles are starting to take shape. There is one more Pro Tour, the World Championships, and nine more Grand Prix coming up after the halftime entertainment to determine the outcome of those races—oh yeah, and the halftime entertainment as well. We are entering into Nationals season which can provide a valuable leg up in both of those races. Aaron Nicastri made the most of the Pro Points he earned by being a member of the Australian National team to win the Rookie of the Year title a couple of years back. Just last season Yuuya Watanabe's spot on his National team was the difference between—well, the difference between winning the title by one point and winning it by a dozen. 
 
@@ -173,6 +168,8 @@ Brad followed up his Pro Tour–Honolulu debut last season with a 4th place fini
 "Nationals would be a big part in getting to Level 8," said Brad. "There are so many Pro Points up for grabs if you make the team. Missing out on the team last year cost me Level 6. I will be taking that tournament very seriously."
 
 Regardless of what happens the rest of the way this season, Brad is having a great time and has become one of the most well-known players in the game rather quickly. Getting to know the players he was following from home until last season has been a big part of that fun. 
+
+![twtw96 saitoNelson](/flash/cb03ec4e03cc3be9db6eeb351dad4a70a67882699c8e2c8de097683f7e99f326)
 
   
 *Tomoharu ... Nelson?*

@@ -67,12 +67,7 @@ archive_source:
   captured_at: '2022-01-23 04:29:00+00'
   template: drupal
   sha256: a90cc6bec3555e62de3015adc4dcba3ab3269bb8157976255511f8ddba1b30a0
-render_recovery:
-- code: unsupported_embedded_media
-  element: object
-  target: http://magic.wizards.com/sites/mtg/files/image_legacy_migration/mtg/images/daily/arcana/208_pwTournament.swf
-  reason: The preview omitted this legacy embedded object.
-  occurrences: 1
+render_recovery: []
 ---
 *This article originally ran on June 10, 2009.*
 
@@ -105,6 +100,8 @@ That handprint-like shape corresponds to a symbol—a symbol that represents pla
 ![](https://i.ormos.uk/c5/2f/c52f55ced9ac7311e669bd9c4ff2b299386accff289db2591a507b3ff9a1c9a5.jpg)![](https://i.ormos.uk/0c/9c/0c9c8c216f40319f96e4844d93f27323503b1c3620ca81393c37820efe6eef00.jpg)
 
 Maybe you've spotted the planeswalker symbol on the backs of judges' shirts at **Magic** events, or even in the design of tournament "arenas" like the one at Pro Tour Kyoto:
+
+![Planeswalker tournament symbol](/flash/2050118b15227a5ef6de2cb7cd675d30997e5b4de855051541ee976ce602622c)
 
 In fact, you've already seen it *many* times, at least once in every issue of **Magic**'s web comics, for example, and in well over a dozen other places as well … some of them quite hidden. When you see it in the context of Magic’s story, it represents a kind of æther imprint — almost always, whenever a planeswalker leaves a plane, this mark will appear in some way, as though the planar fabric has metaphysically acknowledged the act. When you see the symbol in real life, it marks a place or a chance for players to gather, to test their mettle and prove their skill.
 

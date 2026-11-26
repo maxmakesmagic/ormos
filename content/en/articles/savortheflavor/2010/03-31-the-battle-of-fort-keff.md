@@ -88,11 +88,6 @@ render_recovery:
   element: img
   reason: The preview omitted the image because it had no usable source address.
   occurrences: 1
-- code: unsupported_embedded_media
-  element: embed
-  target: /mtg/images/daily/stf/stf84_eye.swf
-  reason: The preview omitted this legacy embedded object.
-  occurrences: 1
 ---
 Before all else, Gideon Jura is warrior. His magecraft serves his blade, and his blade serves those in need.
 
@@ -105,6 +100,8 @@ Gideon first appeared in [*The Purifying Fire*](https://web.archive.org/web/2010
 After a short time, he regretted the way things had ended and decided to find her. Her æther trail was long cold, but he had some idea where she was going. The stolen scroll contained a partial map to the [Eye of Ugin](https://web.archive.org/web/20100331000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Eye+of+Ugin), an unknown treasure on Zendikar. And Gideon knew the tempting mystery would be too much for the tempestuous pyromancer. He'd traveled enough to know of Zendikar's dangerous reputation: a world that lured planeswalkers, then killed them in any number of gruesome ways.
 
   
+
+![Eye of Ugin animation](/flash/b9039d6a10b41cd7ba52e99f076dac6e969213562da6896d36fa64b176fbf7c2)
 
 Chandra wasn't a woman who would appreciate his protectiveness, but it wasn't in his nature to desert a friend, even if she was headstrong and difficult. By the time he reached Zendikar, Chandra was nowhere to be found. And Gideon's desire to protect innocents put him in harm's way as became embroiled in the carnage sweeping the countryside.
 

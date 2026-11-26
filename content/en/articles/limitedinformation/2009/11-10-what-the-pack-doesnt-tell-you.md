@@ -78,11 +78,6 @@ archive_source:
   template: aspx
   sha256: 76d849ca826336c7672a2b5c21151d6fa5703d5775ef73ca6a24bdf0dd95fcfb
 render_recovery:
-- code: unsupported_embedded_media
-  element: object
-  target: /mtg/images/daily/li/li64_pack.swf
-  reason: The preview omitted this legacy embedded object.
-  occurrences: 1
 - code: unsupported_link
   element: a
   target: javascript:void()
@@ -133,6 +128,8 @@ It is often tempting to look at draft picks in a vacuum and try to analyze what 
 But when you're talking about **Magic** out of context, there's just so much that can't be quantified. Let's take a look at some of the ways that you evaluate a pack could change depending on what you know about a given draft.
 
 With that in mind, let's take a look at some of the non-obvious considerations that you might want to take into account when you open up your first pack and see this: 
+
+![li64 pack](/flash/8c78d1e91c238ba8e378736e7b387fa4b2085f9735e0fb5c609704693f99aa17)
 
   
 

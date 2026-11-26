@@ -1,10 +1,13 @@
 """Read archived Markdown documents and render their public pages."""
 
+from __future__ import annotations
+
 import re
-from dataclasses import dataclass
+from dataclasses import dataclass, replace
 from datetime import date
+from html import escape, unescape
 from pathlib import Path
-from typing import Any
+from typing import TYPE_CHECKING, Any
 from urllib.parse import urlsplit
 
 import cmarkgfm
@@ -12,8 +15,11 @@ import nh3
 import yaml
 from markupsafe import Markup
 
-from .html import render_page
+from .html import FLASH_ROUTE, render_page, render_template
 from .paths import component, route, site_file, write_new
+
+if TYPE_CHECKING:
+    from .flash import FlashItem, FlashReferences
 
 _FRONT_MATTER_START = "---\n"
 _FRONT_MATTER_END = "\n---\n"
@@ -21,6 +27,11 @@ _YAML_LOADER = getattr(yaml, "CSafeLoader", yaml.SafeLoader)
 _UNKNOWN_PUBLICATION_DAYS = frozenset({date(1969, 12, 31), date(1970, 1, 1)})
 _RAW_TABLE = re.compile(r"<table\b[^>]*>.*?</table\s*>", re.IGNORECASE | re.DOTALL)
 _TABLE_INTERRUPTION = re.compile(r"\n[ \t]*\n")
+_FLASH_MARKER = re.compile(
+    rf'<p><img loading="lazy" decoding="async" src="{re.escape(FLASH_ROUTE)}/'
+    r'([0-9a-f]{64})" alt="([^"]*)"(?: title="[^"]*")?></p>'
+)
+_FLASH_LINK = re.compile(r'<a\b[^>]*\bhref="([^"<>]*\.swf[^"<>]*)"', re.IGNORECASE)
 _BODY_CLEANER = nh3.Cleaner(
     tags={
         "a",
@@ -125,6 +136,29 @@ def render_body(markdown: str) -> str:
     ).replace("</table>", "</table></div>")
 
 
+def _place_flash(body: str, items: tuple[FlashItem, ...]) -> tuple[str, str]:
+    movies = {item.id: item for item in items}
+    placed: set[str] = set()
+
+    def player_at_marker(marker: re.Match[str]) -> str:
+        item = movies.get(marker[1])
+        label = unescape(marker[2])
+        if item is None:
+            return f"<p>{escape(label or 'Flash animation unavailable')}</p>"
+        placed.add(item.id)
+        return render_template(
+            "flash-player.html", item=item, embedded=True, label=label
+        )
+
+    body = _FLASH_MARKER.sub(player_at_marker, body)
+    players = "".join(
+        render_template("flash-player.html", item=item, embedded=True)
+        for item in items
+        if item.id not in placed
+    )
+    return body, players
+
+
 @dataclass(frozen=True, slots=True)
 class Person:
     """Store an author name and its archive path component."""
@@ -146,9 +180,10 @@ class Document:
     column_slug: str
     column: str
     authors: tuple[Person, ...]
+    flash_ids: tuple[str, ...] = ()
 
     @classmethod
-    def read(cls, metadata: dict[str, Any]) -> "Document":
+    def read(cls, metadata: dict[str, Any]) -> Document:
         """Read page metadata from the article header."""
         authors = tuple(
             Person(component(person["slug"]), str(person["name"]))
@@ -199,9 +234,10 @@ class ArticleSource:
     event_code: str = ""
     description: str = ""
     image_url: str = ""
+    source_url: str = ""
 
     @classmethod
-    def read(cls, source: Path) -> "ArticleSource":
+    def read(cls, source: Path) -> ArticleSource:
         """Read an archived article and its YAML header."""
         text = source.read_text(encoding="utf-8")
         if not text.startswith(_FRONT_MATTER_START):
@@ -234,9 +270,12 @@ class ArticleSource:
             event_code=str(metadata.get("event_code") or ""),
             description=description.strip() if isinstance(description, str) else "",
             image_url=image_url.strip() if isinstance(image_url, str) else "",
+            source_url=str(archive_source.get("url") or ""),
         )
 
-    def render(self) -> str:
+    def render(
+        self, *, body: str | None = None, embeds: tuple[FlashItem, ...] = ()
+    ) -> str:
         """Render the article page with its byline and source links."""
         document = self.document
         event_path = document.event_group() if not document.column_slug else ""
@@ -248,6 +287,9 @@ class ArticleSource:
         description = self.description
         if not description and document.authors:
             description = "By " + ", ".join(person.name for person in document.authors)
+        if body is None:
+            body = render_body(self.markdown)
+        body, extra = _place_flash(body, embeds)
         return render_page(
             "article.html",
             document.title,
@@ -255,7 +297,10 @@ class ArticleSource:
             lang=document.lang,
             document=document,
             day=document.day,
-            body=Markup(render_body(self.markdown)),
+            body=Markup(body),
+            flash_after_body=Markup(extra),
+            flash_player=bool(embeds),
+            flash_puzzle=any(item.image_digest for item in embeds),
             event_path=event_path,
             event_label=event_label,
             wayback_url=self.wayback_url if web_url(self.wayback_url) else "",
@@ -264,9 +309,28 @@ class ArticleSource:
         )
 
 
-def render_document(job: tuple[Path, Path]) -> Document:
+def render_document(
+    job: tuple[Path, Path], *, flash: FlashReferences | None = None
+) -> Document:
     """Write the rendered page and return its metadata."""
     source, output = job
     article = ArticleSource.read(source)
-    write_new(site_file(output, article.document.path), article.render())
-    return article.document
+    document = article.document
+    body = render_body(article.markdown)
+    embeds: tuple[FlashItem, ...] = ()
+    if flash is not None:
+        linked = tuple(unescape(target) for target in _FLASH_LINK.findall(body))
+        embeds = flash.matches(
+            document.id,
+            article.source_url,
+            linked,
+            marker_ids=tuple(marker[1] for marker in _FLASH_MARKER.finditer(body)),
+        )
+    write_new(
+        site_file(output, document.path), article.render(body=body, embeds=embeds)
+    )
+    return (
+        replace(document, flash_ids=tuple(item.id for item in embeds))
+        if embeds
+        else document
+    )

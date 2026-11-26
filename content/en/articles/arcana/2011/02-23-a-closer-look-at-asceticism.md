@@ -79,17 +79,14 @@ render_recovery:
   - Troll Ascetic
   - Thrun, the Last Troll
   occurrences: 11
-- code: unsupported_embedded_media
-  element: object
-  target: /mtg/images/daily/arcana/653_thrun.swf
-  reason: The preview omitted this legacy embedded object.
-  occurrences: 1
 ---
 S*cars of Mirrodin*'s Asceticism is a clear call-back to the original *Mirrodin*'s Troll Ascetic, turning all your creatures into regenerating, holy-crap-is-that-better-than-shroud-having monsters (and implying, incidentally, that Troll Ascetic's unique properties are due at least as much to being an ascetic as to being a troll). But in addition to being a call-back, Asceticism was also a call-*forward*—to *Mirrodin Besieged*. 
 
 Who's that lone figure standing among the trees? Let's take a closer look.
 
   
+
+![Thrun animation](/flash/cc33a7e8b6d38af0126884e2df0642d4672399cb4d5fd703477b2f8fa1dee41d)
 
 Yeah, that guy looks familiar, all right. Definitely some kind of Troll Ascetic. But that could be any old troll hermit, right?
 

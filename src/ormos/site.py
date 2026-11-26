@@ -9,7 +9,15 @@ from datetime import date
 from pathlib import Path
 
 from .content import Document
-from .html import SITE_NAME, VIDEO_ROUTE, render_page, render_template
+from .flash import FlashLibrary
+from .html import (
+    FLASH_ROUTE,
+    MEDIA_ROUTE,
+    SITE_NAME,
+    VIDEO_ROUTE,
+    render_page,
+    render_template,
+)
 from .paths import component, route, site_file, write_new
 from .videos import VideoLibrary
 
@@ -439,7 +447,9 @@ class Site:
                 "events-pagination",
             )
 
-    def navigation(self, library: VideoLibrary) -> None:
+    def navigation(
+        self, library: VideoLibrary, flash: FlashLibrary | None = None
+    ) -> None:
         """Write the home page, archive directories, and search pages."""
         videos = library.videos
         authors = defaultdict(list)
@@ -511,9 +521,16 @@ class Site:
         ]
         if decks:
             choices.append(("/decks", "Decks", len(decks)))
+        media: list[CountedLink] = []
         if videos:
             library.write(self)
-            choices.append((VIDEO_ROUTE, "Videos", len(videos)))
+            media.append((VIDEO_ROUTE, "Videos", len(videos)))
+        if flash and flash.items:
+            flash.write_pages(self)
+            media.append((FLASH_ROUTE, "Flash", len(flash.items)))
+        self.groups_page(MEDIA_ROUTE, "Media", media)
+        if media:
+            choices.append((MEDIA_ROUTE, "Media", sum(count for _, _, count in media)))
         self.groups_page("/", SITE_NAME, choices)
         languages = sorted(
             {component(entry.lang).lower() for entry in self.entries.values()} | {"en"}

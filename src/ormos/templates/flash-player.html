@@ -1,0 +1,23 @@
+{% from "components.html" import link %}
+{% set preview = embedded and item.poster_url %}
+{% if preview %}
+<details data-flash-preview data-pagefind-ignore>
+  <summary>Original Flash reveal
+    <img src="{{ item.poster_url | escape_html }}" alt="{{ (label | default(item.title, true)) | escape_html }}" loading="lazy" decoding="async">
+  </summary>
+  <p>Click the original artwork inside the player.</p>
+{% endif %}
+<section{% if embedded %} class="flash-embed" data-flash-embedded data-pagefind-ignore{% endif %} aria-label="{{ ((label | default(item.title, true)) ~ ' Flash player') | escape_html }}" data-flash-player="{{ item.movie_url }}" data-flash-base="{{ item.puzzle_base }}" data-flash-parameters="{{ item.parameters_json | escape_html }}"{% if item.puzzle_image_url %} data-flash-image="{{ item.puzzle_image_url }}"{% endif %}>
+  <p role="status" data-flash-status></p>
+  <div class="flash-stage" data-flash-stage></div>
+  {% if item.image_digest %}
+  <p>
+    {% if item.wallpaper_url %}{{ link(item.wallpaper_url, "Open wallpaper") }} · {% endif %}
+    {{ link(item.puzzle_image_url, "Open puzzle image") }}
+    {% if item.wallpaper_archive_url %} · {{ link(item.wallpaper_archive_url, "Open original wallpaper page in Wayback") }}{% endif %}
+  </p>
+  {% endif %}
+  <noscript><p>Enable JavaScript to run the Flash player.</p></noscript>
+  {% if embedded %}<p>{{ link(item.path, "Open Flash player", {"aria-label": "Open " ~ item.title ~ " on its Flash page"}) }}</p>{% endif %}
+</section>
+{% if preview %}</details>{% endif %}

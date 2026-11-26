@@ -80,11 +80,6 @@ render_recovery:
   element: img
   reason: The preview omitted the image because it had no usable source address.
   occurrences: 1
-- code: unsupported_embedded_media
-  element: embed
-  target: /mtg/images/daily/stf/stf96_force.swf
-  reason: The preview omitted this legacy embedded object.
-  occurrences: 1
 ---
 Quick. What color is this card?
 
@@ -156,6 +151,8 @@ Variety Is Good
 Besides, perfect uniformity isn't that great an artistic goal, anyway. Red cards already have red frames and red mana costs and red abilities and red-sounding names—and many of them *also* have red-tinted art of red-scaled dragons breathing red fire in front of red volcanoes. We don't need to get picky about specifying palette for every card. We enjoy seeing artists spin ghostly, sickly-green palettes into black cards or glowing-red, blacksmith's-forge palettes into white cards. These outliers create visual variety, so that the pages of red cards in your trade binder don't all run together to form an eye-tiring [Wall of Fire](https://web.archive.org/web/20100623000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wall+of+Fire). 
 
 Besides, variety is practical. That visual variety helps players play the game by keeping individual cards from looking too much like one another. I'll bet most of you could correctly identify one of *these* from about a quarter mile away:
+
+![stf96 force](/flash/cc6113db470289fe40cfd0e44cf26e65a3fde24a921007526682bbb4ce8fa0a6)
 
   
 

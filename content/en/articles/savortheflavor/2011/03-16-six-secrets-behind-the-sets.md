@@ -80,11 +80,6 @@ render_recovery:
   element: img
   reason: The preview omitted the image because it had no usable source address.
   occurrences: 1
-- code: unsupported_embedded_media
-  element: embed
-  target: /mtg/images/daily/stf/stf134_MBSLands.swf
-  reason: The preview omitted this legacy embedded object.
-  occurrences: 1
 ---
 Card art can provide snapshots of the visual aspects of a setting, *but*. Card names and flavor text can let you in on the language of a world, *but*. Articles can explore the design stories behind the creation of the set, *but.* There's always a "but," because there are always limits to the world detail that rectangular pieces of cardstock are able to communicate, even with the aid of web columnists filling you in every week.
 
@@ -115,6 +110,8 @@ Basics Besieged
 The second set in a block uses the first set's basic lands—that's a rule. Here's another rule—we enjoy breaking the rules. *Mirrodin Besieged* doesn't follow the usual basic land trend; booster packs of *Besieged* feature newly illustrated basic lands that are unique to *Besieged*. Why? The quick answer is: to show the changes to the landscape between *Scars* and *Besieged*.
 
 Basic lands are in front of you almost all the time you're playing **Magic**, and land art is one of the best ways to show change in a setting on a mass scale. We love to use basic lands as an ever-present, rich venue to reflect what's going on in the story and hint at how it's affecting the setting itself. The art of the *Scars of Mirrodin* basic lands already creates a four-land panorama for each basic land type (the four different *Scars* [Plains](https://web.archive.org/web/20110316000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Plains) line up together, as do the four *Scars*[Island](https://web.archive.org/web/20110316000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Island)s, etc.). And the basic lands of *Mirrodin Besieged* take it up to six.
+
+![stf134 MBSLands](/flash/09a90a3da01c472aca9b2d10cd7b389b0a92f2ae57f564314acb5861b2bb6d5b)
 
   
 

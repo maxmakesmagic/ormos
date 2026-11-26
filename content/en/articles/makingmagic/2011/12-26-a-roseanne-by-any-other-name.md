@@ -100,11 +100,6 @@ render_recovery:
   - Tarmogoyf
   - Lhurgoyf
   occurrences: 11
-- code: unsupported_embedded_media
-  element: object
-  target: /mtg/images/daily/mm/mm138_playtest.swf
-  reason: The preview omitted this legacy embedded object.
-  occurrences: 1
 ---
 *Welcome to Best of 2011 Week 2. Last week I ran my favorite design column of the year, [Ten Things Every Game Needs](/en/articles/makingmagic/2011/12-19-ten-things-every-game-needs-part-1-part-2). Today I'm running my personal favorite column of the year. I talked last week about how it took me six months to write that column. Today's column took me ten years.* 
 
@@ -575,6 +570,8 @@ A question I am often asked is what exactly was my day-to-day life on *Roseanne*
 **Friday –** It's Taping Day. Barring disaster, the rewriting in the morning is just tiny tweaks to lines. There are two tapings to make sure everything gets covered and to allow some options in editing. The first taping is in the afternoon. The cast and crew break for dinner, and after dinner is the second taping. Only the second taping is in front of a studio audience. Usually this is where most of the footage comes from, as the live audience taping tends to bring out the best in the actors.
 
 The lesson I learned from the weekly structure of *Roseanne* is the importance of iteration to the creative process. Essentially what happens all week is that the writers create changes and then let the actors work with those changes and from that performance they figure out what new changes need to be made.
+
+![mm138 playtest](/flash/052eb3d9b35bd03556a662603b6181a5e61dd0c26d545f67a57bdf56dac770b9)
 
   
 

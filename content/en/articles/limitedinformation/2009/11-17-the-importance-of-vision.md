@@ -133,16 +133,6 @@ render_recovery:
   - Quest for the Holy Relic
   - Cosi's Trickster
   occurrences: 67
-- code: unsupported_embedded_media
-  element: object
-  target: /mtg/images/daily/li/li65_packOne.swf
-  reason: The preview omitted this legacy embedded object.
-  occurrences: 1
-- code: unsupported_embedded_media
-  element: object
-  target: /mtg/images/daily/li/li65_pack2.swf
-  reason: The preview omitted this legacy embedded object.
-  occurrences: 1
 ---
 Some mulligan decisions appear very straightforward, but when you dig beneath the surface you might discover that there is a lot more going on than you had initially anticipated. 
 
@@ -260,9 +250,13 @@ If you do have sufficient knowledge (and you are able to process that knowledge 
 
 You are in an 8-4 draft on **Magic Online**. You just took a Trusty Machete out of your first pack, which contained:
 
+![li65 packOne](/flash/cc99b45c83be14173da04c7a5059bafa442595a2b84691728922b8c7690881d6)
+
 Adventuring Gear, Blood Seeker, Goblin War Paint, Brave the Elements, Grazing Gladehart, Disfigure, Spire Barrage, Lethargy Trap, Murasa Pyromancer, Piranha Marsh, Tanglesap, Tuktuk Grunts, Trusty Machete, Armament Master
 
 You then get passed a pack that contains:
+
+![li65 pack2](/flash/a8036e7c499b66c7859b2168762e8d5d0fa4cab6628bd23a76e20ce1328b1e09)
 
 Adventuring Gear, Burst Lightning, Hideous End, Bold Defense, Blood Seeker, Paralyzing Grasp, Shoal Serpent, Beast Hunt, Joraga Bard, Relic Crush, Kor Aeronaut, Quest for the Holy Relic, Cosi's Trickster
 

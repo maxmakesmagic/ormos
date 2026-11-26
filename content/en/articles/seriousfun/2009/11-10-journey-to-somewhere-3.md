@@ -193,13 +193,10 @@ render_recovery:
   - Dark Banishing
   - Raise Dead
   occurrences: 143
-- code: unsupported_embedded_media
-  element: object
-  target: /mtg/images/daily/sf/sf64_cardsIOwned.swf
-  reason: The preview omitted this legacy embedded object.
-  occurrences: 1
 ---
 Everyone seems to have a great "first time" story about **Magic**. Whether it's in somewhere around school, a friend who wanted you to try it out, or even [on a whim at 30,000 feet](/en/articles/feature/2009/11-02-got-there), our first memory of **Magic** is something that many of us hold dear. However, like many things in my life, I don't have an epic story about when I discovered **Magic**. I know that my buddy showed me at lunch one day and that, somehow, I ended up walking away with a Kjeldoran Dead card (I still have it).
+
+![sf64 cardsIOwned](/flash/7913ac740aa4b0377126b86e805c0df0469d9912b11f64e28219811c89a3756a)
 
 I more clearly recall sharing cards, which I soon inherited outright, with another friend, as well as buying a *Tempest* Starter Pack, a bit expensive for me at the time, and finding that one of my rares was Duplicity (which I don't have anymore). From there the story is a relatively boring mish mash of "got out of it but kept my cards" and "came back to entirely new sets of cards" and, eventually, "found a home to play **Magic** every week." It's a touching, if clichéd and common, story.
 

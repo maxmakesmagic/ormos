@@ -75,12 +75,7 @@ archive_source:
   captured_at: '2022-05-16 08:21:18+00'
   template: drupal
   sha256: 58ac4ae0200a69d973f977e51d781e767f5528683bbd10bfaf1346898cff8302
-render_recovery:
-- code: unsupported_embedded_media
-  element: object
-  target: http://magic.wizards.com/sites/mtg/files/image_legacy_migration/mtg/images/daily/mm/mm39_atog.swf
-  reason: The preview omitted this legacy embedded object.
-  occurrences: 1
+render_recovery: []
 ---
 *Welcome to … not Solid Gold Week! Today is Memorial Day here in the United States, so the Daily MTG crew is out in the sun enjoying barbecues and picnics, or maybe inside playing games. That means no new Making Magic this week, so here’s last week’s article if you missed it (or really, really liked it). The weekly feature is up as normal, so be sure to check out [Bill Stark’s look at the Seattle **Magic** scene](https://web.archive.org/web/20090525000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/feature/40) as we edge closer to [Grand Prix–Seattle/Tacoma](https://web.archive.org/web/20090525000000/https://magic.wizards.com/en/articles/archive/grand-prix%E2%80%93seattletacoma-event-information-2009-04-16) in Wizards’ own backyard. We’ll be back tomorrow with Limited Information, Serious Fun, and the rest of your regular Tuesday fix.*
 
@@ -94,6 +89,8 @@ Welcome to Solid Gold Week! This week we'll be discussing all things gold. As Ma
 I do want to note before I jump in that many cards are designed by multiple people. Multiple designers turn in different cards that get merged or one person tweaks someone else's design or two cards get turned in that are the same. My point is that the cards I'm talking about today are cards that I had some part in designing. Many other designers are also responsible for these cards so please when I talk about designing them, please be aware that the hard work of many other designers were involved. (I don't know who they are—so that's why I'm not naming names.)
 
 ### [Atogatog](https://web.archive.org/web/20090525000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Atogatog) (*Odyssey*)
+
+![mm39 atog](/flash/60ec6b6323be10877c797775bbcf672505e16dfaa1c51e8212e161ed67319998)
 
 ![ATOGATOG](http://gatherer.wizards.com/Handlers/Image.ashx?type=card&name=ATOGATOG)
 

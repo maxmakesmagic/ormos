@@ -14,7 +14,8 @@ if (process.argv.length < 3 || !siteRoot || !outputPath) {
   throw new Error("Pass the site root and the search output directory.");
 }
 
-const paths = JSON.parse(readFileSync(0, "utf8"));
+// Read piped input as bytes to avoid Node's UTF-8 pipe bug (nodejs/node#66341).
+const paths = JSON.parse(readFileSync(0).toString("utf8"));
 if (!Array.isArray(paths) || paths.some((path) => typeof path !== "string")) {
   throw new Error("Pass an array of relative HTML paths on standard input.");
 }

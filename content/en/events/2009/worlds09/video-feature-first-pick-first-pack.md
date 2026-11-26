@@ -56,11 +56,6 @@ render_recovery:
   target: http://www.youtube.com/v/dqq3iWrmcUs&hl=en&fs=1&rel=0
   reason: The preview omitted this legacy embedded object.
   occurrences: 1
-- code: unsupported_embedded_media
-  element: object
-  target: /mtg/images/daily/events/worlds09/pt_pack.swf
-  reason: The preview omitted this legacy embedded object.
-  occurrences: 1
 - code: unsupported_link
   element: a
   target: javascript:void()
@@ -83,6 +78,8 @@ render_recovery:
   occurrences: 14
 ---
 Brian David-Marshall roamed the floor at Worlds to find out how ten players would approach a loaded Zendikar pack in a Booster Draft. 
+
+![pt pack](/flash/dd037c91595f940711465c8161a5cd80225608edb1e8ef0fed1ea058445dc3b3)
 
   
   

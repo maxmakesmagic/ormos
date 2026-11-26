@@ -1,0 +1,1317 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "sha256": "2050118b15227a5ef6de2cb7cd675d30997e5b4de855051541ee976ce602622c",
+      "title": "208 pwTournament",
+      "filename": "208_pwTournament.swf",
+      "original_urls": [
+        "http://wizards.com/mtg/images/daily/arcana/208_pwTournament.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "dd037c91595f940711465c8161a5cd80225608edb1e8ef0fed1ea058445dc3b3",
+      "title": "pt pack",
+      "filename": "pt_pack.swf",
+      "original_urls": [
+        "http://wizards.com/mtg/images/daily/events/worlds09/pt_pack.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "7ea3f3d3c5e594c054744c4353960feb9d80e982b0a1eeddf7c1b2b2a0841b5a",
+      "title": "ftl37 morph",
+      "filename": "ftl37_morph.swf",
+      "original_urls": [
+        "http://wizards.com/mtg/images/daily/ftl/ftl37_morph.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "c898c0670a36c4aba6cbc64f358e8ba60f9a372064d36f490518ef4efe761c24",
+      "title": "ftl41 firstDeck",
+      "filename": "ftl41_firstDeck.swf",
+      "original_urls": [
+        "http://wizards.com/mtg/images/daily/ftl/ftl41_firstDeck.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "dd0363adb57d8f39c72a0ccb8f41087fb3a9636ab3d70cf7046057f0014ac1af",
+      "title": "ftl42 card2",
+      "filename": "ftl42_card2.swf",
+      "original_urls": [
+        "http://wizards.com/mtg/images/daily/ftl/ftl42_card2.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "2f65669eaeb15d72dd5d9f81260b7720ab8eae18817d02ec4151f9dbb7d27aa4",
+      "title": "ftl46 hannibal",
+      "filename": "ftl46_hannibal.swf",
+      "original_urls": [
+        "http://wizards.com/mtg/images/daily/ftl/ftl46_hannibal.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "0244fdef59216bf15bb144a85502008b584277aa7ecfa15c00ad7beff06d1d9a",
+      "title": "ftl52 2Cards1",
+      "filename": "ftl52_2Cards1.swf",
+      "original_urls": [
+        "http://wizards.com/mtg/images/daily/ftl/ftl52_2Cards1.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "4dd684ae87d0cfb388b29622130bfec7791dc96c45e2a08663be18fcb5688f3b",
+      "title": "ftl52 lion",
+      "filename": "ftl52_lion.swf",
+      "original_urls": [
+        "http://wizards.com/mtg/images/daily/ftl/ftl52_lion.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "64ea05742f23a4ff15dfff623664a9626877f98b40a07cb0d6f992afd7fb17fa",
+      "title": "ld33 bolasUlt",
+      "filename": "ld33_bolasUlt.swf",
+      "original_urls": [
+        "http://wizards.com/mtg/images/daily/ld/ld33_bolasUlt.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "f77236ff585343ee291181c5cf75a619dcc8ca20f1f35c53bf36b92bf6dc3444",
+      "title": "ld60 chopsticks",
+      "filename": "ld60_chopsticks.swf",
+      "original_urls": [
+        "http://wizards.com/mtg/images/daily/ld/ld60_chopsticks.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "b1a7c7754b6476d4d6757d1ccfbb98555e2b548e8990d151591175e4d58bd7cd",
+      "title": "ld60 secretWay",
+      "filename": "ld60_secretWay.swf",
+      "original_urls": [
+        "http://wizards.com/mtg/images/daily/ld/ld60_secretWay.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "8c78d1e91c238ba8e378736e7b387fa4b2085f9735e0fb5c609704693f99aa17",
+      "title": "li64 pack",
+      "filename": "li64_pack.swf",
+      "original_urls": [
+        "http://wizards.com/mtg/images/daily/li/li64_pack.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "a8036e7c499b66c7859b2168762e8d5d0fa4cab6628bd23a76e20ce1328b1e09",
+      "title": "li65 pack2",
+      "filename": "li65_pack2.swf",
+      "original_urls": [
+        "http://wizards.com/mtg/images/daily/li/li65_pack2.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "cc99b45c83be14173da04c7a5059bafa442595a2b84691728922b8c7690881d6",
+      "title": "li65 packOne",
+      "filename": "li65_packOne.swf",
+      "original_urls": [
+        "http://wizards.com/mtg/images/daily/li/li65_packOne.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "632e06b38fd65884bc21a5b4e83833126b1d1ffbf5af74f4ca7ef16487172046",
+      "title": "li79 pack",
+      "filename": "li79_pack.swf",
+      "original_urls": [
+        "http://wizards.com/mtg/images/daily/li/li79_pack.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "b5dc4e64cfc6bd720b64d646bb4eae672698f19d6d8db27b7b7f70ddd515f94b",
+      "title": "li90 bluff",
+      "filename": "li90_bluff.swf",
+      "original_urls": [
+        "http://wizards.com/mtg/images/daily/li/li90_bluff.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "052eb3d9b35bd03556a662603b6181a5e61dd0c26d545f67a57bdf56dac770b9",
+      "title": "mm138 playtest",
+      "filename": "mm138_playtest.swf",
+      "original_urls": [
+        "http://wizards.com/mtg/images/daily/mm/mm138_playtest.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "00fd7a6f88e11f1f3f24f54faa0e940a2e1184470fbc08d22e4e6058157f3523",
+      "title": "sf42 thud",
+      "filename": "sf42_thud.swf",
+      "original_urls": [
+        "http://wizards.com/mtg/images/daily/sf/sf42_thud.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "7913ac740aa4b0377126b86e805c0df0469d9912b11f64e28219811c89a3756a",
+      "title": "sf64 cardsIOwned",
+      "filename": "sf64_cardsIOwned.swf",
+      "original_urls": [
+        "http://wizards.com/mtg/images/daily/sf/sf64_cardsIOwned.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "09a90a3da01c472aca9b2d10cd7b389b0a92f2ae57f564314acb5861b2bb6d5b",
+      "title": "stf134 MBSLands",
+      "filename": "stf134_MBSLands.swf",
+      "original_urls": [
+        "http://wizards.com/mtg/images/daily/stf/stf134_MBSLands.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "02c785201c3f6adf6c71b914e0c29cf09e306da0405f22144c70116916b645f9",
+      "title": "stf48 artDougLikes",
+      "filename": "stf48_artDougLikes.swf",
+      "original_urls": [
+        "http://wizards.com/mtg/images/daily/stf/stf48_artDougLikes.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "b9039d6a10b41cd7ba52e99f076dac6e969213562da6896d36fa64b176fbf7c2",
+      "title": "stf84 eye",
+      "filename": "stf84_eye.swf",
+      "original_urls": [
+        "http://wizards.com/mtg/images/daily/stf/stf84_eye.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "10d8f2055e9c0d7451d7558268844dd747be04f1c366fbb1ce75daaa26555136",
+      "title": "stf85 island",
+      "filename": "stf85_island.swf",
+      "original_urls": [
+        "http://wizards.com/mtg/images/daily/stf/stf85_island.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "cc6113db470289fe40cfd0e44cf26e65a3fde24a921007526682bbb4ce8fa0a6",
+      "title": "stf96 force",
+      "filename": "stf96_force.swf",
+      "original_urls": [
+        "http://wizards.com/mtg/images/daily/stf/stf96_force.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "96fa85309a5445ff391febd1ddad901fe0a859109a4680ae04993364d7fd3f8c",
+      "title": "td50 winner",
+      "filename": "td50_winner.swf",
+      "original_urls": [
+        "http://wizards.com/mtg/images/daily/td/td50_winner.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "ef73a33d375c68eeab1575c2a92a0728484762f79bbb233b7eb92b6bb7dec023",
+      "title": "td84 bluff",
+      "filename": "td84_bluff.swf",
+      "original_urls": [
+        "http://wizards.com/mtg/images/daily/td/td84_bluff.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "cb03ec4e03cc3be9db6eeb351dad4a70a67882699c8e2c8de097683f7e99f326",
+      "title": "twtw96 saitoNelson",
+      "filename": "twtw96_saitoNelson.swf",
+      "original_urls": [
+        "http://wizards.com/mtg/images/daily/twtw/twtw96_saitoNelson.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "b0da9590e8f8a27e303d8e954d09a175d6ba5c766d8f9e94653f464e686e9fd9",
+      "title": "magic slideshow",
+      "filename": "magic_slideshow.swf",
+      "original_urls": [
+        "http://www.wizards.com/magic/images/academy/magic_slideshow.swf?section=1"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "119ce0bd949071206a4efd40d492798a39ef24c1c1cad025c15246fdd1721738",
+      "title": "morningtide728x90",
+      "filename": "morningtide728x90.swf",
+      "original_urls": [
+        "http://www.wizards.com/magic/images/advertisements/morningtide728x90.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "e0aa3316a4f8c887a323ddbcb1553b1940097975611c35c6c371af8341145358",
+      "title": "mr323 front",
+      "filename": "mr323_front.swf",
+      "original_urls": [
+        "http://www.wizards.com/magic/images/mtgcom/fcpics/making/mr323_front.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "65556e03d76a911e37b6e53a7483ce7b254aaedd09b20046e66ddda39eb02055",
+      "title": "Coldsnap 05 DarienKing",
+      "filename": "Coldsnap_05_DarienKing.swf",
+      "original_urls": [
+        "http://www.wizards.com/magic/images/mtgcom/products/coldsnap/Coldsnap_05_DarienKing.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "e8da0e3ba1ed5bdeaa91b7f5b5fd39fe77dc84a5f4381fafa2fd1ab0061626e3",
+      "title": "Coldsnap 07 GarzaZol",
+      "filename": "Coldsnap_07_GarzaZol.swf",
+      "original_urls": [
+        "http://www.wizards.com/magic/images/mtgcom/products/coldsnap/Coldsnap_07_GarzaZol.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "2b172cc3db85e82fc10ed6f65eed172aa5e4c16e7b58f1ea5fa5fc845a1668c2",
+      "title": "Coldsnap 08 AllosaurusRider",
+      "filename": "Coldsnap_08_AllosaurusRider.swf",
+      "original_urls": [
+        "http://www.wizards.com/magic/images/mtgcom/products/coldsnap/Coldsnap_08_AllosaurusRider.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "efb6cbec8407463b2a3b01c0045abb3271a57b7392135ab6b16379adc89d4f21",
+      "title": "Coldsnap 10 SurgingFlame",
+      "filename": "Coldsnap_10_SurgingFlame.swf",
+      "original_urls": [
+        "http://www.wizards.com/magic/images/mtgcom/products/coldsnap/Coldsnap_10_SurgingFlame.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "6c7f8df30c6c080f1a857ea418b6f3958e029d9ce6875a485c71f4539ba5040b",
+      "title": "arch rel 728",
+      "filename": "arch_rel_728.swf",
+      "original_urls": [
+        "http://www.wizards.com/mtg/images/daily/ads/arch_rel_728.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "cbea741f6e4a5aca5a7d81480fbe164dcba17d1e7e65107766f3e32a85bc6f4d",
+      "title": "d12 160 1",
+      "filename": "d12_160_1.swf",
+      "original_urls": [
+        "http://www.wizards.com/mtg/images/daily/ads/d12_160_1.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "5eec83c2ab36654d95acba9b797d3d46e28bf226146a1fa559869b1ee561d92d",
+      "title": "d12 728 1",
+      "filename": "d12_728_1.swf",
+      "original_urls": [
+        "http://www.wizards.com/mtg/images/daily/ads/d12_728_1.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "76a987ebcdca4107a47fa386bab2c999b9c60a6283465d13d8da79c9d7144067",
+      "title": "dotp xpac2 160",
+      "filename": "dotp_xpac2_160.swf",
+      "original_urls": [
+        "http://www.wizards.com/mtg/images/daily/ads/dotp_xpac2_160.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "e02bac2b5a49d695e015330ee9959ec66a7bcba0622231f3524675155c670f28",
+      "title": "dotp xpac2 728",
+      "filename": "dotp_xpac2_728.swf",
+      "original_urls": [
+        "http://www.wizards.com/mtg/images/daily/ads/dotp_xpac2_728.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "ec10f7dfa753a5cbac735e075e38066994bb4e3b0cffbcf6cff4cce350fda768",
+      "title": "dotppc 160",
+      "filename": "dotppc_160.swf",
+      "original_urls": [
+        "http://www.wizards.com/mtg/images/daily/ads/dotppc_160.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "c1e13568f9efb48f0ea398f62b576706904e3e14f077be9c5b3db9522dd7aff0",
+      "title": "duels 160x600",
+      "filename": "duels_160x600.swf",
+      "original_urls": [
+        "http://www.wizards.com/mtg/images/daily/ads/duels_160x600.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "1265bc01e9b4354c7a208c0b2f2a90b77434f0567804fc3fc483576e31cb6747",
+      "title": "duelspc onsale 160",
+      "filename": "duelspc_onsale_160.swf",
+      "original_urls": [
+        "http://www.wizards.com/mtg/images/daily/ads/duelspc_onsale_160.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "402c9c76a1897473a10ab3a953edd612d2eb775f1655c2eae7e15fa5a67bb322",
+      "title": "duelspc onsale 728",
+      "filename": "duelspc_onsale_728.swf",
+      "original_urls": [
+        "http://www.wizards.com/mtg/images/daily/ads/duelspc_onsale_728.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "1f2758f620c722645b92668f827945da5031abeec9ca66d2ad88555a7d391e07",
+      "title": "duelsxpac 160",
+      "filename": "duelsxpac_160.swf",
+      "original_urls": [
+        "http://www.wizards.com/mtg/images/daily/ads/duelsxpac_160.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "ae7ea941edcce9144e81c109240b0d824fe895f91be4089d85006c3aae3fa940",
+      "title": "fnm 310",
+      "filename": "fnm_310.swf",
+      "original_urls": [
+        "http://www.wizards.com/mtg/images/daily/ads/fnm_310.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "11054b50a0920d7931681fe40b34b7be3fe4ddcf04b430496fff6d9cd8672a83",
+      "title": "fnm 331 160",
+      "filename": "fnm_331_160.swf",
+      "original_urls": [
+        "http://www.wizards.com/mtg/images/daily/ads/fnm_331_160.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "c76f4f10e15a4f58d00101bae1740ef6831a6c82607b87ed7d76892468d5cf37",
+      "title": "fnm 408 160",
+      "filename": "fnm_408_160.swf",
+      "original_urls": [
+        "http://www.wizards.com/mtg/images/daily/ads/fnm_408_160.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "a27b857af9e01db213b586b4dd325db5008d4370fa89e66a59cf42b1d2c6608f",
+      "title": "fnm 415 160",
+      "filename": "fnm_415_160.swf",
+      "original_urls": [
+        "http://www.wizards.com/mtg/images/daily/ads/fnm_415_160.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "facd0e8dff2ab36465c7c382be774e1bef277d674dd7893e0e714da172f13d96",
+      "title": "fnm 505 728",
+      "filename": "fnm_505_728.swf",
+      "original_urls": [
+        "http://www.wizards.com/mtg/images/daily/ads/fnm_505_728.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "0b1f93c0c80e4de1471a9aacd53daa35e762c8425f35592510139bafed4ee961",
+      "title": "fnm 519 728",
+      "filename": "fnm_519_728.swf",
+      "original_urls": [
+        "http://www.wizards.com/mtg/images/daily/ads/fnm_519_728.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "0d82304260a95b8656fb3bf73864a4411b8566ec763f00b684184b5e6ee16858",
+      "title": "fnm 526 728",
+      "filename": "fnm_526_728.swf",
+      "original_urls": [
+        "http://www.wizards.com/mtg/images/daily/ads/fnm_526_728.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "82427d99910e9b3e9522852ec5049d1ba4ea561f1480946441c5431a6f9c058a",
+      "title": "fnm 728",
+      "filename": "fnm_728.swf",
+      "original_urls": [
+        "http://www.wizards.com/mtg/images/daily/ads/fnm_728.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "08ed65ad1301deb1746f41c0332688b7a326cfa73b2ea4314f6719f9f5f563c4",
+      "title": "m12 160 4",
+      "filename": "m12_160_4.swf",
+      "original_urls": [
+        "http://www.wizards.com/mtg/images/daily/ads/m12_160_4.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "fa299f536d57897db4d24cd6ff9e031bd7a255fae2099dd603badefe3beb54bb",
+      "title": "m12 728 4",
+      "filename": "m12_728_4.swf",
+      "original_urls": [
+        "http://www.wizards.com/mtg/images/daily/ads/m12_728_4.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "eea3b8992e286a28cca6856a8410a1c074113bd7044575a1dc54cff3d434e206",
+      "title": "m12 gd 728",
+      "filename": "m12_gd_728.swf",
+      "original_urls": [
+        "http://www.wizards.com/mtg/images/daily/ads/m12_gd_728.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "f658b1fab75ba7ba7c6945fd48eec2c18ef9f3c1fd8f41a7224007c0332cb891",
+      "title": "m12 lp 728",
+      "filename": "m12_lp_728.swf",
+      "original_urls": [
+        "http://www.wizards.com/mtg/images/daily/ads/m12_lp_728.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "2783b143de29bcb2aba7f6fd558b9d12bc0001beb6a78e1e2314ff10f1a78825",
+      "title": "m12 pre 728",
+      "filename": "m12_pre_728.swf",
+      "original_urls": [
+        "http://www.wizards.com/mtg/images/daily/ads/m12_pre_728.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "f4444f76739a73e90cc50134560ede4c8d9f1e741f15845dac4d3f98f8500369",
+      "title": "purifyingfire 160",
+      "filename": "purifyingfire_160.swf",
+      "original_urls": [
+        "http://www.wizards.com/mtg/images/daily/ads/purifyingfire_160.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "476dbde54dca1e23762884d6f5ccaa2fa39862bdb0fbc9cf5c5a6f3eb9277768",
+      "title": "zen banner gd2",
+      "filename": "zen_banner_gd2.swf",
+      "original_urls": [
+        "http://www.wizards.com/mtg/images/daily/ads/zen_banner_gd2.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "3b395b694f3926b6b24be7aa88628bde932c83896a1a418593464efdc8fd7c72",
+      "title": "1725 Name Anagram",
+      "filename": "1725_Name_Anagram.swf",
+      "original_urls": [
+        "http://www.wizards.com/mtg/images/daily/arcana/1725_Name_Anagram.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "6d789df7b4790aca95e99267be8221fc245c3f40e3a50d75586e4853b49b39af",
+      "title": "The Secrets of the Eye",
+      "filename": "396_57xgd1im10.swf",
+      "original_urls": [
+        "http://www.wizards.com/mtg/images/daily/arcana/396_57xgd1im10.swf"
+      ],
+      "article_ids": [],
+      "poster_url": "https://i.ormos.uk/4b/92/4b925afde1488dec7057cb3f53944cad57b4c2f309612c2cd81b2519809435d4.jpg"
+    },
+    {
+      "sha256": "f4b3298d7343c033c17aff1205724742a0cbaa57d08c2cd14552e5fb01ae8d0c",
+      "title": "ftl38 eye2",
+      "filename": "ftl38_eye2.swf",
+      "original_urls": [
+        "http://www.wizards.com/mtg/images/daily/ftl/ftl38_eye2.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "60ec6b6323be10877c797775bbcf672505e16dfaa1c51e8212e161ed67319998",
+      "title": "mm39 atog",
+      "filename": "mm39_atog.swf",
+      "original_urls": [
+        "http://www.wizards.com/mtg/images/daily/mm/mm39_atog.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "ddf290ef82ee1d05212a7811a513254db95217cc7d0543327ad3a68548910cf0",
+      "title": "stf80 cross1",
+      "filename": "stf80_cross1.swf",
+      "original_urls": [
+        "http://www.wizards.com/mtg/images/daily/stf/stf80_cross1.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "72e780f217c45358afa45b1b310add061c83a402d90b3b1855c7527d9edc8a9c",
+      "title": "438 forest",
+      "filename": "438_forest.swf",
+      "original_urls": [
+        "https://magic.wizards.com/sites/mtg/files/image_legacy_migration/mtg/images/daily/arcana/438_forest.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "df3e0e3e851309814a471f1f8dff162757355675a60759be14fb0b778ecb4f0a",
+      "title": "438 island",
+      "filename": "438_island.swf",
+      "original_urls": [
+        "https://magic.wizards.com/sites/mtg/files/image_legacy_migration/mtg/images/daily/arcana/438_island.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "d9d7821efa7b69705a0898df61b43f21b7c8617fdc111d8a577c73608a4fc35a",
+      "title": "438 mountain",
+      "filename": "438_mountain.swf",
+      "original_urls": [
+        "https://magic.wizards.com/sites/mtg/files/image_legacy_migration/mtg/images/daily/arcana/438_mountain.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "71d0c5f9854e7725db764806559e354b177c58db20c2da66a98ed4e95926965b",
+      "title": "438 plains",
+      "filename": "438_plains.swf",
+      "original_urls": [
+        "https://magic.wizards.com/sites/mtg/files/image_legacy_migration/mtg/images/daily/arcana/438_plains.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "b4fc663d876ed1875e9ddd6323d762f58e21a39004fd817bfca3c35d7cd2773e",
+      "title": "438 swamp",
+      "filename": "438_swamp.swf",
+      "original_urls": [
+        "https://magic.wizards.com/sites/mtg/files/image_legacy_migration/mtg/images/daily/arcana/438_swamp.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "cc33a7e8b6d38af0126884e2df0642d4672399cb4d5fd703477b2f8fa1dee41d",
+      "title": "653 thrun",
+      "filename": "653_thrun.swf",
+      "original_urls": [
+        "https://media.magic.wizards.com/image_legacy_migration/mtg/images/daily/arcana/653_thrun.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "sha256": "a8e10d0e0ce54ffca4cd871c06afd2c42f87ab06fcdb16b913b78e1e88e41d47",
+      "title": "feature85 nbybfyigafsdf",
+      "filename": "feature85_nbybfyigafsdf.swf",
+      "original_urls": [
+        "https://media.magic.wizards.com/image_legacy_migration/mtg/images/daily/features/feature85_nbybfyigafsdf.swf"
+      ],
+      "article_ids": []
+    },
+    {
+      "id": "fba996a03e928b3133857614bdfb759e2a92029ea3b64f339132fcf542b2c15a",
+      "sha256": "4624fc05875ab02998080f250c5f9496149d99dc2c994d27d70cc0c15f636ca0",
+      "title": "Alara Reborn puzzle 1",
+      "filename": "mtg_puzzle.swf",
+      "original_urls": [
+        "http://www.wizards.com/mtg/images/tcg/products/alarareborn/8rpe8myh/mtg_puzzle.swf?stgImage=images/mtg_puzzle1.jpg&nbrRows=6&nbrCols=8",
+        "https://www.wizards.com/mtg/images/tcg/products/alarareborn/8rpe8myh/mtg_puzzle.swf?stgImage=images/mtg_puzzle1.jpg&nbrRows=6&nbrCols=8"
+      ],
+      "article_ids": [],
+      "parameters": {
+        "stgImage": "images/mtg_puzzle1.jpg",
+        "nbrRows": "6",
+        "nbrCols": "8"
+      },
+      "image_sha256": "ba21e2d08c93b96ce082e0d27a5cd545ec92f3d6d1aa4fdf748b1765f79743ce",
+      "wallpaper_url": "https://i.ormos.uk/48/ad/48ad10485f08d32e7797d3ec4eaa24789ab69632623efb54b7213942305bcc4a.jpg",
+      "wallpaper_archive_url": "https://web.archive.org/web/20130905215239/http://www.wizards.com/magic/tcg/article.aspx?x=mtg/tcg/alarareborn/wallpaper1"
+    },
+    {
+      "id": "67a163265f1ff0a02a5728898c8e136bee71eebe35dd505cd157edaf3e30e01f",
+      "sha256": "4624fc05875ab02998080f250c5f9496149d99dc2c994d27d70cc0c15f636ca0",
+      "title": "Alara Reborn puzzle 2",
+      "filename": "mtg_puzzle.swf",
+      "original_urls": [
+        "http://www.wizards.com/mtg/images/tcg/products/alarareborn/8rpe8myh/mtg_puzzle.swf?stgImage=images/mtg_puzzle2.jpg&nbrRows=6&nbrCols=8",
+        "https://www.wizards.com/mtg/images/tcg/products/alarareborn/8rpe8myh/mtg_puzzle.swf?stgImage=images/mtg_puzzle2.jpg&nbrRows=6&nbrCols=8"
+      ],
+      "article_ids": [],
+      "parameters": {
+        "stgImage": "images/mtg_puzzle2.jpg",
+        "nbrRows": "6",
+        "nbrCols": "8"
+      },
+      "image_sha256": "794702189f50a95a3d8a826bcd98d913bde21c8f512c24f012c1697a5bfb66c4",
+      "wallpaper_url": "https://i.ormos.uk/a5/6c/a56cf022508566b1ccba214da45a936e2584e58c7442e1aae2b0171fa75409e3.jpg",
+      "wallpaper_archive_url": "https://web.archive.org/web/20130905193542/http://www.wizards.com/magic/tcg/article.aspx?x=mtg/tcg/alarareborn/wallpaper2"
+    },
+    {
+      "id": "408218a1580352bb1bd3ccf5dbc7301ac3ea1e8601a6b2863d93f56547f6ecae",
+      "sha256": "4624fc05875ab02998080f250c5f9496149d99dc2c994d27d70cc0c15f636ca0",
+      "title": "Alara Reborn puzzle 3",
+      "filename": "mtg_puzzle.swf",
+      "original_urls": [
+        "https://www.wizards.com/mtg/images/tcg/products/alarareborn/8rpe8myh/mtg_puzzle.swf?stgImage=images/mtg_puzzle3.jpg&nbrRows=6&nbrCols=8"
+      ],
+      "article_ids": [],
+      "parameters": {
+        "stgImage": "images/mtg_puzzle3.jpg",
+        "nbrRows": "6",
+        "nbrCols": "8"
+      },
+      "image_sha256": "1efdeb37bb13597712d0853f803fa257d04a0cc6a930994bb525431c58c9e96c",
+      "wallpaper_url": "https://i.ormos.uk/43/8b/438b285f8ad0ae80202e104e0160c921fe87abe4b7c87b752febf4aa79ef90b6.jpg",
+      "wallpaper_archive_url": "https://web.archive.org/web/20130905185652/http://www.wizards.com/magic/tcg/article.aspx?x=mtg/tcg/alarareborn/wallpaper3"
+    },
+    {
+      "id": "5a8ab25b640dd538ea60e5148b9e5cb62d8fa96fe2608225c86f5bf343522e25",
+      "sha256": "bcb32c50b1f26134132831f53f5b22ce6f95dff09ab53555085068f9462c8602",
+      "title": "Conflux puzzle 1",
+      "filename": "mtg_puzzle.swf",
+      "original_urls": [
+        "http://www.wizards.com/mtg/images/tcg/products/conflux/fcxha85ddd/mtg_puzzle.swf?stgImage=images/mtg_puzzle1.jpg&nbrRows=6&nbrCols=8",
+        "https://www.wizards.com/mtg/images/tcg/products/conflux/fcxha85ddd/mtg_puzzle.swf?stgImage=images/mtg_puzzle1.jpg&nbrRows=6&nbrCols=8"
+      ],
+      "article_ids": [],
+      "parameters": {
+        "stgImage": "images/mtg_puzzle1.jpg",
+        "nbrRows": "6",
+        "nbrCols": "8"
+      },
+      "image_sha256": "d2e50b583e769783acc7622d58c90cf8be69165d2a488b441a01b64ab7ae4d50",
+      "wallpaper_url": "https://i.ormos.uk/89/63/89639c3d296b4822294a17f9e27131d81588f60164fd3aff21f357a494e0ff67.jpg",
+      "wallpaper_archive_url": "https://web.archive.org/web/20131127122444/http://www.wizards.com/magic/tcg/article.aspx?x=mtg/tcg/conflux/wallpaper1"
+    },
+    {
+      "id": "6a12425bedc8304950684cc6f45bcd97c887f02a6f4335707c3e04338a2f6b5a",
+      "sha256": "bcb32c50b1f26134132831f53f5b22ce6f95dff09ab53555085068f9462c8602",
+      "title": "Conflux puzzle 2",
+      "filename": "mtg_puzzle.swf",
+      "original_urls": [
+        "https://www.wizards.com/mtg/images/tcg/products/conflux/fcxha85ddd/mtg_puzzle.swf?stgImage=images/mtg_puzzle2.jpg&nbrRows=6&nbrCols=8"
+      ],
+      "article_ids": [],
+      "parameters": {
+        "stgImage": "images/mtg_puzzle2.jpg",
+        "nbrRows": "6",
+        "nbrCols": "8"
+      },
+      "image_sha256": "2d0c6665101a7b4ea24d715841477867e5ad2631606e9c29f17aa9b3ffc3ec80",
+      "wallpaper_url": "https://i.ormos.uk/c9/ed/c9edc10eccbf2297ecd1ce1043ce6da08faf557be03b4e58113b97841489d2bb.jpg",
+      "wallpaper_archive_url": "https://web.archive.org/web/20130905182829/http://www.wizards.com/magic/tcg/article.aspx?x=mtg/tcg/conflux/wallpaper2"
+    },
+    {
+      "id": "44377de06c5bcb9e811e12d2ea65d07857051a77e7011d5a870b2f3d3fc81556",
+      "sha256": "bcb32c50b1f26134132831f53f5b22ce6f95dff09ab53555085068f9462c8602",
+      "title": "Conflux puzzle 3",
+      "filename": "mtg_puzzle.swf",
+      "original_urls": [
+        "https://www.wizards.com/mtg/images/tcg/products/conflux/fcxha85ddd/mtg_puzzle.swf?stgImage=images/mtg_puzzle3.jpg&nbrRows=6&nbrCols=8"
+      ],
+      "article_ids": [],
+      "parameters": {
+        "stgImage": "images/mtg_puzzle3.jpg",
+        "nbrRows": "6",
+        "nbrCols": "8"
+      },
+      "image_sha256": "13c6fd26f8f6a3b6c2a771b8b8158a61ee155d334b2b5911388985d97fabf31b",
+      "wallpaper_url": "https://i.ormos.uk/9b/ce/9bceac3610ddd2a4d70b8c1f9b3ebb530f46ee53494a0c71ab2d0c1f4bc5b045.jpg",
+      "wallpaper_archive_url": "https://web.archive.org/web/20130905201435/http://www.wizards.com/magic/tcg/article.aspx?x=mtg/tcg/conflux/wallpaper3"
+    },
+    {
+      "id": "9713d7d81f300b3ff078e9ff975f7cfe808fba2a1a7f7b38b0a74d97ec8b2a4d",
+      "sha256": "c6456451fe712469c3a84236b0fd1494975f24026b15751927da8f6785e9cfc7",
+      "title": "Dissension puzzle 1",
+      "filename": "mtg_puzzle.swf",
+      "original_urls": [
+        "http://www.wizards.com/magic/images/mtgcom/products/dissension/mtg_puzzle.swf?stgImage=images/mtg_puzzle1.jpg&nbrRows=6&nbrCols=8"
+      ],
+      "article_ids": [],
+      "parameters": {
+        "stgImage": "images/mtg_puzzle1.jpg",
+        "nbrRows": "6",
+        "nbrCols": "8"
+      },
+      "image_sha256": "7d7ed9bcd19e9125ae914e0016c7aa3177b4708a63db06c9a8bbef93d70f33a1",
+      "wallpaper_url": "https://i.ormos.uk/bc/93/bc93d3908cf6d0fbc6b0034f6261799dbac2ae7fa88825ce12551303a6c1e0b9.jpg",
+      "wallpaper_archive_url": "https://web.archive.org/web/20100206064444/http://www.wizards.com/Magic/TCG/Article.aspx?x=magic/dissension/azoriuswallpaper"
+    },
+    {
+      "id": "799190ac1470b7c534e163807a36aba9693009cd96a36b36927d5ecee83523f1",
+      "sha256": "c6456451fe712469c3a84236b0fd1494975f24026b15751927da8f6785e9cfc7",
+      "title": "Dissension puzzle 2",
+      "filename": "mtg_puzzle.swf",
+      "original_urls": [
+        "http://www.wizards.com/magic/images/mtgcom/products/dissension/mtg_puzzle.swf?stgImage=images/mtg_puzzle2.jpg&nbrRows=6&nbrCols=8"
+      ],
+      "article_ids": [],
+      "parameters": {
+        "stgImage": "images/mtg_puzzle2.jpg",
+        "nbrRows": "6",
+        "nbrCols": "8"
+      },
+      "image_sha256": "bb26d9aace74574cf8895e25c6ec452d3354793877b1a9901b7ac804ade874ee",
+      "wallpaper_url": "https://i.ormos.uk/9d/70/9d70539fb3a0d206228ba8167b86fdcc72e0adb2e1b109a10823a1b51b07d722.jpg",
+      "wallpaper_archive_url": "https://web.archive.org/web/20080407190841/http://www.wizards.com/default.asp?x=magic/dissension/simicwallpaper"
+    },
+    {
+      "id": "d68ae9833ea40ead27a04f5dac1187ffc5165d0a34069de94f10e6e68e07fdcd",
+      "sha256": "c6456451fe712469c3a84236b0fd1494975f24026b15751927da8f6785e9cfc7",
+      "title": "Dissension puzzle 3",
+      "filename": "mtg_puzzle.swf",
+      "original_urls": [
+        "http://www.wizards.com/magic/images/mtgcom/products/dissension/mtg_puzzle.swf?stgImage=images/mtg_puzzle3.jpg&nbrRows=6&nbrCols=8"
+      ],
+      "article_ids": [],
+      "parameters": {
+        "stgImage": "images/mtg_puzzle3.jpg",
+        "nbrRows": "6",
+        "nbrCols": "8"
+      },
+      "image_sha256": "3f969805f54fe3689b4f85606e9738f770d7e390130b2b0697cf9a40915add90",
+      "wallpaper_url": "https://i.ormos.uk/42/03/4203f426a44d7dd0ed12f19824d1f76883699ddab28c7bc953baa637a41df3a8.jpg",
+      "wallpaper_archive_url": "https://web.archive.org/web/20090727093449/http://www.wizards.com/Magic/TCG/Article.aspx?x=magic/dissension/rakdoswallpaper"
+    },
+    {
+      "id": "82e14f19e0e56282a50f08b38c195c35fda84a2b7600503015101011bb0ecb33",
+      "sha256": "4f44f604443f82849d270912e71acfb68b2485e2be08fb8cc9761f6c3d4cfafe",
+      "title": "Eventide puzzle 1",
+      "filename": "mtg_puzzle.swf",
+      "original_urls": [
+        "http://www.wizards.com/magic/images/mtgcom/products/eventide/mtg_puzzle.swf?stgImage=images/mtg_puzzle1.jpg&nbrRows=6&nbrCols=8"
+      ],
+      "article_ids": [],
+      "parameters": {
+        "stgImage": "images/mtg_puzzle1.jpg",
+        "nbrRows": "6",
+        "nbrCols": "8"
+      },
+      "image_sha256": "d4becef60140e4222102d6bd4ff9bd5becc257039172a1e67eb1557c9a8e80ca",
+      "wallpaper_url": "https://i.ormos.uk/65/d2/65d2e0ed06a1e3d207e60c50da731bbbdd6dbd83354b33764c2b0471505bc2fc.jpg",
+      "wallpaper_archive_url": "https://web.archive.org/web/20080808093334/http://www.wizards.com/default.asp?x=magic/eventide/wallpaper1"
+    },
+    {
+      "id": "705997445bb3083ef51274e686dba7e98dc7f0f5b548af8fde543b4cb87eb724",
+      "sha256": "4f44f604443f82849d270912e71acfb68b2485e2be08fb8cc9761f6c3d4cfafe",
+      "title": "Eventide puzzle 2",
+      "filename": "mtg_puzzle.swf",
+      "original_urls": [
+        "http://www.wizards.com/magic/images/mtgcom/products/eventide/mtg_puzzle.swf?stgImage=images/mtg_puzzle2.jpg&nbrRows=6&nbrCols=8"
+      ],
+      "article_ids": [],
+      "parameters": {
+        "stgImage": "images/mtg_puzzle2.jpg",
+        "nbrRows": "6",
+        "nbrCols": "8"
+      },
+      "image_sha256": "bda5856e70fe51c4e61820eeb3e3c9c583cc28a2c997d09c338e4cd27d1779ea",
+      "wallpaper_archive_url": "https://web.archive.org/web/20080720231621/http://www.wizards.com/default.asp?x=magic/eventide/wallpaper2"
+    },
+    {
+      "id": "9665d88f319d2816bc0b1b63ce75cd5782a7831632ad7e7bb2a62fbe0e879f00",
+      "sha256": "4f44f604443f82849d270912e71acfb68b2485e2be08fb8cc9761f6c3d4cfafe",
+      "title": "Eventide puzzle 3",
+      "filename": "mtg_puzzle.swf",
+      "original_urls": [
+        "http://www.wizards.com/magic/images/mtgcom/products/eventide/mtg_puzzle.swf?stgImage=images/mtg_puzzle3.jpg&nbrRows=6&nbrCols=8"
+      ],
+      "article_ids": [],
+      "parameters": {
+        "stgImage": "images/mtg_puzzle3.jpg",
+        "nbrRows": "6",
+        "nbrCols": "8"
+      },
+      "image_sha256": "d74e799121766c8553eecafc4a2a19bb211e0b650f2a8e834e98a705a23c3afd",
+      "wallpaper_archive_url": "https://web.archive.org/web/20080808093340/http://www.wizards.com/default.asp?x=magic/eventide/wallpaper3"
+    },
+    {
+      "id": "34cb787fa0f48177c87faee2a0665813385fece5060b87e49abd3e43815f8611",
+      "sha256": "52bd0925cbe2468742c081a026f629e82304a1f47e3842576e8b1c582a55539c",
+      "title": "Future Sight puzzle 1",
+      "filename": "mtg_puzzle.swf",
+      "original_urls": [
+        "http://www.wizards.com/magic/images/mtgcom/products/futuresight/mtg_puzzle.swf?stgImage=images/mtg_puzzle1.jpg&nbrRows=6&nbrCols=8"
+      ],
+      "article_ids": [],
+      "parameters": {
+        "stgImage": "images/mtg_puzzle1.jpg",
+        "nbrRows": "6",
+        "nbrCols": "8"
+      },
+      "image_sha256": "67fb65c11282db2400e8f4a947abc4aaf412b33b57827dc5fb6aa7165edd8f11",
+      "wallpaper_url": "https://i.ormos.uk/a2/4d/a24d755130c687753d2d62bf7df702334efe87d7c159d579fc288614d321b975.jpg",
+      "wallpaper_archive_url": "https://web.archive.org/web/20070406181259/http://www.wizards.com/default.asp?x=magic/futuresight/week1wallpaper"
+    },
+    {
+      "id": "4e1bbd5fee7eecc981997952fc939902e147edde19a66813317c8603554be713",
+      "sha256": "52bd0925cbe2468742c081a026f629e82304a1f47e3842576e8b1c582a55539c",
+      "title": "Future Sight puzzle 2",
+      "filename": "mtg_puzzle.swf",
+      "original_urls": [
+        "http://www.wizards.com/magic/images/mtgcom/products/futuresight/mtg_puzzle.swf?stgImage=images/mtg_puzzle2.jpg&nbrRows=6&nbrCols=8"
+      ],
+      "article_ids": [],
+      "parameters": {
+        "stgImage": "images/mtg_puzzle2.jpg",
+        "nbrRows": "6",
+        "nbrCols": "8"
+      },
+      "image_sha256": "d70fc8ad9ece966dea24f7b54d11403a01246b236fc3aee7470a7f6137d7bad3",
+      "wallpaper_url": "https://i.ormos.uk/08/de/08de166c81815b7ca4ae44a7fdb54746d385bc520dd81c3c38be4318f77bacd0.jpg",
+      "wallpaper_archive_url": "https://web.archive.org/web/20070417060747/http://www.wizards.com/default.asp?x=magic/futuresight/week2wallpaper"
+    },
+    {
+      "id": "50c245b4376da50ae7bac3b80f7a4238f4b5f31dae1394ba1bfc73ea33d14de3",
+      "sha256": "52bd0925cbe2468742c081a026f629e82304a1f47e3842576e8b1c582a55539c",
+      "title": "Future Sight puzzle 3",
+      "filename": "mtg_puzzle.swf",
+      "original_urls": [
+        "http://www.wizards.com/magic/images/mtgcom/products/futuresight/mtg_puzzle.swf?stgImage=images/mtg_puzzle3.jpg&nbrRows=6&nbrCols=8"
+      ],
+      "article_ids": [],
+      "parameters": {
+        "stgImage": "images/mtg_puzzle3.jpg",
+        "nbrRows": "6",
+        "nbrCols": "8"
+      },
+      "image_sha256": "4abde1dd6526fbf2c525e390c7aa8e7e01c03fcd804a4bec47e5aa060028b3c6",
+      "wallpaper_url": "https://i.ormos.uk/92/f3/92f360dd112d25ac85da323cf1c08225863fdfa9c52347ffb165f13349187782.jpg",
+      "wallpaper_archive_url": "https://web.archive.org/web/20070420041653/http://www.wizards.com/default.asp?x=magic/futuresight/week3wallpaper"
+    },
+    {
+      "id": "f7eb3a32bdf0701e8a01eb042750ecea6b3b33e3934bdce8d68a2a760ea5e335",
+      "sha256": "ba5ec832a32c0a528731e62bc0ff527da45c062631f95b30e21e6aa1425f2167",
+      "title": "Magic 2010 puzzle 1",
+      "filename": "mtg_puzzle.swf",
+      "original_urls": [
+        "http://www.wizards.com/mtg/images/tcg/products/magic2010/mtg_puzzle.swf?stgImage=images/mtg_puzzle1.jpg&nbrRows=6&nbrCols=8"
+      ],
+      "article_ids": [],
+      "parameters": {
+        "stgImage": "images/mtg_puzzle1.jpg",
+        "nbrRows": "6",
+        "nbrCols": "8"
+      },
+      "image_sha256": "362d767d0585524d905795af6499a1e246ee00b08775f827f27675541c41b596",
+      "wallpaper_url": "https://i.ormos.uk/0d/1a/0d1ae61c6c371c9750040d809ca7cfce74b509bf939edaa389597aafd190ff9b.jpg",
+      "wallpaper_archive_url": "https://web.archive.org/web/20130905192331/http://www.wizards.com/magic/tcg/article.aspx?x=mtg/tcg/magic2010/wallpaper1"
+    },
+    {
+      "id": "01f4bf237043fbcf3043db28689c555fb6c9f8ff44bd9279936c7ffbd27a46b8",
+      "sha256": "82a8c38f3346b210328675e778ab5905bae0610a6b40cc49bfaaadebebf329d5",
+      "title": "Morningtide puzzle 1",
+      "filename": "mtg_puzzle.swf",
+      "original_urls": [
+        "http://www.wizards.com/magic/images/mtgcom/products/morningtide/mtg_puzzle.swf?stgImage=images/mtg_puzzle1.jpg&nbrRows=6&nbrCols=8"
+      ],
+      "article_ids": [],
+      "parameters": {
+        "stgImage": "images/mtg_puzzle1.jpg",
+        "nbrRows": "6",
+        "nbrCols": "8"
+      },
+      "image_sha256": "3a0492bdab8a78fa5b1e6b66f9b92e3444efd370f487ca1fbda536f182da08dd",
+      "wallpaper_url": "https://i.ormos.uk/43/e9/43e9d3090229518c9402ef8bf074d50a700ee2974e7ea61eef8444c5a6b68a0b.jpg",
+      "wallpaper_archive_url": "https://web.archive.org/web/20080514054648/http://www.wizards.com/default.asp?x=magic/morningtide/wallpaper1"
+    },
+    {
+      "id": "be4b99012f1bfb64887b089c7fb5e04658ce3884a8ce1582f809de3c12f68a34",
+      "sha256": "82a8c38f3346b210328675e778ab5905bae0610a6b40cc49bfaaadebebf329d5",
+      "title": "Morningtide puzzle 2",
+      "filename": "mtg_puzzle.swf",
+      "original_urls": [
+        "http://www.wizards.com/magic/images/mtgcom/products/morningtide/mtg_puzzle.swf?stgImage=images/mtg_puzzle2.jpg&nbrRows=6&nbrCols=8"
+      ],
+      "article_ids": [],
+      "parameters": {
+        "stgImage": "images/mtg_puzzle2.jpg",
+        "nbrRows": "6",
+        "nbrCols": "8"
+      },
+      "image_sha256": "127966d75bb674b6d8e0626bc46e1312875bad6659793323fc7202c546cbf362",
+      "wallpaper_archive_url": "https://web.archive.org/web/20080112143549/http://www.wizards.com/default.asp?x=magic/morningtide/wallpaper2"
+    },
+    {
+      "id": "3c7a675d496392306a0811e26de87477d19fae3742ce60d9c796bc297fdf4858",
+      "sha256": "82a8c38f3346b210328675e778ab5905bae0610a6b40cc49bfaaadebebf329d5",
+      "title": "Morningtide puzzle 3",
+      "filename": "mtg_puzzle.swf",
+      "original_urls": [
+        "http://www.wizards.com/magic/images/mtgcom/products/morningtide/mtg_puzzle.swf?stgImage=images/mtg_puzzle3.jpg&nbrRows=6&nbrCols=8"
+      ],
+      "article_ids": [],
+      "parameters": {
+        "stgImage": "images/mtg_puzzle3.jpg",
+        "nbrRows": "6",
+        "nbrCols": "8"
+      },
+      "image_sha256": "845aae1df290002590db856b7cfa698a0bb1f4ca613b3a993b8ab02e6c1862cb",
+      "wallpaper_archive_url": "https://web.archive.org/web/20080119095725/http://www.wizards.com/default.asp?x=magic/morningtide/wallpaper3"
+    },
+    {
+      "id": "f87e7bf5670b2beba2e8bc8052f256c9264e803dd1dfac3c961de22dd1afcd15",
+      "sha256": "5a5e53130e15c73eb664c247727f1a95c0a6829ec942d4a388b382cd02fb5d6b",
+      "title": "Planar Chaos puzzle 1",
+      "filename": "mtg_puzzle.swf",
+      "original_urls": [
+        "http://www.wizards.com/magic/images/mtgcom/products/planarchaos/mtg_puzzle.swf?stgImage=images/mtg_puzzle1.jpg&nbrRows=6&nbrCols=8"
+      ],
+      "article_ids": [],
+      "parameters": {
+        "stgImage": "images/mtg_puzzle1.jpg",
+        "nbrRows": "6",
+        "nbrCols": "8"
+      },
+      "image_sha256": "87acacdcaea89bb08ad602234c7086b8aca2796cea22668df309cdcaa1db6c33",
+      "wallpaper_url": "https://i.ormos.uk/31/26/312670e6e8c50f4a1bb4a3c0e45eb2cf35411a83c903ab026d80778a0b1a21ea.jpg"
+    },
+    {
+      "id": "975e0aa4221942e2c726b405c217c6ec71f6a2d7c42130c9c9c3b4b1bc39c528",
+      "sha256": "5a5e53130e15c73eb664c247727f1a95c0a6829ec942d4a388b382cd02fb5d6b",
+      "title": "Planar Chaos puzzle 2",
+      "filename": "mtg_puzzle.swf",
+      "original_urls": [
+        "http://www.wizards.com/magic/images/mtgcom/products/planarchaos/mtg_puzzle.swf?stgImage=images/mtg_puzzle2.jpg&nbrRows=6&nbrCols=8"
+      ],
+      "article_ids": [],
+      "parameters": {
+        "stgImage": "images/mtg_puzzle2.jpg",
+        "nbrRows": "6",
+        "nbrCols": "8"
+      },
+      "image_sha256": "42aa1424b66d5ff33c6451f89d8e8e30c410ad2a16241b1c6a4725e49063b59d",
+      "wallpaper_url": "https://web.archive.org/web/20150622103512id_/http://www.wizards.com/magic/images/mtgcom/wallpapers/Wallpaper_PlanarChaos2_1280x1024.jpg"
+    },
+    {
+      "id": "7e0917676410a93d92891df15e9d96242fb218de12fa92a24208b3c348a76548",
+      "sha256": "5a5e53130e15c73eb664c247727f1a95c0a6829ec942d4a388b382cd02fb5d6b",
+      "title": "Planar Chaos puzzle 3",
+      "filename": "mtg_puzzle.swf",
+      "original_urls": [
+        "http://www.wizards.com/magic/images/mtgcom/products/planarchaos/mtg_puzzle.swf?stgImage=images/mtg_puzzle3.jpg&nbrRows=6&nbrCols=8"
+      ],
+      "article_ids": [],
+      "parameters": {
+        "stgImage": "images/mtg_puzzle3.jpg",
+        "nbrRows": "6",
+        "nbrCols": "8"
+      },
+      "image_sha256": "e52a9d9a83c123d32af48ffc4155ff9fffac0018d94490352b05abed06690611",
+      "wallpaper_url": "https://i.ormos.uk/ed/2c/ed2c949d60d041131f22258b2f745956ff79df34e38ad358118dd947e2e0b971.jpg",
+      "wallpaper_archive_url": "https://web.archive.org/web/20080414003517/http://www.wizards.com/default.asp?x=magic/planarchaos/week3wallpaper"
+    },
+    {
+      "id": "a43fac0f45c0b9498aeaecfe354c8b137fe88e82a932b3eb00edf97d42146d78",
+      "sha256": "3b688b2f5743569d3b2ed67779279f013ecbcb148767b1eb1903fec0ecd2e752",
+      "title": "Planeswalkers puzzle 1",
+      "filename": "mtg_puzzle.swf",
+      "original_urls": [
+        "http://www.wizards.com/magic/images/mtgcom/products/planeswalkers/mtg_puzzle.swf?stgImage=images/mtg_puzzle1.jpg&nbrRows=6&nbrCols=8"
+      ],
+      "article_ids": [],
+      "parameters": {
+        "stgImage": "images/mtg_puzzle1.jpg",
+        "nbrRows": "6",
+        "nbrCols": "8"
+      },
+      "image_sha256": "73ce5b796a2a5e094ad4d51ddaa13ca3326ad901313246c34fb4fcb70733b1e1"
+    },
+    {
+      "id": "7b31ebb5fe753af4a947e2b313f8c4ed42b62702df10c384e7ea99ef9a1f5a60",
+      "sha256": "3b688b2f5743569d3b2ed67779279f013ecbcb148767b1eb1903fec0ecd2e752",
+      "title": "Planeswalkers puzzle 2",
+      "filename": "mtg_puzzle.swf",
+      "original_urls": [
+        "http://www.wizards.com/magic/images/mtgcom/products/planeswalkers/mtg_puzzle.swf?stgImage=images/mtg_puzzle2.jpg&nbrRows=6&nbrCols=8"
+      ],
+      "article_ids": [],
+      "parameters": {
+        "stgImage": "images/mtg_puzzle2.jpg",
+        "nbrRows": "6",
+        "nbrCols": "8"
+      },
+      "image_sha256": "fe93632beb8aed9a92bbfa4f76963847af0d42f5a26ab2b042e59c237dce08dc"
+    },
+    {
+      "id": "a5ac9ddd9c19de20576fee7b5d853227d7be699873f4813b24c3ce63f67d431d",
+      "sha256": "3b688b2f5743569d3b2ed67779279f013ecbcb148767b1eb1903fec0ecd2e752",
+      "title": "Planeswalkers puzzle 3",
+      "filename": "mtg_puzzle.swf",
+      "original_urls": [
+        "http://www.wizards.com/magic/images/mtgcom/products/planeswalkers/mtg_puzzle.swf?stgImage=images/mtg_puzzle3.jpg&nbrRows=6&nbrCols=8"
+      ],
+      "article_ids": [],
+      "parameters": {
+        "stgImage": "images/mtg_puzzle3.jpg",
+        "nbrRows": "6",
+        "nbrCols": "8"
+      },
+      "image_sha256": "cde5e51796e2733d862280e96b33e868ccf7ae040e5be604746b4fca6cae2166",
+      "wallpaper_url": "https://i.ormos.uk/fa/fd/fafd89e03e1bed0ef3ff061e9de9c60eba70ef92ac4cbe535b5098ad9d25235c.jpg",
+      "wallpaper_archive_url": "https://web.archive.org/web/20080512044659/http://www.wizards.com/default.asp?x=magic/planeswalkers/wallpaper3"
+    },
+    {
+      "id": "9df78c7d57952184e5648d08c1c8c113d9d6d838c51872f4e7fb4ca4fefb401f",
+      "sha256": "3b688b2f5743569d3b2ed67779279f013ecbcb148767b1eb1903fec0ecd2e752",
+      "title": "Planeswalkers puzzle 4",
+      "filename": "mtg_puzzle.swf",
+      "original_urls": [
+        "http://www.wizards.com/magic/images/mtgcom/products/planeswalkers/mtg_puzzle.swf?stgImage=images/mtg_puzzle4.jpg&nbrRows=6&nbrCols=8"
+      ],
+      "article_ids": [],
+      "parameters": {
+        "stgImage": "images/mtg_puzzle4.jpg",
+        "nbrRows": "6",
+        "nbrCols": "8"
+      },
+      "image_sha256": "2682e37bbae6b456106a85863208779c9879b66ab0b4a3a0b96868b40e0366ab",
+      "wallpaper_archive_url": "https://web.archive.org/web/20080304124717/http://www.wizards.com/default.asp?x=magic/planeswalkers/wallpaper4"
+    },
+    {
+      "id": "c98b4be52e4430eee3d4f7bcededc2ea9af3cb554bcd3344e63405ebdb00319d",
+      "sha256": "8517b326f126950726fec49def204969c9ff3ae2cb6fee91c16d3acb5f9b853a",
+      "title": "Shadowmoor puzzle 1",
+      "filename": "mtg_puzzle.swf",
+      "original_urls": [
+        "http://www.wizards.com/magic/images/mtgcom/products/shadowmoor/mtg_puzzle.swf?stgImage=images/mtg_puzzle1.jpg&nbrRows=6&nbrCols=8"
+      ],
+      "article_ids": [],
+      "parameters": {
+        "stgImage": "images/mtg_puzzle1.jpg",
+        "nbrRows": "6",
+        "nbrCols": "8"
+      },
+      "image_sha256": "275c3b6f0c8555ccf2c06a0993cee8b678acb1275b6070116a5683036256d48d",
+      "wallpaper_url": "https://i.ormos.uk/95/7a/957a0bb8a7fe1e4b27875e7b39d2b68b846b5763780f75eae78b2681b8222c6e.jpg",
+      "wallpaper_archive_url": "https://web.archive.org/web/20080512024035/http://www.wizards.com/default.asp?x=magic/shadowmoor/wallpaper1"
+    },
+    {
+      "id": "f9abdcaf5516172b6a7d72818a3090f771b1c8bf123785bba317345bfb79a86c",
+      "sha256": "8517b326f126950726fec49def204969c9ff3ae2cb6fee91c16d3acb5f9b853a",
+      "title": "Shadowmoor puzzle 2",
+      "filename": "mtg_puzzle.swf",
+      "original_urls": [
+        "http://www.wizards.com/magic/images/mtgcom/products/shadowmoor/mtg_puzzle.swf?stgImage=images/mtg_puzzle2.jpg&nbrRows=6&nbrCols=8"
+      ],
+      "article_ids": [],
+      "parameters": {
+        "stgImage": "images/mtg_puzzle2.jpg",
+        "nbrRows": "6",
+        "nbrCols": "8"
+      },
+      "image_sha256": "bda5856e70fe51c4e61820eeb3e3c9c583cc28a2c997d09c338e4cd27d1779ea",
+      "wallpaper_url": "https://i.ormos.uk/f5/1d/f51dba273a6b39a923157980fe7b84d428e2d2b556be833f28a6c591784201d2.jpg",
+      "wallpaper_archive_url": "https://web.archive.org/web/20080507035414/http://www.wizards.com/default.asp?x=magic/shadowmoor/wallpaper2"
+    },
+    {
+      "id": "a8edfa39456078ba25972048f09cb8150f41428de78bb28ea8a9ad652aceef7a",
+      "sha256": "8517b326f126950726fec49def204969c9ff3ae2cb6fee91c16d3acb5f9b853a",
+      "title": "Shadowmoor puzzle 3",
+      "filename": "mtg_puzzle.swf",
+      "original_urls": [
+        "http://www.wizards.com/magic/images/mtgcom/products/shadowmoor/mtg_puzzle.swf?stgImage=images/mtg_puzzle3.jpg&nbrRows=6&nbrCols=8"
+      ],
+      "article_ids": [],
+      "parameters": {
+        "stgImage": "images/mtg_puzzle3.jpg",
+        "nbrRows": "6",
+        "nbrCols": "8"
+      },
+      "image_sha256": "03a84d026b5158f2d441b8b3cf54d6acd6cd3b39c9bb003f98090b781be08370",
+      "wallpaper_archive_url": "https://web.archive.org/web/20080509092911/http://www.wizards.com/default.asp?x=magic/shadowmoor/wallpaper3"
+    },
+    {
+      "id": "d9ab9ea528fd7e80bc76ea4a97035ffb05418067fa4b3a54e87c1f28cc173f89",
+      "sha256": "8517b326f126950726fec49def204969c9ff3ae2cb6fee91c16d3acb5f9b853a",
+      "title": "Shadowmoor puzzle 4",
+      "filename": "mtg_puzzle.swf",
+      "original_urls": [
+        "http://www.wizards.com/magic/images/mtgcom/products/shadowmoor/mtg_puzzle.swf?stgImage=images/mtg_puzzle4.jpg&nbrRows=6&nbrCols=8"
+      ],
+      "article_ids": [],
+      "parameters": {
+        "stgImage": "images/mtg_puzzle4.jpg",
+        "nbrRows": "6",
+        "nbrCols": "8"
+      },
+      "image_sha256": "33453e954e641db055c9ebd52c7cac66b712cfbdec7f86f01892099c02f6bb22",
+      "wallpaper_url": "https://i.ormos.uk/2a/40/2a40fdcb82672cd23c69825895fa5e3e54e610be3e9e0f55372a1828dda1e991.jpg",
+      "wallpaper_archive_url": "https://web.archive.org/web/20080512024041/http://www.wizards.com/default.asp?x=magic/shadowmoor/wallpaper4"
+    },
+    {
+      "id": "a0749c83c77f6842cd9f959a4b25b394b2da8c4ca7da18b60f0772207633e321",
+      "sha256": "3fba213d5b04b045d2ffbc41544f306d94466d5d483d300abc69e845dc484d71",
+      "title": "Shards of Alara puzzle 1",
+      "filename": "mtg_puzzle.swf",
+      "original_urls": [
+        "http://www.wizards.com/mtg/images/tcg/products/shardsofalara/mtg_puzzle.swf?stgImage=images/mtg_puzzle1.jpg&nbrRows=6&nbrCols=8",
+        "https://www.wizards.com/mtg/images/tcg/products/shardsofalara/mtg_puzzle.swf?stgImage=images/mtg_puzzle1.jpg&nbrRows=6&nbrCols=8"
+      ],
+      "article_ids": [],
+      "parameters": {
+        "stgImage": "images/mtg_puzzle1.jpg",
+        "nbrRows": "6",
+        "nbrCols": "8"
+      },
+      "image_sha256": "964fa68f3b12f8c8504b64692a582101f7f92a3010e08dbdeb611ab541e14f49",
+      "wallpaper_url": "https://i.ormos.uk/78/71/78719c9558883271bd08e1bd2e88621ccc6ad357a2c3bd5ae89564de917131d7.jpg",
+      "wallpaper_archive_url": "https://web.archive.org/web/20130905194526/http://www.wizards.com/magic/tcg/article.aspx?x=mtg/tcg/shardsofalara/wallpaper1"
+    },
+    {
+      "id": "1238263eb3ae77838508f5862ea9888db911dfbf3f11e0d7a7c77e78877a0da1",
+      "sha256": "3fba213d5b04b045d2ffbc41544f306d94466d5d483d300abc69e845dc484d71",
+      "title": "Shards of Alara puzzle 2",
+      "filename": "mtg_puzzle.swf",
+      "original_urls": [
+        "https://www.wizards.com/mtg/images/tcg/products/shardsofalara/mtg_puzzle.swf?stgImage=images/mtg_puzzle2.jpg&nbrRows=6&nbrCols=8"
+      ],
+      "article_ids": [],
+      "parameters": {
+        "stgImage": "images/mtg_puzzle2.jpg",
+        "nbrRows": "6",
+        "nbrCols": "8"
+      },
+      "image_sha256": "0ed1f98a9108dd063340d20f785595c8c31b9187ee18d505bdba8ce6db37ad41",
+      "wallpaper_url": "https://i.ormos.uk/fc/42/fc42fff98078d39258083b22b181eb9db9afccd0cdacc71c426582c588616f7a.jpg",
+      "wallpaper_archive_url": "https://web.archive.org/web/20130905214734/http://www.wizards.com/magic/tcg/article.aspx?x=mtg/tcg/shardsofalara/wallpaper2"
+    },
+    {
+      "id": "2fc08694218102b2f3a4d720fc0834ccf5c95c3f0b73062d2e2846e0ef8a4080",
+      "sha256": "c42daf7f21c51f51d8f22f543eb8311117f9143672361860b4909d2a6492cd08",
+      "title": "Time Spiral puzzle 1",
+      "filename": "mtg_puzzle.swf",
+      "original_urls": [
+        "http://www.wizards.com/magic/images/mtgcom/products/timespiral/mtg_puzzle.swf?stgImage=images/mtg_puzzle1.jpg&nbrRows=6&nbrCols=8"
+      ],
+      "article_ids": [],
+      "parameters": {
+        "stgImage": "images/mtg_puzzle1.jpg",
+        "nbrRows": "6",
+        "nbrCols": "8"
+      },
+      "image_sha256": "3348dc004bd69b856a9cbe5b85a6e12f8483e29308e191e8c94d54fb08745add",
+      "wallpaper_url": "https://i.ormos.uk/35/a4/35a4d32cc65caeb0e9bf640fe90cbbb21d12de2773ac672ed811c06cfeadff41.jpg",
+      "wallpaper_archive_url": "https://web.archive.org/web/20060902221731/http://www.wizards.com/default.asp?x=magic/timespiral/week1wallpaper"
+    },
+    {
+      "id": "fc7afe4c92b1cf0b43c31ec348b3a19a38d91111e471a797974e859835f2a0cf",
+      "sha256": "c42daf7f21c51f51d8f22f543eb8311117f9143672361860b4909d2a6492cd08",
+      "title": "Time Spiral puzzle 2",
+      "filename": "mtg_puzzle.swf",
+      "original_urls": [
+        "http://www.wizards.com/magic/images/mtgcom/products/timespiral/mtg_puzzle.swf?stgImage=images/mtg_puzzle2.jpg&nbrRows=6&nbrCols=8"
+      ],
+      "article_ids": [],
+      "parameters": {
+        "stgImage": "images/mtg_puzzle2.jpg",
+        "nbrRows": "6",
+        "nbrCols": "8"
+      },
+      "image_sha256": "46ddace19c1cabbe187da8980125405f7d41974b1014d7b71343b0345f38de28",
+      "wallpaper_url": "https://i.ormos.uk/29/04/2904b3f851e7614bbeacfdb4dc3a5c5623a48d4301327fb60804f067a0a79a5a.jpg"
+    },
+    {
+      "id": "1d315fe27198175e55a79f80b81bd388ee36805af13319d30ca2027cda377c4d",
+      "sha256": "c42daf7f21c51f51d8f22f543eb8311117f9143672361860b4909d2a6492cd08",
+      "title": "Time Spiral puzzle 3",
+      "filename": "mtg_puzzle.swf",
+      "original_urls": [
+        "http://www.wizards.com/magic/images/mtgcom/products/timespiral/mtg_puzzle.swf?stgImage=images/mtg_puzzle3.jpg&nbrRows=6&nbrCols=8"
+      ],
+      "article_ids": [],
+      "parameters": {
+        "stgImage": "images/mtg_puzzle3.jpg",
+        "nbrRows": "6",
+        "nbrCols": "8"
+      },
+      "image_sha256": "4532935f1f2bfcde41a83ed10f8bd945561838c1e06da5e7590713ff4d6a6c4a"
+    },
+    {
+      "id": "83908070a5fe064d22aaad3242a85bf3b861f01f2b05d1cf9e0546753d9af555",
+      "sha256": "c42daf7f21c51f51d8f22f543eb8311117f9143672361860b4909d2a6492cd08",
+      "title": "Time Spiral puzzle 4",
+      "filename": "mtg_puzzle.swf",
+      "original_urls": [
+        "http://www.wizards.com/magic/images/mtgcom/products/timespiral/mtg_puzzle.swf?stgImage=images/mtg_puzzle4.jpg&nbrRows=6&nbrCols=8"
+      ],
+      "article_ids": [],
+      "parameters": {
+        "stgImage": "images/mtg_puzzle4.jpg",
+        "nbrRows": "6",
+        "nbrCols": "8"
+      },
+      "image_sha256": "89372ee4396a23ecd38dcb436de6490c28d080b810a91b6711d7a290ba6f2666",
+      "wallpaper_archive_url": "https://web.archive.org/web/20080302122124/http://www.wizards.com:80/default.asp?x=magic/timespiral/week4wallpaper"
+    },
+    {
+      "id": "9a5d38dc9f39b62d1ffe67b5447a0dccb1e00b449408415414045d40716f2c02",
+      "sha256": "1624e3ac88faaa21f74ba96ebe8f01baa3c4737da24f20e45e23b2ffd17fb56d",
+      "title": "Zendikar puzzle 3",
+      "filename": "mtg_puzzle.swf",
+      "original_urls": [
+        "http://www.wizards.com/mtg/images/tcg/products/zendikar/r0jzuj8ph7/mtg_puzzle.swf?stgImage=images/mtg_puzzle3.jpg&nbrRows=6&nbrCols=8"
+      ],
+      "article_ids": [],
+      "parameters": {
+        "stgImage": "images/mtg_puzzle3.jpg",
+        "nbrRows": "6",
+        "nbrCols": "8"
+      },
+      "image_sha256": "a3865a7498e0ca0cbacd1393b0de15e3622d2bc660a1b271ee8701f82e8a9bfc",
+      "wallpaper_url": "https://i.ormos.uk/1a/96/1a966ef77cbee668dff672d53ec7438afed231cfdfaccbf6bd11ec13ed0e2e23.jpg",
+      "wallpaper_archive_url": "https://web.archive.org/web/20130905210643/http://www.wizards.com/magic/tcg/article.aspx?x=mtg/tcg/zendikar/wallpaper3"
+    },
+    {
+      "id": "eb015eb6ea2fa8174d4895c939f720c1caff38584338b2c26eb3711e372a4d4a",
+      "sha256": "1624e3ac88faaa21f74ba96ebe8f01baa3c4737da24f20e45e23b2ffd17fb56d",
+      "title": "Zendikar puzzle 4",
+      "filename": "mtg_puzzle.swf",
+      "original_urls": [
+        "http://www.wizards.com/mtg/images/tcg/products/zendikar/r0jzuj8ph7/mtg_puzzle.swf?stgImage=images/mtg_puzzle4.jpg&nbrRows=6&nbrCols=8"
+      ],
+      "article_ids": [],
+      "parameters": {
+        "stgImage": "images/mtg_puzzle4.jpg",
+        "nbrRows": "6",
+        "nbrCols": "8"
+      },
+      "image_sha256": "121e2fb2db11332bae124accc14b7811854b2cd2817810b16d5656d25c456445",
+      "wallpaper_url": "https://i.ormos.uk/70/98/7098e28321d73245f7f7196db5e59bbd6c23318da73a25f1196f4999a263ffdd.jpg",
+      "wallpaper_archive_url": "https://web.archive.org/web/20130905221539/http://www.wizards.com/magic/tcg/article.aspx?x=mtg/tcg/zendikar/wallpaper4"
+    }
+  ]
+}

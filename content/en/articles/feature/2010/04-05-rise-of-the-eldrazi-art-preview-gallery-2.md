@@ -51,11 +51,8 @@ archive_source:
   captured_at: '2021-10-23 12:53:23+00'
   template: drupal
   sha256: f1a8d6fdcab39d1f1ede0f00e02196b5486af13ab20656cfd7c73ae4add483bb
-render_recovery:
-- code: unsupported_embedded_media
-  element: object
-  target: http://magic.wizards.com/sites/mtg/files/image_legacy_migration/mtg/images/daily/features/feature85_nbybfyigafsdf.swf
-  reason: The preview omitted this legacy embedded object.
-  occurrences: 1
+render_recovery: []
 ---
 Welcome to the *Rise of the Eldrazi* art preview gallery! Click the buttons below to browse through art from the new set and concept art from the *Rise of the Eldrazi* style guide, including a look at the changes in Zendikar's hedrons and the unique brood lineage spawned by each of the three Eldrazi titans.
+
+![feature85 nbybfyigafsdf](/flash/a8e10d0e0ce54ffca4cd871c06afd2c42f87ab06fcdb16b913b78e1e88e41d47)

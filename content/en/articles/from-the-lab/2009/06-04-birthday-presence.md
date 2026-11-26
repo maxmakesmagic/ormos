@@ -134,11 +134,6 @@ render_recovery:
   - Notorious Assassin
   - Formation
   occurrences: 86
-- code: unsupported_embedded_media
-  element: object
-  target: /mtg/images/daily/ftl/ftl41_firstDeck.swf
-  reason: The preview omitted this legacy embedded object.
-  occurrences: 1
 ---
 ![](https://i.ormos.uk/1c/ac/1cac622ce29bec2d067d81b86e19733841621485bfb65d58ed53681e33630f3e.jpg)
 
@@ -174,6 +169,8 @@ Wasn't that a good origin story? Oh wait, they have to be about **Magic**, my ba
 *Question:* What did your first deck look like?
 
 *Answer:* The list was incredibly bad. If I typed it out, I believe the words would instantly disintegrate in my computer. Fortunately, I can't remember the exact card for card deck, but I recall the basics of it. I basically threw every card I had together, and my centerpiece was a Nightmare; despite having only four Swamps, I won lots of games with it. However, Nightmare in a multicolored deck is never a great plan. It had Netter *en*-Dal and Creature Bond (seen nowadays as Banewasp Affliction) to stall, and Power Sinks and Indestructible Auras to buy even more time for the shadowy horse to rear its head. I believe the fort was held down by the mighty Pikemen. I didn't dare attack with them, for fear of the confusing banding actually doing something and blowing up the universe. Finally, Bird Maidens were red's representatives, as well as that lone Rupture. 
+
+![First deck animation](/flash/c898c0670a36c4aba6cbc64f358e8ba60f9a372064d36f490518ef4efe761c24)
 
 That's enough of the olden days of my **Magic** experience, so let's fast forward a bit. I knew when I learned this week's theme that I would have to unveil my very first appearance on this site; my first origins on **magicthegathering.com**, if you will. Before I wrote this column, a great author by the name of Chris Millar ran the show for the longest it had ever been run under one person. I liked to contribute my findings to the House Johnny, so I submitted many of my ideas to Chris, and some of them appeared [in the column itself](/en/articles/houseofcards/2007/10-04-p-review#shriekmaw)!
 

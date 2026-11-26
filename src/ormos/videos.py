@@ -12,7 +12,7 @@ from math import isfinite
 from pathlib import Path
 from typing import TYPE_CHECKING, Any
 
-from .html import VIDEO_ORIGIN, VIDEO_ROUTE, render_page
+from .html import MEDIA_ORIGIN, VIDEO_ROUTE, render_page
 from .paths import component
 
 if TYPE_CHECKING:
@@ -23,7 +23,7 @@ if TYPE_CHECKING:
 VIDEO_SCRIPT = "videos.js"
 TRANSCRIPT_ROUTE = "/video-transcripts"
 _VIDEO_URL = re.compile(
-    rf"{re.escape(VIDEO_ORIGIN)}/([0-9a-f]{{2}})/([0-9a-f]{{2}})/\1\2[0-9a-f]{{60}}\.mp4\Z"
+    rf"{re.escape(MEDIA_ORIGIN)}/([0-9a-f]{{2}})/([0-9a-f]{{2}})/\1\2[0-9a-f]{{60}}\.mp4\Z"
 )
 _CHECKSUM = re.compile(r"[0-9a-f]{64}\Z")
 _LOCALE = re.compile(r"[a-z]{2,3}(?:-[A-Za-z0-9]{2,8})+\Z")
@@ -70,7 +70,7 @@ class Video:
     @property
     def media_stem(self) -> str:
         """Return the media path without its origin or file extension."""
-        return self.url.removeprefix(f"{VIDEO_ORIGIN}/").removesuffix(".mp4")
+        return self.url.removeprefix(f"{MEDIA_ORIGIN}/").removesuffix(".mp4")
 
     @property
     def duration(self) -> str:

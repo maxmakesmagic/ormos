@@ -16,6 +16,9 @@ support_url = "https://ko-fi.com/maxmakesmagic/tiers"
 [media]
 route = "/videos"
 origin = "https://media.ormos.uk"
+image_origin = "https://i.ormos.uk"
+landing_route = "/media"
+flash_route = "/flash"
 
 [security]
 content_security_policy = "default-src 'none'; style-src 'self'; script-src 'self' 'wasm-unsafe-eval'; connect-src 'self'; img-src 'self' https: http:; base-uri 'none'; form-action 'self'"
@@ -39,6 +42,10 @@ label = "Years"
 [[navigation]]
 path = "/events"
 label = "Events"
+
+[[navigation]]
+path = "/media"
+label = "Media"
 
 [[navigation]]
 path = "/search"
