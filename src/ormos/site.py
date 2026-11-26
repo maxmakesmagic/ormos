@@ -216,7 +216,6 @@ class Site:
         lang: str = "en",
         table_column: Literal["author", "column"] | None = None,
         paginate: bool = True,
-        year_links: Sequence[tuple[str, str]] = (),
         formats: Sequence[CountedLink] = (),
     ) -> int:
         """Sort documents in place, write their pages, and return the page count."""
@@ -245,7 +244,6 @@ class Site:
                     heading=title,
                     records=selected,
                     table_column=table_column,
-                    year_links=year_links if index == 1 else (),
                     formats=formats if index == 1 else (),
                     index=index,
                     pages=pages,
@@ -277,66 +275,29 @@ class Site:
             ),
         )
 
-    def column_year_pages(
-        self,
-        path: str,
-        title: str,
-        years: dict[str, list[Document]],
-        *,
-        lang: str = "en",
-        segment: str = "",
-    ) -> list[tuple[str, str]]:
-        """Write the yearly article tables and return links to them."""
-        links = []
-        for year, records in sorted(years.items(), reverse=True):
-            year_path = f"{path}/{segment}{year}"
-            label = "Undated" if year == "undated" else year
-            links.append((year_path, label))
-            self.entries_page(
-                year_path,
-                f"{title} · {label}",
-                records,
-                lang=lang,
-                table_column="author",
-            )
-        return links
-
     def column_pages(
         self, slug: str, title: str, records: list[Document]
     ) -> list[tuple[str, CountedLink]]:
         """Write pages for a column and return its entries in each language directory."""
-        years = defaultdict(list)
         localized = defaultdict(list)
-        localized_years: defaultdict[str, defaultdict[str, list[Document]]] = (
-            defaultdict(lambda: defaultdict(list))
-        )
         for entry in records:
-            if day := entry.day:
-                years[str(day.year)].append(entry)
             parts = entry.path.split("/")
             if len(parts) == 6 and parts[1:4] == [entry.lang, "articles", slug]:
                 localized[entry.lang].append(entry)
-                localized_years[entry.lang][parts[4]].append(entry)
 
         path = f"/columns/{slug}"
-        year_links = self.column_year_pages(path, title, years, segment="year/")
-        self.entries_page(
-            path, title, records, year_links=year_links, table_column="author"
-        )
+        self.entries_page(path, title, records, table_column="author", paginate=False)
 
         choices = []
         for lang, language_records in localized.items():
             path = f"/{lang}/articles/{slug}"
-            year_links = self.column_year_pages(
-                path, title, localized_years[lang], lang=lang
-            )
             self.entries_page(
                 path,
                 title,
                 language_records,
                 lang=lang,
-                year_links=year_links,
                 table_column="author",
+                paginate=False,
             )
             choices.append((lang, (path, title, len(language_records))))
         return choices

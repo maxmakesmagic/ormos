@@ -192,27 +192,55 @@ def test_author_tables_show_all_articles_in_date_order(
         ]
 
 
-def test_column_tables_keep_year_links_and_sort_hooks(tmp_path: Path) -> None:
-    """Render the column and year pages with the existing sort controls."""
-    document = Document.read(
-        {
-            "id": "example",
-            "kind": "article",
-            "lang": "fr",
-            "path": "/fr/articles/feature/2024/example",
-            "published": "2024-07-17",
-            "column_slug": "feature",
-            "column": "Feature",
-            "authors": [{"slug": "alice", "name": "Alice"}],
-        }
-    )
-    _write_navigation(tmp_path, [document])
-    column = site_file(tmp_path, "/fr/articles/feature").read_text(encoding="utf-8")
+def test_column_tables_show_all_articles_in_date_order(
+    tmp_path: Path, monkeypatch: pytest.MonkeyPatch
+) -> None:
+    """List all articles in date order on global and localized column pages."""
+    monkeypatch.setattr("ormos.site.PAGE_SIZE", 2)
+    articles = {
+        slug: replace(
+            _document(slug, day),
+            lang=language,
+            path=f"/{language}/articles/feature/{day[:4] or 'undated'}/{slug}",
+            column_slug="feature",
+            column="Feature",
+            authors=(Person("alice", "Alice"),),
+        )
+        for slug, day, language in (
+            ("late", "2024-07-17", "fr"),
+            ("undated", "", "fr"),
+            ("english", "2023-03-01", "en"),
+            ("early", "2004-12-17", "fr"),
+        )
+    }
+    _write_navigation(tmp_path, list(articles.values()))
 
-    assert 'aria-label="Years"' in column
-    assert '<a href="/fr/articles/feature/2024">2024</a>' in column
-    assert site_file(tmp_path, "/fr/articles/feature/2024").exists()
-    assert '<script type="module" src="/assets/column-sort.js"></script>' in column
-    assert '<th scope="col" aria-sort="ascending">' in column
-    assert 'data-sort-value="2024-07-17"' in column
-    assert '<a href="/fr/authors/alice">Alice</a>' in column
+    assert not site_file(tmp_path, "/columns/feature/year/2024").exists()
+    assert not site_file(tmp_path, "/fr/articles/feature/2024").exists()
+    assert not site_file(tmp_path, "/fr/articles/feature/undated").exists()
+    assert site_file(tmp_path, "/years/2024").exists()
+
+    for column, rows in (
+        ("/columns/feature", ("early", "english", "late", "undated")),
+        ("/fr/articles/feature", ("early", "late", "undated")),
+    ):
+        page = site_file(tmp_path, column).read_text(encoding="utf-8")
+        assert not site_file(tmp_path, f"{column}/page/2").exists()
+        assert 'class="pagination"' not in page
+        assert 'aria-label="Years"' not in page
+        assert "data-sort-scope" not in page
+        assert '<script type="module" src="/assets/column-sort.js"></script>' in page
+        assert '<th scope="col" aria-sort="ascending">' in page
+        assert re.findall(r'data-sort-key="([a-z]+)"', page) == [
+            "date",
+            "title",
+            "author",
+        ]
+        table = page.split("<tbody>", 1)[1].split("</tbody>", 1)[0]
+        assert re.findall(r'href="([^"]+)"', table) == [
+            link
+            for row in rows
+            for link in (articles[row].path, f"/{articles[row].lang}/authors/alice")
+        ]
+        assert 'data-sort-value="2004-12-17"' in table
+        assert table.count(">Undated</td>") == 1
