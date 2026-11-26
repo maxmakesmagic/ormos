@@ -36,6 +36,26 @@ def _page_path(path: str, index: int) -> str:
     return path if index == 1 else f"{path}/page/{index}"
 
 
+def _numbered_page_links(
+    path: str, current: int, pages: int
+) -> list[tuple[int, str] | None]:
+    """Return numbered links with gaps where a long run of pages is omitted."""
+    if pages <= 7:
+        return [(number, _page_path(path, number)) for number in range(1, pages + 1)]
+
+    nearby = range(max(1, current - 2), min(pages, current + 2) + 1)
+    links: list[tuple[int, str] | None] = []
+    previous = 0
+    for number in sorted({1, pages, *nearby}):
+        if number - previous == 2:
+            links.append((number - 1, _page_path(path, number - 1)))
+        elif number - previous > 2:
+            links.append(None)
+        links.append((number, _page_path(path, number)))
+        previous = number
+    return links
+
+
 EVENT_TYPES = {
     "leagues": "Leagues",
     "preliminaries": "Preliminaries",
@@ -247,6 +267,9 @@ class Site:
                     formats=formats if index == 1 else (),
                     index=index,
                     pages=pages,
+                    page_links=_numbered_page_links(path, index, pages)
+                    if pages > 1
+                    else (),
                     previous=_page_path(path, index - 1) if index > 1 else "",
                     next_page=_page_path(path, index + 1) if index < pages else "",
                 ),

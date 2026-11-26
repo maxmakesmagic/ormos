@@ -35,6 +35,11 @@ def _write_navigation(output: Path, documents: list[Document]) -> Site:
     return site
 
 
+def _pagination(page: str) -> str:
+    start = page.index('<nav class="pagination"')
+    return page[start : page.index("</nav>", start)]
+
+
 def test_articles_landing_page(tmp_path: Path) -> None:
     """Use the landing page to direct readers to article directories."""
     articles = [_document(f"article-{day}", f"2024-01-{day:02}") for day in range(1, 9)]
@@ -108,11 +113,30 @@ def test_all_articles_preserves_pagination(
     monkeypatch.setattr("ormos.site.PAGE_SIZE", 2)
     articles = [_document(f"article-{day}", f"2024-01-{day:02}") for day in range(1, 6)]
     site = _write_navigation(tmp_path, articles)
-    for index, records in enumerate((articles[3:], articles[1:3], articles[:1]), 1):
-        path = "/articles/all" if index == 1 else f"/articles/all/page/{index}"
+    paths = ("/articles/all", "/articles/all/page/2", "/articles/all/page/3")
+    rows = (articles[3:], articles[1:3], articles[:1])
+    for index, (path, records) in enumerate(zip(paths, rows, strict=True), 1):
         page = site_file(tmp_path, path).read_text(encoding="utf-8")
         assert f'<link rel="canonical" href="{path}">' in page
-        assert f"Page {index} of 3" in page
+        pagination = _pagination(page)
+        assert page.index("</ol>") < page.index(pagination)
+        active = '<span aria-current="page"><span class="visually-hidden">Page </span>'
+        assert f"{active}{index}</span>" in pagination
+        for number, target in enumerate(paths, 1):
+            if number != index:
+                assert (
+                    f'<a href="{target}" aria-label="Page {number}">{number}</a>'
+                    in pagination
+                )
+        assert f'<a href="{path}" aria-label="Page {index}">' not in pagination
+        if index > 1:
+            assert f'href="{paths[index - 2]}" rel="prev"' in pagination
+        else:
+            assert 'rel="prev"' not in pagination
+        if index < len(paths):
+            assert f'href="{paths[index]}" rel="next"' in pagination
+        else:
+            assert 'rel="next"' not in pagination
         for entry in articles:
             assert (f'href="{entry.path}"' in page) == (entry in records)
         if index > 1:
@@ -120,14 +144,35 @@ def test_all_articles_preserves_pagination(
             assert old_path not in site.redirects
             assert not site_file(tmp_path, old_path).exists()
 
-    first_page = site_file(tmp_path, "/articles/all").read_text(encoding="utf-8")
-    assert 'href="/articles/all/page/2" rel="next"' in first_page
+    assert "/articles/all/page/1" not in site.redirects
+    assert not site_file(tmp_path, "/articles/all/page/1").exists()
 
-    second_page = site_file(tmp_path, "/articles/all/page/2").read_text(
-        encoding="utf-8"
-    )
-    assert 'href="/articles/all" rel="prev"' in second_page
-    assert 'href="/articles/all/page/3" rel="next"' in second_page
+
+def test_numbered_pagination_collapses_only_long_gaps(
+    tmp_path: Path, monkeypatch: pytest.MonkeyPatch
+) -> None:
+    """Keep the endpoints and nearby pages visible with compact long gaps."""
+    monkeypatch.setattr("ormos.site.PAGE_SIZE", 1)
+    articles = [
+        _document(f"article-{day}", f"2024-01-{day:02}") for day in range(1, 13)
+    ]
+    cases = {
+        7: {1: "1 2 3 4 5 6 7"},
+        12: {
+            1: "1 2 3 … 12",
+            5: "1 2 3 4 5 6 7 … 12",
+            6: "1 … 4 5 6 7 8 … 12",
+            12: "1 … 10 11 12",
+        },
+    }
+    for total, expected in cases.items():
+        output = tmp_path / str(total)
+        _write_navigation(output, articles[:total])
+        for index, labels in expected.items():
+            path = "/articles/all" if index == 1 else f"/articles/all/page/{index}"
+            page = _pagination(site_file(output, path).read_text(encoding="utf-8"))
+            assert re.findall(r">\s*(\d+|…)\s*</(?:a|span|li)>", page) == labels.split()
+            assert page.count('<li aria-hidden="true">…</li>') == labels.count("…")
 
 
 def test_articles_landing_page_without_dated_articles(tmp_path: Path) -> None:

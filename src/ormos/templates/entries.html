@@ -11,7 +11,21 @@
 {%- if pages > 1 -%}
   <nav class="pagination" aria-label="Pages">
   {%- if previous %}{{ link(previous, "Previous page", {"rel": "prev"}) }}{% endif -%}
-  <span>Page {{ index }} of {{ pages }}</span>
+  <ul class="pagination-pages">
+  {%- for item in page_links %}
+    {%- if item is none %}
+      <li aria-hidden="true">…</li>
+    {%- else %}
+      {%- set number, href = item %}
+      <li>
+      {%- if number == index %}
+        <span aria-current="page"><span class="visually-hidden">Page </span>{{ number }}</span>
+      {%- else %}
+        {{ link(href, number | string, {"aria-label": "Page " ~ number}) }}
+      {%- endif %}</li>
+    {%- endif %}
+  {%- endfor %}
+  </ul>
   {%- if next_page %}{{ link(next_page, "Next page", {"rel": "next"}) }}{% endif -%}
   </nav>
 {%- endif -%}
