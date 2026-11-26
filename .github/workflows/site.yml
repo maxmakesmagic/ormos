@@ -73,6 +73,16 @@ jobs:
       - name: Install Pagefind
         run: npm ci --ignore-scripts --no-audit --no-fund
       - name: Run pytest
+        env:
+          ORMOS_R2_LIST_TOKEN: >-
+            ${{
+              github.repository == 'maxmakesmagic/ormos' &&
+              ((github.event_name == 'push' && github.ref == 'refs/heads/main') ||
+                (github.event_name == 'pull_request' &&
+                 github.event.pull_request.head.repo.full_name == github.repository &&
+                 github.event.pull_request.user.login == 'maxmakesmagic')) &&
+              secrets.R2_LIST_API_TOKEN || ''
+            }}
         run: uv run --locked --no-sync pytest
 
   plan:
@@ -165,6 +175,7 @@ jobs:
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.R2_DEPLOY_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_DEPLOY_SECRET_ACCESS_KEY }}
+          ORMOS_R2_LIST_TOKEN: ${{ secrets.R2_LIST_API_TOKEN }}
         run: >-
           uv run --locked --no-sync ormos-deploy
           --site "$RUNNER_TEMP/site" --output "$RUNNER_TEMP/upload-plan" --apply

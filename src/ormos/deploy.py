@@ -5,8 +5,9 @@ import logging
 import os
 import re
 from base64 import b64encode
-from collections.abc import Callable, Iterable, Iterator
-from concurrent.futures import ThreadPoolExecutor
+from collections import deque
+from collections.abc import Callable, Collection, Iterable, Iterator
+from concurrent.futures import Future, ThreadPoolExecutor
 from contextlib import closing
 from dataclasses import dataclass
 from hashlib import md5, sha256
@@ -24,19 +25,24 @@ from botocore.config import Config
 from botocore.exceptions import BotoCoreError, ClientError
 
 from .paths import read_json_lines
+from .r2_list import R2ListingError, R2ObjectListing
 from .upload_plan import InventoryPlan, SiteObject, UploadPlan
 
 if TYPE_CHECKING:
     from mypy_boto3_s3.client import S3Client
     from mypy_boto3_s3.type_defs import HeadObjectOutputTypeDef, PutObjectRequestTypeDef
 
+    from .r2_list import R2ListedObject
+
 STATE_KEY = "deployment.zip"
 INVENTORY = "inventory.ndjson"
 UPLOAD = "upload.ndjson"
 REMOVED = "removed.ndjson"
-WORKERS = 16
+BATCH_READBACK_MIN_UPLOADS = 10_000
+DEFAULT_WORKERS = 32
 DELETE_BATCH_SIZE = 1_000
 logger = logging.getLogger(__name__)
+Item = TypeVar("Item")
 Result = TypeVar("Result")
 
 
@@ -57,16 +63,31 @@ def _write_inventory(path: Path, *groups: Iterable[SiteObject]) -> None:
 
 
 def _parallel(
-    action: Callable[[SiteObject], Result], records: Iterable[SiteObject]
+    action: Callable[[Item], Result],
+    records: Iterable[Item],
+    *,
+    workers: int,
 ) -> Iterator[Result]:
+    """Yield results in input order with a bounded queue of requests."""
     source = iter(records)
-    with ThreadPoolExecutor(max_workers=WORKERS) as pool:
-        while batch := list(islice(source, WORKERS * 4)):
-            yield from pool.map(action, batch)
+    queued: deque[Future[Result]] = deque()
+    with ThreadPoolExecutor(max_workers=workers) as pool:
+        try:
+            queued.extend(
+                pool.submit(action, record) for record in islice(source, workers * 4)
+            )
+            while queued:
+                result = queued.popleft().result()
+                for record in islice(source, 1):
+                    queued.append(pool.submit(action, record))
+                yield result
+        finally:
+            for future in queued:
+                future.cancel()
 
 
 def _matches(
-    remote: "HeadObjectOutputTypeDef | None", record: SiteObject | None
+    remote: "HeadObjectOutputTypeDef | R2ListedObject | None", record: SiteObject | None
 ) -> bool:
     if remote is None or record is None:
         return remote is None and record is None
@@ -78,6 +99,14 @@ def _matches(
         and metadata.get("sha256") == record.sha256
         and metadata.get("redirectlocation") == record.redirect
     )
+
+
+@dataclass(frozen=True, slots=True)
+class UploadResult:
+    """The expected metadata and ETag returned by a successful PUT."""
+
+    record: SiteObject
+    etag: str
 
 
 @dataclass(frozen=True, slots=True)
@@ -110,6 +139,8 @@ class R2Deployment:
     client: "S3Client"
     state_bucket: str
     site_bucket: str
+    workers: int = DEFAULT_WORKERS
+    listing: R2ObjectListing | None = None
 
     def _get_state(self, directory: Path) -> DeploymentState:
         try:
@@ -243,13 +274,15 @@ class R2Deployment:
 
         applied = {
             record.key: record
-            for record in _parallel(live_update, uploads.values())
+            for record in _parallel(live_update, uploads.values(), workers=self.workers)
             if record is not None
         }
         removed = {
             key
             for key, present in zip(
-                removals, _parallel(self._needs_removal, removals.values()), strict=True
+                removals,
+                _parallel(self._needs_removal, removals.values(), workers=self.workers),
+                strict=True,
             )
             if not present
         }
@@ -270,14 +303,13 @@ class R2Deployment:
         )
         return inventory
 
-    def _upload(self, root: Path, record: SiteObject, old: SiteObject | None) -> bool:
-        remote = self._head(record.key)
-        if _matches(remote, record):
-            return False
-        if not _matches(remote, old):
-            raise ValueError(
-                f"Live object differs from the deployment inventory: {record.key}"
-            )
+    def _upload(
+        self,
+        root: Path,
+        record: SiteObject,
+        old: SiteObject | None,
+        old_etag: str | None,
+    ) -> UploadResult | None:
         metadata = {"sha256": record.sha256}
         if record.redirect is not None:
             metadata["redirectlocation"] = record.redirect
@@ -288,19 +320,113 @@ class R2Deployment:
             "CacheControl": record.cache_control,
             "Metadata": metadata,
         }
-        if remote is None:
+        if old is None:
             request["IfNoneMatch"] = "*"
+        elif old_etag is not None:
+            request["IfMatch"] = old_etag
         else:
+            remote = self._head(record.key)
+            if remote is not None and _matches(remote, record):
+                return None
+            if remote is None or not _matches(remote, old):
+                raise ValueError(
+                    f"Live object differs from the deployment inventory: {record.key}"
+                )
             request["IfMatch"] = remote["ETag"]
-        etag = self._put_file(root / record.key, request, record)
+
+        try:
+            etag = self._put_file(root / record.key, request, record)
+        except ClientError as error:
+            if error.response["ResponseMetadata"]["HTTPStatusCode"] != 412:
+                raise
+            remote = self._head(record.key)
+            if remote is not None and _matches(remote, record):
+                return None
+            raise ValueError(
+                f"Live object differs from the deployment inventory: {record.key}"
+            ) from error
+        return UploadResult(record, etag)
+
+    def _verify_upload(self, result: UploadResult) -> None:
+        record = result.record
         verified = self._head(record.key)
         if (
             verified is None
-            or verified["ETag"] != etag
+            or verified["ETag"] != result.etag
             or not _matches(verified, record)
         ):
             raise ValueError(f"R2 did not return the expected upload: {record.key}")
-        return True
+
+    def _listed_objects(
+        self, listing: R2ObjectListing, keys: Collection[str]
+    ) -> Iterator[tuple[str, "R2ListedObject"]]:
+        remaining = len(keys)
+        if not remaining:
+            return
+        try:
+            with closing(listing.objects()) as objects:
+                for key, remote in objects:
+                    if key in keys:
+                        yield key, remote
+                        remaining -= 1
+                        if not remaining:
+                            return
+        except R2ListingError as error:
+            logger.warning("R2 object listing unavailable: %s", error)
+
+    def _verify_uploads(
+        self, listing: R2ObjectListing, pending: dict[str, UploadResult]
+    ) -> None:
+        logger.info("Checking %s uploads in the R2 object listing", f"{len(pending):,}")
+        for key, remote in self._listed_objects(listing, pending):
+            result = pending[key]
+            if remote.get("ETag") == result.etag and _matches(remote, result.record):
+                del pending[key]
+        if pending:
+            logger.info("Checking %s uploads with S3 HEAD", f"{len(pending):,}")
+            for _ in _parallel(
+                self._verify_upload, pending.values(), workers=self.workers
+            ):
+                pass
+
+    def _apply_uploads(self, site: Path, upload: Path, baseline: Path) -> None:
+        keys = {record.key for record in _objects(upload)}
+        previous = {
+            record.key: record for record in _objects(baseline) if record.key in keys
+        }
+        listing = self.listing if len(keys) >= BATCH_READBACK_MIN_UPLOADS else None
+        old_etags: dict[str, str] = {}
+        if listing is not None and previous:
+            logger.info(
+                "Checking %s existing objects in the R2 object listing",
+                f"{len(previous):,}",
+            )
+            for key, remote in self._listed_objects(listing, previous):
+                if (etag := remote.get("ETag")) and _matches(remote, previous[key]):
+                    old_etags[key] = etag
+
+        def publish(record: SiteObject) -> UploadResult | None:
+            result = self._upload(
+                site, record, previous.get(record.key), old_etags.get(record.key)
+            )
+            if result is not None and listing is None:
+                self._verify_upload(result)
+            return result
+
+        uploaded = 0
+        pending: dict[str, UploadResult] = {}
+        for completed, result in enumerate(
+            _parallel(publish, _objects(upload), workers=self.workers), 1
+        ):
+            if result is not None:
+                uploaded += 1
+                if listing is not None:
+                    pending[result.record.key] = result
+            if completed % 10_000 == 0:
+                logger.info("Processed %s planned uploads", f"{completed:,}")
+        logger.info("Uploaded %s files", f"{uploaded:,}")
+        if listing is not None and pending:
+            self._verify_uploads(listing, pending)
 
     def _needs_removal(self, record: SiteObject) -> bool:
         remote = self._head(record.key)
@@ -320,7 +446,7 @@ class R2Deployment:
         # R2 deletes are unconditional. The production workflow serializes writes.
         removed = 0
         checked = 0
-        with ThreadPoolExecutor(max_workers=WORKERS) as pool:
+        with ThreadPoolExecutor(max_workers=self.workers) as pool:
             while batch := list(islice(records, DELETE_BATCH_SIZE)):
                 keys = [
                     record.key
@@ -370,24 +496,7 @@ class R2Deployment:
                 pending_removals=removals if has_removals else None,
             )
         if has_uploads:
-            keys = {record.key for record in _objects(upload)}
-            previous = {
-                record.key: record
-                for record in _objects(baseline)
-                if record.key in keys
-            }
-
-            def publish(record: SiteObject) -> bool:
-                return self._upload(site, record, previous.get(record.key))
-
-            uploaded = 0
-            for completed, written in enumerate(
-                _parallel(publish, _objects(upload)), 1
-            ):
-                uploaded += written
-                if completed % 10_000 == 0:
-                    logger.info("Verified %s planned uploads", f"{completed:,}")
-            logger.info("Uploaded %s files", f"{uploaded:,}")
+            self._apply_uploads(site, upload, baseline)
 
         if has_removals:
             self._remove(_objects(removals))
@@ -418,7 +527,7 @@ def _delete_batch_checksum(params: dict[str, Any], **_kwargs: object) -> None:
     params["headers"]["Content-MD5"] = b64encode(digest).decode("ascii")
 
 
-def _deployment() -> R2Deployment:
+def _deployment(*, workers: int = DEFAULT_WORKERS) -> R2Deployment:
     account = os.environ.get("ORMOS_R2_ACCOUNT_ID", "")
     state = os.environ.get("ORMOS_R2_STATE_BUCKET", "")
     site = os.environ.get("ORMOS_R2_SITE_BUCKET") or "ormos-site"
@@ -443,13 +552,15 @@ def _deployment() -> R2Deployment:
             retries={"mode": "standard", "total_max_attempts": 5},
             connect_timeout=10,
             read_timeout=60,
-            max_pool_connections=WORKERS,
+            max_pool_connections=workers,
             request_checksum_calculation="when_required",
             response_checksum_validation="when_required",
         ),
     )
     client.meta.events.register("before-call.s3.DeleteObjects", _delete_batch_checksum)
-    return R2Deployment(client, state, site)
+    list_token = os.environ.get("ORMOS_R2_LIST_TOKEN")
+    listing = R2ObjectListing(account, site, list_token) if list_token else None
+    return R2Deployment(client, state, site, workers=workers, listing=listing)
 
 
 def main() -> int:
@@ -462,6 +573,12 @@ def main() -> int:
     )
     parser.add_argument("--output", type=Path, required=True, help="New plan directory")
     parser.add_argument(
+        "--workers",
+        type=int,
+        default=DEFAULT_WORKERS,
+        help="Maximum concurrent R2 requests (default: %(default)s)",
+    )
+    parser.add_argument(
         "--apply",
         action="store_true",
         help="Apply and verify planned uploads and removals",
@@ -469,13 +586,15 @@ def main() -> int:
     args = parser.parse_args()
     if args.apply and args.inventory is not None:
         parser.error("--apply requires a built site directory")
+    if args.workers < 1:
+        parser.error("--workers must be at least 1")
     logging.basicConfig(
         level=logging.INFO,
         format="%(asctime)s %(levelname)s %(message)s",
         datefmt="%Y-%m-%dT%H:%M:%S%z",
     )
     try:
-        deployment = _deployment()
+        deployment = _deployment(workers=args.workers)
         if args.inventory is not None:
             deployment.plan_inventory(args.inventory, args.output)
         else:
