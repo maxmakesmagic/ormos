@@ -1,6 +1,6 @@
 {% extends "page.html" %}
 {% from "components.html" import link %}
-{% from "listings.html" import column_table, counted_links, records_list %}
+{% from "listings.html" import entries_table, counted_links, records_list %}
 
 {% block content -%}
 <h1>{{ heading | escape_html }}</h1>
@@ -11,7 +11,7 @@
 {%- endif -%}
 {%- if formats %}{{ counted_links(formats, "event-formats", "Formats") }}{% endif -%}
 {%- if records -%}
-  {{ column_table(heading, records, pages > 1) if table else records_list(heading, records) }}
+  {{ entries_table(heading, records, pages > 1, table_column) if table_column else records_list(heading, records) }}
 {%- endif -%}
 {%- if pages > 1 -%}
   <nav class="pagination" aria-label="Pages">

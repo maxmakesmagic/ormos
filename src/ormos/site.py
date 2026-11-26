@@ -7,6 +7,7 @@ from collections.abc import Sequence
 from dataclasses import asdict, dataclass
 from datetime import date
 from pathlib import Path
+from typing import Literal
 
 from .content import Document
 from .flash import FlashLibrary
@@ -213,14 +214,14 @@ class Site:
         entries: list[Document],
         *,
         lang: str = "en",
-        table: bool = False,
+        table_column: Literal["author", "column"] | None = None,
         year_links: Sequence[tuple[str, str]] = (),
         formats: Sequence[CountedLink] = (),
     ) -> int:
         """Sort documents in place, write their pages, and return the page count."""
         # Stable path ordering breaks ties between documents with the same publication day.
         entries.sort(key=lambda entry: entry.path)
-        if table:
+        if table_column:
             entries.sort(key=publication_order)
         else:
             entries.sort(key=lambda entry: entry.published, reverse=True)
@@ -236,10 +237,12 @@ class Site:
                     page_title,
                     page,
                     lang=lang,
-                    script="/assets/column-sort.js" if table and selected else "",
+                    script="/assets/column-sort.js"
+                    if table_column and selected
+                    else "",
                     heading=title,
                     records=selected,
-                    table=table,
+                    table_column=table_column,
                     year_links=year_links if index == 1 else (),
                     formats=formats if index == 1 else (),
                     index=index,
@@ -288,7 +291,11 @@ class Site:
             label = "Undated" if year == "undated" else year
             links.append((year_path, label))
             self.entries_page(
-                year_path, f"{title} · {label}", records, lang=lang, table=True
+                year_path,
+                f"{title} · {label}",
+                records,
+                lang=lang,
+                table_column="author",
             )
         return links
 
@@ -311,7 +318,9 @@ class Site:
 
         path = f"/columns/{slug}"
         year_links = self.column_year_pages(path, title, years, segment="year/")
-        self.entries_page(path, title, records, year_links=year_links, table=True)
+        self.entries_page(
+            path, title, records, year_links=year_links, table_column="author"
+        )
 
         choices = []
         for lang, language_records in localized.items():
@@ -325,7 +334,7 @@ class Site:
                 language_records,
                 lang=lang,
                 year_links=year_links,
-                table=True,
+                table_column="author",
             )
             choices.append((lang, (path, title, len(language_records))))
         return choices
@@ -493,10 +502,19 @@ class Site:
             ],
         )
         for slug in author_slugs:
-            self.entries_page(f"/authors/{slug}", author_names[slug], authors[slug])
+            self.entries_page(
+                f"/authors/{slug}",
+                author_names[slug],
+                authors[slug],
+                table_column="column",
+            )
         for (lang, slug), records in localized_authors.items():
             self.entries_page(
-                f"/{lang}/authors/{slug}", author_names[slug], records, lang=lang
+                f"/{lang}/authors/{slug}",
+                author_names[slug],
+                records,
+                lang=lang,
+                table_column="column",
             )
 
         self.column_navigation(columns)
