@@ -127,12 +127,14 @@ class R2ObjectListing:
             sleep(delay)
         raise AssertionError("R2 object listing exhausted its retry loop")
 
-    def objects(self) -> Generator[tuple[str, R2ListedObject], None, None]:
+    def objects(
+        self, *, per_page: int = 1_000
+    ) -> Generator[tuple[str, R2ListedObject], None, None]:
         """Yield key and metadata for every object in the bucket."""
         account = quote(self.account, safe="")
         bucket = quote(self.bucket, safe="")
         path = f"/client/v4/accounts/{account}/r2/buckets/{bucket}/objects"
-        params = {"per_page": "1000"}
+        params = {"per_page": str(per_page)}
         previous_key = ""
         cursors: set[str] = set()
         with closing(

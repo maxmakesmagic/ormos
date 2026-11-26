@@ -1,11 +1,28 @@
 """Test object metadata listings and fallback errors."""
 
 import json
+import os
+from contextlib import closing
 from unittest.mock import MagicMock
 
 import pytest
 
 from ormos import r2_list
+
+
+def test_lists_archive_with_repo_token() -> None:
+    """Check live R2 list access when CI supplies a token."""
+    token = os.environ.get("ORMOS_R2_LIST_TOKEN")
+    if not token:
+        pytest.skip("ORMOS_R2_LIST_TOKEN is unavailable")
+    listing = r2_list.R2ObjectListing(
+        os.environ["ORMOS_R2_ACCOUNT_ID"],
+        os.environ.get("ORMOS_R2_SITE_BUCKET") or "ormos-site",
+        token,
+    )
+
+    with closing(listing.objects(per_page=1)) as objects:
+        assert next(objects, None) is not None
 
 
 def _response(status, data=None, retry_after=None):

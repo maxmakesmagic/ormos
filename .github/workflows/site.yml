@@ -73,6 +73,16 @@ jobs:
       - name: Install Pagefind
         run: npm ci --ignore-scripts --no-audit --no-fund
       - name: Run pytest
+        env:
+          ORMOS_R2_LIST_TOKEN: >-
+            ${{
+              github.repository == 'maxmakesmagic/ormos' &&
+              ((github.event_name == 'push' && github.ref == 'refs/heads/main') ||
+                (github.event_name == 'pull_request' &&
+                 github.event.pull_request.head.repo.full_name == github.repository &&
+                 github.event.pull_request.user.login == 'maxmakesmagic')) &&
+              secrets.R2_LIST_API_TOKEN || ''
+            }}
         run: uv run --locked --no-sync pytest
 
   plan:
