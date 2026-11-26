@@ -19,3 +19,13 @@
 {%- endfor -%}
 </ul></section>
 {%- endmacro %}
+
+{% macro publication_time(day) -%}
+{% if day %}<time datetime="{{ day.isoformat() }}">{{ day.day }} {{ day.strftime("%B %Y") }}</time>{% endif %}
+{%- endmacro %}
+
+{% macro author_links(entry) -%}
+{%- for person in entry.authors -%}
+{{ link("/" ~ entry.lang ~ "/authors/" ~ person.slug, person.name) }}{% if not loop.last %}, {% endif %}
+{%- endfor -%}
+{%- endmacro %}

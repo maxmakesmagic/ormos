@@ -1,0 +1,10 @@
+{% extends "page.html" %}
+{% from "components.html" import home_description, home_supporters %}
+{% from "listings.html" import counted_links %}
+
+{% block content -%}
+<h1>{{ title | escape_html }}</h1>
+{%- if path == "/" %}{{ home_description() }}{% endif -%}
+{{ counted_links(groups, "directory column-directory" if column_directory else "directory") }}
+{%- if path == "/" %}{{ home_supporters() }}{% endif -%}
+{% endblock %}

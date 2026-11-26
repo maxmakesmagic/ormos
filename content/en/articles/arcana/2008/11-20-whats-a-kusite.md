@@ -81,11 +81,6 @@ render_recovery:
   labels:
   - Guided Strike
   occurrences: 1
-- code: unsupported_embedded_media
-  element: object
-  target: /mtg/images/daily/arcana/1725_Name_Anagram.swf
-  reason: The preview omitted this legacy embedded object.
-  occurrences: 1
 ---
 Let's talk about kusites for a moment. The most famous kusite (some would say the *only* kusite) is the Ridged Kusite from *Planar Chaos*:
 
@@ -96,3 +91,5 @@ So where did this mysterious kusite come from? Well, the rumor is that it was or
  ![](https://i.ormos.uk/9f/09/9f090ad75a6e3e6ef83590396bd0ea02ede66f421b480c047ac282fbf8c4cda4.jpg) 
 
 Of course, since Ridged Kusite turns any card into a Guided Strike, it's no surprise that its name comes from there as well:
+
+![Kusite name animation](/flash/3b395b694f3926b6b24be7aa88628bde932c83896a1a418593464efdc8fd7c72)

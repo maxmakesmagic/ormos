@@ -81,11 +81,6 @@ render_recovery:
   element: img
   reason: The preview omitted the image because it had no usable source address.
   occurrences: 1
-- code: unsupported_embedded_media
-  element: embed
-  target: /mtg/images/daily/ftl/ftl37_morph.swf
-  reason: The preview omitted this legacy embedded object.
-  occurrences: 1
 - code: deck_widget_requires_review
   element: a
   reason: The archived deck widget has no visible card rows. The source capture may
@@ -101,6 +96,8 @@ Once again, welcome back to this fine laboratory of wonders, gizmos, and mad sci
 Now, there have been moments in this column where I provide a pinch of my personal opinions towards cards and mechanics, but excluding red, I haven't really splurged on a certain topic yet. Well, today's the day, and it's all because of cascade. This nifty ability, straight out of the reborn plane of Alara, is in my humble opinion the finest mechanic printed since morph, way back in the fall of '02. Unlike *Onslaught*, *Alara Reborn* hasn't had a ton of time to breathe yet, but I believe it is just as innovative and kooky as the face-downers.
 
 So why do I like cascade so much? The reason is similar to my evidence for liking morph: the unknown. I don't know about you, but I simply couldn't imagine the amount of psychological impact a face-down [Hystrodon](https://web.archive.org/web/20090507000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hystrodon) had the first time I played one. Even about a month ago, my first two creatures on the board in a friendly three-player game were both morphs. My opponents tried to laugh it off, but one began gulping loudly and the other was strangely fidgety for a while. I smirked, knowing they were [Wingbeat Warrior](https://web.archive.org/web/20090507000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Wingbeat+Warrior)s, of all things.
+
+![Morph animation](/flash/7ea3f3d3c5e594c054744c4353960feb9d80e982b0a1eeddf7c1b2b2a0841b5a)
 
 Cascade is similar, but contains a twist of this logic. Not only is playing an [Enigma Sphinx](https://web.archive.org/web/20090507000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Enigma+Sphinx) unknown for your opponent, it's unknown for you as well. Double the fun! Of course, you know what's in your deck, so you could tip the scales in your favor during deck building, but for the most part it's a fun, wild rip through your library. I've yet to play a physical copy of a cascade spell yet, but you can bet I will, most likely with the beastly red and black [Bituminous Blast](https://web.archive.org/web/20090507000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bituminous+Blast). Yowch!
 

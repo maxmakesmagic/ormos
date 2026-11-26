@@ -70,11 +70,6 @@ archive_source:
   template: aspx
   sha256: 5116207263fbf1661fed9bcbd48e6bd170914d0a5568d9a04e5df0e4ac207ba9
 render_recovery:
-- code: unsupported_embedded_media
-  element: object
-  target: http://www.wizards.com/mtg/images/daily/arcana/396_57xgd1im10.swf
-  reason: The preview omitted this legacy embedded object.
-  occurrences: 1
 - code: unsupported_link
   element: a
   target: javascript:void()
@@ -88,6 +83,6 @@ The Eye of Ugin. What *is* it, really? The flavor text of Ghostfire says "*Only 
 
 But what about the legendary land? What is it? *Where* is it? And what secrets does it hold? Well, we're about to show you. First you'll get a good look at the Eye of Ugin, then, when your curiosity has consumed you and you absolutely can take no more suspense, go ahead and click on it. But beware! Because the secrets of the Eye are not for the faint-hearted!
 
-![](https://i.ormos.uk/4b/92/4b925afde1488dec7057cb3f53944cad57b4c2f309612c2cd81b2519809435d4.jpg) 
+![Eye of Ugin](/flash/6d789df7b4790aca95e99267be8221fc245c3f40e3a50d75586e4853b49b39af)
 
 Eye of Ugin | Art by [James Paick](https://web.archive.org/web/20100301000000/http://gatherer.wizards.com/pages/search/default.aspx?output=spoiler&method=visual&action=advanced&artist=[%22james+paick%22])

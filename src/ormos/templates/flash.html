@@ -1,0 +1,20 @@
+{% extends "page.html" %}
+{% from "components.html" import link %}
+
+{% block content %}
+<p>{{ link(config.media.flash_route, "All Flash items") }}</p>
+<h1>{{ title | escape_html }}</h1>
+{% set embedded = false %}
+{% include "flash-player.html" %}
+<p>{{ link(item.movie_url, "Open SWF file") }}</p>
+{% if articles %}
+<section aria-labelledby="flash-related-articles">
+  <h2 id="flash-related-articles">Related articles</h2>
+  <ul>{% for article in articles %}<li>{{ link(article.path, article.title) }}</li>{% endfor %}</ul>
+</section>
+{% endif %}
+<details>
+  <summary>Original locations</summary>
+  <ul>{% for url in item.source_urls %}<li>{{ link(url, url, {"rel": "nofollow"}) }}</li>{% endfor %}</ul>
+</details>
+{% endblock %}

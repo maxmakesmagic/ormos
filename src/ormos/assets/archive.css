@@ -60,7 +60,7 @@ main {
   margin-inline: auto;
   padding-block: clamp(1.8rem, 5vw, 4rem);
 }
-.home-description { color: var(--muted); font-size: 1.05rem; margin-block: -.85rem 1.4rem; }
+.home-description, .article-index-intro { color: var(--muted); font-size: 1.05rem; margin-block: -.85rem 1.4rem; }
 .site-footer {
   border-top: 1px solid var(--line);
   padding-block: 1rem 1.8rem;
@@ -157,6 +157,23 @@ th { background: #f0e9dc; }
   gap: 0 1.7rem;
 }
 .column-directory { grid-template-columns: minmax(0, 1fr); }
+.article-browse { margin-block-end: 2.4rem; }
+.article-browse ul {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: .7rem 1.2rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.article-browse li {
+  border-top: 1px solid var(--line);
+  padding-block-start: .55rem;
+  overflow-wrap: anywhere;
+}
+.article-browse li a { font: 700 1.14rem/1.45 var(--serif); }
+.article-browse li span { display: block; color: var(--muted); font-size: .9rem; }
+.article-browse p { margin-block: 1rem 0; font-weight: 600; }
 .event-types, .event-formats { margin: 0; padding: 0; list-style: none; }
 .event-types > li { border-top: 1px solid var(--line); padding-block: .85rem; }
 .event-types h2 { margin: 0 0 .2rem; }
@@ -196,6 +213,19 @@ button, #query, #video-query { padding: .45rem .65rem; border-radius: .2rem; }
 [data-video-seek] { font: .9rem/1.7 var(--sans); font-variant-numeric: tabular-nums; }
 .transcript-block p { margin: 0; }
 .transcript-speaker { color: var(--muted); font: 600 .86rem/1.7 var(--sans); }
+[data-flash-stage] > * {
+  display: block;
+  width: min(100%, var(--flash-player-width, 100%));
+  height: auto;
+  aspect-ratio: var(--flash-player-ratio, 4 / 3);
+  margin-inline: auto;
+  background: var(--header);
+}
+[data-flash-embedded] { margin-block: 1.25rem; }
+[data-flash-preview] > summary { cursor: pointer; }
+[data-flash-preview] > summary > img { display: block; margin: .5rem auto 0; }
+[data-flash-preview][open] > summary > img { display: none; }
+[data-flash-player] ~ details { overflow-wrap: anywhere; }
 button { border: 1px solid var(--accent); background: var(--accent); color: white; }
 button:focus-visible { outline-color: var(--ink); }
 button:disabled { opacity: .72; cursor: wait; }
@@ -204,6 +234,7 @@ button:disabled { opacity: .72; cursor: wait; }
 @media (max-width: 32rem) {
   .site-header-inner { flex-direction: column; align-items: start; }
   .records > li > a { font-size: 1.08rem; }
+  .article-browse ul { grid-template-columns: minmax(0, 1fr); }
 }
 
 @media print {

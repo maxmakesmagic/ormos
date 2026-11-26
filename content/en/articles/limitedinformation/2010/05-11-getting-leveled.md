@@ -80,11 +80,6 @@ render_recovery:
   element: img
   reason: The preview omitted the image because it had no usable source address.
   occurrences: 1
-- code: unsupported_embedded_media
-  element: embed
-  target: /mtg/images/daily/li/li90_bluff.swf
-  reason: The preview omitted this legacy embedded object.
-  occurrences: 1
 ---
 The earliest reports about *Rise of the Eldrazi* indicated that the format would be slow. Much slower than anything we've seen in years. However, that does not mean that you can't get significant value out of drafting an aggressive deck, especially if that aggressive deck has a good mid-late game to fall back on.
 
@@ -163,6 +158,8 @@ You Shouldn't Play Counterspells in Your Level Up Deck
 Once you've taken the time to think about it, it shouldn't be hard to realize why it's a bad idea to play with counterspells in a deck that specializes in tapping out during its main phases to put level counters on its creatures.
 
 If you pass a turn without putting a key level counter on one of your creatures, your opponent is going to know that something is up. If you leave up ![](https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/blue.gif)![](https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/blue.gif)![](https://magic.wizards.com/sites/all/modules/custom/wiz_autocard/wiz_manacost/manasymbols/blue.gif) when you have a [Hada Spy Patrol](https://web.archive.org/web/20100511000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hada+Spy+Patrol) with only one level counter on it, you will be signaling pretty strongly to your opponent that you have a [Deprive](https://web.archive.org/web/20100511000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Deprive), or at the very least a [Regress](https://web.archive.org/web/20100511000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Regress), that you are looking to put to good use.
+
+![li90 bluff](/flash/b5dc4e64cfc6bd720b64d646bb4eae672698f19d6d8db27b7b7f70ddd515f94b)
 
   
 

@@ -1,4 +1,4 @@
-"""Render the shared HTML page layout."""
+"""Render archive templates with shared page metadata."""
 
 from html import escape
 from importlib.resources import files
@@ -16,7 +16,11 @@ with files("ormos").joinpath("config.toml").open("rb") as stream:
 SITE_NAME: str = _CONFIG["site"]["name"]
 PUBLIC_ARCHIVE_ORIGIN: str = _CONFIG["site"]["archive_origin"]
 VIDEO_ROUTE: str = _CONFIG["media"]["route"]
-VIDEO_ORIGIN: str = _CONFIG["media"]["origin"]
+MEDIA_ORIGIN: str = _CONFIG["media"]["origin"]
+IMAGE_ORIGIN: str = _CONFIG["media"]["image_origin"]
+MEDIA_ROUTE: str = _CONFIG["media"]["landing_route"]
+FLASH_ROUTE: str = _CONFIG["media"]["flash_route"]
+FLASH_SCRIPT = "flash-player.js"
 
 
 def _escape_html(value: str) -> Markup:
@@ -33,22 +37,14 @@ _TEMPLATES = Environment(
 )
 _TEMPLATES.globals["config"] = _CONFIG
 _TEMPLATES.filters["escape_html"] = _escape_html
-_COMPONENTS = _TEMPLATES.get_template("components.html").module
-_PAGE = _TEMPLATES.get_template("page.html")
 
 
-def _component(name: str, *args: object) -> str:
-    return str(getattr(_COMPONENTS, name)(*args))
+def render_template(template: str, **context: object) -> str:
+    """Render a Jinja2 template with its data."""
+    return _TEMPLATES.get_template(template).render(**context)
 
 
-def link(href: str, label: str, **attributes: str) -> str:
-    """Render a link with escaped text and attribute values."""
-    return _component("link", href, label, attributes)
-
-
-def site_footer(path: str) -> str:
-    """Render the footer with a report link for this page."""
-    route(path)
+def _report_url(path: str) -> str:
     parameters = urlencode(
         {
             "subject": _CONFIG["footer"]["report_subject"],
@@ -56,40 +52,59 @@ def site_footer(path: str) -> str:
         },
         quote_via=quote,
     )
-    return _component(
-        "footer", f"mailto:{_CONFIG['footer']['report_email']}?{parameters}"
-    )
+    return f"mailto:{_CONFIG['footer']['report_email']}?{parameters}"
 
 
-def layout(
-    title: str, path: str, content: str, *, lang: str = "en", scripts: str = ""
+def render_page(
+    template: str,
+    title: str,
+    path: str,
+    *,
+    lang: str = "en",
+    script: str = "",
+    flash_player: bool = False,
+    flash_puzzle: bool = False,
+    **context: object,
 ) -> str:
-    """Wrap page content in the shared HTML layout."""
+    """Render a page with its title, security policy, and report link."""
+    path = route(path)
     home_title = _CONFIG["home"]["title"]
     browser_title = (
         f"{SITE_NAME} · {home_title}" if path == "/" else f"{title} · {SITE_NAME}"
     )
     policy: str = _CONFIG["security"]["content_security_policy"]
     if path.startswith(f"{VIDEO_ROUTE}/"):
-        policy += f"; media-src 'self' {VIDEO_ORIGIN}"
+        policy += f"; media-src 'self' {MEDIA_ORIGIN}"
+    if flash_player:
+        # Ruffle fetches movies and injects its own shadow styles and icons.
+        origins = f"{MEDIA_ORIGIN} {IMAGE_ORIGIN}" if flash_puzzle else MEDIA_ORIGIN
+        directives = [directive.strip() for directive in policy.split(";")]
+        for index, directive in enumerate(directives):
+            if directive.startswith("img-src "):
+                directives[index] = f"{directive} data:"
+            elif directive.startswith("connect-src "):
+                directives[index] = f"{directive} {origins}"
+        directives.append("style-src-elem 'self' 'unsafe-inline'")
+        policy = "; ".join(directives)
+    section_path = (
+        MEDIA_ROUTE
+        if path == VIDEO_ROUTE
+        or path == FLASH_ROUTE
+        or path.startswith((f"{VIDEO_ROUTE}/", f"{FLASH_ROUTE}/"))
+        else path
+    )
     # Apostrophes can appear as-is inside a double-quoted attribute.
     attribute_value = Markup(escape(policy, quote=False).replace('"', "&quot;"))
-    return _PAGE.render(
-        title=browser_title,
+    return render_template(
+        template,
+        title=title,
+        browser_title=browser_title,
         path=path,
+        section_path=section_path,
         lang=lang,
         policy=attribute_value,
-        scripts=scripts,
-        content=content,
-        footer=site_footer(path),
+        script=script,
+        flash_script=f"/assets/{FLASH_SCRIPT}" if flash_player else "",
+        report_url=_report_url(path),
+        **context,
     )
-
-
-def home_description() -> str:
-    """Render the introduction on the home page."""
-    return _component("home_description")
-
-
-def home_supporters() -> str:
-    """Render the home page list of supporters."""
-    return _component("home_supporters")

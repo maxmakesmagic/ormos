@@ -18,6 +18,10 @@ Open http://localhost:8000/. Choose a new output directory for each build.
 
 The builder reads redirects, Wizards URL mappings, the search shard list, and video transcripts from `data/`. The checkout contains these files.
 
+Flash uses the pinned Ruffle package installed by `npm ci`. The Flash catalog in `data/flash.json` records the SHA-256 hashes for movies on `media.ormos.uk` and puzzle images on `i.ormos.uk`.
+To place a Flash player in an article, add `![Animation name](/flash/<catalog-id>)` as a separate paragraph.
+Add a `poster_url` to the catalog entry if readers open the embedded player from a preview image.
+
 The search plan records the order of pages within each shard. Keep that order when you edit `data/search-plan.json` because Pagefind uses it to assign page numbers.
 When you add a canonical page, append its path to a shard or add a shard for it.
 

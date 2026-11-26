@@ -145,16 +145,6 @@ render_recovery:
   - Gilt-Leaf Ambush
   - Hunting Triad
   occurrences: 140
-- code: unsupported_embedded_media
-  element: object
-  target: /mtg/images/daily/ftl/ftl52_lion.swf
-  reason: The preview omitted this legacy embedded object.
-  occurrences: 1
-- code: unsupported_embedded_media
-  element: object
-  target: /mtg/images/daily/ftl/ftl52_2Cards1.swf
-  reason: The preview omitted this legacy embedded object.
-  occurrences: 1
 ---
 ### Day 1
 
@@ -200,6 +190,8 @@ Aaaah! A Silvercoat Lion!
 
 It's looking at me, eyes intent .... Wait. That's not a Silvercoat Lion, that's just a ...
 
+![Lion cub animation](/flash/4dd684ae87d0cfb388b29622130bfec7791dc96c45e2a08663be18fcb5688f3b)
+
 A small lion. A small *real* lion cub. Not a **Magic** one, of course, that would be preposterous.
 
 I must have stumbled into some jungle-like area, complete with lion's dens and such. Better divert my path away from the oasis. I'll get there a day late; better that than getting mauled by an angry mother lion.
@@ -217,6 +209,8 @@ Good day today. No weird interactions, but I did get in a brainstorm on an exile
 Mirror of Fate is easily the most Johnnytastic new card to come out of ***Magic** 2010*. What combo-seeking person can resist the tantalizing drawback "Exile all the cards from your library"? Add the stacking of seven previously exiled cards (making you wonder how they were exiled in the first place) to your library, and a sacrifice cost besides, and it's safe to say this card was made for Johnny.
 
 There's a certain card that many have been clamoring for me to mention alongside the fateful Mirror. It's very similar, in that it's also an artifact that costs ![5 Mana](https://i.ormos.uk/33/3c/333cbd82f68b5e306003b2955e517a94ffa7a3ea03087365c10afad540856dce.gif). More importantly, it also carries the same drawback of exiling your own library. That's right, Leveler.
+
+![Two-card animation](/flash/0244fdef59216bf15bb144a85502008b584277aa7ecfa15c00ad7beff06d1d9a)
 
 Imagine playing a Mirror of Fate, and Leveler a turn later. Normally casting Leveler would result in a Game Over screen during your next draw step, but the Mirror can retrieve seven of these exiled cards and make a new mini-library, while your 10/10 bashes for brutal amounts of damage.
 

@@ -80,11 +80,6 @@ render_recovery:
   element: img
   reason: The preview omitted the image because it had no usable source address.
   occurrences: 1
-- code: unsupported_embedded_media
-  element: embed
-  target: /mtg/images/daily/mm/mm138_playtest.swf
-  reason: The preview omitted this legacy embedded object.
-  occurrences: 1
 ---
 Welcome to the third and final article exploring my short stint on the writing staff of *Roseanne*. If you haven't had a chance yet to read [Part 1](https://web.archive.org/web/20110411000000/http://archive.wizards.com/magic/Magazine/Article.aspx?x=mtg/daily/mm/134) and [Part 2](https://web.archive.org/web/20110411000000/http://archive.wizards.com/magic/Magazine/Article.aspx?x=mtg/daily/mm/136), I urge you to give them a read as this article assumes you've already read them. I've spent some time talking about how I got my job and some of the perks on being on the writing staff of the number one show on television. Today I'm going to focus on the work itself as well as what led to my leaving the show. Today is about the big lessons that forever shaped me as a person and as a designer.
 
@@ -152,6 +147,8 @@ A question I am often asked is what exactly was my day-to-day life on *Roseanne*
 **Friday –** It's Taping Day. Barring disaster, the rewriting in the morning is just tiny tweaks to lines. There are two tapings to make sure everything gets covered and to allow some options in editing. The first taping is in the afternoon. The cast and crew break for dinner, and after dinner is the second taping. Only the second taping is in front of a studio audience. Usually this is where most of the footage comes from, as the live audience taping tends to bring out the best in the actors.
 
 The lesson I learned from the weekly structure of *Roseanne* is the importance of iteration to the creative process. Essentially what happens all week is that the writers create changes and then let the actors work with those changes and from that performance they figure out what new changes need to be made.
+
+![mm138 playtest](/flash/052eb3d9b35bd03556a662603b6181a5e61dd0c26d545f67a57bdf56dac770b9)
 
   
 

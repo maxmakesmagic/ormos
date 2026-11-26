@@ -146,11 +146,6 @@ render_recovery:
   - Keldon Twilight
   - Talisman of Indulgence
   occurrences: 114
-- code: unsupported_embedded_media
-  element: object
-  target: /mtg/images/daily/ftl/ftl38_eye2.swf
-  reason: The preview omitted this legacy embedded object.
-  occurrences: 1
 ---
 ![](https://i.ormos.uk/c3/2c/c32ca8a94c30cec3fb849ed37e950c9ec49c57e4b64f62caad4b934131741073.jpg) 
 
@@ -367,6 +362,8 @@ Legacy
 *"Call me Nick," the boy sneered. "And don't worry about it: Just like everyone else's seemingly meaningless actions, yours will play a pivotal role in my plans. Now my incredibly evil scheme will definitely assuredly succeed. I swear." He breathed in, and then said, "Want to go home now? I am, in fact, a planeswalker."* 
 
 *"Really? You'd take me home?" inquired Bob, seeing a ray of hope.* 
+
+![28 Days Later animation](/flash/f4b3298d7343c033c17aff1205724742a0cbaa57d08c2cd14552e5fb01ae8d0c)
 
 *Nick smiled, and in that smile Bob saw ruthlessness, cunning, and ... a crumb of cheesecake?* 
 

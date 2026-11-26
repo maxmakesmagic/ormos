@@ -1,0 +1,37 @@
+{% extends "page.html" %}
+{% from "components.html" import link %}
+
+{% block content %}
+{% set download = link(video.url, "Download MP4") -%}
+<p>{{ link(config.media.route, "All videos") }}</p>
+<h1>{{ title | escape_html }}</h1>
+{% if video.duration or video.alternate %}<p class="record-meta">
+{%- if video.duration %}<span aria-label="Duration">{{ video.duration }}</span>{% endif -%}
+{%- if video.alternate %}<span>Alternate encoding</span>{% endif -%}
+</p>{% endif %}
+<video class="video-player" src="{{ video.url | escape_html }}" aria-label="{{ title | escape_html }}" controls playsinline preload="metadata">
+{% if captions_path %}<track kind="captions" src="{{ captions_path | escape_html }}" srclang="{{ locale | escape_html }}" label="{{ captions_language | escape_html }}">{% endif %}
+{{ download }}
+</video>
+<ul class="inline-links video-actions"><li>{{ download }}</li>
+{%- if captions_path %}<li>{{ link(captions_path, "Download transcript (.vtt)", {"download": ""}) }}</li>{% endif -%}
+</ul>
+<section class="video-transcript" aria-labelledby="transcript-heading">
+<h2 id="transcript-heading">Transcript</h2>
+{% if audio_end %}<p class="record-meta">The archived audio ends at {{ audio_end }} of this {{ video.duration }} video.</p>{% endif %}
+{% if captions_path -%}
+<div class="article-body" lang="{{ locale | escape_html }}" data-video-transcript>
+{% for position, time, speaker, words in blocks -%}
+<div class="transcript-block">{{ link("#t=" ~ position, time, {"data-video-seek": "", "aria-label": "Seek to " ~ time}) }}<div>{% if speaker %}<p class="transcript-speaker" data-video-speaker>{{ speaker | escape_html }}</p>{% endif %}<p>{{ words | escape_html }}</p></div></div>
+{% endfor -%}
+</div>
+{%- else -%}
+<p>No transcript is available for this video.</p>
+{%- endif %}
+</section>
+{% if coverage %}<p class="record-meta"><span>Archive coverage</span><span>
+{%- for entry in coverage -%}
+  {{ link(entry.path, entry.title, {"data-video-article": ""}) }}{% if not loop.last %}, {% endif %}
+{%- endfor -%}
+</span></p>{% endif %}
+{% endblock %}

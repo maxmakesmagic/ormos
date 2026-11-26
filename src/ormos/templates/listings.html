@@ -1,0 +1,46 @@
+{% from "components.html" import author_links, link, publication_time %}
+
+{% macro records_list(title, records) -%}
+<ol class="records" aria-label="{{ title | escape_html }}">
+{%- for entry in records -%}
+  {%- set day = entry.day -%}
+  <li>{{ link(entry.path, entry.title) }}
+    {%- if day or entry.column_slug -%}
+      <div class="record-meta">{{ publication_time(day) }}
+        {%- if entry.column_slug %}{{ link("/columns/" ~ entry.column_slug, entry.column) }}{% endif -%}
+      </div>
+    {%- endif -%}
+  </li>
+{%- endfor -%}
+</ol>
+{%- endmacro %}
+
+{% macro column_table(title, records, paginated) -%}
+<section data-column-table>
+{%- if paginated %}<p class="sort-scope" data-sort-scope hidden>Sorting applies to the rows on this page.</p>{% endif -%}
+<div class="table-scroll" tabindex="0" role="region" aria-label="{{ title | escape_html }} articles">
+<table class="column-table"><caption class="visually-hidden">{{ title | escape_html }}</caption>
+<thead><tr>
+{%- for key, label in (("date", "Publication date"), ("title", "Article"), ("author", "Author")) -%}
+  <th scope="col"{% if key == "date" %} aria-sort="ascending"{% endif %}><span data-sort-label>{{ label }}</span>
+    <button type="button" data-sort-key="{{ key }}" hidden>{{ label }}<span class="sort-indicator" aria-hidden="true"></span></button></th>
+{%- endfor -%}
+</tr></thead>
+<tbody>
+{%- for entry in records -%}
+  {%- set day = entry.day -%}
+  <tr><td data-sort-value="{{ day.isoformat() if day else '' }}">{{ publication_time(day) if day else "Undated" }}</td>
+    <td>{{ link(entry.path, entry.title) }}</td>
+    <td{% if not entry.authors %} data-sort-value=""{% endif %}>{{ author_links(entry) if entry.authors else "—" }}</td></tr>
+{%- endfor -%}
+</tbody></table></div>
+<p class="visually-hidden" data-sort-status role="status"></p></section>
+{%- endmacro %}
+
+{% macro counted_links(groups, css_class, label="") -%}
+<ul class="{{ css_class }}"{% if label %} aria-label="{{ label }}"{% endif %}>
+{%- for href, title, count in groups -%}
+  <li>{{ link(href, title) }} <span class="count">{{ "{:,}".format(count) }}</span></li>
+{%- endfor -%}
+</ul>
+{%- endmacro %}

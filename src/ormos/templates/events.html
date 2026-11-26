@@ -1,0 +1,15 @@
+{% extends "page.html" %}
+{% from "components.html" import link %}
+{% from "listings.html" import counted_links %}
+
+{% block content -%}
+<h1>{{ title | escape_html }}</h1><nav aria-label="Other ways to browse"><ul class="inline-links">
+{%- for href, label in links %}<li>{{ link(href, label) }}</li>{% endfor -%}
+</ul></nav><ul class="event-types">
+{%- for href, label, count, formats in sections -%}
+  <li><h2>{{ link(href, label) }}</h2><p class="count">{{ "{:,}".format(count) }} {{ "document" if count == 1 else "documents" }}</p>
+  {%- if formats %}{{ counted_links(formats, "event-formats", "Formats") }}{% endif -%}
+  </li>
+{%- endfor -%}
+</ul>
+{%- endblock %}

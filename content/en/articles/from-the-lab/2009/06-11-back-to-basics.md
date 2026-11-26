@@ -78,11 +78,6 @@ archive_source:
   template: drupal
   sha256: 69378658b223ffc00fa1a19aa62b7f370906467b75f77aa9203b08f95fa9f138
 render_recovery:
-- code: unsupported_embedded_media
-  element: object
-  target: /sites/mtg/files/image_legacy_migration/mtg/images/daily/ftl/ftl42_card2.swf
-  reason: The preview omitted this legacy embedded object.
-  occurrences: 1
 - code: deck_widget_requires_review
   element: a
   reason: The archived deck widget has no visible card rows. The source capture may
@@ -114,6 +109,8 @@ Similar to [Children of Korlis](https://web.archive.org/web/20090611000000/https
 [Stern Judge](https://web.archive.org/web/20090611000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stern+Judge) alongside a boatload of [Swamp](https://web.archive.org/web/20090611000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Swamp)s and the darkened Sigil seems like a good combo. [Urborg, Tomb of Yawgmoth](https://web.archive.org/web/20090611000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Urborg%2C+Tomb+of+Yawgmoth) can assure your lands are the right type for this.
 
 [Syphon Soul](https://web.archive.org/web/20090611000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Syphon+Soul) effects are decent here, so we might as well go with the one attached to a body: [Urborg Syphon-Mage](https://web.archive.org/web/20090611000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Urborg+Syphon-Mage). Another cheap body that brings pain for both sides is [Ebonblade Reaper](https://web.archive.org/web/20090611000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ebonblade+Reaper). I guess whenever it swings that dicey hook-scythe of his, both you and your unfortunate opponent take a [Heartless Hidetsugu](https://web.archive.org/web/20090611000000/http://gatherer.wizards.com/Pages/Card/Details.aspx?&name=Heartless%2BHidetsugu)-sized blow. [Tainted Sigil](https://web.archive.org/web/20090611000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Tainted+Sigil) tips the scales in your favor and provides you with more life to feed the [Reap](https://web.archive.org/web/20090611000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Reap)er. Lots of cards should be hitting the graveyard, with all this discarding and sacrificing and all. [Grave Consequences](https://web.archive.org/web/20090611000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Grave+Consequences) (which couldn't have a more appropriate name) could be a neat trump card.
+
+![Back to Basics animation](/flash/dd0363adb57d8f39c72a0ccb8f41087fb3a9636ab3d70cf7046057f0014ac1af)
 
 Of course, I was all excited to be the combo player when an obvious solution hit me: lifelink. Regular old creature damage can turn on the Sigil as well, and it might as well be something that can give me even more life! Just to be different and not choose game-winners like [Exalted Angel](https://web.archive.org/web/20090611000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Exalted+Angel) or [Windbrisk Raptor](https://web.archive.org/web/20090611000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Windbrisk+Raptor), I went with [Doubtless One](https://web.archive.org/web/20090611000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Doubtless+One). [Ebonblade Reaper](https://web.archive.org/web/20090611000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ebonblade+Reaper) and [Stern Judge](https://web.archive.org/web/20090611000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Stern+Judge) are Clerics, as is [Cabal Archon](https://web.archive.org/web/20090611000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Cabal+Archon) (who drains life and fills the graveyard—perfect!) and [Mutavault](https://web.archive.org/web/20090611000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mutavault). [Shields of Velis Vel](https://web.archive.org/web/20090611000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Shields+of+Velis+Vel) is a clutch card in those situations.
 

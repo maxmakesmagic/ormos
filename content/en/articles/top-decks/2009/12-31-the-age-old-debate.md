@@ -88,11 +88,6 @@ render_recovery:
   labels:
   - Decklist
   occurrences: 2
-- code: unsupported_embedded_media
-  element: embed
-  target: /mtg/images/daily/td/td50_winner.swf
-  reason: The preview omitted this legacy embedded object.
-  occurrences: 1
 ---
 *I might have picked this one even if Kibler HADN'T followed up by actually winning [the next Pro Tour](https://web.archive.org/web/20091231000000/https://magic.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/eventcoverage/ptaus09/welcome) with a Baneslayer Angel deck .... It is funny reading these things with a few months of history under our belts. I am not knocking Broodmate Dragon when I say this (and I was an early adopter and longtime fan of that six), but is this even a debate anymore? The world—led perhaps by the mysterious "Doom Blade Guy"—all counted Baneslayer out before she even got a chance to spread those wings, and now we see her being touted as the best large creature of all time. Debate over and done? Never, we hope! :)*
 
@@ -405,6 +400,8 @@ End aside.
 But let's go back to the question of removal, and how much removal it takes to deal with one of these massive creatures.
 
 As I often do in situations like this (or, say, what Hogwarts house I should be in; who's hotter, Madonna or Gwen Stefani; or what action movie I should bring to movie club) I put it out to my loyal and epic [Twitter](http://twitter.com/fivewithflores) contact list. The number of responses I got when asking this community's opinions on [Baneslayer Angel](https://web.archive.org/web/20091231000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Baneslayer+Angel) vs. [Broodmate Dragon](https://web.archive.org/web/20091231000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Broodmate+Dragon) was simply flattering.
+
+![td50 winner](/flash/96fa85309a5445ff391febd1ddad901fe0a859109a4680ae04993364d7fd3f8c)
 
 Interestingly, the group came out hugely in favor of [Broodmate Dragon](https://web.archive.org/web/20091231000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Broodmate+Dragon) (I thought they might ... but not in these proportions). In fact, the group voted well over 3:1 in favor of [Broodmate Dragon](https://web.archive.org/web/20091231000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Broodmate+Dragon)!
 

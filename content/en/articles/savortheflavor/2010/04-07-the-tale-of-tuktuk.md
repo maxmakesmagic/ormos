@@ -75,12 +75,7 @@ archive_source:
   captured_at: '2022-01-28 03:46:16+00'
   template: drupal
   sha256: 70e32b92a77f6d16a1a12a1da354ad849321357ffac25c52c79be3f6f3970c0d
-render_recovery:
-- code: unsupported_embedded_media
-  element: object
-  target: http://magic.wizards.com/sites/mtg/files/image_legacy_migration/mtg/images/daily/stf/stf85_island.swf
-  reason: The preview omitted this legacy embedded object.
-  occurrences: 1
+render_recovery: []
 ---
 The Eldrazi have recently risen, but their presence has affected Zendikar in subtle ways for thousands of years. Tendrils of their incomprehensible energies have slunk into certain dark crannies of the world, making the plane even more dangerous than the savage tales would have you believe. Long before they blotted out the sky with their mighty forms, the Eldrazi cast a shadow that spread upward from below.
 
@@ -159,6 +154,8 @@ The leader of the Tuktuk tribe aside, the Eldrazi are making a massive impact on
 [Keening Stone](https://web.archive.org/web/20100407000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Keening+Stone) | Art by [Jung Park](https://web.archive.org/web/20100407000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?action=advanced&artist=+%5BJung%5D+%5BPark%5D)
 
 The best way to see that is to check out any [*Rise of the Eldrazi* basic land](https://web.archive.org/web/20100407000000/https://magic.wizards.com/en/articles/archive/rise-eldrazi-swamps-2010-03-29). The art of the four *Rise* [Island](https://web.archive.org/web/20100407000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Island)s, for example, forms a panorama that shows the mysterious structures the hedrons have formed.
+
+![stf85 island](/flash/10d8f2055e9c0d7451d7558268844dd747be04f1c366fbb1ce75daaa26555136)
 
 Art by [Vincent Proce](https://web.archive.org/web/20100407000000/http://gatherer.wizards.com/Pages/Search/Default.aspx?action=advanced&artist=+%5BVincent%5D+%5BProce%5D)
 

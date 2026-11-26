@@ -1,14 +1,19 @@
-{% from "components.html" import link -%}
+{% from "components.html" import footer, link -%}
 <!doctype html>
 <html lang="{{ lang | escape_html }}">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Security-Policy" content="{{ policy }}">
-<title>{{ title | escape_html }}</title>
+<title>{{ browser_title | escape_html }}</title>
 <link rel="canonical" href="{{ path | escape_html }}">
+{% block metadata %}{% endblock -%}
 <link rel="stylesheet" href="/assets/archive.css">
-{{ scripts | safe }}
+{% if script %}<script type="module" src="{{ script | escape_html }}"></script>{% endif %}
+{% if flash_script -%}
+<script src="/assets/ruffle/ruffle.js" defer></script>
+<script src="{{ flash_script | escape_html }}" defer></script>
+{% endif -%}
 </head>
 <body>
 <a class="skip" href="#main">Skip to content</a>
@@ -17,12 +22,12 @@
 {{ link("/", config.site.name, {"class": "site-name"}) }}
 <nav aria-label="Archive"><ul>
 {%- for item in config.navigation -%}
-<li>{{ link(item.path, item.label, {"aria-current": "page"} if item.path == path else {}) }}</li>
+<li>{{ link(item.path, item.label, {"aria-current": "page" if item.path == path else "location"} if item.path == section_path else {}) }}</li>
 {%- endfor -%}
 </ul></nav>
 </div>
 </header>
-<main id="main" tabindex="-1">{{ content | safe }}</main>
-{{ footer | safe }}
+<main id="main" tabindex="-1">{% block content %}{% endblock %}</main>
+{{ footer(report_url) }}
 </body>
 </html>

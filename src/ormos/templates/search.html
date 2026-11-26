@@ -1,0 +1,21 @@
+{% extends "page.html" %}
+{% from "components.html" import link %}
+
+{% block content -%}
+{% if search_pages | length > 1 -%}
+<nav aria-label="Document language"><p>Document language</p><ul class="inline-links">
+{%- for language, href in search_pages.items() -%}
+  <li>{{ link(href, language | upper, {"aria-current": "page"} if language == lang else {}) }}</li>
+{%- endfor -%}
+</ul></nav>
+{%- endif %}
+<h1>Search the archive</h1>
+<form id="search" role="search" action="{{ path }}">
+<label for="query">Search article and event text</label>
+<div class="search-input"><input type="search" id="query" name="q" required>
+<button type="submit">Search</button></div>
+</form>
+<p id="search-status" role="status"></p>
+<ol id="search-results" class="records" aria-label="Search results"></ol>
+<noscript><p>Enable JavaScript to use full-text search.</p></noscript>
+{% endblock %}

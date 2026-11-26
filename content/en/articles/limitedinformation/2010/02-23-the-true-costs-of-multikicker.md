@@ -80,11 +80,6 @@ render_recovery:
   element: img
   reason: The preview omitted the image because it had no usable source address.
   occurrences: 1
-- code: unsupported_embedded_media
-  element: embed
-  target: /mtg/images/daily/li/li79_pack.swf
-  reason: The preview omitted this legacy embedded object.
-  occurrences: 1
 ---
 When do you cast a card with multikicker now, and when do you wait to power it up further?
 
@@ -189,6 +184,8 @@ Given the choice between three slight increases in quality (which is really a be
 **Bonus Exercise**
 
 You're playing in the draft rounds at [Pro Tour–San Diego](https://web.archive.org/web/20100223000000/http://archive.wizards.com/magic/magazine/article.aspx?x=mtg/daily/eventcoverage/ptsd10/welcome). You open up your first pack in a *Zendikar / Zendikar / Worldwake* draft and it contains:
+
+![li79 pack](/flash/632e06b38fd65884bc21a5b4e83833126b1d1ffbf5af74f4ca7ef16487172046)
 
 [Bladetusk Boar](https://web.archive.org/web/20100223000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Bladetusk+Boar), [Caravan Hurda](https://web.archive.org/web/20100223000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Caravan+Hurda), [Guul Draz Vampire](https://web.archive.org/web/20100223000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Guul+Draz+Vampire), [Harrow](https://web.archive.org/web/20100223000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Harrow), [Ior Ruin Expedition](https://web.archive.org/web/20100223000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Ior+Ruin+Expedition), [Nissa's Chosen](https://web.archive.org/web/20100223000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Nissa%27s+Chosen), [Paralyzing Grasp](https://web.archive.org/web/20100223000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Paralyzing+Grasp), [Spire Barrage](https://web.archive.org/web/20100223000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spire+Barrage), [Spreading Seas](https://web.archive.org/web/20100223000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Spreading+Seas), [Timbermaw Larva](https://web.archive.org/web/20100223000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Timbermaw+Larva), [Hedron Crab](https://web.archive.org/web/20100223000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Hedron+Crab), [Pitfall Trap](https://web.archive.org/web/20100223000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Pitfall+Trap), [Baloth Woodcrasher](https://web.archive.org/web/20100223000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Baloth+Woodcrasher), [Oran-Rief, the Vastwood](https://web.archive.org/web/20100223000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Oran-Rief%2C+the+Vastwood) and a [Mountain](https://web.archive.org/web/20100223000000/https://gatherer.wizards.com/Pages/Card/Details.aspx?name=Mountain). 
 

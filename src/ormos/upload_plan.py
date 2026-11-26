@@ -24,6 +24,7 @@ CONTENT_TYPES = {
     ".js": "text/javascript",
     ".json": "application/json",
     ".jsonl": "application/x-ndjson",
+    ".swf": "application/x-shockwave-flash",
     ".txt": "text/plain",
     ".vtt": "text/vtt",
     ".wasm": "application/wasm",
