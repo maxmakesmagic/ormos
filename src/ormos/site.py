@@ -215,6 +215,7 @@ class Site:
         *,
         lang: str = "en",
         table_column: Literal["author", "column"] | None = None,
+        paginate: bool = True,
         year_links: Sequence[tuple[str, str]] = (),
         formats: Sequence[CountedLink] = (),
     ) -> int:
@@ -225,10 +226,11 @@ class Site:
             entries.sort(key=publication_order)
         else:
             entries.sort(key=lambda entry: entry.published, reverse=True)
-        pages = max(1, (len(entries) + PAGE_SIZE - 1) // PAGE_SIZE)
+        page_size = PAGE_SIZE if paginate else max(1, len(entries))
+        pages = max(1, (len(entries) + page_size - 1) // page_size)
         for index in range(1, pages + 1):
             page = _page_path(path, index)
-            selected = entries[(index - 1) * PAGE_SIZE : index * PAGE_SIZE]
+            selected = entries[(index - 1) * page_size : index * page_size]
             page_title = title if index == 1 else f"{title} (page {index})"
             self.page(
                 page,
@@ -507,6 +509,7 @@ class Site:
                 author_names[slug],
                 authors[slug],
                 table_column="column",
+                paginate=False,
             )
         for (lang, slug), records in localized_authors.items():
             self.entries_page(
@@ -515,6 +518,7 @@ class Site:
                 records,
                 lang=lang,
                 table_column="column",
+                paginate=False,
             )
 
         self.column_navigation(columns)
