@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/feature/2010/10-06-the-great-designer-search-2-essay-questions
 title: 'The Great Designer Search 2: Essay Questions'
 published: '2010-10-06'
-column_slug: feature
-column: Feature
+column_slug: greatdesignersearch2
+column: Great Designer Search 2
 authors:
 - slug: markrosewater
   name: Mark Rosewater
@@ -41,6 +41,8 @@ metadata_evidence:
     captured_at: '2021-10-18 09:07:45+00'
     rule: url.article_section
     registry_match: registry.explicit
+  duplicate_sources:
+  - ecy0d796
 sources:
 - document_id: 8qx2m71g
   url: https://magic.wizards.com/en/articles/archive/feature/great-designer-search-2-essay-questions-2010-10-06
@@ -58,7 +60,15 @@ sources:
   captured_at: '2013-05-20 15:16:28+00'
   capture_id: 576311
   wayback_url: https://web.archive.org/web/20130520151628id_/http://wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/feature/111a
-source_selection: The catalog's primary source rendered.
+- document_id: ecy0d796
+  url: https://magic.wizards.com/en/articles/archive/great-designer-search-2-essay-questions-2010-10-06
+  page_key: magic.wizards.com/en/articles/archive/great-designer-search-2-essay-questions-2010-10-06
+  lang: en
+  template: drupal
+  captured_at: '2022-01-27 18:55:32+00'
+  capture_id: 702314
+  wayback_url: https://web.archive.org/web/20220127185532id_/https://magic.wizards.com/en/articles/archive/great-designer-search-2-essay-questions-2010-10-06
+source_selection: Kept this article's selected capture and recorded the matching captures.
 archive_source:
   document_id: 8qx2m71g
   capture_id: 632734

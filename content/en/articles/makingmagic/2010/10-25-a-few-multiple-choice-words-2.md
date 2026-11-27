@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/makingmagic/2010/10-25-a-few-multiple-choice-words-2
 title: A Few Multiple-Choice Words
 published: '2010-10-25'
-column_slug: makingmagic
-column: Making Magic
+column_slug: greatdesignersearch2
+column: Great Designer Search 2
 authors:
 - slug: markrosewater
   name: Mark Rosewater
@@ -42,6 +42,7 @@ metadata_evidence:
     rule: drupal.posted_in_link
     registry_match: registry.explicit
   duplicate_sources:
+  - 4mkzkhhm
   - rbcr6vfs
 sources:
 - document_id: c5r4107c
@@ -76,6 +77,14 @@ sources:
   captured_at: '2013-12-25 06:39:59+00'
   capture_id: 639198
   wayback_url: https://web.archive.org/web/20131225063959id_/http://www.wizards.com/magic/magazine/Article.aspx?x=mtg/daily/mm/114
+- document_id: 4mkzkhhm
+  url: https://magic.wizards.com/en/articles/archive/few-multiple-choice-words-2010-10-25
+  page_key: magic.wizards.com/en/articles/archive/few-multiple-choice-words-2010-10-25
+  lang: en
+  template: drupal
+  captured_at: '2022-01-27 19:01:44+00'
+  capture_id: 696434
+  wayback_url: https://web.archive.org/web/20220127190144id_/https://magic.wizards.com/en/articles/archive/few-multiple-choice-words-2010-10-25
 source_selection: Kept this article's selected capture and recorded the matching captures.
 archive_source:
   document_id: c5r4107c
@@ -97,10 +106,10 @@ For those of you who have been living under a rock, a few weeks ago we [began Th
 
 The first test was an [essay test](https://web.archive.org/web/20101025000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/feature/111a) with ten questions each requiring an answer from 250-350 words. The third test was a [design test](https://web.archive.org/web/20101025000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/feature/112a), making the designers create their own word and then create ten preview cards to show it off. The middle test is the topic of today's column. To advance from the second to the third round, you had to take a fifty-question multiple-choice test. The test was graded on a curve, as only one hundred of the applicants (approximately) would pass. That cut ended up being a score of 44.
 
-Do you have what it takes to pass? Find out today as I let all of you take the test. Afterwards, we'll give you your score and then I'll walk you through all the answers—yours, and the correct ones. (If you don't want to take the test, just click [here](https://web.archive.org/web/20101025000000/https://magic.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/mm/114aamp;showme=true) and it will take you right to the answers.)
+Do you have what it takes to pass? Find out today as I let all of you take the test. Afterwards, we'll give you your score and then I'll walk you through all the answers—yours, and the correct ones. (If you don't want to take the test, just click [here](/en/articles/makingmagic/2010/10-25-a-few-multiple-choice-words) and it will take you right to the answers.)
 
 The rules for this test were simple. Applicants could use any resource they wanted except for other people. (Hint: Making Magic columns are very useful.) They were given twenty-four hours. Those were the rules. So, let's see how you measure up to the 790 applicants who took the multiple-choice test.
 
-Ready? Click [here](https://web.archive.org/web/20101025000000/https://magic.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/mm/114a).
+Ready? Click [here](https://web.archive.org/web/20130707143800id_/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/mm/114a).
 
 [![](https://i.ormos.uk/96/f8/96f8240a453a6bfdf11d04eaa34389bb32f8cb9cac8666ec851e063dc0f011f4.jpg)](https://web.archive.org/web/20101025000000/http://staging.wizards.com/Magic/TCG/Events.aspx?x=mtgcom/events/gameday-facts)

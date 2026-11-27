@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/feature/2010/11-03-the-great-designer-search-2-meet-the-finalists
 title: The Great Designer Search 2 – Meet the Finalists
 published: '2010-11-03'
-column_slug: feature
-column: Feature
+column_slug: greatdesignersearch2
+column: Great Designer Search 2
 authors:
 - slug: markrosewater
   name: Mark Rosewater
@@ -41,6 +41,8 @@ metadata_evidence:
     captured_at: '2022-06-26 11:16:42+00'
     rule: url.article_section
     registry_match: registry.explicit
+  duplicate_sources:
+  - pgn0b8ed
 sources:
 - document_id: pfn1k33z
   url: https://magic.wizards.com/en/articles/archive/feature/great-designer-search-2-%E2%80%93-meet-finalists-2010-11-03
@@ -58,7 +60,15 @@ sources:
   captured_at: '2013-06-09 10:08:16+00'
   capture_id: 576526
   wayback_url: https://web.archive.org/web/20130609100816id_/http://www.wizards.com/magic/magazine/Article.aspx?x=mtg/daily/feature/115z
-source_selection: The catalog's primary source rendered.
+- document_id: pgn0b8ed
+  url: https://magic.wizards.com/en/articles/archive/great-designer-search-2-meet-finalists-2010-11-03
+  page_key: magic.wizards.com/en/articles/archive/great-designer-search-2-meet-finalists-2010-11-03
+  lang: en
+  template: drupal
+  captured_at: '2021-05-03 06:17:26+00'
+  capture_id: 703580
+  wayback_url: https://web.archive.org/web/20210503061726id_/https://magic.wizards.com/en/articles/archive/great-designer-search-2-meet-finalists-2010-11-03
+source_selection: Kept this article's selected capture and recorded the matching captures.
 archive_source:
   document_id: pfn1k33z
   capture_id: 632731
@@ -292,7 +302,7 @@ I bring a focused dedication to this process and the eventual internship. Since 
 
 I am in sync with the state of design at Wizards. My work on *GDS1* speaks for itself, and during my practice design in September, I concurrently designed at least 3 *Scars of Mirrodin* cards.
 
-I have worked as an engineer at a small (10 people) company for almost 10 years. This means that I have to work well with a small team, wear multiple hats and switch between them effortlessly, jump into unfamiliar tasks and learn them on the job, and that often the future of the company rests on me completing my tasks successfully and on time.
+I have worked as an engineer at a small (&lt;10 people) company for almost 10 years. This means that I have to work well with a small team, wear multiple hats and switch between them effortlessly, jump into unfamiliar tasks and learn them on the job, and that often the future of the company rests on me completing my tasks successfully and on time.
 
 I have a very logical mind, and love solving puzzles, particularly finding a new puzzle type and deducing the rules and tricks that you need to use to solve it.
 

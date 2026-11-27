@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/feature/2010/12-08-gds2-episode-3-design-challenge-elimination
 title: 'GDS2, Episode 3: Design Challenge Elimination'
 published: '2010-12-08'
-column_slug: feature
-column: Feature
+column_slug: greatdesignersearch2
+column: Great Designer Search 2
 authors:
 - slug: markrosewater
   name: Mark Rosewater
@@ -41,6 +41,8 @@ metadata_evidence:
     captured_at: '2022-10-06 03:21:07+00'
     rule: url.article_section
     registry_match: registry.explicit
+  duplicate_sources:
+  - f5cj86r7
 sources:
 - document_id: 3h2bjd27
   url: https://magic.wizards.com/en/articles/archive/feature/gds2-episode-3-design-challenge-elimination-2010-12-08
@@ -58,7 +60,15 @@ sources:
   captured_at: '2013-05-21 11:00:29+00'
   capture_id: 578053
   wayback_url: https://web.archive.org/web/20130521110029id_/http://wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/feature/120y
-source_selection: The catalog's primary source rendered.
+- document_id: f5cj86r7
+  url: https://magic.wizards.com/en/articles/archive/gds2-episode-3-design-challenge-elimination-2010-12-08
+  page_key: magic.wizards.com/en/articles/archive/gds2-episode-3-design-challenge-elimination-2010-12-08
+  lang: en
+  template: drupal
+  captured_at: '2022-01-27 19:02:54+00'
+  capture_id: 699703
+  wayback_url: https://web.archive.org/web/20220127190254id_/https://magic.wizards.com/en/articles/archive/gds2-episode-3-design-challenge-elimination-2010-12-08
+source_selection: Kept this article's selected capture and recorded the matching captures.
 archive_source:
   document_id: 3h2bjd27
   capture_id: 628435

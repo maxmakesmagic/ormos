@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/feature/2011/01-12-the-great-designer-search-2-finalists-devon-rule
 title: 'The Great Designer Search 2 Finalists: Devon Rule'
 published: '2011-01-12'
-column_slug: feature
-column: Feature
+column_slug: greatdesignersearch2
+column: Great Designer Search 2
 authors:
 - slug: magicthegathering-com-staff-e1e04d6d
   name: magicthegathering.com Staff

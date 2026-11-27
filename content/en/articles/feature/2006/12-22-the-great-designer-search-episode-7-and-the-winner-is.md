@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/feature/2006/12-22-the-great-designer-search-episode-7-and-the-winner-is
 title: 'The Great Designer Search Episode #7 “And The Winner Is…”'
 published: '2006-12-22'
-column_slug: feature
-column: Feature
+column_slug: greatdesignersearch
+column: Great Designer Search
 authors:
 - slug: markrosewater
   name: Mark Rosewater

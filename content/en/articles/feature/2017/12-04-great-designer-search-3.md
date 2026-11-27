@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/feature/2017/12-04-great-designer-search-3
 title: Great Designer Search 3
 published: '2017-12-04'
-column_slug: feature
-column: Feature
+column_slug: greatdesignersearch3
+column: Great Designer Search 3
 authors:
 - slug: wizardsofthecoast
   name: Wizards of the Coast

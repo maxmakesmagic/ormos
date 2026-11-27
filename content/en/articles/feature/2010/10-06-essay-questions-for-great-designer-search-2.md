@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/feature/2010/10-06-essay-questions-for-great-designer-search-2
 title: Essay Questions for Great Designer Search 2
 published: '2010-10-06'
-column_slug: feature
-column: Feature
+column_slug: greatdesignersearch2
+column: Great Designer Search 2
 authors: []
 detected_lang: en
 unresolved_authors:
@@ -41,6 +41,8 @@ metadata_evidence:
     captured_at: '2021-10-22 08:13:59+00'
     rule: url.article_section
     registry_match: registry.explicit
+  duplicate_sources:
+  - 8jtcnfqc
 sources:
 - document_id: 58yfccmz
   url: https://magic.wizards.com/en/articles/archive/feature/essay-questions-great-designer-search-2-2010-10-06
@@ -58,7 +60,15 @@ sources:
   captured_at: '2013-03-14 21:31:56+00'
   capture_id: 576322
   wayback_url: https://web.archive.org/web/20130314213156id_/http://www.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/feature/111b
-source_selection: The catalog's primary source rendered.
+- document_id: 8jtcnfqc
+  url: https://magic.wizards.com/en/articles/archive/essay-questions-great-designer-search-2-2010-10-06
+  page_key: magic.wizards.com/en/articles/archive/essay-questions-great-designer-search-2-2010-10-06
+  lang: en
+  template: drupal
+  captured_at: '2022-01-27 18:33:42+00'
+  capture_id: 305510
+  wayback_url: https://web.archive.org/web/20220127183342id_/https://magic.wizards.com/en/articles/archive/essay-questions-great-designer-search-2-2010-10-06
+source_selection: Kept this article's selected capture and recorded the matching captures.
 archive_source:
   document_id: 58yfccmz
   capture_id: 624812

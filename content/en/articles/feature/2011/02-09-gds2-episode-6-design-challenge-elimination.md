@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/feature/2011/02-09-gds2-episode-6-design-challenge-elimination
 title: 'GDS2, Episode 6: Design Challenge Elimination'
 published: '2011-02-09'
-column_slug: feature
-column: Feature
+column_slug: greatdesignersearch2
+column: Great Designer Search 2
 authors:
 - slug: markrosewater
   name: Mark Rosewater
@@ -41,6 +41,8 @@ metadata_evidence:
     captured_at: '2013-05-30 18:32:58+00'
     rule: aspx.legacy_column_rule
     registry_match: registry.explicit
+  duplicate_sources:
+  - bezvvc7q
 sources:
 - document_id: wfppt43w
   url: https://magic.wizards.com/en/articles/archive/gds2-episode-6-design-challenge-elimination-2011-02-09-0
@@ -58,7 +60,15 @@ sources:
   captured_at: '2013-05-30 18:32:58+00'
   capture_id: 578621
   wayback_url: https://web.archive.org/web/20130530183258id_/http://wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/feature/129y
-source_selection: The catalog's primary source rendered.
+- document_id: bezvvc7q
+  url: https://magic.wizards.com/en/articles/archive/gds2-episode-6-design-challenge-elimination-2011-02-09
+  page_key: magic.wizards.com/en/articles/archive/gds2-episode-6-design-challenge-elimination-2011-02-09
+  lang: en
+  template: drupal
+  captured_at: '2022-01-27 19:04:41+00'
+  capture_id: 699751
+  wayback_url: https://web.archive.org/web/20220127190441id_/https://magic.wizards.com/en/articles/archive/gds2-episode-6-design-challenge-elimination-2011-02-09
+source_selection: Kept this article's selected capture and recorded the matching captures.
 archive_source:
   document_id: wfppt43w
   capture_id: 699760

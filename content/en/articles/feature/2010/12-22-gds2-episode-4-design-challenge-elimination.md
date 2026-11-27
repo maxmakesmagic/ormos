@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/feature/2010/12-22-gds2-episode-4-design-challenge-elimination
 title: 'GDS2, Episode 4: Design Challenge Elimination'
 published: '2010-12-22'
-column_slug: feature
-column: Feature
+column_slug: greatdesignersearch2
+column: Great Designer Search 2
 authors:
 - slug: markrosewater
   name: Mark Rosewater
@@ -42,6 +42,7 @@ metadata_evidence:
     rule: url.article_section
     registry_match: registry.explicit
   duplicate_sources:
+  - nhgtkarp
   - qxbsh4eq
 sources:
 - document_id: 7nj67g69
@@ -60,6 +61,14 @@ sources:
   captured_at: '2013-05-21 17:42:59+00'
   capture_id: 578194
   wayback_url: https://web.archive.org/web/20130521174259id_/http://wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/feature/122y
+- document_id: nhgtkarp
+  url: https://magic.wizards.com/en/articles/archive/gds2-episode-4-design-challenge-elimination-2010-12-22
+  page_key: magic.wizards.com/en/articles/archive/gds2-episode-4-design-challenge-elimination-2010-12-22
+  lang: en
+  template: drupal
+  captured_at: '2021-05-03 06:19:25+00'
+  capture_id: 699705
+  wayback_url: https://web.archive.org/web/20210503061925id_/https://magic.wizards.com/en/articles/archive/gds2-episode-4-design-challenge-elimination-2010-12-22
 source_selection: Kept this article's selected capture and recorded the matching captures.
 archive_source:
   document_id: 7nj67g69

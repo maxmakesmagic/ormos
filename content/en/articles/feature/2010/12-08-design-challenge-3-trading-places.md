@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/feature/2010/12-08-design-challenge-3-trading-places
 title: 'Design Challenge #3: "Trading Places"'
 published: '2010-12-08'
-column_slug: feature
-column: Feature
+column_slug: greatdesignersearch2
+column: Great Designer Search 2
 authors:
 - slug: markrosewater
   name: Mark Rosewater
@@ -42,6 +42,7 @@ metadata_evidence:
     rule: aspx.legacy_column_rule
     registry_match: registry.explicit
   duplicate_sources:
+  - gvh32s16
   - wcekqn5e
 sources:
 - document_id: gtg7rzwb
@@ -68,6 +69,14 @@ sources:
   captured_at: '2022-10-07 10:17:07+00'
   capture_id: 617709
   wayback_url: https://web.archive.org/web/20221007101707id_/https://magic.wizards.com/en/articles/archive/feature/design-challenge-3-trading-places-2010-12-08
+- document_id: gvh32s16
+  url: https://magic.wizards.com/en/articles/archive/design-challenge-3-trading-places-2010-12-08
+  page_key: magic.wizards.com/en/articles/archive/design-challenge-3-trading-places-2010-12-08
+  lang: en
+  template: drupal
+  captured_at: '2022-01-27 16:45:33+00'
+  capture_id: 301822
+  wayback_url: https://web.archive.org/web/20220127164533id_/https://magic.wizards.com/en/articles/archive/design-challenge-3-trading-places-2010-12-08
 source_selection: Kept this article's selected capture and recorded the matching captures.
 archive_source:
   document_id: gtg7rzwb

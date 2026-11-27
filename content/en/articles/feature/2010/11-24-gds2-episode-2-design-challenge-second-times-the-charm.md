@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/feature/2010/11-24-gds2-episode-2-design-challenge-second-times-the-charm
 title: 'GDS2, Episode 2 Design Challenge: "Second Time''s the Charm"'
 published: '2010-11-24'
-column_slug: feature
-column: Feature
+column_slug: greatdesignersearch2
+column: Great Designer Search 2
 authors:
 - slug: markrosewater
   name: Mark Rosewater
@@ -42,6 +42,7 @@ metadata_evidence:
     rule: url.article_section
     registry_match: registry.explicit
   duplicate_sources:
+  - nbw2tbzs
   - xty70bap
 sources:
 - document_id: r6twk462
@@ -60,6 +61,14 @@ sources:
   captured_at: '2013-05-21 14:15:34+00'
   capture_id: 576767
   wayback_url: https://web.archive.org/web/20130521141534id_/http://wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/feature/118x
+- document_id: nbw2tbzs
+  url: https://magic.wizards.com/en/articles/archive/gds2-episode-2-design-challenge-second-times-charm-2010-11-24
+  page_key: magic.wizards.com/en/articles/archive/gds2-episode-2-design-challenge-second-times-charm-2010-11-24
+  lang: en
+  template: drupal
+  captured_at: '2022-01-27 17:07:24+00'
+  capture_id: 699683
+  wayback_url: https://web.archive.org/web/20220127170724id_/https://magic.wizards.com/en/articles/archive/gds2-episode-2-design-challenge-second-times-charm-2010-11-24
 source_selection: Kept this article's selected capture and recorded the matching captures.
 archive_source:
   document_id: r6twk462

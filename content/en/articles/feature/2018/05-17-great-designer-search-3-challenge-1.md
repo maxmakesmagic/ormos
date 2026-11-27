@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/feature/2018/05-17-great-designer-search-3-challenge-1
 title: 'Great Designer Search 3 – Challenge #1'
 published: '2018-05-17'
-column_slug: feature
-column: Feature
+column_slug: greatdesignersearch3
+column: Great Designer Search 3
 authors:
 - slug: markrosewater
   name: Mark Rosewater

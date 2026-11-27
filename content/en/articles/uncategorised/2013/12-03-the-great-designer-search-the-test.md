@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/uncategorised/2013/12-03-the-great-designer-search-the-test
 title: 'The Great Designer Search: The Test'
 published: '2013-12-03'
-column_slug: uncategorised
-column: uncategorised
+column_slug: greatdesignersearch
+column: Great Designer Search
 authors: []
 detected_lang: en
 metadata_evidence:

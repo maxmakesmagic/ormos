@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/feature/2006/11-02-the-great-designer-search-episode-2-gimme-five
 title: The Great Designer Search Episode 2 – “Gimme Five”
 published: '2006-11-02'
-column_slug: feature
-column: Feature
+column_slug: greatdesignersearch
+column: Great Designer Search
 authors:
 - slug: markrosewater
   name: Mark Rosewater

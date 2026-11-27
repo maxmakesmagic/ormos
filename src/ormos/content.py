@@ -209,13 +209,11 @@ class Document:
         return publication_day(self.published)
 
     def column_route(self) -> str:
-        """Return the archive path for the document's column."""
-        local = f"/{self.lang}/articles/{self.column_slug}"
-        return (
-            local
-            if self.path.startswith(f"{local}/")
-            else f"/columns/{self.column_slug}"
-        )
+        """Return the localized column path for an article's canonical route."""
+        parts = self.path.split("/")
+        if len(parts) == 6 and parts[1:3] == [self.lang, "articles"]:
+            return f"/{self.lang}/articles/{self.column_slug}"
+        return f"/columns/{self.column_slug}"
 
     def event_group(self) -> str:
         """Return the parent path of an event page, if it belongs to one."""

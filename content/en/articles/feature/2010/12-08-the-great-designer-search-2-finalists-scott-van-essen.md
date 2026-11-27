@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/feature/2010/12-08-the-great-designer-search-2-finalists-scott-van-essen
 title: 'The Great Designer Search 2 Finalists: Scott Van Essen'
 published: '2010-12-08'
-column_slug: feature
-column: Feature
+column_slug: greatdesignersearch2
+column: Great Designer Search 2
 authors:
 - slug: magicthegathering-com-staff-e1e04d6d
   name: magicthegathering.com Staff

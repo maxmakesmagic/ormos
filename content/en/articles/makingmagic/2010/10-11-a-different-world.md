@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/makingmagic/2010/10-11-a-different-world
 title: A Different World
 published: '2010-10-11'
-column_slug: makingmagic
-column: Making Magic
+column_slug: greatdesignersearch2
+column: Great Designer Search 2
 authors:
 - slug: markrosewater
   name: Mark Rosewater

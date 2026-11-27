@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/feature/2018/06-12-great-designer-search-3-final-day
 title: Great Designer Search 3 – Final Day
 published: '2018-06-12'
-column_slug: feature
-column: Feature
+column_slug: greatdesignersearch3
+column: Great Designer Search 3
 authors:
 - slug: markrosewater
   name: Mark Rosewater

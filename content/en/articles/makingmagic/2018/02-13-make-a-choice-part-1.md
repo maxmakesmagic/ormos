@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/makingmagic/2018/02-13-make-a-choice-part-1
 title: Make a Choice, Part 1
 published: '2018-02-13'
-column_slug: makingmagic
-column: Making Magic
+column_slug: greatdesignersearch3
+column: Great Designer Search 3
 authors:
 - slug: markrosewater
   name: Mark Rosewater

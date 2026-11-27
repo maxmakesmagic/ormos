@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/feature/2010/08-30-thank-you-sir-may-i-have-another
 title: Thank You Sir, May I Have Another
 published: '2010-08-30'
-column_slug: feature
-column: Feature
+column_slug: greatdesignersearch2
+column: Great Designer Search 2
 authors:
 - slug: markrosewater
   name: Mark Rosewater

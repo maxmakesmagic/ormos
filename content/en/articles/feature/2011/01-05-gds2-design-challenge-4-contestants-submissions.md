@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/feature/2011/01-05-gds2-design-challenge-4-contestants-submissions
 title: 'GDS2 Design Challenge #4: Contestants'' Submissions'
 published: '2011-01-05'
-column_slug: feature
-column: Feature
+column_slug: greatdesignersearch2
+column: Great Designer Search 2
 authors:
 - slug: magicthegathering-com-staff-e1e04d6d
   name: magicthegathering.com Staff

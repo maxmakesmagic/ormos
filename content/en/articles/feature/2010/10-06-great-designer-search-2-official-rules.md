@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/feature/2010/10-06-great-designer-search-2-official-rules
 title: Great Designer Search 2 Official Rules
 published: '2010-10-06'
-column_slug: feature
-column: Feature
+column_slug: greatdesignersearch2
+column: Great Designer Search 2
 authors:
 - slug: wizardsofthecoast
   name: Wizards of the Coast

@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/feature/2018/05-15-great-designer-search-3-judging-the-design-tests
 title: Great Designer Search 3 – Judging the Design Tests
 published: '2018-05-15'
-column_slug: feature
-column: Feature
+column_slug: greatdesignersearch3
+column: Great Designer Search 3
 authors:
 - slug: markrosewater
   name: Mark Rosewater

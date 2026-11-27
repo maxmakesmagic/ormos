@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/feature/2010/11-10-gds2-episode-1-lets-start-at-the-very-beginning-2
 title: 'GDS2, Episode 1: "Let''s Start at the Very Beginning"'
 published: '2010-11-10'
-column_slug: feature
-column: Feature
+column_slug: greatdesignersearch2
+column: Great Designer Search 2
 authors:
 - slug: markrosewater
   name: Mark Rosewater
@@ -41,6 +41,8 @@ metadata_evidence:
     captured_at: '2021-11-30 01:14:29+00'
     rule: url.article_section
     registry_match: registry.explicit
+  duplicate_sources:
+  - seas6kbp
 sources:
 - document_id: w2zp55et
   url: https://magic.wizards.com/en/articles/archive/feature/gds2-episode-1-lets-start-very-beginning-2010-11-10
@@ -66,7 +68,15 @@ sources:
   captured_at: '2016-07-08 12:11:07+00'
   capture_id: 699587
   wayback_url: https://web.archive.org/web/20160708121107id_/http://magic.wizards.com/en/articles/archive/gds2-episode-1-lets-start-very-beginning-2010-11-10-1
-source_selection: The catalog's primary source rendered.
+- document_id: seas6kbp
+  url: https://magic.wizards.com/en/articles/archive/gds2-episode-1-lets-start-very-beginning-2010-11-10-0
+  page_key: magic.wizards.com/en/articles/archive/gds2-episode-1-lets-start-very-beginning-2010-11-10-0
+  lang: en
+  template: drupal
+  captured_at: '2022-01-22 00:45:45+00'
+  capture_id: 699583
+  wayback_url: https://web.archive.org/web/20220122004545id_/https://magic.wizards.com/en/articles/archive/gds2-episode-1-lets-start-very-beginning-2010-11-10-0
+source_selection: Kept this article's selected capture and recorded the matching captures.
 archive_source:
   document_id: w2zp55et
   capture_id: 628424

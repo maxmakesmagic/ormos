@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/feature/2010/09-29-the-great-designer-search-2-this-time-its-personal
 title: 'The Great Designer Search 2: "This Time It''s Personal"'
 published: '2010-09-29'
-column_slug: feature
-column: Feature
+column_slug: greatdesignersearch2
+column: Great Designer Search 2
 authors:
 - slug: markrosewater
   name: Mark Rosewater
@@ -41,6 +41,8 @@ metadata_evidence:
     captured_at: '2021-10-18 18:17:31+00'
     rule: url.article_section
     registry_match: registry.explicit
+  duplicate_sources:
+  - 34pby6hn
 sources:
 - document_id: h0cre6je
   url: https://magic.wizards.com/en/articles/archive/feature/great-designer-search-2-time-its-personal-2010-09-29
@@ -58,7 +60,15 @@ sources:
   captured_at: '2013-05-21 11:46:15+00'
   capture_id: 576270
   wayback_url: https://web.archive.org/web/20130521114615id_/http://wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/feature/110a
-source_selection: The catalog's primary source rendered.
+- document_id: 34pby6hn
+  url: https://magic.wizards.com/en/articles/archive/great-designer-search-2-time-its-personal-2010-09-29
+  page_key: magic.wizards.com/en/articles/archive/great-designer-search-2-time-its-personal-2010-09-29
+  lang: en
+  template: drupal
+  captured_at: '2021-05-03 06:17:32+00'
+  capture_id: 703784
+  wayback_url: https://web.archive.org/web/20210503061732id_/https://magic.wizards.com/en/articles/archive/great-designer-search-2-time-its-personal-2010-09-29
+source_selection: Kept this article's selected capture and recorded the matching captures.
 archive_source:
   document_id: h0cre6je
   capture_id: 632796

@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/feature/2013/12-03-the-great-designer-search-episode-3-picture-this
 title: 'The Great Designer Search Episode #3 - "Picture This"'
 published: '2013-12-03'
-column_slug: feature
-column: Feature
+column_slug: greatdesignersearch
+column: Great Designer Search
 authors: []
 detected_lang: en
 metadata_evidence:

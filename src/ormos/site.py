@@ -304,18 +304,19 @@ class Site:
         self, slug: str, title: str, records: list[Document]
     ) -> list[tuple[str, CountedLink]]:
         """Write pages for a column and return its entries in each language directory."""
+        global_path = f"/columns/{slug}"
         localized = defaultdict(list)
         for entry in records:
-            parts = entry.path.split("/")
-            if len(parts) == 6 and parts[1:4] == [entry.lang, "articles", slug]:
-                localized[entry.lang].append(entry)
+            path = entry.column_route()
+            if path != global_path:
+                localized[(entry.lang, path)].append(entry)
 
-        path = f"/columns/{slug}"
-        self.entries_page(path, title, records, table_column="author", paginate=False)
+        self.entries_page(
+            global_path, title, records, table_column="author", paginate=False
+        )
 
         choices = []
-        for lang, language_records in localized.items():
-            path = f"/{lang}/articles/{slug}"
+        for (lang, path), language_records in localized.items():
             self.entries_page(
                 path,
                 title,

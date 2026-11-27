@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/feature/2018/03-09-great-designer-search-3-meet-the-top-8
 title: Great Designer Search 3 – Meet the Top 8
 published: '2018-03-09'
-column_slug: feature
-column: Feature
+column_slug: greatdesignersearch3
+column: Great Designer Search 3
 authors:
 - slug: markrosewater
   name: Mark Rosewater

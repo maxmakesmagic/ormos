@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/feature/2013/12-03-the-great-designer-search-multiple-choice-test-answers
 title: The Great Designer Search Multiple Choice Test Answers
 published: '2013-12-03'
-column_slug: feature
-column: Feature
+column_slug: greatdesignersearch
+column: Great Designer Search
 authors: []
 detected_lang: en
 metadata_evidence:

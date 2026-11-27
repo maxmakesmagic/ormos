@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/feature/2010/11-24-gds2-episode-2-common-ground
 title: 'GDS2, Episode 2: Common Ground'
 published: '2010-11-24'
-column_slug: feature
-column: Feature
+column_slug: greatdesignersearch2
+column: Great Designer Search 2
 authors:
 - slug: markrosewater
   name: Mark Rosewater
@@ -41,6 +41,8 @@ metadata_evidence:
     captured_at: '2013-05-21 06:02:06+00'
     rule: aspx.archive_link_column
     registry_match: registry.explicit
+  duplicate_sources:
+  - 6v83vsat
 sources:
 - document_id: 97pvw8qv
   url: https://magic.wizards.com/en/articles/archive/gds2-episode-2-common-ground-2010-11-24-0
@@ -58,7 +60,15 @@ sources:
   captured_at: '2013-05-21 06:02:06+00'
   capture_id: 576787
   wayback_url: https://web.archive.org/web/20130521060206id_/http://wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/feature/118z
-source_selection: The catalog's primary source rendered.
+- document_id: 6v83vsat
+  url: https://magic.wizards.com/en/articles/archive/gds2-episode-2-common-ground-2010-11-24
+  page_key: magic.wizards.com/en/articles/archive/gds2-episode-2-common-ground-2010-11-24
+  lang: en
+  template: drupal
+  captured_at: '2021-10-24 16:28:07+00'
+  capture_id: 699632
+  wayback_url: https://web.archive.org/web/20211024162807id_/https://magic.wizards.com/en/articles/archive/gds2-episode-2-common-ground-2010-11-24
+source_selection: Kept this article's selected capture and recorded the matching captures.
 archive_source:
   document_id: 97pvw8qv
   capture_id: 699681

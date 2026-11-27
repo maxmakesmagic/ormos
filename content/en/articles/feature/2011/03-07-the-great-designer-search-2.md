@@ -5,8 +5,8 @@ lang: en
 path: /en/articles/feature/2011/03-07-the-great-designer-search-2
 title: The Great Designer Search 2
 published: '2011-03-07'
-column_slug: feature
-column: Feature
+column_slug: greatdesignersearch2
+column: Great Designer Search 2
 authors:
 - slug: magicthegathering-com-staff-e1e04d6d
   name: magicthegathering.com Staff
@@ -41,6 +41,8 @@ metadata_evidence:
     captured_at: '2014-06-11 01:47:16+00'
     rule: aspx.archive_link_column
     registry_match: registry.explicit
+  duplicate_sources:
+  - dse581fg
 sources:
 - document_id: r2nj2sdw
   url: https://magic.wizards.com/en/articles/archive/great-designer-search-2-2011-03-07-0
@@ -58,7 +60,15 @@ sources:
   captured_at: '2014-06-11 01:47:16+00'
   capture_id: 578780
   wayback_url: https://web.archive.org/web/20140611014716id_/http://www.wizards.com/magic/magazine/article.aspx?x=mtg/daily/feature/133
-source_selection: The catalog's primary source rendered.
+- document_id: dse581fg
+  url: https://magic.wizards.com/en/articles/archive/great-designer-search-2-2011-03-07
+  page_key: magic.wizards.com/en/articles/archive/great-designer-search-2-2011-03-07
+  lang: en
+  template: drupal
+  captured_at: '2022-10-01 21:44:19+00'
+  capture_id: 702280
+  wayback_url: https://web.archive.org/web/20221001214419id_/https://magic.wizards.com/en/articles/archive/great-designer-search-2-2011-03-07
+source_selection: Kept this article's selected capture and recorded the matching captures.
 archive_source:
   document_id: r2nj2sdw
   capture_id: 702311
@@ -81,16 +91,16 @@ The initial ten-question essay test garnered 1,120 submissions, and 790 of those
 
 The eight contestants would compete in a series of Design Challenges, with one cut after each challenge, until three finalists remained. Those three would be flown out to Wizards HQ in Renton, WA for a series of interviews and an in-person design test, with the winner receiving a six-month paid internship in **Magic** R&D.
 
-Below are links to the major milestones of the GDS2. Check out the [live coverage of the three finalists' trip to Renton during the day on Monday, March 7](https://web.archive.org/web/20110307000000/http://archive.wizards.com/Magic/Magazine/Article.aspx?x=mtg/daily/feature/133a)!
+Below are links to the major milestones of the GDS2. Check out the [live coverage of the three finalists' trip to Renton during the day on Monday, March 7](/en/articles/feature/2011/03-07-gds2-finals-coverage)!
 
 ### The Lead-Up
 
 > *   [Initial Announcement – The Great Designer Search 2: "This Time It's Personal"](https://web.archive.org/web/20110307000000/https://magic.wizards.com/en/articles/archive/great-designer-search-2-time-its-personal-2010-09-29-0)
-> *   [GDS2 Wiki Hub Page](https://web.archive.org/web/20110307000000/http://community.wizards.com/magicthegathering/wiki/labs:Gds/gds2)
+> *   [GDS2 Wiki Hub Page](https://web.archive.org/web/20110307000000/http://community.wizards.com/magicthegathering/wiki/labs:Gds/gds2) (This Wiki is no longer operating.)
 > *   [Introduction to Essay Questions](https://web.archive.org/web/20110307000000/https://magic.wizards.com/en/articles/archive/great-designer-search-2-essay-questions-2010-10-06-0)
 > *   [Essay Questions](https://web.archive.org/web/20110307000000/https://magic.wizards.com/en/articles/archive/essay-questions-great-designer-search-2-2010-10-06-0)
 > *   [Mark's Essay Answers – Essay What](https://web.archive.org/web/20110307000000/https://magic.wizards.com/en/articles/archive/essay-what-2010-11-08-0)
-> *   [Public Multiple-Choice Test – A Few Multiple-Choice Words](https://web.archive.org/web/20110307000000/https://magic.wizards.com/en/articles/archive/few-multiple-choice-words-2010-10-25-0)
+> *   [Public Multiple-Choice Test – A Few Multiple-Choice Words](/en/articles/makingmagic/2010/10-25-a-few-multiple-choice-words-2)
 > *   [The Design Test](https://web.archive.org/web/20110307000000/https://magic.wizards.com/en/articles/archive/design-test-2010-10-15-0)
 
 ### The Show
@@ -149,5 +159,6 @@ Below are links to the major milestones of the GDS2. Check out the [live coverag
 
   
   
-[![](https://i.ormos.uk/d5/7f/d57f8c528966b1d14c7390e62257f576470ac11f71aaecfce879e4ca6d69dfc2.jpg)](/en/articles/feature/2011/03-07-gds2-finals-coverage)  
-[![](https://i.ormos.uk/2b/4f/2b4f0e1271f2df1a7c9bff1e63e04c01fd43efac914f04bbf772a367d48b39f0.jpg)](/en/articles/feature/2011/03-09-announcing-the-winner-of-the-gds2)
+[![Finals Coverage](https://i.ormos.uk/d5/7f/d57f8c528966b1d14c7390e62257f576470ac11f71aaecfce879e4ca6d69dfc2.jpg)](/en/articles/feature/2011/03-07-gds2-finals-coverage)
+
+[![Announcing the Winner](https://i.ormos.uk/2b/4f/2b4f0e1271f2df1a7c9bff1e63e04c01fd43efac914f04bbf772a367d48b39f0.jpg)](/en/articles/feature/2011/03-09-announcing-the-winner-of-the-gds2)
