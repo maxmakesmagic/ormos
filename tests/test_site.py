@@ -1,5 +1,6 @@
 """Check the generated archive navigation."""
 
+import re
 from dataclasses import replace
 from pathlib import Path
 
@@ -138,6 +139,57 @@ def test_articles_landing_page_without_dated_articles(tmp_path: Path) -> None:
 
     assert "Browse 1 archived article." in landing
     assert f'href="{undated.path}"' in archive
+
+
+def test_author_tables_show_all_articles_in_date_order(
+    tmp_path: Path, monkeypatch: pytest.MonkeyPatch
+) -> None:
+    """List all articles in date order on global and localized author pages."""
+    monkeypatch.setattr("ormos.site.PAGE_SIZE", 4)
+    articles = [
+        replace(
+            _document(slug, day),
+            lang=language,
+            path=f"/{language}/articles/feature/2024/{slug}",
+            authors=(Person("alice", "Alice"),),
+            column_slug="feature",
+            column="Feature",
+        )
+        for slug, day, language in (
+            ("undated", "", "fr"),
+            ("same-b", "2024-06-01", "fr"),
+            ("late", "2024-07-17", "fr"),
+            ("english", "2023-12-15", "en"),
+            ("early", "2024-01-01", "fr"),
+            ("sentinel", "1969-12-31", "fr"),
+            ("same-a", "2024-06-01", "fr"),
+        )
+    ]
+    _write_navigation(tmp_path, articles)
+    paths = {article.id: article.path for article in articles}
+
+    french_rows = ("early", "same-a", "same-b", "late", "sentinel", "undated")
+    for author, rows in (
+        ("/authors/alice", ("english", *french_rows)),
+        ("/fr/authors/alice", french_rows),
+    ):
+        page = site_file(tmp_path, author).read_text(encoding="utf-8")
+        assert not site_file(tmp_path, f"{author}/page/2").exists()
+        assert 'class="pagination"' not in page
+        assert "data-sort-scope" not in page
+        assert page.count(">Undated</td>") == 2
+        assert 'datetime="1969-12-31"' not in page
+        assert '<script type="module" src="/assets/column-sort.js"></script>' in page
+        assert 'aria-sort="ascending"' in page
+        assert re.findall(r'data-sort-key="([a-z]+)"', page) == [
+            "date",
+            "title",
+            "column",
+        ]
+        table = page.split("<tbody>", 1)[1].split("</tbody>", 1)[0]
+        assert re.findall(r'href="([^"]+)"', table) == [
+            link for row in rows for link in (paths[row], "/columns/feature")
+        ]
 
 
 def test_column_tables_keep_year_links_and_sort_hooks(tmp_path: Path) -> None:

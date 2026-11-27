@@ -15,13 +15,14 @@
 </ol>
 {%- endmacro %}
 
-{% macro column_table(title, records, paginated) -%}
+{% macro entries_table(title, records, paginated, table_column) -%}
 <section data-column-table>
 {%- if paginated %}<p class="sort-scope" data-sort-scope hidden>Sorting applies to the rows on this page.</p>{% endif -%}
 <div class="table-scroll" tabindex="0" role="region" aria-label="{{ title | escape_html }} articles">
 <table class="column-table"><caption class="visually-hidden">{{ title | escape_html }}</caption>
 <thead><tr>
-{%- for key, label in (("date", "Publication date"), ("title", "Article"), ("author", "Author")) -%}
+{%- set detail = "Column" if table_column == "column" else "Author" -%}
+{%- for key, label in (("date", "Publication date"), ("title", "Article"), (table_column, detail)) -%}
   <th scope="col"{% if key == "date" %} aria-sort="ascending"{% endif %}><span data-sort-label>{{ label }}</span>
     <button type="button" data-sort-key="{{ key }}" hidden>{{ label }}<span class="sort-indicator" aria-hidden="true"></span></button></th>
 {%- endfor -%}
@@ -31,7 +32,11 @@
   {%- set day = entry.day -%}
   <tr><td data-sort-value="{{ day.isoformat() if day else '' }}">{{ publication_time(day) if day else "Undated" }}</td>
     <td>{{ link(entry.path, entry.title) }}</td>
-    <td{% if not entry.authors %} data-sort-value=""{% endif %}>{{ author_links(entry) if entry.authors else "—" }}</td></tr>
+    {%- if table_column == "column" %}
+    <td{% if not entry.column_slug %} data-sort-value=""{% endif %}>{{ link("/columns/" ~ entry.column_slug, entry.column) if entry.column_slug else "—" }}</td>
+    {%- else %}
+    <td{% if not entry.authors %} data-sort-value=""{% endif %}>{{ author_links(entry) if entry.authors else "—" }}</td>
+    {%- endif %}</tr>
 {%- endfor -%}
 </tbody></table></div>
 <p class="visually-hidden" data-sort-status role="status"></p></section>
